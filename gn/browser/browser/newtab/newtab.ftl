@@ -700,8 +700,6 @@ newtab-widget-timer-menu-notifications = Eipe’a ñemomarandu
 newtab-widget-timer-menu-notifications-on = Emyandy marandu’i
 newtab-widget-timer-menu-hide = Eñomi aravopapaha
 newtab-widget-timer-menu-learn-more = Kuaave
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Emongu’e ehechave hag̃ua
 newtab-widget-message-title = Epyta umi tysýi ndive ha aravopapaha reheve
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Mandu’arã guive tembiaporã peve, ñamindu’u ha jepytu’u jehetetirarã, ema’ẽ ne rembiapo ha aravo rehe.

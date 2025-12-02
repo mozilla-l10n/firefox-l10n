@@ -700,8 +700,6 @@ newtab-widget-timer-menu-notifications = შეტყობინებები
 newtab-widget-timer-menu-notifications-on = შეტყობინებების ჩართვა
 newtab-widget-timer-menu-hide = წამმზომის დამალვა
 newtab-widget-timer-menu-learn-more = ვრცლად
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = ჩაუყევით ვრცლად სანახავად
 newtab-widget-message-title = მოიკრიბეთ ყურადღება სიებისა და ჩაშენებული წამმზომის მეშვეობით
 # to-dos stands for "things to do".
 newtab-widget-message-copy = სწრაფი შეხსენებები იქნება ეს, თუ ყოველდღიური საქმიანობები, დაძაბული სამუშაო მონაკვეთები თუ შესვენებები განსატვირთად — მიჰყევით და ნუ გადაუხვევთ გეგმებს.

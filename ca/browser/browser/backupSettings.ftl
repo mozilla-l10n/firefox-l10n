@@ -133,11 +133,6 @@ backup-service-error-unsupported-application =
 backup-service-error-went-wrong2 =
     .heading = Hi ha hagut un problema en fer la còpia de seguretat.
     .message = Torneu-ho a provar d'aquí a uns quants minuts.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Hi ha hagut un error
-    .message = Hi ha hagut un problema amb el procés de la còpia de seguretat del { -brand-short-name }. Torneu-ho a provar o reinicieu el { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

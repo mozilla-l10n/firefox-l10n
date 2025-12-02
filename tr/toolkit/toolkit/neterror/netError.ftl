@@ -168,12 +168,11 @@ certerror-coep-learn-more = Cross Origin Embedder İlkeleri (COEP) hakkında dah
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Hata kodu: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }, { $hostname } sunucusuyla güvenli bir bağlantı kuramıyor.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Bu site, bilinen güvenlik sorunları olan eski bir yazılım kullanıyor.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = { -brand-short-name } tarayıcısının son sürümünü kullandığınızdan emin olun. Menüden Yardım > { -brand-short-name } hakkında’ya gidin. En yeni { -brand-short-name } sürümünü kullanıyorsanız sorun büyük olasılıkla siteden kaynaklanıyordur.

@@ -168,12 +168,11 @@ certerror-coep-learn-more = Pli da informo pri la politikoj de inkrusto el malsa
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Erarkodo: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ne povas krei sekuran konekton al la servilo ĉe { $hostname }.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Tiu retejo ŝajne uzas malnovan programaron kun konataj sekurecaj problemoj.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Certu havi la lastan version de { -brand-short-name }. Iru al Helpo > Pri { -brand-short-name } en la menuo. Se vi jam uzas la lastan version de { -brand-short-name }, la problemo tre verŝajne rilatas la retejon mem.

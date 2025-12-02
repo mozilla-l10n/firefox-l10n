@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = 備份時發生問題。
     .message = 請稍候幾分鐘再試一次。
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = 有些東西不對勁
-    .message = { -brand-short-name } 的備份過程發生問題，請稍後再試，或重新啟動 { -brand-short-name }。
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

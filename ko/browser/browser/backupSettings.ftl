@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = 백업 중에 문제가 발생했습니다.
     .message = 몇 분 후에 다시 시도해 보세요.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = 무언가 잘못됨
-    .message = { -brand-short-name }의 백업 프로세스에 문제가 발생했습니다. 다시 시도하거나 { -brand-short-name }를 다시 시작하세요.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

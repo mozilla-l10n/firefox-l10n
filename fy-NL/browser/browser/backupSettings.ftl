@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, der is in probleem bard mei it meitsjen fan in reservekopy.
     .message = Probearje it oer in pear minuten nochris.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Der is wat misgien
-    .message = Der is in probleem bard mei it reservekopyproses foar { -brand-short-name }. Probearje it opnij of start { -brand-short-name } opnij.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hm, igl ha dà in problem cun far copias da segirezza.
     .message = Emprova anc ina giada en in pèr minutas.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Insatge n’ha betg funcziunà
-    .message = Igl ha dà in problem cun il process da backup da { -brand-short-name }. Emprova per plaschair anc ina giada u reaviescha { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

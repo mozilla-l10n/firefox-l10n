@@ -168,12 +168,11 @@ certerror-coep-learn-more = იხილეთ ვრცლად განს�
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = შეცდომის კოდი: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ვერ ამყარებს დაცულ კავშირს სერვერთან { $hostname }.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = ჩანს, საიტი იყენებს ძველ პროგრამას უსაფრთხოების გამოვლენილი ხარვეზებით.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = დარწმუნდით, რომ { -brand-short-name } განახლებულია. მენიუში მონახეთ დახმარება > { -brand-short-name } შესახებ. თუ ისედაც უახლესი { -brand-short-name } გიყენიათ, ხარვეზი საიტის მხრიდან იქნება.

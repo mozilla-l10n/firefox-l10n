@@ -168,12 +168,11 @@ certerror-coep-learn-more = Læs mere om Cross Origin Embedder Policies (COEP)
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Fejlkode: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikke oprette en sikker forbindelse til serveren på { $hostname }.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ud til, at webstedet bruger gammel software med kendte sikkerhedsproblemer.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Vær sikker på, at du bruger den nyeste version af { -brand-short-name }. Åbn menuen og gå til Hjælp > Om { -brand-short-name }. Hvis du bruger den nyeste version, så skyldes problemet sandsynligvis webstedet.

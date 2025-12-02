@@ -703,8 +703,6 @@ newtab-widget-timer-menu-notifications = Zdźělenja znjemóžnić
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžnić
 newtab-widget-timer-menu-hide = Časoměr schować
 newtab-widget-timer-menu-learn-more = Dalše informacije
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Za dalše kulić
 newtab-widget-message-title = Wostańće koncentrowany z lisćinami a zatwarjenym časoměrom
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Wot spěšnych dopomnjećow do wšědnych nadawkowych lisćinow, koncentrujće so na posedźenja, zo byšće přestawki podlěšił – njepopušćejće a budźće zdypkom.

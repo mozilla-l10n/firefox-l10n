@@ -168,12 +168,11 @@ certerror-coep-learn-more = Даведацца больш пра Палітык�
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Код памылкі: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } не можа стварыць бяспечнае злучэнне з серверам па адрасе { $hostname }.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Здаецца, гэты сайт выкарыстоўвае старое праграмнае забеспячэнне з вядомымі праблемамі бяспекі.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Пераканайцеся, што вы карыстаецеся апошняй версіяй { -brand-short-name }. Перайдзіце ў меню Даведка > Пра { -brand-short-name }. Калі вы карыстаецеся апошняй версіяй { -brand-short-name }, праблема, хутчэй за ўсё, звязана з самім сайтам.

@@ -634,9 +634,6 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }

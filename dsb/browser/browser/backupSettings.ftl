@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hm, dajo problem pśi zawěsćenju.
     .message = Wopytajśo za mało minutow hyšći raz.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Něco njejo se raźiło
-    .message = Dajo problem ze zawěsćeńskim procesom za { -brand-short-name }. Wopytajśo pšosym hyšći raz abo startujśo { -brand-short-name } znowego.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

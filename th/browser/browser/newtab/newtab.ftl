@@ -700,8 +700,6 @@ newtab-widget-timer-menu-notifications = ปิดการแจ้งเตื
 newtab-widget-timer-menu-notifications-on = เปิดการแจ้งเตือน
 newtab-widget-timer-menu-hide = ซ่อนตัวจับเวลา
 newtab-widget-timer-menu-learn-more = เรียนรู้เพิ่มเติม
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = เลื่อนเพื่อดูเพิ่มเติม
 newtab-widget-message-title = มีสมาธิด้วยรายการสิ่งที่ต้องทำและตัวจับเวลาในตัว
 # to-dos stands for "things to do".
 newtab-widget-message-copy = ตั้งแต่เตือนความจำด่วน ๆ ไปจนถึงสิ่งที่ต้องทำในแต่ละวัน ช่วงเวลาโฟกัสไปจนถึงช่วงเวลาพัก ให้คุณอยู่กับงานและตรงเวลาเสมอ

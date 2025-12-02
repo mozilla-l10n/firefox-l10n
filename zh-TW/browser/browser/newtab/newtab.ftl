@@ -697,8 +697,6 @@ newtab-widget-timer-menu-notifications = 關閉通知
 newtab-widget-timer-menu-notifications-on = 開啟通知
 newtab-widget-timer-menu-hide = 隱藏計時器
 newtab-widget-timer-menu-learn-more = 更多資訊
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = 滾動顯示更多
 newtab-widget-message-title = 使用清單與內建的計時器，讓您保持專注
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 從快速提醒到每日待辦事項，或是在專注時間之後休息一下伸伸懶腰，讓您及時完成工作。

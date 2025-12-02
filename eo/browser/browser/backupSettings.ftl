@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, okazis eraro dum kreado de sekurkopio.
     .message = Provu denove post kelkaj minutoj.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Io misfunkciis
-    .message = Okazis problemo kun la procezo, kiu kreas sekurkopion en { -brand-short-name }. Bonvolu provu denove aŭ restartigu { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

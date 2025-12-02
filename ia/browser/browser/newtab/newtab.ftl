@@ -697,8 +697,6 @@ newtab-widget-timer-menu-notifications = Disactivar notificationes
 newtab-widget-timer-menu-notifications-on = Activar notificationes
 newtab-widget-timer-menu-hide = Celar temporisator
 newtab-widget-timer-menu-learn-more = Pro saper plus
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Rola pro vider plus
 newtab-widget-message-title = Remane concentrate con le listas e un temporisator integrate
 # to-dos stands for "things to do".
 newtab-widget-message-copy = De rememorationes a travalios, de concentration a relaxation – resta attente e a tempore.

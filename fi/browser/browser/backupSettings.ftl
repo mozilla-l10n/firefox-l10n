@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, varmuuskopioinnissa oli ongelma.
     .message = Yritä uudelleen muutaman minuutin kuluttua.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Jokin meni pieleen
-    .message = { -brand-short-name }ia varmuuskopioitaessa oli ongelma. Yritä uudelleen tai käynnistä { -brand-short-name } uudelleen.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

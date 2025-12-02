@@ -701,8 +701,6 @@ newtab-widget-timer-menu-notifications = Izklopi obvestila
 newtab-widget-timer-menu-notifications-on = Vklopi obvestila
 newtab-widget-timer-menu-hide = Skrij odštevalnik
 newtab-widget-timer-menu-learn-more = Več o tem
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Podrsajte za več
 newtab-widget-message-title = Ostanite osredotočeni s seznami in vgrajenim časovnikom
 newtab-promo-card-title = Podprite { -brand-product-name(sklon: "tozilnik") }
 newtab-promo-card-body = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta

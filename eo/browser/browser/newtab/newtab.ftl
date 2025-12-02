@@ -697,8 +697,6 @@ newtab-widget-timer-menu-notifications = Malŝalti sciigojn
 newtab-widget-timer-menu-notifications-on = Ŝalti sciigojn
 newtab-widget-timer-menu-hide = Kaŝi tempumilon
 newtab-widget-timer-menu-learn-more = Pli da informo
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Rulumu por vidi pli
 newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.

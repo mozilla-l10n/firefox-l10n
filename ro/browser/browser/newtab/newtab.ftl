@@ -698,8 +698,6 @@ newtab-widget-timer-menu-notifications = Oprește notificările
 newtab-widget-timer-menu-notifications-on = Activează notificările
 newtab-widget-timer-menu-hide = Ascunde cronometrul
 newtab-widget-timer-menu-learn-more = Află mai multe
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Derulează pentru mai multe
 newtab-widget-message-title = Stai concentrat(ă) cu liste și un cronometru încorporat
 # to-dos stands for "things to do".
 newtab-widget-message-copy = De la mementouri rapide la liste zilnice de sarcini, sesiuni de concentrare până la pauze de întindere — stai concentrat(ă) pe sarcină și o termini la timp.

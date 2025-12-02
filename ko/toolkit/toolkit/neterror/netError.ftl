@@ -168,12 +168,11 @@ certerror-coep-learn-more = COEP(Cross Origin Embedder Policy)에 대해 더 알
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = 오류 코드: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }는 { $hostname } 서버에 대한 보안 연결을 만들 수 없습니다.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 이 사이트는 보안 문제가 알려진 오래된 소프트웨어를 사용하고 있는 것 같습니다.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = 최신 버전의 { -brand-short-name }를 사용하고 있는지 확인하세요. 메뉴에서 도움말 > { -brand-short-name } 정보로 이동하세요. 최신 { -brand-short-name }를 사용하고 있다면, 사이트 자체에 문제가 있을 가능성이 큽니다.

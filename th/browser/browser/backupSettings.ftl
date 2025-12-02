@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = เอิ่ม มีปัญหากับการสำรองข้อมูล
     .message = โปรดลองอีกครั้งในอีกไม่กี่นาที
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = มีบางอย่างผิดพลาด
-    .message = มีปัญหากับกระบวนการสำรองข้อมูลสำหรับ { -brand-short-name } โปรดลองอีกครั้งหรือเริ่ม { -brand-short-name } ใหม่
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

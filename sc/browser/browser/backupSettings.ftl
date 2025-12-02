@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Mh, ddoe est istadu unu problema cun sa còpia de seguresa.
     .message = Torra a proare de immoe a calicunu minutu.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Ddoe est istadu unu problema.
-    .message = Ddoe est istadu unu problema cun su protzessu de còpia de seguresa de { -brand-short-name }. Torra a proare o torra a aviare { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

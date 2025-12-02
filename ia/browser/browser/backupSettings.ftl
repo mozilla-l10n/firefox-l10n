@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, un problema ha occurrite durante creation del copia de securitate.
     .message = Tenta lo de novo in alcun minutas.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Un problema ha occurrite
-    .message = Il habeva un problema con le processo de copia de securitate pro { -brand-short-name }. Tenta lo de novo o reinitia { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

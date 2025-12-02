@@ -706,8 +706,6 @@ newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
 newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
 newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Sgrolio am ragor
 newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.

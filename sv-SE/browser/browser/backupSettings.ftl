@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, det uppstod ett problem med säkerhetskopieringen.
     .message = Försök igen om några minuter.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Något gick fel
-    .message = Det uppstod ett problem med säkerhetskopieringsprocessen för { -brand-short-name }. Försök igen eller starta om { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Kontxo, arazo bat gertatu da babeskopia egitean.
     .message = Saiatu berriro minutu batzuk barru.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Zerbait gaizki joan da
-    .message = Arazo bat egon da { -brand-short-name }(e)n babeskopia-prozesuarekin. Saiatu berriro edo berrabiarazi { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

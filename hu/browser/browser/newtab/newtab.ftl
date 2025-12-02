@@ -701,8 +701,6 @@ newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-hide = Időzítő elrejtése
 newtab-widget-timer-menu-learn-more = További tudnivalók
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Görgessen a továbbiakért
 newtab-widget-message-title = Maradjon fókuszált a listákkal és a beépített időzítővel
 # to-dos stands for "things to do".
 newtab-widget-message-copy = A gyors emlékeztetőktől a napi tennivalókig, fókuszált munkaszakaszoktól a nyújtó szünetekig — maradjon a feladatnál és időben.

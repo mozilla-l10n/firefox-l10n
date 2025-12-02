@@ -702,8 +702,6 @@ newtab-widget-timer-menu-notifications = Выключыць апавяшчэнн
 newtab-widget-timer-menu-notifications-on = Уключыць апавяшчэнні
 newtab-widget-timer-menu-hide = Схаваць таймер
 newtab-widget-timer-menu-learn-more = Падрабязней
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Прагартайце, каб даведацца больш
 newtab-widget-message-title = Заставайцеся сканцэнтраванымі з дапамогай спісаў і ўбудаванага таймера
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Паспявайце ўсё з дапамогай хуткіх напамінаў, спісаў задач, заняткаў па канцэнтрацыі ўвагі ды перапынкаў на размінку.

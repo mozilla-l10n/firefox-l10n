@@ -168,12 +168,11 @@ certerror-coep-learn-more = Докладніше про політику вбу�
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Код помилки: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } не може створити захищене з'єднання із сервером за адресою { $hostname }.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Здається, цей сайт використовує застаріле програмне забезпечення з відомими проблемами безпеки.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Перевірте, чи ви використовуєте найновішу версію { -brand-short-name }, відкривши меню "Довідка" > "Про { -brand-short-name }". Якщо у вас найновіша версія { -brand-short-name }, імовірно, ця проблема пов'язана з сайтом.

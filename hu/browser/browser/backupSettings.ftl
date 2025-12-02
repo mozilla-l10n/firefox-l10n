@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, hiba történt a biztonsági mentéskor.
     .message = Próbálja újra néhány perc múlva.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Hiba történt
-    .message = Probléma volt a { -brand-short-name } biztonsági mentési folyamatában. Próbálja újra, vagy indítsa újra a { -brand-short-name }ot.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

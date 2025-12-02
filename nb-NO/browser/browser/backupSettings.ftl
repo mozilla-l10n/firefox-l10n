@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, det oppstod et problem under sikkerhetskopieringen.
     .message = Prøv igjen om noen minutter.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Noe gikk galt
-    .message = Det oppstod et problem med sikkerhetskopieringsprosessen for { -brand-short-name }. Prøv igjen eller start { -brand-short-name } på nytt.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

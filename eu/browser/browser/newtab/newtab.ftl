@@ -627,8 +627,6 @@ newtab-widget-timer-menu-notifications = Desaktibatu jakinarazpenak
 newtab-widget-timer-menu-notifications-on = Aktibatu jakinarazpenak
 newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
 newtab-widget-timer-menu-learn-more = Argibide gehiago
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Korritu gehiagorako
 newtab-widget-message-title = Mantendu kontzentratuta zerrendekin eta tenporizadorearekin
 newtab-promo-card-title = Lagundu { -brand-product-name }
 newtab-promo-card-body = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte

@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Houve um problema ao fazer backup.
     .message = Tente novamente em alguns minutos.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Algo deu errado
-    .message = Houve um problema com o processo de backup do { -brand-short-name }. Tente novamente ou reinicie o { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

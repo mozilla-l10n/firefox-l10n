@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Yedekleme yapılırken bir sorun oluştu.
     .message = Birkaç dakika sonra yeniden deneyin.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Bir sorun oluştu
-    .message = { -brand-short-name } yedekleme işleminde bir sorun oluştu. Lütfen yeniden deneyin veya { -brand-short-name } tarayıcısını yeniden başlatın.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

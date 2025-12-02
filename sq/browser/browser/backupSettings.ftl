@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hëm, pati një problem me kopjeruajtjen.
     .message = Riprovoni pas pak minutash.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Diç shkoi ters
-    .message = Pati një problem me procesin e kopjeruajtjes për { -brand-short-name }-in. Ju lutemi, riprovoni, ose rinisni { -brand-short-name }-in.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

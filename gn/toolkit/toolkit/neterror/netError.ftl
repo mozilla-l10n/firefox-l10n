@@ -168,10 +168,9 @@ certerror-coep-learn-more = Eikuaave teñoiha juasáva porureko oñondivegua reh
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Ayvu jejavy: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ndaikatúi omoheñói jeike hekorosãva { $hostname } mba’e’oka ndive.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Amalisia ko tenda oiporu software itujáva orekóva apañuái tekorosã rehegua.

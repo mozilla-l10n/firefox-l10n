@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, er is een probleem opgetreden bij het maken van de reservekopie.
     .message = Probeer het over een paar minuten nogmaals.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Er is iets misgegaan
-    .message = Er is een probleem opgetreden met het reservekopieproces voor { -brand-short-name }. Probeer het opnieuw of herstart { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

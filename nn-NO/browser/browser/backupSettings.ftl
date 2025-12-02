@@ -133,11 +133,6 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Denne fila fungerer ikkje
     .message = Fila du valde vart ikkje oppretta av { -brand-short-name }. Vel ei anna fil og prøv igjen.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Noko gjekk gale
-    .message = Det oppstod eit problem med sikkerheitskopieringsprosessen for { -brand-short-name }. Prøv igjen eller start { -brand-short-name } på nytt.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

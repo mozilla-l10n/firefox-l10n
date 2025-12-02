@@ -1176,9 +1176,6 @@ sitedata-cookies-exceptions2 =
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
 
-## Privacy Section - Cookie Banner Handling
-
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ

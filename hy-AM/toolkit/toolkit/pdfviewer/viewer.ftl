@@ -586,11 +586,6 @@ pdfjs-editor-add-signature-cancel-button = Չեղարկել
 pdfjs-editor-add-signature-add-button = Ավելացնել
 pdfjs-editor-edit-signature-update-button = Թարմացնել
 
-## Edit a comment button in the editor toolbar
-
-pdfjs-editor-edit-comment-button =
-    .title = Խմբագրել մեկնաբանությունը
-
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

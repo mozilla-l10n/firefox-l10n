@@ -690,8 +690,6 @@ newtab-widget-timer-menu-notifications = Deactivar las notificaziuns
 newtab-widget-timer-menu-notifications-on = Activar las notificaziuns
 newtab-widget-timer-menu-hide = Zuppentar il svegliarin
 newtab-widget-timer-menu-learn-more = Ulteriuras infurmaziuns
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Fa defilar per dapli infurmaziuns
 newtab-widget-message-title = Mantegna la concentraziun cun agid da glistas ed in svegliarin integrà
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Cun agid da promemorias ed incumbensas quotidianas, intervals da concentraziun e pausas per relaxar – na perda ni il fil ni il temp.

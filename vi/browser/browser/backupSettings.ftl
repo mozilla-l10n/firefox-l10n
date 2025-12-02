@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, có vấn đề khi sao lưu.
     .message = Hãy thử lại sau vài phút.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Có gì đó không ổn
-    .message = Đã xảy ra sự cố trong quá trình sao lưu { -brand-short-name }. Vui lòng thử lại hoặc khởi động lại { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

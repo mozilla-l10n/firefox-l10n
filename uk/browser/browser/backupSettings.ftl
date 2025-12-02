@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Під час резервного копіювання виникла проблема.
     .message = Спробуйте знову за кілька хвилин.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Щось пішло не так
-    .message = У процесі резервного копіювання { -brand-short-name } виникла проблема. Спробуйте знову або перезапустіть { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

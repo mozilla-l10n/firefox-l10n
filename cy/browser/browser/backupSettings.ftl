@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, roedd problem wrth wneud copi gefn.
     .message = Ceisiwch eto mewn ychydig funudau.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Aeth rhywbeth o'i le
-    .message = Bu anhawster gyda proses copïo wrth gefn { -brand-short-name }. Ceisiwch eto neu ailgychwyn { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

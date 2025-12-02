@@ -695,8 +695,6 @@ newtab-widget-timer-menu-notifications = כיבוי התרעות
 newtab-widget-timer-menu-notifications-on = הפעלת התרעות
 newtab-widget-timer-menu-hide = הסתרת שעון עצר
 newtab-widget-timer-menu-learn-more = מידע נוסף
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = יש לגלול כדי לראות עוד
 newtab-widget-message-title = להישאר מרוכז בעזרת רשימות ושעון עצר מובנה
 # to-dos stands for "things to do".
 newtab-widget-message-copy = מתזכורות מהירות ועד למשימות יומיות, מזמני התמקדות ועד להפסקות להתמתחות - כך ניתן להספיק את המשימות בזמן.

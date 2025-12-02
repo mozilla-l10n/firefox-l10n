@@ -673,8 +673,6 @@ newtab-widget-timer-menu-notifications = Isključi obavijesti
 newtab-widget-timer-menu-notifications-on = Uključi obavijesti
 newtab-widget-timer-menu-hide = Sakrij odbrojavanje
 newtab-widget-timer-menu-learn-more = Saznaj više
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Pomaknite za više informacija
 newtab-widget-message-title = Ostanite fokusirani uz popise i ugrađeno odbrojavanje
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od brzih podsjetnika do dnevnih obaveza, sesija za fokusiranje do pauza za istezanje — ostanite usredotočeni na zadatak i na vrijeme.

@@ -168,12 +168,11 @@ certerror-coep-learn-more = Więcej informacji o COEP (Cross-Origin-Embedder-Po
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kod błędu: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem pod adresem { $hostname }.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-neterror-why-site-dangerous)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Wygląda na to, że ta witryna korzysta ze starego oprogramowania, które ma znane problemy z bezpieczeństwem.
-# This string appears after the following string: "What can you do about it?" (fp-neterror-what-can-you-do)
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Upewnij się, że używasz najnowszej wersji { -brand-short-name(case: "gen") }. Przejdź do Pomoc → O programie { -brand-short-name } w menu. Jeśli używasz najnowszego { -brand-short-name(case: "gen") }, to problem najprawdopodobniej dotyczy samej witryny.

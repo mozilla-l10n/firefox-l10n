@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, vyskytol sa problém so zálohovaním.
     .message = Skúste to znova o pár minút.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Niečo sa pokazilo
-    .message = Vyskytol sa problém s procesom zálohovania { -brand-short-name(case: "gen") }. Skúste to znova alebo reštartujte { -brand-short-name(case: "acc") }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

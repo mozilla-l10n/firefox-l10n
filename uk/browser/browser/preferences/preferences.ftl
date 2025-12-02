@@ -637,9 +637,6 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }

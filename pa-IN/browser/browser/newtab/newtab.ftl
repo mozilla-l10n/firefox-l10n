@@ -700,8 +700,6 @@ newtab-widget-timer-menu-notifications = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ �
 newtab-widget-timer-menu-notifications-on = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
 newtab-widget-timer-menu-hide = ਟਾਈਮਰ ਓਹਲੇ ਕਰੋ
 newtab-widget-timer-menu-learn-more = ਹੋਰ ਜਾਣੋ
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = ਹੋਰ ਲਈ ਸਕਰੋਲ ਕਰੋ
 newtab-widget-message-title = ਸੂਚੀਆਂ ਅਤੇ ਵਿੱਚ ਮੌਜੂਦ ਟਾਈਮਰ ਨਾਲ ਫੋਕਸ ਰਹੋ
 # to-dos stands for "things to do".
 newtab-widget-message-copy = ਕਰਨ ਵਾਲੇ ਕੰਮਾਂ, ਫ਼ੋਕਸ ਵਾਲੇ ਸ਼ੈਸ਼ਨਾਂ ਤੋਂ ਲੈ ਕੇ ਛੋਟੀ ਬਰੇਕ ਲੈਣ ਲਈ ਫ਼ੌਰਨ ਯਾਦ ਕਰਵਾਉਣਾ — ਕੰਮ ਸਮੇਂ ਸਿਰ ਪੂਰੇ ਕਰੋ।

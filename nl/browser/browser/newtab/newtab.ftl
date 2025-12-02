@@ -701,8 +701,6 @@ newtab-widget-timer-menu-notifications = Notificaties uitschakelen
 newtab-widget-timer-menu-notifications-on = Notificaties inschakelen
 newtab-widget-timer-menu-hide = Timer verbergen
 newtab-widget-timer-menu-learn-more = Meer info
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Scrol voor meer
 newtab-widget-message-title = Blijf gefocust met lijsten en een ingebouwde timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Van snelle herinneringen tot dagelijkse to-do’s, en van focussessies tot lange pauzes – blijf bij de taak en op tijd.

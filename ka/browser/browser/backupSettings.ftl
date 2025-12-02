@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = ჰმ, ხარვეზი წარმოიშვა დამარქაფებისას.
     .message = სცადეთ რამდენიმე წუთში.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = რაღაც ხარვეზი წარმოიქმნა
-    .message = ხარვეზი წარმოიშვა, როცა { -brand-short-name } დამარქაფებას ცდილობდა. კვლავ სცადეთ ან ხელახლა გაუშვით { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

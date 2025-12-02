@@ -701,8 +701,6 @@ newtab-widget-timer-menu-notifications = Stäng av aviseringar
 newtab-widget-timer-menu-notifications-on = Slå på aviseringar
 newtab-widget-timer-menu-hide = Dölj timer
 newtab-widget-timer-menu-learn-more = Läs mer
-# Message that appears when widgets are full-height. This reminds users that there is more New Tab content to see if they scroll
-newtab-widget-keep-scrolling = Bläddra för mer
 newtab-widget-message-title = Håll fokus med listor och en inbyggd timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Från snabba påminnelser till dagliga att-göra-uppgifter, fokussessioner till stretchpauser — håll dig fokuserad och i tid.

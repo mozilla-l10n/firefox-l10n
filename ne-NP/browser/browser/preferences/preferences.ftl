@@ -36,17 +36,6 @@ should-restart-ok = { -brand-short-name } तत्काल पुनःसु�
 cancel-no-restart-button = रद्द गर्नुहोस्
 restart-later = केहि समयपछि पुनःसुरु गर्नुहोस्
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = खोजी परिणामहरू
@@ -339,9 +328,6 @@ choose-bookmark =
     .label = पुस्तकचिनो प्रयोग गर्नुहोस्...
     .accesskey = B
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -461,12 +447,6 @@ sync-sign-in =
     .label = साइन इन गर्नुहोस्
     .accesskey = g
 
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -511,9 +491,6 @@ sync-verification-not-sent-body = हामी यस समय प्रमा�
 
 privacy-header = ब्राउजर गोपनीयता
 
-## Privacy Section - Logins and Passwords
-
-
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -529,12 +506,6 @@ forms-master-pw-change =
     .label = मुल गोप्यशब्द परिवर्तन गर्नुहोस्...
     .accesskey = M
 forms-master-pw-fips-desc = गोप्यशब्द परिवर्तन असफल
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -601,12 +572,6 @@ sitedata-settings =
     .label = डेटा व्यवस्थापन गर्नुहोस्…
     .accesskey = M
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-header = ठेगानापट्टि
@@ -625,19 +590,6 @@ addressbar-suggestions-settings = खोज इन्जिन सुझाव�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = थप जान्नुहोस्
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -693,9 +645,6 @@ collection-health-report-link = अझ जान्नुहोस्
 # or builds with no Telemetry support available.
 collection-health-report-disabled = यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -727,12 +676,6 @@ certs-devices =
     .label = सुरक्षा उपकरणहरू…
     .accesskey = D
 certs-devices-enable-fips = FIPS सक्षम पार्नुहोस्
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

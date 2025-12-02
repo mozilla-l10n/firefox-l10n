@@ -149,11 +149,6 @@ backup-service-error-recovery-failed =
 backup-service-error-went-wrong2 =
     .heading = Hmm, hubo un problema al realizar el respaldo.
     .message = Vuelve a intentarlo en unos minutos.
-# There was some error in the backup service but we don't have a more specific
-# idea of what went wrong
-backup-service-error-went-wrong =
-    .heading = Algo se fue a las pailas
-    .message = Hubo un problema con el proceso de respaldo para { -brand-short-name }. Por favor, vuelve a intentarlo o reinicia { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
