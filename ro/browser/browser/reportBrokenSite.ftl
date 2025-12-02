@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Te rugăm să alegi un motiv
 report-broken-site-panel-blocked-trackers-label =
     .label = Trimite adrese URL blocate de protecția împotriva urmăririi
 report-broken-site-panel-blocked-trackers-description = Protecția îmbunătățită împotriva urmăririi poate bloca elementele de urmărire și scripturile de care unele site-uri web au nevoie ca să funcționeze corect.
+report-broken-site-panel-preview-button =
+    .label = Previzualizează raportul
+report-broken-site-panel-preview-header =
+    .label = Previzualizează raportul

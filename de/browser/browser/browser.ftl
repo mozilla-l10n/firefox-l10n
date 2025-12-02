@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Keine Verknüpfung ausgewählt, wählen Sie eine Verknüpfung
     .tooltiptext = Keine Verknüpfung ausgewählt, wählen Sie eine Verknüpfung
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Die Schlüsselwortsuche ist deaktiviert
+    .tooltiptext = Die Schlüsselwortsuche ist deaktiviert
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

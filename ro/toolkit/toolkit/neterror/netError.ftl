@@ -168,11 +168,17 @@ certerror-coep-learn-more = Află mai multe despre Politicile de înglobare de o
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Cod de eroare: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Se pare că ai o problemă cu conexiunea la internet
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nu poate crea o conexiune securizată la serverul de la { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } nu se poate conecta la serverul de la <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Se pare că acest site folosește software vechi cu probleme de securitate cunoscute.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Asigură-te că utilizezi cea mai recentă versiune { -brand-short-name }. Mergi în Ajutor > Despre { -brand-short-name } din meniu. Dacă utilizezi cea mai recentă versiune { -brand-short-name }, cel mai probabil problema este legată de site-ul în sine.
+fp-neterror-offline-what-can-you-do-body = Încearcă să te conectezi pe un alt dispozitiv. Verifică modemul sau routerul. Deconectează-te și reconectează-te la Wi-Fi.

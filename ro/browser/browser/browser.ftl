@@ -936,6 +936,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nicio comandă rapidă selectată, alege o comandă rapidă
     .tooltiptext = Nicio comandă rapidă selectată, alege o comandă rapidă
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Căutarea de cuvinte-cheie este dezactivată
+    .tooltiptext = Căutarea de cuvinte-cheie este dezactivată
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
