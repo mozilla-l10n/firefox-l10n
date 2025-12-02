@@ -168,6 +168,10 @@ certerror-coep-learn-more = Discoperi Cross Origin Embedder Policies (COEP)
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Codice de error: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Il pare haber un problema con tu connexion a internet
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
@@ -176,3 +180,4 @@ fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion
 fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con problemas de securitate cognoscite.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Assecura te de usar le ultime version de { -brand-short-name }. Ir a Adjuta > A proposito de { -brand-short-name } in le menu. Si tu usa le ultime { -brand-short-name }, le problema es probabilemente con le sito mesme.
+fp-neterror-offline-what-can-you-do-body = Prova a connecter te ab un altere apparato. Controla le modem o le router. Disactiva e reactiva le connexion Wi-Fi.

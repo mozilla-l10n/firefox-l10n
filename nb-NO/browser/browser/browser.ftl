@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ingen snarvei valgt, velg en snarvei
     .tooltiptext = Ingen snarvei valgt, velg en snarvei
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Nøkkelordssøk er deaktivert
+    .tooltiptext = Nøkkelordssøk er deaktivert
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
