@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Velg en årsak
 report-broken-site-panel-blocked-trackers-label =
     .label = Send URL-er blokkert av sporingsbeskyttelse
 report-broken-site-panel-blocked-trackers-description = Utvidet sporingsbeskyttelse kan blokkere sporere og skript som enkelte nettsteder trenger for å fungere ordentlig.
+report-broken-site-panel-preview-button =
+    .label = Forhåndsvis rapport
+report-broken-site-panel-preview-header =
+    .label = Forhåndsvis rapport
