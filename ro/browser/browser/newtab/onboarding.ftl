@@ -425,7 +425,7 @@ onboarding-horizontal-tabs-tooltip =
 onboarding-horizontal-tabs-description =
     .aria-description = O fereastră de browser care afișează filele în partea de sus.
 # Additional setup card for setting up aichatbot in the sidebar
-onboarding-genai-sidebar-title = Încearcă un chatbot IA în bara laterală
+onboarding-genai-sidebar-title = Încearcă un chatbot AI în bara laterală
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = Face rezumate de conținut web, schimb de idei, compune mesaje — toate în timp ce navighezi. Alegi dintre mai mulți furnizori. Îl schimbi oricând. <a data-l10n-name="learn-more">Află mai multe</a>
 onboarding-genai-sidebar-primary-button = Alege un chatbot

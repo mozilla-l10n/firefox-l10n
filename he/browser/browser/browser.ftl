@@ -929,6 +929,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = לא נבחר קיצור דרך, בחירת קיצור דרך
     .tooltiptext = לא נבחר קיצור דרך, בחירת קיצור דרך
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = חיפוש באמצעות מילות מפתח מושבת
+    .tooltiptext = חיפוש באמצעות מילות מפתח מושבת
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

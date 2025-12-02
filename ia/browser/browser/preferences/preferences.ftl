@@ -291,7 +291,7 @@ browser-layout-show-sidebar-desc = Rapidemente accede marcapaginas, schedas de t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e apparentia
-preferences-web-appearance-header = Apparentia del sito web
+preferences-web-appearance-header = Apparentia de sitos web
 preferences-web-appearance-description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.
 preferences-web-appearance-choice-auto2 =
     .label = Automatic
@@ -303,16 +303,16 @@ preferences-web-appearance-choice-dark2 =
     .label = Obscur
     .title = Usa un apparentia obscur pro fundos e contento del sito web.
 web-appearance-group =
-    .aria-label = Apparentia del sito web
+    .aria-label = Apparentia de sitos web
 preferences-web-appearance-choice-auto = Automatic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Obscur
 preferences-web-appearance-choice-tooltip-auto =
     .title = Cambiar automaticamente fundos e contento del sito web in base a tu parametros de systema e al thema de { -brand-short-name }.
 preferences-web-appearance-choice-tooltip-light =
-    .title = Usa un apparentia clar pro fundos e contento del sito web.
+    .title = Usar un apparentia clar pro fundos e contento de sitos web.
 preferences-web-appearance-choice-tooltip-dark =
-    .title = Usa un apparentia obscur pro fundos e contento del sito web.
+    .title = Usar un apparentia obscur pro fundos e contento de sitos web.
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
@@ -327,7 +327,7 @@ preferences-web-appearance-link =
     .label = Gere le themas de { -brand-short-name } in Extensiones e themas
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
-preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
+preferences-web-appearance-override-warning = Tu selectiones de colores supplanta le apparentia de sitos web.<a data-l10n-name="colors-link">Gerer le colores</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gere le themas de { -brand-short-name } in <a data-l10n-name="themes-link">Extensiones e themas</a>

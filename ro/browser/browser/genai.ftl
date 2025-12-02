@@ -251,12 +251,16 @@ link-preview-settings-long-press =
     .label = Comandă rapidă: Dă clic și ține apăsat pe link 1 secundă (apăsare lungă)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vezi mai multe cu AI?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } folosește AI ca să citească începutul paginii și să genereze câteva puncte-cheie. Are loc pe dispozitivul tău ca să îți prioritizăm confidențialitatea.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nou: dă clic și ține apăsat pe orice link pentru o previzualizare
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Vezi o scurtă descriere, timpul de citire și multe altele ca să decizi dacă merită să deschizi linkul. Disponibil și la clic dreapta.
 # Header for the key points section
 link-preview-key-points-header = Puncte-cheie
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Punctele-cheie sunt generate de AI și pot avea erori.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Prima configurare • <strong>{ $progress }%</strong>

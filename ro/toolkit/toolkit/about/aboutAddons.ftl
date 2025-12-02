@@ -589,10 +589,10 @@ mlmodel-pdfjs = { -brand-short-name } o folosește ca să creeze text alternativ
 mlmodel-smart-tab-topic-engine = { -brand-short-name } o folosește ca să sugereze denumiri pentru grupele tale de file
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } o folosește ca să sugereze file pentru grupurile tale de file
 # AI Model will be downloaded on the users device and used locally
-addon-category-mlmodel = IA pe dispozitiv
+addon-category-mlmodel = AI pe dispozitiv
 addon-category-mlmodel-title =
-    .title = IA pe dispozitiv
-mlmodel-heading = Gestionează modelele de IA de pe dispozitiv
+    .title = AI pe dispozitiv
+mlmodel-heading = Gestionează modelele de AI de pe dispozitiv
 mlmodel-description = Unele funcționalități și extensii din { -brand-short-name } sunt bazate pe modele IA care lucrează local pe dispozitivul tău. Abordarea îți protejează confidențialitatea și, în multe cazuri, crește performanța. <a data-l10n-name="learn-more">Află mai multe</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =

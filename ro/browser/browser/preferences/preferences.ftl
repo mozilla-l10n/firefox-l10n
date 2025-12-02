@@ -292,7 +292,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Afișare laterală, în bara laterală
 browser-layout-show-sidebar =
     .label = Afișează bara laterală
-browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon, chatbot-uri IA și multe altele fără a ieși vizualizarea principală.
+browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon, chatbot-uri AI și multe altele fără a ieși vizualizarea principală.
 
 ## General Section - Language & Appearance
 

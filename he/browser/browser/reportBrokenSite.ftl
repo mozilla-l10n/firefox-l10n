@@ -54,3 +54,5 @@ report-broken-site-panel-missing-reason-label = נא לבחור בסיבה
 report-broken-site-panel-blocked-trackers-label =
     .label = שליחת כתובות האתרים הנחסמים על־ידי הגנת המעקב
 report-broken-site-panel-blocked-trackers-description = הגנת מעקב מתקדמת עשויה לחסום רכיבי מעקב ותסריטים המשמשים חלק מהאתרים כדי לעבוד כראוי.
+report-broken-site-panel-preview-header =
+    .label = תצוגה מקדימה של הדיווח

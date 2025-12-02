@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = הצגת אזהרה בעת סגירת הדפדפן
 disable-extension =
     .label = השבתת הרחבה
+preferences-data-migration-group =
+    .label = ייבוא נתוני דפדפן
+    .description = העברת הסימניות, ססמאות, היסטוריה, הרחבות ונתוני המילוי אוטומטי שלך מדפדפן אחר.
 preferences-data-migration-header = ייבוא נתוני דפדפן
 preferences-data-migration-description = ייבוא סימניות, ססמאות, היסטוריה ונתוני מילוי אוטומטי אל { -brand-short-name }.
 preferences-data-migration-button =
@@ -183,6 +186,11 @@ preferences-copy-profile-header =
 # need to first pick a profile to copy, and then click the copy button.
 preferences-profile-to-copy =
     .label = פרופיל להעתקה
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = בחירת פרופיל
+preferences-copy-profile-button = העתקה
 tabs-group-header2 =
     .label = לשוניות
 tabs-opening-heading =
@@ -603,6 +611,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = הפעלת בקרי וידאו של תמונה בתוך תמונה
     .accesskey = ת
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = להמשיך לנגן סרטונים במצב תמונה בתוך תמונה בעת מעבר בין לשוניות
+    .accesskey = ס
 browsing-picture-in-picture-learn-more = מידע נוסף
 browsing-media-control =
     .label = שליטה במדיה באמצעות מקלדת, אוזניות או ממשק וירטואלי
