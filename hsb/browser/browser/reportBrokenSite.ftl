@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Prošu wubjerće přičinu
 report-broken-site-panel-blocked-trackers-label =
     .label = URL pósłać, kotrež su so přez přesćěhowanski škit zablokowali
 report-broken-site-panel-blocked-trackers-description = Polěpšeny přesćěhowanski škit móže přesćěhowaki a skripty blokować, zo bychu někotre websydła korektnje fungowali.
+report-broken-site-panel-preview-button =
+    .label = Přehlad rozprawy pokazać
+report-broken-site-panel-preview-header =
+    .label = Přehlad rozprawy pokazać
