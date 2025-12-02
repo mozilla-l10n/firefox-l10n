@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Pšosym wubjeŕśo pśicynu
 report-broken-site-panel-blocked-trackers-label =
     .label = URL pósłaś, kótarež su se blokěrowali pśez pśeslědowański šćit
 report-broken-site-panel-blocked-trackers-description = Pólěpšony pśeslědowański šćit móžo pśeslědowaki a skripty blokěrowaś, aby někotare websedła korektnje funkcioněrowali.
+report-broken-site-panel-preview-button =
+    .label = Pśeglěd rozpšawy pokazaś
+report-broken-site-panel-preview-header =
+    .label = Pśeglěd rozpšawy pokazaś

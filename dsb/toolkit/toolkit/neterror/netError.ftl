@@ -168,11 +168,17 @@ certerror-coep-learn-more = Dalšne informacije wó Cross Origin Embedder Polici
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Zmólkowy kode: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Zda se, až jo problem z wašym internetnym zwiskom
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } njamóžo wěsty zwisk z serwerom na { $hostname } nawězaś.
+fp-neterror-offline-intro = { -brand-short-name } njamóžo ze serwerom <strong>{ $hostname }</strong> zwězaś
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zda se, až toś to sedło staru software ze znatymi wěstotnymi problemami wužywa.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Zawěsććo, až nejnowšu wersiju { -brand-short-name } wužywaśo. Źiśo k Pomoc > Wó { -brand-short-name } w meniju. Jolic nejnowšu wersiju { -brand-short-name } wužywaśo, ma nejskerjej sedło toś ten problem.
+fp-neterror-offline-what-can-you-do-body = Wopytajśo z drugim rědom zwězaś. Pśeglědajśo swój modem abo router. Źělśo zwisk WLAN a zwěžćo znowego.
