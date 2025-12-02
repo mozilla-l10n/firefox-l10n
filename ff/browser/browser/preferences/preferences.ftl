@@ -383,6 +383,9 @@ choose-bookmark =
     .label = Huutoro Maantorol…
     .accesskey = M
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -523,6 +526,9 @@ sync-sign-in =
     .label = Seŋao
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Maantore
@@ -632,6 +638,9 @@ forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Aslol
@@ -652,10 +661,6 @@ history-remember-option-never =
     .label = Hoto siftor aslol hay sahaa
 history-remember-option-custom =
     .label = Huutoro teelte peŋtore e aslol
-history-remember-description2 =
-    .description = { -brand-short-name } siiftoroyat banngogol maa, gaawtogol maa, formere kam e aslol njiilaw maa.
-history-dontremember-description2 =
-    .description = { -brand-short-name } maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.
 history-remember-description = { -brand-short-name } siiftoroyat banngogol maa, gaawtogol maa, formere kam e aslol njiilaw maa.
 history-dontremember-description = { -brand-short-name } maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.
 history-private-browsing-permanent =
@@ -708,6 +713,12 @@ sitedata-settings =
     .label = Yuɓɓin keɓe…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Palal Ñiiɓirɗe
@@ -727,12 +738,19 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 content-blocking-learn-more = Ɓeydu humpito
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
 ##
 
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -791,6 +809,9 @@ collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -822,6 +843,12 @@ certs-devices =
     .label = kaɓirɗi Kisal…
     .accesskey = k
 certs-devices-enable-fips = Daaƴtu FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
