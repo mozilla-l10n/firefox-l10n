@@ -95,6 +95,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha’
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
 inactive-css-not-block-fix = Eñeha’ã embojuaju <strong>display:block</strong> térã <strong>float:left</strong>. { learn-more }
 inactive-css-not-block-container-fix = Embojuaju <strong>display:block</strong>, <strong>display:inline-block</strong> térã <strong>display:flow-root</strong>. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Eñeha’ã embojuaju <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> térã <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Eñeha’ã embojuaju upe mba’etee <strong>float</strong> hepykue ambuéva <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Eñeha’ã embojuaju mba’etee mba’eporu myengoviapyrépe. { learn-more }
@@ -110,6 +111,7 @@ inactive-css-resize-fix = Eñeha’ã emboheko <strong>overflow</strong> iñambu
 inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Eñeha’ã emomichĩ tairenda jeporu. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Aníke emboja’o mba’eporu retepy, techapyrã: emboguévo umi yta térã eiporúvo <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Eñeha’ã embojuaju <strong>display</strong> repykue omoheñóiva kora guasu, ikatúva <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> térã <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
