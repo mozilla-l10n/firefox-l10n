@@ -629,6 +629,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -1109,10 +1112,6 @@ history-remember-option-never =
     .label = Aldrei geyma feril
 history-remember-option-custom =
     .label = Nota sérsniðnar stillingar fyrir feril
-history-remember-description2 =
-    .description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
-history-dontremember-description2 =
-    .description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
 history-remember-description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
 history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
 history-private-browsing-permanent =
