@@ -182,3 +182,4 @@ fp-neterror-cypher-overlap-why-dangerous-body = Sembra che questo sito stia util
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Assicurati di utilizzare la versione più recente di { -brand-short-name }. Vai a Aiuto > Informazioni su { -brand-short-name } nel menu. Se stai utilizzando la versione più recente di { -brand-short-name }, è probabile che il problema dipenda dal sito stesso.
 fp-neterror-offline-what-can-you-do-body = Prova a connetterti da un altro dispositivo, controlla il modem o il router, disattiva e riattiva la connessione Wi-Fi.
+
