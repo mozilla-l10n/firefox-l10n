@@ -1084,10 +1084,6 @@ history-remember-option-never =
     .label = երբեք չի հիշի պատմությունը
 history-remember-option-custom =
     .label = կօգտվի պատմության համար հարմարեցված կարգավորումներից
-history-remember-description2 =
-    .description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
-history-dontremember-description2 =
-    .description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-remember-description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
 history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-private-browsing-permanent =
@@ -1163,6 +1159,9 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
