@@ -558,6 +558,7 @@ onboarding-personalization-use-case-title = Kva skal du bruke { -brand-short-nam
 onboarding-personalization-use-case-personal-option = Personleg
 onboarding-personalization-use-case-school-option = Skule
 onboarding-personalization-use-case-work-option = Arbeid
+onboarding-personalization-motivation-title = Kva funksjonar i { -brand-short-name } er viktigast for deg?
 onboarding-personalization-motivation-privacy-option = Personvern og sikkerheit
 onboarding-personalization-motivation-productivity-option = Produktivitet
 onboarding-personalization-motivation-other-option = Anna
