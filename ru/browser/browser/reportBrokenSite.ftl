@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Пожалуйста, выбер
 report-broken-site-panel-blocked-trackers-label =
     .label = URL отправки, заблокированные защитой от отслеживания
 report-broken-site-panel-blocked-trackers-description = Улучшенная защита от отслеживания может блокировать трекеры и скрипты, которые необходимы для корректной работы некоторых веб-сайтов.
+report-broken-site-panel-preview-button =
+    .label = Предпросмотр отчёта
+report-broken-site-panel-preview-header =
+    .label = Предпросмотр отчёта

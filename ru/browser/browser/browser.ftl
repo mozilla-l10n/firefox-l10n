@@ -934,6 +934,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ярлык не выбран, выберите ярлык
     .tooltiptext = Ярлык не выбран, выберите ярлык
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Поиск по ключевым словам отключён
+    .tooltiptext = Поиск по ключевым словам отключён
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

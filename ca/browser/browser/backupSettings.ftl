@@ -150,7 +150,7 @@ change-backup-encryption-header = Canvieu la contrasenya de la còpia de seguret
 password-rules-header = Requisits de la contrasenya
 password-rules-length-description = 8 caràcters com a mínim
 password-rules-email-description = No pot ser la vostra adreça electrònica
-password-rules-disclaimer = Protegiu-vos: no reutilitzeu les contrasenyes. Vegeu més consells per a la <linkExternal<a data-l10n-name="password-support-link">creació de contrasenyes segures</a>.
+password-rules-disclaimer = Protegiu-vos: no reutilitzeu les contrasenyes. Vegeu més consells per a la <a data-l10n-name="password-support-link">creació de contrasenyes segures</a>.
 password-validity-has-email = No pot ser una adreça electrònica
 password-validity-do-not-match = Les contrasenyes no coincideixen
 
