@@ -319,6 +319,9 @@ newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-
 newtab-custom-stories-toggle =
     .label = Articles recomanats
     .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Articles
+newtab-custom-stories-personalized-checkbox-label = Articles personalitzats basats en la vostra activitat
 newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-pocket-show-recent-saves = Mostra els elements desats recentment
 newtab-custom-recent-title = Activitat recent
@@ -354,6 +357,7 @@ newtab-wallpaper-custom-color = Trieu un color
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La imatge supera el límit de mida de fitxer de { $file_size } MB. Proveu de pujar un fitxer més petit.
+newtab-wallpaper-error-upload-file-type = No s’ha pogut pujar el fitxer. Torneu-ho a provar amb un fitxer d'imatge.
 newtab-wallpaper-error-file-type = No s’ha pogut pujar el fitxer. Torneu-ho a provar amb un altre tipus de fitxer.
 newtab-wallpaper-light-red-panda = Panda vermell
 newtab-wallpaper-light-mountain = Muntanya blanca
@@ -367,6 +371,8 @@ newtab-wallpaper-dark-panda = Panda vermell amagat al bosc
 newtab-wallpaper-dark-sky = Paisatge urbà amb un cel nocturn
 newtab-wallpaper-dark-mountain = Paisatge de muntanya
 newtab-wallpaper-dark-city = Paisatge urbà porpra
+newtab-wallpaper-dark-fox-anniversary = Una guineu a la vorera prop d'un bosc
+newtab-wallpaper-light-fox-anniversary = Una guineu en un camp d'herba amb un paisatge de muntanya emboirat
 
 ## Solid Colors
 
@@ -396,6 +402,10 @@ newtab-wallpaper-abstract-purple = Formes porpres
 newtab-wallpaper-abstract-orange = Formes taronges
 newtab-wallpaper-gradient-orange = Degradat taronja i rosa
 newtab-wallpaper-abstract-blue-purple = Formes blaves i porpres
+newtab-wallpaper-abstract-white-curves = Blanc amb corbes ombrejades
+newtab-wallpaper-abstract-purple-green = Gradient de llum morada i verda
+newtab-wallpaper-abstract-blue-purple-waves = Formes ondulades blaves i morades
+newtab-wallpaper-abstract-black-waves = Formes ondulades negres
 
 ## Firefox
 
@@ -406,6 +416,8 @@ newtab-wallpaper-storm-sky = Cel tempestuós
 newtab-wallpaper-sky-with-pink-clouds = Cel amb núvols rosats
 newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda vermell badalla en un arbre
 newtab-wallpaper-white-mountains = Muntanyes blanques
+newtab-wallpaper-hot-air-balloons = Globus aerostàtics de colors variats durant el dia
+newtab-wallpaper-starry-canyon = Nit blava estrellada
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

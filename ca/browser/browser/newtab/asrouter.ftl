@@ -402,3 +402,5 @@ etp-strict-exceptions-infobar-message = <strong>La protecció contra el seguimen
 etp-strict-exceptions-infobar-learn-more = Més informació
 etp-strict-exceptions-infobar-button = Aplica les correccions
     .accesskey = A
+etp-strict-exceptions-infobar-not-now = Ara no
+    .accesskey = A

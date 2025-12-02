@@ -190,6 +190,21 @@ backup-error-retry = Hi ha hagut un error. Torneu-ho a provar.
 
 backup-file-header = Ja es pot restaurar el { -brand-short-name }
 backup-file-title = Restaura el { -brand-short-name }
+backup-file-intro = Torneu a navegar i recupereu totes les adreces d'interès, l'historial i altres dades. <a data-l10n-name="backup-file-support-link">Més informació</a>
+backup-file-path-label = Fitxer de la còpia de seguretat:
+backup-file-encryption-state-label = Xifrat:
+backup-file-encryption-state-value-encrypted = Sí
+backup-file-encryption-state-value-not-encrypted = No
+backup-file-creation-device-label = Dispositiu:
+backup-file-creation-date-label = S'ha creat:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Com es restaura:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Obriu el menú de l'aplicació ☰ i aneu a Configuració > Sincronització
+backup-file-moz-browser-restore-step-2 = Feu clic a "Selecciona el fitxer de la còpia de seguretat” i seleccioneu aquest fitxer
 backup-file-moz-browser-restore-step-3 = Reinicieu el { -brand-short-name } quan se us demani
 backup-file-other-browser-restore-step-1 = Baixeu i instal·leu el { -brand-short-name }
 backup-file-download-moz-browser-button = Baixa
