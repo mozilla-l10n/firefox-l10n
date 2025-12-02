@@ -176,7 +176,7 @@ fp-neterror-offline-body-title = Il semble y avoir un problème avec votre conne
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ne peut pas établir de connexion sécurisée avec le serveur à l’adresse { $hostname }.
-fp-neterror-offline-intro = { -brand-short-name } ne peut pas se connecter au serveur de <strong>{ $hostname }</strong>
+fp-neterror-offline-intro = { -brand-short-name } ne peut pas se connecter au serveur à l’adresse <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il semble que ce site utilise d’anciens logiciels présentant des failles de sécurité connues.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

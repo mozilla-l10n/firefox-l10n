@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Bitte wählen Sie einen Grund
 report-broken-site-panel-blocked-trackers-label =
     .label = Vom Tracking-Schutz blockierte URLs senden
 report-broken-site-panel-blocked-trackers-description = Der verbesserte Tracking-Schutz blockiert möglicherweise Tracker und Skripte, die einige Websites zum korrekten Funktionieren benötigen.
+report-broken-site-panel-preview-button =
+    .label = Vorschau des Berichts
+report-broken-site-panel-preview-header =
+    .label = Vorschau des Berichts

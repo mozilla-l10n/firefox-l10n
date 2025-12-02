@@ -7,8 +7,8 @@
 
 genai-settings-chat-chatgpt-links = Dacă alegi ChatGPT, ești de acord cu <a data-l10n-name="link1">Condițiile de utilizare</a> OpenAI și <a data-l10n-name="link2">Politica de confidențialitate</a>.
 genai-settings-chat-claude-links = Alegând Anthropic Claude, ești de acord cu <a data-l10n-name="link1">Condițiile Anthropic de utilizare a serviciilor pentru consumatori</a>, <a data-l10n-name="link2">Politica de utilizare</a> și<a data-l10n-name="link3">Politica de confidențialitate</a>.
-genai-settings-chat-copilot-links = Dacă alegi Copilot, ești de acord cu <a data-l10n-name="link1">Condițiile pentru experiențele Copilot IA</a> și <a data-l10n-name="link2">Declarația de confidențialitate Microsoft</a>.
-genai-settings-chat-gemini-links = Alegând Google Gemini, ești de acord cu <a data-l10n-name="link1">Condițiile Google de utilizare a serviciilor</a>, <a data-l10n-name="link2">Politica de utilizare interzisă de IA generativ</a> și<a data-l10n-name="link3">Notificarea Gemini Apps privind confidențialitatea</a>.
+genai-settings-chat-copilot-links = Dacă alegi Copilot, ești de acord cu <a data-l10n-name="link1">Condițiile pentru experiențele Copilot AI</a> și <a data-l10n-name="link2">Declarația de confidențialitate Microsoft</a>.
+genai-settings-chat-gemini-links = Alegând Google Gemini, ești de acord cu <a data-l10n-name="link1">Condițiile Google de utilizare a serviciilor</a>, <a data-l10n-name="link2">Politica de utilizare interzisă de AI generativ</a> și<a data-l10n-name="link3">Notificarea Gemini Apps privind confidențialitatea</a>.
 genai-settings-chat-huggingchat-links = Dacă alegi HuggingChat, ești de acord cu <a data-l10n-name="link1">Notificarea HuggingChat privind confidențialitatea</a> și <a data-l10n-name="link2">Politica de confidențialitate HuggingChat</a>.
 genai-settings-chat-lechat-links = Alegând Le Chat Mistral, ești de acord cu <a data-l10n-name="link1">Condițiile Mistral AI de utilizare a serviciilor</a> și <a data-l10n-name="link2">Politica de confidențialitate</a>.
 genai-settings-chat-localhost-links = Folosește un chatbot local privat, cum ar fi <a data-l10n-name="link1">llamafile</a> de la grupul de inovație { -vendor-short-name }.
@@ -47,17 +47,17 @@ genai-prompt-prefix-selection = Sunt pe pagina „{ $tabTitle }” cu textul „
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Întreabă chatbot IA
+    .label = Întreabă un chatbot AI
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Întreabă { $provider }
 genai-menu-open-generic =
-    .label = Deschide Chatbot IA
+    .label = Deschide un chatbot AI
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Deschide { $provider }
 genai-menu-remove-generic =
-    .label = Elimină chatbot IA
+    .label = Elimină un chatbot AI
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Elimină { $provider }
@@ -66,19 +66,19 @@ genai-menu-remove-sidebar =
 genai-menu-new-badge = Nou
 genai-menu-summarize-page = Fă rezumatul paginii
 genai-input-ask-generic =
-    .placeholder = Întreabă chatbot-ul IA...
+    .placeholder = Întreabă chatbotul AI...
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Întreabă { $provider }…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = Chatbotul IA nu va primi toată selecția
+    .heading = Chatbotul AI nu va primi toată selecția
     .message =
         { $selectionLength ->
-            [one] Ai selectat { $selectionLength } caracter. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
-            [few] Ai selectat { $selectionLength } caractere. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
-           *[other] Ai selectat { $selectionLength } de caractere. Numărul de caractere pe care îl putem trimite la chatbotul IA este de circa { $maxLength }.
+            [one] Ai selectat { $selectionLength } caracter. Numărul de caractere pe care îl putem trimite la chatbotul AI este de circa { $maxLength }.
+            [few] Ai selectat { $selectionLength } caractere. Numărul de caractere pe care îl putem trimite la chatbotul AI este de circa { $maxLength }.
+           *[other] Ai selectat { $selectionLength } de caractere. Numărul de caractere pe care îl putem trimite la chatbotul AI este de circa { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
@@ -94,25 +94,25 @@ genai-shortcuts-selected-warning =
 genai-shortcuts-hide =
     .label = Ascunde scurtătura către chatbot
 genai-menu-choose-chatbot =
-    .label = Alege un chatbot IA
+    .label = Alege un chatbot AI
 genai-menu-ask-generic-2 =
-    .label = Întreabă chatbot IA
+    .label = Întreabă un chatbot AI
     .accesskey = h
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Întreabă { $provider }
     .accesskey = h
 genai-menu-no-provider-2 =
-    .label = Întreabă un chatbot IA
+    .label = Întreabă un chatbot AI
     .accesskey = h
 
 ## Chatbot header
 
-genai-chatbot-title = Chatbot IA
+genai-chatbot-title = Chatbot AI
 genai-header-provider-menu =
     .title = Alege un chatbot
 genai-header-settings-button =
-    .title = Setări chat IA
+    .title = Setări chat AI
 genai-header-options-button =
     .title = Deschide meniul
 genai-header-close-button =
@@ -120,7 +120,7 @@ genai-header-close-button =
 genai-provider-view-details =
     .label = Vezi detalii despre chatbot
 genai-options-reload-generic =
-    .label = Reîncarcă chatbot IA
+    .label = Reîncarcă chatbotul AI
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Reîncarcă { $provider }
@@ -129,7 +129,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Ascunde comanda rapidă la selectarea textului
 genai-options-about-chatbot =
-    .label = Despre chatboți IA în { -brand-short-name }
+    .label = Despre chatboți AI în { -brand-short-name }
 
 ## Chatbot message
 
@@ -143,9 +143,9 @@ genai-page-button-summarize = Fă rezumatul paginii
 ## Chatbot onboarding
 
 genai-onboarding-header = Rezumă, găsește idei și mai multe în timp ce navighezi
-genai-onboarding-choose-header = Alege un chatbot IA de utilizat în bara laterală { -brand-short-name }
+genai-onboarding-choose-header = Alege un chatbot AI de utilizat în bara laterală { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Alege un chatbot IA de folosit în bara laterală { -brand-short-name }. Vom afișa detalii despre fiecare chatbot când îl alegi. Îl poți schimba oricând. <a data-l10n-name="learn-more">Află mai multe</a>
+genai-onboarding-description = Alege un chatbot AI de folosit în bara laterală { -brand-short-name }. Vom afișa detalii despre fiecare chatbot când îl alegi. Îl poți schimba oricând. <a data-l10n-name="learn-more">Află mai multe</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Îl schimbi oricând. Pentru ajutor în alegere, <a data-l10n-name="learn-more">află mai multe despre fiecare chatbot</a>.
 genai-onboarding-primary = Continuă
@@ -171,18 +171,18 @@ genai-onboarding-lechat-learn = Află mai multe despre Le Chat
 genai-onboarding-select-header = Selectează text pentru a vedea sugestii
 genai-onboarding-select-description = Când selectezi text, îți vom sugera interogări pe care le poți trimite chatbotului. Poți scrie și propriile interogări.
 genai-onboarding-select-primary = Începe discuția
-genai-chatbot-contextual-title = Folosește un chatbot IA fără să schimbi filele
-genai-chatbot-contextual-subtitle = Discuți și navighezi juxtapus când adaugi un chatbot IA în bara laterală { -brand-short-name }.
+genai-chatbot-contextual-title = Folosește un chatbot AI fără să schimbi filele
+genai-chatbot-contextual-subtitle = Discuți și navighezi juxtapus când adaugi un chatbot AI în bara laterală { -brand-short-name }.
 genai-chatbot-contextual-button = Alege un chatbot
 genai-chatbot-summarize-title = Nou! Rezumatul paginilor dintr-un singur clic
 genai-chatbot-summarize-button = Fă rezumatul paginii
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Dă clic dreapta pe chatbotul IA din bara laterală și alege „Fă rezumatul paginii”.
+genai-chatbot-summarize-sidebar-provider-subtitle = Dă clic dreapta pe chatbotul AI din bara laterală și alege „Fă rezumatul paginii”.
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-generic-subtitle = Dă clic dreapta pe butonul cu stea din bara laterală și alege „Fă rezumatul paginii”. Prima dată, vei alege și un chatbot IA.
+genai-chatbot-summarize-sidebar-generic-subtitle = Dă clic dreapta pe butonul cu stea din bara laterală și alege „Fă rezumatul paginii”. Prima dată, vei alege și un chatbot AI.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Deschide chatbotul IA în bara laterală și alege „Fă rezumatul paginii” din partea de jos.
-genai-chatbot-summarize-footer-generic-subtitle = Adaugă un chatbot IA în bara laterală { -brand-short-name } pentru rezumatul rapid al paginilor.
+genai-chatbot-summarize-footer-provider-subtitle = Deschide chatbotul AI în bara laterală și alege „Fă rezumatul paginii” din partea de jos.
+genai-chatbot-summarize-footer-generic-subtitle = Adaugă un chatbot AI în bara laterală { -brand-short-name } pentru rezumatul rapid al paginilor.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -246,21 +246,17 @@ link-preview-settings-enable =
     .label = Activează previzualizările linkurilor
     .description = Vezi titlul paginii, descrierea și multe altele când folosești comanda rapidă sau dai clic dreapta pe un link.
 link-preview-settings-key-points =
-    .label = Permite IA să citească începutul paginii și să genereze puncte-cheie
+    .label = Permite AI să citească începutul paginii și să genereze puncte-cheie
 link-preview-settings-long-press =
     .label = Comandă rapidă: Dă clic și ține apăsat pe link 1 secundă (apăsare lungă)
 # Title that appears when user is shown the opt-in flow for link previews
-link-preview-optin-title = Vezi mai multe cu IA?
-# Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name } folosește IA ca să citească începutul paginii și să genereze câteva puncte-cheie. Are loc pe dispozitivul tău ca să îți prioritizăm confidențialitatea.
+link-preview-optin-title = Vezi mai multe cu AI?
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nou: dă clic și ține apăsat pe orice link pentru o previzualizare
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Vezi o scurtă descriere, timpul de citire și multe altele ca să decizi dacă merită să deschizi linkul. Disponibil și la clic dreapta.
 # Header for the key points section
 link-preview-key-points-header = Puncte-cheie
-# Disclaimer for AI-generated key points
-link-preview-key-points-disclaimer = Punctele-cheie sunt generate de IA și pot avea erori.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Prima configurare • <strong>{ $progress }%</strong>

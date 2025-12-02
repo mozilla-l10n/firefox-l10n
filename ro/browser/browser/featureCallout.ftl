@@ -189,11 +189,11 @@ pin-tabs-callout-4-title = Fixezi site-urile pe care intri cel mai des
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Bară laterală: locul tău pentru instrumente și file
-sidebar-customization-callout-1-subtitle = Bara laterală { -brand-product-name } îți oferă acces rapid la istoricul de navigare, la filele de pe alte dispozitive și la un chatbot IA — toate fără a ieși din vizualizarea principală.
+sidebar-customization-callout-1-subtitle = Bara laterală { -brand-product-name } îți oferă acces rapid la istoricul de navigare, la filele de pe alte dispozitive și la un chatbot AI — toate fără a ieși din vizualizarea principală.
 sidebar-customization-callout-callout-button = Personalizează bara laterală
 sidebar-customization-callout-dismiss-button = Ascunde bara laterală
 sidebar-customization-callout-2-title = Personalizează bara laterală { -brand-product-name }
-sidebar-customization-callout-2-subtitle = Adaugi și elimini instrumente. Plasează filele în bara laterală. Încearcă un chatbot IA. Modul în care îți personalizezi bara laterală e la latitudinea ta.
+sidebar-customization-callout-2-subtitle = Adaugi și elimini instrumente. Plasează filele în bara laterală. Încearcă un chatbot AI. Modul în care îți personalizezi bara laterală e la latitudinea ta.
 
 ## Sidebar Callout Survey Strings
 
@@ -220,10 +220,10 @@ sidebar-callout-survey-saved-websites-2 = Acces rapid la marcaje
 sidebar-callout-survey-none-of-above = Niciuna din cele de mai sus
 sidebar-callout-survey-submit = Trimite
 sidebar-callout-survey-thank-you = Îți mulțumim pentru feedback!
-sidebar-genai-survey-satisfaction-question = Cât de mulțumit(ă) ești de accesul la un chatbot IA în bara laterală?
+sidebar-genai-survey-satisfaction-question = Cât de mulțumit(ă) ești de accesul la un chatbot AI în bara laterală?
 sidebar-genai-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
-    „Chatbotul IA din bara laterală mă ajută să fiu mai productiv(ă)”?
+    „Chatbotul AI din bara laterală mă ajută să fiu mai productiv(ă)”?
 unified-search-callout-title = Treci de la un  motor de căutare la altul
 unified-search-callout-subtitle = Alege ce funcționează cel mai bine pentru căutarea ta specifică.
 unified-search-callout-primary-label = Înainte
