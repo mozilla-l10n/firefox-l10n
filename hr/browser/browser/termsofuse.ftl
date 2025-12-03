@@ -9,3 +9,7 @@
 existing-user-tou-learn-more = Saznaj više
 # Text for primary button
 existing-user-tou-accept = Prihvati
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = Podsjeti me kasnije
