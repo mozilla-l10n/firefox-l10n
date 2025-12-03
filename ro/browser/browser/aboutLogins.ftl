@@ -223,11 +223,11 @@ confirmation-dialog-cancel-button = Anulează
 confirmation-dialog-dismiss-button =
     .title = Anulează
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
-confirm-delete-dialog-message = Această acțiune este ireversibilă.
+confirm-delete-dialog-message = Acțiunea este ireversibilă.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Elimini parola?
 # Message for modal to confirm the removal of one saved password
-about-logins-confirm-delete-dialog-message = Nu poți anula această acțiune.
+about-logins-confirm-delete-dialog-message = Acțiunea este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
 
 ## Variables
@@ -253,8 +253,8 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Va elimina credențialele pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
-       *[other] Va elimina credențialele pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+        [1] Va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Acțiunea este ireversibilă.
+       *[other] Va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } și orice alerte privind încălcarea securității datelor care apar aici. Acțiunea este ireversibilă.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
