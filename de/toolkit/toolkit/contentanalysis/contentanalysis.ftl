@@ -40,7 +40,7 @@ contentanalysis-download-description = { $filename } herunterladen
 contentanalysis-warndialogtitle = Dieser Inhalt könnte nicht sicher sein
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-warndialogtext = Ihre Organisation verwendet Data Loss Prevention Software, die diesen Inhalt als nicht sicher markiert hat: { $content }. Trotzdem verwenden?
+contentanalysis-warndialogtext = Ihre Organisation verwendet eine Software zum Schutz vor Datenverlust, die diesen Inhalt als nicht sicher gemeldet hat: { $content }. Trotzdem verwenden?
 contentanalysis-warndialog-response-allow = Inhalt verwenden
 contentanalysis-warndialog-response-deny = Abbrechen
 contentanalysis-notification-title = Inhaltsanalyse
@@ -50,7 +50,7 @@ contentanalysis-notification-title = Inhaltsanalyse
 contentanalysis-genericresponse-message = Die Inhaltsanalyse antwortete mit { $response } für Ressource: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = Ihre Organisation verwendet Data Loss Prevention Software, die diesen Inhalt blockiert hat: { $content }.
+contentanalysis-block-message = Ihre Organisation verwendet eine Software zum Schutz vor Datenverlust, die diesen Inhalt blockiert hat: { $content }.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
