@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } – privatno pregledavanje
        *[other] { -brand-full-name } privatno pregledavanje
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Privatno pregledavanje
 popups-infobar-dont-show-message2 =
     .label = Ne prikazuj ovu poruku kada su skočni prozori ili preusmjeravanja trećih strana blokirani
     .accesskey = N
@@ -412,6 +415,9 @@ quickactions-cmd-restart = ponovo pokreni
 # Opens the screenshot tool
 quickactions-screenshot3 = Snimi ekran
 quickactions-cmd-screenshot2 = snimka ekrana, snimi ekran
+# Opens about:translations
+quickactions-translate = Prevedi
+quickactions-cmd-translate = prevedi
 quickactions-cmd-screenshot = snimka ekrana
 # Opens about:preferences
 quickactions-settings2 = Upravljaj postavkama
@@ -1388,6 +1394,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Prikaži „{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Prikaži „{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1433,6 +1443,7 @@ trustpanel-etp-description-enabled = Ako nešto na ovoj stranici izgleda neispra
 trustpanel-etp-description-disabled = { -brand-product-name } smatra da bi te tvrtke trebale manje pratiti. Blokiramo što više programa za praćenje kad uključiš zaštite.
 trustpanel-connection-label-secure = Veza je sigurna
 trustpanel-connection-label-insecure = Veza nije sigurna
+trustpanel-header-disabled = Isključio/la si zaštitu
 trustpanel-clear-cookies-button = Izbriši kolačiće i podatke stranica
 trustpanel-privacy-link = Postavke privatnosti
 # Variables
@@ -1452,6 +1463,13 @@ trustpanel-blocker-see-all = Pogledaj sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštite od praćenja za { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Nije sigurno
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

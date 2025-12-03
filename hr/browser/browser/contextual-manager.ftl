@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = Uvezi iz drugog pregl
 contextual-manager-passwords-command-import = Uvezi iz datoteke…
 contextual-manager-passwords-command-export = Izvezi lozinke
 contextual-manager-passwords-command-remove-all = Ukloni sve lozinke
+contextual-manager-passwords-command-options = Opcije
 contextual-manager-passwords-command-settings = Postavke
 contextual-manager-passwords-command-help = Pomoć
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -161,6 +162,8 @@ contextual-manager-passwords-password-already-exists-error-button = Idi na lozin
 contextual-manager-passwords-update-password-success-heading =
     .heading = Lozinka je spremljena
 contextual-manager-passwords-update-password-success-button = Gotovo
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Korisničko ime je spremljeno
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -214,12 +217,15 @@ contextual-manager-passwords-title = Lozinke
 
 contextual-manager-passwords-create-label =
     .label = Dodaj lozinku
+contextual-manager-passwords-update-label =
+    .label = Aktualiziraj lozinku
 contextual-manager-passwords-edit-label =
     .label = Uredi lozinku
 contextual-manager-passwords-remove-label =
     .title = Ukloni lozinku
 contextual-manager-passwords-origin-tooltip = Upiši točnu adresu s koje ćeš se prijavljivati na ovu stranicu.
 contextual-manager-passwords-username-tooltip = Upiši korisničko ime, e-mail adresu ili broj računa koji koristiš za prijavu.
+contextual-manager-passwords-password-tooltip-2 = Upiši lozinku za prijavu na ovaj račun
 contextual-manager-passwords-password-tooltip = Upiši lozinku koja se koristi za prijavu na ovaj račun.
 
 ## Password Card
@@ -300,6 +306,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nije pronađena nijedna lozinka
+contextual-manager-passwords-no-passwords-found-message-2 = Pokušaj s jednim drugim pojmom i pretraži ponovo.
 contextual-manager-passwords-no-passwords-found-message = Nije pronađena nijedna lozinka. Traži jedan drugi pojam i pokušaj ponovo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -314,6 +321,8 @@ contextual-manager-passwords-no-passwords-message = Sve lozinke su šifrirane i 
 contextual-manager-passwords-no-passwords-get-started-message = Dodaj ih ovdje da bi započeo/la.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Dodaj ručno
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Spremi svoje lozinke na sigurno mjesto
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -331,3 +340,7 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Da, ukloni lozinke
        *[other] Da, ukloni lozinke
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Za prikaz tvojih spremljenih lozinki, upiši svoju primarnu lozinku
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Upiši primarnu lozinku

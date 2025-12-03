@@ -270,6 +270,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Prikaži opis
     .accesskey = o
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Traži sliku pomoću { $engine }
+    .accesskey = s
 main-context-menu-video-save-as =
     .label = Spremi video kao …
     .accesskey = v
@@ -285,6 +290,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Pošalji zvuk e-poštom…
     .accesskey = a
+main-context-menu-send-to-device-2 =
+    .label = Pošalji na uređaj
+    .accesskey = n
 main-context-menu-save-to-pocket =
     .label = Spremi stranicu u { -pocket-brand-name }
     .accesskey = k
