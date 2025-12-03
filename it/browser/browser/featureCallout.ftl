@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Visualizza una breve descrizione, 
 sidebar-button-callout-title = Mostra i titoli delle schede nella barra laterale
 sidebar-button-callout-subtitle = Utilizza il pulsante della barra laterale per espanderla e visualizzare i titoli delle schede.
 sidebar-button-callout-vertical-tabs = Per visualizzare le schede, seleziona il pulsante della barra laterale nella barra degli strumenti.
+sidebar-deprecation-callout-title = La nuova barra laterale sarà disponibile a breve
+sidebar-deprecation-callout-subtitle = Stiamo progressivamente dismettendo la versione della barra laterale che stai utilizzando. Prova la nuova barra laterale aggiornata: è più rapida e puoi accedere a un maggior numero di strumenti.
+sidebar-deprecation-cta-button = Provala ora
 
 ## Sidebar Vertical Tabs Strings
 
