@@ -98,6 +98,7 @@ permissions-exceptions-https-only-desc2 = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬ
 permissions-exceptions-popup-window3 =
     .title = ਮਨਜ਼ੂਰ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਸੁਤੰਤਰ-ਧਿਰ ਫਰੇਮਾਂ ਵਲੋਂ ਪੌਪ-ਅੱਪ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਅਤੀ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਜਾਵੇਗਾ।
 
 ## Exceptions - Pop-ups
 
