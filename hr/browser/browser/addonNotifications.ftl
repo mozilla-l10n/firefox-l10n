@@ -133,15 +133,18 @@ addon-install-error-corrupt-file = Dodatak preuzet s ove stranice nije moguće i
 addon-install-error-file-access = { $addonName } nije moguće instalirati jer { -brand-short-name } ne može urediti potrebnu datoteku.
 addon-install-error-not-signed = { -brand-short-name } je spriječio instalaciju neprovjerenog dodatka.
 addon-install-error-invalid-domain = Dodatak { $addonName } se ne može instalirati s ovog mjesta.
+addon-install-error-no-addon-name-file-access = Instalacija dodatka nije uspjela jer { -brand-short-name } ne može promijeniti potrebnu datoteku.
 addon-local-install-error-network-failure = Ovaj dodatak nije moguće instalirati zbog greške s datotečnim sustavom.
 addon-local-install-error-incorrect-hash = Ovaj dodatak nije moguće instalirati jer se ne podudara s dodatkom kojeg je { -brand-short-name } očekivao.
 addon-local-install-error-corrupt-file = Ovaj dodatak nije moguće instalirati jer je najvjerojatnije oštećen.
 addon-local-install-error-file-access = { $addonName } nije moguće instalirati jer { -brand-short-name } ne može urediti potrebnu datoteku.
 addon-local-install-error-not-signed = Ovaj dodatak nije moguće instalirati jer nije verificiran.
+addon-local-install-no-addon-name-error-file-access = Instalacija dodatka nije uspjela jer { -brand-short-name } ne može promijeniti potrebnu datoteku.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nije moguće instalirati jer nije kompatibilan s { -brand-short-name(case: "ins") } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } krši Mozillina pravila i ne može se instalirati na { -brand-short-name(case: "acc") }.
+addon-install-error-soft-blocked2 = Dodatak { $addonName } je ograničen i ne može se instalirati u { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } nije moguće instalirati zbog prevelikog rizika nastanka mogućih problema sa sigurnošću i stabilnošću.
 addon-install-error-soft-blocked = { $addonName } krši Mozillina pravila i ne može se instalirati na { -brand-short-name(case: "acc") }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

@@ -199,6 +199,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Zadana postavka za istraživanje audio i video grešaka u { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-media-label =
     .label = Mediji
+profiler-popup-presets-ml-label =
+    .label = Strojno učenje
 profiler-popup-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-networking-label =
     .label = Mrežno povezivanje
@@ -291,6 +293,10 @@ appmenuitem-services-relay-description = Pokreni nadzornu ploču maski e-mail ad
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Zaštiti svoju online aktivnost
 appmenu-services-header = Moje usluge
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Isprobaj druge alate zaštite od Mozille:
 appmenu-other-protection-header = Isprobaj druge { -vendor-short-name } alate za zaštitu:
 
 ## Profiles panel
@@ -298,6 +304,8 @@ appmenu-other-protection-header = Isprobaj druge { -vendor-short-name } alate za
 appmenu-other-profiles = Drugi profili
 appmenu-manage-profiles =
     .label = Upravljaj profilima
+appmenu-copy-profile =
+    .label = Kopiraj ovaj profil
 appmenu-create-profile =
     .label = Novi profil
 appmenu-edit-profile =
