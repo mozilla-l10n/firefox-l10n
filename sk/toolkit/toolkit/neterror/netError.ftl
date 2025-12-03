@@ -57,7 +57,7 @@ neterror-dns-not-found-hint-firewall = Skontrolovať, či má { -brand-short-nam
 neterror-dns-not-found-offline-hint-header = <strong>Čo s tým môžete urobiť?</strong>
 neterror-dns-not-found-offline-hint-different-device = Skúste sa pripojiť na inom zariadení.
 neterror-dns-not-found-offline-hint-modem = Skontrolujte svoj modem alebo smerovač.
-neterror-dns-not-found-offline-hint-reconnect = Odpojte sa a znova pripojte k sieti Wi-Fi.
+neterror-dns-not-found-offline-hint-reconnect = Odpojte sa a znova pripojte k sieti Wi‑Fi.
 
 ## TRR-only specific messages
 ## Variables:
@@ -168,11 +168,17 @@ certerror-coep-learn-more = Ďalšie informácie o zásadách Cross Origin Embed
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Zdá sa, že sa vyskytol problém s vaším internetovým pripojením
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nedokáže vytvoriť zabezpečené pripojenie k serveru na adrese { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } sa nemôže pripojiť k serveru na adrese <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zdá sa, že táto stránka používa starý softvér so známymi bezpečnostnými problémami.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Uistite sa, že používate najnovšiu verziu { -brand-short-name(case: "gen") }. V ponuke prejdite na Pomocník > O aplikácii { -brand-short-name }. Ak používate najnovšiu verziu { -brand-short-name(case: "gen") }, problém je s najväčšou pravdepodobnosťou na samotnej stránke.
+fp-neterror-offline-what-can-you-do-body = Skúste sa pripojiť na inom zariadení. Skontrolujte modem alebo smerovač. Odpojte sa a znova sa pripojte k sieti Wi‑Fi.

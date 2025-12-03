@@ -133,7 +133,7 @@ cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 # This header text can be explicitly wrapped.
-spotlight-public-wifi-vpn-header = Zdá sa, že používate verejnú sieť Wi-Fi
+spotlight-public-wifi-vpn-header = Zdá sa, že používate verejnú sieť Wi‑Fi
 spotlight-public-wifi-vpn-body = Ak chcete skryť svoju polohu a aktivitu pri prehliadaní, zvážte použiť virtuálnu súkromnú sieť. Pomôže vám to chrániť sa pri prehliadaní z verejných miest, ako sú letiská a kaviarne.
 spotlight-public-wifi-vpn-primary-button = Ochrániť súkromie pomocou { -mozilla-vpn-brand-name }
     .accesskey = O
