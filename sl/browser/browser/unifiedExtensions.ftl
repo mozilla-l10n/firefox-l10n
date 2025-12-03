@@ -66,8 +66,10 @@ unified-extensions-mb-about-addons-link = Pojdi na nastavitve razširitev
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } je onemogočen
-    .message = Ta razširitev krši Mozilline pravilnike, zato je bila onemogočena. V nastavitvah jo lahko omogočite, vendar je to morda nevarno
+    .heading = Razširitev { $extensionName } onemogočena
+    .message =
+        Ta razširitev krši Mozilline pravilnike, zato je bila onemogočena.
+        V nastavitvah jo lahko omogočite, vendar je to morda nevarno.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
