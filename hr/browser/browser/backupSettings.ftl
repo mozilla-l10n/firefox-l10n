@@ -150,7 +150,11 @@ change-backup-encryption-header = Promijeni lozinku sigurnosne kopije
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
-password-rules-header = Preduvjeti za lozinku
+password-rules-header = Zahtjevi za lozinku
+password-rules-length-description = Barem 8 znakova
+password-rules-email-description = Ne tvoja adresa e-mail adresa
+password-rules-disclaimer = Zaštiti se – nemoj koristiti već korištene lozinke. Pogledaj savjete za <linkExternal>stvaranje jakih lozinki</linkExternal>.
+password-validity-has-email = Ne može biti e-mail adresa
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
