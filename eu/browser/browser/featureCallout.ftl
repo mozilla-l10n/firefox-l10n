@@ -153,8 +153,10 @@ pin-tabs-callout-4-title = Ainguratu gehien bisitatzen dituzun guneak
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Alboko barra: tresna eta fitxen zure tokia
+sidebar-customization-callout-1-subtitle = { -brand-product-name } alboko barrak sarbide bizkorra ematen dizu nabigatze-historiara, beste gailuetako fitxetara eta AA txaterako botera — hau guztia zure ikuspegi nagusia utzi gabe.
 sidebar-customization-callout-callout-button = Pertsonalizatu alboko barra
 sidebar-customization-callout-dismiss-button = Ezkutatu alboko barra
+sidebar-customization-callout-2-title = Pertsonaliza ezazu { -brand-product-name } alboko barra
 
 ## Sidebar Callout Survey Strings
 

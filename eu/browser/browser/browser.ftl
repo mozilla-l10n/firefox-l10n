@@ -922,6 +922,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ez da lasterbiderik hautatu, hautatu lasterbidea
     .tooltiptext = Ez da lasterbiderik hautatu, hautatu lasterbidea
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Gako-hitz bidezko bilaketa desgaituta dago
+    .tooltiptext = Gako-hitz bidezko bilaketa desgaituta dago
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

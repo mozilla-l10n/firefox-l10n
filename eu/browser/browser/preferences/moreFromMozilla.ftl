@@ -30,12 +30,14 @@ more-from-moz-firefox-relay-button = Eskuratu { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Automatikoki zuzendu agerian utzitako zure informazio pertsonala.
 more-from-moz-mozilla-monitor-global-description = Jaso alertak zure datuak urratze batean agerian utzi badira.
 more-from-moz-mozilla-monitor-button = Eskuratu { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AA
+more-from-moz-solo-description = Sortu zure webgunea berehala eta konektatu zure domeinu-izena doan.
 more-from-moz-solo-button = Probatu { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AA webgune sortzailea
 

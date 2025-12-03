@@ -132,7 +132,15 @@ contextual-manager-passwords-password-label = Pasahitza
     .data-after = Kopiatuta
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Iragazi pasahitzak
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Pasahitza gehituta { $url } helbiderako
 contextual-manager-passwords-add-password-success-button = Ikusi
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Erabiltzaile-izen eta pasahitzak badaude lehendik ere { $url } helbiderako
 contextual-manager-passwords-password-already-exists-error-button = Joan pasahitzera
 contextual-manager-passwords-update-password-success-heading =
     .heading = Pasahitza gordeta
@@ -197,6 +205,10 @@ contextual-manager-passwords-edit-label =
     .label = Editatu pasahitza
 contextual-manager-passwords-remove-label =
     .title = Kendu pasahitza
+contextual-manager-passwords-origin-tooltip = Idatzi gune honetan saioa hasiko duzun helbide zehatza.
+contextual-manager-passwords-username-tooltip = Idatzi saioa hasteko erabiltzen duzun erabiltzaile-izena, helbide elektronikoa edo kontu-zenbakia.
+contextual-manager-passwords-password-tooltip-2 = Idatzi kontu honetara sartzeko pasahitza.
+contextual-manager-passwords-password-tooltip = Idatzi kontu honetara sartzeko erabiltzen den pasahitza.
 
 ## Password Card
 
@@ -282,6 +294,11 @@ contextual-manager-passwords-no-passwords-found-message = Ez da pasahitzik aurki
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Gorde zure pasahitzak toki seguru batean.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Pasahitz guztiak zifratuta daude eta adi ibiliko gara eragingo lizuketen datu-urratze eta alertetara.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Erabiltzen hasteko, gehi itzazu hemen.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Gehitu eskuz
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
