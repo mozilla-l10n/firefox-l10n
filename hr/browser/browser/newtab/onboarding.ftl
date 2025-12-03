@@ -477,3 +477,30 @@ dismiss-button-label = Odbaci
 sync-to-mobile-button-label = Sinkroniziraj s mobilnim uređajem
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR kod za preuzimanje { -brand-product-name }a za mobilne uređaje
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    Nadograđuješ na Windows 11?
+    Sigurnosno kopirajmo tvoje { -brand-product-name } podatke.
+create-backup-screen-1-subtitle = Automatski zaštiti svoje lozinke, zabilješke i još više u roku od jedne do dvije minute.
+create-backup-screen-1-flair = Preporučeno
+create-backup-screen-1-backup-body = Sprema na tvoj uređaj ili na OneDrive
+create-backup-select-tile-button-label = Odaberi
+create-backup-back-button-label = Natrag
+create-backup-screen-2-title = Odaberi { -brand-product-name } podatke za sigurnosno kopiranje
+create-backup-screen-2-subtitle = Traje samo minutu. Tvoji se podaci sigurnosno kopiraju jednom dnevno.
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Obnovi iz sigurnosne kopije
+restore-from-backup-secondary-button = Nemoj obnoviti
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Spremi i nastavi
+restored-from-backup-success-with-checklist-secondary-button = Preskoči ovaj korak
+restored-from-backup-success-no-checklist-primary-button = Nastavi
+restored-from-backup-error-title = Hmm, došlo je do problema s tvojom datotekom sigurnosne kopije.
+restored-from-backup-error-subtitle = Ako imaš neku drugu { -brand-short-name } datoteku sigurnosne kopije, pokušaj obnoviti podatke iz nje. <a data-l10n-name="restore-problems">Još uvijek imaš probleme?</a>
+restored-from-backup-error-primary-button = Zatvori
