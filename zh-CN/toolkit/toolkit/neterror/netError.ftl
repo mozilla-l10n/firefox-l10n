@@ -168,11 +168,17 @@ certerror-coep-learn-more = 详细了解跨源嵌入程序策略（COEP）
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = 错误代码：{ $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = 您的网络连接似乎出了点问题
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } 无法与 { $hostname } 的服务器创建安全连接。
+fp-neterror-offline-intro = { -brand-short-name } 无法连接到 <strong>{ $hostname }</strong> 的服务器
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 此网站似乎正在使用已知存在安全问题的旧版软件。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = 请确认您正在使用最新版本的 { -brand-short-name }，方法是在菜单中前往“帮助”>“关于 { -brand-short-name }”查看。如果您已使用最新版 { -brand-short-name }，那么可能是网站自身存在问题。
+fp-neterror-offline-what-can-you-do-body = 请尝试通过其他设备连接、检查调制解调器或路由器、断开 Wi-Fi 连接后重新连接。
