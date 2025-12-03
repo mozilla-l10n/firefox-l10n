@@ -185,34 +185,34 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } încearcă să schimbe setările pentru parole. Folosește autentificarea pe dispozitiv ca să permiți acțiunea.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = Pentru a edita parola, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-edit-login-os-auth-dialog-message2-win = Pentru a edita parola, introdu datele de autentificare în Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editează parola salvată
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-reveal-password-os-auth-dialog-message-win = Pentru a vedea parola, introdu datele de autentificare în Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-copy-password-os-auth-dialog-message-win = Pentru a copia parola, introdu datele de autentificare în Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta credențialele salvate, introdu credențialele Windows. Ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare salvate, introdu datele de autentificare în Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportă credențialele și parolele salvate
+about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de autentificare și parolele salvate
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu credențialele Windows. Acest lucru ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu datele de autentificare în Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = exportă parolele salvate
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Te rugăm să îți introduci parola primară pentru a vedea credențialele și parolele salvate
+about-logins-primary-password-notification-message = Te rugăm să îți introduci parola primară pentru a vedea datele de autentificare și parolele salvate
 master-password-reload-button =
     .label = Intră în cont
     .accesskey = L
@@ -242,14 +242,14 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
-        [1] Da, elimină aceste credențiale
-       *[other] Da, elimină aceste credențiale
+        [1] Da, elimină aceste date de autentificare
+       *[other] Da, elimină aceste date de autentificare
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] Elimini { $count } set de credențiale?
-        [few] Elimini toate cele { $count } credențiale?
-       *[other] Elimini toate cele { $count } de credențiale?
+        [one] Elimini { $count } set de date de autentificare?
+        [few] Elimini toate cele { $count } seturi de date de autentificare?
+       *[other] Elimini toate cele { $count } de seturi de date de autentificare?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
@@ -258,9 +258,9 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] Elimini { $count } credențiale de pe toate dispozitivele?
-        [few] Elimini toate cele { $count } credențiale de pe toate dispozitivele?
-       *[other] Elimini toate cele { $count } de credențiale de pe toate dispozitivele?
+        [one] Elimini { $count } set de date de autentificare de pe toate dispozitivele?
+        [few] Elimini toate cele { $count } seturi de date de autentificare de pe toate dispozitivele?
+       *[other] Elimini toate cele { $count } de seturi de date de autentificare de pe toate dispozitivele?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
@@ -304,7 +304,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Exportă credențiale și parole
+about-logins-confirm-export-dialog-title = Exportă datele de autentificare și parolele
 about-logins-confirm-export-dialog-message = Parolele tale vor fi salvate în text lizibil (de ex., BadP@ssw0rd) și oricine poate deschide fișierul exportat le va putea vedea.
 about-logins-confirm-export-dialog-confirm-button = Exportă…
 about-logins-confirm-export-dialog-title2 = O notă despre exportarea parolelor
@@ -321,7 +321,7 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Încălcare a securității datelor în cazul unui site web
-breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară credențialele. Schimbă parola ca să îți protejezi contul.
+breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară datele de autentificare. Schimbă parola ca să îți protejezi contul.
 about-logins-breach-alert-date = Această încălcare a securității datelor a avut loc la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -330,7 +330,7 @@ about-logins-breach-alert-link = Mergi la { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Parolă vulnerabilă
-about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o încălcare a securității datelor. Refolosirea credențialelor îți va pune contul în pericol. Schimbă această parolă.
+about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o încălcare a securității datelor. Refolosirea datelor de autentificare îți va pune contul în pericol. Schimbă această parolă.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mergi la { $hostname }
@@ -349,10 +349,10 @@ about-logins-error-message-default = A apărut o eroare la încercarea de salvar
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Exportă fișierul de credențiale
+about-logins-export-file-picker-title = Exportă fișierul cu datele de autentificare
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename = credențiale.csv
+about-logins-export-file-picker-default-filename = date_de_autentificare.csv
 # Title of the file picker dialog
 about-logins-export-file-picker-title2 = Exportă parolele din { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
@@ -370,7 +370,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Importă fișierul de credențiale
+about-logins-import-file-picker-title = Importă fișierul cu datele de autentificare
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importă parolele în { -brand-short-name }
 about-logins-import-file-picker-import-button = Importă
@@ -396,7 +396,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Importare finalizată
 about-logins-import-dialog-items-added =
     { $count ->
-       *[other] <span>Au fost adăugate credențiale noi:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Au fost adăugate date de autentificare noi:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
@@ -404,7 +404,7 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-       *[other] <span>Credențiale duplicate găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
+       *[other] <span>Date de autentificare duplicate găsite:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu importate)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
@@ -424,28 +424,28 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Terminat
 about-logins-import-dialog-error-title = Eroare la importare
-about-logins-import-dialog-error-conflicting-values-title = Mai multe valori conflictuale pentru un singur set de credențiale
-about-logins-import-dialog-error-conflicting-values-description = De exemplu: mai multe nume de utilizator, parole, adrese URL-uri etc. pentru pentru un singur set de credențiale.
+about-logins-import-dialog-error-conflicting-values-title = Mai multe valori conflictuale pentru un singur set de date de autentificare
+about-logins-import-dialog-error-conflicting-values-description = De exemplu: mai multe nume de utilizator, parole, adrese URL-uri etc. pentru pentru un singur set de date de autentificare.
 about-logins-import-dialog-error-file-format-title = Problemă cu formatul fișierului
 about-logins-import-dialog-error-file-format-description = Anteturi de coloană incorecte sau lipsă. Asigură-te că fișierul include coloane pentru nume de utilizator, parolă și URL.
 about-logins-import-dialog-error-file-permission-title = Fișierul nu poate fi citit
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nu are permisiunea de a citi fișierul. Încearcă să schimbi permisiunile pentru fișiere.
 about-logins-import-dialog-error-unable-to-read-title = Fișierul nu poate fi analizat
 about-logins-import-dialog-error-unable-to-read-description = Asigură-te că ai selectat un fișier CSV sau TSV.
-about-logins-import-dialog-error-no-logins-imported = Nu au fost importate credențiale
+about-logins-import-dialog-error-no-logins-imported = Nu au fost importate date de autentificare
 about-logins-import-dialog-error-learn-more = Află mai multe
 about-logins-import-dialog-error-try-import-again = Încearcă să imporți din nou…
 about-logins-import-dialog-error-cancel = Anulează
 about-logins-import-report-title = Sumar de importare
-about-logins-import-report-description = Credențiale și parole importate în { -brand-short-name }.
+about-logins-import-report-description = Date de autentificare și parole importate în { -brand-short-name }.
 about-logins-import-report-description2 = Parole importate în { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rândul { $number }
-about-logins-import-report-row-description-no-change = Duplicat: Potrivire exactă cu credențialele existente
-about-logins-import-report-row-description-modified = Credențialele existente au fost actualizate
-about-logins-import-report-row-description-added = A fost adăugat un nou set de credențiale
+about-logins-import-report-row-description-no-change = Duplicat: Potrivire exactă cu datele de autentificare existente
+about-logins-import-report-row-description-modified = Datele de autentificare existente au fost actualizate
+about-logins-import-report-row-description-added = A fost adăugat un nou set de date de autentificare
 about-logins-import-report-row-description-no-change2 = Duplicat: Potrivire exactă cu o intrare existentă
 about-logins-import-report-row-description-modified2 = Intrare existentă actualizată
 about-logins-import-report-row-description-added2 = Parolă nouă adăugată
@@ -464,15 +464,15 @@ about-logins-import-report-row-description-error-missing-field = Eroare: Lipseș
 
 about-logins-import-report-added =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credențiale noi adăugate</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare noi adăugate</div>
     }
 about-logins-import-report-modified =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credențiale existente actualizate</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare existente actualizate</div>
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credențiale duplicate</div> <div data-l10n-name="not-imported">(nu importate)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Date de autentificare duplicate</div> <div data-l10n-name="not-imported">(nu importate)</div>
     }
 about-logins-import-report-added2 =
     { $count ->
