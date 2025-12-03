@@ -344,3 +344,4 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
 contextual-manager-primary-password-reauth-header = Za prikaz tvojih spremljenih lozinki, upiši svoju primarnu lozinku
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Upiši primarnu lozinku
+contextual-manager-primary-password-learn-more-link = Saznaj više

@@ -348,3 +348,29 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Pristupi svom omiljenom pregledniku za privatno pregledavanje jednim klikom. Postavi { -brand-short-name } kao standardni preglednik za otvaranje poveznica i prikvači ga u programsku traku.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Pristupi svom omiljenom pregledniku za privatno pregledavanje jednim klikom. Postavi { -brand-short-name } kao standardni preglednik za otvaranje poveznica i prikvači ga u izbornik Start.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-subtitle = Sigurnosno kopiraj svoje podatke kako bi { -brand-short-name } bio spreman za korištenje bilo kada, na ovom ili sljedećem uređaju.
+windows-10-eos-sync-toast-primary-label = Započni
+windows-10-eos-sync-toast-secondary-label = Podsjeti me kasnije
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } nije unaprijed instaliran kao drugi preglednici velikih tehnoloških tvrtki. To je poanta.
+windows-10-eos-challenger-sync-callout-subtitle = Kada sigurnosno kopiraš svoje { -brand-product-name } zabilješke i lozinke, jednostavnije je ponijeti odabrani preglednik na sljedeći uređaj.
+windows-10-eos-challenger-pin-callout-subtitle = Prikvači { -brand-shorter-name } na programsku traku kako bi tvoj odabrani preglednik uvijek bio pri ruci kada ti zatreba.
+windows-10-eos-challenger-sync-primary-button = Sigurnosno kopiraj { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Prikvači { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudare, programe za praćenje društvenih mreža i prikupljače digitalnih otisaka.
+windows-10-eos-sync-callout-privacy-info-button = Pogledaj što je blokirano
+windows-10-eos-callout-addons-title = Isprobaj dodatke: jednostavne nadogradnje, veliki učinci
+windows-10-eos-callout-addons-primary-button = Pogledaj naš izbor
+windows-10-eos-sync-callout-next-button = Dalje
+windows-10-eos-sync-callout-get-started-button = Započni
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Uveli smo okomite kartice i grupe kartica!
+windows-10-eos-feature-toast-whats-new-button = Pogledaj što je novo
+windows-10-eos-feature-toast-dismiss-button = Odbaci
