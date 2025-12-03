@@ -166,8 +166,32 @@ preferences-manage-profiles-description = Svaki profil ima zasebne podatke o pre
 preferences-manage-profiles-learn-more = Saznaj više
 preferences-manage-profiles-button =
     .label = Upravljaj profilima
+preferences-profiles-settings-button =
+    .label = Postavke
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopiraj postojeći profil
+    .description = Novi profil će kopirat tvoje postavke, dodatke, povijest i spremljene podatke poput zabilješki i lozinki – ali ne tvoj račun ili sinkronizirane informacije.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil za kopiranje
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Odaberi profil
+preferences-copy-profile-button = Kopiraj
 tabs-group-header2 =
     .label = Kartice
+tabs-opening-heading =
+    .label = Otvaranje
+tabs-interaction-heading =
+    .label = Interakcija
+tabs-containers-heading =
+    .label = Kontejneri
+tabs-closing-heading =
+    .label = Zatvaranje
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redoslijedom nedavnog korištenja
@@ -175,6 +199,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Otvori poveznice u karticama umjesto u novim prozorima
     .accesskey = p
+open-external-link-next-to-active-tab =
+    .label = Otvori poveznice iz aplikacija pored aktivne kartice
 ask-on-close-multiple-tabs =
     .label = Pitaj prije zatvaranja više kartica
     .accesskey = P
@@ -273,6 +299,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Tamna
     .title = Koristi tamni izgled za pozadinu i sadržaj web stranice.
+web-appearance-group =
+    .aria-label = Izgled web-stranice
 preferences-web-appearance-choice-auto = Automatski
 preferences-web-appearance-choice-light = Svijetla
 preferences-web-appearance-choice-dark = Tamna
@@ -607,6 +635,7 @@ home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš p
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Početna stranica i novi prozori
+home-homepage-mode-label2 = Novi prozori
 home-newtabs-mode-label = Nove kartice
 home-restore-defaults =
     .label = Obnovi standardne postavke
@@ -619,6 +648,11 @@ home-mode-choice-blank =
     .label = Prazna stranica
 home-homepage-custom-url =
     .placeholder = Zalijepite URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Upravljaj proširenjem
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Odaberi određenu web-stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -633,9 +667,19 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
+home-homepage-header = Početna stranica
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Prilagođena početna stranica
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adrese web-stranica
+home-custom-homepage-address =
+    .placeholder = Upiši adresu
+home-custom-homepage-address-button =
+    .label = Dodaj adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Nema dodanih web-stranica.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Zamijeni s

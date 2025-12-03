@@ -517,6 +517,9 @@ fx-backup-confirmation-screen-all-data-item-text-2 = Spremljeno na tvoj uređaj
 fx-backup-confirmation-screen-all-data-item-text-3 = Šifrirano i zaštićeno lozinkom
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Uključene su zabilješke, povijest, postavke i drugi podaci
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Spremljeno na tvoj uređaj
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Lozinke i načini plaćanja nisu uključeni
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Idi na <a data-l10n-name="settings">Postavke</a> za uključivanje osjetljivih podataka.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } će potražiti tvoju sigurnosnu kopiju, ako moraš ponovo instalirati.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -531,3 +534,14 @@ restored-from-backup-success-no-checklist-primary-button = Nastavi
 restored-from-backup-error-title = Hmm, došlo je do problema s tvojom datotekom sigurnosne kopije.
 restored-from-backup-error-subtitle = Ako imaš neku drugu { -brand-short-name } datoteku sigurnosne kopije, pokušaj obnoviti podatke iz nje. <a data-l10n-name="restore-problems">Još uvijek imaš probleme?</a>
 restored-from-backup-error-primary-button = Zatvori
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Prilagodi svoje { -brand-short-name } iskustvo
+onboarding-personalization-use-case-personal-option = Osobno
+onboarding-personalization-use-case-school-option = Škola
+onboarding-personalization-use-case-work-option = Posao
+onboarding-personalization-motivation-privacy-option = Privatnost i sigurnost
+onboarding-personalization-motivation-productivity-option = Produktivnost
+onboarding-personalization-motivation-other-option = Drugo

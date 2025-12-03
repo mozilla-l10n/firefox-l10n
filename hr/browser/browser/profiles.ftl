@@ -225,3 +225,5 @@ shopping-avatar = Kolica za kupnju
 star-avatar = Zvijezda
 custom-avatar-crop-area =
     .aria-label = Prilagodi područje obrezivanja
+custom-avatar-drag-handle =
+    .aria-label = Promijeni veličinu područja obrezivanja

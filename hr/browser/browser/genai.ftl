@@ -95,6 +95,9 @@ genai-shortcuts-hide =
     .label = Sakrij prečac chatbota
 genai-menu-choose-chatbot =
     .label = Odaberi UI chatbot
+genai-menu-ask-generic-2 =
+    .label = Pitaj chatbot umjetne inteligencije
+    .accesskey = c
 
 ## Chatbot header
 

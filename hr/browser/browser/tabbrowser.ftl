@@ -355,6 +355,7 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-note-editor-title-create = Dodaj bilješku
 tab-note-editor-title-edit = Uredi bilješku
 tab-note-editor-text-field =
     .placeholder = Što želiš zapamtiti o ovoj kartici?
@@ -364,6 +365,10 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Spremi
     .accesskey = S
+
+## Split View
+
+tab-context-badge-new = Novi
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
