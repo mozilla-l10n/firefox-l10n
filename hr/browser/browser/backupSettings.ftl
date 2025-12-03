@@ -155,16 +155,46 @@ password-rules-length-description = Barem 8 znakova
 password-rules-email-description = Ne tvoja adresa e-mail adresa
 password-rules-disclaimer = Zaštiti se – nemoj koristiti već korištene lozinke. Pogledaj savjete za <linkExternal>stvaranje jakih lozinki</linkExternal>.
 password-validity-has-email = Ne može biti e-mail adresa
+password-validity-do-not-match = Lozinke se ne podudaraju
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Uspjeh
+password-rules-a11y-warning =
+    .alt = Upozorenje
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Ukloni zaštitu lozinkom
 disable-backup-encryption-description2 = Tvoje spremljene lozinke i načini plaćanja se također više neće sigurnosno kopirati.
+disable-backup-encryption-support-link = Što će se sigurnosno kopirati?
+disable-backup-encryption-cancel-button = Odustani
+disable-backup-encryption-confirm-button = Ukloni lozinku
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Tvoja lozinka ne zadovoljava preduvjete. Pokušaj koristiti jednu drugu lozinku.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Nešto nije u redu. Pokušaj kasnije ponovo.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } je spreman za obnavljanje
+backup-file-title = Obnovi { -brand-short-name }
+backup-file-path-label = Datoteka sigurnosne kopije:
+backup-file-encryption-state-label = Šifrirano:
+backup-file-encryption-state-value-encrypted = Da
+backup-file-encryption-state-value-not-encrypted = Ne
+backup-file-creation-device-label = Uređaj:
+backup-file-creation-date-label = Stvoreno:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }

@@ -490,6 +490,33 @@ create-backup-select-tile-button-label = Odaberi
 create-backup-back-button-label = Natrag
 create-backup-screen-2-title = Odaberi { -brand-product-name } podatke za sigurnosno kopiranje
 create-backup-screen-2-subtitle = Traje samo minutu. Tvoji se podaci sigurnosno kopiraju jednom dnevno.
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Uključuje lozinke i načine plaćanja
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Šifrirano s lozinkom
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Gdje želiš spremiti svoju sigurnosnu kopiju?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Stvori lozinku za datoteku sigurnosne kopije
+create-backup-screen-3-subtitle = Zahtijava da šifriraš podatke. Spremi ih na mjestu koje ćeš upamtiti.
+fx-backup-opt-in-header = Odaberi mjesto datoteke
+fx-backup-opt-in-filepath-label = Odaberi mjesto koje ćeš prenijeti na novi uređaj, poput OneDrivea.
+fx-backup-opt-in-create-password-label = Upiši lozinku
+fx-backup-opt-in-confirm-btn-label = Nastavi
+fx-backup-opt-in-cancel-btn-label = Natrag
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = Tvoja je sigurnosna kopija zakazana
+fx-backup-confirmation-screen-close-button = Zatvori
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Uključeni su svi podaci pregledavanja
+fx-backup-confirmation-screen-all-data-item-text-2 = Spremljeno na tvoj uređaj
+fx-backup-confirmation-screen-all-data-item-text-3 = Šifrirano i zaštićeno lozinkom
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Uključene su zabilješke, povijest, postavke i drugi podaci
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Spremljeno na tvoj uređaj
 
 ## Restore from Backup Flow about:welcome screens
 

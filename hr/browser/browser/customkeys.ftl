@@ -25,3 +25,5 @@ customkeys-nav-forward = Naprijed
 customkeys-nav-home = Početna stranica
 customkeys-nav-reload = Učitaj ponovo
 customkeys-nav-reload-skip-cache = Učitaj ponovo (nadjačaj predmemoriju)
+customkeys-nav-stop = Zaustavi
+customkeys-caution-message = Ovo je eksperimentalna funkcija i možda neće raditi kako se očekuje.
