@@ -74,6 +74,7 @@ fxa-adoption-addresses-backup-title = Резервне копіювання зб
 fxa-adoption-addresses-backup-subtitle = Захистіть свої збережені адреси, синхронізувавши їх з іншими пристроями за допомогою шифрування.
 fxa-adoption-credit-cards-backup-title = Резервне копіювання способів оплати
 fxa-adoption-credit-cards-backup-subtitle = Захистіть свої способи оплати, синхронізувавши їх з іншими пристроями за допомогою шифрування.
+fxa-adoption-bookmarks-treatment-backup-title = Створіть резервну копію своїх закладок
 fxa-adoption-bookmarks-treatment-backup-subtitle = Захистіть свої закладки, синхронізувавши їх з іншими пристроями за допомогою шифрування.
 fxa-adoption-primary-button-label = Зареєструватись
 
@@ -234,6 +235,22 @@ fox-doodle-pin-secondary = Не зараз
 
 set-default-pdf-handler-headline = <strong>Тепер ваші файли PDF відкриватимуться в { -brand-short-name }.</strong> Редагуйте й підписуйте форми безпосередньо в браузері. Щоб змінити поведінку, шукайте “PDF” у налаштуваннях.
 set-default-pdf-handler-primary = Зрозуміло
+
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Поставте свій підпис де завгодно!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Намалюйте, надрукуйте або вивантажте свій підпис, а потім розмістіть його саме там, де потрібно. Зберігайте свої підписи для подальшого використання.
+annotations-make-default-pdf-handler-title = Зробити { -brand-short-name } типовим редактором PDF?
+annotations-make-default-pdf-handler-subtitle = Ви матимете доступ до наших інструментів щоразу, коли відкриватимете PDF-файл.
+annotations-make-default-pdf-primary-cta =
+    .label = Зробити типовим
+annotations-make-default-pdf-next =
+    .label = Далі
 
 ## FxA sync CFR
 

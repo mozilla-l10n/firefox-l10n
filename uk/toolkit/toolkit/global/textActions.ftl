@@ -68,6 +68,9 @@ text-action-search-text-box-clear =
     .title = Очистити
 text-action-highlight-selection =
     .label = Підсвітити вибране
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Додати коментар до вибраного
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =

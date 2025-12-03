@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = Отримати { -monitor-brand-short-n
 more-from-moz-solo-title = ШІ { -solo-ai-brand-name }
 more-from-moz-solo-description = Миттєво створіть свій сайт і під'єднайте власний домен безплатно.
 more-from-moz-solo-button = Спробуйте { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } ШІ творець вебсайтів
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
