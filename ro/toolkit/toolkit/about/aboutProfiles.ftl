@@ -47,8 +47,8 @@ profiles-delete-profile-title = Șterge profilul
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Ștergerea unui profil va duce la eliminarea sa din lista de profiluri disponibile, iar această acțiune este ireversibilă.
-    De asemenea, poți alege să ștergi fișierele de date ale profilului, inclusiv setările, certificatele și alte date care au legătură cu utilizatorul. Această opțiune va șterge dosarul „{ $dir }”, iar această acțiune este ireversibilă.
+    Ștergerea unui profil va duce la eliminarea lui din lista de profiluri disponibile, iar acțiunea este ireversibilă.
+    Poți alege și să ștergi fișierele de date ale profilului, inclusiv setările, certificatele și alte date care au legătură cu utilizatorul. Opțiunea va șterge dosarul „{ $dir }”, iar acțiunea este ireversibilă.
     Vrei să ștergi fișierele de date ale profilului?
 profiles-delete-files = Șterge fișierele
 profiles-dont-delete-files = Nu șterge fișierele

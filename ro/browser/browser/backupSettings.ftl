@@ -85,7 +85,7 @@ backup-error-file-system = A apărut o problemă cu dosarul selectat pentru copi
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Dezactivezi backupurile?
-turn-off-scheduled-backups-description = Toate copiile de rezervă vor fi șterse. Acțiunea nu poate fi anulată.
+turn-off-scheduled-backups-description = Toate copiile de rezervă vor fi șterse. Acțiunea este ireversibilă.
 turn-off-scheduled-backups-support-link = Află mai multe
 turn-off-scheduled-backups-cancel-button = Anulează
 turn-off-scheduled-backups-confirm-button = Dezactivează și șterge backupurile

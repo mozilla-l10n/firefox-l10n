@@ -130,15 +130,15 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Vei elimina parola salvată în { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea nu poate fi anulată.
-       *[other] Vei elimina parolele salvate în { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea nu poate fi anulată.
+        [1] Vei elimina parola salvată în { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea este ireversibilă.
+       *[other] Vei elimina parolele salvate în { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea este ireversibilă.
     }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
     { $total ->
-        [1] Vei elimina parola salvată în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea nu poate fi anulată.
-       *[other] Vei elimina toate parolele salvate în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea nu poate fi anulată.
+        [1] Vei elimina parola salvată în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea este ireversibilă.
+       *[other] Vei elimina toate parolele salvate în { -brand-short-name } de pe toate dispozitivele sincronizate și orice alerte privind încălcarea securității datelor. Acțiunea este ireversibilă.
     }
 contextual-manager-passwords-origin-label = Site web
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
@@ -185,7 +185,7 @@ contextual-manager-passwords-radiobutton-alerts = Alerte ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = Elimini parola?
 # This message warns the user that deleting a login is permanent.
-contextual-manager-passwords-remove-login-card-message = Nu poți anula acțiunea.
+contextual-manager-passwords-remove-login-card-message = Acțiunea este ireversibilă.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = Înapoi
 # This message confirms that the user wants to remove an existing login.

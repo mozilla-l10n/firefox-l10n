@@ -264,10 +264,10 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Acest lucru va elimina credențialele pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
-        [one] Acest lucru va elimina credențialele pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
-        [few] Acest lucru va elimina toate credențialele pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
-       *[other] Acest lucru va elimina toate credențialele pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name(case: "definite-article", capitalization: "lower-and-you") }. De asemenea, vor fi eliminate alertele privind încălcarea securității datelor care apar aici. Nu vei putea anula această acțiune.
+        [1] Va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name }. Vor fi eliminate și alertele privind încălcarea securității datelor care apar aici. Acțiunea este ireversibilă.
+        [one] Va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name }. Vor fi eliminate și alertele privind încălcarea securității datelor care apar aici. Acțiunea este ireversibilă.
+        [few] Va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name }. Vor fi eliminate și alertele privind încălcarea securității datelor care apar aici. Acțiunea este ireversibilă.
+       *[other] Va elimina datele de autentificare pe care le-ai salvat în { -brand-short-name } pe toate dispozitivele sincronizate cu { -fxaccount-brand-name }. Vor fi eliminate și alertele privind încălcarea securității datelor care apar aici. Acțiunea este ireversibilă.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -285,8 +285,8 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Vei elimina parola salvată pentru { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea nu poate fi anulată.
-       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+        [1] Vei elimina parola salvată pentru { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea este ireversibilă.
+       *[other] Vei elimina parola salvată pentru { -brand-short-name } și orice alerte de încălcare a securității datelor. Acțiunea este ireversibilă.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -298,8 +298,8 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] Vei elimina parola salvată în { -brand-short-name } și pe toate dispozitivele sincronizate. Vei elimina și orice alerte de încălcare a securității datelor care apar aici. Acțiunea nu poate fi anulată.
-       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
+        [1] Vei elimina parola salvată în { -brand-short-name } și pe toate dispozitivele sincronizate. Vei elimina și orice alerte de încălcare a securității datelor care apar aici. Acțiunea este ireversibilă.
+       *[other] Vei elimina parola salvată în { -brand-short-name } și pe toate dispozitivele sincronizate. Vei elimina și orice alerte de încălcare a securității datelor care apar aici. Acțiunea este ireversibilă.
     }
 
 ##

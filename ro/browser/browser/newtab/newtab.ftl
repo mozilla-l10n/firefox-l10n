@@ -82,7 +82,7 @@ newtab-topsites-add-button = Adaugă
 
 newtab-confirm-delete-history-p1 = Sigur vrei să ștergi fiecare instanță a acestei pagini din istoric?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
+newtab-confirm-delete-history-p2 = Acțiunea este ireversibilă.
 
 ## Top Sites - Sponsored label
 
