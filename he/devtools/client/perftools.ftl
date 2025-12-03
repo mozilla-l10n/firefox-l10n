@@ -79,6 +79,10 @@ perftools-thread-img-decoder =
 perftools-thread-dns-resolver =
     .title = פתרון כתובות מול ה־DNS מתרחש בתהליכון הזה
 
+##
+
+perftools-record-all-registered-threads = עקיפת הבחירות לעיל והקלטת כל התהליכונים המזוהים
+
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 

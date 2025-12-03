@@ -634,17 +634,34 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 
+## Custom Homepage subpage
+
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Zamijeni s
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Trenutačno otvorene stranice
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Zabilješke …
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – sadržaj
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Odaberi sadržaj na „{ -firefox-home-brand-name }”.
 home-prefs-search-header =
     .label = Web pretraga
+home-prefs-search-header2 =
+    .label = Pretraga
 home-prefs-shortcuts-header =
     .label = Prečaci
 home-prefs-shortcuts-description = Stranice koje spremiš ili posjetiš
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponzorirani prečaci
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -654,6 +671,12 @@ home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $p
 home-prefs-recommended-by-header-generic =
     .label = Preporučene priče
 home-prefs-recommended-by-description-generic = Izniman sadržaj koji je pripremila { -brand-product-name } obitelj
+home-prefs-stories-header =
+    .label = Priče
+home-prefs-stories-description = Personalizirane priče temeljene na tvojoj aktivnosti
+home-prefs-stories-header2 =
+    .label = Priče
+    .description = Izvanredni sadržaj kojeg je odabrala obitelj { -brand-product-name }
 
 ##
 
@@ -684,9 +707,14 @@ home-prefs-weather-header =
     .label = Vremenska prognoza
 home-prefs-weather-description = Današnja prognoza ukratko
 home-prefs-weather-learn-more-link = Saznajte više
+home-prefs-widgets-header =
+    .label = Widgeti
 home-prefs-trending-search-header =
     .label = Popularne pretrage
 home-prefs-trending-search-description = Popularne i često tražene teme
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Popisi
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } podrška
