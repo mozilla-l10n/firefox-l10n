@@ -352,3 +352,26 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Otvori grupu u novom prozoru
+
+## Tab Notes
+
+tab-note-editor-title-edit = Uredi bilješku
+tab-note-editor-text-field =
+    .placeholder = Što želiš zapamtiti o ovoj kartici?
+tab-note-editor-button-cancel =
+    .label = Odustani
+    .accesskey = O
+tab-note-editor-button-save =
+    .label = Spremi
+    .accesskey = S
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Razdvoji kartice
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Preokreni redoslijed kartica
+split-view-menuitem-close-both-tabs =
+    .label = Zatvori obje kartice

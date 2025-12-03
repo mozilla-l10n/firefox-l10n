@@ -33,6 +33,9 @@ edit-profile-page-profile-name-label = Ime profila
 edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-explore-themes = Otkrij još tema
+edit-profile-page-desktop-shortcut-header = Stvori prečac na radnoj površini
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = Stvori prečac na radnoj površini
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -96,6 +99,8 @@ profiles-light-theme = Svijetla
 profiles-dark-theme = Tamna
 # The default system theme
 profiles-system-theme = Sustav
+profiles-system-theme-title =
+    .title = Primijeni temu sustava
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Žuto-narančasta
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -110,6 +115,34 @@ profiles-ocean-theme-2 = Oceansko plava
 profiles-terracotta-theme-2 = Ciglasto crvena
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Mahovinasto zelena
+profiles-gray-theme = Siva
+profiles-gray-theme-title =
+    .title = Primijeni sivu temu
+profiles-yellow-theme = Žuta
+profiles-yellow-theme-title =
+    .title = Primijeni žutu temu
+profiles-orange-theme = Narančasta
+profiles-orange-theme-title =
+    .title = Primijeni narančastu temu
+profiles-red-theme = Crvena
+profiles-red-theme-title =
+    .title = Primijeni crvenu temu
+profiles-pink-theme = Ružičasta
+profiles-pink-theme-title =
+    .title = Primijeni ružičastu temu
+profiles-purple-theme = Ljubičasta
+profiles-purple-theme-title =
+    .title = Primijeni ljubičastu temu
+profiles-violet-theme = Modroljubičasta
+profiles-violet-theme-title =
+    .title = Primijeni modroljubičastu temu
+profiles-blue-theme = Plava
+profiles-blue-theme-title =
+    .title = Primijeni plavu temu
+profiles-green-theme = Zelena
+profiles-green-theme-title =
+    .title = Primijeni zelenu temu
+profiles-cyan-theme = Cijan
 
 ## Data collection settings changed (multi-profile)
 
@@ -122,6 +155,9 @@ book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Obrt
 flower-avatar-alt =
     .alt = Cvijet
 folder-avatar-alt =
@@ -187,3 +223,5 @@ lightbulb-avatar = Žarulja
 makeup-avatar = Šminka
 shopping-avatar = Kolica za kupnju
 star-avatar = Zvijezda
+custom-avatar-crop-area =
+    .aria-label = Prilagodi područje obrezivanja

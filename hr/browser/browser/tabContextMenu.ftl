@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Premjesti u novi prozor
     .accesskey = z
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Premjesti u profil { $profileName }
 tab-context-close-multiple-tabs =
     .label = Zatvori višestruke kartice
     .accesskey = t
