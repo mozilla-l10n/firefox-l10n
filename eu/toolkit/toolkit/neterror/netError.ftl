@@ -170,11 +170,17 @@ certerror-coep-learn-more = Cross Origin Embedder Policies (COEP) politikari bur
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Errore-kodea: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Badirudi zure Interneterako konexioak arazoren bat duela
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }(e)k ezin du sortu konexio segurua { $hostname } helbideko zerbitzariarekin.
+fp-neterror-offline-intro = { -brand-short-name }(e)k ezin du konektatu <strong>{ $hostname }</strong> helbideko zerbitzariarekin
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Badirudi gune honek segurtasun-arazo ezagunak dituen software zaharra darabilela.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Ziurtatu { -brand-short-name }(e)n azken bertsioa darabilzula. Zoaz Laguntza > { -brand-short-name }(r)i buruz menu-aukerara. Dagoeneko { -brand-short-name }(e)n azken bertsioa badarabilzu, litekeena da arazoa guneak berak izatea.
+fp-neterror-offline-what-can-you-do-body = Saiatu beste gailu batekin konektatzen. Egiaztatu zure modem edo routerra. Deskonektatu eta konektatu berriro Wi-Fi sarera.
