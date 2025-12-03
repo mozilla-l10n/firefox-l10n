@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Kies in reden
 report-broken-site-panel-blocked-trackers-label =
     .label = Troch beskerming tsjin folgjen blokkearre URL’s ferstjoere
 report-broken-site-panel-blocked-trackers-description = Ferbettere beskerming tsjin folgjen kin trackers en scripts blokkearje dy’t guon websites nedich hawwe om goed te wurkjen.
+report-broken-site-panel-preview-button =
+    .label = Foarbyld fan rapport
+report-broken-site-panel-preview-header =
+    .label = Foarbyld fan rapport

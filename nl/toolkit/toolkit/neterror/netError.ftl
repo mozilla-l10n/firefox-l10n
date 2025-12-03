@@ -168,11 +168,17 @@ certerror-coep-learn-more = Meer info over Cross Origin Embedder-beleid (COEP)
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Foutcode: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Het lijkt erop dat er een probleem is met uw internetverbinding
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan geen beveiligde verbinding met de server op { $hostname } tot stand brengen.
+fp-neterror-offline-intro = { -brand-short-name } kan geen verbinding maken met de server op <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Het lijkt erop dat deze website oude software met bekende beveiligingsproblemen gebruikt.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Zorg ervoor dat u de nieuwste versie van { -brand-short-name } gebruikt. Ga in het menu naar Help > Over { -brand-short-name }. Als u de nieuwste { -brand-short-name } gebruikt, ligt het probleem zeer waarschijnlijk bij de website zelf.
+fp-neterror-offline-what-can-you-do-body = Probeer verbinding te maken op een ander apparaat. Controleer uw modem of router. Verbreek uw wifiverbinding en maak opnieuw verbinding.

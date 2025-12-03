@@ -929,6 +929,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
     .tooltiptext = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Sykje nei trefwurden is útskeakele
+    .tooltiptext = Sykje nei trefwurden is útskeakele
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
