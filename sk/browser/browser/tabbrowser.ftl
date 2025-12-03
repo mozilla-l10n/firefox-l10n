@@ -315,7 +315,7 @@ tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
             [1] Pridať rozdelené zobrazenie do novej skupiny
-            [one] Pridať rozdelené zobrazenia do novej skupiny
+            [one] Pridať rozdelené zobrazenie do novej skupiny
             [few] Pridať rozdelené zobrazenia do novej skupiny
             [many] Pridať rozdelené zobrazenia do novej skupiny
            *[other] Pridať rozdelené zobrazenia do novej skupiny
@@ -325,7 +325,7 @@ tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
             [1] Pridať rozdelené zobrazenie do skupiny
-            [one] Pridať rozdelené zobrazenia do skupiny
+            [one] Pridať rozdelené zobrazenie do skupiny
             [few] Pridať rozdelené zobrazenia do skupiny
             [many] Pridať rozdelené zobrazenia do skupiny
            *[other] Pridať rozdelené zobrazenia do skupiny
