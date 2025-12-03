@@ -715,11 +715,18 @@ home-prefs-trending-search-description = Popularne i često tražene teme
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Popisi
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Timer
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } podrška
 home-prefs-mission-message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba
 home-prefs-mission-message-learn-more-link = Saznaj kako
+home-prefs-mission-message2 =
+    .message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba.
+home-prefs-manage-topics-link = Upravljaj temama
+home-prefs-choose-wallpaper-link = Odaberi pozadinu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1028,10 +1035,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Lozinke
     .searchkeywords = logins
+forms-passwords-header =
+    .label = Lozinke
+    .aria-label = Lozinke
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Pitaj za spremanje lozinki
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Upravljaj iznimkama lozinki
+    .accesskey = m
 forms-exceptions =
     .label = Iznimke …
     .accesskey = m
@@ -1146,6 +1159,8 @@ autofill-reauth-payment-methods-checkbox-2 =
 payments-list-header =
     .label = Načini plaćanja
 payments-list-item-label = <strong>Načini plaćanja</strong>
+payments-remove-payment-prompt-confirm-button = Ukloni
+payments-remove-payment-prompt-cancel-button = Odustani
 autofill-addresses-title = Adrese i više
 autofill-addresses-header =
     .aria-label = Adrese i više
@@ -1395,8 +1410,18 @@ content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolači
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
 content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića, našu najmoćniju funkciju za privatnost ikada
 content-blocking-warning-title = Upozorenje!
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } preporučuje korištenje postavke „Ispravljanje problema s web-stranicama” kako bi se smanjio broj neispravnih funkcija web-stranica i sadržaja. Ako neka stranica izgleda neispravno, pokušaj isključiti zaštitu od praćenja za tu stranicu kako bi se učitao sav sadržaj.
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
+content-blocking-baseline-exceptions-3 =
+    .label = Ispravi velike probleme s web-stranicama (preporučeno)
+    .description = Pomaže u učitavanju stranica i funkcija tako da odblokira samo najbitnije elemente koji možda sadrže programe za praćenje. Ispravlja većinu najčešćih problema.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Ispravi manje problema s web-stranicama
+    .description = Vraća stvari poput videa u člancima ili odjeljcima  komentara tako što odblokira elemente koji možda sadrže programe za praćenje. Ovo može smanjiti broj problema s web-stranicama, ali smanjuje zaštitu. Mora se koristiti zajedno s ispravljanjem velikih problema.
+content-blocking-baseline-uncheck-warning-dialog-body = Ova postavka pomaže pri ispravljanju najčešćih problema s web-stranicama. Ako ju isključiš, neke web-stranice možda neće raditi i { -brand-short-name } neće moći pomoći pri rješavanju tih problema.
 content-blocking-reload-description = Morat ćeš ponovo učitati svoje kartice, kako bi se ove promjene primijenile.
 content-blocking-reload-tabs-button =
     .label = Ponovo učitaj sve kartice
@@ -1449,6 +1474,12 @@ tracking-manage-exceptions =
 permissions-header = Dozvole
 permissions-location = Mjesto
 permissions-location-settings =
+    .label = Postavke …
+    .accesskey = t
+permissions-localhost-settings =
+    .label = Postavke …
+    .accesskey = t
+permissions-local-network-settings =
     .label = Postavke …
     .accesskey = t
 permissions-xr = Virtualna stvarnost
