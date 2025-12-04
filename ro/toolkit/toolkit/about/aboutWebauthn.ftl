@@ -15,7 +15,7 @@ about-webauthn-info-section-title = Informații despre dispozitiv
 about-webauthn-info-subsection-title = Informații despre autentificator
 about-webauthn-options-subsection-title = Opțiuni de autentificare
 about-webauthn-pin-section-title = Gestionarea PIN-urilor
-about-webauthn-credential-management-section-title = Gestionează datele de autentificare
+about-webauthn-credential-management-section-title = Gestionează credențialele
 about-webauthn-pin-required-section-title = Necesită PIN
 about-webauthn-confirm-deletion-section-title = Confirmă ștergerea
 # Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
@@ -58,10 +58,10 @@ about-webauthn-new-pin-label = Cod PIN nou:
 about-webauthn-repeat-pin-label = Repetă noul cod PIN:
 about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Te rugăm să introduci PIN-ul:
-about-webauthn-credential-list-subsection-title = Date de autentificare:
+about-webauthn-credential-list-subsection-title = Credențiale:
 about-webauthn-enrollment-name-label = Numele înscrierii (opțional):
 about-webauthn-enrollment-list-empty = Nu s-au găsit înscrieri pe dispozitiv.
-about-webauthn-credential-list-empty = Nu s-au găsit date de autentificare pe dispozitiv.
+about-webauthn-credential-list-empty = Nu s-au găsit credențiale pe dispozitiv.
 about-webauthn-confirm-deletion-label = Ești pe cale să ștergi:
 
 ## Buttons
@@ -69,7 +69,7 @@ about-webauthn-confirm-deletion-label = Ești pe cale să ștergi:
 about-webauthn-current-set-pin-button = Setează PIN-ul
 about-webauthn-current-change-pin-button = Modifică PIN-ul
 # List is a verb, as in "Show list of credentials"
-about-webauthn-list-credentials-button = Dă lista cu datele de autentificare
+about-webauthn-list-credentials-button = Listează credențialele
 # List is a verb, as in "Show list of all enrollments"
 about-webauthn-list-bio-enrollments-button = Printează înscrierile
 about-webauthn-add-bio-enrollment-button = Adaugă înscriere
@@ -116,7 +116,7 @@ about-webauthn-auth-option-null = Nesuportat
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Comenzi de configurare prototip furnizor
-about-webauthn-auth-info-remaining-discoverable-credentials = Datele de autentificare rămase care pot fi descoperite
+about-webauthn-auth-info-remaining-discoverable-credentials = Credențiale rămase care pot fi descoperite
 about-webauthn-auth-info-certifications = Certificări
 about-webauthn-auth-info-uv-modality = Modalitate de verificare a utilizatorului
 about-webauthn-auth-info-preferred-platform-uv-attempts = Încercări preferate de verificare a utilizatorilor platformei
