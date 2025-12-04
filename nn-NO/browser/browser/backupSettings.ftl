@@ -166,6 +166,7 @@ change-backup-encryption-header = Endre passord for sikkerheitskopi
 password-rules-header = Passordkrav
 password-rules-length-description = Minst 8 teikn
 password-rules-email-description = Ikkje di e-postadresse
+password-rules-disclaimer = Ver trygg – ikkje bruk passord på nytt. Sjå fleire tips for å <a data-l10n-name="password-support-link">lage sterke passord</a>.
 password-validity-do-not-match = Passorda samsvarar ikkje
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
