@@ -153,7 +153,7 @@ change-backup-encryption-header = Promijeni lozinku sigurnosne kopije
 password-rules-header = Zahtjevi za lozinku
 password-rules-length-description = Barem 8 znakova
 password-rules-email-description = Ne tvoja adresa e-mail adresa
-password-rules-disclaimer = Zaštiti se – nemoj koristiti već korištene lozinke. Pogledaj savjete za <linkExternal>stvaranje jakih lozinki</linkExternal>.
+password-rules-disclaimer = Zaštiti se – nemoj koristiti već korištene lozinke. Pogledaj savjete za <a data-l10n-name="password-support-link">stvaranje jakih lozinki</a>.
 password-validity-has-email = Ne može biti e-mail adresa
 password-validity-do-not-match = Lozinke se ne podudaraju
 
