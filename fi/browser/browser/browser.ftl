@@ -927,6 +927,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Oikotietä ei ole valittu, valitse oikotie
     .tooltiptext = Oikotietä ei ole valittu, valitse oikotie
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Avainsanahaku on poistettu käytöstä
+    .tooltiptext = Avainsanahaku on poistettu käytöstä
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
