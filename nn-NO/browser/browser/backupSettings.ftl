@@ -80,10 +80,12 @@ turn-on-scheduled-backups-confirm-button = Slå på sikkerheitskopiering
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Det oppstod eit problem med den valde sikkerheitskopimappa. Vel ei anna mappe og prøv på nytt.
+backup-error-file-system = Det oppstod eit problem med den valde sikkerheitskopieringsmappa under sikkerheitskopiering av { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Slå på sikkerheitskopiering?
+turn-off-scheduled-backups-description = Dette slettar også alle sikkerheitskopierte data. Det kan ikkje angrast.
 turn-off-scheduled-backups-support-link = Les meir
 turn-off-scheduled-backups-cancel-button = Avbryt
 turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerheitskopien
@@ -91,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerheitskopien
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Gjenopprett dataa dine
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Dette vil erstatte alle dei noverande { -brand-short-name }-dataa dine med sikkerheitskopien din frå { DATETIME($date, timestyle: "short", datestyle: "short") }.
 restore-from-backup-support-link =
     .message = Kva vil bli gjenoppretta?
 restore-from-backup-no-backup-file-link = Har du problem med å finne sikkerheitskopien din?
@@ -133,6 +139,16 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Denne fila fungerer ikkje
     .message = Fila du valde vart ikkje oppretta av { -brand-short-name }. Vel ei anna fil og prøv igjen.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } kunne ikkje gjenopprettast
+    .message = Start { -brand-short-name } på nytt, og prøv å gjenopprette sikkerheitskopien på nytt.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, det oppstod eit problem under sikkerheitskopieringa.
+    .message = Prøv igjen om nokre minutt.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
