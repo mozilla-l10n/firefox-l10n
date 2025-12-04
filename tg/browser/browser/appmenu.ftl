@@ -212,6 +212,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Танзими пешбинишуда барои ислоҳ кардани хатоҳо дар «{ -brand-shorter-name }». Ба сабаби хароҷоти изофӣ, аз он барои кори самаранок истифода набаред, аммо аз он барои таваҷҷуҳ ба фаҳмидани рафтори браузер истифода баред.
 profiler-popup-presets-debug-label =
     .label = Ислоҳ кардани хатоҳо
+profiler-popup-presets-web-compat-label =
+    .label = Мутобиқати веб
 profiler-popup-presets-custom-label =
     .label = Фармоишӣ
 
