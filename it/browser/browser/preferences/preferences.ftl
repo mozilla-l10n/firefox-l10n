@@ -962,6 +962,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = I seguenti elementi vengono attualmente sincronizzati fra tutti i dispositivi connessi:
+sync-syncing-across-devices-heading-2 = Dati sincronizzati tra dispositivi
+sync-syncing-across-devices-empty-state =
+    .label = Non stai ancora sincronizzando nulla…
+    .description = Avvia la sincronizzazione per avere tutti i tuoi dati su tutti i tuoi dispositivi.
 sync-currently-syncing-bookmarks = Segnalibri
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Schede aperte
