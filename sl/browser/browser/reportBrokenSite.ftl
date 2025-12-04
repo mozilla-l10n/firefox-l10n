@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Izberite razlog
 report-broken-site-panel-blocked-trackers-label =
     .label = Pošlji URL-je, ki jih je zaščita pred sledenjem blokirala
 report-broken-site-panel-blocked-trackers-description = Izboljšana zaščita pred sledenjem lahko ponekod blokira sledilce in skripte, ki jih spletna mesta potrebujejo za pravilno delovanje.
+report-broken-site-panel-preview-button =
+    .label = Predogled prijave
+report-broken-site-panel-preview-header =
+    .label = Predogled prijave

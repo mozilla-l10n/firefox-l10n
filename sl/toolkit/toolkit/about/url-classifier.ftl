@@ -14,6 +14,7 @@ url-classifier-search-result-list = Seznam tabel: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Neveljaven URL
 url-classifier-search-error-no-features = Ni izbranih možnosti
+url-classifier-search-error-no-results = Za URL ni najdenih vnosov
 url-classifier-search-btn = Začni iskati
 url-classifier-search-features = Možnosti
 url-classifier-search-listType = Vrsta seznama

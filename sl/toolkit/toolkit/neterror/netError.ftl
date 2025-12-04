@@ -168,11 +168,17 @@ certerror-coep-learn-more = Več o pravilnikih vdelave navzkrižnih izvorov (COE
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Koda napake: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Videti je, da obstaja težava z vašo internetno povezavo
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ne more vzpostaviti varne povezave s strežnikom na { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } se ne more povezati s strežnikom na <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Videti je, da to spletno mesto uporablja staro programsko opremo, ki ima znane varnostne težave.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Prepričajte se, da uporabljate najnovejšo različico { -brand-short-name(sklon: "rodilnik") }: v meniju izberite Pomoč > O { -brand-short-name(sklon: "mestnik") }. Če uporabljate najnovejši { -brand-short-name(sklon: "tozilnik") }, je težava najverjetneje v samem spletnem mestu.
+fp-neterror-offline-what-can-you-do-body = Poskusite se povezati z drugo napravo. Preverite modem ali usmerjevalnik. Odklopite se in se ponovno povežite z Wi-Fi.

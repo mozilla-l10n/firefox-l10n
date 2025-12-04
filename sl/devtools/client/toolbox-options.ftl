@@ -30,6 +30,10 @@ options-context-inspector = Pregledovalnik
 options-show-user-agent-styles-label = Prikaži sloge brskalnika
 options-show-user-agent-styles-tooltip =
     .title = Če vključite to možnost, boste prikazali privzete sloge, ki jih naloži brskalnik.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Prikaži brskalnikov DOM v senci
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Z vklopom te možnosti prikažete elemente DOM v senci, s katerimi upravlja brskalnik.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skrajšaj atribute DOM
 options-collapse-attrs-tooltip =

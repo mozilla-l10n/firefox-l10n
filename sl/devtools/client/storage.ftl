@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Poteče / Max-Age
 storage-table-headers-cookies-size = Velikost
 storage-table-headers-cookies-last-accessed = Zadnji dostop
 storage-table-headers-cookies-creation-time = Ustvarjeno
+storage-table-headers-cookies-update-time = Posodobljeno
 storage-table-headers-cache-status = Stanje
 storage-table-headers-extension-storage-area = Shramba
 

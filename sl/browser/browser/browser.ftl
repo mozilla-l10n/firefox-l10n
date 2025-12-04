@@ -935,6 +935,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ni izbrane bližnjice – izberite bližnjico
     .tooltiptext = Ni izbrane bližnjice – izberite bližnjico
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Iskanje po ključnih besedah je onemogočeno
+    .tooltiptext = Iskanje po ključnih besedah je onemogočeno
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
