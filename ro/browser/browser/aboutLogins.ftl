@@ -205,7 +205,7 @@ about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datel
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportă datele de autentificare și parolele salvate
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu datele de autentificare în Windows. Ajută la protejarea securității conturilor tale.
+about-logins-export-password-os-auth-dialog-message2-win = Pentru a exporta parolele, introdu credențialele de autentificare în Windows. Acest lucru ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = exportă parolele salvate
@@ -330,7 +330,7 @@ about-logins-breach-alert-link = Mergi la { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Parolă vulnerabilă
-about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o încălcare a securității datelor. Refolosirea datelor de autentificare îți va pune contul în pericol. Schimbă această parolă.
+about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o încălcare a securității datelor. Refolosirea credențialelor îți va pune contul în pericol. Schimbă această parolă.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mergi la { $hostname }
