@@ -180,6 +180,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Fjern passordvern
+disable-backup-encryption-description2 = Dei lagra passorda og betalingsmåtane dine vil heller ikkje lenger bli sikringskopierte.
 disable-backup-encryption-support-link = Kva vert sikkerheitskopiert?
 disable-backup-encryption-cancel-button = Avbryt
 disable-backup-encryption-confirm-button = Fjern passord
@@ -187,6 +188,7 @@ disable-backup-encryption-confirm-button = Fjern passord
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Passordet ditt oppfyller ikkje krava. Prøv eit anna passord.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there

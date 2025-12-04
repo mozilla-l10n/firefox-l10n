@@ -9,6 +9,10 @@ customkeys-reset = Tilbakestill
 customkeys-clear = Tøm
 customkeys-new-key = Trykk på ein ny tast:
 customkeys-reset-all = Tilbakestill alle snarvegar til standard
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Denne tasten er allereie tildelt { $conflict }. Vil du erstatte han?
+customkeys-reset-all-confirm = Er du sikker på at du vil tilbakestille alle tastatursnarvegar til standardinnstilling?
 customkeys-history-reopen-tab = Opne siste attlatne fane
 customkeys-history-reopen-window = Opne siste attlatne vindauge
 customkeys-dev-tools = Verktøy for webutviklarar

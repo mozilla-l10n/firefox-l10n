@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ingen snarveg valt, vel ein snarveg
     .tooltiptext = Ingen snarveg valt, vel ein snarveg
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Nøkkelordssøk er deaktivert
+    .tooltiptext = Nøkkelordssøk er deaktivert
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1387,6 +1391,12 @@ redirect-warning-with-popup-message =
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } hindra denne nettstaden frå å opne meir enn { $popupCount } sprettopp-vindauge.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } hindra denne nettstaden frå å opne meir enn { $popupCount } sprettoppvindauge og vidaresende.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
