@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Επιλέξτε έναν λόγ
 report-broken-site-panel-blocked-trackers-label =
     .label = Αποστολή URL αποκλεισμένων από προστασία καταγραφής
 report-broken-site-panel-blocked-trackers-description = Η Ενισχυμένη προστασία από καταγραφή ενδέχεται να αποκλείσει ιχνηλάτες και σενάρια εντολών που χρειάζονται ορισμένοι ιστότοποι για να λειτουργούν σωστά.
+report-broken-site-panel-preview-button =
+    .label = Προεπισκόπηση αναφοράς
+report-broken-site-panel-preview-header =
+    .label = Προεπισκόπηση αναφοράς

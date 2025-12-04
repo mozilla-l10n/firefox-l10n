@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
     .tooltiptext = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Η αναζήτηση λέξεων-κλειδιών είναι ανενεργή
+    .tooltiptext = Η αναζήτηση λέξεων-κλειδιών είναι ανενεργή
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

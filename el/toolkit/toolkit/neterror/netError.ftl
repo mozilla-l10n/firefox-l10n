@@ -168,11 +168,17 @@ certerror-coep-learn-more = Μάθετε περισσότερα για τα κρ
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Κωδικός σφάλματος: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με τη σύνδεσή σας στο διαδίκτυο
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = Το { -brand-short-name } δεν μπορεί να δημιουργήσει ασφαλή σύνδεση με τον διακομιστή στο { $hostname }.
+fp-neterror-offline-intro = Το { -brand-short-name } δεν μπορεί να συνδεθεί στον διακομιστή στο <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Φαίνεται ότι αυτός ο ιστότοπος χρησιμοποιεί παλιό λογισμικό με γνωστά ζητήματα ασφαλείας.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Βεβαιωθείτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση του { -brand-short-name }. Επιλέξτε «Βοήθεια» > «Σχετικά με το { -brand-short-name }» στο μενού. Εάν χρησιμοποιείτε το πιο πρόσφατο { -brand-short-name }, το πρόβλημα οφείλεται κατά πάσα πιθανότητα στον ίδιο τον ιστότοπο.
+fp-neterror-offline-what-can-you-do-body = Δοκιμάστε να συνδεθείτε από διαφορετική συσκευή. Ελέγξτε το modem ή το router σας. Αποσυνδέστε και επανασυνδέστε το Wi-Fi.
