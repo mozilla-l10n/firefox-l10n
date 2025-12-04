@@ -490,6 +490,16 @@ create-backup-select-tile-button-label = Odaberi
 create-backup-back-button-label = Natrag
 create-backup-screen-2-title = Odaberi { -brand-product-name } podatke za sigurnosno kopiranje
 create-backup-screen-2-subtitle = Traje samo minutu. Tvoji se podaci sigurnosno kopiraju jednom dnevno.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Jednostavno postavljanje
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Zabilješke, povijest, postavke i još više
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Ne uključuje lozinke i načine plaćanja
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Nije šifrirano
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Svi podaci
 # Preceded by a green check mark indicating that these are included in the "All data" backup
 create-backup-screen-2-all-list-2 = Uključuje lozinke i načine plaćanja
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted

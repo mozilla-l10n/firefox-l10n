@@ -335,6 +335,7 @@ fxa-menu-message-sign-in-button = Prijavi se
 fxa-menu-message-sync-button = Započni sinkronizaciju
 fxa-menu-message-sync-devices-primary-text = Sinkroniziraj sve svoje uređaje
 fxa-menu-message-sync-devices-secondary-text = Dobij tvoje podatke, kao što su oznake i lozinke, odmah gdje god koristiš { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Trenutno preuzmi svoje zabilješke, lozinke i još više – gdje god si prijavljen/a na { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sinkroniziraj sve svoje uređaje
 fxa-menu-message-backup-data-primary-text = Sigurnosno kopiraj podatke preglednika
 fxa-menu-message-backup-data-secondary-text = Automatski zaštiti oznake, lozinke i druge podatke na svim tvojim uređajima.
@@ -366,8 +367,15 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Pristupi svom omiljenom pregledniku za privatno pregledavanje jednim klikom. Postavi { -brand-short-name } kao standardni preglednik za otvaranje poveznica i prikvači ga u izbornik Start.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Uskoro nadograđuješ s Windowsa 10?
+windows-10-eos-sync-spotlight-subtitle = Sigurnosno kopiraj svoje lozinke i zabilješke za prelazak na bilo koji uređaj.
+windows-10-eos-sync-spotlight-primary-label = Sigurnosno kopiraj svoj { -brand-short-name }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Nadograđuješ na Windows 11? Nemoj izgubiti zabilješke i lozinke.
 windows-10-eos-sync-toast-subtitle = Sigurnosno kopiraj svoje podatke kako bi { -brand-short-name } bio spreman za korištenje bilo kada, na ovom ili sljedećem uređaju.
 windows-10-eos-sync-toast-primary-label = Započni
 windows-10-eos-sync-toast-secondary-label = Podsjeti me kasnije
