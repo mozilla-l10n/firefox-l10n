@@ -98,12 +98,21 @@ genai-menu-choose-chatbot =
 genai-menu-ask-generic-2 =
     .label = Pitaj chatbot umjetne inteligencije
     .accesskey = c
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Pitaj { $provider }
+    .accesskey = P
+genai-menu-no-provider-2 =
+    .label = Pitaj UI-chatbota
+    .accesskey = c
 
 ## Chatbot header
 
 genai-chatbot-title = UI chatbot
 genai-header-provider-menu =
     .title = Odaberi chatbot
+genai-header-settings-button =
+    .title = Postavke UI-chata
 genai-header-options-button =
     .title = Otvori izbornik
 genai-header-close-button =
@@ -121,6 +130,11 @@ genai-options-hide-shortcut =
     .label = Sakrij prečac kada označiš tekst
 genai-options-about-chatbot =
     .label = O UI chatbotovima u { -brand-short-name(case: "loc") }
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Budući da je stranica dugačka, ovo je djelomični sažetak.
 
 ## Chatbot footer
 
@@ -215,3 +229,7 @@ link-preview-reading-time =
         [few] Vrijeme čitanja: { $range } min
        *[other] Vrijeme čitanja: { $range } min
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = Ne možemo prikazati pregled ove poveznice
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Posjeti poveznicu
