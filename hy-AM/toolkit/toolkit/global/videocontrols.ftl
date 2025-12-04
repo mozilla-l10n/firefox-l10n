@@ -34,6 +34,10 @@ videocontrols-picture-in-picture-label = Նկարը նկարում
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Հանել տեսանյութը
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Ավելի շատ էկրաններն ավելի զվարճալի են: Նվագարկեք տեսանյութը այլ գործողություններ անելով:
 videocontrols-error-aborted = Տեսանյութի բեռնումը կանգնեցվեց։
 videocontrols-error-network = Տեսանյութի նվագարկումը կանգնեցվեց ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանյութը չի կարող նվագարկվել, քանզի ֆայլը վնասված է:

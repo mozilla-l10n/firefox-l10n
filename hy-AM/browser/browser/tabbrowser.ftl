@@ -348,3 +348,8 @@ tab-group-context-open-saved-group-in-new-window =
 ## Split View
 
 tab-context-badge-new = Նոր
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+split-view-menuitem-close-both-tabs =
+    .label = Փակել երկու ներդիրները
