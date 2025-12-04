@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .title = Zatvori
 fxa-adoption-credit-cards-backup-title = Izradimo sigurnosnu kopiju tvojih načina plaćanja
 fxa-adoption-credit-cards-backup-subtitle = Zaštiti svoje načine plaćanja sinkronizacijom s uređajima pomoću šifriranja.
+fxa-adoption-primary-button-label = Registriraj se
 
 ## Protections panel
 
@@ -231,6 +232,20 @@ fox-doodle-pin-secondary = Ne sada
 set-default-pdf-handler-headline = <strong>Za otvaranje PDF datoteka se sada koristi { -brand-short-name }.</strong> Uredi ili potpiši obrasce izravno u pregledniku. Za mijenjanje ove opcije potraži „PDF” u postavkama.
 set-default-pdf-handler-primary = Razumijem
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Potpiši se na isprekidanoj liniji – ili bilo gdje!
+annotations-make-default-pdf-handler-title = Postaviti { -brand-short-name } kao zadani uređivač PDF-ova?
+annotations-make-default-pdf-handler-subtitle = Imat ćeš pristup našim alatima svaki put kada otvoriš PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Postavi kao zadano
+annotations-make-default-pdf-next =
+    .label = Dalje
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Novi uređaj u tvojoj budućnosti?
@@ -316,6 +331,8 @@ fxa-menu-message-close-button =
     .title = Zatvori
     .aria-label = Zatvori
 fxa-menu-message-sign-up-button = Registriraj se
+fxa-menu-message-sign-in-button = Prijavi se
+fxa-menu-message-sync-button = Započni sinkronizaciju
 fxa-menu-message-sync-devices-primary-text = Sinkroniziraj sve svoje uređaje
 fxa-menu-message-sync-devices-secondary-text = Dobij tvoje podatke, kao što su oznake i lozinke, odmah gdje god koristiš { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sinkroniziraj sve svoje uređaje

@@ -233,3 +233,27 @@ link-preview-reading-time =
 link-preview-error-message = Ne možemo prikazati pregled ove poveznice
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Posjeti poveznicu
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Ne možemo generirati ključne točke za ovu web stranicu.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Dogodila se neka greška.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Pokušaj ponovo
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Postavke pregleda poveznice
+link-preview-settings-enable =
+    .label = Omogući preglede poveznica
+    .description = Vidi naslov stranice, opis i još više kada koristiš prečac ili kada klikneš desnom tipkom miša na poveznicu.
+link-preview-settings-long-press =
+    .label = Prečac: klikni i zadrži poveznicu pritisnutom jednu sekundu (dugi pritisak)
+# Header for the key points section
+link-preview-key-points-header = Ključne točke
+# Onboarding card See a preview button
+link-preview-onboarding-button = Vidi pregled
+# Onboarding card Close button
+link-preview-onboarding-close = Zatvori
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Prvo postavljanje
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Ovo može potrajati. Sljedeći put ćeš ključne točke vidjeti brže.
