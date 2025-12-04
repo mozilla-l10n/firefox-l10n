@@ -232,3 +232,25 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Promijeni veličinu područja obrezivanja
 profiles-appmenu-callout-tour-title = Tvoj novi profil je spreman
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = U izborniku ☰ dodirni ime tvog profila, dodaj novi, uredi ovaj ili skači između tvojih digitalnih života.
+profiles-appmenu-callout-tour-primary-button = Pokaži mi kako
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Primijeni avatar utega
+bike-avatar-tooltip =
+    .tooltiptext = Primijeni avatar bicikla
+book-avatar-tooltip =
+    .tooltiptext = Primijeni avatar knjige
+briefcase-avatar-tooltip =
+    .tooltiptext = Primijeni avatar aktovke
+picture-avatar-tooltip =
+    .tooltiptext = Primijeni avatar slike
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Primijeni avatar zanata
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Primijeni avatar globusa
