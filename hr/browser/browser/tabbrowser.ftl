@@ -355,6 +355,12 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Dodaj bilješku
+    .accesskey = a
+tab-context-edit-note =
+    .label = Uredi bilješku
+    .accesskey = e
 tab-note-editor-title-create = Dodaj bilješku
 tab-note-editor-title-edit = Uredi bilješku
 tab-note-editor-text-field =
@@ -368,6 +374,21 @@ tab-note-editor-button-save =
 
 ## Split View
 
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Podijeljeni prikaz
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Dodaj podijeljeni prikaz
+    .accesskey = d
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Otvori u podijeljenom prikazu
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Razdvoji podijeljeni prikaz
+    .accesskey = d
 tab-context-badge-new = Novi
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)

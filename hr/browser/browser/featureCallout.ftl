@@ -114,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = Registriraj se
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-chat-callout-title = Čavrljaj iz svoje programske trake
 taskbar-tabs-value-prop-callout-title = Dodaj ovu stranicu u programsku traku
 
 ## Windows 10 EoS Sync messages group 1 callouts
