@@ -90,6 +90,8 @@ autofill-address-suburb = Banliyö
 autofill-address-province = İl
 autofill-address-state = Eyalet
 autofill-address-county = İlçe
+# Used in Barbados (BB), Jamaica (JM) as primary address information (1 level below the country level).
+autofill-address-parish = Parish
 # Used in Japan (JP) as primary address information (1 level below the country level).
 autofill-address-prefecture = Vilayet
 # Used in Honk Kong (HK) as primary address information (1 level below the country level).
