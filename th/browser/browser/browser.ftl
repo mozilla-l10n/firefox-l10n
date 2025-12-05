@@ -914,6 +914,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
     .tooltiptext = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
+    .tooltiptext = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

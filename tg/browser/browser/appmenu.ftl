@@ -297,6 +297,10 @@ appmenuitem-services-relay-description = Оғоз кардани лавҳаи в
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
 appmenu-services-header = Хизматҳои ман
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Воситаҳои дигари муҳофизатро аз ҷониби «Mozilla» санҷед:
 appmenu-other-protection-header = Абзорҳои муҳофизати дигарро аз ҷониби «{ -vendor-short-name }» кӯшиш намоед:
 
 ## Profiles panel

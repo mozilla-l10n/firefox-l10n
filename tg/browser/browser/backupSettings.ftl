@@ -29,11 +29,13 @@ settings-data-backup-in-progress-message =
     .message = Таҳияи нусхаи эҳтиётӣ дар ҳоли иҷро мебошад…
 settings-data-backup-scheduled-backups-on = Нусхаи эҳтиётӣ: ФАЪОЛ
 settings-data-backup-scheduled-backups-off = Нусхаи эҳтиётӣ: ҒАЙРИФАЪОЛ
+settings-data-backup-scheduled-backups-description = Хатбаракҳо, таърих ва маълумоти дигари худро ба таври худкор муҳофизат намоед. <a data-l10n-name="support-link">Маълумоти бештар</a>
 settings-data-backup-last-backup-date = Нусхаи эҳтиётии охирин: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Ҷойгиршавӣ
 settings-data-backup-last-backup-location-show-in-folder = Намоиш додан дар ҷузвдон
 settings-data-backup-last-backup-location-edit = Таҳрир кардан…
+settings-data-create-backup-error = Ҳангоми таҳияи нусхаи эҳтиётӣ дар санаи { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } хато ба миён омад
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Номи файл: { $fileName }
