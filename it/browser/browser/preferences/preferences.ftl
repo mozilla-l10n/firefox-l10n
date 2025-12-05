@@ -866,6 +866,10 @@ edit-engine-name-warning-duplicate = Esiste già un motore di ricerca con il nom
 remove-engine-confirmation = Rimuovere questo motore di ricerca?
 remove-engine-remove = Rimuovi
 remove-addon-engine-alert = Per rimuovere questo motore di ricerca rimuovi il componente aggiuntivo associato.
+search-engine-group =
+    .label = Motore di ricerca predefinito
+search-default-engine =
+    .aria-label = Motore di ricerca predefinito
 
 ## Containers Section
 
