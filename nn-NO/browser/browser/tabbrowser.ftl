@@ -265,6 +265,7 @@ tab-group-name-default = Namnlaus gruppe
 ## whether the hover menu is open or closed.
 
 tab-group-preview-open-description = Fanelista er open
+tab-group-preview-closed-description = Fanelista er attlaten
 
 ##
 
@@ -344,9 +345,33 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Opne gruppe i nytt vindauge
 
+## Tab Notes
+
+tab-note-editor-title-create = Legg til notat
+tab-note-editor-title-edit = Rediger notat
+tab-note-editor-button-cancel =
+    .label = Avbryt
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Lagre
+    .accesskey = L
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Delt visning
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Legg til delt visning
+    .accesskey = e
 tab-context-badge-new = Ny
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Splitt faner
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Reverser faner

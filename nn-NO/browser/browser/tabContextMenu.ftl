@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Flytt til eit nytt vindauge
     .accesskey = F
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Flytt til { $profileName }
 tab-context-close-multiple-tabs =
     .label = Lat att fleire faner
     .accesskey = f
