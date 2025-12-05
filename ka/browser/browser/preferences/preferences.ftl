@@ -194,7 +194,7 @@ preferences-copy-profile-button = ასლი
 tabs-group-header2 =
     .label = ჩანართები
 tabs-opening-heading =
-    .label = იხსნება
+    .label = გახსნა
 tabs-interaction-heading =
     .label = ურთიერთქმედება
 tabs-containers-heading =
@@ -209,7 +209,7 @@ open-new-link-as-tabs =
     .label = ბმულების, ახალი ფანჯრების ნაცვლად, ახალ ჩანართებში გახსნა
     .accesskey = ჯ
 open-external-link-next-to-active-tab =
-    .label = გახსენით ბმულები პროგრამებიდან თქვენი მოქმედი ჩანართის გვერდით
+    .label = გაიხსნას ბმულები პროგრამებიდან მოქმედი ჩანართების გვერდით
 ask-on-close-multiple-tabs =
     .label = შეკითხვა რამდენიმე ჩანართის დახურვისას
     .accesskey = რ
@@ -395,9 +395,9 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის გამოიყენოს საოპერაციო სისტემის პარამეტრები ენისთვის „{ $localeName }“.
+    .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის საოპერაციო სისტემას მიეთითოს „{ $localeName }“.
 check-user-spelling =
-    .label = მართლწერის შემოწმება აკრეფისას
+    .label = მართლწერის შემოწმება აკრეფისთანავე
     .accesskey = მ
 
 ## General Section - Files and Applications

@@ -24,9 +24,9 @@ experimental-features-group-developer-tools =
 experimental-features-group-webpage-display =
     .label = ვებგვერდის ჩვენება
 experimental-features-group-customize-browsing =
-    .label = მოხერხებულად მოინახულეთ გვერდები
+    .label = გვერდების მოხერხებულად მონახულება
 experimental-features-group-productivity =
-    .label = სასარგებლო
+    .label = სარგებლიანობა
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = პაროლები გვერდით ზოლზე
