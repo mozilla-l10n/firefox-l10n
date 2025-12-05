@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = 請選擇原因
 report-broken-site-panel-blocked-trackers-label =
     .label = 傳送被追蹤保護功能封鎖的網址
 report-broken-site-panel-blocked-trackers-description = 「加強型追蹤保護」功能可能會封鎖某些網站正常運作所必需的追蹤器與指令碼。
+report-broken-site-panel-preview-button =
+    .label = 預覽回報內容
+report-broken-site-panel-preview-header =
+    .label = 預覽回報內容

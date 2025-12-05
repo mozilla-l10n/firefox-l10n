@@ -55,7 +55,7 @@ neterror-dns-not-found-hint-try-again = 稍後再試
 neterror-dns-not-found-hint-check-network = 檢查網際網路連線是否正常
 neterror-dns-not-found-hint-firewall = 檢查 { -brand-short-name } 是否有權限開啟網頁（可能已經連上網路，但被防火牆阻擋）
 neterror-dns-not-found-offline-hint-header = <strong>您可以做什麼？</strong>
-neterror-dns-not-found-offline-hint-different-device = 嘗試改連線到其他裝置。
+neterror-dns-not-found-offline-hint-different-device = 嘗試用其他裝置連線。
 neterror-dns-not-found-offline-hint-modem = 檢查您的數據機或路由器。
 neterror-dns-not-found-offline-hint-reconnect = 中斷，然後重新連線到 Wi-Fi 網路。
 
@@ -168,11 +168,17 @@ certerror-coep-learn-more = 了解 Cross Origin Embedder Policies（COEP）的�
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = 錯誤代碼：{ $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = 您的網路連線可能有點問題
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } 無法與伺服器 { $hostname } 建立安全連線。
+fp-neterror-offline-intro = { -brand-short-name } 無法連線到位於 <strong>{ $hostname }</strong> 的伺服器
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 看來此網站仍在使用已知有安全性漏洞的舊版軟體。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = 請確認您使用的是最新版的 { -brand-short-name }。可前往選單中的「說明 > 關於 { -brand-short-name }」確認。若您已經使用最新版的 { -brand-short-name }，那麼最有可能是網站本身的問題。
+fp-neterror-offline-what-can-you-do-body = 您可以試著用其他裝置連線、檢查您的數據機或路由器，或將 Wi-Fi 斷線重連。
