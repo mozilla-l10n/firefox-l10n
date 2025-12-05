@@ -1635,7 +1635,7 @@ permissions-autoplay-settings =
     .label = პარამეტრები…
     .accesskey = ტ
 permissions-block-popups2 =
-    .label = გარეშე მხარის მიერ გადამისამართების დაშვება შეზღუდვა
+    .label = გარეშე მხარის მიერ გადამისამართების შეზღუდვა
     .accesskey = ზ
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
@@ -1647,7 +1647,7 @@ permissions-addon-install-warning2 =
     .label = გაფრთხილება საიტების მიერ გაფართოების ჩადგმის მცდელობისას
     .accesskey = ფ
 permissions-addon-exceptions2 =
-    .label = აირჩიეთ საიტები, რომელთაც შეეძლებათ გაფართოებების დაყენება
+    .label = აირჩიეთ საიტები, რომელთაც შეეძლება გაფართოებების დაყენება
     .accesskey = გ
 permissions-block-popups =
     .label = ამომხტომი ფანჯრების შეზღუდვა
@@ -1692,7 +1692,7 @@ collection-header2 = { -brand-short-name } – მონაცემთა ა�
     .searchkeywords = telemetry
 preferences-collection-description = ჩვენ მთელი ძალისხმევით ვცდილობთ, მოგცეთ არჩევანის საშუალება და აღვრიცხოთ მხოლოდ ის უმცირესი მონაცემები, რომლებიც მეტად წაგვადგება, რომ გავაუმჯობესოთ { -brand-product-name }.
 preferences-collection-privacy-notice = იხილეთ პირადულობის დაცვის განაცხადი
-preferences-across-profiles = მოცემულ პარამეტრებს ასახავს { -brand-product-name } თითოეულ პროფილზე ამ მოწყობილობაზე.
+preferences-across-profiles = მოცემულ პარამეტრებს ასახავს { -brand-product-name } თითოეულ პროფილზე ამ მოწყობილობაში.
 preferences-view-profiles = ყველა პროფილის ნახვა
 collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ყოველთვის დაგეკითხებით პირადი ინფორმაციის მიღებამდე.
 collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
