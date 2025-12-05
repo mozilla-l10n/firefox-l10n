@@ -49,6 +49,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Файли нусх�
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Маълумоти «{ -brand-product-name }»-и худро аз вақти охирини таҳияи нусхаи эҳтиётии он барқарор кунед.
 settings-data-backup-scheduled-backups-on-restore-choose = Барқарор кардан…
 settings-data-toggle-encryption-support-link = Маълумоти бештар
 settings-data-change-password = Иваз кардани ниҳонвожа…
