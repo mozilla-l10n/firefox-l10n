@@ -929,6 +929,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nincs gyorsparancs kiválasztva, válasszon egyet
     .tooltiptext = Nincs gyorsparancs kiválasztva, válasszon egyet
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = A kulcsszavas keresés le van tiltva
+    .tooltiptext = A kulcsszavas keresés le van tiltva
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
