@@ -133,6 +133,8 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Бекор кардани муҳофизат ба воситаи ниҳонвожа
+disable-backup-encryption-support-link = Нусхаи эҳтиётии кадом маълумот таҳия карда мешавад?
 disable-backup-encryption-cancel-button = Бекор кардан
 disable-backup-encryption-confirm-button = Тоза кардани ниҳонвожа
 
