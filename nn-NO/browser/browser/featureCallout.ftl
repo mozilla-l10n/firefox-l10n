@@ -121,6 +121,7 @@ taskbar-tabs-chat-callout-subtitle = Start chatte-nettstadar som ein app i eit s
 taskbar-tabs-email-callout-title = Behald e-posten din på oppgåvelinja
 taskbar-tabs-email-callout-subtitle = Start e-post-nettstadar som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
 taskbar-tabs-media-callout-title = Gå tilbake til strøyming frå oppåvelinja
+taskbar-tabs-media-callout-subtitle = Start strøymetenestene som ein app i eit straumlinjeforma vindauge verna av { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Legg til denne nettstaden i oppgåvelinja
 taskbar-tabs-value-prop-callout-subtitle = Start han i eit eige vindauge og eit forenkla grensesnitt med eit enkelt klikk.
 
