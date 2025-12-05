@@ -48,3 +48,7 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Takk for at du hjelper { -brand-product-name } med å gjere nettet meir ope, tilgjengeleg og betre for alle.
 report-broken-site-panel-invalid-url-label = Skriv inn ei gyldig nettadresse.
 report-broken-site-panel-missing-reason-label = Vel ein grunn
+report-broken-site-panel-preview-button =
+    .label = Førehandsvis rapport
+report-broken-site-panel-preview-header =
+    .label = Førehandsvis rapport
