@@ -67,7 +67,7 @@ autofill-address-neighborhood = Mahalle
 autofill-address-village-township = Köy veya kasaba
 autofill-address-island = Ada
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
-autofill-address-townland = Kasaba
+autofill-address-townland = Townland
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),
