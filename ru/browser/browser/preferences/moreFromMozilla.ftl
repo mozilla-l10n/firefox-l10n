@@ -14,10 +14,10 @@ more-from-moz-firefox-mobile-description = Мобильный браузер, к
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } для мобильных устройств
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Откройте для себя дополнительный уровень анонимного веб-сёрфинга и защиты.
-more-from-moz-qr-code-box-firefox-mobile-title = Загрузите с помощью мобильного устройства. Наведите камеру на QR-код. Когда появится ссылка, нажмите на неё.
+more-from-moz-qr-code-box-firefox-mobile-title = Скачайте с помощью мобильного устройства. Наведите камеру на QR-код. Когда появится ссылка, нажмите на неё.
 more-from-moz-qr-code-box-firefox-mobile-button = Отправить вместо этого письмо на ваш телефон
 more-from-moz-qr-code-firefox-mobile-img =
-    .alt = QR-код для загрузки { -brand-product-name } для мобильных устройств
+    .alt = QR-код для скачивания { -brand-product-name } для мобильных устройств
 more-from-moz-button-mozilla-vpn-2 = Получить VPN
 more-from-moz-learn-more-link = Подробнее
 

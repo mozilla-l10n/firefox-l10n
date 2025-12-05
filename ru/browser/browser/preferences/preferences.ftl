@@ -30,7 +30,7 @@ settings-page-title = Настройки
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Найти в Настройках
+    .placeholder = Поиск в настройках
 managed-notice = Ваш браузер управляется Вашей организацией.
 managed-notice-info-icon =
     .alt = Информация
@@ -429,10 +429,10 @@ download-always-ask-where =
     .label = Всегда выдавать запрос на сохранение файлов
     .accesskey = е
 download-private-browsing-delete =
-    .label = Удалять файлы, загруженные в приватном режиме, когда все приватные окна закрыты
+    .label = Удалять файлы, скачанные в приватном режиме, когда все приватные окна закрыты
     .accesskey = В
 applications-header = Приложения
-applications-description = Выберите, как { -brand-short-name } будет обрабатывать файлы, загружаемые из Интернета, или приложения, используемые при работе в Интернете.
+applications-description = Выберите, как { -brand-short-name } будет обрабатывать файлы, скачиваемые из Интернета, или приложения, используемые при работе в Интернете.
 applications-filter =
     .placeholder = Поиск типов файлов или приложений
 applications-type-column =
@@ -905,7 +905,7 @@ sync-signedout-account-signin3 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Загрузите Firefox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS,</a> чтобы синхронизироваться со своим мобильным устройством.
+sync-mobile-promo = Скачайте Firefox для <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, чтобы синхронизироваться со своим мобильным устройством.
 
 ## Firefox account - Signed in
 
@@ -1526,7 +1526,7 @@ content-blocking-known-and-suspected-fingerprinters = Известные и пр
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Полная защита от кук ограничивает работу кук сайтом, на котором вы находитесь, чтобы трекеры не могли использовать их для слежки за вами от сайта к сайту.
 content-blocking-etp-standard-tcp-rollout-learn-more = Подробнее
-content-blocking-etp-standard-tcp-title = Включает Полную защиту от кук, нашу самую мощную функцию защиты приватности.
+content-blocking-etp-standard-tcp-title = Включает полную защиту от кук, нашу самую мощную функцию защиты приватности.
 content-blocking-warning-title = Осторожно!
 content-blocking-warning-title-2 = Некоторые сайты могут не работать со строгой защитой от отслеживания
 content-blocking-warning-title-custom = Некоторые сайты могут не работать с персональной защитой от отслеживания
@@ -1710,7 +1710,7 @@ collection-health-report2 =
     .label = Отправлять технические данные и данные взаимодействия в { -vendor-short-name }
     .accesskey = к
 collection-health-report =
-    .label = Разрешить { -brand-short-name } отправлять технические данные и данные взаимодействия в { -vendor-short-name }
+    .label = Разрешить { -brand-short-name(case: "dative") } отправлять технические данные и данные взаимодействия в { -vendor-short-name }
     .accesskey = е
 collection-health-report-link = Подробнее
 collection-health-report-description = Это поможет нам улучшить возможности, производительность и стабильность { -brand-product-name }.

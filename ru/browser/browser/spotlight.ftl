@@ -12,7 +12,7 @@ spotlight-dialog-close-button =
 spotlight-android-marketplace-button =
     .title = Доступно в Google Play
 spotlight-ios-marketplace-button =
-    .title = Загрузите в App Store
+    .title = Скачайте в App Store
 
 ## Firefox Focus promo message strings
 
