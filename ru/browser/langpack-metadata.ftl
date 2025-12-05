@@ -9,4 +9,4 @@
 langpack-creator = Mozilla Russia
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
-langpack-contributors = Александр Словесник
+langpack-contributors = Александр Словесник и помощники

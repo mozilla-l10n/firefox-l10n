@@ -78,10 +78,10 @@ contentanalysis-block-dialog-title-upload-file = Вам не разрешено 
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = В соответствии с политикой защиты данных вашей организации, вам не разрешено загружать файл «{ $filename }». Свяжитесь с вашим администратором для получения дополнительных сведений.
-contentanalysis-block-dialog-title-download-file = Вам не разрешено загружать этот файл
+contentanalysis-block-dialog-title-download-file = Вам не разрешено скачивать этот файл
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-download-file = В соответствии с политикой защиты данных вашей организации, вам не разрешено загружать файл «{ $filename }». Свяжитесь с вашим администратором для получения дополнительных сведений.
+contentanalysis-block-dialog-body-download-file = В соответствии с политикой защиты данных вашей организации, вам не разрешено скачивать файл «{ $filename }». Свяжитесь с вашим администратором для получения дополнительных сведений.
 contentanalysis-block-dialog-title-clipboard = Вам не разрешено вставлять это содержимое
 contentanalysis-block-dialog-body-clipboard = Согласно политикам защиты данных вашей организации, вам не разрешено вставлять это содержимое. Свяжитесь с вашим администратором для получения дополнительных сведений.
 contentanalysis-block-dialog-title-dropped-text = Вам не разрешено сбрасывать это содержимое

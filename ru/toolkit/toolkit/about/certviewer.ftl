@@ -86,7 +86,7 @@ certificate-viewer-embedded-scts = Список SCT
 certificate-viewer-crl-endpoints = Точки распределения списков отзыва (CRL)
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
-certificate-viewer-download = Загрузить
+certificate-viewer-download = Скачать
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field

@@ -192,7 +192,7 @@ newtab-label-bookmarked = В закладках
 newtab-label-removed-bookmark = Закладка удалена
 newtab-label-recommended = Популярные
 newtab-label-saved = Сохранено в { -pocket-brand-name }
-newtab-label-download = Загружено
+newtab-label-download = Скачано
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
@@ -590,7 +590,7 @@ newtab-download-mobile-highlight-body-variant-a = Отсканируйте ко�
 newtab-download-mobile-highlight-body-variant-b = Продолжайте с того места, где вы остановились, при синхронизации вкладок, паролей и многого другого.
 newtab-download-mobile-highlight-body-variant-c = Знаете ли вы, что { -brand-product-name } можно брать с собой? Тот же браузер. У вас в кармане.
 newtab-download-mobile-highlight-image =
-    .aria-label = QR-код для загрузки { -brand-product-name } для мобильных устройств
+    .aria-label = QR-код для скачивания { -brand-product-name } для мобильных устройств
 
 ## Strings for shortcuts highlight
 

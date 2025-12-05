@@ -206,7 +206,7 @@ downloads-files-not-downloaded =
         [few] { $num } файла не скачано.
        *[many] { $num } файлов не скачано.
     }
-downloads-blocked-from-url = Загрузки с { $url } заблокированы.
+downloads-blocked-from-url = Скачивания с { $url } заблокированы.
 downloads-blocked-download-detailed-info = { $url } пытался автоматически скачать большое число файлов. Возможно, сайт был неисправен или пытался разместить спам-файлы на вашем устройстве.
 
 ##
@@ -227,19 +227,19 @@ downloads-panel-empty =
 #                     panel list.
 downloads-more-downloading =
     { $count ->
-        [one] Загружается ещё { $count } файл
-        [few] Загружается ещё { $count } файла
-       *[many] Загружается ещё { $count } файлов
+        [one] Скачивается ещё { $count } файл
+        [few] Скачивается ещё { $count } файла
+       *[many] Скачивается ещё { $count } файлов
     }
 
 ## Download errors
 
-downloads-error-alert-title = Ошибка загрузки
+downloads-error-alert-title = Ошибка скачивания
 # Variables:
 #   $extension (String): the name of the blocking extension.
-downloads-error-blocked-by = Загруженный файл не может быть сохранён, так как он был заблокирован { $extension }.
+downloads-error-blocked-by = Скачанный файл не может быть сохранён, так как он был заблокирован «{ $extension }».
 # Used when the name of the blocking extension is unavailable.
-downloads-error-extension = Загруженный файл не может быть сохранён, так как он был заблокирован расширением.
+downloads-error-extension = Скачанный файл не может быть сохранён, так как он был заблокирован расширением.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Загрузка не может быть сохранена, так как произошла неизвестная ошибка.

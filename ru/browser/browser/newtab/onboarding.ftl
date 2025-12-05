@@ -129,7 +129,7 @@ mr2-onboarding-start-browsing-button-label = Начать просмотр се�
 onboarding-live-language-header = Выберите свой язык
 mr2022-onboarding-live-language-text = { -brand-short-name } говорит на вашем языке
 mr2022-language-mismatch-subtitle = Благодаря нашему сообществу { -brand-short-name } переведён более чем на 90 языков. Похоже, что ваша система использует { $systemLanguage }, а { -brand-short-name } использует { $appLanguage }.
-onboarding-live-language-button-label-downloading = Загрузка языкового пакета для { $negotiatedLanguage }…
+onboarding-live-language-button-label-downloading = Скачивание языкового пакета для [{ $negotiatedLanguage }]…
 onboarding-live-language-waiting-button = Получение доступных языков…
 onboarding-live-language-installing = Установка языкового пакета для { $negotiatedLanguage }…
 mr2022-onboarding-live-language-switch-to = Переключиться на { $negotiatedLanguage }
@@ -319,7 +319,7 @@ mr2022-onboarding-default-image-alt =
 mr2022-onboarding-import-image-alt =
     .aria-label = Человек, катающийся на скейтборде с коробкой значков программ
 mr2022-onboarding-mobile-download-image-alt =
-    .aria-label = Лягушки прыгают по кувшинкам с QR-кодом для загрузки { -brand-product-name } для мобильных устройств в центре
+    .aria-label = Лягушки прыгают по кувшинкам с QR-кодом для скачивания { -brand-product-name } для мобильных устройств в центре
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Волшебная палочка заставляет логотип приватного просмотра { -brand-product-name } появиться из шляпы
 mr2022-onboarding-privacy-segmentation-image-alt =
@@ -341,7 +341,7 @@ onboarding-device-migration-primary-button-label = Войти
 ## Add-ons Picker screen
 
 amo-picker-title = Настройте свой { -brand-short-name }
-amo-picker-subtitle = Расширения — это вроде приложений для вашего браузера, они позволяют вам защищать пароли, загружать видео, находить выгодные покупки, блокировать раздражающую рекламу, изменять внешний вид браузера и многое другое.
+amo-picker-subtitle = Расширения — это вроде приложений для вашего браузера, они позволяют вам защищать пароли, скачивать видео, находить выгодные покупки, блокировать раздражающую рекламу, изменять внешний вид браузера и многое другое.
 amo-picker-install-button-label = Добавить в { -brand-short-name }
 amo-picker-install-complete-label = Установлено
 amo-picker-collection-link = Исследуйте больше дополнений
@@ -469,13 +469,13 @@ multi-profile-callout-cta = Создать профиль
 ## Desktop to Mobile Adoption feature callout strings
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
-desktop-to-mobile-headline = Загрузите, синхронизируйте и вперёд!
+desktop-to-mobile-headline = Скачайте, синхронизируйте и вперёд!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств. После установки выберите «Синхронизировать с мобильным», чтобы получить доступ к своим паролям, закладкам и многому другому, где бы вы ни находились.
 dismiss-button-label = Скрыть
 sync-to-mobile-button-label = Синхронизировать с мобильным
 desktop-to-mobile-qr-code-alt =
-    .aria-label = QR-код для загрузки { -brand-product-name } для мобильных устройств
+    .aria-label = QR-код для скачивания { -brand-product-name } для мобильных устройств
 
 ## Fx Backup onboarding: Create Backup spotlight
 
@@ -534,7 +534,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Закладки, жур�
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Сохранено на вашем устройстве
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Пароли и платежи не включены
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Перейдите в <a data-l10n-name="settings">Настройки</a>, чтобы включить конфиденциальные данные.
-fx-backup-confirmation-screen-item-subtext-1 = Резервное копирование начнётся через несколько минут и будет запускаться один раз в день. Вы можете проверить прогресс в <a data-l10n-name="settings">Настройках</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Резервное копирование начнётся через несколько минут и будет запускаться один раз в день. Вы можете проверить прогресс в «<a data-l10n-name="settings">Настройках</a>».
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } будет искать вашу резервную копию, если вам понадобится переустановка.
 
 ## Restore from Backup Flow about:welcome screens

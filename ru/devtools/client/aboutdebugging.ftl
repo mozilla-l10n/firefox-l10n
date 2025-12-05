@@ -94,7 +94,7 @@ about-debugging-setup-connect-heading = Подключить устройств�
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Включение этой функции потребует загрузки и установки необходимых компонентов для отладки Android по USB в { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = Включение этой функции потребует скачивания и установки необходимых компонентов для отладки Android по USB в { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Включить USB-устройства
