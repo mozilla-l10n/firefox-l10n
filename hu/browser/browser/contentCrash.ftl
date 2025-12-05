@@ -26,7 +26,7 @@ pending-crash-reports-message =
        *[other] Van { $reportCount } beküldetlen hibajelentés
     }
 pending-crash-reports-view-all =
-    .label = Megjelenítés
+    .label = Megtekintés
 pending-crash-reports-send =
     .label = Küldés
 pending-crash-reports-always-send =

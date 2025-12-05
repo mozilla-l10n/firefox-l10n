@@ -154,7 +154,7 @@ contextual-manager-passwords-radiogroup-label =
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading =
     .heading = Jelszó hozzáadva a következőhöz: { $url }
-contextual-manager-passwords-add-password-success-button = Nézet
+contextual-manager-passwords-add-password-success-button = Megtekintés
 # Variables
 #   $url (string) - The url associated with the existing login
 contextual-manager-passwords-password-already-exists-error-heading =
