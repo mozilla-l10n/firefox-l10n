@@ -203,12 +203,12 @@ bar-tooltip-tracker =
            *[other] { $count } de conținuturi de urmărire ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Generatoare de amprente digitale
+    .title = Detectoare de amprente digitale
     .aria-label =
         { $count ->
-            [one] { $count } generator de amprente digitale ({ $percentage }%)
-            [few] { $count } generatoare de amprente digitale ({ $percentage }%)
-           *[other] { $count } de generatoare de amprente digitale ({ $percentage }%)
+            [one] { $count } detector de amprente digitale ({ $percentage }%)
+            [few] { $count } detectoare de amprente digitale ({ $percentage }%)
+           *[other] { $count } de detectoare de amprente digitale ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Criptomineri
