@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = მალსახმობი არაა მითითებული, მალსახმობის არჩევა
     .tooltiptext = მალსახმობი არაა მითითებული, მალსახმობის არჩევა
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = საკვანძო სიტყვებით ძიება გამორთულია
+    .tooltiptext = საკვანძო სიტყვებით ძიება გამორთულია
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
