@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Válasszon egy okot
 report-broken-site-panel-blocked-trackers-label =
     .label = Követés elleni védelem által blokkolt webcímek elküldése
 report-broken-site-panel-blocked-trackers-description = A Fokozott követés elleni védelem blokkolhat olyan nyomkövetőket és parancsfájlokat, melyek egyes webhelyek megfelelő működéséhez szükségesek.
+report-broken-site-panel-preview-button =
+    .label = Jelentés előnézete
+report-broken-site-panel-preview-header =
+    .label = Jelentés előnézete
