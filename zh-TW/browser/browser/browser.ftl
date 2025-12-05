@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = 未選擇捷徑，請挑選一個捷徑
     .tooltiptext = 未選擇捷徑，請挑選一個捷徑
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = 已停用關鍵字搜尋
+    .tooltiptext = 已停用關鍵字搜尋
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
