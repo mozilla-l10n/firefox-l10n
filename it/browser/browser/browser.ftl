@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Schermo diviso
+    .aria-label = Schermo diviso
 
 ## Page Action Context Menu
 
