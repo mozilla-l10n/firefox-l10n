@@ -817,6 +817,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostra i termini di ricerca nella barra degli indirizzi nelle pagine dei risultati
+search-separate-default-engine-2 =
+    .label = Utilizza un motore di ricerca predefinito diverso nelle finestre anonime
+    .accesskey = a
+search-separate-default-engine-dropdown =
+    .aria-label = Motore di ricerca predefinito nelle finestre anonime
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
