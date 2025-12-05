@@ -13,6 +13,9 @@ unified-extensions-manage-extensions =
     .label = Handsam utvidingar
 unified-extensions-discover-extensions =
     .label = Oppdag utvidingar
+unified-extensions-empty-reason-extension-not-enabled = Du har utvidingar installert, men ikkje aktivert
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Ta nettlesinga di til eit nytt nivå med utvidingar
 
 ## An extension in the main list
 
