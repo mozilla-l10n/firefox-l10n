@@ -813,8 +813,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Visualizza suggerimenti di ricerca tra i risultati della barra degli indirizzi
     .accesskey = i
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostra i termini di ricerca nella barra degli indirizzi nelle pagine dei risultati
 # With this option enabled, on the search results page
