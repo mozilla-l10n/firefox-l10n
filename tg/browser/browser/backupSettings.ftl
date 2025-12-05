@@ -43,6 +43,7 @@ settings-data-backup-restore-header = Маълумоти худро барқар
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Барои барқарор кардани маълумоти худ, нусхаи эҳтиётии «{ -brand-product-name }»-ро аз дастгоҳи дигар истифода баред.
 settings-data-backup-scheduled-backups-off-restore-choose = Файли нусхаи эҳтиётиро интихоб кунед…
 
 ## These strings are shown under the header if scheduled backups are enabled.

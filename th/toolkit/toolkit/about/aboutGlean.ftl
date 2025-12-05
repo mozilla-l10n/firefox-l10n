@@ -135,6 +135,31 @@ about-glean-metrics-table-header-type = ชนิด
 about-glean-metrics-table-header-value = ค่า
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = การกระทำ
+about-glean-metrics-table-settings-button = การตั้งค่า
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = การตั้งค่าตารางเมตริก
+about-glean-metrics-table-settings-category-general = ทั่วไป
+about-glean-metrics-table-settings-hide-empty-value-rows = ซ่อนแถวที่มีค่าว่าง
+about-glean-metrics-table-settings-category-visualizations = การจำลองภาพ
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = ตัวอย่าง
+about-glean-metrics-table-settings-category-visualizations-histogram = ฮิสโทแกรม
+about-glean-metrics-table-settings-histograms-chart-max = ความสูงสูงสุดของแผนภูมิ
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = ความสูงสูงสุดหลังปรับสัดส่วน
+about-glean-metrics-table-settings-histograms-box-padding = ช่องว่างภายในของกล่อง
+about-glean-metrics-table-settings-histograms-chart-padding = ช่องว่างภายในของแผนภูมิ
+about-glean-metrics-table-settings-histograms-left-padding = ช่องว่างภายในด้านซ้ายเพิ่มเติม
+about-glean-metrics-table-settings-category-visualizations-timeline = เส้นเวลา
+about-glean-metrics-table-settings-timelines-height = ความสูง
+about-glean-metrics-table-settings-timelines-width = ความกว้าง
+about-glean-metrics-table-settings-timelines-chart-padding = ช่องว่างภายในของแผนภูมิ
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = รัศมีวงกลม
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = ออฟเซต X สำหรับแกน Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = ออฟเซต Y สำหรับแกน Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = ตัวกรอง
 # This message sits alongside an input field, further describing its purpose.
@@ -153,9 +178,22 @@ about-glean-button-watch = เฝ้าดู
 about-glean-button-unwatch = เลิกเฝ้าดู
 about-glean-no-data-to-display = ไม่มีข้อมูลให้แสดง
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = เมตริก <code>DualLabeledCounter</code> ยังไม่รองรับในมุมมอง <code>about:glean</code>
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = เมตริกที่มีป้ายกำกับยังไม่รองรับในมุมมอง <code>about:glean</code>
 about-glean-unknown-metric-type-warning = ไม่รู้จักชนิดเมตริก
+about-glean-enable-new-features-promo =
+    .message = เรากำลังเพิ่มคุณลักษณะใหม่ ๆ อยู่! คุณลักษณะเหล่านี้ยังอยู่ในระหว่างการพัฒนา แต่หากต้องการเปิดใช้งาน คลิกปุ่มการกระทำที่นี่ได้เลย
+    .heading = คุณลักษณะใหม่ ๆ กำลังจะมา!
 about-glean-enable-new-features-button = เปิดใช้งานคุณสมบัติใหม่
+about-glean-disable-new-features-button = ปิดใช้งานคุณลักษณะใหม่
 about-glean-about-data-explanation =
     ถ้าต้องการเรียกดูรายการข้อมูลที่รวบรวม โปรดดูที่
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Ping ในตัว
+about-glean-ping-list-optgroup-custom =
+    .label = Ping กำหนดเอง
