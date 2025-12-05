@@ -81,7 +81,7 @@ autofill-address-district = İlçe
 autofill-address-post-town = Posta kasabası
 # Used in Australia (AU) as as secondary address information (below the country level).
 # Used for international addresses as sublocality (civil entity below a locality, e.g. within a city).
-autofill-address-suburb = Yörekent
+autofill-address-suburb = Banliyö
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),
@@ -90,8 +90,6 @@ autofill-address-suburb = Yörekent
 autofill-address-province = İl
 autofill-address-state = Eyalet
 autofill-address-county = İlçe
-# Used in Barbados (BB), Jamaica (JM) as primary address information (1 level below the country level).
-autofill-address-parish = Mahalle
 # Used in Japan (JP) as primary address information (1 level below the country level).
 autofill-address-prefecture = Vilayet
 # Used in Honk Kong (HK) as primary address information (1 level below the country level).
