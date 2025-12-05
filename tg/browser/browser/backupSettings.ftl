@@ -58,6 +58,8 @@ settings-data-change-password = Иваз кардани ниҳонвожа…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Фаъол кардани нусхаи эҳтиётӣ
+turn-on-scheduled-backups-description = Браузери «{ -brand-short-name }» ҳар 24 соат нусхаи лаҳзавии маълумоти шуморо эҷод мекунад. Агар мушкилӣ ба миён ояд ё агар шумо ба дастгоҳи нав гузаред, шумо метавонед маълумоти худро барқарор созед.
+turn-on-scheduled-backups-support-link = Нусхаи эҳтиётии кадом маълумот таҳия карда мешавад?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Ҷойгиршавӣ
 # Variables:
@@ -69,15 +71,21 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Интихоб кардан…
        *[other] Кушодан…
     }
+turn-on-scheduled-backups-encryption-label = Сохтани нусхаи эҳтиётии маълумоти махфии шумо
 turn-on-scheduled-backups-encryption-create-password-label = Ниҳонвожа
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Ниҳонвожаро такрор кунед
 turn-on-scheduled-backups-cancel-button = Бекор кардан
 turn-on-scheduled-backups-confirm-button = Фаъол кардани нусхаи эҳтиётӣ
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Ҳангоми истифодаи ҷузвдони интихобшуда барои сохтани нусхаи эҳтиётӣ мушкилӣ ба миён омад. Ҷузвдони дигареро интихоб кунед ва аз нав кӯшиш намоед.
+backup-error-file-system = Ҳангоми истифодаи ҷузвдони интихобшуда дар раванди таҳияи нусхаи эҳтиётии «{ -brand-short-name }» мушкилӣ ба миён омад.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Таҳияи нусхаи эҳтиётиро хомӯш мекунед?
+turn-off-scheduled-backups-description = Ин амал, инчунин, тамоми нусхаи эҳтиётии маълумоти шуморо нест мекунад. Ин амал бебозгашт иҷро карда мешавад.
 turn-off-scheduled-backups-support-link = Маълумоти бештар
 turn-off-scheduled-backups-cancel-button = Бекор кардан
 turn-off-scheduled-backups-confirm-button = Ғайрифаъол ва нест кардани нусхаи эҳтиётӣ
@@ -99,6 +107,7 @@ restore-from-backup-restoring-button = Дар ҳоли барқарорсозӣ�
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Сохтани нусхаи эҳтиётии маълумоти махфии шумо
 enable-backup-encryption-support-link = Маълумоти бештар
 enable-backup-encryption-create-password-label = Ниҳонвожа
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
