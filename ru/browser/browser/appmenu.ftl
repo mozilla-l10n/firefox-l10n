@@ -6,11 +6,11 @@
 ## App Menu
 
 appmenuitem-banner-update-downloading =
-    .label = Загрузка обновления { -brand-shorter-name }
+    .label = Скачивание обновления { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = Доступно обновление — загрузить сейчас
+    .label = Доступно обновление — скачать сейчас
 appmenuitem-banner-update-manual =
-    .label = Доступно обновление — загрузить сейчас
+    .label = Доступно обновление — скачать сейчас
 appmenuitem-banner-update-unsupported =
     .label = Не удалось выполнить обновление — несовместимая система
 appmenuitem-banner-update-restart =

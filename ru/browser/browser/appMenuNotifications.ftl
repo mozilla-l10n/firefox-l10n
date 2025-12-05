@@ -4,18 +4,18 @@
 
 appmenu-update-available2 =
     .label = Доступно обновление
-    .buttonlabel = Загрузить
+    .buttonlabel = Скачать
     .buttonaccesskey = и
     .secondarybuttonlabel = Отклонить
     .secondarybuttonaccesskey = л
-appmenu-update-available-message2 = Загрузите последнюю версию { -brand-shorter-name }.
+appmenu-update-available-message2 = Скачайте последнюю версию { -brand-shorter-name }.
 appmenu-update-manual2 =
     .label = Доступно обновление
-    .buttonlabel = Загрузить
+    .buttonlabel = Скачать
     .buttonaccesskey = и
     .secondarybuttonlabel = Отклонить
     .secondarybuttonaccesskey = л
-appmenu-update-manual-message2 = { -brand-shorter-name } не удалось обновить автоматически. Загрузите новую версию — вы не потеряете сохранённую информацию или настройки.
+appmenu-update-manual-message2 = { -brand-shorter-name } не удалось обновить автоматически. Скачайте новую версию — вы не потеряете сохранённую информацию или настройки.
 appmenu-update-unsupported2 =
     .label = Не удалось произвести обновление
     .buttonlabel = Узнать больше

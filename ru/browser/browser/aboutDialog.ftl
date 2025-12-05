@@ -16,14 +16,14 @@ update-checkingForUpdates = Проверка наличия обновлений
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Загрузка обновления — <label data-l10n-name="download-status">{ $transfer }</label>
-aboutdialog-update-downloading = Загрузка обновления — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>Скачивание обновления — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Скачивание обновления — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
 update-applying = Применение обновления…
-update-failed = Обновление не удалось. <label data-l10n-name="failed-link">Загрузите последнюю версию</label>
-update-failed-main = Обновление не удалось. <a data-l10n-name="failed-link-main">Загрузите последнюю версию</a>
+update-failed = Обновление не удалось. <label data-l10n-name="failed-link">Скачайте последнюю версию</label>
+update-failed-main = Обновление не удалось. <a data-l10n-name="failed-link-main">Скачайте последнюю версию</a>
 update-adminDisabled = Обновления отключены вашим системным администратором
 update-policy-disabled = Обновления отключены вашей организацией
 update-noUpdatesFound = Установлена последняя версия { -brand-short-name }

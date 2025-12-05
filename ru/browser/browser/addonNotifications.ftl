@@ -87,9 +87,9 @@ addon-mlmodel-removal-body = Если вы используете возможн
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
     { $addonCount ->
-        [one] Загрузка и проверка { $addonCount } дополнения…
-        [few] Загрузка и проверка { $addonCount } дополнений…
-       *[many] Загрузка и проверка { $addonCount } дополнений…
+        [one] Скачивание и проверка { $addonCount } дополнения…
+        [few] Скачивание и проверка { $addonCount } дополнений…
+       *[many] Скачивание и проверка { $addonCount } дополнений…
     }
 addon-download-verifying = Проверка
 addon-install-cancel-button =
@@ -127,9 +127,9 @@ addon-confirm-install-some-unsigned-message =
 ## Variables:
 ##   $addonName (String): the add-on name.
 
-addon-install-error-network-failure = Дополнение не может быть загружено из-за ошибки соединения.
+addon-install-error-network-failure = Дополнение не может быть скачано из-за ошибки соединения.
 addon-install-error-incorrect-hash = Дополнение не может быть установлено, так как оно не соответствует дополнению, ожидаемому { -brand-short-name }.
-addon-install-error-corrupt-file = Дополнение, загруженное с этого сайта, не может быть установлено, так как оно, по-видимому, повреждено.
+addon-install-error-corrupt-file = Дополнение, скачанное с этого сайта, не может быть установлено, так как оно, по-видимому, повреждено.
 addon-install-error-file-access = { $addonName } не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
 addon-install-error-not-signed = { -brand-short-name } заблокировал установку непроверенного дополнения с этого сайта.
 addon-install-error-invalid-domain = Дополнение { $addonName } не может быть установлено из этого расположения.

@@ -92,10 +92,10 @@ downloads-cmd-retry =
 downloads-cmd-retry-panel =
     .aria-label = Повторить
 downloads-cmd-go-to-download-page =
-    .label = Перейти на страницу загрузки
+    .label = Перейти на страницу скачивания
     .accesskey = н
 downloads-cmd-copy-download-link =
-    .label = Копировать ссылку на загрузку
+    .label = Копировать ссылку на скачивание
     .accesskey = ы
 downloads-cmd-remove-from-history =
     .label = Удалить из истории
@@ -111,7 +111,7 @@ downloads-cmd-delete-file =
     .accesskey = л
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
-    .label = Разрешить загрузку
+    .label = Разрешить скачивание
     .accesskey = р
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
@@ -122,9 +122,9 @@ downloads-cmd-remove-file-panel =
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Удалить файл или разрешить загрузку
+    .tooltiptext = Удалить файл или разрешить скачивание
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Удалить файл или разрешить загрузку
+    .aria-label = Удалить файл или разрешить скачивание
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
@@ -167,11 +167,11 @@ downloading-file-click-to-open =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = Повторить загрузку
+    .value = Повторить скачивание
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
-    .value = Отменить загрузку
+    .value = Отменить скачивание
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -202,9 +202,9 @@ downloads-private-browsing-accept-button =
 
 downloads-files-not-downloaded =
     { $num ->
-        [one] { $num } файл не загружен.
-        [few] { $num } файла не загружено.
-       *[many] { $num } файлов не загружены.
+        [one] { $num } файл не скачан.
+        [few] { $num } файла не скачано.
+       *[many] { $num } файлов не скачано.
     }
 downloads-blocked-from-url = Загрузки с { $url } заблокированы.
 downloads-blocked-download-detailed-info = { $url } пытался автоматически скачать большое число файлов. Возможно, сайт был неисправен или пытался разместить спам-файлы на вашем устройстве.

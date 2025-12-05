@@ -218,8 +218,8 @@ backup-file-how-to-restore-header = Как восстановить:
 backup-file-moz-browser-restore-step-1 = Откройте меню ☰ приложения и выберите Настройки > Синхронизация
 backup-file-moz-browser-restore-step-2 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-moz-browser-restore-step-3 = Перезапустите { -brand-short-name } по запросу
-backup-file-other-browser-restore-step-1 = Загрузите и установите { -brand-short-name }
-backup-file-download-moz-browser-button = Загрузить
+backup-file-other-browser-restore-step-1 = Скачайте и установите { -brand-short-name }
+backup-file-download-moz-browser-button = Скачать
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню ☰ приложения и выберите Настройки > Синхронизация

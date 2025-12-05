@@ -1266,7 +1266,7 @@ pinned-tabs-drop-indicator = Перетащите сюда вкладку, чт�
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Открыть предыдущие вкладки?</strong> Вы можете восстановить предыдущий сеанс из меню { -brand-short-name } <img data-l10n-name="icon"/> в разделе История.
+restore-session-startup-suggestion-message = <strong>Открыть предыдущие вкладки?</strong> Вы можете восстановить предыдущий сеанс из меню { -brand-short-name } <img data-l10n-name="icon"/> в разделе «История».
 restore-session-startup-suggestion-button = Показать мне как
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
