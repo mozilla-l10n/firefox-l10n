@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Ҷойгиршавӣ
 settings-data-backup-last-backup-location-show-in-folder = Намоиш додан дар ҷузвдон
 settings-data-backup-last-backup-location-edit = Таҳрир кардан…
 settings-data-create-backup-error = Ҳангоми таҳияи нусхаи эҳтиётӣ дар санаи { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } хато ба миён омад
+settings-sensitive-data-encryption-description = Нусхаи эҳтиётии ниҳонвожаҳо ва тарзҳои пардохти худро таҳия кунед ва, инчунин, тамоми маълумоти худро бо истифода аз имкони рамзгузорӣ ба таври бехатар нигоҳ доред.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Номи файл: { $fileName }
