@@ -98,7 +98,7 @@ delete-profile-confirm = Șterge
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
 # The default light theme
-profiles-light-theme = Deschisă
+profiles-light-theme = Luminoasă
 # The default dark theme
 profiles-dark-theme = Întunecată
 # The default system theme

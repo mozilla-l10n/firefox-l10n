@@ -57,7 +57,7 @@ mr1-onboarding-theme-subtitle = Personalizează { -brand-short-name } cu o temă
 mr1-onboarding-theme-secondary-button-label = Nu acum
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistemului
-mr1-onboarding-theme-label-light = Deschisă
+mr1-onboarding-theme-label-light = Luminoasă
 mr1-onboarding-theme-label-dark = Întunecată
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
@@ -324,7 +324,7 @@ mr2022-onboarding-mobile-download-image-alt =
 mr2022-onboarding-pin-private-image-alt =
     .aria-label = Bagheta magică face ca logo-ul de navigare privată { -brand-product-name } să apară dintr-o pălărie
 mr2022-onboarding-privacy-segmentation-image-alt =
-    .aria-label = Două mâini, cu piele deschisă la culoare și cu piele închisă la culoare, care dau palma
+    .aria-label = Două mâini, cu piele de culoare deschisă și cu piele de culoare închisă, care dau palma
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vedere a unui apus de soare printr-o fereastră cu o vulpe și o plantă de casă pe pervaz
 mr2022-onboarding-colorways-image-alt =

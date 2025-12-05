@@ -4,7 +4,7 @@
 
 about-reader-loading = Se încarcă…
 about-reader-load-error = Imposibil de încărcat articolul de la pagina
-about-reader-color-scheme-light = Luminos
+about-reader-color-scheme-light = Luminoasă
     .title = Paletă de culori deschise
 about-reader-color-scheme-dark = Întunecat
     .title = Paletă de culori întunecate
@@ -12,8 +12,8 @@ about-reader-color-scheme-sepia = Sepia
     .title = Paletă de culori sepia
 about-reader-color-scheme-auto = Automat
     .title = Paletă de culori automată
-about-reader-color-light-theme = Deschisă
-    .title = Temă deschisă
+about-reader-color-light-theme = Luminoasă
+    .title = Temă luminoasă
 about-reader-color-dark-theme = Întunecată
     .title = Temă întunecată
 about-reader-color-sepia-theme = Sepia

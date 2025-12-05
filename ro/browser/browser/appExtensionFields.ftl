@@ -8,10 +8,10 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Tema sistemului — automată
 extension-default-theme-description = Urmează tema sistemului de operare pentru butoane, meniuri și ferestre.
-extension-firefox-compact-light-name = Deschisă
+extension-firefox-compact-light-name = Luminoasă
 extension-firefox-compact-light-description = O temă cu o paletă de culori deschise.
 extension-firefox-compact-dark-name = Întunecată
-extension-firefox-compact-dark-description = O temă cu o paletă de culori întunecate.
+extension-firefox-compact-dark-description = O temă cu o paletă de culori închise.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Folosește un aspect colorat pentru butoane, meniuri și ferestre.
 
