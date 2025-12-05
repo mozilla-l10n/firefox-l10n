@@ -264,3 +264,5 @@ link-preview-onboarding-button = Sjå ei førehandsvisning
 link-preview-onboarding-close = Lat att
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Førstegangsoppsett
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Dette kan ta ei stund. Du vil sjå viktige punkt raskare neste gong.
