@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Увімкнути
 extensions-warning-imported-addons2 =
     .message = Завершіть встановлення розширень, які було імпортовано до { -brand-short-name }.
 extensions-warning-imported-addons-button = Встановити розширення
+extensions-warning-safe-mode3 =
+    .message = Усі додатки вимкнено, оскільки ви в режимі усунення проблем.
 
 ## Strings connected to add-on updates
 
@@ -287,6 +289,10 @@ colorway-removal-notice-message =
         на сайті додатків.
 colorway-removal-notice-learn-more = Докладніше
 colorway-removal-notice-button = Отримайте оновлені теми забарвлень
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Ваші налаштування контрастності Windows перевизначають теми { -brand-short-name }. Вимкніть ці налаштування, щоб використовувати теми в { -brand-short-name }.
 privacy-policy = Політика приватності
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -472,7 +478,10 @@ available-updates-heading = Доступні оновлення
 recent-updates-heading = Недавні оновлення
 release-notes-loading = Завантаження…
 release-notes-error = На жаль, під час завантаження приміток до випуску сталася помилка.
+addon-permissions-heading = Дозволи
 addon-permissions-empty2 = Це розширення не вимагає жодних дозволів.
+addon-permissions-required-label = Обов'язково:
+addon-permissions-optional-label = Необов'язково:
 addon-permissions-empty = Це розширення не потребує дозволів
 addon-permissions-required = Необхідні дозволи для роботи основних функцій:
 addon-permissions-optional = Необов'язкові дозволи для додаткових функцій:
@@ -532,6 +541,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Докладніше
 details-notification-blocked = { $name } було вимкнено, у зв'язку з проблемами безпеки чи стабільності.
 details-notification-blocked-link2 = Переглянути подробиці
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Це розширення вимкнено через обмеження. Ви можете його ввімкнути, але це може бути ризиковано.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Це розширення обмежено. Його використання може бути ризикованим.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Цей додаток вимкнено через обмеження. Ви можете його ввімкнути, але це може бути ризиковано.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Цей додаток обмежено. Його використання може бути ризикованим.
 details-notification-soft-blocked-extension-disabled =
     .message = Це розширення обмежено через порушення політик Mozilla, тому його було вимкнено. Ви можете ввімкнути його, розуміючи можливі наслідки ризику.
 details-notification-soft-blocked-extension-enabled =
@@ -568,6 +585,10 @@ permissions-data-addon-button = Дозволи й дані
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Використовується розширенням { $extensionName }
+addon-permissions-data-collection-heading = Збір даних
+addon-permissions-data-collection-empty = Розробник стверджує, що це розширення не потребує збору даних.
+addon-data-collection-provided = Інформація надана розробником розширення
+addon-data-collection-learnmore = Докладніше про збір даних
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
