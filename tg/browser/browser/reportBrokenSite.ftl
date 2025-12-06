@@ -48,3 +48,7 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = Ташаккур барои кумакрасонӣ ба «{ -brand-product-name }», то ин ки мо тавонем доираи истифодабарии Интернетро боз ҳам васеътар, беҳтар ва дастраси ҳамагон гардонем.
 report-broken-site-panel-invalid-url-label = Лутфан, нишонии URL-и эътиборро ворид намоед
 report-broken-site-panel-missing-reason-label = Лутфан, сабаберо интихоб намоед
+report-broken-site-panel-preview-button =
+    .label = Пешнамоиши гузориш
+report-broken-site-panel-preview-header =
+    .label = Пешнамоиши гузориш

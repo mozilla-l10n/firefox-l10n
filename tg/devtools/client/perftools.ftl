@@ -154,4 +154,6 @@ perftools-presets-power-label = Қувва
 perftools-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
 perftools-presets-debug-label = Ислоҳ кардани хатоҳо
 perftools-presets-debug-description = Танзими пешбинишуда барои ислоҳ кардани хатоҳо дар «{ -brand-shorter-name }». Ба сабаби хароҷоти изофӣ, аз он барои кори самаранок истифода набаред, аммо аз он барои таваҷҷуҳ ба фаҳмидани рафтори браузер истифода баред.
+perftools-presets-web-compat-label = Мутобиқати веб
+perftools-presets-web-compat-description = Пешниҳоди танзими тавсияшуда барои ислоҳ кардани хатоҳои мутобиқати веб дар сомонаҳо, ба ҷойи пайгирии самаранокӣ.
 perftools-presets-custom-label = Фармоишӣ

@@ -339,6 +339,14 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Илова кардани тавзеҳ
+    .accesskey = И
+tab-context-edit-note =
+    .label = Таҳрир кардани тавзеҳ
+    .accesskey = Т
+tab-note-editor-title-create = Илова кардани тавзеҳ
+tab-note-editor-title-edit = Таҳрир кардани тавзеҳ
 tab-note-editor-button-cancel =
     .label = Бекор кардан
     .accesskey = к
@@ -349,3 +357,9 @@ tab-note-editor-button-save =
 ## Split View
 
 tab-context-badge-new = Нав
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Ҷудо кардани варақаҳо
