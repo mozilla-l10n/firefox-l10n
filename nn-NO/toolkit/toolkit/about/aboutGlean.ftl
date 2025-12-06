@@ -164,6 +164,8 @@ about-glean-metrics-table-settings-histograms-chart-max = Maksimal høgde for di
 about-glean-metrics-table-settings-histograms-scaled-max = Skalert maksimal høgde
 about-glean-metrics-table-settings-histograms-box-padding = Indre marg
 about-glean-metrics-table-settings-histograms-chart-padding = Diagrammarg
+about-glean-metrics-table-settings-histograms-left-padding = Ekstra venstre marg
+about-glean-metrics-table-settings-category-visualizations-timeline = Tidslinje
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.
