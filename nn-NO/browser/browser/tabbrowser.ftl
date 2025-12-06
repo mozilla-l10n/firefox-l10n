@@ -375,3 +375,5 @@ split-view-menuitem-separate-tabs =
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = Reverser faner
+split-view-menuitem-close-both-tabs =
+    .label = Lat att begge fanene

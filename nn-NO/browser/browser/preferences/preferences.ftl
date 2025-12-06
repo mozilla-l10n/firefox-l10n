@@ -1207,6 +1207,7 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Krev einingspålogging for å automatisk fylle ut og handsame betalingsmåter
     .accesskey = K
+autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåtar
 payments-list-item-label = <strong>Betalingsmåtar</strong>
@@ -1371,6 +1372,8 @@ addressbar-header = Adresselinje
 addressbar-suggest-1 = Vel kva forslag som skal visast i adresselinja
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Forslag frå { -brand-short-name } og partnarane våre i adresselinja di.
 addressbar-suggest = Når du brukar adresselinja, føreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
