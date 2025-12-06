@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Tillate denne fila å opne lenka { $sch
 permission-dialog-description-extension-app = Tillate utvidinga { $extension } å opne { $scheme }-lenka med { $appName }?
 permission-dialog-description-system-app = Opne { $scheme }-lenka med { $appName }?
 permission-dialog-description-system-noapp = Opne { $scheme }-lenka?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Vil du tillate at denne nettstaden opnar den digitale lommeboka di?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
