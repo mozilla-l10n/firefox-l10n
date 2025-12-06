@@ -150,6 +150,20 @@ about-glean-metrics-table-header-type = Type
 about-glean-metrics-table-header-value = Verdi
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Handlingar
+about-glean-metrics-table-settings-button = Innstillingar
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Innstillingar for metrikktabell
+about-glean-metrics-table-settings-category-general = Generelt
+about-glean-metrics-table-settings-hide-empty-value-rows = Skjul tomme verdirader
+about-glean-metrics-table-settings-category-visualizations = Visualiseringar
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Døme
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-histograms-chart-max = Maksimal høgde for diagrammet
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Skalert maksimal høgde
+about-glean-metrics-table-settings-histograms-box-padding = Indre marg
+about-glean-metrics-table-settings-histograms-chart-padding = Diagrammarg
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.

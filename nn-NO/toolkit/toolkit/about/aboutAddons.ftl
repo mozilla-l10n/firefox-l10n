@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Slå på
 extensions-warning-imported-addons2 =
     .message = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer utvidingar
+extensions-warning-safe-mode3 =
+    .message = Alle tillegg er deaktiverte av feilsøkingsmodus.
 
 ## Strings connected to add-on updates
 
@@ -290,6 +292,10 @@ colorway-removal-notice-message =
         nettstaden for tillegg.
 colorway-removal-notice-learn-more = Les meir
 colorway-removal-notice-button = Få oppdaterte fargetema
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Kontrastinnstillingane i Windows overstyrer temaa i { -brand-short-name }. Slå av desse innstillingane for å bruke tema i { -brand-short-name }.
 privacy-policy = Personvernpraksis
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -534,6 +540,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Meir informasjon
 details-notification-blocked = { $name } er slått av grunna tryggings- eller stabilitetsomsyn.
 details-notification-blocked-link2 = Vis detaljar
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Denne utvidinga er avgrensa og har vorte deaktivert. Du kan aktivere henne, men dette kan vere risikabelt.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Denne utvidinga er avgrensa. Bruk av henne kan vere risikabelt.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Dette tillegget er avgrensa og har vorte deaktivert. Du kan aktivere det, men dette kan vere risikabelt.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Dette tillegget er avgrensa. Bruk av den kan vere risikabelt.
 details-notification-soft-blocked-extension-disabled =
     .message = Denne utvideinga har blitt avgrensa for brot på Mozillas retningslinjer og har blitt deaktivert. Du kan aktivere henne, men dette kan vere risikabelt.
 details-notification-soft-blocked-extension-enabled =

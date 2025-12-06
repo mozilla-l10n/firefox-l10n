@@ -84,3 +84,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } utvidingar deaktiverte
         }
     .message = Nokre av utvidingane dine er deaktiverte fordi dei bryt med Mozillas retningslinjer.
+unified-extensions-notice-safe-mode =
+    .message = Alle utvidingar er deaktiverte av feilsøkingsmodus.
