@@ -838,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Non mostrare suggerimenti sui mercati
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Grazie per il tuo feedback. I suggerimenti sui mercati non verranno più visualizzati.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Suggerimenti sui mercati azionari
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Grazie per il tuo feedback. Questi suggerimenti non verranno più visualizzati.
