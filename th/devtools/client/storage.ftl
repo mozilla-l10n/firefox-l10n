@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = ขนาด
 storage-table-headers-cookies-last-accessed = เข้าถึงล่าสุด
 storage-table-headers-cookies-creation-time = สร้างเมื่อ
+storage-table-headers-cookies-update-time = ปรับปรุง
 storage-table-headers-cache-status = สถานะ
 storage-table-headers-extension-storage-area = พื้นที่เก็บข้อมูล
 

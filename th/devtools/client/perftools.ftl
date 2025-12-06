@@ -158,4 +158,6 @@ perftools-presets-power-label = พลังงาน
 perftools-presets-power-description = ค่าที่ตั้งล่วงหน้าสำหรับการตรวจสอบบั๊กเกี่ยวกับการใช้พลังงานใน { -brand-shorter-name } โดยมีโอเวอร์เฮดต่ำ
 perftools-presets-debug-label = ดีบั๊ก
 perftools-presets-debug-description = พรีเซ็ตสำหรับการดีบั๊กใน { -brand-shorter-name }  มีโอเวอร์เฮดสูง อย่าใช้เพื่องานด้านประสิทธิภาพ แต่ให้ใช้เพื่อทำความเข้าใจพฤติกรรมการทำงานของเบราว์เซอร์
+perftools-presets-web-compat-label = Web Compat
+perftools-presets-web-compat-description = พรีเซ็ตที่แนะนำสำหรับการดีบั๊กปัญหาเกี่ยวกับความเข้ากันได้ของเว็บในเว็บไซต์ แทนที่จะติดตามประสิทธิภาพ
 perftools-presets-custom-label = กำหนดเอง
