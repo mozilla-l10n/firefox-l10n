@@ -166,6 +166,15 @@ about-glean-metrics-table-settings-histograms-box-padding = Indre marg
 about-glean-metrics-table-settings-histograms-chart-padding = Diagrammarg
 about-glean-metrics-table-settings-histograms-left-padding = Ekstra venstre marg
 about-glean-metrics-table-settings-category-visualizations-timeline = Tidslinje
+about-glean-metrics-table-settings-timelines-height = Høgde
+about-glean-metrics-table-settings-timelines-width = Breidde
+about-glean-metrics-table-settings-timelines-chart-padding = Diagrammarg
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Sirkelradius
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = X-akse X-forskyving
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y-akse Y-forskyving
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filter
 # This message sits alongside an input field, further describing its purpose.
@@ -184,9 +193,19 @@ about-glean-button-watch = Overvak
 about-glean-button-unwatch = Fjern overvaking
 about-glean-no-data-to-display = Ingen data å vise.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-målingar blir ikkje støtta i <code>about:glean</code>-visninga enno.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Merkte målingar blir ikkje støtta i <code>about:glean</code>-visinga enno.
 about-glean-unknown-metric-type-warning = Ukjend målingstype.
 about-glean-enable-new-features-button = Slå på nye funksjonar
+about-glean-disable-new-features-button = Slå av nye funksjonar
 about-glean-about-data-explanation =
     For å sjå gjennom lista over innsamla data, sjå
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ordbok</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Innebygde ping
+about-glean-ping-list-optgroup-custom =
+    .label = Tilpassa ping

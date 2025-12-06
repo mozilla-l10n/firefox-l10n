@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Still inn ei nedteljing 
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lister og nedteljing på { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Hald hugselista di lett tilgjengeleg når du opnar ei ny fane. Frå pakkelister til handlelister – lag planane dine i { -brand-product-name }. Set ei nedteljing for å halde fokus, minne deg på å halde deg på sporet eller ta ein pause. <a data-l10n-name="connect">Del tilbakemelding</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantisk historikksøk
+experimental-features-semantic-history-search-description = Bruk ein lokal maskinlæringsmodell til å foreslå oppføringar frå historikken som er relatert til søka dine, basert på naturleg språkforståing i { -brand-product-name }-adresselinja. <a data-l10n-name="connect">Del tilbakemelding</a>
