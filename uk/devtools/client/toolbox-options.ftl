@@ -30,6 +30,10 @@ options-context-inspector = Ревізор
 options-show-user-agent-styles-label = Показати стилі браузера
 options-show-user-agent-styles-tooltip =
     .title = Увімкнення цього параметра покаже типові стилі, завантажені браузером.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Показати тіньовий DOM браузера
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Увімкнення цього параметра показуватиме тіньові елементи DOM, оброблені браузером.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Скорочувати атрибути DOM
 options-collapse-attrs-tooltip =
@@ -116,6 +120,8 @@ options-disable-http-cache-label = Вимкнути HTTP-кеш (коли від
 options-disable-http-cache-tooltip =
     .title = Вмикаючи цю опцію ви забороняєте HTTP-кеш для всіх вкладок з відкритою панеллю інструментів. Ця опція не впливає на Service Workers.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Вимкнути JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Вимкнути JavaScript *
 options-disable-javascript-tooltip =
     .title = Увімкнення цього параметра вимкне JavaScript для поточної вкладки. Якщо вкладку чи інструменти закрито, то ці налаштування не збережуться.
@@ -144,4 +150,10 @@ options-source-maps-label = Увімкнути карти джерел
 options-source-maps-tooltip =
     .title = Якщо увімкнути цю опцію, джерела будуть заноситись в інструменти.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (лише поточний сеанс, перезавантажує сторінку)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * тільки поточний сеанс, перезавантажити сторінку
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (перезавантажує сторінку)
