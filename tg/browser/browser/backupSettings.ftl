@@ -133,6 +133,22 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Ин файл кор намекунад
     .message = Файле, ки шумо интихоб кардед, ба ин версияи «{ -brand-short-name }» мувофиқат намекунад. Файли дигареро интихоб кунед ва аз нав кӯшиш намоед.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Ин файл кор намекунад
+    .message = Файле, ки шумо интихоб кардед, ба воситаи «{ -brand-short-name }» эҷод карда нашуд. Файли дигареро интихоб кунед ва аз нав кӯшиш намоед.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = «{ -brand-short-name }» барқарор карда нашуд
+    .message = «{ -brand-short-name }»-ро аз нав оғоз кунед ва кӯшиш кунед, ки нусхаи эҳтиётии худро аз нав барқарор созед.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Ҳм, ҳангоми таҳия кардани нусхаи эҳтиётӣ хатое ба миён омад.
+    .message = Пас аз чанд дақиқа аз нав кӯшиш кунед.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -183,6 +199,7 @@ backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, а
 
 backup-file-title = Барқарор кардани «{ -brand-short-name }»
 backup-file-path-label = Файли нусхаи эҳтиётӣ:
+backup-file-encryption-state-label = Рамзгузоришуда:
 backup-file-encryption-state-value-encrypted = Ҳа
 backup-file-encryption-state-value-not-encrypted = Не
 backup-file-creation-device-label = Дастгоҳ:
@@ -190,6 +207,13 @@ backup-file-creation-date-label = Санаи эҷод:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Тарзи барқарорсозӣ:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Менюи барномаро аз рӯйи аломати ☰ кушоед ва ба Танзимот > Ҳамоҳангсозӣ гузаред
+backup-file-moz-browser-restore-step-2 = Имкони «Файли нусхаи эҳтиётиро интихоб кунед…»-ро зер кунед ва ин файлро интихоб намоед
+backup-file-moz-browser-restore-step-3 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
+backup-file-other-browser-restore-step-1 = Боргирӣ ва насб кардани «{ -brand-short-name }»
 backup-file-download-moz-browser-button = Боргирӣ кардан
 
 ## These strings are used in the about:restore and about:welcome pages
