@@ -93,6 +93,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga for å sikre HTTPS for desse nettstadane. Unntak gjeld ikkje private vindauge.
 permissions-exceptions-https-only-desc2 = Du kan slå av kun-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga til sikker HTTPS for desse nettstadane.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Tillatne nettstadar – sprettoppvindauge og tredjepartvidaresendingar
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Du kan angi kva nettstadar som har lov til å opne sprettoppvindauge og bli vidaresendt av tredjepartsrammer.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

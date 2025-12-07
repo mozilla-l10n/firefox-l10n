@@ -534,6 +534,8 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Bokmerker, historikk, inn
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Lagra til eininga di
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Passord og betalingar er ikkje inkluderte
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Gå til <a data-l10n-name="settings">innstillingar</a> for å inkludere sensitive data.
+fx-backup-confirmation-screen-item-subtext-1 = Sikkerheitskopieringa startar om nokre få minutt og køyrer éin gong om dagen. Du kan sjekke framdrifta i <a data-l10n-name="settings">innstillingar</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vil sjå etter sikkerheitskopien din om du treng å installere på nytt.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -557,6 +559,8 @@ restored-from-backup-error-primary-button = Lat att
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Tilpass { -brand-short-name }-opplevinga di
+onboarding-personalization-subtitle = Svar på nokre få spørsmål, så tilrår vi funksjonar og utvidingar som kan forbetre bruken av { -brand-short-name }.
 onboarding-personalization-use-case-title = Kva skal du bruke { -brand-short-name } til?
 onboarding-personalization-use-case-personal-option = Personleg
 onboarding-personalization-use-case-school-option = Skule
