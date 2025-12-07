@@ -44,8 +44,8 @@ callout-pdfjs-draw-button = Հասկացա
 
 ## Firefox View Discoverability Strings
 
-fx-view-discoverability-title = Չե՞ք ուզում փակել այդ ներդիրը:
-fx-view-discoverability-subtitle = Գտեք և արագ բացեք այն այստեղ: Մենք ձեզ համար պահում ենք ձեր վերջերս փակված ներդիրների պատմությունը:
+fx-view-discoverability-title = Չէի՞ք ուզում փակել այդ ներդիրը։
+fx-view-discoverability-subtitle = Գտեք և վերաբացեք այն արագ այստեղ։ Մենք պահպանում ենք ձեր վերջերս փակված ներդիրների պատմությունը ձեզ համար։
 fx-view-discoverability-primary-button-label = Բացել { -firefoxview-brand-name }-ը
 fx-view-discoverability-secondary-button-label = Բաց թողնել
 

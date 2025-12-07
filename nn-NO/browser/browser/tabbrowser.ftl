@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] Legg til faner i gruppe
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Legg delt visning til ny gruppe
+           *[other] Legg delte visningar til ny gruppe
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Legg delt visning til ny gruppe
+           *[other] Add Split Views to Group
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Opne profileringsverktøy-panelet
 tab-group-editor-action-new-tab =
@@ -347,6 +361,12 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Legg til notat
+    .accesskey = L
+tab-context-edit-note =
+    .label = Rediger notat
+    .accesskey = R
 tab-note-editor-title-create = Legg til notat
 tab-note-editor-title-edit = Rediger notat
 tab-note-editor-button-cancel =
@@ -365,6 +385,14 @@ tabbrowser-tab-label-tab-split-view = Delt visning
 tab-context-add-split-view =
     .label = Legg til delt visning
     .accesskey = e
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Åpne i delt visning
+    .accesskey = p
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separat delt visning
+    .accesskey = p
 tab-context-badge-new = Ny
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
