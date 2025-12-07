@@ -23,6 +23,8 @@ permission-dialog-description-system-noapp = Opne { $scheme }-lenka?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Vil du tillate at denne nettstaden opnar den digitale lommeboka di?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Om du opnar ei <strong>{ $scheme }</strong>-lenke, kan <strong>{ $host }</strong> be om den verkelege identiteten din hos <strong>{ $appName }</strong>. Hald berre fram om du stolar på denne nettstaden.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

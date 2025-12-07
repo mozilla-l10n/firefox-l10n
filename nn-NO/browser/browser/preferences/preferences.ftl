@@ -1415,6 +1415,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Mest besøkte nettstadar
     .accesskey = M
+addressbar-locbar-engines-option-1 =
+    .label = Foreslå søkjemotorar å bruke
+    .accesskey = s
 addressbar-locbar-engines-option =
     .label = Søkjemotorar
     .accesskey = k
@@ -1439,6 +1442,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Få forslag frå nettet relatert t
 addressbar-locbar-suggest-sponsored-option =
     .label = Forslag frå sponsorar
 addressbar-locbar-suggest-sponsored-desc = Støtt { -brand-short-name } med sporadiske sponsa forslag.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Hent forslag frå Mozilla medan du skriv
 addressbar-quickactions-learn-more = Les meir
 addressbar-dismissed-suggestions-label = Avviste forslag
 addressbar-restore-dismissed-suggestions-description = Gjenopprett avviste forslag frå sponsorar og { -brand-short-name }.
@@ -1502,6 +1513,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Les meir
 content-blocking-etp-standard-tcp-title = Inkluderer totalt vern mot infokapslar, den kraftigaste personvernfunksjonen vår nokon gong
 content-blocking-warning-title = Viktig!
 content-blocking-warning-title-2 = Nokre nettstadar kan slutte å fungere med strengt sporingsvern
+content-blocking-warning-title-custom = Nokre nettstadar kan slutte å fungere med tilpassa sporingsvern
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } tilrår å bruke innstillingane «Fiks nettstadproblem» for å redusere øydelagde funksjonar og innhald på nettstadar. Viss ein nettstad verkar øydelagd, kan du prøve å slå av sporingsvern for den nettstaden for å laste alt innhald.
 content-blocking-and-isolating-etp-warning-description-2 = Denne innstillinga kan føre til at enkelte nettstadar ikkje viser innhald eller fungerer rett. Dersom ein nettstad verkar øydelagd, kan det vere lurt å slå av sporingsvernet for nettsaden for å få laste inn alt innhaldet.
@@ -1610,6 +1622,9 @@ permissions-autoplay = Automatisk avspeling
 permissions-autoplay-settings =
     .label = Innstillingar
     .accesskey = n
+permissions-block-popups2 =
+    .label = Blokker sprettoppvindauge og tredjepartsvidaresendingar
+    .accesskey = B
 permissions-block-popups =
     .label = Blokker sprettoppvindauge
     .accesskey = B
@@ -1640,6 +1655,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Høgtalar
 permissions-notification2 =
     .label = Varsel
 
