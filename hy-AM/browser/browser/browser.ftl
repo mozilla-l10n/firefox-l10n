@@ -386,7 +386,7 @@ quickactions-firefoxview = Բացել { -firefoxview-brand-name }ը
 # English is using "view" and "open view", since the feature name is
 # "Firefox View". If you have translated the name in your language, you
 # should use a word related to the existing translation.
-quickactions-cmd-firefoxview = բացել { -firefoxview-brand-name }, { -firefoxview-brand-name }-ը, բացելու տեսք, տեսք
+quickactions-cmd-firefoxview = բացել { -firefoxview-brand-name }, { -firefoxview-brand-name }-ը, բացել տեսքը, տեսք
 # Opens SUMO home page
 quickactions-help = { -brand-product-name }-ի օգնություն
 quickactions-cmd-help = օգնություն, աջակցում

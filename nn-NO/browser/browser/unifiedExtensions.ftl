@@ -13,9 +13,11 @@ unified-extensions-manage-extensions =
     .label = Handsam utvidingar
 unified-extensions-discover-extensions =
     .label = Oppdag utvidingar
+unified-extensions-empty-reason-private-browsing-not-allowed = Du har installert utvidingar som ikkje er aktiverte i private vindauge
 unified-extensions-empty-reason-extension-not-enabled = Du har utvidingar installert, men ikkje aktivert
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Ta nettlesinga di til eit nytt nivå med utvidingar
+unified-extensions-empty-content-explain-enable2 = Vel «{ unified-extensions-manage-extensions.label }» for å aktivere dei i innstillingane.
 
 ## An extension in the main list
 
