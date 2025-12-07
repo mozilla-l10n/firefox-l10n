@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Ikkje vis igjen
     .accesskey = k
 sandbox-unprivileged-namespaces-howtofix = Korleis du fiksar dette problemet
+sandbox-content-disabled-warning = Tryggingssandkassa er deaktivert. Konfigurasjonen din blir ikkje støtta og er mindre sikker.

@@ -107,6 +107,12 @@ fp-cert-error-code = Feilkode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } stolar ikkje på { $hostname } fordi ho ikkje kunne bevise at ho oppfyller krava til offentleg sertifikatopenheit.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Truleg ikkje mykje, det er sannsynleg at det er eit problem med sjølve nettstaden.
 fp-learn-more-about-secure-connection-failures = Les meir om feil med trygg tilkopling
 fp-learn-more-about-cert-issues = Les meir om slike sertifikatproblem
 fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelaterte feil
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = Skjul avansert
 fp-certerror-override-exception-button = Hald fram til { $hostname } (risikofylt)
 fp-certerror-intro = { -brand-short-name } oppdaga eit potensielt alvorleg tryggingsproblem med <strong>{ $hostname }</strong>. Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som kredittkortinformasjon, passord eller e-postar.
 fp-certerror-expired-into = { -brand-short-name } oppdaga eit tryggingsproblem med <strong>{ $hostname }</strong>. Anten er nettstaden ikkje konfigurert rett eller klokka i eininga er sett til feil dato/tid.
+fp-certerror-transparency-intro = Nokon som gir seg ut for å vere <strong>{ $hostname }</strong> kan prøve å stele ting som bankkortinformasjon, passord eller e-postar.
