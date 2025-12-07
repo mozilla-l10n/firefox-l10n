@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Rapporter problem med ein nettstad
 report-broken-site-panel-header =
     .label = Rapporter problem med ein nettstad
     .title = Rapporter problem med ein nettstad
+report-broken-site-panel-intro-text = Rapporten din hjelper oss med å forstå og fikse problem i { -brand-product-name } for å gjere det betre for alle.
 report-broken-site-panel-learn-more-link = Les meir
 report-broken-site-panel-intro = Bidra til å gjere { -brand-product-name } betre for alle. { -vendor-short-name } brukar informasjonen du sender til å fikse nettstadproblem.
 report-broken-site-panel-url = Nettadresse

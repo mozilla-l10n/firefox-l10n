@@ -611,6 +611,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Slå på videokontrollar for bilde-i-bilde
     .accesskey = e
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Fortset å spele av videoar i bilde-i-bilde når du byter fane
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Les meir
 browsing-media-control =
     .label = Kontroller media via tastatur, hovudsett eller virtuelt grensesnitt
@@ -1214,6 +1217,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Lagre og fyll ut betalingsinformasjon automatisk
     .accesskey = a
+autofill-payment-methods-manage-payments-title =
+    .heading = Handsam betalingsmåtar
 autofill-payment-methods-manage-payments-button =
     .label = Handsam betalingsmåtar
     .accesskey = H
@@ -1282,6 +1287,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name } vil bruke eigendefinerte innstillingar for nettlesar-, nedlastings-, skjema- og søkjehistorikk.
 history-remember-description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkjehistorikk.
 history-dontremember-description = { -brand-short-name } vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.
 history-private-browsing-permanent =
@@ -1309,6 +1317,10 @@ sitedata-header = Infokapslar og sidedata
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Reknar ut storleik på nettstad-data og snøgglager…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Dei lagra infokapslane dine, historikk, nettstaddata og hurtiglager brukar akkurat no <strong>{ $value } { $unit }</strong> diskplass.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1625,6 +1637,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokker sprettoppvindauge og tredjepartsvidaresendingar
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Handsam unntak for sprettoppvindauge og tredjepartsvidaresendingar
+    .accesskey = a
+    .searchkeywords = sprettopp
+permissions-addon-install-warning2 =
+    .label = Åtvar når nettstadar prøver å installere utvidingar
+    .accesskey = Å
+permissions-addon-exceptions2 =
+    .label = Vel kva for nokre nettstadar som kan installere utvidingar
+    .accesskey = V
 permissions-block-popups =
     .label = Blokker sprettoppvindauge
     .accesskey = B
@@ -1764,6 +1788,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = p
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personvern og sikkerheit > Infokapslar og nettstaddata.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettsida ikkje vert vist skikkeleg. Gå til «Les meir» for å optimalisere diskbruken din for ei betre nettoppleving.
+certs-description2 =
+    .label = Sertifikat
+    .description = Konfigurer sertifikata som { -brand-short-name } brukar for autentisering.
 
 ## Privacy Section - HTTPS-Only
 
