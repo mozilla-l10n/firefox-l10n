@@ -18,6 +18,8 @@ unified-extensions-empty-reason-extension-not-enabled = Du har utvidingar instal
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Ta nettlesinga di til eit nytt nivå med utvidingar
 unified-extensions-empty-content-explain-enable2 = Vel «{ unified-extensions-manage-extensions.label }» for å aktivere dei i innstillingane.
+unified-extensions-empty-content-explain-manage2 = Vel «{ unified-extensions-manage-extensions.label }» for å handsame dei i innstillingane.
+unified-extensions-empty-content-explain-extensions-onboarding = Tilpass { -brand-short-name } ved å endre utsjånad og yting, eller ved å forbetre personvern og sikkerheit.
 
 ## An extension in the main list
 
@@ -28,6 +30,9 @@ unified-extensions-empty-content-explain-enable2 = Vel «{ unified-extensions-ma
 unified-extensions-item-open-menu =
     .aria-label = Opne menyen for { $extensionName }
 unified-extensions-item-message-manage = Handsam utviding
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } er avgrensa. Bruk av henne kan vere risikabelt.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } bryt Mozillas retningslinjer. Å bruke ho kan vere risikabelt.
@@ -58,6 +63,13 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Les meir
     .aria-label = Les meir: Enkelte utvitingar er ikkje tillatne
 unified-extensions-mb-about-addons-link = Gå til innstillingar for utvidingar
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } deaktivert
+    .message =
+        Denne utvidinga er avgrensa og har vorte deaktivert.
+        Du kan aktivere henne i innstillingane, men dette kan vere risikabelt.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =

@@ -29,7 +29,7 @@ settings-page-title = Налаштування
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box2 =
-    .style = width: 15.4em
+    .style = width: 19.5em
     .placeholder = Знайти в налаштуваннях
 managed-notice = Вашим браузером керує ваша організація.
 managed-notice-info-icon =
