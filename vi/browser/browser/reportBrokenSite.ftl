@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Hãy chọn một lý do
 report-broken-site-panel-blocked-trackers-label =
     .label = Gửi URL bị chặn bởi tính năng trình chống theo dõi
 report-broken-site-panel-blocked-trackers-description = Trình chống theo dõi nâng cao có thể chặn các trình theo dõi và tập lệnh mà một số trang web cần để hoạt động bình thường.
+report-broken-site-panel-preview-button =
+    .label = Xem trước báo cáo
+report-broken-site-panel-preview-header =
+    .label = Xem trước báo cáo
