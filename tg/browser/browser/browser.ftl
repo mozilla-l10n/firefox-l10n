@@ -926,6 +926,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
     .tooltiptext = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
+    .tooltiptext = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

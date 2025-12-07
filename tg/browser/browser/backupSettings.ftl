@@ -215,10 +215,27 @@ backup-file-moz-browser-restore-step-2 = Имкони «Файли нусхаи 
 backup-file-moz-browser-restore-step-3 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
 backup-file-other-browser-restore-step-1 = Боргирӣ ва насб кардани «{ -brand-short-name }»
 backup-file-download-moz-browser-button = Боргирӣ кардан
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Браузери «{ -brand-short-name }»-ро оғоз кунед, менюи барномаро аз рӯйи аломати ☰ кушоед ва ба Танзимот > Ҳамоҳангсозӣ гузаред
+backup-file-other-browser-restore-step-3 = Имкони «Файли нусхаи эҳтиётиро интихоб кунед…»-ро зер кунед ва ин файлро интихоб намоед
+backup-file-other-browser-restore-step-4 = Вақте ки дархост мешавад, «{ -brand-short-name }»-ро аз нав оғоз кунед
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Эзоҳ:</b> { $numberOfOtherBackupsFound } файли дигари нусхаи эҳтиётӣ пайдо шуд
+       *[other] <b>Эзоҳ:</b> { $numberOfOtherBackupsFound } файли дигари нусхаи эҳтиётӣ пайдо шуд
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Санаи { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } дар «{ $machineName }» сохта шудааст
+backup-file-restore-file-validation-error = Ин файл кор намекунад. Кӯшиш кунед, ки файли дигареро интихоб намоед. <a data-l10n-name="restore-problems">Ҳанӯз мушкилӣ мекашед?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ягон файл интихоб карда нашуд

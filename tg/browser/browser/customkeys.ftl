@@ -8,6 +8,13 @@ customkeys-change = Тағйир додан
 customkeys-reset = Аз нав танзим кардан
 customkeys-clear = Пок кардан
 customkeys-new-key = Тугмаи навро пахш кунед:
+customkeys-reset-all = Ҳамаи миёнбурҳоро ба ҳолати пешфарз барқарор кунед
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Ин калид аллакай ба { $conflict } таъин шудааст. Мехоҳед, ки онро иваз кунед?
+customkeys-reset-all-confirm = Шумо мутмаин ҳастед, ки мехоҳед ҳамаи миёнбурҳои клавиатураро ба танзимоти пешфарзашон барқарор кунед?
+customkeys-history-reopen-tab = Аз нав кушодани варақаи пӯшидашудаи охирин
+customkeys-history-reopen-window = Аз нав кушодани равзанаи пӯшидашудаи охирин
 customkeys-dev-tools = Абзорҳои барномарезӣ барои сомонаҳо
 customkeys-dev-inspector = Тафтишкунандаи услубҳо ва DOM
 customkeys-dev-webconsole = Консоли сомона
