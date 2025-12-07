@@ -120,6 +120,19 @@ restore-from-backup-restoring-button = Дар ҳоли барқарорсозӣ�
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Ниҳонвожа нодуруст аст. <a data-l10n-name="incorrect-password-support-link">Ҳанӯз мушкилӣ мекашед?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Ин файл кор намекунад
+    .message = Ҳангоми кор бо файли нусхаи эҳтиётии шумо мушкилӣ ба миён омад. Файли дигареро интихоб кунед ва аз нав кӯшиш намоед.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Ин файл кор намекунад
+    .message = Файле, ки шумо интихоб кардед, ба ин версияи «{ -brand-short-name }» мувофиқат намекунад. Файли дигареро интихоб кунед ва аз нав кӯшиш намоед.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
