@@ -65,6 +65,8 @@ firefox-relay-offer-legal-notice-control = Izena eman eta posta-maskara bat sort
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Eragotzi spama doako posta-maskara batekin
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Eragotzi spama zure benetako helbide elektronikoa doako <label data-l10n-name="firefox-relay-learn-more-url">posta-maskara</label> batekin ezkutatuz. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Gune honetatik</label> datozen mezu elektronikoak zure sarrera-ontzira joango dira baina zure benetako helbidea ezkutatu egingo da.
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Hasteko, eman izena edo hasi saioa zure kontuan posta-maskara erabiltzeko
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Eman izena
     .accesskey = z
@@ -72,6 +74,10 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Eskuratu doako posta-maskara
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Babestu spametik sarrera-ontzia doako <label data-l10n-name="firefox-relay-learn-more-url">posta-maskara</label> bat erabiliz. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Gune honetatik</label> datozen mezu elektronikoak zure sarrera-ontzira joango dira baina zure benetako helbidea ezkutatu egingo da.
+firefox-relay-and-fxa-popup-notification-first-sentence = Babestu spametik sarrera-ontzia doako <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } posta-maskara</label> bat erabiliz. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Gune honetatik</label> datozen mezu elektronikoak zure sarrera-ontzira joango dira baina zure benetako helbidea ezkutatu egingo da.
+firefox-relay-offer-why-to-use-relay-1 = Babestu spametik sarrera-ontzia doako <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } posta-maskara</label> bat erabiliz. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Gune honetatik</label> datozen mezu elektronikoak zure sarrera-ontzira joango dira baina zure benetako helbidea ezkutatu egingo da.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Hasteko, eman izena edo hasi saioa zure kontuan posta-maskara erabiltzeko
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Eman izena
     .accesskey = z
@@ -79,6 +85,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Babestu spamaren aurka posta-maskara batekin
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Babestu spamaren aurka zure benetako helbide elektronikoa doako <label data-l10n-name="firefox-relay-learn-more-url">posta-maskara</label> batekin ezkutatuz. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Gune honetatik</label> datozen mezu elektronikoak zure sarrera-ontzira joango dira baina zure benetako helbidea maskaratu egingo da.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Hasteko, eman izena edo hasi saioa zure kontuan posta-maskara erabiltzeko.
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Hurrengoa
     .accesskey = H
