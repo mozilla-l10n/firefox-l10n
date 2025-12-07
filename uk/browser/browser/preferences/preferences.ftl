@@ -60,6 +60,7 @@ pane-experimental-description2 = Зміна розширених налашту�
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Спробуйте наші експериментальні функції! Вони перебувають у розробці та постійно розвиваються, що може вплинути на роботу { -brand-short-name }. Ми отримуємо дані про ваше використання цих функцій, лише якщо у вас увімкнено надсилання <a data-l10n-name="data-collection">технічних та аналітичних даних</a>.
 pane-experimental-description3 = Спробуйте наші експериментальні функції! Вони розробляються та розвиваються, що може вплинути на роботу { -brand-short-name }.
 pane-experimental-reset =
     .label = Відновити типові
@@ -113,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Щоб увімкнути розширення, відкрийте <img data-l10n-name="addons-icon"/> Додатки в <img data-l10n-name="menu-icon"/> меню.
+extension-controlled-enable-2 = Щоб повторно ввімкнути це розширення, перейдіть до розділу <a data-l10n-name="addons-link">Розширення і теми</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } контролює деякі налаштування вашої домівки.
 
 ## Preferences UI Search Results
 
@@ -150,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Попереджати при виході з браузера
 disable-extension =
     .label = Вимкнути розширення
+preferences-data-migration-group =
+    .label = Імпорт даних браузера
+    .description = Перенесіть свої закладки, паролі, історію, розширення, а також дані автозаповнення з іншого браузера.
 preferences-data-migration-header = Імпорт даних браузера
 preferences-data-migration-description = Імпорт закладок, паролів, історії та даних автозаповнення у { -brand-short-name }.
 preferences-data-migration-button =
@@ -167,8 +175,32 @@ preferences-manage-profiles-description = Кожен профіль має ок�
 preferences-manage-profiles-learn-more = Докладніше
 preferences-manage-profiles-button =
     .label = Керувати профілями
+preferences-profiles-settings-button =
+    .label = Налаштування
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Копіювати наявний профіль
+    .description = До нового профілю буде скопійовано ваші налаштування, додатки, історію, а також збережені дані, як-от закладки та паролі. Інформацію про ваш обліковий запис і синхронізацію не буде скопійовано.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Профіль для копіювання
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Вибрати профіль
+preferences-copy-profile-button = Копіювати
 tabs-group-header2 =
     .label = Вкладки
+tabs-opening-heading =
+    .label = Відкриття
+tabs-interaction-heading =
+    .label = Взаємодія
+tabs-containers-heading =
+    .label = Контейнери
+tabs-closing-heading =
+    .label = Закриття
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Перемикати вкладки натисканням Ctrl+Tab у порядку недавнього їх використання
@@ -176,6 +208,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Відкривати посилання у вкладках замість нових вікон
     .accesskey = л
+open-external-link-next-to-active-tab =
+    .label = Відкривати посилання з програм поруч із активною вкладкою
 ask-on-close-multiple-tabs =
     .label = Запитувати перед закриттям кількох вкладок
     .accesskey = к
@@ -580,6 +614,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Увімкнути керування відео зображення в зображенні
     .accesskey = з
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Продовжувати відтворювати відео в режимі "Зображення в зображенні" під час перемикання вкладок
+    .accesskey = ю
 browsing-picture-in-picture-learn-more = Докладніше
 browsing-media-control =
     .label = Контролювати медіа клавіатурою, гарнітурою чи віртуальним інтерфейсом
@@ -610,6 +647,7 @@ home-new-windows-tabs-description2 = Оберіть, що ви хочете ба
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Домівка та нові вікна
+home-homepage-mode-label2 = Нові вікна
 home-newtabs-mode-label = Нові вкладки
 home-restore-defaults =
     .label = Відновити типові
@@ -622,6 +660,11 @@ home-mode-choice-blank =
     .label = Чиста сторінка
 home-homepage-custom-url =
     .placeholder = Вставити URL-адресу…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Керувати розширенням
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Вибрати певний сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -636,18 +679,45 @@ use-current-pages =
 choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
+home-homepage-header = Домівка
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Власна домівка
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Адреса вебсайту
+home-custom-homepage-address =
+    .placeholder = Введіть адресу
+home-custom-homepage-address-button =
+    .label = Додати адресу
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Ще не додано жодного вебсайту.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Замінити на
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Поточні відкриті сторінки
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Закладки…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Оберіть вміст, який ви хочете бачити на своїй { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
 home-prefs-search-header =
     .label = Пошук в Інтернеті
+home-prefs-search-header2 =
+    .label = Пошук
 home-prefs-shortcuts-header =
     .label = Ярлики
 home-prefs-shortcuts-description = Сайти, які ви зберігаєте чи відвідуєте
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсоровані ярлики
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -657,6 +727,12 @@ home-prefs-recommended-by-description-new = Добірні матеріали в
 home-prefs-recommended-by-header-generic =
     .label = Рекомендовані матеріали
 home-prefs-recommended-by-description-generic = Виняткові матеріали, відібрані командою { -brand-product-name }
+home-prefs-stories-header =
+    .label = Історії
+home-prefs-stories-description = Персоналізовані матеріали на основі вашої активності
+home-prefs-stories-header2 =
+    .label = Історії
+    .description = Добірні матеріали від { -brand-product-name }
 
 ##
 
@@ -687,14 +763,26 @@ home-prefs-weather-header =
     .label = Погода
 home-prefs-weather-description = Точний прогноз погоди на сьогодні
 home-prefs-weather-learn-more-link = Докладніше
+home-prefs-widgets-header =
+    .label = Віджети
 home-prefs-trending-search-header =
     .label = Популярні пошукові запити
 home-prefs-trending-search-description = Популярні пошукові запити
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Списки
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Підтримка { -brand-product-name }
 home-prefs-mission-message = Наші спонсори підтримують нашу місію зі створення кращого інтернету
 home-prefs-mission-message-learn-more-link = Дізнайтеся як
+home-prefs-mission-message2 =
+    .message = Наші спонсори підтримують нашу місію зі створення кращого інтернету.
+home-prefs-manage-topics-link = Керувати темами
+home-prefs-choose-wallpaper-link = Виберіть шпалеру
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1003,10 +1091,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Паролі
     .searchkeywords = логіни
+forms-passwords-header =
+    .label = Паролі
+    .aria-label = Паролі
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Запитувати про збереження паролів
     .accesskey = и
+forms-manage-password-exceptions =
+    .label = Керування винятками для паролів
+    .accesskey = я
 forms-exceptions =
     .label = Винятки…
     .accesskey = и
@@ -1037,12 +1131,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Автоматично заповнювати імена користувачів і паролі
     .accesskey = з
+forms-fill-usernames-and-passwords-2 =
+    .label = Зберігати й автоматично заповнювати імена користувачів і паролі
+    .accesskey = б
 forms-saved-passwords =
     .label = Збережені паролі
     .accesskey = ж
+forms-saved-passwords-2 =
+    .label = Керування збереженими паролями
+    .accesskey = е
+forms-saved-passwords-searchkeywords = На вашому комп'ютері збережено паролі для таких сайтів
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Додатковий захист
 forms-primary-pw-use =
     .label = Використовувати головний пароль
     .accesskey = г
+forms-primary-pw-set =
+    .label = Встановити головний пароль
+forms-primary-pw-on =
+    .label = Головний пароль активовано
+forms-primary-pw-change-2 =
+    .label = Змінити головний пароль
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Вимкнути
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Вимагати входу на пристрої для заповнення та керування паролями
@@ -1108,6 +1221,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Зберігати й автоматично заповнювати платіжні дані
     .accesskey = п
+autofill-payment-methods-manage-payments-title =
+    .heading = Керування способами оплати
 autofill-payment-methods-manage-payments-button =
     .label = Керування способами оплати
     .accesskey = К
@@ -1115,6 +1230,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Вимагати ввійти на пристрої для автоматичного заповнення та керування способами оплати
     .accesskey = В
+autofill-payment-methods-add-button = Додати новий спосіб оплати
+payments-list-header =
+    .label = Способи оплати
+payments-list-item-label = <strong>Способи оплати</strong>
+payments-remove-payment-prompt-title = Вилучити цей спосіб оплати?
+payments-remove-payment-prompt-confirm-button = Вилучити
+payments-remove-payment-prompt-cancel-button = Скасувати
 autofill-addresses-title = Адреси та інше
 autofill-addresses-header =
     .aria-label = Адреси та інше
@@ -1124,6 +1246,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Керування адресами та інше
     .accesskey = К
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1161,6 +1291,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name } використовуватиме власні налаштування для перегляду, завантажень, історії форм і пошуку.
 history-remember-description = { -brand-short-name } зберігатиме історію переглядів, завантажень, заповнених форм і пошукових запитів.
 history-dontremember-description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
 history-private-browsing-permanent =
@@ -1266,6 +1399,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Панель адреси
+addressbar-suggest-1 = Виберіть, які пропозиції показуватимуться в панелі адреси
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Пропозиції від { -brand-short-name } і наших партнерів у вашій панелі адреси.
 addressbar-suggest = При використанні панелі адреси, пропонувати
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Панель адреси – { -firefox-suggest-brand-name }
@@ -1293,6 +1431,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Популярні сайти
     .accesskey = с
+addressbar-locbar-engines-option-1 =
+    .label = Пропонувати пошукові системи
+    .accesskey = П
 addressbar-locbar-engines-option =
     .label = Пошукові системи
     .accesskey = ш
@@ -1317,6 +1458,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Отримувати пропоз�
 addressbar-locbar-suggest-sponsored-option =
     .label = Пропозиції від спонсорів
 addressbar-locbar-suggest-sponsored-desc = Підтримайте { -brand-short-name } за допомогою періодичних спонсорованих пропозицій.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Отримувати пропозиції від Mozilla під час введення тексту
 addressbar-quickactions-learn-more = Докладніше
 addressbar-dismissed-suggestions-label = Відхилені пропозиції
 addressbar-restore-dismissed-suggestions-description = Відновити відхилені пропозиції від спонсорів і { -brand-short-name }.
@@ -1492,6 +1641,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блокувати спливні вікна та сторонні переспрямування
     .accesskey = Б
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Керувати винятками спливних вікон і стороннім переспрямуванням…
+    .accesskey = К
+    .searchkeywords = винятки спливні вікна
+permissions-addon-install-warning2 =
+    .label = Попереджати про спроби вебсайтів встановити розширення
+    .accesskey = и
+permissions-addon-exceptions2 =
+    .label = Виберіть вебсайти, які можуть встановлювати розширення
+    .accesskey = ь
 permissions-block-popups =
     .label = Блокувати спливні вікна
     .accesskey = Б
@@ -1507,6 +1668,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
+permissions-header2 =
+    .label = Дозволи
+    .description = Дозволи, які ви надаєте вебсайтам під час перегляду.
 permissions-location2 =
     .label = Розташування
 permissions-localhost2 =
@@ -1519,6 +1683,9 @@ permissions-camera2 =
     .label = Камера
 permissions-microphone2 =
     .label = Мікрофон
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Гучномовець
 permissions-notification2 =
     .label = Сповіщення
 
