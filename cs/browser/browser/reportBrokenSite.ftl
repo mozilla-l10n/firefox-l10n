@@ -62,3 +62,7 @@ report-broken-site-panel-missing-reason-label = Zvolte důvod
 report-broken-site-panel-blocked-trackers-label =
     .label = Odesílat URL adresy blokované ochranou proti sledování
 report-broken-site-panel-blocked-trackers-description = Rozšířená ochrana proti sledování může blokovat sledovací prvky a skripty, které některé webové stránky potřebují pro správné fungování.
+report-broken-site-panel-preview-button =
+    .label = Náhled hlášení
+report-broken-site-panel-preview-header =
+    .label = Náhled hlášení

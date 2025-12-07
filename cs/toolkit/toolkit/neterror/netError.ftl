@@ -230,3 +230,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body =
         [with-cases] Ujistěte se, že používáte nejnovější verzi { -brand-short-name(case: "gen") }. Vyberte v nabídce Nápověda > O { -brand-short-name(case: "gen") }. Pokud používáte nejnovější verzi  { -brand-short-name(case: "gen") }, je problém pravděpodobně v samotných stránkách.
        *[no-cases] Ujistěte se, že používáte nejnovější verzi aplikace { -brand-short-name }. Vyberte v nabídce Nápověda > O aplikaci { -brand-short-name }. Pokud používáte nejnovější verzi aplikace { -brand-short-name }, je problém pravděpodobně v samotných stránkách.
     }
+fp-neterror-offline-what-can-you-do-body = Zkuste se připojit na jiném zařízení. Zkontrolujte modem nebo router. Odpojte se a znovu se připojte k Wi-Fi.

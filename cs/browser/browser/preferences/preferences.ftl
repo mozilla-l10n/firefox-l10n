@@ -199,6 +199,9 @@ startup-restore-warn-on-quit =
     .label = Varovat při ukončování prohlížeče
 disable-extension =
     .label = Zakázat rozšíření
+preferences-data-migration-group =
+    .label = Import dat z prohlížeče
+    .description = Importujte své záložky, hesla, historii, rozšíření a data automatického vyplňování z jiného prohlížeče.
 preferences-data-migration-header = Import dat z prohlížeče
 preferences-data-migration-description =
     { -brand-short-name.case-status ->
