@@ -73,3 +73,23 @@ enable-backup-encryption-create-password-label = Парола
 enable-backup-encryption-repeat-password-label = Повторете паролата
 enable-backup-encryption-cancel-button = Отказ
 enable-backup-encryption-confirm-button = Запазване
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Изисквания за парола
+password-rules-length-description = Поне 8 знака
+password-rules-email-description = Да не е вашият електронен адрес
+password-rules-disclaimer = Пазете се - не използвайте пароли повторно. Вижте още съвети за <a data-l10n-name="password-support-link">създаване на силни пароли</a>.
+password-validity-has-email = Да не е адрес на електронна поща
+password-validity-do-not-match = Паролите не съвпадат
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Успех
+password-rules-a11y-warning =
+    .alt = Предупреждение
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Премахване на защитата с парола
