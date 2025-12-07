@@ -659,6 +659,9 @@ home-custom-homepage-address =
     .placeholder = Нишониеро ворид намоед
 home-custom-homepage-address-button =
     .label = Илова кардани нишонӣ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Иваз кардан бо
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Хатбаракҳо…
