@@ -108,9 +108,18 @@ restore-from-backup-file-choose-button =
        *[other] Кушодан…
     }
 restore-from-backup-password-label = Ниҳонвожа
+restore-from-backup-password-description = Ин имкон қулфи нусхаи эҳтиётии рамзгузоришудаи шуморо мекушояд.
 restore-from-backup-cancel-button = Бекор кардан
 restore-from-backup-confirm-button = Барқарор кардан ва аз нав оғоз намудан
 restore-from-backup-restoring-button = Дар ҳоли барқарорсозӣ…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Ниҳонвожа нодуруст аст. <a data-l10n-name="incorrect-password-support-link">Ҳанӯз мушкилӣ мекашед?</a>
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
