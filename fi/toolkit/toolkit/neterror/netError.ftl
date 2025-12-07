@@ -168,11 +168,17 @@ certerror-coep-learn-more = Lisätietoja Cross Origin Embedder -käytännöistä
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Virhekoodi: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Vaikuttaa siltä, että Internet-yhteydessäsi on ongelma
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ei voi luoda suojattua yhteyttä palvelimeen osoitteessa { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } ei saa yhteyttä palvelimeen osoitteessa <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Vaikuttaa siltä, että tämä sivusto käyttää vanhaa ohjelmistoa, jossa on tunnettuja tietoturvaongelmia.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Varmista, että käytät { -brand-short-name }in uusinta versiota. Siirry valikossa kohtaan Ohje > Tietoja: { -brand-short-name }. Jos käytät { -brand-short-name }in uusinta versiota, ongelma on mitä todennäköisimmin itse sivustossa.
+fp-neterror-offline-what-can-you-do-body = Yritä muodostaa yhteys toisella laitteella. Tarkista modeemi tai reititin. Katkaise Wi-Fi-yhteys ja yhdistä se uudelleen.

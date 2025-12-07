@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Valitse syy
 report-broken-site-panel-blocked-trackers-label =
     .label = Lähetä seurannan suojauksen estämät URL-osoitteet
 report-broken-site-panel-blocked-trackers-description = Tehostettu seurannan suojaus saattaa estää seuraimia ja komentosarjoja, joita jotkin verkkosivustot tarvitsevat toimiakseen oikein.
+report-broken-site-panel-preview-button =
+    .label = Esikatsele raportti
+report-broken-site-panel-preview-header =
+    .label = Esikatsele raportti
