@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name }(e)k ezin du mask
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } erabili ahal izateko, saioa hasi behar duzu { -fxaccount-brand-name }(e)n.
+firefox-relay-must-login-to-account = Hasi saioa zure kontuan { -relay-brand-name } posta-maskarak erabiltzeko.
 firefox-relay-get-unlimited-masks =
     .label = Kudeatu maskarak
     .accesskey = m
@@ -26,6 +27,8 @@ firefox-relay-opt-in-subtitle-1 = Erabili { -relay-brand-name } posta-maskara
 firefox-relay-use-mask-title-1 = Erabili posta-maskara
 firefox-relay-opt-in-subtitle-2 = Babestu spametik zure sarrera-ontzia
 firefox-relay-use-mask-title = Erabili { -relay-brand-name } posta-maskara
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
+firefox-relay-opt-in-title-a = Eragotzi spama doako posta-maskara batekin
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Ezkutatu zure benetako helbide elektronikoa
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
@@ -54,8 +57,14 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Une honetan ez
     .accesskey = n
 
+## The "control" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-control = Hasteko, eman izena edo hasi saioa zure kontuan posta-maskara erabiltzeko
+firefox-relay-offer-legal-notice-control = Izena eman eta posta-maskara bat sortzearekin bat, <label data-l10n-name="tos-url">Zerbitzu-baldintzak</label> eta <label data-l10n-name="privacy-url">Pribatutasun-oharra </label> onartzen dituzu.
+
 ## The "basic-info" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-basic-info = Eragotzi spama doako posta-maskara batekin
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Eman izena
     .accesskey = z
@@ -69,6 +78,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Babestu spamaren aurka posta-maskara batekin
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Hurrengoa
     .accesskey = H
