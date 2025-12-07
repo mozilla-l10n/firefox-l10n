@@ -73,6 +73,7 @@ fxa-adoption-addresses-backup-subtitle = Vern dei lagra adressene dine ved å sy
 fxa-adoption-credit-cards-backup-title = La oss sikringskopiere betalingsmåtane dine
 fxa-adoption-credit-cards-backup-subtitle = Vern betalingsmåtane dine ved å synkronisere dei med einingane dine, med kryptering.
 fxa-adoption-bookmarks-treatment-backup-title = La oss sikkerheitskopiere bokmerka dine
+fxa-adoption-bookmarks-treatment-backup-subtitle = Vern bokmerka dine ved å synkronisere dei til einingane dine med kryptering.
 fxa-adoption-primary-button-label = Registrer deg
 
 ## Protections panel
@@ -238,6 +239,8 @@ set-default-pdf-handler-primary = Eg forstår
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Skriv under på den stipla linja — eller kvar som helst!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Teikn, skriv eller last opp signaturen din, og plassar han nøyaktig der du vil. Lagre signaturane du brukar ofte til neste gong.
 annotations-make-default-pdf-handler-title = Bruke { -brand-short-name } som standard PDF-redigeringsprogram?
 annotations-make-default-pdf-handler-subtitle = Du får tilgang til verktøya våre kvar gong du opnar ein PDF.
 annotations-make-default-pdf-primary-cta =
