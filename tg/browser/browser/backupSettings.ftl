@@ -93,6 +93,13 @@ turn-off-scheduled-backups-confirm-button = Ғайрифаъол ва нест �
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Маълумоти худро барқарор созед
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Ин амал тамоми маълумоти ҷории «{ -brand-short-name }»-и шуморо бо нусхаи эҳтиётии шумо аз санаи { DATETIME($date, timeStyle: "short", dateStyle: "short") } иваз мекунад.
+restore-from-backup-support-link =
+    .message = Кадом маълумот барқарор карда мешавад?
+restore-from-backup-no-backup-file-link = Ҳангоми дарёфтани нусхаи эҳтиётии худ мушкилӣ мекашед?
 restore-from-backup-filepicker-label = Файли нусхаи эҳтиётӣ
 restore-from-backup-filepicker-title = Интихоби файли нусхаи эҳтиётӣ:
 restore-from-backup-file-choose-button =
