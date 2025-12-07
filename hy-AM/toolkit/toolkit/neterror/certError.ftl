@@ -75,8 +75,8 @@ deniedPortAccess-title = Այս հասցեն արգելափակված է
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Հնարավոր չէ գտնել այս կայքը:
-fileNotFound-title = Նիշքը չի գտնվել
-fileAccessDenied-title = Նիշքի մուտքը մերժված է
+fileNotFound-title = Ֆայլը չի գտնվել
+fileAccessDenied-title = Ֆայլի մատչումը մերժված է
 generic-title = Վայ։
 captivePortal-title = Մուտք գործել ցանց
 # "Hmm" is a sound made when considering or puzzling over something.

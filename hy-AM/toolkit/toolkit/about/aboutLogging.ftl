@@ -4,7 +4,7 @@
 
 # This is the title of the page
 about-logging-title = Մատյանի մասին
-about-logging-current-log-file = Ընթացիկ մատյանի նիշքը՝
+about-logging-current-log-file = Ընթացիկ մատյանի ֆայլը՝
 about-logging-new-log-file = Մատյանի նոր ֆայլ՝
 about-logging-log-tutorial = Դիտեք <a data-l10n-name="logging">HTTP մուտքագրումը</a>՝ իմանալու համար, թե ինչպես օգտագործել այս գործիքը։
 # This message is used as a button label, "Open" indicates an action.

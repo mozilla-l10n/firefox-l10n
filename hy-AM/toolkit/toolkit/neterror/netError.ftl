@@ -63,7 +63,7 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-ը
 
 neterror-file-not-found-filename = Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:
 neterror-file-not-found-moved = Ստուգեք, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:
-neterror-access-denied = Հնարավոր է՝ այն հեռացվել է, տեղափոխվել կամ նիշքի թույլտվությունները կանխել են մատչումը։
+neterror-access-denied = Հնարավոր է՝ այն հեռացվել է, տեղափոխվել կամ ֆայլի թույլտվությունները կանխել են մատչումը։
 neterror-unknown-protocol = Այս հասցեն բացելու համար ձեզ հավանաբար անհրաժեշտ է ձեռք բերել այլ ծրագիր:
 neterror-redirect-loop = Այս խնդիրը երբեմն կարող է ծագել cookie-ների  անջատումից կամ մերժումից:
 neterror-unknown-socket-type-psm-installed = Ստուգեք և համոզվեք, որ ձեր համակարգը ունի տեղակայված Անվտանգության  Անձնական Կառավարիչ:
