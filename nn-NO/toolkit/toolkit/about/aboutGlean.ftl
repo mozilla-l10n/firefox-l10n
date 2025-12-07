@@ -197,6 +197,9 @@ about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-målin
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Merkte målingar blir ikkje støtta i <code>about:glean</code>-visinga enno.
 about-glean-unknown-metric-type-warning = Ukjend målingstype.
+about-glean-enable-new-features-promo =
+    .message = Vi jobbar med å leggje til nye funksjonar! Dei er framleis under aktiv utvikling, men klikk på handlingsknappen her om du vil aktivere dei.
+    .heading = Nye funksjonar er på veg!
 about-glean-enable-new-features-button = Slå på nye funksjonar
 about-glean-disable-new-features-button = Slå av nye funksjonar
 about-glean-about-data-explanation =
