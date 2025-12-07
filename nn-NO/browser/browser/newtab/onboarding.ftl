@@ -494,6 +494,7 @@ create-backup-back-button-label = Tilbake
 create-backup-show-fewer =
     .label = Vis færre slike
 create-backup-screen-2-title = Vel { -brand-product-name }-data som skal sikkerheitskopierast
+create-backup-screen-2-subtitle = Det tek berre eitt minutt. Dataa dine blir sikringskopierte éin gong per dag.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Enkelt oppsett
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -514,6 +515,7 @@ create-backup-screen-3-location = Kvar vil du lagre sikkerheitskopien din?
 create-backup-screen-3-title = Lag eit passord for sikkerheitskopifila
 create-backup-screen-3-subtitle = Påkravd for å kryptere dataa dine. Lagre dei på ein stad du hugsar.
 fx-backup-opt-in-header = Vel filplassering
+fx-backup-opt-in-filepath-label = Vel ein stad du planlegg å overføre til ei ny eining, til dømes OneDrive.
 fx-backup-opt-in-create-password-label = Skriv inn passord
 fx-backup-opt-in-confirm-btn-label = Hald fram
 fx-backup-opt-in-cancel-btn-label = Tilbake
@@ -549,6 +551,7 @@ restored-from-backup-success-with-checklist-primary-button = Lagre og hald fram
 restored-from-backup-success-with-checklist-secondary-button = Hopp over dette steget
 restored-from-backup-success-no-checklist-primary-button = Hald fram
 restored-from-backup-error-title = Hmm, det oppstod eit problem med sikkerheitskopifila di.
+restored-from-backup-error-subtitle = Om du har ein anna sikkerheitskopifil for { -brand-short-name }, kan du prøve å gjenopprette frå den. <a data-l10n-name="restore-problems">Har du framleis problem?</a>
 restored-from-backup-error-primary-button = Lat att
 
 ## Onboarding Personalization Screen
