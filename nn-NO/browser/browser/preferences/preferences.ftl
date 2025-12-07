@@ -60,6 +60,7 @@ pane-experimental-description2 = Endrar du avanserte konfigurasjonsinnstillingar
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Prøv dei eksperimentelle funksjonane våre! Dei er under utvikling og i endring, noko som kan påverke korleis { -brand-short-name } fungerer. Vi får berre data om bruken din av desse funksjonane om du har <a data-l10n-name="data-collection">tekniske data og interaksjonsdata</a> slått på.
 pane-experimental-description3 = Prøv dei eksperimentelle funksjonane våre! Dei er framleis under utvikling og vert kontinuerleg forbetra, noko som kan påverke korleis { -brand-short-name } fungerer.
 pane-experimental-reset =
     .label = Gjenopprett standard
@@ -113,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = For å aktivere utvidinga, gå til <img data-l10n-name="addons-icon"/> Utviding i menyen <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = For å aktivere denne utvidinga på nytt, gå til <a data-l10n-name="addons-link">utvidingar og tema</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } styrer nokre av startsideinnstillingane dine.
 
 ## Preferences UI Search Results
 
@@ -172,6 +177,10 @@ preferences-manage-profiles-button =
     .label = Handsam profilar
 preferences-profiles-settings-button =
     .label = Innstillingar
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopier ein eksisterande profil
+    .description = Den nye profilen vil kopiere innstillingane dine, utvidingar, historikk og lagra data som bokmerke og passord — men ikkje kontoen din eller synkroniseringsinformasjonen.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -199,6 +208,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Opne lenker i faner i staden for nye vindauge
     .accesskey = l
+open-external-link-next-to-active-tab =
+    .label = Opne lenker frå appar ved sida av den aktive fana di
 ask-on-close-multiple-tabs =
     .label = Spør før attlating av fleire faner
     .accesskey = S
