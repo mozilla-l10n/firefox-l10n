@@ -202,7 +202,7 @@ backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, а
 
 backup-file-header = «{ -brand-short-name }» барои барқарорсозӣ омода аст
 backup-file-title = Барқарор кардани «{ -brand-short-name }»
-backup-file-intro = Ба тамошобинӣ баргардед ва ҳамаи хатбаракҳо, таърих ва маълумоти дигари худро барқарор созед. <a data-l10n-name="support-link">Маълумоти бештар</a>
+backup-file-intro = Ба тамошобинӣ баргардед ва ҳамаи хатбаракҳо, таърих ва маълумоти дигари худро барқарор созед. <a data-l10n-name="backup-file-support-link">Маълумоти бештар</a>
 backup-file-path-label = Файли нусхаи эҳтиётӣ:
 backup-file-encryption-state-label = Рамзгузоришуда:
 backup-file-encryption-state-value-encrypted = Ҳа
