@@ -253,7 +253,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] 顯示另外 { $numberToShow } 個
     }
-shortcuts-card-collapse-button = 顯示更少
+shortcuts-card-collapse-button = 顯示較少
 header-back-button =
     .title = 回上一頁
 

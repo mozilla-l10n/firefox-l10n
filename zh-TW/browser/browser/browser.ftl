@@ -1259,7 +1259,7 @@ pinned-tabs-drop-indicator = 將分頁放到此處即可釘選
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>想開啟先前的分頁？</strong>您可以從 { -brand-short-name } 應用程式選單 <img data-l10n-name="icon"/> 當中的「歷史」重新開啟先前的瀏覽階段。
-restore-session-startup-suggestion-button = 告訴我怎麼做
+restore-session-startup-suggestion-button = 告訴我如何作
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 

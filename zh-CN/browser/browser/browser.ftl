@@ -910,6 +910,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = 未选择快捷方式，请选择
     .tooltiptext = 未选择快捷方式，请选择
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = 关键词搜索已禁用
+    .tooltiptext = 关键词搜索已禁用
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
