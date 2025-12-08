@@ -1094,9 +1094,14 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Ниҳонвожаҳои нигоҳдошташуда
     .accesskey = и
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Муҳофизати иловагӣ
 forms-primary-pw-use =
     .label = Истифода кардани ниҳонвожаи асосӣ
     .accesskey = И
+forms-primary-pw-set =
+    .label = Танзим кардани ниҳонвожаи асосӣ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани ниҳонвожаҳо

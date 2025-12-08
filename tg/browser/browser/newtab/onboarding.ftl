@@ -498,10 +498,22 @@ create-backup-screen-2-title = Барои сохтани нусхаи эҳтиё
 create-backup-screen-2-subtitle = Танҳо як дақиқа вақт лозим аст. Маълумоти шумо дар як рӯз як маротиба дар нусхаи эҳтиётӣ нигоҳ дошта мешавад.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Танзими осон
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Хатбаракҳо, таърих, танзимот ва маълумоти дигар
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Ниҳонвожаҳо ва тарзҳои пардохтро дар бар намегирад
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Рамзгузорӣ нашудааст
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Ҳамаи маълумот
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Ниҳонвожаҳо ва тарзҳои пардохтро дар бар мегирад
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Бо ниҳонвожа рамзгузорӣ шудааст
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Шумо дар куҷо мехоҳед, ки нусхаи эҳтиётии шумо нигоҳ дошта шавад?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Эҷод кардани ниҳонвожаи нусхаи эҳтиётӣ
 fx-backup-opt-in-header = Интихоби ҷойгиршавии файл
 fx-backup-opt-in-create-password-label = Ниҳонвожаро ворид намоед
 fx-backup-opt-in-confirm-btn-label = Идома додан
