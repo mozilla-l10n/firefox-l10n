@@ -234,6 +234,11 @@ set-default-pdf-handler-primary = Фаҳмидам
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Ба хати нуқтадор имзои худро гузоред — ё ба ҷойи дилхоҳ имзо гузоред!
 annotations-make-default-pdf-primary-cta =
     .label = Ҳамчун стандартӣ танзим кардан
 annotations-make-default-pdf-next =
