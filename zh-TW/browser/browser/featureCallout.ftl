@@ -199,7 +199,7 @@ sidebar-customization-callout-2-subtitle = 新增移除工具、將您的分頁�
 
 sidebar-callout-survey-title = 協助改進 { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = 您對 { -brand-short-name } 當中的側邊欄功能使用體驗有多滿意？
-sidebar-callout-survey-privacy-notice-link = 隱私權保護政策
+sidebar-callout-survey-privacy-notice-link = 隱私權公告
 sidebar-callout-survey-very-satisfied = 非常滿意
 sidebar-callout-survey-satisfied = 滿意
 sidebar-callout-survey-neutral = 普通

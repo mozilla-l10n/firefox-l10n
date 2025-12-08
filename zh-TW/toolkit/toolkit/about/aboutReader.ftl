@@ -58,7 +58,7 @@ about-reader-toolbar-close = 關閉閱讀畫面
 about-reader-toolbar-type-controls = 字體控制
 about-reader-toolbar-text-layout-controls = 文字與版面
 about-reader-toolbar-theme-controls = 佈景主題
-about-reader-toolbar-savetopocket = 儲存到 { -pocket-brand-name }
+about-reader-toolbar-savetopocket = 儲存至 { -pocket-brand-name }
 
 ## Reader View colors menu
 
