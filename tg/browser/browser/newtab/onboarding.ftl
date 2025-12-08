@@ -533,6 +533,9 @@ fx-backup-confirmation-screen-all-data-item-text-2 = Ба дастгоҳи шу�
 fx-backup-confirmation-screen-all-data-item-text-3 = Бо рамзгузорӣ ва ниҳонвожа муҳофизат карда шудааст
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Хатбаракҳо, таърих, танзимот ва маълумоти дигар илова карда шудааст
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Ба дастгоҳи шумо нигоҳ дошта шуд
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Ниҳонвожаҳо ва тарзҳои пардохт илова карда нашуданд
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Барои илова кардани маълумоти махфӣ ба <a data-l10n-name="settings">Танзимот</a> гузаред.
+fx-backup-confirmation-screen-item-subtext-1 = Эҷоди нусхаи эҳтиётии шумо пас аз чанд дақиқа оғоз мешавад ва ин амал дар як рӯз як маротиба иҷро карда мешавад. Шумо метавонед вазъияти равандро дар <a data-l10n-name="settings">Танзимот</a> тафтиш кунед.
 
 ## Restore from Backup Flow about:welcome screens
 
