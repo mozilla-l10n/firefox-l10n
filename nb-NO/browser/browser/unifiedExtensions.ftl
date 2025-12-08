@@ -13,7 +13,7 @@ unified-extensions-manage-extensions =
     .label = Behandle utvidelser
 unified-extensions-discover-extensions =
     .label = Oppdag utvidelser
-unified-extensions-empty-reason-private-browsing-not-allowed = Du har utvidelser installert, men ikke aktivert i private vinduer
+unified-extensions-empty-reason-private-browsing-not-allowed = Du har utvidelser installert, som ikke er aktivert i private vinduer
 unified-extensions-empty-reason-extension-not-enabled = Du har utvidelser installert, men ikke aktivert
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Ta nettlesingen din til et nytt nivå med utvidelser
