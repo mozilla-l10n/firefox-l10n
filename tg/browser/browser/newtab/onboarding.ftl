@@ -487,6 +487,9 @@ create-backup-screen-1-subtitle = Ниҳонвожаҳо, хатбаракҳо �
 create-backup-screen-1-flair = Тавсияшуда
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Маълумоти бештар</a>
 create-backup-screen-1-sync-label = Бо «{ -brand-product-name }» ҳамоҳанг кунед
+create-backup-screen-1-sync-body = Нусхаи эҳтиётӣ аз ҳамаи дастгоҳҳои воридшуда сохта мешавад
+create-backup-screen-1-backup-label = Сохтани нусхаи эҳтиётӣ дар компютер
+create-backup-screen-1-backup-body = Дар дастгоҳи шумо ё «OneDrive» нигоҳ дошта мешавад
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
 # Label for the "Easy setup" backup option
