@@ -1154,7 +1154,7 @@ forms-primary-pw-turn-off =
     .label = Slå det av
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Krev einingsinnlogging for å fylle ut og behandle passord
+    .label = Krev einingsinnlogging for å fylle ut og handsame passord
 forms-primary-pw-learn-more-link = Les meir
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found

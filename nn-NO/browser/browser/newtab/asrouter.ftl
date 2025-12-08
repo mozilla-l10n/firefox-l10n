@@ -293,7 +293,7 @@ launch-on-login-infobar-reject-button = Ikkje no
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Opne { -brand-short-name } kvar gong du startar datamaskina på nytt?</strong> For å behandle oppstartsinnstillingane dine, søk etter «oppstart» i innstillingane.
+launch-on-login-infobar-final-message = <strong>Opne { -brand-short-name } kvar gong du startar datamaskina på nytt?</strong> For å handsame oppstartsinnstillingane dine, søk etter «oppstart» i innstillingane.
 launch-on-login-infobar-final-reject-button = Nei takk
     .accesskey = N
 
