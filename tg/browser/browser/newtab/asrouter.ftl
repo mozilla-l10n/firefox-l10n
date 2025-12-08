@@ -241,6 +241,8 @@ set-default-pdf-handler-primary = Фаҳмидам
 annotations-default-pdf-handler-headline = Ба хати нуқтадор имзои худро гузоред — ё ба ҷойи дилхоҳ имзо гузоред!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Расм кашед, нависед ё имзои худро бор кунед, пас онро айнан дар ҷойи дилхоҳ гузоред. Барои истифодаи такрорӣ имзоҳои дилхоҳи ҳудро нигоҳ доред.
+annotations-make-default-pdf-handler-title = Браузери «{ -brand-short-name }»-ро ҳамчун муҳаррири «PDF»-и пешфарзи худ истифода мебаред?
+annotations-make-default-pdf-handler-subtitle = Ҳар дафъае, ки шумо файли «PDF»-ро мекушоед, шумо ба абзорҳои мо дастрасӣ пайдо мекунед.
 annotations-make-default-pdf-primary-cta =
     .label = Ҳамчун стандартӣ танзим кардан
 annotations-make-default-pdf-next =

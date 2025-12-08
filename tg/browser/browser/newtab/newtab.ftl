@@ -483,6 +483,7 @@ newtab-weather-menu-learn-more = Маълумоти бештар
 newtab-weather-menu-detect-my-location = Ҷойгиршавии маро муайян кунед
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Айни ҳол маълумот дар бораи обу ҳаво дастнорас аст.
+newtab-weather-opt-in-see-weather = Шумо мехоҳед, ки маълумотро оид ба обу ҳавои макони худ бинед?
 newtab-weather-opt-in-not-now =
     .label = Ҳоло не
 newtab-weather-opt-in-yes =
@@ -670,6 +671,9 @@ newtab-widget-section-title = Виҷетҳо
 newtab-widget-section-hide-all-button =
     .title = Пинҳон кардани виҷетҳо
     .aria-label = Пинҳон кардани ҳамаи виҷетҳо
+newtab-widget-section-maximize =
+    .title = Баркушодани виҷетҳо
+    .aria-label = Ҳамаи виҷетҳоро то андозаи пурра баркушоед
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
