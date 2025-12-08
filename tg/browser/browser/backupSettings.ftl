@@ -188,6 +188,7 @@ disable-backup-encryption-confirm-button = Тоза кардани ниҳонв�
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Ниҳонвожаи шумо ба талабот ҷавобгӯ намебошад. Лутфан, ниҳонвожаи дигареро истифода баред.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
@@ -199,7 +200,9 @@ backup-error-retry = Чизе нодуруст иҷро шуд. Лутфан, а
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = «{ -brand-short-name }» барои барқарорсозӣ омода аст
 backup-file-title = Барқарор кардани «{ -brand-short-name }»
+backup-file-intro = Ба тамошобинӣ баргардед ва ҳамаи хатбаракҳо, таърих ва маълумоти дигари худро барқарор созед. <a data-l10n-name="support-link">Маълумоти бештар</a>
 backup-file-path-label = Файли нусхаи эҳтиётӣ:
 backup-file-encryption-state-label = Рамзгузоришуда:
 backup-file-encryption-state-value-encrypted = Ҳа
