@@ -514,18 +514,24 @@ create-backup-screen-2-all-list-3 = Бо ниҳонвожа рамзгузорӣ
 create-backup-screen-3-location = Шумо дар куҷо мехоҳед, ки нусхаи эҳтиётии шумо нигоҳ дошта шавад?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Эҷод кардани ниҳонвожаи нусхаи эҳтиётӣ
+create-backup-screen-3-subtitle = Барои рамзгузорӣ кардани маълумоти шумо лозим аст. Онро дар ҷойе нигоҳ доред, ки шумо дар хотир медоред.
 fx-backup-opt-in-header = Интихоби ҷойгиршавии файл
+fx-backup-opt-in-filepath-label = Ҷойеро интихоб кунед, ки шумо барои интиқоли маълумот ба дастгоҳи нав, ба нақша гирифтед, масалан, «OneDrive».
 fx-backup-opt-in-create-password-label = Ниҳонвожаро ворид намоед
 fx-backup-opt-in-confirm-btn-label = Идома додан
 fx-backup-opt-in-cancel-btn-label = Ба қафо
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Эҷоди нусхаи эҳтиётии шумо ба нақша гирифта шудааст
 fx-backup-confirmation-screen-close-button = Пӯшидан
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Тамоми маълумоти тамошобинӣ илова карда шудааст
 fx-backup-confirmation-screen-all-data-item-text-2 = Ба дастгоҳи шумо нигоҳ дошта шуд
+fx-backup-confirmation-screen-all-data-item-text-3 = Бо рамзгузорӣ ва ниҳонвожа муҳофизат карда шудааст
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Хатбаракҳо, таърих, танзимот ва маълумоти дигар илова карда шудааст
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Ба дастгоҳи шумо нигоҳ дошта шуд
 
 ## Restore from Backup Flow about:welcome screens
