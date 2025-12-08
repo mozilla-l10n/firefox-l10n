@@ -536,6 +536,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Ба дастгоҳи ш�
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Ниҳонвожаҳо ва тарзҳои пардохт илова карда нашуданд
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Барои илова кардани маълумоти махфӣ ба <a data-l10n-name="settings">Танзимот</a> гузаред.
 fx-backup-confirmation-screen-item-subtext-1 = Эҷоди нусхаи эҳтиётии шумо пас аз чанд дақиқа оғоз мешавад ва ин амал дар як рӯз як маротиба иҷро карда мешавад. Шумо метавонед вазъияти равандро дар <a data-l10n-name="settings">Танзимот</a> тафтиш кунед.
+fx-backup-confirmation-screen-item-subtext-2 = «{ -brand-short-name }» нусхаи эҳтиётии шуморо меёбад, агар хоҳед, ки онро аз нав насб кунед.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -559,6 +560,8 @@ restored-from-backup-error-primary-button = Пӯшидан
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Таҷрибаи худро дар «{ -brand-short-name }» ба таври дилхоҳ танзим кунед
+onboarding-personalization-subtitle = Ба якчанд савол ҷавоб диҳед ва мо ба шумо хусусиятҳо ва васеъшавиҳоро тавсия медиҳем, то истифодаи шумо аз «{ -brand-short-name }» бох ҳам беҳтар шавад.
 onboarding-personalization-use-case-personal-option = Шахсӣ
 onboarding-personalization-use-case-school-option = Омӯзишӣ
 onboarding-personalization-use-case-work-option = Корӣ
