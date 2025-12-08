@@ -1102,6 +1102,8 @@ forms-primary-pw-use =
     .accesskey = И
 forms-primary-pw-set =
     .label = Танзим кардани ниҳонвожаи асосӣ
+forms-primary-pw-on =
+    .label = Ниҳонвожаи асосӣ фаъол аст
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани ниҳонвожаҳо

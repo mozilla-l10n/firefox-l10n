@@ -33,6 +33,9 @@ edit-profile-page-profile-name-label = Номи профил
 edit-profile-page-theme-header-2 =
     .label = Мавзуъ
 edit-profile-page-explore-themes = Дидани мавзуъҳои бештар
+edit-profile-page-desktop-shortcut-header = Эҷод кардани миёнбури мизи корӣ
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = Эҷод кардани миёнбури мизи корӣ
 edit-profile-page-avatar-header-2 =
     .label = Аватар
 edit-profile-page-delete-button =
@@ -59,6 +62,9 @@ new-profile-page-input-placeholder =
     .placeholder = Номеро, барои мисол «Корӣ» ё «Шахсӣ», интихоб намоед
 new-profile-page-done-button =
     .label = Ба анҷом расонидани таҳрир
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Нусхаи «{ $profilename }»-и шумо барои танзим омода аст
 profile-window-title-2 = { -brand-short-name } - Профилеро интихоб намоед
 profile-window-logo =
     .alt = Ангораи «{ -brand-short-name }»
@@ -262,6 +268,7 @@ custom-avatar-crop-area =
     .aria-label = Танзими минтақаи буриш
 custom-avatar-drag-handle =
     .aria-label = Иваз кардани минтақаи буриш
+profiles-appmenu-callout-tour-title = Профили нави шумо барои истифода мувофиқ аст
 profiles-appmenu-callout-tour-primary-button = Нишон диҳед, ки чӣ тавр
 barbell-avatar = Вазна
 bike-avatar = Дучарха

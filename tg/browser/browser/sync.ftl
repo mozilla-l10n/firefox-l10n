@@ -20,6 +20,15 @@ fxa-menu-connect-another-device =
     .label = Пайваст кардани дастгоҳи дигар…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Фиристодан ба дастгоҳ
+           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->

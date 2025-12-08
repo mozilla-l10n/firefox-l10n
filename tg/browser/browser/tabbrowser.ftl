@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Сурх
 tab-group-description = { $tabGroupName } — Гурӯҳи варақаҳо
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Печондашуда
 tab-group-label-tooltip-expanded = { $tabGroupName } — Баркушода
+tab-group-preview-name =
+    .aria-label = Варақаҳо дар гурӯҳи пинҳоншуда
 tab-context-unnamed-group =
     .label = Гурӯҳи беном
 tab-group-name-default = Гурӯҳи беном
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Рӯйхати варақаҳо кушода шуд
+tab-group-preview-closed-description = Рӯйхати варақаҳо пӯшида шуд
 
 ##
 
