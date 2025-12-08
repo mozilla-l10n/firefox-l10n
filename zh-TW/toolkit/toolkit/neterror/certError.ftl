@@ -178,7 +178,7 @@ blockedByPolicy-title = 已封鎖頁面
 clockSkewError-title = 您的電腦時間錯誤
 networkProtocolError-title = 網路通訊協定錯誤
 nssBadCert-title = 警告：本網站可能有安全性風險
-nssBadCert-sts-title = 未連線：潛在的安全性問題
+nssBadCert-sts-title = 未連線：可能有安全性問題
 certerror-mitm-title = 有軟體造成 { -brand-short-name } 無法與此網站建立安全連線
 
 ## Felt Privacy V1 Strings

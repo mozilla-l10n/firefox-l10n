@@ -140,7 +140,7 @@ fx100-thank-you-hero-text =
 fx100-thank-you-subtitle = 這一版是我們的第 100 版！非常感謝您與我們一起打造更好、更健康的網路環境。
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] 將 { -brand-short-name } 保留在 Dock
+        [macos] 將 { -brand-short-name } 放置於 Dock
        *[other] 將 { -brand-short-name } 釘選到工具列
     }
 fx100-upgrade-thanks-header = 100 倍的感謝您
@@ -172,7 +172,7 @@ mr2022-onboarding-welcome-pin-subtitle = 只要輕鬆一點就可以從任何地
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] 將 { -brand-short-name } 保留在 Dock
+        [macos] 將 { -brand-short-name } 放置於 Dock
        *[other] 將 { -brand-short-name } 釘選到工具列
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX

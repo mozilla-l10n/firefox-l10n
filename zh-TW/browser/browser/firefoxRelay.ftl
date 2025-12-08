@@ -20,7 +20,7 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = 保護您的電子郵件信箱：
-firefox-relay-opt-in-title-2 = 獲得免費轉寄信箱
+firefox-relay-opt-in-title-2 = 取得免費轉寄信箱
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = 使用 { -relay-brand-name } 轉寄信箱

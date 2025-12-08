@@ -210,7 +210,7 @@ select-translations-panel-copy-button =
     .label = 複製
 # Text displayed on the copy button after it is clicked.
 select-translations-panel-copy-button-copied =
-    .label = 已複製！
+    .label = 已複製
 select-translations-panel-done-button =
     .label = 完成
 select-translations-panel-translate-full-page-button =

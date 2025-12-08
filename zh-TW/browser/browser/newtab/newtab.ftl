@@ -349,7 +349,7 @@ newtab-custom-settings = 管理更多設定
 newtab-wallpaper-title = 背景圖
 newtab-wallpaper-reset = 還原為預設值
 newtab-wallpaper-upload-image = 上傳圖片
-newtab-wallpaper-custom-color = 選擇一種色彩
+newtab-wallpaper-custom-color = 選擇色彩
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 圖片超過 { $file_size }MB 的檔案大小限制。請嘗試上傳小一點的檔案。

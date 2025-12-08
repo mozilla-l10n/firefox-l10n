@@ -1798,7 +1798,7 @@ httpsonly-radio-disabled3 =
     .label = 不要開啟純 HTTPS 模式
     .description = { -brand-short-name } 可能還是會將某些連線升級為 HTTPS 連線
 httpsonly-radio-disabled =
-    .label = 不開啟純 HTTPS 模式
+    .label = 不要開啟純 HTTPS 模式
 
 ## DoH Section
 
