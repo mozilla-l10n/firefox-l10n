@@ -7,14 +7,14 @@
 
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-use-payment-method-os-prompt-macos = 저장된 결제 방법 정보 이용
-autofill-use-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 방법 정보를 사용하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
-autofill-use-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 방법 정보를 사용하려고 합니다.
+autofill-use-payment-method-os-prompt-macos = 저장된 결제 수단 정보 이용
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 수단 정보를 사용하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 수단 정보를 사용하려고 합니다.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-edit-payment-method-os-prompt-macos = 저장된 결제 방법 정보 표시
-autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 방법 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
-autofill-edit-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 방법 정보를 표시하려고 합니다.
+autofill-edit-payment-method-os-prompt-macos = 저장된 결제 수단 정보 표시
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 수단 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 수단 정보를 표시하려고 합니다.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = 양식 자동 채우기 옵션
 autofill-options-link-osx = 양식 자동 채우기 설정
@@ -52,7 +52,7 @@ autofill-clear-form-label = 자동 채우기 양식 지우기
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = 주소 관리
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
-autofill-manage-payment-methods-label = 결제 방법 관리
+autofill-manage-payment-methods-label = 결제 수단 관리
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -85,7 +85,7 @@ delete-profile-windows = 창 열기
 delete-profile-tabs = 탭 열기
 delete-profile-bookmarks = 북마크
 delete-profile-history = 기록 (방문한 페이지, 쿠키, 사이트 데이터)
-delete-profile-autofill = 데이터 자동 채우기 (주소, 결제 방법)
+delete-profile-autofill = 데이터 자동 채우기 (주소, 결제 수단)
 delete-profile-logins = 비밀번호
 
 ##

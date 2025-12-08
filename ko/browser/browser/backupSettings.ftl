@@ -36,7 +36,7 @@ settings-data-backup-last-backup-location = 위치
 settings-data-backup-last-backup-location-show-in-folder = 폴더에서 보기
 settings-data-backup-last-backup-location-edit = 편집…
 settings-data-create-backup-error = 백업을 만드는 중에 오류가 발생했습니다.  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-settings-sensitive-data-encryption-description = 비밀번호와 결제 방법을 백업하고 모든 데이터를 암호화하여 안전하게 보관하세요.
+settings-sensitive-data-encryption-description = 비밀번호와 결제 수단을 백업하고 모든 데이터를 암호화하여 안전하게 보관하세요.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 파일 이름: { $fileName }
@@ -180,7 +180,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = 암호 보호 제거
-disable-backup-encryption-description2 = 저장된 비밀번호와 결제 방법도 더 이상 백업되지 않습니다.
+disable-backup-encryption-description2 = 저장된 비밀번호와 결제 수단도 더 이상 백업되지 않습니다.
 disable-backup-encryption-support-link = 어떤 것이 백업되나요?
 disable-backup-encryption-cancel-button = 취소
 disable-backup-encryption-confirm-button = 비밀번호 제거

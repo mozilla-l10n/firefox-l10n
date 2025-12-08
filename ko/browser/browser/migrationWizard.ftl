@@ -80,7 +80,7 @@ migration-passwords-option-label = 저장된 비밀번호
 migration-history-option-label = 방문 기록
 migration-extensions-option-label = 확장 기능
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
-migration-payment-methods-option-label = 결제 방법
+migration-payment-methods-option-label = 결제 수단
 migration-cookies-option-label = 쿠키
 migration-session-option-label = 창과 탭
 migration-otherdata-option-label = 기타 데이터
@@ -161,7 +161,7 @@ migration-list-password-label = 비밀번호
 migration-list-history-label = 기록
 migration-list-extensions-label = 확장 기능
 migration-list-autofill-label = 자동 채우기 데이터
-migration-list-payment-methods-label = 결제 방법
+migration-list-payment-methods-label = 결제 수단
 
 ##
 
@@ -252,7 +252,7 @@ migration-wizard-progress-success-formdata = 양식 기록
 #
 # Variables:
 #  $quantity (Number): the number of successfully imported payment methods
-migration-wizard-progress-success-payment-methods = 결제 방법 { $quantity }개
+migration-wizard-progress-success-payment-methods = 결제 수단 { $quantity }개
 migration-wizard-safari-permissions-sub-header = Safari 북마크 및 방문 기록을 가져오려면:
 migration-wizard-safari-instructions-continue = "계속"을 선택하세요
 migration-wizard-safari-instructions-folder = 목록에서 Safari 폴더를 선택하고 "열기"를 선택하세요

@@ -953,7 +953,7 @@ sync-currently-syncing-logins-passwords = 로그인과 비밀번호
 sync-currently-syncing-passwords = 비밀번호
 sync-currently-syncing-addresses = 주소
 sync-currently-syncing-creditcards = 신용 카드
-sync-currently-syncing-payment-methods = 결제 방법
+sync-currently-syncing-payment-methods = 결제 수단
 sync-currently-syncing-addons = 부가 기능
 sync-currently-syncing-settings = 설정
 sync-manage-options =
@@ -1000,7 +1000,7 @@ sync-engine-creditcards =
     .tooltiptext = 이름, 숫자 그리고 만료 날짜 (데스크톱만)
     .accesskey = C
 sync-engine-payment-methods2 =
-    .label = 결제 방법
+    .label = 결제 수단
     .tooltiptext = 이름, 카드 번호, 만료일
     .accesskey = n
 sync-engine-addons =
@@ -1174,8 +1174,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 # The macOS string is preceded by the operating system with "Firefox is trying to ".
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
-        [macos] 결제 방법 설정 변경
-       *[other] { -brand-short-name }가 결제 방법 설정을 변경하려고 합니다. 이를 허용하려면 기기 로그인을 사용하세요.
+        [macos] 결제 수단 설정 변경
+       *[other] { -brand-short-name }가 결제 수단 설정을 변경하려고 합니다. 이를 허용하려면 기기 로그인을 사용하세요.
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
@@ -1186,35 +1186,35 @@ autofill-addresses-checkbox = 주소 저장 및 채우기
     .accesskey = a
 autofill-saved-addresses-button = 저장된 주소
     .accesskey = S
-autofill-payment-methods-checkbox-message = 결제 방법 저장 및 채우기
+autofill-payment-methods-checkbox-message = 결제 수단 저장 및 채우기
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = 신용/직불 카드 포함
     .accesskey = I
-autofill-saved-payment-methods-button = 저장된 결제 방법
+autofill-saved-payment-methods-button = 저장된 결제 수단
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = 결제 방법을 채우고 관리하려면 기기 로그인이 필요합니다.
+autofill-reauth-payment-methods-checkbox = 결제 수단을 채우고 관리하려면 기기 로그인이 필요합니다.
     .accesskey = o
-autofill-payment-methods-title = 결제 방법
+autofill-payment-methods-title = 결제 수단
 autofill-payment-methods-header =
-    .aria-label = 결제 방법
+    .aria-label = 결제 수단
 autofill-payment-methods-checkbox-message-2 =
     .label = 결제 정보 저장 및 자동 채우기
     .accesskey = p
 autofill-payment-methods-manage-payments-title =
-    .heading = 결제 방법 관리
+    .heading = 결제 수단 관리
 autofill-payment-methods-manage-payments-button =
-    .label = 결제 방법 관리
+    .label = 결제 수단 관리
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
-    .label = 자동 채우기 및 결제 방법 관리에 기기 로그인 요구
+    .label = 자동 채우기 및 결제 수단 관리에 기기 로그인 요구
     .accesskey = o
-autofill-payment-methods-add-button = 새 결제 방법 추가
+autofill-payment-methods-add-button = 새 결제 수단 추가
 payments-list-header =
-    .label = 결제 방법
-payments-list-item-label = <strong>결제 방법</strong>
-payments-remove-payment-prompt-title = 이 결제 방법을 제거하시겠습니까?
+    .label = 결제 수단
+payments-list-item-label = <strong>결제 수단</strong>
+payments-remove-payment-prompt-title = 이 결제 수단을 제거하시겠습니까?
 payments-remove-payment-prompt-confirm-button = 제거
 payments-remove-payment-prompt-cancel-button = 취소
 autofill-addresses-title = 주소 및 기타
