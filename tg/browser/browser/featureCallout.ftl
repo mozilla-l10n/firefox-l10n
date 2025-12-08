@@ -149,6 +149,11 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Нодида гузарондан
 windows-10-eos-sync-callout-primary-advance-button-label = Навбатӣ
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Нав: Барои пешнамоиши пайвандҳо, онҳоро зер карда, доред
+link-preview-onboarding-callout-description = Тавсифи мухтасар, вақти хониш ва маълумоти иловагиро бинед ва пас худатон қарор диҳед, агар зеркунии ин пайванд сазовори таваҷҷуҳ бошад. Инчунин, ин амал бо зер кардани тугмаи рости муш дастрас аст.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Нишон додани сарлавҳаҳои варақаҳо дар навори ҷонибӣ

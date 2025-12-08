@@ -265,3 +265,7 @@ link-preview-setup-faster-next-time = Дафъаи оянда шумо мета�
 link-preview-onboarding-button = Дидани пешнамоиш
 # Onboarding card Close button
 link-preview-onboarding-close = Пӯшидан
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Танзимоти ибтидоӣ
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Ин метавонад каме вақт гирад. Дафъаи оянда шумо метавонед нуктаҳои асосиро зудтар бинед.
