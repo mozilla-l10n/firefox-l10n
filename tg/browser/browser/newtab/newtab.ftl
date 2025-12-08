@@ -674,6 +674,9 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-maximize =
     .title = Баркушодани виҷетҳо
     .aria-label = Ҳамаи виҷетҳоро то андозаи пурра баркушоед
+newtab-widget-section-minimize =
+    .title = Ба ҳадди ақал сохтани виҷетҳо
+    .aria-label = Ҳамаи виҷетҳои худро то андозаи хурд шакл созед
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
