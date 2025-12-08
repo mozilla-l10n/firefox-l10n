@@ -239,6 +239,8 @@ set-default-pdf-handler-primary = Фаҳмидам
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Ба хати нуқтадор имзои худро гузоред — ё ба ҷойи дилхоҳ имзо гузоред!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Расм кашед, нависед ё имзои худро бор кунед, пас онро айнан дар ҷойи дилхоҳ гузоред. Барои истифодаи такрорӣ имзоҳои дилхоҳи ҳудро нигоҳ доред.
 annotations-make-default-pdf-primary-cta =
     .label = Ҳамчун стандартӣ танзим кардан
 annotations-make-default-pdf-next =
