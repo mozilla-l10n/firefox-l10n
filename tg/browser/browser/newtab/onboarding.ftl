@@ -492,6 +492,10 @@ create-backup-screen-1-backup-label = Сохтани нусхаи эҳтиётӣ
 create-backup-screen-1-backup-body = Дар дастгоҳи шумо ё «OneDrive» нигоҳ дошта мешавад
 create-backup-select-tile-button-label = Интихоб кардан
 create-backup-back-button-label = Ба қафо
+create-backup-show-fewer =
+    .label = Камтар ба монанди ин нишон диҳед
+create-backup-screen-2-title = Барои сохтани нусхаи эҳтиётӣ, маълумоти «{ -brand-product-name }»-ро интихоб намоед
+create-backup-screen-2-subtitle = Танҳо як дақиқа вақт лозим аст. Маълумоти шумо дар як рӯз як маротиба дар нусхаи эҳтиётӣ нигоҳ дошта мешавад.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Танзими осон
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
