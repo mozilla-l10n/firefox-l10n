@@ -480,6 +480,10 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Низоми амалкунандаи компютерии худро ба «Windows 11» такмил медиҳед?
+    Биёед маълумоти шуморо аз «{ -brand-product-name }» дар нусхаи эҳтиётӣ нигоҳ дорем.
+create-backup-screen-1-subtitle = Ниҳонвожаҳо, хатбаракҳо ва маълумоти дигари худро дар муддати 1–2 дақиқа ба таври худкор муҳофизат намоед.
 create-backup-screen-1-flair = Тавсияшуда
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Маълумоти бештар</a>
 create-backup-screen-1-sync-label = Бо «{ -brand-product-name }» ҳамоҳанг кунед
