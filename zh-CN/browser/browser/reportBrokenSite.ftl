@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = 请选择原因
 report-broken-site-panel-blocked-trackers-label =
     .label = 发送被跟踪保护拦截的网址
 report-broken-site-panel-blocked-trackers-description = 增强型跟踪保护可能会拦截某些网站正常运作所需的跟踪器和脚本。
+report-broken-site-panel-preview-button =
+    .label = 预览报告
+report-broken-site-panel-preview-header =
+    .label = 预览报告
