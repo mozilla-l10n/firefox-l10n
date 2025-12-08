@@ -562,9 +562,11 @@ restored-from-backup-error-primary-button = Пӯшидан
 
 onboarding-personalization-title = Таҷрибаи худро дар «{ -brand-short-name }» ба таври дилхоҳ танзим кунед
 onboarding-personalization-subtitle = Ба якчанд савол ҷавоб диҳед ва мо ба шумо хусусиятҳо ва васеъшавиҳоро тавсия медиҳем, то истифодаи шумо аз «{ -brand-short-name }» бох ҳам беҳтар шавад.
+onboarding-personalization-use-case-title = Шумо бо кадом мақсадҳо аз «{ -brand-short-name }» истифода мебаред?
 onboarding-personalization-use-case-personal-option = Шахсӣ
 onboarding-personalization-use-case-school-option = Омӯзишӣ
 onboarding-personalization-use-case-work-option = Корӣ
+onboarding-personalization-motivation-title = Кадом хусусиятҳои «{ -brand-short-name }» барои шумо муҳимтар мебошанд?
 onboarding-personalization-motivation-privacy-option = Махфият ва амният
 onboarding-personalization-motivation-productivity-option = Самаранокӣ
 onboarding-personalization-motivation-other-option = Дигар
