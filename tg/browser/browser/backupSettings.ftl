@@ -166,6 +166,7 @@ change-backup-encryption-header = Иваз кардани ниҳонвожаи �
 password-rules-header = Талаботи ниҳонвожа
 password-rules-length-description = На кам аз 8 аломат
 password-rules-email-description = Ба ғайр аз нишонии почтаи электронии шумо
+password-rules-disclaimer = Интернетро ба таври бехатар истифода баред — ниҳонвожаҳоро такроран истифода набаред. Барои <a data-l10n-name="password-support-link">эҷод кардани ниҳонвожаҳои қавӣ</a>, ба маслиҳатҳои дигар нигаред.
 password-validity-has-email = Нишонии почтаи электронӣ бояд истифода нашавад
 password-validity-do-not-match = Ниҳонвожаҳо мувофиқат намекунанд
 
@@ -179,6 +180,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Бекор кардани муҳофизат ба воситаи ниҳонвожа
+disable-backup-encryption-description2 = Ниҳонвожаҳо ва тарзҳои пардохти нигоҳдошташудаи шумо, инчунин, дигар дар нусхаи эҳтиётӣ нигоҳ дошта намешаванд.
 disable-backup-encryption-support-link = Нусхаи эҳтиётии кадом маълумот таҳия карда мешавад?
 disable-backup-encryption-cancel-button = Бекор кардан
 disable-backup-encryption-confirm-button = Тоза кардани ниҳонвожа
