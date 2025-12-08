@@ -355,6 +355,8 @@ tab-context-edit-note =
     .accesskey = Т
 tab-note-editor-title-create = Илова кардани тавзеҳ
 tab-note-editor-title-edit = Таҳрир кардани тавзеҳ
+tab-note-editor-text-field =
+    .placeholder = Шумо чӣ мехоҳед дар бораи ин варақа дар хотир нигоҳ доред?
 tab-note-editor-button-cancel =
     .label = Бекор кардан
     .accesskey = к
@@ -386,3 +388,8 @@ tab-context-badge-new = Нав
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
     .label = Ҷудо кардани варақаҳо
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Баръакс кардани варақаҳо
+split-view-menuitem-close-both-tabs =
+    .label = Пӯшидани ҳар ду варақ
