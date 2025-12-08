@@ -364,6 +364,21 @@ tab-note-editor-button-save =
 
 ## Split View
 
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Намоиши тақсимшуда
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Илова кардани намоиши тақсимшуда
+    .accesskey = И
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Кушодан дар намоиши тақсимшуда
+    .accesskey = К
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Ҷудо кардани намоиши тақсимшуда
+    .accesskey = Ҷ
 tab-context-badge-new = Нав
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)

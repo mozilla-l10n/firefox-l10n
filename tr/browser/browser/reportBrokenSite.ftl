@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Lütfen bir sebep seçin
 report-broken-site-panel-blocked-trackers-label =
     .label = İzlenme koruması tarafından engellenen adresleri gönder
 report-broken-site-panel-blocked-trackers-description = Gelişmiş izlenme koruması bazı sitelerin düzgün çalışması için gereken takip kodlarını ve betikleri engelleyebilir.
+report-broken-site-panel-preview-button =
+    .label = Raporu ön izle
+report-broken-site-panel-preview-header =
+    .label = Raporu ön izle

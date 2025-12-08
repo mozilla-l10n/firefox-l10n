@@ -172,6 +172,11 @@ preferences-manage-profiles-button =
     .label = Идоракунии профилҳо
 preferences-profiles-settings-button =
     .label = Танзимот
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Профил барои нусхабардорӣ
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
@@ -179,8 +184,14 @@ preferences-copy-profile-select = Интихоби профил
 preferences-copy-profile-button = Нусха бардоштан
 tabs-group-header2 =
     .label = Варақаҳо
+tabs-opening-heading =
+    .label = Кушоиш
+tabs-interaction-heading =
+    .label = Амали дуҷониба
 tabs-containers-heading =
     .label = Дарбаргирандаҳо
+tabs-closing-heading =
+    .label = Пӯшиш
 tabs-group-header = Варақаҳо
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab варақаҳоро аз рӯи тартиби истифодаи охирин иваз мекунад
@@ -634,6 +645,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Идоракунии васеъшавӣ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Интихоб кардани сомонаи муайян
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -659,9 +672,14 @@ home-custom-homepage-address =
     .placeholder = Нишониеро ворид намоед
 home-custom-homepage-address-button =
     .label = Илова кардани нишонӣ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = То ҳол ягон сомона илова карда нашудааст.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Иваз кардан бо
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Саҳифаҳои кушодашудаи ҷорӣ
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Хатбаракҳо…
@@ -1061,6 +1079,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Дархост барои нигоҳ доштани ниҳонвожаҳо
     .accesskey = р
+forms-manage-password-exceptions =
+    .label = Идоракунии истисноҳо барои ниҳонвожаҳо
+    .accesskey = И
 forms-exceptions =
     .label = Истисноҳо…
     .accesskey = И
@@ -1091,9 +1112,16 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Ба таври худкор пур кардани номҳои корбар ва ниҳонвожаҳо
     .accesskey = а
+forms-fill-usernames-and-passwords-2 =
+    .label = Нигоҳ доштан ва ба таври худкор пур кардани номҳои корбар ва ниҳонвожаҳо
+    .accesskey = Н
 forms-saved-passwords =
     .label = Ниҳонвожаҳои нигоҳдошташуда
     .accesskey = и
+forms-saved-passwords-2 =
+    .label = Идора кардани ниҳонвожаи нигоҳдошташуда
+    .accesskey = И
+forms-saved-passwords-searchkeywords = Воридшавиҳо барои сомонаҳои зерин дар компютери шумо нигоҳ дошта шудаанд
 # Header for additional protections when managing password settings.
 forms-additional-protections-header =
     .label = Муҳофизати иловагӣ
@@ -1104,6 +1132,11 @@ forms-primary-pw-set =
     .label = Танзим кардани ниҳонвожаи асосӣ
 forms-primary-pw-on =
     .label = Ниҳонвожаи асосӣ фаъол аст
+forms-primary-pw-change-2 =
+    .label = Тағйир додани ниҳонвожаи асосӣ
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Хомӯш кардан
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани ниҳонвожаҳо

@@ -168,6 +168,10 @@ certerror-coep-learn-more = Cross Origin Embedder İlkeleri (COEP) hakkında dah
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Hata kodu: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = İnternet bağlantınızla ilgili bir sorun var
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
@@ -176,3 +180,4 @@ fp-neterror-connection-intro = { -brand-short-name }, { $hostname } sunucusuyla 
 fp-neterror-cypher-overlap-why-dangerous-body = Bu site, bilinen güvenlik sorunları olan eski bir yazılım kullanıyor.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = { -brand-short-name } tarayıcısının son sürümünü kullandığınızdan emin olun. Menüden Yardım > { -brand-short-name } hakkında’ya gidin. En yeni { -brand-short-name } sürümünü kullanıyorsanız sorun büyük olasılıkla siteden kaynaklanıyordur.
+fp-neterror-offline-what-can-you-do-body = Farklı bir cihazdan bağlanmayı deneyin. Modeminizi veya yönlendiricinizi kontrol edin. Wi-Fi bağlantınızı kesip yeniden bağlanın.
