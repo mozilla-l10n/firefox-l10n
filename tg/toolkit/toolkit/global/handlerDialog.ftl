@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Пайванди «{ $scheme }»-р
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Ба ин сомона иҷозат медиҳед, то тавонад ҳамёни рақамии шуморо кушояд?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Кушодани пайванди <strong>«{ $scheme }»</strong> ба сомонаи <strong>{ $host }</strong> имкон медиҳад, то тавонад шахсияти воқеии шуморо ба воситаи <strong>«{ $appName }»</strong> дархост кунад. Танҳо агар шумо ба ин сомона эътимод дошта бошед, идома диҳед.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Кушодани пайванди <strong>«{ $scheme }»</strong> ба ин сомона имкон медиҳад, то тавонад шахсияти воқеии шуморо ба воситаи <strong>«{ $appName }»</strong> дархост кунад. Танҳо агар шумо ба ин сомона эътимод дошта бошед, идома диҳед.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Кушодани пайванди <strong>«{ $scheme }»</strong> ба сомонаи <strong>{ $host }</strong> имкон медиҳад, то тавонад шахсияти воқеии шуморо аз ҳамёни рақамии шумо дархост кунад. Танҳо агар шумо ба ин сомона эътимод дошта бошед, идома диҳед.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Кушодани пайванди <strong>«{ $scheme }»</strong> ба ин сомона имкон медиҳад, то тавонад шахсияти воқеии шуморо аз ҳамёни рақамии шумо дархост кунад. Танҳо агар шумо ба ин сомона эътимод дошта бошед, идома диҳед.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

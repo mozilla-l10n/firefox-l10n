@@ -175,6 +175,7 @@ fp-neterror-offline-body-title = Чунин ба назар мерасад, ки
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = Браузери «{ -brand-short-name }» бо сервер дар нишонии { $hostname } ба таври бехатар пайваст шуда наметавонад.
 fp-neterror-offline-intro = Браузери «{ -brand-short-name }» наметавонад, ки ба сервер дар нишонии <strong>{ $hostname }</strong> пайваст шавад
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Чунин ба назар мерасад, ки ин сомона нармафзори куҳнаро бо мушкилиҳои маълуми амниятӣ истифода мебарад.
