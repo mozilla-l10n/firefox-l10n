@@ -819,6 +819,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Primaj podatke s burze direktno u svojoj tražilici
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Prikaži aktualiziranje burze i još više od naših partnera kada dijeliš upite za pretraživanje s proizvođačem { -vendor-short-name }. <a data-l10n-name="learn-more-link">Saznaj više</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Prikaži prijedloge
 # This string is shown in split button to dismiss activation the Realtime suggestion.

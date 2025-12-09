@@ -51,7 +51,19 @@ about-logging-unknown-profiler-preset = Nepoznata unaprijed postavljena postavka
 about-logging-unknown-option = Nepoznata about:logging opcija „{ $k }”
 about-logging-file-and-profiler-override = Nije moguće istovremeno prisiliti ispis datoteke i zamijeniti opcije profilera
 
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+about-logging-save-button = Spremi
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = Spremljeno u { $path }
+
 ## Uploaded Profiles section
 
 about-logging-uploaded-profiles-title = Preneseni profili
 about-logging-no-uploaded-profiles = Nijedan profil još nije prenesen.
+about-logging-delete-uploaded-profile = Izbriši
+about-logging-view-uploaded-profile = Pogledaj profil
+about-logging-delete-profile-confirm-title = Izbriši profil
+about-logging-deleting-profile = Brisanje …

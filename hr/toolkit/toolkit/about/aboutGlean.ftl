@@ -73,6 +73,8 @@ about-glean-metrics-table-settings-category-visualizations = Vizualizacije
 about-glean-metrics-table-settings-visualization-example = Primjer
 about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-category-visualizations-timeline = Vremenska crta
+about-glean-metrics-table-settings-timelines-height = Visina
+about-glean-metrics-table-settings-timelines-width = Širina
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtar
 about-glean-button-load-all = Učitaj sve vrijednosti

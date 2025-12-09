@@ -313,7 +313,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = Koristi { -relay-brand-short-name } e-mail masku
+    .label = Koristi { -relay-brand-short-name } masku za e-mail adresu
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Predloži snažnu lozinku …

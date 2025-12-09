@@ -62,6 +62,10 @@ new-profile-page-input-placeholder =
     .placeholder = Odaberi ime poput „Posao” ili „Osobno”
 new-profile-page-done-button =
     .label = Uređivanje završeno
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Tvoja kopija profila { $profilename } je spremna za prilagođavanje
+copied-profile-page-header-description = Kopirali smo tvoje podatke i postavke u novi profil. Sada mu možeš zadati ime, odabrati izgled i prilagoditi ga.
 profile-window-title-2 = { -brand-short-name } – Odaberi profil
 profile-window-logo =
     .alt = { -brand-short-name } logotip
@@ -143,11 +147,19 @@ profiles-green-theme = Zelena
 profiles-green-theme-title =
     .title = Primijeni zelenu temu
 profiles-cyan-theme = Cijan
+profiles-cyan-theme-title =
+    .title = Primijeni cijan temu
+profiles-custom-theme-title =
+    .title = Primijeni prilagođenu temu
 
 ## Data collection settings changed (multi-profile)
 
 # Full infobar message with inline bold title followed by body text
 multiprofile-data-collection-message = <strong>Postavke prikupljanja podataka su promijenjene.</strong> Promjene koju se napravljene u drugom profilu primjenjuju se na sve profile na ovom uređaju.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Prikaži postavke
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = Odbaci
 
 ## Alternative text for default profile icons
 
@@ -155,6 +167,8 @@ book-avatar-alt =
     .alt = Knjiga
 briefcase-avatar-alt =
     .alt = Aktovka
+picture-avatar-alt =
+    .alt = Slika
 # Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
 craft-avatar-alt =
     .alt = Obrt
@@ -168,6 +182,8 @@ heart-avatar-alt =
     .alt = Srce
 heart-rate-avatar-alt =
     .alt = Otkucaji srca
+clock-avatar-alt =
+    .alt = Sat
 leaf-avatar-alt =
     .alt = List
 lightbulb-avatar-alt =
@@ -190,6 +206,8 @@ present-avatar-alt =
     .alt = Poklon
 shopping-avatar-alt =
     .alt = Kolica za kupnju
+soccer-ball-avatar-alt =
+    .alt = Nogometna lopta
 sparkle-single-avatar-alt =
     .alt = Iskra
 star-avatar-alt =
@@ -198,6 +216,9 @@ video-game-controller-avatar-alt =
     .alt = Kontroler za videoigre
 custom-avatar-alt =
     .alt = Prilagođeni avatar
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globus
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Dijamant
@@ -210,6 +231,9 @@ bike-avatar-alt =
 
 book-avatar = Knjiga
 briefcase-avatar = Aktovka
+clock-avatar = Sat
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Obrt
 custom-avatar = Prilagođeni avatar
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Dijamant
@@ -223,10 +247,22 @@ heart-rate-avatar = Otkucaji srca
 leaf-avatar = List
 lightbulb-avatar = Žarulja
 makeup-avatar = Šminka
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Poruka
+musical-note-avatar = Nota
+palette-avatar = Paleta
+paw-print-avatar = Otisak šape
 picture-avatar = Slika
+plane-avatar = Avion
+# Present refers to a gift box, not the current time period
+present-avatar = Poklon
 shopping-avatar = Kolica za kupnju
 soccer-ball-avatar = Nogometna lopta
+sparkle-single-avatar = Iskra
 star-avatar = Zvijezda
+video-game-controller-avatar = Kontroler za videoigre
+custom-avatar-crop-back-button =
+    .aria-label = Natrag
 custom-avatar-crop-area =
     .aria-label = Prilagodi područje obrezivanja
 custom-avatar-drag-handle =
@@ -235,6 +271,8 @@ profiles-appmenu-callout-tour-title = Tvoj novi profil je spreman
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = U izborniku ☰ dodirni ime tvog profila, dodaj novi, uredi ovaj ili skači između tvojih digitalnih života.
 profiles-appmenu-callout-tour-primary-button = Pokaži mi kako
+barbell-avatar = Šipka s utezima
+bike-avatar = Bicikl
 
 ## Tooltips for default avatar icons
 

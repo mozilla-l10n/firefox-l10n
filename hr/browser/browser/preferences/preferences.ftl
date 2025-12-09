@@ -1668,14 +1668,24 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Iznimke …
     .accesskey = e
+permissions-header2 =
+    .label = Dozvole
+    .description = Dozvole koje daješ web -tranicama tijekom pregledavanja.
 permissions-location2 =
     .label = Mjesto
+permissions-localhost2 =
+    .label = Aplikacije uređaja i usluge
+permissions-local-network2 =
+    .label = Uređaji na lokalnoj mreži
 permissions-xr2 =
     .label = Virtualna stvarnost
 permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Zvučnik
 permissions-notification2 =
     .label = Obavijesti
 
