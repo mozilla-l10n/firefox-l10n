@@ -72,3 +72,5 @@ safeb-palm-notdeceptive =
 safeb-blocked-addon-page-error-desc-override = <strong>Čehodla je so tute sydło zablokowało?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> je snano z wobšudniskej a škódnej aktiwitu zwjazany.
 safeb-blocked-addon-page-error-desc3-override = <strong>Što móžeće přećiwo tomu činić?</strong>
+safeb-blocked-addon-page-error-desc4-override = Zo njeby so to hišće raz stało, móžeće <strong>{ $addonName }</strong> z about:addons wotstronić.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Zhońće wjace wo škiće { -brand-short-name } přećiwo kradnjenju datow a škódnej software</a>.

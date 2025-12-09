@@ -160,6 +160,7 @@ sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
 sidebar-button-callout-subtitle = Wužiwajće tłóčatko bóčnicy, zo byšće bóčnicu pokazał, zo byšće titule rajtarkow widźał.
 sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubjerće tłóčatko bóčnicy w symbolowej lajsće.
 sidebar-deprecation-callout-title = Zaktualizowana bóčnica budźe bórze k dispoziciji
+sidebar-deprecation-callout-subtitle = Damy wersiju bóčnicy wotběžeć, kotruž tuchwilu wužiwaće. Wupruwujće zaktualizowanu bóčnicu. Je spěšniša a dóstanjeće přistup k wjace nastrojam.
 sidebar-deprecation-cta-button = Spytajće nětko
 
 ## Sidebar Vertical Tabs Strings
