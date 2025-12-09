@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Ignorera
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestanda
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Det finns redan en sökmotor med namnet "{ 
 remove-engine-confirmation = Är du säker på att du vill ta bort den här sökmotorn?
 remove-engine-remove = Ta bort
 remove-addon-engine-alert = För att ta bort denna sökmotor, ta bort det tillhörande tillägget.
+search-engine-group =
+    .label = Standardsökmotor
+search-default-engine =
+    .aria-label = Standardsökmotor
 
 ## Containers Section
 
