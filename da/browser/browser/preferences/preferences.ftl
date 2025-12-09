@@ -556,6 +556,9 @@ update-in-progress-ok-button = &Annuller
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Ydelse
@@ -860,6 +863,10 @@ edit-engine-name-warning-duplicate = Der findes allerede en søgetjeneste med na
 remove-engine-confirmation = Er du sikker på, at du vil fjerne denne søgetjeneste?
 remove-engine-remove = Fjern
 remove-addon-engine-alert = For at fjerne denne søgetjeneste skal du fjerne den tilknyttede tilføjelse.
+search-engine-group =
+    .label = Standard-søgetjeneste
+search-default-engine =
+    .aria-label = Standard-søgetjeneste
 
 ## Containers Section
 
