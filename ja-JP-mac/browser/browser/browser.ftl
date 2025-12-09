@@ -426,6 +426,9 @@ quickactions-cmd-restart = restart
 # Opens the screenshot tool
 quickactions-screenshot3 = スクリーンショットを撮影
 quickactions-cmd-screenshot2 = screenshot, take a screenshot
+# Opens about:translations
+quickactions-translate = 翻訳
+quickactions-cmd-translate = translate
 quickactions-cmd-screenshot = screenshot
 # Opens about:preferences
 quickactions-settings2 = 設定を管理
@@ -909,6 +912,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = ショートカットが選択されていません。ショートカットを選択
     .tooltiptext = ショートカットが選択されていません。ショートカットを選択します
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = キーワード検索が無効
+    .tooltiptext = キーワード検索が無効です
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

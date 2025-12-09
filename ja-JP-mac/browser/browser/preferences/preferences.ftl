@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = ブラウザーを終了するときは確認する
 disable-extension =
     .label = 拡張機能を無効化
+preferences-data-migration-group =
+    .label = ブラウザーデータの読み込み
+    .description = 別のブラウザーからブックマークやパスワード、履歴、拡張機能、自動入力データを移行します。
 preferences-data-migration-header = ブラウザーデータの読み込み
 preferences-data-migration-description = ブックマークやパスワード、履歴、自動入力データを { -brand-short-name } に読み込みます。
 preferences-data-migration-button =
@@ -172,8 +175,32 @@ preferences-manage-profiles-description = 各プロファイルには、閲覧�
 preferences-manage-profiles-learn-more = 詳細情報
 preferences-manage-profiles-button =
     .label = プロファイルを管理
+preferences-profiles-settings-button =
+    .label = 設定
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = 既存のプロファイルをコピー
+    .description = 新規プロファイルにブックマークやパスワードなどの保存しているデータと設定、アドオン、閲覧履歴をコピーします。アカウントや同期情報はコピーしません。
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = コピーするプロファイル
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = プロファイルを選択
+preferences-copy-profile-button = コピー
 tabs-group-header2 =
     .label = タブグループ
+tabs-opening-heading =
+    .label = 開き方
+tabs-interaction-heading =
+    .label = 操作
+tabs-containers-heading =
+    .label = コンテナー
+tabs-closing-heading =
+    .label = 閉じ方
 tabs-group-header = タブグループ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab で最近使用した順にタブを切り替える
@@ -572,6 +599,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = ピクチャーインピクチャーの動画の操作を有効にする
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = タブを切り替えてもピクチャーインピクチャーの動画再生を維持する
+    .accesskey = s
 browsing-picture-in-picture-learn-more = 詳細情報
 browsing-media-control =
     .label = メディアをキーボード、ヘッドセット、仮想インターフェイスで操作する
