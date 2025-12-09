@@ -565,6 +565,16 @@ update-in-progress-ok-button = &Zaćisnyć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
 
+## Firefox support
+
+support-application-heading =
+    .label = Pomoc { -brand-short-name }
+    .description = Problemy rozrisać abo ideje ze zhromadźenstwom dźělić
+support-get-help =
+    .label = Pomoc wobstarać
+support-share-ideas =
+    .label = Ideje a měnjenja dźělić
+
 ## General Section - Performance
 
 performance-title = Wukon
@@ -825,6 +835,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Pytanske wurazy w adresowym polu na wuslědkowych stronach pokazać
+search-separate-default-engine-2 =
+    .label = Wužiwajće druhu standardnu pytawu w priwatnych woknach
+    .accesskey = u
+search-separate-default-engine-dropdown =
+    .aria-label = Standardna pytawa w priwatnych woknach
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

@@ -430,3 +430,18 @@ etp-strict-exceptions-infobar-button = Rozrisanja nałožić
     .accesskey = R
 etp-strict-exceptions-infobar-not-now = Nic nětko
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } tuchwilu waš standardny wobhladowak njeje
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } tuchwilu waš hłowny wobhladowak njeje
+set-default-menu-message-row-layout-title = Čińće { -brand-short-name } k swojemu hłownemu wobhladowakej
+set-default-menu-message-row-layout-title-variant = Čińće { -brand-short-name } k swojemu standardnemu wobhladowakej
+set-default-menu-message-row-layout-subtitle = Dóstańće spěšnosć, wěstotu a priwatnosć kóždy raz, hdyž přehladujeće.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a wobchowajće jón w swojim doku.
+       *[other] Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a wobchowajće jón w swojej nadawkej lajsće.
+    }
+set-default-menu-message-primary-button = Jako standard wužiwać
+set-default-menu-message-primary-button-variant = Jako hłowny wobhladowak nastajić
