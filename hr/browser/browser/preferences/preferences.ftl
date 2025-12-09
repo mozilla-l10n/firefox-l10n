@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Reci web stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
 non-technical-privacy-header = Postavke privatnosti web stranice
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -112,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Za aktiviranje dodatak idi na <img data-l10n-name="addons-icon"/> Dodaci u <img data-l10n-name="menu-icon"/> izborniku.
+extension-controlled-enable-2 = Za ponovno uključivanje ovog proširenja posjeti <a data-l10n-name="addons-link">Proširenja i teme</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } upravlja nekim tvojim postavkama početne stranice.
 
 ## Preferences UI Search Results
 
@@ -149,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Upozorava te prilikom zatvaranja preglednika
 disable-extension =
     .label = Onemogući dodatak
+preferences-data-migration-group =
+    .label = Uvezi podatke preglednika
+    .description = Uvezi zabilješke, lozinke, povijest, proširenja i podatke automatskog popunjavanja iz jednog drugog preglednika.
 preferences-data-migration-header = Uvezi podatke preglednika
 preferences-data-migration-description = Uvezi zabilješke, lozinke, povijest i podatke za automatsku ispunu u { -brand-short-name }.
 preferences-data-migration-button =

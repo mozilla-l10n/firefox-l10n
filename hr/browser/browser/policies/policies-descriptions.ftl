@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Aktiviraj automatsko ispunjavanje za adrese.
 policy-AutofillCreditCardEnabled = Aktiviraj automatsko popunjavanje za načine plaćanja.
 policy-AutoLaunchProtocolsFromOrigins = Definiraj popis eksternih protokola koji se mogu koristiti iz navedenih izvora bez da se korisnika pita.
 policy-BackgroundAppUpdate2 = Aktiviraj ili deaktiviraj aktualiziranje u pozadini.
+policy-Backup = Isključi sigurnosno kopiranje ili obnavljanje podataka profila.
 policy-BlockAboutAddons = Blokiraj pristup upravljaču dodataka (about:addons).
 policy-BlockAboutConfig = Blokiraj pristup stranici about:config.
 policy-BlockAboutProfiles = Blokiraj pristup stranici about:profiles.
@@ -79,6 +80,7 @@ policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Aktiviraj ili deaktiviraj automatska aktualiziranja dodataka.
 policy-FirefoxHome2 = Konfiguriraj „{ -firefox-home-brand-name }”.
 policy-FirefoxSuggest = Konfiguriraj „{ -firefox-suggest-brand-name }”.
+policy-GenerativeAI = Konfiguriraj funkcije generativne umjetne inteligencije.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Prisili izravnu navigaciju intranetom umjesto pretraživanja prilikom upisivanja pojedinačnih riječi u adresnu traku.
 policy-Handlers = Postavi standardne rukovatelje aplikacijama.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
@@ -97,6 +99,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro pona
 ##
 
 policy-LocalFileLinks = Dozvoli određenim web stranicama povezivanje na lokalne datoteke.
+policy-LocalNetworkAccess = Uključi ili isključi provjere pristupa lokalnoj mreži.
 policy-ManagedBookmarks = Konfigurira popis zabilješki kojima upravlja administrator, a koje korisnik ne može mijenjati.
 policy-ManualAppUpdateOnly = Dopusti samo ručno aktualiziranje i ne obavještavaj korisnika o novim verzijama.
 policy-PrimaryPassword = Zahtijevaj ili spriječi upotrebu glavne lozinke.

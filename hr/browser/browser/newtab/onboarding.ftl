@@ -485,9 +485,14 @@ create-backup-screen-1-title =
     Sigurnosno kopirajmo tvoje { -brand-product-name } podatke.
 create-backup-screen-1-subtitle = Automatski zaštiti svoje lozinke, zabilješke i još više u roku od jedne do dvije minute.
 create-backup-screen-1-flair = Preporučeno
+create-backup-screen-1-sync-label = Koristi { -brand-product-name } za sinkronizaciju
+create-backup-screen-1-sync-body = Sigurnosno kopira sve prijavljene uređaje
+create-backup-screen-1-backup-label = Sigurnosno kopiraj na računalo
 create-backup-screen-1-backup-body = Sprema na tvoj uređaj ili na OneDrive
 create-backup-select-tile-button-label = Odaberi
 create-backup-back-button-label = Natrag
+create-backup-show-fewer =
+    .label = Prikaži manje ovakvih poruka
 create-backup-screen-2-title = Odaberi { -brand-product-name } podatke za sigurnosno kopiranje
 create-backup-screen-2-subtitle = Traje samo minutu. Tvoji se podaci sigurnosno kopiraju jednom dnevno.
 # Label for the "Easy setup" backup option
@@ -529,6 +534,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Uključene su zabilješke
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Spremljeno na tvoj uređaj
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Lozinke i načini plaćanja nisu uključeni
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Idi na <a data-l10n-name="settings">Postavke</a> za uključivanje osjetljivih podataka.
+fx-backup-confirmation-screen-item-subtext-1 = Sigurnosno kopiranje će započeti za nekoliko minuta i pokretat će se jednom dnevno. Napredak možeš provjeriti u <a data-l10n-name="settings">Postavkama</a>.
 fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } će potražiti tvoju sigurnosnu kopiju, ako moraš ponovo instalirati.
 
 ## Restore from Backup Flow about:welcome screens
@@ -538,6 +544,8 @@ restore-from-backup-secondary-button = Nemoj obnoviti
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-with-checklist-subtitle = Želiš zadržati tvoj omiljen privatni preglednik nadohvat ruke?
+restored-from-backup-success-no-checklist-subtitle = Sigurnosno kopiranje za ovaj uređaj možeš uključiti u <a data-l10n-name="settings">Postavkama</a>.
 restored-from-backup-success-with-checklist-primary-button = Spremi i nastavi
 restored-from-backup-success-with-checklist-secondary-button = Preskoči ovaj korak
 restored-from-backup-success-no-checklist-primary-button = Nastavi
@@ -549,9 +557,12 @@ restored-from-backup-error-primary-button = Zatvori
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Prilagodi svoje { -brand-short-name } iskustvo
+onboarding-personalization-subtitle = Odgovori na nekoliko pitanja i predložit ćemo ti funkcije i proširenja koja će poboljšati tvoje korištenje preglednika { -brand-short-name }.
+onboarding-personalization-use-case-title = Za što ćeš koristiti { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Osobno
 onboarding-personalization-use-case-school-option = Škola
 onboarding-personalization-use-case-work-option = Posao
+onboarding-personalization-motivation-title = Koje { -brand-short-name } funkcije su ti najvažnije?
 onboarding-personalization-motivation-privacy-option = Privatnost i sigurnost
 onboarding-personalization-motivation-productivity-option = Produktivnost
 onboarding-personalization-motivation-other-option = Drugo
