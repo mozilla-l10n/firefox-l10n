@@ -272,6 +272,9 @@ update-application-use-service =
     .label = হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
@@ -439,6 +442,10 @@ search-keyword-warning-title = কীওয়ার্ড ইতোমধ্যে
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে "{ $name }" ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
 search-keyword-warning-bookmark = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে একটি বুকমার্ক ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
+search-engine-group =
+    .label = ডিফল্ট অনুসন্ধান ইঞ্জিন
+search-default-engine =
+    .aria-label = ডিফল্ট অনুসন্ধান ইঞ্জিন
 
 ## Containers Section
 
