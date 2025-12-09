@@ -48,6 +48,11 @@ about-glean-label-for-ping-names =
     Inače, zadana vrijednost za metrike <code>events</code> je
     ping <code>events</code>, a zadana vrijednost za sve ostale metrike je
     ping <code>metrics</code>.
+about-glean-profiler-explanation =
+    Za potpuni prikaz svih zabilježenih metrika možeš koristiti { -profiler-brand-name }.
+    Najprije <a data-l10n-name="firefox-profiler-link">snimi profil performansi</a>.
+    Nakon snimanja profila odaberi <q>Dijagram markera</q> i pogledaj markere u odjeljku <q>Telemetrija</q>.
+about-glean-profiler-explanation-profiler = U profilu performansi možeš vidjeti sve prikupljene metrike, kada su prikupljene i koje su vrijednosti prikupljene. Zadržavanjem pokazivača miša iznad pojedinačnih markera može provjeriti je li prikupljena ispravna vrijednost i je li se prikupljanje dogodilo u pravo vrijeme.
 controls-button-label-verbose = Primijeni postavke i pošalji ping
 about-glean-feedback-settings-only =
     .message = Postavke su primijenjene!
@@ -58,9 +63,9 @@ about-glean-about-data-list-item-about-telemetry =
     Za pregledavanje podataka koji se prikupljaju starom telemetrijom, pogledaj
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-firefox-profiler =
-    Za snimanje profila performansi i pregled svih zabilježenih metričnih podataka, koristi
+    Za snimanje profila performansi i pregled svih zabilježenih metrika, koristi
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
-about-glean-metrics-table-header = Svi metrički podaci
+about-glean-metrics-table-header = Sve metrike
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategorija
 # This message refers to the name of a given metric.
@@ -72,6 +77,8 @@ about-glean-metrics-table-header-value = Vrijednost
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Radnje
 about-glean-metrics-table-settings-button = Postavke
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Postavke tablice metrika
 about-glean-metrics-table-settings-category-general = Opće
 about-glean-metrics-table-settings-category-visualizations = Vizualizacije
 # This is a heading that is immediately followed by an example data visualization
@@ -87,4 +94,8 @@ about-glean-button-load-value = Učitaj
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentacije
 about-glean-no-data-to-display = Nema podataka za prikaz.
+# Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> metrike još nisu podržane u prikazu <code>about:glean</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Označene metrike još nisu podržane u prikazu <code>about:glean</code>.
 about-glean-about-data-explanation = Za pregledavanje popisa prikupljenih podataka, pogledaj<a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }Rječnik</a>.
