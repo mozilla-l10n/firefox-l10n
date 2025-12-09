@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = 소프트웨어를 설치하거나 비�
 safeb-blocked-malware-page-short-desc = 컴퓨터의 개인 정보를 훔치거나 지울 수 있는 악성 코드를 설치할 수 있기 때문에 { -brand-short-name }가 페이지를 차단했습니다.
 safeb-blocked-unwanted-page-short-desc = 탐색 경험을 해칠 수 있는 프로그램을 설치하도록 속일 수 있기 때문(예를 들어 첫페이지를 바꾸거나 방문한 사이트에 광고를 추가)에 { -brand-short-name }가 이 페이지를 차단했습니다.
 safeb-blocked-harmful-page-short-desc = 사용자 정보(예를 들어 사진, 비밀번호, 메시지, 신용 카드)를 훔치거나 지울 수 있는 위험한 앱을 설치할 수 있기 때문에 { -brand-short-name }가 이 페이지를 차단했습니다.
+safeb-blocked-addon-page-short-desc = 부가 기능 중 하나가 이 페이지를 열려고 했기 때문에 { -brand-short-name }가 이 페이지를 차단했습니다. 이 사이트는 비밀번호나 신용카드 번호와 같은 정보를 탈취하는 데 사용될 수 있습니다.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>의 자문을 받음
@@ -63,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'>supp
 safeb-palm-notdeceptive =
     .label = 이 사이트는 가짜 사이트가 아닙니다…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>이 사이트가 차단된 이유는 무엇인가요?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> 사이트가 사기성 및 유해 활동에 연관될 수 있습니다.
+safeb-blocked-addon-page-error-desc3-override = <strong>사용자가 무엇을 할 수 있나요?</strong>
+safeb-blocked-addon-page-error-desc4-override = 이런 일이 다시 발생하지 않게 하려면 about:addons에서 <strong>{ $addonName }</strong> 부가 기능을 제거하거나 비활성화할 수 있습니다.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>{ -brand-short-name }의 피싱과 악성코드 방지에 대해 더 알아보세요</a>.

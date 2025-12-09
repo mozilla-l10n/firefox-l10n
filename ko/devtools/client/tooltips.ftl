@@ -21,6 +21,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = 플렉스 컨테
 inactive-css-not-multicol-container = 다중 열 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-column-span = 다중 열 컨테이너 내에 있지 않기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 확장 효과가 없습니다.
 inactive-css-not-grid-or-flex-item = 그리드 또는 플렉스 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = 그리드 또는 플렉스 항목도 아니고 절대 위치 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-grid-item = 그리드 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-grid-container = 그리드 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-flex-item = 플렉스 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
