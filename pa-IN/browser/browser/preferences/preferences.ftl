@@ -556,6 +556,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
@@ -860,6 +863,10 @@ edit-engine-name-warning-duplicate = “{ $name }” ਨਾਂ ਨਾਲ ਇੱ�
 remove-engine-confirmation = ਕੀ ਤੁਸੀਂ ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 remove-engine-remove = ਹਟਾਓ
 remove-addon-engine-alert = ਇਸ ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾਉਣ ਲਈ, ਸੰਬੰਧਿਤ ਐਡ-ਆਨ ਨੂੰ ਹਟਾਓ।
+search-engine-group =
+    .label = ਮੂਲ ਖੋਜ ਇੰਜਣ
+search-default-engine =
+    .aria-label = ਮੂਲ ਖੋਜ ਇੰਜਣ
 
 ## Containers Section
 
