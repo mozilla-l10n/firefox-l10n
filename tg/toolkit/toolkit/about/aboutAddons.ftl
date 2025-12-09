@@ -172,6 +172,8 @@ extensions-warning-update-security-button = Фаъол кардан
 extensions-warning-imported-addons2 =
     .message = Лутфан, насби васеъшавиҳоеро, ки ба «{ -brand-short-name }» ворид карда шудаанд, ба анҷом расонед.
 extensions-warning-imported-addons-button = Насби васеъшавиҳо
+extensions-warning-safe-mode3 =
+    .message = Ҳамаи ҷузъҳои иловагӣ тавассути «Реҷаи ислоҳи нуқсонҳо» ғайрифаъол карда шудаанд.
 
 ## Strings connected to add-on updates
 
@@ -532,6 +534,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Маълумоти бештар
 details-notification-blocked = Ба сабабҳои мушкилиҳои амниятӣ ё ноустувории кор, { $name } ғайрифаъол карда шуд.
 details-notification-blocked-link2 = Дидани тафсилот
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Ин васеъшавӣ маҳдуд шудааст ва ҳам ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Ин васеъшавӣ маҳдуд шудааст. Истифодаи он метавонад хатарнок бошад.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Ин ҷузъи иловагӣ маҳдуд шудааст ва пас ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Ин ҷузъи иловагӣ маҳдуд шудааст. Истифодаи он метавонад хатарнок бошад.
 details-notification-soft-blocked-extension-disabled =
     .message = Ин васеъшавӣ ба сабаби вайрон кардани сиёсатҳои «Mozilla» маҳдуд карда шуд ва ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
 details-notification-soft-blocked-extension-enabled =

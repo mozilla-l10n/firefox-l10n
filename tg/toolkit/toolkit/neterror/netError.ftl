@@ -171,3 +171,11 @@ neterror-response-status-code = Рамзи хато: { $responsestatus } { $resp
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Чунин ба назар мерасад, ки дар пайвасти Интернети шумо мушкилӣ ба миён омад
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-offline-intro = Браузери «{ -brand-short-name }» наметавонад, ки ба сервер дар нишонии <strong>{ $hostname }</strong> пайваст шавад
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Чунин ба назар мерасад, ки ин сомона нармафзори куҳнаро бо мушкилиҳои маълуми амниятӣ истифода мебарад.
+fp-neterror-offline-what-can-you-do-body = Кӯшиш кунед, ки дар дастгоҳи дигар пайваст шавед. Модем ё роутери худро тафтиш кунед. Пайвастшавии «Wi-Fi»-ро қатъ карда, аз нав пайваст шавед.
