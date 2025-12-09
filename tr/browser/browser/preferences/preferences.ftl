@@ -551,6 +551,9 @@ update-in-progress-ok-button = &Vazgeç
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performans
@@ -855,6 +858,10 @@ edit-engine-name-warning-duplicate = “{ $name }” adında bir arama motoru za
 remove-engine-confirmation = Bu arama motorunu silmek istediğinizden emin misiniz?
 remove-engine-remove = Sil
 remove-addon-engine-alert = Bu arama motorunu silebilmek için ilgili eklentiyi kaldırın.
+search-engine-group =
+    .label = Varsayılan arama motoru
+search-default-engine =
+    .aria-label = Varsayılan arama motoru
 
 ## Containers Section
 
