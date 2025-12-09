@@ -16,6 +16,7 @@ customkeys-reset-all-confirm = Stvarno želiš resetirati sve tipkovne prečace 
 customkeys-history-reopen-tab = Ponovo otvori zadnju zatvorenu karticu
 customkeys-history-reopen-window = Ponovno otvori zadnji zatvoreni prozor
 customkeys-dev-tools = Alati za web programere
+customkeys-dev-webconsole = Web konzola
 customkeys-dev-performance = Performanse
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Pristupačnost

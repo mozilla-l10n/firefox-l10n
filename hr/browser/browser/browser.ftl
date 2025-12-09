@@ -1370,6 +1370,16 @@ popup-warning-message =
         [few] { -brand-short-name } je spriječio otvaranje { $popupCount } skočna prozora na ovoj stranici.
        *[other] { -brand-short-name } je spriječio otvaranje { $popupCount } skočnih prozora na ovoj stranici.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } je spriječio preusmjeravanje ove web-stranice.
+        [1] { -brand-short-name } je spriječio otvaranje skočnog prozora i preusmjeravanje ove web-stranice.
+        [one] { -brand-short-name } je spriječio otvaranje { $popupCount } skočnog prozora i preusmjeravanje ove web-stranice.
+        [few] { -brand-short-name } je spriječio otvaranje { $popupCount } skočna prozora i preusmjeravanje ove web-stranice.
+       *[other] { -brand-short-name } je spriječio otvaranje { $popupCount } skočnih prozora i preusmjeravanje ove web-stranice.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1444,6 +1454,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } smatra da bi te tv
 trustpanel-connection-label-secure = Veza je sigurna
 trustpanel-connection-label-insecure = Veza nije sigurna
 trustpanel-header-enabled = { -brand-product-name } stražari
+trustpanel-description-enabled2 = Zaštićen/a si. Ako nešto uočimo, javit ćemo ti.
+trustpanel-header-enabled-insecure = Oprez na ovoj stranici
+trustpanel-description-enabled-insecure = { -brand-product-name } je primijetio nešto sumnjivo.
 trustpanel-header-disabled = Isključio/la si zaštitu
 trustpanel-description-disabled = { -brand-product-name } nije uključen. Predlažemo da ponovo uključiš zaštitu.
 trustpanel-clear-cookies-button = Izbriši kolačiće i podatke stranica
@@ -1495,3 +1508,84 @@ trustpanel-list-label-tracking-cookies =
        *[other] { $count } međustraničnih kolačića za praćenje
     }
 trustpanel-list-label-tracking-content = Sadržaj praćenja
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } prikupljač digitalnih otisaka
+        [few] { $count } prikupljača digitalnih otisaka
+       *[other] { $count } prikupljača digitalnih otisaka
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } program za praćenje od društvenih mreža
+        [few] { $count } programa za praćenje od društvenih mreža
+       *[other] { $count } programa za praćenje od društvenih mreža
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } kripto-rudar
+        [few] { $count } kripto-rudara
+       *[other] { $count } kripto-rudara
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je blokirao { $count } program za praćenje od društvenih mreža
+        [few] { -brand-product-name } je blokirao { $count } programa za praćenje od društvenih mreža
+       *[other] { -brand-product-name } je blokirao { $count } programa za praćenje od društvenih mreža
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dopustio izvršavanje { $count } programa za praćenje od društvenih mreža
+        [few] { -brand-product-name } je dopustio izvršavanje { $count } programa za praćenje od društvenih mreža
+       *[other] { -brand-product-name } je dopustio izvršavanje { $count } programa za praćenje od društvenih mreža
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je blokirao { $count } međustranični kolačić za praćenje
+        [few] { -brand-product-name } je blokirao { $count } međustranična kolačića za praćenje
+       *[other] { -brand-product-name } je blokirao { $count } međustraničnih kolačića za praćenje
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dopustio { $count } međustranični kolačić za praćenje
+        [few] { -brand-product-name } je dopustio { $count } međustranična kolačića za praćenje
+       *[other] { -brand-product-name } je dopustio { $count } međustraničnih kolačića za praćenje
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je blokirao { $count } program za praćenje
+        [few] { -brand-product-name } je blokirao { $count } programa za praćenje
+       *[other] { -brand-product-name } je blokirao { $count } programa za praćenje
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dopustio { $count } program za praćenje
+        [few] { -brand-product-name } je dopustio { $count } programa za praćenje
+       *[other] { -brand-product-name } je dopustio { $count } programa za praćenje
+    }
+trustpanel-tracking-content-tab-list-header = Ove te web-stranice pokušavaju pratiti:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je blokirao { $count } prikupljača digitalnih otisaka
+        [few] { -brand-product-name } je blokirao { $count } prikupljača digitalnih otisaka
+       *[other] { -brand-product-name } je blokirao { $count } prikupljača digitalnih otisaka
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dopustio { $count } prikupljača digitalnih otisaka
+        [few] { -brand-product-name } je dopustio { $count } prikupljača digitalnih otisaka
+       *[other] { -brand-product-name } je dopustio { $count } prikupljača digitalnih otisaka
+    }
+trustpanel-fingerprinter-list-header = Ove web-stranice pokušavaju prikupiti tvoj digitalni otisak:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je blokirao { $count } kripto-rudara
+        [few] { -brand-product-name } je blokirao { $count } kripto-rudara
+       *[other] { -brand-product-name } je blokirao { $count } kripto-rudara
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } je dopustio { $count } kripto-rudara
+        [few] { -brand-product-name } je dopustio { $count } kripto-rudara
+       *[other] { -brand-product-name } je dopustio { $count } kripto-rudara
+    }
+trustpanel-cryptominer-tab-list-header = Ove web-stranice pokušavaju rudariti kriptovalute:
