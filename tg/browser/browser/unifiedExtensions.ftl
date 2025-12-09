@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Маълумоти беш�
 unified-extensions-mb-about-addons-link = Гузариш ба танзимоти васеъшавӣ
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = «{ $extensionName }» ғайрифаъол шуд
+    .message =
+        Ин васеъшавӣ маҳдуд шудааст ва ҳам ғайрифаъол шудааст.
+        Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = «{ $extensionName }» ғайрифаъол шуд
     .message = Ин васеъшавӣ сиёсати «Mozilla»-ро вайрон мекунад ва ғайрифаъол шудааст. Шумо метавонед онро дар танзимот фаъол созед, аммо ин метавонад хатарнок бошад.
@@ -73,6 +80,14 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = «{ $extensionName }» ғайрифаъол шуд
     .message = Ин васеъшавӣ сиёсати «Mozilla»-ро вайрон мекунад ва ғайрифаъол шудааст.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
+        }
+    .message = Баъзе васеъшавиҳои шумо маҳдуд ва ғайрифаъол шудаанд. Шумо метавонед онҳоро фаъол созед, аммо ин метавонад хатарнок бошад.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
@@ -89,3 +104,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
         }
     .message = Баъзе аз васеъшавиҳои шумо сиёсати «Mozilla»-ро вайрон мекунанд ва ғайрифаъол карда шудаанд.
+unified-extensions-notice-safe-mode =
+    .message = Ҳамаи васеъшавиҳо тавассути «Реҷаи ислоҳи нуқсонҳо» ғайрифаъол карда шудаанд.
