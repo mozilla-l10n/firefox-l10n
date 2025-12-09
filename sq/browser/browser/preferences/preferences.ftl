@@ -530,6 +530,9 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Punim
@@ -830,6 +833,10 @@ edit-engine-name-warning-duplicate = Ka tashmë një motor kërkimesh me emrin �
 remove-engine-confirmation = Jeni i sigurt se doni të hiqet ky motor kërkimesh?
 remove-engine-remove = Hiqe
 remove-addon-engine-alert = Që të hiqet ky motor kërkimesh, hiqni shtesën përkatëse.
+search-engine-group =
+    .label = Motor Parazgjedhje Kërkimesh
+search-default-engine =
+    .aria-label = Motor Parazgjedhje Kërkimesh
 
 ## Containers Section
 
