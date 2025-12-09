@@ -524,6 +524,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -632,6 +635,9 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -778,6 +784,10 @@ edit-engine-name-warning-duplicate = Već postoji pretraživač s nazivom “{ $
 remove-engine-confirmation = Jeste li sigurni da želite ukloniti ovaj pretraživač?
 remove-engine-remove = Ukloni
 remove-addon-engine-alert = Da biste uklonili ovu tražilicu, uklonite povezani dodatak.
+search-engine-group =
+    .label = Glavni pretraživač
+search-default-engine =
+    .aria-label = Glavni pretraživač
 
 ## Containers Section
 
