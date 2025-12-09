@@ -6,8 +6,8 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Upravljaj kolačićima i podacima web stranica
-site-data-settings-description = Sljedeće stranice spremaju kolačiće i podatke web stranice na tvom računalu. { -brand-short-name } čuva podatke od web stranica koje ih trajno spremaju, sve dok ih ne izbrišeš i briše podatke od stranica koje ne spremaju podatke trajno, ako nema dovoljno memorije.
+    .title = Upravljaj kolačićima i podacima web-stranica
+site-data-settings-description = Sljedeće web-stranice spremaju kolačiće i podatke web stranice na tvom računalu. { -brand-short-name } čuva podatke web-stranica koje ih trajno spremaju, sve dok ih ne izbrišeš i briše podatke od web-stranica koje ne spremaju podatke trajno, ako nema dovoljno memorije.
 site-data-search-textbox =
     .placeholder = Traži web stranice
     .accesskey = s
@@ -47,8 +47,8 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Ukloni
 site-data-removing-header = Uklanjanje kolačića i podataka web stranice
-site-data-removing-desc = Uklanjanje kolačića i podataka web stranica će te možda odjaviti s web stranica. Stvarno želiš napraviti promjene?
+site-data-removing-desc = Uklanjanje kolačića i podataka web-stranica će te možda odjaviti s web-stranica. Stvarno želiš napraviti promjene?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
-site-data-removing-single-desc = Uklanjanje kolačića i podataka web stranica vas može odjaviti s web stranice. Jeste li sigurni da želite ukloniti kolačiće i podatke web stranice za <strong>{ $baseDomain }</strong>?
-site-data-removing-table = Kolačići i podaci web stranica će se ukloniti za sljedeće stranice
+site-data-removing-single-desc = Uklanjanje kolačića i podataka web-stranica te može odjaviti s web-stranice. Stvarno želiš ukloniti kolačiće i podatke web-stranice za <strong>{ $baseDomain }</strong>?
+site-data-removing-table = Kolačići i podaci web-stranica će se ukloniti za sljedeće web-stranice
