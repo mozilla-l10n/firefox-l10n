@@ -275,6 +275,7 @@ tab-group-editor-color-selector2-gray = Siva
 tab-group-editor-color-selector2-red = Crvena
     .title = Crvena
 tab-group-description = { $tabGroupName } – Grupa kartica
+tab-group-label-tooltip-expanded = { $tabGroupName } – Prošireno
 tab-context-unnamed-group =
     .label = Neimenovana grupa
 tab-group-name-default = Neimenovana grupa

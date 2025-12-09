@@ -614,6 +614,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktiviraj video kontrole za „Slika-u-slici”
     .accesskey = O
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Nastavi reproducirati videa u modusu „Slika-u-slici” prilikom prelaženja po karticama
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Saznaj više
 browsing-media-control =
     .label = Upravljaj medijskim sadržajem pomoću tipkovnice, slušalica ili virtualnog sučelja
@@ -1128,13 +1131,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Automatski ispuni korisnička imena i lozinke
     .accesskey = A
+forms-fill-usernames-and-passwords-2 =
+    .label = Spremi i automatski popuni korisnička imena i lozinke
+    .accesskey = a
 forms-saved-passwords =
     .label = Spremljene lozinke
     .accesskey = p
+forms-saved-passwords-2 =
+    .label = Upravljaj spremljenim lozinkama
+    .accesskey = l
 forms-saved-passwords-searchkeywords = Prijave za sljedeće stranice su spremljene na tvom računalu
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Dodatne zaštite
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = u
+forms-primary-pw-set =
+    .label = Postavi primarnu lozinku
+forms-primary-pw-on =
+    .label = Primarna lozinka je UKLJUČENA
+forms-primary-pw-change-2 =
+    .label = Promijeni primarnu lozinku
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Isključi
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Zatraži prijavu uređajem za ispunjavanje i upravljanje lozinkama
@@ -1209,9 +1230,11 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Zahtijevaj prijavu uređajem za automatsko popunjavanje i upravljanje načinima plaćanja
     .accesskey = o
+autofill-payment-methods-add-button = Dodaj novi način plaćanja
 payments-list-header =
     .label = Načini plaćanja
 payments-list-item-label = <strong>Načini plaćanja</strong>
+payments-remove-payment-prompt-title = Ukloniti ovaj način plaćanja?
 payments-remove-payment-prompt-confirm-button = Ukloni
 payments-remove-payment-prompt-cancel-button = Odustani
 autofill-addresses-title = Adrese i više
@@ -1223,6 +1246,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Upravljaj adresama i još više
     .accesskey = U
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1260,6 +1291,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } će koristiti iste postavke kao i za privatno pregledavanje, te neće pamtiti povijest pregledavanja.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name } će koristiti prilagođene postavke za tvoju povijest pregledavanja, preuzimanja, ispunjavanja obrazaca i pretraživanja.
 history-remember-description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pregledavanje, te neće pamtiti povijest pregledavanja.
 history-private-browsing-permanent =
@@ -1284,7 +1318,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kolačići i podaci web stranice
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Izračunavanje količine podataka web stranice i predmemorije …
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Tvoji spremnljeni kolačići, povijest, podaci web-stranica i predmemorija trenutačno zauzimaju <strong>{ $value } { $unit }</strong> na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1311,6 +1351,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Međustranični programi za praćenje
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Međustranični kolačići za praćenje
+sitedata-option-block-cross-site-cookies2 =
+    .label = Izoliraj međustranične kolačiće
 sitedata-option-block-cross-site-cookies =
     .label = Međustranični kolačići za praćenje i izoliranje drugih međustraničnih kolačića
 sitedata-option-block-unvisited =
@@ -1319,6 +1361,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Svi međustranični kolačići (može uzrokovati neispravno učitavanje web stranice)
 sitedata-option-block-all =
     .label = Sve kolačiće (uzrokovat će greške na stranicama)
+sitedata-clear2 =
+    .label = Izbriši podatke pregledavanja
+    .accesskey = I
+sitedata-settings2 =
+    .label = Upravljaj podacima pregledavanja
+    .accesskey = U
 sitedata-clear =
     .label = Izbriši podatke …
     .accesskey = I
@@ -1351,6 +1399,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresna traka
+addressbar-suggest-1 = Odaberi prijedloge koji će se prikazati u adresnoj traci
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = { -brand-short-name } prijedlozi i prijedlozi naših partnera u tvojoj adresnoj traci.
 addressbar-suggest = Pri korištenju adresne trake, predloži
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresna traka – { -firefox-suggest-brand-name }
@@ -1378,6 +1431,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Najbolje stranice
     .accesskey = N
+addressbar-locbar-engines-option-1 =
+    .label = Predloži tražilice koje će se koristiti
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Tražilice
     .accesskey = a
@@ -1402,6 +1458,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Dobij prijedloge s weba koji se od
 addressbar-locbar-suggest-sponsored-option =
     .label = Prijedlozi od sponzora
 addressbar-locbar-suggest-sponsored-desc = Podrži { -brand-short-name } s povremenim sponzoriranim prijedlozima.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Dohvaćaj Mozilla prijedloge dok tipkaš
 addressbar-quickactions-learn-more = Saznaj više
 addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
 addressbar-restore-dismissed-suggestions-description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
@@ -1443,6 +1507,7 @@ content-blocking-private-windows = Sadržaj za praćenje u privatnim prozorima
 content-blocking-cross-site-cookies-in-all-windows2 = Međustranični kolačići u svim prozorima
 content-blocking-cross-site-tracking-cookies = Međustranični kolačići za praćenje
 content-blocking-all-cross-site-cookies-private-windows = Međustranični kolačići u privatnim prozorima
+content-blocking-isolate-cross-site-cookies = Izoliraj međustranične kolačiće
 content-blocking-cross-site-tracking-cookies-plus-isolate = Međustranični kolačići za praćenje i izoliranje preostalih kolačića
 content-blocking-social-media-trackers = Programi za praćenje od društvenih mreža
 content-blocking-all-cookies = Sve kolačiće
@@ -1463,6 +1528,8 @@ content-blocking-etp-standard-tcp-rollout-description = Potpuna zaštita kolači
 content-blocking-etp-standard-tcp-rollout-learn-more = Saznaj više
 content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića, našu najmoćniju funkciju za privatnost ikada
 content-blocking-warning-title = Upozorenje!
+content-blocking-warning-title-2 = Stroga zaštita od praćenja može pokvariti neke web-stranice
+content-blocking-warning-title-custom = Prilagođena zaštita od praćenja može pokvariti neke web-stranice
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } preporučuje korištenje postavke „Ispravljanje problema s web-stranicama” kako bi se smanjio broj neispravnih funkcija web-stranica i sadržaja. Ako neka stranica izgleda neispravno, pokušaj isključiti zaštitu od praćenja za tu stranicu kako bi se učitao sav sadržaj.
 content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
@@ -1474,7 +1541,10 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Ispravi manje problema s web-stranicama
     .description = Vraća stvari poput videa u člancima ili odjeljcima  komentara tako što odblokira elemente koji možda sadrže programe za praćenje. Ovo može smanjiti broj problema s web-stranicama, ali smanjuje zaštitu. Mora se koristiti zajedno s ispravljanjem velikih problema.
+content-blocking-baseline-uncheck-warning-dialog-title = Stvarno želiš isključiti ispravke?
 content-blocking-baseline-uncheck-warning-dialog-body = Ova postavka pomaže pri ispravljanju najčešćih problema s web-stranicama. Ako ju isključiš, neke web-stranice možda neće raditi i { -brand-short-name } neće moći pomoći pri rješavanju tih problema.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Isključi ispravke
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Zadrži ispravke uključeno
 content-blocking-reload-description = Morat ćeš ponovo učitati svoje kartice, kako bi se ove promjene primijenile.
 content-blocking-reload-tabs-button =
     .label = Ponovo učitaj sve kartice
@@ -1529,6 +1599,7 @@ permissions-location = Mjesto
 permissions-location-settings =
     .label = Postavke …
     .accesskey = t
+permissions-localhost = Aplikacije uređaja i usluge
 permissions-localhost-settings =
     .label = Postavke …
     .accesskey = t
