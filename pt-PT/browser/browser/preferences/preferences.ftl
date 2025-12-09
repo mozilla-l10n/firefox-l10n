@@ -521,6 +521,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -629,6 +632,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -774,6 +780,10 @@ edit-engine-name-warning-duplicate = Já existe um motor de pesquisa com o nome 
 remove-engine-confirmation = Tem a certeza de que pretende remover este motor de pesquisa?
 remove-engine-remove = Remover
 remove-addon-engine-alert = Para remover este motor de pesquisa, remova o extra associado.
+search-engine-group =
+    .label = Motor de pesquisa predefinido
+search-default-engine =
+    .aria-label = Motor de pesquisa predefinido
 
 ## Containers Section
 
