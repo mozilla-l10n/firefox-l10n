@@ -565,6 +565,9 @@ update-in-progress-ok-button = &Zaćisnyć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Wukon
@@ -874,6 +877,10 @@ edit-engine-name-warning-duplicate = Je hižo pytawa z mjenom „{ $name }“. P
 remove-engine-confirmation = Chceće woprawdźe tutu pytawu wotstronić?
 remove-engine-remove = Wotstronić
 remove-addon-engine-alert = Zo byšće tutu pytawu wotstronił, wotstrońće zwjazany přidatk.
+search-engine-group =
+    .label = Standardna pytawa
+search-default-engine =
+    .aria-label = Standardna pytawa
 
 ## Containers Section
 
