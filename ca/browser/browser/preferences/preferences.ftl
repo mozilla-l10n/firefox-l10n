@@ -470,6 +470,9 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -576,6 +579,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -699,6 +705,10 @@ search-keyword-warning-title = Duplica la paraula clau
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Heu triat una paraula clau que ja utilitza «{ $name }». Seleccioneu-ne una altra.
 search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interès. Seleccioneu-ne una altra.
+search-engine-group =
+    .label = Motor de cerca per defecte
+search-default-engine =
+    .aria-label = Motor de cerca per defecte
 
 ## Containers Section
 
