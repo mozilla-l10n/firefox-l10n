@@ -586,8 +586,8 @@ pdfjs-editor-add-signature-draw-thickness-range =
 pdfjs-editor-add-signature-image-placeholder = Pro nahrání přetáhněte soubor sem
 pdfjs-editor-add-signature-image-browse-link =
     { PLATFORM() ->
-        [macos] Nebo vyberte soubory s obrázky
-       *[other] Nebo vyberte soubory s obrázky
+        [macos] Nebo vyberte soubory obrazu
+       *[other] Nebo vyberte soubory obrazu
     }
 
 ## Controls
