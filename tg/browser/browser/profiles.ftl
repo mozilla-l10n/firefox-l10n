@@ -65,6 +65,7 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Нусхаи «{ $profilename }»-и шумо барои танзим омода аст
+copied-profile-page-header-description = Мо маълумот ва танзимоти шуморо ба профили нав нусха бардоштем. Акнун, ба он ном диҳед, намуди зоҳирии онро интихоб кунед ва онро ба ихтиёри худ мутобиқ созед.
 profile-window-title-2 = { -brand-short-name } - Профилеро интихоб намоед
 profile-window-logo =
     .alt = Ангораи «{ -brand-short-name }»
@@ -269,6 +270,8 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Иваз кардани минтақаи буриш
 profiles-appmenu-callout-tour-title = Профили нави шумо барои истифода мувофиқ аст
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = Дар меню аз рӯйи аломати ☰, номи профили худро зер карда, профили дигареро кушоед, ҳамин профилро таҳрир кунед ё байни ҳаётҳои рақамии худ гузаред.
 profiles-appmenu-callout-tour-primary-button = Нишон диҳед, ки чӣ тавр
 barbell-avatar = Вазна
 bike-avatar = Дучарха
