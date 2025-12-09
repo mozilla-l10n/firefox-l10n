@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Ytelse
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Det finnes allerede en søkemotor med navne
 remove-engine-confirmation = Er du sikker på at du vil fjerne denne søkemotoren?
 remove-engine-remove = Fjern
 remove-addon-engine-alert = For å fjerne denne søkemotoren, fjern det tilknyttede tillegget.
+search-engine-group =
+    .label = Standard søkemotor
+search-default-engine =
+    .aria-label = Standard søkemotor
 
 ## Containers Section
 
