@@ -28,7 +28,7 @@ permissions-button-off-temporarily =
     .label = Isključi privremeno
     .accesskey = I
 permissions-site-name =
-    .label = Web stranica
+    .label = Web-stranica
 permissions-status =
     .label = Stanje
 permissions-remove =
@@ -153,7 +153,7 @@ permissions-site-location-window2 =
 permissions-site-location-desc = Sljedeće web-stranice su zatražile pristup tvom mjestu. Možeš navesti web-stranice kojima dozvoljavaš pristup tvom mjestu. Također možeš blokirati nove zahtjeve koji traže pristup tvom mjestu.
 permissions-site-location-disable-label =
     .label = Blokiraj nove zahtjeve za pristup tvom mjestu
-permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa tvom mjestu za svaku stranicu koja gore nije navedena. Blokiranje pristupa tvom mjestu može pokvariti neke funkcije web stranica.
+permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa tvom mjestu za svaku seb-stranicu koja gore nije navedena. Blokiranje pristupa tvom mjestu može pokvariti neke funkcije web stranica.
 
 ## Site Permissions - Virtual Reality
 
@@ -206,7 +206,7 @@ permissions-site-speaker-window =
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Sljedeće web stranice su zatražila biranje izlaznog audio uređaja. Možeš odrediti web stranice koje smiju odabrati izlazni audio uređaj.
 permissions-exceptions-doh-window =
-    .title = Iznimke web stranica za DNS preko HTTPS
+    .title = Iznimke web-stranica za DNS preko HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } neće koristiti sigurni DNS na ovim stranicama i njihovim podstranicama.
 permissions-doh-entry-field = Upiši ime domene web stranice

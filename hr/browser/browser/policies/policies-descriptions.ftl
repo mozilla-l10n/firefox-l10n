@@ -88,7 +88,7 @@ policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzan
 policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
 policy-HttpAllowlist = Izvori koji se neće nadograditi na HTTPS.
 policy-HttpsOnlyMode = Dozvoli da se aktivira samo HTTPS način.
-policy-InstallAddonsPermission = Dozvoli određenim web stranicama instalirati dodatke.
+policy-InstallAddonsPermission = Dozvoli određenim web-stranicama instalirati dodatke.
 policy-LegacyProfiles = Deaktiviraj funkciju koja nameće zaseban profil za svaku instalaciju.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -98,7 +98,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro pona
 
 ##
 
-policy-LocalFileLinks = Dozvoli određenim web stranicama povezivanje na lokalne datoteke.
+policy-LocalFileLinks = Dozvoli određenim web-stranicama povezivanje na lokalne datoteke.
 policy-LocalNetworkAccess = Uključi ili isključi provjere pristupa lokalnoj mreži.
 policy-ManagedBookmarks = Konfigurira popis zabilješki kojima upravlja administrator, a koje korisnik ne može mijenjati.
 policy-ManualAppUpdateOnly = Dopusti samo ručno aktualiziranje i ne obavještavaj korisnika o novim verzijama.
@@ -120,7 +120,7 @@ policy-PostQuantumKeyAgreementEnabled = Aktiviraj postkvantni dogovor ključa za
 policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name(case: "loc") }.
 policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-PictureInPicture = Aktiviraj ili deaktiviraj funkciju „Slika-u-slici”.
-policy-PopupBlocking = Dozvoli određenim web stranicama prikazivanje skočnih prozora.
+policy-PopupBlocking = Dozvoli određenim web-stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
 policy-PrivateBrowsingModeAvailability = Postavi dostupnost modusa privatnog pregledavanja.
 policy-PromptForDownloadLocation = Pitaj gdje spremati datoteke prilikom preuzimanja.
@@ -139,11 +139,11 @@ policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
 policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremenu lokaciju umjesto u standardnu mapu za preuzimanje.
 policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik pomoći.
-policy-TranslateEnabled = Aktiviraj ili deaktiviraj prevođenje web stranica.
+policy-TranslateEnabled = Uključi ili isključi prevođenje web stranica.
 policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 policy-UseSystemPrintDialog = Ispiši pomoću dijaloškog prozora sustava …
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Blokiraj posjećivanje web stranica. Prouči dokumentaciju za daljnje detalje o formatu.
+policy-WebsiteFilter = Blokiraj posjećivanje web-stranica. Prouči dokumentaciju za daljnje detalje o formatu.
 policy-Windows10SSO = Dozvoli jednokratnu prijavu na Windows za Microsoftove, poslovne i školske račune.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Dozvoli jednokratnu prijavu na Windows za Microsoft Entra račune.

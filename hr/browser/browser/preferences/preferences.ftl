@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Šalji web stranicama signal „Ne prati me”, da ne želiš da te prate
+do-not-track-description = Šalji web-stranicama signal „Ne prati me”, da ne želiš da te prate
 do-not-track-removal = Više ne podržavamo signal „Ne prati”
 do-not-track-learn-more = Saznaj više
 do-not-track-option-default-content-blocking-known =
@@ -10,7 +10,7 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Uvijek
 global-privacy-control-description =
-    .label = Reci web stranicama da ne prodaju ili dijele moje podatke
+    .label = Reci web-stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
 non-technical-privacy-header = Postavke privatnosti web stranice
 non-technical-privacy-label =
@@ -298,7 +298,7 @@ browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s tele
 
 language-and-appearance-header = Jezik i izgled
 preferences-web-appearance-header = Izgled web stranice
-preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
+preferences-web-appearance-description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-choice-auto2 =
     .label = Automatski
     .title = Automatski promijeni pozadinu i sadržaj web stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
@@ -338,7 +338,7 @@ preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled 
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u odjeljku <a data-l10n-name="themes-link">Dodaci i teme</a>
 preferences-contrast-control-header = Kontrola kontrasta
-preferences-contrast-control-description = Web stranice imaju razne prednje i pozadinske boje. Konfiguriraj { -brand-short-name } tako da koristi iste boje na svim web stranicama radi bolje čitljivosti.
+preferences-contrast-control-description = Web-stranice imaju razne prednje i pozadinske boje. Konfiguriraj { -brand-short-name } tako da koristi iste boje na svim web-stranicama radi bolje čitljivosti.
 preferences-contrast-control-use-platform-settings =
     .label = Automatski (koristi postavke sustava)
     .accesskey = A
@@ -1328,20 +1328,20 @@ sitedata-total-size2 = Tvoji spremnljeni kolačići, povijest, podaci web-strani
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Tvoji spremljeni kolačići, podaci web stranica i predmemorija trenutačno zauzimaju { $value } { $unit } memorije na disku.
+sitedata-total-size = Tvoji spremljeni kolačići, podaci web-stranica i predmemorija trenutačno zauzimaju { $value } { $unit } memorije na disku.
 sitedata-learn-more = Saznaj više
 sitedata-delete-on-close =
     .label = Izbriši kolačiće i podatke stranica kad se { -brand-short-name } zatvori
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
-    .message = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web stranica kada zatvoriš preglednik.
-sitedata-delete-on-close-private-browsing = U modusu trajnog privatnog pregledavanja će se kolačići i podaci o web stranicama uvijek izbrisati kada se zatvori { -brand-short-name }.
-sitedata-delete-on-close-private-browsing2 = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web stranica kada zatvoriš preglednik.
+    .message = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web-stranica kada zatvoriš preglednik.
+sitedata-delete-on-close-private-browsing = U modusu trajnog privatnog pregledavanja će se kolačići i podaci web-stranica uvijek izbrisati kada se { -brand-short-name } zatvori.
+sitedata-delete-on-close-private-browsing2 = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web-stranica kada zatvoriš preglednik.
 sitedata-allow-cookies-option =
-    .label = Prihvati kolačiće i podatke web stranica
+    .label = Prihvati kolačiće i podatke web-stranica
     .accesskey = a
 sitedata-disallow-cookies-option =
-    .label = Blokiraj kolačiće i podatke web stranica
+    .label = Blokiraj kolačiće i podatke web-stranica
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -1356,7 +1356,7 @@ sitedata-option-block-cross-site-cookies2 =
 sitedata-option-block-cross-site-cookies =
     .label = Međustranični kolačići za praćenje i izoliranje drugih međustraničnih kolačića
 sitedata-option-block-unvisited =
-    .label = Kolačići neposjećenih web stranica
+    .label = Kolačići neposjećenih web-stranica
 sitedata-option-block-all-cross-site-cookies =
     .label = Svi međustranični kolačići (može uzrokovati neispravno učitavanje web stranice)
 sitedata-option-block-all =
@@ -1389,7 +1389,7 @@ cookie-banner-handling-description = { -brand-short-name } pokušava automatski 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokiranje dijaloga kolačića
-cookie-banner-blocker-description = Kada web stranica pita je li smije koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } automatski odbija umjesto tebe. Samo na podržanim stranicama.
+cookie-banner-blocker-description = Kada web-stranica pita je li smije koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } to automatski odbija umjesto tebe. Samo na podržanim stranicama.
 cookie-banner-learn-more = Saznaj više
 forms-handle-cookie-banners =
     .label = Smanji broj dijaloga kolačića
@@ -1500,7 +1500,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
-content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web stranicama ili sadržajima.
+content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web-stranicama ili sadržajima.
 content-blocking-etp-custom-desc = Odaberi programe za praćenje i skripte koje želiš blokirati.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokira sljedeće:
 content-blocking-private-windows = Sadržaj za praćenje u privatnim prozorima
@@ -1530,9 +1530,7 @@ content-blocking-etp-standard-tcp-title = Uključuje potpunu zaštitu kolačića
 content-blocking-warning-title = Upozorenje!
 content-blocking-warning-title-2 = Stroga zaštita od praćenja može pokvariti neke web-stranice
 content-blocking-warning-title-custom = Prilagođena zaštita od praćenja može pokvariti neke web-stranice
-# “Fix site issues” references the string content-blocking-exceptions-subheader
-content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } preporučuje korištenje postavke „Ispravljanje problema s web-stranicama” kako bi se smanjio broj neispravnih funkcija web-stranica i sadržaja. Ako neka stranica izgleda neispravno, pokušaj isključiti zaštitu od praćenja za tu stranicu kako bi se učitao sav sadržaj.
-content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako se neka stranica čini slomljenom, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
+content-blocking-and-isolating-etp-warning-description-2 = Ova postavka može uzrokovati da neke web stranice ne prikazuju sadržaj ili ne rade ispravno. Ako neka web-stranica ne izgleda ispravno, možda ćeš htjeti isključiti zaštitu od praćenja da bi ta stranica učitala sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
 content-blocking-baseline-exceptions-3 =
     .label = Ispravi velike probleme s web-stranicama (preporučeno)
