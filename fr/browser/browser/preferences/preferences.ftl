@@ -562,7 +562,7 @@ update-in-progress-cancel-button = &Continuer
 ## Firefox support
 
 support-application-heading =
-    .label = { -brand-short-name } assistance
+    .label = Assistance de { -brand-short-name }
     .description = Résolvez des problèmes ou partagez des idées avec la communauté.
 support-get-help =
     .label = Obtenir de l’aide
@@ -983,8 +983,8 @@ prefs-syncing-button =
 sync-syncing-across-devices-heading = Vous synchronisez ces éléments entre tous vos appareils connectés :
 sync-syncing-across-devices-heading-2 = Données synchronisées entre les appareils
 sync-syncing-across-devices-empty-state =
-    .label = Vous ne devez rien synchroniser… pour l’instant.
-    .description = Lancez la synchronisation pour obtenir toutes vos données sur tous vos appareils.
+    .label = Vous ne synchronisez rien… pour l’instant.
+    .description = Lancez la synchronisation pour accéder à toutes vos données sur tous vos appareils.
 sync-currently-syncing-bookmarks = Marque-pages
 sync-currently-syncing-history = Historique
 sync-currently-syncing-tabs = Onglets ouverts

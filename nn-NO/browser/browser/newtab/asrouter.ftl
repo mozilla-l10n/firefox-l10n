@@ -423,3 +423,7 @@ etp-strict-exceptions-infobar-button = Bruk fiksar
     .accesskey = B
 etp-strict-exceptions-infobar-not-now = Ikkje no
     .accesskey = k
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } er ikkje standard nettlesar

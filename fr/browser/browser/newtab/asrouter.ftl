@@ -433,8 +433,8 @@ set-default-menu-message-row-layout-title-variant = Faites de { -brand-short-nam
 set-default-menu-message-row-layout-subtitle = Toute votre navigation rapide, sûre et confidentielle.
 set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
-        [macos] Gardez { -brand-short-name } à portée de main — installez-le par défaut dans votre Dock.
-       *[other] Gardez { -brand-short-name } à portée de main — Choisissez-le par défaut et ajoutez-le à la barre des tâches.
+        [macos] Gardez { -brand-short-name } à portée de main : faites-en votre navigateur par défaut et ajoutez-le à votre Dock.
+       *[other] Gardez { -brand-short-name } à portée de main : faites-en votre navigateur par défaut et ajoutez-le à votre barre des tâches.
     }
 set-default-menu-message-primary-button = Définir par défaut
 set-default-menu-message-primary-button-variant = Définir comme navigateur principal
