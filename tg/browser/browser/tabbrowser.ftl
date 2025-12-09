@@ -283,6 +283,20 @@ tab-context-move-tab-to-group =
            *[other] Илова кардани варақаҳо ба гурӯҳ
         }
     .accesskey = Г
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Илова кардани намоиши тақсимшуда ба гурӯҳи нав
+           *[other] Илова кардани намоишҳои тақсимшуда ба гурӯҳи нав
+        }
+    .accesskey = И
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Илова кардани намоиши тақсимшуда ба гурӯҳ
+           *[other] Илова кардани намоишҳои тақсимшуда ба гурӯҳ
+        }
+    .accesskey = И
 tab-context-move-tab-to-group-saved-groups =
     .label = Гурӯҳҳои пӯшида
 tab-group-editor-action-new-tab =
