@@ -30,6 +30,10 @@ options-context-inspector = Тафтишкунанда
 options-show-user-agent-styles-label = Намоиш додани услубҳои браузер
 options-show-user-agent-styles-tooltip =
     .title = Фаъолсозии ин имкон услубҳои пешфарзеро, ки аз тарафи браузер бор мешаванд, нишон медиҳад.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Нишон додани «Shadow DOM»-и браузер
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Фаъол кардани ин имкон унсурҳои «Shadow DOM»-ро, ки браузер идора мекунад, нишон медиҳад.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Кутоҳ кардани сифатҳои DOM
 options-collapse-attrs-tooltip =
