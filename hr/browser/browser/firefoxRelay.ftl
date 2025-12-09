@@ -20,20 +20,23 @@ firefox-relay-get-unlimited-masks =
     .accesskey = U
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaštiti svoju e-mail adresu:
+firefox-relay-opt-in-title-2 = Nabavi besplatnu masku e-mail adrese
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Koristi { -relay-brand-name } masku za e-mail adresu
+firefox-relay-use-mask-title-1 = Koristi masku e-mail adrese
+firefox-relay-opt-in-subtitle-2 = Zaštiti sandučić dolazne pošte od neželjene pošte
 firefox-relay-use-mask-title = Koristi { -relay-brand-name } masku za e-mail adresu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Spriječi neželjenu poštu besplatnom maskom za e-mail adresu
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)
 firefox-relay-opt-in-subtitle-a = Sakrij svoju pravu e-mail adresu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
-firefox-relay-opt-in-title-b = Nabavi besplatnu e-mail masku
+firefox-relay-opt-in-title-b = Nabavi besplatnu masku za e-mail adresu
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
 firefox-relay-opt-in-subtitle-b = Zaštiti sandučić dolazne pošte od neželjene pošte
 firefox-relay-opt-in-confirmation-enable-button =
-    .label = Koristi e-mail masku
+    .label = Koristi masku za e-mail adresu
     .accesskey = K
 firefox-relay-opt-in-confirmation-disable =
     .label = Nemoj mi ovo više prikazivati
@@ -57,22 +60,22 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Za korištenje maske e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
-firefox-relay-offer-legal-notice-control = Sa registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
+firefox-relay-offer-legal-notice-control = Registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Spriječi neželjenu poštu besplatnom maskom za e-mail adresu
-firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Spriječi dobivanje neželjene pošte skrivanjem tvoje prave e-mail adrese pomoću <label data-l10n-name="firefox-relay-learn-more-url">maske e-mail adrese</label>. I dalje ćeš primati e-poštu s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web stranice</label> u tvoj sandučić dolazne pošte, ali sa tvojom skrivenom e-mail adresom.
-firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
+firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Za korištenje maske za e-mail adresu najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registriraj se
     .accesskey = R
 
 ## The "with-domain" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-header-with-domain = Nabavi besplatnu masku e-mail adrese
-firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">maske e-mail adrese</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web stranice</label> u tvoj sandučić dolazne pošte, ali sa tvojom skrivenom e-mail adresom.
-firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
+firefox-relay-and-fxa-popup-notification-header-with-domain = Nabavi besplatnu masku za e-mail adresu
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">maske za e-mail adresu</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali sa tvojom skrivenom e-mail adresom.
+firefox-relay-and-fxa-popup-notification-first-sentence = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } maske za e-mail adresu</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali s tvojom skrivenom e-mail adresom.
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Za korištenje maske za e-mail adresu najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registriraj se
     .accesskey = R

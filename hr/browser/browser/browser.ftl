@@ -925,6 +925,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nije odabran nijedan prečac, odaberi prečac
     .tooltiptext = Nije odabran nijedan prečac, odaberi prečac
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Pretraživanje ključnih riječi je isključeno
+    .tooltiptext = Pretraživanje ključnih riječi je isključeno
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1347,6 +1351,7 @@ firefox-relay-offer-why-to-use-relay = Naše sigurne i jednostavne maske štite 
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Sve poruke e-pošte poslane na maskiranu e-poštu će biti proslijeđene na <strong>{ $useremail }</strong> (ukoliko odlučite da ih nećete blokirati).
 firefox-relay-offer-legal-notice = Klikom na „Koristi e-mail masku” prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
+firefox-relay-offer-legal-notice-1 = Registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
 
 ## Add-on Pop-up Notifications
 
