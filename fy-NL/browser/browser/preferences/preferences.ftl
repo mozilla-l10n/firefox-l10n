@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Ferwerpe
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaasjes
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Der is al in sykmasine mei de namme ‘{ $n
 remove-engine-confirmation = Binne jo wis dat jo dizze sykmasine fuortsmite wolle?
 remove-engine-remove = Fuortsmite
 remove-addon-engine-alert = Smyt de assosjearre add-on fuort om dizze sykmasine fuort te smiten.
+search-engine-group =
+    .label = Standertsykmasine
+search-default-engine =
+    .aria-label = Standertsykmasine
 
 ## Containers Section
 
