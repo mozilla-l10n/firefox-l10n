@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { $hostname }에 대해 제공된 인증서가 폐기되어 더 이상 신뢰할 수 없기 때문에 { -brand-short-name }가 이 사이트에 대해 경고합니다.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = 사이트 자체에 문제가 있을 가능성이 있기 때문에 아마 아무것도 아닐겁니다. 웹 사이트 관리자에게 문의하여 문제를 해결하고 있는지 확인할 수 있습니다.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = 사이트가 보안 연결 만 허용하도록 설정되었지만 사이트 인증서에 문제가 있습니다. 악의적인 사용자가 사이트를 사칭할 수 있습니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 { $hostname }에 대한 인증서가 유효하지 않기 때문에 이 사이트를 신뢰하지 않습니다. 인증서가 유효하지 않음: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
