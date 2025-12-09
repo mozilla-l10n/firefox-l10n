@@ -559,6 +559,16 @@ update-in-progress-ok-button = I&nterrompi
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+support-application-heading =
+    .label = Supporto per { -brand-short-name }
+    .description = Risolvi problemi o condividi idee con la comunità.
+support-get-help =
+    .label = Ricevi assistenza
+support-share-ideas =
+    .label = Condividi idee e feedback
+
 ## General Section - Performance
 
 performance-title = Prestazioni

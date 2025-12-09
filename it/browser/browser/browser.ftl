@@ -1561,3 +1561,8 @@ trustpanel-fingerprinter-list-header = Questi siti stanno cercando di acquisire 
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ha bloccato { $count } cryptominer
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ha consentito { $count } cryptominer
 trustpanel-cryptominer-tab-list-header = Questi siti stanno tentando di effettuare cryptomining:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
+       *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
+    }
