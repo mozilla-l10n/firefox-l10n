@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Verwerpen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaties
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Er is al een zoekmachine met de naam ‘{ $
 remove-engine-confirmation = Weet u zeker dat u deze zoekmachine wilt verwijderen?
 remove-engine-remove = Verwijderen
 remove-addon-engine-alert = Verwijder de geassocieerde add-on om deze zoekmachine te verwijderen.
+search-engine-group =
+    .label = Standaardzoekmachine
+search-default-engine =
+    .aria-label = Standaardzoekmachine
 
 ## Containers Section
 
