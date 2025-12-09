@@ -559,6 +559,9 @@ update-in-progress-ok-button = &ביטול
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &המשך
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ביצועים
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = כבר קיים מנוע חיפוש בשם 
 remove-engine-confirmation = האם ברצונך להסיר את מנוע חיפוש זה?
 remove-engine-remove = הסרה
 remove-addon-engine-alert = כדי להסיר את מנוע חיפוש זה, יש להסיר את התוספת המשוייכת אליו.
+search-engine-group =
+    .label = מנוע חיפוש ברירת מחדל
+search-default-engine =
+    .aria-label = מנוע חיפוש ברירת מחדל
 
 ## Containers Section
 
