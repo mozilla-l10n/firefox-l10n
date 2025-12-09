@@ -537,6 +537,9 @@ update-in-progress-ok-button = &Baztertu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Errendimendua
@@ -839,6 +842,10 @@ edit-engine-name-warning-duplicate = Lehendik ere badago "{ $name }" izena duen 
 remove-engine-confirmation = Ziur zaude bilaketa-motor hau kendu nahi duzula?
 remove-engine-remove = Kendu
 remove-addon-engine-alert = Bilaketa-motor hau kentzeko, kendu erlazionatutako gehigarria.
+search-engine-group =
+    .label = Bilaketa-motor lehenetsia
+search-default-engine =
+    .aria-label = Bilaketa-motor lehenetsia
 
 ## Containers Section
 
@@ -1619,6 +1626,9 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
