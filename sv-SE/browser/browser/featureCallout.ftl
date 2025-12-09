@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Se en kort beskrivning, lästid oc
 sidebar-button-callout-title = Visa fliktitlar i sidofältet
 sidebar-button-callout-subtitle = Använd sidofältsknappen för att utöka sidofältet så att du kan se fliktitlar.
 sidebar-button-callout-vertical-tabs = För att visa dina flikar, välj sidofältsknappen i verktygsfältet.
+sidebar-deprecation-callout-title = Uppdaterat sidofält kommer snart
+sidebar-deprecation-callout-subtitle = Vi fasar ut sidofältsversionen som du för närvarande använder. Testa det uppdaterade sidofältet. Det är snabbare och du får tillgång till fler verktyg.
+sidebar-deprecation-cta-button = Testa på en gång
 
 ## Sidebar Vertical Tabs Strings
 

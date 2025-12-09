@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bokmärk denna sida ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Delad vy
+    .aria-label = Delad vy
 
 ## Page Action Context Menu
 
@@ -835,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Visa inte marknadsförslag
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Tack för din feedback. Du ser inte marknadsförslag längre.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Börsförslag
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Tack för din feedback. Du ser inte dessa förslag längre.
@@ -1582,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } tillät { $count } kryptogrävare
     }
 trustpanel-cryptominer-tab-list-header = Dessa webbplatser försöker kryptominera:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> spårare blockerad på den här webbplatsen
+       *[other] <span data-l10n-name="count">{ $count }</span> spårare blockerade på den här webbplatsen
+    }

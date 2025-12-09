@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Marquer cette page ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vue scindée
+    .aria-label = Vue scindée
 
 ## Page Action Context Menu
 
@@ -838,6 +841,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ne pas afficher les suggestions liées aux marchés
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Merci de votre retour. Vous ne verrez plus ces suggestions liées aux marchés.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Suggestions boursières
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Merci de votre retour. Vous ne verrez plus ces suggestions.
@@ -1582,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } a autorisé { $count } mineurs de cryptomonnaies
     }
 trustpanel-cryptominer-tab-list-header = Ces sites tentent de miner des cryptomonnaies :
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> traqueur bloqué sur ce site
+       *[other] <span data-l10n-name="count">{ $count }</span> traqueurs bloqués sur ce site
+    }

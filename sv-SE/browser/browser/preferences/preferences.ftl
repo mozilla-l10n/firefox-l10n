@@ -559,6 +559,16 @@ update-in-progress-ok-button = &Ignorera
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } support
+    .description = Felsöka problem eller dela idéer med communityn.
+support-get-help =
+    .label = Få hjälp
+support-share-ideas =
+    .label = Dela idéer och feedback
+
 ## General Section - Performance
 
 performance-title = Prestanda
@@ -817,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Visa söktermer i adressfältet på resultatsidor
+search-separate-default-engine-2 =
+    .label = Använd en annan standardsökmotor i privata fönster
+    .accesskey = A
+search-separate-default-engine-dropdown =
+    .aria-label = Standardsökmotor i privata fönster
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -966,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Du synkroniserar dessa objekt mellan alla dina anslutna enheter:
+sync-syncing-across-devices-heading-2 = Data synkroniserad mellan enheter
+sync-syncing-across-devices-empty-state =
+    .label = Du synkroniserar inget… än.
+    .description = Börja synkronisera för att få all din data på alla dina enheter.
 sync-currently-syncing-bookmarks = Bokmärken
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Öppna flikar

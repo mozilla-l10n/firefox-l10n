@@ -177,8 +177,12 @@ fp-neterror-offline-body-title = Il semble y avoir un problème avec votre conne
 
 fp-neterror-connection-intro = { -brand-short-name } ne peut pas établir de connexion sécurisée avec le serveur à l’adresse { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ne peut pas se connecter au serveur à l’adresse <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } n’a pas chargé cette page, car il semble que la configuration de sécurité ne corresponde pas à la page précédente.
+fp-neterror-why-did-this-happen = Pourquoi est-ce arrivé ?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il semble que ce site utilise d’anciens logiciels présentant des failles de sécurité connues.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Assurez-vous d’utiliser la dernière version de { -brand-short-name }. Dans le menu, sélectionnez Aide > À propos de { -brand-short-name }. Si vous utilisez la dernière version de { -brand-short-name }, le problème vient probablement du site lui-même.
 fp-neterror-offline-what-can-you-do-body = Essayez de vous connecter sur un autre appareil. Vérifiez votre modem ou votre routeur. Déconnectez-vous puis reconnectez-vous au Wi-Fi.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Il arrive que les sites web se protègent contre les interactions indésirables avec d’autres sites.

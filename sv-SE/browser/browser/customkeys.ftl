@@ -35,3 +35,5 @@ customkeys-nav-reload = Ladda om
 customkeys-nav-reload-skip-cache = Ladda om (Åsidosätt cache)
 customkeys-nav-stop = Stopp
 customkeys-caution-message = Den här funktionen är experimentell och kanske inte fungerar som förväntat.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Ogiltig

@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Affichez une courte description, l
 sidebar-button-callout-title = Afficher le titre des onglets dans le panneau latéral
 sidebar-button-callout-subtitle = Utilisez le bouton du panneau latéral pour développer le panneau latéral, afin de voir le titre des onglets.
 sidebar-button-callout-vertical-tabs = Pour afficher vos onglets, cliquez sur le bouton du panneau latéral dans la barre d’outils.
+sidebar-deprecation-callout-title = Panneau latéral mis à jour disponible prochainement
+sidebar-deprecation-callout-subtitle = Nous allons progressivement supprimer la version du panneau latéral que vous utilisez actuellement. Essayez le nouveau panneau latéral. Il est plus rapide et vous avez accès à davantage d’outils.
+sidebar-deprecation-cta-button = Essayer maintenant
 
 ## Sidebar Vertical Tabs Strings
 

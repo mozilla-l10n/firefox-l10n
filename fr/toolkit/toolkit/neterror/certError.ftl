@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = Retour (recommandé)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } vous avertit à propos de ce site, car le certificat fourni pour { $hostname } a été révoqué et n’est plus digne de confiance.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Probablement rien, car il est probable qu’il y ait un problème avec le site lui-même. Vous pouvez vérifier auprès du propriétaire du site web s’il travaille sur le problème.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Le site est configuré pour autoriser uniquement des connexions sécurisées, mais il y a un problème avec le certificat du site. Il est possible qu’un acteur malveillant tente de se faire passer pour le site. Les sites utilisent des certificats émis par une autorité de certification pour prouver qu’ils sont bien ce qu’ils prétendent être. { -brand-short-name } ne fait pas confiance à ce site, car son certificat n’est pas valide pour { $hostname }. Le certificat n’est valide que pour : { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

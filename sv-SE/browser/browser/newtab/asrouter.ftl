@@ -424,3 +424,18 @@ etp-strict-exceptions-infobar-button = Tillämpa korrigeringar
     .accesskey = T
 etp-strict-exceptions-infobar-not-now = Inte nu
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } är inte din standardwebbläsare
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } är inte din primära webbläsare
+set-default-menu-message-row-layout-title = Gör { -brand-short-name } till din primära webbläsare
+set-default-menu-message-row-layout-title-variant = Gör { -brand-short-name } till din standardwebbläsare
+set-default-menu-message-row-layout-subtitle = Få hastighet, säkerhet och integritet varje gång du surfar.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Ha alltid { -brand-short-name } nära till hands — gör den till din standard och behåll den i Dock.
+       *[other] Ha alltid { -brand-short-name } nära till hands — gör den till din standard och behåll den i aktivitetsfältet.
+    }
+set-default-menu-message-primary-button = Ange som standard
+set-default-menu-message-primary-button-variant = Ange som primär webbläsare

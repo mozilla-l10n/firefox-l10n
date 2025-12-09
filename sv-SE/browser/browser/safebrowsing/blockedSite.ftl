@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Vilseledande webbplats
 safeb-blocked-malware-page-title = Att besöka denna webbplats kan skada din dator
 safeb-blocked-unwanted-page-title = Kommande webbplats kan innehålla skadliga program
 safeb-blocked-harmful-page-title = Kommande webbplats kan innehålla skadlig kod
+safeb-blocked-addon-page-title = Webbplatsen är blockerad för din säkerhet
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } blockerade den här sidan eftersom den försöker lura dig att göra något farligt som att installera programvara eller avslöja personlig information som lösenord eller kreditkort.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blockerade den här sidan eftersom den kan försöka installera skadlig programvara som kan stjäla eller radera personlig information på din dator.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blockerade den här sidan eftersom den kan lura dig att installera program som skadar din webbupplevelse (till exempel genom att ändra din startsida eller visa extra annonser på webbplatser du besöker).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blockerade den här sidan eftersom det kan försöka installera farliga appar som stjäl eller raderar din information (till exempel bilder, lösenord, meddelanden och kreditkort).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } blockerade den här sidan eftersom ett av dina tillägg försökte öppna den. Den här webbplatsen kan användas för att stjäla din information — som lösenord eller kreditkortsnummer.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rådgivning tillhandahålls av <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Läs mer om skydd mot nätfiske och skad
 safeb-palm-notdeceptive =
     .label = Detta är inte en vilseledande webbplats…
     .accesskey = v
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Varför blockerades den här webbplatsen?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> kan vara kopplad till vilseledande och skadlig aktivitet.
+safeb-blocked-addon-page-error-desc3-override = <strong>Vad kan du göra åt det?</strong>
+safeb-blocked-addon-page-error-desc4-override = För att förhindra att detta händer igen kan du ta bort eller inaktivera <strong>{ $addonName }</strong> från about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Läs mer om { -brand-short-name }s skydd mot nätfiske och skadlig programvara</a>.

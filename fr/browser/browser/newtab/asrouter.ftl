@@ -423,3 +423,18 @@ etp-strict-exceptions-infobar-button = Appliquer les correctifs
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Plus tard
     .accesskey = P
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } n’est pas votre navigateur par défaut
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } n’est pas votre navigateur principal
+set-default-menu-message-row-layout-title = Faites de { -brand-short-name } votre navigateur principal
+set-default-menu-message-row-layout-title-variant = Faites de { -brand-short-name } votre navigateur par défaut
+set-default-menu-message-row-layout-subtitle = Toute votre navigation rapide, sûre et confidentielle.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Gardez { -brand-short-name } à portée de main — installez-le par défaut dans votre Dock.
+       *[other] Gardez { -brand-short-name } à portée de main — Choisissez-le par défaut et ajoutez-le à la barre des tâches.
+    }
+set-default-menu-message-primary-button = Définir par défaut
+set-default-menu-message-primary-button-variant = Définir comme navigateur principal
