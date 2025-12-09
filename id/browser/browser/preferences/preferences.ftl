@@ -511,6 +511,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -619,6 +622,9 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -752,6 +758,10 @@ search-keyword-warning-title = Kata Kunci Ganda
 search-keyword-warning-engine = Anda telah memilih kata kunci yang sama dengan "{ $name }". Silakan pilih kata lain.
 search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan nama Markah. Silakan pilih kata lain.
 remove-engine-remove = Buang
+search-engine-group =
+    .label = Mesin Pencari Baku
+search-default-engine =
+    .aria-label = Mesin Pencari Baku
 
 ## Containers Section
 
