@@ -309,6 +309,9 @@ update-in-progress-ok-button = और छोड़े
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = और जारी रखें
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = प्रदर्शन
@@ -395,6 +398,9 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -483,6 +489,10 @@ search-keyword-warning-title = बीजशब्द अनुकृति
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = आपने एक बीजशब्द चुना है जो अभी "{ $name }" के द्वारा प्रयोग में है. कृपया दूसरा चुनें.
 search-keyword-warning-bookmark = आपने एक बीजशब्द चुना है जो अभी बुकमार्क के द्वारा प्रयोग में है. कृपया दूसरा चुनें.‌
+search-engine-group =
+    .label = तयशुदा खोज इंजिन
+search-default-engine =
+    .aria-label = तयशुदा खोज इंजिन
 
 ## Containers Section
 
@@ -673,6 +683,9 @@ forms-windows-sso-learn-more-link = अधिक जानें
 master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -759,6 +772,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -920,6 +939,9 @@ addon-recommendations-link = और जानें
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -958,6 +980,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = अधिक जानें
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
