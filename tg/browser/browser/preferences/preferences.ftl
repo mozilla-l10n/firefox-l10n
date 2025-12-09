@@ -1286,6 +1286,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = «{ -brand-short-name }» барои тамошобинӣ, боргирӣ, шаклҳо ва таърихи ҷустуҷӯи шумо аз танзимоти фармоишии шумо истифода мебарад.
 history-remember-description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
 history-dontremember-description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
 history-private-browsing-permanent =
@@ -1391,8 +1394,11 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Навори нишонӣ
+addressbar-suggest-1 = Интихоб кунед, ки кадом пешниҳодҳо дар навори нишонии шумо нишон дода мешаванд
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Пешниҳодҳо аз «{ -brand-short-name }» ва шарикони мо дар навори нишонии шумо.
 addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Навори нишонӣ — { -firefox-suggest-brand-name }
@@ -1420,6 +1426,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Сомонаҳои беҳтарин
     .accesskey = С
+addressbar-locbar-engines-option-1 =
+    .label = Барои истифода аз низомҳои ҷустуҷӯӣ пешниҳод кунед
+    .accesskey = Б
 addressbar-locbar-engines-option =
     .label = Низомҳои ҷустуҷӯӣ
     .accesskey = Н
@@ -1444,6 +1453,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Гирифтани пешниҳо�
 addressbar-locbar-suggest-sponsored-option =
     .label = Пешниҳодҳо аз сарпарастон
 addressbar-locbar-suggest-sponsored-desc = Дастгирӣ кардани «{ -brand-short-name }» бо пешниҳодҳои тасодуфӣ аз сарпарастон
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Ҳангоми чопкунии матн пешниҳодҳо аз «Mozilla» пешниҳод карда шаванд
 addressbar-quickactions-learn-more = Маълумоти бештар
 addressbar-dismissed-suggestions-label = Пешниҳодҳои пинҳоншуда
 addressbar-restore-dismissed-suggestions-description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
@@ -1619,6 +1636,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Манъ кардани равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
     .accesskey = М
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Идоракунии истисноҳои равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
+    .accesskey = И
+    .searchkeywords = равзанаҳои зоҳиршаванда
+permissions-addon-install-warning2 =
+    .label = Намоиш додани огоҳӣ ҳангоми кӯшиши насби васеъшавиҳо аз тарафи сомонаҳо
+    .accesskey = Н
+permissions-addon-exceptions2 =
+    .label = Интихоб кунед, ки кадом сомонаҳо метавонанд васеъшавиҳоро насб кунанд
+    .accesskey = И
 permissions-block-popups =
     .label = Манъ кардани равзанаҳои зоҳиршаванда
     .accesskey = М
