@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Prijavi neispravnu stranicu
 report-broken-site-panel-header =
     .label = Prijavi neispravnu stranicu
     .title = Prijavi neispravnu stranicu
+report-broken-site-panel-intro-text = Tvoj nam izvještaj pomaže razumjeti i ispraviti { -brand-product-name } probleme i poboljšati iskustvo svima.
 report-broken-site-panel-learn-more-link = Saznaj više
 report-broken-site-panel-intro = Pomogni poboljšati { -brand-product-name }. { -vendor-short-name } koristi tvoje poslane podatke za rješavanje problema s web stranicom.
 report-broken-site-panel-url = URL

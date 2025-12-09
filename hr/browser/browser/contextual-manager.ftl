@@ -146,7 +146,7 @@ contextual-manager-passwords-remove-all-message-sync =
         [few] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
        *[other] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene lozinke na svim tvojim sinkroniziranim uređajima. Ovo će također ukloniti sva upozorenja o curenju podataka. Ovu radnju ne možeš poništiti.
     }
-contextual-manager-passwords-origin-label = Web stranica
+contextual-manager-passwords-origin-label = Web-stranica
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = Korisničko ime
     .data-after = Kopirano
