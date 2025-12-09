@@ -520,6 +520,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -628,6 +631,9 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -768,6 +774,10 @@ search-keyword-warning-bookmark = Þú hefur valið stikkorð sem er þegar í n
 remove-engine-confirmation = Ertu viss um að þú viljir fjarlægja þessa leitarvél?
 remove-engine-remove = Fjarlægja
 remove-addon-engine-alert = Til að fjarlægja þessa leitarvél skaltu fjarlægja tilheyrandi viðbót.
+search-engine-group =
+    .label = Sjálfgefin leitarvél
+search-default-engine =
+    .aria-label = Sjálfgefin leitarvél
 
 ## Containers Section
 
