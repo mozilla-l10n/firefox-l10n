@@ -502,6 +502,9 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Перформансе
@@ -602,6 +605,9 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -728,6 +734,10 @@ search-keyword-warning-title = Постојећа кључна реч
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Изабрали сте кључну реч коју тренутно користи "{ $name }". Одаберете неку другу.
 search-keyword-warning-bookmark = Одабрали сте кључну реч коју тренутно користи обележивач. Изаберете неку другу.
+search-engine-group =
+    .label = Подразумевани претраживач
+search-default-engine =
+    .aria-label = Подразумевани претраживач
 
 ## Containers Section
 
@@ -1329,6 +1339,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
