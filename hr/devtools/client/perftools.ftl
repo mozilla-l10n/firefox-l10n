@@ -60,6 +60,11 @@ perftools-button-add-directory = Dodaj mapu
 perftools-button-remove-directory = Ukloni odabrano
 perftools-button-edit-settings = Uredi postavke …
 
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = Više radnji
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-compositor =
@@ -71,6 +76,8 @@ perftools-thread-dom-worker =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novi</b>: { -profiler-brand-name } je sada integriran u alate za programere. <a>Saznaj više</a> o ovom moćnom novom alatu.
+perftools-onboarding-close-button =
+    .aria-label = Zatvori poruku uvoda
 
 ## Profiler presets
 
@@ -92,6 +99,7 @@ perftools-presets-graphics-label = Slike
 perftools-presets-graphics-description = Zadana postavka za istraživanje slikovnih grešaka u { -brand-shorter-name(case: "loc") }.
 perftools-presets-media-label = Mediji
 perftools-presets-media-description2 = Zadana postavka za istraživanje audio i video grešaka u { -brand-shorter-name(case: "loc") }.
+perftools-presets-ml-label = Strojno učenje
 perftools-presets-networking-label = Mrežno povezivanje
 perftools-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name(case: "loc") }.
 # "Power" is used in the sense of energy (electricity used by the computer).

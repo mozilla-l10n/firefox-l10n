@@ -280,6 +280,12 @@ tab-context-unnamed-group =
     .label = Neimenovana grupa
 tab-group-name-default = Neimenovana grupa
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Popis kartica je otvoren
+tab-group-preview-closed-description = Popis kartica je zatvoren
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -328,6 +334,17 @@ tab-context-ungroup-tab =
            *[other] Ukloni iz grupa
         }
     .accesskey = U
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = + { $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] I još { $tabCount } kartica
+        [few] I još { $tabCount } kartice
+       *[other] I još { $tabCount } kartica
+    }
 
 ## Open/saved tab group context menu
 

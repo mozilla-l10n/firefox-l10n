@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Isteče / maksimalna starost
 storage-table-headers-cookies-size = Veličina
 storage-table-headers-cookies-last-accessed = Zadnji put pristupljeno
 storage-table-headers-cookies-creation-time = Stvoreno
+storage-table-headers-cookies-update-time = Aktualizirano
 storage-table-headers-cache-status = Stanje
 storage-table-headers-extension-storage-area = Područje spremišta
 
