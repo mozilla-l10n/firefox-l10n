@@ -115,12 +115,15 @@ fxa-adoption-passwords-primary-button-label = Registriraj se
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-chat-callout-title = Čavrljaj iz svoje programske trake
+taskbar-tabs-email-callout-title = Drži svoju e-poštu u programskoj traci
+taskbar-tabs-email-callout-subtitle = Pokreni svoju web-poštu poput aplikacije u pojednostavljenom prozoru koju štiti { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Dodaj ovu stranicu u programsku traku
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nemoj izgubiti spremljene podatke prilikom prijelaza na Windows 11.
 windows-10-eos-sync-urgency-title-2 = Opraštaš se od Windows 10? Zaštiti svoje podatke tijekom prelaska.
+windows-10-eos-sync-new-device-subtitle-1 = Sinkroniziraj { -brand-short-name } tako da svoje zabilješke, lozinke i postavke možeš ponijeti sa sobom kada se seliš na novi uređaj.
 windows-10-eos-sync-new-device-primary-label = Sinkroniziraj sada
 windows-10-eos-sync-tour-title-2 = Organiziraj se za Windows 11.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
