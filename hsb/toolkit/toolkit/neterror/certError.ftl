@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } was před tutym sydłom warnuje, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, je so wotwołał a hižo dowěry hódny njeje.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Najskerje ničo, dokelž to je najskerje problem ze sydłom samym. Móžeće so pola wobsedźerja websydła wobhonić, zo byšće zhonił, hač na problemje dźěła.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
