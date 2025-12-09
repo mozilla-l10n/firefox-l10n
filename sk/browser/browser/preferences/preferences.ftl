@@ -562,9 +562,6 @@ update-in-progress-ok-button = &Zrušiť
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Výkon
@@ -820,8 +817,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Zobrazovať návrhy vyhľadávania vo výsledkoch panela s adresou
     .accesskey = a
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na stránkach s výsledkami zobrazovať v paneli s adresou hľadané výrazy
 # With this option enabled, on the search results page

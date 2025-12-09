@@ -516,9 +516,6 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = الأداء
@@ -628,9 +625,6 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
@@ -717,8 +711,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = أظهِر مصطلحات البحث في شريط العناوين على صفحات النتائج
 # With this option enabled, on the search results page

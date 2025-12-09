@@ -525,9 +525,6 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -637,9 +634,6 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -731,8 +725,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mussar propostas da tschertga en ils resultats da la trav d'adressas
     .accesskey = M
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mussar ils terms da tschertga en la trav d’adressas per las paginas da resultats
 # With this option enabled, on the search results page

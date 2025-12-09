@@ -518,9 +518,6 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -629,9 +626,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

@@ -559,9 +559,6 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Wydajność
@@ -814,8 +811,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Podpowiedzi wyszukiwania w wynikach paska adresu
     .accesskey = e
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na stronie wyników pasek adresu wyświetla wyszukiwane słowa
 # With this option enabled, on the search results page

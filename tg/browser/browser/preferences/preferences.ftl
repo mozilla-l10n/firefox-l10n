@@ -558,9 +558,6 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Самаранокӣ
@@ -815,8 +812,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори нишонӣ
     .accesskey = Н
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Намоиш додани дархостҳои ҷустуҷӯӣ тавассути навори нишонӣ дар саҳифаҳо бо натиҷаҳои ҷустуҷӯ
 # With this option enabled, on the search results page

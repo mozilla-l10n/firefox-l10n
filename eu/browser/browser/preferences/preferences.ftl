@@ -537,9 +537,6 @@ update-in-progress-ok-button = &Baztertu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Errendimendua
@@ -789,8 +786,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Erakutsi bilaketa-iradokizunak helbide-barrako emaitzetan
     .accesskey = h
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Erakutsi emaitzen orrietan bilaketa-terminoak helbide-barran
 # With this option enabled, on the search results page
@@ -1626,9 +1623,6 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

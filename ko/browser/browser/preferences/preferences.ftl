@@ -547,9 +547,6 @@ update-in-progress-ok-button = 버리기(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = 성능
@@ -800,8 +797,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 주소 표시줄 결과에 검색 제안 표시
     .accesskey = l
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = 결과 페이지의 주소 표시줄에 검색어 표시
 # With this option enabled, on the search results page

@@ -556,9 +556,6 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -810,8 +807,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
     .accesskey = M
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Montri serĉan tekston en la adresa strio de la paĝoj de rezultoj
 # With this option enabled, on the search results page

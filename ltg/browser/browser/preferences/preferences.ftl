@@ -271,9 +271,6 @@ update-application-use-service =
     .label = Instaleit atjaunynuojumus fonā
     .accesskey = f
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Veiktspieja
@@ -353,9 +350,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -494,12 +488,6 @@ sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
 
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -582,12 +570,6 @@ forms-master-pw-change =
     .label = Nūmaineit golvonū paroli...
     .accesskey = m
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -672,12 +654,6 @@ sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresu jūsla
@@ -696,19 +672,6 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Vaira
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -767,9 +730,6 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -801,12 +761,6 @@ certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
 certs-devices-enable-fips = Īslēgt FIPS
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

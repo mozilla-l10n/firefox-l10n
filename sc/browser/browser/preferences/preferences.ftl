@@ -521,9 +521,6 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -634,9 +631,6 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -728,8 +722,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ammustra cussìgios de chirca in is resurtados de sa barra de indiritzos
     .accesskey = i
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Ammustra is tèrmines de chirca in sa barra de indiritzos de is pàginas de resurtados
 # With this option enabled, on the search results page

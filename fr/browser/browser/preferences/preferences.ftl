@@ -559,9 +559,6 @@ update-in-progress-ok-button = &Abandonner
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuer
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Performances
@@ -816,8 +813,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Afficher les suggestions de recherche parmi les résultats de la barre d’adresse
     .accesskey = c
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Afficher les termes des recherches dans la barre d’adresse des pages de résultats
 # With this option enabled, on the search results page

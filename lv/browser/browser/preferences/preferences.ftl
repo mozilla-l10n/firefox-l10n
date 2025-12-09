@@ -466,9 +466,6 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -575,9 +572,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1357,9 +1351,6 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

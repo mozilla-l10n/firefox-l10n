@@ -524,9 +524,6 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Performanse
@@ -636,9 +633,6 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
 
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } sadržaj
@@ -731,8 +725,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikazuj prijedloge za pretragu u rezultatima adresne trake
     .accesskey = l
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Prikaži pojmove za pretraživanje u adresnoj traci na stranicama s rezultatima
 # With this option enabled, on the search results page
