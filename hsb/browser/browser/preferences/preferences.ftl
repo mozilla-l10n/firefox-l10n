@@ -989,6 +989,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Synchronizujeće tute zapiski přez wšě waše zwjazane graty:
+sync-syncing-across-devices-heading-2 = Daty, kotrež su přez graty synchronizowane
+sync-syncing-across-devices-empty-state =
+    .label = Hišće njesynchronizujeće ničo…
+    .description = Započńće synchronizować, zo byšće swoje daty na wšěch swojich gratach k dispoziciji měł
 sync-currently-syncing-bookmarks = Zapołožki
 sync-currently-syncing-history = Historija
 sync-currently-syncing-tabs = Wočinjene rajtarki

@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Wobšudne sydło
 safeb-blocked-malware-page-title = Wopyt tutoho websydła móže waš ličak poškodźić
 safeb-blocked-unwanted-page-title = Tute sydło móže škódne programy wobsahować
 safeb-blocked-harmful-page-title = Sydło prědku móže škódnu softwaru wobsahować
+safeb-blocked-addon-page-title = Sydło je za wašu wěstotu zablokowane
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } je tutu stronu zablokował, dokelž móhła was zawjedować, něšto strašne činił, kaž na přikład softwaru instalować abo wosobinske daty kaž hesła abo kreditne karty přeradzić.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je tutu stronu zablokował, dokelž móhła pospytować, złóstnu softwaru instalować, kotraž móhła wosobinske daty na wašim ličaku kradnyć abo zhašeć.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je tutu stronu zablokował, dokelž móhła pospytować, was zawjedować, programy instalować, kotrež wašemu přehladowanskemu dožiwjenju škodźeć (na přikład přez to, zo wašu startowu stronu měnjeja abo přidatne wabjenje na sydłach, kotrež wopytujeće, pokazuja).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je tutu stronu zablokował, dokelž móhła strašne nałoženja instalować, kotrež waše daty kradnu abo hašeja (na přikład fota, hesła, powěsće a kreditne karty).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } je tutu webstronu zablokował, dokelž jedyn z wašich přidatkow spyta ju wočinić. Tute sydło móhło so wužiwać, zo by waše informacije kradnyło – na přikład hesła abo čisła kreditnych kartow.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rada data wot <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,9 @@ safeb-blocked-harmful-page-learn-more = Zhońće na <a data-l10n-name='firefox_s
 safeb-palm-notdeceptive =
     .label = To wobšudne sydło njeje…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Čehodla je so tute sydło zablokowało?</strong>
