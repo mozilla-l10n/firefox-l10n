@@ -1443,7 +1443,9 @@ trustpanel-etp-description-enabled = Ako nešto na ovoj stranici izgleda neispra
 trustpanel-etp-description-disabled = { -brand-product-name } smatra da bi te tvrtke trebale manje pratiti. Blokiramo što više programa za praćenje kad uključiš zaštite.
 trustpanel-connection-label-secure = Veza je sigurna
 trustpanel-connection-label-insecure = Veza nije sigurna
+trustpanel-header-enabled = { -brand-product-name } stražari
 trustpanel-header-disabled = Isključio/la si zaštitu
+trustpanel-description-disabled = { -brand-product-name } nije uključen. Predlažemo da ponovo uključiš zaštitu.
 trustpanel-clear-cookies-button = Izbriši kolačiće i podatke stranica
 trustpanel-privacy-link = Postavke privatnosti
 # Variables
