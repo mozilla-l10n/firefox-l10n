@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = Wobšudne sedło
 safeb-blocked-malware-page-title = Woglěd toś togo websedła móžo wašo licadło póškóźiś
 safeb-blocked-unwanted-page-title = Toś to sedło móžo škódne programy wopśimowaś
 safeb-blocked-harmful-page-title = Sedło prědku móžo škódnu software wopśimowaś
+safeb-blocked-addon-page-title = Sedło jo za wašu wěstotu blokěrowane
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } jo toś ten bok blokěrował, dokulaž mógał was zawjedowaś, něcoo tšašne cynił, ako na pśikład software instalěrowaś abo wósobinske daty ako gronidła abo kreditowe kórty pśeraźiś.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } jo toś ten bok zablokěrował, dokulaž mógał wopytowaś, škódnu software instalěrowaś, kótaraž mógła wósobinske daty na wašom licadle kšadnuś abo wulašowaś.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } jo toś ten bok blokěrował, dokulaž mógał wopytowaś, was zawjedowaś, programy instalěrowaś, kótarež wašomu pśeglědowańskemu dožywjenjeju škóźeś (na pśikład pśez to, až waš startowy bok změnjaju abo pśidatne wabjenje na sedłach, ku kótaremuž se woglědujośo, pokazuju).

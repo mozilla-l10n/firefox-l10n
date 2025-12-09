@@ -430,3 +430,18 @@ etp-strict-exceptions-infobar-button = Rozwězanja nałožyś
     .accesskey = R
 etp-strict-exceptions-infobar-not-now = Nic něnto
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } njejo waš standardny wobglědowak
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } njejo waš głowny wobglědowak
+set-default-menu-message-row-layout-title = Cyńśo { -brand-short-name } k swójomu głownemu wobglědowakoju
+set-default-menu-message-row-layout-title-variant = Cyńśo { -brand-short-name } k swójomu standardnemu wobglědowakoju
+set-default-menu-message-row-layout-subtitle = Dostańśo malsnosć, wěstotu a priwatnosć kuždy raz, gaž pśeglědujośo.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a zachowajśo jen w swójim doku.
+       *[other] Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a zachowajśo jen w nadawkowej rědce.
+    }
+set-default-menu-message-primary-button = Ako standard wužywaś
+set-default-menu-message-primary-button-variant = Ako głowny wobglědowak nastajiś

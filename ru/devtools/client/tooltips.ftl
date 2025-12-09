@@ -86,6 +86,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Попробуйте до
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong> или <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Попробуйте добавить <strong>column-count</strong> или <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Попробуйте добавить <strong>column-count</strong> или <strong>column-width</strong> к одному из его элементов-предков. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Попробуйте добавить <strong>position:absolute</strong> к элементу, или <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родительскому элементу. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong> к родителю элемента. { learn-more }
 inactive-css-not-grid-item-fix-2 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента. { learn-more }
 inactive-css-not-grid-container-fix = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong>. { learn-more }

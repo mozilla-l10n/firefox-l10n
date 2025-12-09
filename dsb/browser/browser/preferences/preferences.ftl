@@ -565,6 +565,16 @@ update-in-progress-ok-button = &Zachyśiś
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dalej
 
+## Firefox support
+
+support-application-heading =
+    .label = Pomoc { -brand-short-name }
+    .description = Problemy rozwězaś abo ideje źěliś ze zgromaźeństwom.
+support-get-help =
+    .label = Pomoc wobstaraś
+support-share-ideas =
+    .label = Ideje a měnjenja źěliś
+
 ## General Section - Performance
 
 performance-title = Wugbaśe
@@ -825,6 +835,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Pytańske wuraze w adresowem pólu na wuslědkowych bokach pokazaś
+search-separate-default-engine-2 =
+    .label = Wužywajśo drugu standardnu pytnicu w priwatnych woknach
+    .accesskey = u
+search-separate-default-engine-dropdown =
+    .aria-label = Standardna pytnica w priwatnych woknach
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -974,6 +989,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Synchronizěrujośo toś te zapiski pśez wšykne waše zwězane rědy:
+sync-syncing-across-devices-heading-2 = Daty, kótarež su pśez rědy synchronizěrowane
+sync-syncing-across-devices-empty-state =
+    .label = Hyšći njesynchronizěrujośo nic…
+    .description = Zachopśo synchronizěrowaś, aby wšykne waše daty na wšych wašych rědach dostał.
 sync-currently-syncing-bookmarks = Cytańske znamjenja
 sync-currently-syncing-history = Historija
 sync-currently-syncing-tabs = Wócynjone rejtariki

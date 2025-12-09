@@ -160,6 +160,8 @@ sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
 sidebar-button-callout-subtitle = Wužywajśo tłocašk bocnice, aby bocnicu pokazał, aby titele rejtarikow wiźeł.
 sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo tłocašk bocnice w symbolowej rědce.
 sidebar-deprecation-callout-title = Zaktualizěrowana bocnica buźo skóro k dispoziciji
+sidebar-deprecation-callout-subtitle = Dajomy wersiju bocnice wótběžaś, kótaruž tuchylu wužywaśo. Wopytajśo zaktualizěrowanu bocnicu. Jo malsnjejša a dostanjośo pśistup k wěcej rědam.
+sidebar-deprecation-cta-button = Wopytajśo něnto
 
 ## Sidebar Vertical Tabs Strings
 
