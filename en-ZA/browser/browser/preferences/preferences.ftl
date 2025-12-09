@@ -171,6 +171,9 @@ update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -255,6 +258,10 @@ search-keyword-warning-title = Duplicate Keyword
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
+search-engine-group =
+    .label = Default Search Engine
+search-default-engine =
+    .aria-label = Default Search Engine
 
 ## Containers Section
 
