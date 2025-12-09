@@ -547,6 +547,16 @@ update-in-progress-ok-button = 버리기(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } 지원
+    .description = 문제를 해결하거나 커뮤니티와 아이디어를 공유하세요.
+support-get-help =
+    .label = 도움 받기
+support-share-ideas =
+    .label = 아이디어 및 의견 공유
+
 ## General Section - Performance
 
 performance-title = 성능

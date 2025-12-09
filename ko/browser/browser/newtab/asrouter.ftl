@@ -426,4 +426,7 @@ etp-strict-exceptions-infobar-not-now = 나중에
 
 set-default-menu-message-simple-layout-title = { -brand-short-name }가 기본 브라우저가 아닙니다
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name }가 기본 브라우저가 아닙니다
+set-default-menu-message-row-layout-title = { -brand-short-name }를 기본 브라우저로 설정하세요
+set-default-menu-message-row-layout-title-variant = { -brand-short-name }를 기본 브라우저로 설정
+set-default-menu-message-row-layout-subtitle = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
 set-default-menu-message-primary-button-variant = 기본 브라우저로 설정
