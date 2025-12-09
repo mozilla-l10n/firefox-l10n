@@ -249,6 +249,8 @@ urlbar-search-mode-actions = Radnje
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ovoj je stranici zabranjen pristup podacima mjesta.
+urlbar-local-network-blocked =
+    .tooltiptext = Blokirao/la si veze lokalne mreže za ovu web-stranicu.
 urlbar-xr-blocked =
     .tooltiptext = Ovoj ste stranici blokirali pristup uređajima za virtualnu stvarnost.
 urlbar-web-notifications-blocked =
@@ -815,6 +817,8 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Primaj podatke s burze direktno u svojoj tražilici
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Prikaži prijedloge
 # This string is shown in split button to dismiss activation the Realtime suggestion.

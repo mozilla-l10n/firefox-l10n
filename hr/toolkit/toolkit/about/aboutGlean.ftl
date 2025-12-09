@@ -55,4 +55,29 @@ about-glean-about-data-list-item-about-telemetry =
 about-glean-about-data-list-item-firefox-profiler =
     Za snimanje profila performansi i pregled svih zabilježenih metrika, koristi
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-header = Svi metrički podaci
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategorija
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Ime
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Vrsta
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Vrijednost
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Radnje
+about-glean-metrics-table-settings-button = Postavke
+about-glean-metrics-table-settings-category-general = Opće
+about-glean-metrics-table-settings-category-visualizations = Vizualizacije
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Primjer
+about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
+about-glean-metrics-table-settings-category-visualizations-timeline = Vremenska crta
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Filtar
+about-glean-button-load-all = Učitaj sve vrijednosti
+about-glean-button-load-value = Učitaj
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentacije
+about-glean-no-data-to-display = Nema podataka za prikaz.
 about-glean-about-data-explanation = Za pregledavanje popisa prikupljenih podataka, pogledaj<a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }Rječnik</a>.
