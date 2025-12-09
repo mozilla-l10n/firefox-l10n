@@ -466,6 +466,9 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -572,6 +575,9 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -695,6 +701,10 @@ search-keyword-warning-title = Šāds atslēgas vārds jau tiek izmantots
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
 search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau izmanto kāda grāmatzīme. Lūdzu, izvēlieties citu.
+search-engine-group =
+    .label = Noklusējuma meklētājs
+search-default-engine =
+    .aria-label = Noklusējuma meklētājs
 
 ## Containers Section
 
@@ -1347,6 +1357,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
