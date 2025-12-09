@@ -177,8 +177,12 @@ fp-neterror-offline-body-title = Zda se, až jo problem z wašym internetnym zwi
 
 fp-neterror-connection-intro = { -brand-short-name } njamóžo wěsty zwisk z serwerom na { $hostname } nawězaś.
 fp-neterror-offline-intro = { -brand-short-name } njamóžo ze serwerom <strong>{ $hostname }</strong> zwězaś
+fp-neterror-coop-coep-intro = { -brand-short-name } njejo zacytał toś ten bok, dokulaž se zda, ako njeby wěstotna konfiguracija z pjerwjejšnym bokom wótpowědował.
+fp-neterror-why-did-this-happen = Cogodla jo se to stało?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zda se, až toś to sedło staru software ze znatymi wěstotnymi problemami wužywa.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Zawěsććo, až nejnowšu wersiju { -brand-short-name } wužywaśo. Źiśo k Pomoc > Wó { -brand-short-name } w meniju. Jolic nejnowšu wersiju { -brand-short-name } wužywaśo, ma nejskerjej sedło toś ten problem.
 fp-neterror-offline-what-can-you-do-body = Wopytajśo z drugim rědom zwězaś. Pśeglědajśo swój modem abo router. Źělśo zwisk WLAN a zwěžćo znowego.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Wótergi se websedła pśed njewitanymi interakcijami z drugimi sedłami šćitaju.
