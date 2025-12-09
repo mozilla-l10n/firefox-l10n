@@ -321,6 +321,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -413,6 +416,9 @@ choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -504,6 +510,10 @@ search-keyword-warning-title = Duplicar a parola clau
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ha trigau una parola clau que ya emplega "{ $name }". Trigue-ne unatra.
 search-keyword-warning-bookmark = Ha trigau una parola clau que ya emplega unatro marcapachinas. Trigue-ne unatra.
+search-engine-group =
+    .label = Motor de busca por defecto
+search-default-engine =
+    .aria-label = Motor de busca por defecto
 
 ## Containers Section
 
@@ -723,6 +733,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escrib
 primary-password-os-auth-dialog-message-macosx = Crear una clau primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historial
@@ -818,6 +831,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Chestionar excepcions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -985,6 +1004,9 @@ addon-recommendations-link = Saber-ne mas
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1028,6 +1050,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar lo modo Nomás-HTTPS nomás en as finestras privadas
 httpsonly-radio-disabled =
     .label = No activar lo modo Nomás-HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
