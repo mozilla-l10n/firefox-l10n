@@ -450,6 +450,9 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -550,6 +553,9 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -665,6 +671,10 @@ search-keyword-warning-title = Facal-luirg dùbailte
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Thagh thu facal-luirg a tha ’ga chleachdadh le “{ $name }” mu thràth. An tagh thu fear eile?
 search-keyword-warning-bookmark = Tagh thu facal-luirg a tha 'ga chleachdadh ann an comharra-lìn mu thràth. An tagh thu fear eile?
+search-engine-group =
+    .label = An t-einnsean-luirg bunaiteach
+search-default-engine =
+    .aria-label = An t-einnsean-luirg bunaiteach
 
 ## Containers Section
 
@@ -907,6 +917,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1226,6 +1239,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
