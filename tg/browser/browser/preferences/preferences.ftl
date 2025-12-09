@@ -60,6 +60,7 @@ pane-experimental-description2 = Тағйир додани хусусиятҳо 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Хусусиятҳои озмоишии моро санҷед! Онҳо дар ҳоли рушд ва такмил мебошанд, ки метавонад ба кори «{ -brand-short-name }» таъсир расонад. Мо маълумотро дар бораи истифодаи шумо аз ин хусусиятҳо танҳо дар он маврид мегирем, агар шумо <a data-l10n-name="data-collection">маълумоти техникӣ ва ҳамкориро</a> фаъол карда бошед.
 pane-experimental-description3 = Хусусиятҳои таҷрибавии моро санҷед! Онҳо дар ҳоли рушд ва таҳаввул ҳастанд, ки метавонад ба тарзи кори «{ -brand-short-name }» таъсир расонад.
 pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
@@ -113,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Барои фаъол кардани васеъшавӣ ба қисмати <img data-l10n-name="addons-icon"/> Ҷузъҳои иловагӣ дар <img data-l10n-name="menu-icon"/> меню гузаред.
+extension-controlled-enable-2 = Барои аз нав фаъол кардани ин васеъшавӣ ба бахши <a data-l10n-name="addons-link">«Васеъшавиҳо ва мавзуъҳо»</a> гузаред.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = «{ $name }» баъзе танзимоти саҳифаи асосии шуморо идора мекунад.
 
 ## Preferences UI Search Results
 
