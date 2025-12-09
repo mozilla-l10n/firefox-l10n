@@ -76,6 +76,10 @@ fp-certerror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } was před tutym sydłom warnuje, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, je so wotwołał a hižo dowěry hódny njeje.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Sydło je tak konfigurowane, zo jenož wěste zwiski dowoluje, ale je problem z certifikatom sydła. Je móžno, zo złowólny akter pospytuje, sydło imitować. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž jeho certifikat za { $hostname } płaćiwy njeje. Certifikat je jenož płaćiwy za: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

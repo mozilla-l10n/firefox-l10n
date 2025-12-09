@@ -559,6 +559,11 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortset
 
+## Firefox support
+
+support-get-help =
+    .label = Få hjelp
+
 ## General Section - Performance
 
 performance-title = Yting
