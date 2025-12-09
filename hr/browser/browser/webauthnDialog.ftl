@@ -44,7 +44,7 @@ webauthn-user-presence-prompt = Dodirnite svoj sigurnosni ključ za nastavak s {
 # Variables:
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = { $hostname } traži proširene informacije o vašem sigurnosnom ključu, što može utjecati na vašu privatnost.
-webauthn-register-direct-prompt-hint = { -brand-short-name } može anonimizirati podatke za vas, ali web stranica može odbiti ovaj ključ. Ukoliko ste odbijeni, možete pokušati ponovno.
+webauthn-register-direct-prompt-hint = { -brand-short-name } može anonimizirati podatke za tebe, ali web-stranica može odbiti ovaj ključ. Ako ga odbije, možeš pokušati ponovo.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = Pronađeno je više računa za { $hostname }. Odaberite koji želite koristiti ili odustanite.

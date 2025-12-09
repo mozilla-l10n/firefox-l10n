@@ -34,9 +34,9 @@ sidebar-history-sort-by-heading = Razvrstaj po:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
-    .label = Web stranica
+    .label = Web-stranica
 sidebar-history-sort-option-date-and-site =
-    .label = Datum i web stranica
+    .label = Datum i web-stranica
 sidebar-history-sort-option-last-visited =
     .label = Zadnja posjećena
 

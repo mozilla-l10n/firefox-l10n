@@ -120,7 +120,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = U
 protections-panel-content-blocking-breakage-report-view =
     .title = Prijavi neispravnu stranicu
-protections-panel-content-blocking-breakage-report-view-description = Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti { -brand-short-name } za sve korisnike. Kad pošalješ ove prijavu, Mozilli ćeš poslati URL stranice i informacije o postavkama preglednika. <label data-l10n-name="learn-more">Saznaj više</label>
+protections-panel-content-blocking-breakage-report-view-description = Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web-stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti { -brand-short-name } za sve korisnike. Kada pošalješ ovu prijavu, Mozilla će primiti poruku s URL podacima i informacije o postavkama preglednika. <label data-l10n-name="learn-more">Saznaj više</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

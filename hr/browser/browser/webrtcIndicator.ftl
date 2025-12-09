@@ -189,8 +189,8 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dopustiti strani
 
 ##
 
-webrtc-share-screen-warning = Dijeli ekrane samo s web stranicama kojima vjeruješ. Dijeljenje može dozvoliti obmanjujućim web stranicama da pregledavaju kao i ti, te ukrasti tvoje privatne podatke.
-webrtc-share-browser-warning = Dijeli { -brand-short-name } samo s web stranicama kojima vjeruješ. Dijeljenje može dozvoliti obmanjujućim web stranicama da pregledavaju kao ti, te ukrasti tvoje privatne podatke.
+webrtc-share-screen-warning = Dijeli ekrane samo s web-stranicama kojima vjeruješ. Dijeljenje može dozvoliti obmanjujućim web-stranicama da pregledavaju kao i ti, te ukrasti tvoje privatne podatke.
+webrtc-share-browser-warning = Dijeli { -brand-short-name } samo s web-stranicama kojima vjeruješ. Dijeljenje može dozvoliti obmanjujućim web-stranicama da pregledavaju kao ti, te ukrasti tvoje privatne podatke.
 webrtc-share-screen-learn-more = Saznaj više
 webrtc-pick-window-or-screen = Odaberi prozor ili ekran
 webrtc-share-entire-screen = Cijeli ekran
