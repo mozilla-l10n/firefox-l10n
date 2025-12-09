@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Ručno testiranje
 about-glean-category-adhoc-testing = Ad hoc testiranje
 about-glean-category-profiler = Korištenje profilera
 about-glean-category-about-data = Informacije o podacima
+about-glean-category-metrics-table = Tablica metrika
 about-glean-upload-enabled = Prijenos podataka je aktiviran.
 about-glean-upload-disabled = Prijenos podataka je deaktiviran.
 about-glean-upload-enabled-local = Prijenos podataka je aktiviran samo za slanje na lokalni server.
@@ -39,10 +40,14 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = O testiranju
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ne šalji nijedan ping)
-about-glean-profiler-explanation =
-    Za potpuni prikaz svih zabilježenih metričnih podataka možeš koristiti { -profiler-brand-name }.
-    Najprije <a data-l10n-name="firefox-profiler-link">snimi profil performansi</a>.
-    Nakon snimanja profila odaberi <q>Dijagram markera</q> i pogledaj markere u odjeljku <q>Telemetrija</q>.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Odaberi iz prethodnog popisa ping u kojem se nalazi tvoja instrumentacija.
+    Ako je u <a data-l10n-name="custom-ping-link">prilagođenom pingu</a>, odaberi taj.
+    Inače, zadana vrijednost za metrike <code>events</code> je
+    ping <code>events</code>, a zadana vrijednost za sve ostale metrike je
+    ping <code>metrics</code>.
 controls-button-label-verbose = Primijeni postavke i pošalji ping
 about-glean-feedback-settings-only =
     .message = Postavke su primijenjene!
