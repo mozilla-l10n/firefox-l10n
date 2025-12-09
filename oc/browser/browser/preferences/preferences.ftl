@@ -471,6 +471,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -574,6 +577,9 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -693,6 +699,10 @@ search-keyword-warning-title = Doblon de mot clau
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Avètz causit un mot clau que ja es utilizat per « { $name } ». Causissètz-ne un autre.
 search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat per un marcapaginas. Causissètz-ne un autre.
+search-engine-group =
+    .label = Motor de cerca per defaut
+search-default-engine =
+    .aria-label = Motor de cerca per defaut
 
 ## Containers Section
 
