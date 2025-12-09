@@ -167,3 +167,7 @@ certerror-coep-learn-more = Маълумоти бештар дар бораи с
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Рамзи хато: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Чунин ба назар мерасад, ки дар пайвасти Интернети шумо мушкилӣ ба миён омад

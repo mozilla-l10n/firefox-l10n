@@ -88,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Дақиқаи гузашта
 time-spinner-minute-next =
     .aria-label = Дақиқаи оянда
+time-spinner-day-period-previous =
+    .aria-label = Давраи гузаштаи рӯз
+time-spinner-day-period-next =
+    .aria-label = Давраи ояндаи рӯз

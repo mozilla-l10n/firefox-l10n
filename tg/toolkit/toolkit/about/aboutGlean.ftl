@@ -147,6 +147,14 @@ about-glean-metrics-table-settings-histograms-chart-padding = Фосиласоз
 about-glean-metrics-table-settings-histograms-left-padding = Фосиласозии иловагӣ аз тарафи чап
 about-glean-metrics-table-settings-category-visualizations-timeline = Хати вақт
 about-glean-metrics-table-settings-timelines-height = Баландӣ
+about-glean-metrics-table-settings-timelines-width = Васеӣ
+about-glean-metrics-table-settings-timelines-chart-padding = Фосиласозии диаграмма
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Радиуси доира
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Инҳирофи ҷойгиршавии меҳвари Y аз X
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Инҳирофи ҷойгиршавии меҳвари Y аз Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Поло
 # This message sits alongside an input field, further describing its purpose.
@@ -165,6 +173,8 @@ about-glean-button-watch = Назорат кардан
 about-glean-button-unwatch = Бекор кардани назорат
 about-glean-no-data-to-display = Ягон маълумот барои намоиш нест.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Нишондиҳандаҳои <code>DualLabeledCounter</code> ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Нишондиҳандаҳои барчаспдор ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
 about-glean-unknown-metric-type-warning = Навъи нишондиҳандаҳои номаълум.
 about-glean-enable-new-features-promo =
@@ -173,3 +183,10 @@ about-glean-enable-new-features-promo =
 about-glean-enable-new-features-button = Фаъол кардани хусусиятҳои нав
 about-glean-disable-new-features-button = Ғайрифаъол кардани хусусиятҳои нав
 about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Пингҳои дарунсохт
+about-glean-ping-list-optgroup-custom =
+    .label = Пингҳои фармоишӣ

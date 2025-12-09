@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Ба ин файл иҷозат мед�
 permission-dialog-description-extension-app = Ба васеъшавии { $extension } иҷозат медиҳед, ки пайванди { $scheme }-ро ба воситаи { $appName } кушояд?
 permission-dialog-description-system-app = Пайванди «{ $scheme }»-ро ба воситаи «{ $appName }» мекушоед?
 permission-dialog-description-system-noapp = Пайванди «{ $scheme }»-ро мекушоед?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Ба ин сомона иҷозат медиҳед, то тавонад ҳамёни рақамии шуморо кушояд?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

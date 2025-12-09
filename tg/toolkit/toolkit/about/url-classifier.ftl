@@ -14,6 +14,7 @@ url-classifier-search-result-list = Рӯйхати ҷадвалҳо: { $list }
 url-classifier-search-input = Нишонии URL
 url-classifier-search-error-invalid-url = Нишонии URL беэътибор аст
 url-classifier-search-error-no-features = Ягон хусусият интихоб карда нашуд
+url-classifier-search-error-no-results = Барои нишонии «URL» ягон сабт ёфт нашуд
 url-classifier-search-btn = Оғози ҷустуҷӯ
 url-classifier-search-features = Хусусиятҳо
 url-classifier-search-listType = Намуди рӯйхат
