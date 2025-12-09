@@ -117,15 +117,24 @@ fxa-adoption-passwords-primary-button-label = Registriraj se
 taskbar-tabs-chat-callout-title = Čavrljaj iz svoje programske trake
 taskbar-tabs-email-callout-title = Drži svoju e-poštu u programskoj traci
 taskbar-tabs-email-callout-subtitle = Pokreni svoju web-poštu poput aplikacije u pojednostavljenom prozoru koju štiti { -brand-short-name }.
+taskbar-tabs-media-callout-title = Vrati internetski prijenos sadržaja iz programske trake
+taskbar-tabs-media-callout-subtitle = Pokreni svoje web-stranice za internetski prijenos sadržaja kao aplikaciju u pojednostavljenom prozoru, koje štiti { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Dodaj ovu stranicu u programsku traku
+taskbar-tabs-value-prop-callout-subtitle = Jednim klikom pokreni u vlastitom prozoru s pojednostavljenim sučeljem.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nemoj izgubiti spremljene podatke prilikom prijelaza na Windows 11.
 windows-10-eos-sync-urgency-title-2 = Opraštaš se od Windows 10? Zaštiti svoje podatke tijekom prelaska.
 windows-10-eos-sync-new-device-subtitle-1 = Sinkroniziraj { -brand-short-name } tako da svoje zabilješke, lozinke i postavke možeš ponijeti sa sobom kada se seliš na novi uređaj.
+windows-10-eos-sync-new-device-title-2 = Prelaziš na novi uređaj? Nemoj izgubiti ono što ti je bitno.
+windows-10-eos-sync-new-device-subtitle-2 = Bez obzira koliko često koristiš { -brand-short-name }, sinkronizacija štiti tvoje zabilješke, lozinke i postavke.
 windows-10-eos-sync-new-device-primary-label = Sinkroniziraj sada
+windows-10-eos-sync-general-title-1 = Zaštiti { -brand-short-name } kojeg si učinio/la svojim.
+windows-10-eos-sync-tour-title-1 = Previše kartica? Pospremi ih pomoću grupa kartica.
+windows-10-eos-sync-tour-subtitle-1 = Povuci jednu karticu preko druge za stvaranje grupe i održi stvari organiziranima.
 windows-10-eos-sync-tour-title-2 = Organiziraj se za Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sinkroniziraj svoje zabilješke, lozinke i postavke kako bi bili sigurnosno kopirani prije prelaska na novi uređaj.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Prikaži manje preporuka
 windows-10-eos-sync-dismiss-button-label = Odbaci
