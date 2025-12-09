@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = 이 페이지 북마크 ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = 분할 보기
+    .aria-label = 분할 보기
 
 ## Page Action Context Menu
 
@@ -831,6 +834,9 @@ urlbar-result-menu-dont-show-market =
     .label = 시장 제안을 표시하지 않음
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = 의견을 보내 주셔서 감사합니다. 시장 제안이 더 이상 표시되지 않습니다.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = 주식 시장 제안
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = 의견을 보내 주셔서 감사합니다. 이 제안이 더 이상 표시되지 않습니다.
@@ -1499,3 +1505,4 @@ trustpanel-fingerprinter-list-header = 다음 사이트가 디지털 지문을 �
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name }가 암호화폐 채굴기 { $count }개를 차단함
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name }가 암호화폐 채굴기 { $count }개를 허용함
 trustpanel-cryptominer-tab-list-header = 다음 사이트는 암호화폐 채굴을 시도합니다:
+trustpanel-blocker-section-header2 = 이 사이트에서 추적기 <span data-l10n-name="count">{ $count }</span>개 차단됨

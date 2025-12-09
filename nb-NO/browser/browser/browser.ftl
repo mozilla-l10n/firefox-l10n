@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bokmerk denne siden ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Delt visning
+    .aria-label = Delt visning
 
 ## Page Action Context Menu
 

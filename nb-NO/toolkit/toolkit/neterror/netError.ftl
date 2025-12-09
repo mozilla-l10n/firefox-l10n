@@ -184,3 +184,5 @@ fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som dette nettstedet 
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Sørg for at du bruker den nyeste versjonen av { -brand-short-name }. Gå til Hjelp > Om { -brand-short-name } i menyen. Hvis du bruker den nyeste versjonen av { -brand-short-name }, ligger problemet mest sannsynlig hos selve nettstedet.
 fp-neterror-offline-what-can-you-do-body = Prøv å koble til på en annen enhet. Sjekk modemet eller ruteren. Koble fra og koble til Wi-Fi igjen.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Noen ganger setter nettsteder opp beskyttelser for seg selv mot uønskede interaksjoner med andre nettsteder.

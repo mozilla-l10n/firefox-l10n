@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Se en kort beskrivelse, lesetid og
 sidebar-button-callout-title = Vis fanetitler i sidestolpen
 sidebar-button-callout-subtitle = Bruk sidestolpeknappen for å utvide sidestolpen, slik at du kan se fanetitler.
 sidebar-button-callout-vertical-tabs = For å vise fanene dine, velg sidestolpe-knappen på verktøylinjen.
+sidebar-deprecation-cta-button = Prøv det nå
 
 ## Sidebar Vertical Tabs Strings
 

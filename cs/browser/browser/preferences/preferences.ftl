@@ -227,13 +227,13 @@ preferences-profiles-settings-button =
     .label = Nastavení
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .label = Kopírovat existující profil
-    .description = Nový profil zkopíruje vaše nastavení, doplňky, historii a uložená data, jako jsou záložky a hesla, ale ne informace o účtu nebo synchronizaci.
+    .label = Zkopírování profilu
+    .description = Nový profil si nakopíruje vaše nastavení, doplňky, historii a uložená data jako záložky a hesla – ne však údaje o vašem účtu ani vaší synchronizaci.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
 preferences-profile-to-copy =
-    .label = Profil na kopírování
+    .label = Profil, který bude zkopírován
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.

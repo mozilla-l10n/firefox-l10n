@@ -35,3 +35,5 @@ customkeys-nav-reload = 새로 고침
 customkeys-nav-reload-skip-cache = 새로 고침 (캐시 재정의)
 customkeys-nav-stop = 중지
 customkeys-caution-message = 이 기능은 실험적이며 예상대로 작동하지 않을 수 있습니다.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = 유효하지 않음
