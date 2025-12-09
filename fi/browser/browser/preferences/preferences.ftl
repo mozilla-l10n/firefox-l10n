@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Hylkää
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Suorituskyky
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Hakukone nimeltä ”{ $name }” on jo ole
 remove-engine-confirmation = Haluatko varmasti poistaa tämän hakukoneen?
 remove-engine-remove = Poista
 remove-addon-engine-alert = Poistaaksesi tämän hakukoneen, poista siihen liittyvä lisäosa.
+search-engine-group =
+    .label = Oletushakukone
+search-default-engine =
+    .aria-label = Oletushakukone
 
 ## Containers Section
 
