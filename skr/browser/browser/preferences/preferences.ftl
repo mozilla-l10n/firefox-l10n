@@ -463,6 +463,9 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -569,6 +572,9 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -692,6 +698,10 @@ search-keyword-warning-title = ڈپلی کیٹ کلیدی لفظ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = تساں اینجھا کلیدی لفظ منتخب کیتا ہے جینکوں { $name } ایں ویلھے استعمال کریندا پئے۔ مہربانی کر تے کوئی ٻیا منتخب کرو۔
 search-keyword-warning-bookmark = تساں اینجھا کلیدی لفظ منتخب کیتا ہے جینکوں ہک نشانی ایں ویلھے استعمال کریندی ہے۔ مہربانی کر تے کوئی ٻیا منتخب کرو۔
+search-engine-group =
+    .label = طے شدہ ڳولݨ انجݨ
+search-default-engine =
+    .aria-label = طے شدہ ڳولݨ انجݨ
 
 ## Containers Section
 
