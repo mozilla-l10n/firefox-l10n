@@ -177,6 +177,8 @@ fp-neterror-offline-body-title = Det ser ut til at det er et problem med interne
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikke opprette en sikker forbindelse til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikke koble til serveren på <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } lastet ikke inn denne siden fordi det ser ut til at sikkerhetskonfigurasjonen ikke samsvarer med den forrige siden.
+fp-neterror-why-did-this-happen = Hvorfor skjedde dette?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som dette nettstedet bruker gammel programvare med kjente sikkerhetsproblemer.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
