@@ -186,3 +186,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body = Assicurati di utilizzare la ve
 fp-neterror-offline-what-can-you-do-body = Prova a connetterti da un altro dispositivo, controlla il modem o il router, disattiva e riattiva la connessione Wi-Fi.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A volte i siti web proteggono se stessi da interazioni indesiderate con altri siti.
+
