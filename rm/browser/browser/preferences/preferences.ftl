@@ -525,6 +525,9 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -633,6 +636,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -778,6 +784,10 @@ edit-engine-name-warning-duplicate = Igl exista gia ina maschina da tschertgar c
 remove-engine-confirmation = Vuls ti propi allontanar questa maschina da tschertgar?
 remove-engine-remove = Allontanar
 remove-addon-engine-alert = Per allontanar questa maschina da tschertgar, allontanescha il supplement associà.
+search-engine-group =
+    .label = Maschina da tschertgar da standard
+search-default-engine =
+    .aria-label = Maschina da tschertgar da standard
 
 ## Containers Section
 
