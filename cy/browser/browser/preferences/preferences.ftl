@@ -568,6 +568,9 @@ update-in-progress-ok-button = &Dileu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Perfformiad
@@ -876,6 +879,10 @@ edit-engine-name-warning-duplicate = Mae peiriant chwilio eisoes o'r enw “{ $n
 remove-engine-confirmation = Ydych chi'n siŵr eich bod am dynnu'r peiriant chwilio hwn?
 remove-engine-remove = Tynnu
 remove-addon-engine-alert = I dynnu'r peiriant chwilio hwn, tynnwch yr ychwanegyn cysylltiedig.
+search-engine-group =
+    .label = Peiriant Chwilio Rhagosodedig
+search-default-engine =
+    .aria-label = Peiriant Chwilio Rhagosodedig
 
 ## Containers Section
 
