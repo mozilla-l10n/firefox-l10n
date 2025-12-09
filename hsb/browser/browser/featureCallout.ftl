@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Pokazajće krótke wopisanje, čit
 sidebar-button-callout-title = Titule rajtarkow w bóčnicy pokazać
 sidebar-button-callout-subtitle = Wužiwajće tłóčatko bóčnicy, zo byšće bóčnicu pokazał, zo byšće titule rajtarkow widźał.
 sidebar-button-callout-vertical-tabs = Zo byšće swoje rajtarki pokazał, wubjerće tłóčatko bóčnicy w symbolowej lajsće.
+sidebar-deprecation-callout-title = Zaktualizowana bóčnica budźe bórze k dispoziciji
 
 ## Sidebar Vertical Tabs Strings
 

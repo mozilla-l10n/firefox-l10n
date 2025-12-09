@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Tutu stronu ({ $shortcut }) jako zapołožku składować
+urlbar-split-view-button =
+    .tooltiptext = Rozdźěleny napohlad
+    .aria-label = Rozdźěleny napohlad
 
 ## Page Action Context Menu
 
@@ -846,6 +849,9 @@ urlbar-result-menu-dont-show-market =
     .label = Wične namjety njepokazać
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Wulki dźak za waš komentar. Njebudźeće hižo wične namjety widźeć.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Namjety akcijowych wikow
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Wulki dźak za waš komentar. Njebudźeće hižo tute namjety widźeć.
@@ -1643,3 +1649,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je { $count } kryptokoparjow dowolił
     }
 trustpanel-cryptominer-tab-list-header = Tute sydła kryptokopanje pospytuja:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> přesćěhowak je so na tutym sydle zablokował
+        [two] <span data-l10n-name="count">{ $count }</span> přesćěhowakaj stej so na tutym sydle zablokowałoj
+        [few] <span data-l10n-name="count">{ $count }</span> přesćěhowaki su so na tutym sydle zablokowali
+       *[other] <span data-l10n-name="count">{ $count }</span> přesćěhowakow je so na tutym sydle zablokowało
+    }

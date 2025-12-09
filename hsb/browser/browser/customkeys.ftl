@@ -35,3 +35,5 @@ customkeys-nav-reload = Znowa začitać
 customkeys-nav-reload-skip-cache = Znowa začitać (pufrowak přepisać)
 customkeys-nav-stop = Stój
 customkeys-caution-message = Tuta funkcija je eksperimentelna a njedźěła snano kaž wočakowane.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Njepłaćiwy
