@@ -424,3 +424,8 @@ etp-strict-exceptions-infobar-button = Düzeltmeleri uygula
     .accesskey = D
 etp-strict-exceptions-infobar-not-now = Şimdi değil
     .accesskey = d
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } varsayılan tarayıcınız değil
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ana tarayıcınız değil

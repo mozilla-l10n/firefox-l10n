@@ -35,3 +35,5 @@ customkeys-nav-reload = Tazele
 customkeys-nav-reload-skip-cache = Tazele (Önbelleği geçersiz kıl)
 customkeys-nav-stop = Durdur
 customkeys-caution-message = Bu özellik deneyseldir ve beklendiği gibi çalışmayabilir.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Geçersiz

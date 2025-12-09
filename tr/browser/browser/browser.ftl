@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bu sayfayı yer imlerine ekle ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Ayrık görünüm
+    .aria-label = Ayrık görünüm
 
 ## Page Action Context Menu
 
@@ -837,6 +840,9 @@ urlbar-result-menu-dont-show-market =
     .label = Borsa önerilerini gösterme
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Geri bildiriminiz için teşekkür ederiz. Artık borsa önerilerini görmeyeceksiniz.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Borsa önerileri
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Geri bildiriminiz için teşekkür ederiz. Artık bu önerileri görmeyeceksiniz.
@@ -928,6 +934,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Kısayol seçilmemiş, kısayol seçin
     .tooltiptext = Kısayol seçilmemiş, kısayol seçin
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Anahtar kelimeyle arama devre dışı
+    .tooltiptext = Anahtar kelimeyle arama devre dışı
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
