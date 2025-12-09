@@ -485,6 +485,7 @@ create-backup-screen-1-title =
     Sigurnosno kopirajmo tvoje { -brand-product-name } podatke.
 create-backup-screen-1-subtitle = Automatski zaštiti svoje lozinke, zabilješke i još više u roku od jedne do dvije minute.
 create-backup-screen-1-flair = Preporučeno
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saznaj više</a>
 create-backup-screen-1-sync-label = Koristi { -brand-product-name } za sinkronizaciju
 create-backup-screen-1-sync-body = Sigurnosno kopira sve prijavljene uređaje
 create-backup-screen-1-backup-label = Sigurnosno kopiraj na računalo
@@ -544,6 +545,7 @@ restore-from-backup-secondary-button = Nemoj obnoviti
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Vratili smo se! { -brand-short-name } podaci su obnovljeni.
 restored-from-backup-success-with-checklist-subtitle = Želiš zadržati tvoj omiljen privatni preglednik nadohvat ruke?
 restored-from-backup-success-no-checklist-subtitle = Sigurnosno kopiranje za ovaj uređaj možeš uključiti u <a data-l10n-name="settings">Postavkama</a>.
 restored-from-backup-success-with-checklist-primary-button = Spremi i nastavi

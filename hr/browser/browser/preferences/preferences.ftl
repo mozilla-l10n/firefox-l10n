@@ -1603,6 +1603,7 @@ permissions-localhost = Aplikacije uređaja i usluge
 permissions-localhost-settings =
     .label = Postavke …
     .accesskey = t
+permissions-local-network = Uređaji na lokalnoj mreži
 permissions-local-network-settings =
     .label = Postavke …
     .accesskey = t
@@ -1640,6 +1641,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokiraj skočne prozore i preusmjeravanja trećih strana
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Upravljaj iznimkama za skočne prozore i preusmjeravanja trećih strana
+    .accesskey = e
+    .searchkeywords = skočni prozori
+permissions-addon-install-warning2 =
+    .label = Upozori kada web-stranice pokušaju instalirati proširenja
+    .accesskey = U
+permissions-addon-exceptions2 =
+    .label = Odaberi web-stranice koje mogu instalirati proširenja
+    .accesskey = e
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s

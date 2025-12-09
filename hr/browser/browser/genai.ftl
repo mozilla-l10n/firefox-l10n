@@ -245,8 +245,16 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Omogući preglede poveznica
     .description = Vidi naslov stranice, opis i još više kada koristiš prečac ili kada klikneš desnom tipkom miša na poveznicu.
+link-preview-settings-key-points =
+    .label = Dopusti umjetnoj inteligenciji čitanje početka web-stranice i generiranje ključnih točaka
 link-preview-settings-long-press =
     .label = Prečac: klikni i zadrži poveznicu pritisnutom jednu sekundu (dugi pritisak)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Želiš vidjeti više pomoću umjetne inteligencije?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } koristi umjetnu inteligenciju za čitanje početka stranice i generiranje nekoliko ključnih točaka. Kako bismo priorizirali tvoju privatnost, ovo se izvodi na tvojem uređaju.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novo: klikni i drži bilo koju poveznicu za prikaz pregleda
 # Header for the key points section
 link-preview-key-points-header = Ključne točke
 # Onboarding card See a preview button

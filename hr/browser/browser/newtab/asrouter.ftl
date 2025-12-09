@@ -72,6 +72,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .title = Zatvori
 fxa-adoption-credit-cards-backup-title = Izradimo sigurnosnu kopiju tvojih načina plaćanja
 fxa-adoption-credit-cards-backup-subtitle = Zaštiti svoje načine plaćanja sinkronizacijom s uređajima pomoću šifriranja.
+fxa-adoption-bookmarks-treatment-backup-title = Sigurnosno kopiraj svoje zabilješke
+fxa-adoption-bookmarks-treatment-backup-subtitle = Zaštiti svoje zabilješke sinkronizacijom s uređajima pomoću šifriranja.
 fxa-adoption-primary-button-label = Registriraj se
 
 ## Protections panel

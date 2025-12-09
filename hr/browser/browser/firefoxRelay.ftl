@@ -65,6 +65,7 @@ firefox-relay-offer-legal-notice-control = Registracijom i stvaranjem maske e-ma
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Spriječi neželjenu poštu besplatnom maskom za e-mail adresu
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Spriječi dobivanje neželjene pošte skrivanjem tvoje prave e-mail adrese pomoću <label data-l10n-name="firefox-relay-learn-more-url">maske za e-mail adresu</label>. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali s tvojom skrivenom e-mail adresom.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Za korištenje maske za e-mail adresu najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Registriraj se
@@ -73,8 +74,9 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Nabavi besplatnu masku za e-mail adresu
-firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">maske za e-mail adresu</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali sa tvojom skrivenom e-mail adresom.
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">maske za e-mail adresu</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali s tvojom skrivenom e-mail adresom.
 firefox-relay-and-fxa-popup-notification-first-sentence = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } maske za e-mail adresu</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali s tvojom skrivenom e-mail adresom.
+firefox-relay-offer-why-to-use-relay-1 = Zaštiti svoj sandučić dolazne pošte od neželjene pošte korištenjem besplatne <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } maske za e-mail adresu</label> za skrivanje tvoje stvarne adrese. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoj sandučić dolazne pošte, ali s tvojom skrivenom e-mail adresom.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Za korištenje maske za e-mail adresu najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registriraj se
@@ -83,7 +85,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Zaštiti se od neželjene pošte s maskom za e-mail adresu
-firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Zaštiti se od neželjene pošte skrivanjem tvoje prave adrese pomoću <label data-l10n-name="firefox-relay-learn-more-url">maske e-mail adrese</label>. I dalje ćeš primati e-poštu s <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web stranice</label> u tvoju uobičajenu dolaznu poštu, s maskiranom adresom.
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Zaštiti se od neželjene pošte skrivanjem tvoje prave adrese pomoću <label data-l10n-name="firefox-relay-learn-more-url">maske za e-mail adresu</label>. I dalje ćeš primati e-poštu od <label data-l10n-name="firefox-fxa-and-relay-offer-domain">ove web-stranice</label> u tvoju uobičajenu dolaznu poštu, s tvojom maskiranom adresom.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Za korištenje maske za e-mail adrese najprije se registriraj ili se prijavi na tvoj račun
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Dalje
