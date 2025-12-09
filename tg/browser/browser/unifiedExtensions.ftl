@@ -13,6 +13,13 @@ unified-extensions-manage-extensions =
     .label = Идоракунии васеъшавиҳо
 unified-extensions-discover-extensions =
     .label = Кашф кардани васеъшавиҳо
+unified-extensions-empty-reason-private-browsing-not-allowed = Шумо васеъшавиҳоро насб кардаед, аммо онҳо дар равзанаҳои махфӣ фаъол нестанд
+unified-extensions-empty-reason-extension-not-enabled = Шумо васеъшавиҳоро насб кардед, вале онҳо фаъол нестанд
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Таҷрибаи тамошобинии худро бо васеъшавиҳо беҳтар кунед
+unified-extensions-empty-content-explain-enable2 = Барои фаъол кардани онҳо дар танзимот, «{ unified-extensions-manage-extensions.label }»-ро интихоб намоед.
+unified-extensions-empty-content-explain-manage2 = Барои идора кардани онҳо дар танзимот, «{ unified-extensions-manage-extensions.label }»-ро интихоб намоед.
+unified-extensions-empty-content-explain-extensions-onboarding = «{ -brand-short-name }»-ро ба завқи худ мутобиқ кунед, намуди зоҳирии он ва тарзи иҷрои онро тағйир диҳед ё махфият ва амниятро тақвият диҳед.
 
 ## An extension in the main list
 
@@ -23,6 +30,9 @@ unified-extensions-discover-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Кушодани меню барои { $extensionName }
 unified-extensions-item-message-manage = Идоракунии васеъшавӣ
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = Ин «{ $extensionName }» маҳдуд шудааст. Истифодаи он метавонад хатарнок бошад.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = Ин «{ $extensionName }» сиёсати «Mozilla»-ро вайрон мекунад. Истифодаи он метавонад хатарнок бошад.
