@@ -177,6 +177,10 @@ preferences-manage-profiles-button =
     .label = Идоракунии профилҳо
 preferences-profiles-settings-button =
     .label = Танзимот
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Нусха бардоштани профили мавҷудбуда
+    .description = Профили нав танзимот, ҷузъҳои иловагӣ, таърих ва маълумоти нигоҳдошташудаи шуморо ба монанди хатбаракҳо ва ниҳонвожаҳо нусха мебардорад, аммо ҳисоби шумо ё маълумоти ҳамоҳангшуда нусха бардошта намешавад.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -204,6 +208,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Кушодани пайвандҳо дар варақаҳо ба ивази равзанаҳои нав
     .accesskey = К
+open-external-link-next-to-active-tab =
+    .label = Пайвандҳоро аз барномаҳо дар паҳлуи варақаи фаъоли худ кушоед
 ask-on-close-multiple-tabs =
     .label = Пурсидан пеш аз пӯшидани якчанд варақа
     .accesskey = П
@@ -604,6 +610,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Фаъол кардани унсурҳои идоракунии видеои расм-дар-расм
     .accesskey = Ф
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Идома додани пахши видеоҳо дар реҷаи «Расм-дар-расм» ҳангоми гузариш байни варақаҳо
+    .accesskey = И
 browsing-picture-in-picture-learn-more = Маълумоти бештар
 browsing-media-control =
     .label = Идора кардани медиа тавассути клавиатура, гӯшмонак ё интерфейси маҷозӣ
@@ -1220,6 +1229,7 @@ autofill-payment-methods-add-button = Илова кардани тарзи па�
 payments-list-header =
     .label = Тарзҳои пардохт
 payments-list-item-label = <strong>Тарзҳои пардохт</strong>
+payments-remove-payment-prompt-title = Ин тарзи пардохтро тоза мекунед?
 payments-remove-payment-prompt-confirm-button = Тоза кардан
 payments-remove-payment-prompt-cancel-button = Бекор кардан
 autofill-addresses-title = Нишониҳо ва ғайра
@@ -1306,6 +1316,10 @@ sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумо
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Айни замон кукиҳои нигоҳдошташуда, таърих, маълумоти сомона ва зерҳофиза <strong>{ $value }{ $unit }</strong> фазои дискро истифода мебаранд.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Айни замон кукиҳои нигоҳдошташуда, маълумоти сомона ва зерҳофиза { $value } { $unit } фазои дискро истифода мебаранд.
 sitedata-learn-more = Маълумоти бештар
 sitedata-delete-on-close =
@@ -1354,6 +1368,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Идоракунии истисноҳо…
     .accesskey = И
+sitedata-cookies-exceptions2 =
+    .label = Идоракунии истисноҳо
+    .accesskey = И
+    .description = Шумо метавонед муайян кунед, ки кадом сомонаҳо ҳамеша ё ҳеҷ гоҳ барои истифодаи кукиҳо ва маълумоти сомона иҷозат доранд ё надоранд.
 
 ## Privacy Section - Cookie Banner Handling
 
