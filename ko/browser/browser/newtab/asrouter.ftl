@@ -421,3 +421,9 @@ etp-strict-exceptions-infobar-button = 해결 사항 적용
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = 나중에
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name }가 기본 브라우저가 아닙니다
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name }가 기본 브라우저가 아닙니다
+set-default-menu-message-primary-button-variant = 기본 브라우저로 설정
