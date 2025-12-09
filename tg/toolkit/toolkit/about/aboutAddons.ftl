@@ -287,6 +287,10 @@ colorway-removal-notice-message =
     .message = «{ -brand-product-name }» маҷмуаи нақшу нигорҳоро нав кард. Мо версия(ҳои) куҳнаро аз рӯйхати «Мавзуъҳои нигоҳдошташуда»-и шумо тоза кардем. Шаклҳои нави онҳоро дар сомонаи ҷузъҳои иловагӣ гиред.
 colorway-removal-notice-learn-more = Маълумоти бештар
 colorway-removal-notice-button = Мавзуъҳои нақшу нигори навшударо гиред
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Танзимоти тазоди экрани «Windows»-и шумо танзимоти мавзуҳои «{ -brand-short-name }»-ро иваз мекунад. Барои истифодаи мавзуъҳо дар «{ -brand-short-name }», ин танзимотро хомӯш кунед.
 privacy-policy = Сиёсати махфият
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
