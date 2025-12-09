@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Добавить страницу в закладки ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Разделённый просмотр
+    .aria-label = Разделённый просмотр
 
 ## Page Action Context Menu
 
@@ -840,6 +843,9 @@ urlbar-result-menu-dont-show-market =
     .label = Не показывать предложения с рынка
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Спасибо за ваш отзыв. Вы больше не увидите предложения о рынке.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Предложения фондовой биржи
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Спасибо за ваш отзыв. Вы больше не увидите эти предложения.
@@ -1615,3 +1621,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } разрешил { $count } криптомайнеров
     }
 trustpanel-cryptominer-tab-list-header = Следующие сайты пытаются заниматься криптомайнингом:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] На этом сайте заблокирован <span data-l10n-name="count">{ $count }</span> трекер
+        [few] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекера
+       *[many] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекеров
+    }

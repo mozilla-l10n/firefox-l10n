@@ -35,3 +35,5 @@ customkeys-nav-reload = Znowego zacytaś
 customkeys-nav-reload-skip-cache = Znowego zacytaś (pufrowak pśepisaś)
 customkeys-nav-stop = Stoj
 customkeys-caution-message = Toś ta funkcija jo eksperimentelna a njeźěła snaź kaž wócakane.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Njepłaśiwy

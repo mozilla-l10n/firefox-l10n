@@ -21,6 +21,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является многоколоночным контейнером.
 inactive-css-column-span = <strong>{ $property }</strong> не сработает для элемента, так как он не находится внутри многоколоночного контейнера.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex- или сеточным элементом.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является сеточным или flex-элементом, а также не является абсолютно позиционированным элементом.
 inactive-css-not-grid-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является сеточным элементом.
 inactive-css-not-grid-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является сеточным контейнером.
 inactive-css-not-flex-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-элементом.

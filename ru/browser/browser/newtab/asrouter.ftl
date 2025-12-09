@@ -427,3 +427,18 @@ etp-strict-exceptions-infobar-button = Применить исправления
     .accesskey = Ф
 etp-strict-exceptions-infobar-not-now = Не сейчас
     .accesskey = Т
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } не является вашим браузером по умолчанию
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } не является вашим основным браузером
+set-default-menu-message-row-layout-title = Сделайте { -brand-short-name } вашим основным браузером
+set-default-menu-message-row-layout-title-variant = Сделайте { -brand-short-name } своим браузером по умолчанию
+set-default-menu-message-row-layout-subtitle = Получайте скорость, безопасность и конфиденциальность на всех веб-страницах.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Держите { -brand-short-name } под рукой — сделайте его браузером по умолчанию и оставьте его в доке.
+       *[other] Держите { -brand-short-name } под рукой — сделайте его браузером по умолчанию и оставьте его на панели задач.
+    }
+set-default-menu-message-primary-button = Установить по умолчанию
+set-default-menu-message-primary-button-variant = Установить основным браузером

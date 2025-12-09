@@ -566,6 +566,8 @@ support-application-heading =
     .description = Felsöka problem eller dela idéer med gemenskapen.
 support-get-help =
     .label = Få hjälp
+support-share-ideas =
+    .label = Dela idéer och feedback
 
 ## General Section - Performance
 
@@ -825,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Visa söktermer i adressfältet på resultatsidor
+search-separate-default-engine-2 =
+    .label = Använd en annan standardsökmotor i privata fönster
+    .accesskey = A
+search-separate-default-engine-dropdown =
+    .aria-label = Standardsökmotor i privata fönster
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

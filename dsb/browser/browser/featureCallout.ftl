@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Pokažćo krotke wopisanje, cytań
 sidebar-button-callout-title = Titele rejtarikow w bocnicy pokazaś
 sidebar-button-callout-subtitle = Wužywajśo tłocašk bocnice, aby bocnicu pokazał, aby titele rejtarikow wiźeł.
 sidebar-button-callout-vertical-tabs = Aby swóje rejtariki pokazał, wubjeŕśo tłocašk bocnice w symbolowej rědce.
+sidebar-deprecation-callout-title = Zaktualizěrowana bocnica buźo skóro k dispoziciji
 
 ## Sidebar Vertical Tabs Strings
 

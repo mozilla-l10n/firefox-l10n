@@ -35,3 +35,5 @@ customkeys-nav-reload = Обновить
 customkeys-nav-reload-skip-cache = Перезагрузка (переопределение кеша)
 customkeys-nav-stop = Стоп
 customkeys-caution-message = Эта функция является экспериментальной и может работать не так, как ожидалось.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Недействителен
