@@ -481,6 +481,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -585,6 +588,9 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -711,6 +717,10 @@ search-keyword-warning-title = අනුපිටපත් මූල පදය
 search-keyword-warning-engine = ඔබ තෝරාගත් මූල පදය දැනට "{ $name }" මගින් භාවිතා කරයි. වෙනත් එකක් තෝරන්න.
 search-keyword-warning-bookmark = ඔබ තෝරාගත් මූල පදය දැනට පොත්යොමුවක භාවිතා කෙරේ. වෙනත් එකක් තෝරන්න.
 remove-engine-remove = ඉවත් කරන්න
+search-engine-group =
+    .label = පෙරනිමි සෙවුම් එළවුම
+search-default-engine =
+    .aria-label = පෙරනිමි සෙවුම් එළවුම
 
 ## Containers Section
 
