@@ -40,7 +40,7 @@ about-glean-about-testing-header = O testiranju
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ne šalji nijedan ping)
 about-glean-profiler-explanation =
-    Za potpuni prikaz svih zabilježenih metrika možeš koristiti { -profiler-brand-name }.
+    Za potpuni prikaz svih zabilježenih metričnih podataka možeš koristiti { -profiler-brand-name }.
     Najprije <a data-l10n-name="firefox-profiler-link">snimi profil performansi</a>.
     Nakon snimanja profila odaberi <q>Dijagram markera</q> i pogledaj markere u odjeljku <q>Telemetrija</q>.
 controls-button-label-verbose = Primijeni postavke i pošalji ping
@@ -53,7 +53,7 @@ about-glean-about-data-list-item-about-telemetry =
     Za pregledavanje podataka koji se prikupljaju starom telemetrijom, pogledaj
     <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
 about-glean-about-data-list-item-firefox-profiler =
-    Za snimanje profila performansi i pregled svih zabilježenih metrika, koristi
+    Za snimanje profila performansi i pregled svih zabilježenih metričnih podataka, koristi
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-metrics-table-header = Svi metrički podaci
 # This message refers to the category in which a given metric is recorded.
