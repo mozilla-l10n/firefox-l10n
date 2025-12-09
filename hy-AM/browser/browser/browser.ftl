@@ -1349,13 +1349,13 @@ popup-warning-exceeded-message = { -brand-short-name } արգելափակեց ա
 popup-warning-button =
     .label =
         { PLATFORM() ->
-            [windows] Կարգավորումներ
-           *[other] Նախըտրանքներ
+            [windows] Ընտրանքներ
+           *[other] Նախապատվություններ
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] O
-           *[other] P
+            [windows] Ը
+           *[other] Ն
         }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window

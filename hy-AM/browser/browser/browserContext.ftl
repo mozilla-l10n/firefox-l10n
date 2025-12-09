@@ -270,6 +270,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Դիտել նկարագրությունը
     .accesskey = ն
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Որոնել պատկերը { $engine }-ով
+    .accesskey = ր
 main-context-menu-video-save-as =
     .label = Պահպանել տեսանյութը որպես...
     .accesskey = լ

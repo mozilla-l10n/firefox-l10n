@@ -36,6 +36,6 @@ network-menu-summary-tooltip-transferred =
 # transfer time.
 # Variables:
 #   $formattedTime (String): The formatted transfer time.
-network-menu-summary-finish = Ավարտ՝ { $formattedTime }
+network-menu-summary-finish = Ավարտը՝ { $formattedTime }
 network-menu-summary-tooltip-finish =
     .title = Բոլոր հայցերի բեռնման համար անհրաժեշտ ընդհանուր ժամանակ

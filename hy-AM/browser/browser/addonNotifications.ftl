@@ -123,7 +123,10 @@ addon-local-install-error-incorrect-hash = Այս հավելումը չի կար
 addon-local-install-error-corrupt-file = Այս հավելումը չի կարող տեղադրվել, քանի որ այն վնասված է:
 addon-local-install-error-file-access = { $addonName }-ը չի կարող տեղակայվել, քանի որ { -brand-short-name }-ը չի կարող ձևափոխել անհրաժեշտ ֆայլը:
 addon-local-install-error-not-signed = Այս հավելումը չի կարող տեղադրվել, քանի որ այն ստուգված չէ:
+addon-local-install-no-addon-name-error-file-access = Հավելումը չի կարող տեղադրվել, քանի որ { -brand-short-name }-ը չի կարող ձևափոխել անհրաժեշտ ֆայլը։
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }-ը չի կարող տեղադրվել, քանի որ համատեղելի չէ { -brand-short-name } { $appVersion }-ի հետ:
+addon-install-error-hard-blocked = { $addonName }-ը խախտում է Mozilla-ի քաղաքականությունը և չի կարող տեղադրվել { -brand-short-name }-ում։
 addon-install-error-blocklisted = { $addonName }-ը չի կարող տեղադրվել, քանի որ այն պարունակում է անվտանգության խնդիրներ:
+addon-install-error-soft-blocked = { $addonName }-ը խախտում է Mozilla-ի քաղաքականությունը և չի կարող տեղադրվել { -brand-short-name }-ում։
