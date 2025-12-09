@@ -811,6 +811,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = 결과 페이지의 주소 표시줄에 검색어 표시
+search-separate-default-engine-2 =
+    .label = 사생활 보호 창에서 다른 기본 검색 엔진 사용
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = 사생활 보호 창의 기본 검색 엔진
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -960,6 +965,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = 연결된 모든 기기에서 다음 항목을 동기화하고 있습니다:
+sync-syncing-across-devices-heading-2 = 여러 기기에서 데이터 동기화됨
+sync-syncing-across-devices-empty-state =
+    .label = 아직 아무것도 동기화하고 있지 않습니다.
+    .description = 모든 기기에서 모든 데이터를 가져오려면 동기화를 시작하세요.
 sync-currently-syncing-bookmarks = 북마크
 sync-currently-syncing-history = 기록
 sync-currently-syncing-tabs = 열린 탭

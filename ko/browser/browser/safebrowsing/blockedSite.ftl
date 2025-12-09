@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = 의심스러운 사이트
 safeb-blocked-malware-page-title = 웹 사이트 방문이 컴퓨터를 손상시킬 수 있음
 safeb-blocked-unwanted-page-title = 방문하려는 사이트가 유해한 프로그램을 포함할 수 있음
 safeb-blocked-harmful-page-title = 방문하려는 사이트가 악성 코드를 포함할 수 있음
+safeb-blocked-addon-page-title = 안전을 위해 사이트 차단됨
 safeb-blocked-phishing-page-short-desc = 소프트웨어를 설치하거나 비밀번호나 신용 카드 정보와 같은 개인 정보가 들어날 수 있는 행동을 하도록 속일 수 있기 때문에 { -brand-short-name }가 이 페이지를 차단했습니다.
 safeb-blocked-malware-page-short-desc = 컴퓨터의 개인 정보를 훔치거나 지울 수 있는 악성 코드를 설치할 수 있기 때문에 { -brand-short-name }가 페이지를 차단했습니다.
 safeb-blocked-unwanted-page-short-desc = 탐색 경험을 해칠 수 있는 프로그램을 설치하도록 속일 수 있기 때문(예를 들어 첫페이지를 바꾸거나 방문한 사이트에 광고를 추가)에 { -brand-short-name }가 이 페이지를 차단했습니다.
