@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } jo toś ten bok b
 safeb-blocked-malware-page-short-desc = { -brand-short-name } jo toś ten bok zablokěrował, dokulaž mógał wopytowaś, škódnu software instalěrowaś, kótaraž mógła wósobinske daty na wašom licadle kšadnuś abo wulašowaś.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } jo toś ten bok blokěrował, dokulaž mógał wopytowaś, was zawjedowaś, programy instalěrowaś, kótarež wašomu pśeglědowańskemu dožywjenjeju škóźeś (na pśikład pśez to, až waš startowy bok změnjaju abo pśidatne wabjenje na sedłach, ku kótaremuž se woglědujośo, pokazuju).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } jo toś ten bok zablokěrował, dokulaž mógła tšašne nałoženja instalěrowaś, kótarež waše daty kšadnu abo lašuju (na pśikład fota, gronidła, powěsći a kreditowe kórty).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } jo blokěrował toś ten bok, dokulaž jaden z wašych dodankow wopytajo ju wócyniś. Toś to sedło mógło se wužywaś, aby waše informacije kšadnuło – na pśikład gronidła abo numery kreditowych kórtow.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rada dana wót <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -63,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Zgóńśo na <a data-l10n-name='firefox_
 safeb-palm-notdeceptive =
     .label = To njejo wobšudnikojske sedło…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Cogodla jo se toś te sedło blokěrowało?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> jo snaź z wobšudnej a škódnej aktiwitu zwězany.
+safeb-blocked-addon-page-error-desc3-override = <strong>Co móžośo pśeśiwo tomu cyniś?</strong>
+safeb-blocked-addon-page-error-desc4-override = Až njeby se to hyšći raz stało, móžośo <strong>{ $addonName }</strong> z about:addons wótwónoźiś.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Zgońśo wěcej wó šćiśe { -brand-short-name } pśeśiwo kšadnjenjeju datow a škódnej software</a>.
