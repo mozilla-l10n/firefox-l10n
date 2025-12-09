@@ -350,6 +350,9 @@ update-in-progress-ok-button = &Escartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Siguir
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rindimientu
@@ -446,6 +449,9 @@ use-current-pages =
 choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -546,6 +552,10 @@ search-keyword-warning-title = Pallabra clave duplicada
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Escoyesti una pallabra clave qu'anguaño yá usa «{ $name }». Esbilla otra, por favor.
 search-keyword-warning-bookmark = Escoyesti una pallabra clave qu'anguaño yá usa otru marcador. Esbilla otra, por favor.
+search-engine-group =
+    .label = Motor de busca predetermináu
+search-default-engine =
+    .aria-label = Motor de busca predetermináu
 
 ## Containers Section
 
@@ -762,6 +772,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una contraseña primaria,
 primary-password-os-auth-dialog-message-macosx = crear una contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historial
@@ -857,6 +870,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Xestionar les esceiciones…
     .accesskey = X
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1043,6 +1062,9 @@ collection-health-report-disabled = L'informe de datos ta desactiváu na configu
 collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos <a data-l10n-name="crash-reports-link">Llleer más</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1085,6 +1107,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar el mou de namás HTTPS únicamente nes ventanes privaes
 httpsonly-radio-disabled =
     .label = Nun activar el mou de namás HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

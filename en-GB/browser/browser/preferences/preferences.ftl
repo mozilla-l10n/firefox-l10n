@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = There already is a search engine with the n
 remove-engine-confirmation = Are you sure you want to remove this search engine?
 remove-engine-remove = Remove
 remove-addon-engine-alert = To remove this search engine, remove the associated add-on.
+search-engine-group =
+    .label = Default Search Engine
+search-default-engine =
+    .aria-label = Default Search Engine
 
 ## Containers Section
 

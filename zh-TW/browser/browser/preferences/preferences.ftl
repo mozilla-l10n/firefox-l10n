@@ -547,6 +547,9 @@ update-in-progress-ok-button = 捨棄 (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = 效能
@@ -854,6 +857,10 @@ edit-engine-name-warning-duplicate = 已有名稱為「{ $name }」的搜尋引�
 remove-engine-confirmation = 您確定要刪除此搜尋引擎嗎？
 remove-engine-remove = 移除
 remove-addon-engine-alert = 若要移除此搜尋引擎，請先移除相關的附加元件。
+search-engine-group =
+    .label = 預設搜尋引擎
+search-default-engine =
+    .aria-label = 預設搜尋引擎
 
 ## Containers Section
 

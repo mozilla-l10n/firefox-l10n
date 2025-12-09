@@ -562,6 +562,9 @@ update-in-progress-ok-button = Înlătură
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuă
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanță
@@ -870,6 +873,10 @@ edit-engine-name-warning-duplicate = Există deja un motor de căutare cu numele
 remove-engine-confirmation = Sigur vrei să elimini acest motor de căutare?
 remove-engine-remove = Elimină
 remove-addon-engine-alert = Pentru a elimina acest motor de căutare, elimină extensia asociată.
+search-engine-group =
+    .label = Motor de căutare implicit
+search-default-engine =
+    .aria-label = Motor de căutare implicit
 
 ## Containers Section
 

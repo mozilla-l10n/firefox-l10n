@@ -414,6 +414,9 @@ update-in-progress-ok-button = &Tich'aqïx
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rub'eyal nisamäj
@@ -514,6 +517,9 @@ use-current-pages =
 choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -622,6 +628,10 @@ search-keyword-warning-title = Kamulun ewan tzij
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Xacha' jun ewan tzij ri tajin nokisäx ruma “{ $name }”. Tacha' jun chik.
 search-keyword-warning-bookmark = Xacha' jun ewan tzij okisan ruma jun yaketal. Tacha' jun chik.
+search-engine-group =
+    .label = K'o wi chi Kanob'äl
+search-default-engine =
+    .aria-label = K'o wi chi Kanob'äl
 
 ## Containers Section
 
@@ -862,6 +872,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1176,6 +1189,9 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

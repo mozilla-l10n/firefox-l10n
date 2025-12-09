@@ -684,6 +684,9 @@ update-in-progress-ok-button = &Nepokračovat
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Výkon
@@ -1009,6 +1012,10 @@ edit-engine-name-warning-duplicate = Vyhledávač s názvem „{ $name }“ už 
 remove-engine-confirmation = Opravdu chcete odstranit tento vyhledávač?
 remove-engine-remove = Odebrat
 remove-addon-engine-alert = Chcete-li tento vyhledávač odstranit, odstraňte související doplněk.
+search-engine-group =
+    .label = Výchozí vyhledávač
+search-default-engine =
+    .aria-label = Výchozí vyhledávač
 
 ## Containers Section
 

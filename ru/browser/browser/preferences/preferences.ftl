@@ -562,6 +562,9 @@ update-in-progress-ok-button = &Отменить
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продолжить
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производительность
@@ -870,6 +873,10 @@ edit-engine-name-warning-duplicate = Поисковая система с име
 remove-engine-confirmation = Вы уверены, что хотите удалить эту поисковую систему?
 remove-engine-remove = Удалить
 remove-addon-engine-alert = Чтобы удалить эту поисковую систему, удалите связанное с ней дополнение.
+search-engine-group =
+    .label = Поисковая система по умолчанию
+search-default-engine =
+    .aria-label = Поисковая система по умолчанию
 
 ## Containers Section
 

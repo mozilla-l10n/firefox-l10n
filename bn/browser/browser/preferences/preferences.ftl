@@ -320,6 +320,9 @@ update-in-progress-ok-button = &বাতিল
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &চালিয়ে যান
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
@@ -413,6 +416,9 @@ choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -501,6 +507,10 @@ search-keyword-warning-title = কীওয়ার্ড ইতোমধ্যে
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে "{ $name }" ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
 search-keyword-warning-bookmark = আপনার দেয়া কীওয়ার্ডটি ইতোমধ্যে একটি বুকমার্ক ব্যবহার করছে। অনুগ্রহ করে একটি ভিন্ন কীওয়ার্ড নির্বাচন করুন।
+search-engine-group =
+    .label = ডিফল্ট অনুসন্ধান ইঞ্জিন
+search-default-engine =
+    .aria-label = ডিফল্ট অনুসন্ধান ইঞ্জিন
 
 ## Containers Section
 
@@ -702,6 +712,9 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ইতিহাস
@@ -794,6 +807,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -957,6 +976,9 @@ addon-recommendations-link = আরও জানুন
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -988,6 +1010,12 @@ certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

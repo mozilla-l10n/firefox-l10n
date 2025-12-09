@@ -547,6 +547,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ
@@ -850,6 +853,10 @@ edit-engine-name-warning-duplicate = มีเครื่องมือค้�
 remove-engine-confirmation = คุณแน่ใจหรือไม่ว่าต้องการลบเครื่องมือค้นหานี้?
 remove-engine-remove = ลบ
 remove-addon-engine-alert = เมื่อต้องการลบเครื่องมือค้นหานี้ ให้ลบส่วนเสริมที่สัมพันธ์กันออก
+search-engine-group =
+    .label = เครื่องมือค้นหาเริ่มต้น
+search-default-engine =
+    .aria-label = เครื่องมือค้นหาเริ่มต้น
 
 ## Containers Section
 

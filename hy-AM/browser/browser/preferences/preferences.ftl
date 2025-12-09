@@ -480,6 +480,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
@@ -748,6 +751,10 @@ search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, ո
 remove-engine-confirmation = Վստա՞հ եք, որ ուզում եք հեռացնել այս որոնիչը:
 remove-engine-remove = Հեռացնել
 remove-addon-engine-alert = Այս որոնիչը հեռացնելու համար հեռացրեք հարակցված հավելումը:
+search-engine-group =
+    .label = Սկզբնադիր որոնիչ
+search-default-engine =
+    .aria-label = Սկզբնադիր որոնիչ
 
 ## Containers Section
 
@@ -1175,6 +1182,9 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 

@@ -521,6 +521,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -630,6 +633,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru‚Ä¶
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -775,6 +781,10 @@ edit-engine-name-warning-duplicate = Esistit giai unu motore de chirca cun su n√
 remove-engine-confirmation = Seguru chi boles cantzellare custu motore de chirca?
 remove-engine-remove = Boga
 remove-addon-engine-alert = Pro cantzellare custu motore de chirca, cantzella puru su cumplementu assotziadu.
+search-engine-group =
+    .label = Motore de chirca predefinidu
+search-default-engine =
+    .aria-label = Motore de chirca predefinidu
 
 ## Containers Section
 

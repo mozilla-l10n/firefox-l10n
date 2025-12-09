@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Απόρριψη
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Επιδόσεις
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Υπάρχει ήδη μια μηχανή �
 remove-engine-confirmation = Θέλετε σίγουρα να αφαιρέσετε αυτήν τη μηχανή αναζήτησης;
 remove-engine-remove = Αφαίρεση
 remove-addon-engine-alert = Για να αφαιρέσετε αυτήν τη μηχανή αναζήτησης, καταργήστε το σχετικό πρόσθετο.
+search-engine-group =
+    .label = Προεπιλεγμένη μηχανή αναζήτησης
+search-default-engine =
+    .aria-label = Προεπιλεγμένη μηχανή αναζήτησης
 
 ## Containers Section
 

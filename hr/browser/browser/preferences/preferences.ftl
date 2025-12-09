@@ -562,6 +562,9 @@ update-in-progress-ok-button = O&dbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanca
@@ -870,6 +873,10 @@ edit-engine-name-warning-duplicate = Tražilica s imenom „{ $name }” već po
 remove-engine-confirmation = Stvarno želiš ukloniti ovu tražilicu?
 remove-engine-remove = Ukloni
 remove-addon-engine-alert = Za uklanjanje ove tražilice ukloni povezani dodatak.
+search-engine-group =
+    .label = Standardna tražilica
+search-default-engine =
+    .aria-label = Standardna tražilica
 
 ## Containers Section
 

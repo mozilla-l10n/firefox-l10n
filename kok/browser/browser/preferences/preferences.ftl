@@ -157,6 +157,9 @@ update-application-use-service =
     .label = सुदार प्रतिष्ठापित करपाक फाटभूंय सेवा वापरात
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -237,6 +240,10 @@ search-keyword-warning-title = किवर्डाची प्रत कर�
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = तुमी किवर्ड निवडला जो सद्या "{ $name }" वापरता. मात्सो दुसरो निवडात.
 search-keyword-warning-bookmark = तुमी किवर्ड निवडला जो सद्या बूकमार्क वापरता. मात्सो दुसरो निवडात.
+search-engine-group =
+    .label = मुळावे सोद इंजिन
+search-default-engine =
+    .aria-label = मुळावे सोद इंजिन
 
 ## Containers Section
 

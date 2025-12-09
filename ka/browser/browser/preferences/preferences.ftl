@@ -559,6 +559,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = საძიებო უკვე არ�
 remove-engine-confirmation = ნამდვილად გსურთ ამ საძიებოს მოცილება?
 remove-engine-remove = მოცილება
 remove-addon-engine-alert = ამ საძიებო სისტემის მოსაცილებლად მოაცილეთ შესაბამისი დამატება.
+search-engine-group =
+    .label = ნაგულისხმევი საძიებო სისტემა
+search-default-engine =
+    .aria-label = ნაგულისხმევი საძიებო სისტემა
 
 ## Containers Section
 

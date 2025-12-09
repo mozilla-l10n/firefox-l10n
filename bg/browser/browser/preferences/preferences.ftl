@@ -517,6 +517,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -623,6 +626,9 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -753,6 +759,10 @@ search-keyword-warning-title = Дублиране на ключовата дум
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Избрали сте ключова дума, която вече се използва от „{ $name }“. Моля, изберете друга.
 search-keyword-warning-bookmark = Избрали сте дума, която вече се използва от отметка. Моля, изберете друга.
+search-engine-group =
+    .label = Стандартна търсеща машина
+search-default-engine =
+    .aria-label = Стандартна търсеща машина
 
 ## Containers Section
 

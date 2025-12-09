@@ -557,6 +557,9 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Učinkovitost
@@ -855,6 +858,10 @@ edit-engine-name-warning-duplicate = Iskalnik z imenom "{ $name }" že obstaja. 
 remove-engine-confirmation = Ali ste prepričani, da želite odstraniti ta iskalnik?
 remove-engine-remove = Odstrani
 remove-addon-engine-alert = Za odstranitev tega iskalnika odstranite z njim povezan dodatek.
+search-engine-group =
+    .label = Privzet iskalnik
+search-default-engine =
+    .aria-label = Privzet iskalnik
 
 ## Containers Section
 

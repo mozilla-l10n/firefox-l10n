@@ -396,6 +396,9 @@ update-in-progress-ok-button = &ຍົກເລີກ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ສືບຕໍ່
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -493,6 +496,9 @@ use-current-pages =
 choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -602,6 +608,10 @@ search-keyword-warning-title = ຄໍາທີ່ໃຊ້ຄົ້ນຊ້ໍ�
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = ທ່ານໄດ້ເລືອກເອົາຄຳທີ່ໃຊ້ທີ່ຖືກໂດຍ“{ $name }”ກະລຸນາເລືອກຄຳໃຊ້ອື່ນ
 search-keyword-warning-bookmark = ທ່ານໄດ້ເລືອກເອົາຄໍາທີ່ໃຊ້ທີ່ຖືກໃຊ້ໂດຍຄັ່ນໜ້າ ກະລຸນາເລືອກຄຳໃຊ້ອື່ນ
+search-engine-group =
+    .label = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
+search-default-engine =
+    .aria-label = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
 
 ## Containers Section
 
@@ -827,6 +837,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1135,6 +1148,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

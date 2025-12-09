@@ -431,6 +431,9 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -530,6 +533,9 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -634,6 +640,10 @@ search-keyword-warning-title = Կրկնել հիմնաբառը
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Դուք ընտրել եք կրկնուող հիմնաբառ, որը արդեն աւգտագործուում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին աւգտագործուում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
+search-engine-group =
+    .label = Հիմնական որոնիչը
+search-default-engine =
+    .aria-label = Հիմնական որոնիչը
 
 ## Containers Section
 
@@ -874,6 +884,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Պատմութիւն
@@ -973,6 +986,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1162,6 +1181,9 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1210,6 +1232,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

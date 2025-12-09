@@ -558,6 +558,9 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Самаранокӣ
@@ -865,6 +868,10 @@ edit-engine-name-warning-duplicate = Низоми ҷустуҷӯӣ бо чуни
 remove-engine-confirmation = Шумо мутмаин ҳастед, ки мехоҳед ин низоми ҷустуҷӯиро тоза намоед?
 remove-engine-remove = Тоза кардан
 remove-addon-engine-alert = Барои тоза кардани ин низоми ҷустуҷӯӣ, ҷузъи иловагии алоқамандро тоза намоед.
+search-engine-group =
+    .label = Низоми ҷустуҷӯии пешфарз
+search-default-engine =
+    .aria-label = Низоми ҷустуҷӯии пешфарз
 
 ## Containers Section
 

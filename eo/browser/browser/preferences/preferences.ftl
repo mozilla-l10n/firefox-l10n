@@ -556,6 +556,9 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -860,6 +863,10 @@ edit-engine-name-warning-duplicate = Jam ekzistas serĉilo nomata “{ $name }�
 remove-engine-confirmation = Ĉu vi certe volas forigi tiun ĉi serĉilon?
 remove-engine-remove = Forigi
 remove-addon-engine-alert = Por forigi tiun ĉi serĉilon, forigu la asociitan aldonaĵon.
+search-engine-group =
+    .label = Norma serĉilo
+search-default-engine =
+    .aria-label = Norma serĉilo
 
 ## Containers Section
 

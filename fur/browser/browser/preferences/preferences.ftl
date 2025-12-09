@@ -525,6 +525,9 @@ update-in-progress-ok-button = &Interomp
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestazions
@@ -633,6 +636,9 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -778,6 +784,10 @@ edit-engine-name-warning-duplicate = Al esist za un motôr di ricercje cul non �
 remove-engine-confirmation = Desideristu pardabon gjavâ chest motôr di ricercje?
 remove-engine-remove = Gjave
 remove-addon-engine-alert = Par gjavâ chest motôr di ricercje gjave il component adizionâl associât.
+search-engine-group =
+    .label = Motôr di ricercje predefinît
+search-default-engine =
+    .aria-label = Motôr di ricercje predefinît
 
 ## Containers Section
 

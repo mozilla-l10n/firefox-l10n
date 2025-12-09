@@ -521,6 +521,9 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Өнімділік
@@ -782,6 +785,10 @@ search-keyword-warning-bookmark = Сіз таңдаған қысқаша ата�
 remove-engine-confirmation = Бұл іздеу жүйесін өшіруді шынымен қалайсыз ба?
 remove-engine-remove = Өшіру
 remove-addon-engine-alert = Бұл іздеу жүйесін өшіру үшін онымен байланысты қосымшаны өшіріңіз.
+search-engine-group =
+    .label = Негізгі іздеу жүйесі
+search-default-engine =
+    .aria-label = Негізгі іздеу жүйесі
 
 ## Containers Section
 

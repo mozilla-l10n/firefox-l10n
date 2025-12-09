@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Elvetés
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Teljesítmény
@@ -866,6 +869,10 @@ edit-engine-name-warning-duplicate = Már van „{ $name }” nevű keresőszolg
 remove-engine-confirmation = Biztos, hogy törli ezt a keresőszolgáltatást?
 remove-engine-remove = Eltávolítás
 remove-addon-engine-alert = A keresőszolgáltatás törléséhez távolítsa el a kapcsolódó kiegészítőt.
+search-engine-group =
+    .label = Alapértelmezett keresőszolgáltatás
+search-default-engine =
+    .aria-label = Alapértelmezett keresőszolgáltatás
 
 ## Containers Section
 

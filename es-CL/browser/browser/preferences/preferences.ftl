@@ -531,6 +531,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -831,6 +834,10 @@ edit-engine-name-warning-duplicate = Ya existe un buscador con el nombre "{ $nam
 remove-engine-confirmation = ¿De verdad quieres eliminar este motor de búsqueda?
 remove-engine-remove = Eliminar
 remove-addon-engine-alert = Para eliminar este motor de búsqueda, elimina el complemento asociado.
+search-engine-group =
+    .label = Motor de búsqueda predeterminado
+search-default-engine =
+    .aria-label = Motor de búsqueda predeterminado
 
 ## Containers Section
 

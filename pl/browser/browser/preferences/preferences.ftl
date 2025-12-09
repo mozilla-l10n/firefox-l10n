@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Wydajność
@@ -864,6 +867,10 @@ edit-engine-name-warning-duplicate = Wyszukiwarka o nazwie „{ $name }” już
 remove-engine-confirmation = Czy na pewno usunąć tę wyszukiwarkę?
 remove-engine-remove = Usuń
 remove-addon-engine-alert = Przed usunięciem tej wyszukiwarki należy usunąć powiązany z nią dodatek.
+search-engine-group =
+    .label = Domyślna wyszukiwarka
+search-default-engine =
+    .aria-label = Domyślna wyszukiwarka
 
 ## Containers Section
 

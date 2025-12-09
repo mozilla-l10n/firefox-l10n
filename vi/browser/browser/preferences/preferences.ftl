@@ -547,6 +547,9 @@ update-in-progress-ok-button = &Hủy bỏ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Hiệu suất
@@ -850,6 +853,10 @@ edit-engine-name-warning-duplicate = Đã có một công cụ tìm kiếm có t
 remove-engine-confirmation = Bạn có chắc chắn muốn xóa công cụ tìm kiếm này không?
 remove-engine-remove = Xóa
 remove-addon-engine-alert = Để xóa công cụ tìm kiếm này, hãy xóa tiện ích có liên quan.
+search-engine-group =
+    .label = Dịch vụ tìm kiếm mặc định
+search-default-engine =
+    .aria-label = Dịch vụ tìm kiếm mặc định
 
 ## Containers Section
 

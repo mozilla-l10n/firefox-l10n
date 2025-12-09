@@ -516,6 +516,9 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -624,6 +627,9 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -759,6 +765,10 @@ search-keyword-warning-engine = لقد اخترت كلمة مفتاحية يست
 search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تستخدمها علامة حاليا. من فضلك اختر واحدة أخرى.
 remove-engine-remove = أزِل
 remove-addon-engine-alert = لإزالة محرك البحث هذا،أزِل الإضافة المرتبطة به.
+search-engine-group =
+    .label = محرك البحث المبدئي
+search-default-engine =
+    .aria-label = محرك البحث المبدئي
 
 ## Containers Section
 

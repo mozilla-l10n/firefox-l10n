@@ -547,6 +547,9 @@ update-in-progress-ok-button = 버리기(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = 성능
@@ -850,6 +853,10 @@ edit-engine-name-warning-duplicate = 이미 “{ $name }” 이름의 검색 엔
 remove-engine-confirmation = 이 검색 엔진을 제거하시겠습니까?
 remove-engine-remove = 제거
 remove-addon-engine-alert = 이 검색 엔진을 제거하려면 관련 부가 기능도 삭제하세요.
+search-engine-group =
+    .label = 기본 검색 엔진
+search-default-engine =
+    .aria-label = 기본 검색 엔진
 
 ## Containers Section
 

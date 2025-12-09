@@ -446,6 +446,9 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -546,6 +549,9 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -664,6 +670,10 @@ search-keyword-warning-title = Arredaoliñ ur ger alc'hwez
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant "{ $name }". Mar plij, diuzit unan all.
 search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver evit bremañ gant ur sined. Mar plij, diuzit unan all.
+search-engine-group =
+    .label = Keflusker enklask dre ziouer
+search-default-engine =
+    .aria-label = Keflusker enklask dre ziouer
 
 ## Containers Section
 
@@ -1053,6 +1063,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1270,6 +1283,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

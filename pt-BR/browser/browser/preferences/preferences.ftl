@@ -556,6 +556,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -860,6 +863,10 @@ edit-engine-name-warning-duplicate = Já existe um mecanismo de pesquisa com o n
 remove-engine-confirmation = Tem certeza que quer remover este mecanismo de pesquisa?
 remove-engine-remove = Remover
 remove-addon-engine-alert = Para remover este mecanismo de pesquisa, remova a extensão associada.
+search-engine-group =
+    .label = Mecanismo de pesquisa padrão
+search-default-engine =
+    .aria-label = Mecanismo de pesquisa padrão
 
 ## Containers Section
 

@@ -555,6 +555,9 @@ update-in-progress-ok-button = &Hejarei
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Ku’ejey
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Mba’eaporã
@@ -859,6 +862,10 @@ edit-engine-name-warning-duplicate = Oĩma peteĩ hekaha hérava “{ $name }”
 remove-engine-confirmation = Emboguese añetehápepa ko jehekaha
 remove-engine-remove = Mboguete
 remove-addon-engine-alert = Emboguete hag̃ua ko jehekaha, embogue pe moĩmbaha hesegua.
+search-engine-group =
+    .label = Hekaha ypykuéva
+search-default-engine =
+    .aria-label = Hekaha ypykuéva
 
 ## Containers Section
 
