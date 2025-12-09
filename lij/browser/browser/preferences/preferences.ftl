@@ -276,6 +276,9 @@ update-application-use-service =
     .label = Deuvia 'n serviçio ascozo pe instalâ i agiornamenti
     .accesskey = v
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaçioin
@@ -365,6 +368,9 @@ choose-bookmark =
     .label = Adeuvia o segnalibbro…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -444,6 +450,10 @@ search-keyword-warning-title = Sta paròlla ciave a gh'é za
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Ti æ çernuo 'na paròlla ciave ch'a l'é uzâ da "{ $name }". Pe piaxei che ti ne çerni 'n'atra.
 search-keyword-warning-bookmark = Ti æ çernuo 'na paròlla ciave che a l'é uzâ da un segnalibbro. Pe piaxei che ti ne çerni 'n'atra.
+search-engine-group =
+    .label = Motô de riçerca predefinio
+search-default-engine =
+    .aria-label = Motô de riçerca predefinio
 
 ## Containers Section
 
@@ -497,6 +507,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Intra
     .accesskey = t
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -585,6 +601,12 @@ forms-master-pw-change =
     .accesskey = C
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Stöia
@@ -671,6 +693,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -805,6 +833,9 @@ addon-recommendations-link = Atre informaçioin
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -836,6 +867,12 @@ certs-devices =
     .label = Aparati de Seguessa…
     .accesskey = S
 certs-devices-enable-fips = Abilita FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
