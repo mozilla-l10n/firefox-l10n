@@ -131,11 +131,22 @@ about-glean-metrics-table-header-value = Қимат
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Амалҳо
 about-glean-metrics-table-settings-button = Танзимот
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Танзимоти ҷадвали меъёрҳо
 about-glean-metrics-table-settings-category-general = Умумӣ
+about-glean-metrics-table-settings-hide-empty-value-rows = Пинҳон кардани сатрҳо бо қиматҳои холӣ
+about-glean-metrics-table-settings-category-visualizations = Намудорсозӣ
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Мисол
 about-glean-metrics-table-settings-category-visualizations-histogram = Гистограмма
+about-glean-metrics-table-settings-histograms-chart-max = Баландии ҳадди аксар барои диаграмма
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Баландии ҳадди аксар барои миқёс
+about-glean-metrics-table-settings-histograms-box-padding = Фосиласозии қуттӣ
+about-glean-metrics-table-settings-histograms-chart-padding = Фосиласозии диаграмма
+about-glean-metrics-table-settings-histograms-left-padding = Фосиласозии иловагӣ аз тарафи чап
 about-glean-metrics-table-settings-category-visualizations-timeline = Хати вақт
+about-glean-metrics-table-settings-timelines-height = Баландӣ
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Поло
 # This message sits alongside an input field, further describing its purpose.
