@@ -817,6 +817,8 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = הצגת מונחי חיפוש בשורת הכתובת בדפי תוצאות
+search-separate-default-engine-dropdown =
+    .aria-label = מנוע חיפוש ברירת מחדל בחלונות פרטיים
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -966,6 +968,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = הפריטים הבאים מסונכרנים על פני כל המכשירים המחוברים שלך:
+sync-syncing-across-devices-heading-2 = נתונים המסונכרנים בין מכשירים
+sync-syncing-across-devices-empty-state =
+    .label = שום דבר לא מסונכרן… עדיין.
+    .description = ניתן להתחיל לסנכרן כדי לקבל את כל הנתונים שלך בכל המכשירים שלך.
 sync-currently-syncing-bookmarks = סימניות
 sync-currently-syncing-history = היסטוריה
 sync-currently-syncing-tabs = לשוניות פתוחות

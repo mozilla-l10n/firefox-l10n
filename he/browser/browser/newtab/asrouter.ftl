@@ -425,3 +425,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } א�
 set-default-menu-message-row-layout-title = הגדרת { -brand-short-name } כדפדפן הראשי שלך
 set-default-menu-message-row-layout-title-variant = הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלך
 set-default-menu-message-row-layout-subtitle = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כברירת המחדל ולשמור אותו ב־Dock שלך.
+       *[other] כדי לשמור את { -brand-short-name } קרוב אליך — מומלץ להגדיר אותו כברירת המחדל ולהצמיד אותו לשורת המשימות.
+    }
+set-default-menu-message-primary-button = הגדרה כברירת מחדל
+set-default-menu-message-primary-button-variant = הגדרה כדפדפן הראשי
