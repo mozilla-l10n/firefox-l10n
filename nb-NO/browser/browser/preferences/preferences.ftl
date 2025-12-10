@@ -559,6 +559,16 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } brukerstøtte
+    .description = Feilsøk problemer eller del ideer med fellesskapet.
+support-get-help =
+    .label = Få hjelp
+support-share-ideas =
+    .label = Del ideer og tilbakemeldinger
+
 ## General Section - Performance
 
 performance-title = Ytelse
@@ -817,6 +827,9 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Vis søkeord i adressefeltet på resultatsidene
+search-separate-default-engine-2 =
+    .label = Bruk en annen standard søkemotor i private vinduer
+    .accesskey = B
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
