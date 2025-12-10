@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bokmerk denne sida ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Delt visning
+    .aria-label = Delt visning
 
 ## Page Action Context Menu
 
@@ -835,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ikkje vis marknadsforslag
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Takk for tilbakemeldinga di. Du vil ikkje lenger sjå marknadsforslag.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Børsforslag
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Takk for tilbakemeldinga di. Du vil ikkje lenger sjå desse forslaga.
