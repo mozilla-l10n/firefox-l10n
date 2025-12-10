@@ -1588,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } tillét { $count } kryptoutvinnarar
     }
 trustpanel-cryptominer-tab-list-header = Desse nettstadane prøvar å drive kryptomining:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> sporar blokkert på denne nettstaden
+       *[other] <span data-l10n-name="count">{ $count }</span> sporarar blokkerte på denne nettstaden
+    }
