@@ -558,6 +558,16 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
+## Firefox support
+
+support-application-heading =
+    .label = Дастгирии «{ -brand-short-name }»
+    .description = Нуқсонҳои барномаро ислоҳ кунед ё фикру ақидаҳоро бо ҷамъият муҳокима кунед.
+support-get-help =
+    .label = Гирифтани кумак
+support-share-ideas =
+    .label = Паҳн кардани фикру ақидаҳо ва изҳори назар
+
 ## General Section - Performance
 
 performance-title = Самаранокӣ
