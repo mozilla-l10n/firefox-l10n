@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = 檢視簡短描述、閱讀時間�
 sidebar-button-callout-title = 在側邊欄顯示分頁標題
 sidebar-button-callout-subtitle = 使用側邊欄按鈕展開側邊欄，就可以看到分頁標題。
 sidebar-button-callout-vertical-tabs = 選擇工具列中的側邊欄按鈕，即可顯示您的分頁。
+sidebar-deprecation-callout-title = 即將推出新版側邊欄
+sidebar-deprecation-callout-subtitle = 我們將淘汰您目前使用的側邊欄版本。請試用新版側邊欄，速度更快還可以使用更多工具。
+sidebar-deprecation-cta-button = 立刻試試
 
 ## Sidebar Vertical Tabs Strings
 

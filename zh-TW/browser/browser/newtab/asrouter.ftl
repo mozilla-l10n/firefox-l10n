@@ -421,3 +421,18 @@ etp-strict-exceptions-infobar-button = 套用修正
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = 現在不要
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } 不是您的預設瀏覽器
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } 不是您的主要瀏覽器
+set-default-menu-message-row-layout-title = 將 { -brand-short-name } 設為您的主要瀏覽器
+set-default-menu-message-row-layout-title-variant = 將 { -brand-short-name } 設為您的預設瀏覽器
+set-default-menu-message-row-layout-subtitle = 隨時上網都有最快速度、安全與隱私保護。
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的 Dock，方便隨手開啟。
+       *[other] 將 { -brand-short-name } 設為預設瀏覽器並保留在您的工具列，方便隨手開啟。
+    }
+set-default-menu-message-primary-button = 設為預設瀏覽器
+set-default-menu-message-primary-button-variant = 設為主要瀏覽器
