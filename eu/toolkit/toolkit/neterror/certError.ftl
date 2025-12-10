@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name }(e)k gune honi buruz abisatzen dizu { $hostname } ostalariko ziurtagiria baliogabetu egin delako eta ez delako gehiago fidatzeko modukoa.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Ziurrenik ezer ez, litekeena baita gunearekin berarekin arazo bat dagoela. Webgunearen jabearekin harremanetan jar zaitezke arazoaren konponketan lanean ari diren jakiteko.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Gunea soilik konexio seguruak onartzeko dago konfiguratuta baina arazo bat dago gunearen ziurtagiriarekin. Baliteke asmo txarreko aktore bat gunearen nortasuna bere egiten saiatzen aritzea. Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat bere ziurtagiria ez delako baliozkoa { $hostname } ostalarirako. Ziurtagiria soilik ondorengo ostalarientzat da baliozkoa: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

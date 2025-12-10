@@ -179,8 +179,12 @@ fp-neterror-offline-body-title = Badirudi zure Interneterako konexioak arazoren 
 
 fp-neterror-connection-intro = { -brand-short-name }(e)k ezin du sortu konexio segurua { $hostname } helbideko zerbitzariarekin.
 fp-neterror-offline-intro = { -brand-short-name }(e)k ezin du konektatu <strong>{ $hostname }</strong> helbideko zerbitzariarekin
+fp-neterror-coop-coep-intro = { -brand-short-name }(e)k ez du orri hau kargatu bere segurtasun-konfigurazioa aurreko orriarenarekin bat ez datorrela baitirudi.
+fp-neterror-why-did-this-happen = Zergatik gertatu da hau?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Badirudi gune honek segurtasun-arazo ezagunak dituen software zaharra darabilela.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Ziurtatu { -brand-short-name }(e)n azken bertsioa darabilzula. Zoaz Laguntza > { -brand-short-name }(r)i buruz menu-aukerara. Dagoeneko { -brand-short-name }(e)n azken bertsioa badarabilzu, litekeena da arazoa guneak berak izatea.
 fp-neterror-offline-what-can-you-do-body = Saiatu beste gailu batekin konektatzen. Egiaztatu zure modem edo routerra. Deskonektatu eta konektatu berriro Wi-Fi sarera.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Batzuetan beraientzat babesak ezartzen dituzte webguneek, beste guneekin nahi ez diren interakzioetatik kanpo mantentzeko.

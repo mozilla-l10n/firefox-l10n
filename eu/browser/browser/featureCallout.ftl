@@ -101,15 +101,22 @@ perplexity-callout-secondary-label-2 = Ulertuta
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = Pasahitza gordeta. Egin dezagun babeskopia.
+fxa-adoption-passwords-subtitle = Babestu zure pasahitzak gailuen artean zifratze bidez sinkronizatuz.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = Eman izena
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Mantendu jario gogokoenak ataza-barran
+taskbar-tabs-chat-callout-title = Txateatu ataza-barratik
+taskbar-tabs-email-callout-title = Mantendu posta elektronikoa ataza-barran
 taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-new-device-title-2 = Gailu berri batera aldatu behar duzu? Ez galdu garrantzitsua dena.
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
 windows-10-eos-sync-tour-subtitle-2 = Sinkronizatu zure laster-markak, pasahitzak eta ezarpenak eta egin hauen babeskopia aldaketa burutu aurretik.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
@@ -127,6 +134,7 @@ link-preview-onboarding-callout-description = Ikusi azalpen laburra, irakurketa 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
 sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra zabaldu eta fitxen izenburuak ikusi ahal izateko.
 sidebar-button-callout-vertical-tabs = Zure fitxak erakusteko, hautatu tresna-barran alboko barraren botoia.
+sidebar-deprecation-cta-button = Probatu orain
 
 ## Sidebar Vertical Tabs Strings
 
@@ -186,6 +194,9 @@ sidebar-callout-survey-saved-websites-2 = Zure laster-marketarako sarbide bizkor
 sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!
+sidebar-genai-survey-productive-question =
+    Zein neurriraino zaude ados edo desados ondorengo adierazpenarekin:<br/>
+    "Alboko barrako AA txaterako botak emankorrago izaten laguntzen dit"?
 unified-search-callout-title = Aldatu bilaketa-motorren artean
 unified-search-callout-subtitle = Aukeratu zer datorkizun ondoen zure bilaketarentzat.
 unified-search-callout-primary-label = Hurrengoa

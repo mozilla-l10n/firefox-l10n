@@ -35,3 +35,5 @@ customkeys-nav-reload = Berritu
 customkeys-nav-reload-skip-cache = Berritu (gainidatzi cachea)
 customkeys-nav-stop = Gelditu
 customkeys-caution-message = Eginbide hau esperimentala da eta baliteke behar bezala ez ibiltzea.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Baliogabea
