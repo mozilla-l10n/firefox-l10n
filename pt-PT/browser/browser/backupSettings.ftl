@@ -105,3 +105,72 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Palavra-passe
 restore-from-backup-password-description = Isto desbloqueia a sua cópia de segurança encriptada.
+restore-from-backup-cancel-button = Cancelar
+restore-from-backup-confirm-button = Restaurar e reiniciar
+restore-from-backup-restoring-button = A restaurar...
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Palavra-passe incorreta. <a data-l10n-name="incorrect-password-support-link">Ainda tem problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Este ficheiro não está a funcionar
+    .message = Ocorreu um problema com o seu ficheiro da cópia de segurança. Escolha um ficheiro diferente e tente novamente.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Este ficheiro não está a funcionar
+    .message = O ficheiro que escolheu não é compatível com esta versão do { -brand-short-name }. Escolha um ficheiro diferente e tente novamente.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Este ficheiro não está a funcionar
+    .message = O ficheiro que escolheu não não foi criado pelo { -brand-short-name }. Escolha um ficheiro diferente e tente novamente.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = O { -brand-short-name } não conseguiu restaurar
+    .message = Reinicie o { -brand-short-name } e tente restaurar novamente a sua cópia de segurança.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Efetue uma cópia de segurança dos seus dados sensíveis
+enable-backup-encryption-support-link = Saber mais
+enable-backup-encryption-create-password-label = Palavra-passe
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Repetir a palavra-passe
+enable-backup-encryption-cancel-button = Cancelar
+enable-backup-encryption-confirm-button = Guardar
+change-backup-encryption-header = Alterar a palavra-passe da cópia de segurança
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Requisitos da palavra-passe
+password-rules-length-description = Pelo menos 8 carateres
+password-rules-email-description = Não é o seu endereço de correio eletrónico
+password-rules-disclaimer = Mantenha-se em segurança — não reutilize palavras-passe. Consulte mais dicas para <a data-l10n-name="password-support-link">criar palavras-passe fortes</a>.
+password-validity-has-email = Não pode ser um endereço de correio eletrónico
+password-validity-do-not-match = As palavras-passe não coincidem
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Sucesso
+password-rules-a11y-warning =
+    .alt = Aviso
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Remover a proteção de palavra-passe
+disable-backup-encryption-support-link = O que será copiado?
+disable-backup-encryption-cancel-button = Cancelar
+disable-backup-encryption-confirm-button = Remover palavra-passe
