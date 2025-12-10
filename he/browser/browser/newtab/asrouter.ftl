@@ -417,3 +417,11 @@ etp-strict-exceptions-infobar-button = להחיל תיקונים
     .accesskey = ת
 etp-strict-exceptions-infobar-not-now = לא כעת
     .accesskey = ל
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } אינו דפדפן ברירת המחדל שלך
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } אינו הדפדפן הראשי שלך
+set-default-menu-message-row-layout-title = הגדרת { -brand-short-name } כדפדפן הראשי שלך
+set-default-menu-message-row-layout-title-variant = הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלך
+set-default-menu-message-row-layout-subtitle = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
