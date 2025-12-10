@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Гузоштани хатбарак барои ин саҳифа ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Намоиши тақсимшуда
+    .aria-label = Намоиши тақсимшуда
 
 ## Page Action Context Menu
 
