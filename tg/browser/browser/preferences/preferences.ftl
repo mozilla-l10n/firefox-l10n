@@ -981,6 +981,9 @@ prefs-syncing-button =
 
 sync-syncing-across-devices-heading = Шумо маводи зеринро дар ҳамаи дастгоҳҳои пайвастшудаи худ ҳамоҳанг карда истодаед:
 sync-syncing-across-devices-heading-2 = Маълумоти ҳамоҳангшуда байни дастгоҳҳо
+sync-syncing-across-devices-empty-state =
+    .label = Шумо то ҳол ҳеҷ чизро ҳамоҳанг накардед… ҳанӯз ҳам.
+    .description = Барои ба даст овардани тамоми маълумоти шахсӣ дар ҳамаи дастгоҳҳои худ, раванди ҳамоҳангсозиро оғоз кунед.
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
