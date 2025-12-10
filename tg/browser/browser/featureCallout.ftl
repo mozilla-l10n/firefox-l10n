@@ -160,6 +160,7 @@ sidebar-button-callout-title = Нишон додани сарлавҳаҳои в
 sidebar-button-callout-subtitle = Барои баркушодани навори ҷонибӣ ва дидани сарлавҳаҳои варақаҳо, лутфан, аз тугмаи навори ҷонибӣ истифода баред.
 sidebar-button-callout-vertical-tabs = Барои нишон додани варақаҳои шумо, тугмаи навори ҷонибиро дар навори абзорҳо интихоб кунед.
 sidebar-deprecation-callout-title = Навори ҷонибии навшуда ба наздикӣ дастрас мешавад
+sidebar-deprecation-cta-button = Ҳозир онро кӯшиш кунед
 
 ## Sidebar Vertical Tabs Strings
 

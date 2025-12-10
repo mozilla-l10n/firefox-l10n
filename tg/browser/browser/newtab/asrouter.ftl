@@ -423,3 +423,18 @@ etp-strict-exceptions-infobar-button = Татбиқ кардани ислоҳҳ�
     .accesskey = Т
 etp-strict-exceptions-infobar-not-now = Ҳоло не
     .accesskey = Ҳ
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = «{ -brand-short-name }» браузери пешфарзи шумо намебошад
+set-default-menu-message-simple-layout-title-variant = «{ -brand-short-name }» браузери асосии шумо намебошад
+set-default-menu-message-row-layout-title = Таъин кардани «{ -brand-short-name }» ҳамчун браузери асосии шахсӣ
+set-default-menu-message-row-layout-title-variant = Таъин кардани { -brand-short-name } ҳамчун браузери стандартии шахсӣ
+set-default-menu-message-row-layout-subtitle = Ҳар вақте ки шумо бо Интернет кор мекунед, суръат, амният ва махфиятро ба даст оред.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери стандартии шахсӣ истифода баред ва ба мустақари худ ҷойгир кунед.
+       *[other] «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери стандартии шахсӣ истифода баред ва ба навори вазифаи худ ҷойгир кунед.
+    }
+set-default-menu-message-primary-button = Ҳамчун стандартӣ танзим кардан
+set-default-menu-message-primary-button-variant = Гузоштан ҳамчун браузери асосӣ
