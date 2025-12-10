@@ -826,6 +826,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Намоиш додани дархостҳои ҷустуҷӯӣ тавассути навори нишонӣ дар саҳифаҳо бо натиҷаҳои ҷустуҷӯ
+search-separate-default-engine-2 =
+    .label = Истифода кардани низоми ҷустуҷӯии пешфарзи дигар дар равзанаҳои махфӣ
+    .accesskey = И
+search-separate-default-engine-dropdown =
+    .aria-label = Низоми ҷустуҷӯии пешфарз дар равзанаҳои махфӣ
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -975,6 +980,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Шумо маводи зеринро дар ҳамаи дастгоҳҳои пайвастшудаи худ ҳамоҳанг карда истодаед:
+sync-syncing-across-devices-heading-2 = Маълумоти ҳамоҳангшуда байни дастгоҳҳо
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
