@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Vezi o mică descriere, timp de ci
 sidebar-button-callout-title = Afișează titlurile filelor în bara laterală
 sidebar-button-callout-subtitle = Folosește butonul din bara laterală pentru extinderea barei laterale ca să poți vedea titlurile filelor.
 sidebar-button-callout-vertical-tabs = Pentru afișarea filelor, selectează butonul din bara laterală din bara de instrumente.
+sidebar-deprecation-callout-title = În curând, bară laterală actualizată
+sidebar-deprecation-callout-subtitle = Scoatem din uz versiunea de bară laterală pe care o folosești acum. Încearcă bara laterală actualizată. Este mai rapidă și ai acces la mai multe instrumente.
+sidebar-deprecation-cta-button = Încearc-o acum
 
 ## Sidebar Vertical Tabs Strings
 

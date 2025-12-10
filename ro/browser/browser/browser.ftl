@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Marchează pagina ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vizualizare divizată
+    .aria-label = Vizualizare divizată
 
 ## Page Action Context Menu
 
@@ -842,6 +845,9 @@ urlbar-result-menu-dont-show-market =
     .label = Nu mai arăta sugestii de pe piețe
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Îți mulțumim pentru feedback. Nu vei mai vedea sugestii de pe piețe.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugestii de pe bursa de valori
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Îți mulțumim pentru feedback. Nu vei mai vedea aceste sugestii.
@@ -1616,3 +1622,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } a permis { $count } de criptomineri
     }
 trustpanel-cryptominer-tab-list-header = Aceste site-uri încearcă să criptomineze:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count"></span> element de urmărire blocat pe acest site
+        [few] <span data-l10n-name="count"></span> elemente de urmărire blocate pe acest site
+       *[other] <span data-l10n-name="count"></span> de elemente de urmărire blocate pe acest site
+    }

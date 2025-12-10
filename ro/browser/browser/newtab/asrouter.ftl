@@ -427,3 +427,8 @@ etp-strict-exceptions-infobar-button = Aplică remediile
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Nu acum
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } nu este browserul implicit
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nu este browserul tău primar
