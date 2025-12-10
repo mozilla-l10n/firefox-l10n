@@ -72,3 +72,5 @@ safeb-palm-notdeceptive =
 safeb-blocked-addon-page-error-desc-override = <strong>Чаро ин сомона манъ карда шуд?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> метавонад бо фаъолияти фиребгарона ва зараровар алоқаманд бошад.
 safeb-blocked-addon-page-error-desc3-override = <strong>Шумо дар ин масъала чӣ кор карда метавонед?</strong>
+safeb-blocked-addon-page-error-desc4-override = Барои пешгирӣ кардани чунин ҳолатҳои такрорӣ, шумо метавонед <strong>«{ $addonName }»</strong>-ро дап саҳифаи «about:addons» тоза кунед ё ғайрифаъол созед.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Маълумоти бештар дар бораи Муҳофизати «{ -brand-short-name }» аз иттиоъдуздӣ ё нармафзори зарарнок</a>.

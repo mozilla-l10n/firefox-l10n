@@ -21,6 +21,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи бо якчанд сутун намебошад.
 inactive-css-column-span = <strong>{ $property }</strong> ба ин унсур таъсири фосилагузориро намерасонад, зеро ки он дар дохили дарбаргирандаи бо якчанд сутун намебошад.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи турин ё чандир намебошад.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = Хусусияти <strong>«{ $property }»</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «flex» ё «grid» намебошад ва ҳам унсури ҷойгиршавии қатъӣ намебошад.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи турин намебошад.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи турин намебошад.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи чандир намебошад.
