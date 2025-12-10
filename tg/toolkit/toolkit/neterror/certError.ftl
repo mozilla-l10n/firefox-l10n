@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тав
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = Браузери «{ -brand-short-name }» шуморо дар бораи ин сомона огоҳ мекунад, зеро ки гувоҳиномаи таъминшуда барои «{ $hostname }» бекор карда шудааст ва дигар эътимод надорад.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Эҳтимол, ҳеҷ чиз нест, зеро чунин ба назар мерасад, ки худи сомона дорои мушкилиҳо мебошад. Шумо метавонед бо соҳиби сомона дар тамос шавед ва дар бораи ҳалли мушкилиҳои сомона маълумоти муфассал гиред.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
