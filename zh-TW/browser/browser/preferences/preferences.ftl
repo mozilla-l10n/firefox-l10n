@@ -547,6 +547,16 @@ update-in-progress-ok-button = 捨棄 (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } 技術支援
+    .description = 疑難排解問題，或與社群分享點子。
+support-get-help =
+    .label = 取得幫助
+support-share-ideas =
+    .label = 分享想法與意見回饋
+
 ## General Section - Performance
 
 performance-title = 效能
@@ -805,6 +815,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = 在結果頁的網址列顯示搜尋詞彙
+search-separate-default-engine-2 =
+    .label = 於隱私瀏覽視窗使用不同的預設搜尋引擎
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = 隱私瀏覽視窗中的預設搜尋引擎
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -954,6 +969,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目：
+sync-syncing-across-devices-heading-2 = 在不同裝置間同步的資料
+sync-syncing-across-devices-empty-state =
+    .label = 您還沒有同步任何東西。
+    .description = 開始同步，就可以將所有資料同步到您所有裝置中。
 sync-currently-syncing-bookmarks = 書籤
 sync-currently-syncing-history = 瀏覽紀錄
 sync-currently-syncing-tabs = 開啟的分頁
