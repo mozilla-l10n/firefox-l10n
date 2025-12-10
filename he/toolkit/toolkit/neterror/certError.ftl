@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = ‏{ -brand-short-name } מזהיר אותך לגבי האתר הזה מכיוון שאישור האבטחה שסופק עבור { $hostname } נשלל ואינו מהימן יותר.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. ניתן לבדוק עם בעלי האתר אם הם עובדים על פתרון הבעיה.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
