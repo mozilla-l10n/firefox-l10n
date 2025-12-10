@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Esta ação não pode ser anulada.
 
 newtab-topsite-sponsored = Patrocinado
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (afixado)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -311,6 +319,9 @@ newtab-custom-pocket-subtitle = Conteúdo excecional com curadoria de { -pocket-
 newtab-custom-stories-toggle =
     .label = Histórias recomendadas
     .description = Conteúdo excepcional com curadoria da família { -brand-product-name }
+newtab-custom-stories-personalized-toggle =
+    .label = Histórias
+newtab-custom-stories-personalized-checkbox-label = Histórias personalizadas baseadas na sua atividade
 newtab-custom-pocket-sponsored = Histórias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar coisas guardadas recentemente
 newtab-custom-recent-title = Atividade recente
@@ -321,6 +332,19 @@ newtab-custom-weather-toggle =
 newtab-custom-trending-search-toggle =
     .label = Pesquisas em alta
     .description = Tópicos populares e pesquisados com mais frequência
+newtab-custom-widget-weather-toggle =
+    .label = Meteorologia
+newtab-custom-widget-trending-search-toggle =
+    .label = Pesquisas populares
+newtab-custom-widget-lists-toggle =
+    .label = Listas
+newtab-custom-widget-timer-toggle =
+    .label = Temporizador
+newtab-custom-widget-section-title = Widgets
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = Fechar
+    .aria-label = Fechar menu
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerir mais definições
 
@@ -453,8 +477,16 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Alterar para Fahrenhei
 newtab-weather-menu-change-temperature-units-celsius = Alterar para Celsius
 newtab-weather-menu-hide-weather = Ocultar a meteorologia no novo separador
 newtab-weather-menu-learn-more = Saber mais
+newtab-weather-menu-detect-my-location = Detetar a minha localização
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Atualmente não estão disponíveis informações de meteorologia.
+newtab-weather-opt-in-see-weather = Deseja ver a previsão meteorológica na sua localização?
+newtab-weather-opt-in-not-now =
+    .label = Agora não
+newtab-weather-opt-in-yes =
+    .label = Sim
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Nova Iorque
 
 ## Topic Labels
 

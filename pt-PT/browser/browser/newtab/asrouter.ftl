@@ -368,8 +368,32 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 windows-10-eos-challenger-sync-primary-button = Efetuar cópia de segurança do { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-info-button = Veja o que está bloqueado
-windows-10-eos-callout-addons-title = Experimentar extras: atualizações simples, grande impacto
+windows-10-eos-callout-addons-title = Experimente os extras: atualizações simples, grande impacto
+windows-10-eos-callout-addons-subtitle = Estas extensões foram selecionadas para ajudar a que possa manter a produtividade, a segurança e a evitar distrações.
+windows-10-eos-callout-addons-primary-button = Veja as nossas escolhas
+windows-10-eos-sync-callout-addons-title = Não perca os seus extras quando atualizar do Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronize agora para que os seus extras do { -brand-product-name } estejam sempre disponíveis, mesmo depois de mudar de dispositivo.
+windows-10-eos-sync-callout-next-button = Seguinte
+windows-10-eos-sync-callout-get-started-button = Começar
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Os separadores verticais e os grupos de separadores já chegaram!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = A pedido de muitos, o { -brand-product-name } acaba de lançar novas funcionalidades para tornar a sua navegação ainda mais simples e focada.
+windows-10-eos-feature-toast-whats-new-button = Veja as novidades
 windows-10-eos-feature-toast-dismiss-button = Dispensar
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>A proteção rigorosa contra a monitorização pode fazer com que alguns sites deixem de funcionar corretamente.</strong> Resolva problemas comuns ao desbloquear elementos essenciais que possam incluir rastreadores.
+etp-strict-exceptions-infobar-learn-more = Saber mais
+etp-strict-exceptions-infobar-button = Aplicar correções
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = Agora não
+    .accesskey = n
