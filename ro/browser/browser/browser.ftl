@@ -1624,7 +1624,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Aceste site-uri încearcă să criptomineze:
 trustpanel-blocker-section-header2 =
     { $count ->
-        [one] <span data-l10n-name="count"></span> element de urmărire blocat pe acest site
-        [few] <span data-l10n-name="count"></span> elemente de urmărire blocate pe acest site
-       *[other] <span data-l10n-name="count"></span> de elemente de urmărire blocate pe acest site
+        [one] <span data-l10n-name="count">{ $count }</span> element de urmărire blocat pe acest site
+        [few] <span data-l10n-name="count">{ $count }</span> elemente de urmărire blocate pe acest site
+       *[other] <span data-l10n-name="count">{ $count }</span> de elemente de urmărire blocate pe acest site
     }
