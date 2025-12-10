@@ -559,6 +559,16 @@ update-in-progress-ok-button = &ביטול
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &המשך
 
+## Firefox support
+
+support-application-heading =
+    .label = תמיכה ב־{ -brand-short-name }
+    .description = קבלת עזרה בפתרון בעיות או שיתוף רעיונות עם הקהילה.
+support-get-help =
+    .label = קבלת עזרה
+support-share-ideas =
+    .label = שיתוף רעיונות ומשוב
+
 ## General Section - Performance
 
 performance-title = ביצועים
@@ -817,6 +827,9 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = הצגת מונחי חיפוש בשורת הכתובת בדפי תוצאות
+search-separate-default-engine-2 =
+    .label = שימוש במנוע חיפוש ברירת מחדל שונה בחלונות פרטיים
+    .accesskey = ח
 search-separate-default-engine-dropdown =
     .aria-label = מנוע חיפוש ברירת מחדל בחלונות פרטיים
 # With this option enabled, on the search results page
