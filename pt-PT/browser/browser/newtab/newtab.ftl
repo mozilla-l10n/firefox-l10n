@@ -570,6 +570,11 @@ newtab-custom-wallpaper-title = Os fundos personalizados estão aqui
 newtab-custom-wallpaper-subtitle = Envie o seu próprio fundo ou escolha uma cor personalizada para tornar o { -brand-product-name } seu.
 newtab-custom-wallpaper-cta = Experimentar
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Escolha um fundo para tornar o { -brand-product-name } seu
+newtab-new-user-custom-wallpaper-subtitle = Dê um toque pessoal a cada novo separador com fundos e cores à sua escolha.
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Transferir o { -brand-product-name } para dispositivos móveis
@@ -622,6 +627,14 @@ newtab-trending-searches-title = Pesquisas populares
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-label-play =
+    .label = Reproduzir
+newtab-widget-timer-label-pause =
+    .label = Pausar
+newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador integrado
+newtab-promo-card-title = Apoiar o { -brand-product-name }
+newtab-promo-card-body = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
+newtab-promo-card-cta = Saber mais
 newtab-promo-card-dismiss-button =
     .title = Dispensar
     .aria-label = Dispensar

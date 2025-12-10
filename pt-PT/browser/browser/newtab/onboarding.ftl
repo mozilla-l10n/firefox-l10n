@@ -468,3 +468,47 @@ dismiss-button-label = Dispensar
 sync-to-mobile-button-label = Sincronizar com o telemóvel
 desktop-to-mobile-qr-code-alt =
     .aria-label = Código QR para transferir o { -brand-product-name } para dispositivos móveis
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-title =
+    A atualizar para o Windows 11?
+    Vamos efetuar uma cópia dos seus dados do { -brand-product-name }.
+create-backup-screen-1-flair = Recomendado
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saber mais</a>
+create-backup-screen-1-sync-label = Sincronizar com o { -brand-product-name }
+create-backup-screen-1-backup-label = Cópia de segurança para PC
+create-backup-screen-1-backup-body = Guarda no seu dispositivo ou OneDrive
+create-backup-select-tile-button-label = Selecionar
+create-backup-back-button-label = Retroceder
+create-backup-show-fewer =
+    .label = Mostrar menos como isto
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuração fácil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcadores, histórico, definições e muito mais
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Não inclui palavras-passe e pagamentos
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Não encriptada
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Todos os dados
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Inclui palavras-passe e pagamentos
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Encriptada com uma palavra-passe
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Onde quer a sua cópia de segurança seja guardada?
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaurar da cópia de segurança
+restore-from-backup-secondary-button = Não restaurar
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Guardar e continuar
+restored-from-backup-success-with-checklist-secondary-button = Ignorar este passo
+restored-from-backup-success-no-checklist-primary-button = Continuar
+restored-from-backup-error-title = Hmm, ocorreu um problema com o seu ficheiro da cópia de segurança.
+restored-from-backup-error-primary-button = Fechar
