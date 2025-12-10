@@ -102,6 +102,8 @@ profiles-light-theme = Claro
 profiles-dark-theme = Escuro
 # The default system theme
 profiles-system-theme = Sistema
+profiles-system-theme-title =
+    .title = Aplicar tema do sistema
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Calêndula amarela
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
@@ -116,9 +118,45 @@ profiles-ocean-theme-2 = Azul oceano
 profiles-terracotta-theme-2 = Vermelho tijolo
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = Verde musgo
+profiles-gray-theme = Cinzento
+profiles-gray-theme-title =
+    .title = Aplicar tema cinzento
+profiles-yellow-theme = Amarelo
+profiles-yellow-theme-title =
+    .title = Aplicar tema amarelo
+profiles-orange-theme = Laranja
+profiles-orange-theme-title =
+    .title = Aplicar tema laranja
+profiles-red-theme = Vermelho
+profiles-red-theme-title =
+    .title = Aplicar tema vermelho
+profiles-pink-theme = Rosa
+profiles-pink-theme-title =
+    .title = Aplicar tema rosa
+profiles-purple-theme = Roxo
+profiles-purple-theme-title =
+    .title = Aplicar tema roxo
+profiles-violet-theme = Violeta
+profiles-violet-theme-title =
+    .title = Aplicar tema violeta
+profiles-blue-theme = Azul
+profiles-blue-theme-title =
+    .title = Aplicar tema azul
+profiles-green-theme = Verde
+profiles-green-theme-title =
+    .title = Aplicar tema verde
+profiles-cyan-theme = Ciano
+profiles-cyan-theme-title =
+    .title = Aplicar tema ciano
+profiles-custom-theme-title =
+    .title = Aplicar tema personalizado
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>As definições da recolha de dados foram alteradas.</strong> As alterações efetuadas noutro perfil são aplicadas a todos os perfis neste dispositivo.
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = Ver definições
 # Secondary button label to dismiss the infobar without action
 multiprofile-data-collection-dismiss = Dispensar
 
@@ -128,16 +166,53 @@ book-avatar-alt =
     .alt = Livro
 briefcase-avatar-alt =
     .alt = Pasta
+picture-avatar-alt =
+    .alt = Imagem
 flower-avatar-alt =
     .alt = Flor
+folder-avatar-alt =
+    .alt = Pasta
 heart-avatar-alt =
     .alt = Coração
+heart-rate-avatar-alt =
+    .alt = Pulsação
+leaf-avatar-alt =
+    .alt = Folha
+lightbulb-avatar-alt =
+    .alt = Lâmpada
+makeup-avatar-alt =
+    .alt = Maquilhagem
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = Mensagem
+musical-note-avatar-alt =
+    .alt = Nota musical
+palette-avatar-alt =
+    .alt = Paleta
+paw-print-avatar-alt =
+    .alt = Pegada
+plane-avatar-alt =
+    .alt = Avião
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = Presente
 shopping-avatar-alt =
     .alt = Carrinho de compras
+sparkle-single-avatar-alt =
+    .alt = Brilho
 star-avatar-alt =
     .alt = Estrela
+video-game-controller-avatar-alt =
+    .alt = Controlador de jogos de vídeo
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = Diamante
+barbell-avatar-alt =
+    .alt = Barra
+bike-avatar-alt =
+    .alt = Mota
 
 ## Tooltips for default avatar icons
 
@@ -147,3 +222,23 @@ flower-avatar = Flor
 heart-avatar = Coração
 shopping-avatar = Carrinho de compras
 star-avatar = Estrela
+
+## Tooltips for default avatar icons
+
+paw-print-avatar-tooltip =
+    .tooltiptext = Aplicar avatar pegada
+plane-avatar-tooltip =
+    .tooltiptext = Aplicar avatar avião
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Aplicar avatar presente
+shopping-avatar-tooltip =
+    .tooltiptext = Aplicar avatar carrinho de compras
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplicar avatar bola de futebol
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Aplicar avatar brilho
+star-avatar-tooltip =
+    .tooltiptext = Aplicar avatar estrela
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Aplicar avatar controlador de jogos de vídeo

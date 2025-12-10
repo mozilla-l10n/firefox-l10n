@@ -346,6 +346,25 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Abrir grupo en una nueva ventana
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Añadir nota
+    .accesskey = A
+tab-context-edit-note =
+    .label = Editar nota
+    .accesskey = E
+tab-note-editor-title-create = Añadir nota
+tab-note-editor-title-edit = Editar nota
+tab-note-editor-text-field =
+    .placeholder = ¿Qué quieres recordar de esta pestaña?
+tab-note-editor-button-cancel =
+    .label = Cancelar
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Guardar
+    .accesskey = S
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -364,3 +383,14 @@ tab-context-separate-split-view =
     .label = Separar vista dividida
     .accesskey = t
 tab-context-badge-new = Nuevo
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Separar pestañas
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Invertir pestañas
+split-view-menuitem-close-both-tabs =
+    .label = Cerrar ambas pestañas

@@ -171,8 +171,28 @@ preferences-manage-profiles-description = Cada perfil tiene datos de navegación
 preferences-manage-profiles-learn-more = Aprender más
 preferences-manage-profiles-button =
     .label = Gestionar perfiles
+preferences-profiles-settings-button =
+    .label = Ajustes
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Perfil para copiar
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Seleccionar perfil
+preferences-copy-profile-button = Copiar
 tabs-group-header2 =
     .label = Pestañas
+tabs-opening-heading =
+    .label = Apertura
+tabs-interaction-heading =
+    .label = Interacción
+tabs-containers-heading =
+    .label = Contenedores
+tabs-closing-heading =
+    .label = Cierre
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab circula a través de las pestañas en orden según su uso reciente
@@ -531,6 +551,13 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+support-get-help =
+    .label = Obtener ayuda
+support-share-ideas =
+    .label = Compartir ideas y comentarios
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -729,6 +756,8 @@ home-prefs-weather-header =
     .label = Clima
 home-prefs-weather-description = El pronóstico de hoy de un vistazo
 home-prefs-weather-learn-more-link = Aprender más
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Tendencias de búsquedas
 home-prefs-trending-search-description = Temas populares y buscados con frecuencia
@@ -743,6 +772,8 @@ home-prefs-support-firefox-header =
     .label = Apoyar a { -brand-product-name }
 home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web
 home-prefs-mission-message-learn-more-link = Descubre cómo
+home-prefs-mission-message2 =
+    .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
 home-prefs-manage-topics-link = Administrar temas
 home-prefs-choose-wallpaper-link = Elige un fondo de pantalla
 # Variables:
@@ -1056,6 +1087,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Contraseñas
     .searchkeywords = credenciales
+forms-passwords-header =
+    .label = Contraseñas
+    .aria-label = Contraseñas
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Solicitar guardar contraseñas
@@ -1096,6 +1130,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desactivar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerir la autenticación del sistema para completar y administrar contraseñas
@@ -1161,6 +1198,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Guardar y completar automáticamente la información de pago
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Administrar métodos de pago
 autofill-payment-methods-manage-payments-button =
     .label = Administrar métodos de pago
     .accesskey = m
@@ -1168,6 +1207,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Requerir la autenticación del sistema para autocompletar y administrar métodos de pago
     .accesskey = o
+autofill-payment-methods-add-button = Añadir nuevo método de pago
+payments-list-header =
+    .label = Métodos de pago
+payments-list-item-label = <strong>Métodos de pago</strong>
+payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
+payments-remove-payment-prompt-confirm-button = Eliminar
+payments-remove-payment-prompt-cancel-button = Cancelar
 autofill-addresses-title = Direcciones y más
 autofill-addresses-header =
     .aria-label = Direcciones y más
@@ -1177,6 +1223,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = M
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
