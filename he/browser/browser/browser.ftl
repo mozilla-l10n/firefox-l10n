@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = יצירת סימנייה לדף זה ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = תצוגה מפוצלת
+    .aria-label = תצוגה מפוצלת
 
 ## Page Action Context Menu
 
@@ -835,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = לא להציג הצעות שוק מניות
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = תודה על המשוב שלך. לא יוצגו עוד הצעות לשוק מניות.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = הצעות לשוק המניות
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = תודה על המשוב שלך. לא יוצגו עוד הצעות אלו.
