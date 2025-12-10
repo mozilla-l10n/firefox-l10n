@@ -145,6 +145,8 @@ sidebar-button-callout-title = הצגת כותרות של לשוניות בסר�
 sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל הצד כדי להרחב את סרגל הצד, כדי שיהיה באפשרותך לראות את הכותרות של הלשוניות.
 sidebar-button-callout-vertical-tabs = כדי לצפות בלשוניות שלך, יש לבחור בכפתור סרגל הצד בסרגל הכלים.
 sidebar-deprecation-callout-title = סרגל צד מעודכן מגיע בקרוב
+sidebar-deprecation-callout-subtitle = אנחנו מוציאים משימוש את גרסת סרגל הצד שנמצא בשימוש כרגע. ניתן לנסות את סרגל הצד המעודכן. הוא מהיר יותר, ודרכו ניתן לקבל גישה ליותר כלים.
+sidebar-deprecation-cta-button = לנסות עכשיו
 
 ## Sidebar Vertical Tabs Strings
 
