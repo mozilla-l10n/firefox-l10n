@@ -1596,3 +1596,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] ‏{ -brand-product-name } איפשר { $count } כורי מטבעות דיגיטליים
     }
 trustpanel-cryptominer-tab-list-header = האתרים האלה מנסים לכרות מטבעות דיגיטליים:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] רכיב מעקב <span data-l10n-name="count">אחד</span> נחסם באתר זה
+       *[other] <span data-l10n-name="count">{ $count }</span> רכיבי מעקב נחסמו באתר זה
+    }

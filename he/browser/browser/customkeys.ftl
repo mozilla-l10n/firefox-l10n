@@ -35,3 +35,5 @@ customkeys-nav-reload = טעינה מחדש
 customkeys-nav-reload-skip-cache = טעינה מחדש (עקיפת המטמון)
 customkeys-nav-stop = עצירה
 customkeys-caution-message = תכונה זו היא ניסיונית וייתכן שלא תפעל כצפוי.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = לא חוקי

@@ -144,6 +144,7 @@ link-preview-onboarding-callout-description = הצגת תיאור קצר, זמן
 sidebar-button-callout-title = הצגת כותרות של לשוניות בסרגל הצד
 sidebar-button-callout-subtitle = ניתן להשתמש בכפתור סרגל הצד כדי להרחב את סרגל הצד, כדי שיהיה באפשרותך לראות את הכותרות של הלשוניות.
 sidebar-button-callout-vertical-tabs = כדי לצפות בלשוניות שלך, יש לבחור בכפתור סרגל הצד בסרגל הכלים.
+sidebar-deprecation-callout-title = סרגל צד מעודכן מגיע בקרוב
 
 ## Sidebar Vertical Tabs Strings
 
