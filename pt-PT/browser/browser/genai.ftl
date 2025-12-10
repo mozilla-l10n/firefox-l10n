@@ -240,3 +240,9 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Ativar pré-visualizações de ligações
     .description = Veja o título, descrição e mais informações da página quando utiliza um atalho ou utiliza menu de contexto numa ligação.
+# Onboarding card Close button
+link-preview-onboarding-close = Fechar
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Configuração inicial
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Isto poderá demorar algum tempo. Irá ver os pontos chave mais rapidamente da próxima vez.

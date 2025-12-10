@@ -210,3 +210,24 @@ backup-file-moz-browser-restore-step-2 = Clique em “Escolher ficheiro da cópi
 backup-file-moz-browser-restore-step-3 = Reinicie o { -brand-short-name } quando solicitado
 backup-file-other-browser-restore-step-1 = Transfira e instale o { -brand-short-name }
 backup-file-download-moz-browser-button = Transferir
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Inicie o { -brand-short-name }, abra o menu da aplicação ☰ e aceda a Definições > Sincronizar
+backup-file-other-browser-restore-step-3 = Clique em “Escolher ficheiro da cópia de segurança” e selecione este ficheiro
+backup-file-other-browser-restore-step-4 = Reinicie o { -brand-short-name } quando solicitado
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> { $numberOfOutroBackupsfound } outro ficheiro da cópia de segurança encontrado
+       *[other] <b>Nota:</b> { $numberOfOutroBackupsfound } outros ficheiros de cópia de segurança encontrados
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Criada a { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }

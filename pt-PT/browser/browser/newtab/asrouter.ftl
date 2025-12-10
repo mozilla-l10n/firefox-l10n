@@ -68,6 +68,9 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores agora...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botão de fecho
     .title = Fechar
+fxa-adoption-credit-cards-backup-title = Vamos efetuar uma cópia de segurança dos seus métodos de pagamento
+fxa-adoption-bookmarks-treatment-backup-title = Vamos efetuar uma cópia de segurança dos seus marcadores
+fxa-adoption-primary-button-label = Registar
 
 ## Protections panel
 
@@ -226,6 +229,15 @@ fox-doodle-pin-secondary = Agora não
 set-default-pdf-handler-headline = <strong>Os seus PDFs agora abrem no { -brand-short-name }.</strong> Edite ou assine formulários diretamente no seu navegador. Para alterar, procure “PDF” nas configurações.
 set-default-pdf-handler-primary = Percebi
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = Tornar o { -brand-short-name } no seu editor de PDF predefinido?
+annotations-make-default-pdf-handler-subtitle = Terá acesso às nossas ferramentas sempre que abrir um PDF.
+annotations-make-default-pdf-primary-cta =
+    .label = Definir como predefinição
+annotations-make-default-pdf-next =
+    .label = Seguinte
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Novo dispositivo no seu futuro?
@@ -311,6 +323,8 @@ fxa-menu-message-close-button =
     .title = Fechar
     .aria-label = Fechar
 fxa-menu-message-sign-up-button = Registar
+fxa-menu-message-sign-in-button = Iniciar sessão
+fxa-menu-message-sync-button = Começar a sincronizar
 fxa-menu-message-sync-devices-primary-text = Sincronize todos os seus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Obtenha a sua informação de forma instantânea — como marcadores e palavras-passe — onde quer que utilize o { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronize todos os seus dispositivos
@@ -343,6 +357,18 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] Mantenha o seu navegador privado favorito, apenas a um clique de distância. Defina o { -brand-short-name } como o seu navegador predefinido para abrir ligações e fixe-o à sua barra de ferramentas.
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenha o seu navegador privado favorito, apenas a um clique de distância. Defina o { -brand-short-name } como o seu navegador predefinido para abrir ligações e fixe-o à sua barra de ferramentas e menu Iniciar.
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = Começar
+windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-sync-primary-button = Efetuar cópia de segurança do { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = Veja o que está bloqueado
+windows-10-eos-callout-addons-title = Experimentar extras: atualizações simples, grande impacto
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
