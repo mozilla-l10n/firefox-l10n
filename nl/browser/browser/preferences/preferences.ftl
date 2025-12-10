@@ -559,6 +559,16 @@ update-in-progress-ok-button = &Verwerpen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name }-ondersteuning
+    .description = Problemen oplossen of ideeën delen met de gemeenschap.
+support-get-help =
+    .label = Hulp verkrijgen
+support-share-ideas =
+    .label = Ideeën en feedback delen
+
 ## General Section - Performance
 
 performance-title = Prestaties
@@ -817,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Zoektermen in de adresbalk op resultaatpagina’s tonen
+search-separate-default-engine-2 =
+    .label = Een andere standaardzoekmachine gebruiken in privévensters
+    .accesskey = g
+search-separate-default-engine-dropdown =
+    .aria-label = Standaardzoekmachine in privévensters
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -966,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = U synchroniseert deze items tussen al uw verbonden apparaten:
+sync-syncing-across-devices-heading-2 = Gegevens tussen apparaten gesynchroniseerd
+sync-syncing-across-devices-empty-state =
+    .label = U synchroniseert niets… nog niet.
+    .description = Begin met synchroniseren om al uw gegevens op al uw apparaten te krijgen.
 sync-currently-syncing-bookmarks = Bladwijzers
 sync-currently-syncing-history = Geschiedenis
 sync-currently-syncing-tabs = Open tabbladen

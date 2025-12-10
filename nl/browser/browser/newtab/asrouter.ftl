@@ -424,3 +424,18 @@ etp-strict-exceptions-infobar-button = Oplossingen toepassen
     .accesskey = t
 etp-strict-exceptions-infobar-not-now = Niet nu
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } is niet uw standaardbrowser
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } is niet uw primaire browser
+set-default-menu-message-row-layout-title = { -brand-short-name } uw primaire browser maken
+set-default-menu-message-row-layout-title-variant = { -brand-short-name } uw standaardbrowser maken
+set-default-menu-message-row-layout-subtitle = Ontvang snelheid, veiligheid en privacy, telkens als u surft.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en voeg het aan uw Dock toe.
+       *[other] Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en zet het vast aan uw taakbalk.
+    }
+set-default-menu-message-primary-button = Instellen als standaard
+set-default-menu-message-primary-button-variant = Instellen als primaire browser

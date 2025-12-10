@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Bekijk een korte beschrijving, lee
 sidebar-button-callout-title = Tabbladtitels in de zijbalk tonen
 sidebar-button-callout-subtitle = Gebruik de zijbalkknop om de zijbalk uit te vouwen, zodat u tabbladtitels kunt zien.
 sidebar-button-callout-vertical-tabs = Selecteer de zijbalkknop in de werkbalk om uw tabbladen te tonen.
+sidebar-deprecation-callout-title = Binnenkort: bijgewerkte zijbalk
+sidebar-deprecation-callout-subtitle = We faseren de versie van de zijbalk die u momenteel gebruikt uit. Probeer de bijgewerkte zijbalk. Deze is sneller en u krijgt toegang tot meer hulpmiddelen.
+sidebar-deprecation-cta-button = Nu proberen
 
 ## Sidebar Vertical Tabs Strings
 
