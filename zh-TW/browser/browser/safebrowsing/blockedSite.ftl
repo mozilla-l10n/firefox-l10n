@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = 因為網頁中的內容可能會誤導
 safeb-blocked-malware-page-short-desc = 因為網頁中的內容可能嘗試安裝會偷走或刪除您電腦上個人資料的惡意軟體，{ -brand-short-name } 已封鎖此頁面。
 safeb-blocked-unwanted-page-short-desc = 此頁面可能會故意讓您安裝會傷害上網體驗的程式（例如說修改您的瀏覽器首頁、彈出不想要的廣告），{ -brand-short-name } 已封鎖此頁面。
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } 已封鎖此頁面載入，因為這張網頁可能會嘗試安裝危險程式，用來偷竊或刪除您的資訊（例如相片、密碼、訊息、信用卡號等）。
+safeb-blocked-addon-page-short-desc = 您的某套附加元件嘗試開啟此網頁，{ -brand-short-name } 已經封鎖。這個網站可能會用來偷走您的個人資訊（如密碼、信用卡卡號等）。
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = 公告內容由 <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> 提供。
@@ -63,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = 請到 <a data-l10n-name='firefox_suppor
 safeb-palm-notdeceptive =
     .label = 這不是詐騙網站…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>為什麼要封鎖這個網站？</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> 可能與詐騙或有害活動相關。
+safeb-blocked-addon-page-error-desc3-override = <strong>您可以做什麼？</strong>
+safeb-blocked-addon-page-error-desc4-override = 若要防止這個情況再發生，可以到 about:addons 移除或停用 <strong>{ $addonName }</strong>。
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>了解 { -brand-short-name } 的防釣魚及惡意軟體保護功能的更多資訊</a>。

@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = 返回上一頁（建�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = 由於 { $hostname } 提供的憑證已遭撤銷，不再受信任，所以 { -brand-short-name } 才會警告您。
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = 由於這通常是網站的設定問題，可能沒什麼能做的。您可以與站方確認是否正在處理此問題。
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = 此網站設定只接受安全連線，但網站的憑證有問題。這可能是因為有惡意的第三人正嘗試假扮為該網站。網站會透過憑證機構簽發的憑證來證明自己的身分，但由於 { $hostname } 提供的憑證無效， { -brand-short-name } 無法信任此網站。此網站使用的憑證，僅對下列網址有效：{ $validHosts }。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
