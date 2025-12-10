@@ -559,6 +559,16 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+support-application-heading =
+    .label = Soporte de { -brand-short-name }
+    .description = Solucionar problemas o compartir ideas con la comunidad.
+support-get-help =
+    .label = Obtener ayuda
+support-share-ideas =
+    .label = Compartir ideas y opiniones
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -817,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostrar términos de búsqueda de la barra de direcciones en las páginas de resultados
+search-separate-default-engine-2 =
+    .label = Usar un buscador predeterminado diferente en ventanas privadas
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Buscador predeterminado en ventanas privadas
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -966,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
+sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state =
+    .label = No se está sincronizando nada… todavía.
+    .description = Empiece a sincronizar para tener todos los datos en todos los dispositivos.
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestañas abiertas

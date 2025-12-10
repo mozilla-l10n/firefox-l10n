@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = El sitio siguiente es engañoso
 safeb-blocked-malware-page-title = Visitar este sitio puede dañar su computadora
 safeb-blocked-unwanted-page-title = El próximo sitio puede contener programas dañinos
 safeb-blocked-harmful-page-title = El siguiente sitio puede contener malware
+safeb-blocked-addon-page-title = Sitio bloqueado por su seguridad
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ha bloqueado esta página porque puede engañarlo para que realice algo peligroso como instalar software o revelar información personas como contraseñas o tarjetas de crédito.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } bloqueó este sitio porque podría intentar instalar programas maliciosos que podrían robar o eliminar información personal de su computadora.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloqueó está página porque puede intentar engañarlo para instalar programas que pueden complicar su experiencia de navegación (por ejemplo, al cambiar su página de inicio o mostrar más avisos en los sitios que visita).
