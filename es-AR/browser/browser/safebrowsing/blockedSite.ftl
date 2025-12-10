@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } ha bloqueado esta
 safeb-blocked-malware-page-short-desc = { -brand-short-name } bloqueó este sitio porque podría intentar instalar programas maliciosos que podrían robar o eliminar información personal de su computadora.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloqueó está página porque puede intentar engañarlo para instalar programas que pueden complicar su experiencia de navegación (por ejemplo, al cambiar su página de inicio o mostrar más avisos en los sitios que visita).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } bloqueó esta pagina porque podría intentar instalar aplicaciones peligrosas que roben o eliminen tu información (por ejemplo fotos, contraseñas, mensajes y tarjetas de crédito).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } bloqueó está página porque uno de los complementos intentó abrirla. Este sitio podría usarse para robar información, como contraseñas o números de tarjetas de crédito.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Advertencia brindada por <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -63,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Conozca más acerca de la protección co
 safeb-palm-notdeceptive =
     .label = Este sitio no es engañoso…
     .accesskey = e
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>¿Por qué se bloqueó este sitio?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> puede estar vinculado a actividad engañosa y dañina.
+safeb-blocked-addon-page-error-desc3-override = <strong>¿Qué se puede hacer al respecto?</strong>
+safeb-blocked-addon-page-error-desc4-override = Para que esto no pase de nuevo, se puede eliminar o deshabilitar <strong>{ $addonName }</strong> de about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Conocer más sobre la protección contra phishing y malware de { -brand-short-name }</a>.
