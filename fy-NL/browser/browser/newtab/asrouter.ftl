@@ -424,3 +424,13 @@ etp-strict-exceptions-infobar-button = Oplossingen tapasse
     .accesskey = t
 etp-strict-exceptions-infobar-not-now = No net
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } is net jo standertbrowser
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } is net jo primêre browser
+set-default-menu-message-row-layout-title = { -brand-short-name } jo primêre browser meitsje
+set-default-menu-message-row-layout-title-variant = { -brand-short-name } jo standertbrowser meitsje
+set-default-menu-message-row-layout-subtitle = Untfang snelheid, feilichheid en privacy, hieltyd as jo sneupe.
+set-default-menu-message-primary-button = Ynstelle as standert
+set-default-menu-message-primary-button-variant = Ynstelle as primêre browser

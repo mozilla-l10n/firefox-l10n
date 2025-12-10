@@ -559,6 +559,13 @@ update-in-progress-ok-button = &Ferwerpe
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
 
+## Firefox support
+
+support-get-help =
+    .label = Help krije
+support-share-ideas =
+    .label = Ideeën en kommentaar diele
+
 ## General Section - Performance
 
 performance-title = Prestaasjes
@@ -817,6 +824,8 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Syktermen yn de adresbalke op resultaatsiden toane
+search-separate-default-engine-dropdown =
+    .aria-label = Standertsykmasine yn priveefinsters
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

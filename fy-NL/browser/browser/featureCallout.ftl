@@ -159,6 +159,8 @@ link-preview-onboarding-callout-description = Besjoch in koarte beskriuwing, lê
 sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
 sidebar-button-callout-subtitle = Brûk de sydbalkeknop om de sydbalke út te klappen, sadat jo ljepblêdtitels sjen kinne.
 sidebar-button-callout-vertical-tabs = Selektearje de sydbalkeknop yn de arkbalke om jo ljepblêden te toanen.
+sidebar-deprecation-callout-title = Ynkoarten: bywurke sydbalke
+sidebar-deprecation-cta-button = No probearje
 
 ## Sidebar Vertical Tabs Strings
 

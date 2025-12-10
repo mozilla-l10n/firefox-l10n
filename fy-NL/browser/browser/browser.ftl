@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Blêdwizer foar dizze side meitsje ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Splitste werjefte
+    .aria-label = Splitste werjefte
 
 ## Page Action Context Menu
 
@@ -838,6 +841,9 @@ urlbar-result-menu-dont-show-market =
     .label = Gjin beurssuggestjes toane
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Tank foar jo kommentaar. Jo sjogge gjin beurssuggestjes mear.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Oandielmerkesuggestjes
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Tank foar jo kommentaar. Jo sjogge dizze suggestjes net mear.
@@ -1587,3 +1593,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } hat { $count } cryptominers tastien
     }
 trustpanel-cryptominer-tab-list-header = Dizze websites probearje te cryptominen:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> tracker blokkearre op dizze website
+       *[other] <span data-l10n-name="count">{ $count }</span> trackers blokkearre op dizze website
+    }

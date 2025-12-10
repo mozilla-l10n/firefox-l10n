@@ -35,3 +35,5 @@ customkeys-nav-reload = Opnij lade
 customkeys-nav-reload-skip-cache = Opnij lade (buffer negearje)
 customkeys-nav-stop = Stopje
 customkeys-caution-message = Dizze funksje is eksperiminteel en wurket miskien net sa as ferwachte.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Unjildich
