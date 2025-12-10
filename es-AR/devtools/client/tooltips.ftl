@@ -85,6 +85,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Intente agregar <strong>d
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intente agregar <strong>display: grid</strong>, <strong>display: flex</strong> o <strong>columns: 2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Intente agregar <strong>column-count</strong> o <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Intente agregar <strong>column-count</strong> o <strong>column-width</strong> a uno de sus elementos ancestros. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Intente agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong > o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Intente agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
 inactive-css-not-grid-item-fix-2 = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del elemento. { learn-more }
 inactive-css-not-grid-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
