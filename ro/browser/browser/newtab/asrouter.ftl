@@ -431,4 +431,6 @@ etp-strict-exceptions-infobar-not-now = Nu acum
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } nu este browserul implicit
-set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nu este browserul tău primar
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nu este browserul tău principal
+set-default-menu-message-row-layout-title = Setează { -brand-short-name } ca browser principal
+set-default-menu-message-row-layout-title-variant = Setează { -brand-short-name } ca browser implicit
