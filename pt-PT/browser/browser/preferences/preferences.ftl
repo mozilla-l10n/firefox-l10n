@@ -1390,6 +1390,9 @@ permissions-location = Localização
 permissions-location-settings =
     .label = Definições…
     .accesskey = f
+permissions-local-network-settings =
+    .label = Definições…
+    .accesskey = f
 permissions-xr = Realidade virtual
 permissions-xr-settings =
     .label = Definições...
@@ -1421,6 +1424,9 @@ permissions-autoplay = Reprodução automática
 permissions-autoplay-settings =
     .label = Definições…
     .accesskey = f
+permissions-block-popups2 =
+    .label = Bloquear pop-ups e redirecionamentos de terceiros
+    .accesskey = B
 permissions-block-popups =
     .label = Bloquear janelas pop-up
     .accesskey = B
@@ -1550,6 +1556,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos dos sites podem não ser apresentados corretamente. Pode limpar os dados armazenados em Definições > Privacidade e segurança > Cookies e Dados de sites.
 space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos de sites podem não ser apresentados corretamente. Visite “Saber mais” para otimizar a utilização do seu disco e melhorar a experiência de navegação.
+certs-description2 =
+    .label = Certificados
+    .description = Configure os certificados que o { -brand-short-name } utiliza para a autenticação.
 
 ## Privacy Section - HTTPS-Only
 

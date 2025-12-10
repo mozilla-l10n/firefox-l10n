@@ -424,3 +424,13 @@ etp-strict-exceptions-infobar-button = Aplicar correcciones
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ahora no
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } no es el navegador predeterminado
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } no es tu navegador principal
+set-default-menu-message-row-layout-title = Hacer de { -brand-short-name } tu navegador principal
+set-default-menu-message-row-layout-title-variant = Hacer de { -brand-short-name } tu navegador predeterminado
+set-default-menu-message-row-layout-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
+set-default-menu-message-primary-button = Establecer como predeterminado
+set-default-menu-message-primary-button-variant = Establecer como navegador primario

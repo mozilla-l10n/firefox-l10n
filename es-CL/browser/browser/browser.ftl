@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Guardar esta página  en marcadores ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vista dividida
+    .aria-label = Vista dividida
 
 ## Page Action Context Menu
 
@@ -426,6 +429,9 @@ quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Tomar una captura de pantalla
 quickactions-cmd-screenshot2 = captura de pantalla, tomar una captura de pantalla, screenshot
+# Opens about:translations
+quickactions-translate = Traducir
+quickactions-cmd-translate = traducir
 quickactions-cmd-screenshot = captura de pantalla
 # Opens about:preferences
 quickactions-settings2 = Administrar ajustes
@@ -835,6 +841,9 @@ urlbar-result-menu-dont-show-market =
     .label = No mostrar sugerencias de mercado
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Gracias por tu opinión. Ya no verás sugerencias de mercado.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugerencias del mercado de valores
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gracias por tu opinión. Ya no verás estas sugerencias.
@@ -926,6 +935,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = No se ha seleccionado ningún acceso directo, elige un acceso directo
     .tooltiptext = No se ha seleccionado ningún acceso directo, elige un acceso directo
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Búsqueda de palabras clave deshabilitada
+    .tooltiptext = Búsqueda de palabras clave deshabilitada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

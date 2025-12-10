@@ -499,6 +499,30 @@ create-backup-screen-2-all-list-2 = Inclui palavras-passe e pagamentos
 create-backup-screen-2-all-list-3 = Encriptada com uma palavra-passe
 # Title for a screen asking users to choose a file location
 create-backup-screen-3-location = Onde quer a sua cópia de segurança seja guardada?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Criar uma palavra-passe para o ficheiro da cópia de segurança
+create-backup-screen-3-subtitle = Necessário para encriptar os seus dados. Guarde-a num local de que irá lembrar-se.
+fx-backup-opt-in-header = Escolher a localização do ficheiro
+fx-backup-opt-in-filepath-label = Escolha um local que planeia transferir para um novo dispositivo, tal como o Onedrive.
+fx-backup-opt-in-create-password-label = Inserir palavra-passe
+fx-backup-opt-in-confirm-btn-label = Continuar
+fx-backup-opt-in-cancel-btn-label = Anterior
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = A sua cópia de segurança está agendada
+fx-backup-confirmation-screen-close-button = Fechar
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = Todos os dados de navegação incluídos
+fx-backup-confirmation-screen-all-data-item-text-2 = Guardada no seu dispositivo
+fx-backup-confirmation-screen-all-data-item-text-3 = Encriptada e protegida por palavra-passe
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcadores, histórico, definições e outros dados incluídos
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardada no seu dispositivo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Palavras-passe e pagamentos não incluídos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Aceda às <a data-l10n-name="settings">Definições</a> para incluir dados sensíveis.
+fx-backup-confirmation-screen-item-subtext-1 = A sua cópia de segurança irá iniciar em alguns minutos e será executada uma vez por dia. Pode verificar o progresso nas <a data-l10n-name="settings">Definições</a>.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -512,3 +536,10 @@ restored-from-backup-success-with-checklist-secondary-button = Ignorar este pass
 restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, ocorreu um problema com o seu ficheiro da cópia de segurança.
 restored-from-backup-error-primary-button = Fechar
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personalize a sua experiência do { -brand-short-name }
+onboarding-personalization-subtitle = Responda a algumas perguntas e nós iremos sugerir funcionalidades e extensões para melhorar a sua utilização do { -brand-short-name }.
+onboarding-personalization-use-case-title = Para que irá utilizar o { -brand-short-name }?

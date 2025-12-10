@@ -26,12 +26,16 @@ profile-card =
 default-profile-name = Perfil { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Perfil original
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = Editar perfil
 edit-profile-page-header = Editar o seu perfil
 edit-profile-page-profile-name-label = Nome do perfil
 edit-profile-page-theme-header-2 =
     .label = Tema
 edit-profile-page-explore-themes = Explorar mais temas
+edit-profile-page-desktop-shortcut-header = Criar atalho no ambiente de trabalho
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = Criar atalho no ambiente de trabalho
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
@@ -45,6 +49,8 @@ avatar-selector-save-button =
     .label = Guardar
 avatar-selector-upload-file = Enviar um ficheiro
 avatar-selector-drag-file = Ou arrastar um ficheiro para aqui
+avatar-selector-add-image = Adicionar uma imagem
+avatar-selector-crop = Recortar
 edit-profile-page-no-name = Dê um nome a este perfil para ajudar a encontrá-lo mais tarde. Renomeie-o a qualquer momento.
 edit-profile-page-duplicate-name = O nome de perfil já está a ser utilizado. Tente um novo nome.
 edit-profile-page-profile-saved = Guardado
@@ -56,6 +62,9 @@ new-profile-page-input-placeholder =
     .placeholder = Escolha um nome como “Trabalho“ ou “Pessoal“
 new-profile-page-done-button =
     .label = Edição terminada
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = A sua cópia de { $profilename } está pronta para ser personalizada
 profile-window-title-2 = { -brand-short-name } - Escolha um perfil
 profile-window-logo =
     .alt = Logótipo do { -brand-short-name }
