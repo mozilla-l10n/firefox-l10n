@@ -35,3 +35,5 @@ customkeys-nav-reload = Аз нав бор кардан
 customkeys-nav-reload-skip-cache = Аз нав бор кардан (Аз нав сохтани зерҳофиза)
 customkeys-nav-stop = Истодан
 customkeys-caution-message = Ин хусусият озмоишӣ аст ва метавонад ба таври лозимӣ кор накунад.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Беэътибор

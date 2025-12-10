@@ -838,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Пешниҳодҳои бозоршиносӣ нишон дода нашаванд
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Ташаккур барои изҳори назари шумо. Ба шумо дигар пешниҳодҳои бозоршиносӣ нишон дода намешаванд.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Пешниҳодҳои бозори қоғазҳои қиматнок
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Ташаккур барои изҳори назари шумо. Ба шумо дигар пешниҳодҳои зерин нишон дода намешаванд.
@@ -1585,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] «{ -brand-product-name }» { $count } криптомайнерро иҷозат медиҳад
     }
 trustpanel-cryptominer-tab-list-header = Сомонаҳои зерин фаъолияти криптомайнингро кӯшиш мекунанд:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуд
+       *[other] <span data-l10n-name="count">{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуданд
+    }
