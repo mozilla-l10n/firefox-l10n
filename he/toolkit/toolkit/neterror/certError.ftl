@@ -76,6 +76,10 @@ fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = ‏{ -brand-short-name } מזהיר אותך לגבי האתר הזה מכיוון שאישור האבטחה שסופק עבור { $hostname } נשלל ואינו מהימן יותר.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = האתר מוגדר לאפשר רק חיבורים מאובטחים, אבל יש בעיה באישור האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שאישור האבטחה שלו אינו תקף עבור { $hostname }. האישור תקף רק עבור: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
