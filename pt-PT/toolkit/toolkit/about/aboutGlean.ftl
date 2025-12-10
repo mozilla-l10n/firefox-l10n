@@ -141,6 +141,9 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Para gravar um perfil de desempenho e ver todas as métricas registadas, utilize o
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
+about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-timelines-height = Altura
+about-glean-metrics-table-settings-timelines-width = Largura
 about-glean-about-data-explanation =
     Para navegar na lista de dados recolhidos, consulte o
     <a data-l10n-name="glean-dictionary-link">Dicionário { -glean-brand-name }</a>.

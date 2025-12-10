@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Exibição da página Web
 experimental-features-group-customize-browsing =
     .label = Personalize a sua navegação
+experimental-features-group-productivity =
+    .label = Produtividade
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Palavras-passe na barra lateral
@@ -51,3 +53,6 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Secções de temas e opções de Seguimento/Bloqueio para histórias em novos separadores
 experimental-features-newtab-sections-follow-block-description = Organize as histórias na sua página de novo separador em secções de tópicos (Desporto, Comida, Entretenimento e muito mais) para uma experiência mais estruturada e fácil de analisar. Utilize os nossos novos controlos Seguir e Bloquear para personalizar o conteúdo que vê. <a data-l10n-name="connect">Partilhar feedback</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Adicionar sites na sua barra de tarefas
