@@ -70,4 +70,5 @@ safeb-palm-notdeceptive =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-addon-page-error-desc-override = <strong>Чаро ин сомона манъ карда шуд?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> метавонад бо фаъолияти фиребгарона ва зараровар алоқаманд бошад.
 safeb-blocked-addon-page-error-desc3-override = <strong>Шумо дар ин масъала чӣ кор карда метавонед?</strong>

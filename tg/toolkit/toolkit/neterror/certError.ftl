@@ -76,6 +76,10 @@ fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тав
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = Браузери «{ -brand-short-name }» шуморо дар бораи ин сомона огоҳ мекунад, зеро ки гувоҳиномаи таъминшуда барои «{ $hostname }» бекор карда шудааст ва дигар эътимод надорад.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Танзимоти сомона танҳо пайвастҳои бехатарро иҷозат медиҳанд, аммо гувоҳиномаи сомона дорои мушкилӣ мебошад. Эҳтимол аст, ки зиёнкор кӯшиш мекунад, ки ин сомонаро бо сомонаи дигар вонамуд кунад. Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки гувоҳиномаи он барои сомонаи { $hostname } беэътибор аст. Гувоҳинома танҳо барои сомонаи зерин эътибор дорад: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
