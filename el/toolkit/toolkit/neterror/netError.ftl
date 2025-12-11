@@ -177,8 +177,11 @@ fp-neterror-offline-body-title = Φαίνεται ότι υπάρχει κάπο
 
 fp-neterror-connection-intro = Το { -brand-short-name } δεν μπορεί να δημιουργήσει ασφαλή σύνδεση με τον διακομιστή στο { $hostname }.
 fp-neterror-offline-intro = Το { -brand-short-name } δεν μπορεί να συνδεθεί στον διακομιστή στο <strong>{ $hostname }</strong>
+fp-neterror-why-did-this-happen = Γιατί συνέβη αυτό;
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Φαίνεται ότι αυτός ο ιστότοπος χρησιμοποιεί παλιό λογισμικό με γνωστά ζητήματα ασφαλείας.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Βεβαιωθείτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση του { -brand-short-name }. Επιλέξτε «Βοήθεια» > «Σχετικά με το { -brand-short-name }» στο μενού. Εάν χρησιμοποιείτε το πιο πρόσφατο { -brand-short-name }, το πρόβλημα οφείλεται κατά πάσα πιθανότητα στον ίδιο τον ιστότοπο.
 fp-neterror-offline-what-can-you-do-body = Δοκιμάστε να συνδεθείτε από διαφορετική συσκευή. Ελέγξτε το modem ή το router σας. Αποσυνδέστε και επανασυνδέστε το Wi-Fi.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Μερικές φορές, οι ιστότοποι υλοποιούν προστασίες για τους εαυτούς τους ενάντια σε ανεπιθύμητες αλληλεπιδράσεις με άλλους ιστοτόπους.

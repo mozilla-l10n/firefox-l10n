@@ -423,3 +423,7 @@ etp-strict-exceptions-infobar-button = Εφαρμογή διορθώσεων
     .accesskey = Ε
 etp-strict-exceptions-infobar-not-now = Όχι τώρα
     .accesskey = χ
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-primary-button = Ορισμός ως προεπιλογή

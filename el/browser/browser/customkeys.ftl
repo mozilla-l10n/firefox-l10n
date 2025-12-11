@@ -35,3 +35,5 @@ customkeys-nav-reload = Ανανέωση
 customkeys-nav-reload-skip-cache = Ανανέωση (παράκαμψη κρυφής μνήμης)
 customkeys-nav-stop = Διακοπή
 customkeys-caution-message = Αυτή η λειτουργία είναι πειραματική και ενδέχεται να μην λειτουργεί με τον αναμενόμενο τρόπο.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Μη έγκυρο

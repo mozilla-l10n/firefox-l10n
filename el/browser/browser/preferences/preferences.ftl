@@ -559,6 +559,13 @@ update-in-progress-ok-button = &Απόρριψη
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
 
+## Firefox support
+
+support-get-help =
+    .label = Λήψη βοήθειας
+support-share-ideas =
+    .label = Κοινοποίηση ιδεών και σχολίων
+
 ## General Section - Performance
 
 performance-title = Επιδόσεις

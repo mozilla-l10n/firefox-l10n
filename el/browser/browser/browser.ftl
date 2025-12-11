@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Δημιουργία σελιδοδείκτη για αυτήν τη σελίδα ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Διαχωρισμός προβολής
+    .aria-label = Διαχωρισμός προβολής
 
 ## Page Action Context Menu
 
@@ -835,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Να μην εμφανίζονται προτάσεις μετοχών
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Ευχαριστούμε για τα σχόλιά σας. Δεν θα βλέπετε πλέον προτάσεις μετοχών.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Προτάσεις χρηματιστηρίου
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Ευχαριστούμε για τα σχόλιά σας. Δεν θα βλέπετε πλέον αυτές τις προτάσεις.
