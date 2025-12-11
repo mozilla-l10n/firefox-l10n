@@ -1593,5 +1593,5 @@ trustpanel-cryptominer-tab-list-header = Diese Websites versuchen Krypto-Mining 
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
-       *[other] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockier
+       *[other] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
     }
