@@ -177,9 +177,12 @@ fp-neterror-offline-body-title = Il pare haber un problema con tu connexion a in
 
 fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion secur al servitor al adresse { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } non pote connecter se al servitor a <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } non carga iste pagina perque il pare que le configuration de securitate non concorda con le pagina previe.
 fp-neterror-why-did-this-happen = Perque eveniva isto?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con problemas de securitate cognoscite.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Assecura te de usar le ultime version de { -brand-short-name }. Ir a Adjuta > A proposito de { -brand-short-name } in le menu. Si tu usa le ultime { -brand-short-name }, le problema es probabilemente con le sito mesme.
 fp-neterror-offline-what-can-you-do-body = Prova a connecter te ab un altere apparato. Controla le modem o le router. Disactiva e reactiva le connexion Wi-Fi.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Aliquando sitos web configura protectiones pro se mesme de interactiones indesirate con altere sitos.

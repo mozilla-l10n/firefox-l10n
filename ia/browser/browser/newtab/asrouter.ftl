@@ -428,5 +428,14 @@ etp-strict-exceptions-infobar-not-now = Non ora
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } non es tu navigator predefinite
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } non es tu navigator primari
+set-default-menu-message-row-layout-title = Rende primari tu navigator { -brand-short-name }
+set-default-menu-message-row-layout-title-variant = Rende predefinite tu navigator { -brand-short-name }
+set-default-menu-message-row-layout-subtitle = Obtene velocitate, securitate e confidentialitate cata vice que tu naviga.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Tene { -brand-short-name } a portata de manos: rende lo tu predefinite e tene lo in tu bassino.
+       *[other] Tene { -brand-short-name } a portata de manos: rende lo tu predefinite e tene lo in tu barra del cargas.
+    }
 set-default-menu-message-primary-button = Render predefinite
 set-default-menu-message-primary-button-variant = Configura lo como navigator primari

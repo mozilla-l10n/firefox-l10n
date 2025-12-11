@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } ha blocate iste p
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo pote tentar de installar software malitiose que pote robar o deler informationes personal sur tu computator.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo pote tentar de inducer te a installar programmas que noce a tu experientia de navigation (per exemplo, modificante tu pagina principal o monstrante annuncios extra sur le sitos que tu visita).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo poterea tentar installar applicationes periculose que roba o dele tu informationes (per exemplo, photos, contrasignos, messages e cartas de credito).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } blocava iste pagina perque un de tu additivos probava a aperi lo. Iste sito poterea esser usate pro robar tu informationes, como contrasignos o numeros de carta de credito.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Aviso providite per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -68,4 +69,8 @@ safeb-palm-notdeceptive =
 ##  $addonName (string) - the name of the harmful add-on
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-addon-page-error-desc-override = <strong>Perque era iste sito blocate?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> pote esser ligate a activitate fraudulente e malefic.
 safeb-blocked-addon-page-error-desc3-override = <strong>Que pote tu facer pro resolver?</strong>
+safeb-blocked-addon-page-error-desc4-override = Pro stoppar isto de evenir ancora, tu pote remover o disactivar <strong>{ $addonName }</strong> ab about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Discoperi le Protection contra fraude e malware de { -brand-short-name }</a>.

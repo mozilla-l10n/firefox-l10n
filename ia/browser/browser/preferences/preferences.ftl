@@ -561,6 +561,9 @@ update-in-progress-cancel-button = &Continuar
 
 ## Firefox support
 
+support-application-heading =
+    .label = Supporta { -brand-short-name }
+    .description = Solve problemas o comparti ideas con le communitate.
 support-get-help =
     .label = Obtener auxilio
 support-share-ideas =
@@ -824,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Monstrar le terminos de recerca in le barra de adresse sur le paginas del resultatos
+search-separate-default-engine-2 =
+    .label = Usa un differente motor de recerca predefinite in fenestras private
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Motor de recerca predefinite in fenestras private
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -973,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Tu synchronisa iste elementos inter tote tu apparatos connexe:
+sync-syncing-across-devices-heading-2 = Datos synchronisate a transverso apparatos
+sync-syncing-across-devices-empty-state =
+    .label = Tu non synchronisa alco… ancora.
+    .description = Initia synchronisar pro tener tote tu datos sur tote tu apparatos.
 sync-currently-syncing-bookmarks = Marcapaginas
 sync-currently-syncing-history = Chronologia
 sync-currently-syncing-tabs = Schedas aperte
