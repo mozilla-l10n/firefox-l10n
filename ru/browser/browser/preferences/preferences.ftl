@@ -113,7 +113,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Чтобы включить расширение, перейдите в пункт <img data-l10n-name="addons-icon"/> Дополнения меню <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = Чтобы включить расширение, перейдите в пункт <img data-l10n-name="addons-icon"/> «Дополнения» в меню <img data-l10n-name="menu-icon"/>.
 extension-controlled-enable-2 = Чтобы снова включить это расширение, посетите <a data-l10n-name="addons-link">Расширения и темы</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
@@ -1242,7 +1242,7 @@ autofill-payment-methods-title = Способы оплаты
 autofill-payment-methods-header =
     .aria-label = Способы оплаты
 autofill-payment-methods-checkbox-message-2 =
-    .label = Сохранять и автозаполнять платежную информацию
+    .label = Сохранять и автозаполнять платёжную информацию
     .accesskey = з
 autofill-payment-methods-manage-payments-title =
     .heading = Управление способами оплаты
@@ -1426,7 +1426,7 @@ addressbar-suggest-1 = Выберите, какие предложения от�
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Предложения от { -brand-short-name } и наших партнеров в вашей адресной строке.
+addressbar-suggest-firefox-suggest-1 = Предложения от { -brand-short-name } и наших партнёров в вашей адресной строке.
 addressbar-suggest = При использовании адресной строки предлагать ссылки
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адресная строка — { -firefox-suggest-brand-name }

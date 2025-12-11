@@ -128,7 +128,7 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Включить инструменты отладки browser chrome и дополнений
 options-enable-chrome-tooltip =
-    .title = Включение этой опции позволит вам использовать различные инструменты разработчика в контексте браузера (через Инструменты > Веб-разработка > Инструменты браузера) и отлаживать дополнения из окна Управления дополнениями
+    .title = Включение этого параметра позволит вам использовать различные инструменты разработчика в контексте браузера (через «Инструменты» > «Веб-разработка» > «Инструменты браузера») и отлаживать дополнения из окна управления дополнениями
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Включить удалённую отладку
 options-enable-remote-tooltip2 =
