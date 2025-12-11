@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Dewiswch reswm
 report-broken-site-panel-blocked-trackers-label =
     .label = Anfon URLau wedi'u rhwystro gan ddiogelwch rhag tracio
 report-broken-site-panel-blocked-trackers-description = Gall Diogelwch Tracio Uwch rwystro tracwyr a sgriptiau sydd eu hangen ar rai gwefannau i weithio'n iawn.
+report-broken-site-panel-preview-button =
+    .label = Adroddiad Rhagolwg
+report-broken-site-panel-preview-header =
+    .label = Adroddiad Rhagolwg

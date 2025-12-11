@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Gwefan twyllodrus o'ch blaen
 safeb-blocked-malware-page-title = Gall mynd i'r wefan hon wneud drwg i'ch cyfrifiadur
 safeb-blocked-unwanted-page-title = Gall fod y wefan o'ch blaen yn cynnwys rhaglenni niweidiol
 safeb-blocked-harmful-page-title = Gall fod y wefan yn cynnwys drwgwar
+safeb-blocked-addon-page-title = Gwefan wedi'i rhwystro er eich diogelwch
 safeb-blocked-phishing-page-short-desc = Mae { -brand-short-name } wedi rhwystro'r dudalen hon gan y gallai geisio eich twyllo i wneud rhywbeth peryglus fel gosod meddalwedd neu ddatgelu manylion personol fel cyfrineiriau neu gardiau credyd.
 safeb-blocked-malware-page-short-desc = Mae { -brand-short-name } wedi atal y dudalen hon gan y gall geisio gosod meddalwedd drwg er mwyn drwyn neu ddileu gwybodaeth bersonol ar eich cyfrifiadur.
 safeb-blocked-unwanted-page-short-desc = Mae { -brand-short-name } wedi rhwystro'r dudalen hon gan y gall geisio eich twyllo i osod rhaglenni gall fod yn niweidiol i'ch profiad pori (e.e. drwy newid eich tudalen cartref neu ddangos hysbysebion ychwanegol ar wefannau rydych yn ymweld â nhw).
 safeb-blocked-harmful-page-short-desc = Mae { -brand-short-name } wedi rhwystro'r dudalen hon gan y gall geisio gosod apiau peryglus sy'n dwyn neu ddileu eich manylion (e.e., lluniau, cyfrineiriau, negeseuon a chardiau credyd).
+safeb-blocked-addon-page-short-desc = Mae { -brand-short-name } wedi rhwystro'r dudalen hon oherwydd bod un o'ch ychwanegion wedi ceisio ei hagor. Mae modd defnyddio'r wefan hon i ddwyn eich manylion - cyfrineiriau neu rifau cardiau credyd.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Cyngor yn cael ei ddarparu gan <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,11 @@ safeb-blocked-harmful-page-learn-more = Mae rhagor o wybodaeth am Ddiogelwch Rha
 safeb-palm-notdeceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Pam cafodd y wefan hon ei rhwystro?</strong>
+safeb-blocked-addon-page-error-desc2-override = Gall <strong>{ $sitename }</strong> fod yn gysylltiedig â gweithgarwch twyllodrus a niweidiol.
+safeb-blocked-addon-page-error-desc3-override = <strong>Beth allwch chi ei wneud amdano?</strong>

@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Rhybuddio wrth adael y porwr
 disable-extension =
     .label = Analluogi Estyniad
+preferences-data-migration-group =
+    .label = Mewnforio data porwr
+    .description = Dewch â'ch nodau tudalen, cyfrineiriau, hanes, estyniadau ac awto llanw data o borwr arall.
 preferences-data-migration-header = Mewnforio Data Porwr
 preferences-data-migration-description = Mewnforio nodau tudalen, cyfrineiriau, hanes, a data awtolenwi i { -brand-short-name }.
 preferences-data-migration-button =
@@ -568,6 +571,16 @@ update-in-progress-ok-button = &Dileu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
 
+## Firefox support
+
+support-application-heading =
+    .label = Cefnogaeth { -brand-short-name }
+    .description = Datrys materion a rhannu syniadau gyda'r gymuned
+support-get-help =
+    .label = Derbyn cymorth
+support-share-ideas =
+    .label = Rhannu syniadau ac adborth…
+
 ## General Section - Performance
 
 performance-title = Perfformiad
@@ -620,6 +633,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Galluogi rheolyddion fideo Llun mewn Llun
     .accesskey = G
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Cadw i chwarae fideos yn Llun-mewn-Llun wrth newid tabiau
+    .accesskey = L
 browsing-picture-in-picture-learn-more = Darllen rhagor
 browsing-media-control =
     .label = Rheoli cyfryngau trwy fysellfwrdd, penset neu ryngwyneb rhithwir
@@ -827,6 +843,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Dangos termau chwilio yn y bar cyfeiriad ar dudalennau canlyniadau
+search-separate-default-engine-2 =
+    .label = Defnyddiwch beiriant chwilio rhagosodedig gwahanol mewn ffenestri preifat
+    .accesskey = b
+search-separate-default-engine-dropdown =
+    .aria-label = Peiriant chwilio rhagosodedig mewn ffenestri preifat
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -976,6 +997,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Rydych yn cydweddu'r eitemau hyn i'ch holl ddyfeisiau cysylltiedig:
+sync-syncing-across-devices-heading-2 = Data wedi'u cydweddu ar draws dyfeisiau
+sync-syncing-across-devices-empty-state =
+    .label = Dydych chi ddim yn cydweddu unrhyw beth… eto
+    .description = Cychwyn cydweddu i gael eich holl ddata ar eich holl ddyfeisiau.
 sync-currently-syncing-bookmarks = Nodau Tudalen
 sync-currently-syncing-history = Hanes
 sync-currently-syncing-tabs = Tabiau ar agor

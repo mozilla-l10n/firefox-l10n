@@ -436,3 +436,18 @@ etp-strict-exceptions-infobar-button = Datrys
     .accesskey = D
 etp-strict-exceptions-infobar-not-now = Nid nawr
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = Nid { -brand-short-name } yw eich porwr rhagosodedig cyfredol
+set-default-menu-message-simple-layout-title-variant = Nid { -brand-short-name } yw eich prif borwr
+set-default-menu-message-row-layout-title = Gwnewch { -brand-short-name } eich prif borwr
+set-default-menu-message-row-layout-title-variant = Gwnewch { -brand-short-name } eich porwr rhagosodedig
+set-default-menu-message-row-layout-subtitle = Cael cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Cadwch { -brand-short-name } wrth law — gwnewch e eich prif borwr a'i gadw'n eich Doc.
+       *[other] Cadwch { -brand-short-name } wrth law — gwnewch e eich prif borwr a'i gadw'n eich Doc.
+    }
+set-default-menu-message-primary-button = Gosod fel y rhagosodiad
+set-default-menu-message-primary-button-variant = Gosod fel eich prif borwr
