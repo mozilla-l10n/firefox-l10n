@@ -424,3 +424,9 @@ etp-strict-exceptions-infobar-button = Applicar correctiones
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Non ora
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } non es tu navigator predefinite
+set-default-menu-message-primary-button = Render predefinite
+set-default-menu-message-primary-button-variant = Configura lo como navigator primari

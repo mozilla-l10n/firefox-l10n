@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = Iste sito es fraudulente
 safeb-blocked-malware-page-title = Visitar iste sito web pote nocer a tu computator
 safeb-blocked-unwanted-page-title = Iste sito pote continer programmas nocive
 safeb-blocked-harmful-page-title = Iste sito pote continer malware
+safeb-blocked-addon-page-title = Sito blocate pro tu securitate
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo pote inducer te a facer un cosa periculose como installar software o revelar informationes personal como contrasignos o cartas de credito.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo pote tentar de installar software malitiose que pote robar o deler informationes personal sur tu computator.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo pote tentar de inducer te a installar programmas que noce a tu experientia de navigation (per exemplo, modificante tu pagina principal o monstrante annuncios extra sur le sitos que tu visita).
@@ -62,3 +63,9 @@ safeb-blocked-harmful-page-learn-more = Apprende de plus re { -brand-short-name 
 safeb-palm-notdeceptive =
     .label = Iste sito non es fraudulente…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc3-override = <strong>Que pote tu facer pro resolver?</strong>

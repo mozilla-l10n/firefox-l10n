@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Adder iste pagina al marcapaginas ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vistas fisse
+    .aria-label = Vistas fisse
 
 ## Page Action Context Menu
 

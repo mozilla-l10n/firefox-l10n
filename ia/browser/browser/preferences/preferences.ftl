@@ -563,6 +563,8 @@ update-in-progress-cancel-button = &Continuar
 
 support-get-help =
     .label = Obtener auxilio
+support-share-ideas =
+    .label = Compartir ideas e commentarios
 
 ## General Section - Performance
 

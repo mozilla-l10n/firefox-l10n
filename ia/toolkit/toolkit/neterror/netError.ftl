@@ -177,6 +177,7 @@ fp-neterror-offline-body-title = Il pare haber un problema con tu connexion a in
 
 fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion secur al servitor al adresse { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } non pote connecter se al servitor a <strong>{ $hostname }</strong>
+fp-neterror-why-did-this-happen = Perque eveniva isto?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il pare que iste sito usa vetere software con problemas de securitate cognoscite.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
