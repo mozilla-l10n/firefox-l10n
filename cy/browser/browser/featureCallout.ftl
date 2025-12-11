@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Cewch weld disgrifiad byr, yr amse
 sidebar-button-callout-title = Dangos teitlau tabiau yn y bar ochr
 sidebar-button-callout-subtitle = Defnyddiwch y botwm bar ochr i ehangu'r bar ochr, fel y gallwch weld teitlau tab.
 sidebar-button-callout-vertical-tabs = I ddangos eich tabiau, dewiswch y botwm bar ochr yn y bar offer.
+sidebar-deprecation-callout-title = Bar ochr wedi'i ddiweddaru yn dod yn fuan
 
 ## Sidebar Vertical Tabs Strings
 

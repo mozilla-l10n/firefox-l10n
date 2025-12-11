@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Gosod nod tudalen i'r dudalen ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Golwg hollt
+    .aria-label = Golwg hollt
 
 ## Page Action Context Menu
 
@@ -854,6 +857,9 @@ urlbar-result-menu-dont-show-market =
     .label = Peidio dangos awgrymiadau marchnad
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Diolch am eich adborth. Fyddwch chi ddim yn gweld awgrymiadau'r farchnad bellach.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Awgrymiadau marchnad stoc
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Diolch am eich adborth. Fyddwch chi ddim yn gweld yr awgrymiadau hyn bellach.
@@ -957,6 +963,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Dim llwybr byr wedi'i ddewis, dewiswch lwybr byr
     .tooltiptext = Dim llwybr byr wedi'i ddewis, dewiswch lwybr byr
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Mae chwilio allweddair wedi'i analluogi
+    .tooltiptext = Mae chwilio allweddair wedi'i analluogi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -35,3 +35,5 @@ customkeys-nav-reload = Ail-lwytho
 customkeys-nav-reload-skip-cache = Ail-lwytho (Diystyru Storfa)
 customkeys-nav-stop = Atal
 customkeys-caution-message = Mae'r nodwedd hon yn arbrofol ac efallai na fydd yn gweithio yn ôl y disgwyl.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Annilys
