@@ -144,7 +144,7 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = 창 { $winID } (현재)
-firefoxview-show-more = 더 보기
+firefoxview-show-more = 더보기
 firefoxview-show-less = 덜 보기
 firefoxview-show-all = 모두 보기
 firefoxview-search-text-box-clear-button =
