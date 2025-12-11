@@ -838,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Non monstrar suggestiones de mercato
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Gratias pro tu commentario. Tu non plus videra suggestiones de mercato.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Suggestiones de mercato de actiones
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gratias pro tu commentario. Tu non plus videra iste suggestiones.
@@ -1587,3 +1590,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitteva { $count } cryptominatores
     }
 trustpanel-cryptominer-tab-list-header = Iste sitos tenta cryptominar:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> Traciator blocate in iste sito
+       *[other] <span data-l10n-name="contar">{ $count }</span> Traciatores blocate in iste sito
+    }

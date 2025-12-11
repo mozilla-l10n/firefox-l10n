@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Vide un curte description, tempore
 sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
 sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.
 sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button del barra lateral in le barra de instrumentos.
+sidebar-deprecation-callout-title = Barra lateral actualisate tosto disponibile
 sidebar-deprecation-cta-button = Proba lo ora
 
 ## Sidebar Vertical Tabs Strings
