@@ -61,7 +61,7 @@ turn-on-scheduled-backups-location-label = Localização
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
-    .value = { $recommendedfolder } (recomendado)
+    .value = { $recommendedFolder } (recomendado)
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Escolher…
@@ -224,8 +224,8 @@ backup-file-other-browser-restore-step-4 = Reinicie o { -brand-short-name } quan
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds =
     { $numberOfOtherBackupsFound ->
-        [one] <b>Nota:</b> { $numberOfOutroBackupsfound } outro ficheiro da cópia de segurança encontrado
-       *[other] <b>Nota:</b> { $numberOfOutroBackupsfound } outros ficheiros de cópia de segurança encontrados
+        [one] <b>Nota:</b> { $numberOfOtherBackupsFound } outro ficheiro da cópia de segurança encontrado
+       *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } outros ficheiros de cópia de segurança encontrados
     }
 # Variables:
 #   $date (Datetime) - The date the backup was created
