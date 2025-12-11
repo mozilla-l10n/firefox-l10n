@@ -64,6 +64,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> non ha effetto su que
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi della categoria “highlight”.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::cue”.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> non è supportato nelle regole <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
