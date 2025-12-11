@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Pozrite si krátky popis, čas na 
 sidebar-button-callout-title = Zobrazovať názvy kariet na bočnom paneli
 sidebar-button-callout-subtitle = Pomocou tlačidla bočného panela rozbaľte bočný panel, aby ste videli názvy kariet.
 sidebar-button-callout-vertical-tabs = Ak chcete zobraziť svoje karty, použíte tlačidlo bočného panela na paneli s nástrojmi.
+sidebar-deprecation-callout-title = Aktualizovaný bočný panel čoskoro
+sidebar-deprecation-callout-subtitle = Postupne rušíme verziu bočného panela, ktorú momentálne používate. Vyskúšajte aktualizovaný bočný panel. Je rýchlejší a získate prístup k viacerým nástrojom.
+sidebar-deprecation-cta-button = Vyskúšajte si to hneď teraz
 
 ## Sidebar Vertical Tabs Strings
 

@@ -427,3 +427,18 @@ etp-strict-exceptions-infobar-button = Použiť opravy
     .accesskey = o
 etp-strict-exceptions-infobar-not-now = Teraz nie
     .accesskey = T
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } nie je vaším predvoleným prehliadačom
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nie je vaším hlavným prehliadačom
+set-default-menu-message-row-layout-title = Nastaviť { -brand-short-name(case: "acc") } ako hlavný prehliadač
+set-default-menu-message-row-layout-title-variant = Nastaviť { -brand-short-name } ako predvolený prehliadač
+set-default-menu-message-row-layout-subtitle = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Majte { -brand-short-name(case: "acc") } vždy poruke – nastavte si ho ako predvolený a pridajte si ho do Docku.
+       *[other] Majte { -brand-short-name(case: "acc") } vždy poruke – nastavte si ho ako predvolený a pripnite ho na paneli úloh.
+    }
+set-default-menu-message-primary-button = Nastaviť ako predvolený
+set-default-menu-message-primary-button-variant = Nastaviť ako hlavný prehliadač

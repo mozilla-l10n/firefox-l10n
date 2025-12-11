@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Pridať stránku medzi záložky ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Rozdelené zobrazenie
+    .aria-label = Rozdelené zobrazenie
 
 ## Page Action Context Menu
 
@@ -842,6 +845,9 @@ urlbar-result-menu-dont-show-market =
     .label = Nezobrazovať návrhy z akciových trhov
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Ďakujeme za vašu spätnú väzbu. Návrhy z akciových trhov sa vám už nebudú zobrazovať.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Návrhy na akciovom trhu
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Ďakujeme za vašu spätnú väzbu. Tieto návrhy sa vám už nebudú zobrazovať.
@@ -1637,3 +1643,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } ťažiarov kryptomien
     }
 trustpanel-cryptominer-tab-list-header = Tieto stránky sa snažia ťažiť kryptomeny:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Na tejto stránke je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvok
+        [few] Na tejto stránke sú zablokované <span data-l10n-name="count">{ $count }</span> sledovacie prvky
+        [many] Na tejto stránke sú zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
+       *[other] Na tejto stránke sú zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
+    }

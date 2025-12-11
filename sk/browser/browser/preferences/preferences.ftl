@@ -562,6 +562,16 @@ update-in-progress-ok-button = &Zrušiť
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
 
+## Firefox support
+
+support-application-heading =
+    .label = Podpora pre { -brand-short-name(case: "acc") }
+    .description = Riešenie problémov alebo zdieľanie nápadov s komunitou.
+support-get-help =
+    .label = Získať pomoc
+support-share-ideas =
+    .label = Zdieľať nápady a spätnú väzbu
+
 ## General Section - Performance
 
 performance-title = Výkon
@@ -821,6 +831,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na stránkach s výsledkami zobrazovať v paneli s adresou hľadané výrazy
+search-separate-default-engine-2 =
+    .label = Používať iný predvolený vyhľadávací nástroj v súkromných oknách
+    .accesskey = h
+search-separate-default-engine-dropdown =
+    .aria-label = Predvolený vyhľadávač v súkromných oknách
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
