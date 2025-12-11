@@ -177,8 +177,12 @@ fp-neterror-offline-body-title = Zdá sa, že sa vyskytol problém s vaším int
 
 fp-neterror-connection-intro = { -brand-short-name } nedokáže vytvoriť zabezpečené pripojenie k serveru na adrese { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } sa nemôže pripojiť k serveru na adrese <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } nenačítal túto stránku, pretože vyzerá to tak, že konfigurácia zabezpečenia nezodpovedá predchádzajúcej stránke.
+fp-neterror-why-did-this-happen = Prečo sa to stalo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zdá sa, že táto stránka používa starý softvér so známymi bezpečnostnými problémami.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Uistite sa, že používate najnovšiu verziu { -brand-short-name(case: "gen") }. V ponuke prejdite na Pomocník > O aplikácii { -brand-short-name }. Ak používate najnovšiu verziu { -brand-short-name(case: "gen") }, problém je s najväčšou pravdepodobnosťou na samotnej stránke.
 fp-neterror-offline-what-can-you-do-body = Skúste sa pripojiť na inom zariadení. Skontrolujte modem alebo smerovač. Odpojte sa a znova sa pripojte k sieti Wi‑Fi.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Webové stránky si niekedy nastavia ochranu pred nechcenými interakciami s inými stránkami.

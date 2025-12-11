@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Podvodná stránka
 safeb-blocked-malware-page-title = Návšteva tejto stránky môže poškodiť váš počítač
 safeb-blocked-unwanted-page-title = Táto stránka môže obsahovať škodlivé programy
 safeb-blocked-harmful-page-title = Táto stránka môže obsahovať malvér
+safeb-blocked-addon-page-title = Stránka je zablokovaná z dôvodu vašej bezpečnosti
 safeb-blocked-phishing-page-short-desc = Prehliadač { -brand-short-name } zablokoval túto stránku, pretože by vás mohla podvodom prinútiť k niečomu nebezpečnému, napríklad k inštalácii softvéru alebo k prezradeniu osobných informácií, napríklad hesiel alebo čísla platobnej karty.
 safeb-blocked-malware-page-short-desc = Prehliadač { -brand-short-name } zablokoval túto stránku, pretože sa môže pokúsiť nainštalovať škodlivý softvér, ktorý môže ukradnúť alebo odstrániť údaje z vášho počítača.
 safeb-blocked-unwanted-page-short-desc = Prehliadač { -brand-short-name } zablokoval túto stránku, pretože by sa mohla pokúsiť nainštalovať programy, ktoré vám budú škodiť pri prehliadaní (napr. zmenou domovskej stránky alebo zobrazovaním prídavných reklám).
 safeb-blocked-harmful-page-short-desc = Prehliadač { -brand-short-name } zablokoval túto stránku, pretože by sa mohla pokúsiť nainštalovať do vášho zariadenia nebezpečné aplikácie, ktoré by mohli ukradnúť alebo odstrániť vaše údaje (napríklad fotky, heslá, správy či údaje kreditných kariet).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } zablokoval túto stránku, pretože jeden z vašich doplnkov sa ju pokúsil otvoriť. Táto stránka by mohla byť použitá na krádež vašich údajov – ako sú heslá alebo čísla kreditných kariet.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rady poskytla spoločnosť <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Ďalšie informácie o ochrane pred phis
 safeb-palm-notdeceptive =
     .label = Toto nie je podvodná stránka…
     .accesskey = T
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Prečo bola táto stránka zablokovaná?</strong>
+safeb-blocked-addon-page-error-desc2-override = Stránka <strong>{ $sitename } </strong> môže byť spojená s klamlivou a škodlivou aktivitou.
+safeb-blocked-addon-page-error-desc3-override = <strong>Čo s tým môžete urobiť?</strong>
+safeb-blocked-addon-page-error-desc4-override = Ak chcete, aby sa to už neopakovalo, môžete odstrániť alebo zakázať doplnok <strong>{ $addonName } </strong> v about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Ďalšie informácie o ochrane pred phishingom a malvérom od { -brand-short-name(case: "gen") }</a>.

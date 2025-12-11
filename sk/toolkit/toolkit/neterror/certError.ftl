@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = Prejsť späť (odpor�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } vás upozorňuje na túto stránku, pretože certifikát poskytnutý pre server { $hostname } bol zrušený a už nie je dôveryhodný.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Pravdepodobne nič, pretože je pravdepodobný problém so samotnou stránkou. Môžete sa obrátiť na vlastníka webovej stránky, aby ste zistili, či na probléme pracuje.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Stránka je nastavená tak, aby umožňovala iba zabezpečené pripojenia, ale vyskytol sa problém s certifikátom lokality. Je možné, že sa niekto snaží vydávať za stránku. Stránky používajú certifikáty vydané certifikačnou autoritou, aby dokázali, že sú skutočne tým, za koho sa vydávajú. { -brand-short-name } nedôveruje tejto stránke, pretože jej certifikát nie je platný pre server { $hostname }. Certifikát je platný len pre: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

@@ -985,6 +985,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Synchronizujete tieto položky vo všetkých pripojených zariadeniach:
+sync-syncing-across-devices-heading-2 = Údaje synchronizované medzi zariadeniami
+sync-syncing-across-devices-empty-state =
+    .label = Zatiaľ nič nesynchronizujete…
+    .description = Spustite synchronizáciu, aby ste mali všetky svoje údaje na všetkých svojich zariadeniach.
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = História
 sync-currently-syncing-tabs = Otvorené karty
