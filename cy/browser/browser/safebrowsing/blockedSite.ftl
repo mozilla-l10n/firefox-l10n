@@ -72,3 +72,5 @@ safeb-palm-notdeceptive =
 safeb-blocked-addon-page-error-desc-override = <strong>Pam cafodd y wefan hon ei rhwystro?</strong>
 safeb-blocked-addon-page-error-desc2-override = Gall <strong>{ $sitename }</strong> fod yn gysylltiedig â gweithgarwch twyllodrus a niweidiol.
 safeb-blocked-addon-page-error-desc3-override = <strong>Beth allwch chi ei wneud amdano?</strong>
+safeb-blocked-addon-page-error-desc4-override = Er mwyn atal hyn rhag digwydd eto, gallwch dynnu neu analluogi <strong>{ $addonName }</strong> o about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Dysgu rhagor am Ddiogelu Rhag Pysgota a Malwedd { -brand-short-name }</a>.
