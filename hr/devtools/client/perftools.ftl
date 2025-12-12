@@ -37,6 +37,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Veličina međuspremnika:
 perftools-devtools-interval-label = Interval:
+perftools-devtools-threads-label = Niti:
 perftools-devtools-settings-label = Postavke
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
