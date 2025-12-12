@@ -255,8 +255,17 @@ link-preview-optin-title = Želiš vidjeti više pomoću umjetne inteligencije?
 link-preview-optin-message = { -brand-short-name } koristi umjetnu inteligenciju za čitanje početka stranice i generiranje nekoliko ključnih točaka. Kako bismo priorizirali tvoju privatnost, ovo se izvodi na tvojem uređaju.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novo: klikni i drži bilo koju poveznicu za prikaz pregleda
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Pogledaj kratki opis, vrijeme čitanja i još više za odlučivanje isplati li se otvoriti poveznicu. Dostupno je i klikom desne tipke miša.
 # Header for the key points section
 link-preview-key-points-header = Ključne točke
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Ključne točke generira umjetna inteligencija i mogu sadržavati greške.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Prvo postavljanje • <strong>{ $progress } %</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Sljedeći put ćeš brže vidjeti ključne točke.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Vidi pregled
 # Onboarding card Close button

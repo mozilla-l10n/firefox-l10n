@@ -541,6 +541,8 @@ fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } će potraž
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Obnovi iz sigurnosne kopije
+restore-from-backup-title = Vratimo { -brand-short-name } kako se tebi sviđa
+restore-from-backup-subtitle = Obnovi sve svoje zabilješke, povijest i ostale podatke i nastavi pregledavati.
 restore-from-backup-secondary-button = Nemoj obnoviti
 
 ## Restored from Backup spotlight
