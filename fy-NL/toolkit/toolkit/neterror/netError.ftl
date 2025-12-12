@@ -177,8 +177,12 @@ fp-neterror-offline-body-title = It liket derop dat der in probleem is mei jo yn
 
 fp-neterror-connection-intro = { -brand-short-name } kin gjin befeilige ferbining mei de server op { $hostname } oanmeitsje.
 fp-neterror-offline-intro = { -brand-short-name } kin gjin ferbining meitsje mei de server op <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } hat dizze side net laden omdat it liket dat de befeiligingskonfiguraasje net oerienkomt mei dy fan de foarige side.
+fp-neterror-why-did-this-happen = Wêrom barde dit?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = It liket derop dat dizze website âlde software mei bekende befeiligingsproblemen brûkt.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Soargje derfoar dat jo de nijste ferzje fan { -brand-short-name } brûke. Gean yn it menu nei Help > Oer { -brand-short-name }. As jo de lêste { -brand-short-name } brûke, leit it probleem wierskynlik by de website sels.
 fp-neterror-offline-what-can-you-do-body = Probearje ferbining te meitsjen op in oar apparaat. Kontrolearje jo modem of router. Ferbrek jo wififerbining en meitsje opnij ferbining.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Somtiden stelle websites beskerming foar harsels yn tsjin net-winske ynteraksjes mei oare websites.
