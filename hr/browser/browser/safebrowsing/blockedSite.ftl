@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = Obmanjujuća stranica
 safeb-blocked-malware-page-title = Posjećivanje ove stranice može naštetiti tvom računalu
 safeb-blocked-unwanted-page-title = Sljedeća stranica može sadržavati zlonamjerne programe
 safeb-blocked-harmful-page-title = Sljedeća stranica može sadržavati zlonamjerni softver
+safeb-blocked-addon-page-title = Web-stranica je blokirana radi tvoje sigurnosti
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi te mogla navesti da učiniš nešto opasno, poput instaliranja softvera ili otkrivanja osobnih podataka kao što lozinke ili brojevi kreditnih kartica.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer može pokušati instalirati zlonamjeran softver koji bi mogao ukrasti ili izbrisati osobne podatke na tvom računalu.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi te mogla navesti na instaliranje programa koji štete tvom načinu surfanja (npr. mijenja početnu stranicu ili da ti prikazuje oglase na stranicama koje posjećuješ).
