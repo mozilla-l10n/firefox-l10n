@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Il sito è configurato per consenti
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso. I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. Ma se sei collegato a una rete aziendale, il tuo team di supporto potrebbe avere maggiori informazioni. Se stai utilizzando un software antivirus, prova a cercare informazioni su potenziali conflitti o problemi noti.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ti sta avvisando riguardo a questo sito in quanto il certificato fornito per { $hostname } è stato emesso da un’autorità di certificazione non più attendibile.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso.  Puoi contattare il proprietario del sito web per verificare se stanno già cercando di risolverlo.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Si è verificato un problema con il certificato del sito. È possibile che un soggetto malintenzionato stia cercando di sostituirsi al sito. I siti utilizzano certificati emessi da un’autorità di certificazione per dimostrare di essere veramente chi dichiarano di essere. { -brand-short-name } non considera questo sito attendibile in quanto non è possibile stabilire chi ha emesso il certificato, il certificato è autofirmato o il sito non sta inviando certificati intermedi attendibili.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Probabilmente nulla, dal momento che è possibile che il problema dipenda dal sito stesso. Ma se sei collegato a una rete aziendale, il tuo team di supporto potrebbe avere maggiori informazioni. Se stai utilizzando un software antivirus, potrebbe essere necessario configurarlo per funzionare con { -brand-short-name }.
@@ -106,7 +112,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = I siti utilizzano certificati em
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se questo è corretto, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errato, puoi modificarlo nelle impostazioni di sistema del dispositivo.
+fp-certerror-expired-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se questa informazione è corretta, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errata, puoi modificarla nelle impostazioni di sistema del dispositivo.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codice di errore: { $error }
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Probabilmente nulla, poiché è
 fp-learn-more-about-secure-connection-failures = Scopri di più sugli errori relativi alle connessioni sicure
 fp-learn-more-about-cert-issues = Scopri di più su questo tipo di problemi relativi ai certificati
 fp-learn-more-about-time-related-errors = Scopri di più sulla risoluzione dei problemi relativi a data e ora
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } non considera attendibile questo sito in quanto sembra che il certificato fornito sia valido solo a partire dalle { DATETIME($date, timeStyle: "short") } del { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orologio del dispositivo è impostato su { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se questa informazione è corretta, probabilmente il problema di sicurezza dipende dal sito stesso. Se è errata, puoi modificarla nelle impostazioni di sistema del dispositivo.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
