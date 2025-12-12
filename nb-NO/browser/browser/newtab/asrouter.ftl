@@ -427,5 +427,14 @@ etp-strict-exceptions-infobar-not-now = Ikke nå
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } er ikke valgt som standard nettleser
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } er ikke din primære nettleser
+set-default-menu-message-row-layout-title = Gjør { -brand-short-name } til din primærnettleser
+set-default-menu-message-row-layout-title-variant = Gjør { -brand-short-name } til din standardnettleser
+set-default-menu-message-row-layout-subtitle = Få hastighet, sikkerhet og personvern hver gang du surfer.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Ha { -brand-short-name } lett tilgjengelig – gjør den til standard og behold den i Dock.
+       *[other] Ha { -brand-short-name } lett tilgjengelig – gjør den til standard og behold den på oppgavelinjen.
+    }
 set-default-menu-message-primary-button = Bruk som standard
 set-default-menu-message-primary-button-variant = Bruk som primær nettleser

@@ -838,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ikke vis markedsforslag
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Takk for tilbakemeldingen din. Du vil ikke lenger se markedsforslag.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Aksjemarkedsforslag
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Takk for tilbakemeldingen din. Du vil ikke se disse forslagene lenger.
