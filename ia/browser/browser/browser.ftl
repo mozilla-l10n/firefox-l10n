@@ -1593,5 +1593,5 @@ trustpanel-cryptominer-tab-list-header = Iste sitos tenta cryptominar:
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Traciator blocate in iste sito
-       *[other] <span data-l10n-name="contar">{ $count }</span> Traciatores blocate in iste sito
+       *[other] <span data-l10n-name="count">{ $count }</span> Traciatores blocate in iste sito
     }
