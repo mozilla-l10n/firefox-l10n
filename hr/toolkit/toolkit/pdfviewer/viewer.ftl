@@ -364,6 +364,15 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Uređivač teksta
     .default-content = Počni tipkati …
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Komentar
+        [few] Komentara
+       *[other] Komentara
+    }
 
 ## Alt-text dialog
 
