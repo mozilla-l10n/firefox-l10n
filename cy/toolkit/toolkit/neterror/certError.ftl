@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = Mynd Nôl (Argymell)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = Mae { -brand-short-name } yn eich rhybuddio am eich ymweliad â'r wefan hon oherwydd bod y dystysgrif ddarparwyd ar gyfer { $hostname } wedi'i dirymu a does dim modd ymddiried ynddi bellach.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun. Gallwch wirio gyda pherchennog y wefan i weld a yw'n gweithio ar y broblem.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Mae'r wefan wedi'i gosod i ganiatáu cysylltiadau diogel yn unig, ond mae problem gyda thystysgrif y wefan. Mae'n bosibl bod endid drwg yn ceisio dynwared y wefan. Mae gwefannau'n defnyddio tystysgrifau sy'n cael eu cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd nid yw ei thystysgrif yn ddilys ar gyfer { $hostname }. Dim ond ar gyfer : { $validHosts } mae'r dystysgrif yn ddilys.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

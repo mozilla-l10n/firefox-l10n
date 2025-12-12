@@ -168,11 +168,21 @@ certerror-coep-learn-more = Dysgwch ragor am Bolisïau Mewnblannu Traws Darddiad
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Cod gwall: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Mae'n ymddangos bod problem gyda'ch cysylltiad rhyngrwyd
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = Dyw { -brand-short-name } ddim yn gallu creu cysylltiad diogel i'r gweinydd yn { $hostname } .
+fp-neterror-offline-intro = Does di modd i { -brand-short-name } gysylltu â'r gweinydd yn <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = Nid yw { -brand-short-name } wedi llwytho'r dudalen hon oherwydd mae'n edrych yn debyg nad yw'r ffurfweddiad diogelwch yn cyfateb i'r dudalen flaenorol.
+fp-neterror-why-did-this-happen = Pam digwyddodd hyn?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Mae'n edrych fel bod y wefan hon yn defnyddio hen feddalwedd gyda gwendidau diogelwch hysbys.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Gwnewch yn siŵr eich bod yn defnyddio'r fersiwn diweddaraf o { -brand-short-name }. Ewch i Cymorth > Ynghylch { -brand-short-name } yn y ddewislen. Os ydych chi'n defnyddio'r { -brand-short-name } diweddaraf, mae'r broblem yn fwyaf tebygol gyda'r wefan ei hun.
+fp-neterror-offline-what-can-you-do-body = Ceisiwch gysylltu ar ddyfais wahanol. Gwiriwch eich modem neu lwybrydd. Datgysylltwch ac ailgysylltwch â'r Wi-Fi.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Weithiau mae gwefannau yn gosod diogeleddau iddyn nhw eu hunain rhag rhyngweithio digroeso â gwefannau eraill.
