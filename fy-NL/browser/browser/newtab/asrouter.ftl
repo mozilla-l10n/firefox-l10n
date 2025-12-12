@@ -432,5 +432,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } is 
 set-default-menu-message-row-layout-title = { -brand-short-name } jo primêre browser meitsje
 set-default-menu-message-row-layout-title-variant = { -brand-short-name } jo standertbrowser meitsje
 set-default-menu-message-row-layout-subtitle = Untfang snelheid, feilichheid en privacy, hieltyd as jo sneupe.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Hâld { -brand-short-name } binnen hantberik – meitsje it jo standertbrowser en foegje it oan jo Dock ta.
+       *[other] Hâld { -brand-short-name } binnen hantberik – meitsje it jo standertbrowser en set it fêst oan jo taakbalke.
+    }
 set-default-menu-message-primary-button = Ynstelle as standert
 set-default-menu-message-primary-button-variant = Ynstelle as primêre browser

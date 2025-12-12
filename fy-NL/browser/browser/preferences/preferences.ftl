@@ -561,6 +561,9 @@ update-in-progress-cancel-button = &Trochgean
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name }-stipe
+    .description = Problemen oplosse of ideeën diele mei de mienskip.
 support-get-help =
     .label = Help krije
 support-share-ideas =
@@ -824,6 +827,9 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Syktermen yn de adresbalke op resultaatsiden toane
+search-separate-default-engine-2 =
+    .label = In oare standertsykmasine brûke yn priveefinsters
+    .accesskey = s
 search-separate-default-engine-dropdown =
     .aria-label = Standertsykmasine yn priveefinsters
 # With this option enabled, on the search results page
@@ -975,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Jo syngronisearje dizze items tusken al jo ferbûne apparaten:
+sync-syncing-across-devices-heading-2 = Gegevens tusken apparaten syngronisearre
+sync-syncing-across-devices-empty-state =
+    .label = Jo syngronisearje neat… noch net.
+    .description = Begjin mei syngronisearjen om al jo gegevens op al jo apparaten te krijen.
 sync-currently-syncing-bookmarks = Blêdwizers
 sync-currently-syncing-history = Skiednis
 sync-currently-syncing-tabs = Iepen ljepblêden

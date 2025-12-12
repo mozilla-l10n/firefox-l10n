@@ -160,6 +160,7 @@ sidebar-button-callout-title = Ljepblêdtitels yn de sydbalke toane
 sidebar-button-callout-subtitle = Brûk de sydbalkeknop om de sydbalke út te klappen, sadat jo ljepblêdtitels sjen kinne.
 sidebar-button-callout-vertical-tabs = Selektearje de sydbalkeknop yn de arkbalke om jo ljepblêden te toanen.
 sidebar-deprecation-callout-title = Ynkoarten: bywurke sydbalke
+sidebar-deprecation-callout-subtitle = Wy binne dwaande mei it stadichoan útfasearjen fan de sydbalkeferzje dy’t jo op dit stuit brûke. Probearje de bywurke sydbalke. It is rapper en jo krije tagong ta mear ark.
 sidebar-deprecation-cta-button = No probearje
 
 ## Sidebar Vertical Tabs Strings

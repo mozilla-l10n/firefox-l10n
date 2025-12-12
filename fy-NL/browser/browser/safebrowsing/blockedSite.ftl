@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Misliedende website
 safeb-blocked-malware-page-title = Dizze website kin skeadlik wêze foar jo kompjûter
 safeb-blocked-unwanted-page-title = De folgjende website kin skeadlike programma's befetsje
 safeb-blocked-harmful-page-title = De folgjende website kin malware befetsje
+safeb-blocked-addon-page-title = Website blokkearre foar jo feilichheid
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze probearje kin jo wat gefaarliks dwaan te litten, lykas it ynstallearjen fan software of it dielen fan persoanlike gegevens lykas wachtwurden of creditcardgegevens.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze probearje kin kweawollende software te ynstallearjen dy’t persoanlike gegevens op jo kompjûter stelle of fuortsmite kin.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze probearje kinne soe jo programma’s ynstallearje te litten dy’t skea oan jo surfûnderfining tabringe kinne (bygelyks troch jo startside te wizigjen of ekstra advertinsjes te toanen op websites dy’t jo besykje).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } hat dizze side blokkearre, omdat dizze kin probearje gefaarlike apps te ynstallearjen dy’t jo gegevens (lykas foto’s, wachtwurden, berjochten en creditcardgegevens) stelle of fuortsmite.
+safeb-blocked-addon-page-short-desc = { -brand-short-name } hat dizze website blokkearre, omdat ien fan jo add-ons probearre hat dit te iepenjen. Dizze website kin brûkt wurde om jo gegevens te stellen – lykas wachtwurden of creditcardnûmers.</p>
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Advys útjûn troch <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Lês mear oer beskerming tsjin phishing 
 safeb-palm-notdeceptive =
     .label = Dit is gjin misliedende website…
     .accesskey = m
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Wêrom waard dizze website blokkearre?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> kin keppele wurde oan misliedende en skealike aktiviteit.
+safeb-blocked-addon-page-error-desc3-override = <strong>Wat kinne jo hjir oan dwaan?</strong>
+safeb-blocked-addon-page-error-desc4-override = Om foar te kommen dat dit wer bart, kinne jo <strong>{ $addonName }</strong> út about:addons fuortsmite of útskeakelje.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Mear ynfo oer de phishing- en malwarebeskerming fan { -brand-short-name }</a>.
