@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = Aldatıcı site
 safeb-blocked-malware-page-title = Bu site bilgisayarınıza zarar verebilir
 safeb-blocked-unwanted-page-title = Bu sitede zararlı programlar olabilir
 safeb-blocked-harmful-page-title = Bu sitede kötü amaçlı yazılımlar olabilir
+safeb-blocked-addon-page-title = Güvenliğiniz için bu site engellendi
 safeb-blocked-phishing-page-short-desc = Bu sayfa, tehlikeli bir yazılım kurmanız ya da parolalarınız veya kredi kartı bilgileriniz gibi kişisel bilgilerinizi vermeniz için sizi kandırmaya çalışabilir. O yüzden { -brand-short-name } bu sayfayı engelledi.
 safeb-blocked-malware-page-short-desc = Bu sayfa, bilgisayarınızdaki kişisel bilgilerinizi çalabilecek veya silebilecek kötü amaçlı yazılımlar kurmaya çalışabilir. O yüzden { -brand-short-name } bu sayfayı engelledi.
 safeb-blocked-unwanted-page-short-desc = Bu sayfa, gezinti deneyiminizi zarara uğratacak (örn. giriş sayfanızı değiştirerek veya ziyaret ettiğiniz sitelerde daha fazla reklam göstererek) programlar kurmak üzere sizi kandırmaya çalışabilir. O yüzden { -brand-short-name } bu sayfayı engelledi.
@@ -62,3 +63,10 @@ safeb-blocked-harmful-page-learn-more = { -brand-short-name } tarayıcısının 
 safeb-palm-notdeceptive =
     .label = Bu site aldatıcı değil…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Bu site neden engellendi?</strong>
+safeb-blocked-addon-page-error-desc3-override = <strong>Ne yapabilirsiniz?</strong>

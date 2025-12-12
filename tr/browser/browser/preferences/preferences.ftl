@@ -551,6 +551,11 @@ update-in-progress-ok-button = &Vazgeç
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
 
+## Firefox support
+
+support-share-ideas =
+    .label = Fikirlerinizi ve görüşlerinizi paylaşın
+
 ## General Section - Performance
 
 performance-title = Performans
@@ -806,6 +811,8 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Sonuç sayfalarındayken adres çubuğunda arama terimlerini göster
+search-separate-default-engine-dropdown =
+    .aria-label = Gizli pencerelerde varsayılan arama motoru
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -955,6 +962,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Aşağıdaki öğeler tüm bağlı cihazlarınız arasında eşitleniyor:
+sync-syncing-across-devices-heading-2 = Cihazlar arasında eşitlenen veriler
 sync-currently-syncing-bookmarks = Yer imleri
 sync-currently-syncing-history = Geçmiş
 sync-currently-syncing-tabs = Açık sekmeler
