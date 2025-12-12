@@ -35,3 +35,5 @@ customkeys-nav-reload = Last inn på nytt
 customkeys-nav-reload-skip-cache = Last inn på nytt (overstyr hurtiglager)
 customkeys-nav-stop = Stopp
 customkeys-caution-message = Denne funksjonen er eksperimentell og kan fungere annerledes enn forventet.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Ugyldig
