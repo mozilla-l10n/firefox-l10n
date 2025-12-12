@@ -830,6 +830,8 @@ search-show-search-term-option-2 =
 search-separate-default-engine-2 =
     .label = Bruk en annen standard søkemotor i private vinduer
     .accesskey = B
+search-separate-default-engine-dropdown =
+    .aria-label = Standard søkemotor i private vinduer
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -979,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Du synkroniserer disse elementene mellom alle de tilkoblede enhetene dine:
+sync-syncing-across-devices-heading-2 = Data synkronisert på tvers av enheter
+sync-syncing-across-devices-empty-state =
+    .label = Du synkroniserer ingenting … ennå.
+    .description = Start synkronisering for å få alle dataene dine på alle enhetene dine.
 sync-currently-syncing-bookmarks = Bokmerker
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Åpne faner

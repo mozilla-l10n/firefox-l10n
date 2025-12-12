@@ -427,3 +427,5 @@ etp-strict-exceptions-infobar-not-now = Ikke nå
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } er ikke valgt som standard nettleser
+set-default-menu-message-primary-button = Bruk som standard
+set-default-menu-message-primary-button-variant = Bruk som primær nettleser
