@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Warn you when quitting the browser
 disable-extension =
     .label = Disable Extension
+preferences-data-migration-group =
+    .label = Import browser data
+    .description = Bring your bookmarks, passwords, history, extensions, and autofill data from another browser.
 preferences-data-migration-header = Import Browser Data
 preferences-data-migration-description = Import bookmarks, passwords, history, and autofill data into { -brand-short-name }.
 preferences-data-migration-button =
@@ -556,6 +559,16 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } support
+    .description = Troubleshoot issues or share ideas with the community.
+support-get-help =
+    .label = Get help
+support-share-ideas =
+    .label = Share ideas and feedback
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -608,6 +621,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Enable Picture-in-Picture video controls
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Keep playing videos in Picture-in-Picture when switching tabs
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Learn more
 browsing-media-control =
     .label = Control media via keyboard, headset, or virtual interface
@@ -811,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Show search terms in the address bar on results pages
+search-separate-default-engine-2 =
+    .label = Use a different default search engine in private windows
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Default search engine in private windows
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -960,6 +981,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = You are syncing these items across all your connected devices:
+sync-syncing-across-devices-heading-2 = Data synced across devices
+sync-syncing-across-devices-empty-state =
+    .label = You aren’t syncing anything… yet.
+    .description = Start syncing to get all of your data on all your devices.
 sync-currently-syncing-bookmarks = Bookmarks
 sync-currently-syncing-history = History
 sync-currently-syncing-tabs = Open tabs
