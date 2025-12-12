@@ -160,6 +160,8 @@ sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
 sidebar-button-callout-subtitle = Verwenden Sie die Sidebar-Schaltfläche, um die Sidebar einzuklappen, sodass Sie Tab-Titel sehen können.
 sidebar-button-callout-vertical-tabs = Um Ihre Tabs anzuzeigen, klicken Sie auf die Sidebar-Schaltfläche in der Symbolleiste.
 sidebar-deprecation-callout-title = Aktualisierte Sidebar erscheint bald
+sidebar-deprecation-callout-subtitle = Wir stellen die Sidebar-Version, die Sie derzeit verwenden, ab. Probieren Sie die aktualisierte Sidebar aus. Sie ist schneller und Sie erhalten Zugriff auf mehr Werkzeuge.
+sidebar-deprecation-cta-button = Jetzt ausprobieren
 
 ## Sidebar Vertical Tabs Strings
 

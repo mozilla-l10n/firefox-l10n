@@ -143,7 +143,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = Dalje
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = Novo: klikni i drži za pregled poveznica
-link-preview-onboarding-callout-description = Pogledaj kratki opis, vrijeme čitanja i još toga za odlučivanje isplati li se kliknuti poveznicu. Dostupno i klikom desne tipke miša.
+link-preview-onboarding-callout-description = Pogledaj kratki opis, vrijeme čitanja i još više za odlučivanje isplati li se kliknuti poveznicu. Dostupno i klikom desne tipke miša.
 
 ## Sidebar Strings
 

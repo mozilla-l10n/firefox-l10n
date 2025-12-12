@@ -561,6 +561,9 @@ update-in-progress-cancel-button = &Fortfahren
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name }-Hilfe
+    .description = Beheben Sie Probleme oder tauschen Sie Ideen mit der Community aus.
 support-get-help =
     .label = Hilfe erhalten
 support-share-ideas =

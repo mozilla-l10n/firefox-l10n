@@ -428,5 +428,14 @@ etp-strict-exceptions-infobar-not-now = Nicht jetzt
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } ist nicht Ihr Standardbrowser
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ist nicht Ihr Standardbrowser
+set-default-menu-message-row-layout-title = Machen Sie { -brand-short-name } zum Standardbrowser
 set-default-menu-message-row-layout-title-variant = { -brand-short-name } als Standardbrowser festlegen
+set-default-menu-message-row-layout-subtitle = Holen Sie sich Geschwindigkeit, Sicherheit und Datenschutz bei jedem Surfen.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Haben Sie { -brand-short-name } immer zur Hand – legen Sie ihn als Standard fest und behalten Sie ihn im Dock.
+       *[other] Haben Sie { -brand-short-name } immer zur Hand – legen Sie ihn als Standard fest und behalten Sie ihn in Ihrer Taskleiste.
+    }
 set-default-menu-message-primary-button = Als Standard festlegen
+set-default-menu-message-primary-button-variant = Als Standardbrowser festlegen
