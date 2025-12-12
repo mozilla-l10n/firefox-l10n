@@ -73,3 +73,7 @@ experimental-features-newtab-widget-timer-description = Postavite tajmer kako bi
 experimental-features-newtab-widget-lists-and-timer =
     .label = Popisi i timer na { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Imajte svoj popis obaveza na umu kada otvorite novu karticu. Od popisa za pakiranje do popisa za kupovinu, napravite svoje planove u { -brand-product-name }. Postavite timer kako biste ostali usredotočeni, potaknuli se da ostanete na pravom putu ili se podsjetili da napunite baterije. <a data-l10n-name="connect">Podijelite povratne informacije</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Semantičko pretraživanje povijesti
+experimental-features-semantic-history-search-description = Koristi lokalni model strojnog učenja za prijedloge unosa iz povijesti koje su povezane s tvojim pretragama na osnovi razumijevanja prirodnog jezika u { -brand-product-name } adresnoj traci. <a data-l10n-name="connect">Dijeli povratne informacije</a>

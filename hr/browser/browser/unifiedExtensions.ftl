@@ -17,6 +17,8 @@ unified-extensions-empty-reason-private-browsing-not-allowed = Imaš instalirana
 unified-extensions-empty-reason-extension-not-enabled = Imaš instalirana proširenja, ali nisu aktivirana
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Poboljšaj razinu pregledavanja s proširenjima
+unified-extensions-empty-content-explain-enable2 = Odaberi „{ unified-extensions-manage-extensions.label }” za aktiviranje u postavkama.
+unified-extensions-empty-content-explain-extensions-onboarding = Personaliziraj { -brand-short-name } promjenom izgleda i rada ili poboljšanjem privatnosti i sigurnosti.
 
 ## An extension in the main list
 
