@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Privatno pregledavanje
 popups-infobar-dont-show-message2 =
     .label = Ne prikazuj ovu poruku kada su skočni prozori ili preusmjeravanja trećih strana blokirani
     .accesskey = N
+edit-popup-settings2 =
+    .label = Upravljaj postavkama skočnih prozora i preusmjeravanja trećih strana …
+    .accesskey = U
 
 ##
 
@@ -149,6 +152,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Otvori ploču s porukama
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Otvori ploču za traženje mjesta
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Upravljaj pristupom lokalnim uređaja za ovu web-stranicu
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Upravljaj dijeljenjem pristupa tvojoj lokalnoj mreži s ovom web-stranicom
 urlbar-xr-notification-anchor =
     .tooltiptext = Otvori ploču dozvola za virtualnu stvarnost
 urlbar-storage-access-anchor =
@@ -249,6 +256,8 @@ urlbar-search-mode-actions = Radnje
 
 urlbar-geolocation-blocked =
     .tooltiptext = Ovoj je stranici zabranjen pristup podacima mjesta.
+urlbar-localhost-blocked =
+    .tooltiptext = Blokirao/la si veze lokalnih uređaja za ovu web-stranicu.
 urlbar-local-network-blocked =
     .tooltiptext = Blokirao/la si veze lokalne mreže za ovu web-stranicu.
 urlbar-xr-blocked =
@@ -283,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Zabilježi ovu stranicu ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Podijeljeni prikaz
+    .aria-label = Podijeljeni prikaz
 
 ## Page Action Context Menu
 
@@ -833,6 +845,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ne prikazuj tržišne prijedloge
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Hvala Vam na povratnim informacijama. Više nećete vidjeti tržišne prijedloge.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Burzovni prijedlozi
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Hvala Vam na povratnim informacijama. Više nećete vidjeti ove prijedloge.
@@ -1352,7 +1367,7 @@ firefox-relay-offer-why-to-use-relay = Naše sigurne i jednostavne maske štite 
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Sve poruke e-pošte poslane na maskiranu e-poštu će biti proslijeđene na <strong>{ $useremail }</strong> (ukoliko odlučite da ih nećete blokirati).
-firefox-relay-offer-legal-notice = Klikom na „Koristi e-mail masku” prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
+firefox-relay-offer-legal-notice = Klikom na „Koristi masku e-mail adrese” prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
 firefox-relay-offer-legal-notice-1 = Registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
 
 ## Add-on Pop-up Notifications
@@ -1399,6 +1414,14 @@ popup-warning-exceeded-message =
         [one] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } skočnog prozora.
         [few] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } skočna prozora.
        *[other] { -brand-short-name } je spriječio ovu stranicu da otvori više od { $popupCount } skočnih prozora.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } spriječio je ovu stranicu da otvori više od { $popupCount } skočnog prozora i preusmjeravanje.
+        [few] { -brand-short-name } spriječio je ovu stranicu da otvori više od { $popupCount } skočna prozora i preusmjeravanje.
+       *[other] { -brand-short-name } spriječio je ovu stranicu da otvori više od { $popupCount } skočnih prozora i preusmjeravanje.
     }
 popup-warning-button =
     .label =
@@ -1600,3 +1623,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dopustio { $count } kripto-rudara
     }
 trustpanel-cryptominer-tab-list-header = Ove web-stranice pokušavaju rudariti kriptovalute:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count"> { $count } </span> program za praćenje je blokiran na ovoj web-stranici
+        [few] <span data-l10n-name="count"> { $count } </span> programa za praćenje su blokirana na ovoj web-stranici
+       *[other] <span data-l10n-name="count"> { $count } </span> programa za praćenje je blokirano na ovoj web-stranici
+    }
