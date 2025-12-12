@@ -827,6 +827,9 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Suchbegriffe in der Adressleiste auf Ergebnisseiten anzeigen
+search-separate-default-engine-2 =
+    .label = Verwenden Sie eine andere Standardsuchmaschine in privaten Fenstern
+    .accesskey = V
 search-separate-default-engine-dropdown =
     .aria-label = Standardsuchmaschine in privaten Fenstern
 # With this option enabled, on the search results page
