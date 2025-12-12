@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Sehen Sie sich eine kurze Beschrei
 sidebar-button-callout-title = Tab-Titel in der Sidebar anzeigen
 sidebar-button-callout-subtitle = Verwenden Sie die Sidebar-Schaltfläche, um die Sidebar einzuklappen, sodass Sie Tab-Titel sehen können.
 sidebar-button-callout-vertical-tabs = Um Ihre Tabs anzuzeigen, klicken Sie auf die Sidebar-Schaltfläche in der Symbolleiste.
+sidebar-deprecation-callout-title = Aktualisierte Sidebar erscheint bald
 
 ## Sidebar Vertical Tabs Strings
 
