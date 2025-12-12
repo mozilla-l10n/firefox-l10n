@@ -160,6 +160,7 @@ sidebar-button-callout-title = Monstrar titulos de scheda in le barra lateral
 sidebar-button-callout-subtitle = Usa le button del barra lateral pro expander le barra lateral, assi que tu pote vider le titulos de scheda.
 sidebar-button-callout-vertical-tabs = Pro monstrar tu schedas, selige le button del barra lateral in le barra de instrumentos.
 sidebar-deprecation-callout-title = Barra lateral actualisate tosto disponibile
+sidebar-deprecation-callout-subtitle = Nos sta a supprimer gradualmente le version de barra lateral que tu actualmente usa. Proba le barra lateral actualisate. Illo es plus veloce e tu obtene accesso a plus utensiles.
 sidebar-deprecation-cta-button = Proba lo ora
 
 ## Sidebar Vertical Tabs Strings
