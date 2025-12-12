@@ -11,6 +11,12 @@
 unified-extensions-header-title = Proširenja
 unified-extensions-manage-extensions =
     .label = Upravljaj proširenjima
+unified-extensions-discover-extensions =
+    .label = Otkrij proširenja
+unified-extensions-empty-reason-private-browsing-not-allowed = Imaš instalirana proširenja, ali nisu aktivirana u privatnim prozorima
+unified-extensions-empty-reason-extension-not-enabled = Imaš instalirana proširenja, ali nisu aktivirana
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Poboljšaj razinu pregledavanja s proširenjima
 
 ## An extension in the main list
 
