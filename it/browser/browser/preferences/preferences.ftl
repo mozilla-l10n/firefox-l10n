@@ -827,6 +827,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Visualizza suggerimenti di ricerca tra i risultati della barra degli indirizzi
     .accesskey = i
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Visualizza suggerimenti di ricerca prima della cronologia nei risultati della barra degli indirizzi
+search-show-suggestions-private-windows-2 =
+    .label = Suggerimenti di ricerca in finestre anonime
 search-suggestions-cant-show-2 =
     .message = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -838,6 +847,8 @@ search-separate-default-engine-2 =
     .accesskey = a
 search-separate-default-engine-dropdown =
     .aria-label = Motore di ricerca predefinito nelle finestre anonime
+search-suggestions-header-2 =
+    .label = Suggerimenti dei motori di ricerca
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1494,6 +1505,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Azioni rapide
     .accesskey = z
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Ricerche recenti
+    .accesskey = h
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Suggerimenti di ricerca di tendenza
+    .accesskey = m
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra ricerche recenti
