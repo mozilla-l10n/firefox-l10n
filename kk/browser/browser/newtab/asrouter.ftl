@@ -224,6 +224,13 @@ fox-doodle-pin-secondary = Қазір емес
 set-default-pdf-handler-headline = <strong>PDF файлдарыңыз енді { -brand-short-name } ішінде ашылады.</strong> Формаларды тікелей браузерде өңдеңіз немесе қол қойыңыз. Өзгерту үшін параметрлерден "PDF" іздеңіз.
 set-default-pdf-handler-primary = Түсіндім
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta =
+    .label = Бастапқы ретінде орнату
+annotations-make-default-pdf-next =
+    .label = Келесі
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Болашақта жаңа құрылғыңыз бола ма?
