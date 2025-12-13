@@ -70,7 +70,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-cert-error-details-cert-chain-label = Řetězec certifikátů:
+cert-error-details-cert-chain-label = Řetěz certifikátů:
 open-in-new-window-for-csp-or-xfo-error = Otevřít stránku v novém okně
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
