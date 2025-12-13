@@ -921,6 +921,9 @@ sync-signedout-description2 = Sincronizza segnalibri, cronologia, schede, passwo
 sync-signedout-account-signin3 =
     .label = Accedi per sincronizzare…
     .accesskey = d
+sync-signedout-account-signin-4 =
+    .label = Accedi al tuo account per avviare la sincronizzazione
+    .accesskey = u
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -972,7 +975,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronizzazione: ATTIVA
+prefs-syncing-on-2 =
+    .label = La sincronizzazione è ATTIVA
 prefs-syncing-off = Sincronizzazione: DISATTIVATA
+prefs-syncing-off-2 =
+    .label = La sincronizzazione è DISATTIVATA
+    .description = Attiva la sincronizzazione per accedere a segnalibri, password, cronologia e altri dati su qualsiasi dispositivo.
 prefs-sync-turn-on-syncing =
     .label = Attiva sincronizzazione…
     .accesskey = c
@@ -1015,6 +1023,9 @@ sync-currently-syncing-addons = Componenti aggiuntivi
 sync-currently-syncing-settings = Impostazioni
 sync-manage-options =
     .label = Gestisci sincronizzazione
+    .accesskey = z
+sync-manage-options-2 =
+    .label = Gestisci dati sincronizzati
     .accesskey = z
 sync-change-options =
     .label = Cambia…
