@@ -154,6 +154,9 @@ startup-restore-warn-on-quit =
     .label = Tarayıcıdan çıkarken beni uyar
 disable-extension =
     .label = Uzantıyı etkisizleştir
+preferences-data-migration-group =
+    .label = Tarayıcı verilerini içe aktar
+    .description = Başka bir tarayıcıdaki yer imlerinizi, parolalarınızı, geçmişinizi, uzantılarınızı ve otomatik doldurma verilerinizi buraya aktarın.
 preferences-data-migration-header = Tarayıcı verilerini içe aktar
 preferences-data-migration-description = Yer imlerini, parolaları, gezinti geçmişini ve otomatik doldurma verilerini { -brand-short-name } tarayıcısına aktarın.
 preferences-data-migration-button =
@@ -553,6 +556,9 @@ update-in-progress-cancel-button = &Devam et
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name } desteği
+    .description = Sorunları giderin ve fikirlerinizi topluluğumuzla paylaşın.
 support-share-ideas =
     .label = Fikirlerinizi ve görüşlerinizi paylaşın
 
@@ -608,6 +614,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Görüntü içinde görüntü video düğmelerini etkinleştir
     .accesskey = G
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Sekme değiştirdiğimde videoları görüntü içinde görüntü modunda oynatmaya devam et
+    .accesskey = S
 browsing-picture-in-picture-learn-more = Daha fazla bilgi al
 browsing-media-control =
     .label = Medya oynatmayı klavye, kulaklık veya sanal arayüzle yönet
@@ -811,6 +820,9 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Sonuç sayfalarındayken adres çubuğunda arama terimlerini göster
+search-separate-default-engine-2 =
+    .label = Gizli pencerelerde farklı bir varsayılan arama motoru kullan
+    .accesskey = G
 search-separate-default-engine-dropdown =
     .aria-label = Gizli pencerelerde varsayılan arama motoru
 # With this option enabled, on the search results page

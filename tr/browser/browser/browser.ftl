@@ -1594,3 +1594,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } kripto madenciye izin verdi
     }
 trustpanel-cryptominer-tab-list-header = Bu siteler kripto madenciliği yapmaya çalışıyor:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi
+       *[other] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi
+    }

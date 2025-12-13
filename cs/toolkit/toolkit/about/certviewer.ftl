@@ -47,7 +47,7 @@ certificate-viewer-not-after = Platnost do
 certificate-viewer-not-before = Platnost od
 certificate-viewer-organization = Organizace
 certificate-viewer-organizational-unit = Jednotka organizace
-certificate-viewer-policy = Zásady
+certificate-viewer-policy = Pravidlo
 certificate-viewer-protocol = Protokol
 certificate-viewer-public-value = Veřejná hodnota
 certificate-viewer-purposes = Účel
@@ -83,7 +83,7 @@ certificate-viewer-authority-key-id = ID klíče autority
 certificate-viewer-authority-info-aia = Informace o autoritě (AIA)
 certificate-viewer-certificate-policies = Pravidla certifikátu
 certificate-viewer-embedded-scts = Vložené SCTs
-certificate-viewer-crl-endpoints = CRL endpointy
+certificate-viewer-crl-endpoints = Koncové body pro CRL
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Stáhnout
