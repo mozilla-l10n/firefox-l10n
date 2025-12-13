@@ -69,6 +69,14 @@ perftools-button-add-directory = Gehitu direktorioa
 perftools-button-remove-directory = Kendu hautatutakoak
 perftools-button-edit-settings = Editatu ezarpenak…
 
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = Ekintza gehiago
+perftools-menu-more-actions-restart-with-profiling = Berrabiarazi { -brand-shorter-name } abioko analisia gaituta
+perftools-menu-more-actions-copy-for-startup = Kopiatu abioko analisirako ingurune-aldagaiak
+perftools-menu-more-actions-copy-for-perf-tests = Kopiatu errendimenduaren probetarako parametroak
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -141,9 +149,15 @@ perftools-presets-graphics-label = Grafikoak
 perftools-presets-graphics-description = { -brand-shorter-name }(r)en programa-errore grafikoak ikertzeko aurrezarpena.
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = { -brand-shorter-name }(r)en audio eta bideo programa-erroreak ikertzeko aurrezarpena.
+perftools-presets-ml-label = Ikasketa automatikoa
+perftools-presets-ml-description2 = { -brand-shorter-name }(r)en ikasketa automatikoko programa-erroreak ikertzeko aurrezarpena.
 perftools-presets-networking-label = Sarea
 perftools-presets-networking-description = { -brand-shorter-name }(r)en sareko programa-erroreak ikertzeko aurrezarpena.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = { -brand-shorter-name }(r)en energia-erabilpenaren arazoak ikertzeko aurrezarpena, eragin negatibo txikiarekin.
+perftools-presets-debug-label = Arazketa
+perftools-presets-debug-description = { -brand-shorter-name }(r)en arazketarako aurrezarpena. Eragin negatibo handia du, ez erabili errendimenduarekin lotutako lanerako, bai ordea nabigatzailearen portaera ulertzeko.
+perftools-presets-web-compat-label = Web Compat
+perftools-presets-web-compat-description = Webguneetako web bateragarritasun arazoen arazketarako, errendimenduaren jarraipenerako baino, gomendatutako aurrezarpena.
 perftools-presets-custom-label = Pertsonalizatua
