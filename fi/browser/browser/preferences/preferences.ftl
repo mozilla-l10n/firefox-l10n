@@ -559,6 +559,11 @@ update-in-progress-ok-button = &Hylkää
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
 
+## Firefox support
+
+support-share-ideas =
+    .label = Jaa ideoita ja palautetta
+
 ## General Section - Performance
 
 performance-title = Suorituskyky
@@ -817,6 +822,8 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Näytä hakuehdot tulossivujen osoitepalkissa
+search-separate-default-engine-dropdown =
+    .aria-label = Oletushakukone yksityisissä ikkunoissa
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

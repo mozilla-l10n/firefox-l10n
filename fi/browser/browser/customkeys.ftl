@@ -35,3 +35,5 @@ customkeys-nav-reload = Lataa uudelleen
 customkeys-nav-reload-skip-cache = Lataa uudelleen (ohita välimuisti)
 customkeys-nav-stop = Pysäytä
 customkeys-caution-message = Tämä ominaisuus on kokeellinen eikä välttämättä toimi odotetulla tavalla.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Virheellinen

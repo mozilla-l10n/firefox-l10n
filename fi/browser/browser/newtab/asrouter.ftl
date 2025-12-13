@@ -423,3 +423,12 @@ etp-strict-exceptions-infobar-button = Toteuta korjaukset
     .accesskey = a
 etp-strict-exceptions-infobar-not-now = Ei nyt
     .accesskey = E
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ei ole järjestelmän oletusselain
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ei ole ensisijainen selain
+set-default-menu-message-row-layout-title = Aseta { -brand-short-name } ensisijaiseksi selaimeksi
+set-default-menu-message-row-layout-title-variant = Aseta { -brand-short-name } oletusselaimeksi
+set-default-menu-message-primary-button = Aseta oletukseksi
+set-default-menu-message-primary-button-variant = Aseta ensisijaiseksi selaimeksi

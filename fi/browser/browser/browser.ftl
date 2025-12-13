@@ -836,6 +836,9 @@ urlbar-result-menu-dont-show-market =
     .label = Älä näytä osakemarkkinaehdotuksia
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Kiitos palautteestasi. Et enää näe osakemarkkinaehdotuksia.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Osakemarkkinoiden ehdotukset
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Kiitos palautteestasi. Et enää näe näitä ehdotuksia.
@@ -1585,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } salli { $count } kryptolouhijaa
     }
 trustpanel-cryptominer-tab-list-header = Nämä sivustot yrittävät louhia kryptovaluuttoja:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> seurain estetty tällä sivustolla
+       *[other] <span data-l10n-name="count">{ $count }</span> seurainta estetty tällä sivustolla
+    }
