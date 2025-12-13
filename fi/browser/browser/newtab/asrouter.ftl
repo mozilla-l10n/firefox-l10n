@@ -430,5 +430,11 @@ set-default-menu-message-simple-layout-title = { -brand-short-name } ei ole jär
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ei ole ensisijainen selain
 set-default-menu-message-row-layout-title = Aseta { -brand-short-name } ensisijaiseksi selaimeksi
 set-default-menu-message-row-layout-title-variant = Aseta { -brand-short-name } oletusselaimeksi
+set-default-menu-message-row-layout-subtitle = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se telakkaan.
+       *[other] Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se tehtäväpalkkiin.
+    }
 set-default-menu-message-primary-button = Aseta oletukseksi
 set-default-menu-message-primary-button-variant = Aseta ensisijaiseksi selaimeksi
