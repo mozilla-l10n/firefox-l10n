@@ -176,6 +176,7 @@ fp-neterror-offline-body-title = İnternet bağlantınızla ilgili bir sorun var
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }, { $hostname } sunucusuyla güvenli bir bağlantı kuramıyor.
+fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> sunucusuna bağlanamadı
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
 fp-neterror-why-did-this-happen = Neden böyle bir şey oldu?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)

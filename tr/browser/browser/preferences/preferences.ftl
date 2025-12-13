@@ -1650,6 +1650,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Açılır pencereleri ve üçüncü taraf yönlendirmelerini engelle
     .accesskey = A
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Açılır pencere ve üçüncü taraf yönlendirmesi istisnalarını yönet
+    .accesskey = A
+    .searchkeywords = { "" }
 permissions-addon-install-warning2 =
     .label = Siteler uzantı yüklemeye çalıştığında uyar
     .accesskey = t
