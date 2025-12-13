@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Petollinen sivusto edessä
 safeb-blocked-malware-page-title = Tälle sivustolle siirtyminen voi vahingoittaa tietokonettasi
 safeb-blocked-unwanted-page-title = Edessä olevalla sivustolla voi olla haittaohjelmia
 safeb-blocked-harmful-page-title = Edessä olevalla sivustolla voi olla haittaohjelmia
+safeb-blocked-addon-page-title = Sivusto estetty turvallisuutesi vuoksi
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } esti tämän sivun, koska se saattaa huijata sinut tekemään jotain vaarallista, kuten asentamaan ohjelmia tai paljastamaan henkilötietoja kuten salasanoja tai luottokorttitietoja.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } esti tämän sivun, koska se yritti asentaa haittaohjelmaa, joka voi varastaa tai poistaa tietokoneellasi olevia tietoja.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } esti tämän sivun, koska se saattaa huijata sinut asentamaan ohjelmia, jotka voivat haitata verkon selaamista, esimerkiksi vaihtamalla aloitussivun tai näyttämällä ylimääräisiä mainoksia vierailemillasi sivustoilla.
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } esti tämän sivun, koska se saattaa yrittää asentaa vaarallisia ohjelmia, jotka varastavat tai poistavat tietoja, esimerkiksi kuvia, salasanoja, viestejä ja luottokorttitietoja.
+safeb-blocked-addon-page-short-desc = { -brand-short-name } esti tämän sivun, koska jokin lisäosistasi yritti avata sen. Tätä sivustoa voidaan käyttää tietojesi, kuten salasanojen tai luottokorttinumeroiden, varastamiseen.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Varoituksen antoi <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,10 @@ safeb-blocked-harmful-page-learn-more = Lue lisää { -brand-short-name }in verk
 safeb-palm-notdeceptive =
     .label = Tämä ei ole petollinen sivusto…
     .accesskey = p
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Miksi tämä sivusto estettiin?</strong>
+safeb-blocked-addon-page-error-desc3-override = <strong>Mitä voit tehdä asialle?</strong>

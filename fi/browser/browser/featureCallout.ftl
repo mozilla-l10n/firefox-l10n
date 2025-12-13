@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Näe lyhyt kuvaus, lukuaika ja mui
 sidebar-button-callout-title = Näytä välilehtien otsikot sivupalkissa
 sidebar-button-callout-subtitle = Käytä sivupalkkipainiketta laajentaaksesi sivupalkkia, jotta näet välilehtien otsikot.
 sidebar-button-callout-vertical-tabs = Näytä välilehdet valitsemalla sivupalkin painikkeen työkalupalkista.
+sidebar-deprecation-cta-button = Kokeile nyt
 
 ## Sidebar Vertical Tabs Strings
 

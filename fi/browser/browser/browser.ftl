@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Lisää kirjanmerkki ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Jaettu näkymä
+    .aria-label = Jaettu näkymä
 
 ## Page Action Context Menu
 
