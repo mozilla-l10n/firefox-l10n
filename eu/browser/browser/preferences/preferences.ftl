@@ -1217,6 +1217,13 @@ autofill-payment-methods-checkbox-message-2 =
     .accesskey = d
 autofill-payment-methods-manage-payments-title =
     .heading = Kudeatu ordainketa-metodoak
+autofill-payment-methods-manage-payments-button =
+    .label = Kudeatu ordainketa-metodoak
+    .accesskey = K
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Behartu gailuan saioa hastea ordainketa-metodoak automatikoki osatu eta kudeatzeko
+    .accesskey = o
 autofill-payment-methods-add-button = Gehitu ordainketa-metodo berria
 payments-list-header =
     .label = Ordainketa-metodoak
@@ -1384,6 +1391,8 @@ addressbar-suggest-1 = Aukeratu helbide-barran bistaratu beharreko gomendioak.
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Helbide-barra erabiltzean, gomendatu
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Helbide-barra — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
 addressbar-suggest-firefox-suggest = Aukeratu helbide-barran agertu beharreko gomendio motak.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
@@ -1421,6 +1430,12 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 addressbar-locbar-showrecentsearches-option =
     .label = Erakutsi azken bilaketak
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = { "" }
+    .accesskey = { "" }
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = { -brand-short-name }(r)en gomendioak
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name }(r)en gomendioak
@@ -1650,6 +1665,10 @@ collection-studies-link = Ikusi { -brand-short-name } esperimentuak
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako.
+collection-backlogged-crash-reports2 =
+    .label = Bidali automatikoki hutsegite-txostenak
+    .accesskey = h
+collection-backlogged-crash-reports-description = Honek nabigatzailearen arazoak diagnostikatu eta konpontzen laguntzen du { -vendor-short-name }. Txostenek datu pertsonal edo kontuzkoak izan litzakete.
 addon-recommendations =
     .label = Baimendu { -brand-short-name }(r)i hedapenen gomendio pertsonalizatuak egitea
 addon-recommendations-link = Argibide gehiago
