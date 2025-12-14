@@ -85,6 +85,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = Eginda
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = Esportatu pasahitzak fitxategi batera?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = Esportatu ondoren, pasahitzen fitxategia ezabatzea gomendatzen dugu, gailu hau darabilen beste inork zure pasahitzak ez ikusi ahal izateko.
 contextual-manager-export-passwords-dialog-confirm-button = Jarraitu esportazioarekin
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Esportatu pasahitzak { -brand-short-name }(e)tik
@@ -122,6 +124,14 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] Kendu
         [one] Kendu
        *[other] Kendu denak
+    }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Honek { -brand-short-name }(e)n gordetako pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+        [one] Honek { -brand-short-name }(e)n gordetako pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+       *[other] Honek { -brand-short-name }(e)n gordetako pasahitzak eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
     }
 contextual-manager-passwords-origin-label = Webgunea
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
