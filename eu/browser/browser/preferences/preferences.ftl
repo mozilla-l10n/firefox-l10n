@@ -60,6 +60,7 @@ pane-experimental-description2 = Konfigurazio-hobespen aurreratuak aldatzeak { -
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Proba itzazu gure eginbide esperimentalak! Garapen eta bilakaeran daude eta horrek { -brand-short-name }(r)en portaerari eragin liezaioke. Eginbide hauen zure erabilpenari buruzko datuak jasoko ditugu soilik <a data-l10n-name="data-collection">datu tekniko eta interakziozkoak</a> aukera aktibo baduzu.
 pane-experimental-description3 = Probatu gure ezaugarri esperimentalak! Garatzen eta eboluzionatzen ari dira, eta horrek eragina izan dezake  { -brand-short-name }(r)en funtzionamenduan.
 pane-experimental-reset =
     .label = Berrezarri lehenespenak
@@ -113,6 +114,7 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Hedapena gaitzeko, zoaz <img data-l10n-name="addons-icon"/> Gehigarriak aukerara <img data-l10n-name="menu-icon"/> menuan.
+extension-controlled-enable-2 = Hedapen hau berriro gaitzeko, bisitatu <a data-l10n-name="addons-link">hedapenak eta itxurak</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } hedapenak zure hasiera-orriko zenbait ezarpen kontrolatzen ditu.
@@ -142,10 +144,13 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Ireki aurreko leiho eta fitxak
     .accesskey = a
+startup-windows-launch-on-login-profile-disabled =
+    .message = Gaitu hobespen hau "{ profile-manager-use-selected.label }" aukera markatuz "Aukeratu erabiltzaile-profila" leihoan.
 windows-launch-on-login =
     .label = Ireki { -brand-short-name } automatikoki ordenagailuaren abioan
     .accesskey = r
 windows-launch-on-login-disabled = Hobespen hau Windowsen desgaitu da. Aldatzeko, bisitatu <a data-l10n-name="startup-link">Abioko aplikazioak</a> sistemaren ezarpenetan.
+windows-launch-on-login-profile-disabled = Gaitu hobespen hau "{ profile-manager-use-selected.label }" aukera markatuz "Aukeratu erabiltzaile-profila" leihoan.
 startup-restore-warn-on-quit =
     .label = Abisatu nabigatzailetik irtetean
 disable-extension =
@@ -1339,6 +1344,7 @@ sitedata-delete-on-close =
     .label = Ezabatu cookieak eta guneetako datuak { -brand-short-name } ixtean
     .accesskey = c
 sitedata-delete-on-close-private-browsing = Nabigatze pribatu modu iraunkorrean cookieak eta guneetako datuak beti garbituko dira { -brand-short-name } ixtean.
+sitedata-delete-on-close-private-browsing2 = Zure historia-ezarpenetan oinarrituta, { -brand-short-name }(e)k zure saioko cookieak eta guneko datuak ezabatzen ditu nabigatzailea ixtean.
 sitedata-allow-cookies-option =
     .label = Onartu cookieak eta guneetako datuak
     .accesskey = O
