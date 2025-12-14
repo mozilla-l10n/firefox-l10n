@@ -962,6 +962,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Elementu hauek konektatutako zure gailu guztien artean ari zara sinkronizatzen:
+sync-syncing-across-devices-heading-2 = Gailuen artean sinkronizatutako datuak
+sync-syncing-across-devices-empty-state =
+    .label = Ez zara ezer sinkronizatzen ari… oraindik.
+    .description = Hasi sinkronizatzen datu guztiak zure gailu guztietan izan ditzazun.
 sync-currently-syncing-bookmarks = Laster-markak
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Irekitako fitxak
@@ -1205,6 +1209,12 @@ autofill-saved-payment-methods-button = Gordetako ordainketa metodoak
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Behartu gailuan saioa hastea ordainketa metodoak bete eta kudeatzeko
     .accesskey = o
+autofill-payment-methods-title = Ordainketa-metodoak
+autofill-payment-methods-header =
+    .aria-label = Ordainketa-metodoak
+autofill-payment-methods-checkbox-message-2 =
+    .label = Gorde eta osatu automatikoki ordainketa-metodoak
+    .accesskey = d
 autofill-payment-methods-manage-payments-title =
     .heading = Kudeatu ordainketa-metodoak
 autofill-payment-methods-add-button = Gehitu ordainketa-metodo berria
@@ -1610,6 +1620,9 @@ permissions-camera2 =
     .label = Kamera
 permissions-microphone2 =
     .label = Mikrofonoa
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Bozgorailua
 permissions-notification2 =
     .label = Jakinarazpenak
 
@@ -1695,6 +1708,9 @@ certs-description2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only modua
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Soilik konexio seguruak baimentzen ditu webguneetara. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
 httpsonly-learn-more2 = Nola dabilen HTTPS-Only modua
 httpsonly-description = HTTPSk konexio seguru eta zifratua eskaintzen du { -brand-short-name } eta bisitatzen dituzun webguneen artean. Webgune gehienek HTTPS onartzen dute eta HTTPS-Only modua gaituta badago, orduan { -brand-short-name }(e)k konexio guztiak HTTPSra bihurtuko ditu.
 httpsonly-learn-more = Argibide gehiago
