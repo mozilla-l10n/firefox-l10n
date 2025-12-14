@@ -1516,3 +1516,8 @@ trustpanel-list-label-cryptominer =
 trustpanel-tracking-content-tab-list-header = Zure jarraipena egiten saiatzen ari dira gune hauek:
 trustpanel-fingerprinter-list-header = Hatz-marka bidezko zure jarraipena egiten saiatzen ari dira gune hauek:
 trustpanel-cryptominer-tab-list-header = Kriptomeatzen saiatzen ari dira gune hauek:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Jarraipen-elementu <span data-l10n-name="count">{ $count }</span> blokeatu da gune honetan
+       *[other] <span data-l10n-name="count">{ $count }</span> jarraipen-elementu blokeatu dira gune honetan
+    }

@@ -129,9 +129,17 @@ contextual-manager-passwords-remove-all-confirm-button =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message =
     { $total ->
-        [1] Honek { -brand-short-name }(e)n gordetako pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
-        [one] Honek { -brand-short-name }(e)n gordetako pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
-       *[other] Honek { -brand-short-name }(e)n gordetako pasahitzak eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+        [1] Honek { -brand-short-name }(e)n gordetako zure pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+        [one] Honek { -brand-short-name }(e)n gordetako zure pasahitza eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+       *[other] Honek { -brand-short-name }(e)n gordetako zure pasahitzak eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Honek { -brand-short-name }(e)n eta sinkronizatutako zure gailuetan gordetako pasahitza eta edozein urratze-alerta ezabatuko ditu. Ekintza hau ezin da desegin.
+        [one] Honek { -brand-short-name }(e)n eta sinkronizatutako zure gailuetan gordetako pasahitza eta edozein urratze-alerta ezabatuko ditu. Ekintza hau ezin da desegin.
+       *[other] Honek { -brand-short-name }(e)n eta sinkronizatutako zure gailuetan gordetako pasahitzak eta urratze-alertak ezabatuko ditu. Ekintza hau ezin da desegin.
     }
 contextual-manager-passwords-origin-label = Webgunea
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector

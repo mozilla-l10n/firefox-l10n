@@ -406,6 +406,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Galdetu beti non gorde fitxategiak
     .accesskey = n
+download-private-browsing-delete =
+    .label = Ezabatu nabigatze pribatuan deskargatutako fitxategiak nabigatze pribatuko leiho guztiak ixtean
+    .accesskey = E
 applications-header = Aplikazioak
 applications-description = Aukeratu { -brand-short-name }(e)k nola maneiatzen dituen webetik edo erabiltzen dituzun aplikazioetatik deskargatzen dituzun fitxategiak.
 applications-filter =
@@ -537,6 +540,16 @@ update-in-progress-ok-button = &Baztertu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } laguntza
+    .description = Konpondu arazoak edo partekatu ideiak komunitatearekin.
+support-get-help =
+    .label = Jaso laguntza
+support-share-ideas =
+    .label = Partekatu ideiak eta iritzia
+
 ## General Section - Performance
 
 performance-title = Errendimendua
@@ -589,6 +602,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Gaitu bideoa beste leiho batean ikusteko kontrolak
     .accesskey = G
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Fitxak aldatzean, jarraitu erreproduzitzen bideoak beste leiho batean
+    .accesskey = d
 browsing-picture-in-picture-learn-more = Argibide gehiago
 browsing-media-control =
     .label = Kontrolatu multimedia teklatuaren, kaskoen edo interfaze birtualaren bidez
@@ -698,6 +714,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = { -brand-product-name } familiakide den { $provider }-eko taldeak hautatutako aparteko edukia.
 home-prefs-recommended-by-header-generic =
     .label = Gomendatutako istorioak
+home-prefs-recommended-by-description-generic = { -brand-product-name } familiak bildutako aparteko edukia
 home-prefs-stories-header =
     .label = Istorioak
 home-prefs-stories-description = Zure jardueran oinarritutako istorio pertsonalizatuak
@@ -732,6 +749,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
 home-prefs-weather-header =
     .label = Eguraldia
+home-prefs-weather-description = Gaurko eguraldiaren iragarpena begi-kolpean
 home-prefs-weather-learn-more-link = Argibide gehiago
 home-prefs-widgets-header =
     .label = Widgetak
@@ -790,6 +808,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Erakutsi emaitzen orrietan bilaketa-terminoak helbide-barran
+search-separate-default-engine-2 =
+    .label = Erabili leiho pribatuetarako beste bilaketa-motor lehenetsi bat
+    .accesskey = b
+search-separate-default-engine-dropdown =
+    .aria-label = Bilaketa-motor lehenetsia leiho pribatuetan
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1572,8 +1595,13 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+permissions-header2 =
+    .label = Baimenak
+    .description = Nabigatutako webguneei ematen dizkiozun baimenak.
 permissions-location2 =
     .label = Kokapena
+permissions-localhost2 =
+    .label = Gailuaren aplikazio eta zerbitzuak
 permissions-local-network2 =
     .label = Sare lokaleko gailuak
 permissions-xr2 =
