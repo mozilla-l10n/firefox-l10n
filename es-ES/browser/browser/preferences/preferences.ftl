@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Advertirle al salir del navegador
 disable-extension =
     .label = Desactivar extensión
+preferences-data-migration-group =
+    .label = Importar datos del navegador
+    .description = Traiga sus marcadores, contraseñas, historial, extensiones y datos de autocompletado desde otro navegador.
 preferences-data-migration-header = Importar datos del navegador
 preferences-data-migration-description = Importar marcadores, contraseñas, historial y datos de autocompletado en { -brand-short-name }.
 preferences-data-migration-button =
@@ -555,6 +558,13 @@ update-in-progress-ok-button = &Ignorar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox support
+
+support-get-help =
+    .label = Obtener ayuda
+support-share-ideas =
+    .label = Compartir ideas y opiniones
 
 ## General Section - Performance
 

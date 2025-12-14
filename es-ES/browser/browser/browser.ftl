@@ -838,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = No mostrar sugerencias de mercados
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Gracias por su opinión. Ya no verá sugerencias de mercados.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugerencias para el mercado de valores
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gracias por su opinión. Ya no verá estas sugerencias.
@@ -929,6 +932,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = No se ha seleccionado ningún acceso directo, elija un acceso directo
     .tooltiptext = No se ha seleccionado ningún acceso directo, elija un acceso directo
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La búsqueda de palabras clave está desactivada
+    .tooltiptext = La búsqueda de palabras clave está desactivada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1583,3 +1590,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } ha permitido { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están tratando de minar criptomonedas:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado en este sitio
+       *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados en este sitio
+    }
