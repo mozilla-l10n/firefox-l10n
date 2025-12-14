@@ -124,7 +124,7 @@ profiles-dark-theme = Tmavý
 # The default system theme
 profiles-system-theme = Systémový
 profiles-system-theme-title =
-    .title = Použít systémový motiv
+    .title = Použít motiv podle systému
 # This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-marigold-theme-2 = Měsíčková žlutá
 # This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
