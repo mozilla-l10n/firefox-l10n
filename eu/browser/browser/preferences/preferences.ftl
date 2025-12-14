@@ -1210,6 +1210,12 @@ primary-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sart
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Sortu pasahitz nagusia
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ordainketa-metodoen ezarpenak aldatzen
+       *[other] { -brand-short-name } ordainketa-metodoen ezarpenak aldatzen saiatzen ari da. Hasi saioa zure gailuan hau ahalbidetzeko.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -1520,6 +1526,8 @@ content-blocking-etp-standard-tcp-rollout-description = Cookien erabateko babesa
 content-blocking-etp-standard-tcp-rollout-learn-more = Argibide gehiago
 content-blocking-etp-standard-tcp-title = Cookien erabateko babesa dauka, orain arteko pribatutasun-eginbiderik sendoena
 content-blocking-warning-title = Argi!
+content-blocking-warning-title-2 = Zenbait gune apurtzea eragin lezake jarraipenaren babes zorrotzak
+content-blocking-warning-title-custom = Zenbait gune apurtzea eragin lezake jarraipenaren babes pertsonalizatuak
 content-blocking-and-isolating-etp-warning-description-2 = Hainbat webgunek edukiak ondo ez bistaratzea edo ondo ez ibiltzea eragin lezake ezarpen honek. Gune batek hondatua badirudi, gune horretarako jarraipenaren babesa desgaitu nahiko duzu eduki guztia karga dadin.
 content-blocking-warning-learn-how = Ikasi nola
 content-blocking-baseline-exceptions-3 =
@@ -1678,22 +1686,34 @@ permissions-notification2 =
 collection-header = { -brand-short-name } datuen bilketa eta erabilera
 collection-header2 = { -brand-short-name } datuen bilketa eta erabilera
     .searchkeywords = telemetria
+preferences-collection-description = Zuri aukerak eskaintzen ahalegintzen gara eta { -brand-product-name } guztiontzat hobetzeko behar diren gutxieneko datuak biltzen ditugu soilik.
 preferences-collection-privacy-notice = Ikusi pribatutasun-oharra
 preferences-view-profiles = Ikusi profil guztiak
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
 collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
 collection-health-report-telemetry-disabled-link = Argibide gehiago
+collection-usage-ping =
+    .label = Bidali eguneroko erabilpenaren ping-a { -vendor-short-name }(r)a
+    .accesskey = r
+collection-usage-ping-description = Honek erabiltzaile aktiboen kopurua kalkulatzen laguntzen dio { -vendor-short-name }(r)i.
+collection-health-report2 =
+    .label = Bidali datu tekniko eta interakziozkoak { -vendor-short-name }(r)a
+    .accesskey = r
 collection-health-report =
     .label = Baimendu { -brand-short-name }(r)i datu tekniko eta interakziozkoak { -vendor-short-name }ra bidaltzea
     .accesskey = r
 collection-health-report-link = Argibide gehiago
+collection-health-report-description = Honek { -brand-product-name }(r)en eginbideak, errendimendua eta egonkortasuna hobetzen laguntzen digu.
 collection-studies2 =
     .label = Instalatu eta exekutatu esperimentuak
 collection-studies-description = Probatu eginbide eta ideiak mundu guztiarentzat argitaratu diren aurretik.
 collection-studies =
     .label = Baimendu { -brand-short-name }(e)k esperimentuak instalatu eta exekutatzea
 collection-studies-link = Ikusi { -brand-short-name } esperimentuak
+addon-recommendations2 =
+    .label = Baimendu hedapenen pertsonalizatutako gomendioak
+addon-recommendations-description = Jaso hedapenen gomendioak zure nabigatze-esperientzia hobetzeko.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako.
