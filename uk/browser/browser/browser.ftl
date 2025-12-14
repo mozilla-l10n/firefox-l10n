@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Додати сторінку до закладок ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Розділений екран
+    .aria-label = Розділений екран
 
 ## Page Action Context Menu
 
@@ -839,6 +842,9 @@ urlbar-result-menu-dont-show-market =
     .label = Не показувати ринкові пропозиції
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Дякуємо за відгук. Ви більше не бачитимете ринкових пропозицій.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Пропозиції щодо фондового ринку
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Дякуємо за відгук. Ви більше не бачитимете цих пропозицій.
@@ -1612,3 +1618,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } дозволив { $count } криптомайнерів
     }
 trustpanel-cryptominer-tab-list-header = Ці сайти намагаються використовувати ваш комп'ютер для криптомайнингу:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> елемент стеження заблоковано на цьому сайті
+        [few] <span data-l10n-name="count">{ $count }</span> елементи стеження заблоковано на цьому сайті
+       *[many] <span data-l10n-name="count">{ $count }</span> елементів стеження заблоковано на цьому сайті
+    }

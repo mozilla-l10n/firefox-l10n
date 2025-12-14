@@ -562,6 +562,16 @@ update-in-progress-ok-button = &Відхилити
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
 
+## Firefox support
+
+support-application-heading =
+    .label = Підтримка { -brand-short-name }
+    .description = Усунення проблем або обмін ідеями зі спільнотою.
+support-get-help =
+    .label = Отримати допомогу
+support-share-ideas =
+    .label = Поділіться ідеями та відгуком
+
 ## General Section - Performance
 
 performance-title = Продуктивність
@@ -821,6 +831,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Показувати пошукові терміни в панелі адреси на сторінках результатів
+search-separate-default-engine-2 =
+    .label = Використовувати іншу типову пошукову систему в приватних вікнах
+    .accesskey = п
+search-separate-default-engine-dropdown =
+    .aria-label = Типова пошукова система в приватних вікнах
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -970,6 +985,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Ви синхронізуєте ці елементи на всіх під'єднаних пристроях:
+sync-syncing-across-devices-heading-2 = Дані синхронізуються на всіх пристроях
+sync-syncing-across-devices-empty-state =
+    .label = Наразі ви нічого не синхронізуєте.
+    .description = Почніть синхронізувати дані, щоб мати до них доступ на всіх пристроях.
 sync-currently-syncing-bookmarks = Закладки
 sync-currently-syncing-history = Історія
 sync-currently-syncing-tabs = Відкриті вкладки
