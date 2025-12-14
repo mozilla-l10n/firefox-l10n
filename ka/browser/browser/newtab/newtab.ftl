@@ -34,6 +34,12 @@ newtab-search-box-search-button =
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
 newtab-search-box-handoff-text-no-engine = მოძებნეთ ან შეიყვანეთ მისამართი
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
+    .title = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
+    .aria-label = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
 newtab-search-box-handoff-input-no-engine =
     .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
     .title = მოძებნეთ ან შეიყვანეთ მისამართი
