@@ -113,6 +113,9 @@ extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $nam
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Hedapena gaitzeko, zoaz <img data-l10n-name="addons-icon"/> Gehigarriak aukerara <img data-l10n-name="menu-icon"/> menuan.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } hedapenak zure hasiera-orriko zenbait ezarpen kontrolatzen ditu.
 
 ## Preferences UI Search Results
 
@@ -147,6 +150,9 @@ startup-restore-warn-on-quit =
     .label = Abisatu nabigatzailetik irtetean
 disable-extension =
     .label = Desgaitu hedapena
+preferences-data-migration-group =
+    .label = Inportatu nabigatzailearen datuak
+    .description = Ekarri beste nabigatzaile batetik zure laster-markak, pasahitzak, historia, hedapenak eta osatze automatikoaren datuak.
 preferences-data-migration-header = Inportatu nabigatzailearen datuak
 preferences-data-migration-description = Inportatu laster-markak, pasahitzak, historia eta osatze automatikoko datuak { -brand-short-name }(e)n.
 preferences-data-migration-button =
@@ -182,6 +188,14 @@ preferences-copy-profile-select = Hautatu profila
 preferences-copy-profile-button = Kopiatu
 tabs-group-header2 =
     .label = Fitxak
+tabs-opening-heading =
+    .label = Irekitzea
+tabs-interaction-heading =
+    .label = Interakzioa
+tabs-containers-heading =
+    .label = Edukiontziak
+tabs-closing-heading =
+    .label = Ixtea
 tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
@@ -1605,6 +1619,18 @@ permissions-autoplay = Erreprodukzio automatikoa
 permissions-autoplay-settings =
     .label = Ezarpenak…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Kudeatu laster-leihoen eta hirugarrenek eragindako birbideratzeen salbuespenak
+    .accesskey = e
+    .searchkeywords = laster-leihoak laster-leiho popup
+permissions-addon-install-warning2 =
+    .label = Abisatu webguneak hedapenak instalatzen saiatzen badira
+    .accesskey = A
+permissions-addon-exceptions2 =
+    .label = Aukeratu zein webgunek instala ditzaketen hedapenak
+    .accesskey = A
 permissions-block-popups =
     .label = Blokeatu pop-up leihoak
     .accesskey = B
@@ -1683,6 +1709,13 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Webguneen iragarkietako hobespenak
+website-advertising-private-attribution =
+    .label = Baimendu webguneei pribatutasuna errespetatzen duen iragarki-neurketa egitea
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
