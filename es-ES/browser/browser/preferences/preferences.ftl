@@ -561,6 +561,9 @@ update-in-progress-cancel-button = &Continuar
 
 ## Firefox support
 
+support-application-heading =
+    .label = Asistencia de { -brand-short-name }
+    .description = Resuelve problemas o comparte ideas con la comunidad.
 support-get-help =
     .label = Obtener ayuda
 support-share-ideas =
@@ -618,6 +621,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar controles de vídeo picture-in-picture
     .accesskey = A
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Seguir reproduciendo vídeos en modo picture-in-picture al cambiar de pestaña
+    .accesskey = S
 browsing-picture-in-picture-learn-more = Saber más
 browsing-media-control =
     .label = Controlar los medios con el teclado, los auriculares o la interfaz virtual
@@ -821,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostrar términos de búsqueda en la barra de direcciones en las páginas de resultados
+search-separate-default-engine-2 =
+    .label = Usar un buscador predeterminado diferente en ventanas privadas
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Buscador predeterminado en ventanas privadas
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -970,6 +981,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
+sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestañas abiertas

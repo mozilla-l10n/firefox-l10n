@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = Sitio engañoso a continuación
 safeb-blocked-malware-page-title = Visitar este sitio web puede dañar su equipo.
 safeb-blocked-unwanted-page-title = El sitio que hay a continuación puede contener programas dañinos
 safeb-blocked-harmful-page-title = El sitio que va a visitar puede contener software malicioso
+safeb-blocked-addon-page-title = Sitio bloqueado por su seguridad
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ha bloqueado esta página porque puede engañarle para hacer algo peligroso como instalar software o revelar información personal como contraseñas o tarjetas de crédito.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ha bloqueado esta página porque puede intentar software malicioso que puede robar o eliminar información personal en su equipo.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ha bloqueado esta página porque puede intentar engañarle para instalar programas que dañen su experiencia de navegación (por ejemplo, cambiar su página de inicio o mostrar anuncios extra en los sitios que visite).
@@ -62,3 +63,12 @@ safeb-blocked-harmful-page-learn-more = Más información sobre la protección c
 safeb-palm-notdeceptive =
     .label = Este no es un sitio engañoso…
     .accesskey = E
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>¿Por qué se ha bloqueado este sitio?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> puede estar vinculado a actividades engañosas y dañinas.
+safeb-blocked-addon-page-error-desc3-override = <strong>¿Qué puede hacer al respecto?</strong>
+safeb-blocked-addon-page-error-desc4-override = Para evitar que esto vuelva a suceder, puede eliminar o desactivar <strong>{ $addonName }</strong> de about:addons.
