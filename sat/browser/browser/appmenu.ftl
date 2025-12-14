@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = ᱯᱨᱚᱯᱷᱟᱭᱞᱟᱨ ᱯᱮᱱᱮᱞ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱞᱟᱨ ᱯᱮᱱᱮᱞ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = { -brand-shorter-name } ᱨᱮ ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-media-label =
     .label = ᱢᱤᱰᱤᱭᱟ
+profiler-popup-presets-ml-description = { -brand-shorter-name } ᱨᱮ ᱢᱟᱥᱤᱱ ᱪᱮᱫᱚᱜ ᱵᱚᱜᱽ ᱠᱚ ᱨᱮᱭᱟᱜ ᱛᱚᱞᱟᱥ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱴ ᱾
+profiler-popup-presets-ml-label =
+    .label = ᱢᱮᱥᱤᱱ ᱪᱮᱫᱚᱜ
 profiler-popup-presets-networking-description = { -brand-shorter-name } ᱨᱮ ᱱᱮᱴᱣᱟᱨᱠᱤᱝ ᱵᱟᱵᱚᱛ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
 profiler-popup-presets-networking-label =
     .label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
@@ -206,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name } ᱨᱮ ᱰᱤᱵᱟᱜᱽ ᱞᱟᱹᱜᱤᱫ ᱯᱨᱤᱥᱮᱴ ᱾ ᱵᱟᱹᱲᱛᱤ ᱚᱵᱷᱟᱨᱞᱚᱰ, ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱚᱢ ᱵᱮᱵᱷᱟᱨᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱵᱩᱡᱷᱟᱹᱣ ᱨᱮ ᱢᱚᱱᱮ ᱞᱟᱜᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
 profiler-popup-presets-debug-label =
     .label = ᱰᱮᱵᱩᱜᱽ
+profiler-popup-presets-web-compat-description = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱴᱨᱮᱠᱤᱝ ᱵᱚᱫᱚᱞ ᱛᱮ, ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱮ ᱣᱮᱵᱽ ᱟᱱᱩᱠᱩᱞ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱰᱤᱵᱟᱜᱽ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱥᱮᱴ ᱾
+profiler-popup-presets-web-compat-label =
+    .label = ᱣᱮᱵᱽ ᱠᱚᱢᱯᱮᱴ
 profiler-popup-presets-custom-label =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
 
@@ -288,6 +297,10 @@ appmenuitem-services-relay-description = ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱰᱮᱥᱵ�
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱢᱮ
 appmenu-services-header = ᱤᱧᱟᱜ ᱥᱮᱵᱟ ᱠᱚ
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Mozilla ᱠᱷᱚᱱ ᱮᱴᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱯᱟᱵ ᱠᱚ ᱪᱮᱥᱴᱟᱭ ᱢᱮ :
 appmenu-other-protection-header = { -vendor-short-name } ᱠᱷᱚᱱ ᱮᱴᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱯᱟᱵ ᱠᱚ ᱪᱮᱥᱴᱟᱭ ᱢᱮ :
 
 ## Profiles panel
@@ -295,6 +308,8 @@ appmenu-other-protection-header = { -vendor-short-name } ᱠᱷᱚᱱ ᱮᱴᱟ�
 appmenu-other-profiles = ᱮᱴᱟᱜ ᱯᱨᱚᱯᱷᱟᱭᱤᱞᱠᱚ
 appmenu-manage-profiles =
     .label = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+appmenu-copy-profile =
+    .label = ᱱᱚᱶᱟ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱱᱚᱠᱚᱞ ᱢᱮ
 appmenu-create-profile =
     .label = ᱱᱟᱶᱟ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ
 appmenu-edit-profile =
