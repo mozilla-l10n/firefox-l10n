@@ -1528,6 +1528,8 @@ content-blocking-etp-standard-tcp-title = Cookien erabateko babesa dauka, orain 
 content-blocking-warning-title = Argi!
 content-blocking-warning-title-2 = Zenbait gune apurtzea eragin lezake jarraipenaren babes zorrotzak
 content-blocking-warning-title-custom = Zenbait gune apurtzea eragin lezake jarraipenaren babes pertsonalizatuak
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name }(e)k gomendatzen du "Konpondu guneen arazoak" ezarpenak erabiltzea guneetako eginbide eta edukiak apurtzeko aukerak murrizteko. Gune batek apurtuta badirudi, saiatu gune horretarako jarraipenaren babesa desgaitzen eduki guztia karga dadin.
 content-blocking-and-isolating-etp-warning-description-2 = Hainbat webgunek edukiak ondo ez bistaratzea edo ondo ez ibiltzea eragin lezake ezarpen honek. Gune batek hondatua badirudi, gune horretarako jarraipenaren babesa desgaitu nahiko duzu eduki guztia karga dadin.
 content-blocking-warning-learn-how = Ikasi nola
 content-blocking-baseline-exceptions-3 =
