@@ -19,3 +19,8 @@ backup-folder-name = { -brand-product-name } ᱫᱚᱦᱲᱟ ᱛᱮ ᱫᱚᱦᱚ
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } ᱵᱮᱠᱚᱯ
+settings-data-backup-header = ᱵᱮᱠᱚᱯ
+settings-data-backup-toggle = ᱵᱮᱠᱚᱯ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+settings-data-backup-toggle-on = ᱵᱮᱠᱟᱯ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+settings-data-backup-trigger-button = ᱱᱤᱛᱚᱜ ᱵᱮᱠᱚᱯ ᱢᱮ
+settings-data-backup-in-progress-button = ᱵᱮᱠᱟᱯ ᱞᱟᱦᱟᱱᱛᱤ ᱨᱮ ...
