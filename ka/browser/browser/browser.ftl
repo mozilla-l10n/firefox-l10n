@@ -681,7 +681,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = მოძებნეთ { $name } საძიებოთი ან შეიყვანეთ მისამართი
+    .placeholder = საძიებოდ გამოიყენეთ { $name } ან შეიყვანეთ მისამართი
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".

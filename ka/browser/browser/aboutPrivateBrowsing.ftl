@@ -11,12 +11,12 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
+    .title = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
 about-private-browsing-handoff-no-engine =
     .title = მოძებნეთ ან შეიყვანეთ მისამართი
 # Variables
 #  $engine (String): the name of the user's default search engine
-about-private-browsing-handoff-text = მოძებნეთ { $engine } საძიებოთი ან შეიყვანეთ მისამართი
+about-private-browsing-handoff-text = საძიებოდ გამოიყენეთ { $engine } ან შეიყვანეთ მისამართი
 about-private-browsing-handoff-text-no-engine = მოძებნეთ ან შეიყვანეთ მისამართი
 about-private-browsing-not-private = ამჟამად პირად ფანჯარაში არ იმყოფებით.
 about-private-browsing-info-description-private-window = პირადი ფანჯარა: { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ჩანაწერებს ყველა პირადი ფანჯრის დახურვისას. მიუხედავად ამისა, ვერ დაფარავს თქვენს ვინაობას.
