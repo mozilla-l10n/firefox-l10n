@@ -855,17 +855,17 @@ home-prefs-recommended-by-header-generic =
     .label = Doporučené příběhy
 home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
 home-prefs-stories-header =
-    .label = Články
+    .label = Příběhy
 home-prefs-stories-description = Personalizované příběhy na základě vaší aktivity
 home-prefs-stories-header2 =
-    .label = Články
+    .label = Příběhy
     .description = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
 
 ##
 
 home-prefs-recommended-by-learn-more = Jak to funguje
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Sponzorované články
+    .label = Sponzorované příběhy
 home-prefs-recommended-by-option-recent-saves =
     .label = Zobrazit nedávno uložené
 home-prefs-highlights-option-visited-pages =
