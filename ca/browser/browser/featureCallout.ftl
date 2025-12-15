@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Vegeu una descripció breu, el tem
 sidebar-button-callout-title = Mostra els títols de les pestanyes a la barra lateral
 sidebar-button-callout-subtitle = Utilitzeu el botó de la barra lateral per a ampliar la barra lateral i poder veure els títols de les pestanyes.
 sidebar-button-callout-vertical-tabs = Per mostrar les vostres pestanyes, seleccioneu el botó de la barra lateral a la barra d’eines.
+sidebar-deprecation-callout-title = La barra lateral actualitzada estarà disponible aviat
+sidebar-deprecation-callout-subtitle = Estem eliminant gradualment la versió de la barra lateral que utilitzeu actualment. Proveu la barra lateral actualitzada. És més ràpida i tindreu accés a més eines.
+sidebar-deprecation-cta-button = Proveu-la ara
 
 ## Sidebar Vertical Tabs Strings
 
