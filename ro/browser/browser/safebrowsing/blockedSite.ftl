@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Site-ul este înșelător
 safeb-blocked-malware-page-title = Vizitarea acestui site web poate dăuna calculatorului
 safeb-blocked-unwanted-page-title = Site-ul pe care urmează să îl accesezi poate conține programe dăunătoare
 safeb-blocked-harmful-page-title = Site-ul pe care urmează să îl accesezi poate conține programe rău intenționate
+safeb-blocked-addon-page-title = Site blocat pentru siguranța ta
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } a blocat această pagină deoarece te-ar putea păcăli să faci ceva periculos, cum ar fi să instalezi programare sau să divulgi informații cu caracter personal precum parole sau carduri de credit.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } a blocat această pagină deoarece ar putea încerca să instaleze programe rău intenționate care pot fura sau ștarge informații cu caracter personal de pe calculator.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } a blocat această pagină deoarece ar putea să încerce să te păcălească să instalezi programe care dăunează experienței de navigare (de exemplu, prin schimbarea paginii de start sau prin afișarea de reclame suplimentare pe site-urile pe care le vizitezi).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } a blocat această pagină deoarece ar putea să încerce să instaleze programe periculoase care fură sau șterg informațiile tale (de exemplu, fotografii, parole, mesaje și carduri de credit).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } a blocat pagina pentru că unul dintre suplimentele tale a încercat să o deschidă. Site-ul ar putea fi utilizat ca să îți fure informațiile — cum ar fi parole sau numere de carduri.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Avertismente furnizate de <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Află mai multe despre protecția împot
 safeb-palm-notdeceptive =
     .label = Nu este un site înșelător…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>De ce a fost blocat acest site?</strong>
+safeb-blocked-addon-page-error-desc2-override = E posibil ca <strong>{ $sitename }</strong> să fie asociat cu activități înșelătoare și dăunătoare.
+safeb-blocked-addon-page-error-desc3-override = <strong>Ce poți face?</strong>
+safeb-blocked-addon-page-error-desc4-override = Ca să nu se mai întâmple, poți elimina sau dezactiva <strong>{ $addonName }</strong> din about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Află mai multe despre protecția împotriva phishingului și programelor rău intenționate oferită de { -brand-short-name }</a>.

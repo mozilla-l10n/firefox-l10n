@@ -567,6 +567,10 @@ update-in-progress-cancel-button = &Continuă
 support-application-heading =
     .label = Asistență { -brand-short-name }
     .description = Depanează probleme sau împărtășește idei cu comunitatea.
+support-get-help =
+    .label = Obține ajutor
+support-share-ideas =
+    .label = Împărtășește idei și feedbackuri
 
 ## General Section - Performance
 
@@ -827,6 +831,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Afișează termenii de căutare în bara de adrese din paginile cu rezultate
+search-separate-default-engine-2 =
+    .label = Folosește alt motor de căutare implicit în ferestrele private
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Motor de căutare implicit în ferestrele private
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -976,6 +985,10 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Sincronizezi aceste elemente pe toate dispozitivele tale conectate:
+sync-syncing-across-devices-heading-2 = Date sincronizate pe dispozitive
+sync-syncing-across-devices-empty-state =
+    .label = Nu sincronizezi nimic… încă.
+    .description = Începe să sincronizezi ca să obții toate datele pe toate dispozitivele.
 sync-currently-syncing-bookmarks = Marcaje
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = File deschise
