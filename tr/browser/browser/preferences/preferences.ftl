@@ -559,6 +559,8 @@ update-in-progress-cancel-button = &Devam et
 support-application-heading =
     .label = { -brand-short-name } desteği
     .description = Sorunları giderin ve fikirlerinizi topluluğumuzla paylaşın.
+support-get-help =
+    .label = Yardım al
 support-share-ideas =
     .label = Fikirlerinizi ve görüşlerinizi paylaşın
 

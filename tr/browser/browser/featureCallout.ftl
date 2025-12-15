@@ -160,6 +160,7 @@ sidebar-button-callout-title = Sekme başlıklarını kenar çubuğunda göster
 sidebar-button-callout-subtitle = Sekme başlıklarını görmek için kenar çubuğu düğmesini kullanarak kenar çubuğunu genişletin.
 sidebar-button-callout-vertical-tabs = Sekmelerinizi göstermek için araç çubuğundaki kenar çubuğu düğmesine tıklayın.
 sidebar-deprecation-callout-title = Güncellenmiş kenar çubuğu yakında geliyor
+sidebar-deprecation-callout-subtitle = Şu anda kullandığınız kenar çubuğu sürümünü yakında kaldıracağız. Güncellenmiş kenar çubuğunu deneyin: Hem daha hızlı hem de daha fazla araca erişmenizi sağlıyor.
 sidebar-deprecation-cta-button = Hemen dene
 
 ## Sidebar Vertical Tabs Strings

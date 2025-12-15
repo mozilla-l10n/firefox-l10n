@@ -76,6 +76,10 @@ fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { $hostname } için sağlanan sertifika iptal edildiği için ve artık güvenilir olmadığı için { -brand-short-name } bu site konusunda sizi uyarıyor.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Bu site yalnızca güvenli bağlantılara izin verecek şekilde ayarlanmış ama sitenin sertifikasında bir sorun var. Kötü niyetli birisi siteyi taklit etmeye çalışıyor olabilir. Siteler gerçekten o site olduklarını kanıtlamak için sertifika makamlarının verdiği sertifikaları kullanır. Bu sitenin sertifikası { $hostname } adresi için geçerli olmadığından { -brand-short-name } bu siteye güvenmiyor. Sertifika yalnızca { $validHosts } için geçerli.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

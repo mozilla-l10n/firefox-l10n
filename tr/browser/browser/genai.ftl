@@ -245,7 +245,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = Yapay zekânın sayfanın başlangıcını okuyup önemli noktaları oluşturmasına izin ver
 link-preview-settings-long-press =
-    .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tutun
+    .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tut
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Yapay zekâyla daha fazlasını görmek ister misiniz?
 # Message that appears when user is shown the opt-in flow for link previews
