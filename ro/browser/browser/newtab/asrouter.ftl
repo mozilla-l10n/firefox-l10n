@@ -434,3 +434,11 @@ set-default-menu-message-simple-layout-title = { -brand-short-name } nu este bro
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nu este browserul tău principal
 set-default-menu-message-row-layout-title = Setează { -brand-short-name } ca browser principal
 set-default-menu-message-row-layout-title-variant = Setează { -brand-short-name } ca browser implicit
+set-default-menu-message-row-layout-subtitle = Obține viteză, siguranță și confidențialitate de fiecare dată când navighezi.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Păstrează { -brand-short-name } la îndemână — setează-l ca browser implicit și ține-l în Dock.
+       *[other] Păstrează { -brand-short-name } la îndemână — setează-l ca browser implicit și ține-l în bara de sarcini.
+    }
+set-default-menu-message-primary-button = Setează ca implicit
+set-default-menu-message-primary-button-variant = Setează ca browser primar

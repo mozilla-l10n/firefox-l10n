@@ -562,6 +562,12 @@ update-in-progress-ok-button = Înlătură
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuă
 
+## Firefox support
+
+support-application-heading =
+    .label = Asistență { -brand-short-name }
+    .description = Depanează probleme sau împărtășește idei cu comunitatea.
+
 ## General Section - Performance
 
 performance-title = Performanță
