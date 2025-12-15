@@ -70,7 +70,7 @@ about-private-browsing-cookie-banners-promo-button = Cookieje chórgoje reducěr
 about-private-browsing-cookie-banners-promo-message = Dajśo { -brand-short-name } za was awtomatiski na cookiejowe wuskokujuce wokna wótegroniś, aby wy se k pśeglědowanjeju bźez wótchylenja wrośił. { -brand-short-name } wšykne napšašowanja wótpokažo, jolic móžno.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
-about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }  se za was wó cookiejowe chórgoje stara
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se za was wó cookiejowe chórgoje stara
 about-private-browsing-cookie-banners-promo-body = Něnto wjele cookiejowych chórgojow awtomatiski wótpokazujomy, aby was mjenjej slědował a aby wy se wrośił k pśeglědowanjeju bźez wótchylenja.
 
 ## Strings for Felt Privacy v1 experiments in 119
