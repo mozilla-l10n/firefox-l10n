@@ -60,6 +60,7 @@ pane-experimental-description2 = Cambiar los ajustes de configuración avanzada 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = ¡Prueba nuestras funcionalidades experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre tu uso de estas funciones si tienes activada la funcionalidad de <a data-l10n-name="data-collection">datos técnicos y de interacción</a>.
 pane-experimental-description3 = ¡Prueba nuestras funcionalidades experimentales! Están en desarrollo y evolucionando, lo que podría afectar como funciona { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
@@ -154,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Advertir al salir del navegador
 disable-extension =
     .label = Desactivar extensión
+preferences-data-migration-group =
+    .label = Importar datos del navegador
+    .description = Trae tus marcadores, contraseñas, historial, extensiones y datos de autocompletado desde otro navegador.
 preferences-data-migration-header = Importar datos del navegador
 preferences-data-migration-description = Importa marcadores, contraseñas, historial y datos de autocompletado en { -brand-short-name }.
 preferences-data-migration-button =
@@ -173,6 +177,10 @@ preferences-manage-profiles-button =
     .label = Gestionar perfiles
 preferences-profiles-settings-button =
     .label = Ajustes
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copiar un perfil existente
+    .description = El neuvo perfil copiará tus ajustes, complementos, historial y datos guardados como marcadores y contraseñas — pero no tu info de cuenta o sincronización.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -553,6 +561,9 @@ update-in-progress-cancel-button = &Continuar
 
 ## Firefox support
 
+support-application-heading =
+    .label = Soporte de { -brand-short-name }
+    .description = Soluciona problemas o comparte ideas con la comunidad.
 support-get-help =
     .label = Obtener ayuda
 support-share-ideas =
@@ -610,6 +621,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar controles de video picture-in-picture
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Sigue reproduciendo vídeos en modo Imagen dentro imagen al cambiar de pestaña
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Aprender más
 browsing-media-control =
     .label = Controlar medios a través del teclado, auriculares o interfaz virtual
@@ -813,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostrar términos de búsqueda en la barra de direcciones en las páginas de resultados
+search-separate-default-engine-2 =
+    .label = Utiliza un motor de búsqueda predeterminado diferente en ventanas privadas
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Motor de búsqueda predeterminado en ventanas privadas
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -962,6 +981,9 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Estás sincronizando estos elementos entre todos tus dispositivos conectados:
+sync-syncing-across-devices-empty-state =
+    .label = No estás sincronizando nada… todavía.
+    .description = Empieza a sincronizar para tener todos tus datos en todos tus dispositivos.
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestañas abiertas
@@ -1094,6 +1116,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Solicitar guardar contraseñas
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = Administrar excepciones de contraseña
+    .accesskey = M
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -1124,12 +1149,28 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Completar nombres de usuario y contraseñas automáticamente
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Guardar y completar automáticamente nombres de usuario y contraseñas
+    .accesskey = f
 forms-saved-passwords =
     .label = Contraseñas guardadas
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Gestionar contraseñas guardadas
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Las credenciales para los siguientes sitios son almacenadas en tu computador
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protecciones adicionales
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
+forms-primary-pw-set =
+    .label = Establecer contraseña primaria
+forms-primary-pw-on =
+    .label = La contraseña principal está activada
+forms-primary-pw-change-2 =
+    .label = Cambiar contraseña primaria
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = Desactivar
@@ -1633,6 +1674,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-header2 =
+    .label = Permisos
+    .description = Permisos que otorgas a los sitios web que navegas.
 permissions-location2 =
     .label = Ubicación
 permissions-localhost2 =

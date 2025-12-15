@@ -63,3 +63,11 @@ safeb-blocked-harmful-page-learn-more = Aprende más sobre la protección de phi
 safeb-palm-notdeceptive =
     .label = Este no es un sitio fraudulento…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>¿Por qué fue bloqueado este sitio?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> puede estar vinculado a actividades engañosas y dañinas.
+safeb-blocked-addon-page-error-desc3-override = <strong>¿Qué puedes hacer al respecto?</strong>
