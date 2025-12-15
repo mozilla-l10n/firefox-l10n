@@ -432,5 +432,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } no 
 set-default-menu-message-row-layout-title = Hacer de { -brand-short-name } tu navegador principal
 set-default-menu-message-row-layout-title-variant = Hacer de { -brand-short-name } tu navegador predeterminado
 set-default-menu-message-row-layout-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Mantenga { -brand-short-name } al alcance de tus dedos — hazlo tu predeterminado y mantenlo en tu Dock.
+       *[other] Mantenga { -brand-short-name } al alcance de tus dedos — hazlo tu predeterminado y mantenlo en tu barra de tareas.
+    }
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador primario

@@ -1593,3 +1593,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitió { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están intentando minar criptomonedas:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado en este sitio
+       *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados en este sitio
+    }

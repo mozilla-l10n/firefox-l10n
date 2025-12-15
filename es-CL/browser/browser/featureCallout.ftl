@@ -160,6 +160,7 @@ sidebar-button-callout-title = Mostrar títulos de pestañas en la barra lateral
 sidebar-button-callout-subtitle = Utiliza el botón de la barra lateral para expandir la barra lateral, de modo que puedas ver los títulos de las pestañas.
 sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el botón de la barra lateral en la barra de herramientas.
 sidebar-deprecation-callout-title = Barra lateral actualizada próximamente
+sidebar-deprecation-callout-subtitle = Estamos eliminando gradualmente la versión de barra lateral que usas actualmente. Prueba la barra lateral actualizada. Es más rápida y te da acceso a más herramientas.
 sidebar-deprecation-cta-button = Pruébalo ahora
 
 ## Sidebar Vertical Tabs Strings
