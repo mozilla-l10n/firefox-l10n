@@ -163,6 +163,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-header = Elimina la protecció amb contrasenya
 disable-backup-encryption-description2 = Tampoc es faran còpies de seguretat de les contrasenyes i els mètodes de pagament desats.
 disable-backup-encryption-support-link = De què es farà una còpia de seguretat?
 disable-backup-encryption-cancel-button = Cancel·la

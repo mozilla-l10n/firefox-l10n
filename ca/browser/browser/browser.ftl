@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Afegeix la pàgina a les adreces d'interès ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vista dividida
+    .aria-label = Vista dividida
 
 ## Page Action Context Menu
 
@@ -835,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = No mostris suggeriments dels mercats
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Gràcies pels vostres comentaris. Ja no veureu suggeriments dels mercats.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Suggeriments del mercat de valors
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gràcies pels vostres comentaris. Ja no veureu aquests suggeriments.
@@ -926,6 +932,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = No s'ha seleccionat cap drecera, trieu una drecera
     .tooltiptext = No s'ha seleccionat cap drecera, trieu una drecera
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La cerca de paraules clau està desactivada
+    .tooltiptext = La cerca de paraules clau està desactivada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
