@@ -563,6 +563,8 @@ update-in-progress-cancel-button = &Fortset
 
 support-get-help =
     .label = Få hjelp
+support-share-ideas =
+    .label = Del idear og tilbakemeldingar
 
 ## General Section - Performance
 
@@ -822,6 +824,8 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Vis søkjeord i adressefeltet på resultatsidene
+search-separate-default-engine-dropdown =
+    .aria-label = Standard søkjemotor i private vindauge
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

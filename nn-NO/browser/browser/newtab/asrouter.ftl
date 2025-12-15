@@ -427,5 +427,6 @@ etp-strict-exceptions-infobar-not-now = Ikkje no
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } er ikkje standard nettlesar
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } er ikkje den primære nettlesaren din
 set-default-menu-message-primary-button = Vel som standard
 set-default-menu-message-primary-button-variant = Vel som primærnettlesar
