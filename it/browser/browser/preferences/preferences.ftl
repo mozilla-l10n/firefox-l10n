@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Le impostazioni per l’aspetto dei siti web sono sostituite dalle attuali impostazioni per il contrasto.
 preferences-web-appearance-link =
     .label = Gestisci i temi di { -brand-short-name } in Estensioni e temi
+preferences-contrast-control-group =
+    .label = Contrasto nei siti web
+    .description = I siti web utilizzano diversi colori per primo piano e sfondo. Se preferisci mantenere un contrasto costante, puoi applicare gli stessi colori in tutti i siti web.
+preferences-contrast-control-radio-group =
+    .label = Sostituisci colori
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
