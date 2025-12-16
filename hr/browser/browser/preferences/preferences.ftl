@@ -562,6 +562,13 @@ update-in-progress-ok-button = O&dbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+support-get-help =
+    .label = Dobij pomoć
+support-share-ideas =
+    .label = Dijeli ideje i povratne informacije
+
 ## General Section - Performance
 
 performance-title = Performanca
@@ -821,6 +828,8 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Prikaži pojmove pretraživanja u adresnoj traci na stranicama s rezultatima
+search-separate-default-engine-dropdown =
+    .aria-label = Zadana tražilica u privatnim prozorima
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -970,6 +979,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Ove stavke sinkroniziraš na svim svojim povezanim uređajima:
+sync-syncing-across-devices-heading-2 = Podaci su sinkronizirani na svim uređajima
 sync-currently-syncing-bookmarks = Zabilješke
 sync-currently-syncing-history = Povijest
 sync-currently-syncing-tabs = Otvorene kartice

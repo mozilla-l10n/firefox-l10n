@@ -415,3 +415,13 @@ etp-strict-exceptions-infobar-button = Primijeni ispravke
     .accesskey = a
 etp-strict-exceptions-infobar-not-now = Ne sada
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } trenutačno nije tvoj standardni preglednik
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nije tvoj primarni preglednik
+set-default-menu-message-row-layout-title = Postavi { -brand-short-name } kao svoj primarni preglednik
+set-default-menu-message-row-layout-title-variant = Postavi { -brand-short-name } kao svoj zadani preglednik
+set-default-menu-message-row-layout-subtitle = Dobij brzinu, sigurnost i privatnost pri svakom pregledavanju.
+set-default-menu-message-primary-button = Postavi kao zadano
+set-default-menu-message-primary-button-variant = Postavi kao primarni preglednik

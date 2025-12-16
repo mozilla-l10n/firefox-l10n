@@ -120,6 +120,7 @@ policy-PostQuantumKeyAgreementEnabled = Aktiviraj postkvantni dogovor ključa za
 policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name(case: "loc") }.
 policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-PictureInPicture = Aktiviraj ili deaktiviraj funkciju „Slika-u-slici”.
+policy-PopupBlocking2 = Dopusti određenim web-stranicama prikazivanje skočnih prozora i preusmjeravanje putem okvira trećih strana.
 policy-PopupBlocking = Dozvoli određenim web-stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
 policy-PrivateBrowsingModeAvailability = Postavi dostupnost modusa privatnog pregledavanja.
@@ -142,6 +143,7 @@ policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik p
 policy-TranslateEnabled = Uključi ili isključi prevođenje web stranica.
 policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 policy-UseSystemPrintDialog = Ispiši pomoću dijaloškog prozora sustava …
+policy-VisualSearchEnabled = Uključi ili isključi vizualno pretraživanje.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokiraj posjećivanje web-stranica. Prouči dokumentaciju za daljnje detalje o formatu.
 policy-Windows10SSO = Dozvoli jednokratnu prijavu na Windows za Microsoftove, poslovne i školske račune.
