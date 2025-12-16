@@ -899,6 +899,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Sil
 
+## Account and sync
+
+sync-group-label =
+    .label = Eşitleme
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -970,8 +975,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Şimdi eşitle
     .accesskey = m
+prefs-sync-now-button-2 =
+    .label = Şimdi eşitle
+    .accesskey = m
 prefs-syncing-button =
     .label = Eşitleniyor…
+prefs-syncing-button-2 =
+    .label = Eşitleniyor…
+    .title = Şimdi eşitle
 
 ## The list of things currently syncing.
 
@@ -1071,6 +1082,8 @@ sync-device-name-save =
     .label = Kaydet
     .accesskey = K
 sync-connect-another-device = Başka bir cihaz bağla
+sync-connect-another-device-2 =
+    .label = Başka bir cihaz bağla
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
