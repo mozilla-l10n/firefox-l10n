@@ -382,6 +382,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Peudeuih saran mita lam hasé kutak alamat
     .accesskey = d
+search-suggestions-cant-show-2 =
+    .message = Saran mita hana geupeudeuih lam hasé kutak teumpat keureuna droeneuh ka neuatô { -brand-short-name } mangat bèk jiingat riwayat
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
