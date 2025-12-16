@@ -972,8 +972,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synkronoi nyt
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Synkronoi nyt
+    .accesskey = N
 prefs-syncing-button =
     .label = Synkronoidaan…
+prefs-syncing-button-2 =
+    .label = Synkronoidaan…
+    .title = Synkronoi nyt
 
 ## The list of things currently syncing.
 
@@ -1072,6 +1078,8 @@ sync-device-name-save =
     .label = Tallenna
     .accesskey = T
 sync-connect-another-device = Yhdistä toinen laite
+sync-connect-another-device-2 =
+    .label = Yhdistä toinen laite
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
