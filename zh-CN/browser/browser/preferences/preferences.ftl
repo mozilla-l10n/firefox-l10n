@@ -955,8 +955,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 立即同步
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 立即同步
+    .accesskey = N
 prefs-syncing-button =
     .label = 正在同步...
+prefs-syncing-button-2 =
+    .label = 正在同步...
+    .title = 立即同步
 
 ## The list of things currently syncing.
 
