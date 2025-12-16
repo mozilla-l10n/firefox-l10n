@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Aurreratua…
     .accesskey = u
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zooma
+preferences-default-zoom-label =
+    .label = Zoom lehenetsia
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zooma
 preferences-default-zoom = Zoom lehenetsia
     .accesskey = Z
