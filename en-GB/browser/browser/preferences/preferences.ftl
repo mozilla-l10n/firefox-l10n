@@ -1095,6 +1095,8 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 sync-connect-another-device = Connect another device
+sync-connect-another-device-2 =
+    .label = Connect another device
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
