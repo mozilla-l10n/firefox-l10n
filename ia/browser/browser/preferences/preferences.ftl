@@ -1285,6 +1285,8 @@ autofill-payment-methods-add-button = Adder nove methodo de pagamento
 payments-list-header =
     .label = Methodos de pagamento
 payments-list-item-label = <strong>Methodos de pagamento</strong>
+payments-delete-payment-prompt-confirm-button = Deler
+payments-delete-payment-prompt-cancel-button = Cancellar
 payments-remove-payment-prompt-title = Remover iste methodo de pagamento?
 payments-remove-payment-prompt-confirm-button = Remover
 payments-remove-payment-prompt-cancel-button = Cancellar
@@ -1297,6 +1299,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gerer adresses e plus
     .accesskey = G
+addresses-list-header =
+    .label = Adresses
+addreses-delete-address-button-label =
+    .aria-label = Deler
+addreses-edit-address-button-label =
+    .aria-label = Rediger
+addresses-delete-address-prompt-title = Deler iste adresses?
+addresses-delete-address-prompt-confirm-button = Deler
+addresses-delete-address-prompt-cancel-button = Cancellar
+autofill-addresses-add-button = Adder nove adresse
+autofill-addresses-manage-addresses-title =
+    .heading = Gerer adresses e plus
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1490,6 +1511,9 @@ addressbar-locbar-engines-option =
     .accesskey = o
 addressbar-locbar-quickactions-option =
     .label = Actiones rapide
+    .accesskey = r
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Recercas recente
     .accesskey = r
 addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 addressbar-locbar-showrecentsearches-option =
