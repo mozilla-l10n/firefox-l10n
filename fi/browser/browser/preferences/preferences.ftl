@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Lisäasetukset…
     .accesskey = a
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Suurennus
+preferences-default-zoom-label =
+    .label = Oletuskoko
+    .accesskey = O
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Suurennus
 preferences-default-zoom = Oletuskoko
     .accesskey = O
