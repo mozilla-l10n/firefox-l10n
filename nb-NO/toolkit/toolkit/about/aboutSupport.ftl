@@ -136,6 +136,7 @@ place-database-verify-integrity = Verifiser integritet
 place-database-last-idle-maintenance-data = Siste dato for vedlikehold i inaktiv periode
 # Vacuum refers to a type of database maintenance process
 place-database-last-vacuum-date = Siste databaseopprydding
+place-database-last-integrity-corruption-date = Siste dato for integritetskorrupsjon
 a11y-title = Tilgjengelighet
 a11y-activated = Aktivert
 a11y-force-disabled = Forhindre tilgjengelighet
