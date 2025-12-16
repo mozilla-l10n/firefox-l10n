@@ -960,6 +960,9 @@ prefs-syncing-off = დასინქრონება: გამორ.
 prefs-sync-turn-on-syncing =
     .label = დასინქრონების ჩართვა…
     .accesskey = ქ
+prefs-sync-turn-on-syncing-2 =
+    .label = დასინქრონების ჩართვა
+    .accesskey = ქ
 prefs-sync-offer-setup-label2 = დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
 prefs-sync-now =
     .labelnotsyncing = დასინქრონება ახლავე
@@ -968,8 +971,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = დასინქრონება ახლავე
     .accesskey = ნ
+prefs-sync-now-button-2 =
+    .label = დასინქრონება ახლავე
+    .accesskey = ნ
 prefs-syncing-button =
     .label = სინქრონდება...
+prefs-syncing-button-2 =
+    .label = სინქრონდება...
+    .title = დასინქრონება ახლავე
 
 ## The list of things currently syncing.
 
@@ -1070,6 +1079,8 @@ sync-device-name-save =
     .label = შენახვა
     .accesskey = ე
 sync-connect-another-device = სხვა მოწყობილობასთან დაკავშირება
+sync-connect-another-device-2 =
+    .label = სხვა მოწყობილობასთან დაკავშირება
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
