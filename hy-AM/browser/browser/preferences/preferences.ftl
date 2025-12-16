@@ -949,6 +949,8 @@ sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
 sync-connect-another-device = Կապվել այլ սարքի
+sync-connect-another-device-2 =
+    .label = Կապվել այլ սարքի
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
