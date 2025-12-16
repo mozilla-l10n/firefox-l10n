@@ -968,6 +968,8 @@ sync-device-name-save =
     .label = Simpan
     .accesskey = S
 sync-connect-another-device = Hubungkan perangkat lain
+sync-connect-another-device-2 =
+    .label = Hubungkan perangkat lain
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
