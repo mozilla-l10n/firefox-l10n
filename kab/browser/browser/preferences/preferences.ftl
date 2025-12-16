@@ -322,6 +322,9 @@ default-font-size = Teɣzi
 advanced-fonts =
     .label = Talqayt…
     .accesskey = l
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Semɣeṛ/Semẓi
 preferences-default-zoom-label =
     .label = Zoom awurman
     .accesskey = Z
