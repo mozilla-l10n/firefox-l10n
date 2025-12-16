@@ -269,6 +269,12 @@ advanced-fonts =
     .label = Paplašināti…
     .accesskey = p
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Mērogs
+preferences-default-zoom-label =
+    .label = Noklusējuma mērogs
+    .accesskey = m
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Mērogs
 preferences-default-zoom = Noklusējuma mērogs
     .accesskey = m
