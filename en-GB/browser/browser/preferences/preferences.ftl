@@ -882,9 +882,9 @@ remove-engine-confirmation = Are you sure you want to remove this search engine?
 remove-engine-remove = Remove
 remove-addon-engine-alert = To remove this search engine, remove the associated add-on.
 search-engine-group =
-    .label = Default Search Engine
+    .label = Default search engine
 search-default-engine =
-    .aria-label = Default Search Engine
+    .aria-label = Default search engine
 
 ## Containers Section
 
