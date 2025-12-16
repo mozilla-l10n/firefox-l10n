@@ -824,6 +824,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Prijedlozi za pretraživanje se neće prikazati u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
