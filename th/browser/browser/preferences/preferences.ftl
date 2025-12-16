@@ -878,6 +878,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = การซิงค์
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
