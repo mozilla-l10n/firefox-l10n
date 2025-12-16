@@ -792,7 +792,11 @@ home-prefs-mission-message-learn-more-link = Μάθετε πώς
 home-prefs-mission-message2 =
     .message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο.
 home-prefs-manage-topics-link = Διαχείριση θεμάτων
+home-prefs-manage-topics-link2 =
+    .label = Διαχείριση θεμάτων
 home-prefs-choose-wallpaper-link = Επιλογή ταπετσαρίας
+home-prefs-choose-wallpaper-link2 =
+    .label = Επιλογή ταπετσαρίας
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
