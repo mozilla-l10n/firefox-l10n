@@ -908,6 +908,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Elimină
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -971,6 +974,9 @@ prefs-syncing-off = Sincronizare: DEZACTIVATĂ
 prefs-sync-turn-on-syncing =
     .label = Activează sincronizarea...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activează sincronizarea
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 prefs-sync-now =
     .labelnotsyncing = Sincronizează acum
@@ -979,8 +985,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizează acum
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizează acum
+    .accesskey = N
 prefs-syncing-button =
     .label = Se sincronizează…
+prefs-syncing-button-2 =
+    .label = Se sincronizează…
+    .title = Sincronizează acum
 
 ## The list of things currently syncing.
 
@@ -1065,6 +1077,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Numele dispozitivului
+sync-device-name-header-2 =
+    .label = Numele dispozitivului
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
