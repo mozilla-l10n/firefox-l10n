@@ -412,6 +412,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = தேடல் பரிந்துரைகளை இடப்பட்டை முடிவுகளில் காண்பி
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் { -brand-short-name } என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
