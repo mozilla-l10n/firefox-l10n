@@ -611,6 +611,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Aadressiriba tulemustes kuvatakse otsingusoovitusi
     .accesskey = k
+search-suggestions-cant-show-2 =
+    .message = Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest { -brand-short-name } ei ole häälestatud ajalugu säilitama.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
