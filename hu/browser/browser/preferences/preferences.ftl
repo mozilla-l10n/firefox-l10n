@@ -906,6 +906,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Szinkronizálás
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -969,6 +971,9 @@ prefs-syncing-on = Szinkronizálás: BE
 prefs-syncing-off = Szinkronizálás: KI
 prefs-sync-turn-on-syncing =
     .label = Szinkronizálás bekapcsolása…
+    .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Szinkronizálás bekapcsolása
     .accesskey = S
 prefs-sync-offer-setup-label2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 prefs-sync-now =
@@ -1070,6 +1075,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Eszköznév
+sync-device-name-header-2 =
+    .label = Eszköznév
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
