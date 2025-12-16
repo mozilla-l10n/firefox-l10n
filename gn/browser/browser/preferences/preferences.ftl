@@ -887,6 +887,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Mboguete
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -949,6 +952,9 @@ prefs-syncing-on = Ñembojuehe: ON
 prefs-syncing-off = Ñembojuehe: OFF
 prefs-sync-turn-on-syncing =
     .label = Emyandy ñembojuehe…
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Emyandy ñembojuehe
     .accesskey = s
 prefs-sync-offer-setup-label2 = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha ñemoĩporã opaite ne mba’e’okápe.
 prefs-sync-now =
