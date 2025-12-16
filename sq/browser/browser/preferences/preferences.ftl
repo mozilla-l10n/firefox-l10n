@@ -1043,6 +1043,8 @@ sync-device-name-save =
     .label = Ruaje
     .accesskey = u
 sync-connect-another-device = Lidhni tjetër pajisje
+sync-connect-another-device-2 =
+    .label = Lidhni tjetër pajisje
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
