@@ -321,6 +321,12 @@ advanced-fonts =
     .label = Avantzadas…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Ingrandimentu
+preferences-default-zoom-label =
+    .label = Predefinidu
+    .accesskey = P
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ingrandimentu
 preferences-default-zoom = Predefinidu
     .accesskey = P
