@@ -783,7 +783,11 @@ home-prefs-mission-message-learn-more-link = 방법 알아보기
 home-prefs-mission-message2 =
     .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
 home-prefs-manage-topics-link = 주제 관리
+home-prefs-manage-topics-link2 =
+    .label = 주제 관리
 home-prefs-choose-wallpaper-link = 배경 화면 선택
+home-prefs-choose-wallpaper-link2 =
+    .label = 배경 화면 선택
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
