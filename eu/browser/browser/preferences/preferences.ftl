@@ -904,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Kendu
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinkronizazioa
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +972,9 @@ prefs-syncing-off = Sinkronizazioa: inaktibo
 prefs-sync-turn-on-syncing =
     .label = Gaitu sinkronizazioa…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Gaitu sinkronizazioa
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta ezarpenak zure gailu guztien artean.
 prefs-sync-now =
     .labelnotsyncing = Sinkronizatu orain
@@ -975,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinkronizatu orain
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sinkronizatu orain
+    .accesskey = S
 prefs-syncing-button =
     .label = Sinkronizatzen…
+prefs-syncing-button-2 =
+    .label = Sinkronizatzen…
+    .title = Sinkronizatu orain
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1075,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Gailuaren izena
+sync-device-name-header-2 =
+    .label = Gailuaren izena
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
