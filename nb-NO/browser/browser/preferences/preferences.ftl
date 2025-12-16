@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrastinnstillingene dine overstyrer nettstedets utseende.
 preferences-web-appearance-link =
     .label = Behandle { -brand-short-name }-temaer i Tillegg og temaer
+preferences-contrast-control-group =
+    .label = Nettstedskontrast
+    .description = Nettsteder bruker ulike forgrunns- og bakgrunnsfarger. For jevn kontrast kan du bruke de samme fargene på tvers av nettsteder.
+preferences-contrast-control-radio-group =
+    .label = Overstyr farger
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Fargevalgene dine overstyrer nettstedets utseende. <a data-l10n-name="colors-link">Behandle farger</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Vis søkeforslag i adresselinjens resultater
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Vis søkeforslag før nettleserhistorikk i adressefeltsresultatene
+search-show-suggestions-private-windows-2 =
+    .label = Søkeforslag i private vinduer
 search-suggestions-cant-show-2 =
     .message = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard søkemotor i private vinduer
+search-suggestions-header-2 =
+    .label = Søkemotorforslag
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Synkroniser bokmerker, historikk, faner, passord, 
 sync-signedout-account-signin3 =
     .label = Logg inn for å synkronisere…
     .accesskey = L
+sync-signedout-account-signin-4 =
+    .label = Logg på kontoen din for å starte synkroniseringen
+    .accesskey = o
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synkronisering: PÅ
+prefs-syncing-on-2 =
+    .label = Synkronisering er PÅ
 prefs-syncing-off = Synkronisering: AV
+prefs-syncing-off-2 =
+    .label = Synkronisering er AV
+    .description = Slå på synkronisering for å få bokmerkene, passordene, historikken og mer tilgjengelig på alle enhetene dine.
 prefs-sync-turn-on-syncing =
     .label = Slå på synkronisering…
     .accesskey = S
@@ -1023,6 +1047,9 @@ sync-currently-syncing-addons = Utvidelser
 sync-currently-syncing-settings = Innstillinger
 sync-manage-options =
     .label = Behandle synkronisering …
+    .accesskey = B
+sync-manage-options-2 =
+    .label = Behandle synkroniserte data
     .accesskey = B
 sync-change-options =
     .label = Endre…
@@ -1283,6 +1310,9 @@ autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåter
 payments-list-item-label = <strong>Betalingsmåter</strong>
+payments-delete-payment-prompt-title = Slette denne betalingsmåten?
+payments-delete-payment-prompt-confirm-button = Slett
+payments-delete-payment-prompt-cancel-button = Avbryt
 payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
 payments-remove-payment-prompt-confirm-button = Fjern
 payments-remove-payment-prompt-cancel-button = Avbryt
@@ -1295,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Behandle adresser og mer
     .accesskey = B
+addresses-list-header =
+    .label = Adresser
+addreses-delete-address-button-label =
+    .aria-label = Slett
+addreses-edit-address-button-label =
+    .aria-label = Rediger
+addresses-delete-address-prompt-title = Slette denne adressen?
+addresses-delete-address-prompt-confirm-button = Slett
+addresses-delete-address-prompt-cancel-button = Avbryt
+autofill-addresses-add-button = Legg til ny adresse
+autofill-addresses-manage-addresses-title =
+    .heading = Behandle adresser og mer
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nylige søk
+    .accesskey = y
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Populære søkeforslag
+    .accesskey = o
 addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylige søk

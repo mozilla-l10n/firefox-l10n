@@ -111,6 +111,11 @@ fp-learn-more-about-secure-connection-failures = Lærðu meira um bilanir í ör
 fp-learn-more-about-cert-issues = Lærðu meira um þessar tegundir vandamála með skilríki
 fp-learn-more-about-time-related-errors = Frekari upplýsingar um lagfæringar á tímatengdum villum
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-path-len-constraint-invalid = { -brand-short-name } lokaði fyrir heimsókn þína á þetta vefsvæði vegna þess að skilríkið sem gefið var upp fyrir { $hostname } er með of mörg milliskilríki í slóðinni að rótarskilríkinu.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Get ekki tengst

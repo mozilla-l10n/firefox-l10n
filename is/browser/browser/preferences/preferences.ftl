@@ -1139,6 +1139,7 @@ autofill-payment-methods-add-button = Bæta við nýjum greiðslumáta
 payments-list-header =
     .label = Greiðslumátar
 payments-list-item-label = <strong>Greiðslumátar</strong>
+payments-delete-payment-prompt-title = Eyða þessum greiðslumáta?
 payments-remove-payment-prompt-title = Fjarlægja þennan greiðslumáta?
 autofill-addresses-title = Heimilisföng og fleira
 autofill-addresses-header =
