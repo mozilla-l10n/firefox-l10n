@@ -795,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Ezagutu nola
 home-prefs-mission-message2 =
     .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
 home-prefs-manage-topics-link = Kudeatu gaiak
+home-prefs-manage-topics-link2 =
+    .label = Kudeatu gaiak
 home-prefs-choose-wallpaper-link = Aukeratu horma-papera
+home-prefs-choose-wallpaper-link2 =
+    .label = Aukeratu horma-papera
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
