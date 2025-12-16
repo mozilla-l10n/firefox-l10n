@@ -752,7 +752,11 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 home-prefs-mission-message-learn-more-link = Mësoni se si
 home-prefs-manage-topics-link = Administroni subjekte
+home-prefs-manage-topics-link2 =
+    .label = Administroni subjekte
 home-prefs-choose-wallpaper-link = Zgjidhni një sfond
+home-prefs-choose-wallpaper-link2 =
+    .label = Zgjidhni një sfond
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
