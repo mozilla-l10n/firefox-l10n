@@ -759,6 +759,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Синхронизација
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -820,6 +822,9 @@ prefs-syncing-off = Синхронизација: ИСКЉУЧЕНА
 prefs-sync-turn-on-syncing =
     .label = Укључи синхронизацију
     .accesskey = У
+prefs-sync-turn-on-syncing-2 =
+    .label = Укључи синхронизацију
+    .accesskey = У
 prefs-sync-offer-setup-label2 = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања са свим уређајима.
 prefs-sync-now =
     .labelnotsyncing = Синхронизуј
@@ -828,8 +833,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Синхронизуј
     .accesskey = С
+prefs-sync-now-button-2 =
+    .label = Синхронизуј
+    .accesskey = С
 prefs-syncing-button =
     .label = Синхронизовање…
+prefs-syncing-button-2 =
+    .label = Синхронизовање…
+    .title = Синхронизуј
 
 ## The list of things currently syncing.
 
@@ -892,6 +903,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Назив уређаја
+sync-device-name-header-2 =
+    .label = Назив уређаја
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
