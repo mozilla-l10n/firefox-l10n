@@ -736,6 +736,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Адрестер жолағы нәтижелерінде іздеу ұсыныстарын көрсету
     .accesskey = р
+search-suggestions-cant-show-2 =
+    .message = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
