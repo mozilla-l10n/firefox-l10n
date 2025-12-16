@@ -783,7 +783,11 @@ home-prefs-mission-message-learn-more-link = Eikuaa mba’éichapa
 home-prefs-mission-message2 =
     .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link = Eñangareko témare
+home-prefs-manage-topics-link2 =
+    .label = Eñangareko témare
 home-prefs-choose-wallpaper-link = Eiporavo mba’erechaha rugua
+home-prefs-choose-wallpaper-link2 =
+    .label = Eiporavo mba’erechaha rugua
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
