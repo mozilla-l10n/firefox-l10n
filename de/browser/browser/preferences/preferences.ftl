@@ -904,6 +904,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Löschen
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -975,8 +978,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Jetzt synchronisieren
     .accesskey = J
+prefs-sync-now-button-2 =
+    .label = Jetzt synchronisieren
+    .accesskey = J
 prefs-syncing-button =
     .label = Wird synchronisiert…
+prefs-syncing-button-2 =
+    .label = Wird synchronisiert…
+    .title = Jetzt synchronisieren
 
 ## The list of things currently syncing.
 
