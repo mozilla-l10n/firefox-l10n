@@ -521,6 +521,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -630,6 +633,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -798,6 +804,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Boga
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -861,6 +870,9 @@ prefs-syncing-off = Sincronizatzione disativada
 prefs-sync-turn-on-syncing =
     .label = Ativa sa sincronizatzione…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ativa sa sincronizatzione
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
 prefs-sync-now =
     .labelnotsyncing = Sincroniza immoe
@@ -869,8 +881,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincroniza immoe
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincroniza immoe
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizende…
+prefs-syncing-button-2 =
+    .label = Sincronizende…
+    .title = Sincroniza immoe
 
 ## The list of things currently syncing.
 
