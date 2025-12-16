@@ -959,6 +959,12 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
+search-suggestions-cant-show-2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name(case: "acc") } nastavili, aby si nikdy nepamatoval historii.
+           *[no-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
+        }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
