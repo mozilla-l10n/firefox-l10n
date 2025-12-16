@@ -423,6 +423,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Fanni vedde conseggi de riçerca tra i rizoltæ da bara di indirissi
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = I conseggi de riçerca no saian mostræ tra i exiti da-a bara di indirissi perché { -brand-short-name } o l'é inpostou pe no sarvâ a stöia.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
