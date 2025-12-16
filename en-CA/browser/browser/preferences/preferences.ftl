@@ -904,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Remove
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -966,6 +971,9 @@ prefs-syncing-on = Syncing: ON
 prefs-syncing-off = Syncing: OFF
 prefs-sync-turn-on-syncing =
     .label = Turn on syncing…
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Turn on syncing
     .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronize your bookmarks, history, tabs, passwords, add-ons, and settings across all your devices.
 prefs-sync-now =
