@@ -478,6 +478,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Amostrar as sucherencias de busqueda en os resultaus d'a barra d'adrezas
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o { -brand-short-name } pa que no recuerde nunca o historial.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
