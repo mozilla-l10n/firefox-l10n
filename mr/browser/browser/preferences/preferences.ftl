@@ -532,8 +532,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = आत्ता सिंक करा
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = आत्ता सिंक करा
+    .accesskey = N
 prefs-syncing-button =
     .label = सिंक करत आहे
+prefs-syncing-button-2 =
+    .label = सिंक करत आहे
+    .title = आत्ता सिंक करा
 
 ## The list of things currently syncing.
 
