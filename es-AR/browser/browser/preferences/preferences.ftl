@@ -904,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Eliminar
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1061,6 +1066,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nombre de dispositivo
+sync-device-name-header-2 =
+    .label = Nombre de dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
