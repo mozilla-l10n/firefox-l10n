@@ -724,6 +724,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque has configurado { -brand-short-name } para que nunca recuerde el historial.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
