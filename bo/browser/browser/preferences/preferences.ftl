@@ -350,6 +350,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = དྲ་གནས་ངོས་སུ་འཚོལ་བཤེར་གྱི་གསལ་འདེབས་སྟོན་པ།
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
