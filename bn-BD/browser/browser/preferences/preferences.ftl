@@ -458,6 +458,9 @@ containers-add-button =
 containers-remove-button =
     .label = অপসারণ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -534,6 +537,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ডিভাইসের নাম
+sync-device-name-header-2 =
+    .label = ডিভাইসের নাম
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
