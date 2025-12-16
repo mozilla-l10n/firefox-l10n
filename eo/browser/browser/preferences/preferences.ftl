@@ -963,8 +963,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Speguli nun
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Speguli nun
+    .accesskey = n
 prefs-syncing-button =
     .label = Spegulado...
+prefs-syncing-button-2 =
+    .label = Spegulado...
+    .title = Speguli nun
 
 ## The list of things currently syncing.
 
