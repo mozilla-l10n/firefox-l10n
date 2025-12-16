@@ -517,6 +517,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -623,6 +626,9 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -776,6 +782,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Премахване
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -839,6 +850,9 @@ prefs-syncing-off = Синхронизиране: ИЗКЛЮЧЕНО
 prefs-sync-turn-on-syncing =
     .label = Включване синхронизиране
     .accesskey = с
+prefs-sync-turn-on-syncing-2 =
+    .label = Включване синхронизиране
+    .accesskey = с
 prefs-sync-offer-setup-label2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 prefs-sync-now =
     .labelnotsyncing = Синхронизиране
@@ -847,8 +861,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Синхронизиране
     .accesskey = с
+prefs-sync-now-button-2 =
+    .label = Синхронизиране
+    .accesskey = с
 prefs-syncing-button =
     .label = Синхронизиране…
+prefs-syncing-button-2 =
+    .label = Синхронизиране…
+    .title = Синхронизиране
 
 ## The list of things currently syncing.
 
@@ -929,6 +949,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Име на текущото устройство
+sync-device-name-header-2 =
+    .label = Име на текущото устройство
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
