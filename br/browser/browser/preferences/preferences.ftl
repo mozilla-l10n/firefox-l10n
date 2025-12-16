@@ -846,6 +846,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Anv an trevnad
+sync-device-name-header-2 =
+    .label = Anv an trevnad
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
