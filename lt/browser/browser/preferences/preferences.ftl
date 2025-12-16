@@ -843,6 +843,8 @@ sync-device-name-save =
     .label = Įrašyti
     .accesskey = r
 sync-connect-another-device = Susieti kitą įrenginį
+sync-connect-another-device-2 =
+    .label = Susieti kitą įrenginį
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
