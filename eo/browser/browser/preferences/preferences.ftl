@@ -782,7 +782,11 @@ home-prefs-mission-message-learn-more-link = Malkovri kiel
 home-prefs-mission-message2 =
     .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-manage-topics-link = Administri temojn
+home-prefs-manage-topics-link2 =
+    .label = Administri temojn
 home-prefs-choose-wallpaper-link = Elekti ekranfonon
+home-prefs-choose-wallpaper-link2 =
+    .label = Elekti ekranfonon
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
