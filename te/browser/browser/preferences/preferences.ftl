@@ -655,6 +655,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = పరికరం పేరు
+sync-device-name-header-2 =
+    .label = పరికరం పేరు
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
