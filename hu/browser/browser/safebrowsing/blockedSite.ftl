@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Félrevezető oldal
 safeb-blocked-malware-page-title = A webhely felkeresése káros lehet a számítógépére
 safeb-blocked-unwanted-page-title = Az oldal rosszindulatú programokat tartalmazhat
 safeb-blocked-harmful-page-title = Az oldal rosszindulatú kódot tartalmazhat
+safeb-blocked-addon-page-title = A webhely az Ön biztonsága érdekében blokkolva
 safeb-blocked-phishing-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert megpróbálhatja veszélyes tevékenységre rávenni, például szoftverek telepítésére vagy személyes információk – például jelszavak és hitelkártya adatok – felfedésére.
 safeb-blocked-malware-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert lehet, hogy kártékony szoftvert próbál meg telepíteni, amely ellophatja vagy törölheti a személyes adatait a számítógépéről.
 safeb-blocked-unwanted-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert megpróbálhatja olyan programok telepítésére rávenni, amelyek ártanak a böngészési élményének (például a kezdőoldala megváltoztatásával, vagy több reklám megjelenítésével az oldalakon, melyeket meglátogat).
 safeb-blocked-harmful-page-short-desc = A { -brand-short-name } blokkolta ezt az oldalt, mert lehet, hogy megpróbál veszélyes appokat telepíteni, amelyek ellopják vagy törlik az információit (például képek, üzenetek és bankkártyaadatok).
+safeb-blocked-addon-page-short-desc = A { -brand-short-name } blokkolta az oldalt, mert az egyik kiegészítője megpróbálta megnyitni. Ez a webhely felhasználható arra, hogy ellopják az információit – például a jelszavait vagy bankkártyaszámait.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = A tanácsadást biztosítja: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,11 @@ safeb-blocked-harmful-page-learn-more = Tudjon meg többet a { -brand-short-name
 safeb-palm-notdeceptive =
     .label = Ez nem félrevezető oldal…
     .accesskey = n
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Miért lett ez a webhely blokkolva?</strong>
+safeb-blocked-addon-page-error-desc2-override = Lehet, hogy a(z) <strong>{ $sitename }</strong> megtévesztő és ártalmas tevékenységhez kapcsolódik.
+safeb-blocked-addon-page-error-desc3-override = <strong>Mit tehet ez ellen?</strong>

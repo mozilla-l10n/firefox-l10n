@@ -982,6 +982,9 @@ prefs-syncing-button =
 
 sync-syncing-across-devices-heading = Ezeket az elemeket szinkronizálja az összes csatlakoztatott eszköz között:
 sync-syncing-across-devices-heading-2 = Eszközök közt szinkronizált adatok
+sync-syncing-across-devices-empty-state =
+    .label = Semmit sem szinkronizál… egyelőre.
+    .description = Kezdjen el szinkronizálni, és kapja meg az adatait az összes eszközén.
 sync-currently-syncing-bookmarks = Könyvjelzők
 sync-currently-syncing-history = Előzmények
 sync-currently-syncing-tabs = Nyitott lapok
