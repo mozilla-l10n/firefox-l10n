@@ -288,6 +288,9 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Gun' ne' ñaan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Daj unūkuaj ma
@@ -379,6 +382,9 @@ use-current-pages =
 choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -483,6 +489,9 @@ containers-add-button =
     .accesskey = A
 containers-remove-button =
     .label = Dure'
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -613,6 +622,8 @@ sync-device-name-save =
     .label = Na'nïnj sà'
     .accesskey = N
 sync-connect-another-device = Gatu 'ngà a'ngo aga'a...
+sync-connect-another-device-2 =
+    .label = Gatu 'ngà a'ngo aga'a...
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -664,6 +675,12 @@ forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -757,6 +774,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -912,6 +935,9 @@ addon-recommendations-link = Gahuin chrūn doj
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -943,6 +969,12 @@ certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
