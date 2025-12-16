@@ -460,6 +460,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = पता पट्टी परिणाम में खोज सुझाव दिखाएँ
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
