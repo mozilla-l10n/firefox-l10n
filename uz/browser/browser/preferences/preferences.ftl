@@ -655,6 +655,8 @@ sync-device-name-save =
     .label = Saqlash
     .accesskey = S
 sync-connect-another-device = Boshqa qurilmani ulash
+sync-connect-another-device-2 =
+    .label = Boshqa qurilmani ulash
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
