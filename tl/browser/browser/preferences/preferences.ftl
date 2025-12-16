@@ -655,8 +655,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Mag-Sync Na
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Mag-Sync Na
+    .accesskey = N
 prefs-syncing-button =
     .label = Nagsi-sync...
+prefs-syncing-button-2 =
+    .label = Nagsi-sync...
+    .title = Mag-Sync Na
 
 ## The list of things currently syncing.
 
@@ -715,6 +721,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Pangalan ng Device
+sync-device-name-header-2 =
+    .label = Pangalan ng Device
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
