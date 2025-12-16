@@ -853,8 +853,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Համաժամեցնել հիմա
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Համաժամեցնել հիմա
+    .accesskey = N
 prefs-syncing-button =
     .label = Համաժամեցում․․․
+prefs-syncing-button-2 =
+    .label = Համաժամեցում․․․
+    .title = Համաժամեցնել հիմա
 
 ## The list of things currently syncing.
 
