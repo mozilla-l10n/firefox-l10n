@@ -445,6 +445,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Nadigan ma nej sa nana'ui' riña dukuán direksion.
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
