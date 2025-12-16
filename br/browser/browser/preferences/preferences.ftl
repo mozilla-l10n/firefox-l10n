@@ -636,6 +636,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù
     .accesskey = D
+search-suggestions-cant-show-2 =
+    .message = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m’ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
