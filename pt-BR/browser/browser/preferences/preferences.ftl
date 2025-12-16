@@ -556,6 +556,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -883,6 +886,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Remover
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1036,6 +1042,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nome do dispositivo
+sync-device-name-header-2 =
+    .label = Nome do dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
