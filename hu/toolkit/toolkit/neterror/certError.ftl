@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Visszalépés (ajánlo
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = A { -brand-short-name } figyelmezteti az oldalról, mert a(z) { $hostname } tanúsítványát visszavonták, és már nem megbízható.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Valószínűleg semmit, mert magával az oldallal lehet a probléma. Egyeztessen a webhely tulajdonosával, hogy dolgoznak-e a problémán.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
