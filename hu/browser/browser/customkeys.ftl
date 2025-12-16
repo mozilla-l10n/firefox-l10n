@@ -35,3 +35,5 @@ customkeys-nav-reload = Újratöltés
 customkeys-nav-reload-skip-cache = Újratöltés (gyorsítótár felülbírálása)
 customkeys-nav-stop = Leállítás
 customkeys-caution-message = Ez egy kísérleti funkció, és lehet, hogy nem a várt módon működik.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Érvénytelen

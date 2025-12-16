@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Tekintsen meg egy rövid leírást
 sidebar-button-callout-title = Lapcímek megjelenítése az oldalsávban
 sidebar-button-callout-subtitle = Az oldalsáv gombjával bontsa ki az oldalsávot, így a lapok címét is láthatja.
 sidebar-button-callout-vertical-tabs = A lapok megjelenítéséhez válassza az oldalsáv gombot az eszköztáron.
+sidebar-deprecation-callout-title = Hamarosan érkezik a frissített oldalsáv
+sidebar-deprecation-callout-subtitle = Fokozatosan kivezetjük a jelenleg használt oldalsávverziót. Próbálja ki a frissített oldalsávot. Gyorsabb, és több eszközhöz jut hozzá.
+sidebar-deprecation-cta-button = Próbálja ki most
 
 ## Sidebar Vertical Tabs Strings
 

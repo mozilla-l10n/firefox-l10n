@@ -559,6 +559,16 @@ update-in-progress-ok-button = &Elvetés
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } támogatás
+    .description = Oldjon meg problémákat és osszon meg ötleteket a közösséggel.
+support-get-help =
+    .label = Segítség kérése
+support-share-ideas =
+    .label = Ötletek és visszajelzések megosztása
+
 ## General Section - Performance
 
 performance-title = Teljesítmény
@@ -817,6 +827,11 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Keresési kifejezések megjelenítése a találati oldalak címsorában
+search-separate-default-engine-2 =
+    .label = Másik alapértelmezett keresőszolgáltatás használata a privát ablakokban
+    .accesskey = M
+search-separate-default-engine-dropdown =
+    .aria-label = Alapértelmezett keresőszolgáltatás a privát ablakokban
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -966,6 +981,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Ezeket az elemeket szinkronizálja az összes csatlakoztatott eszköz között:
+sync-syncing-across-devices-heading-2 = Eszközök közt szinkronizált adatok
 sync-currently-syncing-bookmarks = Könyvjelzők
 sync-currently-syncing-history = Előzmények
 sync-currently-syncing-tabs = Nyitott lapok

@@ -424,3 +424,18 @@ etp-strict-exceptions-infobar-button = Javítások alkalmazása
     .accesskey = J
 etp-strict-exceptions-infobar-not-now = Most nem
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = A { -brand-short-name } nem az alapértelmezett böngésző
+set-default-menu-message-simple-layout-title-variant = A { -brand-short-name } nem az elsődleges böngésző
+set-default-menu-message-row-layout-title = A { -brand-short-name } elsődleges böngészővé tétele
+set-default-menu-message-row-layout-title-variant = A { -brand-short-name } alapértelmezett böngészővé tétele
+set-default-menu-message-row-layout-subtitle = Szerezzen gyorsaságot, biztonságot és adatvédelmet minden böngészés során.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezetté, és tartsa a Dokkon.
+       *[other] Tartsa kéznél a { -brand-short-name }ot – tegye alapértelmezetté, és tartsa a tálcán.
+    }
+set-default-menu-message-primary-button = Beállítás alapértelmezettként
+set-default-menu-message-primary-button-variant = Beállítás elsődleges böngészőként

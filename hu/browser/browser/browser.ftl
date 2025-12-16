@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Oldal a könyvjelzők közé ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Osztott nézet
+    .aria-label = Osztott nézet
 
 ## Page Action Context Menu
 
@@ -838,6 +841,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ne jelenítsen meg pénzpiaci javaslatokat
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Köszönjük a visszajelzését. Többé nem fogja látni az pénzpiaci javaslatokat.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Tőzsdei javaslatok
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Köszönjük a visszajelzését. Többé nem fogja látni ezeket a javaslatokat.
@@ -1587,3 +1593,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] A { -brand-product-name } engedélyezett { $count } kriptobányászt
     }
 trustpanel-cryptominer-tab-list-header = Ezek a webhelyek próbálnak meg kriptovalutát bányászni:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
+       *[other] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
+    }
