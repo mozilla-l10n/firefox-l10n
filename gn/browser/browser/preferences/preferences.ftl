@@ -889,6 +889,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Mbojuehe
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -964,8 +966,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Embojuehe ko’ág̃a
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Embojuehe ko’ág̃a
+    .accesskey = N
 prefs-syncing-button =
     .label = Embojuehe...
+prefs-syncing-button-2 =
+    .label = Embojuehe...
+    .title = Embojuehe ko’ág̃a
 
 ## The list of things currently syncing.
 
@@ -1046,6 +1054,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mba’e’oka Réra
+sync-device-name-header-2 =
+    .label = Mba’e’oka Réra
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1064,6 +1074,8 @@ sync-device-name-save =
     .label = Eñongatu
     .accesskey = v
 sync-connect-another-device = Embojuaju ambue mba’e’oka
+sync-connect-another-device-2 =
+    .label = Embojuaju ambue mba’e’oka
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
