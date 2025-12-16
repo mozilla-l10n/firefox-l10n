@@ -772,6 +772,8 @@ sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
 sync-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+sync-connect-another-device-2 =
+    .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
