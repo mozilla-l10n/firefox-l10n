@@ -486,6 +486,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = వెతుకుడు సూచనలను చిరునామా పట్టీ ఫలితాలలో చూపించు
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే { -brand-short-name } మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
