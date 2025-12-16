@@ -243,6 +243,8 @@ annotations-default-pdf-handler-headline = Subskribu sur la linio de punktoj —
 annotations-default-pdf-handler-body = Desegnu, tajpu aŭ alŝutu vian subskribon, poste metu ĝin ekzakte tien, kie vi ĝin volas. Konservu viajn oftajn subskribojn por uzi ilin estontece.
 annotations-make-default-pdf-handler-title = Ĉu igi { -brand-short-name } via norma PDF redaktilo?
 annotations-make-default-pdf-handler-subtitle = Malferminte dosieron PDF vi ĉiam povos aliri niajn ilojn.
+annotations-make-default-pdf-primary-cta-label = Elekti kiel norma
+annotations-make-default-pdf-next-label = Antaŭen
 annotations-make-default-pdf-primary-cta =
     .label = Elekti kiel norma
 annotations-make-default-pdf-next =
@@ -423,3 +425,6 @@ etp-strict-exceptions-infobar-button = Apliki korektojn
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ne nun
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
