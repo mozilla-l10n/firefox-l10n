@@ -890,6 +890,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Sync
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -953,6 +955,9 @@ prefs-syncing-on = 동기화: 켜짐
 prefs-syncing-off = 동기화: 꺼짐
 prefs-sync-turn-on-syncing =
     .label = 동기화 켜기…
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 동기화 켜기
     .accesskey = s
 prefs-sync-offer-setup-label2 = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화하세요.
 prefs-sync-now =
@@ -1054,6 +1059,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 기기 이름
+sync-device-name-header-2 =
+    .label = 기기 이름
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1072,6 +1079,8 @@ sync-device-name-save =
     .label = 저장
     .accesskey = v
 sync-connect-another-device = 다른 기기 연결
+sync-connect-another-device-2 =
+    .label = 다른 기기 연결
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
