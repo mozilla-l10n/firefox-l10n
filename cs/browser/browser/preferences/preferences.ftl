@@ -209,7 +209,7 @@ preferences-data-migration-description =
        *[no-cases] Import záložek, hesel, historie a dat automatického vyplňování do aplikace { -brand-short-name }.
     }
 preferences-data-migration-button =
-    .label = Import dat
+    .label = Importovat data
     .accesskey = m
 preferences-profiles-group-header =
     .heading = Profily
