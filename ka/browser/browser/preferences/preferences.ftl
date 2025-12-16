@@ -816,6 +816,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ძიების შემოთავაზებები მისამართების ველის შედეგებში
     .accesskey = ძ
+search-suggestions-cant-show-2 =
+    .message = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
