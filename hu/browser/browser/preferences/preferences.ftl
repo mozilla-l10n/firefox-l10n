@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Speciális…
     .accesskey = c
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Nagyítás
+preferences-default-zoom-label =
+    .label = Alapértelmezett nagyítás
+    .accesskey = n
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Nagyítás
 preferences-default-zoom = Alapértelmezett nagyítás
     .accesskey = n
