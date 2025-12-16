@@ -666,6 +666,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostra suggeriments de cerca als resultats de la barra d'adreces
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
