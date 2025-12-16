@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = 다중 열 컨테이너가 아니기 때�
 inactive-css-column-span = 다중 열 컨테이너 내에 있지 않기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 확장 효과가 없습니다.
 inactive-css-not-grid-or-flex-item = 그리드 또는 플렉스 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = 그리드 또는 플렉스 항목도 아니고 절대 위치 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-css-not-grid-or-absolutely-positioned-item = 그리드 항목도 절대 위치 요소도 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-grid-item = 그리드 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-grid-container = 그리드 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-flex-item = 플렉스 항목이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong>는 윗주 요소이�
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong>는 하이라이트 가상 요소에서 지원되지 않습니다.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::cue 가상 요소에서 지원되지 않습니다.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong>는 <strong>@position-tri</strong> 규칙에서 지원되지 않습니다.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong>는 이 요소에 { $lineCount }개 이상의 행이 있으므로 이 요소에 영향을 주지 않습니다.
@@ -82,6 +84,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>disp
 inactive-css-not-multicol-container-fix = <strong>column-count</strong> 또는 <strong>column-width</strong>를 추가해보세요. { learn-more }
 inactive-css-column-span-fix = 상위 요소 중 하나에 <strong>column-count</strong> 또는 <strong>column-width</strong>를 추가해 보세요. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = 요소에 <strong>position:absolute</strong>를 추가하거나 요소의 부모에 <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> 또는 <strong>display:inline-flex</strong>를 추가해 보세요. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = <strong>position:absolve</strong>을 요소에 추가하거나 <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>를 요소의 부모에 추가해보세요. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, 또는 <strong>display:inline-flex</strong>를 요소의 부모에 추가해보세요. { learn-more }
 inactive-css-not-grid-item-fix-2 = <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>를 요소의 부모에 추가해보세요. { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> 또는 <strong>display:inline-grid</strong>을 추가하세요. { learn-more }
@@ -135,3 +138,5 @@ css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong>에 대
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = 이 선택자는 제한되지 않은 <strong>:has()</strong>를 사용하므로  느릴 수 있습니다.
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = <strong>:Scope</strong> 이후의 형제 선택자는 아무 것도 일치하지 않음

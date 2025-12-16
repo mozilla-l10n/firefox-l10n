@@ -980,6 +980,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronisation: ACTIVE
+prefs-syncing-on-2 =
+    .label = Synchronisation ACTIVE
 prefs-syncing-off = Synchronisation: INACTIVE
 prefs-sync-turn-on-syncing =
     .label = Activar synchronisation…
