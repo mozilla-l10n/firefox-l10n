@@ -649,8 +649,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = സമന്വയിപ്പിക്കുക
     .accesskey = സ
+prefs-sync-now-button-2 =
+    .label = സമന്വയിപ്പിക്കുക
+    .accesskey = സ
 prefs-syncing-button =
     .label = സമന്വയിപ്പിക്കുന്നു…
+prefs-syncing-button-2 =
+    .label = സമന്വയിപ്പിക്കുന്നു…
+    .title = സമന്വയിപ്പിക്കുക
 
 ## The list of things currently syncing.
 
@@ -710,6 +716,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ഉപകരണപ്പേരു്
+sync-device-name-header-2 =
+    .label = ഉപകരണപ്പേരു്
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
