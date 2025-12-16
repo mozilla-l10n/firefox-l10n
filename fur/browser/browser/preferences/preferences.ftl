@@ -731,6 +731,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostre i sugjeriments di ricercje tai risultâts de sbare de direzion
     .accesskey = M
+search-suggestions-cant-show-2 =
+    .message = No vignaran mostrâts sugjeriments di ricercje tai risultâts de sbare di posizion, viodût che tu âs configurât { -brand-short-name } in mût che no si visi mai la cronologjie.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
