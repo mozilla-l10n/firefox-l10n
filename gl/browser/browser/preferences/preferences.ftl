@@ -880,8 +880,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar agora
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizando...
+prefs-syncing-button-2 =
+    .label = Sincronizando...
+    .title = Sincronizar agora
 
 ## The list of things currently syncing.
 
@@ -962,6 +968,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nome do dispositivo
+sync-device-name-header-2 =
+    .label = Nome do dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
