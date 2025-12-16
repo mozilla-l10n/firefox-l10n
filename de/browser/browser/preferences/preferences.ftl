@@ -823,6 +823,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Suchvorschläge in Adressleiste anzeigen
     .accesskey = v
+search-suggestions-cant-show-2 =
+    .message = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
