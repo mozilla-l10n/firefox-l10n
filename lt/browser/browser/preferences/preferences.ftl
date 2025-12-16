@@ -623,6 +623,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Rodyti paieškos žodžių siūlymus adreso lauko rezultatuose
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
