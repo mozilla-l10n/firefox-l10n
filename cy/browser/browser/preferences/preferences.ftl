@@ -807,7 +807,11 @@ home-prefs-mission-message-learn-more-link = Dyma sut
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link = Rheoli pynciau
+home-prefs-manage-topics-link2 =
+    .label = Rheoli pynciau
 home-prefs-choose-wallpaper-link = Dewis Papur Wal
+home-prefs-choose-wallpaper-link2 =
+    .label = Dewis Papur Wal
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
