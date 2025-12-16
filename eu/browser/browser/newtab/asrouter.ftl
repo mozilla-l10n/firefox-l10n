@@ -243,6 +243,8 @@ annotations-default-pdf-handler-headline = Sinatu puntukako marraren gainean —
 annotations-default-pdf-handler-body = Marraztu, idatzi edo igo zure sinadura, gero koka ezazu zehazki nahi duzun tokian. Gorde hurrengorako gehien erabiltzen dituzun sinadurak.
 annotations-make-default-pdf-handler-title = Egin { -brand-short-name } zure PDF editore lehenetsia?
 annotations-make-default-pdf-handler-subtitle = Gure tresnetarako sarbidea izango duzu PDF bat irekitzen duzun aldiro.
+annotations-make-default-pdf-primary-cta-label = Ezarri lehenetsi gisa
+annotations-make-default-pdf-next-label = Hurrengoa
 annotations-make-default-pdf-primary-cta =
     .label = Ezarri lehenetsi gisa
 annotations-make-default-pdf-next =
@@ -359,6 +361,9 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran eta Hasi menuan.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Hasi erabiltzen
@@ -386,3 +391,6 @@ etp-strict-exceptions-infobar-button = Aplikatu konponketak
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Une honetan ez
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+
