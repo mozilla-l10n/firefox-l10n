@@ -417,6 +417,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ঠিকানা বার ফলাফলগুলিতে অনুসন্ধানের পরামর্শগুলি দেখান
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = অনুসন্ধানের পরামর্শগুলি লোকেশান বারে দেখানো হবেনা কারণ আপনি { -brand-short-name } কনফিগার করেছেন হিস্ট্রিতে মনে না রাখার জন্য।
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
