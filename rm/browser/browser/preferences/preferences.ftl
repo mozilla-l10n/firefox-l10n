@@ -525,6 +525,9 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -633,6 +636,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -800,6 +806,11 @@ containers-settings-button =
     .label = Parameters
 containers-remove-button =
     .label = Allontanar
+
+## Account and sync
+
+sync-group-label =
+    .label = Sincronisaziun
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
