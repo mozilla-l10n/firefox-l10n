@@ -892,6 +892,11 @@ containers-settings-button =
 containers-remove-button =
     .label = 移除
 
+## Account and sync
+
+sync-group-label =
+    .label = 同步
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -955,6 +960,9 @@ prefs-syncing-off = 同步：關閉
 prefs-sync-turn-on-syncing =
     .label = 開啟同步…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 開啟同步
+    .accesskey = s
 prefs-sync-offer-setup-label2 = 在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與各種選項。
 prefs-sync-now =
     .labelnotsyncing = 立刻同步
@@ -963,8 +971,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 立刻同步
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 立刻同步
+    .accesskey = N
 prefs-syncing-button =
     .label = 同步中…
+prefs-syncing-button-2 =
+    .label = 同步中…
+    .title = 立刻同步
 
 ## The list of things currently syncing.
 
@@ -1067,6 +1081,8 @@ sync-device-name-save =
     .label = 儲存
     .accesskey = v
 sync-connect-another-device = 連結其他裝置
+sync-connect-another-device-2 =
+    .label = 連結其他裝置
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
