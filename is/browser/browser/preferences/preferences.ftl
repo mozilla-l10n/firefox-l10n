@@ -520,6 +520,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -628,6 +631,9 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -791,6 +797,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Fjarlægja
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -853,6 +862,9 @@ prefs-syncing-on = Samstilling: Á
 prefs-syncing-off = Samstilling: AF
 prefs-sync-turn-on-syncing =
     .label = Kveikja á samstillingu…
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Kveikja á samstillingu
     .accesskey = s
 prefs-sync-offer-setup-label2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
 prefs-sync-now =
