@@ -38,4 +38,4 @@ about-translations-translating-message = 번역 중…
 # The title attribute for the swap languages button, which swaps the selected
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
-    .title = 언어 바꾸기
+    .title = 언어 서로 바꾸기

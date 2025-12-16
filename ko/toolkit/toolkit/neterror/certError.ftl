@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = 사이트가 보안 연결 만 허�
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = 사이트 자체에 문제가 있을 수 있기 때문에 아무것도 아닙니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. 하지만 회사 네트워크를 사용하고 있다면 지원 팀에 더 많은 정보가 있을 수 있습니다. 바이러스 백신 소프트웨어를 사용하는 경우 잠재적인 충돌 또는 알려진 문제를 검색해 보세요.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { $hostname }에 대해 제공한 인증서가 더 이상 신뢰할 수 없는 인증 기관에서 발급했기 때문에 { -brand-short-name }가 이 사이트에 대해 경고합니다.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = 사이트 자체에 문제가 있을 가능성이 있기 때문에 아마 아무것도 아닐겁니다. 웹 사이트 관리자에게 문의하여 문제를 해결하고 있는지 확인할 수 있습니다.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = 사이트 인증서에 문제가 있습니다. 악의적인 공격자가 사이트를 사칭하려고 시도하고 있을 수 있습니다. 사이트는 인증 기관에서 발급한 인증서를 사용하여 자신이 실제 본인임을 증명합니다. 누가 인증서를 발급했는지 알 수 없거나, 자체 서명되었거나, 사이트가 신뢰할 수 있는 중간 인증서를 보내지 않기 때문에 { -brand-short-name }는 이 사이트를 신뢰할 수 없습니다.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = 사이트 자체에 문제가 있을 수 있기 때문에 아무것도 아닙니다. 하지만 회사 네트워크를 사용하고 있다면 지원 팀에 더 많은 정보가 있을 수 있습니다. 바이러스 백신 소프트웨어를 사용하는 경우 { -brand-short-name }와 작동하도록 구성해야 할 수 있습니다.
@@ -122,6 +128,10 @@ fp-certerror-transparency-what-can-you-do-body = 사이트 자체에 문제가 �
 fp-learn-more-about-secure-connection-failures = 보안 연결 실패에 대해 더 알아보기
 fp-learn-more-about-cert-issues = 이러한 종류의 인증서 문제에 대해 더 알아보기
 fp-learn-more-about-time-related-errors = 시간 관련 오류 해결에 대해 더 알아보기
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }는 제공된 인증서가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") }까지 유효하지 않은 것으로 보이므로 이 사이트를 신뢰하지 않습니다.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
