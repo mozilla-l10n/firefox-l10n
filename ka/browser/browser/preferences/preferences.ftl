@@ -788,7 +788,11 @@ home-prefs-mission-message-learn-more-link = იხილეთ, როგორ
 home-prefs-mission-message2 =
     .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
 home-prefs-manage-topics-link = თემების მართვა
+home-prefs-manage-topics-link2 =
+    .label = თემების მართვა
 home-prefs-choose-wallpaper-link = ფონის არჩევა
+home-prefs-choose-wallpaper-link2 =
+    .label = ფონის არჩევა
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
