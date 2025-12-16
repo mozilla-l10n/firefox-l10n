@@ -990,6 +990,8 @@ sync-device-name-save =
     .label = Gardar
     .accesskey = G
 sync-connect-another-device = Conectar outro dispositivo
+sync-connect-another-device-2 =
+    .label = Conectar outro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
