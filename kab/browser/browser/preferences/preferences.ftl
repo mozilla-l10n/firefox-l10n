@@ -718,6 +718,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sken isumar n unadi deg ugmuḍ n ufeggag n tansa
     .accesskey = u
+search-suggestions-cant-show-2 =
+    .message = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara azray.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
