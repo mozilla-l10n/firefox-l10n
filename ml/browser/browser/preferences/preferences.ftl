@@ -67,6 +67,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -195,6 +206,12 @@ default-font-size = വലുപ്പം
 advanced-fonts =
     .label = സങ്കീര്‍ണ്ണമായവ...
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = വലുതാക്കുക
+preferences-default-zoom-label =
+    .label = തനതായ വലുപ്പളവു്
+    .accesskey = വ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = വലുതാക്കുക
 preferences-default-zoom = തനതായ വലുപ്പളവു്
@@ -354,6 +371,9 @@ update-in-progress-ok-button = &കളയുക
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &തുടരുക
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = പ്രകടനം
@@ -438,6 +458,9 @@ choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ഉള്ളടക്കം
@@ -506,6 +529,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = അഡ്ഡ്രസ്സ് ബാറിലെ ഫലങ്ങളിൽ തിരയൽ നിർദ്ദേശങ്ങൾ ദൃശ്യമാക്കുക
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ { -brand-short-name } ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.
 search-show-suggestions-private-windows =
     .label = തിരയൽ നിർദ്ദേശം സ്വകാര്യ ജാലകങ്ങളിൽ കാണിക്കുക
 suggestions-addressbar-settings-generic2 = മറ്റെ വിലാസപ്പട്ട നിൎദ്ദേശങ്ങൾക്കായി ക്രമീകരണങ്ങൾ മാറ്റുക
@@ -552,6 +577,11 @@ containers-settings-button =
     .label = ക്രമീകരണങ്ങള്‍
 containers-remove-button =
     .label = നീക്കുക
+
+## Account and sync
+
+sync-group-label =
+    .label = സമന്വയം
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -616,6 +646,9 @@ prefs-syncing-off = സമന്വയം: അണച്ചതു്
 prefs-sync-turn-on-syncing =
     .label = സമന്വയം തുടങ്ങി വയ്ക്കുക…
     .accesskey = ത
+prefs-sync-turn-on-syncing-2 =
+    .label = സമന്വയം തുടങ്ങി വയ്ക്കുക
+    .accesskey = ത
 prefs-sync-offer-setup-label2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും ഒളിവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
 prefs-sync-now =
     .labelnotsyncing = സമന്വയിപ്പിക്കുക
@@ -624,8 +657,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = സമന്വയിപ്പിക്കുക
     .accesskey = സ
+prefs-sync-now-button-2 =
+    .label = സമന്വയിപ്പിക്കുക
+    .accesskey = സ
 prefs-syncing-button =
     .label = സമന്വയിപ്പിക്കുന്നു…
+prefs-syncing-button-2 =
+    .label = സമന്വയിപ്പിക്കുന്നു…
+    .title = സമന്വയിപ്പിക്കുക
 
 ## The list of things currently syncing.
 
@@ -685,6 +724,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ഉപകരണപ്പേരു്
+sync-device-name-header-2 =
+    .label = ഉപകരണപ്പേരു്
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -703,6 +744,8 @@ sync-device-name-save =
     .label = സംരക്ഷിക്കുക
     .accesskey = v
 sync-connect-another-device = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക
+sync-connect-another-device-2 =
+    .label = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -857,6 +900,9 @@ sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
@@ -959,6 +1005,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1077,6 +1126,9 @@ certs-devices-enable-fips = FIPS പ്രാപ്തമാക്കുക
 space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
+
+## Privacy Section - HTTPS-Only
+
 
 ## DoH Section
 

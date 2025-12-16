@@ -249,6 +249,8 @@ annotations-default-pdf-handler-headline = Podpišite se na pikčasto črto – 
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Narišite, vtipkajte ali naložite svoj podpis in ga postavite na želeno mesto. Podpise, ki jih redno uporabljate, lahko shranite za naslednjič.
 annotations-make-default-pdf-handler-title = Želite nastaviti { -brand-short-name(sklon: "tozilnik") } kot privzeti urejevalnik datotek PDF?
+annotations-make-default-pdf-primary-cta-label = Nastavi kot privzeto
+annotations-make-default-pdf-next-label = Naprej
 annotations-make-default-pdf-primary-cta =
     .label = Nastavi kot privzeto
 annotations-make-default-pdf-next =
@@ -428,3 +430,6 @@ etp-strict-exceptions-infobar-button = Uveljavi popravke
     .accesskey = a
 etp-strict-exceptions-infobar-not-now = Ne zdaj
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+

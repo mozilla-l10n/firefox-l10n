@@ -347,6 +347,12 @@ advanced-fonts =
     .label = ขั้นสูง…
     .accesskey = น
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ซูม
+preferences-default-zoom-label =
+    .label = ซูมเริ่มต้น
+    .accesskey = ร
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ซูม
 preferences-default-zoom = ซูมเริ่มต้น
     .accesskey = ร
@@ -546,6 +552,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -767,7 +776,11 @@ home-prefs-mission-message-learn-more-link = ค้นหาว่าทำอ�
 home-prefs-mission-message2 =
     .message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-manage-topics-link = จัดการหัวข้อ
+home-prefs-manage-topics-link2 =
+    .label = จัดการหัวข้อ
 home-prefs-choose-wallpaper-link = เลือกวอลล์เปเปอร์
+home-prefs-choose-wallpaper-link2 =
+    .label = เลือกวอลล์เปเปอร์
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -797,6 +810,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = แสดงคำแนะนำการค้นหาในผลลัพธ์ของแถบที่อยู่
     .accesskey = ส
+search-suggestions-cant-show-2 =
+    .message = คำแนะนำการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -873,6 +888,11 @@ containers-settings-button =
 containers-remove-button =
     .label = เอาออก
 
+## Account and sync
+
+sync-group-label =
+    .label = การซิงค์
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -936,6 +956,9 @@ prefs-syncing-off = การซิงค์: ปิด
 prefs-sync-turn-on-syncing =
     .label = เปิดการซิงค์…
     .accesskey = ซ
+prefs-sync-turn-on-syncing-2 =
+    .label = เปิดการซิงค์
+    .accesskey = ซ
 prefs-sync-offer-setup-label2 = ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ
 prefs-sync-now =
     .labelnotsyncing = ซิงค์ตอนนี้
@@ -944,8 +967,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ซิงค์ตอนนี้
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ซิงค์ตอนนี้
+    .accesskey = N
 prefs-syncing-button =
     .label = กำลังซิงค์…
+prefs-syncing-button-2 =
+    .label = กำลังซิงค์…
+    .title = ซิงค์ตอนนี้
 
 ## The list of things currently syncing.
 
@@ -1026,6 +1055,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = ชื่ออุปกรณ์
+sync-device-name-header-2 =
+    .label = ชื่ออุปกรณ์
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1044,6 +1075,8 @@ sync-device-name-save =
     .label = บันทึก
     .accesskey = บ
 sync-connect-another-device = เชื่อมต่ออุปกรณ์อื่น
+sync-connect-another-device-2 =
+    .label = เชื่อมต่ออุปกรณ์อื่น
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

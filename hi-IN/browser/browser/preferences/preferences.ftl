@@ -151,6 +151,12 @@ advanced-fonts =
     .label = विस्तृत...
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ज़ूम
+preferences-default-zoom-label =
+    .label = तयशुदा ज़ूम
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ज़ूम
 preferences-default-zoom = तयशुदा ज़ूम
     .accesskey = z
@@ -309,6 +315,9 @@ update-in-progress-ok-button = और छोड़े
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = और जारी रखें
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = प्रदर्शन
@@ -396,6 +405,9 @@ choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -454,6 +466,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = पता पट्टी परिणाम में खोज सुझाव दिखाएँ
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -503,6 +517,9 @@ containers-settings-button =
     .label = सेटिंग
 containers-remove-button =
     .label = हटायें
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -558,8 +575,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = अभी सिंक करें
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = अभी सिंक करें
+    .accesskey = N
 prefs-syncing-button =
     .label = सिंक हो रहा है…
+prefs-syncing-button-2 =
+    .label = सिंक हो रहा है…
+    .title = अभी सिंक करें
 
 ## The list of things currently syncing.
 
@@ -607,6 +630,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = डिवाइस का नाम
+sync-device-name-header-2 =
+    .label = डिवाइस का नाम
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -625,6 +650,8 @@ sync-device-name-save =
     .label = सहेजें
     .accesskey = v
 sync-connect-another-device = अन्य डिवाइस जोड़ें
+sync-connect-another-device-2 =
+    .label = अन्य डिवाइस जोड़ें
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -676,6 +703,9 @@ forms-windows-sso-learn-more-link = अधिक जानें
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -763,6 +793,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -924,6 +960,9 @@ addon-recommendations-link = और जानें
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -962,6 +1001,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = अधिक जानें
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

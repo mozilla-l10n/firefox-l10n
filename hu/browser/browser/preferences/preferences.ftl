@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Speciális…
     .accesskey = c
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Nagyítás
+preferences-default-zoom-label =
+    .label = Alapértelmezett nagyítás
+    .accesskey = n
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Nagyítás
 preferences-default-zoom = Alapértelmezett nagyítás
     .accesskey = n
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Tudja meg hogyan
 home-prefs-mission-message2 =
     .message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk.
 home-prefs-manage-topics-link = Témák kezelése
+home-prefs-manage-topics-link2 =
+    .label = Témák kezelése
 home-prefs-choose-wallpaper-link = Válasszon egy háttérképet
+home-prefs-choose-wallpaper-link2 =
+    .label = Válasszon egy háttérképet
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,6 +833,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Keresési javaslatok megjelenítése a címsáv találataiban
     .accesskey = K
+search-suggestions-cant-show-2 =
+    .message = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -904,6 +916,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Eltávolítás
 
+## Account and sync
+
+sync-group-label =
+    .label = Szinkronizálás
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +984,9 @@ prefs-syncing-off = Szinkronizálás: KI
 prefs-sync-turn-on-syncing =
     .label = Szinkronizálás bekapcsolása…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Szinkronizálás bekapcsolása
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 prefs-sync-now =
     .labelnotsyncing = Szinkronizálás most
@@ -975,8 +995,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Szinkronizálás most
     .accesskey = m
+prefs-sync-now-button-2 =
+    .label = Szinkronizálás most
+    .accesskey = m
 prefs-syncing-button =
     .label = Szinkronizálás…
+prefs-syncing-button-2 =
+    .label = Szinkronizálás…
+    .title = Szinkronizálás most
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1087,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Eszköznév
+sync-device-name-header-2 =
+    .label = Eszköznév
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1107,8 @@ sync-device-name-save =
     .label = Mentés
     .accesskey = M
 sync-connect-another-device = Másik eszköz csatlakoztatása
+sync-connect-another-device-2 =
+    .label = Másik eszköz csatlakoztatása
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

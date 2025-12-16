@@ -347,6 +347,12 @@ advanced-fonts =
     .label = 고급…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = 확대/축소
+preferences-default-zoom-label =
+    .label = 기본 확대/축소
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = 확대/축소
 preferences-default-zoom = 기본 확대/축소
     .accesskey = z
@@ -777,7 +783,11 @@ home-prefs-mission-message-learn-more-link = 방법 알아보기
 home-prefs-mission-message2 =
     .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
 home-prefs-manage-topics-link = 주제 관리
+home-prefs-manage-topics-link2 =
+    .label = 주제 관리
 home-prefs-choose-wallpaper-link = 배경 화면 선택
+home-prefs-choose-wallpaper-link2 =
+    .label = 배경 화면 선택
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -807,6 +817,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 주소 표시줄 결과에 검색 제안 표시
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = 방문 기록을 저장하지 않도록 { -brand-short-name }를 설정했기 때문에 검색 제안이 주소 표시 줄 결과에 표시되지 않습니다.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -888,6 +900,11 @@ containers-settings-button =
 containers-remove-button =
     .label = 삭제
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -951,6 +968,9 @@ prefs-syncing-off = 동기화: 꺼짐
 prefs-sync-turn-on-syncing =
     .label = 동기화 켜기…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 동기화 켜기
+    .accesskey = s
 prefs-sync-offer-setup-label2 = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화하세요.
 prefs-sync-now =
     .labelnotsyncing = 지금 동기화
@@ -959,8 +979,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 지금 동기화
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 지금 동기화
+    .accesskey = N
 prefs-syncing-button =
     .label = 동기화중…
+prefs-syncing-button-2 =
+    .label = 동기화중…
+    .title = 지금 동기화
 
 ## The list of things currently syncing.
 
@@ -1045,6 +1071,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 기기 이름
+sync-device-name-header-2 =
+    .label = 기기 이름
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1063,6 +1091,8 @@ sync-device-name-save =
     .label = 저장
     .accesskey = v
 sync-connect-another-device = 다른 기기 연결
+sync-connect-another-device-2 =
+    .label = 다른 기기 연결
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

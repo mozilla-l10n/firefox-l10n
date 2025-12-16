@@ -362,6 +362,12 @@ advanced-fonts =
     .label = Avansat…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom implicit
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom implicit
     .accesskey = z
@@ -792,7 +798,11 @@ home-prefs-mission-message-learn-more-link = Află cum
 home-prefs-mission-message2 =
     .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link = Gestionează subiectele
+home-prefs-manage-topics-link2 =
+    .label = Gestionează subiectele
 home-prefs-choose-wallpaper-link = Alege o imagine de fundal
+home-prefs-choose-wallpaper-link2 =
+    .label = Alege o imagine de fundal
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -827,6 +837,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Afișează sugestiile de căutare în rezultatele din bara de adresă
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -908,6 +920,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Elimină
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronizare
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -971,6 +988,9 @@ prefs-syncing-off = Sincronizare: DEZACTIVATĂ
 prefs-sync-turn-on-syncing =
     .label = Activează sincronizarea...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activează sincronizarea
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 prefs-sync-now =
     .labelnotsyncing = Sincronizează acum
@@ -979,8 +999,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizează acum
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizează acum
+    .accesskey = N
 prefs-syncing-button =
     .label = Se sincronizează…
+prefs-syncing-button-2 =
+    .label = Se sincronizează…
+    .title = Sincronizează acum
 
 ## The list of things currently syncing.
 
@@ -1065,6 +1091,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Numele dispozitivului
+sync-device-name-header-2 =
+    .label = Numele dispozitivului
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1083,6 +1111,8 @@ sync-device-name-save =
     .label = Salvează
     .accesskey = v
 sync-connect-another-device = Conectează alt dispozitiv
+sync-connect-another-device-2 =
+    .label = Conectează alt dispozitiv
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

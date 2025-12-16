@@ -415,6 +415,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ঠিকানা বার ফলাফলে অনুসন্ধান পরামর্শ দেখাও
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -457,6 +459,9 @@ containers-add-button =
     .accesskey = A
 containers-remove-button =
     .label = অপসারণ
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -534,6 +539,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ডিভাইসের নাম
+sync-device-name-header-2 =
+    .label = ডিভাইসের নাম
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -554,6 +561,8 @@ sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
 sync-connect-another-device = অন্য একটি ডিভাইস সংযুক্ত করুন
+sync-connect-another-device-2 =
+    .label = অন্য একটি ডিভাইস সংযুক্ত করুন
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

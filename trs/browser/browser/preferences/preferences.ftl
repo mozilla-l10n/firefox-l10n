@@ -288,6 +288,9 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Gun' ne' ñaan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Daj unūkuaj ma
@@ -380,6 +383,9 @@ choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -439,6 +445,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Nadigan ma nej sa nana'ui' riña dukuán direksion.
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -483,6 +491,9 @@ containers-add-button =
     .accesskey = A
 containers-remove-button =
     .label = Dure'
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -540,8 +551,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Nagi'iaj nuguàn'àn hīaj
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Nagi'iaj nuguàn'àn hīaj
+    .accesskey = N
 prefs-syncing-button =
     .label = Nagi'iaj nuguàn'anj…
+prefs-syncing-button-2 =
+    .label = Nagi'iaj nuguàn'anj…
+    .title = Nagi'iaj nuguàn'àn hīaj
 
 ## The list of things currently syncing.
 
@@ -595,6 +612,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Si yugui aga'a
+sync-device-name-header-2 =
+    .label = Si yugui aga'a
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -613,6 +632,8 @@ sync-device-name-save =
     .label = Na'nïnj sà'
     .accesskey = N
 sync-connect-another-device = Gatu 'ngà a'ngo aga'a...
+sync-connect-another-device-2 =
+    .label = Gatu 'ngà a'ngo aga'a...
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -664,6 +685,12 @@ forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -757,6 +784,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -912,6 +945,9 @@ addon-recommendations-link = Gahuin chrūn doj
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -943,6 +979,12 @@ certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

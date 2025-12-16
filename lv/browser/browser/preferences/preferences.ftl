@@ -269,6 +269,12 @@ advanced-fonts =
     .label = Paplašināti…
     .accesskey = p
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Mērogs
+preferences-default-zoom-label =
+    .label = Noklusējuma mērogs
+    .accesskey = m
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Mērogs
 preferences-default-zoom = Noklusējuma mērogs
     .accesskey = m
@@ -466,6 +472,9 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -573,6 +582,9 @@ choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
@@ -656,6 +668,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Rādīt meklēšanas ieteikumus adrešu joslā
     .accesskey = r
+search-suggestions-cant-show-2 =
+    .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -717,6 +731,11 @@ containers-settings-button =
     .label = Iestatījumi
 containers-remove-button =
     .label = Noņemt
+
+## Account and sync
+
+sync-group-label =
+    .label = Sinhronizēšana
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -781,6 +800,9 @@ prefs-syncing-off = Sinhronizācija: izslēgta
 prefs-sync-turn-on-syncing =
     .label = Ieslēgt sinhronizāciju…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ieslēgt sinhronizāciju
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
 prefs-sync-now =
     .labelnotsyncing = Sinhronizēt tagad
@@ -789,8 +811,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinhronizēt tagad
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sinhronizēt tagad
+    .accesskey = n
 prefs-syncing-button =
     .label = Sinhronizē...
+prefs-syncing-button-2 =
+    .label = Sinhronizē...
+    .title = Sinhronizēt tagad
 
 ## The list of things currently syncing.
 
@@ -861,6 +889,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Ierīces nosaukums
+sync-device-name-header-2 =
+    .label = Ierīces nosaukums
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -879,6 +909,8 @@ sync-device-name-save =
     .label = Saglabāt
     .accesskey = r
 sync-connect-another-device = Savienot citu ierīci
+sync-connect-another-device-2 =
+    .label = Savienot citu ierīci
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -1351,6 +1383,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

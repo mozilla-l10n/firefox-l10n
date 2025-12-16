@@ -243,6 +243,8 @@ annotations-default-pdf-handler-headline = ਬਿੰਦੀਆਂ ਵਾਲੀਆ
 annotations-default-pdf-handler-body = ਆਪਣੇ ਦਸਤਖ਼ਤ ਵਾਹੋ, ਲਿਖੋ ਜਾਂ ਅੱਪਲੋਡ ਕਰੋ ਅਤੇ ਫੇਰ ਜਿੱਥੇ ਵੀ ਚਾਹੀਦਾ ਹੋਵੇ, ਉੱਥੇ ਲਾ ਦਿਓ। ਅਗਲੀ ਵਾਰ ਲਈ ਆਪਣੇ ਦਸਤਖ਼ਤਾਂ ਨੂੰ ਸੰਭਾਲ ਲਵੋ।
 annotations-make-default-pdf-handler-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ PDF ਐਡੀਟਰ ਬਣਾਉਣਾ ਹੈ?
 annotations-make-default-pdf-handler-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ PDF ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਕੋਲ ਸਾਡੇ ਸਾਰੇ ਟੂਲਾਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ।
+annotations-make-default-pdf-primary-cta-label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+annotations-make-default-pdf-next-label = ਅੱਗੇ
 annotations-make-default-pdf-primary-cta =
     .label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
 annotations-make-default-pdf-next =
@@ -423,3 +425,6 @@ etp-strict-exceptions-infobar-button = ਸੁਧਾਰ ਲਾਗੂ ਕਰੋ
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+

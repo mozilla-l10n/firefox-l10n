@@ -323,6 +323,12 @@ advanced-fonts =
     .label = Talqayt…
     .accesskey = l
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Semɣeṛ/Semẓi
+preferences-default-zoom-label =
+    .label = Zoom awurman
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Semɣeṛ/Semẓi
 preferences-default-zoom = Zoom awurman
     .accesskey = Z
@@ -518,6 +524,9 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -627,6 +636,9 @@ choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Agbur { -firefox-home-brand-name }
@@ -712,6 +724,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sken isumar n unadi deg ugmuḍ n ufeggag n tansa
     .accesskey = u
+search-suggestions-cant-show-2 =
+    .message = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara azray.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -778,6 +792,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Kkes
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -841,6 +860,9 @@ prefs-syncing-off = Amtawi: INSA
 prefs-sync-turn-on-syncing =
     .label = Rmed amtawi…
     .accesskey = m
+prefs-sync-turn-on-syncing-2 =
+    .label = Rmed amtawi
+    .accesskey = m
 prefs-sync-offer-setup-label2 = Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d yiɣewwaren akked ibenkan-inek akk.
 prefs-sync-now =
     .labelnotsyncing = Mtawi tura
@@ -849,8 +871,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Mtawi tura
     .accesskey = T
+prefs-sync-now-button-2 =
+    .label = Mtawi tura
+    .accesskey = T
 prefs-syncing-button =
     .label = Amtawi…
+prefs-syncing-button-2 =
+    .label = Amtawi…
+    .title = Mtawi tura
 
 ## The list of things currently syncing.
 
@@ -924,6 +952,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Isem n yibenk
+sync-device-name-header-2 =
+    .label = Isem n yibenk
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -942,6 +972,8 @@ sync-device-name-save =
     .label = Sekles
     .accesskey = l
 sync-connect-another-device = Qqen ibenk-nniḍen
+sync-connect-another-device-2 =
+    .label = Qqen ibenk-nniḍen
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

@@ -243,6 +243,8 @@ annotations-default-pdf-handler-headline = Tilføj din signatur hvor som helst!
 annotations-default-pdf-handler-body = Tegn, skriv eller upload din signatur og placer den lige dér, hvor du vil. Gem dine mest brugte signaturer til senere brug.
 annotations-make-default-pdf-handler-title = Gør { -brand-short-name } til din foretrukne PDF-editor?
 annotations-make-default-pdf-handler-subtitle = Du får adgang til vores værktøjer, hver gang du åbner en PDF-fil.
+annotations-make-default-pdf-primary-cta-label = Brug som standard
+annotations-make-default-pdf-next-label = Næste
 annotations-make-default-pdf-primary-cta =
     .label = Brug som standard
 annotations-make-default-pdf-next =
@@ -423,3 +425,6 @@ etp-strict-exceptions-infobar-button = Løs problemer
     .accesskey = L
 etp-strict-exceptions-infobar-not-now = Ikke nu
     .accesskey = k
+
+## 'Set to default' messaging displayed within the App menu
+

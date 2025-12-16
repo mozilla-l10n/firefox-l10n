@@ -352,6 +352,12 @@ advanced-fonts =
     .label = 高级…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = 全局缩放
+preferences-default-zoom-label =
+    .label = 默认缩放
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = 全局缩放
 preferences-default-zoom = 默认缩放
     .accesskey = z
@@ -551,6 +557,9 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -769,7 +778,11 @@ home-prefs-mission-message-learn-more-link = 了解其方式
 home-prefs-mission-message2 =
     .message = 建设一个更好的互联网的使命，离不开我们赞助商的支持。
 home-prefs-manage-topics-link = 管理主题
+home-prefs-manage-topics-link2 =
+    .label = 管理主题
 home-prefs-choose-wallpaper-link = 选择壁纸
+home-prefs-choose-wallpaper-link2 =
+    .label = 选择壁纸
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -799,6 +812,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 在地址栏结果中显示搜索建议
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = 由于您已经设置 { -brand-short-name } 不记录浏览历史，地址栏中将不会显示搜索建议。
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -875,6 +890,11 @@ containers-settings-button =
 containers-remove-button =
     .label = 移除
 
+## Account and sync
+
+sync-group-label =
+    .label = 同步
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -938,6 +958,9 @@ prefs-syncing-off = 同步：关闭
 prefs-sync-turn-on-syncing =
     .label = 开启同步...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 开启同步
+    .accesskey = s
 prefs-sync-offer-setup-label2 = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与设置。
 prefs-sync-now =
     .labelnotsyncing = 立即同步
@@ -946,8 +969,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 立即同步
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 立即同步
+    .accesskey = N
 prefs-syncing-button =
     .label = 正在同步...
+prefs-syncing-button-2 =
+    .label = 正在同步...
+    .title = 立即同步
 
 ## The list of things currently syncing.
 
@@ -1028,6 +1057,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 设备名称
+sync-device-name-header-2 =
+    .label = 设备名称
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1046,6 +1077,8 @@ sync-device-name-save =
     .label = 保存
     .accesskey = v
 sync-connect-another-device = 连接其他设备
+sync-connect-another-device-2 =
+    .label = 连接其他设备
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

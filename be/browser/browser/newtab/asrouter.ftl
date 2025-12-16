@@ -247,6 +247,8 @@ annotations-default-pdf-handler-headline = Дадайце свой подпіс 
 annotations-default-pdf-handler-body = Намалюйце, напішыце або зацягніце свой подпіс, а затым размясціце яго дакладна там, дзе вам трэба. Захоўвайце свае любімыя подпісы для наступнага разу.
 annotations-make-default-pdf-handler-title = Зрабіць { -brand-short-name } вашым прадвызначаным рэдактарам PDF?
 annotations-make-default-pdf-handler-subtitle = Вы будзеце мець доступ да нашых прылад кожны раз, калі адкрываеце PDF-файл.
+annotations-make-default-pdf-primary-cta-label = Зрабіць прадвызначаным
+annotations-make-default-pdf-next-label = Далей
 annotations-make-default-pdf-primary-cta =
     .label = Зрабіць прадвызначаным
 annotations-make-default-pdf-next =
@@ -427,3 +429,6 @@ etp-strict-exceptions-infobar-button = Ужыць выпраўленні
     .accesskey = У
 etp-strict-exceptions-infobar-not-now = Не зараз
     .accesskey = Н
+
+## 'Set to default' messaging displayed within the App menu
+

@@ -255,6 +255,12 @@ advanced-fonts =
     .label = Adhartach…
     .accesskey = h
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Sùm
+preferences-default-zoom-label =
+    .label = An sùm bunaiteach
+    .accesskey = s
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Sùm
 preferences-default-zoom = An sùm bunaiteach
     .accesskey = s
@@ -450,6 +456,9 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -551,6 +560,9 @@ choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Susbaint { -firefox-home-brand-name }
@@ -626,6 +638,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Seall molaidhean luirg ann an toraidhean bàr an t-seòlaidh
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Cha dèid molaidhean luirg a shealltainn ann an toraidhean bàr an t-seòlaidh a chionn ’s gun do dh’iarr thu air { -brand-short-name } gun a bhith a’ cumail na h-eachdraidh sa chuimhne.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -688,6 +702,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Thoir air falbh
 
+## Account and sync
+
+sync-group-label =
+    .label = Sioncronachadh
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -744,6 +763,9 @@ prefs-syncing-off = Sioncronachadh: DHETH
 prefs-sync-turn-on-syncing =
     .label = Cuir an sioncronachadh air…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Cuir an sioncronachadh air
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
 prefs-sync-now =
     .labelnotsyncing = Sioncronaich an-dràsta
@@ -752,8 +774,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sioncronaich an-dràsta
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sioncronaich an-dràsta
+    .accesskey = n
 prefs-syncing-button =
     .label = ’Ga shioncronachadh…
+prefs-syncing-button-2 =
+    .label = ’Ga shioncronachadh…
+    .title = Sioncronaich an-dràsta
 
 ## The list of things currently syncing.
 
@@ -814,6 +842,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Ainm an uidheim
+sync-device-name-header-2 =
+    .label = Ainm an uidheim
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -832,6 +862,8 @@ sync-device-name-save =
     .label = Sàbhail
     .accesskey = b
 sync-connect-another-device = Ceangail uidheam eile ris
+sync-connect-another-device-2 =
+    .label = Ceangail uidheam eile ris
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -911,6 +943,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1230,6 +1265,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

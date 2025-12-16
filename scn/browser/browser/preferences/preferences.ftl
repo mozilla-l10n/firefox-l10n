@@ -157,6 +157,12 @@ advanced-fonts =
     .label = Avanzatu..
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Grannizza
+preferences-default-zoom-label =
+    .label = Grannizza pridifinuta
+    .accesskey = f
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Grannizza
 preferences-default-zoom = Grannizza pridifinuta
     .accesskey = f
@@ -312,6 +318,9 @@ update-in-progress-ok-button = &Stagghia
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Pristazziuni
@@ -405,6 +414,9 @@ choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -464,6 +476,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mustra suggirimenti di risciduta nnê risurtati dâ sbarra dû nnirizzu
     .accesskey = M
+search-suggestions-cant-show-2 =
+    .message = I suggirimenti di risciduta nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -508,6 +522,9 @@ containers-add-button =
     .accesskey = A
 containers-remove-button =
     .label = Leva
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -565,8 +582,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincrunizza ora
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sincrunizza ora
+    .accesskey = S
 prefs-syncing-button =
     .label = Staju sincrunizzannu…
+prefs-syncing-button-2 =
+    .label = Staju sincrunizzannu…
+    .title = Sincrunizza ora
 
 ## The list of things currently syncing.
 
@@ -620,6 +643,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nomu dû dispusitivu
+sync-device-name-header-2 =
+    .label = Nomu dû dispusitivu
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -638,6 +663,8 @@ sync-device-name-save =
     .label = Sarba
     .accesskey = b
 sync-connect-another-device = Culleja n’autru dispusitivu
+sync-connect-another-device-2 =
+    .label = Culleja n’autru dispusitivu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -689,6 +716,12 @@ forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -784,6 +817,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -951,6 +990,9 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -981,6 +1023,12 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -226,6 +226,8 @@ set-default-pdf-handler-primary = Түсіндім
 
 ## PDF Annotations strings
 
+annotations-make-default-pdf-primary-cta-label = Бастапқы ретінде орнату
+annotations-make-default-pdf-next-label = Келесі
 annotations-make-default-pdf-primary-cta =
     .label = Бастапқы ретінде орнату
 annotations-make-default-pdf-next =
@@ -390,3 +392,6 @@ etp-strict-exceptions-infobar-button = Түзетулерді іске асыр�
     .accesskey = а
 etp-strict-exceptions-infobar-not-now = Қазір емес
     .accesskey = м
+
+## 'Set to default' messaging displayed within the App menu
+

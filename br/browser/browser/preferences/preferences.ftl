@@ -255,6 +255,12 @@ advanced-fonts =
     .label = Kempleshoc'h…
     .accesskey = p
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoum
+preferences-default-zoom-label =
+    .label = Zoum dre ziouer
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoum
 preferences-default-zoom = Zoum dre ziouer
     .accesskey = Z
@@ -446,6 +452,9 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -547,6 +556,9 @@ choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -630,6 +642,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù
     .accesskey = D
+search-suggestions-cant-show-2 =
+    .message = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m’ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -686,6 +700,11 @@ containers-settings-button =
     .label = Arventennoù
 containers-remove-button =
     .label = Lemel kuit
+
+## Account and sync
+
+sync-group-label =
+    .label = Goubredañ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -750,6 +769,9 @@ prefs-syncing-off = Goubredañ: KET
 prefs-sync-turn-on-syncing =
     .label = Gweredekaat ar goubredañ…
     .accesskey = G
+prefs-sync-turn-on-syncing-2 =
+    .label = Gweredekaat ar goubredañ
+    .accesskey = G
 prefs-sync-offer-setup-label2 = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù hag arventennoù dre veur a drevnad.
 prefs-sync-now =
     .labelnotsyncing = Goubredañ bremañ
@@ -758,8 +780,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Goubredañ bremañ
     .accesskey = G
+prefs-sync-now-button-2 =
+    .label = Goubredañ bremañ
+    .accesskey = G
 prefs-syncing-button =
     .label = O c’houbredañ…
+prefs-syncing-button-2 =
+    .label = O c’houbredañ…
+    .title = Goubredañ bremañ
 
 ## The list of things currently syncing.
 
@@ -828,6 +856,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Anv an trevnad
+sync-device-name-header-2 =
+    .label = Anv an trevnad
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -846,6 +876,8 @@ sync-device-name-save =
     .label = Enrollañ
     .accesskey = E
 sync-connect-another-device = Kennaskit un trevnad all
+sync-connect-another-device-2 =
+    .label = Kennaskit un trevnad all
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -1056,6 +1088,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1274,6 +1309,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

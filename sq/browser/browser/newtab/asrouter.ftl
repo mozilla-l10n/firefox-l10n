@@ -243,6 +243,8 @@ annotations-default-pdf-handler-headline = Nënshkruani te vendi përkatës — 
 annotations-default-pdf-handler-body = Vizatojeni, shkruajeni në tastierë, ose ngarkoni nënshkrimin tuaj, mandej vendoseni mu atje ku doni. Ruajini nënshkrimet tuaja për herë tjetër.
 annotations-make-default-pdf-handler-title = Të bëhet { -brand-short-name }-i përpunuesi juaj parazgjedhje për PDF-të?
 annotations-make-default-pdf-handler-subtitle = Do të mund të përdorni mjetet tona sa herë që hapni një PDF.
+annotations-make-default-pdf-primary-cta-label = Vëre si parazgjedhje
+annotations-make-default-pdf-next-label = Pasuesi
 annotations-make-default-pdf-primary-cta =
     .label = Vëre si parazgjedhje
 annotations-make-default-pdf-next =
@@ -423,3 +425,6 @@ etp-strict-exceptions-infobar-button = Aplikoji ndreqjet
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Jo tani
     .accesskey = J
+
+## 'Set to default' messaging displayed within the App menu
+

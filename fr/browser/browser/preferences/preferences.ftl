@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Avancé…
     .accesskey = v
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom par défaut
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom par défaut
     .accesskey = Z
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Découvrir comment
 home-prefs-mission-message2 =
     .message = Nos sponsors soutiennent notre mission de créer un meilleur Web.
 home-prefs-manage-topics-link = Gérer les sujets
+home-prefs-manage-topics-link2 =
+    .label = Gérer les sujets
 home-prefs-choose-wallpaper-link = Choisir un fond d’écran
+home-prefs-choose-wallpaper-link2 =
+    .label = Choisir un fond d’écran
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,6 +833,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Afficher les suggestions de recherche parmi les résultats de la barre d’adresse
     .accesskey = c
+search-suggestions-cant-show-2 =
+    .message = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -904,6 +916,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Supprimer
 
+## Account and sync
+
+sync-group-label =
+    .label = Synchronisation
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +984,9 @@ prefs-syncing-off = Synchronisation : DÉSACTIVÉE
 prefs-sync-turn-on-syncing =
     .label = Activer la synchronisation…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activer la synchronisation
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et paramètres entre tous vos appareils.
 prefs-sync-now =
     .labelnotsyncing = Synchroniser maintenant
@@ -975,8 +995,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synchroniser maintenant
     .accesskey = m
+prefs-sync-now-button-2 =
+    .label = Synchroniser maintenant
+    .accesskey = m
 prefs-syncing-button =
     .label = Synchronisation…
+prefs-syncing-button-2 =
+    .label = Synchronisation…
+    .title = Synchroniser maintenant
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1087,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nom de l’appareil
+sync-device-name-header-2 =
+    .label = Nom de l’appareil
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1107,8 @@ sync-device-name-save =
     .label = Enregistrer
     .accesskey = E
 sync-connect-another-device = Connecter un autre appareil
+sync-connect-another-device-2 =
+    .label = Connecter un autre appareil
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

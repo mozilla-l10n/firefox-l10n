@@ -249,6 +249,8 @@ annotations-default-pdf-handler-headline = Złóż podpis w odpowiednim polu �
 annotations-default-pdf-handler-body = Narysuj, napisz lub prześlij swój podpis, a następnie umieść go dokładnie tam, gdzie potrzebujesz. Zachowaj swoje podpisy na różne okazje.
 annotations-make-default-pdf-handler-title = Czy ustawić { -brand-short-name(case: "acc") } jako domyślny edytor plików PDF?
 annotations-make-default-pdf-handler-subtitle = Korzystaj z naszych narzędzi za każdym razem, gdy otwierasz plik PDF.
+annotations-make-default-pdf-primary-cta-label = Ustaw jako domyślny
+annotations-make-default-pdf-next-label = Dalej
 annotations-make-default-pdf-primary-cta =
     .label = Ustaw jako domyślny
 annotations-make-default-pdf-next =
@@ -429,3 +431,6 @@ etp-strict-exceptions-infobar-button = Napraw stronę
     .accesskey = w
 etp-strict-exceptions-infobar-not-now = Nie teraz
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+

@@ -264,6 +264,9 @@ update-application-use-service =
     .label = နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = စွမ်းဆောင်ရည်
@@ -347,6 +350,9 @@ choose-bookmark =
     .label = စာမှတ်ကို အသုံးပြုပါ…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -398,6 +404,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ရှာဖွေရေးအကြံပြုချက်များကို လိပ်စာဘားတန်းရလဒ်ထဲတွင် ပြသပါ
     .accesskey = i
+search-suggestions-cant-show-2 =
+    .message = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -441,6 +449,9 @@ containers-add-button =
 containers-remove-button =
     .label = ဖယ်ရှားပါ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -483,6 +494,9 @@ sync-sign-in =
     .label = ဝင်ပါ
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = စာမှတ်များ
@@ -518,6 +532,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ကိရိယာအမည်
+sync-device-name-header-2 =
+    .label = ကိရိယာအမည်
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -536,6 +552,8 @@ sync-device-name-save =
     .label = သိမ်းဆည်းပါ
     .accesskey = v
 sync-connect-another-device = အခြားကိရိယာကို ချိတ်ပါ။
+sync-connect-another-device-2 =
+    .label = အခြားကိရိယာကို ချိတ်ပါ။
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -576,6 +594,12 @@ forms-master-pw-change =
     .label = အဓိကစကားဝှက်ကို ပြောင်းလဲရန်…
     .accesskey = M
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -651,6 +675,12 @@ sitedata-clear =
 sitedata-settings =
     .label = အချက်အလက်ကို စီမံပါ...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -777,6 +807,9 @@ addon-recommendations-link = ပိုမိုလေ့လာရန်
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -808,6 +841,12 @@ certs-devices =
     .label = လုံခြုံရေး ကိရိယာများ...
     .accesskey = D
 certs-devices-enable-fips = FIPS ကို ဖွင့်ထားပါ
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

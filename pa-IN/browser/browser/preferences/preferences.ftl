@@ -356,6 +356,12 @@ advanced-fonts =
     .label = …ਤਕਨੀਕੀ
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ਜ਼ੂਮ
+preferences-default-zoom-label =
+    .label = ਮੂਲ ਜ਼ੂਮ
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ਜ਼ੂਮ
 preferences-default-zoom = ਮੂਲ ਜ਼ੂਮ
     .accesskey = z
@@ -555,6 +561,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -773,7 +782,11 @@ home-prefs-mission-message-learn-more-link = ਸਮਝੋ ਕਿ ਕਿਵੇਂ
 home-prefs-mission-message2 =
     .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link = ਵਿਸ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
+home-prefs-manage-topics-link2 =
+    .label = ਵਿਸ਼ਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ
 home-prefs-choose-wallpaper-link = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
+home-prefs-choose-wallpaper-link2 =
+    .label = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -807,6 +820,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨਤੀਜਿਆਂ 'ਚ ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -883,6 +898,11 @@ containers-settings-button =
 containers-remove-button =
     .label = ਹਟਾਓ
 
+## Account and sync
+
+sync-group-label =
+    .label = ਸਿੰਕ ਕਰੋ
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -946,6 +966,9 @@ prefs-syncing-off = ਸਿੰਕ ਕਰਨਾ: ਬੰਦ ਹੈ
 prefs-sync-turn-on-syncing =
     .label = …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+    .accesskey = s
 prefs-sync-offer-setup-label2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸਿੰਕਰੋਨਾਈਜ਼ ਕਰੋ।
 prefs-sync-now =
     .labelnotsyncing = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
@@ -954,8 +977,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+    .accesskey = N
 prefs-syncing-button =
     .label = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+prefs-syncing-button-2 =
+    .label = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+    .title = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 
 ## The list of things currently syncing.
 
@@ -1036,6 +1065,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
+sync-device-name-header-2 =
+    .label = ਡਿਵਾਈਸ ਨਾਂ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1054,6 +1085,8 @@ sync-device-name-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = v
 sync-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+sync-connect-another-device-2 =
+    .label = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

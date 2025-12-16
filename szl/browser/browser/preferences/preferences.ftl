@@ -239,6 +239,12 @@ advanced-fonts =
     .label = Rozszyrzōne…
     .accesskey = R
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Srogość strōn
+preferences-default-zoom-label =
+    .label = Wychodno srogość
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Srogość strōn
 preferences-default-zoom = Wychodno srogość
     .accesskey = z
@@ -434,6 +440,9 @@ update-in-progress-ok-button = &Pociep
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Idź dalij
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Sprowność
@@ -535,6 +544,9 @@ choose-bookmark =
     .label = Użyj zokłodki…
     .accesskey = Z
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -605,6 +617,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Pokazuj dorady szukanio we wynikach poska z adresōm
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -662,6 +676,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Skasuj
 
+## Account and sync
+
+sync-group-label =
+    .label = Synchrōnizacyjo
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -718,6 +737,9 @@ prefs-syncing-off = Synchrōnizowanie wyłōnczōne
 prefs-sync-turn-on-syncing =
     .label = Załōncz synchronizacyjo…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Załōncz synchronizacyjo
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
 prefs-sync-now =
     .labelnotsyncing = Synchrōnizuj teroz
@@ -726,8 +748,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synchrōnizuj teroz
     .accesskey = T
+prefs-sync-now-button-2 =
+    .label = Synchrōnizuj teroz
+    .accesskey = T
 prefs-syncing-button =
     .label = Synchrōnizuja…
+prefs-syncing-button-2 =
+    .label = Synchrōnizuja…
+    .title = Synchrōnizuj teroz
 
 ## The list of things currently syncing.
 
@@ -786,6 +814,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Miano masziny
+sync-device-name-header-2 =
+    .label = Miano masziny
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -804,6 +834,8 @@ sync-device-name-save =
     .label = Spamiyntej
     .accesskey = p
 sync-connect-another-device = Połōncz inkszo maszina
+sync-connect-another-device-2 =
+    .label = Połōncz inkszo maszina
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -882,6 +914,9 @@ primary-password-os-auth-dialog-message-win = Żeby zrychtować głōwne hasło,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = zrychtuj głōwne hasło
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -982,6 +1017,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1171,6 +1212,9 @@ collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kō
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1219,6 +1263,9 @@ httpsonly-radio-enabled-pbm =
     .label = Załōncz tryb "ino HTTPS" ino w prywatnych ôknach
 httpsonly-radio-disabled =
     .label = Niy załōnczej trybu "ino HTTPS"
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

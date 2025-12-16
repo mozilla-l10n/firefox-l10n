@@ -219,6 +219,12 @@ advanced-fonts =
     .label = Taq Q'axinäq…
     .accesskey = Q
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Sum
+preferences-default-zoom-label =
+    .label = Sum k'o wi
+    .accesskey = S
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Sum
 preferences-default-zoom = Sum k'o wi
     .accesskey = S
@@ -414,6 +420,9 @@ update-in-progress-ok-button = &Tich'aqïx
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rub'eyal nisamäj
@@ -515,6 +524,9 @@ choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Rupam { -firefox-home-brand-name }
@@ -588,6 +600,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kiq'iq'oj kikajtz'ik taq ochochib'äl
     .accesskey = q
+search-suggestions-cant-show-2 =
+    .message = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -645,6 +659,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Tiyuj
 
+## Account and sync
+
+sync-group-label =
+    .label = Ximoj
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -701,6 +720,9 @@ prefs-syncing-off = Nixim: CHUPÜL
 prefs-sync-turn-on-syncing =
     .label = Titzij pa ximoj…
     .accesskey = x
+prefs-sync-turn-on-syncing-2 =
+    .label = Titzij pa ximoj
+    .accesskey = x
 prefs-sync-offer-setup-label2 = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq runuk'ulem chi kikojol konojel ri taq awokisaxel.
 prefs-sync-now =
     .labelnotsyncing = Tixim Wakami
@@ -709,8 +731,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Tixim Wakami
     .accesskey = W
+prefs-sync-now-button-2 =
+    .label = Tixim Wakami
+    .accesskey = W
 prefs-syncing-button =
     .label = Nixim…
+prefs-syncing-button-2 =
+    .label = Nixim…
+    .title = Tixim Wakami
 
 ## The list of things currently syncing.
 
@@ -769,6 +797,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Rub'i' ri okisaxel
+sync-device-name-header-2 =
+    .label = Rub'i' ri okisaxel
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -787,6 +817,8 @@ sync-device-name-save =
     .label = Tiyak
     .accesskey = a
 sync-connect-another-device = Tokisäx jun chik okisaxel
+sync-connect-another-device-2 =
+    .label = Tokisäx jun chik okisaxel
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -866,6 +898,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1180,6 +1215,9 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

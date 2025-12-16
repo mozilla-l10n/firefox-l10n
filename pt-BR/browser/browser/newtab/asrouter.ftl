@@ -244,6 +244,8 @@ annotations-default-pdf-handler-headline = Assine na linha tracejada, ou em qual
 annotations-default-pdf-handler-body = Desenhe, digite ou envie uma imagem de sua assinatura e coloque exatamente onde quiser. Salve suas assinaturas frequentes para usar nas próximas vezes.
 annotations-make-default-pdf-handler-title = Tornar o { -brand-short-name } seu editor de PDF padrão?
 annotations-make-default-pdf-handler-subtitle = Você terá acesso às nossas ferramentas sempre que abrir um PDF.
+annotations-make-default-pdf-primary-cta-label = Definir como padrão
+annotations-make-default-pdf-next-label = Avançar
 annotations-make-default-pdf-primary-cta =
     .label = Definir como padrão
 annotations-make-default-pdf-next =
@@ -424,3 +426,6 @@ etp-strict-exceptions-infobar-button = Aplicar correções
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Agora não
     .accesskey = A
+
+## 'Set to default' messaging displayed within the App menu
+

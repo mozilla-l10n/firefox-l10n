@@ -357,6 +357,12 @@ advanced-fonts =
     .label = Napredno …
     .accesskey = D
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Povečava
+preferences-default-zoom-label =
+    .label = Privzeta povečava
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Povečava
 preferences-default-zoom = Privzeta povečava
     .accesskey = z
@@ -556,6 +562,9 @@ update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -766,7 +775,11 @@ home-prefs-mission-message-learn-more-link = Spoznajte, kako
 home-prefs-mission-message2 =
     .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
 home-prefs-manage-topics-link = Upravljanje tem
+home-prefs-manage-topics-link2 =
+    .label = Upravljanje tem
 home-prefs-choose-wallpaper-link = Izberite si ozadje
+home-prefs-choose-wallpaper-link2 =
+    .label = Izberite si ozadje
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -802,6 +815,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži predloge iskanja v rezultatih naslovne vrstice
     .accesskey = P
+search-suggestions-cant-show-2 =
+    .message = Predlogi iskanja v naslovni vrstici ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -878,6 +893,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Odstrani
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinhronizacija
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -941,6 +961,9 @@ prefs-syncing-off = Sinhronizacija: ONEMOGOČENO
 prefs-sync-turn-on-syncing =
     .label = Vklopi sinhronizacijo …
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Vklopi sinhronizacijo{ " " }
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh svojih naprav.
 prefs-sync-now =
     .labelnotsyncing = Sinhroniziraj zdaj
@@ -949,8 +972,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinhroniziraj zdaj
     .accesskey = z
+prefs-sync-now-button-2 =
+    .label = Sinhroniziraj zdaj
+    .accesskey = z
 prefs-syncing-button =
     .label = Sinhroniziranje …
+prefs-syncing-button-2 =
+    .label = Sinhroniziranje …
+    .title = Sinhroniziraj zdaj
 
 ## The list of things currently syncing.
 
@@ -1031,6 +1060,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Ime naprave
+sync-device-name-header-2 =
+    .label = Ime naprave
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1049,6 +1080,8 @@ sync-device-name-save =
     .label = Shrani
     .accesskey = S
 sync-connect-another-device = Poveži drugo napravo
+sync-connect-another-device-2 =
+    .label = Poveži drugo napravo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

@@ -321,6 +321,12 @@ advanced-fonts =
     .label = متقدم…
     .accesskey = د
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = التقريب
+preferences-default-zoom-label =
+    .label = التقريب المبدئي
+    .accesskey = ق
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = التقريب
 preferences-default-zoom = التقريب المبدئي
     .accesskey = ق
@@ -516,6 +522,9 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -625,6 +634,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
@@ -711,6 +723,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
+search-suggestions-cant-show-2 =
+    .message = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -782,6 +796,11 @@ containers-settings-button =
 containers-remove-button =
     .label = أزِل
 
+## Account and sync
+
+sync-group-label =
+    .label = المزامنة
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -845,6 +864,9 @@ prefs-syncing-off = المزامنة: معطلة
 prefs-sync-turn-on-syncing =
     .label = فعّل المزامنة…
     .accesskey = ف
+prefs-sync-turn-on-syncing-2 =
+    .label = فعّل المزامنة
+    .accesskey = ف
 prefs-sync-offer-setup-label2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 prefs-sync-now =
     .labelnotsyncing = زامِن الآن
@@ -853,8 +875,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = زامِن الآن
     .accesskey = م
+prefs-sync-now-button-2 =
+    .label = زامِن الآن
+    .accesskey = م
 prefs-syncing-button =
     .label = يُزامن…
+prefs-syncing-button-2 =
+    .label = يُزامن…
+    .title = زامِن الآن
 
 ## The list of things currently syncing.
 
@@ -928,6 +956,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = اسم الجهاز
+sync-device-name-header-2 =
+    .label = اسم الجهاز
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -946,6 +976,8 @@ sync-device-name-save =
     .label = احفظ
     .accesskey = ح
 sync-connect-another-device = صِلْ جهازا آخر
+sync-connect-another-device-2 =
+    .label = صِلْ جهازا آخر
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

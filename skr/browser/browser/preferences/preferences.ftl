@@ -266,6 +266,12 @@ advanced-fonts =
     .label = اعلیٰ …
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = زوم
+preferences-default-zoom-label =
+    .label = طے شدہ زوم
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = زوم
 preferences-default-zoom = طے شدہ زوم
     .accesskey = z
@@ -463,6 +469,9 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -570,6 +579,9 @@ choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } مواد
@@ -653,6 +665,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ایڈریس بار دے نتیجیاں وِچ ڳولݨ دیاں تجویزاں ظاہر کرو
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = ڳولݨ دیاں صلاحیں لوکیشن بار دے نتیجے وِچ نہ ݙکھایاں ویسن کیوں جو تساں تاریخ کوں کݙاہیں یاد نہ رکھݨ کیتے { -brand-short-name } کوں ترتیب ݙتا ہے۔
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -714,6 +728,11 @@ containers-settings-button =
     .label = ترتیباں
 containers-remove-button =
     .label = ہٹاؤ
+
+## Account and sync
+
+sync-group-label =
+    .label = ہم وقت
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -778,6 +797,9 @@ prefs-syncing-off = سینکنگ: بند ہے
 prefs-sync-turn-on-syncing =
     .label = سینکنگ چالو کرو …
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = سینکنگ چالو کرو{ " " }
+    .accesskey = s
 prefs-sync-offer-setup-label2 = اپݨے تمام آلات تے اپݨے نشانیاں، تاریخ، ٹیباں، پاس ورڈز، ایڈ آنز تے ترتیباں کوں سنکرونائز کرو۔
 prefs-sync-now =
     .labelnotsyncing = ہݨیں سینک کرو
@@ -786,8 +808,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ہݨیں سینک کرو
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ہݨیں سینک کرو
+    .accesskey = N
 prefs-syncing-button =
     .label = سینک تھیندا پئے …
+prefs-syncing-button-2 =
+    .label = سینک تھیندا پئے …
+    .title = ہݨیں سینک کرو
 
 ## The list of things currently syncing.
 
@@ -858,6 +886,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = ڈیوائس دا ناں
+sync-device-name-header-2 =
+    .label = ڈیوائس دا ناں
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -876,6 +906,8 @@ sync-device-name-save =
     .label = ہتھیکڑا کرو
     .accesskey = v
 sync-connect-another-device = ٻئی ڈیوائس نال کنکٹ کرو
+sync-connect-another-device-2 =
+    .label = ٻئی ڈیوائس نال کنکٹ کرو
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

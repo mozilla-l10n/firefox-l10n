@@ -247,6 +247,12 @@ advanced-fonts =
     .label = Kitkas…
     .accesskey = t
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Dydis
+preferences-default-zoom-label =
+    .label = Numatytasis dydis
+    .accesskey = d
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Dydis
 preferences-default-zoom = Numatytasis dydis
     .accesskey = d
@@ -442,6 +448,9 @@ update-in-progress-ok-button = &Atmesti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Našumas
@@ -543,6 +552,9 @@ choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = „{ -firefox-home-brand-name }“ turinys
@@ -617,6 +629,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Rodyti paieškos žodžių siūlymus adreso lauko rezultatuose
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -679,6 +693,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Pašalinti
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinchronizavimas
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -735,6 +754,9 @@ prefs-syncing-off = Sinchronizavimas: IŠJUNGTA
 prefs-sync-turn-on-syncing =
     .label = Įjungti sinchronizavimą…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Įjungti sinchronizavimą
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus, ir nuostatas visuose savo įrenginiuose.
 prefs-sync-now =
     .labelnotsyncing = Sinchronizuoti dabar
@@ -743,8 +765,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinchronizuoti dabar
     .accesskey = d
+prefs-sync-now-button-2 =
+    .label = Sinchronizuoti dabar
+    .accesskey = d
 prefs-syncing-button =
     .label = Sinchronizuojama…
+prefs-syncing-button-2 =
+    .label = Sinchronizuojama…
+    .title = Sinchronizuoti dabar
 
 ## The list of things currently syncing.
 
@@ -803,6 +831,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Įrenginio pavadinimas
+sync-device-name-header-2 =
+    .label = Įrenginio pavadinimas
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -821,6 +851,8 @@ sync-device-name-save =
     .label = Įrašyti
     .accesskey = r
 sync-connect-another-device = Susieti kitą įrenginį
+sync-connect-another-device-2 =
+    .label = Susieti kitą įrenginį
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -900,6 +932,9 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1000,6 +1035,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1201,6 +1242,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1249,6 +1293,9 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -242,6 +242,8 @@ annotations-default-pdf-handler-headline = ¡Firma en la línea de puntos o en c
 annotations-default-pdf-handler-body = Dibuja, escribe o sube tu firma y colócala exactamente donde quieras. Guarda tus firmas favoritas para la próxima vez.
 annotations-make-default-pdf-handler-title = ¿Convertir { -brand-short-name } en su editor de PDF predeterminado?
 annotations-make-default-pdf-handler-subtitle = Tendrás acceso a nuestras herramientas cada vez que abras un PDF.
+annotations-make-default-pdf-primary-cta-label = Establecer como predeterminado
+annotations-make-default-pdf-next-label = Siguiente
 annotations-make-default-pdf-primary-cta =
     .label = Establecer como predeterminado
 annotations-make-default-pdf-next =
@@ -422,3 +424,6 @@ etp-strict-exceptions-infobar-button = Aplicar correcciones
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ahora no
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+

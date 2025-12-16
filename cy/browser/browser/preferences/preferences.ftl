@@ -371,6 +371,12 @@ advanced-fonts =
     .label = Uwch…
     .accesskey = w
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Chwyddo
+preferences-default-zoom-label =
+    .label = Chwyddo rhagosodedig
+    .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Chwyddo
 preferences-default-zoom = Chwyddo rhagosodedig
     .accesskey = C
@@ -801,7 +807,11 @@ home-prefs-mission-message-learn-more-link = Dyma sut
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link = Rheoli pynciau
+home-prefs-manage-topics-link2 =
+    .label = Rheoli pynciau
 home-prefs-choose-wallpaper-link = Dewis Papur Wal
+home-prefs-choose-wallpaper-link2 =
+    .label = Dewis Papur Wal
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -839,6 +849,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Dangos awgrymiadau chwilio yng nghanlyniadau'r bar lleoliad
     .accesskey = D
+search-suggestions-cant-show-2 =
+    .message = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -920,6 +932,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Tynnu
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -983,6 +1000,9 @@ prefs-syncing-off = Cydweddu: DIFFODD
 prefs-sync-turn-on-syncing =
     .label = Cychwyn cydweddu…
     .accesskey = C
+prefs-sync-turn-on-syncing-2 =
+    .label = Cychwyn cydweddu
+    .accesskey = C
 prefs-sync-offer-setup-label2 = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ar draws eich holl ddyfeisiau.
 prefs-sync-now =
     .labelnotsyncing = Cydweddu Nawr
@@ -991,8 +1011,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Cydweddu Nawr
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Cydweddu Nawr
+    .accesskey = N
 prefs-syncing-button =
     .label = Cydweddu…
+prefs-syncing-button-2 =
+    .label = Cydweddu…
+    .title = Cydweddu Nawr
 
 ## The list of things currently syncing.
 
@@ -1077,6 +1103,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enw Dyfais
+sync-device-name-header-2 =
+    .label = Enw Dyfais
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1095,6 +1123,8 @@ sync-device-name-save =
     .label = Cadw
     .accesskey = C
 sync-connect-another-device = Cysylltu dyfais arall
+sync-connect-another-device-2 =
+    .label = Cysylltu dyfais arall
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

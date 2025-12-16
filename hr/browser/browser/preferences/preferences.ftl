@@ -362,6 +362,12 @@ advanced-fonts =
     .label = Napredno …
     .accesskey = a
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zumiranje
+preferences-default-zoom-label =
+    .label = Standardni postotak zumiranja
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zumiranje
 preferences-default-zoom = Standardni postotak zumiranja
     .accesskey = z
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Saznaj kako
 home-prefs-mission-message2 =
     .message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba.
 home-prefs-manage-topics-link = Upravljaj temama
+home-prefs-manage-topics-link2 =
+    .label = Upravljaj temama
 home-prefs-choose-wallpaper-link = Odaberi pozadinu
+home-prefs-choose-wallpaper-link2 =
+    .label = Odaberi pozadinu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -824,6 +834,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Prijedlozi za pretraživanje se neće prikazati u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -902,6 +914,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Ukloni
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinkronizacija
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -965,6 +982,9 @@ prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
 prefs-sync-turn-on-syncing =
     .label = Uključi sinkronizaciju…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Uključi sinkronizaciju
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinkroniziraj zabilješke, povijest, kartice, lozinke, dodatke i postavke na svim tvojim uređajima.
 prefs-sync-now =
     .labelnotsyncing = Sinkroniziraj sada
@@ -973,8 +993,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinkroniziraj sada
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sinkroniziraj sada
+    .accesskey = n
 prefs-syncing-button =
     .label = Sinkroniziranje…
+prefs-syncing-button-2 =
+    .label = Sinkroniziranje…
+    .title = Sinkroniziraj sada
 
 ## The list of things currently syncing.
 
@@ -1056,6 +1082,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Ime uređaja
+sync-device-name-header-2 =
+    .label = Ime uređaja
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1074,6 +1102,8 @@ sync-device-name-save =
     .label = Spremi
     .accesskey = e
 sync-connect-another-device = Poveži drugi uređaj
+sync-connect-another-device-2 =
+    .label = Poveži drugi uređaj
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

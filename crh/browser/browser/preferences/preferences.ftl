@@ -277,6 +277,9 @@ update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = İcraat
@@ -365,6 +368,9 @@ choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -416,6 +422,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Adres çubuğı neticelerinde qıdırma telqinlerini köster
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -459,6 +467,9 @@ containers-add-button =
 containers-remove-button =
     .label = Çetleştir
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -501,6 +512,12 @@ sync-sign-in =
     .label = Giriş yap
     .accesskey = G
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -529,6 +546,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Cihaz adı
+sync-device-name-header-2 =
+    .label = Cihaz adı
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -547,6 +566,8 @@ sync-device-name-save =
     .label = Saqla
     .accesskey = K
 sync-connect-another-device = Başqa bir cihaz bağla
+sync-connect-another-device-2 =
+    .label = Başqa bir cihaz bağla
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -587,6 +608,12 @@ forms-master-pw-change =
     .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -678,6 +705,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -804,6 +837,9 @@ addon-recommendations-link = Daha çoq ögren
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -835,6 +871,12 @@ certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -347,6 +347,12 @@ advanced-fonts =
     .label = Nâng cao…
     .accesskey = o
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Thu phóng
+preferences-default-zoom-label =
+    .label = Thu phóng mặc định
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Thu phóng
 preferences-default-zoom = Thu phóng mặc định
     .accesskey = z
@@ -546,6 +552,9 @@ update-in-progress-ok-button = &Hủy bỏ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -767,7 +776,11 @@ home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
 home-prefs-mission-message2 =
     .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link = Quản lý chủ đề
+home-prefs-manage-topics-link2 =
+    .label = Quản lý chủ đề
 home-prefs-choose-wallpaper-link = Chọn một hình nền
+home-prefs-choose-wallpaper-link2 =
+    .label = Chọn một hình nền
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -797,6 +810,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Hiển thị gợi ý tìm kiếm trong kết quả thanh địa chỉ
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Gợi ý tìm kiếm sẽ không được hiển thị ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -873,6 +888,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Loại bỏ
 
+## Account and sync
+
+sync-group-label =
+    .label = Đồng bộ hóa
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -936,6 +956,9 @@ prefs-syncing-off = Đồng bộ hóa: TẮT
 prefs-sync-turn-on-syncing =
     .label = Bật đồng bộ hóa…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Bật đồng bộ hóa
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và cài đặt tới tất cả các thiết bị của bạn.
 prefs-sync-now =
     .labelnotsyncing = Đồng bộ hóa ngay
@@ -944,8 +967,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Đồng bộ hóa ngay
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Đồng bộ hóa ngay
+    .accesskey = N
 prefs-syncing-button =
     .label = Đang đồng bộ hóa…
+prefs-syncing-button-2 =
+    .label = Đang đồng bộ hóa…
+    .title = Đồng bộ hóa ngay
 
 ## The list of things currently syncing.
 
@@ -1026,6 +1055,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tên thiết bị
+sync-device-name-header-2 =
+    .label = Tên thiết bị
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1044,6 +1075,8 @@ sync-device-name-save =
     .label = Lưu
     .accesskey = u
 sync-connect-another-device = Kết nối thiết bị khác
+sync-connect-another-device-2 =
+    .label = Kết nối thiết bị khác
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

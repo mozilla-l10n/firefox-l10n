@@ -359,6 +359,12 @@ advanced-fonts =
     .label = დამატებით…
     .accesskey = დ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ზომა
+preferences-default-zoom-label =
+    .label = ნაგულისხმევი ზომა
+    .accesskey = ზ
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ზომა
 preferences-default-zoom = ნაგულისხმევი ზომა
     .accesskey = ზ
@@ -558,6 +564,9 @@ update-in-progress-ok-button = &უარყოფა
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -779,7 +788,11 @@ home-prefs-mission-message-learn-more-link = იხილეთ, როგორ
 home-prefs-mission-message2 =
     .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
 home-prefs-manage-topics-link = თემების მართვა
+home-prefs-manage-topics-link2 =
+    .label = თემების მართვა
 home-prefs-choose-wallpaper-link = ფონის არჩევა
+home-prefs-choose-wallpaper-link2 =
+    .label = ფონის არჩევა
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -813,6 +826,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ძიების შემოთავაზებები მისამართების ველის შედეგებში
     .accesskey = ძ
+search-suggestions-cant-show-2 =
+    .message = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -889,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = წაშლა
 
+## Account and sync
+
+sync-group-label =
+    .label = სინქრონიზაცია
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -952,6 +972,9 @@ prefs-syncing-off = დასინქრონება: გამორ.
 prefs-sync-turn-on-syncing =
     .label = დასინქრონების ჩართვა…
     .accesskey = ქ
+prefs-sync-turn-on-syncing-2 =
+    .label = დასინქრონების ჩართვა
+    .accesskey = ქ
 prefs-sync-offer-setup-label2 = დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
 prefs-sync-now =
     .labelnotsyncing = დასინქრონება ახლავე
@@ -960,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = დასინქრონება ახლავე
     .accesskey = ნ
+prefs-sync-now-button-2 =
+    .label = დასინქრონება ახლავე
+    .accesskey = ნ
 prefs-syncing-button =
     .label = სინქრონდება...
+prefs-syncing-button-2 =
+    .label = სინქრონდება...
+    .title = დასინქრონება ახლავე
 
 ## The list of things currently syncing.
 
@@ -1042,6 +1071,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = მოწყობილობის სახელი
+sync-device-name-header-2 =
+    .label = მოწყობილობის სახელი
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1060,6 +1091,8 @@ sync-device-name-save =
     .label = შენახვა
     .accesskey = ე
 sync-connect-another-device = სხვა მოწყობილობასთან დაკავშირება
+sync-connect-another-device-2 =
+    .label = სხვა მოწყობილობასთან დაკავშირება
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

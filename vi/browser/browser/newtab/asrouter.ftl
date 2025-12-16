@@ -241,6 +241,8 @@ annotations-default-pdf-handler-headline = Ký vào dòng chấm chấm — ho�
 annotations-default-pdf-handler-body = Vẽ, nhập hoặc tải chữ ký của bạn lên, sau đó đặt nó chính xác ở vị trí bạn muốn. Lưu lại chữ ký yêu thích của bạn cho lần sau.
 annotations-make-default-pdf-handler-title = Đặt { -brand-short-name } làm trình chỉnh sửa PDF mặc định của bạn?
 annotations-make-default-pdf-handler-subtitle = Bạn có quyền truy cập vào các công cụ của chúng tôi mỗi khi mở tập tin PDF.
+annotations-make-default-pdf-primary-cta-label = Đặt làm mặc định
+annotations-make-default-pdf-next-label = Tiếp
 annotations-make-default-pdf-primary-cta =
     .label = Đặt làm mặc định
 annotations-make-default-pdf-next =
@@ -421,3 +423,6 @@ etp-strict-exceptions-infobar-button = Áp dụng sửa lỗi
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Không phải bây giờ
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+

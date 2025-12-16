@@ -347,6 +347,12 @@ advanced-fonts =
     .label = 進階…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = 縮放
+preferences-default-zoom-label =
+    .label = 預設縮放比例
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = 縮放
 preferences-default-zoom = 預設縮放比例
     .accesskey = z
@@ -777,7 +783,11 @@ home-prefs-mission-message-learn-more-link = 看看是如何達成的
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link = 管理主題
+home-prefs-manage-topics-link2 =
+    .label = 管理主題
 home-prefs-choose-wallpaper-link = 挑選一張背景圖
+home-prefs-choose-wallpaper-link2 =
+    .label = 挑選一張背景圖
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -811,6 +821,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 在網址列結果中顯示搜尋建議
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -892,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = 移除
 
+## Account and sync
+
+sync-group-label =
+    .label = 同步
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -955,6 +972,9 @@ prefs-syncing-off = 同步：關閉
 prefs-sync-turn-on-syncing =
     .label = 開啟同步…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 開啟同步
+    .accesskey = s
 prefs-sync-offer-setup-label2 = 在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與各種選項。
 prefs-sync-now =
     .labelnotsyncing = 立刻同步
@@ -963,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 立刻同步
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 立刻同步
+    .accesskey = N
 prefs-syncing-button =
     .label = 同步中…
+prefs-syncing-button-2 =
+    .label = 同步中…
+    .title = 立刻同步
 
 ## The list of things currently syncing.
 
@@ -1049,6 +1075,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 裝置名稱
+sync-device-name-header-2 =
+    .label = 裝置名稱
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1067,6 +1095,8 @@ sync-device-name-save =
     .label = 儲存
     .accesskey = v
 sync-connect-another-device = 連結其他裝置
+sync-connect-another-device-2 =
+    .label = 連結其他裝置
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

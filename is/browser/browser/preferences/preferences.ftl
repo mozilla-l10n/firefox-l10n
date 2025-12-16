@@ -323,6 +323,12 @@ advanced-fonts =
     .label = Frekari stillingar…
     .accesskey = a
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Aðdráttur
+preferences-default-zoom-label =
+    .label = Sjálfgefinn aðdráttur
+    .accesskey = d
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Aðdráttur
 preferences-default-zoom = Sjálfgefinn aðdráttur
     .accesskey = d
@@ -520,6 +526,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -629,6 +638,9 @@ choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } efni
@@ -719,6 +731,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sýna leitartillögur í niðurstöðum veffangastikunnar
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Leitartillögur verða ekki sýndar í veffangastikunni þar sem þú hefur stillt { -brand-short-name } á að muna ekki neinn leitarferil.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -791,6 +805,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Fjarlægja
 
+## Account and sync
+
+sync-group-label =
+    .label = Samstilling
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -854,6 +873,9 @@ prefs-syncing-off = Samstilling: AF
 prefs-sync-turn-on-syncing =
     .label = Kveikja á samstillingu…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Kveikja á samstillingu
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
 prefs-sync-now =
     .labelnotsyncing = Samstilla núna
@@ -862,8 +884,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Samstilla núna
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Samstilla núna
+    .accesskey = n
 prefs-syncing-button =
     .label = Samstilli…
+prefs-syncing-button-2 =
+    .label = Samstilli…
+    .title = Samstilla núna
 
 ## The list of things currently syncing.
 
@@ -944,6 +972,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tækjanafn
+sync-device-name-header-2 =
+    .label = Tækjanafn
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -962,6 +992,8 @@ sync-device-name-save =
     .label = Vista
     .accesskey = V
 sync-connect-another-device = Tengja annað tæki
+sync-connect-another-device-2 =
+    .label = Tengja annað tæki
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

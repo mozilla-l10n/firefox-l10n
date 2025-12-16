@@ -347,6 +347,12 @@ advanced-fonts =
     .label = 詳細設定...
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ズーム
+preferences-default-zoom-label =
+    .label = デフォルトズーム
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ズーム
 preferences-default-zoom = デフォルトズーム
     .accesskey = z
@@ -770,7 +776,11 @@ home-prefs-mission-message-learn-more-link = 支援の詳細情報
 home-prefs-mission-message2 =
     .message = スポンサーは、より良いウェブを構築するという私たちの使命を支援しています。
 home-prefs-manage-topics-link = トピックを管理
+home-prefs-manage-topics-link2 =
+    .label = トピックを管理
 home-prefs-choose-wallpaper-link = 壁紙を選択
+home-prefs-choose-wallpaper-link2 =
+    .label = 壁紙を選択
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -800,6 +810,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = アドレスバーに検索候補を表示する
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } に履歴を保存しないよう設定されているため、ロケーションバーに検索候補が表示されません。
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar.
 search-show-search-term-option-2 =
@@ -876,6 +888,11 @@ containers-settings-button =
 containers-remove-button =
     .label = 削除
 
+## Account and sync
+
+sync-group-label =
+    .label = 同期
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -939,6 +956,9 @@ prefs-syncing-off = 同期: オフ
 prefs-sync-turn-on-syncing =
     .label = 同期をオンにしています...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 同期をオンにしています
+    .accesskey = s
 prefs-sync-offer-setup-label2 = ブックマーク、履歴、タブ、パスワード、アドオン、設定をあなたのすべての端末に対して同期させます。
 prefs-sync-now =
     .labelnotsyncing = 今すぐ同期
@@ -947,8 +967,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 今すぐ同期
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 今すぐ同期
+    .accesskey = N
 prefs-syncing-button =
     .label = 同期中...
+prefs-syncing-button-2 =
+    .label = 同期中...
+    .title = 今すぐ同期
 
 ## The list of things currently syncing.
 
@@ -1029,6 +1055,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 端末名
+sync-device-name-header-2 =
+    .label = 端末名
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1049,6 +1077,8 @@ sync-device-name-save =
     .label = 保存
     .accesskey = v
 sync-connect-another-device = 別の端末を接続
+sync-connect-another-device-2 =
+    .label = 別の端末を接続
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

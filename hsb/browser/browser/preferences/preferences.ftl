@@ -365,6 +365,12 @@ advanced-fonts =
     .label = Rozšěrjeny…
     .accesskey = o
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Skalowanje
+preferences-default-zoom-label =
+    .label = Standardne skalowanje
+    .accesskey = S
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Skalowanje
 preferences-default-zoom = Standardne skalowanje
     .accesskey = S
@@ -795,7 +801,11 @@ home-prefs-mission-message-learn-more-link = Zhońće kak
 home-prefs-mission-message2 =
     .message = Naši sponsorojo našu misiju podpěruja, zo bychu lěpši web tworili.
 home-prefs-manage-topics-link = Temy rjadować
+home-prefs-manage-topics-link2 =
+    .label = Temy rjadować
 home-prefs-choose-wallpaper-link = Wubjerće pozadkowy wobraz
+home-prefs-choose-wallpaper-link2 =
+    .label = Wubjerće pozadkowy wobraz
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -831,6 +841,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Pytanske namjety we wuslědkach adresoweho pola pokazać
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -912,6 +924,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Wotstronić
 
+## Account and sync
+
+sync-group-label =
+    .label = Synchronizować
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -975,6 +992,9 @@ prefs-syncing-off = Synchronizacija: WUPINJENY
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžnić…
     .accesskey = h
+prefs-sync-turn-on-syncing-2 =
+    .label = Synchronizaciju zmóžnić
+    .accesskey = h
 prefs-sync-offer-setup-label2 = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 prefs-sync-now =
     .labelnotsyncing = Nětko synchronizować
@@ -983,8 +1003,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Nětko synchronizować
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Nětko synchronizować
+    .accesskey = N
 prefs-syncing-button =
     .label = Synchronizuje so…
+prefs-syncing-button-2 =
+    .label = Synchronizuje so…
+    .title = Nětko synchronizować
 
 ## The list of things currently syncing.
 
@@ -1069,6 +1095,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mjeno grata
+sync-device-name-header-2 =
+    .label = Mjeno grata
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1087,6 +1115,8 @@ sync-device-name-save =
     .label = Składować
     .accesskey = k
 sync-connect-another-device = Z druhim gratom zwjazać
+sync-connect-another-device-2 =
+    .label = Z druhim gratom zwjazać
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

@@ -430,6 +430,12 @@ advanced-fonts =
     .label = Rozšířené…
     .accesskey = o
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Velikost stránek
+preferences-default-zoom-label =
+    .label = Výchozí velikost
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Velikost stránek
 preferences-default-zoom = Výchozí velikost
     .accesskey = z
@@ -924,7 +930,11 @@ home-prefs-mission-message-learn-more-link = Zjistěte jak
 home-prefs-mission-message2 =
     .message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-manage-topics-link = Správa témat
+home-prefs-manage-topics-link2 =
+    .label = Správa témat
 home-prefs-choose-wallpaper-link = Zvolte si tapetu
+home-prefs-choose-wallpaper-link2 =
+    .label = Zvolte si tapetu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -959,6 +969,12 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
+search-suggestions-cant-show-2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name(case: "acc") } nastavili, aby si nikdy nepamatoval historii.
+           *[no-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
+        }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1039,6 +1055,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Odstranit
 
+## Account and sync
+
+sync-group-label =
+    .label = Synchronizace
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1102,6 +1123,9 @@ prefs-syncing-off = Synchronizace vypnuta
 prefs-sync-turn-on-syncing =
     .label = Zapnout synchronizaci…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Zapnout synchronizaci
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
 prefs-sync-now =
     .labelnotsyncing = Synchronizovat
@@ -1110,8 +1134,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synchronizovat
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Synchronizovat
+    .accesskey = S
 prefs-syncing-button =
     .label = Probíhá synchronizace…
+prefs-syncing-button-2 =
+    .label = Probíhá synchronizace…
+    .title = Synchronizovat
 
 ## The list of things currently syncing.
 
@@ -1193,6 +1223,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Název zařízení
+sync-device-name-header-2 =
+    .label = Název zařízení
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1211,6 +1243,8 @@ sync-device-name-save =
     .label = Uložit
     .accesskey = l
 sync-connect-another-device = Připojit další zařízení
+sync-connect-another-device-2 =
+    .label = Připojit další zařízení
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

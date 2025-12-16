@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Иловагӣ…
     .accesskey = И
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Танзими андоза
+preferences-default-zoom-label =
+    .label = Андозаи пешфарз
+    .accesskey = А
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
 preferences-default-zoom = Андозаи пешфарз
     .accesskey = А
@@ -788,7 +794,11 @@ home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тав�
 home-prefs-mission-message2 =
     .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
 home-prefs-manage-topics-link = Идоракунии мавзуъҳо
+home-prefs-manage-topics-link2 =
+    .label = Идоракунии мавзуъҳо
 home-prefs-choose-wallpaper-link = Тасвири заминаиеро интихоб намоед
+home-prefs-choose-wallpaper-link2 =
+    .label = Тасвири заминаиеро интихоб намоед
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -822,6 +832,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори нишонӣ
     .accesskey = Н
+search-suggestions-cant-show-2 =
+    .message = Пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори ҷойгиршавӣ намоиш дода намешаванд, зеро ки шумо «{ -brand-short-name }»-ро танзим кардед, то таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -903,6 +915,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Тоза кардан
 
+## Account and sync
+
+sync-group-label =
+    .label = Ҳамоҳангсозӣ
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -966,6 +983,9 @@ prefs-syncing-off = Ҳамоҳангсозӣ: Ғайрифаъол
 prefs-sync-turn-on-syncing =
     .label = Фаъол кардани ҳамоҳангсозӣ…
     .accesskey = Ф
+prefs-sync-turn-on-syncing-2 =
+    .label = Фаъол кардани ҳамоҳангсозӣ
+    .accesskey = Ф
 prefs-sync-offer-setup-label2 = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва танзимоти худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 prefs-sync-now =
     .labelnotsyncing = Ҳозир ҳамоҳанг кунед
@@ -974,8 +994,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Ҳозир ҳамоҳанг кунед
     .accesskey = Ҳ
+prefs-sync-now-button-2 =
+    .label = Ҳозир ҳамоҳанг кунед
+    .accesskey = Ҳ
 prefs-syncing-button =
     .label = Ҳамоҳангсозӣ…
+prefs-syncing-button-2 =
+    .label = Ҳамоҳангсозӣ…
+    .title = Ҳозир ҳамоҳанг кунед
 
 ## The list of things currently syncing.
 
@@ -1060,6 +1086,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Номи дастгоҳ
+sync-device-name-header-2 =
+    .label = Номи дастгоҳ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1078,6 +1106,8 @@ sync-device-name-save =
     .label = Нигоҳ доштан
     .accesskey = Н
 sync-connect-another-device = Пайваст кардани дастгоҳи дигар
+sync-connect-another-device-2 =
+    .label = Пайваст кардани дастгоҳи дигар
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

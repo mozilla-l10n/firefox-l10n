@@ -200,6 +200,12 @@ advanced-fonts =
     .label = پیشرفته...
     .accesskey = پ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = بزرگنمایی
+preferences-default-zoom-label =
+    .label = بزرگنمایی پیش‌فرض
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = بزرگنمایی
 preferences-default-zoom = بزرگنمایی پیش‌فرض
     .accesskey = z
@@ -389,6 +395,9 @@ update-in-progress-ok-button = &نادیده گرفتن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ادامه
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارایی
@@ -485,6 +494,9 @@ choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -556,6 +568,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = نمایش پیشنهادهای جست‌و‌جو در نوار آدرس
     .accesskey = آ
+search-suggestions-cant-show-2 =
+    .message = پیشنهادهای جستجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -613,6 +627,11 @@ containers-settings-button =
 containers-remove-button =
     .label = حذف
 
+## Account and sync
+
+sync-group-label =
+    .label = همگام‌سازی
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -669,6 +688,9 @@ prefs-syncing-off = همگام‌سازی: خاموش
 prefs-sync-turn-on-syncing =
     .label = روشن کردن همگام‌سازی…
     .accesskey = ر
+prefs-sync-turn-on-syncing-2 =
+    .label = روشن کردن همگام‌سازی
+    .accesskey = ر
 prefs-sync-offer-setup-label2 = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 prefs-sync-now =
     .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
@@ -677,8 +699,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = هم‌اکنون همگام‌سازی کنید
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = هم‌اکنون همگام‌سازی کنید
+    .accesskey = N
 prefs-syncing-button =
     .label = درحال همگام‌سازی...
+prefs-syncing-button-2 =
+    .label = درحال همگام‌سازی...
+    .title = هم‌اکنون همگام‌سازی کنید
 
 ## The list of things currently syncing.
 
@@ -737,6 +765,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = نام دستگاه
+sync-device-name-header-2 =
+    .label = نام دستگاه
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -755,6 +785,8 @@ sync-device-name-save =
     .label = ذخیره
     .accesskey = ذ
 sync-connect-another-device = اتصال یک دستگاه دیگر
+sync-connect-another-device-2 =
+    .label = اتصال یک دستگاه دیگر
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -834,6 +866,9 @@ primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -934,6 +969,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1123,6 +1164,9 @@ addon-recommendations-link = بیشتر بدانید
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
 collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
     .accesskey = ج
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

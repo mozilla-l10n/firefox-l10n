@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Дадаткова…
     .accesskey = Д
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Маштаб
+preferences-default-zoom-label =
+    .label = Прадвызначаны маштаб
+    .accesskey = ч
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Маштаб
 preferences-default-zoom = Прадвызначаны маштаб
     .accesskey = ч
@@ -558,6 +564,9 @@ update-in-progress-ok-button = &Адкінуць
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -776,7 +785,11 @@ home-prefs-mission-message-learn-more-link = Даведацца, як
 home-prefs-mission-message2 =
     .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
 home-prefs-manage-topics-link = Кіраванне тэмамі
+home-prefs-manage-topics-link2 =
+    .label = Кіраванне тэмамі
 home-prefs-choose-wallpaper-link = Выберыце шпалеры
+home-prefs-choose-wallpaper-link2 =
+    .label = Выберыце шпалеры
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -811,6 +824,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Паказваць пошукавыя прапановы пры выкарыстанні адраснага радка
     .accesskey = п
+search-suggestions-cant-show-2 =
+    .message = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -887,6 +902,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Выдаліць
 
+## Account and sync
+
+sync-group-label =
+    .label = Сінхранізацыя
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -950,6 +970,9 @@ prefs-syncing-off = Сінхранізацыя: ВЫКЛЮЧАНА
 prefs-sync-turn-on-syncing =
     .label = Уключыць сінхранізацыю…
     .accesskey = ы
+prefs-sync-turn-on-syncing-2 =
+    .label = Уключыць сінхранізацыю
+    .accesskey = ы
 prefs-sync-offer-setup-label2 = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
 prefs-sync-now =
     .labelnotsyncing = Сінхранізаваць зараз
@@ -958,8 +981,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Сінхранізаваць зараз
     .accesskey = ь
+prefs-sync-now-button-2 =
+    .label = Сінхранізаваць зараз
+    .accesskey = ь
 prefs-syncing-button =
     .label = Сінхранізацыя...
+prefs-syncing-button-2 =
+    .label = Сінхранізацыя...
+    .title = Сінхранізаваць зараз
 
 ## The list of things currently syncing.
 
@@ -1040,6 +1069,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Назва прылады
+sync-device-name-header-2 =
+    .label = Назва прылады
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1058,6 +1089,8 @@ sync-device-name-save =
     .label = Захаваць
     .accesskey = х
 sync-connect-another-device = Злучыць іншую прыладу
+sync-connect-another-device-2 =
+    .label = Злучыць іншую прыладу
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

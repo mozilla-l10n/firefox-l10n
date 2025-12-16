@@ -244,6 +244,8 @@ annotations-default-pdf-handler-headline = Agiunghe sa firma tua in onni logu!
 annotations-default-pdf-handler-body = Disinna, iscrie o càrriga sa firma tua, pone·dda in su logu chi ti serbit e sarva is firmas tuas pro sa borta chi benit.
 annotations-make-default-pdf-handler-title = Boles cunfigurare { -brand-short-name } comente s’editore de PDF predefinidu?
 annotations-make-default-pdf-handler-subtitle = As a tènnere atzessu a is ainas nostras onni borta chi abèrgias unu PDF.
+annotations-make-default-pdf-primary-cta-label = Cunfigura comente predefinidu
+annotations-make-default-pdf-next-label = Imbeniente
 annotations-make-default-pdf-primary-cta =
     .label = Cunfigura comente predefinidu
 annotations-make-default-pdf-next =
@@ -409,3 +411,6 @@ etp-strict-exceptions-infobar-button = Àplica is curretziones
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Immoe nono
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+

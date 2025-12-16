@@ -362,6 +362,12 @@ advanced-fonts =
     .label = Pokročilé…
     .accesskey = o
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Veľkosť stránky
+preferences-default-zoom-label =
+    .label = Predvolená veľkosť
+    .accesskey = d
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Veľkosť stránky
 preferences-default-zoom = Predvolená veľkosť
     .accesskey = d
@@ -792,7 +798,11 @@ home-prefs-mission-message-learn-more-link = Pozrite sa ako
 home-prefs-mission-message2 =
     .message = Naši sponzori podporujú našu misiu budovať lepší web.
 home-prefs-manage-topics-link = Spravovať témy
+home-prefs-manage-topics-link2 =
+    .label = Spravovať témy
 home-prefs-choose-wallpaper-link = Vyberte si tapetu
+home-prefs-choose-wallpaper-link2 =
+    .label = Vyberte si tapetu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -827,6 +837,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Zobrazovať návrhy vyhľadávania vo výsledkoch panela s adresou
     .accesskey = a
+search-suggestions-cant-show-2 =
+    .message = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name(case: "acc") } nastavili tak, aby si nepamätal históriu.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -908,6 +920,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Odstrániť
 
+## Account and sync
+
+sync-group-label =
+    .label = Synchronizácia
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -971,6 +988,9 @@ prefs-syncing-off = Synchronizácia je vypnutá
 prefs-sync-turn-on-syncing =
     .label = Zapnúť synchronizáciu…
     .accesskey = Z
+prefs-sync-turn-on-syncing-2 =
+    .label = Zapnúť synchronizáciu
+    .accesskey = Z
 prefs-sync-offer-setup-label2 = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 prefs-sync-now =
     .labelnotsyncing = Synchronizovať
@@ -979,8 +999,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synchronizovať
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Synchronizovať
+    .accesskey = n
 prefs-syncing-button =
     .label = Synchronizuje sa…
+prefs-syncing-button-2 =
+    .label = Synchronizuje sa…
+    .title = Synchronizovať
 
 ## The list of things currently syncing.
 
@@ -1065,6 +1091,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Názov zariadenia
+sync-device-name-header-2 =
+    .label = Názov zariadenia
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1083,6 +1111,8 @@ sync-device-name-save =
     .label = Uložiť
     .accesskey = U
 sync-connect-another-device = Pripojiť ďalšie zariadenie
+sync-connect-another-device-2 =
+    .label = Pripojiť ďalšie zariadenie
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

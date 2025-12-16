@@ -260,6 +260,9 @@ update-application-use-service =
     .label = Gunakan servis latar belakang bagi pemasangan versi terkini
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestasi
@@ -345,6 +348,9 @@ choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -393,6 +399,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Papar cadangan carian dalam keputusan bar alamat
     .accesskey = P
+search-suggestions-cant-show-2 =
+    .message = Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi { -brand-short-name } untuk tidak mengingati sejarah.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -436,6 +444,9 @@ containers-add-button =
 containers-remove-button =
     .label = Buang
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -478,6 +489,12 @@ sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -506,6 +523,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nama Peranti
+sync-device-name-header-2 =
+    .label = Nama Peranti
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -563,6 +582,12 @@ forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -649,6 +674,12 @@ sitedata-clear =
 sitedata-settings =
     .label = Urus Data…
     .accesskey = U
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -756,6 +787,9 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -787,6 +821,12 @@ certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

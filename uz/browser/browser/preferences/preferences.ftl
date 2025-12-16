@@ -44,6 +44,17 @@ should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
 cancel-no-restart-button = Bekor qilish
 restart-later = Keyinroq qayta ishga tushirish
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Qidiruv natijalari
@@ -139,6 +150,12 @@ default-font-size = Hajmi
 advanced-fonts =
     .label = Qo‘shimcha…
     .accesskey = Q
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Masshtab
+preferences-default-zoom-label =
+    .label = Standart masshtab
+    .accesskey = S
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Masshtab
 preferences-default-zoom = Standart masshtab
@@ -290,6 +307,9 @@ update-in-progress-ok-button = &Rad etish
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Davom etish
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Samaradorlik
@@ -376,6 +396,9 @@ choose-bookmark =
     .label = Xatcho‘pdan foydalanish
     .accesskey = X
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -435,6 +458,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Manzil panelida qidiruv tavsiyalari ko‘rsatilsin
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -479,6 +504,11 @@ containers-add-button =
     .accesskey = q
 containers-remove-button =
     .label = Olib tashlash
+
+## Account and sync
+
+sync-group-label =
+    .label = Sinxronizatsiya
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -536,6 +566,9 @@ prefs-syncing-off = Sinxronizatsiya: OʻCHIQ
 prefs-sync-turn-on-syncing =
     .label = Sinxronizatsiyani yoqish
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Sinxronizatsiyani yoqish
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Xatchoʻplar, tarix, varaqlar, parollar, qoʻshimcha dasturlar va boshqa sozlamalarni barcha qurilmalaringizga sinxronlang.
 prefs-sync-now =
     .labelnotsyncing = Sinxronlash
@@ -544,8 +577,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinxronlash
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sinxronlash
+    .accesskey = N
 prefs-syncing-button =
     .label = Sinxronlanmoqda…
+prefs-syncing-button-2 =
+    .label = Sinxronlanmoqda…
+    .title = Sinxronlash
 
 ## The list of things currently syncing.
 
@@ -604,6 +643,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Qurilma nomi
+sync-device-name-header-2 =
+    .label = Qurilma nomi
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -622,6 +663,8 @@ sync-device-name-save =
     .label = Saqlash
     .accesskey = S
 sync-connect-another-device = Boshqa qurilmani ulash
+sync-connect-another-device-2 =
+    .label = Boshqa qurilmani ulash
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -659,6 +702,12 @@ forms-master-pw-change =
     .label = Parol ustasini oʻzgartirish
     .accesskey = u
 forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -725,6 +774,12 @@ sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Manzil paneli
@@ -739,6 +794,22 @@ addressbar-locbar-openpage-option =
     .label = Varaqlarni ochish
     .accesskey = o
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -796,6 +867,9 @@ addon-recommendations-link = Batafsil
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -826,6 +900,12 @@ certs-devices =
     .label = Xavfsizlik qurilmalari
     .accesskey = X
 certs-devices-enable-fips = FIPS’ni yoqib qo‘yish
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

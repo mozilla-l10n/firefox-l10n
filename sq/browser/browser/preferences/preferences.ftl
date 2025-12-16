@@ -330,6 +330,12 @@ advanced-fonts =
     .label = Të mëtejshme…
     .accesskey = t
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zmadhim/Zvogëlim
+preferences-default-zoom-label =
+    .label = Zoom parazgjedhje
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zmadhim/Zvogëlim
 preferences-default-zoom = Zoom parazgjedhje
     .accesskey = Z
@@ -529,6 +535,9 @@ update-in-progress-ok-button = &Hidhe Tej
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -743,7 +752,11 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 home-prefs-mission-message-learn-more-link = Mësoni se si
 home-prefs-manage-topics-link = Administroni subjekte
+home-prefs-manage-topics-link2 =
+    .label = Administroni subjekte
 home-prefs-choose-wallpaper-link = Zgjidhni një sfond
+home-prefs-choose-wallpaper-link2 =
+    .label = Zgjidhni një sfond
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -777,6 +790,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Shfaq sugjerime kërkimi te përfundimet në shtyllë adresash
     .accesskey = q
+search-suggestions-cant-show-2 =
+    .message = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -853,6 +868,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Hiqe
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -916,6 +936,9 @@ prefs-syncing-off = Njëkohësim: OFF
 prefs-sync-turn-on-syncing =
     .label = Aktivizoni njëkohësimin…
     .accesskey = A
+prefs-sync-turn-on-syncing-2 =
+    .label = Aktivizoni njëkohësimin
+    .accesskey = A
 prefs-sync-offer-setup-label2 = Njëkohësoni faqerojtësit tuaj, skedat, fjalëkalimet, shtesa dhe rregullime nga krejt pajisjet tuaja.
 prefs-sync-now =
     .labelnotsyncing = Njëkohësoji Tani
@@ -924,8 +947,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Njëkohësoji Tani
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Njëkohësoji Tani
+    .accesskey = N
 prefs-syncing-button =
     .label = Po njëkohësohet…
+prefs-syncing-button-2 =
+    .label = Po njëkohësohet…
+    .title = Njëkohësoji Tani
 
 ## The list of things currently syncing.
 
@@ -1006,6 +1035,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Emër Pajisjeje
+sync-device-name-header-2 =
+    .label = Emër Pajisjeje
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1024,6 +1055,8 @@ sync-device-name-save =
     .label = Ruaje
     .accesskey = u
 sync-connect-another-device = Lidhni tjetër pajisje
+sync-connect-another-device-2 =
+    .label = Lidhni tjetër pajisje
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

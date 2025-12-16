@@ -241,6 +241,8 @@ annotations-default-pdf-handler-headline = เซ็นชื่อในเอ�
 annotations-default-pdf-handler-body = วาด พิมพ์ หรืออัปโหลดลายเซ็นของคุณ แล้ววางไว้ตรงตำแหน่งที่ต้องการ พร้อมบันทึกลายเซ็นของคุณไว้ใช้ครั้งถัดไป
 annotations-make-default-pdf-handler-title = ต้องการทำให้ { -brand-short-name } เป็นเครื่องมือแก้ไข PDF ค่าเริ่มต้นของคุณหรือไม่?
 annotations-make-default-pdf-handler-subtitle = คุณจะสามารถเข้าถึงเครื่องมือของเราได้ทุกครั้งที่เปิดไฟล์ PDF
+annotations-make-default-pdf-primary-cta-label = ตั้งเป็นค่าเริ่มต้น
+annotations-make-default-pdf-next-label = ถัดไป
 annotations-make-default-pdf-primary-cta =
     .label = ตั้งเป็นค่าเริ่มต้น
 annotations-make-default-pdf-next =
@@ -421,3 +423,6 @@ etp-strict-exceptions-infobar-button = ปรับใช้การแก้�
     .accesskey = ป
 etp-strict-exceptions-infobar-not-now = ยังไม่ทำตอนนี้
     .accesskey = ม
+
+## 'Set to default' messaging displayed within the App menu
+

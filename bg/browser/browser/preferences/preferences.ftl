@@ -317,6 +317,12 @@ advanced-fonts =
     .label = Разширени…
     .accesskey = Р
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Мащабиране
+preferences-default-zoom-label =
+    .label = Мащабиране по подразбиране
+    .accesskey = м
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Мащабиране
 preferences-default-zoom = Мащабиране по подразбиране
     .accesskey = м
@@ -517,6 +523,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -624,6 +633,9 @@ choose-bookmark =
     .label = Отметка…
     .accesskey = О
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Съдържание на { -firefox-home-brand-name }
@@ -710,6 +722,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Показване на предложения при търсене в резултатите от адресната лента
     .accesskey = р
+search-suggestions-cant-show-2 =
+    .message = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -776,6 +790,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Премахване
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -839,6 +858,9 @@ prefs-syncing-off = Синхронизиране: ИЗКЛЮЧЕНО
 prefs-sync-turn-on-syncing =
     .label = Включване синхронизиране
     .accesskey = с
+prefs-sync-turn-on-syncing-2 =
+    .label = Включване синхронизиране
+    .accesskey = с
 prefs-sync-offer-setup-label2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 prefs-sync-now =
     .labelnotsyncing = Синхронизиране
@@ -847,8 +869,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Синхронизиране
     .accesskey = с
+prefs-sync-now-button-2 =
+    .label = Синхронизиране
+    .accesskey = с
 prefs-syncing-button =
     .label = Синхронизиране…
+prefs-syncing-button-2 =
+    .label = Синхронизиране…
+    .title = Синхронизиране
 
 ## The list of things currently syncing.
 
@@ -929,6 +957,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Име на текущото устройство
+sync-device-name-header-2 =
+    .label = Име на текущото устройство
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -947,6 +977,8 @@ sync-device-name-save =
     .label = Запазване
     .accesskey = З
 sync-connect-another-device = Добавяне на устройство
+sync-connect-another-device-2 =
+    .label = Добавяне на устройство
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

@@ -189,6 +189,12 @@ advanced-fonts =
     .label = Avançat…
     .accesskey = v
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom per defecte
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defecte
     .accesskey = Z
@@ -374,6 +380,9 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -470,6 +479,9 @@ choose-bookmark =
     .label = Utilitza una adreça d'interés…
     .accesskey = z
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -539,6 +551,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostra suggeriments de cerca als resultats de la barra d'adreces
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recorde mai l'historial.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -596,6 +610,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Elimina
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronització
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -652,6 +671,9 @@ prefs-syncing-off = Sincronització: DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activa la sincronització…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activa la sincronització
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronitzeu les vostres adreces d'interés, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 prefs-sync-now =
     .labelnotsyncing = Sincronitza ara
@@ -660,8 +682,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronitza ara
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sincronitza ara
+    .accesskey = S
 prefs-syncing-button =
     .label = S'està sincronitzant…
+prefs-syncing-button-2 =
+    .label = S'està sincronitzant…
+    .title = Sincronitza ara
 
 ## The list of things currently syncing.
 
@@ -720,6 +748,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Nom del dispositiu
+sync-device-name-header-2 =
+    .label = Nom del dispositiu
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -738,6 +768,8 @@ sync-device-name-save =
     .label = Guarda
     .accesskey = D
 sync-connect-another-device = Connecta un altre dispositiu
+sync-connect-another-device-2 =
+    .label = Connecta un altre dispositiu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -816,6 +848,9 @@ primary-password-os-auth-dialog-message-win = Per crear una contrasenya principa
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear una contrasenya principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -912,6 +947,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1101,6 +1142,9 @@ collection-health-report-disabled = L'informe de dades està desactivat en la co
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } envie els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1149,6 +1193,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

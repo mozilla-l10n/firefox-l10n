@@ -311,6 +311,12 @@ advanced-fonts =
     .label = Lebih lanjut…
     .accesskey = L
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Perbesaran
+preferences-default-zoom-label =
+    .label = Perbesaran baku
+    .accesskey = P
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Perbesaran
 preferences-default-zoom = Perbesaran baku
     .accesskey = P
@@ -511,6 +517,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -620,6 +629,9 @@ choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Konten { -firefox-home-brand-name }
@@ -705,6 +717,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Tampilkan saran pencarian di hasil bilah alamat
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -775,6 +789,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Hapus
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinkronisasi
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -838,6 +857,9 @@ prefs-syncing-off = Sinkronisasi: NONAKTIF
 prefs-sync-turn-on-syncing =
     .label = Aktifkan sinkronisasi…
     .accesskey = A
+prefs-sync-turn-on-syncing-2 =
+    .label = Aktifkan sinkronisasi
+    .accesskey = A
 prefs-sync-offer-setup-label2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
 prefs-sync-now =
     .labelnotsyncing = Sinkronkan Sekarang
@@ -846,8 +868,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinkronkan Sekarang
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sinkronkan Sekarang
+    .accesskey = S
 prefs-syncing-button =
     .label = Menyinkronkan…
+prefs-syncing-button-2 =
+    .label = Menyinkronkan…
+    .title = Sinkronkan Sekarang
 
 ## The list of things currently syncing.
 
@@ -928,6 +956,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nama Peranti
+sync-device-name-header-2 =
+    .label = Nama Peranti
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -946,6 +976,8 @@ sync-device-name-save =
     .label = Simpan
     .accesskey = S
 sync-connect-another-device = Hubungkan perangkat lain
+sync-connect-another-device-2 =
+    .label = Hubungkan perangkat lain
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

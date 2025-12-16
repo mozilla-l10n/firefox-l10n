@@ -276,6 +276,12 @@ advanced-fonts =
     .label = Avançat…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom per defaut
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defaut
     .accesskey = Z
@@ -471,6 +477,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -575,6 +584,9 @@ choose-bookmark =
     .label = Favorits…
     .accesskey = s
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contengut de la { -firefox-home-brand-name }
@@ -654,6 +666,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar las suggestions dins los resultats de la barra d'adreça
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -715,6 +729,11 @@ containers-settings-button =
     .label = Paramètres
 containers-remove-button =
     .label = Suprimir
+
+## Account and sync
+
+sync-group-label =
+    .label = Sincronizacion
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -779,6 +798,9 @@ prefs-syncing-off = Sincronizacion : DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronizacion…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activar la sincronizacion
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e paramètres per totes vòstres periferics.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ara
@@ -787,8 +809,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ara
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sincronizar ara
+    .accesskey = n
 prefs-syncing-button =
     .label = Sincronizacion…
+prefs-syncing-button-2 =
+    .label = Sincronizacion…
+    .title = Sincronizar ara
 
 ## The list of things currently syncing.
 
@@ -862,6 +890,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Nom de l'aparelh
+sync-device-name-header-2 =
+    .label = Nom de l'aparelh
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -880,6 +910,8 @@ sync-device-name-save =
     .label = Enregistrar
     .accesskey = g
 sync-connect-another-device = Connectar un periferic de mai
+sync-connect-another-device-2 =
+    .label = Connectar un periferic de mai
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

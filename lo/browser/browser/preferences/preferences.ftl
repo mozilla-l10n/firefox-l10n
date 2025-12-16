@@ -211,6 +211,12 @@ advanced-fonts =
     .label = ຂັ້ນສູງ...
     .accesskey = ຂ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ຂະຫຍາຍ
+preferences-default-zoom-label =
+    .label = ຊູມເລີ່ມຕົ້ນ
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ຂະຫຍາຍ
 preferences-default-zoom = ຊູມເລີ່ມຕົ້ນ
     .accesskey = z
@@ -396,6 +402,9 @@ update-in-progress-ok-button = &ຍົກເລີກ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ສືບຕໍ່
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -494,6 +503,9 @@ choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ເນື້ອໃນ
@@ -563,6 +575,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ສະແດງຜົນການຊອກຫາໃນແທັບທີ່ຢູ່
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = ການແນະນຳການຊອກຫາຈະບໍ່ຖືກສະແດງຢູ່ໃນຜົນການຊອກຫາແຖບສະຖານທີ່ ເພາະວ່າທ່ານໄດ້ກຳນົດຄ່າ { -brand-short-name } ບໍ່ໃຫ້ຈື່ປະຫວັດ.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -625,6 +639,11 @@ containers-settings-button =
 containers-remove-button =
     .label = ລຶບ
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -681,12 +700,21 @@ prefs-syncing-off = ການຊິງຄ໌: ປິດ
 prefs-sync-turn-on-syncing =
     .label = ເປີດການຊິງຄ໌...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = ເປີດການຊິງຄ໌
+    .accesskey = s
 prefs-sync-offer-setup-label2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 prefs-sync-now-button =
     .label = ຊິ້ງຂໍ້ມູນດຽວນີ້
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ຊິ້ງຂໍ້ມູນດຽວນີ້
+    .accesskey = N
 prefs-syncing-button =
     .label = ກຳລັງ syn…
+prefs-syncing-button-2 =
+    .label = ກຳລັງ syn…
+    .title = ຊິ້ງຂໍ້ມູນດຽວນີ້
 
 ## The list of things currently syncing.
 
@@ -732,6 +760,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ຊື່ອຸປະກອນ
+sync-device-name-header-2 =
+    .label = ຊື່ອຸປະກອນ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -750,6 +780,8 @@ sync-device-name-save =
     .label = ບັນທຶກ
     .accesskey = v
 sync-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
+sync-connect-another-device-2 =
+    .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -831,6 +863,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1139,6 +1174,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

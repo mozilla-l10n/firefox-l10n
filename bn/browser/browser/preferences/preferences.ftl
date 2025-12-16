@@ -159,6 +159,12 @@ advanced-fonts =
     .label = উচ্চপর্যায়...
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = জু়ম
+preferences-default-zoom-label =
+    .label = পূর্বনির্ধারিত জুম
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = জু়ম
 preferences-default-zoom = পূর্বনির্ধারিত জুম
     .accesskey = z
@@ -320,6 +326,9 @@ update-in-progress-ok-button = &বাতিল
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &চালিয়ে যান
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
@@ -413,6 +422,9 @@ choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -472,6 +484,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ঠিকানা বার ফলাফলে অনুসন্ধান পরামর্শ দেখাও
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -519,6 +533,11 @@ containers-new-tab-check =
     .accesskey = S
 containers-remove-button =
     .label = অপসারণ
+
+## Account and sync
+
+sync-group-label =
+    .label = সিঙ্ক
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -576,8 +595,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = এখনই সিঙ্ক করুন
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = এখনই সিঙ্ক করুন
+    .accesskey = N
 prefs-syncing-button =
     .label = সিঙ্ক হচ্ছে…
+prefs-syncing-button-2 =
+    .label = সিঙ্ক হচ্ছে…
+    .title = এখনই সিঙ্ক করুন
 
 ## The list of things currently syncing.
 
@@ -632,6 +657,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ডিভাইসের নাম
+sync-device-name-header-2 =
+    .label = ডিভাইসের নাম
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -650,6 +677,8 @@ sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
 sync-connect-another-device = অন্য একটি ডিভাইস সংযুক্ত করুন
+sync-connect-another-device-2 =
+    .label = অন্য একটি ডিভাইস সংযুক্ত করুন
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -705,6 +734,9 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -798,6 +830,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -961,6 +999,9 @@ addon-recommendations-link = আরও জানুন
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -992,6 +1033,12 @@ certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

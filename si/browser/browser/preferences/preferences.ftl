@@ -286,6 +286,12 @@ advanced-fonts =
     .label = වැඩිදුර...
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = විශාලනය
+preferences-default-zoom-label =
+    .label = පෙරනිමි විශාලනය
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = විශාලනය
 preferences-default-zoom = පෙරනිමි විශාලනය
     .accesskey = z
@@ -481,6 +487,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -586,6 +595,9 @@ choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } අන්තර්ගතය
@@ -667,6 +679,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = ඔබ ඉතිහාසය කිසිදා මතක තබා නොගන්නා ලෙස { -brand-short-name } වින්‍යාස කර ඇති නිසා ස්ථාන තීරු ප්‍රතිඵලවල සෙවුම් යෝජනා පෙන්වනු නොලැබේ.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -734,6 +748,11 @@ containers-settings-button =
 containers-remove-button =
     .label = ඉවත් කරන්න
 
+## Account and sync
+
+sync-group-label =
+    .label = සමමුහූර්තය
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -794,6 +813,9 @@ prefs-syncing-off = සමමුහූර්තය: අක්‍රියයි
 prefs-sync-turn-on-syncing =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = සමමුහූර්තය සක්‍රිය කරන්න
+    .accesskey = s
 prefs-sync-offer-setup-label2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
 prefs-sync-now =
     .labelnotsyncing = සමමුහූර්ත කරන්න
@@ -802,8 +824,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = සමමුහූර්ත කරන්න
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = සමමුහූර්ත කරන්න
+    .accesskey = N
 prefs-syncing-button =
     .label = සමමුහූර්ත වෙමින්
+prefs-syncing-button-2 =
+    .label = සමමුහූර්ත වෙමින්
+    .title = සමමුහූර්ත කරන්න
 
 ## The list of things currently syncing.
 
@@ -877,6 +905,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = උපාංගයේ නම
+sync-device-name-header-2 =
+    .label = උපාංගයේ නම
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -895,6 +925,8 @@ sync-device-name-save =
     .label = සුරකින්න
     .accesskey = v
 sync-connect-another-device = අන් උපාංගයක් සබඳින්න
+sync-connect-another-device-2 =
+    .label = අන් උපාංගයක් සබඳින්න
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

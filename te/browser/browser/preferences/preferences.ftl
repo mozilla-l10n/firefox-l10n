@@ -66,6 +66,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -326,6 +337,9 @@ update-in-progress-ok-button = విస్మరించు (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = కొనసాగించు (&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = పనితనం
@@ -411,6 +425,9 @@ choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -469,6 +486,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = వెతుకుడు సూచనలను చిరునామా పట్టీ ఫలితాలలో చూపించు
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే { -brand-short-name } మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -517,6 +536,9 @@ containers-settings-button =
     .label = అమరికలు
 containers-remove-button =
     .label = తొలగించు
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -571,8 +593,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ఇప్పుడే సింక్రనించు
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ఇప్పుడే సింక్రనించు
+    .accesskey = N
 prefs-syncing-button =
     .label = సింక్రనిస్తోంది…
+prefs-syncing-button-2 =
+    .label = సింక్రనిస్తోంది…
+    .title = ఇప్పుడే సింక్రనించు
 
 ## The list of things currently syncing.
 
@@ -629,6 +657,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = పరికరం పేరు
+sync-device-name-header-2 =
+    .label = పరికరం పేరు
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -647,6 +677,8 @@ sync-device-name-save =
     .label = భద్రపరచు
     .accesskey = v
 sync-connect-another-device = మరొక పరికరాన్ని అనుసంధానించు
+sync-connect-another-device-2 =
+    .label = మరొక పరికరాన్ని అనుసంధానించు
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -704,6 +736,9 @@ forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండ�
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -795,6 +830,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -964,6 +1002,9 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

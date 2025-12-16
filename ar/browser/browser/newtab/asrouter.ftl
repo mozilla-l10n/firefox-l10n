@@ -241,6 +241,8 @@ set-default-pdf-handler-primary = فهمت
 
 ## PDF Annotations strings
 
+annotations-make-default-pdf-primary-cta-label = اجعله المبدئي
+annotations-make-default-pdf-next-label = التالي
 annotations-make-default-pdf-primary-cta =
     .label = اجعله المبدئي
 annotations-make-default-pdf-next =
@@ -356,6 +358,9 @@ multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short
 multi-cta-fox-doodle-quick-reminder-subtitle = فيما يلي تذكير سريع بأنه يمكنك الاحتفاظ بمتصفحك المفضل الذي يركز على الخصوصية بنقرة واحدة فقط.
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = حافظ على متصفحك المفضل الذي يُركز على الخصوصية بنقرة واحدة. عيّن { -brand-short-name } كمتصفحك المبدئي لفتح الروابط، ثم ثبّته على شريط المهام وقائمة البدء.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = ابدأ
@@ -364,3 +369,17 @@ windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+
+## 'Set to default' messaging displayed within the App menu
+

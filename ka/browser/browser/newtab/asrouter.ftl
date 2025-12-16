@@ -244,6 +244,8 @@ annotations-default-pdf-handler-headline = ხელმოწერა წყვ
 annotations-default-pdf-handler-body = მოხაზეთ, აკრიფეთ ან ატვირთეთ თქვენი ხელმოწერა, შემდეგ კი განათავსეთ ზუსტად სადაც გსურთ. გადაინახეთ საჭირო ხელმოწერები სხვა დროისთვისაც.
 annotations-make-default-pdf-handler-title = გახდეს { -brand-short-name } ნაგულისხმევი PDF-შემსწორებელი?
 annotations-make-default-pdf-handler-subtitle = წვდომა გექნებათ ჩვენს ხელსაწყოებთან PDF-ფაილის ყოველი გახსნისას.
+annotations-make-default-pdf-primary-cta-label = ნაგულისხმევად დაყენება
+annotations-make-default-pdf-next-label = შემდეგი
 annotations-make-default-pdf-primary-cta =
     .label = ნაგულისხმევად დაყენება
 annotations-make-default-pdf-next =
@@ -424,3 +426,6 @@ etp-strict-exceptions-infobar-button = გამოსწორება
     .accesskey = წ
 etp-strict-exceptions-infobar-not-now = ახლა არა
     .accesskey = რ
+
+## 'Set to default' messaging displayed within the App menu
+

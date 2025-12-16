@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Avancerat…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Standardzoom
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Standardzoom
     .accesskey = z
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Ta reda på hur
 home-prefs-mission-message2 =
     .message = Våra sponsorer stöder vårt uppdrag att bygga en bättre webb.
 home-prefs-manage-topics-link = Hantera ämnen
+home-prefs-manage-topics-link2 =
+    .label = Hantera ämnen
 home-prefs-choose-wallpaper-link = Välj en bakgrundsbild
+home-prefs-choose-wallpaper-link2 =
+    .label = Välj en bakgrundsbild
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,6 +833,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Visa sökförslag i adressfältets resultat
     .accesskey = f
+search-suggestions-cant-show-2 =
+    .message = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -904,6 +916,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Ta bort
 
+## Account and sync
+
+sync-group-label =
+    .label = Synkronisering
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +984,9 @@ prefs-syncing-off = Synkronisering: AV
 prefs-sync-turn-on-syncing =
     .label = Aktivera synkronisering…
     .accesskey = A
+prefs-sync-turn-on-syncing-2 =
+    .label = Aktivera synkronisering
+    .accesskey = A
 prefs-sync-offer-setup-label2 = Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.
 prefs-sync-now =
     .labelnotsyncing = Synkronisera nu
@@ -975,8 +995,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synkronisera nu
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Synkronisera nu
+    .accesskey = n
 prefs-syncing-button =
     .label = Synkroniserar…
+prefs-syncing-button-2 =
+    .label = Synkroniserar…
+    .title = Synkronisera nu
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1087,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enhetens namn
+sync-device-name-header-2 =
+    .label = Enhetens namn
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1107,8 @@ sync-device-name-save =
     .label = Spara
     .accesskey = S
 sync-connect-another-device = Anslut en annan enhet
+sync-connect-another-device-2 =
+    .label = Anslut en annan enhet
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

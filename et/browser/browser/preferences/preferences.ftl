@@ -240,6 +240,12 @@ advanced-fonts =
     .label = Täpsemalt…
     .accesskey = l
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Suurendamine
+preferences-default-zoom-label =
+    .label = Vaikimisi suurendamine
+    .accesskey = u
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Suurendamine
 preferences-default-zoom = Vaikimisi suurendamine
     .accesskey = u
@@ -435,6 +441,9 @@ update-in-progress-ok-button = &Loobu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Jätka
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Jõudlus
@@ -534,6 +543,9 @@ choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -605,6 +617,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Aadressiriba tulemustes kuvatakse otsingusoovitusi
     .accesskey = k
+search-suggestions-cant-show-2 =
+    .message = Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest { -brand-short-name } ei ole häälestatud ajalugu säilitama.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -662,6 +676,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Eemalda
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -718,6 +737,9 @@ prefs-syncing-off = Sünkroniseerimine: VÄLJAS
 prefs-sync-turn-on-syncing =
     .label = Lülita sünkroniseerimine sisse…
     .accesskey = L
+prefs-sync-turn-on-syncing-2 =
+    .label = Lülita sünkroniseerimine sisse
+    .accesskey = L
 prefs-sync-offer-setup-label2 = Sünkroniseeri oma järjehoidjad, ajalugu, kaardid, paroolid, lisad ja sätted kõigis oma seadmetes.
 prefs-sync-now =
     .labelnotsyncing = Sünkroniseeri kohe
@@ -726,8 +748,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sünkroniseeri kohe
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sünkroniseeri kohe
+    .accesskey = S
 prefs-syncing-button =
     .label = Sünkroniseerimine…
+prefs-syncing-button-2 =
+    .label = Sünkroniseerimine…
+    .title = Sünkroniseeri kohe
 
 ## The list of things currently syncing.
 
@@ -786,6 +814,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Seadme nimi
+sync-device-name-header-2 =
+    .label = Seadme nimi
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -804,6 +834,8 @@ sync-device-name-save =
     .label = Salvesta
     .accesskey = v
 sync-connect-another-device = Ühenda teine seade
+sync-connect-another-device-2 =
+    .label = Ühenda teine seade
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -882,6 +914,9 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -982,6 +1017,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Halda erandeid…
     .accesskey = H
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1173,6 +1214,9 @@ collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on a
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1221,6 +1265,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ainult HTTPS-režiimi kasutatakse ainult privaatsetes akendes
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

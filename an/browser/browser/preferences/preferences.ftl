@@ -149,6 +149,12 @@ advanced-fonts =
     .label = Abanzadas…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom per defecto
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defecto
     .accesskey = Z
@@ -321,6 +327,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -413,6 +422,9 @@ choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -472,6 +484,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Amostrar as sucherencias de busqueda en os resultaus d'a barra d'adrezas
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o { -brand-short-name } pa que no recuerde nunca o historial.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -522,6 +536,9 @@ containers-new-tab-check =
     .accesskey = T
 containers-remove-button =
     .label = Borrar
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -579,8 +596,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar agora
+    .accesskey = N
 prefs-syncing-button =
     .label = Se ye sincronizando…
+prefs-syncing-button-2 =
+    .label = Se ye sincronizando…
+    .title = Sincronizar agora
 
 ## The list of things currently syncing.
 
@@ -634,6 +657,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nombre d'o dispositivo
+sync-device-name-header-2 =
+    .label = Nombre d'o dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -652,6 +677,8 @@ sync-device-name-save =
     .label = Alzar
     .accesskey = z
 sync-connect-another-device = Connectar belatro dispositivo
+sync-connect-another-device-2 =
+    .label = Connectar belatro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -726,6 +753,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escrib
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Crear una clau primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -822,6 +852,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Chestionar excepcions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -989,6 +1025,9 @@ addon-recommendations-link = Saber-ne mas
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1032,6 +1071,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar lo modo Nomás-HTTPS nomás en as finestras privadas
 httpsonly-radio-disabled =
     .label = No activar lo modo Nomás-HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

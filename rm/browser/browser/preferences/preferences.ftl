@@ -325,6 +325,12 @@ advanced-fonts =
     .label = Extendì…
     .accesskey = d
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom da standard
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom da standard
     .accesskey = Z
@@ -525,6 +531,9 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -634,6 +643,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
@@ -725,6 +737,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mussar propostas da tschertga en ils resultats da la trav d'adressas
     .accesskey = M
+search-suggestions-cant-show-2 =
+    .message = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -801,6 +815,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Allontanar
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronisaziun
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -864,6 +883,9 @@ prefs-syncing-off = Sincronisaziun: DEACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronisaziun…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activar la sincronisaziun
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tes parameters cun tut tes apparats.
 prefs-sync-now =
     .labelnotsyncing = Sincronisar ussa
@@ -872,8 +894,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronisar ussa
     .accesskey = u
+prefs-sync-now-button-2 =
+    .label = Sincronisar ussa
+    .accesskey = u
 prefs-syncing-button =
     .label = Sincronisar…
+prefs-syncing-button-2 =
+    .label = Sincronisar…
+    .title = Sincronisar ussa
 
 ## The list of things currently syncing.
 
@@ -954,6 +982,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Num da l'apparat
+sync-device-name-header-2 =
+    .label = Num da l'apparat
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -972,6 +1002,8 @@ sync-device-name-save =
     .label = Memorisar
     .accesskey = m
 sync-connect-another-device = Colliar in auter apparat
+sync-connect-another-device-2 =
+    .label = Colliar in auter apparat
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

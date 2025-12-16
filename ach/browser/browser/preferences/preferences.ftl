@@ -278,6 +278,9 @@ update-in-progress-ok-button = &Juki
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Mede
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tic
@@ -355,6 +358,9 @@ choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -404,6 +410,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Nyut tam me yeny i adwogi pa lanyut me kanonge
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero { -brand-short-name } pe me poo ikom gin mukato matwal.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -451,6 +459,9 @@ containers-add-button =
     .accesskey = e
 containers-remove-button =
     .label = Kwany
+
+## Account and sync
+
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -506,8 +517,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Rib Kombedi
     .accesskey = K
+prefs-sync-now-button-2 =
+    .label = Rib Kombedi
+    .accesskey = K
 prefs-syncing-button =
     .label = Ribo…
+prefs-syncing-button-2 =
+    .label = Ribo…
+    .title = Rib Kombedi
 
 ## The list of things currently syncing.
 
@@ -547,6 +564,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nying Nyonyo
+sync-device-name-header-2 =
+    .label = Nying Nyonyo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -565,6 +584,8 @@ sync-device-name-save =
     .label = Gwoki
     .accesskey = o
 sync-connect-another-device = Kub nyonyo mukene
+sync-connect-another-device-2 =
+    .label = Kub nyonyo mukene
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -611,6 +632,9 @@ forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -693,6 +717,12 @@ sitedata-settings =
     .label = Lo Data
     .accesskey = D
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Lanyut me kanonge
@@ -711,6 +741,10 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -736,6 +770,9 @@ content-blocking-cookies-label =
     .accesskey = A
 content-blocking-expand-section =
     .tooltiptext = Ngec mapol
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -799,6 +836,9 @@ collection-health-report =
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -834,6 +874,9 @@ certs-devices-enable-fips = Mii tic me FIPS
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Nong ngec mapol
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

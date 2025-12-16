@@ -175,6 +175,12 @@ advanced-fonts =
     .label = Avanzao…
     .accesskey = v
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom predetermináu
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom predetermináu
     .accesskey = Z
@@ -350,6 +356,9 @@ update-in-progress-ok-button = &Escartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Siguir
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rindimientu
@@ -447,6 +456,9 @@ choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -512,6 +524,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Amosar les suxerences de busca nos resultaos de la barra de direiciones
     .accesskey = n
+search-suggestions-cant-show-2 =
+    .message = Les suxerencies de busca nun van amosase na barra de direiciones porque configuresti { -brand-short-name } pa qu'enxamás recordare l'historial.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -566,6 +580,11 @@ containers-settings-button =
     .label = Axustes
 containers-remove-button =
     .label = Quitar
+
+## Account and sync
+
+sync-group-label =
+    .label = Sync
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -625,8 +644,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = a
+prefs-sync-now-button-2 =
+    .label = Sincronizar agora
+    .accesskey = a
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar agora
 
 ## The list of things currently syncing.
 
@@ -681,6 +706,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nome del preséu
+sync-device-name-header-2 =
+    .label = Nome del preséu
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -699,6 +726,8 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = v
 sync-connect-another-device = Conectar otru preséu
+sync-connect-another-device-2 =
+    .label = Conectar otru preséu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -765,6 +794,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una contraseña primaria,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear una contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -861,6 +893,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Xestionar les esceiciones…
     .accesskey = X
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1047,6 +1085,9 @@ collection-health-report-disabled = L'informe de datos ta desactiváu na configu
 collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos <a data-l10n-name="crash-reports-link">Llleer más</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1089,6 +1130,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar el mou de namás HTTPS únicamente nes ventanes privaes
 httpsonly-radio-disabled =
     .label = Nun activar el mou de namás HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

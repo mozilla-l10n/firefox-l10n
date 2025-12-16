@@ -356,6 +356,12 @@ advanced-fonts =
     .label = Avançado…
     .accesskey = v
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Zoom padrão
+    .accesskey = Z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom padrão
     .accesskey = Z
@@ -555,6 +561,9 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -773,7 +782,11 @@ home-prefs-mission-message-learn-more-link = Descubra como
 home-prefs-mission-message2 =
     .message = Nossos patrocinadores apoiam nossa missão de construir uma web melhor.
 home-prefs-manage-topics-link = Gerenciar tópicos
+home-prefs-manage-topics-link2 =
+    .label = Gerenciar tópicos
 home-prefs-choose-wallpaper-link = Escolher um fundo de tela
+home-prefs-choose-wallpaper-link2 =
+    .label = Escolher um fundo de tela
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -807,6 +820,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugestões de pesquisa nos resultados da barra de endereços
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -883,6 +898,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Remover
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronização
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -946,6 +966,9 @@ prefs-syncing-off = Sincronização: DESATIVADA
 prefs-sync-turn-on-syncing =
     .label = Ativar sincronização…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ativar sincronização
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronize seus favoritos, histórico, abas, senhas, extensões e configurações em todos os seus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
@@ -954,8 +977,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar agora
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sincronizar agora
+    .accesskey = n
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar agora
 
 ## The list of things currently syncing.
 
@@ -1036,6 +1065,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nome do dispositivo
+sync-device-name-header-2 =
+    .label = Nome do dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1054,6 +1085,8 @@ sync-device-name-save =
     .label = Salvar
     .accesskey = v
 sync-connect-another-device = Conectar outro dispositivo
+sync-connect-another-device-2 =
+    .label = Conectar outro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

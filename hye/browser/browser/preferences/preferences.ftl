@@ -236,6 +236,12 @@ advanced-fonts =
     .label = Լրացուցիչ…
     .accesskey = Լ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Խոշորացում
+preferences-default-zoom-label =
+    .label = Սկզբնադիր խոշորացում
+    .accesskey = խ
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Խոշորացում
 preferences-default-zoom = Սկզբնադիր խոշորացում
     .accesskey = խ
@@ -431,6 +437,9 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -531,6 +540,9 @@ choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -600,6 +612,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ցուցադրել որոնման առաջարկները հասցէագաւտու արդիւնքներում
     .accesskey = Ց
+search-suggestions-cant-show-2 =
+    .message = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -657,6 +671,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Հեռացնել
 
+## Account and sync
+
+sync-group-label =
+    .label = Համաժամեցում
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -713,6 +732,9 @@ prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՈՒԱԾ
 prefs-sync-turn-on-syncing =
     .label = Միացնել համաժամեցումը…
     .accesskey = ց
+prefs-sync-turn-on-syncing-2 =
+    .label = Միացնել համաժամեցումը
+    .accesskey = ց
 prefs-sync-offer-setup-label2 = Համաժամեցնել էջանիշները, պատմութիւնը, գաղտնաբառերը, յաւելումները եւ կարգաւորումները բոլոր սարքերում:
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
@@ -721,8 +743,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Համաժամեցնել հիմա
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Համաժամեցնել հիմա
+    .accesskey = N
 prefs-syncing-button =
     .label = Համաժամեցում․․․
+prefs-syncing-button-2 =
+    .label = Համաժամեցում․․․
+    .title = Համաժամեցնել հիմա
 
 ## The list of things currently syncing.
 
@@ -781,6 +809,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Սարքի անունը
+sync-device-name-header-2 =
+    .label = Սարքի անունը
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -799,6 +829,8 @@ sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
 sync-connect-another-device = Միացնել այլ սարքի
+sync-connect-another-device-2 =
+    .label = Միացնել այլ սարքի
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -877,6 +909,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -977,6 +1012,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1166,6 +1207,9 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1214,6 +1258,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Avansearre…
     .accesskey = v
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Standert zoom
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Standert zoom
     .accesskey = z
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Lês hjir hoe
 home-prefs-mission-message2 =
     .message = Us sponsors stypje ús misje om in better web te bouwen.
 home-prefs-manage-topics-link = Underwerpen beheare
+home-prefs-manage-topics-link2 =
+    .label = Underwerpen beheare
 home-prefs-choose-wallpaper-link = Kies in eftergrûn
+home-prefs-choose-wallpaper-link2 =
+    .label = Kies in eftergrûn
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,6 +833,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sykfoarstellen yn adresbalkeresultaten toane
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -904,6 +916,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Fuortsmite
 
+## Account and sync
+
+sync-group-label =
+    .label = Syngronisaasje
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +984,9 @@ prefs-syncing-off = Syngronisaasje: ÚT
 prefs-sync-turn-on-syncing =
     .label = Syngronisaasje ynskeakelje…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Syngronisaasje ynskeakelje
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en ynstellingen op al jo apparaten.
 prefs-sync-now =
     .labelnotsyncing = No syngronisearje
@@ -975,8 +995,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = No syngronisearje
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = No syngronisearje
+    .accesskey = N
 prefs-syncing-button =
     .label = Syngronisearret…
+prefs-syncing-button-2 =
+    .label = Syngronisearret…
+    .title = No syngronisearje
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1087,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Apparaatnamme
+sync-device-name-header-2 =
+    .label = Apparaatnamme
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1107,8 @@ sync-device-name-save =
     .label = Bewarje
     .accesskey = B
 sync-connect-another-device = In oar apparaat ferbine
+sync-connect-another-device-2 =
+    .label = In oar apparaat ferbine
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

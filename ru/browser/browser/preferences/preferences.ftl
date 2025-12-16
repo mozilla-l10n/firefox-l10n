@@ -362,6 +362,12 @@ advanced-fonts =
     .label = Дополнительно…
     .accesskey = н
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Масштаб
+preferences-default-zoom-label =
+    .label = Масштаб по умолчанию
+    .accesskey = ш
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Масштаб
 preferences-default-zoom = Масштаб по умолчанию
     .accesskey = ш
@@ -792,7 +798,11 @@ home-prefs-mission-message-learn-more-link = Узнать как
 home-prefs-mission-message2 =
     .message = Наши спонсоры поддерживают нашу миссию по созданию лучшего Интернета.
 home-prefs-manage-topics-link = Управление темами
+home-prefs-manage-topics-link2 =
+    .label = Управление темами
 home-prefs-choose-wallpaper-link = Выберите обои
+home-prefs-choose-wallpaper-link2 =
+    .label = Выберите обои
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -827,6 +837,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Отображать поисковые предложения при использовании адресной строки
     .accesskey = ж
+search-suggestions-cant-show-2 =
+    .message = При использовании адресной строки поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -908,6 +920,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Удалить
 
+## Account and sync
+
+sync-group-label =
+    .label = Синхронизация
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -971,6 +988,9 @@ prefs-syncing-off = Синхронизация: ОТКЛЮЧЕНА
 prefs-sync-turn-on-syncing =
     .label = Включить синхронизацию…
     .accesskey = ю
+prefs-sync-turn-on-syncing-2 =
+    .label = Включить синхронизацию
+    .accesskey = ю
 prefs-sync-offer-setup-label2 = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки со всеми своими устройствами.
 prefs-sync-now =
     .labelnotsyncing = Синхронизировать
@@ -979,8 +999,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Синхронизировать
     .accesskey = т
+prefs-sync-now-button-2 =
+    .label = Синхронизировать
+    .accesskey = т
 prefs-syncing-button =
     .label = Синхронизирую…
+prefs-syncing-button-2 =
+    .label = Синхронизирую…
+    .title = Синхронизировать
 
 ## The list of things currently syncing.
 
@@ -1065,6 +1091,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Имя устройства
+sync-device-name-header-2 =
+    .label = Имя устройства
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1083,6 +1111,8 @@ sync-device-name-save =
     .label = Сохранить
     .accesskey = х
 sync-connect-another-device = Подключить другое устройство
+sync-connect-another-device-2 =
+    .label = Подключить другое устройство
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

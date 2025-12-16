@@ -256,6 +256,9 @@ update-application-use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ដំណើរការ
@@ -338,6 +341,9 @@ choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -389,6 +395,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = បង្ហាញការណែនាំ​ស្វែងរកនៅក្នុងលទ្ធផលរបារអាសយដ្ឋាន
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = សំណើ​ស្វែងរក​នឹង​​មិន​បង្ហាញ​នៅ​ក្នុង​លទ្ធផល​របារ​ទីតាំង​​ទេ ព្រោះ​អ្នក​បាន​កំណត់​រចនាសម្ព័ន្ធ { -brand-short-name } មិន​ដែល​ឲ្យ​ចងចាំ​ប្រវត្តិ។
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -432,6 +440,9 @@ containers-add-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -474,6 +485,12 @@ sync-sign-in =
     .label = ចូល
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -502,6 +519,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = ឈ្មោះ​ឧបករណ៍
+sync-device-name-header-2 =
+    .label = ឈ្មោះ​ឧបករណ៍
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -556,6 +575,12 @@ forms-master-pw-change =
     .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
     .accesskey = M
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -634,6 +659,12 @@ sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = របារអាសយដ្ឋាន
@@ -672,6 +703,9 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -727,6 +761,9 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -758,6 +795,12 @@ certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

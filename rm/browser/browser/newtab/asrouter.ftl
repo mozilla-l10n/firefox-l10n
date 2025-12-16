@@ -244,6 +244,8 @@ annotations-default-pdf-handler-headline = Suttascriva sin la lingia cun stritgi
 annotations-default-pdf-handler-body = Dissegna, tippa u transferescha tia signatura e la plazzescha lura exact là nua che ti la vuls. Memorisescha tias signaturas per la proxima giada.
 annotations-make-default-pdf-handler-title = Definir { -brand-short-name } sco editur predefinì per PDFs?
 annotations-make-default-pdf-handler-subtitle = Ti vegns ad avair access a noss utensils mintga giada cura che ti avras in PDF.
+annotations-make-default-pdf-primary-cta-label = Definir sco standard
+annotations-make-default-pdf-next-label = Enavant
 annotations-make-default-pdf-primary-cta =
     .label = Definir sco standard
 annotations-make-default-pdf-next =
@@ -424,3 +426,6 @@ etp-strict-exceptions-infobar-button = Applitgar las correcturas
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Betg ussa
     .accesskey = B
+
+## 'Set to default' messaging displayed within the App menu
+

@@ -291,6 +291,12 @@ advanced-fonts =
     .label = Լրացուցիչ…
     .accesskey = Լ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Դիտափոխել
+preferences-default-zoom-label =
+    .label = Սկզբնադիր դիտափոխում
+    .accesskey = դ
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Դիտափոխել
 preferences-default-zoom = Սկզբնադիր դիտափոխում
     .accesskey = դ
@@ -479,6 +485,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -699,6 +708,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -771,6 +782,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Հեռացնել
 
+## Account and sync
+
+sync-group-label =
+    .label = Համաժամեցում
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -834,6 +850,9 @@ prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՎԱԾ
 prefs-sync-turn-on-syncing =
     .label = Միացնել համաժամեցումը…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Միացնել համաժամեցումը
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբառերը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
@@ -842,8 +861,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Համաժամեցնել հիմա
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Համաժամեցնել հիմա
+    .accesskey = N
 prefs-syncing-button =
     .label = Համաժամեցում․․․
+prefs-syncing-button-2 =
+    .label = Համաժամեցում․․․
+    .title = Համաժամեցնել հիմա
 
 ## The list of things currently syncing.
 
@@ -923,6 +948,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Սարքի անունը
+sync-device-name-header-2 =
+    .label = Սարքի անունը
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -941,6 +968,8 @@ sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
 sync-connect-another-device = Կապվել այլ սարքի
+sync-connect-another-device-2 =
+    .label = Կապվել այլ սարքի
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -1179,6 +1208,9 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 

@@ -356,6 +356,12 @@ advanced-fonts =
     .label = Spertula…
     .accesskey = t
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Pligrandigilo
+preferences-default-zoom-label =
+    .label = Norma pligrandigo
+    .accesskey = N
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Pligrandigilo
 preferences-default-zoom = Norma pligrandigo
     .accesskey = N
@@ -555,6 +561,9 @@ update-in-progress-ok-button = &Ignori
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -773,7 +782,11 @@ home-prefs-mission-message-learn-more-link = Malkovri kiel
 home-prefs-mission-message2 =
     .message = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 home-prefs-manage-topics-link = Administri temojn
+home-prefs-manage-topics-link2 =
+    .label = Administri temojn
 home-prefs-choose-wallpaper-link = Elekti ekranfonon
+home-prefs-choose-wallpaper-link2 =
+    .label = Elekti ekranfonon
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -807,6 +820,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
     .accesskey = M
+search-suggestions-cant-show-2 =
+    .message = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -883,6 +898,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Forigi
 
+## Account and sync
+
+sync-group-label =
+    .label = Spegulado
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -946,6 +966,9 @@ prefs-syncing-off = Spegulado: malŝaltita
 prefs-sync-turn-on-syncing =
     .label = Ŝalti speguladon…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ŝalti speguladon
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj agordojn en ĉiuj viaj aparatoj.
 prefs-sync-now =
     .labelnotsyncing = Speguli nun
@@ -954,8 +977,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Speguli nun
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Speguli nun
+    .accesskey = n
 prefs-syncing-button =
     .label = Spegulado...
+prefs-syncing-button-2 =
+    .label = Spegulado...
+    .title = Speguli nun
 
 ## The list of things currently syncing.
 
@@ -1036,6 +1065,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nomo de aparato
+sync-device-name-header-2 =
+    .label = Nomo de aparato
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1054,6 +1085,8 @@ sync-device-name-save =
     .label = Konservi
     .accesskey = K
 sync-connect-another-device = Konekti alian aparaton
+sync-connect-another-device-2 =
+    .label = Konekti alian aparaton
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

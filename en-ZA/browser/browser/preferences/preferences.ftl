@@ -240,6 +240,8 @@ search-engine-default-header = Default Search Engine
 search-suggestions-option =
     .label = Provide search suggestions
     .accesskey = s
+search-suggestions-cant-show-2 =
+    .message = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 search-choose-engine-column =
     .label = Search Engine
@@ -264,6 +266,9 @@ search-default-engine =
     .aria-label = Default Search Engine
 
 ## Containers Section
+
+
+## Account and sync
 
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
@@ -314,6 +319,8 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = Device Name
+sync-device-name-header-2 =
+    .label = Device Name
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =

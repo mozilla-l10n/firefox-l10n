@@ -354,6 +354,12 @@ advanced-fonts =
     .label = Gelişmiş…
     .accesskey = G
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Yakınlaştırma
+preferences-default-zoom-label =
+    .label = Varsayılan yakınlaştırma
+    .accesskey = m
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Yakınlaştırma
 preferences-default-zoom = Varsayılan yakınlaştırma
     .accesskey = m
@@ -784,7 +790,11 @@ home-prefs-mission-message-learn-more-link = Nasıl mı?
 home-prefs-mission-message2 =
     .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link = Konuları yönet
+home-prefs-manage-topics-link2 =
+    .label = Konuları yönet
 home-prefs-choose-wallpaper-link = Duvar kâğıdı seç
+home-prefs-choose-wallpaper-link2 =
+    .label = Duvar kâğıdı seç
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -818,6 +828,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Adres çubuğu sonuçlarında arama önerilerini göster
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -899,6 +911,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Sil
 
+## Account and sync
+
+sync-group-label =
+    .label = Eşitleme
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -962,6 +979,9 @@ prefs-syncing-off = Eşitleme: KAPALI
 prefs-sync-turn-on-syncing =
     .label = Eşitlemeyi başlat…
     .accesskey = E
+prefs-sync-turn-on-syncing-2 =
+    .label = Eşitlemeyi başlat
+    .accesskey = E
 prefs-sync-offer-setup-label2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında eşitleyin.
 prefs-sync-now =
     .labelnotsyncing = Şimdi eşitle
@@ -970,8 +990,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Şimdi eşitle
     .accesskey = m
+prefs-sync-now-button-2 =
+    .label = Şimdi eşitle
+    .accesskey = m
 prefs-syncing-button =
     .label = Eşitleniyor…
+prefs-syncing-button-2 =
+    .label = Eşitleniyor…
+    .title = Şimdi eşitle
 
 ## The list of things currently syncing.
 
@@ -1053,6 +1079,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Cihaz adı
+sync-device-name-header-2 =
+    .label = Cihaz adı
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1071,6 +1099,8 @@ sync-device-name-save =
     .label = Kaydet
     .accesskey = K
 sync-connect-another-device = Başka bir cihaz bağla
+sync-connect-another-device-2 =
+    .label = Başka bir cihaz bağla
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

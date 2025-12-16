@@ -324,6 +324,12 @@ advanced-fonts =
     .label = Қосымша…
     .accesskey = ш
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Масштаб
+preferences-default-zoom-label =
+    .label = Бастапқы масштаб
+    .accesskey = ш
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Масштаб
 preferences-default-zoom = Бастапқы масштаб
     .accesskey = ш
@@ -520,6 +526,9 @@ update-in-progress-ok-button = Тай&дыру
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -733,6 +742,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Адрестер жолағы нәтижелерінде іздеу ұсыныстарын көрсету
     .accesskey = р
+search-suggestions-cant-show-2 =
+    .message = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -805,6 +816,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Өшіру
 
+## Account and sync
+
+sync-group-label =
+    .label = Синхрондау
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -868,6 +884,9 @@ prefs-syncing-off = Синхрондау: СӨНДІРІЛГЕН
 prefs-sync-turn-on-syncing =
     .label = Синхрондауды іске қосу…
     .accesskey = С
+prefs-sync-turn-on-syncing-2 =
+    .label = Синхрондауды іске қосу
+    .accesskey = С
 prefs-sync-offer-setup-label2 = Бетбелгілер, шолу тарихы, беттер, парольдер, қосымшалар және баптауларды барлық құрылғыларыңыз арасында синхрондаңыз.
 prefs-sync-now =
     .labelnotsyncing = Қазір синхрондау
@@ -876,8 +895,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Қазір синхрондау
     .accesskey = н
+prefs-sync-now-button-2 =
+    .label = Қазір синхрондау
+    .accesskey = н
 prefs-syncing-button =
     .label = Синхрондау…
+prefs-syncing-button-2 =
+    .label = Синхрондау…
+    .title = Қазір синхрондау
 
 ## The list of things currently syncing.
 
@@ -958,6 +983,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Құрылғы аты
+sync-device-name-header-2 =
+    .label = Құрылғы аты
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -976,6 +1003,8 @@ sync-device-name-save =
     .label = Сақтау
     .accesskey = а
 sync-connect-another-device = Басқа құрылғыны байланыстыру
+sync-connect-another-device-2 =
+    .label = Басқа құрылғыны байланыстыру
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

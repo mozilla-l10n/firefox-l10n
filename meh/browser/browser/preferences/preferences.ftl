@@ -51,6 +51,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 restart-later = Nakajie'e inka ichi
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -111,6 +122,12 @@ default-font-size = Naja ka´nu
 advanced-fonts =
     .label = A biji…
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoom
+preferences-default-zoom-label =
+    .label = Kua vaji zoom
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Kua vaji zoom
@@ -274,6 +291,9 @@ update-in-progress-ok-button = &Xita
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Naja satiñu
@@ -361,6 +381,9 @@ use-current-pages =
 choose-bookmark =
     .label = Ni´i marcador...
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -474,6 +497,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Xita
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -530,8 +558,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ntañu´u
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar ntañu´u
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar ntañu´u
 
 ## The list of things currently syncing.
 
@@ -586,6 +620,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Sivɨ ka̱a̱
+sync-device-name-header-2 =
+    .label = Sivɨ ka̱a̱
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -604,6 +640,8 @@ sync-device-name-save =
     .label = Chuva´a
     .accesskey = v
 sync-connect-another-device = Chu´un inka ka̱a̱
+sync-connect-another-device-2 =
+    .label = Chu´un inka ka̱a̱
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -676,6 +714,9 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -763,6 +804,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -903,6 +950,9 @@ collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -940,6 +990,9 @@ httpsonly-radio-enabled-pbm =
     .label = Tee HTTPS nu ntaka da ventanas yu'u
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

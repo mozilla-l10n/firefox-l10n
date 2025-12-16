@@ -355,6 +355,12 @@ advanced-fonts =
     .label = Opanungáva…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Moañete
+preferences-default-zoom-label =
+    .label = Moañete ypyguáva
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Moañete
 preferences-default-zoom = Moañete ypyguáva
     .accesskey = z
@@ -777,7 +783,11 @@ home-prefs-mission-message-learn-more-link = Eikuaa mba’éichapa
 home-prefs-mission-message2 =
     .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link = Eñangareko témare
+home-prefs-manage-topics-link2 =
+    .label = Eñangareko témare
 home-prefs-choose-wallpaper-link = Eiporavo mba’erechaha rugua
+home-prefs-choose-wallpaper-link2 =
+    .label = Eiporavo mba’erechaha rugua
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -811,6 +821,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ehechauka ñe’ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -887,6 +899,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Mboguete
 
+## Account and sync
+
+sync-group-label =
+    .label = Mbojuehe
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -950,6 +967,9 @@ prefs-syncing-off = Ñembojuehe: OFF
 prefs-sync-turn-on-syncing =
     .label = Emyandy ñembojuehe…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Emyandy ñembojuehe
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha ñemoĩporã opaite ne mba’e’okápe.
 prefs-sync-now =
     .labelnotsyncing = Embojuehe ko’ág̃a
@@ -958,8 +978,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Embojuehe ko’ág̃a
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Embojuehe ko’ág̃a
+    .accesskey = N
 prefs-syncing-button =
     .label = Embojuehe...
+prefs-syncing-button-2 =
+    .label = Embojuehe...
+    .title = Embojuehe ko’ág̃a
 
 ## The list of things currently syncing.
 
@@ -1040,6 +1066,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mba’e’oka Réra
+sync-device-name-header-2 =
+    .label = Mba’e’oka Réra
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1058,6 +1086,8 @@ sync-device-name-save =
     .label = Eñongatu
     .accesskey = v
 sync-connect-another-device = Embojuaju ambue mba’e’oka
+sync-connect-another-device-2 =
+    .label = Embojuaju ambue mba’e’oka
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

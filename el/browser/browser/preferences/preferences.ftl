@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Σύνθετα…
     .accesskey = Σ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Ζουμ
+preferences-default-zoom-label =
+    .label = Προεπιλεγμένο ζουμ
+    .accesskey = ζ
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ζουμ
 preferences-default-zoom = Προεπιλεγμένο ζουμ
     .accesskey = ζ
@@ -786,7 +792,11 @@ home-prefs-mission-message-learn-more-link = Μάθετε πώς
 home-prefs-mission-message2 =
     .message = Οι χορηγοί μας υποστηρίζουν την αποστολή μας για ένα καλύτερο διαδίκτυο.
 home-prefs-manage-topics-link = Διαχείριση θεμάτων
+home-prefs-manage-topics-link2 =
+    .label = Διαχείριση θεμάτων
 home-prefs-choose-wallpaper-link = Επιλογή ταπετσαρίας
+home-prefs-choose-wallpaper-link2 =
+    .label = Επιλογή ταπετσαρίας
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -820,6 +830,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων
     .accesskey = τ
+search-suggestions-cant-show-2 =
+    .message = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } έτσι ώστε να μην διατηρεί ποτέ το ιστορικό.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -896,6 +908,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Αφαίρεση
 
+## Account and sync
+
+sync-group-label =
+    .label = Συγχρονισμός
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -959,6 +976,9 @@ prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
 prefs-sync-turn-on-syncing =
     .label = Ενεργοποίηση συγχρονισμού…
     .accesskey = ρ
+prefs-sync-turn-on-syncing-2 =
+    .label = Ενεργοποίηση συγχρονισμού
+    .accesskey = ρ
 prefs-sync-offer-setup-label2 = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις ρυθμίσεις σας σε όλες τις συσκευές σας.
 prefs-sync-now =
     .labelnotsyncing = Συγχρονισμός τώρα
@@ -967,8 +987,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Συγχρονισμός τώρα
     .accesskey = τ
+prefs-sync-now-button-2 =
+    .label = Συγχρονισμός τώρα
+    .accesskey = τ
 prefs-syncing-button =
     .label = Συγχρονισμός…
+prefs-syncing-button-2 =
+    .label = Συγχρονισμός…
+    .title = Συγχρονισμός τώρα
 
 ## The list of things currently syncing.
 
@@ -1049,6 +1075,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Όνομα συσκευής
+sync-device-name-header-2 =
+    .label = Όνομα συσκευής
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1067,6 +1095,8 @@ sync-device-name-save =
     .label = Αποθήκευση
     .accesskey = θ
 sync-connect-another-device = Σύνδεση άλλης συσκευής
+sync-connect-another-device-2 =
+    .label = Σύνδεση άλλης συσκευής
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

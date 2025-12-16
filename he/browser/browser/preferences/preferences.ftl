@@ -359,6 +359,12 @@ advanced-fonts =
     .label = מתקדם…
     .accesskey = מ
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = מרחק מתצוגה
+preferences-default-zoom-label =
+    .label = מרחק מתצוגה ברירת מחדל
+    .accesskey = ת
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = מרחק מתצוגה
 preferences-default-zoom = מרחק מתצוגה ברירת מחדל
     .accesskey = ת
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = כיצד?
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link = ניהול נושאים
+home-prefs-manage-topics-link2 =
+    .label = ניהול נושאים
 home-prefs-choose-wallpaper-link = בחירת תמונת רקע
+home-prefs-choose-wallpaper-link2 =
+    .label = בחירת תמונת רקע
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,6 +833,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = הצגת הצעות חיפוש בתוצאות שורת הכתובת
     .accesskey = ח
+search-suggestions-cant-show-2 =
+    .message = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -904,6 +916,11 @@ containers-settings-button =
 containers-remove-button =
     .label = הסרה
 
+## Account and sync
+
+sync-group-label =
+    .label = סנכרון
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +984,9 @@ prefs-syncing-off = סנכרון: כבוי
 prefs-sync-turn-on-syncing =
     .label = הפעלת סנכרון…
     .accesskey = ס
+prefs-sync-turn-on-syncing-2 =
+    .label = הפעלת סנכרון
+    .accesskey = ס
 prefs-sync-offer-setup-label2 = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות וההגדרות בין כל המכשירים שלך.
 prefs-sync-now =
     .labelnotsyncing = סנכרון כעת
@@ -975,8 +995,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = סנכרון כעת
     .accesskey = ס
+prefs-sync-now-button-2 =
+    .label = סנכרון כעת
+    .accesskey = ס
 prefs-syncing-button =
     .label = בתהליך סנכרון…
+prefs-syncing-button-2 =
+    .label = בתהליך סנכרון…
+    .title = סנכרון כעת
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1087,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = שם המכשיר
+sync-device-name-header-2 =
+    .label = שם המכשיר
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1107,8 @@ sync-device-name-save =
     .label = שמירה
     .accesskey = ש
 sync-connect-another-device = חיבור מכשיר נוסף
+sync-connect-another-device-2 =
+    .label = חיבור מכשיר נוסף
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

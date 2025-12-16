@@ -359,6 +359,12 @@ advanced-fonts =
     .label = Avansert …
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Skalering
+preferences-default-zoom-label =
+    .label = Standardskalering
+    .accesskey = s
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Skalering
 preferences-default-zoom = Standardskalering
     .accesskey = s
@@ -789,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Finn ut hvordan
 home-prefs-mission-message2 =
     .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link = Behandle emner
+home-prefs-manage-topics-link2 =
+    .label = Behandle emner
 home-prefs-choose-wallpaper-link = Velg et bakgrunnsbilde
+home-prefs-choose-wallpaper-link2 =
+    .label = Velg et bakgrunnsbilde
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -823,6 +833,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Vis søkeforslag i adresselinjens resultater
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Søkeforslag vil ikke vises i adresselinjeresultatene fordi du har konfigurert { -brand-short-name } til å aldri huske historikk.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -904,6 +916,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Fjern
 
+## Account and sync
+
+sync-group-label =
+    .label = Synkronisering
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +984,9 @@ prefs-syncing-off = Synkronisering: AV
 prefs-sync-turn-on-syncing =
     .label = Slå på synkronisering…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Slå på synkronisering
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser nå
@@ -975,8 +995,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synkroniser nå
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Synkroniser nå
+    .accesskey = n
 prefs-syncing-button =
     .label = Synkroniserer…
+prefs-syncing-button-2 =
+    .label = Synkroniserer…
+    .title = Synkroniser nå
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1087,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enhetsnavn
+sync-device-name-header-2 =
+    .label = Enhetsnavn
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1107,8 @@ sync-device-name-save =
     .label = Lagre
     .accesskey = L
 sync-connect-another-device = Koble til en annen enhet
+sync-connect-another-device-2 =
+    .label = Koble til en annen enhet
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.

@@ -48,6 +48,17 @@ should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع ک
 cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = تلاش کے نتائج
@@ -135,6 +146,12 @@ default-font-size = ماپ
 advanced-fonts =
     .label = اعلٰی…
     .accesskey = A
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = زوم
+preferences-default-zoom-label =
+    .label = طے شدہ زوم
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = زوم
 preferences-default-zoom = طے شدہ زوم
@@ -293,6 +310,9 @@ update-in-progress-ok-button = &رد کريں
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &جاری رکھیں
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -383,6 +403,9 @@ choose-bookmark =
     .label = بک مارک استعمال کریں…
     .accesskey = B
 
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -447,6 +470,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ایڈریس بار کے نتائج میں تلاش کی تجاویز دکھائیں
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } سابقات کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
 search-show-suggestions-private-windows =
     .label = نجی ونڈوز میں تلاش کی تجاویز دکھائیں
 search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } سابقات کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
@@ -491,6 +516,11 @@ containers-settings-button =
     .label = سیٹنگز
 containers-remove-button =
     .label = ہٹائیں
+
+## Account and sync
+
+sync-group-label =
+    .label = سنک
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -547,6 +577,9 @@ prefs-syncing-off = سنکنگ بند ہے
 prefs-sync-turn-on-syncing =
     .label = سنک چالو کریں…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = سنک چالو کریں
+    .accesskey = s
 prefs-sync-now =
     .labelnotsyncing = ابھی ہمہ وقت سازی کریں
     .accesskeynotsyncing = ن
@@ -554,8 +587,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ابھی ہمہ وقت سازی کریں
     .accesskey = ن
+prefs-sync-now-button-2 =
+    .label = ابھی ہمہ وقت سازی کریں
+    .accesskey = ن
 prefs-syncing-button =
     .label = ہمہ وقت سازی کر رہا ہے…
+prefs-syncing-button-2 =
+    .label = ہمہ وقت سازی کر رہا ہے…
+    .title = ابھی ہمہ وقت سازی کریں
 
 ## The list of things currently syncing.
 
@@ -606,6 +645,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = آلہ کا نام
+sync-device-name-header-2 =
+    .label = آلہ کا نام
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -624,6 +665,8 @@ sync-device-name-save =
     .label = محفوظ کریں
     .accesskey = v
 sync-connect-another-device = ایک اور آلہ جوڑیں
+sync-connect-another-device-2 =
+    .label = ایک اور آلہ جوڑیں
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -692,6 +735,9 @@ forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ایک بنیادی پاس ورڈ بنائیں
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -783,6 +829,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مستثنیات کو منظم کریں…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -935,6 +987,9 @@ collection-health-report-link = مزید سیکھیں
 collection-studies-link = { -brand-short-name } کی مطالعات دیکھیں
 addon-recommendations-link = مزید سیکھیں
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -972,6 +1027,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = اورجانیے
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
