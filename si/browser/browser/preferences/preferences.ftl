@@ -481,6 +481,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -585,6 +588,9 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -734,6 +740,9 @@ containers-settings-button =
 containers-remove-button =
     .label = ඉවත් කරන්න
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -793,6 +802,9 @@ prefs-syncing-on = සමමුහූර්තය: සක්‍රියයි
 prefs-syncing-off = සමමුහූර්තය: අක්‍රියයි
 prefs-sync-turn-on-syncing =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = සමමුහූර්තය සක්‍රිය කරන්න
     .accesskey = s
 prefs-sync-offer-setup-label2 = ඔබගේ සියළුම උපාංග වලට ඔබගේ පොත්යොමු, ඉතිහාසය, පටිති, මුරපද, එක්කහු සහ සැකසුම් සමමුහූර්ත කරන්න.
 prefs-sync-now =
