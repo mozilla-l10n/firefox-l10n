@@ -428,5 +428,8 @@ etp-strict-exceptions-infobar-not-now = Ikkje no
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } er ikkje standard nettlesar
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } er ikkje den primære nettlesaren din
+set-default-menu-message-row-layout-title = Gjer { -brand-short-name } til din primærnettlesar
+set-default-menu-message-row-layout-title-variant = Gjer { -brand-short-name } til din standardnettlesar
+set-default-menu-message-row-layout-subtitle = Få fart, sikkerheit og personvern kvar gong du surfar.
 set-default-menu-message-primary-button = Vel som standard
 set-default-menu-message-primary-button-variant = Vel som primærnettlesar

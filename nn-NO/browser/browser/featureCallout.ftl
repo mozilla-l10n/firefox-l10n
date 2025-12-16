@@ -160,6 +160,7 @@ sidebar-button-callout-title = Vis fanetitlar i sidestolpen
 sidebar-button-callout-subtitle = Bruk sidestolpeknappen for å utvide sidestolpen, slik at du kan sjå fanetitlar.
 sidebar-button-callout-vertical-tabs = For å vise faneane dine, velg sidestolpe-knappen i verktøylinja.
 sidebar-deprecation-callout-title = Updatert sidedestolpe kjem snart
+sidebar-deprecation-callout-subtitle = Vi avviklar sidestolpeversjonen du brukar no. Prøv den oppdaterte sidestolpen. Den er raskare og gir deg tilgang til fleire verktøy.
 sidebar-deprecation-cta-button = Prøv han no
 
 ## Sidebar Vertical Tabs Strings
