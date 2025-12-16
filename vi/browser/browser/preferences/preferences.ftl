@@ -776,7 +776,11 @@ home-prefs-mission-message-learn-more-link = Tìm hiểu cách thức
 home-prefs-mission-message2 =
     .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link = Quản lý chủ đề
+home-prefs-manage-topics-link2 =
+    .label = Quản lý chủ đề
 home-prefs-choose-wallpaper-link = Chọn một hình nền
+home-prefs-choose-wallpaper-link2 =
+    .label = Chọn một hình nền
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
