@@ -854,6 +854,8 @@ sync-device-name-save =
     .label = Sàbhail
     .accesskey = b
 sync-connect-another-device = Ceangail uidheam eile ris
+sync-connect-another-device-2 =
+    .label = Ceangail uidheam eile ris
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
