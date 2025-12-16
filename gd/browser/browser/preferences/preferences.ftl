@@ -755,6 +755,9 @@ prefs-syncing-off = Sioncronachadh: DHETH
 prefs-sync-turn-on-syncing =
     .label = Cuir an sioncronachadh air…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Cuir an sioncronachadh air
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sioncronaich na comharran-lìn, an eachdraidh, na tabaichean, na faclan-faire, na tuilleadain ’s na roghainnean agad thar nan uidheaman agad uile.
 prefs-sync-now =
     .labelnotsyncing = Sioncronaich an-dràsta
@@ -763,8 +766,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sioncronaich an-dràsta
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sioncronaich an-dràsta
+    .accesskey = n
 prefs-syncing-button =
     .label = ’Ga shioncronachadh…
+prefs-syncing-button-2 =
+    .label = ’Ga shioncronachadh…
+    .title = Sioncronaich an-dràsta
 
 ## The list of things currently syncing.
 
@@ -825,6 +834,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Ainm an uidheim
+sync-device-name-header-2 =
+    .label = Ainm an uidheim
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
