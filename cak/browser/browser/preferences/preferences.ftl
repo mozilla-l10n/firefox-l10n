@@ -219,6 +219,12 @@ advanced-fonts =
     .label = Taq Q'axinäq…
     .accesskey = Q
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Sum
+preferences-default-zoom-label =
+    .label = Sum k'o wi
+    .accesskey = S
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Sum
 preferences-default-zoom = Sum k'o wi
     .accesskey = S
