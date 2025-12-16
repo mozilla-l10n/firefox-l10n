@@ -811,6 +811,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ehechauka ñe’ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
