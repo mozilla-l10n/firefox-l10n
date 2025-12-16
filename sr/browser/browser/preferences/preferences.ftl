@@ -695,6 +695,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = У траци за адресу
     .accesskey = ц
+search-suggestions-cant-show-2 =
+    .message = Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да { -brand-short-name } никада не памти историју.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
