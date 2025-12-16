@@ -183,8 +183,8 @@ extensions-warning-update-security-button = Povolit
 extensions-warning-imported-addons2 =
     .message =
         { -brand-short-name.case-status ->
-            [with-cases] Dokončete instalaci rozšíření importovaných do { -brand-short-name(case: "gen") }.
-           *[no-cases] Dokončete instalaci rozšíření importovaných do aplikace { -brand-short-name }.
+            [with-cases] Dokončete prosím instalaci rozšíření naimportovaných do { -brand-short-name(case: "gen") }.
+           *[no-cases] Dokončete prosím instalaci rozšíření naimportovaných do aplikace { -brand-short-name }.
         }
 extensions-warning-imported-addons-button = Nainstalovat rozšření
 extensions-warning-safe-mode3 =

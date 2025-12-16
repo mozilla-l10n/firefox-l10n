@@ -81,8 +81,8 @@ webext-perms-update-menu-item = Doplněk { $addonName } vyžaduje nová oprávn�
 # start these extensions. This message is shown in the appmenu.
 webext-imported-addons =
     { -brand-short-name.case-status ->
-        [with-cases] Dokončete instalaci rozšíření importovaných do { -brand-short-name(case: "gen") }
-       *[no-cases] Dokončete instalaci rozšíření importovaných do aplikace { -brand-short-name }
+        [with-cases] Dokončit instalaci rozšíření naimportovaných do { -brand-short-name(case: "gen") }
+       *[no-cases] Dokončit instalaci rozšíření naimportovaných do aplikace { -brand-short-name }
     }
 
 ## Add-on removal warning
