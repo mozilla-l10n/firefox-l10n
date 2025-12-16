@@ -323,6 +323,12 @@ advanced-fonts =
     .label = Frekari stillingar…
     .accesskey = a
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Aðdráttur
+preferences-default-zoom-label =
+    .label = Sjálfgefinn aðdráttur
+    .accesskey = d
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Aðdráttur
 preferences-default-zoom = Sjálfgefinn aðdráttur
     .accesskey = d
