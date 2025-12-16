@@ -953,6 +953,8 @@ sync-device-name-save =
     .label = Sekles
     .accesskey = l
 sync-connect-another-device = Qqen ibenk-nniḍen
+sync-connect-another-device-2 =
+    .label = Qqen ibenk-nniḍen
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
