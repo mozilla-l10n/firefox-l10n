@@ -776,7 +776,11 @@ home-prefs-mission-message-learn-more-link = ค้นหาว่าทำอ�
 home-prefs-mission-message2 =
     .message = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 home-prefs-manage-topics-link = จัดการหัวข้อ
+home-prefs-manage-topics-link2 =
+    .label = จัดการหัวข้อ
 home-prefs-choose-wallpaper-link = เลือกวอลล์เปเปอร์
+home-prefs-choose-wallpaper-link2 =
+    .label = เลือกวอลล์เปเปอร์
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
