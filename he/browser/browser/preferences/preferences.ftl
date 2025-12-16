@@ -1095,6 +1095,8 @@ sync-device-name-save =
     .label = שמירה
     .accesskey = ש
 sync-connect-another-device = חיבור מכשיר נוסף
+sync-connect-another-device-2 =
+    .label = חיבור מכשיר נוסף
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
