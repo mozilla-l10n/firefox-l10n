@@ -904,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Fjern
 
+## Account and sync
+
+sync-group-label =
+    .label = Synkronisering
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -975,8 +980,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synkroniser no
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Synkroniser no
+    .accesskey = n
 prefs-syncing-button =
     .label = Synkroniserer…
+prefs-syncing-button-2 =
+    .label = Synkroniserer…
+    .title = Synkroniser no
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1072,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Namn på eininga
+sync-device-name-header-2 =
+    .label = Namn på eininga
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1092,8 @@ sync-device-name-save =
     .label = Lagre
     .accesskey = L
 sync-connect-another-device = Kople til ei anna eining
+sync-connect-another-device-2 =
+    .label = Kople til ei anna eining
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
