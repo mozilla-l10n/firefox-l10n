@@ -316,6 +316,11 @@ preferences-web-appearance-override-warning3 =
     .message = 대비 제어 설정이 웹 사이트 화면 배색보다 우선합니다.
 preferences-web-appearance-link =
     .label = 확장 기능 및 테마에서 { -brand-short-name } 테마 관리
+preferences-contrast-control-group =
+    .label = 웹 사이트 대비
+    .description = 웹 사이트는 다양한 전경색과 배경색을 사용합니다. 일관된 대비를 위해 웹 사이트 전체에 동일한 색상을 사용할 수 있습니다.
+preferences-contrast-control-radio-group =
+    .label = 색상 재정의
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 선택한 색상이 웹 사이트 화면 배색보다 우선합니다. <a data-l10n-name="colors-link">색상 관리</a>
