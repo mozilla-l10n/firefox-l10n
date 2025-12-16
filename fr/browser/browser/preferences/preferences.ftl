@@ -358,6 +358,9 @@ default-font-size = Taille
 advanced-fonts =
     .label = Avancé…
     .accesskey = v
+preferences-default-zoom-label =
+    .label = Zoom par défaut
+    .accesskey = Z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom par défaut
