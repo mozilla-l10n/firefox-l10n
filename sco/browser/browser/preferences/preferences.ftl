@@ -374,6 +374,9 @@ update-in-progress-ok-button = &Discaird
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Haud Forrit
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -469,6 +472,9 @@ use-current-pages =
 choose-bookmark =
     .label = Yaise Buikmerk...
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -596,6 +602,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Remuive
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -652,6 +663,9 @@ prefs-syncing-off = Syncin: AFF
 prefs-sync-turn-on-syncing =
     .label = Turn on syncin…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Turn on syncin
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and settins across aw yer devices.
 prefs-sync-now =
     .labelnotsyncing = Sync Noo
@@ -660,8 +674,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sync Noo
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sync Noo
+    .accesskey = N
 prefs-syncing-button =
     .label = Syncin…
+prefs-syncing-button-2 =
+    .label = Syncin…
+    .title = Sync Noo
 
 ## The list of things currently syncing.
 
@@ -720,6 +740,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Device Nemme
+sync-device-name-header-2 =
+    .label = Device Nemme
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -816,6 +838,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -916,6 +941,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1103,6 +1134,9 @@ collection-health-report-disabled = Data reportin is disabled fur this build con
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1151,6 +1185,9 @@ httpsonly-radio-enabled-pbm =
     .label = Yaise HTTPS-Anely Mode in private windaes, jist
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
