@@ -358,6 +358,9 @@ default-font-size = Андоза
 advanced-fonts =
     .label = Иловагӣ…
     .accesskey = И
+preferences-default-zoom-label =
+    .label = Андозаи пешфарз
+    .accesskey = А
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
 preferences-default-zoom = Андозаи пешфарз
