@@ -795,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Tudja meg hogyan
 home-prefs-mission-message2 =
     .message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk.
 home-prefs-manage-topics-link = Témák kezelése
+home-prefs-manage-topics-link2 =
+    .label = Témák kezelése
 home-prefs-choose-wallpaper-link = Válasszon egy háttérképet
+home-prefs-choose-wallpaper-link2 =
+    .label = Válasszon egy háttérképet
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
