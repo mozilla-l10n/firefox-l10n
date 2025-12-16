@@ -518,6 +518,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Amosar les suxerences de busca nos resultaos de la barra de direiciones
     .accesskey = n
+search-suggestions-cant-show-2 =
+    .message = Les suxerencies de busca nun van amosase na barra de direiciones porque configuresti { -brand-short-name } pa qu'enxamás recordare l'historial.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
