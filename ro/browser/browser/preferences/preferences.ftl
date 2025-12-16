@@ -798,7 +798,11 @@ home-prefs-mission-message-learn-more-link = Află cum
 home-prefs-mission-message2 =
     .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link = Gestionează subiectele
+home-prefs-manage-topics-link2 =
+    .label = Gestionează subiectele
 home-prefs-choose-wallpaper-link = Alege o imagine de fundal
+home-prefs-choose-wallpaper-link2 =
+    .label = Alege o imagine de fundal
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
