@@ -594,6 +594,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kiq'iq'oj kikajtz'ik taq ochochib'äl
     .accesskey = q
+search-suggestions-cant-show-2 =
+    .message = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
