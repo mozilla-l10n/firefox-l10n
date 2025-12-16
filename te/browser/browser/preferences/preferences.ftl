@@ -673,6 +673,8 @@ sync-device-name-save =
     .label = భద్రపరచు
     .accesskey = v
 sync-connect-another-device = మరొక పరికరాన్ని అనుసంధానించు
+sync-connect-another-device-2 =
+    .label = మరొక పరికరాన్ని అనుసంధానించు
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
