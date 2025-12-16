@@ -255,6 +255,12 @@ advanced-fonts =
     .label = Adhartach…
     .accesskey = h
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Sùm
+preferences-default-zoom-label =
+    .label = An sùm bunaiteach
+    .accesskey = s
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Sùm
 preferences-default-zoom = An sùm bunaiteach
     .accesskey = s
