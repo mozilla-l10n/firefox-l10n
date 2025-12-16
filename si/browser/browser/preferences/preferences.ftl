@@ -742,6 +742,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = සමමුහූර්තය
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -814,8 +816,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = සමමුහූර්ත කරන්න
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = සමමුහූර්ත කරන්න
+    .accesskey = N
 prefs-syncing-button =
     .label = සමමුහූර්ත වෙමින්
+prefs-syncing-button-2 =
+    .label = සමමුහූර්ත වෙමින්
+    .title = සමමුහූර්ත කරන්න
 
 ## The list of things currently syncing.
 
@@ -889,6 +897,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = උපාංගයේ නම
+sync-device-name-header-2 =
+    .label = උපාංගයේ නම
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
