@@ -471,6 +471,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -574,6 +577,9 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -716,6 +722,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Suprimir
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronizacion
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -787,8 +798,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ara
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sincronizar ara
+    .accesskey = n
 prefs-syncing-button =
     .label = Sincronizacion…
+prefs-syncing-button-2 =
+    .label = Sincronizacion…
+    .title = Sincronizar ara
 
 ## The list of things currently syncing.
 
@@ -862,6 +879,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Nom de l'aparelh
+sync-device-name-header-2 =
+    .label = Nom de l'aparelh
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
