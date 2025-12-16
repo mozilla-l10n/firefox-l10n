@@ -569,6 +569,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ສະແດງຜົນການຊອກຫາໃນແທັບທີ່ຢູ່
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = ການແນະນຳການຊອກຫາຈະບໍ່ຖືກສະແດງຢູ່ໃນຜົນການຊອກຫາແຖບສະຖານທີ່ ເພາະວ່າທ່ານໄດ້ກຳນົດຄ່າ { -brand-short-name } ບໍ່ໃຫ້ຈື່ປະຫວັດ.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
