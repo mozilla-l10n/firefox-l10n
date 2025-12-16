@@ -1095,6 +1095,8 @@ sync-device-name-save =
     .label = Lagre
     .accesskey = L
 sync-connect-another-device = Koble til en annen enhet
+sync-connect-another-device-2 =
+    .label = Koble til en annen enhet
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
