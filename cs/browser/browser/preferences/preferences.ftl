@@ -430,6 +430,12 @@ advanced-fonts =
     .label = Rozšířené…
     .accesskey = o
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Velikost stránek
+preferences-default-zoom-label =
+    .label = Výchozí velikost
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Velikost stránek
 preferences-default-zoom = Výchozí velikost
     .accesskey = z
