@@ -1045,6 +1045,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = 设备名称
+sync-device-name-header-2 =
+    .label = 设备名称
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
