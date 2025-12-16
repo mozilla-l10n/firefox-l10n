@@ -240,6 +240,8 @@ annotations-default-pdf-handler-headline = Firma sulla linea tratteggiata, o dov
 annotations-default-pdf-handler-body = Disegna, digita o carica la tua firma, poi inseriscila esattamente dove desideri. Salva le tue firme preferite per riusarle in futuro.
 annotations-make-default-pdf-handler-title = Impostare { -brand-short-name } come editor predefinito per i PDF?
 annotations-make-default-pdf-handler-subtitle = Avrai accesso ai nostri strumenti ogni volta che apri un PDF.
+annotations-make-default-pdf-primary-cta-label = Imposta come predefinito
+annotations-make-default-pdf-next-label = Successivo
 annotations-make-default-pdf-primary-cta =
     .label = Imposta come predefinito
 annotations-make-default-pdf-next =
@@ -435,4 +437,3 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Imposta come predefinito
 set-default-menu-message-primary-button-variant = Imposta come browser principale
-
