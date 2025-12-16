@@ -659,6 +659,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ایڈریس بار دے نتیجیاں وِچ ڳولݨ دیاں تجویزاں ظاہر کرو
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = ڳولݨ دیاں صلاحیں لوکیشن بار دے نتیجے وِچ نہ ݙکھایاں ویسن کیوں جو تساں تاریخ کوں کݙاہیں یاد نہ رکھݨ کیتے { -brand-short-name } کوں ترتیب ݙتا ہے۔
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
