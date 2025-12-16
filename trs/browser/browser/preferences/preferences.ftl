@@ -549,8 +549,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Nagi'iaj nuguàn'àn hīaj
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Nagi'iaj nuguàn'àn hīaj
+    .accesskey = N
 prefs-syncing-button =
     .label = Nagi'iaj nuguàn'anj…
+prefs-syncing-button-2 =
+    .label = Nagi'iaj nuguàn'anj…
+    .title = Nagi'iaj nuguàn'àn hīaj
 
 ## The list of things currently syncing.
 
@@ -604,6 +610,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Si yugui aga'a
+sync-device-name-header-2 =
+    .label = Si yugui aga'a
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
