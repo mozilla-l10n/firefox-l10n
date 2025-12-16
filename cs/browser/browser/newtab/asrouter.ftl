@@ -610,3 +610,16 @@ etp-strict-exceptions-infobar-button = Použít opravy
     .accesskey = P
 etp-strict-exceptions-infobar-not-now = Nyní ne
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } není váš výchozí prohlížeč
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } není váš hlavní prohlížeč
+set-default-menu-message-row-layout-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako hlavní prohlížeč
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako hlavní prohlížeč
+    }
+set-default-menu-message-row-layout-subtitle = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
+set-default-menu-message-primary-button = Nastavit jako výchozí
+set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlížeč

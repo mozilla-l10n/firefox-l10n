@@ -320,6 +320,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Přidá tuto stránku do záložek ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Rozdělené zobrazení
+    .aria-label = Rozdělené zobrazení
 
 ## Page Action Context Menu
 
@@ -928,6 +931,9 @@ urlbar-result-menu-dont-show-market =
     .label = Nezobrazovat návrhy z akciových trhů
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Děkujeme za vaši zpětnou vazbu. Návrhy z akciových trhů se vám už nebudou zobrazovat.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Návrhy pro akciový trh
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Děkujeme za vaši zpětnou vazbu. Tyto návrhy se vám už nebudou zobrazovat.

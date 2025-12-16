@@ -684,6 +684,11 @@ update-in-progress-ok-button = &Nepokračovat
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
 
+## Firefox support
+
+support-get-help =
+    .label = Získat pomoc
+
 ## General Section - Performance
 
 performance-title = Výkon

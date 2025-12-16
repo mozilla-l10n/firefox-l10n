@@ -35,3 +35,5 @@ customkeys-nav-reload = Znovu načíst
 customkeys-nav-reload-skip-cache = Znovu načíst (přepsat mezipaměť)
 customkeys-nav-stop = Zastavit
 customkeys-caution-message = Tato funkce je experimentální a nemusí fungovat podle očekávání.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Neplatný

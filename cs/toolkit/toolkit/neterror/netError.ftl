@@ -222,6 +222,7 @@ neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatu
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nemůže vytvořit zabezpečené připojení k serveru { $hostname }.
+fp-neterror-why-did-this-happen = Proč se to stalo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zdá se, že tento server používá starý software se známými bezpečnostními problémy.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
