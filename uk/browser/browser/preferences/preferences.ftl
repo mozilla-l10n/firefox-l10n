@@ -908,6 +908,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Вилучити
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -970,6 +973,9 @@ prefs-syncing-on = Синхронізація: УВІМКНЕНО
 prefs-syncing-off = Синхронізація: ВИМКНЕНО
 prefs-sync-turn-on-syncing =
     .label = Увімкнути синхронізацію…
+    .accesskey = с
+prefs-sync-turn-on-syncing-2 =
+    .label = Увімкнути синхронізацію
     .accesskey = с
 prefs-sync-offer-setup-label2 = Синхронізуйте закладки, історію, вкладки, паролі, додатки, а також налаштування на всіх своїх пристроях.
 prefs-sync-now =
@@ -1065,6 +1071,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Назва пристрою
+sync-device-name-header-2 =
+    .label = Назва пристрою
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
