@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Tus ajustes control de contraste prevalecen por sobre la apariencia del sitio web.
 preferences-web-appearance-link =
     .label = Gestiona los temas de { -brand-short-name } en Extensiones y temas
+preferences-contrast-control-group =
+    .label = Contraste de sitios web
+    .description = Los sitios web usan una variedad de colores de fondo y primer plano. Para un contraste consistente, puedes usar los mismos colores entre sitios webs.
+preferences-contrast-control-radio-group =
+    .label = Sobrescribir colores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu elección de colores deciden la apariencia del sitio web. <a data-l10n-name="colors-link">Gestionar colores</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búqueda en los resultados de la barra de direcciones
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-show-suggestions-private-windows-2 =
+    .label = Sugerencias de búsqueda en ventanas privadas
 search-suggestions-cant-show-2 =
     .message = Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste { -brand-short-name } para que nunca recuerde el historial.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Motor de búsqueda predeterminado en ventanas privadas
+search-suggestions-header-2 =
+    .label = Sugerencias de motor de búsqueda
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Sincroniza tus marcadores, historial, pestañas, c
 sync-signedout-account-signin3 =
     .label = Conectarse para sincronizar…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Conéctate a tu cuenta para empezar a sincronizar
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-on-2 =
+    .label = Sincronización ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-syncing-off-2 =
+    .label = Sincronización DESACTIVADA
+    .description = Activa la sincronización para tener tus marcadores, contraseñas, historial y más en cualquier dispositivo.
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronización…
     .accesskey = s
@@ -1007,6 +1031,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Estás sincronizando estos elementos entre todos tus dispositivos conectados:
+sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
 sync-syncing-across-devices-empty-state =
     .label = No estás sincronizando nada… todavía.
     .description = Empieza a sincronizar para tener todos tus datos en todos tus dispositivos.
@@ -1022,6 +1047,9 @@ sync-currently-syncing-addons = Complementos
 sync-currently-syncing-settings = Ajustes
 sync-manage-options =
     .label = Gestionar sincronización…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = Administrar datos sincronizados
     .accesskey = M
 sync-change-options =
     .label = Cambiar…
@@ -1282,6 +1310,9 @@ autofill-payment-methods-add-button = Añadir nuevo método de pago
 payments-list-header =
     .label = Métodos de pago
 payments-list-item-label = <strong>Métodos de pago</strong>
+payments-delete-payment-prompt-title = ¿Eliminar este método de pago?
+payments-delete-payment-prompt-confirm-button = Borrar
+payments-delete-payment-prompt-cancel-button = Cancelar
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
 payments-remove-payment-prompt-cancel-button = Cancelar
@@ -1294,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = M
+addresses-list-header =
+    .label = Direcciones
+addreses-delete-address-button-label =
+    .aria-label = Eliminar
+addreses-edit-address-button-label =
+    .aria-label = Editar
+addresses-delete-address-prompt-title = ¿Eliminar esta dirección?
+addresses-delete-address-prompt-confirm-button = Eliminar
+addresses-delete-address-prompt-cancel-button = Cancelar
+autofill-addresses-add-button = Añadir nueva dirección
+autofill-addresses-manage-addresses-title =
+    .heading = Administrar direcciones y más
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1488,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Búsquedas recientes
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Tendencias en sugerencias de búsqueda
+    .accesskey = t
 addressbar-suggestions-settings = Cambia las preferencias para las sugerencias de los motores de búsqueda
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
@@ -1689,6 +1745,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Administrar las excepciones de ventanas emergentes y redirecciones de terceros…
+    .accesskey = E
+    .searchkeywords = popups
+permissions-addon-install-warning2 =
+    .label = Advertir cuando los sitios web intenten instalar extensiones
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Elige qué sitios web pueden instalar extensiones
+    .accesskey = E
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
@@ -1719,6 +1787,9 @@ permissions-camera2 =
     .label = Cámara
 permissions-microphone2 =
     .label = Micrófono
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Salida de audio
 permissions-notification2 =
     .label = Notificaciones
 

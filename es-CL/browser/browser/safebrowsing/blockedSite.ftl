@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } bloqueó esta pá
 safeb-blocked-malware-page-short-desc = { -brand-short-name } bloqueó esta página porque podría intentar instalar software malicioso que puede robar o eliminar datos personales en tu computador.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloqueó esta página porque podría intentar engañarte para instalar programas que dañan tu experiencia de navegación (por ejemplo, cambiando tu página de inicio o mostrando publicidad adicional en los sitios que visitas).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } bloqueó esta página porque podría intentar instalar aplicaciones peligrosas que roban o eliminan tu información (por ejemplo: fotos, contraseñas, mensajes y tarjetas de crédito).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } bloqueó esta página porque uno de tus complementos intentó abrirla. Este sitio podría usarse para robar tu información, como contraseñas o números de tarjetas de crédito.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Aviso brindado por <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -71,3 +72,4 @@ safeb-palm-notdeceptive =
 safeb-blocked-addon-page-error-desc-override = <strong>¿Por qué fue bloqueado este sitio?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> puede estar vinculado a actividades engañosas y dañinas.
 safeb-blocked-addon-page-error-desc3-override = <strong>¿Qué puedes hacer al respecto?</strong>
+safeb-blocked-addon-page-error-desc4-override = Para evitar que esto vuelva a suceder, puedes eliminar o deshabilitar <strong>{ $addonName }</strong> desde about:addons.
