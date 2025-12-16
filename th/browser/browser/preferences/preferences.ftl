@@ -547,6 +547,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ
@@ -873,6 +876,9 @@ containers-settings-button =
 containers-remove-button =
     .label = เอาออก
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1044,6 +1050,8 @@ sync-device-name-save =
     .label = บันทึก
     .accesskey = บ
 sync-connect-another-device = เชื่อมต่ออุปกรณ์อื่น
+sync-connect-another-device-2 =
+    .label = เชื่อมต่ออุปกรณ์อื่น
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
