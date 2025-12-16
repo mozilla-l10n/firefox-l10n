@@ -822,6 +822,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 주소 표시줄 결과에 검색 제안 표시
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = 주소 표시줄 결과에서 방문 기록 보다 검색 제안을 먼저 표시
+search-show-suggestions-private-windows-2 =
+    .label = 사생활 보호 창에서 검색 제안
 search-suggestions-cant-show-2 =
     .message = 방문 기록을 저장하지 않도록 { -brand-short-name }를 설정했기 때문에 검색 제안이 주소 표시 줄 결과에 표시되지 않습니다.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -833,6 +842,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = 사생활 보호 창의 기본 검색 엔진
+search-suggestions-header-2 =
+    .label = 검색 엔진 제안
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -918,6 +929,9 @@ sync-signedout-description2 = 북마크, 기록, 탭, 비밀번호, 부가 기�
 sync-signedout-account-signin3 =
     .label = Sync에 로그인…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = 계정에 로그인하여 동기화를 시작하세요
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -969,7 +983,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = 동기화: 켜짐
+prefs-syncing-on-2 =
+    .label = 동기화 켜짐
 prefs-syncing-off = 동기화: 꺼짐
+prefs-syncing-off-2 =
+    .label = 동기화 꺼짐
+    .description = 동기화를 켜면 북마크, 비밀번호, 기록 등을 모든 기기에서 사용할 수 있습니다.
 prefs-sync-turn-on-syncing =
     .label = 동기화 켜기…
     .accesskey = s
@@ -1012,6 +1031,9 @@ sync-currently-syncing-addons = 부가 기능
 sync-currently-syncing-settings = 설정
 sync-manage-options =
     .label = 동기화 관리…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = 동기화된 데이터 관리
     .accesskey = M
 sync-change-options =
     .label = 변경…
@@ -1272,6 +1294,9 @@ autofill-payment-methods-add-button = 새 결제 수단 추가
 payments-list-header =
     .label = 결제 수단
 payments-list-item-label = <strong>결제 수단</strong>
+payments-delete-payment-prompt-title = 이 결제 수단을 삭제하시겠습니까?
+payments-delete-payment-prompt-confirm-button = 삭제
+payments-delete-payment-prompt-cancel-button = 취소
 payments-remove-payment-prompt-title = 이 결제 수단을 제거하시겠습니까?
 payments-remove-payment-prompt-confirm-button = 제거
 payments-remove-payment-prompt-cancel-button = 취소
@@ -1284,6 +1309,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = 주소 및 기타 관리
     .accesskey = M
+addresses-list-header =
+    .label = 주소
+addreses-delete-address-button-label =
+    .aria-label = 삭제
+addreses-edit-address-button-label =
+    .aria-label = 편집
+addresses-delete-address-prompt-title = 이 주소를 삭제하시겠습니까?
+addresses-delete-address-prompt-confirm-button = 삭제
+addresses-delete-address-prompt-cancel-button = 취소
+autofill-addresses-add-button = 새 주소 추가
+autofill-addresses-manage-addresses-title =
+    .heading = 주소 및 기타 관리
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1478,6 +1522,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 빠른 작업
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = 최근 검색
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = 인기 검색어 제안
+    .accesskey = t
 addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-locbar-showrecentsearches-option =
     .label = 최근 검색 표시
