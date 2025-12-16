@@ -569,6 +569,9 @@ prefs-syncing-off = سنکنگ بند ہے
 prefs-sync-turn-on-syncing =
     .label = سنک چالو کریں…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = سنک چالو کریں
+    .accesskey = s
 prefs-sync-now =
     .labelnotsyncing = ابھی ہمہ وقت سازی کریں
     .accesskeynotsyncing = ن
@@ -576,8 +579,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ابھی ہمہ وقت سازی کریں
     .accesskey = ن
+prefs-sync-now-button-2 =
+    .label = ابھی ہمہ وقت سازی کریں
+    .accesskey = ن
 prefs-syncing-button =
     .label = ہمہ وقت سازی کر رہا ہے…
+prefs-syncing-button-2 =
+    .label = ہمہ وقت سازی کر رہا ہے…
+    .title = ابھی ہمہ وقت سازی کریں
 
 ## The list of things currently syncing.
 
