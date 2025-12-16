@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Kuatiarogue ({ $shortcut }) mbojoapy
+urlbar-split-view-button =
+    .tooltiptext = Jehecha vorepyre
+    .aria-label = Jehecha vorepyre
 
 ## Page Action Context Menu
 
@@ -838,6 +841,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ani ehechauka ñemoñe’ẽ ñemuhagua
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Aguyje ne remiandúre. Nderehechamoʼãvéima je’epy ñemuhaguasugua.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Ñemoñe’ẽ ñemuha rendápe g̃uarã
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Aguyje ne remiandu rehe. Nderehechamoʼãvéima ko’ã temiandu.
