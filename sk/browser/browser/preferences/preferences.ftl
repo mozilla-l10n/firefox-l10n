@@ -976,6 +976,9 @@ prefs-syncing-off = Synchronizácia je vypnutá
 prefs-sync-turn-on-syncing =
     .label = Zapnúť synchronizáciu…
     .accesskey = Z
+prefs-sync-turn-on-syncing-2 =
+    .label = Zapnúť synchronizáciu
+    .accesskey = Z
 prefs-sync-offer-setup-label2 = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 prefs-sync-now =
     .labelnotsyncing = Synchronizovať
@@ -989,6 +992,9 @@ prefs-sync-now-button-2 =
     .accesskey = n
 prefs-syncing-button =
     .label = Synchronizuje sa…
+prefs-syncing-button-2 =
+    .label = Synchronizuje sa…
+    .title = Synchronizovať
 
 ## The list of things currently syncing.
 
