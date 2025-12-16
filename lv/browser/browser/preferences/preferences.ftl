@@ -466,6 +466,9 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -572,6 +575,9 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -718,6 +724,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Noņemt
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinhronizēšana
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -781,6 +792,9 @@ prefs-syncing-off = Sinhronizācija: izslēgta
 prefs-sync-turn-on-syncing =
     .label = Ieslēgt sinhronizāciju…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ieslēgt sinhronizāciju
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
 prefs-sync-now =
     .labelnotsyncing = Sinhronizēt tagad
@@ -789,8 +803,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinhronizēt tagad
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sinhronizēt tagad
+    .accesskey = n
 prefs-syncing-button =
     .label = Sinhronizē...
+prefs-syncing-button-2 =
+    .label = Sinhronizē...
+    .title = Sinhronizēt tagad
 
 ## The list of things currently syncing.
 
@@ -861,6 +881,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Ierīces nosaukums
+sync-device-name-header-2 =
+    .label = Ierīces nosaukums
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1351,6 +1373,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
