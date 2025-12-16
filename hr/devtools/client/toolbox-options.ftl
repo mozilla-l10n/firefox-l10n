@@ -146,6 +146,9 @@ options-source-maps-label = Aktiviraj mapiranja izvora
 options-source-maps-tooltip =
     .title = Ako aktiviraš ovu opciju, izvori će se mapirati u alatima.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (samo trenutačna sesija, ponovo učitava stranicu)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Samo trenutačna sesija, ponovo učitava stranicu
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
