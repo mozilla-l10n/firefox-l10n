@@ -530,6 +530,9 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Punim
@@ -853,6 +856,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Hiqe
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -916,6 +924,9 @@ prefs-syncing-off = Njëkohësim: OFF
 prefs-sync-turn-on-syncing =
     .label = Aktivizoni njëkohësimin…
     .accesskey = A
+prefs-sync-turn-on-syncing-2 =
+    .label = Aktivizoni njëkohësimin
+    .accesskey = A
 prefs-sync-offer-setup-label2 = Njëkohësoni faqerojtësit tuaj, skedat, fjalëkalimet, shtesa dhe rregullime nga krejt pajisjet tuaja.
 prefs-sync-now =
     .labelnotsyncing = Njëkohësoji Tani
@@ -924,8 +935,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Njëkohësoji Tani
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Njëkohësoji Tani
+    .accesskey = N
 prefs-syncing-button =
     .label = Po njëkohësohet…
+prefs-syncing-button-2 =
+    .label = Po njëkohësohet…
+    .title = Njëkohësoji Tani
 
 ## The list of things currently syncing.
 
@@ -1006,6 +1023,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Emër Pajisjeje
+sync-device-name-header-2 =
+    .label = Emër Pajisjeje
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
