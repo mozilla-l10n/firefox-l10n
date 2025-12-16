@@ -888,6 +888,9 @@ containers-settings-button =
 containers-remove-button =
     .label = 삭제
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -959,8 +962,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = 지금 동기화
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = 지금 동기화
+    .accesskey = N
 prefs-syncing-button =
     .label = 동기화중…
+prefs-syncing-button-2 =
+    .label = 동기화중…
+    .title = 지금 동기화
 
 ## The list of things currently syncing.
 
