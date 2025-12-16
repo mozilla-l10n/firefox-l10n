@@ -564,6 +564,8 @@ sync-device-name-save =
     .label = Saqla
     .accesskey = K
 sync-connect-another-device = Başqa bir cihaz bağla
+sync-connect-another-device-2 =
+    .label = Başqa bir cihaz bağla
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
