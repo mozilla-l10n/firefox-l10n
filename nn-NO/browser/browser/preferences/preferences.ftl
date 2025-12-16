@@ -795,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Finn ut korleis
 home-prefs-mission-message2 =
     .message = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett.
 home-prefs-manage-topics-link = Handsam emne
+home-prefs-manage-topics-link2 =
+    .label = Handsam emne
 home-prefs-choose-wallpaper-link = Vel eit bakgrunnsbilde
+home-prefs-choose-wallpaper-link2 =
+    .label = Vel eit bakgrunnsbilde
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
