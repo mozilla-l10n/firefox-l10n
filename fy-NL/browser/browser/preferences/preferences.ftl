@@ -904,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Fuortsmite
 
+## Account and sync
+
+sync-group-label =
+    .label = Syngronisaasje
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +972,9 @@ prefs-syncing-off = Syngronisaasje: ÚT
 prefs-sync-turn-on-syncing =
     .label = Syngronisaasje ynskeakelje…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Syngronisaasje ynskeakelje
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en ynstellingen op al jo apparaten.
 prefs-sync-now =
     .labelnotsyncing = No syngronisearje
@@ -975,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = No syngronisearje
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = No syngronisearje
+    .accesskey = N
 prefs-syncing-button =
     .label = Syngronisearret…
+prefs-syncing-button-2 =
+    .label = Syngronisearret…
+    .title = No syngronisearje
 
 ## The list of things currently syncing.
 
@@ -1079,6 +1093,8 @@ sync-device-name-save =
     .label = Bewarje
     .accesskey = B
 sync-connect-another-device = In oar apparaat ferbine
+sync-connect-another-device-2 =
+    .label = In oar apparaat ferbine
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
