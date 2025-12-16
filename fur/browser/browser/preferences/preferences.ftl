@@ -525,6 +525,9 @@ update-in-progress-ok-button = &Interomp
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestazions
@@ -633,6 +636,9 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -801,6 +807,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Gjave
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronizazion
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -864,6 +875,9 @@ prefs-syncing-off = Sincronizazion: DISATIVADE
 prefs-sync-turn-on-syncing =
     .label = Ative la sincronizazion…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ative la sincronizazion
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronize segnelibris, cronologjie, schedis, passwords, components adizionâi e impostazions tra ducj i tiei dispositîfs.
 prefs-sync-now =
     .labelnotsyncing = Sincronize cumò
@@ -872,8 +886,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronize cumò
     .accesskey = u
+prefs-sync-now-button-2 =
+    .label = Sincronize cumò
+    .accesskey = u
 prefs-syncing-button =
     .label = Sincronizazion…
+prefs-syncing-button-2 =
+    .label = Sincronizazion…
+    .title = Sincronize cumò
 
 ## The list of things currently syncing.
 
@@ -954,6 +974,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Non dispositîf
+sync-device-name-header-2 =
+    .label = Non dispositîf
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
