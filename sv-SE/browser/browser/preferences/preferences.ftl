@@ -823,6 +823,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Visa sökförslag i adressfältets resultat
     .accesskey = f
+search-suggestions-cant-show-2 =
+    .message = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
