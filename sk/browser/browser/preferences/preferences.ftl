@@ -908,6 +908,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Odstrániť
 
+## Account and sync
+
+sync-group-label =
+    .label = Synchronizácia
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1083,6 +1088,8 @@ sync-device-name-save =
     .label = Uložiť
     .accesskey = U
 sync-connect-another-device = Pripojiť ďalšie zariadenie
+sync-connect-another-device-2 =
+    .label = Pripojiť ďalšie zariadenie
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
