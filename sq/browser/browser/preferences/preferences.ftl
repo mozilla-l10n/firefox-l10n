@@ -780,6 +780,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Shfaq sugjerime kërkimi te përfundimet në shtyllë adresash
     .accesskey = q
+search-suggestions-cant-show-2 =
+    .message = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
