@@ -355,6 +355,12 @@ advanced-fonts =
     .label = Opanungáva…
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Moañete
+preferences-default-zoom-label =
+    .label = Moañete ypyguáva
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Moañete
 preferences-default-zoom = Moañete ypyguáva
     .accesskey = z
