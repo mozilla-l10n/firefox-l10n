@@ -904,6 +904,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Verwijderen
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1079,6 +1082,8 @@ sync-device-name-save =
     .label = Opslaan
     .accesskey = s
 sync-connect-another-device = Een ander apparaat verbinden
+sync-connect-another-device-2 =
+    .label = Een ander apparaat verbinden
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
