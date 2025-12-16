@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = 효율성 (%)
 place-database-stats-sequentiality-perc = 순차 (%)
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인
+place-database-last-idle-maintenance-data = 마지막 유지 보수 날짜
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = 마지막 Vacuum 날짜
+place-database-last-integrity-corruption-date = 마지막 무결성 손상 날짜
 a11y-title = 접근성
 a11y-activated = 활성화
 a11y-force-disabled = 접근성 끄기
