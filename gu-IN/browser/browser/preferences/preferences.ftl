@@ -561,6 +561,8 @@ sync-device-name-save =
     .label = સંગ્રહો
     .accesskey = v
 sync-connect-another-device = બીજા ઉપકરણ સાથે જોડાણ કરો
+sync-connect-another-device-2 =
+    .label = બીજા ઉપકરણ સાથે જોડાણ કરો
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
