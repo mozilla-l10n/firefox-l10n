@@ -371,6 +371,12 @@ advanced-fonts =
     .label = Uwch…
     .accesskey = w
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Chwyddo
+preferences-default-zoom-label =
+    .label = Chwyddo rhagosodedig
+    .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Chwyddo
 preferences-default-zoom = Chwyddo rhagosodedig
     .accesskey = C
