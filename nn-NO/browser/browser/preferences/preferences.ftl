@@ -824,6 +824,9 @@ search-show-suggestions-url-bar-option =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Vis søkjeord i adressefeltet på resultatsidene
+search-separate-default-engine-2 =
+    .label = Bruk ein annan standard søkjemotor i private vindauge
+    .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard søkjemotor i private vindauge
 # With this option enabled, on the search results page
@@ -975,6 +978,7 @@ prefs-syncing-button =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Du synkroniserer desse elementa mellom alle dei tilkopla einingane dine:
+sync-syncing-across-devices-heading-2 = Data synkroniserte på tvers av einingar
 sync-currently-syncing-bookmarks = Bokmerke
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Opne faner

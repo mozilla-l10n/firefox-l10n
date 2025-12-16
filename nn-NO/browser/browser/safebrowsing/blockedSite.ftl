@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Villeiande nettstad
 safeb-blocked-malware-page-title = Å besøkje denne nettstaden kan skade datamaskina di
 safeb-blocked-unwanted-page-title = Nettstaden framom her kan innehalde skadeleg programvare
 safeb-blocked-harmful-page-title = Nettstaden framom her kan innehalde skadeleg programvare
+safeb-blocked-addon-page-title = Nettstaden er blokkert for di sikkerheit
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } blokkerte denne sida fordi ho kan få deg til å gjere noko farleg som å installere programvare eller avsløre personleg informasjon som passord eller kredittkort.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blokkerte denne sida fordi ho kan prøve å installere skadeleg programvare som kan stele eller slette personleg informasjon på datamaskina di.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blokkerte denne nettsida fordi ho kan prøve å lure deg til å installere program som skadar nettlesaroppleinga di (til dømes ved å endre startsida di eller ved å vise ekstra annonsar på nettstadar du besøkjer).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blokkerte denne sida fordi ho kan prøve å installere farlege appar som stel eller slettar informasjonen din (til dømes bilde, passord, meldingar og kredittkort).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } blokkerte denne sida fordi eit av tillegga dine prøvde å opne henne. Denne nettstaden kan brukast til å stele informasjonen din — som passord eller bankkortnummer.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rådgjeving levert av <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,12 @@ safeb-blocked-harmful-page-learn-more = Les meir om { -brand-short-name } sitt v
 safeb-palm-notdeceptive =
     .label = Dette er ikkje ein villeiande nettstad…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Kvifor vart denne nettstaden blokkert?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> kan vere knytt til villeiande og skadeleg aktivitet.
+safeb-blocked-addon-page-error-desc3-override = <strong>Kva kan du gjere med det?</strong>
+safeb-blocked-addon-page-error-desc4-override = For å hindre at dette skjer igjen kan du fjerne eller deaktivere <strong>{ $addonName }</strong> frå about:addons.
