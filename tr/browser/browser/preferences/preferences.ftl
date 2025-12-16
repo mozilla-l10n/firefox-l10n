@@ -354,6 +354,12 @@ advanced-fonts =
     .label = Gelişmiş…
     .accesskey = G
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Yakınlaştırma
+preferences-default-zoom-label =
+    .label = Varsayılan yakınlaştırma
+    .accesskey = m
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Yakınlaştırma
 preferences-default-zoom = Varsayılan yakınlaştırma
     .accesskey = m
