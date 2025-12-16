@@ -904,6 +904,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Remover
 
+## Account and sync
+
+sync-group-label =
+    .label = Sincronización
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +972,9 @@ prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronización…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activar la sincronización
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos tus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ahora
@@ -975,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ahora
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar ahora
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar ahora
 
 ## The list of things currently syncing.
 
@@ -1060,6 +1074,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nombre del dispositivo
+sync-device-name-header-2 =
+    .label = Nombre del dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1078,6 +1094,8 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = v
 sync-connect-another-device = Conectar otro dispositivo
+sync-connect-another-device-2 =
+    .label = Conectar otro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
