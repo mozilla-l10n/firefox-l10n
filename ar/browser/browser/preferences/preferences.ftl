@@ -516,6 +516,9 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -624,6 +627,9 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -782,6 +788,11 @@ containers-settings-button =
 containers-remove-button =
     .label = أزِل
 
+## Account and sync
+
+sync-group-label =
+    .label = المزامنة
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -845,6 +856,9 @@ prefs-syncing-off = المزامنة: معطلة
 prefs-sync-turn-on-syncing =
     .label = فعّل المزامنة…
     .accesskey = ف
+prefs-sync-turn-on-syncing-2 =
+    .label = فعّل المزامنة
+    .accesskey = ف
 prefs-sync-offer-setup-label2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 prefs-sync-now =
     .labelnotsyncing = زامِن الآن
@@ -853,8 +867,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = زامِن الآن
     .accesskey = م
+prefs-sync-now-button-2 =
+    .label = زامِن الآن
+    .accesskey = م
 prefs-syncing-button =
     .label = يُزامن…
+prefs-syncing-button-2 =
+    .label = يُزامن…
+    .title = زامِن الآن
 
 ## The list of things currently syncing.
 
@@ -946,6 +966,8 @@ sync-device-name-save =
     .label = احفظ
     .accesskey = ح
 sync-connect-another-device = صِلْ جهازا آخر
+sync-connect-another-device-2 =
+    .label = صِلْ جهازا آخر
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
