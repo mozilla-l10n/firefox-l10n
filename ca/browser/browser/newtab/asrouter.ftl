@@ -387,8 +387,12 @@ windows-10-eos-sync-callout-privacy-screen-1-title = El { -brand-product-name } 
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Els elements de seguiment no poden identificar el vostre dispositiu ni seguir-vos per la web, perquè no els ho permetem.
 windows-10-eos-sync-callout-privacy-screen-2-title = Protegiu les contrasenyes i les adreces d'interès per al proper dispositiu.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Fer una còpia de seguretat del { -brand-shorter-name } et permet endur-te fàcilment les dades i la configuració de seguretat,
-windows-10-eos-sync-callout-privacy-info-button = Vegeu què s'ha blocat
+windows-10-eos-sync-callout-privacy-info-button = Mostra'm què s'ha blocat
+windows-10-eos-callout-addons-title = Proveu els complements: millores senzilles, grans impactes
+windows-10-eos-callout-addons-subtitle = Aquestes extensions s'han escollit per fomentar la productivitat, la seguretat i la concentració.
+windows-10-eos-callout-addons-primary-button = Mostra'm les seleccions
 windows-10-eos-sync-callout-addons-title = No perdeu els complements quan actualitzeu des del Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronitzeu ara perquè els complements del { -brand-product-name } estiguin sempre disponibles, fins i tot després d'un canvi de dispositiu.
 windows-10-eos-sync-callout-next-button = Següent
 windows-10-eos-sync-callout-get-started-button = Inicia
 
@@ -413,3 +417,11 @@ etp-strict-exceptions-infobar-button = Aplica les correccions
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ara no
     .accesskey = A
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = El { -brand-short-name } no és el navegador per defecte
+set-default-menu-message-simple-layout-title-variant = El { -brand-short-name } no és el navegador principal
+set-default-menu-message-row-layout-title = Feu que el { -brand-short-name } sigui el vostre navegador principal
+set-default-menu-message-row-layout-title-variant = Feu que el { -brand-short-name } sigui el navegador per defecte
+set-default-menu-message-row-layout-subtitle = Obteniu velocitat, seguretat i privadesa cada cop que navegueu.
