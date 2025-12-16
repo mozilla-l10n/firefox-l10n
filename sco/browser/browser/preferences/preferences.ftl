@@ -545,6 +545,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Kythe airt-oot suggestions in address baur results
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Airt-oot suggestions willnae be kythed in location baur results acause ye've confeegurt { -brand-short-name } tae nivver mind o historie.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
