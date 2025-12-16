@@ -896,6 +896,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Poista
 
+## Account and sync
+
+sync-group-label =
+    .label = Synkronointi
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
