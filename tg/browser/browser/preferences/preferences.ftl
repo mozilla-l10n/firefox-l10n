@@ -903,6 +903,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Тоза кардан
 
+## Account and sync
+
+sync-group-label =
+    .label = Ҳамоҳангсозӣ
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -966,6 +971,9 @@ prefs-syncing-off = Ҳамоҳангсозӣ: Ғайрифаъол
 prefs-sync-turn-on-syncing =
     .label = Фаъол кардани ҳамоҳангсозӣ…
     .accesskey = Ф
+prefs-sync-turn-on-syncing-2 =
+    .label = Фаъол кардани ҳамоҳангсозӣ
+    .accesskey = Ф
 prefs-sync-offer-setup-label2 = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва танзимоти худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 prefs-sync-now =
     .labelnotsyncing = Ҳозир ҳамоҳанг кунед
@@ -974,8 +982,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Ҳозир ҳамоҳанг кунед
     .accesskey = Ҳ
+prefs-sync-now-button-2 =
+    .label = Ҳозир ҳамоҳанг кунед
+    .accesskey = Ҳ
 prefs-syncing-button =
     .label = Ҳамоҳангсозӣ…
+prefs-syncing-button-2 =
+    .label = Ҳамоҳангсозӣ…
+    .title = Ҳозир ҳамоҳанг кунед
 
 ## The list of things currently syncing.
 
@@ -1060,6 +1074,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Номи дастгоҳ
+sync-device-name-header-2 =
+    .label = Номи дастгоҳ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
