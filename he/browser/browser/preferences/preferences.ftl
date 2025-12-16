@@ -795,7 +795,11 @@ home-prefs-mission-message-learn-more-link = כיצד?
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link = ניהול נושאים
+home-prefs-manage-topics-link2 =
+    .label = ניהול נושאים
 home-prefs-choose-wallpaper-link = בחירת תמונת רקע
+home-prefs-choose-wallpaper-link2 =
+    .label = בחירת תמונת רקע
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
