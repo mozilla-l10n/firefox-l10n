@@ -725,6 +725,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sýna leitartillögur í niðurstöðum veffangastikunnar
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Leitartillögur verða ekki sýndar í veffangastikunni þar sem þú hefur stillt { -brand-short-name } á að muna ekki neinn leitarferil.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
