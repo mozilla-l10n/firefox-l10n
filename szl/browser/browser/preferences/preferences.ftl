@@ -239,6 +239,12 @@ advanced-fonts =
     .label = Rozszyrzōne…
     .accesskey = R
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Srogość strōn
+preferences-default-zoom-label =
+    .label = Wychodno srogość
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Srogość strōn
 preferences-default-zoom = Wychodno srogość
     .accesskey = z
