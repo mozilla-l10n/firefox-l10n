@@ -948,6 +948,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = اسم الجهاز
+sync-device-name-header-2 =
+    .label = اسم الجهاز
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
