@@ -823,6 +823,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Monstrar le suggestiones de recerca in le resultatos del barra de adresse
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
