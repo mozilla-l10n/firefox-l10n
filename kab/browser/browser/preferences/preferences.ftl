@@ -861,8 +861,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Mtawi tura
     .accesskey = T
+prefs-sync-now-button-2 =
+    .label = Mtawi tura
+    .accesskey = T
 prefs-syncing-button =
     .label = Amtawi…
+prefs-syncing-button-2 =
+    .label = Amtawi…
+    .title = Mtawi tura
 
 ## The list of things currently syncing.
 
