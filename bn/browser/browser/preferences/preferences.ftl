@@ -669,6 +669,8 @@ sync-device-name-save =
     .label = সংরক্ষণ
     .accesskey = v
 sync-connect-another-device = অন্য একটি ডিভাইস সংযুক্ত করুন
+sync-connect-another-device-2 =
+    .label = অন্য একটি ডিভাইস সংযুক্ত করুন
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
