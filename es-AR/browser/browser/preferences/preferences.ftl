@@ -972,6 +972,9 @@ prefs-syncing-off = Sincronización: desactivada
 prefs-sync-turn-on-syncing =
     .label = Habilitar sincronización…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Habilitar sincronización
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ahora
@@ -980,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ahora
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar ahora
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar ahora
 
 ## The list of things currently syncing.
 
@@ -1086,6 +1095,8 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = G
 sync-connect-another-device = Conectar otro dispositivo
+sync-connect-another-device-2 =
+    .label = Conectar otro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
