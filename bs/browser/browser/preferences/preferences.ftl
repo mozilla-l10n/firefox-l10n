@@ -524,6 +524,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -632,6 +635,9 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -801,6 +807,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Ukloni
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinhronizacija
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -864,6 +875,9 @@ prefs-syncing-off = Sinhronizacija: ISKLJUČENO
 prefs-sync-turn-on-syncing =
     .label = Uključi sinhronizaciju…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Uključi sinhronizaciju
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinhronizirajte svoje oznake, historiju, kartice, lozinke, dodatke i postavke na svim svojim uređajima.
 prefs-sync-now =
     .labelnotsyncing = Sinhronizuj sada
@@ -872,8 +886,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinhronizuj sada
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sinhronizuj sada
+    .accesskey = N
 prefs-syncing-button =
     .label = Sinhronizujem…
+prefs-syncing-button-2 =
+    .label = Sinhronizujem…
+    .title = Sinhronizuj sada
 
 ## The list of things currently syncing.
 
