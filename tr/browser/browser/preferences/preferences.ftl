@@ -790,7 +790,11 @@ home-prefs-mission-message-learn-more-link = Nasıl mı?
 home-prefs-mission-message2 =
     .message = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor.
 home-prefs-manage-topics-link = Konuları yönet
+home-prefs-manage-topics-link2 =
+    .label = Konuları yönet
 home-prefs-choose-wallpaper-link = Duvar kâğıdı seç
+home-prefs-choose-wallpaper-link2 =
+    .label = Duvar kâğıdı seç
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
