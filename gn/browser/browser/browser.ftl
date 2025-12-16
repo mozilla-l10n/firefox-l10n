@@ -935,6 +935,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
     .tooltiptext = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Ñe’ẽñemi jehekaha oñemboguéma
+    .tooltiptext = Ñe’ẽñemi jehekaha oñemboguéma
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1586,3 +1590,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } omoneĩ { $count } criptominería
     }
 trustpanel-cryptominer-tab-list-header = Ko’ã tenda ha’ete omonyhẽséva criptomoneda-gui:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> Tapykuehoha ojejoko ko tendápe
+       *[other] <span data-l10n-name="count">{ $count }</span> Tapykuehohaita ojejoko ko tendápe
+    }

@@ -423,3 +423,7 @@ etp-strict-exceptions-infobar-button = Emboheko ñemyatyrõ
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ani ko’ág̃a
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ndaha’éi kundahára ypykuéva

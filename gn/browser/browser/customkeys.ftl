@@ -35,3 +35,5 @@ customkeys-nav-reload = Myanyhẽjey
 customkeys-nav-reload-skip-cache = Emyanyhẽjey (Ehejarei Kache)
 customkeys-nav-stop = Pyta
 customkeys-caution-message = Ko tembiapoite ojejaporamo ha upévare ndoikoporãi gueteri.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Oiko’ỹva
