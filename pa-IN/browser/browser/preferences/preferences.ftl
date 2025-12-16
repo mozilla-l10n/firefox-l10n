@@ -556,6 +556,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
@@ -882,6 +885,11 @@ containers-settings-button =
     .label = ਸੈਟਿੰਗਾਂ
 containers-remove-button =
     .label = ਹਟਾਓ
+
+## Account and sync
+
+sync-group-label =
+    .label = ਸਿੰਕ ਕਰੋ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
