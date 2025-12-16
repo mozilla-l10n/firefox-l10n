@@ -790,7 +790,11 @@ home-prefs-mission-message-learn-more-link = Lue lisää
 home-prefs-mission-message2 =
     .message = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä.
 home-prefs-manage-topics-link = Hallinnoi aiheita
+home-prefs-manage-topics-link2 =
+    .label = Hallinnoi aiheita
 home-prefs-choose-wallpaper-link = Valitse taustakuva
+home-prefs-choose-wallpaper-link2 =
+    .label = Valitse taustakuva
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
