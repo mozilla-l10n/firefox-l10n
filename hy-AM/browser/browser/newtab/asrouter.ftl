@@ -180,6 +180,9 @@ firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել նե
 firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
 firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
+## Colorways expiry reminder CFR
+
+
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:
@@ -202,6 +205,8 @@ set-default-pdf-handler-primary = Հասկացա
 ## PDF Annotations strings
 
 annotations-make-default-pdf-handler-title = Դարձնե՞լ { -brand-short-name }-ը ձեր սկզբնադիր PDF խմբագրիչը։
+annotations-make-default-pdf-primary-cta-label = Կայել որպես սկզբնադիր
+annotations-make-default-pdf-next-label = Հաջորդը
 annotations-make-default-pdf-primary-cta =
     .label = Կայել որպես սկզբնադիր
 annotations-make-default-pdf-next =
@@ -339,3 +344,6 @@ etp-strict-exceptions-infobar-button = Գործադրել ուղղումները
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ոչ հիմա
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
