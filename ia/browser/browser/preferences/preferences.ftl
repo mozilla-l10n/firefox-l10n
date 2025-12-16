@@ -904,6 +904,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Remover
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -967,6 +970,9 @@ prefs-syncing-off = Synchronisation: INACTIVE
 prefs-sync-turn-on-syncing =
     .label = Activar synchronisation…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activar synchronisation
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e parametros inter tote tu apparatos.
 prefs-sync-now =
     .labelnotsyncing = Synchronisar ora
@@ -975,8 +981,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synchronisar ora
     .accesskey = o
+prefs-sync-now-button-2 =
+    .label = Synchronisar ora
+    .accesskey = o
 prefs-syncing-button =
     .label = Synchronisar…
+prefs-syncing-button-2 =
+    .label = Synchronisar…
+    .title = Synchronisar ora
 
 ## The list of things currently syncing.
 
@@ -1061,6 +1073,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nomine del apparato
+sync-device-name-header-2 =
+    .label = Nomine del apparato
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1079,6 +1093,8 @@ sync-device-name-save =
     .label = Salvar
     .accesskey = v
 sync-connect-another-device = Connecter un altere apparato
+sync-connect-another-device-2 =
+    .label = Connecter un altere apparato
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
