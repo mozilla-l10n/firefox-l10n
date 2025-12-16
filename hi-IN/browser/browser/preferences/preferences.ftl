@@ -622,6 +622,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = डिवाइस का नाम
+sync-device-name-header-2 =
+    .label = डिवाइस का नाम
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
