@@ -826,6 +826,8 @@ sync-device-name-save =
     .label = Spamiyntej
     .accesskey = p
 sync-connect-another-device = Połōncz inkszo maszina
+sync-connect-another-device-2 =
+    .label = Połōncz inkszo maszina
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
