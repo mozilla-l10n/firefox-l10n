@@ -556,6 +556,9 @@ update-in-progress-ok-button = &Annuller
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Ydelse
@@ -883,6 +886,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Fjern
 
+## Account and sync
+
+sync-group-label =
+    .label = Synkronisering
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -954,8 +962,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synkroniser nu
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Synkroniser nu
+    .accesskey = n
 prefs-syncing-button =
     .label = Synkroniserer…
+prefs-syncing-button-2 =
+    .label = Synkroniserer…
+    .title = Synkroniser nu
 
 ## The list of things currently syncing.
 
