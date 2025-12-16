@@ -521,6 +521,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -629,6 +632,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -797,6 +803,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Remover
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -859,6 +868,9 @@ prefs-syncing-on = Sincronização: ATIVADA
 prefs-syncing-off = Sincronização: DESATIVADA
 prefs-sync-turn-on-syncing =
     .label = Ativar sincronização...
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ativar sincronização
     .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronize os marcadores, histórico, separadores, palavras-passe, extras e definições entre todos os seus dispositivos.
 prefs-sync-now =
@@ -968,6 +980,8 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = r
 sync-connect-another-device = Ligar outro dispositivo
+sync-connect-another-device-2 =
+    .label = Ligar outro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
