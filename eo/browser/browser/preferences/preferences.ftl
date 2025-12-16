@@ -556,6 +556,9 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -883,6 +886,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Forigi
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -945,6 +951,9 @@ prefs-syncing-on = Spegulado: ŝaltita
 prefs-syncing-off = Spegulado: malŝaltita
 prefs-sync-turn-on-syncing =
     .label = Ŝalti speguladon…
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Ŝalti speguladon
     .accesskey = s
 prefs-sync-offer-setup-label2 = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj agordojn en ĉiuj viaj aparatoj.
 prefs-sync-now =
