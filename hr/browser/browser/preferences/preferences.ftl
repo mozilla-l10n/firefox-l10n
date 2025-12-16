@@ -968,6 +968,9 @@ prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
 prefs-sync-turn-on-syncing =
     .label = Uključi sinkronizaciju…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Uključi sinkronizaciju
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinkroniziraj zabilješke, povijest, kartice, lozinke, dodatke i postavke na svim tvojim uređajima.
 prefs-sync-now =
     .labelnotsyncing = Sinkroniziraj sada
@@ -1065,6 +1068,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Ime uređaja
+sync-device-name-header-2 =
+    .label = Ime uređaja
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
