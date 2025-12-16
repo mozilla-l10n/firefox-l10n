@@ -1097,6 +1097,8 @@ sync-device-name-save =
     .label = Salvează
     .accesskey = v
 sync-connect-another-device = Conectează alt dispozitiv
+sync-connect-another-device-2 =
+    .label = Conectează alt dispozitiv
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
