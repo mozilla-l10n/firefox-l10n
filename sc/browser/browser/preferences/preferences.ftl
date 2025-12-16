@@ -991,6 +991,8 @@ sync-device-name-save =
     .label = Sarva
     .accesskey = v
 sync-connect-another-device = Connete un'àteru dispositivu
+sync-connect-another-device-2 =
+    .label = Connete un'àteru dispositivu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
