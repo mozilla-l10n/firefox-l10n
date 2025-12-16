@@ -558,9 +558,6 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = 性能

@@ -517,9 +517,6 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -628,9 +625,6 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

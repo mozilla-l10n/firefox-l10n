@@ -531,9 +531,6 @@ update-in-progress-ok-button = &Interomp
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Prestazions
@@ -642,9 +639,6 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

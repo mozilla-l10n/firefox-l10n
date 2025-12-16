@@ -429,6 +429,3 @@ etp-strict-exceptions-infobar-button = Ужыць выпраўленні
     .accesskey = У
 etp-strict-exceptions-infobar-not-now = Не зараз
     .accesskey = Н
-
-## 'Set to default' messaging displayed within the App menu
-

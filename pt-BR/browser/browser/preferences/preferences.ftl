@@ -562,9 +562,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Desempenho

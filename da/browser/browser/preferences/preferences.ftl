@@ -562,9 +562,6 @@ update-in-progress-ok-button = &Annuller
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Ydelse

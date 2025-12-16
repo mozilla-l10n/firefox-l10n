@@ -426,6 +426,3 @@ etp-strict-exceptions-infobar-button = გამოსწორება
     .accesskey = წ
 etp-strict-exceptions-infobar-not-now = ახლა არა
     .accesskey = რ
-
-## 'Set to default' messaging displayed within the App menu
-

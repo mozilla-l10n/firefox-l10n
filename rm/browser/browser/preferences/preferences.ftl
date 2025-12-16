@@ -531,9 +531,6 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -642,9 +639,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

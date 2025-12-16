@@ -278,9 +278,6 @@ update-in-progress-ok-button = &Juki
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Mede
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Tic
@@ -357,9 +354,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -459,9 +453,6 @@ containers-add-button =
     .accesskey = e
 containers-remove-button =
     .label = Kwany
-
-## Account and sync
-
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -633,9 +624,6 @@ forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Gin mukato
@@ -717,12 +705,6 @@ sitedata-settings =
     .label = Lo Data
     .accesskey = D
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Privacy Section - Address Bar
 
 addressbar-header = Lanyut me kanonge
@@ -741,10 +723,6 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
-
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
-
 
 ##
 
@@ -770,9 +748,6 @@ content-blocking-cookies-label =
     .accesskey = A
 content-blocking-expand-section =
     .tooltiptext = Ngec mapol
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -836,9 +811,6 @@ collection-health-report =
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -874,9 +846,6 @@ certs-devices-enable-fips = Mii tic me FIPS
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Nong ngec mapol
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

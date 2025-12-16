@@ -180,9 +180,6 @@ firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել նե
 firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
 firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
-## Colorways expiry reminder CFR
-
-
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:
@@ -344,6 +341,3 @@ etp-strict-exceptions-infobar-button = Գործադրել ուղղումները
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ոչ հիմա
     .accesskey = N
-
-## 'Set to default' messaging displayed within the App menu
-

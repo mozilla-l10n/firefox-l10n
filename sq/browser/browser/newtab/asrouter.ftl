@@ -425,6 +425,3 @@ etp-strict-exceptions-infobar-button = Aplikoji ndreqjet
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Jo tani
     .accesskey = J
-
-## 'Set to default' messaging displayed within the App menu
-

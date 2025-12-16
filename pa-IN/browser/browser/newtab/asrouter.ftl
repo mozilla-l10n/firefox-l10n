@@ -425,6 +425,3 @@ etp-strict-exceptions-infobar-button = ਸੁਧਾਰ ਲਾਗੂ ਕਰੋ
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
-
-## 'Set to default' messaging displayed within the App menu
-

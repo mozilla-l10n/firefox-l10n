@@ -476,9 +476,6 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -585,9 +582,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

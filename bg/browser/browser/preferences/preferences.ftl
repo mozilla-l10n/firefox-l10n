@@ -523,9 +523,6 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Производителност
@@ -632,9 +629,6 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

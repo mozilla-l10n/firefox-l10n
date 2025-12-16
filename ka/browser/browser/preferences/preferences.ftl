@@ -565,9 +565,6 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = წარმადობა

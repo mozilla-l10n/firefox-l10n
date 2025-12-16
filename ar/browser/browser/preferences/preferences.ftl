@@ -522,9 +522,6 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = الأداء
@@ -633,9 +630,6 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

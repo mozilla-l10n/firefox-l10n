@@ -140,4 +140,4 @@ addon-install-error-soft-blocked2 = { $addonName } er avgrensa og kan ikkje inst
 addon-install-error-blocklisted = Klarte ikkje å installere { $addonName } fordi det er fare for at det vert laga tryggings- og stabilitetsproblem.
 addon-install-error-soft-blocked = { $addonName } bryt med Mozillas retningslinjer og kan ikkje installerast på { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
-addon-install-error-admin-install-only = Du kan ikkje installere { $addonName } som sluttbrukar, den kan berre installerast av ein organisasjon som brukar verksemd-policyar.
+addon-install-error-admin-install-only = Du kan ikkje installere { $addonName } som sluttbrukar, den kan berre installerast av ein organisasjon som brukar bedriftspolicyar.

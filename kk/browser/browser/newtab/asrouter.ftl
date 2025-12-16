@@ -392,6 +392,3 @@ etp-strict-exceptions-infobar-button = Түзетулерді іске асыр�
     .accesskey = а
 etp-strict-exceptions-infobar-not-now = Қазір емес
     .accesskey = м
-
-## 'Set to default' messaging displayed within the App menu
-

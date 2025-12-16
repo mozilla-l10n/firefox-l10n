@@ -431,6 +431,3 @@ etp-strict-exceptions-infobar-button = Napraw stronę
     .accesskey = w
 etp-strict-exceptions-infobar-not-now = Nie teraz
     .accesskey = N
-
-## 'Set to default' messaging displayed within the App menu
-

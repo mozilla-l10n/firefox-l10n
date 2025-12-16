@@ -423,6 +423,3 @@ etp-strict-exceptions-infobar-button = ปรับใช้การแก้�
     .accesskey = ป
 etp-strict-exceptions-infobar-not-now = ยังไม่ทำตอนนี้
     .accesskey = ม
-
-## 'Set to default' messaging displayed within the App menu
-

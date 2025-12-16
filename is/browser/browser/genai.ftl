@@ -203,6 +203,11 @@ link-preview-generation-error-missing-data = Við getum ekki útbúið lykilatri
 link-preview-generation-error-unexpected = Eitthvað fór úrskeiðis.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Reyna aftur
+link-preview-settings-enable =
+    .label = Virkja forskoðun tengla
+    .description = Sjáðu titil á síðu, lýsingu og fleira þegar notaður er flýtilykill eða hægrismellt er á tengil.
+link-preview-settings-long-press =
+    .label = Flýtileið: Smelltu og haltu inni tenglinum í 1 sekúndu (ýtt lengi)
 # Header for the key points section
 link-preview-key-points-header = Lykilatriði
 # Disclaimer for AI-generated key points

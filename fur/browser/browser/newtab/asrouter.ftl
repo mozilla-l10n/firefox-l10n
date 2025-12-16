@@ -424,6 +424,3 @@ etp-strict-exceptions-infobar-button = Apliche corezions
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = No cumò
     .accesskey = N
-
-## 'Set to default' messaging displayed within the App menu
-

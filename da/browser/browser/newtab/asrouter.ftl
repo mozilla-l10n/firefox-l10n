@@ -425,6 +425,3 @@ etp-strict-exceptions-infobar-button = Løs problemer
     .accesskey = L
 etp-strict-exceptions-infobar-not-now = Ikke nu
     .accesskey = k
-
-## 'Set to default' messaging displayed within the App menu
-

@@ -284,9 +284,6 @@ update-in-progress-ok-button = रद्द करा
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = पुढे चला
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = कार्यक्षमता
@@ -375,9 +372,6 @@ use-current-pages =
 choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -476,9 +470,6 @@ containers-add-button =
     .accesskey = A
 containers-remove-button =
     .label = काढून टाका
-
-## Account and sync
-
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -655,12 +646,6 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -743,12 +728,6 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -900,9 +879,6 @@ addon-recommendations-link = अधिक जाणा
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -934,12 +910,6 @@ certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

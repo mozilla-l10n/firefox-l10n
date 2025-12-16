@@ -425,6 +425,3 @@ etp-strict-exceptions-infobar-button = Apliki korektojn
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ne nun
     .accesskey = N
-
-## 'Set to default' messaging displayed within the App menu
-

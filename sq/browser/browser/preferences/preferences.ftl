@@ -536,9 +536,6 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Punim

@@ -176,6 +176,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Opna tengla sem flipa í staðinn fyrir nýja glugga
     .accesskey = g
+open-external-link-next-to-active-tab =
+    .label = Opna tengla úr forritum næst virka flipanum þínum
 ask-on-close-multiple-tabs =
     .label = Staðfesta áður en mörgum flipum er lokað
     .accesskey = m
@@ -395,6 +397,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Alltaf spyrja hvert á að vista skrár
     .accesskey = A
+download-private-browsing-delete =
+    .label = Eyða skrám sem sóttar voru í huliðsvafri þegar öllum huliðsgluggum er lokað
+    .accesskey = E
 applications-header = Forrit
 applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-filter =
@@ -526,9 +531,6 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Afköst
@@ -637,9 +639,6 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1124,6 +1123,23 @@ autofill-saved-payment-methods-button = Vistaðir greiðslumátar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krefjast innskráningar tækis til að fylla út og hafa umsjón með greiðslumátum
     .accesskey = o
+autofill-payment-methods-title = Greiðslumátar
+autofill-payment-methods-header =
+    .aria-label = Greiðslumátar
+autofill-payment-methods-manage-payments-title =
+    .heading = Sýsla með greiðslumáta
+autofill-payment-methods-manage-payments-button =
+    .label = Sýsla með greiðslumáta
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Krefjast innskráningar tækis til að fylla út sjálfvirkt og hafa umsjón með greiðslumátum
+    .accesskey = o
+autofill-payment-methods-add-button = Bæta við nýjum greiðslumáta
+payments-list-header =
+    .label = Greiðslumátar
+payments-list-item-label = <strong>Greiðslumátar</strong>
+payments-remove-payment-prompt-title = Fjarlægja þennan greiðslumáta?
 
 ## Privacy Section - History
 
@@ -1189,6 +1205,10 @@ sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð sky
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Geymdar vefkökur, vafurferill, gögn fyrir vefsvæði og skyndiminni eru að nota <strong>{ $value } { $unit }</strong> af diskplássi.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Geymdar vefkökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Kanna nánar
 sitedata-delete-on-close =
@@ -1220,6 +1240,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Allar milli-vefja vefkökur (geta valdið því að vefsíður hrynji)
 sitedata-option-block-all =
     .label = Allar vefkökur (mun valda því að vefsvæði hrynji)
+sitedata-clear2 =
+    .label = Hreinsa vafragögn
+    .accesskey = H
+sitedata-settings2 =
+    .label = Stjórna vafurgögnum
+    .accesskey = m
 sitedata-clear =
     .label = Hreinsa gögn…
     .accesskey = ö
@@ -1229,6 +1255,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Sýsla með undantekningar...
     .accesskey = k
+sitedata-cookies-exceptions2 =
+    .label = Sýsla með undantekningar
+    .accesskey = u
+    .description = Þú getur tilgreint hvaða vefsvæðum sé leyft eða aldrei leyft að nota vefkökur og vafurgögn.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1275,6 +1305,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Vinsælustu svæðin
     .accesskey = t
+addressbar-locbar-engines-option-1 =
+    .label = Stinga upp á leitarvélum
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Leitarvélar
     .accesskey = a
@@ -1454,6 +1487,12 @@ permissions-autoplay = Sjálfvirk spilun
 permissions-autoplay-settings =
     .label = Stillingar...
     .accesskey = S
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Sýsla með stillingar sprettglugga og undanþágur vegna utanaðkomandi endurbeininga
+    .accesskey = e
+    .searchkeywords = sprettgluggar
 permissions-block-popups =
     .label = Loka á sprettiglugga
     .accesskey = g

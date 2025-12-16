@@ -562,9 +562,6 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Efikeco

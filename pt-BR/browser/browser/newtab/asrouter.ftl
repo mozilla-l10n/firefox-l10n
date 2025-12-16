@@ -426,6 +426,3 @@ etp-strict-exceptions-infobar-button = Aplicar correções
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Agora não
     .accesskey = A
-
-## 'Set to default' messaging displayed within the App menu
-

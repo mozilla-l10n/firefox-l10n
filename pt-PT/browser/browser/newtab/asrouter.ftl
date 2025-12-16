@@ -360,9 +360,6 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenha o seu navegador privado favorito, apenas a um clique de distância. Defina o { -brand-short-name } como o seu navegador predefinido para abrir ligações e fixe-o à sua barra de ferramentas e menu Iniciar.
 
-## Windows 10 EoS Sync messages group 1 spotlight
-
-
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Começar
@@ -402,6 +399,3 @@ etp-strict-exceptions-infobar-button = Aplicar correções
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Agora não
     .accesskey = n
-
-## 'Set to default' messaging displayed within the App menu
-

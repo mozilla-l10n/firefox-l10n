@@ -469,9 +469,6 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -578,9 +575,6 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 

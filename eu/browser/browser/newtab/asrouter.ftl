@@ -361,9 +361,6 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran eta Hasi menuan.
 
-## Windows 10 EoS Sync messages group 1 spotlight
-
-
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Hasi erabiltzen
@@ -391,6 +388,3 @@ etp-strict-exceptions-infobar-button = Aplikatu konponketak
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Une honetan ez
     .accesskey = n
-
-## 'Set to default' messaging displayed within the App menu
-

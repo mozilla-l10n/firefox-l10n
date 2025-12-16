@@ -448,9 +448,6 @@ update-in-progress-ok-button = &Atmesti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Našumas
@@ -551,9 +548,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -933,9 +927,6 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Žurnalas
@@ -1035,12 +1026,6 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -1242,9 +1227,6 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1293,9 +1275,6 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

@@ -508,9 +508,6 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Перформансе
@@ -611,9 +608,6 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1365,9 +1359,6 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

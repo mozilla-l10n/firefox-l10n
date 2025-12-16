@@ -553,9 +553,6 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ

@@ -486,9 +486,6 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
@@ -1208,9 +1205,6 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
-
-## Privacy Section - Cookie Banner Handling
-
 
 ## Privacy Section - Cookie Banner Blocking
 

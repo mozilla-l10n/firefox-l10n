@@ -553,9 +553,6 @@ update-in-progress-ok-button = &Hủy bỏ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Hiệu suất

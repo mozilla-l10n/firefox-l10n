@@ -562,9 +562,6 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ

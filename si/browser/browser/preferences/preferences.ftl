@@ -487,9 +487,6 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -594,9 +591,6 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
