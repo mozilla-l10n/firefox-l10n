@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Vos paramètres de contrôle du contraste modifient l’apparence des sites web.
 preferences-web-appearance-link =
     .label = Gérez les thèmes de { -brand-short-name } depuis la section Extensions et thèmes
+preferences-contrast-control-group =
+    .label = Contraste de sites web
+    .description = Les sites web utilisent une grande variété de couleurs d’avant plan et d’arrière-plan. Pour un contraste cohérent, vous pouvez utiliser les mêmes couleurs d’un site à l’autre.
+preferences-contrast-control-radio-group =
+    .label = Remplacer les couleurs
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vos sélections de couleurs changent l’apparence des sites web. <a data-l10n-name="colors-link">Gérer les couleurs</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Afficher les suggestions de recherche parmi les résultats de la barre d’adresse
     .accesskey = c
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Afficher les suggestions de recherche avant l’historique de navigation dans les résultats de la barre d’adresse
+search-show-suggestions-private-windows-2 =
+    .label = Suggestions de recherche dans les fenêtres de navigation privée
 search-suggestions-cant-show-2 =
     .message = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Moteur de recherche par défaut dans les fenêtres de navigation privée
+search-suggestions-header-2 =
+    .label = Suggestions de moteur de recherche
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Synchronisez marque-pages, historique, onglets, mo
 sync-signedout-account-signin3 =
     .label = Se connecter pour synchroniser…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Connectez-vous à votre compte pour lancer la synchronisation
+    .accesskey = C
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronisation : ACTIVÉE
+prefs-syncing-on-2 =
+    .label = La synchronisation est activée
 prefs-syncing-off = Synchronisation : DÉSACTIVÉE
+prefs-syncing-off-2 =
+    .label = La synchronisation est DÉSACTIVÉE
+    .description = Activez la synchronisation pour consulter vos marque-pages, vos mots de passe, votre historique et bien plus sur n’importe quel appareil.
 prefs-sync-turn-on-syncing =
     .label = Activer la synchronisation…
     .accesskey = s
@@ -1023,6 +1047,9 @@ sync-currently-syncing-addons = Modules complémentaires
 sync-currently-syncing-settings = Paramètres
 sync-manage-options =
     .label = Gérer la synchronisation…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gérer les données synchronisées
     .accesskey = G
 sync-change-options =
     .label = Modifier…
@@ -1283,6 +1310,9 @@ autofill-payment-methods-add-button = Ajouter un nouveau moyen de paiement
 payments-list-header =
     .label = Moyens de paiement
 payments-list-item-label = <strong>Moyens de paiement</strong>
+payments-delete-payment-prompt-title = Supprimer ce mode de paiement ?
+payments-delete-payment-prompt-confirm-button = Supprimer
+payments-delete-payment-prompt-cancel-button = Annuler
 payments-remove-payment-prompt-title = Supprimer ce moyen de paiement ?
 payments-remove-payment-prompt-confirm-button = Supprimer
 payments-remove-payment-prompt-cancel-button = Annuler
@@ -1295,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gérer les adresses et les autres informations
     .accesskey = G
+addresses-list-header =
+    .label = Adresses
+addreses-delete-address-button-label =
+    .aria-label = Supprimer
+addreses-edit-address-button-label =
+    .aria-label = Modifier
+addresses-delete-address-prompt-title = Supprimer cette adresse ?
+addresses-delete-address-prompt-confirm-button = Supprimer
+addresses-delete-address-prompt-cancel-button = Annuler
+autofill-addresses-add-button = Ajouter une nouvelle adresse
+autofill-addresses-manage-addresses-title =
+    .heading = Gérer les adresses et les autres informations
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Actions rapides
     .accesskey = a
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Recherches récentes
+    .accesskey = R
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Suggestions de recherche de tendance
+    .accesskey = S
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 addressbar-locbar-showrecentsearches-option =
     .label = Afficher les recherches récentes

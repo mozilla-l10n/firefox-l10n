@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Webbplatsen är inställd för att 
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Förmodligen ingenting, eftersom det är troligt att det finns ett problem med själva webbplatsen. Webbplatser använder certifikat utfärdade av en certifikatutfärdare för att bevisa att de verkligen är den de säger att de är. Men om du är på ett företagsnätverk kan ditt supportteam ha mer information. Om du använder antivirusprogram, försök att söka efter potentiella konflikter eller kända problem.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } varnar dig för den här webbplatsen eftersom certifikatet som tillhandahålls för { $hostname } utfärdades av en certifikatutfärdare som inte är tillförlitlig längre.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Förmodligen ingenting, eftersom det troligtvis finns ett problem med själva webbplatsen. Du kan kontakta webbplatsens ägare för att se om de arbetar med problemet.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Det finns ett problem med webbplatsens certifikat. Det är möjligt att en dålig aktör försöker efterlikna webbplatsen. Webbplatser använder certifikat utfärdade av en certifikatutfärdare för att bevisa att de verkligen är den de säger att de är. { -brand-short-name } litar inte på den här webbplatsen eftersom vi inte kan se vem som har utfärdat certifikatet, det är självsignerat eller så skickar webbplatsen inte mellanliggande certifikat som vi litar på.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Förmodligen ingenting, eftersom det är troligt att det finns ett problem med själva webbplatsen. Men om du är på ett företagsnätverk kan ditt supportteam ha mer information. Om du använder antivirusprogram kan det behöva konfigureras för att fungera med { -brand-short-name }.
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Förmodligen ingenting, efterso
 fp-learn-more-about-secure-connection-failures = Läs mer om säkra anslutningsfel
 fp-learn-more-about-cert-issues = Läs mer om dessa typer av certifikatfrågor
 fp-learn-more-about-time-related-errors = Läs mer om felsökning av tidsrelaterade fel
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } litar inte på den här webbplatsen eftersom det ser ut som att det angivna certifikatet inte är giltigt till { DATETIME($date, timeStyle: "short") } den { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Enhetens klocka är inställd på { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Om detta är korrekt ligger säkerhetsproblemet troligen hos själva webbplatsen. Om det är fel kan du ändra det i enhetens systeminställningar.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

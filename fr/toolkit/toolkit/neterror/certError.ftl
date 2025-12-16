@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Le site est configuré pour autoris
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Probablement rien, car il est probable qu’il y ait un problème avec le site lui-même. Les sites utilisent des certificats émis par une autorité de certification pour prouver qu’ils sont bien ce qu’ils prétendent être. Mais si vous utilisez un réseau d’entreprise, votre équipe d’assistance peut avoir plus d’informations. Si vous utilisez un logiciel antivirus, essayez de vérifier l’existence de conflits potentiels ou de problèmes déjà identifiés.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } vous avertit à propos de ce site, car le certificat fourni pour { $hostname } a été émis par une autorité de certification qui n’est plus digne de confiance.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Probablement rien, car il est probable qu’il y ait un problème avec le site lui-même. Vous pouvez vérifier auprès du propriétaire du site web s’il travaille sur le problème.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Il y a un problème avec le certificat du site. Il est possible qu’un acteur malveillant tente de se faire passer pour le site. Les sites utilisent des certificats émis par une autorité de certification pour prouver qu’ils sont bien ce qu’ils prétendent être. { -brand-short-name } ne fait pas confiance à ce site, car il nous est impossible de déterminer l’émetteur du certificat, celui-ci est auto-signé, ou bien le site ne fournit pas de certificats intermédiaires en lesquels nous avons confiance.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Probablement rien, car il est probable qu’il y ait un problème avec le site lui-même. Mais si vous utilisez un réseau d’entreprise, votre équipe d’assistance peut avoir plus d’informations. Si vous utilisez un logiciel antivirus, il est peut-être nécessaire de le configurer pour qu’il fonctionne avec { -brand-short-name }.
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Probablement rien, car il est p
 fp-learn-more-about-secure-connection-failures = En savoir plus sur les échecs de connexion sécurisée
 fp-learn-more-about-cert-issues = En savoir plus sur ces types de problèmes de certificat
 fp-learn-more-about-time-related-errors = En savoir plus sur le dépannage des erreurs temporelles
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne fait pas confiance à ce site, car il semble que le certificat fourni ne soit pas valide jusqu’à { DATETIME($date, timeStyle: "short") } le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’horloge de votre appareil est réglée sur { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si cela est correct, le problème de sécurité vient probablement du site lui-même. S’il est incorrect, vous pouvez le modifier dans les paramètres système de votre appareil.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Dina inställningar för kontrastkontroll åsidosätter webbplatsens utseende.
 preferences-web-appearance-link =
     .label = Hantera { -brand-short-name } teman i Tillägg och teman
+preferences-contrast-control-group =
+    .label = Kontrast på webbplatsen
+    .description = Webbplatser använder en mängd olika förgrunds- och bakgrundsfärger. För konsekvent kontrast kan du använda samma färger på alla webbplatser.
+preferences-contrast-control-radio-group =
+    .label = Åsidosätt färger
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dina färgval åsidosätter webbplatsens utseende. <a data-l10n-name="colors-link">Hantera färger</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Visa sökförslag i adressfältets resultat
     .accesskey = f
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Visa sökförslag innan webbhistoriken visas i adressfältet
+search-show-suggestions-private-windows-2 =
+    .label = Sökförslag i privata fönster
 search-suggestions-cant-show-2 =
     .message = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = A
 search-separate-default-engine-dropdown =
     .aria-label = Standardsökmotor i privata fönster
+search-suggestions-header-2 =
+    .label = Sökmotorförslag
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Synkronisera dina bokmärken, historik, flikar, l�
 sync-signedout-account-signin3 =
     .label = Logga in för att synkronisera…
     .accesskey = L
+sync-signedout-account-signin-4 =
+    .label = Logga in på ditt konto för att börja synkronisera
+    .accesskey = L
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synkronisering: PÅ
+prefs-syncing-on-2 =
+    .label = Synkronisering är PÅ
 prefs-syncing-off = Synkronisering: AV
+prefs-syncing-off-2 =
+    .label = Synkronisering är AV
+    .description = Aktivera synkronisering för att få dina bokmärken, lösenord, historik och mer på vilken enhet som helst.
 prefs-sync-turn-on-syncing =
     .label = Aktivera synkronisering…
     .accesskey = A
@@ -1023,6 +1047,9 @@ sync-currently-syncing-addons = Tillägg
 sync-currently-syncing-settings = Inställningar
 sync-manage-options =
     .label = Hantera synkronisering…
+    .accesskey = H
+sync-manage-options-2 =
+    .label = Hantera synkroniserad data
     .accesskey = H
 sync-change-options =
     .label = Ändra…
@@ -1283,6 +1310,9 @@ autofill-payment-methods-add-button = Lägg till ny betalningsmetod
 payments-list-header =
     .label = Betalningsmetoder
 payments-list-item-label = <strong>Betalningsmetoder</strong>
+payments-delete-payment-prompt-title = Ta bort den här betalningsmetoden?
+payments-delete-payment-prompt-confirm-button = Ta bort
+payments-delete-payment-prompt-cancel-button = Avbryt
 payments-remove-payment-prompt-title = Ta bort den här betalningsmetoden?
 payments-remove-payment-prompt-confirm-button = Ta bort
 payments-remove-payment-prompt-cancel-button = Avbryt
@@ -1295,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Hantera adresser och mer
     .accesskey = H
+addresses-list-header =
+    .label = Adresser
+addreses-delete-address-button-label =
+    .aria-label = Ta bort
+addreses-edit-address-button-label =
+    .aria-label = Redigera
+addresses-delete-address-prompt-title = Ta bort den här adressen?
+addresses-delete-address-prompt-confirm-button = Ta bort
+addresses-delete-address-prompt-cancel-button = Avbryt
+autofill-addresses-add-button = Lägg till ny adress
+autofill-addresses-manage-addresses-title =
+    .heading = Hantera adresser och mer
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snabbåtgärder
     .accesskey = a
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Senaste sökningar
+    .accesskey = S
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trendiga sökförslag
+    .accesskey = T
 addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 addressbar-locbar-showrecentsearches-option =
     .label = Visa senaste sökningar

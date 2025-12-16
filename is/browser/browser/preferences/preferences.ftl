@@ -1140,6 +1140,14 @@ payments-list-header =
     .label = Greiðslumátar
 payments-list-item-label = <strong>Greiðslumátar</strong>
 payments-remove-payment-prompt-title = Fjarlægja þennan greiðslumáta?
+autofill-addresses-title = Heimilisföng og fleira
+autofill-addresses-header =
+    .aria-label = Heimilisföng og fleira
+autofill-addresses-manage-addresses-button =
+    .label = Sýsla með heimilisföng og fleira
+    .accesskey = m
+autofill-addresses-manage-addresses-title =
+    .heading = Sýsla með heimilisföng og fleira
 
 ## Privacy Section - History
 

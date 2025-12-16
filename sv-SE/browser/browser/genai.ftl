@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Ta bort { $provider }
 genai-menu-remove-sidebar =
     .label = Ta bort från sidofält
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Fråga { $provider }
 genai-menu-new-badge = Ny
 genai-menu-summarize-page = Sammanfatta sida
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } minuters lästid
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } kan inte förhandsgranska den här länken
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Vi kan inte förhandsgranska den här länken
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Besök länk
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } kan inte generera nyckelpoäng för den här webbsidan.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Vi kan inte skapa nyckelpunkter för den här webbsidan.
 # Error message when something went wrong during key point generation
