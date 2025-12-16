@@ -994,6 +994,8 @@ sync-device-name-save =
     .label = Spasi
     .accesskey = s
 sync-connect-another-device = Povežite drugi uređaj
+sync-connect-another-device-2 =
+    .label = Povežite drugi uređaj
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
