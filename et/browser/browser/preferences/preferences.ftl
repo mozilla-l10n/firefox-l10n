@@ -435,6 +435,9 @@ update-in-progress-ok-button = &Loobu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Jätka
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Jõudlus
@@ -533,6 +536,9 @@ use-current-pages =
 choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -662,6 +668,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Eemalda
 
+## Account and sync
+
+sync-group-label =
+    .label = Sync
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -718,6 +729,9 @@ prefs-syncing-off = Sünkroniseerimine: VÄLJAS
 prefs-sync-turn-on-syncing =
     .label = Lülita sünkroniseerimine sisse…
     .accesskey = L
+prefs-sync-turn-on-syncing-2 =
+    .label = Lülita sünkroniseerimine sisse
+    .accesskey = L
 prefs-sync-offer-setup-label2 = Sünkroniseeri oma järjehoidjad, ajalugu, kaardid, paroolid, lisad ja sätted kõigis oma seadmetes.
 prefs-sync-now =
     .labelnotsyncing = Sünkroniseeri kohe
@@ -726,8 +740,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sünkroniseeri kohe
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sünkroniseeri kohe
+    .accesskey = S
 prefs-syncing-button =
     .label = Sünkroniseerimine…
+prefs-syncing-button-2 =
+    .label = Sünkroniseerimine…
+    .title = Sünkroniseeri kohe
 
 ## The list of things currently syncing.
 
@@ -883,6 +903,9 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Ajalugu
@@ -982,6 +1005,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Halda erandeid…
     .accesskey = H
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1173,6 +1202,9 @@ collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on a
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1221,6 +1253,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ainult HTTPS-režiimi kasutatakse ainult privaatsetes akendes
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
