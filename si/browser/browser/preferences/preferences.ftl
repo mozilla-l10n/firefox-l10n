@@ -917,6 +917,8 @@ sync-device-name-save =
     .label = සුරකින්න
     .accesskey = v
 sync-connect-another-device = අන් උපාංගයක් සබඳින්න
+sync-connect-another-device-2 =
+    .label = අන් උපාංගයක් සබඳින්න
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
