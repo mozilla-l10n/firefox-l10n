@@ -806,6 +806,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Seadme nimi
+sync-device-name-header-2 =
+    .label = Seadme nimi
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -824,6 +826,8 @@ sync-device-name-save =
     .label = Salvesta
     .accesskey = v
 sync-connect-another-device = Ühenda teine seade
+sync-connect-another-device-2 =
+    .label = Ühenda teine seade
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
