@@ -422,6 +422,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Adres çubuğı neticelerinde qıdırma telqinlerini köster
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
