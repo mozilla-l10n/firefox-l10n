@@ -988,6 +988,9 @@ prefs-sync-now-button-2 =
     .accesskey = N
 prefs-syncing-button =
     .label = Synchronising…
+prefs-syncing-button-2 =
+    .label = Synchronising…
+    .title = Synchronise Now
 
 ## The list of things currently syncing.
 
