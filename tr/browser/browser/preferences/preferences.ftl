@@ -818,6 +818,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Adres çubuğu sonuçlarında arama önerilerini göster
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
