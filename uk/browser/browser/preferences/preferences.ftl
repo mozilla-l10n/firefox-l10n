@@ -362,6 +362,12 @@ advanced-fonts =
     .label = Додатково…
     .accesskey = о
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Масштаб
+preferences-default-zoom-label =
+    .label = Типовий масштаб
+    .accesskey = п
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Масштаб
 preferences-default-zoom = Типовий масштаб
     .accesskey = п
