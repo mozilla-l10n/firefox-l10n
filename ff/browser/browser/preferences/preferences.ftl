@@ -442,6 +442,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Hollo basiye njiilaw e njaltudi palal ñiiɓirɗe ngal
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo { -brand-short-name } yoo waas siiftorde aslol.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
