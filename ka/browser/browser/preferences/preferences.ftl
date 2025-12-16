@@ -559,6 +559,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -889,6 +892,11 @@ containers-settings-button =
 containers-remove-button =
     .label = წაშლა
 
+## Account and sync
+
+sync-group-label =
+    .label = სინქრონიზაცია
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -1042,6 +1050,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = მოწყობილობის სახელი
+sync-device-name-header-2 =
+    .label = მოწყობილობის სახელი
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
