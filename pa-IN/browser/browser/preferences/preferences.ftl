@@ -962,8 +962,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+    .accesskey = N
 prefs-syncing-button =
     .label = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+prefs-syncing-button-2 =
+    .label = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+    .title = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 
 ## The list of things currently syncing.
 
@@ -1044,6 +1050,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
+sync-device-name-header-2 =
+    .label = ਡਿਵਾਈਸ ਨਾਂ
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
