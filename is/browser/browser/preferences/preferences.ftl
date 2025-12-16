@@ -1495,6 +1495,9 @@ permissions-autoplay = Sjálfvirk spilun
 permissions-autoplay-settings =
     .label = Stillingar...
     .accesskey = S
+permissions-block-popups2 =
+    .label = Loka á sprettglugga og endurbeiningar frá utanaðkomandi aðilum
+    .accesskey = b
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -1536,6 +1539,7 @@ collection-header2 = Söfnun og notkun gagna í { -brand-short-name }
     .searchkeywords = gagnasöfnun
 preferences-collection-description = Við kappkostum að veita þér valkosti og söfnum aðeins þeim lágmarksgögnum sem nauðsynleg eru til að bæta { -brand-product-name } fyrir alla.
 preferences-collection-privacy-notice = Skoða upplýsingar um meðferð persónuupplýsinga
+preferences-across-profiles = Þessar stillingar eiga við um öll { -brand-product-name } notkunarsnið á þessu tæki.
 collection-description = Við reynum alltaf að bjóða upp á valkosti og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
 collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
@@ -1630,6 +1634,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er verða búið með diskaplássið.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og öryggi > Vefkökur og gögn vefsvæðis.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða uppiskroppa með diskpláss.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Farðu á „Frekari upplýsingar“ til að hámarka disknotkun þína fyrir betra vafur.
+certs-description2 =
+    .label = Skilríki
+    .description = Grunnstilltu þau skilríki sem { -brand-short-name } notar til auðkenninga.
 
 ## Privacy Section - HTTPS-Only
 

@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrastinnstillingane dine overstyrer utsjånaden til nettstaden.
 preferences-web-appearance-link =
     .label = Handsam { -brand-short-name }-tema i Utvidingar og tema
+preferences-contrast-control-radio-group =
+    .label = Overstyr fargar
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Fargevala dine overstyrer utsjånaden til nettstaden. <a data-l10n-name="colors-link">Handsam fargar</a>
@@ -980,6 +982,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synkronisering: PÅ
+prefs-syncing-on-2 =
+    .label = Synkronisering er PÅ
 prefs-syncing-off = Synkronisering: AV
 prefs-sync-turn-on-syncing =
     .label = Slå på synkronisering…
@@ -1283,6 +1287,8 @@ autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåtar
 payments-list-item-label = <strong>Betalingsmåtar</strong>
+payments-delete-payment-prompt-confirm-button = Slett
+payments-delete-payment-prompt-cancel-button = Avbryt
 payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
 payments-remove-payment-prompt-confirm-button = Fjern
 payments-remove-payment-prompt-cancel-button = Avbryt
@@ -1295,6 +1301,18 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Handsam adresser, og meir
     .accesskey = H
+addresses-list-header =
+    .label = Adresser
+addreses-delete-address-button-label =
+    .aria-label = Slett
+addreses-edit-address-button-label =
+    .aria-label = Rediger
+addresses-delete-address-prompt-title = Slette denne adressa?
+addresses-delete-address-prompt-confirm-button = Slett
+addresses-delete-address-prompt-cancel-button = Avbryt
+autofill-addresses-add-button = Legg til ny adresse
+autofill-addresses-manage-addresses-title =
+    .heading = Handsam adresser, og meir
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
