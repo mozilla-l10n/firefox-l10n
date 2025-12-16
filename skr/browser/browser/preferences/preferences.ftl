@@ -463,6 +463,9 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -569,6 +572,9 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -715,6 +721,9 @@ containers-settings-button =
 containers-remove-button =
     .label = ہٹاؤ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -786,8 +795,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ہݨیں سینک کرو
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ہݨیں سینک کرو
+    .accesskey = N
 prefs-syncing-button =
     .label = سینک تھیندا پئے …
+prefs-syncing-button-2 =
+    .label = سینک تھیندا پئے …
+    .title = ہݨیں سینک کرو
 
 ## The list of things currently syncing.
 
