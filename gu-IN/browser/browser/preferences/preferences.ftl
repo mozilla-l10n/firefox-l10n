@@ -419,6 +419,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = સરનામાં બાર પરિણામોમાં શોધ સૂચનો બતાવો
     .accesskey = I
+search-suggestions-cant-show-2 =
+    .message = શોધ સૂચનો સ્થાન બાર પરિણામોમાં બતાવવામાં આવશે નહીં કારણ કે તમે { -brand-short-name } ઇતિહાસ ક્યારેય યાદ નથી
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
