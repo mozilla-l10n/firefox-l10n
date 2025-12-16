@@ -795,7 +795,11 @@ home-prefs-mission-message-learn-more-link = Descubre cómo
 home-prefs-mission-message2 =
     .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
 home-prefs-manage-topics-link = Administrar temas
+home-prefs-manage-topics-link2 =
+    .label = Administrar temas
 home-prefs-choose-wallpaper-link = Elige un fondo de pantalla
+home-prefs-choose-wallpaper-link2 =
+    .label = Elige un fondo de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
