@@ -463,6 +463,8 @@ sync-device-name-save =
     .label = Сними
     .accesskey = в
 sync-connect-another-device = Поврзете друг уред
+sync-connect-another-device-2 =
+    .label = Поврзете друг уред
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
