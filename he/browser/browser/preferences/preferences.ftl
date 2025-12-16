@@ -823,6 +823,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = הצגת הצעות חיפוש בתוצאות שורת הכתובת
     .accesskey = ח
+search-suggestions-cant-show-2 =
+    .message = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
