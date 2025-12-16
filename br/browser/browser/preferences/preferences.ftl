@@ -446,6 +446,9 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -546,6 +549,9 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -687,6 +693,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Lemel kuit
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -750,6 +759,9 @@ prefs-syncing-off = Goubredañ: KET
 prefs-sync-turn-on-syncing =
     .label = Gweredekaat ar goubredañ…
     .accesskey = G
+prefs-sync-turn-on-syncing-2 =
+    .label = Gweredekaat ar goubredañ
+    .accesskey = G
 prefs-sync-offer-setup-label2 = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù hag arventennoù dre veur a drevnad.
 prefs-sync-now =
     .labelnotsyncing = Goubredañ bremañ
@@ -758,8 +770,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Goubredañ bremañ
     .accesskey = G
+prefs-sync-now-button-2 =
+    .label = Goubredañ bremañ
+    .accesskey = G
 prefs-syncing-button =
     .label = O c’houbredañ…
+prefs-syncing-button-2 =
+    .label = O c’houbredañ…
+    .title = Goubredañ bremañ
 
 ## The list of things currently syncing.
 
@@ -846,6 +864,8 @@ sync-device-name-save =
     .label = Enrollañ
     .accesskey = E
 sync-connect-another-device = Kennaskit un trevnad all
+sync-connect-another-device-2 =
+    .label = Kennaskit un trevnad all
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -1056,6 +1076,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1274,6 +1297,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
