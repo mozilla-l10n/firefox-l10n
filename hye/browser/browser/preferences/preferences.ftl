@@ -431,6 +431,9 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -530,6 +533,9 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -657,6 +663,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Հեռացնել
 
+## Account and sync
+
+sync-group-label =
+    .label = Համաժամեցում
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -713,6 +724,9 @@ prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՈՒԱԾ
 prefs-sync-turn-on-syncing =
     .label = Միացնել համաժամեցումը…
     .accesskey = ց
+prefs-sync-turn-on-syncing-2 =
+    .label = Միացնել համաժամեցումը
+    .accesskey = ց
 prefs-sync-offer-setup-label2 = Համաժամեցնել էջանիշները, պատմութիւնը, գաղտնաբառերը, յաւելումները եւ կարգաւորումները բոլոր սարքերում:
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
@@ -721,8 +735,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Համաժամեցնել հիմա
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Համաժամեցնել հիմա
+    .accesskey = N
 prefs-syncing-button =
     .label = Համաժամեցում․․․
+prefs-syncing-button-2 =
+    .label = Համաժամեցում․․․
+    .title = Համաժամեցնել հիմա
 
 ## The list of things currently syncing.
 
@@ -799,6 +819,8 @@ sync-device-name-save =
     .label = Պահպանել
     .accesskey = պ
 sync-connect-another-device = Միացնել այլ սարքի
+sync-connect-another-device-2 =
+    .label = Միացնել այլ սարքի
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -877,6 +899,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -977,6 +1002,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1166,6 +1197,9 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1214,6 +1248,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
