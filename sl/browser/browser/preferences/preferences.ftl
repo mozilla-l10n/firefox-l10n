@@ -775,7 +775,11 @@ home-prefs-mission-message-learn-more-link = Spoznajte, kako
 home-prefs-mission-message2 =
     .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
 home-prefs-manage-topics-link = Upravljanje tem
+home-prefs-manage-topics-link2 =
+    .label = Upravljanje tem
 home-prefs-choose-wallpaper-link = Izberite si ozadje
+home-prefs-choose-wallpaper-link2 =
+    .label = Izberite si ozadje
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
