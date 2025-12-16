@@ -912,6 +912,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Wótwónoźeś
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -975,6 +978,9 @@ prefs-syncing-off = Synchronizacija: WUŠALTOWANA
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžniś…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Synchronizaciju zmóžniś
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 prefs-sync-now =
     .labelnotsyncing = Něnto synchronizěrowaś
@@ -983,8 +989,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Něnto synchronizěrowaś
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Něnto synchronizěrowaś
+    .accesskey = N
 prefs-syncing-button =
     .label = Synchronizěrujo se…
+prefs-syncing-button-2 =
+    .label = Synchronizěrujo se…
+    .title = Něnto synchronizěrowaś
 
 ## The list of things currently syncing.
 
@@ -1069,6 +1081,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Mě rěda
+sync-device-name-header-2 =
+    .label = Mě rěda
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1087,6 +1101,8 @@ sync-device-name-save =
     .label = Składowaś
     .accesskey = d
 sync-connect-another-device = Z drugim rědom zwězaś
+sync-connect-another-device-2 =
+    .label = Z drugim rědom zwězaś
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
