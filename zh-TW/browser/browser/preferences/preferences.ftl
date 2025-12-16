@@ -783,7 +783,11 @@ home-prefs-mission-message-learn-more-link = 看看是如何達成的
 home-prefs-mission-message2 =
     .message = 贊助商支持我們打造出一個更好的網路環境的使命。
 home-prefs-manage-topics-link = 管理主題
+home-prefs-manage-topics-link2 =
+    .label = 管理主題
 home-prefs-choose-wallpaper-link = 挑選一張背景圖
+home-prefs-choose-wallpaper-link2 =
+    .label = 挑選一張背景圖
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
