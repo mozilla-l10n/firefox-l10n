@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = Klamavá stránka
 safeb-blocked-malware-page-title = Návštěva této stránky může poškodit váš počítač
 safeb-blocked-unwanted-page-title = Tato stránka může obsahovat škodlivé programy
 safeb-blocked-harmful-page-title = Tato stránka může obsahovat malware
+safeb-blocked-addon-page-title = Stránka byla z důvodu vaší bezpečnosti zablokována
 safeb-blocked-phishing-page-short-desc =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zablokoval tuto stránku, která se vás může snažit přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel nebo čísla platební karty.

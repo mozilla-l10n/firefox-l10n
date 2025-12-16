@@ -219,6 +219,7 @@ link-preview-onboarding-callout-description = Podívejte se na krátký popis, d
 sidebar-button-callout-title = Zobrazovat názvy panelů v postranní liště
 sidebar-button-callout-subtitle = Pomocí tlačítka postranní lišty rozbalte postranní lištu, abyste viděli názvy panelů.
 sidebar-button-callout-vertical-tabs = Chcete-li zobrazit své panely, zvolte na panelu nástrojů tlačítko postranní lišty.
+sidebar-deprecation-callout-title = Aktualizovaná postranní lišta již brzy
 sidebar-deprecation-cta-button = Vyzkoušejte nyní
 
 ## Sidebar Vertical Tabs Strings
