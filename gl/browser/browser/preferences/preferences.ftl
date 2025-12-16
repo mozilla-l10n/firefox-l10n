@@ -727,6 +727,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Amosar suxestións de busca nos resultados da barra de enderezos
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
