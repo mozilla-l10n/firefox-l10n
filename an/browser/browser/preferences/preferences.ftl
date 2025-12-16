@@ -649,6 +649,8 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Nombre d'o dispositivo
+sync-device-name-header-2 =
+    .label = Nombre d'o dispositivo
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
