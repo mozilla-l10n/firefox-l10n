@@ -356,6 +356,12 @@ advanced-fonts =
     .label = …ਤਕਨੀਕੀ
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ਜ਼ੂਮ
+preferences-default-zoom-label =
+    .label = ਮੂਲ ਜ਼ੂਮ
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ਜ਼ੂਮ
 preferences-default-zoom = ਮੂਲ ਜ਼ੂਮ
     .accesskey = z
