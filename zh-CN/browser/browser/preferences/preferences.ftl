@@ -552,6 +552,9 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = 性能
@@ -875,6 +878,9 @@ containers-settings-button =
 containers-remove-button =
     .label = 移除
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -937,6 +943,9 @@ prefs-syncing-on = 同步：开启
 prefs-syncing-off = 同步：关闭
 prefs-sync-turn-on-syncing =
     .label = 开启同步...
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = 开启同步
     .accesskey = s
 prefs-sync-offer-setup-label2 = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与设置。
 prefs-sync-now =
