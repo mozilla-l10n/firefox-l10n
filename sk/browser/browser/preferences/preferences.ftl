@@ -984,6 +984,9 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Synchronizovať
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Synchronizovať
+    .accesskey = n
 prefs-syncing-button =
     .label = Synchronizuje sa…
 
