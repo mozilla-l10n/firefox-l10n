@@ -73,3 +73,4 @@ safeb-blocked-addon-page-error-desc-override = <strong>Kvifor vart denne nettsta
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> kan vere knytt til villeiande og skadeleg aktivitet.
 safeb-blocked-addon-page-error-desc3-override = <strong>Kva kan du gjere med det?</strong>
 safeb-blocked-addon-page-error-desc4-override = For å hindre at dette skjer igjen kan du fjerne eller deaktivere <strong>{ $addonName }</strong> frå about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Les meir om vern mot nettfisking og skadeprogram i { -brand-short-name }</a>.
