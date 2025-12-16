@@ -210,6 +210,9 @@ default-font-size = ຂະຫນາດ
 advanced-fonts =
     .label = ຂັ້ນສູງ...
     .accesskey = ຂ
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = ຂະຫຍາຍ
 preferences-default-zoom-label =
     .label = ຊູມເລີ່ມຕົ້ນ
     .accesskey = z
