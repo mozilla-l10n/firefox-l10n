@@ -72,3 +72,5 @@ safeb-palm-notdeceptive =
 safeb-blocked-addon-page-error-desc-override = <strong>Miért lett ez a webhely blokkolva?</strong>
 safeb-blocked-addon-page-error-desc2-override = Lehet, hogy a(z) <strong>{ $sitename }</strong> megtévesztő és ártalmas tevékenységhez kapcsolódik.
 safeb-blocked-addon-page-error-desc3-override = <strong>Mit tehet ez ellen?</strong>
+safeb-blocked-addon-page-error-desc4-override = Hogy ez ne ismétlődjön meg, eltávolíthatja vagy letilthatja a(z) <strong>{ $addonName }</strong> kiegészítőt az about:addons oldalon.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Tudjon meg többet a { -brand-short-name } adathalászat és rosszindulatú szoftverek elleni védelméről</a>.
