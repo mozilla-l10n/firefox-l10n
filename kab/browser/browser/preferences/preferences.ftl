@@ -518,6 +518,9 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -626,6 +629,9 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -778,6 +784,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Kkes
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -924,6 +933,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Isem n yibenk
+sync-device-name-header-2 =
+    .label = Isem n yibenk
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
