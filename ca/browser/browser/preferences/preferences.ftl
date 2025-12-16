@@ -905,6 +905,8 @@ sync-device-name-save =
     .label = Desa
     .accesskey = D
 sync-connect-another-device = Connecta un altre dispositiu
+sync-connect-another-device-2 =
+    .label = Connecta un altre dispositiu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
