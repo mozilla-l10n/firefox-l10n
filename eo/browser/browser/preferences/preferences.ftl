@@ -888,6 +888,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Spegulado
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1051,6 +1053,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Nomo de aparato
+sync-device-name-header-2 =
+    .label = Nomo de aparato
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1069,6 +1073,8 @@ sync-device-name-save =
     .label = Konservi
     .accesskey = K
 sync-connect-another-device = Konekti alian aparaton
+sync-connect-another-device-2 =
+    .label = Konekti alian aparaton
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
