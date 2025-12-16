@@ -126,6 +126,12 @@ advanced-fonts =
     .label = Gevorderd…
     .accesskey = G
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Zoem
+preferences-default-zoom-label =
+    .label = Verstek zoem
+    .accesskey = z
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoem
 preferences-default-zoom = Verstek zoem
     .accesskey = z
