@@ -906,6 +906,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Synchronisatie
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -970,6 +972,9 @@ prefs-syncing-off = Synchroniseren: UIT
 prefs-sync-turn-on-syncing =
     .label = Synchronisatie inschakelen…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Synchronisatie inschakelen
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en instellingen op al uw apparaten.
 prefs-sync-now =
     .labelnotsyncing = Nu synchroniseren
@@ -978,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Nu synchroniseren
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Nu synchroniseren
+    .accesskey = N
 prefs-syncing-button =
     .label = Synchroniseren…
+prefs-syncing-button-2 =
+    .label = Synchroniseren…
+    .title = Nu synchroniseren
 
 ## The list of things currently syncing.
 
@@ -1064,6 +1075,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Apparaatnaam
+sync-device-name-header-2 =
+    .label = Apparaatnaam
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
