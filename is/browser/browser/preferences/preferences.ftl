@@ -799,6 +799,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Samstilling
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -874,8 +876,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Samstilla núna
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Samstilla núna
+    .accesskey = n
 prefs-syncing-button =
     .label = Samstilli…
+prefs-syncing-button-2 =
+    .label = Samstilli…
+    .title = Samstilla núna
 
 ## The list of things currently syncing.
 
@@ -956,6 +964,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tækjanafn
+sync-device-name-header-2 =
+    .label = Tækjanafn
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
