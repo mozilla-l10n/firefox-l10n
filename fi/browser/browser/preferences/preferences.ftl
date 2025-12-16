@@ -964,6 +964,9 @@ prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
 prefs-sync-turn-on-syncing =
     .label = Ota synkronointi käyttöön…
     .accesskey = O
+prefs-sync-turn-on-syncing-2 =
+    .label = Ota synkronointi käyttöön
+    .accesskey = O
 prefs-sync-offer-setup-label2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
@@ -1060,6 +1063,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Laitteen nimi
+sync-device-name-header-2 =
+    .label = Laitteen nimi
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
