@@ -798,6 +798,8 @@ home-prefs-manage-topics-link = Behandle emner
 home-prefs-manage-topics-link2 =
     .label = Behandle emner
 home-prefs-choose-wallpaper-link = Velg et bakgrunnsbilde
+home-prefs-choose-wallpaper-link2 =
+    .label = Velg et bakgrunnsbilde
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
