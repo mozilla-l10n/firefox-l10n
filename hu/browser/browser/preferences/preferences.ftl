@@ -904,6 +904,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Eltávolítás
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -975,8 +978,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Szinkronizálás most
     .accesskey = m
+prefs-sync-now-button-2 =
+    .label = Szinkronizálás most
+    .accesskey = m
 prefs-syncing-button =
     .label = Szinkronizálás…
+prefs-syncing-button-2 =
+    .label = Szinkronizálás…
+    .title = Szinkronizálás most
 
 ## The list of things currently syncing.
 
@@ -1079,6 +1088,8 @@ sync-device-name-save =
     .label = Mentés
     .accesskey = M
 sync-connect-another-device = Másik eszköz csatlakoztatása
+sync-connect-another-device-2 =
+    .label = Másik eszköz csatlakoztatása
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
