@@ -67,6 +67,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -354,6 +365,9 @@ update-in-progress-ok-button = &കളയുക
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &തുടരുക
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = പ്രകടനം
@@ -437,6 +451,9 @@ use-current-pages =
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -552,6 +569,11 @@ containers-settings-button =
     .label = ക്രമീകരണങ്ങള്‍
 containers-remove-button =
     .label = നീക്കുക
+
+## Account and sync
+
+sync-group-label =
+    .label = സമന്വയം
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -703,6 +725,8 @@ sync-device-name-save =
     .label = സംരക്ഷിക്കുക
     .accesskey = v
 sync-connect-another-device = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക
+sync-connect-another-device-2 =
+    .label = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -857,6 +881,9 @@ sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
@@ -959,6 +986,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1077,6 +1107,9 @@ certs-devices-enable-fips = FIPS പ്രാപ്തമാക്കുക
 space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
+
+## Privacy Section - HTTPS-Only
+
 
 ## DoH Section
 
