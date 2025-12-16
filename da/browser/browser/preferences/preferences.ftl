@@ -1068,6 +1068,8 @@ sync-device-name-save =
     .label = Gem
     .accesskey = G
 sync-connect-another-device = Opret forbindelse til en ny enhed
+sync-connect-another-device-2 =
+    .label = Opret forbindelse til en ny enhed
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
