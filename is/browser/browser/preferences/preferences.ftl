@@ -984,6 +984,8 @@ sync-device-name-save =
     .label = Vista
     .accesskey = V
 sync-connect-another-device = Tengja annað tæki
+sync-connect-another-device-2 =
+    .label = Tengja annað tæki
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
