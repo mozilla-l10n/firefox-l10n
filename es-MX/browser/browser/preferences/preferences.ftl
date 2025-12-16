@@ -518,6 +518,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -626,6 +629,9 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -794,6 +800,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Eliminar
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -857,6 +866,9 @@ prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activar sincronización...
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Activar sincronización
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y configuraciones en todos tus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ahora
@@ -865,8 +877,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ahora
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar ahora
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar ahora
 
 ## The list of things currently syncing.
 
