@@ -723,6 +723,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = ہم وقت
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -786,6 +788,9 @@ prefs-syncing-on = سینکنگ: چالو ہے
 prefs-syncing-off = سینکنگ: بند ہے
 prefs-sync-turn-on-syncing =
     .label = سینکنگ چالو کرو …
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = سینکنگ چالو کرو{ " " }
     .accesskey = s
 prefs-sync-offer-setup-label2 = اپݨے تمام آلات تے اپݨے نشانیاں، تاریخ، ٹیباں، پاس ورڈز، ایڈ آنز تے ترتیباں کوں سنکرونائز کرو۔
 prefs-sync-now =
@@ -873,6 +878,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = ڈیوائس دا ناں
+sync-device-name-header-2 =
+    .label = ڈیوائس دا ناں
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
