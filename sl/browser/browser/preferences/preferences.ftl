@@ -557,6 +557,9 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Učinkovitost
@@ -878,6 +881,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Odstrani
 
+## Account and sync
+
+sync-group-label =
+    .label = Sinhronizacija
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -949,8 +957,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinhroniziraj zdaj
     .accesskey = z
+prefs-sync-now-button-2 =
+    .label = Sinhroniziraj zdaj
+    .accesskey = z
 prefs-syncing-button =
     .label = Sinhroniziranje …
+prefs-syncing-button-2 =
+    .label = Sinhroniziranje …
+    .title = Sinhroniziraj zdaj
 
 ## The list of things currently syncing.
 
@@ -1031,6 +1045,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Ime naprave
+sync-device-name-header-2 =
+    .label = Ime naprave
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
