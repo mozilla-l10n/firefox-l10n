@@ -985,8 +985,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Синхронізувати зараз
     .accesskey = х
+prefs-sync-now-button-2 =
+    .label = Синхронізувати зараз
+    .accesskey = х
 prefs-syncing-button =
     .label = Синхронізація…
+prefs-syncing-button-2 =
+    .label = Синхронізація…
+    .title = Синхронізувати зараз
 
 ## The list of things currently syncing.
 
@@ -1091,6 +1097,8 @@ sync-device-name-save =
     .label = Зберегти
     .accesskey = б
 sync-connect-another-device = Під'єднати інший пристрій
+sync-connect-another-device-2 =
+    .label = Під'єднати інший пристрій
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
