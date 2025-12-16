@@ -431,5 +431,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } er 
 set-default-menu-message-row-layout-title = Gjer { -brand-short-name } til din primærnettlesar
 set-default-menu-message-row-layout-title-variant = Gjer { -brand-short-name } til din standardnettlesar
 set-default-menu-message-row-layout-subtitle = Få fart, sikkerheit og personvern kvar gong du surfar.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Ha { -brand-short-name } lett tilgjengeleg – gjer han til standard og behald han i Dock.
+       *[other] Ha { -brand-short-name } lett tilgjengeleg – gjer han til standard og behald han på oppgåvelinja.
+    }
 set-default-menu-message-primary-button = Vel som standard
 set-default-menu-message-primary-button-variant = Vel som primærnettlesar
