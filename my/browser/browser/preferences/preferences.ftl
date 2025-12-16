@@ -550,6 +550,8 @@ sync-device-name-save =
     .label = သိမ်းဆည်းပါ
     .accesskey = v
 sync-connect-another-device = အခြားကိရိယာကို ချိတ်ပါ။
+sync-connect-another-device-2 =
+    .label = အခြားကိရိယာကို ချိတ်ပါ။
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
