@@ -1095,6 +1095,8 @@ sync-device-name-save =
     .label = Gorde
     .accesskey = G
 sync-connect-another-device = Konektatu beste gailu bat
+sync-connect-another-device-2 =
+    .label = Konektatu beste gailu bat
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
