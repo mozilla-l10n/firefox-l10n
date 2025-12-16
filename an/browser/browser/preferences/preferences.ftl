@@ -669,6 +669,8 @@ sync-device-name-save =
     .label = Alzar
     .accesskey = z
 sync-connect-another-device = Connectar belatro dispositivo
+sync-connect-another-device-2 =
+    .label = Connectar belatro dispositivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
