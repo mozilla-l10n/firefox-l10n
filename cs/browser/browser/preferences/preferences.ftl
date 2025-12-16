@@ -930,7 +930,11 @@ home-prefs-mission-message-learn-more-link = Zjistěte jak
 home-prefs-mission-message2 =
     .message = Naši sponzoři podporují naši misi budovat lepší web.
 home-prefs-manage-topics-link = Správa témat
+home-prefs-manage-topics-link2 =
+    .label = Správa témat
 home-prefs-choose-wallpaper-link = Zvolte si tapetu
+home-prefs-choose-wallpaper-link2 =
+    .label = Zvolte si tapetu
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
