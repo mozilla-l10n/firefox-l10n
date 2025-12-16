@@ -949,6 +949,9 @@ prefs-syncing-off = Sinhronizacija: ONEMOGOČENO
 prefs-sync-turn-on-syncing =
     .label = Vklopi sinhronizacijo …
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Vklopi sinhronizacijo{ " " }
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh svojih naprav.
 prefs-sync-now =
     .labelnotsyncing = Sinhroniziraj zdaj
@@ -1065,6 +1068,8 @@ sync-device-name-save =
     .label = Shrani
     .accesskey = S
 sync-connect-another-device = Poveži drugo napravo
+sync-connect-another-device-2 =
+    .label = Poveži drugo napravo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
