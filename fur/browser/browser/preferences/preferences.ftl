@@ -994,6 +994,8 @@ sync-device-name-save =
     .label = Salve
     .accesskey = v
 sync-connect-another-device = Conet un altri dispositîf
+sync-connect-another-device-2 =
+    .label = Conet un altri dispositîf
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
