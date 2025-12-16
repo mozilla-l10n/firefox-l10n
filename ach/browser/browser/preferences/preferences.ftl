@@ -410,6 +410,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Nyut tam me yeny i adwogi pa lanyut me kanonge
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero { -brand-short-name } pe me poo ikom gin mukato matwal.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
