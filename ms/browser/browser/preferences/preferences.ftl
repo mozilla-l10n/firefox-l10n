@@ -399,6 +399,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Papar cadangan carian dalam keputusan bar alamat
     .accesskey = P
+search-suggestions-cant-show-2 =
+    .message = Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi { -brand-short-name } untuk tidak mengingati sejarah.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
