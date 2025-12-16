@@ -954,6 +954,9 @@ prefs-syncing-off = Synkronisering: FRA
 prefs-sync-turn-on-syncing =
     .label = Slå synkronisering til…
     .accesskey = S
+prefs-sync-turn-on-syncing-2 =
+    .label = Slå synkronisering til
+    .accesskey = S
 prefs-sync-offer-setup-label2 = Synkroniser din historik, dine bogmærker, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af dine enheder.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser nu
@@ -1050,6 +1053,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Enhedens navn
+sync-device-name-header-2 =
+    .label = Enhedens navn
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
