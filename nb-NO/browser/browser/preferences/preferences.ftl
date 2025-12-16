@@ -795,6 +795,8 @@ home-prefs-mission-message-learn-more-link = Finn ut hvordan
 home-prefs-mission-message2 =
     .message = Våre sponsorer støtter vårt oppdrag om å bygge et bedre internett.
 home-prefs-manage-topics-link = Behandle emner
+home-prefs-manage-topics-link2 =
+    .label = Behandle emner
 home-prefs-choose-wallpaper-link = Velg et bakgrunnsbilde
 # Variables:
 #   $num (number) - Number of rows displayed
