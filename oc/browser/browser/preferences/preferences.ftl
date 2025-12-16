@@ -902,6 +902,8 @@ sync-device-name-save =
     .label = Enregistrar
     .accesskey = g
 sync-connect-another-device = Connectar un periferic de mai
+sync-connect-another-device-2 =
+    .label = Connectar un periferic de mai
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
