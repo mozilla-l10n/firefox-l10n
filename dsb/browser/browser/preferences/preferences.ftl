@@ -801,7 +801,11 @@ home-prefs-mission-message-learn-more-link = Zgóńśo kak
 home-prefs-mission-message2 =
     .message = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili.
 home-prefs-manage-topics-link = Temy zastojaś
+home-prefs-manage-topics-link2 =
+    .label = Temy zastojaś
 home-prefs-choose-wallpaper-link = Wubjeŕśo slězynowy wobraz
+home-prefs-choose-wallpaper-link2 =
+    .label = Wubjeŕśo slězynowy wobraz
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
