@@ -777,6 +777,8 @@ sync-device-name-save =
     .label = ذخیره
     .accesskey = ذ
 sync-connect-another-device = اتصال یک دستگاه دیگر
+sync-connect-another-device-2 =
+    .label = اتصال یک دستگاه دیگر
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
