@@ -555,6 +555,11 @@ update-in-progress-ok-button = &Hejarei
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Ku’ejey
 
+## Firefox support
+
+support-get-help =
+    .label = Eipota ñepytyvõ
+
 ## General Section - Performance
 
 performance-title = Mba’eaporã

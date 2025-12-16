@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Eiporavomína mba’érepa
 report-broken-site-panel-blocked-trackers-label =
     .label = Emondo URL jokopyre tapykueho ñemo’ãhandi
 report-broken-site-panel-blocked-trackers-description = Pe tapykueho ñemo’ã iporãvéva ojokokuaa tapykuehoha ha scripts heta ñanduti rogue oikotevẽva hekoporãrã.
+report-broken-site-panel-preview-button =
+    .label = Marandu’i jehecha ypy
+report-broken-site-panel-preview-header =
+    .label = Marandu’i jehecha ypy

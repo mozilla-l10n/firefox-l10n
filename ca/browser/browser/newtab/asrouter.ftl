@@ -379,6 +379,15 @@ windows-10-eos-sync-toast-secondary-label = Recorda-m’ho més tard
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = El { -brand-product-name } no està precarregat com altres navegadors de grans empreses tecnològiques. Aquesta és la qüestió.
+windows-10-eos-challenger-sync-callout-subtitle = Quan feu una còpia de seguretat de les adreces d'interès i les contrasenyes del { -brand-product-name }, és més fàcil portar el navegador que trieu al dispositiu següent.
+windows-10-eos-challenger-pin-callout-subtitle = Fixeu el { -brand-shorter-name } a la barra de tasques perquè el navegador que trieu hi sigui sempre quan el necessiteu.
+windows-10-eos-challenger-sync-primary-button = Fes una còpia de seguretat del { -brand-shorter-name }
+windows-10-eos-challenger-pin-primary-button = Fixa el { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = El { -brand-product-name } bloqueja els miners de criptomonedes, els elements de seguiment de les xarxes socials i els generadors d'empremtes dactilars.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Els elements de seguiment no poden identificar el vostre dispositiu ni seguir-vos per la web, perquè no els ho permetem.
+windows-10-eos-sync-callout-privacy-screen-2-title = Protegiu les contrasenyes i les adreces d'interès per al proper dispositiu.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Fer una còpia de seguretat del { -brand-shorter-name } et permet endur-te fàcilment les dades i la configuració de seguretat,
+windows-10-eos-sync-callout-privacy-info-button = Vegeu què s'ha blocat
 windows-10-eos-sync-callout-addons-title = No perdeu els complements quan actualitzeu des del Windows 10.
 windows-10-eos-sync-callout-next-button = Següent
 windows-10-eos-sync-callout-get-started-button = Inicia
