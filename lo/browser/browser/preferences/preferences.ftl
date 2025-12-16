@@ -396,6 +396,9 @@ update-in-progress-ok-button = &ຍົກເລີກ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ສືບຕໍ່
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -493,6 +496,9 @@ use-current-pages =
 choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -625,6 +631,9 @@ containers-settings-button =
 containers-remove-button =
     .label = ລຶບ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -680,6 +689,9 @@ prefs-syncing-on = ການຊິງຄ໌: ເປີດ
 prefs-syncing-off = ການຊິງຄ໌: ປິດ
 prefs-sync-turn-on-syncing =
     .label = ເປີດການຊິງຄ໌...
+    .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = ເປີດການຊິງຄ໌
     .accesskey = s
 prefs-sync-offer-setup-label2 = ຊິ້ງຂໍ້ມູນບຸກມາກ, ປະຫວັດ, ແຖບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ ແລະການຕັ້ງຄ່າຂອງທ່ານໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 prefs-sync-now-button =
@@ -831,6 +843,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1139,6 +1154,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
