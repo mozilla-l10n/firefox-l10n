@@ -807,6 +807,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 주소 표시줄 결과에 검색 제안 표시
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = 방문 기록을 저장하지 않도록 { -brand-short-name }를 설정했기 때문에 검색 제안이 주소 표시 줄 결과에 표시되지 않습니다.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
