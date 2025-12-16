@@ -452,6 +452,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Manzil panelida qidiruv tavsiyalari ko‘rsatilsin
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
