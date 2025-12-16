@@ -794,7 +794,11 @@ home-prefs-mission-message-learn-more-link = Бифаҳмед, ки чӣ тав�
 home-prefs-mission-message2 =
     .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
 home-prefs-manage-topics-link = Идоракунии мавзуъҳо
+home-prefs-manage-topics-link2 =
+    .label = Идоракунии мавзуъҳо
 home-prefs-choose-wallpaper-link = Тасвири заминаиеро интихоб намоед
+home-prefs-choose-wallpaper-link2 =
+    .label = Тасвири заминаиеро интихоб намоед
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
