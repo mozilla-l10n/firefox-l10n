@@ -242,6 +242,8 @@ annotations-default-pdf-handler-headline = Firme sore de linie tratinade, o là 
 annotations-default-pdf-handler-body = Dissegne, scrîf o cjame la tô firme, dopo placile propite là che tu le vuelis. Salve lis tôs firmis preferidis par tornâ a doprâlis plui indevant.
 annotations-make-default-pdf-handler-title = Meti { -brand-short-name } come editôr PDF predefinît?
 annotations-make-default-pdf-handler-subtitle = Tu varâs acès ai nestris imprescj ogni volte che tu vierzis un PDF.
+annotations-make-default-pdf-primary-cta-label = Met come predefinît
+annotations-make-default-pdf-next-label = Sucessîf
 annotations-make-default-pdf-primary-cta =
     .label = Met come predefinît
 annotations-make-default-pdf-next =
@@ -422,3 +424,6 @@ etp-strict-exceptions-infobar-button = Apliche corezions
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = No cumò
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
