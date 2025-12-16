@@ -849,6 +849,9 @@ prefs-syncing-off = Sinkronisasi: NONAKTIF
 prefs-sync-turn-on-syncing =
     .label = Aktifkan sinkronisasi…
     .accesskey = A
+prefs-sync-turn-on-syncing-2 =
+    .label = Aktifkan sinkronisasi
+    .accesskey = A
 prefs-sync-offer-setup-label2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
 prefs-sync-now =
     .labelnotsyncing = Sinkronkan Sekarang
@@ -857,8 +860,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinkronkan Sekarang
     .accesskey = S
+prefs-sync-now-button-2 =
+    .label = Sinkronkan Sekarang
+    .accesskey = S
 prefs-syncing-button =
     .label = Menyinkronkan…
+prefs-syncing-button-2 =
+    .label = Menyinkronkan…
+    .title = Sinkronkan Sekarang
 
 ## The list of things currently syncing.
 
