@@ -499,6 +499,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Sinxronizatsiya
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -567,8 +569,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinxronlash
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sinxronlash
+    .accesskey = N
 prefs-syncing-button =
     .label = Sinxronlanmoqda…
+prefs-syncing-button-2 =
+    .label = Sinxronlanmoqda…
+    .title = Sinxronlash
 
 ## The list of things currently syncing.
 
@@ -627,6 +635,8 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Qurilma nomi
+sync-device-name-header-2 =
+    .label = Qurilma nomi
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
