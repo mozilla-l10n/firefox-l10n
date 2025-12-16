@@ -688,6 +688,8 @@ update-in-progress-cancel-button = &Pokračovat
 
 support-get-help =
     .label = Získat pomoc
+support-share-ideas =
+    .label = Sdílet nápady nebo zpětnou vazbu
 
 ## General Section - Performance
 

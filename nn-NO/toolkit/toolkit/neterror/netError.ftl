@@ -177,9 +177,12 @@ fp-neterror-offline-body-title = Det ser ut til at det er eit problem med intern
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikkje opprette eit sikkert samband til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikkje kople til serveren på <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } lasta ikkje inn denne sida fordi det ser ut til at tryggingskonfigurasjonen ikkje samsvarer med den førre sida.
 fp-neterror-why-did-this-happen = Kvifor skjedde dette?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som denne nettstaden brukar gammal programvare med kjende tryggingsproblem.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Sørg for at du brukar den nyaste versjonen av { -brand-short-name }. Gå til Hjelp > Om { -brand-short-name } i menyen. Om du brukar den nyaste versjonen av { -brand-short-name }, ligg problemet mest sannsynleg hos sjølve nettstaden.
 fp-neterror-offline-what-can-you-do-body = Prøv å kople til på ei anna eining. Sjekk modemet eller ruteren. Kople frå og kople til Wi-fi igjen.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Av og til set nettstadar opp vern for seg sjølve mot uønskte interaksjonar med andre nettstadar.

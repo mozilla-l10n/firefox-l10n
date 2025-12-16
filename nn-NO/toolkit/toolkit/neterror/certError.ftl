@@ -76,6 +76,12 @@ fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } åtvarar deg om denne nettstaden fordi sertifikatet som vart gitt for { $hostname } er kalla tilbake og ikkje lenger er til å stole på.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Sannsynlegvis ingenting, sidan det truleg er eit problem med sjølve nettstaden. Du kan sjekke med nettstadeigaren for å sjå om dei jobbar med problemet.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Nettstaden er konfigurert til å berre tillate sikre tilkoplingar, men det er eit problem med sertifikatet til nettstaden. Det er mogleg at ein vondsinna aktør prøver å gi seg ut for å vere nettstaden. Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi sertifikatet ikkje er gyldig for { $hostname }. Sertifikatet er berre gyldig for: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

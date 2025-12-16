@@ -561,6 +561,9 @@ update-in-progress-cancel-button = &Fortset
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name } brukerstøtte
+    .description = Feilsøk problem eller del idear med fellesskapet.
 support-get-help =
     .label = Få hjelp
 support-share-ideas =
@@ -979,6 +982,9 @@ prefs-syncing-button =
 
 sync-syncing-across-devices-heading = Du synkroniserer desse elementa mellom alle dei tilkopla einingane dine:
 sync-syncing-across-devices-heading-2 = Data synkroniserte på tvers av einingar
+sync-syncing-across-devices-empty-state =
+    .label = Du synkroniserer ingenting … enno.
+    .description = Start synkronisering for å få alle dataa dine på alle einingane dine.
 sync-currently-syncing-bookmarks = Bokmerke
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Opne faner

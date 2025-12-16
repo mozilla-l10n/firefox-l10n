@@ -102,3 +102,11 @@ safeb-blocked-harmful-page-learn-more =
 safeb-palm-notdeceptive =
     .label = Tato stránka není klamavá…
     .accesskey = l
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Proč byla tato stránka zablokována?</strong>
+safeb-blocked-addon-page-error-desc2-override = Stránka <strong>{ $sitename }</strong> může být spojena s klamavou či škodlivou aktivitou.
+safeb-blocked-addon-page-error-desc3-override = <strong>Co s tím můžete dělat?</strong>
