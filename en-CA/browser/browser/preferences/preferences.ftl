@@ -983,8 +983,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sync Now
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sync Now
+    .accesskey = N
 prefs-syncing-button =
     .label = Syncing…
+prefs-syncing-button-2 =
+    .label = Syncing…
+    .title = Sync Now
 
 ## The list of things currently syncing.
 
@@ -1087,6 +1093,8 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 sync-connect-another-device = Connect another device
+sync-connect-another-device-2 =
+    .label = Connect another device
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
