@@ -718,6 +718,8 @@ sync-device-name-save =
     .label = Guardar
     .accesskey = v
 sync-connect-another-device = Conectar otru preséu
+sync-connect-another-device-2 =
+    .label = Conectar otru preséu
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
