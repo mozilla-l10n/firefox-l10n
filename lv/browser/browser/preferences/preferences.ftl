@@ -901,6 +901,8 @@ sync-device-name-save =
     .label = Saglabāt
     .accesskey = r
 sync-connect-another-device = Savienot citu ierīci
+sync-connect-another-device-2 =
+    .label = Savienot citu ierīci
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
