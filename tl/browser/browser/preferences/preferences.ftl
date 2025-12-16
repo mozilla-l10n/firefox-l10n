@@ -529,6 +529,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ipakita ang mga mungkahi sa paghahanap sa mga resulta sa address bar
     .accesskey = l
+search-suggestions-cant-show-2 =
+    .message = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
