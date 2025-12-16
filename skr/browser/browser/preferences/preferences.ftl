@@ -898,6 +898,8 @@ sync-device-name-save =
     .label = ہتھیکڑا کرو
     .accesskey = v
 sync-connect-another-device = ٻئی ڈیوائس نال کنکٹ کرو
+sync-connect-another-device-2 =
+    .label = ٻئی ڈیوائس نال کنکٹ کرو
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
