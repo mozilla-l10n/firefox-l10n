@@ -1063,6 +1063,8 @@ sync-device-name-save =
     .label = 保存
     .accesskey = v
 sync-connect-another-device = 连接其他设备
+sync-connect-another-device-2 =
+    .label = 连接其他设备
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
