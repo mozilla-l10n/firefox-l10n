@@ -942,6 +942,9 @@ prefs-syncing-off = การซิงค์: ปิด
 prefs-sync-turn-on-syncing =
     .label = เปิดการซิงค์…
     .accesskey = ซ
+prefs-sync-turn-on-syncing-2 =
+    .label = เปิดการซิงค์
+    .accesskey = ซ
 prefs-sync-offer-setup-label2 = ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ
 prefs-sync-now =
     .labelnotsyncing = ซิงค์ตอนนี้
@@ -950,8 +953,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = ซิงค์ตอนนี้
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ซิงค์ตอนนี้
+    .accesskey = N
 prefs-syncing-button =
     .label = กำลังซิงค์…
+prefs-syncing-button-2 =
+    .label = กำลังซิงค์…
+    .title = ซิงค์ตอนนี้
 
 ## The list of things currently syncing.
 
