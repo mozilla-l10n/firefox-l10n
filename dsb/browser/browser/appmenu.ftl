@@ -115,7 +115,7 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Zmóžniś
 appmenuitem-save-page =
     .label = Bok składowaś ako…
-appmenuitem-fxa-sync-off-title = Synchronizacija jo zmjemóžnjona
+appmenuitem-fxa-sync-off-title = Synchronizacija jo znjemóžnjona
 appmenuitem-fxa-sync-off-description = Mějśo pśistup k swójim cytańskim znamjenjam, gronidłam a wěcej a šćitajśo je.
 
 ## What's New panel in App menu.
