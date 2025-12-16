@@ -1094,6 +1094,8 @@ sync-device-name-save =
     .label = Нигоҳ доштан
     .accesskey = Н
 sync-connect-another-device = Пайваст кардани дастгоҳи дигар
+sync-connect-another-device-2 =
+    .label = Пайваст кардани дастгоҳи дигар
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
