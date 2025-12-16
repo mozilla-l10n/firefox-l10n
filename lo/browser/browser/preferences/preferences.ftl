@@ -699,8 +699,14 @@ prefs-sync-offer-setup-label2 = ຊິ້ງຂໍ້ມູນບຸກມາກ
 prefs-sync-now-button =
     .label = ຊິ້ງຂໍ້ມູນດຽວນີ້
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = ຊິ້ງຂໍ້ມູນດຽວນີ້
+    .accesskey = N
 prefs-syncing-button =
     .label = ກຳລັງ syn…
+prefs-syncing-button-2 =
+    .label = ກຳລັງ syn…
+    .title = ຊິ້ງຂໍ້ມູນດຽວນີ້
 
 ## The list of things currently syncing.
 
