@@ -896,6 +896,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Αφαίρεση
 
+## Account and sync
+
+sync-group-label =
+    .label = Συγχρονισμός
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -959,6 +964,9 @@ prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
 prefs-sync-turn-on-syncing =
     .label = Ενεργοποίηση συγχρονισμού…
     .accesskey = ρ
+prefs-sync-turn-on-syncing-2 =
+    .label = Ενεργοποίηση συγχρονισμού
+    .accesskey = ρ
 prefs-sync-offer-setup-label2 = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις ρυθμίσεις σας σε όλες τις συσκευές σας.
 prefs-sync-now =
     .labelnotsyncing = Συγχρονισμός τώρα
@@ -967,8 +975,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Συγχρονισμός τώρα
     .accesskey = τ
+prefs-sync-now-button-2 =
+    .label = Συγχρονισμός τώρα
+    .accesskey = τ
 prefs-syncing-button =
     .label = Συγχρονισμός…
+prefs-syncing-button-2 =
+    .label = Συγχρονισμός…
+    .title = Συγχρονισμός τώρα
 
 ## The list of things currently syncing.
 
@@ -1049,6 +1063,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Όνομα συσκευής
+sync-device-name-header-2 =
+    .label = Όνομα συσκευής
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1067,6 +1083,8 @@ sync-device-name-save =
     .label = Αποθήκευση
     .accesskey = θ
 sync-connect-another-device = Σύνδεση άλλης συσκευής
+sync-connect-another-device-2 =
+    .label = Σύνδεση άλλης συσκευής
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
