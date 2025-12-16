@@ -328,6 +328,8 @@ annotations-make-default-pdf-handler-title =
        *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí editor PDF?
     }
 annotations-make-default-pdf-handler-subtitle = Při každém otevření souboru PDF budete mít přístup k našim nástrojům.
+annotations-make-default-pdf-primary-cta-label = Nastavit jako výchozí
+annotations-make-default-pdf-next-label = Další
 annotations-make-default-pdf-primary-cta =
     .label = Nastavit jako výchozí
 annotations-make-default-pdf-next =
