@@ -493,6 +493,8 @@ containers-remove-button =
 
 ## Account and sync
 
+sync-group-label =
+    .label = Sync
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -550,8 +552,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronizar ntañu´u
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Sincronizar ntañu´u
+    .accesskey = N
 prefs-syncing-button =
     .label = Sincronizando…
+prefs-syncing-button-2 =
+    .label = Sincronizando…
+    .title = Sincronizar ntañu´u
 
 ## The list of things currently syncing.
 
@@ -626,6 +634,8 @@ sync-device-name-save =
     .label = Chuva´a
     .accesskey = v
 sync-connect-another-device = Chu´un inka ka̱a̱
+sync-connect-another-device-2 =
+    .label = Chu´un inka ka̱a̱
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
