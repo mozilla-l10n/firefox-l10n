@@ -902,6 +902,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Ukloni
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -973,8 +976,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sinkroniziraj sada
     .accesskey = n
+prefs-sync-now-button-2 =
+    .label = Sinkroniziraj sada
+    .accesskey = n
 prefs-syncing-button =
     .label = Sinkroniziranje…
+prefs-syncing-button-2 =
+    .label = Sinkroniziranje…
+    .title = Sinkroniziraj sada
 
 ## The list of things currently syncing.
 
