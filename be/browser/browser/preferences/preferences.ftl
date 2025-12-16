@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць
@@ -887,6 +890,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Выдаліць
 
+## Account and sync
+
+sync-group-label =
+    .label = Сінхранізацыя
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -950,6 +958,9 @@ prefs-syncing-off = Сінхранізацыя: ВЫКЛЮЧАНА
 prefs-sync-turn-on-syncing =
     .label = Уключыць сінхранізацыю…
     .accesskey = ы
+prefs-sync-turn-on-syncing-2 =
+    .label = Уключыць сінхранізацыю
+    .accesskey = ы
 prefs-sync-offer-setup-label2 = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
 prefs-sync-now =
     .labelnotsyncing = Сінхранізаваць зараз
@@ -958,8 +969,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Сінхранізаваць зараз
     .accesskey = ь
+prefs-sync-now-button-2 =
+    .label = Сінхранізаваць зараз
+    .accesskey = ь
 prefs-syncing-button =
     .label = Сінхранізацыя...
+prefs-syncing-button-2 =
+    .label = Сінхранізацыя...
+    .title = Сінхранізаваць зараз
 
 ## The list of things currently syncing.
 
@@ -1040,6 +1057,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Назва прылады
+sync-device-name-header-2 =
+    .label = Назва прылады
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1058,6 +1077,8 @@ sync-device-name-save =
     .label = Захаваць
     .accesskey = х
 sync-connect-another-device = Злучыць іншую прыладу
+sync-connect-another-device-2 =
+    .label = Злучыць іншую прыладу
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
