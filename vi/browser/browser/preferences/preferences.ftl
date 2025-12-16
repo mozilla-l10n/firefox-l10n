@@ -547,6 +547,9 @@ update-in-progress-ok-button = &Hủy bỏ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Hiệu suất
@@ -873,6 +876,11 @@ containers-settings-button =
 containers-remove-button =
     .label = Loại bỏ
 
+## Account and sync
+
+sync-group-label =
+    .label = Đồng bộ hóa
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -936,6 +944,9 @@ prefs-syncing-off = Đồng bộ hóa: TẮT
 prefs-sync-turn-on-syncing =
     .label = Bật đồng bộ hóa…
     .accesskey = s
+prefs-sync-turn-on-syncing-2 =
+    .label = Bật đồng bộ hóa
+    .accesskey = s
 prefs-sync-offer-setup-label2 = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và cài đặt tới tất cả các thiết bị của bạn.
 prefs-sync-now =
     .labelnotsyncing = Đồng bộ hóa ngay
@@ -944,8 +955,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Đồng bộ hóa ngay
     .accesskey = N
+prefs-sync-now-button-2 =
+    .label = Đồng bộ hóa ngay
+    .accesskey = N
 prefs-syncing-button =
     .label = Đang đồng bộ hóa…
+prefs-syncing-button-2 =
+    .label = Đang đồng bộ hóa…
+    .title = Đồng bộ hóa ngay
 
 ## The list of things currently syncing.
 
@@ -1026,6 +1043,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Tên thiết bị
+sync-device-name-header-2 =
+    .label = Tên thiết bị
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -1044,6 +1063,8 @@ sync-device-name-save =
     .label = Lưu
     .accesskey = u
 sync-connect-another-device = Kết nối thiết bị khác
+sync-connect-another-device-2 =
+    .label = Kết nối thiết bị khác
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
