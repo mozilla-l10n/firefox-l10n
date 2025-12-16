@@ -886,8 +886,14 @@ prefs-sync-now =
 prefs-sync-now-button =
     .label = Sincronisar ussa
     .accesskey = u
+prefs-sync-now-button-2 =
+    .label = Sincronisar ussa
+    .accesskey = u
 prefs-syncing-button =
     .label = Sincronisar…
+prefs-syncing-button-2 =
+    .label = Sincronisar…
+    .title = Sincronisar ussa
 
 ## The list of things currently syncing.
 
@@ -968,6 +974,8 @@ sync-choose-what-to-sync-dialog4 =
 ## The device name controls.
 
 sync-device-name-header = Num da l'apparat
+sync-device-name-header-2 =
+    .label = Num da l'apparat
 # Variables:
 #   $placeholder (string) - The placeholder text of the input
 sync-device-name-input =
@@ -986,6 +994,8 @@ sync-device-name-save =
     .label = Memorisar
     .accesskey = m
 sync-connect-another-device = Colliar in auter apparat
+sync-connect-another-device-2 =
+    .label = Colliar in auter apparat
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
