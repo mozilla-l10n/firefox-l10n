@@ -565,6 +565,8 @@ sync-device-name-save =
     .label = Sarva
     .accesskey = v
 sync-connect-another-device = Conetti atro dispoxitivo
+sync-connect-another-device-2 =
+    .label = Conetti atro dispoxitivo
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
