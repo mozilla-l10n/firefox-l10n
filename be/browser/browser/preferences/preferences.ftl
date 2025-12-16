@@ -785,7 +785,11 @@ home-prefs-mission-message-learn-more-link = Даведацца, як
 home-prefs-mission-message2 =
     .message = Нашы спонсары падтрымліваюць нашу місію па стварэнні лепшага Інтэрнэту.
 home-prefs-manage-topics-link = Кіраванне тэмамі
+home-prefs-manage-topics-link2 =
+    .label = Кіраванне тэмамі
 home-prefs-choose-wallpaper-link = Выберыце шпалеры
+home-prefs-choose-wallpaper-link2 =
+    .label = Выберыце шпалеры
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
