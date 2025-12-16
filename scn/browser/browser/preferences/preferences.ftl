@@ -470,6 +470,8 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mustra suggirimenti di risciduta nnê risurtati dâ sbarra dû nnirizzu
     .accesskey = M
+search-suggestions-cant-show-2 =
+    .message = I suggirimenti di risciduta nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
