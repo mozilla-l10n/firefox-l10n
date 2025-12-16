@@ -157,6 +157,12 @@ advanced-fonts =
     .label = Avanzatu..
     .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = Grannizza
+preferences-default-zoom-label =
+    .label = Grannizza pridifinuta
+    .accesskey = f
+# Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Grannizza
 preferences-default-zoom = Grannizza pridifinuta
     .accesskey = f
