@@ -1000,11 +1000,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } non è verificato.
 sync-signedin-login-failure = Accedi per riattivare la connessione con { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
