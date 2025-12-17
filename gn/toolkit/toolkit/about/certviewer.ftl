@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Mboajepyréva
 
 ## Error messages
 
-certificate-viewer-error-message = Ndorojuhúi marandu jeguerohyvéva rehegua térã pe jeguerohyvéva imarã. Eha’ãjey.
+certificate-viewer-error-message = Ndorojuhúi marandu jeguerohyvéva rehegua térã pe jeguerohyvéva imarã. Eha’ã jey.
 certificate-viewer-error-title = Oĩ osẽvaíva
 
 ## Certificate information labels

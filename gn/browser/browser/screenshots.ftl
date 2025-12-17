@@ -22,7 +22,7 @@ screenshots-copy-button-title =
 screenshots-cancel-button-title =
     .title = Heja
 screenshots-retry-button-title =
-    .title = Eha’ãjey mba’erechaha jejapyhy
+    .title = Eha’ã jey mba’erechaha jejapyhy
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -33,10 +33,10 @@ screenshots-notification-link-copied-details = Pe juajuha japyhygua ojeguerahám
 screenshots-notification-image-copied-title = Japyhypy monguatiapyre
 screenshots-notification-image-copied-details = Nde japyhypy ohóma kuatiajokohápe. Ejopy { screenshots-meta-key } -V emboja hag̃ua.
 screenshots-request-error-title = Ndoikói hína.
-screenshots-request-error-details = ¡Che ñyrõ! Ndaikatúi roñongatu japyhypy. Eha’ãjey ag̃ave.
+screenshots-request-error-details = ¡Che ñyrõ! Ndaikatúi roñongatu japyhypy. Eha’ã jey ag̃ave.
 screenshots-connection-error-title = Ndaikatúi roike nde japyhypykuéra mba’erechahápe.
 screenshots-connection-error-details = Ehechajey pe Ñandutípe jeike. Eikeséramo Ñandutípe, oĩ apañuái sapy’agua { -screenshots-brand-name } rembiapópe.
-screenshots-login-error-details = Ndaikatúi roñongatu pe japyhypy oĩ rupi apañuái { -screenshots-brand-name } rembiapópe. Eha’ãjey ag̃amieve.
+screenshots-login-error-details = Ndaikatúi roñongatu pe japyhypy oĩ rupi apañuái { -screenshots-brand-name } rembiapópe. Eha’ã jey ag̃amieve.
 screenshots-unshootable-page-error-title = Ndaikatúi rojapyhy ko kuatiarogue.
 screenshots-unshootable-page-error-details = Kóva ndaha’éi ñanduti kuatiarogue ypykuéva, péicha rupi ndaikatúi roñongatu japyhypy.
 screenshots-empty-selection-error-title = Pe jeporavo michĩeterei
@@ -47,8 +47,8 @@ screenshots-generic-error-details = Ndoroikuaái mba’etépa pe oikóva. ¿Ejap
 screenshots-too-large-error-title = Pe mba’erechaha jejapyhy oñemomichĩ tuichaiterei rupi
 screenshots-too-large-error-details = Eñeha’ã eiporavo peteĩ tendaguasu oguereko’ỹva 32.700 píxeles ipukuvehápe térã 124.900.000 píxeles tuichakue.
 screenshots-component-retry-button =
-    .title = Eha’ãjey mba’erechaha jejapyhy
-    .aria-label = Eha’ãjey mba’erechaha jejapyhy
+    .title = Eha’ã jey mba’erechaha jejapyhy
+    .aria-label = Eha’ã jey mba’erechaha jejapyhy
 screenshots-component-cancel-button =
     .title =
         { PLATFORM() ->

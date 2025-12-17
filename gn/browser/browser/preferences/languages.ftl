@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Eiporavo peteĩ ñe’ẽ embojuaju hag̃ua…
 browser-languages-installed-label = Ñe’ẽ mohendapyre
 browser-languages-available-label = Ñe’ẽ eiporukuaáva
-browser-languages-error = { -brand-short-name } ndaikatúi ombohekopyahu ne ñe’ẽnguéra ko’ág̃a. Ehechajey eikekuaápa ñandutípe térã eha’ãjey.
+browser-languages-error = { -brand-short-name } ndaikatúi ombohekopyahu ne ñe’ẽnguéra ko’ág̃a. Ehechajey eikekuaápa ñandutípe térã eha’ã jey.

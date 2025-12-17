@@ -73,11 +73,11 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = Eikuaave
 translations-panel-intro-header = Eiporu ñe’ẽasa ñemiguáva { -brand-shorter-name }-pe
 translations-panel-intro-description = Nde rekorosãrã, umi ñemoñe’ẽasa ndohejái pe mba’e’oka. ¡Tenondeve oĩvéta ñe’ẽ pyahu ha mba’eporã!
-translations-panel-error-translating = Iñapañuai’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
+translations-panel-error-translating = Iñapañuai’imi emoñe’ẽasakuévo, Eha’ã jey ag̃amieve.
 translations-panel-error-load-languages = Noñemyanyhẽkuaái ñe’ẽnguéra
-translations-panel-error-load-languages-hint = Ehechajey ne ñanduti reko ha eha’ãjey ag̃ave.
+translations-panel-error-load-languages-hint = Ehechajey ne ñanduti reko ha eha’ã jey ag̃ave.
 translations-panel-error-load-languages-hint-button =
-    .label = Eha’ãjey
+    .label = Eha’ã jey
 translations-panel-error-unsupported = Pe ñe’ẽasa ndahekói ko kuatiaroguépe g̃uarã
 translations-panel-error-dismiss-button =
     .label = Aikũmby
@@ -138,10 +138,10 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Emboguepa
     .accesskey = e
-translations-manage-error-download = Iñapañuái emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
-translations-manage-error-delete = Iñapañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
-translations-manage-error-remove = Oĩ apañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
-translations-manage-error-list = Ndaikatúi ereko ñe’ẽnguéra rysýi emoñe’ẽasa hag̃ua. Embohekopyahu kuatiarogue eha’ãjey hag̃ua.
+translations-manage-error-download = Iñapañuái emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ã jey ag̃amieve.
+translations-manage-error-delete = Iñapañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ã jey ag̃ave.
+translations-manage-error-remove = Oĩ apañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ã jey ag̃ave.
+translations-manage-error-list = Ndaikatúi ereko ñe’ẽnguéra rysýi emoñe’ẽasa hag̃ua. Embohekopyahu kuatiarogue eha’ã jey hag̃ua.
 translations-settings-title =
     .title = Ñe’ẽasa ñemboheko
     .style = min-width: 36em
@@ -202,7 +202,7 @@ select-translations-panel-from-label = Mba’éva
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = G̃uarã
 # Text displayed above the try-another-source-language dropdown menu.
-select-translations-panel-try-another-language-label = Eha’ãjey ambue ñe’ẽ ypygua ndive
+select-translations-panel-try-another-language-label = Eha’ã jey ambue ñe’ẽ ypygua ndive
 select-translations-panel-cancel-button =
     .label = Heja
 # Text displayed on the copy button before it is clicked.
@@ -218,16 +218,16 @@ select-translations-panel-translate-full-page-button =
 select-translations-panel-translate-button =
     .label = Ñe’ẽasa
 select-translations-panel-try-again-button =
-    .label = Eha’ãjey
+    .label = Eha’ã jey
 # Text displayed as a placeholder when the panel is idle.
 select-translations-panel-idle-placeholder-text = Moñe’ẽrã moñe’ẽasapyre osẽta ápe.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Oñemoñe’ẽasa…
 select-translations-panel-init-failure-message =
-    .message = Nahenyhẽkuaái ñe’ẽnguéra. Ehechajey oikópa ne ñanduti ha eha’ãjey ag̃ave.
+    .message = Nahenyhẽkuaái ñe’ẽnguéra. Ehechajey oikópa ne ñanduti ha eha’ã jey ag̃ave.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
-    .message = Iñapañuai’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
+    .message = Iñapañuai’imi emoñe’ẽasakuévo, Eha’ã jey ag̃amieve.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

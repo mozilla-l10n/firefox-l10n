@@ -9,7 +9,7 @@ webauthn-pin-invalid-long-prompt =
         [one] PIN oiko’ỹva. Hemby { $retriesLeft } jejaporã ojeipe’a mboyve nde jeike ko mba’e’oka rerateépe.
        *[other] PIN oiko’ỹva. Hemby { $retriesLeft } jejaporã ojeipe’a mboyve nde jeike ko mba’e’oka rerateekuérape.
     }
-webauthn-pin-invalid-short-prompt = PIN ndoikóiva. Eha’ãjey.
+webauthn-pin-invalid-short-prompt = PIN ndoikóiva. Eha’ã jey.
 webauthn-pin-required-prompt = Emoingemína PIN oikóva ne mba’e’okápe.
 webauthn-select-sign-result-unknown-account = Mba’ete ojeikuaa’ỹva
 webauthn-a-passkey-label = Eiporu mba’eñemi jeikerã
@@ -21,8 +21,8 @@ webauthn-specific-passkey-label = Mba’eñemi jeikerã { $domain }-pe g̃uarã
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
     { $retriesLeft ->
-        [one] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
-       *[other] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
+        [one] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ã jey ag̃ave.
+       *[other] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ã jey ag̃ave.
     }
 webauthn-uv-invalid-short-prompt = Poruhára rechajey ndoikói. Eha’ã ag̃ave.
 
@@ -42,7 +42,7 @@ webauthn-user-presence-prompt = Eikutu ne rekorosã mba’eñemi eku’ejey hag�
 # Variables:
 #  $hostname (String): the origin (website) asking for the extended information.
 webauthn-register-direct-prompt = { $hostname } ojerure marandu tuicháva nde rekorosã mba’eñemi rehegua, ombyaikuaáva nde rekoñemi.
-webauthn-register-direct-prompt-hint = { -brand-short-name } oñomikuaa nde rérape, hákatu pe ñanduti renda omboykekuaa ko mba’eñemi. Oñemboykérõ, eha’ãjeykuaa.
+webauthn-register-direct-prompt-hint = { -brand-short-name } oñomikuaa nde rérape, hákatu pe ñanduti renda omboykekuaa ko mba’eñemi. Oñemboykérõ, eha’ã jeykuaa.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
 webauthn-select-sign-result-prompt = Ojejuhu heta mba’ete { $hostname } peg̃uarãva. Eiporavo mávapa eiporúta.
@@ -51,7 +51,7 @@ webauthn-select-sign-result-prompt = Ojejuhu heta mba’ete { $hostname } peg̃u
 webauthn-select-device-prompt = Ojejuhu heta mba’e’oka { $hostname } peg̃uarã. Eiporavo peteĩ.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-device-blocked-prompt = Ojavy pe poruhára jehechajey { $hostname }-pe. Ndaikatuvéima eha’ãjey ha pe mba’e’oka ojejoko ojehaíre PIN oiko’ỹva hetaitereijey. Pe mba’e’oka oikotevẽ ñemoñepyrũjey.
+webauthn-device-blocked-prompt = Ojavy pe poruhára jehecha jey { $hostname }-pe. Ndaikatuvéima eha’ã jey ha pe mba’e’oka ojejoko ojehaíre PIN oiko’ỹva hetaitereijey. Pe mba’e’oka oikotevẽ ñemoñepyrũjey.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-auth-blocked-prompt = Ojavy pe poruhára jehechajey { $hostname }-pe. Oñeha’ã hetajey oiko’ỹre ha pe ñemoneĩ PIN rupiveguáva ojejokóma sapy’aguamínteva. Pe mba’e’oka oikotevẽ ñeguenohẽ ha upéi toñemoingejey.

@@ -25,7 +25,7 @@ neterror-override-exception-button = Emoneĩ imarãkuaáva ha eku’ejey
 neterror-pref-reset-button = Embojevy ñemboheko ijypykuépe
 neterror-return-to-previous-page-button = Eguevi
 neterror-return-to-previous-page-recommended-button = Eguevi (mboajepyre)
-neterror-try-again-button = Eha’ãjey
+neterror-try-again-button = Eha’ã jey
 neterror-add-exception-button = Emba’apo opa ára ko tendápe
 neterror-settings-button = Emoambue DNS ñemboheko
 neterror-view-certificate-link = Mboajapyre jehecha
@@ -40,7 +40,7 @@ neterror-error-reporting-automatic = Emomarandu koichagua jejavy eipytyvõ hag̃
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba’érepa.
-neterror-load-error-try-again = Pe tenda ikatu hína ndojeporukuaái sapy’aitemi térã ojeporuetereihína. Eha’ãjey ag̃amieve.
+neterror-load-error-try-again = Pe tenda ikatu hína ndojeporukuaái sapy’aitemi térã ojeporuetereihína. Eha’ã jey ag̃amieve.
 neterror-load-error-connection = Ndaikatúiramo emyanyhẽ mba’eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.
 neterror-load-error-firewall = Nemohendaha térã ñanduti omo’ã chupe tatakytĩha térã proxy, ehecháke { -brand-short-name } oguerekópa moneĩ oike hag̃ua ñandutípe.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
@@ -51,7 +51,7 @@ neterror-captive-portal = Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñ
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = ¿Aikesékuri <a data-l10n-name="website">{ $hostAndPath }</a>-pe?
 neterror-dns-not-found-hint-header = <strong>Ahaiporãvo kundaharape, ikatu:</strong>
-neterror-dns-not-found-hint-try-again = Eha’ãjey ag̃ave
+neterror-dns-not-found-hint-try-again = Eha’ã jey ag̃ave
 neterror-dns-not-found-hint-check-network = Ehechajey og̃uahẽ porãpa ñanduti
 neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekópa ñemoneĩ oike hag̃ua ñandutípe (ikatuhína oike firewall rapykuéguivo)
 neterror-dns-not-found-offline-hint-header = <strong>¿Mba’épa ejapóta upévare?</strong>
@@ -95,7 +95,7 @@ neterror-unknown-socket-type-psm-installed = Ehechajey nde apopyvusu oguerekópa
 neterror-unknown-socket-type-server-config = Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã’ỹva mohendahavusúpe rupi.
 neterror-not-cached-intro = Kuatia jerurepyre noĩvéima ojeporu hag̃uáicha kache { -brand-short-name }-pe.
 neterror-not-cached-sensitive = Kyhyje tekorosãrãramo, { -brand-short-name } ndojeruremo’ãvéima ijehegui kuatiakuéra takate’ỹha.
-neterror-not-cached-try-again = Eikutu Ñeha’ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.
+neterror-not-cached-try-again = Eikutu Ñeha’ã jey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.
 neterror-net-offline = Ejopy “Ha’ã jey” remoambue hag̃ua jeikekatúpe ha kuatiarogue myanyhẽjey.
 neterror-proxy-resolve-failure-settings = Ehechajey proxy ñemboheko eikuaa porã hag̃ua oikoitetaha.
 neterror-proxy-resolve-failure-connection = Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu ojeporukuaáva.

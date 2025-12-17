@@ -40,9 +40,9 @@ about-webauthn-results-general-error = ¡Javy!
 #  $retriesLeft (Number): number of tries left
 about-webauthn-results-pin-invalid-error =
     { $retriesLeft ->
-        [0] Javy: PIN oiko’ỹva. Eha’ãjey.
-        [one] Javy: PIN oiko’ỹva. Eha’ãjey. Ejapokuaa { $retriesLeft } jey.
-       *[other] Javy: PIN oiko’ỹva. Eha’ãjey. Ejapokuaa { $retriesLeft } jey.
+        [0] Javy: PIN oiko’ỹva. Eha’ã jey.
+        [one] Javy: PIN oiko’ỹva. Eha’ã jey. Ejapokuaa { $retriesLeft } jey.
+       *[other] Javy: PIN oiko’ỹva. Eha’ã jey. Ejapokuaa { $retriesLeft } jey.
     }
 about-webauthn-results-pin-blocked-error = Jejavy: Anive ejapo ha mba’e’oka ojejokóma ndehegui eme’ẽ haguére PIN oiko’ỹva hetaitereijey. Pe mba’e’oka oikotevẽ ñemoñepyrũjey.
 about-webauthn-results-pin-not-set-error = Jejavy: PIN oiko’ỹva. Ko jeku’e oikotevẽ PIN ñemo’ã.

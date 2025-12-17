@@ -254,7 +254,7 @@ newtab-empty-section-topstories-generic = Ko’ág̃a reikuaapáma. Eikejey ag̃
 
 newtab-discovery-empty-section-topstories-header = ¡Rejejokóma!
 newtab-discovery-empty-section-topstories-content = Ejujey ag̃ave tembiasaverã.
-newtab-discovery-empty-section-topstories-try-again-button = Eha’ãjey
+newtab-discovery-empty-section-topstories-try-again-button = Eha’ã jey
 newtab-discovery-empty-section-topstories-loading = Henyhẽhína…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyhẽ ko pehẽ’i, hákatu nahenyhẽmbamo’ãi.
@@ -572,7 +572,7 @@ newtab-section-mangage-topics-blocked-topics-empty-state = Ndojokói gueteri mba
 newtab-custom-wallpaper-title = Ko’ápe oĩ mba’erechaha rugua
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = Ehupi ne mba’erechaha teéva térã eiporavo sa’yete embohéra hag̃ua ne { -brand-product-name }.
-newtab-custom-wallpaper-cta = Eha’ãjey
+newtab-custom-wallpaper-cta = Eha’ã jey
 
 ## Strings for new user activation custom wallpaper highlight
 

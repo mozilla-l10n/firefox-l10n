@@ -5,7 +5,7 @@
 password-not-set =
     .value = (noĩmbáiva)
 failed-pp-change = Ndaikatúi emoambue Ñe’ẽñemi Ñepyrũháva.
-incorrect-pp = Nomoingéi ne’ẽñemi ha’etéva ag̃agua hekopete. Eha’ãjey upe rire.
+incorrect-pp = Nomoingéi ne’ẽñemi ha’etéva ag̃agua hekopete. Eha’ã jey upe rire.
 pp-change-ok = Oñemoambue Ñe’ẽñemi ha’etéva hekopete.
 settings-pp-erased-ok = Emboguéma ne ñe’ẽñemi eiporuvéva. Umi ñe’ẽñemi mbyatypyre ha umi ehayhuvéva mba’eñemi teeguáva oñangarekóva { -brand-short-name } noñemo’ãvéitama.
 settings-pp-not-wanted = ¡Kyhyjerã! Ndaiporumo’ãvéima ñe’ẽñemi ha’etéva. Umi ñe’ẽñemi mbyatypyre ha umi ehayhuvéva mba’eñemi teeguáva oñangarekóva { -brand-short-name } noñemo’ãvéitama.
