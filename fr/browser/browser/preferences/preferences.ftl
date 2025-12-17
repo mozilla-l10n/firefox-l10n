@@ -859,7 +859,7 @@ search-separate-default-engine-2 =
 search-separate-default-engine-dropdown =
     .aria-label = Moteur de recherche par défaut dans les fenêtres de navigation privée
 search-suggestions-header-2 =
-    .label = Suggestions de moteur de recherche
+    .label = Suggestions du moteur de recherche
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1000,7 +1000,7 @@ sync-sign-in =
 
 prefs-syncing-on = Synchronisation : ACTIVÉE
 prefs-syncing-on-2 =
-    .label = La synchronisation est activée
+    .label = La synchronisation est ACTIVÉE
 prefs-syncing-off = Synchronisation : DÉSACTIVÉE
 prefs-syncing-off-2 =
     .label = La synchronisation est DÉSACTIVÉE
@@ -1310,7 +1310,7 @@ autofill-payment-methods-add-button = Ajouter un nouveau moyen de paiement
 payments-list-header =
     .label = Moyens de paiement
 payments-list-item-label = <strong>Moyens de paiement</strong>
-payments-delete-payment-prompt-title = Supprimer ce mode de paiement ?
+payments-delete-payment-prompt-title = Supprimer ce moyen de paiement ?
 payments-delete-payment-prompt-confirm-button = Supprimer
 payments-delete-payment-prompt-cancel-button = Annuler
 payments-remove-payment-prompt-title = Supprimer ce moyen de paiement ?
@@ -1542,7 +1542,7 @@ addressbar-locbar-showrecentsearches-option-2 =
     .label = Recherches récentes
     .accesskey = R
 addressbar-locbar-showtrendingsuggestions-option-2 =
-    .label = Suggestions de recherche de tendance
+    .label = Suggestions de recherche populaires
     .accesskey = S
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 addressbar-locbar-showrecentsearches-option =

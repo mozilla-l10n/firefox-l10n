@@ -224,7 +224,7 @@ genai-model-optin-cancel =
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = { $range } min de lecture
 # Error message displayed when a link preview cannot be generated
-link-preview-error-message-v2 = { -brand-short-name } ne peut pas afficher un aperçu de ce lien
+link-preview-error-message-v2 = { -brand-short-name } ne peut pas afficher d’aperçu pour ce lien
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Nous ne pouvons pas afficher l’aperçu de ce lien
 # Text for the link to visit the original URL when in error state

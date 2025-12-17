@@ -331,6 +331,8 @@ preferences-web-appearance-link =
 preferences-contrast-control-group =
     .label = ניגודיות של אתרי אינטרנט
     .description = אתרים משתמשים במגוון של צבעי חזית וצבעי רקע. לקבלת ניגודיות עקבית, ניתן להשתמש באותם הצבעים בכל האתרים.
+preferences-contrast-control-radio-group =
+    .label = עקיפת צבעים
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
@@ -836,6 +838,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = הצגת הצעות חיפוש בתוצאות שורת הכתובת
     .accesskey = ח
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = הצגת הצעות חיפוש לפני היסטורית הגלישה בתוצאות שורת הכתובת
 search-show-suggestions-private-windows-2 =
     .label = הצעות חיפוש בחלונות פרטיים
 search-suggestions-cant-show-2 =

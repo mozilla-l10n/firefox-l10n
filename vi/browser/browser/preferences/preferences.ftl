@@ -316,6 +316,11 @@ preferences-web-appearance-override-warning3 =
     .message = Cài đặt kiểm soát độ tương phản của bạn đang ghi đè lên giao diện của trang web.
 preferences-web-appearance-link =
     .label = Quản lý chủ đề { -brand-short-name } trong Tiện ích mở rộng & chủ đề
+preferences-contrast-control-group =
+    .label = Độ tương phản trang web
+    .description = Các trang web sử dụng nhiều màu nền và màu chữ khác nhau. Để tạo độ tương phản nhất quán, bạn có thể sử dụng cùng một màu sắc trên tất cả các trang web.
+preferences-contrast-control-radio-group =
+    .label = Ghi đè màu sắc
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Các lựa chọn màu sắc của bạn đang ghi đè diện mạo trang web. <a data-l10n-name="colors-link">Quản lý màu</a>
@@ -552,6 +557,16 @@ update-in-progress-ok-button = &Hủy bỏ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
+
+## Firefox support
+
+support-application-heading =
+    .label = Hỗ trợ của { -brand-short-name }
+    .description = Giải quyết sự cố hoặc chia sẻ ý tưởng với cộng đồng.
+support-get-help =
+    .label = Nhận trợ giúp
+support-share-ideas =
+    .label = Chia sẻ ý tưởng và phản hồi
 
 ## General Section - Performance
 
@@ -807,12 +822,28 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Hiển thị gợi ý tìm kiếm trong kết quả thanh địa chỉ
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Hiển thị đề xuất tìm kiếm trước lịch sử duyệt web trong kết quả thanh địa chỉ
+search-show-suggestions-private-windows-2 =
+    .label = Đề xuất tìm kiếm trong cửa sổ ẩn danh
 search-suggestions-cant-show-2 =
     .message = Gợi ý tìm kiếm sẽ không được hiển thị ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Hiển thị cụm từ tìm kiếm trên thanh địa chỉ trên trang kết quả
+search-separate-default-engine-2 =
+    .label = Sử dụng công cụ tìm kiếm mặc định khác trong cửa sổ ẩn danh
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Công cụ tìm kiếm mặc định trong cửa sổ ẩn danh
+search-suggestions-header-2 =
+    .label = Đề xuất của công cụ tìm kiếm
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -898,6 +929,9 @@ sync-signedout-description2 = Đồng bộ trang đánh dấu, lịch sử, th�
 sync-signedout-account-signin3 =
     .label = Đăng nhập để đồng bộ hóa…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Đăng nhập vào tài khoản của bạn để bắt đầu đồng bộ hóa.
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -949,7 +983,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Đồng bộ hóa: BẬT
+prefs-syncing-on-2 =
+    .label = Đồng bộ hóa đang BẬT
 prefs-syncing-off = Đồng bộ hóa: TẮT
+prefs-syncing-off-2 =
+    .label = Đồng bộ hoá đã TẮT
+    .description = Bật tính năng đồng bộ hóa để có thể truy cập dấu trang, mật khẩu, lịch sử và nhiều dữ liệu khác trên mọi thiết bị.
 prefs-sync-turn-on-syncing =
     .label = Bật đồng bộ hóa…
     .accesskey = s
@@ -976,6 +1015,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Bạn đang đồng bộ hóa các mục này trên tất cả các thiết bị được kết nối của mình:
+sync-syncing-across-devices-heading-2 = Dữ liệu được đồng bộ hóa trên các thiết bị.
+sync-syncing-across-devices-empty-state =
+    .label = Bạn chưa đồng bộ hóa bất cứ thứ gì…
+    .description = Bắt đầu đồng bộ hóa để có được tất cả dữ liệu trên mọi thiết bị của bạn.
 sync-currently-syncing-bookmarks = Dấu trang
 sync-currently-syncing-history = Lịch sử
 sync-currently-syncing-tabs = Các thẻ đang mở
@@ -988,6 +1031,9 @@ sync-currently-syncing-addons = Tiện ích
 sync-currently-syncing-settings = Cài đặt
 sync-manage-options =
     .label = Quản lý đồng bộ hoá…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = Quản lý dữ liệu đã đồng bộ hoá
     .accesskey = M
 sync-change-options =
     .label = Thay đổi…
@@ -1248,6 +1294,9 @@ autofill-payment-methods-add-button = Thêm phương thức thanh toán mới
 payments-list-header =
     .label = Phương thức thanh toán
 payments-list-item-label = <strong>Phương thức thanh toán</strong>
+payments-delete-payment-prompt-title = Xoá phương thức thanh toán này?
+payments-delete-payment-prompt-confirm-button = Xóa
+payments-delete-payment-prompt-cancel-button = Hủy bỏ
 payments-remove-payment-prompt-title = Xoá phương thức thanh toán này?
 payments-remove-payment-prompt-confirm-button = Xóa
 payments-remove-payment-prompt-cancel-button = Hủy bỏ
@@ -1260,6 +1309,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Quản lý địa chỉ và nhiều hơn nữa
     .accesskey = M
+addresses-list-header =
+    .label = Địa chỉ
+addreses-delete-address-button-label =
+    .aria-label = Xóa
+addreses-edit-address-button-label =
+    .aria-label = Chỉnh sửa
+addresses-delete-address-prompt-title = Xoá địa chỉ này?
+addresses-delete-address-prompt-confirm-button = Xóa
+addresses-delete-address-prompt-cancel-button = Hủy bỏ
+autofill-addresses-add-button = Thêm địa chỉ mới
+autofill-addresses-manage-addresses-title =
+    .heading = Quản lý địa chỉ và nhiều hơn nữa
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1454,6 +1522,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hành động nhanh
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Tìm kiếm gần đây
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Đề xuất tìm kiếm đang thịnh hành
+    .accesskey = t
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 addressbar-locbar-showrecentsearches-option =
     .label = Hiển thị các tìm kiếm gần đây

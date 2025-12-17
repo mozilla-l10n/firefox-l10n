@@ -12,3 +12,30 @@ about-translations-unsupported-info-message =
     .heading = התרגום אינו זמין במכשיר זה.
     .message = נא לנסות להחליף למכשיר אחר.
 about-translations-unsupported-info-button = מידע נוסף
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = לא ניתן לטעון שפות.
+    .message = נא לבדוק את החיבור שלך לאינטרנט ולנסות שוב.
+about-translations-language-load-error-button = ניסיון חוזר
+# Placeholder text shown in the source-language text area when the user has not typed any text.
+about-translations-input-placeholder =
+    .placeholder = הוספת טקסט לתרגום
+# Text displayed on the source-language selector when no explicit option is selected
+# and no language has been identified from the content of the source-language text area.
+about-translations-detect-default = איתור שפה
+# Text displayed on the source-language selector when no explicit option is selected
+# and a valid language has been identified from the content of the source-language text area.
+# Variables:
+#   $language (string) - The localized display name of the detected language
+about-translations-detect-language = { $language } (זוהה)
+# Placeholder text shown in the target-language output area when no translation has occurred.
+about-translations-output-placeholder =
+    .placeholder = תרגום
+# Text displayed on target-language selector when no language option is selected.
+about-translations-select = בחירת שפה
+# A message displayed in the target-language output area while waiting for the translation to complete.
+about-translations-translating-message = בתהליך תרגום…
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = החלפת שפות

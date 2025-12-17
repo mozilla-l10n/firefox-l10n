@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Trang web lừa đảo
 safeb-blocked-malware-page-title = Truy cập vào trang web này có thể làm hại máy tính của bạn
 safeb-blocked-unwanted-page-title = Trang bạn đang truy cập có thể chứa phần mềm gây hại
 safeb-blocked-harmful-page-title = Trang bạn đang truy cập có thể chứa malware
+safeb-blocked-addon-page-title = Trang web bị chặn để đảm bảo an toàn cho bạn
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } đã chặn trang này vì nó có thể lừa bạn làm điều gì đó nguy hiểm như cài đặt phần mềm hoặc tiết lộ thông tin cá nhân như mật khẩu hoặc thẻ tín dụng.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } chặn trang này vì nó có thể cố gắng cài đặt phần mềm độc hại để có thể ăn cắp hoặc xóa các thông tin cá nhân trên máy tính của bạn.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } đã chặn trang này bởi vì nó cố lừa bạn cài đặt các chương trình gây ảnh hưởng đến trải nghiệm duyệt web của bạn (ví dụ, thay đổi trang chủ hoặc hiển thị thêm quảng cáo trên các trang web bạn truy cập).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } đã chặn trang này vì nó cố gắng cài ứng dụng nguy hiểm để ăn cắp hoặc xóa thông tin của bạn (ví dụ, ảnh, mật khẩu, tin nhắn và thông tin thẻ tín dụng).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } đã chặn trang web này vì một trong các tiện ích mở rộng của bạn đã cố gắng mở nó. Trang web này có thể được sử dụng để đánh cắp thông tin của bạn — chẳng hạn như mật khẩu hoặc số thẻ tín dụng.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Tư vấn được cung cấp bởi <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Xem thêm về chống lừa đảo và 
 safeb-palm-notdeceptive =
     .label = Đây không phải là một trang lừa đảo…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Tại sao trang web này bị chặn?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> có thể liên quan đến các hoạt động lừa đảo và gây hại.
+safeb-blocked-addon-page-error-desc3-override = <strong>Bạn có thể làm gì về điều đó?</strong>
+safeb-blocked-addon-page-error-desc4-override = Để ngăn chặn điều này xảy ra lần nữa, bạn có thể xóa hoặc vô hiệu hóa <strong>{ $addonName }</strong> từ about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Tìm hiểu thêm về bảo vệ chống lừa đảo và phần mềm độc hại của { -brand-short-name }</a>.

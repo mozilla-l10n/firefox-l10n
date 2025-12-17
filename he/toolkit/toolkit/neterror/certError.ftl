@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = האתר מוגדר לאפשר רק
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. אבל אם הינך ברשת ארגונית, ייתכן שלצוות התמיכה שלך יהיה מידע נוסף. אם מותקנת אצלך תוכנת אנטיוירוס, כדאי לנסות לחפש אחר התנגשויות פוטנציאליות או בעיות ידועות.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = ‏{ -brand-short-name } מזהיר אותך לגבי אתר זה מכיוון שאישור האבטחה שסופק עבור { $hostname } סופק על־ידי רשות אישורים שאינה מהימנה יותר.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. ניתן לבדוק עם בעלי האתר אם הם עובדים על פתרון הבעיה.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = ישנה בעיה באישור האבטחה של האתר. ייתכן שגורם זדוני מנסה להתחזות לאתר. אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שאיננו יכולים לדעת מי הנפיק את אישור האבטחה, הוא נחתם עצמית או שהאתר לא שולח אישורי ביניים שעליהם אנו נותנים אמון.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = כנראה שכלום, מכיוון שסביר להניח שיש בעיה באתר עצמו. אם הינך ברשת ארגונית, ייתכן שלצוות התמיכה שלך יהיה מידע נוסף. אם מותקנת אצלך תוכנת אנטיוירוס, ייתכן שיש צורך להגדיר אותה כדי שתעבוד עם { -brand-short-name }.
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = כנראה שכלום, מכיו
 fp-learn-more-about-secure-connection-failures = מידע נוסף על כשלים בחיבור מאובטח
 fp-learn-more-about-cert-issues = מידע נוסף על סוגים אלה של בעיות אישורי אבטחה
 fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בעיות של שגיאות הקשורות לזמן
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = ‏{ -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה שסופק אינו תקף עד { DATETIME($date, timeStyle: "short") } ב־{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = שעון המכשיר שלך מוגדר ל־{ DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. אם זה נכון, בעיית האבטחה היא כנראה באתר עצמו. אם זה שגוי, באפשרותך לשנות את התאריך והשעה בהגדרות המערכת של המכשיר שלך.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

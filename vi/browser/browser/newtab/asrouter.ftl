@@ -423,3 +423,18 @@ etp-strict-exceptions-infobar-button = Áp dụng sửa lỗi
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Không phải bây giờ
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } không phải là trình duyệt mặc định
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } là trình duyệt mặc định của bạn
+set-default-menu-message-row-layout-title = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn
+set-default-menu-message-row-layout-title-variant = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn
+set-default-menu-message-row-layout-subtitle = Tận hưởng tốc độ, sự an toàn và quyền riêng tư mỗi khi bạn duyệt web.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Luôn giữ { -brand-short-name } trong tầm tay — đặt nó làm trình duyệt mặc định và giữ nó trong thanh Dock của bạn.
+       *[other] Luôn giữ { -brand-short-name } trong tầm tay — đặt nó làm trình duyệt mặc định và giữ nó trong thanh tác vụ của bạn.
+    }
+set-default-menu-message-primary-button = Đặt làm mặc định
+set-default-menu-message-primary-button-variant = Đặt làm trình duyệt mặc định
