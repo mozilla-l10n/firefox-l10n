@@ -1325,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gestisci indirizzi e altri dati
     .accesskey = d
+addresses-list-header =
+    .label = Indirizzi
+addreses-delete-address-button-label =
+    .aria-label = Elimina
+addreses-edit-address-button-label =
+    .aria-label = Modifica
+addresses-delete-address-prompt-title = Eliminare questo indirizzo?
+addresses-delete-address-prompt-confirm-button = Elimina
+addresses-delete-address-prompt-cancel-button = Annulla
+autofill-addresses-add-button = Aggiungi nuovi indirizzi
+autofill-addresses-manage-addresses-title =
+    .heading = Gestisci indirizzi e altri dati
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
