@@ -334,6 +334,11 @@ preferences-web-appearance-override-warning3 =
     .message = Waše nastajenja kontrastoweje kontrole naglěd websedła pśepisuju.
 preferences-web-appearance-link =
     .label = Drastwy { -brand-short-name } w Rozšyrjenja a drastwy zastojaś
+preferences-contrast-control-group =
+    .label = Kontrast websedła
+    .description = Websedła wjele barwow za prědk a slězynu wužywaju. Za konsistentny kontrast móžośo samske barwy na rozdźělnych websedłach wužywaś.
+preferences-contrast-control-radio-group =
+    .label = Barwy pśepisaś
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barwowe wuběrki naglěd websedła pśepisuju. <a data-l10n-name="colors-link">Barwy zastojaś</a>
@@ -841,6 +846,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Pytańske naraźenja we wuslědkach adresowego póla pokazaś
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Pytańske naraźenja pśed pśeglědowańskeju historiju we wuslědkach adresowego póla pokazaś
+search-show-suggestions-private-windows-2 =
+    .label = Pytańske naraźenja w priwatnych woknach
 search-suggestions-cant-show-2 =
     .message = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -852,6 +866,8 @@ search-separate-default-engine-2 =
     .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Standardna pytnica w priwatnych woknach
+search-suggestions-header-2 =
+    .label = Naraźenja pytnice
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -936,6 +952,9 @@ sync-signedout-caption = Wzejśo swój web sobu
 sync-signedout-description2 = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 sync-signedout-account-signin3 =
     .label = Pla Sync pśizjawiś…
+    .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Pśizjawśo se pla swójogo konta, aby synchronizaciju zachopił
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon

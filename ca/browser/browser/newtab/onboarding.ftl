@@ -479,6 +479,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-subtitle = Protegiu automàticament les contrasenyes, les adreces d'interès i més coses en 1 o 2 minuts.
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Totes les dades
 # Preceded by a green check mark indicating that these are included in the "All data" backup
@@ -504,10 +505,17 @@ fx-backup-confirmation-screen-close-button = Tanca
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Totes les dades de navegació incloses
+fx-backup-confirmation-screen-all-data-item-text-3 = Xifrats i protegits amb contrasenya
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Adreces d'interès, historial, configuració i altres dades incloses
+fx-backup-confirmation-screen-easy-setup-item-text-2 = S'ha desat al dispositiu
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Aneu a <a data-l10n-name="settings">Configuració</a> per a incloure dades sensibles.
 fx-backup-confirmation-screen-item-subtext-1 = La còpia de seguretat començarà d'aquí a uns minuts i s'executarà un cop al dia. Podeu comprovar-ne l'estat a <a data-l10n-name="settings">Configuració</a>.
 fx-backup-confirmation-screen-item-subtext-2 = El { -brand-short-name } buscarà la vostra còpia de seguretat si cal que la torneu a instal·lar.
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Restaura des de la còpia de seguretat
+restore-from-backup-title = Recuperem el { -brand-short-name } tal com us agrada.
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser

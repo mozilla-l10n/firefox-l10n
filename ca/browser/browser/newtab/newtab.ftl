@@ -676,6 +676,9 @@ newtab-widget-section-hide-all-button =
 newtab-widget-section-maximize =
     .title = Amplia els ginys
     .aria-label = Amplia tots els ginys al màxim
+newtab-widget-section-minimize =
+    .title = Minimitza els widgets
+    .aria-label = Minimitza tots els widgets a mida compacta
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -696,3 +699,11 @@ newtab-widget-timer-menu-notifications = Desactiva les notificacions
 newtab-widget-timer-menu-notifications-on = Activa les notificacions
 newtab-widget-timer-menu-hide = Amaga el temporitzador
 newtab-widget-timer-menu-learn-more = Més informació
+newtab-widget-message-title = Mantingueu la concentració amb les llistes i amb un temporitzador integrat
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Des de recordatoris ràpids fins a tasques diàries pendents, sessions de concentració o pauses d'estirament: manteniu la productivitat i la puntualitat.
+newtab-promo-card-body = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
+newtab-promo-card-cta = Més informació
+newtab-promo-card-dismiss-button =
+    .title = Ignora
+    .aria-label = Ignora
