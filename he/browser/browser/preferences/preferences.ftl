@@ -335,7 +335,7 @@ preferences-web-appearance-override-warning = בחירות הצבעים שלך �
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = ניהול ערכות נושא של { -brand-short-name } ב<a data-l10n-name="themes-link">הרחבות וערכות נושא</a>
 preferences-contrast-control-header = בקרת ניגודיות
-preferences-contrast-control-description = לאתרים יש מגוון צבעי קדמה ורקע. ניתן להגדיר ל־{ -brand-short-name } להשתמש באותם צבעים באתרי אינטרנט לשיפור יכולת הקריאה.
+preferences-contrast-control-description = לאתרים יש מגוון צבעי חזית ורקע. ניתן להגדיר ל־{ -brand-short-name } להשתמש באותם צבעים באתרי אינטרנט לשיפור יכולת הקריאה.
 preferences-contrast-control-use-platform-settings =
     .label = אוטומטי (שימוש בהגדרות מערכת)
     .accesskey = א
