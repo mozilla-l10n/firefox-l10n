@@ -425,3 +425,11 @@ etp-strict-exceptions-infobar-button = Løs problemer
     .accesskey = L
 etp-strict-exceptions-infobar-not-now = Ikke nu
     .accesskey = k
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } er ikke din standardbrowser
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } er ikke din standardbrowser
+set-default-menu-message-row-layout-title = Gør { -brand-short-name } til din foretrukne browser
+set-default-menu-message-row-layout-title-variant = Gør { -brand-short-name } til din standard-browser
+set-default-menu-message-row-layout-subtitle = Altid høj hastighed, sikkerhed og beskyttelse af dit privatliv.

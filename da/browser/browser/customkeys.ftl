@@ -35,3 +35,5 @@ customkeys-nav-reload = Genindlæs
 customkeys-nav-reload-skip-cache = Genindlæs (Tilsidesæt cache)
 customkeys-nav-stop = Stop
 customkeys-caution-message = Denne funktion er eksperimentel og virker muligvis ikke som forventet.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Ugyldig
