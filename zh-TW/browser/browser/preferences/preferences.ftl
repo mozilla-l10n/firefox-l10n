@@ -1271,6 +1271,8 @@ autofill-payment-methods-add-button = 新增付款方式
 payments-list-header =
     .label = 付款方式
 payments-list-item-label = <strong>付款方式</strong>
+payments-delete-payment-prompt-confirm-button = 刪除
+payments-delete-payment-prompt-cancel-button = 取消
 payments-remove-payment-prompt-title = 要移除這筆付款方式嗎？
 payments-remove-payment-prompt-confirm-button = 移除
 payments-remove-payment-prompt-cancel-button = 取消
@@ -1283,6 +1285,12 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = 管理地址與更多資訊
     .accesskey = M
+addresses-list-header =
+    .label = 地址
+addreses-delete-address-button-label =
+    .aria-label = 刪除
+addreses-edit-address-button-label =
+    .aria-label = 編輯
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
