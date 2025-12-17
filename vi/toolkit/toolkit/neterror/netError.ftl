@@ -168,11 +168,21 @@ certerror-coep-learn-more = Tìm hiểu thêm về Cross Origin Embedder Policie
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Mã lỗi: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Có vẻ như đã xảy ra sự cố với kết nối Internet của bạn
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } không thể tạo kết nối an toàn tới máy chủ tại { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } không tải trang này vì có vẻ như cấu hình bảo mật không khớp với trang trước.
+fp-neterror-why-did-this-happen = Tại sao điều này xảy ra?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Có vẻ như trang web này đang sử dụng phần mềm cũ có vấn đề bảo mật đã biết.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Hãy chắc chắn rằng bạn đang sử dụng phiên bản mới nhất của { -brand-short-name }. Đi đến Trợ giúp > Về { -brand-short-name } trong menu. Nếu bạn đang sử dụng phiên bản mới nhất của { -brand-short-name }, vấn đề có thể nằm ở chính trang web đó.
+fp-neterror-offline-what-can-you-do-body = Hãy thử kết nối trên một thiết bị khác. Kiểm tra modem hoặc bộ định tuyến của bạn. Ngắt kết nối và kết nối lại với Wi-Fi.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Đôi khi các trang web thiết lập các biện pháp bảo vệ cho chính họ từ các tương tác không mong muốn với các trang web khác.
