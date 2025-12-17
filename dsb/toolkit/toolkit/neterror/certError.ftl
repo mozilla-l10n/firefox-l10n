@@ -87,6 +87,10 @@ fp-certerror-bad-domain-why-dangerous-body = Sedło jo tak konfigurěrowane, až
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Snaź nic, dokulaž to jo nejskerjej problem ze sedłom samym. Sedła certifikaty wužywaju, kótarež su se wudali wót certifikatoweje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. Ale jolic sćo w seśi pśedewześa, waš team pomocy snaź dalšne informacije ma. Jolic antiwirusowu software wužywaśo, wopytajśo za potencielnymi konfliktami abo znatymi problemami pytaś.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } was wó toś tom sedle warnujo, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo se wudał wót awtority certificěrowanja, kótaraž wěcej njejo dowěry gódna.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Dajo problem z certifikatom sedła. Jo móžno, až złosny akter wopytujo, sedło imitěrowaś. Sedła certifikaty wužywaju, kótarež su se wudali wót certifikowateje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž njamóžomy k wěsći daś, chtož jo wudał certifikat, jo samosigněrowany abo sedło mjazycertifikaty njesćelo, kótarym dowěrjamy.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Snaź nic, dokulaž to jo nejskerjej problem ze sedłom samym. Ale jolic sćo w seśi pśedewześa, waš team pomocy snaź dalšne informacije ma. Jolic antiwirusowu software wužywaśo, musyśo ju snaź tak konfigurěrowaś, aby z { -brand-short-name } funkcioněrowała.

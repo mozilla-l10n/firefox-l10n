@@ -89,7 +89,7 @@ fp-certerror-bad-domain-what-can-you-do-body = Snano ničo, dokelž to je najske
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } je warnowanje wo tutym sydle, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, kotryž je so wot certifikowanskeje awtority wudał, kotraž hižo dowěry hódna njeje.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } was wo tutym sydle warnuje, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, kotryž je so wot certifikowanskeje awtority wudał, kotraž hižo dowěry hódna njeje.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-untrusted-issuer-what-can-you-do-body = Najskerje ničo, dokelž to je najskerje problem ze sydłom samym. Móžeće so pola wobsedźerja websydła wobhonić, zo byšće zhonił, hač na problemje dźěła.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
