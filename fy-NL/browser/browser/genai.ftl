@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = { $provider } fuortsmite
 genai-menu-remove-sidebar =
     .label = Fuortsmite út sydbalke
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = { $provider } freegje
 genai-menu-new-badge = Nij
 genai-menu-summarize-page = Side gearfetsje
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } minuten lêstiid
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } kin gjin foarbyld fan dizze keppeling toane
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Wy kinne gjin foarbyld fan dizze keppeling toane
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Keppeling besykje
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } kin gjin wichtige punten foar dizze website generearje.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Wy kinne gjin haadpunten foar dizze website oanmeitsje.
 # Error message when something went wrong during key point generation

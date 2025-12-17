@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Advar mig, når jeg lukker browseren
 disable-extension =
     .label = Deaktiver udvidelse
+preferences-data-migration-group =
+    .label = Importer browserdata
+    .description = Tag dine bogmærker, adgangskoder, udvidelser, data til autofyldning og din historik med dig fra en anden browser.
 preferences-data-migration-header = Importer browserdata
 preferences-data-migration-description = Importer bogmærker, adgangskoder, historik og data til autofyldning til { -brand-short-name }.
 preferences-data-migration-button =
@@ -325,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Dine indstillinger for kontrast tilsidesætter webstedets udseende.
 preferences-web-appearance-link =
     .label = Håndter { -brand-short-name }-temaer i Udvidelser og temaer
+preferences-contrast-control-group =
+    .label = Websteds-kontrast
+    .description = Websteder bruger forskellige forgrunds- og baggrundsfarver. Hvis du vil have samme kontrast overalt, kan du bruge de samme farver på alle websteder.
+preferences-contrast-control-radio-group =
+    .label = Erstat farver
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
@@ -564,6 +572,9 @@ update-in-progress-cancel-button = &Fortsæt
 
 ## Firefox support
 
+support-application-heading =
+    .label = Hjælp til { -brand-short-name }
+    .description = Få hjælp til problemer eller del idéer med fællesskabet.
 support-get-help =
     .label = Få hjælp
 support-share-ideas =

@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Se en kort beskrivelse, hvor lang 
 sidebar-button-callout-title = Vis titler på faneblade i sidepanelet
 sidebar-button-callout-subtitle = Brug sidepanels-knappen til at udvide sidepanelet, så du kan se titler på faneblade.
 sidebar-button-callout-vertical-tabs = For at se dine faneblade skal du klikke på sidepanels-knappen i værktøjslinjen.
+sidebar-deprecation-callout-title = Opdateret sidepanel kommer snart
+sidebar-deprecation-callout-subtitle = Vi udfaser den version af sidepanel, du bruger lige nu. Prøv det opdaterede sidepanel. Det er hurtigere, og du får adgang til mere værktøj.
+sidebar-deprecation-cta-button = Prøv det nu
 
 ## Sidebar Vertical Tabs Strings
 

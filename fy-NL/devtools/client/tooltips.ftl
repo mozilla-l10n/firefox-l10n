@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong> hat gjin ef
 inactive-css-column-span = <strong>{ $property }</strong> hat gjin spanning-effekt op dit elemint, omdat it net yn in container mei meardere kolommen is.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin grid- of flexitem is.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin grid- of flexitem is, en ek gjin absolút posisjonearre elemint.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin griditem is en ek gjin absolút posisjonearre elemint.
 inactive-css-not-grid-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin griditem is.
 inactive-css-not-grid-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin gridcontainer is.
 inactive-css-not-flex-item = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin flexitem is.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> hat gjin effekt op di
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wurdt net stipe op markearre pseudo-eleminten.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::cue-pseudo-elementen.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wurdt net stipe yn de folgjende browsers <strong>@position-try</strong>-regels:
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -86,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probearje <s
 inactive-css-not-multicol-container-fix = Probearje <strong>column-count</strong> of <strong>column-width</strong> ta te foegjen. { learn-more }
 inactive-css-column-span-fix = Probearje <strong>column-count</strong> of <strong>column-width</strong> oan ien fan de foarrinnende eleminten ta te foegjen. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Probearje <strong>position:absolute</strong> oan it elemint ta te foegjen, of <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> oan it boppelizzende nivo fan it elemint. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Probearje <strong>position:absolute</strong> oan it elemint ta te foegjen, of <strong>display:grid</strong> of <strong>display:inline-grid</strong> oan it boppelizzende elemint. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Probearje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> oan it boppelizzende nivo fan it elemint ta te foegjen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> oan it boppe lizzende elemint ta te foegjen. { learn-more }
 inactive-css-not-grid-container-fix = Probearje <strong>display:grid</strong> of <strong>display:inline-grid</strong> ta te foegjen. { learn-more }
@@ -139,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Mear ynfo</sp
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Dizze selector brûkt ûnbeheind <strong>:has()</strong>, dat stadich wêze kin
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Besibbe selectors nei <strong>:scope</strong> sille nea earne mei oerienkomme

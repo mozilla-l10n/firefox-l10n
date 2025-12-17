@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Jo ynstellingen foar kontrastregeling hawwe foarrang op it uterlik fan de website.
 preferences-web-appearance-link =
     .label = Jo kinne { -brand-short-name }-tema’s beheare yn Utwreidingen en tema’s
+preferences-contrast-control-group =
+    .label = Websitekontrast
+    .description = Websites brûke in keur oan foargrûn- en eftergrûnkleuren. Foar konsistint kontrast kinne jo deselde kleuren op ferskate websites brûke.
+preferences-contrast-control-radio-group =
+    .label = Kleuren oerskriuwe
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Jo kleurseleksjes hawwe foarrang op it uterlik fan de website. <a data-l10n-name="colors-link">Kleuren beheare</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sykfoarstellen yn adresbalkeresultaten toane
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Syksuggestjes boppe browserskiednis toane yn adresbalkeresultaten
+search-show-suggestions-private-windows-2 =
+    .label = Syksuggestjes yn priveefinsters
 search-suggestions-cant-show-2 =
     .message = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = s
 search-separate-default-engine-dropdown =
     .aria-label = Standertsykmasine yn priveefinsters
+search-suggestions-header-2 =
+    .label = Sykmasinesuggestjes
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Syngronisearje jo blêdwizers, skiednis, ljepblêd
 sync-signedout-account-signin3 =
     .label = Oanmelde om te syngronisearjen…
     .accesskey = a
+sync-signedout-account-signin-4 =
+    .label = Meld jo oan by jo account om te begjinnen mei syngronisearjen
+    .accesskey = a
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Syngronisaasje: OAN
+prefs-syncing-on-2 =
+    .label = Syngronisearjen is OAN
 prefs-syncing-off = Syngronisaasje: ÚT
+prefs-syncing-off-2 =
+    .label = Syngronisearjen is ÚT
+    .description = Skeakelje syngronisaasje yn om op elk apparaat jo blêdwizers, wachtwurden, skiednis en mear te ûntfangen.
 prefs-sync-turn-on-syncing =
     .label = Syngronisaasje ynskeakelje…
     .accesskey = S
@@ -1023,6 +1047,9 @@ sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = Ynstellingen
 sync-manage-options =
     .label = Syngronisaasje beheare…
+    .accesskey = b
+sync-manage-options-2 =
+    .label = Syngronisearre gegevens beheare
     .accesskey = b
 sync-change-options =
     .label = Wizigje…
@@ -1283,6 +1310,9 @@ autofill-payment-methods-add-button = Nije betellingsmetoade tafoegje
 payments-list-header =
     .label = Betellingsmetoaden
 payments-list-item-label = <strong>Betellingsmetoaden</strong>
+payments-delete-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
+payments-delete-payment-prompt-confirm-button = Fuortsmite
+payments-delete-payment-prompt-cancel-button = Annulearje
 payments-remove-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
 payments-remove-payment-prompt-confirm-button = Fuortsmite
 payments-remove-payment-prompt-cancel-button = Annulearje
@@ -1295,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adressen en mear beheare
     .accesskey = h
+addresses-list-header =
+    .label = Adressen
+addreses-delete-address-button-label =
+    .aria-label = Fuortsmite
+addreses-edit-address-button-label =
+    .aria-label = Bewurkje
+addresses-delete-address-prompt-title = Dit adres fuortsmite?
+addresses-delete-address-prompt-confirm-button = Fuortsmite
+addresses-delete-address-prompt-cancel-button = Annulearje
+autofill-addresses-add-button = Nij adres tafoegje
+autofill-addresses-manage-addresses-title =
+    .heading = Adressen en mear beheare
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Flugge aksjes
     .accesskey = F
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Resinte sykopdrachten
+    .accesskey = s
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trending syksuggestjes
+    .accesskey = T
 addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 addressbar-locbar-showrecentsearches-option =
     .label = Resinte sykopdrachten toane
