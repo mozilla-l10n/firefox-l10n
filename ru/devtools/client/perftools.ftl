@@ -125,7 +125,7 @@ perftools-tools-threads-input-label =
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
-perftools-onboarding-message = <b>Новое</b>:  В Инструменты разработчика теперь интегрирован { -profiler-brand-name }. <a>Узнайте больше</a> об этом новом, мощном инструменте.
+perftools-onboarding-message = <b>Новое</b>:  В инструменты разработчика теперь интегрирован «{ -profiler-brand-name }». <a>Узнайте больше</a> об этом новом, мощном инструменте.
 perftools-onboarding-close-button =
     .aria-label = Закрыть приветственное сообщение
 
