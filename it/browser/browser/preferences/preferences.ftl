@@ -948,6 +948,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizzazione
+account-group-label =
+    .label = Account { -vendor-short-name }
+account-placeholder =
+    .label = Non hai effettuato l’accesso
+    .description = Accedi per mantenere i tuoi dati privati, crittati e sincronizzati su tutti i dispositivi.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -960,6 +965,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Accedi al tuo account per avviare la sincronizzazione
     .accesskey = u
+sync-signedout-account-short =
+    .label = Accedi
+    .accesskey = A
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -998,7 +1006,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } non è verificato.
+sync-signedin-unverified2 =
+    .label = { $email } non ancora confermata
+    .description = Controlla la tua casella di posta per confermare il tuo account e renderlo ufficiale.
 sync-signedin-login-failure = Accedi per riattivare la connessione con { $email }
+sync-signedin-login-failure2 =
+    .label = Sei disconnesso da { $email }
+    .description = Accedi di nuovo per riconnetterti e iniziare a sincronizzare i tuoi dati.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
