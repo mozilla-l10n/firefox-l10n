@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Uw instellingen voor contrastregeling hebben voorrang op het uiterlijk van de website.
 preferences-web-appearance-link =
     .label = U kunt { -brand-short-name }-thema’s beheren in Extensies en thema’s
+preferences-contrast-control-group =
+    .label = Websitecontrast
+    .description = Websites gebruiken een keur aan voorgrond- en achtergrondkleuren. Voor consistent contrast kunt u dezelfde kleuren op verschillende websites gebruiken.
+preferences-contrast-control-radio-group =
+    .label = Kleuren overschrijven
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Uw kleurselecties hebben voorrang op het uiterlijk van de website. <a data-l10n-name="colors-link">Kleuren beheren</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Zoeksuggesties in adresbalkresultaten tonen
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Zoeksuggesties boven browsergeschiedenis tonen in adresbalkresultaten
+search-show-suggestions-private-windows-2 =
+    .label = Zoeksuggesties in privévensters
 search-suggestions-cant-show-2 =
     .message = Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u { -brand-short-name } hebt geconfigureerd om nooit geschiedenis te onthouden.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = g
 search-separate-default-engine-dropdown =
     .aria-label = Standaardzoekmachine in privévensters
+search-suggestions-header-2 =
+    .label = Zoekmachinesuggesties
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Synchroniseer uw bladwijzers, geschiedenis, tabbla
 sync-signedout-account-signin3 =
     .label = Aanmelden om te synchroniseren…
     .accesskey = a
+sync-signedout-account-signin-4 =
+    .label = Meld u aan bij uw account om te beginnen met synchroniseren
+    .accesskey = a
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchroniseren: AAN
+prefs-syncing-on-2 =
+    .label = Synchroniseren is AAN
 prefs-syncing-off = Synchroniseren: UIT
+prefs-syncing-off-2 =
+    .label = Synchroniseren is UIT
+    .description = Schakel synchronisatie in om op elk apparaat uw bladwijzers, wachtwoorden, geschiedenis en meer te ontvangen.
 prefs-sync-turn-on-syncing =
     .label = Synchronisatie inschakelen…
     .accesskey = S
@@ -1023,6 +1047,9 @@ sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = Instellingen
 sync-manage-options =
     .label = Synchronisatie beheren…
+    .accesskey = b
+sync-manage-options-2 =
+    .label = Gesynchroniseerde gegevens beheren
     .accesskey = b
 sync-change-options =
     .label = Wijzigen…
@@ -1283,6 +1310,9 @@ autofill-payment-methods-add-button = Nieuwe betalingsmethode toevoegen
 payments-list-header =
     .label = Betalingsmethoden
 payments-list-item-label = <strong>Betaalmethoden</strong>
+payments-delete-payment-prompt-title = Deze betalingsmethode verwijderen?
+payments-delete-payment-prompt-confirm-button = Verwijderen
+payments-delete-payment-prompt-cancel-button = Annuleren
 payments-remove-payment-prompt-title = Deze betalingsmethode verwijderen?
 payments-remove-payment-prompt-confirm-button = Verwijderen
 payments-remove-payment-prompt-cancel-button = Annuleren
@@ -1295,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adressen en meer beheren
     .accesskey = b
+addresses-list-header =
+    .label = Adressen
+addreses-delete-address-button-label =
+    .aria-label = Verwijderen
+addreses-edit-address-button-label =
+    .aria-label = Bewerken
+addresses-delete-address-prompt-title = Dit adres verwijderen?
+addresses-delete-address-prompt-confirm-button = Verwijderen
+addresses-delete-address-prompt-cancel-button = Annuleren
+autofill-addresses-add-button = Nieuw adres toevoegen
+autofill-addresses-manage-addresses-title =
+    .heading = Adressen en meer beheren
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snelle acties
     .accesskey = S
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Recente zoekopdrachten
+    .accesskey = z
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trending zoeksuggesties
+    .accesskey = T
 addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 addressbar-locbar-showrecentsearches-option =
     .label = Recente zoekopdrachten tonen

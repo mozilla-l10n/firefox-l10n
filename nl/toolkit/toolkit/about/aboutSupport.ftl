@@ -136,6 +136,10 @@ place-database-stats-efficiency-perc = Efficiëntie (%)
 place-database-stats-sequentiality-perc = Volgorde (%)
 place-database-integrity = Integriteit
 place-database-verify-integrity = Integriteit verifiëren
+place-database-last-idle-maintenance-data = Datum van laatste inactiviteitsonderhoud
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Laatste opschoondatum
+place-database-last-integrity-corruption-date = Datum van laatste integriteitsaantasting
 a11y-title = Toegankelijkheid
 a11y-activated = Geactiveerd
 a11y-force-disabled = Toegankelijkheid voorkomen
