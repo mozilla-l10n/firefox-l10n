@@ -84,6 +84,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 請嘗試加
 inactive-css-not-multicol-container-fix = 請嘗試加入 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-column-span-fix = 請嘗試對上層元素加入 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = 請嘗試為元素加入 <strong>position:absolute</strong>，或為元素的父元素加入 <strong>display:grid</strong>、<strong>display:flex</strong>、<strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = 請嘗試為元素加入 <strong>position:absolute</strong>，或為其父元素加入 <strong>display:grid</strong>、<strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = 請嘗試為元素的父元素加入 <strong>display:grid</strong>、<strong>display:flex</strong>、<strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-item-fix-2 = 請嘗試為元素的父元素加入 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-container-fix = 請嘗試加入 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }

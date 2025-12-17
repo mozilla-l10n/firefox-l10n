@@ -316,6 +316,8 @@ preferences-web-appearance-override-warning3 =
     .message = 您選擇的對比設定會蓋過網站外觀的配色。
 preferences-web-appearance-link =
     .label = 到擴充套件與佈景主題管理 { -brand-short-name } 的佈景主題
+preferences-contrast-control-radio-group =
+    .label = 覆蓋色彩
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您選擇的配色會蓋過網站外觀的配色。<a data-l10n-name="colors-link">管理色彩</a>。
@@ -821,6 +823,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 在網址列結果中顯示搜尋建議
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = 在網址列顯示的結果中，將搜尋建議放在瀏覽紀錄前面
 search-show-suggestions-private-windows-2 =
     .label = 隱私瀏覽視窗中的搜尋建議
 search-suggestions-cant-show-2 =
