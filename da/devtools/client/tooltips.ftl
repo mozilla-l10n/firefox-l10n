@@ -21,6 +21,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> har ingen effekt på dette element, eftersom det ikke er en container med flere kolonner.
 inactive-css-column-span = <strong>{ $property }</strong> har ingen effekt på tværs af kolonner, eftersom elementet ikke befinder sig i en beholder med flere kolonner.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element eller et flex-element.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det hverken er et absolut placeret element eller et flex- eller grid-element.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element eller et absolut placeret element.
 inactive-css-not-grid-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element.
 inactive-css-not-grid-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er en grid-container.
 inactive-css-not-flex-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et flex-element.
@@ -63,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> har ingen effekt på 
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> er ikke understøttet på pseudo-elementer brugt til fremhævning (fx ::selection).
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> er ikke understøttet på pseudo-elementer af typen ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> er ikke understøttet i <strong>@position-try</strong>-regler.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -84,6 +87,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Prøv at tilføje <strong
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Prøv at tilføje enten <strong>column-count</strong> eller <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Prøv at tilføje <strong>column-count</strong> eller <strong>column-width</strong> til et af dets overordnede elementer. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Prøv at filføje <strong>position:absolute</strong> til elementet, eller <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Prøv at tilføje <strong>position:absolute</strong> til elementet eller<strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder.  { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Prøv at tilføje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> til elementets forælder. { learn-more }
 inactive-css-not-grid-item-fix-2 = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong> til elementets forælder. { learn-more }
 inactive-css-not-grid-container-fix = Prøv at tilføje <strong>display:grid</strong> eller <strong>display:inline-grid</strong>. { learn-more }
@@ -137,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Læs mere</sp
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Denne selektor bruger <strong>:has()</strong> uden restriktioner, hvilket kan være langsomt
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Søskende-selektorer efter <strong>:scope</strong> vil aldrig matche noget
