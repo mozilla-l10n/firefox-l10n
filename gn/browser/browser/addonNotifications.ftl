@@ -41,7 +41,7 @@ site-permission-install-first-prompt-midi-message = Ndoje’ekuaái ndéve ko je
 
 xpinstall-disabled-locked = Apopyvusu ñangarekohára ombotove Software ñemohenda.
 xpinstall-disabled-by-policy = Pe software ñemohenda oipe’aitéma ne mba’apohaguasu.
-xpinstall-disabled = Software ñemohenda oñembogue ko’ág̃a. Ejopy Myandy ha upéi eha’ãjey.
+xpinstall-disabled = Software ñemohenda oñembogue ko’ág̃a. Ejopy Myandy ha upéi eha’ã jey.
 xpinstall-disabled-button =
     .label = Myandy
     .accesskey = n

@@ -88,9 +88,9 @@ downloads-cmd-show-description-2 =
 downloads-cmd-show-downloads =
     .label = Ñemboguejykuéra Ñongatuha Hechauka
 downloads-cmd-retry =
-    .tooltiptext = Eñeha’ãjey
+    .tooltiptext = Eñeha’ã jey
 downloads-cmd-retry-panel =
-    .aria-label = Eñeha’ãjey
+    .aria-label = Eñeha’ã jey
 downloads-cmd-go-to-download-page =
     .label = Kuatiarogue Omboguejývape Jeho
     .accesskey = J
@@ -167,7 +167,7 @@ downloading-file-click-to-open =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = Eha’ãjey ñemboguejy
+    .value = Eha’ã jey ñemboguejy
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =

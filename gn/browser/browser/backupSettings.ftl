@@ -148,7 +148,7 @@ backup-service-error-recovery-failed =
 # idea of what went wrong
 backup-service-error-went-wrong2 =
     .heading = Hmm, oĩ apañuái eñongatu pyahuse jeývo.
-    .message = Eha’ãjeykuaa ag̃amieve.
+    .message = Eha’ã jeykuaa ag̃amieve.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -193,7 +193,7 @@ backup-error-password-requirements = Ne ñe’ẽñemi ndohupytýi umi mba’e o
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
 # is a chance that the action will succeed if retried.
-backup-error-retry = Oĩvaicha osẽvaíva. Eha’ãjey ag̃amieve.
+backup-error-retry = Oĩvaicha osẽvaíva. Eha’ã jey ag̃amieve.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file

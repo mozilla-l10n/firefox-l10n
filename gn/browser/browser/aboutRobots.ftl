@@ -26,5 +26,5 @@ error-long-desc4 = Umi avara’ãnga hevi atã vera ojepytekuaa’ỹva.
 error-trailer-desc-text = Ha oreko peteĩ apopyrã.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 # Note: .label2 replaces this label after pressing the button the first time.
-error-try-again = Eha’ãjey
-    .label2 = Ani rejopyjey ko votõ.
+error-try-again = Eha’ã jey
+    .label2 = Ani rejopy jey ko votõ.

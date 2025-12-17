@@ -177,7 +177,7 @@ mr2022-background-update-toast-secondary-button-label = Chemomandu’a ag̃ave
 
 ## Firefox View CFR
 
-firefoxview-cfr-primarybutton = Eha’ãjey
+firefoxview-cfr-primarybutton = Eha’ã jey
     .accesskey = T
 firefoxview-cfr-secondarybutton = Ani ko’ág̃a
     .accesskey = N

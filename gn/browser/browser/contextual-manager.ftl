@@ -305,7 +305,7 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ndojejuhúi ñe’ẽñemi ñongatupyre
 contextual-manager-passwords-no-passwords-found-message-2 = Eiporu ambue ñe’ẽ ha eheka pyahu jey.
-contextual-manager-passwords-no-passwords-found-message = Ndojejuhúi ñe’ẽñeminguéra. Eheka ñe’ẽ ambuéva ha eha’ãjey.
+contextual-manager-passwords-no-passwords-found-message = Ndojejuhúi ñe’ẽñeminguéra. Eheka ñe’ẽ ambuéva ha eha’ã jey.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

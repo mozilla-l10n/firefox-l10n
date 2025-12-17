@@ -241,7 +241,7 @@ link-preview-generation-error-missing-data = Ndaikatúi jahecha mba’eporã ko 
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Oĩvaicha osẽvaíva.
 # Text for the retry link when generation fails
-link-preview-generation-retry = Eha’ãjey
+link-preview-generation-retry = Eha’ã jey
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Emboheko juajuha rechaha ypy
