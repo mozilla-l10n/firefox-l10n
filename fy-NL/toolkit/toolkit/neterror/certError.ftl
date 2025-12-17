@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = De website is ynsteld om allinnich 
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. Mar as jo op in saaklik netwurk binne, hat jo stipeteam mooglik mear ynfo. As jo antifirussoftware brûke, probearje dan nei mooglike konflikten of bekende problemen te sykjen.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } warskôget jo foar dizze website, omdat it foar { $hostname } levere sertifikaat útjûn is troch in sertifikaatautoriteit dy’t net mear fertroud wurdt.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem is mei de website sels. Jo kinne kontakt opnimme mei de eigener fan de website om te sjen oft se oan it probleem wurkje.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Der is in probleem mei it sertifikaat fan de website. It is mooglik dat in kweawollende de website probearret nei te meitsjen. Websites brûke sertifikaten dy’t troch in sertifikaatautoriteit útjûn binne om te bewizen dat se echt binne wa’t se sizze dat se binne. { -brand-short-name } fertrout dizze website net, omdat wy net sjen kinne wa’t it sertifikaat útjûn hat, it selsûndertekene is of de website gjin yntermediêre sertifikaten dy’t wy fertrouwe ferstjoert.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Wierskynlik neat, omdat der wierskynlik in probleem mei de website sels is. Mar as jo op in saaklik netwurk binne, hat jo stipeteam mooglik mear ynfo. As jo antifirussoftware brûke, moat dizze mooglik konfigurearre wurde om mei { -brand-short-name } te wurkjen.
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Wierskynlik neat, omdat der wie
 fp-learn-more-about-secure-connection-failures = Mear ynfo oer mislearre befeilige ferbiningen
 fp-learn-more-about-cert-issues = Mear ynfo oer dit soarte fan sertifikaatproblemen
 fp-learn-more-about-time-related-errors = Mear ynfo oer it oplossen fan tiidrelatearre flaters
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } fertrout dizze website net, omdat it derop liket dat it oanbeane sertifikaat net jildich is oant { DATETIME($date, timeStyle: "short") } op { DATETIME($date, day: "numeric", month: "numeric ", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = De klok fan jo apparaat is ynsteld op { DATETIME($date, timeStyle: "short") }{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. As dit goed is, leit it befeiligingsprobleem wierskynlik by de website sels. As it ferkeard is, kinne jo it wizigje yn de systeemynstellingen fan jo apparaat.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

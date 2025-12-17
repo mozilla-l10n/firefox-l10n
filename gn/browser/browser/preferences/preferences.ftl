@@ -1330,6 +1330,16 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ¿Embogue ko kundaharape?
 addresses-delete-address-prompt-confirm-button = Mboguete
 addresses-delete-address-prompt-cancel-button = Eheja
+autofill-addresses-add-button = Embojuaju kundaharape pyahu
+autofill-addresses-manage-addresses-title =
+    .heading = Eñangareko kundaharape ha hetave
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1524,6 +1534,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Jeku’e pya’e
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Ojeheka ramóva
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Umi jehekarã ojeporuvéva
+    .accesskey = t
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 addressbar-locbar-showrecentsearches-option =
     .label = Ehechauka ojeheka ramóva

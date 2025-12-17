@@ -835,12 +835,23 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Vis søgeforslag i adressefeltet
     .accesskey = a
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Vis søgeforslag før resultater fra min browserhistorik i adressefeltet
+search-show-suggestions-private-windows-2 =
+    .label = Søgeforslag i private vinduer
 search-suggestions-cant-show-2 =
     .message = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Vis søgestrenge i adressefeltet på resultatsider
+search-separate-default-engine-dropdown =
+    .aria-label = Standard-søgetjeneste i private vinduer
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -926,6 +937,9 @@ sync-signedout-description2 = Synkroniser din historik, dine bogmærker, fanebla
 sync-signedout-account-signin3 =
     .label = Log ind for at synkronisere…
     .accesskey = L
+sync-signedout-account-signin-4 =
+    .label = Log in på din konto for at synkronisere
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -977,7 +991,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synkronisering: TIL
+prefs-syncing-on-2 =
+    .label = Synkronisering: TIL
 prefs-syncing-off = Synkronisering: FRA
+prefs-syncing-off-2 =
+    .label = Synkronisering: FRA
+    .description = Slå synkronisering til for at få dine bogmærker, adgangskoder, historik og mere på alle dine enheder.
 prefs-sync-turn-on-syncing =
     .label = Slå synkronisering til…
     .accesskey = S
@@ -1004,6 +1023,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Du synkroniserer disse elementer på tværs af alle dine forbundne enheder:
+sync-syncing-across-devices-heading-2 = Synkroniserede data på tværs af enheder
+sync-syncing-across-devices-empty-state =
+    .label = Du synkroniserer ikke noget endnu.
+    .description = Start synkronisering for at få alle dine data på alle dine enheder.
 sync-currently-syncing-bookmarks = Bogmærker
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Åbne faneblade
@@ -1016,6 +1039,9 @@ sync-currently-syncing-addons = Tilføjelser
 sync-currently-syncing-settings = Indstillinger
 sync-manage-options =
     .label = Håndter synkronisering…
+    .accesskey = H
+sync-manage-options-2 =
+    .label = Håndter synkroniserede data
     .accesskey = H
 sync-change-options =
     .label = Skift…
@@ -1276,6 +1302,9 @@ autofill-payment-methods-add-button = Tilføj ny betalingsmetode
 payments-list-header =
     .label = Betalingsmetoder
 payments-list-item-label = <strong>Betalingsmetoder</strong>
+payments-delete-payment-prompt-title = Slet denne betalingsmetode?
+payments-delete-payment-prompt-confirm-button = Slet
+payments-delete-payment-prompt-cancel-button = Annuller
 payments-remove-payment-prompt-title = Fjern denne betalingsmetode?
 payments-remove-payment-prompt-confirm-button = Fjern
 payments-remove-payment-prompt-cancel-button = Annuller
@@ -1288,6 +1317,18 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Håndter adresser med mere
     .accesskey = H
+addresses-list-header =
+    .label = Adresser
+addreses-delete-address-button-label =
+    .aria-label = Slet
+addreses-edit-address-button-label =
+    .aria-label = Rediger
+addresses-delete-address-prompt-title = Slet denne adresse?
+addresses-delete-address-prompt-confirm-button = Slet
+addresses-delete-address-prompt-cancel-button = Annuller
+autofill-addresses-add-button = Tilføj ny adresse
+autofill-addresses-manage-addresses-title =
+    .heading = Håndter adresser med mere
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
