@@ -841,6 +841,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Pytanske namjety we wuslědkach adresoweho pola pokazać
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Pytanske namjety před přehladowanskej historiju we wuslědkach adresoweho pola pokazać
+search-show-suggestions-private-windows-2 =
+    .label = Pytanske namjety w priwatnych woknach
 search-suggestions-cant-show-2 =
     .message = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -852,6 +861,8 @@ search-separate-default-engine-2 =
     .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Standardna pytawa w priwatnych woknach
+search-suggestions-header-2 =
+    .label = Namjety pytawy
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -988,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronizacija: ZAPINJENY
+prefs-syncing-on-2 =
+    .label = Synchronizacija je ZAPINJENA
 prefs-syncing-off = Synchronizacija: WUPINJENY
+prefs-syncing-off-2 =
+    .label = Synchronizacijaje je WUPINJENA
+    .description = Zmóžńće synchronizaciju, zo byšće swoje zapołožki, hesła, historiju a wjace na kóždym graće dóstał.
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžnić…
     .accesskey = h
@@ -1031,6 +1047,9 @@ sync-currently-syncing-addons = Přidatki
 sync-currently-syncing-settings = Nastajenja
 sync-manage-options =
     .label = Synchronizaciju rjadować…
+    .accesskey = S
+sync-manage-options-2 =
+    .label = Synchronizowane daty rjadować
     .accesskey = S
 sync-change-options =
     .label = Změnić…
@@ -1291,6 +1310,9 @@ autofill-payment-methods-add-button = Nowu płaćensku metodu přidać
 payments-list-header =
     .label = Płaćenske metody
 payments-list-item-label = <strong>Płaćenske metody</strong>
+payments-delete-payment-prompt-title = Tutu płaćensku metodu zhašeć?
+payments-delete-payment-prompt-confirm-button = Zhašeć
+payments-delete-payment-prompt-cancel-button = Přetorhnyć
 payments-remove-payment-prompt-title = Tutu płaćensku metodu wotstronić?
 payments-remove-payment-prompt-confirm-button = Wotstronić
 payments-remove-payment-prompt-cancel-button = Přetorhnyć
@@ -1303,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adresy a wjace rjadować
     .accesskey = r
+addresses-list-header =
+    .label = Adresy
+addreses-delete-address-button-label =
+    .aria-label = Zhašeć
+addreses-edit-address-button-label =
+    .aria-label = Wobdźěłać
+addresses-delete-address-prompt-title = Tutu adresu zhašeć?
+addresses-delete-address-prompt-confirm-button = Zhašeć
+addresses-delete-address-prompt-cancel-button = Přetorhnyć
+autofill-addresses-add-button = Nowu adresu přidać
+autofill-addresses-manage-addresses-title =
+    .heading = Adresy a wjace rjadować
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1497,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Spěšne akcije
     .accesskey = S
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Najnowše pytanja
+    .accesskey = n
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trendowe pytanske namjety
+    .accesskey = T
 addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 addressbar-locbar-showrecentsearches-option =
     .label = Najnowše pytanja pokazać

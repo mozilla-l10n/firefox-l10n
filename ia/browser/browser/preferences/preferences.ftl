@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Tu parametros de controlo de contrasto substitue le apparentia de sitos web.
 preferences-web-appearance-link =
     .label = Gere le themas de { -brand-short-name } in Extensiones e themas
+preferences-contrast-control-group =
+    .label = Contrasto de sito web
+    .description = Le sitos web usa plure colores de prime plano e de contexto. Pro un contrasto coherente, tu pote usar le mesme colores a transverso le sitos web.
+preferences-contrast-control-radio-group =
+    .label = Substituer le colores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu selectiones de colores supplanta le apparentia de sitos web.<a data-l10n-name="colors-link">Gerer le colores</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Monstrar le suggestiones de recerca in le resultatos del barra de adresse
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Monstrar suggestiones de recerca ante le chronologia de navigation in le resultatos del barra del adresses
+search-show-suggestions-private-windows-2 =
+    .label = Suggestiones de recerca in fenestras private
 search-suggestions-cant-show-2 =
     .message = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Motor de recerca predefinite in fenestras private
+search-suggestions-header-2 =
+    .label = Suggestiones de motor de recerca
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Synchronisa tu marcapaginas, chronologia, contrasi
 sync-signedout-account-signin3 =
     .label = Aperi session pro synchronisar…
     .accesskey = A
+sync-signedout-account-signin-4 =
+    .label = Accede a tu conto pro initiar a synchronisar
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -983,6 +1002,9 @@ prefs-syncing-on = Synchronisation: ACTIVE
 prefs-syncing-on-2 =
     .label = Synchronisation ACTIVE
 prefs-syncing-off = Synchronisation: INACTIVE
+prefs-syncing-off-2 =
+    .label = Le synchronisation es DISACTIVATE
+    .description = Activa le synchronisation pro haber tu marcapaginas, contrasignos, chronologia, e plus sur qualcunque apparato.
 prefs-sync-turn-on-syncing =
     .label = Activar synchronisation…
     .accesskey = s
@@ -1025,6 +1047,9 @@ sync-currently-syncing-addons = Additivos
 sync-currently-syncing-settings = Parametros
 sync-manage-options =
     .label = Gere le synchronisation…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gerer le datos synchronisate
     .accesskey = G
 sync-change-options =
     .label = Cambiar…
@@ -1285,6 +1310,7 @@ autofill-payment-methods-add-button = Adder nove methodo de pagamento
 payments-list-header =
     .label = Methodos de pagamento
 payments-list-item-label = <strong>Methodos de pagamento</strong>
+payments-delete-payment-prompt-title = Deler iste methodo de pagamento?
 payments-delete-payment-prompt-confirm-button = Deler
 payments-delete-payment-prompt-cancel-button = Cancellar
 payments-remove-payment-prompt-title = Remover iste methodo de pagamento?
@@ -1515,6 +1541,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Recercas recente
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Tendentia del suggestiones de recerca
+    .accesskey = t
 addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 addressbar-locbar-showrecentsearches-option =
     .label = Monstrar recercas recente

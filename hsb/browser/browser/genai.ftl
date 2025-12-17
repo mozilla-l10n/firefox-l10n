@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = { $provider } wotstronić
 genai-menu-remove-sidebar =
     .label = Z bóčnicy wotstronić
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = { $provider } so prašeć
 genai-menu-new-badge = Nowy
 genai-menu-summarize-page = Stronu zjimać
 genai-input-ask-generic =
@@ -236,6 +239,8 @@ link-preview-reading-time =
 link-preview-error-message = Njemóžemy přehlad za tutón wotkaz pokazać
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Wotkaz wopytać
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } njemóže klučowe dypki za tutu webstronu generěrować.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Njemóžemy klučowe dypki za tutu webstronu generěrować.
 # Error message when something went wrong during key point generation

@@ -65,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> ha nulle effecto sur 
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos evidentiate.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> non es compatibile con regulas <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -87,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Prova adder 
 inactive-css-not-multicol-container-fix = Tenta adder o <strong>column-count</strong> o <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Tenta adder <strong>column-count</strong> o <strong>column-width</strong> a un de su elementos predecessor. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Tenta adder <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong> al genitor del elemento. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Tenta adder <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Prova adder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al genitor del elemento. { learn-more }
 inactive-css-not-grid-item-fix-2 = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento. { learn-more }
 inactive-css-not-grid-container-fix = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }

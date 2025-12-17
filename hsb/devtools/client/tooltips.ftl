@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong> na tutón e
 inactive-css-column-span = <strong>{ $property }</strong> žadyn na tutón element wopřimowacy wuskutk nima, dokelž we wjacešpaltowym kontejnerje njeje.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž ani zapisk grid ani zapisk flex njeje.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž ani lěsyčny element ani element element njeje, a ani absolutnje pozicionowany element.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž ani lěsyčny element ani absolutnje pozicionowany element njeje.
 inactive-css-not-grid-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž zapisk grid njeje.
 inactive-css-not-grid-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž kontejner grid njeje.
 inactive-css-not-flex-item = <strong>{ $property }</strong> na tutón element efekt nima, dokelž zapisk flex njeje.
