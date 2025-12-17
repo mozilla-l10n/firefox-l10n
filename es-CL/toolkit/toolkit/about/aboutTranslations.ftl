@@ -27,7 +27,7 @@ about-translations-detect-default = Detectar idioma
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $idioma } (detectado)
+about-translations-detect-language = { $language } (detectado)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Traducción
