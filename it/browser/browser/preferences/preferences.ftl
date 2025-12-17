@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Scegli cosa visualizzare quando vengono ape
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina iniziale e nuove finestre
+home-homepage-new-windows =
+    .label = Nuove finestre
 home-homepage-mode-label2 = Nuove finestre
 home-newtabs-mode-label = Nuove schede
+home-homepage-new-tabs =
+    .label = Nuove schede
 home-restore-defaults =
     .label = Ripristina predefiniti
     .accesskey = R
