@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Die Website wurde so eingerichtet, 
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Wahrscheinlich nichts, da es wahrscheinlich ein Problem mit der Website selbst gibt. Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. Falls Sie sich in einem Firmennetzwerk befinden, hat Ihr Support-Team möglicherweise mehr Informationen. Wenn Sie Antivirus-Software verwenden, versuchen Sie, nach potenziellen Konflikten oder bekannten Problemen zu suchen.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } warnt Sie vor dieser Website, weil das Zertifikat für { $hostname } von einer Zertifizierungsstelle ausgestellt wurde, der nicht mehr vertraut wird.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Wahrscheinlich nichts, da es sich wahrscheinlich um ein Problem mit der Website selbst handelt. Sie können den Inhaber der Website fragen, ob er an dem Problem arbeitet.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Es gibt ein Problem mit dem Zertifikat der Website. Es ist möglich, dass jemand Böswilliges versucht, sich als die Website auszugeben. Websites verwenden Zertifikate, die von einer Zertifizierungsstelle ausgestellt wurden, um zu bestätigen, dass sie wirklich sind, für wen sie sich ausgeben. { -brand-short-name } traut dieser Website nicht, weil wir nicht sagen können, wer das Zertifikat ausgestellt hat, es selbst signiert ist oder die Website keine Zwischenzertifikate sendet, die für uns vertrauenswürdig sind.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Wahrscheinlich nichts, da es sich wahrscheinlich um ein Problem mit der Website selbst handelt. Falls Sie sich in einem Firmennetzwerk befinden, hat Ihr Support-Team möglicherweise mehr Informationen. Wenn Sie Antivirus-Software verwenden, muss diese möglicherweise so konfiguriert werden, dass sie mit { -brand-short-name } funktioniert.
@@ -122,6 +128,10 @@ fp-certerror-transparency-what-can-you-do-body = Wahrscheinlich nichts, da es wa
 fp-learn-more-about-secure-connection-failures = Weitere Informationen zu Fehlern bei sicheren Verbindungen
 fp-learn-more-about-cert-issues = Weitere Informationen über diese Art von Zertifikatsproblemen
 fp-learn-more-about-time-related-errors = Weitere Informationen über die Behebung von zeitbezogenen Fehlern
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } traut dieser Website nicht, weil es so scheint, dass das angegebene Zertifikat nicht bis zum { DATETIME($date, timeStyle: "short") } am { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } gültig ist.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.

@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong>  hat bei di
 inactive-css-column-span = <strong>{ $property }</strong> hat bei diesem Element keine spaltenübergreifende Wirkung, weil es nicht in einem mehrspaltigen Container ist.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Flex- noch ein Grid-Element ist.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Grid- oder Flex-Element, noch ein absolut positionertes Element ist.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es weder ein Grid-Element noch ein absolut platziertes Element ist.
 inactive-css-not-grid-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Grid-Element ist.
 inactive-css-not-grid-container = <strong>{ $property }</strong>  hat bei diesem Element keine Wirkung, weil es kein Grid-Container ist.
 inactive-css-not-flex-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Flex-Element ist.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> hat keine Auswirkung 
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wird bei Highlight-Pseudo-Elementen nicht unterstützt.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wird bei ::cue-Pseudo-Elementen nicht unterstützt.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> wird in <strong>@position-try</strong>-Regeln nicht unterstützt.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -86,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Versuchen Si
 inactive-css-not-multicol-container-fix = Versuchen Sie, entweder <strong>column-count</strong> oder <strong>column-width</strong> hinzuzufügen. { learn-more }
 inactive-css-column-span-fix = Versuchen Sie, <strong>column-count</strong> oder <strong>column-width</strong> zu einem seiner Vorfahren-Elemente hinzuzufügen. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Versuchen Sie, <strong>position:absolute</strong> zum Element hinzuzufügen, oder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> >, oder <strong>display:inline-flex</strong> zum übergeordneten Element. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Versuchen Sie, <strong>position:absolute</strong> zum Element, oder <strong>display:grid</strong> oder <strong>display:inline-grid</strong> zum übergeordneten Element hinzuzufügen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Versuchen Sie, <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> oder <strong>display:inline-flex</strong> zum übergeordneten Element hinzuzufügen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Versuchen Sie, <strong>display:grid</strong> oder <strong>display:inline-grid</strong>zum übergeordneten Element hinzuzufügen. { learn-more }
 inactive-css-not-grid-container-fix = Versuchen Sie, <strong>display:grid</strong> oder <strong>display:inline-grid</strong> hinzuzufügen. { learn-more }
@@ -139,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Weitere Infor
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Dieser Selektor verwendet uneingeschränktes <strong>:has()</strong>, was langsam sein kann
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Geschwister-Selektoren nach <strong>:scope</strong> stimmen nie mit etwas überein

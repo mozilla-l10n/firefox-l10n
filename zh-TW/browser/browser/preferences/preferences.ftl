@@ -316,6 +316,9 @@ preferences-web-appearance-override-warning3 =
     .message = 您選擇的對比設定會蓋過網站外觀的配色。
 preferences-web-appearance-link =
     .label = 到擴充套件與佈景主題管理 { -brand-short-name } 的佈景主題
+preferences-contrast-control-group =
+    .label = 網站對比
+    .description = 網站會使用各種不同的背景色與前景色。為了維持一致的對比，可以在不同網站間使用相同的色彩。
 preferences-contrast-control-radio-group =
     .label = 覆蓋色彩
 # This can appear when using windows HCM or "Override colors: always" without
