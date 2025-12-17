@@ -126,6 +126,10 @@ place-database-stats-efficiency-perc = יעילות (%)
 place-database-stats-sequentiality-perc = רצף (%)
 place-database-integrity = תקינות
 place-database-verify-integrity = וידוא תקינות
+place-database-last-idle-maintenance-data = תאריך תחזוקה אחרון במצב מנוחה
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = תאריך שאיבה אחרון
+place-database-last-integrity-corruption-date = תאריך השחתה אחרון של התקינות
 a11y-title = נגישות
 a11y-activated = מופעל
 a11y-force-disabled = מניעת נגישות

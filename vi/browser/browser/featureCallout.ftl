@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Xem mô tả ngắn, thời gian �
 sidebar-button-callout-title = Hiển thị tiêu đề thẻ trong thanh lề
 sidebar-button-callout-subtitle = Sử dụng nút thanh lề để mở rộng thanh lề, để bạn có thể thấy tiêu đề thẻ.
 sidebar-button-callout-vertical-tabs = Để hiển thị các thẻ của bạn, chọn nút thanh lề trong thanh công cụ.
+sidebar-deprecation-callout-title = Bản cập nhật thanh lề sẽ sớm ra mắt.
+sidebar-deprecation-callout-subtitle = Chúng tôi đang ngừng hỗ trợ phiên bản thanh lề mà bạn đang sử dụng. Hãy thử phiên bản thanh lề được cập nhật. Nó nhanh hơn và bạn sẽ có quyền truy cập vào nhiều công cụ hơn.
+sidebar-deprecation-cta-button = Thử ngay bây giờ
 
 ## Sidebar Vertical Tabs Strings
 

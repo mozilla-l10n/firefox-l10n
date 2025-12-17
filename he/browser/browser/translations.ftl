@@ -75,7 +75,7 @@ translations-panel-intro-header = נסו תרגומים פרטיים ב־{ -bran
 translations-panel-intro-description = למען הפרטיות שלך, תרגומים לעולם אינם עוזבים את המכשיר שלך. שפות חדשות ושיפורים בקרוב!
 translations-panel-error-translating = אירעה שגיאה בתרגום. נא לנסות שוב.
 translations-panel-error-load-languages = לא ניתן לטעון שפות
-translations-panel-error-load-languages-hint = נא לבדוק את החיבור שלך לרשת ולנסות שוב.
+translations-panel-error-load-languages-hint = נא לבדוק את החיבור שלך לאינטרנט ולנסות שוב.
 translations-panel-error-load-languages-hint-button =
     .label = ניסיון חוזר
 translations-panel-error-unsupported = התרגום אינו זמין עבור דף זה
@@ -224,7 +224,7 @@ select-translations-panel-idle-placeholder-text = הטקסט המתורגם יו
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = בתהליך תרגום…
 select-translations-panel-init-failure-message =
-    .message = לא ניתן היה לטעון שפות. יש לבדוק את חיבור האינטרנט שלך ולנסות שוב.
+    .message = לא ניתן היה לטעון שפות. יש לבדוק את החיבור שלך לאינטרנט ולנסות שוב.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = אירעה שגיאה בתרגום. נא לנסות שוב.

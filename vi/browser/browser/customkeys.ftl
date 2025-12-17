@@ -35,3 +35,5 @@ customkeys-nav-reload = Tải lại
 customkeys-nav-reload-skip-cache = Tải lại (Ghi đè bộ nhớ đệm)
 customkeys-nav-stop = Dừng
 customkeys-caution-message = Tính năng này đang trong giai đoạn thử nghiệm và có thể không hoạt động như mong đợi.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Không hợp lệ
