@@ -821,6 +821,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 在網址列結果中顯示搜尋建議
     .accesskey = l
+search-show-suggestions-private-windows-2 =
+    .label = 隱私瀏覽視窗中的搜尋建議
 search-suggestions-cant-show-2 =
     .message = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
 # With this option enabled, while on a SERP, the URL normally displayed in the
