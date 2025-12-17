@@ -90,6 +90,8 @@ fp-certerror-bad-domain-what-can-you-do-body = Waarschijnlijk niets, aangezien e
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } waarschuwt u voor deze website omdat het voor { $hostname } geleverde certificaat is uitgegeven door een certificaatautoriteit die niet meer wordt vertrouwd.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Waarschijnlijk niets, aangezien er waarschijnlijk een probleem met de website zelf is. U kunt bij de eigenaar van de website nagaan of deze aan het probleem werkt.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Er is een probleem met het certificaat van de website. Het is mogelijk dat een kwaadwillende de website probeert na te bootsen. Websites gebruiken certificaten die door een certificaatautoriteit zijn uitgegeven om te bewijzen dat ze echt zijn wie ze zeggen dat ze zijn. { -brand-short-name } vertrouwt deze website niet, omdat we niet kunnen zien wie het certificaat heeft uitgegeven, het zelfondertekend is of de website geen intermediaire certificaten die we vertrouwen verzendt.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -126,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Waarschijnlijk niets, aangezien
 fp-learn-more-about-secure-connection-failures = Meer info over mislukte beveiligde verbindingen
 fp-learn-more-about-cert-issues = Meer info over dit soort certificaatproblemen
 fp-learn-more-about-time-related-errors = Meer info over het oplossen van tijdgerelateerde fouten
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } vertrouwt deze website niet, omdat het erop lijkt dat het aangeboden certificaat niet geldig is tot { DATETIME($date, timeStyle: "short") } op { DATETIME($date, day: "numeric", month: "numeric ", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = De klok van uw apparaat is ingesteld op { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Als dit juist is, ligt het beveiligingsprobleem waarschijnlijk bij de website zelf. Als het verkeerd is, kunt u het wijzigen in de systeeminstellingen van uw apparaat.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

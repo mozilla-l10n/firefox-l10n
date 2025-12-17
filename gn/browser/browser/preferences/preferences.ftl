@@ -631,6 +631,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Embojuruja ta’ãngamýi ñangarekoha picture-in-picture
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Esegi embopu taʼãngamyita taʼanga’ive rekópe emoambuévo tendayke
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Kuaave
 browsing-media-control =
     .label = Ehecha tairenda, henduha térã jehechaha ñandutigua ndive
@@ -834,12 +837,24 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ehechauka ñe’ẽreka joguaha kundaharape ha avei jejuhu hague rendápe
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Tojehechauka jehekaha kundahára rembiasakue mboyve kundaharape rendápe
 search-suggestions-cant-show-2 =
     .message = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Ehechauka ñe’ẽ ehekaséva kundaharape renda kuatiarogue jehechatahápe
+search-separate-default-engine-2 =
+    .label = Eiporu peteĩ jehekaha ypygua ambuéva ovetãita ñemíme
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Jehekaha ypyguáva ovetãita ñemíme
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
