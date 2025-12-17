@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Nettstaden er konfigurert til å be
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Sannsynlegvis ingenting, sidan det er sannsynleg at det er eit problem med sjølve nettstaden. Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. Men om du er på eit bedriftsnettverk, kan det hende at supportteamet ditt har meir informasjon. Om du brukar antivirusprogramvare, kan du prøve å søkje etter potensielle konfliktar eller kjende problem.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } åtvarar deg om denne nettstaden fordi sertifikatet som vart gitt ut for { $hostname } er skrive ut av ein sertifikatutskrivar som ikkje lenger er tiltrudd.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Sannsynlegvis ingenting, sidan det truleg er eit problem med sjølve nettstaden. Du kan sjekke med nettstadeigaren for å sjå om dei jobbar med problemet.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Det er eit problem med sertifikatet til nettstaden. Det er mogleg at ein vondsinna aktør prøver å gi seg ut for å vere nettstaden. Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi vi ikkje kan sjå kven som ferda ut sertifikatet, det er sjølvsignert, eller nettstaden sender ikkje mellomliggjande sertifikat vi stolar på.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Sannsynlegvis ingenting, sidan det sannsynlegvis er eit problem med sjølve nettstaden. Men om du er på eit bedriftsnettverk, kan det hende at supportteamet ditt har meir informasjon. Om du brukar antivirusprogramvare, må det kanskje konfigurerast til å fungere med { -brand-short-name }.
