@@ -133,6 +133,9 @@ place-database-stats-efficiency-perc = Apoporã (%)
 place-database-stats-sequentiality-perc = Joapykuerigua (%)
 place-database-integrity = Tekoite
 place-database-verify-integrity = Tekoporã Jehechajey
+place-database-last-idle-maintenance-data = Arange ojejapohague ñemopotĩ oku’e’ỹvape paha
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Arange ojejapohague ñemopotĩ
 a11y-title = Jeikekuaa
 a11y-activated = Myandypyre
 a11y-force-disabled = Jeikekuaa jejoko
