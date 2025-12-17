@@ -668,6 +668,14 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Llista nova
+newtab-widget-section-title = Ginys
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Amaga els ginys
+    .aria-label = Amaga tots els ginys
+newtab-widget-section-maximize =
+    .title = Amplia els ginys
+    .aria-label = Amplia tots els ginys al màxim
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -680,3 +688,11 @@ newtab-widget-timer-mode-focus =
     .label = Concentració
 newtab-widget-timer-mode-break =
     .label = Pausa
+newtab-widget-timer-label-play =
+    .label = Reprodueix
+newtab-widget-timer-reset =
+    .title = Reinicia
+newtab-widget-timer-menu-notifications = Desactiva les notificacions
+newtab-widget-timer-menu-notifications-on = Activa les notificacions
+newtab-widget-timer-menu-hide = Amaga el temporitzador
+newtab-widget-timer-menu-learn-more = Més informació

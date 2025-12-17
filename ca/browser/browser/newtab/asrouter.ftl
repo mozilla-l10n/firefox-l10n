@@ -427,3 +427,5 @@ set-default-menu-message-simple-layout-title-variant = El { -brand-short-name } 
 set-default-menu-message-row-layout-title = Feu que el { -brand-short-name } sigui el vostre navegador principal
 set-default-menu-message-row-layout-title-variant = Feu que el { -brand-short-name } sigui el navegador per defecte
 set-default-menu-message-row-layout-subtitle = Obteniu velocitat, seguretat i privadesa cada cop que navegueu.
+set-default-menu-message-primary-button = Estableix com a predeterminat
+set-default-menu-message-primary-button-variant = Estableix com a navegador principal
