@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = 由於不是多欄容器，<strong>{ $prop
 inactive-css-column-span = 由於不在多欄容器中，<strong>{ $property }</strong> 對此元素沒有 span 效果。
 inactive-css-not-grid-or-flex-item = 由於不是 Flex 或 Grid 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = 由於這個元素不是 grid 或 flex 項目，也不是絕對定位元素，<strong>{ $property }</strong> 對其沒有影響。
+inactive-css-not-grid-or-absolutely-positioned-item = 由於這個元素不是 grid 元素，也不是絕對定位元素，<strong>{ $property }</strong> 對其沒有影響。
 inactive-css-not-grid-item = 由於不是 Grid 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-container = 由於不是 Grid 容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-flex-item = 由於不是 Flex 項目，<strong>{ $property }</strong> 對此元素沒有影響。
@@ -64,6 +65,7 @@ inactive-css-ruby-element = 由於此元素是 ruby 元素，<strong>{ $property
 
 inactive-css-highlight-pseudo-elements-not-supported = 強調的 pseudo-elements 不支援 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 偽元素不支援 <strong>{ $property }</strong>。
+inactive-css-at-position-try-not-supported = <strong>@position-try</strong> 規則不支援 <strong>{ $property }</strong>。
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = 由於行數超過 { $lineCount } 行，<strong>{ $property }</strong> 對此元素沒有影響。

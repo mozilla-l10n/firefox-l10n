@@ -832,6 +832,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = 隱私瀏覽視窗中的預設搜尋引擎
+search-suggestions-header-2 =
+    .label = 搜尋引擎建議
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -917,6 +919,9 @@ sync-signedout-description2 = 在您所有裝置間同步書籤、歷史紀錄�
 sync-signedout-account-signin3 =
     .label = 登入進行同步…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = 登入您的帳號後即可開始同步
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -968,7 +973,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = 同步：開啟
+prefs-syncing-on-2 =
+    .label = 已開啟同步
 prefs-syncing-off = 同步：關閉
+prefs-syncing-off-2 =
+    .label = 已關閉同步
+    .description = 開啟同步後，即可在您的所有裝置中有相同的書籤、密碼、瀏覽紀錄與更多資訊。
 prefs-sync-turn-on-syncing =
     .label = 開啟同步…
     .accesskey = s
@@ -1011,6 +1021,9 @@ sync-currently-syncing-addons = 附加元件
 sync-currently-syncing-settings = 選項
 sync-manage-options =
     .label = 管理同步…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = 管理要同步的資料
     .accesskey = M
 sync-change-options =
     .label = 修改…
@@ -1271,6 +1284,7 @@ autofill-payment-methods-add-button = 新增付款方式
 payments-list-header =
     .label = 付款方式
 payments-list-item-label = <strong>付款方式</strong>
+payments-delete-payment-prompt-title = 要刪除這筆付款方式嗎？
 payments-delete-payment-prompt-confirm-button = 刪除
 payments-delete-payment-prompt-cancel-button = 取消
 payments-remove-payment-prompt-title = 要移除這筆付款方式嗎？
@@ -1291,6 +1305,19 @@ addreses-delete-address-button-label =
     .aria-label = 刪除
 addreses-edit-address-button-label =
     .aria-label = 編輯
+addresses-delete-address-prompt-title = 要刪除這筆地址嗎？
+addresses-delete-address-prompt-confirm-button = 刪除
+addresses-delete-address-prompt-cancel-button = 取消
+autofill-addresses-add-button = 新增地址
+autofill-addresses-manage-addresses-title =
+    .heading = 管理地址與更多資訊
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1485,6 +1512,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快速操作
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = 最近搜尋內容
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = 熱門搜尋建議
+    .accesskey = t
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-locbar-showrecentsearches-option =
     .label = 顯示近期搜尋項目
