@@ -62,3 +62,9 @@ safeb-blocked-harmful-page-learn-more = Læs mere om beskyttelse mod phishing og
 safeb-palm-notdeceptive =
     .label = Dette er ikke et vildledende websted…
     .accesskey = v
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc3-override = <strong>Hvad kan du gøre?</strong>
