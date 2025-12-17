@@ -1007,7 +1007,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronizacija: ZAŠALTOWANA
+prefs-syncing-on-2 =
+    .label = Synchronizacija jo ZAŠALTOWANA
 prefs-syncing-off = Synchronizacija: WUŠALTOWANA
+prefs-syncing-off-2 =
+    .label = Synchronizacija jo WUŠALTOWANA
+    .description = Zmóžniśo synchronizaciju, aby swóje cytańske znamjenja, gronidła, historiju a wěcej na kuždem rěźe dostał.
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžniś…
     .accesskey = S
@@ -1050,6 +1055,9 @@ sync-currently-syncing-addons = Dodanki
 sync-currently-syncing-settings = Nastajenja
 sync-manage-options =
     .label = Synchronizaciju zastojaś…
+    .accesskey = S
+sync-manage-options-2 =
+    .label = Synchronizěrowane daty zastojaś
     .accesskey = S
 sync-change-options =
     .label = Změniś…
