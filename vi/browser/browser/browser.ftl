@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Đánh dấu trang này ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Chế độ chia cửa sổ
+    .aria-label = Chế độ chia cửa sổ
 
 ## Page Action Context Menu
 
@@ -831,6 +834,9 @@ urlbar-result-menu-dont-show-market =
     .label = Không hiển thị đề xuất thị trường
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Cảm ơn phản hồi của bạn. Bạn sẽ không thấy đề xuất về thị trường nữa.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Gợi ý về thị trường chứng khoán
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Cảm ơn phản hồi của bạn. Bạn sẽ không thấy những đề xuất này nữa.
@@ -1500,3 +1506,4 @@ trustpanel-fingerprinter-list-header = Những trang web này đang cố gắng 
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } đã chặn { $count } trình đào tiền điện tử
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } trình đào tiền điện tử
 trustpanel-cryptominer-tab-list-header = Các trang web này đang cố gắng đào tiền điện tử:
+trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> trình theo dõi bị chặn trên trang web này

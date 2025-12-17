@@ -329,8 +329,8 @@ preferences-web-appearance-override-warning3 =
 preferences-web-appearance-link =
     .label = Gérez les thèmes de { -brand-short-name } depuis la section Extensions et thèmes
 preferences-contrast-control-group =
-    .label = Contraste de sites web
-    .description = Les sites web utilisent une grande variété de couleurs d’avant plan et d’arrière-plan. Pour un contraste cohérent, vous pouvez utiliser les mêmes couleurs d’un site à l’autre.
+    .label = Contraste des sites web
+    .description = Les sites web utilisent beaucoup de couleurs différentes pour le premier plan et l’arrière-plan. Pour un contraste cohérent, vous pouvez utiliser les mêmes couleurs d’un site à l’autre.
 preferences-contrast-control-radio-group =
     .label = Remplacer les couleurs
 # This can appear when using windows HCM or "Override colors: always" without
