@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = הגדרות בקרת הניגודיות שלך דורסות את מראה האתר.
 preferences-web-appearance-link =
     .label = ניהול ערכות נושא של { -brand-short-name } בהרחבות וערכות נושא
+preferences-contrast-control-group =
+    .label = ניגודיות של אתרי אינטרנט
+    .description = אתרים משתמשים במגוון של צבעי חזית וצבעי רקע. לקבלת ניגודיות עקבית, ניתן להשתמש באותם הצבעים בכל האתרים.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = בחירות הצבעים שלך דורסות את מראה האתר. <a data-l10n-name="colors-link">ניהול צבעים</a>
@@ -833,6 +836,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = הצגת הצעות חיפוש בתוצאות שורת הכתובת
     .accesskey = ח
+search-show-suggestions-private-windows-2 =
+    .label = הצעות חיפוש בחלונות פרטיים
 search-suggestions-cant-show-2 =
     .message = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +849,8 @@ search-separate-default-engine-2 =
     .accesskey = ח
 search-separate-default-engine-dropdown =
     .aria-label = מנוע חיפוש ברירת מחדל בחלונות פרטיים
+search-suggestions-header-2 =
+    .label = הצעות מנועי חיפוש
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +936,9 @@ sync-signedout-description2 = סנכרון הסימניות, ההיסטוריה,
 sync-signedout-account-signin3 =
     .label = כניסה כדי לסנכרן
     .accesskey = ס
+sync-signedout-account-signin-4 =
+    .label = יש להיכנס לחשבון שלך כדי להתחיל בסנכרון
+    .accesskey = ה
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +990,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = סנכרון: פעיל
+prefs-syncing-on-2 =
+    .label = הסנכרון פעיל
 prefs-syncing-off = סנכרון: כבוי
+prefs-syncing-off-2 =
+    .label = הסנכרון כבוי
+    .description = ניתן להפעיל את הסנכרון כדי לקבל את הסימניות, הססמאות, ההיסטוריה שלך ועוד בכל מכשיר.
 prefs-sync-turn-on-syncing =
     .label = הפעלת סנכרון…
     .accesskey = ס
@@ -1023,6 +1038,9 @@ sync-currently-syncing-addons = תוספות
 sync-currently-syncing-settings = הגדרות
 sync-manage-options =
     .label = ניהול סנכרון…
+    .accesskey = נ
+sync-manage-options-2 =
+    .label = ניהול נתונים מסונכרנים
     .accesskey = נ
 sync-change-options =
     .label = שינוי…
@@ -1283,6 +1301,9 @@ autofill-payment-methods-add-button = הוספת אמצעי תשלום חדש
 payments-list-header =
     .label = אמצעי תשלום
 payments-list-item-label = <strong>אמצעי תשלום</strong>
+payments-delete-payment-prompt-title = למחוק את אמצעי התשלום הזה?
+payments-delete-payment-prompt-confirm-button = מחיקה
+payments-delete-payment-prompt-cancel-button = ביטול
 payments-remove-payment-prompt-title = להסיר את אמצעי התשלום הזה?
 payments-remove-payment-prompt-confirm-button = הסרה
 payments-remove-payment-prompt-cancel-button = ביטול
@@ -1295,6 +1316,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = ניהול כתובות ועוד
     .accesskey = נ
+addresses-list-header =
+    .label = כתובות
+addreses-delete-address-button-label =
+    .aria-label = מחיקה
+addreses-edit-address-button-label =
+    .aria-label = עריכה
+addresses-delete-address-prompt-title = למחוק את הכתובת הזאת?
+addresses-delete-address-prompt-confirm-button = מחיקה
+addresses-delete-address-prompt-cancel-button = ביטול
+autofill-addresses-add-button = הוספת כתובת חדשה
+autofill-addresses-manage-addresses-title =
+    .heading = ניהול כתובות ועוד
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1529,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = פעולות מהירות
     .accesskey = פ
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = חיפושים אחרונים
+    .accesskey = ח
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = הצעות חיפוש פופולריות
+    .accesskey = ה
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 addressbar-locbar-showrecentsearches-option =
     .label = הצגת חיפושים אחרונים
