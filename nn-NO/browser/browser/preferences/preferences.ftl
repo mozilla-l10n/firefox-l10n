@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrastinnstillingane dine overstyrer utsjånaden til nettstaden.
 preferences-web-appearance-link =
     .label = Handsam { -brand-short-name }-tema i Utvidingar og tema
+preferences-contrast-control-group =
+    .label = Nettstadkontrast
+    .description = Nettstadar brukar ulike forgrunns- og bakgrunnsfargar. For jamn kontrast kan du bruke dei same fargane på tvers av nettstadar.
 preferences-contrast-control-radio-group =
     .label = Overstyr fargar
 # This can appear when using windows HCM or "Override colors: always" without
@@ -835,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Vis søkjeforslag i adresselinja
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Vis søkjeforslag før nettlesarhistorikk i adressefeltresultata
+search-show-suggestions-private-windows-2 =
+    .label = Søkjeforslag i private vindauge
 search-suggestions-cant-show-2 =
     .message = Søkjeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
 # With this option enabled, while on a SERP, the URL normally displayed in the

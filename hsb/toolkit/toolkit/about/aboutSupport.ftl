@@ -133,6 +133,7 @@ place-database-stats-efficiency-perc = Eficienca (%)
 place-database-stats-sequentiality-perc = Sekwencialnosć (%)
 place-database-integrity = Integrita
 place-database-verify-integrity = Integritu přepruwować
+place-database-last-idle-maintenance-data = Datum poslednjeho wothladowanja při njeaktiwnosći
 a11y-title = Bjezbarjernosć
 a11y-activated = Aktiwizowany
 a11y-force-disabled = Bjezbarjernosći zadźěwać
