@@ -39,3 +39,4 @@ about-translations-translating-message = Traduzione…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Inverti le lingue
+
