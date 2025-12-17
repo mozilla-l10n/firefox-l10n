@@ -334,6 +334,11 @@ preferences-web-appearance-override-warning3 =
     .message = Waše nastajenja kontrastoweje kontrole napohlad websydła přepisuja.
 preferences-web-appearance-link =
     .label = Drasty { -brand-short-name } w Rozšěrjenja a drasty rjadować
+preferences-contrast-control-group =
+    .label = Kontrast websydła
+    .description = Websydła wjele prědkowych a pozadkowych barbow wužiwaja. Z konsistentny kontrast móžeće samsne barby na rozdźělnych websydłach wužiwać.
+preferences-contrast-control-radio-group =
+    .label = Barby přepisać
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Waše barbowe wuběry napohlad websydła přepisuja. <a data-l10n-name="colors-link">Barby rjadować</a>
@@ -948,6 +953,9 @@ sync-signedout-description2 = Synchronizujće swoje zapołožki, historiju, rajt
 sync-signedout-account-signin3 =
     .label = Pola Sync přizjewić…
     .accesskey = c
+sync-signedout-account-signin-4 =
+    .label = Přizjewće so pola swojeho konta, zo byšće synchronizaciju započał
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download

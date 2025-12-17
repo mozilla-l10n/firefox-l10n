@@ -65,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> wuskutk na tutón ele
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> so za pseudoelementy wuzběhnjenja njepodpěruje.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudo-elementy ::cue njepodpěruje.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> so w prawidłach <strong>@position-try</strong> podpěruje.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
