@@ -138,6 +138,7 @@ place-database-integrity = Integrität
 place-database-verify-integrity = Integrität überprüfen
 # Vacuum refers to a type of database maintenance process
 place-database-last-vacuum-date = Datum der letzten Bereinigung
+place-database-last-integrity-corruption-date = Datum der letzten Integritätsverletzung
 a11y-title = Barrierefreiheit
 a11y-activated = Aktiviert
 a11y-force-disabled = Barrierefreiheit verhindern

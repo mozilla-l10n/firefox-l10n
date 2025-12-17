@@ -2,8 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The title of the about:translations page.
+about-translations-title = Übersetzungen von { -brand-short-name }
+# The brief description of the Translations functionality on the page.
+about-translations-description = Sofortige Übersetzungen, die Ihre Privatsphäre respektieren.
 about-translations-learn-more-link = Weitere Informationen
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Übersetzung ist auf diesem Gerät nicht verfügbar.
+    .message = Versuchen Sie es auf einem anderen Gerät.
 about-translations-unsupported-info-button = Weitere Informationen
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Sprachen konnten nicht geladen werden.
+    .message = Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 about-translations-language-load-error-button = Erneut versuchen
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
