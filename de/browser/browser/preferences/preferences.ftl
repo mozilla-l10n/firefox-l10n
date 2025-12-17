@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = Ihre Kontrast-Einstellungen überschreiben das Erscheinungsbild von Websites.
 preferences-web-appearance-link =
     .label = Verwalten Sie { -brand-short-name }-Themes in Erweiterungen & Themes.
+preferences-contrast-control-radio-group =
+    .label = Farben überschreiben
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ihre Farbauswahl überschreibt das Erscheinungsbild von Websites. <a data-l10n-name="colors-link">Farben verwalten</a>
@@ -833,6 +835,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Suchvorschläge in Adressleiste anzeigen
     .accesskey = v
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = In Adressleiste Suchvorschläge anzeigen, bevor Sie die Chronik ansehen
+search-show-suggestions-private-windows-2 =
+    .label = Suchvorschläge in privaten Fenstern
 search-suggestions-cant-show-2 =
     .message = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +855,8 @@ search-separate-default-engine-2 =
     .accesskey = V
 search-separate-default-engine-dropdown =
     .aria-label = Standardsuchmaschine in privaten Fenstern
+search-suggestions-header-2 =
+    .label = Suchmaschinen-Vorschläge
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

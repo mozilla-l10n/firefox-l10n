@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Удалить { $provider }
 genai-menu-remove-sidebar =
     .label = Удалить с боковой панели
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Спросить у { $provider }
 genai-menu-new-badge = Новый
 genai-menu-summarize-page = Резюме по странице
 genai-input-ask-generic =
@@ -229,6 +232,8 @@ link-preview-reading-time =
         [few] { $range } минуты чтения
        *[many] { $range } минут чтения
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } не может предпросмотреть эту ссылку
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Мы не можем предпросмотреть эту ссылку
 # Text for the link to visit the original URL when in error state

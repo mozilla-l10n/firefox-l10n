@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = 效率 (%)
 place-database-stats-sequentiality-perc = 順序性 (%)
 place-database-integrity = 資料完整
 place-database-verify-integrity = 確認資料完整
+place-database-last-idle-maintenance-data = 最後一次系統閒置自動維護日期
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = 最後一次資料庫 Vacuum 整理日期
+place-database-last-integrity-corruption-date = 最後一次完整性檢查日期
 a11y-title = 輔助功能
 a11y-activated = 已啟用
 a11y-force-disabled = 已強迫停用輔助功能
