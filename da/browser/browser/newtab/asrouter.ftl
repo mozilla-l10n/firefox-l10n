@@ -433,3 +433,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } er 
 set-default-menu-message-row-layout-title = Gør { -brand-short-name } til din foretrukne browser
 set-default-menu-message-row-layout-title-variant = Gør { -brand-short-name } til din standard-browser
 set-default-menu-message-row-layout-subtitle = Altid høj hastighed, sikkerhed og beskyttelse af dit privatliv.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Hav { -brand-short-name } inden for rækkevidde - gør den til din standard-browser og behold den i din Dock.
+       *[other] Hav { -brand-short-name } inden for rækkevidde - gør den til din standard-browser og behold den i din proceslinje.
+    }
+set-default-menu-message-primary-button = Brug som standard
+set-default-menu-message-primary-button-variant = Angiv som foretrukken browser

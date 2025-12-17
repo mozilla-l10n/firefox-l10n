@@ -844,6 +844,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option-2 =
     .label = Tojehechauka jehekaha kundahára rembiasakue mboyve kundaharape rendápe
+search-show-suggestions-private-windows-2 =
+    .label = Ehechauka jehekaha ovetã ñemiguávape
 search-suggestions-cant-show-2 =
     .message = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -855,6 +857,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Jehekaha ypyguáva ovetãita ñemíme
+search-suggestions-header-2 =
+    .label = Je’e jehekaha mongu’eha rehegua
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -940,6 +944,9 @@ sync-signedout-description2 = Embojuehe nde rechaukaha, tembiasakue, tendayke, �
 sync-signedout-account-signin3 =
     .label = Eike embojuehe hag̃ua…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Eike ne mba’etépe ha eñepyrũ embojuehe
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -991,6 +998,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Ñembojuehe: ON
+prefs-syncing-on-2 =
+    .label = Ñembojuehe HENDY
 prefs-syncing-off = Ñembojuehe: OFF
 prefs-sync-turn-on-syncing =
     .label = Emyandy ñembojuehe…
@@ -1018,6 +1027,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Oñembojuehepa ko’ã kyta opavavete ne mba’e’oka omba’apóvape:
+sync-syncing-across-devices-heading-2 = Mba’ekuaarã mbojuehepyre mba’e’okaita pa’ũme
 sync-currently-syncing-bookmarks = Techaukaha
 sync-currently-syncing-history = Tembiasakue
 sync-currently-syncing-tabs = Tendayke ijurujáva
