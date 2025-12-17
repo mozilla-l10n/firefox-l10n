@@ -90,6 +90,8 @@ fp-certerror-bad-domain-what-can-you-do-body = Snaź nic, dokulaž to jo nejsker
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } was wó toś tom sedle warnujo, dokulaž certifikat, kótaryž jo se stajił za { $hostname } k dispoziciji, jo se wudał wót awtority certificěrowanja, kótaraž wěcej njejo dowěry gódna.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Nejskerjej nic, dokulaž to jo nejskerjej problem ze sedłom samym. Móžośo se pla wobsejźarja websedła wobgóniś, aby zgónił, lěc na problemje źěła.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Dajo problem z certifikatom sedła. Jo móžno, až złosny akter wopytujo, sedło imitěrowaś. Sedła certifikaty wužywaju, kótarež su se wudali wót certifikowateje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž njamóžomy k wěsći daś, chtož jo wudał certifikat, jo samosigněrowany abo sedło mjazycertifikaty njesćelo, kótarym dowěrjamy.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -126,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Nejskerjej nic, dokulaž jo wě
 fp-learn-more-about-secure-connection-failures = Zgóńśo wěcej wó wěstych zwiskowych wótłamanjach
 fp-learn-more-about-cert-issues = Zgóńśo wěcej wó toś tych družynach certifikatowych problemow
 fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na cas póśěgowanych zmólkow
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až pódany certifikat njejo płaśiwy až do { DATETIME($date, timeStyle: "short") } dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Zeger wašogo rěda jo na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } stajony. Jolic to jo korektne, ma wěstotny problem nejskerjej ze sedłom samym cyniś. Jolic jo wopacny, móžośo to w swójich systemowych nastajenjach změniś.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
