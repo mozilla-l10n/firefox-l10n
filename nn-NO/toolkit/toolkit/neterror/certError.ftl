@@ -128,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Truleg ikkje mykje, det er sann
 fp-learn-more-about-secure-connection-failures = Les meir om feil med trygg tilkopling
 fp-learn-more-about-cert-issues = Les meir om slike sertifikatproblem
 fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelaterte feil
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet ikkje er gyldig før { DATETIME($date, timestyle: "short") } den { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Klokka på eininga di er sett til { DATETIME($date, timestyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dersom dette er rett, ligg tryggingsproblemet sannsynlegvis hos sjølve nettstaden. Dersom det er feil, kan du endre det i systeminnstillingane på eininga di.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
