@@ -7,7 +7,15 @@ about-translations-title = Přełožki { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Hnydomne přełožki, kotrež wašu priwatnosć respektuja.
 about-translations-learn-more-link = Dalše informacije
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Přełožk na tutym graće k dispoziciji njeje.
+    .message = Spytajće druhi grat wužiwać.
 about-translations-unsupported-info-button = Dalše informacije
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Rěče njedadźa so začitać.
+    .message = Přepruwujće swój internetny zwisk a spytajće hišće raz.
 about-translations-language-load-error-button = Hišće raz spytać
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
@@ -27,3 +35,7 @@ about-translations-output-placeholder =
 about-translations-select = Rěč wubrać
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = Přełožuje so…
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = Rěče změnić

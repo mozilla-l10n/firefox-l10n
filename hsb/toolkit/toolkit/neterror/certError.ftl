@@ -86,6 +86,10 @@ fp-certerror-revoked-what-can-you-do-body = Najskerje ničo, dokelž to je najsk
 fp-certerror-bad-domain-why-dangerous-body = Sydło je tak konfigurowane, zo jenož wěste zwiski dowoluje, ale je problem z certifikatom sydła. Je móžno, zo złowólny akter pospytuje, sydło imitować. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. { -brand-short-name } tutomu sydłu njedowěrja, dokelž jeho certifikat za { $hostname } płaćiwy njeje. Certifikat je jenož płaćiwy za: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Snano ničo, dokelž to je najskerje problem ze sydłom samym. Sydła certifikaty wužiwaja, kotrež su so wot certifikowanišća wudali, zo bychu dopokazali, zo wone woprawdźe te su, za kotrež so wudawaja. Ale jeli sće w syći předewzaća, waš team pomocy snano dalše informacije ma. Jeli antiwirusowu software wužiwaće, spytajće za potencielnymi konfliktami abo znatymi problemami pytać.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } je warnowanje wo tutym sydle, dokelž certifikat, kotryž je so za { $hostname } k dispoziciji stajił, kotryž je so wot certifikowanskeje awtority wudał, kotraž hižo dowěry hódna njeje.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-untrusted-issuer-what-can-you-do-body = Najskerje ničo, dokelž to je najskerje problem ze sydłom samym. Móžeće so pola wobsedźerja websydła wobhonić, zo byšće zhonił, hač na problemje dźěła.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
@@ -124,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Najskerje ničo, dokelž je pra
 fp-learn-more-about-secure-connection-failures = Zhońće wjace wo wěstych zwiskowych přetorhnjenjach
 fp-learn-more-about-cert-issues = Zhońće wjace wo tutych družinach certifikatowych problemow
 fp-learn-more-about-time-related-errors = Zhońće wjace wo rozrisowanju na čas poćahowanych zmylkow
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } tutomu sydłu njedowěrja, dokelž so zda, zo podaty certifikat hač do { DATETIME($date, timeStyle: "short") } dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } płaćiwy njeje.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Časnik wašeho grata je na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } stajeny. Jeli to je korektne, ma wěstotny problem najskerje ze sydłom samym činić. Jeli je wopačny, móžeće to w swojich systemowych nastajenjach změnić.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
