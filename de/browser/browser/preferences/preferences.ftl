@@ -1296,6 +1296,9 @@ autofill-payment-methods-add-button = Neue Zahlungsmethode hinzufügen
 payments-list-header =
     .label = Zahlungsmethoden
 payments-list-item-label = <strong>Zahlungmethoden</strong>
+payments-delete-payment-prompt-title = Diese Zahlungsmethode löschen?
+payments-delete-payment-prompt-confirm-button = Löschen
+payments-delete-payment-prompt-cancel-button = Abbrechen
 payments-remove-payment-prompt-title = Diese Zahlungsmethode entfernen?
 payments-remove-payment-prompt-confirm-button = Entfernen
 payments-remove-payment-prompt-cancel-button = Abbrechen
@@ -1308,6 +1311,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adressen und mehr verwalten
     .accesskey = m
+addresses-list-header =
+    .label = Adressen
+addreses-delete-address-button-label =
+    .aria-label = Löschen
+addreses-edit-address-button-label =
+    .aria-label = Bearbeiten
+addresses-delete-address-prompt-title = Diese Adresse löschen?
+addresses-delete-address-prompt-confirm-button = Löschen
+addresses-delete-address-prompt-cancel-button = Abbrechen
+autofill-addresses-add-button = Neue Adresse hinzufügen
+autofill-addresses-manage-addresses-title =
+    .heading = Adressen und mehr verwalten
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

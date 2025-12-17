@@ -122,6 +122,10 @@ fp-certerror-transparency-what-can-you-do-body = Wahrscheinlich nichts, da es wa
 fp-learn-more-about-secure-connection-failures = Weitere Informationen zu Fehlern bei sicheren Verbindungen
 fp-learn-more-about-cert-issues = Weitere Informationen über diese Art von Zertifikatsproblemen
 fp-learn-more-about-time-related-errors = Weitere Informationen über die Behebung von zeitbezogenen Fehlern
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Die Uhr Ihres Geräts ist eingestellt auf { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Wenn dies korrekt ist, liegt das Sicherheitsproblem wahrscheinlich bei der Website selbst. Wenn es falsch ist, können Sie es in den Systemeinstellungen Ihres Geräts ändern.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

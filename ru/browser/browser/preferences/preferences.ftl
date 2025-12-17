@@ -331,6 +331,11 @@ preferences-web-appearance-override-warning3 =
     .message = Ваши настройки контрастности переопределяют внешний вид сайтов.
 preferences-web-appearance-link =
     .label = Управляйте темами { -brand-short-name } в разделе «Расширения и темы»
+preferences-contrast-control-group =
+    .label = Контраст веб-сайта
+    .description = Веб-сайты используют различные цвета переднего плана и фона. Для обеспечения постоянного контраста вы можете использовать одни и те же цвета на разных веб-сайтах.
+preferences-contrast-control-radio-group =
+    .label = Переопределять цвета
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Выбранные вами цвета изменяют внешний вид сайтов. <a data-l10n-name="colors-link">Управлять цветами</a>
@@ -837,6 +842,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Отображать поисковые предложения при использовании адресной строки
     .accesskey = ж
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Отображать поисковые предложения перед историей посещений в результатах адресной строки
+search-show-suggestions-private-windows-2 =
+    .label = Поисковые предложения в приватных окнах
 search-suggestions-cant-show-2 =
     .message = При использовании адресной строки поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -848,6 +862,8 @@ search-separate-default-engine-2 =
     .accesskey = Г
 search-separate-default-engine-dropdown =
     .aria-label = Поисковая система по умолчанию в приватных окнах
+search-suggestions-header-2 =
+    .label = Предложения поисковых систем
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -933,6 +949,9 @@ sync-signedout-description2 = Синхронизируйте свои закла
 sync-signedout-account-signin3 =
     .label = Войти в Синхронизацию…
     .accesskey = о
+sync-signedout-account-signin-4 =
+    .label = Войдите в свой аккаунт, чтобы начать синхронизацию
+    .accesskey = ш
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -984,7 +1003,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Синхронизация: ВКЛЮЧЕНА
+prefs-syncing-on-2 =
+    .label = Синхронизация ВКЛЮЧЕНА
 prefs-syncing-off = Синхронизация: ОТКЛЮЧЕНА
+prefs-syncing-off-2 =
+    .label = Синхронизация ОТКЛЮЧЕНА
+    .description = Включите синхронизацию, чтобы получить доступ к вашим закладкам, паролям, истории и пр. на любом устройстве.
 prefs-sync-turn-on-syncing =
     .label = Включить синхронизацию…
     .accesskey = ю
@@ -1027,6 +1051,9 @@ sync-currently-syncing-addons = Дополнения
 sync-currently-syncing-settings = Настройки
 sync-manage-options =
     .label = Управление синхронизацией…
+    .accesskey = Ь
+sync-manage-options-2 =
+    .label = Управление синхронизированными данными
     .accesskey = Ь
 sync-change-options =
     .label = Изменить…
@@ -1287,6 +1314,9 @@ autofill-payment-methods-add-button = Добавить новый способ �
 payments-list-header =
     .label = Способы оплаты
 payments-list-item-label = <strong>Способы оплаты</strong>
+payments-delete-payment-prompt-title = Удалить этот способ оплаты?
+payments-delete-payment-prompt-confirm-button = Удалить
+payments-delete-payment-prompt-cancel-button = Отмена
 payments-remove-payment-prompt-title = Удалить этот способ оплаты?
 payments-remove-payment-prompt-confirm-button = Удалить
 payments-remove-payment-prompt-cancel-button = Отмена
@@ -1299,6 +1329,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Управление адресами и другим
     .accesskey = Ь
+addresses-list-header =
+    .label = Адреса
+addreses-delete-address-button-label =
+    .aria-label = Удалить
+addreses-edit-address-button-label =
+    .aria-label = Изменить
+addresses-delete-address-prompt-title = Удалить этот адрес?
+addresses-delete-address-prompt-confirm-button = Удалить
+addresses-delete-address-prompt-cancel-button = Отмена
+autofill-addresses-add-button = Добавить новый адрес
+autofill-addresses-manage-addresses-title =
+    .heading = Управление адресами и пр.
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1493,6 +1542,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Быстрые действия
     .accesskey = ы
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Недавние запросы
+    .accesskey = к
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Популярные поисковые предложения
+    .accesskey = е
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-locbar-showrecentsearches-option =
     .label = Показать недавние поисковые запросы
