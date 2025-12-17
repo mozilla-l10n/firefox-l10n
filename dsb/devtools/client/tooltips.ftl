@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong> njama efekt
 inactive-css-column-span = <strong>{ $property }</strong> na toś ten element wopśimujuce wustatkowanje njama, dokulaž njejo we wěcejsłupikojtem kontejnerje.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo daniž zapisk grid daniž zapisk flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo daniž element kśidna daniž element flex, a daniž absolutnje pozicioněrowany element.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo element kśidna, a daniž absolutnje pozicioněrowany element.
 inactive-css-not-grid-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo zapisk grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo kontejner grid.
 inactive-css-not-flex-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo zapisk flex.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje n
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> se za pseudoelementy wuzwignjenja njepódpěra.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::cue njepódpěra.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> se w pšawidłach <strong>@position-try</strong> pódpěra.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -88,6 +90,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Wopytajśo <
 inactive-css-not-multicol-container-fix = Wopytajśo pak <strong>column-count</strong> pak <strong>column-width</strong> pśidaś. { learn-more }
 inactive-css-column-span-fix = Wopytajśo jadnomu z jeje pjerwjejšnych elementow <strong>column-count</strong> abo <strong>column-width</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Wopytajśo elementoju <strong>position:absolute</strong> pśidaś, abo nadrědowanemu elementoju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Wopytajśo elementoju  <strong>position:absolute</strong> pśidaś, abo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Wopytajśo nadrědowanemu elementoju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
 inactive-css-not-grid-item-fix-2 = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrědowanemu elementoju pśidaś. { learn-more }
 inactive-css-not-grid-container-fix = Wopytajśo <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pśidaś. { learn-more }
@@ -141,3 +144,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Dalšne infor
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Toś ten selektor njewobgranicowany <strong>:has()</strong> wužywa, kótaryž móžo pómały byś
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Pśiswójźbne selektory slězy <strong>:scope</strong> njebudu nigda nicomu wótpowědowaś

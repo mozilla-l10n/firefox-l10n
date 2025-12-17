@@ -1318,6 +1318,9 @@ autofill-payment-methods-add-button = Nowu płaśeńsku metodu pśidaś
 payments-list-header =
     .label = Płaśeńske metody
 payments-list-item-label = <strong>Płaśeńske metody</strong>
+payments-delete-payment-prompt-title = Toś tu płaśeńsku metodu lašowaś?
+payments-delete-payment-prompt-confirm-button = Lašowaś
+payments-delete-payment-prompt-cancel-button = Pśetergnuś
 payments-remove-payment-prompt-title = Toś tu płaśeńsku metodu wótwónoźeś?
 payments-remove-payment-prompt-confirm-button = Wótwónoźeś
 payments-remove-payment-prompt-cancel-button = Pśetergnuś
@@ -1330,6 +1333,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adrese a wěcej zastojaś
     .accesskey = z
+addresses-list-header =
+    .label = Adrese
+addreses-delete-address-button-label =
+    .aria-label = Lašowaś
+addreses-edit-address-button-label =
+    .aria-label = Wobźěłaś
+addresses-delete-address-prompt-title = Toś tu adresu lašowaś?
+addresses-delete-address-prompt-confirm-button = Lašowaś
+addresses-delete-address-prompt-cancel-button = Pśetergnuś
+autofill-addresses-add-button = Nowu adresu pśidaś
+autofill-addresses-manage-addresses-title =
+    .heading = Adrese a wěcej zastojaś
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1524,6 +1546,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Malsne akcije
     .accesskey = M
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nejnowše pytanja
+    .accesskey = n
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trendowe pytańske naraźenja
+    .accesskey = T
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 addressbar-locbar-showrecentsearches-option =
     .label = Nejnowše pytanja pokazaś
