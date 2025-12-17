@@ -858,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard søkjemotor i private vindauge
+search-suggestions-header-2 =
+    .label = Søkjemotorforslag
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -943,6 +945,9 @@ sync-signedout-description2 = Synkroniser bokmerke, historikk, faner, passord, u
 sync-signedout-account-signin3 =
     .label = Logg in for å synkronisere…
     .accesskey = L
+sync-signedout-account-signin-4 =
+    .label = Logg på kontoen din for å starte synkroniseringa
+    .accesskey = o
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -997,6 +1002,9 @@ prefs-syncing-on = Synkronisering: PÅ
 prefs-syncing-on-2 =
     .label = Synkronisering er PÅ
 prefs-syncing-off = Synkronisering: AV
+prefs-syncing-off-2 =
+    .label = Synkronisering er AV
+    .description = Slå på synkronisering for å få bokmerka, passorda, historikken, og meir, tilgjengeleg på alle einingane dine.
 prefs-sync-turn-on-syncing =
     .label = Slå på synkronisering…
     .accesskey = S
@@ -1039,6 +1047,9 @@ sync-currently-syncing-addons = Tillegg
 sync-currently-syncing-settings = Innstillingar
 sync-manage-options =
     .label = Handsam synkronisering…
+    .accesskey = H
+sync-manage-options-2 =
+    .label = Handsam synkroniserte data
     .accesskey = H
 sync-change-options =
     .label = Endre…
@@ -1299,6 +1310,7 @@ autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåtar
 payments-list-item-label = <strong>Betalingsmåtar</strong>
+payments-delete-payment-prompt-title = Slette denne betalingsmåten?
 payments-delete-payment-prompt-confirm-button = Slett
 payments-delete-payment-prompt-cancel-button = Avbryt
 payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
@@ -1325,6 +1337,13 @@ addresses-delete-address-prompt-cancel-button = Avbryt
 autofill-addresses-add-button = Legg til ny adresse
 autofill-addresses-manage-addresses-title =
     .heading = Handsam adresser, og meir
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1519,6 +1538,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snøgghandlingar
     .accesskey = S
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nylege søk
+    .accesskey = y
 addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylege søk
