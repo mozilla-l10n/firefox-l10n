@@ -571,8 +571,13 @@ update-in-progress-cancel-button = &Ku’ejey
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name } ñepytyvõ
+    .description = Emoĩporã apañuái térã ere ne remiandu tekoha ndive.
 support-get-help =
     .label = Eipota ñepytyvõ
+support-share-ideas =
+    .label = Emoherakuã ãroky ha ñe’ẽngue
 
 ## General Section - Performance
 
