@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Your contrast control settings are overriding web site appearance.
 preferences-web-appearance-link =
     .label = Manage { -brand-short-name } themes in Extensions & Themes
+preferences-contrast-control-group =
+    .label = Web site contrast
+    .description = Web sites use a variety of foreground and background colours. For consistent contrast, you can use the same colours across web sites.
+preferences-contrast-control-radio-group =
+    .label = Override colours
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Your colour selections are overriding web site appearance. <a data-l10n-name="colors-link">Manage colours</a>
@@ -833,6 +838,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Show search suggestions in address bar results
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Show search suggestions before browsing history in address bar results
+search-show-suggestions-private-windows-2 =
+    .label = Search suggestions in private windows
 search-suggestions-cant-show-2 =
     .message = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -844,6 +858,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Default search engine in private windows
+search-suggestions-header-2 =
+    .label = Search engine suggestions
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -929,6 +945,9 @@ sync-signedout-description2 = Synchronise your bookmarks, history, tabs, passwor
 sync-signedout-account-signin3 =
     .label = Sign in to sync…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Sign in to your account to start synchronising
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,7 +999,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Syncing: ON
+prefs-syncing-on-2 =
+    .label = Synchronisation is ON
 prefs-syncing-off = Syncing: OFF
+prefs-syncing-off-2 =
+    .label = Synchronisation is OFF
+    .description = Turn on synchronisation to get your your bookmarks, passwords, history and more on any device.
 prefs-sync-turn-on-syncing =
     .label = Turn on synchronisation…
     .accesskey = s
@@ -1023,6 +1047,9 @@ sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = Settings
 sync-manage-options =
     .label = Manage synchronisation…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = Manage synchronised data
     .accesskey = M
 sync-change-options =
     .label = Change…
@@ -1283,6 +1310,9 @@ autofill-payment-methods-add-button = Add new payment method
 payments-list-header =
     .label = Payment methods
 payments-list-item-label = <strong>Payment methods</strong>
+payments-delete-payment-prompt-title = Delete this payment method?
+payments-delete-payment-prompt-confirm-button = Delete
+payments-delete-payment-prompt-cancel-button = Cancel
 payments-remove-payment-prompt-title = Remove this payment method?
 payments-remove-payment-prompt-confirm-button = Remove
 payments-remove-payment-prompt-cancel-button = Cancel
@@ -1295,6 +1325,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Manage addresses and more
     .accesskey = M
+addresses-list-header =
+    .label = Addresses
+addreses-delete-address-button-label =
+    .aria-label = Delete
+addreses-edit-address-button-label =
+    .aria-label = Edit
+addresses-delete-address-prompt-title = Delete this address?
+addresses-delete-address-prompt-confirm-button = Delete
+addresses-delete-address-prompt-cancel-button = Cancel
+autofill-addresses-add-button = Add new address
+autofill-addresses-manage-addresses-title =
+    .heading = Manage addresses and more
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1489,6 +1538,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Quick actions
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Recent searches
+    .accesskey = R
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trending search suggestions
+    .accesskey = T
 addressbar-suggestions-settings = Change preferences for search engine suggestions
 addressbar-locbar-showrecentsearches-option =
     .label = Show recent searches
