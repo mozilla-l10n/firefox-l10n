@@ -160,6 +160,7 @@ sidebar-button-callout-title = Ehechauka tendayke reratee tenda yképe
 sidebar-button-callout-subtitle = Eiporu tenda yke votõ emyasãi hag̃ua mba’erupa ha ehecha umi tendayke reratee.
 sidebar-button-callout-vertical-tabs = Ehechauka hag̃ua ne rendayke, eiporavo votõ tenda ykegua tembiporu rendápe.
 sidebar-deprecation-callout-title = Tenda yke hekopyahupotáva
+sidebar-deprecation-callout-subtitle = Rombogue rohóvo pe tenda ykepegua reiporúva ko’ág̃a. Eiporu tenda yke hekopyahúva. Ipya’eve ha ome’ẽ ndéve jeike hetave tembiporúpe.
 sidebar-deprecation-cta-button = Eiporu ko’ág̃a
 
 ## Sidebar Vertical Tabs Strings

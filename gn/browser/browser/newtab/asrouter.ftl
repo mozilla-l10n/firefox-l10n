@@ -431,5 +431,7 @@ etp-strict-exceptions-infobar-not-now = Ani ko’ág̃a
 set-default-menu-message-simple-layout-title = { -brand-short-name } ndaha’éi kundahára ypykuéva
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ha’e ne kundahára eiporuvéva
 set-default-menu-message-row-layout-title = Ejapo { -brand-short-name }-gui kundahára eiporuvéva
+set-default-menu-message-row-layout-title-variant = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
+set-default-menu-message-row-layout-subtitle = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
 set-default-menu-message-primary-button = Eiporu ijypykuévarõ
 set-default-menu-message-primary-button-variant = Ereko kundahára eiporuvévarõ
