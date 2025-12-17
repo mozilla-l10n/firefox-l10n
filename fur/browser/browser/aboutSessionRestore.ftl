@@ -5,8 +5,8 @@
 restore-page-tab-title = Ripristine session
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Scuse, o ven fastidis cul ripristinament des pagjinis.
-restore-page-problem-desc = O ven vût problemis a ripristinâ la tô session di navigazion di prime. Selezione Ripristine session par tornâ a provâ.
+restore-page-error-title = Scuse, o vin fastidis cul ripristinament des pagjinis.
+restore-page-problem-desc = O vin vût problemis a ripristinâ la tô session di navigazion di prime. Selezione Ripristine session par tornâ a provâ.
 restore-page-try-this = No tu rivis ancjemò a ripristinâ la tô session? Cualchi volte une schede e cause chest probleme. Viôt lis schedis di prime, gjave il segn des schedis che no ti covente recuperâ e dopo ripristine.
 restore-page-hide-tabs = Plate schedis di prime
 restore-page-show-tabs = Viôt schedis di prime
