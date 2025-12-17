@@ -236,6 +236,8 @@ link-preview-reading-time =
        *[other] { $range } mjeńšin čitanskeho časa
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } njemóže přehlad za tutón wotkaz pokazać
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Njemóžemy přehlad za tutón wotkaz pokazać
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Wotkaz wopytać
