@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Emgoguete { $provider }
 genai-menu-remove-sidebar =
     .label = Embogue tenda ykegua
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Eporandu { $provider }-pe
 genai-menu-new-badge = Pyahu
 genai-menu-summarize-page = Emombyky kuatiarogue
 genai-input-ask-generic =
@@ -225,6 +228,8 @@ link-preview-reading-time =
         [one] { $range } aravo amoñe’ẽha
        *[other] { $range } aravokuéra amoñe’ẽha
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ndaikatúi ohecha ko juajuha
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Ndajarekói hecha ypy ko juajuha rehegua
 # Text for the link to visit the original URL when in error state
