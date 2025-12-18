@@ -850,6 +850,8 @@ search-separate-default-engine-2 =
     .accesskey = И
 search-separate-default-engine-dropdown =
     .aria-label = Низоми ҷустуҷӯии пешфарз дар равзанаҳои махфӣ
+search-suggestions-header-2 =
+    .label = Пешниҳодҳои низоми ҷустуҷӯӣ
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1029,6 +1031,9 @@ sync-currently-syncing-addons = Ҷузъҳои иловагӣ
 sync-currently-syncing-settings = Танзимот
 sync-manage-options =
     .label = Идоракунии ҳамоҳангсозӣ…
+    .accesskey = И
+sync-manage-options-2 =
+    .label = Идоракунии маълумоти ҳамоҳангшуда
     .accesskey = И
 sync-change-options =
     .label = Тағйир додан…
@@ -1289,6 +1294,7 @@ autofill-payment-methods-add-button = Илова кардани тарзи па�
 payments-list-header =
     .label = Тарзҳои пардохт
 payments-list-item-label = <strong>Тарзҳои пардохт</strong>
+payments-delete-payment-prompt-title = Ин тарзи пардохтро нест мекунед?
 payments-delete-payment-prompt-confirm-button = Нест кардан
 payments-delete-payment-prompt-cancel-button = Бекор кардан
 payments-remove-payment-prompt-title = Ин тарзи пардохтро тоза мекунед?
@@ -1312,6 +1318,16 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = Ин нишониро нест мекунед?
 addresses-delete-address-prompt-confirm-button = Нест кардан
 addresses-delete-address-prompt-cancel-button = Бекор кардан
+autofill-addresses-add-button = Илова кардани нишонии нав
+autofill-addresses-manage-addresses-title =
+    .heading = Идоракунии нишониҳо ва ғайра
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1506,6 +1522,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Амалҳои зуд
     .accesskey = А
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Ҷустуҷӯҳои охирин
+    .accesskey = Ҷ
 addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
 addressbar-locbar-showrecentsearches-option =
     .label = Намоиш додани ҷустуҷӯҳои охирин
