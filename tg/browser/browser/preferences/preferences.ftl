@@ -1289,6 +1289,7 @@ autofill-payment-methods-add-button = Илова кардани тарзи па�
 payments-list-header =
     .label = Тарзҳои пардохт
 payments-list-item-label = <strong>Тарзҳои пардохт</strong>
+payments-delete-payment-prompt-confirm-button = Нест кардан
 payments-remove-payment-prompt-title = Ин тарзи пардохтро тоза мекунед?
 payments-remove-payment-prompt-confirm-button = Тоза кардан
 payments-remove-payment-prompt-cancel-button = Бекор кардан
