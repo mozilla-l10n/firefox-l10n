@@ -331,6 +331,11 @@ preferences-web-appearance-override-warning3 =
     .message = Vaše nastavenia kontrastu majú prednosť pred nastaveniami vzhľadu vo webovej stránke.
 preferences-web-appearance-link =
     .label = Témy vzhľadu { -brand-short-name(case: "gen") } môžete spravovať v okne Správcu doplnkov.
+preferences-contrast-control-group =
+    .label = Kontrast webových stránok
+    .description = Webové stránky používajú rôzne farby popredia a pozadia. Pre dosiahnutie konzistentného kontrastu môžete na všetkých webových stránkach použiť rovnaké farby.
+preferences-contrast-control-radio-group =
+    .label = Prepísať farby
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Váš výber farieb má prednosť pred vzhľadom webových stránok. <a data-l10n-name="colors-link">Spravovať farby</a>
@@ -837,6 +842,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Zobrazovať návrhy vyhľadávania vo výsledkoch panela s adresou
     .accesskey = a
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Zobrazovať návrhy vyhľadávania v paneli s adresou pred históriou prehliadania
+search-show-suggestions-private-windows-2 =
+    .label = Návrhy vyhľadávania v súkromnom prehliadaní
 search-suggestions-cant-show-2 =
     .message = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name(case: "acc") } nastavili tak, aby si nepamätal históriu.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -848,6 +862,8 @@ search-separate-default-engine-2 =
     .accesskey = h
 search-separate-default-engine-dropdown =
     .aria-label = Predvolený vyhľadávač v súkromných oknách
+search-suggestions-header-2 =
+    .label = Návrhy z vyhľadávačov
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -933,6 +949,9 @@ sync-signedout-description2 = Synchronizujte si svoje záložky, históriu, kart
 sync-signedout-account-signin3 =
     .label = Prihlásiť sa a synchronizovať…
     .accesskey = P
+sync-signedout-account-signin-4 =
+    .label = Prihláste sa do svojho účtu a spustite synchronizáciu
+    .accesskey = r
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -984,7 +1003,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronizácia je zapnutá
+prefs-syncing-on-2 =
+    .label = Synchronizácia je zapnutá
 prefs-syncing-off = Synchronizácia je vypnutá
+prefs-syncing-off-2 =
+    .label = Synchronizácia je vypnutá
+    .description = Zapnite synchronizáciu a získajte svoje záložky, heslá, históriu a ďalšie údaje na akomkoľvek zariadení.
 prefs-sync-turn-on-syncing =
     .label = Zapnúť synchronizáciu…
     .accesskey = Z
@@ -1028,6 +1052,9 @@ sync-currently-syncing-settings = Nastavenia
 sync-manage-options =
     .label = Spravovať synchronizáciu…
     .accesskey = S
+sync-manage-options-2 =
+    .label = Spravovať synchronizované údaje
+    .accesskey = r
 sync-change-options =
     .label = Zmeniť…
     .accesskey = Z
@@ -1287,6 +1314,9 @@ autofill-payment-methods-add-button = Pridať nový spôsob platby
 payments-list-header =
     .label = Spôsoby platby
 payments-list-item-label = <strong>Spôsoby platby</strong>
+payments-delete-payment-prompt-title = Odstrániť tento spôsob platby?
+payments-delete-payment-prompt-confirm-button = Odstrániť
+payments-delete-payment-prompt-cancel-button = Zrušiť
 payments-remove-payment-prompt-title = Odstrániť tento spôsob platby?
 payments-remove-payment-prompt-confirm-button = Odstrániť
 payments-remove-payment-prompt-cancel-button = Zrušiť
@@ -1299,6 +1329,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Spravovať adresy a ďalšie
     .accesskey = a
+addresses-list-header =
+    .label = Adresy
+addreses-delete-address-button-label =
+    .aria-label = Odstrániť
+addreses-edit-address-button-label =
+    .aria-label = Upraviť
+addresses-delete-address-prompt-title = Chcete odstrániť túto adresu?
+addresses-delete-address-prompt-confirm-button = Odstrániť
+addresses-delete-address-prompt-cancel-button = Zrušiť
+autofill-addresses-add-button = Pridať novú adresu
+autofill-addresses-manage-addresses-title =
+    .heading = Spravovať adresy a ďalšie
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1493,6 +1542,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rýchle akcie
     .accesskey = R
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nedávne vyhľadávania
+    .accesskey = e
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Návrhy populárnych vyhľadávaní
+    .accesskey = h
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazovať nedávne vyhľadávania

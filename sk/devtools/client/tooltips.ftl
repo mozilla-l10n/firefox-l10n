@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = Vlastnosť <strong>{ $property }</strong> 
 inactive-css-column-span = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože prvok sa nenachádza v kontajneri s viacerými stĺpcami.
 inactive-css-not-grid-or-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex ani kontajnera s mriežkou.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o prvok typu grid ani flexibilný prvok, ani o absolútne umiestnený prvok.
+inactive-css-not-grid-or-absolutely-positioned-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nie je položkou mriežky ani absolútne umiestneným prvkom.
 inactive-css-not-grid-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o grid položku.
 inactive-css-not-grid-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner s mriežkou.
 inactive-css-not-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o položku kontajnera typu flex.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = Vlastnosť <strong>{ $property }</strong> nemá žia
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie je podporované na zvýraznených pseudoprvkoch.
 inactive-css-cue-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::cue.
+inactive-css-at-position-try-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná v pravidlách <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -88,6 +90,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Skúste prid
 inactive-css-not-multicol-container-fix = Skúste pridať <strong>column-count</strong> alebo <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Skúste pridať <strong>column-count</strong> alebo <strong>column-width</strong> jednému z jeho predchodcov. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Skúste prvku pridať <strong>position:absolute</strong> alebo jemu nadradenému prvku <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> alebo <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Skúste prvku pridať <strong>position:absolute</strong>, alebo jeho nadradenému prvku pridajte <strong>display:grid</strong> alebo <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Skúste definovať <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> alebo <strong>display:inline-flex</strong> pre rodiča tohto prvku. { learn-more }
 inactive-css-not-grid-item-fix-2 = Skúste pridať <strong>display:grid</strong> alebo <strong>display:inline-grid</strong> do nadradenej položky. { learn-more }
 inactive-css-not-grid-container-fix = Skúste pridať <strong>display:grid</strong> alebo <strong>display:inline-grid</strong>. { learn-more }
@@ -141,3 +144,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Ďalšie info
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Tento selektor používa nijako neobmedzenú metódu <strong>:has()</strong>, čo môže byť pomalé
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Súrodenecké selektory po <strong>:scope</strong> sa nikdy nezhodujú s ničím
