@@ -425,3 +425,18 @@ etp-strict-exceptions-infobar-button = ਸੁਧਾਰ ਲਾਗੂ ਕਰੋ
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਨਹੀਂ ਹੈ
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਨਹੀਂ ਹੈ
+set-default-menu-message-row-layout-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+set-default-menu-message-row-layout-title-variant = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
+set-default-menu-message-row-layout-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਸਪੀਡ, ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ ਨਾਲ ਲੈੱਸ ਰਹੋ।
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੋਲ ਰੱਖੋ — ਇਸ ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਤੇ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ।
+       *[other] { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੋਲ ਰੱਖੋ — ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ ਤੇ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਰੱਖੋ।
+    }
+set-default-menu-message-primary-button = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+set-default-menu-message-primary-button-variant = ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
