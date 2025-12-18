@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = Ihre Kontrast-Einstellungen überschreiben das Erscheinungsbild von Websites.
 preferences-web-appearance-link =
     .label = Verwalten Sie { -brand-short-name }-Themes in Erweiterungen & Themes.
+preferences-contrast-control-group =
+    .label = Kontraststeuerung
+    .description = Websites verwenden eine Vielzahl von Vordergrund- und Hintergrundfarben. Um einen einheitlichen Kontrast zu erzielen, können Sie auf allen Websites dieselben Farben verwenden.
 preferences-contrast-control-radio-group =
     .label = Farben überschreiben
 # This can appear when using windows HCM or "Override colors: always" without
