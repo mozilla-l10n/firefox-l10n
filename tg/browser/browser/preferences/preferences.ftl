@@ -988,6 +988,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Ҳамоҳангсозӣ: Фаъол
+prefs-syncing-on-2 =
+    .label = Ҳамоҳангсозӣ фаъол аст
 prefs-syncing-off = Ҳамоҳангсозӣ: Ғайрифаъол
 prefs-sync-turn-on-syncing =
     .label = Фаъол кардани ҳамоҳангсозӣ…
