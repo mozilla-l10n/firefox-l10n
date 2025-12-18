@@ -832,6 +832,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори нишонӣ
     .accesskey = Н
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ пеш таърихи тамошобинӣ дар натиҷаҳои навори нишонӣ
 search-suggestions-cant-show-2 =
     .message = Пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори ҷойгиршавӣ намоиш дода намешаванд, зеро ки шумо «{ -brand-short-name }»-ро танзим кардед, то таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад.
 # With this option enabled, while on a SERP, the URL normally displayed in the

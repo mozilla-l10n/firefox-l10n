@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Тоза кардани «{ $provider }»
 genai-menu-remove-sidebar =
     .label = Тоза кардан аз навори ҷонибӣ
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Аз «{ $provider }» пурсед
 genai-menu-new-badge = Нав
 genai-menu-summarize-page = Баровардани хулоса дар бораи ин саҳифа
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } дақиқаи вақти хониш
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = «{ -brand-short-name }» ин пайвандро пешнамоиш карда наметавонад
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Мо ин пайвандро пешнамоиш карда наметавонем
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Кушодани пайванд
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = «{ -brand-short-name }» барои ин саҳифаи веб нуқтаҳои асосиро эҷод карда наметавонад.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Мо барои ин саҳифаи веб нуқтаҳои асосиро эҷод карда наметавонем.
 # Error message when something went wrong during key point generation
