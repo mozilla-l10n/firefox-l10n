@@ -83,5 +83,5 @@ connection-dns-over-https-url-item-default =
 connection-dns-over-https-url-custom =
     .label = Swójski
     .accesskey = S
-    .tooltiptext = Zapodajće preferowany URL za rozpušćenje DNS přez HTTPS
+    .tooltiptext = Zapodajśo preferěrowany URL za rozwězowanje DNS pśez HTTPS
 connection-dns-over-https-custom-label = Swójski
