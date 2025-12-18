@@ -1290,6 +1290,7 @@ payments-list-header =
     .label = Тарзҳои пардохт
 payments-list-item-label = <strong>Тарзҳои пардохт</strong>
 payments-delete-payment-prompt-confirm-button = Нест кардан
+payments-delete-payment-prompt-cancel-button = Бекор кардан
 payments-remove-payment-prompt-title = Ин тарзи пардохтро тоза мекунед?
 payments-remove-payment-prompt-confirm-button = Тоза кардан
 payments-remove-payment-prompt-cancel-button = Бекор кардан
@@ -1302,6 +1303,15 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Идоракунии нишониҳо ва ғайра
     .accesskey = И
+addresses-list-header =
+    .label = Нишониҳо
+addreses-delete-address-button-label =
+    .aria-label = Нест кардан
+addreses-edit-address-button-label =
+    .aria-label = Таҳрир кардан
+addresses-delete-address-prompt-title = Ин нишониро нест мекунед?
+addresses-delete-address-prompt-confirm-button = Нест кардан
+addresses-delete-address-prompt-cancel-button = Бекор кардан
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
