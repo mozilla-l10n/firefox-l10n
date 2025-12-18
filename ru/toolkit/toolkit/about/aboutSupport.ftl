@@ -68,7 +68,7 @@ app-basics-os-theme = Тема ОС
 app-basics-rosetta = Бинарная трансляция Rosetta
 app-basics-memory-use = Использование памяти
 app-basics-performance = Производительность
-app-basics-service-workers = Зарегистрированные Service Worker'ы
+app-basics-service-workers = Зарегистрированные Обработчики (Service Worker)
 app-basics-third-party = Сторонние модули
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Запускающий процесс
@@ -79,7 +79,7 @@ app-basics-enterprise-policies = Корпоративные политики
 app-basics-location-service-key-google = Ключ Службы определения местоположения от Google
 app-basics-safebrowsing-key-google = Ключ Google Safebrowsing
 app-basics-key-mozilla = Ключ Службы определения местоположения от Mozilla
-app-basics-safe-mode = Безопасный Режим
+app-basics-safe-mode = Безопасный режим
 app-basics-memory-size = Объём памяти (ОЗУ)
 app-basics-disk-available = Доступное место на накопителе
 app-basics-pointing-devices = Манипуляторы
@@ -216,7 +216,7 @@ media-hdcp-22-compatible = Совместим с HDCP 2.2
 
 ##
 
-intl-title = Интернационализация и Локализация
+intl-title = Интернационализация и локализация
 intl-app-title = Настройки приложения
 intl-locales-requested = Запрошенные языки
 intl-locales-available = Доступные языки

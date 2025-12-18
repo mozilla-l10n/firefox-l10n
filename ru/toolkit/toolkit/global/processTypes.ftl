@@ -43,7 +43,7 @@ process-type-rdd = RDD
 process-type-inference = Вывод
 # process used to run some IPC actor in their own sandbox
 process-type-utility = IPC Actor в песочнице
-process-type-utility-actor-audio-decoder-generic = Утилита Универсальный аудиодекодер
+process-type-utility-actor-audio-decoder-generic = Утилита «Универсальный аудиодекодер»
 process-type-utility-actor-audio-decoder-applemedia = Утилита AppleMedia
 process-type-utility-actor-audio-decoder-wmf = Утилита Windows Media Foundation
 process-type-utility-actor-mf-media-engine = Утилита Media Foundation Engine
