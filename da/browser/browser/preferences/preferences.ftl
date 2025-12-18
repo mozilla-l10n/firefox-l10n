@@ -632,6 +632,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Vis kontrol-knapper for Billede-i-billede
     .accesskey = v
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Fortsæt afspilning af videoer i Billede-i-billede, når du skifter faneblade
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Læs mere
 browsing-media-control =
     .label = Kontrollér medieindhold med tastatur, headset eller virtuelt interface
@@ -850,8 +853,13 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Vis søgestrenge i adressefeltet på resultatsider
+search-separate-default-engine-2 =
+    .label = Brug en anden standard-søgetjeneste i private vinduer
+    .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard-søgetjeneste i private vinduer
+search-suggestions-header-2 =
+    .label = Forslag fra søgetjenester
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
