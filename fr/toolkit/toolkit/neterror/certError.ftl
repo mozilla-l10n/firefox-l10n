@@ -131,11 +131,11 @@ fp-learn-more-about-time-related-errors = En savoir plus sur le dépannage des e
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne fait pas confiance à ce site, car il semble que le certificat fourni ne soit pas valide jusqu’à { DATETIME($date, timeStyle: "short") } le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne fait pas confiance à ce site, car il semble que le certificat fourni ne soit pas valide avant le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } à { DATETIME($date, timeStyle: "short") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’horloge de votre appareil est réglée sur { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si cela est correct, le problème de sécurité vient probablement du site lui-même. S’il est incorrect, vous pouvez le modifier dans les paramètres système de votre appareil.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’horloge de votre appareil est réglée sur { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si cette information est correcte, le problème de sécurité vient probablement du site lui-même. Si elle est incorrecte, vous pouvez régler l’horloge dans les paramètres système de votre appareil.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
