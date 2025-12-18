@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Stránka je nastavená tak, aby umo
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Pravdepodobne nič, pretože je pravdepodobné, že je problém so samotnou stránkou. Stránky používajú certifikáty vydané certifikačnou autoritou, aby dokázali, že sú skutočne tým, za koho sa vydávajú. Ale ak ste vo firemnej sieti, váš tím podpory môže mať viac informácií. Ak používate antivírusový softvér, skúste vyhľadať potenciálne konflikty alebo známe problémy.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } vás upozorňuje na túto stránku, pretože certifikát poskytnutý pre server { $hostname } bol vydaný certifikačnou autoritou, ktorá už nie je nedôveryhodná.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Pravdepodobne nič, pretože je pravdepodobný problém so samotnou stránkou. Môžete sa obrátiť na vlastníka webovej stránky, aby ste zistili, či na probléme pracuje.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Vyskytol sa problém s certifikátom stránky. Je možné, že sa niekto snaží vydávať za stránku. Stránky používajú certifikáty vydané certifikačnou autoritou, aby dokázali, že sú skutočne tým, za koho sa vydávajú. { -brand-short-name } nedôveruje tejto stránke, pretože nevieme povedať, kto vydal certifikát, je podpísaný sám sebou alebo stránka neposiela sprostredkujúce certifikáty, ktorým dôverujeme.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Pravdepodobne nič, pretože je pravdepodobné, že je problém so samotnou stránkou. Ale ak ste vo firemnej sieti, váš tím podpory môže mať viac informácií. Ak používate antivírusový softvér, možno ho bude potrebné nakonfigurovať tak, aby fungoval správne s { -brand-short-name(case: "ins") }.
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Pravdepodobne nič, pretože je
 fp-learn-more-about-secure-connection-failures = Ďalšie informácie o zlyhaniach zabezpečeného pripojenia
 fp-learn-more-about-cert-issues = Ďalšie informácie o týchto typoch problémov s certifikátmi
 fp-learn-more-about-time-related-errors = Ďalšie informácie o odstraňovaní chýb súvisiacich s časom
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedôveruje tejto stránke, pretože to vyzerá, že poskytnutý certifikát bude platný až po { DATETIME($date, timeStyle: "short") } dňa { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vášho zariadenia sú nastavené na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ak je to správne, problém so zabezpečením je pravdepodobne na samotnej stránke. Ak je to nesprávne, zmenu môžete vykonať v systémových nastaveniach vášho zariadenia.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
