@@ -671,8 +671,12 @@ home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž s
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startowa strona a nowe wokna
+home-homepage-new-windows =
+    .label = Nowe wokna
 home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rajtarki
+home-homepage-new-tabs =
+    .label = Nowe rajtarki
 home-restore-defaults =
     .label = Standard wobnowić
     .accesskey = S
