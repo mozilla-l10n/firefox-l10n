@@ -682,6 +682,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Handsam utviding
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Vel ein bestemt nettstad
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Vel ein bestemt nettstad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -698,6 +701,9 @@ choose-bookmark =
     .label = Bruk bokmerke…
     .accesskey = u
 home-homepage-header = Startside
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -977,9 +983,15 @@ sync-manage-account = Handsam kontoen
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } er ikkje stadfesta.
 sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
