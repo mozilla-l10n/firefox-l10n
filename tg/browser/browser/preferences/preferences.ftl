@@ -973,7 +973,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Баромадан…
     .accesskey = Б
+sync-sign-out2 =
+    .label = Баромадан
+    .accesskey = Б
 sync-manage-account = Идоракунии ҳисобҳо
+    .accesskey = И
+sync-manage-account2 =
+    .label = Идоракунии ҳисобҳо
     .accesskey = И
 
 ## Variables
