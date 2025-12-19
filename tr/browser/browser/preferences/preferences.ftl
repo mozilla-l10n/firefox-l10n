@@ -655,8 +655,12 @@ home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yen
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Giriş sayfası ve yeni pencereler
+home-homepage-new-windows =
+    .label = Yeni pencereler
 home-homepage-mode-label2 = Yeni pencereler
 home-newtabs-mode-label = Yeni sekmeler
+home-homepage-new-tabs =
+    .label = Yeni sekmeler
 home-restore-defaults =
     .label = Varsayılanları geri yükle
     .accesskey = R
@@ -671,6 +675,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Uzantıyı yönet
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Belirli bir site seç
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Belirli bir site seç
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -688,6 +695,11 @@ choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
 home-homepage-header = Giriş sayfası
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Giriş sayfası
 
 ## Custom Homepage subpage
 
@@ -964,9 +976,15 @@ sync-manage-account = Hesabı yönet
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } doğrulanmamış.
 sync-signedin-login-failure = Yeniden { $email } hesabınıza bağlanmak için lütfen giriş yapın
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
