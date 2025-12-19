@@ -972,7 +972,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = 登出…
     .accesskey = g
+sync-sign-out2 =
+    .label = 登出
+    .accesskey = g
 sync-manage-account = 管理帳號
+    .accesskey = o
+sync-manage-account2 =
+    .label = 管理帳號
     .accesskey = o
 
 ## Variables
