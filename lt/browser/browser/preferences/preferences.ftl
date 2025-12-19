@@ -731,7 +731,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Atsijungti…
     .accesskey = g
+sync-sign-out2 =
+    .label = Atsijungti
+    .accesskey = g
 sync-manage-account = Tvarkyti paskyrą
+    .accesskey = y
+sync-manage-account2 =
+    .label = Tvarkyti paskyrą
     .accesskey = y
 
 ## Variables
