@@ -403,10 +403,62 @@ translate-attribution = Traductiones per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptiones…
     .accesskey = x
+settings-translations-header =
+    .label = Traductiones
+    .aria-label = Traductiones
+    .description = Traduce paginas o texto seligite. Pro proteger tu confidentialitate, le traductiones sta sur tou apparato.
+settings-translations-offer-to-translate-label =
+    .label = Offere traduction del integre pagina
+settings-translations-more-settings-button =
+    .label = Altere parametros de traduction
+    .description = Defini le preferentias pro linguas, sitos web, e traduction foras linea.
+settings-translations-subpage-header =
+    .heading = Altere parametros de traduction
+settings-translations-subpage-speed-up-translation-header =
+    .label = Accelerar traduction
+    .description = Discarga linguas complete pro traductiones plus veloce e foras linea
+settings-translations-subpage-automatic-translation-header =
+    .label = Traduction automatic
+settings-translations-subpage-always-translate-header =
+    .label = Sempre traducer iste lingua
 settings-translations-subpage-never-translate-header =
     .label = Non traducer jammais iste lingua
+settings-translations-subpage-never-translate-sites-header =
+    .label = Non traducer jammais iste sitos
 settings-translations-subpage-language-select-option =
     .label = Adder lingua
+settings-translations-subpage-language-add-button =
+    .aria-label = Adder lingua
+    .title = Adder lingua
+settings-translations-subpage-download-languages-header =
+    .label = Discargar linguas
+settings-translations-subpage-download-languages-select-option =
+    .label = Eliger lingua
+settings-translations-subpage-download-languages-button =
+    .aria-label = Discargar lingua
+    .title = Discargar lingua
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Necun lingua discargate
+settings-translations-subpage-no-languages-added =
+    .label = Necun lingua addite
+settings-translations-subpage-download-progress = Discargamento in curso…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Impossibile discargar { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Retentar
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Eliminar { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Deler
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
