@@ -828,6 +828,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Adres çubuğu sonuçlarında arama önerilerini göster
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
+search-show-suggestions-private-windows-2 =
+    .label = Gizli pencerelerde arama önerileri
 search-suggestions-cant-show-2 =
     .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -839,6 +848,8 @@ search-separate-default-engine-2 =
     .accesskey = G
 search-separate-default-engine-dropdown =
     .aria-label = Gizli pencerelerde varsayılan arama motoru
+search-suggestions-header-2 =
+    .label = Arama motoru önerileri
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -975,6 +986,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Eşitleme: AÇIK
+prefs-syncing-on-2 =
+    .label = Eşitleme AÇIK
 prefs-syncing-off = Eşitleme: KAPALI
 prefs-sync-turn-on-syncing =
     .label = Eşitlemeyi başlat…
@@ -1015,6 +1028,9 @@ sync-currently-syncing-addons = Eklentiler
 sync-currently-syncing-settings = Ayarlar
 sync-manage-options =
     .label = Eşitlemeyi yönet…
+    .accesskey = E
+sync-manage-options-2 =
+    .label = Eşitlenen verileri yönet
     .accesskey = E
 sync-change-options =
     .label = Değiştir…
@@ -1275,6 +1291,9 @@ autofill-payment-methods-add-button = Yeni ödeme yöntemi ekle
 payments-list-header =
     .label = Ödeme yöntemleri
 payments-list-item-label = <strong>Ödeme yöntemleri</strong>
+payments-delete-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
+payments-delete-payment-prompt-confirm-button = Sil
+payments-delete-payment-prompt-cancel-button = Vazgeç
 payments-remove-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
 payments-remove-payment-prompt-confirm-button = Sil
 payments-remove-payment-prompt-cancel-button = Vazgeç
@@ -1287,6 +1306,23 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Adresleri ve daha fazlasını yönet
     .accesskey = d
+addresses-list-header =
+    .label = Adresler
+addreses-delete-address-button-label =
+    .aria-label = Sil
+addreses-edit-address-button-label =
+    .aria-label = Düzenle
+addresses-delete-address-prompt-title = Bu adres silinsin mi?
+addresses-delete-address-prompt-confirm-button = Sil
+addresses-delete-address-prompt-cancel-button = Vazgeç
+autofill-addresses-add-button = Yeni adres ekle
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
