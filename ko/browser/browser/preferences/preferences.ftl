@@ -391,6 +391,24 @@ translate-attribution = 번역:  <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = 예외…
     .accesskey = x
+settings-translations-header =
+    .label = 번역
+    .aria-label = 번역
+    .description = 페이지 또는 선택한 텍스트를 번역합니다. 개인 정보를 보호하기 위해 번역은 기기에 유지됩니다.
+settings-translations-offer-to-translate-label =
+    .label = 전체 페이지 번역 제공
+settings-translations-more-settings-button =
+    .label = 추가 번역 설정
+    .description = 언어, 웹 사이트, 오프라인 번역에 대한 설정을 하세요.
+settings-translations-subpage-header =
+    .heading = 추가 번역 설정
+settings-translations-subpage-speed-up-translation-header =
+    .label = 번역 속도 높이기
+    .description = 더 빠른 번역과 오프라인 번역을 위해 전체 언어를 다운로드하세요.
+settings-translations-subpage-automatic-translation-header =
+    .label = 자동 번역
+settings-translations-subpage-always-translate-header =
+    .label = 항상 이 언어 번역
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
