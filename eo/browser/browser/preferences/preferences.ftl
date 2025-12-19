@@ -647,8 +647,12 @@ home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Eka paĝo kaj novaj fenestroj
+home-homepage-new-windows =
+    .label = Novaj fenestroj
 home-homepage-mode-label2 = Novaj fenestroj
 home-newtabs-mode-label = Novaj langetoj
+home-homepage-new-tabs =
+    .label = Novaj langetoj
 home-restore-defaults =
     .label = Remeti normojn
     .accesskey = R
