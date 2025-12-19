@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Impostazion prestabilide pal debug in { -brand-shorter-name }. Overhead elevât, no sta doprâlu pes analisis des prestazions, ma dome par capî il compuartament dal navigadôr.
 profiler-popup-presets-debug-label =
     .label = Debug
+profiler-popup-presets-web-compat-description = Preconfigurazion conseade pal debug dai problemis di compatibilitât tai sîts web, no par monitorâ lis prestazions.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilitât web
 profiler-popup-presets-custom-label =
     .label = Personalizât
 
@@ -294,6 +297,10 @@ appmenuitem-services-relay-description = Vierç il cruscot pes mascaris di puest
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protêç la tô ativitât in linie
 appmenu-services-header = I miei servizis
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Prove altris struments di protezion di Mozilla:
 appmenu-other-protection-header = Prove altris struments di protezion di { -vendor-short-name }:
 
 ## Profiles panel
@@ -301,6 +308,8 @@ appmenu-other-protection-header = Prove altris struments di protezion di { -vend
 appmenu-other-profiles = Altris profîi
 appmenu-manage-profiles =
     .label = Gjestìs i profîi
+appmenu-copy-profile =
+    .label = Copie chest profîl
 appmenu-create-profile =
     .label = Gnûf profîl
 appmenu-edit-profile =
