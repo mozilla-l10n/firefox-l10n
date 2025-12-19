@@ -688,6 +688,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Rozšěrjenje rjadować
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wubjerće wěste sydło
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Wubjerće wěste sydło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -704,6 +707,11 @@ choose-bookmark =
     .label = Zapołožku wužiwać…
     .accesskey = Z
 home-homepage-header = Startowa strona
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startowa strona
 
 ## Custom Homepage subpage
 
@@ -985,9 +993,15 @@ sync-manage-account = Konto rjadować
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } njeje so přepruwował.
 sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
