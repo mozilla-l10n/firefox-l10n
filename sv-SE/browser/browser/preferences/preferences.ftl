@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din starts
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startsida och nya fönster
+home-homepage-new-windows =
+    .label = Nya fönster
 home-homepage-mode-label2 = Nya fönster
 home-newtabs-mode-label = Nya flikar
+home-homepage-new-tabs =
+    .label = Nya flikar
 home-restore-defaults =
     .label = Återställ standard
     .accesskey = t
