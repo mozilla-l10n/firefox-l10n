@@ -677,6 +677,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Administrar extensión
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elegir un sitio específico
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Elegir un sitio específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -693,6 +696,11 @@ choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
 home-homepage-header = Página de inicio
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Página de inicio
 
 ## Custom Homepage subpage
 
@@ -958,9 +966,15 @@ sync-manage-account = Administrar cuenta
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } no está verificada.
 sync-signedin-login-failure = Ingrese para reconectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
