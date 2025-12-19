@@ -426,6 +426,9 @@ sync-profile-picture-with-alt =
     .alt = Verander profielprent
 sync-manage-account = Bestuur rekening
     .accesskey = o
+sync-manage-account2 =
+    .label = Bestuur rekening
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
