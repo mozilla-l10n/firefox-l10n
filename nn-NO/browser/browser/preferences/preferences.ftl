@@ -403,6 +403,33 @@ translate-attribution = Omsettingar av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Unntak…
     .accesskey = n
+settings-translations-subpage-language-select-option =
+    .label = Legg til språk
+settings-translations-subpage-language-add-button =
+    .aria-label = Legg til språk
+    .title = Legg til språk
+settings-translations-subpage-download-languages-header =
+    .label = Last ned språk
+settings-translations-subpage-download-languages-select-option =
+    .label = Vel språk
+settings-translations-subpage-download-languages-button =
+    .aria-label = Last ned språk
+    .title = Last ned språk
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Prøv igjen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Slette { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Slett
+settings-translations-subpage-download-cancel-button =
+    .label = Avbryt
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -960,6 +987,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Logg på kontoen din for å starte synkroniseringa
     .accesskey = o
+sync-signedout-account-short =
+    .label = Logg inn
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -999,6 +1029,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ikkje stadfesta.
 sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
