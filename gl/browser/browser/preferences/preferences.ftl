@@ -853,7 +853,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Saír…
     .accesskey = S
+sync-sign-out2 =
+    .label = Saír
+    .accesskey = S
 sync-manage-account = Xestionar conta
+    .accesskey = o
+sync-manage-account2 =
+    .label = Xestionar conta
     .accesskey = o
 
 ## Variables
