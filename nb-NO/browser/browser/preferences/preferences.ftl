@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startside
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vinduer
+home-homepage-new-windows =
+    .label = Nye vinduer
 home-homepage-mode-label2 = Nye vinduer
 home-newtabs-mode-label = Nye faner
+home-homepage-new-tabs =
+    .label = Nye faner
 home-restore-defaults =
     .label = Bruk standard
     .accesskey = r
