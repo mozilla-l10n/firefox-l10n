@@ -409,6 +409,50 @@ settings-translations-subpage-automatic-translation-header =
     .label = 자동 번역
 settings-translations-subpage-always-translate-header =
     .label = 항상 이 언어 번역
+settings-translations-subpage-never-translate-header =
+    .label = 항상 이 언어 번역 안 함
+settings-translations-subpage-never-translate-sites-header =
+    .label = 항상 이 사이트 번역 안 함
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = 사이트를 추가하려면, <img data-l10n-name="translations-icon"/> 번역 패널을 열고, <img data-l10n-name="settings-icon"/> 번역 설정을 선택한 다음, "항상 이 사이트 번역 안 함"을 선택하세요.
+settings-translations-subpage-language-select-option =
+    .label = 언어 추가
+settings-translations-subpage-language-add-button =
+    .aria-label = 언어 추가
+    .title = 언어 추가
+settings-translations-subpage-download-languages-header =
+    .label = 언어 다운로드
+settings-translations-subpage-download-languages-select-option =
+    .label = 언어 선택
+settings-translations-subpage-download-languages-button =
+    .aria-label = 언어 다운로드
+    .title = 언어 다운로드
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = 다운로드한 언어 없음
+settings-translations-subpage-no-languages-added =
+    .label = 추가된 언어 없음
+settings-translations-subpage-download-progress = 다운로드 진행 중…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ({ $size }MB)를 다운로드할 수 없음
+settings-translations-subpage-download-retry-button =
+    .label = 다시 시도
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size }MB)를 삭제하시겠습니까?
+settings-translations-subpage-download-delete-button =
+    .label = 삭제
+settings-translations-subpage-download-cancel-button =
+    .label = 취소
+settings-translations-subpage-no-sites-added =
+    .label = 추가된 사이트 없음
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -950,6 +994,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-placeholder =
+    .label = 로그인되어 있지 않음
+    .description = 데이터를 비공개로 유지하고, 암호화하고, 여러 기기에서 동기화하려면 로그인하세요.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -961,6 +1008,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = 계정에 로그인하여 동기화를 시작하세요
+    .accesskey = i
+sync-signedout-account-short =
+    .label = 로그인
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
