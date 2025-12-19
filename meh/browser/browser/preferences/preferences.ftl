@@ -531,7 +531,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Kene…
     .accesskey = g
+sync-sign-out2 =
+    .label = Kene
+    .accesskey = g
 sync-manage-account = Administrar cuenta
+    .accesskey = o
+sync-manage-account2 =
+    .label = Administrar cuenta
     .accesskey = o
 
 ## Variables
