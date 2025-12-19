@@ -681,6 +681,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Eñangareko jepysokuére
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Eiporavo peteĩ tendaite
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Eiporavo peteĩ tendaite
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -697,6 +700,11 @@ choose-bookmark =
     .label = Techaukaha poru…
     .accesskey = B
 home-homepage-header = Kuatiarogue ñepyrũha
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Kuatiarogue ñepyrũha
 
 ## Custom Homepage subpage
 
@@ -976,9 +984,15 @@ sync-manage-account = Mba’ete ñangarekoha
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
 sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
