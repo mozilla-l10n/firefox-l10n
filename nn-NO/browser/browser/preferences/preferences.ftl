@@ -984,6 +984,9 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Logg ut…
     .accesskey = g
+sync-sign-out2 =
+    .label = Logg ut
+    .accesskey = g
 sync-manage-account = Handsam kontoen
     .accesskey = k
 
