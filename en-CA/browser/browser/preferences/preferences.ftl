@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Choose what you see when you open your home
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Homepage and new windows
+home-homepage-new-windows =
+    .label = New windows
 home-homepage-mode-label2 = New windows
 home-newtabs-mode-label = New tabs
+home-homepage-new-tabs =
+    .label = New tabs
 home-restore-defaults =
     .label = Restore Defaults
     .accesskey = R
@@ -676,6 +680,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Manage extension
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Choose a specific site
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Choose a specific site
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -693,6 +700,11 @@ choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
 home-homepage-header = Homepage
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Homepage
 
 ## Custom Homepage subpage
 
@@ -958,9 +970,15 @@ sync-manage-account = Manage account
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
