@@ -663,6 +663,11 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Listë e re
+newtab-widget-section-title = Widget-e
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Fshihni widget-et
+    .aria-label = Fshihni krejt widget-et
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

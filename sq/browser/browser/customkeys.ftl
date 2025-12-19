@@ -33,3 +33,5 @@ customkeys-nav-reload = Ringarkoje
 customkeys-nav-reload-skip-cache = Ringarko (Anashkalo Fshehtinën)
 customkeys-nav-stop = Ndale
 customkeys-caution-message = Kjo veçori është eksperimentale dhe mund të mos punojë siç pritet.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = I pavlefshëm

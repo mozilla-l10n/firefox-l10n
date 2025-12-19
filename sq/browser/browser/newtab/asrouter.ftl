@@ -425,3 +425,13 @@ etp-strict-exceptions-infobar-button = Aplikoji ndreqjet
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Jo tani
     .accesskey = J
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name }-i s'është shfletuesi juaj parazgjedhje
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name }-i s'është shfletuesi juaj parësor
+set-default-menu-message-row-layout-title = Bëjeni { -brand-short-name }-in shfletuesin tuaj parësor
+set-default-menu-message-row-layout-title-variant = Bëjeni { -brand-short-name }-in shfletuesin tuaj parazgjedhje?
+set-default-menu-message-row-layout-subtitle = Përfitoni shpejtësi, siguri dhe privatësi, sa herë që shfletoni.
+set-default-menu-message-primary-button = Vëre si parazgjedhje
+set-default-menu-message-primary-button-variant = Vëre si shfletuesin parësor

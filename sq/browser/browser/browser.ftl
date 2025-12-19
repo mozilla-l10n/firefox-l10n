@@ -426,6 +426,9 @@ quickactions-cmd-restart = rinise
 # Opens the screenshot tool
 quickactions-screenshot3 = Bëni një foto ekrani
 quickactions-cmd-screenshot2 = foto ekrani, bëni një foto ekrani
+# Opens about:translations
+quickactions-translate = Përktheje
+quickactions-cmd-translate = përktheje
 quickactions-cmd-screenshot = foto ekrani
 # Opens about:preferences
 quickactions-settings2 = Administroni rregullime
@@ -832,6 +835,9 @@ urlbar-result-menu-dont-show-market =
     .label = Mos shfaq sugjerime tregu
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Faleminderit për përshtypjet. S’do të shihni më sugjerime tregu.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugjerime për aksione
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Faleminderit për përshtypjet. S’do të shihni më këto sugjerime.
@@ -923,6 +929,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = S’u përzgjodh shkurtore, zgjidhni një shkurtore
     .tooltiptext = S’u përzgjodh shkurtore, zgjidhni një shkurtore
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Kërkimi me fjalëkyçe është i çaktivizuar
+    .tooltiptext = Kërkimi me fjalëkyçe është i çaktivizuar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

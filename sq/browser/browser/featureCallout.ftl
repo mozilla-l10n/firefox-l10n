@@ -159,6 +159,7 @@ link-preview-onboarding-callout-description = Shihni një përshkrim të shkurt�
 sidebar-button-callout-title = Shfaq te anështylla tituj skedash
 sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgjeroni atë, kështu mund të shihni tituj e skedave.
 sidebar-button-callout-vertical-tabs = Që të shfaqen skedat tuaja, përzgjidhni te paneli butonin e anështyllës.
+sidebar-deprecation-cta-button = Provojeni tani
 
 ## Sidebar Vertical Tabs Strings
 
