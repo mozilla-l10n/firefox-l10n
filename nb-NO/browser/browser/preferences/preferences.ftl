@@ -403,6 +403,68 @@ translate-attribution = Oversettelser av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Unntak …
     .accesskey = n
+settings-translations-header =
+    .label = Oversettelser
+    .aria-label = Oversettelser
+    .description = Oversett sider eller valgt tekst. For å beskytte personvernet ditt forblir oversettelsene på enheten din.
+settings-translations-offer-to-translate-label =
+    .label = Tilby oversettelse av hele siden
+settings-translations-more-settings-button =
+    .label = Flere oversettelsesinnstillinger
+    .description = Angi innstillinger for språk, nettsteder og frakoblet oversettelse.
+settings-translations-subpage-header =
+    .heading = Flere oversettelsesinnstillinger
+settings-translations-subpage-speed-up-translation-header =
+    .label = Raskere oversettelse
+    .description = Last ned komplette språk for raskere oversettelser og for å oversette uten nettforbindelse.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatisk oversettelse
+settings-translations-subpage-always-translate-header =
+    .label = Oversett alltid disse språkene
+settings-translations-subpage-never-translate-header =
+    .label = Oversett aldri disse språkene
+settings-translations-subpage-never-translate-sites-header =
+    .label = Oversett aldri disse nettstedene
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = For å legge til et nettsted åpner du <img data-l10n-name="translations-icon"/>oversettelsespanelet, velger <img data-l10n-name="settings-icon"/> oversettelsesinnstillinger og deretter «Oversett aldri dette nettstedet»
+settings-translations-subpage-language-select-option =
+    .label = Legg til språk
+settings-translations-subpage-language-add-button =
+    .aria-label = Legg til språk
+    .title = Legg til språk
+settings-translations-subpage-download-languages-header =
+    .label = Last ned språk
+settings-translations-subpage-download-languages-select-option =
+    .label = Velg språk
+settings-translations-subpage-download-languages-button =
+    .aria-label = Last ned språk
+    .title = Last ned språk
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ingen språk lastet ned
+settings-translations-subpage-no-languages-added =
+    .label = Ingen språk lagt til
+settings-translations-subpage-download-progress = Nedlasting pågår…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Kunne ikke laste ned { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Prøv igjen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Slett { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Slett
+settings-translations-subpage-download-cancel-button =
+    .label = Avbryt
+settings-translations-subpage-no-sites-added =
+    .label = Ingen nettsteder lagt til
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -948,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-placeholder =
+    .label = Du er ikke logget inn
+    .description = Logg inn for å holde dine data private, krypterte og synkronisert på tvers av enheter.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -960,6 +1025,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Logg på kontoen din for å starte synkroniseringen
     .accesskey = o
+sync-signedout-account-short =
+    .label = Logg inn
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -998,7 +1066,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } er ikke bekreftet.
+sync-signedin-unverified2 =
+    .label = { $email } er ikke bekreftet ennå
+    .description = Sjekk innboksen din for å bekrefte kontoen og gjøre den offisiell.
 sync-signedin-login-failure = Logg inn for å koble til på nytt { $email }
+sync-signedin-login-failure2 =
+    .label = Du er logget ut av { $email }
+    .description = Logg inn igjen for å koble til på nytt og begynne å synkronisere dine data.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 

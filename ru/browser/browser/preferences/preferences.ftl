@@ -428,6 +428,46 @@ settings-translations-subpage-never-translate-header =
     .label = Никогда не переводить с этих языков
 settings-translations-subpage-never-translate-sites-header =
     .label = Никогда не переводить эти сайты
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Чтобы добавить сайт, откройте панель перевода <img data-l10n-name="translations-icon"/>, выберите <img data-l10n-name="settings-icon"/> настройки перевода, затем выберите «Никогда не переводить этот сайт»
+settings-translations-subpage-language-select-option =
+    .label = Добавить язык
+settings-translations-subpage-language-add-button =
+    .aria-label = Добавить язык
+    .title = Добавить язык
+settings-translations-subpage-download-languages-header =
+    .label = Скачать языки
+settings-translations-subpage-download-languages-select-option =
+    .label = Выберите язык
+settings-translations-subpage-download-languages-button =
+    .aria-label = Скачать язык
+    .title = Скачать язык
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } МБ)
+    .label = { $language } ({ $size } МБ)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ни одного языка не загружено
+settings-translations-subpage-no-languages-added =
+    .label = Языки не добавлены
+settings-translations-subpage-download-progress = Идёт скачивание…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Не удалось загрузить { $language } ({ $size } МБ)
+settings-translations-subpage-download-retry-button =
+    .label = Попробовать снова
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Удалить { $language } ({ $size } МБ)?
+settings-translations-subpage-download-delete-button =
+    .label = Удалить
+settings-translations-subpage-download-cancel-button =
+    .label = Отмена
+settings-translations-subpage-no-sites-added =
+    .label = Сайты не добавлены
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -974,6 +1014,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Синхронизация
+account-placeholder =
+    .label = Вы не вошли
+    .description = Войдите, чтобы сохранить конфиденциальность ваших данных, зашифровать их и синхронизировать между устройствами.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -985,6 +1028,9 @@ sync-signedout-account-signin3 =
     .accesskey = о
 sync-signedout-account-signin-4 =
     .label = Войдите в свой аккаунт, чтобы начать синхронизацию
+    .accesskey = ш
+sync-signedout-account-short =
+    .label = Войти
     .accesskey = ш
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1024,7 +1070,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не подтверждён.
+sync-signedin-unverified2 =
+    .label = { $email } ещё не подтвержден
+    .description = Проверьте свой почтовый ящик, чтобы подтвердить свой аккаунт и сделать его официальным.
 sync-signedin-login-failure = Войдите для повтора соединения с { $email }
+sync-signedin-login-failure2 =
+    .label = Вы вышли из { $email }
+    .description = Войдите снова, чтобы переподключиться и начать синхронизацию ваших данных.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 

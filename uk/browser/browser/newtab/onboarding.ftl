@@ -478,6 +478,14 @@ sync-to-mobile-button-label = Синхронізувати з мобільним
 desktop-to-mobile-qr-code-alt =
     .aria-label = QR-код для завантаження { -brand-product-name } для мобільних пристроїв
 
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = Рекомендовано
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Докладніше</a>
+create-backup-screen-1-sync-label = Синхронізувати з { -brand-product-name }
+create-backup-screen-1-backup-label = Резервне копіювання на ПК
+create-backup-back-button-label = Назад
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Відновлення з резервної копії
