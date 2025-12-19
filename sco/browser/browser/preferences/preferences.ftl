@@ -380,6 +380,9 @@ update-in-progress-ok-button = &Discaird
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Haud Forrit
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -452,6 +455,8 @@ home-new-windows-tabs-description2 = Decide whit ye see when ye open yer hamepag
 
 home-homepage-mode-label = Hamepage and new windaes
 home-newtabs-mode-label = New tabs
+home-homepage-new-tabs =
+    .label = New tabs
 home-restore-defaults =
     .label = Restore Staunarts
     .accesskey = R
@@ -475,6 +480,12 @@ use-current-pages =
 choose-bookmark =
     .label = Yaise Buikmerk...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -642,9 +653,15 @@ sync-manage-account = Manage accoont
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -843,6 +860,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historie
@@ -942,6 +962,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1129,6 +1155,9 @@ collection-health-report-disabled = Data reportin is disabled fur this build con
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1177,6 +1206,9 @@ httpsonly-radio-enabled-pbm =
     .label = Yaise HTTPS-Anely Mode in private windaes, jist
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
