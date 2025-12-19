@@ -984,7 +984,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Clauder session…
     .accesskey = C
+sync-sign-out2 =
+    .label = Clauder session
+    .accesskey = C
 sync-manage-account = Gerer le conto
+    .accesskey = o
+sync-manage-account2 =
+    .label = Gerer le conto
     .accesskey = o
 
 ## Variables
