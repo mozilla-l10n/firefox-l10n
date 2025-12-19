@@ -834,7 +834,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Ffeɣ…
     .accesskey = F
+sync-sign-out2 =
+    .label = Ffeɣ
+    .accesskey = F
 sync-manage-account = Sefrek amiḍan
+    .accesskey = m
+sync-manage-account2 =
+    .label = Sefrek amiḍan
     .accesskey = m
 
 ## Variables
