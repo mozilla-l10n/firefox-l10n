@@ -714,7 +714,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Wyloguj sie…
     .accesskey = g
+sync-sign-out2 =
+    .label = Wyloguj sie
+    .accesskey = g
 sync-manage-account = Regiyruj kōntym
+    .accesskey = r
+sync-manage-account2 =
+    .label = Regiyruj kōntym
     .accesskey = r
 
 ## Variables
