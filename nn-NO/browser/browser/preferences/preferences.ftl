@@ -989,6 +989,9 @@ sync-sign-out2 =
     .accesskey = g
 sync-manage-account = Handsam kontoen
     .accesskey = k
+sync-manage-account2 =
+    .label = Handsam kontoen
+    .accesskey = k
 
 ## Variables
 ## $email (string) - Email used for Firefox account
