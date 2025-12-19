@@ -186,3 +186,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body = 최신 버전의 { -brand-shor
 fp-neterror-offline-what-can-you-do-body = 다른 기기에 연결해 보세요. 모뎀이나 라우터를 확인하세요. Wi-Fi 연결을 끊었다가 다시 연결하세요.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 때로는 웹 사이트가 다른 사이트와의 원치 않는 상호작용으로부터 스스로를 보호하기 위한 방어 장치를 마련하기도 합니다.
+fp-learn-more-about-https-connections = HTTPS 연결에 대해 알아보기

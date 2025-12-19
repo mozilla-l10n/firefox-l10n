@@ -403,6 +403,12 @@ translate-attribution = Omsettingar av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Unntak…
     .accesskey = n
+settings-translations-header =
+    .label = Omsettingar
+    .aria-label = Omsettingar
+    .description = Omset sider eller vald tekst. For å verne om privatlivet ditt, blir omsetjingar verande på eininga di.
+settings-translations-offer-to-translate-label =
+    .label = Tilby omsetting av heile sida
 settings-translations-subpage-automatic-translation-header =
     .label = Automatisk omsetting
 settings-translations-subpage-always-translate-header =
