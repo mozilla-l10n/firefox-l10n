@@ -740,7 +740,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Clàraich a-mach…
     .accesskey = C
+sync-sign-out2 =
+    .label = Clàraich a-mach
+    .accesskey = C
 sync-manage-account = Stiùirich an cunntas
+    .accesskey = n
+sync-manage-account2 =
+    .label = Stiùirich an cunntas
     .accesskey = n
 
 ## Variables
