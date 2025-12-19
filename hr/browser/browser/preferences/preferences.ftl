@@ -679,6 +679,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Upravljaj proširenjem
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Odaberi određenu web-stranicu
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Odaberi određenu web-stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -698,6 +701,8 @@ home-homepage-header = Početna stranica
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = Početna stranica
 
 ## Custom Homepage subpage
 
