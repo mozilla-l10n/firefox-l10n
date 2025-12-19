@@ -1584,3 +1584,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } lejoi { $count } nxjerrës kriptomonedhash
     }
 trustpanel-cryptominer-tab-list-header = Këto sajte po rreken të nxjerrin kriptomonedha:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> Gjurmues i bllokuar në këtë sajt
+       *[other] <span data-l10n-name="count">{ $count }</span> Gjurmues të bllokuar në këtë sajt
+    }
