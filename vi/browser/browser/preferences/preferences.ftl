@@ -670,6 +670,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Quản lý tiện ích
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Chọn một trang web cụ thể
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Chọn một trang web cụ thể
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -686,6 +689,11 @@ choose-bookmark =
     .label = Sử dụng dấu trang…
     .accesskey = B
 home-homepage-header = Trang chủ
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Trang chủ
 
 ## Custom Homepage subpage
 
@@ -961,9 +969,15 @@ sync-manage-account = Quản lý tài khoản
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } chưa được kiểm tra.
 sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
