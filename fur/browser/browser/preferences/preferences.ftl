@@ -857,7 +857,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Disconet…
     .accesskey = g
+sync-sign-out2 =
+    .label = Disconet
+    .accesskey = g
 sync-manage-account = Gjestìs account
+    .accesskey = o
+sync-manage-account2 =
+    .label = Gjestìs account
     .accesskey = o
 
 ## Variables
