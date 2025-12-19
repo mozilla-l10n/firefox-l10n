@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = მიუთითეთ, რისი ხ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = საწყისი გვერდი და ახალი ფანჯრები
+home-homepage-new-windows =
+    .label = ახალი ფანჯრები
 home-homepage-mode-label2 = ახალი ფანჯრები
 home-newtabs-mode-label = ახალი ჩანართები
+home-homepage-new-tabs =
+    .label = ახალი ჩანართები
 home-restore-defaults =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = ნ
