@@ -977,7 +977,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Dilni…
     .accesskey = D
+sync-sign-out2 =
+    .label = Dilni
+    .accesskey = D
 sync-manage-account = Administroni llogari
+    .accesskey = A
+sync-manage-account2 =
+    .label = Administroni llogari
     .accesskey = A
 
 ## Variables
