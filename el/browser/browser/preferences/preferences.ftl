@@ -674,6 +674,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Διαχείριση επέκτασης
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Επιλογή συγκεκριμένου ιστοτόπου
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Επιλογή συγκεκριμένου ιστοτόπου
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -690,6 +693,11 @@ choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
 home-homepage-header = Αρχική σελίδα
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Αρχική σελίδα
 
 ## Custom Homepage subpage
 
@@ -950,9 +958,15 @@ sync-manage-account = Διαχείριση λογαριασμού
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
 sync-signedin-login-failure = Συνδεθείτε ξανά για επανασύνδεση του { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
