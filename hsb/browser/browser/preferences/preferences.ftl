@@ -452,6 +452,23 @@ settings-translations-subpage-no-languages-downloaded =
     .label = Žane rěče sćehnjene
 settings-translations-subpage-no-languages-added =
     .label = Žane rěče přidate
+settings-translations-subpage-download-progress = Sćehnjenje běži…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ({ $size }MB) njeda so sćahnyć
+settings-translations-subpage-download-retry-button =
+    .label = Hišće raz spytać
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size }MB) zhašeć?
+settings-translations-subpage-download-delete-button =
+    .label = Zhašeć
+settings-translations-subpage-download-cancel-button =
+    .label = Přetorhnyć
+settings-translations-subpage-no-sites-added =
+    .label = Žane sydła přidate
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -999,6 +1016,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizować
+account-placeholder =
+    .label = Njejsće přizjewjeny.
+    .description = Přizjewće so, zo byšće swoje daty na wšěch wašich gratach priwatne, zaklučowane a synchronizowane dźeržał.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1010,6 +1030,9 @@ sync-signedout-account-signin3 =
     .accesskey = c
 sync-signedout-account-signin-4 =
     .label = Přizjewće so pola swojeho konta, zo byšće synchronizaciju započał
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Přizjewić
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1049,7 +1072,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } njeje so přepruwował.
+sync-signedin-unverified2 =
+    .label = { $email } hišće wobkrućena njeje
+    .description = Hladajće do swojeho póstoweh dochada, zo byšće swoje konto wobkrućił a čińće ju oficielnu.
 sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał { $email }
+sync-signedin-login-failure2 =
+    .label = Sće wot { $email } wotzjewjeny
+    .description = Přizjewće so zaso, zo byšće so znowa zwjazał a započńće swoje daty synchronizować.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 

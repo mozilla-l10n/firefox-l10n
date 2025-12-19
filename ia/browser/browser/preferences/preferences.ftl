@@ -403,6 +403,10 @@ translate-attribution = Traductiones per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptiones…
     .accesskey = x
+settings-translations-subpage-never-translate-header =
+    .label = Non traducer jammais iste lingua
+settings-translations-subpage-language-select-option =
+    .label = Adder lingua
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
