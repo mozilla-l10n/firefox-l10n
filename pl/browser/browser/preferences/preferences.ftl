@@ -951,7 +951,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Wyloguj się…
     .accesskey = W
+sync-sign-out2 =
+    .label = Wyloguj się
+    .accesskey = W
 sync-manage-account = Zarządzaj kontem
+    .accesskey = Z
+sync-manage-account2 =
+    .label = Zarządzaj kontem
     .accesskey = Z
 
 ## Variables
