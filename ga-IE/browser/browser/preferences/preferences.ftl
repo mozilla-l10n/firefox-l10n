@@ -461,6 +461,9 @@ sync-profile-picture-with-alt =
     .alt = Athraigh an pictiúr próifíle
 sync-manage-account = Bainistigh mo chuntas
     .accesskey = o
+sync-manage-account2 =
+    .label = Bainistigh mo chuntas
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
