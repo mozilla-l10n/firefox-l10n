@@ -981,7 +981,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Allgofnodi…
     .accesskey = A
+sync-sign-out2 =
+    .label = Allgofnodi
+    .accesskey = A
 sync-manage-account = Rheoli cyfrif
+    .accesskey = R
+sync-manage-account2 =
+    .label = Rheoli cyfrif
     .accesskey = R
 
 ## Variables
