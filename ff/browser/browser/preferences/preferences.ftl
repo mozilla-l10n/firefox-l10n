@@ -522,7 +522,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Seŋto…
     .accesskey = ŋ
+sync-sign-out2 =
+    .label = Seŋto
+    .accesskey = ŋ
 sync-manage-account = Toppito konte
+    .accesskey = o
+sync-manage-account2 =
+    .label = Toppito konte
     .accesskey = o
 
 ## Variables
