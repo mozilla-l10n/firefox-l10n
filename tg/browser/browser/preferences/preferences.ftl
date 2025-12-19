@@ -659,8 +659,12 @@ home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ боя
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Саҳифаи асосӣ ва равзанаҳои нав
+home-homepage-new-windows =
+    .label = Равзанаи нав
 home-homepage-mode-label2 = Равзанаи нав
 home-newtabs-mode-label = Варақаҳои нав
+home-homepage-new-tabs =
+    .label = Варақаҳои нав
 home-restore-defaults =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
@@ -698,6 +702,8 @@ home-homepage-header = Саҳифаи асосӣ
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = Саҳифаи асосӣ
 
 ## Custom Homepage subpage
 
