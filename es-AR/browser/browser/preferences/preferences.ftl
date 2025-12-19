@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Elija lo que se ve al abrir su página prin
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Inicio y nuevas ventanas
+home-homepage-new-windows =
+    .label = Nuevas ventanas
 home-homepage-mode-label2 = Nuevas ventanas
 home-newtabs-mode-label = Nuevas pestañas
+home-homepage-new-tabs =
+    .label = Nuevas pestañas
 home-restore-defaults =
     .label = Restaurar predeterminados
     .accesskey = R
