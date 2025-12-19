@@ -498,6 +498,9 @@ sync-profile-picture-with-alt =
     .alt = Profil resmini değiştir
 sync-manage-account = Esapnı İdare Et
     .accesskey = H
+sync-manage-account2 =
+    .label = Esapnı İdare Et
+    .accesskey = H
 
 ## Variables
 ## $email (string) - Email used for Firefox account
