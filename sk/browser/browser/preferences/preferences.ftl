@@ -689,6 +689,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Spravovať rozšírenie
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Vyberte konkrétnu stránku
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Vyberte konkrétnu stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -708,6 +711,8 @@ home-homepage-header = Domovská stránka
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = Domovská stránka
 
 ## Custom Homepage subpage
 
