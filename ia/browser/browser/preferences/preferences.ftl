@@ -699,6 +699,11 @@ choose-bookmark =
     .accesskey = m
 home-homepage-header = Pagina initial
 
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Pagina initial
+
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagina initial personalisate
@@ -977,9 +982,15 @@ sync-manage-account = Gerer le conto
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } non es verificate.
 sync-signedin-login-failure = Per favor aperi session pro reconnecter { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
