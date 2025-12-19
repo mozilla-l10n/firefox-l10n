@@ -965,7 +965,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Kijelentkezés…
     .accesskey = K
+sync-sign-out2 =
+    .label = Kijelentkezés
+    .accesskey = K
 sync-manage-account = Fiók kezelése
+    .accesskey = F
+sync-manage-account2 =
+    .label = Fiók kezelése
     .accesskey = F
 
 ## Variables
