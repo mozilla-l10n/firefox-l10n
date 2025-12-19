@@ -664,8 +664,12 @@ home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue i
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Togue moñepyrũ ha ovetã pyahu
+home-homepage-new-windows =
+    .label = Ovetã pyahu
 home-homepage-mode-label2 = Ovetã pyahu
 home-newtabs-mode-label = tendayke pyahu
+home-homepage-new-tabs =
+    .label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
