@@ -137,6 +137,7 @@ place-database-stats-sequentiality-perc = Sequentialitate (%)
 place-database-integrity = Integritate
 place-database-verify-integrity = Verificar le integritate
 place-database-last-idle-maintenance-data = Data de ultime mantenentia foras de servicio
+place-database-last-integrity-corruption-date = Data del ultime corruption de integritate
 a11y-title = Accessibilitate
 a11y-activated = Activate
 a11y-force-disabled = Impedir le accessibilitate
