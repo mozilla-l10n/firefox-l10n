@@ -1104,7 +1104,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Odhlásit se…
     .accesskey = O
+sync-sign-out2 =
+    .label = Odhlásit se
+    .accesskey = O
 sync-manage-account = Spravovat účet
+    .accesskey = S
+sync-manage-account2 =
+    .label = Spravovat účet
     .accesskey = S
 
 ## Variables
