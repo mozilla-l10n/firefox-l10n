@@ -35,3 +35,53 @@ settings-data-backup-last-backup-date = Ultin backup: { DATETIME($date, timeStyl
 settings-data-backup-last-backup-location = Posizion
 settings-data-backup-last-backup-location-show-in-folder = Mostre te cartele
 settings-data-backup-last-backup-location-edit = Modifiche…
+settings-data-create-backup-error = Al è vignût fûr un erôr dilunc la creazion dal backup des { DATETIME($date, timeStyle: "short") } dal/dai { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Salve passwords e metodis di paiament e manten al sigûr ducj i tiei dâts cu la criptografie.
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Non file: { $fileName }
+settings-data-backup-restore-header = Ripristine i tiei dâts
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Dopre un backup di { -brand-product-name } che al rive di un altri dispositîf par ripristinâ i dâts.
+settings-data-backup-scheduled-backups-off-restore-choose = Sielç file di backup…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = Recupere i dâts di { -brand-product-name } dal ultin backup fat.
+settings-data-backup-scheduled-backups-on-restore-choose = Ripristine…
+settings-data-toggle-encryption-label = Salve i tiei dâts sensibii
+settings-data-toggle-encryption-support-link = Plui informazions
+settings-data-change-password = Cambie password…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Ative backup
+turn-on-scheduled-backups-description = { -brand-short-name } al crearà une istantanie dai tiei dâts ogni 24 oris. Tu puedis ripristinâju se al ven fûr un probleme o se tu tachis a doprâ un gnûf dispositîf.
+turn-on-scheduled-backups-support-link = Ce vignaraial salvât?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Posizion
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (conseade)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Sielç…
+       *[other] Esplore…
+    }
+turn-on-scheduled-backups-encryption-label = Salve i tiei dâts sensibii
+turn-on-scheduled-backups-encryption-create-password-label = Password
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Ripet la password
+turn-on-scheduled-backups-cancel-button = Anule
+turn-on-scheduled-backups-confirm-button = Ative backup
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Al è vignût fûr un probleme cu la cartele di backup selezionade. Sielç une altre cartele e torne prove.
+backup-error-file-system = Al è vignût ᶠûr un probleme cu la cartele selezionade dulinvie dal backup di { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = Disativâ il backup?
