@@ -670,6 +670,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = გაფართოების მართვა
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = აირჩიეთ ცალკეული საიტი
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = აირჩიეთ ცალკეული საიტი
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
