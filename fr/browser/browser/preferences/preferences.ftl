@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Page d’accueil et nouvelles fenêtres
+home-homepage-new-windows =
+    .label = Nouvelles fenêtres
 home-homepage-mode-label2 = Nouvelles fenêtres
 home-newtabs-mode-label = Nouveaux onglets
+home-homepage-new-tabs =
+    .label = Nouveaux onglets
 home-restore-defaults =
     .label = Configuration par défaut
     .accesskey = C
