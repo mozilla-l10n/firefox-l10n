@@ -650,8 +650,12 @@ home-new-windows-tabs-description2 = Выберыце, што бачыць, ка
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Хатняя старонка і новыя вокны
+home-homepage-new-windows =
+    .label = Новыя вокны
 home-homepage-mode-label2 = Новыя вокны
 home-newtabs-mode-label = Новыя карткі
+home-homepage-new-tabs =
+    .label = Новыя карткі
 home-restore-defaults =
     .label = Аднавіць прадвызначэнні
     .accesskey = А
