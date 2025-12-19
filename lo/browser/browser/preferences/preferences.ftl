@@ -677,7 +677,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = ອອກ​ຈາກ​ລະ​ບົບ…
     .accesskey = g
+sync-sign-out2 =
+    .label = ອອກ​ຈາກ​ລະ​ບົບ
+    .accesskey = g
 sync-manage-account = ຈັດການບັນຊີ
+    .accesskey = o
+sync-manage-account2 =
+    .label = ຈັດການບັນຊີ
     .accesskey = o
 
 ## Variables
