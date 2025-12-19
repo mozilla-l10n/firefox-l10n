@@ -831,7 +831,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Keluar…
     .accesskey = K
+sync-sign-out2 =
+    .label = Keluar
+    .accesskey = K
 sync-manage-account = Kelola Akun
+    .accesskey = o
+sync-manage-account2 =
+    .label = Kelola Akun
     .accesskey = o
 
 ## Variables
