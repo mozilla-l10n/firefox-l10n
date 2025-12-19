@@ -27,6 +27,10 @@ appmenuitem-downloads =
     .label = Luchdaidhean a-nuas
 appmenuitem-passwords =
     .label = Faclan-faire
+appmenuitem-extensions-and-themes =
+    .label = Leudachain is ùrlaran
+appmenuitem-extensions =
+    .label = Leudachain
 appmenuitem-addons-and-themes =
     .label = Tuilleadain ’s ùrlaran
 appmenuitem-print =
@@ -166,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Fosgail panail a’ phròifileir
+    .tooltiptext = Fosgail panail a’ phròifileir
 
 ## Profiler presets
 ## They are shown in the popup's select box.

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Poileasaidhean Enterprise
+aboutpolicies-page-heading =
+    .heading = Mu na poileasaidhean
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Gnìomhach
 errors-tab = Mearachdan

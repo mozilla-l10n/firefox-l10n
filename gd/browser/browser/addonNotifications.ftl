@@ -81,6 +81,8 @@ addon-removal-title = A bheil thu airson { $name } a thoirt air falbh?
 addon-removal-message = A bheil thu airson { $name } a thoirt air falbh o { -brand-shorter-name }?
 addon-removal-button = Thoir air falbh
 addon-removal-abuse-report-checkbox = Dèan aithris air an leudachan seo gu { -vendor-short-name }
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Ma chleachdas tu na gleusan no leudachain a chleachdas am modail seo, thèid a chur ris as ùr.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -135,15 +137,18 @@ addon-install-error-corrupt-file = Cha b’ urrainn dhuinn an tuilleadan a chaid
 addon-install-error-file-access = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s nach urrainn dha { -brand-short-name } am faidhle air a bheil feum atharrachadh.
 addon-install-error-not-signed = Cha do leig { -brand-short-name } leis an làrach seo tuilleadan neo-dhearbhte a stàladh.
 addon-install-error-invalid-domain = Cha ghabh an tuilleadan { $addonName } a stàladh on ionad seo.
+addon-install-error-no-addon-name-file-access = Cha b’ urrainn dhuinn an tuilleadan a stàladh a chionn ’s nach urrainn dha { -brand-short-name } am faidhle air a bheil feum atharrachadh.
 addon-local-install-error-network-failure = Cha do ghabh an tuilleadan seo a stàladh air sgàth mearachd ann an siostam nam faidhle.
 addon-local-install-error-incorrect-hash = Cha b’ urrainn dhuinn an tuilleadan seo a stàladh a chionn ’s nach eil e a’ freagairt ris an tuilleadan a bha dùil aig { -brand-short-name } ris.
 addon-local-install-error-corrupt-file = Cha do ghabh an tuilleadan seo a stàladh a chionn 's gu bheil e truaillte a-rèir coltais.
 addon-local-install-error-file-access = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s nach urrainn dha { -brand-short-name } am faidhle atharrachadh a dh’fheumas e atharrachadh.
 addon-local-install-error-not-signed = Cha b’ urrainn dhuinn an tuilleadan seo a stàladh a chionn ’s nach deach a dhearbhadh.
+addon-local-install-no-addon-name-error-file-access = Cha b’ urrainn dhuinn an tuilleadan a stàladh a chionn ’s nach urrainn dha { -brand-short-name } am faidhle air a bheil feum atharrachadh.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s nach eil e co-chòrdail le { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
+addon-install-error-soft-blocked2 = Tha { $addonName } fo chuingeachadh is cha ghabh a stàladh air { -brand-short-name }.
 addon-install-error-blocklisted = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s bheil cunnart mòr gun adhbharaich e duilgheadasan seasmhachd no tèarainteachd.
 addon-install-error-soft-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
