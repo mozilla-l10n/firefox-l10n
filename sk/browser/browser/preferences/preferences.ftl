@@ -668,8 +668,12 @@ home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zo
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Domovská stránka a nové okná
+home-homepage-new-windows =
+    .label = Nové okná
 home-homepage-mode-label2 = Nové okná
 home-newtabs-mode-label = Nové karty
+home-homepage-new-tabs =
+    .label = Nové karty
 home-restore-defaults =
     .label = Obnoviť predvolené
     .accesskey = r
@@ -701,6 +705,9 @@ choose-bookmark =
     .label = Použiť záložku…
     .accesskey = z
 home-homepage-header = Domovská stránka
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -981,9 +988,15 @@ sync-manage-account = Spravovať účet
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Adresa { $email } nie je overená.
 sync-signedin-login-failure = Ak sa chcete pripojiť k účtu { $email }, musíte sa prihlásiť.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
