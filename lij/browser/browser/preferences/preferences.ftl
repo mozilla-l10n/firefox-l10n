@@ -499,6 +499,9 @@ sync-profile-picture-with-alt =
     .alt = Cangia l’inmagine do profî
 sync-manage-account = Gestisci conto
     .accesskey = o
+sync-manage-account2 =
+    .label = Gestisci conto
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
