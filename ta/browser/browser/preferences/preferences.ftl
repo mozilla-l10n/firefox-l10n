@@ -488,6 +488,9 @@ sync-profile-picture-with-alt =
     .alt = சுயவிவரப் படத்தை மாற்று
 sync-manage-account = கணக்கை நிர்வகி
     .accesskey = o
+sync-manage-account2 =
+    .label = கணக்கை நிர்வகி
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
