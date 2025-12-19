@@ -677,6 +677,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Kudeatu hedapena
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Aukeratu gune zehatza
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Aukeratu gune zehatza
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -693,6 +696,11 @@ choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
 home-homepage-header = Hasiera-orria
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Hasiera-orria
 
 ## Custom Homepage subpage
 
@@ -958,9 +966,15 @@ sync-manage-account = Kudeatu kontua
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
 sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
