@@ -370,6 +370,9 @@ update-in-progress-ok-button = Isantabi
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Magpatuloy
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -442,6 +445,8 @@ home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag
 
 home-homepage-mode-label = Homepage at mga bagong window
 home-newtabs-mode-label = Mga bagong tab
+home-homepage-new-tabs =
+    .label = Mga bagong tab
 home-restore-defaults =
     .label = Ibalik sa dating ayos
     .accesskey = I
@@ -465,6 +470,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gumamit ng Bookmark...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -626,9 +637,15 @@ sync-manage-account = Pamahalaan ang account
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Hindi pa verified ang { $email }.
 sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -928,6 +945,12 @@ sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
@@ -1115,6 +1138,9 @@ collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa b
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1161,6 +1187,9 @@ httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
