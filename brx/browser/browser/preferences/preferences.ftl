@@ -364,6 +364,9 @@ containers-remove-button =
 
 sync-manage-account = एकाउन्ट सामलाय
     .accesskey = o
+sync-manage-account2 =
+    .label = एकाउन्ट सामलाय
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
