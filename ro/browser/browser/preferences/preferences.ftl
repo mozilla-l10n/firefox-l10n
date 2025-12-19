@@ -331,6 +331,8 @@ preferences-web-appearance-override-warning3 =
     .message = Setările de reglare a contrastului au prioritate față de aspectul site-ului web.
 preferences-web-appearance-link =
     .label = Gestionează temele { -brand-short-name } în Extensii și teme
+preferences-contrast-control-radio-group =
+    .label = Suprascrie culorile
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
@@ -837,6 +839,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Afișează sugestiile de căutare în rezultatele din bara de adresă
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Arată sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adrese
+search-show-suggestions-private-windows-2 =
+    .label = Sugestii de căutare în ferestre private
 search-suggestions-cant-show-2 =
     .message = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 # With this option enabled, while on a SERP, the URL normally displayed in the

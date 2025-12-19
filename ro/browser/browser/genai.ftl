@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Elimină { $provider }
 genai-menu-remove-sidebar =
     .label = Elimină din bara laterală
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Întreabă { $provider }
 genai-menu-new-badge = Nou
 genai-menu-summarize-page = Fă rezumatul paginii
 genai-input-ask-generic =
@@ -230,9 +233,13 @@ link-preview-reading-time =
        *[other] Timp de citire { $range } de minute
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } nu poate previzualiza linkul
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Nu putem afișa previzualizarea acestui link
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Intră pe link
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } nu poate genera puncte-cheie pentru pagina web.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Nu putem genera punctele-cheie pentru această pagină web.
 # Error message when something went wrong during key point generation
