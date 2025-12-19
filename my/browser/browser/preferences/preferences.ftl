@@ -480,6 +480,9 @@ sync-profile-picture-with-alt =
     .alt = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 sync-manage-account = အကောင့်ကို စီမံရန်
     .accesskey = o
+sync-manage-account2 =
+    .label = အကောင့်ကို စီမံရန်
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
