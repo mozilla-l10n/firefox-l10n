@@ -485,6 +485,9 @@ sync-profile-picture-with-alt =
     .alt = Maineit profila attālu
 sync-manage-account = Puorvaļdeit kontu
     .accesskey = a
+sync-manage-account2 =
+    .label = Puorvaļdeit kontu
+    .accesskey = a
 
 ## Variables
 ## $email (string) - Email used for Firefox account
