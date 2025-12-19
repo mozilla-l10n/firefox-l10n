@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Kezdőlap és új ablakok
+home-homepage-new-windows =
+    .label = Új ablakok
 home-homepage-mode-label2 = Új ablakok
 home-newtabs-mode-label = Új lapok
+home-homepage-new-tabs =
+    .label = Új lapok
 home-restore-defaults =
     .label = Alapértelmezések visszaállítása
     .accesskey = A
