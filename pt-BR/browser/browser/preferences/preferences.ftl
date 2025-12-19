@@ -562,6 +562,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -661,6 +664,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Gerenciar extensão
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Escolher um site específico
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Escolher um site específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -677,6 +683,11 @@ choose-bookmark =
     .label = Usar favorito…
     .accesskey = f
 home-homepage-header = Página inicial
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Página inicial
 
 ## Custom Homepage subpage
 
@@ -937,9 +948,15 @@ sync-manage-account = Gerenciar conta
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } não foi verificado.
 sync-signedin-login-failure = Entre para reconectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
