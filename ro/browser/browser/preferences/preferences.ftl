@@ -982,7 +982,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Ieși din cont…
     .accesskey = g
+sync-sign-out2 =
+    .label = Ieși din cont
+    .accesskey = g
 sync-manage-account = Gestionează contul
+    .accesskey = o
+sync-manage-account2 =
+    .label = Gestionează contul
     .accesskey = o
 
 ## Variables
