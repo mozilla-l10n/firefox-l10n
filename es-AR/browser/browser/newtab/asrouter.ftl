@@ -440,3 +440,4 @@ set-default-menu-message-row-layout-subtitle-variant =
        *[other] Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el navegador predeterminado y péguelo en la barra de tareas.
     }
 set-default-menu-message-primary-button = Hacer predeterminado
+set-default-menu-message-primary-button-variant = Establecer como navegador primario
