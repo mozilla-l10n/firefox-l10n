@@ -662,6 +662,8 @@ home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš p
 home-homepage-mode-label = Početna stranica i novi prozori
 home-homepage-mode-label2 = Novi prozori
 home-newtabs-mode-label = Nove kartice
+home-homepage-new-tabs =
+    .label = Nove kartice
 home-restore-defaults =
     .label = Obnovi standardne postavke
     .accesskey = O
@@ -693,6 +695,9 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 home-homepage-header = Početna stranica
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -956,9 +961,15 @@ sync-manage-account = Upravljaj računom
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
