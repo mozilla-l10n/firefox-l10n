@@ -530,7 +530,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = بچۆ دەرەوە
     .accesskey = g
+sync-sign-out2 =
+    .label = بچۆ دەرەوە
+    .accesskey = g
 sync-manage-account = ڕێکخستنی هەژمار
+    .accesskey = o
+sync-manage-account2 =
+    .label = ڕێکخستنی هەژمار
     .accesskey = o
 
 ## Variables
