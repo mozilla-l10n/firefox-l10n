@@ -553,6 +553,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ
@@ -655,6 +658,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = จัดการส่วนขยาย
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = เลือกไซต์ที่ต้องการ
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = เลือกไซต์ที่ต้องการ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -671,6 +677,11 @@ choose-bookmark =
     .label = ใช้ที่คั่นหน้า…
     .accesskey = ท
 home-homepage-header = หน้าแรก
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = หน้าแรก
 
 ## Custom Homepage subpage
 
@@ -927,9 +938,15 @@ sync-manage-account = จัดการบัญชี
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
