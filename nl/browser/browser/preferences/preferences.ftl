@@ -682,6 +682,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Extensie beheren
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Kies een specifieke website
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Kies een specifieke website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -698,6 +701,11 @@ choose-bookmark =
     .label = Bladwijzer gebruiken…
     .accesskey = B
 home-homepage-header = Startpagina
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startpagina
 
 ## Custom Homepage subpage
 
@@ -977,9 +985,15 @@ sync-manage-account = Account beheren
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } is niet geverifieerd.
 sync-signedin-login-failure = Meld u aan om { $email } opnieuw te verbinden
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
