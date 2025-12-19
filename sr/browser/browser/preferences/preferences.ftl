@@ -807,7 +807,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Одјави ме…
     .accesskey = О
+sync-sign-out2 =
+    .label = Одјави ме
+    .accesskey = О
 sync-manage-account = Управљај налогом
+    .accesskey = У
+sync-manage-account2 =
+    .label = Управљај налогом
     .accesskey = У
 
 ## Variables
