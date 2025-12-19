@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Adicionar aos favoritos ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Exibição dividida
+    .aria-label = Exibição dividida
 
 ## Page Action Context Menu
 
@@ -835,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Não mostrar sugestões do mercado financeiro
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Obrigado por sua opinião. Não irá mais aparecer sugestões do mercado financeiro.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugestões do mercado de ações
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Obrigado por sua opinião. Não irá mais aparecer essas sugestões.

@@ -76,4 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Wobchowajśo l
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantiske pytanje historije
-experimental-features-semantic-history-search-description = Wužywajśo lokalny model mašinowego wuknjenja, aby zapiski z historije naraźił, kótarež sw na waše pytanje na zakłaźe pśirodnego rěcnego rozměśa w adresowem pólu { -brand-product-name } póśěguju. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
+experimental-features-semantic-history-search-description = Wužywajśo lokalny model mašinowego wuknjenja, aby zapiski z historije naraźił, kótarež se na waše pytanje na zakłaźe pśirodnego rěcnego rozměśa w adresowem pólu { -brand-product-name } póśěguju. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
