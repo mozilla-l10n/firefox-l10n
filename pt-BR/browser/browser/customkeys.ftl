@@ -35,3 +35,5 @@ customkeys-nav-reload = Recarregar
 customkeys-nav-reload-skip-cache = Recarregar (substituir cache)
 customkeys-nav-stop = Parar
 customkeys-caution-message = Este recurso é experimental e pode não funcionar como esperado.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Inválida

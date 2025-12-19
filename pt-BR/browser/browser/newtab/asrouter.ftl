@@ -426,3 +426,8 @@ etp-strict-exceptions-infobar-button = Aplicar correções
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Agora não
     .accesskey = A
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } não é seu navegador padrão
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } não é seu navegador principal

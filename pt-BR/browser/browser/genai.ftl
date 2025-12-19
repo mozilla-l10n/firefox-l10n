@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Remover { $provider }
 genai-menu-remove-sidebar =
     .label = Remover do painel lateral
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Consultar { $provider }
 genai-menu-new-badge = Novidade
 genai-menu-summarize-page = Resumir página
 genai-input-ask-generic =

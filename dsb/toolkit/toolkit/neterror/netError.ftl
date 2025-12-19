@@ -42,7 +42,7 @@ neterror-error-reporting-automatic = Dajśo zmólki ako toś te k wěsći, aby {
 neterror-generic-error = { -brand-short-name } njamóžo toś ten bok někakeje pśicyny dla cytaś.
 neterror-load-error-try-again = Sedło njeby mógło nachylu k dispoziciji staś abo by mógło pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.
 neterror-load-error-connection = Jolic njamóžośo někotare boki cytaś, pśespytajśo zwisk wašeje licadłoweje seśi.
-neterror-load-error-firewall = Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až { -brand-short-name } ma pšawo na web pśistup měś.
+neterror-load-error-firewall = Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až { -brand-short-name } ma pšawo k weboju pśistup měś.
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jolic wopytujośo, bok lokalneje seśi zacytaś, pśeglědujśo pšosym, lěc { -brand-short-name } jo dostał pšawa lokalneje seśi w nastajenjach priwatnosći a wěstoty.
 neterror-http-error-page = Pśeglědujśo, lěc sćo korektnje zapódał adresu websedła.
