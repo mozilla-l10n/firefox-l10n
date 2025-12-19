@@ -655,8 +655,12 @@ home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Aloitussivu ja uudet ikkunat
+home-homepage-new-windows =
+    .label = Uudet ikkunat
 home-homepage-mode-label2 = Uudet ikkunat
 home-newtabs-mode-label = Uudet välilehdet
+home-homepage-new-tabs =
+    .label = Uudet välilehdet
 home-restore-defaults =
     .label = Palauta oletukset
     .accesskey = P
@@ -688,6 +692,9 @@ choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
 home-homepage-header = Etusivu
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -950,9 +957,15 @@ sync-manage-account = Hallinnoi tiliä
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
