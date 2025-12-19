@@ -523,6 +523,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -604,6 +607,8 @@ home-new-windows-tabs-description2 = Изберете какво да вижда
 
 home-homepage-mode-label = Начална страница и нови прозорци
 home-newtabs-mode-label = Нов раздел
+home-homepage-new-tabs =
+    .label = Нов раздел
 home-restore-defaults =
     .label = Стандартни настройки
     .accesskey = с
@@ -629,6 +634,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -826,9 +837,15 @@ sync-manage-account = Управление на профила
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
