@@ -55,6 +55,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> s’ka efekt mbi kët
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nuk mbulohet për pseudo-elementë të theksuar.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nuk mbulohet për ::cue pseudo-elements.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> s’mbulohet në rregulla <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -75,6 +76,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Provoni të shtoni <stron
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Provoni të shtoni <strong>display:grid</strong>, <strong>display:flex</strong>, ose <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Provoni të shtoni ose <strong>column-count</strong>, ose <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Provoni të shtoni <strong>column-count</strong>, ose <strong>column-width</strong> te një nga elementët e tij paraardhës. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Provoni të shtoni <strong>position:absolute</strong> te elementi, ose <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, ose <strong>display:inline-flex</strong> te mëma e elementit. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Provoni të shtoni <strong>position:absolute</strong> te elementi, ose <strong>display:grid</strong> apo <strong>display:inline-grid</strong> te mëma e elementit. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Provoni të shtoni <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, ose <strong>display:inline-flex</strong> te mëma e elementit. { learn-more }
 inactive-css-not-grid-item-fix-2 = Provoni të shtoni <strong>display:grid</strong> ose <strong>display:inline-grid</strong> te mëma e elementit. { learn-more }
 inactive-css-not-grid-container-fix = Provoni të shtoni <strong>display:grid</strong> ose <strong>display:inline-grid</strong>. { learn-more }
