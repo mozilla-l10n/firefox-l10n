@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 �
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 홈페이지와 새 창
+home-homepage-new-windows =
+    .label = 새 창
 home-homepage-mode-label2 = 새 창
 home-newtabs-mode-label = 새 탭
+home-homepage-new-tabs =
+    .label = 새 탭
 home-restore-defaults =
     .label = 기본값으로 복원
     .accesskey = R
