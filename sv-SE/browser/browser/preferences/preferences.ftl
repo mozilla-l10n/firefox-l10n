@@ -682,6 +682,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Hantera tillägg
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Välj en specifik webbplats
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Välj en specifik webbplats
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -698,6 +701,11 @@ choose-bookmark =
     .label = Använd bokmärke…
     .accesskey = d
 home-homepage-header = Startsida
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startsida
 
 ## Custom Homepage subpage
 
@@ -977,9 +985,15 @@ sync-manage-account = Hantera konto
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } är inte verifierat.
 sync-signedin-login-failure = Logga in för att återansluta { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
