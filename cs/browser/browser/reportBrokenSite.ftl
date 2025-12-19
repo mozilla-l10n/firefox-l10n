@@ -6,7 +6,7 @@ report-broken-site-mainview-title = Nahlášení nefunkční stránky
 report-broken-site-panel-header =
     .label = Nahlásit nefunkční stránku
     .title = Nahlášení nefunkční stránky
-report-broken-site-panel-intro-text = Vaše zpráva nám pomůže pochopit a opravit problémy v prohlížeči { -brand-product-name }, aby byl lepší pro všechny.
+report-broken-site-panel-intro-text = Vaše hlášení nám pomáhá porozumět problémům ve { -brand-product-name(case: "loc") } a opravit je, aby byl lepší pro všechny.
 report-broken-site-panel-learn-more-link = Zjistit více
 report-broken-site-panel-intro =
     { -brand-product-name.case-status ->
