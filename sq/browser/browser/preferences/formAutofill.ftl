@@ -66,6 +66,8 @@ autofill-address-neighborhood = Lagje
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-village-township = Fshat ose Lokalitet
 autofill-address-island = Ishull
+# Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
+autofill-address-townland = Komunë
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),

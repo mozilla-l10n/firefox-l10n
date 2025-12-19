@@ -433,5 +433,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name }-i s
 set-default-menu-message-row-layout-title = Bëjeni { -brand-short-name }-in shfletuesin tuaj parësor
 set-default-menu-message-row-layout-title-variant = Bëjeni { -brand-short-name }-in shfletuesin tuaj parazgjedhje?
 set-default-menu-message-row-layout-subtitle = Përfitoni shpejtësi, siguri dhe privatësi, sa herë që shfletoni.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te Paneli juaj.
+       *[other] Kijeni { -brand-short-name }-in në majë të gishtave — bëjeni shfletuesin tuaj parazgjedhje dhe kijeni te paneli juaj i punëve.
+    }
 set-default-menu-message-primary-button = Vëre si parazgjedhje
 set-default-menu-message-primary-button-variant = Vëre si shfletuesin parësor

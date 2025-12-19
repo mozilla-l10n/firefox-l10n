@@ -160,6 +160,7 @@ sidebar-button-callout-title = Shfaq te anështylla tituj skedash
 sidebar-button-callout-subtitle = Përdoreni butonin e anështyllës që ta zgjeroni atë, kështu mund të shihni tituj e skedave.
 sidebar-button-callout-vertical-tabs = Që të shfaqen skedat tuaja, përzgjidhni te paneli butonin e anështyllës.
 sidebar-deprecation-callout-title = Anështylla e përditësuar vjen së shpejti
+sidebar-deprecation-callout-subtitle = Po e nxjerrim nga përdorimi versionin e anështyllës që përdorni tani. Provoni anështyllën e përditësuar. Është më e shpejtë dhe mund të hyni në më tepër mjete.
 sidebar-deprecation-cta-button = Provojeni tani
 
 ## Sidebar Vertical Tabs Strings

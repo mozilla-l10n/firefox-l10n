@@ -668,6 +668,12 @@ newtab-widget-section-title = Widget-e
 newtab-widget-section-hide-all-button =
     .title = Fshihni widget-et
     .aria-label = Fshihni krejt widget-et
+newtab-widget-section-maximize =
+    .title = Zgjeroji widget-et
+    .aria-label = Zgjeroji krejt widget-et sa madhësia e plotë
+newtab-widget-section-minimize =
+    .title = Minimizoji widget-et
+    .aria-label = Tkurri krejt widget-et sa madhësia kompakte
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
