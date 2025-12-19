@@ -739,7 +739,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
     .accesskey = g
+sync-sign-out2 =
+    .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+    .accesskey = g
 sync-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+    .accesskey = o
+sync-manage-account2 =
+    .label = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
     .accesskey = o
 
 ## Variables
