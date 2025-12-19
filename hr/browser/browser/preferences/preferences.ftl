@@ -660,6 +660,8 @@ home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš p
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Početna stranica i novi prozori
+home-homepage-new-windows =
+    .label = Novi prozori
 home-homepage-mode-label2 = Novi prozori
 home-newtabs-mode-label = Nove kartice
 home-homepage-new-tabs =
