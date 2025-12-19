@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw start
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startpagina en nieuwe vensters
+home-homepage-new-windows =
+    .label = Nieuwe vensters
 home-homepage-mode-label2 = Nieuwe vensters
 home-newtabs-mode-label = Nieuwe tabbladen
+home-homepage-new-tabs =
+    .label = Nieuwe tabbladen
 home-restore-defaults =
     .label = Standaardwaarden herstellen
     .accesskey = S
