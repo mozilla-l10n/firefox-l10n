@@ -676,6 +676,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Hallitse laajennusta
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Valitse tietty sivusto
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Valitse tietty sivusto
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -695,6 +698,8 @@ home-homepage-header = Etusivu
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = Etusivu
 
 ## Custom Homepage subpage
 
