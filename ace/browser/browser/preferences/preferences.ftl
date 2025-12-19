@@ -458,6 +458,9 @@ sync-profile-picture-with-alt =
     .alt = Gantoe gamba profil
 sync-manage-account = Peularha akun
     .accesskey = e
+sync-manage-account2 =
+    .label = Peularha akun
+    .accesskey = e
 
 ## Variables
 ## $email (string) - Email used for Firefox account
