@@ -992,7 +992,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Wotzjewić…
     .accesskey = t
+sync-sign-out2 =
+    .label = Wotzjewić
+    .accesskey = t
 sync-manage-account = Konto rjadować
+    .accesskey = o
+sync-manage-account2 =
+    .label = Konto rjadować
     .accesskey = o
 
 ## Variables
