@@ -672,8 +672,12 @@ home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
+home-homepage-new-windows =
+    .label = Ffenestri newydd
 home-homepage-mode-label2 = Ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd
+home-homepage-new-tabs =
+    .label = Tabiau newydd
 home-restore-defaults =
     .label = Adfer y Rhagosodiadau
     .accesskey = A
