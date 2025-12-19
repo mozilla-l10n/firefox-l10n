@@ -682,6 +682,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = ניהול הרחבה
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = בחירה באתר מסוים
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = בחירה באתר מסוים
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -698,6 +701,11 @@ choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
 home-homepage-header = דף הבית
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = דף הבית
 
 ## Custom Homepage subpage
 
@@ -977,9 +985,15 @@ sync-manage-account = ניהול חשבון
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
