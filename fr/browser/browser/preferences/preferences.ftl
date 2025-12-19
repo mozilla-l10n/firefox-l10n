@@ -403,6 +403,68 @@ translate-attribution = Traductions fournies par <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
+settings-translations-header =
+    .label = Traductions
+    .aria-label = Traductions
+    .description = Traduire des pages ou du texte sélectionné. Pour protéger votre vie privée, les traductions restent sur votre appareil.
+settings-translations-offer-to-translate-label =
+    .label = Proposer une traduction complète
+settings-translations-more-settings-button =
+    .label = Plus de paramètres de traduction
+    .description = Définissez des préférences de langue, de sites web et de traduction hors connexion.
+settings-translations-subpage-header =
+    .heading = Plus de paramètres de traduction
+settings-translations-subpage-speed-up-translation-header =
+    .label = Accélération de la traduction
+    .description = Télécharger les langues complètes pour des traductions plus rapides et pour traduire hors ligne.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traduction automatique
+settings-translations-subpage-always-translate-header =
+    .label = Toujours traduire ces langues
+settings-translations-subpage-never-translate-header =
+    .label = Ne jamais traduire ces langues
+settings-translations-subpage-never-translate-sites-header =
+    .label = Ne jamais traduire ces sites
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Pour ajouter un site, ouvrez le panneau de traduction <img data-l10n-name="translations-icon"/>, sélectionnez <img data-l10n-name="settings-icon"/> les paramètres de traduction, puis choisissez « Ne jamais traduire site »
+settings-translations-subpage-language-select-option =
+    .label = Ajouter une langue
+settings-translations-subpage-language-add-button =
+    .aria-label = Ajouter une langue
+    .title = Ajouter une langue
+settings-translations-subpage-download-languages-header =
+    .label = Télécharger des langues
+settings-translations-subpage-download-languages-select-option =
+    .label = Choisir la langue
+settings-translations-subpage-download-languages-button =
+    .aria-label = Langue du téléchargement
+    .title = Langue du téléchargement
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } Mo)
+    .label = { $language } ({ $size } Mo)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Aucune langue téléchargée
+settings-translations-subpage-no-languages-added =
+    .label = Aucune langue ajoutée
+settings-translations-subpage-download-progress = Téléchargement en cours…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Impossible de télécharger { $language } ({ $size } Mo)
+settings-translations-subpage-download-retry-button =
+    .label = Réessayer
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Supprimer { $language } ({ $size } Mo) ?
+settings-translations-subpage-download-delete-button =
+    .label = Supprimer
+settings-translations-subpage-download-cancel-button =
+    .label = Annuler
+settings-translations-subpage-no-sites-added =
+    .label = Aucun site ajouté
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -948,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronisation
+account-placeholder =
+    .label = Votre compte n’est pas connecté
+    .description = Connectez-vous pour que vos données restent privées, chiffrées et synchronisées sur tous vos appareils.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -959,6 +1024,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = Connectez-vous à votre compte pour lancer la synchronisation
+    .accesskey = C
+sync-signedout-account-short =
+    .label = Connexion
     .accesskey = C
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -998,7 +1066,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } n’est pas vérifié.
+sync-signedin-unverified2 =
+    .label = { $email } n’est pas encore confirmé
+    .description = Consultez votre boîte de réception pour confirmer votre compte et le rendre officiel.
 sync-signedin-login-failure = Veuillez vous identifier pour vous reconnecter via { $email }
+sync-signedin-login-failure2 =
+    .label = Vous êtes déconnecté·e de { $email }
+    .description = Reconnectez-vous pour vous reconnecter et commencer à synchroniser vos données.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 

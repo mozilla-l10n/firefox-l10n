@@ -403,6 +403,68 @@ translate-attribution = Översättningar av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undantag…
     .accesskey = U
+settings-translations-header =
+    .label = Översättningar
+    .aria-label = Översättningar
+    .description = Översätt sidor eller markerad text. För att skydda din integritet stannar översättningar på din enhet.
+settings-translations-offer-to-translate-label =
+    .label = Erbjuder helsidesöversättning
+settings-translations-more-settings-button =
+    .label = Fler översättningsinställningar
+    .description = Ange inställningar för språk, webbplatser och offlineöversättning.
+settings-translations-subpage-header =
+    .heading = Fler översättningsinställningar
+settings-translations-subpage-speed-up-translation-header =
+    .label = Snabba upp översättningen
+    .description = Ladda ner kompletta språk för snabbare översättningar och för att översätta offline.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatisk översättning
+settings-translations-subpage-always-translate-header =
+    .label = Översätt alltid dessa språk
+settings-translations-subpage-never-translate-header =
+    .label = Översätt aldrig dessa språk
+settings-translations-subpage-never-translate-sites-header =
+    .label = Översätt aldrig dessa webbplatser
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = För att lägga till en webbplats, öppna översättningspanelen <img data-l10n-name="translations-icon"/>, välj <img data-l10n-name="settings-icon"/> översättningsinställningar och välj sedan "Översätt aldrig det här" webbplats"
+settings-translations-subpage-language-select-option =
+    .label = Lägg till språk
+settings-translations-subpage-language-add-button =
+    .aria-label = Lägg till språk
+    .title = Lägg till språk
+settings-translations-subpage-download-languages-header =
+    .label = Ladda ner språk
+settings-translations-subpage-download-languages-select-option =
+    .label = Välj språk
+settings-translations-subpage-download-languages-button =
+    .aria-label = Ladda ner språk
+    .title = Ladda ner språk
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Inga språk hämtade
+settings-translations-subpage-no-languages-added =
+    .label = Inga språk har lagts till
+settings-translations-subpage-download-progress = Hämtning pågår…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Det gick inte att hämta { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Försök igen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Ta bort { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Ta bort
+settings-translations-subpage-download-cancel-button =
+    .label = Avbryt
+settings-translations-subpage-no-sites-added =
+    .label = Inga webbplatser har lagts till
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -948,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-placeholder =
+    .label = Du är inte inloggad
+    .description = Logga in för att hålla din data privat, krypterad och synkroniserad mellan enheter.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -959,6 +1024,9 @@ sync-signedout-account-signin3 =
     .accesskey = L
 sync-signedout-account-signin-4 =
     .label = Logga in på ditt konto för att börja synkronisera
+    .accesskey = L
+sync-signedout-account-short =
+    .label = Logga in
     .accesskey = L
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -998,7 +1066,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } är inte verifierat.
+sync-signedin-unverified2 =
+    .label = { $email } är inte bekräftad än
+    .description = Kontrollera din inkorg för att bekräfta ditt konto och göra det officiellt.
 sync-signedin-login-failure = Logga in för att återansluta { $email }
+sync-signedin-login-failure2 =
+    .label = Du är utloggad från { $email }
+    .description = Logga in igen för att återansluta och börja synkronisera din data.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
