@@ -663,8 +663,12 @@ home-new-windows-tabs-description2 = Оберіть, що ви хочете ба
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Домівка та нові вікна
+home-homepage-new-windows =
+    .label = Нові вікна
 home-homepage-mode-label2 = Нові вікна
 home-newtabs-mode-label = Нові вкладки
+home-homepage-new-tabs =
+    .label = Нові вкладки
 home-restore-defaults =
     .label = Відновити типові
     .accesskey = т
