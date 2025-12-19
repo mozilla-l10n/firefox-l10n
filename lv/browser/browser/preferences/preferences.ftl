@@ -774,7 +774,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Izrakstīties…
     .accesskey = z
+sync-sign-out2 =
+    .label = Izrakstīties
+    .accesskey = z
 sync-manage-account = Pārvaldīt kontu
+    .accesskey = a
+sync-manage-account2 =
+    .label = Pārvaldīt kontu
     .accesskey = a
 
 ## Variables
