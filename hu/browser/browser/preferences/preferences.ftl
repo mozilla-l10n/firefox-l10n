@@ -677,6 +677,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Kiegészítő kezelése
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Válasszon egy adott oldalt
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Válasszon egy adott oldalt
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -693,6 +696,11 @@ choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
 home-homepage-header = Kezdőlap
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Kezdőlap
 
 ## Custom Homepage subpage
 
@@ -958,9 +966,15 @@ sync-manage-account = Fiók kezelése
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = A(z) { $email } nincs ellenőrizve.
 sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztatásához
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
