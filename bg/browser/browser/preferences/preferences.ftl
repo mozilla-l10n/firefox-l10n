@@ -832,6 +832,9 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Излизане…
     .accesskey = з
+sync-sign-out2 =
+    .label = Излизане
+    .accesskey = з
 sync-manage-account = Управление на профила
     .accesskey = У
 
