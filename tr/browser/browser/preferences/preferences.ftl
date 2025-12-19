@@ -971,7 +971,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Çıkış yap…
     .accesskey = k
+sync-sign-out2 =
+    .label = Çıkış yap
+    .accesskey = k
 sync-manage-account = Hesabı yönet
+    .accesskey = H
+sync-manage-account2 =
+    .label = Hesabı yönet
     .accesskey = H
 
 ## Variables
