@@ -477,6 +477,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -555,6 +558,8 @@ home-new-windows-tabs-description2 = Causissètz çò que volètz veire en dobri
 
 home-homepage-mode-label = Pagina d’acuèlh e novèlas fenèstras
 home-newtabs-mode-label = Onglets novèls
+home-homepage-new-tabs =
+    .label = Onglets novèls
 home-restore-defaults =
     .label = Restablir los paramètres per defaut
     .accesskey = R
@@ -580,6 +585,12 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -766,9 +777,15 @@ sync-manage-account = Gestion del compte
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
