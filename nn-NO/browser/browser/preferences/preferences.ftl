@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vindauge
+home-homepage-new-windows =
+    .label = Nye vindauge
 home-homepage-mode-label2 = Nye vindauge
 home-newtabs-mode-label = Nye faner
+home-homepage-new-tabs =
+    .label = Nye faner
 home-restore-defaults =
     .label = Bruk standardinnstillingar
     .accesskey = r
@@ -704,6 +708,8 @@ home-homepage-header = Startside
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = Startside
 
 ## Custom Homepage subpage
 
