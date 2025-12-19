@@ -632,7 +632,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Mag-sign out...
     .accesskey = g
+sync-sign-out2 =
+    .label = Mag-sign out
+    .accesskey = g
 sync-manage-account = Pamahalaan ang account
+    .accesskey = o
+sync-manage-account2 =
+    .label = Pamahalaan ang account
     .accesskey = o
 
 ## Variables
