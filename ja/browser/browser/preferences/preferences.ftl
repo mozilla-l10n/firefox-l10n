@@ -641,8 +641,12 @@ home-new-windows-tabs-description2 = ホームページ、新しいウィンド�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = ホームページと新しいウィンドウ
+home-homepage-new-windows =
+    .label = 新しいウィンドウ
 home-homepage-mode-label2 = 新しいウィンドウ
 home-newtabs-mode-label = 新しいタブ
+home-homepage-new-tabs =
+    .label = 新しいタブ
 home-restore-defaults =
     .label = 既定値に戻す
     .accesskey = R
@@ -674,6 +678,9 @@ choose-bookmark =
     .label = ブックマークを使う...
     .accesskey = B
 home-homepage-header = ホームページ
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -930,9 +937,15 @@ sync-manage-account = アカウントの管理
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } は認証されていません。
 sync-signedin-login-failure = { $email } に再接続するにはログインしてください。
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
