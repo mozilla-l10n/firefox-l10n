@@ -968,7 +968,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = 로그아웃…
     .accesskey = g
+sync-sign-out2 =
+    .label = 로그아웃
+    .accesskey = g
 sync-manage-account = 계정 관리
+    .accesskey = o
+sync-manage-account2 =
+    .label = 계정 관리
     .accesskey = o
 
 ## Variables
