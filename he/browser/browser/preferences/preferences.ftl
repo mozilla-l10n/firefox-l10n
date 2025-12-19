@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = דף הבית וחלונות חדשים
+home-homepage-new-windows =
+    .label = חלונות חדשים
 home-homepage-mode-label2 = חלונות חדשים
 home-newtabs-mode-label = לשוניות חדשות
+home-homepage-new-tabs =
+    .label = לשוניות חדשות
 home-restore-defaults =
     .label = שחזור ברירות מחדל
     .accesskey = ש
