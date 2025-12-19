@@ -492,7 +492,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Kat Woko…
     .accesskey = K
+sync-sign-out2 =
+    .label = Kat Woko
+    .accesskey = K
 sync-manage-account = Lo akaunt
+    .accesskey = o
+sync-manage-account2 =
+    .label = Lo akaunt
     .accesskey = o
 
 ## Variables
