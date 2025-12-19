@@ -650,8 +650,12 @@ home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwie
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Strona startowa i nowe okna:
+home-homepage-new-windows =
+    .label = Nowe okna:
 home-homepage-mode-label2 = Nowe okna:
 home-newtabs-mode-label = Nowa karta:
+home-homepage-new-tabs =
+    .label = Nowa karta:
 home-restore-defaults =
     .label = Przywróć domyślne
     .accesskey = P
