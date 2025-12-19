@@ -983,7 +983,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Ñesẽte
     .accesskey = ñ
+sync-sign-out2 =
+    .label = Ñesẽte
+    .accesskey = ñ
 sync-manage-account = Mba’ete ñangarekoha
+    .accesskey = o
+sync-manage-account2 =
+    .label = Mba’ete ñangarekoha
     .accesskey = o
 
 ## Variables
