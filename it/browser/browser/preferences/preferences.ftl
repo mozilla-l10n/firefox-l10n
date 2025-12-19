@@ -403,6 +403,68 @@ translate-attribution = Traduzioni a cura di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eccezioni…
     .accesskey = z
+settings-translations-header =
+    .label = Traduzioni
+    .aria-label = Traduzioni
+    .description = Traduci le pagine che visiti o il testo selezionato. Per proteggere la tua privacy, le traduzioni rimangono sul tuo dispositivo.
+settings-translations-offer-to-translate-label =
+    .label = Offri traduzione dell’intera pagina
+settings-translations-more-settings-button =
+    .label = Altre impostazioni di traduzione
+    .description = Imposta le preferenze per lingue, siti web e traduzione non in linea.
+settings-translations-subpage-header =
+    .heading = Altre impostazioni di traduzione
+settings-translations-subpage-speed-up-translation-header =
+    .label = Velocizza la traduzione
+    .description = Scarica le lingue complete per tradurre più velocemente e senza bisogno di una connessione a Internet.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traduzione automatica
+settings-translations-subpage-always-translate-header =
+    .label = Traduci sempre da queste lingue
+settings-translations-subpage-never-translate-header =
+    .label = Non tradurre mai da queste lingue
+settings-translations-subpage-never-translate-sites-header =
+    .label = Non tradurre mai questi siti
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Per aggiungere un sito, apri il pannello di traduzione <img data-l10n-name="translations-icon"/>, seleziona le impostazioni <img data-l10n-name="settings-icon"/>, quindi scegli “Non tradurre mai questo sito”
+settings-translations-subpage-language-select-option =
+    .label = Aggiungi lingua
+settings-translations-subpage-language-add-button =
+    .aria-label = Aggiungi lingua
+    .title = Aggiungi lingua
+settings-translations-subpage-download-languages-header =
+    .label = Scarica lingue
+settings-translations-subpage-download-languages-select-option =
+    .label = Scegli lingua
+settings-translations-subpage-download-languages-button =
+    .aria-label = Scarica lingua
+    .title = Scarica lingua
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nessuna lingua scaricata
+settings-translations-subpage-no-languages-added =
+    .label = Nessuna lingua aggiunta
+settings-translations-subpage-download-progress = Download in corso…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Impossibile scaricare { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Riprova
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Eliminare { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Elimina
+settings-translations-subpage-download-cancel-button =
+    .label = Annulla
+settings-translations-subpage-no-sites-added =
+    .label = Nessun sito aggiunto
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
