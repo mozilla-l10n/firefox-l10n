@@ -1764,6 +1764,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bllokoni flluska dhe ridrejtime nga palë të treta…
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Administroni përjashtime për flluska dhe ridrejtime nga palë të treta
+    .accesskey = A
+    .searchkeywords = flluska
 permissions-addon-install-warning2 =
     .label = Kur sajte përpiqen të instalojnë zgjerime
     .accesskey = K

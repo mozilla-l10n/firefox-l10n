@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Skadon / Moshë Maks.
 storage-table-headers-cookies-size = Madhësi
 storage-table-headers-cookies-last-accessed = Përdorur Së Fundi Më
 storage-table-headers-cookies-creation-time = Krijuar më
+storage-table-headers-cookies-update-time = Përditësuar
 storage-table-headers-cache-status = Gjendje
 storage-table-headers-extension-storage-area = Zonë Depozitimi
 

@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Ju lutemi, zgjidhni një arsye
 report-broken-site-panel-blocked-trackers-label =
     .label = Dërgo URL-ra të bllokuara nga mbrojtja nga gjurmimet
 report-broken-site-panel-blocked-trackers-description = Mbrojtja e Thelluar Nga Gjurmimi mund të bllokojë gjurmues dhe programthe të cilët disa sajti i kanë të nevojshëm për të punuar si duhet.
+report-broken-site-panel-preview-button =
+    .label = Bëni paraparje të raportimit
+report-broken-site-panel-preview-header =
+    .label = Bëni paraparje të raportimit
