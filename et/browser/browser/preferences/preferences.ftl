@@ -714,7 +714,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Logi välja…
     .accesskey = o
+sync-sign-out2 =
+    .label = Logi välja
+    .accesskey = o
 sync-manage-account = Halda kontot
+    .accesskey = o
+sync-manage-account2 =
+    .label = Halda kontot
     .accesskey = o
 
 ## Variables
