@@ -968,7 +968,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Đăng xuất…
     .accesskey = g
+sync-sign-out2 =
+    .label = Đăng xuất
+    .accesskey = g
 sync-manage-account = Quản lý tài khoản
+    .accesskey = k
+sync-manage-account2 =
+    .label = Quản lý tài khoản
     .accesskey = k
 
 ## Variables
