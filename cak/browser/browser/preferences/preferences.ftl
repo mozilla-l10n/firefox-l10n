@@ -697,7 +697,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Titz'apïx Molojri'ïl…
     .accesskey = p
+sync-sign-out2 =
+    .label = Titz'apïx Molojri'ïl
+    .accesskey = p
 sync-manage-account = Tinuk'samajïx rub'i' taqoya'l
+    .accesskey = y
+sync-manage-account2 =
+    .label = Tinuk'samajïx rub'i' taqoya'l
     .accesskey = y
 
 ## Variables
