@@ -527,6 +527,9 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Өнімділік
@@ -609,8 +612,12 @@ home-new-windows-tabs-description2 = Үй парағын, жаңа терезе�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Үй парағы және жаңа терезелер
+home-homepage-new-windows =
+    .label = Жаңа терезелер
 home-homepage-mode-label2 = Жаңа терезелер
 home-newtabs-mode-label = Жаңа беттер
+home-homepage-new-tabs =
+    .label = Жаңа беттер
 home-restore-defaults =
     .label = Бастапқы мәндерін қайтару
     .accesskey = ы
@@ -639,6 +646,9 @@ use-current-pages =
 choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -855,9 +865,15 @@ sync-manage-account = Тіркелгіні басқару
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } расталған жоқ
 sync-signedin-login-failure = Байланысты қайта орнатуға үшін кіріңіз { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
