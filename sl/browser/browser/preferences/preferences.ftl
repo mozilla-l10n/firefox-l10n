@@ -563,6 +563,9 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Učinkovitost
@@ -645,8 +648,12 @@ home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete do
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Domača stran in nova okna
+home-homepage-new-windows =
+    .label = Nova okna
 home-homepage-mode-label2 = Nova okna
 home-newtabs-mode-label = Novi zavihki
+home-homepage-new-tabs =
+    .label = Novi zavihki
 home-restore-defaults =
     .label = Obnovi privzeto
     .accesskey = O
@@ -661,6 +668,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljanje razširitve
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Izberite določeno stran
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Izberite določeno stran
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -678,6 +688,11 @@ choose-bookmark =
     .label = Uporabi zaznamek …
     .accesskey = z
 home-homepage-header = Domača stran
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Domača stran
 
 ## Custom Homepage subpage
 
@@ -932,9 +947,15 @@ sync-manage-account = Upravljanje računa
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
