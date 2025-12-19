@@ -852,7 +852,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Útskráning…
     .accesskey = g
+sync-sign-out2 =
+    .label = Útskráning
+    .accesskey = g
 sync-manage-account = Sýsla með aðgang
+    .accesskey = m
+sync-manage-account2 =
+    .label = Sýsla með aðgang
     .accesskey = m
 
 ## Variables
