@@ -665,7 +665,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = خروج...
     .accesskey = g
+sync-sign-out2 =
+    .label = خروج
+    .accesskey = g
 sync-manage-account = مدیریت حساب
+    .accesskey = ح
+sync-manage-account2 =
+    .label = مدیریت حساب
     .accesskey = ح
 
 ## Variables
