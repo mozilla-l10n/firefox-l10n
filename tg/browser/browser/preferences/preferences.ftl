@@ -676,6 +676,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Идоракунии васеъшавӣ
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Интихоб кардани сомонаи муайян
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Интихоб кардани сомонаи муайян
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -692,6 +695,9 @@ choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
 home-homepage-header = Саҳифаи асосӣ
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -966,9 +972,15 @@ sync-manage-account = Идоракунии ҳисобҳо
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } тасдиқ нашудааст.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
