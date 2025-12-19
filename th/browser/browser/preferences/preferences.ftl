@@ -641,8 +641,12 @@ home-new-windows-tabs-description2 = เลือกสิ่งที่คุ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = หน้าแรกและหน้าต่างใหม่
+home-homepage-new-windows =
+    .label = หน้าต่างใหม่
 home-homepage-mode-label2 = หน้าต่างใหม่
 home-newtabs-mode-label = แท็บใหม่
+home-homepage-new-tabs =
+    .label = แท็บใหม่
 home-restore-defaults =
     .label = เรียกคืนค่าเริ่มต้น
     .accesskey = ร
