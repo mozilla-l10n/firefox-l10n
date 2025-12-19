@@ -279,6 +279,20 @@ tab-context-move-tab-to-group =
            *[other] Add Tabs to Group
         }
     .accesskey = Shtoji Skedat te Grup
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Shto Pamje Krah Për Krah te Grup i Ri
+           *[other] Add Split Views to New Group
+        }
+    .accesskey = Shto Pamje Krah Për Krah te Grup i Ri
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Shto Pamje Krah Për Krah te Grup
+           *[other] Add Split Views to Group
+        }
+    .accesskey = Shto Pamje Krah Për Krah te Grup
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupe të Mbyllur
 tab-group-editor-action-new-tab =
@@ -343,6 +357,13 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Shtoni Shënim
+    .accesskey = m
+tab-context-edit-note =
+    .label = Përpunoni Shënim
+    .accesskey = P
+tab-note-editor-title-create = Shtoni shënim
 tab-note-editor-title-edit = Përpunoni shënim
 tab-note-editor-text-field =
     .placeholder = Ç’doni të mbahet mend rreth kësaj skede?

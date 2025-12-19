@@ -857,6 +857,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option-2 =
     .label = Shfaq sugjerime kërkimi para historikut të shfletimeve, te përfundime shtylle adresash
+search-show-suggestions-private-windows-2 =
+    .label = Sugjerime kërkimesh në dritare private
 search-suggestions-cant-show-2 =
     .message = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -868,6 +870,8 @@ search-separate-default-engine-2 =
     .accesskey = P
 search-separate-default-engine-dropdown =
     .aria-label = Motor parazgjedhje kërkimesh për dritare private
+search-suggestions-header-2 =
+    .label = Sugjerime motorësh kërkimi
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -953,6 +957,9 @@ sync-signedout-description2 = Njëkohësoni faqerojtësit tuaj, skedat, fjalëka
 sync-signedout-account-signin3 =
     .label = Për njëkohësim, bëni hyrjen…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Që të nisë njëkohësimi, bëni hyrjen te llogaria juaj
+    .accesskey = Q
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -993,11 +1000,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } nuk është i verifikuar.
 sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -1016,7 +1018,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Njëkohësim: ON
+prefs-syncing-on-2 =
+    .label = Njëkohësimi është ON
 prefs-syncing-off = Njëkohësim: OFF
+prefs-syncing-off-2 =
+    .label = Njëkohësimi është OFF
+    .description = Që të keni faqerojtësit tuaj, fjalëkalimet, historikun, etj në cilëndo pajisje, aktivizoni njëkohësimin.
 prefs-sync-turn-on-syncing =
     .label = Aktivizoni njëkohësimin…
     .accesskey = A
@@ -1043,6 +1050,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Po bëni njëkohësim të këtyre objekteve në krejt pajisjet tuaja të lidhura:
+sync-syncing-across-devices-heading-2 = Të dhënat u njëkohësuan mes pajisjesh
+sync-syncing-across-devices-empty-state =
+    .label = S’po njëkohësoni gjë… ende jo.
+    .description = Që të merrni krejt të dhënat tuaja në krejt pajisjet tuaja, nisni njëkohësimin.
 sync-currently-syncing-bookmarks = Faqerojtës
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Skeda të hapura
@@ -1055,6 +1066,9 @@ sync-currently-syncing-addons = Shtesa
 sync-currently-syncing-settings = Rregullime
 sync-manage-options =
     .label = Administroni njëkohësim…
+    .accesskey = A
+sync-manage-options-2 =
+    .label = Administroni të dhëna të njëkohësuara
     .accesskey = A
 sync-change-options =
     .label = Ndryshojini…
@@ -1172,10 +1186,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Fjalëkalime
     .searchkeywords = kredenciale hyrjesh
+forms-passwords-header =
+    .label = Fjalëkalim
+    .aria-label = Fjalëkalime
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Pyet të ruhen fjalëkalimet a jo
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Administroni përjashtime fjalëkalimesh
+    .accesskey = A
 forms-exceptions =
     .label = Përjashtime…
     .accesskey = a
@@ -1206,6 +1226,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Plotëso automatikisht emra përdoruesish dhe fjalëkalime
     .accesskey = P
+forms-fill-usernames-and-passwords-2 =
+    .label = Ruani dhe vetëplotësoni emra përdoruesish dhe fjalëkalime
+    .accesskey = v
 forms-saved-passwords =
     .label = Fjalëkalime të ruajtur
     .accesskey = r
@@ -1213,11 +1236,16 @@ forms-saved-passwords-2 =
     .label = Administroni fjalëkalime të ruajtura
     .accesskey = A
 forms-saved-passwords-searchkeywords = Kredenciale hyrjeje për sajtet vijues janë të depozituara në kompjuterin tuaj
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Mbrojtje shtesë
 forms-primary-pw-use =
     .label = Përdorni një Fjalëkalim të Përgjithshëm
     .accesskey = P
 forms-primary-pw-set =
     .label = Caktoni fjalëkalim parësor
+forms-primary-pw-on =
+    .label = Fjalëkalimi parësor është ON
 forms-primary-pw-change-2 =
     .label = Ndryshoni fjalëkalim parësor
 # Label for button to disable primary password.
@@ -1301,6 +1329,7 @@ autofill-payment-methods-add-button = Shtoni metodë të re pagesash
 payments-list-header =
     .label = Metoda pagesash
 payments-list-item-label = <strong>Metoda pagesash</strong>
+payments-delete-payment-prompt-title = Të fshihet kjo metodë pagesash?
 payments-delete-payment-prompt-confirm-button = Fshije
 payments-delete-payment-prompt-cancel-button = Anuloje
 payments-remove-payment-prompt-title = Të hiqet kjo metodë pagesash?
@@ -1337,7 +1366,7 @@ address-moz-box-item =
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
-#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .label = { $cardNumber }
@@ -1379,6 +1408,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat dhe s’do të mbajë mend ndonjë historik, teksa shfletoni në Web.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name }-i do të përdorë rregullime të përshtatur për historik shfletimi, shkarkimesh, formularësh dhe kërkimesh tuajat.
 history-remember-description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
 history-dontremember-description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat dhe s’do të mbajë mend ndonjë historik, teksa shfletoni në Web.
 history-private-browsing-permanent =
@@ -1528,6 +1560,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Kërkime së fundi
     .accesskey = K
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Sugjerime kërkimi në modë
+    .accesskey = S
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 addressbar-locbar-showrecentsearches-option =
     .label = Shfaq kërkime së fundi
@@ -1729,6 +1764,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bllokoni flluska dhe ridrejtime nga palë të treta…
     .accesskey = B
+permissions-addon-install-warning2 =
+    .label = Kur sajte përpiqen të instalojnë zgjerime
+    .accesskey = K
+permissions-addon-exceptions2 =
+    .label = Zgjidhni cilët sajte mund të instalojnë zgjerime
+    .accesskey = Z
 permissions-block-popups =
     .label = Blloko dritare flluska
     .accesskey = B

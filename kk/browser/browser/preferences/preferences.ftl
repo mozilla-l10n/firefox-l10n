@@ -527,9 +527,6 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Өнімділік
@@ -646,9 +643,6 @@ use-current-pages =
 choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
-
-## Home Section - Home Page Customization
-
 
 ## Custom Homepage subpage
 
@@ -875,11 +869,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } расталған жоқ
 sync-signedin-login-failure = Байланысты қайта орнатуға үшін кіріңіз { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

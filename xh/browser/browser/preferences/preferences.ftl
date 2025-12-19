@@ -349,6 +349,7 @@ sync-profile-picture-with-alt =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } akuqinisekiswanga.
 sync-signedin-login-failure = Sicela ungene ukuze uphinde uqhagamshele { $email }

@@ -318,9 +318,6 @@ update-in-progress-ok-button = &Stagghia
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Pristazziuni
@@ -415,12 +412,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -528,9 +519,6 @@ containers-add-button =
 containers-remove-button =
     .label = Leva
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -570,11 +558,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -734,12 +717,6 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Crunuluggìa
@@ -834,12 +811,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Privacy Section - Address Bar
 
@@ -1007,9 +978,6 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1040,12 +1008,6 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

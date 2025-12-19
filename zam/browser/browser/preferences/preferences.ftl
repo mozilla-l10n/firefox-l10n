@@ -144,6 +144,7 @@ search-choose-keyword-column =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-login-failure = -taɁ lélù { $email }
 

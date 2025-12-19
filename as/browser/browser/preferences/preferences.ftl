@@ -222,6 +222,7 @@ search-default-engine =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = আপোনাৰ ইমেইল ঠিকনা { $email } সতা সত্য নিৰূপিত নহয়।
 sync-signedin-login-failure = পুনৰ সংযোগ কৰিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক { $email }
