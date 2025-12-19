@@ -647,8 +647,12 @@ home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = ਮੁੱਖ-ਸਫ਼ਾ ਅਤੇ ਨਵੀਆਂ ਵਿੰਡੋਆਂ
+home-homepage-new-windows =
+    .label = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
 home-homepage-mode-label2 = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
 home-newtabs-mode-label = ਨਵੀਆਂ ਟੈਬਾਂ
+home-homepage-new-tabs =
+    .label = ਨਵੀਆਂ ਟੈਬਾਂ
 home-restore-defaults =
     .label = ਮੂਲ ਬਹਾਲ ਕਰੋ
     .accesskey = R
@@ -686,6 +690,8 @@ home-homepage-header = ਮੁੱਖ ਸਫ਼ਾ
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = ਮੁੱਖ ਸਫ਼ਾ
 
 ## Custom Homepage subpage
 
