@@ -859,6 +859,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Motor de căutare implicit în ferestrele private
+search-suggestions-header-2 =
+    .label = Sugestii motor de căutare
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
