@@ -648,7 +648,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Sign Oot…
     .accesskey = g
+sync-sign-out2 =
+    .label = Sign Oot
+    .accesskey = g
 sync-manage-account = Manage accoont
+    .accesskey = o
+sync-manage-account2 =
+    .label = Manage accoont
     .accesskey = o
 
 ## Variables
