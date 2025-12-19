@@ -859,6 +859,9 @@ sync-sign-out =
     .accesskey = o
 sync-manage-account = Administrar il conto
     .accesskey = o
+sync-manage-account2 =
+    .label = Administrar il conto
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
