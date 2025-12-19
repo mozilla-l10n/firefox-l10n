@@ -409,6 +409,49 @@ translate-attribution = Přełožki wot <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wuwzaća…
     .accesskey = u
+settings-translations-header =
+    .label = Přełožki
+    .aria-label = Přełožki
+    .description = Přełožće strony abo wubrany tekst. Zo byšće swoju priwatnosć, přełožki na wašom graće wostawaja.
+settings-translations-offer-to-translate-label =
+    .label = Přełožowanje dospołnych stronow poskićić
+settings-translations-more-settings-button =
+    .label = Dalše přełožowanske nastajenja
+    .description = Postajće nastajenja za rěče, websydła a přełožowanje offline.
+settings-translations-subpage-header =
+    .heading = Dalše přełožowanske nastajenja
+settings-translations-subpage-speed-up-translation-header =
+    .label = Přełožowanje pospěšić
+    .description = Sćehńće dospołne rěče za spěšniše přełožki a zo byšće offline přełožował.
+settings-translations-subpage-automatic-translation-header =
+    .label = Awtomatiske přełožowanje
+settings-translations-subpage-always-translate-header =
+    .label = Tute rěče přeco přełožować
+settings-translations-subpage-never-translate-header =
+    .label = Tute rěče ženje njepřełožować
+settings-translations-subpage-never-translate-sites-header =
+    .label = Tute websydła ženje njepřełožić
+settings-translations-subpage-language-select-option =
+    .label = Rěč přidać
+settings-translations-subpage-language-add-button =
+    .aria-label = Rěč přidać
+    .title = Rěč přidać
+settings-translations-subpage-download-languages-header =
+    .label = Rěče sćahnyć
+settings-translations-subpage-download-languages-select-option =
+    .label = Rěč wubrać
+settings-translations-subpage-download-languages-button =
+    .aria-label = Rěč sćahnyć
+    .title = Rěč sćahnyć
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Žane rěče sćehnjene
+settings-translations-subpage-no-languages-added =
+    .label = Žane rěče přidate
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
