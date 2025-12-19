@@ -771,7 +771,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = سائن آؤٹ …
     .accesskey = g
+sync-sign-out2 =
+    .label = سائن آؤٹ{ " " }
+    .accesskey = g
 sync-manage-account = اکاؤنٹ منظم کرو
+    .accesskey = o
+sync-manage-account2 =
+    .label = اکاؤنٹ منظم کرو
     .accesskey = o
 
 ## Variables
