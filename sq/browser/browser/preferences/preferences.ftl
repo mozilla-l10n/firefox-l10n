@@ -838,6 +838,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Shfaq sugjerime kërkimi te përfundimet në shtyllë adresash
     .accesskey = q
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Shfaq sugjerime kërkimi para historikut të shfletimeve, te përfundime shtylle adresash
 search-suggestions-cant-show-2 =
     .message = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 # With this option enabled, while on a SERP, the URL normally displayed in the
