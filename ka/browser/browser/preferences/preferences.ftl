@@ -565,6 +565,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -683,6 +686,11 @@ choose-bookmark =
     .label = სანიშნის გამოყენება…
     .accesskey = ს
 home-homepage-header = საწყისი გვერდი
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = საწყისი გვერდი
 
 ## Custom Homepage subpage
 
@@ -943,9 +951,15 @@ sync-manage-account = ანგარიშის მართვა
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
