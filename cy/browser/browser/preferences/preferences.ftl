@@ -689,6 +689,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Rheoli estyniad
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Dewis safle penodol
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Dewis safle penodol
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -705,6 +708,11 @@ choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
 home-homepage-header = Tudalen Cartref
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Tudalen Cartref
 
 ## Custom Homepage subpage
 
@@ -974,9 +982,15 @@ sync-manage-account = Rheoli cyfrif
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } wedi ei wirio.
 sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
