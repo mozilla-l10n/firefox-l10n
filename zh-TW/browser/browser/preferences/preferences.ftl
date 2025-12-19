@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 首頁與新視窗
+home-homepage-new-windows =
+    .label = 新視窗
 home-homepage-mode-label2 = 新視窗
 home-newtabs-mode-label = 新分頁
+home-homepage-new-tabs =
+    .label = 新分頁
 home-restore-defaults =
     .label = 回復為預設值
     .accesskey = R
