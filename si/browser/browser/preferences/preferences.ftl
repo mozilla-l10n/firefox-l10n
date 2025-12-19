@@ -790,7 +790,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = නික්මෙන්න…
     .accesskey = g
+sync-sign-out2 =
+    .label = නික්මෙන්න
+    .accesskey = g
 sync-manage-account = ගිණුම කළමනාකරණය
+    .accesskey = o
+sync-manage-account2 =
+    .label = ගිණුම කළමනාකරණය
     .accesskey = o
 
 ## Variables
