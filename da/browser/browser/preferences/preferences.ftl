@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din st
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vinduer
+home-homepage-new-windows =
+    .label = Nye vinduer
 home-homepage-mode-label2 = Nye vinduer
 home-newtabs-mode-label = Nye faneblade
+home-homepage-new-tabs =
+    .label = Nye faneblade
 home-restore-defaults =
     .label = Gendan standarder
     .accesskey = G
