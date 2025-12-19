@@ -562,6 +562,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
@@ -661,6 +664,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -677,6 +683,9 @@ choose-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
     .accesskey = B
 home-homepage-header = ਮੁੱਖ ਸਫ਼ਾ
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -937,9 +946,15 @@ sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
 sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
