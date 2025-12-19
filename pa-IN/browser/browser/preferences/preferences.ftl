@@ -947,7 +947,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = ਸਾਈਨ ਆਉਟ…
     .accesskey = g
+sync-sign-out2 =
+    .label = ਸਾਈਨ ਆਉਟ
+    .accesskey = g
 sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = o
+sync-manage-account2 =
+    .label = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = o
 
 ## Variables
