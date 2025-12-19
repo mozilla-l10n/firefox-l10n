@@ -404,6 +404,9 @@ sync-profile-picture-with-alt =
     .alt = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
 sync-manage-account = ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು
     .accesskey = o
+sync-manage-account2 =
+    .label = ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
