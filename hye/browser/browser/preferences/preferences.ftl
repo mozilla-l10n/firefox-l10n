@@ -709,7 +709,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Դուրս գալ…
     .accesskey = g
+sync-sign-out2 =
+    .label = Դուրս գալ
+    .accesskey = g
 sync-manage-account = Կառավարել հաշիւը
+    .accesskey = o
+sync-manage-account2 =
+    .label = Կառավարել հաշիւը
     .accesskey = o
 
 ## Variables
