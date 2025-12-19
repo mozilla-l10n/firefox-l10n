@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pag
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina principal e nove fenestras
+home-homepage-new-windows =
+    .label = Nove fenestras
 home-homepage-mode-label2 = Nove fenestras
 home-newtabs-mode-label = Nove schedas
+home-homepage-new-tabs =
+    .label = Nove schedas
 home-restore-defaults =
     .label = Restaurar le predefinitiones
     .accesskey = R
@@ -681,6 +685,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gerer extension
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Eliger un sito specific
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Eliger un sito specific
 # This string has a special case for '1' and [other] (default). If necessary for
