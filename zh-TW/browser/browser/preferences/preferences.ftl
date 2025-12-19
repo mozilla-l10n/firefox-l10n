@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 首頁與新視窗
+home-homepage-new-windows =
+    .label = 新視窗
 home-homepage-mode-label2 = 新視窗
 home-newtabs-mode-label = 新分頁
+home-homepage-new-tabs =
+    .label = 新分頁
 home-restore-defaults =
     .label = 回復為預設值
     .accesskey = R
@@ -669,6 +673,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = 管理擴充套件
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 選擇特定網站
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = 選擇特定網站
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -686,6 +693,11 @@ choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
 home-homepage-header = 首頁
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = 首頁
 
 ## Custom Homepage subpage
 
@@ -960,14 +972,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = 登出…
     .accesskey = g
+sync-sign-out2 =
+    .label = 登出
+    .accesskey = g
 sync-manage-account = 管理帳號
+    .accesskey = o
+sync-manage-account2 =
+    .label = 管理帳號
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 未驗證。
 sync-signedin-login-failure = 請登入以重新連線 { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

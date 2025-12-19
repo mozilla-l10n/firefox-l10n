@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 �
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 홈페이지와 새 창
+home-homepage-new-windows =
+    .label = 새 창
 home-homepage-mode-label2 = 새 창
 home-newtabs-mode-label = 새 탭
+home-homepage-new-tabs =
+    .label = 새 탭
 home-restore-defaults =
     .label = 기본값으로 복원
     .accesskey = R
@@ -669,6 +673,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = 확장 기능 관리
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 특정 사이트 선택
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = 특정 사이트 선택
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -686,6 +693,11 @@ choose-bookmark =
     .label = 북마크 사용…
     .accesskey = B
 home-homepage-header = 홈페이지
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = 홈페이지
 
 ## Custom Homepage subpage
 
@@ -956,14 +968,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = 로그아웃…
     .accesskey = g
+sync-sign-out2 =
+    .label = 로그아웃
+    .accesskey = g
 sync-manage-account = 계정 관리
+    .accesskey = o
+sync-manage-account2 =
+    .label = 계정 관리
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
 sync-signedin-login-failure = { $email }으로 다시 연결하려면 로그인하세요
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš p
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Početna stranica i novi prozori
+home-homepage-new-windows =
+    .label = Novi prozori
 home-homepage-mode-label2 = Novi prozori
 home-newtabs-mode-label = Nove kartice
+home-homepage-new-tabs =
+    .label = Nove kartice
 home-restore-defaults =
     .label = Obnovi standardne postavke
     .accesskey = O
@@ -676,6 +680,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljaj proširenjem
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Odaberi određenu web-stranicu
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Odaberi određenu web-stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -693,6 +700,11 @@ choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 home-homepage-header = Početna stranica
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Početna stranica
 
 ## Custom Homepage subpage
 
@@ -951,14 +963,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Odjavi se …
     .accesskey = O
+sync-sign-out2 =
+    .label = Odjavi se{ " " }
+    .accesskey = O
 sync-manage-account = Upravljaj računom
+    .accesskey = u
+sync-manage-account2 =
+    .label = Upravljaj računom
     .accesskey = u
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

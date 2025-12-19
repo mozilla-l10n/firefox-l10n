@@ -562,6 +562,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
@@ -644,8 +647,12 @@ home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = ਮੁੱਖ-ਸਫ਼ਾ ਅਤੇ ਨਵੀਆਂ ਵਿੰਡੋਆਂ
+home-homepage-new-windows =
+    .label = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
 home-homepage-mode-label2 = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
 home-newtabs-mode-label = ਨਵੀਆਂ ਟੈਬਾਂ
+home-homepage-new-tabs =
+    .label = ਨਵੀਆਂ ਟੈਬਾਂ
 home-restore-defaults =
     .label = ਮੂਲ ਬਹਾਲ ਕਰੋ
     .accesskey = R
@@ -660,6 +667,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -677,6 +687,11 @@ choose-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
     .accesskey = B
 home-homepage-header = ਮੁੱਖ ਸਫ਼ਾ
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = ਮੁੱਖ ਸਫ਼ਾ
 
 ## Custom Homepage subpage
 
@@ -932,14 +947,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = ਸਾਈਨ ਆਉਟ…
     .accesskey = g
+sync-sign-out2 =
+    .label = ਸਾਈਨ ਆਉਟ
+    .accesskey = g
 sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = o
+sync-manage-account2 =
+    .label = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
 sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

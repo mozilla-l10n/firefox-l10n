@@ -487,6 +487,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -566,6 +569,8 @@ home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, 
 
 home-homepage-mode-label = මුල් පිටුව හා නව කවුළු
 home-newtabs-mode-label = නව පටිති
+home-homepage-new-tabs =
+    .label = නව පටිති
 home-restore-defaults =
     .label = පෙරනිමියට ප්‍රත්‍යර්පණය
     .accesskey = R
@@ -591,6 +596,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -779,14 +790,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = නික්මෙන්න…
     .accesskey = g
+sync-sign-out2 =
+    .label = නික්මෙන්න
+    .accesskey = g
 sync-manage-account = ගිණුම කළමනාකරණය
+    .accesskey = o
+sync-manage-account2 =
+    .label = ගිණුම කළමනාකරණය
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

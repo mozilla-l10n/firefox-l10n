@@ -565,6 +565,9 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Wydajność
@@ -647,8 +650,12 @@ home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwie
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Strona startowa i nowe okna:
+home-homepage-new-windows =
+    .label = Nowe okna:
 home-homepage-mode-label2 = Nowe okna:
 home-newtabs-mode-label = Nowa karta:
+home-homepage-new-tabs =
+    .label = Nowa karta:
 home-restore-defaults =
     .label = Przywróć domyślne
     .accesskey = P
@@ -663,6 +670,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Zarządzaj rozszerzeniem
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wybierz inną stronę
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Wybierz inną stronę
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -680,6 +690,11 @@ choose-bookmark =
     .label = Użyj zakładki…
     .accesskey = z
 home-homepage-header = Strona startowa
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Strona startowa
 
 ## Custom Homepage subpage
 
@@ -936,14 +951,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Wyloguj się…
     .accesskey = W
+sync-sign-out2 =
+    .label = Wyloguj się
+    .accesskey = W
 sync-manage-account = Zarządzaj kontem
+    .accesskey = Z
+sync-manage-account2 =
+    .label = Zarządzaj kontem
     .accesskey = Z
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
 sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

@@ -659,8 +659,12 @@ home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ боя
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Саҳифаи асосӣ ва равзанаҳои нав
+home-homepage-new-windows =
+    .label = Равзанаи нав
 home-homepage-mode-label2 = Равзанаи нав
 home-newtabs-mode-label = Варақаҳои нав
+home-homepage-new-tabs =
+    .label = Варақаҳои нав
 home-restore-defaults =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
@@ -675,6 +679,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Идоракунии васеъшавӣ
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Интихоб кардани сомонаи муайян
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Интихоб кардани сомонаи муайян
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -692,6 +699,11 @@ choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
 home-homepage-header = Саҳифаи асосӣ
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Саҳифаи асосӣ
 
 ## Custom Homepage subpage
 
@@ -961,14 +973,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Баромадан…
     .accesskey = Б
+sync-sign-out2 =
+    .label = Баромадан
+    .accesskey = Б
 sync-manage-account = Идоракунии ҳисобҳо
+    .accesskey = И
+sync-manage-account2 =
+    .label = Идоракунии ҳисобҳо
     .accesskey = И
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } тасдиқ нашудааст.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

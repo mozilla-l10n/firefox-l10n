@@ -530,6 +530,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -613,6 +616,8 @@ home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorit
 
 home-homepage-mode-label = Početna stranica i novi prozori
 home-newtabs-mode-label = Novi tabovi
+home-homepage-new-tabs =
+    .label = Novi tabovi
 home-restore-defaults =
     .label = Vrati na početne vrijednosti
     .accesskey = R
@@ -638,6 +643,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -846,14 +857,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Odjava…
     .accesskey = g
+sync-sign-out2 =
+    .label = Odjava
+    .accesskey = g
 sync-manage-account = Upravljanje računom
+    .accesskey = o
+sync-manage-account2 =
+    .label = Upravljanje računom
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

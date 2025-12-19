@@ -264,6 +264,9 @@ update-application-use-service =
     .label = နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = စွမ်းဆောင်ရည်
@@ -323,6 +326,8 @@ home-new-windows-tabs-header = ဝင်းဒိုးအသစ်နှင့�
 
 home-homepage-mode-label = အဖွင့်စာမျက်နှာနှင့် ဝင်းဒိုးအသစ်များ
 home-newtabs-mode-label = တပ်ဗ်အသစ်များ
+home-homepage-new-tabs =
+    .label = တပ်ဗ်အသစ်များ
 home-restore-defaults =
     .label = မူလအတိုင်း ပြန်ထားပါ
     .accesskey = R
@@ -346,6 +351,12 @@ use-current-pages =
 choose-bookmark =
     .label = စာမှတ်ကို အသုံးပြုပါ…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -443,6 +454,9 @@ containers-add-button =
 containers-remove-button =
     .label = ဖယ်ရှားပါ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -466,12 +480,21 @@ sync-profile-picture-with-alt =
     .alt = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 sync-manage-account = အကောင့်ကို စီမံရန်
     .accesskey = o
+sync-manage-account2 =
+    .label = အကောင့်ကို စီမံရန်
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ​ကို အတည်မပြုရသေးပါ။
 sync-signedin-login-failure = ပြန်လည်ချိတ်ဆက်ရန် အကောင့်ဖြင့် ဝင်ရောက်ပါ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -484,6 +507,9 @@ sync-remove-account =
 sync-sign-in =
     .label = ဝင်ပါ
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -583,6 +609,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = မှတ်တမ်း
@@ -657,6 +689,12 @@ sitedata-clear =
 sitedata-settings =
     .label = အချက်အလက်ကို စီမံပါ...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -783,6 +821,9 @@ addon-recommendations-link = ပိုမိုလေ့လာရန်
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -814,6 +855,12 @@ certs-devices =
     .label = လုံခြုံရေး ကိရိယာများ...
     .accesskey = D
 certs-devices-enable-fips = FIPS ကို ဖွင့်ထားပါ
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

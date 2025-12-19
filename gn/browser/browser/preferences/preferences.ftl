@@ -664,8 +664,12 @@ home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue i
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Togue moñepyrũ ha ovetã pyahu
+home-homepage-new-windows =
+    .label = Ovetã pyahu
 home-homepage-mode-label2 = Ovetã pyahu
 home-newtabs-mode-label = tendayke pyahu
+home-homepage-new-tabs =
+    .label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
@@ -680,6 +684,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Eñangareko jepysokuére
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Eiporavo peteĩ tendaite
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Eiporavo peteĩ tendaite
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -697,6 +704,11 @@ choose-bookmark =
     .label = Techaukaha poru…
     .accesskey = B
 home-homepage-header = Kuatiarogue ñepyrũha
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Kuatiarogue ñepyrũha
 
 ## Custom Homepage subpage
 
@@ -971,14 +983,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Ñesẽte
     .accesskey = ñ
+sync-sign-out2 =
+    .label = Ñesẽte
+    .accesskey = ñ
 sync-manage-account = Mba’ete ñangarekoha
+    .accesskey = o
+sync-manage-account2 =
+    .label = Mba’ete ñangarekoha
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
 sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Kezdőlap és új ablakok
+home-homepage-new-windows =
+    .label = Új ablakok
 home-homepage-mode-label2 = Új ablakok
 home-newtabs-mode-label = Új lapok
+home-homepage-new-tabs =
+    .label = Új lapok
 home-restore-defaults =
     .label = Alapértelmezések visszaállítása
     .accesskey = A
@@ -676,6 +680,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Kiegészítő kezelése
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Válasszon egy adott oldalt
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Válasszon egy adott oldalt
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -693,6 +700,11 @@ choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
 home-homepage-header = Kezdőlap
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Kezdőlap
 
 ## Custom Homepage subpage
 
@@ -953,14 +965,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Kijelentkezés…
     .accesskey = K
+sync-sign-out2 =
+    .label = Kijelentkezés
+    .accesskey = K
 sync-manage-account = Fiók kezelése
+    .accesskey = F
+sync-manage-account2 =
+    .label = Fiók kezelése
     .accesskey = F
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = A(z) { $email } nincs ellenőrizve.
 sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztatásához
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

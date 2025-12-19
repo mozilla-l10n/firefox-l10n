@@ -276,6 +276,9 @@ update-application-use-service =
     .label = સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = કામગીરી
@@ -337,6 +340,8 @@ home-new-windows-tabs-description2 = જ્યારે તમે તમાર�
 
 home-homepage-mode-label = મુખ્ય પૃષ્ઠ અને નવી વિંડોઝ
 home-newtabs-mode-label = નવી ટૅબ્સ
+home-homepage-new-tabs =
+    .label = નવી ટૅબ્સ
 home-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
     .accesskey = R
@@ -360,6 +365,12 @@ use-current-pages =
 choose-bookmark =
     .label = બુકમાર્ક વાપરો…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -458,6 +469,9 @@ containers-add-button =
 containers-remove-button =
     .label = દૂર કરો
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -481,12 +495,21 @@ sync-profile-picture-with-alt =
     .alt = પ્રોફાઇલ ચિત્ર બદલો
 sync-manage-account = ખાતાને સંચાલિત કરો
     .accesskey = o
+sync-manage-account2 =
+    .label = ખાતાને સંચાલિત કરો
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ચકાસેલ નથી.
 sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -499,6 +522,12 @@ sync-remove-account =
 sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -591,6 +620,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ઇતિહાસ
@@ -680,6 +715,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -812,6 +853,9 @@ addon-recommendations-link = વધુ શીખો
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -843,6 +887,12 @@ certs-devices =
     .label = સુરક્ષા ઉપકરણો…
     .accesskey = D
 certs-devices-enable-fips = FIPS સક્રિય કરો
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

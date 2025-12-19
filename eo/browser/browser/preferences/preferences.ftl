@@ -562,6 +562,9 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -644,8 +647,12 @@ home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Eka paĝo kaj novaj fenestroj
+home-homepage-new-windows =
+    .label = Novaj fenestroj
 home-homepage-mode-label2 = Novaj fenestroj
 home-newtabs-mode-label = Novaj langetoj
+home-homepage-new-tabs =
+    .label = Novaj langetoj
 home-restore-defaults =
     .label = Remeti normojn
     .accesskey = R
@@ -660,6 +667,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Administri etendaĵon
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elekti specifan retejon
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Elekti specifan retejon
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -677,6 +687,11 @@ choose-bookmark =
     .label = Uzi legosignon…
     .accesskey = s
 home-homepage-header = Eka paĝo
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Eka paĝo
 
 ## Custom Homepage subpage
 
@@ -932,14 +947,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Fini seancon…
     .accesskey = F
+sync-sign-out2 =
+    .label = Fini seancon
+    .accesskey = F
 sync-manage-account = Administri konton
+    .accesskey = A
+sync-manage-account2 =
+    .label = Administri konton
     .accesskey = A
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ne estas konfirmita.
 sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

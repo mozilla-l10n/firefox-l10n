@@ -402,6 +402,9 @@ update-in-progress-ok-button = &ຍົກເລີກ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ສືບຕໍ່
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -474,6 +477,8 @@ home-new-windows-tabs-description2 = ເລືອກສິ່ງທີ່ທ່�
 
 home-homepage-mode-label = ໜ້າທຳອິດແລະວິນໂດໃຫມ່
 home-newtabs-mode-label = ແທັບໃຫມ່
+home-homepage-new-tabs =
+    .label = ແທັບໃຫມ່
 home-restore-defaults =
     .label = ກູ້ຄືນຄ່າເລີ່ມຕົ້ນ
     .accesskey = ກ
@@ -499,6 +504,12 @@ use-current-pages =
 choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -666,14 +677,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = ອອກ​ຈາກ​ລະ​ບົບ…
     .accesskey = g
+sync-sign-out2 =
+    .label = ອອກ​ຈາກ​ລະ​ບົບ
+    .accesskey = g
 sync-manage-account = ຈັດການບັນຊີ
+    .accesskey = o
+sync-manage-account2 =
+    .label = ຈັດການບັນຊີ
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ຍັງບໍ່ທັນຖືກກວດສອບ.
 sync-signedin-login-failure = ກະລຸນາລົງຊື່ເຂົ້າໃຊ້ເພື່ອເຊື່ອມຕໍ່ { $email } ໃຫມ່
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -857,6 +880,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1165,6 +1191,9 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

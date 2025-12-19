@@ -338,6 +338,8 @@ home-new-windows-tabs-description2 = হোমপেজ, নতুন ইউন�
 
 home-homepage-mode-label = হোম পেজ এবং নতুন উইন্ডোজ
 home-newtabs-mode-label = নতুন ট্যাবগুলি
+home-homepage-new-tabs =
+    .label = নতুন ট্যাবগুলি
 home-restore-defaults =
     .label = ডিফল্টে পুনরায় স্থাপন করুন
     .accesskey = R
@@ -361,6 +363,9 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক প্রয়োগ করা হবে…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -488,12 +493,21 @@ sync-profile-picture-with-alt =
     .alt = প্রোফাইল ছবি পরিবর্তন করুন
 sync-manage-account = অ্যাকাউন্ট পরিচালনা
     .accesskey = o
+sync-manage-account2 =
+    .label = অ্যাকাউন্ট পরিচালনা
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } যাঁচাই করা হয়নি।
 sync-signedin-login-failure = পুনঃসংযোগের জন্য সাইন ইন করুন { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

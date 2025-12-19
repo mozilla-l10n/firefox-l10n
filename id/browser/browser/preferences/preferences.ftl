@@ -517,6 +517,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -600,6 +603,8 @@ home-new-windows-tabs-description2 = Pilih yang akan dilihat pertama kali ketika
 
 home-homepage-mode-label = Laman beranda dan jendela baru
 home-newtabs-mode-label = Tab baru
+home-homepage-new-tabs =
+    .label = Tab baru
 home-restore-defaults =
     .label = Pulihkan Bawaan
     .accesskey = B
@@ -625,6 +630,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -820,14 +831,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Keluar…
     .accesskey = K
+sync-sign-out2 =
+    .label = Keluar
+    .accesskey = K
 sync-manage-account = Kelola Akun
+    .accesskey = o
+sync-manage-account2 =
+    .label = Kelola Akun
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

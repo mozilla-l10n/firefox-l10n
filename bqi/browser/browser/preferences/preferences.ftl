@@ -21,6 +21,20 @@ addons-button-label = وردنی یل وو تما
 
 cancel-no-restart-button = لقو
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 preferences-profiles-group-header =
@@ -34,14 +48,38 @@ browser-containers-settings =
     .label = سامووا…
     .accesskey = i
 
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
+
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زووݩ وو شؽوات
 language-header = زووݩ
 
+## General Section - Files and Applications
+
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
 ##
 
 play-drm-content-learn-more = قلوه دووسته بۊین
+
+## Firefox support
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
 
 ## General Section - Proxy
 
@@ -56,8 +94,27 @@ home-new-windows-tabs-header = نیمدری یل وو بلگه یل نۊ
 
 ## Custom Homepage subpage
 
+home-homepage-new-windows =
+    .label = نیمدری یل نۊ
 home-homepage-mode-label2 = نیمدری یل نۊ
 home-newtabs-mode-label = بلگه یل نۊ
+home-homepage-new-tabs =
+    .label = بلگه یل نۊ
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -71,6 +128,32 @@ containers-back-button2 =
     .aria-label = وورگشتن و سامووا
 containers-settings-button =
     .label = سامووا
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -89,6 +172,22 @@ sync-device-name-cancel =
     .label = لقو
     .accesskey = n
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
+## Privacy Section - Passwords
+
+
+## OS Authentication dialog
+
+
 ## Privacy section - Autofill
 
 payments-remove-payment-prompt-cancel-button = لقو
@@ -104,11 +203,24 @@ history-clear-on-close-settings =
 sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
     .label = نشووکا
     .accesskey = k
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -128,6 +240,9 @@ content-blocking-option-private =
 content-blocking-cookies-label =
     .label = کۊکیا
     .accesskey = C
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -173,6 +288,9 @@ collection-health-report-telemetry-disabled-link = قلوه دووسته بۊی�
 collection-health-report-link = قلوه دووسته بۊین
 addon-recommendations-link = قلوه دووسته بۊین
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -189,3 +307,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = قلوه دووسته بۊین
+
+## DoH Section
+
+
+## The following strings are used in the Download section of settings
+

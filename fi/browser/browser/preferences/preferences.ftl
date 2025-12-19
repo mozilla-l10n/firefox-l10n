@@ -655,8 +655,12 @@ home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Aloitussivu ja uudet ikkunat
+home-homepage-new-windows =
+    .label = Uudet ikkunat
 home-homepage-mode-label2 = Uudet ikkunat
 home-newtabs-mode-label = Uudet välilehdet
+home-homepage-new-tabs =
+    .label = Uudet välilehdet
 home-restore-defaults =
     .label = Palauta oletukset
     .accesskey = P
@@ -671,6 +675,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Hallitse laajennusta
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Valitse tietty sivusto
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Valitse tietty sivusto
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -688,6 +695,11 @@ choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
 home-homepage-header = Etusivu
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Etusivu
 
 ## Custom Homepage subpage
 
@@ -945,14 +957,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Kirjaudu ulos…
     .accesskey = K
+sync-sign-out2 =
+    .label = Kirjaudu ulos
+    .accesskey = K
 sync-manage-account = Hallinnoi tiliä
+    .accesskey = H
+sync-manage-account2 =
+    .label = Hallinnoi tiliä
     .accesskey = H
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

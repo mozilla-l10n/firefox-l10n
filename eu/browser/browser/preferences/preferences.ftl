@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Hasiera-orria eta leiho berriak
+home-homepage-new-windows =
+    .label = Leiho berriak
 home-homepage-mode-label2 = Leiho berriak
 home-newtabs-mode-label = Fitxa berriak
+home-homepage-new-tabs =
+    .label = Fitxa berriak
 home-restore-defaults =
     .label = Berrezarri lehenetsiak
     .accesskey = B
@@ -676,6 +680,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Kudeatu hedapena
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Aukeratu gune zehatza
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Aukeratu gune zehatza
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -693,6 +700,11 @@ choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
 home-homepage-header = Hasiera-orria
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Hasiera-orria
 
 ## Custom Homepage subpage
 
@@ -953,14 +965,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Amaitu saioa…
     .accesskey = A
+sync-sign-out2 =
+    .label = Amaitu saioa
+    .accesskey = A
 sync-manage-account = Kudeatu kontua
+    .accesskey = o
+sync-manage-account2 =
+    .label = Kudeatu kontua
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
 sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

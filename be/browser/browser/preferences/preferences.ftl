@@ -565,6 +565,9 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць
@@ -647,8 +650,12 @@ home-new-windows-tabs-description2 = Выберыце, што бачыць, ка
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Хатняя старонка і новыя вокны
+home-homepage-new-windows =
+    .label = Новыя вокны
 home-homepage-mode-label2 = Новыя вокны
 home-newtabs-mode-label = Новыя карткі
+home-homepage-new-tabs =
+    .label = Новыя карткі
 home-restore-defaults =
     .label = Аднавіць прадвызначэнні
     .accesskey = А
@@ -663,6 +670,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Кіраваць пашырэннем
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Выберыце канкрэтны сайт
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Выберыце канкрэтны сайт
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -680,6 +690,11 @@ choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
 home-homepage-header = Хатняя старонка
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Хатняя старонка
 
 ## Custom Homepage subpage
 
@@ -936,14 +951,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Выйсці…
     .accesskey = і
+sync-sign-out2 =
+    .label = Выйсці
+    .accesskey = і
 sync-manage-account = Кіраванне ўліковым запісам
+    .accesskey = а
+sync-manage-account2 =
+    .label = Кіраванне ўліковым запісам
     .accesskey = а
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не пацвержаны.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

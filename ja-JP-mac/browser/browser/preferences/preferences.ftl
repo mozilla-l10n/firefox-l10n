@@ -641,8 +641,12 @@ home-new-windows-tabs-description2 = ホームページ、新規ウインドウ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = ホームページと新規ウインドウ
+home-homepage-new-windows =
+    .label = 新規ウインドウ
 home-homepage-mode-label2 = 新規ウインドウ
 home-newtabs-mode-label = 新規タブ
+home-homepage-new-tabs =
+    .label = 新規タブ
 home-restore-defaults =
     .label = デフォルトに戻す
     .accesskey = R
@@ -657,6 +661,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = 拡張機能を管理
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 特定のサイトを選択
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = 特定のサイトを選択
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -674,6 +681,11 @@ choose-bookmark =
     .label = ブックマークを使う...
     .accesskey = B
 home-homepage-header = ホームページ
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = ホームページ
 
 ## Custom Homepage subpage
 
@@ -925,14 +937,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = ログアウト...
     .accesskey = g
+sync-sign-out2 =
+    .label = ログアウト
+    .accesskey = g
 sync-manage-account = アカウントの管理
+    .accesskey = o
+sync-manage-account2 =
+    .label = アカウントの管理
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } は認証されていません。
 sync-signedin-login-failure = { $email } に再接続するにはログインしてください。
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

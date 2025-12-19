@@ -565,6 +565,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -650,8 +653,12 @@ home-new-windows-tabs-description2 = მიუთითეთ, რისი ხ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = საწყისი გვერდი და ახალი ფანჯრები
+home-homepage-new-windows =
+    .label = ახალი ფანჯრები
 home-homepage-mode-label2 = ახალი ფანჯრები
 home-newtabs-mode-label = ახალი ჩანართები
+home-homepage-new-tabs =
+    .label = ახალი ჩანართები
 home-restore-defaults =
     .label = ნაგულისხმევის აღდგენა
     .accesskey = ნ
@@ -666,6 +673,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = გაფართოების მართვა
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = აირჩიეთ ცალკეული საიტი
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = აირჩიეთ ცალკეული საიტი
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -683,6 +693,11 @@ choose-bookmark =
     .label = სანიშნის გამოყენება…
     .accesskey = ს
 home-homepage-header = საწყისი გვერდი
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = საწყისი გვერდი
 
 ## Custom Homepage subpage
 
@@ -938,14 +953,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = გამოსვლა...
     .accesskey = გ
+sync-sign-out2 =
+    .label = გამოსვლა
+    .accesskey = გ
 sync-manage-account = ანგარიშის მართვა
+    .accesskey = მ
+sync-manage-account2 =
+    .label = ანგარიშის მართვა
     .accesskey = მ
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

@@ -51,6 +51,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 restart-later = Nakajie'e inka ichi
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -280,6 +291,9 @@ update-in-progress-ok-button = &Xita
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Naja satiñu
@@ -344,6 +358,8 @@ home-new-windows-tabs-description2 = Kaji naku kuvinu kune'yanu sa sinenu págin
 
 home-homepage-mode-label = Página nuu kajie´e ji ventanas jíía
 home-newtabs-mode-label = Da pestaña jíía
+home-homepage-new-tabs =
+    .label = Da pestaña jíía
 home-restore-defaults =
     .label = Natee tuku predeterminados
     .accesskey = R
@@ -367,6 +383,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ni´i marcador...
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -509,14 +531,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Kene…
     .accesskey = g
+sync-sign-out2 =
+    .label = Kene
+    .accesskey = g
 sync-manage-account = Administrar cuenta
+    .accesskey = o
+sync-manage-account2 =
+    .label = Administrar cuenta
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Kuni kune'ya de ya'a kuvi... { $email } noo'o
 sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -698,6 +732,9 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
@@ -784,6 +821,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -924,6 +967,9 @@ collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -961,6 +1007,9 @@ httpsonly-radio-enabled-pbm =
     .label = Tee HTTPS nu ntaka da ventanas yu'u
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

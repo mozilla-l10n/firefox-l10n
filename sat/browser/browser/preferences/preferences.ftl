@@ -453,6 +453,9 @@ update-in-progress-ok-button = ᱵᱟᱹᱨᱜᱤᱞ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
@@ -531,6 +534,8 @@ home-new-windows-tabs-description2 = ᱟᱢ ᱟᱢᱟᱜ ᱚᱲᱟᱜ ᱥᱟᱦ�
 
 home-homepage-mode-label = ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱟᱨ ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ
 home-newtabs-mode-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
+home-homepage-new-tabs =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱠᱚ
 home-restore-defaults =
     .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
     .accesskey = R
@@ -556,6 +561,12 @@ use-current-pages =
 choose-bookmark =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -728,14 +739,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
     .accesskey = g
+sync-sign-out2 =
+    .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+    .accesskey = g
 sync-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
+    .accesskey = o
+sync-manage-account2 =
+    .label = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ᱫᱚ ᱵᱟᱭ ᱧᱮᱞ ᱢᱤᱞᱟᱣ ᱠᱟᱱᱟ ᱾
 sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟᱜ ᱫᱚᱦᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -938,6 +961,9 @@ primary-password-os-auth-dialog-message-win = ᱢᱤᱫᱴᱟᱝ ᱫᱟᱵᱟᱝ
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1269,6 +1295,9 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

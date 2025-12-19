@@ -672,8 +672,12 @@ home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
+home-homepage-new-windows =
+    .label = Ffenestri newydd
 home-homepage-mode-label2 = Ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd
+home-homepage-new-tabs =
+    .label = Tabiau newydd
 home-restore-defaults =
     .label = Adfer y Rhagosodiadau
     .accesskey = A
@@ -688,6 +692,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Rheoli estyniad
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Dewis safle penodol
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Dewis safle penodol
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -705,6 +712,11 @@ choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
 home-homepage-header = Tudalen Cartref
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Tudalen Cartref
 
 ## Custom Homepage subpage
 
@@ -969,14 +981,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Allgofnodi…
     .accesskey = A
+sync-sign-out2 =
+    .label = Allgofnodi
+    .accesskey = A
 sync-manage-account = Rheoli cyfrif
+    .accesskey = R
+sync-manage-account2 =
+    .label = Rheoli cyfrif
     .accesskey = R
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } wedi ei wirio.
 sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

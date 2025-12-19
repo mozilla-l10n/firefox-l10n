@@ -40,6 +40,17 @@ should-restart-ok = ئێستا { -brand-short-name } پێبکەرەوە
 cancel-no-restart-button = پاشگەزبوونەوە
 restart-later = دوواتر پێبکەوە
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = گەڕانی ئەنجامەکان
@@ -289,6 +300,9 @@ update-in-progress-ok-button = &هەڵیبوەشینەوە
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &بەردەوام بە
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارایی
@@ -350,6 +364,8 @@ home-new-windows-tabs-description2 = دەتەوێت چی ببینی کاتێک �
 
 home-homepage-mode-label = پەڕەی سەرەکی و بازدەرەکان
 home-newtabs-mode-label = بازدەری نوێ
+home-homepage-new-tabs =
+    .label = بازدەری نوێ
 home-restore-defaults =
     .label = بنەرەتی بهێنەوە
     .accesskey = R
@@ -374,6 +390,12 @@ use-current-pages =
 choose-bookmark =
     .label = دڵخوازەکان بەکاربێنە...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -481,6 +503,9 @@ containers-new-tab-check =
 containers-remove-button =
     .label = بیسڕەوە
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -505,14 +530,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = بچۆ دەرەوە
     .accesskey = g
+sync-sign-out2 =
+    .label = بچۆ دەرەوە
+    .accesskey = g
 sync-manage-account = ڕێکخستنی هەژمار
+    .accesskey = o
+sync-manage-account2 =
+    .label = ڕێکخستنی هەژمار
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } نەسەلمێندراوە
 sync-signedin-login-failure = هەوڵ بدە دووبارە { $email } ببەستەوە
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -673,6 +710,9 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 primary-password-os-auth-dialog-message-macosx = درووستکردنی وشەی تێپەڕی سەرەکی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = مێژوو
@@ -737,6 +777,12 @@ sitedata-clear =
 sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -884,6 +930,9 @@ collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 addon-recommendations-link = زیاتر بزانە
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -896,6 +945,12 @@ security-enable-safe-browsing-link = زیاتر بزانە
 
 certs-header = بڕوانامە
 certs-devices-enable-fips = FIPS چالاک بکە
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

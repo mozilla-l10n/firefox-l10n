@@ -553,6 +553,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ
@@ -638,8 +641,12 @@ home-new-windows-tabs-description2 = เลือกสิ่งที่คุ�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = หน้าแรกและหน้าต่างใหม่
+home-homepage-new-windows =
+    .label = หน้าต่างใหม่
 home-homepage-mode-label2 = หน้าต่างใหม่
 home-newtabs-mode-label = แท็บใหม่
+home-homepage-new-tabs =
+    .label = แท็บใหม่
 home-restore-defaults =
     .label = เรียกคืนค่าเริ่มต้น
     .accesskey = ร
@@ -654,6 +661,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = จัดการส่วนขยาย
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = เลือกไซต์ที่ต้องการ
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = เลือกไซต์ที่ต้องการ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -671,6 +681,11 @@ choose-bookmark =
     .label = ใช้ที่คั่นหน้า…
     .accesskey = ท
 home-homepage-header = หน้าแรก
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = หน้าแรก
 
 ## Custom Homepage subpage
 
@@ -922,14 +937,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = ลงชื่อออก…
     .accesskey = g
+sync-sign-out2 =
+    .label = ลงชื่อออก
+    .accesskey = g
 sync-manage-account = จัดการบัญชี
+    .accesskey = จ
+sync-manage-account2 =
+    .label = จัดการบัญชี
     .accesskey = จ
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

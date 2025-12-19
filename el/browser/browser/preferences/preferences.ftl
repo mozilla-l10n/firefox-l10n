@@ -657,8 +657,12 @@ home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε �
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Αρχική σελίδα και νέα παράθυρα
+home-homepage-new-windows =
+    .label = Νέα παράθυρα
 home-homepage-mode-label2 = Νέα παράθυρα
 home-newtabs-mode-label = Νέες καρτέλες
+home-homepage-new-tabs =
+    .label = Νέες καρτέλες
 home-restore-defaults =
     .label = Επαναφορά προεπιλογών
     .accesskey = Ε
@@ -673,6 +677,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Διαχείριση επέκτασης
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Επιλογή συγκεκριμένου ιστοτόπου
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Επιλογή συγκεκριμένου ιστοτόπου
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -690,6 +697,11 @@ choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
 home-homepage-header = Αρχική σελίδα
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Αρχική σελίδα
 
 ## Custom Homepage subpage
 
@@ -945,14 +957,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Αποσύνδεση…
     .accesskey = ν
+sync-sign-out2 =
+    .label = Αποσύνδεση
+    .accesskey = ν
 sync-manage-account = Διαχείριση λογαριασμού
+    .accesskey = η
+sync-manage-account2 =
+    .label = Διαχείριση λογαριασμού
     .accesskey = η
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
 sync-signedin-login-failure = Συνδεθείτε ξανά για επανασύνδεση του { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

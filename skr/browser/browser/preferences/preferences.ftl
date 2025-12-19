@@ -469,6 +469,9 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -550,6 +553,8 @@ home-new-windows-tabs-description2 = جݙاں تساں اپݨا ہوم پیج، 
 
 home-homepage-mode-label = ہوم پیج تے نویں ونڈوز
 home-newtabs-mode-label = نویاں ٹیباں
+home-homepage-new-tabs =
+    .label = نویاں ٹیباں
 home-restore-defaults =
     .label = ڈیفالٹس بحال کرو
     .accesskey = R
@@ -575,6 +580,12 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -760,14 +771,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = سائن آؤٹ …
     .accesskey = g
+sync-sign-out2 =
+    .label = سائن آؤٹ{ " " }
+    .accesskey = g
 sync-manage-account = اکاؤنٹ منظم کرو
+    .accesskey = o
+sync-manage-account2 =
+    .label = اکاؤنٹ منظم کرو
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

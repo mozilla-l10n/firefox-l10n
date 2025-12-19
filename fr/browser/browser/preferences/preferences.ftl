@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Page d’accueil et nouvelles fenêtres
+home-homepage-new-windows =
+    .label = Nouvelles fenêtres
 home-homepage-mode-label2 = Nouvelles fenêtres
 home-newtabs-mode-label = Nouveaux onglets
+home-homepage-new-tabs =
+    .label = Nouveaux onglets
 home-restore-defaults =
     .label = Configuration par défaut
     .accesskey = C
@@ -681,6 +685,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gérer l’extension
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Choisir un site en particulier
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Choisir un site en particulier
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -698,6 +705,11 @@ choose-bookmark =
     .label = Marque-page…
     .accesskey = m
 home-homepage-header = Page d’accueil
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Page d’accueil
 
 ## Custom Homepage subpage
 
@@ -972,14 +984,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Se déconnecter…
     .accesskey = d
+sync-sign-out2 =
+    .label = Se déconnecter
+    .accesskey = d
 sync-manage-account = Gérer le compte
+    .accesskey = G
+sync-manage-account2 =
+    .label = Gérer le compte
     .accesskey = G
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } n’est pas vérifié.
 sync-signedin-login-failure = Veuillez vous identifier pour vous reconnecter via { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

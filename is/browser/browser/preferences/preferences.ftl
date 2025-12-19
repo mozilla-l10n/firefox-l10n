@@ -531,6 +531,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -614,6 +617,8 @@ home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar u
 
 home-homepage-mode-label = Upphafssíða og nýir gluggar
 home-newtabs-mode-label = Nýir flipar
+home-homepage-new-tabs =
+    .label = Nýir flipar
 home-restore-defaults =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
@@ -639,6 +644,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -841,14 +852,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Útskráning…
     .accesskey = g
+sync-sign-out2 =
+    .label = Útskráning
+    .accesskey = g
 sync-manage-account = Sýsla með aðgang
+    .accesskey = m
+sync-manage-account2 =
+    .label = Sýsla með aðgang
     .accesskey = m
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

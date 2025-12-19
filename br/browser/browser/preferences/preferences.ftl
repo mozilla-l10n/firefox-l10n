@@ -452,6 +452,9 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -527,6 +530,8 @@ home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o
 
 home-homepage-mode-label = Pennbajenn ha prenestroù nevez
 home-newtabs-mode-label = Ivinelloù nevez
+home-homepage-new-tabs =
+    .label = Ivinelloù nevez
 home-restore-defaults =
     .label = Assav an arventennoù dre ziouer
     .accesskey = A
@@ -552,6 +557,12 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -732,14 +743,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Digennaskañ…
     .accesskey = g
+sync-sign-out2 =
+    .label = Digennaskañ
+    .accesskey = g
 sync-manage-account = Ardeiñ ar gont
+    .accesskey = A
+sync-manage-account2 =
+    .label = Ardeiñ ar gont
     .accesskey = A
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1083,6 +1106,9 @@ sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1300,6 +1326,9 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

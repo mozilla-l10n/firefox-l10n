@@ -524,6 +524,9 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -607,6 +610,8 @@ home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍi�
 
 home-homepage-mode-label = Asebter agejdan akked isfuyla imaynuten
 home-newtabs-mode-label = Iccer amaynut
+home-homepage-new-tabs =
+    .label = Iccer amaynut
 home-restore-defaults =
     .label = Err-d iɣewwaṛen imezwar
     .accesskey = R
@@ -632,6 +637,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -823,14 +834,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Ffeɣ…
     .accesskey = F
+sync-sign-out2 =
+    .label = Ffeɣ
+    .accesskey = F
 sync-manage-account = Sefrek amiḍan
+    .accesskey = m
+sync-manage-account2 =
+    .label = Sefrek amiḍan
     .accesskey = m
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

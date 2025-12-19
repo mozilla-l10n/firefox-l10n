@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startside
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startside og nye vinduer
+home-homepage-new-windows =
+    .label = Nye vinduer
 home-homepage-mode-label2 = Nye vinduer
 home-newtabs-mode-label = Nye faner
+home-homepage-new-tabs =
+    .label = Nye faner
 home-restore-defaults =
     .label = Bruk standard
     .accesskey = r
@@ -681,6 +685,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Behandle utvidelse
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Velg et bestemt nettsted
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Velg et bestemt nettsted
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -698,6 +705,11 @@ choose-bookmark =
     .label = Bruk bokmerke …
     .accesskey = u
 home-homepage-header = Startside
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startside
 
 ## Custom Homepage subpage
 
@@ -972,14 +984,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Logg ut…
     .accesskey = g
+sync-sign-out2 =
+    .label = Logg ut
+    .accesskey = g
 sync-manage-account = Behandle konto
+    .accesskey = o
+sync-manage-account2 =
+    .label = Behandle konto
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } er ikke bekreftet.
 sync-signedin-login-failure = Logg inn for å koble til på nytt { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

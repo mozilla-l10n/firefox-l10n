@@ -271,6 +271,9 @@ update-application-use-service =
     .label = Instaleit atjaunynuojumus fonā
     .accesskey = f
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspieja
@@ -327,6 +330,8 @@ home-new-windows-tabs-description2 = Izavielej, kū rōdēt atdorut jaunu lopu, 
 
 home-homepage-mode-label = Sātys lopa i jauni lūgi
 home-newtabs-mode-label = Jaunas cilnes
+home-homepage-new-tabs =
+    .label = Jaunas cilnes
 home-restore-defaults =
     .label = Atjaunōt iz nūkluseitū
     .accesskey = A
@@ -350,6 +355,12 @@ use-current-pages =
 choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -448,6 +459,9 @@ containers-add-button =
 containers-remove-button =
     .label = Nūjimt
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -471,12 +485,21 @@ sync-profile-picture-with-alt =
     .alt = Maineit profila attālu
 sync-manage-account = Puorvaļdeit kontu
     .accesskey = a
+sync-manage-account2 =
+    .label = Puorvaļdeit kontu
+    .accesskey = a
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nav apstyprynuots.
 sync-signedin-login-failure = Lyudzu pīsaslēdz, kab atjaunōtu savīnojumu { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -489,6 +512,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -575,6 +604,12 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Viesture
@@ -658,6 +693,12 @@ sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Adresu jūsla
@@ -676,6 +717,19 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Vaira
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -734,6 +788,9 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -765,6 +822,12 @@ certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
 certs-devices-enable-fips = Īslēgt FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

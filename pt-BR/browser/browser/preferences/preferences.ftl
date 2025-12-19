@@ -562,6 +562,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -644,8 +647,12 @@ home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página in
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página inicial e novas janelas
+home-homepage-new-windows =
+    .label = Novas janelas
 home-homepage-mode-label2 = Novas janelas
 home-newtabs-mode-label = Novas abas
+home-homepage-new-tabs =
+    .label = Novas abas
 home-restore-defaults =
     .label = Restaurar padrão
     .accesskey = R
@@ -660,6 +667,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gerenciar extensão
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Escolher um site específico
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Escolher um site específico
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -677,6 +687,11 @@ choose-bookmark =
     .label = Usar favorito…
     .accesskey = f
 home-homepage-header = Página inicial
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Página inicial
 
 ## Custom Homepage subpage
 
@@ -932,14 +947,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Desconectar…
     .accesskey = D
+sync-sign-out2 =
+    .label = Desconectar
+    .accesskey = D
 sync-manage-account = Gerenciar conta
+    .accesskey = o
+sync-manage-account2 =
+    .label = Gerenciar conta
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } não foi verificado.
 sync-signedin-login-failure = Entre para reconectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

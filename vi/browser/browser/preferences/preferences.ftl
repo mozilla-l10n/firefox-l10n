@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn m
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Trang chủ và cửa sổ mới
+home-homepage-new-windows =
+    .label = Cửa sổ mới
 home-homepage-mode-label2 = Cửa sổ mới
 home-newtabs-mode-label = Thẻ mới
+home-homepage-new-tabs =
+    .label = Thẻ mới
 home-restore-defaults =
     .label = Khôi phục về mặc định
     .accesskey = R
@@ -669,6 +673,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Quản lý tiện ích
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Chọn một trang web cụ thể
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Chọn một trang web cụ thể
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -686,6 +693,11 @@ choose-bookmark =
     .label = Sử dụng dấu trang…
     .accesskey = B
 home-homepage-header = Trang chủ
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Trang chủ
 
 ## Custom Homepage subpage
 
@@ -956,14 +968,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Đăng xuất…
     .accesskey = g
+sync-sign-out2 =
+    .label = Đăng xuất
+    .accesskey = g
 sync-manage-account = Quản lý tài khoản
+    .accesskey = k
+sync-manage-account2 =
+    .label = Quản lý tài khoản
     .accesskey = k
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } chưa được kiểm tra.
 sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

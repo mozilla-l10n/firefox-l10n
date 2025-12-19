@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de star
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagină de start și ferestre noi
+home-homepage-new-windows =
+    .label = Ferestre noi
 home-homepage-mode-label2 = Ferestre noi
 home-newtabs-mode-label = File noi
+home-homepage-new-tabs =
+    .label = File noi
 home-restore-defaults =
     .label = Restaurează valorile implicite
     .accesskey = R
@@ -681,6 +685,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gestionează extensia
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Alege un anumit site
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Alege un anumit site
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -698,6 +705,11 @@ choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
 home-homepage-header = Pagină de start
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Pagină de start
 
 ## Custom Homepage subpage
 
@@ -970,14 +982,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Ieși din cont…
     .accesskey = g
+sync-sign-out2 =
+    .label = Ieși din cont
+    .accesskey = g
 sync-manage-account = Gestionează contul
+    .accesskey = o
+sync-manage-account2 =
+    .label = Gestionează contul
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nu este verificat.
 sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

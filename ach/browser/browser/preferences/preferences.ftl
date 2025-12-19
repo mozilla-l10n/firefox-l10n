@@ -278,6 +278,9 @@ update-in-progress-ok-button = &Juki
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Mede
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tic
@@ -333,6 +336,8 @@ home-new-windows-tabs-description2 = Yer ngo ma ineno ka iyabo potbuk me acakki 
 
 home-homepage-mode-label = Potbuk me acakki ki dirica manyen
 home-newtabs-mode-label = Dirica matino manyen
+home-homepage-new-tabs =
+    .label = Dirica matino manyen
 home-restore-defaults =
     .label = Dwok makwongo
     .accesskey = D
@@ -354,6 +359,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -454,6 +465,9 @@ containers-add-button =
 containers-remove-button =
     .label = Kwany
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -478,14 +492,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Kat Woko…
     .accesskey = K
+sync-sign-out2 =
+    .label = Kat Woko
+    .accesskey = K
 sync-manage-account = Lo akaunt
+    .accesskey = o
+sync-manage-account2 =
+    .label = Lo akaunt
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } pe ki moko ada ne.
 sync-signedin-login-failure = Tim ber i dony me kube odoco { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -624,6 +650,9 @@ forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Gin mukato
@@ -705,6 +734,12 @@ sitedata-settings =
     .label = Lo Data
     .accesskey = D
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Lanyut me kanonge
@@ -723,6 +758,10 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -748,6 +787,9 @@ content-blocking-cookies-label =
     .accesskey = A
 content-blocking-expand-section =
     .tooltiptext = Ngec mapol
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -811,6 +853,9 @@ collection-health-report =
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -846,6 +891,9 @@ certs-devices-enable-fips = Mii tic me FIPS
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Nong ngec mapol
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

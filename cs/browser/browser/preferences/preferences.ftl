@@ -787,8 +787,12 @@ home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zo
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Na domovské stránce a v novém okně
+home-homepage-new-windows =
+    .label = Nová okna
 home-homepage-mode-label2 = Nová okna
 home-newtabs-mode-label = V novém panelu
+home-homepage-new-tabs =
+    .label = V novém panelu
 home-restore-defaults =
     .label = Obnovit výchozí
     .accesskey = O
@@ -803,6 +807,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Nastavení tohoto rozšíření
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Zvolte konkrétní stránku
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Zvolte konkrétní stránku
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -820,6 +827,11 @@ choose-bookmark =
     .label = Použít záložku…
     .accesskey = z
 home-homepage-header = Domovská stránka
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Domovská stránka
 
 ## Custom Homepage subpage
 
@@ -1092,14 +1104,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Odhlásit se…
     .accesskey = O
+sync-sign-out2 =
+    .label = Odhlásit se
+    .accesskey = O
 sync-manage-account = Spravovat účet
+    .accesskey = S
+sync-manage-account2 =
+    .label = Spravovat účet
     .accesskey = S
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Účet { $email } není ověřen.
 sync-signedin-login-failure = Pro opětovné připojení účtem { $email } se přihlaste
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

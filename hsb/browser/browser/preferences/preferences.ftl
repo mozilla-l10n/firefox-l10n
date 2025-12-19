@@ -671,8 +671,12 @@ home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž s
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startowa strona a nowe wokna
+home-homepage-new-windows =
+    .label = Nowe wokna
 home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rajtarki
+home-homepage-new-tabs =
+    .label = Nowe rajtarki
 home-restore-defaults =
     .label = Standard wobnowić
     .accesskey = S
@@ -687,6 +691,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Rozšěrjenje rjadować
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wubjerće wěste sydło
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Wubjerće wěste sydło
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -704,6 +711,11 @@ choose-bookmark =
     .label = Zapołožku wužiwać…
     .accesskey = Z
 home-homepage-header = Startowa strona
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startowa strona
 
 ## Custom Homepage subpage
 
@@ -980,14 +992,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Wotzjewić…
     .accesskey = t
+sync-sign-out2 =
+    .label = Wotzjewić
+    .accesskey = t
 sync-manage-account = Konto rjadować
+    .accesskey = o
+sync-manage-account2 =
+    .label = Konto rjadować
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } njeje so přepruwował.
 sync-signedin-login-failure = Prošu zregistrujće so, zo byšće znowa zwjazał { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

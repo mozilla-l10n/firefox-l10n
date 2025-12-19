@@ -472,6 +472,9 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -553,6 +556,8 @@ home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu
 
 home-homepage-mode-label = Sākumlapa un jauni logi
 home-newtabs-mode-label = Jaunas cilnes
+home-homepage-new-tabs =
+    .label = Jaunas cilnes
 home-restore-defaults =
     .label = Atjaunot noklusējumus
     .accesskey = n
@@ -578,6 +583,12 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -763,14 +774,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Izrakstīties…
     .accesskey = z
+sync-sign-out2 =
+    .label = Izrakstīties
+    .accesskey = z
 sync-manage-account = Pārvaldīt kontu
+    .accesskey = a
+sync-manage-account2 =
+    .label = Pārvaldīt kontu
     .accesskey = a
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1377,6 +1400,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

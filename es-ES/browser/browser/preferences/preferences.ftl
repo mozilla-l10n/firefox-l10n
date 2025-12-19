@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página de inicio y ventanas nuevas
+home-homepage-new-windows =
+    .label = Nuevas ventanas
 home-homepage-mode-label2 = Nuevas ventanas
 home-newtabs-mode-label = Nuevas pestañas
+home-homepage-new-tabs =
+    .label = Nuevas pestañas
 home-restore-defaults =
     .label = Restaurar ajustes predeterminados
     .accesskey = R
@@ -676,6 +680,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gestionar extensión
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elija un sitio específico
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Elija un sitio específico
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -693,6 +700,11 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
 home-homepage-header = Página de inicio
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Página de inicio
 
 ## Custom Homepage subpage
 
@@ -953,14 +965,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Cerrar sesión…
     .accesskey = C
+sync-sign-out2 =
+    .label = Cerrar sesión
+    .accesskey = C
 sync-manage-account = Administrar cuenta
+    .accesskey = A
+sync-manage-account2 =
+    .label = Administrar cuenta
     .accesskey = A
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } no está verificado.
 sync-signedin-login-failure = Inicie sesión para reconectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

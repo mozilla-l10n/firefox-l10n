@@ -663,8 +663,12 @@ home-new-windows-tabs-description2 = Оберіть, що ви хочете ба
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Домівка та нові вікна
+home-homepage-new-windows =
+    .label = Нові вікна
 home-homepage-mode-label2 = Нові вікна
 home-newtabs-mode-label = Нові вкладки
+home-homepage-new-tabs =
+    .label = Нові вкладки
 home-restore-defaults =
     .label = Відновити типові
     .accesskey = т
@@ -679,6 +683,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Керувати розширенням
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Вибрати певний сайт
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Вибрати певний сайт
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -696,6 +703,11 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 home-homepage-header = Домівка
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Домівка
 
 ## Custom Homepage subpage
 
@@ -957,14 +969,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Вийти…
     .accesskey = В
+sync-sign-out2 =
+    .label = Вийти
+    .accesskey = В
 sync-manage-account = Керувати обліковим записом
+    .accesskey = К
+sync-manage-account2 =
+    .label = Керувати обліковим записом
     .accesskey = К
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

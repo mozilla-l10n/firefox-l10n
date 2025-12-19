@@ -395,6 +395,9 @@ update-in-progress-ok-button = &نادیده گرفتن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ادامه
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارایی
@@ -467,6 +470,8 @@ home-new-windows-tabs-description2 = انتخاب کنید چه چیزی در ز
 
 home-homepage-mode-label = صفحهٔ خانگی و پنجره‌های جدید
 home-newtabs-mode-label = زبانه‌های جدید
+home-homepage-new-tabs =
+    .label = زبانه‌های جدید
 home-restore-defaults =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
@@ -490,6 +495,12 @@ use-current-pages =
 choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -654,14 +665,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = خروج...
     .accesskey = g
+sync-sign-out2 =
+    .label = خروج
+    .accesskey = g
 sync-manage-account = مدیریت حساب
+    .accesskey = ح
+sync-manage-account2 =
+    .label = مدیریت حساب
     .accesskey = ح
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } تایید نشده است.
 sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -861,6 +884,9 @@ primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه
 primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = تاریخچه
@@ -960,6 +986,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Privacy Section - Address Bar
 
@@ -1149,6 +1181,9 @@ addon-recommendations-link = بیشتر بدانید
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
 collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
     .accesskey = ج
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

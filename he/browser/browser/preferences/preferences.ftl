@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = דף הבית וחלונות חדשים
+home-homepage-new-windows =
+    .label = חלונות חדשים
 home-homepage-mode-label2 = חלונות חדשים
 home-newtabs-mode-label = לשוניות חדשות
+home-homepage-new-tabs =
+    .label = לשוניות חדשות
 home-restore-defaults =
     .label = שחזור ברירות מחדל
     .accesskey = ש
@@ -681,6 +685,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = ניהול הרחבה
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = בחירה באתר מסוים
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = בחירה באתר מסוים
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -698,6 +705,11 @@ choose-bookmark =
     .label = שימוש בסימנייה…
     .accesskey = ס
 home-homepage-header = דף הבית
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = דף הבית
 
 ## Custom Homepage subpage
 
@@ -972,14 +984,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = התנתקות…
     .accesskey = ה
+sync-sign-out2 =
+    .label = התנתקות
+    .accesskey = ה
 sync-manage-account = ניהול חשבון
+    .accesskey = נ
+sync-manage-account2 =
+    .label = ניהול חשבון
     .accesskey = נ
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

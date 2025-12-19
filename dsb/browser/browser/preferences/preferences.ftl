@@ -671,8 +671,12 @@ home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startowy bok a nowe wokna
+home-homepage-new-windows =
+    .label = Nowe wokna
 home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rejtariki
+home-homepage-new-tabs =
+    .label = Nowe rejtariki
 home-restore-defaults =
     .label = Standard wótnowiś
     .accesskey = S
@@ -687,6 +691,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Rozšyrjenje zastojaś
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wubjeŕśo wěste sedło
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Wubjeŕśo wěste sedło
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -704,6 +711,11 @@ choose-bookmark =
     .label = Cytańske znamje wužywaś…
     .accesskey = C
 home-homepage-header = Startowy bok
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startowy bok
 
 ## Custom Homepage subpage
 
@@ -980,14 +992,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Wótzjawiś…
     .accesskey = t
+sync-sign-out2 =
+    .label = Wótzjawiś
+    .accesskey = t
 sync-manage-account = Konto zastojaś
+    .accesskey = o
+sync-manage-account2 =
+    .label = Konto zastojaś
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } njejo se pśeglědał.
 sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 

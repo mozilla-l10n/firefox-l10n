@@ -486,6 +486,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
@@ -565,8 +568,12 @@ home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ 
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Տնէջ և նոր պատուհաններ
+home-homepage-new-windows =
+    .label = Նոր պատուհաններ
 home-homepage-mode-label2 = Նոր պատուհաններ
 home-newtabs-mode-label = Նոր ներդիրներ
+home-homepage-new-tabs =
+    .label = Նոր ներդիրներ
 home-restore-defaults =
     .label = Վերականգնել սկզբնադիրը
     .accesskey = R
@@ -596,6 +603,11 @@ choose-bookmark =
     .label = Օգտագործել էջանիշ...
     .accesskey = է
 home-homepage-header = Տնային էջ
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Տնային էջ
 
 ## Custom Homepage subpage
 
@@ -816,14 +828,26 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Դուրս գալ…
     .accesskey = g
+sync-sign-out2 =
+    .label = Դուրս գալ
+    .accesskey = g
 sync-manage-account = Կառավարել հաշիվը
+    .accesskey = o
+sync-manage-account2 =
+    .label = Կառավարել հաշիվը
     .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1205,6 +1229,9 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 

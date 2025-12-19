@@ -456,6 +456,9 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -531,6 +534,8 @@ home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu a
 
 home-homepage-mode-label = An duilleag-dhachaigh is uinneagan ùra
 home-newtabs-mode-label = Tabaichean ùra
+home-homepage-new-tabs =
+    .label = Tabaichean ùra
 home-restore-defaults =
     .label = Aisig na bun-roghainnean
     .accesskey = r
@@ -556,6 +561,12 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -729,14 +740,26 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Clàraich a-mach…
     .accesskey = C
+sync-sign-out2 =
+    .label = Clàraich a-mach
+    .accesskey = C
 sync-manage-account = Stiùirich an cunntas
+    .accesskey = n
+sync-manage-account2 =
+    .label = Stiùirich an cunntas
     .accesskey = n
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -937,6 +960,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1256,6 +1282,9 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
