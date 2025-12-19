@@ -555,7 +555,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Nesci…
     .accesskey = N
+sync-sign-out2 =
+    .label = Nesci
+    .accesskey = N
 sync-manage-account = Manija cuntu
+    .accesskey = M
+sync-manage-account2 =
+    .label = Manija cuntu
     .accesskey = M
 
 ## Variables
