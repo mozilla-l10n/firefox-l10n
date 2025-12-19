@@ -475,6 +475,9 @@ sync-profile-picture-with-alt =
     .alt = Tukar gambar profil
 sync-manage-account = Urus Akaun
     .accesskey = s
+sync-manage-account2 =
+    .label = Urus Akaun
+    .accesskey = s
 
 ## Variables
 ## $email (string) - Email used for Firefox account
