@@ -688,6 +688,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Rozšyrjenje zastojaś
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Wubjeŕśo wěste sedło
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Wubjeŕśo wěste sedło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -704,6 +707,11 @@ choose-bookmark =
     .label = Cytańske znamje wužywaś…
     .accesskey = C
 home-homepage-header = Startowy bok
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Startowy bok
 
 ## Custom Homepage subpage
 
@@ -985,9 +993,15 @@ sync-manage-account = Konto zastojaś
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } njejo se pśeglědał.
 sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
