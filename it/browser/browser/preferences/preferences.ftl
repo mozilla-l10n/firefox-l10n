@@ -1010,8 +1010,6 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizzazione
-account-group-label =
-    .label = Account { -vendor-short-name }
 account-placeholder =
     .label = Non hai effettuato l’accesso
     .description = Accedi per mantenere i tuoi dati privati, crittati e sincronizzati su tutti i dispositivi.
