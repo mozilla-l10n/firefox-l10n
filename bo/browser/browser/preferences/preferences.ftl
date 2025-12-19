@@ -426,6 +426,9 @@ sync-profile-picture-with-alt =
     .alt = Change profile picture
 sync-manage-account = Manage Account
     .accesskey = o
+sync-manage-account2 =
+    .label = Manage Account
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
