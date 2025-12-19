@@ -341,6 +341,18 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Hape Grupin në Dritare të Re
 
+## Tab Notes
+
+tab-note-editor-title-edit = Përpunoni shënim
+tab-note-editor-text-field =
+    .placeholder = Ç’doni të mbahet mend rreth kësaj skede?
+tab-note-editor-button-cancel =
+    .label = Anuloje
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Ruaje
+    .accesskey = R
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
@@ -359,3 +371,14 @@ tab-context-separate-split-view =
     .label = Ndaje Pamjen Krah Për Krah
     .accesskey = N
 tab-context-badge-new = E re
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Skeda Më Vete
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Përmbys Skeda
+split-view-menuitem-close-both-tabs =
+    .label = Mbylli të Dyja Skedat

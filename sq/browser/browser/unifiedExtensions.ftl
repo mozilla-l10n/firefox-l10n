@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Mësoni më tepër
 unified-extensions-mb-about-addons-link = Kalo te rregullime zgjerimi
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } u çaktivizua
+    .message =
+        Ky zgjerim është kufizuar dhe është çaktivizuar.
+        Mund ta aktivizoni te rregullimet, por kjo mund të jetë me rrezik.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } u çaktivizua
     .message =
@@ -75,6 +82,14 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } u çaktivizua
     .message = Ky zgjerim cenon rregulla të Mozilla-s dhe është çaktivizuar.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = U çaktivizuan { $extensionsCount } zgjerime
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =

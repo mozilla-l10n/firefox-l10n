@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Kaloje në Dritare të Re
     .accesskey = D
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Kaloje te { $profileName }
 tab-context-close-multiple-tabs =
     .label = Mbyll Skeda të Shumta
     .accesskey = u
@@ -125,6 +129,14 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Dërgoje te Pajisje
+           *[other] Send { $tabCount } Tabs to Device
+        }
+    .accesskey = D
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
@@ -132,3 +144,10 @@ tab-context-send-tabs-to-device =
            *[other] Dërgo { $tabCount } Skedë te Pajisje
         }
     .accesskey = D
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Hiqe Skedën Nga Kujtesa
+           *[other] Unload { $tabCount } Tabs
+        }
+    .accesskey = H
