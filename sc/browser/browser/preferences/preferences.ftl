@@ -527,6 +527,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -610,6 +613,8 @@ home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgin
 
 home-homepage-mode-label = Pàgina printzipale e ventanas noas
 home-newtabs-mode-label = Ischedas noas
+home-homepage-new-tabs =
+    .label = Ischedas noas
 home-restore-defaults =
     .label = Recùpera valores predefinidos
     .accesskey = R
@@ -636,6 +641,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -848,9 +859,15 @@ sync-manage-account = Gesti su contu
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
