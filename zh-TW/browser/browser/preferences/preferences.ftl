@@ -670,6 +670,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = 管理擴充套件
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 選擇特定網站
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = 選擇特定網站
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -686,6 +689,11 @@ choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
 home-homepage-header = 首頁
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = 首頁
 
 ## Custom Homepage subpage
 
@@ -965,9 +973,15 @@ sync-manage-account = 管理帳號
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 未驗證。
 sync-signedin-login-failure = 請登入以重新連線 { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
