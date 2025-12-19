@@ -957,7 +957,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Kirjaudu ulos…
     .accesskey = K
+sync-sign-out2 =
+    .label = Kirjaudu ulos
+    .accesskey = K
 sync-manage-account = Hallinnoi tiliä
+    .accesskey = H
+sync-manage-account2 =
+    .label = Hallinnoi tiliä
     .accesskey = H
 
 ## Variables
