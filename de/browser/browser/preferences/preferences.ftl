@@ -665,8 +665,12 @@ home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Startseite und neue Fenster
+home-homepage-new-windows =
+    .label = Neue Fenster
 home-homepage-mode-label2 = Neue Fenster
 home-newtabs-mode-label = Neue Tabs
+home-homepage-new-tabs =
+    .label = Neue Tabs
 home-restore-defaults =
     .label = Standard wiederherstellen
     .accesskey = w
