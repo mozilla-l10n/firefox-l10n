@@ -183,8 +183,11 @@ fp-neterror-http-auth-disabled-secure-connection = Этот сайт требу�
 fp-neterror-why-did-this-happen = Почему это произошло?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Похоже, этот сайт использует устаревшее программное обеспечение с известными проблемами безопасности.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } не доверяет { $hostname }, потому что соединение не защищено.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Убедитесь, что вы используете последнюю версию { -brand-short-name }. Выберите в меню «Справка» > «О { -brand-short-name }». Если вы используете последнюю версию { -brand-short-name }, то проблема, скорее всего, в самом сайте.
 fp-neterror-offline-what-can-you-do-body = Попробуйте подключиться на другом устройстве. Проверьте ваш модем или маршрутизатор. Отключитесь и снова подключитесь к Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Попробуйте сменить URL-адрес на HTTPS. Но, вероятно, есть проблема с самим сайтом.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Иногда веб-сайты устанавливают для себя защиту от нежелательного взаимодействия с другими сайтами.
+fp-learn-more-about-https-connections = Узнайте о HTTPS-соединениях

@@ -178,11 +178,16 @@ fp-neterror-offline-body-title = Det ser ut til at det er et problem med interne
 fp-neterror-connection-intro = { -brand-short-name } kan ikke opprette en sikker forbindelse til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikke koble til serveren på <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } lastet ikke inn denne siden fordi det ser ut til at sikkerhetskonfigurasjonen ikke samsvarer med den forrige siden.
+fp-neterror-http-auth-disabled-intro = Noen som utgir seg for å være nettstedet kan prøve å stjele ting som brukernavn, passord eller e-postadresse.
+fp-neterror-http-auth-disabled-secure-connection = Dette nettstedet krever en sikker tilkobling, og du kan ikke legge til et unntak for å besøke det.
 fp-neterror-why-did-this-happen = Hvorfor skjedde dette?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ut som dette nettstedet bruker gammel programvare med kjente sikkerhetsproblemer.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } stoler ikke på { $hostname } fordi tilkoblingen ikke er sikker.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Sørg for at du bruker den nyeste versjonen av { -brand-short-name }. Gå til Hjelp > Om { -brand-short-name } i menyen. Hvis du bruker den nyeste versjonen av { -brand-short-name }, ligger problemet mest sannsynlig hos selve nettstedet.
 fp-neterror-offline-what-can-you-do-body = Prøv å koble til på en annen enhet. Sjekk modemet eller ruteren. Koble fra og koble til Wi-Fi igjen.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Prøv å endre URL-en til HTTPS. Men det er sannsynlig at det er et problem med selve nettstedet.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Noen ganger setter nettsteder opp beskyttelser for seg selv mot uønskede interaksjoner med andre nettsteder.
+fp-learn-more-about-https-connections = Les om HTTPS-tilkoblinger
