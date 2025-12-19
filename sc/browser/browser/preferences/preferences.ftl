@@ -854,7 +854,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Serra sa sessione…
     .accesskey = s
+sync-sign-out2 =
+    .label = Serra sa sessione
+    .accesskey = s
 sync-manage-account = Gesti su contu
+    .accesskey = o
+sync-manage-account2 =
+    .label = Gesti su contu
     .accesskey = o
 
 ## Variables
