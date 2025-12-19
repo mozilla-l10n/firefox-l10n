@@ -680,6 +680,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Керувати розширенням
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Вибрати певний сайт
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Вибрати певний сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -696,6 +699,11 @@ choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
 home-homepage-header = Домівка
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Домівка
 
 ## Custom Homepage subpage
 
@@ -962,9 +970,15 @@ sync-manage-account = Керувати обліковим записом
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
