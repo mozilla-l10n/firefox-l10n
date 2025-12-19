@@ -558,6 +558,9 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = 性能
@@ -640,8 +643,12 @@ home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标�
 ## Custom Homepage subpage
 
 home-homepage-mode-label = 主页和新窗口
+home-homepage-new-windows =
+    .label = 新窗口
 home-homepage-mode-label2 = 新窗口
 home-newtabs-mode-label = 新标签页
+home-homepage-new-tabs =
+    .label = 新标签页
 home-restore-defaults =
     .label = 恢复默认设置
     .accesskey = R
@@ -656,6 +663,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = 管理扩展
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 选择特定网站
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = 选择特定网站
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -673,6 +683,11 @@ choose-bookmark =
     .label = 使用书签…
     .accesskey = B
 home-homepage-header = 主页
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = 主页
 
 ## Custom Homepage subpage
 
@@ -929,9 +944,15 @@ sync-manage-account = 管理账户
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 未验证。
 sync-signedin-login-failure = 请登录以重新绑定 { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
