@@ -493,6 +493,9 @@ sync-profile-picture-with-alt =
     .alt = প্রোফাইল ছবি পরিবর্তন করুন
 sync-manage-account = অ্যাকাউন্ট পরিচালনা
     .accesskey = o
+sync-manage-account2 =
+    .label = অ্যাকাউন্ট পরিচালনা
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
