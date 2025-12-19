@@ -619,7 +619,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Zarrar sesión…
     .accesskey = Z
+sync-sign-out2 =
+    .label = Zarrar sesión
+    .accesskey = Z
 sync-manage-account = Xestionar la cuenta
+    .accesskey = o
+sync-manage-account2 =
+    .label = Xestionar la cuenta
     .accesskey = o
 
 ## Variables
