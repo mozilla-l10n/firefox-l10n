@@ -953,7 +953,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = გამოსვლა...
     .accesskey = გ
+sync-sign-out2 =
+    .label = გამოსვლა
+    .accesskey = გ
 sync-manage-account = ანგარიშის მართვა
+    .accesskey = მ
+sync-manage-account2 =
+    .label = ანგარიშის მართვა
     .accesskey = მ
 
 ## Variables
