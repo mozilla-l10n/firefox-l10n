@@ -937,7 +937,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = ลงชื่อออก…
     .accesskey = g
+sync-sign-out2 =
+    .label = ลงชื่อออก
+    .accesskey = g
 sync-manage-account = จัดการบัญชี
+    .accesskey = จ
+sync-manage-account2 =
+    .label = จัดการบัญชี
     .accesskey = จ
 
 ## Variables
