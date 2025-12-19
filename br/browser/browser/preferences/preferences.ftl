@@ -743,7 +743,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Digennaskañ…
     .accesskey = g
+sync-sign-out2 =
+    .label = Digennaskañ
+    .accesskey = g
 sync-manage-account = Ardeiñ ar gont
+    .accesskey = A
+sync-manage-account2 =
+    .label = Ardeiñ ar gont
     .accesskey = A
 
 ## Variables
