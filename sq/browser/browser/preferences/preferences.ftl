@@ -1224,6 +1224,11 @@ autofill-payment-methods-add-button = Shtoni metodë të re pagesash
 payments-list-header =
     .label = Metoda pagesash
 payments-list-item-label = <strong>Metoda pagesash</strong>
+payments-delete-payment-prompt-confirm-button = Fshije
+payments-delete-payment-prompt-cancel-button = Anuloje
+payments-remove-payment-prompt-title = Të hiqet kjo metodë pagesash?
+payments-remove-payment-prompt-confirm-button = Hiqe
+payments-remove-payment-prompt-cancel-button = Anuloje
 autofill-addresses-title = Adresa, etj
 autofill-addresses-header =
     .aria-label = Adresa, etj
@@ -1233,6 +1238,33 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administroni adresa, etj
     .accesskey = A
+addresses-list-header =
+    .label = Adresa
+addreses-delete-address-button-label =
+    .aria-label = Fshije
+addreses-edit-address-button-label =
+    .aria-label = Përpunojeni
+addresses-delete-address-prompt-title = Të fshihet kjo adresë?
+addresses-delete-address-prompt-confirm-button = Fshije
+addresses-delete-address-prompt-cancel-button = Anuloje
+autofill-addresses-add-button = Shtoni adresë të re
+autofill-addresses-manage-addresses-title =
+    .heading = Administroni adresa, etj
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: 2423 *********)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1416,6 +1448,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Veprime të shpejta
     .accesskey = V
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Kërkime së fundi
+    .accesskey = K
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 addressbar-locbar-showrecentsearches-option =
     .label = Shfaq kërkime së fundi
@@ -1632,6 +1667,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Përjashtime…
     .accesskey = a
+permissions-header2 =
+    .label = Leje
+    .description = Leje që jepni për sajte që shfletoni.
 permissions-location2 =
     .label = Vendndodhje
 permissions-localhost2 =
@@ -1644,6 +1682,9 @@ permissions-camera2 =
     .label = Kamerë
 permissions-microphone2 =
     .label = Mikrofon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Folës
 permissions-notification2 =
     .label = Njoftime
 
