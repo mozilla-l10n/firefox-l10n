@@ -660,8 +660,12 @@ home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Hasiera-orria eta leiho berriak
+home-homepage-new-windows =
+    .label = Leiho berriak
 home-homepage-mode-label2 = Leiho berriak
 home-newtabs-mode-label = Fitxa berriak
+home-homepage-new-tabs =
+    .label = Fitxa berriak
 home-restore-defaults =
     .label = Berrezarri lehenetsiak
     .accesskey = B
