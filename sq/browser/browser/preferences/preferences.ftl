@@ -60,6 +60,7 @@ pane-experimental-description2 = Ndryshimi i rregullimeve të mëtejshme të for
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Jepuni një të provuar veçorive tona eksperimentale! Janë në zhvillim e sipër dhe evoluojnë, çka mund të ndikojë se si funksionon { -brand-short-name }-i. Marrim vetëm të dhëna rreth përdorimit tuaj të këtyre veçorive, nëse keni të aktivizuar <a data-l10n-name="data-collection">të dhëna teknike dhe ndërveprimesh</a>.
 pane-experimental-description3 = Provoni veçoritë tonë eksperimentale! Janë në zhvillim e sipër dhe evoluojnë, çka mund të prekë mënyrën se si funksionon { -brand-short-name }-i.
 pane-experimental-reset =
     .label = Rikthe Parazgjedhjet
@@ -113,6 +114,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Që të aktivizoni zgjerimin, shkoni te Shtesa <img data-l10n-name="addons-icon"/> te menuja <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Që ta riaktivizoni këtë zgjerim, vizitoni <a data-l10n-name="addons-link">Zgjerime dhe tema</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
 extension-controlling-homepage = { $name } kontrollon disa nga rregullimet për faqen tuaj hyrëse.
@@ -175,6 +177,15 @@ preferences-manage-profiles-button =
     .label = Administroni Profile
 preferences-profiles-settings-button =
     .label = Rregullime
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Kopjoni një profil ekzistues
+    .description = Profili i ri do të kopjojë rregullimet tuaja, shtesat, historikun dhe të dhëna të ruajtura, fjala vjen, faqerojtës dhe fjalëkalime — por jo llogarinë tuaj apo informacion njëkohësimesh.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil për t’u kopjuar
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
@@ -182,6 +193,14 @@ preferences-copy-profile-select = Përzgjidhni profil
 preferences-copy-profile-button = Kopjoje
 tabs-group-header2 =
     .label = Skeda
+tabs-opening-heading =
+    .label = Hapje
+tabs-interaction-heading =
+    .label = Ndërveprim
+tabs-containers-heading =
+    .label = Kontejnerë
+tabs-closing-heading =
+    .label = Mbyllje
 tabs-group-header = Skeda
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ju kalon nëpër skedat sipas radhës së përdorimit së fundi
@@ -309,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Rregullimet tuaja për kontroll kontrasti po anashkalojnë ato të sajtit për dukjen.
 preferences-web-appearance-link =
     .label = Administroni tema { -brand-short-name }, që nga Zgjerime & Tema
+preferences-contrast-control-group =
+    .label = Kontrast sajti
+    .description = Sajtet përdorin një larmi ngjyrash të përparme dhe sfondi. Për kontrast të njëtrajtshëm, mund të përdorni të njëjtat ngjyra nëpër sajte.
+preferences-contrast-control-radio-group =
+    .label = Anashkalo ngjyra
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Përzgjedhjet tuaja për ngjyrat po anashkalojnë pamjen e sajtit. <a data-l10n-name="colors-link">Administroni ngjyra</a>
@@ -546,6 +570,16 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
+## Firefox support
+
+support-application-heading =
+    .label = Asistencë { -brand-short-name }
+    .description = Diagnostikoni probleme, ose ndani me bashkësinë ide.
+support-get-help =
+    .label = Merrni ndihmë
+support-share-ideas =
+    .label = Ndani me të tjerët ide dhe përshtypje
+
 ## General Section - Performance
 
 performance-title = Punim
@@ -598,6 +632,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktivizo kontrolle video për mënyrën “Picture-in-Picture”
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Vazhdo luajtje videosh nën mënyrën “Picture-in-Picture”, kur ndërrohen skeda
+    .accesskey = V
 browsing-picture-in-picture-learn-more = Mësoni më tepër
 browsing-media-control =
     .label = Kontrolloni media përmes tastiere, headset-i, ose ndërfaqeje virtuale
@@ -744,6 +781,8 @@ home-prefs-weather-header =
     .label = Moti
 home-prefs-weather-description = Parashikimi për sot me një vështrim
 home-prefs-weather-learn-more-link = Mësoni më tepër
+home-prefs-widgets-header =
+    .label = Widget-e
 home-prefs-trending-search-header =
     .label = Prirje kërkimesh
 home-prefs-trending-search-description = Subjekte popullore dhe të kërkuara shpesh
@@ -758,6 +797,8 @@ home-prefs-support-firefox-header =
     .label = Përkrahni { -brand-product-name }
 home-prefs-mission-message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë
 home-prefs-mission-message-learn-more-link = Mësoni se si
+home-prefs-mission-message2 =
+    .message = Sponsorët tanë përkrahin misionin tonë për ndërtimin e një interneti më të mirë.
 home-prefs-manage-topics-link = Administroni subjekte
 home-prefs-manage-topics-link2 =
     .label = Administroni subjekte
@@ -803,6 +844,11 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Shfaq terma kërkimi te shtylla e adresave në faqe përfundimesh
+search-separate-default-engine-2 =
+    .label = Përdorni motor parazgjedhje të ndryshëm kërkimesh në dritare private
+    .accesskey = P
+search-separate-default-engine-dropdown =
+    .aria-label = Motor parazgjedhje kërkimesh për dritare private
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
