@@ -329,8 +329,8 @@ preferences-web-appearance-override-warning3 =
 preferences-web-appearance-link =
     .label = Hantera { -brand-short-name } teman i Tillägg och teman
 preferences-contrast-control-group =
-    .label = Kontrast på webbplatsen
-    .description = Webbplatser använder en mängd olika förgrunds- och bakgrundsfärger. För konsekvent kontrast kan du använda samma färger på alla webbplatser.
+    .label = Webbplatskontrast
+    .description = Webbplatser använder en mängd olika förgrunds- och bakgrundsfärger. För konsekvent kontrast kan du använda samma färger på olika webbplatser.
 preferences-contrast-control-radio-group =
     .label = Åsidosätt färger
 # This can appear when using windows HCM or "Override colors: always" without

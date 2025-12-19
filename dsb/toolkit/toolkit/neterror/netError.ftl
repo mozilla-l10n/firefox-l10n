@@ -99,11 +99,11 @@ neterror-not-cached-try-again = Klikniśo na Hyšći raz, aby dokument hyšći r
 neterror-net-offline = Klikniśo na “Hyšći raz", aby do online-modusa pśejšeł a bok znowego zacytał.
 neterror-proxy-resolve-failure-settings = Pśekontrolěrujśo proksy-nastajenja, aby zawěsćił, až su korektne.
 neterror-proxy-resolve-failure-connection = Skontrolěrujśo, lěc wašo licadło ma funkcioněrujucy seśowy zwisk.
-neterror-proxy-resolve-failure-firewall = Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až { -brand-short-name } ma pšawo na Web pśistup měś.
+neterror-proxy-resolve-failure-firewall = Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až { -brand-short-name } ma pšawo k weboju pśistup měś.
 neterror-proxy-connect-failure-settings = Pśekontrolěrujśo proksy-nastajenja, aby se zawěsćiło, až wóne su korektne.
 neterror-proxy-connect-failure-contact-admin = Stajśo ze swójim seśowym administratorom, aby zawěsćił, až proksy-serwer źěła.
-neterror-content-encoding-error = Pšosym stejśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.
-neterror-unsafe-content-type = Pšosym stejśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.
+neterror-content-encoding-error = Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.
+neterror-unsafe-content-type = Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-basic-http-auth = { -brand-short-name } { $hostname } njedowěri, dokulaž zwisk njejo wěsty. Wopytajśo URL do HTTPS změniś.
