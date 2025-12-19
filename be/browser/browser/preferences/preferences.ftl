@@ -565,6 +565,9 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць
@@ -664,6 +667,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Кіраваць пашырэннем
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Выберыце канкрэтны сайт
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Выберыце канкрэтны сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -680,6 +686,11 @@ choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
 home-homepage-header = Хатняя старонка
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Хатняя старонка
 
 ## Custom Homepage subpage
 
@@ -941,9 +952,15 @@ sync-manage-account = Кіраванне ўліковым запісам
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не пацвержаны.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
