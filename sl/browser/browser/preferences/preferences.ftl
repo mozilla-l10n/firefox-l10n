@@ -942,7 +942,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Odjava …
     .accesskey = j
+sync-sign-out2 =
+    .label = Odjava{ " " }
+    .accesskey = j
 sync-manage-account = Upravljanje računa
+    .accesskey = U
+sync-manage-account2 =
+    .label = Upravljanje računa
     .accesskey = U
 
 ## Variables
