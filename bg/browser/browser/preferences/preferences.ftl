@@ -837,6 +837,9 @@ sync-sign-out2 =
     .accesskey = з
 sync-manage-account = Управление на профила
     .accesskey = У
+sync-manage-account2 =
+    .label = Управление на профила
+    .accesskey = У
 
 ## Variables
 ## $email (string) - Email used for Firefox account
