@@ -509,7 +509,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = साइन आउट करा…
     .accesskey = g
+sync-sign-out2 =
+    .label = साइन आउट करा
+    .accesskey = g
 sync-manage-account = खाते व्यवस्थापित करा
+    .accesskey = o
+sync-manage-account2 =
+    .label = खाते व्यवस्थापित करा
     .accesskey = o
 
 ## Variables
