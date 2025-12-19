@@ -860,7 +860,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Шығу…
     .accesskey = Ш
+sync-sign-out2 =
+    .label = Шығу
+    .accesskey = Ш
 sync-manage-account = Тіркелгіні басқару
+    .accesskey = к
+sync-manage-account2 =
+    .label = Тіркелгіні басқару
     .accesskey = к
 
 ## Variables
