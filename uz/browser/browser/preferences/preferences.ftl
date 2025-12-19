@@ -543,7 +543,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Chiqish…
     .accesskey = C
+sync-sign-out2 =
+    .label = Chiqish
+    .accesskey = C
 sync-manage-account = Hisobni boshqarish
+    .accesskey = o
+sync-manage-account2 =
+    .label = Hisobni boshqarish
     .accesskey = o
 
 ## Variables
