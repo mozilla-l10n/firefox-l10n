@@ -554,7 +554,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = سائن آؤٹ…
     .accesskey = گ
+sync-sign-out2 =
+    .label = سائن آؤٹ
+    .accesskey = گ
 sync-manage-account = اکاؤنٹ کا منظم کریں
+    .accesskey = o
+sync-manage-account2 =
+    .label = اکاؤنٹ کا منظم کریں
     .accesskey = o
 
 ## Variables
