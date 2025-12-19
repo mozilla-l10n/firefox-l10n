@@ -28,4 +28,4 @@ desktop-entry-keywords = internet;WWW;prohlížeč;web;
 
 desktop-action-new-window-name = Nové okno
 desktop-action-new-private-window-name = Nové anonymní okno
-desktop-action-open-profile-manager = Otevřete Správce profilů
+desktop-action-open-profile-manager = Otevřít Správce profilů
