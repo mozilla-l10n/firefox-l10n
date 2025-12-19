@@ -524,7 +524,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = Gahuī…
     .accesskey = G
+sync-sign-out2 =
+    .label = Gahuī
+    .accesskey = G
 sync-manage-account = Dugumi' Kuenda
+    .accesskey = D
+sync-manage-account2 =
+    .label = Dugumi' Kuenda
     .accesskey = D
 
 ## Variables
