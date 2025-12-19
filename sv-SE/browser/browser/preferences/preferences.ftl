@@ -859,7 +859,7 @@ search-separate-default-engine-2 =
 search-separate-default-engine-dropdown =
     .aria-label = Standardsökmotor i privata fönster
 search-suggestions-header-2 =
-    .label = Sökmotorförslag
+    .label = Förslag från sökmotorer
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
