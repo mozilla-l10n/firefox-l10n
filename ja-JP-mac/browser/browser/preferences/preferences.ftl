@@ -684,6 +684,8 @@ home-homepage-header = ホームページ
 
 ## Home Section - Home Page Customization
 
+home-homepage-title =
+    .label = ホームページ
 
 ## Custom Homepage subpage
 
