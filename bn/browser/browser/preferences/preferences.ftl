@@ -568,7 +568,13 @@ sync-profile-picture-with-alt =
 sync-sign-out =
     .label = সাইন আউট...
     .accesskey = g
+sync-sign-out2 =
+    .label = সাইন আউট
+    .accesskey = g
 sync-manage-account = অ্যাকাউন্ট ব্যবস্থাপনা
+    .accesskey = o
+sync-manage-account2 =
+    .label = অ্যাকাউন্ট ব্যবস্থাপনা
     .accesskey = o
 
 ## Variables
