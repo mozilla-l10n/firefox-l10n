@@ -653,8 +653,12 @@ home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn m
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Trang chủ và cửa sổ mới
+home-homepage-new-windows =
+    .label = Cửa sổ mới
 home-homepage-mode-label2 = Cửa sổ mới
 home-newtabs-mode-label = Thẻ mới
+home-homepage-new-tabs =
+    .label = Thẻ mới
 home-restore-defaults =
     .label = Khôi phục về mặc định
     .accesskey = R
