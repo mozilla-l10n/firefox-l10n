@@ -403,6 +403,14 @@ translate-attribution = Omsettingar av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Unntak…
     .accesskey = n
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatisk omsetting
+settings-translations-subpage-always-translate-header =
+    .label = Omset alltid desse språka
+settings-translations-subpage-never-translate-header =
+    .label = Omset aldri desse språka
+settings-translations-subpage-never-translate-sites-header =
+    .label = Omset aldri desse nettstadane
 settings-translations-subpage-language-select-option =
     .label = Legg til språk
 settings-translations-subpage-language-add-button =
@@ -420,6 +428,15 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
     .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ingen språk er lasta ned
+settings-translations-subpage-no-languages-added =
+    .label = Ingen språk er lagt til
+settings-translations-subpage-download-progress = Nedlasting i framdrift…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Klarte ikkje å laste ned { $language } ({ $size }MB)
 settings-translations-subpage-download-retry-button =
     .label = Prøv igjen
 # Variables:
@@ -430,6 +447,8 @@ settings-translations-subpage-download-delete-button =
     .label = Slett
 settings-translations-subpage-download-cancel-button =
     .label = Avbryt
+settings-translations-subpage-no-sites-added =
+    .label = Ingen nettstadar lagt til
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =

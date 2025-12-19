@@ -186,3 +186,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body = Sørg for at du brukar den nya
 fp-neterror-offline-what-can-you-do-body = Prøv å kople til på ei anna eining. Sjekk modemet eller ruteren. Kople frå og kople til Wi-fi igjen.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Av og til set nettstadar opp vern for seg sjølve mot uønskte interaksjonar med andre nettstadar.
+fp-learn-more-about-https-connections = Lær om HTTPS-tilkoplingar
