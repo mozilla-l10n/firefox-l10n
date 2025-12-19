@@ -620,7 +620,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = പുറത്തുക്കടക്കുക…
     .accesskey = പ
+sync-sign-out2 =
+    .label = പുറത്തുക്കടക്കുക
+    .accesskey = പ
 sync-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
+    .accesskey = o
+sync-manage-account2 =
+    .label = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
     .accesskey = o
 
 ## Variables
