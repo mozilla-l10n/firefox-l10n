@@ -965,7 +965,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = Amaitu saioa…
     .accesskey = A
+sync-sign-out2 =
+    .label = Amaitu saioa
+    .accesskey = A
 sync-manage-account = Kudeatu kontua
+    .accesskey = o
+sync-manage-account2 =
+    .label = Kudeatu kontua
     .accesskey = o
 
 ## Variables
