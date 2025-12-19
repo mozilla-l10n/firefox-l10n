@@ -1050,7 +1050,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
+sync-signedin-unverified2 =
+    .label = { $email } 이메일이 아직 확인되지 않음
+    .description = 계정을 확인하고 공식화하려면 받은 편지함을 확인하세요.
 sync-signedin-login-failure = { $email }으로 다시 연결하려면 로그인하세요
+sync-signedin-login-failure2 =
+    .label = { $email }에서 로그아웃됨
+    .description = 다시 연결하고 데이터 동기화를 시작하려면 다시 로그인하세요.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
