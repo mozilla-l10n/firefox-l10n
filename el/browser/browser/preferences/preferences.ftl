@@ -657,8 +657,12 @@ home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε �
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Αρχική σελίδα και νέα παράθυρα
+home-homepage-new-windows =
+    .label = Νέα παράθυρα
 home-homepage-mode-label2 = Νέα παράθυρα
 home-newtabs-mode-label = Νέες καρτέλες
+home-homepage-new-tabs =
+    .label = Νέες καρτέλες
 home-restore-defaults =
     .label = Επαναφορά προεπιλογών
     .accesskey = Ε
