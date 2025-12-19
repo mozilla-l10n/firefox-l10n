@@ -670,6 +670,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = 확장 기능 관리
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = 특정 사이트 선택
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = 특정 사이트 선택
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -686,6 +689,11 @@ choose-bookmark =
     .label = 북마크 사용…
     .accesskey = B
 home-homepage-header = 홈페이지
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = 홈페이지
 
 ## Custom Homepage subpage
 
@@ -961,9 +969,15 @@ sync-manage-account = 계정 관리
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
 sync-signedin-login-failure = { $email }으로 다시 연결하려면 로그인하세요
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
