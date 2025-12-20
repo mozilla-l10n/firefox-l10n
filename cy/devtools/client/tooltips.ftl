@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = Nid yw <strong>{ $property }</strong> yn c
 inactive-css-column-span = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n gynhwysydd aml-golofn.
 inactive-css-not-grid-or-flex-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n grid nac yn eitem flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid neu fflecs, nac yn elfen wedi'i lleoli'n llwyr.
+inactive-css-not-grid-or-absolutely-positioned-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid nac yn elfen wedi'i lleoli'n llwyr.
 inactive-css-not-grid-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid.
 inactive-css-not-grid-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd grid.
 inactive-css-not-flex-item = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n eitem hyblyg.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = Nid yw <strong>{ $property }</strong> yn effeithio a
 
 inactive-css-highlight-pseudo-elements-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar amlygu ffug-elfennau.
 inactive-css-cue-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar  ::cue pseudo-elements.
+inactive-css-at-position-try-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi yn rheolau <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -90,6 +92,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ceisiwch ych
 inactive-css-not-multicol-container-fix = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong> at un o'i elfennau hynafiaid . { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Ceisiwch ychwanegu <strong>position:absolute</strong> i'r elfen, neu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> >, neu <strong>display:inline-flex</strong> i riant yr elfen. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Ceisiwch ychwanegu <strong>position:absolute</strong> i'r elfen, neu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> i riant yr elfen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neu <strong>display:inline-flex</strong> i riant yr elfen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> at riant yr elfen. { learn-more }
 inactive-css-not-grid-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong>. { learn-more }
@@ -143,3 +146,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Darllen rhago
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Mae'r dewisydd hwn yn defnyddio <strong>:has()</strong> heb ei gyfyngu, a all fod yn araf
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Bydd dewiswyr brodyr a chwiorydd ar ôl <strong>:scope</strong> byth yn cyfateb i unrhyw beth
