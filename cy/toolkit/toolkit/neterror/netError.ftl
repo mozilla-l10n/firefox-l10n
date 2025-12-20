@@ -187,5 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = Dyw { -brand-short-name } dd
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Gwnewch yn siŵr eich bod yn defnyddio'r fersiwn diweddaraf o { -brand-short-name }. Ewch i Cymorth > Ynghylch { -brand-short-name } yn y ddewislen. Os ydych chi'n defnyddio'r { -brand-short-name } diweddaraf, mae'r broblem yn fwyaf tebygol gyda'r wefan ei hun.
 fp-neterror-offline-what-can-you-do-body = Ceisiwch gysylltu ar ddyfais wahanol. Gwiriwch eich modem neu lwybrydd. Datgysylltwch ac ailgysylltwch â'r Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Ceisiwch newid yr URL i HTTPS. Ond mae'n debygol bod problem gyda'r wefan ei hun.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Weithiau mae gwefannau yn gosod diogeleddau iddyn nhw eu hunain rhag rhyngweithio digroeso â gwefannau eraill.
+fp-learn-more-about-https-connections = Dysgu am gysylltiadau HTTPS

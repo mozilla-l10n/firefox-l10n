@@ -22,7 +22,7 @@ inactive-css-not-multicol-container = Nid yw <strong>{ $property }</strong> yn c
 inactive-css-column-span = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n gynhwysydd aml-golofn.
 inactive-css-not-grid-or-flex-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n grid nac yn eitem flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid neu fflecs, nac yn elfen wedi'i lleoli'n llwyr.
-inactive-css-not-grid-or-absolutely-positioned-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid nac yn elfen wedi'i lleoli'n llwyr.
+inactive-css-not-grid-or-absolutely-positioned-item = Dyw <strong>{ $property }</strong> ddim yn effeithio ar yr elfen hon gan nad yw'n eitem grid nac yn elfen wedi'i lleoli'n llwyr.
 inactive-css-not-grid-item = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem grid.
 inactive-css-not-grid-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd grid.
 inactive-css-not-flex-item = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n eitem hyblyg.
@@ -65,7 +65,7 @@ inactive-css-ruby-element = Nid yw <strong>{ $property }</strong> yn effeithio a
 
 inactive-css-highlight-pseudo-elements-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar amlygu ffug-elfennau.
 inactive-css-cue-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar  ::cue pseudo-elements.
-inactive-css-at-position-try-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi yn rheolau <strong>@position-try</strong>.
+inactive-css-at-position-try-not-supported = Dyw <strong>{ $property }</strong> ddim yn cael ei gefnogi yn rheolau <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
