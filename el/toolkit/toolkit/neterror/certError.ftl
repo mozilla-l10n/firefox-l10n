@@ -76,10 +76,22 @@ fp-certerror-return-to-previous-page-recommended-button = Επιστροφή (Π
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = Το { -brand-short-name } σάς προειδοποιεί σχετικά με αυτόν τον ιστότοπο, επειδή το πιστοποιητικό του { $hostname } έχει ανακληθεί και δεν είναι πλέον αξιόπιστο.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Μάλλον τίποτα, αφού είναι πιθανό να υπάρχει πρόβλημα με τον ίδιο τον ιστότοπο. Μπορείτε να επικοινωνήσετε με τον κάτοχο του ιστοτόπου για να δείτε αν προσπαθεί να επιλύσει το πρόβλημα.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Ο ιστότοπος έχει ρυθμιστεί έτσι, ώστε να επιτρέπει μόνο ασφαλείς συνδέσεις, αλλά υπάρχει πρόβλημα με το πιστοποιητικό του. Είναι πιθανό ένας κακόβουλος τρίτος να προσπαθεί να μιμηθεί τον ιστότοπο. Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή το πιστοποιητικό του δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Μάλλον τίποτα, αφού είναι πιθανό να υπάρχει πρόβλημα με τον ίδιο τον ιστότοπο. Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Αλλά αν είστε σε ένα εταιρικό δίκτυο, η ομάδα υποστήριξής σας ενδέχεται να έχει περισσότερες πληροφορίες. Αν χρησιμοποιείτε λογισμικό προστασίας από ιούς, δοκιμάστε να αναζητήσετε πιθανές διενέξεις ή γνωστά ζητήματα.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = Το { -brand-short-name } σάς προειδοποιεί σχετικά με αυτόν τον ιστότοπο, επειδή το πιστοποιητικό για το { $hostname } εκδόθηκε από μια αρχή πιστοποίησης που δεν είναι πλέον έμπιστη.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Μάλλον τίποτα, αφού είναι πιθανό να υπάρχει πρόβλημα με τον ίδιο τον ιστότοπο. Μπορείτε να επικοινωνήσετε με τον κάτοχο του ιστοτόπου για να δείτε αν προσπαθεί να επιλύσει το πρόβλημα.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Υπάρχει πρόβλημα με το πιστοποιητικό του ιστοτόπου. Είναι πιθανό ένας κακόβουλος τρίτος να προσπαθεί να μιμηθεί τον ιστότοπο. Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή δεν μπορούμε να προσδιορίσουμε ποιος εξέδωσε το πιστοποιητικό, επειδή είναι αυτοϋπογεγραμμένο ή επειδή ο ιστότοπος δεν στέλνει αξιόπιστα ενδιάμεσα πιστοποιητικά.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
