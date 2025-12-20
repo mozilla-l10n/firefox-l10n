@@ -414,6 +414,9 @@ settings-translations-more-settings-button =
     .description = Καθορίστε προτιμήσεις για γλώσσες, ιστοτόπους και μετάφραση εκτός σύνδεσης.
 settings-translations-subpage-header =
     .heading = Περισσότερες ρυθμίσεις μετάφρασης
+settings-translations-subpage-speed-up-translation-header =
+    .label = Επιτάχυνση μετάφρασης
+    .description = Κάντε λήψη ολόκληρων γλωσσών για ταχύτερες μεταφράσεις και μετάφραση εκτός σύνδεσης.
 settings-translations-subpage-automatic-translation-header =
     .label = Αυτόματη μετάφραση
 settings-translations-subpage-always-translate-header =
@@ -422,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Να μην μεταφράζονται ποτέ αυτές οι γλώσσες
 settings-translations-subpage-never-translate-sites-header =
     .label = Να μην μεταφράζονται ποτέ αυτοί οι ιστότοποι
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Για να προσθέσετε έναν ιστότοπο, ανοίξτε τον <img data-l10n-name="translations-icon"/> πίνακα μεταφράσεων, επιλέξτε τις <img data-l10n-name="settings-icon"/> ρυθμίσεις μετάφρασης και επιλέξτε «Να μην μεταφράζεται ποτέ αυτός ο ιστότοπος»
 settings-translations-subpage-language-select-option =
     .label = Προσθήκη γλώσσας
 settings-translations-subpage-language-add-button =
@@ -439,7 +444,15 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
     .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Δεν έχει γίνει λήψη γλωσσών
+settings-translations-subpage-no-languages-added =
+    .label = Δεν έχουν προστεθεί γλώσσες
 settings-translations-subpage-download-progress = Λήψη σε εξέλιξη…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Δεν ήταν δυνατή η λήψη της γλώσσας «{ $language }» ({ $size }MB)
 settings-translations-subpage-download-retry-button =
     .label = Δοκιμή ξανά
 # Variables:
@@ -450,6 +463,8 @@ settings-translations-subpage-download-delete-button =
     .label = Διαγραφή
 settings-translations-subpage-download-cancel-button =
     .label = Ακύρωση
+settings-translations-subpage-no-sites-added =
+    .label = Δεν έχουν προστεθεί ιστότοποι
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -619,6 +634,9 @@ update-in-progress-cancel-button = &Συνέχεια
 
 ## Firefox support
 
+support-application-heading =
+    .label = Υποστήριξη { -brand-short-name }
+    .description = Επιλύστε ζητήματα ή μοιραστείτε ιδέες με την κοινότητα.
 support-get-help =
     .label = Λήψη βοήθειας
 support-share-ideas =
@@ -894,12 +912,24 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων
     .accesskey = τ
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Εμφάνιση προτάσεων αναζήτησης πριν από το ιστορικό περιήγησης στα αποτελέσματα της γραμμής διευθύνσεων
+search-show-suggestions-private-windows-2 =
+    .label = Προτάσεις αναζήτησης στα ιδιωτικά παράθυρα
 search-suggestions-cant-show-2 =
     .message = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } έτσι ώστε να μην διατηρεί ποτέ το ιστορικό.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων όταν βρίσκεστε σε σελίδες αποτελεσμάτων
+search-separate-default-engine-2 =
+    .label = Χρήση διαφορετικής μηχανής αναζήτησης στα ιδιωτικά παράθυρα
+    .accesskey = Χ
 search-separate-default-engine-dropdown =
     .aria-label = Προεπιλεγμένη μηχανή αναζήτησης σε ιδιωτικά παράθυρα
 search-suggestions-header-2 =
@@ -980,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Συγχρονισμός
+account-placeholder =
+    .label = Δεν έχετε συνδεθεί
+    .description = Συνδεθείτε για να διατηρήσετε τα δεδομένα σας ιδιωτικά, κρυπτογραφημένα και συγχρονισμένα μεταξύ των συσκευών σας.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -988,6 +1021,9 @@ sync-signedout-caption = Πάρτε μαζί σας το διαδίκτυο
 sync-signedout-description2 = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις ρυθμίσεις σας σε όλες τις συσκευές σας.
 sync-signedout-account-signin3 =
     .label = Σύνδεση για συγχρονισμό…
+    .accesskey = ν
+sync-signedout-account-signin-4 =
+    .label = Συνδεθείτε στον λογαριασμό σας για να ξεκινήσει ο συγχρονισμός
     .accesskey = ν
 sync-signedout-account-short =
     .label = Σύνδεση
@@ -1030,7 +1066,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
+sync-signedin-unverified2 =
+    .label = Το { $email } δεν έχει επιβεβαιωθεί ακόμα
+    .description = Ελέγξτε τα εισερχόμενά σας για να επιβεβαιώσετε τον λογαριασμό σας.
 sync-signedin-login-failure = Συνδεθείτε ξανά για επανασύνδεση του { $email }
+sync-signedin-login-failure2 =
+    .label = Έχετε αποσυνδεθεί από το { $email }
+    .description = Συνδεθείτε ξανά για να ξεκινήσετε τον συγχρονισμό των δεδομένων σας.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1063,6 +1105,9 @@ prefs-syncing-on = Συγχρονισμός: ΕΝΕΡΓΟΣ
 prefs-syncing-on-2 =
     .label = Ο συγχρονισμός είναι ΕΝΕΡΓΟΣ
 prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
+prefs-syncing-off-2 =
+    .label = Ο συγχρονισμός είναι ΑΝΕΝΕΡΓΟΣ
+    .description = Ενεργοποιήστε τον συγχρονισμό για να λάβετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό και πολλά άλλα σε οποιαδήποτε συσκευή.
 prefs-sync-turn-on-syncing =
     .label = Ενεργοποίηση συγχρονισμού…
     .accesskey = ρ
@@ -1089,6 +1134,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Μπορείτε να συγχρονίσετε αυτά τα στοιχεία σε όλες τις συνδεδεμένες συσκευές σας:
+sync-syncing-across-devices-heading-2 = Συγχρονισμένα δεδομένα μεταξύ των συσκευών
+sync-syncing-across-devices-empty-state =
+    .label = Δεν συγχρονίζεται τίποτα… ακόμα.
+    .description = Ξεκινήστε τον συγχρονισμό για να λάβετε όλα τα δεδομένα σας σε όλες τις συσκευές σας.
 sync-currently-syncing-bookmarks = Σελιδοδείκτες
 sync-currently-syncing-history = Ιστορικό
 sync-currently-syncing-tabs = Ανοικτές καρτέλες

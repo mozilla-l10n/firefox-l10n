@@ -5,7 +5,7 @@
 clear-site-data-window2 =
     .title = Daty lašowaś
     .style = min-width: 35em
-clear-site-data-description = Pśez lašowanje wšych cookiejow a datow sedła pśez { -brand-short-name } móžo k wótzjawjanjeju z websedłow a wótwńoźowanjeju webwopśimjesa offline dojś. Lašowanje datow z cacha waše pśizjewjanja njewobwliwujo.
+clear-site-data-description = Pśez lašowanje wšych cookiejow a datow sedła pśez { -brand-short-name } móžo k wótzjawjanjeju z websedłow a wótwńoźowanjeju webwopśimjeśa offline dojś. Lašowanje datow z cacha waše pśizjewjanja njewobwliwujo.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
