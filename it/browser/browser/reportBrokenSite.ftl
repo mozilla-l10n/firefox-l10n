@@ -58,4 +58,3 @@ report-broken-site-panel-preview-button =
     .label = Anteprima segnalazione
 report-broken-site-panel-preview-header =
     .label = Anteprima segnalazione
-

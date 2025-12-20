@@ -163,4 +163,3 @@ perftools-presets-debug-description = Preset per il debug di { -brand-shorter-na
 perftools-presets-web-compat-label = Compatibilità web
 perftools-presets-web-compat-description = Preset consigliato per il debug dei problemi di compatibilità nei siti web, non per monitorare le prestazioni.
 perftools-presets-custom-label = Personalizzato
-
