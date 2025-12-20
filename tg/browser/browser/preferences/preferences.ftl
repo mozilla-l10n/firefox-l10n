@@ -448,6 +448,16 @@ settings-translations-subpage-download-error = Забони «{ $language }» б
 settings-translations-subpage-download-retry-button =
     .label = Аз нав кӯшиш кардан
 # Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Забони «{ $language }»-ро нест мекунед ({ $size } МБ)?
+settings-translations-subpage-download-delete-button =
+    .label = Нест кардан
+settings-translations-subpage-download-cancel-button =
+    .label = Бекор кардан
+settings-translations-subpage-no-sites-added =
+    .label = Ягон сомона илова карда нашуд
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Танзимоти низоми амалкунандаи компютерии ҷорӣ мувофиқи «{ $localeName }» барои танзим кардани сана, вақт, рақамҳо ва ададҳои ченкунӣ истифода карда мешаванд.
@@ -900,6 +910,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option-2 =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ пеш таърихи тамошобинӣ дар натиҷаҳои навори нишонӣ
+search-show-suggestions-private-windows-2 =
+    .label = Пешниҳодҳои ҷустуҷӯ дар равзанаҳои хусусӣ
 search-suggestions-cant-show-2 =
     .message = Пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори ҷойгиршавӣ намоиш дода намешаванд, зеро ки шумо «{ -brand-short-name }»-ро танзим кардед, то таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -998,6 +1010,9 @@ sync-signedout-description2 = Хатбаракҳо, таърих, варақаҳ
 sync-signedout-account-signin3 =
     .label = Барои ҳамоҳангсозӣ ворид шавед…
     .accesskey = Б
+sync-signedout-account-short =
+    .label = Ворид шудан
+    .accesskey = В
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1037,6 +1052,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } тасдиқ нашудааст.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1595,6 +1620,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Ҷустуҷӯҳои охирин
     .accesskey = Ҷ
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Пешниҳодҳои ҷустуҷӯи ҳавасангез
+    .accesskey = П
 addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
 addressbar-locbar-showrecentsearches-option =
     .label = Намоиш додани ҷустуҷӯҳои охирин
