@@ -404,6 +404,49 @@ settings-translations-header =
     .label = Тарҷумаҳо
     .aria-label = Тарҷумаҳо
     .description = Саҳифаҳо ё матни интихобшударо тарҷума кунед. Барои муҳофизат кардани махфияти шумо, тарҷумаҳо дар дастгоҳи шумо нигоҳ дошта мешаванд.
+settings-translations-offer-to-translate-label =
+    .label = Тарҷумаи пурраи саҳифа пешниҳод карда шавад
+settings-translations-more-settings-button =
+    .label = Танзимоти иловагии тарҷума
+    .description = Хусусиятҳоро барои забонҳо, сомонаҳо ва тарҷумаҳои офлайн танзим кунед.
+settings-translations-subpage-header =
+    .heading = Танзимоти иловагии тарҷума
+settings-translations-subpage-automatic-translation-header =
+    .label = Тарҷумаи худкор
+settings-translations-subpage-always-translate-header =
+    .label = Ҳамеша бояд аз ин забонҳо тарҷума карда шавад
+settings-translations-subpage-never-translate-header =
+    .label = Ҳеҷ гоҳ бояд аз ин забонҳо тарҷума карда нашавад
+settings-translations-subpage-never-translate-sites-header =
+    .label = Ин сомонаҳо бояд ҳеҷ вақт тарҷума карда нашаванд
+settings-translations-subpage-language-select-option =
+    .label = Илова кардани забон
+settings-translations-subpage-language-add-button =
+    .aria-label = Илова кардани забон
+    .title = Илова кардани забон
+settings-translations-subpage-download-languages-header =
+    .label = Боргирӣ кардани забонҳо
+settings-translations-subpage-download-languages-select-option =
+    .label = Забонеро интихоб намоед
+settings-translations-subpage-download-languages-button =
+    .aria-label = Боргирӣ кардани забон
+    .title = Боргирӣ кардани забон
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } МБ)
+    .label = { $language } ({ $size } МБ)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ягон забон боргирӣ карда нашуд
+settings-translations-subpage-no-languages-added =
+    .label = Ягон забон илова карда нашуд
+settings-translations-subpage-download-progress = Дар ҳоли боргирӣ…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Забони «{ $language }» боргирӣ карда нашуд ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Аз нав кӯшиш кардан
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
