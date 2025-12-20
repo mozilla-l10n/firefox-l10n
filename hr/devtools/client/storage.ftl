@@ -67,7 +67,7 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = Ime
 storage-table-headers-cookies-value = Vrijednost
-storage-table-headers-cookies-expires = Isteče / maksimalna starost
+storage-table-headers-cookies-expires = Ističe / maksimalna starost
 storage-table-headers-cookies-size = Veličina
 storage-table-headers-cookies-last-accessed = Zadnji put pristupljeno
 storage-table-headers-cookies-creation-time = Stvoreno

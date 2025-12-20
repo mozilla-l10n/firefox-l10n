@@ -8,7 +8,7 @@
 # Variables:
 #   $month (String): Numeric month the credit card expires
 #   $year (String): Four-digit year the credit card expires
-credit-card-expiration = Isteče: { $month }/{ $year }
+credit-card-expiration = Ističe: { $month }/{ $year }
 
 ## These labels serve as a description of a credit card.
 ## The description must include a credit card number, and may optionally
