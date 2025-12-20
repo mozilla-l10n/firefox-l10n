@@ -586,7 +586,7 @@ mlmodel-smart-tab-embedding-engine = { -brand-short-name } l’utilise pour sugg
 addon-category-mlmodel = IA sur l’appareil
 addon-category-mlmodel-title =
     .title = IA sur l’appareil
-mlmodel-heading = Gérer les modèles d’IA sur l’appareil
+mlmodel-heading = Gestion des modèles d’IA sur l’appareil
 mlmodel-description = Certaines fonctionnalités et extensions de { -brand-short-name } s’appuient sur des modèles d’IA qui fonctionnent localement sur votre appareil. Cette approche protège votre vie privée et, dans de nombreux cas, améliore les performances. <a data-l10n-name="learn-more">En savoir plus</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
