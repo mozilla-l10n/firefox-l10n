@@ -1590,3 +1590,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] Το { -brand-product-name } επέτρεψε { $count } cryptominer
     }
 trustpanel-cryptominer-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να εξορύξουν κρυπτονομίσματα:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> αποκλεισμένος ιχνηλάτης σε αυτόν τον ιστότοπο
+       *[other] <span data-l10n-name="count">{ $count }</span> αποκλεισμένοι ιχνηλάτες σε αυτόν τον ιστότοπο
+    }

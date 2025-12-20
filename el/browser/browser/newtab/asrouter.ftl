@@ -428,4 +428,15 @@ etp-strict-exceptions-infobar-not-now = Όχι τώρα
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = Το { -brand-short-name } δεν είναι το προεπιλεγμένο πρόγραμμα περιήγησής σας
+set-default-menu-message-simple-layout-title-variant = Το { -brand-short-name } δεν είναι το κύριο πρόγραμμα περιήγησής σας
+set-default-menu-message-row-layout-title = Ορισμός του { -brand-short-name } ως κύριου προγράμματος περιήγησης
+set-default-menu-message-row-layout-title-variant = Ορισμός του { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης
+set-default-menu-message-row-layout-subtitle = Ταχύτητα, ασφάλεια και ιδιωτικότητα σε κάθε περιήγησή σας.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και κρατήστε το στο Dock σας.
+       *[other] Αποκτήστε άμεση πρόσβαση στο { -brand-short-name } — ορίστε το ως προεπιλογή και κρατήστε το στη γραμμή εργασιών σας.
+    }
 set-default-menu-message-primary-button = Ορισμός ως προεπιλογή
+set-default-menu-message-primary-button-variant = Ορισμός ως κύριο πρόγραμμα περιήγησης
