@@ -459,6 +459,10 @@ settings-translations-subpage-download-retry-button =
 settings-translations-subpage-download-delete-confirm = Eliminar { $language } ({ $size } MB)?
 settings-translations-subpage-download-delete-button =
     .label = Deler
+settings-translations-subpage-download-cancel-button =
+    .label = Cancellar
+settings-translations-subpage-no-sites-added =
+    .label = Necun sito addite
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1004,6 +1008,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-placeholder =
+    .label = Tu non es connectite
+    .description = Accede pro tener tu datos private, cryptate, e synchronisate inter apparatos.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1016,6 +1023,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Accede a tu conto pro initiar a synchronisar
     .accesskey = i
+sync-signedout-account-short =
+    .label = Acceder
+    .accesskey = e
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1055,6 +1065,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non es verificate.
 sync-signedin-login-failure = Per favor aperi session pro reconnecter { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
