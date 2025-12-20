@@ -81,4 +81,4 @@ containers-icon-pet =
 containers-icon-tree =
     .label = Bom
 containers-icon-chill =
-    .label = Chłodnosć
+    .label = Wódychanje

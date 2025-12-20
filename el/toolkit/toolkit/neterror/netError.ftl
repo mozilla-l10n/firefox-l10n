@@ -177,11 +177,17 @@ fp-neterror-offline-body-title = Φαίνεται ότι υπάρχει κάπο
 
 fp-neterror-connection-intro = Το { -brand-short-name } δεν μπορεί να δημιουργήσει ασφαλή σύνδεση με τον διακομιστή στο { $hostname }.
 fp-neterror-offline-intro = Το { -brand-short-name } δεν μπορεί να συνδεθεί στον διακομιστή στο <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = Το { -brand-short-name } δεν φόρτωσε αυτήν τη σελίδα, επειδή φαίνεται ότι οι ρυθμίσεις ασφαλείας δεν συμφωνούν με την προηγούμενη σελίδα.
+fp-neterror-http-auth-disabled-intro = Κάποιος που προσποιείται ότι είναι ο ιστότοπος θα μπορούσε να υποκλέψει στοιχεία, όπως το όνομα χρήστη, τον κωδικό πρόσβασης ή το email σας.
+fp-neterror-http-auth-disabled-secure-connection = Αυτός ο ιστότοπος απαιτεί ασφαλή σύνδεση και δεν μπορείτε να προσθέσετε εξαίρεση για να τον επισκεφθείτε.
 fp-neterror-why-did-this-happen = Γιατί συνέβη αυτό;
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Φαίνεται ότι αυτός ο ιστότοπος χρησιμοποιεί παλιό λογισμικό με γνωστά ζητήματα ασφαλείας.
+fp-neterror-http-auth-disabled-why-dangerous-body = Το { -brand-short-name } δεν εμπιστεύεται το { $hostname }, επειδή η σύνδεση δεν είναι ασφαλής.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Βεβαιωθείτε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση του { -brand-short-name }. Επιλέξτε «Βοήθεια» > «Σχετικά με το { -brand-short-name }» στο μενού. Εάν χρησιμοποιείτε το πιο πρόσφατο { -brand-short-name }, το πρόβλημα οφείλεται κατά πάσα πιθανότητα στον ίδιο τον ιστότοπο.
 fp-neterror-offline-what-can-you-do-body = Δοκιμάστε να συνδεθείτε από διαφορετική συσκευή. Ελέγξτε το modem ή το router σας. Αποσυνδέστε και επανασυνδέστε το Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Δοκιμάστε να αλλάξετε τη διεύθυνση URL σε HTTPS. Ωστόσο, το πρόβλημα οφείλεται πιθανότατα στον ίδιο τον ιστότοπο.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Μερικές φορές, οι ιστότοποι υλοποιούν προστασίες για τους εαυτούς τους ενάντια σε ανεπιθύμητες αλληλεπιδράσεις με άλλους ιστοτόπους.
+fp-learn-more-about-https-connections = Μάθετε για τις συνδέσεις HTTPS

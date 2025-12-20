@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = Το { -brand-short-name } απέκλε
 safeb-blocked-malware-page-short-desc = Το { -brand-short-name } απέκλεισε αυτήν τη σελίδα, επειδή ενδέχεται να επιχειρήσει να εγκαταστήσει κακόβουλο λογισμικό που μπορεί να υποκλέψει ή να διαγράψει προσωπικές πληροφορίες στον υπολογιστή σας.
 safeb-blocked-unwanted-page-short-desc = Το { -brand-short-name } απέκλεισε αυτήν τη σελίδα, επειδή ενδέχεται να προσπαθήσει να σας παραπλανήσει ώστε να εγκαταστήσετε προγράμματα που βλάπτουν την εμπειρία περιήγησής σας (για παράδειγμα, αλλάζοντας την αρχική σας σελίδα ή εμφανίζοντας επιπλέον διαφημίσεις στους ιστοτόπους που επισκέπτεστε).
 safeb-blocked-harmful-page-short-desc = Το { -brand-short-name } απέκλεισε αυτήν τη σελίδα, επειδή ενδέχεται να αποπειραθεί να εγκαταστήσει επικίνδυνες εφαρμογές, που υποκλέπτουν ή διαγράφουν τις πληροφορίες σας (για παράδειγμα, φωτογραφίες, κωδικοί πρόσβασης, μηνύματα και πιστωτικές κάρτες).
+safeb-blocked-addon-page-short-desc = Το { -brand-short-name } απέκλεισε αυτήν τη σελίδα επειδή ένα από τα πρόσθετά σας προσπάθησε να την ανοίξει. Αυτός ο ιστότοπος θα μπορούσε να χρησιμοποιηθεί για την υποκλοπή των πληροφοριών σας, όπως κωδικών πρόσβασης ή αριθμών πιστωτικών καρτών.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Παροχή υποδείξεων από <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -63,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Μάθετε περισσότερα σχ
 safeb-palm-notdeceptive =
     .label = Αυτός δεν είναι παραπλανητικός ιστότοπος…
     .accesskey = δ
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Γιατί αποκλείστηκε αυτός ο ιστότοπος;</strong>
+safeb-blocked-addon-page-error-desc2-override = Το <strong>{ $sitename }</strong> ενδέχεται να σχετίζεται με παραπλανητική και επιβλαβή δραστηριότητα.
+safeb-blocked-addon-page-error-desc3-override = <strong>Τι μπορείτε να κάνετε για αυτό;</strong>
+safeb-blocked-addon-page-error-desc4-override = Για να μην συμβεί ξανά αυτό, μπορείτε να αφαιρέσετε ή να απενεργοποιήσετε το <strong>{ $addonName }</strong> από τη σελίδα about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Μάθετε περισσότερα σχετικά με την προστασία του { -brand-short-name } ενάντια σε ηλεκτρονικό «ψάρεμα» και κακόβουλο λογισμικό</a>.
