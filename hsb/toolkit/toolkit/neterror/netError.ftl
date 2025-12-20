@@ -178,11 +178,14 @@ fp-neterror-offline-body-title = Zda so, zo je problem z wašim internetnym zwis
 fp-neterror-connection-intro = { -brand-short-name } njemóže wěsty zwisk z serwerom na { $hostname } nawjazać.
 fp-neterror-offline-intro = { -brand-short-name } njemóže ze serwerom <strong>{ $hostname }</strong> zwjazać
 fp-neterror-coop-coep-intro = { -brand-short-name } njeje tutu stronu začitał, dokelž so zda, jako njeby wěstotna konfiguracija z předchadnej stronu wotpowědował.
+fp-neterror-http-auth-disabled-intro = Něchtó, kotryž wudawa, zo je sydło, móhł wěcy kaž waše wužiwarske mjeno, hesło abo e-mejlowu adresu kradnyć.
 fp-neterror-why-did-this-happen = Čehodla je so to stało?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zda so, zo tute sydło staru software ze znatymi wěstotnymi problemami wužiwa.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } { $hostname } njedowěrja, dokelž zwisk wěsty njeje.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Zawěsćće, zo najnowšu wersiju { -brand-short-name } wužiwaće. Dźiće k Pomoc > Wo { -brand-short-name } w meniju. Jeli najnowšu wersiju { -brand-short-name } wužiwaće, ma najskerje sydło tutón problem.
 fp-neterror-offline-what-can-you-do-body = Spytajće z druhim gratom zwjazać. Přepruwujće swój modem abo router. Dźělće zwisk WLAN a zwjazajće znowa.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Druhdy websydła so před njewitanymi interakcijemi z druhimi sydłami škitaja.
+fp-learn-more-about-https-connections = Zhońće wjace wo zwiskach HTTPS
