@@ -1056,6 +1056,19 @@ sync-signedin-unverified2 =
     .label = { $email } 尚未完成確認
     .description = 請收信進行確認，正式讓帳號生效。
 sync-signedin-login-failure = 請登入以重新連線 { $email }
+sync-signedin-login-failure2 =
+    .label = 您已登出 { $email }
+    .description = 重新登入後即可重新連線，並且同步您的資料。
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $email }
+    .description = { $email }
 
 ##
 
