@@ -433,6 +433,10 @@ settings-translations-subpage-automatic-translation-header =
     .label = Cyfieithu awtomatig
 settings-translations-subpage-always-translate-header =
     .label = Cyfieithu'r ieithoedd hyn bob tro
+settings-translations-subpage-never-translate-header =
+    .label = Peidio byth cyfieithu'r ieithoedd hyn
+settings-translations-subpage-never-translate-sites-header =
+    .label = Peidio â chyfieithu'r gwefannau hyn
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1353,6 +1357,8 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Rheoli cyfeiriadau a mwy
     .accesskey = R
+addreses-edit-address-button-label =
+    .aria-label = Golygu
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
