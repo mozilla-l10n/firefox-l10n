@@ -448,9 +448,6 @@ settings-translations-subpage-download-languages-header =
     .label = Llwytho ieithoedd i lawr
 settings-translations-subpage-download-languages-select-option =
     .label = Dewis iaith
-settings-translations-subpage-download-languages-button =
-    .aria-label = { "" }
-    .title = { "" }
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
@@ -1026,6 +1023,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-placeholder =
+    .label = Dydych chi heb fewngofnodi
+    .description = Mewngofnodwch i gadw'ch data'n breifat, wedi'i amgryptio a'i gydweddu ar draws dyfeisiau.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1037,6 +1037,9 @@ sync-signedout-account-signin3 =
     .accesskey = M
 sync-signedout-account-signin-4 =
     .label = Mewngofnodwch i'ch cyfrif i ddechrau cydweddu
+    .accesskey = M
+sync-signedout-account-short =
+    .label = Mewngofnodi
     .accesskey = M
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1076,7 +1079,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } wedi ei wirio.
+sync-signedin-unverified2 =
+    .label = Nid yw { $email } wedi'i gadarnhau eto
+    .description = Gwiriwch eich blwch derbyn i gadarnhau'ch cyfrif ac i'w wneud yn swyddogol.
 sync-signedin-login-failure = Ail fewngofnodwch er mwyn ailgysylltu { $email }
+sync-signedin-login-failure2 =
+    .label = Rydych wedi allgofnodi o { $email }
+    .description = Mewngofnodwch i ailgysylltu ac i gychwyn cydweddu'ch data.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1144,6 +1163,9 @@ sync-currently-syncing-addons = Ychwanegion
 sync-currently-syncing-settings = Gosodiadau
 sync-manage-options =
     .label = Rheoli cydweddu…
+    .accesskey = R
+sync-manage-options-2 =
+    .label = Rheoli data wedi'u cydweddu
     .accesskey = R
 sync-change-options =
     .label = Newid…
@@ -1404,6 +1426,9 @@ autofill-payment-methods-add-button = Ychwanegu dull talu newydd
 payments-list-header =
     .label = Dulliau talu
 payments-list-item-label = <strong>Dulliau talu</strong>
+payments-delete-payment-prompt-title = Dileu'r dull talu hwn?
+payments-delete-payment-prompt-confirm-button = Dileu
+payments-delete-payment-prompt-cancel-button = Diddymu
 payments-remove-payment-prompt-title = Dileu'r dull talu hwn?
 payments-remove-payment-prompt-confirm-button = Dileu
 payments-remove-payment-prompt-cancel-button = Diddymu
@@ -1416,8 +1441,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Rheoli cyfeiriadau a mwy
     .accesskey = R
+addresses-list-header =
+    .label = Cyfeiriadau
+addreses-delete-address-button-label =
+    .aria-label = Dileu
 addreses-edit-address-button-label =
     .aria-label = Golygu
+addresses-delete-address-prompt-title = Dileu'r cyfeiriad hwn?
+addresses-delete-address-prompt-confirm-button = Dileu
+addresses-delete-address-prompt-cancel-button = Diddymu
+autofill-addresses-add-button = Ychwanegu cyfeiriad newydd
+autofill-addresses-manage-addresses-title =
+    .heading = Rheoli cyfeiriadau a rhagor
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1612,6 +1654,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gweithredoedd cyflym
     .accesskey = c
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Chwilio diweddar
+    .accesskey = C
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Awgrymiadau chwilio sy'n trendio
+    .accesskey = A
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 addressbar-locbar-showrecentsearches-option =
     .label = Dangos y chwilio diweddar
