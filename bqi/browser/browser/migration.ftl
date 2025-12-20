@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+import-from-bookmarks = و من ٱووردن نشووکا ز:
 import-source-page-title = و من ٱووردن سامووا وو داده یل
 
 ## Browser data types
@@ -22,6 +23,18 @@ browser-data-cookies-checkbox =
     .label = کۊکیا
 browser-data-cookies-label =
     .value = کۊکیا
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] ویرگار گشتن وو نشووکا
+           *[other] ویرگار گشتن
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] ویرگار گشتن وو نشووکا
+           *[other] ویرگار گشتن
+        }
 browser-data-session-checkbox =
     .label = نیمدری یل وو بلگه یل
 browser-data-session-label =

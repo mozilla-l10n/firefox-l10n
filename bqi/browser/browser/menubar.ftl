@@ -61,10 +61,14 @@ menu-edit-bookmark =
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
     .label = پیتینیڌن نشووکا
+menu-bookmarks-all-tabs =
+    .label = نشووک ناهاڌن پوی بلگه یل…
 menu-bookmarks-toolbar =
     .label = نوار ٱوزار نشووکا
 menu-bookmarks-other =
     .label = نشووکا دیری
+menu-bookmarks-mobile =
+    .label = نشووکا تیلیفووݩ
 
 ## Profiles Menu
 
@@ -95,3 +99,17 @@ menu-settings =
 
 menu-window-menu =
     .label = نیمدری
+
+## Help Menu
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
+menu-report-broken-site =
+    .label = گوزارش خراوی وبگه
