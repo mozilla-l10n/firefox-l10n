@@ -1647,6 +1647,6 @@ trustpanel-blocker-section-header2 =
     { $count ->
         [one] Na tejto stránke je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvok
         [few] Na tejto stránke sú zablokované <span data-l10n-name="count">{ $count }</span> sledovacie prvky
-        [many] Na tejto stránke sú zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
-       *[other] Na tejto stránke sú zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
+        [many] Na tejto stránke je zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
+       *[other] Na tejto stránke je zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
     }
