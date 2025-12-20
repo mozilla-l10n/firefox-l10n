@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = Οι ρυθμίσεις σας για τον έλεγχο αντίθεσης υπερισχύουν της εμφάνισης του ιστοτόπου.
 preferences-web-appearance-link =
     .label = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα Επεκτάσεις και θέματα
+preferences-contrast-control-radio-group =
+    .label = Παράκαμψη χρωμάτων
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
@@ -398,6 +400,34 @@ translate-attribution = Μεταφράσεις από <img data-l10n-name="logo"
 translate-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
+settings-translations-subpage-language-select-option =
+    .label = Προσθήκη γλώσσας
+settings-translations-subpage-language-add-button =
+    .aria-label = Προσθήκη γλώσσας
+    .title = Προσθήκη γλώσσας
+settings-translations-subpage-download-languages-header =
+    .label = Λήψη γλωσσών
+settings-translations-subpage-download-languages-select-option =
+    .label = Επιλογή γλώσσας
+settings-translations-subpage-download-languages-button =
+    .aria-label = Λήψη γλώσσας
+    .title = Λήψη γλώσσας
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-download-progress = Λήψη σε εξέλιξη…
+settings-translations-subpage-download-retry-button =
+    .label = Δοκιμή ξανά
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Διαγραφή της γλώσσας «{ $language }» ({ $size }MB);
+settings-translations-subpage-download-delete-button =
+    .label = Διαγραφή
+settings-translations-subpage-download-cancel-button =
+    .label = Ακύρωση
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -848,6 +878,8 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων όταν βρίσκεστε σε σελίδες αποτελεσμάτων
+search-suggestions-header-2 =
+    .label = Προτάσεις μηχανής αναζήτησης
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -933,6 +965,9 @@ sync-signedout-description2 = Συγχρονίστε τους σελιδοδεί
 sync-signedout-account-signin3 =
     .label = Σύνδεση για συγχρονισμό…
     .accesskey = ν
+sync-signedout-account-short =
+    .label = Σύνδεση
+    .accesskey = ν
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -973,6 +1008,16 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
 sync-signedin-login-failure = Συνδεθείτε ξανά για επανασύνδεση του { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -991,6 +1036,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Συγχρονισμός: ΕΝΕΡΓΟΣ
+prefs-syncing-on-2 =
+    .label = Ο συγχρονισμός είναι ΕΝΕΡΓΟΣ
 prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
 prefs-sync-turn-on-syncing =
     .label = Ενεργοποίηση συγχρονισμού…
@@ -1030,6 +1077,9 @@ sync-currently-syncing-addons = Πρόσθετα
 sync-currently-syncing-settings = Ρυθμίσεις
 sync-manage-options =
     .label = Διαχείριση συγχρονισμού…
+    .accesskey = Δ
+sync-manage-options-2 =
+    .label = Διαχείριση συγχρονισμένων δεδομένων
     .accesskey = Δ
 sync-change-options =
     .label = Αλλαγή…
@@ -1290,6 +1340,9 @@ autofill-payment-methods-add-button = Προσθήκη νέας μεθόδου �
 payments-list-header =
     .label = Μέθοδοι πληρωμής
 payments-list-item-label = <strong>Μέθοδοι πληρωμής</strong>
+payments-delete-payment-prompt-title = Αφαίρεση μεθόδου πληρωμής;
+payments-delete-payment-prompt-confirm-button = Διαγραφή
+payments-delete-payment-prompt-cancel-button = Ακύρωση
 payments-remove-payment-prompt-title = Αφαίρεση αυτής της μεθόδου πληρωμής;
 payments-remove-payment-prompt-confirm-button = Αφαίρεση
 payments-remove-payment-prompt-cancel-button = Ακύρωση
@@ -1302,6 +1355,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Διαχείριση διευθύνσεων και άλλων
     .accesskey = Δ
+addresses-list-header =
+    .label = Διευθύνσεις
+addreses-delete-address-button-label =
+    .aria-label = Διαγραφή
+addreses-edit-address-button-label =
+    .aria-label = Επεξεργασία
+addresses-delete-address-prompt-title = Διαγραφή διεύθυνσης;
+addresses-delete-address-prompt-confirm-button = Διαγραφή
+addresses-delete-address-prompt-cancel-button = Ακύρωση
+autofill-addresses-add-button = Προσθήκη νέας διεύθυνσης
+autofill-addresses-manage-addresses-title =
+    .heading = Διαχείριση διευθύνσεων και άλλων
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1496,6 +1568,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Γρήγορες ενέργειες
     .accesskey = Γ
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Πρόσφατες αναζητήσεις
+    .accesskey = φ
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 addressbar-locbar-showrecentsearches-option =
     .label = Εμφάνιση πρόσφατων αναζητήσεων
