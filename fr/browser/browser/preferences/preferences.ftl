@@ -407,6 +407,8 @@ settings-translations-header =
     .label = Traductions
     .aria-label = Traductions
     .description = Traduire des pages ou du texte sélectionné. Pour protéger votre vie privée, les traductions restent sur votre appareil.
+settings-translations-offer-to-translate-label =
+    .label = Proposer une traduction complète de la page
 settings-translations-more-settings-button =
     .label = Plus de paramètres de traduction
     .description = Définissez des préférences de langue, de sites web et de traduction hors connexion.
@@ -435,8 +437,8 @@ settings-translations-subpage-download-languages-header =
 settings-translations-subpage-download-languages-select-option =
     .label = Choisir la langue
 settings-translations-subpage-download-languages-button =
-    .aria-label = Langue du téléchargement
-    .title = Langue du téléchargement
+    .aria-label = Télécharger la langue
+    .title = Télécharger la langue
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
@@ -446,7 +448,7 @@ settings-translations-subpage-no-languages-downloaded =
     .label = Aucune langue téléchargée
 settings-translations-subpage-no-languages-added =
     .label = Aucune langue ajoutée
-settings-translations-subpage-download-progress = Téléchargement en cours…
+settings-translations-subpage-download-progress = Téléchargement…
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
