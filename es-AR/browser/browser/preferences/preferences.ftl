@@ -398,6 +398,47 @@ translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-header =
+    .label = Traducciones
+    .aria-label = Traducciones
+    .description = Traducir páginas o texto seleccionado. Para proteger la privacidad, las traducciones se mantienen en el dispositivo.
+settings-translations-offer-to-translate-label =
+    .label = Ofrecer traducción de página completa
+settings-translations-more-settings-button =
+    .label = Más opciones de traducción
+    .description = Preferencias de idioma, sitios web y traducción fuera de línea.
+settings-translations-subpage-header =
+    .heading = Más opciones de traducción
+settings-translations-subpage-speed-up-translation-header =
+    .label = Acelerar la traducción
+    .description = Descargar idiomas completos para traducciones más rápidas y traducir fuera de línea.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traducción automática
+settings-translations-subpage-always-translate-header =
+    .label = Siempre traducir estos idiomas
+settings-translations-subpage-never-translate-header =
+    .label = Nunca traducir estos idiomas
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nunca traducir estos sitios
+settings-translations-subpage-language-select-option =
+    .label = Agregar idioma
+settings-translations-subpage-language-add-button =
+    .aria-label = Agregar idioma
+    .title = Agregar idioma
+settings-translations-subpage-download-languages-header =
+    .label = Descargar idiomas
+settings-translations-subpage-download-languages-select-option =
+    .label = Seleccionar idioma
+settings-translations-subpage-download-languages-button =
+    .aria-label = Descargar idioma
+    .title = Descargar idioma
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = No sé descargaron idiomas
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
