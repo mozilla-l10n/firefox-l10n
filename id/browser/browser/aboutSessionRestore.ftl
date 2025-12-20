@@ -33,8 +33,8 @@ welcome-back-tab-title = Sukses!
 welcome-back-page-title = Sukses!
 welcome-back-page-info = { -brand-short-name } siap bertugas.
 welcome-back-restore-button =
-    .label = Mulai!
-    .accesskey = M
+    .label = Ayo!
+    .accesskey = A
 welcome-back-restore-all-label = Pulihkan semua jendela & tab
 welcome-back-restore-some-label = Pulihkan hanya yang Anda inginkan
 welcome-back-page-info-link = Pengaya dan pengubahsuaian Anda telah dibuang dan setelan peramban Anda telah dipulihkan ke setelan bawaan. Jika masalahnya masih belum teratasi, <a data-l10n-name="link-more">pelajari lebih lanjut apa yang dapat Anda lakukan berikutnya.</a>
