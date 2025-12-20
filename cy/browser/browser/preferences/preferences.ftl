@@ -340,6 +340,11 @@ preferences-web-appearance-override-warning3 =
     .message = Mae eich gosodiadau rheoli cyferbyniad yn drech na gwedd y wefan.
 preferences-web-appearance-link =
     .label = Rheoli themâu { -brand-short-name } yn Estyniadau a Themâu
+preferences-contrast-control-group =
+    .label = Cyferbyniad gwefan
+    .description = Mae gwefannau yn defnyddio amrywiaeth o liwiau blaendir a chefndir. Er mawyn cysondeb cydweddiad mae modd i chi ddefnyddio 'r un lliwiau ar draws gwefannau.
+preferences-contrast-control-radio-group =
+    .label = Diystyru lliwiau
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Mae eich dewisiadau lliw yn drech nag gwedd gwefan. <a data-l10n-name="colors-link">Rheoli lliwiau</a>
@@ -410,6 +415,24 @@ translate-attribution = Cyfieithiadau gan <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eithriadau…
     .accesskey = i
+settings-translations-header =
+    .label = Cyfieithiadau
+    .aria-label = Cyfieithiadau
+    .description = Cyfieithu tudalennau neu ddewis testun. I ddiogelu eich preifatrwydd, mae cyfieithiadau'n aros ar eich dyfais.
+settings-translations-offer-to-translate-label =
+    .label = Cynnig cyfieithiad tudalen lawn
+settings-translations-more-settings-button =
+    .label = Rhagor o osodiadau cyfieithu
+    .description = Gosod dewisiadau ar gyfer ieithoedd, gwefannau a chyfieithu all-lein.
+settings-translations-subpage-header =
+    .heading = Rhagor o osodiadau cyfieithu
+settings-translations-subpage-speed-up-translation-header =
+    .label = Cyflymu cyfieithu
+    .description = Llwythwch ieithoedd cyfan i lawr ar gyfer cyfieithu cyflymach ac i gyfieithu all-lein.
+settings-translations-subpage-automatic-translation-header =
+    .label = Cyfieithu awtomatig
+settings-translations-subpage-always-translate-header =
+    .label = Cyfieithu'r ieithoedd hyn bob tro
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =

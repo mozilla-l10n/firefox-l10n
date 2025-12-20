@@ -144,9 +144,61 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } nol rive a ripristinâ
     .message = Torne invie { -brand-short-name } e torne prove a ripristinâ il to backup.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Uhm... Al è vignût fûr un probleme tal fâ il backup.
+    .message = Torne prove ca di cualchi minût.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = Salve i tiei dâts sensibii
 enable-backup-encryption-support-link = Plui informazions
 enable-backup-encryption-create-password-label = Password
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Ripet la password
+enable-backup-encryption-cancel-button = Anule
+enable-backup-encryption-confirm-button = Salve
+change-backup-encryption-header = Cambie la password dal backup
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = Recuisîts pe password
+password-rules-length-description = Almancul 8 caratars
+password-rules-email-description = No compagne de direzion e-mail
+password-rules-disclaimer = Reste al sigûr — no sta tornâ a doprâ lis passwords. Viôt altris sugjeriments par <a data-l10n-name="password-support-link">creâ passwords complessis</a>.
+password-validity-has-email = No pues jessi une direzion e-mail
+password-validity-do-not-match = Lis passwords no corispuindin
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Completât
+password-rules-a11y-warning =
+    .alt = Avertiment
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Gjave la protezion cu la password
+disable-backup-encryption-description2 = Lis passwords e i metodis di paiament no vignaran plui salvâts.
+disable-backup-encryption-support-link = Ce vignaraial salvât?
+disable-backup-encryption-cancel-button = Anule
+disable-backup-encryption-confirm-button = Gjave password
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = La password no sodisfe i recuisîts di complessitât. Prove cuntune altre password.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Alc al è lât strucj. Torne prove.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = { -brand-short-name } al è pront par jessi ripristinât
+backup-file-title = Ripristine { -brand-short-name }
