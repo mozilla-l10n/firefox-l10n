@@ -420,6 +420,57 @@ settings-translations-more-settings-button =
     .description = Póstajśo nastajenja za rěcy, websedła a přełožowanje offline.
 settings-translations-subpage-header =
     .heading = Dalšne nastajenja pśełožowanja
+settings-translations-subpage-speed-up-translation-header =
+    .label = Pśełožowanje póspěšyś
+    .description = Ześěgniśo dopołne rěcy za malsnjejše pśełožki a aby offline pśełožował.
+settings-translations-subpage-automatic-translation-header =
+    .label = Awtomatiske pśełožowanje
+settings-translations-subpage-always-translate-header =
+    .label = Toś te rěcy pśecej pśełožowaś
+settings-translations-subpage-never-translate-header =
+    .label = Toś te rěcy nigda njepśełožowaś
+settings-translations-subpage-never-translate-sites-header =
+    .label = Toś te websedła nigda njepśełožowaś
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Aby sedło pśidał, wócyńśo <img data-l10n-name="translations-icon"/> wokno pśełožowanja, wubjeŕśo <img data-l10n-name="settings-icon"/> nastajenja pśełožowanja a wubjeŕśo pón „Toś to sedło nigda njepśełožyś“
+settings-translations-subpage-language-select-option =
+    .label = Rěc pśidaś
+settings-translations-subpage-language-add-button =
+    .aria-label = Rěc pśidaś
+    .title = Rěc pśidaś
+settings-translations-subpage-download-languages-header =
+    .label = Rěcy ześěgnuś
+settings-translations-subpage-download-languages-select-option =
+    .label = Rěc wubraś
+settings-translations-subpage-download-languages-button =
+    .aria-label = Rěcy ześěgnuś
+    .title = Rěcy ześěgnuś
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Žedne rěcy ześěgnjone
+settings-translations-subpage-no-languages-added =
+    .label = Žedne rěcy pśidane
+settings-translations-subpage-download-progress = Ześěgnjenje běžy…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ({ $size }MB) njedajo se ześěgnuś
+settings-translations-subpage-download-retry-button =
+    .label = Hyšći raz wopytaś
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size } MB) lašowaś?
+settings-translations-subpage-download-delete-button =
+    .label = Lašowaś
+settings-translations-subpage-download-cancel-button =
+    .label = Pśetergnuś
+settings-translations-subpage-no-sites-added =
+    .label = Žedne sedła pśidane
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -967,6 +1018,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizěrowaś
+account-placeholder =
+    .label = Njejsćo pśizjawjony.
+    .description = Pśizjawśo, aby  na wšych rědach swóje daty priwatne, skoděrowane a synchronizěrowane źaržał.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -978,6 +1032,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = Pśizjawśo se pla swójogo konta, aby synchronizaciju zachopił
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Pśizjawiś
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1017,6 +1074,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } njejo se pśeglědał.
+sync-signedin-unverified2 =
+    .label = { $email } hyšći njejo wobkšuśona
+    .description = Glědajśo do swójogo postowego dochada, aby swójo konto wobkšuśił a jo oficielne cynił.
 sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
 
 ##
