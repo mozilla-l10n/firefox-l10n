@@ -62,9 +62,9 @@ accessibility-text-label-issue-toolbar = Symbolowe rědki muse se wóznamjeniś,
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
-accessibility-keyboard-issue-semantics = Fokusujobne elementy měli interaktiwnu semantiku měś. <a>Dalšne informacije</a>
+accessibility-keyboard-issue-semantics = Fokusěrujobne elementy měli interaktiwnu semantiku měś. <a>Dalšne informacije</a>
 accessibility-keyboard-issue-tabindex = Njewužywajśo atribut <code>tabindex</code> z gódnotu, kótaraž jo wětša ako nul. <a>Dalšne informacije</a>
 accessibility-keyboard-issue-action = Interaktiwne elementy muse se z tastaturu aktiwěrowaś daś. <a>Dalšne informacije</a>
 accessibility-keyboard-issue-focusable = Interaktiwne elementy muse se fokusěrowaś daś. <a>Dalšne informacije</a>
-accessibility-keyboard-issue-focus-visible = Zda se, až fokusujobnemu elementoju fokusowy stil felujo. <a>Dalšne informacije</a>
+accessibility-keyboard-issue-focus-visible = Zda se, až fokusěrujobnemu elementoju fokusowy stil felujo. <a>Dalšne informacije</a>
 accessibility-keyboard-issue-mouse-only = Klikajobne elementy musy se fokusěrowaś daś a měli interaktiwnu semantiku měś. <a>Dalšne informacije</a>
