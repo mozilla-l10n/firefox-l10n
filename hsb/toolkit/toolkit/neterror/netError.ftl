@@ -187,6 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } { $hos
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Zawěsćće, zo najnowšu wersiju { -brand-short-name } wužiwaće. Dźiće k Pomoc > Wo { -brand-short-name } w meniju. Jeli najnowšu wersiju { -brand-short-name } wužiwaće, ma najskerje sydło tutón problem.
 fp-neterror-offline-what-can-you-do-body = Spytajće z druhim gratom zwjazać. Přepruwujće swój modem abo router. Dźělće zwisk WLAN a zwjazajće znowa.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Spytajće URL do HTTPS změnić. Zda so, zo je problem ze sydłom samym.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Druhdy websydła so před njewitanymi interakcijemi z druhimi sydłami škitaja.
 fp-learn-more-about-https-connections = Zhońće wjace wo zwiskach HTTPS

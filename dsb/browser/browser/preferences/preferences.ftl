@@ -409,6 +409,17 @@ translate-attribution = Pśełožki wót <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wuwześa…
     .accesskey = W
+settings-translations-header =
+    .label = Pśełožki
+    .aria-label = Pśełožki
+    .description = Pśełožujśo boki abo wubrany tekst. Aby wašu priwatnosć šćitali, pśełožki na wašom rěźe wóstawaju.
+settings-translations-offer-to-translate-label =
+    .label = Pśełožowanje dopołnych bokow póbitowaś
+settings-translations-more-settings-button =
+    .label = Dalšne nastajenja pśełožowanja
+    .description = Póstajśo nastajenja za rěcy, websedła a přełožowanje offline.
+settings-translations-subpage-header =
+    .heading = Dalšne nastajenja pśełožowanja
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
