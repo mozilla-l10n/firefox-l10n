@@ -428,6 +428,8 @@ settings-translations-subpage-never-translate-header =
     .label = Nikdy neprekladať z týchto jazykov
 settings-translations-subpage-never-translate-sites-header =
     .label = Neprekladať tieto stránky
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Ak chcete pridať stránku, otvorte <img data-l10n-name="translations-icon"/> panel prekladov, vyberte <img data-l10n-name="settings-icon"/> nastavenia prekladov a potom vyberte možnosť “Nikdy neprekladať túto stránku”.
 settings-translations-subpage-language-select-option =
     .label = Pridať jazyk
 settings-translations-subpage-language-add-button =
@@ -1068,7 +1070,20 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Adresa { $email } nie je overená.
+sync-signedin-unverified2 =
+    .label = Adresa { $email } ešte nie je potvrdená
+    .description = Skontrolujte si schránku s doručenou poštou, aby ste potvrdili svoj účet a oficiálne ho registrovali.
 sync-signedin-login-failure = Ak sa chcete pripojiť k účtu { $email }, musíte sa prihlásiť.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 

@@ -406,7 +406,7 @@ translate-exceptions =
 settings-translations-header =
     .label = Översättningar
     .aria-label = Översättningar
-    .description = Översätt sidor eller markerad text. För att skydda din integritet stannar översättningar på din enhet.
+    .description = Översätt sidor eller markerad text. För att skydda din integritet sparas översättningarna på din enhet.
 settings-translations-offer-to-translate-label =
     .label = Erbjud helsidesöversättning
 settings-translations-more-settings-button =
@@ -426,7 +426,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Översätt aldrig dessa webbplatser
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = För att lägga till en webbplats, öppna översättningspanelen <img data-l10n-name="translations-icon"/>, välj <img data-l10n-name="settings-icon"/> översättningsinställningar och välj sedan "Översätt aldrig det här" webbplats"
+settings-translations-subpage-never-translate-sites-description = För att lägga till en webbplats, öppna översättningspanelen <img data-l10n-name="translations-icon"/>, välj <img data-l10n-name="settings-icon"/> översättningsinställningar och välj sedan "Översätt aldrig den här webbplatsen".
 settings-translations-subpage-language-select-option =
     .label = Lägg till språk
 settings-translations-subpage-language-add-button =
@@ -445,10 +445,10 @@ settings-translations-subpage-download-languages-button =
 settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
     .label = { $language } ({ $size }MB)
 settings-translations-subpage-no-languages-downloaded =
-    .label = Inga språk hämtade
+    .label = Inga språk nedladdade
 settings-translations-subpage-no-languages-added =
     .label = Inga språk har lagts till
-settings-translations-subpage-download-progress = Hämtning pågår…
+settings-translations-subpage-download-progress = Nedladdning pågår…
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
@@ -1067,7 +1067,7 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } är inte verifierat.
 sync-signedin-unverified2 =
-    .label = { $email } är inte bekräftad än
+    .label = { $email } är inte bekräftad ännu
     .description = Kontrollera din inkorg för att bekräfta ditt konto och göra det officiellt.
 sync-signedin-login-failure = Logga in för att återansluta { $email }
 sync-signedin-login-failure2 =
