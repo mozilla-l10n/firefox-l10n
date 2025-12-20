@@ -143,6 +143,7 @@ about-processes-utility-actor-mf-media-engine = CDM Media Engine Windows Media F
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows Utils
 about-processes-utility-actor-windows-file-dialog = Deialog Ffeil Windows
+about-processes-utility-actor-pkcs11-module = Cynorthwyydd Modiwl Diogelwch
 
 ## Displaying CPU (percentage and total)
 ## Variables:

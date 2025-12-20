@@ -178,9 +178,12 @@ fp-neterror-offline-body-title = Mae'n ymddangos bod problem gyda'ch cysylltiad 
 fp-neterror-connection-intro = Dyw { -brand-short-name } ddim yn gallu creu cysylltiad diogel i'r gweinydd yn { $hostname } .
 fp-neterror-offline-intro = Does di modd i { -brand-short-name } gysylltu â'r gweinydd yn <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = Nid yw { -brand-short-name } wedi llwytho'r dudalen hon oherwydd mae'n edrych yn debyg nad yw'r ffurfweddiad diogelwch yn cyfateb i'r dudalen flaenorol.
+fp-neterror-http-auth-disabled-intro = Gallai rhywun sy'n cymryd arno fod ar y wefan geisio dwyn pethau fel eich enw defnyddiwr, cyfrinair neu e-bost.
+fp-neterror-http-auth-disabled-secure-connection = Mae angen cysylltiad diogel ar y wefan hon, a does dim modd i chi ychwanegu eithriad i ymweld â hi.
 fp-neterror-why-did-this-happen = Pam digwyddodd hyn?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Mae'n edrych fel bod y wefan hon yn defnyddio hen feddalwedd gyda gwendidau diogelwch hysbys.
+fp-neterror-http-auth-disabled-why-dangerous-body = Dyw { -brand-short-name } ddim yn ymddiried yn { $hostname } achos dydy’r cysylltiad ddim yn ddiogel.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Gwnewch yn siŵr eich bod yn defnyddio'r fersiwn diweddaraf o { -brand-short-name }. Ewch i Cymorth > Ynghylch { -brand-short-name } yn y ddewislen. Os ydych chi'n defnyddio'r { -brand-short-name } diweddaraf, mae'r broblem yn fwyaf tebygol gyda'r wefan ei hun.
 fp-neterror-offline-what-can-you-do-body = Ceisiwch gysylltu ar ddyfais wahanol. Gwiriwch eich modem neu lwybrydd. Datgysylltwch ac ailgysylltwch â'r Wi-Fi.

@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Mae'r wefan wedi'i gosod i ganiatá
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun. Mae gwefannau'n defnyddio tystysgrifau sy'n cael eu cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Ond os ydych chi ar rwydwaith corfforaethol, efallai y bydd gan eich tîm cymorth fwy o wybodaeth. Os ydych chi'n defnyddio meddalwedd gwrthfeirws, ceisiwch chwilio am wrthdaro posibl neu faterion hysbys.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = Mae { -brand-short-name } yn eich rhybuddio am y wefan hon oherwydd bod y dystysgrif ddarparwyd ar gyfer { $hostname } wedi'i chyhoeddi gan awdurdod tystysgrifau nad oes ymddiried ynddo mwyach.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun. Gallwch wirio gyda pherchennog y wefan i weld a yw'n gweithio ar y broblem.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Mae problem gyda thystysgrif y wefan. Mae'n bosibl bod endid drwg yn ceisio dynwared y wefan. Mae gwefannau'n defnyddio tystysgrifau wedi'u cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd ni allwn ddweud pwy gyhoeddodd y dystysgrif, mae wedi'i hunan-lofnodi, neu nid yw'r wefan yn anfon tystysgrifau canolradd rydym yn ymddiried ynddyn nhw.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan ei bod hi'n debygol bod problem gyda'r wefan ei hun. Ond os ydych chi ar rwydwaith corfforaethol, efallai y bydd gan eich tîm cymorth fwy o wybodaeth. Os ydych yn defnyddio meddalwedd gwrthfeirws, efallai y bydd angen ei ffurfweddu i weithio gyda { -brand-short-name }.
@@ -122,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Dim byd yn ôl pob tebyg, gan e
 fp-learn-more-about-secure-connection-failures = Dysgu rhagor am fethiannau cysylltiadau diogel
 fp-learn-more-about-cert-issues = Dysgu rhagor am y mathau hyn o faterion tystysgrifau
 fp-learn-more-about-time-related-errors = Dysgu rhagor am ddatrys gwallau sy'n gysylltiedig ag amser
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Dyw { -brand-short-name } ddim yn ymddiried yn y wefan hon oherwydd mae'n edrych yn debyg nad yw'r dystysgrif ddarparwyd yn ddilys tan { DATETIME($date, timeStyle: "short") } ar { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Mae cloc eich dyfais wedi'i osod i { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Os yw hyn yn gywir, mae'n debyg mai'r wefan ei hun yw'r broblem diogelwch. Os yw'n anghywir, gallwch ei newid yng ngosodiadau system eich dyfais.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

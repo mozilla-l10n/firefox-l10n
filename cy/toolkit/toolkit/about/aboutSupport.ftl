@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = Effeithlonrwydd (%)
 place-database-stats-sequentiality-perc = Dilynianedd (%)
 place-database-integrity = Cyfanrwydd
 place-database-verify-integrity = Gwirio Cyfanrwydd
+place-database-last-idle-maintenance-data = Dyddiad Cynnal a Chadw Segur Diwethaf
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Dyddiad Gwactod Diwethaf
+place-database-last-integrity-corruption-date = Dyddiad Llygredd Uniondeb Diweddaf
 a11y-title = Hygyrchedd
 a11y-activated = Gweithredu
 a11y-force-disabled = Atal Hygyrchedd
