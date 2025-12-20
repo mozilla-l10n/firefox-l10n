@@ -186,3 +186,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body = Боварӣ ҳосил кун
 fp-neterror-offline-what-can-you-do-body = Кӯшиш кунед, ки дар дастгоҳи дигар пайваст шавед. Модем ё роутери худро тафтиш кунед. Пайвастшавии «Wi-Fi»-ро қатъ карда, аз нав пайваст шавед.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Дар баъзе мавридҳо, сомонаҳо барои худ ва одамоне, ки муҳофизати махсусро бар зидди муоширати номатлуб бо сомонаҳои дигар таъмин мекунанд.
+fp-learn-more-about-https-connections = Маълумот дар бораи пайвастҳои «HTTPS»
