@@ -448,6 +448,9 @@ settings-translations-subpage-download-languages-header =
     .label = Llwytho ieithoedd i lawr
 settings-translations-subpage-download-languages-select-option =
     .label = Dewis iaith
+settings-translations-subpage-download-languages-button =
+    .aria-label = Llwytho iaith i lawr
+    .title = Llwytho iaith i lawr
 # Variables:
 #   $language (string) - Localized name of the language to download.
 #   $size (string) - Download size in megabytes, formatted for the locale.
@@ -1036,7 +1039,7 @@ sync-signedout-account-signin3 =
     .label = Mewngofnodi i Sync…
     .accesskey = M
 sync-signedout-account-signin-4 =
-    .label = Mewngofnodwch i'ch cyfrif i ddechrau cydweddu
+    .label = Mewngofnodwch i'ch cyfrif i gychwyn cydweddu
     .accesskey = M
 sync-signedout-account-short =
     .label = Mewngofnodi
