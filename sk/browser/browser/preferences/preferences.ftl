@@ -1074,6 +1074,9 @@ sync-signedin-unverified2 =
     .label = Adresa { $email } ešte nie je potvrdená
     .description = Skontrolujte si schránku s doručenou poštou, aby ste potvrdili svoj účet a oficiálne ho registrovali.
 sync-signedin-login-failure = Ak sa chcete pripojiť k účtu { $email }, musíte sa prihlásiť.
+sync-signedin-login-failure2 =
+    .label = Ste odhlásený/á z { $email }
+    .description = Znova sa prihláste, aby ste sa znova pripojili a spustili synchronizáciu údajov.
 
 ## Variables
 ## $email (string) - Email used for Firefox account

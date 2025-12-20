@@ -437,6 +437,17 @@ settings-translations-subpage-never-translate-header =
     .label = Peidio byth cyfieithu'r ieithoedd hyn
 settings-translations-subpage-never-translate-sites-header =
     .label = Peidio â chyfieithu'r gwefannau hyn
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = I ychwanegu gwefan, agorwch y panel cyfieithu <img data-l10n-name="translations-icon"/>, dewiswch osodiadau cyfieithu <img data-l10n-name="settings-icon"> yna dewiswch “Peidio byth cyfieithu'r wefan hon”
+settings-translations-subpage-language-select-option =
+    .label = Ychwanegu Iaith
+settings-translations-subpage-language-add-button =
+    .aria-label = Ychwanegu Iaith
+    .title = Ychwanegu Iaith
+settings-translations-subpage-download-languages-header =
+    .label = Llwytho ieithoedd i lawr
+settings-translations-subpage-download-languages-select-option =
+    .label = Dewis iaith
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
