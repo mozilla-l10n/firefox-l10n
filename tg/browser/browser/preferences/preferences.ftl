@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = Тазимоти идоракунии тазоди рангҳои шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад.
 preferences-web-appearance-link =
     .label = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши Васеъшавиҳо ва мавзуъҳо идора кунед
+preferences-contrast-control-radio-group =
+    .label = Аз нав татбиқ кардани рангҳо
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад. <a data-l10n-name="colors-link">Рангҳоро идора кунед</a>
@@ -398,6 +400,10 @@ translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name
 translate-exceptions =
     .label = Истисноҳо…
     .accesskey = И
+settings-translations-header =
+    .label = Тарҷумаҳо
+    .aria-label = Тарҷумаҳо
+    .description = Саҳифаҳо ё матни интихобшударо тарҷума кунед. Барои муҳофизат кардани махфияти шумо, тарҷумаҳо дар дастгоҳи шумо нигоҳ дошта мешаванд.
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
