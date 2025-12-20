@@ -448,6 +448,35 @@ settings-translations-subpage-download-languages-header =
     .label = Llwytho ieithoedd i lawr
 settings-translations-subpage-download-languages-select-option =
     .label = Dewis iaith
+settings-translations-subpage-download-languages-button =
+    .aria-label = { "" }
+    .title = { "" }
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Heb lwytho negeseuon i lawr
+settings-translations-subpage-no-languages-added =
+    .label = Dim ieithoedd wedi'u hychwanegu
+settings-translations-subpage-download-progress = Wrthi'n llwytho i lawr…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Methu llwytho { $language } i lawr ( { $size }MB )
+settings-translations-subpage-download-retry-button =
+    .label = Ceisio eto
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Dileu { $language } ( { $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Dileu
+settings-translations-subpage-download-cancel-button =
+    .label = Na
+settings-translations-subpage-no-sites-added =
+    .label = Dim gwefannau wedi'u hychwanegu
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -899,6 +928,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Dangos awgrymiadau chwilio yng nghanlyniadau'r bar lleoliad
     .accesskey = D
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Dangos awgrymiadau chwilio cyn hanes pori yng nghanlyniadau'r bar cyfeiriad
+search-show-suggestions-private-windows-2 =
+    .label = Awgrymiadau chwilio mewn ffenestri preifat
 search-suggestions-cant-show-2 =
     .message = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -910,6 +948,8 @@ search-separate-default-engine-2 =
     .accesskey = b
 search-separate-default-engine-dropdown =
     .aria-label = Peiriant chwilio rhagosodedig mewn ffenestri preifat
+search-suggestions-header-2 =
+    .label = Awgrymiadau peiriannau chwilio
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -995,6 +1035,9 @@ sync-signedout-description2 = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfr
 sync-signedout-account-signin3 =
     .label = Mewngofnodi i Sync…
     .accesskey = M
+sync-signedout-account-signin-4 =
+    .label = Mewngofnodwch i'ch cyfrif i ddechrau cydweddu
+    .accesskey = M
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1053,7 +1096,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Cydweddu: YMLAEN
+prefs-syncing-on-2 =
+    .label = Cydweddu YMLAEN
 prefs-syncing-off = Cydweddu: DIFFODD
+prefs-syncing-off-2 =
+    .label = Cydweddu I FFWRDD
+    .description = Trowch cydweddu ymlaen i gael eich nodau tudalen, cyfrineiriau, hanes a rhagor ar unrhyw ddyfais.
 prefs-sync-turn-on-syncing =
     .label = Cychwyn cydweddu…
     .accesskey = C
