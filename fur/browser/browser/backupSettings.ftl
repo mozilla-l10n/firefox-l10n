@@ -85,3 +85,6 @@ backup-error-file-system = Al è vignût ᶠûr un probleme cu la cartele selezi
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Disativâ il backup?
+turn-off-scheduled-backups-description = Cheste operazion e elimine ancje ducj i files di backup salvâts. Nol è pussibil tornâ indaûr di cheste operazion.
+turn-off-scheduled-backups-support-link = Plui informazions
+turn-off-scheduled-backups-cancel-button = Anule
