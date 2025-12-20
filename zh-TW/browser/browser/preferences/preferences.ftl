@@ -391,6 +391,66 @@ translate-attribution = 翻譯服務由 <img data-l10n-name="logo"/> 提供
 translate-exceptions =
     .label = 例外網站…
     .accesskey = x
+settings-translations-header =
+    .label = 翻譯
+    .aria-label = 翻譯
+    .description = 翻譯頁面或選擇的文字。為了保護隱私，翻譯會保存在您的裝置上。
+settings-translations-offer-to-translate-label =
+    .label = 提供全頁翻譯
+settings-translations-more-settings-button =
+    .label = 更多翻譯設定
+    .description = 設定語言、網站、離線翻譯的偏好設定。
+settings-translations-subpage-header =
+    .heading = 更多翻譯設定
+settings-translations-subpage-speed-up-translation-header =
+    .label = 加速翻譯
+    .description = 下載完整翻譯套件，以離線翻譯，也能更快完成。
+settings-translations-subpage-automatic-translation-header =
+    .label = 自動翻譯
+settings-translations-subpage-always-translate-header =
+    .label = 總是翻譯下列語言
+settings-translations-subpage-never-translate-header =
+    .label = 永不翻譯下列語言
+settings-translations-subpage-never-translate-sites-header =
+    .label = 永不翻譯下列網站
+settings-translations-subpage-language-select-option =
+    .label = 新增語言
+settings-translations-subpage-language-add-button =
+    .aria-label = 新增語言
+    .title = 新增語言
+settings-translations-subpage-download-languages-header =
+    .label = 下載語言
+settings-translations-subpage-download-languages-select-option =
+    .label = 選擇語言
+settings-translations-subpage-download-languages-button =
+    .aria-label = 下載語言
+    .title = 下載語言
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language }（{ $size }MB）
+    .label = { $language }（{ $size }MB）
+settings-translations-subpage-no-languages-downloaded =
+    .label = 未下載語言
+settings-translations-subpage-no-languages-added =
+    .label = 未新增語言
+settings-translations-subpage-download-progress = 下載中…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = 無法下載 { $language }（{ $size }MB）
+settings-translations-subpage-download-retry-button =
+    .label = 重試
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = 要刪除 { $language }（{ $size }MB）嗎？
+settings-translations-subpage-download-delete-button =
+    .label = 刪除
+settings-translations-subpage-download-cancel-button =
+    .label = 取消
+settings-translations-subpage-no-sites-added =
+    .label = 未新增網站
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -936,6 +996,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = 同步
+account-placeholder =
+    .label = 您尚未登入。
+    .description = 登入後即可透過有隱私、加密過的方式，將您的資料同步道不同裝置上。
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -947,6 +1010,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = 登入您的帳號後即可開始同步
+    .accesskey = i
+sync-signedout-account-short =
+    .label = 登入
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -986,6 +1052,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 未驗證。
+sync-signedin-unverified2 =
+    .label = { $email } 尚未完成確認
+    .description = 請收信進行確認，正式讓帳號生效。
 sync-signedin-login-failure = 請登入以重新連線 { $email }
 
 ##
