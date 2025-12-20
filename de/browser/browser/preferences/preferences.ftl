@@ -1010,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronisation
+account-placeholder =
+    .label = Sie sind nicht angemeldet
+    .description = Melden Sie sich an, um Ihre Daten sicher und verschlüsselt zwischen Ihren Geräten zu synchronisieren.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1057,7 +1060,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } wurde noch nicht bestätigt.
+sync-signedin-unverified2 =
+    .label = { $email } wurde noch nicht bestätigt
+    .description = Überprüfen Sie Ihren Posteingang, um Ihr Konto zu verifizieren.
 sync-signedin-login-failure = Melden Sie sich an, um erneut mit { $email } zu verbinden.
+sync-signedin-login-failure2 =
+    .label = Sie sind von { $email } abgemeldet
+    .description = Melden Sie sich wieder an, um Ihre Daten zu synchronisieren.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
