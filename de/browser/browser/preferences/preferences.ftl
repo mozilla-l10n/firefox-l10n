@@ -414,6 +414,57 @@ settings-translations-more-settings-button =
     .description = Einstellungen für Sprachen, Websites und Offline-Übersetzung.
 settings-translations-subpage-header =
     .heading = Weitere Einstellungen für die Übersetzung
+settings-translations-subpage-speed-up-translation-header =
+    .label = Übersetzung beschleunigen
+    .description = Download kompletter Sprachen für schnellere  und Offline-Übersetzung.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatische Übersetzung
+settings-translations-subpage-always-translate-header =
+    .label = Diese Sprachen immer übersetzen
+settings-translations-subpage-never-translate-header =
+    .label = Diese Sprachen nie übersetzen
+settings-translations-subpage-never-translate-sites-header =
+    .label = Diese Websites nie übersetzen
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Um eine Website hinzuzufügen, öffnen Sie das <img data-l10n-name="translations-icon"/> Übersetzungsfenster, wählen die <img data-l10n-name="settings-icon"/> Übersetzungseinstellungen und dann „Diese Seite nie übersetzen“.
+settings-translations-subpage-language-select-option =
+    .label = Sprache hinzufügen
+settings-translations-subpage-language-add-button =
+    .aria-label = Sprache hinzufügen
+    .title = Sprache hinzufügen
+settings-translations-subpage-download-languages-header =
+    .label = Sprachen herunterladen
+settings-translations-subpage-download-languages-select-option =
+    .label = Sprache auswählen
+settings-translations-subpage-download-languages-button =
+    .aria-label = Sprache herunterladen
+    .title = Sprache herunterladen
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Keine Sprachen heruntergeladen
+settings-translations-subpage-no-languages-added =
+    .label = Keine Sprachen hinzugefügt
+settings-translations-subpage-download-progress = Download läuft…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } konnte nicht heruntergeladen werden ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Erneut versuchen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size } MB) löschen?
+settings-translations-subpage-download-delete-button =
+    .label = Löschen
+settings-translations-subpage-download-cancel-button =
+    .label = Abbrechen
+settings-translations-subpage-no-sites-added =
+    .label = Keine Websites hinzugefügt
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1026,7 +1077,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronisation: EIN
+prefs-syncing-on-2 =
+    .label = Die Synchronisierung ist AKTIVIERT
 prefs-syncing-off = Synchronisation: AUS
+prefs-syncing-off-2 =
+    .label = Die Synchronisierung ist DEAKTIVIERT
+    .description = Aktivieren Sie die Synchronisierung, um Ihre Lesezeichen, Passwörter, den Verlauf und mehr auf jedem Gerät abzurufen.
 prefs-sync-turn-on-syncing =
     .label = Synchronisation aktivieren…
     .accesskey = S
