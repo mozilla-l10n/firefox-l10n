@@ -1070,6 +1070,9 @@ sync-signedin-unverified2 =
     .label = { $email } er ikkje stadfesta enno
     .description = Sjekk innboksen din for å stadfeste kontoen og gjere han offisiell.
 sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
+sync-signedin-login-failure2 =
+    .label = Du er logga ut av { $email }
+    .description = Logg inn igjen for å kople til på nytt og byrje å synkronisere dataa dine.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
