@@ -1007,6 +1007,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = סנכרון
+account-placeholder =
+    .label = לא נכנסת לחשבון
+    .description = יש להיכנס כדי לשמור על הנתונים שלך פרטיים, מוצפנים ומסונכרנים בין מכשירים.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1019,6 +1022,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = יש להיכנס לחשבון שלך כדי להתחיל בסנכרון
     .accesskey = ה
+sync-signedout-account-short =
+    .label = כניסה
+    .accesskey = כ
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1057,7 +1063,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = הכתובת  { $email } אינה מאומתת.
+sync-signedin-unverified2 =
+    .label = ‏{ $email } עדיין לא אומת
+    .description = נא לבדוק את הדוא״ל שלך כדי לאמת את החשבון שלך ולסיים את ההרשמה.
 sync-signedin-login-failure = נא להיכנס לחשבון כדי להתחבר מחדש { $email }
+sync-signedin-login-failure2 =
+    .label = התנתקת מ־{ $email }
+    .description = יש להיכנס שוב כדי להתחבר מחדש ולהתחיל לסנכרן את הנתונים שלך.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 

@@ -21,7 +21,7 @@ error-long-desc2 = Robotery su wěcy widźeli, kotrež wy, ludźo, njebyšće w�
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Robotery su waše plastiske přećeljo, kotřiž dadźa wjeselo.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Robotery maja swěćace so slědki, do kotrychž wy njebyšće měli kusnyć.
+error-long-desc4 = Robotery maja błyšćace so zadki, do kotrychž wy njebyšće měli kusnyć.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = A woni maja plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
