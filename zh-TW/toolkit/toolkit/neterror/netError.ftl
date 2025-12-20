@@ -187,6 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = 由於連線不安全，{ -b
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = 請確認您使用的是最新版的 { -brand-short-name }。可前往選單中的「說明 > 關於 { -brand-short-name }」確認。若您已經使用最新版的 { -brand-short-name }，那麼最有可能是網站本身的問題。
 fp-neterror-offline-what-can-you-do-body = 您可以試著用其他裝置連線、檢查您的數據機或路由器，或將 Wi-Fi 斷線重連。
+fp-neterror-http-auth-disabled-what-can-you-do-body = 這通常是網站本身的問題，但您可以試著將網址開頭改為 HTTPS 再開啟。
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 有時網站會設定一些保護機制，避免網站本身受到與其他網站間不必要的互動影響。
 fp-learn-more-about-https-connections = 了解 HTTPS 連線的更多資訊
