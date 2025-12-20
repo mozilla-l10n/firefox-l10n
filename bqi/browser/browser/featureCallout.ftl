@@ -9,6 +9,10 @@
 split-dismiss-button-manage-settings-option =
     .label = دؽوۉداری سامووا
 
+## Bookmarks toolbar callout strings
+
+bookmarks-toolbar-callout-1-primary-button-label = ٱووردن نشووک
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-very-dissatisfied-2 = قلوه ن رازی
