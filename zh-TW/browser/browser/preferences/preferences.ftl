@@ -413,6 +413,8 @@ settings-translations-subpage-never-translate-header =
     .label = 永不翻譯下列語言
 settings-translations-subpage-never-translate-sites-header =
     .label = 永不翻譯下列網站
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = 若要新增網站，開啟 <img data-l10n-name="translations-icon"/> 翻譯面板，選擇 <img data-l10n-name="settings-icon"/> 翻譯設定，然後選擇「永不翻譯此網站」
 settings-translations-subpage-language-select-option =
     .label = 新增語言
 settings-translations-subpage-language-add-button =

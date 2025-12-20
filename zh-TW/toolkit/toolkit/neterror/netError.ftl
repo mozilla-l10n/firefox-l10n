@@ -178,11 +178,15 @@ fp-neterror-offline-body-title = 您的網路連線可能有點問題
 fp-neterror-connection-intro = { -brand-short-name } 無法與伺服器 { $hostname } 建立安全連線。
 fp-neterror-offline-intro = { -brand-short-name } 無法連線到位於 <strong>{ $hostname }</strong> 的伺服器
 fp-neterror-coop-coep-intro = 因為此頁面的安全性設定與前一頁不符，{ -brand-short-name } 並未載入此頁面。
+fp-neterror-http-auth-disabled-intro = 可能是其他假扮為該網站的有心人，正嘗試偷走您的帳號、密碼、信箱等資料。
+fp-neterror-http-auth-disabled-secure-connection = 此網站要求必須使用安全連線，您無法加入例外造訪此網站。
 fp-neterror-why-did-this-happen = 為什麼會發生？
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 看來此網站仍在使用已知有安全性漏洞的舊版軟體。
+fp-neterror-http-auth-disabled-why-dangerous-body = 由於連線不安全，{ -brand-short-name } 不信任 { $hostname }。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = 請確認您使用的是最新版的 { -brand-short-name }。可前往選單中的「說明 > 關於 { -brand-short-name }」確認。若您已經使用最新版的 { -brand-short-name }，那麼最有可能是網站本身的問題。
 fp-neterror-offline-what-can-you-do-body = 您可以試著用其他裝置連線、檢查您的數據機或路由器，或將 Wi-Fi 斷線重連。
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 有時網站會設定一些保護機制，避免網站本身受到與其他網站間不必要的互動影響。
+fp-learn-more-about-https-connections = 了解 HTTPS 連線的更多資訊
