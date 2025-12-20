@@ -16,7 +16,10 @@ migration-extensions-option-label = وردنی یل
 migration-cookies-option-label = کۊکیا
 migration-session-option-label = نیمدری یل وو بلگه یل
 migration-passwords-new = رزما نۊ
+migration-bookmarks-from-file-picker-title = و من ٱووردن فایل نشووکا
+migration-bookmarks-from-file-progress-header = هونی نشووکا ن و من ایاره
 migration-bookmarks-from-file = نشووکا
+migration-bookmarks-from-file-success-header = نشووکا و خۊوی و من ٱووڌن
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #

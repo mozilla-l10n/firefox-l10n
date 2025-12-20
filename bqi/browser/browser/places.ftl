@@ -5,6 +5,9 @@
 places-open-in-tab =
     .label = گۊشیڌن من بلگه نۊ
     .accesskey = w
+places-open-all-bookmarks =
+    .label = گۊشیڌن پوی نشووکا
+    .accesskey = O
 places-open-in-window =
     .label = گۊشیڌن من نیمدری نۊ
     .accesskey = N
