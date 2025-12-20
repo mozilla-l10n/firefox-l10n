@@ -92,7 +92,7 @@ options-screenshot-clipboard-tooltip2 =
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Zapušćeński zuk kamery wótgraś
 options-screenshot-audio-tooltip =
-    .title = Zmóžnja awdiozuk kamery, gaž foto wobrazowki so cyni
+    .title = Zmóžnja awdiozuk kamery, gaž foto wobrazowki se cyni
 
 ## Editor section
 
