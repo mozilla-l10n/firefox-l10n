@@ -14,6 +14,11 @@ places-open-in-window =
 places-open-in-private-window =
     .label = گۊشیڌن من نیمدری سیخومی نۊ
     .accesskey = P
+places-add-bookmark =
+    .label = ٱووردن نشووک…
+    .accesskey = B
+places-bookmarks-search =
+    .placeholder = پیتینیڌن نشووکا
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = آلشت نشووک…
