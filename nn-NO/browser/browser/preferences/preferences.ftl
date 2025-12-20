@@ -414,6 +414,9 @@ settings-translations-more-settings-button =
     .description = Angi innstillingar for språk, nettstadar og fråkopla omsetting.
 settings-translations-subpage-header =
     .heading = Fleire omsettingsinnstillingar
+settings-translations-subpage-speed-up-translation-header =
+    .label = Raskare omsetting
+    .description = Last ned komplette språk for raskare omsettingar og for å omsette utan nettsamband.
 settings-translations-subpage-automatic-translation-header =
     .label = Automatisk omsetting
 settings-translations-subpage-always-translate-header =
@@ -422,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Omset aldri desse språka
 settings-translations-subpage-never-translate-sites-header =
     .label = Omset aldri desse nettstadane
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = For å leggje til ein nettstad opnar du <img data-l10n-name="translations-icon"/>omsettingspanelet, vel <img data-l10n-name="settings-icon"/>  <img data-l10n-name="settings-icon"/> omsettingsinnstillingar og deretter «Omset aldri denne nettstaden»
 settings-translations-subpage-language-select-option =
     .label = Legg til språk
 settings-translations-subpage-language-add-button =
@@ -1005,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-placeholder =
+    .label = Du er ikkje innlogga
+    .description = Logg inn for å halde dataa dine private, krypterte og synkroniserte på tvers av einingar.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1058,6 +1066,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } er ikkje stadfesta.
+sync-signedin-unverified2 =
+    .label = { $email } er ikkje stadfesta enno
+    .description = Sjekk innboksen din for å stadfeste kontoen og gjere han offisiell.
 sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
 
 ## Variables
