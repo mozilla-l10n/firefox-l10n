@@ -178,11 +178,16 @@ fp-neterror-offline-body-title = Anscheinend gibt es ein Problem mit Ihrer Inter
 fp-neterror-connection-intro = { -brand-short-name } kann keine sichere Verbindung zum Server auf { $hostname } aufbauen.
 fp-neterror-offline-intro = { -brand-short-name } kann sich nicht mit dem Server auf <strong>{ $hostname }</strong> verbinden
 fp-neterror-coop-coep-intro = { -brand-short-name } hat diese Seite nicht geladen, da es so aussieht, als ob die Sicherheitskonfiguration nicht mit der vorherigen Seite übereinstimmt.
+fp-neterror-http-auth-disabled-intro = Jemand, der sich als die Website ausgibt, könnte versuchen, Dinge wie Ihren Benutzernamen, Ihr Passwort oder Ihre E-Mail-Adresse zu stehlen.
+fp-neterror-http-auth-disabled-secure-connection = Diese Website erfordert eine sichere Verbindung und Sie können keine Ausnahme für den Besuch hinzufügen.
 fp-neterror-why-did-this-happen = Warum ist das passiert?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Anscheinend verwendet diese Website alte Software mit bekannten Sicherheitsproblemen.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } vertraut { $hostname } nicht, weil die Verbindung nicht sicher ist.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Stellen Sie sicher, dass Sie die neueste Version von { -brand-short-name } verwenden. Gehen Sie im Menü auf Hilfe > Über { -brand-short-name }. Wenn Sie die neueste Version von { -brand-short-name } verwenden, liegt das Problem wahrscheinlich an der Website selbst.
 fp-neterror-offline-what-can-you-do-body = Versuchen Sie, auf einem anderen Gerät eine Verbindung herzustellen. Überprüfen Sie Ihr Modem oder Router. Trennen Sie die WLAN-Verbindung und stellen Sie die Verbindung wieder her.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Versuchen Sie, die URL auf HTTPS zu ändern. Wahrscheinlich gibt es ein Problem mit der Website selbst.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Manchmal schützen Websites sich selbst vor unerwünschten Interaktionen mit anderen Websites.
+fp-learn-more-about-https-connections = Mehr über HTTPS-Verbindungen erfahren
