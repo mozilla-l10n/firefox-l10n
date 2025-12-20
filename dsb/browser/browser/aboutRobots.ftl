@@ -17,7 +17,7 @@ error-short-desc-text = Smy pśišli, aby k wam w měrje a z dobrośiwosću wogl
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Robotery njesměju cłowjeka zraniś abo pśez njecynitosć pśiwdaś, až cłowjek pśiźo do škódy.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Robotery su wěcy wiźeli, kótarež wy, luźe, njeby wěriś.
+error-long-desc2 = Robotery su wěcy wiźeli, kótarež wy, luźe, njeby wěrili.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Robotery su waše plastiske pśijaśele, kótarež daju wjaselo.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."

@@ -403,6 +403,65 @@ translate-attribution = תרגום של <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = חריגות…
     .accesskey = ג
+settings-translations-header =
+    .label = תרגומים
+    .aria-label = תרגומים
+    .description = תרגום עמודים או טקסט נבחר. כדי להגן על הפרטיות של, תרגומים נשארים במכשיר שלך.
+settings-translations-offer-to-translate-label =
+    .label = להציע תרגום של עמוד שלם
+settings-translations-more-settings-button =
+    .label = הגדרות תרגום נוספות
+    .description = הגדרת העדפות עבור שפות, אתרים ותרגום לא מקוון.
+settings-translations-subpage-header =
+    .heading = הגדרות תרגום נוספות
+settings-translations-subpage-automatic-translation-header =
+    .label = תרגום אוטומטי
+settings-translations-subpage-always-translate-header =
+    .label = תמיד לתרגם שפות אלו
+settings-translations-subpage-never-translate-header =
+    .label = לעולם לא לתרגם שפות אלו
+settings-translations-subpage-never-translate-sites-header =
+    .label = לעולם לא לתרגם אתרים אלו
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = כדי להוסיף אתר, יש לפתוח את <img data-l10n-name="translations-icon"/> חלונית התרגום, לבחור באפשרות <img data-l10n-name="settings-icon"/> הגדרות תרגום, ולאחר מכן לבחור באפשרות ״לעולם לא לתרגם אתר זה״
+settings-translations-subpage-language-select-option =
+    .label = הוספת שפה
+settings-translations-subpage-language-add-button =
+    .aria-label = הוספת שפה
+    .title = הוספת שפה
+settings-translations-subpage-download-languages-header =
+    .label = הורדת שפות
+settings-translations-subpage-download-languages-select-option =
+    .label = בחירת שפה
+settings-translations-subpage-download-languages-button =
+    .aria-label = הורדת שפה
+    .title = הורדת שפה
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = לא הורדו שפות
+settings-translations-subpage-no-languages-added =
+    .label = לא נוספו שפות
+settings-translations-subpage-download-progress = ההורדה מתבצעת…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = לא ניתן היה להוריד את { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = ניסיון חוזר
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = למחוק את { $language } ({ $size }MB)
+settings-translations-subpage-download-delete-button =
+    .label = מחיקה
+settings-translations-subpage-download-cancel-button =
+    .label = ביטול
+settings-translations-subpage-no-sites-added =
+    .label = לא נוספו אתרים
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
