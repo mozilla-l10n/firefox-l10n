@@ -178,11 +178,16 @@ fp-neterror-offline-body-title = נראה שיש בעיה בחיבור האינ�
 fp-neterror-connection-intro = ל־{ -brand-short-name } אין אפשרות ליצור חיבור מאובטח לשרת ב־{ $hostname }.
 fp-neterror-offline-intro = ‏{ -brand-short-name } לא הצליח להתחבר לשרת ב־<strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = ‏{ -brand-short-name } לא טען את הדף הזה מכיוון שנראה שתצורת האבטחה לא תואמת את הדף הקודם.
+fp-neterror-http-auth-disabled-intro = מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו שם המשתמש, הססמה או הדוא״ל שלך.
+fp-neterror-http-auth-disabled-secure-connection = אתר זה דורש חיבור מאובטח, ולא ניתן להוסיף חריגה כדי לבקר בו.
 fp-neterror-why-did-this-happen = מדוע זה קרה?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = נראה שאתר זה משתמש בתוכנה ישנה עם בעיות אבטחה ידועות.
+fp-neterror-http-auth-disabled-why-dangerous-body = ‏{ -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהחיבור אינו מאובטח.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = יש לוודא ש־{ -brand-short-name } הוא בגרסה העדכנית ביותר. יש לעבור אל עזרה > על אודות { -brand-short-name } בתפריט. אם יש לך את הגרסה העדכנית ביותר של { -brand-short-name }, הבעיה היא ככל הנראה באתר עצמו.
 fp-neterror-offline-what-can-you-do-body = נא לנסות להתחבר במכשיר אחר, לבדוק את המודם או הנתב שלך, ולהתנתק ולהתחבר מחדש ל־Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = ניתן לנסות לשנות את הכתובת ל־HTTPS. אבל סביר להניח שיש בעיה באתר עצמו.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = לפעמים אתרים מגדירים הגנות לעצמם מפני אינטראקציות לא רצויות עם אתרים אחרים.
+fp-learn-more-about-https-connections = מידע נוסף על חיבורי HTTPS
