@@ -403,6 +403,17 @@ translate-attribution = Übersetzung mittels <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ausnahmen…
     .accesskey = u
+settings-translations-header =
+    .label = Übersetzungen
+    .aria-label = Übersetzungen
+    .description = Übersetzen Sie Seiten oder selektierten Text. Um Ihre Sicherheit zu erhöhen, bleiben die Übersetzungen auf Ihrem Gerät.
+settings-translations-offer-to-translate-label =
+    .label = Übersetzung ganzer Seite anbieten
+settings-translations-more-settings-button =
+    .label = Weitere Einstellungen für die Übersetzung
+    .description = Einstellungen für Sprachen, Websites und Offline-Übersetzung.
+settings-translations-subpage-header =
+    .heading = Weitere Einstellungen für die Übersetzung
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
