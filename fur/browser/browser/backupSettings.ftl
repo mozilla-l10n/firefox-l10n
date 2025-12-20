@@ -88,3 +88,65 @@ turn-off-scheduled-backups-header = Disativâ il backup?
 turn-off-scheduled-backups-description = Cheste operazion e elimine ancje ducj i files di backup salvâts. Nol è pussibil tornâ indaûr di cheste operazion.
 turn-off-scheduled-backups-support-link = Plui informazions
 turn-off-scheduled-backups-cancel-button = Anule
+turn-off-scheduled-backups-confirm-button = Disative e elimine i backups
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Ripristine i tiei dâts
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Chest al sostituirà ducj i dâts corints di { -brand-short-name } cul backup dal/dai { DATETIME($date, timeStyle: "short", dateStyle: "short") }
+restore-from-backup-support-link =
+    .message = Ce vignaraial ripristinât?
+restore-from-backup-no-backup-file-link = No rivistu a cjatâ il to backup?
+restore-from-backup-filepicker-label = File di backup
+restore-from-backup-filepicker-title = Sielç il file di backup:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Sielç…
+       *[other] Esplore…
+    }
+restore-from-backup-password-label = Password
+restore-from-backup-password-description = Chest al sbloche il backup cifrât.
+restore-from-backup-cancel-button = Anule
+restore-from-backup-confirm-button = Ripristine e torne invie
+restore-from-backup-restoring-button = Daûr a ripristinâ…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Password sbaliade. <a data-l10n-name="incorrect-password-support-link">Âstu ancjemò problemis?
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Chest file nol funzione
+    .message = Al è vignût fûr un probleme cul to file di backup. Sielç un altri file e torne prove.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Chest file nol funzione.
+    .message = Il file che tu âs sielt nol è compatibil cun cheste version di { -brand-short-name }. Sielç un altri file e torne prove.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Chest file nol funzione.
+    .message = Il file che tu âs sielt nol è stât creât di { -brand-short-name }. Sielç un altri file e torne prove.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } nol rive a ripristinâ
+    .message = Torne invie { -brand-short-name } e torne prove a ripristinâ il to backup.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Salve i tiei dâts sensibii
+enable-backup-encryption-support-link = Plui informazions
+enable-backup-encryption-create-password-label = Password

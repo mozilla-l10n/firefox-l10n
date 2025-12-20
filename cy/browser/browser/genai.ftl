@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Tynnu { $provider }
 genai-menu-remove-sidebar =
     .label = Tynnu o'r Bar Ochr
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Gofyn i { $provider }
 genai-menu-new-badge = Newydd
 genai-menu-summarize-page = Crynhoi Tudalen
 genai-input-ask-generic =
@@ -239,9 +242,13 @@ link-preview-reading-time =
        *[other] { $range } munud o amser darllen
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = Dyw { -brand-short-name } ddim yn gallu rhagweld y dudalen hon
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Dydyn ni ddim yn gallu rhagweld y ddolen hon
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Ewch i'r ddolen
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = Dyw { -brand-short-name } ddim yn gallu cynhyrchu pwyntiau allweddol ar gyfer y dudalen we hon.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Dydyn ni ddim yn gallu cynhyrchu pwyntiau allweddol ar gyfer y dudalen we hon.
 # Error message when something went wrong during key point generation
