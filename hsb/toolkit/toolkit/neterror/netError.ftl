@@ -179,6 +179,7 @@ fp-neterror-connection-intro = { -brand-short-name } njemóže wěsty zwisk z se
 fp-neterror-offline-intro = { -brand-short-name } njemóže ze serwerom <strong>{ $hostname }</strong> zwjazać
 fp-neterror-coop-coep-intro = { -brand-short-name } njeje tutu stronu začitał, dokelž so zda, jako njeby wěstotna konfiguracija z předchadnej stronu wotpowědował.
 fp-neterror-http-auth-disabled-intro = Něchtó, kotryž wudawa, zo je sydło, móhł wěcy kaž waše wužiwarske mjeno, hesło abo e-mejlowu adresu kradnyć.
+fp-neterror-http-auth-disabled-secure-connection = Tute sydło sej wěsty zwisk wužaduje, a njemóžeće wuwzaće přidać, zo byšće jo wopytał.
 fp-neterror-why-did-this-happen = Čehodla je so to stało?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zda so, zo tute sydło staru software ze znatymi wěstotnymi problemami wužiwa.

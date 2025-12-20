@@ -431,6 +431,8 @@ settings-translations-subpage-never-translate-header =
     .label = Tute rěče ženje njepřełožować
 settings-translations-subpage-never-translate-sites-header =
     .label = Tute websydła ženje njepřełožić
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Zo byšće sydło přidał, wočińće <img data-l10n-name="translations-icon"/> přełožowanske wokno, wubjerće <img data-l10n-name="settings-icon"/> přełožowanske nastajenja a wubjerće potom „Tute sydło ženje njepřełožić“
 settings-translations-subpage-language-select-option =
     .label = Rěč přidać
 settings-translations-subpage-language-add-button =
