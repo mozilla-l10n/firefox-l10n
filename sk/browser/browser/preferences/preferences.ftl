@@ -406,6 +406,66 @@ translate-attribution = Preložené pomocou služby <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Výnimky…
     .accesskey = m
+settings-translations-header =
+    .label = Preklady
+    .aria-label = Preklady
+    .description = Preklad stránok alebo vybraného textu. Z dôvodu ochrany vášho súkromia zostávajú preklady vo vašom zariadení.
+settings-translations-offer-to-translate-label =
+    .label = Ponúkať preklad celej stránky
+settings-translations-more-settings-button =
+    .label = Ďalšie nastavenia prekladu
+    .description = Nastavte si predvoľby pre jazyky, webové stránky a offline preklad.
+settings-translations-subpage-header =
+    .heading = Ďalšie nastavenia prekladu
+settings-translations-subpage-speed-up-translation-header =
+    .label = Zrýchliť preklad
+    .description = Ak chcete rýchlejšie preklady alebo preklady offline, musíte si stiahnuť kompletné jazykové balíky.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatický preklad
+settings-translations-subpage-always-translate-header =
+    .label = Vždy prekladať z týchto jazykov
+settings-translations-subpage-never-translate-header =
+    .label = Nikdy neprekladať z týchto jazykov
+settings-translations-subpage-never-translate-sites-header =
+    .label = Neprekladať tieto stránky
+settings-translations-subpage-language-select-option =
+    .label = Pridať jazyk
+settings-translations-subpage-language-add-button =
+    .aria-label = Pridať jazyk
+    .title = Pridať jazyk
+settings-translations-subpage-download-languages-header =
+    .label = Stiahnuť jazyky
+settings-translations-subpage-download-languages-select-option =
+    .label = Zvoľte jazyk
+settings-translations-subpage-download-languages-button =
+    .aria-label = Stiahnuť jazyk
+    .title = Stiahnuť jazyk
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Neboli stiahnuté žiadne jazyky
+settings-translations-subpage-no-languages-added =
+    .label = Neboli pridané žiadne jazyky
+settings-translations-subpage-download-progress = Prebieha sťahovanie…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Nepodarilo sa stiahnuť jazyk { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Skúsiť znova
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Odstrániť jazyk { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Odstrániť
+settings-translations-subpage-download-cancel-button =
+    .label = Zrušiť
+settings-translations-subpage-no-sites-added =
+    .label = Neboli pridané žiadne stránky
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -952,6 +1012,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizácia
+account-placeholder =
+    .label = Nie ste prihlásený
+    .description = Prihláste sa, aby vaše údaje zostali súkromné, šifrované a synchronizované medzi zariadeniami.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -963,6 +1026,9 @@ sync-signedout-account-signin3 =
     .accesskey = P
 sync-signedout-account-signin-4 =
     .label = Prihláste sa do svojho účtu a spustite synchronizáciu
+    .accesskey = r
+sync-signedout-account-short =
+    .label = Prihlásiť sa
     .accesskey = r
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
