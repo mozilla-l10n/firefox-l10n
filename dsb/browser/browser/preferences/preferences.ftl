@@ -1078,6 +1078,19 @@ sync-signedin-unverified2 =
     .label = { $email } hyšći njejo wobkšuśona
     .description = Glědajśo do swójogo postowego dochada, aby swójo konto wobkšuśił a jo oficielne cynił.
 sync-signedin-login-failure = Pšosym zregistrěrujśo se, aby znowego zwězał { $email }
+sync-signedin-login-failure2 =
+    .label = Sćo wót { $email } wótzjawjony
+    .description = Pśizjawśo se zasej, aby zasej zwězał a zachopśo swóje daty synchronizěrowaś.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
