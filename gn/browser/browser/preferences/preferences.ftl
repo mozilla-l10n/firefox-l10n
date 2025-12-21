@@ -443,6 +443,25 @@ settings-translations-subpage-download-language-option = { $language } ({ $size 
     .label = { $language } ({ $size }MB)
 settings-translations-subpage-no-languages-downloaded =
     .label = Noñemboguejýi ñe’ẽita
+settings-translations-subpage-no-languages-added =
+    .label = Noñembojuajúi ñe’ẽita
+settings-translations-subpage-download-progress = Oñemboguejyvahína…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Ndaikatúi oñemboguejy { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Eha’ã jey
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = ¿Emboguete { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Mboguete
+settings-translations-subpage-download-cancel-button =
+    .label = Heja
+settings-translations-subpage-no-sites-added =
+    .label = Ndaipóri tenda mbojuajupyre
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1000,6 +1019,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Eike ne mba’etépe ha eñepyrũ embojuehe
     .accesskey = i
+sync-signedout-account-short =
+    .label = Eñemboheraguapy
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1091,6 +1113,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Oñembojuehepa ko’ã kyta opavavete ne mba’e’oka omba’apóvape:
 sync-syncing-across-devices-heading-2 = Mba’ekuaarã mbojuehepyre mba’e’okaita pa’ũme
+sync-syncing-across-devices-empty-state =
+    .label = Noñembojuehéi mba’eve… gueteri.
+    .description = Embojuehe ereko hag̃ua mba’ekuarã opaite ne mba’e’okápe.
 sync-currently-syncing-bookmarks = Techaukaha
 sync-currently-syncing-history = Tembiasakue
 sync-currently-syncing-tabs = Tendayke ijurujáva
