@@ -402,6 +402,17 @@ translate-attribution = Ñe’ẽasaha <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = x
+settings-translations-header =
+    .label = Ñemoñe’ẽasa
+    .aria-label = Ñemoñe’ẽasa
+    .description = Emoñe’ẽasa kuatiarogue térã moñe’ẽrã poravopyre. Emo’ã hag̃ua ne rekoñemi, ñe’ẽasaita opyta ne mba’e’okápe.
+settings-translations-offer-to-translate-label =
+    .label = Eikuave’ẽ kuatiarogue tuichakue ñe’ẽasa
+settings-translations-more-settings-button =
+    .label = Ñembohekove ñe’ẽasa
+    .description = Emboaje erohoryvéva ñe’ẽitápe g̃uarã, ñanduti rogue ha moñe’ẽasa ñanduti’ỹre.
+settings-translations-subpage-header =
+    .heading = Ñembohekove ñe’ẽasa
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
