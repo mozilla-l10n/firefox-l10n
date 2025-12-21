@@ -150,6 +150,7 @@ link-preview-onboarding-callout-description = Pogledaj kratki opis, vrijeme čit
 sidebar-button-callout-title = Prikaži naslove kartica u bočnoj traci
 sidebar-button-callout-subtitle = Koristi gumb bočne trake za prikaz naslova kartica.
 sidebar-button-callout-vertical-tabs = Za prikaz kartica odaberi gumb bočne trake u alatnoj traci.
+sidebar-deprecation-cta-button = Isprobaj sada
 
 ## Sidebar Vertical Tabs Strings
 

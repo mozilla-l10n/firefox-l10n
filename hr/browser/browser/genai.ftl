@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Ukloni { $provider }
 genai-menu-remove-sidebar =
     .label = Ukloni iz bočne trake
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Pitaj { $provider }
 genai-menu-new-badge = Novi
 genai-menu-summarize-page = Sažmi stranicu
 genai-input-ask-generic =
@@ -230,9 +233,13 @@ link-preview-reading-time =
        *[other] Vrijeme čitanja: { $range } min
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ne može prikazati pregled ove poveznice
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Ne možemo prikazati pregled ove poveznice
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Posjeti poveznicu
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne može generirati ključne točke za ovu web-stranicu.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Ne možemo generirati ključne točke za ovu web stranicu.
 # Error message when something went wrong during key point generation

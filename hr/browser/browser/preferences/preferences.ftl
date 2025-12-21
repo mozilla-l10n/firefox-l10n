@@ -401,6 +401,22 @@ translate-attribution = Preveli <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Iznimke…
     .accesskey = e
+settings-translations-subpage-speed-up-translation-header =
+    .label = Ubrzaj prijevode
+    .description = Preuzmi potpune jezike za brže prijevode i izvanmrežno prevođenje.
+settings-translations-subpage-download-languages-header =
+    .label = Preuzmi jezike
+settings-translations-subpage-download-languages-select-option =
+    .label = Odaberi jezik
+settings-translations-subpage-download-languages-button =
+    .aria-label = Preuzmi jezik
+    .title = Preuzmi jezik
+settings-translations-subpage-download-delete-button =
+    .label = Obriši
+settings-translations-subpage-download-cancel-button =
+    .label = Odustani
+settings-translations-subpage-no-sites-added =
+    .label = Nema dodanih stranica
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -854,6 +870,8 @@ search-show-search-term-option-2 =
     .label = Prikaži pojmove pretraživanja u adresnoj traci na stranicama s rezultatima
 search-separate-default-engine-dropdown =
     .aria-label = Zadana tražilica u privatnim prozorima
+search-suggestions-header-2 =
+    .label = Prijedlozi tražilice
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -939,6 +957,12 @@ sync-signedout-description2 = Sinkroniziraj zabilješke, povijest, kartice, lozi
 sync-signedout-account-signin3 =
     .label = Prijavi se za sinkronizaciju…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Prijavi se u svoj račun za početak sinkronizacije
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Prijavi se
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -977,7 +1001,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nije potvrđen.
+sync-signedin-unverified2 =
+    .label = Račun { $email } još nije potvrđen
+    .description = Provjeri svoju ulaznu poštu da potvrdiš svoj račun.
 sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
+sync-signedin-login-failure2 =
+    .label = Odjavljen/a si iz računa { $email }
+    .description = Ponovo se prijavi da opet počneš sinkronizirati svoje podatke.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1297,6 +1337,9 @@ autofill-payment-methods-add-button = Dodaj novi način plaćanja
 payments-list-header =
     .label = Načini plaćanja
 payments-list-item-label = <strong>Načini plaćanja</strong>
+payments-delete-payment-prompt-title = Obrisati ovaj način plaćanja?
+payments-delete-payment-prompt-confirm-button = Obriši
+payments-delete-payment-prompt-cancel-button = Odustani
 payments-remove-payment-prompt-title = Ukloniti ovaj način plaćanja?
 payments-remove-payment-prompt-confirm-button = Ukloni
 payments-remove-payment-prompt-cancel-button = Odustani
@@ -1309,6 +1352,23 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Upravljaj adresama i još više
     .accesskey = U
+addresses-list-header =
+    .label = Adrese
+addreses-delete-address-button-label =
+    .aria-label = Obriši
+addreses-edit-address-button-label =
+    .aria-label = Uredi
+addresses-delete-address-prompt-title = Obrisati ovu adresu?
+addresses-delete-address-prompt-confirm-button = Obriši
+addresses-delete-address-prompt-cancel-button = Odustani
+autofill-addresses-add-button = Dodaj novu adresu
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1452,7 +1512,7 @@ cookie-banner-handling-description = { -brand-short-name } pokušava automatski 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokiranje dijaloga kolačića
-cookie-banner-blocker-description = Kada web-stranica pita je li smije koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } to automatski odbija umjesto tebe. Samo na podržanim stranicama.
+cookie-banner-blocker-description = Kada web-stranica pita smije li koristiti kolačiće u modusu privatnog pregledavanja, { -brand-short-name } to automatski odbija umjesto tebe. Samo na podržanim stranicama.
 cookie-banner-learn-more = Saznaj više
 forms-handle-cookie-banners =
     .label = Smanji broj dijaloga kolačića
