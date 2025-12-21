@@ -432,3 +432,5 @@ etp-strict-exceptions-infobar-not-now = Agora não
 set-default-menu-message-simple-layout-title = { -brand-short-name } não é seu navegador padrão
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } não é seu navegador principal
 set-default-menu-message-row-layout-title = Torne o { -brand-short-name } seu navegador principal
+set-default-menu-message-row-layout-title-variant = Torne o { -brand-short-name } seu navegador padrão
+set-default-menu-message-row-layout-subtitle = Tenha velocidade, segurança e privacidade sempre que você navegar.
