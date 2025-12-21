@@ -28,7 +28,7 @@ default-bookmarks-nightly-heading = Odkazy pro Firefox Nightly
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 default-bookmarks-nightly-blog = Blog Firefox Nightly
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-default-bookmarks-bugzilla = Mozilla Bug Tracker
+default-bookmarks-bugzilla = Nahlášení chyb Mozille
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = Mozilla Developer Network
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
