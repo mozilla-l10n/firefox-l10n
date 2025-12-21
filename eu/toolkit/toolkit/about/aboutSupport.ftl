@@ -133,8 +133,10 @@ place-database-stats-efficiency-perc = Eraginkortasuna (%)
 place-database-stats-sequentiality-perc = Sekuentzialitatea (%)
 place-database-integrity = Osotasuna
 place-database-verify-integrity = Egiaztatu osotasuna
+place-database-last-idle-maintenance-data = Azken geldikako mantenu-data
 # Vacuum refers to a type of database maintenance process
 place-database-last-vacuum-date = Azken xurgaketa-data
+place-database-last-integrity-corruption-date = Azken osotasunaren hondatze-data
 a11y-title = Erabilgarritasuna
 a11y-activated = Aktibatuta
 a11y-force-disabled = Eragotzi erabilgarritasuna

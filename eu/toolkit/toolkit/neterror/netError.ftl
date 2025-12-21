@@ -180,11 +180,16 @@ fp-neterror-offline-body-title = Badirudi zure Interneterako konexioak arazoren 
 fp-neterror-connection-intro = { -brand-short-name }(e)k ezin du sortu konexio segurua { $hostname } helbideko zerbitzariarekin.
 fp-neterror-offline-intro = { -brand-short-name }(e)k ezin du konektatu <strong>{ $hostname }</strong> helbideko zerbitzariarekin
 fp-neterror-coop-coep-intro = { -brand-short-name }(e)k ez du orri hau kargatu bere segurtasun-konfigurazioa aurreko orriarenarekin bat ez datorrela baitirudi.
+fp-neterror-http-auth-disabled-intro = Gunearen itxurak egiten dituen norbait saia liteke lapurtzen zure erabiltzaile-izena, pasahitza edo posta elektronikoko mezuak.
+fp-neterror-http-auth-disabled-secure-connection = Gune honek konexio segurua eskatzen du eta ezin duzu bisitatzeko salbuespenik gehitu.
 fp-neterror-why-did-this-happen = Zergatik gertatu da hau?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Badirudi gune honek segurtasun-arazo ezagunak dituen software zaharra darabilela.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } ez da { $hostname } ostalariaz fio konexioa ez delako segurua.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Ziurtatu { -brand-short-name }(e)n azken bertsioa darabilzula. Zoaz Laguntza > { -brand-short-name }(r)i buruz menu-aukerara. Dagoeneko { -brand-short-name }(e)n azken bertsioa badarabilzu, litekeena da arazoa guneak berak izatea.
 fp-neterror-offline-what-can-you-do-body = Saiatu beste gailu batekin konektatzen. Egiaztatu zure modem edo routerra. Deskonektatu eta konektatu berriro Wi-Fi sarera.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Saiatu URLa HTTPSra aldatzen. Litekeena da arazoa guneak berak izatea.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Batzuetan beraientzat babesak ezartzen dituzte webguneek, beste guneekin nahi ez diren interakzioetatik kanpo mantentzeko.
+fp-learn-more-about-https-connections = HTTPS konexioei buruzko argibide gehiago
