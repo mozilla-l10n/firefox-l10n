@@ -1069,7 +1069,7 @@ sync-signedin-login-failure2 =
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
-    .label = { $email }
+    .label = { $name }
     .description = { $email }
 
 ##

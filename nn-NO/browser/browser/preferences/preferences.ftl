@@ -426,7 +426,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Omset aldri desse nettstadane
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = For å leggje til ein nettstad opnar du <img data-l10n-name="translations-icon"/>omsettingspanelet, vel <img data-l10n-name="settings-icon"/>  <img data-l10n-name="settings-icon"/> omsettingsinnstillingar og deretter «Omset aldri denne nettstaden»
+settings-translations-subpage-never-translate-sites-description = For å leggje til ein nettstad opnar du <img data-l10n-name="translations-icon"/> omsettingspanelet, vel <img data-l10n-name="settings-icon"/> omsettingsinnstillingar og deretter «Omset aldri denne nettstaden»
 settings-translations-subpage-language-select-option =
     .label = Legg til språk
 settings-translations-subpage-language-add-button =

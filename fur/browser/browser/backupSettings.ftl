@@ -119,7 +119,7 @@ restore-from-backup-restoring-button = Daûr a ripristinâ…
 # User is not authorized to restore a particular backup file, usually because
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
-backup-service-error-incorrect-password = Password sbaliade. <a data-l10n-name="incorrect-password-support-link">Âstu ancjemò problemis?
+backup-service-error-incorrect-password = Password sbaliade. <a data-l10n-name="incorrect-password-support-link">Âstu ancjemò problemis</a>?
 # The backup file (or specific data files within the backup file) could not be
 # loaded and parsed correctly, most likely due to data corruption of the
 # backup file itself

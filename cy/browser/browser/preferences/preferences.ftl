@@ -438,7 +438,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Peidio â chyfieithu'r gwefannau hyn
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = I ychwanegu gwefan, agorwch y panel cyfieithu <img data-l10n-name="translations-icon"/>, dewiswch osodiadau cyfieithu <img data-l10n-name="settings-icon"> yna dewiswch “Peidio byth cyfieithu'r wefan hon”
+settings-translations-subpage-never-translate-sites-description = I ychwanegu gwefan, agorwch y panel cyfieithu <img data-l10n-name="translations-icon"/>, dewiswch osodiadau cyfieithu <img data-l10n-name="settings-icon"/> yna dewiswch “Peidio byth cyfieithu'r wefan hon”
 settings-translations-subpage-language-select-option =
     .label = Ychwanegu Iaith
 settings-translations-subpage-language-add-button =
