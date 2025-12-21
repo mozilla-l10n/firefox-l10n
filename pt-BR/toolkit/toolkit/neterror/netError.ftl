@@ -173,9 +173,11 @@ neterror-response-status-code = Código de erro: { $responsestatus } { $response
 
 fp-neterror-connection-intro = O { -brand-short-name } não consegue criar uma conexão segura com o servidor em { $hostname }.
 fp-neterror-http-auth-disabled-intro = Alguém fingindo ser o site pode tentar roubar informações como seu nome de usuário, senha ou email.
+fp-neterror-http-auth-disabled-secure-connection = Este site requer uma conexão segura, você não pode adicionar uma exceção para acessar.
 fp-neterror-why-did-this-happen = Por que isso aconteceu?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Parece que este site está usando um software antigo com problemas de segurança conhecidos.
+fp-neterror-http-auth-disabled-why-dangerous-body = O { -brand-short-name } não confia em { $hostname } porque a conexão não é segura.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Certifique-se de estar usando a versão mais recente do { -brand-short-name }. Confira em Ajuda > Sobre o { -brand-short-name } no menu. Se você estiver usando o { -brand-short-name } mais recente, provavelmente o problema está no próprio site.
 fp-neterror-offline-what-can-you-do-body = Experimente se conectar usando outro dispositivo. Verifique seu modem ou roteador. Desconecte e reconecte ao WiFi.
