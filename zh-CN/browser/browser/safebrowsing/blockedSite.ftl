@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = 即将进入的是诈骗网站
 safeb-blocked-malware-page-title = 访问此网站可能损害您的计算机
 safeb-blocked-unwanted-page-title = 网站可能含有有害程序
 safeb-blocked-harmful-page-title = 即将进入的网站可能含有恶意软件
+safeb-blocked-addon-page-title = 网站因安全原因被阻止
 safeb-blocked-phishing-page-short-desc = 此页面可能试图诱导您安装恶意软件，透露密码、信用卡号等个人信息，或诱导您做其他风险行为，{ -brand-short-name } 已拦截。
 safeb-blocked-malware-page-short-desc = 此页面可能试图安装会窃取或删除您计算机上个人资料的恶意软件，{ -brand-short-name } 已拦截。
 safeb-blocked-unwanted-page-short-desc = 此页面可能试图诱导您安装损害上网体验的程序（例如说修改您的浏览器主页、展示扰人的广告），{ -brand-short-name } 已拦截。
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } 已拦截此页面，其可能会尝试安装危险的应用，从而窃取或删除您的信息（例如照片、密码、邮件、金融权证等）。
+safeb-blocked-addon-page-short-desc = { -brand-short-name } 阻止了此网页，因为您的一个附加组件试图打开它。该网站可能被用于窃取您的信息（例如密码或信用卡号）。</p>
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = 安全信息由 <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> 提供。
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = 访问 <a data-l10n-name='firefox_suppor
 safeb-palm-notdeceptive =
     .label = 这不是诈骗网站…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>为什么拦截此网站？</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> 可能涉及诈骗和有害活动。
+safeb-blocked-addon-page-error-desc3-override = <strong>您可以：</strong>
+safeb-blocked-addon-page-error-desc4-override = 为防止再次出现此情况，您可以在 about:addons 中移除或禁用 <strong>{ $addonName }</strong>。
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>详细了解 { -brand-short-name } 的钓鱼网站与恶意网站防护功能</a>。

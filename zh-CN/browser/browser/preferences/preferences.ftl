@@ -1320,6 +1320,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = 管理地址等信息
     .accesskey = M
+addresses-list-header =
+    .label = 地址
+addreses-delete-address-button-label =
+    .aria-label = 删除
+addreses-edit-address-button-label =
+    .aria-label = 编辑
+addresses-delete-address-prompt-title = 确定要删除此地址吗？
+addresses-delete-address-prompt-confirm-button = 删除
+addresses-delete-address-prompt-cancel-button = 取消
+autofill-addresses-add-button = 添加新地址
+autofill-addresses-manage-addresses-title =
+    .heading = 管理地址等信息
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1514,6 +1533,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快捷操作
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = 近期搜索
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = 热门搜索建议
+    .accesskey = t
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-locbar-showrecentsearches-option =
     .label = 显示近期搜索
