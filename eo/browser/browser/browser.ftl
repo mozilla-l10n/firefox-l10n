@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Aldoni legosignon por tiu ĉi paĝo ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Apartigita vido
+    .aria-label = Apartigita vido
 
 ## Page Action Context Menu
 
