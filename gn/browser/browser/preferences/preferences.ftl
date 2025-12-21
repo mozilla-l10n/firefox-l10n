@@ -413,6 +413,36 @@ settings-translations-more-settings-button =
     .description = Emboaje erohoryvéva ñe’ẽitápe g̃uarã, ñanduti rogue ha moñe’ẽasa ñanduti’ỹre.
 settings-translations-subpage-header =
     .heading = Ñembohekove ñe’ẽasa
+settings-translations-subpage-speed-up-translation-header =
+    .label = Embopya’e moñe’ẽasa
+    .description = Emboguejy ñe’ẽita moñe’ẽasa pya’everã ha emoñe’ẽasa hag̃ua ñanduti’ỹre.
+settings-translations-subpage-automatic-translation-header =
+    .label = Moñe’ẽasa ijeheguíva
+settings-translations-subpage-always-translate-header =
+    .label = Emoñe’ẽasameme ko’ã ñe’ẽ
+settings-translations-subpage-never-translate-header =
+    .label = Ani araka’eve emoñe’ẽasa ko’ã ñe’ẽ
+settings-translations-subpage-never-translate-sites-header =
+    .label = Araka’eve ani emoñe’ẽasa ko’ã tenda
+settings-translations-subpage-language-select-option =
+    .label = Embojuaju ñe’ẽ
+settings-translations-subpage-language-add-button =
+    .aria-label = Embojuaju ñe’ẽ
+    .title = Embojuaju ñe’ẽ
+settings-translations-subpage-download-languages-header =
+    .label = Emboguejy ñe’ẽita
+settings-translations-subpage-download-languages-select-option =
+    .label = Eiporavo ñe’ẽ
+settings-translations-subpage-download-languages-button =
+    .aria-label = Emboguejy ñe’ẽ
+    .title = Emboguejy ñe’ẽ
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Noñemboguejýi ñe’ẽita
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
