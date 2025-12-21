@@ -9,7 +9,7 @@
 about-unloads-page-title = Rejtarik wuwólniś
 about-unloads-intro =
     { -brand-short-name } ma funkciju, kótaraž rejtariki awtomatiski wuwólnjuju,
-    aby tomu zajźowała, až seš nałoženje njedosegajuceho składa dla wowalujo,
+    aby tomu zajźowała, až se nałoženje njedosegajucego składa dla wowalujo,
     gaž skład, kótaryž jo systemoju k dispoziciji, jo niski. Pśiducy rejtarik, kótaryž ma se
     wuwólniś, se na zakłaźe někotarych atributow wuběra. Toś ten bok pokazujo, kak
     { -brand-short-name } prioritu rejtarikow staja a kótary rejtarik se wuwólnijo,
