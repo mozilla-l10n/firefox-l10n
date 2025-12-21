@@ -128,6 +128,10 @@ fp-certerror-transparency-what-can-you-do-body = Μάλλον τίποτα, επ
 fp-learn-more-about-secure-connection-failures = Μάθετε περισσότερα σχετικά με τις αποτυχίες ασφαλούς σύνδεσης
 fp-learn-more-about-cert-issues = Μάθετε περισσότερα σχετικά με τα ζητήματα πιστοποιητικών αυτού του είδους
 fp-learn-more-about-time-related-errors = Μάθετε περισσότερα σχετικά με την επίλυση προβλημάτων που σχετίζονται με τον χρόνο
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό του δεν είναι έγκυρο μέχρι τις { DATETIME($date, timeStyle: "short") } στις { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

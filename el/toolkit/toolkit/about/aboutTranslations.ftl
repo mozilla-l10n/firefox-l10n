@@ -7,6 +7,10 @@ about-translations-title = Μεταφράσεις { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Άμεσες μεταφράσεις που σέβονται το απόρρητό σας.
 about-translations-learn-more-link = Μάθετε περισσότερα
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Η μετάφραση δεν είναι διαθέσιμη σε αυτήν τη συσκευή.
+    .message = Δοκιμάστε να μεταβείτε σε μια άλλη συσκευή.
 about-translations-unsupported-info-button = Μάθετε περισσότερα
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

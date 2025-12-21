@@ -65,6 +65,7 @@ inactive-css-ruby-element = Το <strong>{ $property }</strong> δεν έχει 
 
 inactive-css-highlight-pseudo-elements-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται στα ψευδοστοιχεία επισήμανσης.
 inactive-css-cue-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::cue.
+inactive-css-at-position-try-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε κανόνες <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -86,6 +87,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Δοκιμάστε να �
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong> ή το <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Δοκιμάστε να προσθέσετε είτε το <strong>column-count</strong> είτε το <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Δοκιμάστε να προσθέσετε το <strong>column-count</strong> ή το <strong>column-width</strong> σε ένα από τα προγονικά του στοιχεία. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Δοκιμάστε να προσθέσετε το <strong>position:absolute</strong> στο στοιχείο ή το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο. { learn-more }
 inactive-css-not-grid-item-fix-2 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong> στο γονικό στοιχείο. { learn-more }
 inactive-css-not-grid-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong>. { learn-more }
