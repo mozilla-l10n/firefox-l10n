@@ -325,6 +325,8 @@ preferences-web-appearance-override-warning3 =
     .message = Sua configuração de controle de contraste está sobrepondo a aparência de sites.
 preferences-web-appearance-link =
     .label = Gerencie temas do { -brand-short-name } em Extensões e temas
+preferences-contrast-control-radio-group =
+    .label = Substituir cores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sua seleção de cores está sobrepondo a aparência de sites. <a data-l10n-name="colors-link">Gerenciar cores</a>
@@ -561,6 +563,13 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox support
+
+support-get-help =
+    .label = Obtenha ajuda
+support-share-ideas =
+    .label = Compartilhe ideias e comentários
 
 ## General Section - Performance
 
@@ -978,7 +987,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronização: ATIVADA
+prefs-syncing-on-2 =
+    .label = Sincronização ATIVADA
 prefs-syncing-off = Sincronização: DESATIVADA
+prefs-syncing-off-2 =
+    .label = Sincronização DESATIVADA
+    .description = Ative a sincronização para ter seus favoritos, senhas, histórico e outras informações em qualquer dispositivo.
 prefs-sync-turn-on-syncing =
     .label = Ativar sincronização…
     .accesskey = s
@@ -1017,6 +1031,9 @@ sync-currently-syncing-addons = Extensões
 sync-currently-syncing-settings = Configurações
 sync-manage-options =
     .label = Gerenciar sincronização…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gerenciar dados sincronizados
     .accesskey = G
 sync-change-options =
     .label = Alterar…
@@ -1277,6 +1294,9 @@ autofill-payment-methods-add-button = Adicionar novo método de pagamento
 payments-list-header =
     .label = Métodos de pagamento
 payments-list-item-label = <strong>Métodos de pagamento</strong>
+payments-delete-payment-prompt-title = Excluir este método de pagamento?
+payments-delete-payment-prompt-confirm-button = Excluir
+payments-delete-payment-prompt-cancel-button = Cancelar
 payments-remove-payment-prompt-title = Remover este método de pagamento?
 payments-remove-payment-prompt-confirm-button = Remover
 payments-remove-payment-prompt-cancel-button = Cancelar
@@ -1289,6 +1309,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gerenciar endereços e outras informações
     .accesskey = G
+addresses-list-header =
+    .label = Endereços
+addreses-delete-address-button-label =
+    .aria-label = Excluir
+addreses-edit-address-button-label =
+    .aria-label = Editar
+addresses-delete-address-prompt-title = Excluir este endereço?
+addresses-delete-address-prompt-confirm-button = Excluir
+addresses-delete-address-prompt-cancel-button = Cancelar
+autofill-addresses-add-button = Adicionar novo endereço
+autofill-addresses-manage-addresses-title =
+    .heading = Gerenciar endereços e outras informações
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1483,6 +1522,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ações rápidas
     .accesskey = A
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Pesquisas recentes
+    .accesskey = P
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Sugestões de pesquisa em alta
+    .accesskey = S
 addressbar-suggestions-settings = Alterar preferências de sugestões de mecanismos de pesquisa
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar pesquisas recentes
