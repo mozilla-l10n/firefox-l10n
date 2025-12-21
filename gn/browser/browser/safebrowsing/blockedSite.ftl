@@ -63,3 +63,11 @@ safeb-blocked-harmful-page-learn-more = Eikuaave mba’éichapa { -brand-short-n
 safeb-palm-notdeceptive =
     .label = Kóva ndaha’éi tenda ombotavyséva…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>¿Mba'ére ojejoko ko tenda?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> ikatu ojuaju tembiapo oporombotavykuaa ha ivaívandi.
+safeb-blocked-addon-page-error-desc3-override = <strong>¿Mba’épa ejapóta upévare?</strong>
