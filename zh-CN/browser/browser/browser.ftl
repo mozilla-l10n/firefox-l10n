@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = 为此页面添加书签 ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = 分屏视图
+    .aria-label = 分屏视图
 
 ## Page Action Context Menu
 
@@ -831,6 +834,9 @@ urlbar-result-menu-dont-show-market =
     .label = 不再显示市场建议
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = 感谢反馈，市场建议将不再显示。
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = “股市”建议
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = 感谢反馈，此类建议将不再显示。
@@ -1497,3 +1503,4 @@ trustpanel-fingerprinter-list-header = 这些网站正试图跟踪您的数字�
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } 已拦截 { $count } 个加密货币挖矿程序
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } 已允许 { $count } 个加密货币挖矿程序
 trustpanel-cryptominer-tab-list-header = 这些网站正试图挖掘加密货币：
+trustpanel-blocker-section-header2 = 已在此网站上拦截 <span data-l10n-name="count">{ $count }</span> 个跟踪器

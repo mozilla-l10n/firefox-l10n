@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = 移除 { $provider }
 genai-menu-remove-sidebar =
     .label = 从侧栏移除
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = 询问 { $provider }
 genai-menu-new-badge = 新
 genai-menu-summarize-page = 生成页面摘要
 genai-input-ask-generic =
@@ -215,9 +218,13 @@ genai-model-optin-cancel =
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = 阅读时间 { $range } 分钟
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } 无法预览此链接
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = 无法预览此链接。
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = 访问链接
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } 无法为此网页生成要点。
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = 我们无法为此网页生成要点。
 # Error message when something went wrong during key point generation

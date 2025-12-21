@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = 查看简短描述、阅读时长�
 sidebar-button-callout-title = 在侧栏中显示标签页标题
 sidebar-button-callout-subtitle = 使用侧栏按钮展开侧栏，即可查看标签页标题。
 sidebar-button-callout-vertical-tabs = 选择工具栏中的侧栏图标，即可显示标签页栏。
+sidebar-deprecation-callout-title = 即将推出新版侧栏
+sidebar-deprecation-callout-subtitle = 我们正逐步升级目前的侧栏版本。请试用更快捷、工具更丰富的新版侧栏。
+sidebar-deprecation-cta-button = 立即试用
 
 ## Sidebar Vertical Tabs Strings
 

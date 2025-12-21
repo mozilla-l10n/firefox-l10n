@@ -423,3 +423,18 @@ etp-strict-exceptions-infobar-button = 应用修复
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = 暂时不要
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } 目前不是您的默认浏览器
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } 目前不是您的主浏览器
+set-default-menu-message-row-layout-title = 将 { -brand-short-name } 设为主浏览器
+set-default-menu-message-row-layout-title-variant = 将 { -brand-short-name } 设为默认浏览器
+set-default-menu-message-row-layout-subtitle = 每一次浏览，都有最快速度、安全与隐私保护。
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] 将 { -brand-short-name } 设为默认浏览器并在程序坞中保留，方便随手开启。
+       *[other] 将 { -brand-short-name } 设为默认浏览器并固定到任务栏，方便随手开启。
+    }
+set-default-menu-message-primary-button = 设为默认浏览器
+set-default-menu-message-primary-button-variant = 设为主浏览器

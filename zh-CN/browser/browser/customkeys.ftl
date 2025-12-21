@@ -35,3 +35,5 @@ customkeys-nav-reload = 重新加载
 customkeys-nav-reload-skip-cache = 重新加载（覆盖缓存）
 customkeys-nav-stop = 停止
 customkeys-caution-message = 此功能为实验功能，可能无法按预期工作。
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = 无效

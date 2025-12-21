@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = 退出浏览器时向您确认
 disable-extension =
     .label = 禁用扩展
+preferences-data-migration-group =
+    .label = 导入浏览器数据
+    .description = 从其他浏览器导入书签、密码、历史记录、扩展和自动填写数据。
 preferences-data-migration-header = 导入浏览器数据
 preferences-data-migration-description = 将书签、密码、历史记录和自动填写数据导入 { -brand-short-name }。
 preferences-data-migration-button =
@@ -321,6 +324,11 @@ preferences-web-appearance-override-warning3 =
     .message = 您的对比度控制设置正在覆盖网站外观。
 preferences-web-appearance-link =
     .label = 在“扩展和主题”中管理 { -brand-short-name } 主题
+preferences-contrast-control-group =
+    .label = 网站对比度
+    .description = 不同网站的前景色和背景色各异。您可使用相同颜色显示所有网站，以获得一致的对比度。
+preferences-contrast-control-radio-group =
+    .label = 覆盖颜色
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 您的颜色选择将覆盖网站外观。<a data-l10n-name="colors-link">管理颜色</a>
@@ -391,6 +399,25 @@ translate-attribution = 翻译由 <img data-l10n-name="logo"/> 提供
 translate-exceptions =
     .label = 例外…
     .accesskey = x
+settings-translations-header =
+    .label = 翻译
+    .aria-label = 翻译
+    .description = 翻译页面或选中的文本。为保护隐私，译文不会离开您的设备。
+settings-translations-offer-to-translate-label =
+    .label = 询问是否翻译整页
+settings-translations-subpage-speed-up-translation-header =
+    .label = 加快翻译速度
+    .description = 下载完整语言包以加快翻译速度，并可离线翻译。
+settings-translations-subpage-automatic-translation-header =
+    .label = 自动翻译
+settings-translations-subpage-always-translate-header =
+    .label = 始终翻译下列语言
+settings-translations-subpage-never-translate-header =
+    .label = 永不翻译下列语言
+settings-translations-subpage-never-translate-sites-header =
+    .label = 永不翻译下列网站
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = 若要添加新网站，请打开 <img data-l10n-name="translations-icon"/> 翻译面板，选择 <img data-l10n-name="settings-icon"/> 翻译设置，然后选择“永不翻译此网站”
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -950,7 +977,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } 未验证。
+sync-signedin-unverified2 =
+    .label = { $email } 尚未确认
+    .description = 请查收邮件并确认您的账户，以使账户生效。
 sync-signedin-login-failure = 请登录以重新绑定 { $email }
+sync-signedin-login-failure2 =
+    .label = 您已退出登录 { $email }
+    .description = 再次登录以重新连接并开始同步您的数据。
 
 ##
 
@@ -1009,6 +1042,9 @@ sync-currently-syncing-addons = 附加组件
 sync-currently-syncing-settings = 设置
 sync-manage-options =
     .label = 管理同步…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = 管理同步的数据
     .accesskey = M
 sync-change-options =
     .label = 更改…
@@ -1269,6 +1305,9 @@ autofill-payment-methods-add-button = 添加付款方式
 payments-list-header =
     .label = 付款方式
 payments-list-item-label = <strong>付款方式</strong>
+payments-delete-payment-prompt-title = 确定要删除此付款方式吗？
+payments-delete-payment-prompt-confirm-button = 删除
+payments-delete-payment-prompt-cancel-button = 取消
 payments-remove-payment-prompt-title = 确定要移除此付款方式吗？
 payments-remove-payment-prompt-confirm-button = 移除
 payments-remove-payment-prompt-cancel-button = 取消
