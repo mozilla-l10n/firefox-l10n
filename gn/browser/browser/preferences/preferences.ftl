@@ -1007,6 +1007,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Mbojuehe
+account-placeholder =
+    .label = Ndereikéi gueteri
+    .description = Eike ereko hag̃ua ne mba’ekuarã tekoñemíme, ipapapy ha ñembojuehépe ne mba’e’okaitápe.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1060,7 +1063,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
+sync-signedin-unverified2 =
+    .label = { $email } noñemoneĩri gueteri
+    .description = Ehecha ne ñe’ẽmondo g̃uahẽha emoneĩ hag̃ua ne mba’ete ha ehechauka.
 sync-signedin-login-failure = Eñepyrũ tembiapo eikejey hag̃ua { $email }
+sync-signedin-login-failure2 =
+    .label = Embotýma nde jeike { $email }-pegua
+    .description = Eike jey ikatu hag̃ua embojuaju ne mba’ekuaarãita.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
