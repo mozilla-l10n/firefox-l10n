@@ -21,6 +21,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = 由于不是 Fle
 inactive-css-not-multicol-container = 由于不是多列容器，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-column-span = 由于并非位于多列容器中，<strong>{ $property }</strong> 对此元素不起跨越效果。
 inactive-css-not-grid-or-flex-item = 由于不是弹性或网格项目，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = 由于不是网格或弹性元素，也不是绝对定位元素，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-not-grid-or-absolutely-positioned-item = 由于不是网格项目或绝对定位元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-item = 由于不是网格项目，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-container = 由于不是网格容器，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-flex-item = 由于不是弹性项目，<strong>{ $property }</strong> 对此元素无效。
@@ -63,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无
 
 inactive-css-highlight-pseudo-elements-not-supported = 强调（highlight）目的的伪元素上不支持 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 伪元素不支持 <strong>{ $property }</strong>。
+inactive-css-at-position-try-not-supported = <strong>@position-try</strong> 规则不支持 <strong>{ $property }</strong>。
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = 由于超过 { $lineCount } 行，<strong>{ $property }</strong> 对此元素无效。
@@ -80,6 +83,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = 请尝试加入 <strong>d
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。{ learn-more }
 inactive-css-not-multicol-container-fix = 请尝试添加 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-column-span-fix = 请尝试向其祖先元素之一添加 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = 请尝试为元素添加 <strong>position:absolute</strong>，或为其父元素添加 <strong>display:grid</strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:grid</ strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-item-fix-2 = 请尝试为元素的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-container-fix = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
