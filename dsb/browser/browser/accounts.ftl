@@ -65,7 +65,7 @@ account-connection-disconnected = Toś to licadło njejo zwězane.
 account-single-tab-arriving-title = Dostany rejtarik
 # Variables:
 #   $deviceName (String): the device name.
-account-single-tab-arriving-from-device-title = Rajtark z { $deviceName }
+account-single-tab-arriving-from-device-title = Rejtarik z { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
