@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Na doku wobchowaś
        *[other] K nadawkowej rědce pśipěś
     }
-about-private-browsing-pin-promo-title = Žedne skłaźone cookieje abo žedna historiju, direktnje z wašogo desktopa. Pśeglědujśo ako njeby was nichten wobglědował.
+about-private-browsing-pin-promo-title = Žedne skłaźone cookieje abo žedna historija, direktnje z wašogo desktopa. Pśeglědujśo ako njeby was nichten wobglědował.
 
 ## Strings used in a promotion message for cookie banner reduction
 
