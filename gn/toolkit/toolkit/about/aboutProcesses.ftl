@@ -131,6 +131,7 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 about-processes-utility-actor-js-oracle = JavaScript Ykekoha
 about-processes-utility-actor-windows-utils = Windows kuave’ẽmby
 about-processes-utility-actor-windows-file-dialog = Windows marandurenda ñomongeta
+about-processes-utility-actor-pkcs11-module = Tekorosã ayvu pytyvõha
 
 ## Displaying CPU (percentage and total)
 ## Variables:
