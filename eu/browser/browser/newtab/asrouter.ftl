@@ -321,6 +321,8 @@ root-certificate-succession-infobar-secondary-button =
 
 ## Root Certificate Succession Windows Background Notification
 
+root-certificate-windows-background-notification-title = { -brand-short-name }(e)n eguneraketa garrantzitsu bat galdu duzu
+root-certificate-windows-background-notification-subtitle = Ez baduzu eguneratzen, nabigatzailearen zati batzuk ibiltzeari utziko die. Une egokia da orain gure azken babes eta eginbideak lortzeko.
 root-certificate-windows-background-notification-learn-more-button = Argibide gehiago
 root-certificate-windows-background-notification-update-button = Eguneratu { -brand-short-name }
 
@@ -361,13 +363,19 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantendu pribatutasunari zuzendutako zure nabigatzaile gogokoena klik bakarrera. Egizu { -brand-short-name } loturak irekitzeko zure nabigatzaile lehenetsia eta manten ezazu ataza-barran eta Hasi menuan.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Windows 10etik eguneratu behar duzu laster?
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = Windows 11ra bertsio-berritu behar duzu? Ez galdu laster-markak eta pasahitzak.
 windows-10-eos-sync-toast-primary-label = Hasi erabiltzen
 windows-10-eos-sync-toast-secondary-label = Gogora iezadazu geroago
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-pin-primary-button = Ainguratu { -brand-shorter-name }
 windows-10-eos-sync-callout-next-button = Hurrengoa
 windows-10-eos-sync-callout-get-started-button = Hasi erabiltzen
 

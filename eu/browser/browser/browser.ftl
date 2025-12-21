@@ -1515,6 +1515,16 @@ trustpanel-list-label-cryptominer =
     }
 trustpanel-tracking-content-tab-list-header = Zure jarraipena egiten saiatzen ari dira gune hauek:
 trustpanel-fingerprinter-list-header = Hatz-marka bidezko zure jarraipena egiten saiatzen ari dira gune hauek:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k kriptomeatzari { $count } blokeatu du
+       *[other] { -brand-product-name }(e)k { $count } kriptomeatzari blokeatu ditu
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k kriptomeatzari { $count } baimendu du
+       *[other] { -brand-product-name }(e)k { $count } kriptomeatzari baimendu ditu
+    }
 trustpanel-cryptominer-tab-list-header = Kriptomeatzen saiatzen ari dira gune hauek:
 trustpanel-blocker-section-header2 =
     { $count ->

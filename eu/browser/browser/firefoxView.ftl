@@ -209,6 +209,11 @@ firefoxview-history-empty-description = Nabigatu ahala, bisitatzen dituzun orria
 firefoxview-choose-browser-button = Aukeratu nabigatzailea
     .title = Aukeratu nabigatzailea
 
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header-2 = { -brand-short-name }(e)k gogoratzen duenaren gaineko kontrola duzu
+firefoxview-dont-remember-history-empty-description-one = Une honetan { -brand-short-name }(e)k ez du zure nabigatze-jarduerarik gogoratzen. Hori aldatzeko, <a data-l10n-name="history-settings-url-two">eguneratu zure historia-ezarpenak</a>.
+
 ##
 
 # This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View

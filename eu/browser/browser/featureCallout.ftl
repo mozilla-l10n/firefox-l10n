@@ -134,6 +134,8 @@ link-preview-onboarding-callout-description = Ikusi azalpen laburra, irakurketa 
 sidebar-button-callout-title = Erakutsi fitxen izenburuak alboko barran
 sidebar-button-callout-subtitle = Erabili alboko barraren botoia alboko barra zabaldu eta fitxen izenburuak ikusi ahal izateko.
 sidebar-button-callout-vertical-tabs = Zure fitxak erakusteko, hautatu tresna-barran alboko barraren botoia.
+sidebar-deprecation-callout-title = Eguneratutako alboko barra laster dator
+sidebar-deprecation-callout-subtitle = Une honetan darabilzun alboko barraren bertsioa zaharkituta geldituko da. Probatu eguneratutako alboko barra. Azkarragoa da eta tresna gehiagorako sarbidea ematen dizu.
 sidebar-deprecation-cta-button = Probatu orain
 
 ## Sidebar Vertical Tabs Strings
