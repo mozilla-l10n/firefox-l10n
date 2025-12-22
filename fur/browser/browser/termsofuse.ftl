@@ -7,6 +7,8 @@
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
 existing-user-tou-message = <strong>Inzornament</strong> O vin introdot lis <a data-l10n-name="terms-of-use-link">cundizions di utilizazion</a> di { -brand-short-name } e inzornade la nestre <a data-l10n-name="privacy-notice-link">informative su la riservatece</a>. Par plasê cjapiti un pôc di timp par leilis e acetâlis.
+# Infobar message for when the Privacy Notice is updated.
+existing-user-privacy-notice-update-message = O vin inzornade la nestre <a data-l10n-name="privacy-notice-link">Informative su la riservatece</a> par includi lis gnovis funzions di { -brand-short-name }.
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = Plui informazions
 # Text for primary button

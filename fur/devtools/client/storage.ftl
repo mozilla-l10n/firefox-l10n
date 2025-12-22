@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Scjadince / Durade massime
 storage-table-headers-cookies-size = Dimension
 storage-table-headers-cookies-last-accessed = Ultin acès
 storage-table-headers-cookies-creation-time = Creazion
+storage-table-headers-cookies-update-time = Inzornât
 storage-table-headers-cache-status = Stât
 storage-table-headers-extension-storage-area = Aree di archiviazion
 

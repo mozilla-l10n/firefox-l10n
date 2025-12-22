@@ -158,4 +158,6 @@ perftools-presets-power-label = Energjie
 perftools-presets-power-description = Pre-configurazion par investigâ sui erôrs di consum di energjie in { -brand-shorter-name }, cun basse sorecjame.
 perftools-presets-debug-label = Debug
 perftools-presets-debug-description = Impostazion prestabilide pal debug in { -brand-shorter-name }. Overhead elevât, no sta doprâlu pes analisis des prestazions, ma dome par capî il compuartament dal navigadôr.
+perftools-presets-web-compat-label = Compatibilitât web
+perftools-presets-web-compat-description = Preconfigurazion conseade pal debug dai problemis di compatibilitât tai sîts web, no par monitorâ lis prestazions.
 perftools-presets-custom-label = Personalizât
