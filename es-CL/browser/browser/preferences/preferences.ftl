@@ -459,6 +459,12 @@ settings-translations-subpage-download-retry-button =
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
 settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Borrar
+settings-translations-subpage-download-cancel-button =
+    .label = Cancelar
+settings-translations-subpage-no-sites-added =
+    .label = No hay sitios añadidos
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1004,6 +1010,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronización
+account-placeholder =
+    .label = No estás conectado
+    .description = Conéctate para mantener tus datos privados, cifrados y sincronizados entre dispositivos.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1015,6 +1024,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = Conéctate a tu cuenta para empezar a sincronizar
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Conectarse
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1054,7 +1066,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } no está verificada.
+sync-signedin-unverified2 =
+    .label = { $email } aún no está confirmado
+    .description = Revisa tu bandeja de recibidos para confirmar tu cuenta y hacerla oficial.
 sync-signedin-login-failure = Por favor, vuelve a conectarte { $email }
+sync-signedin-login-failure2 =
+    .label = Has cerrado sesión en { $email }
+    .description = Vuelve a conectarte para empezar a sincronizar tus datos.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
