@@ -203,3 +203,12 @@ backup-error-retry = Alc al è lât strucj. Torne prove.
 backup-file-header = { -brand-short-name } al è pront par jessi ripristinât
 backup-file-title = Ripristine { -brand-short-name }
 backup-file-intro = Torne a navigâ e recupere ducj i tiei segnelibris, la cronologjie e chei altris dâts. <a data-l10n-name="backup-file-support-link">Plui informazions</a>
+backup-file-path-label = File di backup:
+backup-file-encryption-state-label = Cifrât:
+backup-file-encryption-state-value-encrypted = Sì
+backup-file-encryption-state-value-not-encrypted = No
+backup-file-creation-device-label = Dispositîf:
+backup-file-creation-date-label = Creât:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
