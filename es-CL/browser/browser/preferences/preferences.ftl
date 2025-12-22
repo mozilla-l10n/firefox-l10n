@@ -425,6 +425,36 @@ settings-translations-subpage-never-translate-header =
     .label = Nunca traducir estos idiomas
 settings-translations-subpage-never-translate-sites-header =
     .label = Nunca traducir estos sitios
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Para añadir un sitio, abre el panel de traducción <img data-l10n-name="translations-icon"/>, selecciona el ajuste de traducción <img data-l10n-name="settings-icon"/> y luego elige "Nunca traducir este sitio".
+settings-translations-subpage-language-select-option =
+    .label = Añadir idioma
+settings-translations-subpage-language-add-button =
+    .aria-label = Añadir idioma
+    .title = Añadir idioma
+settings-translations-subpage-download-languages-header =
+    .label = Descargar idiomas
+settings-translations-subpage-download-languages-select-option =
+    .label = Seleccionar idioma
+settings-translations-subpage-download-languages-button =
+    .aria-label = Descargar idioma
+    .title = Descargar idioma
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = No hay idiomas descargados
+settings-translations-subpage-no-languages-added =
+    .label = No hay idiomas añadidos
+settings-translations-subpage-download-progress = Descarga en proceso…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Volver a intentarlo
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
