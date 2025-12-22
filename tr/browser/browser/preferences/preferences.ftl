@@ -397,6 +397,9 @@ translate-exceptions =
     .accesskey = s
 settings-translations-subpage-header =
     .heading = Diğer çeviri ayarları
+settings-translations-subpage-speed-up-translation-header =
+    .label = Çeviriyi hızlandır
+    .description = Daha hızlı çeviri ve çevrimdışı çeviri için tüm dilleri indir.
 settings-translations-subpage-automatic-translation-header =
     .label = Otomatik çeviri
 settings-translations-subpage-always-translate-header =
@@ -410,6 +413,8 @@ settings-translations-subpage-language-select-option =
 settings-translations-subpage-language-add-button =
     .aria-label = Dil ekle
     .title = Dil ekle
+settings-translations-subpage-download-languages-header =
+    .label = Dilleri indir
 settings-translations-subpage-download-languages-select-option =
     .label = Dil seçin
 settings-translations-subpage-download-languages-button =
@@ -995,6 +1000,9 @@ sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, paro
 sync-signedout-account-signin3 =
     .label = Eşitlemek için giriş yap…
     .accesskey = i
+sync-signedout-account-short =
+    .label = Giriş yap
+    .accesskey = G
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1393,6 +1401,8 @@ addresses-delete-address-prompt-title = Bu adres silinsin mi?
 addresses-delete-address-prompt-confirm-button = Sil
 addresses-delete-address-prompt-cancel-button = Vazgeç
 autofill-addresses-add-button = Yeni adres ekle
+autofill-addresses-manage-addresses-title =
+    .heading = Adresleri ve daha fazlasını yönet
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address

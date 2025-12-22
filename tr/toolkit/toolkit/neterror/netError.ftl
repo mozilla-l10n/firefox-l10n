@@ -178,11 +178,16 @@ fp-neterror-offline-body-title = İnternet bağlantınızla ilgili bir sorun var
 fp-neterror-connection-intro = { -brand-short-name }, { $hostname } sunucusuyla güvenli bir bağlantı kuramıyor.
 fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> sunucusuna bağlanamadı
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
+fp-neterror-http-auth-disabled-intro = Birisi bu siteyi taklit ederek kullanıcı adınız, parolanız veya e-postanız gibi bilgileri çalmaya çalışabilir.
+fp-neterror-http-auth-disabled-secure-connection = Bu site güvenli bir bağlantı gerektiriyor ve siteyi ziyaret etmek için istisna ekleyemezsiniz.
 fp-neterror-why-did-this-happen = Neden böyle bir şey oldu?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Bu site, bilinen güvenlik sorunları olan eski bir yazılım kullanıyor.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name }, bağlantı güvenli olmadığı için { $hostname } sitesine güvenmiyor.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = { -brand-short-name } tarayıcısının son sürümünü kullandığınızdan emin olun. Menüden Yardım > { -brand-short-name } hakkında’ya gidin. En yeni { -brand-short-name } sürümünü kullanıyorsanız sorun büyük olasılıkla siteden kaynaklanıyordur.
 fp-neterror-offline-what-can-you-do-body = Farklı bir cihazdan bağlanmayı deneyin. Modeminizi veya yönlendiricinizi kontrol edin. Wi-Fi bağlantınızı kesip yeniden bağlanın.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Adresi HTTPS olarak değiştirmeyi deneyin. Ama muhtemelen sitenin kendisinde bir sorun var.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Bazen web siteleri, kendilerinin başka sitelerle istenmeyen etkileşimlere girmesini önleyen korumalar kurar.
+fp-learn-more-about-https-connections = HTTPS bağlantıları hakkında bilgi alın
