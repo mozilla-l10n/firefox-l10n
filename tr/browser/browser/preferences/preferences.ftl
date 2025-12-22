@@ -323,6 +323,8 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrast denetimi ayarlarınız web sitesi görünümünü geçersiz kılıyor.
 preferences-web-appearance-link =
     .label = { -brand-short-name } temalarını Uzantılar ve Temalar sayfasından yönetebilirsiniz.
+preferences-contrast-control-radio-group =
+    .label = Renkleri geçersiz kıl
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor. <a data-l10n-name="colors-link">Renkleri yönet</a>
@@ -393,6 +395,52 @@ translate-attribution = Çeviriler: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = s
+settings-translations-subpage-header =
+    .heading = Diğer çeviri ayarları
+settings-translations-subpage-automatic-translation-header =
+    .label = Otomatik çeviri
+settings-translations-subpage-always-translate-header =
+    .label = Bu dilleri her zaman çevir
+settings-translations-subpage-never-translate-header =
+    .label = Bu dilleri asla çevirme
+settings-translations-subpage-never-translate-sites-header =
+    .label = Bu siteleri asla çevirme
+settings-translations-subpage-language-select-option =
+    .label = Dil ekle
+settings-translations-subpage-language-add-button =
+    .aria-label = Dil ekle
+    .title = Dil ekle
+settings-translations-subpage-download-languages-select-option =
+    .label = Dil seçin
+settings-translations-subpage-download-languages-button =
+    .aria-label = Dili indir
+    .title = Dili indir
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Hiçbir dil indirilmedi
+settings-translations-subpage-no-languages-added =
+    .label = Hiçbir dil eklenmedi
+settings-translations-subpage-download-progress = İndirme devam ediyor…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } indirilemedi ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Yeniden dene
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size } MB) silinsin mi?
+settings-translations-subpage-download-delete-button =
+    .label = Sil
+settings-translations-subpage-download-cancel-button =
+    .label = Vazgeç
+settings-translations-subpage-no-sites-added =
+    .label = Hiçbir site eklenmedi
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -987,6 +1035,16 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } doğrulanmamış.
 sync-signedin-login-failure = Yeniden { $email } hesabınıza bağlanmak için lütfen giriş yapın
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -1536,6 +1594,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hızlı eylemler
     .accesskey = H
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Son aramalar
+    .accesskey = r
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 addressbar-locbar-showrecentsearches-option =
     .label = Son aramaları göster
