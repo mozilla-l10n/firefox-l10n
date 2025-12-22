@@ -212,3 +212,35 @@ backup-file-creation-date-label = Creât:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Cemût ripristinâ:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Vierç il menù de aplicazion ☰ e va in Impostazions > Sincronizazion
+backup-file-moz-browser-restore-step-2 = Fâs clic su “Sielç file di backup” e selezione chest file
+backup-file-moz-browser-restore-step-3 = Torne invie { -brand-short-name } cuant che ti ven domandât
+backup-file-other-browser-restore-step-1 = Discjame e instale { -brand-short-name }
+backup-file-download-moz-browser-button = Discjame
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Invie { -brand-short-name }, vierç il menù de aplicazion ☰ e va in Impostazions > Sincronizazion
+backup-file-other-browser-restore-step-3 = Fâs clic su “Sielç file di backup” e selezione chest file
+backup-file-other-browser-restore-step-4 = Torne invie { -brand-short-name } cuant che ti ven domandât
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Note:</b> al è stât cjatât { $numberOfOtherBackupsFound } altri file di backup
+       *[other] <b>Note:</b> a son stâts cjatâts altris { $numberOfOtherBackupsFound } files di backup
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Creât ai { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
+backup-file-restore-file-validation-error = Chest file nol funzione. Prove a sielzi un altri file. <a data-l10n-name="restore-problems">Âstu ancjemò problemis?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Nissun file selezionât

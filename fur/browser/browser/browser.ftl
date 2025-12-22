@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Zonte cheste pagjine ai segnelibris ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Schermi dividût
+    .aria-label = Schermi dividût
 
 ## Page Action Context Menu
 
@@ -426,6 +429,9 @@ quickactions-cmd-restart = torne invie
 # Opens the screenshot tool
 quickactions-screenshot3 = Cature une videade
 quickactions-cmd-screenshot2 = schermade, videade, cature une schermade
+# Opens about:translations
+quickactions-translate = Volte
+quickactions-cmd-translate = tradûs
 quickactions-cmd-screenshot = videade
 # Opens about:preferences
 quickactions-settings2 = Gjestìs impostazions
@@ -833,6 +839,9 @@ urlbar-result-menu-dont-show-market =
     .label = No sta mostrâ sugjeriments sui marcjâts
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Graciis pe tô opinion. No tu viodarâs plui sugjeriments sui marcjâts.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugjeriments sui marcjâts azionariis
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Graciis pe tô opinion. No tu viodarâs plui chescj sugjeriments.
@@ -924,6 +933,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nissune scurte selezionade, sielç une scurte
     .tooltiptext = Nissune scurte selezionade, sielç une scurte
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La ricercje vie peraule clâf e je disativade
+    .tooltiptext = La ricercje vie peraule clâf e je disativade
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1482,6 +1495,13 @@ trustpanel-blocker-see-all = Viôt ducj
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezions da lis spiis par { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = No sigûr
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
