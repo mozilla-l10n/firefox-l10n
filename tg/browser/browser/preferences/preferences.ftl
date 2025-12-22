@@ -1009,6 +1009,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Ҳамоҳангсозӣ
+account-placeholder =
+    .label = Шумо ворид нашудаед
+    .description = Барои нигоҳ доштани маълумоти худ ба таври махфӣ, рамзгузоришуда ва ҳамоҳангшуда байни дастгоҳҳо, ворид шавед.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1062,6 +1065,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } тасдиқ нашудааст.
+sync-signedin-unverified2 =
+    .label = { $email } ҳанӯз тасдиқ нашудааст
+    .description = Барои тасдиқ кардани ҳисоби худ ва ба расмият даровардани он, лутфан, паёмдони почтаи электронии худро тафтиш кунед.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
 
 ## Variables
