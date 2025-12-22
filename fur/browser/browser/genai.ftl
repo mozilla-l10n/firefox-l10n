@@ -274,3 +274,7 @@ link-preview-setup-faster-next-time = La prossime volte i ponts clâf a vignaran
 link-preview-onboarding-button = Viôt une anteprime
 # Onboarding card Close button
 link-preview-onboarding-close = Siere
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Configurazion iniziâl
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Cheste operazion e podarès puartâ vie cualchi minût. La prossime volte tu viodarâs i ponts clâf in maniere plui svelte.

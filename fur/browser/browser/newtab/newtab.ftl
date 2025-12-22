@@ -669,6 +669,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Gnove liste
+newtab-widget-section-title = Widgets
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Plate widgets
+    .aria-label = Plate ducj i widgets
+newtab-widget-section-maximize =
+    .title = Slargje widgets
+    .aria-label = Slargje ducj i widgets ae dimension massime
+newtab-widget-section-minimize =
+    .title = Minimize widgets
+    .aria-label = Strenç ducj i widgets ae dimension compate
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
