@@ -403,6 +403,28 @@ translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-header =
+    .label = Traducciones
+    .aria-label = Traducciones
+    .description = Traduce páginas o texto seleccionado. Para proteger tu privacidad, las traducciones permanecen en tu dispositivo.
+settings-translations-offer-to-translate-label =
+    .label = Ofrecer traducción de página completa
+settings-translations-more-settings-button =
+    .label = Más ajustes de traducción
+    .description = Establece preferencias para idiomas, sitios web y traducción sin conexión.
+settings-translations-subpage-header =
+    .heading = Más ajustes de traducción
+settings-translations-subpage-speed-up-translation-header =
+    .label = Acelera la traducción
+    .description = Descarga idiomas completos para traducciones más rpápidas y para traducir sin conexión.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traducción automática
+settings-translations-subpage-always-translate-header =
+    .label = Siempre traducir estos idiomas
+settings-translations-subpage-never-translate-header =
+    .label = Nunca traducir estos idiomas
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nunca traducir estos sitios
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
