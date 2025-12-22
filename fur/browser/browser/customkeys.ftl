@@ -24,3 +24,4 @@ customkeys-dev-style = Editôr di stîi
 customkeys-dev-performance = Prestazions
 customkeys-dev-storage = Ispetôr de archiviazion
 customkeys-dev-dom = DOM
+customkeys-dev-accessibility = Acès facilitât

@@ -167,8 +167,28 @@ preferences-manage-profiles-description = Ogni profîl al manten dâts di naviga
 preferences-manage-profiles-learn-more = Plui informazions
 preferences-manage-profiles-button =
     .label = Gjestìs profîi
+preferences-profiles-settings-button =
+    .label = Impostazions
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profîl di copiâ
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Selezione profîl
+preferences-copy-profile-button = Copie
 tabs-group-header2 =
     .label = Schedis
+tabs-opening-heading =
+    .label = Vierzidure
+tabs-interaction-heading =
+    .label = Interazion
+tabs-containers-heading =
+    .label = Contignidôrs
+tabs-closing-heading =
+    .label = Sieradure
 tabs-group-header = Schedis
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab al fâs scori lis schedis lant daûr l'ordin di chês dopradis plui di resint
@@ -294,6 +314,8 @@ preferences-web-appearance-override-warning3 =
     .message = Lis tôs impostazions di control dal contrast a stan sostituint l'aspiet dai sîts web.
 preferences-web-appearance-link =
     .label = Gjestìs i temis di { -brand-short-name } in Estensions e temis
+preferences-contrast-control-radio-group =
+    .label = Sostituìs colôrs
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = L'aspiet dal sît web al è stât sostituît de tô selezion di colôrs. <a data-l10n-name="colors-link"> Gjestìs i colôrs</a>
@@ -364,6 +386,44 @@ translate-attribution = Traduzions di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ecezions…
     .accesskey = z
+settings-translations-subpage-language-select-option =
+    .label = Zonte lenghe
+settings-translations-subpage-language-add-button =
+    .aria-label = Zonte lenghe
+    .title = Zonte lenghe
+settings-translations-subpage-download-languages-header =
+    .label = Discjame lenghis
+settings-translations-subpage-download-languages-select-option =
+    .label = Selezione lenghe
+settings-translations-subpage-download-languages-button =
+    .aria-label = Discjame lenghe
+    .title = Discjame lenghe
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nissune lenghe discjariade
+settings-translations-subpage-no-languages-added =
+    .label = Nissune lenghe zontade
+settings-translations-subpage-download-progress = Discjariament in cors…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Impussibil discjariâ { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Torne prove
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Eliminâ { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Elimine
+settings-translations-subpage-download-cancel-button =
+    .label = Anule
+settings-translations-subpage-no-sites-added =
+    .label = Nissun sît zontât
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -531,6 +591,13 @@ update-in-progress-ok-button = &Interomp
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
+## Firefox support
+
+support-get-help =
+    .label = Oten jutori
+support-share-ideas =
+    .label = Condivît ideis e opinions
+
 ## General Section - Performance
 
 performance-title = Prestazions
@@ -613,6 +680,7 @@ home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzi
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagjine iniziâl e gnûfs barcons
+home-homepage-mode-label2 = Gnûfs barcons
 home-newtabs-mode-label = Gnovis schedis
 home-homepage-new-tabs =
     .label = Gnovis schedis

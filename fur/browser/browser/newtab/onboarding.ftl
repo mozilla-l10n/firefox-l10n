@@ -510,6 +510,8 @@ create-backup-screen-2-all-label = Ducj i dâts
 create-backup-screen-2-all-list-2 = Al inclût passwords e metodis di paiaments
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Cifrât cuntune password
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Dulà desideristu salvâ il backup?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Cree une password pal file di backup
 create-backup-screen-3-subtitle = Obligatori par cifrâ i tiei dâts. Tegnile intun puest che tu ti visis.

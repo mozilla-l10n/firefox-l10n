@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Ative compilazion automatiche pai recapits.
 policy-AutofillCreditCardEnabled = Ative compilazion automatiche pai metodis di paiament.
 policy-AutoLaunchProtocolsFromOrigins = Definìs une liste di protocoi esternis che a puedin jessi doprâts da lis origjinis listadis cence domandâ conferme al utent.
 policy-BackgroundAppUpdate2 = Abilite o disabilite l'inzornadôr in sotfont.
+policy-Backup = Disative il salvament o il ripristinament dai dâts dal profîl.
 policy-BlockAboutAddons = Bloche l'acès al gjestôr dai components adizionâi (about:addons).
 policy-BlockAboutConfig = Bloche l'acès aae pagjine about:config.
 policy-BlockAboutProfiles = Bloche l'acès ae pagjine about:profiles.
