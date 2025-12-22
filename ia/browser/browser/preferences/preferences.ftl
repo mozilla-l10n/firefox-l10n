@@ -425,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Non traducer jammais iste lingua
 settings-translations-subpage-never-translate-sites-header =
     .label = Non traducer jammais iste sitos
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Pro adder un sito, aperi le <img data-l10n-name="translations-icon"/> quadro de traduction, selige <img data-l10n-name="settings-icon"/> parametros de traduction, pois elige “Jammais traducer iste sito”
 settings-translations-subpage-language-select-option =
     .label = Adder lingua
 settings-translations-subpage-language-add-button =
@@ -1064,7 +1066,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } non es verificate.
+sync-signedin-unverified2 =
+    .label = { $email } non es confirmate ancora
+    .description = Marca tu cassa de entrata pro confirmar tu conto e render lo official.
 sync-signedin-login-failure = Per favor aperi session pro reconnecter { $email }
+sync-signedin-login-failure2 =
+    .label = Tu es disconnectite de { $email }
+    .description = Re-accede pro reconnecter te e initia synchronisar tu datos.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
