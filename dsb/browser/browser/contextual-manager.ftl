@@ -145,11 +145,11 @@ contextual-manager-passwords-remove-all-message =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-message-sync =
     { $total ->
-        [1] To gronidło wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
-        [one] To { $total } gronidło wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
-        [two] To { $total } gronidle wótwónoźijo, kótarejž sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
-        [few] To { $total } gronidła wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
-       *[other] To { $total } gronidłow wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [1] To gronidło wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [one] To { $total } gronidło wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [two] To { $total } gronidle wótwónoźijo, kótarejž sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+        [few] To { $total } gronidła wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
+       *[other] To { $total } gronidłow wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych wašych synchronizěrowanych rědach a warnowanja wó datowych źěrach wótwónoźijo. Njamóžośo toś tu akciju anulěrowaś.
     }
 contextual-manager-passwords-origin-label = Websedło
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
