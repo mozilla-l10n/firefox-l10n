@@ -1591,3 +1591,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } al à consintût { $count } minadôrs di criptomonede
     }
 trustpanel-cryptominer-tab-list-header = Chescj sîts a stan cirint di fâti tirâ sù criptomonedis:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> spie blocade in chest sît
+       *[other] <span data-l10n-name="count">{ $count }</span> spiis blocadis in chest sît
+    }
