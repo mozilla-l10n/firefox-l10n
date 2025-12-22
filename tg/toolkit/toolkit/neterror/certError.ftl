@@ -122,6 +122,10 @@ fp-certerror-transparency-what-can-you-do-body = Эҳтимол аст, ки ҳ�
 fp-learn-more-about-secure-connection-failures = Маълумоти бештар дар бораи хатоҳои пайвасти бехатар
 fp-learn-more-about-cert-issues = Маълумоти бештар дар бораи ин намудҳои мушкилиҳои гувоҳинома
 fp-learn-more-about-time-related-errors = Маълумоти бештар дар бораи ислоҳ кардани хатоҳои марбут ба вақт
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Соати дастгоҳи шумо ба { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } гузошта шудааст. Агар ин дуруст бошад, эҳтимол, мушкилоти амният дар худи сомона мебошад. Агар ин нодуруст бошад, шумо метавонед онро дар танзимоти низоми дастгоҳи худ иваз кунед.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

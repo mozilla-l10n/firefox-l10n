@@ -178,12 +178,14 @@ fp-neterror-offline-body-title = Чунин ба назар мерасад, ки
 fp-neterror-connection-intro = Браузери «{ -brand-short-name }» бо сервер дар нишонии { $hostname } ба таври бехатар пайваст шуда наметавонад.
 fp-neterror-offline-intro = Браузери «{ -brand-short-name }» наметавонад, ки ба сервер дар нишонии <strong>{ $hostname }</strong> пайваст шавад
 fp-neterror-coop-coep-intro = Браузери «{ -brand-short-name }» ин саҳифаро бор накард, зеро ба назар мерасад, ки танзимоти амниятӣ ба саҳифаи қаблӣ мувофиқат намекунад.
+fp-neterror-http-auth-disabled-intro = Касе, ки худро дар ин сомона вонамуд мекунад, метавонад кӯшиш карда, чизҳоеро, аз қабили номи корбар, ниҳонвожа ё почтаи электронии шумо, дуздӣ кунад.
 fp-neterror-why-did-this-happen = Чаро ин ба вуҷуд омад?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Чунин ба назар мерасад, ки ин сомона нармафзори куҳнаро бо мушкилиҳои маълуми амниятӣ истифода мебарад.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Боварӣ ҳосил кунед, ки шумо аз версияи навтарини «{ -brand-short-name }» истифода мебаред. Аз меню ба Кумак > Дар бораи «{ -brand-short-name }» гузаред. Агар шумо аллакай версияи навтарини «{ -brand-short-name }»-ро истифода карда бошед, эҳтимол мушкилии техникӣ дар худи сомона вуҷуд дорад.
 fp-neterror-offline-what-can-you-do-body = Кӯшиш кунед, ки дар дастгоҳи дигар пайваст шавед. Модем ё роутери худро тафтиш кунед. Пайвастшавии «Wi-Fi»-ро қатъ карда, аз нав пайваст шавед.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Кӯшиш кунед, ки нишонии «URL»-ро ба «HTTPS» иваз намоед. Аммо, чунин ба назар мерасад, ки худи сомона дорои мушкилӣ мебошад.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Дар баъзе мавридҳо, сомонаҳо барои худ ва одамоне, ки муҳофизати махсусро бар зидди муоширати номатлуб бо сомонаҳои дигар таъмин мекунанд.
 fp-learn-more-about-https-connections = Маълумот дар бораи пайвастҳои «HTTPS»
