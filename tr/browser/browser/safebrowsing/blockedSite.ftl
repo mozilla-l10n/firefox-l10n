@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = Bu sayfa, tehlikeli bir yazılım kurma
 safeb-blocked-malware-page-short-desc = Bu sayfa, bilgisayarınızdaki kişisel bilgilerinizi çalabilecek veya silebilecek kötü amaçlı yazılımlar kurmaya çalışabilir. O yüzden { -brand-short-name } bu sayfayı engelledi.
 safeb-blocked-unwanted-page-short-desc = Bu sayfa, gezinti deneyiminizi zarara uğratacak (örn. giriş sayfanızı değiştirerek veya ziyaret ettiğiniz sitelerde daha fazla reklam göstererek) programlar kurmak üzere sizi kandırmaya çalışabilir. O yüzden { -brand-short-name } bu sayfayı engelledi.
 safeb-blocked-harmful-page-short-desc = Bu sayfa, bilgilerinizi (örn. fotoğraflar, parolalar, mesajlar ve kredi kartları) çalmayı veya silmeyi amaçlayan tehlikeli uygulamalar yüklemeye çalışabilir. O yüzden { -brand-short-name } bu sayfayı engelledi.
+safeb-blocked-addon-page-short-desc = Eklentilerinizden biri bu sayfayı açmaya çalıştığı için { -brand-short-name } bu sayfayı engelledi. Bu site, parolalarınız veya kredi kartı numaralarınız gibi bilgilerinizi çalmak için kullanılabilir.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Tavsiyeler <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> tarafından sağlanmaktadır.
