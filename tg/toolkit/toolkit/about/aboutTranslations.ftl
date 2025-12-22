@@ -4,8 +4,18 @@
 
 # The title of the about:translations page.
 about-translations-title = Тарҷумаҳои «{ -brand-short-name }»
+# The brief description of the Translations functionality on the page.
+about-translations-description = Тарҷумаҳои фаврие, ки нисбат ба махфияти шумо бо эҳтиром иҷро мешаванд.
 about-translations-learn-more-link = Маълумоти бештар
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Тарҷума дар ин дастгоҳ дастнорас аст.
+    .message = Кӯшиш кунед, ки ба дастгоҳи дигар гузаред.
 about-translations-unsupported-info-button = Маълумоти бештар
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Низом забонҳоро бор карда натавонист.
+    .message = Пайвасти интернети худро санҷед ва аз нав кӯшиш намоед.
 about-translations-language-load-error-button = Аз нав кӯшиш кардан
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
@@ -25,3 +35,7 @@ about-translations-output-placeholder =
 about-translations-select = Забонеро интихоб намоед
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = Дар ҳоли тарҷума…
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = Мубодилаи самти забонҳо
