@@ -456,6 +456,8 @@ settings-translations-subpage-download-delete-button =
     .label = Borrar
 settings-translations-subpage-download-cancel-button =
     .label = Cancelar
+settings-translations-subpage-no-sites-added =
+    .label = No se agregaron sitios
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -903,6 +905,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
     .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Mostrar sugerencias de búsqueda antes que el historial en los resultados de la barra de direcciones
+search-show-suggestions-private-windows-2 =
+    .label = Sugerencias de búsqueda en pestañas privadas
 search-suggestions-cant-show-2 =
     .message = Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -914,6 +925,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Buscador predeterminado en ventanas privadas
+search-suggestions-header-2 =
+    .label = Sugerencias de buscadores
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -999,6 +1012,12 @@ sync-signedout-description2 = Sincronice marcadores, historial, pestañas, contr
 sync-signedout-account-signin3 =
     .label = Ingresar a sincronización…
     .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Iniciar sesión en la cuenta para empezar a sincronizar
+    .accesskey = I
+sync-signedout-account-short =
+    .label = Iniciar sesión
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1039,6 +1058,16 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } no está verificada.
 sync-signedin-login-failure = Ingrese para reconectar { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -1057,6 +1086,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronización: activada
+prefs-syncing-on-2 =
+    .label = Sincronización ACTIVADA
 prefs-syncing-off = Sincronización: desactivada
 prefs-sync-turn-on-syncing =
     .label = Habilitar sincronización…
@@ -1100,6 +1131,9 @@ sync-currently-syncing-addons = Complementos
 sync-currently-syncing-settings = Preferencias
 sync-manage-options =
     .label = Administrar sincronización…
+    .accesskey = m
+sync-manage-options-2 =
+    .label = Administrar datos sincronizados
     .accesskey = m
 sync-change-options =
     .label = Cambiar…
@@ -1360,6 +1394,8 @@ autofill-payment-methods-add-button = Agregar nuevo método de pago
 payments-list-header =
     .label = Métodos de pago
 payments-list-item-label = <strong>Métodos de pago</strong>
+payments-delete-payment-prompt-title = ¿Borrar este método de pago?
+payments-delete-payment-prompt-confirm-button = Borrar
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
 payments-remove-payment-prompt-cancel-button = Cancelar
