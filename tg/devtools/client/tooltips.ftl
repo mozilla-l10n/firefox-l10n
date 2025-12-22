@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong> ба ин �
 inactive-css-column-span = <strong>{ $property }</strong> ба ин унсур таъсири фосилагузориро намерасонад, зеро ки он дар дохили дарбаргирандаи бо якчанд сутун намебошад.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи турин ё чандир намебошад.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = Хусусияти <strong>«{ $property }»</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «flex» ё «grid» намебошад ва ҳам унсури ҷойгиршавии қатъӣ намебошад.
+inactive-css-not-grid-or-absolutely-positioned-item = Хусусияти <strong>«{ $property }»</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «grid» намебошад ва ҳам унсури ҷойгиршавии қатъӣ намебошад.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи турин намебошад.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи турин намебошад.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он ҷузъи чандир намебошад.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба и�
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> барои ҷудокунии фарзунсурҳо дастгирӣ карда намешавад.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::cue» дастгирӣ карда намешавад.
+inactive-css-at-position-try-not-supported = Хусусияти <strong>{ $property }</strong> дар қоидаҳои <strong>@position-try</strong> дастгирӣ намешавад.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
