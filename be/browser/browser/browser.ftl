@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Зрабіць закладку на старонку ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Падзелены выгляд
+    .aria-label = Падзелены выгляд
 
 ## Page Action Context Menu
 
@@ -842,6 +845,9 @@ urlbar-result-menu-dont-show-market =
     .label = Не паказваць прапановы па рынку
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Дзякуй за ваш водгук. Вы больш не будзеце бачыць прапановы па рынку.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Прапановы па фондавым рынку
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Дзякуй за ваш водгук. Вы больш не будзеце бачыць гэтыя прапановы.
@@ -936,6 +942,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ярлык не выбраны, выберыце ярлык
     .tooltiptext = Ярлык не выбраны, выберыце ярлык
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Пошук па ключавых словах адключаны
+    .tooltiptext = Пошук па ключавых словах адключаны
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1613,3 +1623,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } дазволіў { $count } крыптамайнераў
     }
 trustpanel-cryptominer-tab-list-header = Гэтыя сайты спрабуюць здабываць крыптавалюту:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> трэкер заблакаваны на гэтым сайце
+        [few] <span data-l10n-name="count">{ $count }</span> трэкеры заблакаваны на гэтым сайце
+       *[many] <span data-l10n-name="count">{ $count }</span> трэкераў заблакавана на гэтым сайце
+    }
