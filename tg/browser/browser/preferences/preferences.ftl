@@ -1069,6 +1069,9 @@ sync-signedin-unverified2 =
     .label = { $email } ҳанӯз тасдиқ нашудааст
     .description = Барои тасдиқ кардани ҳисоби худ ва ба расмият даровардани он, лутфан, паёмдони почтаи электронии худро тафтиш кунед.
 sync-signedin-login-failure = Лутфан, барои аз нав пайваст кардани { $email } ворид шавед
+sync-signedin-login-failure2 =
+    .label = Шумо аз { $email } баромадед
+    .description = Барои аз нав пайваст шудан ва оғоз кардани ҳамоҳангсозии маълумоти худ, лутфан, ворид шавед.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
