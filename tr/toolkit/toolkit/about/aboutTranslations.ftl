@@ -4,6 +4,8 @@
 
 # The title of the about:translations page.
 about-translations-title = { -brand-short-name } çevirileri
+# The brief description of the Translations functionality on the page.
+about-translations-description = Gizliliğinizi koruyan anlık çeviriler.
 about-translations-learn-more-link = Daha fazla bilgi alın
 about-translations-unsupported-info-button = Daha fazla bilgi alın
 # An error message displayed when the language list fails to load.
