@@ -137,6 +137,10 @@ place-database-stats-efficiency-perc = Қобилиятнокӣ (%)
 place-database-stats-sequentiality-perc = Пайдарпайӣ (%)
 place-database-integrity = Яклухтӣ
 place-database-verify-integrity = Санҷиши яклухтӣ
+place-database-last-idle-maintenance-data = Санаи охирини нигоҳдорӣ дар реҷаи ғайрифаъол
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Санаи охирини чангкашӣ
+place-database-last-integrity-corruption-date = Санаи охирини вайроншавии яклухтӣ
 a11y-title = Қобилияти дастрасӣ
 a11y-activated = Фаъолшуда
 a11y-force-disabled = Ғайрифаъолсозии қобилияти дастрасӣ
