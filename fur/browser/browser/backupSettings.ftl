@@ -202,3 +202,4 @@ backup-error-retry = Alc al è lât strucj. Torne prove.
 
 backup-file-header = { -brand-short-name } al è pront par jessi ripristinât
 backup-file-title = Ripristine { -brand-short-name }
+backup-file-intro = Torne a navigâ e recupere ducj i tiei segnelibris, la cronologjie e chei altris dâts. <a data-l10n-name="backup-file-support-link">Plui informazions</a>
