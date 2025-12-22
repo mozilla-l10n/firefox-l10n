@@ -456,6 +456,10 @@ settings-translations-subpage-download-error = No se pudo descargar { $language 
 settings-translations-subpage-download-retry-button =
     .label = Volver a intentarlo
 # Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Usa los ajustes de tu sistema operativo para “{ $localeName }” para formatear fechas, horas, números y medidas.
