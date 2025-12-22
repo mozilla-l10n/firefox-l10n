@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Fâs il backup des direzions salvadis
 fxa-adoption-addresses-backup-subtitle = Protêç lis direzions che tu âs salvât, sincronizantlis cui tiei dispositîfs doprant la criptografie.
 fxa-adoption-credit-cards-backup-title = Fâs il backup dai tiei metodis di paiament
 fxa-adoption-credit-cards-backup-subtitle = Protêç i tiei metodis di paiament sincronizantju cui tiei dispositîfs doprant la criptografie.
+fxa-adoption-bookmarks-treatment-backup-title = Fasìn un backup dai tiei segnelibris
+fxa-adoption-bookmarks-treatment-backup-subtitle = Par proteziju, sincronize i tiei segnelibris cui tiei dispositîfs doprant la cifradure.
 fxa-adoption-primary-button-label = Regjistriti
 
 ## Protections panel
@@ -424,3 +426,10 @@ etp-strict-exceptions-infobar-button = Apliche corezions
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = No cumò
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } nol è il to navigadôr predefinît
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nol è il to navigadôr primari
+set-default-menu-message-row-layout-title = Met { -brand-short-name } come navigadôr primari
+set-default-menu-message-row-layout-title-variant = Met { -brand-short-name } come navigadôr predefinît
