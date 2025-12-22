@@ -439,6 +439,23 @@ settings-translations-subpage-download-language-option = { $language } ({ $size 
     .label = { $language } ({ $size }MB)
 settings-translations-subpage-no-languages-downloaded =
     .label = No sé descargaron idiomas
+settings-translations-subpage-no-languages-added =
+    .label = No se agregaron idiomas
+settings-translations-subpage-download-progress = Descarga en proceso…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Intentar nuevamente
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Borrar
+settings-translations-subpage-download-cancel-button =
+    .label = Cancelar
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1355,6 +1372,17 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = m
+addresses-delete-address-prompt-cancel-button = Cancelar
+autofill-addresses-add-button = Agregar nueva dirección
+autofill-addresses-manage-addresses-title =
+    .heading = Administrar direcciones y más
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1548,6 +1576,9 @@ addressbar-locbar-engines-option =
     .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
+    .accesskey = r
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Búsquedas recientes
     .accesskey = r
 addressbar-suggestions-settings = Cambiar preferencias para sugerencias de buscadores
 addressbar-locbar-showrecentsearches-option =
