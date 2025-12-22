@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Gjave { $provider }
 genai-menu-remove-sidebar =
     .label = Gjave de sbare laterâl
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Domande a { $provider }
 genai-menu-new-badge = Novitât
 genai-menu-summarize-page = Struc de pagjine
 genai-input-ask-generic =
@@ -109,6 +112,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = Chatbot IA
 genai-header-provider-menu =
     .title = Sielç un chatbot
+genai-header-settings-button =
+    .title = Impostazions chat IA
 genai-header-options-button =
     .title = Vierç menù
 genai-header-close-button =
@@ -225,9 +230,13 @@ link-preview-reading-time =
        *[other] Timp di leture { $range } minûts
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } nol pues gjenerâ la anteprime di chest colegament
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = No rivìn a visualizâ la anteprime di chest colegament
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visite il colegament
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } nol pues gjenerâ i ponts clâf par cheste pagjine web.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = No rivìn a gjenerâ i ponts clâf par cheste pagjine web.
 # Error message when something went wrong during key point generation

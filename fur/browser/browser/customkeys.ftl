@@ -25,3 +25,15 @@ customkeys-dev-performance = Prestazions
 customkeys-dev-storage = Ispetôr de archiviazion
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Acès facilitât
+customkeys-dev-profiler-toggle = Invie/ferme il profiladôr di prestazions
+customkeys-dev-profiler-capture = Cature un profîl des prestazions
+customkeys-category-navigation = Navigazion
+customkeys-nav-back = Indaûr
+customkeys-nav-forward = Indenant
+customkeys-nav-home = Pagjine iniziâl
+customkeys-nav-reload = Torne cjame
+customkeys-nav-reload-skip-cache = Torne cjame (ignore cache)
+customkeys-nav-stop = Ferme
+customkeys-caution-message = Cheste funzion e je sperimentâl e al è probabil che no funzioni tant che previodût.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = No valit

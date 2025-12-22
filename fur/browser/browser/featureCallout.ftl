@@ -149,11 +149,19 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Siere
 windows-10-eos-sync-callout-primary-advance-button-label = Sucessîf
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Novitât: fâs clic e ten fracât par visualizâ une anteprime dai colegaments
+link-preview-onboarding-callout-description = Viôt une descrizion curte, il timp di leture e altris informazions par decidi se vierzi o mancul un colegament. Funzion disponibile ancje midiant il clic diestri dal mouse.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostre i titui des schedis te sbare laterâl
 sidebar-button-callout-subtitle = Dopre il boton de sbare laterâl par slargjâle e cussì di rivâ a viodi i titui des schedis.
 sidebar-button-callout-vertical-tabs = Par visualizâ lis schedis, selezione il boton te sbare laterâl te sbare dai struments.
+sidebar-deprecation-callout-title = La gnove sbare laterâl e rivarà in curt
+sidebar-deprecation-callout-subtitle = A man a man o stin gjavant vie la version de sbare laterâl che tu stâs doprant. Prove la gnove sbare laterâl inzornade: e je plui svelte e tu puedis rivâ a un numar plui grant di imprescj.
+sidebar-deprecation-cta-button = Provile daurman
 
 ## Sidebar Vertical Tabs Strings
 
