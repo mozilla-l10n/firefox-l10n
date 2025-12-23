@@ -40,6 +40,13 @@ mr2022-onboarding-live-language-switch-to = آلشت و { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = رئڌن وا پؽش من { $appLanguage }
 onboarding-live-language-secondary-cancel-download = لقو
 
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-label-default = پؽش فرز
+
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-primary-button-label = چیا نۊ ن بنیرین
