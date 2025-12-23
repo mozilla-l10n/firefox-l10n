@@ -112,7 +112,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
         { $tabCount ->
             [one] Nałoženje źěli se z { $tabCount } rejtarikom
             [two] Nałoženja źěle se z { $tabCount } rejtarikoma
-            [few] Nałoženja źěla se z { $tabCount } rejtarikami
+            [few] Nałoženja źěle se z { $tabCount } rejtarikami
            *[other] Nałoženja źěle se z { $tabCount } rejtarikami
         }
 webrtc-indicator-menuitem-sharing-screen-with =
