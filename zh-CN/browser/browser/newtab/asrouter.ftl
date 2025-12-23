@@ -275,7 +275,7 @@ device-migration-fxa-spotlight-sync-primary-button = 开始使用
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>想将 { -brand-short-name } 设为默认 PDF 阅读器吗？</strong>使用 { -brand-short-name } 阅读和编辑电脑中的 PDF 文档。
+pdf-default-notification-message = <strong>想将 { -brand-short-name } 设为默认 PDF 阅读器吗？</strong>使用 { -brand-short-name } 阅读和编辑计算机中保存的 PDF 文档。
 pdf-default-notification-set-default-button =
     .label = 设为默认
 pdf-default-notification-decline-button =
