@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = { -brand-short-name } evitó que este sitio web te pidiera instalar software en tu equipo.
+xpinstall-prompt = { -brand-short-name }  evitó que este sitio web te pidiera instalar software en tu equipo.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = Este complemento no puede 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } no pudo ser instalado porque no es compatible con { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } infringe las políticas de Mozilla y no se puede instalar en { -brand-short-name }.
+addon-install-error-soft-blocked2 = { $addonName } está restringido y no se puede instalar en { -brand-short-name }.
 addon-install-error-blocklisted = { $addonName } no pudo ser instalado porque tiene un alto riesgo de causar problemas de seguridad.
 addon-install-error-soft-blocked = { $addonName } infringe las políticas de Mozilla y no se puede instalar en { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
