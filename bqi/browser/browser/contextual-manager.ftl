@@ -22,6 +22,8 @@ contextual-manager-passwords-export-success-button = ٱنجوم وابی
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = رزما
 contextual-manager-passwords-export-file-picker-export-button = و در کشیڌن
+contextual-manager-passwords-origin-label = وبگه اینترنتی
+contextual-manager-passwords-add-password-success-button = نشووݩ داڌن
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
 # This message gives the user the option to cancel their attempt to remove a login.
@@ -34,6 +36,8 @@ contextual-manager-passwords-edit-label =
 
 ## Password Card
 
+contextual-manager-copy-icon =
+    .alt = لف گیری
 contextual-manager-edit-login-button = آلشت
     .tooltiptext = آلشت رزم
 

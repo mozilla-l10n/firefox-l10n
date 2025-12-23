@@ -97,6 +97,8 @@ profiler-popup-capture-button =
 
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-label =
+    .label = گرافیک
 profiler-popup-presets-media-label =
     .label = وارسگر
 profiler-popup-presets-debug-label =
@@ -125,6 +127,7 @@ appmenu-developer-tools-extensions =
 
 ## Profiles panel
 
+appmenu-other-profiles = پوروفایلا دیری
 appmenu-manage-profiles =
     .label = دؽوۉداری پوروفایلا
 appmenu-create-profile =
