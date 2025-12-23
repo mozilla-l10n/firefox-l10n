@@ -14,7 +14,7 @@ about-translations-unsupported-info-message =
 about-translations-unsupported-info-button = 详细了解
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
-    .heading = 无法加载语言
+    .heading = 无法加载语言。
     .message = 请检查互联网连接，然后重试。
 about-translations-language-load-error-button = 重试
 # Placeholder text shown in the source-language text area when the user has not typed any text.
