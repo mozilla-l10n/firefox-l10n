@@ -407,7 +407,7 @@ windows-10-eos-callout-addons-title = Wopytajśo: jadnore aktualizacije, wjelike
 windows-10-eos-callout-addons-subtitle = Toś te rozšyrjenja su se wubrali, aby wam pomagali, produktiwny, šćitany a bźez wótchylenja wóstaś.
 windows-10-eos-callout-addons-primary-button = Glejśo naše wuběrki
 windows-10-eos-sync-callout-addons-title = Njezgubujśo swóje dodanki, gaž wót Windows 10 aktualizěrujośo.
-windows-10-eos-sync-callout-addons-subtitle = Synchronizěrujśo něnto, aby waše dodanki { -brand-product-name } pśecek k dispoziciji byli, samo pó změnje rěda.
+windows-10-eos-sync-callout-addons-subtitle = Synchronizěrujśo něnto, aby waše dodanki { -brand-product-name } pśecej k dispoziciji byli, samo pó změnje rěda.
 windows-10-eos-sync-callout-next-button = Dalej
 windows-10-eos-sync-callout-get-started-button = Prědne kšace
 
