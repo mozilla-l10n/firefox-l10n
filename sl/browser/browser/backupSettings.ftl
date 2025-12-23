@@ -45,7 +45,7 @@ settings-data-backup-restore-header = Obnovite podatke
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Za obnovitev podatkov uporabite varnostno kopijo { -brand-product-name }a iz druge naprave.
-settings-data-backup-scheduled-backups-off-restore-choose = Izberi datoteko varnostne kopije…
+settings-data-backup-scheduled-backups-off-restore-choose = Izberi datoteko varnostne kopije …
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
@@ -80,7 +80,7 @@ turn-on-scheduled-backups-confirm-button = Vklopi varnostno kopiranje
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Pri izbrani mapi za varnostno kopiranje je prišlo do težave. Izberite drugo mapo in poskusite znova.
-backup-error-file-system = Med varnostnim kopiranjem { -brand-short-name }a je prišlo do težave z izbrano mapo za varnostne kopije.
+backup-error-file-system = Med varnostnim kopiranjem { -brand-short-name(sklon: "rodilnik") } je prišlo do težave z izbrano mapo za varnostne kopije.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
