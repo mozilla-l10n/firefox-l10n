@@ -34,6 +34,8 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = آلشت
 newtab-menu-open-new-window = گۊشیڌن من ی نیمدری نۊ
 newtab-menu-open-new-private-window = گۊشیڌن من ی نیمدری سیخومی نۊ
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = گوزارش
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 

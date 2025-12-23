@@ -44,6 +44,7 @@ migration-list-extensions-label = وردنی یل
 
 ##
 
+migration-safari-password-import-skip-button = گوم زیڌن
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

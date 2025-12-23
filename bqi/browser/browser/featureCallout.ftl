@@ -12,8 +12,10 @@ split-dismiss-button-manage-settings-option =
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-primary-button-label = ٱووردن نشووک
+bookmarks-toolbar-callout-2a-primary-button-label = فئمیم
 
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-very-dissatisfied-2 = قلوه ن رازی
 sidebar-callout-survey-dont-use-it = و کارس نؽگروم
+unified-search-engines-callout-primary-label = فئمیم
