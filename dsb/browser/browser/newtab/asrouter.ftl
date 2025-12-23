@@ -373,15 +373,15 @@ multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } k
 multi-cta-fox-doodle-quick-reminder-subtitle = How jo krotke dopomnjeśe, až móžośo swój nejlubšy wobglědowak z fokusom na priwatnosć jano kliknjenje pśec měś.
 multi-cta-fox-doodle-privacy-focused-subtitle =
     { PLATFORM() ->
-        [macos] Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jedno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a źaržćo jen w swójom doku.
-       *[other] Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jedno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a pśipnějśo jen na swóju nadawkowu rědku.
+        [macos] Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jadno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a źaržćo jen w swójom doku.
+       *[other] Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jadno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a pśipnějśo jen na swóju nadawkowu rědku.
     }
-multi-cta-fox-doodle-msix-privacy-focused-subtitle = Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jedno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a pśipnějśo jen na swóju nadawkowu rědku a startowy meni.
+multi-cta-fox-doodle-msix-privacy-focused-subtitle = Źaržćo swój nejlubšy wobglědowak z fokusom na priwatnosć jano jadno kliknjenje pšec. Nastajśo { -brand-short-name } ako swój standardny wobglědowak za wócynjanje wótkazow a pśipnějśo jen na swóju nadawkowu rědku a startowy meni.
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Z Windows 10 skóro aktualizěrowaś?
-windows-10-eos-sync-spotlight-subtitle = Zawěsććo swóje gronidł a cytańske znamjenja, aby gótowy był, na drugi rěd pśeśěgnuś.
+windows-10-eos-sync-spotlight-subtitle = Zawěsććo swóje gronidła a cytańske znamjenja, aby gótowy był, na drugi rěd pśeśěgnuś.
 windows-10-eos-sync-spotlight-primary-label = Waš { -brand-short-name } zawěsćiś
 
 ## Windows 10 EoS Sync messages group 1 toast notification
