@@ -195,8 +195,8 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Cośo { $origin 
 
 ##
 
-webrtc-share-screen-warning = Źělśo jano wobrazowki ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy pśeglědowaś a waše priwatne daty kšadnuś.
-webrtc-share-browser-warning = Źělśo { -brand-short-name } jano ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy pśeglědowaś a waše priwatne daty kšadnuś.
+webrtc-share-screen-warning = Źělśo jano wobrazowki ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy, pśeglědowaś a waše priwatne daty kšadnuś.
+webrtc-share-browser-warning = Źělśo { -brand-short-name } jano ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy, pśeglědowaś a waše priwatne daty kšadnuś.
 webrtc-share-screen-learn-more = Dalšne informacije
 webrtc-pick-window-or-screen = Wubjeŕśo wokno abo wobrazowku
 webrtc-share-entire-screen = Ceła wobrazowka
