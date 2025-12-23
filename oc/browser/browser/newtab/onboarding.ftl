@@ -369,6 +369,7 @@ onboarding-new-horizontal-tabs-label = Onglets ennaut
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Los onglets verticals son ja aquí
 onboarding-flair-text = Novetat
+onboarding-genai-sidebar-primary-button = Causir un robòt de convèrsa
 
 ## New user onboarding checklist
 

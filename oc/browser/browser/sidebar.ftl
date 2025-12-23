@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = Robòt de convèrsa d’IA
 sidebar-options-menu-button =
     .title = Dobrir lo menú
 
@@ -62,6 +64,8 @@ sidebar-context-menu-close-remote-tab =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = Robòt de convèrsa d’IA
 sidebar-menu-synced-tabs-label =
     .label = Onglets d’autres periferics
 sidebar-menu-bookmarks-label =
