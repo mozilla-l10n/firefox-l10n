@@ -585,6 +585,16 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } 支持
+    .description = 解决问题、与社区分享想法。
+support-get-help =
+    .label = 获取帮助
+support-share-ideas =
+    .label = 分享想法和反馈
+
 ## General Section - Performance
 
 performance-title = 性能
@@ -848,12 +858,28 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = 在地址栏结果中显示搜索建议
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = 在地址栏显示的结果中，将搜索建议显示在浏览历史上方
+search-show-suggestions-private-windows-2 =
+    .label = 在隐私窗口中显示
 search-suggestions-cant-show-2 =
     .message = 由于您已经设置 { -brand-short-name } 不记录浏览历史，地址栏中将不会显示搜索建议。
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = 在结果页的地址栏中显示搜索词
+search-separate-default-engine-2 =
+    .label = 在隐私窗口中使用其他搜索引擎
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = 隐私窗口中的默认搜索引擎
+search-suggestions-header-2 =
+    .label = 搜索引擎建议
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -930,6 +956,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = 同步
+account-placeholder =
+    .label = 您尚未登录
+    .description = 登录以跨设备同步。数据将保持私密，并受加密保护。
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -938,6 +967,9 @@ sync-signedout-caption = 让您个性化的网络体验随身相伴
 sync-signedout-description2 = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与设置。
 sync-signedout-account-signin3 =
     .label = 登录同步服务…
+    .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = 登录账户以开始同步
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1003,7 +1035,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = 同步：开启
+prefs-syncing-on-2 =
+    .label = 同步：开启
 prefs-syncing-off = 同步：关闭
+prefs-syncing-off-2 =
+    .label = 同步：关闭
+    .description = 开启同步以跨设备查看书签、密码、历史记录等信息。
 prefs-sync-turn-on-syncing =
     .label = 开启同步...
     .accesskey = s
@@ -1030,6 +1067,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = 您目前与已连接的设备同步以下项目：
+sync-syncing-across-devices-heading-2 = 跨设备同步的数据
+sync-syncing-across-devices-empty-state =
+    .label = 尚未同步任何数据。
+    .description = 开始同步即可跨设备使用所有数据。
 sync-currently-syncing-bookmarks = 书签
 sync-currently-syncing-history = 历史记录
 sync-currently-syncing-tabs = 打开的标签页
