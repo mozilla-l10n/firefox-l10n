@@ -10,7 +10,7 @@ webauthn-pin-invalid-long-prompt =
         [few] Netočan PIN. Imate još { $retriesLeft } pokušaja prije nego što trajno izgubite pristup vjerodajnicama na ovom uređaju.
        *[other] Netočan PIN. Imate još { $retriesLeft } pokušaja prije nego što trajno izgubite pristup vjerodajnicama na ovom uređaju.
     }
-webauthn-pin-invalid-short-prompt = Netočan PIN. Pokušajte ponovno.
+webauthn-pin-invalid-short-prompt = Netočan PIN. Pokušaj ponovo.
 webauthn-pin-required-prompt = Upiši PIN za tvoj uređaj.
 webauthn-select-sign-result-unknown-account = Nepoznati račun
 webauthn-a-passkey-label = Koristi pristupni ključ
@@ -22,11 +22,11 @@ webauthn-specific-passkey-label = Lozinka za { $domain }
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
     { $retriesLeft ->
-        [one] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaj. Pokušajte ponovno.
-        [few] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaja. Pokušajte ponovno.
-       *[other] Provjera korisnika nije uspjela. Imate još { $retriesLeft } pokušaja. Pokušajte ponovno.
+        [one] Provjera korisnika nije uspjela. Imaš još { $retriesLeft } pokušaj. Pokušaj ponovo.
+        [few] Provjera korisnika nije uspjela. Imaš još { $retriesLeft } pokušaja. Pokušaj ponovo.
+       *[other] Provjera korisnika nije uspjela. Imaš još { $retriesLeft } pokušaja. Pokušaj ponovo.
     }
-webauthn-uv-invalid-short-prompt = Provjera korisnika nije uspjela. Pokušajte ponovno.
+webauthn-uv-invalid-short-prompt = Provjera korisnika nije uspjela. Pokušaj ponovo.
 
 ## WebAuthn prompts
 
@@ -56,7 +56,7 @@ webauthn-select-device-prompt = Više uređaja pronađeno je za { $hostname }. O
 webauthn-device-blocked-prompt = Provjera korisnika za { $hostname } nije uspjela. Nema više pokušaja i vaš je uređaj zaključan jer je pogrešan PIN unesen previše puta. Uređaj treba resetirati.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-pin-auth-blocked-prompt = Provjera korisnika za { $hostname } nije uspjela. Bilo je previše neuspjelih pokušaja zaredom i PIN autentifikacija je privremeno blokirana. Vaš uređaj treba ponovno uključiti (isključite i ponovno umetnite).
+webauthn-pin-auth-blocked-prompt = Provjera korisnika na { $hostname } nije uspjela. Bilo je previše neuspjelih pokušaja zaredom i PIN autentifikacija je privremeno blokirana. Moraš ponovo uključiti svoj uređaj (odspoji ga i ponovo ga spoji).
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-not-set-prompt = Provjera korisnika za { $hostname } nije uspjela. Možda ćete morati postaviti PIN na svom uređaju.
