@@ -92,6 +92,14 @@ sidebar-menu-open-bookmarks-tooltip = Dobrir los marcapaginas ({ $shortcut })
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-bookmarks-tooltip = Tampar los marcapaginas ({ $shortcut })
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
+sidebar-menu-open-ai-chatbot-tooltip-generic = Dobrir lo robòt de convèrsa d’IA ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Tampar lo robòt de convèrsa d’IA ({ $shortcut })
+
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =
