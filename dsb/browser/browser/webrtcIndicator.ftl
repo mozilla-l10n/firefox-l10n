@@ -165,7 +165,7 @@ webrtc-allow-share-screen-and-audio-capture = Cośo { $origin } dowóliś, na aw
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
-webrtc-allow-share-audio-capture-with-file = Cośo %toś tej lokalnej dowóliś, na awdio toś togo rejtarika słuchaś?
+webrtc-allow-share-audio-capture-with-file = Cośo toś tej lokalnej dowóliś, na awdio toś togo rejtarika słuchaś?
 webrtc-allow-share-camera-with-file = Cośo toś tej lokalnej dataji dowóliś, wašu kameru wužywaś?
 webrtc-allow-share-microphone-with-file = Cośo toś tej lokalnej dataji dowóliś, waš mikrofon wužywaś?
 webrtc-allow-share-screen-with-file = Cośo toś tej lokalnej dataji dowóliś, wašu wobrazowku wiźeś?
@@ -173,7 +173,7 @@ webrtc-allow-share-screen-with-file = Cośo toś tej lokalnej dataji dowóliś, 
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Cośo toś tej lokalnej dataji dowóliś, druge głosniki wužywaś?
 webrtc-allow-share-camera-and-microphone-with-file = Cośo toś tej lokalnej dataji dowóliś, wašu kameru a waš mikrofon wužywaś?
-webrtc-allow-share-camera-and-audio-capture-with-file = Cośo toś tej lokalnej dataji dowóliś, swóju kameru wužywaś a na awdio toś togo rejtaroka słuchaś?
+webrtc-allow-share-camera-and-audio-capture-with-file = Cośo toś tej lokalnej dataji dowóliś, swóju kameru wužywaś a na awdio toś togo rejtarika słuchaś?
 webrtc-allow-share-screen-and-microphone-with-file = Cośo toś tej lokalnej dataji dowóliś, swój mikrofon wužywaś a swóju wobrazowku wiźeś?
 webrtc-allow-share-screen-and-audio-capture-with-file = Cośo toś tej lokalnej dataji dowóliś, na awdio toś togo rejtarika słuchaś a swóju wobrazowku wiźeś?
 
