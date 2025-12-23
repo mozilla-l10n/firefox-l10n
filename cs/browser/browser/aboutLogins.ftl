@@ -337,8 +337,8 @@ about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitel
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
 about-logins-confirm-export-dialog-title2 = Poznámka k exportování hesel
 about-logins-confirm-export-dialog-message2 =
-    Při exportu jsou vaše hesla uložena do souboru s čitelným textem.
-    Po skončení používání doporučujeme soubor odstranit, aby vaše hesla nemohli vidět ostatní uživatelé tohoto zařízení.
+    Při exportu jsou vaše hesla uložena do souboru ve formátu čitelného textu.
+    Po dokončení práce s tímto souborem ho doporučujeme odstranit, aby vaše hesla nemohli vidět ostatní uživatelé tohoto zařízení.
 about-logins-confirm-export-dialog-confirm-button2 = Pokračovat v exportu
 about-logins-alert-import-title = Import byl dokončen
 about-logins-alert-import-message = Zobrazit podrobné shrnutí importu
