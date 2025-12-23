@@ -177,6 +177,7 @@ fp-neterror-offline-body-title = 您的网络连接似乎出了点问题
 
 fp-neterror-connection-intro = { -brand-short-name } 无法与 { $hostname } 的服务器创建安全连接。
 fp-neterror-offline-intro = { -brand-short-name } 无法连接到 <strong>{ $hostname }</strong> 的服务器
+fp-neterror-coop-coep-intro = { -brand-short-name } 未加载此页面，因为其安全配置与上个页面似乎不一致。
 fp-neterror-why-did-this-happen = 为什么会出现此情况？
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = 此网站似乎正在使用已知存在安全问题的旧版软件。
