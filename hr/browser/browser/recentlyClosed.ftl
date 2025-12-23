@@ -25,7 +25,7 @@ recently-closed-panel-reopen-all-windows = Ponovno otvori sve prozore
 recently-closed-undo-close-window-label =
     { $tabCount ->
         [0] { $winTitle }
-        [one] { $winTitle } (i { $tabCount } drugu karticu)
+        [one] { $winTitle } (i { $tabCount } druga kartica)
         [few] { $winTitle } (i { $tabCount } druge kartice)
        *[other] { $winTitle } (i { $tabCount } drugih kartica)
     }
