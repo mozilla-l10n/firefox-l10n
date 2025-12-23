@@ -142,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Маълум�
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Ин интихобкунанда аз <strong>:has()</strong>-и номаҳдуд истифода мебарад, ва метавонад суст кор кунад
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Ягон интихобкунандаи ҳамсатҳ пас аз «<strong>:scope</strong>» ҳеҷ гоҳ ба ягон унсур мувофиқат намекунад
