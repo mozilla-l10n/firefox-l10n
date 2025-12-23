@@ -398,6 +398,10 @@ translate-attribution = თარგმანის მომწოდებე�
 translate-exceptions =
     .label = გამონაკლისები…
     .accesskey = ნ
+settings-translations-subpage-download-delete-button =
+    .label = წაშლა
+settings-translations-subpage-download-cancel-button =
+    .label = გაუქმება
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
