@@ -278,7 +278,7 @@ device-migration-fxa-spotlight-getting-new-device-header-2 = Nowy rěd we wašom
 device-migration-fxa-spotlight-getting-new-device-body-2 = Slědujśo mało jadnorym kšacam, aby swóje cytańske znamjenja, historiju a gronidła sobu wzeł, gaž na nowem rěźe zachopinaśo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak mógu swóje daty zawěsćiś
 device-migration-fxa-spotlight-sync-header = Pśeglědujśo bźez wokomuźenja
-device-migration-fxa-spotlight-sync-body = Synchronizěrujśo wšykne waše wažne informacije z koděrowanim – na pśikład cytańske znamjenja a gronidła. Móžośo wykno tam śěgnuś, źož { -brand-product-name } wužywaśo.
+device-migration-fxa-spotlight-sync-body = Synchronizěrujśo wšykne waše wažne informacije z koděrowanim – na pśikład cytańske znamjenja a gronidła. Móžośo wšykno tam śěgnuś, źož { -brand-product-name } wužywaśo.
 device-migration-fxa-spotlight-sync-primary-button = Prědne kšace
 
 ## Set as Default PDF Reader Infobar
@@ -319,7 +319,7 @@ tail-fox-spotlight-secondary-button = Nic něnto
 
 ## Root Certificate Succession Infobar
 
-root-certificate-succession-infobar-january-message = <strong>Starše wersije { -brand-short-name } mógu snaź wót 14. januara 2025 problemy měá.</strong>
+root-certificate-succession-infobar-january-message = <strong>Starše wersije { -brand-short-name } mógu snaź wót 14. januara 2025 problemy měś.</strong>
 root-certificate-succession-infobar-march-message = <strong>Aktualizěrujśo, aby { -brand-short-name } pó 14. měrca 2025 dalej wužywał.</strong>
 root-certificate-succession-infobar-link = Cogodla musym aktualizěrowaś?
 root-certificate-succession-infobar-primary-button =
