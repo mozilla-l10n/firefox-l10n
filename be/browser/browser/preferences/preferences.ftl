@@ -415,6 +415,15 @@ settings-translations-subpage-download-languages-header =
     .label = Сцягнуць мовы
 settings-translations-subpage-download-languages-select-option =
     .label = Абраць мову
+settings-translations-subpage-download-languages-button =
+    .aria-label = Сцягнуць мову
+    .title = Сцягнуць мову
+settings-translations-subpage-download-retry-button =
+    .label = Паспрабаваць зноў
+settings-translations-subpage-download-delete-button =
+    .label = Выдаліць
+settings-translations-subpage-download-cancel-button =
+    .label = Скасаваць
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -941,6 +950,9 @@ sync-signedout-description2 = Сінхранізуйце свае закладк
 sync-signedout-account-signin3 =
     .label = Увайсці ў сінхранізацыю
     .accesskey = і
+sync-signedout-account-short =
+    .label = Увайсці
+    .accesskey = і
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -980,6 +992,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не пацвержаны.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1298,6 +1320,7 @@ autofill-payment-methods-add-button = Дадаць новы спосаб апл�
 payments-list-header =
     .label = Спосабы аплаты
 payments-list-item-label = <strong>Спосабы аплаты</strong>
+payments-delete-payment-prompt-title = Выдаліць гэты спосаб аплаты?
 payments-remove-payment-prompt-title = Выдаліць гэты спосаб аплаты?
 payments-remove-payment-prompt-confirm-button = Выдаліць
 payments-remove-payment-prompt-cancel-button = Скасаваць
