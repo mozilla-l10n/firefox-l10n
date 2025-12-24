@@ -403,6 +403,28 @@ translate-attribution = Vertalingen door <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Uitzonderingen…
     .accesskey = z
+settings-translations-subpage-language-select-option =
+    .label = Taal toevoegen
+settings-translations-subpage-language-add-button =
+    .aria-label = Taal toevoegen
+    .title = Taal toevoegen
+settings-translations-subpage-download-languages-header =
+    .label = Talen downloaden
+settings-translations-subpage-download-languages-select-option =
+    .label = Taal selecteren
+settings-translations-subpage-download-languages-button =
+    .aria-label = Taal downloaden
+    .title = Taal downloaden
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Geen talen gedownload
+settings-translations-subpage-no-languages-added =
+    .label = Geen talen toegevoegd
+settings-translations-subpage-download-progress = Download bezig…
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
