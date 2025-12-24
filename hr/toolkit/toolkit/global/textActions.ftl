@@ -68,3 +68,12 @@ text-action-search-text-box-clear =
     .title = Izbriši
 text-action-highlight-selection =
     .label = Istakni odabir
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = Kopiraj poveznicu na istaknuti tekst
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = Kopiraj čistu poveznicu na istaknuti tekst

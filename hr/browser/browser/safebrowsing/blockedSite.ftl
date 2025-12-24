@@ -63,3 +63,10 @@ safeb-blocked-harmful-page-learn-more = Saznaj više o { -brand-short-name } za�
 safeb-palm-notdeceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = d
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Zašto je ova web-stranica blokirana?</strong>
+safeb-blocked-addon-page-error-desc3-override = <strong>Što možeš učiniti po tom pitanju?</strong>

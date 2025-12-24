@@ -637,6 +637,9 @@ update-in-progress-cancel-button = &Nastavi
 
 ## Firefox support
 
+support-application-heading =
+    .label = Podrška za { -brand-short-name }
+    .description = Rješavaj probleme ili podijeli ideje sa zajednicom.
 support-get-help =
     .label = Dobij pomoć
 support-share-ideas =
@@ -913,12 +916,24 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Prikaži prijedloge za pretraživanje u rezultatima adresne trake prije povijesti pregledavanja
+search-show-suggestions-private-windows-2 =
+    .label = Prijedlozi za pretraživanje u privatnim prozorima
 search-suggestions-cant-show-2 =
     .message = Prijedlozi za pretraživanje se neće prikazati u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Prikaži pojmove pretraživanja u adresnoj traci na stranicama s rezultatima
+search-separate-default-engine-2 =
+    .label = Koristi jednu drugu standardnu tražilicu u privatnim prozorima
+    .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Zadana tražilica u privatnim prozorima
 search-suggestions-header-2 =
@@ -999,6 +1014,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinkronizacija
+account-placeholder =
+    .label = Nisi prijavljen/a.
+    .description = Prijavi se da bi tvoji podaci bili privatni, šifrirani i sinkronizirani na svim uređajima.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1088,7 +1106,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sinkroniziranje: UKLJUČENO
+prefs-syncing-on-2 =
+    .label = Sinkroniziranje je UKLJUČENO
 prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
+prefs-syncing-off-2 =
+    .label = Sinkroniziranje je ISKLJUČENO
+    .description = Uključi sinkronizaciju da možeš dohvatiti svoje zabilješke, lozinke, povijest i više na bilo kojem uređaju.
 prefs-sync-turn-on-syncing =
     .label = Uključi sinkronizaciju…
     .accesskey = s
@@ -1116,6 +1139,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ove stavke sinkroniziraš na svim svojim povezanim uređajima:
 sync-syncing-across-devices-heading-2 = Podaci su sinkronizirani na svim uređajima
+sync-syncing-across-devices-empty-state =
+    .label = Još ništa ne sinkroniziraš …
+    .description = Počni sinkronizirati da možeš pristupiti svim svojim podacima na svim svojim uređajima.
 sync-currently-syncing-bookmarks = Zabilješke
 sync-currently-syncing-history = Povijest
 sync-currently-syncing-tabs = Otvorene kartice
@@ -1129,6 +1155,9 @@ sync-currently-syncing-settings = Postavke
 sync-manage-options =
     .label = Upravljaj sinkronizacijom …
     .accesskey = U
+sync-manage-options-2 =
+    .label = Upravljaj sinkroniziranim podacima
+    .accesskey = m
 sync-change-options =
     .label = Promijeni …
     .accesskey = P
@@ -1413,6 +1442,8 @@ addresses-delete-address-prompt-title = Obrisati ovu adresu?
 addresses-delete-address-prompt-confirm-button = Obriši
 addresses-delete-address-prompt-cancel-button = Odustani
 autofill-addresses-add-button = Dodaj novu adresu
+autofill-addresses-manage-addresses-title =
+    .heading = Upravljaj adresama i još više
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1614,6 +1645,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Brze radnje
     .accesskey = B
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nedavne pretrage
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Popularni prijedlozi za pretraživanje
+    .accesskey = t
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavne pretrage
