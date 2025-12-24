@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Каб вырашыць, ці ва
 sidebar-button-callout-title = Паказваць назвы картак у бакавой панэлі
 sidebar-button-callout-subtitle = Выкарыстоўвайце кнопку бакавой панэлі, каб разгарнуць бакавую панэль, каб вы маглі бачыць загалоўкі картак.
 sidebar-button-callout-vertical-tabs = Каб паказаць карткі, абярыце кнопку бакавой панэлі на паліцы прылад.
+sidebar-deprecation-callout-title = Хутка з'явіцца абноўленая бакавая панэль
+sidebar-deprecation-callout-subtitle = Мы паступова спыняем падтрымку версіі бакавой панэлі, якую вы выкарыстоўваеце зараз. Паспрабуйце абноўленую бакавую панэль. Яна хутчэйшая, і вы атрымаеце доступ да большай колькасці інструментаў.
+sidebar-deprecation-cta-button = Паспрабаваць зараз
 
 ## Sidebar Vertical Tabs Strings
 

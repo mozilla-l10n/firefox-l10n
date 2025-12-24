@@ -398,6 +398,23 @@ translate-attribution = Пераклад <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Выключэнні…
     .accesskey = ч
+settings-translations-subpage-automatic-translation-header =
+    .label = Аўтаматычны пераклад
+settings-translations-subpage-always-translate-header =
+    .label = Заўсёды перакладаць з гэтых моў
+settings-translations-subpage-never-translate-header =
+    .label = Ніколі не перакладаць з гэтых моў
+settings-translations-subpage-never-translate-sites-header =
+    .label = Ніколі не перакладаць гэтыя сайты
+settings-translations-subpage-language-select-option =
+    .label = Дадаць мову
+settings-translations-subpage-language-add-button =
+    .aria-label = Дадаць мову
+    .title = Дадаць мову
+settings-translations-subpage-download-languages-header =
+    .label = Сцягнуць мовы
+settings-translations-subpage-download-languages-select-option =
+    .label = Абраць мову
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
