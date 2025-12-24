@@ -425,6 +425,14 @@ settings-translations-subpage-no-languages-downloaded =
 settings-translations-subpage-no-languages-added =
     .label = Geen talen toegevoegd
 settings-translations-subpage-download-progress = Download bezig…
+settings-translations-subpage-download-retry-button =
+    .label = Opnieuw proberen
+settings-translations-subpage-download-delete-button =
+    .label = Verwijderen
+settings-translations-subpage-download-cancel-button =
+    .label = Annuleren
+settings-translations-subpage-no-sites-added =
+    .label = Geen websites toegevoegd
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -982,6 +990,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Meld u aan bij uw account om te beginnen met synchroniseren
     .accesskey = a
+sync-signedout-account-short =
+    .label = Aanmelden
+    .accesskey = m
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1021,6 +1032,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } is niet geverifieerd.
 sync-signedin-login-failure = Meld u aan om { $email } opnieuw te verbinden
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
