@@ -101,7 +101,7 @@ appmenu-remote-tabs-unverified = Ваш аккаунт должен быть п�
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизировать
 appmenuitem-fxa-sign-in = Войти в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление аккаунтом
-appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-fxa-header2 = { -fxaccount-brand-name(case: "nominative_uppercase") }
 appmenu-account-header = Аккаунт
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,

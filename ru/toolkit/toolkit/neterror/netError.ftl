@@ -65,7 +65,7 @@ neterror-dns-not-found-offline-hint-reconnect = Отключитесь и сно
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } не может защитить ваш запрос адреса этого сайта через наш доверенный разрешитель имен DNS. Вот причина:
-neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } не может защитить ваш запрос адреса этого сайта через нашего защищенного поставщика DNS. Вот почему:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } не может защитить ваш запрос адреса этого сайта через нашего защищённого поставщика DNS. Вот почему:
 neterror-dns-not-found-trr-third-party-warning2 = Вы можете продолжить работу с разрешителем имён DNS по умолчанию. Однако третья сторона может увидеть, какие сайты вы посещаете.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не удалось подключиться к { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Подключение к { $trrDomain } заняло больше времени, чем ожидалось.

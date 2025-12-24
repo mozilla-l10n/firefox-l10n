@@ -120,7 +120,7 @@ permissions-exceptions-saved-logins-desc = Логины для следующи�
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Исключения – сохраненные пароли
+    .title = Исключения — сохранённые пароли
     .style = { permissions-window2.style }
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } не сохраняет пароли для перечисленных здесь сайтов.
 

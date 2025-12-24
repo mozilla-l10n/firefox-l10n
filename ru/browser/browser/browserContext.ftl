@@ -75,8 +75,8 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
+    .label = { -fxaccount-brand-name(case: "nominative_uppercase") }
+    .tooltiptext = { -fxaccount-brand-name(case: "nominative_uppercase") }
 
 ## Account toolbar Button
 
@@ -307,7 +307,7 @@ main-context-menu-use-saved-login =
     .accesskey = й
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
-    .label = Использовать сохраненный пароль
+    .label = Использовать сохранённый пароль
     .accesskey = н
 
 ##
@@ -316,7 +316,7 @@ main-context-menu-use-relay-mask =
     .label = Использовать псевдоним эл. почты { -relay-brand-short-name }
     .accesskey = н
 main-context-menu-suggest-strong-password =
-    .label = Предложить надежный пароль…
+    .label = Предложить надёжный пароль…
     .accesskey = ж
 main-context-menu-manage-logins2 =
     .label = Управление логинами

@@ -42,7 +42,7 @@ policy-DisableDefaultBrowserAgent = Не позволяет агенту бра�
 policy-DisableDeveloperTools = Блокирует доступ к инструментам разработчика.
 policy-DisableEncryptedClientHello = Отключает использование функции TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Отключает команды отправки отзывов в меню Справка («Отправить отзыв...» и «Сообщить о поддельном сайте...»).
-policy-DisableFirefoxAccounts = Отключает службы, основанные на { -fxaccount-brand-name(case: "prepositional") }, включая Синхронизацию.
+policy-DisableFirefoxAccounts = Отключает службы, основанные на { -fxaccount-brand-name(case: "prepositional") }, включая синхронизацию.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Отключает службы на основе аккаунтов, включая синхронизацию.
 # Firefox Screenshots is the name of the feature, and should not be translated.

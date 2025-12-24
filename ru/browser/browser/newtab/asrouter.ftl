@@ -64,7 +64,7 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизируйте свои закладки, где бы вы ни находились.
-cfr-doorhanger-bookmark-fxa-body = Отличная находка! Не оставайтесь без этой закладки на своих мобильных устройствах. Создайте { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Отличная находка! Не оставайтесь без этой закладки на своих мобильных устройствах. Создайте { -fxaccount-brand-name(case: "nominative") }.
 cfr-doorhanger-bookmark-fxa-body-2 = Отличная находка! Не оставайтесь без этой закладки на своих мобильных устройствах. Начните с аккаунта.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизировать закладки сейчас…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -134,7 +134,7 @@ cfr-doorhanger-video-support-primary-button = Обновить сейчас
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Похоже, что вы используете общедоступный Wi-Fi
-spotlight-public-wifi-vpn-body = Чтобы скрыть свое местоположение и активность в Интернете, рассмотрите возможность использования виртуальной частной сети (VPN). Это поможет защитить вас при работе в Интернете в общественных местах, таких как аэропорты и кафе.
+spotlight-public-wifi-vpn-body = Чтобы скрыть своё местоположение и активность в Интернете, рассмотрите возможность использования виртуальной частной сети (VPN). Это поможет защитить вас при работе в Интернете в общественных местах, таких как аэропорты и кафе.
 spotlight-public-wifi-vpn-primary-button = Сохраняйте приватность с { -mozilla-vpn-brand-name }
     .accesskey = п
 spotlight-public-wifi-vpn-link = Не сейчас
@@ -167,7 +167,7 @@ spotlight-pin-secondary-button = Не сейчас
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = Новый { -brand-short-name }. Более приватный. Меньше трекеров. Никаких компромиссов.
-mr2022-background-update-toast-text = Попробуйте новейшую версию { -brand-short-name } прямо сейчас с нашей самой надежной защитой от отслеживания.
+mr2022-background-update-toast-text = Попробуйте новейшую версию { -brand-short-name } прямо сейчас с нашей самой надёжной защитой от отслеживания.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2

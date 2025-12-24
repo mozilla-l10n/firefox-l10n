@@ -180,7 +180,7 @@ preferences-profiles-settings-button =
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
     .label = Копировать существующий профиль
-    .description = В новом профиле будут скопированы ваши настройки, дополнения, история и сохраненные данные, такие как закладки и пароли, но не ваш аккаунт или информация синхронизации.
+    .description = В новом профиле будут скопированы ваши настройки, дополнения, история и сохранённые данные, такие как закладки и пароли, но не ваш аккаунт или информация синхронизации.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -1288,10 +1288,10 @@ forms-exceptions =
     .label = Исключения…
     .accesskey = ю
 forms-generate-passwords =
-    .label = Предлагать и генерировать надежные пароли
+    .label = Предлагать и генерировать надёжные пароли
     .accesskey = н
 forms-suggest-passwords =
-    .label = Предлагать надежные пароли
+    .label = Предлагать надёжные пароли
     .accesskey = ы
 forms-breach-alerts =
     .label = Показывать уведомления о паролях для взломанных сайтов
@@ -1393,7 +1393,7 @@ autofill-payment-methods-checkbox-message = Сохранять и заполня
     .accesskey = ь
 autofill-payment-methods-checkbox-submessage = Включая кредитные и дебетовые карты
     .accesskey = ш
-autofill-saved-payment-methods-button = Сохраненные способы оплаты
+autofill-saved-payment-methods-button = Сохранённые способы оплаты
     .accesskey = м
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Требовать вход на устройстве для заполнения и управления способами оплаты

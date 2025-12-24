@@ -64,7 +64,7 @@ experimental-features-fx-web-apps-description = Открывайте сайты,
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Списки в { -firefox-home-brand-name }
-experimental-features-newtab-widget-lists-description = Всегда помните о своем списке дел, когда будете открывать новую вкладку. От упаковочных листов до списков покупок, составляйте свои планы в { -brand-product-name }. <a data-l10n-name="connect">Поделитесь отзывом</a>
+experimental-features-newtab-widget-lists-description = Всегда помните о своём списке дел, когда будете открывать новую вкладку. От упаковочных листов до списков покупок, составляйте свои планы в { -brand-product-name }. <a data-l10n-name="connect">Поделитесь отзывом</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Таймер в { -firefox-home-brand-name }

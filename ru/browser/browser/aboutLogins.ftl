@@ -505,6 +505,24 @@ about-logins-import-report-no-change =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логина</div> <div data-l10n-name="not-imported">(не импортировано)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логинов</div> <div data-l10n-name="not-imported">(не импортировано)</div>
     }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новый пароль добавлен</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых пароля добавлено</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых паролей добавлено</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">существующая запись обновлена</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">существующие записи обновлены</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">существующих записей обновлены</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющаяся запись</div> <div data-l10n-name="not-imported">(не импортирована)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющиеся записи</div> <div data-l10n-name="not-imported">(не импортированы)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющиеся записи</div> <div data-l10n-name="not-imported">(не импортированы)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибка</div> <div data-l10n-name="not-imported">(не импортировано)</div>

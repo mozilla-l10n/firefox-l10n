@@ -359,7 +359,7 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } прик
 onboarding-gratitude-security-and-privacy-subtitle = Благодарим вас за использование { -brand-short-name }, поддерживаемого Mozilla Foundation. При вашей поддержке мы работаем над тем, чтобы сделать Интернет безопаснее и доступнее для всех.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Синхронизируйте свои данные между устройствами
-onboarding-sign-up-description = Зарегистрируйте аккаунт, и вся ваша важная информация — пароли, закладки и многое другое — будет надежно храниться и будет доступна после входа в систему на любом устройстве.
+onboarding-sign-up-description = Зарегистрируйте аккаунт, и вся ваша важная информация — пароли, закладки и многое другое — будет надёжно храниться и будет доступна после входа в систему на любом устройстве.
 onboarding-sign-up-button = Зарегистрироваться или войти
 onboarding-sign-up-secondary-button = Начать веб-сёрфинг
 
@@ -553,7 +553,7 @@ restored-from-backup-success-with-checklist-primary-button = Сохранить 
 restored-from-backup-success-with-checklist-secondary-button = Пропустить этот шаг
 restored-from-backup-success-no-checklist-primary-button = Продолжить
 restored-from-backup-error-title = Хм, с вашим файлом резервной копии возникла проблема.
-restored-from-backup-error-subtitle = Если у вас есть другой файл резервной копии { -brand-short-name }, попробуйте восстановить из него. <a data-l10n-name="restore-problems">Все ещё есть проблемы?</a>
+restored-from-backup-error-subtitle = Если у вас есть другой файл резервной копии { -brand-short-name }, попробуйте восстановить из него. <a data-l10n-name="restore-problems">Всё ещё есть проблемы?</a>
 restored-from-backup-error-primary-button = Закрыть
 
 ## Onboarding Personalization Screen

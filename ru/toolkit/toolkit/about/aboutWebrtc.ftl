@@ -201,8 +201,8 @@ about-webrtc-user-modified-configuration-heading = Пользователь из
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
-about-webrtc-user-modified-configuration-show-msg = Показать измененную пользователем конфигурацию
-about-webrtc-user-modified-configuration-hide-msg = Скрыть измененную пользователем конфигурацию
+about-webrtc-user-modified-configuration-show-msg = Показать изменённую пользователем конфигурацию
+about-webrtc-user-modified-configuration-hide-msg = Скрыть изменённую пользователем конфигурацию
 
 ##
 
