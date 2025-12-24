@@ -60,6 +60,7 @@ pane-experimental-description2 = La modifiche des impostazions di configurazion 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Prove lis nestris funzions sperimentâls. A son in fase di svilup e in continue evoluzion, par chest al podarès vignî intacât il funzionament di { -brand-short-name }. O ricevìn informazions su la tô utilizazion di chestis funzions dome se tu âs ativât l’inviament di <a data-l10n-name="data-collection">dâts tecnics e di interazion</a>.
 pane-experimental-description3 = Prove lis nestris funzions sperimentâls! A son in disvilup e in continue evoluzion, chest al podarès lâ a tocjâ il mût di funzionâ di { -brand-short-name }.
 pane-experimental-reset =
     .label = Ripristine predefinîts
@@ -113,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Par ativâ la estension va su <img data-l10n-name="addons-icon"/>Components adizionâi tal <img data-l10n-name="menu-icon"/>menù.
+extension-controlled-enable-2 = Par tornâ a ativâ cheste estension, va su <a data-l10n-name="addons-link">Estensions e temis</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controle cualchi impostazion te pagjine iniziâl.
 
 ## Preferences UI Search Results
 
@@ -150,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Vise cuant che tu jessis dal navigadôr
 disable-extension =
     .label = Disative estension
+preferences-data-migration-group =
+    .label = Impuarte dâts dal navigadôr
+    .description = Puarte achì di un altri navigadôr i tiei segnelibris, lis passwords, la cronologjie, lis estensions e i dâts di compilazion dai formularis.
 preferences-data-migration-header = Impuarte dâts dal navigadôr
 preferences-data-migration-description = Impuarte segnelibris, passwords, cronologjie e i dâts pe compilazion automatiche dai formularis in { -brand-short-name }.
 preferences-data-migration-button =
