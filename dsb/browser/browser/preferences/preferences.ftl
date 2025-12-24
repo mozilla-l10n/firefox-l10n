@@ -1529,7 +1529,7 @@ history-clear-button =
 sitedata-header = Cookieje a sedłowe daty
 sitedata-label =
     .aria-label = { sitedata-header }
-sitedata-total-size-calculating = Wjelikosć sedłowych datow a purfowaka se wulicijo…
+sitedata-total-size-calculating = Wjelikosć sedłowych datow a pufrowaka se wulicujo…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
