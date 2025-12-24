@@ -412,9 +412,29 @@ settings-translations-header =
     .description = Prevedi stranice i odabrani tekst. Radi zaštite tvoje privatnosti, prijevodi ostaju na tvojem uređaju.
 settings-translations-offer-to-translate-label =
     .label = Ponudi prevođenje potpune stranice
+settings-translations-more-settings-button =
+    .label = Više postavki prevođenja
+    .description = Upravljaj postavkama jezika, web-stranica i izvanmrežnog prevođenja.
+settings-translations-subpage-header =
+    .heading = Više postavki prevođenja
 settings-translations-subpage-speed-up-translation-header =
     .label = Ubrzaj prijevode
     .description = Preuzmi potpune jezike za brže prijevode i izvanmrežno prevođenje.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatsko prevođenje
+settings-translations-subpage-always-translate-header =
+    .label = Uvijek prevodi ove jezike
+settings-translations-subpage-never-translate-header =
+    .label = Nikada ne prevodi ove jezike
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nikada ne prevodi ove web-stranice
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Za dodavanje web-stranice, otvori <img data-l10n-name="translations-icon"/> ploču za prevođenje, odaberi <img data-l10n-name="settings-icon"/> postavke prevođenja i odaberi „Nikada ne prevodi ovu web-stranicu”
+settings-translations-subpage-language-select-option =
+    .label = Dodaj jezik
+settings-translations-subpage-language-add-button =
+    .aria-label = Dodaj jezik
+    .title = Dodaj jezik
 settings-translations-subpage-download-languages-header =
     .label = Preuzmi jezike
 settings-translations-subpage-download-languages-select-option =
@@ -422,6 +442,26 @@ settings-translations-subpage-download-languages-select-option =
 settings-translations-subpage-download-languages-button =
     .aria-label = Preuzmi jezik
     .title = Preuzmi jezik
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nijedan jezik nije preuzet
+settings-translations-subpage-no-languages-added =
+    .label = Nijedan jezik nije dodan
+settings-translations-subpage-download-progress = Preuzimanje u tijeku …
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Nije bilo moguće preuzeti { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Pokušaj ponovo
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Izbrisati { $language } ({ $size } MB)?
 settings-translations-subpage-download-delete-button =
     .label = Obriši
 settings-translations-subpage-download-cancel-button =
