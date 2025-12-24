@@ -55,7 +55,7 @@ login-list-count =
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [one] { $count } из { $total } логинов
+        [one] { $count } из { $total } логина
         [few] { $count } из { $total } логинов
         [many] { $count } из { $total } логинов
        *[other] { $count } из { $total } логинов
@@ -111,7 +111,7 @@ about-logins-list-section-week = За последние 7 дней
 about-logins-login-intro-heading-logged-out2 = Ищете сохранённые логины? Включите синхронизацию или импортируйте их.
 about-logins-login-intro-heading-logged-in = Синхронизированных логинов не найдено.
 login-intro-description = Если вы сохранили ваши логины в { -brand-product-name } на другом устройстве, то вот как получить к ним доступ здесь:
-login-intro-instructions-fxa = Создайте или войдите в ваш { -fxaccount-brand-name } на устройстве, где сохранены ваши логины.
+login-intro-instructions-fxa = Создайте или войдите в ваш { -fxaccount-brand-name(case: "nominative") } на устройстве, где сохранены ваши логины.
 about-logins-login-intro-heading-message = Сохраняйте свои пароли в безопасном месте
 login-intro-description2 = Все пароли, которые вы сохраняете в { -brand-product-name }, зашифрованы. Кроме того, мы следим за утечками и сообщаем вам, если они вас касаются. <a data-l10n-name="breach-alert-link">Подробнее</a>
 login-intro-instructions-fxa2 = Создайте или войдите в ваш аккаунт на устройстве, где сохранены ваши логины.
@@ -504,24 +504,6 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортирован)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логина</div> <div data-l10n-name="not-imported">(не импортировано)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логинов</div> <div data-l10n-name="not-imported">(не импортировано)</div>
-    }
-about-logins-import-report-added2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавлен новый пароль</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавлены новые пароли</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавлены новые пароли</div>
-    }
-about-logins-import-report-modified2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновлена существующая запись</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновлены существующие записи</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновлены существующие записи</div>
-    }
-about-logins-import-report-no-change2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющаяся запись</div> <div data-l10n-name="not-imported">(не импортирована)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported">(не импортированы)</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported">(не импортированы)</div>
     }
 about-logins-import-report-error =
     { $count ->
