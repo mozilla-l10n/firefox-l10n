@@ -177,6 +177,10 @@ preferences-manage-profiles-button =
     .label = Gjestìs profîi
 preferences-profiles-settings-button =
     .label = Impostazions
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copie un profîl esistent
+    .description = Il gnûf profîl al copiarà lis impostazions, i components adizionâi, la cronologjie e i dâts salvâts come i segnelibris e lis passwords — ma no il to account o lis informazions di sincronizazion.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -204,6 +208,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Vierç i colegaments in schedin invezit che in gnûfs barcons
     .accesskey = b
+open-external-link-next-to-active-tab =
+    .label = Vierç i colegaments di altris aplicazions doncje de schede ative
 ask-on-close-multiple-tabs =
     .label = Domande prime di sierâ plui schedis
     .accesskey = m
@@ -322,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = Lis tôs impostazions di control dal contrast a stan sostituint l'aspiet dai sîts web.
 preferences-web-appearance-link =
     .label = Gjestìs i temis di { -brand-short-name } in Estensions e temis
+preferences-contrast-control-group =
+    .label = Contrast tai sîts web
+    .description = I sîts web a doprin une varietât di colôrs pal prin plan e pal sotfont. Par vê un contrast coerent, tu puedis doprâ i stes colôrs su ducj i sîts web.
 preferences-contrast-control-radio-group =
     .label = Sostituìs colôrs
 # This can appear when using windows HCM or "Override colors: always" without
@@ -394,6 +403,28 @@ translate-attribution = Traduzions di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ecezions…
     .accesskey = z
+settings-translations-header =
+    .label = Traduzions
+    .aria-label = Traduzions
+    .description = Volte lis pagjinis o il test selezionât. Par protezi la tô riservatece, lis traduzions a restin sul to dispositîf.
+settings-translations-offer-to-translate-label =
+    .label = Da une traduzion di dute la pagjine
+settings-translations-more-settings-button =
+    .label = Altris impostazions di traduzion
+    .description = Stabilìs preferencis pes lenghis, sîts web e traduzions fûr rêt.
+settings-translations-subpage-header =
+    .heading = Altris impostazions di traduzion
+settings-translations-subpage-speed-up-translation-header =
+    .label = Sveltìs la traduzion
+    .description = Discjame lis lenghis interiis par vê traduzions plui sveltis e par voltâ fûr rêt.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traduzion automatiche
+settings-translations-subpage-always-translate-header =
+    .label = Volte simpri chestis lenghis
+settings-translations-subpage-never-translate-header =
+    .label = No ta voltâ mai chestis lenghis
+settings-translations-subpage-never-translate-sites-header =
+    .label = No sta voltâ mai chescj sîts
 settings-translations-subpage-language-select-option =
     .label = Zonte lenghe
 settings-translations-subpage-language-add-button =
