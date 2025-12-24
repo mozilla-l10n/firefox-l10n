@@ -420,11 +420,13 @@ settings-translations-subpage-speed-up-translation-header =
 settings-translations-subpage-automatic-translation-header =
     .label = Traduzion automatiche
 settings-translations-subpage-always-translate-header =
-    .label = Volte simpri chestis lenghis
+    .label = Tradûs simpri chestis lenghis
 settings-translations-subpage-never-translate-header =
-    .label = No ta voltâ mai chestis lenghis
+    .label = No ta tradusi mai chestis lenghis
 settings-translations-subpage-never-translate-sites-header =
-    .label = No sta voltâ mai chescj sîts
+    .label = No sta tradusi mai chescj sîts
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Par zontâ un sît, vierç il panel di traduzion <img data-l10n-name="translations-icon"/>, selezione lis <img data-l10n-name="settings-icon"/>impostazions di traduzion e dopo sielç “No sta tradusi mai chest sît”
 settings-translations-subpage-language-select-option =
     .label = Zonte lenghe
 settings-translations-subpage-language-add-button =
@@ -632,6 +634,9 @@ update-in-progress-cancel-button = &Continue
 
 ## Firefox support
 
+support-application-heading =
+    .label = Supuart par { -brand-short-name }
+    .description = Risolf problemis o condivît ideis cu la comunitât.
 support-get-help =
     .label = Oten jutori
 support-share-ideas =
