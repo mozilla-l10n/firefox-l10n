@@ -331,6 +331,11 @@ preferences-web-appearance-override-warning3 =
     .message = Tvoje postavke kontrole kontrasta poništavaju izgled web stranice.
 preferences-web-appearance-link =
     .label = Upravljaj temama za { -brand-short-name } u odjeljku Dodaci i teme
+preferences-contrast-control-group =
+    .label = Kontrast web-stranica
+    .description = Web-stranice koriste mnoštvo prednjih i pozadinskih boja. Za konzistentni kontrast, možeš koristiti iste boje na više web-stranica.
+preferences-contrast-control-radio-group =
+    .label = Nadjačaj boje
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
@@ -401,6 +406,12 @@ translate-attribution = Preveli <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Iznimke…
     .accesskey = e
+settings-translations-header =
+    .label = Prijevodi
+    .aria-label = Prijevodi
+    .description = Prevedi stranice i odabrani tekst. Radi zaštite tvoje privatnosti, prijevodi ostaju na tvojem uređaju.
+settings-translations-offer-to-translate-label =
+    .label = Ponudi prevođenje potpune stranice
 settings-translations-subpage-speed-up-translation-header =
     .label = Ubrzaj prijevode
     .description = Preuzmi potpune jezike za brže prijevode i izvanmrežno prevođenje.
