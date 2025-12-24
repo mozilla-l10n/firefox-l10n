@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = La configuración de control de contraste está cambiando la apariencia del sitio web.
 preferences-web-appearance-link =
     .label = Administrar temas de { -brand-short-name } en Extensiones y temas
+preferences-contrast-control-radio-group =
+    .label = Reemplazar colores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = La selección de colores cambia la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
@@ -420,6 +422,8 @@ settings-translations-subpage-never-translate-header =
     .label = Nunca traducir estos idiomas
 settings-translations-subpage-never-translate-sites-header =
     .label = Nunca traducir estos sitios
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Para agregar un sitio, abra el <img data-l10n-name="translations-icon"/> panel de traducción, seleccione la <img data-l10n-name="settings-icon"/> configuración de traducción y luego elija “Nunca traducir sitio”
 settings-translations-subpage-language-select-option =
     .label = Agregar idioma
 settings-translations-subpage-language-add-button =
