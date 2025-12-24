@@ -1367,8 +1367,8 @@ firefox-relay-offer-why-to-use-relay = Naše sigurne i jednostavne maske štite 
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Sve poruke e-pošte poslane na maskiranu e-poštu će biti proslijeđene na <strong>{ $useremail }</strong> (ukoliko odlučite da ih nećete blokirati).
-firefox-relay-offer-legal-notice = Klikom na „Koristi masku e-mail adrese” prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
-firefox-relay-offer-legal-notice-1 = Registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">politiku privatnosti</label>.
+firefox-relay-offer-legal-notice = Klikom na „Koristi masku e-mail adrese” prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">napomene o privatnosti</label>.
+firefox-relay-offer-legal-notice-1 = Registracijom i stvaranjem maske e-mail adrese prihvaćaš <label data-l10n-name="tos-url">uvjete usluge</label> i <label data-l10n-name="privacy-url">napomene o privatnosti</label>.
 
 ## Add-on Pop-up Notifications
 

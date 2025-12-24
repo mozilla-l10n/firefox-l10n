@@ -191,7 +191,7 @@ sidebar-customization-callout-2-subtitle = Dodaj i ukloni alate. Postavi kartice
 
 sidebar-callout-survey-title = Pomogni poboljšati { -brand-short-name }
 sidebar-callout-survey-satisfaction-question = Koliko si zadovoljan/na s bočnom trakom u { -brand-short-name(case: "loc") }?
-sidebar-callout-survey-privacy-notice-link = Napomena o privatnosti
+sidebar-callout-survey-privacy-notice-link = Napomene o privatnosti
 sidebar-callout-survey-very-satisfied = Vrlo zadovoljan/na
 sidebar-callout-survey-satisfied = Zadovoljan/na
 sidebar-callout-survey-neutral = Neutralan/na

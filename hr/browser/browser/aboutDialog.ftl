@@ -52,7 +52,7 @@ community-2 = { -brand-short-name } je dizajnirala <label data-l10n-name="commun
 helpus = Želiš pomoći? <label data-l10n-name="helpus-donateLink">Doniraj</label> ili <label data-l10n-name="helpus-getInvolvedLink">uključi se u rad!</label>
 bottomLinks-license = Informacije o licenciranju
 bottom-links-terms = Uvjeti korištenja
-bottom-links-privacy = Napomena o privatnosti
+bottom-links-privacy = Napomene o privatnosti
 bottomLinks-rights = Korisnička prava
 bottomLinks-privacy = Politika privatnosti
 # Example of resulting string: 66.0.1 (64-bit)
