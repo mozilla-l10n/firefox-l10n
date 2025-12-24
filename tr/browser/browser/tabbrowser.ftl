@@ -301,6 +301,14 @@ tab-context-move-split-view-to-new-group =
            *[other] Ayrık görünümleri yeni gruba ekle
         }
     .accesskey = u
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ayrık görünümü gruba ekle
+            [one] Ayrık görünümü gruba ekle
+           *[other] Ayrık görünümleri gruba ekle
+        }
+    .accesskey = ö
 tab-context-move-tab-to-group-saved-groups =
     .label = Kapalı gruplar
 tab-group-editor-action-new-tab =
