@@ -1046,6 +1046,16 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } er ikke blevet bekræftet.
 sync-signedin-login-failure = Log ind for at synkronisere { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -1402,6 +1412,13 @@ addresses-delete-address-prompt-cancel-button = Annuller
 autofill-addresses-add-button = Tilføj ny adresse
 autofill-addresses-manage-addresses-title =
     .heading = Håndter adresser med mere
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1596,6 +1613,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Populære søgeforslag
+    .accesskey = P
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis seneste søgninger

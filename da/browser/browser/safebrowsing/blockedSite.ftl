@@ -67,6 +67,7 @@ safeb-palm-notdeceptive =
 ##  $addonName (string) - the name of the harmful add-on
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-addon-page-error-desc-override = <strong>Hvorfor blev dette websted blokeret?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> kan være knyttet til vildledende og skadelige aktiviteter.
 safeb-blocked-addon-page-error-desc3-override = <strong>Hvad kan du gøre?</strong>
 safeb-blocked-addon-page-error-desc4-override = For at forhindre at dette sker igen, kan du fjerne eller deaktivere <strong>{ $addonName }</strong> på about:addons.
