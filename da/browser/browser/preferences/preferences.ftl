@@ -403,6 +403,52 @@ translate-attribution = Oversættelser af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undtagelser…
     .accesskey = n
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatisk oversættelse
+settings-translations-subpage-always-translate-header =
+    .label = Oversæt altid disse sprog
+settings-translations-subpage-never-translate-header =
+    .label = Oversæt aldrig disse sprog
+settings-translations-subpage-never-translate-sites-header =
+    .label = Oversæt aldrig disse websteder
+settings-translations-subpage-language-select-option =
+    .label = Tilføj sprog
+settings-translations-subpage-language-add-button =
+    .aria-label = Tilføj sprog
+    .title = Tilføj sprog
+settings-translations-subpage-download-languages-header =
+    .label = Hent sprog
+settings-translations-subpage-download-languages-select-option =
+    .label = Vælg sprog
+settings-translations-subpage-download-languages-button =
+    .aria-label = Hent sprog
+    .title = Hent sprog
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ingen sprog hentet
+settings-translations-subpage-no-languages-added =
+    .label = Ingen sprog tilføjet
+settings-translations-subpage-download-progress = Filhentning i gang…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Kunne ikke hente { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Prøv igen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Slet { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Slet
+settings-translations-subpage-download-cancel-button =
+    .label = Annuller
+settings-translations-subpage-no-sites-added =
+    .label = Ingen websteder tilføjet
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
