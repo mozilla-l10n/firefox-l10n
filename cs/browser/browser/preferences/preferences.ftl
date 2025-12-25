@@ -1034,6 +1034,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
+search-show-suggestions-private-windows-2 =
+    .label = Návrhy vyhledávání v anonymních oknech
 search-suggestions-cant-show-2 =
     .message =
         { -brand-short-name.case-status ->
@@ -1138,6 +1140,9 @@ sync-signedout-description2 = Synchronizujte své záložky, historii, panely, h
 sync-signedout-account-signin3 =
     .label = Přihlásit se k synchronizaci…
     .accesskey = i
+sync-signedout-account-short =
+    .label = Přihlásit se
+    .accesskey = P
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1196,6 +1201,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronizace zapnuta
+prefs-syncing-on-2 =
+    .label = Synchronizace je zapnuta
 prefs-syncing-off = Synchronizace vypnuta
 prefs-sync-turn-on-syncing =
     .label = Zapnout synchronizaci…
@@ -1236,6 +1243,9 @@ sync-currently-syncing-addons = Doplňky
 sync-currently-syncing-settings = Nastavení
 sync-manage-options =
     .label = Spravovat synchronizaci…
+    .accesskey = S
+sync-manage-options-2 =
+    .label = Spravovat synchronizovaná data
     .accesskey = S
 sync-change-options =
     .label = Změnit…

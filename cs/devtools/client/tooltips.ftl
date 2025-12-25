@@ -86,6 +86,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Zkuste přidat <strong>di
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Zkuste přidat buď <strong>column-count</strong> nebo <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Zkuste přidat <strong>column-count</strong> nebo <strong>column-width</strong> k jednomu z jejich nadřazených prvků. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Zkuste přidat <strong>position:absolute</strong> k prvku nebo <strong>display:grid</strong> či <strong>display:inline-grid</strong> k rodiči prvku. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku. { learn-more }
 inactive-css-not-grid-item-fix-2 = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong> k rodiči tohoto prvku. { learn-more }
 inactive-css-not-grid-container-fix = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong>. { learn-more }
