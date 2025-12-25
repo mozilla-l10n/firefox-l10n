@@ -218,6 +218,10 @@ certerror-coep-learn-more = Zjistit více o Cross Origin Embedder Policies (COEP
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Zdá se, že došlo k problému s připojením k internetu
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

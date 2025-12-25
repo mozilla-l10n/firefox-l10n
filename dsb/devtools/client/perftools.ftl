@@ -107,11 +107,11 @@ perftools-thread-jvm-gecko =
 perftools-thread-jvm-nimbus =
     .title = Głowne nitki za SDK eksperimentow Nimbus
 perftools-thread-jvm-default-dispatcher =
-    .title = Standardny dispatcher za biblioteku korutinow  Kotlin
+    .title = Standardny dispatcher za biblioteku korutinow Kotlin
 perftools-thread-jvm-glean =
     .title = Głowne nitki za SDK telemetrije Glean
 perftools-thread-jvm-arch-disk-io =
-    .title = Dispatcher IO za biblioteku korutinow  Kotlin
+    .title = Dispatcher IO za biblioteku korutinow Kotlin
 perftools-thread-jvm-pool =
     .title = Nitki napórane w kupce nitkow bźez mjenja
 
