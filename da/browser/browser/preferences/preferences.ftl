@@ -410,6 +410,9 @@ settings-translations-more-settings-button =
     .description = Håndter indstillinger for sprog, websteder og offline oversættelse.
 settings-translations-subpage-header =
     .heading = Flere indstillinger for oversættelse
+settings-translations-subpage-speed-up-translation-header =
+    .label = Hurtigere oversættelse
+    .description = Hent komplette sprog for at gøre oversættelse hurtigere og oversætte offline.
 settings-translations-subpage-automatic-translation-header =
     .label = Automatisk oversættelse
 settings-translations-subpage-always-translate-header =
@@ -1001,6 +1004,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-placeholder =
+    .label = Du er ikke logget ind
+    .description = Log ind for at synkronisere dine data sikkert og krypteret på tværs af enheder
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1012,6 +1018,9 @@ sync-signedout-account-signin3 =
     .accesskey = L
 sync-signedout-account-signin-4 =
     .label = Log in på din konto for at synkronisere
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Log ind
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1051,7 +1060,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } er ikke blevet bekræftet.
+sync-signedin-unverified2 =
+    .label = { $email } er ikke bekræftet endnu
+    .description = Check din indbakke for at bekræfte din konto.
 sync-signedin-login-failure = Log ind for at synkronisere { $email }
+sync-signedin-login-failure2 =
+    .label = Du er logget ud fra { $email }
+    .description = Log ind igen for at genoprette forbindelsen og synkronisere dine data.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1620,6 +1635,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Seneste søgninger
+    .accesskey = S
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Populære søgeforslag
     .accesskey = P
