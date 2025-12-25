@@ -622,6 +622,11 @@ set-default-menu-message-row-layout-title =
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako hlavní prohlížeč
        *[no-cases] Nastavit aplikaci { -brand-short-name } jako hlavní prohlížeč
     }
+set-default-menu-message-row-layout-title-variant =
+    { -brand-short-name.case-status ->
+        [with-cases] Nastavit { -brand-short-name(case: "acc") } jako výchozí prohlížeč
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí prohlížeč
+    }
 set-default-menu-message-row-layout-subtitle = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
 set-default-menu-message-primary-button = Nastavit jako výchozí
 set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlížeč

@@ -395,6 +395,11 @@ preferences-web-appearance-link =
             [with-cases] Vzhled { -brand-short-name(case: "gen") } nastavíte ve správci doplňků
            *[no-cases] Vzhled aplikace { -brand-short-name } nastavíte ve správci doplňků
         }
+preferences-contrast-control-group =
+    .label = Kontrast webových stránek
+    .description = Webové stránky používají různé barvy popředí a pozadí. Pro dosažení konzistentního kontrastu můžete na všech webových stránkách používat stejné barvy.
+preferences-contrast-control-radio-group =
+    .label = Přepsání barev
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše nastavení upravuje vzhled stránky. <a data-l10n-name="colors-link">Nastavit barvy</a>
