@@ -1605,7 +1605,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Rifiuta automaticamente i banner per i cookie
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra degli indirizzi
 addressbar-suggest-1 = Scegli quali suggerimenti visualizzare nella barra degli indirizzi
@@ -1655,6 +1655,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Suggerimenti di ricerca di tendenza
     .accesskey = m
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suggerimenti da { -brand-short-name }
+    .description = Ricevi suggerimenti dal Web relativi alla tua ricerca.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Suggerimenti dagli sponsor
+    .description = Supporta { -brand-short-name } con occasionali suggerimenti sponsorizzati
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra ricerche recenti
@@ -1681,6 +1688,9 @@ addressbar-locbar-suggest-sponsored-desc = Supporta { -brand-short-name } con oc
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Ottieni suggerimenti da Mozilla durante la digitazione
+addressbar-dismissed-suggestions-label-2 =
+    .label = Suggerimenti ignorati
+    .description = Ripristina i suggerimenti ignorati dagli sponsor e da { -brand-short-name }.
 addressbar-quickactions-learn-more = Ulteriori informazioni
 addressbar-dismissed-suggestions-label = Suggerimenti ignorati
 addressbar-restore-dismissed-suggestions-description = Ripristina i suggerimenti ignorati dagli sponsor e da { -brand-short-name }.
