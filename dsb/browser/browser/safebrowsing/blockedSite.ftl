@@ -43,6 +43,7 @@ safeb-blocked-malware-page-learn-more-sumo = Zgóńśo na <a data-l10n-name='fir
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-unwanted-page-error-desc-override = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>škódnu software wopśimujo</a>. Móžośo <a data-l10n-name='ignore_warning_link'>riziko ignorěrowaś</a> a k toś tomu njewěstemu sedłoju woglědał.
 safeb-blocked-unwanted-page-error-desc-no-override = Jo se k wěsći dało, až sedło <span data-l10n-name='sitename'>{ $sitename }</span><a data-l10n-name='error_desc_link'>škódnu software wopśimujo</a>.
 
 ## Variables
@@ -68,7 +69,7 @@ safeb-palm-notdeceptive =
 ##  $addonName (string) - the name of the harmful add-on
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-addon-page-error-desc-override = <strong>Cogodla jo se toś te sedło blokěrowało?</strong>
+safeb-blocked-addon-page-error-desc-override = <strong>Cogodla jo se toś to sedło blokěrowało?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> jo snaź z wobšudnej a škódnej aktiwitu zwězany.
 safeb-blocked-addon-page-error-desc3-override = <strong>Co móžośo pśeśiwo tomu cyniś?</strong>
 safeb-blocked-addon-page-error-desc4-override = Až njeby se to hyšći raz stało, móžośo <strong>{ $addonName }</strong> z about:addons wótwónoźiś.
