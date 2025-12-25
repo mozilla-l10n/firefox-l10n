@@ -67,4 +67,4 @@ whypaused-debug-command = Pśi za zmólkami pśepytanej funkciji zastajony
 # The text that is displayed in a info block saying that the debugger is currently paused
 # without other precision. This is also used in the overlay we show in the page when
 # the page is paused.
-whypaused-other = Pytanje za zmólkami jo zastajene
+whypaused-other = Pytanje za zmólkami jo zastajone
