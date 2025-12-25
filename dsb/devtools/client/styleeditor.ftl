@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Nowu stilowu psedłogu napóraś k dokumentoju pśipowjesyś
+    .tooltiptext = Nowu stilowu pśedłogu napóraś k dokumentoju pśipowjesyś
     .accesskey = N
 styleeditor-import-button =
     .tooltiptext = Eksistěrujucy stil importěrowaś a k dokumentoju pśipowjesyś

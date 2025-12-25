@@ -103,7 +103,7 @@ storage-parsed-value = Analyzěrowana gódnota
 # Warning notification when IndexedDB database could not be deleted immediately.
 # Variables:
 #   $dbName (String) - Name of the database
-storage-idb-delete-blocked = Datowa banka “{ $dbName }' se wualšujo, za tym až wšykne zwiski su zacynjone.
+storage-idb-delete-blocked = Datowa banka “{ $dbName }' se wulašujo, za tym až wšykne zwiski su zacynjone.
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
