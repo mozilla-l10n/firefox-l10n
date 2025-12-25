@@ -482,6 +482,54 @@ translate-attribution = Překlady od <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Výjimky…
     .accesskey = V
+settings-translations-subpage-header =
+    .heading = Další nastavení překladu
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatický překlad
+settings-translations-subpage-always-translate-header =
+    .label = Vždy překládat z těchto jazyků
+settings-translations-subpage-never-translate-header =
+    .label = Z těchto jazyků nikdy nepřekládat
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nikdy nepřekládat tyto stránky
+settings-translations-subpage-language-select-option =
+    .label = Přidat jazyk
+settings-translations-subpage-language-add-button =
+    .aria-label = Přidat jazyk
+    .title = Přidat jazyk
+settings-translations-subpage-download-languages-header =
+    .label = Stáhnout jazyky
+settings-translations-subpage-download-languages-select-option =
+    .label = Vyberte jazyk
+settings-translations-subpage-download-languages-button =
+    .aria-label = Stáhnout jazyk
+    .title = Stáhnout jazyk
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nebyly staženy žádné jazyky
+settings-translations-subpage-no-languages-added =
+    .label = Nebyly přidány žádné jazyky
+settings-translations-subpage-download-progress = Probíhá stahování…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Nepodařilo se stáhnout jazyk { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Zkusit znovu
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Smazat jazyk { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Smazat
+settings-translations-subpage-download-cancel-button =
+    .label = Zrušit
+settings-translations-subpage-no-sites-added =
+    .label = Nebyly přidány žádné stránky
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -996,6 +1044,11 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na stránkách s výsledky zobrazovat v adresním řádku hledané výrazy
+search-separate-default-engine-2 =
+    .label = Použít jiný výchozí vyhledávač v anonymních oknech
+    .accesskey = v
+search-separate-default-engine-dropdown =
+    .aria-label = Výchozí vyhledávač v anonymních oknech
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
