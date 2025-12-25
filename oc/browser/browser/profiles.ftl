@@ -56,3 +56,7 @@ profiles-light-theme = Clar
 profiles-dark-theme = Escur
 # The default system theme
 profiles-system-theme = Sistèma
+profiles-orange-theme = Irange
+profiles-purple-theme = Violet
+profiles-blue-theme = Blau
+profiles-cyan-theme = Cian

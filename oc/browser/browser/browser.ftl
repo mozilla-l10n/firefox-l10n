@@ -940,6 +940,9 @@ panel-save-update-password = Senhal
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mai…
+menu-share-copy-link =
+    .label = Copiar lo ligam
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Tampar
 

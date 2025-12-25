@@ -175,6 +175,7 @@ tabbrowser-manager-close-tab =
 
 ##
 
+tab-group-editor-title-create = Crear un grop d’onglets
 tab-group-editor-title-edit = Gerir lo grop d’onglets
 tab-group-editor-name-label = Nom
 tab-group-editor-name-field =
@@ -182,6 +183,12 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = Anullar
     .accesskey = A
+tab-group-editor-color-selector2-blue = Blau
+    .title = Blau
+tab-group-editor-color-selector2-purple = Violet
+    .title = Violet
+tab-group-editor-color-selector2-cyan = Cian
+    .title = Cian
 tab-context-unnamed-group =
     .label = Grop sens nom
 
@@ -203,6 +210,8 @@ tab-context-move-tab-to-group =
            *[other] Apondre los onglets a un grop
         }
     .accesskey = A
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grops tampats
 tab-group-editor-action-new-tab =
     .label = Onglet novèl dins lo grop
 tab-group-editor-action-new-window =
