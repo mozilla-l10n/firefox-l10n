@@ -189,8 +189,20 @@ tab-group-editor-color-selector2-purple = Violet
     .title = Violet
 tab-group-editor-color-selector2-cyan = Cian
     .title = Cian
+tab-group-editor-color-selector2-yellow = Jaune
+    .title = Jaune
+tab-group-editor-color-selector2-pink = Ròse
+    .title = Ròse
+tab-group-editor-color-selector2-green = Verd
+    .title = Verd
+tab-group-editor-color-selector2-gray = Gris
+    .title = Gris
+tab-group-editor-color-selector2-red = Roge
+    .title = Roge
+tab-group-label-tooltip-expanded = { $tabGroupName } — Espandit
 tab-context-unnamed-group =
     .label = Grop sens nom
+tab-group-name-default = Grop sens nom
 
 ##
 
