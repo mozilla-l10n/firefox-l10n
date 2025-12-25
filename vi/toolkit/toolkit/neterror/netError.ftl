@@ -178,11 +178,16 @@ fp-neterror-offline-body-title = Có vẻ như đã xảy ra sự cố với k�
 fp-neterror-connection-intro = { -brand-short-name } không thể tạo kết nối an toàn tới máy chủ tại { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } không tải trang này vì có vẻ như cấu hình bảo mật không khớp với trang trước.
+fp-neterror-http-auth-disabled-intro = Ai đó giả vờ là trang web có thể cố gắng đánh cắp những thứ như tên người dùng, mật khẩu hoặc email của bạn.
+fp-neterror-http-auth-disabled-secure-connection = Trang web này yêu cầu kết nối bảo mật và bạn không thể thêm ngoại lệ để truy cập.
 fp-neterror-why-did-this-happen = Tại sao điều này xảy ra?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Có vẻ như trang web này đang sử dụng phần mềm cũ có vấn đề bảo mật đã biết.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } không tin tưởng { $hostname } vì kết nối không an toàn.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Hãy chắc chắn rằng bạn đang sử dụng phiên bản mới nhất của { -brand-short-name }. Đi đến Trợ giúp > Về { -brand-short-name } trong menu. Nếu bạn đang sử dụng phiên bản mới nhất của { -brand-short-name }, vấn đề có thể nằm ở chính trang web đó.
 fp-neterror-offline-what-can-you-do-body = Hãy thử kết nối trên một thiết bị khác. Kiểm tra modem hoặc bộ định tuyến của bạn. Ngắt kết nối và kết nối lại với Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Hãy thử đổi URL sang HTTPS. Nhưng có khả năng vấn đề nằm ở chính trang web đó.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Đôi khi các trang web thiết lập các biện pháp bảo vệ cho chính họ từ các tương tác không mong muốn với các trang web khác.
+fp-learn-more-about-https-connections = Tìm hiểu về kết nối HTTPS

@@ -391,6 +391,68 @@ translate-attribution = Dịch bởi <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ngoại lệ...
     .accesskey = N
+settings-translations-header =
+    .label = Dịch
+    .aria-label = Dịch
+    .description = Dịch trang hoặc đoạn văn bản đã chọn. Để bảo vệ quyền riêng tư của bạn, bản dịch sẽ được lưu trữ trên thiết bị của bạn.
+settings-translations-offer-to-translate-label =
+    .label = Cung cấp bản dịch toàn trang
+settings-translations-more-settings-button =
+    .label = Cài đặt dịch thuật khác
+    .description = Thiết lập tùy chọn cho ngôn ngữ, trang web và dịch ngoại tuyến.
+settings-translations-subpage-header =
+    .heading = Cài đặt dịch thuật khác
+settings-translations-subpage-speed-up-translation-header =
+    .label = Tăng tốc độ dịch thuật
+    .description = Tải xuống toàn bộ ngôn ngữ để dịch nhanh hơn và dịch ngoại tuyến.
+settings-translations-subpage-automatic-translation-header =
+    .label = Dịch tự động
+settings-translations-subpage-always-translate-header =
+    .label = Luôn dịch các ngôn ngữ này
+settings-translations-subpage-never-translate-header =
+    .label = Không bao giờ dịch các ngôn ngữ này
+settings-translations-subpage-never-translate-sites-header =
+    .label = Không bao giờ dịch các trang này
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Để thêm trang web, hãy mở <img data-l10n-name="translations-icon"/> bảng dịch, chọn <img data-l10n-name="settings-icon"/> cài đặt dịch, và chọn “Không bao giờ dịch trang này”
+settings-translations-subpage-language-select-option =
+    .label = Thêm ngôn ngữ
+settings-translations-subpage-language-add-button =
+    .aria-label = Thêm ngôn ngữ
+    .title = Thêm ngôn ngữ
+settings-translations-subpage-download-languages-header =
+    .label = Tải xuống ngôn ngữ
+settings-translations-subpage-download-languages-select-option =
+    .label = Chọn ngôn ngữ
+settings-translations-subpage-download-languages-button =
+    .aria-label = Tải xuống ngôn ngữ
+    .title = Tải xuống ngôn ngữ
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Chưa có ngôn ngữ nào được tải xuống
+settings-translations-subpage-no-languages-added =
+    .label = Chưa có ngôn ngữ nào được thêm vào
+settings-translations-subpage-download-progress = Đang trong tiến trình tải xuống…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Không thể tải xuống { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Thử lại
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Xoá { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Xóa
+settings-translations-subpage-download-cancel-button =
+    .label = Hủy bỏ
+settings-translations-subpage-no-sites-added =
+    .label = Chưa có trang web nào được thêm vào
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -932,6 +994,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Đồng bộ hóa
+account-placeholder =
+    .label = Bạn chưa đăng nhập
+    .description = Đăng nhập để giữ dữ liệu của bạn riêng tư, được mã hóa và đồng bộ hóa trên các thiết bị.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -943,6 +1008,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = Đăng nhập vào tài khoản của bạn để bắt đầu đồng bộ hóa.
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Đăng nhập
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -982,7 +1050,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } chưa được kiểm tra.
+sync-signedin-unverified2 =
+    .label = { $email } chưa được xác minh
+    .description = Kiểm tra hộp thư đến của bạn để xác minh tài khoản và hoàn tất việc đăng ký.
 sync-signedin-login-failure = Xin hãy đăng nhập để kết nối lại { $email }
+sync-signedin-login-failure2 =
+    .label = Bạn đã đăng xuất khỏi { $email }
+    .description = Đăng nhập lại để kết nối lại và bắt đầu đồng bộ hóa dữ liệu của bạn.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
