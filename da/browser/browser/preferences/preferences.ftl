@@ -403,6 +403,13 @@ translate-attribution = Oversættelser af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undtagelser…
     .accesskey = n
+settings-translations-offer-to-translate-label =
+    .label = Tilbyd oversættelse af hele sider
+settings-translations-more-settings-button =
+    .label = Flere indstillinger for oversættelse
+    .description = Håndter indstillinger for sprog, websteder og offline oversættelse.
+settings-translations-subpage-header =
+    .heading = Flere indstillinger for oversættelse
 settings-translations-subpage-automatic-translation-header =
     .label = Automatisk oversættelse
 settings-translations-subpage-always-translate-header =
