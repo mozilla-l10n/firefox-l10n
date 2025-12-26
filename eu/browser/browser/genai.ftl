@@ -124,6 +124,8 @@ genai-onboarding-header = Nabigatu ahala laburbildu, ideiak jaso eta gehiago
 genai-onboarding-choose-header = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota. Hautatzean, bot bakoitzari buruzko xehetasunak erakutsiko ditugu. Aldatu edonoiz. <a data-l10n-name="learn-more">Argibide gehiago</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Aldatu edonoiz. Aukeratzeko laguntzarako, eskuratu <a data-l10n-name="learn-more">txaterako bot bakoitzari buruzko argibide gehiago</a>.
 genai-onboarding-primary = Jarraitu
 genai-onboarding-secondary = Itxi
 genai-onboarding-claude-tooltip =
@@ -147,9 +149,13 @@ genai-onboarding-lechat-learn = Le Chat-i buruzko argibide gehiago
 genai-onboarding-select-header = Hautatu testua gomendioak ikusteko
 genai-onboarding-select-description = Testua hautatzean, txaterako botari bidal diezazkiozun gonbitak gomendatuko dizkizugu. Zure gonbit propioak ere idatz ditzakezu.
 genai-onboarding-select-primary = Hasi txateatzen
+genai-chatbot-contextual-title = Erabili AA txaterako bota fitxarik aldatu gabe
+genai-chatbot-contextual-subtitle = Txateatu eta nabigatu alboz albo AA txaterako bota { -brand-short-name }(e)n alboko barran gehitzean.
 genai-chatbot-contextual-button = Aukeratu txaterako bota
 genai-chatbot-summarize-title = Berria Laburbildu orriak klik bakarrean
 genai-chatbot-summarize-button = Laburbildu orria
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Egin eskuin-klika alboko barrako AA txaterako botean eta aukeratu "Laburbildu orria".
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.

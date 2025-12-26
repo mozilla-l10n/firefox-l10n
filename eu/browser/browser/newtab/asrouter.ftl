@@ -376,6 +376,9 @@ windows-10-eos-sync-toast-secondary-label = Gogora iezadazu geroago
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = Ainguratu { -brand-shorter-name }
+windows-10-eos-callout-addons-subtitle = Zuri emankorrago, babestuta eta distraziorik gabe egoten laguntzeko aukeratu dira hedapen hauek.
+windows-10-eos-callout-addons-primary-button = Ikusi gure hautuak
+windows-10-eos-sync-callout-addons-title = Ez galdu zure gehigarriak Windows 10era bertsio-berritzean.
 windows-10-eos-sync-callout-next-button = Hurrengoa
 windows-10-eos-sync-callout-get-started-button = Hasi erabiltzen
 

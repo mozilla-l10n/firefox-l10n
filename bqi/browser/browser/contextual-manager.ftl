@@ -23,7 +23,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = لف 
 contextual-manager-passwords-import-file-picker-title = و من ٱووردن رزما
 contextual-manager-passwords-import-file-picker-import-button = و من ٱووردن
 contextual-manager-passwords-import-success-heading =
-    .heading = رزما و من ٱووڌن
+    .heading = رزما و من ٱوورده وابین
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -31,17 +31,27 @@ contextual-manager-passwords-import-success-message = نۊ: { $added }، ورۊ 
 contextual-manager-passwords-import-success-button = ٱنجوم وابی
 contextual-manager-passwords-import-error-button-try-again = قپ ریت دووارته
 contextual-manager-passwords-import-error-button-cancel = لقو
+contextual-manager-passwords-export-success-heading =
+    .heading = رزما و در کشیڌه وابین
 contextual-manager-passwords-export-success-button = ٱنجوم وابی
 # The default file name shown in the file picker when exporting saved logins.
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = رزما
 contextual-manager-passwords-export-file-picker-export-button = و در کشیڌن
 contextual-manager-passwords-origin-label = وبگه اینترنتی
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = فیلتر رزما
 contextual-manager-passwords-add-password-success-button = نشووݩ داڌن
+contextual-manager-passwords-password-already-exists-error-button = راو و رزم
+contextual-manager-passwords-update-password-success-heading =
+    .heading = رزم زفت وابیڌ
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = لقو
+contextual-manager-passwords-alert-back-button =
+    .label = وورگشتن
+contextual-manager-passwords-change-password-button = آلشت رزم
 
 ## Login Form
 
