@@ -5,11 +5,25 @@
 
 ## Passwords
 
+contextual-manager-passwords-command-create = ٱووردن رزم
 contextual-manager-passwords-command-settings = سامووا
+contextual-manager-passwords-command-help = هیاری
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
+# This message can be seen when attempting to export a password in about:logins
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = و در کشیڌن رزما زفت وابیڌه
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = آلشت رزم زفت وابیڌه
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه
+contextual-manager-passwords-import-file-picker-title = و من ٱووردن رزما
 contextual-manager-passwords-import-file-picker-import-button = و من ٱووردن
+contextual-manager-passwords-import-success-heading =
+    .heading = رزما و من ٱووڌن
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords

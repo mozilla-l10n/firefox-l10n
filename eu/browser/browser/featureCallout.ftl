@@ -110,13 +110,15 @@ fxa-adoption-passwords-primary-button-label = Eman izena
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Mantendu jario gogokoenak ataza-barran
-taskbar-tabs-social-callout-subtitle = Abiatu sare sozialetako guneak aplikazioak balira bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
+taskbar-tabs-social-callout-subtitle = Abiatu sare sozialetako guneak aplikazioak balira bezala, { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
 taskbar-tabs-chat-callout-title = Txateatu ataza-barratik
-taskbar-tabs-chat-callout-subtitle = Abiatu txateatzeko guneak aplikazioak balira bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
+taskbar-tabs-chat-callout-subtitle = Abiatu txateatzeko guneak aplikazioak balira bezala, { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
 taskbar-tabs-email-callout-title = Mantendu posta elektronikoa ataza-barran
-taskbar-tabs-email-callout-subtitle = Abiatu zure web bidezko posta aplikazioa balitz bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
+taskbar-tabs-email-callout-subtitle = Abiatu zure web bidezko posta aplikazioa balitz bezala, { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
 taskbar-tabs-media-callout-title = Itzuli streaming egitera ataza-barratik
+taskbar-tabs-media-callout-subtitle = Abiatu streamingeko guneak aplikazioak balira bezala, { -brand-short-name }(e)n babespeko leiho sinplifikatu batean.
 taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
+taskbar-tabs-value-prop-callout-subtitle = Abia ezazu klik bakarrean interfaze sinplifikatudun bere leiho propioan.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -129,6 +131,9 @@ windows-10-eos-sync-new-device-subtitle-1 = Sinkronizatu { -brand-short-name }(e
 windows-10-eos-sync-new-device-title-2 = Gailu berri batera aldatu behar duzu? Ez galdu garrantzitsua dena.
 windows-10-eos-sync-new-device-subtitle-2 = { -brand-short-name } gehiago ala gutxiago erabilita ere, sinkronizatzeak zure laster-markak, pasahitzak eta ezarpenak babesten ditu.
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
+windows-10-eos-sync-general-title-1 = Babestu zure erara moldatu duzun { -brand-short-name }.
+windows-10-eos-sync-tour-title-1 = Fitxa gehiegi dituzu? Txukundu itzazu fitxa multzoekin.
+windows-10-eos-sync-tour-subtitle-1 = Multzo bat sortu eta gauzak antolatuta mantentzeko, arrasta ezazu fitxa bat bestearen gainera.
 windows-10-eos-sync-tour-subtitle-2 = Sinkronizatu zure laster-markak, pasahitzak eta ezarpenak eta egin hauen babeskopia aldaketa burutu aurretik.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Erakutsi gomendio gutxiago
@@ -167,6 +172,7 @@ sidebar-pins-callout-cta-button = Ainguratu fitxa
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Mantendu fitxa garrantzitsuak esku-eskura
+pin-tabs-callout-1-subtitle = Fitxa bat ainguratzeko, arrasta ezazu fitxa-zerrendaren hasierara. Edo egin eskuin-klika eta aukeratu 'Ainguratu fitxa'.
 pin-tabs-callout-cta-1-button = Ainguratu fitxa hau
 pin-tabs-callout-2-title = Ainguratu gehien bisitatzen dituzun fitxak
 pin-tabs-callout-2-subtitle = Edozein fitxa ainguratzeko, arrasta ezazu fitxa-zerrendaren hasierara. Edo egin eskuin-klika eta aukeratu 'Ainguratu fitxa'.
@@ -219,3 +225,11 @@ unified-search-engines-callout-title = Bilatu lasterbiderik gabe
 unified-search-engines-callout-subtitle = Idatzi "@" gako-hitz batez jarraituta zure historia, laster-markak, fitxak edo beste bilaketa-motor batean bilatzeko.
 unified-search-engines-callout-primary-label = Ulertuta
 actions-callout-title = Burutu ohiko atazak edo izan oinarrizko ezarpenetarako sarbidea
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = Saiatu ekintza bat idazten, adib. "inprimatu" orri bat inprimatzeko, edo "garbitu" zure historia garbitzeko.
