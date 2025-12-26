@@ -822,6 +822,10 @@ urlbar-result-weather-provider-sponsored = { $provider } · Babeslea
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Eskuratu burtsa-merkatuetako datuak bilaketa-barran bertan
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Erakutsi gure babesleek hornitutako merkatuetako eguneraketak eta gehiago bilaketen datuak { -vendor-short-name }(e)kin partekatzean. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Erakutsi gomendioak
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -834,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ez erakutsi merkatuko gomendiorik
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu merkatuko gomendiorik ikusiko.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Burtsa-merkatuetako iradokizunak
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu horrelako gomendiorik ikusiko.
