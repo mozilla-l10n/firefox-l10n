@@ -110,6 +110,7 @@ fxa-adoption-passwords-primary-button-label = Eman izena
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Mantendu jario gogokoenak ataza-barran
+taskbar-tabs-social-callout-subtitle = Abiatu sare sozialetako guneak aplikazioak balira bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
 taskbar-tabs-chat-callout-title = Txateatu ataza-barratik
 taskbar-tabs-email-callout-title = Mantendu posta elektronikoa ataza-barran
 taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
@@ -117,6 +118,8 @@ taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Ez galdu gordeta daukazuna Windows 11ra aldatzean.
+windows-10-eos-sync-urgency-subtitle-1 = Sinkronizatu orain { -brand-short-name }(e)ko zure laster-markak, pasahitzak eta ezarpenak seguru eta erraz berreskuratzeko moduan mantentzeko.
+windows-10-eos-sync-urgency-title-2 = Windows 10 atzean utzi behar duzu? Babestu zure datuak aldaketa egiten duzunerako.
 windows-10-eos-sync-new-device-title-2 = Gailu berri batera aldatu behar duzu? Ez galdu garrantzitsua dena.
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
 windows-10-eos-sync-tour-subtitle-2 = Sinkronizatu zure laster-markak, pasahitzak eta ezarpenak eta egin hauen babeskopia aldaketa burutu aurretik.
