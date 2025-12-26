@@ -86,6 +86,8 @@ sidebar-context-menu-open-in-window =
     .label = Ireki leiho berrian
 sidebar-context-menu-open-in-private-window =
     .label = Ireki leiho pribatu berrian
+sidebar-context-menu-forget-site =
+    .label = Garbitu webgunearen datu guztiak…
 sidebar-context-menu-bookmark-tab =
     .label = Egin fitxaren laster-marka…
 sidebar-context-menu-copy-link =
@@ -155,7 +157,10 @@ sidebar-menu-close-bookmarks-tooltip = Itxi laster-markak ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = Ireki AA txaterako bota ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Ireki { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Itxi AA txaterako bota ({ $shortcut })
+sidebar-menu-close-ai-chatbot-provider-tooltip = Itxi { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 
@@ -210,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Ezkutatu alboko barra ({ $shortcut })
     .label = Alboko barrak
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Arrastatu hona fitxa garrantzitsuak hauek esku-eskura izateko

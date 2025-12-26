@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Eraman leiho berrira
     .accesskey = h
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Eraman { $profileName } profilera
 tab-context-close-multiple-tabs =
     .label = Itxi hainbat fitxa
     .accesskey = h
