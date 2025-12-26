@@ -168,11 +168,24 @@ certerror-coep-learn-more = Læs mere om Cross Origin Embedder Policies (COEP)
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Fejlkode: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Det ser ud til, at der er et problem med din internetforbindelse
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikke oprette en sikker forbindelse til serveren på { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } kan ikke oprette forbindelse til serveren <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } indlæste ikke denne side, fordi det ser ud til, at sikkerhedskonfigurationen ikke matcher den forrige side.
+fp-neterror-http-auth-disabled-intro = Nogen som udgiver sig for at være webstedet kan forsøge at stjæle ting som dit brugernavn, adgangskoder eller mails.
+fp-neterror-http-auth-disabled-secure-connection = Dette websted kræver en sikker forbindelse, og du kan ikke tilføje en undtagelse for at besøge det.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ud til, at webstedet bruger gammel software med kendte sikkerhedsproblemer.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } stoler ikke på { $hostname }, fordi forbindelsen ikke er sikker.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Vær sikker på, at du bruger den nyeste version af { -brand-short-name }. Åbn menuen og gå til Hjælp > Om { -brand-short-name }. Hvis du bruger den nyeste version, så skyldes problemet sandsynligvis webstedet.
+fp-neterror-offline-what-can-you-do-body = Prøv at oprette forbindelse med en anden enhed. Kontroller dit modem eller din router. Afbryd wi-fi-forbindelsen og opret den igen.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Nogle gange sætter websteder beskyttelse op for dem selv for at undgå uønsket interaktion med andre websteder.
+fp-learn-more-about-https-connections = Lær om HTTPS-forbindelser

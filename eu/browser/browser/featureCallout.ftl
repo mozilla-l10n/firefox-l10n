@@ -116,6 +116,7 @@ taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = Ez galdu gordeta daukazuna Windows 11ra aldatzean.
 windows-10-eos-sync-new-device-title-2 = Gailu berri batera aldatu behar duzu? Ez galdu garrantzitsua dena.
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
 windows-10-eos-sync-tour-subtitle-2 = Sinkronizatu zure laster-markak, pasahitzak eta ezarpenak eta egin hauen babeskopia aldaketa burutu aurretik.
@@ -170,6 +171,7 @@ sidebar-customization-callout-1-subtitle = { -brand-product-name } alboko barrak
 sidebar-customization-callout-callout-button = Pertsonalizatu alboko barra
 sidebar-customization-callout-dismiss-button = Ezkutatu alboko barra
 sidebar-customization-callout-2-title = Pertsonaliza ezazu { -brand-product-name } alboko barra
+sidebar-customization-callout-2-subtitle = Gehitu eta kendu tresnak. Jarri fitxak alboko barran. Proba ezazu AA txaterako bota. Alboko barra pertsonalizatzeko modua zure esku dago.
 
 ## Sidebar Callout Survey Strings
 

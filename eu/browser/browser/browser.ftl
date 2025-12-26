@@ -1573,6 +1573,11 @@ trustpanel-fingerprinter-blocking-tab-header =
         [one] { -brand-product-name }(e)k hatz-marka bidezko jarraipen-elementu { $count } blokeatu du
        *[other] { -brand-product-name }(e)k hatz-marka bidezko { $count } jarraipen-elementu blokeatu ditu
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k hatz-marka bidezko jarraipen-elementu { $count } baimendu du
+       *[other] { -brand-product-name }(e)k hatz-marka bidezko { $count } jarraipen-elementu baimendu ditu
+    }
 trustpanel-fingerprinter-list-header = Hatz-marka bidezko zure jarraipena egiten saiatzen ari dira gune hauek:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
