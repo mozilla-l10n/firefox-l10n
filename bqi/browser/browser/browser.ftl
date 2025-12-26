@@ -918,7 +918,10 @@ popup-notification-addon-technical-and-interaction-checkbox =
 
 ## The urlbar trust icon & panel
 
+trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
+trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
+trustpanel-clear-cookies-subview-button-clear = پاک کردن
 trustpanel-clear-cookies-subview-button-cancel = لقو
 
 ## The urlbar trust icon & panel

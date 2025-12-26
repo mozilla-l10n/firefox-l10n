@@ -112,7 +112,10 @@ fxa-adoption-passwords-primary-button-label = Eman izena
 taskbar-tabs-social-callout-title = Mantendu jario gogokoenak ataza-barran
 taskbar-tabs-social-callout-subtitle = Abiatu sare sozialetako guneak aplikazioak balira bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
 taskbar-tabs-chat-callout-title = Txateatu ataza-barratik
+taskbar-tabs-chat-callout-subtitle = Abiatu txateatzeko guneak aplikazioak balira bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
 taskbar-tabs-email-callout-title = Mantendu posta elektronikoa ataza-barran
+taskbar-tabs-email-callout-subtitle = Abiatu zure web bidezko posta aplikazioa balitz bezala, { -brand-short-name }(e)k babestutako leiho sinplifikatu batean.
+taskbar-tabs-media-callout-title = Itzuli streaming egitera ataza-barratik
 taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 
 ## Windows 10 EoS Sync messages group 1 callouts
@@ -120,7 +123,11 @@ taskbar-tabs-value-prop-callout-title = Gehitu gune hau zure ataza-barran
 windows-10-eos-sync-urgency-title-1 = Ez galdu gordeta daukazuna Windows 11ra aldatzean.
 windows-10-eos-sync-urgency-subtitle-1 = Sinkronizatu orain { -brand-short-name }(e)ko zure laster-markak, pasahitzak eta ezarpenak seguru eta erraz berreskuratzeko moduan mantentzeko.
 windows-10-eos-sync-urgency-title-2 = Windows 10 atzean utzi behar duzu? Babestu zure datuak aldaketa egiten duzunerako.
+windows-10-eos-sync-urgency-subtitle-2 = Nahiz eta { -brand-short-name } ez duzun egunero erabiltzen, sinkronizatu laster-markak eta pasahitzak seguru eta erraz eskuratzeko moduan mantentzeko.
+windows-10-eos-sync-new-device-title-1 = Ez arriskatu zerotik hasi beharra zure hurrengo gailuan.
+windows-10-eos-sync-new-device-subtitle-1 = Sinkronizatu { -brand-short-name }(e)ko zure laster-markak, pasahitzak eta ezarpenak alboan eramateko aldaketa egiten duzunerako.
 windows-10-eos-sync-new-device-title-2 = Gailu berri batera aldatu behar duzu? Ez galdu garrantzitsua dena.
+windows-10-eos-sync-new-device-subtitle-2 = { -brand-short-name } gehiago ala gutxiago erabilita ere, sinkronizatzeak zure laster-markak, pasahitzak eta ezarpenak babesten ditu.
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
 windows-10-eos-sync-tour-subtitle-2 = Sinkronizatu zure laster-markak, pasahitzak eta ezarpenak eta egin hauen babeskopia aldaketa burutu aurretik.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
