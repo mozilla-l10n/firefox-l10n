@@ -1472,6 +1472,7 @@ trustpanel-connection-label-insecure = Konexio ez-segurua
 trustpanel-header-enabled = { -brand-product-name } guardian dago
 trustpanel-description-enabled2 = Babestuta zaude. Zerbait ikusten badugu, jakinaraziko dizugu.
 trustpanel-header-enabled-insecure = Argi ibili gune honetan
+trustpanel-description-enabled-insecure = { -brand-product-name }(e)k zerbait susmagarria antzeman du.
 trustpanel-header-disabled = Babesak desgaitu dituzu
 trustpanel-description-disabled = { -brand-product-name } ez dago guardian. Babesak berriro ere aktibatzea gomendatzen dugu.
 trustpanel-clear-cookies-button = Garbitu cookieak eta guneetako datuak
@@ -1536,7 +1537,42 @@ trustpanel-list-label-cryptominer =
         [one] Kriptomeatzariak: { $count }
        *[other] Kriptomeatzariak: { $count }
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k sare sozialetako jarraipen-elementu { $count } blokeatu du
+       *[other] { -brand-product-name }(e)k sare sozialetako { $count } jarraipen-elementu blokeatu ditu
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k sare sozialetako jarraipen-elementu { $count } baimendu du
+       *[other] { -brand-product-name }(e)k sare sozialetako { $count } jarraipen-elementu baimendu ditu
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k guneen arteko cookie jarraipen-egile { $count } blokeatu du
+       *[other] { -brand-product-name }(e)k guneen arteko { $count } cookie jarraipen-egile blokeatu ditu
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k guneen arteko cookie jarraipen-egile { $count } baimendu du
+       *[other] { -brand-product-name }(e)k guneen arteko { $count } cookie jarraipen-egile baimendu ditu
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k jarraipen-elementu { $count } blokeatu du
+       *[other] { -brand-product-name }(e)k { $count } jarraipen-elementu blokeatu ditu
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k jarraipen-elementu { $count } baimendu du
+       *[other] { -brand-product-name }(e)k { $count } jarraipen-elementu baimendu ditu
+    }
 trustpanel-tracking-content-tab-list-header = Zure jarraipena egiten saiatzen ari dira gune hauek:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }(e)k hatz-marka bidezko jarraipen-elementu { $count } blokeatu du
+       *[other] { -brand-product-name }(e)k hatz-marka bidezko { $count } jarraipen-elementu blokeatu ditu
+    }
 trustpanel-fingerprinter-list-header = Hatz-marka bidezko zure jarraipena egiten saiatzen ari dira gune hauek:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
