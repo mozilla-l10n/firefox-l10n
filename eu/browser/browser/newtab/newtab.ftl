@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Ekintza hau ezin da desegin.
 
 newtab-topsite-sponsored = Babesleak hornituta
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (ainguratuta)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.

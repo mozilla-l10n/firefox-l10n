@@ -81,6 +81,8 @@ addon-removal-title = { $name } kendu?
 addon-removal-message = Kendu { $name } { -brand-shorter-name }(e)tik?
 addon-removal-button = Kendu
 addon-removal-abuse-report-checkbox = Salatu hedapen hau { -vendor-short-name }(r)i
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = Modelo hau darabilten eginbide edo hedapenak badarabilzkizu, modeloa berriro gehituko da.
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
