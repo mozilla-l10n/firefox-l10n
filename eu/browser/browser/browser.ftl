@@ -1385,10 +1385,26 @@ popup-warning-message =
         [one] { -brand-short-name }(e)k galarazi egin du gune honek laster-leiho bat irekitzea.
        *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } laster-leiho irekitzea.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name }(e)k galarazi egin du gune honek birbideraketa egitea.
+        [1] { -brand-short-name }(e)k galarazi egin du gune honek laster-leihoa ireki eta birbideraketa egitea.
+        [one] { -brand-short-name }(e)k galarazi egin du gune honek laster-leiho { $popupCount } ireki eta birbideraketa egitea.
+       *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } laster-leiho ireki eta birbideraketa egitea.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } laster-leiho baino gehiago irekitzea.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name }(e)k galarazi egin du gune honek laster-leiho { $popupCount } ireki eta birbideraketa egitea.
+       *[other] { -brand-short-name }(e)k galarazi egin du gune honek { $popupCount } laster-leiho ireki eta birbideraketa egitea.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
