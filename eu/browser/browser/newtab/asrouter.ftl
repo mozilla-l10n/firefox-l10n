@@ -376,6 +376,8 @@ windows-10-eos-sync-toast-secondary-label = Gogora iezadazu geroago
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = Ainguratu { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = Ikusi blokeatu dena
+windows-10-eos-callout-addons-title = Probatu gehigarriak: bertsio-berritze sinpleak, eragin handiak
 windows-10-eos-callout-addons-subtitle = Zuri emankorrago, babestuta eta distraziorik gabe egoten laguntzeko aukeratu dira hedapen hauek.
 windows-10-eos-callout-addons-primary-button = Ikusi gure hautuak
 windows-10-eos-sync-callout-addons-title = Ez galdu zure gehigarriak Windows 10era bertsio-berritzean.
@@ -399,3 +401,18 @@ etp-strict-exceptions-infobar-button = Aplikatu konponketak
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Une honetan ez
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ez da zure nabigatzaile lehenetsia
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ez da zure nabigatzaile nagusia
+set-default-menu-message-row-layout-title = Egizu { -brand-short-name } zure nabigatzaile nagusia
+set-default-menu-message-row-layout-title-variant = Egizu { -brand-short-name } zure nabigatzaile lehenetsia
+set-default-menu-message-row-layout-subtitle = Eskuratu abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta manten ezazu Dock-ean.
+       *[other] Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta manten ezazu ataza-barran.
+    }
+set-default-menu-message-primary-button = Ezarri lehenetsi gisa
+set-default-menu-message-primary-button-variant = Ezarri nabigatzaile nagusi gisa

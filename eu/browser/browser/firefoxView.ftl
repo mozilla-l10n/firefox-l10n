@@ -31,12 +31,14 @@ firefoxview-tabpickup-step-signin-header = Aldatu di-da batean gailuen artean
 firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen izateko, hasi saioa edo sortu kontua lehenik.
 firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } zure gailu guztietan
+firefoxview-syncedtabs-signin-description-2 = Zure telefono eta bestelako gailuetan irekita dauzkazun fitxak ikusteko, hasi saioa edo eman izena kontu bat sortzeko. Kontu batekin pasahitzak, historia eta gehiago ere sinkronizatu ahal izango duzu.
 firefoxview-syncedtabs-signin-primarybutton-2 = Hasi saioa
 firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
 firefoxview-tabpickup-adddevice-learn-how = Ikasi nola
 firefoxview-tabpickup-adddevice-primarybutton = Eskuratu mugikorrerako { -brand-product-name }
 firefoxview-syncedtabs-adddevice-header-2 = Hartu fitxak edonondik
+firefoxview-syncedtabs-adddevice-description-2 = Hemen fitxak ikusteko, hasi saioa { -brand-product-name }(e)n zure telefonoan edo beste ordenagailu batean. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Probatu mugikorrerako { -brand-product-name }
 firefoxview-tabpickup-synctabs-header = Gaitu fitxen sinkronizazioa
 firefoxview-tabpickup-synctabs-description = Baimendu { -brand-short-name }(r)i gailuen artean fitxak partekatzea.
@@ -202,6 +204,7 @@ firefoxview-show-all-history = Erakutsi historia guztia
 
 firefoxview-history-empty-header = Itzuli zeuden tokira
 firefoxview-history-empty-description = Nabigatu ahala, bisitatzen dituzun orrian hemen zerrendatuko dira.
+firefoxview-history-empty-description-two = Zure pribatutasuna babestea barru-barruan daramagu. Horregatik kontrola dezakezu { -brand-short-name }(e)k gogoratuko duen jarduera zure <a data-l10n-name="history-settings-url">historia-ezarpenetan</a>.
 
 ##
 
