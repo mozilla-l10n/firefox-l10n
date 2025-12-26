@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Vildledende websted forude
 safeb-blocked-malware-page-title = Det kan skade din computer at besøge dette websted
 safeb-blocked-unwanted-page-title = Dette websted kan indeholde skadelige programmer
 safeb-blocked-harmful-page-title = Webstedet kan indeholde skadelig software
+safeb-blocked-addon-page-title = Webstedet er blokeret for din sikkerheds skyld
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil snyde dig til at gøre noget farlig, fx at installerede skadelig software eller afsløre personlig information som  dine adgangskoder eller oplysninger om betalingskort.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil forsøge at installere ondsindet software, der kan stjæle eller slette personlig information på din computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil forsøge at snyde dig til at installere programmer, der gør dine oplevelse op nettet dårligere (fx ved at ændre din startside eller vise ekstra reklamer på websteder, du besøger).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blokerede denne side, fordi den måske vil forsøge at installere skadelig software, der stjæler eller sletter dine informationer (eksempelvis billeder, adgangskoder, beskeder eller oplysninger om betalingskort).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } blokerede denne side, fordi en af dine tilføjelser forsøgte at åbne den. Webstedet kan anvendes til at stjæle dine oplysninger - såsom adgangskoder eller info om betalingskort.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rådgivning leveres af <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>
