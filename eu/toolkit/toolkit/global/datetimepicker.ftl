@@ -71,6 +71,11 @@ time-spinner-hour-label =
     .aria-label = Ordua
 time-spinner-minute-label =
     .aria-label = Minutua
+# For example, in English, when the 24 hours of the day are divided into two
+# periods of 12 hours, the time of the day, or the period of the day is either
+# AM (for 00:00-11:59) or PM (for 12:00-23:59), i.e. noon is 12 PM, midnight - 12 AM
+time-spinner-day-period-label =
+    .aria-label = Egunaren periodoa
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
@@ -83,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Aurreko minutua
 time-spinner-minute-next =
     .aria-label = Hurrengo minutua
+time-spinner-day-period-previous =
+    .aria-label = Egunaren aurreko periodoa
+time-spinner-day-period-next =
+    .aria-label = Egunaren hurrengo periodoa

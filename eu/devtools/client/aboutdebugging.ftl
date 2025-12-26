@@ -112,6 +112,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Gaitu garatzaile-menua zure An
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Gaitu USB arazketa Android garatzaile-menuan.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-file-transfer = Gaitu fitxategi-transferentzia eta ziurtatu zure gailua ez dagoela soilik kargatzeko moduan.
+# USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Gaitu Firefoxen USB arazketa Android gailuan.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Konektatu Android gailua zure ordenagailura.
