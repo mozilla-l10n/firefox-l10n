@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cookie-banner-handled-webconsole = { -brand-shorter-name }(e)k cookie iragarki-banda bat maneiatu du erabiltzailearen izenean.
+opentabs-page-title = Aukeratu ikuspegi zatituan gehitu beharreko fitxa
