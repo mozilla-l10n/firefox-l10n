@@ -180,12 +180,14 @@ fp-neterror-offline-intro = { -brand-short-name } kan ikke oprette forbindelse t
 fp-neterror-coop-coep-intro = { -brand-short-name } indlæste ikke denne side, fordi det ser ud til, at sikkerhedskonfigurationen ikke matcher den forrige side.
 fp-neterror-http-auth-disabled-intro = Nogen som udgiver sig for at være webstedet kan forsøge at stjæle ting som dit brugernavn, adgangskoder eller mails.
 fp-neterror-http-auth-disabled-secure-connection = Dette websted kræver en sikker forbindelse, og du kan ikke tilføje en undtagelse for at besøge det.
+fp-neterror-why-did-this-happen = Hvorfor skete dette?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Det ser ud til, at webstedet bruger gammel software med kendte sikkerhedsproblemer.
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } stoler ikke på { $hostname }, fordi forbindelsen ikke er sikker.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Vær sikker på, at du bruger den nyeste version af { -brand-short-name }. Åbn menuen og gå til Hjælp > Om { -brand-short-name }. Hvis du bruger den nyeste version, så skyldes problemet sandsynligvis webstedet.
 fp-neterror-offline-what-can-you-do-body = Prøv at oprette forbindelse med en anden enhed. Kontroller dit modem eller din router. Afbryd wi-fi-forbindelsen og opret den igen.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Prøv at ændre URLen til HTTPS. Men der er sandsynligvis et problem med selve webstedet.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Nogle gange sætter websteder beskyttelse op for dem selv for at undgå uønsket interaktion med andre websteder.
 fp-learn-more-about-https-connections = Lær om HTTPS-forbindelser

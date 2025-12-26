@@ -128,6 +128,10 @@ fp-certerror-transparency-what-can-you-do-body = Sandsynligvis ingenting, da der
 fp-learn-more-about-secure-connection-failures = Læs mere om fejl med at oprette en sikker forbindelse
 fp-learn-more-about-cert-issues = Læs mere om denne slags certifikat-problemer
 fp-learn-more-about-time-related-errors = Læs mere om at fejlsøge tids-relaterede problemer
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } stoler ikke på dette websted, fordi det ser ud til, at det angivne certifikat ikke er gyldigt før { DATETIME($date, timeStyle: "short") } den { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
