@@ -125,6 +125,7 @@ about-processes-utility-actor-audio-decoder-wmf = Shkodues Audio Windows Media F
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Mjete Windows
 about-processes-utility-actor-windows-file-dialog = Dialog Windows Për Kartela
+about-processes-utility-actor-pkcs11-module = Ndihmës Moduli Sigurie
 
 ## Displaying CPU (percentage and total)
 ## Variables:

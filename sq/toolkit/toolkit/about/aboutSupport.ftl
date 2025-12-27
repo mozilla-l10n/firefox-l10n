@@ -183,6 +183,8 @@ media-capabilities-enumerate = Numërtoni bazë të dhënash
 
 media-codec-support-sw-decoding = Shkodim nga Software
 media-codec-support-hw-decoding = Shkodim nga Hardware
+media-codec-support-sw-encoding = Kodim nga Software
+media-codec-support-hw-encoding = Kodim nga Hardware
 media-codec-support-codec-name = Emër Kodeku
 media-codec-support-supported = I mbuluar
 media-codec-support-unsupported = E pambuluar

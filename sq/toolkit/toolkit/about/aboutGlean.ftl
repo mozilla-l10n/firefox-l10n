@@ -167,6 +167,10 @@ about-glean-metrics-table-settings-timelines-height = Lartësi
 about-glean-metrics-table-settings-timelines-width = Gjerësi
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Rreze rrethi
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Shmangie X e boshtit Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Shmangie Y e boshtit Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtër
 # This message sits alongside an input field, further describing its purpose.
@@ -184,6 +188,8 @@ about-glean-button-watch = Mbikëqyreni
 # Meaning "to stop watching"
 about-glean-button-unwatch = Ndale mbikëqyrjen
 about-glean-no-data-to-display = S’ka të dhëna për shfaqje.
+# Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje <code>DualLabeledCounter</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje me etiketa.
 about-glean-unknown-metric-type-warning = Lloj i panjohur matjeje.

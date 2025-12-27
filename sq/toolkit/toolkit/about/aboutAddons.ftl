@@ -288,6 +288,10 @@ colorway-removal-notice-message =
         te sajti i shtesave versione të rinj.
 colorway-removal-notice-learn-more = Mësoni më tepër
 colorway-removal-notice-button = Merrni tema ngjyrimesh të përditësuara
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Rregullimet tuaja për kontrast në Windows po anashkalojnë tema të { -brand-short-name }-it. Që të përdorni tema në { -brand-short-name }, çaktivizoni këto rregullime.
 privacy-policy = Rregulla Privatësie
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -536,6 +540,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Më Tepër Hollësi
 details-notification-blocked = { $name } është çaktivizuar për shkak problemesh sigurie ose qëndrueshmërie.
 details-notification-blocked-link2 = Shihni Hollësitë
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Ky zgjerim është i kufizuar dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Ky zgjerim është i kufizuar. Përdorim i tij mund të jetë i rrezikshëm.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Kjo shtesë është ë kufizuar dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Kjo shtesë është e kufizuar. Përdorimi i saj mund të jetë i rrezikshëm.
 details-notification-soft-blocked-extension-disabled =
     .message = Ky zgjerim është kufizuar ngaqë cenon rregullat e Mozilla-s dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
 details-notification-soft-blocked-extension-enabled =

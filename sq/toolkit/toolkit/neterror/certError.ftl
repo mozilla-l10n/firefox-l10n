@@ -76,6 +76,10 @@ fp-certerror-return-to-previous-page-recommended-button = Shko mbrapsht (E kësh
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name }-i po ju sinjalizon rreth këtij sajti, ngaqë dëshmia e dhënë për { $hostname } është shfuqizuar dhe s’është më e besueshme.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Sajti është ujdisur të lejojë vetëm lidhje të siguruara, por ka një problem me dëshminë e sajtit. Është e mundur që dikush me qëllime të liga të jetë duke provuar të imitojë sajtin. Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë dëshmia e tij s’është e vlefshme për { $hostname }. Dëshmia është e vlefshme vetëm për: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
