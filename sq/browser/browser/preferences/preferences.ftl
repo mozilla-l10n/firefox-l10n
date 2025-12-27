@@ -442,6 +442,15 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
     .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = S’u shkarkuan gjuhë
+settings-translations-subpage-no-languages-added =
+    .label = S’u shtuan gjuhë
+settings-translations-subpage-download-progress = Shkarkim në ecuri e sipër…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = S’u shkarkua dot { $language } ({ $size }MB)
 settings-translations-subpage-download-retry-button =
     .label = Riprovoni
 # Variables:
