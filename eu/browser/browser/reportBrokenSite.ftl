@@ -49,3 +49,7 @@ report-broken-site-panel-missing-reason-label = Aukeratu arrazoia
 report-broken-site-panel-blocked-trackers-label =
     .label = Bidali jarraipenaren babesak blokeatutako URLak
 report-broken-site-panel-blocked-trackers-description = Webguneek behar bezala aritzeko behar dituzten jarraipen-elementu eta scriptak blokea litzake jarraipenaren babes hobetuak.
+report-broken-site-panel-preview-button =
+    .label = Aurreikusi txostena
+report-broken-site-panel-preview-header =
+    .label = Aurreikusi txostena

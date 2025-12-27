@@ -96,6 +96,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ez, eskerrik asko
 
 perplexity-callout-theme-1-title = Erantzun zuzena behar duzu, berehala?
 perplexity-callout-theme-2-title = Probatu Perplexity: bilaketak egiteko modu berria
+perplexity-callout-theme-1-subtitle-1 = Probatu Perplexity. Aukera ezazu bilaketarako botoitik erantzun osoak nahi dituzunean, iturburuak barne.
 perplexity-callout-secondary-label-1 = Baztertu
 perplexity-callout-secondary-label-2 = Ulertuta
 

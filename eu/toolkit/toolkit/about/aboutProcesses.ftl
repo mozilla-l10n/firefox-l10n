@@ -53,6 +53,7 @@ about-processes-remote-sandbox-broker-process = Urruneko isolamenduko artekaria 
 about-processes-fork-server-process = Fork zerbitzaria ({ $pid })
 about-processes-preallocated-process = Aurrez esleitutakoa ({ $pid })
 about-processes-utility-process = Utilitatea ({ $pid })
+about-processes-inference-process = Inferentzia ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -128,6 +129,9 @@ about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework audio-
 about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
+about-processes-utility-actor-windows-utils = Windows tresnak
+about-processes-utility-actor-windows-file-dialog = Windows fitxategien elkarrizketa-koadroa
+about-processes-utility-actor-pkcs11-module = Segurtasun-moduluaren laguntzailea
 
 ## Displaying CPU (percentage and total)
 ## Variables:
