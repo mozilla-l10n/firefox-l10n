@@ -420,6 +420,48 @@ settings-translations-subpage-always-translate-header =
     .label = Itzuli beti hizkuntza hauek
 settings-translations-subpage-never-translate-header =
     .label = Ez itzuli inoiz hizkuntza hauek
+settings-translations-subpage-never-translate-sites-header =
+    .label = Ez itzuli inoiz gune hauek
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Gune bat gehitzeko, ireki <img data-l10n-name="translations-icon"/> itzulpenen panela, hautatu <img data-l10n-name="settings-icon"/> itzulpenen ezarpenak, gero aukeratu "Ez itzuli inoiz gune hau"
+settings-translations-subpage-language-select-option =
+    .label = Gehitu hizkuntza
+settings-translations-subpage-language-add-button =
+    .aria-label = Gehitu hizkuntza
+    .title = Gehitu hizkuntza
+settings-translations-subpage-download-languages-header =
+    .label = Deskargatu hizkuntzak
+settings-translations-subpage-download-languages-select-option =
+    .label = Hautatu hizkuntza
+settings-translations-subpage-download-languages-button =
+    .aria-label = Deskargatu hizkuntza
+    .title = Deskargatu hizkuntza
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ez da hizkuntzarik deskargatu
+settings-translations-subpage-no-languages-added =
+    .label = Ez da hizkuntzarik gehitu
+settings-translations-subpage-download-progress = Deskargatzen ari da…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Ezin izan da { $language } deskargatu ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Saiatu berriro
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Ezabatu { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Ezabatu
+settings-translations-subpage-download-cancel-button =
+    .label = Utzi
+settings-translations-subpage-no-sites-added =
+    .label = Ez da gunerik gehitu
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -867,6 +909,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Erakutsi bilaketa-iradokizunak helbide-barrako emaitzetan
     .accesskey = h
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Helbide-barrako emaitzetan, erakutsi bilaketa-iradokizunak nabigatze-historiaren aurretik
+search-show-suggestions-private-windows-2 =
+    .label = Bilaketa-iradokizunak leiho pribatuetan
 search-suggestions-cant-show-2 =
     .message = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -878,6 +929,8 @@ search-separate-default-engine-2 =
     .accesskey = b
 search-separate-default-engine-dropdown =
     .aria-label = Bilaketa-motor lehenetsia leiho pribatuetan
+search-suggestions-header-2 =
+    .label = Bilaketa-motorren iradokizunak
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -954,6 +1007,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinkronizazioa
+account-placeholder =
+    .label = Ez duzu saiorik hasi
+    .description = Hasi saioa zure datuak pribatu, zifratuta eta gailu guztien artean sinkronizatuta mantentzeko.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -963,6 +1019,12 @@ sync-signedout-description2 = Sinkronizatu laster-markak, historia, fitxak, pasa
 sync-signedout-account-signin3 =
     .label = Hasi saioa sinkronizatzeko…
     .accesskey = s
+sync-signedout-account-signin-4 =
+    .label = Sinkronizatzen hasteko, hasi saioa zure kontuan
+    .accesskey = H
+sync-signedout-account-short =
+    .label = Hasi saioa
+    .accesskey = H
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1001,7 +1063,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
+sync-signedin-unverified2 =
+    .label = { $email } ez dago berretsita oraindik
+    .description = Begiratu zure sarrera-ontzia zure kontua berretsi eta ofizial egiteko.
 sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
+sync-signedin-login-failure2 =
+    .label = { $email } saiotik kanpo zaude
+    .description = Hasi berriro saioa birkonektatzeko eta zure datuak sinkronizatzen hasteko.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1021,7 +1099,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sinkronizazioa: aktibo
+prefs-syncing-on-2 =
+    .label = Sinkronizazioa aktibo dago
 prefs-syncing-off = Sinkronizazioa: inaktibo
+prefs-syncing-off-2 =
+    .label = Sinkronizazioa inaktibo dago
+    .description = Aktibatu sinkronizazioa zure laster-markak, pasahitzak, historia eta gehiago edozein gailutan lortzeko.
 prefs-sync-turn-on-syncing =
     .label = Gaitu sinkronizazioa…
     .accesskey = s
@@ -1064,6 +1147,9 @@ sync-currently-syncing-addons = Gehigarriak
 sync-currently-syncing-settings = Ezarpenak
 sync-manage-options =
     .label = Kudeatu sinkronizazioa…
+    .accesskey = K
+sync-manage-options-2 =
+    .label = Kudeatu sinkronizatutako datuak
     .accesskey = K
 sync-change-options =
     .label = Aldatu…
