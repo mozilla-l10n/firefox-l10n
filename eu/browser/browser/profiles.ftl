@@ -55,6 +55,10 @@ new-profile-page-input-placeholder =
     .placeholder = Hautatu izen bat, adibidez "Lana" edo "Pertsonala"
 new-profile-page-done-button =
     .label = Edizioa eginda
+# Variables
+#   $profilename (String) - The name of the copied profile.
+copied-profile-page-header = Zure { $profilename } profilaren kopia pertsonalizatzeko prest dago
+copied-profile-page-header-description = Zure datu eta ezarpenak profil berri batera kopiatu ditugu. Orain emaiozu izen bat, aukeratu itxura eta pertsonaliza ezazu.
 profile-window-title-2 = { -brand-short-name } - Aukeratu profila
 profile-window-logo =
     .alt = { -brand-short-name } logoa
@@ -67,12 +71,14 @@ delete-profile-page-title = Ezabatu { $profilename } profila
 # Variables
 #   $profilename (String) - The name of the profile.
 delete-profile-header = Ezabatu { $profilename } profila?
+delete-profile-description = { -brand-short-name }(e)k behin betiko ezabatuko ditu ondorengo datuak gailu honetatik:
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = Irekitako leihoak
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Irekitako fitxak
 delete-profile-bookmarks = Laster-markak
 delete-profile-history = Historia (bisitatutako orriak, cookieak, guneen datuak)
+delete-profile-autofill = Betetze automatikorako datuak (helbideak, ordainketa-metodoak)
 delete-profile-logins = Pasahitzak
 
 ##
@@ -182,6 +188,7 @@ leaf-avatar = Hostoa
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Mezua
 palette-avatar = Paleta
+picture-avatar = Irudia
 # Present refers to a gift box, not the current time period
 present-avatar = Oparia
 shopping-avatar = Erosketa-orga
@@ -189,6 +196,12 @@ soccer-ball-avatar = Futboleko baloia
 star-avatar = Izarra
 custom-avatar-crop-back-button =
     .aria-label = Atzera
+custom-avatar-crop-view =
+    .aria-label = Moztu irudiaren ikuspegia
+custom-avatar-crop-area =
+    .aria-label = Doitu mozteko eremua
+custom-avatar-drag-handle =
+    .aria-label = Aldatu tamainaz mozteko eremua
 profiles-appmenu-callout-tour-title = Zure profil berria prest dago
 profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola
 bike-avatar = Bizikleta
