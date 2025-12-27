@@ -14,6 +14,7 @@ url-classifier-search-result-list = Listë tabëlash: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL e pavlefshme
 url-classifier-search-error-no-features = S’janë përzgjedhur veçori
+url-classifier-search-error-no-results = S’u gjetën zëra për URL-në
 url-classifier-search-btn = Filloni të kërkoni
 url-classifier-search-features = Veçori
 url-classifier-search-listType = Lloj liste
