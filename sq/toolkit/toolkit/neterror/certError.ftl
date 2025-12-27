@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Shko mbrapsht (E kësh
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name }-i po ju sinjalizon rreth këtij sajti, ngaqë dëshmia e dhënë për { $hostname } është shfuqizuar dhe s’është më e besueshme.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Me gjasa asgjë, ngaqë ka shumë mundësi të ketë një problem me vetë sajtin. Mund të bisedoni me të zotin e sajtit, për të parë nëse po merret me problemin.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -195,3 +197,4 @@ fp-certerror-hide-advanced-button = Fshihi të mëtejshmet
 fp-certerror-override-exception-button = Vazhdo për te { $hostname } (E rrezikshme)
 fp-certerror-intro = { -brand-short-name } pikasi një problem potencialisht serioz sigurie me <strong>{ $hostname }</strong>. Dikush që po pretendon se është sajti mund të vjedhë gjëra të tilla si hollësi kartash kredit, fjalëkalime, ose email-e.
 fp-certerror-expired-into = { -brand-short-name } pikasi një problem sigurie me <strong>{ $hostname }</strong>. Ose sajti s’është ujdisur si duhet, ose sahati i pajisjes tuaj është vënë në datë/kohë të gabuar.
+fp-certerror-transparency-intro = Dikush që hiqet se është <strong>{ $hostname }</strong> mund të provonte të vidhte gjëra të tilla si hollësi kartash krediti, fjalëkalime, ose email-e.

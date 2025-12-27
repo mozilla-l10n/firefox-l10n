@@ -168,11 +168,26 @@ certerror-coep-learn-more = Mësoni më tepër mbi “Cross Origin Embedder Poli
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kod gabimi: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Duket se ka një problem me lidhjen tuaj në internet
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }-i s’mund të krijojë një lidhje të siguruar me shërbyesin te { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } s’mund të lidhet te shërbyesi në <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name }-i s’e ngarkoi këtë faqe, ngaqë duket se formësimi i sigurisë s’përkon me faqen e mëparshme.
+fp-neterror-http-auth-disabled-intro = Dikush që hiqet se është sajti mund të provonte të vidhte gjëra të tilla si emrin juaj i përdoruesit, fjalëkalimin, ose email-in.
+fp-neterror-http-auth-disabled-secure-connection = Ky sajt lyp një lidhje të siguruar dhe s’mund të shtoni një përjashtim, për ta vizituar.
+fp-neterror-why-did-this-happen = Pse ndodhi kjo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Duket se ky sajt përdor “software” të vjetër, me probleme të ditura sigurie.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } s’i zë besë { $hostname }, ngaqë lidhja s’është e siguruar.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Sigurohuni të përdorni versionin më të ri të { -brand-short-name }-it. Kaloni te Ndihmë > Mbi { -brand-short-name }-in, te menuja. Nëse po përdorni { -brand-short-name }-in më të ri, gjasat janë që problemi të jetë me vetë sajtin.
+fp-neterror-offline-what-can-you-do-body = Provoni të lidheni që nga një pajisje tjetër. Shihni modemin ose rrugëzuesin tuaj. Shkëputuni dhe rilidhuni me Wi-Fi-n.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Provoni të ndryshoni URL-në në HTTPS. Por ka mundësi të ketë një problem me vetë sajtin.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Ndonjëherë, sajtet ujdisin mbrojtje për veten, kundër ndërveprimesh të padëshiruara me sajte të tjerë.
+fp-learn-more-about-https-connections = Mësoni rreth lidhjesh HTTPS
