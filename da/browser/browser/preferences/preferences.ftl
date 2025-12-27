@@ -403,6 +403,10 @@ translate-attribution = Oversættelser af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undtagelser…
     .accesskey = n
+settings-translations-header =
+    .label = Oversættelser
+    .aria-label = Oversættelser
+    .description = Oversæt sider eller markeret tekst. For at beskytte dit privatliv forbliver oversættelser på din enhed.
 settings-translations-offer-to-translate-label =
     .label = Tilbyd oversættelse af hele sider
 settings-translations-more-settings-button =
@@ -421,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Oversæt aldrig disse sprog
 settings-translations-subpage-never-translate-sites-header =
     .label = Oversæt aldrig disse websteder
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = For at tilføje et websted skal du åbne <img data-l10n-name="translations-icon"/>oversættelses-panelet <img data-l10n-name="settings-icon"/>, vælge indstillinger for oversættelse og derefter vælge "Oversæt aldrig dette websted"
 settings-translations-subpage-language-select-option =
     .label = Tilføj sprog
 settings-translations-subpage-language-add-button =

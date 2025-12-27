@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-translations-learn-more-link = Læs mere
+about-translations-unsupported-info-button = Læs mere
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Kunne ikke indlæse sprog.
+    .message = Kontroller din internetforbindelse, og prøv igen.
+about-translations-language-load-error-button = Prøv igen
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:

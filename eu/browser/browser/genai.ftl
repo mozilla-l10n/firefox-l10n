@@ -35,6 +35,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Azaldu hau
     .value = Azaldu hautapenaren kontzeptu gakoak hitz sinpleak erabiliz. Erabili adibideak halaber.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Zuzendu
+    .value = Mesedez zuzendu hautapeneko ortografia- eta gramatika-akatsak. Identifikatu akatsak eta eman testuaren zuzendutako bertsioa. Mantendu esanahi eta benetakotasuna eta eman proposatutako zuzenketen zerrenda lehenik, bukaerako zuzendutako testuagatik jarraituta.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -69,6 +73,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Galdetu { $provider } hornitzaileari…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = AA txaterako botak ez du zure hautapen osoa hartuko
+    .message =
+        { $selectionLength ->
+            [one] Gutxi gorabehera karaktere { $selectionLength } hautatu duzu. AA txatera gehienez ere bidal ditzakegun karaktere kopurua { $maxLength } da gutxi gorabehera.
+           *[other] Gutxi gorabehera { $selectionLength } karaktere hautatu dituzu. AA txatera gehienez ere bidal ditzakegun karaktere kopurua { $maxLength } da gutxi gorabehera.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider }(e)k ez du zure hautapen osoa hartuko
+    .message =
+        { $selectionLength ->
+            [one] Gutxi gorabehera karaktere { $selectionLength } hautatu duzu. { $provider }(e)ra gehienez ere bidal ditzakegun karaktere kopurua { $maxLength } da gutxi gorabehera.
+           *[other] Gutxi gorabehera { $selectionLength } karaktere hautatu dituzu. { $provider }(e)ra gehienez ere bidal ditzakegun karaktere kopurua { $maxLength } da gutxi gorabehera.
+        }
 genai-shortcuts-hide =
     .label = Ezkutatu txaterako botaren lasterbidea
 genai-menu-choose-chatbot =
@@ -156,6 +179,9 @@ genai-chatbot-summarize-title = Berria Laburbildu orriak klik bakarrean
 genai-chatbot-summarize-button = Laburbildu orria
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Egin eskuin-klika alboko barrako AA txaterako botean eta aukeratu "Laburbildu orria".
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Ireki alboko barran AA txaterako bota eta aukeratu behean "Laburbildu orria".
+genai-chatbot-summarize-footer-generic-subtitle = Gehitu AA txaterako bota { -brand-short-name } alboko barran orriak ziztu batean laburbiltzeko.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -189,6 +215,18 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] Irakurketa-denbora: { $range } min
+       *[other] Irakurketa-denbora: { $range } min
+    }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message = Ezin dugu lotura honen aurrebistarik sortu
 # Text for the link to visit the original URL when in error state
