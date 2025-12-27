@@ -224,16 +224,12 @@ tabbrowser-manager-current-window-tab-group =
 
 ##
 
-tab-group-editor-title-create = Sortu fitxen multzoa
-tab-group-editor-title-edit = Kudeatu fitxen multzoa
 tab-group-editor-name-label = Izena
 tab-group-editor-name-field =
     .placeholder = Adibidea: erosketak
 tab-group-editor-cancel =
     .label = Utzi
     .accesskey = z
-tab-group-editor-color-selector =
-    .aria-label = Fitxa multzoaren kolorea
 tab-group-editor-color-selector2-blue = Urdina
     .title = Urdina
 tab-group-editor-color-selector2-purple = Morea
@@ -252,33 +248,38 @@ tab-group-editor-color-selector2-gray = Grisa
     .title = Grisa
 tab-group-editor-color-selector2-red = Gorria
     .title = Gorria
-tab-group-description = { $tabGroupName } — Fitxa multzoa
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Tolestuta
 tab-group-label-tooltip-expanded = { $tabGroupName } — Zabalduta
+tab-group-preview-name =
+    .aria-label = Fitxak tolestutako talde batean
 tab-context-unnamed-group =
     .label = Multzo izengabea
 tab-group-name-default = Multzo izengabea
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Fitxen zerrenda zabalik
+tab-group-preview-closed-description = Fitxen zerrenda itxita
+
 ##
 
-tab-context-move-tab-to-new-group =
+tab-context-move-split-view-to-new-group =
     .label =
-        { $tabCount ->
-            [1] Gehitu fitxa multzo berrira
-            [one] Gehitu fitxa multzo berrira
-           *[other] Gehitu fitxak multzo berrira
+        { $splitViewCount ->
+            [1] Gehitu ikuspegi zatitua talde berrira
+           *[other] Gehitu ikuspegi zatituak talde berrira
         }
     .accesskey = G
-tab-context-move-tab-to-group =
+tab-context-move-split-view-to-group =
     .label =
-        { $tabCount ->
-            [1] Gehitu fitxa multzora
-            [one] Gehitu fitxa multzora
-           *[other] Gehitu fitxak multzora
+        { $splitViewCount ->
+            [1] Gehitu ikuspegi zatitua taldera
+           *[other] Gehitu ikuspegi zatituak taldera
         }
     .accesskey = G
-tab-group-editor-action-new-tab =
-    .label = Fitxa berria multzoan
+tab-context-move-tab-to-group-saved-groups =
+    .label = Itxitako taldeak
 tab-group-editor-action-new-window =
     .label = Eraman multzoa leiho berrira
 tab-group-editor-action-save =
@@ -290,8 +291,6 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Eginda
     .accessKey = E
-tab-context-reopen-tab-group =
-    .label = Ireki berriro fitxa multzoa
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
@@ -343,11 +342,19 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Gehitu oharra
     .accesskey = G
+tab-context-update-note =
+    .label = Eguneratu oharra
+    .accesskey = E
 tab-context-edit-note =
     .label = Editatu oharra
     .accesskey = E
+tab-context-delete-note =
+    .label = Ezabatu oharra
+    .accesskey = z
 tab-note-editor-title-create = Gehitu oharra
 tab-note-editor-title-edit = Editatu oharra
+tab-note-editor-text-field =
+    .placeholder = Zer gogoratu nahi duzu fitxa honi buruz?
 tab-note-editor-button-cancel =
     .label = Utzi
     .accesskey = U
@@ -357,9 +364,30 @@ tab-note-editor-button-save =
 
 ## Split View
 
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Ikuspegi zatitua
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Gehitu ikuspegi zatitua
+    .accesskey = z
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Ireki ikuspegi zatituan
+    .accesskey = k
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Banandu ikuspegi zatitua
+    .accesskey = z
 tab-context-badge-new = Berria
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Banandu fitxak
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Alderantzikatu fitxak
 split-view-menuitem-close-both-tabs =
     .label = Itxi bi fitxak
