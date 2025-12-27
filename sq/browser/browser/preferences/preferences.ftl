@@ -403,6 +403,45 @@ translate-attribution = Përkthime nga <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Përjashtime…
     .accesskey = P
+settings-translations-header =
+    .label = Përkthime
+    .aria-label = Përkthime
+    .description = Përktheni faqe, ose tekst të përzgjedhur. Që të mbrohet privatësia juaj, përkthimet mbeten në pajisjen tuaj.
+settings-translations-offer-to-translate-label =
+    .label = Ofro përkthim të tërë faqes
+settings-translations-more-settings-button =
+    .label = Më tepër rregullime përkthimi
+    .description = Caktoni parapëlqime për gjuhë, sajte dhe përkthim jashtë interneti.
+settings-translations-subpage-header =
+    .heading = Më tepër rregullime përkthimi
+settings-translations-subpage-speed-up-translation-header =
+    .label = Përshpejtoni përkthimin
+    .description = Shkarkoni gjuhë të plota, për përkthime më të shpejta dhe për të përkthyer jashtë interneti.
+settings-translations-subpage-automatic-translation-header =
+    .label = Përkthim i automatizuar
+settings-translations-subpage-always-translate-header =
+    .label = Këto gjuhë përktheji përherë
+settings-translations-subpage-never-translate-header =
+    .label = Mos i përkthe kurrë këto gjuhë
+settings-translations-subpage-never-translate-sites-header =
+    .label = Mos i përkthe kurrë këta sajte
+settings-translations-subpage-language-select-option =
+    .label = Shtoni gjuhë
+settings-translations-subpage-language-add-button =
+    .aria-label = Shtoni gjuhë
+    .title = Shtoni gjuhë
+settings-translations-subpage-download-languages-header =
+    .label = Shkarko gjuhë
+settings-translations-subpage-download-languages-select-option =
+    .label = Përzgjidhni gjuhë
+settings-translations-subpage-download-languages-button =
+    .aria-label = Shkarko gjuhë
+    .title = Shkarko gjuhë
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
 settings-translations-subpage-download-retry-button =
     .label = Riprovoni
 # Variables:
