@@ -482,6 +482,15 @@ translate-attribution = Překlady od <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Výjimky…
     .accesskey = V
+settings-translations-header =
+    .label = Překlady
+    .aria-label = Překlady
+    .description = Přeloží stránky nebo vybraný text. Z důvodu ochrany vašeho soukromí zůstávají překlady ve vašem zařízení.
+settings-translations-offer-to-translate-label =
+    .label = Nabízet překlad celé stránky
+settings-translations-more-settings-button =
+    .label = Další nastavení pro překlady
+    .description = Nastavení předvoleb pro jazyky, webové stránky a offline překlad.
 settings-translations-subpage-header =
     .heading = Další nastavení překladu
 settings-translations-subpage-automatic-translation-header =
