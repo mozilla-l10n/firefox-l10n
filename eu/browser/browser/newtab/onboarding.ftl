@@ -494,4 +494,11 @@ restored-from-backup-error-primary-button = Itxi
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Pertsonalizatu zure { -brand-short-name } esperientzia
+onboarding-personalization-use-case-title = Zertarako erabiliko duzu { -brand-short-name }?
+onboarding-personalization-use-case-personal-option = Pertsonala
+onboarding-personalization-use-case-school-option = Eskola
+onboarding-personalization-use-case-work-option = Lana
+onboarding-personalization-motivation-title = { -brand-short-name }(r)en zein eginbide dira garrantzitsuenak zuretzat?
+onboarding-personalization-motivation-privacy-option = Pribatutasuna eta segurtasuna
+onboarding-personalization-motivation-productivity-option = Produktibitatea
 onboarding-personalization-motivation-other-option = Bestelakoa

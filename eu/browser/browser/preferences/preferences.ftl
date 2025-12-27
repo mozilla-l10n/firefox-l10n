@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = Zure kontrastearen kontrol-ezarpenek webgunearen itxura baliogabetzen dute.
 preferences-web-appearance-link =
     .label = Kudeatu { -brand-short-name }(r)en itxurak Hedapenak eta itxura atalean
+preferences-contrast-control-group =
+    .label = Webguneen kontrastea
+    .description = Webguneek aurreko eta atzeko planoko askotariko koloreak erabiltzen dituzte. Kontraste koherente baterako, kolore berdinak erabil ditzakezu webguneetan zehar.
 preferences-contrast-control-radio-group =
     .label = Baliogabetu koloreak
 # This can appear when using windows HCM or "Override colors: always" without
@@ -1425,6 +1428,16 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Kudeatu helbideak eta gehiago
     .accesskey = K
+addresses-list-header =
+    .label = Helbideak
+addreses-delete-address-button-label =
+    .aria-label = Ezabatu
+addreses-edit-address-button-label =
+    .aria-label = Editatu
+addresses-delete-address-prompt-title = Ezabatu helbidea?
+addresses-delete-address-prompt-confirm-button = Ezabatu
+addresses-delete-address-prompt-cancel-button = Utzi
+autofill-addresses-add-button = Gehitu helbide berria
 autofill-addresses-manage-addresses-title =
     .heading = Kudeatu helbideak eta gehiago
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
@@ -1793,6 +1806,7 @@ permissions-location = Kokapena
 permissions-location-settings =
     .label = Ezarpenak…
     .accesskey = n
+permissions-localhost = Gailuaren aplikazio eta zerbitzuak
 permissions-localhost-settings =
     .label = Ezarpenak…
     .accesskey = z
@@ -1889,6 +1903,7 @@ collection-header2 = { -brand-short-name } datuen bilketa eta erabilera
     .searchkeywords = telemetria
 preferences-collection-description = Zuri aukerak eskaintzen ahalegintzen gara eta { -brand-product-name } guztiontzat hobetzeko behar diren gutxieneko datuak biltzen ditugu soilik.
 preferences-collection-privacy-notice = Ikusi pribatutasun-oharra
+preferences-across-profiles = Ezarpen hauek gailu honetako { -brand-product-name }(r)en profil guztiei eragiten die.
 preferences-view-profiles = Ikusi profil guztiak
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
@@ -1943,6 +1958,7 @@ website-advertising-header = Webguneen iragarkietako hobespenak
 website-advertising-private-attribution =
     .label = Baimendu webguneei pribatutasuna errespetatzen duen iragarki-neurketa egitea
     .accesskey = a
+website-advertising-private-attribution-description = Honek laguntzen die webguneei beraien iragarkien errendimendua ulertzen, horretarako zuri buruzko daturik bildu gabe.
 
 ## Privacy Section - Security
 ##
