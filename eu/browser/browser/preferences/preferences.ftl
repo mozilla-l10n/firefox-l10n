@@ -1410,6 +1410,9 @@ autofill-payment-methods-add-button = Gehitu ordainketa-metodo berria
 payments-list-header =
     .label = Ordainketa-metodoak
 payments-list-item-label = <strong>Ordainketa-metodoak</strong>
+payments-delete-payment-prompt-title = Ezabatu ordainketa-metodo hau?
+payments-delete-payment-prompt-confirm-button = Ezabatu
+payments-delete-payment-prompt-cancel-button = Utzi
 payments-remove-payment-prompt-title = Kendu ordainketa-metodo hau?
 payments-remove-payment-prompt-confirm-button = Kendu
 payments-remove-payment-prompt-cancel-button = Utzi
@@ -1422,6 +1425,15 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Kudeatu helbideak eta gehiago
     .accesskey = K
+autofill-addresses-manage-addresses-title =
+    .heading = Kudeatu helbideak eta gehiago
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1467,6 +1479,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name }(e)k ezarpen pertsonalizatuak erabiliko ditu zure nabigatze-, deskarga-, inprimaki- eta bilaketa-historiarako.
 history-remember-description = { -brand-short-name }(e)k zure nabigazio-, deskarga-, inprimaki- eta bilaketa-historia gogoratuko ditu.
 history-dontremember-description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
 history-private-browsing-permanent =
@@ -1506,6 +1521,8 @@ sitedata-learn-more = Argibide gehiago
 sitedata-delete-on-close =
     .label = Ezabatu cookieak eta guneetako datuak { -brand-short-name } ixtean
     .accesskey = c
+sitedata-delete-on-close-private-browsing3 =
+    .message = Zure historia-ezarpenetan oinarrituta, { -brand-short-name }(e)k zure saioko cookieak eta guneko datuak ezabatzen ditu nabigatzailea ixtean.
 sitedata-delete-on-close-private-browsing = Nabigatze pribatu modu iraunkorrean cookieak eta guneetako datuak beti garbituko dira { -brand-short-name } ixtean.
 sitedata-delete-on-close-private-browsing2 = Zure historia-ezarpenetan oinarrituta, { -brand-short-name }(e)k zure saioko cookieak eta guneko datuak ezabatzen ditu nabigatzailea ixtean.
 sitedata-allow-cookies-option =
@@ -1573,6 +1590,8 @@ addressbar-header = Helbide-barra
 addressbar-suggest-1 = Aukeratu helbide-barran bistaratu beharreko gomendioak.
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = { -brand-short-name }(r)en eta gure bazkideen iradokizunak zure helbide-barran.
 addressbar-suggest = Helbide-barra erabiltzean, gomendatu
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Helbide-barra — { -firefox-suggest-brand-name }
@@ -1609,6 +1628,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ekintza bizkorrak
     .accesskey = b
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Azken bilaketak
+    .accesskey = z
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Bilaketa-joeren iradokizunak
+    .accesskey = B
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 addressbar-locbar-showrecentsearches-option =
     .label = Erakutsi azken bilaketak
@@ -1619,6 +1644,7 @@ addressbar-locbar-showtrendingsuggestions-option =
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option =
     .label = { -brand-short-name }(r)en gomendioak
+addressbar-locbar-suggest-all-option-desc = Eskuratu zure bilaketarekin erlazionatutako webean zeharreko gomendioak.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name }(r)en gomendioak
@@ -1626,8 +1652,17 @@ addressbar-locbar-suggest-nonsponsored-desc = Eskuratu zure bilaketarekin erlazi
 addressbar-locbar-suggest-sponsored-option =
     .label = Babesleen gomendioak
 addressbar-locbar-suggest-sponsored-desc = Lagundu { -brand-short-name } tartekako babesleen gomendioekin.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Eskuratu Mozillaren iradokizunak idatzi ahala
 addressbar-quickactions-learn-more = Argibide gehiago
 addressbar-dismissed-suggestions-label = Baztertutako gomendioak
+addressbar-restore-dismissed-suggestions-description = Berrezarri babesleengandik eta { -brand-short-name }(r)engandik baztertutako iradokizunak
 addressbar-restore-dismissed-suggestions-button =
     .label = Berreskuratu
 
@@ -1637,6 +1672,10 @@ content-blocking-enhanced-tracking-protection = Jarraipenaren babes hobetua
 content-blocking-section-top-level-description = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
 content-blocking-learn-more = Argibide gehiago
 content-blocking-fpi-incompatibility-warning = Lehenengoen isolazioa (FPI, First Party Isolation) ari zara erabiltzen, zeinak { -brand-short-name }(r)en cookie-ezarpenak gainidazten dituen.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Hatz-marka bidezko jarraipenari kontra egitekoa darabilzu (RFP, Resist Fingerprinting) eta honek { -brand-short-name }(r)en hatz-marka bidezko jarraipenaren babeserako zenbait ezarpen ordezkatzen ditu. Hainbat gune haustea eragin lezake.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1792,6 +1831,9 @@ permissions-autoplay = Erreprodukzio automatikoa
 permissions-autoplay-settings =
     .label = Ezarpenak…
     .accesskey = E
+permissions-block-popups2 =
+    .label = Blokeatu laster-leihoak eta hirugarrenen birbideratzeak
+    .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -1932,6 +1974,9 @@ certs-view =
 certs-devices =
     .label = Segurtasun-gailuak…
     .accesskey = S
+certs-thirdparty-toggle =
+    .label = Baimendu instalatzen dituzun hirugarrenen erro-ziurtagiriak { -brand-short-name }(e)k automatikoki fidagarritzat hartzea
+    .accesskey = f
 certs-devices-enable-fips = Gaitu FIPS
 space-alert-over-5gb-settings-button =
     .label = Ireki ezarpenak
@@ -1948,6 +1993,7 @@ httpsonly-header = HTTPS-Only modua
 httpsonly-label =
     .aria-label = { httpsonly-header }
     .description = Soilik konexio seguruak baimentzen ditu webguneetara. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
+httpsonly-description3 = Webguneetarako konexio seguruak baimentzen ditu soilik. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
 httpsonly-learn-more2 = Nola dabilen HTTPS-Only modua
 httpsonly-description = HTTPSk konexio seguru eta zifratua eskaintzen du { -brand-short-name } eta bisitatzen dituzun webguneen artean. Webgune gehienek HTTPS onartzen dute eta HTTPS-Only modua gaituta badago, orduan { -brand-short-name }(e)k konexio guztiak HTTPSra bihurtuko ditu.
 httpsonly-learn-more = Argibide gehiago
@@ -1965,6 +2011,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = HTTPS gaineko DNSa
 preferences-doh-description = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNSa seguru bilakatuz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
+preferences-doh-description2 = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNS segurua hornituz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Egoera: { $status }
