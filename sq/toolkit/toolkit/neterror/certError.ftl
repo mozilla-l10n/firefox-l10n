@@ -87,6 +87,12 @@ fp-certerror-bad-domain-why-dangerous-body = Sajti është ujdisur të lejojë v
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Me gjasa, asgjë, ngaqë ka mundësi që të ketë një problem me vetë sajtin. Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. Por nëse gjendeni në rrjetin e një korporate, ekipi juaj i asistencës mund të ketë më tepër informacion. Nëse përdorni një “software” antivirus, provoni të kërkoni për përplasje potenciale, apo për probleme të ditura.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name }-i po ju sinjalizon rreth këtij sajti, ngaqë dëshmia e dhënë për { $hostname } qe lëshuar nga një autoritet dëshmish që s’është më i besueshëm.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Me gjasa asgjë, ngaqë ka shumë mundësi të ketë një problem me vetë sajtin. Mund të bisedoni me të zotin e sajtit, për të parë nëse po merret me problemin.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Ka një problem me dëshminë e sajtit. Është e mundur që dikush me qëllime të liga të jetë duke provuar të imitojë sajtin. Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë s’dimë se kush e lëshoi dëshminë, është e vetënënshkruar, ose sajti s’po dërgon dëshmi të ndërmjetme të cilat i besojmë.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-unknown-issuer-what-can-you-do-body = Me gjasa, asgjë, ngaqë ka mundësi që të ketë një problem me vetë sajtin. Por nëse gjendeni në rrjetin e një korporate, ekipi juaj i asistencës mund të ketë më tepër informacion. Nëse përdorni një “software” antivirus, mund të duhet të formësohet të punojë me { -brand-short-name }-in.
@@ -113,9 +119,23 @@ fp-cert-error-code = Kod Gabimi: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } s’i zë besë { $hostname }, ngaqë s’provoi dot se plotëson domosdoshmëri transparence dëshmish.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Ka shumë mundësi asgjë, ngaqë gjasat janë se pati një problem me vetë sajtin.
 fp-learn-more-about-secure-connection-failures = Mësoni më tepër rreth dështimesh lidhjeje të siguruar
 fp-learn-more-about-cert-issues = Mësoni më tepër rreth këtyre llojesh problemesh dëshmish
 fp-learn-more-about-time-related-errors = Mësoni më tepër rreth diagnostikimit dhe zgjidhjes së gabimeve që lidhjen me kohën
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë duket sikur dëshmia e sjellë s’është e vlefshme deri më { DATETIME($date, timeStyle: "short") } në { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Sahati i pajisjes suaj është vënë si { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Nëse kjo është e saktë, problemi i sigurisë ka gjasa të jetë me vetë sajtin. Nëse është gabim, mund ta ndryshoni te rregullimet e sistemit të pajisjes suaj.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
