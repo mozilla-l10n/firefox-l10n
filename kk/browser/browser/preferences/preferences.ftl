@@ -184,6 +184,14 @@ preferences-copy-profile-select = Профильді таңдау
 preferences-copy-profile-button = Көшіріп алу
 tabs-group-header2 =
     .label = Беттер
+tabs-opening-heading =
+    .label = Ашылу
+tabs-interaction-heading =
+    .label = Әрекеттесу
+tabs-containers-heading =
+    .label = Контейнерлер
+tabs-closing-heading =
+    .label = Жабылу
 tabs-group-header = Беттер
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab беттер арасында соңғы қолданылу реті бойынша ауысады
@@ -380,6 +388,28 @@ translate-attribution = Аударманы ұсынған <img data-l10n-name="l
 translate-exceptions =
     .label = Осыдан бөлек…
     .accesskey = О
+settings-translations-subpage-language-select-option =
+    .label = Тілді қосу
+settings-translations-subpage-language-add-button =
+    .aria-label = Тілді қосу
+    .title = Тілді қосу
+settings-translations-subpage-download-languages-header =
+    .label = Тілдерді жүктеп алу
+settings-translations-subpage-download-languages-select-option =
+    .label = Тілді таңдау
+settings-translations-subpage-download-languages-button =
+    .aria-label = Тілді жүктеп алу
+    .title = Тілді жүктеп алу
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Жүктеп алынған тілдер жоқ
+settings-translations-subpage-no-languages-added =
+    .label = Тілдер қосылмады
+settings-translations-subpage-download-progress = Жүктеп алу орындалуда…
 settings-translations-subpage-download-retry-button =
     .label = Қайтадан көру
 # Variables:
@@ -556,6 +586,13 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 
+## Firefox support
+
+support-get-help =
+    .label = Көмек алу
+support-share-ideas =
+    .label = Идеялар мен кері байланыспен бөлісіңіз
+
 ## General Section - Performance
 
 performance-title = Өнімділік
@@ -661,6 +698,8 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Белгілі бір сайтты таңдау
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Белгілі бір сайтты таңдау
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -675,9 +714,20 @@ use-current-pages =
 choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
+home-homepage-header = Үй парағы
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Үй парағы
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Арнайы басты бет
+home-custom-homepage-address =
+    .placeholder = Адресті енгізу
+home-custom-homepage-address-button =
+    .label = Адресті қосу
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Бетбелгілер…
@@ -696,6 +746,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сіз сақтайтын немесе шолатын сайттар
 home-prefs-shortcuts-by-option-sponsored =
     .label = Демеушілік жарлықтары
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -705,6 +757,9 @@ home-prefs-recommended-by-description-new = { -brand-product-name } отбасы
 home-prefs-recommended-by-header-generic =
     .label = Ұсынылатын оқиғалар
 home-prefs-recommended-by-description-generic = { -brand-product-name } отбасымен қадағаланатын ерекше мазмұн
+home-prefs-stories-header =
+    .label = Хикаялар
+home-prefs-stories-description = Әрекетіңізге негізделген жекелендірілген хикаялар
 
 ##
 
@@ -735,9 +790,14 @@ home-prefs-weather-header =
     .label = Ауа райы
 home-prefs-weather-description = Бүгінгі қысқаша болжам
 home-prefs-weather-learn-more-link = Көбірек білу
+home-prefs-widgets-header =
+    .label = Виджеттер
 home-prefs-trending-search-header =
     .label = Трендтік іздеулер
 home-prefs-trending-search-description = Танымал және жиі ізделетін тақырыптар
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Тізімдер
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
@@ -745,7 +805,12 @@ home-prefs-timer-header =
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
 home-prefs-mission-message-learn-more-link = Қалай екенін білу
+home-prefs-manage-topics-link = Темаларды басқару
+home-prefs-manage-topics-link2 =
+    .label = Темаларды басқару
 home-prefs-choose-wallpaper-link = Тұсқағазды таңдау
+home-prefs-choose-wallpaper-link2 =
+    .label = Тұсқағазды таңдау
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -866,6 +931,9 @@ sync-signedout-description2 = Бетбелгілер, шолу тарихы, б�
 sync-signedout-account-signin3 =
     .label = Синхрондау ішіне кіру…
     .accesskey = и
+sync-signedout-account-short =
+    .label = Кіру
+    .accesskey = р
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -905,6 +973,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } расталған жоқ
 sync-signedin-login-failure = Байланысты қайта орнатуға үшін кіріңіз { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1080,6 +1158,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Парольдер
     .searchkeywords = логиндер
+forms-passwords-header =
+    .label = Парольдер
+    .aria-label = Парольдер
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Парольдерді сақтауды сұрау
@@ -1117,6 +1198,10 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Сақталған парольдер
     .accesskey = д
+forms-saved-passwords-searchkeywords = Компьютеріңізде келесі сайттар үшін логиндер сақталып тұр
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Қосымша қорғаныс шаралары
 forms-primary-pw-use =
     .label = Басты парольді қолдану
     .accesskey = ы

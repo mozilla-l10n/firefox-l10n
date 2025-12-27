@@ -29,3 +29,5 @@ customkeys-nav-home = Үйге
 customkeys-nav-reload = Қайта жүктеу
 customkeys-nav-reload-skip-cache = Қайта жүктеу (кэшті қайта анықтау)
 customkeys-nav-stop = Тоқтату
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Жарамсыз

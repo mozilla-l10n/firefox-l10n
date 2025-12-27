@@ -485,18 +485,22 @@ create-backup-screen-2-all-list-2 = Парольдер мен төлемдерд
 create-backup-screen-2-all-list-3 = Парольмен шифрленген
 # Title for a screen asking users to choose a file location
 create-backup-screen-3-location = Сақтық көшірменің қайда сақталғанын қалайсыз?
+fx-backup-opt-in-header = Файл орналасуын таңдау
+fx-backup-opt-in-filepath-label = OneDrive сияқты жаңа құрылғыға көшіруді жоспарлап отырған орынды таңдаңыз.
 fx-backup-opt-in-create-password-label = Парольді енгізіңіз
 fx-backup-opt-in-confirm-btn-label = Жалғастыру
 fx-backup-opt-in-cancel-btn-label = Артқа
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Сақтық көшірмеңіз жоспарланған
 fx-backup-confirmation-screen-close-button = Жабу
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Барлық шолу деректері қамтылған
 fx-backup-confirmation-screen-all-data-item-text-2 = Сіздің құрылғыңызға сақталды
+fx-backup-confirmation-screen-all-data-item-text-3 = Шифрленген және парольмен қорғалған
 
 ## Restore from Backup Flow about:welcome screens
 

@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Жаңа терезеге жылжыту
     .accesskey = е
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = { $profileName } ішіне жылжыту
 tab-context-close-multiple-tabs =
     .label = Бірнеше бетті жабу
     .accesskey = ш

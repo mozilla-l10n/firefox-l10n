@@ -160,6 +160,9 @@ backup-file-creation-date-label = Жасалған:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Қалай қалпына келтіруге болады:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Қолданба ☰ мәзірін ашып, Баптаулар > Синхрондау бөліміне өтіңіз
 backup-file-download-moz-browser-button = Жүктеп алу
 
 ## These strings are used in the about:restore and about:welcome pages

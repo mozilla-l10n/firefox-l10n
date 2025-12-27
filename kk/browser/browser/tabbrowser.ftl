@@ -340,8 +340,22 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Топты жаңа терезеде ашу
 
+## Tab Notes
+
+tab-note-editor-button-cancel =
+    .label = Бас тарту
+    .accesskey = с
+tab-note-editor-button-save =
+    .label = Сақтау
+    .accesskey = С
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Бөлінген көрініс
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+split-view-menuitem-close-both-tabs =
+    .label = Екі бетті да жабу
