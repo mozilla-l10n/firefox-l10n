@@ -882,6 +882,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugestões de pesquisa nos resultados da barra de endereços
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereços
+search-show-suggestions-private-windows-2 =
+    .label = Sugestões de pesquisa em janelas privativas
 search-suggestions-cant-show-2 =
     .message = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
 # With this option enabled, while on a SERP, the URL normally displayed in the
@@ -891,6 +900,10 @@ search-show-search-term-option-2 =
 search-separate-default-engine-2 =
     .label = Usar outro mecanismo de pesquisa padrão em janelas privativas
     .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Mecanismo de pesquisa padrão em janelas privativas
+search-suggestions-header-2 =
+    .label = Sugestões de mecanismos de pesquisa
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -967,6 +980,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronização
+account-placeholder =
+    .label = Você não está conectado.
+    .description = Entre na sua conta para manter seus dados privativos, criptografados e sincronizados entre dispositivos.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -975,6 +991,12 @@ sync-signedout-caption = Leve a web com você
 sync-signedout-description2 = Sincronize seus favoritos, histórico, abas, senhas, extensões e configurações em todos os seus dispositivos.
 sync-signedout-account-signin3 =
     .label = Entrar na conta para sincronizar…
+    .accesskey = E
+sync-signedout-account-signin-4 =
+    .label = Entre na sua conta para iniciar a sincronização
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Entrar
     .accesskey = E
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1014,7 +1036,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } não foi verificado.
+sync-signedin-unverified2 =
+    .label = { $email } ainda não foi confirmado
+    .description = Verifique sua caixa de entrada para confirmar sua conta e a tornar oficial.
 sync-signedin-login-failure = Entre para reconectar { $email }
+sync-signedin-login-failure2 =
+    .label = Você está desconectado do { $email }
+    .description = Entre novamente na sua conta para reconectar e começar a sincronizar seus dados.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1066,6 +1104,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Estes itens estão sendo sincronizados em todos os seus dispositivos conectados:
+sync-syncing-across-devices-heading-2 = Dados sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state =
+    .label = Você não está sincronizando nada... ainda.
+    .description = Comece a sincronizar para ter todos os seus dados em todos os seus dispositivos.
 sync-currently-syncing-bookmarks = Favoritos
 sync-currently-syncing-history = Histórico
 sync-currently-syncing-tabs = Abas abertas
