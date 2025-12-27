@@ -320,6 +320,7 @@ newtab-custom-stories-toggle =
     .description = { -brand-product-name } жетекшілік ететін тамаша құрама
 newtab-custom-stories-personalized-toggle =
     .label = Әңгімелер
+newtab-custom-stories-personalized-checkbox-label = Әрекетіңізге негізделген жекелендірілген хикаялар
 newtab-custom-pocket-sponsored = Демеушілер мақалалары
 newtab-custom-pocket-show-recent-saves = Соңғы сақтауларды көрсету
 newtab-custom-recent-title = Жуырдағы белсенділік

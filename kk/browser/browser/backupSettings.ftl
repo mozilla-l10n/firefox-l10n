@@ -36,19 +36,30 @@ settings-data-backup-last-backup-location = Орналасуы
 settings-data-backup-last-backup-location-show-in-folder = Бумада көрсету
 settings-data-backup-last-backup-location-edit = Түзету…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } уақытында сақтық көшірмені жасау кезінде қате орын алды
+settings-sensitive-data-encryption-description = Парольдеріңіз бен төлем әдістеріңізді сақтық көшірмеге сақтаңыз және барлық деректеріңізді шифрлеу арқылы қауіпсіз ұстаңыз.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Файл атауы: { $fileName }
 settings-data-backup-restore-header = Деректерді қалпына келтіру
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Деректеріңізді қалпына келтіру үшін басқа құрылғыдағы { -brand-product-name } сақтық көшірмесін пайдаланыңыз.
+settings-data-backup-scheduled-backups-off-restore-choose = Сақтық көшірме файлын таңдаңыз…
+
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = { -brand-product-name } деректеріңізді соңғы рет сақталған көшірмесінен қалпына келтіріңіз.
 settings-data-backup-scheduled-backups-on-restore-choose = Қалпына келтіру…
+settings-data-toggle-encryption-label = Сезімтал деректеріңіздің сақтық көшірмесін жасаңыз
 settings-data-toggle-encryption-support-link = Көбірек білу
 settings-data-change-password = Парольді өзгерту…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Сақтық көшірме жасауды іске қосу
+turn-on-scheduled-backups-description = { -brand-short-name } деректеріңіздің көшірмесін әр 24 сағат сайын жасап отырады. Мәселе туындаса немесе жаңа құрылғы алсаңыз, оны қалпына келтіре аласыз.
+turn-on-scheduled-backups-support-link = Ненің сақтық көшірмесі жасалады?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Орналасу
 # Variables:
@@ -60,10 +71,15 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Таңдау…
        *[other] Шолу…
     }
+turn-on-scheduled-backups-encryption-label = Сезімтал деректеріңіздің сақтық көшірмесін жасаңыз
 turn-on-scheduled-backups-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Парольді қайталау
 turn-on-scheduled-backups-cancel-button = Бас тарту
+turn-on-scheduled-backups-confirm-button = Сақтық көшірме жасауды іске қосу
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Таңдалған сақтық көшірме бумасында қате орын алды. Басқа буманы таңдап, қайталап көріңіз.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 

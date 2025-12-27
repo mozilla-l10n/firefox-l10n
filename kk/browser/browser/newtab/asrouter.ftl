@@ -392,3 +392,8 @@ etp-strict-exceptions-infobar-button = Түзетулерді іске асыр�
     .accesskey = а
 etp-strict-exceptions-infobar-not-now = Қазір емес
     .accesskey = м
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-primary-button = Бастапқы ретінде орнату
+set-default-menu-message-primary-button-variant = Негізгі браузер ретінде орнату
