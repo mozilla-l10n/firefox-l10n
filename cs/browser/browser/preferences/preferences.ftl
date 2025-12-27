@@ -1882,7 +1882,7 @@ content-blocking-all-cookies = Všechny cookies
 content-blocking-unvisited-cookies = Cookies z dosud nenavštívených stránek
 content-blocking-all-windows-tracking-content = Sledující obsah blokován ve všech oknech
 content-blocking-all-cross-site-cookies = Všechny cross-site cookies
-content-blocking-cryptominers = Těžba kryptoměn
+content-blocking-cryptominers = Těžbu kryptoměn
 content-blocking-fingerprinters = Vytváření otisku prohlížeče
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
