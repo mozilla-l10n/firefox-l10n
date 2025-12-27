@@ -21,6 +21,9 @@ permissions-session =
 permissions-allow =
     .label = Baimendu
     .accesskey = B
+permissions-add =
+    .label = Gehitu
+    .accesskey = G
 permissions-button-off =
     .label = Desaktibatu
     .accesskey = D
@@ -92,6 +95,13 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = HTTPS-Only modua desgai dezakezu gune zehatzetarako. { -brand-short-name } ez da saiatuko konexioa HTTPS segurura bihurtzen gune horietarako. Salbuespenek ez dute eraginik leiho pribatuetan.
 permissions-exceptions-https-only-desc2 = HTTPS-Only modua desgai dezakezu gune zehatzetarako. { -brand-short-name } ez da saiatuko konexioa HTTPS segurura bihurtzen gune horietarako.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Baimendutako webguneak - Laster-leihoak eta hirugarrenen birbideratzeak
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Laster-leihoak ireki eta hirugarrenen markoek birbideratuak izateko baimenduta dauden webguneak zehatz ditzakezu.
 
 ## Exceptions - Pop-ups
 
@@ -167,6 +177,26 @@ permissions-site-camera-desc = Ondorengo webguneek zure kamera erabiltzea eskatu
 permissions-site-camera-disable-label =
     .label = Blokeatu zure kamera erabiltzeko eskaera berriak
 permissions-site-camera-disable-desc = Aukera honekin, kamera erabiltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Kamerarako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
+
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Ezarpenak - Gailuaren aplikazio eta zerbitzuak
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Webgune hauek gailu honetako aplikazio eta zerbitzuetarako sarbidea eskatu dute. Guneek hau egitea baimendu edo blokeatzea aukera dezakezu.
+permissions-site-localhost-disable-label =
+    .label = Blokeatu gailu honetako aplikazio eta zerbitzuetarako sarbide-eskaera berriak
+permissions-site-localhost-disable-desc = Honen bitartez, gailu honetako aplikazio eta zerbitzuetarako sarbide-eskaerak geldituko dira goian zerrendatzen ez diren webguneetatik. Hau egiteak zenbait webgunetako eginbideak apur litzake.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Ezarpenak - Sare lokaleko gailuak
+    .style = { permissions-window2.style }
+permissions-site-local-network-desc = Webgune hauek aplikazio eta zerbitzuetarako sarbidea eskatu dute zure Wi-Fi edo sare lokalera konektatuta dauden gailuetan. Guneek hau egitea baimendu edo blokeatzea aukera dezakezu.
+permissions-site-local-network-disable-label =
+    .label = Blokeatu aplikazio eta zerbitzuetarako sarbide-eskaera berriak zure Wi-Fi edo sare lokalera konektatuta dauden gailuetan.
+permissions-site-local-network-disable-desc = Honen bitartez, zure Wi-Fi edo sare lokalera konektatuta dauden gailuetan aplikazio eta zerbitzuetarako sarbide-eskaerak geldituko dira goian zerrendatzen ez diren webguneetatik. Hau egiteak zenbait webgunetako eginbideak apur litzake.
 
 ## Site Permissions - Microphone
 
