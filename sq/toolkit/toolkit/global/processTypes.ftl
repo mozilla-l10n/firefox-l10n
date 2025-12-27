@@ -35,6 +35,8 @@ process-type-tab = Skedë
 process-type-gpu = GPU
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Deduktim
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Aktor IPC Brenda Bankëprove
 

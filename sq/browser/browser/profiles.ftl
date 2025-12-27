@@ -146,6 +146,9 @@ profiles-blue-theme-title =
 profiles-green-theme = E gjelbër
 profiles-green-theme-title =
     .title = Apliko temë të gjelbër
+profiles-cyan-theme = Blu e gjelbër
+profiles-cyan-theme-title =
+    .title = Apliko temë blu të gjelbër
 profiles-custom-theme-title =
     .title = Apliko temë vetjake
 
