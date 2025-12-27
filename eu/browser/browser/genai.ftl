@@ -179,6 +179,8 @@ genai-chatbot-summarize-title = Berria Laburbildu orriak klik bakarrean
 genai-chatbot-summarize-button = Laburbildu orria
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Egin eskuin-klika alboko barrako AA txaterako botean eta aukeratu "Laburbildu orria".
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Egin eskuin-klika alboko barrako distiraren ikonoan eta aukeratu "Laburbildu orria". Lehenengo aldian AA txaterako bota ere aukeratu beharko duzu.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Ireki alboko barran AA txaterako bota eta aukeratu behean "Laburbildu orria".
 genai-chatbot-summarize-footer-generic-subtitle = Gehitu AA txaterako bota { -brand-short-name } alboko barran orriak ziztu batean laburbiltzeko.
@@ -228,11 +230,15 @@ link-preview-reading-time =
        *[other] Irakurketa-denbora: { $range } min
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name }(e)k ezin du lotura hau aurreikusi
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Ezin dugu lotura honen aurrebistarik sortu
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Bisitatu lotura
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name }(e)k ezin ditu web orri honen puntu nagusiak sortu.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Ezin ditugu webgune honen puntu nagusiak sortu.
+link-preview-generation-error-missing-data = Ezin ditugu web orri honen puntu nagusiak sortu.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Zerbait oker joan da.
 # Text for the retry link when generation fails
@@ -270,3 +276,5 @@ link-preview-onboarding-button = Ikusi aurrebista
 link-preview-onboarding-close = Itxi
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Lehen aldiko konfigurazioa
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Une bat har lezake honek. Puntu nagusiak azkarrago ikusiko dituzu hurrengoan.
