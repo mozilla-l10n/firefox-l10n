@@ -425,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Mos i përkthe kurrë këto gjuhë
 settings-translations-subpage-never-translate-sites-header =
     .label = Mos i përkthe kurrë këta sajte
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Që të shtoni një sajt, hapni <img data-l10n-name="translations-icon"/> panelin e përkthimeve, përzgjidhni <img data-l10n-name="settings-icon"/>rregullime përkthimi, mandej zgjidhni “Mos e përkthe kurrë këtë sajt”
 settings-translations-subpage-language-select-option =
     .label = Shtoni gjuhë
 settings-translations-subpage-language-add-button =

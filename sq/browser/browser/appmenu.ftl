@@ -212,6 +212,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Paracaktim për diagnostikim në { -brand-shorter-name }. Ngarkesë e madhe, mos e përdorni për punë funksionimi, por përdoreni për t’u përqendruar te të kuptuarit e sjelljes së shfletuesit.
 profiler-popup-presets-debug-label =
     .label = Diagnostikoje
+profiler-popup-presets-web-compat-description = Paracaktim i rekomanduar për diagnostikim problemesh përputhjeje web, në vend se ndjekjeje funksionimi.
 profiler-popup-presets-custom-label =
     .label = Vetjak
 
