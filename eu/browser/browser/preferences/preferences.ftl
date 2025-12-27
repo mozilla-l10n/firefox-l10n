@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = Zure kontrastearen kontrol-ezarpenek webgunearen itxura baliogabetzen dute.
 preferences-web-appearance-link =
     .label = Kudeatu { -brand-short-name }(r)en itxurak Hedapenak eta itxura atalean
+preferences-contrast-control-radio-group =
+    .label = Baliogabetu koloreak
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
@@ -398,6 +400,26 @@ translate-attribution = Itzulpenak: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+settings-translations-header =
+    .label = Itzulpenak
+    .aria-label = Itzulpenak
+    .description = Itzuli orriak edo hautatutako testua. Zure pribatutasuna babesteko, itzulpenak zure gailuan mantentzen dira.
+settings-translations-offer-to-translate-label =
+    .label = Eskaini orri osoaren itzulpena
+settings-translations-more-settings-button =
+    .label = Itzulpenen ezarpen gehiago
+    .description = Ezarri ezarpenak hizkuntza, webgune eta lineaz kanpoko itzulpenerako.
+settings-translations-subpage-header =
+    .heading = Itzulpenen ezarpen gehiago
+settings-translations-subpage-speed-up-translation-header =
+    .label = Azkartu itzulpena
+    .description = Deskargatu hizkuntza osoak itzulpen azkarragoetarako eta lineaz kanpo itzultzeko.
+settings-translations-subpage-automatic-translation-header =
+    .label = Itzulpen automatikoa
+settings-translations-subpage-always-translate-header =
+    .label = Itzuli beti hizkuntza hauek
+settings-translations-subpage-never-translate-header =
+    .label = Ez itzuli inoiz hizkuntza hauek
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
