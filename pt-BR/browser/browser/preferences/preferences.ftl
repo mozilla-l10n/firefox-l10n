@@ -397,6 +397,44 @@ translate-attribution = Tradução por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceções…
     .accesskey = x
+settings-translations-subpage-language-select-option =
+    .label = Adicionar idioma
+settings-translations-subpage-language-add-button =
+    .aria-label = Adicionar idioma
+    .title = Adicionar idioma
+settings-translations-subpage-download-languages-header =
+    .label = Baixar idiomas
+settings-translations-subpage-download-languages-select-option =
+    .label = Selecionar idioma
+settings-translations-subpage-download-languages-button =
+    .aria-label = Baixar idioma
+    .title = Baixar idioma
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nenhum idioma baixado
+settings-translations-subpage-no-languages-added =
+    .label = Nenhum idioma adicionado
+settings-translations-subpage-download-progress = Transferência em andamento…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Não foi possível baixar { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Tentar novamente
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Excluir { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Excluir
+settings-translations-subpage-download-cancel-button =
+    .label = Cancelar
+settings-translations-subpage-no-sites-added =
+    .label = Nenhum site adicionado
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -566,6 +604,9 @@ update-in-progress-cancel-button = &Continuar
 
 ## Firefox support
 
+support-application-heading =
+    .label = Suporte do { -brand-short-name }
+    .description = Resolva problemas ou compartilhe ideias com a comunidade.
 support-get-help =
     .label = Obtenha ajuda
 support-share-ideas =
@@ -623,6 +664,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Ativar controles de vídeo picture-in-picture
     .accesskey = A
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Continuar a reproduzir vídeos em picture-in-picture ao mudar de aba
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Saiba mais
 browsing-media-control =
     .label = Controlar mídia via teclado, fone de ouvido ou interface virtual
@@ -844,6 +888,9 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostrar termos de pesquisa na barra de endereços em páginas de resultados
+search-separate-default-engine-2 =
+    .label = Usar outro mecanismo de pesquisa padrão em janelas privativas
+    .accesskey = U
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
