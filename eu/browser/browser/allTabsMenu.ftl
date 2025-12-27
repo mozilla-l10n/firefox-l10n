@@ -18,11 +18,11 @@ all-tabs-menu-synced-tabs =
     .label = Beste gailuetako fitxak
 # "Recent" refers to tab groups being sorted in recently used order. We show up
 # to five of these in this section.
-all-tabs-menu-recent-tab-groups-header = Azken fitxa multzoak
+all-tabs-menu-recent-tab-groups-header = Azken fitxa-taldeak
 all-tabs-menu-current-window-header = Uneko leihoa
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Erakutsi denak
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
-    .title = Fitxa multzoak
+    .title = Fitxa-taldeak

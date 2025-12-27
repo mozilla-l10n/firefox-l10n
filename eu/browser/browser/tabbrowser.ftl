@@ -224,12 +224,16 @@ tabbrowser-manager-current-window-tab-group =
 
 ##
 
+tab-group-editor-title-create = Sortu fitxa-taldea
+tab-group-editor-title-edit = Kudeatu fitxa-taldea
 tab-group-editor-name-label = Izena
 tab-group-editor-name-field =
     .placeholder = Adibidea: erosketak
 tab-group-editor-cancel =
     .label = Utzi
     .accesskey = z
+tab-group-editor-color-selector =
+    .aria-label = Fitxa-taldearen kolorea
 tab-group-editor-color-selector2-blue = Urdina
     .title = Urdina
 tab-group-editor-color-selector2-purple = Morea
@@ -248,13 +252,14 @@ tab-group-editor-color-selector2-gray = Grisa
     .title = Grisa
 tab-group-editor-color-selector2-red = Gorria
     .title = Gorria
+tab-group-description = { $tabGroupName } — Fitxa-taldea
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Tolestuta
 tab-group-label-tooltip-expanded = { $tabGroupName } — Zabalduta
 tab-group-preview-name =
     .aria-label = Fitxak tolestutako talde batean
 tab-context-unnamed-group =
-    .label = Multzo izengabea
-tab-group-name-default = Multzo izengabea
+    .label = Talde izengabea
+tab-group-name-default = Talde izengabea
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -264,6 +269,20 @@ tab-group-preview-closed-description = Fitxen zerrenda itxita
 
 ##
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Gehitu fitxa talde berrira
+           *[other] Gehitu fitxak talde berrira
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] Gehitu fitxa taldera
+           *[other] Gehitu fitxak taldera
+        }
+    .accesskey = G
 tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
@@ -280,25 +299,28 @@ tab-context-move-split-view-to-group =
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Itxitako taldeak
+tab-group-editor-action-new-tab =
+    .label = Fitxa berria taldean
 tab-group-editor-action-new-window =
-    .label = Eraman multzoa leiho berrira
+    .label = Eraman taldea leiho berrira
 tab-group-editor-action-save =
-    .label = Gorde eta itxi multzoa
+    .label = Gorde eta itxi taldea
 tab-group-editor-action-ungroup =
-    .label = Atera multzotik fitxak
+    .label = Destaldekatu fitxak
 tab-group-editor-action-delete =
-    .label = Ezabatu multzoa
+    .label = Ezabatu taldea
 tab-group-editor-done =
     .label = Eginda
     .accessKey = E
+tab-context-reopen-tab-group =
+    .label = Ireki berriro fitxa-taldea
 # Variables:
 #  $groupCount (Number): the number of tab groups that are affected by the action.
 tab-context-ungroup-tab =
     .label =
         { $groupCount ->
-            [1] Kendu multzotik
-            [one] Kendu multzotik
-           *[other] Kendu multzoetatik
+            [1] Kendu taldetik
+           *[other] Kendu taldeetatik
         }
     .accesskey = K
 # When a tab group containing the active tab is collapsed, the active tab
@@ -317,25 +339,25 @@ tab-group-overflow-count-tooltip =
 # For a tab group open in any window, clicking this will create a new
 # window and move this tab group to that new window.
 tab-group-context-move-to-new-window =
-    .label = Eraman multzoa leiho berrira
+    .label = Eraman taldea leiho berrira
 # For a tab group open in a different window from the one that the
 # user is using to access the tab group menu, move that tab group into the
 # user's current window.
 tab-group-context-move-to-this-window =
-    .label = Ekarri multzoa leiho honetara
+    .label = Ekarri taldea leiho honetara
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
 tab-group-context-delete =
-    .label = Ezabatu multzoa
+    .label = Ezabatu taldea
 # For a saved tab group that is not open in any window, open the tab group
 # in the user's current window.
 tab-group-context-open-saved-group-in-this-window =
-    .label = Ireki multzoa leiho honetan
+    .label = Ireki taldea leiho honetan
 # For a saved tab group that is not open in any window, create a new window and
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
-    .label = Ireki multzoa leiho berrian
+    .label = Ireki taldea leiho berrian
 
 ## Tab Notes
 
