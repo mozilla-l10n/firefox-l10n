@@ -493,6 +493,9 @@ settings-translations-more-settings-button =
     .description = Nastavení předvoleb pro jazyky, webové stránky a offline překlad.
 settings-translations-subpage-header =
     .heading = Další nastavení překladu
+settings-translations-subpage-speed-up-translation-header =
+    .label = Zrychlit překlad
+    .description = Stáhněte si kompletní jazyky pro rychlejší překlady a překládání offline.
 settings-translations-subpage-automatic-translation-header =
     .label = Automatický překlad
 settings-translations-subpage-always-translate-header =
@@ -1043,6 +1046,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Zobrazovat v adresním řádku návrhy vyhledávání před historií prohlížení
 search-show-suggestions-private-windows-2 =
     .label = Návrhy vyhledávání v anonymních oknech
 search-suggestions-cant-show-2 =
@@ -1060,6 +1070,8 @@ search-separate-default-engine-2 =
     .accesskey = v
 search-separate-default-engine-dropdown =
     .aria-label = Výchozí vyhledávač v anonymních oknech
+search-suggestions-header-2 =
+    .label = Návrhy z vyhledávačů
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1149,6 +1161,9 @@ sync-signedout-description2 = Synchronizujte své záložky, historii, panely, h
 sync-signedout-account-signin3 =
     .label = Přihlásit se k synchronizaci…
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Přihlaste se do svého účtu a spusťte synchronizaci
+    .accesskey = P
 sync-signedout-account-short =
     .label = Přihlásit se
     .accesskey = P
@@ -1190,7 +1205,20 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Účet { $email } není ověřen.
+sync-signedin-unverified2 =
+    .label = Adresa { $email } zatím není potvrzená
+    .description = Zkontrolujte si doručenou poštu, abyste potvrdili svůj účet a oficiálně ho zaregistrovali.
 sync-signedin-login-failure = Pro opětovné připojení účtem { $email } se přihlaste
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1213,6 +1241,9 @@ prefs-syncing-on = Synchronizace zapnuta
 prefs-syncing-on-2 =
     .label = Synchronizace je zapnuta
 prefs-syncing-off = Synchronizace vypnuta
+prefs-syncing-off-2 =
+    .label = Synchronizace je vypnutá
+    .description = Zapnutím synchronizace získáte své záložky, hesla, historii a další informace z libovolného zařízení.
 prefs-sync-turn-on-syncing =
     .label = Zapnout synchronizaci…
     .accesskey = s
@@ -1515,6 +1546,9 @@ autofill-payment-methods-add-button = Přidat novou platební metodu
 payments-list-header =
     .label = Platební metody
 payments-list-item-label = <strong>Platební metody</strong>
+payments-delete-payment-prompt-title = Smazat tuto platební metodu?
+payments-delete-payment-prompt-confirm-button = Smazat
+payments-delete-payment-prompt-cancel-button = Zrušit
 payments-remove-payment-prompt-title = Odebrat tuto platební metodu?
 payments-remove-payment-prompt-confirm-button = Odebrat
 payments-remove-payment-prompt-cancel-button = Zrušit
@@ -1527,6 +1561,13 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Spravovat adresy a další
     .accesskey = S
+addresses-list-header =
+    .label = Adresy
+addreses-delete-address-button-label =
+    .aria-label = Smazat
+addreses-edit-address-button-label =
+    .aria-label = Upravit
+addresses-delete-address-prompt-title = Smazat tuto adresu?
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
