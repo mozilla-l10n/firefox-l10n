@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Заңды тұлғаның орналасқа
 certificate-viewer-locality = Орналасуы
 certificate-viewer-location = Орналасуы
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Журнал атауы
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Лог идентификаторы
 certificate-viewer-method = Тәсіл
 certificate-viewer-modulus = Модуль

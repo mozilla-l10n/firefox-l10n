@@ -80,14 +80,19 @@ turn-on-scheduled-backups-confirm-button = Сақтық көшірме жаса�
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Таңдалған сақтық көшірме бумасында қате орын алды. Басқа буманы таңдап, қайталап көріңіз.
+backup-error-file-system = { -brand-short-name } сақтық көшірмесін жасау кезінде таңдалған сақтық көшірме бумасымен мәселе туындады.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Сақтық көшірмені сөндіру керек пе?
+turn-off-scheduled-backups-description = Бұл барлық сақтық көшірме деректеріңізді өшіреді. Бұл әрекетті кері қайтару мүмкін емес.
 turn-off-scheduled-backups-support-link = Көбірек білу
 turn-off-scheduled-backups-cancel-button = Бас тарту
+turn-off-scheduled-backups-confirm-button = Сөндіру және сақтық көшірмені өшіру
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Деректерді қалпына келтіру
 restore-from-backup-filepicker-label = Сақтық көшірме файлы
 restore-from-backup-filepicker-title = Сақтық көшірме файлын таңдаңыз:
 restore-from-backup-file-choose-button =
@@ -125,14 +130,27 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Парольмен қорғауды алып тастау
+disable-backup-encryption-description2 = Сақталған парольдер мен төлем әдістеріңіздің сақтық көшірмесі енді жасалмайды.
+disable-backup-encryption-support-link = Ненің сақтық көшірмесі жасалады?
 disable-backup-encryption-cancel-button = Бас тарту
 disable-backup-encryption-confirm-button = Парольді өшіру
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Пароліңіз талаптарға сай емес. Басқа парольді қолданып көріңіз.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Бірнәрсе қате кетті. Қайталап көріңіз.
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-path-label = Сақтық көшірме файлы:
 backup-file-encryption-state-label = Шифрленген:
 backup-file-encryption-state-value-encrypted = Иә
 backup-file-encryption-state-value-not-encrypted = Жоқ
@@ -141,6 +159,7 @@ backup-file-creation-date-label = Жасалған:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Қалай қалпына келтіруге болады:
 backup-file-download-moz-browser-button = Жүктеп алу
 
 ## These strings are used in the about:restore and about:welcome pages

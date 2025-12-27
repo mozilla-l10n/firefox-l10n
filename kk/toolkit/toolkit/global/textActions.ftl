@@ -68,3 +68,6 @@ text-action-search-text-box-clear =
     .title = Тазарту
 text-action-highlight-selection =
     .label = Таңдалғанды ерекшелеу
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Таңдауға түсініктеме қосу
