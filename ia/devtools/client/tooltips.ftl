@@ -142,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Lege plus</sp
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Iste selector usa <strong>:has()</strong> sin vinculos, que pote esser lente
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Le selectores de par nivello (“sibling”) post <strong>:scope</strong> jammais concordara alco
