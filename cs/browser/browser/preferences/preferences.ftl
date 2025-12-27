@@ -1899,7 +1899,7 @@ content-blocking-warning-title = Pozor!
 content-blocking-warning-title-2 = Některé stránky nemusí s přísnou ochranou před sledováním fungovat správně
 content-blocking-warning-title-custom = Některé stránky nemusí s vlastní ochranou proti sledování fungovat správně
 # “Fix site issues” references the string content-blocking-exceptions-subheader
-content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } doporučuje použít nastavení “Opravit problémy webu”, aby se omezily nefunkční funkce a obsah webu. Pokud se web jeví jako nefunkční, zkuste pro něj vypnout ochranu sledování, aby se načetl veškerý obsah.
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } doporučuje použít nastavení „Oprava problémů se stránkami“, aby se snížil počet porušených funkcí a porušeného obsahu stránek. Pokud se zdá, že stránka nefunguje správně, zkuste pro daný web vypnout ochranu proti sledování, aby se na stránce načetl veškerý obsah.
 content-blocking-and-isolating-etp-warning-description-2 = Toto nastavení může způsobit, že některé stránky nebudou fungovat správně. Pro řešení případných problémů můžete ochranu proti sledování na takových stránkách vypnout.
 content-blocking-warning-learn-how = Jak na to
 content-blocking-baseline-exceptions-3 =
