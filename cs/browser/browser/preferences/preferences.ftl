@@ -1568,6 +1568,18 @@ addreses-delete-address-button-label =
 addreses-edit-address-button-label =
     .aria-label = Upravit
 addresses-delete-address-prompt-title = Smazat tuto adresu?
+addresses-delete-address-prompt-confirm-button = Smazat
+addresses-delete-address-prompt-cancel-button = Zrušit
+autofill-addresses-add-button = Přidat novou adresu
+autofill-addresses-manage-addresses-title =
+    .heading = Spravovat adresy a další
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1774,6 +1786,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rychlé akce
     .accesskey = R
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nedávná vyhledávání
+    .accesskey = N
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Návrhy populárních vyhledávání
+    .accesskey = N
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazit nedávná vyhledávání
