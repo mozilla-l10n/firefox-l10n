@@ -403,6 +403,18 @@ translate-attribution = Përkthime nga <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Përjashtime…
     .accesskey = P
+settings-translations-subpage-download-retry-button =
+    .label = Riprovoni
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Të fshihet { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Fshije
+settings-translations-subpage-download-cancel-button =
+    .label = Anuloje
+settings-translations-subpage-no-sites-added =
+    .label = S’u shtuan sajte
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -948,6 +960,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-placeholder =
+    .label = S’keni bërë hyrjen
+    .description = Që t’i mbani të dhënat private, të fshehtëzuara dhe të njëkohësuara nëpër pajisje, bëni hyrjen në llogari.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -960,6 +975,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Që të nisë njëkohësimi, bëni hyrjen te llogaria juaj
     .accesskey = Q
+sync-signedout-account-short =
+    .label = Hyni
+    .accesskey = H
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -998,7 +1016,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nuk është i verifikuar.
+sync-signedin-unverified2 =
+    .label = { $email } s’është ripohuar ende
+    .description = Shihni te email-et tuaj të marrë, që të ripohoni llogarinë tuaj dhe ta bëni zyrtare.
 sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email }
+sync-signedin-login-failure2 =
+    .label = Keni bërë daljen nga llogaria { $email }
+    .description = Rihyni, që të rilidheni dhe të filloni të njëkohësoni të dhënat tuaja.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
