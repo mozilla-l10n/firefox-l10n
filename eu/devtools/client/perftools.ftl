@@ -102,7 +102,7 @@ perftools-thread-img-decoder =
 perftools-thread-dns-resolver =
     .title = DNS ebazpena hari honetan gertatzen da
 perftools-thread-task-controller =
-    .title = TaskController hari-putzuko hariak
+    .title = TaskController hari-multzoko hariak
 perftools-thread-jvm-gecko =
     .title = Gecko JVM hari nagusia
 perftools-thread-jvm-nimbus =
@@ -114,7 +114,7 @@ perftools-thread-jvm-glean =
 perftools-thread-jvm-arch-disk-io =
     .title = Kotlin azpirrutinen liburutegirako IO dispatcher-a
 perftools-thread-jvm-pool =
-    .title = Izenik gabeko hari multzoan sortutako hariak
+    .title = Izenik gabeko hari-multzoan sortutako hariak
 
 ##
 
