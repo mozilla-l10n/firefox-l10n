@@ -150,6 +150,9 @@ startup-restore-warn-on-quit =
     .label = Браузерден шыққан кезде ескерту
 disable-extension =
     .label = Кеңейтуді сөндіру
+preferences-data-migration-group =
+    .label = Браузер деректерін импорттау
+    .description = Бетбелгілер, парольдер, шолу тарихы, кеңейтулер және автотолтыру деректерін басқа браузерден көшіріп алыңыз.
 preferences-data-migration-header = Браузер деректерін импорттау
 preferences-data-migration-description = Бетбелгілер, парольдер, тарих және автотолтыру деректерін { -brand-short-name }ішіне импорттаңыз.
 preferences-data-migration-button =
@@ -167,6 +170,18 @@ preferences-manage-profiles-description = Әрбір профильде бөле
 preferences-manage-profiles-learn-more = Көбірек білу
 preferences-manage-profiles-button =
     .label = Профильдерді басқару
+preferences-profiles-settings-button =
+    .label = Баптаулар
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Көшірілетін профиль
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Профильді таңдау
+preferences-copy-profile-button = Көшіріп алу
 tabs-group-header2 =
     .label = Беттер
 tabs-group-header = Беттер
@@ -176,6 +191,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Сілтемелерді жаңа терезелер орнына жаңа беттерде ашу
     .accesskey = р
+open-external-link-next-to-active-tab =
+    .label = Қолданбалар сілтемелерін ағымдағы беттің жанынан ашу
 ask-on-close-multiple-tabs =
     .label = Бірнеше бетті жабу бұрын сұрау
     .accesskey = ш
@@ -363,6 +380,18 @@ translate-attribution = Аударманы ұсынған <img data-l10n-name="l
 translate-exceptions =
     .label = Осыдан бөлек…
     .accesskey = О
+settings-translations-subpage-download-retry-button =
+    .label = Қайтадан көру
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } өшіру керек пе ({ $size }МБ)?
+settings-translations-subpage-download-delete-button =
+    .label = Өшіру
+settings-translations-subpage-download-cancel-button =
+    .label = Бас тарту
+settings-translations-subpage-no-sites-added =
+    .label = Ешқандай сайт қосылмады
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -629,6 +658,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Кеңейтуді басқару
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Белгілі бір сайтты таңдау
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -706,10 +738,14 @@ home-prefs-weather-learn-more-link = Көбірек білу
 home-prefs-trending-search-header =
     .label = Трендтік іздеулер
 home-prefs-trending-search-description = Танымал және жиі ізделетін тақырыптар
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Таймер
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
 home-prefs-mission-message-learn-more-link = Қалай екенін білу
+home-prefs-choose-wallpaper-link = Тұсқағазды таңдау
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1149,6 +1185,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Төлем әдістерін сақтау және автотолтыру
     .accesskey = Т
+autofill-payment-methods-manage-payments-title =
+    .heading = Төлем әдістерін басқару
 autofill-payment-methods-manage-payments-button =
     .label = Төлем әдістерін басқару
     .accesskey = б
@@ -1156,12 +1194,38 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Төлем әдістерін автотолтыру және басқару үшін құрылғыға кіруді талап ету
     .accesskey = о
+autofill-payment-methods-add-button = Жаңа төлем әдісін қосу
+payments-list-header =
+    .label = Төлем әдістері
+payments-list-item-label = <strong>Төлем әдістері</strong>
+payments-delete-payment-prompt-confirm-button = Өшіру
+payments-delete-payment-prompt-cancel-button = Бас тарту
+payments-remove-payment-prompt-title = Бұл төлем әдісін өшіру керек пе?
+payments-remove-payment-prompt-confirm-button = Өшіру
+payments-remove-payment-prompt-cancel-button = Бас тарту
 autofill-addresses-title = Адрестер және т.б
 autofill-addresses-header =
     .aria-label = Адрестер және т.б
 autofill-addresses-checkbox-message =
     .label = Адрестерді сақтау және автотолтыру
     .accesskey = с
+addresses-list-header =
+    .label = Адрестер
+addreses-delete-address-button-label =
+    .aria-label = Өшіру
+addreses-edit-address-button-label =
+    .aria-label = Түзету
+addresses-delete-address-prompt-title = Бұл адресті өшіру керек пе?
+addresses-delete-address-prompt-confirm-button = Өшіру
+addresses-delete-address-prompt-cancel-button = Бас тарту
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1300,6 +1364,9 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Адрес жолағы
+addressbar-suggest-1 = Адрестік жолағында көрсетілетін ұсыныстарды таңдаңыз
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Адрес жолағын қолдану кезінде, ұсыну
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адрестік жолақ — { -firefox-suggest-brand-name }
@@ -1349,6 +1416,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Сіздің іздеуіңізг�
 addressbar-locbar-suggest-sponsored-option =
     .label = Демеушілердің ұсыныстары
 addressbar-locbar-suggest-sponsored-desc = Кездейсоқ демеушілік ұсыныстармен { -brand-short-name } өніміне қолдау көрсету.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Теру кезінде Mozilla-дан ұсыныстарды алыңыз
 addressbar-quickactions-learn-more = Көбірек білу
 addressbar-dismissed-suggestions-label = Қабылданбаған ұсыныстар
 addressbar-restore-dismissed-suggestions-description = Демеушілер мен { -brand-short-name } жіберген қабылданбаған ұсыныстарды қалпына келтіру.
@@ -1414,6 +1489,8 @@ content-blocking-warning-title = Ескерту!
 content-blocking-and-isolating-etp-warning-description-2 = Бұл баптау кейбір веб-сайттардың мазмұнын көрсетілмеуіне немесе дұрыс жұмыс жасамауына әкелуі мүмкін. Егер сайт сынған болып көрінсе, сайттың барлық мазмұның жүктеу үшін сол сайт үшін бақылаудан қорғанысты сөндіру керек болуы мүмкін.
 content-blocking-warning-learn-how = Көбірек білу
 content-blocking-baseline-uncheck-warning-dialog-title = Түзетулерді шынымен сөндіргіңіз келе ме?
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Түзетулерді сөндіру
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Түзетулерді іске қосулы қалдыру
 content-blocking-reload-description = Бұл өзгерістер іске асуы үшін беттерді қайта жүктеу керек болады.
 content-blocking-reload-tabs-button =
     .label = Барлық беттерді қайта жүктеу
