@@ -244,10 +244,35 @@ link-preview-generation-retry = Қайтадан көру
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Сілтемені алдын ала қарау баптаулары
+link-preview-settings-enable =
+    .label = Сілтемелерді алдын ала қарауды іске қосу
+    .description = Сілтемені тышқанның оң жақ батырмасын басқанда немесе пернелер жарлығын пайдаланғанда, беттің атауын, сипаттамасын және басқа да ақпаратты көріңіз.
+link-preview-settings-key-points =
+    .label = ЖИ-ге беттің басын оқуға және негізгі тұстарын қорытындылауға рұқсат беру
+link-preview-settings-long-press =
+    .label = Пернелер жарлығы: Сілтемені 1 секунд бойы басып тұрыңыз (ұзақ басу)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = ЖИ көмегімен көбірек көру керек пе?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } беттің басын оқу және бірнеше негізгі тұстарын қорытындылау үшін ЖИ технологиясын пайдаланады. Жекелігіңізді сақтау үшін бұл процесс сіздің құрылғыңызда орындалады.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Жаңа: Кез келген сілтемені алдын ала қарау үшін оны басып тұрыңыз
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Сілтемені ашуға тұрарлық па екенін білу үшін оның қысқаша сипаттамасын, оқу уақытын және басқа да ақпаратты көріңіз. Сондай-ақ тышқанның оң жақ батырмасы арқылы қолжетімді.
+# Header for the key points section
+link-preview-key-points-header = Негізгі тұстар
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Негізгі тұстар ЖИ арқылы жасалған, сондықтан қателер болуы мүмкін.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Алғашқы баптау • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Келесі жолы негізгі тұстарды жылдамдау көресіз.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Алдын ала қарауды қарау
 # Onboarding card Close button
 link-preview-onboarding-close = Жабу
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Алғашқы баптау
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Бұл біраз уақыт алуы мүмкін. Келесі жолы негізгі тұстарды жылдамдау көресіз.
