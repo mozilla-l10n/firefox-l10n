@@ -38,6 +38,7 @@ remove-search-engine-button = Ados
 ## Variables
 ## $newEngine (String) - the name of the new default search engine.
 
+reset-search-settings-message = Arazo tekniko bat dela-eta, zure bilaketa-motor lehenetsia atzera { $newEngine } motorrera aldatu da. Bilaketa-motor lehenetsia aldatzeko, zoaz ezarpenetara.
 reset-search-settings-button = Ados
 
 ## Infobar shown when user is prompted to install search engine.
@@ -58,7 +59,11 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
 add-engine-name = Bilaketa-motorraren izena
+add-engine-url2 = URLa, bilaketa-terminoaren lekuan %s karakterea duela
 add-engine-keyword2 = Gako-hitza (aukerakoa)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = POST datuak, bilaketa-terminoaren lekuan %s karakterea dutela (utzi hutsik GET metodorako)
+add-engine-suggest-url = Iradokizunen URLa, bilaketa-terminoaren lekuan %s karakterea duela (aukerakoa)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
@@ -71,7 +76,28 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Gako-hitz hori erabilita dago jada. Probatu beste batekin.
+add-engine-name-exists = Izen hori erabilita dago jada. Aukeratu beste bat mesedez.
 add-engine-no-name = Gehitu izena mesedez.
 add-engine-no-url = Sartu URL bat.
 add-engine-invalid-url = URLak ez dirudi zuzena. Egiazta ezazu eta saiatu berriro.
 add-engine-invalid-protocol = URLak ez dirudi zuzena. Erabili http edo https bidez hasten den URL bat.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Saiatu %s karakterea sartzen bilaketa-terminoaren lekuan.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Saiatu %s karakterea sartzen bilaketa-terminoaren lekuan.
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Gehitu bilaketa-motorra
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra1 = Aurreratua
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Gorde bilaketa-motorra
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra1 = Aurreratua
