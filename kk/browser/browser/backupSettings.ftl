@@ -93,8 +93,13 @@ turn-off-scheduled-backups-confirm-button = Сөндіру және сақтық
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Деректерді қалпына келтіру
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Бұл барлық ағымдағы { -brand-short-name } деректеріңізді { DATETIME($date, timeStyle: "short", dateStyle: "short") } күнгі сақтық көшірмемен алмастырады.
 restore-from-backup-support-link =
     .message = Не қалпына келтіріледі?
+restore-from-backup-no-backup-file-link = Сақтық көшірмені табуда қиындықтар бар ма?
 restore-from-backup-filepicker-label = Сақтық көшірме файлы
 restore-from-backup-filepicker-title = Сақтық көшірме файлын таңдаңыз:
 restore-from-backup-file-choose-button =
@@ -107,6 +112,33 @@ restore-from-backup-password-description = Бұл сіздің шифрленг�
 restore-from-backup-cancel-button = Бас тарту
 restore-from-backup-confirm-button = Қалпына келтіріп, қайта іске қосу
 restore-from-backup-restoring-button = Қалпына келтірілуде…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Пароль қате. <a data-l10n-name="incorrect-password-support-link">Әлі де мәселелер бар ма?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Бұл файл жұмыс істемейді
+    .message = Сақтық көшірме файлында қате орын алды. Басқа файлды таңдап, қайталап көріңіз.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Бұл файл жұмыс істемейді
+    .message = Сіз таңдаған файл { -brand-short-name } бағдарламасының осы нұсқасымен үйлесімді емес. Басқа файлды таңдап, қайталап көріңіз.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Бұл файл жұмыс істемейді
+    .message = Сіз таңдаған файл { -brand-short-name } арқылы жасалмаған. Басқа файлды таңдап, қайталап көріңіз.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
