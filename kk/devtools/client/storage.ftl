@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Мерзімі аяқталады / Max-
 storage-table-headers-cookies-size = Өлшемі
 storage-table-headers-cookies-last-accessed = Соңғы қатынаған
 storage-table-headers-cookies-creation-time = Жасалған
+storage-table-headers-cookies-update-time = Жаңартылды
 storage-table-headers-cache-status = Қалып-күйі
 storage-table-headers-extension-storage-area = Қойма аймағы
 
@@ -107,3 +108,11 @@ storage-idb-delete-blocked = "{ $dbName }" дерекқоры барлық ба�
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = "{ $dbName }" дерекқорын өшіру мүмкін емес.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Cookie жасау мүмкін емес: “{ $errorString }”.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Cookie жаңарту мүмкін емес: “{ $errorString }”.

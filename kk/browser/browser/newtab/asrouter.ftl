@@ -239,6 +239,8 @@ set-default-pdf-handler-primary = Түсіндім
 annotations-default-pdf-handler-headline = Нүктелі сызыққа немесе кез келген жерге қол қойыңыз!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Қолтаңбаңызды салыңыз, теріңіз немесе жүктеп салыңыз, содан кейін оны қажетті жерге дәл орналастырыңыз. Негізгі қолтаңбаларыңызды келесі жолы пайдалану үшін сақтап қойыңыз.
+annotations-make-default-pdf-handler-title = { -brand-short-name } өнімін негізгі PDF түзеткіші ретінде орнату керек пе?
+annotations-make-default-pdf-handler-subtitle = PDF файлын ашқан сайын біздің құралдарымызға қол жеткізе аласыз.
 annotations-make-default-pdf-primary-cta-label = Бастапқы ретінде орнату
 annotations-make-default-pdf-next-label = Келесі
 annotations-make-default-pdf-primary-cta =
@@ -335,6 +337,7 @@ fxa-menu-message-sign-in-button = Кіру
 fxa-menu-message-sync-button = Синхрондауды бастау
 fxa-menu-message-sync-devices-primary-text = Барлық құрылғыларыңызды синхрондау
 fxa-menu-message-sync-devices-secondary-text = { -brand-short-name } қолданатын барлық жерде бетбелгілер мен парольдер сияқты ақпаратыңызды дереу алыңыз.
+fxa-menu-message-sync-devices-secondary-text2 = Бетбелгілерге, парольдерге және басқа да деректерге { -brand-short-name } жүйесіне кірген барлық құрылғыдан лезде қол жеткізіңіз.
 fxa-menu-message-sync-devices-collapsed-text = Барлық құрылғыларыңызды синхрондау
 fxa-menu-message-backup-data-primary-text = Браузер деректерінің сақтық көшірмесін жасау
 fxa-menu-message-backup-data-secondary-text = Барлық құрылғыларыңыздағы бетбелгілерді, парольдер және басқа ақпаратты автоматты түрде қорғау.
@@ -368,28 +371,42 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Жекелікке бағы
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
+windows-10-eos-sync-spotlight-title = Windows 10 жүйесінен жақын арада жаңартыласыз ба?
+windows-10-eos-sync-spotlight-subtitle = Парольдер мен бетбелгілеріңіздің сақтық көшірмесін жасаңыз, сонда кез келген құрылғыға өтуге дайын боласыз.
 windows-10-eos-sync-spotlight-primary-label = { -brand-short-name } қор көшірмесін жасау
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Windows 11 жүйесіне өтудесіз бе? Бетбелгілер мен парольдерді жоғалтпаңыз.
+windows-10-eos-sync-toast-subtitle = Деректеріңіздің сақтық көшірмесін жасаңыз, сонда { -brand-short-name } кез келген уақытта, осы немесе келесі компьютерде пайдалануға дайын болады.
 windows-10-eos-sync-toast-primary-label = Бастау
 windows-10-eos-sync-toast-secondary-label = Кейінірек еске салу
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } басқа Big Tech браузерлері сияқты алдын ала орнатылмаған. Бастысы — осы.
+windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name } бетбелгілері мен парольдерінің сақтық көшірмесін жасасаңыз, өзіңіз таңдаған браузерді келесі құрылғыға көшіру оңайырақ болады.
+windows-10-eos-challenger-pin-callout-subtitle = { -brand-shorter-name } бағдарламасын тапсырмалар тақтасына бекітіңіз, сонда өзіңіз таңдаған браузер қажет болғанда әрдайым қол астыңызда болады.
 windows-10-eos-challenger-sync-primary-button = { -brand-shorter-name } сақтық көшірмесін жасау
 windows-10-eos-challenger-pin-primary-button = { -brand-shorter-name } бекіту
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } криптомайнерлерді, әлеуметтік желілердегі бақылаушыларды және саусақ ізін алушыларды бұғаттайды.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Бақылаушылар сіздің құрылғыңызды сәйкестендіре алмайды немесе желіде соңыңыздан ере алмайды — өйткені біз оларға жол бермейміз.
+windows-10-eos-sync-callout-privacy-screen-2-title = Келесі құрылғыңыз үшін парольдер мен бетбелгілердің қауіпсіздігін қамтамасыз етіңіз.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name } сақтық көшірмесін жасау деректеріңіз бен жекелік баптауларыңызды өзіңізбен бірге алып жүруді жеңілдетеді.
 windows-10-eos-sync-callout-privacy-info-button = Ненің бұғатталғанын қарау
 windows-10-eos-callout-addons-title = Қосымшаларды қолданып көріңіз: қарапайым жаңарту, үлкен әсер
 windows-10-eos-callout-addons-subtitle = Бұл кеңейтулер сіздің өнімділігіңізді арттырып, қорғалған әрі алаңдаушылықсыз болуыңызға көмектесу үшін таңдалды.
 windows-10-eos-callout-addons-primary-button = Біздің таңдауларымызды қараңыз
 windows-10-eos-sync-callout-addons-title = Windows 10 жүйесінен жаңартылған кезде қосымшаларыңызды жоғалтпаңыз.
+windows-10-eos-sync-callout-addons-subtitle = { -brand-product-name } қосымшаларыңыз әрқашан, тіпті құрылғыны ауыстырғаннан кейін де қолжетімді болуы үшін қазір синхрондаңыз.
 windows-10-eos-sync-callout-next-button = Келесі
 windows-10-eos-sync-callout-get-started-button = Бастау
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Тік қойындылар мен қойындылар топтары енді қолжетімді!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Көптеген сұраныстар бойынша, { -brand-product-name } шолу процесін жеңілдету және шоғырландыру үшін жаңа функцияларды шығарды.
 windows-10-eos-feature-toast-whats-new-button = Жаңалықтарын білу
 windows-10-eos-feature-toast-dismiss-button = Елемеу
 
@@ -400,6 +417,7 @@ windows-10-eos-feature-toast-dismiss-button = Елемеу
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>Қатаң бақылаудан қорғау режимi сайттардың жұмысын бұзуы мүмкін.</strong> Бақылаушылары болуы мүмкін маңызды элементтерді бұғаттан шығару арқылы жиі кездесетін мәселелерді түзетіңіз.
 etp-strict-exceptions-infobar-learn-more = Көбірек білу
 etp-strict-exceptions-infobar-button = Түзетулерді іске асыру
     .accesskey = а
@@ -408,5 +426,10 @@ etp-strict-exceptions-infobar-not-now = Қазір емес
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = { -brand-short-name } негізгі браузер емес
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } негізгі браузеріңіз емес
+set-default-menu-message-row-layout-title = { -brand-short-name } негізгі браузер қылу
+set-default-menu-message-row-layout-title-variant = { -brand-short-name } негізгі браузер қылу
+set-default-menu-message-row-layout-subtitle = Әр шолудағы жылдамдық, қауіпсіздік және жекелікті алыңыз.
 set-default-menu-message-primary-button = Бастапқы ретінде орнату
 set-default-menu-message-primary-button-variant = Негізгі браузер ретінде орнату
