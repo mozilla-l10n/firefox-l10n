@@ -86,6 +86,8 @@ fp-certerror-revoked-what-can-you-do-body = Probabil că nimic, deoarece este po
 fp-certerror-bad-domain-why-dangerous-body = Site-ul este configurat să permită doar conexiuni securizate, dar există o problemă cu certificatul site-ului. Este posibil ca un actor rău intenționat să încerce să se dea drept site-ul. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece certificatul lui nu este valid pentru { $hostname }. Certificatul este valid doar pentru: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Probabil nimic, deoarece este probabil să existe o problemă cu site-ul în sine. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. Dar dacă te afli într-o rețea corporativă, echipa de asistență ar putea avea mai multe informații. Dacă folosești un software antivirus, încearcă să cauți potențiale conflicte sau probleme cunoscute.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Probabil că nimic, deoarece este posibil să existe o problemă cu site-ul în sine. Poți verifica cu proprietarul site-ului web dacă lucrează la rezolvarea problemei.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = E o problemă cu certificatul site-ului. Este posibil ca un actor rău intenționat să încerce să se dea drept site-ul. Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece nu putem ști cine a emis certificatul, este autosemnat sau site-ul nu trimite certificate intermediare în care avem încredere.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -122,6 +124,10 @@ fp-certerror-transparency-what-can-you-do-body = Probabil nimic pentru că trebu
 fp-learn-more-about-secure-connection-failures = Află mai multe despre erorile conexiunilor securizate
 fp-learn-more-about-cert-issues = Află mai multe despre aceste tipuri de probleme cu certificatele
 fp-learn-more-about-time-related-errors = Află mai multe despre depanarea erorilor legate de ceas
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ceasul dispozitivului tău este setat pe { DATETIME($date, timeStyle: "short") }{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dacă este corect, problema de securitate e probabil legată de site. Dacă este greșit, poți regla ceasul în setările de sistem ale dispozitivului.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

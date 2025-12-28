@@ -331,6 +331,9 @@ preferences-web-appearance-override-warning3 =
     .message = Setările de reglare a contrastului au prioritate față de aspectul site-ului web.
 preferences-web-appearance-link =
     .label = Gestionează temele { -brand-short-name } în Extensii și teme
+preferences-contrast-control-group =
+    .label = Contrast site
+    .description = Site-urile web folosesc o varietate de culori de fundal și prim-plan. Pentru un contrast constant, poți folosi aceleași culori pe toate site-urile.
 preferences-contrast-control-radio-group =
     .label = Suprascrie culorile
 # This can appear when using windows HCM or "Override colors: always" without
@@ -403,6 +406,66 @@ translate-attribution = Traduceri de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepții…
     .accesskey = x
+settings-translations-header =
+    .label = Traduceri
+    .aria-label = Traduceri
+    .description = Traducere de pagini sau text selectat. Pentru protejarea confidențialității, traducerile rămân pe dispozitivul tău.
+settings-translations-offer-to-translate-label =
+    .label = Oferă traducerea întregii pagini
+settings-translations-more-settings-button =
+    .label = Mai multe setări pentru traduceri
+    .description = Setează preferințele de limbă, pentru site-uri și traducere offline.
+settings-translations-subpage-header =
+    .heading = Mai multe setări pentru traduceri
+settings-translations-subpage-speed-up-translation-header =
+    .label = Accelerează traducerile
+    .description = Descarcă limbi complete pentru traduceri mai rapide și pentru traduceri offline.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traducere automată
+settings-translations-subpage-always-translate-header =
+    .label = Tradu întotdeauna aceste limbi
+settings-translations-subpage-never-translate-header =
+    .label = Nu tradu niciodată aceste limbi
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nu tradu niciodată aceste site-uri
+settings-translations-subpage-language-select-option =
+    .label = Adaugă o limbă
+settings-translations-subpage-language-add-button =
+    .aria-label = Adaugă o limbă
+    .title = Adaugă o limbă
+settings-translations-subpage-download-languages-header =
+    .label = Descarcă limbi
+settings-translations-subpage-download-languages-select-option =
+    .label = Selectează limba
+settings-translations-subpage-download-languages-button =
+    .aria-label = Descarcă limba
+    .title = Descarcă limba
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nicio limbă descărcată
+settings-translations-subpage-no-languages-added =
+    .label = Nicio limbă adăugată
+settings-translations-subpage-download-progress = Se descarcă…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ({ $size } MB) nu a putut fi descărcată
+settings-translations-subpage-download-retry-button =
+    .label = Încearcă din nou
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Ștergi { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Șterge
+settings-translations-subpage-download-cancel-button =
+    .label = Anulează
+settings-translations-subpage-no-sites-added =
+    .label = Niciun site adăugat
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -949,6 +1012,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizare
+account-placeholder =
+    .label = Nu ești autentificat(ă).
+    .description = Intră în cont ca să îți păstrezi datele private, criptate și sincronizate pe toate dispozitivele.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -957,6 +1023,12 @@ sync-signedout-caption = Ia webul cu tine
 sync-signedout-description2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
 sync-signedout-account-signin3 =
     .label = Intră în cont pentru sincronizare…
+    .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Intră în cont ca să începi sincronizarea
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Intră în cont
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -996,7 +1068,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } nu este verificat.
+sync-signedin-unverified2 =
+    .label = { $email } nu este încă confirmată
+    .description = Verifică-ți căsuța poștală ca să îți confirmi contul și să îl faci oficial.
 sync-signedin-login-failure = Te rugăm să te autentifici pentru reconectare { $email }
+sync-signedin-login-failure2 =
+    .label = Nu ești autentificat(ă) în { $email }
+    .description = Intră din nou în cont pentru reconectare și ca să începi sincronizarea datelor.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1016,7 +1104,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronizare: ACTIVATĂ
+prefs-syncing-on-2 =
+    .label = Sincronizarea este activată
 prefs-syncing-off = Sincronizare: DEZACTIVATĂ
+prefs-syncing-off-2 =
+    .label = Sincronizarea este dezactivată
+    .description = Activează sincronizarea pentru marcaje, parole, istoric și multe altele pe orice dispozitiv.
 prefs-sync-turn-on-syncing =
     .label = Activează sincronizarea...
     .accesskey = s
@@ -1059,6 +1152,9 @@ sync-currently-syncing-addons = Suplimente
 sync-currently-syncing-settings = Setări
 sync-manage-options =
     .label = Gestionează sincronizarea…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = Gestionează datele sincronizate
     .accesskey = M
 sync-change-options =
     .label = Modifică…
@@ -1319,6 +1415,9 @@ autofill-payment-methods-add-button = Adaugă o metodă nouă de plată
 payments-list-header =
     .label = Metode de plată
 payments-list-item-label = <strong>Metode de plată</strong>
+payments-delete-payment-prompt-title = Ștergi această metodă de plată?
+payments-delete-payment-prompt-confirm-button = Șterge
+payments-delete-payment-prompt-cancel-button = Anulează
 payments-remove-payment-prompt-title = Ștergi această metodă de plată?
 payments-remove-payment-prompt-confirm-button = Elimină
 payments-remove-payment-prompt-cancel-button = Anulează
@@ -1331,6 +1430,25 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gestionează adresele și multe altele
     .accesskey = M
+addresses-list-header =
+    .label = Adrese
+addreses-delete-address-button-label =
+    .aria-label = Șterge
+addreses-edit-address-button-label =
+    .aria-label = Editează
+addresses-delete-address-prompt-title = Ștergi această adresă?
+addresses-delete-address-prompt-confirm-button = Șterge
+addresses-delete-address-prompt-cancel-button = Anulează
+autofill-addresses-add-button = Adaugă o adresă nouă
+autofill-addresses-manage-addresses-title =
+    .heading = Gestionează adresele și multe altele
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1525,6 +1643,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acțiuni rapide
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Căutări recente
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Sugestii de căutare în tendințe
+    .accesskey = t
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
 addressbar-locbar-showrecentsearches-option =
     .label = Afișează căutările recente
