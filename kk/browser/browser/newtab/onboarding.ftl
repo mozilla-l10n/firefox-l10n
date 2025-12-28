@@ -444,9 +444,16 @@ onboarding-checklist-sign-up = Тіркеліңіз немесе тіркелг�
 
 tab-groups-onboarding-feature-callout-title = Артық шашыраңқылықты азайтып, зейінді арттыру үшін беттер топтарын қолданып көріңіз.
 tab-groups-onboarding-feature-callout-subtitle = Алғашқы беттер тобыңызды жасау үшін бір бетті екіншісінің үстіне сүйреп апарыңыз, осылайша ретпен ұйымдастыра аласыз.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен табыңыз.
+tab-groups-onboarding-create-group-title-2 = Беттер топтарын осы жерден кез келген уақытта табыңыз.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Беттер тобын жапқан кезде, оны кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
 tab-groups-onboarding-saved-groups-title-2 = Беттер тобын жапқан кезде, оны кез келген уақытта осы жерден қайта аша аласыз.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Жабылған топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
 tab-groups-onboarding-session-restore-title = Беттер топтарын осы жерден кез келген уақытта қайта ашыңыз.
 tab-groups-onboarding-dismiss = ОК
 
@@ -472,7 +479,12 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Windows 11 нұсқасына жаңартып жатсыз ба?
+    { -brand-product-name } деректеріңіздің сақтық көшірмесін жасайық.
+create-backup-screen-1-subtitle = Парольдер, бетбелгілер және т.б. деректеріңізді 1–2 минут ішінде автоматты түрде қорғаңыз.
 create-backup-screen-1-flair = Ұсынылатын
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Көбірек білу</a>
 create-backup-select-tile-button-label = Таңдау
 create-backup-back-button-label = Артқа
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
@@ -505,6 +517,8 @@ fx-backup-confirmation-screen-all-data-item-text-3 = Шифрленген жән
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Сақтық көшірмеден қалпына келтіру
+restore-from-backup-title = { -brand-short-name } браузерін өзіңізге ұнайтын күйге қайта келтірейік
+restore-from-backup-subtitle = Шолуға қайта оралу үшін барлық бетбелгілер, тарих және басқа деректерді қалпына келтіріңіз.
 restore-from-backup-secondary-button = Қалпына келтірмеу
 
 ## Restored from Backup spotlight

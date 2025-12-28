@@ -62,11 +62,13 @@ add-engine-name = Іздеу жүйесінің аты
 add-engine-url2 = Іздеу сөзінің орнында %s бар URL
 add-engine-keyword2 = Кілт сөз (міндетті емес)
 # POST and GET refer to the HTTP methods.
-add-engine-post-data = Іздеу терминінің орнына %s қойылған POST деректері (GET үшін бос қалдырыңыз)
-add-engine-suggest-url = Іздеу терминінің орнына %s қойылған ұсыныс URL адресі (міндетті емес)
+add-engine-post-data = Іздеу сөзінің орнына %s қойылған POST деректері (GET үшін бос қалдырыңыз)
+add-engine-suggest-url = Іздеу сөзінің орнына %s қойылған ұсыныс URL адресі (міндетті емес)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = мыс., Mozilla Developer Network
 add-engine-url-placeholder =
     .placeholder = мыс., https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
@@ -74,8 +76,16 @@ add-engine-keyword-placeholder =
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Бұл кілт сөз бұрыннан пайдаланылып жатыр. Басқасын қолданып көріңіз.
+add-engine-name-exists = Бұл атау бұрыннан пайдаланылып жатыр. Басқасын қолданып көріңіз.
 add-engine-no-name = Атын енгізіңіз.
 add-engine-no-url = URL енгізіңіз.
+add-engine-invalid-url = Бұл URL адресі дұрыс емес сияқты. Тексеріп, қайталап көріңіз.
+add-engine-invalid-protocol = Бұл URL адресі дұрыс емес сияқты. http немесе https деп басталатын URL адресін пайдаланыңыз.
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = Іздеу сөзінің орнына %s қосып көріңіз.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Іздеу сөзінің орнына %s қосып көріңіз.
 
 ## The following strings are used as labels for the dialog's buttons.
 
