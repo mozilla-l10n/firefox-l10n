@@ -74,12 +74,14 @@ protections-panel-not-found-label = Ez da bat ere antzeman
 
 ## Smartblock strings
 
+protections-panel-smartblock-desc-label = { -brand-short-name }(e)k edukiaren jarraipena blokeatzen du gune honetan zauden bitartean harik eta ez baduzu baimentzen.
 # Variables
 #  $trackername (String): the name of the tracker that is currently being blocked.
 protections-panel-smartblock-blocking-toggle =
     .label = Baimendu { $trackername }
 #  $trackername (String): the name of the tracker that is currently being blocked.
 smartblock-placeholder-title = { $trackername } jarraipen-elementuak eta edukia blokeatuta
+smartblock-placeholder-desc = Zure { -brand-short-name } ezarpenek blokeatu dute eduki honek guneen arteko zure jarraipena egitea edo hau iragarkietarako erabiltzea.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Baimendu { $websitehost } ostalarian
 
@@ -154,6 +156,7 @@ protections-panel-cookie-banner-view-turn-on-description = Cookie eskaerak autom
 protections-panel-cookie-banner-view-cancel = Utzi
 protections-panel-cookie-banner-view-turn-off = Desaktibatu
 protections-panel-cookie-banner-view-turn-on = Aktibatu
+protections-panel-cookie-banner-blocker-view-turn-on-description = Aktibatu eta gune honetako cookie iragarki-bandak automatikoki ukatzen saiatuko da { -brand-short-name }.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Utzi
 protections-panel-cookie-banner-view-turn-off-label =
