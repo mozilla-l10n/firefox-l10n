@@ -65,6 +65,11 @@ unified-extensions-mb-quarantined-domain-learn-more = Көбірек білу
 unified-extensions-mb-about-addons-link = Кеңейту баптауларына өту
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } сөндірілген
+    .message = Бұл кеңейтуге шектеу қойылған және ол сөндірілді. Оны баптаулар арқылы іске қосуға болады, бірақ бұл қауіпті болуы мүмкін.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } сөндірілді
     .message =
@@ -75,6 +80,15 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } сөндірілді
     .message = Бұл кеңейту Mozilla саясаттарын бұзады және сөндірілді.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } кеңейту сөндірілген
+           *[other] { $extensionsCount } кеңейту сөндірілген
+        }
+    .message = Кеңейтулеріңіздің кейбіреулеріне шектеу қойылған және олар сөндірілді. Оларды баптаулар арқылы іске қосуға болады, бірақ бұл қауіпті болуы мүмкін.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
@@ -91,3 +105,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } кеңейту сөндірілді
+unified-extensions-notice-safe-mode =
+    .message = Барлық кеңейтулер Мәселелерді шешу режимімен сөндірілген.

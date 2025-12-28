@@ -21,6 +21,7 @@ about-glean-category-manual-testing = Қолмен тестілеу
 about-glean-category-adhoc-testing = Арнайы тестілеу
 about-glean-category-profiler = Профильдеушіні пайдалану
 about-glean-category-about-data = Деректер туралы
+about-glean-category-metrics-table = Метрикалар кестесі
 about-glean-upload-enabled = Деректерді жүктеп салу іске қосулы.
 about-glean-upload-disabled = Деректерді жүктеп салу сөндірулі.
 about-glean-upload-enabled-local = Деректерді жүктеп салу тек жергілікті серверге жіберу үшін іске қосулы.
@@ -48,6 +49,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Деректерді жазу және табудың түрлі жолдары туралы түсіндірмені
+    <strong>Деректер туралы</strong> бетінен қараңыз.
 about-glean-about-testing-header = Тестілеу туралы
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -105,12 +109,34 @@ about-glean-adhoc-note =
     devtools консолін пайдалану арқылы Glean JS API қолданып жатқаныңызды ескеріңіз.
     Бұл Rust және C++ API интерфейстерінен айырмашылығы метрика санаты мен метрика атауы
     <code>camelCase</code> форматында пішімделгенін білдіреді.
+about-glean-profiler-explanation = Барлық жазылған метрикаларды толық көру үшін { -profiler-brand-name } құралын пайдалануға болады. Алдымен сіз <a data-l10n-name="firefox-profiler-link">өнімділік профилін жазып алуыңыз</a> керек. Профиль жазылғаннан кейін «Маркерлер диаграммасы» бөлімін таңдап, «Телеметрия» тармағындағы маркерлерді қараңыз.
+about-glean-profiler-explanation-profiler =
+    Өнімділік профилінде жиналған барлық метрикаларды, олардың қашан жиналғанын
+    және нақты қандай мәндер жиналғанын көре аласыз. Жеке маркерлердің үстіне меңзерді апару арқылы
+    мәннің дұрыс жиналғанын және жинау процесінің тиісті уақытта болғанын тексере аласыз.
 controls-button-label-verbose = Баптауларды іске асырып, пинг жіберу
 about-glean-feedback-settings-only =
     .message = Баптаулар іске асырылды!
 about-glean-feedback-settings-and-ping =
     .message = Баптаулар іске асырылды және пинг жіберілді!
 about-glean-about-data-header = Деректер туралы
+about-glean-about-data-description =
+    Не іздеп жатқаныңызға байланысты, деректеріңізді көру үшін
+    бірнеше түрлі құралды пайдалануға болады.
+about-glean-about-data-description-list-intro =
+    Әр құралдың нақты қолданылу жолдарын төмендегі
+    тізімнен қараңыз:
+about-glean-about-data-list-item-dictionary =
+    Әр қолданба бойынша { -glean-brand-name } жинаған деректер тізімін қарап шығу үшін
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } сөздігіне</a> жүгініңіз.
+about-glean-about-data-list-item-about-telemetry =
+    Ескі телеметрия арқылы жиналып жатқан деректерді қарап шығу үшін
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a> бетіне жүгініңіз.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Жөндеу тегтерін қарау, толық пингтерді көру, оқиғалардың тікелей ағынын
+    тамашалау немесе метрикалық визуализацияларды қарау үшін
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> бетіне жүгініңіз.
+about-glean-about-data-list-item-firefox-profiler = Өнімділік профилін жазу және барлық жазылған метрикаларды көру үшін <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a> құралын пайдаланыңыз.
 about-glean-metrics-table-header = Барлық көрсеткіштер
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Санат
@@ -123,14 +149,28 @@ about-glean-metrics-table-header-value = Мәні
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Әрекеттер
 about-glean-metrics-table-settings-button = Баптаулар
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Метрика кестесінің параметрлері
 about-glean-metrics-table-settings-category-general = Жалпы
 about-glean-metrics-table-settings-hide-empty-value-rows = Бос мән жолдарын жасыру
 about-glean-metrics-table-settings-category-visualizations = Визуализациялар
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Мысалы
 about-glean-metrics-table-settings-category-visualizations-histogram = Гистограмма
+about-glean-metrics-table-settings-histograms-chart-max = Диаграмманың максималды биіктігі
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Масштабталған максималды биіктік
+about-glean-metrics-table-settings-histograms-box-padding = Шегіністер
+about-glean-metrics-table-settings-histograms-chart-padding = Диаграммадағы шегіністер
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Сүзгі
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Бұл төмендегі кестені санаты, атауы, түрі және мәні (егер мән қарапайым түрде болса) бойынша сүзгілейді.
 about-glean-button-load-all = Барлық мәндерді жүктеу
 about-glean-button-load-value = Жүктеу
 # "Docs" is shorthand for "documentation"
@@ -139,6 +179,8 @@ about-glean-button-watch = Бақылау
 # Meaning "to stop watching"
 about-glean-button-unwatch = Бақыламау
 about-glean-no-data-to-display = Көрсетілетін деректер жоқ.
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = <code>about:glean</code> көрінісінде белгіленген метрикаларға әлі қолдау көрсетілмейді.
 about-glean-unknown-metric-type-warning = Белгісіз метрика түрі.
 about-glean-enable-new-features-button = Жаңа мүмкіндіктерді іске қосу
 about-glean-disable-new-features-button = Жаңа мүмкіндіктерді сөндіру
