@@ -73,6 +73,23 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = { $provider } сұрау…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = ЖИ чат-боты сіз таңдаған мәтінді толық ала алмайды
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to the AI chatbot is about { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } сіз таңдаған мәтінді толық ала алмайды
+    .message =
+        { $selectionLength ->
+           *[other] You’ve selected about { $selectionLength } characters. The number of characters we can send to { $provider } is about { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Чат-бот жарлығын жасыру
 genai-menu-choose-chatbot =
@@ -93,6 +110,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = ЖИ чат-боты
 genai-header-provider-menu =
     .title = Чат-ботты таңдау
+genai-header-settings-button =
+    .title = ЖИ чат баптаулары
 genai-header-options-button =
     .title = Мәзірді ашу
 genai-header-close-button =
@@ -110,6 +129,11 @@ genai-options-hide-shortcut =
     .label = Мәтінді таңдаған кезде жарлықты жасыру
 genai-options-about-chatbot =
     .label = { -brand-short-name } ішіндегі ЖИ чат-боттары туралы
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Бет тым ұзын болғандықтан, бұл — оның мазмұнының бір бөлігі ғана.
 
 ## Chatbot footer
 
@@ -147,9 +171,17 @@ genai-onboarding-select-header = Ұсыныстарды көру үшін мәт
 genai-onboarding-select-description = Мәтінді таңдаған кезде чат-ботқа жіберуге болатын ескертулерді ұсынамыз. Сіз өзіңіздің сұрауларыңызды да жаза аласыз.
 genai-onboarding-select-primary = Чатты бастау
 genai-chatbot-contextual-title = ЖИ чат-ботын бетті ауыстырмай қолдану
+genai-chatbot-contextual-subtitle = { -brand-short-name } бүйірлік панеліне ЖИ чат-ботын қосқанда, чат пен бетті қатар көріп, браузерді пайдаланыңыз.
 genai-chatbot-contextual-button = Чат-ботты таңдау
 genai-chatbot-summarize-title = Жаңа! Бір шерту арқылы беттерді қорытындылау
 genai-chatbot-summarize-button = Бетті қорытындылау
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Бүйірлік панельдегі ЖИ чат-ботын тышқанның оң жақ батырмасын басып, «Бетті қорытындылау» командасын таңдаңыз.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Бүйірлік панельдегі жұлдызшалар батырмасын тышқанның оң жақ түймешігімен басып, «Бетті қорытындылау» командасын таңдаңыз. Алғаш рет пайдаланғанда, сонымен қатар ЖИ чат-ботын таңдайсыз.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Бүйірлік панельде ЖИ чат-ботын ашып, төменгі жағындағы «Бетті қорытындылау» командасын таңдаңыз.
+genai-chatbot-summarize-footer-generic-subtitle = Беттерді жылдам қорытындылау үшін { -brand-short-name } бүйірлік панеліне ЖИ чат-ботын қосыңыз.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -196,9 +228,15 @@ link-preview-reading-time =
        *[other] оқу уақыты { $range } минут
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } бұл сілтемені алдын ала көре алмайды.
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Бұл сілтемені алдын ала қарай алмаймыз
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Сілтемеден өту
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } бұл веб-бет үшін негізгі тұстарды қорытындылау мүмкін емес.
+# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
+link-preview-generation-error-missing-data = Бұл веб-бет үшін негізгі тұстарды қорытындылау мүмкін емес.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Бірнәрсе қате кетті.
 # Text for the retry link when generation fails

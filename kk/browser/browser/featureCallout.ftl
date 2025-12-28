@@ -141,6 +141,7 @@ windows-10-eos-sync-general-subtitle-1 = Өзіңіз үшін маңызды д
 windows-10-eos-sync-general-title-2 = Қазір парольдер бен бетбелгілеріңіздің көшірмесін жасап алу үшін қолайлы сәт.
 windows-10-eos-sync-general-subtitle-2 = { -brand-short-name } браузеріне сеніп тапсырған деректеріңізді қорғау және оларды кез келген жерде, кез келген уақытта қайта алу үшін қазір синхрондаңыз.
 windows-10-eos-sync-tour-title-1 = Беттер тым көп пе? Беттерді топтарға біріктіріп ретке келтіріңіз.
+windows-10-eos-sync-tour-subtitle-1 = Бір бетті екіншісінің үстіне сүйреп апарып, топ құрыңыз және жұмысыңызды реттеңіз.
 windows-10-eos-sync-tour-title-2 = Windows 11 үшін жұмысыңызды ретке келтіріңіз.
 windows-10-eos-sync-tour-subtitle-2 = Ауыспас бұрын бетбелгілер, парольдер және баптауларыңыздың сақтық көшірмесін жасау үшін оларды синхрондаңыз.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
@@ -148,11 +149,19 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Елемеу
 windows-10-eos-sync-callout-primary-advance-button-label = Келесі
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Жаңа: Сілтемелерді алдын ала қарау үшін шертіп, басып тұрыңыз
+link-preview-onboarding-callout-description = Сілтеменің басуға тұрарлық екенін анықтау үшін қысқаша сипаттаманы, оқу уақытын және т.б. ақпаратты көріңіз. Сондай-ақ бұл функция тышқанның оң жақ батырмасын басқанда да қолжетімді.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Беттер атауларын бүйір панельде көрсету
 sidebar-button-callout-subtitle = Бүйір панелін кеңейту үшін бүйір панелі батырмасын пайдаланыңыз, осылай беттер атауларын көре аласыз.
 sidebar-button-callout-vertical-tabs = Бертерді көрсету үшін құралдар тақтасындағы бүйірлік панель батырмасын басыңыз.
+sidebar-deprecation-callout-title = Жаңартылған бүйірлік панель жақын арада қолжетімді болады
+sidebar-deprecation-callout-subtitle = Біз сіз қазір қолданып отырған бүйірлік панель нұсқасын біртіндеп қолданыстан шығарып жатырмыз. Жаңартылған бүйірлік панельді байқап көріңіз. Ол жылдамырақ жұмыс істейді және сізге көбірек құралдарға қолжетімділік береді.
+sidebar-deprecation-cta-button = Оны қазір қолданып көру
 
 ## Sidebar Vertical Tabs Strings
 
