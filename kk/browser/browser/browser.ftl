@@ -1385,10 +1385,24 @@ popup-warning-message =
         [one] { -brand-short-name } бұл веб сайттан атып шығатын терезені болдырмады.
        *[other] { -brand-short-name } бұл веб сайттан атып шығатын { $popupCount } терезені болдырмады.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } бұл сайттың басқа бетке бағытталуына жол бермеді.
+        [1] { -brand-short-name } бұл сайттың қалқымалы терезені ашуына және бағытталуына жол бермеді.
+       *[other] { -brand-short-name } prevented this site from opening { $popupCount } pop-up windows and redirecting.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } бұл сайтқа { $popupCount } көп атып шығатын терезені ашуға жол бермеген.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+       *[other] { -brand-short-name } бұл сайттың  { $popupCount } санынан көп қалқымалы терезені ашуына және бағытталуына жол бермеді.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1454,6 +1468,9 @@ trustpanel-etp-description-disabled = { -brand-product-name } компаниял
 trustpanel-connection-label-secure = Байланыс қауіпсіз
 trustpanel-connection-label-insecure = Байланыс қауіпсіз емес
 trustpanel-header-enabled = { -brand-product-name } сақшылықта
+trustpanel-description-enabled2 = Сіз қорғалғансыз. Бірдеңені байқасақ, сізге хабарлаймыз.
+trustpanel-header-enabled-insecure = Бұл сайтта абай болыңыз
+trustpanel-description-enabled-insecure = { -brand-product-name } күдікті нәрсе байқады.
 trustpanel-header-disabled = Сіз қорғаныстарды сөндірдіңіз
 trustpanel-description-disabled = { -brand-product-name } жұмыстан тыс. Біз қорғаныстарды қайта іске қосуды ұсынамыз.
 trustpanel-clear-cookies-button = Cookies файлдары және сайт деректерін тазарту
@@ -1491,6 +1508,9 @@ trustpanel-blocker-section-header =
         [one] Бұл сайтта <span>{ $count }</span> трекер бұғатталған
        *[other] Бұл сайтта <span>{ $count }</span> трекер бұғатталған
     }
+trustpanel-blocker-description = { -brand-product-name } компаниялар сізді азырақ аңдуы керек деп есептейді. Сондықтан біз олардың барынша көбін бұғаттаймыз.
+trustpanel-blocked-header = { -brand-product-name } сіз үшін келесі нәрселерді бұғаттады:
+trustpanel-tracking-header = { -brand-product-name } сайттардың жұмысы бұзылмауы үшін мыналарға рұқсат берді:
 trustpanel-tracking-description = Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
 trustpanel-insecure-section-header = Сіздің байланысыңыз қауіпсіз емес
 trustpanel-insecure-description = Бұл сайтқа жіберіп жатқан деректер шифрленбеген. Оны көруге, ұрлауға немесе өзгертуге болады.
@@ -1546,6 +1566,17 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } трекерді рұқсат етті
     }
 trustpanel-tracking-content-tab-list-header = Бұл сайттар сізді қадағалауға тырысуда:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } цифрлық ізді жинаушыны бұғаттады
+       *[other] { -brand-product-name } { $count } цифрлық ізді жинаушыны бұғаттады
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } { $count } цифрлық ізді жинаушыны рұқсат етті
+       *[other] { -brand-product-name } { $count } цифрлық ізді жинаушыны рұқсат етті
+    }
+trustpanel-fingerprinter-list-header = Мына сайттар сіздің цифрлық ізіңізді жинауға тырысуда:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } { $count } криптомайнерді бұғаттады
