@@ -1192,7 +1192,7 @@ popups-infobar-block =
     .label = Blokeatu laster-leihoak { $uriHost } ostalarirako
     .accesskey = p
 popups-infobar-allow2 =
-    .label = Baimendu laster-leihoak eta hirugarrenen birbideratzeak { $uriHost } ostalarirako
+    .label = Baimendu laster-leihoak eta hirugarrenek eragindako birbideratzeak { $uriHost } ostalarirako
     .accesskey = s
 
 ##

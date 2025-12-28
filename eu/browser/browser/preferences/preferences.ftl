@@ -1846,7 +1846,7 @@ permissions-autoplay-settings =
     .label = Ezarpenak…
     .accesskey = E
 permissions-block-popups2 =
-    .label = Blokeatu laster-leihoak eta hirugarrenen birbideratzeak
+    .label = Blokeatu laster-leihoak eta hirugarrenek eragindako birbideratzeak
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.

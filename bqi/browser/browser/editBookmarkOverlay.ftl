@@ -10,3 +10,5 @@ bookmark-overlay-folders-tree =
 bookmark-overlay-new-folder-button =
     .label = دوبلگه نۊ
     .accesskey = o
+bookmark-overlay-tags-expander-hide =
+    .tooltiptext = بؽڌار کردن

@@ -99,7 +99,7 @@ permissions-exceptions-https-only-desc2 = HTTPS-Only modua desgai dezakezu gune 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
-    .title = Baimendutako webguneak - Laster-leihoak eta hirugarrenen birbideratzeak
+    .title = Baimendutako webguneak - Laster-leihoak eta hirugarrenek eragindako birbideratzeak
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Laster-leihoak ireki eta hirugarrenen markoek birbideratuak izateko baimenduta dauden webguneak zehatz ditzakezu.
 
