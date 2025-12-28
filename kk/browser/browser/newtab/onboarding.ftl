@@ -493,6 +493,14 @@ create-backup-select-tile-button-label = Таңдау
 create-backup-back-button-label = Артқа
 create-backup-show-fewer =
     .label = Осыған ұқсастарды азырақ көрсету
+create-backup-screen-2-title = Сақтық көшірме жасау үшін { -brand-product-name } деректерін таңдаңыз
+create-backup-screen-2-subtitle = Бұл бар болғаны бір минут уақытты алады. Деректеріңіздің сақтық көшірмесі күніне бір рет жасалып тұрады.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Оңай баптау
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Бетбелгілер, тарих, баптаулар және т.б.
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Парольдер мен төлемдерді қамтымайды
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Шифрленбеген
 # Label for the "All data" backup option
@@ -503,6 +511,9 @@ create-backup-screen-2-all-list-2 = Парольдер мен төлемдерд
 create-backup-screen-2-all-list-3 = Парольмен шифрленген
 # Title for a screen asking users to choose a file location
 create-backup-screen-3-location = Сақтық көшірменің қайда сақталғанын қалайсыз?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Сақтық көшірме файлының паролін жасау
+create-backup-screen-3-subtitle = Деректеріңізді шифрлеу үшін қажет. Есіңізде қалатын жерде сақтаңыз.
 fx-backup-opt-in-header = Файл орналасуын таңдау
 fx-backup-opt-in-filepath-label = OneDrive сияқты жаңа құрылғыға көшіруді жоспарлап отырған орынды таңдаңыз.
 fx-backup-opt-in-create-password-label = Парольді енгізіңіз
@@ -519,6 +530,12 @@ fx-backup-confirmation-screen-close-button = Жабу
 fx-backup-confirmation-screen-all-data-item-text-1 = Барлық шолу деректері қамтылған
 fx-backup-confirmation-screen-all-data-item-text-2 = Сіздің құрылғыңызға сақталды
 fx-backup-confirmation-screen-all-data-item-text-3 = Шифрленген және парольмен қорғалған
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Бетбелгілер, тарих, параметрлер және басқа деректер қамтылған
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Сіздің құрылғыңызға сақталды
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Парольдер мен төлемдер қамтылмаған
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Сезімтал деректерді қосу үшін <a data-l10n-name="settings">Баптаулар</a> бөліміне өтіңіз.
+fx-backup-confirmation-screen-item-subtext-1 = Сақтық көшірме жасау бірнеше минуттан кейін басталады және күніне бір рет орындалып тұрады. Орындалу барысын <a data-l10n-name="settings">Баптаулар</a> ішінен тексере аласыз.
+fx-backup-confirmation-screen-item-subtext-2 = Қайта орнату қажет болған жағдайда, { -brand-short-name } сақтық көшірмеңізді автоматты түрде іздейді.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -536,11 +553,15 @@ restored-from-backup-success-with-checklist-primary-button = Сақтау жән
 restored-from-backup-success-with-checklist-secondary-button = Бұл қадамды аттап кету
 restored-from-backup-success-no-checklist-primary-button = Жалғастыру
 restored-from-backup-error-title = Өкінішке қарай, сақтық көшірме файлыңызда ақаулық орын алды.
+restored-from-backup-error-subtitle = Егер сізде басқа { -brand-short-name } сақтық көшірме файлы болса, содан қалпына келтіріп көріңіз. <a data-l10n-name="restore-problems">Әлі де мәселе бар ма?</a>
 restored-from-backup-error-primary-button = Жабу
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = { -brand-short-name } мүмкіндіктерін өз қалауыңызша баптаңыз
+onboarding-personalization-subtitle = Бірнеше сұраққа жауап беріңіз, ал біз { -brand-short-name } браузерін пайдалану мүмкіндіктерін арттыру үшін сізге сәйкес функциялар мен кеңейтулерді ұсынамыз.
+onboarding-personalization-use-case-title = Сіз { -brand-short-name } браузерін не үшін пайдаланатын боласыз?
 onboarding-personalization-use-case-personal-option = Жеке
 onboarding-personalization-use-case-school-option = Мектеп
 onboarding-personalization-use-case-work-option = Жұмыс

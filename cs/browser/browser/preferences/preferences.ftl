@@ -1887,7 +1887,7 @@ content-blocking-fingerprinters = Vytváření otisku prohlížeče
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
-content-blocking-known-and-suspected-fingerprinters = Známé a podezřelé vytváření otisku prohlížeče
+content-blocking-known-and-suspected-fingerprinters = Známé a předpokládané vytváření otisku prohlížeče
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1951,7 +1951,7 @@ content-blocking-known-fingerprinters-label =
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = Podezřelé vytváření otisku prohlížeče
+    .label = Předpokládané vytváření otisku prohlížeče
     .accesskey = P
 
 ## Privacy Section - Tracking
