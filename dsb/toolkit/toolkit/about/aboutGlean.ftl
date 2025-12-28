@@ -87,7 +87,7 @@ about-glean-label-for-controls-submit =
     <code>{ $debug-tag }</code> wóznamjeniju.)
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Woglědajśo se k bokoju { glean-debug-ping-viewer-brand-name } za pingi ze swójim wobznamjenim</a>.
-    Njeměło wěcej ako pór sekundow wót tłocenja tłocaška do pśichoda wašogo pinga traś.
+    Njeměło wěcej ako pór sekundow wót tłocenja tłocaška do pśiźenja wašogo pinga traś.
     Wótergi móžo pór minutow traś.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
