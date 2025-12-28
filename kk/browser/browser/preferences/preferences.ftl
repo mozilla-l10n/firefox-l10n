@@ -1317,6 +1317,13 @@ addresses-delete-address-prompt-cancel-button = Бас тарту
 autofill-addresses-add-button = Жаңа адресті қосу
 autofill-addresses-manage-addresses-title =
     .heading = Адрестерді басқару және т.б.
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

@@ -952,6 +952,8 @@ popup-show-popup-menuitem =
 
 ## The urlbar trust icon & panel
 
+trustpanel-connection-label-secure = منپیز ٱمن
+trustpanel-connection-label-insecure = منپیز ن ٱمن
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
 trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
