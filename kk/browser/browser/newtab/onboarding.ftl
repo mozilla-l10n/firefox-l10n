@@ -485,8 +485,14 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = Парольдер, бетбелгілер және т.б. деректеріңізді 1–2 минут ішінде автоматты түрде қорғаңыз.
 create-backup-screen-1-flair = Ұсынылатын
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Көбірек білу</a>
+create-backup-screen-1-sync-label = { -brand-product-name } өнімімен синхрондау
+create-backup-screen-1-sync-body = Жүйеге кірген барлық құрылғылардың сақтық көшірмесін жасайды
+create-backup-screen-1-backup-label = Компьютерге сақтық көшірме жасау
+create-backup-screen-1-backup-body = Сіздің құрылғыңызға немесе OneDrive ішіне сақтайды
 create-backup-select-tile-button-label = Таңдау
 create-backup-back-button-label = Артқа
+create-backup-show-fewer =
+    .label = Осыған ұқсастарды азырақ көрсету
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Шифрленбеген
 # Label for the "All data" backup option
@@ -524,9 +530,12 @@ restore-from-backup-secondary-button = Қалпына келтірмеу
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Біз қайтып келдік! { -brand-short-name } деректері қалпына келтірілді.
+restored-from-backup-success-with-checklist-subtitle = Сүйікті әрі құпиялылыққа бағытталған браузеріңіздің бір шерту жерде тұрғанын қалайсыз ба?
+restored-from-backup-success-no-checklist-subtitle = Бұл құрылғы үшін сақтық көшірме жасауды <a data-l10n-name="settings">Баптаулар</a> ішінде іске қосуға болады.
 restored-from-backup-success-with-checklist-primary-button = Сақтау және жалғастыру
 restored-from-backup-success-with-checklist-secondary-button = Бұл қадамды аттап кету
 restored-from-backup-success-no-checklist-primary-button = Жалғастыру
+restored-from-backup-error-title = Өкінішке қарай, сақтық көшірме файлыңызда ақаулық орын алды.
 restored-from-backup-error-primary-button = Жабу
 
 ## Onboarding Personalization Screen
