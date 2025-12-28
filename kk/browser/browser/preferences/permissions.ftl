@@ -96,6 +96,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Белгілі бір веб-сайттар үшін тек-HTTPS режимін сөндіруге болады. { -brand-short-name } бұл сайттар үшін байланысты қауіпсіз HTTPS байланысына дейін жаңартуға әрекет жасамайды. Ережеден тыс жағдайлар жекелік терезелерге қолданылмайды.
 permissions-exceptions-https-only-desc2 = Белгілі бір веб-сайттар үшін тек-HTTPS режимін сөндіруге болады. { -brand-short-name } бұл сайттар үшін байланысты қауіпсіз HTTPS байланысына дейін жаңартуға әрекет жасамайды.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Рұқсат етілген веб-сайттар - Қалқымалы терезелер және үшінші тарап бағыттаулары
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Қай веб-сайттарға қалқымалы терезелерді ашуға және үшінші тарап фреймдері арқылы қайта бағытталуға рұқсат берілетінін көрсетуіңізге болады.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -171,6 +178,16 @@ permissions-site-camera-disable-label =
     .label = Камераңызға қатынауға жаңа сұранымдарды блоктау
 permissions-site-camera-disable-desc = Бұл төменде тізілмеген веб-сайттарға камераңызға қатынауға рұқсат сұрауға тыйым салады. Камераңызға қатынауды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
 
+## Site Permissions - Local host
+
+permissions-site-localhost-window =
+    .title = Баптаулар - Құрылғы қолданбалары мен қызметтері
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Бұл веб-сайттар осы құрылғыдағы қолданбалар мен қызметтерге қол жеткізуді сұрады. Сайттардың бұлай істеуіне рұқсат беруді немесе блоктауды таңдай аласыз.
+permissions-site-localhost-disable-label =
+    .label = Осы құрылғыдағы қолданбалар мен қызметтерге қол жеткізу туралы жаңа сұрауларды блоктау
+permissions-site-localhost-disable-desc = Бұл жоғарыдағы тізімде жоқ кез келген веб-сайттың осы құрылғыдағы қолданбалар мен қызметтерге қол жеткізуді сұрауын тоқтатады. Бұл кейбір веб-сайттардың функцияларының бұзылуына әкелуі мүмкін.
+
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
@@ -179,6 +196,7 @@ permissions-site-local-network-window =
 permissions-site-local-network-desc = Бұл веб-сайттар Wi-Fi немесе жергілікті желіге қосылған құрылғылардағы қолданбалар мен қызметтерге қол жеткізуді сұрады. Сайттарға мұны істеуге рұқсат беру немесе блоктауды таңдауға болады.
 permissions-site-local-network-disable-label =
     .label = Wi-Fi немесе жергілікті желіге қосылған құрылғылардағы қолданбалар мен қызметтерге қол жеткізуге арналған жаңа сұрауларды бұғаттау.
+permissions-site-local-network-disable-desc = Бұл жоғарыдағы тізімде жоқ кез келген веб-сайттың Wi-Fi желісіне қосылған құрылғыларға немесе жергілікті желідегі құрылғыларға қол жеткізуді сұрауын тоқтатады. Бұл кейбір веб-сайт функцияларының бұзылуына әкелуі мүмкін.
 
 ## Site Permissions - Microphone
 

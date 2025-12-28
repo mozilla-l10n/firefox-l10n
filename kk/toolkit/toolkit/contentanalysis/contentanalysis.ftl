@@ -69,10 +69,18 @@ contentanalysis-error-message-upload-file = "{ $filename }" файлын жүк�
 contentanalysis-error-message-dropped-text = Ұстап апарып тастауға тыйым салынған.
 contentanalysis-error-message-clipboard = Кірістіруге тыйым салынған.
 contentanalysis-error-message-print = Баспаға шығаруға тыйым салынған.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = { $agent } агентіне қосылу уақыты аяқталды. { $contentName } блокталды.
 contentanalysis-block-dialog-title-upload-file = Бұл файлды жүктеп жіберуге рұқсатыңыз жоқ
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес "{ $filename }" файлын жүктеп жіберуге рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
+contentanalysis-block-dialog-title-download-file = Бұл файлды жүктеп алуға рұқсатыңыз жоқ
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес "{ $filename }" файлын жүктеп алу рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
 contentanalysis-block-dialog-title-clipboard = Бұл мазмұнды кірістіруге рұқсатыңыз жоқ
 contentanalysis-block-dialog-body-clipboard = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес бұл мазмұнды кірістіруге рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
 contentanalysis-block-dialog-title-dropped-text = Бұл мазмұнды тастауға рұқсатыңыз жоқ

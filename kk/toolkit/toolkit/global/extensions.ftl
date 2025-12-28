@@ -116,6 +116,13 @@ webext-perms-description-data-some = Әзірлеуші бұл кеңейту к
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some-update = Әзірлеуші бұл кеңейту келесіні жинайтынын хабарлады: { $permissions }
 # Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = Әзірлеуші бұл кеңейту келесіні жинағысы келетінін хабарлады: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } жаңарту үшін жаңа параметрлерді қажет етеді
+webext-perms-update-list-intro-with-data-collection = Ағымдағы нұсқа мен параметрлерді сақтап қалу үшін бас тартыңыз немесе жаңа нұсқаны алу және өзгерістерді растау үшін жаңартыңыз.
+# Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-optional-text-with-data-collection = { $extension } қосымша баптауларды сұрайды
 # Variables:
@@ -155,3 +162,8 @@ webext-site-perms-header-unsigned-with-perms = { $extension } қосу кере�
 
 webext-site-perms-midi = MIDI құрылғыларына қатынау
 webext-site-perms-midi-sysex = SysEx қолдауы бар MIDI құрылғыларына қатынау
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-message = <b>Түстер нұсқасы тақырыбыңыз өшірілді.</b> { -brand-shorter-name } өзінің түстер нұсқалары топтамасын жаңартты. Соңғы нұсқаларды қосымшалар сайтынан таба аласыз.
+webext-colorway-theme-migration-notification-button = Жаңартылған түстер нұсқаларын алу
