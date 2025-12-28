@@ -428,9 +428,15 @@ quickactions-cmd-translate = ولرنیڌن
 quickactions-cmd-screenshot = شؽوات ز بلگه
 # Opens about:preferences
 quickactions-settings2 = دؽوۉداری سامووا
+# Opens about:addons page in the themes section
+quickactions-themes = دؽوۉداری زمینه یل
+quickactions-cmd-themes = زمینه یل
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = ورۊ رسۊوی { -brand-short-name }
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = ٱووردن نشووک
 bookmarks-edit-bookmark = آلشت نشووک
 bookmark-panel-cancel =
     .label = لقو
@@ -438,9 +444,12 @@ bookmark-panel-cancel =
 bookmark-panel-show-editor-checkbox =
     .label = نشووݩ داڌن آلشتگر مجال زفت کردن
     .accesskey = S
+bookmark-panel-save-button =
+    .label = زفت
 
 ## Identity Panel
 
+identity-connection-not-secure = منپیز ٱمن نؽ
 identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه
 identity-https-only-dropdown-on =
     .label = رۊشن
@@ -448,6 +457,7 @@ identity-https-only-dropdown-off =
     .label = کۊر
 identity-https-only-dropdown-off-temporarily =
     .label = کۊر وابیڌن مووقت
+identity-permissions-storage-access-header = کۊکیا منجا وبگهی
 identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
 identity-remove-cert-exception =
@@ -553,6 +563,11 @@ urlbar-extension =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = پیتینیڌن وا { $engine }
 urlbar-result-action-sponsored = هؽزگری وابیڌه
 urlbar-result-action-switch-tab = گوم زیڌن و بلگه
 urlbar-result-action-visit = نیشتن

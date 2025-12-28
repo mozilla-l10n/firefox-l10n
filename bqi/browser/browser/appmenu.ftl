@@ -148,6 +148,11 @@ appmenu-developer-tools-extensions =
 appmenuitem-report-broken-site =
     .label = گوزارش خراوی وبگه
 
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = و من هساو منتوری خوتووݩ بیاین
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+
 ## Profiles panel
 
 appmenu-other-profiles = پوروفایلا دیری
