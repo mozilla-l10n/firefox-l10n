@@ -187,5 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } бағ
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = { -brand-short-name } бағдарламасының ең соңғы нұсқасын пайдаланып жатқаныңызға көз жеткізіңіз. Мәзірден Көмек > { -brand-short-name } туралы бөліміне өтіңіз. Егер сізде { -brand-short-name } бағдарламасының соңғы нұсқасы болса, мәселе үлкен ықтималдықпен сайттың өзінде.
 fp-neterror-offline-what-can-you-do-body = Басқа құрылғыда қосылып көріңіз. Модемді немесе маршрутизаторды тексеріңіз. Wi-Fi желісіне байланысты ажыратыңыз және қайта қосылыңыз.
+fp-neterror-http-auth-disabled-what-can-you-do-body = URL адресін HTTPS-ке өзгертіп көріңіз. Бірақ, мәселе сайттың өзінде болуы әбден мүмкін.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Кейде веб-сайттар өздерін басқа сайттармен қажетсіз әрекеттесуден қорғау үшін арнайы қорғаныстарды орнатады.
+fp-learn-more-about-https-connections = HTTPS байланысы туралы біліңіз

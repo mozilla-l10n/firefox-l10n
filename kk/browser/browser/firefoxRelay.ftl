@@ -65,6 +65,7 @@ firefox-relay-offer-legal-notice-control = Тіркелу және эл. пош�
 ## The "basic-info" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = Тегін эл. пошта маскасы арқылы спамның алдын алыңыз
+firefox-relay-and-fxa-popup-notification-first-sentence-basic-info = Тегін <label data-l10n-name="firefox-relay-learn-more-url">электрондық пошта маскасын</label> пайдаланып, нақты адресіңізді жасыру арқылы спамнан қорғаныңыз. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Бұл сайттан</label> келетін хаттар әлі де «Кіріс» жәшігіне түседі, бірақ электрондық поштаңыз жасырын болады.
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = Эл. пошта маскасын пайдалану үшін алдымен тіркеліңіз немесе тіркелгіңізге кіріңіз
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
     .label = Тіркелгіні жасау
@@ -73,6 +74,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Тегін эл. пошта маскасын алыңыз
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Тегін <label data-l10n-name="firefox-relay-learn-more-url">электрондық пошта маскасын</label> пайдаланып, нақты адресіңізді жасыру арқылы кіріс жәшігіңізді спамнан қорғаңыз. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Бұл сайттан</label> келетін хаттар әлі де кіріс жәшігіне түседі, бірақ электрондық поштаңыз жасырын болады.
+firefox-relay-and-fxa-popup-notification-first-sentence = Тегін <label data-l10n-name="firefox-relay-learn-more-url">{ -relay-brand-name } электрондық пошта маскасын</label> пайдаланып, нақты адресіңізді жасыру арқылы кіріс жәшігіңізді спамнан қорғаңыз. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Бұл сайттан</label> келетін хаттар әлі де кіріс жәшігіне түседі, бірақ электрондық поштаңыз жасырын болады.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Эл. пошта маскасын пайдалану үшін алдымен тіркеліңіз немесе тіркелгіңізге кіріңіз
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Тіркелгіні жасау
@@ -80,6 +83,8 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
+firefox-relay-and-fxa-popup-notification-header-with-domain-and-value-prop = Электрондық пошта маскасы арқылы спамнан қорғаныңыз
+firefox-relay-and-fxa-popup-notification-first-sentence-with-domain-and-value-prop = Нақты адресіңізді <label data-l10n-name="firefox-relay-learn-more-url">электрондық пошта маскасымен</label> жасыру арқылы спамнан қорғаныңыз. <label data-l10n-name="firefox-fxa-and-relay-offer-domain">Бұл сайттан</label> келетін хаттарды әдеттегі кіріс жәшігіңізден аласыз, бірақ адресіңіз жасырын болады.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Эл. пошта маскасын пайдалану үшін алдымен тіркеліңіз немесе тіркелгіңізге кіріңіз
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Келесі

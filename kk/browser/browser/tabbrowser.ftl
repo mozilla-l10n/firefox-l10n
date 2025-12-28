@@ -255,9 +255,17 @@ tab-group-editor-color-selector2-red = Қызыл
 tab-group-description = { $tabGroupName } — топтар беті
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Бүктелген
 tab-group-label-tooltip-expanded = { $tabGroupName } — Жазық етілген
+tab-group-preview-name =
+    .aria-label = Қайырылған топтағы беттер
 tab-context-unnamed-group =
     .label = Атаусыз топ
 tab-group-name-default = Атаусыз топ
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Беттер тізімі ашық
+tab-group-preview-closed-description = Беттер тізімі жабық
 
 ##
 
@@ -277,6 +285,20 @@ tab-context-move-tab-to-group =
            *[other] Беттерді топқа қосу
         }
     .accesskey = б
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Бөлінген көріністі жаңа топқа қосу
+           *[other] Add Split Views to New Group
+        }
+    .accesskey = т
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Бөлінген көріністі топқа қосу
+           *[other] Add Split Views to Group
+        }
+    .accesskey = т
 tab-context-move-tab-to-group-saved-groups =
     .label = Жабық топтар
 tab-group-editor-action-new-tab =
@@ -342,6 +364,9 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Түсіндірмені қосу
+    .accesskey = о
 tab-note-editor-button-cancel =
     .label = Бас тарту
     .accesskey = с
@@ -354,6 +379,18 @@ tab-note-editor-button-save =
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Бөлінген көрініс
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Бөлінген көріністі қосу
+    .accesskey = т
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Бөлінген көріністе ашу
+    .accesskey = т
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Бөлінген көріністі ажырату
+    .accesskey = т
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
