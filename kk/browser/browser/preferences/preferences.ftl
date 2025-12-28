@@ -871,6 +871,8 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
 home-prefs-mission-message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді
 home-prefs-mission-message-learn-more-link = Қалай екенін білу
+home-prefs-mission-message2 =
+    .message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді.
 home-prefs-manage-topics-link = Темаларды басқару
 home-prefs-manage-topics-link2 =
     .label = Темаларды басқару
@@ -910,12 +912,28 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Адрестер жолағы нәтижелерінде іздеу ұсыныстарын көрсету
     .accesskey = р
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Адрестік жолақ нәтижелерінде іздеу ұсыныстарын шолу тарихынан кейін көрсету
+search-show-suggestions-private-windows-2 =
+    .label = Жекелік терезелердегі іздеу ұсыныстары
 search-suggestions-cant-show-2 =
     .message = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Нәтижелер беттеріндегі адрес жолағында іздеу ұғымдарын көрсету
+search-separate-default-engine-2 =
+    .label = Жекелік терезелері үшін басқа іздеу жүйесін қолдану
+    .accesskey = о
+search-separate-default-engine-dropdown =
+    .aria-label = Жекелік терезелердегі негізгі іздеу жүйесі
+search-suggestions-header-2 =
+    .label = Іздеу жүйесінің ұсыныстары
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1004,6 +1022,9 @@ sync-signedout-description2 = Бетбелгілер, шолу тарихы, б�
 sync-signedout-account-signin3 =
     .label = Синхрондау ішіне кіру…
     .accesskey = и
+sync-signedout-account-signin-4 =
+    .label = Синхрондауды бастау үшін тіркелгіңізге кіріңіз
+    .accesskey = к
 sync-signedout-account-short =
     .label = Кіру
     .accesskey = р
@@ -1045,7 +1066,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } расталған жоқ
+sync-signedin-unverified2 =
+    .label = { $email } әлі расталған жоқ
+    .description = Тіркелгіңізді растау және оны ресми ету үшін кіріс жәшігіңізді тексеріңіз.
 sync-signedin-login-failure = Байланысты қайта орнатуға үшін кіріңіз { $email }
+sync-signedin-login-failure2 =
+    .label = Сіз { $email } ішінен шықтыңыз
+    .description = Байланысты қалпына келтіріп, деректерді синхрондау үшін қайта кіріңіз.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1107,6 +1134,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Сіз бұл элементтерді барлық қосылған құрылғыларға синхрондаудасыз:
+sync-syncing-across-devices-heading-2 = Деректер құрылғылар арасында синхрондалған
+sync-syncing-across-devices-empty-state =
+    .label = Сіз ештеңені синхрондаған жоқсыз… әлі.
+    .description = Барлық құрылғыларыңызда барлық деректерді алу үшін синхрондауды бастаңыз.
 sync-currently-syncing-bookmarks = Бетбелгілер
 sync-currently-syncing-history = Тарих
 sync-currently-syncing-tabs = Ашық беттер
@@ -1120,6 +1151,9 @@ sync-currently-syncing-settings = Баптаулар
 sync-manage-options =
     .label = Синхрондауды басқару…
     .accesskey = б
+sync-manage-options-2 =
+    .label = Синхрондалған деректерді басқару
+    .accesskey = у
 sync-change-options =
     .label = Өзгерту…
     .accesskey = з
@@ -1243,6 +1277,9 @@ forms-passwords-header =
 forms-ask-to-save-passwords =
     .label = Парольдерді сақтауды сұрау
     .accesskey = а
+forms-manage-password-exceptions =
+    .label = Парольдер үшін ережеден тыс жағдайларды басқару
+    .accesskey = у
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
@@ -1273,8 +1310,14 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Пайдаланушы аттары мен парольдерді автоматты түрде толтыру
     .accesskey = т
+forms-fill-usernames-and-passwords-2 =
+    .label = Пайдаланушы аттары мен парольдерді сақтау және автотолтыру
+    .accesskey = т
 forms-saved-passwords =
     .label = Сақталған парольдер
+    .accesskey = д
+forms-saved-passwords-2 =
+    .label = Сақталған парольдерді басқару
     .accesskey = д
 forms-saved-passwords-searchkeywords = Компьютеріңізде келесі сайттар үшін логиндер сақталып тұр
 # Header for additional protections when managing password settings.
@@ -1283,6 +1326,15 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Басты парольді қолдану
     .accesskey = ы
+forms-primary-pw-set =
+    .label = Басты парольді орнату
+forms-primary-pw-on =
+    .label = Басты пароль ІСКЕ ҚОСЫЛҒАН
+forms-primary-pw-change-2 =
+    .label = Басты парольді өзгерту
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Сөндіру
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Парольдерді толтыру және басқару үшін құрылғыға кіруді талап ету
@@ -1372,6 +1424,9 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Адрестерді сақтау және автотолтыру
     .accesskey = с
+autofill-addresses-manage-addresses-button =
+    .label = Адрестерді және т.б. басқару
+    .accesskey = у
 addresses-list-header =
     .label = Адрестер
 addreses-delete-address-button-label =
@@ -1436,6 +1491,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name } сіздің шолу, жүктеу, формалар және іздеу тарихыңызға арналған жеке баптауларды қолданады.
 history-remember-description = { -brand-short-name } сіздің шолу, жүктемелер, формалар және іздеулер тарихын сақтайтын болады.
 history-dontremember-description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
 history-private-browsing-permanent =
@@ -1463,6 +1521,10 @@ sitedata-header = Cookies файлдары және сайт деректері
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Сайттар деректері және кэш өлшемін есептеу…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Сізде сақталған cookies файлдары, тарих, сайт деректері және кэш қазір <strong>{ $value } { $unit }</strong> диск орнын қолдануда.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1540,9 +1602,13 @@ addressbar-header = Адрес жолағы
 addressbar-suggest-1 = Адрестік жолағында көрсетілетін ұсыныстарды таңдаңыз
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Адрес жолағындағы { -brand-short-name } және біздің серіктестеріміздің ұсыныстары.
 addressbar-suggest = Адрес жолағын қолдану кезінде, ұсыну
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адрестік жолақ — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Адрес жолағында көрсетілетін ұсыныстар түрін таңдаңыз.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Көбірек білу
@@ -1659,6 +1725,8 @@ content-blocking-etp-standard-tcp-rollout-description = Cookie файлдары�
 content-blocking-etp-standard-tcp-rollout-learn-more = Көбірек білу
 content-blocking-etp-standard-tcp-title = Құрамында енді cookie файлдарынан Толық қорғаныс бар, біздің ең мықты жекелік мүмкіндігіміз
 content-blocking-warning-title = Ескерту!
+content-blocking-warning-title-2 = Қатаң трекинг қорғанысы кейбір веб-сайттардың дұрыс жұмыс істемеуіне себеп болуы мүмкін
+content-blocking-warning-title-custom = Таңдауңызша трекинг қорғанысы кейбір веб-сайттардың дұрыс жұмыс істемеуіне себеп болуы мүмкін
 content-blocking-and-isolating-etp-warning-description-2 = Бұл баптау кейбір веб-сайттардың мазмұнын көрсетілмеуіне немесе дұрыс жұмыс жасамауына әкелуі мүмкін. Егер сайт сынған болып көрінсе, сайттың барлық мазмұның жүктеу үшін сол сайт үшін бақылаудан қорғанысты сөндіру керек болуы мүмкін.
 content-blocking-warning-learn-how = Көбірек білу
 content-blocking-baseline-uncheck-warning-dialog-title = Түзетулерді шынымен сөндіргіңіз келе ме?
