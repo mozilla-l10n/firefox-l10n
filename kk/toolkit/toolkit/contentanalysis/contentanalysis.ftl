@@ -31,7 +31,7 @@ contentanalysis-download-description = "{ $filename }" жүктеп алу
 contentanalysis-warndialogtitle = Бұл мазмұн қауіпті болуы мүмкін
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-warndialogtext = Сіздің ұйымыңыз мына мазмұнды қауіпті етіп белгілеген деректердің жоғалуын болдырмау бағдарламалық құамтаманы пайдаланады: { $content }. Оны сонда да қолдану керек пе?
+contentanalysis-warndialogtext = Сіздің ұйымыңыз мына мазмұнды қауіпті етіп белгілеген деректердің жоғалуын болдырмау бағдарламалық қамтаманы пайдаланады: { $content }. Оны сонда да қолдану керек пе?
 contentanalysis-warndialog-response-allow = Құраманы пайдалану
 contentanalysis-warndialog-response-deny = Бас тарту
 contentanalysis-notification-title = Мазмұнды талдау
@@ -41,7 +41,7 @@ contentanalysis-notification-title = Мазмұнды талдау
 contentanalysis-genericresponse-message = Мазмұнды талдау құралы келесі ресурсқа { $response } жауап берді: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = Сіздің ұйымыңыз мына мазмұнды блоктаған деректердің жоғалуын болдырмау бағдарламалық құамтаманы пайдаланады: { $content }.
+contentanalysis-block-message = Сіздің ұйымыңыз мына мазмұнды блоктаған деректердің жоғалуын болдырмау бағдарламалық қамтаманы пайдаланады: { $content }.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."

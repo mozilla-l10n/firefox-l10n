@@ -51,23 +51,47 @@ contextual-manager-passwords-update-password-success-heading =
     .heading = رزم زفت وابیڌ
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
+# This message is displayed to make sure that a user wants to delete an existing login.
+contextual-manager-passwords-remove-login-card-title = رزم پاک بۊ؟
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = وورگشتن
+# This message confirms that the user wants to remove an existing login.
+contextual-manager-passwords-remove-login-card-remove-button = پاک کردن
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = لقو
 contextual-manager-passwords-alert-back-button =
     .label = وورگشتن
 contextual-manager-passwords-change-password-button = آلشت رزم
+contextual-manager-passwords-title = رزما
 
 ## Login Form
 
+contextual-manager-passwords-create-label =
+    .label = ٱووردن رزم
 contextual-manager-passwords-edit-label =
     .label = آلشت رزم
+contextual-manager-passwords-remove-label =
+    .title = پاک کردن رزم
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = رزما
+contextual-manager-website-icon =
+    .alt = آیکون وبگه
 contextual-manager-copy-icon =
     .alt = لف گیری
+contextual-manager-check-icon-username =
+    .alt = لف گیری وابی
+contextual-manager-check-icon-password =
+    .alt = لف گیری وابی
+contextual-manager-alert-icon =
+    .alt = بپا
 contextual-manager-edit-login-button = آلشت
     .tooltiptext = آلشت رزم
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = هیچ رزمی نجۊرست
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
