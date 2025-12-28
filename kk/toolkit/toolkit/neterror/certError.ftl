@@ -76,10 +76,22 @@ fp-certerror-return-to-previous-page-recommended-button = Артқа оралу 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } бұл сайт туралы сізге ескертеді, себебі { $hostname } үшін берілген сертификат кері қайтарылған және бұдан былай сенімді емес.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Бұл ештеңені білдірмеуі де мүмкін, себебі мәселе сайттың өзінде болуы мүмкін. Мәселенің шешілуін бақылап отырған-отырмағанын білу үшін веб-сайт иесіне хабарласып көрсеңіз болады.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Сайт тек қауіпсіз байланыстарға рұқсат беретіндей бапталған, бірақ сайт сертификатында мәселе бар. Зиянкес жақ сайттың жалған көшірмесін көрсетуге тырысуы мүмкін. Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. { -brand-short-name } бұл сайтқа сенбейді, себебі оның сертификаты { $hostname } үшін жарамсыз. Сертификат тек мыналар үшін жарамды: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Ешнәрсе емес сияқты, себебі сайттың өзінде мәселе болуы мүмкін. Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. Бірақ егер сіз корпоративтік желіде болсаңыз, қолдау көрсету тобында қосымша ақпарат болуы мүмкін. Вирусқа қарсы бағдарламалық құралды пайдаланып жатсаңыз, мүмкін болған қайшылықтарды немесе белгілі мәселелерді іздеп көріңіз.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } бұл сайт туралы сізге ескертеді, себебі { $hostname } үшін берілген сертификат бұдан былай сенімді емес сертификаттау орталығы арқылы шығарылған.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Бұл ештеңені білдірмеуі де мүмкін, себебі мәселе сайттың өзінде болуы мүмкін. Мәселенің шешілуін бақылап отырған-отырмағанын білу үшін веб-сайт иесіне хабарласып көрсеңіз болады.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Сайт сертификатында мәселе бар. Зиянкес жақ сайттың жалған көшірмесін көрсетуге тырысуы мүмкін. Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. { -brand-short-name } бұл сайтқа сенбейді, себебі сертификатты кім бергенін айта алмаймыз, ол өздігінен қол қойған немесе сайт біз сенетін аралық сертификаттарды жібермейді.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -107,9 +119,23 @@ fp-cert-error-code = Қате коды: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } { $hostname } серверіне сенбейді, себебі ол публикалық сертификаттың мөлдірлілік талаптарына сәйкес келетінін дәлелдей алмады.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Ешнәрсе емес сияқты, себебі сайттың өзінде мәселе болуы мүмкін.
 fp-learn-more-about-secure-connection-failures = Қауіпсіз байланыс ақаулары туралы қосымша ақпарат алу
 fp-learn-more-about-cert-issues = Сертификат мәселелерінің осы түрлері туралы көбірек білу
 fp-learn-more-about-time-related-errors = Уақытқа байланысты қателерді шешу туралы көбірек білу
+
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name } бұл сайтқа кіруіңізді блоктады, себебі { $hostname } үшін берілген сертификат кері қайтарылған және бұдан былай сенімді емес.
+cert-error-bad-signature = { -brand-short-name } бұл сайтқа кіруіңізді блоктады, себебі { $hostname } үшін берілген сертификаттың қолтаңбасы жарамсыз.
+cert-error-key-pinning-failure = { -brand-short-name } бұл сайтқа кіруіңізді блоктады, себебі { $hostname } үшін берілген сертификат күтілгеннен басқа ашық кілтті пайдаланады.
+cert-error-bad-der = { -brand-short-name } бұл сайтқа кіруіңізді блоктады, себебі { $hostname } үшін берілген сертификат дұрыс кодталмаған.
 
 ## Messages used for certificate error titles
 
@@ -118,6 +144,7 @@ deniedPortAccess-title = Бұл портқа тыйым салынған
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Кешіріңіз, бұл сайтты таба алмадық.
+internet-connection-offline-title = Интернет байланысыңызда мәселе бар сияқты.
 dns-not-found-trr-only-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
 dns-not-found-native-fallback-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
 fileNotFound-title = Файл табылмады

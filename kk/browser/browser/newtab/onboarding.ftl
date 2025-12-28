@@ -565,6 +565,7 @@ onboarding-personalization-use-case-title = Сіз { -brand-short-name } бра�
 onboarding-personalization-use-case-personal-option = Жеке
 onboarding-personalization-use-case-school-option = Мектеп
 onboarding-personalization-use-case-work-option = Жұмыс
+onboarding-personalization-motivation-title = { -brand-short-name } браузерінің қай функциялары сіз үшін ең маңызды?
 onboarding-personalization-motivation-privacy-option = Жекелік және қауіпсіздік
 onboarding-personalization-motivation-productivity-option = Өнімділік
 onboarding-personalization-motivation-other-option = Басқа
