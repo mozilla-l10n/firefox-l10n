@@ -957,7 +957,7 @@ popup-trigger-redirect-menuitem =
 ## The urlbar trust icon & panel
 
 trustpanel-connection-label-secure = منپیز ٱمن
-trustpanel-connection-label-insecure = منپیز ن ٱمن
+trustpanel-connection-label-insecure = منپیز ٱمن نؽ
 trustpanel-description-enabled2 = ایسا زفت ابۊین. ٱر چیه ن بوینیم، و ایسا وارسۊوی اکۊنیم.
 trustpanel-header-enabled-insecure = ویرت وا ای وبگه بۊ
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
