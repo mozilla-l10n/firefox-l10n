@@ -61,6 +61,9 @@ add-engine-button = Таңдауыңызша жүйені қосу
 add-engine-name = Іздеу жүйесінің аты
 add-engine-url2 = Іздеу сөзінің орнында %s бар URL
 add-engine-keyword2 = Кілт сөз (міндетті емес)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = Іздеу терминінің орнына %s қойылған POST деректері (GET үшін бос қалдырыңыз)
+add-engine-suggest-url = Іздеу терминінің орнына %s қойылған ұсыныс URL адресі (міндетті емес)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 

@@ -162,6 +162,17 @@ about-glean-metrics-table-settings-histograms-chart-max = Диаграмманы
 about-glean-metrics-table-settings-histograms-scaled-max = Масштабталған максималды биіктік
 about-glean-metrics-table-settings-histograms-box-padding = Шегіністер
 about-glean-metrics-table-settings-histograms-chart-padding = Диаграммадағы шегіністер
+about-glean-metrics-table-settings-histograms-left-padding = Қосымша сол жақтан шегініс
+about-glean-metrics-table-settings-category-visualizations-timeline = Уақыт шкаласы
+about-glean-metrics-table-settings-timelines-height = Биіктігі
+about-glean-metrics-table-settings-timelines-width = Ені
+about-glean-metrics-table-settings-timelines-chart-padding = Диаграммадағы шегіністер
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Шеңбер радиусы
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y осінің X ығысуы
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y осінің Y ығысуы
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Сүзгі
 # This message sits alongside an input field, further describing its purpose.
@@ -180,10 +191,22 @@ about-glean-button-watch = Бақылау
 about-glean-button-unwatch = Бақыламау
 about-glean-no-data-to-display = Көрсетілетін деректер жоқ.
 # Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = <code>about:glean</code> көрінісінде <code>DualLabeledCounter</code> метрикаларына әлі қолдау көрсетілмейді.
+# Do not translate strings between <code> </code> tags.
 about-glean-labeled-metric-warning = <code>about:glean</code> көрінісінде белгіленген метрикаларға әлі қолдау көрсетілмейді.
 about-glean-unknown-metric-type-warning = Белгісіз метрика түрі.
+about-glean-enable-new-features-promo =
+    .message = Біз жаңа функцияларды қосу үстіндеміз! Олар әлі де белсенді әзірлеу сатысында, бірақ оларды қосқыңыз келсе, осындағы әрекет батырмасын басыңыз.
+    .heading = Жаңа функциялар жақында қолжетімді болады!
 about-glean-enable-new-features-button = Жаңа мүмкіндіктерді іске қосу
 about-glean-disable-new-features-button = Жаңа мүмкіндіктерді сөндіру
 about-glean-about-data-explanation =
     Жиналған деректер тізімін шолу үшін,
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Сөздігін</a> шолыңыз.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Кіріктірілген пингтер
+about-glean-ping-list-optgroup-custom =
+    .label = Таңдауыңызша пингтер
