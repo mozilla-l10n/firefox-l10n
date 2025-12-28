@@ -20,6 +20,9 @@ permission-dialog-description-file-app = Бұл файлға { $scheme } сіл�
 permission-dialog-description-extension-app = { $extension } кеңейтуіне { $appName } арқылы { $scheme } сілтемесін ашуға рұқсат ету керек пе?
 permission-dialog-description-system-app = { $scheme } сілтемесін { $appName } арқылы ашу керек пе?
 permission-dialog-description-system-noapp = { $scheme } сілтемесін ашу керек пе?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Бұл сайтқа сандық әмияныңызды ашуға рұқсат бересіз бе?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

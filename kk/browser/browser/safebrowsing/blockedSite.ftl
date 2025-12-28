@@ -64,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = { -brand-short-name } өнімінің �
 safeb-palm-notdeceptive =
     .label = Бұл фишингті сайт емес…
     .accesskey = ш
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Бұл сайт неліктен бұғатталды?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> алдамшы және зиянды әрекеттерге қатысты болуы мүмкін.
+safeb-blocked-addon-page-error-desc3-override = <strong>Бұған қатысты не істей аласыз?</strong>
+safeb-blocked-addon-page-error-desc4-override = Бұның қайталанбауы үшін about:addons бетіне өтіп, <strong>{ $addonName }</strong> қосымшасын өшіре аласыз немесе сөндіре аласыз.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>{ -brand-short-name } ішіндегі фишингтен және зиянды бағдарламалардан қорғау туралы көбірек біліңіз</a>.
