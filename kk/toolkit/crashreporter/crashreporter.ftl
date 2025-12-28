@@ -15,7 +15,11 @@ crashreporter-loading-details = Жүктелуде…
 crashreporter-view-report-title = Хабар мазмұны
 crashreporter-comment-prompt = Түсініктеме қосу (түсініктеме әркімге көрінеді)
 crashreporter-report-info = Бұл хабардың құрамында бағдарламаның құлау кезі туралы техникалық ақпарат бар.
+crashreporter-checkbox-test-hardware = Менің құрылғымдағы құрылғылық және конфигурация мәселелерін тексеру.
+crashreporter-checkbox-send-report = Бұл құлауды жөндей алу үшін, ол туралы { -vendor-short-name } өндірушісіне хабарлаңыз.
+crashreporter-checkbox-include-url = Мен қарап отырған беттің адресін де қосу.
 crashreporter-submit-status = Құлау туралы хабар сіз шықпай тұрып не қайта қоспай тұрып орындалады.
+crashreporter-submit-waiting-hardware-tests = Құрылғылық және конфигурация мәселелері тексерілуде…
 crashreporter-submit-in-progress = Хабар жіберілуде…
 crashreporter-submit-success = Хабар сәтті жіберілді!
 crashreporter-submit-failure = Хабар сәтті жіберілді!
@@ -42,3 +46,4 @@ crashreporter-error-no-home-dir = Үй бумасы жоқ
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from } ішінен { $to } ішіне жылжыту сәтсіз аяқталды
 crashreporter-error-version-eol = Нұсқаның қызмет ету мерзімінің аяқталуы: құлау туралы есептер енді қабылданбайды.
+crashreporter-error-failed-to-generate-minidump = Қолданба құлау туралы ақпаратты жасай алмады.

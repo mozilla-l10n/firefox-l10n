@@ -6,8 +6,11 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = { -brand-product-name } ішіне қош келдіңіз
+preonboarding-subtitle = Жалғастыру арқылы сіз { -brand-product-name } Қолдану шарттарымен және Жекелік ескертуімен келісесіз. Браузерді жақсартуға көмектесу үшін { -brand-product-name } бағдарламасы { -vendor-short-name } компаниясына диагностикалық және өзара әрекеттесу деректерін жіберіп отырады.
 preonboarding-primary-cta = Растау және жалғастыру
 preonboarding-primary-cta-v2 = Жалғастыру
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Деректерді жинау параметрлерін басқару және біздің Қолдану шарттарымыз бен Жекелік ескертуімізді оқу.
 preonboarding-manage-and-read-header-v2 = Қолдану шарттары мен жекелік ескертуін оқыңыз. Қосымша параметрлерді басқарыңыз.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Біздің қолдану шарттарын оқыңыз

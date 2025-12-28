@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Сканерлеу орындалуд
 contentanalysis-slow-agent-dialog-body-file = { $agent } агенті "{ $filename }" файлының ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } сіздің ұйымыңыздың деректер саясатына сәйкестігін тексеру үшін «{ $filename }» файлын және қосымша { $count } нысанды қарап жатыр. Бұл біраз уақыт алуы мүмкін.
+       *[other] { $agent } сіздің ұйымыңыздың деректер саясатына сәйкестігін тексеру үшін «{ $filename }» файлын және қосымша { $count } нысанды қарап жатыр. Бұл біраз уақыт алуы мүмкін.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } агенті сіз кірістірген нәрсенің ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:

@@ -73,6 +73,9 @@ perftools-button-edit-settings = Баптауларды түзету…
 
 perftools-menu-more-actions-button =
     .title = Көбірек әрекеттер
+perftools-menu-more-actions-restart-with-profiling = { -brand-shorter-name } бағдарламасын іске қосылуды профильдеу мүмкіндігімен қайта іске қосу
+perftools-menu-more-actions-copy-for-startup = Іске қосылуды профильдеуге арналған орта айнымалыларын көшіру
+perftools-menu-more-actions-copy-for-perf-tests = Өнімділік сынақтары үшін параметрлерді көшіру
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -147,6 +150,7 @@ perftools-presets-graphics-description = { -brand-shorter-name } ішінде г
 perftools-presets-media-label = Медиа
 perftools-presets-media-description2 = { -brand-shorter-name } ішінде аудио және видео ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-ml-label = Машиналық оқыту
+perftools-presets-ml-description2 = { -brand-shorter-name } ішінде машиналық оқыту ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 perftools-presets-networking-label = Желі
 perftools-presets-networking-description = { -brand-shorter-name } ішінде желі ақаулықтарын зерттеуге арналған баптаулар жиынтығы.
 # "Power" is used in the sense of energy (electricity used by the computer).
@@ -154,4 +158,6 @@ perftools-presets-power-label = Эл. қорегі
 perftools-presets-power-description = { -brand-shorter-name } ішінде эл. қорегін қолдану ақаулықтарын зерттеуге арналған баптаулар жиынтығы, қосымша жүктемесі аз.
 perftools-presets-debug-label = Жөндеу
 perftools-presets-debug-description = { -brand-shorter-name } ішінде жөндеуге арналған алдын ала жасалған баптау. Жоғары шығынды, өнімділік жұмысы үшін емес, браузер әрекетін түсіну үшін пайдаланыңыз.
+perftools-presets-web-compat-label = Веб-үйлесімділік
+perftools-presets-web-compat-description = Өнімділікті қадағалаудың орнына веб-сайттардағы веб-үйлесімділік мәселелерін түзету үшін ұсынылған алдын ала орнату.
 perftools-presets-custom-label = Таңдауыңызша

@@ -20,6 +20,15 @@ fxa-menu-connect-another-device =
     .label = Басқа құрылғыны байланыстыру…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Құрылғыға жіберу
+           *[other] Send { $tabCount } tabs to device
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
@@ -63,6 +72,18 @@ sync-profile-different-account-title-merge = Профиль басқа тірк�
 sync-profile-different-account-description-merge = Деректеріңізді реттелген және қауіпсіз түрде сақтау үшін { $acctEmail } арқылы кіру үшін жаңа профиль жасауды ұсынамыз. Осы профильде синхрондауды жалғастыруды таңдасаңыз, екі тіркелгі деректері "{ $profileName }" ішінде біржола біріктіріледі.
 # Dialog 2 - account signed in on another profile without option to merge
 sync-account-in-use-header = Тіркелгі қолдануда болып тұр
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } поштасы “{ $otherProfile }” профиліне ағымдағы уақытта кіріп тұр
+sync-account-in-use-description = Бұл тіркелгіні осы компьютердегі тек бір профильмен байланыстыра аласыз.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Бұл тіркелгі басқа профильге кіріп тұр. Екі профильді де синхрондау керек пе?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } тіркелгісі осы компьютердегі “{ $otherProfile }” профиліне кіріп тұр. “{ $currentProfile }” профилін синхрондау екі профильдегі деректерді (мысалы, парольдер мен бетбелгілерді) біржола біріктіреді.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = "{ $profileName }" профиліне ауысу
