@@ -11,6 +11,7 @@ experimental-features-css-masonry-description = CSS Masonry Layout eginbide espe
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
+experimental-features-web-gpu-description3 = <a data-l10n-name="wikipedia-webgpu">WebGPU API</a>ak behe mailako euskarria ematen du konputazioak eta grafikoen errendatzea burutzeko erabiltzailearen gailu edo ordenagailuko <a data-l10n-name="wikipedia">GPUa</a> erabiliz. <a data-l10n-name="spec">Espezifikazioa</a>ren lehen bertsio hau amaitzear da. Ikusi <a data-l10n-name="bugzilla">1602129 buga</a> xehetasun gehiagorako.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
