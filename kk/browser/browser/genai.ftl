@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = { $provider } өшіру
 genai-menu-remove-sidebar =
     .label = Құралдар панелінен өшіру
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = { $provider } сұрау
 genai-menu-new-badge = Жаңа
 genai-menu-summarize-page = Бет қорытындысы
 genai-input-ask-generic =

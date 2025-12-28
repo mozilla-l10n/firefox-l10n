@@ -66,6 +66,12 @@ cfr-doorhanger-bookmark-fxa-link-text = Бетбелгілерді қазір с
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Жабу батырмасы
     .title = Жабу
+fxa-adoption-addresses-backup-title = Сақталған адрестеріңіздің сақтық көшірмесін жасайық
+fxa-adoption-addresses-backup-subtitle = Сақталған адрестеріңізді құрылғыларыңызбен шифрленген түрде синхрондау арқылы қорғаңыз.
+fxa-adoption-credit-cards-backup-title = Төлем әдістеріңіздің сақтық көшірмесін жасайық
+fxa-adoption-credit-cards-backup-subtitle = Төлем әдістеріңізді құрылғыларыңызбен шифрленген түрде синхрондау арқылы қорғаңыз.
+fxa-adoption-bookmarks-treatment-backup-title = Бетбелгілеріңіздің сақтық көшірмесін жасайық
+fxa-adoption-bookmarks-treatment-backup-subtitle = Бетбелгілеріңізді құрылғыларыңызбен шифрленген түрде синхрондау арқылы қорғаңыз.
 fxa-adoption-primary-button-label = Тіркелу
 
 ## Protections panel
@@ -226,6 +232,13 @@ set-default-pdf-handler-primary = Түсіндім
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Нүктелі сызыққа немесе кез келген жерге қол қойыңыз!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Қолтаңбаңызды салыңыз, теріңіз немесе жүктеп салыңыз, содан кейін оны қажетті жерге дәл орналастырыңыз. Негізгі қолтаңбаларыңызды келесі жолы пайдалану үшін сақтап қойыңыз.
 annotations-make-default-pdf-primary-cta-label = Бастапқы ретінде орнату
 annotations-make-default-pdf-next-label = Келесі
 annotations-make-default-pdf-primary-cta =
