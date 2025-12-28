@@ -431,5 +431,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } н�
 set-default-menu-message-row-layout-title = { -brand-short-name } негізгі браузер қылу
 set-default-menu-message-row-layout-title-variant = { -brand-short-name } негізгі браузер қылу
 set-default-menu-message-row-layout-subtitle = Әр шолудағы жылдамдық, қауіпсіздік және жекелікті алыңыз.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, Dock ішіне бекітіңіз.
+       *[other] { -brand-short-name } жақын ұстаңыз — оны өзіңіздің негізгі браузеріңіз етіп, тапсырмалар панеліне бекітіңіз.
+    }
 set-default-menu-message-primary-button = Бастапқы ретінде орнату
 set-default-menu-message-primary-button-variant = Негізгі браузер ретінде орнату
