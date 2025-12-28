@@ -4,6 +4,7 @@
 
 about-networking-title = Sareari buruz
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Garbitu HTTP cachea
 about-networking-sockets = Socketak
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Garbitu DNS cachea
@@ -38,6 +39,7 @@ about-networking-dns-lookup = DNS bilaketa
 about-networking-dns-lookup-button = Ebatzi
 about-networking-dns-domain = Domeinua:
 about-networking-dns-lookup-table-column = IPak
+about-networking-dns-https-rrs-lookup-table-column = HTTP RRak
 about-networking-dns-https-rr-lookup-table-column = HTTP RRak
 about-networking-rcwn = RCWN estatistikak
 about-networking-rcwn-status = RCWN egoera

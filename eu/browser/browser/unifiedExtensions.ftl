@@ -65,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Argibide gehiago
 unified-extensions-mb-about-addons-link = Joan hedapenen ezarpenetara
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } desgaituta
+    .message =
+        Hedapen hau mugatuta dago eta desgaitu egin da.
+        Ezarpenetan gaitzeko aukera daukazu baina arriskutsua izan liteke.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } desgaituta
     .message =
@@ -77,9 +84,29 @@ unified-extensions-mb-blocklist-error-single =
     .message = Hedapen honek Mozillaren politikak bortxatzen ditu eta desgaitu egin da.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
+unified-extensions-mb-blocklist-warning-multiple2 =
     .heading =
         { $extensionsCount ->
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } hedapen desgaituta
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } hedapen desgaituta
+        }
+    .message =
+        Zure zenbait hedapen desgaitu egin dira Mozillaren politikak bortxatzen dituztelako.
+        Ezarpenetan gaitzeko aukera daukazu baina arriskutsua izan liteke.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } hedapen desgaituta
+unified-extensions-notice-safe-mode =
+    .message = Arazoak konpontzeko moduak hedapen guztiak desgaitu ditu.

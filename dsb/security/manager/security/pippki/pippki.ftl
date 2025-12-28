@@ -99,7 +99,7 @@ set-password-backup-pw =
     .value = Gronidło zawěsćenja certifikata:
 set-password-repeat-backup-pw =
     .value = Gronidło zawěsćenja certifikata (hyšći raz):
-set-password-reminder = Wažny: Jolic zabydnjośo swóje gronidło za zawěsćenje certifikata, njamóžośo toś to zawěsćenje pózdźej wótnowiś. Pšosym wobchowajśo jo na wěstem městnje.
+set-password-reminder = Wažny: Jolic zabydnjośo swójo gronidło za zawěsćenje certifikata, njamóžośo toś to zawěsćenje pózdźej wótnowiś. Pšosym wobchowajśo jo na wěstem městnje.
 
 ## Protected authentication alert
 

@@ -14,6 +14,7 @@ url-classifier-search-result-list = Taulen zerrenda: { $list }
 url-classifier-search-input = URLa
 url-classifier-search-error-invalid-url = URL baliogabea
 url-classifier-search-error-no-features = Ez da eginbiderik hautatu
+url-classifier-search-error-no-results = Ez da sarrerarik aurkitu URLarentzat
 url-classifier-search-btn = Hasi bilatzen
 url-classifier-search-features = Eginbideak
 url-classifier-search-listType = Zerrenda mota
