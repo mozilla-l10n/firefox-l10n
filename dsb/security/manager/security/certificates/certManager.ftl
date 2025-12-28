@@ -98,7 +98,7 @@ pkcs12-unknown-err-restore = Dataja PKCS #12 njedajo se z njeznatych pśicynow w
 pkcs12-unknown-err-backup = Zawěsćeńska dataja PKCS #12 njedajo z njeznatych pśicynow napóraś.
 pkcs12-unknown-err = Operacija PKCS #12 njejo so z njeznatych pśicynow raźiła.
 pkcs12-info-no-smartcard-backup = Njejo móžno, certifikaty z hardwaroweho wěstotnego rěda zawěsćiś, kaž na pś. ze smartkórty.
-pkcs12-dup-data = Certifikat a priwatny kluc južo eksistujotej na wěstotnem rěźe.
+pkcs12-dup-data = Certifikat a priwatny kluc južo eksistěrujotej na wěstotnem rěźe.
 
 ## PKCS#12 file dialogs
 

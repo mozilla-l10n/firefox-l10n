@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Gune iruzurtia
 safeb-blocked-malware-page-title = Webgune hau bisitatzeak zure ordenagailua kalte lezake
 safeb-blocked-unwanted-page-title = Hurrengo webguneak programa kaltegarriak izan litzake
 safeb-blocked-harmful-page-title = Hurrengo webguneak malwarea izan lezake
+safeb-blocked-addon-page-title = Gunea blokeatu da zure babeserako
 safeb-blocked-phishing-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du softwarea instalatzera edo pasahitz edo kreditu-txartelen tankerako informazio pertsonala argitara ematera bultza liezazukeelako.
 safeb-blocked-malware-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du zure ordenagailuko informazio pertsonala lapur edo ezaba lezakeen software maltzurra instalatzen saia litekeelako.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du zure nabigatzaile-esperientzia kalte lezaketen programak instalatzera bultza baitiezazuke (adibidez, zure hasiera-orria aldatuz edo bisitatzen dituzun guneetan aparteko iragarkiak erakutsiz).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name }(e)k orri hau blokeatu du zure informazio pertsonala lapurtzen edo ezabatzen duten aplikazioak instalatzen saia daitekeelako (adibidez argazkiak, mezuak edo kreditu-txartelak).
+safeb-blocked-addon-page-short-desc = <p>{ -brand-short-name }(e)k orri hau blokeatu du zure gehigarrietako bat berau irekitzen saiatu delako. Gune hau zure informazioa lapurtzeko erabil liteke — hala nola pasahitzak edo kreditu-txartel zenbakiak.</p>
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Aholkularitza <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> zerbitzuak eskainia.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'>supp
 safeb-palm-notdeceptive =
     .label = Hau ez da gune iruzurtia…
     .accesskey = i
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Zergatik blokeatu da gune hau?</strong>
+safeb-blocked-addon-page-error-desc2-override = Jarduera iruzurti eta kaltegarriarekin lotuta egon liteke <strong>{ $sitename }</strong>.
+safeb-blocked-addon-page-error-desc3-override = <strong>Zer egin dezakezu?</strong>
+safeb-blocked-addon-page-error-desc4-override = Hau berriro gertatzea eragozteko, <strong>{ $addonName }</strong> hedapena ken dezakezu about:addons orritik.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>{ -brand-short-name }(r)en phishing eta malware-aren aurkako babesari buruzko argibide gehiago</a>.

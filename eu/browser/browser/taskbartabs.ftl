@@ -11,6 +11,8 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = Gehitu fitxa ataza-barran
 taskbar-tab-urlbar-button-close =
     .tooltiptext = Kendu fitxa ataza-barratik
+taskbar-tab-urlbar-button-show = Erakutsi web aplikazioaren orri-ekintza
+taskbar-tab-urlbar-button-hide = Ezkutatu web aplikazioaren orri-ekintza
 # This string is used in the description of a Windows Start Menu
 # shortcut for a Taskbar Tab.
 # Variables:
@@ -32,3 +34,17 @@ taskbar-tab-audio-mute =
     .tooltiptext = Mututu fitxa
 taskbar-tab-audio-unmute =
     .tooltiptext = Ez mututu fitxa
+
+## These are used as part of the window title, possibly after the content's
+## title.
+##
+## Variables:
+##  $name (String): The name of the installed web app.
+##  $container (String): The name of the user's container (e.g. 'Work',
+##  'Personal').
+##  $profile (String): The name of the user's current profile.
+
+taskbar-tab-title-default = { $name } — { -brand-full-name }
+taskbar-tab-title-container = { $name } ({ $container }) — { -brand-full-name }
+taskbar-tab-title-profile = { $name } { $profile } profilarekin — { -brand-full-name }
+taskbar-tab-title-container-profile = { $name } ({ $container }) { $profile } profilarekin — { -brand-full-name }

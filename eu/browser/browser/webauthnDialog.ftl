@@ -55,6 +55,12 @@ webauthn-device-blocked-prompt = Erabiltzailearen egiaztapenak huts egin du { $h
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-auth-blocked-prompt = Erabiltzailearen egiaztapenak huts egin du { $hostname } ostalarian. Saiakera oker gehiegi egon dira segidan eta PIN bidezko egiaztapena blokeatu egin da behin-behinean. Zure gailuak piztea/itzaltze zikloa eskatzen du (desentxufatzea eta berriro entxufatzea).
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-pin-not-set-prompt = Erabiltzailearen egiaztapenak huts egin du { $hostname } ostalarian. Baliteke PINa ezarri behar izatea zure gailuan.
+# Variables:
+#  $hostname (String): the origin (website) for which user verification failed.
+webauthn-uv-blocked-prompt = Erabiltzailearen egiaztapenak huts egin du { $hostname } ostalarian. Huts egindako saiakera gehiegi egon dira eta barneratutako erabiltzaileen egiaztapen-metodoa blokeatu egin da.
 webauthn-already-registered-prompt = Gailu hau erregistratuta dago jada. Probatu beste gailu batekin.
 webauthn-cancel = Utzi
     .accesskey = U
