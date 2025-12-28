@@ -33,7 +33,7 @@ fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
             [one] Бетті құрылғыға жіберу
-           *[other] Бетті { $tabCount } құрылғыға жіберу
+           *[other] { $tabCount } бетті құрылғыға жіберу
         }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =

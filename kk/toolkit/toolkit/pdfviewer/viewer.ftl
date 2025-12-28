@@ -318,6 +318,9 @@ pdfjs-editor-signature-button-label = Қолтаңбаны қосу
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Ерекшелеу түзеткіші
 # Used when a signature editor is selected/hovered.
 # Variables:
 #   $description (String) - a string describing/labeling the signature.

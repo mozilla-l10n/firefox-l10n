@@ -127,10 +127,25 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Құрылғыға жіберу
+           *[other] Send { $tabCount } Tabs to Device
+        }
+    .accesskey = б
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
             [one] Бетті құрылғыға жіберу
-           *[other] Бетті { $tabCount } құрылғыға жіберу
+           *[other] { $tabCount } бетті құрылғыға жіберу
+        }
+    .accesskey = б
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Бетті жадыдан шығару
+           *[other] { $tabCount } бетті жадыдан шығару
         }
     .accesskey = ы
