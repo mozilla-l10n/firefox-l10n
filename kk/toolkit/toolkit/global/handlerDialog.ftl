@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = { $scheme } сілтемесін а
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Бұл сайтқа сандық әмияныңызды ашуға рұқсат бересіз бе?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong> сілтемесін ашу <strong>{ $host }</strong> сайтына <strong>{ $appName }</strong> арқылы нақты жеке басыңызды растауды сұрауға мүмкіндік береді. Тек осы сайтқа сенсеңіз ғана жалғастырыңыз.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong> сілтемесін ашу бұл сайтқа <strong>{ $appName }</strong> арқылы нақты жеке басыңызды растауды сұрауға мүмкіндік береді. Тек осы сайтқа сенсеңіз ғана жалғастырыңыз.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong> сілтемесін ашу <strong>{ $host }</strong> сайтына цифрлық әмияныңыз арқылы нақты жеке басыңызды растауды сұрауға мүмкіндік береді. Тек осы сайтқа сенсеңіз ғана жалғастырыңыз.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong> сілтемесін ашу бұл сайтқа цифрлық әмияныңыз арқылы нақты жеке басыңызды растауды сұрауға мүмкіндік береді. Тек осы сайтқа сенсеңіз ғана жалғастырыңыз.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
