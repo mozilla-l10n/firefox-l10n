@@ -114,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Кеңейтуді іске қосу үшін, <img data-l10n-name="menu-icon"/> мәзіріндегі <img data-l10n-name="addons-icon"/> қосымшаларына өтіңіз.
+extension-controlled-enable-2 = Осы кеңейтуді қайта қосу үшін <a data-l10n-name="addons-link">Кеңейтулер мен темалар</a> бетіне кіріңіз.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } басты бет баптауларының кейбірін бақылайды.
 
 ## Preferences UI Search Results
 
@@ -405,6 +409,24 @@ settings-translations-header =
     .description = Беттерді немесе таңдалған мәтінді аудару. Жекелігіңізді қорғау үшін аудармалар құрылғыңызда қалады.
 settings-translations-offer-to-translate-label =
     .label = Толық бетті аударуды ұсыну
+settings-translations-more-settings-button =
+    .label = Көбірек аударма баптаулары
+    .description = Тілдер, веб-сайттар және желіден тыс аударма үшін баптауларды орнатыңыз.
+settings-translations-subpage-header =
+    .heading = Көбірек аударма баптаулары
+settings-translations-subpage-speed-up-translation-header =
+    .label = Аударманы жылдамдату
+    .description = Аударма жылдамдығын арттыру және желіден тыс режимде аудару үшін толық тіл пакеттерін жүктеңіз.
+settings-translations-subpage-automatic-translation-header =
+    .label = Автоматты аударма
+settings-translations-subpage-always-translate-header =
+    .label = Бұл тілдерді әрқашан аудару
+settings-translations-subpage-never-translate-header =
+    .label = Бұл тілдерді ешқашан аудармау
+settings-translations-subpage-never-translate-sites-header =
+    .label = Бұл сайттарды ешқашан аудармау
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Сайтты қосу үшін <img data-l10n-name="translations-icon"/> аударма панелін ашып, <img data-l10n-name="settings-icon"/> аударма баптауларын таңдап, «Бұл сайтты ешқашан аудармау» опциясын белгілеңіз.
 settings-translations-subpage-language-select-option =
     .label = Тілді қосу
 settings-translations-subpage-language-add-button =
@@ -427,6 +449,10 @@ settings-translations-subpage-no-languages-downloaded =
 settings-translations-subpage-no-languages-added =
     .label = Тілдер қосылмады
 settings-translations-subpage-download-progress = Жүктеп алу орындалуда…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } жүктеп алу мүмкін болмады ({ $size }МБ)
 settings-translations-subpage-download-retry-button =
     .label = Қайтадан көру
 # Variables:
@@ -608,6 +634,9 @@ update-in-progress-cancel-button = Жалға&стыру
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name } қолдауы
+    .description = Мәселелерді шешу немесе қауымдастықпен идеялармен бөлісу.
 support-get-help =
     .label = Көмек алу
 support-share-ideas =
@@ -665,6 +694,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Суреттегі сурет видеоның басқару пернелерін іске қосу
     .accesskey = е
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Беттер арасында ауысқанда да видеоларды "Суреттегі сурет" режимінде ойнауды жалғастыру
+    .accesskey = С
 browsing-picture-in-picture-learn-more = Көбірек білу
 browsing-media-control =
     .label = Медианы пернетақта, гарнитура немесе виртуалды интерфейс арқылы басқару
@@ -744,10 +776,20 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Арнайы басты бет
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Веб-сайт адрес(тер)і
 home-custom-homepage-address =
     .placeholder = Адресті енгізу
 home-custom-homepage-address-button =
     .label = Адресті қосу
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Әлі ешқандай веб-сайт қосылмаған.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Немен алмастыру
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Ағымдағы ашық беттер
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Бетбелгілер…
@@ -780,6 +822,9 @@ home-prefs-recommended-by-description-generic = { -brand-product-name } отба
 home-prefs-stories-header =
     .label = Хикаялар
 home-prefs-stories-description = Әрекетіңізге негізделген жекелендірілген хикаялар
+home-prefs-stories-header2 =
+    .label = Хикаялар
+    .description = { -brand-product-name } отбасының таңдауы бойынша ұсынылған ерекше мазмұн
 
 ##
 
@@ -824,6 +869,7 @@ home-prefs-timer-header =
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
+home-prefs-mission-message = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді
 home-prefs-mission-message-learn-more-link = Қалай екенін білу
 home-prefs-manage-topics-link = Темаларды басқару
 home-prefs-manage-topics-link2 =
@@ -912,6 +958,10 @@ search-keyword-warning-title = Қысқаша атау қазір қолдану
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Сіз таңдаған қысқаша атау қазір "{ $name }" қолдануда. Басқасын таңдаңыз.
 search-keyword-warning-bookmark = Сіз таңдаған қысқаша атауды қазір бетбелгілердің біреуі қолданады. Басқасын таңдаңыз.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = “{ $name }” деп аталатын іздеу жүйесі қолданыста бар. Басқа атауды таңдаңыз.
 remove-engine-confirmation = Бұл іздеу жүйесін өшіруді шынымен қалайсыз ба?
 remove-engine-remove = Өшіру
 remove-addon-engine-alert = Бұл іздеу жүйесін өшіру үшін онымен байланысты қосымшаны өшіріңіз.

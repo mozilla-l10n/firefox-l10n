@@ -65,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> бұл элемент
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> үшін түспен ерекшелеу псевдо-элементтерде қолдау жоқ.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> қасиеті үшін ::cue псевдо-элементтерде қолдау жоқ.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> <strong>@position-try</strong> ережелерінде қолданылмайды.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -74,6 +75,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол фрагменттелген, яғни оның мазмұны бірнеше бағандар немесе беттерге бөлінген.
 inactive-css-no-width-height = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның енін мен биіктігін орнату мүмкін емес.
+inactive-css-no-principal-box = <strong>{ $property }</strong> осы элементке әсер етпейді, өйткені ол негізгі блокты құрамайды.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -85,6 +87,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = <strong>display:grid</str
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, немесе <strong>columns:2</strong> қосып көріңіз. { learn-more }
 inactive-css-not-multicol-container-fix = <strong>column-count</strong> немесе <strong>column-width</strong> қосып көріңіз. { learn-more }
 inactive-css-column-span-fix = Оның аталық элементтерінің біріне <strong>column-count</strong> немесе <strong>column-width</strong> қосып көріңіз. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Элементке <strong>position:absolute</strong> қосу немесе оның ата-анасына <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, немесе <strong>display:inline-flex</strong> қасиеттерін қолдану ұсынылады. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Элементке <strong>position:absolute</strong> қосу немесе оның ата-анасына <strong>display:grid</strong> немесе <strong>display:inline-grid</strong> қасиеттерін қолдану ұсынылады. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Элементтің аталық элементіне <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> немесе <strong>display:inline-flex</strong> қосып көріңіз. { learn-more }
 inactive-css-not-grid-item-fix-2 = Элементтің аталық элементіне <strong>display:grid</strong> немесе <strong>display:inline-grid</strong> қосып көріңіз. { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> немесе <strong>display:inline-grid</strong> қосып көріңіз. { learn-more }
@@ -96,10 +100,13 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>d
 inactive-css-not-display-block-on-floated-fix = <strong>float</strong> өшіріп немесе <strong>display:block</strong> қосып көріңіз. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Элемент контейнерінің <strong>display</strong> қасиеті мәнін <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> немесе <strong>inline-grid</strong> мәндерінен басқа мәнге ауыстырып көріңіз, немесе <strong>float</strong> өшіріп көріңіз. { learn-more }
 inactive-css-not-block-fix = <strong>display:block</strong> немесе <strong>float:left</strong> сияқты қасиеттерді қосып көріңіз. { learn-more }
+inactive-css-not-block-container-fix = <strong>display:block</strong>, <strong>display:inline-block</strong> немесе <strong>display:flow-root</strong> қасиеттерін қолдану ұсынылады. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> немесе <strong>display:flow-root</strong> қасиеттерін қолдану ұсынылады. { learn-more }
 inactive-css-not-floated-fix = Мәні <strong>none</strong> мәнінен басқа болатын <strong>float</strong> қасиетін қосып көріңіз. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Элементтің <strong>position</strong> қасиетін <strong>static</strong> шамасынан басқа мәніне орнатып көріңіз. { learn-more }
 inactive-css-only-replaced-elements-fix = Қасиетті ауыстырылған элементке қосып тұрғаныңызға көз жеткізіңіз. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> қосып көріңіз. { learn-more }
+inactive-css-no-size-containment-fix = Оның <strong>display</strong> қасиетін <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> немесе <strong>inline-table</strong> емес басқа мәнге орнату ұсынылады, сондай-ақ оның table немесе ruby сегментінде еместігін тексеріңіз. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Оның <strong>display</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, немесе <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Оның <strong>display</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, немесе <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> немесе <strong>display:inline-table</strong> қосып көріңіз. { learn-more }
@@ -111,6 +118,7 @@ inactive-css-resize-fix = <strong>overflow</strong> параметрін <strong
 inactive-css-ruby-element-fix = Ruby мәтінінің <strong>font-size</strong> қасиетін өзгертіп көріңіз. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Жолдар санын азайтып көріңіз. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Элемент мазмұнын бөлуге жол бермеңіз, мысалы: бағандарды өшіру арқылы немесе <strong>page-break-inside:avoid</strong> арқылы. { learn-more }
+inactive-css-no-principal-box-fix = Элементке негізгі блок құратын <strong>display</strong> мәнін тағайындау ұсынылады, мысалы <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> немесе <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -134,3 +142,5 @@ css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> тур
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Бұл селектор шектелмеген <strong>:has()</strong> пайдаланады, ол баяу болуы мүмкін
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = <strong>:scope</strong> псевдокласынан кейінгі туыс селекторлары ешбір элементке сай келмейді.
