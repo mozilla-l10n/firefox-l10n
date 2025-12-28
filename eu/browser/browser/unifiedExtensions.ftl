@@ -11,6 +11,15 @@
 unified-extensions-header-title = Hedapenak
 unified-extensions-manage-extensions =
     .label = Kudeatu hedapenak
+unified-extensions-discover-extensions =
+    .label = Deskubritu hedapenak
+unified-extensions-empty-reason-private-browsing-not-allowed = Hedapenak instalatuta dituzu baina ez daude leiho pribatuetan gaituta
+unified-extensions-empty-reason-extension-not-enabled = Hedapenak instalatuta dituzu baina ez daude gaituta
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Eraman nabigazioa beste maila batera hedapenekin
+unified-extensions-empty-content-explain-enable2 = Hautatu "{ unified-extensions-manage-extensions.label }" ezarpenetan gaitzeko.
+unified-extensions-empty-content-explain-manage2 = Hautatu "{ unified-extensions-manage-extensions.label }" ezarpenetan kudeatzeko.
+unified-extensions-empty-content-explain-extensions-onboarding = Pertsonalizatu { -brand-short-name } bere itxura eta jarduna aldatuz edo pribatutasun eta segurtasunari bultzada emanez.
 
 ## An extension in the main list
 
@@ -21,6 +30,9 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Ireki menua { $extensionName } hedapenerako
 unified-extensions-item-message-manage = Kudeatu hedapena
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } mugatuta dago. Erabiltzea arriskutsua izan liteke.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } hedapenak Mozillaren politikak bortxatzen ditu. Arriskutsua izan liteke hau erabiltzea.
@@ -43,6 +55,7 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Zenbait hedapen ez dira onartzen
+unified-extensions-mb-quarantined-domain-message = Zure datuak babesteko, bakarrik { -vendor-short-name }(e)k monitorizatutako zenbait hedapen daude baimenduta gune honetan.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Zenbait hedapen ez dira onartzen
@@ -50,3 +63,23 @@ unified-extensions-mb-quarantined-domain-message-3 =
 unified-extensions-mb-quarantined-domain-learn-more = Argibide gehiago
     .aria-label = Argibide gehiago: zenbait hedapen ez dira onartzen
 unified-extensions-mb-about-addons-link = Joan hedapenen ezarpenetara
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single =
+    .heading = { $extensionName } desgaituta
+    .message =
+        Hedapen honek Mozillaren politikak bortxatzen ditu eta desgaitu egin da.
+        Ezarpenetan gaitzeko aukera daukazu baina arriskutsua izan liteke.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } desgaituta
+    .message = Hedapen honek Mozillaren politikak bortxatzen ditu eta desgaitu egin da.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensions disabled
+        }
+    .message = { $extensionsCount } hedapen desgaituta
