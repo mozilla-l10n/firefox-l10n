@@ -139,18 +139,34 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Бұл файл жұмыс істемейді
     .message = Сіз таңдаған файл { -brand-short-name } арқылы жасалмаған. Басқа файлды таңдап, қайталап көріңіз.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } қалпына келтіре алмады
+    .message = { -brand-short-name } бағдарламасын қайта іске қосып, сақтық көшірмені қалпына келтіруді қайталап көріңіз.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Өкінішке орай, сақтық көшірме жасау кезінде қате орын алды.
+    .message = Бірнеше минуттан кейін қайталап көріңіз.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Сезімтал деректеріңіздің сақтық көшірмесін жасаңыз
 enable-backup-encryption-support-link = Көбірек білу
 enable-backup-encryption-create-password-label = Пароль
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Парольді қайталау
 enable-backup-encryption-cancel-button = Бас тарту
 enable-backup-encryption-confirm-button = Сақтау
+change-backup-encryption-header = Сақтық көшірме паролін өзгерту
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
+password-rules-header = Парольге қойылатын талаптар
+password-rules-length-description = Кемінде 8 таңба
+password-rules-email-description = Сіздің эл. пошта адресіңіз емес
+password-rules-disclaimer = Қауіпсіз болыңыз — парольдерді қайта қолданбаңыз. <a data-l10n-name="password-support-link">Мықты парольдерді жасау</a> бойынша қосымша кеңестерді қараңыз.
 password-validity-has-email = Эл. пошта адресі болмауы тиіс
 password-validity-do-not-match = Парольдер өзара сәйкес келмейді
 
@@ -184,6 +200,9 @@ backup-error-retry = Бірнәрсе қате кетті. Қайталап кө
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } қалпына келтіруге дайын
+backup-file-title = { -brand-short-name } қалпына келтіру
+backup-file-intro = Шолуға қайта оралып, барлық бетбелгілерді, тарихты және басқа деректерді қалпына келтіріңіз. <a data-l10n-name="backup-file-support-link">Көбірек білу</a>
 backup-file-path-label = Сақтық көшірме файлы:
 backup-file-encryption-state-label = Шифрленген:
 backup-file-encryption-state-value-encrypted = Иә
@@ -197,11 +216,31 @@ backup-file-how-to-restore-header = Қалай қалпына келтіруге
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Қолданба ☰ мәзірін ашып, Баптаулар > Синхрондау бөліміне өтіңіз
+backup-file-moz-browser-restore-step-2 = "Сақтық көшірме файлын таңдау" басып, осы файлды таңдаңыз
+backup-file-moz-browser-restore-step-3 = Сұралған кезде { -brand-short-name } қайта іске қосыңыз
+backup-file-other-browser-restore-step-1 = { -brand-short-name } жүктеп алып, орнатыңыз
 backup-file-download-moz-browser-button = Жүктеп алу
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = { -brand-short-name } іске қосып, қолданба мәзірін ☰ ашып, Баптаулар > Синхрондау бөліміне өтіңіз
+backup-file-other-browser-restore-step-3 = "Сақтық көшірме файлын таңдау" басып, осы файлды таңдаңыз
+backup-file-other-browser-restore-step-4 = Сұралған кезде { -brand-short-name } қайта іске қосыңыз
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Ескерту:</b> { $numberOfOtherBackupsFound } басқа сақтық көшірме файлы табылды
+       *[other] <b>Note:</b> { $numberOfOtherBackupsFound } басқа сақтық көшірме файлы табылды
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = { $machineName } құрылғысында { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } күні жасалды
+backup-file-restore-file-validation-error = Бұл файл жұмыс істемейді. Басқа файлды таңдап көріңіз. <a data-l10n-name="restore-problems">Әлі де мәселелер бар ма?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ешбір файл таңдалмады
