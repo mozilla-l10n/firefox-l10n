@@ -65,6 +65,7 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } профилінің көшірмесі баптауға дайын.
+copied-profile-page-header-description = Біз сіздің деректеріңіз бен параметрлеріңізді жаңа профильге көшірдік. Енді оған атау беріп, сыртқы түрін таңдаңыз және оны өз қалауыңызша баптаңыз.
 profile-window-title-2 = { -brand-short-name } - Профильді таңдау
 profile-window-logo =
     .alt = { -brand-short-name } логотипі
@@ -153,6 +154,8 @@ profiles-custom-theme-title =
 
 ## Data collection settings changed (multi-profile)
 
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>Деректерді жинау параметрлері өзгерді.</strong> Басқа профильде жасалған өзгерістер осы құрылғыдағы барлық профильдерге іске асырылады.
 # Primary button label to open the Data collection section in Settings
 multiprofile-data-collection-view-settings = Баптауларды қарау
 # Secondary button label to dismiss the infobar without action
@@ -266,6 +269,10 @@ custom-avatar-crop-area =
     .aria-label = Кию аймағын көрсету
 custom-avatar-drag-handle =
     .aria-label = Кию аймағының өлшемін өзгерту
+profiles-appmenu-callout-tour-title = Сіздің жаңа профиліңіз дайын
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = ☰ мәзірінде басқа профильді іске қосу, бұл профильді түзету немесе цифрлық өміріңіздің бөлімдері арасында ауысу үшін профиліңіздің атауын шертіңіз.
+profiles-appmenu-callout-tour-primary-button = Қалай жасау керектігін көрсету
 barbell-avatar = Штанга
 bike-avatar = Велосипед
 

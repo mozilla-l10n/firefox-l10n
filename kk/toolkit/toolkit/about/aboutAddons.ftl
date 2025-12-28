@@ -165,6 +165,8 @@ extensions-warning-update-security-button = Іске қосу
 extensions-warning-imported-addons2 =
     .message = { -brand-short-name } ішіне импортталған кеңейтулер орнатуын аяқтаңыз.
 extensions-warning-imported-addons-button = Кеңейтулерді орнату
+extensions-warning-safe-mode3 =
+    .message = Барлық қосымшалар Мәселелерді шешу режимімен сөндірілген.
 
 ## Strings connected to add-on updates
 
@@ -276,7 +278,19 @@ discopane-notice-recommendations2 =
         Бұл ұсыныстардың кейбіреулері жекеленген. Олар сіз басқа орнатқан кеңейтулер,
         профиль баптаулары және қолданылу статистикасына негізделген.
 discopane-notice-learn-more = Көбірек білу
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Сіздің түстер нұсқасы тема(лар)ңыз өшірілді.
+    .message =
+        { -brand-product-name } өзінің түстер нұсқалары топтамасын жаңартты.
+        Біз ескі нұсқа(лар) «Сақталған темалар» тізіміңізден алып тастадық.
+        Жаңа нұсқаларын қосымшалар сайтынан ала аласыз.
 colorway-removal-notice-learn-more = Көбірек білу
+colorway-removal-notice-button = Жаңартылған түстер нұсқалары темаларын алу
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Сіздің Windows контраст параметрлері { -brand-short-name } темаларының орнына қолданылуда. { -brand-short-name } ішінде темаларды пайдалану үшін бұл баптауларды өшіріңіз.
 privacy-policy = Жекелік саясаты
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -297,6 +311,17 @@ find-more-themes = Көбірек темаларды табу
 # used for screen readers.
 addon-options-button =
     .aria-label = Көбірек опциялар
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Кеңейтулер мен тақырыптар { -brand-product-name } бағдарламасын өз қалауыңызша баптауға мүмкіндік береді.
+    Олар жекелікті күшейтіп, өнімділікті арттыра алады, медиа мүмкіндіктерін жақсартып,
+    { -brand-product-name } сыртқы түрін өзгертеді және тағы басқа көптеген мүмкіндіктер сыйлайды.
+    Бұл шағын бағдарламаларды көбінесе үшінші тарап әзірлеушілері жасайды. Төменде Firefox қауіпсіздік,
+    өнімділік және функционалдылық тұрғысынан ерекше деп <a data-l10n-name="learn-more-trigger">ұсынатын</a>
+    таңдаулы жинақ берілген.
 
 ## Add-on actions
 
@@ -429,6 +454,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Mozilla компаниясы жасаған ресми кеңейту. Қауіпсіздік және өнімділік стандарттарына сәйкес келеді
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Бұл кеңейту қауіпсіздік пен өнімділік стандарттарына сай келетініне тексерілді
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox тек қауіпсіздік және өнімділік стандарттарына сай келетін кеңейтулерді ұсынады
 
 ##
 
@@ -499,6 +538,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Көбірек ақпарат
 details-notification-blocked = { $name } қауіпсіздік не тұрақтылық мәселелер салдарынан сөндірілген.
 details-notification-blocked-link2 = Ақпаратын қарау
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Бұл кеңейту шектелген және сөндірілген. Оны іске қосуға болады, бірақ бұл қауіпті болуы мүмкін.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Бұл кеңейту шектелген. Оны пайдалану қауіпті болуы мүмкін.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Бұл қосымша шектелген және сөндірілген. Оны іске қосуға болады, бірақ бұл қауіпті болуы мүмкін.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Бұл қосымша шектелген. Оны пайдалану қауіпті болуы мүмкін.
 details-notification-soft-blocked-extension-disabled =
     .message = Бұл кеңейту Mozilla саясаттарын бұзғаны үшін шектелген және сөндірілген. Оны іске қосуға болады, бірақ бұл қауіпті болуы мүмкін.
 details-notification-soft-blocked-extension-enabled =
