@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The title of the about:translations page.
+about-translations-title = { -brand-short-name } аудармалары
+# The brief description of the Translations functionality on the page.
+about-translations-description = Жекелігіңізді құрметтейтін лезде аудармалар.
 about-translations-learn-more-link = Көбірек білу
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =

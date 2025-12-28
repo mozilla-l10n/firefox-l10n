@@ -949,11 +949,17 @@ popup-notification-addon-technical-and-interaction-checkbox =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = نشووݩ داڌن { $popupURI }
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = نشووݩ داڌن «{ $redirectURI }»
 
 ## The urlbar trust icon & panel
 
 trustpanel-connection-label-secure = منپیز ٱمن
 trustpanel-connection-label-insecure = منپیز ن ٱمن
+trustpanel-description-enabled2 = ایسا زفت ابۊین. ٱر چیه ن بوینیم، و ایسا وارسۊوی اکۊنیم.
+trustpanel-header-enabled-insecure = ویرت وا ای وبگه بۊ
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
 trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
@@ -966,3 +972,8 @@ trustpanel-clear-cookies-subview-button-cancel = لقو
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = ایمن نؽ
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-tracking-content = موئتوا رڌجۊری
