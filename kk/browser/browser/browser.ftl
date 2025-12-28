@@ -1466,6 +1466,13 @@ trustpanel-blocker-see-all = Барлығын қарау
 trustpanel-blocker-header =
     .title = { $host } үшін бақылаудан қорғаныстар
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Қауіпсіз емес
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1540,3 +1547,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } криптомайнерді рұқсат етті
     }
 trustpanel-cryptominer-tab-list-header = Бұл сайттар криптомайнингпен айналасуға тырысуда:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Бұл сайтта <span data-l10n-name="count">{ $count }</span> трекер бұғатталған
+       *[other] Бұл сайтта <span data-l10n-name="count">{ $count }</span> трекер бұғатталған
+    }

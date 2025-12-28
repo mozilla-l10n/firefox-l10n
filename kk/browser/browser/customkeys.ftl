@@ -8,6 +8,7 @@ customkeys-change = Өзгерту
 customkeys-reset = Тастау
 customkeys-clear = Тазарту
 customkeys-new-key = Жаңа пернені басыңыз:
+customkeys-reset-all = Барлық жарлықтарды бастапқы мәнге тастау
 customkeys-history-reopen-tab = Соңғы жабылған бетті қайта ашу
 customkeys-history-reopen-window = Соңғы жабылған терезені қайта ашу
 customkeys-dev-tools = Веб-әзірлеуші құралдары
