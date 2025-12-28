@@ -859,6 +859,8 @@ navbar-accessible =
     .aria-label = ناوبری
 navbar-downloads =
     .label = دانلودا
+navbar-overflow-2 =
+    .tooltiptext = ٱوزارا قلوه
 navbar-overflow =
     .tooltiptext = ٱوزارا قلوه…
 # Variables:
@@ -866,12 +868,22 @@ navbar-overflow =
 navbar-print =
     .label = چاپ
     .tooltiptext = چاپ ای بلگه… ({ $shortcut })
+navbar-search =
+    .title = پیتینیڌن
 tabs-toolbar-new-tab =
     .label = بلگه نۊ
 
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = گشتن سیخومی
+# Tooltip for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-tooltip =
+    .tooltiptext = گشتن سیخومی
 
 ## Unified extensions (toolbar) button
 
@@ -930,6 +942,13 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 popup-notification-addon-technical-and-interaction-checkbox =
     .label = داده یل فنی وو تعامولی ن وا برنومه نویس وردنی یک رسۊوی کۊنین
     .accesskey = S
+
+## Pop-up warning
+
+# Variables:
+#   $popupURI (String): the URI for the pop-up window
+popup-show-popup-menuitem =
+    .label = نشووݩ داڌن { $popupURI }
 
 ## The urlbar trust icon & panel
 

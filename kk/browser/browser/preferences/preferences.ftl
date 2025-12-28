@@ -388,6 +388,12 @@ translate-attribution = Аударманы ұсынған <img data-l10n-name="l
 translate-exceptions =
     .label = Осыдан бөлек…
     .accesskey = О
+settings-translations-header =
+    .label = Аудармалар
+    .aria-label = Аудармалар
+    .description = Беттерді немесе таңдалған мәтінді аудару. Жекелігіңізді қорғау үшін аудармалар құрылғыңызда қалады.
+settings-translations-offer-to-translate-label =
+    .label = Толық бетті аударуды ұсыну
 settings-translations-subpage-language-select-option =
     .label = Тілді қосу
 settings-translations-subpage-language-add-button =
@@ -1002,7 +1008,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Синхрондау: ІСКЕ ҚОСЫЛҒАН
+prefs-syncing-on-2 =
+    .label = Синхрондау: ІСКЕ ҚОСЫЛҒАН
 prefs-syncing-off = Синхрондау: СӨНДІРІЛГЕН
+prefs-syncing-off-2 =
+    .label = Синхрондау: СӨНДІРІЛГЕН
+    .description = Кез келген құрылғыда сіздің бетбелгілер, парольдер, тарих және т.б. деректерді алу үшін синхрондауды іске қосыңыз.
 prefs-sync-turn-on-syncing =
     .label = Синхрондауды іске қосу…
     .accesskey = С
@@ -1303,6 +1314,9 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = Бұл адресті өшіру керек пе?
 addresses-delete-address-prompt-confirm-button = Өшіру
 addresses-delete-address-prompt-cancel-button = Бас тарту
+autofill-addresses-add-button = Жаңа адресті қосу
+autofill-addresses-manage-addresses-title =
+    .heading = Адрестерді басқару және т.б.
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

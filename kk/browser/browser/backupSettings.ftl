@@ -93,6 +93,8 @@ turn-off-scheduled-backups-confirm-button = Сөндіру және сақтық
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Деректерді қалпына келтіру
+restore-from-backup-support-link =
+    .message = Не қалпына келтіріледі?
 restore-from-backup-filepicker-label = Сақтық көшірме файлы
 restore-from-backup-filepicker-title = Сақтық көшірме файлын таңдаңыз:
 restore-from-backup-file-choose-button =
