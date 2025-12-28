@@ -64,6 +64,10 @@ sidebar-show-on-the-right =
     .label = Бүйір панелін оңға жылжыту
 sidebar-show-on-the-left =
     .label = Бүйір панелін солға жылжыту
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = Курсорды апарғанда бүйірлік панельді жаю
 sidebar-manage-extensions = Кеңейтулерді басқару
 
 ## Labels for sidebar context menu items
@@ -211,3 +215,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Бүйір панелін жасыру ({ $shortcut })
     .label = Бүйір панельдер
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Маңызды беттерді қолжетімді жерде ұстау үшін оларды осы жерге сүйреңіз

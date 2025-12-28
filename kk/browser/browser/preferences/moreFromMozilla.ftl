@@ -39,6 +39,7 @@ more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } алу
 more-from-moz-solo-title = { -solo-ai-brand-name } ЖИ
 more-from-moz-solo-description = Өз сайтыңызды бірден жасап, жеке доменіңізді тегін қосыңыз.
 more-from-moz-solo-button = { -solo-ai-brand-name } қолданып көру
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } веб-сайттарды ЖИ жасаушысы
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

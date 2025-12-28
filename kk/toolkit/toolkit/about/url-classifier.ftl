@@ -14,6 +14,7 @@ url-classifier-search-result-list = Кестелер тізімі: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Жарамсыз URL
 url-classifier-search-error-no-features = Мүмкіндіктер таңдалмады
+url-classifier-search-error-no-results = URL үшін жазбалар табылмады
 url-classifier-search-btn = Іздеуді бастау
 url-classifier-search-features = Мүмкіндіктер
 url-classifier-search-listType = Тізім түрі
