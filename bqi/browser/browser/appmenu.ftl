@@ -49,6 +49,8 @@ appmenuitem-fullscreen =
 
 appmenu-remote-tabs-sign-into-sync =
     .label = و من ٱووڌن سی هوم گوم کردن…
+appmenu-remote-tabs-turn-on-sync =
+    .label = رۊشن کردن هوم گوم کردن…
 appmenu-remote-tabs-opensettings =
     .label = سامووا
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
@@ -101,6 +103,11 @@ profiler-popup-presets-graphics-label =
     .label = گرافیک
 profiler-popup-presets-media-label =
     .label = وارسگر
+profiler-popup-presets-ml-label =
+    .label = ویر گرؽڌن ماشیݩ
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = نیرۊ
 profiler-popup-presets-debug-label =
     .label = موشکل زودایی
 profiler-popup-presets-custom-label =
@@ -110,9 +117,21 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = دؽوۉداری ویرگار
+appmenu-restore-session =
+    .label = وورگندن نشست پؽشی
+appmenu-clear-history =
+    .label = روفتن ویرگار دیندایی…
+appmenu-recent-history-subheader = ویرگار دیندایی
+appmenu-recently-closed-tabs =
+    .label = بلگه یلی ک سکو بسته وابین
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = پیتینیڌن ویرگار
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } هیاری
 appmenu-about =
     .label = زبار { -brand-shorter-name }
     .accesskey = A
@@ -122,8 +141,12 @@ appmenu-get-help =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = سفارشی کردن نوار ٱوزار…
 appmenu-developer-tools-extensions =
     .label = وردنی یل سی برنومه نویسووݩ
+appmenuitem-report-broken-site =
+    .label = گوزارش خراوی وبگه
 
 ## Profiles panel
 
