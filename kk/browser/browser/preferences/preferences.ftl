@@ -172,6 +172,10 @@ preferences-manage-profiles-button =
     .label = Профильдерді басқару
 preferences-profiles-settings-button =
     .label = Баптаулар
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Бар болып тұрған профильді көшіру
+    .description = Жаңа профильге баптауларыңыз, қосымшаларыңыз, тарихыңыз бен бетбелгілер мен парольдер сияқты сақталған деректеріңіз көшіріледі — бірақ тіркелгіңіз бен синхрондау мәліметтері көшірілмейді.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -319,6 +323,11 @@ preferences-web-appearance-override-warning3 =
     .message = Сіздің контрастты басқару параметрлері веб-сайттың сыртқы көрінісін үстінен басады.
 preferences-web-appearance-link =
     .label = { -brand-short-name } темаларын Кеңейтулер және темалар ішінен басқарыңыз
+preferences-contrast-control-group =
+    .label = Веб-сайт контрасты
+    .description = Веб-сайттардың алдыңғы көрініс пен фон түстері әртүрлі болады. Тұрақты контрастты сақтау үшін барлық веб-сайттарда бірдей түстерді пайдалануыңызға болады.
+preferences-contrast-control-radio-group =
+    .label = Түстерді қайта анықтау
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Сіздің түс таңдауларыңыз веб-сайттың сыртқы көрінісін үстінен басады. <a data-l10n-name="colors-link">Түстерді басқару</a>
@@ -326,6 +335,7 @@ preferences-web-appearance-override-warning = Сіздің түс таңдаул
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } темаларын <a data-l10n-name="themes-link">Кеңейтулер және темалар</a> ішінен басқарыңыз
 preferences-contrast-control-header = Контрастты басқару
+preferences-contrast-control-description = Веб-сайттардың алдыңғы көрініс пен фон түстері әртүрлі болады. Оқылуды жақсарту үшін барлық веб-сайттарда бірдей түстерді пайдалану мақсатында { -brand-short-name } бағдарламасын баптаңыз.
 preferences-contrast-control-use-platform-settings =
     .label = Автоматты (жүйе параметрлерін пайдалану)
     .accesskey = А
@@ -461,6 +471,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Файлдар сақталатын жері туралы әрқашан сұрау
     .accesskey = ж
+download-private-browsing-delete =
+    .label = Барлық жеке терезелер жабылған кезде жеке шолу кезінде жүктелген файлдарды өшіру
+    .accesskey = ш
 applications-header = Қолданбалар
 applications-description = { -brand-short-name } сіз интернеттен жүктеп алған файлдарды немесе шолу кезінде қолданатын қолданбаларды қалай өңдейтінін таңдаңыз.
 applications-filter =
@@ -928,6 +941,9 @@ containers-remove-button =
 
 sync-group-label =
     .label = Синхрондау
+account-placeholder =
+    .label = Сіз кірген жоқсыз
+    .description = Деректеріңіздің құпиялығын, шифрленуін және құрылғылар арасында синхрондалуын қамтамасыз ету үшін жүйеге кіріңіз.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1705,6 +1721,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
+permissions-header2 =
+    .label = Рұқсаттар
+    .description = Сіз шолатын веб-сайттарға беретін рұқсаттарыңыз.
 permissions-location2 =
     .label = Орналасу
 permissions-localhost2 =
@@ -1717,6 +1736,9 @@ permissions-camera2 =
     .label = Камера
 permissions-microphone2 =
     .label = Микрофон
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Динамик
 permissions-notification2 =
     .label = Хабарламалар
 
@@ -1818,10 +1840,16 @@ space-alert-over-5gb-settings-button =
     .accesskey = Б
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } үшін бос орын аяқталуда</strong>. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. Сіз сайттардың сақталған деректерін Баптаулар > Жекелік және қауіпсіздік > Cookies файлдары және сайттар деректері ішінде өшіре аласыз.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } үшін бос орын аяқталуда</strong>. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. "Көбірек білу" сілтемесін ашып, интернетті ыңғайлы шолу үшін диск қолданылуын қалай баптау керек екенін білуіңізге болады.
+certs-description2 =
+    .label = Сертификаттар
+    .description = { -brand-short-name } аутентификация үшін пайдаланатын сертификаттарды баптаңыз.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Тек-HTTPS режимі
+httpsonly-label =
+    .aria-label = { httpsonly-header }
+    .description = Веб-сайттарға так қауіпсіз қосылуға рұқсат береді. Қауіпсіз емес қосылым орнатылмас бұрын { -brand-short-name } сізден сұрайды.
 httpsonly-learn-more2 = Тек-HTTPS режимі қалай жұмыс істейді
 httpsonly-description = HTTPS { -brand-short-name } және сіз кіретін веб-сайттар арасында қауіпсіз, шифрленген байланысты ұсынады. Веб-сайттардың көбі HTTPS қолдайды, тек-HTTPS режимі іске қосылған болса, { -brand-short-name } барлық байланыстарды HTTPS-ке дейін жаңартады.
 httpsonly-learn-more = Көбірек білу

@@ -48,3 +48,7 @@ report-broken-site-panel-report-sent-header =
 report-broken-site-panel-report-sent-text = { -brand-product-name } интернетті ашық, қолжетімді және барлығына жақсырақ етуге көмектескеніңіз үшін рахмет.
 report-broken-site-panel-invalid-url-label = Дұрыс URL енгізіңіз
 report-broken-site-panel-missing-reason-label = Себебін таңдаңыз
+report-broken-site-panel-preview-button =
+    .label = Есептемені алдын ала қарау
+report-broken-site-panel-preview-header =
+    .label = Есептемені алдын ала қарау
