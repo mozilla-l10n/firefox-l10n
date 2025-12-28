@@ -584,15 +584,22 @@ permissions-data-addon-button = Рұқсаттар мен деректер
 mlmodel-extension-label = { $extensionName } кеңейтуімен қолданылуда
 addon-permissions-data-collection-heading = Деректерді жинау
 addon-permissions-data-collection-empty = Әзірлеуші бұл кеңейту деректер жинауды қажет етпейтінін хабарлады.
+addon-data-collection-provided = Кеңейту әзірлеушісі ұсынған ақпарат
+addon-data-collection-learnmore = Деректерді жинау туралы толығырақ білу
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } бұны about:inference ішінде пайдаланады
+mlmodel-link-preview = { -brand-short-name } бұл мүмкіндікті сілтемелерді алдын ала қараған кезде негізгі тұстарды жасау үшін пайдаланады.
+mlmodel-pdfjs = { -brand-short-name } бұл мүмкіндікті сіз PDF файлдарына қосатын суреттерге балама мәтін жасау үшін пайдаланады.
 mlmodel-smart-tab-topic-engine = { -brand-short-name } мұны беттер топтары үшін атауларды ұсыну үшін пайдаланады
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } мұны беттер топтары үшін беттерді ұсыну үшін пайдаланады
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Құрылғыдағы ЖИ
 addon-category-mlmodel-title =
     .title = Құрылғыдағы ЖИ
 mlmodel-heading = Құрылғыдағы ЖИ модельдерін басқару
+mlmodel-description = { -brand-short-name } ішіндегі кейбір функциялар мен кеңейтулер құрылғыңызда жергілікті түрде жұмыс істейтін ЖИ модельдеріне негізделген. Бұл тәсіл жекелігіңізді қорғайды және көп жағдайда жұмыс жылдамдығын арттырады. <a data-l10n-name="learn-more">Толығырақ білу</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Өшіру
