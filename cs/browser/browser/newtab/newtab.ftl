@@ -144,7 +144,7 @@ newtab-menu-section-unfollow = Přestat sledovat téma
 
 newtab-menu-manage-sponsored-content = Správa sponzorovaného obsahu
 newtab-menu-our-sponsors-and-your-privacy = Naši sponzoři a vaše soukromí
-newtab-menu-report-this-ad = Nahlásit tento inzerát
+newtab-menu-report-this-ad = Nahlásit tuto reklamu
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
