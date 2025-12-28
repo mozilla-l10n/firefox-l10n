@@ -34,6 +34,13 @@ webext-perms-description-trialML = Құрылғыңызға ЖИ модельд�
 webext-perms-description-userScripts = Тексерілмеген үшінші тарап скрипттеріне деректеріңізге қол жеткізуге рұқсат беру
 webext-perms-description-webNavigation = Навигация кезіндегі браузер белсенділігіне қатынау
 
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = Тексерілмеген скрипттер қауіпті кодты іске қосу немесе веб-сайттағы әрекеттерді бақылау сияқты қауіпсіздік пен жекелікке қатер төндіруі мүмкін. Тек өзіңіз сенетін кеңейтулерден немесе дереккөздерден алынған скрипттерді ғана іске қосыңыз.
+# A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
+webext-perms-extra-warning-userScripts-short = Тексерілмеген скрипттер қауіпсіздік пен жекелікке қауіп төндіруі мүмкін. Тек сенетін кеңейтулерден немесе көздерден скрипттерді іске қосыңыз.
+
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.
 ##

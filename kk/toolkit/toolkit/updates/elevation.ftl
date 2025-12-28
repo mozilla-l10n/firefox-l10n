@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Келесіде көрсетпеу
     .accesskey = д
 sandbox-unprivileged-namespaces-howtofix = Бұл мәселені қалай шешуге болады
+sandbox-content-disabled-warning = Қауіпсіздік құмсалғышы сөндірілген. Конфигурацияңызға қолдау көрсетілмейді және ол қауіпсіз емес.

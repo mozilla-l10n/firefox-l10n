@@ -9,6 +9,10 @@ customkeys-reset = Тастау
 customkeys-clear = Тазарту
 customkeys-new-key = Жаңа пернені басыңыз:
 customkeys-reset-all = Барлық жарлықтарды бастапқы мәнге тастау
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Бұл кілт { $conflict } үшін тағайындалған болып тұр. Оны алмастырғыңыз келе ме?
+customkeys-reset-all-confirm = Барлық пернетақта жарлықтарын әдепкі мәндеріне қайтаруға сенімдісіз бе?
 customkeys-history-reopen-tab = Соңғы жабылған бетті қайта ашу
 customkeys-history-reopen-window = Соңғы жабылған терезені қайта ашу
 customkeys-dev-tools = Веб-әзірлеуші құралдары
@@ -30,5 +34,6 @@ customkeys-nav-home = Үйге
 customkeys-nav-reload = Қайта жүктеу
 customkeys-nav-reload-skip-cache = Қайта жүктеу (кэшті қайта анықтау)
 customkeys-nav-stop = Тоқтату
+customkeys-caution-message = Бұл функция эксперименталды болып табылады және күткендегідей жұмыс істемеуі мүмкін.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Жарамсыз

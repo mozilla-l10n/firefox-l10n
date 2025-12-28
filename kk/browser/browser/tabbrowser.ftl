@@ -367,6 +367,19 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Түсіндірмені қосу
     .accesskey = о
+tab-context-update-note =
+    .label = Түсіндірмені жаңарту
+    .accesskey = р
+tab-context-edit-note =
+    .label = Түсіндірмені түзету
+    .accesskey = е
+tab-context-delete-note =
+    .label = Түсіндірмені өшіру
+    .accesskey = ш
+tab-note-editor-title-create = Түсіндірмені қосу
+tab-note-editor-title-edit = Түсіндірмені түзету
+tab-note-editor-text-field =
+    .placeholder = Бұл бет туралы нені есте сақтағыңыз келеді?
 tab-note-editor-button-cancel =
     .label = Бас тарту
     .accesskey = с
@@ -391,8 +404,15 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Бөлінген көріністі ажырату
     .accesskey = т
+tab-context-badge-new = Жаңа
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Беттерді ажырату
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Беттерді кері ретпен орналастыру
 split-view-menuitem-close-both-tabs =
     .label = Екі бетті да жабу

@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = Тиімділік (%)
 place-database-stats-sequentiality-perc = Кезектілік (%)
 place-database-integrity = Бүтіндігі
 place-database-verify-integrity = Бүтіндігін тексеру
+place-database-last-idle-maintenance-data = Соңғы бос тұру кезіндегі қызмет көрсету күні
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Соңғы вакуумдау күні
+place-database-last-integrity-corruption-date = Соңғы тұтастықтың бұзылу күні
 a11y-title = Қолжетерлілік
 a11y-activated = Белсендірілген
 a11y-force-disabled = Кеңейтілген мүмкіндіктерге  тыйым салу

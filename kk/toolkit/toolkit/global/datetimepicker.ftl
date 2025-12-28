@@ -88,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Алдыңғы минут
 time-spinner-minute-next =
     .aria-label = Келесі минут
+time-spinner-day-period-previous =
+    .aria-label = Күннің алдыңғы кезеңі
+time-spinner-day-period-next =
+    .aria-label = Күннің келесі кезеңі
