@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Markahi laman ini ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Tampilan belah
+    .aria-label = Tampilan belah
 
 ## Page Action Context Menu
 
@@ -913,6 +916,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Tidak ada pintasan yang dipilih, pilih pintasan
     .tooltiptext = Tidak ada pintasan yang dipilih, pilih pintasan
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Pencarian kata kunci dinonaktifkan
+    .tooltiptext = Pencarian kata kunci dinonaktifkan
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1496,3 +1503,4 @@ trustpanel-fingerprinter-list-header = Situs-situs berikut mencoba menyidik jari
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } memblokir { $count } penambang mata uang kripto
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penambang mata uang kripto
 trustpanel-cryptominer-tab-list-header = Situs-situs berikut mencoba untuk melakukan penambangan kripto:
+trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> Pelacak diblokir di situs ini
