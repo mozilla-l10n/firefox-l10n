@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = 번역
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = 복사
+    .title = 번역 복사
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = 복사됨
+    .title = 번역 복사
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = 언어 선택

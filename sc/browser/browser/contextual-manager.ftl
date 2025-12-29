@@ -227,6 +227,7 @@ contextual-manager-passwords-edit-label =
     .label = Modìfica sa crae
 contextual-manager-passwords-remove-label =
     .title = Canzella sa crae
+contextual-manager-passwords-origin-tooltip = Iscrie s’indiritzu giustu dae in ue t’as a identificare in custu situ.
 contextual-manager-passwords-username-tooltip = Inserta·nche su nòmine, s’indiritzu eletrònicu o su nùmeru de contu chi impreas pro ti identificare.
 contextual-manager-passwords-password-tooltip-2 = Inserta·nche sa crae pro ti identificare in custu contu.
 contextual-manager-passwords-password-tooltip = Inserta·nche sa crae impreada pro ti identificare in custu contu.
@@ -315,6 +316,9 @@ contextual-manager-passwords-no-passwords-found-message = Nissuna crae agatada. 
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Sarva is craes tuas in logu seguru.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Totu is craes sunt tzifradas, amus a averiguare si ddoe sunt violatziones e avisos chi ti pertocant.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = Agiunghe·ddas inoghe pro cumintzare.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

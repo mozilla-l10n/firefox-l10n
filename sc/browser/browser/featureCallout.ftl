@@ -81,6 +81,7 @@ bookmarks-toolbar-callout-1-primary-button-label = Agiunghe sinnalibru
 bookmarks-toolbar-callout-1-secondary-button-label = No, gràtzias
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Agiunghe àteros sinnalibros in manera fàtzile
+bookmarks-toolbar-callout-2a-subtitle = Podes tragare ischedas inoghe pro tènnere prus sitos preferidos a portada.
 bookmarks-toolbar-callout-2a-primary-button-label = Apo cumprèndidu
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Cua sa barra de ainas

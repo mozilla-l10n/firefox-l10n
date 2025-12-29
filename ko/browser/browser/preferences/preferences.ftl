@@ -1001,6 +1001,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label =
+    .label = { -vendor-short-name } 계정
 account-placeholder =
     .label = 로그인되어 있지 않음
     .description = 데이터를 비공개로 유지하고, 암호화하고, 여러 기기에서 동기화하려면 로그인하세요.
@@ -1407,6 +1409,9 @@ payments-list-item-label = <strong>결제 수단</strong>
 payments-delete-payment-prompt-title = 이 결제 수단을 삭제하시겠습니까?
 payments-delete-payment-prompt-confirm-button = 삭제
 payments-delete-payment-prompt-cancel-button = 취소
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = 추가된 결제 수단 없음
 payments-remove-payment-prompt-title = 이 결제 수단을 제거하시겠습니까?
 payments-remove-payment-prompt-confirm-button = 제거
 payments-remove-payment-prompt-cancel-button = 취소
@@ -1431,6 +1436,9 @@ addresses-delete-address-prompt-cancel-button = 취소
 autofill-addresses-add-button = 새 주소 추가
 autofill-addresses-manage-addresses-title =
     .heading = 주소 및 기타 관리
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = 추가된 주소 없음
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1674,6 +1682,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = 닫은 제안
     .description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = 제안 복원
 addressbar-quickactions-learn-more = 더 알아보기
 addressbar-dismissed-suggestions-label = 닫은 제안
 addressbar-restore-dismissed-suggestions-description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.

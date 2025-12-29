@@ -21,4 +21,4 @@ config-pref-reset-button = Azera
 config-context-menu-copy-pref-name =
     .label = Còpia su nòmine
 config-context-menu-copy-pref-value =
-    .label = Còpia su balore
+    .label = Còpia su valore

@@ -67,7 +67,7 @@ about-private-browsing-pin-promo-title = Nissunu testimòngiu nen cronologia, de
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Mai prus avisos de testimòngios!
 about-private-browsing-cookie-banners-promo-button = Ammustra prus pagu avisos de testimòngios
-about-private-browsing-cookie-banners-promo-message = Permite a { -brand-short-name } de rispòndere in automàticu a is ventanas emergentes de testimòngios, pro chi potzas navigare chene istorbu. { -brand-short-name } at a refudare totu is rechestas cando possìbile.
+about-private-browsing-cookie-banners-promo-message = Permite a { -brand-short-name } de rispòndere in automàticu a is ventanas a cumparsa de testimòngios, pro chi potzas navigare chene istorbu. { -brand-short-name } at a refudare totu is rechestas cando possìbile.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’incurat de is avisos de testimòngios pro tue

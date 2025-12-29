@@ -1518,14 +1518,14 @@ permissions-autoplay-settings =
     .label = Cunfiguratzione…
     .accesskey = t
 permissions-block-popups =
-    .label = Bloca is ventanas emergentes
+    .label = Bloca is ventanas a cumparsa
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Etzetziones…
     .accesskey = E
-    .searchkeywords = ventanas emergentes
+    .searchkeywords = ventanas a cumparsa
 permissions-addon-install-warning =
     .label = Avisa si unu situ proat a installare cumplementos
     .accesskey = A

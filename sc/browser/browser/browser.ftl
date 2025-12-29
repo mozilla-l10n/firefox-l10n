@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navigatzione privada
+popups-infobar-dont-show-message2 =
+    .label = No ammustres custu messàgiu cando si blocant ventanas emergentes o rediretziones de àteras partes.
+    .accesskey = N
+edit-popup-settings2 =
+    .label = Gesti is cunfiguratziones de ventanas emergentes e rediretziones de àteras partes…
+    .accesskey = G
 
 ##
 
@@ -266,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = As blocadu sa cumpartzidura de s'ischermu pro custu situ.
 urlbar-persistent-storage-blocked =
     .tooltiptext = As blocadu s'archiviatzione permanente pro custu situ.
+urlbar-popup-blocked2 =
+    .tooltiptext = As blocadu ventanas emergentes e rediretziones de àteras partes pro custu situ.
 urlbar-popup-blocked =
     .tooltiptext = As blocadu is ventanas a cumparsa pro custu situ.
 urlbar-autoplay-media-blocked =
@@ -284,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Pone custa pàgina in sinnalibros ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Visualizatzione partzida
+    .aria-label = Visualizatzione partzida
 
 ## Page Action Context Menu
 
@@ -418,6 +429,9 @@ quickactions-cmd-restart = torra a aviare
 # Opens the screenshot tool
 quickactions-screenshot3 = Faghe una catura de s'ischermu
 quickactions-cmd-screenshot2 = catura, faghe una catura, screenshot
+# Opens about:translations
+quickactions-translate = Tradue
+quickactions-cmd-translate = tradue
 quickactions-cmd-screenshot = Catura de s'ischermu
 # Opens about:preferences
 quickactions-settings2 = Gesti sa cunfiguratzione
@@ -915,6 +929,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nissunu curtzadòrgiu seletzionadu, sèbera·nde unu
     .tooltiptext = Nissunu curtzadòrgiu seletzionadu, sèbera·nde unu
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Sa chirca pro faeddu-crae est istudada
+    .tooltiptext = Sa chirca pro faeddu-crae est istudada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1170,6 +1188,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Bloca ventanas a cumparsa pro { $uriHost }
     .accesskey = B
+popups-infobar-allow2 =
+    .label = Permite ventanas a cumparsa e rediretziones de àteras partes pro { $uriHost }
+    .accesskey = P
 
 ##
 
@@ -1358,13 +1379,29 @@ popup-notification-addon-technical-and-interaction-checkbox =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name } at impedidu a custu situ de abèrrere una ventana emergente.
-       *[other] { -brand-short-name } at impedidu a custu situ de abèrrere { $popupCount } ventanas emergentes.
+        [one] { -brand-short-name } at impedidu a custu situ de abèrrere una ventana a cumparsa.
+       *[other] { -brand-short-name } at impedidu a custu situ de abèrrere { $popupCount } ventanas a cumparsa.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } at impedidu rediretziones a custu situ
+        [1] { -brand-short-name } at impedidu a custu situ de abèrrere una ventana a cumparsa e de cambiare indiritzu.
+        [one] { -brand-short-name } at impedidu a custu situ de abèrrere una ventana a cumparsa e de cambiare indiritzu.
+       *[other] { -brand-short-name } at impedidu a custu situ de abèrrere { $popupCount } ventanas a cumparsa e de cambiare indiritzu.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = { -brand-short-name } at impedidu a custu situ de abèrrere prus de { $popupCount } ventanas emergentes.
+popup-warning-exceeded-message = { -brand-short-name } at impedidu a custu situ de abèrrere prus de { $popupCount } ventanas a cumparsa.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } at impedidu a custu situ de abèrrere prus de una ventana a cumparsa e de cambiare indiritzu.
+       *[other] { -brand-short-name } at impedidu a custu situ de abèrrere prus de { $popupCount } ventanas a cumparsa e de cambiare indiritzu.
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -1550,3 +1587,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } at permìtidu { $count } cripto-minadores
     }
 trustpanel-cryptominer-tab-list-header = Custos sitos sunt chirchende de minare cripto-monedas:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> sighidore blocadu in custu situ
+       *[other] <span data-l10n-name="count">{ $count }</span> sighidores blocados in custu situ
+    }
