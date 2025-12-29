@@ -1738,7 +1738,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automaticky odmítnout lišty cookie
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresní řádek
 addressbar-suggest-1 = Zvolte, které návrhy se zobrazí v adresním řádku
@@ -1792,6 +1792,14 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Návrhy populárních vyhledávání
     .accesskey = N
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label =
+        { -brand-full-name.case-status ->
+            [with-cases] Návrhy od { -brand-short-name(case: "gen") }
+           *[no-cases] Návrhy od aplikace { -brand-short-name }
+        }
+    .description = Získat návrhy z webu související s vaším vyhledáváním.
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazit nedávná vyhledávání
