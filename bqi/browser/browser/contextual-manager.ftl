@@ -38,6 +38,9 @@ contextual-manager-passwords-import-error-button-cancel = لقو
 contextual-manager-passwords-export-success-heading =
     .heading = رزما و در کشیڌه وابین
 contextual-manager-passwords-export-success-button = ٱنجوم وابی
+contextual-manager-export-passwords-dialog-confirm-button = رئڌن وا پؽش سی و در کشیڌن
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = و در کشیڌن رزما ز { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = رزما
@@ -51,6 +54,10 @@ contextual-manager-passwords-update-password-success-heading =
     .heading = رزم زفت وابیڌ
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = پوی ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = رزم پاک بۊ؟
 # This message gives the user an option to go back to the edit login form.

@@ -5,6 +5,8 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = تکمیل وورکل کردن هساو
+# Menu item that sends a tab to all synced devices.
+account-send-to-all-devices = فشناڌن و پوی دسگا یل
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
