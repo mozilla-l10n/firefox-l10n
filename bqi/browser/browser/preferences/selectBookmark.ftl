@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-home = هووه
-new-tab = بلگه نۊ
-add-bookmark = ٱووردن نشووک
-share = یک رسۊوی
-
-## Various categories of shortcuts for search.
-
-search-bookmarks = نشووکا
+select-bookmark-window2 =
+    .title = سامووݩ بلگه هووه ای
+    .style = min-width: 32em;

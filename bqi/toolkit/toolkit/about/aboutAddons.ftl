@@ -7,6 +7,10 @@ sidebar-settings-button-title =
     .title = { -brand-short-name } سامووا
 show-all-extensions-button =
     .label = نشووݩ داڌن پوی وردنی یل
+detail-home =
+    .label = بلگه هووه ای
+detail-home-value =
+    .value = { detail-home.label }
 addon-category-extension = وردنی یل
 addon-category-extension-title =
     .title = وردنی یل
@@ -28,6 +32,10 @@ addon-manage-extensions-shortcuts = دؽوۉداری ر نهنگا وردنی
 
 discopane-notice-learn-more = قلوه دووسته بۊین
 colorway-removal-notice-learn-more = قلوه دووسته بۊین
+
+## Add-on actions
+
+addon-detail-homepage-label = بلگه هووه ای
 
 ##
 

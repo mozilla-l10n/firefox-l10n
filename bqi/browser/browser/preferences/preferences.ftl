@@ -15,6 +15,9 @@ settings-page-title = سامووا
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = جوستن من سامووا
+pane-home-title = هووه
+category-home =
+    .tooltiptext = { pane-home-title }
 addons-button-label = وردنی یل وو تما
 
 ## Browser Restart Dialog
@@ -56,12 +59,32 @@ home-new-windows-tabs-header = نیمدری یل وو بلگه یل نۊ
 
 ## Custom Homepage subpage
 
+home-homepage-mode-label = بلگه هووه ای وو نیمدری یل نۊ
 home-homepage-new-windows =
     .label = نیمدری یل نۊ
 home-homepage-mode-label2 = نیمدری یل نۊ
 home-newtabs-mode-label = بلگه یل نۊ
 home-homepage-new-tabs =
     .label = بلگه یل نۊ
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (پؽش فرز)
+home-homepage-header = بلگه هووه ای
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = بلگه هووه ای
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = سفارشی کردن بلگه هووه
+
+## Home Section - Firefox Home Content Customization
+
+home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
+home-prefs-content-header3 = { -firefox-home-brand-name }
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Search Section
 
