@@ -27,6 +27,10 @@ about-debugging-runtime-temporary-extensions =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
     .name = وردنی یل
+# Title of the shared workers category.
+# .name is processed by fluent-react / DebugTargetPane
+about-debugging-runtime-shared-workers =
+    .name = کارگرا هوم بئر
 
 # Debug Targets strings
 

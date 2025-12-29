@@ -69,6 +69,8 @@ whatsnew-panel-header = چ چیه نۊ هڌ
 ## "Enable Profiler Menu Button".
 
 profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-description-title =
+    .value = زفت، تجزیه وو تئلیل، یک رسۊوی
 profiler-popup-learn-more-button =
     .label = قلوه دووسته بۊین
 profiler-popup-settings =

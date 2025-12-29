@@ -4,6 +4,7 @@
 
 new-tab = بلگه نۊ
 add-bookmark = ٱووردن نشووک
+share = یک رسۊوی
 
 ## Various categories of shortcuts for search.
 
