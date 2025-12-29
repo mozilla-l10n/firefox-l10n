@@ -39,7 +39,7 @@ about-telemetry-raw-payload-section = Gropne wužywańske daty
 about-telemetry-raw = Gropny JSON
 about-telemetry-full-sql-warning = GLĚDAJŚO: Pytanje za zmólkami za pómałe SQL-pśikaze jo zmóžnjone. Dopołne znamuškowe rjeśazki SQL daju se dołojce zwobrazniś, ale njebudu se do telemetrije pśenosowaś.
 about-telemetry-fetch-stack-symbols = Funkciske mjenja za štapjele wótwołaś
-about-telemetry-hide-stack-symbols = Gropne štapjelowe daty pokazaś
+about-telemetry-hide-stack-symbols = Gropne štaplowe daty pokazaś
 # Selects the correct release version
 # Variables:
 #   $channel (string) - Represents the corresponding release data string

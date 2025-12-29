@@ -1021,6 +1021,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Синхронизация
+account-group-label =
+    .label = Аккаунт { -vendor-short-name }
 account-placeholder =
     .label = Вы не вошли
     .description = Войдите, чтобы сохранить конфиденциальность ваших данных, зашифровать их и синхронизировать между устройствами.
@@ -1427,6 +1429,9 @@ payments-list-item-label = <strong>Способы оплаты</strong>
 payments-delete-payment-prompt-title = Удалить этот способ оплаты?
 payments-delete-payment-prompt-confirm-button = Удалить
 payments-delete-payment-prompt-cancel-button = Отмена
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Способы оплаты не добавлены
 payments-remove-payment-prompt-title = Удалить этот способ оплаты?
 payments-remove-payment-prompt-confirm-button = Удалить
 payments-remove-payment-prompt-cancel-button = Отмена
@@ -1451,6 +1456,9 @@ addresses-delete-address-prompt-cancel-button = Отмена
 autofill-addresses-add-button = Добавить новый адрес
 autofill-addresses-manage-addresses-title =
     .heading = Управление адресами и пр.
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Адреса не добавлены
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1694,6 +1702,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Скрытые предложения
     .description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Восстановить предложения
 addressbar-quickactions-learn-more = Подробнее
 addressbar-dismissed-suggestions-label = Скрытые предложения
 addressbar-restore-dismissed-suggestions-description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.

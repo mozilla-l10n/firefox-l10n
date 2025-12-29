@@ -533,6 +533,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Вы подключились к этому сайту по незащищённому соединению.
 identity-connection-verified = Вы подключились к этому сайту по защищённому соединению.
 identity-ev-owner-label = Сертификат выдан:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Квалифицировано, как указано в Регламенте (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla не может распознать этого издателя сертификатов. Возможно, он был добавлен из вашей операционной системы или администратором.
 identity-remove-cert-exception =
     .label = Удалить исключение
