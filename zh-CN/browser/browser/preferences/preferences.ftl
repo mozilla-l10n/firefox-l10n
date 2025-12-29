@@ -418,6 +418,24 @@ settings-translations-subpage-never-translate-sites-header =
     .label = 永不翻译下列网站
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
 settings-translations-subpage-never-translate-sites-description = 若要添加新网站，请打开 <img data-l10n-name="translations-icon"/> 翻译面板，选择 <img data-l10n-name="settings-icon"/> 翻译设置，然后选择“永不翻译此网站”
+settings-translations-subpage-language-select-option =
+    .label = 添加语言
+settings-translations-subpage-language-add-button =
+    .aria-label = 添加语言
+    .title = 添加语言
+settings-translations-subpage-download-languages-header =
+    .label = 下载语言包
+settings-translations-subpage-download-languages-select-option =
+    .label = 选择语言
+settings-translations-subpage-download-languages-button =
+    .aria-label = 下载语言包
+    .title = 下载语言包
+settings-translations-subpage-no-languages-downloaded =
+    .label = 尚未下载语言
+settings-translations-subpage-no-languages-added =
+    .label = 尚未添加语言
+settings-translations-subpage-download-retry-button =
+    .label = 重试
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
