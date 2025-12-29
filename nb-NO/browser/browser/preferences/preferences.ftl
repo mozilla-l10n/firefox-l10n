@@ -1597,7 +1597,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Avslå automatisk infokapselbannere
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresselinje
 addressbar-suggest-1 = Velg hvilke forslag som skal vises i adresselinjen
@@ -1647,6 +1647,10 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Populære søkeforslag
     .accesskey = o
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Forslag fra { -brand-short-name }
+    .description = Få forslag fra nettet relatert til søket ditt
 addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylige søk
