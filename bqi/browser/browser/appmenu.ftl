@@ -7,10 +7,20 @@
 
 appmenuitem-banner-update-downloading =
     .label = دانلود ورۊ رسۊوی { -brand-shorter-name }
+appmenuitem-banner-update-available =
+    .label = ورۊ رسۊوی داری — سکو دانلود بۊ
+appmenuitem-banner-update-manual =
+    .label = ورۊ رسۊوی داری — سکو دانلود بۊ
+appmenuitem-banner-update-unsupported =
+    .label = نتره ورۊ رسۊوی کونه — سیستوم سازگار نؽ
+appmenuitem-banner-update-restart =
+    .label = ورۊ رسۊوی داری — ر وندن دووارته
 appmenuitem-new-tab =
     .label = بلگه نۊ
 appmenuitem-new-window =
     .label = نیمدری نۊ
+appmenuitem-new-private-window =
+    .label = نیمدری سیخومی نۊ
 appmenuitem-history =
     .label = ویرگار
 appmenuitem-downloads =
@@ -21,6 +31,8 @@ appmenuitem-extensions-and-themes =
     .label = وردنی یل وو تما
 appmenuitem-extensions =
     .label = وردنی یل
+appmenuitem-addons-and-themes =
+    .label = وردنی یل وو زمینه یل
 appmenuitem-print =
     .label = چاپ…
 appmenuitem-find-in-page =
@@ -53,14 +65,32 @@ appmenu-remote-tabs-sign-into-sync =
     .label = و من ٱووڌن سی هوم گوم کردن…
 appmenu-remote-tabs-turn-on-sync =
     .label = رۊشن کردن هوم گوم کردن…
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = بؽ بلگه واز
 appmenu-remote-tabs-opensettings =
     .label = سامووا
+appmenu-remote-tabs-connectdevice =
+    .label = منپیز و دسگا دیر
+appmenu-remote-tabs-welcome = نشووݩ داڌن نومگهی ز بلگه یل ز دسگایل دیر ایسا.
+appmenu-remote-tabs-unverified = هساوتووݩ وا تائیڌ بۊ.
+appmenuitem-fxa-toolbar-sync-now2 = سکو هوم گوم کوݩ
+appmenuitem-fxa-sign-in = و من ٱووڌن و { -brand-product-name }
+appmenuitem-fxa-manage-account = دؽوۉداری هساو
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = هوم گوم کردن دیندایی { $time }
+    .label = هوم گوم کردن دیندایی { $time }
+appmenu-fxa-sync-and-save-data2 = هوم گوم کردن وو زفت کردن داده یل
 appmenu-fxa-signed-in-label = و من ٱووڌن
+appmenu-fxa-setup-sync =
+    .label = رۊشن کردن هوم گوم کردن…
 appmenu-fxa-setup-sync-new = رۊشن کردن
 appmenuitem-save-page =
     .label = زفت کردن بلگه و عونوان…
+appmenuitem-fxa-sync-off-title = هوم گوم کردن کۊر هڌ
 
 ## What's New panel in App menu.
 
