@@ -534,6 +534,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Njejsćo wěsće zwězany z toś tym sedłom.
 identity-connection-verified = Sćo wěsće zwězany z toś tym sedłom.
 identity-ev-owner-label = Certifikat wudany na:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kwalificěrowany kaž w póstajenju (EU) 2024/1183 pódany.
 identity-description-custom-root2 = Mozilla toś togo certifikatowego wudawarja njepśipóznawa. Jo se snaź pśidał pśez waš źěłowy system abo wót administratora.
 identity-remove-cert-exception =
     .label = Wuwześe wótpóraś

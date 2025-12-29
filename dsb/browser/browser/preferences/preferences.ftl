@@ -1025,6 +1025,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizěrowaś
+account-group-label =
+    .label = Konto { -vendor-short-name }
 account-placeholder =
     .label = Njejsćo pśizjawjony.
     .description = Pśizjawśo, aby  na wšych rědach swóje daty priwatne, skoděrowane a synchronizěrowane źaržał.
@@ -1431,6 +1433,9 @@ payments-list-item-label = <strong>Płaśeńske metody</strong>
 payments-delete-payment-prompt-title = Toś tu płaśeńsku metodu lašowaś?
 payments-delete-payment-prompt-confirm-button = Lašowaś
 payments-delete-payment-prompt-cancel-button = Pśetergnuś
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Žedne płaśeńske metody pśidane
 payments-remove-payment-prompt-title = Toś tu płaśeńsku metodu wótwónoźeś?
 payments-remove-payment-prompt-confirm-button = Wótwónoźeś
 payments-remove-payment-prompt-cancel-button = Pśetergnuś
@@ -1455,6 +1460,9 @@ addresses-delete-address-prompt-cancel-button = Pśetergnuś
 autofill-addresses-add-button = Nowu adresu pśidaś
 autofill-addresses-manage-addresses-title =
     .heading = Adrese a wěcej zastojaś
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Žedne adrese pśidane
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1698,6 +1706,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Zachyśone naraźenja
     .description = Zachyśone naraźenja wót sponsorow a { -brand-short-name } wótnowiś.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Naraźenja wótnowiś
 addressbar-quickactions-learn-more = Dalšne informacije
 addressbar-dismissed-suggestions-label = Zachyśone naraźenja
 addressbar-restore-dismissed-suggestions-description = Zachyśone naraźenja wót sponsorow a { -brand-short-name } wótnowiś.
