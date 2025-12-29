@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = סנכרון
+account-group-label =
+    .label = חשבון { -vendor-short-name }
 account-placeholder =
     .label = לא נכנסת לחשבון
     .description = יש להיכנס כדי לשמור על הנתונים שלך פרטיים, מוצפנים ומסונכרנים בין מכשירים.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>אמצעי תשלום</strong>
 payments-delete-payment-prompt-title = למחוק את אמצעי התשלום הזה?
 payments-delete-payment-prompt-confirm-button = מחיקה
 payments-delete-payment-prompt-cancel-button = ביטול
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = לא נוספו אמצעי תשלום
 payments-remove-payment-prompt-title = להסיר את אמצעי התשלום הזה?
 payments-remove-payment-prompt-confirm-button = הסרה
 payments-remove-payment-prompt-cancel-button = ביטול

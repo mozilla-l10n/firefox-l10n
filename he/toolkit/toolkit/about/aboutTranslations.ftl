@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = תרגום
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = העתקה
+    .title = העתקת התרגום
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = הועתק
+    .title = העתקת התרגום
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = בחירת שפה
@@ -42,3 +50,6 @@ about-translations-translating-message = בתהליך תרגום…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = החלפת שפות
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = ניקוי טקסט המקור

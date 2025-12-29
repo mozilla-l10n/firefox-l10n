@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = החיבור שלך לאתר זה אינו מאובטח.
 identity-connection-verified = החיבור שלך לאתר זה מאובטח.
 identity-ev-owner-label = האישור הונפק עבור:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = מוסמך כפי שצוין בתקנה (EU) 2024/1183.
 identity-description-custom-root2 = ‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת.
 identity-remove-cert-exception =
     .label = הסרת חריגה
