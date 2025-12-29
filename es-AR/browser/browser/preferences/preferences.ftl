@@ -1645,6 +1645,13 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Búsquedas recientes
     .accesskey = r
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugerencias de { -brand-short-name }
+    .description = Obtener sugerencias de la web relacionadas con su búsqueda.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugerencias de patrocinadores
+    .description = Apoyar a { -brand-short-name } con sugerencias patrocinadas ocasionales.
 addressbar-suggestions-settings = Cambiar preferencias para sugerencias de buscadores
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
@@ -1671,6 +1678,9 @@ addressbar-locbar-suggest-sponsored-desc = Apoyar a { -brand-short-name } con su
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Mostrar sugerencias de Mozilla mientras se escribe
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sugerencias descartadas
+    .description = Restaurar sugerencias descartadas de patrocinadores y { -brand-short-name }.
 addressbar-quickactions-learn-more = Conocer más
 addressbar-dismissed-suggestions-label = Sugerencias descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugerencias descartadas de patrocinadores y { -brand-short-name }.
