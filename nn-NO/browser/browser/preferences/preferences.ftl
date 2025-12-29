@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Søkjeforslag i private vindauge
 search-suggestions-cant-show-2 =
     .message = Søkjeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
+addressbar-header-1 =
+    .label = Adresselinje
+    .description = Vel kva forslag som skal visast i adresselinja
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Forslag frå { -brand-short-name } og partnarane våre i adresselinja di.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Avslå automatisk infokapselbanner
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresselinje
 addressbar-suggest-1 = Vel kva forslag som skal visast i adresselinja
