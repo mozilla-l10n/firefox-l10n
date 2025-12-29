@@ -208,12 +208,16 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = و من هساو منتوری خوتووݩ بیاین
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenu-services-header = خدمات مو
+appmenu-other-protection-header = پوی ٱوزارا زفت وابیڌنی ز { -vendor-short-name } ن امتهووݩ کۊنین:
 
 ## Profiles panel
 
 appmenu-other-profiles = پوروفایلا دیری
 appmenu-manage-profiles =
     .label = دؽوۉداری پوروفایلا
+appmenu-copy-profile =
+    .label = لف گیری ای پوروفایل
 appmenu-create-profile =
     .label = پوروفایل نۊ
 appmenu-edit-profile =
