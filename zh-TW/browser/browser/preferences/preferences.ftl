@@ -911,6 +911,13 @@ search-show-suggestions-private-windows-2 =
     .label = 隱私瀏覽視窗中的搜尋建議
 search-suggestions-cant-show-2 =
     .message = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
+addressbar-header-1 =
+    .label = 網址列
+    .description = 選擇要在網址列顯示哪些建議
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = 將在網址列顯示來自 { -brand-short-name } 與我們的夥伴所提供的建議。
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1585,7 +1592,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = 自動拒絕 Cookie 橫幅
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = 網址列
 addressbar-suggest-1 = 選擇要在網址列顯示哪些建議
@@ -1635,6 +1642,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = 熱門搜尋建議
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = 來自 { -brand-short-name } 的建議
+    .description = 取得您搜尋內容的相關建議。
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = 來自贊助商的建議
+    .description = 讓贊助商偶爾顯示廣告，支持 { -brand-short-name } 的發展。
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-locbar-showrecentsearches-option =
     .label = 顯示近期搜尋項目
@@ -1661,6 +1675,9 @@ addressbar-locbar-suggest-sponsored-desc = 讓贊助商偶爾顯示廣告，支�
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = 一邊打字，一邊從 Mozilla 取得建議
+addressbar-dismissed-suggestions-label-2 =
+    .label = 忽略的建議
+    .description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
 addressbar-quickactions-learn-more = 了解更多
 addressbar-dismissed-suggestions-label = 忽略的建議
 addressbar-restore-dismissed-suggestions-description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
