@@ -131,6 +131,9 @@ profiler-popup-capture-button =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-label =
+    .label = برنومه نویس وب
+profiler-popup-presets-firefox-description = سامووا پؽشنهاڌی سی وورکل پوروفایل { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
 profiler-popup-presets-graphics-label =
@@ -139,11 +142,15 @@ profiler-popup-presets-media-label =
     .label = وارسگر
 profiler-popup-presets-ml-label =
     .label = ویر گرؽڌن ماشیݩ
+profiler-popup-presets-networking-label =
+    .label = شبکه
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = نیرۊ
 profiler-popup-presets-debug-label =
     .label = موشکل زودایی
+profiler-popup-presets-web-compat-label =
+    .label = سازگاری وب
 profiler-popup-presets-custom-label =
     .label = سفارشی
 
@@ -158,6 +165,8 @@ appmenu-clear-history =
 appmenu-recent-history-subheader = ویرگار دیندایی
 appmenu-recently-closed-tabs =
     .label = بلگه یلی ک سکو بسته وابین
+appmenu-recently-closed-windows =
+    .label = نیمدری یلی ک سکو بسته وابین
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = پیتینیڌن ویرگار

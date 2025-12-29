@@ -39,17 +39,27 @@ settings-data-backup-last-backup-location-edit = آلشت…
 settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
 settings-data-backup-restore-header = داده یل خوتووݩ ن وورگنین
 
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-choose = پسند فایل لادرار…
+
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-choose = وورگندن…
+settings-data-toggle-encryption-label = ز داده یل هساس خوتووݩ لادراری بگیرین
 settings-data-toggle-encryption-support-link = قلوه دووسته بۊین
 settings-data-change-password = آلشت رزم…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = رۊشن کردن لادراری گرؽڌن
+turn-on-scheduled-backups-support-link = ز چ چیایی لادراری گرؽڌه ابۊ؟
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = جاگه
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (پؽشنهاڌی)
 turn-on-scheduled-backups-encryption-create-password-label = رزم
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = تکرار رزم
@@ -73,12 +83,18 @@ restore-from-backup-restoring-button = هونی اوورگنه…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = ز داده یل هساس خوتووݩ لادراری بگیرین
 enable-backup-encryption-support-link = قلوه دووسته بۊین
 enable-backup-encryption-create-password-label = رزم
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = تکرار رزم
 enable-backup-encryption-cancel-button = لقو
 enable-backup-encryption-confirm-button = زفت
+change-backup-encryption-header = آلشت رزم لادرار
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = الزامات رزم
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
