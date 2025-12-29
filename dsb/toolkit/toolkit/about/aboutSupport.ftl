@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informacije za rozwězowanje problemow
-page-subtitle = Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja qó { -brand-short-name }, woglědajśo k našomu <a data-l10n-name="support-link">pódpěrańskemu websydłoju</a>.
+page-subtitle = Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja wó { -brand-short-name }, woglědajśo se k našomu <a data-l10n-name="support-link">websedłoju pódpěry</a>.
 crashes-title = Rozpšawy wowalenjow
 crashes-id = ID rozpšawy
 crashes-send-date = Wótpósłany
