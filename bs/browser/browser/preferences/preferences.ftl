@@ -530,6 +530,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -640,6 +643,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -863,6 +872,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1258,7 +1272,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automatski odbijte kolačiće natpisa
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresna traka
 addressbar-suggest = Kada koristim adresnu traku, predloži
@@ -1294,6 +1308,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Brze akcije
     .accesskey = Q
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Prijedlozi od { -brand-short-name }
+    .description = Dobijte prijedloge s weba povezane s vašom pretragom.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Prijedlozi sponzora
+    .description = Povremeno podržite { -brand-short-name } sponzorisanim prijedlozima.
 addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna pretraživanja
@@ -1312,6 +1333,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Dobijte prijedloge s weba povezane
 addressbar-locbar-suggest-sponsored-option =
     .label = Prijedlozi sponzora
 addressbar-locbar-suggest-sponsored-desc = Povremeno podržite { -brand-short-name } sponzorisanim prijedlozima.
+addressbar-dismissed-suggestions-label-2 =
+    .label = Odbačeni prijedlozi
+    .description = Vrati odbačene prijedloge sponzora i { -brand-short-name }.
 addressbar-quickactions-learn-more = Saznajte više
 addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
 addressbar-restore-dismissed-suggestions-description = Vrati odbačene prijedloge sponzora i { -brand-short-name }.
