@@ -2123,8 +2123,8 @@ collection-description =
 collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report-telemetry-disabled =
     { -vendor-short-name.case-status ->
-        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
-       *[no-cases] Odesílat organizaci { -vendor-short-name } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
+        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technické údaje a údaje o interakcích není nadále povoleno. Všechny historické údaje budou smazány během 30 dnů.
+       *[no-cases] Odesílat organizaci { -vendor-short-name } technické údaje a údaje o interakcích není nadále povoleno. Všechny historické údaje budou smazány během 30 dnů.
     }
 collection-health-report-telemetry-disabled-link = Zjistit více
 collection-usage-ping =
@@ -2140,13 +2140,13 @@ collection-usage-ping-description =
        *[no-cases] To organizaci { -vendor-short-name } pomáhá odhadnout počet aktivních uživatelů.
     }
 collection-health-report2 =
-    .label = Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích
+    .label = Odesílat { -vendor-short-name(case: "dat") } technické údaje a údaje o interakcích
     .accesskey = t
 collection-health-report =
     .label =
         { -vendor-short-name.case-status ->
-            [with-cases] Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích
-           *[no-cases] Odesílat technická data a data o interakcích
+            [with-cases] Odesílat { -vendor-short-name(case: "dat") } technické údaje a údaje o interakcích
+           *[no-cases] Odesílat technické údaje a údaje o interakcích
         }
     .accesskey = r
 collection-health-report-link = Zjistit více

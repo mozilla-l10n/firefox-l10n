@@ -6,7 +6,7 @@
 ## Preonboarding modal screen strings
 
 preonboarding-title = Vítá vás { -brand-product-name }
-preonboarding-subtitle = Pokračováním souhlasíte s Podmínkami používání { -brand-product-name(case: "gen") } a našimi Zásadami ochrany osobních údajů. Za účelem vylepšení prohlížeče { -brand-product-name } odesílá diagnostické údaje a údaje o interakcích organizaci { -vendor-short-name }.
+preonboarding-subtitle = Pokračováním souhlasíte s Podmínkami používání { -brand-product-name(case: "gen") } a s našimi Zásadami ochrany osobních údajů. Za účelem vylepšení prohlížeče odesílá { -brand-product-name } { -vendor-short-name(case: "dat") } diagnostické údaje a údaje o interakcích.
 preonboarding-primary-cta = Potvrdit a pokračovat
 preonboarding-primary-cta-v2 = Pokračovat
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
@@ -17,7 +17,7 @@ preonboarding-terms-of-use-header-button-title = Přečtěte si naše Podmínky 
 # Label for header style button that toggles showing the Privacy Notice
 preonboarding-privacy-notice-header-button-title = Přečtěte si naše Zásady ochrany osobních údajů
 # Label for header style button that toggles showing the data preference checklist
-preonboarding-manage-data-header-button-title = Správa diagnostických dat a dat o interakcích
+preonboarding-manage-data-header-button-title = Správa diagnostických údajů a údajů o interakcích
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b =
     { -brand-product-name.case-status ->
@@ -34,12 +34,6 @@ preonboarding-privacy-notice-header-button-title-b =
 preonboarding-privacy-notice-header-button-title-b-v2 = Zásady ochrany osobních údajů
 # Description under label for header style buttons
 preonboarding-header-button-description = Přečtěte si více
-# New user onboarding checklist
-preonboarding-checklist-interaction-data-label =
-    { -vendor-short-name.case-status ->
-        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích
-       *[no-cases] Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
-    }
 preonboarding-checklist-interaction-data-description =
     { -brand-product-name.case-status ->
         [with-cases] Data o vašem zařízení, konfiguraci hardwaru a o tom, jak { -brand-product-name(case: "dat") } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.
