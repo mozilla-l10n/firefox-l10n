@@ -11,5 +11,7 @@ customize-mode-done =
     .label = ٱنجوم وابی
 customize-mode-toolbars =
     .label = نوار ٱوزارا
+customize-mode-titlebar =
+    .label = نوار عونوان
 customize-mode-undo-cmd =
     .label = وورگندن
