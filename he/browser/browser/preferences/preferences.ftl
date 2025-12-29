@@ -1597,7 +1597,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = סירוב אוטומטי לכרזות עוגיות
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = שורת כתובת
 addressbar-suggest-1 = בחירה בהצעות שיוצגו בשורת הכתובת
@@ -1647,6 +1647,10 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = הצעות חיפוש פופולריות
     .accesskey = ה
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = הצעות מ־{ -brand-short-name }
+    .description = קבלת הצעות מהאינטרנט הקשורות לחיפוש שלך.
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 addressbar-locbar-showrecentsearches-option =
     .label = הצגת חיפושים אחרונים
