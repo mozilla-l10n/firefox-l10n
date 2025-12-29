@@ -66,8 +66,8 @@ settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 =
     { -brand-short-name.case-status ->
-        [with-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a vyvíjejí se, což může ovlivnit fungování { -brand-short-name(case: "gen") }. Údaje o vašem používání těchto funkcí získáváme pouze v případě, když máte zapnuté odesílání <a data-l10n-name="data-collection">technických údajů a údajů o interakcích</a>.
-       *[no-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a vyvíjejí se, což může ovlivnit fungování aplikace { -brand-short-name }. Údaje o vašem používání těchto funkcí získáváme pouze v případě, když máte zapnuté odesílání <a data-l10n-name="data-collection">technických údajů a údajů o interakcích</a>.
+        [with-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a průběžně se vylepšují, což může ovlivnit fungování { -brand-short-name(case: "gen") }. Údaje o vašem používání těchto funkcí dostáváme pouze tehdy, když máte zapnuté odesílání <a data-l10n-name="data-collection">technických údajů a údajů o interakcích</a>.
+       *[no-cases] Vyzkoušejte naše experimentální funkce! Jsou ve vývoji a průběžně se vylepšují, což může ovlivnit fungování aplikace { -brand-short-name }. Údaje o vašem používání těchto funkcí dostáváme pouze tehdy, když máte zapnuté odesílání <a data-l10n-name="data-collection">technických údajů a údajů o interakcích</a>.
     }
 pane-experimental-description3 =
     { -brand-short-name.case-status ->

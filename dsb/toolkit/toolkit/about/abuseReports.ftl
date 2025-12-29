@@ -73,7 +73,7 @@ abuse-report-deceptive-example = Pśikład: Torjece wopisanje abo wobraznosć
 abuse-report-broken-reason-extension-v2 = Njefunkcioněrujo, wobškóźujo websedła abo spómałšujo { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Njefunkcioněrujo, wobškóźujo websedła abo spómałšujo { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Njefunkcioněrujo abo wobškóźujo zwobraznjenje wobglědowaka
-abuse-report-broken-example = Pśikład: Funkcije su pomałe, śěžko wužywajobne abo njefunkcioněruju; źěle websedła se njezacytaju abo wuglědaju njewšedne
+abuse-report-broken-example = Pśikład: Funkcije su pómałe, śěžko wužywajobne abo njefunkcioněruju; źěle websedła se njezacytaju abo wuglědaju njewšedne
 abuse-report-broken-suggestions-extension = Zda se, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom rozšyrjenja do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju rozšyrjenja</a>, aby se informacije wó wuwijarju wobstarał.
 abuse-report-broken-suggestions-sitepermission = Zda se, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom websedła do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju</a>, aby se informacije wó wuwijarju wobstarał.
 abuse-report-broken-suggestions-theme = Zda se, zo sćo identificěrował zmólku. Mimo až móžośo rozpšawu wótpósłaś, stajśo se nejlěpjej z wuwijarjom drastwy do zwiska, aby problem z funkcionalnosću rozwězał. <a data-l10n-name="support-link">Woglědajśo se k websedłoju drastwy</a>, aby se informacije wó wuwijarju wobstarał.

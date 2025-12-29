@@ -175,10 +175,10 @@ tabbrowser-confirm-open-multiple-tabs-title = Wócynjenje wobkšuśiś
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-       *[other] Cośo { $tabCount } rejtarikow wócyniś. To by mógło { -brand-short-name } spomałšyś, mjaztym až se boki zacytuju. Cośo napšawdu pókšacowaś?
+       *[other] Cośo { $tabCount } rejtarikow wócyniś. To by mógło { -brand-short-name } spómałšyś, mjaztym až se boki zacytuju. Cośo napšawdu pókšacowaś?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Wócynjone rejtariki
-tabbrowser-confirm-open-multiple-tabs-checkbox = Warnowaś, gaby se wócynjenje někotarych rejtarikow mógło { -brand-short-name } spomałšyś
+tabbrowser-confirm-open-multiple-tabs-checkbox = Warnowaś, gaby se wócynjenje někotarych rejtarikow mógło { -brand-short-name } spómałšyś
 
 ## Confirmation dialog for enabling caret browsing
 

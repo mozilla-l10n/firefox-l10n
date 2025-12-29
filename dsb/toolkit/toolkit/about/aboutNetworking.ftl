@@ -54,8 +54,8 @@ about-networking-rcwn-perf-entry-open = Zapisk wócynjony
 about-networking-rcwn-avg-short = Krotki pśerězk
 about-networking-rcwn-avg-long = Dłujki pśerězk
 about-networking-rcwn-std-dev-long = Dłujke standardne wótchylenje
-about-networking-rcwn-cache-slow = Pomałe licenje pufrowaś
-about-networking-rcwn-cache-not-slow = Pomałe licenje njepufrowaś
+about-networking-rcwn-cache-slow = Pómałe licenje pufrowaś
+about-networking-rcwn-cache-not-slow = Pómałe licenje njepufrowaś
 about-networking-networkid = Seśowy ID
 about-networking-networkid-id = Seśowy ID
 # Note: do not translate about:logging, as it is a URL.
