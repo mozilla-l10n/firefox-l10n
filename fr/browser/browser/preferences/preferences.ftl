@@ -1597,7 +1597,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refuser automatiquement les bannières de cookies
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barre d’adresse
 addressbar-suggest-1 = Choisissez les suggestions à afficher dans votre barre d’adresse
@@ -1673,6 +1673,9 @@ addressbar-locbar-suggest-sponsored-desc = Soutenez { -brand-short-name } en aff
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Obtenir des suggestions de Mozilla pendant la saisie
+addressbar-dismissed-suggestions-label-2 =
+    .label = Suggestions rejetées
+    .description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.
 addressbar-quickactions-learn-more = En savoir plus
 addressbar-dismissed-suggestions-label = Suggestions rejetées
 addressbar-restore-dismissed-suggestions-description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.
