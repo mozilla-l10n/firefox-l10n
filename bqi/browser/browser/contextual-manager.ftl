@@ -98,15 +98,47 @@ contextual-manager-view-alert-heading =
     .heading = نیشتن پاییڌن
 contextual-manager-view-alert-button =
     .tooltiptext = ز نۊ نیشتن پاییڌن
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] نیشتن پاییڌن
+            [one] نیشتن پاییڌن
+           *[other] نیشتن پاییڌنا
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] ز نۊ نیشتن پاییڌن
+            [one] ز نۊ نیشتن پاییڌن
+           *[other] ز نۊ نیشتن پاییڌنا
+        }
 contextual-manager-show-password-button =
     .aria-label = نشووݩ داڌن رزم
     .title = نشووݩ داڌن رزم
+contextual-manager-hide-password-button =
+    .aria-label = بؽڌار کردن رزم
+    .title = بؽڌار کردن رزم
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = هیچ رزمی نجۊرست
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین.
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
 contextual-manager-passwords-discard-changes-close-button = بستن
+contextual-manager-passwords-discard-changes-go-back-button = وورگرت
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = رزم ٱسلی ن بزنین
 contextual-manager-primary-password-learn-more-link = قلوه دووسته بۊین
