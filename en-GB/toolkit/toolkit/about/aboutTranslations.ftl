@@ -37,6 +37,10 @@ about-translations-output-placeholder =
 about-translations-copy-button-default =
     .label = Copy
     .title = Copy translation
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Copied
+    .title = Copied translation
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Select language
@@ -46,3 +50,6 @@ about-translations-translating-message = Translating…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Swap languages
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Clear source text
