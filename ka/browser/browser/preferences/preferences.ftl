@@ -847,6 +847,10 @@ search-suggestions-cant-show-2 =
 addressbar-header-1 =
     .label = მისამართების ველი
     .description = აირჩიეთ, რომელი შემოთავაზებები გამოჩნდეს თქვენი მისამართების ველში
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = მისამართების ველში შემოთავაზებების წყაროა { -brand-short-name } და ჩვენი მოკავშირეები.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1537,6 +1541,9 @@ addressbar-locbar-suggest-sponsored-desc = თანადგომისთვ�
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = შემოთავაზებებს აკრეფისთანავე მოგაწვდით Mozilla
+addressbar-dismissed-suggestions-label-2 =
+    .label = შეთავაზებების აცილება
+    .description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.
 addressbar-quickactions-learn-more = ვრცლად
 addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
 addressbar-restore-dismissed-suggestions-description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.
