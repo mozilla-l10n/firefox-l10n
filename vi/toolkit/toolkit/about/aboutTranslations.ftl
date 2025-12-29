@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = Nhập văn bản cần dịch
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = Tự động phát hiện ngôn ngữ
+about-translations-detect-default-label =
+    .label = Tự động phát hiện ngôn ngữ
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $language } (đã phát hiện)
+about-translations-detect-language-label =
+    .label = { $language } (đã phát hiện)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Bản dịch
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = Chọn ngôn ngữ
+about-translations-select-label =
+    .label = Chọn ngôn ngữ
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = Đang dịch…
 # The title attribute for the swap languages button, which swaps the selected
