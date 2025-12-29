@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Синхрондау
+account-group-label =
+    .label = { -vendor-short-name } тіркелгісі
 account-placeholder =
     .label = Сіз кірген жоқсыз
     .description = Деректеріңіздің құпиялығын, шифрленуін және құрылғылар арасында синхрондалуын қамтамасыз ету үшін жүйеге кіріңіз.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Төлем әдістері</strong>
 payments-delete-payment-prompt-title = Бұл төлем әдісін өшіру керек пе?
 payments-delete-payment-prompt-confirm-button = Өшіру
 payments-delete-payment-prompt-cancel-button = Бас тарту
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Төлем әдістері қосылмаған
 payments-remove-payment-prompt-title = Бұл төлем әдісін өшіру керек пе?
 payments-remove-payment-prompt-confirm-button = Өшіру
 payments-remove-payment-prompt-cancel-button = Бас тарту
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Бас тарту
 autofill-addresses-add-button = Жаңа адресті қосу
 autofill-addresses-manage-addresses-title =
     .heading = Адрестерді басқару және т.б.
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ешқандай адрес қосылмады
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Қабылданбаған ұсыныстар
     .description = Демеушілер мен { -brand-short-name } жіберген қабылданбаған ұсыныстарды қалпына келтіру.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Ұсыныстарды қалпына келтіру
 addressbar-quickactions-learn-more = Көбірек білу
 addressbar-dismissed-suggestions-label = Қабылданбаған ұсыныстар
 addressbar-restore-dismissed-suggestions-description = Демеушілер мен { -brand-short-name } жіберген қабылданбаған ұсыныстарды қалпына келтіру.

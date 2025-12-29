@@ -870,10 +870,16 @@ navbar-overflow =
 navbar-print =
     .label = چاپ
     .tooltiptext = چاپ ای بلگه… ({ $shortcut })
+navbar-home =
+    .label = هووه
+    .tooltiptext = { -brand-short-name } بلگه هووه ای
 navbar-search =
     .title = پیتینیڌن
 tabs-toolbar-new-tab =
     .label = بلگه نۊ
+tabs-toolbar-list-all-tabs =
+    .label = نومگهی کردن پوی بلگه یل
+    .tooltiptext = نومگهی کردن پوی بلگه یل
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -889,6 +895,7 @@ private-browsing-indicator-label = گشتن سیخومی
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = گشتن سیخومی
+content-analysis-panel-title = زفت وابیڌن داده یل
 
 ## Unified extensions (toolbar) button
 

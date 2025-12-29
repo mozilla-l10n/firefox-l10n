@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
 identity-connection-verified = Бұл сайтқа қауіпсіз түрде байланысқансыз.
 identity-ev-owner-label = Сертификат кімге шығарылған:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = 2024/1183 Регламентінде (ЕО) көрсетілгендей квалификацияланған
 identity-description-custom-root2 = Mozilla бұл сертификатты шығарушысын танымайды. Ол сіздің операциялық жүйеңіз немесе әкімшіңізбен қосылған болуы мүмкін.
 identity-remove-cert-exception =
     .label = Ережеден тыс жағдайды өшіру

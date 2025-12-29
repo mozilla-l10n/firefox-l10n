@@ -61,13 +61,18 @@ contextual-manager-passwords-remove-login-card-remove-button = پاک کردن
 contextual-manager-passwords-remove-login-card-cancel-button = لقو
 contextual-manager-passwords-alert-back-button =
     .label = وورگشتن
+contextual-manager-passwords-alert-list =
+    .aria-label = نومگه پاییڌن
 contextual-manager-passwords-change-password-button = آلشت رزم
+contextual-manager-passwords-add-username-button = ٱووردن نوم منتوری
 contextual-manager-passwords-title = رزما
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = ٱووردن رزم
+contextual-manager-passwords-update-label =
+    .label = ورۊ رسۊوی رزم
 contextual-manager-passwords-edit-label =
     .label = آلشت رزم
 contextual-manager-passwords-remove-label =
@@ -89,6 +94,13 @@ contextual-manager-alert-icon =
     .alt = بپا
 contextual-manager-edit-login-button = آلشت
     .tooltiptext = آلشت رزم
+contextual-manager-view-alert-heading =
+    .heading = نیشتن پاییڌن
+contextual-manager-view-alert-button =
+    .tooltiptext = ز نۊ نیشتن پاییڌن
+contextual-manager-show-password-button =
+    .aria-label = نشووݩ داڌن رزم
+    .title = نشووݩ داڌن رزم
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = هیچ رزمی نجۊرست
