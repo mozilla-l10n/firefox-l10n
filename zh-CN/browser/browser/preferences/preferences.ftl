@@ -869,6 +869,13 @@ search-show-suggestions-private-windows-2 =
     .label = 在隐私窗口中显示
 search-suggestions-cant-show-2 =
     .message = 由于您已经设置 { -brand-short-name } 不记录浏览历史，地址栏中将不会显示搜索建议。
+addressbar-header-1 =
+    .label = 地址栏
+    .description = 选择在地址栏中显示的建议
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = 在地址栏显示来自 { -brand-short-name } 及我们的合作伙伴的建议。
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1016,6 +1023,11 @@ sync-signedin-login-failure = 请登录以重新绑定 { $email }
 sync-signedin-login-failure2 =
     .label = 您已退出登录 { $email }
     .description = 再次登录以重新连接并开始同步您的数据。
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1530,7 +1542,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = 自动拒绝 Cookie 横幅
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = 地址栏
 addressbar-suggest-1 = 选择在地址栏中显示的建议
@@ -1580,6 +1592,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = 热门搜索建议
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } 的建议
+    .description = 从网络上获取与您的搜索相关的建议。
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = 赞助商建议
+    .description = 不定期提供赞助商建议以支持 { -brand-short-name }。
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-locbar-showrecentsearches-option =
     .label = 显示近期搜索
@@ -1606,6 +1625,9 @@ addressbar-locbar-suggest-sponsored-desc = 不定期提供赞助商建议以支�
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = 在键入时获取来自 Mozilla 的建议
+addressbar-dismissed-suggestions-label-2 =
+    .label = 忽略的建议
+    .description = 恢复显示已忽略的赞助商和 { -brand-short-name } 的建议。
 addressbar-quickactions-learn-more = 详细了解
 addressbar-dismissed-suggestions-label = 忽略的建议
 addressbar-restore-dismissed-suggestions-description = 恢复显示已忽略的赞助商和 { -brand-short-name } 的建议。

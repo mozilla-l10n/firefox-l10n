@@ -562,6 +562,9 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -831,6 +834,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = M
 search-suggestions-cant-show-2 =
     .message = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
+addressbar-header-1 =
+    .label = Adresa strio
+    .description = Elekti la sugestojn, kiuj videblas en via adresa strio
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugestoj el { -brand-short-name } kaj niaj asociitoj en via adresa strio.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -959,6 +969,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ne estas konfirmita.
 sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1439,7 +1454,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Aŭtomate rifuzi kuketajn anoncojn
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresa strio
 addressbar-suggest-1 = Elekti la sugestojn, kiuj videblas en via adresa strio
@@ -1483,6 +1498,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rapidaj agoj
     .accesskey = R
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugestoj de { -brand-short-name }
+    .description = Ricevu sugestojn el la reto, kiu rilatas vian serĉon
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugestoj el patronoj
+    .description = Subtenu { -brand-short-name } per ricevo de patronitaj sugestoj, de tempo al tempo.
 addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 addressbar-locbar-showrecentsearches-option =
     .label = Montri ĵusajn serĉojn
@@ -1509,6 +1531,9 @@ addressbar-locbar-suggest-sponsored-desc = Subtenu { -brand-short-name } per ric
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Akiri sugestojn el Mozilla dum tajpado
+addressbar-dismissed-suggestions-label-2 =
+    .label = Ignoritaj sugestoj
+    .description = Restarigi ignoritajn sugestojn de patronoj kaj de { -brand-short-name }.
 addressbar-quickactions-learn-more = Pli da informo
 addressbar-dismissed-suggestions-label = Ignoritaj sugestoj
 addressbar-restore-dismissed-suggestions-description = Restarigi ignoritajn sugestojn de patronoj kaj de { -brand-short-name }.

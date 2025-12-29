@@ -931,6 +931,13 @@ search-show-suggestions-private-windows-2 =
     .label = Pytańske naraźenja w priwatnych woknach
 search-suggestions-cant-show-2 =
     .message = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
+addressbar-header-1 =
+    .label = Adresowe pólo
+    .description = Wubjeŕśo, kótare naraźenja maju se we wašom adresowem pólu pokazaś
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Naraźenja z { -brand-short-name } a wót našych partnarjow we wašom adresowem pólu.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1605,7 +1612,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Cookiejowe  chórgoje awtomatiski wótpokazaś
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresowe pólo
 addressbar-suggest-1 = Wubjeŕśo, kótare naraźenja maju se we wašom adresowem pólu pokazaś
@@ -1655,6 +1662,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Trendowe pytańske naraźenja
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Naraźenja wót { -brand-short-name }
+    .description = Wobstarajśo se naraźenja z weba nastupajucy wašo pytanje.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Naraźenja wót sponsorow
+    .description = Pódprějśo { -brand-short-name } z pśigóźbnymi sponserowanymi naraźenjami
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 addressbar-locbar-showrecentsearches-option =
     .label = Nejnowše pytanja pokazaś
@@ -1681,6 +1695,9 @@ addressbar-locbar-suggest-sponsored-desc = Pódprějśo { -brand-short-name } z 
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Wótwołajśo naraźenja wót Mozilla, gaž pišośo
+addressbar-dismissed-suggestions-label-2 =
+    .label = Zachyśone naraźenja
+    .description = Zachyśone naraźenja wót sponsorow a { -brand-short-name } wótnowiś.
 addressbar-quickactions-learn-more = Dalšne informacije
 addressbar-dismissed-suggestions-label = Zachyśone naraźenja
 addressbar-restore-dismissed-suggestions-description = Zachyśone naraźenja wót sponsorow a { -brand-short-name } wótnowiś.

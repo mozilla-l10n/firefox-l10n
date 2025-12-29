@@ -927,6 +927,13 @@ search-show-suggestions-private-windows-2 =
     .label = Návrhy vyhľadávania v súkromnom prehliadaní
 search-suggestions-cant-show-2 =
     .message = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name(case: "acc") } nastavili tak, aby si nepamätal históriu.
+addressbar-header-1 =
+    .label = Panel s adresou
+    .description = Zvoľte, aké návrhy sa zobrazujú v paneli s adresou
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Návrhy { -brand-short-name(case: "gen") } a našich partnerov vo vašom adresnom riadku.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1601,7 +1608,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automaticky odmietať žiadosti o povolenie súborov cookie
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Panel s adresou
 addressbar-suggest-1 = Zvoľte, aké návrhy sa zobrazujú v paneli s adresou
@@ -1651,6 +1658,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Návrhy populárnych vyhľadávaní
     .accesskey = h
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Návrhy od { -brand-short-name(case: "gen") }
+    .description = Získajte návrhy z webu súvisiace s vaším vyhľadávaním.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Návrhy od sponzorov
+    .description = Podporte { -brand-short-name(case: "acc") } príležitostnými sponzorovanými návrhmi.
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazovať nedávne vyhľadávania
@@ -1677,6 +1691,9 @@ addressbar-locbar-suggest-sponsored-desc = Podporte { -brand-short-name(case: "a
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Získavať návrhy od Mozilly počas písania
+addressbar-dismissed-suggestions-label-2 =
+    .label = Odmietnuté návrhy
+    .description = Obnovte odmietnuté návrhy od sponzorov a { -brand-short-name(case: "gen") }.
 addressbar-quickactions-learn-more = Ďalšie informácie
 addressbar-dismissed-suggestions-label = Odmietnuté návrhy
 addressbar-restore-dismissed-suggestions-description = Obnovte odmietnuté návrhy od sponzorov a { -brand-short-name(case: "gen") }.

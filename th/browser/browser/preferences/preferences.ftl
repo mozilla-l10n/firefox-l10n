@@ -553,6 +553,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ
@@ -821,6 +824,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = ส
 search-suggestions-cant-show-2 =
     .message = คำแนะนำการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
+addressbar-header-1 =
+    .label = แถบที่อยู่
+    .description = เลือกคำแนะนำที่จะแสดงในแถบที่อยู่ของคุณ
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = แสดงคำแนะนำจาก { -brand-short-name } และพันธมิตรของเราในแถบที่อยู่ของคุณ
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -949,6 +959,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1429,7 +1444,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = ปฏิเสธแบนเนอร์คุกกี้โดยอัตโนมัติ
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = แถบที่อยู่
 addressbar-suggest-1 = เลือกคำแนะนำที่จะแสดงในแถบที่อยู่ของคุณ
@@ -1473,6 +1488,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = คำสั่งด่วน
     .accesskey = ด
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = คำแนะนำจาก { -brand-short-name }
+    .description = รับคำแนะนำจากเว็บที่เกี่ยวข้องกับการค้นหาของคุณ
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = คำแนะนำจากผู้สนับสนุน
+    .description = สนับสนุน { -brand-short-name } ด้วยคำแนะนำจากผู้สนับสนุนซึ่งแสดงเป็นครั้งคราว
 addressbar-suggestions-settings = เปลี่ยนค่าปรับแต่งสำหรับคำแนะนำของเครื่องมือค้นหา
 addressbar-locbar-showrecentsearches-option =
     .label = แสดงการค้นหาล่าสุด
@@ -1499,6 +1521,9 @@ addressbar-locbar-suggest-sponsored-desc = สนับสนุน { -brand-sho
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = ดึงคำแนะนำจาก Mozilla ขณะที่คุณพิมพ์
+addressbar-dismissed-suggestions-label-2 =
+    .label = คำแนะนำที่ถูกปิด
+    .description = เรียกคืนคำแนะนำที่ถูกปิดจากผู้สนับสนุนและ { -brand-short-name }
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 addressbar-dismissed-suggestions-label = คำแนะนำที่ถูกปิด
 addressbar-restore-dismissed-suggestions-description = เรียกคืนคำแนะนำที่ถูกปิดจากผู้สนับสนุนและ { -brand-short-name }

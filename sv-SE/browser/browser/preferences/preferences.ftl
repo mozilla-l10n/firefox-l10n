@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Sökförslag i privata fönster
 search-suggestions-cant-show-2 =
     .message = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
+addressbar-header-1 =
+    .label = Adressfält
+    .description = Välj vilka förslag som ska visas i adressfältet
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Förslag från { -brand-short-name } och våra partners i ditt adressfält.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Vägra automatiskt kakbanners
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adressfält
 addressbar-suggest-1 = Välj vilka förslag som ska visas i adressfältet
@@ -1647,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Populära sökförslag
     .accesskey = P
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Förslag från { -brand-short-name }
+    .description = Få förslag från webben relaterade till din sökning.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Förslag från sponsorer
+    .description = Stöd { -brand-short-name } med enstaka sponsrade förslag.
 addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 addressbar-locbar-showrecentsearches-option =
     .label = Visa senaste sökningar
@@ -1673,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Stöd { -brand-short-name } med ensta
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Hämta förslag från Mozilla medan du skriver
+addressbar-dismissed-suggestions-label-2 =
+    .label = Avvisade förslag
+    .description = Återställ avvisade förslag från sponsorer och { -brand-short-name }.
 addressbar-quickactions-learn-more = Läs mer
 addressbar-dismissed-suggestions-label = Avvisade förslag
 addressbar-restore-dismissed-suggestions-description = Återställ avvisade förslag från sponsorer och { -brand-short-name }.

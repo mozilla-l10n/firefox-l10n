@@ -754,6 +754,12 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -975,6 +981,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'account { $email } nol è verificât.
 sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1410,7 +1421,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refude in automatic i strissons pai cookies
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Sbare de direzion
 addressbar-suggest = Cuant che tu dopris la sbare de direzion, sugjerìs
@@ -1446,6 +1457,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Azions sveltis
     .accesskey = Z
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugjeriments di { -brand-short-name }
+    .description = Ricêf sugjeriments dal web relatîfs ae tô ricercje.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugjeriments dai sponsors
+    .description = Supuarte { -brand-short-name } cun sugjeriments sponsorizâts ocasionâi.
 addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 addressbar-locbar-showrecentsearches-option =
     .label = Mostre ricercjis resintis
@@ -1464,6 +1482,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Ricêf sugjeriments dal web relat�
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugjeriments dai sponsors
 addressbar-locbar-suggest-sponsored-desc = Supuarte { -brand-short-name } cun sugjeriments sponsorizâts ocasionâi.
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sugjeriments ignorâts
+    .description = Ripristine i sugjeriments ignorâts dai sponsors e di { -brand-short-name }.
 addressbar-quickactions-learn-more = Plui informazions
 addressbar-dismissed-suggestions-label = Sugjeriments ignorâts
 addressbar-restore-dismissed-suggestions-description = Ripristine i sugjeriments ignorâts dai sponsors e di { -brand-short-name }.

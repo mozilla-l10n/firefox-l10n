@@ -569,6 +569,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -841,6 +844,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = ძ
 search-suggestions-cant-show-2 =
     .message = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
+addressbar-header-1 =
+    .label = მისამართების ველი
+    .description = აირჩიეთ, რომელი შემოთავაზებები გამოჩნდეს თქვენი მისამართების ველში
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = მისამართების ველში შემოთავაზებების წყაროა { -brand-short-name } და ჩვენი მოკავშირეები.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -969,6 +979,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1449,7 +1464,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = ფუნთუშების მოთხოვნებზე ავტომატური უარი
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = მისამართების ველი
 addressbar-suggest-1 = აირჩიეთ, რომელი შემოთავაზებები გამოჩნდეს თქვენი მისამართების ველში
@@ -1493,6 +1508,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = სწრაფი მოქმედებები
     .accesskey = წ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = გთავაზობთ { -brand-short-name }
+    .description = შემოთავაზებები ვებსივრციდან თქვენ მიერ მოძიებულის შესაბამისად.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = შემოთავაზებები დამკვეთებისგან
+    .description = თანადგომისთვის იხილეთ შემოთავაზებები დამკვეთებისგან, { -brand-short-name } დროდადრო რომ მოგაწვდით
 addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
 addressbar-locbar-showrecentsearches-option =
     .label = ბოლოს მოძიებულის ჩვენება
@@ -1519,6 +1541,9 @@ addressbar-locbar-suggest-sponsored-desc = თანადგომისთვ�
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = შემოთავაზებებს აკრეფისთანავე მოგაწვდით Mozilla
+addressbar-dismissed-suggestions-label-2 =
+    .label = შეთავაზებების აცილება
+    .description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.
 addressbar-quickactions-learn-more = ვრცლად
 addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
 addressbar-restore-dismissed-suggestions-description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.

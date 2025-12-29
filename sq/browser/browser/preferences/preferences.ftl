@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Sugjerime kërkimesh në dritare private
 search-suggestions-cant-show-2 =
     .message = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
+addressbar-header-1 =
+    .label = Shtyllë Adresash
+    .description = Zgjidhni cilat sugjerime të shfaqen te shtylla juaj e adresave
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugjerime nga { -brand-short-name }-i dhe partnerët tanë, te shtylla juaj e adresave.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Hidhni poshtë automatikisht banderola cookie-sh
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Shtyllë Adresash
 addressbar-suggest-1 = Zgjidhni cilat sugjerime të shfaqen te shtylla juaj e adresave
@@ -1647,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Sugjerime kërkimi në modë
     .accesskey = S
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugjerime nga { -brand-short-name }
+    .description = Merrni nga interneti sugjerime të lidhura me kërkimin tuaj.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugjerime nga sponsorë
+    .description = Përkrahni { -brand-short-name }-in, përmes sugjerimesh, të ndonjëherëshme, të sponsorizuara
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 addressbar-locbar-showrecentsearches-option =
     .label = Shfaq kërkime së fundi
@@ -1673,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Përkrahni { -brand-short-name }-in, 
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Merrni sugjerime nga Mozilla, teksa shtypni
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sugjerimet u hodhën tej
+    .description = Rikthe sugjerime të hedhura tej, nga sponsorë dhe { -brand-short-name }-i.
 addressbar-quickactions-learn-more = Mësoni më tepër
 addressbar-dismissed-suggestions-label = Sugjerimet u hodhën tej
 addressbar-restore-dismissed-suggestions-description = Rikthe sugjerime të hedhura tej, nga sponsorë dhe { -brand-short-name }-i.

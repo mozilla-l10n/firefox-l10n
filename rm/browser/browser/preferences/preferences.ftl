@@ -531,6 +531,9 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -641,6 +644,12 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -863,6 +872,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1282,7 +1296,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refusar automaticamain bandieras da cookies
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Trav d'adressas
 addressbar-suggest = Durant l'endataziun en la trav d'adressas, proponer
@@ -1318,6 +1332,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acziuns sveltas
     .accesskey = z
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Propostas da { -brand-short-name }
+    .description = Retschaiva propostas dal web en connex cun tia tschertga.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Propostas da sponsurs
+    .description = Sustegna { -brand-short-name } cun propostas occasiunalas sponsurisadas.
 addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
 addressbar-locbar-showrecentsearches-option =
     .label = Mussar las ultimas tschertgas
@@ -1336,6 +1357,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Retschaiva propostas dal web en co
 addressbar-locbar-suggest-sponsored-option =
     .label = Propostas da sponsurs
 addressbar-locbar-suggest-sponsored-desc = Sustegna { -brand-short-name } cun propostas occasiunalas sponsurisadas.
+addressbar-dismissed-suggestions-label-2 =
+    .label = Propostas refusadas
+    .description = Restaurescha las propostas refusadas da sponsurs e da { -brand-short-name }.
 addressbar-quickactions-learn-more = Ulteriuras infurmaziuns
 addressbar-dismissed-suggestions-label = Propostas refusadas
 addressbar-restore-dismissed-suggestions-description = Restaurescha las propostas refusadas da sponsurs e da { -brand-short-name }.

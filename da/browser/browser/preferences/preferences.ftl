@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Søgeforslag i private vinduer
 search-suggestions-cant-show-2 =
     .message = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
+addressbar-header-1 =
+    .label = Adressefelt
+    .description = Vælg, hvilke forslag der skal vises i adressefeltet
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Forslag fra { -brand-short-name } og vores partnere i dit adressefelt.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Afvis automatisk cookie-bannere
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adressefelt
 addressbar-suggest-1 = Vælg, hvilke forslag der skal vises i adressefeltet
@@ -1647,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Populære søgeforslag
     .accesskey = P
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Forslag fra { -brand-short-name }
+    .description = Få forslag fra internettet relateret til din søgning.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Forslag fra sponsorer
+    .description = Støt { -brand-short-name } med lejlighedsvise sponsorerede forslag.
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis seneste søgninger
@@ -1673,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Støt { -brand-short-name } med lejli
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Hent forslag fra Mozilla, mens du skriver
+addressbar-dismissed-suggestions-label-2 =
+    .label = Afviste forslag
+    .description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.
 addressbar-quickactions-learn-more = Læs mere
 addressbar-dismissed-suggestions-label = Afviste forslag
 addressbar-restore-dismissed-suggestions-description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.

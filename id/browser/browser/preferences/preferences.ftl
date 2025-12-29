@@ -517,6 +517,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -627,6 +630,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -837,6 +846,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1256,7 +1270,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Otomatis menolak spanduk kuki
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bilah Alamat
 addressbar-suggest = Saat menggunakan bilah alamat, sarankan
@@ -1292,6 +1306,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Tindakan cepat
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Saran dari { -brand-short-name }
+    .description = Dapatkan saran dari web yang terkait dengan pencarian Anda.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Saran dari sponsor
+    .description = Dukung { -brand-short-name } dengan saran sponsor sesekali.
 addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 addressbar-locbar-showrecentsearches-option =
     .label = Tampilkan pencarian terbaru
@@ -1310,6 +1331,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Dapatkan saran dari web yang terka
 addressbar-locbar-suggest-sponsored-option =
     .label = Saran dari sponsor
 addressbar-locbar-suggest-sponsored-desc = Dukung { -brand-short-name } dengan saran sponsor sesekali.
+addressbar-dismissed-suggestions-label-2 =
+    .label = Abaikan saran
+    .description = Pulihkan saran yang ditolak dari sponsor dan { -brand-short-name }.
 addressbar-quickactions-learn-more = Pelajari lebih lanjut
 addressbar-dismissed-suggestions-label = Abaikan saran
 addressbar-restore-dismissed-suggestions-description = Pulihkan saran yang ditolak dari sponsor dan { -brand-short-name }.

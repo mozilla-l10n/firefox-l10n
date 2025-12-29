@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = הוספת טקסט לתרגום
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = איתור שפה
+about-translations-detect-default-label =
+    .label = איתור שפה
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $language } (זוהה)
+about-translations-detect-language-label =
+    .label = { $language } (זוהה)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = תרגום
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = בחירת שפה
+about-translations-select-label =
+    .label = בחירת שפה
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = בתהליך תרגום…
 # The title attribute for the swap languages button, which swaps the selected

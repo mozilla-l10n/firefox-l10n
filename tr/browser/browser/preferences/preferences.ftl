@@ -913,6 +913,13 @@ search-show-suggestions-private-windows-2 =
     .label = Gizli pencerelerde arama önerileri
 search-suggestions-cant-show-2 =
     .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
+addressbar-header-1 =
+    .label = Adres çubuğu
+    .description = Adres çubuğunuzda hangi önerilerin gösterileceğini seçin
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = { -brand-short-name } ve iş ortaklarımızdan gelen öneriler adres çubuğunuzda görünür.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1572,7 +1579,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Çerez bildirimlerini otomatik olarak reddet
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adres çubuğu
 addressbar-suggest-1 = Adres çubuğunuzda hangi önerilerin gösterileceğini seçin
@@ -1622,6 +1629,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Arama trendi önerileri
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } önerileri
+    .description = Aramanızla ilgili web sitesi önerileri alın.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sponsorlardan öneriler
+    .description = Ara sıra görünecek sponsorlu önerilerle { -brand-short-name } tarayıcınızı destekleyin.
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 addressbar-locbar-showrecentsearches-option =
     .label = Son aramaları göster
@@ -1648,6 +1662,9 @@ addressbar-locbar-suggest-sponsored-desc = Ara sıra görünecek sponsorlu öner
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Yazarken Mozilla’dan öneriler al
+addressbar-dismissed-suggestions-label-2 =
+    .label = Kapatılan öneriler
+    .description = Sponsorlardan ve { -brand-short-name } tarayıcısından gelen kapatılmış önerileri geri getir.
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 addressbar-dismissed-suggestions-label = Kapatılan öneriler
 addressbar-restore-dismissed-suggestions-description = Sponsorlardan ve { -brand-short-name } tarayıcısından gelen kapatılmış önerileri geri getir.

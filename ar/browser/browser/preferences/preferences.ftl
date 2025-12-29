@@ -522,6 +522,9 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -632,6 +635,12 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -844,6 +853,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
 sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1216,7 +1230,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = رفض لافتات ملفات تعريف الارتباط تلقائيًا
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = شريط العناوين
 addressbar-suggest = عند استخدام شريط العناوين، اقترح
@@ -1250,6 +1264,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = إجراءات سريعة
     .accesskey = س
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = اقتراحات من { -brand-short-name }
+    .description = احصل على اقتراحات من الوِب تتعلق ببحثك.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = اقتراحات من الرعاة
+    .description = ادعم { -brand-short-name } باقتراحات برعاية عرضية.
 addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
 addressbar-locbar-showrecentsearches-option =
     .label = أظهر عمليات البحث الأخيرة
@@ -1268,6 +1289,9 @@ addressbar-locbar-suggest-nonsponsored-desc = احصل على اقتراحات �
 addressbar-locbar-suggest-sponsored-option =
     .label = اقتراحات من الرعاة
 addressbar-locbar-suggest-sponsored-desc = ادعم { -brand-short-name } باقتراحات برعاية عرضية.
+addressbar-dismissed-suggestions-label-2 =
+    .label = الاقتراحات المهملة
+    .description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.
 addressbar-quickactions-learn-more = اطّلع على المزيد
 addressbar-dismissed-suggestions-label = الاقتراحات المهملة
 addressbar-restore-dismissed-suggestions-description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.

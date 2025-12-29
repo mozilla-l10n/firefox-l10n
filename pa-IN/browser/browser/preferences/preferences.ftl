@@ -562,6 +562,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
@@ -831,6 +834,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
+addressbar-header-1 =
+    .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ
+    .description = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਏ ਜਾਣੇ ਵਾਲੇ ਸੁਝਾਆਵਾਂ ਦੀ ਚੋਣ ਕਰੋ
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = ਤੁਹਾਡੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ { -brand-short-name } ਅਤੇ ਸਾਡੇ ਹਿੱਸੇਦਾਰਾਂ ਵਲੋਂ ਸੁਝਾਅ ਹਨ।
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -959,6 +969,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
 sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1439,7 +1454,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = ਆਪਣੇ-ਆਪ ਹੀ ਕੂਕੀ ਬੈਨਰ ਨੂੰ ਇਨਕਾਰ ਕਰੋ
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ਸਿਰਨਾਵਾਂ ਪੱਟੀ
 addressbar-suggest-1 = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਏ ਜਾਣੇ ਵਾਲੇ ਸੁਝਾਆਵਾਂ ਦੀ ਚੋਣ ਕਰੋ
@@ -1483,6 +1498,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ
     .accesskey = Q
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } ਵਲੋਂ ਸੁਝਾਅ
+    .description = ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਸੁਝਾਅ ਵੈੱਬ ਤੋਂ ਲਵੋ।
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = ਸਪੌਂਸਰਾਂ ਵਲੋਂ ਸੁਝਾਅ
+    .description = ਕਦੇ ਕਦਾਈ ਸਪੌਂਸਰਾਂ ਵਲੋਂ ਸੁਝਾਆਵਾਂ ਨਾਲ { -brand-short-name } ਦੀ ਮਦਦ ਕਰੋ
 addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 addressbar-locbar-showrecentsearches-option =
     .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਨੂੰ ਵੇਖਾਓ
@@ -1509,6 +1531,9 @@ addressbar-locbar-suggest-sponsored-desc = ਕਦੇ ਕਦਾਈ ਸਪੌਂ�
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਨਾਲ ਦੀ ਨਾਲ Mozilla ਵਲੋਂ ਸੁਝਾਅ ਲਵੋ
+addressbar-dismissed-suggestions-label-2 =
+    .label = ਸੁਝਾਆਵਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+    .description = ਸਪੌਂਸਰਾਂ ਅਤੇ { -brand-short-name } ਵਲੋਂ ਖ਼ਾਰਜ ਕੀਤੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ।
 addressbar-quickactions-learn-more = ਹੋਰ ਜਾਣੋ
 addressbar-dismissed-suggestions-label = ਸੁਝਾਆਵਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
 addressbar-restore-dismissed-suggestions-description = ਸਪੌਂਸਰਾਂ ਅਤੇ { -brand-short-name } ਵਲੋਂ ਖ਼ਾਰਜ ਕੀਤੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ।

@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = Аударылатын мәтінді қосу
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = Тілді анықтау
+about-translations-detect-default-label =
+    .label = Тілді анықтау
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $language } (анықталды)
+about-translations-detect-language-label =
+    .label = { $language } (анықталды)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Аударма
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = Тілді таңдау
+about-translations-select-label =
+    .label = Тілді таңдау
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = Аударуда…
 # The title attribute for the swap languages button, which swaps the selected

@@ -893,6 +893,13 @@ search-show-suggestions-private-windows-2 =
     .label = Sugestões de pesquisa em janelas privativas
 search-suggestions-cant-show-2 =
     .message = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
+addressbar-header-1 =
+    .label = Barra de endereços
+    .description = Escolher quais sugestões exibir na barra de endereços
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugestões do { -brand-short-name } e de nossos parceiros na barra de endereços.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1567,7 +1574,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Recusar avisos de cookies automaticamente
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra de endereços
 addressbar-suggest-1 = Escolher quais sugestões exibir na barra de endereços
@@ -1617,6 +1624,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Sugestões de pesquisa em alta
     .accesskey = S
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugestões do { -brand-short-name }
+    .description = Receba sugestões da web relacionadas à sua pesquisa.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugestões de patrocinadores
+    .description = Apoie o { -brand-short-name } com sugestões patrocinadas esporádicas.
 addressbar-suggestions-settings = Alterar preferências de sugestões de mecanismos de pesquisa
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar pesquisas recentes
@@ -1643,6 +1657,9 @@ addressbar-locbar-suggest-sponsored-desc = Apoie o { -brand-short-name } com sug
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Obter sugestões da Mozilla à medida que você digita
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sugestões descartadas
+    .description = Restaurar sugestões descartadas de patrocinadores e do { -brand-short-name }.
 addressbar-quickactions-learn-more = Saiba mais
 addressbar-dismissed-suggestions-label = Sugestões descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugestões descartadas de patrocinadores e do { -brand-short-name }.

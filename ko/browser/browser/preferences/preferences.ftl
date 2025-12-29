@@ -907,6 +907,13 @@ search-show-suggestions-private-windows-2 =
     .label = 사생활 보호 창에서 검색 제안
 search-suggestions-cant-show-2 =
     .message = 방문 기록을 저장하지 않도록 { -brand-short-name }를 설정했기 때문에 검색 제안이 주소 표시 줄 결과에 표시되지 않습니다.
+addressbar-header-1 =
+    .label = 주소 표시줄
+    .description = 주소 표시줄에 표시할 제안 선택
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = 주소 표시줄에 { -brand-short-name } 및 파트너사의 제안이 표시됩니다.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1581,7 +1588,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = 쿠키 배너 자동 거부
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = 주소 표시줄
 addressbar-suggest-1 = 주소 표시줄에 표시할 제안 선택
@@ -1631,6 +1638,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = 인기 검색어 제안
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name }의 제안
+    .description = 사용자 검색과 관련된 웹 제안을 받으세요.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = 스폰서 제안
+    .description = 가끔씩 스폰서 제안으로 { -brand-short-name }를 지원합니다.
 addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-locbar-showrecentsearches-option =
     .label = 최근 검색 표시
@@ -1657,6 +1671,9 @@ addressbar-locbar-suggest-sponsored-desc = 가끔씩 스폰서 제안으로 { -b
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = 입력할 때 Mozilla에서 제안을 가져옴
+addressbar-dismissed-suggestions-label-2 =
+    .label = 닫은 제안
+    .description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.
 addressbar-quickactions-learn-more = 더 알아보기
 addressbar-dismissed-suggestions-label = 닫은 제안
 addressbar-restore-dismissed-suggestions-description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.

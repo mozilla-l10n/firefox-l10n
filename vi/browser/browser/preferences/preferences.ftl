@@ -907,6 +907,13 @@ search-show-suggestions-private-windows-2 =
     .label = Đề xuất tìm kiếm trong cửa sổ ẩn danh
 search-suggestions-cant-show-2 =
     .message = Gợi ý tìm kiếm sẽ không được hiển thị ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
+addressbar-header-1 =
+    .label = Thanh địa chỉ
+    .description = Chọn những đề xuất hiển thị trên thanh địa chỉ của bạn
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Đề xuất từ { -brand-short-name } và các đối tác của chúng tôi trên thanh địa chỉ của bạn.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1581,7 +1588,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Tự động từ chối các biểu ngữ cookie
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Thanh địa chỉ
 addressbar-suggest-1 = Chọn những đề xuất hiển thị trên thanh địa chỉ của bạn
@@ -1631,6 +1638,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Đề xuất tìm kiếm đang thịnh hành
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Đề xuất từ { -brand-short-name }
+    .description = Nhận đề xuất từ ​​web liên quan đến tìm kiếm của bạn.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Đề xuất từ nhà tài trợ
+    .description = Hỗ trợ { -brand-short-name } với các đề xuất được tài trợ không thường xuyên.
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 addressbar-locbar-showrecentsearches-option =
     .label = Hiển thị các tìm kiếm gần đây
@@ -1657,6 +1671,9 @@ addressbar-locbar-suggest-sponsored-desc = Hỗ trợ { -brand-short-name } vớ
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Nhận các đề xuất từ Mozilla khi bạn nhập
+addressbar-dismissed-suggestions-label-2 =
+    .label = Đề xuất bị loại bỏ
+    .description = Khôi phục các đề xuất đã bị loại bỏ từ các nhà tài trợ và { -brand-short-name }.
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 addressbar-dismissed-suggestions-label = Đề xuất bị loại bỏ
 addressbar-restore-dismissed-suggestions-description = Khôi phục các đề xuất đã bị loại bỏ từ các nhà tài trợ và { -brand-short-name }.

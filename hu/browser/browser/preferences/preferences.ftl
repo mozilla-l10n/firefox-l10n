@@ -847,6 +847,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = K
 search-suggestions-cant-show-2 =
     .message = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
+addressbar-header-1 =
+    .label = Címsáv
+    .description = Válassza ki a címsávban megjelenő javaslatokat
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Javaslatok a { -brand-short-name }tól és a partnereinktől a címsorban.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -980,6 +987,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = A(z) { $email } nincs ellenőrizve.
 sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztatásához
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1464,7 +1476,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Sütibannerek automatikus elutasítása
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Címsáv
 addressbar-suggest-1 = Válassza ki a címsávban megjelenő javaslatokat
@@ -1508,6 +1520,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gyors műveletek
     .accesskey = r
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Javaslatok a { -brand-short-name }tól
+    .description = Kapjon a kereséséhez kapcsolódó javaslatokat a webről.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Szponzorált javaslatok
+    .description = A { -brand-short-name } támogatása az alkalmankénti szponzorált javaslatokkal
 addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 addressbar-locbar-showrecentsearches-option =
     .label = Legutóbbi keresések megjelenítése
@@ -1534,6 +1553,9 @@ addressbar-locbar-suggest-sponsored-desc = A { -brand-short-name } támogatása 
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Javaslatok lekérése a Mozillától gépelés közben
+addressbar-dismissed-suggestions-label-2 =
+    .label = Elutasított javaslatok
+    .description = A szponzoroktól és a { -brand-short-name }tól származó elutasított javaslatok helyreállítása.
 addressbar-quickactions-learn-more = További tudnivalók
 addressbar-dismissed-suggestions-label = Elutasított javaslatok
 addressbar-restore-dismissed-suggestions-description = A szponzoroktól és a { -brand-short-name }tól származó elutasított javaslatok helyreállítása.

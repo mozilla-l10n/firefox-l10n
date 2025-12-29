@@ -939,6 +939,13 @@ search-show-suggestions-private-windows-2 =
     .label = Awgrymiadau chwilio mewn ffenestri preifat
 search-suggestions-cant-show-2 =
     .message = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
+addressbar-header-1 =
+    .label = Bar Cyfeiriadau
+    .description = Dewiswch pa awgrymiadau sy'n cael eu dangos yn eich bar cyfeiriad
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Awgrymiadau gan { -brand-short-name } a'n partneriaid yn eich bar cyfeiriad.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1613,7 +1620,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Gwrthod baneri cwcis yn awtomatig
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bar Cyfeiriadau
 addressbar-suggest-1 = Dewiswch pa awgrymiadau sy'n cael eu dangos yn eich bar cyfeiriad
@@ -1663,6 +1670,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Awgrymiadau chwilio sy'n trendio
     .accesskey = A
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Awgrymiadau gan { -brand-short-name }
+    .description = Derbyn awgrymiadau o'r we am eich chwilio.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Awgrymiadau gan ein noddwyr
+    .description = Cefnogwch { -brand-short-name } drwy'r awgrymiadau noddedig achlysurol.
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 addressbar-locbar-showrecentsearches-option =
     .label = Dangos y chwilio diweddar
@@ -1689,6 +1703,9 @@ addressbar-locbar-suggest-sponsored-desc = Cefnogwch { -brand-short-name } drwy'
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Cael awgrymiadau gan Mozilla wrth i chi deipio
+addressbar-dismissed-suggestions-label-2 =
+    .label = Awgrymiadau wedi'u cau
+    .description = Adfer awgrymiadau wedi'u cau gan noddwyr a { -brand-short-name }.
 addressbar-quickactions-learn-more = Darllen rhagor
 addressbar-dismissed-suggestions-label = Awgrymiadau wedi'u cau
 addressbar-restore-dismissed-suggestions-description = Adfer awgrymiadau wedi'u cau gan noddwyr a { -brand-short-name }.

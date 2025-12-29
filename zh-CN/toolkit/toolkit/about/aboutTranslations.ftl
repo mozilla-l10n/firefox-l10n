@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = 输入文本以翻译
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = 检测语言
+about-translations-detect-default-label =
+    .label = 检测语言
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = 检测到{ $language }
+about-translations-detect-language-label =
+    .label = 检测到{ $language }
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = 译文
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = 选择语言
+about-translations-select-label =
+    .label = 选择语言
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = 正在翻译…
 # The title attribute for the swap languages button, which swaps the selected

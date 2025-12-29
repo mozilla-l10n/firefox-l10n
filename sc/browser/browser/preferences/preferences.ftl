@@ -527,6 +527,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -639,6 +642,12 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -732,6 +741,9 @@ search-show-suggestions-url-bar-option =
     .accesskey = i
 search-suggestions-cant-show-2 =
     .message = Is cussìgios de chirca no ant a èssere ammustrados in is resurtados de sa barra de positzione ca as cunfiguradu { -brand-short-name } in manera chi no regordet mai sa cronologia.
+addressbar-header-1 =
+    .label = Barra de indiritzos
+    .description = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -860,6 +872,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1291,7 +1308,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refuda in automàticu avisos de testimòngios
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra de indiritzos
 addressbar-suggest-1 = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
@@ -1331,6 +1348,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Atziones lestras
     .accesskey = A
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Cussìgios dae { -brand-short-name }
+    .description = Otene cussìgios de sa rete acapiados a sa chirca tua.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Cussìgios dae is ispònsors
+    .description = Sustene { -brand-short-name } cun propostas patrotzinadas in manera ocasionale.
 addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 addressbar-locbar-showrecentsearches-option =
     .label = Ammustra chircas reghentes
@@ -1349,6 +1373,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Otene cussìgios de sa rete acapia
 addressbar-locbar-suggest-sponsored-option =
     .label = Cussìgios dae is ispònsors
 addressbar-locbar-suggest-sponsored-desc = Sustene { -brand-short-name } cun propostas patrotzinadas in manera ocasionale.
+addressbar-dismissed-suggestions-label-2 =
+    .label = Cussìgios iscartados
+    .description = Ripristina is cussìgios iscartados dae is patrotzinadores e { -brand-short-name }.
 addressbar-quickactions-learn-more = Àteras informatziones
 addressbar-dismissed-suggestions-label = Cussìgios iscartados
 addressbar-restore-dismissed-suggestions-description = Ripristina is cussìgios iscartados dae is patrotzinadores e { -brand-short-name }.

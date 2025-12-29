@@ -891,6 +891,13 @@ search-show-suggestions-private-windows-2 =
     .label = Zoeksuggesties in privévensters
 search-suggestions-cant-show-2 =
     .message = Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u { -brand-short-name } hebt geconfigureerd om nooit geschiedenis te onthouden.
+addressbar-header-1 =
+    .label = Adresbalk
+    .description = Kies welke suggesties in uw adresbalk worden getoond
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggesties van { -brand-short-name } en onze partners in uw adresbalk.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1556,7 +1563,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Cookiebanners automatisch weigeren
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresbalk
 addressbar-suggest-1 = Kies welke suggesties in uw adresbalk worden getoond
@@ -1606,6 +1613,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Trending zoeksuggesties
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suggesties van { -brand-short-name }
+    .description = Ontvang suggesties van het web gerelateerd aan uw zoekopdracht.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Suggesties van sponsors
+    .description = Ondersteun { -brand-short-name } met af en toe gesponsorde suggesties.
 addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 addressbar-locbar-showrecentsearches-option =
     .label = Recente zoekopdrachten tonen
@@ -1632,6 +1646,9 @@ addressbar-locbar-suggest-sponsored-desc = Ondersteun { -brand-short-name } met 
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Suggesties van Mozilla ophalen terwijl u typt
+addressbar-dismissed-suggestions-label-2 =
+    .label = Gesloten suggesties
+    .description = Gesloten suggesties van sponsors en { -brand-short-name } herstellen.
 addressbar-quickactions-learn-more = Meer info
 addressbar-dismissed-suggestions-label = Gesloten suggesties
 addressbar-restore-dismissed-suggestions-description = Gesloten suggesties van sponsors en { -brand-short-name } herstellen.

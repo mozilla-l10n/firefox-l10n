@@ -527,6 +527,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -637,6 +640,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -859,6 +868,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1254,7 +1268,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Rexeitar automaticamente os avisos de cookies
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra de enderezos
 addressbar-suggest = Cando use a barra de enderezos, suxerir do
@@ -1290,6 +1304,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Accións rápidas
     .accesskey = r
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suxestións de { -brand-short-name }
+    .description = Recibe suxestións da web relacionadas coa túa busca.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Suxestións dos patrocinadores
+    .description = Apoia a { -brand-short-name } con suxestións patrocinadas ocasionais.
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar buscas recentes
@@ -1308,6 +1329,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Recibe suxestións da web relacion
 addressbar-locbar-suggest-sponsored-option =
     .label = Suxestións dos patrocinadores
 addressbar-locbar-suggest-sponsored-desc = Apoia a { -brand-short-name } con suxestións patrocinadas ocasionais.
+addressbar-dismissed-suggestions-label-2 =
+    .label = Suxestións descartadas
+    .description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.
 addressbar-quickactions-learn-more = Máis información
 addressbar-dismissed-suggestions-label = Suxestións descartadas
 addressbar-restore-dismissed-suggestions-description = Restaura as suxestións descartadas dos patrocinadores e de { -brand-short-name }.

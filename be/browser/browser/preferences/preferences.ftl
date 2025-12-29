@@ -591,6 +591,9 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць
@@ -861,6 +864,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = п
 search-suggestions-cant-show-2 =
     .message = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
+addressbar-header-1 =
+    .label = Адрасны радок
+    .description = Выберыце, якія прапановы будуць паказвацца ў адрасным радку
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Прапановы ад { -brand-short-name } і нашых партнёраў у вашым адрасным радку.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1483,7 +1493,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Аўтаматычна адхіляць банеры кукі
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Адрасны радок
 addressbar-suggest-1 = Выберыце, якія прапановы будуць паказвацца ў адрасным радку
@@ -1527,6 +1537,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Хуткія дзеянні
     .accesskey = Х
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Прапановы ад { -brand-short-name }
+    .description = Атрымлівайце прапановы з інтэрнэту, звязаныя з вашым пошукам.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Прапановы ад спонсараў
+    .description = Падтрымлівайце { -brand-short-name } выпадковымі спонсарскімі прапановамі.
 addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 addressbar-locbar-showrecentsearches-option =
     .label = Паказваць апошнія пошукі
@@ -1553,6 +1570,9 @@ addressbar-locbar-suggest-sponsored-desc = Падтрымлівайце { -brand
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Атрымліваць прапановы ад Mozilla ў часе ўводу тэксту
+addressbar-dismissed-suggestions-label-2 =
+    .label = Адхіленыя прапановы
+    .description = Аднавіць адхіленыя прапановы ад спонсараў і { -brand-short-name }.
 addressbar-quickactions-learn-more = Падрабязней
 addressbar-dismissed-suggestions-label = Адхіленыя прапановы
 addressbar-restore-dismissed-suggestions-description = Аднавіць адхіленыя прапановы ад спонсараў і { -brand-short-name }.

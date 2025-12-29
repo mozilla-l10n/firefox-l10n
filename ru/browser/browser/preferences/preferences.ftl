@@ -927,6 +927,13 @@ search-show-suggestions-private-windows-2 =
     .label = Поисковые предложения в приватных окнах
 search-suggestions-cant-show-2 =
     .message = При использовании адресной строки поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
+addressbar-header-1 =
+    .label = Адресная строка
+    .description = Выберите, какие предложения отображаются в вашей адресной строке
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Предложения от { -brand-short-name } и наших партнёров в вашей адресной строке.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1601,7 +1608,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Автоматически отказываться от уведомлениях о куки
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Адресная строка
 addressbar-suggest-1 = Выберите, какие предложения отображаются в вашей адресной строке
@@ -1651,6 +1658,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Популярные поисковые предложения
     .accesskey = е
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Предложения от { -brand-short-name }
+    .description = Получать предложения из сети на основе вашего поиска.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Предложения от спонсоров
+    .description = Поддержите { -brand-short-name } периодическими предложениями от спонсоров.
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-locbar-showrecentsearches-option =
     .label = Показать недавние поисковые запросы
@@ -1677,6 +1691,9 @@ addressbar-locbar-suggest-sponsored-desc = Поддержите { -brand-short-n
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Получать предложения от Mozilla по мере набора
+addressbar-dismissed-suggestions-label-2 =
+    .label = Скрытые предложения
+    .description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.
 addressbar-quickactions-learn-more = Подробнее
 addressbar-dismissed-suggestions-label = Скрытые предложения
 addressbar-restore-dismissed-suggestions-description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.

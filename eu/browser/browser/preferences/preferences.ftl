@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Bilaketa-iradokizunak leiho pribatuetan
 search-suggestions-cant-show-2 =
     .message = Bilaketa-iradokizunak ez dira helbide-barran erakutsiko { -brand-short-name }(e)k historia inoiz ez gogoratzeko konfiguratu duzulako.
+addressbar-header-1 =
+    .label = Helbide-barra
+    .description = Aukeratu helbide-barran bistaratu beharreko gomendioak.
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = { -brand-short-name }(r)en eta gure bazkideen iradokizunak zure helbide-barran.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automatikoki ukatu cookie iragarki-bandak
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Helbide-barra
 addressbar-suggest-1 = Aukeratu helbide-barran bistaratu beharreko gomendioak.
@@ -1647,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Bilaketa-joeren iradokizunak
     .accesskey = B
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name }(r)en gomendioak
+    .description = Eskuratu zure bilaketarekin erlazionatutako webean zeharreko gomendioak.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Babesleen gomendioak
+    .description = Lagundu { -brand-short-name } tartekako babesleen gomendioekin.
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 addressbar-locbar-showrecentsearches-option =
     .label = Erakutsi azken bilaketak
@@ -1673,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Lagundu { -brand-short-name } tarteka
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Eskuratu Mozillaren iradokizunak idatzi ahala
+addressbar-dismissed-suggestions-label-2 =
+    .label = Baztertutako gomendioak
+    .description = Berrezarri babesleengandik eta { -brand-short-name }(r)engandik baztertutako iradokizunak
 addressbar-quickactions-learn-more = Argibide gehiago
 addressbar-dismissed-suggestions-label = Baztertutako gomendioak
 addressbar-restore-dismissed-suggestions-description = Berrezarri babesleengandik eta { -brand-short-name }(r)engandik baztertutako iradokizunak

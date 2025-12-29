@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = Матнеро барои тарҷума илова кунед
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = Забонеро муайян намоед
+about-translations-detect-default-label =
+    .label = Забонеро муайян намоед
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $language } (муайян карда шуд)
+about-translations-detect-language-label =
+    .label = { $language } (муайян карда шуд)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Тарҷума
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = Забонеро интихоб намоед
+about-translations-select-label =
+    .label = Забонеро интихоб намоед
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = Дар ҳоли тарҷума…
 # The title attribute for the swap languages button, which swaps the selected

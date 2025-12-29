@@ -927,6 +927,13 @@ search-show-suggestions-private-windows-2 =
     .label = Prijedlozi za pretraživanje u privatnim prozorima
 search-suggestions-cant-show-2 =
     .message = Prijedlozi za pretraživanje se neće prikazati u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
+addressbar-header-1 =
+    .label = Adresna traka
+    .description = Odaberi prijedloge koji će se prikazati u adresnoj traci
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = { -brand-short-name } prijedlozi i prijedlozi naših partnera u tvojoj adresnoj traci.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1601,7 +1608,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automatski odbij dijaloge kolačića
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresna traka
 addressbar-suggest-1 = Odaberi prijedloge koji će se prikazati u adresnoj traci
@@ -1651,6 +1658,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Popularni prijedlozi za pretraživanje
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } prijedlozi
+    .description = Dobij prijedloge s weba koji se odnose na tvoju pretragu.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Prijedlozi od sponzora
+    .description = Podrži { -brand-short-name } s povremenim sponzoriranim prijedlozima.
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavne pretrage
@@ -1677,6 +1691,9 @@ addressbar-locbar-suggest-sponsored-desc = Podrži { -brand-short-name } s povre
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Dohvaćaj Mozilla prijedloge dok tipkaš
+addressbar-dismissed-suggestions-label-2 =
+    .label = Odbačeni prijedlozi
+    .description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
 addressbar-quickactions-learn-more = Saznaj više
 addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
 addressbar-restore-dismissed-suggestions-description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.

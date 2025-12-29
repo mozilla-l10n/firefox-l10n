@@ -861,6 +861,13 @@ search-show-suggestions-private-windows-2 =
     .label = Syksuggestjes yn priveefinsters
 search-suggestions-cant-show-2 =
     .message = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
+addressbar-header-1 =
+    .label = Adresbalke
+    .description = Kies hokker suggestjes yn jo adresbalke toand wurde
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggestjes fan { -brand-short-name } en ús partners yn jo adresbalke.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -999,6 +1006,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } is net ferifiearre.
 sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1513,7 +1525,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Cookiebanners automatysk wegerje
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresbalke
 addressbar-suggest-1 = Kies hokker suggestjes yn jo adresbalke toand wurde
@@ -1563,6 +1575,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Trending syksuggestjes
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suggestjes fan { -brand-short-name }
+    .description = Untfang suggestjes fan it web relatearre oan jo sykopdracht.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Suggestjes fan sponsors
+    .description = Stypje { -brand-short-name } mei sa no en dan sponsore suggestjes.
 addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 addressbar-locbar-showrecentsearches-option =
     .label = Resinte sykopdrachten toane
@@ -1589,6 +1608,9 @@ addressbar-locbar-suggest-sponsored-desc = Stypje { -brand-short-name } mei sa n
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Suggestjes fan Mozilla ophelje wylst jo type
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sletten suggestjes
+    .description = Sletten suggestjes fan sponsors en { -brand-short-name } opnij ynstelle.
 addressbar-quickactions-learn-more = Mear ynfo
 addressbar-dismissed-suggestions-label = Sletten suggestjes
 addressbar-restore-dismissed-suggestions-description = Sletten suggestjes fan sponsors en { -brand-short-name } opnij ynstelle.

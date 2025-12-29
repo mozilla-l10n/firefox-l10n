@@ -922,6 +922,13 @@ search-show-suggestions-private-windows-2 =
     .label = Пешниҳодҳои ҷустуҷӯ дар равзанаҳои хусусӣ
 search-suggestions-cant-show-2 =
     .message = Пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори ҷойгиршавӣ намоиш дода намешаванд, зеро ки шумо «{ -brand-short-name }»-ро танзим кардед, то таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад.
+addressbar-header-1 =
+    .label = Навори нишонӣ
+    .description = Интихоб кунед, ки кадом пешниҳодҳо дар навори нишонии шумо нишон дода мешаванд
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Пешниҳодҳо аз «{ -brand-short-name }» ва шарикони мо дар навори нишонии шумо.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1596,7 +1603,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Баннерҳои кукиро ба таври худкор рад намоед
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Навори нишонӣ
 addressbar-suggest-1 = Интихоб кунед, ки кадом пешниҳодҳо дар навори нишонии шумо нишон дода мешаванд
@@ -1646,6 +1653,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Пешниҳодҳои ҷустуҷӯи ҳавасангез
     .accesskey = П
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Пешниҳодҳо аз «{ -brand-short-name }»
+    .description = Гирифтани пешниҳодҳо аз Интернет дар асоси ҷустуҷӯи шумо.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Пешниҳодҳо аз сарпарастон
+    .description = Дастгирӣ кардани «{ -brand-short-name }» бо пешниҳодҳои тасодуфӣ аз сарпарастон
 addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
 addressbar-locbar-showrecentsearches-option =
     .label = Намоиш додани ҷустуҷӯҳои охирин
@@ -1672,6 +1686,9 @@ addressbar-locbar-suggest-sponsored-desc = Дастгирӣ кардани «{ -
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Ҳангоми чопкунии матн пешниҳодҳо аз «Mozilla» пешниҳод карда шаванд
+addressbar-dismissed-suggestions-label-2 =
+    .label = Пешниҳодҳои пинҳоншуда
+    .description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
 addressbar-quickactions-learn-more = Маълумоти бештар
 addressbar-dismissed-suggestions-label = Пешниҳодҳои пинҳоншуда
 addressbar-restore-dismissed-suggestions-description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
