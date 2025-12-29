@@ -869,6 +869,9 @@ search-show-suggestions-private-windows-2 =
     .label = 在隐私窗口中显示
 search-suggestions-cant-show-2 =
     .message = 由于您已经设置 { -brand-short-name } 不记录浏览历史，地址栏中将不会显示搜索建议。
+addressbar-header-1 =
+    .label = 地址栏
+    .description = 选择在地址栏中显示的建议
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1016,6 +1019,11 @@ sync-signedin-login-failure = 请登录以重新绑定 { $email }
 sync-signedin-login-failure2 =
     .label = 您已退出登录 { $email }
     .description = 再次登录以重新连接并开始同步您的数据。
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1530,7 +1538,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = 自动拒绝 Cookie 横幅
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = 地址栏
 addressbar-suggest-1 = 选择在地址栏中显示的建议
