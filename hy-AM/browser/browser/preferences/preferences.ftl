@@ -486,6 +486,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
@@ -716,6 +719,9 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
+addressbar-header-1 =
+    .label = Հասցեագոտի
+    .description = Ընտրեք Ձեր հասցեագոտում ցուցադրվող առաջարկները
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -840,6 +846,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1222,6 +1233,9 @@ sitedata-cookies-exceptions2 =
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
@@ -1229,7 +1243,7 @@ cookie-banner-learn-more = Իմանալ ավելին
 forms-handle-cookie-banners =
     .label = Նվազեցնել թխուկների ազդերիզները
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Հասցեագոտի
 addressbar-suggest-1 = Ընտրեք Ձեր հասցեագոտում ցուցադրվող առաջարկները
