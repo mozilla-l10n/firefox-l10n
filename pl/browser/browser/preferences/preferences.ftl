@@ -838,6 +838,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = e
 search-suggestions-cant-show-2 =
     .message = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
+addressbar-header-1 =
+    .label = Pasek adresu
+    .description = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu.
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Podpowiedzi od { -brand-short-name(case: "gen") } i naszych partnerów na pasku adresu.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1499,6 +1506,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-suggest-all-option-2 =
     .label = Podpowiedzi { -brand-short-name(case: "gen") }
     .description = Otrzymuj podpowiedzi z Internetu związane z wyszukiwanymi słowami.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Podpowiedzi sponsorów
+    .description = Wspieraj { -brand-short-name(case: "acc") }, od czasu do czasu wyświetlając sponsorowane podpowiedzi.
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 addressbar-locbar-showrecentsearches-option =
     .label = Ostatnie wyszukiwania
@@ -1525,6 +1535,9 @@ addressbar-locbar-suggest-sponsored-desc = Wspieraj { -brand-short-name(case: "a
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Pobieranie podpowiedzi od Mozilli podczas pisania
+addressbar-dismissed-suggestions-label-2 =
+    .label = Odrzucone podpowiedzi
+    .description = Przywróć odrzucone podpowiedzi sponsorów i { -brand-short-name(case: "gen") }.
 addressbar-quickactions-learn-more = Więcej informacji
 addressbar-dismissed-suggestions-label = Odrzucone podpowiedzi
 addressbar-restore-dismissed-suggestions-description = Przywróć odrzucone podpowiedzi sponsorów i { -brand-short-name(case: "gen") }.
