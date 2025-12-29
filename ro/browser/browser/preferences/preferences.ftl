@@ -428,6 +428,8 @@ settings-translations-subpage-never-translate-header =
     .label = Nu tradu niciodată aceste limbi
 settings-translations-subpage-never-translate-sites-header =
     .label = Nu tradu niciodată aceste site-uri
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Ca să adaugi un site, deschide panoul de traducere <img data-l10n-name="translations-icon"/>, selectează setările de traducere <img data-l10n-name="settings-icon"/>, apoi alege „Nu tradu niciodată acest site”
 settings-translations-subpage-language-select-option =
     .label = Adaugă o limbă
 settings-translations-subpage-language-add-button =
@@ -1019,6 +1021,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizare
+account-group-label =
+    .label = Cont { -vendor-short-name }
 account-placeholder =
     .label = Nu ești autentificat(ă).
     .description = Intră în cont ca să îți păstrezi datele private, criptate și sincronizate pe toate dispozitivele.
@@ -1425,6 +1429,9 @@ payments-list-item-label = <strong>Metode de plată</strong>
 payments-delete-payment-prompt-title = Ștergi această metodă de plată?
 payments-delete-payment-prompt-confirm-button = Șterge
 payments-delete-payment-prompt-cancel-button = Anulează
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nu a fost adăugată nicio metodă de plată
 payments-remove-payment-prompt-title = Ștergi această metodă de plată?
 payments-remove-payment-prompt-confirm-button = Elimină
 payments-remove-payment-prompt-cancel-button = Anulează
@@ -1449,6 +1456,9 @@ addresses-delete-address-prompt-cancel-button = Anulează
 autofill-addresses-add-button = Adaugă o adresă nouă
 autofill-addresses-manage-addresses-title =
     .heading = Gestionează adresele și multe altele
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nu a fost adăugată nicio adresă
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1692,6 +1702,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugestii respinse
     .description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaurează suggestiile
 addressbar-quickactions-learn-more = Află mai multe
 addressbar-dismissed-suggestions-label = Sugestii respinse
 addressbar-restore-dismissed-suggestions-description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.

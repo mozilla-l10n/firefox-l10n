@@ -533,6 +533,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nu ești conectat în mod securizat la acest site.
 identity-connection-verified = Ești conectat în mod securizat la acest site.
 identity-ev-owner-label = Certificat emis către:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Calificat conform specificațiilor din Regulamentul (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nu recunoaște acest emițător de certificate. Este posibil să fi fost adăugat de sistemul tău de operare sau de un administrator.
 identity-remove-cert-exception =
     .label = Elimină excepția
