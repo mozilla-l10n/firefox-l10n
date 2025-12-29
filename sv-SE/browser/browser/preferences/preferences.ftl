@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Sökförslag i privata fönster
 search-suggestions-cant-show-2 =
     .message = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
+addressbar-header-1 =
+    .label = Adressfält
+    .description = Välj vilka förslag som ska visas i adressfältet
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Förslag från { -brand-short-name } och våra partners i ditt adressfält.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
