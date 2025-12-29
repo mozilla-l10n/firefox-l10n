@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-group-label =
+    .label = { -vendor-short-name } konto
 account-placeholder =
     .label = Du är inte inloggad
     .description = Logga in för att hålla din data privat, krypterad och synkroniserad mellan enheter.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Betalningsmetoder</strong>
 payments-delete-payment-prompt-title = Ta bort den här betalningsmetoden?
 payments-delete-payment-prompt-confirm-button = Ta bort
 payments-delete-payment-prompt-cancel-button = Avbryt
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Inga betalningsmetoder har lagts till
 payments-remove-payment-prompt-title = Ta bort den här betalningsmetoden?
 payments-remove-payment-prompt-confirm-button = Ta bort
 payments-remove-payment-prompt-cancel-button = Avbryt
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Avbryt
 autofill-addresses-add-button = Lägg till ny adress
 autofill-addresses-manage-addresses-title =
     .heading = Hantera adresser och mer
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Inga adresser har lagts till
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Avvisade förslag
     .description = Återställ avvisade förslag från sponsorer och { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Återställ förslag
 addressbar-quickactions-learn-more = Läs mer
 addressbar-dismissed-suggestions-label = Avvisade förslag
 addressbar-restore-dismissed-suggestions-description = Återställ avvisade förslag från sponsorer och { -brand-short-name }.

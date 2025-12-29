@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Översättning
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Kopiera
+    .title = Kopiera översättning
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Kopierad
+    .title = Kopiera översättning
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Välj språk
@@ -42,3 +50,6 @@ about-translations-translating-message = Översätter…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Byt språk
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Tydlig källtext

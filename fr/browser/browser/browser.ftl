@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Votre connexion à ce site n’est pas sécurisée.
 identity-connection-verified = Votre connexion à ce site est sécurisée.
 identity-ev-owner-label = Certificat émis pour :
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Qualifié conformément au règlement (UE) n°2024/1184.
 identity-description-custom-root2 = Mozilla ne reconnaît pas cet émetteur de certificat. Il a peut-être été ajouté à partir de votre système d’exploitation ou par un administrateur.
 identity-remove-cert-exception =
     .label = Supprimer l’exception

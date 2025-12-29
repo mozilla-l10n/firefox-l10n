@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronisation
+account-group-label =
+    .label = { -vendor-short-name } compte
 account-placeholder =
     .label = Votre compte n’est pas connecté
     .description = Connectez-vous pour que vos données restent privées, chiffrées et synchronisées sur tous vos appareils.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Moyens de paiement</strong>
 payments-delete-payment-prompt-title = Supprimer ce moyen de paiement ?
 payments-delete-payment-prompt-confirm-button = Supprimer
 payments-delete-payment-prompt-cancel-button = Annuler
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Aucun mode de paiement ajouté
 payments-remove-payment-prompt-title = Supprimer ce moyen de paiement ?
 payments-remove-payment-prompt-confirm-button = Supprimer
 payments-remove-payment-prompt-cancel-button = Annuler
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Annuler
 autofill-addresses-add-button = Ajouter une nouvelle adresse
 autofill-addresses-manage-addresses-title =
     .heading = Gérer les adresses et les autres informations
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Aucune adresse ajoutée
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Suggestions rejetées
     .description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Suggestions de restauration
 addressbar-quickactions-learn-more = En savoir plus
 addressbar-dismissed-suggestions-label = Suggestions rejetées
 addressbar-restore-dismissed-suggestions-description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.

@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 identity-connection-verified = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
 identity-ev-owner-label = Гувоҳнома дода шуд ба:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Мувофиқи талабот ва меъёрҳои Низомномаи (ИА) 2024/1183 тахассус дорад.
 identity-description-custom-root2 = Mozilla ин барорандаи гувоҳномаро эътироф намекунад. Эҳтимол аст, ки он аз тарафи низоми амалкунандаи шумо ё аз ҷониби маъмур илова карда шуд.
 identity-remove-cert-exception =
     .label = Тоза кардани истисно

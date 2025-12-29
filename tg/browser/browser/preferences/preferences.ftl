@@ -1016,6 +1016,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Ҳамоҳангсозӣ
+account-group-label =
+    .label = Ҳисоби «{ -vendor-short-name }»
 account-placeholder =
     .label = Шумо ворид нашудаед
     .description = Барои нигоҳ доштани маълумоти худ ба таври махфӣ, рамзгузоришуда ва ҳамоҳангшуда байни дастгоҳҳо, ворид шавед.
@@ -1422,6 +1424,9 @@ payments-list-item-label = <strong>Тарзҳои пардохт</strong>
 payments-delete-payment-prompt-title = Ин тарзи пардохтро нест мекунед?
 payments-delete-payment-prompt-confirm-button = Нест кардан
 payments-delete-payment-prompt-cancel-button = Бекор кардан
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Ягон тарзи пардохт илова карда нашуд
 payments-remove-payment-prompt-title = Ин тарзи пардохтро тоза мекунед?
 payments-remove-payment-prompt-confirm-button = Тоза кардан
 payments-remove-payment-prompt-cancel-button = Бекор кардан
@@ -1446,6 +1451,9 @@ addresses-delete-address-prompt-cancel-button = Бекор кардан
 autofill-addresses-add-button = Илова кардани нишонии нав
 autofill-addresses-manage-addresses-title =
     .heading = Идоракунии нишониҳо ва ғайра
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ягон нишонӣ илова карда нашуд
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1689,6 +1697,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Пешниҳодҳои пинҳоншуда
     .description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Барқарор кардани пешниҳодҳо
 addressbar-quickactions-learn-more = Маълумоти бештар
 addressbar-dismissed-suggestions-label = Пешниҳодҳои пинҳоншуда
 addressbar-restore-dismissed-suggestions-description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
