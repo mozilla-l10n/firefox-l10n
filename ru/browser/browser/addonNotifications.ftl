@@ -49,23 +49,23 @@ xpinstall-disabled-button =
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблокировано вашим системным администратором.
+addon-install-blocked-by-policy = «{ $addonName }» ({ $addonId }) заблокировано вашим системным администратором.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш системный администратор запретил этому сайту запрашивать установку ПО на ваш компьютер.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
-addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) заблокирован вашей организацией.
+addon-installation-blocked-by-policy = «{ $addonName }» ({ $addonId }) заблокирован вашей организацией.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = Ваша организация заблокировала запрос на установку программного обеспечения с этого сайта на ваш компьютер.
 addon-install-full-screen-blocked = Установка дополнений не разрешена во время или перед входом в полноэкранный режим.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
-webext-perms-sideload-menu-item = { $addonName } добавлено в { -brand-short-name }
+webext-perms-sideload-menu-item = «{ $addonName }» добавлено в { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
-webext-perms-update-menu-item = { $addonName } запрашивает новые разрешения
+webext-perms-update-menu-item = «{ $addonName }» запрашивает новые разрешения
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -130,22 +130,22 @@ addon-confirm-install-some-unsigned-message =
 addon-install-error-network-failure = Дополнение не может быть скачано из-за ошибки соединения.
 addon-install-error-incorrect-hash = Дополнение не может быть установлено, так как оно не соответствует дополнению, ожидаемому { -brand-short-name }.
 addon-install-error-corrupt-file = Дополнение, скачанное с этого сайта, не может быть установлено, так как оно, по-видимому, повреждено.
-addon-install-error-file-access = { $addonName } не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
+addon-install-error-file-access = «{ $addonName }» не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
 addon-install-error-not-signed = { -brand-short-name } заблокировал установку непроверенного дополнения с этого сайта.
-addon-install-error-invalid-domain = Дополнение { $addonName } не может быть установлено из этого расположения.
+addon-install-error-invalid-domain = Дополнение «{ $addonName }» не может быть установлено из этого расположения.
 addon-install-error-no-addon-name-file-access = Дополнение не может быть установлено, так как { -brand-short-name } не может изменить необходимый файл.
 addon-local-install-error-network-failure = Это дополнение не может быть установлено из-за ошибки файловой системы.
 addon-local-install-error-incorrect-hash = Это дополнение не может быть установлено, так как оно не соответствует дополнению, ожидаемому { -brand-short-name }.
 addon-local-install-error-corrupt-file = Это дополнение не может быть установлено, так как оно, по-видимому, повреждено.
-addon-local-install-error-file-access = { $addonName } не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
+addon-local-install-error-file-access = «{ $addonName }» не может быть установлено, так как { -brand-short-name } не может изменить нужный файл.
 addon-local-install-error-not-signed = Это дополнение не может быть установлено, так как оно не было проверено.
 addon-local-install-no-addon-name-error-file-access = Дополнение не может быть установлено, так как { -brand-short-name } не может изменить необходимый файл.
 # Variables:
 #   $appVersion (String): the application version.
-addon-install-error-incompatible = { $addonName } не может быть установлено, так как оно не совместимо с { -brand-short-name } { $appVersion }.
-addon-install-error-hard-blocked = { $addonName } нарушает политики Mozilla и не может быть установлено на { -brand-short-name }.
-addon-install-error-soft-blocked2 = { $addonName } ограничено и не может быть установлено на { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } не может быть установлено, так как есть высокий риск, что оно вызовет проблемы со стабильностью или безопасностью.
-addon-install-error-soft-blocked = { $addonName } нарушает политики Mozilla и не может быть установлено на { -brand-short-name }.
+addon-install-error-incompatible = «{ $addonName }» не может быть установлено, так как оно не совместимо с { -brand-short-name } { $appVersion }.
+addon-install-error-hard-blocked = «{ $addonName }» нарушает политики Mozilla и не может быть установлено в { -brand-short-name }.
+addon-install-error-soft-blocked2 = «{ $addonName }» ограничено и не может быть установлено в { -brand-short-name }.
+addon-install-error-blocklisted = «{ $addonName }» не может быть установлено, так как есть высокий риск, что оно вызовет проблемы со стабильностью или безопасностью.
+addon-install-error-soft-blocked = «{ $addonName }» нарушает политики Mozilla и не может быть установлено в { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
-addon-install-error-admin-install-only = Вы не можете установить { $addonName } как конечный пользователь, оно может быть установлено только организацией, использующей корпоративные политики.
+addon-install-error-admin-install-only = Вы не можете установить «{ $addonName }» как конечный пользователь, оно может быть установлено только организацией, использующей корпоративные политики.

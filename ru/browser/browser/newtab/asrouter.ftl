@@ -281,7 +281,7 @@ device-migration-fxa-spotlight-sync-primary-button = Начало работы
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Сделать { -brand-short-name } программой чтения PDF-файлов по умолчанию?</strong> Используйте { -brand-short-name } для чтения и редактирования PDF-файлов, сохраненных на вашем компьютере.
+pdf-default-notification-message = <strong>Сделать { -brand-short-name } программой чтения PDF-файлов по умолчанию?</strong> Используйте { -brand-short-name } для чтения и редактирования PDF-файлов, сохранённых на вашем компьютере.
 pdf-default-notification-set-default-button =
     .label = Установить по умолчанию
 pdf-default-notification-decline-button =
@@ -349,7 +349,7 @@ fxa-menu-message-backup-data-primary-text = Создайте резервную 
 fxa-menu-message-backup-data-secondary-text = Автоматически защищайте закладки, пароли и другую информацию на всех ваших устройствах.
 fxa-menu-message-backup-data-collapsed-text = Создайте резервную копию данных браузера
 fxa-menu-message-backup-sync-primary-text = Обеспечьте безопасность и синхронизацию своих данных
-fxa-menu-message-backup-sync-secondary-text = Синхронизация создает резервные копии большей части ваших данных, чтобы вы могли получить к ним доступ, где бы вы ни использовали { -brand-short-name }.
+fxa-menu-message-backup-sync-secondary-text = Синхронизация создаёт резервные копии большей части ваших данных, чтобы вы могли получить к ним доступ, где бы вы ни использовали { -brand-short-name }.
 fxa-menu-message-backup-sync-collapsed-text = Синхронизация и резервное копирование данных
 fxa-menu-message-mobile-primary-text = Отправляйте вкладки на телефон
 fxa-menu-message-mobile-secondary-text = Мгновенно продолжайте с того места, на котором остановились, когда вы синхронизируете вкладки с мобильным устройством.

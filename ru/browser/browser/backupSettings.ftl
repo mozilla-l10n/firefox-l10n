@@ -96,7 +96,7 @@ restore-from-backup-header = Восстановите свои данные
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = Это приведет к замене всех ваших текущих данных { -brand-short-name } на резервную копию, созданную в { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+    .message = Это приведёт к замене всех ваших текущих данных { -brand-short-name } на резервную копию, созданную в { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Что будет восстановлено?
 restore-from-backup-no-backup-file-link = Проблемы с поиском резервной копии?
@@ -215,14 +215,14 @@ backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DAT
 backup-file-how-to-restore-header = Как восстановить:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-moz-browser-restore-step-1 = Откройте меню ☰ приложения и выберите Настройки > Синхронизация
+backup-file-moz-browser-restore-step-1 = Откройте меню ☰ приложения и выберите «Настройки» > «Синхронизация»
 backup-file-moz-browser-restore-step-2 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-moz-browser-restore-step-3 = Перезапустите { -brand-short-name } по запросу
 backup-file-other-browser-restore-step-1 = Скачайте и установите { -brand-short-name }
 backup-file-download-moz-browser-button = Скачать
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
-backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню ☰ приложения и выберите Настройки > Синхронизация
+backup-file-other-browser-restore-step-2 = Запустите { -brand-short-name }, откройте меню ☰ приложения и выберите «Настройки» > «Синхронизация»
 backup-file-other-browser-restore-step-3 = Нажмите «Выбрать файл с резервной копией» и выберите этот файл
 backup-file-other-browser-restore-step-4 = Перезапустите { -brand-short-name } по запросу
 

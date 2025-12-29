@@ -78,7 +78,7 @@ connection-proxy-socks-remote-dns =
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
-    .label = { $name } (По умолчанию)
+    .label = { $name } (по умолчанию)
     .tooltiptext = Использовать URL по умолчанию для разрешения DNS через HTTPS
 connection-dns-over-https-url-custom =
     .label = Другой URL

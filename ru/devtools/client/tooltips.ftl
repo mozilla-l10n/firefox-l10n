@@ -76,7 +76,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> не влияет на этот элемент, поскольку он фрагментирован, т.е. его содержимое разбито на несколько столбцов или страниц.
 inactive-css-no-width-height = <strong>{ $property }</strong> не сработает для элемента, так как не могут быть установлены его width и height.
-inactive-css-no-principal-box = <strong>{ $property }</strong> не сработает для элемента, так как он не создает основной блок.
+inactive-css-no-principal-box = <strong>{ $property }</strong> не сработает для элемента, так как он не создаёт основной блок.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

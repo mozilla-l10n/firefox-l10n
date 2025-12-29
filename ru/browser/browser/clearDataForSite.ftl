@@ -5,7 +5,7 @@
 clear-data-for-site-title = Удалить все данные с этого веб-сайта?
 # Variables:
 #   $site (string) - Website name
-clear-data-for-site-list = Это приведет к удалению всех данных с { $site }, включая:
+clear-data-for-site-list = Это приведёт к удалению всех данных с { $site }, включая:
 clear-data-for-site-browsing-history = Журнал посещений и загрузок
 clear-data-for-site-cookies = Куки и данные сайтов, которые могут привести к выходу из аккаунта на сайте
 clear-data-for-site-cache = Кешированные файлы и страницы

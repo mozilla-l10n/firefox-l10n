@@ -112,7 +112,7 @@ policy-OfferToSaveLoginsDefault = Устанавливает значение п
 policy-OverrideFirstRunPage = Переопределяет первую страницу после запуска. Установите эту политику в пустую, если хотите отключить первую страницу после запуска.
 policy-OverridePostUpdatePage = Переопределяет страницу «Что нового», открывающуюся после обновления. Установите эту политику в пустую, если хотите отключить страницу, открывающуюся после обновления.
 policy-PasswordManagerEnabled = Включает сохранение паролей в менеджере паролей.
-policy-PasswordManagerExceptions = Запрещает { -brand-short-name } сохранять пароли для определенных сайтов.
+policy-PasswordManagerExceptions = Запрещает { -brand-short-name } сохранять пароли для определённых сайтов.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
 # computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
 policy-PostQuantumKeyAgreementEnabled = Включает постквантовое согласование ключей для TLS.

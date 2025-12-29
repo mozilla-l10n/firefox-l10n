@@ -348,7 +348,7 @@ preferences-contrast-control-use-platform-settings =
     .label = Автоматически (использовать системные настройки)
     .accesskey = Ф
 preferences-contrast-control-off =
-    .label = Выкл.
+    .label = Откл.
     .accesskey = Щ
 preferences-contrast-control-custom =
     .label = Персональная
@@ -740,7 +740,7 @@ home-restore-defaults =
     .label = Восстановить по умолчанию
     .accesskey = о
 home-mode-choice-default-fx =
-    .label = { -firefox-home-brand-name(case: "nominative") } (По умолчанию)
+    .label = { -firefox-home-brand-name(case: "nominative_uppercase") } (по умолчанию)
 home-mode-choice-custom =
     .label = Мои URL-адреса…
 home-mode-choice-blank =
@@ -752,9 +752,9 @@ home-homepage-manage-extension-button =
     .label = Управление расширением
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
-    .label = Выбрать определенный сайт
+    .label = Выбрать определённый сайт
 # This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Выбрать определенный сайт
+home-homepage-custom-homepage-url = Выбрать определённый сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -800,7 +800,7 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Содержимое { -firefox-home-brand-name(case: "genitive") }
-home-prefs-content-header3 = { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name(case: "nominative_uppercase") }
 home-prefs-content-description2 = Выберите, какое содержимое вы хотите видеть на экране { -firefox-home-brand-name(case: "genitive") }.
 home-prefs-search-header =
     .label = Поиск в Интернете
@@ -812,7 +812,7 @@ home-prefs-shortcuts-description = Сохранённые или посещае�
 home-prefs-shortcuts-by-option-sponsored =
     .label = Спонсируемые ярлыки
 home-prefs-content-header =
-    .label = { -firefox-home-brand-name }
+    .label = { -firefox-home-brand-name(case: "nominative_uppercase") }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1540,7 +1540,7 @@ history-clear-button =
 sitedata-header = Куки и данные сайтов
 sitedata-label =
     .aria-label = { sitedata-header }
-sitedata-total-size-calculating = Вычисление объема данных сайтов и кеша…
+sitedata-total-size-calculating = Вычисление объёма данных сайтов и кеша…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1774,13 +1774,13 @@ content-blocking-and-isolating-etp-warning-description-2 = Эта настрой
 content-blocking-warning-learn-how = Подробнее
 content-blocking-baseline-exceptions-3 =
     .label = Устранение основных проблем с сайтами (рекомендуется)
-    .description = Помогает загружать сайты и функции, разблокируя только необходимые элементы, которые могут содержать трекеры. Покрывает наиболее распространенные проблемы.
+    .description = Помогает загружать сайты и функции, разблокируя только необходимые элементы, которые могут содержать трекеры. Покрывает наиболее распространённые проблемы.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
     .label = Устранение незначительных проблем с сайтами
     .description = Восстанавливает такие вещи, как видео в статье или комментарии, разблокируя элементы, которые могут содержать трекеры. Это может уменьшить проблемы с сайтом, но даст более слабую защиту. Должен использоваться с исправлениями для основных проблем.
 content-blocking-baseline-uncheck-warning-dialog-title = Вы уверены, что хотите отключить исправления?
-content-blocking-baseline-uncheck-warning-dialog-body = Эта настройка помогает устранить наиболее распространенные проблемы с сайтами. Если вы отключите её, некоторые сайты могут не работать, и { -brand-short-name } не сможет помочь устранить эти проблемы.
+content-blocking-baseline-uncheck-warning-dialog-body = Эта настройка помогает устранить наиболее распространённые проблемы с сайтами. Если вы отключите её, некоторые сайты могут не работать, и { -brand-short-name } не сможет помочь устранить эти проблемы.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Отключить исправления
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Оставить исправления включёнными
 content-blocking-reload-description = Вам понадобится обновить свои вкладки, чтобы применить эти изменения.
