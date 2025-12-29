@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-group-label =
+    .label = { -vendor-short-name }-konto
 account-placeholder =
     .label = Du er ikkje innlogga
     .description = Logg inn for å halde dataa dine private, krypterte og synkroniserte på tvers av einingar.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Betalingsmåtar</strong>
 payments-delete-payment-prompt-title = Slette denne betalingsmåten?
 payments-delete-payment-prompt-confirm-button = Slett
 payments-delete-payment-prompt-cancel-button = Avbryt
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Ingen betalingsmåtar lagt til
 payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
 payments-remove-payment-prompt-confirm-button = Fjern
 payments-remove-payment-prompt-cancel-button = Avbryt
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Avbryt
 autofill-addresses-add-button = Legg til ny adresse
 autofill-addresses-manage-addresses-title =
     .heading = Handsam adresser, og meir
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ingen adresser lagt til
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Avviste forslag
     .description = Gjenopprett avviste forslag frå sponsorar og { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Gjenopprett forslag
 addressbar-quickactions-learn-more = Les meir
 addressbar-dismissed-suggestions-label = Avviste forslag
 addressbar-restore-dismissed-suggestions-description = Gjenopprett avviste forslag frå sponsorar og { -brand-short-name }.
