@@ -163,7 +163,7 @@ connectionFailure-title = Connessione non riuscita
 deniedPortAccess-title = Questo indirizzo è bloccato
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Uhm… non riusciamo a trovare questo sito.
+dnsNotFound-title = Uhm… Non riusciamo a trovare questo sito.
 internet-connection-offline-title = Sembra che ci sia un problema con la connessione a Internet.
 dns-not-found-trr-only-title2 = Potenziale rischio per la sicurezza durante la ricerca di questo dominio
 dns-not-found-native-fallback-title2 = Potenziale rischio per la sicurezza durante la ricerca di questo dominio
@@ -173,7 +173,7 @@ generic-title = Oops.
 captivePortal-title = Accedi alla rete
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Uhm… l’indirizzo non sembra corretto.
+malformedURI-title = Uhm… L’indirizzo non sembra corretto.
 netInterrupt-title = La connessione è stata interrotta
 notCached-title = Documento scaduto
 netOffline-title = Non in linea
