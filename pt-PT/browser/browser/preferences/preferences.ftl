@@ -527,6 +527,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -637,6 +640,12 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -859,6 +868,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1254,7 +1268,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Recusar automaticamente faixas de cookies
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra de endereço
 addressbar-suggest = Ao utilizar a barra de endereço, sugerir
@@ -1290,6 +1304,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ações rápidas
     .accesskey = Q
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugestões do { -brand-short-name }
+    .description = Obtenha sugestões da Internet relacionadas com a sua pesquisa
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugestões de patrocinadores
+    .description = Apoie o { -brand-short-name } com sugestões patrocinadas ocasionais.
 addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar pesquisas recentes
