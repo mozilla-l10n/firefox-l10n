@@ -872,6 +872,10 @@ search-suggestions-cant-show-2 =
 addressbar-header-1 =
     .label = 地址栏
     .description = 选择在地址栏中显示的建议
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = 在地址栏显示来自 { -brand-short-name } 及我们的合作伙伴的建议。
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1621,6 +1625,9 @@ addressbar-locbar-suggest-sponsored-desc = 不定期提供赞助商建议以支�
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = 在键入时获取来自 Mozilla 的建议
+addressbar-dismissed-suggestions-label-2 =
+    .label = 忽略的建议
+    .description = 恢复显示已忽略的赞助商和 { -brand-short-name } 的建议。
 addressbar-quickactions-learn-more = 详细了解
 addressbar-dismissed-suggestions-label = 忽略的建议
 addressbar-restore-dismissed-suggestions-description = 恢复显示已忽略的赞助商和 { -brand-short-name } 的建议。
