@@ -65,6 +65,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = و من ٱووڌن سی هوم گوم کردن…
 appmenu-remote-tabs-turn-on-sync =
     .label = رۊشن کردن هوم گوم کردن…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = نشووݩ داڌن بلگه یل قلوه
+    .tooltiptext = نشووݩ داڌن بلگه یل قلوه ز ای دسگا
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = بلگه یل قیر فعال
+    .tooltiptext = نیشتن بلگه یل قیر فعال من ای دسگا
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بؽ بلگه واز
 appmenu-remote-tabs-opensettings =
