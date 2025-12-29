@@ -528,6 +528,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = 이 사이트에 안전하게 연결되어 있지 않습니다.
 identity-connection-verified = 이 사이트에 안전하게 연결되어 있습니다.
 identity-ev-owner-label = 인증서 발급 대상:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = 규정 (EU) 2024/1183에 명시된 대로 자격 요건을 충족합니다.
 identity-description-custom-root2 = Mozilla는 이 인증서 발급자를 인식하지 못합니다. 운영 체제 또는 관리자가 추가한 것일 수 있습니다.
 identity-remove-cert-exception =
     .label = 예외 제거

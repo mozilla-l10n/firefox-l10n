@@ -87,6 +87,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = Apo cumprèndidu
 bookmarks-toolbar-callout-2a-secondary-button-label = Cua sa barra de ainas
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Boles mantènnere sa barra de sinnalibros aberta?
+bookmarks-toolbar-callout-2b-subtitle = Podes agiùnghere àteros sitos chi visitas prus a fitianu. Traga ischedas inoghe pro tènnere prus sitos preferidos a portada.
 bookmarks-toolbar-callout-2b-primary-button-label = Lassa·dda aberta
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = No, gràtzias
@@ -113,19 +114,31 @@ fxa-adoption-passwords-primary-button-label = Registra·ti
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Mantene is lìnias de tempus preferidas in sa barra de tareas
+taskbar-tabs-social-callout-subtitle = Avia is retes sotziales tuas comente un’aplicatzione in una ventana simplificada amparada dae { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Tzarra dae sa barra de tareas
 taskbar-tabs-email-callout-title = Tene sa posta eletrònica tua in sa barra de is tareas
+taskbar-tabs-email-callout-subtitle = Avia su gestore de posta eletrònica tuo comente un’aplicatzione in una ventana simplificada amparada dae { -brand-short-name }.
+taskbar-tabs-media-callout-title = Torra a sa trasmissione dae sa barra de tareas
 taskbar-tabs-value-prop-callout-title = Agiunghe custu situ a sa barra de tareas
+taskbar-tabs-value-prop-callout-subtitle = Avia·ddu in sa ventanedda sua cun un’interfache simplificada cun unu clic isceti.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Non perdas totu su chi as sarvadu durante sa tràmuda a Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Sincroniza immoe pro mantènnere is sinnalibros, is craes e is cunfiguratziones de { -brand-short-name } in seguresa e ddos potzas recuperare.
 windows-10-eos-sync-urgency-title-2 = A ses lassende Windows 10? Ampara is datos tuos cando cando passas a un’àteru sistema.
+windows-10-eos-sync-new-device-title-1 = Non timas a torrare a incumentzare dae un’àteru dispositivu.
+windows-10-eos-sync-new-device-subtitle-1 = Sincroniza pro impreare sinnalibros, craes e cunfiguratziones de { -brand-short-name } cando ti moves.
+windows-10-eos-sync-new-device-title-2 = Ses cambiende de dispositivu? Non ti perdas su chi t’interessat.
+windows-10-eos-sync-new-device-subtitle-2 = No importat cantu impreas { -brand-short-name } a fitianu; sa sincronizatzione amparat sinnalibros, craes e cunfiguratziones.
 windows-10-eos-sync-new-device-primary-label = Sincroniza immoe
 windows-10-eos-sync-general-title-1 = Ampara sa versione personalizada tua de { -brand-short-name }.
+windows-10-eos-sync-general-subtitle-1 = Sarva e sincroniza craes, sinnalibros, cunfiguratziones e àteros datos pro amparare su chi est de importu pro tue.
 windows-10-eos-sync-general-title-2 = Est unu momentu bonu pro fàghere una còpia de seguresa de is craes e is sinnalibros.
+windows-10-eos-sync-general-subtitle-2 = Sincroniza immoe pro amparare su chi as afidadu a { -brand-short-name } e recùpera·ddos in cale si siat momentu e logu.
 windows-10-eos-sync-tour-title-1 = Tropu ischedas? Organiza·ti cun is grupos de ischedas.
+windows-10-eos-sync-tour-subtitle-1 = Traga un’ischeda a subra de un’àtera pro creare unu grupu e ddas mantènnere organizadas.
 windows-10-eos-sync-tour-title-2 = Prepara·ti pro Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Sincroniza is sinnalibros, is craes e is cunfiguratziones comente còpia de seguresa in antis de fàghere su càmbiu.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
@@ -143,6 +156,9 @@ link-preview-onboarding-callout-description = Bide una descritzione breve, su te
 sidebar-button-callout-title = Ammustra tìtulos de is ischedas in sa barra laterale
 sidebar-button-callout-subtitle = Imprea su butone pro ismanniare sa barra laterale, in manera chi potzas bìdere is tìtulos de is ischedas.
 sidebar-button-callout-vertical-tabs = Pro ammustrare is ischedas, sèbera su butone de sa barra laterale in sa barra de tareas.
+sidebar-deprecation-callout-title = Sa barra laterale noa at arribare de immoe a pagu.
+sidebar-deprecation-callout-subtitle = Semus abbandonende a pagu a pagu sa versione de barra laterale chi ses impreende. Proa sa versione noa: est prus lestra e cun prus trastos.
+sidebar-deprecation-cta-button = Proa·dda immoe
 
 ## Sidebar Vertical Tabs Strings
 
@@ -162,8 +178,10 @@ sidebar-pins-callout-cta-button = Apica s’ischeda
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Tene is ischedas de importu a portada
+pin-tabs-callout-1-subtitle = Traga un’ischeda a s’incumentzu de sa barra de is ischedas pro dd’apicare, opuru faghe clic cun su tastu de manu dereta e sèbera Apica s’ischeda.
 pin-tabs-callout-cta-1-button = Apica custa ischeda
 pin-tabs-callout-2-title = Apica is ischedas chi bìsitas de prus
+pin-tabs-callout-2-subtitle = Pro apicare un’ischeda, traga·dda a s’incumentzu de sa barra de is ischedas. O faghe clic cun su tastu de manu dereta e sèbera Apica s’ischeda.
 pin-tabs-callout-cta-2-button = Apica custa ischeda
 pin-tabs-callout-3-title = Tene is sitos de importu a portada
 pin-tabs-callout-4-title = Apica is sitos chi bìsitas de prus

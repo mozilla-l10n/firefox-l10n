@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Cantzella { $provider }
 genai-menu-remove-sidebar =
     .label = Boga dae sa barra laterale
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Pregunta a { $provider }
 genai-menu-new-badge = Nou
 genai-menu-summarize-page = Resumina sa pàgina
 genai-input-ask-generic =

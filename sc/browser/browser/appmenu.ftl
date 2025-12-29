@@ -213,6 +213,8 @@ profiler-popup-presets-debug-description = Precunfiguratzione pro currègere fad
 profiler-popup-presets-debug-label =
     .label = Curregi faddinas
 profiler-popup-presets-web-compat-description = Cunfiguratzione cussigiada pro sa curretzione de faddinas de cumpatibilidade in is sitos web, prus chi non pro monitorare su rendimentu.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilidade web
 profiler-popup-presets-custom-label =
     .label = Personalizadu
 

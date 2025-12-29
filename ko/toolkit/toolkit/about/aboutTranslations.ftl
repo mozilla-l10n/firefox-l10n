@@ -50,3 +50,6 @@ about-translations-translating-message = 번역 중…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = 언어 서로 바꾸기
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = 원본 텍스트 지우기
