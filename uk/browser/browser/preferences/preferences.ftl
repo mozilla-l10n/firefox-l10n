@@ -851,6 +851,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = ш
 search-suggestions-cant-show-2 =
     .message = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
+addressbar-header-1 =
+    .label = Панель адреси
+    .description = Виберіть, які пропозиції показуватимуться в панелі адреси
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Пропозиції від { -brand-short-name } і наших партнерів у вашій панелі адреси.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -984,6 +991,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1468,7 +1480,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Автоматично відхиляти банери про файли cookie
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Панель адреси
 addressbar-suggest-1 = Виберіть, які пропозиції показуватимуться в панелі адреси
@@ -1512,6 +1524,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Швидкі дії
     .accesskey = Ш
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Пропозиції від { -brand-short-name }
+    .description = Отримувати пропозиції з інтернету, пов'язані з вашим пошуком.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Пропозиції від спонсорів
+    .description = Підтримайте { -brand-short-name } за допомогою періодичних спонсорованих пропозицій.
 addressbar-suggestions-settings = Змінити налаштування пропозицій пошукових систем
 addressbar-locbar-showrecentsearches-option =
     .label = Показати останні пошуки
@@ -1538,6 +1557,9 @@ addressbar-locbar-suggest-sponsored-desc = Підтримайте { -brand-short
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Отримувати пропозиції від Mozilla під час введення тексту
+addressbar-dismissed-suggestions-label-2 =
+    .label = Відхилені пропозиції
+    .description = Відновити відхилені пропозиції від спонсорів і { -brand-short-name }.
 addressbar-quickactions-learn-more = Докладніше
 addressbar-dismissed-suggestions-label = Відхилені пропозиції
 addressbar-restore-dismissed-suggestions-description = Відновити відхилені пропозиції від спонсорів і { -brand-short-name }.
