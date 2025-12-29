@@ -10,7 +10,7 @@ console-stacktrace-anonymous-function = <anonymny>
 #   $filename (String): Source file name
 #   $functionName (String): JavaScript function name
 #   $lineNumber (String): The line number of the stacktrace call
-console-stacktrace = Štaplowe slědowanje wót { $filename }, funkcija { $functionName }, smužka { $lineNumber }.
+console-stacktrace = Štapjelowe slědowanje wót { $filename }, funkcija { $functionName }, smužka { $lineNumber }.
 # Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: casowe měritko startowane
