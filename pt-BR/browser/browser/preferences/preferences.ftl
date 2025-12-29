@@ -893,6 +893,13 @@ search-show-suggestions-private-windows-2 =
     .label = Sugestões de pesquisa em janelas privativas
 search-suggestions-cant-show-2 =
     .message = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
+addressbar-header-1 =
+    .label = Barra de endereços
+    .description = Escolher quais sugestões exibir na barra de endereços
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugestões do { -brand-short-name } e de nossos parceiros na barra de endereços.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
