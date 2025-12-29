@@ -1025,6 +1025,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizować
+account-group-label =
+    .label = Konto { -vendor-short-name }
 account-placeholder =
     .label = Njejsće přizjewjeny.
     .description = Přizjewće so, zo byšće swoje daty na wšěch wašich gratach priwatne, zaklučowane a synchronizowane dźeržał.
@@ -1431,6 +1433,9 @@ payments-list-item-label = <strong>Płaćenske metody</strong>
 payments-delete-payment-prompt-title = Tutu płaćensku metodu zhašeć?
 payments-delete-payment-prompt-confirm-button = Zhašeć
 payments-delete-payment-prompt-cancel-button = Přetorhnyć
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Žane płaćenske metody přidate
 payments-remove-payment-prompt-title = Tutu płaćensku metodu wotstronić?
 payments-remove-payment-prompt-confirm-button = Wotstronić
 payments-remove-payment-prompt-cancel-button = Přetorhnyć
@@ -1455,6 +1460,9 @@ addresses-delete-address-prompt-cancel-button = Přetorhnyć
 autofill-addresses-add-button = Nowu adresu přidać
 autofill-addresses-manage-addresses-title =
     .heading = Adresy a wjace rjadować
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Žane adresy přidate
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1698,6 +1706,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Zaćisnjenje namjety
     .description = Zaćisnjene namjety wot sponsorow a { -brand-short-name } wobnowić.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Namjety wobnowić
 addressbar-quickactions-learn-more = Dalše informacije
 addressbar-dismissed-suggestions-label = Zaćisnjenje namjety
 addressbar-restore-dismissed-suggestions-description = Zaćisnjene namjety wot sponsorow a { -brand-short-name } wobnowić.
