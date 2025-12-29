@@ -1654,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Populære søkjeforslag
     .accesskey = o
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Forslag frå { -brand-short-name }
+    .description = Få forslag frå nettet relatert til søkinga di.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Forslag frå sponsorar
+    .description = Støtt { -brand-short-name } med sporadiske sponsa forslag.
 addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylege søk
@@ -1680,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Støtt { -brand-short-name } med spor
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Hent forslag frå Mozilla medan du skriv
+addressbar-dismissed-suggestions-label-2 =
+    .label = Avviste forslag
+    .description = Gjenopprett avviste forslag frå sponsorar og { -brand-short-name }.
 addressbar-quickactions-learn-more = Les meir
 addressbar-dismissed-suggestions-label = Avviste forslag
 addressbar-restore-dismissed-suggestions-description = Gjenopprett avviste forslag frå sponsorar og { -brand-short-name }.
