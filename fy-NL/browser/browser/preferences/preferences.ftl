@@ -861,6 +861,13 @@ search-show-suggestions-private-windows-2 =
     .label = Syksuggestjes yn priveefinsters
 search-suggestions-cant-show-2 =
     .message = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
+addressbar-header-1 =
+    .label = Adresbalke
+    .description = Kies hokker suggestjes yn jo adresbalke toand wurde
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggestjes fan { -brand-short-name } en ús partners yn jo adresbalke.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
