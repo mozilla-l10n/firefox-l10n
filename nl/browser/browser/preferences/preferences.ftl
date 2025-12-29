@@ -891,6 +891,13 @@ search-show-suggestions-private-windows-2 =
     .label = Zoeksuggesties in privévensters
 search-suggestions-cant-show-2 =
     .message = Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u { -brand-short-name } hebt geconfigureerd om nooit geschiedenis te onthouden.
+addressbar-header-1 =
+    .label = Adresbalk
+    .description = Kies welke suggesties in uw adresbalk worden getoond
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggesties van { -brand-short-name } en onze partners in uw adresbalk.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
