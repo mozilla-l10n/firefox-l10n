@@ -1647,6 +1647,10 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Suggestions de recherche populaires
     .accesskey = S
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suggestions de { -brand-short-name }
+    .description = Obtenir des suggestions du Web en rapport avec votre recherche.
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 addressbar-locbar-showrecentsearches-option =
     .label = Afficher les recherches récentes
