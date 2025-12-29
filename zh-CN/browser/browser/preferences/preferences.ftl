@@ -1588,6 +1588,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = 热门搜索建议
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } 的建议
+    .description = 从网络上获取与您的搜索相关的建议。
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = 赞助商建议
+    .description = 不定期提供赞助商建议以支持 { -brand-short-name }。
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-locbar-showrecentsearches-option =
     .label = 显示近期搜索
