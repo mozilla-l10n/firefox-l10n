@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Search suggestions in private windows
 search-suggestions-cant-show-2 =
     .message = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+addressbar-header-1 =
+    .label = Address Bar
+    .description = Choose which suggestions display in your address bar
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggestions from { -brand-short-name } and our partners in your address bar.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automatically refuse cookie banners
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Address Bar
 addressbar-suggest-1 = Choose which suggestions display in your address bar
@@ -1647,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Trending search suggestions
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suggestions from { -brand-short-name }
+    .description = Get suggestions from the web related to your search.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Suggestions from sponsors
+    .description = Support { -brand-short-name } with occasional sponsored suggestions.
 addressbar-suggestions-settings = Change preferences for search engine suggestions
 addressbar-locbar-showrecentsearches-option =
     .label = Show recent searches
@@ -1673,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Support { -brand-short-name } with oc
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Retrieve suggestions from Mozilla as you type
+addressbar-dismissed-suggestions-label-2 =
+    .label = Dismissed suggestions
+    .description = Restore dismissed suggestions from sponsors and { -brand-short-name }.
 addressbar-quickactions-learn-more = Learn more
 addressbar-dismissed-suggestions-label = Dismissed suggestions
 addressbar-restore-dismissed-suggestions-description = Restore dismissed suggestions from sponsors and { -brand-short-name }.
