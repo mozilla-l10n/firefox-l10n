@@ -931,6 +931,13 @@ search-show-suggestions-private-windows-2 =
     .label = Pytanske namjety w priwatnych woknach
 search-suggestions-cant-show-2 =
     .message = Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće { -brand-short-name } tak konfigurował, zo sej ženje historiju njespomjatkuje.
+addressbar-header-1 =
+    .label = Adresowe polo
+    .description = Wubjerće, kotre namjety maja so we wašim adresowym polu pokazać
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Namjety z { -brand-short-name } a wot našich partnerow we wašim adresowym polu.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1605,7 +1612,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Plackowe chorhoje awtomatisce wotpokazać
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresowe polo
 addressbar-suggest-1 = Wubjerće, kotre namjety maja so we wašim adresowym polu pokazać
@@ -1655,6 +1662,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Trendowe pytanske namjety
     .accesskey = T
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Namjety wot { -brand-short-name }
+    .description = Wobstarajće sej namjety z weba nastupajo waše pytanje.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Namjety wot sponsorow
+    .description = Podpěrajće { -brand-short-name } ze składnostnymi sponserowanymi namjetami
 addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 addressbar-locbar-showrecentsearches-option =
     .label = Najnowše pytanja pokazać
