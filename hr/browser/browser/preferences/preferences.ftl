@@ -1658,6 +1658,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Popularni prijedlozi za pretraživanje
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } prijedlozi
+    .description = Dobij prijedloge s weba koji se odnose na tvoju pretragu.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Prijedlozi od sponzora
+    .description = Podrži { -brand-short-name } s povremenim sponzoriranim prijedlozima.
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavne pretrage
@@ -1684,6 +1691,9 @@ addressbar-locbar-suggest-sponsored-desc = Podrži { -brand-short-name } s povre
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Dohvaćaj Mozilla prijedloge dok tipkaš
+addressbar-dismissed-suggestions-label-2 =
+    .label = Odbačeni prijedlozi
+    .description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
 addressbar-quickactions-learn-more = Saznaj više
 addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
 addressbar-restore-dismissed-suggestions-description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
