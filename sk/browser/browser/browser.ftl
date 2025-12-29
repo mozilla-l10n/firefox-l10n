@@ -533,6 +533,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Pripojenie k tejto stránke nie je zabezpečené.
 identity-connection-verified = Pripojenie k tejto stránke je zabezpečené.
 identity-ev-owner-label = Certifikát bol vydaný pre:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalifikovaný podľa nariadenia (EÚ) 2024/1183.
 identity-description-custom-root2 = Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.
 identity-remove-cert-exception =
     .label = Odstrániť výnimku

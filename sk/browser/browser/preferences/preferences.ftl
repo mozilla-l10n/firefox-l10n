@@ -1021,6 +1021,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizácia
+account-group-label =
+    .label = Účet { -vendor-short-name }
 account-placeholder =
     .label = Nie ste prihlásený
     .description = Prihláste sa, aby vaše údaje zostali súkromné, šifrované a synchronizované medzi zariadeniami.
@@ -1427,6 +1429,9 @@ payments-list-item-label = <strong>Spôsoby platby</strong>
 payments-delete-payment-prompt-title = Odstrániť tento spôsob platby?
 payments-delete-payment-prompt-confirm-button = Odstrániť
 payments-delete-payment-prompt-cancel-button = Zrušiť
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Zatiaľ nebol pridaný žiadny spôsob platby
 payments-remove-payment-prompt-title = Odstrániť tento spôsob platby?
 payments-remove-payment-prompt-confirm-button = Odstrániť
 payments-remove-payment-prompt-cancel-button = Zrušiť
@@ -1451,6 +1456,9 @@ addresses-delete-address-prompt-cancel-button = Zrušiť
 autofill-addresses-add-button = Pridať novú adresu
 autofill-addresses-manage-addresses-title =
     .heading = Spravovať adresy a ďalšie
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Zatiaľ neboli pridané žiadne adresy
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1694,6 +1702,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Odmietnuté návrhy
     .description = Obnovte odmietnuté návrhy od sponzorov a { -brand-short-name(case: "gen") }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Obnoviť návrhy
 addressbar-quickactions-learn-more = Ďalšie informácie
 addressbar-dismissed-suggestions-label = Odmietnuté návrhy
 addressbar-restore-dismissed-suggestions-description = Obnovte odmietnuté návrhy od sponzorov a { -brand-short-name(case: "gen") }.

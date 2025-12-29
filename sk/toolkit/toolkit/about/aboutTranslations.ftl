@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Preklad
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Kopírovať
+    .title = Kopírovať preklad
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Skopírovaný
+    .title = Kopírovať preklad
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Zvoľte jazyk
@@ -42,3 +50,6 @@ about-translations-translating-message = Prebieha preklad…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Vymeniť jazyky
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Vymazať zdrojový text
