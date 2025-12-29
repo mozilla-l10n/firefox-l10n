@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = 번역할 텍스트 추가
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = 언어 감지
+about-translations-detect-default-label =
+    .label = 언어 감지
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $language } (감지됨)
+about-translations-detect-language-label =
+    .label = { $language } (감지됨)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = 번역
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = 언어 선택
+about-translations-select-label =
+    .label = 언어 선택
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = 번역 중…
 # The title attribute for the swap languages button, which swaps the selected
