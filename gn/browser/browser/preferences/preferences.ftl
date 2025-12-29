@@ -1594,7 +1594,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Tomboyke ijehegui umi banner kookie rehegua
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Kundaharape renda
 addressbar-suggest-1 = Eiporavo mba’e ñemoñe’ẽ ojehecháta nde kundaha rupápe
@@ -1644,6 +1644,10 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Umi jehekarã ojeporuvéva
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } ñemoñe’ẽ
+    .description = Erekóta ñanduti ñemoñe’ẽ ojokupytýva rehekáva ndive.
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 addressbar-locbar-showrecentsearches-option =
     .label = Ehechauka ojeheka ramóva
