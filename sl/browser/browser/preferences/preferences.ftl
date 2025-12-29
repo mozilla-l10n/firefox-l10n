@@ -563,6 +563,9 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Učinkovitost
@@ -826,6 +829,9 @@ search-show-suggestions-url-bar-option =
     .accesskey = P
 search-suggestions-cant-show-2 =
     .message = Predlogi iskanja v naslovni vrstici ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
+addressbar-header-1 =
+    .label = Naslovna vrstica
+    .description = Izberite, kateri predlogi naj se vam prikazujejo v naslovni vrstici
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -954,6 +960,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1422,7 +1433,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Samodejno zavračaj piškotke
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Naslovna vrstica
 addressbar-suggest-1 = Izberite, kateri predlogi naj se vam prikazujejo v naslovni vrstici
@@ -1466,6 +1477,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = hitra dejanja
     .accesskey = h
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
+    .description = Prejemajte predloge s spleta, povezane z vašim iskanjem.
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna iskanja
