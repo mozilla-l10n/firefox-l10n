@@ -925,6 +925,13 @@ search-show-suggestions-private-windows-2 =
     .label = Sugestii de căutare în ferestre private
 search-suggestions-cant-show-2 =
     .message = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
+addressbar-header-1 =
+    .label = Bară de adrese
+    .description = Alege ce sugestii să se afișeze în bara ta de adrese
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugestii de la { -brand-short-name } și partenerii noștri în bara ta de adrese.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
