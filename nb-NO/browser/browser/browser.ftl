@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Du er ikke sikkert koblet til dette nettstedet.
 identity-connection-verified = Du er sikkert koblet til dette nettstedet.
 identity-ev-owner-label = Sertifikat utstedt til:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalifisert som spesifisert i forordning (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla kjenner ikke igjen denne sertifikatutstederen. Den kan ha blitt lagt til av ditt operativsystem eller av en administrator.
 identity-remove-cert-exception =
     .label = Fjern unntak
