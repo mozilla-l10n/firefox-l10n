@@ -927,6 +927,13 @@ search-show-suggestions-private-windows-2 =
     .label = Поисковые предложения в приватных окнах
 search-suggestions-cant-show-2 =
     .message = При использовании адресной строки поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
+addressbar-header-1 =
+    .label = Адресная строка
+    .description = Выберите, какие предложения отображаются в вашей адресной строке
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Предложения от { -brand-short-name } и наших партнёров в вашей адресной строке.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1601,7 +1608,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Автоматически отказываться от уведомлениях о куки
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Адресная строка
 addressbar-suggest-1 = Выберите, какие предложения отображаются в вашей адресной строке
