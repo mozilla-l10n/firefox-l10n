@@ -95,6 +95,7 @@ change-backup-encryption-header = آلشت رزم لادرار
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = الزامات رزم
+password-rules-email-description = نشۊوی ایمیل ایسا نؽ
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -105,6 +106,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
+disable-backup-encryption-support-link = ز چ چیایی لادراری گرؽڌه ابۊ؟
 disable-backup-encryption-cancel-button = لقو
 disable-backup-encryption-confirm-button = پاک کردن رزم
 
@@ -113,6 +115,8 @@ disable-backup-encryption-confirm-button = پاک کردن رزم
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-path-label = فایل لادراری:
+backup-file-encryption-state-label = رزم ناهاڌه وابیڌه:
 backup-file-encryption-state-value-encrypted = هری
 backup-file-encryption-state-value-not-encrypted = ن
 backup-file-creation-device-label = دسگا:
@@ -120,4 +124,5 @@ backup-file-creation-date-label = وورکل وابیڌه:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = بارت وورگندن:
 backup-file-download-moz-browser-button = دانلود

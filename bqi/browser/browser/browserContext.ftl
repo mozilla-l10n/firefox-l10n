@@ -350,5 +350,13 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = آلشت جهت بلگه
     .accesskey = D
+main-context-menu-eme-learn-more =
+    .label = زبار DRM قلوه دووسته بۊین…
+    .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = گۊشیڌن لینگ من بلگه { $containerName } نۊ
+    .accesskey = T
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
