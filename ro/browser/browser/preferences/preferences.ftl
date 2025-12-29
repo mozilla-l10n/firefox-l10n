@@ -1599,7 +1599,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refuză automat bannerele de cookie-uri
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bară de adrese
 addressbar-suggest-1 = Alege ce sugestii să se afișeze în bara ta de adrese
@@ -1649,6 +1649,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Sugestii de căutare în tendințe
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Sugestii de la { -brand-short-name }
+    .description = Obține sugestii de pe web legate de căutarea ta.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugestii de la sponsori
+    .description = Susține { -brand-short-name } cu sugestii sponsorizate ocazionale.
 addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
 addressbar-locbar-showrecentsearches-option =
     .label = Afișează căutările recente
@@ -1675,6 +1682,9 @@ addressbar-locbar-suggest-sponsored-desc = Susține { -brand-short-name } cu sug
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Preia sugestii de la Mozilla pe măsură ce tastezi
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sugestii respinse
+    .description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.
 addressbar-quickactions-learn-more = Află mai multe
 addressbar-dismissed-suggestions-label = Sugestii respinse
 addressbar-restore-dismissed-suggestions-description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.
