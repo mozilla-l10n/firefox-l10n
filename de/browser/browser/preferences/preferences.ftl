@@ -1654,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Beliebte Suchvorschläge
     .accesskey = B
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Vorschläge von { -brand-short-name }
+    .description = Erhalten Sie Vorschläge aus dem Web, die sich auf Ihre Suche beziehen.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Vorschläge von Sponsoren
+    .description = Unterstützen Sie { -brand-short-name } mit gelegentlichen gesponserten Vorschlägen.
 addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 addressbar-locbar-showrecentsearches-option =
     .label = Letzte Suchanfragen anzeigen
@@ -1680,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Unterstützen Sie { -brand-short-name
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Abrufen von Vorschlägen von Mozilla beim Eintippen
+addressbar-dismissed-suggestions-label-2 =
+    .label = Verworfene Vorschläge
+    .description = Verworfene Vorschläge von Sponsoren und { -brand-short-name } wiederherstellen.
 addressbar-quickactions-learn-more = Weitere Informationen
 addressbar-dismissed-suggestions-label = Verworfene Vorschläge
 addressbar-restore-dismissed-suggestions-description = Verworfene Vorschläge von Sponsoren und { -brand-short-name } wiederherstellen.
