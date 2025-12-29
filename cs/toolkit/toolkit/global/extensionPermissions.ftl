@@ -55,7 +55,7 @@ webext-perms-description-data-short-locationInfo = umístění
 webext-perms-description-data-short-personalCommunications = osobní komunikace
 webext-perms-description-data-short-personallyIdentifyingInfo = informace umožňující identifikaci osob
 webext-perms-description-data-short-searchTerms = hledané výrazy
-webext-perms-description-data-short-technicalAndInteraction = technická data a data interakce
+webext-perms-description-data-short-technicalAndInteraction = technické údaje a údaje o interakcích
 webext-perms-description-data-short-websiteActivity = aktivity na webových stránkách
 webext-perms-description-data-short-websiteContent = obsah webové stránky
 
@@ -70,6 +70,6 @@ webext-perms-description-data-long-locationInfo = Sdílet informace o umístěn�
 webext-perms-description-data-long-personalCommunications = Sdílet osobní údaje s vývojářem rozšíření
 webext-perms-description-data-long-personallyIdentifyingInfo = Sdílet údaje identifikující uživatele s vývojářem rozšíření
 webext-perms-description-data-long-searchTerms = Sdílet hledané výrazy s vývojářem rozšíření
-webext-perms-description-data-long-technicalAndInteraction = Sdílet technická data a data o interakci s vývojářem rozšíření
+webext-perms-description-data-long-technicalAndInteraction = Sdílet s vývojářem rozšíření technické údaje a údaje o interakcích
 webext-perms-description-data-long-websiteActivity = Sdílet aktivity na webových stránkách s vývojářem rozšíření
 webext-perms-description-data-long-websiteContent = Sdílet obsah webových stránek s vývojářem rozšíření

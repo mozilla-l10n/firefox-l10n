@@ -34,6 +34,12 @@ preonboarding-privacy-notice-header-button-title-b =
 preonboarding-privacy-notice-header-button-title-b-v2 = Zásady ochrany osobních údajů
 # Description under label for header style buttons
 preonboarding-header-button-description = Přečtěte si více
+# New user onboarding checklist
+preonboarding-checklist-interaction-data-label =
+    { -vendor-short-name.case-status ->
+        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technické údaje a údaje o interakcích
+       *[no-cases] Odesílat organizaci { -vendor-short-name } technické údaje a údaje o interakcích
+    }
 preonboarding-checklist-interaction-data-description =
     { -brand-product-name.case-status ->
         [with-cases] Data o vašem zařízení, konfiguraci hardwaru a o tom, jak { -brand-product-name(case: "dat") } používáte, pomáhají vylepšovat funkce, výkon a stabilitu pro běžné uživatele.
