@@ -824,6 +824,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = ส
 search-suggestions-cant-show-2 =
     .message = คำแนะนำการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
+addressbar-header-1 =
+    .label = แถบที่อยู่
+    .description = เลือกคำแนะนำที่จะแสดงในแถบที่อยู่ของคุณ
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = แสดงคำแนะนำจาก { -brand-short-name } และพันธมิตรของเราในแถบที่อยู่ของคุณ
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
