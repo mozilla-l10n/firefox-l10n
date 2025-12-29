@@ -922,6 +922,13 @@ search-show-suggestions-private-windows-2 =
     .label = Пешниҳодҳои ҷустуҷӯ дар равзанаҳои хусусӣ
 search-suggestions-cant-show-2 =
     .message = Пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори ҷойгиршавӣ намоиш дода намешаванд, зеро ки шумо «{ -brand-short-name }»-ро танзим кардед, то таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад.
+addressbar-header-1 =
+    .label = Навори нишонӣ
+    .description = Интихоб кунед, ки кадом пешниҳодҳо дар навори нишонии шумо нишон дода мешаванд
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Пешниҳодҳо аз «{ -brand-short-name }» ва шарикони мо дар навори нишонии шумо.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1596,7 +1603,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Баннерҳои кукиро ба таври худкор рад намоед
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Навори нишонӣ
 addressbar-suggest-1 = Интихоб кунед, ки кадом пешниҳодҳо дар навори нишонии шумо нишон дода мешаванд
