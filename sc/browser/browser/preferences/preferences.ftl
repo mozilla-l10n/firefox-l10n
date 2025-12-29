@@ -741,6 +741,9 @@ search-show-suggestions-url-bar-option =
     .accesskey = i
 search-suggestions-cant-show-2 =
     .message = Is cussìgios de chirca no ant a èssere ammustrados in is resurtados de sa barra de positzione ca as cunfiguradu { -brand-short-name } in manera chi no regordet mai sa cronologia.
+addressbar-header-1 =
+    .label = Barra de indiritzos
+    .description = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
