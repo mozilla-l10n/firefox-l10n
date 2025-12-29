@@ -842,6 +842,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = o
 search-suggestions-cant-show-2 =
     .message = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
+addressbar-header-1 =
+    .label = Osoitepalkki
+    .description = Valitse osoiterivillä näkyvät ehdotukset
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Ehdotuksia { -brand-short-name }ilta ja yhteistyökumppaneiltamme osoitepalkissasi.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -972,6 +979,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1452,7 +1464,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Kieltäydy automaattisesti evästeilmoituksista
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Osoitepalkki
 addressbar-suggest-1 = Valitse osoiterivillä näkyvät ehdotukset
@@ -1496,6 +1508,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Pikatoiminnot
     .accesskey = Q
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Ehdotuksia palvelusta { -brand-short-name }
+    .description = Hanki hakuusi liittyviä ehdotuksia verkosta.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Ehdotuksia sponsoreilta
+    .description = Tue { -brand-short-name }ia satunnaisilla sponsoroiduilla ehdotuksilla.
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-locbar-showrecentsearches-option =
     .label = Näytä viimeisimmät haut
@@ -1522,6 +1541,9 @@ addressbar-locbar-suggest-sponsored-desc = Tue { -brand-short-name }ia satunnais
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Vastaanota ehdotuksia Mozillasta kirjoittaessasi
+addressbar-dismissed-suggestions-label-2 =
+    .label = Hylätyt ehdotukset
+    .description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.
 addressbar-quickactions-learn-more = Lue lisää
 addressbar-dismissed-suggestions-label = Hylätyt ehdotukset
 addressbar-restore-dismissed-suggestions-description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.
