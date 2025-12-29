@@ -920,6 +920,13 @@ search-show-suggestions-private-windows-2 =
     .label = Ehechauka jehekaha ovetã ñemiguávape
 search-suggestions-cant-show-2 =
     .message = Jeheka je’epyréva ndojekuaamo’ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu’a tembiasakuére.
+addressbar-header-1 =
+    .label = Kundaharape renda
+    .description = Eiporavo mba’e ñemoñe’ẽ ojehecháta nde kundaha rupápe
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = He’íva { -brand-short-name } ha ore irũnguéra ikundaharape rupápe.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1648,6 +1655,9 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
 addressbar-locbar-suggest-all-option-2 =
     .label = { -brand-short-name } ñemoñe’ẽ
     .description = Erekóta ñanduti ñemoñe’ẽ ojokupytýva rehekáva ndive.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Pytyvõhára ñemoñe’ẽ
+    .description = Eykeko { -brand-short-name } ñemoñe’ẽ jehepyme’ẽrã sapy’apy’agua.
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 addressbar-locbar-showrecentsearches-option =
     .label = Ehechauka ojeheka ramóva
@@ -1674,6 +1684,9 @@ addressbar-locbar-suggest-sponsored-desc = Eykeko { -brand-short-name } ñemoñe
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Eguerekokuaa Mozilla oikuave’ẽva ehai aja
+addressbar-dismissed-suggestions-label-2 =
+    .label = Ñemoñe’ẽ mboykepyre
+    .description = Eguerujey ñe’ẽporã omboykémava jeykekohára ha { -brand-short-name }.
 addressbar-quickactions-learn-more = Kuaave
 addressbar-dismissed-suggestions-label = Ñemoñe’ẽ mboykepyre
 addressbar-restore-dismissed-suggestions-description = Eguerujey ñe’ẽporã omboykémava jeykekohára ha { -brand-short-name }.
