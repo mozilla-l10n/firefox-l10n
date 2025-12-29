@@ -565,6 +565,9 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Wydajność
@@ -963,6 +966,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
 sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1443,7 +1451,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automatyczne odrzucanie próśb o akceptację ciasteczek
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Pasek adresu
 addressbar-suggest-1 = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu.
@@ -1487,6 +1495,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Szybkie działania.
     .accesskey = d
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Podpowiedzi { -brand-short-name(case: "gen") }
+    .description = Otrzymuj podpowiedzi z Internetu związane z wyszukiwanymi słowami.
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 addressbar-locbar-showrecentsearches-option =
     .label = Ostatnie wyszukiwania
