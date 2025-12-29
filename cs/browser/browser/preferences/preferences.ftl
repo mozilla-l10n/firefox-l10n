@@ -2123,8 +2123,8 @@ collection-description =
 collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report-telemetry-disabled =
     { -vendor-short-name.case-status ->
-        [with-cases] Odesílat { -vendor-short-name(case: "dat") } technické údaje a údaje o interakcích není nadále povoleno. Všechny historické údaje budou smazány během 30 dnů.
-       *[no-cases] Odesílat organizaci { -vendor-short-name } technické údaje a údaje o interakcích není nadále povoleno. Všechny historické údaje budou smazány během 30 dnů.
+        [with-cases] Odesílání technických údajů a údajů o interakcích { -vendor-short-name(case: "dat") } není nadále povoleno. Všechny historické údaje budou smazány do 30 dnů.
+       *[no-cases] Odesílání technických údajů a údajů o interakcích organizaci { -vendor-short-name } není nadále povoleno. Všechny historické údaje budou smazány do 30 dnů.
     }
 collection-health-report-telemetry-disabled-link = Zjistit více
 collection-usage-ping =
