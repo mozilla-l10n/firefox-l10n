@@ -432,10 +432,12 @@ settings-translations-subpage-download-languages-button =
     .title = 下载语言包
 settings-translations-subpage-no-languages-downloaded =
     .label = 尚未下载语言
-settings-translations-subpage-no-languages-added =
-    .label = 尚未添加语言
 settings-translations-subpage-download-retry-button =
     .label = 重试
+settings-translations-subpage-download-delete-button =
+    .label = 删除
+settings-translations-subpage-download-cancel-button =
+    .label = 取消
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -995,6 +997,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = 登录账户以开始同步
+    .accesskey = i
+sync-signedout-account-short =
+    .label = 登录
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
