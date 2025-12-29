@@ -450,7 +450,9 @@ bookmark-panel-save-button =
 ## Identity Panel
 
 identity-connection-not-secure = منپیز ٱمن نؽ
+identity-connection-secure = منپیز ٱمن
 identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه
+identity-https-only-label = هالت تینا-Https
 identity-https-only-dropdown-on =
     .label = رۊشن
 identity-https-only-dropdown-off =
