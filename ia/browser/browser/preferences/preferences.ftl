@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label =
+    .label = Conto { -vendor-short-name }
 account-placeholder =
     .label = Tu non es connectite
     .description = Accede pro tener tu datos private, cryptate, e synchronisate inter apparatos.
@@ -1450,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Cancellar
 autofill-addresses-add-button = Adder nove adresse
 autofill-addresses-manage-addresses-title =
     .heading = Gerer adresses e plus
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Necun adresse addite
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1693,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Suggestiones rejectate
     .description = Restaurar suggestiones rejectate de sponsores e { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaurar le suggestiones
 addressbar-quickactions-learn-more = Pro saper plus
 addressbar-dismissed-suggestions-label = Suggestiones rejectate
 addressbar-restore-dismissed-suggestions-description = Restaurar suggestiones rejectate de sponsores e { -brand-short-name }.

@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Traduction
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Copiar
+    .title = Copiar traduction
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Copiate
+    .title = Copiar traduction
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Elige le lingua
@@ -42,3 +50,6 @@ about-translations-translating-message = Traducente…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Mutar linguas
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Cancellar le texto fonte
