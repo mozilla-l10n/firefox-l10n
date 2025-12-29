@@ -527,6 +527,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -638,6 +641,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -860,6 +869,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1291,7 +1305,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refuda in automàticu avisos de testimòngios
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra de indiritzos
 addressbar-suggest-1 = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
@@ -1331,6 +1345,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Atziones lestras
     .accesskey = A
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Cussìgios dae { -brand-short-name }
+    .description = Otene cussìgios de sa rete acapiados a sa chirca tua.
 addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 addressbar-locbar-showrecentsearches-option =
     .label = Ammustra chircas reghentes
