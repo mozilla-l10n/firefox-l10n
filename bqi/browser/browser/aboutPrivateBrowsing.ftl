@@ -36,3 +36,7 @@ about-private-browsing-promo-close-button =
 ## Strings used in a promotion message for cookie banner reduction
 
 about-private-browsing-cookie-banners-promo-button = کم کردن بنرا کۊکی
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-link = کؽ گاشڌ ترسته بۊ فعالیت مونه بنیره؟

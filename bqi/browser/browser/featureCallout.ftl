@@ -7,9 +7,14 @@
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ناهاڌن پا کار
 
+## PDF.js Feature Tour Strings
+
+callout-pdfjs-draw-button = فئمیم!
+
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-primary-button-label = گۊشیڌن { -firefoxview-brand-name }
+fx-view-discoverability-secondary-button-label = رڌ کردن
 
 ## Split Dismiss Button Labels
 
@@ -25,6 +30,8 @@ split-dismiss-button-default-label =
 bookmarks-toolbar-callout-1-primary-button-label = ٱووردن نشووک
 bookmarks-toolbar-callout-1-secondary-button-label = ن ممنووݩ
 bookmarks-toolbar-callout-2a-primary-button-label = فئمیم
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = بؽڌار کردن نوار ٱوزار
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
 

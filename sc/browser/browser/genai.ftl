@@ -179,6 +179,8 @@ genai-chatbot-summarize-title = Nou! Faghe resumos de is pàginas cun unu clic
 genai-chatbot-summarize-button = Faghe unu resumu de sa pàgina
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Incarca cun su butone deretu su chatbot IA dae sa barra laterale e sèbera “Faghe unu resumu de sa pàgina”.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Aberi su chatbot IA dae sa barra laterale e sèbera “Faghe unu resumu de sa pàgina” in bàsciu.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
