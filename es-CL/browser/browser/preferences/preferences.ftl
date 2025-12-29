@@ -926,6 +926,10 @@ search-suggestions-cant-show-2 =
 addressbar-header-1 =
     .label = Barra de direcciones
     .description = Elige qué sugerencias se muestran en tu barra de direcciones
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugerencias de { -brand-short-name } y nuestros socios en tu barra de direcciones.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1654,6 +1658,9 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
 addressbar-locbar-suggest-all-option-2 =
     .label = Sugerencias de { -brand-short-name }
     .description = Recibe sugerencias de la web relacionadas con tu búsqueda.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Sugerencias de patrocinadores
+    .description = Apoya a { -brand-short-name } con sugerencias patrocinadas ocasionales
 addressbar-suggestions-settings = Cambia las preferencias para las sugerencias de los motores de búsqueda
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
@@ -1680,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Apoya a { -brand-short-name } con sug
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Recibe sugerencias de Mozilla mientras escribes
+addressbar-dismissed-suggestions-label-2 =
+    .label = Sugerencias ignoradas
+    .description = Restaurar sugerencias ignoradas de patrocinadores y { -brand-short-name }.
 addressbar-quickactions-learn-more = Aprender más
 addressbar-dismissed-suggestions-label = Sugerencias ignoradas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugerencias ignoradas de patrocinadores y { -brand-short-name }.
