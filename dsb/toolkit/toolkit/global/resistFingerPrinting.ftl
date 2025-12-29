@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Spoof Accept-Language prompt
-privacy-spoof-english = Gaž swójo rěcne nastajenje do engelšćiny změnijośo, buźo za was śěžej, swóju identitu identifikcěrowaś a pólěpšyś. Cośo se engelskorěcne wersije webbokow pominaś?
+privacy-spoof-english = Gaž swójo rěcne nastajenje do engelšćiny změnijośo, buźo za was śěžej, swóju identitu identificěrowaś a pólěpšyś. Cośo se engelskorěcne wersije webbokow pominaś?
