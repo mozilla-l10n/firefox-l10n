@@ -1658,6 +1658,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Популярные поисковые предложения
     .accesskey = е
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Предложения от { -brand-short-name }
+    .description = Получать предложения из сети на основе вашего поиска.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Предложения от спонсоров
+    .description = Поддержите { -brand-short-name } периодическими предложениями от спонсоров.
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-locbar-showrecentsearches-option =
     .label = Показать недавние поисковые запросы
@@ -1684,6 +1691,9 @@ addressbar-locbar-suggest-sponsored-desc = Поддержите { -brand-short-n
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Получать предложения от Mozilla по мере набора
+addressbar-dismissed-suggestions-label-2 =
+    .label = Скрытые предложения
+    .description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.
 addressbar-quickactions-learn-more = Подробнее
 addressbar-dismissed-suggestions-label = Скрытые предложения
 addressbar-restore-dismissed-suggestions-description = Восстановить отклонённые предложения от спонсоров и { -brand-short-name }.
