@@ -186,3 +186,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body = 请确认您正在使用最新
 fp-neterror-offline-what-can-you-do-body = 请尝试通过其他设备连接、检查调制解调器或路由器、断开 Wi-Fi 连接后重新连接。
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 有时网站会为自身设置保护措施，阻止与其他网站进行非预期的交互。
+fp-learn-more-about-https-connections = 了解 HTTPS 连接

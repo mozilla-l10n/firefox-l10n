@@ -52,4 +52,4 @@ about-translations-swap-languages =
     .title = Byt språk
 # The title attribute for the button that clears the source text area.
 about-translations-clear-button =
-    .title = Tydlig källtext
+    .title = Rensa källtext
