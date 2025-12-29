@@ -22,17 +22,20 @@ about-translations-input-placeholder =
     .placeholder = Tilføj tekst for at oversætte
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
-about-translations-detect-default = Registrer sprog
+about-translations-detect-default-label =
+    .label = Registrer sprog
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
 #   $language (string) - The localized display name of the detected language
-about-translations-detect-language = { $language } (detekteret)
+about-translations-detect-language-label =
+    .label = { $language } (detekteret)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Oversættelse
 # Text displayed on target-language selector when no language option is selected.
-about-translations-select = Vælg sprog
+about-translations-select-label =
+    .label = Vælg sprog
 # A message displayed in the target-language output area while waiting for the translation to complete.
 about-translations-translating-message = Oversætter…
 # The title attribute for the swap languages button, which swaps the selected
