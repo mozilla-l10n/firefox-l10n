@@ -1423,6 +1423,9 @@ payments-list-item-label = <strong>Methodos de pagamento</strong>
 payments-delete-payment-prompt-title = Deler iste methodo de pagamento?
 payments-delete-payment-prompt-confirm-button = Deler
 payments-delete-payment-prompt-cancel-button = Cancellar
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Necun methodo de pagamento addite
 payments-remove-payment-prompt-title = Remover iste methodo de pagamento?
 payments-remove-payment-prompt-confirm-button = Remover
 payments-remove-payment-prompt-cancel-button = Cancellar
