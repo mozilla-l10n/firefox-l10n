@@ -932,6 +932,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nenhum atalho selecionado, escolha um atalho
     .tooltiptext = Nenhum atalho selecionado, escolha um atalho
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = A pesquisa por palavra-chave está desativada
+    .tooltiptext = A pesquisa por palavra-chave está desativada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1584,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] O { -brand-product-name } permitiu { $count } criptomineradores
     }
 trustpanel-cryptominer-tab-list-header = Estes sites estão tentando criptominerar:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado neste site
+       *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados neste site
+    }
