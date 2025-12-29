@@ -1005,6 +1005,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = 同步
+account-group-label =
+    .label = { -vendor-short-name } 帳號
 account-placeholder =
     .label = 您尚未登入。
     .description = 登入後即可透過有隱私、加密過的方式，將您的資料同步道不同裝置上。
@@ -1411,6 +1413,9 @@ payments-list-item-label = <strong>付款方式</strong>
 payments-delete-payment-prompt-title = 要刪除這筆付款方式嗎？
 payments-delete-payment-prompt-confirm-button = 刪除
 payments-delete-payment-prompt-cancel-button = 取消
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = 未新增付款方式
 payments-remove-payment-prompt-title = 要移除這筆付款方式嗎？
 payments-remove-payment-prompt-confirm-button = 移除
 payments-remove-payment-prompt-cancel-button = 取消
@@ -1435,6 +1440,9 @@ addresses-delete-address-prompt-cancel-button = 取消
 autofill-addresses-add-button = 新增地址
 autofill-addresses-manage-addresses-title =
     .heading = 管理地址與更多資訊
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = 未新增地址
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1678,6 +1686,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = 忽略的建議
     .description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = 還原建議
 addressbar-quickactions-learn-more = 了解更多
 addressbar-dismissed-suggestions-label = 忽略的建議
 addressbar-restore-dismissed-suggestions-description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
