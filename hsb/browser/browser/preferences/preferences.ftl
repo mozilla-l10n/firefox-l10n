@@ -1695,6 +1695,9 @@ addressbar-locbar-suggest-sponsored-desc = Podpěrajće { -brand-short-name } ze
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Wotwołajće namjety wot Mozilla, hdyž pisaće
+addressbar-dismissed-suggestions-label-2 =
+    .label = Zaćisnjenje namjety
+    .description = Zaćisnjene namjety wot sponsorow a { -brand-short-name } wobnowić.
 addressbar-quickactions-learn-more = Dalše informacije
 addressbar-dismissed-suggestions-label = Zaćisnjenje namjety
 addressbar-restore-dismissed-suggestions-description = Zaćisnjene namjety wot sponsorow a { -brand-short-name } wobnowić.
