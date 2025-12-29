@@ -1061,6 +1061,17 @@ search-suggestions-cant-show-2 =
             [with-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name(case: "acc") } nastavili, aby si nikdy nepamatoval historii.
            *[no-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
         }
+addressbar-header-1 =
+    .label = Adresní řádek
+    .description = Zvolte, které návrhy se zobrazí v adresním řádku
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description =
+        { -brand-short-name.case-status ->
+            [with-cases] Návrhy od { -brand-short-name(case: "gen") } a našich partnerů přímo v adresním řádku.
+           *[no-cases] Návrhy od aplikace { -brand-short-name } a našich partnerů přímo v adresním řádku.
+        }
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1800,6 +1811,9 @@ addressbar-locbar-suggest-all-option-2 =
            *[no-cases] Návrhy od aplikace { -brand-short-name }
         }
     .description = Získat návrhy z webu související s vaším vyhledáváním.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Návrhy od sponzorů
+    .description = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazit nedávná vyhledávání
@@ -1834,6 +1848,13 @@ addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobra
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Při psaní získávat návrhy od Mozilly
+addressbar-dismissed-suggestions-label-2 =
+    .label = Vyřazené návrhy
+    .description =
+        { -brand-short-name.case-status ->
+            [with-cases] Vrátit zpět vyřazené návrhy od sponzorů a { -brand-short-name(case: "gen") }.
+           *[no-cases] Vrátit zpět vyřazené návrhy od sponzorů a aplikace { -brand-short-name }.
+        }
 addressbar-quickactions-learn-more = Zjistit více
 addressbar-dismissed-suggestions-label = Vyřazené návrhy
 addressbar-restore-dismissed-suggestions-description =
