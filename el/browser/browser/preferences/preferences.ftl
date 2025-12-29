@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Προτάσεις αναζήτησης στα ιδιωτικά παράθυρα
 search-suggestions-cant-show-2 =
     .message = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } έτσι ώστε να μην διατηρεί ποτέ το ιστορικό.
+addressbar-header-1 =
+    .label = Γραμμή διευθύνσεων
+    .description = Επιλέξτε ποιες προτάσεις θα εμφανίζονται στη γραμμή διευθύνσεων
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name(case: "nom") }
+    .description = Προτάσεις από το { -brand-short-name } και τους συνεργάτες μας στη γραμμή διευθύνσεών σας.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Αυτόματη απόρριψη μηνυμάτων για cookie
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Γραμμή διευθύνσεων
 addressbar-suggest-1 = Επιλέξτε ποιες προτάσεις θα εμφανίζονται στη γραμμή διευθύνσεων
@@ -1647,6 +1654,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Δημοφιλείς προτάσεις αναζήτησης
     .accesskey = μ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Προτάσεις από το { -brand-short-name }
+    .description = Λάβετε προτάσεις από το διαδίκτυο που σχετίζονται με την αναζήτησή σας.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Προτάσεις από χορηγούς
+    .description = Υποστηρίξτε το { -brand-short-name } με περιστασιακές προτάσεις από χορηγούς.
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 addressbar-locbar-showrecentsearches-option =
     .label = Εμφάνιση πρόσφατων αναζητήσεων
@@ -1673,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = Υποστηρίξτε το { -brand-
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Λήψη προτάσεων από τη Mozilla κατά την πληκτρολόγηση
+addressbar-dismissed-suggestions-label-2 =
+    .label = Απορριφθείσες προτάσεις
+    .description = Επαναφέρετε τις απορριφθείσες προτάσεις από χορηγούς και το { -brand-short-name }.
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 addressbar-dismissed-suggestions-label = Απορριφθείσες προτάσεις
 addressbar-restore-dismissed-suggestions-description = Επαναφέρετε τις απορριφθείσες προτάσεις από χορηγούς και το { -brand-short-name }.
