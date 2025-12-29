@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = הצעות חיפוש בחלונות פרטיים
 search-suggestions-cant-show-2 =
     .message = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
+addressbar-header-1 =
+    .label = שורת כתובת
+    .description = בחירה בהצעות שיוצגו בשורת הכתובת
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = הצעות מ־{ -brand-short-name } ומהשותפים שלנו בשורת הכתובת שלך.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1651,6 +1658,9 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
 addressbar-locbar-suggest-all-option-2 =
     .label = הצעות מ־{ -brand-short-name }
     .description = קבלת הצעות מהאינטרנט הקשורות לחיפוש שלך.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = הצעות מנותני חסות
+    .description = תמיכה ב־{ -brand-short-name } עם הצעות ממומנות מדי פעם.
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 addressbar-locbar-showrecentsearches-option =
     .label = הצגת חיפושים אחרונים
@@ -1677,6 +1687,9 @@ addressbar-locbar-suggest-sponsored-desc = תמיכה ב־{ -brand-short-name } 
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = אחזור הצעות מ־Mozilla תוך כדי הקלדה
+addressbar-dismissed-suggestions-label-2 =
+    .label = הצעות שנדחו
+    .description = שחזור הצעות שנדחו מנותני חסות ומ־{ -brand-short-name }.
 addressbar-quickactions-learn-more = מידע נוסף
 addressbar-dismissed-suggestions-label = הצעות שנדחו
 addressbar-restore-dismissed-suggestions-description = שחזור הצעות שנדחו מנותני חסות ומ־{ -brand-short-name }.
