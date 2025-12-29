@@ -923,6 +923,13 @@ search-show-suggestions-private-windows-2 =
     .label = Жекелік терезелердегі іздеу ұсыныстары
 search-suggestions-cant-show-2 =
     .message = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
+addressbar-header-1 =
+    .label = Адрес жолағы
+    .description = Адрестік жолағында көрсетілетін ұсыныстарды таңдаңыз
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Адрес жолағындағы { -brand-short-name } және біздің серіктестеріміздің ұсыныстары.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -1597,7 +1604,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Cookie баннерлерінен автоматты түрде бас тарту
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Адрес жолағы
 addressbar-suggest-1 = Адрестік жолағында көрсетілетін ұсыныстарды таңдаңыз
@@ -1647,6 +1654,10 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Трендтегі іздеу ұсыныстары
     .accesskey = т
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = { -brand-short-name } ұсыныстары
+    .description = Сіздің іздеуіңізге қатысты интернеттен ұсыныстар алыңыз.
 addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
 addressbar-locbar-showrecentsearches-option =
     .label = Жуырдағы іздеулерді көрсету
