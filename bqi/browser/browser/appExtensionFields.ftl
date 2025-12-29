@@ -8,4 +8,20 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = تم سیستوم — خوتکار
 extension-firefox-compact-light-name = رۊشن
+extension-firefox-compact-light-description = ی زمینه وا تئر رنگی رۊشن.
 extension-firefox-compact-dark-name = تاریک
+extension-firefox-compact-dark-description = ی زمینه وا تئر رنگی تاریک.
+extension-firefox-alpenglow-name = Firefox Alpenglow
+extension-firefox-alpenglow-description = شؽواتی رنگی سی دویمه یل، نومگه یل وو نیمدری یل و کار بگیرین.
+
+## Colorway Themes
+## These themes are variants of a colorway. The colorway is specified in the
+## $colorway-name variable.
+## Variables
+##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
+
+extension-colorways-soft-name = { $colorway-name } — نرم
+extension-colorways-balanced-name = { $colorway-name } — منجقا
+# "Bold" is used in the sense of bravery or courage, not in the sense of
+# emphasized text.
+extension-colorways-bold-name = { $colorway-name } — پور رنگ

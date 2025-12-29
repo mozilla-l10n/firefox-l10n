@@ -47,6 +47,7 @@ pocket-panel-signup-cta-a-fix = دویمه زفت کردن ایسا سی این�
 pocket-panel-home-welcome-back = خش ٱوۊڌین
 pocket-panel-home-discover-more = قلوه بنیرین
 pocket-panel-home-explore-more = جوستن
+pocket-panel-home-most-recent-saves = نۊ ترین زفت کردنی یل ایسا ایچونن:
 pocket-panel-home-most-recent-saves-loading = زفت کردنا دیندایی هونی بار ونی ابۊن…
 pocket-panel-home-new-user-cta = سی زفت مقاله یل، ویدیو یل وو لینگا، ری دویمه { -pocket-brand-name } کیلیک کۊنین.
 pocket-panel-home-new-user-message = زفت کردنا دیندایی خوته ایچونا بنیر.

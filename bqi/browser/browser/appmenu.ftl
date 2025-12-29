@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-banner-update-downloading =
+    .label = دانلود ورۊ رسۊوی { -brand-shorter-name }
 appmenuitem-new-tab =
     .label = بلگه نۊ
 appmenuitem-new-window =

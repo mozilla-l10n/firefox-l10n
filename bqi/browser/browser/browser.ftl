@@ -879,6 +879,9 @@ restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+data-reporting-notification-button =
+    .label = پسند چیایی ک اخوم یک رسۊوی کونوم
+    .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = گشتن سیخومی
 # Tooltip for the indicator shown in the private browsing window titlebar.
