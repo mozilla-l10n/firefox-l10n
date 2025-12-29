@@ -456,7 +456,7 @@ sitedata-clear =
     .label = दाटाफोरखौ खोमोर...
     .accesskey = I
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-history-option =
     .label = ब्राउजिं जारिमिन

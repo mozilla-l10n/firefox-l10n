@@ -661,7 +661,7 @@ sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = முகவரி பட்டை
 addressbar-suggest = இடப்பட்டையைப் பயன்படுத்தும் போது, பரிந்துரைக்கவும்

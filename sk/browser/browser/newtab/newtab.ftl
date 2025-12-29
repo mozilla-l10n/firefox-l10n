@@ -593,7 +593,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Vaše obľúbené položky na dosah ruky
 newtab-shortcuts-highlight-subtitle = Pridajte si skratku, aby ste mali svoje obľúbené stránky dostupné na jedno kliknutie.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Prečo to nahlasujete?

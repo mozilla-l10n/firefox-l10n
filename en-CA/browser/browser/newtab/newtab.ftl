@@ -596,7 +596,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Your favourites at your fingertips
 newtab-shortcuts-highlight-subtitle = Add a shortcut to keep your favourite sites one click away.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Why are you reporting this?

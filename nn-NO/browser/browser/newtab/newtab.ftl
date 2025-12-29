@@ -595,7 +595,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Dine favorittar lett tilgjengelege
 newtab-shortcuts-highlight-subtitle = Legg til ein snarveg for å ha favorittnettstadane dine eitt klikk unna.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Kvifor rapporterer du dette?

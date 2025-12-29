@@ -597,7 +597,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Ваші закладки завжди під рукою
 newtab-shortcuts-highlight-subtitle = Додайте ярлик, щоб мати миттєвий доступ до своїх улюблених сайтів.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Чому ви повідомляєте про це?

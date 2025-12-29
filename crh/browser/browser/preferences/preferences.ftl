@@ -691,7 +691,7 @@ sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adres Çubuğı
 addressbar-suggest = Adres çubuğını qullanğanda, telqin et:

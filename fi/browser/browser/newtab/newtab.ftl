@@ -596,7 +596,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Suosikkisi sormiesi ulottuvilla
 newtab-shortcuts-highlight-subtitle = Lisää pikakuvake, niin suosikkisivustosi ovat yhden napsautuksen päässä.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Miksi ilmoitat tästä?

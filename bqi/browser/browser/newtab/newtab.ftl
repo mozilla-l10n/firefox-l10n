@@ -70,7 +70,7 @@ newtab-weather-static-city = شئر نیویورک
 
 newtab-topic-selection-cancel-button = لقو
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-cancel = لقو
 

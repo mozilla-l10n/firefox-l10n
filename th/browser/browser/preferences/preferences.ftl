@@ -553,9 +553,6 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = ประสิทธิภาพ
@@ -959,11 +956,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

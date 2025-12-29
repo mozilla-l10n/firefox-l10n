@@ -819,7 +819,7 @@ sitedata-cookies-exceptions =
     .label = مستثنیات کو منظم کریں…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = پتہ کی بار
 addressbar-suggest = ہتہ کی بار استعمال کرتے وقت، تجویز دیں

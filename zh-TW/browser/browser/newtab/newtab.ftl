@@ -592,7 +592,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = 手指輕鬆一點就開啟最愛網站
 newtab-shortcuts-highlight-subtitle = 新增捷徑，輕鬆一點就能開啟您的最愛網站。
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = 為什麼您會如此回報？

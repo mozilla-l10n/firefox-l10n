@@ -108,7 +108,7 @@ history-clear-on-close-settings =
 sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = نشووکا

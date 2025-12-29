@@ -818,7 +818,7 @@ sitedata-cookies-exceptions =
 
 cookie-banner-learn-more = ఇంకా తెలుసుకోండి
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = చిరునామా పట్టీ
 addressbar-suggest = చిరునామా పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు

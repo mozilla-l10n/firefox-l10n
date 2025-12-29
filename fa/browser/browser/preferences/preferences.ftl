@@ -970,7 +970,7 @@ sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = نوار نشانی
 addressbar-suggest = هنگام استفاده از نوار مکان، پیشنهاد بده

@@ -596,7 +596,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Ihre Favoriten in Griffweite
 newtab-shortcuts-highlight-subtitle = Fügen Sie eine Verknüpfung hinzu, damit Ihre Lieblings-Websites mit einem Klick erreichbar sind.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Warum melden Sie das?

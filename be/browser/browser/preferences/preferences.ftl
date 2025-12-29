@@ -591,9 +591,6 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць

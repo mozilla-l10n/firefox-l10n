@@ -598,7 +598,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Waše fawority k ruce
 newtab-shortcuts-highlight-subtitle = Pśidajśo zwězanje, aby swóje nejlubše sedła jadno kliknjenje pšec źaržał.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Cogodla dawaśo to k wěsći?

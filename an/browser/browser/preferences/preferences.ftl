@@ -850,7 +850,7 @@ sitedata-cookies-exceptions =
     .label = Chestionar excepcions…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra d'adrezas
 addressbar-suggest = Quan s'use la barra d'adrezas, sucherir

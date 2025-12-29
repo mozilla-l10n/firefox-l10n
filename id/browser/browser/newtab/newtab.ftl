@@ -564,7 +564,7 @@ newtab-download-mobile-highlight-body-variant-a = Pindai kode untuk menjelajah d
 newtab-shortcuts-highlight-title = Favorit Anda di ujung jari Anda
 newtab-shortcuts-highlight-subtitle = Tambahkan pintasan untuk menjaga situs favorit Anda dengan sekali klik.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Mengapa Anda melaporkan ini?

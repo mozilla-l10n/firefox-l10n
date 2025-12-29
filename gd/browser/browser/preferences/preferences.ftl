@@ -1060,7 +1060,7 @@ cookie-banner-learn-more = Barrachd fiosrachaidh
 forms-handle-cookie-banners =
     .label = Nas lugha de bhrataichean bhriosgaidean
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bàr an t-seòlaidh
 addressbar-suggest = Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh

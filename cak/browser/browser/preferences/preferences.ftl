@@ -1014,7 +1014,7 @@ cookie-banner-learn-more = Tetamäx ch'aqa' chik
 forms-handle-cookie-banners =
     .label = Kech'utinär ri taq kib'aner koki
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Kikajtz'ik Ochochib'äl
 addressbar-suggest = Jampe' toq nawokisaj ri rukajtz'ik ochochib'äl, tichilab'ëx

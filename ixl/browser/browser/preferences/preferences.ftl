@@ -178,7 +178,7 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = Ootzi ka'te
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Aq'ol texhlal

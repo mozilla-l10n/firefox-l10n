@@ -267,7 +267,7 @@ history-clear-on-close-settings =
     .label = سیٹینگس...
     .accesskey = t
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = نشان زَد

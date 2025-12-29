@@ -128,7 +128,6 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 about-processes-utility-actor-js-oracle = Oracle JavaScript
 about-processes-utility-actor-windows-utils = Utilitas Windows
 about-processes-utility-actor-windows-file-dialog = Dialog Berkas Windows
-about-processes-utility-actor-pkcs11-module = Pembantu Modul Keamanan
 
 ## Displaying CPU (percentage and total)
 ## Variables:

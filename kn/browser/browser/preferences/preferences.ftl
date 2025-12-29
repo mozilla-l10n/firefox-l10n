@@ -518,7 +518,7 @@ sitedata-settings =
     .label = ದತ್ತಾಂಶವನ್ನು ನಿರ್ವಹಿಸು…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ವಿಳಾಸ ಪಟ್ಟಿ
 addressbar-suggest = ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ಬಳಸುವಾಗ, ಇದನ್ನು ಸಲಹೆ ಮಾಡು

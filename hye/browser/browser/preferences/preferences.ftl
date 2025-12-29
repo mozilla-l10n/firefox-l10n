@@ -1013,7 +1013,7 @@ sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Հասցէգաւտի
 addressbar-suggest = Հասցէագաւտին աւգտագործելիս առաջարկել

@@ -1096,7 +1096,7 @@ sitedata-cookies-exceptions =
 
 cookie-banner-learn-more = Gouzout hiroc’h
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barrenn chomlec'hioù
 addressbar-suggest = Pa ran gant ar varrenn chomlec'hioù, aliañ

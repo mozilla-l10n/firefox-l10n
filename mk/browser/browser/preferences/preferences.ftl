@@ -520,7 +520,7 @@ sitedata-learn-more = Дознајте повеќе
 sitedata-option-block-unvisited =
     .label = Колачиња од непосетени мрежни места
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Обележувачи

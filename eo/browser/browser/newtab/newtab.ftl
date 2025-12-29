@@ -592,7 +592,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Viaj plej ŝatataj retejoj ĉemane
 newtab-shortcuts-highlight-subtitle = Aldonu ŝparvojon por havi viajn plej ŝatatajn retejojn je unu alklako.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Kial vi raportas tion ĉi?

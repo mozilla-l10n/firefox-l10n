@@ -754,12 +754,6 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
@@ -981,11 +975,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'account { $email } nol è verificât.
 sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

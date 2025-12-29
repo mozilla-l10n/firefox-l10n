@@ -664,7 +664,7 @@ sitedata-settings =
     .label = အချက်အလက်ကို စီမံပါ...
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = လိပ်စာဘား
 addressbar-suggest = လိပ်စာဘားတန်းတွင်ရှာဖွေပါက အကြံပေးပါ

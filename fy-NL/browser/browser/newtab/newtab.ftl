@@ -596,7 +596,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Jo favoriten foar de hân
 newtab-shortcuts-highlight-subtitle = Foegje in fluchkeppeling ta om jo favorite websites op ien klik ôfstân te hâlden.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Wêrom melde jo dit?

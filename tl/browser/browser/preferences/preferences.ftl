@@ -937,7 +937,7 @@ sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Address Bar
 addressbar-suggest = Kapag ginagamit ang address bar, magmungkahi ng

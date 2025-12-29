@@ -220,7 +220,7 @@ sitedata-settings =
     .label = Katsi tutu…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-history-option =
     .label = Nduku ña ntsinu

@@ -898,7 +898,7 @@ cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
 forms-handle-cookie-banners =
     .label = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = വിലാസപ്പട്ട
 addressbar-suggest = വിലാസപ്പട്ട ഉപയോഗിക്കുമ്പോഴു് നിൎദ്ദേശിക്കുക

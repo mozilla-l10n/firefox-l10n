@@ -680,7 +680,7 @@ sitedata-settings =
     .label = Məlumatları idarə et…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Ünvan Sətri
 addressbar-suggest = Ünvan sətrindən istifadə edərkən bunları təklif et:

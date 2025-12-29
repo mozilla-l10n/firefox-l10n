@@ -1169,7 +1169,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Rebutja automàticament els bàners de galetes
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra d'adreces
 addressbar-suggest = Quan s'utilitzi la barra d'adreces, suggereix

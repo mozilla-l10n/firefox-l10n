@@ -1162,7 +1162,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = کوکی بینرز کوں خود کار طریقے نال ہَٹَک ݙیؤ
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ایڈریس بار
 addressbar-suggest = ایڈریس بار استعمال کریندے ویلھے، صلاح ݙیو

@@ -563,9 +563,6 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Učinkovitost
@@ -964,11 +961,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

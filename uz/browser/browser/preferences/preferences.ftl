@@ -760,7 +760,7 @@ sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Manzil paneli
 addressbar-suggest = Manzil panelidan foydalanilganda, taklif qilinsin

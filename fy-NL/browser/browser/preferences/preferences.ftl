@@ -1007,11 +1007,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } is net ferifiearre.
 sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =

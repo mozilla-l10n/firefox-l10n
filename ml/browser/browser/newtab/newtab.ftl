@@ -437,7 +437,7 @@ newtab-section-mangage-topics-blocked-topics = തടഞ്ഞവ
 newtab-section-mangage-topics-blocked-topics-empty-state = താങ്ങൾ ഇതുവരെ ഒരു വിഷയത്തിനെയും ത‍ടഞ്ഞിട്ടില്ല
 newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്കൂ!
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-ads-reason-not-interested =
     .label = എനിക്കിതിൽ താല്പര്യമില്ല

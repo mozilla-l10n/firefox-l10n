@@ -831,7 +831,7 @@ sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ঠিকানা বার
 addressbar-suggest = ঠিকানা বার ব্যবহার করার সময়, সুপারিশ করবে

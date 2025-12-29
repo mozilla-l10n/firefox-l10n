@@ -1701,3 +1701,12 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] Mae { -brand-product-name } wedi caniatáu { $count } cryptogloddwr
     }
 trustpanel-cryptominer-tab-list-header = Mae'r gwefannau hyn yn ceisio cryptogloddio:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [zero] <span data-l10n-name="count">{ $count }</span> Tracwyr wedi'u rhwystro ar y wefan hon
+        [one] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'i rwystro ar y wefan hon
+        [two] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
+        [few] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
+        [many] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
+       *[other] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
+    }

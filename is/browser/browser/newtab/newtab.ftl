@@ -596,7 +596,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Eftirlætin þín innan seilingar
 newtab-shortcuts-highlight-subtitle = Bættu við flýtileið til að hafa uppáhaldsvefina þína í eins-smells fjarlægð.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Af hverju ertu að tilkynna þetta?

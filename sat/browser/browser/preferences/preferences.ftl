@@ -1061,7 +1061,7 @@ cookie-banner-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 forms-handle-cookie-banners =
     .label = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚᱭ ᱢᱮ
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ᱴᱷᱤᱠᱟᱹᱱᱟ ᱦᱩᱨᱠᱟᱹᱬ
 addressbar-suggest = ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱡᱷᱚᱜ, ᱵᱟᱛᱟᱣ ᱢᱮ

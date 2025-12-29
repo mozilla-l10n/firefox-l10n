@@ -894,7 +894,7 @@ sitedata-cookies-exceptions =
     .label = Xestionar les esceiciones…
     .accesskey = X
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra de direiciones
 addressbar-suggest = Al usar la barra de direiciones, suxerir:

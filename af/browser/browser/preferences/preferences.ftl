@@ -564,7 +564,7 @@ history-clear-on-close-settings =
 sitedata-header = Koekies en webwerf-data
 sitedata-learn-more = Meer inligting
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-history-option =
     .label = Blaaigeskiedenis

@@ -595,7 +595,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = ხელთ იქონიეთ რჩეული მასალები
 newtab-shortcuts-highlight-subtitle = დაამატეთ მალსახმობი, რომ რჩეულ საიტებთან წვდომა ერთი წკაპით შეგეძლოთ.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = რა არის მოხსენების მიზეზი?

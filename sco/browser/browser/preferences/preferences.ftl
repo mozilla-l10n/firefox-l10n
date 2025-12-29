@@ -952,7 +952,7 @@ sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Address Baur
 addressbar-suggest = When yaisin the address baur, suggest

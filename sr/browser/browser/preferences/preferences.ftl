@@ -1157,7 +1157,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Аутоматски одбијте банере колачића
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Трака за адресу
 addressbar-suggest = Предлози у траци за адресу се заснивају на:

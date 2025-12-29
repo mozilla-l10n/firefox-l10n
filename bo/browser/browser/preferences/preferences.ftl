@@ -590,7 +590,7 @@ sitedata-settings =
     .label = Manage Data…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Address Bar
 addressbar-suggest = When using the address bar, suggest

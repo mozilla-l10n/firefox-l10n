@@ -948,7 +948,7 @@ sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra d'adreces
 addressbar-suggest = Quan s'utilitze la barra d'adreces, suggereix

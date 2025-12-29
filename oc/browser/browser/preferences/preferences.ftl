@@ -1157,7 +1157,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Refusar automaticament las banièras de cookies
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra d'adreça
 addressbar-suggest = Quand utilizi la barra d'adreça, suggerir

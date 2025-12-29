@@ -1036,7 +1036,7 @@ sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adreso laukas
 addressbar-suggest = Rašant adreso lauke, rodyti pasiūlymus iš:

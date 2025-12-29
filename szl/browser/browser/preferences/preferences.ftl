@@ -1018,7 +1018,7 @@ sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Posek z adresōm
 addressbar-suggest = Przi używaniu poska z adresōm doradzej

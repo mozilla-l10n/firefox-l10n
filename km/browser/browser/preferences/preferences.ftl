@@ -644,7 +644,7 @@ sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = របារអាសយដ្ឋាន
 addressbar-suggest = នៅពេលប្រើប្រាស់​របារអាសយដ្ឋាន ណែនាំ

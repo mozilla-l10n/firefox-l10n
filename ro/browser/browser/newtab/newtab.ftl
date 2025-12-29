@@ -593,7 +593,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Preferatele tale la îndemână
 newtab-shortcuts-highlight-subtitle = Adaugă o comandă rapidă ca să-ți păstrezi site-urile preferate la un clic distanță.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = De ce raportezi asta?

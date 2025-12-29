@@ -586,7 +586,7 @@ sitedata-settings =
     .label = डेटा व्यवस्थापन गर्नुहोस्…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ठेगानापट्टि
 addressbar-suggest = ठेगानापट्टि प्रयोग गर्दा, सुझाव दिनुहोस्

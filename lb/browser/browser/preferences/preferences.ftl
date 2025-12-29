@@ -295,7 +295,7 @@ sync-verification-not-sent-body = Et ass eis net méiglech d'Bestätegungsemail 
 
 sitedata-learn-more = Fir méi ze wëssen
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Lieszeechen

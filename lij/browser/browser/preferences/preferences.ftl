@@ -688,7 +688,7 @@ sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bara di indirissi
 addressbar-suggest = Quande ti deuvi a bara di indirissi, conseggia

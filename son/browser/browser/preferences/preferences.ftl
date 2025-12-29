@@ -442,7 +442,7 @@ history-clear-on-close-settings =
     .label = Kayandiyaney…
     .accesskey = n
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Doo-šilbay

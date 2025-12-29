@@ -632,7 +632,7 @@ sitedata-settings =
     .label = Uroh Data...
     .accesskey = U
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bar Alamat
 addressbar-suggest = 'Oh watèe ngui kutak alamat, bri saran

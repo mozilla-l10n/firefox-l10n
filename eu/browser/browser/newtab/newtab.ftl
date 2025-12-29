@@ -538,7 +538,7 @@ newtab-download-mobile-highlight-body-variant-c = Badakizu { -brand-product-name
 newtab-download-mobile-highlight-image =
     .aria-label = Mugikorrerako { -brand-product-name } deskargatzeko QR kodea
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Zergatik ari zara honen berri ematen?

@@ -980,11 +980,6 @@ sync-manage-account2 =
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =

@@ -1153,7 +1153,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Automātiski atteikt sīkdatņu paziņojumus
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adrešu josla
 addressbar-suggest = Meklējot adreses joslā, ieteikt

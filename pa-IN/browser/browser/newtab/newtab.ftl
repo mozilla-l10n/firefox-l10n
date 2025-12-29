@@ -595,7 +595,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = ਤੁਹਾਡੇ ਮਨਪਸੰਦ ਤੁਹਾਡੀਆਂ ਉਂਗਲਾਂ ਉੱਤੇ
 newtab-shortcuts-highlight-subtitle = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਕਲਿੱਕ ਨਾਲ ਖੋਲ੍ਹਣ ਲਈ ਸ਼ਾਰਟਕੱਟ ਵਿੱਚ ਜੋੜੋ।
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = ਤੁਸੀਂ ਇਸ ਬਾਰੇ ਰਿਪੋਰਟ ਕਿਉਂ ਕਰ ਰਹੇ ਹੋ?

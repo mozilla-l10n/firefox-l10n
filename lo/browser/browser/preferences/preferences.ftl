@@ -977,7 +977,7 @@ cookie-banner-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 forms-handle-cookie-banners =
     .label = ຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ແຖບທີ່ຢູ່
 addressbar-suggest = ເມື່ອໃຊ້ແຖບທີ່ຢູ່, ແນະນຳ

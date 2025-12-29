@@ -660,7 +660,7 @@ sitedata-settings =
     .label = Urus Data…
     .accesskey = U
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Bar Alamat
 addressbar-suggest = Apabila menggunakan bar alamat, syorkan

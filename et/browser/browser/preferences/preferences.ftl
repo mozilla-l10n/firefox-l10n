@@ -1018,7 +1018,7 @@ sitedata-cookies-exceptions =
     .label = Halda erandeid…
     .accesskey = H
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Aadressiriba
 addressbar-suggest = Aadressiriba kasutamisel otsitakse soovitusi

@@ -595,7 +595,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = รายการโปรดของคุณอยู่แค่ปลายนิ้ว
 newtab-shortcuts-highlight-subtitle = เพิ่มทางลัดเพื่อให้เข้าถึงไซต์โปรดของคุณได้ในคลิกเดียว
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = ทำไมคุณถึงรายงานสิ่งนี้?

@@ -687,7 +687,7 @@ sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = સરનામા પટ્ટી
 addressbar-suggest = સરનામાં બારનો ઉપયોગ કરતી વખતે, સૂચન કરો

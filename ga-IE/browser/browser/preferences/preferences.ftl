@@ -575,7 +575,7 @@ history-clear-on-close-settings =
 sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra Suímh
 addressbar-suggest = Agus an barra suímh in úsáid, mol

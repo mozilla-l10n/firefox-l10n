@@ -791,7 +791,7 @@ sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = पता पट्टी
 addressbar-suggest = पता बार का उपयोग करते समय, सुझाव दें

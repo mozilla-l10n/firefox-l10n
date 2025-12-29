@@ -335,7 +335,7 @@ history-clear-on-close-settings =
     .label = सेटिंग…
     .accesskey = t
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = पुस्तकचिह्न

@@ -1181,7 +1181,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = දත්තකඩ පතාක ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කරන්න
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ලිපින තීරය
 addressbar-suggest = ලිපින තීරුව භාවිත කරන විට, යෝජනා කරන්න

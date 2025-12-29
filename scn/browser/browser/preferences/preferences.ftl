@@ -812,7 +812,7 @@ sitedata-settings =
     .label = Manija dati…
     .accesskey = d
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra dû nnirizzu
 addressbar-suggest = Quannu si usa a barra dû nnirizzu, duna suggirimenti

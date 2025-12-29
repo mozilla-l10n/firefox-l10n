@@ -738,7 +738,7 @@ sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = पत्ता पट्टी
 addressbar-suggest = पत्ता पट्टी वापरतेवेळी, सूचवा

@@ -794,7 +794,7 @@ sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Barra da nuu
 addressbar-suggest = Saa ni'inu barra nuu, sugerir

@@ -664,7 +664,7 @@ sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Adresu jūsla
 addressbar-suggest = Meklejūt adresi juslā, īteikt

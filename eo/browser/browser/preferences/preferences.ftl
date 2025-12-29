@@ -562,9 +562,6 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -969,11 +966,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ne estas konfirmita.
 sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

@@ -739,7 +739,7 @@ sitedata-settings =
     .label = Yuɓɓin keɓe…
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Palal Ñiiɓirɗe
 addressbar-suggest = So aɗa huutoroo palal ñiiɓirɗe, wasiyo

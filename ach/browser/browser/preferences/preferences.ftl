@@ -714,7 +714,7 @@ sitedata-settings =
     .label = Lo Data
     .accesskey = D
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Lanyut me kanonge
 addressbar-suggest = Ka i tye katic ki lanyut me kabedo, mi tam

@@ -131,7 +131,6 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows-verktøy
 about-processes-utility-actor-windows-file-dialog = Windows fildialog
-about-processes-utility-actor-pkcs11-module = Sikkerhetsmodul-hjelper
 
 ## Displaying CPU (percentage and total)
 ## Variables:

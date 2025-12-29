@@ -988,11 +988,6 @@ sync-manage-account2 =
 sync-signedin-unverified = A(z) { $email } nincs ellenőrizve.
 sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztatásához
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =

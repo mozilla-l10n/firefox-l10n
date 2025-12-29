@@ -1024,11 +1024,6 @@ sync-signedin-login-failure2 =
     .label = 您已退出登录 { $email }
     .description = 再次登录以重新连接并开始同步您的数据。
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =

@@ -591,7 +591,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = 顺手就能打开常用网站
 newtab-shortcuts-highlight-subtitle = 添加快捷方式，一键打开常用网站。
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = 此内容存在什么问题？

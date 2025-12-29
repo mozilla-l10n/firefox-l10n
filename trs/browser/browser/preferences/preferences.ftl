@@ -779,7 +779,7 @@ sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Dukuán direksion
 addressbar-suggest = 'Ngà rajsun' dukuán direksion

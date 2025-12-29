@@ -469,7 +469,7 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = Funda okungakumbi
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Iibhukhmakhi

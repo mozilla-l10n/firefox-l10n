@@ -554,7 +554,7 @@ newtab-download-mobile-highlight-image =
 newtab-shortcuts-highlight-title = Vaši favoriti na dohvat ruke
 newtab-shortcuts-highlight-subtitle = Dodajte prečicu da biste svoje omiljene stranice imali pri ruci na jedan klik.
 
-## Strings for reporting ads and content
+## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
     .label = Zašto ovo prijavljujete?

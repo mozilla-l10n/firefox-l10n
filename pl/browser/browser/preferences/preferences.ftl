@@ -565,9 +565,6 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Wydajność
@@ -973,11 +970,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
 sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

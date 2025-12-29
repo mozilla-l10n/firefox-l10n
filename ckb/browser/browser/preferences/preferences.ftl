@@ -747,7 +747,7 @@ sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = توڵی ناونیشان
 addressbar-suggest = کاتێک شریتی ناونیشان بەکاردێنیت، پێشنیاری

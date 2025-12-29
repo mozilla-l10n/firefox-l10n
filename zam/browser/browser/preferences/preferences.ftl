@@ -189,7 +189,7 @@ history-clear-on-close-settings =
     .label = Tak thus kuey como lash luuy...
     .accesskey = T
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Ndó~làz=ná
