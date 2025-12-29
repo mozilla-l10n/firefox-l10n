@@ -111,7 +111,7 @@ neterror-nss-failure-not-verified = Bok, kótaryž cośo se woglědaś, njedajo 
 neterror-nss-failure-contact-website = Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = { -brand-short-name } jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <b>{ $hostname }</b>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidło, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.
+certerror-intro = { -brand-short-name } jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <b>{ $hostname }</b>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidła, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = { -brand-short-name } jo namakał potencielne wěstotne wobgrozenje a jo pśetergnuł zwisk z <b>{ $hostname }</b>, dokulaž se toś to websedło wěsty zwisk pomina.

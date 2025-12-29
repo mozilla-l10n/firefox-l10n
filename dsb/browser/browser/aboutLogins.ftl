@@ -334,7 +334,7 @@ about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajob
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
 about-logins-confirm-export-dialog-title2 = Notica wó eksportěrowanju gronidłow
 about-logins-confirm-export-dialog-message2 =
-    Gaž eksportěrujośo, se waše gronidło do dataje z cytajobnym tekstom składuju.
+    Gaž eksportěrujośo, se waše gronidła do dataje z cytajobnym tekstom składuju.
     Gaž sćo wužył dataju, pórucamy ju wulašowaś, až druge, kótarež toś ten rěd wužywaju, njeby wiźeli waše gronidła.
 about-logins-confirm-export-dialog-confirm-button2 = Z eksportom pókšacowaś
 about-logins-alert-import-title = Importěrowanje dokóńćone
