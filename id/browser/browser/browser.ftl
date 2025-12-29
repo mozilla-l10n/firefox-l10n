@@ -426,6 +426,9 @@ quickactions-cmd-restart = mulai ulang
 # Opens the screenshot tool
 quickactions-screenshot3 = Ambil tangkapan layar
 quickactions-cmd-screenshot2 = tangkapan layar, ambil tangkapan layar
+# Opens about:translations
+quickactions-translate = Terjemahkan
+quickactions-cmd-translate = terjemahkan
 quickactions-cmd-screenshot = tangkapan layar
 # Opens about:preferences
 quickactions-settings2 = Kelola pengaturan
@@ -828,6 +831,9 @@ urlbar-result-menu-dont-show-market =
     .label = Jangan tampilkan saran pasar
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Terima kasih atas tanggapan Anda. Anda tidak akan melihat saran pasar lagi.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Saran pasar saham
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Terima kasih atas tanggapan Anda. Anda tidak akan melihat saran ini lagi.
