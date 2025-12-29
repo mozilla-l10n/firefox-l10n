@@ -531,6 +531,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -641,6 +644,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -858,6 +867,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1293,7 +1307,7 @@ forms-handle-cookie-banners =
 cookie-banner-blocker-checkbox-label =
     .label = Hafna sjálfkrafa vefkökuborðum
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = Veffangastika
 addressbar-suggest = Þegar veffangastikan er notuð skal stinga upp á
@@ -1332,6 +1346,13 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Flýtiaðgerðir
     .accesskey = g
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Tillögur frá { -brand-short-name }
+    .description = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Tillögur frá styrktaraðilum
+    .description = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 addressbar-locbar-showrecentsearches-option =
     .label = Sýna nýlegar leitir
@@ -1350,6 +1371,9 @@ addressbar-locbar-suggest-nonsponsored-desc = Fáðu tillögur af vefnum sem ten
 addressbar-locbar-suggest-sponsored-option =
     .label = Tillögur frá styrktaraðilum
 addressbar-locbar-suggest-sponsored-desc = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
+addressbar-dismissed-suggestions-label-2 =
+    .label = Tillögum vísað frá
+    .description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
 addressbar-quickactions-learn-more = Kanna nánar
 addressbar-dismissed-suggestions-label = Tillögum vísað frá
 addressbar-restore-dismissed-suggestions-description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
