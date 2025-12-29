@@ -53,3 +53,4 @@ about-translations-swap-languages =
 # The title attribute for the button that clears the source text area.
 about-translations-clear-button =
     .title = Cancella testo sorgente
+
