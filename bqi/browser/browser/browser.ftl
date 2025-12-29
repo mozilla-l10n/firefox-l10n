@@ -937,6 +937,8 @@ refresh-blocked-allow =
 
 ## Add-on Pop-up Notifications
 
+popup-notification-addon-install-unsigned =
+    .value = (تائیڌ نوابیڌه)
 popup-notification-xpinstall-prompt-block-url = نیشتن جۊزعیات
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =
@@ -958,6 +960,13 @@ popup-show-popup-menuitem =
 #   $redirectURI (String): the URI for the redirect
 popup-trigger-redirect-menuitem =
     .label = نشووݩ داڌن «{ $redirectURI }»
+
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = تموم کردن پۊرنیڌن
+onboarding-aw-finish-setup-button =
+    .label = تموم کردن پۊرنیڌن
+    .tooltiptext = تموم کردن ر وندن { -brand-short-name }
 
 ## The urlbar trust icon & panel
 
