@@ -847,6 +847,13 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
+addressbar-header-1 =
+    .label = Address Bar
+    .description = Choose which suggestions display in your address bar
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggestions from { -brand-short-name } and our partners in your address bar.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
