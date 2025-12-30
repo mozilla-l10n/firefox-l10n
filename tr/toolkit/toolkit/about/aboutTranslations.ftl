@@ -29,6 +29,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Çeviri
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Kopyala
+    .title = Çeviriyi kopyala
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Kopyalandı
+    .title = Çeviriyi kopyala
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Dil seçin
@@ -38,3 +46,6 @@ about-translations-translating-message = Çevriliyor…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Dilleri tersine çevir
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Kaynak metni temizle

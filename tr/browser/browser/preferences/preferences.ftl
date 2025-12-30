@@ -1398,6 +1398,9 @@ payments-list-item-label = <strong>Ödeme yöntemleri</strong>
 payments-delete-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
 payments-delete-payment-prompt-confirm-button = Sil
 payments-delete-payment-prompt-cancel-button = Vazgeç
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Hiç ödeme yöntemi eklenmedi
 payments-remove-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
 payments-remove-payment-prompt-confirm-button = Sil
 payments-remove-payment-prompt-cancel-button = Vazgeç
@@ -1422,6 +1425,9 @@ addresses-delete-address-prompt-cancel-button = Vazgeç
 autofill-addresses-add-button = Yeni adres ekle
 autofill-addresses-manage-addresses-title =
     .heading = Adresleri ve daha fazlasını yönet
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Hiç adres eklenmedi
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1665,6 +1671,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Kapatılan öneriler
     .description = Sponsorlardan ve { -brand-short-name } tarayıcısından gelen kapatılmış önerileri geri getir.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Önerileri geri yükle
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 addressbar-dismissed-suggestions-label = Kapatılan öneriler
 addressbar-restore-dismissed-suggestions-description = Sponsorlardan ve { -brand-short-name } tarayıcısından gelen kapatılmış önerileri geri getir.
