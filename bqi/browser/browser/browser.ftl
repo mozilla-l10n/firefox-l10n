@@ -411,6 +411,7 @@ quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = زفت کردن بلگه و عونوان PDF
+quickactions-cmd-savepdf2 = pdf، زفت بلگه
 # Opens a new private browsing window
 quickactions-private2 = گۊشیڌن نیمدری سیخومی
 quickactions-cmd-private = گشتن سیخومی
@@ -436,6 +437,7 @@ quickactions-update = ورۊ رسۊوی { -brand-short-name }
 quickactions-cmd-update = ورۊ رسۊوی
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = نیشتن کود بونچک بلگه
+quickactions-cmd-viewsource = نیشتن بونچک، بونچک
 
 ## Bookmark Panel
 
