@@ -467,6 +467,8 @@ identity-https-only-dropdown-off-temporarily =
 identity-permissions-storage-access-header = کۊکیا منجا وبگهی
 identity-permissions-storage-access-learn-more = قلوه دووسته بۊین
 identity-permissions-reload-hint = گاشڌ لازوم بۊ ک بلگه ن سی ائمال آلشتکاریا دووارته بار ونی کۊنین.
+identity-clear-site-data =
+    .label = پاک کردن کۊکیا وو داده یل وبگه…
 identity-remove-cert-exception =
     .label = پاک کردن استسنا
     .accesskey = R
@@ -561,6 +563,10 @@ urlbar-placeholder-keyword-disabled =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = پیتینیڌن من وب
     .aria-label = پیتینیڌن وا { $name }
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = پیتینیڌن وا { $name } یا ی نشۊوی بزنین
 urlbar-switch-to-tab =
     .value = گوم زیڌن و بلگه:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -750,6 +756,8 @@ bookmarks-menu-button =
     .label = نومگه نشووکا
 bookmarks-other-bookmarks-menu =
     .label = نشووکا دیری
+bookmarks-mobile-bookmarks-menu =
+    .label = نشووکا تیلیفووݩ
 
 ## Variables:
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
