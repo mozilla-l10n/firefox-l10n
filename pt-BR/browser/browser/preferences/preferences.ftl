@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronização
+account-group-label =
+    .label = Conta { -vendor-short-name }
 account-placeholder =
     .label = Você não está conectado.
     .description = Entre na sua conta para manter seus dados privativos, criptografados e sincronizados entre dispositivos.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Métodos de pagamento</strong>
 payments-delete-payment-prompt-title = Excluir este método de pagamento?
 payments-delete-payment-prompt-confirm-button = Excluir
 payments-delete-payment-prompt-cancel-button = Cancelar
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nenhum método de pagamento adicionado
 payments-remove-payment-prompt-title = Remover este método de pagamento?
 payments-remove-payment-prompt-confirm-button = Remover
 payments-remove-payment-prompt-cancel-button = Cancelar
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Cancelar
 autofill-addresses-add-button = Adicionar novo endereço
 autofill-addresses-manage-addresses-title =
     .heading = Gerenciar endereços e outras informações
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nenhum endereço adicionado
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugestões descartadas
     .description = Restaurar sugestões descartadas de patrocinadores e do { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaurar sugestões
 addressbar-quickactions-learn-more = Saiba mais
 addressbar-dismissed-suggestions-label = Sugestões descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugestões descartadas de patrocinadores e do { -brand-short-name }.
