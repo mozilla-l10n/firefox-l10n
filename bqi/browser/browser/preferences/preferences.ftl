@@ -32,6 +32,7 @@ preferences-profiles-header = پوروفایلا
 preferences-manage-profiles-learn-more = قلوه دووسته بۊین
 preferences-manage-profiles-button =
     .label = دؽوۉداری پوروفایلا
+preferences-copy-profile-button = لف گیری
 browser-containers-learn-more = قلوه دووسته بۊین
 browser-containers-settings =
     .label = سامووا…

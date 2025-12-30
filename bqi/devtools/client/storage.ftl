@@ -5,6 +5,9 @@
 
 ### These strings are used inside the Storage Inspector.
 
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = لف گیری
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
