@@ -36,3 +36,63 @@ turn-on-scheduled-backups-header = കരുതല്പകൎപ്പു ത�
 turn-on-scheduled-backups-support-link = എന്തിന്റെ കരുതല്പകൎപ്പാണു് ഉണ്ടാക്കാൻ പോവുന്നതു് ?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = ഇടം
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (ശുപാൎശിച്ചതു്)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] തിരഞ്ഞെടുക്കുക…
+       *[other] തിരയുക…
+    }
+turn-on-scheduled-backups-encryption-create-password-label = ഒളിവാക്കു്
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = ഒളിവാക്ക് വീണ്ടും എഴുതുക
+turn-on-scheduled-backups-cancel-button = റദ്ദാക്കുക
+turn-on-scheduled-backups-confirm-button = കരുതല്പകൎപ്പു തുടങ്ങിവയ്ക്കുക
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = കരുതല്പകൎപ്പുണ്ടാക്കൽ അണയ്ക്കണോ?
+turn-off-scheduled-backups-description = ഇതു താങ്ങളുടെ എല്ലാ കരുതിവച്ച ഡാറ്റയും മായ്ക്കും. ഇതു പഴയപടിയാക്കാൻ കഴിയത്തില്ല.
+turn-off-scheduled-backups-support-link = കൂടുതല്‍ അറിയുക
+turn-off-scheduled-backups-cancel-button = റദ്ദാക്കുക
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] തിരഞ്ഞെടുക്കുക…
+       *[other] തിരയുക…
+    }
+restore-from-backup-password-label = ഒളിവാക്കു്
+restore-from-backup-cancel-button = റദ്ദാക്കുക
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-validity-has-email = ഇതൊരു ഇ-തപാൽ വിലാസമായി ഇടാൻ പറ്റില്ല
+password-validity-do-not-match = ഒളിവാക്കുകൾ പൊരുത്തപ്പെടുന്നില്ല
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = വെന്നു!
+password-rules-a11y-warning =
+    .alt = മുന്നറിയിപ്പു്
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = ഒളിവാക്കു പരിരക്ഷ മാറ്റുക
+disable-backup-encryption-support-link = എന്തിന്റെ കരുതല്പകൎപ്പാണു് ഉണ്ടാക്കാൻ പോവുന്നതു് ?
+disable-backup-encryption-cancel-button = റദ്ദാക്കുക
+disable-backup-encryption-confirm-button = ഒളിവാക്കു് മായ്ക്കുക
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-encryption-state-value-encrypted = അതെ
+backup-file-encryption-state-value-not-encrypted = ഇല്ല
+backup-file-creation-device-label = ഉപകരണം:
+backup-file-creation-date-label = ഉണ്ടാക്കിയതു്:

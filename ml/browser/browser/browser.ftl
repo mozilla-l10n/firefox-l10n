@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — സ്വകാര്യ തിരച്ചിൽ
        *[other] { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = സ്വകാര്യ തിരച്ചിൽ
 
 ##
 
@@ -378,6 +381,9 @@ quickactions-cmd-restart = പുനരാരംഭിക്കുക
 # Opens the screenshot tool
 quickactions-screenshot3 = പ്രതലപ്പിളർപ്പു് എടുക്കുക
 quickactions-cmd-screenshot2 = പ്രതലപ്പിളൎപ്പു്, പ്രതലപ്പിളൎപ്പെടുക്കുക
+# Opens about:translations
+quickactions-translate = മൊഴിമാറ്റുക
+quickactions-cmd-translate = മൊഴിമാറ്റുക
 quickactions-cmd-screenshot = പ്രതലപ്പിളർപ്പു്
 # Opens about:preferences
 quickactions-settings2 = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
@@ -728,6 +734,8 @@ urlbar-searchmode-exit-button =
 urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = പുതിയതു്
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
