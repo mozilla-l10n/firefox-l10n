@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronisation
+account-group-label =
+    .label = { -vendor-short-name } Konto
 account-placeholder =
     .label = Sie sind nicht angemeldet
     .description = Melden Sie sich an, um Ihre Daten sicher und verschlüsselt zwischen Ihren Geräten zu synchronisieren.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Zahlungmethoden</strong>
 payments-delete-payment-prompt-title = Diese Zahlungsmethode löschen?
 payments-delete-payment-prompt-confirm-button = Löschen
 payments-delete-payment-prompt-cancel-button = Abbrechen
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Keine Zahlungsmethoden hinzugefügt
 payments-remove-payment-prompt-title = Diese Zahlungsmethode entfernen?
 payments-remove-payment-prompt-confirm-button = Entfernen
 payments-remove-payment-prompt-cancel-button = Abbrechen
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Abbrechen
 autofill-addresses-add-button = Neue Adresse hinzufügen
 autofill-addresses-manage-addresses-title =
     .heading = Adressen und mehr verwalten
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Keine Adressen hinzugefügt
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Verworfene Vorschläge
     .description = Verworfene Vorschläge von Sponsoren und { -brand-short-name } wiederherstellen.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Vorschläge wiederherstellen
 addressbar-quickactions-learn-more = Weitere Informationen
 addressbar-dismissed-suggestions-label = Verworfene Vorschläge
 addressbar-restore-dismissed-suggestions-description = Verworfene Vorschläge von Sponsoren und { -brand-short-name } wiederherstellen.
