@@ -433,6 +433,9 @@ quickactions-themes = دؽوۉداری زمینه یل
 quickactions-cmd-themes = زمینه یل
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ورۊ رسۊوی { -brand-short-name }
+quickactions-cmd-update = ورۊ رسۊوی
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = نیشتن کود بونچک بلگه
 
 ## Bookmark Panel
 
