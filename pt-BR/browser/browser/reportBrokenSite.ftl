@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Escolha um motivo
 report-broken-site-panel-blocked-trackers-label =
     .label = Enviar URLs bloqueadas pela proteção contra rastreamento
 report-broken-site-panel-blocked-trackers-description = A proteção aprimorada contra rastreamento pode bloquear rastreadores e scripts que alguns sites precisam para funcionar corretamente.
+report-broken-site-panel-preview-button =
+    .label = Ver relatório
+report-broken-site-panel-preview-header =
+    .label = Ver relatório
