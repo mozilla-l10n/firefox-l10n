@@ -48,3 +48,13 @@ styleeditor-stylesheet-rule-count =
         [one] erregela { $ruleCount }.
        *[other] { $ruleCount } erregela.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Txukundu estilo-orria
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = CSS fitxategiak txukundu ditzake soilik
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Ezin ditu irakurtzeko soilik diren estilo-orriak txukundu.

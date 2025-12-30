@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label =
+    .label = Llogari { -vendor-short-name }
 account-placeholder =
     .label = S’keni bërë hyrjen
     .description = Që t’i mbani të dhënat private, të fshehtëzuara dhe të njëkohësuara nëpër pajisje, bëni hyrjen në llogari.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Metoda pagesash</strong>
 payments-delete-payment-prompt-title = Të fshihet kjo metodë pagesash?
 payments-delete-payment-prompt-confirm-button = Fshije
 payments-delete-payment-prompt-cancel-button = Anuloje
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = S’u shtuan metoda pagesash
 payments-remove-payment-prompt-title = Të hiqet kjo metodë pagesash?
 payments-remove-payment-prompt-confirm-button = Hiqe
 payments-remove-payment-prompt-cancel-button = Anuloje
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Anuloje
 autofill-addresses-add-button = Shtoni adresë të re
 autofill-addresses-manage-addresses-title =
     .heading = Administroni adresa, etj
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = S’u shtuan adresa
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugjerimet u hodhën tej
     .description = Rikthe sugjerime të hedhura tej, nga sponsorë dhe { -brand-short-name }-i.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Rikthe sugjerimet
 addressbar-quickactions-learn-more = Mësoni më tepër
 addressbar-dismissed-suggestions-label = Sugjerimet u hodhën tej
 addressbar-restore-dismissed-suggestions-description = Rikthe sugjerime të hedhura tej, nga sponsorë dhe { -brand-short-name }-i.

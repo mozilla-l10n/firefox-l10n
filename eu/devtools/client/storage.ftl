@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expires / Max-Age
 storage-table-headers-cookies-size = Tamaina
 storage-table-headers-cookies-last-accessed = Azken atzipena
 storage-table-headers-cookies-creation-time = Sortuta
+storage-table-headers-cookies-update-time = Eguneratuta
 storage-table-headers-cache-status = Egoera
 storage-table-headers-extension-storage-area = Biltegiratze-eremua
 
@@ -107,3 +108,11 @@ storage-idb-delete-blocked = "{ $dbName }" datu-basea ezabatu egingo da konexio 
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = Ezin da "{ $dbName }" datu-basea ezabatu.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = Cookiea ezin da sortu: "{ $errorString }".
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = Cookiea ezin da eguneratu: "{ $errorString }".

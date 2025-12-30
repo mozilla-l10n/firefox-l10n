@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Garbitu historia osoa
     .style = min-width: 34em
 clear-data-settings-label = { -brand-short-name } ixtean, garbitu automatikoki
+sanitize-on-shutdown-description = Garbitu automatikoki markatutako elementu guztiak { -brand-short-name } ixtean.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
