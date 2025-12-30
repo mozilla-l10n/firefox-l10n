@@ -68,6 +68,7 @@ restore-from-backup-cancel-button = Отказ
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-support-link = Научете повече
 enable-backup-encryption-create-password-label = Парола
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Повторете паролата
@@ -93,3 +94,10 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Премахване на защитата с парола
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = Не е избран файл

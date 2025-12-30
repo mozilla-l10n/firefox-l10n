@@ -426,6 +426,9 @@ quickactions-cmd-restart = рестарт, рестартиране
 # Opens the screenshot tool
 quickactions-screenshot3 = Снимка на екрана
 quickactions-cmd-screenshot2 = екранна снимка, правене на екранна снимка
+# Opens about:translations
+quickactions-translate = Превеждане
+quickactions-cmd-translate = превеждане
 quickactions-cmd-screenshot = снимка на екрана
 # Opens about:preferences
 quickactions-settings2 = Настройки
@@ -526,6 +529,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Връзката към страницата не е защитена.
 identity-connection-verified = Връзката със сайта е шифрована.
 identity-ev-owner-label = Сертификатът е издаден на:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Квалифициран, както е посочено в Регламент (ЕС) 2024/1183.
 identity-description-custom-root2 = Mozilla не разпознава този издател на сертификати. Може да е добавен от вашата операционна система или от администратор.
 identity-remove-cert-exception =
     .label = Премахване на изключението
