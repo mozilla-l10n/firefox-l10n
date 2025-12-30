@@ -10,6 +10,7 @@ contextual-manager-more-options-popup =
 ## Passwords
 
 contextual-manager-passwords-command-create = ٱووردن رزم
+contextual-manager-passwords-command-import = و من ٱووردن ز ی فایل…
 contextual-manager-passwords-command-settings = سامووا
 contextual-manager-passwords-command-help = هیاری
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -18,6 +19,9 @@ contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = و در کشیڌن رزما زفت وابیڌه
+# The MacOS string is preceded by the operating system with "Firefox is trying to ".
+# Only provide the reason that account verification is needed. Do not put a complete sentence here.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = رزم زفت وابیڌه ن وادیاری بیارین
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = آلشت رزم زفت وابیڌه

@@ -1003,6 +1003,11 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
+trustpanel-etp-label-disabled = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری قیر فعال هڌ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری سی { $host } فعال هڌ
 trustpanel-connection-label-secure = منپیز ٱمن
 trustpanel-connection-label-insecure = منپیز ٱمن نؽ
 trustpanel-description-enabled2 = ایسا زفت ابۊین. ٱر چیه ن بوینیم، و ایسا وارسۊوی اکۊنیم.
