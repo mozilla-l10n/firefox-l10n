@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-basics-profiles = پوروفایلا
+copy-text-to-clipboard-label = لف گیری هؽل من کلیپ بورد
 
 ## Codec support table
 

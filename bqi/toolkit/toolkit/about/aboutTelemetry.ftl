@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-home-section = هووه
+# button label to copy the histogram
+about-telemetry-histogram-copy = لف گیری
