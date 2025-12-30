@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = 译文
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = 复制
+    .title = 复制译文
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = 已复制
+    .title = 复制译文
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = 选择语言
@@ -42,3 +50,6 @@ about-translations-translating-message = 正在翻译…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = 交换语言
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = 清空原始文本

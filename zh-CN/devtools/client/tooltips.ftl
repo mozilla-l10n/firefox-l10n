@@ -84,6 +84,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 请尝试加
 inactive-css-not-multicol-container-fix = 请尝试添加 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-column-span-fix = 请尝试向其祖先元素之一添加 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = 请尝试为元素添加 <strong>position:absolute</strong>，或为其父元素添加 <strong>display:grid</strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = 请尝试为元素添加 <strong>position:absolute</strong>，或为其父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:grid</ strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-item-fix-2 = 请尝试为元素的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-container-fix = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
@@ -137,3 +138,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">详细了解<
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = 此选择器使用了不受约束的 <strong>:has()</strong>，可能拖慢速度
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = 位于 <strong>:scope</strong> 后方的兄弟选择器将不会匹配任何内容
