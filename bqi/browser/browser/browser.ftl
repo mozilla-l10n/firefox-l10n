@@ -981,6 +981,19 @@ popup-show-popup-menuitem =
 popup-trigger-redirect-menuitem =
     .label = نشووݩ داڌن «{ $redirectURI }»
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+file-picker-crashed-show-in-folder =
+    .label = نشووݩ داڌن من دوبلگه
+    .accessKey = F
+
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = تموم کردن پۊرنیڌن
