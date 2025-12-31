@@ -727,6 +727,8 @@ home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzi
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagjine iniziâl e gnûfs barcons
+home-homepage-new-windows =
+    .label = Gnûfs barcons
 home-homepage-mode-label2 = Gnûfs barcons
 home-newtabs-mode-label = Gnovis schedis
 home-homepage-new-tabs =
@@ -746,6 +748,9 @@ home-homepage-custom-url =
 home-homepage-manage-extension-button =
     .label = Gjestìs estension
 # This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Sielç un sît specific
+# This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Sielç un sît specific
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -762,6 +767,11 @@ choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
 home-homepage-header = Pagjine iniziâl
+
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Pagjine iniziâl
 
 ## Custom Homepage subpage
 
@@ -811,6 +821,10 @@ home-prefs-recommended-by-header-generic =
 home-prefs-recommended-by-description-generic = Contignûts ecezionâi curâts de famee di prodots { -brand-product-name }
 home-prefs-stories-header =
     .label = Storiis
+home-prefs-stories-description = Storiis personalizadis in base ae tô ativitât
+home-prefs-stories-header2 =
+    .label = Storiis
+    .description = Contignûts ecezionâi curâts de famee di prodots { -brand-product-name }
 
 ##
 
@@ -841,14 +855,30 @@ home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Previsions par vuê cuntune voglade
 home-prefs-weather-learn-more-link = Plui informazions
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Ricercjis di tindince
 home-prefs-trending-search-description = Argoments popolârs e cirûts dispès
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listis
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizadôr
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Prudele { -brand-product-name }
 home-prefs-mission-message = I nestris prudeladôrs a sostegnin la nestre mission di fâ sù un web miôr
 home-prefs-mission-message-learn-more-link = Scuvierç cemût
+home-prefs-mission-message2 =
+    .message = I nestris prudeladôrs a sostegnin la nestre mission di fâ sù un web miôr.
+home-prefs-manage-topics-link = Gjestìs argoments
+home-prefs-manage-topics-link2 =
+    .label = Gjestìs argoments
+home-prefs-choose-wallpaper-link = Sielç un fonts
+home-prefs-choose-wallpaper-link2 =
+    .label = Sielç un fonts
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -888,6 +918,11 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostre i tiermins di ricercje te sbare de direzion su la pagjine dai risultâts
+search-separate-default-engine-2 =
+    .label = Dopre un motôr di ricercje predefinît diviers tai barcons privâts
+    .accesskey = D
+search-separate-default-engine-dropdown =
+    .aria-label = Motôr di ricercje predefinît tai barcons privâts
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
