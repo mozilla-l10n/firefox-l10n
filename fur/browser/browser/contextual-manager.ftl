@@ -338,7 +338,7 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
        *[other] Sì, gjave lis passwords
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
-contextual-manager-primary-password-reauth-header = Par viodi lis tôs passwords salvadis, inserìs la tô password primarie.
+contextual-manager-primary-password-reauth-header = Par viodi lis tôs passwords salvadis, inserìs la tô password principâl.
 # This string informs the user their primary password is used to authenticate and access their passwords
-contextual-manager-primary-password-reauth-button = Inserìs la password primarie
+contextual-manager-primary-password-reauth-button = Inserìs la password principâl
 contextual-manager-primary-password-learn-more-link = Plui informazions

@@ -86,7 +86,7 @@ devinfo-label =
     .label = Etichete
 devinfo-serialnum =
     .label = Numar seriâl
-fips-nonempty-primary-password-required = Il mût FIPS al domande che tu vedis configurade une password primarie par ogni dispositîf di sigurece. Stabilìs par plasê la password prime di provâ a ativâ il mût FIPS.
+fips-nonempty-primary-password-required = Il mût FIPS al domande che tu vedis configurade une password principâl par ogni dispositîf di sigurece. Stabilìs par plasê la password prime di provâ a ativâ il mût FIPS.
 unable-to-toggle-fips = Impussibil cambiâ il mût FIPS pal dispositîf di sigurece. Al è conseât che tu jessis e tu tornis a inviâ cheste aplicazion.
 load-pk11-module-file-picker-title = Sielç un driver di dispositîf PKCS#11 di cjariâ
 # Load Module Dialog

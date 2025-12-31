@@ -25,13 +25,13 @@ pippki-pw-change2empty-in-fips-mode = In chest moment tu sês in modalitât FIPS
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Azere password primarie
+    .title = Azere password principâl
     .style = min-width: 40em
 reset-password-button-label =
     .label = Scancele
-reset-primary-password-text = Se tu azeris la tô password primarie, ducj i sîts web, lis passwords des e-mails, i certificâts personâi  e lis clâfs privadis a vignaran dismenteadis. Azerâ pardabon la tô password primarie?
-pippki-reset-password-confirmation-title = Azere password primarie
-pippki-reset-password-confirmation-message = La tô password primarie e je stade azerade.
+reset-primary-password-text = Se tu azeris la tô password principâl, ducj i sîts web, lis passwords des e-mails, i certificâts personâi  e lis clâfs privadis a vignaran dismenteadis. Azerâ pardabon la tô password principâl?
+pippki-reset-password-confirmation-title = Azere password principâl
+pippki-reset-password-confirmation-message = La tô password principâl e je stade azerade.
 
 ## Downloading cert dialog
 

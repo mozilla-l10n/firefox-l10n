@@ -1075,7 +1075,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = L'account { $email } nol è verificât.
+sync-signedin-unverified2 =
+    .label = { $email } no je inmò confermade
+    .description = Verifiche la tô casele di pueste par confermâ il to account e rindilu uficiâl.
 sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
+sync-signedin-login-failure2 =
+    .label = Tu sês disconetût/disconetude di { $email }
+    .description = Torne jentre par tornâ a conetiti e inviâ la sincronizazion dai tiei dâts.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1309,8 +1325,15 @@ forms-fill-usernames-and-passwords-2 =
 forms-saved-passwords =
     .label = Passwords salvadis
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Gjestìs passwords salvadis
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Sul to computer a son stadis memorizadis lis credenziâls par chescj sîts
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protezions in plui
 forms-primary-pw-use =
-    .label = Dopre une password primarie
+    .label = Dopre une password principâl
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
@@ -1323,13 +1346,13 @@ forms-master-pw-change =
     .label = Cambie la password principâl…
     .accesskey = m
 forms-primary-pw-change =
-    .label = Cambie password primarie…
+    .label = Cambie password principâl…
     .accesskey = p
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Une volte cognossude tant che password principâl
-forms-primary-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password primarie no vueide.
+forms-primary-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password principâl no vueide.
 forms-master-pw-fips-desc = No si à rivât a cambiâ la password
 forms-windows-sso =
     .label = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
@@ -1340,12 +1363,12 @@ windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
-primary-password-os-auth-dialog-message-win = Par creâ une password primarie, inserìs lis tôs credenziâls di acès a Windows. Chest al jude a protezi la sigurece dai tiei accounts.
+primary-password-os-auth-dialog-message-win = Par creâ une password principâl, inserìs lis tôs credenziâls di acès a Windows. Chest al jude a protezi la sigurece dai tiei accounts.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
-primary-password-os-auth-dialog-message-macosx = creâ une password primarie
+primary-password-os-auth-dialog-message-macosx = creâ une password principâl
 master-password-os-auth-dialog-caption = { -brand-full-name }
 # The macOS string is preceded by the operating system with "Firefox is trying to ".
 autofill-creditcard-os-dialog-message =

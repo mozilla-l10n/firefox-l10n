@@ -60,10 +60,10 @@ firefoxview-tabpickup-sync-error-primarybutton = Torne prove
 firefoxview-tabpickup-sync-disconnected-header = Ative la sincronizazion par continuâ
 firefoxview-tabpickup-sync-disconnected-description = Par recuperâ lis tôs schedis tu scugnis ativâ la sincronizazion in { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Ative la sincronizazion tes impostazions
-firefoxview-tabpickup-password-locked-header = Inserìs la tô password primarie par visualizâ lis schedis
-firefoxview-tabpickup-password-locked-description = Par recuperâ lis tôs schedis tu scugnis inserî la password primarie par { -brand-short-name }.
+firefoxview-tabpickup-password-locked-header = Inserìs la tô password principâl par visualizâ lis schedis
+firefoxview-tabpickup-password-locked-description = Par recuperâ lis tôs schedis tu scugnis inserî la password principâl par { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Plui informazions
-firefoxview-tabpickup-password-locked-primarybutton = Inserìs la password primarie
+firefoxview-tabpickup-password-locked-primarybutton = Inserìs la password principâl
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Altris informazions</a>
 firefoxview-tabpickup-signed-out-header = Jentre par tornâ a conetiti
 firefoxview-tabpickup-signed-out-description = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre tal to { -fxaccount-brand-name }.

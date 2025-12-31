@@ -208,7 +208,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = espuartâ lis pass
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Par plasê inserìs la tô password primarie par visualizâ lis passwords e lis credenziâls salvadis
+about-logins-primary-password-notification-message = Par plasê inserìs la tô password principâl par visualizâ lis passwords e lis credenziâls salvadis
 master-password-reload-button =
     .label = Jentre
     .accesskey = J

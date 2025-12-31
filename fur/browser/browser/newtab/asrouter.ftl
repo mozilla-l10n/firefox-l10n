@@ -430,8 +430,8 @@ etp-strict-exceptions-infobar-not-now = No cumò
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } nol è il to navigadôr predefinît
-set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nol è il to navigadôr primari
-set-default-menu-message-row-layout-title = Met { -brand-short-name } come navigadôr primari
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nol è il to navigadôr principâl
+set-default-menu-message-row-layout-title = Met { -brand-short-name } come navigadôr principâl
 set-default-menu-message-row-layout-title-variant = Met { -brand-short-name } come navigadôr predefinît
 set-default-menu-message-row-layout-subtitle = Oten velocitât, sigurece e riservatece ogni volte che tu navighis.
 set-default-menu-message-row-layout-subtitle-variant =
@@ -440,4 +440,4 @@ set-default-menu-message-row-layout-subtitle-variant =
        *[other] Ten { -brand-short-name } simpri sot man: metilu come predefinît e tegnilu te sbare des aplicazions.
     }
 set-default-menu-message-primary-button = Met come predefinît
-set-default-menu-message-primary-button-variant = Met come navigadôr primari
+set-default-menu-message-primary-button-variant = Met come navigadôr principâl
