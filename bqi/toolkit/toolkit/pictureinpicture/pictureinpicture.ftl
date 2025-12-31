@@ -14,3 +14,15 @@
 pictureinpicture-mute-btn =
     .aria-label = بؽ دونگ
     .tooltip = بؽ دونگ ({ $shortcut })
+pictureinpicture-unmute-btn =
+    .aria-label = وا دونگ
+    .tooltip = وا دونگ ({ $shortcut })
+pictureinpicture-close-btn =
+    .aria-label = بستن
+    .tooltip = بستن ({ $shortcut })
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = نما پوی بلگه
+    .tooltip = نما پوی بلگه (دو کرت کلیک یا { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = و در زیڌن ز نما پوی بلگه
+    .tooltip = و در زیڌن ز نما پوی بلگه (دو کرت کلیک یا { $shortcut })

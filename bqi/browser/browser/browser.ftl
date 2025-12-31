@@ -822,6 +822,21 @@ toolbar-settings-button =
 toolbar-overflow-customize-button =
     .label = سفارشی کردن نوار ٱوزار…
     .accesskey = C
+# Variables:
+#  $shortcut (String): keyboard shortcut to save a copy of the page
+toolbar-button-save-page =
+    .label = زفت کردن بلگه
+    .tooltiptext = زفت کردن ای بلگه ({ $shortcut })
+# Variables:
+#  $shortcut (String): keyboard shortcut to open a local file
+toolbar-button-open-file =
+    .label = گۊشیڌن فایل
+    .tooltiptext = گۊشیڌن ی فایل ({ $shortcut })
+# Variables
+# $shortcut (string) - Keyboard shortcut to open a new private browsing window
+toolbar-button-new-private-window =
+    .label = نیمدری سیخومی نۊ
+    .tooltiptext = گۊشیڌن ی نیمدری گشتن سیخومی نۊ ({ $shortcut })
 
 ## EME notification panel
 
