@@ -93,14 +93,25 @@ startup-restore-warn-on-quit =
     .label = അന്വേഷിയന്ത്രത്തിൽ നിന്നു പുറത്തുക്കടക്കുമ്പോഴു് താങ്ങൾക്കു് മുന്നറിയിപ്പ് നൽകുക
 disable-extension =
     .label = വിപുലീകരണം പ്രവർത്തനരഹിതമാക്കുക
+preferences-data-migration-group =
+    .label = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതിക്കുക
+    .description = മറ്റൊരു അന്വേഷിയന്ത്രത്തിൽ നിന്നു അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും നാൾവഴിയും വിപുലീകരണങ്ങളും താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റയും കൊണ്ടുവരുക.
 preferences-data-migration-header = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതി ചെയ്യുക
 preferences-data-migration-description = { -brand-short-name }-ലോട്ടു് തന്നെതാനെ അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും നാൾവഴിയും മറ്റേതും ഇറക്കുമതിക്കുക
 preferences-data-migration-button =
     .label = ദത്ത ഇറക്കുമതിക്കുക
     .accesskey = ഇ
+preferences-profiles-header = രൂപരേഖകൾ
 preferences-manage-profiles-learn-more = കൂടുതലറിയുക
+preferences-manage-profiles-button =
+    .label = രൂപരേഖകൾ കൈകാര്യം ചെയ്യുക
+preferences-profiles-settings-button =
+    .label = ക്രമീകരണങ്ങള്‍
+preferences-copy-profile-button = പകൎത്തുക
 tabs-group-header2 =
     .label = റ്റാബുകള്‍
+tabs-opening-heading =
+    .label = തുറക്കുന്നു
 tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
@@ -168,6 +179,8 @@ browser-layout-show-sidebar =
 
 language-and-appearance-header = ഭാഷയും രൂപവും
 preferences-web-appearance-header = വെബിട പുരംകാഴ്ച
+web-appearance-group =
+    .aria-label = വെബിട പുരംകാഴ്ച
 preferences-web-appearance-choice-auto = തന്നെതാനെ
 preferences-web-appearance-choice-light = തെളിച്ചം
 preferences-web-appearance-choice-dark = ഇരുണ്ടതു്
@@ -446,6 +459,11 @@ choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
 
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = പൂമുഖം
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ഉള്ളടക്കം
@@ -491,6 +509,7 @@ home-prefs-weather-header =
     .label = കാലാവസ്ഥ
 home-prefs-weather-description = ഇന്നത്തെ കാലാവസ്ഥാ പ്രവചനം ഒറ്റനോട്ടത്തിൽ
 home-prefs-weather-learn-more-link = കൂടുതല്‍ അറിയുക
+home-prefs-choose-wallpaper-link = ചുവൎക്കടലാസു തിരഞ്ഞെടുക്കുക
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

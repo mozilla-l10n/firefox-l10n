@@ -261,3 +261,22 @@ multi-profile-callout-cta = രൂപരേഖയുണ്ടാക്കുക
 
 dismiss-button-label = കളയുക
 sync-to-mobile-button-label = മൊബൈലിലേക്കു് സമന്വയിപ്പിക്കുക
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-flair = ശുപാൎശിച്ചതു്
+create-backup-select-tile-button-label = തിരഞ്ഞെടുക്കുക
+create-backup-back-button-label = പുറകോട്ടു്
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = എല്ലാ ഡാറ്റയും
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-button = പുനഃസ്ഥാപിക്കണ്ട
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = കരുതിവച്ചിട്ടു തുടരുക
+restored-from-backup-success-with-checklist-secondary-button = ഈ ഘട്ടം ഒഴിവാക്കുക
+restored-from-backup-success-no-checklist-primary-button = തുടരുക
+restored-from-backup-error-primary-button = അടയ്ക്കുക
