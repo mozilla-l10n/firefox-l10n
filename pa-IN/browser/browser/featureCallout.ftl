@@ -150,6 +150,8 @@ link-preview-onboarding-callout-title = ਨਵਾਂ: ਲਿੰਕਾਂ ਦੀ 
 sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਾਓ
 sidebar-button-callout-subtitle = ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਣ ਵਾਸਤੇ ਬਾਹੀ ਵਾਲੇ ਬਟਨ ਨੂੰ ਬਾਹੀ ਫੈਲਾਉਣ ਲਈ ਵਰਤੋ।
 sidebar-button-callout-vertical-tabs = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਉਣ ਲਈ, ਟੂਲ-ਪੱਟੀ ਵਿੱਚ ਬਾਹੀ ਬਟਨ ਨੂੰ ਚੁਣੋ।
+sidebar-deprecation-callout-title = ਬਾਹੀ ਵਿੱਚ ਨਵੇਂ ਅੱਪਡੇਟ ਛੇਤੀ ਹੀ ਆ ਰਹੇ ਹਨ
+sidebar-deprecation-cta-button = ਹੁਣੇ ਅਜ਼ਮਾਓ
 
 ## Sidebar Vertical Tabs Strings
 
@@ -168,6 +170,7 @@ sidebar-pins-callout-cta-button = ਟੈਬ ਨੂੰ ਟੰਗੋ
 pin-tabs-callout-1-title = ਜ਼ਰੂਰੀ ਟੈਬਾਂ ਨੂੰ ਆਪਣੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ
 pin-tabs-callout-cta-1-button = ਇਸ ਟੈਬ ਨੂੰ ਟੰਗੋ
 pin-tabs-callout-2-title = ਸਭ ਤੋਂ ਵੱਧ ਖੋਲ੍ਹੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਟੈਬਾਂ ਨੂੰ ਟੰਗੋ
+pin-tabs-callout-2-subtitle = ਕਿਸੇ ਵੀ ਟੈਬ ਨੂੰ ਪਿੰਨ ਕਰਨ ਵਾਸਤੇ ਇਸ ਨੂੰ ਟੈਬ ਪੱਟੀ ਦੇ ਅੱਗੇ ਲੈ ਜਾਓ ਜਾਂ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਟੈਗ ਨੂੰ ਪਿੰਨ ਕਰੋ।
 pin-tabs-callout-cta-2-button = ਇਸ ਟੈਬ ਨੂੰ ਟੰਗੋ
 pin-tabs-callout-3-title = ਜ਼ਰੂਰੀ ਸਾਈਟਾਂ ਨੂੰ ਆਪਣੀ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ
 pin-tabs-callout-4-title = ਸਭ ਤੋਂ ਵੱਧ ਖੋਲ੍ਹੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਟੰਗੋ

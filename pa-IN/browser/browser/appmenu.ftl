@@ -212,6 +212,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = { -brand-shorter-name } ਵਿੱਚ ਡੀਬੱਗ ਕਰਨ ਲਈ ਮੌਜੂਦ। ਵੱਧ ਮੇਹਨਤ, ਕਾਰਗੁਜ਼ਾਰੀ ਵਾਲੇ ਕੰਮ ਲਈ ਨਾ ਵਰਤੋਂ, ਪਰ ਫੋਕਸ ਕਰਨ ਜਾਂ ਬਰਾਊਜ਼ਰ ਦੇ ਰਵੱਈਏ ਨੂੰ ਸਮਝਣ ਲਈ ਵਰਤੋਂ।
 profiler-popup-presets-debug-label =
     .label = ਡੀਬੱਗ
+profiler-popup-presets-web-compat-description = ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਸੂਹ ਲੈਣ ਦੀ ਬਜਾਏ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਵੈੱਬ ਅਨੁਕੂਲਤਾ ਮਸਲਿਆਂ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਸਿਫ਼ਾਰਸ਼ੀ ਪ੍ਰੀਸੈੱਟ ਹੈ।
 profiler-popup-presets-web-compat-label =
     .label = ਵੈੱਬ ਕੰਪੈਟ
 profiler-popup-presets-custom-label =

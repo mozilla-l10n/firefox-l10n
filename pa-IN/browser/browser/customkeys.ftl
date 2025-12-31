@@ -35,3 +35,5 @@ customkeys-nav-reload = ਮੁੜ-ਲੋਡ ਕਰੋ
 customkeys-nav-reload-skip-cache = ਮੁੜ-ਲੋਡ (ਕੈਸ਼ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ)
 customkeys-nav-stop = ਰੋਕੋ
 customkeys-caution-message = ਇਹ ਫ਼ੀਚਰ ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਸ਼ਾਇਦ ਆਸ ਮੁਤਾਬਕ ਕੰਮ ਨਾ ਕਰੇ।
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = ਗ਼ੈਰ-ਵਾਜਬ
