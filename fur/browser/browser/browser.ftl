@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = La conession cun chest sît no je sigure.
 identity-connection-verified = La conession cun chest sît e je sigure.
 identity-ev-owner-label = Certificât dât fûr a:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Cualificât in base al Regolament (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nol ricognòs il sogjet che al à dât fûr chest certificât. Il sisteme operatîf o un aministradôr lu podarès vê zontât.
 identity-remove-cert-exception =
     .label = Gjave ecezion

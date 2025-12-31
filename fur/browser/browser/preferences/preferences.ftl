@@ -694,6 +694,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Abilite i controi video picture-in-picture
     .accesskey = e
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Continue a riprodusi i videos in modalitât Picture-in-Picture cuant che tu passis di une schede a chê altre
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Plui informazions
 browsing-media-control =
     .label = Controle i flus multimediâi cu la tastiere, lis scufis o la interface virtuâl
@@ -739,6 +742,11 @@ home-mode-choice-blank =
     .label = Pagjine vueide
 home-homepage-custom-url =
     .placeholder = Tache un URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gjestìs estension
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Sielç un sît specific
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -753,6 +761,17 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
+home-homepage-header = Pagjine iniziâl
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pagjine iniziâl personalizade
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Direzions di sîts web
+home-custom-homepage-address =
+    .placeholder = Inserìs une direzion
+home-custom-homepage-address-button =
+    .label = Zonte direzion
 
 ## Home Section - Firefox Home Content Customization
 
