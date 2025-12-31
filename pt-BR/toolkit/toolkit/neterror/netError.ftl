@@ -168,10 +168,16 @@ certerror-coep-learn-more = Saiba mais sobre Cross Origin Embedder Policies (COE
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Código de erro: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Parece que há um problema na sua conexão com a internet
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = O { -brand-short-name } não consegue criar uma conexão segura com o servidor em { $hostname }.
+fp-neterror-offline-intro = O { -brand-short-name } não conseguiu se conectar ao servidor em <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = O { -brand-short-name } não carregou esta página porque parece que a configuração de segurança não corresponde à da página anterior.
 fp-neterror-http-auth-disabled-intro = Alguém fingindo ser o site pode tentar roubar informações como seu nome de usuário, senha ou email.
 fp-neterror-http-auth-disabled-secure-connection = Este site requer uma conexão segura, você não pode adicionar uma exceção para acessar.
 fp-neterror-why-did-this-happen = Por que isso aconteceu?
@@ -181,3 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = O { -brand-short-name } não
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Certifique-se de estar usando a versão mais recente do { -brand-short-name }. Confira em Ajuda > Sobre o { -brand-short-name } no menu. Se você estiver usando o { -brand-short-name } mais recente, provavelmente o problema está no próprio site.
 fp-neterror-offline-what-can-you-do-body = Experimente se conectar usando outro dispositivo. Verifique seu modem ou roteador. Desconecte e reconecte ao WiFi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Experimente mudar a URL para HTTPS. Mas é provável que haja um problema no próprio site.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Às vezes, sites configuram proteções para si mesmos contra interações indesejadas com outros sites.
+fp-learn-more-about-https-connections = Saiba mais sobre conexões HTTPS

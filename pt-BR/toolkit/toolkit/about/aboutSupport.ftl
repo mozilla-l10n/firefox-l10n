@@ -133,6 +133,7 @@ place-database-stats-efficiency-perc = Eficiência (%)
 place-database-stats-sequentiality-perc = Sequencialidade (%)
 place-database-integrity = Integridade
 place-database-verify-integrity = Verificar integridade
+place-database-last-integrity-corruption-date = Data da última violação de integridade
 a11y-title = Acessibilidade
 a11y-activated = Ativado
 a11y-force-disabled = Bloquear acessibilidade
