@@ -8,8 +8,18 @@ about-translations-title =
         [with-cases] Překlady { -brand-short-name(case: "gen") }
        *[no-cases] Překlady aplikace { -brand-short-name }
     }
+# The brief description of the Translations functionality on the page.
+about-translations-description = Okamžité překlady, které respektují vaše soukromí.
 about-translations-learn-more-link = Zjistit více
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Překlad není na tomto zařízení k dispozici.
+    .message = Zkuste použít jiné zařízení.
 about-translations-unsupported-info-button = Zjistit více
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Nepodařilo se načíst jazyky.
+    .message = Zkontroluje své připojení k internetu a zkuste to znovu.
 about-translations-language-load-error-button = Zkusit znovu
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
@@ -27,6 +37,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Překlad
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Zkopírovat
+    .title = Zkopírovat překlad
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Zkopírováno
+    .title = Překlad zkopírován
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Zvolte jazyk
@@ -36,3 +54,6 @@ about-translations-translating-message = Probíhá překlad…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Vyměnit jazyky
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Vymazat zdrojový text

@@ -504,6 +504,8 @@ settings-translations-subpage-never-translate-header =
     .label = Z těchto jazyků nikdy nepřekládat
 settings-translations-subpage-never-translate-sites-header =
     .label = Nikdy nepřekládat tyto stránky
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Chcete-li přidat web, otevřete <img data-l10n-name="translations-icon"/>panel překladů, vyberte možnost <img data-l10n-name="settings-icon"/> nastavení překladů, a potom vyberte “Nikdy nepřekládat tento web”.
 settings-translations-subpage-language-select-option =
     .label = Přidat jazyk
 settings-translations-subpage-language-add-button =
@@ -757,6 +759,9 @@ update-in-progress-cancel-button = &Pokračovat
 
 ## Firefox support
 
+support-application-heading =
+    .label = Podpora { -brand-short-name(case: "gen") }
+    .description = Řešení problémů nebo sdílení nápadů s komunitou.
 support-get-help =
     .label = Získat pomoc
 support-share-ideas =
@@ -818,6 +823,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Zobrazovat přepínač do režimu obrazu v obraze
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Pokračovat v přehrávání videí v režimu Obraz v obraze při přepínání panelů
+    .accesskey = P
 browsing-picture-in-picture-learn-more = Zjistit více
 browsing-media-control =
     .label = Ovládat média pomocí klávesnice, sluchátek nebo virtuálního rozhraní
@@ -1163,6 +1171,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizace
+account-group-label =
+    .label = Účet { -vendor-short-name }
+account-placeholder =
+    .label = Nejste přihlášeni
+    .description = Přihlaste se, aby vaše data byla soukromá, šifrovaná a synchronizovaná napříč zařízeními.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1282,6 +1295,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Tyto položky synchronizujete ve všech připojených zařízeních:
 sync-syncing-across-devices-heading-2 = Data synchronizována mezi zařízeními
+sync-syncing-across-devices-empty-state =
+    .label = Zatím nic nesynchronizujete.
+    .description = Spusťte synchronizaci a získejte všechna svá data na všech zařízeních.
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = Historie
 sync-currently-syncing-tabs = Otevřené panely
