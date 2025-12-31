@@ -772,18 +772,34 @@ home-custom-homepage-address =
     .placeholder = Inserìs une direzion
 home-custom-homepage-address-button =
     .label = Zonte direzion
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Nol è stât zontât ancjemò nissun sît.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Sostituìs cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Pagjinis viertis in chest moment
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Segnelibris…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Sielç cuai contignûts vê su la tô videade di { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Ricercje sul Web
+home-prefs-search-header2 =
+    .label = Ricercje
 home-prefs-shortcuts-header =
     .label = Scurtis
 home-prefs-shortcuts-description = Sîts che tu salvis o visitis
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scurtis sponsorizadis
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -793,6 +809,8 @@ home-prefs-recommended-by-description-new = Contignûts ecezionâi par cure di {
 home-prefs-recommended-by-header-generic =
     .label = Storiis conseadis
 home-prefs-recommended-by-description-generic = Contignûts ecezionâi curâts de famee di prodots { -brand-product-name }
+home-prefs-stories-header =
+    .label = Storiis
 
 ##
 
