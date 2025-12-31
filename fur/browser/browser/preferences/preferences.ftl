@@ -1017,6 +1017,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizazion
+account-group-label =
+    .label = Account { -vendor-short-name }
+account-placeholder =
+    .label = No tu âs fat l’acès
+    .description = Jentre par mantignî i tiei dâts privâts, cifrâts e sincronizâts su ducj i dispositîfs.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1028,6 +1033,9 @@ sync-signedout-account-signin3 =
     .accesskey = J
 sync-signedout-account-signin-4 =
     .label = Jentre tal to account par inviâ la sincronizazion
+    .accesskey = J
+sync-signedout-account-short =
+    .label = Jentre
     .accesskey = J
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1087,7 +1095,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronizazion: ATIVE
+prefs-syncing-on-2 =
+    .label = La sincronizazion e je ATIVE
 prefs-syncing-off = Sincronizazion: DISATIVADE
+prefs-syncing-off-2 =
+    .label = La sincronizazion e je DISATIVADE
+    .description = Ative la sincronizazion par recuperâ segnelibris, passwords, cronologjie e tant altri su cualsisei dispositîf.
 prefs-sync-turn-on-syncing =
     .label = Ative la sincronizazion…
     .accesskey = s
@@ -1114,6 +1127,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Tu stâs sincronizant chescj elements su ducj i dispositîfs conetûts:
+sync-syncing-across-devices-heading-2 = Dâts sincronizâts tra dispositîfs
+sync-syncing-across-devices-empty-state =
+    .label = Non tu stâs ancjemò sincronizant nuie…
+    .description = Invie la sincronizazion par recuperâ ducj i tiei dâts su ducj i tiei dispositîfs.
 sync-currently-syncing-bookmarks = Segnelibris
 sync-currently-syncing-history = Cronologjie
 sync-currently-syncing-tabs = Schedis viertis
@@ -1126,6 +1143,9 @@ sync-currently-syncing-addons = Components adizionâi
 sync-currently-syncing-settings = Impostazions
 sync-manage-options =
     .label = Gjestìs sincronizazion…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gjestìs dâts sincronizâts
     .accesskey = G
 sync-change-options =
     .label = Cambie…
@@ -1243,10 +1263,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Passwords
     .searchkeywords = credenziâls
+forms-passwords-header =
+    .label = Passwords
+    .aria-label = Passwords
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Domande se salvâ lis passwords
     .accesskey = D
+forms-manage-password-exceptions =
+    .label = Gjestìs ecezions pes passwords
+    .accesskey = G
 forms-exceptions =
     .label = Ecezions…
     .accesskey = z
@@ -1277,6 +1303,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Compile in automatic nons utent e passwords
     .accesskey = C
+forms-fill-usernames-and-passwords-2 =
+    .label = Salve e compile in automatic nons utent e passwords
+    .accesskey = c
 forms-saved-passwords =
     .label = Passwords salvadis
     .accesskey = d
