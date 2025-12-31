@@ -178,7 +178,7 @@ migration-list-favorites-label = fawority
 migration-list-password-label = gronidła
 migration-list-history-label = historija
 migration-list-extensions-label = rozšyrjenja
-migration-list-autofill-label = Daty za awtomatiske wupołnjenje
+migration-list-autofill-label = daty za awtomatiske wupołnjenje
 migration-list-payment-methods-label = płaśeńske metody
 
 ##
