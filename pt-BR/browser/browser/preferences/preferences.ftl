@@ -426,7 +426,7 @@ settings-translations-subpage-never-translate-header =
 settings-translations-subpage-never-translate-sites-header =
     .label = Nunca traduzir estes sites
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
-settings-translations-subpage-never-translate-sites-description = Para adicionar um site, abra o painel de tradução <img data-l10n-name=“translations-icon”/>, selecione as configurações de tradução <img data-l10n-name=“settings-icon”/> e escolha “Nunca traduzir este site”.
+settings-translations-subpage-never-translate-sites-description = Para adicionar um site, abra o painel de tradução <img data-l10n-name="translations-icon"/>, selecione as configurações de tradução <img data-l10n-name="settings-icon"/> e escolha “Nunca traduzir este site”.
 settings-translations-subpage-language-select-option =
     .label = Adicionar idioma
 settings-translations-subpage-language-add-button =
