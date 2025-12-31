@@ -20,6 +20,15 @@ fxa-menu-connect-another-device =
     .label = Konektatu beste gailu bat…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Bidali gailura
+           *[other] Send { $tabCount } tabs to device
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
@@ -52,6 +61,29 @@ sync-setup-verify-description = Beste erabiltzaile batek sinkronizatzeko saioa h
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = Kontuaren mugara heldu da profil honetarako
 sync-profile-different-account-header = Kontu hau aurretik beste kontu batera sinkronizatu da
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = Zure datuak antolatuta eta seguru mantentzeko, { -brand-product-name } profil bakoitza kontu bakarrarekin sinkroniza daiteke. { $acctEmail } erabiliz saioa hasteko, sortu profil berri bat.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = Profila beste kontu batekin sinkronizatuta
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = Zure datuak antolatuta eta seguru mantentzeko, profil berria sortzea gomendatzen dugu { $acctEmail } erabiliz saioa hasteko. Profil honetan sinkronizatzen jarraitzea aukeratzen baduzu, bi kontuetako datuak betirako "{ $profileName }" profilean elkartuko dira.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = Kontua erabiltzen ari da lehendik
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } kontuak lehendik ere saioa hasita du "{ $otherProfile }" profilean
+sync-account-in-use-description = Kontu hau profil bakarrarekin lot dezakezu ordenagailu honetan.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = Kontu honek saioa hasita du beste profil batean. Bi profilak sinkronizatu?
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } kontuak "{ $otherProfile }" profilean saioa hasita du ordenagailu honetan. "{ $currentProfile }" profila sinkronizatuz gero, bi profiletako datuak betirako elkartuko dira, hala nola pasahitzak eta laster-markak.
 # Variables:
 #   $profileName (String) - Name of the profile to switch to
 sync-button-switch-profile = Aldatu "{ $profileName }" profilera
