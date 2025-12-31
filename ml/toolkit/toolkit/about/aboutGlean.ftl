@@ -14,7 +14,7 @@ about-glean-metrics-table-header-type = തരം
 # This message refers to the underlying value of a given metric.
 about-glean-metrics-table-header-value = മൂല്യം
 # This message refers to the UI action buttons for a given metric.
-about-glean-metrics-table-header-actions = ചെയ്തികൾ
+about-glean-metrics-table-header-actions = നടപടികൾ
 about-glean-metrics-table-settings-button = ക്രമീകരണങ്ങള്‍
 about-glean-metrics-table-settings-category-general = പൊതുവായവ
 # This is a heading that is immediately followed by an example data visualization

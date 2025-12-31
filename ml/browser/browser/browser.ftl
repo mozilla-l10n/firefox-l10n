@@ -604,8 +604,8 @@ urlbar-placeholder-search-mode-other-tabs =
     .aria-label = ടാബുകൾ തിരയുക
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = തിരയൽ പദങ്ങൾ പറയുക
-    .aria-label = നടപടികളെ തിരയുക
+    .placeholder = തിരയലുരികൾ നല്കുക
+    .aria-label = തിരയൽ നടപടികൾ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -620,7 +620,7 @@ urlbar-extension =
 urlbar-go-button =
     .tooltiptext = വിലാസപ്പട്ടയിലുള്ള വിലാസത്തിലേക്കു ചെല്ലുക
 urlbar-page-action-button =
-    .tooltiptext = പേജ് പ്രവർത്തനങ്ങൾ
+    .tooltiptext = താൾ നടപടികൾ
 urlbar-revert-button =
     .tooltiptext = വിലാസം സ്ഥാനപ്പട്ടയിൽ കാണിക്കുക
 
@@ -726,7 +726,7 @@ urlbar-searchmode-tabs =
 urlbar-searchmode-history =
     .label = നാള്‍വഴി
 urlbar-searchmode-actions =
-    .label = പ്രവര്‍ത്തികൾ
+    .label = നടപടികൾ
 urlbar-searchmode-exit-button =
     .tooltiptext = അടയ്ക്കുക
 # Label shown on the top of Searchmode Switcher popup. After this label, the
