@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
 disable-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
+preferences-data-migration-group =
+    .label = ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਦਰਾਮਦ ਕਰੋ
+    .description = ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ, ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਆਪੇ ਭਰੇ ਜਾਣ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਲਿਆਓ।
 preferences-data-migration-header = ਬਰਾਊਜ਼ਰ ਡਾਟਾ ਦਰਾਮਦ ਕਰੋ
 preferences-data-migration-description = ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਆਪੇ-ਭਰਨ ਡਾਟੇ ਨੂੰ { -brand-short-name } ਵਿੱਚ ਦਰਾਮਦ ਕਰੋ।
 preferences-data-migration-button =
@@ -325,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = ਤੁਹਾਡੀ ਰੰਗ ਕਨਟਾਰਸਟ ਕੰਟਰੋਲ ਸੈਟਿੰਗਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੰਦੀਆਂ ਹਨ।
 preferences-web-appearance-link =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ ਵਿੱਚ { -brand-short-name } ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+preferences-contrast-control-radio-group =
+    .label = ਰੰਗਾਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = ਤੁਹਾਡੀ ਰੰਗ ਚੋਣਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੰਦੀਆਂ ਹਨ। <a data-l10n-name="colors-link">ਰੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ</a>
@@ -395,6 +400,66 @@ translate-attribution = ਉਲੱਥਾ ਕੀਤਾ <img data-l10n-name="logo"/
 translate-exceptions =
     .label = …ਛੋਟ
     .accesskey = x
+settings-translations-header =
+    .label = ਅਨੁਵਾਦ
+    .aria-label = ਅਨੁਵਾਦ
+    .description = ਸਫ਼ੇ ਜਾਂ ਚੁਣੀ ਲਿਖਤ ਦਾ ਅਨੁਵਾਦ ਕਰੋ। ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਅਨੁਵਾਦ ਇਸੇ ਡਿਵਾਈਸ ਉੱਤੇ ਹੀ ਰਹਿੰਦੇ ਹਨ।
+settings-translations-offer-to-translate-label =
+    .label = ਪੂਰੇ ਸਫ਼ੇ ਦੇ ਅਨੁਵਾਦ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰੋ
+settings-translations-more-settings-button =
+    .label = ਹੋਰ ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ
+    .description = ਭਾਸ਼ਾਵਾਂ, ਵੈੱਬਸਾਈਟਾਂ ਅਤੇ ਆਫਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਪਸੰਦਾਂ ਨਿਰਧਾਰਿਤ ਕਰੋ।
+settings-translations-subpage-header =
+    .heading = ਹੋਰ ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ
+settings-translations-subpage-speed-up-translation-header =
+    .label = ਅਨੁਵਾਦ ਵਿੱਚ ਤੇਜ਼ੀ ਲਿਆਓ
+    .description = ਵੱਧ ਤੇਜ਼ ਅਨੁਵਾਦ ਅਤੇ ਆਫਲਾਈਨ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਪੂਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
+settings-translations-subpage-automatic-translation-header =
+    .label = ਆਪਣੇ-ਆਪ ਅਨੁਵਾਦ
+settings-translations-subpage-always-translate-header =
+    .label = ਇਹਨਾਂ ਭਾਸ਼ਾਵਾਂ ਲਈ ਹਮੇਸ਼ਾਂ ਅਨੁਵਾਦ ਕਰੋ
+settings-translations-subpage-never-translate-header =
+    .label = ਇਹ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਦੇ ਅਨੁਵਾਦ ਨਾ ਕਰੋ
+settings-translations-subpage-never-translate-sites-header =
+    .label = ਇਹ ਸਾਈਟਾਂ ਲਈ ਕਦੇ ਅਨੁਵਾਦ ਨਾ ਕਰੋ
+settings-translations-subpage-language-select-option =
+    .label = ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
+settings-translations-subpage-language-add-button =
+    .aria-label = ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
+    .title = ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
+settings-translations-subpage-download-languages-header =
+    .label = ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+settings-translations-subpage-download-languages-select-option =
+    .label = ਭਾਸ਼ਾ ਨੂੰ ਚੁਣੋ
+settings-translations-subpage-download-languages-button =
+    .aria-label = ਭਾਸ਼ਾ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+    .title = ਭਾਸ਼ਾ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = ਕੋਈ ਭਾਸ਼ਾ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਹੈ
+settings-translations-subpage-no-languages-added =
+    .label = ਕੋਈ ਭਾਸ਼ਾ ਜੋੜੀ ਨਹੀਂ ਗਈ ਹੈ
+settings-translations-subpage-download-progress = ਡਾਊਨਲੋਡ ਜਾਰੀ ਹੈ…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ({ $size }MB) ਨੂੰ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+settings-translations-subpage-download-retry-button =
+    .label = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size }MB) ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+settings-translations-subpage-download-delete-button =
+    .label = ਹਟਾਓ
+settings-translations-subpage-download-cancel-button =
+    .label = ਰੱਦ ਕਰੋ
+settings-translations-subpage-no-sites-added =
+    .label = ਕੋਈ ਸਾਈਟ ਜੋੜੀ ਨਹੀਂ ਗਈ ਹੈ
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =

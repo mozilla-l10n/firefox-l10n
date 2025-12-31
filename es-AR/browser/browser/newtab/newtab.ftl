@@ -615,6 +615,7 @@ newtab-report-content-spam-misleading =
     .label = Spam o engañoso
 newtab-report-content-requires-payment-subscription =
     .label = Requiere pago o suscripción
+newtab-report-content-requires-payment-subscription-learn-more = Conocer más
 newtab-report-cancel = Cancelar
 newtab-report-submit = Enviar
 newtab-toast-thanks-for-reporting =
