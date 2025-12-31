@@ -241,6 +241,28 @@ translate-attribution = തര്‍ജ്ജമ ചെയ്തത് <img data
 translate-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍…
     .accesskey = ക
+settings-translations-subpage-language-select-option =
+    .label = മൊഴി ചേൎക്കുക
+settings-translations-subpage-language-add-button =
+    .aria-label = മൊഴി ചേൎക്കുക
+    .title = മൊഴി ചേൎക്കുക
+settings-translations-subpage-download-languages-header =
+    .label = ഭാഷാകൾ ഇറക്കിവയ്ക്കുക
+settings-translations-subpage-download-languages-select-option =
+    .label = മൊഴി തിരഞ്ഞെടുക്കുക
+settings-translations-subpage-download-progress = ഇറക്കിവയ്ക്കൽ നടപ്പിലാണു്…
+settings-translations-subpage-download-retry-button =
+    .label = വീണ്ടും ശ്രമിക്കുക
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size } എം.ബി) മായ്ക്കണോ?
+settings-translations-subpage-download-delete-button =
+    .label = മായ്ക്കുക
+settings-translations-subpage-download-cancel-button =
+    .label = റദ്ദാക്കുക
+settings-translations-subpage-no-sites-added =
+    .label = വെബ്ബിടങ്ങൾ ചേൎത്തില്ല
 check-user-spelling =
     .label = ടൈപ്പ് ചെയ്യുന്നതിനോടൊപ്പം സ്പെല്ലിംഗ് പരിശോധിക്കുക
     .accesskey = t
@@ -373,6 +395,11 @@ update-in-progress-ok-button = &കളയുക
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &തുടരുക
 
+## Firefox support
+
+support-get-help =
+    .label = പിന്തുണ നേടുക
+
 ## General Section - Performance
 
 performance-title = പ്രകടനം
@@ -396,6 +423,8 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
+browsing-group-label =
+    .aria-label = തിരച്ചിൽ
 browsing-use-autoscroll =
     .label = ഓട്ടോ സ്ക്രോളിംങ് ഉപയോഗിക്കുക
     .accesskey = a
@@ -458,17 +487,38 @@ use-current-pages =
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
+home-homepage-header = പൂമുഖം
 
 ## Home Section - Home Page Customization
 
 home-homepage-title =
     .label = പൂമുഖം
 
+## Custom Homepage subpage
+
+home-custom-homepage-header = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = വെബ്ബിട വിലാസം(കൾ)
+home-custom-homepage-address =
+    .placeholder = വിലാസം നല്കുക
+home-custom-homepage-address-button =
+    .label = വിലാസം ചേൎക്കുക
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = അടയാളക്കുറിപ്പുകൾ…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ഉള്ളടക്കം
 home-prefs-search-header =
     .label = വെബ് തിരയൽ
+home-prefs-search-header2 =
+    .label = തിരയുക
 home-prefs-shortcuts-header =
     .label = കുറുക്കുവഴികൾ
 home-prefs-shortcuts-description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
@@ -554,6 +604,9 @@ search-remove-engine =
 search-add-engine =
     .label = ചേൎക്കുക
     .accesskey = ച
+search-edit-engine =
+    .label = തിരുത്തുക
+    .accesskey = ത
 search-find-more-link = കൂടുതൽ സെര്‍ച്ച് എഞ്ചിനുകൾ കണ്ടെത്തുക
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -594,6 +647,9 @@ sync-signedout-caption = നിങ്ങളുടെ വെബിനെ നി�
 sync-signedout-description2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും ഒളിവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
 sync-signedout-account-signin3 =
     .label = സമന്വയിപ്പിക്കാൻ പ്രവേശിക്കുക
+    .accesskey = പ
+sync-signedout-account-short =
+    .label = പ്രവേശിക്കുക
     .accesskey = പ
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -788,6 +844,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = ഒളിവാക്കുകൾ
     .searchkeywords = പ്രവേശനങ്ങൾ
+forms-passwords-header =
+    .label = ഒളിവാക്കുകൾ
+    .aria-label = ഒളിവാക്കുകൾ
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = ഒളിവാക്കുകളിലേക്കു് ചേൎക്കാൻ ആവശ്യപ്പെടുക
@@ -844,6 +903,19 @@ autofill-payment-methods-checkbox-message = പണമടക്കൽമുറക
     .accesskey = മ
 autofill-saved-payment-methods-button = കരുതിവച്ച പണമടക്കൽമുറകൾ
     .accesskey = പ
+autofill-payment-methods-title = പണമടക്കൽ മുറകൾ
+autofill-payment-methods-header =
+    .aria-label = പണമടക്കൽ മുറകൾ
+autofill-payment-methods-checkbox-message-2 =
+    .label = പണമടയ്ക്കൽ വിവരം തന്നെതാനെ കരുതിവയ്ക്കുകയും പൂരിപ്പിക്കുകയും ചെയ്യുക
+    .accesskey = പ
+autofill-payment-methods-manage-payments-button =
+    .label = പണമടക്കൽമുറകൾ കൈകാര്യം ചെയ്യുക
+    .accesskey = പ
+addreses-edit-address-button-label =
+    .aria-label = തിരുത്തുക
+addresses-delete-address-prompt-title = ഈ വിലാസം മായ്ക്കട്ടെ?
+addresses-delete-address-prompt-confirm-button = മായ്ക്കുക
 
 ## Privacy Section - History
 
@@ -913,9 +985,12 @@ sitedata-settings =
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = കുക്കീസു പൊന്തുവരൽ തടയൽയന്ത്രം
 cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
 forms-handle-cookie-banners =
     .label = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
+cookie-banner-blocker-checkbox-label =
+    .label = കുക്കി പൊന്തുവരലുകൾ താനെ നിരസിക്കുക
 
 ## Search Section
 
@@ -949,6 +1024,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = ഉടൻ നടപടികൾ
     .accesskey = ഉ
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = അടുത്തിടെ തിരഞ്ഞതു്
+    .accesskey = അ
 addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
 addressbar-locbar-showrecentsearches-option =
     .label = അടുത്തിടെ തിരഞ്ഞതെല്ലാം കാണിക്കുവിൻ
@@ -1021,6 +1099,9 @@ permissions-location = സ്ഥലവിവരം
 permissions-location-settings =
     .label = ക്രമീകരണങ്ങൾ…
     .accesskey = t
+permissions-local-network-settings =
+    .label = ക്രമീകരണങ്ങൾ…
+    .accesskey = ക
 permissions-xr = മിഥ്യുണ്മ
 permissions-xr-settings =
     .label = ക്രമീകരണങ്ങള്‍
@@ -1062,14 +1143,22 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = E
+permissions-header2 =
+    .label = അനുമതികൾ
+    .description = താങ്ങൾ സന്ദൎശിക്കുന്ന വെബ്ബിടങ്ങൾക്കു നല്കുന്ന അനുമതികൾ
 permissions-location2 =
     .label = സ്ഥലവിവരം
+permissions-localhost2 =
+    .label = ഉപകരണപ്രയോഗങ്ങളും സേവനങ്ങളും
 permissions-xr2 =
     .label = മിഥ്യുണ്മ
 permissions-camera2 =
     .label = ക്യാമറ
 permissions-microphone2 =
     .label = മൈക്രോഫോണ്‍
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = ഉച്ചഭാഷിണി
 permissions-notification2 =
     .label = അറിയിപ്പുകള്‍
 
@@ -1132,8 +1221,15 @@ space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
 
+## Privacy Section - HTTPS-Only
+
+httpsonly-learn-more = കൂടുതലറിയുക
+
 ## DoH Section
 
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = സ്ഥിതി :{ $status }
 preferences-doh-status-active = സജീവമാണു്
 preferences-doh-status-disabled = അണച്ചതു്
 preferences-doh-setting-enabled =
