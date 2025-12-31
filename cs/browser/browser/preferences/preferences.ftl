@@ -1233,6 +1233,9 @@ sync-signedin-unverified2 =
     .label = Adresa { $email } zatím není potvrzená
     .description = Zkontrolujte si doručenou poštu, abyste potvrdili svůj účet a oficiálně ho zaregistrovali.
 sync-signedin-login-failure = Pro opětovné připojení účtem { $email } se přihlaste
+sync-signedin-login-failure2 =
+    .label = Jste odhlášeni z { $email }
+    .description = Znovu se přihlaste, abyste se znovu připojili a začali synchronizovat svá data.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1576,6 +1579,9 @@ payments-list-item-label = <strong>Platební metody</strong>
 payments-delete-payment-prompt-title = Smazat tuto platební metodu?
 payments-delete-payment-prompt-confirm-button = Smazat
 payments-delete-payment-prompt-cancel-button = Zrušit
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nebyla přidána žádná platební metoda
 payments-remove-payment-prompt-title = Odebrat tuto platební metodu?
 payments-remove-payment-prompt-confirm-button = Odebrat
 payments-remove-payment-prompt-cancel-button = Zrušit
@@ -1600,6 +1606,9 @@ addresses-delete-address-prompt-cancel-button = Zrušit
 autofill-addresses-add-button = Přidat novou adresu
 autofill-addresses-manage-addresses-title =
     .heading = Spravovat adresy a další
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nebyla přidána žádná adresa
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1871,6 +1880,8 @@ addressbar-dismissed-suggestions-label-2 =
             [with-cases] Vrátit zpět vyřazené návrhy od sponzorů a { -brand-short-name(case: "gen") }.
            *[no-cases] Vrátit zpět vyřazené návrhy od sponzorů a aplikace { -brand-short-name }.
         }
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Obnovit našeptávání
 addressbar-quickactions-learn-more = Zjistit více
 addressbar-dismissed-suggestions-label = Vyřazené návrhy
 addressbar-restore-dismissed-suggestions-description =

@@ -226,9 +226,14 @@ fp-neterror-offline-body-title = Zdá se, že došlo k problému s připojením 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nemůže vytvořit zabezpečené připojení k serveru { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } se nemůže připojit k serveru na adrese <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } nenačetl tuto stránku, protože nastavení zabezpečení zřejmě neodpovídá předchozí stránce.
+fp-neterror-http-auth-disabled-intro = Někdo, kdo se vydává za web, by se mohl pokusit ukrást například vaše uživatelské jméno, heslo nebo e-mail.
+fp-neterror-http-auth-disabled-secure-connection = Tato stránka vyžaduje zabezpečené připojení a pro její návštěvu nelze udělit výjimku.
 fp-neterror-why-did-this-happen = Proč se to stalo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Zdá se, že tento server používá starý software se známými bezpečnostními problémy.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože připojení není zabezpečené.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body =
     { -brand-short-name.case-status ->
@@ -236,4 +241,7 @@ fp-neterror-cypher-overlap-what-can-you-do-body =
        *[no-cases] Ujistěte se, že používáte nejnovější verzi aplikace { -brand-short-name }. Vyberte v nabídce Nápověda > O aplikaci { -brand-short-name }. Pokud používáte nejnovější verzi aplikace { -brand-short-name }, je problém pravděpodobně v samotných stránkách.
     }
 fp-neterror-offline-what-can-you-do-body = Zkuste se připojit na jiném zařízení. Zkontrolujte modem nebo router. Odpojte se a znovu se připojte k Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Zkuste změnit adresu URL na HTTPS. Je však pravděpodobné, že problém je v samotném webu.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Někdy si webové stránky nastavují ochranu před nežádoucími interakcemi s jinými stránkami.
 fp-learn-more-about-https-connections = Další informace o připojeních HTTPS
