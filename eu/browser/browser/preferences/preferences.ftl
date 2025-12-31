@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinkronizazioa
+account-group-label =
+    .label = { -vendor-short-name } kontua
 account-placeholder =
     .label = Ez duzu saiorik hasi
     .description = Hasi saioa zure datuak pribatu, zifratuta eta gailu guztien artean sinkronizatuta mantentzeko.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Ordainketa-metodoak</strong>
 payments-delete-payment-prompt-title = Ezabatu ordainketa-metodo hau?
 payments-delete-payment-prompt-confirm-button = Ezabatu
 payments-delete-payment-prompt-cancel-button = Utzi
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Ez da ordainketa-metodorik gehitu
 payments-remove-payment-prompt-title = Kendu ordainketa-metodo hau?
 payments-remove-payment-prompt-confirm-button = Kendu
 payments-remove-payment-prompt-cancel-button = Utzi
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Utzi
 autofill-addresses-add-button = Gehitu helbide berria
 autofill-addresses-manage-addresses-title =
     .heading = Kudeatu helbideak eta gehiago
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ez da helbiderik gehitu
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Baztertutako gomendioak
     .description = Berrezarri babesleengandik eta { -brand-short-name }(r)engandik baztertutako iradokizunak
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Berrezarri iradokizunak
 addressbar-quickactions-learn-more = Argibide gehiago
 addressbar-dismissed-suggestions-label = Baztertutako gomendioak
 addressbar-restore-dismissed-suggestions-description = Berrezarri babesleengandik eta { -brand-short-name }(r)engandik baztertutako iradokizunak

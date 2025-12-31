@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ez zaude modu seguruan konektatuta gune honetara.
 identity-connection-verified = Modu seguruan zaude konektatuta gune honetara.
 identity-ev-owner-label = Ziurtagiria honi jaulkia:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = 2024/1183 (EU) Araudian zehaztu bezala gauzatuta.
 identity-description-custom-root2 = Mozillak ez du ziurtagiri-jaulkitzaile hau ontzat hartzen. Zure sistema eragileak edo administratzaile batek gehitu du agian.
 identity-remove-cert-exception =
     .label = Kendu salbuespena
