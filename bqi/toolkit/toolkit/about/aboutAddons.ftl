@@ -27,6 +27,14 @@ extensions-warning-imported-addons-button = پۊرنیڌن وردنی یل
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = دؽوۉداری ر نهنگا وردنی
     .accesskey = S
+shortcuts-input =
+    .placeholder = ی ر نهنگ هؽل کۊنین
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = پاک کردن ر نهنگ
+shortcuts-system = نتره ی ر نهنگ { -brand-short-name } ن باتل کونه
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = ر نهنگ تکراری
 
 ## Recommended add-ons page
 
