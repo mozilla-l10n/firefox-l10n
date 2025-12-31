@@ -5,6 +5,27 @@
 tabbrowser-empty-tab-title = بلگه نۊ
 tabbrowser-empty-private-tab-title = بلگه سیخومی نۊ
 
+## Tooltips for tab audio control
+## Variables:
+##   $tabCount (Number): The number of tabs that will be affected.
+
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] بؽ دونگ کردن بلگه ({ $shortcut })
+           *[other] بؽ دونگ کردن { $tabCount } بلگه ({ $shortcut })
+        }
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Unmute tab".
+tabbrowser-unmute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] وا دونگ کردن بلگه ({ $shortcut })
+           *[other] وا دونگ کردن { $tabCount } بلگه ({ $shortcut })
+        }
+
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
 tabbrowser-confirm-close-windows-button =
