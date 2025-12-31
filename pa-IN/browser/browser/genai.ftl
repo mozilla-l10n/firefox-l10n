@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = { $provider } ਨੂੰ ਹਟਾਓ
 genai-menu-remove-sidebar =
     .label = ਬਾਹੀ ਵਿੱਚੋਂ ਹਟਾਓ
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ
 genai-menu-new-badge = ਨਵਾਂ
 genai-menu-summarize-page = ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } ਮਿੰਟ ਪੜ੍ਹਨ ਸਮਾਂ
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ਇਸ ਲਿੰਕ ਦੀ ਝਲਕ ਨਹੀਂ ਵੇਖ ਸਕਦਾ ਹੈ
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = ਅਸੀਂ ਇਸ ਲਿੰਕ ਦੀ ਝਲਕ ਨਹੀਂ ਵੇਖ ਸਕਦੇ ਹਾਂ
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = ਅਸੀਂ ਇਸ ਵੈੱਬ-ਸਫ਼ੇ ਲਈ ਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ।
 # Error message when something went wrong during key point generation
