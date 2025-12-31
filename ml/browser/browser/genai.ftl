@@ -73,3 +73,8 @@ genai-model-optin-optout =
     .label = റദ്ദാക്കുക
 genai-model-optin-cancel =
     .label = റദ്ദാക്കുക
+
+## Link previews
+
+# Onboarding card Close button
+link-preview-onboarding-close = അടയ്ക്കുക

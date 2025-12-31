@@ -292,6 +292,10 @@ newtab-custom-recent-title = ഒടുവിലുള്ള പ്രവർത�
 newtab-custom-weather-toggle =
     .label = കാലാവസ്ഥ
     .description = ഒരു നോട്ടത്തിൽ ഇന്നത്തെ കാലാവസ്ഥ
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = അടയ്ക്കുക
+    .aria-label = കുറിപ്പടി അടയ്ക്കുക
 newtab-custom-close-button = അടയ്ക്കുക
 
 ## New Tab Wallpapers

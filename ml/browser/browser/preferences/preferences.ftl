@@ -907,15 +907,22 @@ autofill-payment-methods-title = പണമടക്കൽ മുറകൾ
 autofill-payment-methods-header =
     .aria-label = പണമടക്കൽ മുറകൾ
 autofill-payment-methods-checkbox-message-2 =
-    .label = പണമടയ്ക്കൽ വിവരം തന്നെതാനെ കരുതിവയ്ക്കുകയും പൂരിപ്പിക്കുകയും ചെയ്യുക
+    .label = പണമടക്കൽ വിവരം തന്നെതാനെ കരുതിവയ്ക്കുകയും പൂരിപ്പിക്കുകയും ചെയ്യുക
     .accesskey = പ
 autofill-payment-methods-manage-payments-button =
     .label = പണമടക്കൽമുറകൾ കൈകാര്യം ചെയ്യുക
     .accesskey = പ
+payments-list-header =
+    .label = പണമടക്കൽ മുറകൾ
+payments-delete-payment-prompt-title = ഈ പണമടക്കല്മുറ മായ്ക്കണോ?
+payments-delete-payment-prompt-confirm-button = മായ്ക്കുക
+payments-remove-payment-prompt-confirm-button = മാറ്റുക
+payments-remove-payment-prompt-cancel-button = റദ്ദാക്കുക
 addreses-edit-address-button-label =
     .aria-label = തിരുത്തുക
 addresses-delete-address-prompt-title = ഈ വിലാസം മായ്ക്കട്ടെ?
 addresses-delete-address-prompt-confirm-button = മായ്ക്കുക
+addresses-delete-address-prompt-cancel-button = റദ്ദാക്കുക
 
 ## Privacy Section - History
 
@@ -1069,6 +1076,7 @@ content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെ�
 content-blocking-etp-standard-tcp-rollout-learn-more = കൂടുതലറിയുക
 content-blocking-warning-title = മുന്നറിയിപ്പ്
 content-blocking-warning-learn-how = എങ്ങനെയെന്നറിയാം
+content-blocking-baseline-uncheck-warning-dialog-title = പരിഹാരങ്ങൾ അണയ്ക്കണമെന്നു തീൎച്ചയാണോ?
 content-blocking-cookies-label =
     .label = കുക്കികള്‍
     .accesskey = C

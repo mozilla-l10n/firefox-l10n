@@ -140,7 +140,7 @@ autofill-card-invalid-number = സാധുവായൊരു ചീട്ടു
 autofill-card-name-on-card = ചീട്ടിലുള്ള പേരു്
 autofill-card-expires-month = കാലാവധി തീരുന്ന മാസം
 autofill-card-expires-year = കാലാവധി തീരുന്ന കൊല്ലം
-autofill-card-billing-address = പണമടയ്ക്കൽ വിലാസം
+autofill-card-billing-address = പണമടക്കൽ വിലാസം
 autofill-card-network = ചീട്ടുതരം
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

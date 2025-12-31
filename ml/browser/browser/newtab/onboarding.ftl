@@ -270,6 +270,10 @@ create-backup-back-button-label = പുറകോട്ടു്
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = എല്ലാ ഡാറ്റയും
 
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = അടയ്ക്കുക
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-button = പുനഃസ്ഥാപിക്കണ്ട
