@@ -1033,6 +1033,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label =
+    .label = Cyfrif { -vendor-short-name }
 account-placeholder =
     .label = Dydych chi heb fewngofnodi
     .description = Mewngofnodwch i gadw'ch data'n breifat, wedi'i amgryptio a'i gydweddu ar draws dyfeisiau.
@@ -1439,6 +1441,9 @@ payments-list-item-label = <strong>Dulliau talu</strong>
 payments-delete-payment-prompt-title = Dileu'r dull talu hwn?
 payments-delete-payment-prompt-confirm-button = Dileu
 payments-delete-payment-prompt-cancel-button = Diddymu
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Dim dulliau talu wedi'u hychwanegu
 payments-remove-payment-prompt-title = Dileu'r dull talu hwn?
 payments-remove-payment-prompt-confirm-button = Dileu
 payments-remove-payment-prompt-cancel-button = Diddymu
@@ -1463,6 +1468,9 @@ addresses-delete-address-prompt-cancel-button = Diddymu
 autofill-addresses-add-button = Ychwanegu cyfeiriad newydd
 autofill-addresses-manage-addresses-title =
     .heading = Rheoli cyfeiriadau a rhagor
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Dim cyfeiriadau wedi'u hychwanegu
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1706,6 +1714,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Awgrymiadau wedi'u cau
     .description = Adfer awgrymiadau wedi'u cau gan noddwyr a { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Adfer awgrymiadau
 addressbar-quickactions-learn-more = Darllen rhagor
 addressbar-dismissed-suggestions-label = Awgrymiadau wedi'u cau
 addressbar-restore-dismissed-suggestions-description = Adfer awgrymiadau wedi'u cau gan noddwyr a { -brand-short-name }.

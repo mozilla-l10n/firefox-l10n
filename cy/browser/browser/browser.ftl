@@ -536,6 +536,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
 identity-connection-verified = Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.
 identity-ev-owner-label = Tystysgrif wedi'i ryddhau i:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Yn gymwys fel sy'n cael ei nodi yn Rheoliad (UE) 2024/1183.
 identity-description-custom-root2 = Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr.
 identity-remove-cert-exception =
     .label = Tynnu Eithriad
