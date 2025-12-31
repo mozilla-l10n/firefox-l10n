@@ -1014,6 +1014,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Mbojuehe
+account-group-label =
+    .label = { -vendor-short-name } mba’ete
 account-placeholder =
     .label = Ndereikéi gueteri
     .description = Eike ereko hag̃ua ne mba’ekuarã tekoñemíme, ipapapy ha ñembojuehépe ne mba’e’okaitápe.
@@ -1420,6 +1422,9 @@ payments-list-item-label = <strong>Mba’éicha ehepyme’ẽta</strong>
 payments-delete-payment-prompt-title = ¿Eipe’a mba’éichapa ehepyme’ẽta?
 payments-delete-payment-prompt-confirm-button = Mboguete
 payments-delete-payment-prompt-cancel-button = Eheja
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Ndaipóri mba’éicha ehepyme’ẽta
 payments-remove-payment-prompt-title = ¿Eipe’a mba’éichapa ehepyme’ẽta?
 payments-remove-payment-prompt-confirm-button = Mboguete
 payments-remove-payment-prompt-cancel-button = Heja
@@ -1444,6 +1449,9 @@ addresses-delete-address-prompt-cancel-button = Eheja
 autofill-addresses-add-button = Embojuaju kundaharape pyahu
 autofill-addresses-manage-addresses-title =
     .heading = Eñangareko kundaharape ha hetave
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ndaipóri kundaharape
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1687,6 +1695,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Ñemoñe’ẽ mboykepyre
     .description = Eguerujey ñe’ẽporã omboykémava jeykekohára ha { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Ñemoñe’ẽ mbojevy
 addressbar-quickactions-learn-more = Kuaave
 addressbar-dismissed-suggestions-label = Ñemoñe’ẽ mboykepyre
 addressbar-restore-dismissed-suggestions-description = Eguerujey ñe’ẽporã omboykémava jeykekohára ha { -brand-short-name }.

@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nde jeike nahekorosãi ko tendápe.
 identity-connection-verified = Eikehína tekorosãme ko tendápe.
 identity-ev-owner-label = Mboajepyre osẽmava:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Ojehecharamo he’iháicha pe Tekoguatarã (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nomoneĩri ko mboajepyre me’ẽhápe. Ikatu oñembojuaju apopyvusu oku’éva térã ñangarekoha rupive.
 identity-remove-cert-exception =
     .label = Emongue oĩ’ỹva
