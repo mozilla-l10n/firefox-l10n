@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = La configuración de control de contraste está cambiando la apariencia del sitio web.
 preferences-web-appearance-link =
     .label = Administrar temas de { -brand-short-name } en Extensiones y temas
+preferences-contrast-control-group =
+    .label = Contraste del sitio web
+    .description = Los sitios web usan una variedad de colores de frente y fondo. Para un contraste consistente, se pueden usar los mismos colores en todos los sitios web.
 preferences-contrast-control-radio-group =
     .label = Reemplazar colores
 # This can appear when using windows HCM or "Override colors: always" without
@@ -1014,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label =
+    .label = Cuenta de { -vendor-short-name }
 account-placeholder =
     .label = No ha iniciado sesión
     .description = Inicie sesión para mantener los datos privados, cifrados y sincronizados entre dispositivos.
@@ -1109,6 +1114,9 @@ prefs-syncing-on = Sincronización: activada
 prefs-syncing-on-2 =
     .label = Sincronización ACTIVADA
 prefs-syncing-off = Sincronización: desactivada
+prefs-syncing-off-2 =
+    .label = Sincronización DESACTIVADA
+    .description = Habilite la sincronización para tener marcadores, contraseñas, historial y más en todos los dispositivos.
 prefs-sync-turn-on-syncing =
     .label = Habilitar sincronización…
     .accesskey = s
@@ -1417,6 +1425,9 @@ payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-prompt-title = ¿Borrar este método de pago?
 payments-delete-payment-prompt-confirm-button = Borrar
 payments-delete-payment-prompt-cancel-button = Cancelar
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = No se agregaron métodos de pago
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
 payments-remove-payment-prompt-cancel-button = Cancelar
@@ -1441,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Cancelar
 autofill-addresses-add-button = Agregar nueva dirección
 autofill-addresses-manage-addresses-title =
     .heading = Administrar direcciones y más
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = No se agregaron direcciones
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1681,6 +1695,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugerencias descartadas
     .description = Restaurar sugerencias descartadas de patrocinadores y { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaurar sugerencias
 addressbar-quickactions-learn-more = Conocer más
 addressbar-dismissed-suggestions-label = Sugerencias descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugerencias descartadas de patrocinadores y { -brand-short-name }.

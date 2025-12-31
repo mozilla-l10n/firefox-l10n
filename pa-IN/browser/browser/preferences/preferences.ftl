@@ -627,6 +627,16 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } ਸਹਿਯੋਗ
+    .description = ਕਮਿਊਨਟੀ ਨਾਲ ਮਿਲ ਕੇ ਸਮੱਸਿਆ ਹੱਲ਼ ਕਰੋ ਜਾਂ ਵਿਚਾਰ ਸਾਂਝੇ ਕਰੋ।
+support-get-help =
+    .label = ਮਦਦ ਲਵੋ
+support-share-ideas =
+    .label = ਵਿਚਾਰ ਅਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
+
 ## General Section - Performance
 
 performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
@@ -894,6 +904,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨਤੀਜਿਆਂ 'ਚ ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨਤੀਜਿਆਂ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ
+search-show-suggestions-private-windows-2 =
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ
 search-suggestions-cant-show-2 =
     .message = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
 addressbar-header-1 =
@@ -907,6 +926,10 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = ਨਤੀਜਾ ਸਫ਼ਿਆਂ ਉੱਤੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਖੋਜੇ ਸ਼ਬਦਾਂ ਨੂੰ ਵੇਖਾਓ
+search-separate-default-engine-dropdown =
+    .aria-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਮੂਲ ਖੋਜ ਇੰਜਣ
+search-suggestions-header-2 =
+    .label = ਖੋਜ ਇੰਜਣ ਸੁਝਾਅ
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -992,6 +1015,9 @@ sync-signedout-description2 = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ
 sync-signedout-account-signin3 =
     .label = …ਸਿੰਕ ਲਈ ਸਾਈਨ ਇਨ
     .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1050,7 +1076,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = ਸਿੰਕ ਕਰਨਾ: ਚਾਲੂ ਹੈ
+prefs-syncing-on-2 =
+    .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਹੈ
 prefs-syncing-off = ਸਿੰਕ ਕਰਨਾ: ਬੰਦ ਹੈ
+prefs-syncing-off-2 =
+    .label = ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
+    .description = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ।
 prefs-sync-turn-on-syncing =
     .label = …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .accesskey = s
@@ -1077,6 +1108,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = ਤੁਸੀਂ ਇਹ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਨੈਕਟ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
+sync-syncing-across-devices-heading-2 = ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕੀਤਾ
 sync-currently-syncing-bookmarks = ਬੁੱਕਮਾਰਕ
 sync-currently-syncing-history = ਅਤੀਤ
 sync-currently-syncing-tabs = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
