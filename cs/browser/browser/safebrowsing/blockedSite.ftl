@@ -35,6 +35,11 @@ safeb-blocked-harmful-page-short-desc =
         [neuter] { -brand-short-name } zablokovalo tuto stránku, která se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).
        *[other] Aplikace { -brand-short-name } zablokovala tuto stránku, která se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).
     }
+safeb-blocked-addon-page-short-desc =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } zablokoval tuto stránku, protože se ji pokusil otevřít jeden z vašich doplňků. Tato stránka by mohla být použita ke krádeži vašich údajů — například hesel nebo čísel platebních karet.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala tuto stránku, protože se ji pokusil otevřít jeden z vašich doplňků. Tato stránka by mohla být použita ke krádeži vašich údajů — například hesel nebo čísel platebních karet.
+    }
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Rady poskytnuty společností <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.

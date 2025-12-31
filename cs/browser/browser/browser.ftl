@@ -599,6 +599,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Spojení s tímto serverem není zabezpečené.
 identity-connection-verified = Spojení s tímto serverem je zabezpečené.
 identity-ev-owner-label = Certifikát vydán pro:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Klasifikovaný podle nařízení (EÚ) 2024/1183.
 identity-description-custom-root2 = Mozilla tohoto vydavatele certifikátů nezná. Mohl být přidán operačním systémem nebo správcem vašeho počítače.
 identity-remove-cert-exception =
     .label = Odstranit výjimku
@@ -1811,3 +1813,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } těžeb kryptoměn
     }
 trustpanel-cryptominer-tab-list-header = Tyto stránky se pokouší o těžbu kryptoměn:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Na této stránce je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvek
+        [few] Na této stránce jsou zablokovány <span data-l10n-name="count">{ $count }</span> sledovací prvky
+        [many] Na této stránce je zablokováno <span data-l10n-name="count">{ $count }</span> sledovacích prvků
+       *[other] Na této stránce je zablokováno <span data-l10n-name="count">{ $count }</span> sledovacích prvků
+    }

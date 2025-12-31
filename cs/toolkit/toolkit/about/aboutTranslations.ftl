@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The title of the about:translations page.
+about-translations-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Překlady { -brand-short-name(case: "gen") }
+       *[no-cases] Překlady aplikace { -brand-short-name }
+    }
 about-translations-learn-more-link = Zjistit více
 about-translations-unsupported-info-button = Zjistit více
 about-translations-language-load-error-button = Zkusit znovu
