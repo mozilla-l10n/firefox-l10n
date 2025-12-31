@@ -11,7 +11,12 @@ newtab-settings-dialog-label =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-shortcut-header = ر نهنگ نۊ
 newtab-topsites-edit-shortcut-header = آلشت ر نهنگ
+newtab-topsites-add-shortcut-label = ٱووردن ر نهنگ
+newtab-topsites-add-shortcut-title =
+    .title = ٱووردن ر نهنگ
+    .aria-label = ٱووردن ر نهنگ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -58,6 +63,8 @@ newtab-pocket-learn-more = قلوه دووسته بۊین
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = ر نهنگا
+newtab-custom-sponsored-sites = ر نهنگا هؽزگرووݩ
 newtab-custom-settings = دؽوۉداری سامووا قلوه
 
 ## New Tab Weather

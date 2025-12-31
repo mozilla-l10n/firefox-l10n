@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = ਕਾਰਨ ਚੁਣੋ ਜੀ
 report-broken-site-panel-blocked-trackers-label =
     .label = ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਵਲੋਂ URL ਨੂੰ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ
 report-broken-site-panel-blocked-trackers-description = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਟਰੈਕਿੰਗ ਅਤੇ ਸਕ੍ਰਿਪਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਸਕਦੀ ਹੈ, ਜੋ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਲਈ ਚਾਹੀਦੀਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ।
+report-broken-site-panel-preview-button =
+    .label = ਰਿਪੋਰਟ ਦੀ ਝਲਕ
+report-broken-site-panel-preview-header =
+    .label = ਰਿਪੋਰਟ ਦੀ ਝਲਕ

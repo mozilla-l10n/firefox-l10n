@@ -21,3 +21,13 @@ screenshots-component-cancel-button =
 screenshots-component-copy-button-2 = لف گیری
     .title = لف گیری ({ $shortcut })
     .aria-label = لف گیری
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = دانلود
+    .title = دانلود ({ $shortcut })
+    .aria-label = دانلود
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = شؽوات ز بلگه
+    .tooltiptext = گرؽڌن ی شؽوات ز بلگه ({ $shortcut })

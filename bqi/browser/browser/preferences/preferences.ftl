@@ -84,11 +84,16 @@ home-custom-homepage-header = سفارشی کردن بلگه هووه
 
 home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
 home-prefs-content-header3 = { -firefox-home-brand-name }
+home-prefs-shortcuts-header =
+    .label = ر نهنگا
+home-prefs-shortcuts-by-option-sponsored =
+    .label = ر نهنگا هؽزگرووݩ
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 
 ## Search Section
 
+search-one-click-header2 = پیتینیڌن ر نهنگا
 search-edit-engine =
     .label = آلشت
     .accesskey = E
@@ -137,6 +142,10 @@ sitedata-option-block-cross-site-cookies2 =
 addressbar-locbar-bookmarks-option =
     .label = نشووکا
     .accesskey = k
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = ر نهنگا
+    .accesskey = S
 
 ##
 

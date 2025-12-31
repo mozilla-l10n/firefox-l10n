@@ -1006,6 +1006,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = ਸਿੰਕ ਕਰੋ
+account-group-label =
+    .label = { -vendor-short-name } ਖਾਤਾ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1017,6 +1019,9 @@ sync-signedout-account-signin3 =
     .accesskey = i
 sync-signedout-account-signin-4 =
     .label = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
+    .accesskey = i
+sync-signedout-account-short =
+    .label = ਸਾਈਨ ਇਨ
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1056,7 +1061,20 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
+sync-signedin-unverified2 =
+    .label = { $email } ਹਾਲੇ ਤਸਦੀਕ ਨਹੀਂ ਹੋਈ ਹੈ
+    .description = ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਆਪਣੇ ਇਨ-ਬਾਕਸ ਵਿੱਚ ਜਾਓ ਅਤੇ ਇਸ ਨੂੰ ਤਸਦੀਕ ਕਰੋ।
 sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1121,6 +1139,9 @@ sync-currently-syncing-addons = ਐਡ-ਆਨ
 sync-currently-syncing-settings = ਸੈਟਿੰਗਾਂ
 sync-manage-options =
     .label = …ਸਿੰਕ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = M
+sync-manage-options-2 =
+    .label = ਸਿੰਕ ਕੀਤੇ ਡਾਟਾ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
 sync-change-options =
     .label = …ਬਦਲੋ
