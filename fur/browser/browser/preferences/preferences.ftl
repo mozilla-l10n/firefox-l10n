@@ -912,8 +912,24 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostre i sugjeriments di ricercje tai risultâts de sbare de direzion
     .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Tai risultâts de sbare de direzion, mostre i sugjeriments di ricercje prime de cronologjie di navigazion.
+search-show-suggestions-private-windows-2 =
+    .label = Sugjeriments di ricercje tai barcons privâts
 search-suggestions-cant-show-2 =
     .message = No vignaran mostrâts sugjeriments di ricercje tai risultâts de sbare di posizion, viodût che tu âs configurât { -brand-short-name } in mût che no si visi mai la cronologjie.
+addressbar-header-1 =
+    .label = Sbare de direzion
+    .description = Sielç cuai sugjeriments mostrâ te sbare de direzion
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Sugjeriments di { -brand-short-name } e dai nestris colaboradôrs te sbare de direzion.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -923,6 +939,8 @@ search-separate-default-engine-2 =
     .accesskey = D
 search-separate-default-engine-dropdown =
     .aria-label = Motôr di ricercje predefinît tai barcons privâts
+search-suggestions-header-2 =
+    .label = Sugjeriments dai motôrs di ricercje
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1007,6 +1025,9 @@ sync-signedout-caption = Puartiti daûr il to Web
 sync-signedout-description2 = Sincronize segnelibris, cronologjie, schedis, passwords, components adizionâi e impostazions tra ducj i tiei dispositîfs.
 sync-signedout-account-signin3 =
     .label = Jentre par sincronizâ…
+    .accesskey = J
+sync-signedout-account-signin-4 =
+    .label = Jentre tal to account par inviâ la sincronizazion
     .accesskey = J
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
