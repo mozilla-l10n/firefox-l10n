@@ -142,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Conocer más<
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Este selector utiliza <strong>:has()</strong> sin restricciones, lo que puede ser lento
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Selectores hermanos después de <strong>:scope</strong> nunca coincidirán con nada

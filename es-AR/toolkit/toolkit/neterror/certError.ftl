@@ -128,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Probablemente nada, ya que es p
 fp-learn-more-about-secure-connection-failures = Conocer más sobre los fallos de conexión segura
 fp-learn-more-about-cert-issues = Conocer más sobre este tipo de problemas con los certificados
 fp-learn-more-about-time-related-errors = Conocer más sobre cómo solucionar errores relacionados con la fecha
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no confía en este sitio porque parece que el certificado proporcionado no es válido hasta las { DATETIME($date, timeStyle: "short") } del { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = El reloj del dispositivo está en { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si es correcto, probablemente el problema de seguridad esté en el sitio. Si está mal, puede cambiarlo en la configuración del sistema del dispositivo.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
