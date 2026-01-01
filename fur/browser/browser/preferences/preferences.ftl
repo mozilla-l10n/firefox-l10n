@@ -1422,8 +1422,15 @@ autofill-payment-methods-add-button = Zonte gnûf metodi di paiament
 payments-list-header =
     .label = Metodis di paiament
 payments-list-item-label = <strong>Metodis di paiament</strong>
+payments-delete-payment-prompt-title = Eliminâ chest metodi di paiament?
+payments-delete-payment-prompt-confirm-button = Elimine
+payments-delete-payment-prompt-cancel-button = Anule
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nissun metodi di paiament zontât
 payments-remove-payment-prompt-title = Gjavâ chest metodi di paiament?
 payments-remove-payment-prompt-confirm-button = Gjave
+payments-remove-payment-prompt-cancel-button = Anule
 autofill-addresses-title = Recapits e altris dâts
 autofill-addresses-header =
     .aria-label = Recapits e altris dâts
@@ -1433,6 +1440,36 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gjestìs recapits e altris dâts
     .accesskey = G
+addresses-list-header =
+    .label = Direzions
+addreses-delete-address-button-label =
+    .aria-label = Elimine
+addreses-edit-address-button-label =
+    .aria-label = Modifiche
+addresses-delete-address-prompt-title = Eliminâ cheste direzion?
+addresses-delete-address-prompt-confirm-button = Elimine
+addresses-delete-address-prompt-cancel-button = Anule
+autofill-addresses-add-button = Zonte gnûf recapit
+autofill-addresses-manage-addresses-title =
+    .heading = Gjestìs recapits e altris dâts
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nissun recapit zontât
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1470,6 +1507,9 @@ history-remember-description3 =
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
+history-custom-description3 =
+    .aria-label = { history-remember-label2 }
+    .description = { -brand-short-name } al doprarà impostazions personalizadis pe navigazion, par discjariâ, pai formularis e pe cronologjie di ricercje.
 history-remember-description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
 history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
 history-private-browsing-permanent =
@@ -1575,6 +1615,11 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Sbare de direzion
+addressbar-suggest-1 = Sielç i sugjeriments di mostrâ te sbare de direzion
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest-1 = Sugjeriments di { -brand-short-name } e dai nestris colaboradôrs te sbare de direzion.
 addressbar-suggest = Cuant che tu dopris la sbare de direzion, sugjerìs
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Sbare de direzion — { -firefox-suggest-brand-name }
@@ -1602,12 +1647,21 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Sîts principâi
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Sugjerìs motôrs di ricercje di doprâ
+    .accesskey = S
 addressbar-locbar-engines-option =
     .label = Motôrs di ricercje
     .accesskey = o
 addressbar-locbar-quickactions-option =
     .label = Azions sveltis
     .accesskey = Z
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Ricercjis resintis
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Sugjeriments di ricercje di tindince
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Sugjeriments di { -brand-short-name }
@@ -1633,6 +1687,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Ricêf sugjeriments dal web relat�
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugjeriments dai sponsors
 addressbar-locbar-suggest-sponsored-desc = Supuarte { -brand-short-name } cun sugjeriments sponsorizâts ocasionâi.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Oten sugjeriments di Mozilla intant che tu scrivis
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugjeriments ignorâts
     .description = Ripristine i sugjeriments ignorâts dai sponsors e di { -brand-short-name }.
@@ -1811,6 +1873,18 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloche barcons a comparse e indreçaments di tiercis bandis
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Gjestìs ecezions par barcons a comparse e indreçaments di tierçs
+    .accesskey = e
+    .searchkeywords = barcons a comparse
+permissions-addon-install-warning2 =
+    .label = Vise cuant che un sît web al cîr di instalâ une estension
+    .accesskey = V
+permissions-addon-exceptions2 =
+    .label = Sielç i sîts web che a puedin instalâ estensions
+    .accesskey = e
 permissions-block-popups =
     .label = Bloche i barcons a comparse
     .accesskey = B
@@ -1826,6 +1900,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ecezions…
     .accesskey = E
+permissions-header2 =
+    .label = Permès
+    .description = Permès dâts ai sîts web che tu visitis.
 permissions-location2 =
     .label = Posizion
 permissions-localhost2 =
@@ -1838,6 +1915,9 @@ permissions-camera2 =
     .label = Fotocjamare
 permissions-microphone2 =
     .label = Microfon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Cassis
 permissions-notification2 =
     .label = Notifichis
 

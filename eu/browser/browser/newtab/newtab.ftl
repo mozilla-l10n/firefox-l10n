@@ -508,15 +508,27 @@ newtab-topic-label-finance = Finantzak
 newtab-topic-label-society-parenting = Guraso izatea
 newtab-topic-label-government = Politika
 newtab-topic-label-education-science = Zientzia
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Auto-hobekuntza
 newtab-topic-label-sports = Kirolak
 newtab-topic-label-tech = Teknologia
 newtab-topic-label-travel = Bidaiak
+newtab-topic-label-home = Etxea eta lorategia
 
 ## Topic Selection Modal
 
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Hautatu zure jarioa doitzeko gaiak
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Aukeratu gai bat edo gehiago. Gure adituek zure interesen neurriko istorioei ematen die lehentasuna. Eguneratu edonoiz.
 newtab-topic-selection-save-button = Gorde
 newtab-topic-selection-cancel-button = Utzi
 newtab-topic-selection-button-maybe-later = Geroago agian
+newtab-topic-selection-privacy-link = Ikasi nola babesten eta kudeatzen ditugun datuak
 newtab-topic-selection-button-update-interests = Eguneratu zure interesak
 newtab-topic-selection-button-pick-interests = Hautatu zure interesak
 
