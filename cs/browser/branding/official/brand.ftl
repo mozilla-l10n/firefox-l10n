@@ -55,12 +55,12 @@
     .case-status = with-cases
 -brand-full-name =
     { $case ->
-        [gen] Mozilly Firefoxu
-        [dat] Mozille Firefoxu
-        [acc] Mozillu Firefox
-        [voc] Mozillo Firefoxe
-        [loc] Mozille Firefoxu
-        [ins] Mozillou Firefoxem
+        [gen] Mozilla Firefoxu
+        [dat] Mozilla Firefoxu
+        [acc] Mozilla Firefox
+        [voc] Mozilla Firefoxe
+        [loc] Mozilla Firefoxu
+        [ins] Mozilla Firefoxem
        *[nom] Mozilla Firefox
     }
     .gender = masculine
