@@ -703,6 +703,19 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · ഇന്നു്
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · ഇന്നു തീരുന്നു
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.

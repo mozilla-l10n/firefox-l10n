@@ -60,6 +60,8 @@ turn-off-scheduled-backups-cancel-button = റദ്ദാക്കുക
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-filepicker-label = കരുതൽപ്പകൎപ്പു ഫയൽ
+restore-from-backup-filepicker-title = കരുതല്പകൎപ്പു ഫയൽ തിരഞ്ഞെടുക്കുക:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] തിരഞ്ഞെടുക്കുക…
@@ -68,8 +70,29 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = ഒളിവാക്കു്
 restore-from-backup-cancel-button = റദ്ദാക്കുക
 
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = കരുതൽപ്പകൎപ്പുണ്ടാക്കുന്നതിൽ എന്തോ കുഴപ്പമുണ്ടായി.
+    .message = ഇച്ചിരി നേരം കഴിഞ്ഞു വീണ്ടും ശ്രമിക്കുക
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-support-link = കൂടുതല്‍ അറിയുക
+enable-backup-encryption-create-password-label = ഒളിവാക്കു്
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = ഒളിവാക്ക് വീണ്ടും എഴുതുക
+enable-backup-encryption-cancel-button = റദ്ദാക്കുക
+enable-backup-encryption-confirm-button = കരുതിവയ്ക്കുക
+
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
+password-rules-header = ഒളിവാക്കാവശ്യങ്ങൾ
+password-rules-length-description = 8 പ്രതീകങ്ങളെങ്കിലും
+password-rules-email-description = താങ്ങളുടെ ഇതപാൽ വിലാസമല്ല
 password-validity-has-email = ഇതൊരു ഇ-തപാൽ വിലാസമായി ഇടാൻ പറ്റില്ല
 password-validity-do-not-match = ഒളിവാക്കുകൾ പൊരുത്തപ്പെടുന്നില്ല
 
@@ -92,7 +115,10 @@ disable-backup-encryption-confirm-button = ഒളിവാക്കു് മാ
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-path-label = കരുതൽപ്പകൎപ്പു ഫയൽ:
+backup-file-encryption-state-label = രൂപമാറ്റിയതു് :
 backup-file-encryption-state-value-encrypted = അതെ
 backup-file-encryption-state-value-not-encrypted = ഇല്ല
 backup-file-creation-device-label = ഉപകരണം:
 backup-file-creation-date-label = ഉണ്ടാക്കിയതു്:
+backup-file-download-moz-browser-button = ഇറക്കിവയ്ക്കുക
