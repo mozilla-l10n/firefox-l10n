@@ -415,6 +415,12 @@ newtab-wallpaper-storm-sky = Ekaitz zerua
 newtab-wallpaper-sky-with-pink-clouds = Hodei arrosadun zerua
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda gorria zuhaitzean aharrausika
 newtab-wallpaper-white-mountains = Mendi zuriak
+newtab-wallpaper-hot-air-balloons = Globoen askotariko koloreak egunez
+newtab-wallpaper-starry-canyon = Gau urdin izartsua
+newtab-wallpaper-suspension-bridge = Zubi eseki grisaren argazkia egunez
+newtab-wallpaper-sand-dunes = Hondar zuriko dunak
+newtab-wallpaper-palm-trees = Kokondoen silueta urrezko orduan
+newtab-wallpaper-blue-flowers = Loratzen dauden petalo urdindun loreen gertuko argazkilaritza
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
@@ -433,6 +439,19 @@ feature-highlight-wallpaper =
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Zerutarra
+newtab-wallpaper-celestial-lunar-eclipse = Ilargi-eklipsea
+newtab-wallpaper-celestial-earth-night = Gaueko argazkia lurraren orbita baxutik
+newtab-wallpaper-celestial-starry-sky = Zeru izartua
+newtab-wallpaper-celestial-eclipse-time-lapse = Ilargi-eklipsearen denbora-tartea
+newtab-wallpaper-celestial-black-hole = Zulo beltz galaxiaren ilustrazioa
+newtab-wallpaper-celestial-river = Ibai baten satelite-irudia
 
 ## New Tab Weather
 
@@ -486,6 +505,7 @@ newtab-topic-label-hobbies = Jokoak
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = Finantzak
+newtab-topic-label-society-parenting = Guraso izatea
 newtab-topic-label-government = Politika
 newtab-topic-label-education-science = Zientzia
 newtab-topic-label-sports = Kirolak
