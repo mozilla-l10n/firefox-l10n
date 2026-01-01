@@ -426,6 +426,9 @@ newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Babeslea
 newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Bilatu kokapena
@@ -445,8 +448,10 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Aldatu Fahrenheit-era
 newtab-weather-menu-change-temperature-units-celsius = Aldatu Celsius-era
 newtab-weather-menu-hide-weather = Ezkutatu eguraldia fitxa berrian
 newtab-weather-menu-learn-more = Argibide gehiago
+newtab-weather-menu-detect-my-location = Hauteman nire kokalekua
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Eguraldiari buruzko daturik ez dago erabilgarri orain.
+newtab-weather-opt-in-see-weather = Zure kokalekurako eguraldia ikusi nahi duzu?
 newtab-weather-opt-in-not-now =
     .label = Une honetan ez
 newtab-weather-opt-in-yes =
@@ -526,6 +531,7 @@ newtab-custom-wallpaper-cta = Probatu
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-title = Aukeratu horma-paper bat { -brand-product-name } zure egiteko
+newtab-new-user-custom-wallpaper-subtitle = Molda ezazu fitxa berri bakoitza zure modura horma-paper eta kolore pertsonalizatuekin.
 newtab-new-user-custom-wallpaper-cta = Probatu orain
 
 ## Strings for download mobile highlight
@@ -537,6 +543,11 @@ newtab-download-mobile-highlight-body-variant-b = Jarraitu utzi zenuen tokitik z
 newtab-download-mobile-highlight-body-variant-c = Badakizu { -brand-product-name } aldean eraman dezakezula? Nabigatzaile berdina. Patrikan.
 newtab-download-mobile-highlight-image =
     .aria-label = Mugikorrerako { -brand-product-name } deskargatzeko QR kodea
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Zure gogokoak esku-eskura
+newtab-shortcuts-highlight-subtitle = Gehitu lasterbidea zure gogoko guneak klik bakarrera mantentzeko.
 
 ## Strings for reporting issues with ads and content
 
@@ -554,6 +565,10 @@ newtab-report-content-outdated =
     .label = Zaharkituta
 newtab-report-content-inappropriate-offensive =
     .label = Desegokia edo iraingarria
+newtab-report-content-spam-misleading =
+    .label = Spama edo gezurretakoa
+newtab-report-content-requires-payment-subscription =
+    .label = Ordainketa edo harpidetza behar du
 newtab-report-content-requires-payment-subscription-learn-more = Argibide gehiago
 newtab-report-cancel = Utzi
 newtab-report-submit = Bidali
@@ -643,6 +658,8 @@ newtab-widget-timer-menu-notifications-on = Aktibatu jakinarazpenak
 newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
 newtab-widget-timer-menu-learn-more = Argibide gehiago
 newtab-widget-message-title = Mantendu kontzentratuta zerrendekin eta tenporizadorearekin
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Abisu azkarretatik egunaren egitekoetara, saio zentratuetatik luzatzeko hutsuneetara — izan zereginen gainean eta garaiz.
 newtab-promo-card-title = Lagundu { -brand-product-name }
 newtab-promo-card-body = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte
 newtab-promo-card-cta = Argibide gehiago
