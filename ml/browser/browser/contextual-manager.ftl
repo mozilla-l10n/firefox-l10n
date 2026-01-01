@@ -174,11 +174,14 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = ഉപയോക്തൃപ്പേരു് ചേൎക്കുക
     .message = പെട്ടന്നു് പ്രവേശിക്കാൻ വേണ്ടി ഒരെണ്ണം ചേൎക്കുക.
 contextual-manager-passwords-add-username-button = ഉപയോക്തൃപ്പേരു് ചേൎക്കുക
+contextual-manager-passwords-title = ഒളിവാക്കുകൾ
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = ഒളിവാക്കു് ചേർക്കുക
+contextual-manager-passwords-update-label =
+    .label = ഒളിവാക്കു പുതുക്കുക
 contextual-manager-passwords-edit-label =
     .label = ഒളിവാക്കു് തിരുത്തുക
 contextual-manager-passwords-remove-label =
@@ -245,6 +248,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ഒരു ഒളിവാക്കു് കണ്ടെത്താൻ കഴിഞ്ഞില്ല
+contextual-manager-passwords-no-passwords-found-message-2 = മറ്റൊരു പദം പരീക്ഷിച്ചുനോക്കി വീണ്ടും തിരയുക.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -255,6 +259,8 @@ contextual-manager-passwords-no-passwords-header = താങ്ങളുടെ �
 contextual-manager-passwords-no-passwords-get-started-message = തുടങ്ങാൻ വേണ്ടി അവയെ ഇവിടെ ചേൎക്കുക
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = നേരിട്ടു് ചേൎക്കുക
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = താങ്ങളുടെ ഒളിവാക്കുകൾ ഒരു സുരക്ഷിതമായ സ്ഥലത്തിലേക്കു് കരുതിവയ്ക്കുക
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -271,3 +277,6 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] അതെ, ഒളിവാക്കുകൾ മാറ്റുക
        *[other] അതെ, ഒളിവാക്കുകൾ മാറ്റുക
     }
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = ഒന്നാം ഒളിവാക്കു നല്കുക
+contextual-manager-primary-password-learn-more-link = കൂടുതലറിയുക

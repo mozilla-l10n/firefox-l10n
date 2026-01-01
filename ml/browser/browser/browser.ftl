@@ -705,6 +705,36 @@ urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്�
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } നാളിനുള്ളിൽ
+       *[other] { $name } · { $daysUntilStart } നാളിനുള്ളിൽ
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } നാളിനുള്ളിൽ തുടങ്ങും
+       *[other] { $name } · { $daysUntilStart } നാളിനുള്ളിൽ തുടങ്ങും
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · { $daysUntilStart } നാളിനുശേഷം തീരും
+       *[other] { $name } · { $daysUntilStart } നാളിനുശേഷം തീരും
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
@@ -1022,6 +1052,8 @@ navbar-accessible =
     .aria-label = വഴികാട്ടൽവ്യവസ്ഥ
 navbar-downloads =
     .label = ഇറക്കിവയ്ക്കലുകൾ
+navbar-overflow-2 =
+    .tooltiptext = കൂടുതൽ കരുകൾ
 navbar-overflow =
     .tooltiptext = കൂടുതല്‍ പ്രയോഗങ്ങള്‍...
 # Variables:
@@ -1160,6 +1192,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' കാണിക്കുക
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = “{ $redirectURI }” കാണിക്കുക
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1188,3 +1224,27 @@ onboarding-checklist-button-label = സജ്ജീകരണം തീൎക്�
 onboarding-aw-finish-setup-button =
     .label = സജ്ജീകരണം തീൎക്കുവിൻ
     .tooltiptext = { -brand-short-name }-ന്റെ സജ്ജീകരണം തീൎക്കുക
+
+## The urlbar trust icon & panel
+
+trustpanel-connection-label-secure = സമ്പമൎക്കം സുരക്ഷിതമാണു്
+trustpanel-connection-label-insecure = സമ്പൎക്കം സുരക്ഷിതമല്ല
+trustpanel-header-enabled = { -brand-product-name } കാവൽനില്ക്കുന്നു
+trustpanel-header-disabled = താങ്ങൾ പരിരക്ഷകൾ അണച്ചു
+trustpanel-clear-cookies-button = കുക്കികളും വെബ്ബിട ഡാറ്റയും മായ്ക്കുക
+trustpanel-privacy-link = സ്വകാര്യത ക്രമീകരണങ്ങൾ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host }-ന്റെ കുക്കികളും വെബ്ബിട ഡാറ്റയും മായ്ക്കുക
+trustpanel-clear-cookies-subview-button-clear = മായ്ക്കുക
+trustpanel-clear-cookies-subview-button-cancel = റദ്ദാക്കുക
+trustpanel-siteinformation-morelink = കൂടുതൽ വെബ്ബിടവിവരങ്ങൾ
+trustpanel-blocker-see-all = മുഴുവന്‍ കാണുക
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = സുരക്ഷിതമല്ല

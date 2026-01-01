@@ -21,6 +21,7 @@ genai-menu-ask-generic =
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = { $provider }-നെ ചോദിക്കുക
+genai-menu-new-badge = പുതിയതു്
 genai-input-ask-generic =
     .placeholder = നിൎമിതബുദ്ധി സല്ലാപയന്ത്രമനുഷ്യനെ ചോദിക്കുക…
 
