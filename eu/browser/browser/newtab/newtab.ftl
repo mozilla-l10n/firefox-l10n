@@ -290,6 +290,7 @@ newtab-toast-dismiss-button =
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Aurkitu webeko onena
+newtab-pocket-onboarding-cta = { -pocket-brand-name }(e)k hainbat argitalpen arakatzen ditu eduki informatibo, suspergarri eta fidagarriena zuzenean zure { -brand-product-name } nabigatzailera ekartzeko.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -319,6 +320,7 @@ newtab-custom-stories-toggle =
     .description = { -brand-product-name } familiak aukeratutako eduki aparta
 newtab-custom-stories-personalized-toggle =
     .label = Istorioak
+newtab-custom-stories-personalized-checkbox-label = Zure jardueran oinarritutako istorio pertsonalizatuak
 newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
 newtab-custom-recent-title = Azken jarduera
@@ -351,6 +353,11 @@ newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-upload-image = Igo irudia
 newtab-wallpaper-custom-color = Aukeratu kolorea
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = Irudiak fitxategi-tamainaren { $file_size } MBko muga gainditzen du. Saiatu fitxategi txikiago bat igotzen.
+newtab-wallpaper-error-upload-file-type = Ezin izan dugu zure fitxategia igo. Saiatu berriro irudi-fitxategi batekin.
+newtab-wallpaper-error-file-type = Ezin izan dugu zure fitxategia igo. Saiatu berriro beste fitxategi mota batekin.
 newtab-wallpaper-light-red-panda = Panda gorria
 newtab-wallpaper-light-mountain = Mendi zuria
 newtab-wallpaper-light-sky = Hodei more eta arrosadun zerua
@@ -394,7 +401,10 @@ newtab-wallpaper-abstract-purple = Forma moreak
 newtab-wallpaper-abstract-orange = Forma laranjak
 newtab-wallpaper-gradient-orange = Gradiente laranja eta arrosa
 newtab-wallpaper-abstract-blue-purple = Forma urdin eta moreak
+newtab-wallpaper-abstract-white-curves = Zuria kurba itzaldunekin
+newtab-wallpaper-abstract-purple-green = Gradiente more eta berde argia
 newtab-wallpaper-abstract-blue-purple-waves = Forma kizkur urdin eta moreak
+newtab-wallpaper-abstract-black-waves = Forma izurtsu beltzak
 
 ## Firefox
 
@@ -426,6 +436,10 @@ newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Ikusi iragarpena { $provider } hornitzailean
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Babeslea
