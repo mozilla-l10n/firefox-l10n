@@ -66,6 +66,7 @@ cfr-doorhanger-bookmark-fxa-link-text = അടയാളകുറിപ്പു�
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = അടിപ്പുബട്ടൺ
     .title = അടയ്ക്കുക
+fxa-adoption-primary-button-label = അംഗത്തമെടുക്കുക
 
 ## Protections panel
 
@@ -178,6 +179,15 @@ fox-doodle-pin-secondary = ഇപ്പോഴല്ല
 
 set-default-pdf-handler-primary = മനസ്സിലായി
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-primary-cta-label = തനിമട്ടാക്കുക
+annotations-make-default-pdf-next-label = അടുത്തതു്
+annotations-make-default-pdf-primary-cta =
+    .label = തനിമട്ടാക്കുക
+annotations-make-default-pdf-next =
+    .label = അടുത്തതു്
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = വരുംകാലത്തിൽ പുതിയ ഉപകരണം?
@@ -246,6 +256,8 @@ fxa-menu-message-close-button =
     .title = അടയ്ക്കുക
     .aria-label = അടയ്ക്കുക
 fxa-menu-message-sign-up-button = അംഗത്വമെടുക്കുക
+fxa-menu-message-sign-in-button = പ്രവേശിക്കുക
+fxa-menu-message-sync-button = സമന്വയിപ്പിക്കാൻ തുടങ്ങുക
 fxa-menu-message-sync-devices-primary-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
 fxa-menu-message-sync-devices-collapsed-text = താങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളെ സമന്വയിപ്പിക്കുക
 fxa-menu-message-backup-data-primary-text = അന്വേഷിയന്ത്രദത്തയുടെ കരുതൽപകൎപ്പു് സൂക്ഷിച്ചു് വയ്ക്കുക
@@ -269,3 +281,18 @@ multi-cta-fox-doodle-pin-checkbox =
     }
 multi-cta-fox-doodle-start-browsing-primary-button-label = തിരയാൻ തുടങ്ങുക
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } എന്റെ എഴുന്ന അന്വേഷിയന്ത്രമാക്കി വയ്ക്കുക
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-primary-label = തുടങ്ങാം
+windows-10-eos-sync-toast-secondary-label = എന്നെ പിന്നീടു് ഓർമ്മിപ്പിക്കുക
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = അടുത്തതു്
+windows-10-eos-sync-callout-get-started-button = തുടങ്ങാം
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-primary-button = തനിമട്ടാക്കുക
+set-default-menu-message-primary-button-variant = പ്രാഥമിക അന്വേഷിയന്ത്രമാക്കുക
