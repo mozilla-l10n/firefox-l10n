@@ -269,6 +269,13 @@ create-backup-select-tile-button-label = തിരഞ്ഞെടുക്കു
 create-backup-back-button-label = പുറകോട്ടു്
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = എല്ലാ ഡാറ്റയും
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = ഒളിവാക്കുകളും പണമടക്കലും അടക്കം
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = ഒളിവാക്കുകൊണ്ടു രൂപമാറ്റിയിട്ടുണ്ടു്
+fx-backup-opt-in-create-password-label = ഒളിവാക്കു നല്‍കുക
+fx-backup-opt-in-confirm-btn-label = തുടരുക
+fx-backup-opt-in-cancel-btn-label = തിരിച്ചു്
 
 ## Fx Backup confirmation screen strings
 
@@ -284,3 +291,8 @@ restored-from-backup-success-with-checklist-primary-button = കരുതിവ�
 restored-from-backup-success-with-checklist-secondary-button = ഈ ഘട്ടം ഒഴിവാക്കുക
 restored-from-backup-success-no-checklist-primary-button = തുടരുക
 restored-from-backup-error-primary-button = അടയ്ക്കുക
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-motivation-other-option = മറ്റുള്ളവ

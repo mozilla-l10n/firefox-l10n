@@ -480,3 +480,31 @@ newtab-report-submit = സമൎപ്പിക്കുക
 ## Strings for trending searches
 
 newtab-trending-searches-learn-more = കൂടുതല്‍ അറിയുക
+
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = പുതിയതു്
+newtab-widget-lists-label-beta =
+    .label = ബീറ്റ
+newtab-widget-task-list-menu-copy = പകൎത്തുക
+newtab-widget-lists-menu-hide = പട്ടികകളെല്ലാം മറയ്ക്കുക
+newtab-widget-lists-menu-learn-more = കൂടുതല്‍ അറിയുക
+newtab-widget-lists-input-add-an-item =
+    .placeholder = ഇനം ചേർക്കുക
+newtab-widget-lists-input-menu-open-link = കണ്ണി തുറക്കുക
+newtab-widget-lists-input-menu-move-up = മുകളിലേക്കു് നീക്കു്
+newtab-widget-lists-input-menu-move-down = താഴോട്ടു നീക്കു്
+newtab-widget-lists-input-menu-delete = മായ്ക്കുക
+newtab-widget-lists-input-menu-edit = തിരുത്തുക
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + പുതിയ പട്ടികയുണ്ടാക്കുക
+newtab-widget-lists-name-label-default =
+    .label = കാര്യപ്പട്ടിക
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = കാര്യപ്പട്ടിക
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = പുതിയ പട്ടിക

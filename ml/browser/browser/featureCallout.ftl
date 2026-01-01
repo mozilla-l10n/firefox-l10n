@@ -71,6 +71,10 @@ perplexity-callout-secondary-label-2 = മനസ്സിലായി
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = അംഗത്തമെടുക്കുക
 
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-callout-primary-advance-button-label = അടുത്തതു്
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = അണിവക്കത്തിൽ ടാബുതലക്കെട്ടുകൾ കാണിക്കുക
