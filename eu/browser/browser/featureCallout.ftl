@@ -97,7 +97,10 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Ez, eskerrik asko
 perplexity-callout-theme-1-title = Erantzun zuzena behar duzu, berehala?
 perplexity-callout-theme-2-title = Probatu Perplexity: bilaketak egiteko modu berria
 perplexity-callout-theme-1-subtitle-1 = Probatu Perplexity. Aukera ezazu bilaketarako botoitik erantzun osoak nahi dituzunean, iturburuak barne.
-perplexity-callout-theme-1-subtitle-2 = Egin galderak. Jaso aipu egokiak dituzten erantzun osoak. Perplexity probatzeko, aukera ezazu bilatzeko botoitik.
+perplexity-callout-theme-1-subtitle-2 = Egin galderak. Jaso erantzun osoak, aipu eta guzti. Perplexity probatzeko, aukera ezazu bilatzeko botoitik.
+perplexity-callout-theme-2-subtitle-1 = Galdetu Perplexity-ri. Erantzun osoak jasoko dituzu, hauen iturriak barne.
+perplexity-callout-theme-2-subtitle-2 = Egin galderak. Jaso erantzun osoak, aipu eta guzti.
+perplexity-callout-primary-label = Galdetu Perplexity-ri
 perplexity-callout-secondary-label-1 = Baztertu
 perplexity-callout-secondary-label-2 = Ulertuta
 
@@ -134,8 +137,12 @@ windows-10-eos-sync-new-device-title-2 = Gailu berri batera aldatu behar duzu? E
 windows-10-eos-sync-new-device-subtitle-2 = { -brand-short-name } gehiago ala gutxiago erabilita ere, sinkronizatzeak zure laster-markak, pasahitzak eta ezarpenak babesten ditu.
 windows-10-eos-sync-new-device-primary-label = Sinkronizatu orain
 windows-10-eos-sync-general-title-1 = Babestu zure erara moldatu duzun { -brand-short-name }.
+windows-10-eos-sync-general-subtitle-1 = Egin babeskopia eta sinkronizatu zure pasahitzak, laster-markak, ezarpenak eta bestelako datuak, horrela mantentzeko zuretzat garrantzitsua dena.
+windows-10-eos-sync-general-title-2 = Une ona da orain zure pasahitz eta laster-marken babeskopia egiteko.
+windows-10-eos-sync-general-subtitle-2 = Sinkronizatu orain { -brand-short-name }(r)en esku uzten dituzun gauzak babesteko — eta eskura ezazu berriro edonon, edonoiz.
 windows-10-eos-sync-tour-title-1 = Fitxa gehiegi dituzu? Txukundu itzazu fitxa-taldeekin.
 windows-10-eos-sync-tour-subtitle-1 = Talde bat sortu eta gauzak antolatuta mantentzeko, arrasta ezazu fitxa bat bestearen gainera.
+windows-10-eos-sync-tour-title-2 = Hasi prestatzen Windows 11rako.
 windows-10-eos-sync-tour-subtitle-2 = Sinkronizatu zure laster-markak, pasahitzak eta ezarpenak eta egin hauen babeskopia aldaketa burutu aurretik.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Erakutsi gomendio gutxiago
@@ -216,6 +223,7 @@ sidebar-callout-survey-saved-websites-2 = Zure laster-marketarako sarbide bizkor
 sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!
+sidebar-genai-survey-satisfaction-question = Zenbateraino zaude pozik AA txaterako boterako sarbidea alboko barran izateaz?
 sidebar-genai-survey-productive-question =
     Zein neurriraino zaude ados edo desados ondorengo adierazpenarekin:<br/>
     "Alboko barrako AA txaterako botak emankorrago izaten laguntzen dit"?
