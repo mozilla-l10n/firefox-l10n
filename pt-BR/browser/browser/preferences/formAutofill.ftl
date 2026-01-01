@@ -93,7 +93,7 @@ autofill-address-county = Município
 # Used in Barbados (BB), Jamaica (JM) as primary address information (1 level below the country level).
 autofill-address-parish = Freguesia
 # Used in Japan (JP) as primary address information (1 level below the country level).
-autofill-address-prefecture = Prefeitura
+autofill-address-prefecture = Província
 # Used in Honk Kong (HK) as primary address information (1 level below the country level).
 autofill-address-area = Área
 # Used in Korea (KO) as primary address information (1 level below the country level).
