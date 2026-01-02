@@ -445,9 +445,17 @@ onboarding-checklist-sign-up = Eman izena edo hasi saioa zure kontuan
 
 tab-groups-onboarding-feature-callout-title = Probatu fitxa-taldeak soberan dagoena kendu eta zentratuta izateko
 tab-groups-onboarding-feature-callout-subtitle = Antolatu goian dagoen fitxa bat beste batera arrastatuz eta zure lehen taldea sortuz.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Aurkitu zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
 tab-groups-onboarding-create-group-title-2 = Aurkitu hemen zure fitxa-taldeak edonoiz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Aurkitu zure taldeak helbide-barran bilaketa eginez.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Fitxa-taldeak talde bat ixtean, ireki ezazu berriro 'Zerrendatu fitxa guztiak' menu-aukeran.
 tab-groups-onboarding-saved-groups-title-2 = Fitxa-talde bat ixtean, hemen berrireki dezakezu edonoiz.
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Aurkitu itxitako zure taldeak helbide-barran bilaketa eginez.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Ireki berriro zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
+tab-groups-onboarding-session-restore-title = Ireki berriro hemen zure fitxa-taldeak edonoiz.
 tab-groups-onboarding-dismiss = Ados
 
 ## Multi Profiles feature onboarding messages
@@ -455,10 +463,16 @@ tab-groups-onboarding-dismiss = Ados
 multi-profile-spotlight-title = Esan kaixo { -brand-product-name }(r)en profilei
 multi-profile-spotlight-body = Aldatu erraz lanerako eta aisialdirako nabigazioaren artean. Profilen bidez zure nabigatzailearen informazioa, bilaketa-historia eta pasahitzak barne, erabat bereiz mantentzen dira antolatuta egon zaitezen.
 multi-profile-spotlight-cta = Sortu profil bat
+multi-profile-callout-title = Sortu profil desberdinak lanerako eta aisialdirako
+multi-profile-callout-subtitle = Profilen bidez zure nabigatze-informazioa, adibidez bilaketa-historia eta pasahitzak, erabat bereiz mantentzen da.
 multi-profile-callout-cta = Sortu profil bat
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = Deskargatu, sinkronizatu eta segi!
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Eskaneatu mugikorrerako { -brand-product-name } deskargatzeko QR kodea. Behin instalatuta, hautatu "Sinkronizatu mugikorrera" zure pasahitzak, laster-markak eta gehiago alboan izateko.
 dismiss-button-label = Baztertu
 sync-to-mobile-button-label = Sinkronizatu mugikorrarekin
 desktop-to-mobile-qr-code-alt =
