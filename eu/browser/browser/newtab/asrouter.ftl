@@ -419,6 +419,7 @@ windows-10-eos-feature-toast-dismiss-button = Baztertu
 ## issues. The infobar offers users the option to apply automatic exceptions
 ## to fix common site breakage by unblocking essential elements.
 
+etp-strict-exceptions-infobar-message = <strong>jarraipenaren babes zorrotzak zenbait gune apurtzea eragin lezake.</strong> Konpondu ohiko arazoak jarraipen-elementuak izan litzaketen funtsezko elementuak desblokeatuz.
 etp-strict-exceptions-infobar-learn-more = Argibide gehiago
 etp-strict-exceptions-infobar-button = Aplikatu konponketak
     .accesskey = A
