@@ -33,6 +33,10 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Μετάφραση
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Αντιγραφή
+    .title = Αντιγραφή μετάφρασης
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Επιλογή γλώσσας

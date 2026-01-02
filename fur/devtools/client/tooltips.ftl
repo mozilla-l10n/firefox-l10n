@@ -21,6 +21,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> nol à efiet su chest element viodût che nol è un contignidôr multi-colone.
 inactive-css-column-span = <strong>{ $property }</strong> nol à nissun efiet di spanning su chest element viodût che no si cjate intun contignidôr multi-colone.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element gridele o flex.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> nol tocje chest element parcè che nol è un element grid o flex, e nol à une posizion assolude.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> nol tocje chest element parcè che nol è un element grid e nol à une posizion assolude.
 inactive-css-not-grid-item = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element gridele.
 inactive-css-not-grid-container = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un contignidôr gridele.
 inactive-css-not-flex-item = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element flex.
@@ -63,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> nol à efiets su ches
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nol è supuartât su pseudo-elements de categorie “highlight”.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât tai pseudo-elements “::cue”.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> nol è supuartât tes regulis <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -84,6 +87,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Prove a zontâ <strong>di
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Prove a zontâ o <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Prove a zontâ <strong>column-count</strong> o <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Prove a zontâ <strong>column-count</strong> o <strong>column-width</strong> a un dai elements progjenitôr. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Prove a zontâ <strong>position:absolute</strong> al element, opûr <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al gjenitôr dal element. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Prove a zontâ <strong>position:absolute</strong> al element, opûr <strong>display:grid</strong> o <strong>display:inline-grid</strong> al gjenitôr dal element. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Prove a zontâ <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al gjenitôr dal element { learn-more }
 inactive-css-not-grid-item-fix-2 = Prove a zontâ <strong>display:grid</strong> o <strong>display:inline-grid</strong> al gjenitôr dal element. { learn-more }
 inactive-css-not-grid-container-fix = Prove a zontâ <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
@@ -137,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Plui informaz
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Chest seletôr al dopre <strong>:has()</strong> cence vincui, al podarès jessi lent
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = I seletôrs di stes nivel (“sibling”) dopo <strong>:scope</strong> no varan mai corispondencis

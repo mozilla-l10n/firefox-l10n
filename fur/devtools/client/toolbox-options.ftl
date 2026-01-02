@@ -150,4 +150,10 @@ options-source-maps-label = Ative mapis des origjins
 options-source-maps-tooltip =
     .title = Se tu ativis cheste opzion i sorzints a vignaran mapâts intai struments.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (dome cheste session, torne cjame la pagjine)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * dome session atuâl, al torne a cjariâ la pagjine
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (torne cjame la pagjine)

@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Συγχρονισμός
+account-group-label =
+    .label = Λογαριασμός { -vendor-short-name }
 account-placeholder =
     .label = Δεν έχετε συνδεθεί
     .description = Συνδεθείτε για να διατηρήσετε τα δεδομένα σας ιδιωτικά, κρυπτογραφημένα και συγχρονισμένα μεταξύ των συσκευών σας.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Μέθοδοι πληρωμής</strong>
 payments-delete-payment-prompt-title = Αφαίρεση μεθόδου πληρωμής;
 payments-delete-payment-prompt-confirm-button = Διαγραφή
 payments-delete-payment-prompt-cancel-button = Ακύρωση
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Δεν έχουν προστεθεί μέθοδοι πληρωμής
 payments-remove-payment-prompt-title = Αφαίρεση αυτής της μεθόδου πληρωμής;
 payments-remove-payment-prompt-confirm-button = Αφαίρεση
 payments-remove-payment-prompt-cancel-button = Ακύρωση
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Ακύρωση
 autofill-addresses-add-button = Προσθήκη νέας διεύθυνσης
 autofill-addresses-manage-addresses-title =
     .heading = Διαχείριση διευθύνσεων και άλλων
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Δεν έχουν προστεθεί διευθύνσεις
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Απορριφθείσες προτάσεις
     .description = Επαναφέρετε τις απορριφθείσες προτάσεις από χορηγούς και το { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Επαναφορά προτάσεων
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 addressbar-dismissed-suggestions-label = Απορριφθείσες προτάσεις
 addressbar-restore-dismissed-suggestions-description = Επαναφέρετε τις απορριφθείσες προτάσεις από χορηγούς και το { -brand-short-name }.

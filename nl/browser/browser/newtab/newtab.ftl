@@ -614,6 +614,7 @@ newtab-report-content-inappropriate-offensive =
     .label = Ongepast of beledigend
 newtab-report-content-spam-misleading =
     .label = Spam of misleidend
+newtab-report-content-requires-payment-subscription-learn-more = Meer info
 newtab-report-cancel = Annuleren
 newtab-report-submit = Indienen
 newtab-toast-thanks-for-reporting =
