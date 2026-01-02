@@ -1017,6 +1017,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronización
+account-group-label =
+    .label = Cuenta de { -vendor-short-name }
 account-placeholder =
     .label = No estás conectado
     .description = Conéctate para mantener tus datos privados, cifrados y sincronizados entre dispositivos.
@@ -1423,6 +1425,9 @@ payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-prompt-title = ¿Eliminar este método de pago?
 payments-delete-payment-prompt-confirm-button = Borrar
 payments-delete-payment-prompt-cancel-button = Cancelar
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = No se han añadido métodos de pago
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
 payments-remove-payment-prompt-cancel-button = Cancelar
@@ -1447,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Cancelar
 autofill-addresses-add-button = Añadir nueva dirección
 autofill-addresses-manage-addresses-title =
     .heading = Administrar direcciones y más
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = No se han añadido direcciones
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1690,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugerencias ignoradas
     .description = Restaurar sugerencias ignoradas de patrocinadores y { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaurar sugerencias
 addressbar-quickactions-learn-more = Aprender más
 addressbar-dismissed-suggestions-label = Sugerencias ignoradas
 addressbar-restore-dismissed-suggestions-description = Restaurar sugerencias ignoradas de patrocinadores y { -brand-short-name }.
