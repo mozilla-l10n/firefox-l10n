@@ -18,6 +18,18 @@ downloads-cmd-cancel-panel =
 
 ##
 
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] نشووݩ داڌن من دوبلگه
+           *[other] نشووݩ داڌن من دوبلگه
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] نشووݩ داڌن من دوبلگه
+           *[other] نشووݩ داڌن من دوبلگه
+        }
 downloads-cmd-retry =
     .tooltiptext = قپ ریت دووارته
 downloads-cmd-retry-panel =
