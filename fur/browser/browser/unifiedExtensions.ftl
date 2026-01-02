@@ -84,6 +84,17 @@ unified-extensions-mb-blocklist-error-single =
     .message = Cheste estension e viole lis politichis di Mozilla e e je stade disativade.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } estension disativade
+           *[other] { $extensionsCount } estensions disativadis
+        }
+    .message =
+        Cualchidune des tôs estensions e je limitade e e je stade disativade.
+        Tu puedis abilitâlis tes impostazions, ma al podarès jessi pericolôs.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->

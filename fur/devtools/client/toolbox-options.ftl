@@ -30,6 +30,10 @@ options-context-inspector = Ispetôr
 options-show-user-agent-styles-label = Mostre i stîi dal navigadôr
 options-show-user-agent-styles-tooltip =
     .title = Ativant cheste opzion a vignaran visualizâts i stîi predefinîts cjariâts dal navigadôr.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Mostre Browser Shadow DOM
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Ativant cheste opzion a vignaran mostrâts i elements Shadow DOM gjestîts dal navigadôr.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Cjonce i atribûts DOM
 options-collapse-attrs-tooltip =
@@ -115,6 +119,8 @@ options-context-advanced-settings = Impostazions avanzadis
 options-disable-http-cache-label = Disative la cache HTTP (cuant che la cassele dai imprescj e je vierte)
 options-disable-http-cache-tooltip =
     .title = Ativant cheste opzion la cache HTTP e vignarà disativade par dutis lis schedis che a àn la cassele dai imprescj vierte. I service workers no vegnin tocjadis di cheste opzion.
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Disative JavaScript
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Disative JavaScript *
 options-disable-javascript-tooltip =

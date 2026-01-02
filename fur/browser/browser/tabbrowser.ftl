@@ -373,6 +373,19 @@ tab-context-update-note =
 tab-context-edit-note =
     .label = Modifiche note
     .accesskey = e
+tab-context-delete-note =
+    .label = Elimine note
+    .accesskey = l
+tab-note-editor-title-create = Zonte note
+tab-note-editor-title-edit = Modifiche note
+tab-note-editor-text-field =
+    .placeholder = Ce vuelistu impensâti di cheste schede?
+tab-note-editor-button-cancel =
+    .label = Anule
+    .accesskey = A
+tab-note-editor-button-save =
+    .label = Salve
+    .accesskey = S
 
 ## Split View
 
@@ -391,3 +404,15 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separe schermi dividût
     .accesskey = t
+tab-context-badge-new = Gnove
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Separe schedis
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Scambie schedis
+split-view-menuitem-close-both-tabs =
+    .label = Siere dutis dôs lis schedis
