@@ -66,3 +66,14 @@ turn-on-scheduled-backups-location-label = ᱡᱟᱭᱜᱟ
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (ᱥᱚᱞᱦᱟ ᱮᱢ ᱟᱠᱟᱱᱟ)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] ᱵᱟᱪᱷᱟᱣ ᱢᱮ...
+       *[other] ᱯᱟᱱᱛᱮ…
+    }
+turn-on-scheduled-backups-encryption-label = ᱟᱢᱟᱜ ᱥᱮᱱᱥᱮᱴᱤᱵᱷ ᱰᱟᱴᱟ ᱵᱮᱠ ᱟᱯ ᱢᱮ
+turn-on-scheduled-backups-encryption-create-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚᱦᱲᱟᱭ ᱢᱮ
+turn-on-scheduled-backups-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+turn-on-scheduled-backups-confirm-button = ᱵᱮᱠᱟᱯ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
