@@ -268,7 +268,10 @@ device-migration-fxa-spotlight-older-device-header = Bakea eta lasaitasuna, { -b
 device-migration-fxa-spotlight-older-device-body = Kontuak zure informazio garrantzitsua egunean eta babestuta mantentzen du konektatzen zaren edozein gailutan.
 device-migration-fxa-spotlight-older-device-primary-button = Sortu kontua
 device-migration-fxa-spotlight-getting-new-device-header-2 = Gailu berririk ba al da zure etorkizunean?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Jarraitu urrats sinple batzuk zure laster-markak, historia eta pasahitzak alboan eramateko gailu berri batera aldatzean.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Nola egin nire datuen babeskopia
+device-migration-fxa-spotlight-sync-header = Nabigatu ezertxo ere galdu gabe
+device-migration-fxa-spotlight-sync-body = Sinkronizatu zure informazio garrantzitsua zifratze bidez — adibidez laster-markak eta pasahitzak. Hauek erabiltzeko moduan daude { -brand-product-name } darabilzun leku guztietan.
 device-migration-fxa-spotlight-sync-primary-button = Hasi erabiltzen
 
 ## Set as Default PDF Reader Infobar
