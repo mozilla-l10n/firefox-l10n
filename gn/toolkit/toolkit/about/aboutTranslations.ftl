@@ -8,6 +8,10 @@ about-translations-title = { -brand-short-name } ñe’ẽasaita
 about-translations-description = Ñe’ẽasaita oikóva omomba’eguasúva nde rekoñami.
 about-translations-learn-more-link = Eikuaave
 about-translations-unsupported-info-button = Eikuaave
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Noñemyanyhẽkuaái ñe’ẽita
+    .message = Ehecha ne ñandutípe jeikeha ha eha’ã jey ag̃ave.
 about-translations-language-load-error-button = Eha’ã jey
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
@@ -25,6 +29,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Moñe’ẽasa
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Monguatia
+    .title = Moñe’ẽasa monguatia
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Monguatiapyre
+    .title = Moñe’ẽasa monguatia
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Eiporavo ñe’ẽ
@@ -34,3 +46,6 @@ about-translations-translating-message = Oñemoñe’ẽasa…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Embojopyru ñe’ẽita
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Embogue moñe’ẽrã reñoiha
