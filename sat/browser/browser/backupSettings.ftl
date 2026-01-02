@@ -59,3 +59,10 @@ settings-data-change-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ 
 
 turn-on-scheduled-backups-header = ᱵᱮᱠᱟᱯ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
 turn-on-scheduled-backups-description = { -brand-short-name } 24 ᱴᱟᱲᱟᱝ ᱯᱤᱪᱷᱤ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱱᱮᱯᱥᱚᱴ ᱛᱮᱭᱟᱨᱚᱜᱼᱟ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱫᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱩᱫᱤ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱛᱟᱦᱮᱱ ᱠᱷᱟᱱ ᱟᱨ ᱵᱟᱝ ᱟᱢ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱧᱟᱢ ᱠᱷᱟᱱ ᱾
+turn-on-scheduled-backups-support-link = ᱪᱮᱫ ᱵᱮᱠ ᱟᱯ ᱦᱩᱭᱩᱜᱼᱟ?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = ᱡᱟᱭᱜᱟ
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (ᱥᱚᱞᱦᱟ ᱮᱢ ᱟᱠᱟᱱᱟ)

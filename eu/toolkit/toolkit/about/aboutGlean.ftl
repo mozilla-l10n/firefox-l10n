@@ -13,6 +13,7 @@ about-glean-page-title2 = { -glean-brand-name }(r)i buruz
 about-glean-header = { -glean-brand-name }(r)i buruz
 about-glean-category-about-glean = { -glean-brand-name }(r)i buruz
 about-glean-category-about-data = Datuei buruz
+about-glean-category-metrics-table = Neurkeren taula
 about-glean-upload-enabled = Datuak igotzea gaituta dago.
 about-glean-upload-disabled = Datuak igotzea desgaituta dago.
 about-glean-upload-enabled-local = Datuak igotzea gaituta dago, zerbitzari lokal batera bidaltzeko soilik.
@@ -28,6 +29,49 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-no-ping-label = (ez bidali ping-ik)
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
 about-glean-about-data-header = Datuei buruz
+about-glean-metrics-table-header = Neurkera guztiak
+# This message refers to the category in which a given metric is recorded.
+about-glean-metrics-table-header-category = Kategoria
+# This message refers to the name of a given metric.
+about-glean-metrics-table-header-name = Izena
+# This message refers to a given metric's metric type.
+about-glean-metrics-table-header-type = Mota
+# This message refers to the underlying value of a given metric.
+about-glean-metrics-table-header-value = Balioa
+# This message refers to the UI action buttons for a given metric.
+about-glean-metrics-table-header-actions = Ekintzak
+about-glean-metrics-table-settings-button = Ezarpenak
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Neurkeren taularen ezarpenak
+about-glean-metrics-table-settings-category-general = Orokorra
+about-glean-metrics-table-settings-hide-empty-value-rows = Ezkutatu balio hutsa duten errenkadak
+about-glean-metrics-table-settings-category-visualizations = Bistaratzeak
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Adibidea
+about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-histograms-chart-max = Grafikoaren gehienezko altuera
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Eskalatutako gehienezko altuera
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = Iragazkia
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = Honek azpiko taula iragaziko du kategorian, izenean, motan eta balioan (mota sinplea bada) oinarrituta.
+about-glean-button-load-all = Kargatu balio guztiak
+about-glean-button-load-value = Kargatu
+# "Docs" is shorthand for "documentation"
+about-glean-button-dictionary-link = Dokumentazioa
+about-glean-button-watch = Behatu
+# Meaning "to stop watching"
+about-glean-button-unwatch = Gelditu behatzen
+about-glean-no-data-to-display = Ez dago bistaratzeko daturik.
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Etiketadun neurkerak ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
+about-glean-unknown-metric-type-warning = Neurkera mota ezezaguna.
 about-glean-about-data-explanation =
     Biltzen den datu-zerrenda arakatzeko, begiratu
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.
