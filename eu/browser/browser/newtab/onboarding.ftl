@@ -391,8 +391,12 @@ onboarding-new-tabs-title = Esaiguzu non nahiago dituzun fitxak
 onboarding-new-tabs-subtitle = Alda ezazu nahi duzunean alboko barrako ezarpenetan.
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Fitxak, zure erara
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Fitxa mordoa mantentzen duzu zabalik? Probatu hauek alboan jartzen ikuspegi sinplifikatu baterako. Edo mantendu modu klasikoan fitxak goian izanda. Aldatu edonoiz.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Aukeratu fitxen diseinua
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Zentratuta mantentzen lagun zaitzakeen ikuspegi sinplifikatu baterako, probatu fitxak alboan jartzen. Edo manten ezazu klasiko fitxak goian izanda. Aldatu edonoiz.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Fitxak alboan
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -408,24 +412,48 @@ onboarding-existing-vertical-tabs-label = Probatu fitxa bertikalak
 onboarding-flair-text = Berria!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Mantendu fitxa horizontalak
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Nabigatzailearen leiho bat fitxak pantailaren alboan { -brand-shorter-name } alboko barraren parte gisa bistaratzen.
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Nabigatzailearen leiho bat fitxak pantailaren alboan { -brand-shorter-name } alboko barraren parte gisa bistaratzen.
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Nabigatzailearen leiho bat fitxak goialdean bistaratzen.
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Nabigatzailearen leiho bat fitxak goialdean bistaratzen.
+# Additional setup card for setting up aichatbot in the sidebar
+onboarding-genai-sidebar-title = Probatu AA txaterako bota alboko barran
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Laburbildu web edukia, egin ideien bateratze-lana, idatzi mezuen zirriborroak — dena nabigatu ahala. Aukeratu hainbat hornitzaileren artean. Aldatu edonoiz. <a data-l10n-name="learn-more">Argibide gehiago</a>
 onboarding-genai-sidebar-primary-button = Aukeratu txaterako bota
 onboarding-genai-sidebar-secondary-button = Hasi nabigatzen
 
 ## New user onboarding checklist
 
 onboarding-checklist-title = Amaitu { -brand-short-name } konfiguratzen
+onboarding-checklist-subtitle = Osatu urrats hauek zure nabigatzaile-esperientziari zuku gehiena ateratzeko.
 onboarding-checklist-set-default = Ezarri { -brand-short-name } nabigatzaile lehenetsi gisa
 onboarding-checklist-pin = Ainguratu { -brand-short-name } ataza-barran
 onboarding-checklist-import = Inportatu aurreko nabigatzailetik
 onboarding-checklist-extension = Gehitu hedapen bat
+onboarding-checklist-sign-up = Eman izena edo hasi saioa zure kontuan
 
 ## Tab Groups feature onboarding strings
 
+tab-groups-onboarding-feature-callout-title = Probatu fitxa-taldeak soberan dagoena kendu eta zentratuta izateko
+tab-groups-onboarding-feature-callout-subtitle = Antolatu goian dagoen fitxa bat beste batera arrastatuz eta zure lehen taldea sortuz.
+tab-groups-onboarding-create-group-title-2 = Aurkitu hemen zure fitxa-taldeak edonoiz.
+tab-groups-onboarding-create-group-no-alltabs-button-title = Aurkitu zure taldeak helbide-barran bilaketa eginez.
+tab-groups-onboarding-saved-groups-title-2 = Fitxa-talde bat ixtean, hemen berrireki dezakezu edonoiz.
 tab-groups-onboarding-dismiss = Ados
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-title = Esan kaixo { -brand-product-name }(r)en profilei
+multi-profile-spotlight-body = Aldatu erraz lanerako eta aisialdirako nabigazioaren artean. Profilen bidez zure nabigatzailearen informazioa, bilaketa-historia eta pasahitzak barne, erabat bereiz mantentzen dira antolatuta egon zaitezen.
 multi-profile-spotlight-cta = Sortu profil bat
 multi-profile-callout-cta = Sortu profil bat
 
