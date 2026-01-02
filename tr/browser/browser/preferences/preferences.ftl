@@ -1073,6 +1073,9 @@ sync-signedin-unverified2 =
     .label = { $email } henüz onaylanmadı
     .description = Hesabınızı onaylayıp etkinleştirmek için gelen kutunuzu kontrol edin.
 sync-signedin-login-failure = Yeniden { $email } hesabınıza bağlanmak için lütfen giriş yapın
+sync-signedin-login-failure2 =
+    .label = { $email } hesabından çıkış yaptınız
+    .description = Yeniden bağlanıp verilerinizi eşitlemeye başlamak için tekrar giriş yapın.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1135,6 +1138,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Aşağıdaki öğeler tüm bağlı cihazlarınız arasında eşitleniyor:
 sync-syncing-across-devices-heading-2 = Cihazlar arasında eşitlenen veriler
+sync-syncing-across-devices-empty-state =
+    .label = Henüz hiçbir şeyi eşitlemiyorsunuz.
+    .description = Tüm verilerinize tüm cihazlarınızdan ulaşmak için eşitlemeyi başlatın.
 sync-currently-syncing-bookmarks = Yer imleri
 sync-currently-syncing-history = Geçmiş
 sync-currently-syncing-tabs = Açık sekmeler

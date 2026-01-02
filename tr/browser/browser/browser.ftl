@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Bu siteye güvenli bir şekilde bağlanmadınız.
 identity-connection-verified = Bu siteye güvenli bir şekilde bağlandınız.
 identity-ev-owner-label = Sertifika sahibi:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = 2024/1183 Sayılı AB Regülasyonu’na uygundur.
 identity-description-custom-root2 = Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir.
 identity-remove-cert-exception =
     .label = Ayrıcalığı kaldır

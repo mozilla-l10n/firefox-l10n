@@ -63,6 +63,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı old
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış sözde elemanlarda desteklenmez.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue sözde elemanlarında desteklenmez.
+inactive-css-at-position-try-not-supported = <strong>@position-try</strong> kurallarında <strong>{ $property }</strong> kuralı desteklenmiyor.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
