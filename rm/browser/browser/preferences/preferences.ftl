@@ -114,6 +114,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Per activar il supplement, va a <img data-l10n-name="addons-icon"/> Supplements en il <img data-l10n-name="menu-icon"/> menu.
+extension-controlled-enable-2 = Per reactivar questa extensiun, visita <a data-l10n-name="addons-link">Extensiuns e designs</a>
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controllescha tscherts da tes parameters da tia pagina iniziala.
 
 ## Preferences UI Search Results
 
@@ -151,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Avisar avant che terminar il navigatur
 disable-extension =
     .label = Deactivar l'extensiun
+preferences-data-migration-group =
+    .label = Importar las datas d’in navigatur
+    .description = Importescha tes segnapaginas, pleds-clav, cronologia, extensiuns e datas d’endataziun automatica d’in auter navigatur.
 preferences-data-migration-header = Importar datas dad in navigatur
 preferences-data-migration-description = Importar segnapaginas, pleds-clav, la cronologia e datas per l'endataziun automatica en { -brand-short-name }.
 preferences-data-migration-button =
@@ -168,8 +175,32 @@ preferences-manage-profiles-description = Mintga profil ha datas da navigaziun e
 preferences-manage-profiles-learn-more = Ulteriuras infurmaziuns
 preferences-manage-profiles-button =
     .label = Administrar ils profils
+preferences-profiles-settings-button =
+    .label = Parameters
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copiar in profil existent
+    .description = Il nov profil vegn a copiar tes parameters, supplements, la cronologia e las datas memorisadas sco segnapaginas e pleds-clav – ma las infurmaziuns da tes conto u da la sincronisaziun.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profil da copiar
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Tscherner in profil
+preferences-copy-profile-button = Copiar
 tabs-group-header2 =
     .label = Tabs
+tabs-opening-heading =
+    .label = Avrir
+tabs-interaction-heading =
+    .label = Interacziun
+tabs-containers-heading =
+    .label = Containers
+tabs-closing-heading =
+    .label = Serrar
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
@@ -177,6 +208,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Avrir colliaziuns en tabs e betg en novas fanestras
     .accesskey = v
+open-external-link-next-to-active-tab =
+    .label = Avrir las colliaziuns ord apps sper tes tab activ
 ask-on-close-multiple-tabs =
     .label = Dumandar avant che serrar plirs tabs
     .accesskey = m
@@ -532,6 +565,16 @@ update-in-progress-ok-button = &Annullar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
 
+## Firefox support
+
+support-application-heading =
+    .label = Support da { -brand-short-name }
+    .description = Schlia problems u cundivida ideas cun la communitad.
+support-get-help =
+    .label = Ir per agid
+support-share-ideas =
+    .label = Cundivider ideas e resuns
+
 ## General Section - Performance
 
 performance-title = Prestaziun
@@ -584,6 +627,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar las controllas per maletg-en-maletg
     .accesskey = A
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Cuntinuar a far ir videos maletg-en-maletg cun midar tabs
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Ulteriuras infurmaziuns
 browsing-media-control =
     .label = Controllescha las medias cun agid da la tastatura, ils uregliers u l'interfatscha virtuala
@@ -614,6 +660,7 @@ home-new-windows-tabs-description2 = Tscherna tge che vegn mussà cura che ti av
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina da partenza e novas fanestras
+home-homepage-mode-label2 = Novas fanestras
 home-newtabs-mode-label = Novs tabs
 home-homepage-new-tabs =
     .label = Novs tabs
@@ -628,6 +675,11 @@ home-mode-choice-blank =
     .label = Pagina vida
 home-homepage-custom-url =
     .placeholder = Encollar in URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Administrar l'extensiun
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Tscherner ina website specifica
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -642,18 +694,45 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+home-homepage-header = Pagina iniziala
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pagina iniziala persunalisada
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Adressa(s) da website(s)
+home-custom-homepage-address =
+    .placeholder = Endatar in’adressa
+home-custom-homepage-address-button =
+    .label = Agiuntar in’adressa
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Anc n’agiuntà naginas websites.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Remplazzar cun
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Paginas avertas actualmain
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Segnapaginas…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
+home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Tscherna il cuntegn che ti vuls vesair sin la { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Tschertga web
+home-prefs-search-header2 =
+    .label = Tschertgar
 home-prefs-shortcuts-header =
     .label = Scursanidas
 home-prefs-shortcuts-description = Websites che ti memoriseschas u visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Scursanidas sponsuradas
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -663,6 +742,12 @@ home-prefs-recommended-by-description-new = Cuntegn spezial, tschernì da { $pro
 home-prefs-recommended-by-header-generic =
     .label = Artitgels recumandads
 home-prefs-recommended-by-description-generic = Cuntegns excepziunals tschernids da la famiglia da products { -brand-product-name }
+home-prefs-stories-header =
+    .label = Artitgels
+home-prefs-stories-description = Artitgels persunalisads a basa da tia activitad
+home-prefs-stories-header2 =
+    .label = Artitgels
+    .description = Cuntegn excepziunal tschernì da la glieud da { -brand-product-name }
 
 ##
 
@@ -693,14 +778,26 @@ home-prefs-weather-header =
     .label = Aura
 home-prefs-weather-description = La previsiun da l’aura actuala en in’egliada
 home-prefs-weather-learn-more-link = Ulteriuras infurmaziuns
+home-prefs-widgets-header =
+    .label = Widgets
 home-prefs-trending-search-header =
     .label = Tschertgas frequentas
 home-prefs-trending-search-description = Temas populars e tschertgads frequentamain
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Glistas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Svegliarin
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Sustegnair { -brand-product-name }
 home-prefs-mission-message = Noss sponsurs sustegnan noss engaschi per crear in meglier web
 home-prefs-mission-message-learn-more-link = Vegnir a savair co quai va
+home-prefs-mission-message2 =
+    .message = Noss sponsurs sustegnan noss engaschi per crear in meglier web.
+home-prefs-manage-topics-link = Administrar ils temas
+home-prefs-choose-wallpaper-link = Tscherna in maletg dal fund davos
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -740,6 +837,11 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mussar ils terms da tschertga en la trav d’adressas per las paginas da resultats
+search-separate-default-engine-2 =
+    .label = Tscherna in’autra maschina da tschertgar da standard per las fanestras privatas
+    .accesskey = T
+search-separate-default-engine-dropdown =
+    .aria-label = Maschina da tschertgar predefinida en fanestras privatas
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -910,6 +1012,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Ti sincroniseschas ils suandants elements tranter tut tes apparats connectads:
+sync-syncing-across-devices-heading-2 = Datas sincronisadas tranter ils apparats
+sync-syncing-across-devices-empty-state =
+    .label = Ti na sincroniseschas anc… nagut.
+    .description = Cumenza a sincronisar per avair tut tias datas sin tut tes apparats.
 sync-currently-syncing-bookmarks = Segnapaginas
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Tabs averts
@@ -1039,10 +1145,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Pleds-clav
     .searchkeywords = datas d’annunzia
+forms-passwords-header =
+    .label = Pleds-clav
+    .aria-label = Pleds-clav
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Proponer da memorisar pleds-clav
     .accesskey = a
+forms-manage-password-exceptions =
+    .label = Administrar las excepziuns per ils pleds-clav
+    .accesskey = A
 forms-exceptions =
     .label = Excepziuns…
     .accesskey = x
@@ -1073,12 +1185,31 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Endatar automaticamain nums d’utilisader e pleds-clav
     .accesskey = E
+forms-fill-usernames-and-passwords-2 =
+    .label = Memorisar ed endatar automaticamain nums d’utilisader e pleds-clav
+    .accesskey = t
 forms-saved-passwords =
     .label = Pleds-clav memorisads
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Administrar ils pleds-clav memorisads
+    .accesskey = d
+forms-saved-passwords-searchkeywords = Infurmaziuns d’annunzia per las suandantas websites èn memorisadas sin tes computer
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protecziuns supplementaras
 forms-primary-pw-use =
     .label = Utilisar in pled-clav universal
     .accesskey = U
+forms-primary-pw-set =
+    .label = Definir il pled-clav principal
+forms-primary-pw-on =
+    .label = Il pled-clav principal è ACTIVÀ
+forms-primary-pw-change-2 =
+    .label = Midar il pled-clav principal
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Al deactivar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Pretender l’endataziun da las datas d’annunzia da l’apparat per laschar endatar automaticamain pleds-clav e per als administrar
@@ -1144,6 +1275,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Memorisar ed endatar automaticamain las datas da pajament
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Administrar la metodas da pajament
 autofill-payment-methods-manage-payments-button =
     .label = Administrar la metodas da pajament
     .accesskey = m
@@ -1151,6 +1284,13 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Pretender l’endataziun da las datas d’annunzia da l’apparat per laschar endatar automaticamain metodas da pajament e per las administrar
     .accesskey = o
+autofill-payment-methods-add-button = Agiuntar ina nova metoda da pajament
+payments-list-header =
+    .label = Metodas da pajament
+payments-list-item-label = <strong>Metodas da pajament</strong>
+payments-remove-payment-prompt-title = Allontanar questa metoda da pajament?
+payments-remove-payment-prompt-confirm-button = Allontanar
+payments-remove-payment-prompt-cancel-button = Interrumper
 autofill-addresses-title = Adressas e dapli
 autofill-addresses-header =
     .aria-label = Adressas e dapli
@@ -1160,6 +1300,14 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar las adressas e dapli
     .accesskey = m
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1221,7 +1369,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e datas da websites
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calcular il volumen da datas da websites e dal cache…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Tes cookies, la cronologia, las datas da websites ed il cache occupan actualmain <strong>{ $value }{ $unit }</strong> da la capacitad da memorisar.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1258,6 +1412,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Tut ils cookies interpaginals (po chaschunar problems cun tschertas websites)
 sitedata-option-block-all =
     .label = Tut ils cookies (impedescha che tschertas websites funcziunian)
+sitedata-clear2 =
+    .label = Stizzar las datas da navigaziun
+    .accesskey = l
+sitedata-settings2 =
+    .label = Administrar las datas da navigaziun
+    .accesskey = m
 sitedata-clear =
     .label = Stizzar las datas…
     .accesskey = l
@@ -1267,6 +1427,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administrar las excepziuns…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Administrar las excepziuns
+    .accesskey = x
+    .description = Ti pos specifitgar tge websites che dastgan adina u mai utilisar cookies e datas da websites.
 
 ## Privacy Section - Cookie Banner Handling
 
