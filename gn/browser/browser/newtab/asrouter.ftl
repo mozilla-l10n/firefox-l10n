@@ -433,5 +433,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ha�
 set-default-menu-message-row-layout-title = Ejapo { -brand-short-name }-gui kundahára eiporuvéva
 set-default-menu-message-row-layout-title-variant = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
 set-default-menu-message-row-layout-subtitle = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Ereko { -brand-short-name } ag̃ui ndehegui — ejapo chugui kundahára ijypyguáva ha emoĩ ne rembiapo rendápe.
+       *[other] Ereko { -brand-short-name } ag̃ui ndehegui — ejapo chugui kundahára ijypyguáva ha emoĩ ne rembiapo rendápe.
+    }
 set-default-menu-message-primary-button = Eiporu ijypykuévarõ
 set-default-menu-message-primary-button-variant = Ereko kundahára eiporuvévarõ
