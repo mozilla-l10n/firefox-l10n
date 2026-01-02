@@ -136,6 +136,9 @@ place-database-stats-efficiency-perc = Verimlilik (%)
 place-database-stats-sequentiality-perc = Sıralılık (%)
 place-database-integrity = Bütünlük
 place-database-verify-integrity = Bütünlüğü doğrula
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Son vakumlama tarihi
+place-database-last-integrity-corruption-date = Son sütünlük bozulması tarihi
 a11y-title = Erişilebilirlik
 a11y-activated = Etkinleştirildi mi?
 a11y-force-disabled = Erişilebilirliği engelle
