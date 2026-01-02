@@ -7,6 +7,11 @@
 
 genai-menu-new-badge = نۊ
 
+## Chatbot onboarding
+
+genai-onboarding-primary = رئڌن وا پؽش
+genai-onboarding-secondary = بستن
+
 ## Model Optin Component
 
 genai-model-optin-optout =
