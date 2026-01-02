@@ -7,6 +7,10 @@ about-translations-title = { -brand-short-name } çevirileri
 # The brief description of the Translations functionality on the page.
 about-translations-description = Gizliliğinizi koruyan anlık çeviriler.
 about-translations-learn-more-link = Daha fazla bilgi alın
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Bu cihazda çeviri yapılamıyor.
+    .message = Başka bir cihaza geçmeyi deneyin.
 about-translations-unsupported-info-button = Daha fazla bilgi alın
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

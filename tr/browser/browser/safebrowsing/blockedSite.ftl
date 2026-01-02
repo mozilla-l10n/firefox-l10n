@@ -70,4 +70,5 @@ safeb-palm-notdeceptive =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-addon-page-error-desc-override = <strong>Bu site neden engellendi?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> aldatıcı ve zararlı faaliyetlerle bağlantılı olabilir.
 safeb-blocked-addon-page-error-desc3-override = <strong>Ne yapabilirsiniz?</strong>
