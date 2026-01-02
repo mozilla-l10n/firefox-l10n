@@ -176,6 +176,10 @@ preferences-manage-profiles-button =
     .label = Profilleri yönet
 preferences-profiles-settings-button =
     .label = Ayarlar
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Mevcut bir profili kopyala
+    .description = Ayarlar, eklentiler, geçmiş, yer imleri ve parolarar gibi kayıtlı verileriniz yeni profile kopyalanır ama hesabınız ve eşitleme bilgileriniz kopyalanmaz.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -1009,6 +1013,9 @@ sync-group-label =
     .label = Eşitleme
 account-group-label =
     .label = { -vendor-short-name } hesabı
+account-placeholder =
+    .label = Giriş yapmadınız
+    .description = Verilerinizi gizli, şifreli ve tüm cihazlarınızla eşitlenmiş tutmak için giriş yapın.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1062,6 +1069,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } doğrulanmamış.
+sync-signedin-unverified2 =
+    .label = { $email } henüz onaylanmadı
+    .description = Hesabınızı onaylayıp etkinleştirmek için gelen kutunuzu kontrol edin.
 sync-signedin-login-failure = Yeniden { $email } hesabınıza bağlanmak için lütfen giriş yapın
 
 ## Variables
@@ -1095,6 +1105,9 @@ prefs-syncing-on = Eşitleme: AÇIK
 prefs-syncing-on-2 =
     .label = Eşitleme AÇIK
 prefs-syncing-off = Eşitleme: KAPALI
+prefs-syncing-off-2 =
+    .label = Eşitleme KAPALI
+    .description = Yer imlerinize, parolalarınıza, geçmişinize ve diğer verilerinize başka cihazlardan erişmek isterseniz eşitlemeyi açın.
 prefs-sync-turn-on-syncing =
     .label = Eşitlemeyi başlat…
     .accesskey = E

@@ -403,6 +403,10 @@ translate-attribution = Vertalingen door <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Uitzonderingen…
     .accesskey = z
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatische vertaling
+settings-translations-subpage-never-translate-sites-header =
+    .label = Deze websites nooit vertalen
 settings-translations-subpage-language-select-option =
     .label = Taal toevoegen
 settings-translations-subpage-language-add-button =
@@ -985,6 +989,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronisatie
+account-group-label =
+    .label = { -vendor-short-name }-account
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1382,6 +1388,9 @@ payments-list-item-label = <strong>Betaalmethoden</strong>
 payments-delete-payment-prompt-title = Deze betalingsmethode verwijderen?
 payments-delete-payment-prompt-confirm-button = Verwijderen
 payments-delete-payment-prompt-cancel-button = Annuleren
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Geen betalingsmethoden toegevoegd
 payments-remove-payment-prompt-title = Deze betalingsmethode verwijderen?
 payments-remove-payment-prompt-confirm-button = Verwijderen
 payments-remove-payment-prompt-cancel-button = Annuleren
@@ -1406,6 +1415,9 @@ addresses-delete-address-prompt-cancel-button = Annuleren
 autofill-addresses-add-button = Nieuw adres toevoegen
 autofill-addresses-manage-addresses-title =
     .heading = Adressen en meer beheren
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Geen adressen toegevoegd
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address

@@ -178,6 +178,7 @@ fp-neterror-offline-body-title = Het lijkt erop dat er een probleem is met uw in
 fp-neterror-connection-intro = { -brand-short-name } kan geen beveiligde verbinding met de server op { $hostname } tot stand brengen.
 fp-neterror-offline-intro = { -brand-short-name } kan geen verbinding maken met de server op <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } heeft deze pagina niet geladen, omdat het lijkt alsof de beveiligingsconfiguratie niet overeenkomt met die van de vorige pagina.
+fp-neterror-http-auth-disabled-intro = Iemand die zich voordoet als de website kan dingen zoals uw gebruikersnaam, wachtwoord of e-mailadres proberen te stelen.
 fp-neterror-why-did-this-happen = Waarom is dit gebeurd?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Het lijkt erop dat deze website oude software met bekende beveiligingsproblemen gebruikt.
@@ -186,3 +187,4 @@ fp-neterror-cypher-overlap-what-can-you-do-body = Zorg ervoor dat u de nieuwste 
 fp-neterror-offline-what-can-you-do-body = Probeer verbinding te maken op een ander apparaat. Controleer uw modem of router. Verbreek uw wifiverbinding en maak opnieuw verbinding.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Soms stellen websites bescherming voor zichzelf in tegen ongewenste interacties met andere websites.
+fp-learn-more-about-https-connections = Meer info over HTTPS-verbindingen
