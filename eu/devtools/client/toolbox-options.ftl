@@ -49,6 +49,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Koloreen izenak
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Web kontsola
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Gaitu zatitutako kontsola
+options-webconsole-split-console-tooltip =
+    .title = Ireki zatitutako kontsola eskape teklarekin
+
 ## Style Editor section
 
 # The heading
@@ -97,6 +106,8 @@ options-disable-http-cache-label = Desgaitu HTTP cachea (tresna-kutxa irekita da
 options-disable-http-cache-tooltip =
     .title = Ezarrita badago, Ezarrita badago, HTTP cachea desgaitu egingo da tresna-kutxa zabalik duten fitxa guztietan. Aukera honek ez die zerbitzu-langileei eragiten.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Desgaitu JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desgaitu JavaScript *
 options-disable-javascript-tooltip =
     .title = Ezarrita badago, JavaScript desgaituko da uneko fitxan. Fitxa edo tresna-kutxa itxita badaude, ezarpen hau ahaztu egingo da.
@@ -110,6 +121,8 @@ options-enable-remote-tooltip2 =
     .title = Aukera hau aktibatuz gero, nabigatzaile-instantzia hau urrunetik araztu ahal izango da
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Erabili F12 tekla garatzaile-tresnak ireki edo ixteko
+options-enable-f12-tooltip =
+    .title = Aukera hau gaituz gero, F12 tekla garatzaile-tresnen tresna-kutxa ireki eta ixteko erabiliko da.
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Gaitu formateatzaile pertsonalizatuak
 options-enable-custom-formatters-tooltip =
@@ -123,4 +136,10 @@ options-source-maps-label = Gaitu iturburu-mapak
 options-source-maps-tooltip =
     .title = Aukera hau gaituz gero, iturburuak mapeatu egingo dira tresnetan.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (uneko saioa soilik, orria berritzen du)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Uneko saioa soilik, orria berritzen du
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (orria berritzen du)
