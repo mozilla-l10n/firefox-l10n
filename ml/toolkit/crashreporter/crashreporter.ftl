@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } തകരാർ അറിയിപ്പു പ്രയോഗം
 crashreporter-apology = പൊറുക്കണം
 crashreporter-plea = പ്രശ്നം മനസ്സിലാക്കി പരിഹാരം കണ്ടെത്തുന്നതിനായി നിങ്ങള്‍ക്കു് ക്രാഷ് റിപ്പേര്‍ട്ട് അയയ്ക്കാം.
 crashreporter-error-details-header = വിശദാംശങ്ങൾ:
@@ -31,3 +32,6 @@ crashreporter-error-opening-file = ഫയൽ തുറക്കാൻ പറ്�
 crashreporter-error-loading-file = ഫയൽ ലഭ്യമാക്കാൻ പറ്റിയില്ല ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = അറ ഉണ്ടാക്കാൻ പറ്റിയില്ല ({ $path })
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = { $from }-ൽ നിന്നു { $to }-ലേക്കു മാറ്റാൻ കഴിഞ്ഞില്ല

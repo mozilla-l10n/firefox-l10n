@@ -35,7 +35,7 @@ sidebar-settings-button-title =
 show-unsigned-extensions-button =
     .label = ചില എക്റ്റെന്‍ഷനുകള്‍ പരിശോധിക്കാന്‍ പറ്റുന്നില്ല
 show-all-extensions-button =
-    .label = എല്ലാ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
+    .label = എല്ലാ വിപുലീകരണങ്ങളും കാണിക്കുക
 detail-version =
     .label = പതിപ്പു്
 detail-last-updated =
@@ -238,6 +238,7 @@ header-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = കൂടുതലറിയുക
+colorway-removal-notice-learn-more = കൂടുതല്‍ അറിയുക
 privacy-policy = സ്വകാര്യത നയം
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -271,6 +272,11 @@ enable-addon-button = പ്രവർത്തനക്ഷമമാക്കു�
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = പ്രവർത്തനക്ഷമമാക്കുക
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] സാധ്യതകൾ
+       *[other] മുൻഗണനകൾ
+    }
 details-addon-button = വിശദാംശങ്ങള്‍
 release-notes-addon-button = വെളിപ്പെടുത്തൽക്കുറിപ്പുകൾ
 permissions-addon-button = അനുമതികൾ
