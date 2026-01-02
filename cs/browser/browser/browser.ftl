@@ -1316,10 +1316,10 @@ picture-in-picture-hide-toggle =
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = Přesunout přepínač zobrazení obrazu v obraze doprava
+    .label = Přesunout přepínač obrazu v obraze doprava
     .accesskey = r
 picture-in-picture-move-toggle-left =
-    .label = Přesunout přepínač zobrazení obrazu v obraze doleva
+    .label = Přesunout přepínač obrazu v obraze doleva
     .accesskey = l
 
 ##
