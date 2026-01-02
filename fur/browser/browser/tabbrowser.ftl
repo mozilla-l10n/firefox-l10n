@@ -283,6 +283,22 @@ tab-context-move-tab-to-group =
            *[other] Zonte schedis a un grup
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Zonte schermi dividût a un gnûf grup
+            [one] Zonte schermi dividût a un gnûf grup
+           *[other] Zonte schermis dividûts a un gnûf grup
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Zonte schermi dividût a un grup
+            [one] Zonte schermi dividût a un grup
+           *[other] Zonte schermis dividûts a un grup
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Grups sierâts
 tab-group-editor-action-new-tab =
@@ -346,8 +362,32 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Vierç grup intun gnûf barcon
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Zonte note
+    .accesskey = Z
+tab-context-update-note =
+    .label = Inzorne note
+    .accesskey = I
+tab-context-edit-note =
+    .label = Modifiche note
+    .accesskey = e
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Schermi dividût
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Zonte schermi dividût
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Vierç schermi dividût
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separe schermi dividût
+    .accesskey = t

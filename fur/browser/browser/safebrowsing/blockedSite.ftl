@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } al à blocât che
 safeb-blocked-malware-page-short-desc = { -brand-short-name } al à blocât cheste pagjine par vie che e podarès cirî di instalâ software malin, che al pues robâ o eliminâ informazions personâls sul computer.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } al à blocât cheste pagjine par vie che e podarès cirî di convinciti a instalâ programs che a ruvinin la tô esperience di navigazion (par esempli cambiant la tô pagjine iniziâl o zontant altre publicitât ai sîts che tu visitis).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } al à blocât cheste pagjine par vie che e podarès cirî di instalâ aplicazions danosis che a robin o a eliminin informazions personâls (par esempli fotos, passwords, messaçs e cjartis di credit).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } al à blocât cheste pagjine parcè che un dai tiei components adizionâi al à cirût di vierzile. Al podarès jessi pussibil che chest sît al vegni doprât par robâti  i tiei dâts, come passwords o numars di cjarte di credit.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Consei furnît di <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -63,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Scuvierç di plui su la protezion di { -
 safeb-palm-notdeceptive =
     .label = Chest nol è un sît ingjanôs…
     .accesskey = i
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Parcè isal stât blocât chest sît?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> al podarès vê colegaments cun ativitâts ingjanosis e danosis.
+safeb-blocked-addon-page-error-desc3-override = <strong>Ce puedistu fâ?</strong>
+safeb-blocked-addon-page-error-desc4-override = Par evitâ che al torni a capitâ, tu puedis gjavâ o disativâ <strong>{ $addonName }</strong> di about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Scuvierç altris informazions su la protezion dal phishing e dal malware de bande di { -brand-short-name }</a>.
