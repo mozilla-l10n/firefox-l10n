@@ -77,3 +77,38 @@ turn-on-scheduled-backups-encryption-create-password-label = ᱫᱟᱱᱟᱝ ᱥ
 turn-on-scheduled-backups-encryption-repeat-password-label = ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚᱦᱲᱟᱭ ᱢᱮ
 turn-on-scheduled-backups-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 turn-on-scheduled-backups-confirm-button = ᱵᱮᱠᱟᱯ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = ᱟᱢᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱵᱮᱠᱟᱯ ᱯᱷᱚᱞᱰᱟᱨ ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾ ᱮᱴᱟᱜ ᱯᱷᱚᱞᱰᱟᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
+backup-error-file-system = { -brand-short-name } ᱵᱮᱠ ᱟᱯ ᱚᱠᱛᱚ ᱟᱢᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱵᱮᱠᱟᱯ ᱯᱷᱚᱞᱰᱟᱨ ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ᱾
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = ᱵᱮᱠᱚᱯ ᱵᱚᱱᱫᱚ ᱢᱮ?
+turn-off-scheduled-backups-description = ᱱᱚᱣᱟ ᱦᱚᱸ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱵᱮᱠᱟᱯ ᱰᱟᱴᱟ ᱠᱚ ᱰᱤᱞᱤᱴ ᱪᱷᱚᱭᱟᱭ ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+turn-off-scheduled-backups-support-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+turn-off-scheduled-backups-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+turn-off-scheduled-backups-confirm-button = ᱵᱮᱠᱟᱯ ᱵᱚᱱᱫᱚ ᱢᱮ ᱟᱨ ᱰᱤᱞᱤᱴ ᱢᱮ
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱫᱚᱦᱚᱭ ᱢᱮ
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = ᱱᱚᱣᱟ ᱫᱚ ᱟᱢᱟᱜ ᱡᱚᱛᱚ ᱱᱤᱛᱚᱜ { -brand-short-name } ᱰᱟᱴᱟ ᱟᱢᱟᱜ ᱵᱮᱠᱟᱯ ᱥᱟᱶ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ { DATETIME($date, timeStyle: "short", dateStyle: "short") } ᱠᱷᱚᱱ ᱾
+restore-from-backup-support-link =
+    .message = ᱪᱮᱫ ᱫᱚᱦᱚ ᱦᱩᱭᱩᱜᱼᱟ?
+restore-from-backup-no-backup-file-link = ᱟᱢᱟᱜ ᱵᱮᱠᱟᱯ ᱯᱟᱱᱛᱮ ᱧᱟᱢ ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱢᱮᱱᱟᱜ ᱛᱟᱢᱟ ᱥᱮ?
+restore-from-backup-filepicker-label = ᱨᱮᱫᱽ ᱵᱮᱠᱚᱯ ᱢᱮ
+restore-from-backup-filepicker-title = ᱵᱮᱠᱟᱯ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] ᱵᱟᱪᱷᱟᱣ…
+       *[other] ᱯᱟᱱᱛᱮ…
+    }
+restore-from-backup-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
+restore-from-backup-password-description = ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱮᱱᱠᱨᱤᱯᱴᱰ ᱵᱮᱠᱚᱯ ᱚᱱᱞᱚᱠ ᱮᱫᱟᱭ ᱾
+restore-from-backup-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+restore-from-backup-confirm-button = ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱟᱨ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+restore-from-backup-restoring-button = ᱫᱚᱦᱲᱟ ᱛᱮ...
