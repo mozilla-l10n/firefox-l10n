@@ -135,7 +135,7 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } stola
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Klokka på eininga di er sett til { DATETIME($date, timestyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dersom dette er rett, ligg tryggingsproblemet sannsynlegvis hos sjølve nettstaden. Dersom det er feil, kan du endre det i systeminnstillingane på eininga di.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Klokka på eininga di er sett til { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dersom dette er rett, ligg tryggingsproblemet sannsynlegvis hos sjølve nettstaden. Dersom det er feil, kan du endre det i systeminnstillingane på eininga di.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

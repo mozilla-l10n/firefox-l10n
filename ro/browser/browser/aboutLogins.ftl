@@ -118,7 +118,7 @@ login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Active
 login-intro-instructions-fxa-passwords-help = Intră pe<a data-l10n-name="passwords-help-link">asistență pentru parole</a> pentru mai mult ajutor.
 about-logins-intro-browser-only-import = Dacă ai date de autentificare salvate în alt browser, le poți<a data-l10n-name="import-link">importa în { -brand-product-name }</a>
 about-logins-intro-import2 = Dacă ai date de autentificare salvate în afara { -brand-product-name }, le poți <a data-l10n-name="import-browser-link">importa dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>
-about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</ a>.
+about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>.
 
 ## Login
 

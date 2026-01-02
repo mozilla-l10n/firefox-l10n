@@ -114,7 +114,7 @@ about-logging-save-error = Det oppstod en feil under lagring av filen: { $errorT
 # identify when each profile was captured.
 # Variables:
 #   $date (date) - The date and time when the profile was uploaded
-about-logging-uploaded-profile-name = Profil { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profile-name = Profil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-uploaded-profiles-title = Opplastede profiler
 about-logging-no-uploaded-profiles = Ingen profiler er lastet opp ennå.
 about-logging-delete-uploaded-profile = Slett

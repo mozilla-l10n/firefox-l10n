@@ -96,7 +96,7 @@ restore-from-backup-header = Gjenopprett dataa dine
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
-    .message = Dette vil erstatte alle dei noverande { -brand-short-name }-dataa dine med sikkerheitskopien din frå { DATETIME($date, timestyle: "short", datestyle: "short") }.
+    .message = Dette vil erstatte alle dei noverande { -brand-short-name }-dataa dine med sikkerheitskopien din frå { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Kva vil bli gjenoppretta?
 restore-from-backup-no-backup-file-link = Har du problem med å finne sikkerheitskopien din?

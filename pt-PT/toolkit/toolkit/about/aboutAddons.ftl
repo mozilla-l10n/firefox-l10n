@@ -119,7 +119,7 @@ private-browsing-description2 =
     { -brand-short-name } não serão executadas por predefinição em janelas privadas. A menos que permita isso nas definições, a
     extensão não irá funcionar durante a navegação privada e não irá ter acesso às suas atividades online
     lá. Fizemos esta alteração para manter a sua navegação privada, privada.
-    <label data-l10n-name = "private-browsing-learn-more">Saber como gerir definições de extensões.</ label>
+    <label data-l10n-name="private-browsing-learn-more">Saber como gerir definições de extensões.</label>
 addon-category-discover = Recomendações
 addon-category-discover-title =
     .title = Recomendações

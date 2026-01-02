@@ -33,7 +33,7 @@ serviceworker-worker-start3 = Sztartnij
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Zaktualizowane <time>{ DATETIME($date, month: "numeric", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Zaktualizowane <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.

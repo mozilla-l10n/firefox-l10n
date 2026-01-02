@@ -37,7 +37,7 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
-accessibility-text-label-issue-area = Utilize o atributo <code>alt</code> para rotular elementos <div>area</ div> que possuem o atributo <span>href</span>. <a>Saber mais</a>
+accessibility-text-label-issue-area = Utilize o atributo <code>alt</code> para rotular elementos <div>area</div> que possuem o atributo <span>href</span>. <a>Saber mais</a>
 accessibility-text-label-issue-dialog = Diálogos devem ser rotulados. <a>Saber mais</a>
 accessibility-text-label-issue-document-title = Documentos devem ter um <code>title</code>. <a>Saber mais</a>
 accessibility-text-label-issue-embed = Conteúdo embutido deve ser rotulado. <a>Saber mais</a>
@@ -47,7 +47,7 @@ accessibility-text-label-issue-fieldset-legend2 = Utilize um elemento <code>lege
 accessibility-text-label-issue-form = Elementos de formulário devem ser rotulados. <a>Saber mais</a>
 accessibility-text-label-issue-form-visible = Elementos de formulário devem ter um rótulo de texto visível. <a>Saber mais</a>
 accessibility-text-label-issue-frame = Elementos <code>frame</code> devem ser rotulados. <a>Saber mais</a>
-accessibility-text-label-issue-glyph = Utilize o atributo <code>alt</ code> para rotular elementos <span>mglyph</span>. <a>Saber mais</a>
+accessibility-text-label-issue-glyph = Utilize o atributo <code>alt</code> para rotular elementos <span>mglyph</span>. <a>Saber mais</a>
 accessibility-text-label-issue-heading = Cabeçalhos devem ser rotulados. <a>Saber mais</a>
 accessibility-text-label-issue-heading-content = Cabeçalhos devem ter conteúdo de texto visível. <a>Saber mais</a>
 accessibility-text-label-issue-iframe = Utilize o atributo <code>title</code> para descrever conteúdo <span>iframe</span>. <a>Saber mais</a>
