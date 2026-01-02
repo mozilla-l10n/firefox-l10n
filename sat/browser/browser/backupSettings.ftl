@@ -22,5 +22,16 @@ backup-file-name = { -brand-product-name } ᱵᱮᱠᱚᱯ
 settings-data-backup-header = ᱵᱮᱠᱚᱯ
 settings-data-backup-toggle = ᱵᱮᱠᱚᱯ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 settings-data-backup-toggle-on = ᱵᱮᱠᱟᱯ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+settings-data-backup-toggle-off = ᱵᱮᱠᱟᱯ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 settings-data-backup-trigger-button = ᱱᱤᱛᱚᱜ ᱵᱮᱠᱚᱯ ᱢᱮ
 settings-data-backup-in-progress-button = ᱵᱮᱠᱟᱯ ᱞᱟᱦᱟᱱᱛᱤ ᱨᱮ ...
+settings-data-backup-in-progress-message =
+    .message = ᱵᱮᱠᱟᱯ ᱞᱟᱦᱟᱱᱛᱤ ᱨᱮ ...
+settings-data-backup-scheduled-backups-on = ᱵᱮᱠᱟᱯ: ᱪᱟᱹᱞᱩ
+settings-data-backup-scheduled-backups-off = ᱵᱮᱠᱟᱯ: ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+settings-data-backup-scheduled-backups-description = ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱮᱴᱟᱜ ᱰᱟᱴᱟ ᱠᱚ ᱟᱡ ᱛᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱮ ᱾ <a data-l10n-name="support-link">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
+settings-data-backup-last-backup-date = ᱢᱩᱪᱟᱹᱫ ᱵᱮᱠᱚᱯ: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location = ᱴᱷᱟᱶ
+settings-data-backup-last-backup-location-show-in-folder = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+settings-data-backup-last-backup-location-edit = ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
