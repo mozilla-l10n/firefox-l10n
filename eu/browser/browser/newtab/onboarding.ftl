@@ -332,12 +332,17 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Azeria ordenagailu eramangarri baten pantailan eskuaz agur eginez. Ordenagailu eramangarriak sagua entxufatuta dauka.
 onboarding-device-migration-title = Ongi etorri!
+onboarding-device-migration-subtitle = Hasi saioa { -fxaccount-brand-name(capitalization: "sentence") } kontuan zure laster-markak, pasahitzak eta historia alboan eramateko zure gailu berrira.
+onboarding-device-migration-subtitle2 = Hasi saioa kontuan zure laster-markak, pasahitzak eta historia alboan eramateko zure gailu berrira.
 onboarding-device-migration-primary-button-label = Hasi saioa
 
 ## Add-ons Picker screen
 
 amo-picker-title = Pertsonalizatu zure { -brand-short-name }
+amo-picker-subtitle = Hedapenak aplikazioen antzerakoak dira zure nabigatzailearentzat eta pasahitzak babesten, bideoak deskargatzen, eskaintzak aurkitzen, iragarki gogaikarriak blokeatzen, nabigatzailearen itxura aldatzen eta gehiago egiten uzten dizute.
 amo-picker-install-button-label = Gehitu { -brand-short-name }(e)ra
 amo-picker-install-complete-label = Instalatuta
 amo-picker-collection-link = Esploratu gehigarri gehiago
@@ -355,13 +360,18 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name }(e)n babe
 onboarding-gratitude-security-and-privacy-subtitle = Eskerrik asko Mozilla Fundazioak babesten duen { -brand-short-name } erabiltzeagatik. Zure laguntzarekin Internet denontzat seguru eta eskuragarriagoa egiteko lanean ari gara.
 # Sign up or Sign in screen
 onboarding-sign-up-title = Sinkronizatu datuak gailuen artean
+onboarding-sign-up-description = Eman izena kontu bat irekitzeko eta zure informazio garrantzitsu guztia — pasahitzak, laster-markak eta gehiago — modu seguruan gordeko da eta erabilgarri egongo da edozein gailutan saioa hasten duzunean.
 onboarding-sign-up-button = Eman izena edo hasi saioa
 onboarding-sign-up-secondary-button = Hasi nabigatzen
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Zenbat denboraz aritu zara { -brand-short-name } erabiltzen?
+onboarding-new-user-familiarity-based-survey-title = Zenbateraino zaizu ezaguna { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Zure iritziak { -brand-short-name } hobetzen laguntzen du.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Hurrengoa
+onboarding-new-user-survey-legal-link-label = "{ onboarding-new-user-survey-next-button-label }" hautatuz gero, { -brand-product-name }(r)en <a data-l10n-name="privacy_notice">pribatutasun-oharra</a> onartzen duzu
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Berria naiz
 onboarding-new-user-survey-time-based-option-2 = Hilabete baino gutxiago
@@ -442,6 +452,7 @@ create-backup-select-tile-button-label = Hautatu
 create-backup-back-button-label = Atzera
 create-backup-show-fewer =
     .label = Erakutsi horrelako gutxiago
+create-backup-screen-2-title = Aukeratu babeskopia egin beharreko { -brand-product-name }(e)ko datuak
 create-backup-screen-2-subtitle = Minutu bat behar da soilik. Zure datuen babeskopia egunean behin egiten da.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Konfigurazio erraza
@@ -482,6 +493,8 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Laster-markak, historia, 
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Zure gailuan gordeta
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Pasahitzak eta ordainketa-metodoak ez daude barne
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Joan <a data-l10n-name="settings">ezarpenetara</a> kontuzko datuak ere barne hartzeko.
+fx-backup-confirmation-screen-item-subtext-1 = Zure babeskopia minutu gutxi barru hasiko da eta egunean behin exekutatuko da. Aurrerapena <a data-l10n-name="settings">ezarpenetan</a> ikus dezakezu.
+fx-backup-confirmation-screen-item-subtext-2 = Berrinstalatzeko beharra baduzu, zure babeskopia bilatuko du { -brand-short-name }(e)k.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -499,12 +512,14 @@ restored-from-backup-success-with-checklist-primary-button = Gorde eta jarraitu
 restored-from-backup-success-with-checklist-secondary-button = Saltatu urrats hau
 restored-from-backup-success-no-checklist-primary-button = Jarraitu
 restored-from-backup-error-title = Kontxo, arazo bat egon da zure babeskopia-fitxategiarekin.
+restored-from-backup-error-subtitle = Beste { -brand-short-name } babeskopia-fitxategi bat baduzu, saiatu bertatik berreskuratzen. <a data-l10n-name="restore-problems">Arazoak dituzu oraindik?</a>
 restored-from-backup-error-primary-button = Itxi
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Pertsonalizatu zure { -brand-short-name } esperientzia
+onboarding-personalization-subtitle = Erantzun galdera gutxi batzuk eta { -brand-short-name } erabiltzeko modua hobetzeko eginbide eta hedapenak gomendatuko ditugu.
 onboarding-personalization-use-case-title = Zertarako erabiliko duzu { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Pertsonala
 onboarding-personalization-use-case-school-option = Eskola

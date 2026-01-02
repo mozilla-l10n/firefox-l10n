@@ -33,3 +33,23 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Terjemahan
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Salin
+    .title = Salin terjemahan
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Disalin
+    .title = Salin terjemahan
+# Text displayed on target-language selector when no language option is selected.
+about-translations-select-label =
+    .label = Pilih bahasa
+# A message displayed in the target-language output area while waiting for the translation to complete.
+about-translations-translating-message = Menerjemahkan…
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = Tukar bahasa
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Bersihkan teks sumber
