@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Mussa ina curta descripziun, il te
 sidebar-button-callout-title = Mussar ils titels dals tabs en la panela laterala
 sidebar-button-callout-subtitle = Utilisescha il buttun da la trav laterala per expander la trav laterala e vesair ils titels dals tabs.
 sidebar-button-callout-vertical-tabs = Per laschar mussar tes tabs, tscherna il buttun da la trav laterala en la trav d’utensils.
+sidebar-deprecation-callout-title = Prest stat a disposiziun la nova trav laterala
+sidebar-deprecation-callout-subtitle = Nus remplazzain cuntinuadamain la versiun da la trav laterala che ti utiliseschas actualmain. Emprova la trav laterala actualisada. Ella è pli svelta e ti has access ad ulteriurs utensils.
+sidebar-deprecation-cta-button = Emprova ussa
 
 ## Sidebar Vertical Tabs Strings
 

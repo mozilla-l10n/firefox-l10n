@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Agiuntar in segnapagina ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vista dividida
+    .aria-label = Vista dividida
 
 ## Page Action Context Menu
 
@@ -426,6 +429,9 @@ quickactions-cmd-restart = reaviar
 # Opens the screenshot tool
 quickactions-screenshot3 = Far in maletg dal visur
 quickactions-cmd-screenshot2 = maletg dal visur, screenshot, far ina foto
+# Opens about:translations
+quickactions-translate = Translatar
+quickactions-cmd-translate = translatar
 quickactions-cmd-screenshot = maletg dal visur
 # Opens about:preferences
 quickactions-settings2 = Administrar ils parameters
@@ -832,6 +838,9 @@ urlbar-result-menu-dont-show-market =
     .label = Betg mussar propostas en connex cun la bursa
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Grazia per tes resun. Ti na vegns betg pli a vesair propostas cun cuntegns da la bursa.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Propostas en connex cun la bursa
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Grazia per tes resun. Ti na vegns betg pli a vesair questas propostas.
@@ -923,6 +932,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Na selecziunà nagina scursanida, tscherner ina scursanida
     .tooltiptext = Na selecziunà nagina scursanida, tscherner ina scursanida
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La retschertga da chavazzins-clav è deactivada
+    .tooltiptext = La retschertga da chavazzins-clav è deactivada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1575,3 +1588,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } ha permess { $count } criptominiers
     }
 trustpanel-cryptominer-tab-list-header = Questas websites emprovan da minar criptomunaida:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
+       *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
+    }

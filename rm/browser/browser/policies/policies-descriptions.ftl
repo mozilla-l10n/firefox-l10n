@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Activar l’endataziun automatica per adressas.
 policy-AutofillCreditCardEnabled = Activar l’endataziun automatica per metodas da pajament.
 policy-AutoLaunchProtocolsFromOrigins = Definescha ina glista da protocols externs che pon vegnir utilisads da funtaunas inditgadas senza dumandar l'utilisader.
 policy-BackgroundAppUpdate2 = Activar u deactivar las actualisaziuns davos las culissas.
+policy-Backup = Deactivar il backup u la restauraziun da datas da profil.
 policy-BlockAboutAddons = Bloccar l'access a l'administraziun da supplements (about:addons).
 policy-BlockAboutConfig = Bloccar l'access a la pagina about:config.
 policy-BlockAboutProfiles = Bloccar l'access a la pagina about:profiles.
@@ -98,6 +99,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revegnir al cumportame
 ##
 
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
+policy-LocalNetworkAccess = Activar u deactivar las verificaziuns da l’access a la rait locala.
 policy-ManagedBookmarks = Configurescha ina glista da segnapaginas gestida dad in administratur. Ella na po betg vegnir midada da l'utilisader.
 policy-ManualAppUpdateOnly = Mo permetter actualisaziuns manualas e betg infurmar l'utilisader davart actualisaziuns.
 policy-PrimaryPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.

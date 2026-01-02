@@ -426,3 +426,18 @@ etp-strict-exceptions-infobar-button = Applitgar las correcturas
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Betg ussa
     .accesskey = B
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } n’è betg tes navigatur da standard
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } n’è betg tes navigatur principal
+set-default-menu-message-row-layout-title = Definescha { -brand-short-name } sco tes navigatur principal
+set-default-menu-message-row-layout-title-variant = Definescha { -brand-short-name } sco tes navigatur standard
+set-default-menu-message-row-layout-subtitle = Profitescha adina da sveltezza, segirezza e sfera privata cura che ti navigheschas.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Plazzescha { -brand-short-name } uschia ch’il navigatur è adina per mauns – definescha el sco standard ed al fixescha en tes dock.
+       *[other] Plazzescha { -brand-short-name } uschia ch’il navigatur è adina per mauns – definescha el sco standard ed al fixescha en tia taskbar.
+    }
+set-default-menu-message-primary-button = Definir sco standard
+set-default-menu-message-primary-button-variant = Definir sco navigatur principal

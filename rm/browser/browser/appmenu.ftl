@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Configuraziun predefinida per il debugadi en { -brand-shorter-name }. In grond overhead, betg utilisar per analisar la prestaziun, ma per chapir il cumportament dal navigatur.
 profiler-popup-presets-debug-label =
     .label = Debugadi
+profiler-popup-presets-web-compat-description = Configuraziun recumandada per debugar problems da cumpatibilitad web en websites, empè da registrar la prestaziun.
+profiler-popup-presets-web-compat-label =
+    .label = Cumpatibilitad web
 profiler-popup-presets-custom-label =
     .label = Persunalisà
 

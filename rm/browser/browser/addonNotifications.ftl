@@ -136,6 +136,7 @@ addon-local-install-no-addon-name-error-file-access = I n’è betg reussì d’
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Impussibel dad installar { $addonName }. Il supplement n'è betg cumpatibel cun { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } violescha las directivas da Mozilla e na po betg vegnir installà en { -brand-short-name }.
+addon-install-error-soft-blocked2 = { $addonName } è suttamess a restricziuns e na po betg vegnir installà en { -brand-short-name }.
 addon-install-error-blocklisted = Impussibel dad installar { $addonName }. Quest supplement chaschuna probablamain problems da segirezza u da stabilitad.
 addon-install-error-soft-blocked = { $addonName } violescha las directivas da Mozilla e na po betg vegnir installà en { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

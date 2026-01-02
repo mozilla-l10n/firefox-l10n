@@ -60,6 +60,7 @@ pane-experimental-description2 = La modificaziun da la configuraziun dals parame
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Emprova nossas funcziuna experimentalas! Ellas vegnan actualmain sviluppadas vinavant e sa midan. Quai po influenzar il funcziunament da { -brand-short-name }. Nus retschavain mo datas davart tia utilisaziun da questas funcziuns sche ti has activà <a data-l10n-name="data-collection">las datas tecnicas e las datas d’interacziun</a>.
 pane-experimental-description3 = Emprova nossas funcziuns experimentalas! Ellas èn en svilup e sa midan, quai po influenzar il funcziunament da { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar il standard
