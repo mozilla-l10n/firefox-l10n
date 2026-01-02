@@ -338,12 +338,17 @@ fxa-menu-message-sign-up-button = Eman izena
 fxa-menu-message-sign-in-button = Hasi saioa
 fxa-menu-message-sync-button = Hasi sinkronizatzen
 fxa-menu-message-sync-devices-primary-text = Sinkronizatu zure gailu guztiak
+fxa-menu-message-sync-devices-secondary-text = Eskuratu zure informazioa di-da — adibidez laster-markak eta pasahitzak — { -brand-short-name } darabilzun leku guztietan.
+fxa-menu-message-sync-devices-secondary-text2 = Eskuratu di-da zure laster-markak, pasahitzak eta gehiago — { -brand-short-name }(e)n saioa hasita duzun leku guztietan.
 fxa-menu-message-sync-devices-collapsed-text = Sinkronizatu zure gailu guztiak
 fxa-menu-message-backup-data-primary-text = Egin zure nabigatzaile-datuen babeskopia
+fxa-menu-message-backup-data-secondary-text = Babestu automatikoki laster-markak, pasahitzak eta bestelako informazioa zure gailu guztietan.
 fxa-menu-message-backup-data-collapsed-text = Egin nabigatzaile-datuen babeskopia
 fxa-menu-message-backup-sync-primary-text = Mantendu zure datuak seguru eta sinkronizatuta
+fxa-menu-message-backup-sync-secondary-text = Sinkronizazioak zure datu gehienenen babeskopia egiten du, { -brand-short-name } darabilzun leku guztietan eskuratzeko moduan izan ditzazun.
 fxa-menu-message-backup-sync-collapsed-text = Sinkronizatu eta gorde datuak
 fxa-menu-message-mobile-primary-text = Bidali fitxak zure telefonora
+fxa-menu-message-mobile-secondary-text = Jarraitu di-da utzi zenuen tokitik zure fitxak gailu mugikorrarekin sinkronizatzen dituzunean.
 fxa-menu-message-mobile-collapsed-text = Sinkronizatu zure telefonoarekin
 
 ## Multi-CTA Fox Doodle Spotlight
@@ -369,15 +374,19 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantendu pribatutasunari zu
 ## Windows 10 EoS Sync messages group 1 spotlight
 
 windows-10-eos-sync-spotlight-title = Windows 10etik eguneratu behar duzu laster?
+windows-10-eos-sync-spotlight-subtitle = Egin zure pasahitz eta laster-marken babeskopia, edozein gailutara aldatzeko prest egon zaitezen.
+windows-10-eos-sync-spotlight-primary-label = Egin zure { -brand-short-name }(e)n babeskopia
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-title = Windows 11ra bertsio-berritu behar duzu? Ez galdu laster-markak eta pasahitzak.
+windows-10-eos-sync-toast-subtitle = Egin zure datuen babeskopia { -brand-short-name } erabiltzeko prest egon dadin edonoiz, izan ordenagailu pertsonal honetan edo hurrengoan.
 windows-10-eos-sync-toast-primary-label = Hasi erabiltzen
 windows-10-eos-sync-toast-secondary-label = Gogora iezadazu geroago
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = { -brand-product-name } ez dago aurrez kargatuta, enpresa teknologiko handien beste nabigatzaile ezagunak ez bezala. Hori da arrazoia.
 windows-10-eos-challenger-pin-primary-button = Ainguratu { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-info-button = Ikusi blokeatu dena
 windows-10-eos-callout-addons-title = Probatu gehigarriak: bertsio-berritze sinpleak, eragin handiak
