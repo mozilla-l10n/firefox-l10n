@@ -33,6 +33,14 @@ about-translations-detect-language-label =
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = Itzulpena
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Kopiatu
+    .title = Kopiatu itzulpena
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Kopiatuta
+    .title = Kopiatu itzulpena
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Hautatu hizkuntza

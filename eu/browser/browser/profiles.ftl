@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = Aukeratu { -brand-short-name } profil bat
+profile-window-body = Mantendu erabat bereiz nabigazio pertsonala eta lanekoa, pasahitzak eta laster-markak barne. Edo sortu profilak gailu hau darabilen mundu guztiarentzat.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = Aukeratu profil bat { -brand-short-name } irekitzen denerako
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = Erabilitako azken profila irekiko du { -brand-short-name }(e)k.
 profile-window-create-profile = Sortu profila
 profile-card-edit-button =
     .title = Editatu profila
@@ -50,6 +56,7 @@ edit-profile-page-duplicate-name = Profilaren izena badago lehendik. Erabili bes
 edit-profile-page-profile-saved = Gordeta
 new-profile-page-title = Profil berria
 new-profile-page-header = Pertsonalizatu zure profil berria
+new-profile-page-header-description = Profil bakoitzak nabigazio-historia eta ezarpenak beste profiletatik bereiz mantentzen ditu. Gainera, { -brand-short-name }(r)en pribatutasunaren babes sendoak gaituta daude lehenespenez.
 new-profile-page-learn-more = Argibide gehiago
 new-profile-page-input-placeholder =
     .placeholder = Hautatu izen bat, adibidez "Lana" edo "Pertsonala"
@@ -209,6 +216,9 @@ video-game-controller-avatar-alt =
     .alt = Bideo-jokoen kontrolagailua
 custom-avatar-alt =
     .alt = Abatar pertsonalizatua
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Munduko bola
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamantea
@@ -229,6 +239,8 @@ custom-avatar = Abatar pertsonalizatua
 diamond-avatar = Diamantea
 flower-avatar = Lorea
 folder-avatar = Karpeta
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Munduko bola
 hammer-avatar = Mailua
 heart-avatar = Bihotza
 heart-rate-avatar = Bihotz-maiztasuna
@@ -246,7 +258,9 @@ plane-avatar = Hegazkina
 present-avatar = Oparia
 shopping-avatar = Erosketa-orga
 soccer-ball-avatar = Futboleko baloia
+sparkle-single-avatar = Distira
 star-avatar = Izarra
+video-game-controller-avatar = Bideo-jokoen kontrolagailua
 custom-avatar-crop-back-button =
     .aria-label = Atzera
 custom-avatar-crop-view =
@@ -256,5 +270,71 @@ custom-avatar-crop-area =
 custom-avatar-drag-handle =
     .aria-label = Aldatu tamainaz mozteko eremua
 profiles-appmenu-callout-tour-title = Zure profil berria prest dago
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = ☰ menuan, sakatu zure profilaren izena beste profil bat sortzeko, uneko profila editatzeko edo profilen artean aldatzeko.
 profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola
+barbell-avatar = Pisu-barra
 bike-avatar = Bizikleta
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = Aplikatu pisu-barraren abatarra
+bike-avatar-tooltip =
+    .tooltiptext = Aplikatu bizikletaren abatarra
+book-avatar-tooltip =
+    .tooltiptext = Aplikatu liburuaren abatarra
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplikatu maletatxoaren abatarra
+picture-avatar-tooltip =
+    .tooltiptext = Aplikatu argazkiaren abatarra
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Aplikatu artisautzaren abatarra
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplikatu munduko bolaren abatarra
+diamond-avatar-tooltip =
+    .tooltiptext = Aplikatu diamantearen abatarra
+flower-avatar-tooltip =
+    .tooltiptext = Aplikatu lorearen abatarra
+folder-avatar-tooltip =
+    .tooltiptext = Aplikatu karpetaren abatarra
+hammer-avatar-tooltip =
+    .tooltiptext = Aplikatu mailuaren abatarra
+heart-avatar-tooltip =
+    .tooltiptext = Aplikatu bihotzaren abatarra
+heart-rate-avatar-tooltip =
+    .tooltiptext = Aplikatu bihotz-maiztasunaren abatarra
+clock-avatar-tooltip =
+    .tooltiptext = Aplikatu erlojuaren abatarra
+leaf-avatar-tooltip =
+    .tooltiptext = Aplikatu hostoaren abatarra
+lightbulb-avatar-tooltip =
+    .tooltiptext = Aplikatu bonbillaren abatarra
+makeup-avatar-tooltip =
+    .tooltiptext = Aplikatu makillajearen abatarra
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Aplikatu mezuaren abatarra
+musical-note-avatar-tooltip =
+    .tooltiptext = Aplikatu musika notaren abatarra
+palette-avatar-tooltip =
+    .tooltiptext = Aplikatu paletaren abatarra
+paw-print-avatar-tooltip =
+    .tooltiptext = Aplikatu atzapar-markaren abatarra
+plane-avatar-tooltip =
+    .tooltiptext = Aplikatu hegazkinaren abatarra
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = Aplikatu opariaren abatarra
+shopping-avatar-tooltip =
+    .tooltiptext = Aplikatu erosketa-orgaren abatarra
+soccer-ball-avatar-tooltip =
+    .tooltiptext = Aplikatu futboleko baloiaren abatarra
+sparkle-single-avatar-tooltip =
+    .tooltiptext = Aplikatu distiraren abatarra
+star-avatar-tooltip =
+    .tooltiptext = Aplikatu izarraren abatarra
+video-game-controller-avatar-tooltip =
+    .tooltiptext = Aplikatu bideo-joko kontrolagailuaren abatarra

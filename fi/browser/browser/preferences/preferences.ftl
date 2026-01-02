@@ -328,6 +328,8 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrastiasetukset ohittavat verkkosivuston ulkoasun.
 preferences-web-appearance-link =
     .label = Hallinnoi { -brand-short-name }in teemoja Laajennukset ja teemat -osiossa
+preferences-contrast-control-radio-group =
+    .label = Ohita värit
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
@@ -398,12 +400,63 @@ translate-attribution = Sivujen kääntäjä <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Poikkeukset…
     .accesskey = i
+settings-translations-header =
+    .label = Käännökset
+    .aria-label = Käännökset
+    .description = Käännä sivuja tai valittu teksti. Yksityisyytesi suojaamiseksi käännökset pysyvät laitteellasi.
+settings-translations-offer-to-translate-label =
+    .label = Tarjoa koko sivun käännöstä
+settings-translations-subpage-header =
+    .heading = Lisää käännösasetuksia
+settings-translations-subpage-speed-up-translation-header =
+    .label = Nopeuta käännöstä
+    .description = Lataa kokonaisia kieliä nopeampaa käännöstä ja yhteydettömässä tilassa tapahtuvaa käännöstä varten.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automaattinen käännös
+settings-translations-subpage-always-translate-header =
+    .label = Käännä nämä kielet aina
+settings-translations-subpage-never-translate-header =
+    .label = Älä käännä koskaan näitä kieliä
+settings-translations-subpage-never-translate-sites-header =
+    .label = Älä käännä koskaan näitä sivustoja
+settings-translations-subpage-language-select-option =
+    .label = Lisää kieli
+settings-translations-subpage-language-add-button =
+    .aria-label = Lisää kieli
+    .title = Lisää kieli
+settings-translations-subpage-download-languages-header =
+    .label = Lataa kieliä
+settings-translations-subpage-download-languages-select-option =
+    .label = Valitse kieli
+settings-translations-subpage-download-languages-button =
+    .aria-label = Lataa kieli
+    .title = Lataa kieli
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } Mt)
+    .label = { $language } ({ $size } Mt)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Kieliä ei ole ladattu
+settings-translations-subpage-no-languages-added =
+    .label = Kieliä ei ole lisätty
+settings-translations-subpage-download-progress = Lataus käynnissä…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Ei voitu ladata kieltä { $language } ({ $size } Mt)
 settings-translations-subpage-download-retry-button =
     .label = Yritä uudelleen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Poistetaanko { $language } ({ $size } Mt)?
 settings-translations-subpage-download-delete-button =
     .label = Poista
 settings-translations-subpage-download-cancel-button =
     .label = Peruuta
+settings-translations-subpage-no-sites-added =
+    .label = Sivustoja ei ole lisätty
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1318,6 +1371,9 @@ payments-list-item-label = <strong>Maksutavat</strong>
 payments-delete-payment-prompt-title = Poistetaanko tämä maksutapa?
 payments-delete-payment-prompt-confirm-button = Poista
 payments-delete-payment-prompt-cancel-button = Peruuta
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Maksutapoja ei ole lisätty
 payments-remove-payment-prompt-title = Poistetaanko tämä maksutapa?
 payments-remove-payment-prompt-confirm-button = Poista
 payments-remove-payment-prompt-cancel-button = Peruuta
@@ -1332,6 +1388,26 @@ autofill-addresses-manage-addresses-button =
     .accesskey = m
 addresses-list-header =
     .label = Osoitteet
+addreses-delete-address-button-label =
+    .aria-label = Poista
+addreses-edit-address-button-label =
+    .aria-label = Muokkaa
+addresses-delete-address-prompt-title = Poistetaanko tämä osoite?
+addresses-delete-address-prompt-confirm-button = Poista
+addresses-delete-address-prompt-cancel-button = Peruuta
+autofill-addresses-add-button = Lisää uusi osoite
+autofill-addresses-manage-addresses-title =
+    .heading = Hallitse osoitteita ja muuta
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Osoitteita ei ole lisätty
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
