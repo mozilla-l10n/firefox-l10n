@@ -5,13 +5,27 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = WebAuthn-ri buruz
 
 ## Section titles
 
+about-webauthn-info-section-title = Gailuaren informazioa
+about-webauthn-info-subsection-title = Autentifikatzailearen informazioa
+about-webauthn-options-subsection-title = Autentifikatzailearen aukerak
 about-webauthn-pin-section-title = PIN kudeaketa
 about-webauthn-credential-management-section-title = Kudeatu kredentzialak
 about-webauthn-pin-required-section-title = PINa beharrezkoa
 about-webauthn-confirm-deletion-section-title = Berretsi ezabatzea
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometria-matrikulak
+
+## Info field texts
+
+about-webauthn-text-connect-device = Konektatu segurtasun token batera.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Hautatu nahi duzun zure segurtasun-tokena gailua ukituz.
 
 ## Results label
 

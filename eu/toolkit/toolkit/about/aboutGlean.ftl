@@ -52,6 +52,19 @@ about-glean-metrics-table-settings-category-visualizations-histogram = Histogram
 about-glean-metrics-table-settings-histograms-chart-max = Grafikoaren gehienezko altuera
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Eskalatutako gehienezko altuera
+about-glean-metrics-table-settings-histograms-box-padding = Kutxaren betegarria
+about-glean-metrics-table-settings-histograms-chart-padding = Grafikoaren betegarria
+about-glean-metrics-table-settings-histograms-left-padding = Ezkerreko betegarri gehigarria
+about-glean-metrics-table-settings-category-visualizations-timeline = Denbora-lerroa
+about-glean-metrics-table-settings-timelines-height = Altuera
+about-glean-metrics-table-settings-timelines-width = Zabalera
+about-glean-metrics-table-settings-timelines-chart-padding = Grafikoaren betegarria
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Zirkuluaren erradioa
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Y ardatzaren X konpentsazioa
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Y ardatzaren Y konpentsazioa
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Iragazkia
 # This message sits alongside an input field, further describing its purpose.
@@ -70,8 +83,22 @@ about-glean-button-watch = Behatu
 about-glean-button-unwatch = Gelditu behatzen
 about-glean-no-data-to-display = Ez dago bistaratzeko daturik.
 # Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Etiketadun neurkerak ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
+about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> neurkerek ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
+# Do not translate strings between <code> </code> tags.
+about-glean-labeled-metric-warning = Etiketadun neurkerek ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
 about-glean-unknown-metric-type-warning = Neurkera mota ezezaguna.
+about-glean-enable-new-features-promo =
+    .message = Eginbide berriak gehitzeko lanean ari gara! Garapenean daude oraindik baina gaitu nahi badituzu, egin klik ekintzaren botoian hemen.
+    .heading = Eginbide berriak heltzear dira!
+about-glean-enable-new-features-button = Gaitu eginbide berriak
+about-glean-disable-new-features-button = Desgaitu eginbide berriak
 about-glean-about-data-explanation =
     Biltzen den datu-zerrenda arakatzeko, begiratu
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Integratutako pluginak
+about-glean-ping-list-optgroup-custom =
+    .label = Ping pertsonalizatuak
