@@ -87,6 +87,9 @@ about-webrtc-debug-mode-msg-label = Arazketa-modua
 about-webrtc-debug-mode-off-state-label = Hasi arazketa modua
 about-webrtc-debug-mode-on-state-label = Gelditu arazketa modua
 about-webrtc-stats-heading = Saioaren estatistikak
+about-webrtc-peerconnections-section-heading = RTCPeerConnection estatistikak
+about-webrtc-peerconnections-section-show-msg = Erakutsi RTCPeerConnection estatistikak
+about-webrtc-peerconnections-section-hide-msg = Ezkutatu RTCPeerConnection estatistikak
 about-webrtc-stats-clear = Garbitu historia
 about-webrtc-log-heading = Konexioaren erregistroa
 about-webrtc-log-clear = Garbitu erregistroa
@@ -98,6 +101,8 @@ about-webrtc-log-section-show-msg = Erakutsi erregistroa
     .title = Egin klik atal hau zabaltzeko
 about-webrtc-log-section-hide-msg = Ezkutatu erregistroa
     .title = Egin klik atal hau tolesteko
+about-webrtc-copy-report-button = Kopiatu txostena
+about-webrtc-copy-report-history-button = Kopiatu txostenaren historia
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -179,6 +184,14 @@ about-webrtc-configuration-element-provided = Hornitua
 about-webrtc-configuration-element-not-provided = Ez hornitua
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Erabiltzaileak ezarritako WebRTC hobespenak
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Erabiltzaileak aldatutako WebRTC konfigurazioa
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Erakutsi erabiltzaileak aldatutako konfigurazioa
+about-webrtc-user-modified-configuration-hide-msg = Ezkutatu erabiltzaileak aldatutako konfigurazioa
 
 ##
 
@@ -285,3 +298,11 @@ about-webrtc-sdp-set-timestamp = Denbora-marka { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Erakutsi SDPa
 about-webrtc-hide-msg-sdp = Ezkutatu SDPa
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = Erakutsi multimedia-testuingurua
+about-webrtc-media-context-hide-msg = Ezkutatu multimedia-testuingurua
+about-webrtc-media-context-heading = Multimedia-testuingurua

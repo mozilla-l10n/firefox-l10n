@@ -26,11 +26,30 @@ about-webauthn-bio-enrollment-section-title = Biometria-matrikulak
 about-webauthn-text-connect-device = Konektatu segurtasun token batera.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = Hautatu nahi duzun zure segurtasun-tokena gailua ukituz.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Ezin dira aukerak kudeatu zure segurtasun-tokenak ez duelako CTAP2 onartzen.
+about-webauthn-text-not-available = Ez dago erabilgarri plataforma honetan.
+about-webauthn-bio-enrollment-list-subsection-title = Matrikulak:
+about-webauthn-add-bio-enrollment-section-title = Gehitu matrikula berria
 
 ## Results label
 
 about-webauthn-results-success = Ongi!
 about-webauthn-results-general-error = Errorea!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Errorea: PIN okerra. Saiatu berriro.
+        [one] Errorea: PIN okerra. Saiatu berriro. Aukera bat gelditzen zaizu.
+       *[other] Errorea: PIN okerra. Saiatu berriro. { $retriesLeft } aukera gelditzen zaizkizu.
+    }
+about-webauthn-results-pin-blocked-error = Errorea: saiakerarik ez da gelditzen eta zure gailua blokeatu egin da, PIN okerra gehiegitan eman delako. Gailuak berrezartzea eskatzen du.
+about-webauthn-results-pin-not-set-error = Errorea: PINa ez dago ezarrita. Eragiketa honek PINaren babesa behar du.
+about-webauthn-results-pin-too-short-error = Errorea: emandako PINa motzegia da.
+about-webauthn-results-pin-too-long-error = Errorea: emandako PINa luzeegia da.
+about-webauthn-results-pin-auth-blocked-error = Errorea: saiakera oker gehiegi egon dira segidan eta PIN bidezko autentifikazioa blokeatu egin da behin-behinean. Zure gailuak pizte-/itzaltze-zikloa eskatzen du (desentxufatzea eta berriro entxufatzea).
+about-webauthn-results-cancelled-by-user-error = Errorea: erabiltzaileak eragiketa bertan behera utzi du.
 
 ## Labels
 
@@ -39,14 +58,24 @@ about-webauthn-repeat-pin-label = Errepikatu PIN berria:
 about-webauthn-current-pin-label = Uneko PINa:
 about-webauthn-pin-required-label = Idatzi mesedez zure PINa:
 about-webauthn-credential-list-subsection-title = Kredentzialak:
+about-webauthn-enrollment-name-label = Matrikula-izena (aukerakoa):
+about-webauthn-enrollment-list-empty = Ez da matrikularik aurkitu gailuan.
+about-webauthn-credential-list-empty = Ez da kredentzialik aurkitu gailuan.
+about-webauthn-confirm-deletion-label = Ondorengoa ezabatzear zaude:
 
 ## Buttons
 
 about-webauthn-current-set-pin-button = Ezarri PINa
 about-webauthn-current-change-pin-button = Aldatu PINa
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Zerrendatu kredentzialak
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Zerrendatu matrikulak
+about-webauthn-add-bio-enrollment-button = Gehitu matrikula
 about-webauthn-cancel-button = Utzi
 about-webauthn-send-pin-button = Ados
 about-webauthn-delete-button = Ezabatu
+about-webauthn-start-enrollment-button = Hasi matrikula
 about-webauthn-update-button = Eguneratu
 
 ## Authenticator options fields
