@@ -387,17 +387,28 @@ windows-10-eos-sync-toast-secondary-label = Gogora iezadazu geroago
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = { -brand-product-name } ez dago aurrez kargatuta, enpresa teknologiko handien beste nabigatzaile ezagunak ez bezala. Hori da arrazoia.
+windows-10-eos-challenger-sync-callout-subtitle = { -brand-product-name }(e)ko laster-marka eta pasahitzen babeskopia egiten duzunean, errazagoa da aukeratutako nabigatzailea zure hurrengo gailura eramatea.
+windows-10-eos-challenger-pin-callout-subtitle = Ainguratu { -brand-shorter-name } ataza-barran, aukeratutako nabigatzailea behar duzunean beti eskura egon dadin.
+windows-10-eos-challenger-sync-primary-button = Egin { -brand-shorter-name }(r)en babeskopia
 windows-10-eos-challenger-pin-primary-button = Ainguratu { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name }(e)k kriptomeatzariak, sare sozialetako jarraipen-elementuak eta hatz-marka bidezko jarraipena blokeatzen ditu.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Jarraipen elementuek ezin dute zure gailua identifikatu edo zu webean zehar jarraitu — ez baitiegu hori egiten uzten.
+windows-10-eos-sync-callout-privacy-screen-2-title = Segurtatu pasahitz eta laster-markak zure hurrengo gailurako.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name }(r)en babeskopia egitean errazagoa da zure datuak eta pribatutasun-ezarpenak alboan eramatea.
 windows-10-eos-sync-callout-privacy-info-button = Ikusi blokeatu dena
 windows-10-eos-callout-addons-title = Probatu gehigarriak: bertsio-berritze sinpleak, eragin handiak
 windows-10-eos-callout-addons-subtitle = Zuri emankorrago, babestuta eta distraziorik gabe egoten laguntzeko aukeratu dira hedapen hauek.
 windows-10-eos-callout-addons-primary-button = Ikusi gure hautuak
 windows-10-eos-sync-callout-addons-title = Ez galdu zure gehigarriak Windows 10era bertsio-berritzean.
+windows-10-eos-sync-callout-addons-subtitle = Sinkronizatu orain zure { -brand-product-name } gehigarriak beti erabilgarri egon daitezen, baita gailua aldatu ondoren ere.
 windows-10-eos-sync-callout-next-button = Hurrengoa
 windows-10-eos-sync-callout-get-started-button = Hasi erabiltzen
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
+windows-10-eos-feature-toast-title = Fitxa bertikalak eta fitxa-taldeak hemen daude!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Herriak hala eskatuta, { -brand-product-name }(e)k eginbide berriak gehitu ditu zure nabigazioa sinplifikatu eta zentratuta mantentzeko.
 windows-10-eos-feature-toast-whats-new-button = Ikusi nobedadeak
 windows-10-eos-feature-toast-dismiss-button = Baztertu
 
