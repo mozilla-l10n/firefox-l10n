@@ -76,10 +76,18 @@ fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } varoittaa tästä sivustosta, koska sivustolle { $hostname } annettu varmenne on kumottu eikä siihen enää luoteta.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Sivusto on määritetty sallimaan vain suojatut yhteydet, mutta sivuston varmenteessa on ongelma. On mahdollista, että pahantahtoinen taho yrittää esiintyä sivustona. Sivustot käyttävät CA-varmentajien myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska sen varmenne ei ole kelvollinen verkkotunnukselle { $hostname }. Varmenne on kelvollinen vain seuraaville verkkotunnuksille: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Luultavasti et mitään, koska todennäköisesti ongelma on itse sivustossa. Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. Jos olet yritysverkostossa, tukitiimilläsi voi olla lisätietoja. Jos käytät virustorjuntaohjelmistoa, yritä etsiä mahdollisia ristiriitoja tai tunnettuja ongelmia.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } varoittaa tästä sivustosta, koska sivustolle { $hostname } annetun varmenteen on myöntänyt varmentaja, johon ei enää luoteta.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Sivuston varmenteessa on ongelma. On mahdollista, että pahantahtoinen taho yrittää esiintyä sivustona. Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska emme voi tietää, kuka on myöntänyt varmenteen, varmenne on itse allekirjoitettu tai sivusto ei lähetä välivarmenteita, joihin luotamme.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

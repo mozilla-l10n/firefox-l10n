@@ -398,6 +398,12 @@ translate-attribution = Sivujen kääntäjä <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Poikkeukset…
     .accesskey = i
+settings-translations-subpage-download-retry-button =
+    .label = Yritä uudelleen
+settings-translations-subpage-download-delete-button =
+    .label = Poista
+settings-translations-subpage-download-cancel-button =
+    .label = Peruuta
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -980,6 +986,16 @@ sync-manage-account2 =
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -998,6 +1014,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synkronointi: PÄÄLLÄ
+prefs-syncing-on-2 =
+    .label = Synkronointi on PÄÄLLÄ
 prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
 prefs-sync-turn-on-syncing =
     .label = Ota synkronointi käyttöön…
@@ -1297,6 +1315,9 @@ autofill-payment-methods-add-button = Lisää uusi maksutapa
 payments-list-header =
     .label = Maksutavat
 payments-list-item-label = <strong>Maksutavat</strong>
+payments-delete-payment-prompt-title = Poistetaanko tämä maksutapa?
+payments-delete-payment-prompt-confirm-button = Poista
+payments-delete-payment-prompt-cancel-button = Peruuta
 payments-remove-payment-prompt-title = Poistetaanko tämä maksutapa?
 payments-remove-payment-prompt-confirm-button = Poista
 payments-remove-payment-prompt-cancel-button = Peruuta
@@ -1309,6 +1330,8 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Hallitse osoitteita ja muuta
     .accesskey = m
+addresses-list-header =
+    .label = Osoitteet
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

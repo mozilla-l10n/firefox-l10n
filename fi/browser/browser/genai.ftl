@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Poista { $provider }
 genai-menu-remove-sidebar =
     .label = Poista sivupalkista
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Kysy palvelulta { $provider }
 genai-menu-new-badge = Uusi
 genai-menu-summarize-page = Tee yhteenveto sivusta
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } minuutin lukuaika
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ei voi esikatsella tätä linkkiä
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Emme voi esikatsella tätä linkkiä
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Käy linkin osoitteessa
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ei voi luoda pääkohtia tästä verkkosivusta.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Emme voi luoda pääkohtia tälle verkkosivulle.
 # Error message when something went wrong during key point generation

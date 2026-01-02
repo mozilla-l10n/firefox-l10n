@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Yhteytesi tähän sivustoon ei ole suojattu.
 identity-connection-verified = Yhteytesi tähän sivustoon on suojattu.
 identity-ev-owner-label = Varmenne myönnetty taholle:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Asetuksen (EU) 2024/1183 mukaisesti kelvollinen.
 identity-description-custom-root2 = Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta.
 identity-remove-cert-exception =
     .label = Poista poikkeus
