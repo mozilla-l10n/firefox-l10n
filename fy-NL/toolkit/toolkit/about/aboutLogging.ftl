@@ -114,7 +114,7 @@ about-logging-save-error = Der is in flater bard by it bewarjen fan it bestân: 
 # identify when each profile was captured.
 # Variables:
 #   $date (date) - The date and time when the profile was uploaded
-about-logging-uploaded-profile-name = Profyl { DATETIME($date, dateStyle: "koart", timeStyle: "medium") }
+about-logging-uploaded-profile-name = Profyl { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
 about-logging-uploaded-profiles-title = Opladen profilen
 about-logging-no-uploaded-profiles = Der binne noch gjin profilen oplaad.
 about-logging-delete-uploaded-profile = Fuortsmite

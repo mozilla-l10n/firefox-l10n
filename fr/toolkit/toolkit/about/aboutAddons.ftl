@@ -119,7 +119,7 @@ private-browsing-description2 =
     { -brand-short-name } ne s’exécutera par défaut dans une fenêtre privée. Si vous ne le permettez pas dans les paramètres, 
     l’extension ne fonctionnera pas en navigation privée et n’aura pas accès à vos activités en ligne.
     Nous avons apporté cette modification pour que votre navigation privée reste confidentielle.
-    <label data-l10n-name="private-browsing-learn-more"> Découvrez comment gérer les paramètres d’extension.</ label>
+    <label data-l10n-name="private-browsing-learn-more"> Découvrez comment gérer les paramètres d’extension.</label>
 addon-category-discover = Recommandations
 addon-category-discover-title =
     .title = Recommandations
