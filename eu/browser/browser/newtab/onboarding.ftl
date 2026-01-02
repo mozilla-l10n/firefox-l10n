@@ -428,9 +428,16 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Windows 11ra bertsio-berritzen?
+    Egin ditzagun { -brand-product-name }(e)ko zure datuen babeskopia.
+create-backup-screen-1-subtitle = Babestu automatikoki zure pasahitzak, laster-markak eta gehiago pare bat minututan.
 create-backup-screen-1-flair = Gomendatua
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Argibide gehiago</a>
 create-backup-screen-1-sync-label = Sinkronizatu { -brand-product-name } erabiliz
+create-backup-screen-1-sync-body = Saioa hasita duten gailu guztien babeskopia egiten du
+create-backup-screen-1-backup-label = Egin babeskopia ordenagailura
+create-backup-screen-1-backup-body = Zure gailura edo OneDrive-ra gordetzen du
 create-backup-select-tile-button-label = Hautatu
 create-backup-back-button-label = Atzera
 create-backup-show-fewer =
@@ -479,11 +486,15 @@ fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Joan <a data-l10n-name
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Berreskuratu babeskopiatik
+restore-from-backup-title = Presta dezagun { -brand-short-name } zuri gustatzen zaigun modura
+restore-from-backup-subtitle = Berreskuratu zure laster-markak, historia eta bestelako datu guztiak nabigatzera itzul zaitezen.
 restore-from-backup-secondary-button = Ez berreskuratu
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Bueltan gaude! Zure { -brand-short-name } datuak berreskuratu dira.
+restored-from-backup-success-with-checklist-subtitle = Pribatutasunean zentratzen den zure nabigatzaile gogokoen klik bakarrera izan nahi duzu?
+restored-from-backup-success-no-checklist-subtitle = Gailu honetarako babeskopia <a data-l10n-name="settings">ezarpenetan</a> aktiba dezakezu.
 restored-from-backup-success-with-checklist-primary-button = Gorde eta jarraitu
 restored-from-backup-success-with-checklist-secondary-button = Saltatu urrats hau
 restored-from-backup-success-no-checklist-primary-button = Jarraitu

@@ -50,3 +50,6 @@ about-translations-translating-message = Itzultzen…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Trukatu hizkuntzak
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Garbitu iturburu-testua
