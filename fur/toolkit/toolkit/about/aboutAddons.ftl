@@ -174,6 +174,8 @@ extensions-warning-update-security-button = Ative
 extensions-warning-imported-addons2 =
     .message = Finìs la instalazion des estensions impuartadis su { -brand-short-name }.
 extensions-warning-imported-addons-button = Instale estensions
+extensions-warning-safe-mode3 =
+    .message = Ducj i components adizionâi a son stâts disativâts de modalitât risoluzion problemis.
 
 ## Strings connected to add-on updates
 
@@ -295,6 +297,10 @@ colorway-removal-notice-message =
         sît dai components adizionâi.
 colorway-removal-notice-learn-more = Plui informazions
 colorway-removal-notice-button = Oten tonalitâts inzornadis
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Lis impostazions dal contrast di Windows a òn la precedence sui temis di { -brand-short-name }. Disative chestis impostazions par doprâ i temis in { -brand-short-name }.
 privacy-policy = Politiche pe riservatece
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -542,6 +548,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Altris informazions
 details-notification-blocked = { $name } al è stât disativât par vie di problemis di sigurece o stabilitât.
 details-notification-blocked-link2 = Viôt i detais
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Cheste estension e je sometude a limitazions e e je stade disativade. Al è pussibil tornâ a ativâle, ma la sô utilizazion e podarès compuartâ risis.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Cheste estension e je sometude a limitazions. La sô utilizazion e podarès compuartâ risis.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Chest component adizionâl al è sometût a limitazions e al è stât disativât. Tu puedis ativâlu, ma la sô utilizazion e podarès compuartâ pericui.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Chest component adizionâl al è sometût a limitazions. La sô utilizazion e podarès compuartâ pericui.
 details-notification-soft-blocked-extension-disabled =
     .message = Cheste estension e je limitade parcè che e viole lis politichis di Mozilla e e je stade disativade. Tu puedis tornâ a ativâle, ma al è pussibil che al compuarti cualchi risi.
 details-notification-soft-blocked-extension-enabled =

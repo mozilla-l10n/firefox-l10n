@@ -146,6 +146,14 @@ about-glean-metrics-table-header-type = Gjenar
 about-glean-metrics-table-header-value = Valôr
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Azions
+about-glean-metrics-table-settings-button = Impostazions
+about-glean-metrics-table-settings-category-general = Gjenerâl
+about-glean-metrics-table-settings-hide-empty-value-rows = Plate riis cence valôrs
+about-glean-metrics-table-settings-category-visualizations = Visualizazions
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Esempli
+about-glean-metrics-table-settings-category-visualizations-histogram = Istogram
+about-glean-metrics-table-settings-histograms-chart-max = Altece massime grafic
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtre
 # This message sits alongside an input field, further describing its purpose.
