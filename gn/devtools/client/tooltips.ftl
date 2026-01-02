@@ -63,6 +63,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba�
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u mbosa’ypyrére.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ojokupyty mba’eporugua’u ndive ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> ndorekói ñepytyvõ oikóva <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -135,3 +136,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Eikuaave</spa
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Ko poravoha oiporu <strong>:has()</strong> jejoko’ỹre, imbeguekuaáva.
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Jeporavoha ojokupytýva <strong>:scope</strong> riregua ndojoguerahái mba’evéndi
