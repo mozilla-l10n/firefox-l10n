@@ -112,3 +112,50 @@ restore-from-backup-password-description = ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱮᱱᱠ�
 restore-from-backup-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 restore-from-backup-confirm-button = ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ ᱟᱨ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
 restore-from-backup-restoring-button = ᱫᱚᱦᱲᱟ ᱛᱮ...
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = ᱵᱷᱩᱞ ᱯᱟᱥᱣᱟᱨᱰ᱾ <a data-l10n-name="incorrect-password-support-link">ᱱᱤᱛ ᱦᱚᱸ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱢᱮᱱᱟᱜᱼᱟ?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = ᱱᱚᱣᱟ ᱨᱮᱫ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ
+    .message = ᱟᱢᱟᱜ ᱵᱮᱠᱟᱯ ᱨᱮᱫ ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾ ᱮᱴᱟᱜ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = ᱱᱚᱣᱟ ᱨᱮᱫ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ
+    .message = ᱟᱢ ᱡᱟᱦᱟᱸ ᱨᱮᱫ ᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱫᱟ ᱚᱱᱟ ᱫᱚ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱱᱚᱣᱟ ᱵᱷᱟᱨᱥᱚᱱ ᱥᱟᱶ ᱵᱟᱝ ᱥᱚᱢᱟᱱᱟ᱾ ᱮᱴᱟᱜ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = ᱱᱚᱣᱟ ᱨᱮᱫ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ
+    .message = ᱟᱢ ᱡᱟᱦᱟᱸ ᱨᱮᱫ ᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱞᱮᱫᱟ ᱚᱱᱟ ᱫᱚ { -brand-short-name } ᱦᱚᱛᱮᱛᱮ ᱵᱟᱝ ᱛᱮᱭᱟᱨ ᱞᱮᱱᱟ ᱾ ᱮᱴᱟᱜ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ᱵᱟᱝ ᱫᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
+    .message = ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩᱭ ᱢᱮ { -brand-short-name } ᱟᱨ ᱟᱢᱟᱜ ᱵᱮᱠᱟᱯ ᱫᱚᱦᱲᱟ ᱛᱮ ᱨᱤᱥᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = ᱦᱢᱢᱢ, ᱵᱮᱠ ᱟᱯ ᱨᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
+    .message = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱴᱤᱯᱤᱡ ᱛᱟᱭᱚᱢ ᱫᱚᱦᱲᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ᱾
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = ᱟᱢᱟᱜ ᱥᱮᱱᱥᱮᱴᱤᱵᱷ ᱰᱟᱴᱟ ᱵᱮᱠ ᱟᱯ ᱢᱮ
+enable-backup-encryption-support-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+enable-backup-encryption-create-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚᱦᱲᱟᱭ ᱢᱮ
+enable-backup-encryption-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+enable-backup-encryption-confirm-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
