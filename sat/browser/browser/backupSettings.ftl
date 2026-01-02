@@ -35,3 +35,27 @@ settings-data-backup-last-backup-date = ᱢᱩᱪᱟᱹᱫ ᱵᱮᱠᱚᱯ: { DA
 settings-data-backup-last-backup-location = ᱴᱷᱟᱶ
 settings-data-backup-last-backup-location-show-in-folder = ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 settings-data-backup-last-backup-location-edit = ᱥᱟᱯᱲᱟᱣ ᱢᱮ…
+settings-data-create-backup-error = ᱟᱢᱟᱜ ᱵᱮᱠᱟᱯ ᱵᱮᱱᱟᱣ ᱨᱮ ᱦᱩᱰᱟᱹᱜ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱨ ᱯᱮᱭᱢᱮᱱᱴ ᱦᱚᱨᱟ ᱨᱮᱭᱟᱜ ᱵᱮᱠ ᱟᱯ ᱢᱮ, ᱟᱨ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱰᱟᱴᱟ ᱮᱱᱠᱨᱤᱯᱥᱚᱱ ᱥᱟᱶᱛᱮ ᱨᱚᱯᱟ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = ᱨᱮᱫ ᱧᱩᱛᱩᱢ: { $fileName }
+settings-data-backup-restore-header = ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱫᱚᱦᱚᱭ ᱢᱮ
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { -brand-product-name } ᱵᱮᱠᱟᱯ ᱵᱮᱵᱷᱟᱨ ᱢᱮ᱾
+settings-data-backup-scheduled-backups-off-restore-choose = ᱵᱮᱠᱟᱯ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ...
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = ᱟᱢᱟᱜ { -brand-product-name } ᱰᱟᱴᱟ ᱢᱩᱪᱟᱹᱫ ᱫᱷᱟᱣ ᱠᱷᱚᱱ ᱨᱩᱣᱟᱹᱲ ᱢᱮ ᱡᱚᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱵᱮᱠ ᱟᱯ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾
+settings-data-backup-scheduled-backups-on-restore-choose = ᱫᱩᱦᱲᱟᱹ ᱡᱚᱜᱟᱣ…
+settings-data-toggle-encryption-label = ᱟᱢᱟᱜ ᱥᱮᱱᱥᱮᱴᱤᱵᱷ ᱰᱟᱴᱟ ᱵᱮᱠ ᱟᱯ ᱢᱮ
+settings-data-toggle-encryption-support-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+settings-data-change-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱚᱫᱚᱞ ᱢᱮ…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = ᱵᱮᱠᱟᱯ ᱪᱟᱹᱞᱩᱭ ᱢᱮ
+turn-on-scheduled-backups-description = { -brand-short-name } 24 ᱴᱟᱲᱟᱝ ᱯᱤᱪᱷᱤ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱱᱮᱯᱥᱚᱴ ᱛᱮᱭᱟᱨᱚᱜᱼᱟ᱾ ᱟᱢ ᱱᱚᱣᱟ ᱫᱚᱦᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱩᱫᱤ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱛᱟᱦᱮᱱ ᱠᱷᱟᱱ ᱟᱨ ᱵᱟᱝ ᱟᱢ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱧᱟᱢ ᱠᱷᱟᱱ ᱾

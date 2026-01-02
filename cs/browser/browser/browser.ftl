@@ -1106,7 +1106,7 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Otevřít obraz v obraze ({ $shortcut })
+    .tooltiptext = Zobrazit video jako obraz v obraze ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Zavřít obraz v obraze ({ $shortcut })
 picture-in-picture-panel-header = Obraz v obraze
