@@ -159,3 +159,9 @@ enable-backup-encryption-create-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
 enable-backup-encryption-repeat-password-label = ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚᱦᱲᱟᱭ ᱢᱮ
 enable-backup-encryption-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 enable-backup-encryption-confirm-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+change-backup-encryption-header = ᱵᱮᱠᱟᱯ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱚᱫᱚᱞ ᱢᱮ
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱞᱟᱹᱠᱛᱤᱜ ᱠᱟᱱᱟ
+password-rules-length-description = ᱠᱚᱢ ᱥᱮ ᱠᱚᱢ ᱘ ᱪᱤᱠᱤ
