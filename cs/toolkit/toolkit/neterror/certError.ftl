@@ -144,6 +144,10 @@ fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvi
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje této stránce, protože to vypadá, že poskytnutý certifikát bude platný až po  { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Pokud je vše v pořádku, je problém se zabezpečením pravděpodobně na straně samotné stránky. Pokud je hodnota nesprávná, můžete ji změnit v systémovém nastavení zařízení.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
