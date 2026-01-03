@@ -528,6 +528,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = 您并未安全地连接至此网站。
 identity-connection-verified = 您已安全地连接至此网站。
 identity-ev-owner-label = 证书颁发给：
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = 符合 (EU) 2024/1183 法规规范。
 identity-description-custom-root2 = Mozilla 不认识此证书颁发者。它可能是由您的操作系统或管理员身份添加。
 identity-remove-cert-exception =
     .label = 移除例外

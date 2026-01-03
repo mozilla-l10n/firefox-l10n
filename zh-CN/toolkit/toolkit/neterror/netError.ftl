@@ -187,6 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } 不信
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = 请确认您正在使用最新版本的 { -brand-short-name }，方法是在菜单中前往“帮助”>“关于 { -brand-short-name }”查看。如果您已使用最新版 { -brand-short-name }，那么可能是网站自身存在问题。
 fp-neterror-offline-what-can-you-do-body = 请尝试通过其他设备连接、检查调制解调器或路由器、断开 Wi-Fi 连接后重新连接。
+fp-neterror-http-auth-disabled-what-can-you-do-body = 尝试将网址改为 HTTPS（虽然很可能网站自身就存在问题）。
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 有时网站会为自身设置保护措施，阻止与其他网站进行非预期的交互。
 fp-learn-more-about-https-connections = 了解 HTTPS 连接

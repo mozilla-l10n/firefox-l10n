@@ -405,6 +405,11 @@ settings-translations-header =
     .description = 翻译页面或选中的文本。为保护隐私，译文不会离开您的设备。
 settings-translations-offer-to-translate-label =
     .label = 询问是否翻译整页
+settings-translations-more-settings-button =
+    .label = 更多翻译设置
+    .description = 设置语言、网站和离线翻译首选项。
+settings-translations-subpage-header =
+    .heading = 更多翻译设置
 settings-translations-subpage-speed-up-translation-header =
     .label = 加快翻译速度
     .description = 下载完整语言包以加快翻译速度，并可离线翻译。
@@ -430,14 +435,32 @@ settings-translations-subpage-download-languages-select-option =
 settings-translations-subpage-download-languages-button =
     .aria-label = 下载语言包
     .title = 下载语言包
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language }（{ $size }MB）
+    .label = { $language }（{ $size }MB）
 settings-translations-subpage-no-languages-downloaded =
     .label = 尚未下载语言
+settings-translations-subpage-no-languages-added =
+    .label = 未添加语言
+settings-translations-subpage-download-progress = 正在下载…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = 无法下载{ $language }（{ $size }MB）
 settings-translations-subpage-download-retry-button =
     .label = 重试
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = 确定要删除{ $language }（{ $size }MB）吗？
 settings-translations-subpage-download-delete-button =
     .label = 删除
 settings-translations-subpage-download-cancel-button =
     .label = 取消
+settings-translations-subpage-no-sites-added =
+    .label = 未添加网站
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -667,6 +690,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = 启用画中画视频控件
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = 切换标签页后继续播放画中画视频
+    .accesskey = s
 browsing-picture-in-picture-learn-more = 详细了解
 browsing-media-control =
     .label = 通过键盘、耳机或虚拟界面控制媒体
@@ -1048,6 +1074,16 @@ sync-signedin-login-failure = 请登录以重新绑定 { $email }
 sync-signedin-login-failure2 =
     .label = 您已退出登录 { $email }
     .description = 再次登录以重新连接并开始同步您的数据。
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
