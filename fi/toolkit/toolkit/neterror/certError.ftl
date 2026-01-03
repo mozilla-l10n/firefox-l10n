@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } varoittaa tästä sivustosta, koska sivustolle { $hostname } annettu varmenne on kumottu eikä siihen enää luoteta.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Luultavasti et mitään, koska ongelma on todennäköisesti itse sivustossa. Voit olla yhteydessä verkkosivuston omistajaan ja kysyä, ovatko he aikeissa korjata ongelman.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -88,6 +90,8 @@ fp-certerror-bad-domain-what-can-you-do-body = Luultavasti et mitään, koska to
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } varoittaa tästä sivustosta, koska sivustolle { $hostname } annetun varmenteen on myöntänyt varmentaja, johon ei enää luoteta.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Luultavasti et mitään, koska ongelma on todennäköisesti itse sivustossa. Voit olla yhteydessä verkkosivuston omistajaan ja kysyä, ovatko he aikeissa korjata ongelman.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Sivuston varmenteessa on ongelma. On mahdollista, että pahantahtoinen taho yrittää esiintyä sivustona. Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska emme voi tietää, kuka on myöntänyt varmenteen, varmenne on itse allekirjoitettu tai sivusto ei lähetä välivarmenteita, joihin luotamme.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -124,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Luultavasti ei mitään, koska 
 fp-learn-more-about-secure-connection-failures = Lue lisää suojatun yhteyden virheistä
 fp-learn-more-about-cert-issues = Lue lisää tällaisista varmenneongelmista
 fp-learn-more-about-time-related-errors = Lue lisää aikaan liittyvien virheiden vianetsinnästä
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne ei ole voimassa ennen { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Laitteesi kello on asetettu aikaan { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Jos tämä on oikein, tietoturvaongelma on todennäköisesti itse sivustossa. Jos kellonaika tai päivä on väärin, voit muuttaa päiväyksen asetuksia laitteesi järjestelmäasetuksissa.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
