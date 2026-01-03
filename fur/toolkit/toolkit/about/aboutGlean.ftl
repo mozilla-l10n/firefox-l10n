@@ -154,6 +154,13 @@ about-glean-metrics-table-settings-category-visualizations = Visualizazions
 about-glean-metrics-table-settings-visualization-example = Esempli
 about-glean-metrics-table-settings-category-visualizations-histogram = Istogram
 about-glean-metrics-table-settings-histograms-chart-max = Altece massime grafic
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Altece massime par dopo tacâ a ridimensionâ
+about-glean-metrics-table-settings-histograms-box-padding = Margjin dal ricuadri
+about-glean-metrics-table-settings-histograms-chart-padding = Margjin dal grafic
+about-glean-metrics-table-settings-histograms-left-padding = Margjin in plui a çampe
+about-glean-metrics-table-settings-category-visualizations-timeline = Secuence temporâl
+about-glean-metrics-table-settings-timelines-height = Altece
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtre
 # This message sits alongside an input field, further describing its purpose.
