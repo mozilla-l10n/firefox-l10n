@@ -120,6 +120,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Zasebno brskanje
+popups-infobar-dont-show-message2 =
+    .label = Ne prikaži tega sporočila ob blokiranju pojavnih oken ali preusmeritev tretjih strani
+    .accesskey = N
 
 ##
 

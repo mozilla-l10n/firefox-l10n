@@ -35,6 +35,7 @@ settings-data-backup-last-backup-date = Zadnja varnostna kopija: { DATETIME($dat
 settings-data-backup-last-backup-location = Mesto
 settings-data-backup-last-backup-location-show-in-folder = Prikaži v mapi
 settings-data-backup-last-backup-location-edit = Uredi …
+settings-data-create-backup-error = { DATETIME($date, dateStyle: "short") } ob { DATETIME($date, timeStyle: "short") } je prišlo do napake
 settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačila ter ohranite vse svoje podatke s šifriranjem.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
