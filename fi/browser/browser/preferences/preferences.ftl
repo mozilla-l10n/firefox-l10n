@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrastiasetukset ohittavat verkkosivuston ulkoasun.
 preferences-web-appearance-link =
     .label = Hallinnoi { -brand-short-name }in teemoja Laajennukset ja teemat -osiossa
+preferences-contrast-control-group =
+    .label = Verkkosivuston kontrasti
+    .description = Verkkosivustot käyttävät vaihtelevia edusta- ja taustavärejä. Yhtenäisen kontrastin vuoksi voit käyttää samoja värejä eri verkkosivustoilla.
 preferences-contrast-control-radio-group =
     .label = Ohita värit
 # This can appear when using windows HCM or "Override colors: always" without
@@ -406,6 +409,9 @@ settings-translations-header =
     .description = Käännä sivuja tai valittu teksti. Yksityisyytesi suojaamiseksi käännökset pysyvät laitteellasi.
 settings-translations-offer-to-translate-label =
     .label = Tarjoa koko sivun käännöstä
+settings-translations-more-settings-button =
+    .label = Lisää käännösasetuksia
+    .description = Määritä kieleen, verkkosivustoihin ja yhteydettömän tilan käännöksiin liittyvät asetukset.
 settings-translations-subpage-header =
     .heading = Lisää käännösasetuksia
 settings-translations-subpage-speed-up-translation-header =
@@ -626,6 +632,11 @@ update-in-progress-cancel-button = &Jatka
 
 ## Firefox support
 
+support-application-heading =
+    .label = { -brand-short-name }-tuki
+    .description = Selvitä ongelmia tai jaa ideoita yhteisön kanssa.
+support-get-help =
+    .label = Tuki
 support-share-ideas =
     .label = Jaa ideoita ja palautetta
 
@@ -899,6 +910,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Näytä hakuehdotukset osoitepalkkihauissa
     .accesskey = o
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Näytä hakuehdotukset ennen selaushistoriaa osoitepalkin tuloksissa
+search-show-suggestions-private-windows-2 =
+    .label = Hakuehdotukset yksityisissä ikkunoissa
 search-suggestions-cant-show-2 =
     .message = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 addressbar-header-1 =
@@ -912,8 +932,13 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Näytä hakuehdot tulossivujen osoitepalkissa
+search-separate-default-engine-2 =
+    .label = Käytä eri oletushakukonetta yksityisissä ikkunoissa
+    .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Oletushakukone yksityisissä ikkunoissa
+search-suggestions-header-2 =
+    .label = Hakukoneen ehdotukset
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -990,6 +1015,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronointi
+account-group-label =
+    .label = { -vendor-short-name }-tili
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -999,6 +1026,9 @@ sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet,
 sync-signedout-account-signin3 =
     .label = Kirjaudu synkronoidaksesi…
     .accesskey = K
+sync-signedout-account-short =
+    .label = Kirjaudu sisään
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1602,6 +1632,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Pikatoiminnot
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Viimeisimmät haut
+    .accesskey = V
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Nousussa olevat hakuehdotukset
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Ehdotuksia palvelusta { -brand-short-name }
@@ -1638,6 +1674,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Hylätyt ehdotukset
     .description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Palauta ehdotukset
 addressbar-quickactions-learn-more = Lue lisää
 addressbar-dismissed-suggestions-label = Hylätyt ehdotukset
 addressbar-restore-dismissed-suggestions-description = Palauta sponsorien ja { -brand-short-name }in hylätyt ehdotukset.

@@ -187,4 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } ei luo
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Varmista, että käytät { -brand-short-name }in uusinta versiota. Siirry valikossa kohtaan Ohje > Tietoja: { -brand-short-name }. Jos käytät { -brand-short-name }in uusinta versiota, ongelma on mitä todennäköisimmin itse sivustossa.
 fp-neterror-offline-what-can-you-do-body = Yritä muodostaa yhteys toisella laitteella. Tarkista modeemi tai reititin. Katkaise Wi-Fi-yhteys ja yhdistä se uudelleen.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Kokeile vaihtaa URL-osoite HTTPS:ksi. Todennäköisesti ongelma on silti itse sivustossa.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Joskus verkkosivustot asettavat suojan itselleen ei-toivotulta vuorovaikutukselta muiden sivustojen kanssa.
 fp-learn-more-about-https-connections = Lisätietoja HTTPS-yhteyksistä
