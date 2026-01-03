@@ -60,7 +60,7 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
 ## The "control" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-second-sentence-control = Registrujće so najprjedy abo přizjewće so pola swojeho konta, zo byšće e-mejlowu masku wužiwał
-firefox-relay-offer-legal-notice-control = Hdyž so registrujeće a e-mejlowu masku wutworjeće, zwoliće do <label data-l10n-name="tos-url">>wužiwanskich wuměnjenjow</label>> a <label data-l10n-name="privacy-url">zdźělenki priwatnosće</label>.
+firefox-relay-offer-legal-notice-control = Hdyž so registrujeće a e-mejlowu masku wutworjeće, zwoliće do <label data-l10n-name="tos-url">wužiwanskich wuměnjenjow</label> a <label data-l10n-name="privacy-url">zdźělenki priwatnosće</label>.
 
 ## The "basic-info" variation of the Relay offer popup
 
