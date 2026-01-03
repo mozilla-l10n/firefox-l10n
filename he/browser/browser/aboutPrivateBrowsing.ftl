@@ -67,6 +67,7 @@ about-private-browsing-pin-promo-title = ללא עוגיות או היסטורי
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = כרזות עוגיות, שחררו אותי!
 about-private-browsing-cookie-banners-promo-button = צמצום כרזות עוגיות
+about-private-browsing-cookie-banners-promo-message = אפשר לתת ל־{ -brand-short-name } לענות אוטומטית לחלונות קופצים בנוגע לעוגיות כדי שיהיה אפשר לחזור לגלישה נטולת הסחות דעת. { -brand-short-name } ידחה את כל הבקשות במידת האפשר.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = ‏{ -brand-short-name } מטפל בכרזות העוגיות עבורך
