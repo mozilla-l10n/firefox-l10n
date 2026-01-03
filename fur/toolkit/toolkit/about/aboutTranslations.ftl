@@ -4,6 +4,18 @@
 
 # The title of the about:translations page.
 about-translations-title = Traduzions in { -brand-short-name }
+# The brief description of the Translations functionality on the page.
+about-translations-description = Traduzions istantaniis che a rispietin la tô riservatece.
+about-translations-learn-more-link = Plui informazions
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = La funzion di traduzion no je disponibile su chest dispositîf.
+    .message = Prove a passâ suntun altri dispositîf.
+about-translations-unsupported-info-button = Plui informazions
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Impussibil cjariâ lis lenghis.
+    .message = Verifiche la conession a internet e torne prove.
 about-translations-language-load-error-button = Torne prove
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
@@ -38,3 +50,6 @@ about-translations-translating-message = Daûr a tradusi…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Scambie lis lenghis
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Nete vie il test sorzint

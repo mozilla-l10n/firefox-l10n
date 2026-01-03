@@ -21,6 +21,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro více sloupců.
 inactive-css-column-span = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se nenachází uvnitř vícesloupcového kontejneru.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem zobrazení grid ani flex.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se nejedná o prvek typu grid nebo flex, ani o absolutně pozicovaný prvek.
+inactive-css-not-grid-or-absolutely-positioned-item = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se nejedná o prvek typu grid ani o absolutně pozicovaný prvek.
 inactive-css-not-grid-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem zobrazení grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid.
 inactive-css-not-flex-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože prvkem zobrazení flex.
@@ -63,6 +65,7 @@ inactive-css-ruby-element = Vlastnost <strong>{ $property }</strong> nemá na te
 
 inactive-css-highlight-pseudo-elements-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na zvýrazněných pseudoprvcích.
 inactive-css-cue-pseudo-element-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na pseudoprvcích ::cue.
+inactive-css-at-position-try-not-supported = Vlastnost <strong>{ $property }</strong> není podporována v pravidlech <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -86,6 +89,7 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Zkuste přidat <strong>di
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Zkuste přidat buď <strong>column-count</strong> nebo <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Zkuste přidat <strong>column-count</strong> nebo <strong>column-width</strong> k jednomu z jejich nadřazených prvků. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Zkuste k prvku přidat <strong>position:absolute</strong> nebo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> > nebo <strong>display:inline-flex</strong> k rodiči prvku. { learn-more }
 inactive-css-not-grid-or-absolutely-positioned-item-fix = Zkuste přidat <strong>position:absolute</strong> k prvku nebo <strong>display:grid</strong> či <strong>display:inline-grid</strong> k rodiči prvku. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku. { learn-more }
 inactive-css-not-grid-item-fix-2 = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:inline-grid</strong> k rodiči tohoto prvku. { learn-more }

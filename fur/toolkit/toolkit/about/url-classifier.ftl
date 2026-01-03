@@ -14,6 +14,7 @@ url-classifier-search-result-list = Liste di tabelis: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL no valit
 url-classifier-search-error-no-features = Nissune funzionalitât selezionade
+url-classifier-search-error-no-results = Nissun element cjatât pal URL
 url-classifier-search-btn = Scomence la ricercje
 url-classifier-search-features = Funzionalitâts
 url-classifier-search-listType = Gjenar di liste
