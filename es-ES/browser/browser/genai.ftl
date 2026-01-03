@@ -230,9 +230,13 @@ link-preview-reading-time =
        *[other] { $range } minutos de tiempo de lectura
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } no puede mostrar una vista previa de este enlace
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = No podemos previsualizar este enlace
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar enlace
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } no puede generar los puntos clave de esta página web.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = No podemos generar los puntos clave de esta página web.
 # Error message when something went wrong during key point generation

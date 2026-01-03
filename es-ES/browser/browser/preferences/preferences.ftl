@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Sus ajustes de contraste prevalecen sobre la apariencia del sitio web.
 preferences-web-appearance-link =
     .label = Administre los temas de { -brand-short-name } en Extensiones y temas
+preferences-contrast-control-group =
+    .label = Contraste de sitios web
+    .description = Los sitios web utilizan una variedad de colores de primer plano y de fondo. Para lograr un contraste uniforme, puede utilizar los mismos colores en todos los sitios web.
+preferences-contrast-control-radio-group =
+    .label = Reemplazar colores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Sus selecciones de color anulan la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
@@ -398,6 +403,20 @@ translate-attribution = Traducciones de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-header =
+    .label = Traducciones
+    .aria-label = Traducciones
+    .description = Traduzca páginas o texto seleccionado. Para proteger su privacidad, las traducciones permanecen en su dispositivo.
+settings-translations-offer-to-translate-label =
+    .label = Ofrecer traducción de página completa
+settings-translations-more-settings-button =
+    .label = Más ajustes de traducción
+    .description = Configure las preferencias de idiomas, sitios web y traducción sin conexión.
+settings-translations-subpage-header =
+    .heading = Más ajustes de traducción
+settings-translations-subpage-speed-up-translation-header =
+    .label = Acelerar la traducción
+    .description = Descargue idiomas completos para traducir más rápido y sin conexión.
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
