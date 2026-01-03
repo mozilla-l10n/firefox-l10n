@@ -90,6 +90,8 @@ fp-certerror-bad-domain-what-can-you-do-body = Forsit nol è nuie, viodût che a
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ti sta metint in vuaite in merit a chest sît parcè che il certificât dât par { $hostname } al è stât dât fûr di une autoritât di certificazion che no je plui afidabile.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Forsit nuie, stant che al è probabil che al sedi un probleme cul sît stes. Tu puedis contatâ il proprietari dal sît web par verificâ se lu stan za cirint di risolvi.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Al è vignût fûr un probleme cul certificât dal sît. Al è pussibil che un malintenzionât al stedi cirint di sostituîsi al sît. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } al pense che chest sît nol sedi atendibil parcè che nol è pussibil stabilî cui che al à dât fûr il certificât, il certificât al è firmât in autonomie o il sît nol sta inviant certificâts intermedis atendibii.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -126,6 +128,10 @@ fp-certerror-transparency-what-can-you-do-body = Forsit nuie, stant che al è pr
 fp-learn-more-about-secure-connection-failures = Scuvierç di plui sui erôrs des conessions siguris
 fp-learn-more-about-cert-issues = Scuvierç di plui su chescj gjenars di problemis sui certificâts
 fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai problemis relatîfs a date e ore
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no si fide di chest sît parcè che al somee che il certificât dât al sedi valit dome des { DATETIME($date, timeStyle: "short") } dal { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
