@@ -161,6 +161,10 @@ about-glean-metrics-table-settings-histograms-chart-padding = Margjin dal grafic
 about-glean-metrics-table-settings-histograms-left-padding = Margjin in plui a çampe
 about-glean-metrics-table-settings-category-visualizations-timeline = Secuence temporâl
 about-glean-metrics-table-settings-timelines-height = Altece
+about-glean-metrics-table-settings-timelines-width = Largjece
+about-glean-metrics-table-settings-timelines-chart-padding = Margjin dal grafic
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Rai dal cercli
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtre
 # This message sits alongside an input field, further describing its purpose.
