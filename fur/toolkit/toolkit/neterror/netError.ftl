@@ -168,11 +168,19 @@ certerror-coep-learn-more = Altris informazions su lis politichis COEP (Cross Or
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Codiç di erôr: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Al somee che al sedi presint un probleme cu la conession a internet
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = { -brand-short-name } nol rive a creâ une conession sigure cul servidôr { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } nol rive a conetisi al servidôr <strong>{ $hostname }</strong>
 fp-neterror-http-auth-disabled-secure-connection = Chest sît al domande une conession sigure e no tu puedis zontâ une ecezion par visitâlu.
 fp-neterror-why-did-this-happen = Parcè isal sucedût?
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = Al somee che chest sît al dopri un software vieri cun problemis di sigurece cognossûts.
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nol considere { $hostname } atendibil parcè che la conession no je sigure.
 fp-neterror-offline-what-can-you-do-body = Prove a conetiti di un altri dispositîf, controle il modem o il router. Disconetiti e torne a conetiti al Wi-Fi.
 fp-neterror-http-auth-disabled-what-can-you-do-body = Prove a cambiâ l’URL doprant HTTPS. Ma al è probabil che il probleme al sedi il sît stes.
