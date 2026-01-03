@@ -1075,7 +1075,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } no está verificado.
+sync-signedin-unverified2 =
+    .label = { $email } todavía no está confirmado
+    .description = Revise su bandeja de entrada para confirmar su cuenta y hacerla oficial.
 sync-signedin-login-failure = Inicie sesión para reconectar { $email }
+sync-signedin-login-failure2 =
+    .label = Ha cerrado sesión en { $email }
+    .description = Vuelva a iniciar sesión para volver a conectarse y comenzar a sincronizar sus datos.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
