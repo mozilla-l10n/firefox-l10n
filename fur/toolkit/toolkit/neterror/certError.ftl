@@ -132,6 +132,10 @@ fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no si fide di chest sît parcè che al somee che il certificât dât al sedi valit dome des { DATETIME($date, timeStyle: "short") } dal { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orloi dal to dispositîf al è metût su { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se al è just, al è probabil che il probleme di sigurece al sedi dal sît stes. Se l'orloi al è sbaliât, tu puedis modificâlu tes impostazions di sisteme dal dispositîf.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -213,3 +217,4 @@ fp-certerror-hide-advanced-button = Plate avanzadis
 fp-certerror-override-exception-button = Continue su { $hostname } (pericolôs)
 fp-certerror-intro = { -brand-short-name } al à cjatât un potenziâl probleme di sigurece cun <strong>{ $hostname }</strong>. Un sogjet che al fâs fente di jessi il sît al podarès cirî di robâ informazions su cjartis di credit, passwords o e-mails.
 fp-certerror-expired-into = { -brand-short-name } al à cjatât un probleme di sigurece cun <strong>{ $hostname }</strong>. Il sît nol è configurât in maniere juste opûr l’orloi dal dispositîf al è metût suntune date/ore sbaliade.
+fp-certerror-transparency-intro = Cualchidun che al fâs fente di jessi <strong>{ $hostname }</strong> al podarès cirî di robâ detais come lis informazions su lis cjartis di credit, passwords o e-mails.

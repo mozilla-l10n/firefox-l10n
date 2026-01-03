@@ -84,6 +84,17 @@ unified-extensions-mb-blocklist-error-single =
     .message = Bu uzantı Mozilla’nın politikalarını ihlal ettiği için devre dışı bırakıldı.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } uzantı devre dışı bırakıldı
+           *[other] { $extensionsCount } uzantı devre dışı bırakıldı
+        }
+    .message =
+        Bazı uzantılarınız kısıtlandığı için devre dışı bırakıldı.
+        Bu uzantıları ayarlardan etkinleştirebilirsiniz ama bu işlem riskli olabilir.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
     .heading =
         { $extensionsCount ->

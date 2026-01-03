@@ -327,6 +327,9 @@ preferences-web-appearance-override-warning3 =
     .message = Kontrast denetimi ayarlarınız web sitesi görünümünü geçersiz kılıyor.
 preferences-web-appearance-link =
     .label = { -brand-short-name } temalarını Uzantılar ve Temalar sayfasından yönetebilirsiniz.
+preferences-contrast-control-group =
+    .label = Web sitesi kontrastı
+    .description = Web siteleri çeşitli ön plan ve arka plan renkleri kullanır. Tutarlı bir kontrast için tüm sitelerde aynı renkleri kullanabilirsiniz.
 preferences-contrast-control-radio-group =
     .label = Renkleri geçersiz kıl
 # This can appear when using windows HCM or "Override colors: always" without
