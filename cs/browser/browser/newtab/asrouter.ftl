@@ -628,5 +628,10 @@ set-default-menu-message-row-layout-title-variant =
        *[no-cases] Nastavit aplikaci { -brand-short-name } jako výchozí prohlížeč
     }
 set-default-menu-message-row-layout-subtitle = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Mějte { -brand-short-name } vždy po ruce — nastavte si jej jako výchozí a mějte jej v panelu úloh.
+       *[other] Mějte { -brand-short-name } vždy po ruce — nastavte si jej jako výchozí a mějte jej na hlavním panelu.
+    }
 set-default-menu-message-primary-button = Nastavit jako výchozí
 set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlížeč
