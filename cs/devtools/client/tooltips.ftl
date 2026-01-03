@@ -144,3 +144,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Zjistit více
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Tento selektor používá neomezené <strong>:has()</strong>, které může být pomalé
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Sourozenecké selektory po <strong>:scope</strong> nebudou nikdy odpovídat ničemu

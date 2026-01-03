@@ -84,10 +84,22 @@ fp-certerror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } vás upozorňuje na tuto stránku, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není nadále důvěryhodný.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že je problém se samotným webem. Kontaktujte vlastníka webové stránky, zda na problému nepracuje.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Web je nastaven tak, aby umožňoval pouze zabezpečená připojení, ale s certifikátem webu je problém. Je možné, že se za web pokouší vydávat někdo jiný. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože jeho certifikát není pro server { $hostname } platný. Certifikát je platný pouze pro: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že problém je v samotném webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. Pokud jste ale ve firemní síti, může mít tým podpory více informací. Pokud používáte antivirový software, zkuste vyhledat možné konflikty nebo známé problémy.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } vás upozorňuje na tento server, protože použitý certifikát pro server { $hostname } byl vydán nedůvěryhodnou certifikační autoritou.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že je problém se samotným webem. Kontaktujte vlastníka webové stránky, zda na problému nepracuje.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Na webu je problém s certifikátem. Je možné, že se za web pokouší vydávat někdo jiný. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože nemůžeme určit, kdo certifikát vydal, je podepsán vlastní autoritou nebo web neposílá zprostředkující certifikáty, kterým důvěřujeme.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -128,6 +140,10 @@ fp-certerror-transparency-what-can-you-do-body = Pravděpodobně nic, protože j
 fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného připojení
 fp-learn-more-about-cert-issues = Zjistěte více o těchto typech problémů s certifikáty
 fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvisejících s časem
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje této stránce, protože to vypadá, že poskytnutý certifikát bude platný až po  { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

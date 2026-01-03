@@ -167,3 +167,11 @@ certerror-coep-learn-more = Altris informazions su lis politichis COEP (Cross Or
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Codiç di erôr: { $responsestatus } { $responsestatustext }
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-http-auth-disabled-secure-connection = Chest sît al domande une conession sigure e no tu puedis zontâ une ecezion par visitâlu.
+fp-neterror-why-did-this-happen = Parcè isal sucedût?
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nol considere { $hostname } atendibil parcè che la conession no je sigure.
+fp-neterror-offline-what-can-you-do-body = Prove a conetiti di un altri dispositîf, controle il modem o il router. Disconetiti e torne a conetiti al Wi-Fi.
