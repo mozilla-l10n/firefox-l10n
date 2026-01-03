@@ -76,10 +76,22 @@ fp-certerror-return-to-previous-page-recommended-button = Pojdi nazaj (priporoč
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } vas svari pred obiskom tega spletnega mesta, ker je bilo digitalno potrdilo, ki ga uporablja { $hostname }, preklicano in se mu ne zaupa več.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Najverjetneje ničesar, saj je verjetno težava v samem spletnem mestu. Preverite lahko pri skrbniku spletnega mesta, ali rešujejo težavo.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Stran je nastavljena tako, da dovoljuje samo varne povezave, vendar je prišlo do težave s potrdilom strani. Možno je, da to spletno mesto poskuša nekdo oponašati. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker njegovo potrdilo ni veljavno za { $hostname }. Potrdilo je veljavno samo za: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Verjetno nič, saj je lahko težava v samem spletnem mestu. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. Če uporabljate omrežje podjetja, ima morda ekipa za podporo več podatkov. Če uporabljate protivirusno programsko opremo, poskusite z iskanjem morebitnih neskladij ali znanih težav.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } vas svari pred obiskom tega spletnega mesta, ker je digitalno potrdilo, ki ga uporablja { $hostname }, izdal overitelj, ki več ne uživa zaupanja.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Najverjetneje ničesar, saj je verjetno težava v samem spletnem mestu. Preverite lahko pri skrbniku spletnega mesta, ali rešujejo težavo.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Prišlo je do težave s potrdilom spletnega mesta. Možno je, da to spletno mesto poskuša nekdo oponašati. Spletna mesta uporabljajo potrdila, ki jih izda overitelj potrdil, da dokažejo, da so resnično to, za kar se izdajo. { -brand-short-name } ne zaupa temu spletnemu mestu, ker ne moremo ugotoviti, kdo je izdal potrdilo, ker je samopodpisano, ali mesto ne pošilja vmesnih potrdil, ki jim zaupamo.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -116,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Najverjetneje ničesar, saj je 
 fp-learn-more-about-secure-connection-failures = Več o neuspelih varnih povezavah
 fp-learn-more-about-cert-issues = Več o tovrstnih težavah z digitalnimi potrdili
 fp-learn-more-about-time-related-errors = Več o odpravljanju s časom povezanih napak
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne zaupa temu spletnemu mestu, ker je videti, da predloženo potrdilo začne veljati šele ob { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric ", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ura vaše naprave je nastavljena na { DATETIME($date, timeStyle: "short") }, { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Če je nastavitev pravilna, je težava verjetno v samem spletnem mestu. Če sta datum in ura napačna, ju lahko popravite v sistemskih nastavitvah naprave.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

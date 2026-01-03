@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Ta stran je zavajajoča
 safeb-blocked-malware-page-title = Obisk te spletne strani lahko škoduje vašemu računalniku
 safeb-blocked-unwanted-page-title = Ta stran lahko vsebuje škodljive programe
 safeb-blocked-harmful-page-title = Ta stran morda vsebuje zlonamerno programsko opremo
+safeb-blocked-addon-page-title = Stran je zaradi vaše varnosti blokirana
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } je zavrnil to stran, ker vas lahko napelje k nevarnemu dejanju, kot je namestitev programske opreme ali razkritje osebnih podatkov, kot so gesla ali številke kreditnih kartic.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je zavrnil to stran, ker bo morda poskušala namesti zlonamerno programsko opremo, ki lahko ukrade ali izbriše osebne podatke na vašem računalniku.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je zavrnil to stran, ker vas lahko napelje k namestitvi programov, ki lahko škodujejo vaši izkušnji pri brskanju (npr. s spreminjanjem vaše domače strani ali prikazovanjem dodatnih oglasov na obiskanih straneh).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je zavrnil to stran, ker bo morda poskušala namestiti nevarne programe, ki kradejo ali brišejo osebne podatke (npr. fotografije, gesla, sporočila in številke kreditnih kartic).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } je blokiral to spletno stran, ker jo je poskušal odpreti eden izmed vaših dodatkov. Na tem spletnem mestu bi lahko ukradli vaše podatke, kot so gesla ali podatki o bančnem računu.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Nasvete ponuja <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Več o { -brand-short-name }ovi zaščit
 safeb-palm-notdeceptive =
     .label = To ni zavajajoča stran …
     .accesskey = z
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Zakaj je bila ta stran blokirana?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> se povezuje s škodljivimi in goljufivimi dejavnostmi.
+safeb-blocked-addon-page-error-desc3-override = <strong>Kaj lahko storite v zvezi s tem?</strong>
+safeb-blocked-addon-page-error-desc4-override = Da se to ne bi ponovilo, lahko odstranite ali onemogočite <strong>{ $addonName }</strong> na strani about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Več o { -brand-short-name }ovi zaščiti pred lažnim predstavljanjem in zlonamerno programsko opremo</a>.

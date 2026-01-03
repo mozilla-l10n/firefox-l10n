@@ -136,6 +136,7 @@ place-database-stats-efficiency-perc = Učinkovitost (%)
 place-database-stats-sequentiality-perc = Zaporednost (%)
 place-database-integrity = Celovitost
 place-database-verify-integrity = Preveri celovitost
+place-database-last-idle-maintenance-data = Datum zadnjega vzdrževalnega posega med nedejavnostjo
 a11y-title = Dostopnost
 a11y-activated = Vključeno
 a11y-force-disabled = Prepreči dostopnost

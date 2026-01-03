@@ -289,6 +289,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } je posodobil svojo zbirko barvnih kombinacije. Stare različice smo odstranili s seznama “Shranjene teme”. Poiščite nove različice na spletnem mestu dodatkov.
 colorway-removal-notice-learn-more = Več o tem
 colorway-removal-notice-button = Odkrijte posodobljene barvne kombinacije
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Nastavitve kontrasta sistema Windows so preglasile teme { -brand-short-name(sklon: "rodilnik") }. Če želite uporabljati { -brand-short-name }ove teme, izklopite te nastavitve.
 privacy-policy = Politika zasebnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

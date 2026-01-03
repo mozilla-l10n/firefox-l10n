@@ -154,6 +154,9 @@ startup-restore-warn-on-quit =
     .label = Opozori ob zapiranju brskalnika
 disable-extension =
     .label = Onemogoči razširitev
+preferences-data-migration-group =
+    .label = Uvoz podatkov brskalnika
+    .description = Prenesite zaznamke, shranjena gesla, zgodovino, razširitve in podatke za samodejno izpolnjevanje iz drugega brskalnika.
 preferences-data-migration-header = Uvoz podatkov brskalnika
 preferences-data-migration-description = Uvozite zaznamke, gesla, zgodovino in podatke za samodejno izpolnjevanje v { -brand-short-name(sklon: "tozilnik") }.
 preferences-data-migration-button =
@@ -396,6 +399,64 @@ translate-attribution = Prevode zagotavlja <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izjeme …
     .accesskey = I
+settings-translations-offer-to-translate-label =
+    .label = Ponujaj prevod celotnih strani
+settings-translations-more-settings-button =
+    .label = Več nastavitev prevajanja
+    .description = Nastavite možnosti jezikov, spletnih mest in prevajanja brez povezave.
+settings-translations-subpage-header =
+    .heading = Več nastavitev prevajanja
+settings-translations-subpage-speed-up-translation-header =
+    .label = Pospeši prevajanje
+    .description = Prenesite pakete jezikov za hitrejše prevajanje, ki deluje tudi brez internetne povezave.
+settings-translations-subpage-automatic-translation-header =
+    .label = Samodejno prevajanje
+settings-translations-subpage-always-translate-header =
+    .label = Vedno prevedi te jezike
+settings-translations-subpage-never-translate-header =
+    .label = Nikoli ne prevajaj teh jezikov
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nikoli ne prevajaj teh spletnih mest
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Spletno mesto dodate tako, da na plošči za prevode <img data-l10n-name="translations-icon"/> odprete nastavitve <img data-l10n-name="settings-icon"/> in izberete "Nikoli ne prevajaj tega spletnega mesta".
+settings-translations-subpage-language-select-option =
+    .label = Dodaj jezik
+settings-translations-subpage-language-add-button =
+    .aria-label = Dodaj jezik
+    .title = Dodaj jezik
+settings-translations-subpage-download-languages-header =
+    .label = Prenesi jezike
+settings-translations-subpage-download-languages-select-option =
+    .label = Izberi jezik
+settings-translations-subpage-download-languages-button =
+    .aria-label = Prenesi jezik
+    .title = Prenesi jezik
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ni prenesenih jezikov
+settings-translations-subpage-no-languages-added =
+    .label = Ni dodanih jezikov
+settings-translations-subpage-download-progress = Prenos poteka …
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Jezika { $language } ({ $size } MB) ni bilo mogoče prenesti
+settings-translations-subpage-download-retry-button =
+    .label = Poskusi znova
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Želite izbrisati jezik { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Izbriši
+settings-translations-subpage-download-cancel-button =
+    .label = Prekliči
+settings-translations-subpage-no-sites-added =
+    .label = Ni dodanih spletnih mest
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -563,6 +624,16 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
+## Firefox support
+
+support-application-heading =
+    .label = Podpora za { -brand-short-name }
+    .description = Odpravite težave ali delite svoje zamisli s skupnostjo.
+support-get-help =
+    .label = Poišči pomoč
+support-share-ideas =
+    .label = Sporoči zamisli in povratne informacije
+
 ## General Section - Performance
 
 performance-title = Učinkovitost
@@ -614,6 +685,9 @@ browsing-search-on-start-typing =
     .accesskey = k
 browsing-picture-in-picture-toggle-enabled =
     .label = Omogoči kontrolnike za sliko v sliki
+    .accesskey = s
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Ob preklopu na drug zavihek nadaljuj predvajanje videoposnetkov v načinu slike v sliki
     .accesskey = s
 browsing-picture-in-picture-learn-more = Več o tem
 browsing-media-control =
@@ -824,6 +898,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži predloge iskanja v rezultatih naslovne vrstice
     .accesskey = P
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Med rezultati naslovne vrstice prikaži predloge iskanja pred zgodovino brskanja
+search-show-suggestions-private-windows-2 =
+    .label = Predlogi iskanja v zasebnih oknih
 search-suggestions-cant-show-2 =
     .message = Predlogi iskanja v naslovni vrstici ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 addressbar-header-1 =
@@ -837,6 +920,8 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na strani z rezultati iskanja prikaži iskalni niz v naslovni vrstici
+search-suggestions-header-2 =
+    .label = Predlogi iskalnika
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -913,6 +998,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinhronizacija
+account-group-label =
+    .label = Račun { -vendor-short-name }
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -922,6 +1009,12 @@ sync-signedout-description2 = Sinhronizirajte zaznamke, zgodovino, zavihke, gesl
 sync-signedout-account-signin3 =
     .label = Prijava v sinhronizacijo …
     .accesskey = P
+sync-signedout-account-signin-4 =
+    .label = Za začetek sinhronizacije se prijavite v račun
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Prijava
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -962,6 +1055,16 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -980,6 +1083,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sinhronizacija: OMOGOČENO
+prefs-syncing-on-2 =
+    .label = Sinhronizacija je vključena
 prefs-syncing-off = Sinhronizacija: ONEMOGOČENO
 prefs-sync-turn-on-syncing =
     .label = Vklopi sinhronizacijo …
@@ -1007,6 +1112,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Naslednji podatki se sinhronizirajo med vsemi povezanimi napravami:
+sync-syncing-across-devices-heading-2 = Podatki, sinhronizirani med napravami
 sync-currently-syncing-bookmarks = zaznamki
 sync-currently-syncing-history = zgodovina
 sync-currently-syncing-tabs = odprti zavihki
@@ -1276,9 +1382,35 @@ autofill-payment-methods-add-button = Dodaj novo plačilno sredstvo
 payments-list-header =
     .label = Plačilna sredstva
 payments-list-item-label = <strong>Plačilna sredstva</strong>
+payments-delete-payment-prompt-title = Ali želite izbrisati to plačilno sredstvo?
+payments-delete-payment-prompt-confirm-button = Izbriši
+payments-delete-payment-prompt-cancel-button = Prekliči
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Ni dodanih plačilnih sredstev
 payments-remove-payment-prompt-title = Ali želite odstraniti to plačilno sredstvo?
 payments-remove-payment-prompt-confirm-button = Odstrani
 payments-remove-payment-prompt-cancel-button = Prekliči
+addresses-list-header =
+    .label = Naslovi
+addreses-delete-address-button-label =
+    .aria-label = Izbriši
+addreses-edit-address-button-label =
+    .aria-label = Uredi
+addresses-delete-address-prompt-title = Ali želite izbrisati ta naslov?
+addresses-delete-address-prompt-confirm-button = Izbriši
+addresses-delete-address-prompt-cancel-button = Prekliči
+autofill-addresses-add-button = Dodaj nov naslov
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ni dodanih naslovov
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1473,6 +1605,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = hitra dejanja
     .accesskey = h
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Nedavna iskanja
+    .accesskey = a
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
@@ -1509,6 +1644,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Skriti predlogi
     .description = Obnovi opuščene predloge oglaševalcev in { -brand-short-name(sklon: "rodilnik") }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Obnovi predloge
 addressbar-quickactions-learn-more = Več o tem
 addressbar-dismissed-suggestions-label = Skriti predlogi
 addressbar-restore-dismissed-suggestions-description = Obnovi opuščene predloge oglaševalcev in { -brand-short-name(sklon: "rodilnik") }.
@@ -1672,6 +1809,15 @@ permissions-autoplay = Samodejno predvajanje
 permissions-autoplay-settings =
     .label = Nastavitve …
     .accesskey = t
+permissions-block-popups2 =
+    .label = Blokiraj pojavna okna in preusmeritve tretjih strani
+    .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Upravljanje izjem za pojavna okna in preusmeritve tretjih strani
+    .accesskey = U
+    .searchkeywords = popup
 permissions-addon-install-warning2 =
     .label = Opozori, ko spletno mesto poskuša namestiti razširitev
     .accesskey = š

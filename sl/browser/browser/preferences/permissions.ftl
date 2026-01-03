@@ -21,6 +21,9 @@ permissions-session =
 permissions-allow =
     .label = Dovoli
     .accesskey = D
+permissions-add =
+    .label = Dodaj
+    .accesskey = D
 permissions-button-off =
     .label = Izključi
     .accesskey = I
@@ -92,6 +95,13 @@ permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS. Izjeme ne bodo veljale v zasebnih oknih.
 permissions-exceptions-https-only-desc2 = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS.
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Dovoljena spletna mesta – Pojavna okna in preusmeritve tretjih strani
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Določite lahko, katera spletna mesta lahko odpirajo pojavna okna in jih preusmerjajo okvirji s tretjimi stranmi.
 
 ## Exceptions - Pop-ups
 

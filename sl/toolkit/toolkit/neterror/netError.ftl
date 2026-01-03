@@ -177,8 +177,17 @@ fp-neterror-offline-body-title = Videti je, da obstaja težava z vašo internetn
 
 fp-neterror-connection-intro = { -brand-short-name } ne more vzpostaviti varne povezave s strežnikom na { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se ne more povezati s strežnikom na <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } ni naložil te strani, ker se zdi, da se njena varnostna nastavitev ne ujema s prejšnjo stranjo.
+fp-neterror-http-auth-disabled-intro = Nekdo, ki bi se izdajal za to spletno mesto, bi lahko poskušal ukrasti vaše uporabniško ime, geslo ali druge vnesene podatke.
+fp-neterror-http-auth-disabled-secure-connection = To spletno mesto zahteva varno povezavo, za obisk pa ne morete dodati izjeme.
+fp-neterror-why-did-this-happen = Zakaj se je to zgodilo?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Videti je, da to spletno mesto uporablja staro programsko opremo, ki ima znane varnostne težave.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } ne zaupa spletnemu mestu { $hostname }, ker povezava ni varna.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Prepričajte se, da uporabljate najnovejšo različico { -brand-short-name(sklon: "rodilnik") }: v meniju izberite Pomoč > O { -brand-short-name(sklon: "mestnik") }. Če uporabljate najnovejši { -brand-short-name(sklon: "tozilnik") }, je težava najverjetneje v samem spletnem mestu.
 fp-neterror-offline-what-can-you-do-body = Poskusite se povezati z drugo napravo. Preverite modem ali usmerjevalnik. Odklopite se in se ponovno povežite z Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Poskusite v spletnem naslovu spremeniti HTTP v HTTPS. Najverjetneje pa je težava v samem spletnem mestu.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Spletna mesta včasih nastavijo zaščito zase pred nehotenimi interakcijami z drugimi spletnimi mesti.
+fp-learn-more-about-https-connections = Več o povezavah HTTPS

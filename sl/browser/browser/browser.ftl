@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = Zasebno brskanje
 popups-infobar-dont-show-message2 =
     .label = Ne prikaži tega sporočila ob blokiranju pojavnih oken ali preusmeritev tretjih strani
     .accesskey = N
+edit-popup-settings2 =
+    .label = Upravljanje nastavitev pojavnih oken in preusmeritev tretjih strani …
+    .accesskey = U
 
 ##
 
@@ -269,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali deljenje zaslona.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali uporabo trajne shrambe.
+urlbar-popup-blocked2 =
+    .tooltiptext = Temu spletnemu mestu ste prepovedali, da bi prikazovalo pojavna okna in da bi ga preusmerjale tretje strani.
 urlbar-popup-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali odpiranje pojavnih oken.
 urlbar-autoplay-media-blocked =
@@ -287,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Dodaj stran med zaznamke ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Razdeljeni pogled
+    .aria-label = Razdeljeni pogled
 
 ## Page Action Context Menu
 
@@ -526,6 +534,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Niste varno povezani na to stran.
 identity-connection-verified = Varno ste povezani na to stran.
 identity-ev-owner-label = Potrdilo izdano:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalificiran v skladu z Uredbo (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla ne prepozna tega izdajatelja digitalnih potrdil. Morda ga je dodal vaš operacijski sistem ali skrbnik.
 identity-remove-cert-exception =
     .label = Odstrani izjemo
@@ -841,6 +851,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ne prikazuj predlogov z borze
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Hvala za vaše mnenje. Predlogov z borze ne boste več videli.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Borzni predlogi
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Hvala za vaše mnenje. Teh predlogov ne boste več videli.
@@ -1197,6 +1210,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Prepovej strani { $uriHost } odpiranje pojavnih oken
     .accesskey = d
+popups-infobar-allow2 =
+    .label = Dovoli { $uriHost } pojavna okna in preusmeritve tretjih strani
+    .accesskey = p
 
 ##
 
@@ -1390,6 +1406,17 @@ popup-warning-message =
         [few] { -brand-short-name } je strani preprečil, da bi odprla { $popupCount } pojavna okna.
        *[other] { -brand-short-name } je strani preprečil, da bi odprla { $popupCount } pojavnih oken.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } je spletnemu mestu preprečil, da bi vas preusmerilo.
+        [1] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo pojavno okno in vas preusmerilo.
+        [one] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo { $popupCount } pojavno okno in vas preusmerilo.
+        [two] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo { $popupCount } pojavni okni in vas preusmerilo.
+        [few] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo { $popupCount } pojavna okna in vas preusmerilo.
+       *[other] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo { $popupCount } pojavnih oken in vas preusmerilo.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1399,6 +1426,15 @@ popup-warning-exceeded-message =
         [two] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavni okni.
         [few] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavna okna.
        *[other] { -brand-short-name } je strani preprečil, da bi odprla več kot { $popupCount } pojavnih oken.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo več kot { $popupCount } pojavno okno in vas preusmerilo.
+        [two] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo več kot { $popupCount } pojavni okni in vas preusmerilo.
+        [few] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo več kot { $popupCount } pojavna okna in vas preusmerilo.
+       *[other] { -brand-short-name } je spletnemu mestu preprečil, da bi odprlo več kot { $popupCount } pojavnih oken in vas preusmerilo.
     }
 popup-warning-button =
     .label =
@@ -1615,3 +1651,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dovolil { $count } kriptorudarjev
     }
 trustpanel-cryptominer-tab-list-header = Ta spletna mesta poskušajo rudariti kriptovalute:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Na tej strani je bil blokiran <span data-l10n-name="count">{ $count }</span> sledilec
+        [two] Na tej strani sta bila blokirana <span data-l10n-name="count">{ $count }</span> sledilca
+        [few] Na tej strani so bili blokirani <span data-l10n-name="count">{ $count }</span> sledilci
+       *[other] Na tej strani je bilo blokiranih <span data-l10n-name="count">{ $count }</span> sledilcev
+    }

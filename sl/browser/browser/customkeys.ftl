@@ -35,3 +35,5 @@ customkeys-nav-reload = Ponovno naloži
 customkeys-nav-reload-skip-cache = Ponovno naloži (povozi predpomnilnik)
 customkeys-nav-stop = Ustavi
 customkeys-caution-message = Ta možnost je poskusna in morda ne bo delovala, kot bi morala.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Neveljavno

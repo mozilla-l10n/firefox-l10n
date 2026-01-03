@@ -490,6 +490,21 @@ create-backup-back-button-label = Nazaj
 create-backup-show-fewer =
     .label = Prikazuj manj takšnih sporočil
 create-backup-screen-2-title = Izberite podatke { -brand-product-name(sklon: "rodilnik") }, ki naj se varnostno kopirajo
+create-backup-screen-2-subtitle = Traja le minuto. Podatki se varnostno kopirajo enkrat dnevno.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Preprosta nastavitev
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = Ni šifrirano
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = Vključuje gesla in plačilna sredstva
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = Šifrirano z geslom
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = Kam naj se varnostna kopija shrani?
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = Nastavi geslo za datoteko z varnostno kopijo
+create-backup-screen-3-subtitle = Zahtevano za šifriranje podatkov. Shranite ga na mesto, ki si ga boste zapomnili.
+fx-backup-opt-in-header = Izberi mesto datoteke
 fx-backup-opt-in-create-password-label = Vnesite geslo
 fx-backup-opt-in-confirm-btn-label = Nadaljuj
 fx-backup-opt-in-cancel-btn-label = Nazaj
@@ -497,6 +512,15 @@ fx-backup-opt-in-cancel-btn-label = Nazaj
 ## Fx Backup confirmation screen strings
 
 fx-backup-confirmation-screen-close-button = Zapri
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-2 = Shranjeno na vašo napravo
+fx-backup-confirmation-screen-all-data-item-text-3 = Šifrirano in zaščiteno z geslom
+fx-backup-confirmation-screen-easy-setup-item-text-2 = Shranjeno na napravo
+fx-backup-confirmation-screen-easy-setup-item-text-3 = Gesla in plačilna sredstva niso vključena
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Za vključitev občutljivih podatkov obiščite <a data-l10n-name="settings">nastavitve</a>.
+fx-backup-confirmation-screen-item-subtext-1 = Varnostno kopiranje se bo začelo čez nekaj minut in se bo zagnalo enkrat na dan. Napredek lahko preverite v <a data-l10n-name="settings">nastavitvah</a>.
 
 ## Restore from Backup Flow about:welcome screens
 
