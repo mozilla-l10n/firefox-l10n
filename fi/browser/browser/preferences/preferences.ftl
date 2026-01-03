@@ -425,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Älä käännä koskaan näitä kieliä
 settings-translations-subpage-never-translate-sites-header =
     .label = Älä käännä koskaan näitä sivustoja
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Lisää sivusto avaamalla <img data-l10n-name="translations-icon"/> käännöspaneeli, valitsemalla <img data-l10n-name="settings-icon"/> käännösasetukset ja valitsemalla ”Älä käännä tätä sivustoa koskaan”.
 settings-translations-subpage-language-select-option =
     .label = Lisää kieli
 settings-translations-subpage-language-add-button =
@@ -1017,6 +1019,9 @@ sync-group-label =
     .label = Synkronointi
 account-group-label =
     .label = { -vendor-short-name }-tili
+account-placeholder =
+    .label = Et ole kirjautunut sisään
+    .description = Kirjaudu sisään pitääksesi tietosi yksityisinä, salattuna ja synkronoituna laitteiden välillä.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1026,6 +1031,9 @@ sync-signedout-description2 = Synkronoi kirjanmerkit, sivuhistoria, välilehdet,
 sync-signedout-account-signin3 =
     .label = Kirjaudu synkronoidaksesi…
     .accesskey = K
+sync-signedout-account-signin-4 =
+    .label = Kirjaudu tilillesi aloittaaksesi synkronoinnin
+    .accesskey = i
 sync-signedout-account-short =
     .label = Kirjaudu sisään
     .accesskey = i
@@ -1067,7 +1075,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
+sync-signedin-unverified2 =
+    .label = Sähköpostiosoitetta { $email } ei ole vielä vahvistettu
+    .description = Tarkista postilaatikkosi vahvistaaksesi tilisi ja tehdäksesi siitä virallisen.
 sync-signedin-login-failure = Kirjaudu sisään palauttaaksesi osoitteen { $email } yhteyden
+sync-signedin-login-failure2 =
+    .label = Olet kirjautunut ulos tililtä { $email }
+    .description = Kirjaudu uudelleen sisään käynnistääksesi tietojesi synkronoinnin.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1100,6 +1114,9 @@ prefs-syncing-on = Synkronointi: PÄÄLLÄ
 prefs-syncing-on-2 =
     .label = Synkronointi on PÄÄLLÄ
 prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
+prefs-syncing-off-2 =
+    .label = Synkronointi on POIS PÄÄLTÄ
+    .description = Ota synkronointi käyttöön saadaksesi kirjanmerkit, salasanat, historian ja paljon muuta mille tahansa laitteelle.
 prefs-sync-turn-on-syncing =
     .label = Ota synkronointi käyttöön…
     .accesskey = O
@@ -1126,6 +1143,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Synkronoit näitä tietoja kaikkien yhdistettyjen laitteiden välillä:
+sync-syncing-across-devices-heading-2 = Laitteiden välillä synkronoidut tiedot
+sync-syncing-across-devices-empty-state =
+    .label = Et synkronoi mitään… vielä.
+    .description = Aloita synkronointi saadaksesi tietosi kaikille laitteillesi.
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
@@ -1139,6 +1160,9 @@ sync-currently-syncing-settings = Asetukset
 sync-manage-options =
     .label = Hallinnoi synkronointia…
     .accesskey = s
+sync-manage-options-2 =
+    .label = Synkronoitujen tietojen hallinta
+    .accesskey = S
 sync-change-options =
     .label = Muuta…
     .accesskey = M
