@@ -1422,6 +1422,7 @@ autofill-payment-methods-add-button = Añadir nuevo método de pago
 payments-list-header =
     .label = Métodos de pago
 payments-list-item-label = <strong>Métodos de pago</strong>
+payments-delete-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
 payments-remove-payment-prompt-cancel-button = Cancelar

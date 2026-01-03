@@ -177,8 +177,17 @@ fp-neterror-offline-body-title = Parece que hay un problema con su conexión a I
 
 fp-neterror-connection-intro = { -brand-short-name } no puede crear una conexión segura al servidor en { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } no puede conectarse al servidor <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } no ha cargado esta página porque parece que la configuración de seguridad no coincide con la de la página anterior.
+fp-neterror-http-auth-disabled-intro = Alguien que se haga pasar por el sitio podría intentar robar cosas como el nombre de usuario, contraseña o correo electrónico.
+fp-neterror-http-auth-disabled-secure-connection = Este sitio requiere una conexión segura y no se puede añadir una excepción para visitarlo.
 fp-neterror-why-did-this-happen = ¿Por qué sucede esto?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Parece que este sitio está usando software antiguo con problemas de seguridad conocidos.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } no confía en { $hostname } porque la conexión no es segura.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Asegúrese de utilizar la versión más reciente de { -brand-short-name }. Vaya a Ayuda > Acerca de { -brand-short-name } en el menú. Si está utilizando la versión más reciente de { -brand-short-name }, lo más probable es que el problema resida en el propio sitio web.
+fp-neterror-offline-what-can-you-do-body = Intente conectarse en un dispositivo diferente. Verifique su módem o router. Desconéctese y vuelva a conectarse al Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Intente cambiar la URL a HTTPS. Pero es probable que haya un problema con el sitio en sí.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = A veces, los sitios web configuran protecciones para sí mismos contra interacciones no deseadas con otros sitios.
+fp-learn-more-about-https-connections = Saber más sobre conexiones HTTPS
