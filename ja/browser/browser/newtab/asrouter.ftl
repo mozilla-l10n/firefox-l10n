@@ -420,3 +420,15 @@ etp-strict-exceptions-infobar-not-now = 後で
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = { -brand-short-name } が既定のブラウザーに設定されていません
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } が優先ブラウザーに設定されていません
+set-default-menu-message-row-layout-title = { -brand-short-name } を優先ブラウザーにしましょう
+set-default-menu-message-row-layout-title-variant = { -brand-short-name } を既定のブラウザーにしましょう
+set-default-menu-message-row-layout-subtitle = いつものブラウジングに速さと安全性、プライバシー保護がもたらされます。
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } を手元に — 既定に設定して Dock に入れましょう。
+       *[other] { -brand-short-name } を手元に — 既定に設定してタスクバーにピン留めしましょう。
+    }
+set-default-menu-message-primary-button = 既定に設定
+set-default-menu-message-primary-button-variant = 優先ブラウザーに設定
