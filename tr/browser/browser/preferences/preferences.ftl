@@ -60,6 +60,7 @@ pane-experimental-description2 = Gelişmiş yapılandırma ayarlarını değişt
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Deneysel özelliklerimizi deneyin! Bu özellikler henüz geliştirme aşamasında oldıkları için her an değişebilirler ve { -brand-short-name } uygulamasının çalışma şeklini etkileyebilirler. <a data-l10n-name="data-collection">teknik verileri ve etkileşim verilerini</a> açtıysanız bu özellikleri kullanımınızla ilgili veri toplayabiliriz.
 pane-experimental-description3 = Deneysel özelliklerimizi deneyin! Bu özellikler sürekli geliştikleri ve değiştikleri için { -brand-short-name } tarayıcınızın çalışma şeklini etkileyebilirler.
 pane-experimental-reset =
     .label = Varsayılanları geri yükle
@@ -424,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Bu dilleri asla çevirme
 settings-translations-subpage-never-translate-sites-header =
     .label = Bu siteleri asla çevirme
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Site eklemek isterseniz <img data-l10n-name="translations-icon"/> çeviri panelini açın, <img data-l10n-name="settings-icon"/> çeviri ayarlarını seçip “Bu siteyi asla çevirme”yi seçin
 settings-translations-subpage-language-select-option =
     .label = Dil ekle
 settings-translations-subpage-language-add-button =
