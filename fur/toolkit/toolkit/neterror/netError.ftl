@@ -175,3 +175,7 @@ fp-neterror-http-auth-disabled-secure-connection = Chest sît al domande une con
 fp-neterror-why-did-this-happen = Parcè isal sucedût?
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nol considere { $hostname } atendibil parcè che la conession no je sigure.
 fp-neterror-offline-what-can-you-do-body = Prove a conetiti di un altri dispositîf, controle il modem o il router. Disconetiti e torne a conetiti al Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Prove a cambiâ l’URL doprant HTTPS. Ma al è probabil che il probleme al sedi il sît stes.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Cualchi volte i sîts web si protezin da lis interazions malvoludis, cun altris sîts.
+fp-learn-more-about-https-connections = Altris informazions su lis conessions HTTPS

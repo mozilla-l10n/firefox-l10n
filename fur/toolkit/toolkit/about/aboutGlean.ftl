@@ -147,6 +147,8 @@ about-glean-metrics-table-header-value = Valôr
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Azions
 about-glean-metrics-table-settings-button = Impostazions
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Impostazions tabele metriche
 about-glean-metrics-table-settings-category-general = Gjenerâl
 about-glean-metrics-table-settings-hide-empty-value-rows = Plate riis cence valôrs
 about-glean-metrics-table-settings-category-visualizations = Visualizazions
