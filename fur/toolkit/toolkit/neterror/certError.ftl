@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Torne indaûr (conseâ
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } ti sta metint in vuaite in merit a chest sît parcè che il certificât dât par { $hostname } al è stât revocât e nol è plui afidabil.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Forsit nuie, stant che al è probabil che al sedi un probleme cul sît stes. Tu puedis contatâ il proprietari dal sît web par verificâ se lu stan za cirint di risolvi.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -120,7 +122,7 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nol pense che { $hostname } al sedi afidabil parcè che nol è rivât a dimostrâ di sodisfâ i recuisîts di trasparence par certificâts publics.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-transparency-what-can-you-do-body = Forsit nuie, viodût che al è probabil che al sedi un probleme cul sît stes.
+fp-certerror-transparency-what-can-you-do-body = Forsit nuie, stant che al è probabil che al sedi un probleme cul sît stes.
 fp-learn-more-about-secure-connection-failures = Scuvierç di plui sui erôrs des conessions siguris
 fp-learn-more-about-cert-issues = Scuvierç di plui su chescj gjenars di problemis sui certificâts
 fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai problemis relatîfs a date e ore

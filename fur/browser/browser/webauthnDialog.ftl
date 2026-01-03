@@ -51,7 +51,7 @@ webauthn-select-sign-result-prompt = Plui accounts cjatâts par { $hostname }. S
 webauthn-select-device-prompt = Plui dispositîfs cjatâts par { $hostname }. Selezione un.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
-webauthn-device-blocked-prompt = La verifiche dal utent e je falide su { $hostname }. No son restâts altris tentatîfs e il to dispositîf al è stât blocât, viodût che al è stât inserît masse voltis il PIN sbaliât. Il dispositîf al scugne sei ripristinât.
+webauthn-device-blocked-prompt = La verifiche dal utent e je falide su { $hostname }. No son restâts altris tentatîfs e il to dispositîf al è stât blocât, stant che al è stât inserît masse voltis il PIN sbaliât. Il dispositîf al scugne sei ripristinât.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-pin-auth-blocked-prompt = La verifiche dal utent e je falide su { $hostname }. A son stâts fats masse tentatîfs di file e il PIN di autenticazion al è stât blocât in mût temporani. Al è necessari distudâ e tornâ a impiâ il dispositîf (distacâ e tornâ a colegâ).
