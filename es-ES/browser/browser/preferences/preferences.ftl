@@ -417,6 +417,54 @@ settings-translations-subpage-header =
 settings-translations-subpage-speed-up-translation-header =
     .label = Acelerar la traducción
     .description = Descargue idiomas completos para traducir más rápido y sin conexión.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traducción automática
+settings-translations-subpage-always-translate-header =
+    .label = Siempre traducir estos idiomas
+settings-translations-subpage-never-translate-header =
+    .label = Nunca traducir estos idiomas
+settings-translations-subpage-never-translate-sites-header =
+    .label = No traducir nunca estos sitios
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Para añadir un sitio, abra el <img data-l10n-name="translations-icon"/> panel de traducción, seleccione los <img data-l10n-name="settings-icon"/> ajustes de traducción y luego elija “Nunca traducir sitio”
+settings-translations-subpage-language-select-option =
+    .label = Añadir idioma
+settings-translations-subpage-language-add-button =
+    .aria-label = Añadir idioma
+    .title = Añadir idioma
+settings-translations-subpage-download-languages-header =
+    .label = Descargar idiomas
+settings-translations-subpage-download-languages-select-option =
+    .label = Seleccionar idioma
+settings-translations-subpage-download-languages-button =
+    .aria-label = Descargar idioma
+    .title = Descargar idioma
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = No hay idiomas descargados
+settings-translations-subpage-no-languages-added =
+    .label = No hay idiomas añadidos
+settings-translations-subpage-download-progress = Descarga en curso…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Reintentar
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Eliminar
+settings-translations-subpage-download-cancel-button =
+    .label = Cancelar
+settings-translations-subpage-no-sites-added =
+    .label = No hay sitios añadidos
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -864,6 +912,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
     .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-show-suggestions-private-windows-2 =
+    .label = Mostrar sugerencias de búsqueda en ventanas privadas
 search-suggestions-cant-show-2 =
     .message = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 addressbar-header-1 =
@@ -882,6 +939,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Buscador predeterminado en ventanas privadas
+search-suggestions-header-2 =
+    .label = Sugerencias del buscador
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -958,6 +1017,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronización
+account-group-label =
+    .label = Cuenta de { -vendor-short-name }
+account-placeholder =
+    .label = No ha iniciado sesión
+    .description = Inicie sesión para mantener sus datos privados, cifrados y sincronizados en todos los dispositivos.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -966,6 +1030,12 @@ sync-signedout-caption = Llévese la web con usted
 sync-signedout-description2 = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos sus dispositivos.
 sync-signedout-account-signin3 =
     .label = Iniciar sesión para sincronizar…
+    .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Iniciar sesión en la cuenta para empezar a sincronizar
+    .accesskey = I
+sync-signedout-account-short =
+    .label = Iniciar sesión
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1025,7 +1095,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-on-2 =
+    .label = Sincronización ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-syncing-off-2 =
+    .label = Sincronización DESACTIVADA
+    .description = Active la sincronización para tener sus marcadores, contraseñas, historial y más en cualquier dispositivo.
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronización…
     .accesskey = s
@@ -1053,6 +1128,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
 sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state =
+    .label = No se está sincronizando nada… todavía.
+    .description = Comience a sincronizar para obtener todos sus datos en todos sus dispositivos.
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestañas abiertas
@@ -1065,6 +1143,9 @@ sync-currently-syncing-addons = Complementos
 sync-currently-syncing-settings = Ajustes
 sync-manage-options =
     .label = Administrar sincronización…
+    .accesskey = m
+sync-manage-options-2 =
+    .label = Administrar datos sincronizados
     .accesskey = m
 sync-change-options =
     .label = Cambiar…
