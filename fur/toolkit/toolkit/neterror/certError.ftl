@@ -76,10 +76,18 @@ fp-certerror-return-to-previous-page-recommended-button = Torne indaûr (conseâ
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } ti sta metint in vuaite in merit a chest sît parcè che il certificât dât par { $hostname } al è stât revocât e nol è plui afidabil.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Il sît al è configurât par permeti dome conessions siguris, ma al è vignût fûr un probleme cul certificât dal sît. Al è pussibil che un malintenzionât al stedi cirint di sostituîsi al sît. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol pense che chest sît al sedi atendibil parcè che il so certificât nol è valit par { $hostname }. Il certificât al è valit nome par: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Forsit nol è nuie, viodût che al è probabil che al sedi un probleme cul sît stes. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la proprie identitât. Ma se tu sês colegât/colegade a une rêt aziendâl, il to grup di supuart al podarès vê plui informazions. Se tu stâs doprant un software antivirus, prove a cirî informazions su potenziâi conflits o problemis cognossûts.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ti sta metint in vuaite in merit a chest sît parcè che il certificât dât par { $hostname } al è stât dât fûr di une autoritât di certificazion che no je plui afidabile.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Al è vignût fûr un probleme cul certificât dal sît. Al è pussibil che un malintenzionât al stedi cirint di sostituîsi al sît. I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } al pense che chest sît nol sedi atendibil parcè che nol è pussibil stabilî cui che al à dât fûr il certificât, il certificât al è firmât in autonomie o il sît nol sta inviant certificâts intermedis atendibii.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -107,6 +115,12 @@ fp-cert-error-code = Codiç di erôr: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nol pense che { $hostname } al sedi afidabil parcè che nol è rivât a dimostrâ di sodisfâ i recuisîts di trasparence par certificâts publics.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Forsit nuie, viodût che al è probabil che al sedi un probleme cul sît stes.
 fp-learn-more-about-secure-connection-failures = Scuvierç di plui sui erôrs des conessions siguris
 fp-learn-more-about-cert-issues = Scuvierç di plui su chescj gjenars di problemis sui certificâts
 fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai problemis relatîfs a date e ore

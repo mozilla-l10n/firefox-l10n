@@ -177,11 +177,15 @@ fp-neterror-offline-body-title = Al somee che al sedi presint un probleme cu la 
 
 fp-neterror-connection-intro = { -brand-short-name } nol rive a creâ une conession sigure cul servidôr { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nol rive a conetisi al servidôr <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } nol à cjariât cheste pagjine parcè che al somee che la configurazion di sigurece no corispuint ae pagjine di prime.
+fp-neterror-http-auth-disabled-intro = Cualchidun che al fâs fente di jessi il sît al podarès cirî di robâ detais come il non utent, la password o la direzion e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Chest sît al domande une conession sigure e no tu puedis zontâ une ecezion par visitâlu.
 fp-neterror-why-did-this-happen = Parcè isal sucedût?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Al somee che chest sît al dopri un software vieri cun problemis di sigurece cognossûts.
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nol considere { $hostname } atendibil parcè che la conession no je sigure.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Verifiche di doprâ la version plui resinte di { -brand-short-name }. Va su Jutori > Informazions su { -brand-short-name } tal menù. Se tu stâs doprant la version plui resinte di { -brand-short-name }, al è facil che il probleme al sedi il sît stes.
 fp-neterror-offline-what-can-you-do-body = Prove a conetiti di un altri dispositîf, controle il modem o il router. Disconetiti e torne a conetiti al Wi-Fi.
 fp-neterror-http-auth-disabled-what-can-you-do-body = Prove a cambiâ l’URL doprant HTTPS. Ma al è probabil che il probleme al sedi il sît stes.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
