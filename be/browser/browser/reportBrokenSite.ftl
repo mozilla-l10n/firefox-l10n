@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Калі ласка, выбер�
 report-broken-site-panel-blocked-trackers-label =
     .label = Адпраўляць URL-адрасы, заблакаваныя аховай ад сачэння
 report-broken-site-panel-blocked-trackers-description = Узмоцненая ахова ад сачэння можа блакаваць трэкеры і скрыпты, неабходныя для правільнай працы некаторых сайтаў.
+report-broken-site-panel-preview-button =
+    .label = Перадпаказ справаздачы
+report-broken-site-panel-preview-header =
+    .label = Перадпаказ справаздачы

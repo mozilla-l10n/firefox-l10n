@@ -132,6 +132,10 @@ fp-learn-more-about-time-related-errors = Падрабязней пра выра
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не давярае гэтаму сайту, таму што, здаецца, прадстаўлены сертыфікат нядзейсны да { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Гадзіннік вашай прылады ўстаноўлены на { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Калі гэта правільна, праблема бяспекі, імаверна, у самім сайце. Калі гэта няправільна, вы можаце змяніць гэта ў сістэмных наладах вашай прылады.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
