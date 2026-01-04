@@ -27,7 +27,7 @@ safeb-blocked-phishing-page-error-desc-no-override = Strona „<span data-l10n-n
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-phishing-page-learn-more = Więcej informacji o stronach będącymi próbami oszustwa i złośliwym oprogramowaniu można znaleźć w witrynie <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Więcej informacji o ochronie przed złośliwym oprogramowaniem i próbami oszustwa przeglądarki { -brand-short-name } można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-phishing-page-learn-more = Więcej informacji o stronach będącymi próbami oszustwa i złośliwym oprogramowaniu można znaleźć w witrynie <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -38,7 +38,7 @@ safeb-blocked-malware-page-error-desc-no-override-sumo = Strona „<span data-l1
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-malware-page-learn-more-sumo = Więcej informacji o ochronie przed złośliwym oprogramowaniem i próbami oszustwa przeglądarki { -brand-short-name } można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-malware-page-learn-more-sumo = Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -49,7 +49,7 @@ safeb-blocked-unwanted-page-error-desc-no-override = Strona „<span data-l10n-n
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-unwanted-page-learn-more = Więcej informacji o szkodliwym i niechcianym oprogramowaniu można znaleźć na stronie <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Więcej informacji o ochronie przed złośliwym oprogramowaniem i próbami oszustwa przeglądarki { -brand-short-name } można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-unwanted-page-learn-more = Więcej informacji o szkodliwym i niechcianym oprogramowaniu można znaleźć na stronie <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -60,7 +60,7 @@ safeb-blocked-harmful-page-error-desc-no-override = Strona „<span data-l10n-na
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-harmful-page-learn-more = Więcej informacji o ochronie przed złośliwym oprogramowaniem i próbami oszustwa przeglądarki { -brand-short-name } można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-blocked-harmful-page-learn-more = Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = To nie jest oszustwo…
     .accesskey = n
@@ -70,3 +70,7 @@ safeb-palm-notdeceptive =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-addon-page-error-desc-override = <strong>Dlaczego ta witryna została zablokowana?</strong>
+safeb-blocked-addon-page-error-desc2-override = Witryna <strong>{ $sitename }</strong> może być powiązana z oszustwami lub szkodliwą działalnością.
+safeb-blocked-addon-page-error-desc3-override = <strong>Co zrobić w takim przypadku?</strong>
+safeb-blocked-addon-page-error-desc4-override = Aby to się nie powtórzyło, można usunąć lub wyłączyć dodatek <strong>{ $addonName }</strong> na stronie about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa</a>.
