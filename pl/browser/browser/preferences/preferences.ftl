@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Ostrzeganie przy zamykaniu przeglądarki
 disable-extension =
     .label = Wyłącz rozszerzenie
+preferences-data-migration-group =
+    .label = Importowanie danych z innych przeglądarek
+    .description = Przenieś zakładki, hasła, historię, rozszerzenia i dane automatycznego wypełniania z innej przeglądarki.
 preferences-data-migration-header = Importowanie danych z innych przeglądarek
 preferences-data-migration-description = Importuj zakładki, hasła, historię i dane automatycznego wypełniania do { -brand-short-name(case: "gen") }.
 preferences-data-migration-button =
@@ -328,6 +331,11 @@ preferences-web-appearance-override-warning3 =
     .message = Ustawienia sterowania kontrastem mają pierwszeństwo przed ustawieniami wyglądu witryn.
 preferences-web-appearance-link =
     .label = Zarządzaj motywami { -brand-short-name(case: "gen") } w Rozszerzenia i motywy
+preferences-contrast-control-group =
+    .label = Kontrast witryn
+    .description = Witryny wykorzystują różnorodne kolory tekstu i tła. Aby uzyskać spójny kontrast, można ustawić te same kolory dla wszystkich witryn.
+preferences-contrast-control-radio-group =
+    .label = Zastępowanie kolorów
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Wybrane kolory mają pierwszeństwo przed ustawieniami wyglądu witryn. <a data-l10n-name="colors-link">Zarządzaj kolorami</a>
@@ -398,6 +406,12 @@ translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjątki…
     .accesskey = i
+settings-translations-header =
+    .label = Tłumaczenia
+    .aria-label = Tłumaczenia
+    .description = Tłumacz strony lub zaznaczony tekst. Aby chronić Twoją prywatność, tłumaczenia nie opuszczają tego urządzenia.
+settings-translations-offer-to-translate-label =
+    .label = Proponuj tłumaczenie całych stron
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
