@@ -42,6 +42,33 @@ downloads-cmd-retry =
     .tooltiptext = قپ ریت دووارته
 downloads-cmd-retry-panel =
     .aria-label = قپ ریت دووارته
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = پاک کردن فایل
+downloads-cmd-remove-file-panel =
+    .aria-label = پاک کردن فایل
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = پاک کردن فایل یا هشتن دانلود
+downloads-cmd-choose-unblock-panel =
+    .aria-label = پاک کردن فایل یا هشتن دانلود
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = گۊشیڌن یا پاک کردن فایل
+downloads-cmd-choose-open-panel =
+    .aria-label = گۊشیڌن یا پاک کردن فایل
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = نشووݩ داڌن دووسمندیا قلوه
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = گۊشیڌن فایل
 
 ##
 
