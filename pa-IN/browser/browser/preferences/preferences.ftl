@@ -328,6 +328,9 @@ preferences-web-appearance-override-warning3 =
     .message = ਤੁਹਾਡੀ ਰੰਗ ਕਨਟਾਰਸਟ ਕੰਟਰੋਲ ਸੈਟਿੰਗਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੰਦੀਆਂ ਹਨ।
 preferences-web-appearance-link =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ ਵਿੱਚ { -brand-short-name } ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+preferences-contrast-control-group =
+    .label = ਵੈੱਬਸਾਈਟ ਕਨਟਰਾਸਟ
+    .description = ਵੈੱਬਸਾਈਟਾਂ ਵੱਖ-ਵੱਖ ਫਾਰਗਰਾਊਂਡ ਅਤੇ ਬੈਕਗਰਾਊਂਡ ਰੰਗ ਵਰਤਦੀਆਂ ਹਨ। ਇਕਸਾਰ ਕਨਟਰਾਸਟਰ ਲਈ, ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਇੱਕੋ ਜਿਹੇ ਰੰਗ ਵਰਤ ਸਕਦੇ ਹੋ।
 preferences-contrast-control-radio-group =
     .label = ਰੰਗਾਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ
 # This can appear when using windows HCM or "Override colors: always" without
@@ -422,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = ਇਹ ਭਾਸ਼ਾਵਾਂ ਲਈ ਕਦੇ ਅਨੁਵਾਦ ਨਾ ਕਰੋ
 settings-translations-subpage-never-translate-sites-header =
     .label = ਇਹ ਸਾਈਟਾਂ ਲਈ ਕਦੇ ਅਨੁਵਾਦ ਨਾ ਕਰੋ
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = ਸਾਈਟ ਨੂੰ ਜੋੜਨ ਲਈ <img data-l10n-name="translations-icon"/> ਅਨੁਵਾਦ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ, <img data-l10n-name="settings-icon"/> ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ “ਇਸ ਸਾਈਟ ਲਈ ਕਦੇ ਅਨੁਵਾਦ ਨਾ ਕਰੋ” ਨੂੰ ਚੁਣੋ।
 settings-translations-subpage-language-select-option =
     .label = ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
 settings-translations-subpage-language-add-button =
@@ -689,6 +694,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਵਿਡੀਓ ਕੰਟਰੋਲ ਸਮਰੱਥ ਕਰੋ
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = ਟੈਬਾਂ ਬਦਲਣ ਦੌਰਾਨ ਵੀ ਵੀਡੀਓ ਨੂੰ ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਢੰਗ ਨਾਲ ਚਲਾਉਣਾ ਜਾਰੀ ਰੱਖੋ
+    .accesskey = s
 browsing-picture-in-picture-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-media-control =
     .label = ਕੀਬੋਰਡ, ਹੈੱਡਸੈੱਟ ਜਾਂ ਵਰਚੁਅਲ ਇੰਟਰਫੇਸ ਰਾਹੀਂ ਮੀਡਿਆ ਕੰਟਰੋਲ ਕਰੋ
@@ -926,6 +934,9 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = ਨਤੀਜਾ ਸਫ਼ਿਆਂ ਉੱਤੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਖੋਜੇ ਸ਼ਬਦਾਂ ਨੂੰ ਵੇਖਾਓ
+search-separate-default-engine-2 =
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਮੂਲ ਤੋਂ ਵੱਖਰੇ ਖੋਜ ਇੰਜਣ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਮੂਲ ਖੋਜ ਇੰਜਣ
 search-suggestions-header-2 =
@@ -1008,6 +1019,9 @@ sync-group-label =
     .label = ਸਿੰਕ ਕਰੋ
 account-group-label =
     .label = { -vendor-short-name } ਖਾਤਾ
+account-placeholder =
+    .label = ਤੁਸੀਂ ਹਾਲੇ ਸਾਈਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਹੈ
+    .description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਪ੍ਰਾਈਵੇਟ, ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਅਤੇ ਸਿੰਕ ਕੀਤਾ ਰੱਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1065,6 +1079,9 @@ sync-signedin-unverified2 =
     .label = { $email } ਹਾਲੇ ਤਸਦੀਕ ਨਹੀਂ ਹੋਈ ਹੈ
     .description = ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਆਪਣੇ ਇਨ-ਬਾਕਸ ਵਿੱਚ ਜਾਓ ਅਤੇ ਇਸ ਨੂੰ ਤਸਦੀਕ ਕਰੋ।
 sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+sync-signedin-login-failure2 =
+    .label = ਤੁਸੀਂ { $email } ਤੋਂ ਸਾਈਨ ਆਉਟ ਕੀਤਾ ਹੈ
+    .description = ਮੁੜ ਕਨੈਕਟ ਕਰਨ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1127,6 +1144,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = ਤੁਸੀਂ ਇਹ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਨੈਕਟ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
 sync-syncing-across-devices-heading-2 = ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕੀਤਾ
+sync-syncing-across-devices-empty-state =
+    .label = ਤੁਸੀਂ ਕੁਝ ਵੀ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ… ਹਾਲੇ ਤੱਕ।
+    .description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
 sync-currently-syncing-bookmarks = ਬੁੱਕਮਾਰਕ
 sync-currently-syncing-history = ਅਤੀਤ
 sync-currently-syncing-tabs = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
@@ -1402,6 +1422,12 @@ autofill-payment-methods-add-button = ਨਵਾਂ ਭੁਗਤਾਨ ਢੰਗ 
 payments-list-header =
     .label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 payments-list-item-label = <strong>ਭੁਗਤਾਨ ਦੇ ਢੰਗ</strong>
+payments-delete-payment-prompt-title = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+payments-delete-payment-prompt-confirm-button = ਹਟਾਓ
+payments-delete-payment-prompt-cancel-button = ਰੱਦ ਕਰੋ
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = ਕੋਈ ਭੁਗਤਾਨ ਢੰਗ ਨਹੀਂ ਜੋੜਿਆ ਗਿਆ
 payments-remove-payment-prompt-title = ਇਸ ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 payments-remove-payment-prompt-confirm-button = ਹਟਾਓ
 payments-remove-payment-prompt-cancel-button = ਰੱਦ ਕਰੋ
@@ -1414,6 +1440,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = ਸਿਰਨਾਵਿਆਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
+addresses-list-header =
+    .label = ਸਿਰਨਾਵੇਂ
+addreses-delete-address-button-label =
+    .aria-label = ਹਟਾਓ
+addreses-edit-address-button-label =
+    .aria-label = ਸੋਧੋ
+addresses-delete-address-prompt-title = ਇਹ ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+addresses-delete-address-prompt-confirm-button = ਹਟਾਓ
+addresses-delete-address-prompt-cancel-button = ਰੱਦ ਕਰੋ
+autofill-addresses-add-button = ਨਵਾਂ ਸਿਰਨਾਵਾਂ ਜੋੜੋ
+autofill-addresses-manage-addresses-title =
+    .heading = ਸਿਰਨਾਵਿਆਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = ਕੋਈ ਸਿਰਨਾਵਾਂ ਜੋੜਿਆ ਨਹੀਂ ਗਿਆ
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1608,6 +1656,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = ਰੁਝਾਨ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = { -brand-short-name } ਵਲੋਂ ਸੁਝਾਅ
@@ -1644,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = ਸੁਝਾਆਵਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
     .description = ਸਪੌਂਸਰਾਂ ਅਤੇ { -brand-short-name } ਵਲੋਂ ਖ਼ਾਰਜ ਕੀਤੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ।
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = ਸੁਝਾਆਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ
 addressbar-quickactions-learn-more = ਹੋਰ ਜਾਣੋ
 addressbar-dismissed-suggestions-label = ਸੁਝਾਆਵਾਂ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
 addressbar-restore-dismissed-suggestions-description = ਸਪੌਂਸਰਾਂ ਅਤੇ { -brand-short-name } ਵਲੋਂ ਖ਼ਾਰਜ ਕੀਤੇ ਸੁਝਾਆਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ।
