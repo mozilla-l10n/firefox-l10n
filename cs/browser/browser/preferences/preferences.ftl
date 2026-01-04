@@ -1297,7 +1297,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Tyto položky synchronizujete ve všech připojených zařízeních:
-sync-syncing-across-devices-heading-2 = Data synchronizována mezi zařízeními
+sync-syncing-across-devices-heading-2 = Data synchronizovaná mezi zařízeními
 sync-syncing-across-devices-empty-state =
     .label = Zatím nic nesynchronizujete.
     .description = Spusťte synchronizaci a získejte všechna svá data na všech zařízeních.
