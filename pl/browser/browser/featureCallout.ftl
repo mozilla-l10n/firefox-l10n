@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Zobacz krótki opis, czas potrzebn
 sidebar-button-callout-title = Widoczne tytuły kart na panelu bocznym
 sidebar-button-callout-subtitle = Kliknij przycisk panelu bocznego, aby go rozszerzyć i widzieć tytuły kart.
 sidebar-button-callout-vertical-tabs = Aby wyświetlić karty, kliknij przycisk panelu bocznego na pasku narzędzi.
+sidebar-deprecation-callout-title = Wkrótce zaktualizujemy panel boczny
+sidebar-deprecation-callout-subtitle = Wycofujemy wersję panelu bocznego, z której obecnie korzystasz. Wypróbuj zaktualizowany panel. Jest szybszy i zapewnia dostęp do większej liczby narzędzi.
+sidebar-deprecation-cta-button = Wypróbuj teraz
 
 ## Sidebar Vertical Tabs Strings
 
