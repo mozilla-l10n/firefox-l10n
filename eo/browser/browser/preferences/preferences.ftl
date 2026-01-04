@@ -632,6 +632,16 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## Firefox support
+
+support-application-heading =
+    .label = Helpo pri { -brand-short-name }
+    .description = Solvi problemojn aŭ dividi ideojn kun la komunumo.
+support-get-help =
+    .label = Helpo
+support-share-ideas =
+    .label = Dividi ideojn kaj komentojn
+
 ## General Section - Performance
 
 performance-title = Efikeco
@@ -684,6 +694,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Permesi regilojn por bildo en bildo
     .accesskey = P
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Plu ludi videaĵojn inkrustite post ŝanĝo de langeto
+    .accesskey = p
 browsing-picture-in-picture-learn-more = Pli da informo
 browsing-media-control =
     .label = Regi aŭdvidaĵojn per klavaro, kapaŭskultiloj aŭ virtuala fasado
@@ -899,6 +912,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
     .accesskey = M
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = En la serĉaj rezultoj de la adresa strio montri serĉajn sugestojn antaŭ retuman historion
+search-show-suggestions-private-windows-2 =
+    .label = Serĉaj sugestoj en privataj fenestroj
 search-suggestions-cant-show-2 =
     .message = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
 addressbar-header-1 =
@@ -912,6 +934,13 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Montri serĉan tekston en la adresa strio de la paĝoj de rezultoj
+search-separate-default-engine-2 =
+    .label = Uzi alian norman serĉilon en privataj fenestroj
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Norma serĉilo en privataj fenestroj
+search-suggestions-header-2 =
+    .label = Serĉilaj sugestoj
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -997,6 +1026,9 @@ sync-signedout-description2 = Speguli viajn legosignojn, historion, langetojn, p
 sync-signedout-account-signin3 =
     .label = Komenci seancon por speguli…
     .accesskey = K
+sync-signedout-account-signin-4 =
+    .label = Komenci seancon en via konto por komenci speguli
+    .accesskey = K
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1055,6 +1087,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Spegulado: ŝaltita
+prefs-syncing-on-2 =
+    .label = La spegulado estas ŝaltita
 prefs-syncing-off = Spegulado: malŝaltita
 prefs-sync-turn-on-syncing =
     .label = Ŝalti speguladon…
@@ -1082,6 +1116,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Vi spegulas tiujn ĉi elementojn inter ĉiuj viaj konektitaj aparatoj:
+sync-syncing-across-devices-heading-2 = Datumo spegulitaj inter aparatoj
+sync-syncing-across-devices-empty-state =
+    .label = Vi spegulas nenion… ankoraŭ.
+    .description = Komenci speguli por havi ĉiujn viajn datumojn en ĉiuj viaj aparatoj.
 sync-currently-syncing-bookmarks = legosignojn
 sync-currently-syncing-history = historion
 sync-currently-syncing-tabs = malfermitajn langetojn

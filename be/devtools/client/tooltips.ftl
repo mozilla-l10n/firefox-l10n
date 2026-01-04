@@ -21,6 +21,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не многаслупковы кантэйнер.
 inactive-css-column-span = <strong>{ $property }</strong> не мае эфекту ахопу для гэтага элемента, паколькі ён не знаходзіцца ўнутры многаслупковага кантэйнера.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён ні grid, ні flex элемент.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, бо ён не з'яўляецца сетачным або flex-элементам, а таксама не абсалютна пазіцыянаваны элемент.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, бо ён не сетачны элемент, а таксама не абсалютна пазіцыянаваны элемент.
 inactive-css-not-grid-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не grid-элемент.
 inactive-css-not-grid-container = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не grid-кантэйнер.
 inactive-css-not-flex-item = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі ён не flex-элемент.
@@ -63,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> не ўплывае �
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах вылучэння.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong>не падтрымліваецца ў правілах <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -85,6 +88,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Паспрабуйце д
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong>, або <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Паспрабуйце дадаць <strong>column-count</strong> або <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Паспрабуйце дадаць <strong>column-count</strong> або <strong>column-width</strong> да аднаго з бацькоўскіх элементаў. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Паспрабуйце дадаць <strong>position:absolute</strong> да элемента, або <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ці <strong>display:inline-flex</strong> да бацькоўскага элемента. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Паспрабуйце дадаць <strong>position:absolute</strong> да элемента, або <strong>display:grid</strong> ці <strong>display:inline-grid</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> цi <strong>display:inline-flex</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-item-fix-2 = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-container-fix = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong>. { learn-more }
@@ -138,3 +143,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Даведа�
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Гэты селектар выкарыстоўвае неабмежаваны <strong>:has()</strong>, які можа быць павольным
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Роднасныя селектары пасля <strong>:scope</strong> ніколі не будуць ні з чым супадаць
