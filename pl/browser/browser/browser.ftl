@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Dodaj zakładkę do tej strony ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Podzielony widok
+    .aria-label = Podzielony widok
 
 ## Page Action Context Menu
 
@@ -530,6 +533,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Połączenie z tą witryną nie jest zabezpieczone.
 identity-connection-verified = Połączenie z tą witryną jest zabezpieczone.
 identity-ev-owner-label = Certyfikat wystawiony dla:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kwalifikowany w rozumieniu rozporządzenia (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nie rozpoznaje tego wystawcy certyfikatu. Mógł zostać dodany przez system operacyjny lub administratora.
 identity-remove-cert-exception =
     .label = Usuń wyjątek
@@ -842,6 +847,9 @@ urlbar-result-menu-dont-show-market =
     .label = Nie pokazuj danych giełdowych
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Dziękujemy za opinię. Nie będziemy już pokazywać danych giełdowych.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Podpowiedzi giełdowe
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Dziękujemy za opinię. Nie będziemy już pokazywać tych podpowiedzi.
@@ -936,6 +944,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nie wybrano skrótu, wybierz jakiś
     .tooltiptext = Nie wybrano skrótu, wybierz jakiś
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Wyszukiwanie za pomocą słów kluczowych jest wyłączone
+    .tooltiptext = Wyszukiwanie za pomocą słów kluczowych jest wyłączone
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1613,3 +1625,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } zezwolił na { $count } elementów używających komputera użytkownika do generowania kryptowalut
     }
 trustpanel-cryptominer-tab-list-header = Te witryny próbują używać komputera użytkownika do generowania kryptowalut:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> element śledzący zablokowany na tej witrynie
+        [few] <span data-l10n-name="count">{ $count }</span> elementy śledzące zablokowane na tej witrynie
+       *[many] <span data-l10n-name="count">{ $count }</span> elementów śledzących zablokowanych na tej witrynie
+    }
