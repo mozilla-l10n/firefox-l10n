@@ -30,6 +30,10 @@ options-context-inspector = Ikuskatzailea
 options-show-user-agent-styles-label = Erakutsi nabigatzaile-estiloak
 options-show-user-agent-styles-tooltip =
     .title = Ezarrita badago, nabigatzaileak kargatzen dituen estilo lehenetsiak erakutsiko dira.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Erakutsi nabigatzailearen Shadow DOMa
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Hau aktibatuz gero, nabigatzaileak maneiatzen dituen Shadow DOM elementuak erakutsiko dira.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Moztu DOM atributuak
 options-collapse-attrs-tooltip =
@@ -38,6 +42,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Egin klik eta arrastatu tamainaren balioak editatzeko
 options-inspector-draggable-properties-tooltip =
     .title = Egin klik eta arrastatu ikuskatzailearen arauen ikuspegiko tamainaren balioak editatzeko.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Erabili nabarmengailu sinpleagoak prefers-reduced-motion aukerarekin
+options-inspector-simplified-highlighters-tooltip =
+    .title = Nabarmengailu sinpleagoak gaitzen ditu prefers-reduced-motion gaituta dagoenean. Flash-efektuak ekiditeko, nabarmendutako elementuen inguruan lerroak marrazten ditu betetako laukizuzenen ordez.
 
 ## "Default Color Unit" options for the Inspector
 
