@@ -141,3 +141,5 @@ css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> hakkı
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Bu seçici, kısıtlanmamış <strong>:has()</strong> kullanıyor. Yavaş olabilir
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = <strong>:scope</strong> sonrasında gelen kardeş seçiciler hiçbir şeyle eşleşmez

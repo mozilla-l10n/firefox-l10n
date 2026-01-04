@@ -128,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Sorun büyük ihtimalle sitenin
 fp-learn-more-about-secure-connection-failures = Güvenli bağlantı hataları hakkında daha fazla bilgi alın
 fp-learn-more-about-cert-issues = Bu tür sertifika sorunları hakkında daha fazla bilgi alın
 fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkında daha fazla bilgi
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Bu sitenin sağladığı sertifika { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihine kadar geçerli olmadığı için { -brand-short-name } bu siteye güvenmiyor.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Cihazınızın saati { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

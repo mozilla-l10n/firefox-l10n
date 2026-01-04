@@ -73,3 +73,4 @@ safeb-blocked-addon-page-error-desc-override = <strong>Bu site neden engellendi?
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> aldatıcı ve zararlı faaliyetlerle bağlantılı olabilir.
 safeb-blocked-addon-page-error-desc3-override = <strong>Ne yapabilirsiniz?</strong>
 safeb-blocked-addon-page-error-desc4-override = Bunu tekrar yaşamamak için <strong>{ $addonName }</strong> eklentisini about:addons sayfasından kaldırabilir veya devre dışı bırakabilirsiniz.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>{ -brand-short-name } tarayıcısının yemleme ve zararlı yazılım koruması hakkında daha fazla bilgi alın</a>.
