@@ -1083,6 +1083,9 @@ sync-signedin-unverified2 =
     .label = Адрас { $email } пакуль не пацверджаны
     .description = Праверце сваю паштовую скрыню, каб пацвердзіць уліковы запіс і зрабіць яго афіцыйным.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
+sync-signedin-login-failure2 =
+    .label = Вы выйшлі з { $email }
+    .description = Увайдзіце зноў, каб перападлучыцца і пачаць сінхранізаваць свае дадзеныя.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1424,6 +1427,11 @@ payments-list-header =
     .label = Спосабы аплаты
 payments-list-item-label = <strong>Спосабы аплаты</strong>
 payments-delete-payment-prompt-title = Выдаліць гэты спосаб аплаты?
+payments-delete-payment-prompt-confirm-button = Выдаліць
+payments-delete-payment-prompt-cancel-button = Скасаваць
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Спосабы аплаты не дададзены
 payments-remove-payment-prompt-title = Выдаліць гэты спосаб аплаты?
 payments-remove-payment-prompt-confirm-button = Выдаліць
 payments-remove-payment-prompt-cancel-button = Скасаваць
@@ -1436,6 +1444,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Кіраванне адрасамі і іншае
     .accesskey = р
+addresses-list-header =
+    .label = Адрасы
+addreses-delete-address-button-label =
+    .aria-label = Выдаліць
+addreses-edit-address-button-label =
+    .aria-label = Змяніць
+addresses-delete-address-prompt-title = Выдаліць гэты адрас?
+addresses-delete-address-prompt-confirm-button = Выдаліць
+addresses-delete-address-prompt-cancel-button = Адмена
+autofill-addresses-add-button = Дадаць новы адрас
+autofill-addresses-manage-addresses-title =
+    .heading = Кіраванне адрасамі і іншае
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Адрасы не дададзены
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1630,6 +1660,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Хуткія дзеянні
     .accesskey = Х
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Нядаўнія пошукі
+    .accesskey = к
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Папулярныя пошукавыя прапановы
+    .accesskey = н
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Прапановы ад { -brand-short-name }

@@ -35,3 +35,5 @@ customkeys-nav-reload = Reŝargi
 customkeys-nav-reload-skip-cache = Reŝargi (ignorante staplon)
 customkeys-nav-stop = Haltigi
 customkeys-caution-message = Tiu ĉi trajto estas eksperimenta kaj ĝi povus ne funkcii kiel oni atendas.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Nevalida

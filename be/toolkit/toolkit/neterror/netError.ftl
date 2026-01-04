@@ -168,11 +168,21 @@ certerror-coep-learn-more = Даведацца больш пра Палітык�
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Код памылкі: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Здаецца, ёсць праблема з інтэрнэт-злучэннем
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } не можа стварыць бяспечнае злучэнне з серверам па адрасе { $hostname }.
+fp-neterror-offline-intro = { -brand-short-name } не можа падключыцца да сервера па адрасе <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } не загрузіў гэтую старонку, таму што канфігурацыя бяспекі, здаецца, не адпавядае папярэдняй старонцы.
+fp-neterror-http-auth-disabled-intro = Нехта, выдаючы сябе за сайт, можа паспрабаваць скрасці такія рэчы, як ваша імя карыстальніка, пароль або адрас электроннай пошты.
+fp-neterror-http-auth-disabled-secure-connection = Гэты сайт патрабуе бяспечнага падключэння, і вы не можаце дадаць выключэнне для яго наведвання.
+fp-neterror-why-did-this-happen = Чаму гэта здарылася?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Здаецца, гэты сайт выкарыстоўвае старое праграмнае забеспячэнне з вядомымі праблемамі бяспекі.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Пераканайцеся, што вы карыстаецеся апошняй версіяй { -brand-short-name }. Перайдзіце ў меню Даведка > Пра { -brand-short-name }. Калі вы карыстаецеся апошняй версіяй { -brand-short-name }, праблема, хутчэй за ўсё, звязана з самім сайтам.
+fp-neterror-offline-what-can-you-do-body = Паспрабуйце падлучыцца на іншай прыладзе. Праверце мадэм або маршрутызатар. Адключыцеся і паўторна падключыцеся да Wi-Fi.

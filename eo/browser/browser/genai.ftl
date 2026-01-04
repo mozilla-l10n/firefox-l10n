@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Forigi { $provider }
 genai-menu-remove-sidebar =
     .label = Forigi el la flanka strio
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Demandi al { $provider }
 genai-menu-new-badge = Nova
 genai-menu-summarize-page = Resumi paĝon
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } minutoj de legado
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ne povas antaŭmontri tiun ĉi ligilon
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = Ni ne povas antaŭmontri tiun ĉi ligilon
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Viziti ligilon
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne povas eltiri ĉefajn punktojn el tiu ĉi retpaĝo.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Ni ne povas eltiri ĉefajn punktojn el tiu ĉi retpaĝo.
 # Error message when something went wrong during key point generation
