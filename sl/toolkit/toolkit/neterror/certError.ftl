@@ -131,7 +131,7 @@ fp-learn-more-about-time-related-errors = Več o odpravljanju s časom povezanih
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne zaupa temu spletnemu mestu, ker je videti, da predloženo potrdilo začne veljati šele ob { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric ", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne zaupa temu spletnemu mestu, ker je videti, da predloženo potrdilo začne veljati šele ob { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
