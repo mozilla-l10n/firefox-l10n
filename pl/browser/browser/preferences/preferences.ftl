@@ -916,6 +916,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Podpowiedzi wyszukiwania w wynikach paska adresu
     .accesskey = e
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Podpowiedzi wyszukiwania przed historią przeglądania w wynikach paska adresu
+search-show-suggestions-private-windows-2 =
+    .label = Podpowiedzi wyszukiwania w prywatnych oknach
 search-suggestions-cant-show-2 =
     .message = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania { -brand-short-name(case: "gen") }.
 addressbar-header-1 =
@@ -934,6 +943,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Domyślna wyszukiwarka w oknach prywatnych
+search-suggestions-header-2 =
+    .label = Podpowiedzi wyszukiwarki
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1010,6 +1021,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizacja
+account-group-label =
+    .label = Konto { -vendor-short-name(case: "gen") }
+account-placeholder =
+    .label = Nie zalogowano
+    .description = Zaloguj się, aby Twoje dane były prywatne, zaszyfrowane i synchronizowane między urządzeniami.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1018,6 +1034,12 @@ sync-signedout-caption = Zabierz swoją sieć ze sobą
 sync-signedout-description2 = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
 sync-signedout-account-signin3 =
     .label = Zaloguj się do synchronizacji…
+    .accesskey = Z
+sync-signedout-account-signin-4 =
+    .label = Zaloguj się na konto i zacznij synchronizację
+    .accesskey = Z
+sync-signedout-account-short =
+    .label = Zaloguj się
     .accesskey = Z
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1057,6 +1079,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
+sync-signedin-unverified2 =
+    .label = Konto { $email } nie jest jeszcze potwierdzone
+    .description = Sprawdź skrzynkę pocztową i oficjalnie potwierdź konto.
 sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $email }
 
 ##
@@ -1077,7 +1102,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Synchronizowanie: włączone
+prefs-syncing-on-2 =
+    .label = Synchronizowanie jest włączone
 prefs-syncing-off = Synchronizowanie: wyłączone
+prefs-syncing-off-2 =
+    .label = Synchronizowanie jest wyłączone
+    .description = Włącz synchronizację, aby mieć dostęp do zakładek, haseł, historii i nie tylko na wszystkich urządzeniach.
 prefs-sync-turn-on-syncing =
     .label = Włącz synchronizację…
     .accesskey = s
@@ -1104,6 +1134,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Obecnie synchronizowane na wszystkich połączonych urządzeniach:
+sync-syncing-across-devices-heading-2 = Dane synchronizowane między urządzeniami
+sync-syncing-across-devices-empty-state =
+    .label = Nic nie jest synchronizowane… jeszcze.
+    .description = Zacznij synchronizację, aby wszystkie Twoje dane były na wszystkich Twoich urządzeniach.
 sync-currently-syncing-bookmarks = zakładki
 sync-currently-syncing-history = historia
 sync-currently-syncing-tabs = otwarte karty
@@ -1116,6 +1150,9 @@ sync-currently-syncing-addons = dodatki
 sync-currently-syncing-settings = ustawienia
 sync-manage-options =
     .label = Zarządzaj synchronizacją…
+    .accesskey = d
+sync-manage-options-2 =
+    .label = Zarządzaj synchronizowanymi danymi
     .accesskey = d
 sync-change-options =
     .label = Zmień…
