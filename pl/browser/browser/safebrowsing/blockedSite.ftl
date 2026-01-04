@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Podejrzana strona
 safeb-blocked-malware-page-title = Odwiedzenie tej strony może być szkodliwe
 safeb-blocked-unwanted-page-title = Strona może zawierać szkodliwe oprogramowanie
 safeb-blocked-harmful-page-title = Złośliwe oprogramowanie za rogiem!
+safeb-blocked-addon-page-title = Zablokowano witrynę ze względów bezpieczeństwa
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } zablokował tę stronę, ponieważ może ona próbować nakłaniać do niebezpiecznych zachowań, jak instalacja oprogramowania lub ujawnianie danych osobistych (haseł, danych kart płatniczych).
 safeb-blocked-malware-page-short-desc = { -brand-short-name } zablokował tę stronę, ponieważ może ona próbować instalować niebezpieczne oprogramowanie mogące wykradać lub usuwać z komputera dane osobiste.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } zablokował tę stronę, ponieważ może one próbować nakłonić do instalacji programów, które mogą zaszkodzić Twojemu przeglądaniu (np. zmieniając stronę startową lub wyświetlając dodatkowe reklamy).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } zablokował tę stronę, ponieważ może ona próbować instalować niebezpieczne oprogramowanie mogące wykradać lub usuwać dane (np. zdjęcia, hasła, wiadomości, dane kart płatniczych).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } zablokował tę stronę, ponieważ jeden z zainstalowanych dodatków próbował ją otworzyć. Może ona zostać wykorzystana do kradzieży Twoich danych, takich jak hasła lub numery kart płatniczych.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Na podstawie danych dostarczanych przez <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,9 @@ safeb-blocked-harmful-page-learn-more = Więcej informacji o ochronie przed zł
 safeb-palm-notdeceptive =
     .label = To nie jest oszustwo…
     .accesskey = n
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Dlaczego ta witryna została zablokowana?</strong>

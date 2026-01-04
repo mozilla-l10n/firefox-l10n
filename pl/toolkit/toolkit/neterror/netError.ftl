@@ -19,7 +19,7 @@ problem-with-this-site-title = Wystąpił problem z tą witryną
 
 neterror-advanced-button = Zaawansowane…
 neterror-copy-to-clipboard-button = Kopiuj tekst do schowka
-neterror-learn-more-link = Więcej informacji…
+neterror-learn-more-link = Więcej informacji…
 neterror-open-portal-login-page-button = Zaloguj się do sieci
 neterror-override-exception-button = Akceptuję ryzyko, kontynuuj
 neterror-pref-reset-button = Przywróć
@@ -187,3 +187,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nie uf
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Upewnij się, że używasz najnowszej wersji { -brand-short-name(case: "gen") }. Przejdź do Pomoc → O programie { -brand-short-name } w menu. Jeśli używasz najnowszego { -brand-short-name(case: "gen") }, to problem najprawdopodobniej dotyczy samej witryny.
 fp-neterror-offline-what-can-you-do-body = Spróbuj połączyć się na innym urządzeniu. Sprawdź modem lub router. Rozłącz się i ponownie połącz z siecią Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Spróbuj zmienić adres na HTTPS. Ale problem najpewniej leży po stronie witryny.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Czasami witryny stosują zabezpieczenia chroniące siebie przed niepożądanymi interakcjami z innymi witrynami.
+fp-learn-more-about-https-connections = Więcej informacji o połączeniach HTTPS
