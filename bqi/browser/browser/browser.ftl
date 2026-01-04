@@ -563,10 +563,41 @@ urlbar-placeholder-keyword-disabled =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = پیتینیڌن من وب
     .aria-label = پیتینیڌن وا { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = هؽل پیتینیڌن ن بزنین
+    .aria-label = پیتینیڌن { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = هؽل پیتینیڌن ن بزنین
+    .aria-label = پیتینیڌن نشووکا
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = هؽل پیتینیڌن ن بزنین
+    .aria-label = پیتینیڌن ویرگار
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = هؽل پیتینیڌن ن بزنین
+    .aria-label = پیتینیڌن بلگه یل
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = هؽل پیتینیڌن ن بزنین
+    .aria-label = پیتینیڌن کارا
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = پیتینیڌن وا { $name } یا ی نشۊوی بزنین
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = گشت گر تئت کونتورول ز ر دیر هڌ (دلیل: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = و ای وبگه موجوزا ازافی داڌینه.
 urlbar-switch-to-tab =
     .value = گوم زیڌن و بلگه:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
