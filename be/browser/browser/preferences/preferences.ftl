@@ -447,12 +447,27 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size } МБ)
     .label = { $language } ({ $size } МБ)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Ніводнай мовы не сцягнута
+settings-translations-subpage-no-languages-added =
+    .label = Мовы не дададзены
+settings-translations-subpage-download-progress = Ідзе сцягванне…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Не ўдалося сцягнуць { $language } ({ $size } МБ)
 settings-translations-subpage-download-retry-button =
     .label = Паспрабаваць зноў
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Выдаліць { $language } ({ $size } МБ)?
 settings-translations-subpage-download-delete-button =
     .label = Выдаліць
 settings-translations-subpage-download-cancel-button =
     .label = Скасаваць
+settings-translations-subpage-no-sites-added =
+    .label = Сайты не дададзены
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -620,6 +635,16 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
+## Firefox support
+
+support-application-heading =
+    .label = Падтрымка { -brand-short-name }
+    .description = Вырашайце праблемы або дзяліцеся ідэямі з супольнасцю.
+support-get-help =
+    .label = Атрымаць дапамогу
+support-share-ideas =
+    .label = Падзяліцца ідэямі ці водгукам
+
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць
@@ -672,6 +697,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Уключыць элементы кіравання відэа ў выяве
     .accesskey = У
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Працягвайце прайграваць відэа ў рэжыме «Выява ў выяве» пры пераключэнні картак
+    .accesskey = ы
 browsing-picture-in-picture-learn-more = Падрабязней
 browsing-media-control =
     .label = Кіраваць прайграваннем з клавіятуры, гарнітуры або віртуальнага інтэрфейсу
@@ -888,6 +916,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Паказваць пошукавыя прапановы пры выкарыстанні адраснага радка
     .accesskey = п
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Адлюстроўваць пошукавыя прапановы перад гісторыяй вэб-аглядання пры выкарыстанні адраснага радка
+search-show-suggestions-private-windows-2 =
+    .label = Пошукавыя прапановы ў прыватных вокнах
 search-suggestions-cant-show-2 =
     .message = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
 addressbar-header-1 =
@@ -901,6 +938,11 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Паказваць пошукавыя тэрміны ў адрасным радку на старонках вынікаў
+search-separate-default-engine-2 =
+    .label = Выкарыстоўваць іншую прадвызначаную пошукавую сістэму ў прыватных вокнах
+    .accesskey = ш
+search-separate-default-engine-dropdown =
+    .aria-label = Прадвызначаная пошукавая сістэма ў прыватных вокнах
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.

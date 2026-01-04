@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = Efikeco (%)
 place-database-stats-sequentiality-perc = Sekvenceco (%)
 place-database-integrity = Integreco
 place-database-verify-integrity = Kontroli integrecon
+place-database-last-idle-maintenance-data = Dato de la lasta bonteno dum senokupeco
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Dato de lasta purigo
+place-database-last-integrity-corruption-date = Dato de la lasta integreca korupto
 a11y-title = Alirebleco
 a11y-activated = Aktiva
 a11y-force-disabled = Eviti alireblon
