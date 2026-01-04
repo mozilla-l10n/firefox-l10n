@@ -834,7 +834,7 @@ search-show-suggestions-url-bar-option =
     .label = Podpowiedzi wyszukiwania w wynikach paska adresu
     .accesskey = e
 search-suggestions-cant-show-2 =
-    .message = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
+    .message = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania { -brand-short-name(case: "gen") }.
 addressbar-header-1 =
     .label = Pasek adresu
     .description = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu.
@@ -1321,7 +1321,7 @@ history-header = Historia
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Program { -brand-short-name }:
+history-remember-label2 = { -brand-short-name }:
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.

@@ -52,13 +52,13 @@ download-cert-view-text = Sprawdź certyfikat CA
 
 client-auth-window =
     .title = Prośba o identyfikację użytkownika
-client-auth-site-description = Ta witryna poprosiła o przedstawienia certyfikatu w celu dokonania identyfikacji:
+client-auth-site-description = Ta witryna poprosiła o przedstawienie certyfikatu w celu dokonania identyfikacji:
 client-auth-choose-cert = Wybierz certyfikat, który zostanie przedstawiony jako identyfikator użytkownika:
 client-auth-send-no-certificate =
     .label = Nie wysyłaj certyfikatu
 # Variables:
 # $hostname (String) - The domain name of the site requesting the client authentication certificate
-client-auth-site-identification = Witryna „{ $hostname }” poprosiła o przedstawienia certyfikatu w celu dokonania identyfikacji:
+client-auth-site-identification = Witryna „{ $hostname }” poprosiła o przedstawienie certyfikatu w celu dokonania identyfikacji:
 client-auth-cert-details = Szczegóły wybranego certyfikatu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
