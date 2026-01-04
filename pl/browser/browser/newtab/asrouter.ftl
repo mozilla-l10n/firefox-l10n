@@ -431,3 +431,18 @@ etp-strict-exceptions-infobar-button = Napraw stronę
     .accesskey = w
 etp-strict-exceptions-infobar-not-now = Nie teraz
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } nie jest obecnie domyślną przeglądarką
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nie jest obecnie główną przeglądarką
+set-default-menu-message-row-layout-title = Ustaw { -brand-short-name(case: "acc") } jako główną przeglądarkę
+set-default-menu-message-row-layout-title-variant = Ustaw { -brand-short-name(case: "acc") } jako domyślną przeglądarkę
+set-default-menu-message-row-layout-subtitle = Zawsze szybko, bezpiecznie i prywatnie przeglądaj Internet.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Miej { -brand-short-name } zawsze pod ręką — ustaw go jako domyślną przeglądarkę i zatrzymaj go w Docku.
+       *[other] Miej { -brand-short-name } zawsze pod ręką — ustaw go jako domyślną przeglądarkę i zatrzymaj go na pasku zadań.
+    }
+set-default-menu-message-primary-button = Ustaw jako domyślną
+set-default-menu-message-primary-button-variant = Ustaw jako główną przeglądarkę
