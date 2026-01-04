@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = ਪਿੱਛੇ ਜਾ
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਬਾਰੇ ਸਾਵਧਾਨ ਕਰਦਾ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਜਾਰੀ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਮਨਸੂਖ਼ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਿਹਾ ਹੈ।
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = ਸ਼ਾਇਦ ਕੁਝ ਵੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਸਾਈਟ ਨਾਲ ਹੀ ਸਮੱਸਿਆ ਹੈ। ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਜੇ ਉਹ ਸਮੱਸਿਆ ਨੂੰ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਹੇ ਹਨ।
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -109,15 +111,28 @@ fp-learn-more-about-time-related-errors = ਸਮੇਂ ਨਾਲ ਸੰਬੰਧ
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਕਿਉਂਕਿ ਜਾਪਦਾ ਹੈ ਕਿ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਸਰਟੀਫਿਕੇਟ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ਨੂੰ { DATETIME($date, timeStyle: "short") } ਤੱਕ ਵਾਜਬ ਨਹੀਂ ਹੈ।
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀ ਘੜੀ ਮੁਤਾਬਕ ਵਕਤ { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ਹੈ। ਜੇ ਇਹ ਠੀਕ ਹੈ ਤਾ ਸਾਈਟ ਨਾਲ ਖੁਦ ਦੀ ਸੁਰੱਖਿਆ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ। ਜੇ ਇਹ ਗਲਤ ਹੈ ਤਾਂ ਤੁਸੀਂ ਆਪਣੇ ਡਿਵਾਈਸ ਦੀਆਂ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
-cert-error-revoked-certificate = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਲਈ ਤੁਹਾਡਾ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਦਿੱਤੀ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਜਾਰੀ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਮਨਸੂਖ਼ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਿਹਾ ਹੈ।
+cert-error-revoked-certificate = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਜਾਰੀ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਮਨਸੂਖ਼ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਿਹਾ ਹੈ।
 cert-error-bad-signature = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਸਰਟੀਫਿਕੇਟ ਉੱਤੇ ਦਸਤਖ਼ਤ ਵਾਜਬ ਨਹੀਂ ਹਨ।
-cert-error-key-pinning-failure = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਦਿੱਤੀ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਆਸ ਤੋਂ ਵੱਖਰੀ ਪਬਲਿਕ ਕੁੰਜੀ ਨੂੰ ਵਰਤਦਾ ਹੈ।
-cert-error-bad-der = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਦਿੱਤੀ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਠੀਕ ਇੰਕੋਡਿੰਗ ਨਹੀਂ ਵਰਤਦਾ ਹੈ।
-cert-error-inadequate-cert-type = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਦਿੱਤੀ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਰਵਰ ਵਲੋਂ ਵਰਤੇ ਜਾਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀ ਦਿੰਦਾ ਹੈ।
+cert-error-key-pinning-failure = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਆਸ ਤੋਂ ਵੱਖਰੀ ਪਬਲਿਕ ਕੁੰਜੀ ਨੂੰ ਵਰਤਦਾ ਹੈ।
+cert-error-bad-der = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਠੀਕ ਇੰਕੋਡਿੰਗ ਨਹੀਂ ਵਰਤਦਾ ਹੈ।
+cert-error-inadequate-cert-type = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਰਵਰ ਵਲੋਂ ਵਰਤੇ ਜਾਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀ ਦਿੰਦਾ ਹੈ।
+cert-error-invalid-key = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿਚਲੀ ਕੁੰਜੀ ਗ਼ੈਰ-ਵਾਜਬ ਹੈ। ਅਕਸਰ ਅਜਿਹਾ ਸੁਰੱਖਿਅਤ ਹੋਣ ਲਈ ਬਹੁਤ ਛੋਟੀ ਕੁੰਜੀ ਹੋਣ ਕਰਕੇ ਹੁੰਦਾ ਹੈ।
+cert-error-unknown-critical-extension = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਗ਼ੈਰ-ਸਹਾਇਕ ਗੰਭੀਰ ਇਕਸਟੈਨਸ਼ਨ ਹੈ।
+cert-error-extension-value-invalid = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਗ਼ੈਰ-ਵਾਜਬ ਇਕਸਟੈਨਸ਼ਨ ਹੈ।
+cert-error-untrusted-issuer = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ  ਅਜਿਹੀ ਸੰਸਥਾ ਵਲੋਂ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕੀਤਾ ਗਿਆ ਹੈ, ਜੋ ਕਿ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਹੀ ਹੈ।
+cert-error-untrusted-cert = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਭਰੋਸੇਯੋਗ ਨਾ ਹੋਣ ਲਈ ਨਿਸ਼ਾਨੀ ਲਾਈ ਹੈ।
+cert-error-invalid-integer-encoding = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਪੂਰਨ ਅੰਕ ਲਈ ਗ਼ੈਰ-ਵਾਜਬ ਇਨਕੋਡਿੰਗ ਹੈ। ਆਮ ਕਾਰਨਾਂ ਵਿੱਚ ਨਕਾਰਾਤਮਕ ਸੀਰੀਅਲ ਨੰਬਰ, ਨਕਾਰਾਤਮਕ RSA ਮਾਡੁਲੀ, ਅਤੇ ਇੰਕੋਡਿੰਗ ਜੋ ਲੋੜ ਤੋਂ ਵੱਧ ਲੰਬੇ ਹਨ।
+cert-error-unsupported-keyalg = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਦੀ ਗ਼ੈਰ-ਸਹਾਇਕ ਕੁੰਜੀ ਕਿਸਮ ਹੈ।
+cert-error-issuer-no-longer-trusted = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਜਾਰੀ ਕਰਨ ਵਾਲੀ ਸਰਟੀਫਿਕੇਟ ਸੰਸਥਾ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਹੀ ਹੈ।
+cert-error-signature-algorithm-mismatch = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਸਰਟੀਫਿਕੇਟ ਦਾ ਦਸਤਖ਼ਤੀ ਐਲਗੋਰਿਥਮ ਇਸ ਦੇ ਦਸਤਖ਼ਤੀ ਐਲਗੋਰਿਥਮ ਖੇਤਰ ਨਾਲ ਮਿਲਦਾ ਨਹੀਂ ਹੈ।
 
 ## Messages used for certificate error titles
 
@@ -179,3 +194,4 @@ fp-certerror-hide-advanced-button = ਤਕਨੀਕੀ ਓਹਲੇ ਕਰੋ
 fp-certerror-override-exception-button = { $hostname } ਨਾਲ ਜਾਰੀ ਰੱਖੋ (ਖ਼ਤਰਨਾਕ)
 fp-certerror-intro = { -brand-short-name } ਨੇ <strong>{ $hostname }</strong> ਲਈ ਸੰਭਾਵੀ ਗੰਭੀਰ ਸੁਰੱਖਿਆ ਮਸਲਾ ਲੱਭਿਆ ਹੈ। ਕੋਈ ਸਾਈਟ ਵਰਗਾ ਭੇਸ ਬਣ ਕੇ ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲਾਂ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
 fp-certerror-expired-into = { -brand-short-name } ਨੇ <strong>{ $hostname }</strong> ਲਈ ਸੁਰੱਖਿਆ ਮਸਲਾ ਲੱਭਿਆ ਹੈ। ਜਾਂ ਤਾਂ ਇਹ ਸਾਈਟ ਸਹੀ ਸੈਟ ਅੱਪ ਨਹੀਂ ਕੀਤੀ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀ ਘੜੀ ਲਈ ਤਾਰੀਖ/ਸਮਾਂ ਗਲਤ ਸੈਟ ਕੀਤਾ ਹੈ।
+fp-certerror-transparency-intro = ਕੋਈ <strong>{ $hostname }</strong> ਦਾ ਝਾਂਸਾ ਦੇ ਕੇ ਕਰੈਡਿਟ-ਕਾਰਡ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।

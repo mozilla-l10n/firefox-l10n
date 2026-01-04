@@ -186,8 +186,8 @@ tabbrowser-confirm-open-multiple-tabs-title = Potvrdit otevření
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { -brand-short-name.case-status ->
-        [with-cases] Chystáte se najednou otevřít více panelů ({ $tabCount }), a to může { -brand-short-name(case: "acc") } zpomalit. Opravdu chcete pokračovat?
-       *[no-cases] Chystáte se najednou otevřít více panelů ({ $tabCount }), a to může aplikaci { -brand-short-name } zpomalit. Opravdu chcete pokračovat?
+        [with-cases] Chystáte se otevřít { $tabCount } panelů najednou, a to může { -brand-short-name(case: "acc") } během jejich načítání zpomalit. Opravdu chcete pokračovat?
+       *[no-cases] Chystáte se otevřít { $tabCount } panelů najednou, a to může aplikaci { -brand-short-name } během jejich načítání zpomalit. Opravdu chcete pokračovat?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Otevřít panely
 tabbrowser-confirm-open-multiple-tabs-checkbox =
