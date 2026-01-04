@@ -403,6 +403,68 @@ translate-attribution = Tradukita de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Esceptoj…
     .accesskey = s
+settings-translations-header =
+    .label = Tradukoj
+    .aria-label = Tradukoj
+    .description = Traduki paĝojn aŭ elektitan tekston. Por protekti vian privatecon la tradukoj restas en via aparato.
+settings-translations-offer-to-translate-label =
+    .label = Proponi tutpaĝan tradukon
+settings-translations-more-settings-button =
+    .label = Pli da tradukaj agordoj
+    .description = Elekti preferojn por lingvoj, retejoj kaj malkonektita traduko.
+settings-translations-subpage-header =
+    .heading = Pli da tradukaj agordoj
+settings-translations-subpage-speed-up-translation-header =
+    .label = Rapidigi tradukon
+    .description = Elŝuti tutajn lingvojn por pli rapida tradukojn kaj por traduki malkonektite.
+settings-translations-subpage-automatic-translation-header =
+    .label = Aŭtomata traduko
+settings-translations-subpage-always-translate-header =
+    .label = Ĉiam traduki tiujn ĉi lingvojn
+settings-translations-subpage-never-translate-header =
+    .label = Neniam traduki tiujn ĉi lingvojn
+settings-translations-subpage-never-translate-sites-header =
+    .label = Neniam traduki tiujn ĉi retejojn
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Por aldoni retejon, malfermu la <img data-l10n-name="translations-icon"/> tradukan panelon, elektu <img data-l10n-name="settings-icon"/> tradukaj agordoj, kaj poste “Neniam traduki tiun ĉi retejon”
+settings-translations-subpage-language-select-option =
+    .label = Aldoni lingvon
+settings-translations-subpage-language-add-button =
+    .aria-label = Aldoni lingvon
+    .title = Aldoni lingvon
+settings-translations-subpage-download-languages-header =
+    .label = Elŝuti lingvojn
+settings-translations-subpage-download-languages-select-option =
+    .label = Elekti lingvon
+settings-translations-subpage-download-languages-button =
+    .aria-label = Elŝuti lingvon
+    .title = Elŝuti lingvon
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MO)
+    .label = { $language } ({ $size }MO)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Neniu lingvo elŝutita
+settings-translations-subpage-no-languages-added =
+    .label = Neniu lingvo aldonita
+settings-translations-subpage-download-progress = Elŝuto progresas…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Ne eblis elŝuti { $language } ({ $size }MO)
+settings-translations-subpage-download-retry-button =
+    .label = Klopodi denove
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Ĉu forigi { $language } ({ $size }MO)?
+settings-translations-subpage-download-delete-button =
+    .label = Forigi
+settings-translations-subpage-download-cancel-button =
+    .label = Nuligi
+settings-translations-subpage-no-sites-added =
+    .label = Neniu retejo aldonita
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =

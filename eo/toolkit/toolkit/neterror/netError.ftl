@@ -183,6 +183,11 @@ fp-neterror-http-auth-disabled-secure-connection = Tiu ĉi retejo postulas sekur
 fp-neterror-why-did-this-happen = Kial okazis tio ĉi?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Tiu retejo ŝajne uzas malnovan programaron kun konataj sekurecaj problemoj.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } ne fidas { $hostname } ĉar la konekto ne estas sekura.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Certu havi la lastan version de { -brand-short-name }. Iru al Helpo > Pri { -brand-short-name } en la menuo. Se vi jam uzas la lastan version de { -brand-short-name }, la problemo tre verŝajne rilatas la retejon mem.
 fp-neterror-offline-what-can-you-do-body = Provu konektiĝi el alia aparato. Kontrolu vian modemon aŭ retalirilon. Malkonektiĝu kaj rekonektiĝu al sendrata reto (Wi-Fi).
+fp-neterror-http-auth-disabled-what-can-you-do-body = Provu ŝanĝi la retadreson al HTTPS. Tamen, verŝajne estas problemo en la retejo mem.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Kelkefoje retejoj agordas protektojn por si mem kontraŭ nedezirataj interagoj kun aliaj retejoj.
+fp-learn-more-about-https-connections = Pli da informo pri konektoj HTTPS
