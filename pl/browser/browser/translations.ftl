@@ -222,7 +222,7 @@ select-translations-panel-try-again-button =
 # Text displayed as a placeholder when the panel is idle.
 select-translations-panel-idle-placeholder-text = Tutaj będzie wyświetlany przetłumaczony tekst.
 # Text displayed as a placeholder when the panel is actively translating.
-select-translations-panel-translating-placeholder-text = Tłumaczenie…
+select-translations-panel-translating-placeholder-text = Trwa tłumaczenie…
 select-translations-panel-init-failure-message =
     .message = Nie można wczytać języków. Sprawdź połączenie z Internetem i spróbuj ponownie.
 # Text displayed when the translation fails to complete.

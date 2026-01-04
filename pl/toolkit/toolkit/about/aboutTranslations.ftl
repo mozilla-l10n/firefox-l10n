@@ -37,3 +37,19 @@ about-translations-output-placeholder =
 about-translations-copy-button-default =
     .label = Kopiuj
     .title = Kopiuj tłumaczenie
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Skopiowano
+    .title = Skopiowano tłumaczenie
+# Text displayed on target-language selector when no language option is selected.
+about-translations-select-label =
+    .label = Wybierz język
+# A message displayed in the target-language output area while waiting for the translation to complete.
+about-translations-translating-message = Trwa tłumaczenie…
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = Zamień języki
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Wyczyść tekst źródłowy
