@@ -429,3 +429,11 @@ etp-strict-exceptions-infobar-button = Ужыць выпраўленні
     .accesskey = У
 etp-strict-exceptions-infobar-not-now = Не зараз
     .accesskey = Н
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } – не прадвызначаны браўзер
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } – не асноўны браўзер
+set-default-menu-message-row-layout-title = Зрабіць { -brand-short-name } вашым асноўным браўзерам
+set-default-menu-message-row-layout-title-variant = Зрабіць { -brand-short-name } вашым прадвызначаным браўзерам
+set-default-menu-message-row-layout-subtitle = Атрымайце хуткасць, бяспеку і прыватнасць пры кожным праглядзе.
