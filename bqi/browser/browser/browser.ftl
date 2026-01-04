@@ -603,6 +603,12 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = وردنی:
+urlbar-go-button =
+    .tooltiptext = رئڌن و نشۊوی مۉجۊد من نوار جاگه
+urlbar-page-action-button =
+    .tooltiptext = کارا بلگه
+urlbar-revert-button =
+    .tooltiptext = نشووݩ داڌن نشۊوی مۉجۊد من نوار جاگه
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
