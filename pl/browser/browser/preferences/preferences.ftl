@@ -412,6 +412,62 @@ settings-translations-header =
     .description = Tłumacz strony lub zaznaczony tekst. Aby chronić Twoją prywatność, tłumaczenia nie opuszczają tego urządzenia.
 settings-translations-offer-to-translate-label =
     .label = Proponuj tłumaczenie całych stron
+settings-translations-more-settings-button =
+    .label = Więcej ustawień tłumaczenia
+    .description = Ustaw preferencje języków, witryn i tłumaczenia bez połączenia z Internetem.
+settings-translations-subpage-header =
+    .heading = Więcej ustawień tłumaczenia
+settings-translations-subpage-speed-up-translation-header =
+    .label = Przyspiesz tłumaczenie
+    .description = Pobierz pełne języki, aby tłumaczyć szybciej i bez połączenia z Internetem.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatyczne tłumaczenie
+settings-translations-subpage-always-translate-header =
+    .label = Zawsze tłumacz te języki
+settings-translations-subpage-never-translate-header =
+    .label = Nigdy nie tłumacz tych języków
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nigdy nie tłumacz tych witryn
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Aby dodać witrynę, otwórz <img data-l10n-name="translations-icon"/> panel tłumaczenia, wybierz <img data-l10n-name="settings-icon"/> ustawienia tłumaczenia, a następnie „Nigdy nie tłumacz tej witryny”
+settings-translations-subpage-language-select-option =
+    .label = Dodaj język
+settings-translations-subpage-language-add-button =
+    .aria-label = Dodaj język
+    .title = Dodaj język
+settings-translations-subpage-download-languages-header =
+    .label = Pobierz języki
+settings-translations-subpage-download-languages-select-option =
+    .label = Wybierz język
+settings-translations-subpage-download-languages-button =
+    .aria-label = Pobierz język
+    .title = Pobierz język
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nie pobrano żadnych języków
+settings-translations-subpage-no-languages-added =
+    .label = Nie dodano żadnych języków
+settings-translations-subpage-download-progress = Pobieranie…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Nie można pobrać języka ({ $language }, { $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Spróbuj ponownie
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Czy usunąć { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Usuń
+settings-translations-subpage-download-cancel-button =
+    .label = Anuluj
+settings-translations-subpage-no-sites-added =
+    .label = Nie dodano żadnych witryn
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -579,6 +635,16 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
+## Firefox support
+
+support-application-heading =
+    .label = Wsparcie { -brand-short-name(case: "gen") }
+    .description = Rozwiązuj problemy lub dziel się pomysłami ze społecznością.
+support-get-help =
+    .label = Pomoc
+support-share-ideas =
+    .label = Podziel się pomysłami i opiniami
+
 ## General Section - Performance
 
 performance-title = Wydajność
@@ -631,6 +697,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Wyświetlaj przycisk trybu „Obraz w obrazie”.
     .accesskey = O
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Kontynuuj odtwarzanie w trybie „Obraz w obrazie” po przełączeniu karty
+    .accesskey = K
 browsing-picture-in-picture-learn-more = Więcej informacji
 browsing-media-control =
     .label = Sterowanie multimediami za pomocą klawiatury, zestawu słuchawkowego lub interfejsu wirtualnego.
@@ -860,6 +929,11 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na stronie wyników pasek adresu wyświetla wyszukiwane słowa
+search-separate-default-engine-2 =
+    .label = Używaj innej domyślnej wyszukiwarki w oknach prywatnych
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Domyślna wyszukiwarka w oknach prywatnych
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
