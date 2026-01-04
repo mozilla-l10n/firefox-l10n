@@ -65,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> nie ma wpływu na ten
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach wyróżniania.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> nie jest obsługiwane w regułach <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -87,6 +88,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Spróbuj dodać <strong>d
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong> lub <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Spróbuj dodać <strong>column-count</strong> lub <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Spróbuj dodać <strong>column-count</strong> lub <strong>column-width</strong> do jednego z elementów nadrzędnych. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Spróbuj dodać <strong>position:absolute</strong> do elementu, albo <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> lub <strong>display:inline-flex</strong> do elementu nadrzędnego. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Spróbuj dodać <strong>position:absolute</strong> do elementu, albo <strong>display:grid</strong> lub <strong>display:inline-grid</strong> do elementu nadrzędnego. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Spróbuj dodać <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> lub <strong>display:inline-flex</strong> do elementu nadrzędnego. { learn-more }
 inactive-css-not-grid-item-fix-2 = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:inline-grid</strong> do elementu nadrzędnego. { learn-more }
 inactive-css-not-grid-container-fix = Spróbuj dodać <strong>display:grid</strong> lub <strong>display:inline-grid</strong>. { learn-more }
@@ -140,3 +143,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Więcej infor
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Ten selektor używa nieograniczonego <strong>:has()</strong>, co może być powolne
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Selektory rodzeństwa po <strong>:scope</strong> nigdy nie będą pasować do niczego
