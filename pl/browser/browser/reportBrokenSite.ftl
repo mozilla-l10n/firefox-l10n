@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Proszę wybrać powód
 report-broken-site-panel-blocked-trackers-label =
     .label = Wyślij adresy zablokowane przez ochronę przed śledzeniem
 report-broken-site-panel-blocked-trackers-description = Wzmocniona ochrona przed śledzeniem może blokować elementy śledzące i skrypty, których niektóre strony potrzebują do poprawnego działania.
+report-broken-site-panel-preview-button =
+    .label = Podgląd zgłoszenia
+report-broken-site-panel-preview-header =
+    .label = Podgląd zgłoszenia
