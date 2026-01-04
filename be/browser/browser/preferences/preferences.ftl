@@ -331,6 +331,11 @@ preferences-web-appearance-override-warning3 =
     .message = Вашы налады кантраснасці перавызначаюць знешні выгляд сайта.
 preferences-web-appearance-link =
     .label = Кіруйце тэмамі { -brand-short-name } у пашырэннях і тэмах
+preferences-contrast-control-group =
+    .label = Кантраст вэб-сайта
+    .description = Сайты ўжываюць разнастайнасць колераў пярэдняга і задняга плану. Дзеля раўнамернага кантрасту, вы можаце выкарыстоўваць аднолькавыя колеры на ўсіх сайтах.
+preferences-contrast-control-radio-group =
+    .label = Перавызначыць колеры
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
@@ -401,6 +406,20 @@ translate-attribution = Пераклад <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Выключэнні…
     .accesskey = ч
+settings-translations-header =
+    .label = Пераклады
+    .aria-label = Пераклады
+    .description = Перакладайце старонкі або вылучаны тэкст. Каб захаваць вашу прыватнасць, пераклады застаюцца на вашай прыладзе.
+settings-translations-offer-to-translate-label =
+    .label = Прапаноўваць пераклад усёй старонкі
+settings-translations-more-settings-button =
+    .label = Дадатковыя налады перакладу
+    .description = Усталюйце перавагі для моў, сайтаў і перакладу па-за сеткаю.
+settings-translations-subpage-header =
+    .heading = Дадатковыя налады перакладу
+settings-translations-subpage-speed-up-translation-header =
+    .label = Паскорыць пераклад
+    .description = Сцягніце поўныя моўныя мадэлі для хутчэйшых перакладаў і каб перакладаць па-за сеткаю.
 settings-translations-subpage-automatic-translation-header =
     .label = Аўтаматычны пераклад
 settings-translations-subpage-always-translate-header =
@@ -409,6 +428,8 @@ settings-translations-subpage-never-translate-header =
     .label = Ніколі не перакладаць з гэтых моў
 settings-translations-subpage-never-translate-sites-header =
     .label = Ніколі не перакладаць гэтыя сайты
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Каб дадаць сайт, адкрыйце панэль перакладу <img data-l10n-name="translations-icon"/>, выберыце налады перакладу <img data-l10n-name="settings-icon"/>, а затым абярыце «Ніколі не перакладаць гэты сайт».
 settings-translations-subpage-language-select-option =
     .label = Дадаць мову
 settings-translations-subpage-language-add-button =
@@ -421,6 +442,11 @@ settings-translations-subpage-download-languages-select-option =
 settings-translations-subpage-download-languages-button =
     .aria-label = Сцягнуць мову
     .title = Сцягнуць мову
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } МБ)
+    .label = { $language } ({ $size } МБ)
 settings-translations-subpage-download-retry-button =
     .label = Паспрабаваць зноў
 settings-translations-subpage-download-delete-button =

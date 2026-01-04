@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Vi ne estas sekure konektita al tiu ĉi retejo.
 identity-connection-verified = Vi estas sekure konektita al tiu ĉi retejo.
 identity-ev-owner-label = Atestilo eldonita por:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalifikita laŭ la specifo en la Regularo (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto.
 identity-remove-cert-exception =
     .label = Forigi escepton
@@ -838,6 +840,9 @@ urlbar-result-menu-dont-show-market =
     .label = Ne montri sugestojn el akciaj merkatoj
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Dankon pro via opinio. Vi ne plu vidos sugestojn el akciaj merkatoj.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugestoj pri akciaj merkatoj
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Dankon pro via opinio. Vi ne plu vidos tiajn ĉi sugestojn.
@@ -929,6 +934,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Neniu ŝparvojo elektita, elektu ŝparvojon
     .tooltiptext = Neniu ŝparvojo elektita, elektu ŝparvojon
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La serĉo laŭ ŝlosilvorto estas malaktiva
+    .tooltiptext = La serĉo laŭ ŝlosilvorto estas malaktiva
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1582,3 +1591,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permesis { $count } minilojn de ĉifromono
     }
 trustpanel-cryptominer-tab-list-header = Tiuj ĉi retejoj klopodas mini ĉifromonon:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> spurilo blokita en tiu ĉi retejo
+       *[other] <span data-l10n-name="count">{ $count }</span> spuriloj blokitaj en tiu ĉi retejo
+    }
