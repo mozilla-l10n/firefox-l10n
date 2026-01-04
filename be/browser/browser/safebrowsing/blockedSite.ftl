@@ -70,3 +70,7 @@ safeb-palm-notdeceptive =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-addon-page-error-desc-override = <strong>Чаму гэты сайт заблакаваны?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> можа быць звязаны з падманнай і шкоднай дзейнасцю.
+safeb-blocked-addon-page-error-desc3-override = <strong>Што вы можаце з гэтым зрабіць?</strong>
+safeb-blocked-addon-page-error-desc4-override = Каб гэта больш не паўтаралася, вы можаце выдаліць або адключыць <strong>{ $addonName }</strong> з about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Даведайцеся больш пра абарону ад фішынгу і шкодных праграм у { -brand-short-name }</a>.

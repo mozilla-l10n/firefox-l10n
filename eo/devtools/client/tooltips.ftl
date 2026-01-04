@@ -21,6 +21,8 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas plurkolumna ingo.
 inactive-css-column-span = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ene de plurkolumna ingo.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ingo flex aŭ ingo krada.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas nek krada, nek flex-a nek lokita elemento.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas nek krada nek lokita elemento.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas krada elemento.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ingo krada.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas elemento flex.
@@ -63,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> ne efikas sur tiu ĉi
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ne estas subtenata en elstarigitaj kvazaŭelementoj.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> ne estas subtenata en reguloj <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -84,6 +87,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Provu aldoni <strong>disp
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Provu aldoni ĉu <strong>display:grid</strong>, <strong>display:flex</strong>, ĉu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong> al praa elemento. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Klopodu aldoni <strong>position:absolute</strong> to the element al la elemento, aŭ <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, aŭ <strong>display:inline-flex</strong> al la gepatra elmento. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Klopodu aldoni <strong>position:absolute</strong> al la elemento, aŭ <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong> al la gepatra elemento. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Klopodu aldoni <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, aŭ <strong>display:inline-flex</strong> al la gepatra elmento. { learn-more }
 inactive-css-not-grid-item-fix-2 = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong> al la gepatro de la elemento. { learn-more }
 inactive-css-not-grid-container-fix = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong>. { learn-more }
@@ -137,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Pli da inform
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Tiu ĉi elektilo uzas nelimigitan <strong>:has()</strong>, kiu povus esti malrapida
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Gefrataj elektiloj post <strong>:scope</strong> neniam kongruos kun io ajn

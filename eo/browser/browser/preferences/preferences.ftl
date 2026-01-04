@@ -155,6 +155,9 @@ startup-restore-warn-on-quit =
     .label = Averti min antaŭ ol fini la retumilon.
 disable-extension =
     .label = Malaktivigi etendaĵon
+preferences-data-migration-group =
+    .label = Enporti retumilajn datumojn
+    .description = Transportu el alia retumilo viajn legosignojn, pasvortojn, historion, etendaĵojn kaj datumojn pri aŭtomata plenigo.
 preferences-data-migration-header = Enporti retumilajn datumojn
 preferences-data-migration-description = Enporti legosignojn, pasvortojn, historion kaj aŭtomate plenigaj datumojn en { -brand-short-name }.
 preferences-data-migration-button =
@@ -325,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Viaj agordoj de kontrasto modifas la aspekton de retejoj.
 preferences-web-appearance-link =
     .label = Administri la etosojn de { -brand-short-name } en Etendaĵoj kaj etosoj
+preferences-contrast-control-group =
+    .label = Kontrasto en retejoj
+    .description = Retejoj uzas multajn malsamajn fonajn kaj malfonajn kolorojn. Por kohera kontrasto vi povas uzi la samajn kolorojn en ĉiuj retejoj.
+preferences-contrast-control-radio-group =
+    .label = Anstataŭigi kolorojn
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Via elekto de koloroj superregas la aspekton de retejoj. <a data-l10n-name="colors-link">Administri kolorojn</a>
