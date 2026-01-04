@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Trompa retejo
 safeb-blocked-malware-page-title = Vizito de tiu ĉi retejo povas difekti vian komputilon
 safeb-blocked-unwanted-page-title = La vizitota retejo povus enhavi difektajn programojn
 safeb-blocked-harmful-page-title = La vizitota retejo povus enhavi fiprogramojn
+safeb-blocked-addon-page-title = Retejo blokita por via sekureco
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } blokis tiun ĉi paĝon ĉar ĝi povas trompe igi vin fari ion danĝeran kiel instali programaron aŭ malkaŝi personajn informojn, kiel pasvortojn aŭ kreditkartojn.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } blokis tiun ĉi paĝon ĉar ĝi povus klopodi instali malican programaron, kiu povus ŝteli aŭ forigi personajn informojn en via komputilo.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blokis tiun ĉi paĝon ĉar ĝi trompe povus igi vin instali programojn, kiuj malutilos al via retuma sperto (ekzemple per ŝanĝo de via eka paĝo aŭ per aldono de reklamoj en vizitataj retejoj).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blokis tiun ĉi paĝon, ĉar ĝi povus klopodi instali danĝerajn programojn, kiu ŝtelas aŭ forigas viajn datumojn (ekzemple: fotojn, pasvortojn, mesaĝojn kaj kreditkartojn).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } blokis tiun paĝon ĉar unu el viaj aldonaĵoj klopodis malfermi ĝin. Tiu ĉi retejo povus esti uzi por ŝteli viajn datumojn — kiel pasvortojn aŭ numerojn de kreditkartoj.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Informo provizita de <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = Pli da informo pri la protekto de { -bra
 safeb-palm-notdeceptive =
     .label = Tiu ĉi ne estas trompa retejo…
     .accesskey = t
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Kial tiu ĉi retejo estis blokita?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> povus esti asociita al trompa kaj endanĝeriga agado.
+safeb-blocked-addon-page-error-desc3-override = <strong>Kion vi povus fari tio tio?</strong>
+safeb-blocked-addon-page-error-desc4-override = Por eviti ke tio ĉi okazos denove, vi povas forigi aŭ malaktivigi <strong>{ $addonName }</strong> el la paĝo about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Pli da informo pri la protekto de { -brand-short-name } kontraŭ trompo kaj endanĝerigo</a>.
