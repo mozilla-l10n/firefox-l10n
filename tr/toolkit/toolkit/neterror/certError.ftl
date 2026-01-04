@@ -77,6 +77,8 @@ fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { $hostname } için sağlanan sertifika iptal edildiği için ve artık güvenilir olmadığı için { -brand-short-name } bu site konusunda sizi uyarıyor.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Muhtemelen sorun sitenin kendisinden kaynaklandığı için siz herhangi bir şey yapamazsınız. Ancak site sahibiyle iletişime geçerek sorundan haberdar olup olmadıklarını sorabilirsiniz.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -88,6 +90,8 @@ fp-certerror-bad-domain-what-can-you-do-body = Muhtemelen yapabileceğiniz bir �
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { $hostname } için sağlanan sertifika artık güvenilmeyen bir sertifika makamı tarafından verildiği için { -brand-short-name } sizi bu site hakkında uyarıyor.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Muhtemelen sorun sitenin kendisinden kaynaklandığı için siz herhangi bir şey yapamazsınız. Ancak site sahibiyle iletişime geçerek sorundan haberdar olup olmadıklarını sorabilirsiniz.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Bu sitenin sertifikasında bir sorun var. Kötü niyetli birisi siteyi taklit etmeye çalışıyor olabilir. Siteler gerçekten o site olduklarını kanıtlamak için sertifika makamlarının verdiği sertifikaları kullanır. Bu sitenin sertifikasını kimin verdiğini anlayamadığımız için { -brand-short-name } bu siteye güvenmiyor. Sertifika kendi kendine imzalanmış olabilir veya güvendiğimiz ara sertifikaları göndermemiş olabilir.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
