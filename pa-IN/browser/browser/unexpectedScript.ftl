@@ -15,6 +15,12 @@ unexpected-script-load-message-button-block =
     .label = ਪਾਬੰਦੀ
     .accesskey = B
 unexpected-script-load-title = ਅਣਚਾਹੀ ਸਕ੍ਰਿਪਟ ਲੋਡ
+unexpected-script-load-detail-1-allow = { -brand-short-name } ਹੇਠ ਦਿੱਤਿਆਂ ਵਿੱਚੋਂ ਅਣਕਿਆਸੇ ਖਾਸ ਅਧਿਕਾਰ ਪ੍ਰਾਪਤ ਸਕ੍ਰਿਪਟਾਂ ਨੂੰ ਲੋਡ ਹੋਣ ਦੀ <strong>ਮਨਜ਼ੂਰੀ</strong> ਦੇਵੇਗਾ। ਇਸ ਨਾਲ ਤੁਹਾਡੇ { -brand-short-name } ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ <strong>ਘੱਟ</strong> ਸੁਰੱਖਿਅਤ ਬਣ ਜਾਵੇਗੀ।
+unexpected-script-load-detail-1-block = { -brand-short-name } ਹੇਠ ਦਿੱਤਿਆਂ ਵਿੱਚੋਂ ਅਣਕਿਆਸੇ ਖਾਸ ਅਧਿਕਾਰ ਪ੍ਰਾਪਤ ਸਕ੍ਰਿਪਟਾਂ ਨੂੰ ਲੋਡ ਹੋਣ ਉੱਤੇ <strong>ਪਾਬੰਦੀ</strong> ਲਾਵੇਗਾ। ਇਸ ਨਾਲ ਤੁਹਾਡੇ { -brand-short-name } ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ <strong>ਵੱਧ</strong> ਸੁਰੱਖਿਅਤ ਬਣ ਜਾਵੇਗੀ।
+# In this text "the functionality" refers to whatever the unexpected script is doing.
+# Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
+# They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
+unexpected-script-load-detail-2 = ਭਾਵੇਂ ਤੁਸੀਂ ਇਸ ਸਕ੍ਰਿਪਟ ਨੂੰ ਮਨਜ਼ੂਰ ਦੇ ਦਿਓ, ਪਰ ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰ ਦਿਓ ਤਾਂ ਕਿ { -vendor-short-name } ਨੂੰ ਪਤਾ ਲੱਗ ਸਕੇ ਕਿ ਇਸ ਨੂੰ ਕਿਵੇਂ ਅਤੇ ਕਾਹਤੋਂ ਲੋਡ ਕੀਤਾ ਗਿਆ ਸੀ। <em>ਇਸ ਜਾਣਕਾਰੀ ਦੇ ਬਿਨਾਂ ਇਹ ਢੰਗ ਭਵਿੱਖ ਵਿੱਚ ਕੰਮ ਨਹੀਂ ਕਰੇਗਾ।</em>
 unexpected-script-load-report-checkbox =
     .label = ਇਸ ਸਕ੍ਰਿਪਟ ਦੇ URL ਬਾਰੇ { -vendor-short-name } ਨੂੰ ਜਾਣਕਾਰੀ ਦਿਓ
 unexpected-script-load-email-checkbox =

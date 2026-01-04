@@ -299,6 +299,12 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = ਪੁਸ਼ ਸੇਵਾ
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = ਮੁੱਢ
+# Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
+about-debugging-zombie-tab-inspect-action-disabled =
+    .title = ਟੈਬ ਪੂਰੀ ਤਰ੍ਹਾਂ ਲੋਡ ਨਹੀਂ ਹੈ ਅਤੇ ਜਾਂਚ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦੀ ਹੈ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ

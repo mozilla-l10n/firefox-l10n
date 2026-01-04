@@ -61,6 +61,9 @@ add-engine-button = ਕਸਟਮ ਇੰਜਣ ਜੋੜੋ
 add-engine-name = ਖੋਜ ਇੰਜਣ ਦਾ ਨਾਂ
 add-engine-url2 = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਨਾਲ URL ਦਿਓ
 add-engine-keyword2 = ਸ਼ਬਦ (ਚੋਣਵਾਂ)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਨਾਲ POST ਡਾਟਾ (GET ਲਈ ਖਾਲੀ ਛੱਡੋ)
+add-engine-suggest-url = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਨਾਲ ਸੁਝਾਅ URL (ਚੋਣਵਾਂ)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
@@ -78,6 +81,11 @@ add-engine-name-exists = ਉਹ ਨਾਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿ
 add-engine-no-name = ਨਾਂ ਜੋੜੋ ਜੀ।
 add-engine-no-url = URL ਦਿਓ ਜੀ।
 add-engine-invalid-url = ਇਹ URL ਠੀਕ ਨਹੀਂ ਜਾਪਦਾ ਹੈ। ਇਸ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+add-engine-invalid-protocol = ਇਹ URL ਠੀਕ ਨਹੀਂ ਜਾਪਦਾ ਹੈ। http ਜਾਂ https ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ URL ਵਰਤੋਂ।
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਸ਼ਾਮਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਸ਼ਾਮਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## The following strings are used as labels for the dialog's buttons.
 

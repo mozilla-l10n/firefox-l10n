@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } ਨੇ ਇਸ ਸ
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਦੋਖੀ ਸਾਫ਼ਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਚੋਰੀ ਜਾਂ ਹਟਾ ਸਕਦਾ ਹੈ।
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਨੂੰ ਅਜਿਹੇ ਪਰੋਗਰਾਮ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਫ਼ਰੇਬ ਦੇ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਤਜਰਬੇ ਨੂੰ ਨੁਕਸਾਨ ਕਰ ਸਕਦੇ ਹਨ (ਜਿਵੇਂ ਕਿ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਨੂੰ ਬਦਲ ਕੇ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਲਈ ਵਾਧੂ ਇਸ਼ਤਿਹਾਰ ਦਿਖਾ ਕੇ)।
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ਨੇ ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਇਸ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ ਕਿ ਇਸ ਖ਼ਤਰਨਾਕ ਐਪਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ (ਮਿਸਾਲ ਵਜੋਂ ਫ਼ੋਟੋ, ਪਾਸਵਰਡ, ਸੁਨੇਹੇ ਅਤੇ ਕਰੈਡਿਟ ਕਾਰਡ) ਨੂੰ ਚੋਰੀ ਕਰ ਜਾਂ ਹਟਾ ਸਕਦੀਆਂ ਹਨ।
+safeb-blocked-addon-page-short-desc = ਤੁਹਾਡੀ ਕਿਸੇ ਐਡ-ਆਨ ਵਲੋਂ ਇਸ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੇ ਜਾਣ ਕਰਕੇ { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਉੱਤੇਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ। ਇਹ ਸਾਈਟ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ — ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ ਜਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਨੰਬਰ ਆਦਿ ਨੂੰ ਚੋਰੀ ਕਰਨ ਲਈ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ।
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> ਵਲੋਂ ਦਿੱਤੀ ਗਈ ਸਲਾਹ।
