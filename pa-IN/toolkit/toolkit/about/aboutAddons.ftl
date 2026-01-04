@@ -277,8 +277,16 @@ discopane-notice-recommendations2 =
         ਇਹਨਾਂ ਸਿਫਾਰਸ਼ਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨਿੱਜੀ ਬਣਾਈਆਂ ਹਨ। ਇਹ ਤੁਹਾਡੇ ਵਲੋਂ ਇੰਸਟਾਲ ਇਕਸਟੈਨਸ਼ਨਾਂ, ਪਰੋਫਾਈਲ ਪਸੰਦਾਂ
          ਅਤੇ ਵਰਤੋਂ ਅੰਕੜਿਆਂ ਦੇ ਉੱਤੇ ਅਧਾਰਿਤ ਹਨ।
 discopane-notice-learn-more = ਹੋਰ ਸਿੱਖੋ
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = ਤੁਹਾਡੇ ਰੰਗ-ਢੰਗ ਥੀਮਾਂ ਨੂੰ ਹਟਾਇਆ ਗਿਆ ਸੀ।
+    .message = { -brand-product-name } ਨੇ ਆਪਣੇ ਰੰਗ-ਢੰਗ ਭੰਡਾਰ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਹੈ। ਅਸੀਂ ਤੁਹਾਡੇ “ਸੰਭਾਲੇ ਥੀਮ” ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨਾਂ ਨੂੰ ਹਟਾਇਆ ਹੈ। ਐਡ-ਆਨ ਸਾਈਟ ਤੋਂ ਨਵੇਂ ਵਰਜ਼ਨ ਲਵੋ।
 colorway-removal-notice-learn-more = ਹੋਰ ਜਾਣੋ
 colorway-removal-notice-button = ਅੱਪਡੇਟ ਕੀਤੇ ਰੰਗ-ਢੰਗ ਥੀਮਾਂ ਨੂੰ ਲਵੋ
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = ਤੁਹਾਡੀਆਂ Windows ਕਨਟਰਾਸਟ ਸੈਟਿੰਗਾਂ { -brand-short-name } ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਰਹੀਆਂ ਹਨ। { -brand-short-name } ਵਿੱਚ ਥੀਮਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਉਹਨਾਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।
 privacy-policy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -582,6 +590,7 @@ addon-category-mlmodel = ਡਿਵਾਈਸ ਉੱਤੇ AI
 addon-category-mlmodel-title =
     .title = ਡਿਵਾਈਸ ਉੱਤੇ AI
 mlmodel-heading = ਡਿਵਾਈਸ ਉੱਤੇ AI ਮਾਡਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+mlmodel-description = { -brand-short-name } ਵਿੱਚ ਕੁਝ ਫ਼ੀਚਰ ਅਤੇ ਇਕਸਟੈਨਸ਼ਨਾਂ AI ਮਾਡਲਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤੇ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਲੋਕਲ ਹੀ ਕੰਮ ਕਰਦੇ ਹਨ। ਇਹ ਢੰਗ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਬਣਾਈ ਰੱਖਦੀ ਹੈ ਅਤੇ ਕਈ ਹਾਲਤਾਂ ਵਿੱਚ ਕਾਰਗੁਜ਼ਾਰੀ ਵੀ ਤੇਜ਼ ਹੁੰਦੀ ਹੈ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = ਹਟਾਓ

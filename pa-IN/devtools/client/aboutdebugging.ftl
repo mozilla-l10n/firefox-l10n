@@ -305,6 +305,9 @@ about-debugging-worker-origin =
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = ਟੈਬ ਪੂਰੀ ਤਰ੍ਹਾਂ ਲੋਡ ਨਹੀਂ ਹੈ ਅਤੇ ਜਾਂਚ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦੀ ਹੈ
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-multiprocess-toolbox-name = ਮਲਟੀ-ਪ੍ਰੋਸੈਸ ਟੂਬਬਾਕਸ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ

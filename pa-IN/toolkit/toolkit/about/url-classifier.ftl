@@ -14,6 +14,7 @@ url-classifier-search-result-list = ਸਾਰਣੀਆਂ ਦੀ ਸੂਚੀ: {
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = ਗਲਤ URL
 url-classifier-search-error-no-features = ਕੋਈ ਫ਼ੀਚਰ ਨਹੀਂ ਚੁਣਿਆ
+url-classifier-search-error-no-results = URL ਵਿੱਚ ਕੋਈ ਐਂਟਰੀ ਨਹੀਂ ਲੱਭੀ
 url-classifier-search-btn = ਖੋਜਣਾ ਸ਼ੁਰੂ ਕਰੋ
 url-classifier-search-features = ਫ਼ੀਚਰ
 url-classifier-search-listType = ਸੂਚੀ ਕਿਸਮ
