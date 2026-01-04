@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = Vidu mallongan priskribon, taksita
 sidebar-button-callout-title = Montri titolojn de langetoj en la flanka strio
 sidebar-button-callout-subtitle = Uzu la butonon de la flanka strio por malfaldi ĝin, tiel ke vi povos vidi titolojn de langetoj.
 sidebar-button-callout-vertical-tabs = Por montri viajn langetojn, alklaku la butonon de la flanka strio en la ilaro.
+sidebar-deprecation-callout-title = Baldaŭ estos ĝisdatigita flanka strio
+sidebar-deprecation-callout-subtitle = La flanka strio, kiun vi uzas, ne plu haveblos estontece. Provu la ĝisdatigitan flankan strion. Ĝi estas pli rapida kaj havas aliron al pli da iloj.
+sidebar-deprecation-cta-button = Provi nun
 
 ## Sidebar Vertical Tabs Strings
 

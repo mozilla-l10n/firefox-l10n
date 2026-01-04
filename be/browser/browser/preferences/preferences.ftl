@@ -943,6 +943,8 @@ search-separate-default-engine-2 =
     .accesskey = ш
 search-separate-default-engine-dropdown =
     .aria-label = Прадвызначаная пошукавая сістэма ў прыватных вокнах
+search-suggestions-header-2 =
+    .label = Прапановы пошукавых сістэм
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1019,6 +1021,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Сінхранізацыя
+account-group-label =
+    .label = Уліковы запіс { -vendor-short-name }
+account-placeholder =
+    .label = Вы не ўвайшлі
+    .description = Увайдзіце, каб трымаць свае звесткі прыватнымі, зашыфраванымі і сінхранізаванымі паміж прыладамі.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1028,6 +1035,9 @@ sync-signedout-description2 = Сінхранізуйце свае закладк
 sync-signedout-account-signin3 =
     .label = Увайсці ў сінхранізацыю
     .accesskey = і
+sync-signedout-account-signin-4 =
+    .label = Увайдзіце ў свой уліковы запіс, каб пачаць сінхранізацыю
+    .accesskey = ў
 sync-signedout-account-short =
     .label = Увайсці
     .accesskey = і
@@ -1069,6 +1079,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не пацвержаны.
+sync-signedin-unverified2 =
+    .label = Адрас { $email } пакуль не пацверджаны
+    .description = Праверце сваю паштовую скрыню, каб пацвердзіць уліковы запіс і зрабіць яго афіцыйным.
 sync-signedin-login-failure = Увайдіце, калі ласка, каб перазлучыцца { $email }
 
 ## Variables
@@ -1099,7 +1112,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Сінхранізацыя: УКЛЮЧАНА
+prefs-syncing-on-2 =
+    .label = Сінхранізацыя УКЛЮЧАНА
 prefs-syncing-off = Сінхранізацыя: ВЫКЛЮЧАНА
+prefs-syncing-off-2 =
+    .label = Сінхранізацыя АДКЛЮЧАНА
+    .description = Уключыце сінхранізацыю, каб атрымаць свае закладкі, паролі, гісторыю і іншае на любой прыладзе.
 prefs-sync-turn-on-syncing =
     .label = Уключыць сінхранізацыю…
     .accesskey = ы
@@ -1126,6 +1144,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Вы сінхранізуеце гэтыя рэчы на ўсіх сваіх падлучаных прыладах:
+sync-syncing-across-devices-heading-2 = Дадзеныя сінхранізаваны паміж прыладамі
+sync-syncing-across-devices-empty-state =
+    .label = Вы нічога не сінхранізуеце… пакуль
+    .description = Пачніце сінхранізацыю, каб атрымаць усе свае дадзеныя на ўсіх сваіх прыладах.
 sync-currently-syncing-bookmarks = Закладкі
 sync-currently-syncing-history = Гісторыю
 sync-currently-syncing-tabs = Адкрытыя карткі
@@ -1138,6 +1160,9 @@ sync-currently-syncing-addons = Дадаткі
 sync-currently-syncing-settings = Налады
 sync-manage-options =
     .label = Кіраваць сінхранізацыяй…
+    .accesskey = ь
+sync-manage-options-2 =
+    .label = Кіраваць сінхранізаванымі дадзенымі
     .accesskey = ь
 sync-change-options =
     .label = Змяніць…

@@ -576,8 +576,6 @@ browser-tab-audio-playing2 = LUDANTA
 browser-tab-audio-muted2 = SILENTIGITA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = AŬTOMATA LUDADO BLOKITA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = BILDO-EN-BILDO
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -1206,7 +1204,7 @@ edit-popup-settings =
     .label = Administri agordojn de ŝprucaĵoj
     .accesskey = A
 picture-in-picture-hide-toggle =
-    .label = Kaŝi butonon de bildo en bildo
+    .label = Kaŝi butonon por inkrustita video
     .accesskey = K
 
 ## Since the default position for PiP controls does not change for RTL layout,
