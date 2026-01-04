@@ -76,10 +76,22 @@ fp-certerror-return-to-previous-page-recommended-button = Вярнуцца (рэ
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } папярэджвае вас аб гэтым сайце, бо сертыфікат, прадстаўлены для { $hostname }, быў адкліканы і больш не з'яўляецца давераным.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Імаверна, нічога, таму што, хутчэй за ўсё, праблема з самім сайтам. Вы можаце звярнуцца да ўладальніка сайта, каб даведацца, ці працуюць яны над вырашэннем праблемы.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Сайт настроены на дазвол толькі бяспечных злучэнняў, але ёсць праблема з сертыфікатам сайта. Цалкам магчыма, што зламыснік спрабуе выдаць сябе за гэты сайт. Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. { -brand-short-name } не давярае гэтаму сайту, бо яго сертыфікат несапраўдны для { $hostname }. Сертыфікат сапраўдны толькі для: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Імаверна, нічога, таму што, хутчэй за ўсё, праблема з самім сайтам. Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. Але калі вы карыстаецеся карпаратыўнай сеткай, ваша служба падтрымкі можа мець больш інфармацыі. Калі вы выкарыстоўваеце антывіруснае праграмнае забеспячэнне, паспрабуйце пашукаць магчымыя канфлікты або вядомыя праблемы.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } папярэджвае вас аб гэтым сайце, бо сертыфікат, прадстаўлены для { $hostname }, быў выдадзены органам сертыфікацыі, якому больш не давяраюць.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Імаверна, нічога, таму што, хутчэй за ўсё, праблема з самім сайтам. Вы можаце звярнуцца да ўладальніка сайта, каб даведацца, ці працуюць яны над вырашэннем праблемы.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Узнікла праблема з сертыфікатам сайта. Цалкам магчыма, што зламыснік спрабуе выдаць сябе за гэты сайт. Сайты выкарыстоўваюць сертыфікаты, выдадзеныя цэнтрам сертыфікацыі, каб пацвердзіць, што яны сапраўды тыя, за каго сябе выдаюць. { -brand-short-name } не давярае гэтаму сайту, таму што мы не можам сказаць, хто выдаў сертыфікат, ён самападпісаны або сайт не дасылае прамежкавыя сертыфікаты, якім мы давяраем.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -116,6 +128,10 @@ fp-certerror-transparency-what-can-you-do-body = Хутчэй за ўсё, ні�
 fp-learn-more-about-secure-connection-failures = Падрабязней пра памылкі бяспечнага злучэння
 fp-learn-more-about-cert-issues = Падрабязней пра падобныя праблемы з сертыфікатамі
 fp-learn-more-about-time-related-errors = Падрабязней пра вырашэнне праблем, звязаных з часам
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не давярае гэтаму сайту, таму што, здаецца, прадстаўлены сертыфікат нядзейсны да { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

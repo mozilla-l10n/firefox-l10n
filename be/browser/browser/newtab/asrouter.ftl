@@ -437,3 +437,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } –
 set-default-menu-message-row-layout-title = Зрабіць { -brand-short-name } вашым асноўным браўзерам
 set-default-menu-message-row-layout-title-variant = Зрабіць { -brand-short-name } вашым прадвызначаным браўзерам
 set-default-menu-message-row-layout-subtitle = Атрымайце хуткасць, бяспеку і прыватнасць пры кожным праглядзе.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным і дадайце ў Док.
+       *[other] Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным і трымайце на панэлі заданняў.
+    }
+set-default-menu-message-primary-button = Зрабіць прадвызначаным
+set-default-menu-message-primary-button-variant = Прызначыць асноўным браўзерам
