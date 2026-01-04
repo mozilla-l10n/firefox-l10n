@@ -20,3 +20,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = ਮੁੜ ਨਾ ਵੇਖਾਓ
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = ਇਸ ਮਸਲੇ ਨੂੰ ਕਿਵੇਂ ਠੀਕ ਕਰੀਏ
+sandbox-content-disabled-warning = ਸੁਰੱਖਿਆ ਟੈਸਟ-ਬਾਕਸ ਅਸਮਰੱਥ ਹੈ। ਤੁਹਾਡੀ ਸੰਰਚਨਾ ਗ਼ੈਰ-ਸਹਾਇਕ ਅਤੇ ਘੱਟ ਸੁਰੱਖਿਅਤ ਹੈ।
