@@ -54,3 +54,7 @@ report-broken-site-panel-missing-reason-label = Bonvolu elekti kialon
 report-broken-site-panel-blocked-trackers-label =
     .label = Sendi retadresojn blokitaj de la protekto kontraŭ spurado
 report-broken-site-panel-blocked-trackers-description = La plibonigita protekto kontraŭ spurado povas bloki spurilojn kaj skriptojn, kiuj estas bezonataj por bona funkciado de kelkaj retejoj.
+report-broken-site-panel-preview-button =
+    .label = Antaŭvidi raporton
+report-broken-site-panel-preview-header =
+    .label = Antaŭvidi raporton

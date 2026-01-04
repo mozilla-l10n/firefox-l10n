@@ -425,3 +425,18 @@ etp-strict-exceptions-infobar-button = Apliki korektojn
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ne nun
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ne estas via norma retumilo
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ne estas via ĉefa retumilo
+set-default-menu-message-row-layout-title = Igu { -brand-short-name } via ĉefa retumilo
+set-default-menu-message-row-layout-title-variant = Igu { -brand-short-name } via norma retumilo
+set-default-menu-message-row-layout-subtitle = Via tuta retumo rapida, sekura kaj privata.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la Dock.
+       *[other] Tenu { -brand-short-name } ĉemane — igu ĝin via norma retumilo kaj alpinglu ĝin al la taska strio.
+    }
+set-default-menu-message-primary-button = Elekti kiel norma
+set-default-menu-message-primary-button-variant = Difini kiel ĉefa retumilo

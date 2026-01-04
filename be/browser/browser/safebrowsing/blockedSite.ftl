@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = Падроблены сайт наперад
 safeb-blocked-malware-page-title = Наведванне гэтага сайта можа нанесці шкоду вашаму камп'ютару
 safeb-blocked-unwanted-page-title = Гэты сайт можа ўтрымліваць зламысныя праграмы
 safeb-blocked-harmful-page-title = Гэты сайт можа ўтрымліваць зламысныя праграмы
+safeb-blocked-addon-page-title = Сайт заблакаваны дзеля вашай бяспекі
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } заблакаваў гэту старонку, таму што яна можа спрабаваць падманам схіліць вас зрабіць што-небудзь небяспечнае, напрыклад, усталяваць праграмы, або раскрыць персанальную інфармацыю, як то паролі і крэдытныя карты.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } заблакаваў гэту старонку, таму што яна можа спрабаваць усталяваць шкодныя праграмы, якія могуць скрасці або сцерці персанальныя звесткі на вашым камп'ютары.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } заблакаваў гэту старонку, таму што яна можа спрабаваць падманам схіліць вас да ўсталявання праграм, якія будуць перашкаджаць вашай працы ў браўзеры (напрыклад, мяняць хатнюю старонку, або паказваць дадатковую рэкламу на сайтах).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } заблакаваў доступ да гэтай старонкі, бо яна можа зрабіць спробу ўсталяваць небяспечныя праграмы, якія выкрадуць або выдаляць вашу інфармацыю (напрыклад, фатаграфіі, паролі, паведамленні і нумары банкаўскіх карт).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } заблакаваў гэту старонку, бо адзін з вашых дадаткаў спрабаваў яе адкрыць. Гэты сайт можа быць выкарыстаны для крадзяжу вашай інфармацыі, напрыклад, пароляў або нумароў крэдытных карт.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Парады ад <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,9 @@ safeb-blocked-harmful-page-learn-more = Падрабязней пра Абаро
 safeb-palm-notdeceptive =
     .label = Гэта не падманлівы сайт…
     .accesskey = в
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Чаму гэты сайт заблакаваны?</strong>

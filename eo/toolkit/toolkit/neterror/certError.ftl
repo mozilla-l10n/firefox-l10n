@@ -76,10 +76,22 @@ fp-certerror-return-to-previous-page-recommended-button = Reen (rekomendita)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } avertas vin pri tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estis revokita kaj do ne plu estas fidata.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Verŝajne temas pri nenio grava, sed eble estas problemo en la retejo. Vi povas kontakti la posedanton de la retejo por scii ĉu ili klopodas solvi la problemon.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Tiu ĉi retejo nur akceptas sekurajn konektojn, sed estas problemo kun la atestilo de la retejo. Povus okazi ke iu trompe klopodu ŝajnigi esti tiu retejo. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ĝia atestilo ne estas valida por { $hostname }. La atestilo nur validas por: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Probable temas pri nenio grava, ĉar verŝajne estas problemo en la retejo mem. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. Sed se vi estas en entreprena reto, via helpa teamo povus havi pli da informoj. Se vi uzas kontraŭvirusan programon, provu serĉi ĉu estas eblaj konfliktoj aŭ konataj problemoj.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } avertas vin pri tiu ĉi retejo ĉar la atestilo provizita por { $hostname } estis eldonita de atestila aŭtoritato, kiu ne plu estas fidata.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Verŝajne temas pri nenio grava, sed eble estas problemo en la retejo. Vi povas kontakti la posedanton de la retejo por scii ĉu ili klopodas solvi la problemon.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Estas problemo kun la atestilo de la retejo. Povus okazi ke iu trompe klopodu ŝajnigi esti tiu retejo. Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ni ne povas determini kiu eldonis la atestilon, la atestilo estas memsubskribita aŭ la retejo ne sendas interajn atestilojn, kiujn ni fidas.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -116,6 +128,14 @@ fp-certerror-transparency-what-can-you-do-body = Verŝajne temas pri nenio grava
 fp-learn-more-about-secure-connection-failures = Pli da informo pri malsukceso de sekuraj konektoj
 fp-learn-more-about-cert-issues = Pli da informo pri ĉi tiaj atestilaj problemoj
 fp-learn-more-about-time-related-errors = Pli da informo pri solvo de problemoj rilatitaj kun la dato kaj horo
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajne la provizita atestilo ne validas antaŭ { DATETIME($date, timeStyle: "short") } je { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = La horloĝo de via aparato montras { DATETIME($date, timeStyle: "short") }{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se tio ĝustas la sekureca problemo estas verŝajne en la retejo mem. Se tio malĝustas, vi povas tion ŝanĝi en la sistemaj agordoj de via aparato.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
