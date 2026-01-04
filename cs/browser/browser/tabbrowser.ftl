@@ -151,7 +151,7 @@ tabbrowser-confirm-close-tabs-with-key-button =
     }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-ask-close-tabs-with-key-checkbox = Zeptat se před ukončením zkratkou { $quitKey }
+tabbrowser-ask-close-tabs-with-key-checkbox = Zeptat se před ukončením aplikace pomocí zkratky { $quitKey }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Vždy se zeptat při ukončování aplikace zkratkou { $quitKey }

@@ -267,7 +267,7 @@ ask-on-close-multiple-tabs =
 #                       in the same manner as it would appear,
 #                       for example, in the File menu.
 ask-on-quit-with-key =
-    .label = Zeptat se před ukončením zkratkou { $quitKey }
+    .label = Zeptat se před ukončením aplikace pomocí zkratky { $quitKey }
     .accesskey = k
 confirm-on-close-multiple-tabs =
     .label = Vždy se zeptat při zavírání více panelů
