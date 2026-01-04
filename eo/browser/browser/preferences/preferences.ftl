@@ -1017,6 +1017,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Spegulado
+account-group-label =
+    .label = Konto de { -vendor-short-name }
+account-placeholder =
+    .label = Vi ne komencis seancon
+    .description = Komencu seancon por gardi viajn datumojn privataj, ĉifritaj kaj spegulitaj inter aparatoj.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1028,6 +1033,9 @@ sync-signedout-account-signin3 =
     .accesskey = K
 sync-signedout-account-signin-4 =
     .label = Komenci seancon en via konto por komenci speguli
+    .accesskey = K
+sync-signedout-account-short =
+    .label = Komenci seancon
     .accesskey = K
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1067,7 +1075,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ne estas konfirmita.
+sync-signedin-unverified2 =
+    .label = { $email } ne estas konfirmita ankoraŭ
+    .description = Kontrolu vian retpoŝton por konfirmi vian konton kaj igi ĝin oficiala.
 sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
+sync-signedin-login-failure2 =
+    .label = Vi finis la seancon de { $email }
+    .description = Rekomencu vian seancon por rekonekti kaj komenci speguli viajn datumojn.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1090,6 +1114,9 @@ prefs-syncing-on = Spegulado: ŝaltita
 prefs-syncing-on-2 =
     .label = La spegulado estas ŝaltita
 prefs-syncing-off = Spegulado: malŝaltita
+prefs-syncing-off-2 =
+    .label = La spegulado estas malŝaltita
+    .description = Ŝaltu speguladon por havi viajn legosignojn, pasvortojn, historion kaj pli en iu ajn aparato.
 prefs-sync-turn-on-syncing =
     .label = Ŝalti speguladon…
     .accesskey = s
@@ -1132,6 +1159,9 @@ sync-currently-syncing-addons = aldonaĵojn
 sync-currently-syncing-settings = Agordoj
 sync-manage-options =
     .label = Administri speguladon…
+    .accesskey = A
+sync-manage-options-2 =
+    .label = Administri spegulitajn datumojn
     .accesskey = A
 sync-change-options =
     .label = Ŝanĝi…
@@ -1392,6 +1422,12 @@ autofill-payment-methods-add-button = Aldoni novan pagmetodon
 payments-list-header =
     .label = Pagmetodoj
 payments-list-item-label = <strong>Pagmetodoj</strong>
+payments-delete-payment-prompt-title = Ĉu forigi tiun ĉi pagmetodon?
+payments-delete-payment-prompt-confirm-button = Forigi
+payments-delete-payment-prompt-cancel-button = Nuligi
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Neniu pagmetodo aldonita
 payments-remove-payment-prompt-title = Ĉu forigi tiun ĉi pagmetodon?
 payments-remove-payment-prompt-confirm-button = Forigi
 payments-remove-payment-prompt-cancel-button = Nuligi
@@ -1404,6 +1440,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administri adresojn kaj pli
     .accesskey = A
+addresses-list-header =
+    .label = Adresoj
+addreses-delete-address-button-label =
+    .aria-label = Forigi
+addreses-edit-address-button-label =
+    .aria-label = Modifi
+addresses-delete-address-prompt-title = Ĉu forigi tiun ĉi adreson?
+addresses-delete-address-prompt-confirm-button = Forigi
+addresses-delete-address-prompt-cancel-button = Nuligi
+autofill-addresses-add-button = Aldoni novan adreson
+autofill-addresses-manage-addresses-title =
+    .heading = Administri adresojn kaj pli
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Neniu adreso aldonita
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1598,6 +1656,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rapidaj agoj
     .accesskey = R
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Ĵusaj serĉoj
+    .accesskey = s
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Popularaj serĉaj sugestoj
+    .accesskey = P
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Sugestoj de { -brand-short-name }
@@ -1634,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Ignoritaj sugestoj
     .description = Restarigi ignoritajn sugestojn de patronoj kaj de { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Remeti sugestojn
 addressbar-quickactions-learn-more = Pli da informo
 addressbar-dismissed-suggestions-label = Ignoritaj sugestoj
 addressbar-restore-dismissed-suggestions-description = Restarigi ignoritajn sugestojn de patronoj kaj de { -brand-short-name }.
