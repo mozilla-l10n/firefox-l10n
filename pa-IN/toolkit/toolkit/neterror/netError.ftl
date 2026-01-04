@@ -177,12 +177,17 @@ fp-neterror-offline-body-title = ਤੁਹਾਡੇ ਇੰਟਰਨੈੱਟ ਕ
 
 fp-neterror-connection-intro = { -brand-short-name } { $hostname } ਉੱਤੇ ਸਰਵਰ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਬਣਾ ਸਕਦਾ ਹੈ।
 fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> ਉੱਤੇ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
+fp-neterror-coop-coep-intro = { -brand-short-name } ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ, ਕਿਉਂਕਿ ਜਾਪਦਾ ਹੈ ਕਿ ਸੁਰੱਖਿਆ ਸੰਰਚਨਾ ਪਿਛਲੇ ਸਫ਼ੇ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ ਸੀ।
 fp-neterror-http-auth-disabled-intro = ਕੋਈ ਸਾਈਟ ਦਾ ਝਾਂਸਾ ਦੇ ਕੇ ਤੁਹਾਡੇ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।
 fp-neterror-http-auth-disabled-secure-connection = ਇਸ ਸਾਈਟ ਲਈ ਇੱਕ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਸੀਂ ਛੋਟ ਜੋੜ ਨਹੀਂ ਸਕਦੇ ਹੋ।
 fp-neterror-why-did-this-happen = ਇਹ ਕਿਓ ਵਾਪਰਿਆ ਸੀ?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = ਇੰਝ ਜਾਪਦਾ ਹੈ ਕਿ ਇਹ ਸਾਈਟ ਸੁਰੱਖਿਆ ਮਸਲਿਆਂ ਵਾਲੇ ਪੁਰਾਣੇ ਸਾਫਟਵੇਅਰ ਨੂੰ ਵਰਤ ਰਹੀ ਹੈ।
 fp-neterror-http-auth-disabled-why-dangerous-body = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਾ ਹੋਣ ਕਰਕੇ { -brand-short-name } { $hostname } ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਹੈ।
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ { -brand-short-name } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ। ਮੇਨੂ ਵਿੱਚ ਮਦਦ > { -brand-short-name } ਬਾਰੇ ਉੱਤੇ ਜਾਓ। ਜੇ ਤੁਸੀਂ ਨਵਾਂ { -brand-short-name } ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਸਾਈਟ ਦੀ ਖੁਦ ਨਾਲ ਹੀ ਸਮੱਸਿਆ ਹੋਣ ਦੀ ਸੰਭਾਵਨਾ ਹੈ।
 fp-neterror-offline-what-can-you-do-body = ਵੱਖਰੇ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਆਪਣੇ ਮਾਡਮ ਜਾਂ ਰਾਊਟਰ ਦੀ ਜਾਂਚ ਕਰੋ। Wi-Fi ਤੋਂ ਡਿਸ-ਕਨੈਕਟ ਕਰਕੇ ਫੇਰ ਕਨੈਕਟ ਕਰੋ।
 fp-neterror-http-auth-disabled-what-can-you-do-body = URL ਨੂੰ HTTPS ਵਿੱਚ ਬਦਲ ਕੇ ਵੇਖੋ। ਪਰ ਜਾਪਦਾ ਹੈ ਕਿ ਸਾਈਟ ਦੀ ਖੁਦ ਦੀ ਸਮੱਸਿਆ ਹੈ।
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = ਕਈ ਵਾਰ ਵੈੱਬਸਾਈਟਾਂ ਖੁਦ ਲਈ ਹੋਰ ਸਾਈਟਾਂ ਨਾਲ ਅਣਚਾਹੇ ਤਾਲਮੇਲ ਤੋਂ ਸੁਰੱਖਿਆ ਸੈਟਅੱਪ ਕਰਦੀਆਂ ਹਨ।
 fp-learn-more-about-https-connections = HTTPS ਕਨੈਕਸ਼ਨਾਂ ਬਾਰੇ ਜਾਣੋ
