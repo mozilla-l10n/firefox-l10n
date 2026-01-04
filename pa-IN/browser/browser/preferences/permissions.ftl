@@ -186,12 +186,17 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਕਰਨ ਲਈ ਸਾਈਟਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾ ਸਕਦੇ ਹੋ।
 permissions-site-localhost-disable-label =
     .label = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੋਰ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
+permissions-site-localhost-disable-desc = ਇਹ ਉੱਤੇ ਦਿੱਤੀਆਂ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਰੋਕੇਗਾ। ਅਜਿਹਾ ਕਰਨ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟ ਫ਼ੀਚਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ।
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = ਸੈਟਿੰਗਾਂ - ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸ
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਵਾਈ-ਫਾਈ ਜਾਂ ਲੋਕਲ ਨੈੱਟਵਰਕਾਂ ਉੱਤੇ ਇਹਨਾਂ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਕਰਨ ਲਈ ਸਾਈਟਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾ ਸਕਦੇ ਹੋ।
+permissions-site-local-network-disable-label =
+    .label = ਤੁਹਾਡੇ ਵਾਈ-ਫਾਈ ਜਾਂ ਲੋਕਲ ਨੈੱਟਵਰਕ ਰਾਹੀਂ ਕਨੈਕਟ ਹੋਏ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਾਓ।
+permissions-site-local-network-disable-desc = ਇਹ ਉੱਤੇ ਦਿੱਤੀਆਂ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਾਈ-ਫਾਈ ਜਾਂ ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਕਨੈਕਟ ਹੋਏ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਰੋਕੇਗਾ। ਅਜਿਹਾ ਕਰਨ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟ ਫ਼ੀਚਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ।
 
 ## Site Permissions - Microphone
 
