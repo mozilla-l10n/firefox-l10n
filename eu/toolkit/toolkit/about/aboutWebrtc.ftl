@@ -12,6 +12,11 @@ about-webrtc-document-title = WebRTCren barne-xehetasunak
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gorde about:webrtc honela
 
+## These labels are for a disclosure which contains the information for closed PeerConnection sections
+
+about-webrtc-closed-peerconnection-disclosure-show-msg = Erakutsi itxitako PeerConnection-ak
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Ezkutatu itxitako PeerConnection-ak
+
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC erregistroa
@@ -19,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Hasi AEC erregistroa
 about-webrtc-aec-logging-on-state-label = Gelditu AEC erregistroa
 about-webrtc-aec-logging-on-state-msg = AEC erregistroa aktibo (hitz egin denbora batez deitu duenarekin eta gelditu kaptura gero)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC erregistroa aktibo (hitz egin denbora batez deitu duenarekin eta gelditu kaptura gero)
+about-webrtc-aec-logging-unavailable-sandbox = Beharrezkoa da MOZ_DISABLE_CONTENT_SANDBOX=1 ingurune-aldagaia AEC log-fitxategiak esportatzeko. Ezarri aldagai hau soilik arrisku posibleak ulertzen badituzu.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Kapturatutako erregistro-fitxategiak hemen aurki daitezke: { $path }
@@ -33,6 +39,10 @@ about-webrtc-force-refresh-button = Berritu
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection IDa:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Irekitako datu-kanalak:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Itxitako datu-kanalak:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -87,6 +97,7 @@ about-webrtc-debug-mode-msg-label = Arazketa-modua
 about-webrtc-debug-mode-off-state-label = Hasi arazketa modua
 about-webrtc-debug-mode-on-state-label = Gelditu arazketa modua
 about-webrtc-stats-heading = Saioaren estatistikak
+about-webrtc-enable-logging-label = Gaitu WebRTC erregistrorako aurrezarpena
 about-webrtc-peerconnections-section-heading = RTCPeerConnection estatistikak
 about-webrtc-peerconnections-section-show-msg = Erakutsi RTCPeerConnection estatistikak
 about-webrtc-peerconnections-section-hide-msg = Ezkutatu RTCPeerConnection estatistikak

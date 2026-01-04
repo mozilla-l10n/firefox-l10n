@@ -47,6 +47,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Erabili nabarmengailu sinpleagoak prefers-reduced-motion aukerarekin
 options-inspector-simplified-highlighters-tooltip =
     .title = Nabarmengailu sinpleagoak gaitzen ditu prefers-reduced-motion gaituta dagoenean. Flash-efektuak ekiditeko, nabarmendutako elementuen inguruan lerroak marrazten ditu betetako laukizuzenen ordez.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Jarri fokua hurrengo sarrerako eremuan <kbd>Sartu</kbd> sakatzean
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Gaituta dagoenean, Sartu tekla sakatuta hautatzaile bat editatzean, propietate-izen edo -balioak fokua hurrengo sarrerako eremura aldatuko du.
 
 ## "Default Color Unit" options for the Inspector
 

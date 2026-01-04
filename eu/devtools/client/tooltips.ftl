@@ -18,6 +18,7 @@ learn-more = <span data-l10n-name="link">Argibide gehiago</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex edo sareta edukiontzia.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex, sareta edo hainbat zutabetako edukiontzia.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako zutabe-aniztun edukiontzia.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex edo sareta elementua.
 inactive-css-not-grid-item = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako sareta elementua.
 inactive-css-not-grid-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako sareta edukiontzia.
