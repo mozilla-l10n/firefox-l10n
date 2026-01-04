@@ -1083,6 +1083,19 @@ sync-signedin-unverified2 =
     .label = Konto { $email } nie jest jeszcze potwierdzone
     .description = Sprawdź skrzynkę pocztową i oficjalnie potwierdź konto.
 sync-signedin-login-failure = Zaloguj się, aby ponownie połączyć konto { $email }
+sync-signedin-login-failure2 =
+    .label = Wylogowano z konta { $email }
+    .description = Zaloguj się z powrotem, aby zacząć synchronizować dane.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1413,6 +1426,12 @@ autofill-payment-methods-add-button = Dodaj nową metodę płatności
 payments-list-header =
     .label = Metody płatności
 payments-list-item-label = <strong>Metody płatności</strong>
+payments-delete-payment-prompt-title = Czy usunąć tę metodę płatności?
+payments-delete-payment-prompt-confirm-button = Usuń
+payments-delete-payment-prompt-cancel-button = Anuluj
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nie dodano żadnych metod płatności
 payments-remove-payment-prompt-title = Czy usunąć tę metodę płatności?
 payments-remove-payment-prompt-confirm-button = Usuń
 payments-remove-payment-prompt-cancel-button = Anuluj
@@ -1425,6 +1444,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Zarządzaj adresami i nie tylko
     .accesskey = d
+addresses-list-header =
+    .label = Adresy
+addreses-delete-address-button-label =
+    .aria-label = Usuń
+addreses-edit-address-button-label =
+    .aria-label = Edytuj
+addresses-delete-address-prompt-title = Czy usunąć ten adres?
+addresses-delete-address-prompt-confirm-button = Usuń
+addresses-delete-address-prompt-cancel-button = Anuluj
+autofill-addresses-add-button = Dodaj nowy adres
+autofill-addresses-manage-addresses-title =
+    .heading = Zarządzaj adresami i nie tylko
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nie dodano żadnych adresów
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1619,6 +1660,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Szybkie działania.
     .accesskey = d
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Ostatnie wyszukiwania
+    .accesskey = n
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Popularne wyszukiwania.
+    .accesskey = u
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Podpowiedzi { -brand-short-name(case: "gen") }
@@ -1655,6 +1702,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Odrzucone podpowiedzi
     .description = Przywróć odrzucone podpowiedzi sponsorów i { -brand-short-name(case: "gen") }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Przywróć podpowiedzi
 addressbar-quickactions-learn-more = Więcej informacji
 addressbar-dismissed-suggestions-label = Odrzucone podpowiedzi
 addressbar-restore-dismissed-suggestions-description = Przywróć odrzucone podpowiedzi sponsorów i { -brand-short-name(case: "gen") }.
