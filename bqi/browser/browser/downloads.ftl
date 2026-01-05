@@ -98,6 +98,16 @@ downloads-open-file =
 
 downloading-file-opens-in-hours-and-minutes-2 =
     .value = من { $hours } ساعت وو { $minutes } دیقه دی اگوئشه…
+downloading-file-opens-in-minutes-2 =
+    .value = من { $minutes } دیقه دی اگوئشه…
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = من { $minutes } دیقه وو { $seconds } سانیه دی اگوئشه…
+downloading-file-opens-in-seconds-2 =
+    .value = من { $seconds } سانیه دی اگوئشه…
+downloading-file-opens-in-some-time-2 =
+    .value = بئڌ تموم وابیڌن اگوئشه…
+downloading-file-click-to-open =
+    .value = بئڌ تموم وابیڌن بوگوئشه
 
 ##
 
@@ -105,6 +115,12 @@ downloading-file-opens-in-hours-and-minutes-2 =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = لقو دانلود
+
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-accept-button =
+    .label = فئمیم
+    .accesskey = G
 
 ## Download errors
 
