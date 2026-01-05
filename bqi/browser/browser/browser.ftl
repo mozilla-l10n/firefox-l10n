@@ -660,6 +660,8 @@ urlbar-result-action-search-w-engine = پیتینیڌن وا { $engine }
 urlbar-result-action-sponsored = هؽزگری وابیڌه
 urlbar-result-action-switch-tab = گوم زیڌن و بلگه
 urlbar-result-action-visit = نیشتن
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = بونکۊ بؽ نوم
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = لف گیری
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -667,6 +669,8 @@ urlbar-result-action-copy-to-clipboard = لف گیری
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = تعریف نوابیڌه
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -758,6 +762,12 @@ urlbar-result-search-with = پیتینیڌن وا { $engine }
 #  $localSearchMode (String): the local search mode (history, tabs, bookmarks,
 #  or actions) to search with.
 urlbar-result-search-with-local-search-mode = { $keywords } - پیتینیڌن { $localSearchMode }
+# Label for the urlbar result row, prompting the user to use engine keywords to enter search mode.
+#  $keywords (String): the default keyword and user's set keyword if available
+#  $engine (String): the name of a search engine
+urlbar-result-search-with-engine-keywords = { $keywords } - پیتینیڌن وا { $engine }
+urlbar-searchmode-dropmarker =
+    .tooltiptext = پسند ی موتور پیتینیڌن
 urlbar-searchmode-bookmarks =
     .label = نشووکا
 urlbar-searchmode-tabs =
@@ -770,10 +780,22 @@ urlbar-searchmode-exit-button =
     .tooltiptext = بستن
 urlbar-searchmode-default =
     .tooltiptext = موتور پیتینیڌن پؽش فرز
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description = ای کرت پیتینیڌن وا:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = سامووا پیتینیڌن
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = نۊ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button2 =
+    .label = { $engine }، پسند ی موتور پیتینیڌن
+    .tooltiptext = { $engine }، پسند ی موتور پیتینیڌن
+urlbar-searchmode-button-no-engine =
+    .label = ر نهنگی پسند نوابیڌه، ی ر نهنگ پسند کۊنین
+    .tooltiptext = ر نهنگی پسند نوابیڌه، ی ر نهنگ پسند کۊنین
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -782,6 +804,10 @@ urlbar-searchmode-new = نۊ
 urlbar-result-action-search-bookmarks = پیتینیڌن نشووکا
 urlbar-result-action-search-history = پیتینیڌن ویرگار
 urlbar-result-action-search-tabs = پیتینیڌن بلگه یل
+urlbar-result-action-search-actions = کارا پیتینیڌن
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = جا گورویی و { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = گۊشیڌن { $group }
@@ -798,6 +824,9 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = پؽشنهاڌا { $engine }
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = کارا زل
 # A label shown above the recent searches group in the urlbar results.
 # Variables
 #  $engine (String): the name of the search engine used to search.
@@ -807,11 +836,22 @@ urlbar-group-recent-searches =
 urlbar-group-sponsored =
     .label = هؽزگری وابیڌه
 
+## Reader View toolbar buttons
+
+# This should match menu-view-close-readerview in menubar.ftl
+reader-view-close-button =
+    .aria-label = بستن نما خۊندنی
+
 ## Picture-in-Picture urlbar button
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = گۊشیڌن شؽوات من شؽوات ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = بستن شؽوات من شؽوات ({ $shortcut })
 picture-in-picture-panel-header = شؽوات من شؽوات
+picture-in-picture-panel-headline = ای وبگه هالت شؽوات من شؽوات ن پؽشنهاڌ نؽکونه
 
 ## Full Screen and Pointer Lock UI
 
