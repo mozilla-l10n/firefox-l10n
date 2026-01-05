@@ -290,6 +290,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = نشووک ناهاڌن ای بلگه ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = نما تقسیم وابیڌه
+    .aria-label = نما تقسیم وابیڌه
 
 ## Page Action Context Menu
 
@@ -429,6 +432,7 @@ quickactions-cmd-translate = ولرنیڌن
 quickactions-cmd-screenshot = شؽوات ز بلگه
 # Opens about:preferences
 quickactions-settings2 = دؽوۉداری سامووا
+quickactions-cmd-settings = سامووا، ترجیهات، گۊزینه یل
 # Opens about:addons page in the themes section
 quickactions-themes = دؽوۉداری زمینه یل
 quickactions-cmd-themes = زمینه یل
@@ -437,7 +441,11 @@ quickactions-update = ورۊ رسۊوی { -brand-short-name }
 quickactions-cmd-update = ورۊ رسۊوی
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = نیشتن کود بونچک بلگه
+quickactions-cmd-viewsource2 = نیشتن بونچک، بونچک، بونچک بلگه
 quickactions-cmd-viewsource = نیشتن بونچک، بونچک
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = زبار کارا زل قلوه دووسته بۊین
 
 ## Bookmark Panel
 
@@ -451,11 +459,25 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = زفت
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = دووسمندیا وبگه سی { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = منپیز ٱمن سی { $host }
 identity-connection-not-secure = منپیز ٱمن نؽ
 identity-connection-secure = منپیز ٱمن
+identity-connection-internal = یو ی بلگه ٱمن { -brand-short-name } هڌ.
+identity-connection-file = ای بلگه و ری کامپیتر ایسا زفت وابی.
 identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه
 identity-https-only-label = هالت تینا-Https
 identity-https-only-dropdown-on =

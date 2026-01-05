@@ -74,6 +74,16 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = نشووک ناهاڌن بلگه…
+    .accesskey = m
+    .tooltiptext = نشووک ناهاڌن بلگه
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = نشووک ناهاڌن بلگه…
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
@@ -358,5 +368,8 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = گۊشیڌن لینگ من بلگه { $containerName } نۊ
     .accesskey = T
+main-context-menu-reveal-password =
+    .label = دیاری کردن رزم
+    .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
