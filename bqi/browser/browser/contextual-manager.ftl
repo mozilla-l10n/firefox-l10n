@@ -71,19 +71,37 @@ contextual-manager-passwords-password-already-exists-error-button = راو و ر
 contextual-manager-passwords-update-password-success-heading =
     .heading = رزم زفت وابیڌ
 contextual-manager-passwords-update-password-success-button = ٱنجوم وابی
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = نوم منتوری زفت وابیڌ
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] رزم پاک وابی
+            [one] رزم پاک وابی
+           *[other] رزما پاک وابین
+        }
 contextual-manager-passwords-delete-password-success-button = ٱنجوم وابی
 #
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-radiobutton-all = پوی ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = بپایل ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = رزم پاک بۊ؟
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = نترین ای کار ن وورگنین.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = وورگشتن
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = پاک کردن
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = لقو
+contextual-manager-passwords-alert-card =
+    .aria-label = بپایل رزم
 contextual-manager-passwords-alert-back-button =
     .label = وورگشتن
 contextual-manager-passwords-alert-list =
@@ -174,6 +192,8 @@ contextual-manager-passwords-no-passwords-found-header =
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = ٱووردن دستی
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header-2 = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
 
