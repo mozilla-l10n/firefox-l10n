@@ -5,6 +5,11 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = پیتینیڌن بلگه یل
+all-tabs-menu-hidden-tabs =
+    .label = بلگه یل بؽڌاری
+all-tabs-menu-manage-user-context =
+    .label = دؽوۉداری کانتینرا
+    .accesskey = o
 all-tabs-menu-close-all-duplicate-tabs =
     .label = بستن پوی بلگه یل تکراری
 all-tabs-menu-synced-tabs =

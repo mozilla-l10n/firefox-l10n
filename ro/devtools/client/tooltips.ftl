@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong> nu are nici
 inactive-css-column-span = <strong>{ $property }</strong> nu are niciun efect de extindere asupra acestui element pentru că nu este într-un container cu mai multe coloane.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este nici element de grilă, nici element flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong>nu are niciun efect asupra acestui element pentru că nu este de grilă sau flex, și nici element poziționat absolut.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este element de grilă și nici element poziționat absolut.
 inactive-css-not-grid-item = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este element flex.
 inactive-css-not-grid-container = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este container de grilă.
 inactive-css-not-flex-item = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că nu este element flex.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> nu are niciun efect a
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nu este acceptat pe pseudoelemente de evidențiere.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nu este acceptat pe pseudoelemente ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> nu are suport în regulile <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
