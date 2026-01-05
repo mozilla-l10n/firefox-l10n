@@ -1063,6 +1063,17 @@ popup-notification-addon-technical-and-interaction-checkbox =
 
 ## Pop-up warning
 
+popup-warning-button =
+    .label =
+        { PLATFORM() ->
+            [windows] گۊزینه یل
+           *[other] ترجیهات
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
