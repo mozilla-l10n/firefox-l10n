@@ -410,6 +410,9 @@ quickactions-cmd-restart = Ales asenker
 # Opens the screenshot tool
 quickactions-screenshot3 = Eg tuṭṭfa n ugdil
 quickactions-cmd-screenshot2 = tuṭṭfa n ugdil, ṭṭef agdil
+# Opens about:translations
+quickactions-translate = Suqel
+quickactions-cmd-translate = Suqel
 quickactions-cmd-screenshot = tuṭṭfa n ugdil
 # Opens about:preferences
 quickactions-settings2 = Sefrek iɣewwaren
@@ -1392,6 +1395,13 @@ trustpanel-blocker-see-all = Wali akk
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ammesten n uḍfar i { $host }
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Mačči d aγelsan
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

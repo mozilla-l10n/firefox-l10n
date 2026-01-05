@@ -1119,6 +1119,7 @@ trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل 
 trustpanel-privacy-link = سامووا هریم سیخومی
 trustpanel-clear-cookies-subview-button-clear = پاک کردن
 trustpanel-clear-cookies-subview-button-cancel = لقو
+trustpanel-blocker-see-all = نیشتن پوی
 
 ## The urlbar trust icon & panel
 
