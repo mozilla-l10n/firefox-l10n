@@ -403,6 +403,10 @@ translate-attribution = Oersettingen troch <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Utsûnderingen…
     .accesskey = s
+settings-translations-header =
+    .label = Oersettingen
+    .aria-label = Oersettingen
+    .description = Set siden of selektearre tekst oer. Om jo privacy te beskermjen, bliuwe oersettingen op jo apparaat.
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
