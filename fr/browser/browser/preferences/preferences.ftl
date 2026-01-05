@@ -1335,6 +1335,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Utiliser un mot de passe principal
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Utiliser un mot de passe principal
+    .description = Ajoute une couche de sécurité supplémentaire pour protéger vos mots de passe enregistrés.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Définir le mot de passe principal
 forms-primary-pw-on =
@@ -1347,6 +1351,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Exiger la connexion à l’appareil pour renseigner et gérer les mots de passe
+forms-os-reauth-2 =
+    .label = Exiger la connexion de l’appareil pour gérer les mots de passe
 forms-primary-pw-learn-more-link = En savoir plus
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found

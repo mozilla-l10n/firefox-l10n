@@ -7,7 +7,7 @@
 ### feature.
 
 about-unloads-page-title = Uvolňování panelů z paměti
-about-unloads-intro = { -brand-short-name } obsahuje funkci, která automaticky uvolní zdroje panelů z paměti, aby kvůli jejímu nedostatku nedošlo k pádu. Panel k uvolnění je vždy vybrán na základě několika kritérií. Tato stránka ukazuje, jakou dává { -brand-short-name } prioritou jednotlivým panelům a který bude případně uvolněn jako další. Uvolnění panelu můžete spustit ručně klepnutím na tlačítko <em>Uvolnit</em> níže.
+about-unloads-intro = { -brand-short-name } obsahuje funkci, která automaticky uvolní zdroje panelů z paměti, aby kvůli jejímu nedostatku v případě, že má systém málo volné paměti, nedošlo k pádu aplikace. Panel, co bude uvolněn jako další, se volí na základě několika kritérií. Tato stránka ukazuje, jakou dává { -brand-short-name } prioritu jednotlivým panelům a který bude při spuštění této funkce uvolněn jako další. Spustit ji můžete také ručně klepnutím níže na tlačítko <em>Uvolnit z paměti</em>.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Podrobnosti o této funkci najdete v dokumentaci <a data-l10n-name="doc-link">Tab Unloading</a>.
