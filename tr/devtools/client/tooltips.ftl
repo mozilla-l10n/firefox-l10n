@@ -88,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>disp
 inactive-css-not-multicol-container-fix = <strong>column-count</strong> veya <strong>column-width</strong> eklemeyi deneyin. { learn-more }
 inactive-css-column-span-fix = Üst elemanlarından birine <strong>column-count</strong> veya <strong>column-width</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Bu elemana <strong>position:absolute</strong> eklemeyi ya da bu elemanın üst elemanına <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Bu elemana <strong>position:absolute</strong> eklemeyi ya da elemanın üst elemanına <strong>display:grid</strong> veya <strong>display:inline-grid</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Bu elemanın üst elemanına <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-item-fix-2 = Bu elemanın üst elemanına <strong>display:grid</strong> veya <strong>display:inline-grid</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> veya <strong>display:inline-grid</strong> eklemeyi deneyin. { learn-more }
