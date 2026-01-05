@@ -1335,6 +1335,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = B
+forms-primary-pw-use-2 =
+    .label = Bruk eit hovudpassord
+    .description = Legg til eit ekstra sikkerheitslag for å verne lagra passord.
+    .accesskey = B
 forms-primary-pw-set =
     .label = Angje hovudpassord
 forms-primary-pw-on =
@@ -1347,6 +1351,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Krev einingsinnlogging for å fylle ut og handsame passord
+forms-os-reauth-2 =
+    .label = Krev einingsinnlogging for å handsame passord
 forms-primary-pw-learn-more-link = Les meir
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found

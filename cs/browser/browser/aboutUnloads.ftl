@@ -12,9 +12,9 @@ about-unloads-intro = { -brand-short-name } obsahuje funkci, která automaticky 
 # with title "Tab Unloading"
 about-unloads-learn-more = Podrobnosti o této funkci najdete v dokumentaci <a data-l10n-name="doc-link">Tab Unloading</a>.
 about-unloads-last-updated = Poslední aktualizace: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Uvolnit
-    .title = Uvolní panel s nejvyšší prioritou (na začátku seznamu)
-about-unloads-no-unloadable-tab = Nejsou dostupné žádné panely k uvolnění.
+about-unloads-button-unload = Uvolnit z paměti
+    .title = Uvolní z paměti panel s nejvyšší prioritou (na začátku seznamu)
+about-unloads-no-unloadable-tab = Momentálně nejsou žádné panely, které by bylo možné uvolnit z paměti.
 about-unloads-column-priority = Priorita
 about-unloads-column-host = Server
 about-unloads-column-last-accessed = Poslední přístup
