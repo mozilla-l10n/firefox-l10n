@@ -1578,17 +1578,14 @@ addressbar-suggest-firefox-suggest = Izberite, kakšni predlogi naj se prikazuje
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Več o tem
 addressbar-locbar-history-option =
-    .label = zgodovino brskanja
+    .label = Zgodovina brskanja
     .accesskey = Z
 addressbar-locbar-bookmarks-option =
-    .label = zaznamke
+    .label = Zaznamki
     .accesskey = k
 addressbar-locbar-clipboard-option =
-    .label = odložišče
+    .label = Odložišče
     .accesskey = l
-addressbar-locbar-openpage-option =
-    .label = odprte zavihke
-    .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
     .label = bližnjice
