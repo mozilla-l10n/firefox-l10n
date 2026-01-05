@@ -6,7 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Uvolňování panelů
+about-unloads-page-title = Uvolňování panelů z paměti
 about-unloads-intro = { -brand-short-name } obsahuje funkci, která automaticky uvolní zdroje panelů z paměti, aby kvůli jejímu nedostatku nedošlo k pádu. Panel k uvolnění je vždy vybrán na základě několika kritérií. Tato stránka ukazuje, jakou dává { -brand-short-name } prioritou jednotlivým panelům a který bude případně uvolněn jako další. Uvolnění panelu můžete spustit ručně klepnutím na tlačítko <em>Uvolnit</em> níže.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
