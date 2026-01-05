@@ -179,6 +179,7 @@ fp-neterror-connection-intro = { -brand-short-name } nu poate crea o conexiune s
 fp-neterror-offline-intro = { -brand-short-name } nu se poate conecta la serverul de la <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } nu a încărcat pagina deoarece se pare că configurația de securitate nu corespunde cu pagina anterioară.
 fp-neterror-http-auth-disabled-intro = Cineva care pretinde a fi site-ul ar putea încerca să fure ceva, cum ar fi numele de utilizator, parola sau adresa de e-mail.
+fp-neterror-http-auth-disabled-secure-connection = Site-ul necesită o conexiune securizată și nu poți adăuga o excepție ca să intri pe el.
 fp-neterror-why-did-this-happen = De ce s-a întâmplat asta?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Se pare că acest site folosește software vechi cu probleme de securitate cunoscute.
@@ -189,3 +190,4 @@ fp-neterror-offline-what-can-you-do-body = Încearcă să te conectezi pe un alt
 fp-neterror-http-auth-disabled-what-can-you-do-body = Încearcă să schimbi adresa URL în HTTPS. Dar este probabil să existe o problemă cu site-ul în sine.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Uneori, site-urile web configurează protecții pentru ele însele împotriva interacțiunilor nedorite cu alte site-uri.
+fp-learn-more-about-https-connections = Află mai multe despre conexiunile HTTPS

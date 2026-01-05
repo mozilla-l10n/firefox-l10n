@@ -82,6 +82,11 @@ turn-off-scheduled-backups-cancel-button = لقو
 
 restore-from-backup-header = داده یل خوتووݩ ن وورگنین
 restore-from-backup-filepicker-label = فایل لادراری گرؽڌن
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] پسند…
+       *[other] گشتن...
+    }
 restore-from-backup-password-label = رزم
 restore-from-backup-cancel-button = لقو
 restore-from-backup-confirm-button = وورگندن وو ر وندن دووارته
