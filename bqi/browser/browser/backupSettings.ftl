@@ -106,7 +106,10 @@ change-backup-encryption-header = آلشت رزم لادرار
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-header = الزامات رزم
+password-rules-length-description = هدقل 8 کاراکتر
 password-rules-email-description = نشۊوی ایمیل ایسا نؽ
+password-validity-has-email = نتره نشۊوی ایمیل بۊ
+password-validity-do-not-match = رزما ی جۊر نؽن
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
