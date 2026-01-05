@@ -403,10 +403,30 @@ translate-attribution = Vertalingen door <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Uitzonderingen…
     .accesskey = z
+settings-translations-header =
+    .label = Vertalingen
+    .aria-label = Vertalingen
+    .description = Vertaal pagina’s of geselecteerde tekst. Om uw privacy te beschermen, blijven vertalingen op uw apparaat.
+settings-translations-offer-to-translate-label =
+    .label = Volledige paginavertaling aanbieden
+settings-translations-more-settings-button =
+    .label = Meer vertaalinstellingen
+    .description = Voorkeuren voor talen, websites en offlinevertaling instellen.
+settings-translations-subpage-header =
+    .heading = Meer vertaalinstellingen
+settings-translations-subpage-speed-up-translation-header =
+    .label = Vertaling versnellen
+    .description = Download volledige talen voor snellere vertalingen en om offline te vertalen.
 settings-translations-subpage-automatic-translation-header =
     .label = Automatische vertaling
+settings-translations-subpage-always-translate-header =
+    .label = Deze talen altijd vertalen
+settings-translations-subpage-never-translate-header =
+    .label = Deze talen nooit vertalen
 settings-translations-subpage-never-translate-sites-header =
     .label = Deze websites nooit vertalen
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Open om een website toe te voegen het <img data-l10n-name="translations-icon"/>  vertaalpaneel, selecteer <img data-l10n-name="settings-icon"/> vertaalinstellingen en kies ‘Deze website nooit vertalen’
 settings-translations-subpage-language-select-option =
     .label = Taal toevoegen
 settings-translations-subpage-language-add-button =
@@ -429,8 +449,16 @@ settings-translations-subpage-no-languages-downloaded =
 settings-translations-subpage-no-languages-added =
     .label = Geen talen toegevoegd
 settings-translations-subpage-download-progress = Download bezig…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Kan { $language } niet downloaden ({ $size } MB)
 settings-translations-subpage-download-retry-button =
     .label = Opnieuw proberen
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size } MB) verwijderen?
 settings-translations-subpage-download-delete-button =
     .label = Verwijderen
 settings-translations-subpage-download-cancel-button =
@@ -991,6 +1019,9 @@ sync-group-label =
     .label = Synchronisatie
 account-group-label =
     .label = { -vendor-short-name }-account
+account-placeholder =
+    .label = U bent niet aangemeld
+    .description = Meld u aan om uw gegevens privé, versleuteld en tussen apparaten gesynchroniseerd te houden.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1044,7 +1075,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } is niet geverifieerd.
+sync-signedin-unverified2 =
+    .label = { $email } is nog niet bevestigd
+    .description = Controleer uw Postvak IN om uw account te bevestigen en officieel te maken.
 sync-signedin-login-failure = Meld u aan om { $email } opnieuw te verbinden
+sync-signedin-login-failure2 =
+    .label = U bent afgemeld bij { $email }
+    .description = Meld u weer aan om opnieuw te verbinden en te beginnen met synchroniseren van uw gegevens.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1661,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Gesloten suggesties
     .description = Gesloten suggesties van sponsors en { -brand-short-name } herstellen.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Suggesties herstellen
 addressbar-quickactions-learn-more = Meer info
 addressbar-dismissed-suggestions-label = Gesloten suggesties
 addressbar-restore-dismissed-suggestions-description = Gesloten suggesties van sponsors en { -brand-short-name } herstellen.
