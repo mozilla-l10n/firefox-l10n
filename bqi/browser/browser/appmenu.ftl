@@ -208,6 +208,11 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = و من هساو منتوری خوتووݩ بیاین
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
+appmenuitem-services-relay-description = داشبورد ر وندن نقابا ایمیل
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = زفت کردن فعالیت ریتور ایسا
 appmenu-services-header = خدمات مو
 appmenu-other-protection-header = پوی ٱوزارا زفت وابیڌنی ز { -vendor-short-name } ن امتهووݩ کۊنین:
 
