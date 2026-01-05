@@ -372,8 +372,8 @@ preferences-web-appearance-choice-dark = Tmavý
 preferences-web-appearance-choice-tooltip-auto =
     .title =
         { -brand-short-name.case-status ->
-            [with-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
-           *[no-cases] Automaticky změní pozadí stránek a jejich obsahu podle nastavení vzhledu systému a aplikace { -brand-short-name }.
+            [with-cases] Automaticky měnit pozadí a obsah stránek na základě nastavení vzhledu systému a { -brand-short-name(case: "gen") }.
+           *[no-cases] Automaticky měnit pozadí a obsah stránek na základě nastavení vzhledu systému a aplikace { -brand-short-name }.
         }
 preferences-web-appearance-choice-tooltip-light =
     .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
