@@ -1075,7 +1075,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } is net ferifiearre.
+sync-signedin-unverified2 =
+    .label = { $email } is noch net befêstige
+    .description = Kontrolearje jo Postfek YN om jo account te befêstigjen en offisjeel te meitsjen.
 sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
+sync-signedin-login-failure2 =
+    .label = Jo binne ôfmeld by { $email }
+    .description = Meld jo wer oan om opnij te ferbinen en te begjinnen mei syngronisearjen fan jo gegevens.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1409,6 +1425,9 @@ payments-list-item-label = <strong>Betellingsmetoaden</strong>
 payments-delete-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
 payments-delete-payment-prompt-confirm-button = Fuortsmite
 payments-delete-payment-prompt-cancel-button = Annulearje
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Gjin betellingsmetoaden tafoege
 payments-remove-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
 payments-remove-payment-prompt-confirm-button = Fuortsmite
 payments-remove-payment-prompt-cancel-button = Annulearje
@@ -1433,6 +1452,9 @@ addresses-delete-address-prompt-cancel-button = Annulearje
 autofill-addresses-add-button = Nij adres tafoegje
 autofill-addresses-manage-addresses-title =
     .heading = Adressen en mear beheare
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Gjin adressen tafoege
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1676,6 +1698,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Sletten suggestjes
     .description = Sletten suggestjes fan sponsors en { -brand-short-name } opnij ynstelle.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Suggestjes weromsette
 addressbar-quickactions-learn-more = Mear ynfo
 addressbar-dismissed-suggestions-label = Sletten suggestjes
 addressbar-restore-dismissed-suggestions-description = Sletten suggestjes fan sponsors en { -brand-short-name } opnij ynstelle.
