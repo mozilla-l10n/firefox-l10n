@@ -7,6 +7,8 @@
 account-finish-account-setup = تکمیل وورکل کردن هساو
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = فشناڌن و پوی دسگا یل
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = دؽوۉداری دسگا یل…
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
