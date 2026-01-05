@@ -435,6 +435,10 @@ quickactions-settings2 = دؽوۉداری سامووا
 quickactions-cmd-settings = سامووا، ترجیهات، گۊزینه یل
 # Opens about:addons page in the themes section
 quickactions-themes = دؽوۉداری زمینه یل
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = تما، وردنی یل، وردنی یل
 quickactions-cmd-themes = زمینه یل
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ورۊ رسۊوی { -brand-short-name }
@@ -478,7 +482,9 @@ identity-connection-not-secure = منپیز ٱمن نؽ
 identity-connection-secure = منپیز ٱمن
 identity-connection-internal = یو ی بلگه ٱمن { -brand-short-name } هڌ.
 identity-connection-file = ای بلگه و ری کامپیتر ایسا زفت وابی.
-identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه
+identity-connection-associated = ای بلگه ز بلگه دیری بار ونی وابیڌه.
+identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه.
+identity-active-blocked = { -brand-short-name } بشنایی ز ای بلگه ک ٱمن نؽڌن ن، مسدۊد کرده.
 identity-https-only-label = هالت تینا-Https
 identity-https-only-dropdown-on =
     .label = رۊشن
