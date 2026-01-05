@@ -570,6 +570,11 @@ popup-select-window-or-screen =
     .accesskey = W
 popup-all-windows-shared = پوی نیمدری یلی ک انیرین یک رسۊوی ابۊن.
 
+## WebRTC window or screen share tab switch warning
+
+sharing-warning-proceed-to-tab =
+    .label = رئڌن و بلگه
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).

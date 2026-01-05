@@ -33,6 +33,10 @@ about-private-browsing-search-banner-close-button =
 about-private-browsing-promo-close-button =
     .title = بستن
 
+## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
+about-private-browsing-pin-promo-header = آزاڌی گشتن مهرمووه وا ی کلیک
+
 ## Strings used in a promotion message for cookie banner reduction
 
 about-private-browsing-cookie-banners-promo-button = کم کردن بنرا کۊکی
