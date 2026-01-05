@@ -36,6 +36,8 @@ translations-panel-translate-cancel =
     .label = لقو
 translations-panel-learn-more-link = قلوه دووسته بۊین
 translations-panel-error-load-languages = زووا قابل و بار ونی نبیڌن
+translations-panel-error-dismiss-button =
+    .label = فئمیم
 translations-panel-error-change-button =
     .label = آلشت زووݩ بونچک
 # If your language requires declining the language name, a possible solution

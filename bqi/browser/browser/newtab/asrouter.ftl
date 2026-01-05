@@ -32,6 +32,10 @@ cfr-whatsnew-button =
 
 cookie-banner-blocker-onboarding-learn-more = قلوه دووسته بۊین
 
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+set-default-pdf-handler-primary = فئمیم
+
 ## FxA sync CFR
 
 fxa-sync-cfr-primary = قلوه دووسته بۊین

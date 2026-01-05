@@ -67,6 +67,10 @@ newtab-custom-shortcuts-title = ر نهنگا
 newtab-custom-sponsored-sites = ر نهنگا هؽزگرووݩ
 newtab-custom-settings = دؽوۉداری سامووا قلوه
 
+## Firefox
+
+newtab-wallpaper-feature-highlight-button = فئمیم
+
 ## New Tab Weather
 
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
