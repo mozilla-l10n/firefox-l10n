@@ -211,6 +211,7 @@ appmenu-get-help =
 
 appmenu-customizetoolbar =
     .label = سفارشی کردن نوار ٱوزار…
+appmenu-developer-tools-subheader = ٱوزارا گشت گر
 appmenu-developer-tools-extensions =
     .label = وردنی یل سی برنومه نویسووݩ
 appmenuitem-report-broken-site =

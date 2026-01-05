@@ -652,6 +652,8 @@ urlbar-revert-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-in-private-w-engine = پیتینیڌن وا { $engine } من ی نیمدری سیخومی
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = پیتینیڌن من ی نیمدری سیخومی
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -660,6 +662,11 @@ urlbar-result-action-search-w-engine = پیتینیڌن وا { $engine }
 urlbar-result-action-sponsored = هؽزگری وابیڌه
 urlbar-result-action-switch-tab = گوم زیڌن و بلگه
 urlbar-result-action-visit = نیشتن
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = جا گورویی و بلگه · <span>{ $container }</span>
 # Used when the target tab is in a tab group that doesn't have a label.
 urlbar-result-action-tab-group-unnamed = بونکۊ بؽ نوم
 # Action text for copying to clipboard.
@@ -838,6 +845,9 @@ urlbar-group-sponsored =
 
 ## Reader View toolbar buttons
 
+# This should match menu-view-enter-readerview in menubar.ftl
+reader-view-enter-button =
+    .aria-label = و من ٱووڌن و نما خۊندنی
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = بستن نما خۊندنی
@@ -853,6 +863,8 @@ picture-in-picture-urlbar-button-close =
 picture-in-picture-panel-header = شؽوات من شؽوات
 picture-in-picture-panel-headline = ای وبگه هالت شؽوات من شؽوات ن پؽشنهاڌ نؽکونه
 picture-in-picture-panel-body = مجالی ک شؽوات من شؽوات فعال هڌ، گاشڌ ویدیو یل چونوو ک برنومه نویس اخاست، نشووݩ داڌه نبۊن.
+picture-in-picture-enable-toggle =
+    .label = و هر هال فعال بۊوه
 
 ## Full Screen and Pointer Lock UI
 

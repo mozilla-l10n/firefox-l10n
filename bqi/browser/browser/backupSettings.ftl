@@ -140,3 +140,10 @@ backup-file-creation-date-label = وورکل وابیڌه:
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }، { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = بارت وورگندن:
 backup-file-download-moz-browser-button = دانلود
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = فایلی پسند نوابیڌه
