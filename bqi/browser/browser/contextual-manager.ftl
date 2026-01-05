@@ -59,6 +59,8 @@ contextual-manager-passwords-import-learn-more = زبار و من ٱووردن �
 contextual-manager-passwords-export-success-heading =
     .heading = رزما و در کشیڌه وابین
 contextual-manager-passwords-export-success-button = ٱنجوم وابی
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = رزما من ی فایل و در کشیڌه بۊن؟
 contextual-manager-export-passwords-dialog-confirm-button = رئڌن وا پؽش سی و در کشیڌن
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = و در کشیڌن رزما ز { -brand-short-name }
@@ -66,6 +68,13 @@ contextual-manager-passwords-export-file-picker-title = و در کشیڌن رز�
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = رزما
 contextual-manager-passwords-export-file-picker-export-button = و در کشیڌن
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] سند CSV
+       *[other] فایل CSV
+    }
 contextual-manager-passwords-origin-label = وبگه اینترنتی
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = نوم منتوری
