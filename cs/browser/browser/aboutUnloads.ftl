@@ -11,7 +11,7 @@ about-unloads-intro = { -brand-short-name } obsahuje funkci, která automaticky 
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = Podrobnosti o této funkci najdete v dokumentaci <a data-l10n-name="doc-link">Tab Unloading</a>.
-about-unloads-last-updated = Poslední aktualizace: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-last-updated = Naposledy aktualizováno: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Uvolnit z paměti
     .title = Uvolní z paměti panel s nejvyšší prioritou (na začátku seznamu)
 about-unloads-no-unloadable-tab = Momentálně nejsou žádné panely, které by bylo možné uvolnit z paměti.
@@ -19,7 +19,7 @@ about-unloads-column-priority = Priorita
 about-unloads-column-host = Server
 about-unloads-column-last-accessed = Poslední přístup
 about-unloads-column-weight = Základní váha
-    .title = Panely jsou seřazeny podle hodnoty, která je odvozena od toho, zda panel přehrává zvuk, používá WebRTC apod.
+    .title = Panely jsou nejprve seřazeny podle této hodnoty, která je odvozena od toho, zda panel přehrává zvuk, používá WebRTC apod.
 about-unloads-column-sortweight = Doplňková váha
     .title = Pokud je hodnota dostupná, jsou panely se stejnou základní vahou řazeny také podle doplňkové váhy. Ta je odvozena z množství využívané paměti a počtu procesů.
 about-unloads-column-memory = Paměť
