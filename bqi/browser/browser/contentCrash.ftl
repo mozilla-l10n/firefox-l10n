@@ -7,6 +7,9 @@
 
 crashed-subframe-learnmore-link =
     .value = قلوه دووسته بۊین
+crashed-subframe-submit =
+    .label = سبت گوزارش
+    .accesskey = S
 
 ## Pending crash reports
 

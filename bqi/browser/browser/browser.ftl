@@ -852,9 +852,15 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = بستن شؽوات من شؽوات ({ $shortcut })
 picture-in-picture-panel-header = شؽوات من شؽوات
 picture-in-picture-panel-headline = ای وبگه هالت شؽوات من شؽوات ن پؽشنهاڌ نؽکونه
+picture-in-picture-panel-body = مجالی ک شؽوات من شؽوات فعال هڌ، گاشڌ ویدیو یل چونوو ک برنومه نویس اخاست، نشووݩ داڌه نبۊن.
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> سکو من هالت پوی بلگه هڌ
+fullscreen-warning-no-domain = ای سند سکو من هالت پوی بلگه هڌ
 fullscreen-exit-button = و در زیڌن ز نما پوی بلگه (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = و در زیڌن ز نما پوی بلگه (esc)
@@ -879,6 +885,12 @@ bookmarks-mobile-bookmarks-menu =
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
 ##                         bookmarks toolbar, etc.) is visible or not.
 
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] نیشتن نوار ٱوزار نشووکا
+           *[other] نیشتن نوار ٱوزار نشووکا
+        }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->

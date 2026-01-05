@@ -50,9 +50,23 @@ contextual-manager-passwords-export-file-picker-title = و در کشیڌن رز�
 contextual-manager-passwords-export-file-picker-default-filename = رزما
 contextual-manager-passwords-export-file-picker-export-button = و در کشیڌن
 contextual-manager-passwords-origin-label = وبگه اینترنتی
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = نوم منتوری
+    .data-after = لف گیری وابی
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = رزم
+    .data-after = لف گیری وابی
 contextual-manager-passwords-radiogroup-label =
     .aria-label = فیلتر رزما
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = رزم سی { $url } ٱوورده وابی
 contextual-manager-passwords-add-password-success-button = نشووݩ داڌن
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = ی رزم وو نوم منتوری ز زیتر سی { $url } بیڌه
 contextual-manager-passwords-password-already-exists-error-button = راو و رزم
 contextual-manager-passwords-update-password-success-heading =
     .heading = رزم زفت وابیڌ
