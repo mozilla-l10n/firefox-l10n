@@ -89,6 +89,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Încearcă s
 inactive-css-not-multicol-container-fix = Încearcă să adaugi ori <strong>column-count</strong>, ori <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Încearcă să adaugi <strong>column-count</strong> sau <strong>column-width</strong> la unul dintre elementele-părinte. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Încearcă să adaugi <strong>position:absolute</strong> la element sau <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> sau <strong>display:inline-flex</strong> la părintele elementului. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Încearcă să adaugi <strong>position:absolute</strong> la element sau <strong>display:grid</strong> sau<strong>display:inline-grid</strong> la părintele elementului. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Încearcă să adaugi <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> sau <strong>display:inline-flex</strong> la părintele elementului. { learn-more }
 inactive-css-not-grid-item-fix-2 = Încearcă să adaugi <strong>display:grid</strong> or <strong>display:inline-grid</strong> la părintele elementului. { learn-more }
 inactive-css-not-grid-container-fix = Încearcă să adaugi <strong>display:grid</strong> sau <strong>display:inline-grid</strong>. { learn-more }
@@ -142,3 +143,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Află mai mul
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Acest selector folosește <strong>:has()</strong> fără restricții, ceea ce poate fi lent
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Selectorii frați după <strong>:scope</strong> nu se vor potrivi niciodată cu nimic

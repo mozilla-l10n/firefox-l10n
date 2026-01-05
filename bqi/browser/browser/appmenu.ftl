@@ -45,6 +45,18 @@ appmenuitem-more-tools =
     .label = ٱوزارا قلوه
 appmenuitem-help =
     .label = هیاری
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] و در زیڌن
+           *[other] و در زیڌن
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = گۊشیڌن نومگه برنومه
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = بستن نومگه برنومه
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
