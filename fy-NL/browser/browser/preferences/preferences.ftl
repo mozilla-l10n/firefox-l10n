@@ -407,6 +407,64 @@ settings-translations-header =
     .label = Oersettingen
     .aria-label = Oersettingen
     .description = Set siden of selektearre tekst oer. Om jo privacy te beskermjen, bliuwe oersettingen op jo apparaat.
+settings-translations-offer-to-translate-label =
+    .label = Folsleine side-oersetting oanbiede
+settings-translations-more-settings-button =
+    .label = Mear oersetynstellingen
+    .description = Foarkarren foar talen, websites en offline-oersetting ynstelle.
+settings-translations-subpage-header =
+    .heading = Mear oersetynstellingen
+settings-translations-subpage-speed-up-translation-header =
+    .label = Oersetting fersnelle
+    .description = Download folsleine talen foar fluggere oersettingen en om offline oer te setten.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatyske oersetting
+settings-translations-subpage-always-translate-header =
+    .label = Dizze talen altyd oersette
+settings-translations-subpage-never-translate-header =
+    .label = Dizze talen nea oersette
+settings-translations-subpage-never-translate-sites-header =
+    .label = Dizze websites nea oersette
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Iepenje om in website ta te foegjen it <img data-l10n-name="translations-icon"/>  oersetpaniel, selektearje <img data-l10n-name="settings-icon"/> oersetynstellingen en kies ‘Dizze website nea oersette’
+settings-translations-subpage-language-select-option =
+    .label = Taal tafoegje
+settings-translations-subpage-language-add-button =
+    .aria-label = Taal tafoegje
+    .title = Taal tafoegje
+settings-translations-subpage-download-languages-header =
+    .label = Talen downloade
+settings-translations-subpage-download-languages-select-option =
+    .label = Taal selektearje
+settings-translations-subpage-download-languages-button =
+    .aria-label = Taal downloade
+    .title = Taal downloade
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Gjin talen download
+settings-translations-subpage-no-languages-added =
+    .label = Gjin talen tafoege
+settings-translations-subpage-download-progress = Download dwaande…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Kin { $language } net downloade ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Opnij probearje
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = { $language } ({ $size } MB) fuortsmite?
+settings-translations-subpage-download-delete-button =
+    .label = Fuortsmite
+settings-translations-subpage-download-cancel-button =
+    .label = Annulearje
+settings-translations-subpage-no-sites-added =
+    .label = Gjin websites tafoege
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -959,6 +1017,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Syngronisaasje
+account-group-label =
+    .label = { -vendor-short-name }-account
+account-placeholder =
+    .label = Jo binne net oanmeld
+    .description = Meld jo oan om jo gegevens privee, fersifere en tusken apparaten syngronisearre te hâlden.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -971,6 +1034,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Meld jo oan by jo account om te begjinnen mei syngronisearjen
     .accesskey = a
+sync-signedout-account-short =
+    .label = Oanmelde
+    .accesskey = m
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
