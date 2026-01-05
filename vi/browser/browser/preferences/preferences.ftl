@@ -1001,6 +1001,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Đồng bộ hóa
+account-group-label =
+    .label = Tài khoản { -vendor-short-name }
 account-placeholder =
     .label = Bạn chưa đăng nhập
     .description = Đăng nhập để giữ dữ liệu của bạn riêng tư, được mã hóa và đồng bộ hóa trên các thiết bị.
@@ -1407,6 +1409,9 @@ payments-list-item-label = <strong>Phương thức thanh toán</strong>
 payments-delete-payment-prompt-title = Xoá phương thức thanh toán này?
 payments-delete-payment-prompt-confirm-button = Xóa
 payments-delete-payment-prompt-cancel-button = Hủy bỏ
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Không có phương thức thanh toán nào được thêm
 payments-remove-payment-prompt-title = Xoá phương thức thanh toán này?
 payments-remove-payment-prompt-confirm-button = Xóa
 payments-remove-payment-prompt-cancel-button = Hủy bỏ
@@ -1431,6 +1436,9 @@ addresses-delete-address-prompt-cancel-button = Hủy bỏ
 autofill-addresses-add-button = Thêm địa chỉ mới
 autofill-addresses-manage-addresses-title =
     .heading = Quản lý địa chỉ và nhiều hơn nữa
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Không có địa chỉ nào được thêm
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1674,6 +1682,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Đề xuất bị loại bỏ
     .description = Khôi phục các đề xuất đã bị loại bỏ từ các nhà tài trợ và { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Khôi phục đề xuất
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 addressbar-dismissed-suggestions-label = Đề xuất bị loại bỏ
 addressbar-restore-dismissed-suggestions-description = Khôi phục các đề xuất đã bị loại bỏ từ các nhà tài trợ và { -brand-short-name }.

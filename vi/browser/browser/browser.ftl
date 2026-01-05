@@ -528,6 +528,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Bạn không được kết nối an toàn với trang web này.
 identity-connection-verified = Bạn đang kết nối an toàn tới trang này.
 identity-ev-owner-label = Chứng nhận được cấp cho:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Được chứng nhận/đủ điều kiện theo quy định tại Quy định (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla không công nhận nhà phát hành chứng nhận này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên.
 identity-remove-cert-exception =
     .label = Loại bỏ ngoại lệ
