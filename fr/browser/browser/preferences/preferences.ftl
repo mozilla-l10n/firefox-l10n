@@ -1076,8 +1076,8 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } n’est pas vérifié.
 sync-signedin-unverified2 =
-    .label = { $email } n’est pas encore confirmé
-    .description = Consultez votre boîte de réception pour confirmer votre compte et le rendre officiel.
+    .label = L’adresse { $email } n’est pas encore confirmée
+    .description = Vérifiez vos e-mails pour confirmer votre compte et le valider.
 sync-signedin-login-failure = Veuillez vous identifier pour vous reconnecter via { $email }
 sync-signedin-login-failure2 =
     .label = Vous êtes déconnecté·e de { $email }

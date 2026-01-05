@@ -137,6 +137,8 @@ place-database-stats-sequentiality-perc = Séquentialité (%)
 place-database-integrity = Intégrité
 place-database-verify-integrity = Vérifier l’intégrité
 place-database-last-idle-maintenance-data = Date de dernière inactivité pour la maintenance
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Date du dernier nettoyage de la base
 place-database-last-integrity-corruption-date = Date de la dernière corruption d’intégrité
 a11y-title = Accessibilité
 a11y-activated = Activée
