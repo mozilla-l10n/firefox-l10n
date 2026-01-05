@@ -71,7 +71,7 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Izberi …
        *[other] Prebrskaj …
     }
-turn-on-scheduled-backups-encryption-label = Varnostno kopirajte občutljive podatke
+turn-on-scheduled-backups-encryption-label = Varnostno kopiraj občutljive podatke
 turn-on-scheduled-backups-encryption-create-password-label = Geslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Ponovite geslo
