@@ -360,10 +360,10 @@ preferences-web-appearance-choice-auto2 =
         }
 preferences-web-appearance-choice-light2 =
     .label = Světlý
-    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
+    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným motivem.
 preferences-web-appearance-choice-dark2 =
     .label = Tmavý
-    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným tématem.
+    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným motivem.
 web-appearance-group =
     .aria-label = Vzhled webových stránek
 preferences-web-appearance-choice-auto = Automatický
@@ -376,9 +376,9 @@ preferences-web-appearance-choice-tooltip-auto =
            *[no-cases] Automaticky měnit pozadí a obsah stránek na základě nastavení vzhledu systému a aplikace { -brand-short-name }.
         }
 preferences-web-appearance-choice-tooltip-light =
-    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným tématem.
+    .title = Použije pro pozadí a obsah webových stránek vzhled se světlým barevným motivem.
 preferences-web-appearance-choice-tooltip-dark =
-    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným tématem.
+    .title = Použije pro pozadí a obsah webových stránek vzhled s tmavým barevným motivem.
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =

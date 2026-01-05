@@ -87,42 +87,42 @@ onboarding-theme-primary-button-label = Hotovo
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
-        Vzhled s barevným tématem
+        Vzhled s barevným motivem
         podle nastavení operačního systému.
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
-        Vzhled s barevným tématem
+        Vzhled s barevným motivem
         podle nastavení operačního systému.
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
-        Vzhled se světlým barevným tématem
+        Vzhled se světlým barevným motivem
         pro tlačítka, nabídky a okna.
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
-        Vzhled se světlým barevným tématem
+        Vzhled se světlým barevným motivem
         pro tlačítka, nabídky a okna.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
-        Vzhled s tmavým barevným tématem
+        Vzhled s tmavým barevným motivem
         pro tlačítka, nabídky a okna.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
-        Vzhled s tmavým barevným tématem
+        Vzhled s tmavým barevným motivem
         pro tlačítka, nabídky a okna.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        Vzhled s barevným tématem
+        Vzhled s barevným motivem
         pro tlačítka, nabídky a okna.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
-        Vzhled s barevným tématem
+        Vzhled s barevným motivem
         pro tlačítka, nabídky a okna.
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Vyzkoušet výchozí vzhledy.
