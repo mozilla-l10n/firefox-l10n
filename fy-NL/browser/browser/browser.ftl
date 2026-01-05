@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Jo hawwe in ûnbefeilige ferbining mei dizze website.
 identity-connection-verified = Jo hawwe in befeilige ferbining mei dizze website.
 identity-ev-owner-label = Sertifikaat útjûn oan:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kwalifisearre lykas oantsjutte yn Feroardening (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla werkent dizze sertifikaatútjouwer net. Hy is mooglik fan jo bestjoeringssysteem út of troch in behearder tafoege.
 identity-remove-cert-exception =
     .label = Utsûndering fuortsmite
