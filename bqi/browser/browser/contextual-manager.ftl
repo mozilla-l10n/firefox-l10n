@@ -11,6 +11,7 @@ contextual-manager-more-options-popup =
 
 contextual-manager-passwords-command-create = ٱووردن رزم
 contextual-manager-passwords-command-import = و من ٱووردن ز ی فایل…
+contextual-manager-passwords-command-options = گۊزینه یل
 contextual-manager-passwords-command-settings = سامووا
 contextual-manager-passwords-command-help = هیاری
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
@@ -30,15 +31,31 @@ contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = آل�
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه
 contextual-manager-passwords-import-file-picker-title = و من ٱووردن رزما
 contextual-manager-passwords-import-file-picker-import-button = و من ٱووردن
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+contextual-manager-passwords-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] سند CSV
+       *[other] فایل CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+contextual-manager-passwords-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] سند TSV
+       *[other] فایل TSV
+    }
 contextual-manager-passwords-import-success-heading =
     .heading = رزما و من ٱوورده وابین
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 contextual-manager-passwords-import-success-message = نۊ: { $added }، ورۊ وابیڌه: { $modified }
+contextual-manager-passwords-import-detailed-report = نیشتن رؽز گوزارش
 contextual-manager-passwords-import-success-button = ٱنجوم وابی
 contextual-manager-passwords-import-error-button-try-again = قپ ریت دووارته
 contextual-manager-passwords-import-error-button-cancel = لقو
+contextual-manager-passwords-import-learn-more = زبار و من ٱووردن رزما دووسته بۊین
 contextual-manager-passwords-export-success-heading =
     .heading = رزما و در کشیڌه وابین
 contextual-manager-passwords-export-success-button = ٱنجوم وابی
