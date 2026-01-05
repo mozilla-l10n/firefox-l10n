@@ -593,7 +593,7 @@ addon-category-mlmodel = AI pe dispozitiv
 addon-category-mlmodel-title =
     .title = AI pe dispozitiv
 mlmodel-heading = Gestionează modelele de AI de pe dispozitiv
-mlmodel-description = Unele funcționalități și extensii din { -brand-short-name } sunt bazate pe modele IA care lucrează local pe dispozitivul tău. Abordarea îți protejează confidențialitatea și, în multe cazuri, crește performanța. <a data-l10n-name="learn-more">Află mai multe</a>
+mlmodel-description = Unele funcționalități și extensii din { -brand-short-name } sunt bazate pe modele AI care lucrează local pe dispozitivul tău. Abordarea îți protejează confidențialitatea și, în multe cazuri, crește performanța. <a data-l10n-name="learn-more">Află mai multe</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Elimină

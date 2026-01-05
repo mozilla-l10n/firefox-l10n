@@ -481,8 +481,8 @@ pdfjs-editor-new-alt-text-error-close-button = Închide
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
 #   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
-pdfjs-editor-new-alt-text-ai-model-downloading-progress = Se descarcă modelul IA de text alternativ ({ $downloadedSize } de { $totalSize } MB)
-    .aria-valuetext = Se descarcă modelul IA de text alternativ ({ $downloadedSize } de { $totalSize } MB)
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Se descarcă modelul AI de text alternativ ({ $downloadedSize } de { $totalSize } MB)
+    .aria-valuetext = Se descarcă modelul AI de text alternativ ({ $downloadedSize } de { $totalSize } MB)
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button =
     .aria-label = Text alternativ adăugat
@@ -511,7 +511,7 @@ pdfjs-editor-alt-text-settings-create-model-button-label = Creează automat text
 pdfjs-editor-alt-text-settings-create-model-description = Sugerează descrieri ca să îi ajuți pe cei care nu pot vedea imaginea sau pentru când nu se încarcă imaginea.
 # Variables:
 #   $totalSize (Number) - the total size (in MB) of the AI model.
-pdfjs-editor-alt-text-settings-download-model-label = Model IA de text alternativ ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-download-model-label = Model AI de text alternativ ({ $totalSize } MB)
 pdfjs-editor-alt-text-settings-ai-model-description = Rulează local pe dispozitiv, deci datele tale rămân private. Necesar pentru text alternativ automat.
 pdfjs-editor-alt-text-settings-delete-model-button = Șterge
 pdfjs-editor-alt-text-settings-download-model-button = Descarcă

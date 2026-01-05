@@ -103,6 +103,24 @@ contextual-manager-check-icon-password =
     .alt = لف گیری وابی
 contextual-manager-alert-icon =
     .alt = بپا
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = لف گیری نوم منتوری { $username }
+    .title = لف گیری نوم منتوری { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = لف گیری نوم منتوری { $username } (بپا)
+    .title = لف گیری نوم منتوری { $username } (بپا)
+contextual-manager-password-login-line =
+    .aria-label = لف گیری رزم
+    .title = لف گیری رزم
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = لف گیری رزم (بپا)
+    .title = لف گیری رزم (بپا)
 contextual-manager-edit-login-button = آلشت
     .tooltiptext = آلشت رزم
 contextual-manager-view-alert-heading =

@@ -11,6 +11,17 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
+downloads-cmd-pause =
+    .label = واڌاشتن
+    .accesskey = P
+downloads-cmd-resume =
+    .label = ز سر گرؽڌن
+    .accesskey = R
 downloads-cmd-cancel =
     .tooltiptext = لقو
 downloads-cmd-cancel-panel =
@@ -42,6 +53,13 @@ downloads-cmd-retry =
     .tooltiptext = قپ ریت دووارته
 downloads-cmd-retry-panel =
     .aria-label = قپ ریت دووارته
+downloads-cmd-delete-file =
+    .label = پاک کردن
+    .accesskey = D
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = هشتن دانلود
+    .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = پاک کردن فایل
@@ -69,6 +87,17 @@ downloads-show-more-information =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = گۊشیڌن فایل
+
+## Displayed when the user clicked on a download in process. Indicates that the
+## downloading file will be opened after certain amount of time using an app
+## available in the system.
+## Variables:
+##   $hours (number) - Amount of hours left till the file opens.
+##   $seconds (number) - Amount of seconds left till the file opens.
+##   $minutes (number) - Amount of minutes till the file opens.
+
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = من { $hours } ساعت وو { $minutes } دیقه دی اگوئشه…
 
 ##
 

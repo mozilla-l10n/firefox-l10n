@@ -30,7 +30,7 @@ webext-perms-description-sessions = Să acceseze filele închise recent
 webext-perms-description-tabs = Să acceseze filele browserului
 webext-perms-description-tabHide = Să ascundă și să afișeze filele browserului
 webext-perms-description-topSites = Să acceseze istoricul de navigare
-webext-perms-description-trialML = Să descarce și să ruleze modele IA pe dispozitivul tău
+webext-perms-description-trialML = Să descarce și să ruleze modele AI pe dispozitivul tău
 webext-perms-description-userScripts = Să acorde acces la datele tale unor scripturi neverificate de la terți
 webext-perms-description-webNavigation = Să acceseze activitatea browserului în timpul navigării
 
