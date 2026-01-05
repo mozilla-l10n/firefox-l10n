@@ -18,7 +18,7 @@ search-input-box2 =
 pane-home-title = هووه
 category-home =
     .tooltiptext = { pane-home-title }
-addons-button-label = وردنی یل وو تما
+addons-button-label = وردنی یل وو زمینه یل
 
 ## Browser Restart Dialog
 

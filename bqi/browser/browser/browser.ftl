@@ -372,7 +372,7 @@ quickactions-addons = نیشتن وردنی یل
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-addons3 = وردنی یل، تما، addons، add-ons
+quickactions-cmd-addons3 = وردنی یل، زمینه یل، addons، add-ons
 quickactions-cmd-addons2 = وردنی یل
 # Opens the bookmarks library window
 quickactions-bookmarks2 = دؽوۉداری نشووکا
@@ -438,7 +438,7 @@ quickactions-themes = دؽوۉداری زمینه یل
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-themes2 = تما، وردنی یل، وردنی یل
+quickactions-cmd-themes2 = زمینه یل، وردنی یل، وردنی یل
 quickactions-cmd-themes = زمینه یل
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ورۊ رسۊوی { -brand-short-name }

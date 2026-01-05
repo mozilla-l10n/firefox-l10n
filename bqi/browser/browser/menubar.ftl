@@ -88,7 +88,7 @@ menu-profiles-menu =
 ## Tools Menu
 
 menu-tools-extensions-and-themes =
-    .label = وردنی یل وو تما
+    .label = وردنی یل وو زمینه یل
     .accesskey = E
 menu-settings =
     .label = سامووا
