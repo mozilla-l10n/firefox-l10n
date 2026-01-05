@@ -19,4 +19,5 @@ default-browser-prompt-button-secondary = سکو ن
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-info-page = و مو نشووݩ بڌه
 default-browser-guidance-notification-dismiss = ٱنجوم وابی

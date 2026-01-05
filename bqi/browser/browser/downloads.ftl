@@ -6,6 +6,8 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = دانلودا
 downloads-panel =
     .aria-label = دانلودا
 
@@ -26,6 +28,23 @@ downloads-cmd-cancel =
     .tooltiptext = لقو
 downloads-cmd-cancel-panel =
     .aria-label = لقو
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] نشووݩ داڌن من Finder
+           *[other] نشووݩ داڌن من دوبلگه
+        }
+    .accesskey = F
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = گۊشیڌن من { $handler }
+    .accesskey = I
 
 ##
 
@@ -53,6 +72,9 @@ downloads-cmd-retry =
     .tooltiptext = قپ ریت دووارته
 downloads-cmd-retry-panel =
     .aria-label = قپ ریت دووارته
+downloads-cmd-go-to-download-page =
+    .label = رئڌن و بلگه دانلود
+    .accesskey = G
 downloads-cmd-delete-file =
     .label = پاک کردن
     .accesskey = D
