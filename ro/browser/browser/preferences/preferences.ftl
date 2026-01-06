@@ -1335,6 +1335,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Folosește o parolă primară
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Folosește o parolă primară
+    .description = Adaugă un strat suplimentar de securitate ca să îți protejezi parolele salvate.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Setează parola principală
 forms-primary-pw-on =
@@ -1347,6 +1351,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Necesită să intri în cont pe dispozitiv ca să completezi și să gestionezi parole
+forms-os-reauth-2 =
+    .label = Necesită să intri în cont pe dispozitiv ca să gestionezi parole
 forms-primary-pw-learn-more-link = Află mai multe
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
