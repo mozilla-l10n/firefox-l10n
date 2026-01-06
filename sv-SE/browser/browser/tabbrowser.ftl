@@ -388,7 +388,6 @@ tab-note-editor-button-save =
 #   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
 tab-note-editor-character-limit =
     { $maxAllowedCharacters ->
-        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } tecken
        *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } tecken
     }
 
