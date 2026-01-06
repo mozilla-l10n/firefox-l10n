@@ -19,3 +19,6 @@ pending-crash-reports-send =
     .label = فشناڌن
 pending-crash-reports-always-send =
     .label = هی بفشنه
+requested-crash-reports-dont-show-again =
+    .label = دی یونه نشووݩ مڌه
+    .accesskey = D
