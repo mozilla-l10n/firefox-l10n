@@ -206,6 +206,30 @@ appmenu-about =
 appmenu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = h
+appmenu-help-report-site-issue =
+    .label = گوزارش موشکلا وبگه…
+appmenu-help-switch-device =
+    .label = هونی جا گورو ابۊ و ی دسگا نۊ
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = هالت عیو جۊری…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = کۊر کردن هالت عیو جۊری
+    .accesskey = M
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = گوزارش وبگه بلا کوݩ…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = یو ی وبگه بلا کوݩ نؽ…
+    .accesskey = d
 
 ## More Tools
 
