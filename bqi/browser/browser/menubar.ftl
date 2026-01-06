@@ -85,6 +85,36 @@ menu-view-page-style-menu =
 menu-view-page-style-no-style =
     .label = بؽ سبک
     .accesskey = n
+menu-view-page-basic-style =
+    .label = سبک پایه بلگه
+    .accesskey = B
+menu-view-repair-text-encoding =
+    .label = تعمیر رزم ناهاڌن هؽل
+    .accesskey = c
+
+## These should match what Safari and other Apple applications
+## use on macOS.
+
+menu-view-enter-full-screen =
+    .label = رئڌن و نما پوی بلگه
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = و در زیڌن ز نما پوی بلگه
+    .accesskey = F
+menu-view-full-screen =
+    .label = پوی بلگه
+    .accesskey = F
+
+## These menu items may use the same accesskey.
+
+# This should match reader-view-enter-button in browser.ftl
+menu-view-enter-readerview =
+    .label = و من ٱووڌن و نما خۊندنی
+    .accesskey = R
+# This should match reader-view-close-button in browser.ftl
+menu-view-close-readerview =
+    .label = بستن نما خۊندنی
+    .accesskey = R
 
 ## History Menu
 
