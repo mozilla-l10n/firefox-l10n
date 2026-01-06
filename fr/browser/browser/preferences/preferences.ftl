@@ -1075,7 +1075,7 @@ sync-signedin-unverified2 =
 sync-signedin-login-failure = Veuillez vous identifier pour vous reconnecter via { $email }
 sync-signedin-login-failure2 =
     .label = Vous êtes déconnecté·e de { $email }
-    .description = Reconnectez-vous pour vous reconnecter et commencer à synchroniser vos données.
+    .description = Reconnectez-vous pour synchroniser vos données.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1346,7 +1346,7 @@ forms-primary-pw-turn-off =
 forms-os-reauth =
     .label = Exiger la connexion à l’appareil pour renseigner et gérer les mots de passe
 forms-os-reauth-2 =
-    .label = Exiger la connexion de l’appareil pour gérer les mots de passe
+    .label = Exiger la connexion à l’appareil pour gérer les mots de passe
 forms-primary-pw-learn-more-link = En savoir plus
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1427,7 +1427,7 @@ payments-delete-payment-prompt-confirm-button = Supprimer
 payments-delete-payment-prompt-cancel-button = Annuler
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
-    .label = Aucun mode de paiement ajouté
+    .label = Aucun moyen de paiement ajouté
 payments-remove-payment-prompt-title = Supprimer ce moyen de paiement ?
 payments-remove-payment-prompt-confirm-button = Supprimer
 payments-remove-payment-prompt-cancel-button = Annuler
@@ -1699,7 +1699,7 @@ addressbar-dismissed-suggestions-label-2 =
     .label = Suggestions rejetées
     .description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.
 addressbar-restore-dismissed-suggestions-button-2 =
-    .label = Suggestions de restauration
+    .label = Restaurer les suggestions
 addressbar-quickactions-learn-more = En savoir plus
 addressbar-dismissed-suggestions-label = Suggestions rejetées
 addressbar-restore-dismissed-suggestions-description = Restaurer les suggestions rejetées des sponsors et de { -brand-short-name }.
