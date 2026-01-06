@@ -53,6 +53,8 @@ mr1-onboarding-theme-secondary-button-label = سکو ن
 mr1-onboarding-theme-label-system = زمینه سیستوم
 mr1-onboarding-theme-label-light = رۊشن
 mr1-onboarding-theme-label-dark = تاریک
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = آلپنگلۉ
 onboarding-theme-primary-button-label = ٱنجوم وابی
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -83,6 +85,22 @@ mr2022-onboarding-colorway-label-default = پؽش فرز
 
 mr2022-onboarding-gratitude-primary-button-label = چیا نۊ ن بنیرین
 
+## Device migration onboarding
+
+onboarding-device-migration-primary-button-label = و من ٱووڌن
+
+## Add-ons Picker screen
+
+amo-picker-install-button-label = ٱووردن و { -brand-short-name }
+amo-picker-install-complete-label = پۊرنیڌه وابی
+
+## New user time and familiarity survey strings
+
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = بئڌی
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = مو کاملن تازه کاروم
+
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = نۊ!
@@ -94,3 +112,19 @@ onboarding-checklist-extension = ازاف کردن ی وردنی
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-dismiss = خا
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-select-tile-button-label = پسند
+create-backup-back-button-label = وورگشتن
+fx-backup-opt-in-confirm-btn-label = رئڌن وا پؽش
+fx-backup-opt-in-cancel-btn-label = وورگشتن
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-close-button = بستن
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-no-checklist-primary-button = رئڌن وا پؽش
+restored-from-backup-error-primary-button = بستن

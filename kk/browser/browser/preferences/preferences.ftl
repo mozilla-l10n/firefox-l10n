@@ -1331,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Басты парольді қолдану
     .accesskey = ы
+forms-primary-pw-use-2 =
+    .label = Басты парольді қолдану
+    .description = Сақталған парольдеріңізді сақтау үшін қосымша қауіпсіздік қабатын қосады
+    .accesskey = о
 forms-primary-pw-set =
     .label = Басты парольді орнату
 forms-primary-pw-on =
@@ -1343,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Парольдерді толтыру және басқару үшін құрылғыға кіруді талап ету
+forms-os-reauth-2 =
+    .label = Парольдерді басқару үшін құрылғыға кіруді талап ету
 forms-primary-pw-learn-more-link = Көбірек білу
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
