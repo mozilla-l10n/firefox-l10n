@@ -1323,6 +1323,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = 使用主控密碼
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = 使用主控密碼
+    .description = 為您儲存的密碼再加上一層保護。
+    .accesskey = U
 forms-primary-pw-set =
     .label = 設定主控密碼
 forms-primary-pw-on =
@@ -1335,6 +1339,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = 填寫與管理密碼時需進行裝置登入驗證
+forms-os-reauth-2 =
+    .label = 需要裝置登入才能管理密碼
 forms-primary-pw-learn-more-link = 了解更多
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
