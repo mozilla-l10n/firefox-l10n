@@ -73,12 +73,17 @@ newtab-wallpaper-feature-highlight-button = فئمیم
 
 ## New Tab Weather
 
+newtab-weather-menu-weather-display-option-detailed = جۊزعیات
+newtab-weather-menu-change-weather-display-detailed = آلشت و هالت نیشتن جۊزعیات
+newtab-weather-menu-temperature-units = واهدا دما
+newtab-weather-menu-temperature-option-fahrenheit = فارنهایت
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = شئر نیویورک
 
 ## Topic Selection Modal
 
+newtab-topic-selection-save-button = زفت
 newtab-topic-selection-cancel-button = لقو
 
 ## Strings for reporting issues with ads and content
