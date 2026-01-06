@@ -1183,7 +1183,12 @@ trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل 
 trustpanel-privacy-link = سامووا هریم سیخومی
 trustpanel-clear-cookies-subview-button-clear = پاک کردن
 trustpanel-clear-cookies-subview-button-cancel = لقو
+trustpanel-siteinformation-morelink = دووسمندیا قلوه وبگه
 trustpanel-blocker-see-all = نیشتن پوی
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = زفت وابیڌنا جلاو رڌجۊری سی { $host }
 
 ## The urlbar trust icon & panel
 
@@ -1195,4 +1200,5 @@ urlbar-trust-icon-notsecure-label = ایمن نؽ
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-insecure-section-header = منپیز ایسا ایمن نؽ
 trustpanel-list-label-tracking-content = موئتوا رڌجۊری

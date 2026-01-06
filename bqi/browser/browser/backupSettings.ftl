@@ -84,13 +84,16 @@ turn-off-scheduled-backups-confirm-button = لادرار ن کۊر وو پاک �
 restore-from-backup-header = داده یل خوتووݩ ن وورگنین
 restore-from-backup-support-link =
     .message = چ چیه ز نۊ وورکل بۊ؟
+restore-from-backup-no-backup-file-link = من جوستن نوسخه لادرار خوتووݩ موشکل دارین؟
 restore-from-backup-filepicker-label = فایل لادراری گرؽڌن
+restore-from-backup-filepicker-title = پسند فایل لادرار…
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] پسند…
        *[other] گشتن...
     }
 restore-from-backup-password-label = رزم
+restore-from-backup-password-description = ای کار نوسخه لادرار رزم ناهاڌه بیڌه ایسا ن اگوشه.
 restore-from-backup-cancel-button = لقو
 restore-from-backup-confirm-button = وورگندن وو ر وندن دووارته
 restore-from-backup-restoring-button = هونی اوورگنه…
