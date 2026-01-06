@@ -8,8 +8,21 @@
 ### widowed word, so test on various window sizes if you also want this.
 
 
+## Welcome page strings
+
+onboarding-welcome-header = و { -brand-short-name } خش ٱوۊڌین
+onboarding-start-browsing-button-label = ناڌن پا وب گردی
+onboarding-not-now-button-label = سکو ن
+mr1-onboarding-get-started-primary-button-label = ناهاڌن پا کار
+
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = قلوه خۊوه، { -brand-short-name } ن گرؽڌین
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = سکو بؽلین سیتووݩ <img data-l10n-name="icon"/><b>{ $addon-name }</b> ن بگیریم.
 return-to-amo-add-extension-label = ازاف کردن وردنی
 return-to-amo-extension-install-complete-label = وردنی پۊرست
 

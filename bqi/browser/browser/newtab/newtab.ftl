@@ -265,3 +265,6 @@ newtab-widget-timer-menu-hide = بؽڌار کردن زمووݩ سنج
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
 newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
+newtab-promo-card-dismiss-button =
+    .title = رڌ کردن
+    .aria-label = رڌ کردن
