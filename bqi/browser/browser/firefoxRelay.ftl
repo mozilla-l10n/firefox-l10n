@@ -8,6 +8,12 @@
 firefox-relay-opt-in-confirmation-postpone =
     .label = سکو ن
     .accesskey = N
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
+    .label = سبت نوم
+    .accesskey = S
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = سکو ن
+    .accesskey = N
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
