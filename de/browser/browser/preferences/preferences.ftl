@@ -1347,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Anmeldung am Gerät zum Ausfüllen und Verwalten von Passwörtern verlangen
+forms-os-reauth-2 =
+    .label = Anmeldung am Gerät zum Verwalten von Passwörtern verlangen
 forms-primary-pw-learn-more-link = Weitere Informationen
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found

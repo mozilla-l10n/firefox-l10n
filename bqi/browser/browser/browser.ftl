@@ -1201,4 +1201,14 @@ urlbar-trust-icon-notsecure-label = ایمن نؽ
 ##  $count (String): the number of trackers blocked.
 
 trustpanel-insecure-section-header = منپیز ایسا ایمن نؽ
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } کۊکیا رڌجۊر منجا وبگهی
+       *[other] { $count } کۊکیا رڌجۊر منجا وبگهی
+    }
 trustpanel-list-label-tracking-content = موئتوا رڌجۊری
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } جا کلک
+       *[other] { $count } جا کلک
+    }
