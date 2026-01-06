@@ -14,7 +14,10 @@ contextual-manager-more-options-popup =
 ## Passwords
 
 contextual-manager-passwords-command-create = ٱووردن رزم
+contextual-manager-passwords-command-import-from-browser = و من ٱووردن ز گشت گر دیری…
 contextual-manager-passwords-command-import = و من ٱووردن ز ی فایل…
+contextual-manager-passwords-command-export = و در کشیڌن رزما
+contextual-manager-passwords-command-remove-all = پاک کردن پوی رزما
 contextual-manager-passwords-command-options = گۊزینه یل
 contextual-manager-passwords-command-settings = سامووا
 contextual-manager-passwords-command-help = هیاری
