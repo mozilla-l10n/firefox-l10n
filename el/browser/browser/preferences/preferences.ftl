@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Περιεχόμενο οθόνης «{ -firefox-home-brand-name }»
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Επιλέξτε το περιεχόμενο που θέλετε στην οθόνη «{ -firefox-home-brand-name }».
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
@@ -857,9 +856,6 @@ home-prefs-weather-description = Σημερινή πρόγνωση με μια �
 home-prefs-weather-learn-more-link = Μάθετε περισσότερα
 home-prefs-widgets-header =
     .label = Γραφικά στοιχεία
-home-prefs-trending-search-header =
-    .label = Δημοφιλείς αναζητήσεις
-home-prefs-trending-search-description = Δημοφιλή και συνήθη θέματα αναζήτησης
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Λίστες
@@ -1831,14 +1827,6 @@ tracking-manage-exceptions =
 permissions-header = Δικαιώματα
 permissions-location = Τοποθεσία
 permissions-location-settings =
-    .label = Ρυθμίσεις…
-    .accesskey = θ
-permissions-localhost = Εφαρμογές και υπηρεσίες συσκευής
-permissions-localhost-settings =
-    .label = Ρυθμίσεις…
-    .accesskey = θ
-permissions-local-network = Συσκευές τοπικού δικτύου
-permissions-local-network-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
 permissions-xr = Εικονική πραγματικότητα

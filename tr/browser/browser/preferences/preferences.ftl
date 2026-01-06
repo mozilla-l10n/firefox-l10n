@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } içerikleri
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } ekranınızda görmek istediğiniz içerikleri seçin.
 home-prefs-search-header =
     .label = Web araması
@@ -857,9 +856,6 @@ home-prefs-weather-description = Bugünkü hava durumu tahmini
 home-prefs-weather-learn-more-link = Daha fazla bilgi al
 home-prefs-widgets-header =
     .label = Araçlar
-home-prefs-trending-search-header =
-    .label = Gündemdeki aramalar
-home-prefs-trending-search-description = Popüler ve sıkça aranan konular
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listeler
@@ -1831,14 +1827,6 @@ tracking-manage-exceptions =
 permissions-header = İzinler
 permissions-location = Konum
 permissions-location-settings =
-    .label = Ayarlar…
-    .accesskey = r
-permissions-localhost = Cihaz uygulamaları ve hizmetleri
-permissions-localhost-settings =
-    .label = Ayarlar…
-    .accesskey = A
-permissions-local-network = Yerel ağ cihazları
-permissions-local-network-settings =
     .label = Ayarlar…
     .accesskey = r
 permissions-xr = Sanal gerçeklik

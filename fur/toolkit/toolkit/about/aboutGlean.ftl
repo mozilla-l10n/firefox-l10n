@@ -190,8 +190,6 @@ about-glean-button-unwatch = Ferme di tignî di voli
 about-glean-no-data-to-display = Nissun dât di visualizâ.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Lis metrichis <code>DualLabeledCounter</code> no son supuartadis te viodude <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Lis metrichis cun etichete no son ancjemò supuartadis inte viodude <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Gjenar di metriche no cognossût.
 about-glean-enable-new-features-promo =
     .message = O stin daûr a zontâ gnovis funzions! A son ancjemò in svilup, ma se tu vuelis ativâlis, fâs clic sul boton di azion.

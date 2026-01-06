@@ -803,7 +803,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } wobsah
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wubjerće, kotry wobsah chceće na swojej j wobrazowce { -firefox-home-brand-name } měć.
 home-prefs-search-header =
     .label = Webpytanje
@@ -863,9 +862,6 @@ home-prefs-weather-description = Dźensniša wjedrowa předpowědź na jedyn poh
 home-prefs-weather-learn-more-link = Dalše informacije
 home-prefs-widgets-header =
     .label = Asistenty
-home-prefs-trending-search-header =
-    .label = Woblubowane pytanja
-home-prefs-trending-search-description = Popularne a husto pytane temy
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Lisćiny
@@ -1839,14 +1835,6 @@ tracking-manage-exceptions =
 permissions-header = Prawa
 permissions-location = Stejnišćo
 permissions-location-settings =
-    .label = Nastajenja…
-    .accesskey = t
-permissions-localhost = Gratowe nałoženja a słužby
-permissions-localhost-settings =
-    .label = Nastajenja…
-    .accesskey = t
-permissions-local-network = Graty lokalneje syće
-permissions-local-network-settings =
     .label = Nastajenja…
     .accesskey = t
 permissions-xr = Wirtualna realita

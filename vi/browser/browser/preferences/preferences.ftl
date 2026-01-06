@@ -785,7 +785,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Nội dung { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Chọn nội dung bạn muốn trên màn hình { -firefox-home-brand-name } của mình.
 home-prefs-search-header =
     .label = Tìm kiếm web
@@ -845,9 +844,6 @@ home-prefs-weather-description = Sơ lược về dự báo hôm nay
 home-prefs-weather-learn-more-link = Tìm hiểu thêm
 home-prefs-widgets-header =
     .label = Widget
-home-prefs-trending-search-header =
-    .label = Tìm kiếm thịnh hành
-home-prefs-trending-search-description = Các chủ đề phổ biến và được tìm kiếm thường xuyên
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Danh sách
@@ -1821,14 +1817,6 @@ tracking-manage-exceptions =
 permissions-header = Quyền hạn
 permissions-location = Vị trí
 permissions-location-settings =
-    .label = Cài đặt…
-    .accesskey = t
-permissions-localhost = Ứng dụng và dịch vụ thiết bị
-permissions-localhost-settings =
-    .label = Cài đặt…
-    .accesskey = t
-permissions-local-network = Thiết bị mạng cục bộ
-permissions-local-network-settings =
     .label = Cài đặt…
     .accesskey = t
 permissions-xr = Thực tế ảo

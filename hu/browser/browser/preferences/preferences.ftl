@@ -730,7 +730,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } tartalom
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Válassza ki milyen tartalmat szeretne a { -firefox-home-brand-name } képernyőn.
 home-prefs-search-header =
     .label = Webes keresés
@@ -790,9 +789,6 @@ home-prefs-weather-description = A mai előrejelzés egy pillantásnyira
 home-prefs-weather-learn-more-link = További tudnivalók
 home-prefs-widgets-header =
     .label = Kisalkalmazások
-home-prefs-trending-search-header =
-    .label = Felkapott keresések
-home-prefs-trending-search-description = Népszerű és gyakran keresett témák
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listák
@@ -1682,14 +1678,6 @@ tracking-manage-exceptions =
 permissions-header = Engedélyek
 permissions-location = Hely
 permissions-location-settings =
-    .label = Beállítások…
-    .accesskey = B
-permissions-localhost = Eszközalkalmazások és -szolgáltatások
-permissions-localhost-settings =
-    .label = Beállítások…
-    .accesskey = B
-permissions-local-network = Helyi hálózati eszközök
-permissions-local-network-settings =
     .label = Beállítások…
     .accesskey = B
 permissions-xr = Virtuális valóság

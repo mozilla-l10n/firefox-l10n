@@ -197,8 +197,6 @@ about-glean-button-unwatch = მიტოვება
 about-glean-no-data-to-display = საჩვენებელი მონაცემები არაა.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> აზომვებში ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = მონიშნული აზომვები ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = აზომვის უცნობი სახეობა.
 about-glean-enable-new-features-promo =
     .message = მუდმივად ვმუშაობთ ახალი შესაძლებლობების დამატებაზე! ჯერ კიდევ არ დასრულებულა შემუშავება, მაგრამ თუ მაინც გსურთ მონიშვნა, დააწკაპეთ ამოქმედების ღილაკს.

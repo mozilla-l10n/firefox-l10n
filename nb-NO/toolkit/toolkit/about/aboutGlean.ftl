@@ -189,8 +189,6 @@ about-glean-button-unwatch = Fjern overvåking
 about-glean-no-data-to-display = Ingen data å vise.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-målinger støttes ikke i <code>about:glean</code>-visningen ennå.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Merkede målinger støttes ikke i <code>about:glean</code>-visningen ennå.
 about-glean-unknown-metric-type-warning = Ukjent målingstype.
 about-glean-enable-new-features-promo =
     .message = Vi jobber med å legge til nye funksjoner! De er fortsatt under aktiv utvikling, men klikk på handlingsknappen her hvis du vil aktivere dem.

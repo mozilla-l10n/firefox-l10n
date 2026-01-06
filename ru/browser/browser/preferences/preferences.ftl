@@ -800,7 +800,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Содержимое { -firefox-home-brand-name(case: "genitive") }
-home-prefs-content-header3 = { -firefox-home-brand-name(case: "nominative_uppercase") }
 home-prefs-content-description2 = Выберите, какое содержимое вы хотите видеть на экране { -firefox-home-brand-name(case: "genitive") }.
 home-prefs-search-header =
     .label = Поиск в Интернете
@@ -860,9 +859,6 @@ home-prefs-weather-description = Краткий прогноз на сегодн
 home-prefs-weather-learn-more-link = Подробнее
 home-prefs-widgets-header =
     .label = Виджеты
-home-prefs-trending-search-header =
-    .label = Популярные поисковые запросы
-home-prefs-trending-search-description = Популярные и часто запрашиваемые темы
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Списки
@@ -1843,14 +1839,6 @@ permissions-location = Местоположение
 permissions-location-settings =
     .label = Параметры…
     .accesskey = м
-permissions-localhost = Приложения и службы устройства
-permissions-localhost-settings =
-    .label = Настройки…
-    .accesskey = t
-permissions-local-network = Устройства локальной сети
-permissions-local-network-settings =
-    .label = Настройки…
-    .accesskey = t
 permissions-xr = Виртуальная реальность
 permissions-xr-settings =
     .label = Параметры…

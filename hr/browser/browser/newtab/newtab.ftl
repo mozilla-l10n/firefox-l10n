@@ -330,13 +330,8 @@ newtab-custom-recent-subtitle = Izbor nedavno posjećenih stranica i sadržaja
 newtab-custom-weather-toggle =
     .label = Vrijeme
     .description = Današnja prognoza
-newtab-custom-trending-search-toggle =
-    .label = Popularne pretrage
-    .description = Popularne i često tražene teme
 newtab-custom-widget-weather-toggle =
     .label = Vrijeme
-newtab-custom-widget-trending-search-toggle =
-    .label = Popularne pretrage
 newtab-custom-widget-lists-toggle =
     .label = Popisi
 newtab-custom-widget-timer-toggle =
@@ -619,17 +614,6 @@ newtab-report-cancel = Odustani
 newtab-report-submit = Pošalji
 newtab-toast-thanks-for-reporting =
     .message = Hvala na prijavi!
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Prikaži popularne pretrage
-newtab-trending-searches-hide-trending =
-    .title = Sakrij popularne pretrage
-newtab-trending-searches-learn-more = Saznaj više
-newtab-trending-searches-dismiss = Sakrij popularne pretrage
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Popularne pretrage
 
 ## Strings for task / to-do list productivity widget
 

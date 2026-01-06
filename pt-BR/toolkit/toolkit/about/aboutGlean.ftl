@@ -147,8 +147,6 @@ about-glean-button-unwatch = Deixar de acompanhar
 about-glean-no-data-to-display = Nenhum dado a ser exibido.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Ainda não há suporte para métricas <code>DualLabeledCounter</code> na exibição <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Ainda não há suporte para métricas rotuladas na exibição do <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconhecido.
 about-glean-enable-new-features-promo =
     .message = Estamos trabalhando para adicionar novos recursos! Eles ainda estão em desenvolvimento ativo, mas clique no botão de ação aqui se quiser habilitar.

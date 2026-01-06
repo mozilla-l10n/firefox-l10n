@@ -326,13 +326,8 @@ newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Vremea de astăzi dintr-o privire
-newtab-custom-trending-search-toggle =
-    .label = Căutări în tendințe
-    .description = Subiecte populare și căutate frecvent
 newtab-custom-widget-weather-toggle =
     .label = Meteo
-newtab-custom-widget-trending-search-toggle =
-    .label = Căutări în tendințe
 newtab-custom-widget-lists-toggle =
     .label = Liste
 newtab-custom-widget-timer-toggle =
@@ -618,17 +613,6 @@ newtab-report-cancel = Anulează
 newtab-report-submit = Trimite
 newtab-toast-thanks-for-reporting =
     .message = Îți mulțumim pentru sesizare.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Afișează căutări în tendințe
-newtab-trending-searches-hide-trending =
-    .title = Ascunde căutări în tendințe
-newtab-trending-searches-learn-more = Află mai multe
-newtab-trending-searches-dismiss = Ascunde căutări în tendințe
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Căutări în tendințe
 
 ## Strings for task / to-do list productivity widget
 

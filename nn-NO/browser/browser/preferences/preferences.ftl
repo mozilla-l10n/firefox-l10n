@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-innhald
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Vel kva for innhald som du vil ha på { -firefox-home-brand-name }-skjermen din.
 home-prefs-search-header =
     .label = Nettsøk
@@ -857,9 +856,6 @@ home-prefs-weather-description = Vêrmeldinga i dag, i korte trekk
 home-prefs-weather-learn-more-link = Les meir
 home-prefs-widgets-header =
     .label = Widgetar
-home-prefs-trending-search-header =
-    .label = Populære søk
-home-prefs-trending-search-description = Populære og ofte søkte emne
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Lister
@@ -1839,14 +1835,6 @@ permissions-location = Plassering
 permissions-location-settings =
     .label = Innstillingar…
     .accesskey = t
-permissions-localhost = Einingsappar og -tenester
-permissions-localhost-settings =
-    .label = Innstillingar…
-    .accesskey = n
-permissions-local-network = Lokale nettverkseiningar
-permissions-local-network-settings =
-    .label = Innstillingar…
-    .accesskey = n
 permissions-xr = Virtuell røyndom
 permissions-xr-settings =
     .label = Innstillingar…

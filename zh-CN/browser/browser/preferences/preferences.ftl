@@ -793,7 +793,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }内容
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = 选择要在您的 { -firefox-home-brand-name }上显示的内容。
 home-prefs-search-header =
     .label = 网络搜索
@@ -853,9 +852,6 @@ home-prefs-weather-description = 速览今日天气预报
 home-prefs-weather-learn-more-link = 详细了解
 home-prefs-widgets-header =
     .label = 小组件
-home-prefs-trending-search-header =
-    .label = 热门搜索
-home-prefs-trending-search-description = 流行及常搜主题
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = 清单
@@ -1825,14 +1821,6 @@ permissions-location = 位置
 permissions-location-settings =
     .label = 设置…
     .accesskey = l
-permissions-localhost = 设备应用和服务
-permissions-localhost-settings =
-    .label = 设置…
-    .accesskey = t
-permissions-local-network = 本地网络设备
-permissions-local-network-settings =
-    .label = 设置…
-    .accesskey = t
 permissions-xr = 虚拟现实
 permissions-xr-settings =
     .label = 设置…

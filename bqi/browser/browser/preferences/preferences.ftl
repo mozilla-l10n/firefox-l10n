@@ -83,7 +83,6 @@ home-custom-homepage-header = سفارشی کردن بلگه هووه
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-shortcuts-header =
     .label = ر نهنگا
 home-prefs-shortcuts-by-option-sponsored =
@@ -169,12 +168,6 @@ content-blocking-cookies-label =
 ## Privacy Section - Permissions
 
 permissions-location-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-localhost-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-local-network-settings =
     .label = سامووا…
     .accesskey = t
 permissions-xr-settings =

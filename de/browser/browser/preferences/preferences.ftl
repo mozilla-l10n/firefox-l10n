@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-Inhalte
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Wählen Sie, welche Inhalte auf Ihrem { -firefox-home-brand-name }-Bildschirm angezeigt werden sollen.
 home-prefs-search-header =
     .label = Internetsuche
@@ -857,9 +856,6 @@ home-prefs-weather-description = Die heutige Wettervorhersage auf einen Blick
 home-prefs-weather-learn-more-link = Weitere Informationen
 home-prefs-widgets-header =
     .label = Widgets
-home-prefs-trending-search-header =
-    .label = Aktuell beliebte Suchanfragen
-home-prefs-trending-search-description = Beliebte und häufig gesuchte Themen
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listen
@@ -1833,14 +1829,6 @@ tracking-manage-exceptions =
 permissions-header = Berechtigungen
 permissions-location = Standort
 permissions-location-settings =
-    .label = Einstellungen…
-    .accesskey = E
-permissions-localhost = Apps und Dienste des Geräts
-permissions-localhost-settings =
-    .label = Einstellungen…
-    .accesskey = E
-permissions-local-network = Geräte im lokalen Netzwerk
-permissions-local-network-settings =
     .label = Einstellungen…
     .accesskey = E
 permissions-xr = Virtuelle Realität

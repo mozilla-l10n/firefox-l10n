@@ -724,7 +724,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } – შიგთავსი
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = აირჩიეთ, რისი ხილვა გსურთ { -firefox-home-brand-name(case: "loc") }
 home-prefs-search-header =
     .label = საძიებო ველი
@@ -784,9 +783,6 @@ home-prefs-weather-description = მოსალოდნელი ამინ�
 home-prefs-weather-learn-more-link = ვრცლად
 home-prefs-widgets-header =
     .label = ჩანამატები
-home-prefs-trending-search-header =
-    .label = ხშირად მოძიებული
-home-prefs-trending-search-description = ფართოდ გავრცელებული და ხშირად მოძიებული
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = სიები
@@ -1669,14 +1665,6 @@ permissions-location = მდებარეობა
 permissions-location-settings =
     .label = პარამეტრები…
     .accesskey = პ
-permissions-localhost = მოწყობილობის პროგრამები და მომსახურებები
-permissions-localhost-settings =
-    .label = პარამეტრები…
-    .accesskey = ტ
-permissions-local-network = შიდა ქსელის მოწყობილობები
-permissions-local-network-settings =
-    .label = პარამეტრები…
-    .accesskey = ტ
 permissions-xr = წარმოსახვითი სინამდვილე
 permissions-xr-settings =
     .label = პარამეტრები…

@@ -190,8 +190,6 @@ about-glean-button-unwatch = Ndale mbikëqyrjen
 about-glean-no-data-to-display = S’ka të dhëna për shfaqje.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje <code>DualLabeledCounter</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje me etiketa.
 about-glean-unknown-metric-type-warning = Lloj i panjohur matjeje.
 about-glean-enable-new-features-promo =
     .message = Po punojmë për shtim veçorish të reja! Janë ende në zhvillim aktiv, po klikoni butonin e këtushëm të veprimeve, nëse doni t’i aktivizoni.

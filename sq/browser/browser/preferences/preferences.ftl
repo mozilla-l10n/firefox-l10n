@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Lëndë { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Zgjidhni ç’lëndë doni në skenën “{ -firefox-home-brand-name }” tuaj.
 home-prefs-search-header =
     .label = Kërkim në Web
@@ -857,9 +856,6 @@ home-prefs-weather-description = Parashikimi për sot me një vështrim
 home-prefs-weather-learn-more-link = Mësoni më tepër
 home-prefs-widgets-header =
     .label = Widget-e
-home-prefs-trending-search-header =
-    .label = Prirje kërkimesh
-home-prefs-trending-search-description = Subjekte popullore dhe të kërkuara shpesh
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Lista
@@ -1833,14 +1829,6 @@ permissions-location = Vendndodhje
 permissions-location-settings =
     .label = Rregullime…
     .accesskey = r
-permissions-localhost = Aplikacione dhe shërbime pajisjeje
-permissions-localhost-settings =
-    .label = Rregullime…
-    .accesskey = u
-permissions-local-network = Pajisje Rrjeti Vendor
-permissions-local-network-settings =
-    .label = Rregullime…
-    .accesskey = R
 permissions-xr = Realitet Virtual
 permissions-xr-settings =
     .label = Rregullime…

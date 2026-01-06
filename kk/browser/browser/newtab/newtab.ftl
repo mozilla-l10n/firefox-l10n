@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = Жуырдағы сайттар мен құра�
 newtab-custom-weather-toggle =
     .label = Ауа райы
     .description = Бүгінге қысқа болжам
-newtab-custom-trending-search-toggle =
-    .label = Трендтік іздеулер
-    .description = Әйгілі және жиі ізделген тақырыптар
 newtab-custom-widget-weather-toggle =
     .label = Ауа райы
-newtab-custom-widget-trending-search-toggle =
-    .label = Трендтік іздеулер
 newtab-custom-widget-lists-toggle =
     .label = Тізімдер
 newtab-custom-widget-timer-toggle =
@@ -620,17 +615,6 @@ newtab-report-cancel = Бас тарту
 newtab-report-submit = Жіберу
 newtab-toast-thanks-for-reporting =
     .message = Бұл туралы хабарлағаныңыз үшін рахмет.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Трендтік іздеулерді көрсету
-newtab-trending-searches-hide-trending =
-    .title = Трендтік іздеулерді жасыру
-newtab-trending-searches-learn-more = Көбірек білу
-newtab-trending-searches-dismiss = Трендтік іздеулерді жасыру
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Трендтік іздеулер
 
 ## Strings for task / to-do list productivity widget
 

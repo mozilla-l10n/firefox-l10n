@@ -84,8 +84,6 @@ about-glean-button-unwatch = Gelditu behatzen
 about-glean-no-data-to-display = Ez dago bistaratzeko daturik.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> neurkerek ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Etiketadun neurkerek ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
 about-glean-unknown-metric-type-warning = Neurkera mota ezezaguna.
 about-glean-enable-new-features-promo =
     .message = Eginbide berriak gehitzeko lanean ari gara! Garapenean daude oraindik baina gaitu nahi badituzu, egin klik ekintzaren botoian hemen.

@@ -195,8 +195,6 @@ about-glean-button-unwatch = 조사 해제
 about-glean-no-data-to-display = 표시할 데이터가 없습니다.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> 메트릭은 <code>about:glean</code> 보기에서 아직 지원되지 않습니다.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = 레이블이 지정된 메트릭은 아직 <code>about:glean</code> 보기에서 지원되지 않습니다.
 about-glean-unknown-metric-type-warning = 알 수 없는 메트릭 유형입니다.
 about-glean-enable-new-features-promo =
     .message = 새 기능 추가 작업 중입니다! 아직 개발 단계이지만, 활성화하시려면 여기 작업 버튼을 누르세요.

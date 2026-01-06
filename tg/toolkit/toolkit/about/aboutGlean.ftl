@@ -174,8 +174,6 @@ about-glean-button-unwatch = Бекор кардани назорат
 about-glean-no-data-to-display = Ягон маълумот барои намоиш нест.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Нишондиҳандаҳои <code>DualLabeledCounter</code> ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Нишондиҳандаҳои барчаспдор ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
 about-glean-unknown-metric-type-warning = Навъи нишондиҳандаҳои номаълум.
 about-glean-enable-new-features-promo =
     .message = Мо барои илова кардани хусусиятҳои нав кор карда истодаем! Онҳо ҳоло ҳам дар вазъи таҳияи фаъол қарор доранд, аммо агар шумо хоҳед, ки онҳоро фаъол созед, тугмаи амалро дар ин ҷой зер кунед.

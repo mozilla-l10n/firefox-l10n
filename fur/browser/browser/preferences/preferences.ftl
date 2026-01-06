@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contignûts par { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Sielç cuai contignûts vê su la tô videade di { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Ricercje sul Web
@@ -857,9 +856,6 @@ home-prefs-weather-description = Previsions par vuê cuntune voglade
 home-prefs-weather-learn-more-link = Plui informazions
 home-prefs-widgets-header =
     .label = Widgets
-home-prefs-trending-search-header =
-    .label = Ricercjis di tindince
-home-prefs-trending-search-description = Argoments popolârs e cirûts dispès
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listis
@@ -1831,14 +1827,6 @@ tracking-manage-exceptions =
 permissions-header = Permès
 permissions-location = Posizion
 permissions-location-settings =
-    .label = Impostazions…
-    .accesskey = t
-permissions-localhost = Aplicazions e servizis dal dispositîf
-permissions-localhost-settings =
-    .label = Impostazions…
-    .accesskey = t
-permissions-local-network = Dispositîfs di rêt locâl
-permissions-local-network-settings =
     .label = Impostazions…
     .accesskey = t
 permissions-xr = Realtât virtuâl

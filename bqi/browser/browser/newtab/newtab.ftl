@@ -85,10 +85,6 @@ newtab-topic-selection-cancel-button = لقو
 
 newtab-report-cancel = لقو
 
-## Strings for trending searches
-
-newtab-trending-searches-learn-more = قلوه دووسته بۊین
-
 ## Strings for task / to-do list productivity widget
 
 # A simple label next to the default list name letting users know this is a new / beta feature

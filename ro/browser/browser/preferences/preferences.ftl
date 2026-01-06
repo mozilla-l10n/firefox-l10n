@@ -800,7 +800,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Conținutul paginii de { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Alege ce conținut vrei pe ecranul { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Căutare web
@@ -860,9 +859,6 @@ home-prefs-weather-description = Vremea azi dintr-o privire
 home-prefs-weather-learn-more-link = Află mai multe
 home-prefs-widgets-header =
     .label = Widgeturi
-home-prefs-trending-search-header =
-    .label = Căutări în tendințe
-home-prefs-trending-search-description = Subiecte populare și căutate frecvent
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Liste
@@ -1837,14 +1833,6 @@ permissions-location = Locație
 permissions-location-settings =
     .label = Setări…
     .accesskey = l
-permissions-localhost = Aplicații și servicii pe dispozitiv
-permissions-localhost-settings =
-    .label = Setări...
-    .accesskey = t
-permissions-local-network = Dispozitive din rețeaua locală
-permissions-local-network-settings =
-    .label = Setări…
-    .accesskey = t
 permissions-xr = Realitate virtuală
 permissions-xr-settings =
     .label = Setări…

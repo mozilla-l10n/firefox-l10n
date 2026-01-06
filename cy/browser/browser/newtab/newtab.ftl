@@ -334,13 +334,8 @@ newtab-custom-recent-subtitle = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-weather-toggle =
     .label = Y Tywydd
     .description = Cipolwg ar ragolygon tywydd heddiw
-newtab-custom-trending-search-toggle =
-    .label = Tueddiadau chwilio
-    .description = Pynciau chwilio aml a phoblogaidd
 newtab-custom-widget-weather-toggle =
     .label = Y Tywydd
-newtab-custom-widget-trending-search-toggle =
-    .label = Tueddiadau chwilio
 newtab-custom-widget-lists-toggle =
     .label = Rhestrau
 newtab-custom-widget-timer-toggle =
@@ -626,17 +621,6 @@ newtab-report-cancel = Diddymu
 newtab-report-submit = Cyflwyno
 newtab-toast-thanks-for-reporting =
     .message = Diolch am adrodd ar hwn.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Dangos y tuedd chwilio
-newtab-trending-searches-hide-trending =
-    .title = Cuddio'r tuedd chwilio
-newtab-trending-searches-learn-more = Dysgu rhagor
-newtab-trending-searches-dismiss = Cuddio'r tuedd chwilio
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Tueddiadau chwilio
 
 ## Strings for task / to-do list productivity widget
 

@@ -678,7 +678,6 @@ home-prefs-weather-header =
     .label = Cuaca
 home-prefs-weather-description = Sekilas prakiraan hari ini
 home-prefs-weather-learn-more-link = Pelajari lebih lanjut
-home-prefs-trending-search-description = Topik populer dan sering dicari
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Dukung { -brand-product-name }

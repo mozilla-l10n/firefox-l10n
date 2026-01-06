@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = תוכן { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = בחירת התוכן שיוצג ב{ -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = חיפוש ברשת
@@ -857,9 +856,6 @@ home-prefs-weather-description = תחזית היום במבט חטוף
 home-prefs-weather-learn-more-link = מידע נוסף
 home-prefs-widgets-header =
     .label = ווידג’טים
-home-prefs-trending-search-header =
-    .label = חיפושים פופולריים
-home-prefs-trending-search-description = נושאים פופולריים שאנשים מחפשים לעתים קרובות
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = רשימות
@@ -1826,14 +1822,6 @@ tracking-manage-exceptions =
 permissions-header = הרשאות
 permissions-location = מיקום
 permissions-location-settings =
-    .label = הגדרות…
-    .accesskey = ה
-permissions-localhost = יישומים ושירותים של מכשירים
-permissions-localhost-settings =
-    .label = הגדרות…
-    .accesskey = ה
-permissions-local-network = מכשירים ברשת המקומית
-permissions-local-network-settings =
     .label = הגדרות…
     .accesskey = ה
 permissions-xr = מציאות מדומה

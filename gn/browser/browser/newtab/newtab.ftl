@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-weather-toggle =
     .label = Arapytu
     .description = Ko árape g̃uara ára
-newtab-custom-trending-search-toggle =
-    .label = Jeheka ojejapovéva
-    .description = Umi téma ojeguerohory ha ojehekavéva
 newtab-custom-widget-weather-toggle =
     .label = Arapytu
-newtab-custom-widget-trending-search-toggle =
-    .label = Eheka ojejapovéva
 newtab-custom-widget-lists-toggle =
     .label = Tysýi
 newtab-custom-widget-timer-toggle =
@@ -620,17 +615,6 @@ newtab-report-cancel = Heja
 newtab-report-submit = Mondo
 newtab-toast-thanks-for-reporting =
     .message = Aguyje emomarandu haguére.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Ehechauka jeheka ojejapovéva
-newtab-trending-searches-hide-trending =
-    .title = Eñomi jeheka ojejapovéva
-newtab-trending-searches-learn-more = Eikuaave
-newtab-trending-searches-dismiss = Eñomi jeheka ojejapovéva
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Jeheka ojejapovéva
 
 ## Strings for task / to-do list productivity widget
 

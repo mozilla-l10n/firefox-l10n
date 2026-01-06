@@ -96,6 +96,4 @@ about-glean-button-dictionary-link = Dokumentacije
 about-glean-no-data-to-display = Nema podataka za prikaz.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> metrike još nisu podržane u prikazu <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Označene metrike još nisu podržane u prikazu <code>about:glean</code>.
 about-glean-about-data-explanation = Za pregledavanje popisa prikupljenih podataka, pogledaj<a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }Rječnik</a>.

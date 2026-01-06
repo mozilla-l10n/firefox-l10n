@@ -197,8 +197,6 @@ about-glean-button-unwatch = Net mear folgje
 about-glean-no-data-to-display = Gjin gegevens om wer te jaan.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-statistiken wurde noch net stipe yn de <code>about:glean</code>-werjefte.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Labele statistiken wurde noch net stipe yn de <code>about:glean</code>-werjefte.
 about-glean-unknown-metric-type-warning = Unbekend statistyktype.
 about-glean-enable-new-features-promo =
     .message = Wy wurkje oan it tafoegjen fan nije funksjes! Se binne noch yn aktive ûntwikkeling, mar klik hjir op de aksjeknop as jo se ynskeakelje wolle.

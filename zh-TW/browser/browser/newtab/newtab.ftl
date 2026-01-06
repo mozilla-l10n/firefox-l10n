@@ -325,13 +325,8 @@ newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
 newtab-custom-weather-toggle =
     .label = 天氣
     .description = 快速了解本日天氣
-newtab-custom-trending-search-toggle =
-    .label = 熱門搜尋
-    .description = 熱門與常見搜尋主題
 newtab-custom-widget-weather-toggle =
     .label = 天氣
-newtab-custom-widget-trending-search-toggle =
-    .label = 熱門搜尋
 newtab-custom-widget-lists-toggle =
     .label = 清單
 newtab-custom-widget-timer-toggle =
@@ -617,17 +612,6 @@ newtab-report-cancel = 取消
 newtab-report-submit = 送出
 newtab-toast-thanks-for-reporting =
     .message = 感謝您回報此問題。
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = 顯示熱門搜尋主題
-newtab-trending-searches-hide-trending =
-    .title = 隱藏熱門搜尋主題
-newtab-trending-searches-learn-more = 更多資訊
-newtab-trending-searches-dismiss = 隱藏熱門搜尋主題
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = 熱門搜尋
 
 ## Strings for task / to-do list productivity widget
 

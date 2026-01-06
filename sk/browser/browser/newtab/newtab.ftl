@@ -326,13 +326,8 @@ newtab-custom-recent-subtitle = Výber z nedávno navštívených stránok a obs
 newtab-custom-weather-toggle =
     .label = Počasie
     .description = Dnešná predpoveď v skratke
-newtab-custom-trending-search-toggle =
-    .label = Populárne vyhľadávania
-    .description = Populárne a často hľadané témy
 newtab-custom-widget-weather-toggle =
     .label = Počasie
-newtab-custom-widget-trending-search-toggle =
-    .label = Populárne vyhľadávania
 newtab-custom-widget-lists-toggle =
     .label = Zoznamy
 newtab-custom-widget-timer-toggle =
@@ -618,17 +613,6 @@ newtab-report-cancel = Zrušiť
 newtab-report-submit = Odoslať
 newtab-toast-thanks-for-reporting =
     .message = Ďakujeme za nahlásenie.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Zobraziť populárne vyhľadávania
-newtab-trending-searches-hide-trending =
-    .title = Skryť populárne vyhľadávania
-newtab-trending-searches-learn-more = Ďalšie informácie
-newtab-trending-searches-dismiss = Skryť populárne vyhľadávania
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Populárne vyhľadávania
 
 ## Strings for task / to-do list productivity widget
 

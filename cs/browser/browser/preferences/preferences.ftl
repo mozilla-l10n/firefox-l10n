@@ -930,7 +930,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Obsah { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Vyberte obsah, který chcete mít na { -firefox-home-brand-name(case: "loc", capitalization: "lower") }.
 home-prefs-search-header =
     .label = Vyhledávání na webu
@@ -994,9 +993,6 @@ home-prefs-weather-description = Přehled dnešní předpovědi
 home-prefs-weather-learn-more-link = Zjistit více
 home-prefs-widgets-header =
     .label = Widgety
-home-prefs-trending-search-header =
-    .label = Trendy ve vyhledávání
-home-prefs-trending-search-description = Populární a často vyhledávaná témata
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Seznamy
@@ -2023,14 +2019,6 @@ permissions-location = Poloha
 permissions-location-settings =
     .label = Nastavení…
     .accesskey = a
-permissions-localhost = Aplikace a služby v zařízení
-permissions-localhost-settings =
-    .label = Nastavení…
-    .accesskey = N
-permissions-local-network = Zařízení v místní síti
-permissions-local-network-settings =
-    .label = Nastavení
-    .accesskey = N
 permissions-xr = Virtuální realita
 permissions-xr-settings =
     .label = Nastavení…

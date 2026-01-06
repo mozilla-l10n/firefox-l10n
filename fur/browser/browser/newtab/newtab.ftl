@@ -330,13 +330,8 @@ newtab-custom-recent-subtitle = Une selezion di sîts e contignûts resints
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Previsions par vuê cuntune voglade
-newtab-custom-trending-search-toggle =
-    .label = Ricercjis di tindince
-    .description = Argoments popolârs e cirûts dispès
 newtab-custom-widget-weather-toggle =
     .label = Meteo
-newtab-custom-widget-trending-search-toggle =
-    .label = Ricercjis di tindince
 newtab-custom-widget-lists-toggle =
     .label = Listis
 newtab-custom-widget-timer-toggle =
@@ -622,17 +617,6 @@ newtab-report-cancel = Anule
 newtab-report-submit = Invie
 newtab-toast-thanks-for-reporting =
     .message = Graciis pe segnalazion.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Mostre ricercjis di tindince
-newtab-trending-searches-hide-trending =
-    .title = Plate ricercjis di tindince
-newtab-trending-searches-learn-more = Plui informazions
-newtab-trending-searches-dismiss = Plate ricercjis di tindince
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Ricercjis di tindince
 
 ## Strings for task / to-do list productivity widget
 

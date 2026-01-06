@@ -325,13 +325,8 @@ newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
 newtab-custom-weather-toggle =
     .label = Tempo
     .description = Visão geral da previsão para hoje
-newtab-custom-trending-search-toggle =
-    .label = Pesquisas em alta
-    .description = Tópicos populares e pesquisados com frequência
 newtab-custom-widget-weather-toggle =
     .label = Tempo
-newtab-custom-widget-trending-search-toggle =
-    .label = Pesquisas em alta
 newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
@@ -617,17 +612,6 @@ newtab-report-cancel = Cancelar
 newtab-report-submit = Enviar
 newtab-toast-thanks-for-reporting =
     .message = Obrigado por informar isto.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Mostrar pesquisas em alta
-newtab-trending-searches-hide-trending =
-    .title = Ocultar pesquisas em alta
-newtab-trending-searches-learn-more = Saiba mais
-newtab-trending-searches-dismiss = Ocultar pesquisas em alta
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Pesquisas em alta
 
 ## Strings for task / to-do list productivity widget
 

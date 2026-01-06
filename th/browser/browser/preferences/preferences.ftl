@@ -708,7 +708,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = เนื้อหา { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = เลือกเนื้อหาที่คุณต้องการบนหน้าจอ { -firefox-home-brand-name } ของคุณ
 home-prefs-search-header =
     .label = การค้นหาเว็บ
@@ -768,9 +767,6 @@ home-prefs-weather-description = ดูพยากรณ์อากาศป�
 home-prefs-weather-learn-more-link = เรียนรู้เพิ่มเติม
 home-prefs-widgets-header =
     .label = วิดเจ็ต
-home-prefs-trending-search-header =
-    .label = การค้นหาที่กำลังนิยม
-home-prefs-trending-search-description = หัวข้อยอดนิยมและที่ค้นหาบ่อย
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = รายการ
@@ -1649,14 +1645,6 @@ permissions-location = ตำแหน่งที่ตั้ง
 permissions-location-settings =
     .label = การตั้งค่า…
     .accesskey = ต
-permissions-localhost = แอปและบริการบนอุปกรณ์
-permissions-localhost-settings =
-    .label = การตั้งค่า…
-    .accesskey = ก
-permissions-local-network = อุปกรณ์เครือข่ายเฉพาะที่
-permissions-local-network-settings =
-    .label = การตั้งค่า…
-    .accesskey = ก
 permissions-xr = ความจริงเสมือน
 permissions-xr-settings =
     .label = การตั้งค่า…

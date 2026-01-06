@@ -329,13 +329,8 @@ newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
 newtab-custom-weather-toggle =
     .label = Informació meteorològica
     .description = La previsió d’avui d’un cop d’ull
-newtab-custom-trending-search-toggle =
-    .label = Cerques que són tendència
-    .description = Temes populars i cercats freqüentment
 newtab-custom-widget-weather-toggle =
     .label = Informació meteorològica
-newtab-custom-widget-trending-search-toggle =
-    .label = Cerques que són tendència
 newtab-custom-widget-lists-toggle =
     .label = Llistes
 newtab-custom-widget-timer-toggle =
@@ -618,17 +613,6 @@ newtab-report-cancel = Cancel·la
 newtab-report-submit = Envia
 newtab-toast-thanks-for-reporting =
     .message = Gràcies per denunciar-ho.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Mostra les cerques que són tendència
-newtab-trending-searches-hide-trending =
-    .title = Amaga les cerques que són tendència
-newtab-trending-searches-learn-more = Més informació
-newtab-trending-searches-dismiss = Amaga les cerques que són tendència
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Cerques que són tendència
 
 ## Strings for task / to-do list productivity widget
 

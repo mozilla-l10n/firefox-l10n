@@ -691,9 +691,6 @@ home-prefs-weather-header =
     .label = Vrijeme
 home-prefs-weather-description = Današnja prognoza ukratko
 home-prefs-weather-learn-more-link = Saznajte više
-home-prefs-trending-search-header =
-    .label = Popularne pretrage
-home-prefs-trending-search-description = Popularne i često tražene teme
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podržite { -brand-product-name }

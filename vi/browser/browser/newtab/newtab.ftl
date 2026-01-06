@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần �
 newtab-custom-weather-toggle =
     .label = Thời tiết
     .description = Sơ lược về dự báo hôm nay
-newtab-custom-trending-search-toggle =
-    .label = Tìm kiếm thịnh hành
-    .description = Các chủ đề phổ biến và được tìm kiếm thường xuyên
 newtab-custom-widget-weather-toggle =
     .label = Thời tiết
-newtab-custom-widget-trending-search-toggle =
-    .label = Tìm kiếm thịnh hành
 newtab-custom-widget-lists-toggle =
     .label = Danh sách
 newtab-custom-widget-timer-toggle =
@@ -620,17 +615,6 @@ newtab-report-cancel = Hủy bỏ
 newtab-report-submit = Gửi
 newtab-toast-thanks-for-reporting =
     .message = Cảm ơn bạn đã báo cáo điều này.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Hiển thị tìm kiếm thịnh hành
-newtab-trending-searches-hide-trending =
-    .title = Ẩn tìm kiếm thịnh hành
-newtab-trending-searches-learn-more = Tìm hiểu thêm
-newtab-trending-searches-dismiss = Ẩn tìm kiếm thịnh hành
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Tìm kiếm thịnh hành
 
 ## Strings for task / to-do list productivity widget
 

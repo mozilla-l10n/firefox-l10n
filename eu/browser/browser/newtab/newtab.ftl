@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-weather-toggle =
     .label = Eguraldia
     .description = Gaurko eguraldi-iragarpena
-newtab-custom-trending-search-toggle =
-    .label = Bilaketa-joerak
-    .description = Ezagunak diren eta askotan bilatutako gaiak
 newtab-custom-widget-weather-toggle =
     .label = Eguraldia
-newtab-custom-widget-trending-search-toggle =
-    .label = Bilaketa-joerak
 newtab-custom-widget-lists-toggle =
     .label = Zerrendak
 newtab-custom-widget-timer-toggle =
@@ -620,17 +615,6 @@ newtab-report-cancel = Utzi
 newtab-report-submit = Bidali
 newtab-toast-thanks-for-reporting =
     .message = Eskerrik asko hau jakinarazteagatik.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Erakutsi bilaketa-joerak
-newtab-trending-searches-hide-trending =
-    .title = Ezkutatu bilaketa-joerak
-newtab-trending-searches-learn-more = Argibide gehiago
-newtab-trending-searches-dismiss = Ezkutatu bilaketa-joerak
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Bilaketa-joerak
 
 ## Strings for task / to-do list productivity widget
 

@@ -325,13 +325,8 @@ newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-weather-toggle =
     .label = Moti
     .description = Parashikimi i motit për sot me një vështrim
-newtab-custom-trending-search-toggle =
-    .label = Prirje kërkimesh
-    .description = Subjekte popullore dhe të kërkuar shpesh
 newtab-custom-widget-weather-toggle =
     .label = Moti
-newtab-custom-widget-trending-search-toggle =
-    .label = Prirje kërkimesh
 newtab-custom-widget-lists-toggle =
     .label = Lista
 newtab-custom-widget-timer-toggle =
@@ -616,17 +611,6 @@ newtab-report-cancel = Anuloje
 newtab-report-submit = Parashtroje
 newtab-toast-thanks-for-reporting =
     .message = Faleminderit për njoftimin rreth kësaj.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Shfaq prirje kërkimesh
-newtab-trending-searches-hide-trending =
-    .title = Fshihi prirjet e kërkimeve
-newtab-trending-searches-learn-more = Mësoni më tepër
-newtab-trending-searches-dismiss = Fshihi prirjet e kërkimeve
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Prirje kërkimesh
 
 ## Strings for task / to-do list productivity widget
 

@@ -624,7 +624,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }-ի բովանդակություն
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Ընտրեք, թե ինչ բովանդակություն պետք է ունենա { -firefox-home-brand-name }-ի էկրանը:
 home-prefs-search-header =
     .label = Վեբ որոնում
@@ -673,9 +672,6 @@ home-prefs-snippets-description-new = Հուշումներ, նորություն
 home-prefs-weather-header =
     .label = Եղանակ
 home-prefs-weather-learn-more-link = Իմանալ ավելին
-home-prefs-trending-search-header =
-    .label = Թրենդային որոնումներ
-home-prefs-trending-search-description = Հանրաճանաչ և հաճախ որոնվող թեմաներ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name }-ի աջակցում
@@ -1381,14 +1377,6 @@ tracking-manage-exceptions =
 permissions-header = Թույլտվություններ
 permissions-location = Տեղադրություն
 permissions-location-settings =
-    .label = Կարգավորումներ...
-    .accesskey = t
-permissions-localhost = Սարքի հավելվածներ և ծառայություններ
-permissions-localhost-settings =
-    .label = Կարգավորումներ...
-    .accesskey = t
-permissions-local-network = Տեղական ցանցային սարքեր
-permissions-local-network-settings =
     .label = Կարգավորումներ...
     .accesskey = t
 permissions-xr = Թվացյալ իրականություն

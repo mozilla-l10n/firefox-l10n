@@ -196,8 +196,6 @@ about-glean-button-unwatch = Figyelés megszüntetése
 about-glean-no-data-to-display = Nincs megjeleníthető adat.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = A <code>DualLabeledCounter</code> statisztikák még nem támogatottak az <code>about:glean</code> nézetben.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = A címkézett statisztikák még nem támogatottak az <code>about:glean</code> nézetben.
 about-glean-unknown-metric-type-warning = Ismeretlen statisztikatípus.
 about-glean-enable-new-features-promo =
     .message = Új funkciók bevezetésén dolgozunk! Még mindig aktív fejlesztés alatt vannak, de kattintson a művelet gombra, ha engedélyezni szeretné őket.

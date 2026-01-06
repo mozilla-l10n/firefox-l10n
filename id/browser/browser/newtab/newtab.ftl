@@ -581,10 +581,6 @@ newtab-report-submit = Kirim
 newtab-toast-thanks-for-reporting =
     .message = Terima kasih telah melaporkan ini.
 
-## Strings for trending searches
-
-newtab-trending-searches-learn-more = Pelajari lebih lanjut
-
 ## Strings for task / to-do list productivity widget
 
 # A simple label next to the default list name letting users know this is a new / beta feature

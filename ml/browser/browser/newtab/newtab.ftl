@@ -477,10 +477,6 @@ newtab-report-content-requires-payment-subscription-learn-more = കൂടുത
 newtab-report-cancel = റദ്ദാക്കുക
 newtab-report-submit = സമൎപ്പിക്കുക
 
-## Strings for trending searches
-
-newtab-trending-searches-learn-more = കൂടുതല്‍ അറിയുക
-
 ## Strings for task / to-do list productivity widget
 
 # A simple label next to the default list name letting users know this is a new / beta feature

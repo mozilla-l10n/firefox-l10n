@@ -733,7 +733,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Вміст { -firefox-home-brand-name(case: "gen", capitalization: "lower") }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Оберіть вміст, який ви хочете бачити на своїй { -firefox-home-brand-name(case: "loc", capitalization: "lower") }
 home-prefs-search-header =
     .label = Пошук в Інтернеті
@@ -793,9 +792,6 @@ home-prefs-weather-description = Точний прогноз погоди на �
 home-prefs-weather-learn-more-link = Докладніше
 home-prefs-widgets-header =
     .label = Віджети
-home-prefs-trending-search-header =
-    .label = Популярні пошукові запити
-home-prefs-trending-search-description = Популярні пошукові запити
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Списки
@@ -1688,14 +1684,6 @@ permissions-location = Розташування
 permissions-location-settings =
     .label = Налаштування…
     .accesskey = л
-permissions-localhost = Програми та служби пристрою
-permissions-localhost-settings =
-    .label = Налаштування…
-    .accesskey = Н
-permissions-local-network = Пристрої локальної мережі
-permissions-local-network-settings =
-    .label = Налаштування…
-    .accesskey = Н
 permissions-xr = Віртуальна реальність
 permissions-xr-settings =
     .label = Налаштування…

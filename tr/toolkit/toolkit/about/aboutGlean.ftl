@@ -180,8 +180,6 @@ about-glean-button-unwatch = İzlemeyi bırak
 about-glean-no-data-to-display = Görüntülenecek veri yok.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> ölçümleri henüz <code>about:glean</code> görünümünde desteklenmiyor.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Etiketli ölçümler henüz <code>about:glean</code> görünümünde desteklenmiyor.
 about-glean-unknown-metric-type-warning = Bilinmeyen ölçüm türü.
 about-glean-enable-new-features-promo =
     .message = Yeni özellikler üzerinde çalışıyoruz! Halen geliştirme aşamasında olan bu özellikleri etkinleştirmek isterseniz ilgili düğmelere tıklayabilirsiniz.

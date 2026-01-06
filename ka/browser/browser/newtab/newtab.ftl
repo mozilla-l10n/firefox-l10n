@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = ბოლოს ნანახი საიტ�
 newtab-custom-weather-toggle =
     .label = ამინდი
     .description = დღევანდელი ამინდისთვის თვალის შევლება
-newtab-custom-trending-search-toggle =
-    .label = ხშირად მოძიებული
-    .description = საყოველთაოდ მოდებული და ფართოდ გავრცელებული
 newtab-custom-widget-weather-toggle =
     .label = ამინდი
-newtab-custom-widget-trending-search-toggle =
-    .label = ხშირად მოძიებული
 newtab-custom-widget-lists-toggle =
     .label = სიები
 newtab-custom-widget-timer-toggle =
@@ -617,17 +612,6 @@ newtab-report-cancel = გაუქმება
 newtab-report-submit = გაგზავნა
 newtab-toast-thanks-for-reporting =
     .message = გმადლობთ, რომ მოგვახსენეთ.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = ხშირად მოძიებულის ჩვენება
-newtab-trending-searches-hide-trending =
-    .title = ხშირად მოძიებულის დამალვა
-newtab-trending-searches-learn-more = ვრცლად
-newtab-trending-searches-dismiss = ხშირად მოძიებულის დამალვა
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = ხშირად მოძიებული
 
 ## Strings for task / to-do list productivity widget
 

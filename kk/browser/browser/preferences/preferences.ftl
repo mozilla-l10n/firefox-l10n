@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } мазмұны
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
 home-prefs-search-header =
     .label = Интернеттен іздеу
@@ -857,9 +856,6 @@ home-prefs-weather-description = Бүгінгі қысқаша болжам
 home-prefs-weather-learn-more-link = Көбірек білу
 home-prefs-widgets-header =
     .label = Виджеттер
-home-prefs-trending-search-header =
-    .label = Трендтік іздеулер
-home-prefs-trending-search-description = Танымал және жиі ізделетін тақырыптар
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Тізімдер
@@ -1833,14 +1829,6 @@ permissions-location = Орналасу
 permissions-location-settings =
     .label = Баптаулар…
     .accesskey = л
-permissions-localhost = Құрылғы қолданбалары мен қызметтері
-permissions-localhost-settings =
-    .label = Баптаулар…
-    .accesskey = т
-permissions-local-network = Жергілікті желі құрылғылары
-permissions-local-network-settings =
-    .label = Баптаулар…
-    .accesskey = т
 permissions-xr = Виртуалды шынайылық
 permissions-xr-settings =
     .label = Баптаулар…

@@ -196,8 +196,6 @@ about-glean-button-unwatch = Dadwylio
 about-glean-no-data-to-display = Dim data i'w ddangos.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Dyw metrigau <code>DualLabeledCounter</code> heb eu cefnogi eto yn y wedd <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Nid yw metrigau wedi'u labelu'n cael eu cefnogi eto yn y wedd <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Math metrig anhysbys.
 about-glean-enable-new-features-promo =
     .message = Rydym yn gweithio ar ychwanegu nodweddion newydd! Maen nhw'n dal i gael eu datblygu, ond cliciwch y botwm gweithredu yma os hoffech eu galluogi.

@@ -796,7 +796,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Муҳтавои { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Интихоб кунед, ки кадом мавод бояд дар экрани асосии { -firefox-home-brand-name } нишон дода шавад.
 home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
@@ -856,9 +855,6 @@ home-prefs-weather-description = Ҳолати обу ҳаво барои имр�
 home-prefs-weather-learn-more-link = Маълумоти бештар
 home-prefs-widgets-header =
     .label = Виҷетҳо
-home-prefs-trending-search-header =
-    .label = Ҷустуҷӯҳои ҳавасангез
-home-prefs-trending-search-description = Мавзуъҳои маъмул ва ҷустуҷӯшавандаи такрорӣ
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Рӯйхатҳо
@@ -1836,14 +1832,6 @@ tracking-manage-exceptions =
 permissions-header = Иҷозатҳо
 permissions-location = Ҷойгиршавӣ
 permissions-location-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-localhost = Барномаҳо ва хизматҳои дастгоҳ
-permissions-localhost-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-local-network = Дастгоҳҳои шабакаи маҳаллӣ
-permissions-local-network-settings =
     .label = Танзимот…
     .accesskey = Т
 permissions-xr = Ҳақиқати виртуалӣ

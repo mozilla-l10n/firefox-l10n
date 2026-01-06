@@ -184,8 +184,6 @@ about-glean-button-unwatch = Bỏ theo dõi
 about-glean-no-data-to-display = Không có dữ liệu để hiển thị.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Các số liệu <code>DualLabeledCounter</code> vẫn chưa được hỗ trợ trong chế độ xem của <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Các số liệu được gắn nhãn vẫn chưa được hỗ trợ trong chế độ xem của <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Kiểu số liệu không xác định.
 about-glean-enable-new-features-promo =
     .message = Chúng tôi đang nỗ lực bổ sung các tính năng mới! Các tính năng này vẫn đang trong quá trình phát triển, nhưng hãy nhấp vào nút hành động ở đây nếu bạn muốn bật chúng.

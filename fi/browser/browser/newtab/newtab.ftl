@@ -329,13 +329,8 @@ newtab-custom-recent-subtitle = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-weather-toggle =
     .label = Sää
     .description = Päivän sääennuste yhdellä vilkaisulla
-newtab-custom-trending-search-toggle =
-    .label = Nousussa olevat haut
-    .description = Suosittuja ja usein haettuja aiheita
 newtab-custom-widget-weather-toggle =
     .label = Sää
-newtab-custom-widget-trending-search-toggle =
-    .label = Nousussa olevat haut
 newtab-custom-widget-lists-toggle =
     .label = Listat
 newtab-custom-widget-timer-toggle =
@@ -621,17 +616,6 @@ newtab-report-cancel = Peruuta
 newtab-report-submit = Lähetä
 newtab-toast-thanks-for-reporting =
     .message = Kiitos, että ilmoitit tästä.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Näytä nousussa olevat haut
-newtab-trending-searches-hide-trending =
-    .title = Piilota nousussa olevat haut
-newtab-trending-searches-learn-more = Lue lisää
-newtab-trending-searches-dismiss = Piilota nousussa olevat haut
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Nousussa olevat haut
 
 ## Strings for task / to-do list productivity widget
 

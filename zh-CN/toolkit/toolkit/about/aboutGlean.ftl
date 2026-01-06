@@ -141,8 +141,6 @@ about-glean-button-unwatch = 取消监视
 about-glean-no-data-to-display = 没有可显示的数据。
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> 视图中暂未支持 <code>DualLabeledCounter</code> 指标。
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = <code>about:glean</code> 视图中暂未支持带标签的指标。
 about-glean-unknown-metric-type-warning = 指标类型未知。
 about-glean-enable-new-features-promo =
     .message = 我们正致力于添加新功能！这些功能尚在持续开发中。若希望立即启用，请点击此处的操作按钮。

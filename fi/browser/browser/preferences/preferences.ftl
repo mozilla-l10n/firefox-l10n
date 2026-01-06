@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }n sisältö
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Valitse mitä sisältöä haluat { -firefox-home-brand-name }lle.
 home-prefs-search-header =
     .label = Verkkohaku
@@ -857,9 +856,6 @@ home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
 home-prefs-weather-learn-more-link = Lue lisää
 home-prefs-widgets-header =
     .label = Widgetit
-home-prefs-trending-search-header =
-    .label = Nousussa olevat haut
-home-prefs-trending-search-description = Suosittuja ja usein haettuja aiheita
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listat
@@ -1831,14 +1827,6 @@ tracking-manage-exceptions =
 permissions-header = Oikeudet
 permissions-location = Sijainti
 permissions-location-settings =
-    .label = Asetukset…
-    .accesskey = t
-permissions-localhost = Laitesovellukset ja -palvelut
-permissions-localhost-settings =
-    .label = Asetukset…
-    .accesskey = t
-permissions-local-network = Paikallisverkon laitteet
-permissions-local-network-settings =
     .label = Asetukset…
     .accesskey = t
 permissions-xr = Virtuaalitodellisuus

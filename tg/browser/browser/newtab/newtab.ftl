@@ -327,13 +327,8 @@ newtab-custom-recent-subtitle = Интихоби сомонаҳо ва муҳт�
 newtab-custom-weather-toggle =
     .label = Обу ҳаво
     .description = Ҳолати обу ҳаво барои имрӯз
-newtab-custom-trending-search-toggle =
-    .label = Ҷустуҷӯҳои ҳавасангез
-    .description = Мавзуъҳои маъмул ва ҷустуҷӯшавандаи такрорӣ
 newtab-custom-widget-weather-toggle =
     .label = Обу ҳаво
-newtab-custom-widget-trending-search-toggle =
-    .label = Ҷустуҷӯҳои ҳавасангез
 newtab-custom-widget-lists-toggle =
     .label = Рӯйхатҳо
 newtab-custom-widget-timer-toggle =
@@ -619,17 +614,6 @@ newtab-report-cancel = Бекор кардан
 newtab-report-submit = Пешниҳод кардан
 newtab-toast-thanks-for-reporting =
     .message = Ташаккур барои гузориши шумо дар бораи ин масъала.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Намоиш додани ҷустуҷӯҳои ҳавасангез
-newtab-trending-searches-hide-trending =
-    .title = Пинҳон кардани ҷустуҷӯҳои ҳавасангез
-newtab-trending-searches-learn-more = Маълумоти бештар
-newtab-trending-searches-dismiss = Пинҳон кардани ҷустуҷӯҳои ҳавасангез
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Ҷустуҷӯҳои ҳавасангез
 
 ## Strings for task / to-do list productivity widget
 

@@ -329,13 +329,8 @@ newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
 newtab-custom-weather-toggle =
     .label = Meteorologia
     .description = Visão geral da meteorologia para hoje
-newtab-custom-trending-search-toggle =
-    .label = Pesquisas em alta
-    .description = Tópicos populares e pesquisados com mais frequência
 newtab-custom-widget-weather-toggle =
     .label = Meteorologia
-newtab-custom-widget-trending-search-toggle =
-    .label = Pesquisas populares
 newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
@@ -612,17 +607,6 @@ newtab-report-cancel = Cancelar
 newtab-report-submit = Submeter
 newtab-toast-thanks-for-reporting =
     .message = Obrigado por reportar isto.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Mostrar pesquisas em alta
-newtab-trending-searches-hide-trending =
-    .title = Ocultar pesquisas em alta
-newtab-trending-searches-learn-more = Saber mais
-newtab-trending-searches-dismiss = Ocultar pesquisas em alta
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Pesquisas populares
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

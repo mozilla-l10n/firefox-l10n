@@ -179,8 +179,6 @@ about-glean-button-unwatch = เลิกเฝ้าดู
 about-glean-no-data-to-display = ไม่มีข้อมูลให้แสดง
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = เมตริก <code>DualLabeledCounter</code> ยังไม่รองรับในมุมมอง <code>about:glean</code>
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = เมตริกที่มีป้ายกำกับยังไม่รองรับในมุมมอง <code>about:glean</code>
 about-glean-unknown-metric-type-warning = ไม่รู้จักชนิดเมตริก
 about-glean-enable-new-features-promo =
     .message = เรากำลังเพิ่มคุณลักษณะใหม่ ๆ อยู่! คุณลักษณะเหล่านี้ยังอยู่ในระหว่างการพัฒนา แต่หากต้องการเปิดใช้งาน คลิกปุ่มการกระทำที่นี่ได้เลย

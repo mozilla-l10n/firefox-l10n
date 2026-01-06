@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } edukia
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Aukeratu zer eduki ikusi nahi duzun zure { -firefox-home-brand-name } pantailan.
 home-prefs-search-header =
     .label = Web bilaketa
@@ -857,9 +856,6 @@ home-prefs-weather-description = Gaurko eguraldiaren iragarpena begi-kolpean
 home-prefs-weather-learn-more-link = Argibide gehiago
 home-prefs-widgets-header =
     .label = Widgetak
-home-prefs-trending-search-header =
-    .label = Bilaketa-joerak
-home-prefs-trending-search-description = Gai ezagunak eta askotan bilatutakoak
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Zerrendak
@@ -1833,14 +1829,6 @@ permissions-location = Kokapena
 permissions-location-settings =
     .label = Ezarpenak…
     .accesskey = n
-permissions-localhost = Gailuaren aplikazio eta zerbitzuak
-permissions-localhost-settings =
-    .label = Ezarpenak…
-    .accesskey = z
-permissions-local-network = Sare lokaleko gailuak
-permissions-local-network-settings =
-    .label = Ezarpenak…
-    .accesskey = z
 permissions-xr = Errealitate birtuala
 permissions-xr-settings =
     .label = Ezarpenak…

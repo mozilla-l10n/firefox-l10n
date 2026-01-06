@@ -809,7 +809,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cynnwys { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Dewiswch pa gynnwys rydych chi ei eisiau ar eich sgrin { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Chwilio'r We
@@ -869,9 +868,6 @@ home-prefs-weather-description = Cipolwg ar ragolygon tywydd heddiw
 home-prefs-weather-learn-more-link = Rhagor
 home-prefs-widgets-header =
     .label = Teclynnau
-home-prefs-trending-search-header =
-    .label = Tueddiadau chwilio
-home-prefs-trending-search-description = Pynciau chwilio aml a phoblogaidd
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Rhestrau
@@ -1849,14 +1845,6 @@ permissions-location = Lleoliad
 permissions-location-settings =
     .label = Gosodiadau…
     .accesskey = d
-permissions-localhost = Apiau a gwasanaethau dyfais
-permissions-localhost-settings =
-    .label = Gosodiadau…
-    .accesskey = G
-permissions-local-network = Dyfeisiau Rhwydwaith Lleol
-permissions-local-network-settings =
-    .label = Gosodiadau…
-    .accesskey = G
 permissions-xr = Rhithrealaeth
 permissions-xr-settings =
     .label = Gosodiadau…

@@ -329,13 +329,8 @@ newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tarta
 newtab-custom-weather-toggle =
     .label = Időjárás
     .description = A mai előrejelzés egy pillantásra
-newtab-custom-trending-search-toggle =
-    .label = Felkapott keresések
-    .description = Népszerű és gyakran keresett témák
 newtab-custom-widget-weather-toggle =
     .label = Időjárás
-newtab-custom-widget-trending-search-toggle =
-    .label = Felkapott keresések
 newtab-custom-widget-lists-toggle =
     .label = Listák
 newtab-custom-widget-timer-toggle =
@@ -618,17 +613,6 @@ newtab-report-cancel = Mégse
 newtab-report-submit = Elküldés
 newtab-toast-thanks-for-reporting =
     .message = Köszönjük, hogy bejelentette.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Felkapott keresések megjelenítése
-newtab-trending-searches-hide-trending =
-    .title = Felkapott keresések elrejtése
-newtab-trending-searches-learn-more = További tudnivalók
-newtab-trending-searches-dismiss = Felkapott keresések elrejtése
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Felkapott keresések
 
 ## Strings for task / to-do list productivity widget
 

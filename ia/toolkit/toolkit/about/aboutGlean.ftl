@@ -188,8 +188,6 @@ about-glean-button-unwatch = Non plus spectar
 about-glean-no-data-to-display = Necun dato a monstrar
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Le indicatores de <code>DualLabeledCounter</code> non es ancora supportate in le vista de <code>re:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Le statistica etiquettate non es ancora supportate in le vista <code>re:glean</code>.
 about-glean-unknown-metric-type-warning = Typo de indicator incognite.
 about-glean-enable-new-features-promo =
     .message = Nos labora pro adder nove functiones! Illos es ancora in disveloppamento, ma clicca sur le button de action ci si tu vole activar los.

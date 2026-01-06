@@ -800,7 +800,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Змесціва { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Выберыце пажаданае змесціва для свайго экрана { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Пошук у сеціве
@@ -860,9 +859,6 @@ home-prefs-weather-description = Кароткі прагноз на сёння
 home-prefs-weather-learn-more-link = Падрабязней
 home-prefs-widgets-header =
     .label = Віджэты
-home-prefs-trending-search-header =
-    .label = Папулярныя пошукавыя запыты
-home-prefs-trending-search-description = Папулярныя і часта запытаныя тэмы
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Спісы
@@ -1837,14 +1833,6 @@ permissions-location = Месцазнаходжанне
 permissions-location-settings =
     .label = Налады…
     .accesskey = а
-permissions-localhost = Праграмы і службы прылад
-permissions-localhost-settings =
-    .label = Налады…
-    .accesskey = Н
-permissions-local-network = Прылады лакальнай сеткі
-permissions-local-network-settings =
-    .label = Налады…
-    .accesskey = Н
 permissions-xr = Віртуальная рэчаіснасць
 permissions-xr-settings =
     .label = Налады…

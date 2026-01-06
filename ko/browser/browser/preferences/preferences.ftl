@@ -785,7 +785,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } 콘텐츠
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = { -firefox-home-brand-name } 화면에서 원하는 콘텐츠를 선택하세요.
 home-prefs-search-header =
     .label = 웹 검색
@@ -845,9 +844,6 @@ home-prefs-weather-description = 오늘의 일기예보를 한눈에
 home-prefs-weather-learn-more-link = 더 알아보기
 home-prefs-widgets-header =
     .label = 위젯
-home-prefs-trending-search-header =
-    .label = 인기 검색어
-home-prefs-trending-search-description = 인기 있고 자주 검색되는 주제
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = 목록
@@ -1823,14 +1819,6 @@ permissions-location = 위치
 permissions-location-settings =
     .label = 설정…
     .accesskey = l
-permissions-localhost = 기기 앱과 서비스
-permissions-localhost-settings =
-    .label = 설정…
-    .accesskey = t
-permissions-local-network = 로컬 네트워크 기기
-permissions-local-network-settings =
-    .label = 설정…
-    .accesskey = t
 permissions-xr = 가상 현실
 permissions-xr-settings =
     .label = 설정…

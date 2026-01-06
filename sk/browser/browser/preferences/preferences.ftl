@@ -800,7 +800,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Obsah na { -firefox-home-brand-name(case: "loc") }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Zvoľte, aký obsah chcete mať dostupný na svojej { -firefox-home-brand-name(case: "loc") }.
 home-prefs-search-header =
     .label = Vyhľadávanie na webe
@@ -860,9 +859,6 @@ home-prefs-weather-description = Dnešná predpoveď v skratke
 home-prefs-weather-learn-more-link = Ďalšie informácie
 home-prefs-widgets-header =
     .label = Miniaplikácie
-home-prefs-trending-search-header =
-    .label = Populárne vyhľadávania
-home-prefs-trending-search-description = Populárne a často vyhľadávané témy
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Zoznamy
@@ -1837,14 +1833,6 @@ permissions-location = Poloha
 permissions-location-settings =
     .label = Nastavenia…
     .accesskey = e
-permissions-localhost = Aplikácie a služby v zariadení
-permissions-localhost-settings =
-    .label = Nastavenia…
-    .accesskey = t
-permissions-local-network = Zariadenia v lokálnej sieti
-permissions-local-network-settings =
-    .label = Nastavenia…
-    .accesskey = t
 permissions-xr = Virtuálna realita
 permissions-xr-settings =
     .label = Nastavenia…

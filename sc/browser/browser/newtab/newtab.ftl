@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = Una seletzione de sitos e cuntenutos reghentes
 newtab-custom-weather-toggle =
     .label = Tempus
     .description = Is previsiones de oe in curtzu
-newtab-custom-trending-search-toggle =
-    .label = Chircas populares
-    .description = Argumentos populares e chircados a s’ispissu
 newtab-custom-widget-weather-toggle =
     .label = Tempus
-newtab-custom-widget-trending-search-toggle =
-    .label = Chircas populares
 newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
@@ -617,17 +612,6 @@ newtab-report-cancel = Annulla
 newtab-report-submit = Imbia
 newtab-toast-thanks-for-reporting =
     .message = Gràtzias de sa sinnalatzione.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Ammustra is chircas populares
-newtab-trending-searches-hide-trending =
-    .title = Cua is chircas populares
-newtab-trending-searches-learn-more = Àteras informatziones
-newtab-trending-searches-dismiss = Cua is chircas populares
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Chircas populares
 
 ## Strings for task / to-do list productivity widget
 

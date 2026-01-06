@@ -720,7 +720,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntegn da { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Tscherna il cuntegn che ti vuls vesair sin la { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Tschertga web
@@ -780,9 +779,6 @@ home-prefs-weather-description = La previsiun da l’aura actuala en in’egliad
 home-prefs-weather-learn-more-link = Ulteriuras infurmaziuns
 home-prefs-widgets-header =
     .label = Widgets
-home-prefs-trending-search-header =
-    .label = Tschertgas frequentas
-home-prefs-trending-search-description = Temas populars e tschertgads frequentamain
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Glistas
@@ -1644,14 +1640,6 @@ permissions-location = Posiziun
 permissions-location-settings =
     .label = Parameters…
     .accesskey = m
-permissions-localhost = Applicaziuns e servetschs da l’apparat
-permissions-localhost-settings =
-    .label = Parameters…
-    .accesskey = t
-permissions-local-network = Apparats en la rait locala
-permissions-local-network-settings =
-    .label = Parameters…
-    .accesskey = t
 permissions-xr = Realitad virtuala
 permissions-xr-settings =
     .label = Parameters…

@@ -330,13 +330,8 @@ newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў �
 newtab-custom-weather-toggle =
     .label = Надвор'е
     .description = Кароткі прагноз на сёння
-newtab-custom-trending-search-toggle =
-    .label = Папулярныя пошукавыя запыты
-    .description = Папулярныя і часта запытаныя тэмы
 newtab-custom-widget-weather-toggle =
     .label = Надвор'е
-newtab-custom-widget-trending-search-toggle =
-    .label = Папулярныя пошукавыя запыты
 newtab-custom-widget-lists-toggle =
     .label = Спісы
 newtab-custom-widget-timer-toggle =
@@ -622,17 +617,6 @@ newtab-report-cancel = Скасаваць
 newtab-report-submit = Даслаць
 newtab-toast-thanks-for-reporting =
     .message = Дзякуй, што паведамілі пра гэта.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Паказаць папулярныя пошукавыя запыты
-newtab-trending-searches-hide-trending =
-    .title = Схаваць папулярныя пошукавыя запыты
-newtab-trending-searches-learn-more = Падрабязней
-newtab-trending-searches-dismiss = Схаваць папулярныя пошукавыя запыты
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Папулярныя пошукавыя запыты
 
 ## Strings for task / to-do list productivity widget
 

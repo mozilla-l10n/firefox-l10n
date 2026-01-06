@@ -328,13 +328,8 @@ newtab-custom-recent-subtitle = Eit utval av nylege nettstadar og innhald
 newtab-custom-weather-toggle =
     .label = Vêr
     .description = Dagens vêrmelding i korte trekk
-newtab-custom-trending-search-toggle =
-    .label = Populære søk
-    .description = Populære og ofte søkte emne
 newtab-custom-widget-weather-toggle =
     .label = Vêr
-newtab-custom-widget-trending-search-toggle =
-    .label = Populære søk
 newtab-custom-widget-lists-toggle =
     .label = Lister
 newtab-custom-widget-timer-toggle =
@@ -620,17 +615,6 @@ newtab-report-cancel = Avbryt
 newtab-report-submit = Send inn
 newtab-toast-thanks-for-reporting =
     .message = Takk for at du rapporterte dette.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Vis populære søk
-newtab-trending-searches-hide-trending =
-    .title = Skjul populære søk
-newtab-trending-searches-learn-more = Les meir
-newtab-trending-searches-dismiss = Skjul populære søk
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Populære søk
 
 ## Strings for task / to-do list productivity widget
 

@@ -192,8 +192,6 @@ about-glean-button-unwatch = Бақыламау
 about-glean-no-data-to-display = Көрсетілетін деректер жоқ.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> көрінісінде <code>DualLabeledCounter</code> метрикаларына әлі қолдау көрсетілмейді.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = <code>about:glean</code> көрінісінде белгіленген метрикаларға әлі қолдау көрсетілмейді.
 about-glean-unknown-metric-type-warning = Белгісіз метрика түрі.
 about-glean-enable-new-features-promo =
     .message = Біз жаңа функцияларды қосу үстіндеміз! Олар әлі де белсенді әзірлеу сатысында, бірақ оларды қосқыңыз келсе, осындағы әрекет батырмасын басыңыз.

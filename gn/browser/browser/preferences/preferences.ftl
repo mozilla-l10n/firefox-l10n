@@ -794,7 +794,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } Retepy
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Eiporavo mba’e retepýpa eipota { -firefox-home-brand-name } mba’erechahápe.
 home-prefs-search-header =
     .label = Ñandutípe jeheka
@@ -854,9 +853,6 @@ home-prefs-weather-description = Ehecha arapytu reko ko ára rehegua
 home-prefs-weather-learn-more-link = Eikuaave
 home-prefs-widgets-header =
     .label = Widgets
-home-prefs-trending-search-header =
-    .label = Jeheka ojejapovéva
-home-prefs-trending-search-description = Umi téma ojeguerohory ha ojehekavéva
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Tysyieta
@@ -1827,14 +1823,6 @@ permissions-header = Ñemoneĩkuéra
 permissions-location = Tenda
 permissions-location-settings =
     .label = Ñangareko…
-    .accesskey = t
-permissions-localhost = Tembiporu’i ha mba’epytyvõrã mba’e’okagua
-permissions-localhost-settings =
-    .label = Ñemboheko…
-    .accesskey = t
-permissions-local-network = Mba’e’oka ñanduti rehegua
-permissions-local-network-settings =
-    .label = Ñemboheko…
     .accesskey = t
 permissions-xr = Añetegua ñanduti
 permissions-xr-settings =

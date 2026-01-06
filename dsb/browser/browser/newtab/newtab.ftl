@@ -331,13 +331,8 @@ newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśi
 newtab-custom-weather-toggle =
     .label = Wjedro
     .description = Źinsajšna wjedrowa pśedpowěsć
-newtab-custom-trending-search-toggle =
-    .label = Woblubowane pytanja
-    .description = Popularne a cesto pytane temy
 newtab-custom-widget-weather-toggle =
     .label = Wjedro
-newtab-custom-widget-trending-search-toggle =
-    .label = Woblubowane pytanja
 newtab-custom-widget-lists-toggle =
     .label = Lisćiny
 newtab-custom-widget-timer-toggle =
@@ -623,17 +618,6 @@ newtab-report-cancel = Pśetergnuś
 newtab-report-submit = Wótpósłaś
 newtab-toast-thanks-for-reporting =
     .message = Wjeliki źěk, až sćo dał to k wěsći.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Woblubowane pytanja pokazaś
-newtab-trending-searches-hide-trending =
-    .title = Woblubowane pytanja schowaś
-newtab-trending-searches-learn-more = Dalšne informacije
-newtab-trending-searches-dismiss = Woblubowane pytanja schowaś
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Woblubowane pytanja
 
 ## Strings for task / to-do list productivity widget
 

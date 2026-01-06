@@ -490,10 +490,6 @@ newtab-report-submit = Azen
 newtab-toast-thanks-for-reporting =
     .message = Tanemmirt imi d-temliḍ aya:
 
-## Strings for trending searches
-
-newtab-trending-searches-learn-more = Issin ugar
-
 ## Strings for task / to-do list productivity widget
 
 # A simple label next to the default list name letting users know this is a new / beta feature

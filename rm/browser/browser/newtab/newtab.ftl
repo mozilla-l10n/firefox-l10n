@@ -329,13 +329,8 @@ newtab-custom-recent-subtitle = Ina selecziun da websites e cuntegn visità dacu
 newtab-custom-weather-toggle =
     .label = Aura
     .description = La previsiun da l’aura actuala en in’egliada
-newtab-custom-trending-search-toggle =
-    .label = Tschertgas frequentas
-    .description = Temas populars tschertgads frequentamain
 newtab-custom-widget-weather-toggle =
     .label = Aura
-newtab-custom-widget-trending-search-toggle =
-    .label = Tschertgas frequentas
 newtab-custom-widget-lists-toggle =
     .label = Glistas
 newtab-custom-widget-timer-toggle =
@@ -618,17 +613,6 @@ newtab-report-cancel = Interrumper
 newtab-report-submit = Trametter
 newtab-toast-thanks-for-reporting =
     .message = Grazia per l’annunzia.
-
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Mussar tschertgas frequentas
-newtab-trending-searches-hide-trending =
-    .title = Zuppentar tschertas frequentas
-newtab-trending-searches-learn-more = Ulteriuras infurmaziuns
-newtab-trending-searches-dismiss = Zuppentar tschertgas frequentas
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Tschertgas frequentas
 
 ## Strings for task / to-do list productivity widget
 

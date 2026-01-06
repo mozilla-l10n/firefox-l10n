@@ -315,8 +315,6 @@ newtab-custom-weather-toggle =
     .description = Այսօրվա կանխատեսումը մի հայացքով
 newtab-custom-widget-weather-toggle =
     .label = Եղանակ
-newtab-custom-widget-trending-search-toggle =
-    .label = Թրենդային որոնումներ
 newtab-custom-widget-lists-toggle =
     .label = Ցանկեր
 newtab-custom-widget-timer-toggle =
@@ -575,15 +573,6 @@ newtab-report-cancel = Չեղարկել
 newtab-report-submit = Ուղարկել
 newtab-toast-thanks-for-reporting =
     .message = Շնորհակալություն հայտնելու համար:
-
-## Strings for trending searches
-
-newtab-trending-searches-hide-trending =
-    .title = Թաքցնել թրենդային որոնումները
-newtab-trending-searches-learn-more = Իմանալ ավելին
-newtab-trending-searches-dismiss = Թաքցնել թրենդային որոնումները
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Թրենդային որոնումներ
 
 ## Strings for task / to-do list productivity widget
 

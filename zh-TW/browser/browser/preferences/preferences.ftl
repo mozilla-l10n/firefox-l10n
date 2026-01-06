@@ -785,7 +785,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name }內容
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = 選擇要在您的 { -firefox-home-brand-name }畫面顯示哪些內容。
 home-prefs-search-header =
     .label = 網頁搜尋
@@ -845,9 +844,6 @@ home-prefs-weather-description = 快速了解本日天氣
 home-prefs-weather-learn-more-link = 更多資訊
 home-prefs-widgets-header =
     .label = 小工具
-home-prefs-trending-search-header =
-    .label = 熱門搜尋
-home-prefs-trending-search-description = 熱門與常見搜尋主題
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = 清單
@@ -1827,14 +1823,6 @@ permissions-location = 位置
 permissions-location-settings =
     .label = 設定…
     .accesskey = l
-permissions-localhost = 裝置應用程式與服務
-permissions-localhost-settings =
-    .label = 設定…
-    .accesskey = t
-permissions-local-network = 區域網路裝置
-permissions-local-network-settings =
-    .label = 設定…
-    .accesskey = t
 permissions-xr = 虛擬實境
 permissions-xr-settings =
     .label = 設定…

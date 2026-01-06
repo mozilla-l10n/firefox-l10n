@@ -789,7 +789,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik") }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Izberite vsebino, ki naj se prikazuje na { -firefox-home-brand-name(sklon: "mestnik") }.
 home-prefs-search-header =
     .label = Iskanje po spletu
@@ -841,9 +840,6 @@ home-prefs-weather-description = Kratek pogled na današnjo napoved
 home-prefs-weather-learn-more-link = Več o tem
 home-prefs-widgets-header =
     .label = Pripomočki
-home-prefs-trending-search-header =
-    .label = Trenutno iskano
-home-prefs-trending-search-description = Priljubljene in pogosto iskane teme
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Seznami
@@ -1768,14 +1764,6 @@ tracking-manage-exceptions =
 permissions-header = Dovoljenja
 permissions-location = Lokacija
 permissions-location-settings =
-    .label = Nastavitve …
-    .accesskey = t
-permissions-localhost = Aplikacije in storitve na napravi
-permissions-localhost-settings =
-    .label = Nastavitve …
-    .accesskey = t
-permissions-local-network = Naprave lokalnega omrežja
-permissions-local-network-settings =
     .label = Nastavitve …
     .accesskey = t
 permissions-xr = Navidezna resničnost

@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } ਸਮੱਗਰੀ
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = ਤੁਹਾਡੀ { -firefox-home-brand-name } ਸਕਰੀਨ ਉੱਤੇ ਦਿਖਾਈ ਜਾਣ ਵਾਲੀ ਸਮਗੱਰੀ ਚੁਣੋ।
 home-prefs-search-header =
     .label = ਵੈੱਬ ਖੋਜ
@@ -857,9 +856,6 @@ home-prefs-weather-description = ਅੱਜ ਦੀ ਭਵਿੱਖਬਾਣੀ �
 home-prefs-weather-learn-more-link = ਹੋਰ ਜਾਣੋ
 home-prefs-widgets-header =
     .label = ਵਿਜੈੱਟ
-home-prefs-trending-search-header =
-    .label = ਰੁਝਾਨ ਵਿੱਚ ਖੋਜਾਂ
-home-prefs-trending-search-description = ਹਰਮਨਪਿਆਰੇ ਅਤੇ ਅਕਸਰ ਖੋਜੇ ਗਏ ਵਿਸ਼ੇ
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = ਸੂਚੀਆਂ
@@ -1836,14 +1832,6 @@ tracking-manage-exceptions =
 permissions-header = ਇਜਾਜ਼ਤਾਂ
 permissions-location = ਟਿਕਾਣਾ
 permissions-location-settings =
-    .label = …ਸੈਟਿੰਗਾਂ
-    .accesskey = t
-permissions-localhost = ਡਿਵਾਈਸ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ
-permissions-localhost-settings =
-    .label = …ਸੈਟਿੰਗਾਂ
-    .accesskey = t
-permissions-local-network = ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸ
-permissions-local-network-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = t
 permissions-xr = ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ

@@ -195,8 +195,6 @@ about-glean-button-unwatch = Διακοπή παρακολούθησης
 about-glean-no-data-to-display = Δεν υπάρχουν δεδομένα προς εμφάνιση.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Οι μετρήσεις <code>DualLabeledCounter</code> δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
-# Do not translate strings between <code> </code> tags.
-about-glean-labeled-metric-warning = Οι μετρήσεις με ετικέτα δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.
 about-glean-enable-new-features-promo =
     .message = Εργαζόμαστε για να προσθέσουμε νέες λειτουργίες! Βρίσκονται ακόμα υπό ενεργή ανάπτυξη, αλλά μπορείτε να κάνετε κλικ σε αυτό το κουμπί ενέργειας αν επιθυμείτε να τις ενεργοποιήσετε.
