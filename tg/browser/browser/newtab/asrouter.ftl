@@ -182,7 +182,7 @@ firefoxview-cfr-primarybutton = Озмоед
 firefoxview-cfr-secondarybutton = Ҳоло не
     .accesskey = Ҳ
 firefoxview-cfr-header-v2 = Ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, тез баргардонед
-firefoxview-cfr-body-v2 = Варақаҳои ба наздикӣ пӯшидашударо барқарор кунед, аз он ҷумла бо { -firefoxview-brand-name } аз як дастгоҳ ба дастгоҳии дигар бефосила гузаред.
+firefoxview-cfr-body-v2 = Варақаҳои ба наздикӣ пӯшидашударо барқарор кунед, аз он ҷумла бо «{ -firefoxview-brand-name }» аз як дастгоҳ ба дастгоҳи дигар бефосила гузаред.
 
 ## Firefox View Spotlight
 
