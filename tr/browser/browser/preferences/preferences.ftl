@@ -1331,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Ana parola kullan
     .accesskey = n
+forms-primary-pw-use-2 =
+    .label = Ana parola kullan
+    .description = Kayıtlı parolalarınızı korumak için ekstra bir güvenlik katmanı ekler.
+    .accesskey = A
 forms-primary-pw-set =
     .label = Ana parola belirle
 forms-primary-pw-on =
@@ -1343,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Parolaları doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
+forms-os-reauth-2 =
+    .label = Parolaları yönetmek için cihazdan giriş yapmayı zorunlu tut
 forms-primary-pw-learn-more-link = Daha fazla bilgi al
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
