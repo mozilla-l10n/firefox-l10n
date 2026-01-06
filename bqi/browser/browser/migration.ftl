@@ -39,7 +39,29 @@ import-from-chrome =
 import-from-chrome-beta =
     .label = کروم بتا
     .accesskey = B
+import-from-chrome-dev =
+    .label = کروم Dev
+    .accesskey = D
+import-from-chromium =
+    .label = کرومیوم
+    .accesskey = u
+import-from-firefox =
+    .label = Firefox
+    .accesskey = x
+import-from-360se =
+    .label = 360 Secure Browser
+    .accesskey = 3
+import-from-opera-gx =
+    .label = اوپرا GX
+    .accesskey = G
 import-source-page-title = و من ٱووردن سامووا وو داده یل
+import-items-page-title = مووردایی ک و من بیان
+import-items-description = مووردایی ک اخۊین و من بیان، پسند کۊنین:
+import-migrating-page-title = هونی و من ایان…
+import-done-page-title = و من ٱووردن دووسمندیا کامل وابی
+source-name-ie = اینترنت اکسپلورر
+source-name-edge = مایکروسافت Edge
+source-name-chrome = گۊگل کروم
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -71,7 +93,15 @@ browser-data-history-label =
             [firefox] ویرگار گشتن وو نشووکا
            *[other] ویرگار گشتن
         }
+browser-data-otherdata-checkbox =
+    .label = داده یل دیر
+browser-data-otherdata-label =
+    .label = داده یل دیر
 browser-data-session-checkbox =
     .label = نیمدری یل وو بلگه یل
 browser-data-session-label =
     .value = نیمدری یل وو بلگه یل
+browser-data-payment-methods-checkbox =
+    .label = بارتا پرداخت
+browser-data-payment-methods-label =
+    .value = بارتا پرداخت
