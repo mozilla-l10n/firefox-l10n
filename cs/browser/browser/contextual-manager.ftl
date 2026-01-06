@@ -15,7 +15,7 @@ contextual-manager-more-options-popup =
 
 contextual-manager-passwords-command-create = Přidat heslo
 contextual-manager-passwords-command-import-from-browser = Importovat z jiného prohlížeče…
-contextual-manager-passwords-command-import = Importovat ze souboru
+contextual-manager-passwords-command-import = Importovat ze souboru…
 contextual-manager-passwords-command-export = Exportovat hesla
 contextual-manager-passwords-command-remove-all = Odstranit všechna hesla
 contextual-manager-passwords-command-options = Možnosti

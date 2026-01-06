@@ -63,3 +63,8 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Nié 'n misleidende werf nie…
     .accesskey = d
+
+## Panel for privacy and security products
+
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }

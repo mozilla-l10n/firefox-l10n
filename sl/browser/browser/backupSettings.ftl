@@ -93,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Izklopi in izbriši varnostne kopije
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Obnovite podatke
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = S tem bodo vsi podatki { -brand-short-name(sklon: "rodilnik") } zamenjani s podatki varnostne kopije z dne { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Kaj bo obnovljeno?
 restore-from-backup-file-choose-button =
@@ -176,6 +180,7 @@ backup-file-creation-date-label = Ustvarjena:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Kako jo obnoviti:
+backup-file-download-moz-browser-button = Prenesi
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
