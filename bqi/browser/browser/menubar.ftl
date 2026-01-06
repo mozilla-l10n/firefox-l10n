@@ -92,6 +92,12 @@ menu-view-synced-tabs-sidebar =
 menu-view-full-zoom =
     .label = گپ نمایی
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = گپ نمایی
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = کۊچیر نمایی
+    .accesskey = O
 menu-view-full-zoom-actual-size =
     .label = هندا واقعی‌
     .accesskey = A
@@ -137,8 +143,26 @@ menu-view-close-readerview =
 
 ## History Menu
 
+menu-history =
+    .label = ویرگار
+    .accesskey = s
+menu-history-show-all-history =
+    .label = نشوݩ داڌن پوی ویرگار
+menu-history-clear-recent-history =
+    .label = روفتن ویرگار دیندایی…
+menu-history-synced-tabs =
+    .label = بلگه یل هوم گوم وابیڌه
+menu-history-restore-last-session =
+    .label = وورگندن نشست پؽشی
+menu-history-hidden-tabs =
+    .label = بلگه یل بؽڌاری
+menu-history-undo-menu =
+    .label = بلگه یلی ک سکو بسته وابین
 menu-history-undo-window-menu =
     .label = نیمدری یلی ک سکو بسته وابین
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = پیتینیڌن ویرگار
 
 ## Bookmarks Menu
 
@@ -147,6 +171,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = دؽوۉداری نشووکا
+menu-bookmark-tab =
+    .label = نشووک ناهاڌن بلگه هیم سکویی…
 menu-edit-bookmark =
     .label = آلشت ای نشووک…
 # "Search" is a verb, as in "Search in bookmarks"
@@ -169,15 +195,37 @@ menu-profiles-manage-profiles =
     .label = دؽوۉداری پوروفایلا
 menu-profiles-new-profile =
     .label = پوروفایل نۊ
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (هیم سکویی)
 menu-profiles-menu =
     .label = پوروفایلا
     .accesskey = P
 
 ## Tools Menu
 
+menu-tools =
+    .label = ٱوزارا
+    .accesskey = T
+menu-tools-downloads =
+    .label = دانلودا
+    .accesskey = D
 menu-tools-extensions-and-themes =
     .label = وردنی یل وو زمینه یل
     .accesskey = E
+menu-tools-addons-and-themes =
+    .label = وردنی یل وو زمینه یل
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = و من ٱووڌن
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = رۊشن کردن هوم گوم کردن…
+    .accesskey = n
+menu-tools-sync-now =
+    .label = سکو هوم گوم کوݩ
+    .accesskey = o
 menu-settings =
     .label = سامووا
     .accesskey =
