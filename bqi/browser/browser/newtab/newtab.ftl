@@ -210,6 +210,8 @@ newtab-widget-lists-empty-cta = ائتمالات تمومی نڌارن. یکی �
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = نۊ
+newtab-widget-lists-label-beta =
+    .label = آزمایشی
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -217,21 +219,49 @@ newtab-widget-lists-completed-list = تموم وابیڌه ({ $number })
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-edit = آلشت نومگه نوم
 newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
+newtab-widget-lists-menu-delete = پاک کردن ای نومگه
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
+newtab-widget-lists-menu-hide = بؽڌار کردن پوی نومگه یل
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
+newtab-widget-lists-input-add-an-item =
+    .placeholder = ٱووردن ی موورد
+newtab-widget-lists-input-menu-open-link = گۊشیڌن لینگ
+newtab-widget-lists-input-menu-move-up = جاگورو و روء
+newtab-widget-lists-input-menu-move-down = جاگورو و لم
+newtab-widget-lists-input-menu-delete = پاک کردن
 newtab-widget-lists-input-menu-edit = آلشت
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + وورکل ی نومگه نۊ
+newtab-widget-lists-name-label-default =
+    .label = نومگه کارا
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = نومگه کارا
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = نومگه نۊ
+newtab-widget-section-title = ویجتا
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = بؽڌار کردن ویجتا
+    .aria-label = بؽڌار کردن پوی ویجتا
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = زمووݩ سنج
 newtab-widget-timer-notification-warning = وارسۊویا کۊر هڌن
+newtab-widget-timer-mode-focus =
+    .label = فوکۊس
+newtab-widget-timer-mode-break =
+    .label = اشکستن
+newtab-widget-timer-label-pause =
+    .label = واڌاشتن
+newtab-widget-timer-reset =
+    .title = وورنشۊوی
 newtab-widget-timer-menu-notifications = کۊر کردن وارسۊویا
 newtab-widget-timer-menu-notifications-on = رۊشن کردن وارسۊویا
+newtab-widget-timer-menu-hide = بؽڌار کردن زمووݩ سنج
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
+newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
