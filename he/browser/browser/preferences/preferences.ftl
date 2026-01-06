@@ -1331,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = שימוש בססמה ראשית
     .accesskey = ש
+forms-primary-pw-use-2 =
+    .label = שימוש בססמה ראשית
+    .description = מוסיף שכבה נוספת של הגנה כדי להגן על הססמאות השמורות שלך.
+    .accesskey = ש
 forms-primary-pw-set =
     .label = הגדרת ססמה ראשית
 forms-primary-pw-on =
@@ -1343,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל ססמאות
+forms-os-reauth-2 =
+    .label = לדרוש פרטי התחברות של המכשיר כדי לנהל ססמאות
 forms-primary-pw-learn-more-link = מידע נוסף
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1448,6 +1454,9 @@ addresses-delete-address-prompt-cancel-button = ביטול
 autofill-addresses-add-button = הוספת כתובת חדשה
 autofill-addresses-manage-addresses-title =
     .heading = ניהול כתובות ועוד
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = לא נוספו כתובות
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
