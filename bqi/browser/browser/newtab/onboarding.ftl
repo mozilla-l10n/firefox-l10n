@@ -128,3 +128,8 @@ fx-backup-confirmation-screen-close-button = بستن
 
 restored-from-backup-success-no-checklist-primary-button = رئڌن وا پؽش
 restored-from-backup-error-primary-button = بستن
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-motivation-other-option = دیر
