@@ -42,13 +42,30 @@ bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-2-title = Perplexity ن امتهووݩ کۊنین: ی بارت نۊ سی پیتینیڌن
 perplexity-callout-secondary-label-1 = رڌ کردن
 perplexity-callout-secondary-label-2 = فئمیم
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = سکو هوم گوم کوݩ
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = نشووݩ داڌن پؽشنهاڌا کمتر
 windows-10-eos-sync-dismiss-button-label = رڌ کردن
+windows-10-eos-sync-callout-primary-advance-button-label = بئڌی
+
+## Sidebar Strings
+
+sidebar-deprecation-cta-button = هیم سکو امتهووݩ کوݩ
+
+## Sidebar Vertical Tabs Pinning Strings
+
+sidebar-pins-callout-cta-button = دیسنیڌن بلگه
+
+## Pinning Tabs Strings
+
+pin-tabs-callout-cta-1-button = دیسنیڌن ای بلگه
+pin-tabs-callout-cta-2-button = دیسنیڌن ای بلگه
 
 ## Sidebar Callout Survey Strings
 
@@ -59,6 +76,10 @@ sidebar-callout-survey-neutral = بؽ ترف
 sidebar-callout-survey-dissatisfied-2 = ن رازی
 sidebar-callout-survey-very-dissatisfied-2 = قلوه ن رازی
 sidebar-callout-survey-dont-use-it = و کارس نؽگروم
+sidebar-callout-survey-agree = قوۊلومه
+sidebar-callout-survey-disagree = قوۊلوم نؽ
+sidebar-callout-survey-strongly-disagree = هیچ قوۊلوم نؽ
 sidebar-callout-survey-submit = فشناڌن
+unified-search-callout-primary-label = بئڌی
 unified-search-callout-secondary-label = رڌ کردن
 unified-search-engines-callout-primary-label = فئمیم
