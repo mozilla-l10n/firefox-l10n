@@ -75,6 +75,18 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = رئڌن و بلگه دانلود
     .accesskey = G
+downloads-cmd-copy-download-link =
+    .label = لف گیری لینگ دانلود
+    .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = پاک کردن ز ویرگار
+    .accesskey = e
+downloads-cmd-clear-list =
+    .label = روفتن تابلو پؽش نشووݩ
+    .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = روفتن دانلودا
+    .accesskey = C
 downloads-cmd-delete-file =
     .label = پاک کردن
     .accesskey = D
@@ -137,15 +149,35 @@ downloading-file-click-to-open =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = لقو دانلود
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = نشووݩ داڌن پوی دانلودا
+    .accesskey = S
+# This string is shown at the top of the download details sub-panel to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = جۊزعیات دانلود
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
+downloads-private-browsing-delete-button =
+    .label = پاک کردن خوتکار فایلا
+    .accesskey = D
 downloads-private-browsing-accept-button =
     .label = فئمیم
     .accesskey = G
 
+##
+
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = هیچ دانلودی من ای نشست ٱنجوم نوابیڌه.
+
 ## Download errors
 
+downloads-error-alert-title = ختا دانلود
 # Variables:
 #   $extension (String): the name of the blocking extension.
 downloads-error-blocked-by = زفت وابیڌن دانلود سی دل مسدۊد بیڌن و دست { $extension } ٱنجوم نؽگره.

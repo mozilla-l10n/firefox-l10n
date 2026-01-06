@@ -71,8 +71,27 @@ menu-edit =
 
 ## View Menu
 
+menu-view =
+    .label = نما
+    .accesskey = V
+menu-view-toolbars-menu =
+    .label = نوار ٱوزارا
+    .accesskey = T
+menu-view-customize-toolbar2 =
+    .label = سفارشی کردن نوار ٱوزار…
+    .accesskey = C
+menu-view-sidebar =
+    .label = نوار کلی
+    .accesskey = e
 menu-view-bookmarks =
     .label = نشووکا
+menu-view-history-button =
+    .label = ویرگار
+menu-view-synced-tabs-sidebar =
+    .label = بلگه یل هوم گوم وابیڌه
+menu-view-full-zoom =
+    .label = گپ نمایی
+    .accesskey = Z
 menu-view-full-zoom-actual-size =
     .label = هندا واقعی‌
     .accesskey = A

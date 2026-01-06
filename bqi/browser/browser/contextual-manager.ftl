@@ -90,6 +90,14 @@ contextual-manager-passwords-remove-all-title =
         [one] رزم پاک بۊ؟
        *[other] پاک کردن پوی { $total } رزم؟
     }
+# Button label to confirm removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm-button =
+    { $total ->
+        [1] پاک کردن
+        [one] پاک کردن
+       *[other] پاک کردن پوی
+    }
 contextual-manager-passwords-origin-label = وبگه اینترنتی
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = نوم منتوری
