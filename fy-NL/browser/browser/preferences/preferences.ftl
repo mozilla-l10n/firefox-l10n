@@ -1331,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = h
+forms-primary-pw-use-2 =
+    .label = In haadwachtwurd brûke
+    .description = Foeget in ekstra befeiligingslaach ta om jo bewarre wachtwurden te beskermjen.
+    .accesskey = c
 forms-primary-pw-set =
     .label = Haadwachtwurd ynstelle
 forms-primary-pw-on =
@@ -1343,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Apparaatoanmelding foar ynfoljen en behearen fan wachtwurden fereaskje
+forms-os-reauth-2 =
+    .label = Apparaatoanmelding foar behearen fan wachtwurden fereaskje
 forms-primary-pw-learn-more-link = Mear ynfo
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
