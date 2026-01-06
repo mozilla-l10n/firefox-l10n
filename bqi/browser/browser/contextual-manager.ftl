@@ -82,6 +82,14 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] سند CSV
        *[other] فایل CSV
     }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] رزم پاک بۊ؟
+        [one] رزم پاک بۊ؟
+       *[other] پاک کردن پوی { $total } رزم؟
+    }
 contextual-manager-passwords-origin-label = وبگه اینترنتی
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = نوم منتوری

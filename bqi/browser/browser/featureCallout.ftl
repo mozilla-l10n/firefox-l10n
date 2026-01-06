@@ -36,6 +36,7 @@ bookmarks-toolbar-callout-1-secondary-button-label = ن ممنووݩ
 bookmarks-toolbar-callout-2a-primary-button-label = فئمیم
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = بؽڌار کردن نوار ٱوزار
+bookmarks-toolbar-callout-2b-primary-button-label = گۊشیڌه بؽلس
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
 
