@@ -392,8 +392,8 @@ tab-note-editor-button-save =
 #   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
 tab-note-editor-character-limit =
     { $maxAllowedCharacters ->
-        [one] { NUMBER($totalcharacters, useGrouping: "false") }/{ NUMBER($maxAllowedcharacters, useGrouping: "false") } Zeichen
-       *[other] { NUMBER($totalcharacters, useGrouping: "false") }/{ NUMBER($maxAllowedcharacters, useGrouping: "false") } Zeichen
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } Zeichen
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } Zeichen
     }
 
 ## Split View
