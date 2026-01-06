@@ -2,6 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Application Menu (macOS only)
+
+menu-application-preferences =
+    .label = ترجیهات
+menu-application-services =
+    .label = خدمات
+menu-application-hide-this =
+    .label = بؽڌار کردن { -brand-shorter-name }
+menu-application-hide-other =
+    .label = برنومه یل دیری ن هم بؽڌار کوݩ
+menu-application-show-all =
+    .label = نشووݩ داڌن پوی
+menu-application-touch-bar =
+    .label = سفارشی کردن نوار لمسی…
+
+##
+
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
     .label =
@@ -14,9 +32,18 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = و در زیڌن { -brand-shorter-name }
+menu-about =
+    .label = زبار { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
+menu-file =
+    .label = فایل
+    .accesskey = F
 menu-file-new-tab =
     .label = بلگه نۊ
     .accesskey = T
@@ -46,6 +73,18 @@ menu-edit =
 
 menu-view-bookmarks =
     .label = نشووکا
+menu-view-full-zoom-actual-size =
+    .label = هندا واقعی‌
+    .accesskey = A
+menu-view-full-zoom-toggle =
+    .label = تینا گپ نمایی هؽل
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = سبک بلگه
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = بؽ سبک
+    .accesskey = n
 
 ## History Menu
 

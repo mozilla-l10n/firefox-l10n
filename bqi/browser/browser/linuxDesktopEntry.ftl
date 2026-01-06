@@ -10,6 +10,8 @@
 desktop-entry-name = { -brand-shortcut-name }
 desktop-entry-generic-name = گشت گر وب
 # Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name-1 = { -brand-full-name }
+# Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = گشت گر وب { -brand-shortcut-name }
 
 ## Actions are visible in a context menu after right clicking the
@@ -17,3 +19,4 @@ desktop-entry-x-gnome-full-name = گشت گر وب { -brand-shortcut-name }
 
 desktop-action-new-window-name = نیمدری نۊ
 desktop-action-new-private-window-name = نیمدری سیخومی نۊ
+desktop-action-open-profile-manager = گۊشیڌن دؽوۉداری پوروفایل
