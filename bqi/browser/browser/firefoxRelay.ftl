@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The "control" variation of the Relay offer popup
+
+firefox-relay-opt-in-confirmation-postpone =
+    .label = سکو ن
+    .accesskey = N
+
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
