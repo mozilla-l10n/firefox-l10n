@@ -1334,6 +1334,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Истифода кардани ниҳонвожаи асосӣ
     .accesskey = И
+forms-primary-pw-use-2 =
+    .label = Истифода кардани ниҳонвожаи асосӣ
+    .description = Барои ҳифз кардани ниҳонвожаҳои нигоҳдошташудаи шумо як қабати иловагии амниятро илова меунад.
+    .accesskey = И
 forms-primary-pw-set =
     .label = Танзим кардани ниҳонвожаи асосӣ
 forms-primary-pw-on =
@@ -1345,7 +1349,9 @@ forms-primary-pw-turn-off =
     .label = Хомӯш кардан
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани ниҳонвожаҳо
+    .label = Дархости воридшавӣ дар дастгоҳ барои пур кардан ва идора намудани ниҳонвожаҳо
+forms-os-reauth-2 =
+    .label = Дархости воридшавӣ дар дастгоҳ барои идора кардани ниҳонвожаҳо
 forms-primary-pw-learn-more-link = Маълумоти бештар
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1400,7 +1406,7 @@ autofill-payment-methods-checkbox-submessage = Дар бар гирифтани 
 autofill-saved-payment-methods-button = Тарзҳои пардохти нигоҳдошташуда
     .accesskey = р
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
+autofill-reauth-payment-methods-checkbox = Дархости воридшавӣ дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
     .accesskey = Д
 autofill-payment-methods-title = Тарзҳои пардохт
 autofill-payment-methods-header =
