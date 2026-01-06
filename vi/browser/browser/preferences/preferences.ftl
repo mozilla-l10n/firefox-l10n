@@ -1319,6 +1319,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Sử dụng mật khẩu chính
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Sử dụng mật khẩu chính
+    .description = Thêm một lớp bảo mật để bảo vệ mật khẩu đã lưu của bạn.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Đặt mật khẩu chính
 forms-primary-pw-on =
@@ -1330,7 +1334,9 @@ forms-primary-pw-turn-off =
     .label = Tắt nó
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Yêu cầu thiết bị đăng nhập để điền và quản lý mật khẩu
+    .label = Yêu cầu đăng nhập từ thiết bị để điền và quản lý mật khẩu
+forms-os-reauth-2 =
+    .label = Yêu cầu đăng nhập từ thiết bị để quản lý mật khẩu
 forms-primary-pw-learn-more-link = Tìm hiểu thêm
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1385,7 +1391,7 @@ autofill-payment-methods-checkbox-submessage = Bao gồm thẻ tín dụng và t
 autofill-saved-payment-methods-button = Phương thức thanh toán đã lưu
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Yêu cầu thiết bị đăng nhập để điền và quản lý phương thức thanh toán
+autofill-reauth-payment-methods-checkbox = Yêu cầu đăng nhập từ thiết bị để điền và quản lý phương thức thanh toán
     .accesskey = o
 autofill-payment-methods-title = Phương thức thanh toán
 autofill-payment-methods-header =
@@ -1400,7 +1406,7 @@ autofill-payment-methods-manage-payments-button =
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
-    .label = Yêu cầu đăng nhập thiết bị để tự động điền và quản lý phương thức thanh toán
+    .label = Yêu cầu đăng nhập từ thiết bị để tự động điền và quản lý phương thức thanh toán
     .accesskey = o
 autofill-payment-methods-add-button = Thêm phương thức thanh toán mới
 payments-list-header =
