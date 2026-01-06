@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contextual-manager-filter-input =
+    .placeholder = پیتینیڌن رزما
+    .key = F
+    .aria-label = پیتینیڌن رزما
 contextual-manager-menu-more-options-button =
     .title = گۊزینه یل بیشتر
 contextual-manager-more-options-popup =
