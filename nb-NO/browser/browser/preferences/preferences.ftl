@@ -1347,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Krev enhetsinnlogging for å fylle ut og behandle passord
+forms-os-reauth-2 =
+    .label = Krev enhetsinnlogging for å behandle passord
 forms-primary-pw-learn-more-link = Les mer
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
