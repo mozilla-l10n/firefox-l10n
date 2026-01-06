@@ -71,6 +71,10 @@ newtab-custom-settings = دؽوۉداری سامووا قلوه
 
 newtab-wallpaper-feature-highlight-button = فئمیم
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -92,8 +96,13 @@ newtab-weather-menu-change-temperature-units-fahrenheit = آلشت و فارنه
 newtab-weather-menu-change-temperature-units-celsius = آلشت و سانتیگراد
 newtab-weather-menu-hide-weather = بؽڌار کردن ٱو وو هوا من بلگه نۊ
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
+newtab-weather-menu-detect-my-location = تشخیس داڌن جاگه مو
 # This message is shown if user is working offline
 newtab-weather-error-not-available = دووسمندیا ٱو وو هوا سکو من دسرس نؽ
+newtab-weather-opt-in-not-now =
+    .label = سکو ن
+newtab-weather-opt-in-yes =
+    .label = هری
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = شئر نیویورک
 
@@ -110,11 +119,53 @@ newtab-topic-label-hobbies = بازی
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
 newtab-topic-label-finance = پیل
+newtab-topic-label-government = سیاست
+newtab-topic-label-education-science = علم
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = شگردا زندیی
+newtab-topic-label-sports = ورزش
+newtab-topic-label-tech = تکنۊلۊژی
+newtab-topic-label-travel = سفر
+newtab-topic-label-home = هووه وو باغ
 
 ## Topic Selection Modal
 
 newtab-topic-selection-save-button = زفت
 newtab-topic-selection-cancel-button = لقو
+newtab-topic-selection-button-maybe-later = گاشڌ دینداتر
+newtab-topic-selection-privacy-link = دووسته بۊین ک چتاور دووسمندیا ن زفت وو هونووݩ ن دؽوۉداری اکۊنیم
+newtab-topic-selection-button-update-interests = علاقه یل خوتووݩ ن ورۊ رسۊوی کۊنین
+newtab-topic-selection-button-pick-interests = پسند علاقه یل خوتووݩ
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = فید خوتووݩ ن دییق سامووݩ کۊنین
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-block-button = مسدۊد کردن
+newtab-section-blocked-button = مسدۊد وابیڌه
+newtab-section-unblock-button = ز مسدۊدی دراووردن
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = سکو ن
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = مسدۊد کردن { $topic }
+
+## Strings for custom wallpaper highlight
+
+newtab-section-mangage-topics-title = سرتالا
+newtab-section-manage-topics-button-v2 =
+    .label = دؽوۉداری سرتالا
 
 ## Strings for reporting issues with ads and content
 
