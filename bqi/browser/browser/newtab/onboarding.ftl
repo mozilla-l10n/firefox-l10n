@@ -24,7 +24,14 @@ return-to-amo-subtitle = قلوه خۊوه، { -brand-short-name } ن گرؽڌی
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = سکو بؽلین سیتووݩ <img data-l10n-name="icon"/><b>{ $addon-name }</b> ن بگیریم.
 return-to-amo-add-extension-label = ازاف کردن وردنی
+return-to-amo-add-theme-label = ٱووردن زمینه
+return-to-amo-theme-install-complete-label = زمینه پۊرست
 return-to-amo-extension-install-complete-label = وردنی پۊرست
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-subtitle = و { -brand-short-name } سلام برسووݩ
+mr1-return-to-amo-add-extension-label = ٱووردن { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -34,6 +41,18 @@ return-to-amo-extension-install-complete-label = وردنی پۊرست
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+# String for the Firefox Accounts button
+mr1-onboarding-sign-in-button-label = و من ٱووڌن
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = و من ٱووردن ز { $previous }
+mr1-onboarding-theme-header = هونه مال خوت کوݩ
+mr1-onboarding-theme-secondary-button-label = سکو ن
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = زمینه سیستوم
+mr1-onboarding-theme-label-light = رۊشن
+mr1-onboarding-theme-label-dark = تاریک
 onboarding-theme-primary-button-label = ٱنجوم وابی
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
