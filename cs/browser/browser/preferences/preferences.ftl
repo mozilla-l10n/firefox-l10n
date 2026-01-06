@@ -344,7 +344,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Zobrazují se v postranní liště
 browser-layout-show-sidebar =
     .label = Zobrazit postranní lištu
-browser-layout-show-sidebar-desc = Získejte rychlý přístup k záložkám, panelům z telefonu, AI chatbotu a dalším bez toho, abyste opustili hlavní okno.
+browser-layout-show-sidebar-desc = Získejte rychlý přístup k záložkám, panelům z telefonu, AI chatbotu a dalším věcem bez toho, abyste opustili hlavní okno.
 
 ## General Section - Language & Appearance
 
