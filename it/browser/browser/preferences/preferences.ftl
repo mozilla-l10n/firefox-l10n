@@ -797,7 +797,6 @@ home-custom-homepage-bookmarks-button =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contenuti per { -firefox-home-brand-name }
-home-prefs-content-header3 = { -firefox-home-brand-name }
 home-prefs-content-description2 = Scegli i contenuti da visualizzare in { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Ricerca sul Web
@@ -857,9 +856,6 @@ home-prefs-weather-description = Panoramica delle previsioni meteo per oggi
 home-prefs-weather-learn-more-link = Ulteriori informazioni
 home-prefs-widgets-header =
     .label = Widget
-home-prefs-trending-search-header =
-    .label = Ricerche di tendenza
-home-prefs-trending-search-description = Argomenti popolari e cercati di frequente
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Liste
@@ -1839,14 +1835,6 @@ permissions-location = Posizione
 permissions-location-settings =
     .label = Impostazioni…
     .accesskey = m
-permissions-localhost = App e servizi del dispositivo
-permissions-localhost-settings =
-    .label = Impostazioni
-    .accesskey = m
-permissions-local-network = Dispositivi di rete locale
-permissions-local-network-settings =
-    .label = Impostazioni…
-    .accesskey = z
 permissions-xr = Realtà virtuale
 permissions-xr-settings =
     .label = Impostazioni…
@@ -2120,4 +2108,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-

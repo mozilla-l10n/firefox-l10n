@@ -331,13 +331,8 @@ newtab-custom-recent-subtitle = Una selezione di siti e contenuti visualizzati d
 newtab-custom-weather-toggle =
     .label = Meteo
     .description = Panoramica delle previsioni meteo per oggi
-newtab-custom-trending-search-toggle =
-    .label = Ricerche di tendenza
-    .description = Argomenti popolari e cercati di frequente
 newtab-custom-widget-weather-toggle =
     .label = Meteo
-newtab-custom-widget-trending-search-toggle =
-    .label = Ricerche di tendenza
 newtab-custom-widget-lists-toggle =
     .label = Liste
 newtab-custom-widget-timer-toggle =
@@ -624,17 +619,6 @@ newtab-report-submit = Invia
 newtab-toast-thanks-for-reporting =
     .message = Grazie per la segnalazione.
 
-## Strings for trending searches
-
-newtab-trending-searches-show-trending =
-    .title = Mostra ricerche di tendenza
-newtab-trending-searches-hide-trending =
-    .title = Nascondi ricerche di tendenza
-newtab-trending-searches-learn-more = Ulteriori informazioni
-newtab-trending-searches-dismiss = Nascondi ricerche di tendenza
-# "Trending searches refers to popular searches from search engines
-newtab-trending-searches-title = Ricerche di tendenza
-
 ## Strings for task / to-do list productivity widget
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
@@ -715,4 +699,3 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
-
