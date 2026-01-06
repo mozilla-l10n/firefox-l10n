@@ -166,16 +166,54 @@ newtab-section-block-topic-button = مسدۊد کردن { $topic }
 newtab-section-mangage-topics-title = سرتالا
 newtab-section-manage-topics-button-v2 =
     .label = دؽوۉداری سرتالا
+newtab-section-mangage-topics-blocked-topics = مسدۊد وابیڌه
+newtab-custom-wallpaper-cta = امتهووس کوݩ
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
+
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-title = دانلود { -brand-product-name } سی موبایل
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = مووردا دلخا ایسا من دسرس تووݩ هڌ
 
 ## Strings for reporting issues with ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = سیچه یونه گوزارش ادی؟
+newtab-report-ads-reason-not-interested =
+    .label = مو علاقه ای نڌاروم
+newtab-report-ads-reason-inappropriate =
+    .label = موناسو نؽ
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = مو هم ی کرت دو کرت نؽ ک دیمسه
+newtab-report-content-wrong-category =
+    .label = کتن بندی اشتوا
+newtab-report-content-spam-misleading =
+    .label = هرزنامه یا بلا کوننده
+newtab-report-content-requires-payment-subscription =
+    .label = وا پرداخت کۊنین یا اشتراک داشته بۊین
+newtab-report-content-requires-payment-subscription-learn-more = قلوه دووسته بۊین
 newtab-report-cancel = لقو
+newtab-report-submit = فشناڌن
+newtab-toast-thanks-for-reporting =
+    .message = ممنووݩ ک یونه گوزارش داڌی.
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = ائتمالات تمومی نڌارن. یکی ازاف کۊنین.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = نۊ
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = تموم وابیڌه ({ $number })
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-edit = آلشت نومگه نوم
 newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
