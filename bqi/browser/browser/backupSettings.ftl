@@ -77,10 +77,13 @@ turn-on-scheduled-backups-confirm-button = رۊشن کردن لادراری گر
 turn-off-scheduled-backups-header = لادراری گرؽڌن کۊر بۊ؟
 turn-off-scheduled-backups-support-link = قلوه دووسته بۊین
 turn-off-scheduled-backups-cancel-button = لقو
+turn-off-scheduled-backups-confirm-button = لادرار ن کۊر وو پاک کۊنین
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = داده یل خوتووݩ ن وورگنین
+restore-from-backup-support-link =
+    .message = چ چیه ز نۊ وورکل بۊ؟
 restore-from-backup-filepicker-label = فایل لادراری گرؽڌن
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
