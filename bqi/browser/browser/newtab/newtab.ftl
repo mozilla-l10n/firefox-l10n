@@ -71,15 +71,45 @@ newtab-custom-settings = دؽوۉداری سامووا قلوه
 
 newtab-wallpaper-feature-highlight-button = فئمیم
 
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = آسمۊوی
+newtab-wallpaper-celestial-lunar-eclipse = مه گرؽڌیی
+newtab-wallpaper-celestial-earth-night = شؽوات شاو ز مدار بلمی زمین
+newtab-wallpaper-celestial-starry-sky = آسمووݩ پور آستاره
+
 ## New Tab Weather
 
 newtab-weather-menu-weather-display-option-detailed = جۊزعیات
 newtab-weather-menu-change-weather-display-detailed = آلشت و هالت نیشتن جۊزعیات
 newtab-weather-menu-temperature-units = واهدا دما
 newtab-weather-menu-temperature-option-fahrenheit = فارنهایت
+newtab-weather-menu-temperature-option-celsius = سانتیگراد
+newtab-weather-menu-change-temperature-units-fahrenheit = آلشت و فارنهایت
+newtab-weather-menu-change-temperature-units-celsius = آلشت و سانتیگراد
+newtab-weather-menu-hide-weather = بؽڌار کردن ٱو وو هوا من بلگه نۊ
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
+# This message is shown if user is working offline
+newtab-weather-error-not-available = دووسمندیا ٱو وو هوا سکو من دسرس نؽ
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = شئر نیویورک
+
+## Topic Labels
+
+newtab-topic-label-business = کسب ۉ کار
+newtab-topic-label-career = شوغل
+newtab-topic-label-education = وا نوم ناهاڌن
+newtab-topic-label-arts = سرگرمی
+newtab-topic-label-food = غزا
+newtab-topic-label-health = سلامت
+newtab-topic-label-hobbies = بازی
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = پیل
 
 ## Topic Selection Modal
 
