@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webext-perms-learn-more = قلوه دووسته بۊین
+webext-default-search-yes =
+    .label = هری
+    .accesskey = Y
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
