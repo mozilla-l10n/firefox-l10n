@@ -472,7 +472,7 @@ tab-note-editor-button-save =
 tabbrowser-tab-label-tab-split-view = Golwg hollt
 # Open a new tab next to the current tab and display their contents side by side
 tab-context-add-split-view =
-    .label = Ychwanegu Golwg Hollti
+    .label = Ychwanegu Golwg Hollt
     .accesskey = Y
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =

@@ -139,6 +139,7 @@ sidebar-pins-callout-cta-button = Ամրացնել ներդիրը
 pin-tabs-callout-1-title = Կարևոր գրառումները պահեք հասանելիության սահմաններում
 pin-tabs-callout-cta-1-button = Ամրացնել այս ներդիրը
 pin-tabs-callout-2-title = Ամրացրեք ամենաշատ այցելվող ներդիրները
+pin-tabs-callout-2-subtitle = Ցանկացած ներդիր ամրացնելու համար՝ քաշեք այն ներդիրի հատվածի մեկնարկ կամ աջ կտտոց և ընտրեք Ամրացնել ներդիրը:
 pin-tabs-callout-cta-2-button = Ամրացնել այս ներդիրը
 pin-tabs-callout-3-title = Կարևոր կայքերը պահեք հասանելիության սահմաններում
 pin-tabs-callout-4-title = Նշեք ամենաշատ այցելվող կայքերը
