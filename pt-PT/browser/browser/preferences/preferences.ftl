@@ -1411,6 +1411,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Obtenha sugestões da Internet rel
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugestões de patrocinadores
 addressbar-locbar-suggest-sponsored-desc = Apoie o { -brand-short-name } com sugestões patrocinadas ocasionais.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Obter as sugestões da Mozilla enquanto digita
 addressbar-dismissed-suggestions-label-2 =
     .label = Dispensar sugestões
     .description = Restaurar sugestões dispensadas dos patrocinadores e do { -brand-short-name }.
@@ -1481,6 +1489,8 @@ content-blocking-warning-learn-how = Saiba como
 content-blocking-baseline-exceptions-3 =
     .label = Corrigir os principais problemas dos sites (recomendado)
     .description = Ajuda a carregar os sites e as funcionalidades desbloqueando apenas os elementos essenciais que podem conter rastreadores. Abrange os problemas mais comuns.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Desativar as correções
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Manter as correções ativadas
 content-blocking-reload-description = Irá precisar de recarregar os seus separadores para aplicar estas alterações.
 content-blocking-reload-tabs-button =
     .label = Recarregar todos os separadores

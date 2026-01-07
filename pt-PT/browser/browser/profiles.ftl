@@ -176,6 +176,8 @@ heart-avatar-alt =
     .alt = Coração
 heart-rate-avatar-alt =
     .alt = Pulsação
+clock-avatar-alt =
+    .alt = Relógio
 leaf-avatar-alt =
     .alt = Folha
 lightbulb-avatar-alt =
@@ -198,6 +200,8 @@ present-avatar-alt =
     .alt = Presente
 shopping-avatar-alt =
     .alt = Carrinho de compras
+soccer-ball-avatar-alt =
+    .alt = Bola de futebol
 sparkle-single-avatar-alt =
     .alt = Brilho
 star-avatar-alt =
@@ -206,6 +210,9 @@ video-game-controller-avatar-alt =
     .alt = Controlador de jogos de vídeo
 custom-avatar-alt =
     .alt = Avatar personalizado
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = Globo
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = Diamante
@@ -218,13 +225,50 @@ bike-avatar-alt =
 
 book-avatar = Livro
 briefcase-avatar = Pasta
+clock-avatar = Relógio
+custom-avatar = Avatar personalizado
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = Diamante
 flower-avatar = Flor
+folder-avatar = Pasta
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = Globo
 heart-avatar = Coração
+heart-rate-avatar = Pulsação
+leaf-avatar = Folha
+lightbulb-avatar = Lâmpada
+makeup-avatar = Maquilhagem
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = Mensagem
+musical-note-avatar = Nota musical
+palette-avatar = Paleta
+paw-print-avatar = Pegada
+picture-avatar = Imagem
+plane-avatar = Avião
+# Present refers to a gift box, not the current time period
+present-avatar = Presente
 shopping-avatar = Carrinho de compras
+soccer-ball-avatar = Bola de futebol
+sparkle-single-avatar = Brilho
 star-avatar = Estrela
+video-game-controller-avatar = Controlador de jogos de vídeo
+custom-avatar-crop-back-button =
+    .aria-label = Voltar
+profiles-appmenu-callout-tour-title = O seu novo perfil está pronto
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = No menu ☰ toque no seu nome de perfil para criar outro, editar este, ou alternar entre as suas vidas digitais.
+profiles-appmenu-callout-tour-primary-button = Mostrar-me como
+barbell-avatar = Barra
+bike-avatar = Mota
 
 ## Tooltips for default avatar icons
 
+barbell-avatar-tooltip =
+    .tooltiptext = Aplicar avatar da barra
+bike-avatar-tooltip =
+    .tooltiptext = Aplicar avatar da mota
+book-avatar-tooltip =
+    .tooltiptext = Aplicar avatar do livro
 briefcase-avatar-tooltip =
     .tooltiptext = Aplicar avatar de mala
 picture-avatar-tooltip =
