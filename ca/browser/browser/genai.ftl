@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Elimina { $provider }
 genai-menu-remove-sidebar =
     .label = Elimina de la barra lateral
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Pregunta-ho a { $provider }
 genai-menu-new-badge = Nou
 genai-menu-summarize-page = Resumeix la pàgina
 genai-input-ask-generic =
@@ -225,9 +228,13 @@ link-preview-reading-time =
        *[other] { $range } minuts de temps de lectura
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = El { -brand-short-name } no pot previsualitzar aquest enllaç
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = No podem previsualitzar aquest enllaç
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visita l’enllaç
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = El { -brand-short-name } no pot generar punts clau per a aquesta pàgina web.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = No podem generar els punts clau d’aquesta pàgina web.
 # Error message when something went wrong during key point generation

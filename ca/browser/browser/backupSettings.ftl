@@ -128,6 +128,11 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Aquest fitxer no funciona
     .message = El fitxer que heu triat no l'ha creat el { -brand-short-name }. Trieu un altre fitxer i torneu-ho a provar.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = No s'ha pogut restaurar el { -brand-short-name }
+    .message = Reinicieu el { -brand-short-name } i proveu de tornar a restaurar la còpia de seguretat.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =

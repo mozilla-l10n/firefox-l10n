@@ -356,6 +356,11 @@ fxa-menu-message-mobile-collapsed-text = Sincronitzeu amb el telèfon
 multi-cta-fox-doodle-title = Ben tornat
 multi-cta-fox-doodle-set-default-checkbox = Defineix el { -brand-short-name } com a navegador per defecte
 multi-cta-fox-doodle-pin-startmenu-checkbox = Fixa el { -brand-short-name } al menú d’inici
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] Mantén el { -brand-short-name } al Dock
+       *[other] Fixa el { -brand-short-name } a la barra de tasques
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = Comença a navegar
 multi-cta-fox-doodle-main-browser-primary-button-label = Fes que el { -brand-short-name } sigui el meu navegador principal
 multi-cta-fox-doodle-quick-reminder-subtitle = Us volem recordar que podeu tenir el vostre navegador centrat en la privadesa preferit a un sol clic.
@@ -368,6 +373,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Tingueu el vostre navegador
 
 ## Windows 10 EoS Sync messages group 1 spotlight
 
+windows-10-eos-sync-spotlight-title = Actualitzaràs des del Windows 10 aviat?
 windows-10-eos-sync-spotlight-subtitle = Feu una còpia de seguretat de les contrasenyes i les adreces d'interès per a poder fer el salt a qualsevol dispositiu.
 windows-10-eos-sync-spotlight-primary-label = Feu una còpia de seguretat del { -brand-short-name }
 
@@ -427,5 +433,10 @@ set-default-menu-message-simple-layout-title-variant = El { -brand-short-name } 
 set-default-menu-message-row-layout-title = Feu que el { -brand-short-name } sigui el vostre navegador principal
 set-default-menu-message-row-layout-title-variant = Feu que el { -brand-short-name } sigui el navegador per defecte
 set-default-menu-message-row-layout-subtitle = Obteniu velocitat, seguretat i privadesa cada cop que navegueu.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Tingueu el { -brand-short-name } ben a mà: feu que sigui el navegador per defecte i tingueu-lo al Dock.
+       *[other] Tingueu el { -brand-short-name } ben a mà: feu que sigui el navegador per defecte i tingueu-lo a la barra de tasques.
+    }
 set-default-menu-message-primary-button = Estableix com a predeterminat
 set-default-menu-message-primary-button-variant = Estableix com a navegador principal

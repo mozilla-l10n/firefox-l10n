@@ -479,7 +479,12 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Feu l'actualització al Windows 11?
+    Fem una còpia de seguretat de les vostres dades del { -brand-product-name }.
 create-backup-screen-1-subtitle = Protegiu automàticament les contrasenyes, les adreces d'interès i més coses en 1 o 2 minuts.
+create-backup-screen-1-flair = Recomanat
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Més informació</a>
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Totes les dades
 # Preceded by a green check mark indicating that these are included in the "All data" backup
@@ -516,6 +521,7 @@ fx-backup-confirmation-screen-item-subtext-2 = El { -brand-short-name } buscarà
 
 restore-from-backup-secondary-top-button = Restaura des de la còpia de seguretat
 restore-from-backup-title = Recuperem el { -brand-short-name } tal com us agrada.
+restore-from-backup-subtitle = Recupereu totes les adreces d'interès, l'historial i altres dades per tornar a navegar.
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
