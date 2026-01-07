@@ -22,13 +22,19 @@ firefoxview-just-now-timestamp = هیم سکو
 firefoxview-tabpickup-header = پسند بلگه
 firefoxview-tabpickup-step-signin-primarybutton = رئڌن وا پؽش
 firefoxview-syncedtabs-signin-primarybutton-2 = و من ٱووڌن
+firefoxview-tabpickup-synctabs-primarybutton = هوم گوم کردن بلگه یل واز
 firefoxview-tabpickup-network-offline-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-sync-error-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-password-locked-link = قلوه دووسته بۊین
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">قلوه دووسته بۊین</a>
 firefoxview-tabpickup-signed-out-header = سی منپیز دووارته و من بیاین
 firefoxview-tabpickup-signed-out-primarybutton = و من ٱووڌن
+firefoxview-mobile-confirmation-header = 🎉 ٱماڌه هڌ!
 firefoxview-closed-tabs-title = هیم دمۊوی بسته وابیڌه
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = رذ کردن { $tabTitle }
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
@@ -133,8 +139,34 @@ firefoxview-history-site-localhost = (فایلا مهلی)
 
 firefoxview-show-all-history = نشوݩ داڌن پوی ویرگار
 
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = پسند گشت گر
+    .title = پسند گشت گر
+
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-connect-another-device = منپیز ی دسگا دیر
+firefoxview-pinned-tabs =
+    .title = بلگه یل دیسنیڌه وابیڌه
 firefoxview-tabs =
     .title = بلگه یل
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = آلشت و { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = آلشت و (نشووک ناهاڌه وابیڌه) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (نشووک ناهاڌه وابیڌه) { $url }

@@ -5,12 +5,28 @@
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = پاک کردن { $provider }
 genai-menu-new-badge = نۊ
+
+## Chatbot header
+
+genai-header-options-button =
+    .title = گۊشیڌن نومگه
+genai-header-close-button =
+    .title = بستن
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = بارونی دووارته { $provider }
 
 ## Chatbot onboarding
 
 genai-onboarding-primary = رئڌن وا پؽش
 genai-onboarding-secondary = بستن
+genai-onboarding-chatgpt-tooltip =
+    .title = ChatGPT
+genai-onboarding-chatgpt-learn = زبار ChatGPT قلوه دووسته بۊین
 genai-onboarding-copilot-tooltip =
     .title = Copilot
 genai-onboarding-copilot-learn = زبار Copilot قلوه دووسته بۊین
