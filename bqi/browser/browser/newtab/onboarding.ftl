@@ -104,6 +104,8 @@ onboarding-new-user-survey-familiarity-based-option-1 = مو کاملن تازه
 ## UI strings for the sidebar and vertical tabs
 
 onboarding-flair-text = نۊ!
+onboarding-genai-sidebar-primary-button = ی چت بات پسند کۊنین
+onboarding-genai-sidebar-secondary-button = ناهاڌن پا گشتن
 
 ## New user onboarding checklist
 
@@ -126,6 +128,7 @@ fx-backup-confirmation-screen-close-button = بستن
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-with-checklist-primary-button = زفت کردن وو رئڌن وا پؽش
 restored-from-backup-success-no-checklist-primary-button = رئڌن وا پؽش
 restored-from-backup-error-primary-button = بستن
 

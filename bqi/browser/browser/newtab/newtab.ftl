@@ -107,16 +107,40 @@ newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دوو�
 ## Pocket Content Section.
 
 newtab-pocket-learn-more = قلوه دووسته بۊین
+newtab-pocket-save = زفت
+newtab-pocket-saved = زفت وابی
 
 ## Customization Menu
 
 newtab-custom-shortcuts-title = ر نهنگا
 newtab-custom-sponsored-sites = ر نهنگا هؽزگرووݩ
+newtab-custom-stories-personalized-toggle =
+    .label = داستانا
+newtab-custom-widget-timer-toggle =
+    .label = زمووݩ سنج
+newtab-custom-widget-section-title = ویجتا
+newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = کاقز دیواری یل
+newtab-wallpaper-custom-color = ی رنگ پسند کۊنین
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = رنگا سابت
+newtab-wallpaper-blue = کوۊ
+newtab-wallpaper-green = ساوز
+newtab-wallpaper-red = سوئر
 
 ## Firefox
 
+newtab-wallpaper-feature-highlight-header = رنگا شاڌ ن امتهووݩ کۊنین
 newtab-wallpaper-feature-highlight-button = فئمیم
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## Firefox
 
@@ -134,6 +158,10 @@ newtab-wallpaper-celestial-starry-sky = آسمووݩ پور آستاره
 
 ## New Tab Weather
 
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = ساڌه
 newtab-weather-menu-weather-display-option-detailed = جۊزعیات
 newtab-weather-menu-change-weather-display-detailed = آلشت و هالت نیشتن جۊزعیات
 newtab-weather-menu-temperature-units = واهدا دما
