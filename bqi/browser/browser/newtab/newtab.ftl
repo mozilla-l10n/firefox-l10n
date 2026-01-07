@@ -6,26 +6,47 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بلگه نۊ
+newtab-customize-panel-icon-button-label = سفارشی کردن
 newtab-settings-dialog-label =
     .aria-label = سامووا
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
+
+## Search box component.
+
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
+newtab-search-box-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
+newtab-search-box-text = پیتینیڌن من وب
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = ٱووردن موتور پیتینیڌن
 newtab-topsites-add-shortcut-header = ر نهنگ نۊ
 newtab-topsites-edit-shortcut-header = آلشت ر نهنگ
 newtab-topsites-add-shortcut-label = ٱووردن ر نهنگ
 newtab-topsites-add-shortcut-title =
     .title = ٱووردن ر نهنگ
     .aria-label = ٱووردن ر نهنگ
+newtab-topsites-title-label = عونوان
+newtab-topsites-url-label = نشۊوی اینترنتی
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = لقو
+newtab-topsites-delete-history-button = پاک کردن ز ویرگار
+newtab-topsites-save-button = زفت
+newtab-topsites-add-button = ٱووردن
 
 ## Top Sites - Delete history confirmation dialog.
 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ای کار وورگندنی نؽ.
+
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = هؽزگری وابیڌه
 
 ## Context Menu - Action Tooltips.
 
@@ -39,6 +60,8 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = آلشت
 newtab-menu-open-new-window = گۊشیڌن من ی نیمدری نۊ
 newtab-menu-open-new-private-window = گۊشیڌن من ی نیمدری سیخومی نۊ
+newtab-menu-dismiss = رڌ کردن
+newtab-menu-pin = Pin
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = گوزارش
 
@@ -52,10 +75,34 @@ newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا 
 # Bookmark is a verb here.
 newtab-menu-bookmark = نشووک
 
+## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
+## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
+## system for each operating system.
+
+newtab-menu-open-file = گۊشیڌن فایل
+
+## Card Labels: These labels are associated to pages to give
+## context on how the element is related to the user, e.g. type indicates that
+## the page is bookmarked, or is currently open on another device.
+
+newtab-label-saved = من { -pocket-brand-name } زفت وابیڌه
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = هؽزگری وابیڌه
+
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-manage-webext = دؽوۉداری وردنی
+newtab-section-menu-add-search-engine = ٱووردن موتور پیتینیڌن
+newtab-section-menu-privacy-notice = نوکات زفت مهرموویی
+
+## Section Headers.
+
+newtab-section-header-stories = داستانا فرگ کردنی
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
 
 ## Pocket Content Section.
 
