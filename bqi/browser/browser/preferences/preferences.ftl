@@ -15,10 +15,29 @@ settings-page-title = سامووا
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = جوستن من سامووا
+pane-general-title = پوی وولاتی
+category-general =
+    .tooltiptext = { pane-general-title }
 pane-home-title = هووه
 category-home =
     .tooltiptext = { pane-home-title }
+pane-search-title = پیتینیڌن
+category-search =
+    .tooltiptext = { pane-search-title }
+pane-privacy-title = هریم سیخومی وو ٱمنیت
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = هوم گوم کردن
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-category-labs =
+    .tooltiptext = { -firefoxlabs-brand-name }
 addons-button-label = وردنی یل وو زمینه یل
+focus-search =
+    .key = f
+close-button =
+    .aria-label = بستن
 
 ## Browser Restart Dialog
 
@@ -41,7 +60,55 @@ browser-containers-settings =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زووݩ وو شؽوات
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-colors-header = رنگا
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header2 =
+    .label = گپ نمایی
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = گپ نمایی
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage }٪
 language-header = زووݩ
+
+## General Section - Files and Applications
+
+downloads-header-2 =
+    .label = دانلودا
+# Variables:
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
 
 ##
 
