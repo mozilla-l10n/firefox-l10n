@@ -652,6 +652,12 @@ home-custom-homepage-no-websites-yet = Ainda não foram adicionados sites.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Substituir por
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Páginas atualmente abertas
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Marcadores…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -659,11 +665,15 @@ home-prefs-content-header2 = Conteúdo { -firefox-home-brand-name }
 home-prefs-content-description2 = Escolha que conteúdo deseja no seu ecrã inicial do { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Pesquisa Web
+home-prefs-search-header2 =
+    .label = Pesquisar
 home-prefs-shortcuts-header =
     .label = Atalhos
 home-prefs-shortcuts-description = Sites que guarda ou visita
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atalhos patrocinados
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -673,6 +683,9 @@ home-prefs-recommended-by-description-new = Conteúdo excecional com curadoria d
 home-prefs-recommended-by-header-generic =
     .label = Histórias recomendadas
 home-prefs-recommended-by-description-generic = Conteúdo excecional com curadoria da família { -brand-product-name }
+home-prefs-stories-header =
+    .label = Histórias
+home-prefs-stories-description = Histórias personalizadas baseadas na sua atividade
 
 ##
 
@@ -703,11 +716,18 @@ home-prefs-weather-header =
     .label = Meteorologia
 home-prefs-weather-description = Um relance da previsão para hoje
 home-prefs-weather-learn-more-link = Saber mais
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoiar o { -brand-product-name }
 home-prefs-mission-message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
 home-prefs-mission-message-learn-more-link = Descubra como
+home-prefs-manage-topics-link = Gerir tópicos
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
