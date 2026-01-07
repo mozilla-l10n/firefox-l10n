@@ -25,6 +25,7 @@ firefox-relay-opt-in-title-2 = Obtenha uma máscara de correio eletrónico gratu
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Utilizar a máscara de e-mail { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Utilize uma máscara de correio eletrónico
+firefox-relay-opt-in-subtitle-2 = Proteja a sua caixa de entrada do lixo eletrónico
 firefox-relay-use-mask-title = Utilizar a máscara de e-mail { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Impeça spam com uma máscara de e-mail gratuita
@@ -74,6 +75,7 @@ firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Obter uma máscara de e-mail gratuita
 firefox-relay-and-fxa-popup-notification-first-sentence-with-domain = Proteja a sua caixa de entrada de spam utilizando uma <label data-l10n-name="firefox-relay-learn-more-url">máscara de e-mail</label> gratuita para ocultar o seu endereço real. As mensagens <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste site</label> vão continuar a chegar à sua caixa de entrada, mas com o seu e-mail oculto.
+firefox-relay-and-fxa-popup-notification-first-sentence = Proteja a sua caixa de entrada de spam utilizando uma <label data-l10n-name="firefox-relay-learn-more-url">máscara de e-mail { -relay-brand-name }</label> gratuita para ocultar o seu endereço real. As mensagens <label data-l10n-name="firefox-fxa-and-relay-offer-domain">deste site</label> vão continuar a chegar à sua caixa de entrada, mas com o seu e-mail oculto.
 firefox-relay-and-fxa-popup-notification-second-sentence-with-domain = Primeiro, registe-se ou inicie sessão na sua conta para utilizar uma máscara de e-mail
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
     .label = Registar

@@ -231,3 +231,5 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Criada a { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }
+restore-from-backup-filepicker-input =
+    .placeholder = Nenhum ficheiro selecionado

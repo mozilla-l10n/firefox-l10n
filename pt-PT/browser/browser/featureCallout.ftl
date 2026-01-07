@@ -122,6 +122,7 @@ taskbar-tabs-email-callout-title = Mantenha o seu correio eletrónico na sua bar
 taskbar-tabs-email-callout-subtitle = Inicie o seu correio eletrónico como uma aplicação numa janela simplificada protegida pelo { -brand-short-name }.
 taskbar-tabs-media-callout-title = Volte ao streaming a partir da sua barra de tarefas
 taskbar-tabs-media-callout-subtitle = Inicie os seus sites de streaming como uma aplicação numa janela simplificada e protegida pelo { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title = Adicionar este site à sua barra de tarefas
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -132,6 +133,7 @@ windows-10-eos-sync-urgency-subtitle-2 = Mesmo que não utilize o { -brand-short
 windows-10-eos-sync-new-device-title-1 = Não corra o risco de começar do zero no seu próximo dispositivo.
 windows-10-eos-sync-new-device-subtitle-1 = Sincronize para levar os seus marcadores, palavras-passe e definições preferidas do { -brand-short-name } consigo quando mudar.
 windows-10-eos-sync-new-device-title-2 = A mudar para um novo dispositivo? Não perca o que é importante.
+windows-10-eos-sync-new-device-primary-label = Sincronizar agora
 windows-10-eos-sync-tour-title-1 = Demasiados separadores? Organize com grupos de separadores.
 windows-10-eos-sync-tour-subtitle-1 = Arraste um separador sobre o outro para criar um grupo e manter as coisas organizadas.
 windows-10-eos-sync-tour-title-2 = Organize-se para o Windows 11.

@@ -1480,6 +1480,13 @@ trustpanel-blocker-see-all = Ver tudo
 trustpanel-blocker-header =
     .title = Proteções de rastreamento para { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Não seguro
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1511,4 +1518,5 @@ trustpanel-list-label-cryptominer =
        *[other] { $count } criptomineradores
     }
 trustpanel-tracking-content-tab-list-header = Estes sites estão a tentar monitorizá-lo:
+trustpanel-fingerprinter-list-header = Estes sites estão a tentar identificá-lo:
 trustpanel-cryptominer-tab-list-header = Estes sites estão a tentar criptominerar:
