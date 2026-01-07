@@ -36,6 +36,8 @@ media-tab =
     .accesskey = M
 media-location =
     .value = جاگه:
+help-button =
+    .label = هیاری
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -44,3 +46,10 @@ media-location =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-cookies-only = هری، کۊکیا
+security-site-data-no = ن
+
+##
+
+saved-passwords-yes = هری
+saved-passwords-no = ن
+security-no-visits = ن

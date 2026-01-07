@@ -5,3 +5,13 @@
 containers-dialog =
     .buttonlabelaccept = ٱنجوم وابی
     .buttonaccesskeyaccept = D
+containers-color-blue =
+    .label = کوۊ
+containers-color-green =
+    .label = ساوز
+containers-color-red =
+    .label = سوئر
+containers-color-purple =
+    .label = بناوش
+containers-icon-food =
+    .label = غزا
