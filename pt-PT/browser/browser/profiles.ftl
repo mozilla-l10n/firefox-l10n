@@ -225,6 +225,40 @@ star-avatar = Estrela
 
 ## Tooltips for default avatar icons
 
+briefcase-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de mala
+picture-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de imagem
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de globo
+diamond-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de diamante
+flower-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de flor
+folder-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de pasta
+hammer-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de martelo
+heart-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de coração
+heart-rate-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de pulsação
+clock-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de relógio
+leaf-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de folha
+lightbulb-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de lâmpada
+makeup-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de maquilhagem
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de mensagem
+musical-note-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de nota musical
+palette-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de paleta
 paw-print-avatar-tooltip =
     .tooltiptext = Aplicar avatar pegada
 plane-avatar-tooltip =

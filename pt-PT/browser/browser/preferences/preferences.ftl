@@ -1266,7 +1266,13 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e dados de sites
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = A calcular tamanho dos dados de sites e cache…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Os seus cookies, histórico, dados de sites e cache estão atualmente a utilizar <strong>{ $value } { $unit }</strong> de espaço em disco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1293,6 +1299,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Rastreadores entre sites
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies de monitorização entre sites
+sitedata-option-block-cross-site-cookies2 =
+    .label = Isolar cookies inter-sites
 sitedata-option-block-cross-site-cookies =
     .label = Cookies de monitorização cruzadas entre sites e isolar outras cookies cruzadas entre sites
 sitedata-option-block-unvisited =
@@ -1301,6 +1309,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Todos os cookies cruzados (pode fazer com que alguns sites deixem de funcionar)
 sitedata-option-block-all =
     .label = Todos os cookies (irá resultar na falha de sites)
+sitedata-clear2 =
+    .label = Limpar os dados de navegação
+    .accesskey = L
+sitedata-settings2 =
+    .label = Gerir os dados de navegação
+    .accesskey = G
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
@@ -1310,6 +1324,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gerir exceções…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Gerir exceções
+    .accesskey = x
+    .description = Pode especificar que sites que estão, sempre ou nunca, autorizados a utilizar os cookies e os dados de sites.
 
 ## Privacy Section - Cookie Banner Handling
 

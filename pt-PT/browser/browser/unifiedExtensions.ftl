@@ -11,6 +11,10 @@
 unified-extensions-header-title = Extensões
 unified-extensions-manage-extensions =
     .label = Gerir extensões
+unified-extensions-discover-extensions =
+    .label = Descobrir extensões
+unified-extensions-empty-reason-private-browsing-not-allowed = Tem extensões instaladas, mas não ativadas, nas janelas privadas
+unified-extensions-empty-reason-extension-not-enabled = Tem extensões instaladas, mas não ativadas
 
 ## An extension in the main list
 
