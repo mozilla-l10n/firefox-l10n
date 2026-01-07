@@ -15,6 +15,10 @@ cfr-doorhanger-extension-notification2 = پؽشنهاڌ
     .tooltiptext = وردنی پؽشنهاڌی
     .a11y-announcement = وردنی پؽشنهاڌی من دسرس هڌ
 
+## Mozilla Account messages
+
+fxa-adoption-primary-button-label = سبت نوم
+
 ## Protections panel
 
 cfr-protections-panel-link-text = قلوه دووسته بۊین
@@ -27,6 +31,10 @@ cfr-badge-reader-label-newfeature = ویژیی یل نۊ
 cfr-whatsnew-button =
     .label = چ چیه نۊ هڌ
     .tooltiptext = چ چیه نۊ هڌ
+
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-secondarybutton = گوم زیڌن
 
 ## Cookie Banner Handling CFR
 
