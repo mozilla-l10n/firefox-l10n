@@ -51,4 +51,4 @@ site-data-removing-desc = Remover cookies e dados de sites pode terminar a sess�
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Remover cookies e dados dos sites pode fazer com a sua sessão nos sites seja terminada. Tem a certeza que deseja remover cookies e dados do site <strong>{ $baseDomain }</strong>?
-site-data-removing-table = Serão removidas as cookies e os dados dos seguintes sites
+site-data-removing-table = Serão removidos os cookies e os dados dos seguintes sites
