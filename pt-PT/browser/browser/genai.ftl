@@ -240,6 +240,21 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Ativar pré-visualizações de ligações
     .description = Veja o título, descrição e mais informações da página quando utiliza um atalho ou utiliza menu de contexto numa ligação.
+link-preview-settings-long-press =
+    .label = Atalho: clique e mantenha a ligação pressionada durante 1 segundo (toque longo)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Ver mais com a IA?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Novo: clique e aguarde em qualquer ligação para uma pré-visualização
+# Header for the key points section
+link-preview-key-points-header = Pontos chave
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Os pontos chave são gerados pela IA e podem conter erros.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Primeira configuração • <strong>{ $progress }%</strong>
+# Onboarding card See a preview button
+link-preview-onboarding-button = Ver uma pré-visualização
 # Onboarding card Close button
 link-preview-onboarding-close = Fechar
 # Title for the first-time setup modal

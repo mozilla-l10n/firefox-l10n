@@ -569,6 +569,7 @@ newtab-custom-wallpaper-cta = Experimentar
 
 newtab-new-user-custom-wallpaper-title = Escolha um fundo para tornar o { -brand-product-name } seu
 newtab-new-user-custom-wallpaper-subtitle = Dê um toque pessoal a cada novo separador com fundos e cores à sua escolha.
+newtab-new-user-custom-wallpaper-cta = Experimentar agora
 
 ## Strings for download mobile highlight
 
@@ -610,13 +611,23 @@ newtab-toast-thanks-for-reporting =
 
 ## Strings for task / to-do list productivity widget
 
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = As possibilidades são ilimitadas. Adicionar uma.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Nova
 newtab-widget-lists-label-beta =
     .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Concluídas ({ $number })
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar nome da lista
+newtab-widget-lists-menu-create = Criar uma nova lista
+newtab-widget-lists-menu-delete = Eliminar esta lista
+newtab-widget-lists-menu-copy = Copiar lista para a área de transferência
+newtab-widget-lists-menu-hide = Ocultar todas as listas
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
