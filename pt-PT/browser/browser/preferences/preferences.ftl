@@ -1347,6 +1347,9 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Barra de endereço
+addressbar-suggest-1 = Escolha quais as sugestões a mostrar na sua barra de endereço
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Ao utilizar a barra de endereço, sugerir
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de endereço — { -firefox-suggest-brand-name }
@@ -1374,6 +1377,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Principais sites
     .accesskey = t
+addressbar-locbar-engines-option-1 =
+    .label = Sugerir os motores de pesquisa a utilizar
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Motores de pesquisa
     .accesskey = a
@@ -1449,6 +1455,7 @@ content-blocking-private-windows = Conteúdo de monitorização nas janelas priv
 content-blocking-cross-site-cookies-in-all-windows2 = Cookies entre sites em todas as janelas
 content-blocking-cross-site-tracking-cookies = Cookies de monitorização entre sites
 content-blocking-all-cross-site-cookies-private-windows = Cookies entre sites em janelas privadas
+content-blocking-isolate-cross-site-cookies = Isolar cookies cruzados
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies cruzados de rastreamento e isolamento dos cookies remanescentes
 content-blocking-social-media-trackers = Rastreadores de redes sociais
 content-blocking-all-cookies = Todos os cookies
@@ -1471,6 +1478,9 @@ content-blocking-etp-standard-tcp-title = Inclui a Proteção Total de Cookies, 
 content-blocking-warning-title = Atenção!
 content-blocking-and-isolating-etp-warning-description-2 = Esta definição pode fazer com que alguns sites não mostrem o conteúdo ou que não funcionem corretamente. Se um site parecer com problemas, pode querer desativar a proteção contra a monitorização para esse site para carregar todo o conteúdo.
 content-blocking-warning-learn-how = Saiba como
+content-blocking-baseline-exceptions-3 =
+    .label = Corrigir os principais problemas dos sites (recomendado)
+    .description = Ajuda a carregar os sites e as funcionalidades desbloqueando apenas os elementos essenciais que podem conter rastreadores. Abrange os problemas mais comuns.
 content-blocking-reload-description = Irá precisar de recarregar os seus separadores para aplicar estas alterações.
 content-blocking-reload-tabs-button =
     .label = Recarregar todos os separadores
