@@ -13,6 +13,8 @@ global-privacy-control-description =
     .label = Dizer aos sites para não venderem ou partilharem os meus dados
     .accesskey = s
 non-technical-privacy-header = Preferências de Privacidade do Site
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -111,6 +113,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Para ativar esta extensão vá a <img data-l10n-name="addons-icon"/> Extras no menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Para reativar esta extensão visite <a data-l10n-name="addons-link">Extensões e temas</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controla algumas das definições da sua página inicial.
 
 ## Preferences UI Search Results
 
@@ -174,6 +180,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir ligações em novos separadores em vez de novas janelas
     .accesskey = j
+open-external-link-next-to-active-tab =
+    .label = Abrir as ligações das aplicações ao lado do seu separador ativo
 ask-on-close-multiple-tabs =
     .label = Questionar antes de fechar múltiplos separadores
     .accesskey = m
@@ -269,6 +277,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Escuro
     .title = Utilizar um aspeto escuro para fundos e conteúdo de websites.
+web-appearance-group =
+    .aria-label = Aparência do site
 preferences-web-appearance-choice-auto = Automático
 preferences-web-appearance-choice-light = Claro
 preferences-web-appearance-choice-dark = Escuro
@@ -609,6 +619,7 @@ home-new-windows-tabs-description2 = Escolha o que vê quando abre a sua página
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página inicial e novas janelas
+home-homepage-mode-label2 = Novas janelas
 home-newtabs-mode-label = Novos separadores
 home-homepage-new-tabs =
     .label = Novos separadores
@@ -623,6 +634,11 @@ home-mode-choice-blank =
     .label = Página em branco
 home-homepage-custom-url =
     .placeholder = Cole um URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gerir extensão
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Escolha um site específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -637,6 +653,7 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+home-homepage-header = Página inicial
 
 ## Custom Homepage subpage
 
@@ -728,6 +745,7 @@ home-prefs-support-firefox-header =
 home-prefs-mission-message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
 home-prefs-mission-message-learn-more-link = Descubra como
 home-prefs-manage-topics-link = Gerir tópicos
+home-prefs-choose-wallpaper-link = Escolha um fundo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1165,6 +1183,28 @@ autofill-saved-payment-methods-button = Métodos de pagamento guardados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requerer o início de sessão no dispositivo para preencher e gerir métodos de pagamento
     .accesskey = o
+autofill-payment-methods-title = Métodos de pagamento
+autofill-payment-methods-header =
+    .aria-label = Métodos de pagamento
+autofill-payment-methods-checkbox-message-2 =
+    .label = Guardar e preencher automaticamente as informações de pagamento
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Gerir os métodos de pagamento
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Exigir início de sessão do dispositivo para o preenchimento automaticamente e gerir métodos de pagamento
+    .accesskey = E
+autofill-addresses-title = Endereços e mais
+autofill-addresses-header =
+    .aria-label = Endereços e mais
+autofill-addresses-checkbox-message =
+    .label = Guardar e autopreencher os endereços
+    .accesskey = G
+autofill-addresses-manage-addresses-button =
+    .label = Gerir endereços e mais
+    .accesskey = m
 
 ## Privacy Section - History
 

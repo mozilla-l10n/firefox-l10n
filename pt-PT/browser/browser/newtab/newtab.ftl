@@ -628,14 +628,47 @@ newtab-widget-lists-menu-create = Criar uma nova lista
 newtab-widget-lists-menu-delete = Eliminar esta lista
 newtab-widget-lists-menu-copy = Copiar lista para a área de transferência
 newtab-widget-lists-menu-hide = Ocultar todas as listas
+newtab-widget-lists-menu-learn-more = Saber mais
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Adicionar um item
+newtab-widget-lists-input-error = Por favor, inclua texto para adicionar um item.
+newtab-widget-lists-input-menu-open-link = Abrir ligação
+newtab-widget-lists-input-menu-move-up = Mover para cima
+newtab-widget-lists-input-menu-move-down = Mover para baixo
+newtab-widget-lists-input-menu-delete = Eliminar
+newtab-widget-lists-input-menu-edit = Editar
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Criar uma nova lista
+newtab-widget-lists-name-label-default =
+    .label = Lista de tarefas
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Lista de tarefas
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Nova lista
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
+newtab-widget-timer-notification-title = Temporizador
+newtab-widget-timer-notification-focus = O tempo de concentração terminou. Excelente trabalho. Quer fazer uma pausa?
+newtab-widget-timer-notification-break = A sua pausa terminou. Pronto para se concentrar?
+newtab-widget-timer-notification-warning = As notificações estão desativadas
+newtab-widget-timer-mode-focus =
+    .label = Concentração
+newtab-widget-timer-mode-break =
+    .label = Pausa
 newtab-widget-timer-label-play =
     .label = Reproduzir
 newtab-widget-timer-label-pause =
     .label = Pausar
+newtab-widget-timer-reset =
+    .title = Repor
+newtab-widget-timer-menu-notifications = Desativar as notificações
+newtab-widget-timer-menu-notifications-on = Ativar as notificações
+newtab-widget-timer-menu-hide = Ocultar temporizador
+newtab-widget-timer-menu-learn-more = Saber mais
 newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador integrado
 newtab-promo-card-title = Apoiar o { -brand-product-name }
 newtab-promo-card-body = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
