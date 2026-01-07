@@ -1347,6 +1347,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Defnyddio Prif Gyfrinair
     .accesskey = P
+forms-primary-pw-use-2 =
+    .label = Defnyddiwch brif gyfrinair
+    .description = Yn ychwanegu haen ychwanegol o ddiogelwch i amddiffyn eich cyfrineiriau wedi'u cadw.
+    .accesskey = D
 forms-primary-pw-set =
     .label = Gosod y prif gyfrinair
 forms-primary-pw-on =
@@ -1359,6 +1363,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Gofyn am fewngofnodi dyfais i lenwi a rheoli cyfrineiriau
+forms-os-reauth-2 =
+    .label = Gofyn am fewngofnodi dyfais i reoli cyfrineiriau
 forms-primary-pw-learn-more-link = Darllen rhagor
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
