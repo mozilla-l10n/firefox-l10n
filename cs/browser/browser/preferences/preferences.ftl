@@ -2266,8 +2266,8 @@ certs-devices =
 certs-thirdparty-toggle =
     .label =
         { -brand-short-name.case-status ->
-            [with-cases] Povolit { -brand-short-name(case: "gen") } automatickou důvěru v nainstalované kořenové certifikáty třetích stran, které nainstalujete.
-           *[no-cases] Povolit aplikaci { -brand-short-name } automatickou důvěru v nainstalované kořenové certifikáty třetích stran, které nainstalujete.
+            [with-cases] Povolit { -brand-short-name(case: "gen") } automaticky důvěřovat kořenovým certifikátům třetích stran, které nainstalujete
+           *[no-cases] Povolit aplikaci { -brand-short-name } automaticky důvěřovat kořenovým certifikátům třetích stran, které nainstalujete
         }
     .accesskey = P
 certs-devices-enable-fips = Povolit FIPS
