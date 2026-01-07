@@ -42,7 +42,7 @@ graph-legend-description = Um gráfico contendo o número total de cada tipo de 
 social-tab-title = Rastreadores de redes sociais
 social-tab-contant = As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais. <a data-l10n-name="learn-more-link">Saber mais</a>
 cookie-tab-title = Cookies de monitorização entre sites
-cookie-tab-content = Estas cookies seguem-no entre vários sites para recolher dados sobre o que faz na Internet. São definidas por terceiros, como anunciantes ou empresas de análise. O bloqueio de cookies de rastreamento entre sites reduz o número de anúncios que o seguem. <a data-l10n-name="learn-more-link">Saber mais</a>
+cookie-tab-content = Estes cookies seguem-no de site em site para recolher dados sobre o que faz na Internet. São definidos por terceiros, como anunciantes ou empresas de análise. O bloqueio de cookies cruzados de rastreamento reduz o número de anúncios que o seguem. <a data-l10n-name="learn-more-link">Saber mais</a>
 tracker-tab-title = Monitorização de conteúdo
 tracker-tab-description = Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar. <a data-l10n-name="learn-more-link">Saber mais</a>
 fingerprinter-tab-title = Identificadores

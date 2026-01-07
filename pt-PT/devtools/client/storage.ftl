@@ -110,8 +110,8 @@ storage-idb-delete-error = A base de dados “{ $dbName }” não pode ser apaga
 # Error notification when cookie could not be created (e.g. because it's invalid).
 # Variables:
 #   $errorString (String) - Platform error message
-storage-cookie-create-error = Não foi possível criar a cookie: “{ $errorString }”.
+storage-cookie-create-error = Não foi possível criar o cookie: “{ $errorString }”.
 # Error notification when cookie could not be edited (e.g. because it's invalid).
 # Variables:
 #   $errorString (String) - Platform error message
-storage-cookie-edit-error = Não foi possível atualizar a cookie: “{ $errorString }”.
+storage-cookie-edit-error = Não foi possível atualizar o cookie: “{ $errorString }”.

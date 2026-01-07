@@ -23,7 +23,7 @@ experimental-features-devtools-compatibility-panel-description = Um painel later
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Cookies: SameSite=None requer atributo seguro
-experimental-features-cookie-samesite-none-requires-secure2-description = As cookies com o atributo "SameSite=None" requerem o atributo seguro. Este recurso requer "Cookies: SameSite=Lax por predefinição".
+experimental-features-cookie-samesite-none-requires-secure2-description = Os cookies com o atributo "SameSite=None" requerem o atributo seguro. Este recurso requer "Cookies: SameSite=Lax por predefinição".
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
