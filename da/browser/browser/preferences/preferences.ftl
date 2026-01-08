@@ -1013,6 +1013,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-group-label =
+    .label = { -vendor-short-name }-konto
 account-placeholder =
     .label = Du er ikke logget ind
     .description = Log ind for at synkronisere dine data sikkert og krypteret på tværs af enheder
@@ -1329,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Benyt en hovedadgangskode
     .accesskey = B
+forms-primary-pw-use-2 =
+    .label = Brug en hovedadgangskode
+    .description = Tilføjer et ekstra lag af sikkerhed for at beskytte dine gemte adgangskoder.
+    .accesskey = B
 forms-primary-pw-set =
     .label = Indstil hovedadgangskode
 forms-primary-pw-on =
@@ -1341,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Kræv login på enhed for at udfylde og håndtere adgangskoder
+forms-os-reauth-2 =
+    .label = Kræv login på enhed for at håndtere adgangskoder
 forms-primary-pw-learn-more-link = Læs mere
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1419,6 +1427,9 @@ payments-list-item-label = <strong>Betalingsmetoder</strong>
 payments-delete-payment-prompt-title = Slet denne betalingsmetode?
 payments-delete-payment-prompt-confirm-button = Slet
 payments-delete-payment-prompt-cancel-button = Annuller
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Ingen betalingsmetoder tilføjet
 payments-remove-payment-prompt-title = Fjern denne betalingsmetode?
 payments-remove-payment-prompt-confirm-button = Fjern
 payments-remove-payment-prompt-cancel-button = Annuller
@@ -1443,6 +1454,9 @@ addresses-delete-address-prompt-cancel-button = Annuller
 autofill-addresses-add-button = Tilføj ny adresse
 autofill-addresses-manage-addresses-title =
     .heading = Håndter adresser med mere
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Ingen adresser tilføjet
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1686,6 +1700,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Afviste forslag
     .description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Gendan forslag
 addressbar-quickactions-learn-more = Læs mere
 addressbar-dismissed-suggestions-label = Afviste forslag
 addressbar-restore-dismissed-suggestions-description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.
