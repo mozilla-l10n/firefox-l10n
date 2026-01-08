@@ -35,3 +35,5 @@ customkeys-nav-reload = โหลดใหม่
 customkeys-nav-reload-skip-cache = โหลดใหม่ (แทนที่แคช)
 customkeys-nav-stop = หยุด
 customkeys-caution-message = คุณลักษณะนี้ยังอยู่ในขั้นทดลองและอาจไม่ทำงานอย่างที่คาดหวัง
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = ไม่ถูกต้อง
