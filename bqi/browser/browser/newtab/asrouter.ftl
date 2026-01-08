@@ -32,6 +32,11 @@ cfr-whatsnew-button =
     .label = چ چیه نۊ هڌ
     .tooltiptext = چ چیه نۊ هڌ
 
+## Firefox View CFR
+
+firefoxview-cfr-secondarybutton = سکو ن
+    .accesskey = N
+
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-secondarybutton = گوم زیڌن
@@ -103,6 +108,11 @@ multi-cta-fox-doodle-start-browsing-primary-button-label = ناهاڌن پا گ�
 
 windows-10-eos-sync-toast-primary-label = ناهاڌن پا کار
 windows-10-eos-sync-toast-secondary-label = دینداتر وا ویروم بیار
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-next-button = بئڌی
+windows-10-eos-sync-callout-get-started-button = ناهاڌن پا کار
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
