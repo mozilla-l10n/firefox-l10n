@@ -21,8 +21,14 @@ backup-folder-name = Pulihkan { -brand-product-name }
 backup-file-name = { -brand-product-name }Cadangan
 settings-data-backup-header = Cadangan
 settings-data-backup-toggle = Kelola cadangan
+settings-data-backup-toggle-on = Aktifkan pencadangan
+settings-data-backup-toggle-off = Matikan pencadangan
 settings-data-backup-trigger-button = Cadangkan sekarang
 settings-data-backup-in-progress-button = Pencadangan sedang berlangsung…
+settings-data-backup-in-progress-message =
+    .message = Pencadangan sedang berlangsung…
+settings-data-backup-scheduled-backups-on = Cadangan: AKTIF
+settings-data-backup-scheduled-backups-off = Cadangan: NONAKTIF
 settings-data-backup-scheduled-backups-description = Secara otomatis melindungi markah, riwayat, dan data lainnya. <a data-l10n-name="support-link">Pelajari lebih lanjut</a>
 settings-data-backup-last-backup-date = Cadangan terakhir: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
@@ -30,6 +36,7 @@ settings-data-backup-last-backup-location = Lokasi
 settings-data-backup-last-backup-location-show-in-folder = Tampilkan di folder
 settings-data-backup-last-backup-location-edit = Sunting…
 settings-data-create-backup-error = Terjadi kesalahan saat membuat cadangan Anda pada { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Cadangkan kata sandi dan metode pembayaran Anda, plus simpan semua data Anda dengan enkripsi.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nama berkas: { $fileName }
@@ -86,3 +93,43 @@ turn-off-scheduled-backups-confirm-button = Matikan dan hapus cadangan
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Pulihkan data Anda
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Ini akan mengganti semua data { -brand-short-name } Anda saat ini dengan cadangan Anda dari { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = Apa yang akan dipulihkan?
+restore-from-backup-no-backup-file-link = Mengalami masalah dalam menemukan cadangan Anda?
+restore-from-backup-filepicker-label = Berkas cadangan
+restore-from-backup-filepicker-title = Pilih Berkas Cadangan:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Pilih...
+       *[other] Ramban...
+    }
+restore-from-backup-password-label = Kata sandi
+restore-from-backup-password-description = Ini membuka cadangan terenkripsi Anda.
+restore-from-backup-cancel-button = Batal
+restore-from-backup-confirm-button = Pulihkan dan mulai ulang
+restore-from-backup-restoring-button = Memulihkan…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Sandi salah. <a data-l10n-name="incorrect-password-support-link">Masih mengalami masalah?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Berkas ini tidak berfungsi
+    .message = Terdapat masalah dengan berkas cadangan Anda. Pilih berkas lain dan coba lagi.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Berkas ini tidak berfungsi
+    .message = Berkas yang Anda pilih tidak kompatibel dengan versi { -brand-short-name } ini. Pilih berkas lain dan coba lagi.
