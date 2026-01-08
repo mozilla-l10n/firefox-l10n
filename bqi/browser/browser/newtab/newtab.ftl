@@ -164,9 +164,15 @@ newtab-custom-shortcuts-title = ر نهنگا
 newtab-custom-sponsored-sites = ر نهنگا هؽزگرووݩ
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
+newtab-custom-widget-lists-toggle =
+    .label = نومگه یل
 newtab-custom-widget-timer-toggle =
     .label = زمووݩ سنج
 newtab-custom-widget-section-title = ویجتا
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = بستن
+    .aria-label = بستن نومگه
 newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
 
@@ -179,8 +185,13 @@ newtab-wallpaper-custom-color = ی رنگ پسند کۊنین
 
 newtab-wallpaper-category-title-colors = رنگا سابت
 newtab-wallpaper-blue = کوۊ
+newtab-wallpaper-light-blue = کوۊ رۊشن
+newtab-wallpaper-light-purple = بناوش رۊشن
+newtab-wallpaper-light-green = ساوز رۊشن
 newtab-wallpaper-green = ساوز
+newtab-wallpaper-beige = بژ
 newtab-wallpaper-red = سوئر
+newtab-wallpaper-dark-blue = کوۊ تاریک
 
 ## Firefox
 
