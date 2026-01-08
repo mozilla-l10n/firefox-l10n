@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = A(z) { $provider } eltávolítása
 genai-menu-remove-sidebar =
     .label = Eltávolítás az oldalsávról
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = A(z) { $provider } megkérdezése
 genai-menu-new-badge = Új
 genai-menu-summarize-page = Oldal összegzése
 genai-input-ask-generic =
@@ -227,9 +230,13 @@ link-preview-reading-time =
        *[other] { $range } perc olvasási idő
     }
 # Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = A { -brand-short-name } nem tudja megnézni ezen hivatkozás előnézetét
+# Error message displayed when a link preview cannot be generated
 link-preview-error-message = A hivatkozás előnézete nem jeleníthető meg
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Hivatkozás meglátogatása
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = A { -brand-short-name } nem tud kulcspontokat előállítani ehhez a weboldalhoz.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Nem tudunk kulcspontokat előállítani ehhez a weboldalhoz.
 # Error message when something went wrong during key point generation
