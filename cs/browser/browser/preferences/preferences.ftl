@@ -1485,6 +1485,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Použít hlavní heslo
     .accesskey = P
+forms-primary-pw-use-2 =
+    .label = Použít hlavní heslo
+    .description = Přidává další vrstvu zabezpečení pro ochranu vašich uložených hesel.
+    .accesskey = h
 forms-primary-pw-set =
     .label = Nastavit hlavní heslo
 forms-primary-pw-on =
@@ -1497,6 +1501,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = K vyplňování a správě hesel vyžadovat přihlášení se do zařízení
+forms-os-reauth-2 =
+    .label = Pro správu hesel vyžadovat přihlášení k účtu na zařízení
 forms-primary-pw-learn-more-link = Zjistit více
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
