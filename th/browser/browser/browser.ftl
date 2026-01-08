@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้านี้ ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = มุมมองแยก
+    .aria-label = มุมมองแยก
 
 ## Page Action Context Menu
 
@@ -525,6 +528,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 identity-connection-verified = คุณได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 identity-ev-owner-label = ออกใบรับรองให้กับ:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = มีคุณสมบัติตรงตามที่ระบุไว้ในระเบียบ (EU) 2024/1183
 identity-description-custom-root2 = Mozilla ไม่รู้จักผู้ออกใบรับรองนี้ ซึ่งอาจถูกเพิ่มจากระบบปฏิบัติการของคุณหรือโดยผู้ดูแลระบบ
 identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
@@ -831,6 +836,9 @@ urlbar-result-menu-dont-show-market =
     .label = ไม่ต้องแสดงคำแนะนำเกี่ยวกับตลาดหุ้น
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นคำแนะนำเกี่ยวกับตลาดหุ้นอีกต่อไป
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = ข้อเสนอแนะเกี่ยวกับตลาดหุ้น
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นคำแนะนำเหล่านี้อีกต่อไป
@@ -1503,3 +1511,4 @@ trustpanel-fingerprinter-list-header = ไซต์เหล่านี้ก�
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ปิดกั้น { $count } ตัวขุดเหรียญดิจิทัล
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } อนุญาต { $count } ตัวขุดเหรียญดิจิทัล
 trustpanel-cryptominer-tab-list-header = ไซต์เหล่านี้กำลังพยายามขุดเหรียญดิจิทัล:
+trustpanel-blocker-section-header2 = มี <span data-l10n-name="count">{ $count }</span> ตัวติดตามที่ถูกปิดกั้นบนไซต์นี้

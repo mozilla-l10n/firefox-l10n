@@ -44,7 +44,7 @@ pocket-panel-signup-cta-a-fix = دویمه زفت کردن ایسا سی این�
 
 ## about:pocket-home panel
 
-pocket-panel-home-welcome-back = خش ٱوۊڌین
+pocket-panel-home-welcome-back = خش وورگشتین
 pocket-panel-home-discover-more = قلوه بنیرین
 pocket-panel-home-explore-more = جوستن
 pocket-panel-home-most-recent-saves = نۊ ترین زفت کردنی یل ایسا ایچونن:
