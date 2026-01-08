@@ -109,6 +109,8 @@ applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
