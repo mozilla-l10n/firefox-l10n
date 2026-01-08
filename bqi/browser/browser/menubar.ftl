@@ -253,5 +253,11 @@ menu-window-menu =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+menu-help =
+    .label = هیاری
+    .accesskey = H
+menu-get-help =
+    .label = گرؽڌن هیاری
+    .accesskey = H
 menu-report-broken-site =
     .label = گوزارش خراوی وبگه

@@ -23,6 +23,7 @@ firefoxview-tabpickup-header = پسند بلگه
 firefoxview-tabpickup-step-signin-primarybutton = رئڌن وا پؽش
 firefoxview-syncedtabs-signin-primarybutton-2 = و من ٱووڌن
 firefoxview-tabpickup-synctabs-primarybutton = هوم گوم کردن بلگه یل واز
+firefoxview-syncedtabs-loading-header = هوم گوم کردن هونی ٱنجوم ابۊ
 firefoxview-tabpickup-network-offline-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-sync-error-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-password-locked-link = قلوه دووسته بۊین

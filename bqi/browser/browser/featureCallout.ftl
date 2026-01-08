@@ -46,6 +46,11 @@ perplexity-callout-theme-2-title = Perplexity ن امتهووݩ کۊنین: ی �
 perplexity-callout-secondary-label-1 = رڌ کردن
 perplexity-callout-secondary-label-2 = فئمیم
 
+## Account Adoption Passwords callout strings
+
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = سبت نوم
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = سکو هوم گوم کوݩ
