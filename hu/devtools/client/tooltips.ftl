@@ -22,6 +22,7 @@ inactive-css-not-multicol-container = A(z) <strong>{ $property }</strong> nem be
 inactive-css-column-span = A(z) <strong>{ $property }</strong> tulajdonságnak nincs átfedő hatása erre az elemre, mivel nem többoszlopos tároló.
 inactive-css-not-grid-or-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rács vagy flexibilis elem.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem rács vagy flexibilis elem, sem abszolút módon pozicionált elem.
+inactive-css-not-grid-or-absolutely-positioned-item = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem rácselem, sem abszolút módon pozicionált elem.
 inactive-css-not-grid-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem egy rácselem.
 inactive-css-not-grid-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rácstároló.
 inactive-css-not-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis elem.
@@ -64,6 +65,7 @@ inactive-css-ruby-element = A(z) <strong>{ $property }</strong> nincs hatással 
 
 inactive-css-highlight-pseudo-elements-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a kiemelt pszeudoelemeken.
 inactive-css-cue-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::cue pszeudoelemeken.
+inactive-css-at-position-try-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a <strong>@position-try</strong> szabályokban.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -86,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Próbálja m
 inactive-css-not-multicol-container-fix = Próbálja meg ezek egyikét hozzáadni: <strong>column-count</strong> vagy <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Próbálja meg hozzáadni a <strong>column-count</strong> vagy a <strong>column-width</strong> tulajdonságokat az egyik szülőelemhez. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Próbálja meg hozzáadni az <strong>position:absolute</strong> tulajdonságot az elemhez, vagy adja hozzá ezek egyikét az elem szülőjéhez: <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Próbálja meg hozzáadni a <strong>position:absolute</strong> tulajdonságot az elemhez, vagy ezek egyikét az elem szülőjéhez: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
