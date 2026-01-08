@@ -386,7 +386,7 @@ windows-10-eos-sync-toast-secondary-label = Баъдтар ёдоварӣ кун
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
-windows-10-eos-challenger-callout-title = Браузери «{ -brand-product-name }» нисбат ба браузерҳои дигари ташкилотҳои технологии бузург (BigTech) пешакӣ бор карда нашудааст. Мағз дар ҳамин чиз аст.
+windows-10-eos-challenger-callout-title = Браузери «{ -brand-product-name }» нисбат ба браузерҳои дигари ширкатҳои бузурги технологӣ (BigTech) пешакӣ насб карда нашудааст. Моҳияти масъала дар ин аст.
 windows-10-eos-challenger-sync-callout-subtitle = Вақте ки шумо нусхаи эҳтиётии хатбаракҳо ва ниҳонвожаҳои худро аз браузери «{ -brand-product-name }» таҳия мекунед, ба шумо насб кардани браузери интихобшуда дар дастгоҳи дигар осонтар мешавад.
 windows-10-eos-challenger-pin-callout-subtitle = Браузери «{ -brand-shorter-name }»-ро ба навори вазифаи худ васл кунед, то ки браузери интихобкардаи шумо ҳамеша дар вақти дилхоҳ аз он ҷой дастрас шавад.
 windows-10-eos-challenger-sync-primary-button = Таҳия кардани нусхаи эҳтиётии «{ -brand-shorter-name }»
