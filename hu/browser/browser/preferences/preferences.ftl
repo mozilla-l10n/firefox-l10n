@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = A kontrasztbeállításai felülírják a webhely megjelenését.
 preferences-web-appearance-link =
     .label = Kezelje a { -brand-short-name } témáit a Kiegészítők és témák lapon
+preferences-contrast-control-group =
+    .label = Webhelykontraszt
+    .description = A webhelyek különféle előtér- és háttérszíneket használnak. A konzisztens kontraszt érdekében mindenhol használhatja ugyanazokat a színeket.
+preferences-contrast-control-radio-group =
+    .label = Színek felülbírálása
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Az Ön színválasztásai felülírják a webhely megjelenését. <a data-l10n-name="colors-link">Színek kezelése</a>
@@ -398,6 +403,32 @@ translate-attribution = Fordítás: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Kivételek…
     .accesskey = K
+settings-translations-header =
+    .label = Fordítások
+    .aria-label = Fordítások
+    .description = Oldalak vagy a kiválasztott szöveg fordítása. Az adatvédelem érdekében a fordítások az eszközén maradnak.
+settings-translations-offer-to-translate-label =
+    .label = Teljes oldal fordításának felajánlása
+settings-translations-more-settings-button =
+    .label = További fordítási beállítások
+    .description = Nyelvek, webhelyek és offline fordítások beállításainak megadása.
+settings-translations-subpage-header =
+    .heading = További fordítási beállítások
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatikus fordítás
+settings-translations-subpage-always-translate-header =
+    .label = Mindig fordítson ezekről a nyelvekről
+settings-translations-subpage-never-translate-header =
+    .label = Sose fordítson ezekről a nyelvekről
+settings-translations-subpage-never-translate-sites-header =
+    .label = Sose fordítsa ezeket az oldalakat
+settings-translations-subpage-language-select-option =
+    .label = Nyelv hozzáadása
+settings-translations-subpage-language-add-button =
+    .aria-label = Nyelv hozzáadása
+    .title = Nyelv hozzáadása
+settings-translations-subpage-download-languages-header =
+    .label = Nyelvek letöltése
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
