@@ -135,4 +135,5 @@ restored-from-backup-error-primary-button = بستن
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-motivation-privacy-option = هریم سیخومی وو ٱمنیت
 onboarding-personalization-motivation-other-option = دیر

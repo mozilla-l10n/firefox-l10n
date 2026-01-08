@@ -36,6 +36,10 @@ media-tab =
     .accesskey = M
 media-location =
     .value = جاگه:
+media-type =
+    .label = نوع
+media-size =
+    .label = هندا
 help-button =
     .label = هیاری
 
@@ -50,6 +54,27 @@ security-site-data-no = ن
 
 ##
 
+media-video = فیلم
+media-audio = آرنگ
 saved-passwords-yes = هری
 saved-passwords-no = ن
 security-no-visits = ن
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx } پیکسل من { $dimy } پیکسل
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } کیلۊبایت
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+page-info-page =
+    .title = دووسمندیا بلگه — { $website }
