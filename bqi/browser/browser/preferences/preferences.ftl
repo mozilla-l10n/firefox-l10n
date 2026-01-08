@@ -52,6 +52,8 @@ preferences-manage-profiles-learn-more = قلوه دووسته بۊین
 preferences-manage-profiles-button =
     .label = دؽوۉداری پوروفایلا
 preferences-copy-profile-button = لف گیری
+tabs-group-header2 =
+    .label = بلگه یل
 browser-containers-learn-more = قلوه دووسته بۊین
 browser-containers-settings =
     .label = سامووا…
@@ -60,6 +62,9 @@ browser-containers-settings =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زووݩ وو شؽوات
+preferences-web-appearance-choice-auto = خوتکار
+preferences-web-appearance-choice-light = رۊشن
+preferences-web-appearance-choice-dark = تاریک
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =

@@ -6,3 +6,7 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-learn-more-link = قلوه دووسته بۊین
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+
+more-from-moz-firefox-relay-title = { -relay-brand-name }
