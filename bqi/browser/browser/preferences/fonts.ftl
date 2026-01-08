@@ -19,3 +19,5 @@ fonts-monospace = Monospace
     .accesskey = M
 fonts-monospace-size = هندا
     .accesskey = e
+fonts-label-default-unnamed =
+    .label = پؽش فرز

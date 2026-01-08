@@ -5,6 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
+autofill-manage-remove-button = پاک کردن
 autofill-manage-edit-button = آلشت…
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
@@ -17,8 +18,12 @@ address-capture-cancel-button =
     .accessKey = C
 address-capture-learn-more-button =
     .label = قلوه دووسته بۊین
+address-capture-open-menu-button =
+    .aria-label = گۊشیڌن نومگه
 address-capture-edit-address-button =
     .aria-label = آلشت نشۊوی
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = ٱووردن نشۊوی
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = آلشت نشۊوی
 

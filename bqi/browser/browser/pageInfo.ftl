@@ -78,3 +78,5 @@ media-file-size = { $size } کیلۊبایت
 # pageInfo dialog box
 page-info-page =
     .title = دووسمندیا بلگه — { $website }
+page-info-frame =
+    .title = دووسمندیا چارچۊ — { $website }
