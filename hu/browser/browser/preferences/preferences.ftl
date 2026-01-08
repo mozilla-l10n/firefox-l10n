@@ -429,6 +429,37 @@ settings-translations-subpage-language-add-button =
     .title = Nyelv hozzáadása
 settings-translations-subpage-download-languages-header =
     .label = Nyelvek letöltése
+settings-translations-subpage-download-languages-select-option =
+    .label = Válasszon nyelvet
+settings-translations-subpage-download-languages-button =
+    .aria-label = Nyelv letöltése
+    .title = Nyelv letöltése
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nincsenek nyelvek letöltve
+settings-translations-subpage-no-languages-added =
+    .label = Nincsenek nyelvek hozzáadva
+settings-translations-subpage-download-progress = Letöltés folyamatban…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Nem sikerült letölteni a(z) { $language } nyelvet ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Próbálja újra
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Törli a(z) { $language } nyelvet ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Törlés
+settings-translations-subpage-download-cancel-button =
+    .label = Mégse
+settings-translations-subpage-no-sites-added =
+    .label = Nincsenek webhelyek hozzáadva
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -872,6 +903,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Keresési javaslatok megjelenítése a címsáv találataiban
     .accesskey = K
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Keresési javaslatok megjelenítése a böngészési előzmények előtt a címsor találatai között
+search-show-suggestions-private-windows-2 =
+    .label = Keresési javaslatok a privát ablakokban
 search-suggestions-cant-show-2 =
     .message = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
 addressbar-header-1 =
@@ -890,6 +930,8 @@ search-separate-default-engine-2 =
     .accesskey = M
 search-separate-default-engine-dropdown =
     .aria-label = Alapértelmezett keresőszolgáltatás a privát ablakokban
+search-suggestions-header-2 =
+    .label = Keresőszolgáltatás-javaslatok
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -966,6 +1008,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Szinkronizálás
+account-group-label =
+    .label = { -vendor-short-name }-fiók
+account-placeholder =
+    .label = Nincs bejelentkezve
+    .description = Jelentkezzen be, hogy biztonságban, titkosítva és az eszközei között szinkronizálva tartsa az adatait.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -975,6 +1022,9 @@ sync-signedout-description2 = Szinkronizálja könyvjelzőit, előzményeit, lap
 sync-signedout-account-signin3 =
     .label = Jelentkezzen be a szinkronizáláshoz…
     .accesskey = J
+sync-signedout-account-short =
+    .label = Bejelentkezés
+    .accesskey = j
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1033,6 +1083,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Szinkronizálás: BE
+prefs-syncing-on-2 =
+    .label = Szinkronizálás BE
 prefs-syncing-off = Szinkronizálás: KI
 prefs-sync-turn-on-syncing =
     .label = Szinkronizálás bekapcsolása…
@@ -1077,6 +1129,9 @@ sync-currently-syncing-settings = Beállítások
 sync-manage-options =
     .label = Szinkronizálás kezelése…
     .accesskey = S
+sync-manage-options-2 =
+    .label = Szinkronizált adatok kezelése
+    .accesskey = k
 sync-change-options =
     .label = Módosítás…
     .accesskey = M
