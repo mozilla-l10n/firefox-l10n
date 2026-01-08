@@ -178,11 +178,16 @@ fp-neterror-offline-body-title = Úgy néz ki, hogy probléma van az internetkap
 fp-neterror-connection-intro = A { -brand-short-name } nem tud biztonságos kapcsolatot létrehozni a(z) { $hostname } kiszolgálóval.
 fp-neterror-offline-intro = A { -brand-short-name } nem tud kapcsolódni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz
 fp-neterror-coop-coep-intro = A { -brand-short-name } nem töltötte be az oldalt, mert a biztonsági beállítások nem felelnek meg az előző oldalnak.
+fp-neterror-http-auth-disabled-intro = Valaki, aki a webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.
+fp-neterror-http-auth-disabled-secure-connection = Ez a webhely biztonságos kapcsolatot igényel, és nem adhat hozzá kivételt, hogy felkeresse.
 fp-neterror-why-did-this-happen = Miért történt ez?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Úgy tűnik, hogy ez az oldal régi szoftvert használ, ismert biztonsági problémákkal.
+fp-neterror-http-auth-disabled-why-dangerous-body = A { -brand-short-name } nem bízik a(z) { $hostname } webhelyben, mert a kapcsolat nem biztonságos.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Győződjön meg arról, hogy a { -brand-short-name } legfrissebb verzióját használja. Ugorjon a menü Súgó > A { -brand-short-name } névjegye menüpontjához. Ha a legfrissebb { -brand-short-name } verziót használja, akkor a probléma valószínűleg magával a webhellyel van.
 fp-neterror-offline-what-can-you-do-body = Próbáljon meg csatlakozni egy másik eszközről. Ellenőrizze a modemet vagy útválasztót. Bontsa a kapcsolatot, majd csatlakozzon újra a Wi-Fi-hez.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Próbálja HTTPS-re cserélni a webcímet. De valószínűleg magával a webhellyel van a probléma.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A webhelyek néha védelmet állítanak be saját maguk számára a más webhelyekkel történő nem kívánt interakciók ellen.
+fp-learn-more-about-https-connections = Tudjon meg többet a HTTPS kapcsolatokról
