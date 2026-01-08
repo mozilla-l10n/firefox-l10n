@@ -48,8 +48,24 @@ newtab-confirm-delete-history-p2 = ای کار وورگندنی نؽ.
 
 newtab-topsite-sponsored = هؽزگری وابیڌه
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (دیسنیڌه وابی)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = گۊشیڌن نومگه
+    .aria-label = گۊشیڌن نومگه
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = پاک کردن
+    .aria-label = پاک کردن
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = آلشت ای وبگه
@@ -62,8 +78,18 @@ newtab-menu-open-new-window = گۊشیڌن من ی نیمدری نۊ
 newtab-menu-open-new-private-window = گۊشیڌن من ی نیمدری سیخومی نۊ
 newtab-menu-dismiss = رڌ کردن
 newtab-menu-pin = Pin
+newtab-menu-unpin = وورداشتن دیسنیڌن
+newtab-menu-delete-history = پاک کردن ز ویرگار
+newtab-menu-save-to-pocket = زفت کردن من { -pocket-brand-name }
+newtab-menu-delete-pocket = پاک کردن ز { -pocket-brand-name }
+newtab-menu-archive-pocket = آرشیو من { -pocket-brand-name }
+newtab-menu-show-privacy-info = هؽزگرووݩ ایما وو هریم سیخومی ایسا
+newtab-menu-about-fakespot = زبار { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = گوزارش
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = مسدۊد کردن
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -72,8 +98,17 @@ newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا 
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = پاک کردن نشووک
 # Bookmark is a verb here.
 newtab-menu-bookmark = نشووک
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+newtab-menu-copy-download-link = لف گیری لینگ دانلود
+newtab-menu-go-to-download-page = رئڌن و بلگه دانلود
+newtab-menu-remove-download = پاک کردن ز ویرگار
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -85,13 +120,20 @@ newtab-menu-open-file = گۊشیڌن فایل
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-bookmarked = نشووک ناهاڌه وابیڌه
+newtab-label-removed-bookmark = نشووک پاک وابی
 newtab-label-saved = من { -pocket-brand-name } زفت وابیڌه
+newtab-label-download = دانلود وابیڌه
 # This string is used under fixed size ads to indicate sponsored content
 newtab-label-sponsored-fixed = هؽزگری وابیڌه
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = پاک کردن بشن
+newtab-section-menu-collapse-section = جم کردن بشن
+newtab-section-menu-expand-section = واز کردن بشن
+newtab-section-menu-manage-section = دؽوۉداری بشن
 newtab-section-menu-manage-webext = دؽوۉداری وردنی
 newtab-section-menu-add-search-engine = ٱووردن موتور پیتینیڌن
 newtab-section-menu-privacy-notice = نوکات زفت مهرموویی
@@ -109,6 +151,12 @@ newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دوو�
 newtab-pocket-learn-more = قلوه دووسته بۊین
 newtab-pocket-save = زفت
 newtab-pocket-saved = زفت وابی
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+newtab-toast-dismiss-button =
+    .title = رڌ کردن
+    .aria-label = رڌ کردن
 
 ## Customization Menu
 

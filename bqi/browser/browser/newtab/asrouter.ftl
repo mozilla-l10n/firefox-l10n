@@ -156,6 +156,7 @@ fxa-menu-message-close-button =
 fxa-menu-message-sign-up-button = سبت نوم
 fxa-menu-message-sign-in-button = و من ٱووڌن
 fxa-menu-message-sync-button = ناهاڌن پا هوم گوم کردن
+fxa-menu-message-sync-devices-primary-text = هوم گوم کردن پوی دسگایل خوتووݩ
 
 ## Multi-CTA Fox Doodle Spotlight
 
