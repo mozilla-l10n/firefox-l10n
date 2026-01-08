@@ -9,7 +9,16 @@ cfr-doorhanger-extension-heading = وردنی پؽشنهاڌ بیڌه
 
 ##
 
+cfr-doorhanger-extension-cancel-button = سکو ن
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = قلوه دووسته بۊین
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = و دست { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = پؽشنهاڌ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = پؽشنهاڌ
     .tooltiptext = وردنی پؽشنهاڌی
@@ -32,17 +41,57 @@ cfr-whatsnew-button =
     .label = چ چیه نۊ هڌ
     .tooltiptext = چ چیه نۊ هڌ
 
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = نیشتن پوی
+    .accesskey = S
+cfr-doorhanger-milestone-close-button = بستن
+    .accesskey = C
+
+## DOH Message
+
+cfr-doorhanger-doh-primary-button-2 = خا
+    .accesskey = O
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = سکو ورۊ رسۊوی بۊ
+    .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-link = سکو ن
+    .accesskey = N
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = سکو ن
+
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = امتهووس کوݩ
+    .accesskey = T
 firefoxview-cfr-secondarybutton = سکو ن
     .accesskey = N
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-primarybutton = بنیرین چتاور کار اکونه
 firefoxview-spotlight-promo-secondarybutton = گوم زیڌن
+
+## Colorways expiry reminder CFR
+
+colorways-cfr-primarybutton = پسند رنگ بندی
+    .accesskey = C
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-dismiss-button = سکو ن
+    .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = قلوه دووسته بۊین
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -84,6 +133,12 @@ pdf-default-notification-decline-button =
 
 launch-on-login-learnmore = قلوه دووسته بۊین
 
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = ن ممنووݩ
+    .accesskey = N
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = سکو ن
@@ -95,6 +150,9 @@ root-certificate-windows-background-notification-update-button = ورۊ رسۊو
 
 ## FxA Menu Message variants
 
+fxa-menu-message-close-button =
+    .title = بستن
+    .aria-label = بستن
 fxa-menu-message-sign-up-button = سبت نوم
 fxa-menu-message-sign-in-button = و من ٱووڌن
 fxa-menu-message-sync-button = ناهاڌن پا هوم گوم کردن
