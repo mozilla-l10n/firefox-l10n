@@ -142,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">További tudn
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Ez a választó nem korlátozott <strong>:has()</strong> paramétert használ, amely lassú lehet
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = A <strong>:scope</strong> kiválasztó utáni testvérkiválasztók sosem egyeznek semmivel
