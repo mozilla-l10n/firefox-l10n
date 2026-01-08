@@ -1063,7 +1063,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = A(z) { $email } nincs ellenőrizve.
+sync-signedin-unverified2 =
+    .label = A(z) { $email } cím még nincs megerősítve
+    .description = Nézze meg a postafiókját, és erősítse meg a fiókját, hogy hivatalos legyen.
 sync-signedin-login-failure = Jelentkezzen be a(z) { $email } újracsatlakoztatásához
+sync-signedin-login-failure2 =
+    .label = Kijelentkezett ebből: { $email }
+    .description = Jelentkezzen be újra a visszacsatlakozáshoz, és az adatai szinkronizálásához.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1391,6 +1407,8 @@ autofill-payment-methods-add-button = Új fizetési mód hozzáadása
 payments-list-header =
     .label = Fizetési módok
 payments-list-item-label = <strong>Fizetési módok</strong>
+payments-delete-payment-prompt-title = Törli ezt a fizetési módot?
+payments-delete-payment-prompt-confirm-button = Törlés
 payments-remove-payment-prompt-title = Eltávolítja ezt a fizetési módot?
 payments-remove-payment-prompt-confirm-button = Eltávolítás
 payments-remove-payment-prompt-cancel-button = Mégse
