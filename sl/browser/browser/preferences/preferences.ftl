@@ -194,6 +194,10 @@ tabs-group-header2 =
     .label = Zavihki
 tabs-opening-heading =
     .label = Odpiranje
+tabs-interaction-heading =
+    .label = Interakcija
+tabs-containers-heading =
+    .label = Vsebniki
 tabs-closing-heading =
     .label = Zapiranje
 tabs-group-header = Zavihki
@@ -329,6 +333,11 @@ preferences-web-appearance-override-warning3 =
     .message = Vaše nastavitve kontrasta vplivajo na videz spletnih strani.
 preferences-web-appearance-link =
     .label = Upravljajte teme { -brand-short-name(sklon: "rodilnik") } na strani Razširitve in teme
+preferences-contrast-control-group =
+    .label = Kontrast spletnih strani
+    .description = Spletne strani uporabljajo najrazličnejše barve ospredja in ozadja. Za dosleden kontrast lahko nastavite, naj se različna spletna mesta prikazujejo v enakih barvah.
+preferences-contrast-control-radio-group =
+    .label = Preglasi barve
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vaše izbire barv so nastavljene, da preglasijo videz spletnih strani. <a data-l10n-name="colors-link">Upravljanje barv</a>
@@ -399,6 +408,10 @@ translate-attribution = Prevode zagotavlja <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izjeme …
     .accesskey = I
+settings-translations-header =
+    .label = Prevajanje
+    .aria-label = Prevajanje
+    .description = Prevedite strani ali izbrano besedilo. Zaradi zaščite vaše zasebnosti prevodi ostanejo na vaši napravi.
 settings-translations-offer-to-translate-label =
     .label = Ponujaj prevod celotnih strani
 settings-translations-more-settings-button =
@@ -573,7 +586,7 @@ applications-save-for-new-types =
     .label = Shrani datoteke
     .accesskey = S
 applications-ask-before-handling =
-    .label = Vprašaj, ali želite odpreti ali shraniti datoteko
+    .label = Vprašaj, ali želite datoteko odpreti ali shraniti
     .accesskey = V
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
@@ -808,6 +821,9 @@ home-prefs-recommended-by-description-new = Izjemna vsebina, ki jo pripravlja { 
 home-prefs-recommended-by-header-generic =
     .label = Priporočene zgodbe
 home-prefs-recommended-by-description-generic = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
+home-prefs-stories-header =
+    .label = Zgodbe
+home-prefs-stories-description = Zgodbe, izbrane na podlagi vaše dejavnosti
 
 ##
 
@@ -916,6 +932,11 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Na strani z rezultati iskanja prikaži iskalni niz v naslovni vrstici
+search-separate-default-engine-2 =
+    .label = V zasebnih oknih uporabi drug privzeti iskalnik
+    .accesskey = u
+search-separate-default-engine-dropdown =
+    .aria-label = Privzeti iskalnik v zasebnih oknih
 search-suggestions-header-2 =
     .label = Predlogi iskalnika
 # With this option enabled, on the search results page
@@ -996,6 +1017,9 @@ sync-group-label =
     .label = Sinhronizacija
 account-group-label =
     .label = Račun { -vendor-short-name }
+account-placeholder =
+    .label = Niste prijavljeni
+    .description = Prijavite se za zasebno in šifrirano sinhronizacijo podatkov med napravami.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1050,6 +1074,9 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ni potrjen.
 sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email }
+sync-signedin-login-failure2 =
+    .label = Odjavljeni ste iz { $email }
+    .description = Znova se prijavite za nadaljevanje sinhronizacije podatkov.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1082,6 +1109,9 @@ prefs-syncing-on = Sinhronizacija: OMOGOČENO
 prefs-syncing-on-2 =
     .label = Sinhronizacija je vključena
 prefs-syncing-off = Sinhronizacija: ONEMOGOČENO
+prefs-syncing-off-2 =
+    .label = Sinhronizacija je izključena
+    .description = Vključite sinhronizacijo za skupno rabo zaznamkov, zgodovine, gesel in drugih podatkov na katerikoli napravi.
 prefs-sync-turn-on-syncing =
     .label = Vklopi sinhronizacijo …
     .accesskey = s
@@ -1121,6 +1151,9 @@ sync-currently-syncing-addons = dodatki
 sync-currently-syncing-settings = Nastavitve
 sync-manage-options =
     .label = Upravljanje sinhronizacije …
+    .accesskey = U
+sync-manage-options-2 =
+    .label = Upravljanje sinhroniziranih podatkov
     .accesskey = U
 sync-change-options =
     .label = Spremeni …
@@ -1387,6 +1420,9 @@ payments-no-payments-stored-message =
 payments-remove-payment-prompt-title = Ali želite odstraniti to plačilno sredstvo?
 payments-remove-payment-prompt-confirm-button = Odstrani
 payments-remove-payment-prompt-cancel-button = Prekliči
+autofill-addresses-checkbox-message =
+    .label = Shranjuj in samodejno izpolnjuj naslove
+    .accesskey = S
 addresses-list-header =
     .label = Naslovi
 addreses-delete-address-button-label =
@@ -1604,6 +1640,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Nedavna iskanja
     .accesskey = a
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Predlogi trenutno priljubljenih iskanj
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
@@ -1822,7 +1861,7 @@ permissions-block-popups-exceptions-button =
     .accesskey = I
     .searchkeywords = popup
 permissions-addon-install-warning =
-    .label = Opozori, ko bodo spletne strani poskušale namestiti dodatke
+    .label = Opozori, ko spletne strani poskušajo namestiti dodatke
     .accesskey = P
 permissions-addon-exceptions =
     .label = Izjeme …

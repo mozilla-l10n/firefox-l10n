@@ -40,7 +40,7 @@ settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in pl
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ime datoteke: { $fileName }
-settings-data-backup-restore-header = Obnovite podatke
+settings-data-backup-restore-header = Obnovitev podatkov
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
@@ -99,6 +99,8 @@ restore-from-backup-description-with-metadata =
     .message = S tem bodo vsi podatki { -brand-short-name(sklon: "rodilnik") } zamenjani s podatki varnostne kopije z dne { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Kaj bo obnovljeno?
+restore-from-backup-no-backup-file-link = Ne uspete najti datoteke z varnostno kopijo?
+restore-from-backup-filepicker-label = Datoteka z varnostno kopijo
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Izberi …
@@ -117,6 +119,19 @@ restore-from-backup-restoring-button = Obnavljanje …
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Napačno geslo. <a data-l10n-name="incorrect-password-support-link">Imate še vedno težave?</a>
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Ta datoteka ne deluje
+    .message = Datoteka, ki ste jo izbrali, ni združljiva s to različico { -brand-short-name(sklon: "rodilnik") }. Izberite drugo datoteko in poskusite znova.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Ta datoteka ne deluje
+    .message = Datoteke, ki ste jo izbrali, ni ustvaril { -brand-short-name }. Izberite drugo datoteko in poskusite znova.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
@@ -125,6 +140,7 @@ backup-service-error-went-wrong2 =
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Varnostno kopirajte občutljive podatke
 enable-backup-encryption-support-link = Več o tem
 enable-backup-encryption-create-password-label = Geslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -138,6 +154,8 @@ change-backup-encryption-header = Spremenite geslo varnostne kopije
 password-rules-header = Zahteve za geslo
 password-rules-length-description = vsaj 8 znakov
 password-rules-email-description = ni vaš e-poštni naslov
+password-rules-disclaimer = Ostanite varni – ne reciklirajte gesel. Oglejte si več nasvetov za <a data-l10n-name="password-support-link">ustvarjanje močnih gesel</a>.
+password-validity-has-email = ne sme biti e-poštni naslov
 password-validity-do-not-match = Gesli se ne ujemata
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
@@ -157,6 +175,7 @@ disable-backup-encryption-confirm-button = Odstrani geslo
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = Geslo ne izpolnjuje zahtev. Poskusite z drugačnim geslom.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
