@@ -1335,6 +1335,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Ужываць галоўны пароль
     .accesskey = г
+forms-primary-pw-use-2 =
+    .label = Ужываць галоўны пароль
+    .description = Дадае дадатковы ўзровень бяспекі для абароны вашых захаваных пароляў.
+    .accesskey = г
 forms-primary-pw-set =
     .label = Усталяваць галоўны пароль
 forms-primary-pw-on =
@@ -1347,6 +1351,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Патрабаваць уваход на прыладзе для запаўнення пароляў і кіравання імі
+forms-os-reauth-2 =
+    .label = Патрабаваць уваход на прыладзе для кіравання паролямі
 forms-primary-pw-learn-more-link = Даведацца больш
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
