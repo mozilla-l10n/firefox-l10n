@@ -335,7 +335,7 @@ preferences-contrast-control-group =
     .label = Кантраст вэб-сайта
     .description = Сайты ўжываюць разнастайнасць колераў пярэдняга і задняга плану. Дзеля раўнамернага кантрасту, вы можаце выкарыстоўваць аднолькавыя колеры на ўсіх сайтах.
 preferences-contrast-control-radio-group =
-    .label = Перавызначыць колеры
+    .label = Перавызначэнне колераў
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Ваш выбар колераў мае перавагу над знешнім выглядам вэб-сайта. <a data-l10n-name="colors-link">Кіраваць колерамі</a>
