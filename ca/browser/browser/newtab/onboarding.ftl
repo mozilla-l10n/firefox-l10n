@@ -486,6 +486,22 @@ create-backup-screen-1-subtitle = Protegiu automàticament les contrasenyes, les
 create-backup-screen-1-flair = Recomanat
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Més informació</a>
 create-backup-screen-1-sync-label = Sincronitza amb el { -brand-product-name }
+create-backup-screen-1-backup-label = Còpia de seguretat a l'ordinador
+create-backup-screen-1-backup-body = Desa al dispositiu o al OneDrive
+create-backup-select-tile-button-label = Selecciona
+create-backup-back-button-label = Enrere
+create-backup-show-fewer =
+    .label = Mostra'n menys com aquest
+create-backup-screen-2-title = Trieu les dades del { -brand-product-name } de què voleu fer una còpia de seguretat
+create-backup-screen-2-subtitle = Només tarda un minut. Es fa una còpia de seguretat de les dades un cop al dia.
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = Configuració fàcil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Adreces d'interès, historial, configuració i més
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = No inclou contrasenyes ni pagaments
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = No estan xifrades
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Totes les dades
 # Preceded by a green check mark indicating that these are included in the "All data" backup
@@ -511,9 +527,11 @@ fx-backup-confirmation-screen-close-button = Tanca
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
 fx-backup-confirmation-screen-all-data-item-text-1 = Totes les dades de navegació incloses
+fx-backup-confirmation-screen-all-data-item-text-2 = S'ha desat al dispositiu
 fx-backup-confirmation-screen-all-data-item-text-3 = Xifrats i protegits amb contrasenya
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Adreces d'interès, historial, configuració i altres dades incloses
 fx-backup-confirmation-screen-easy-setup-item-text-2 = S'ha desat al dispositiu
+fx-backup-confirmation-screen-easy-setup-item-text-3 = No s'inclouen ni les contrasenyes ni els pagaments
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Aneu a <a data-l10n-name="settings">Configuració</a> per a incloure dades sensibles.
 fx-backup-confirmation-screen-item-subtext-1 = La còpia de seguretat començarà d'aquí a uns minuts i s'executarà un cop al dia. Podeu comprovar-ne l'estat a <a data-l10n-name="settings">Configuració</a>.
 fx-backup-confirmation-screen-item-subtext-2 = El { -brand-short-name } buscarà la vostra còpia de seguretat si cal que la torneu a instal·lar.
@@ -527,6 +545,13 @@ restore-from-backup-subtitle = Recupereu totes les adreces d'interès, l'histori
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Ja tornem a ser aquí! Les vostres dades del { -brand-short-name } s'han restaurat.
+restored-from-backup-success-no-checklist-subtitle = Podeu activar la còpia de seguretat per a aquest dispositiu a <a data-l10n-name="settings">Configuració</a>.
+restored-from-backup-success-with-checklist-primary-button = Desa i continua
+restored-from-backup-success-with-checklist-secondary-button = Omet aquest pas
+restored-from-backup-success-no-checklist-primary-button = Continua
+restored-from-backup-error-title = Hi ha hagut un problema amb el fitxer de còpia de seguretat.
+restored-from-backup-error-subtitle = Si teniu un altre fitxer de còpia de seguretat del { -brand-short-name }, proveu de restaurar-lo des d'allà. <a data-l10n-name="restore-problems">Encara teniu problemes?</a>
+restored-from-backup-error-primary-button = Tanca
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
