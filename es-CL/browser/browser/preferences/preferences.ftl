@@ -1331,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Usar una contraseña primaria
+    .description = Añade una capa extra de seguridad para proteger tus contraseñas guardadas.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Establecer contraseña primaria
 forms-primary-pw-on =
@@ -1343,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerir la autenticación del sistema para completar y administrar contraseñas
+forms-os-reauth-2 =
+    .label = Requerir la autenticación del sistema para administrar contraseñas
 forms-primary-pw-learn-more-link = Aprender más
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
