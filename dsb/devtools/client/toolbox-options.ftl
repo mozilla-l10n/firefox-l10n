@@ -46,7 +46,7 @@ options-inspector-draggable-properties-tooltip =
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Jadnorjejše wuzwigowaki z prefers-reduced-motion wužywaś
 options-inspector-simplified-highlighters-tooltip =
-    .title = Zmóžnja zjadnorjone wuzwigowaki, gaž prefers-reduced-motion jo zmóžnjony. Śěga linije město wupołnjone pšawokuty wó wuzwignjone elementy, aby se blinkajucych efektow wobinuli.
+    .title = Zmóžnja zjadnorjone wuzwigowaki, gaž prefers-reduced-motion jo zmóžnjony. Śěga linije město wupołnjone pšawokuty wokoło wuzwignjonych elementow, aby se blinkajucych efektow wobinuli.
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Z <kbd>Enter</kbd> fokus na pśiduce zapódaśe stajiś
