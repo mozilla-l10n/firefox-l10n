@@ -364,9 +364,15 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Add Note
     .accesskey = A
+tab-context-update-note =
+    .label = Update Note
+    .accesskey = U
 tab-context-edit-note =
     .label = Edit Note
     .accesskey = E
+tab-context-delete-note =
+    .label = Delete Note
+    .accesskey = D
 tab-note-editor-title-create = Add note
 tab-note-editor-title-edit = Edit note
 tab-note-editor-text-field =
@@ -377,6 +383,15 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Save
     .accesskey = S
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } characters
+    }
 
 ## Split View
 

@@ -328,6 +328,11 @@ preferences-web-appearance-override-warning3 =
     .message = Your contrast control settings are overriding website appearance.
 preferences-web-appearance-link =
     .label = Manage { -brand-short-name } themes in Extensions & Themes
+preferences-contrast-control-group =
+    .label = Website contrast
+    .description = Websites use a variety of foreground and background colours. For consistent contrast, you can use the same colours across websites.
+preferences-contrast-control-radio-group =
+    .label = Override colours
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Your colour selections are overriding website appearance. <a data-l10n-name="colors-link">Manage colours</a>
@@ -398,6 +403,68 @@ translate-attribution = Translations by <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
+settings-translations-header =
+    .label = Translations
+    .aria-label = Translations
+    .description = Translate pages or selected text. To protect your privacy, translations stay on your device.
+settings-translations-offer-to-translate-label =
+    .label = Offer full page translation
+settings-translations-more-settings-button =
+    .label = More translation settings
+    .description = Set preferences for languages, websites, and offline translation.
+settings-translations-subpage-header =
+    .heading = More translation settings
+settings-translations-subpage-speed-up-translation-header =
+    .label = Speed up translation
+    .description = Download complete languages for faster translations and to translate offline.
+settings-translations-subpage-automatic-translation-header =
+    .label = Automatic translation
+settings-translations-subpage-always-translate-header =
+    .label = Always translate these languages
+settings-translations-subpage-never-translate-header =
+    .label = Never translate these languages
+settings-translations-subpage-never-translate-sites-header =
+    .label = Never translate these sites
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = To add a site, open the <img data-l10n-name="translations-icon"/> translation panel, select <img data-l10n-name="settings-icon"/> translation settings, then choose “Never translate this site”
+settings-translations-subpage-language-select-option =
+    .label = Add language
+settings-translations-subpage-language-add-button =
+    .aria-label = Add language
+    .title = Add language
+settings-translations-subpage-download-languages-header =
+    .label = Download languages
+settings-translations-subpage-download-languages-select-option =
+    .label = Select language
+settings-translations-subpage-download-languages-button =
+    .aria-label = Download language
+    .title = Download language
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = No languages downloaded
+settings-translations-subpage-no-languages-added =
+    .label = No languages added
+settings-translations-subpage-download-progress = Download in progress…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Couldn’t download { $language } ({ $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Try again
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Delete { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Delete
+settings-translations-subpage-download-cancel-button =
+    .label = Cancel
+settings-translations-subpage-no-sites-added =
+    .label = No sites added
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -841,6 +908,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Show search suggestions in address bar results
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Show search suggestions before browsing history in address bar results
+search-show-suggestions-private-windows-2 =
+    .label = Search suggestions in private windows
 search-suggestions-cant-show-2 =
     .message = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 addressbar-header-1 =
@@ -859,6 +935,8 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Default search engine in private windows
+search-suggestions-header-2 =
+    .label = Search engine suggestions
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -935,6 +1013,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label =
+    .label = { -vendor-short-name } account
+account-placeholder =
+    .label = You’re not signed in
+    .description = Sign in to keep your data private, encrypted, and synced across devices.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -943,6 +1026,12 @@ sync-signedout-caption = Take Your Web With You
 sync-signedout-description2 = Synchronize your bookmarks, history, tabs, passwords, add-ons, and settings across all your devices.
 sync-signedout-account-signin3 =
     .label = Sign in to sync…
+    .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Sign in to your account to start syncing
+    .accesskey = i
+sync-signedout-account-short =
+    .label = Sign in
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -982,7 +1071,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } is not verified.
+sync-signedin-unverified2 =
+    .label = { $email } isn’t confirmed yet
+    .description = Check your inbox to confirm your account and make it official.
 sync-signedin-login-failure = Please sign in to reconnect { $email }
+sync-signedin-login-failure2 =
+    .label = You’re signed out of { $email }
+    .description = Sign back in to reconnect and start syncing your data.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1002,7 +1107,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Syncing: ON
+prefs-syncing-on-2 =
+    .label = Syncing is ON
 prefs-syncing-off = Syncing: OFF
+prefs-syncing-off-2 =
+    .label = Syncing is OFF
+    .description = Turn on sync to get your bookmarks, passwords, history, and more on any device.
 prefs-sync-turn-on-syncing =
     .label = Turn on syncing…
     .accesskey = s
@@ -1045,6 +1155,9 @@ sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = Settings
 sync-manage-options =
     .label = Manage sync…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = Manage synced data
     .accesskey = M
 sync-change-options =
     .label = Change…
@@ -1218,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Use a primary password
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Use a primary password
+    .description = Adds an extra layer of security to protect your saved passwords.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Set primary password
 forms-primary-pw-on =
@@ -1230,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Require device sign in to fill and manage passwords
+forms-os-reauth-2 =
+    .label = Require device sign in to manage passwords
 forms-primary-pw-learn-more-link = Learn more
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1305,6 +1424,12 @@ autofill-payment-methods-add-button = Add new payment method
 payments-list-header =
     .label = Payment methods
 payments-list-item-label = <strong>Payment methods</strong>
+payments-delete-payment-prompt-title = Delete this payment method?
+payments-delete-payment-prompt-confirm-button = Delete
+payments-delete-payment-prompt-cancel-button = Cancel
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = No payment methods added
 payments-remove-payment-prompt-title = Remove this payment method?
 payments-remove-payment-prompt-confirm-button = Remove
 payments-remove-payment-prompt-cancel-button = Cancel
@@ -1317,6 +1442,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Manage addresses and more
     .accesskey = M
+addresses-list-header =
+    .label = Addresses
+addreses-delete-address-button-label =
+    .aria-label = Delete
+addreses-edit-address-button-label =
+    .aria-label = Edit
+addresses-delete-address-prompt-title = Delete this address?
+addresses-delete-address-prompt-confirm-button = Delete
+addresses-delete-address-prompt-cancel-button = Cancel
+autofill-addresses-add-button = Add new address
+autofill-addresses-manage-addresses-title =
+    .heading = Manage addresses and more
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = No addresses added
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1511,6 +1658,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Quick actions
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Recent searches
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Trending search suggestions
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Suggestions from { -brand-short-name }
@@ -1547,6 +1700,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Dismissed suggestions
     .description = Restore dismissed suggestions from sponsors and { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restore suggestions
 addressbar-quickactions-learn-more = Learn more
 addressbar-dismissed-suggestions-label = Dismissed suggestions
 addressbar-restore-dismissed-suggestions-description = Restore dismissed suggestions from sponsors and { -brand-short-name }.
