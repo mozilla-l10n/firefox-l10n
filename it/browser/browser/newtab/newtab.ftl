@@ -341,6 +341,8 @@ newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
 newtab-widget-manage-title = Widget
+newtab-widget-manage-widget-button =
+    .label = Gestisci widget
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Chiudi
