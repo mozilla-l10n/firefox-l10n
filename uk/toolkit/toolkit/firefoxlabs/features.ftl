@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Подання вебсторінки
 experimental-features-group-customize-browsing =
     .label = Налаштуйте свій перегляд
+experimental-features-group-productivity =
+    .label = Продуктивність
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Паролі в бічній панелі
@@ -51,3 +53,27 @@ experimental-features-link-previews-description-no-ai =
 experimental-features-newtab-sections-follow-block =
     .label = Розділи тем і Стежити/Блокувати для історій нової вкладки
 experimental-features-newtab-sections-follow-block-description = Організуйте історії на сторінці нової вкладки за тематичними розділами (спорт, їжа, розваги тощо) для більш структурованого та зручного перегляду. Використовуйте наші нові елементи керування "Стежити" та "Блокувати", щоб налаштувати вміст, який ви бачите. <a data-l10n-name="connect">Поділитися відгуком</a>
+# Firefox Web Apps
+experimental-features-fx-web-apps =
+    .label = Додайте сайти до панелі завдань
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Відкривайте часто відвідувані сайти з панелі завдань, як вебпрограми. Знайдіть піктограму “Додати вкладку до панелі завдань” у правій частині панелі адреси, щоб відкрити сайт у спеціальному вікні з повним захистом { -brand-product-name }. <a data-l10n-name="connect">Поділіться враженням</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Списки на { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-description = Переглядайте свій список завдань, відкриваючи нову вкладку. Керуйте планами у { -brand-product-name }. <a data-l10n-name="connect">Поділіться враженням</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Таймер у { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-description = Встановлюйте таймер для зосередження, нагадування про ціль або про час відновлення. <a data-l10n-name="connect">Поділіться враженням</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Списки та таймер на { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Переглядайте свій список завдань, відкриваючи нову вкладку. Керуйте планами у { -brand-product-name }. Встановлюйте таймер для зосередження, нагадування про ціль або про час відновлення. <a data-l10n-name="connect">Поділіться враженням</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Семантичний пошук історії
+experimental-features-semantic-history-search-description = Використовуйте локальну модель машинного навчання для пропозицій записів з історії, пов'язаних з вашими пошуковими запитами, на основі розуміння мовлення в панелі адреси { -brand-product-name }. Поділіться враженням</a>
