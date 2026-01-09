@@ -30,6 +30,9 @@ genai-menu-remove-provider =
     .label = הסרת { $provider }
 genai-menu-remove-sidebar =
     .label = הסרה מסרגל הצד
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = לשאול את { $provider }
 genai-menu-new-badge = חדש
 genai-menu-summarize-page = סיכום העמוד
 genai-input-ask-generic =
