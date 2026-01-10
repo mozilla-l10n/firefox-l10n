@@ -1331,6 +1331,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Uzi ĉefan pasvorton
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Uzi ĉefan pasvorton
+    .description = Tio ĉi aldonas kroman sekurecan tavolon por protekti viajn konservitajn pasvortojn.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Elekti ĉefan pasvorton
 forms-primary-pw-on =
@@ -1343,6 +1347,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Postuli komencon de seanco en la aparato por enigi kaj administri pasvortojn
+forms-os-reauth-2 =
+    .label = Postuli komencon de seanco en la aparato por administri pasvortojn
 forms-primary-pw-learn-more-link = Pli da informo
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
