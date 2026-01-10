@@ -388,6 +388,38 @@ translate-exceptions =
     .accesskey = อ
 settings-translations-subpage-header =
     .heading = การตั้งค่าการแปลเพิ่มเติม
+settings-translations-subpage-speed-up-translation-header =
+    .label = เร่งความเร็วในการแปล
+    .description = ดาวน์โหลดภาษาฉบับเต็มเพื่อการแปลที่รวดเร็วยิ่งขึ้นและเพื่อแปลแบบออฟไลน์
+settings-translations-subpage-automatic-translation-header =
+    .label = การแปลอัตโนมัติ
+settings-translations-subpage-always-translate-header =
+    .label = แปลภาษาเหล่านี้เสมอ
+settings-translations-subpage-never-translate-header =
+    .label = ไม่ต้องแปลภาษาเหล่านี้
+settings-translations-subpage-never-translate-sites-header =
+    .label = ไม่ต้องแปลไซต์เหล่านี้
+settings-translations-subpage-language-select-option =
+    .label = เพิ่มภาษา
+settings-translations-subpage-language-add-button =
+    .aria-label = เพิ่มภาษา
+    .title = เพิ่มภาษา
+settings-translations-subpage-download-languages-header =
+    .label = ดาวน์โหลดภาษา
+settings-translations-subpage-download-languages-select-option =
+    .label = เลือกภาษา
+settings-translations-subpage-download-languages-button =
+    .aria-label = ดาวน์โหลดภาษา
+    .title = ดาวน์โหลดภาษา
+settings-translations-subpage-no-languages-downloaded =
+    .label = ไม่มีภาษาที่ดาวน์โหลด
+settings-translations-subpage-download-progress = กำลังดาวน์โหลด…
+settings-translations-subpage-download-retry-button =
+    .label = ลองอีกครั้ง
+settings-translations-subpage-download-delete-button =
+    .label = ลบ
+settings-translations-subpage-download-cancel-button =
+    .label = ยกเลิก
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -554,6 +586,11 @@ update-in-progress-ok-button = &ละทิ้ง
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
+
+## Firefox support
+
+support-get-help =
+    .label = รับความช่วยเหลือ
 
 ## General Section - Performance
 
@@ -817,6 +854,8 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = แสดงคำแนะนำการค้นหาในผลลัพธ์ของแถบที่อยู่
     .accesskey = ส
+search-show-suggestions-private-windows-2 =
+    .label = แสดงคำแนะนำการค้นหาในหน้าต่างส่วนตัว
 search-suggestions-cant-show-2 =
     .message = คำแนะนำการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
 addressbar-header-1 =
@@ -973,6 +1012,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = การซิงค์: เปิด
+prefs-syncing-on-2 =
+    .label = การซิงค์เปิดอยู่
 prefs-syncing-off = การซิงค์: ปิด
 prefs-sync-turn-on-syncing =
     .label = เปิดการซิงค์…
@@ -1272,6 +1313,9 @@ autofill-payment-methods-add-button = เพิ่มวิธีการชำ
 payments-list-header =
     .label = วิธีการชำระเงิน
 payments-list-item-label = <strong>วิธีการชำระเงิน</strong>
+payments-delete-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
+payments-delete-payment-prompt-confirm-button = ลบ
+payments-delete-payment-prompt-cancel-button = ยกเลิก
 payments-remove-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
 payments-remove-payment-prompt-confirm-button = ลบ
 payments-remove-payment-prompt-cancel-button = ยกเลิก
@@ -1284,6 +1328,17 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = จัดการที่อยู่และอื่นๆ
     .accesskey = M
+addresses-list-header =
+    .label = ที่อยู่
+addreses-delete-address-button-label =
+    .aria-label = ลบ
+addreses-edit-address-button-label =
+    .aria-label = แก้ไข
+addresses-delete-address-prompt-title = ลบที่อยู่นี้หรือไม่?
+addresses-delete-address-prompt-confirm-button = ลบ
+addresses-delete-address-prompt-cancel-button = ยกเลิก
+autofill-addresses-manage-addresses-title =
+    .heading = จัดการที่อยู่และอื่นๆ
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
