@@ -386,6 +386,8 @@ translate-attribution = แปลโดย <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
+settings-translations-subpage-header =
+    .heading = การตั้งค่าการแปลเพิ่มเติม
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
