@@ -76,4 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Перегля
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Семантичний пошук історії
-experimental-features-semantic-history-search-description = Використовуйте локальну модель машинного навчання для пропозицій записів з історії, пов'язаних з вашими пошуковими запитами, на основі розуміння мовлення в панелі адреси { -brand-product-name }. Поділіться враженням</a>
+experimental-features-semantic-history-search-description = Використовуйте локальну модель машинного навчання для пропозицій записів з історії, пов'язаних з вашими пошуковими запитами, на основі розуміння мовлення в панелі адреси { -brand-product-name }. <a data-l10n-name="connect">Поділіться враженням</a>
