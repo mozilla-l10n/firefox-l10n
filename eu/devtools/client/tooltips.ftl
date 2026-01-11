@@ -19,6 +19,7 @@ learn-more = <span data-l10n-name="link">Argibide gehiago</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex edo sareta edukiontzia.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex, sareta edo hainbat zutabetako edukiontzia.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako zutabe-aniztun edukiontzia.
+inactive-css-column-span = <strong>{ $property }</strong> propietateak ez du hedatzeko eraginik elementu honetan ez dagoelako zutabe-aniztun edukiontzi batean.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex edo sareta elementua.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako grid edo flex elementua, ez eta absolutuki kokatutako elementua.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako grid elementua, ez eta absolutuki kokatutako elementua.
