@@ -430,3 +430,12 @@ etp-strict-exceptions-infobar-button = Uveljavi popravke
     .accesskey = a
 etp-strict-exceptions-infobar-not-now = Ne zdaj
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ni vaš privzeti brskalnik
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ni vaš glavni brskalnik
+set-default-menu-message-row-layout-title = Nastavi { -brand-short-name(sklon: "tozilnik") } kot glavni brskalnik
+set-default-menu-message-row-layout-title-variant = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
+set-default-menu-message-row-layout-subtitle = Izberite hitrost, varnost in zasebnost ob vsakem brskanju.
+set-default-menu-message-primary-button-variant = Nastavi kot glavni brskalnik
