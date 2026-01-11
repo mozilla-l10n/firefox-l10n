@@ -701,7 +701,7 @@ newtab-widget-message-title = Mantieni la concentrazione utilizzando le liste e 
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Da promemoria veloci a liste di attività quotidiane, da sessioni di concentrazione a pause per rilassarsi: mantieni l’attenzione e rispetta i tempi.
 newtab-promo-card-title = Sostieni { -brand-product-name }
-newtab-promo-card-body = I nostri sponsor sostengono la nostra missione di costruire un Web migliore
+newtab-promo-card-body = Gli sponsor sostengono la nostra missione di costruire un Web migliore
 newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
