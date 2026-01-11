@@ -51,7 +51,30 @@ inactive-css-collapsed-table-borders = <strong>{ $property }</strong> propietate
 inactive-css-not-table-cell = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako taula-gelaxka bat.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako korritu.
 inactive-css-border-image = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ezin delako barneko taula-elementuetan aplikatu guraso taula-elementuan <strong>border-collapse</strong> atributuaren balioa <strong>collapse</strong> gisa ezarrita dagoenean.
+inactive-css-resize = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan visible ez beste overflow balioa duten elementuetan bakarrik aplika daitekeelako, hala nola ordezkatutako zenbait elementuetan, adibidez testu eremuetan.
 inactive-css-ruby-element = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan, 'ruby' elementua delako. Bere tamaina 'ruby' testuaren letra-tamainak zehazten du.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> propietatea ez dago erabilgarri highlight pseudo-elementuetan.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> propietatea ez dago erabilgarri ::cue pseudo-elementuetan.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan lerro { $lineCount } baino gehiago duelako.
+       *[other] <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan { $lineCount } lerro baino gehiago dituelako.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan zatikatuta dagoelako, hau da, bere edukia hainbat zutabe edo orriren artean banatuta dago.
+inactive-css-no-width-height = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan bere zabalera eta altuera ezin direlako ezarri.
+inactive-css-no-principal-box = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez duelako kutxa nagusirik sortzen.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
