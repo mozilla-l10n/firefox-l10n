@@ -135,3 +135,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Argibide gehi
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Hautatzaile honek murriztapenik gabeko <strong>:has()</strong> darabil eta mantsoa izan liteke
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = <strong>:scope</strong> ondorengo senide diren hautatzaileak inoiz ez dira ezerekin bat etorriko
