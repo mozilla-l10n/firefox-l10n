@@ -34,7 +34,7 @@ settings-data-backup-last-backup-date = Zadnja varnostna kopija: { DATETIME($dat
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Mesto
 settings-data-backup-last-backup-location-show-in-folder = Prikaži v mapi
-settings-data-backup-last-backup-location-edit = Uredi …
+settings-data-backup-last-backup-location-edit = Spremeni …
 settings-data-create-backup-error = { DATETIME($date, dateStyle: "short") } ob { DATETIME($date, timeStyle: "short") } je prišlo do napake
 settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačila ter ohranite vse svoje podatke s šifriranjem.
 # Variables:
@@ -51,9 +51,9 @@ settings-data-backup-scheduled-backups-off-restore-choose = Izberi datoteko varn
 
 settings-data-backup-scheduled-backups-on-restore-description = Obnovite svoje { -brand-product-name }ove podatke od zadnjega varnostnega kopiranja.
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovi …
-settings-data-toggle-encryption-label = Varnostno kopirajte občutljive podatke
+settings-data-toggle-encryption-label = Varnostno kopiraj občutljive podatke
 settings-data-toggle-encryption-support-link = Več o tem
-settings-data-change-password = Spremenite geslo …
+settings-data-change-password = Spremeni geslo …
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -140,14 +140,14 @@ backup-service-error-went-wrong2 =
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
-enable-backup-encryption-header = Varnostno kopirajte občutljive podatke
+enable-backup-encryption-header = Varnostno kopiranje občutljivih podatkov
 enable-backup-encryption-support-link = Več o tem
 enable-backup-encryption-create-password-label = Geslo
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = Ponovite geslo
 enable-backup-encryption-cancel-button = Prekliči
 enable-backup-encryption-confirm-button = Shrani
-change-backup-encryption-header = Spremenite geslo varnostne kopije
+change-backup-encryption-header = Sprememba gesla varnostnih kopij
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
@@ -167,7 +167,7 @@ password-rules-a11y-warning =
 
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
-disable-backup-encryption-header = Odstrani zaščito z geslom
+disable-backup-encryption-header = Odstranitev zaščite z geslom
 disable-backup-encryption-support-link = Kaj se bo varnostno kopiralo?
 disable-backup-encryption-cancel-button = Prekliči
 disable-backup-encryption-confirm-button = Odstrani geslo
