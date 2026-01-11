@@ -470,6 +470,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cerca località
     .aria-label = Cerca località
 newtab-weather-menu-weather-display = Visualizzazione meteo
+newtab-weather-todays-forecast = Previsioni per oggi
+newtab-weather-see-full-forecast = Mostra previsioni complete
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
