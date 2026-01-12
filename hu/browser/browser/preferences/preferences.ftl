@@ -414,6 +414,9 @@ settings-translations-more-settings-button =
     .description = Nyelvek, webhelyek és offline fordítások beállításainak megadása.
 settings-translations-subpage-header =
     .heading = További fordítási beállítások
+settings-translations-subpage-speed-up-translation-header =
+    .label = Fordítás felgyorsítása
+    .description = Töltsön le teljes nyelveket a gyorsabb fordításhoz és az offline használathoz.
 settings-translations-subpage-automatic-translation-header =
     .label = Automatikus fordítás
 settings-translations-subpage-always-translate-header =
@@ -1323,6 +1326,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Elsődleges jelszó használata
     .accesskey = E
+forms-primary-pw-use-2 =
+    .label = Elsődleges jelszó használata
+    .description = Egy további biztonsági réteget nyújt a mentett jelszavak védelmére.
+    .accesskey = E
 forms-primary-pw-set =
     .label = Elsődleges jelszó beállítása
 forms-primary-pw-on =
@@ -1335,6 +1342,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Az eszköz által biztosított bejelentkezés megkövetelése a jelszavak kitöltéséhez és kezeléséhez
+forms-os-reauth-2 =
+    .label = Az eszköz által biztosított bejelentkezés megkövetelése a jelszavak kezeléséhez
 forms-primary-pw-learn-more-link = Tudjon meg többet
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1412,6 +1421,10 @@ payments-list-header =
 payments-list-item-label = <strong>Fizetési módok</strong>
 payments-delete-payment-prompt-title = Törli ezt a fizetési módot?
 payments-delete-payment-prompt-confirm-button = Törlés
+payments-delete-payment-prompt-cancel-button = Mégse
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nincs fizetési mód hozzáadva
 payments-remove-payment-prompt-title = Eltávolítja ezt a fizetési módot?
 payments-remove-payment-prompt-confirm-button = Eltávolítás
 payments-remove-payment-prompt-cancel-button = Mégse
@@ -1424,6 +1437,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Címek és egyebek kezelése
     .accesskey = k
+addresses-list-header =
+    .label = Címek
+addreses-delete-address-button-label =
+    .aria-label = Törlés
+addreses-edit-address-button-label =
+    .aria-label = Szerkesztés
+addresses-delete-address-prompt-title = Törli ezt a címet?
+addresses-delete-address-prompt-confirm-button = Törlés
+addresses-delete-address-prompt-cancel-button = Mégse
+autofill-addresses-add-button = Új cím hozzáadása
+autofill-addresses-manage-addresses-title =
+    .heading = Címek és egyebek kezelése
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nincs cím hozzáadva
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1618,6 +1653,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gyors műveletek
     .accesskey = r
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Legutóbbi keresések
+    .accesskey = L
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Felkapott keresési javaslatok
+    .accesskey = F
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Javaslatok a { -brand-short-name }tól
@@ -1654,6 +1695,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Elutasított javaslatok
     .description = A szponzoroktól és a { -brand-short-name }tól származó elutasított javaslatok helyreállítása.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Javaslatok helyreállítása
 addressbar-quickactions-learn-more = További tudnivalók
 addressbar-dismissed-suggestions-label = Elutasított javaslatok
 addressbar-restore-dismissed-suggestions-description = A szponzoroktól és a { -brand-short-name }tól származó elutasított javaslatok helyreállítása.

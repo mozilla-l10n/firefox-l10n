@@ -369,9 +369,15 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = Jegyzet hozzáadása
     .accesskey = a
+tab-context-update-note =
+    .label = Jegyzet frissítése
+    .accesskey = e
 tab-context-edit-note =
     .label = Jegyzet szerkesztése
     .accesskey = e
+tab-context-delete-note =
+    .label = Jegyzet törlése
+    .accesskey = t
 tab-note-editor-title-create = Jegyzet hozzáadása
 tab-note-editor-title-edit = Jegyzet szerkesztése
 tab-note-editor-text-field =
@@ -382,6 +388,16 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Mentés
     .accesskey = e
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } karakter
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } karakter
+    }
 
 ## Split View
 

@@ -171,12 +171,12 @@ permissions-site-xr-disable-desc = Ez megakadályozza, hogy a fent fel nem sorol
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Beállítások – Kamera engedélyek
+    .title = Beállítások – Kameraengedélyek
     .style = { permissions-window2.style }
-permissions-site-camera-desc = A következő weboldalak kérték, hogy hozzáférhessenek a kamerájához. Megadhatja, hogy mely weboldalak férjenek hozzá a kamerájához. Az új kamera hozzáférési kéréseket is blokkolhatja.
+permissions-site-camera-desc = A következő weboldalak kérték, hogy hozzáférhessenek a kamerájához. Megadhatja, hogy mely weboldalak férjenek hozzá a kamerájához. Az új kamera-hozzáférési kéréseket is blokkolhatja.
 permissions-site-camera-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a kamerájához
-permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak kamera hozzáférést kérjenek. A kamera hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
+permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak kamera-hozzáférést kérjenek. A kamera-hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Local host
 
@@ -201,26 +201,26 @@ permissions-site-local-network-disable-desc = Ez megakadályozza, hogy a fent fe
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Beállítások – Mikrofon engedélyek
+    .title = Beállítások – Mikrofonengedélyek
     .style = { permissions-window2.style }
 permissions-site-microphone-desc = A következő weboldalak kérték, hogy hozzáférhessenek a mikrofonjához. Megadhatja, hogy mely weboldalak férjenek hozzá a mikrofonjához. Az új mikrofon hozzáférési kéréseket is blokkolhatja.
 permissions-site-microphone-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a mikrofonjához
-permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak mikrofon hozzáférést kérjenek. A mikrofon hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
+permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak mikrofon-hozzáférést kérjenek. A mikrofon-hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
 ## Site Permissions - Speaker
 ##
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Beállítások – Hangszóró engedélyek
+    .title = Beállítások – Hangszóróengedélyek
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = A következő weboldalak kérték, hogy kiválasszanak egy hangkimeneti eszközt. Megadhatja, hogy mely weboldalak választhassanak hangkimeneti eszközt.
 permissions-exceptions-doh-window =
-    .title = Webhely-kivételek a HTTPS feletti DNS-hez
+    .title = Webhelykivételek a HTTPS-en keresztüli DNS-hez
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = A { -brand-short-name } nem használ biztonságos DNS-t ezeken a webhelyeken és az aldomainjeiken.
-permissions-doh-entry-field = Adja meg a weboldal domain nevét
+permissions-doh-entry-field = Adja meg a weboldal domainnevét
     .accesskey = d
 permissions-doh-add-exception =
     .label = Hozzáadás
