@@ -746,8 +746,8 @@ fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } vyhledá va
 restore-from-backup-secondary-top-button = Obnova ze zálohy
 restore-from-backup-title =
     { -brand-short-name.case-status ->
-        [with-cases] Získejte { -brand-short-name(case: "acc") } podle svých představ
-       *[no-cases] Získejte aplikaci { -brand-short-name } podle svých představ
+        [with-cases] Vraťme { -brand-short-name(case: "acc") } zpět do podoby, jaká se vám líbí
+       *[no-cases] Vraťme aplikaci { -brand-short-name } zpět do podoby, jaká se vám líbí
     }
 restore-from-backup-subtitle = Obnovte všechny své záložky, historii a další data, abyste se mohli vrátit k prohlížení.
 restore-from-backup-secondary-button = Neobnovovat
