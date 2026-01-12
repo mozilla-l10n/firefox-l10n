@@ -84,9 +84,9 @@ permissions-exceptions-manage-etp-desc = Du kan oppgje kva for nettstadar som ha
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Unntak - Infokapslar og nettstaddata
+    .title = Unntak - Infokapslar og nettstad-data
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som alltid eller aldri får bruke infokapslar og nettstaddata.  Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
+permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som alltid eller aldri får bruke infokapslar og nettstad-data.  Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
 
 ## Exceptions - HTTPS-Only Mode
 

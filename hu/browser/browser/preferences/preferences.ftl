@@ -425,6 +425,8 @@ settings-translations-subpage-never-translate-header =
     .label = Sose fordítson ezekről a nyelvekről
 settings-translations-subpage-never-translate-sites-header =
     .label = Sose fordítsa ezeket az oldalakat
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Oldal hozzáadásához nyissa meg a <img data-l10n-name="translations-icon"/> fordítási panelt, válassza a <img data-l10n-name="settings-icon"/> fordítási beállításokat, majd válassza a „Sose fordítsa le ezt az oldalt” lehetőséget.
 settings-translations-subpage-language-select-option =
     .label = Nyelv hozzáadása
 settings-translations-subpage-language-add-button =
@@ -1024,6 +1026,9 @@ sync-signedout-caption = Vigye magával a webet
 sync-signedout-description2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 sync-signedout-account-signin3 =
     .label = Jelentkezzen be a szinkronizáláshoz…
+    .accesskey = J
+sync-signedout-account-signin-4 =
+    .label = Jelentkezzen be a fiókjába a szinkronizálás megkezdéséhez
     .accesskey = J
 sync-signedout-account-short =
     .label = Bejelentkezés

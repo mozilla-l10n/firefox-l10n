@@ -1546,10 +1546,10 @@ sitedata-total-size2 = Dei lagra infokapslane dine, historikk, nettstaddata og h
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Dei lagra infokapslane dine, nettstaddata og hurtiglager brukar for tida { $value } { $unit } diskplass.
+sitedata-total-size = Dei lagra infokapslane dine, nettstad-data og hurtiglager brukar for tida { $value } { $unit } diskplass.
 sitedata-learn-more = Les meir
 sitedata-delete-on-close =
-    .label = Slett infokapslar og nettstaddata når { -brand-short-name } stenger
+    .label = Slett infokapslar og nettstad-data når { -brand-short-name } stenger
     .accesskey = S
 sitedata-delete-on-close-private-browsing3 =
     .message = Basert på historikkinnstillingane dine, slettar { -brand-short-name } infokapslar og nettstadsdata frå økta di når du lèt att nettlesaren.
