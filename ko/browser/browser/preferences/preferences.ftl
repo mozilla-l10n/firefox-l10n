@@ -1651,7 +1651,7 @@ addressbar-locbar-showtrendingsuggestions-option-2 =
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = { -brand-short-name }의 제안
-    .description = 사용자 검색과 관련된 웹 제안을 받으세요.
+    .description = 검색어와 관련된 웹 제안을 받습니다.
 addressbar-locbar-suggest-sponsored-option-2 =
     .label = 스폰서 제안
     .description = 가끔씩 스폰서 제안으로 { -brand-short-name }를 지원합니다.
