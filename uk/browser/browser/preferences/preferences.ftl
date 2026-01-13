@@ -712,8 +712,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Власна домівка
+home-custom-homepage-subpage =
+    .heading = Власна домівка
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Адреса вебсайту
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Адреса вебсайту
 home-custom-homepage-address =
     .placeholder = Введіть адресу
 home-custom-homepage-address-button =
@@ -987,6 +992,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
