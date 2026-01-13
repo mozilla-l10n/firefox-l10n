@@ -91,6 +91,9 @@ newtab-menu-report = گوزارش
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = مسدۊد کردن
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
@@ -138,9 +141,15 @@ newtab-section-menu-manage-webext = دؽوۉداری وردنی
 newtab-section-menu-add-search-engine = ٱووردن موتور پیتینیڌن
 newtab-section-menu-privacy-notice = نوکات زفت مهرموویی
 
+## Section aria-labels
+
+
 ## Section Headers.
 
 newtab-section-header-stories = داستانا فرگ کردنی
+
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -158,6 +167,13 @@ newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
+
 ## Customization Menu
 
 newtab-custom-shortcuts-title = ر نهنگا
@@ -169,6 +185,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = زمووݩ سنج
 newtab-custom-widget-section-title = ویجتا
+newtab-custom-widget-section-toggle =
+    .label = ویجتا
+newtab-widget-manage-title = ویجتا
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = بستن
@@ -192,6 +211,9 @@ newtab-wallpaper-green = ساوز
 newtab-wallpaper-beige = بژ
 newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
+
+## Abstract
+
 
 ## Firefox
 
