@@ -332,6 +332,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Sayaç
 newtab-custom-widget-section-title = Araçlar
+newtab-custom-widget-section-toggle =
+    .label = Araçlar
+newtab-widget-manage-title = Araçlar
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Kapat
