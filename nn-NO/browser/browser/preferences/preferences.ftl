@@ -1542,7 +1542,7 @@ sitedata-total-size-calculating = Reknar ut storleik på nettstad-data og snøgg
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Dei lagra infokapslane dine, historikk, nettstaddata og hurtiglager brukar akkurat no <strong>{ $value } { $unit }</strong> diskplass.
+sitedata-total-size2 = Dei lagra infokapslane dine, historikk, nettstad-data og hurtiglager brukar akkurat no <strong>{ $value } { $unit }</strong> diskplass.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1553,7 +1553,7 @@ sitedata-delete-on-close =
     .accesskey = S
 sitedata-delete-on-close-private-browsing3 =
     .message = Basert på historikkinnstillingane dine, slettar { -brand-short-name } infokapslar og nettstadsdata frå økta di når du lèt att nettlesaren.
-sitedata-delete-on-close-private-browsing = I permanent privat nettlesingsmodus vil infokapslar og nettstaddata alltid bli sletta når { -brand-short-name } er avslutta.
+sitedata-delete-on-close-private-browsing = I permanent privat nettlesingsmodus vil infokapslar og nettstad-data alltid bli sletta når { -brand-short-name } er avslutta.
 sitedata-delete-on-close-private-browsing2 = Basert på historikkinnstillingane dine, slettar { -brand-short-name } infokapslar og nettstadsdata frå økta di når du lèt att nettlesaren.
 sitedata-allow-cookies-option =
     .label = Tillat infokapslar og nettsidedata
@@ -1597,7 +1597,7 @@ sitedata-cookies-exceptions =
 sitedata-cookies-exceptions2 =
     .label = Handsam unntak
     .accesskey = H
-    .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstaddata.
+    .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstad-data.
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2018,7 +2018,7 @@ certs-devices-enable-fips = Bruk FIPS
 space-alert-over-5gb-settings-button =
     .label = Opne Innstillingar
     .accesskey = p
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personvern og sikkerheit > Infokapslar og nettstaddata.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personvern og sikkerheit > Infokapslar og nettstad-data.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innhaldet på nettsida ikkje vert vist skikkeleg. Gå til «Les meir» for å optimalisere diskbruken din for ei betre nettoppleving.
 certs-description2 =
     .label = Sertifikat

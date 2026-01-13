@@ -6,8 +6,8 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Handsam infokapslar og nettstaddata
-site-data-settings-description = Følgjande nettstadar lagrar infokapslar og nettstaddata på datamaskina. { -brand-short-name } lagrar data frå nettstadar med vedvarande lagring heilt til du slettar dei og slettar data frå nettstadar med ikkje-vedvarende lagring etterkvart som det trengst plass.
+    .title = Handsam infokapslar og nettstad-data
+site-data-settings-description = Følgjande nettstadar lagrar infokapslar og nettstad-data på datamaskina. { -brand-short-name } lagrar data frå nettstadar med vedvarande lagring heilt til du slettar dei og slettar data frå nettstadar med ikkje-vedvarende lagring etterkvart som det trengst plass.
 site-data-search-textbox =
     .placeholder = Søk på nettsider
     .accesskey = S
@@ -50,5 +50,5 @@ site-data-removing-header = Fjernar infokapslar og nettsidedata
 site-data-removing-desc = Fjerning av infokapslar og nettsidedata kan logge deg ut av nettsider. Er du sikker på at du vil gjere desse endringane?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
-site-data-removing-single-desc = Fjerning av infokapslar og nettstaddata kan logge deg ut av nettstadar. Er du sikker på at du vil fjerne infokapslar og nettstaddata for <strong>{ $baseDomain }</strong>?
+site-data-removing-single-desc = Fjerning av infokapslar og nettstad-data kan logge deg ut av nettstadar. Er du sikker på at du vil fjerne infokapslar og nettstad-data for <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Infokapslar og nettsidedata frå følgjande nettstadar vil bli fjerna

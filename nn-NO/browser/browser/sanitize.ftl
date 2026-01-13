@@ -67,7 +67,7 @@ item-cookies =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cookies-site-data-with-size =
-    .label = Infokapslar og nettstaddata ({ $amount } { $unit })
+    .label = Infokapslar og nettstad-data ({ $amount } { $unit })
     .accesskey = a
 item-cookies-site-data =
     .label = Infokapsler og nettstedsdata
