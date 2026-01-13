@@ -88,9 +88,6 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 
 newtab-topsite-sponsored = S lmendad
 
-## Label used by screen readers for pinned top sites
-
-
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -380,12 +377,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
-## Celestial
-
-
 ## New Tab Weather
 
 # Variables:
@@ -486,9 +477,6 @@ newtab-new-user-custom-wallpaper-cta = Ɛreḍ-it tura
 newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
 newtab-download-mobile-highlight-image =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting issues with ads and content
 

@@ -88,9 +88,6 @@ newtab-confirm-delete-history-p2 = Esta acción no se puede deshacer.
 
 newtab-topsite-sponsored = Patrocinado
 
-## Label used by screen readers for pinned top sites
-
-
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -563,18 +560,12 @@ newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aqu
 newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
 newtab-custom-wallpaper-cta = Intentalo
 
-## Strings for new user activation custom wallpaper highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móviles
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Escanea el código para navegar de forma segura mientras viajas.
 newtab-download-mobile-highlight-body-variant-b = Continúa donde lo dejaste cuando sincronizas tus pestañas, contraseñas y más.
-
-## Strings for shortcuts highlight
-
 
 ## Strings for reporting issues with ads and content
 
