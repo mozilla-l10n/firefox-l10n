@@ -329,6 +329,9 @@ newtab-custom-widget-weather-toggle =
 newtab-custom-widget-lists-toggle =
     .label = Daftar
 newtab-custom-widget-section-title = Widget
+newtab-custom-widget-section-toggle =
+    .label = Widget
+newtab-widget-manage-title = Widget
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Tutup
@@ -424,6 +427,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
 
 ## Celestial
 
