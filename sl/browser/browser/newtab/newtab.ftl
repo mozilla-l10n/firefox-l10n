@@ -337,6 +337,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Časovnik
 newtab-custom-widget-section-title = Pripomočki
+newtab-custom-widget-section-toggle =
+    .label = Pripomočki
+newtab-widget-manage-title = Pripomočki
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zapri
