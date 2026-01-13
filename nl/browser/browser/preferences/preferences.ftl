@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Aangepaste startpagina
+home-custom-homepage-subpage =
+    .heading = Aangepaste startpagina
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Websiteadres(sen)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Websiteadres(sen)
 home-custom-homepage-address =
     .placeholder = Voer adres in
 home-custom-homepage-address-button =
