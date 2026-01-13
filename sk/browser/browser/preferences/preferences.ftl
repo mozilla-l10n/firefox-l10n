@@ -779,8 +779,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Vlastná domovská stránka
+home-custom-homepage-subpage =
+    .heading = Vlastná domovská stránka
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresy webových stránok
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Adresy webových stránok
 home-custom-homepage-address =
     .placeholder = Zadajte adresu
 home-custom-homepage-address-button =
