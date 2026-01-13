@@ -330,6 +330,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = שעון עצר
 newtab-custom-widget-section-title = ווידג’טים
+newtab-custom-widget-section-toggle =
+    .label = ווידג’טים
+newtab-widget-manage-title = ווידג’טים
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = סגירה
