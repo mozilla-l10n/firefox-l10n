@@ -775,8 +775,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Саҳифаи асосии фармоишӣ
+home-custom-homepage-subpage =
+    .heading = Саҳифаи асосии фармоишӣ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Нишони(ҳо)и сомона
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Нишони(ҳо)и сомона
 home-custom-homepage-address =
     .placeholder = Нишониеро ворид намоед
 home-custom-homepage-address-button =
