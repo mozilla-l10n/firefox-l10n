@@ -764,8 +764,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Tùy chỉnh trang chủ
+home-custom-homepage-subpage =
+    .heading = Tùy chỉnh trang chủ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Địa chỉ trang web
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Địa chỉ trang web
 home-custom-homepage-address =
     .placeholder = Nhập địa chỉ
 home-custom-homepage-address-button =
