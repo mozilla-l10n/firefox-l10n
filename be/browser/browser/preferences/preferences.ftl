@@ -779,8 +779,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Уласная хатняя старонка
+home-custom-homepage-subpage =
+    .heading = Уласная хатняя старонка
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Адрас(ы) сайта(ў)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Адрас(ы) сайта(ў)
 home-custom-homepage-address =
     .placeholder = Увядзіце адрас
 home-custom-homepage-address-button =
