@@ -788,8 +788,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Tudalen Cartref Cyfaddas
+home-custom-homepage-subpage =
+    .heading = Tudalen Cartref Cyfaddas
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Cyfeiriad(au) gwefan
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Cyfeiriad(au) gwefan
 home-custom-homepage-address =
     .placeholder = Rhowch gyfeiriad
 home-custom-homepage-address-button =
