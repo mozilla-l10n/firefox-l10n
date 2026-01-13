@@ -779,8 +779,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagină de start personalizată
+home-custom-homepage-subpage =
+    .heading = Pagină de start personalizată
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresă(e) site web
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Adresă(e) site web
 home-custom-homepage-address =
     .placeholder = Introdu adresa
 home-custom-homepage-address-button =

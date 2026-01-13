@@ -67,6 +67,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -497,8 +508,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
+home-custom-homepage-subpage =
+    .heading = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = വെബ്ബിട വിലാസം(കൾ)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = വെബ്ബിട വിലാസം(കൾ)
 home-custom-homepage-address =
     .placeholder = വിലാസം നല്കുക
 home-custom-homepage-address-button =
@@ -690,6 +706,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -990,6 +1011,9 @@ sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = കുക്കീസു പൊന്തുവരൽ തടയൽയന്ത്രം
@@ -1099,6 +1123,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 

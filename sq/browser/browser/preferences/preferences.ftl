@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Faqe Hyrëse e Përshtatur
+home-custom-homepage-subpage =
+    .heading = Faqe Hyrëse e Përshtatur
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresë(a) sajti
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Adresë(a) sajti
 home-custom-homepage-address =
     .placeholder = Jepni adresë
 home-custom-homepage-address-button =

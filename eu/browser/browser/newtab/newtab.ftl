@@ -335,6 +335,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Tenporizadorea
 newtab-custom-widget-section-title = Widgetak
+newtab-custom-widget-section-toggle =
+    .label = Widgetak
+newtab-widget-manage-title = Widgetak
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Itxi

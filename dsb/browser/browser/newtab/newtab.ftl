@@ -338,6 +338,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Měritko casa
 newtab-custom-widget-section-title = Asistenty
+newtab-custom-widget-section-toggle =
+    .label = Asistenty
+newtab-widget-manage-title = Asistenty
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zacyniś

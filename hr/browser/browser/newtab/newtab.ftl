@@ -337,6 +337,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Odbrojavanje
 newtab-custom-widget-section-title = Widgeti
+newtab-custom-widget-section-toggle =
+    .label = Widgeti
+newtab-widget-manage-title = Widgeti
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zatvori

@@ -781,8 +781,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Domača stran po meri
+home-custom-homepage-subpage =
+    .heading = Domača stran po meri
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Naslov spletnega mesta oz. spletnih mest
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Naslov spletnega mesta oz. spletnih mest
 home-custom-homepage-address =
     .placeholder = Vnesite naslov
 home-custom-homepage-address-button =

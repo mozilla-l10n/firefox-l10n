@@ -335,6 +335,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = 타이머
 newtab-custom-widget-section-title = 위젯
+newtab-custom-widget-section-toggle =
+    .label = 위젯
+newtab-widget-manage-title = 위젯
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = 닫기

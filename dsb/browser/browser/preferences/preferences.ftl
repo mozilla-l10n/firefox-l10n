@@ -782,8 +782,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Swójski startowy bok
+home-custom-homepage-subpage =
+    .heading = Swójski startowy bok
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adrese websedłow
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Adrese websedłow
 home-custom-homepage-address =
     .placeholder = Adresu zapódaś
 home-custom-homepage-address-button =

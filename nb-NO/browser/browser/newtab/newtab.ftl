@@ -335,6 +335,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Nedtelling
 newtab-custom-widget-section-title = Widgeter
+newtab-custom-widget-section-toggle =
+    .label = Widgeter
+newtab-widget-manage-title = Widgeter
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Lukk

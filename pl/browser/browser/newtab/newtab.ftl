@@ -336,6 +336,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Minutnik
 newtab-custom-widget-section-title = Widżety
+newtab-custom-widget-section-toggle =
+    .label = Widżety
+newtab-widget-manage-title = Widżety
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zamknij

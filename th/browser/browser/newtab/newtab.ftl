@@ -335,6 +335,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = ตัวจับเวลา
 newtab-custom-widget-section-title = วิดเจ็ต
+newtab-custom-widget-section-toggle =
+    .label = วิดเจ็ต
+newtab-widget-manage-title = วิดเจ็ต
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = ปิด

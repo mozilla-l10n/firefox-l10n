@@ -320,6 +320,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = ժամաչափ
 newtab-custom-widget-section-title = Վիջեթներ
+newtab-custom-widget-section-toggle =
+    .label = Վիջեթներ
+newtab-widget-manage-title = Վիջեթներ
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Փակել

@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Hasiera-orri pertsonalizatua
+home-custom-homepage-subpage =
+    .heading = Hasiera-orri pertsonalizatua
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Webgunearen helbidea
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Webgunearen helbidea
 home-custom-homepage-address =
     .placeholder = Idatzi helbidea
 home-custom-homepage-address-button =

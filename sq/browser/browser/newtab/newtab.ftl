@@ -332,6 +332,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Kohëmatës
 newtab-custom-widget-section-title = Widget-e
+newtab-custom-widget-section-toggle =
+    .label = Widget-e
+newtab-widget-manage-title = Widget-e
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Mbylle

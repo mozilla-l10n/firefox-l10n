@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Anpassad startsida
+home-custom-homepage-subpage =
+    .heading = Anpassad startsida
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Webbadress(er)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Webbadress(er)
 home-custom-homepage-address =
     .placeholder = Ange adress
 home-custom-homepage-address-button =

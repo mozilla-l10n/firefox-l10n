@@ -332,6 +332,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = 計時器
 newtab-custom-widget-section-title = 小工具
+newtab-custom-widget-section-toggle =
+    .label = 小工具
+newtab-widget-manage-title = 小工具
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = 關閉

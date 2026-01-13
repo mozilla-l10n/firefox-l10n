@@ -332,6 +332,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Tempumilo
 newtab-custom-widget-section-title = Komponantoj
+newtab-custom-widget-section-toggle =
+    .label = Komponantoj
+newtab-widget-manage-title = Komponantoj
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Fermi
