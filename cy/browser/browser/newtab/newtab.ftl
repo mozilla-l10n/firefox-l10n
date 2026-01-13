@@ -341,6 +341,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Amserydd
 newtab-custom-widget-section-title = Teclynnau
+newtab-custom-widget-section-toggle =
+    .label = Teclynnau
+newtab-widget-manage-title = Teclynnau
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Cau
