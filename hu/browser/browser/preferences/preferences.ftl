@@ -776,6 +776,8 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Egyéni kezdőlap
+home-custom-homepage-subpage =
+    .heading = Egyéni kezdőlap
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Webhelyek címei
 home-custom-homepage-address =
