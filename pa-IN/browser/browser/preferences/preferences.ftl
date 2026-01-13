@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = ਪਸੰਦੀਦਾ ਮੁੱਖ-ਸਫ਼ਾ
+home-custom-homepage-subpage =
+    .heading = ਪਸੰਦੀਦਾ ਮੁੱਖ-ਸਫ਼ਾ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ(ਸਿਰਨਾਵੇਂ)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ(ਸਿਰਨਾਵੇਂ)
 home-custom-homepage-address =
     .placeholder = ਸਿਰਨਾਵਾਂ ਦਿਓ
 home-custom-homepage-address-button =
