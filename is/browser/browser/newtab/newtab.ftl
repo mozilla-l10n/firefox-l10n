@@ -336,6 +336,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Tímamælir
 newtab-custom-widget-section-title = Viðmótshlutar
+newtab-custom-widget-section-toggle =
+    .label = Viðmótshlutar
+newtab-widget-manage-title = Viðmótshlutar
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Loka
