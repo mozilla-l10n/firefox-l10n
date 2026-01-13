@@ -200,7 +200,7 @@ about-debugging-browser-version-too-old-fennec = Toś ta wersija Firefox njamó�
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Zwězany wobglědowak jo aktualnjejšy ({ $runtimeVersion }, buildID { $runtimeID }) lěc waš { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). To jo njepódpěrana konfiguracija a móžo zawinowaś, až wuwijaŕske rědy njefunkcioněruju. Pšosym aktualizěrujśo Firefox. <a>Rozwězanje problemow</a>
+about-debugging-browser-version-too-recent = Zwězany wobglědowak jo aktualnjejšy ({ $runtimeVersion }, buildID { $runtimeID }) ako waš { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). To jo njepódpěrana konfiguracija a móžo zawinowaś, až wuwijaŕske rědy njefunkcioněruju. Pšosym aktualizěrujśo Firefox. <a>Rozwězanje problemow</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
