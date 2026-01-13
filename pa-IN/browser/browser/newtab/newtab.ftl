@@ -335,6 +335,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = ਟਾਈਮਰ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
+newtab-custom-widget-section-toggle =
+    .label = ਵਿਜੈੱਟ
+newtab-widget-manage-title = ਵਿਜੈੱਟ
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = ਬੰਦ ਕਰੋ
