@@ -334,6 +334,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Вақтсанҷ
 newtab-custom-widget-section-title = Виҷетҳо
+newtab-custom-widget-section-toggle =
+    .label = Виҷетҳо
+newtab-widget-manage-title = Виҷетҳо
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Пӯшидан
