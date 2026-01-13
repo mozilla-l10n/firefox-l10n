@@ -238,5 +238,10 @@ other-backup-files-founds =
         [few] <b>Napomena:</b> pronađene su { $numberOfOtherBackupsFound } druge datoteke sigurnosne kopije
        *[other] <b>Napomena:</b> pronađeno je { $numberOfOtherBackupsFound } drugih datoteka sigurnosne kopije
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Stvoreno { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } na { $machineName }
+backup-file-restore-file-validation-error = Ova datoteka ne radi. Pokušaj s drugom datotekom. <a data-l10n-name="restore-problems">I dalje imaš probleme?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nijedna datoteka nije odabrana

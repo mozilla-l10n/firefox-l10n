@@ -309,6 +309,24 @@ tab-context-move-tab-to-group =
            *[other] Dodaj kartice u grupu
         }
     .accesskey = k
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Dodaj podijeljeni prikaz novoj grupi
+            [one] Dodaj podijeljeni prikaz novoj grupi
+            [few] Dodaj podijeljene prikaze novoj grupi
+           *[other] Dodaj podijeljene prikaze novoj grupi
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Dodaj podijeljeni prikaz grupi
+            [one] Dodaj podijeljeni prikaz grupi
+            [few] Dodaj podijeljene prikaze grupi
+           *[other] Dodaj podijeljene prikaze grupi
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Zatvorene grupe
 tab-group-editor-action-new-tab =

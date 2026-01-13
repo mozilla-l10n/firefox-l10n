@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } je blokirao ovu s
 safeb-blocked-malware-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer može pokušati instalirati zlonamjeran softver koji bi mogao ukrasti ili izbrisati osobne podatke na tvom računalu.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer bi te mogla navesti na instaliranje programa koji štete tvom načinu surfanja (npr. mijenja početnu stranicu ili da ti prikazuje oglase na stranicama koje posjećuješ).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } je blokirao ovu stranicu iz razloga što možda pokušava instalirati zlonamjerne aplikacije koje kradu ili brišu tvoje podatke (npr. slike, lozinke, poruke i kreditne kartice).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } je blokirao ovu stranicu jer ju je pokušao otvoriti jedan od tvojih dodataka. Ova bi se stranica mogla koristiti za krađu tvojih podataka – poput lozinki i brojeva kreditnih kartica.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Savjetovanje pruža <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -69,4 +70,7 @@ safeb-palm-notdeceptive =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-addon-page-error-desc-override = <strong>Zašto je ova web-stranica blokirana?</strong>
+safeb-blocked-addon-page-error-desc2-override = Stranica <strong>{ $sitename }</strong> je možda povezana s obmanjujućim i štetnim aktivnostima.
 safeb-blocked-addon-page-error-desc3-override = <strong>Što možeš učiniti po tom pitanju?</strong>
+safeb-blocked-addon-page-error-desc4-override = Kako se ovo više ne bi ponavljalo, ukloni ili deaktiviraj dodatak <strong>{ $addonName }</strong> u about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Saznaj više o { -brand-short-name } zaštiti od krađe identiteta i zlonamjernog softvera</a>.

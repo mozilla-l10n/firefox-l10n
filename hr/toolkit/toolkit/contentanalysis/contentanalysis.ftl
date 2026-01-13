@@ -29,14 +29,23 @@ contentanalysis-warndialog-response-allow = Koristi sadržaj
 contentanalysis-warndialog-response-deny = Odustani
 contentanalysis-notification-title = Analiza sadržaja
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Spajanje s { $agent } nije moguće. { $content }
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Prijenos datoteke „{ $filename }” zabranjen.
 contentanalysis-error-message-dropped-text = Povlačenje i ispuštanje zabranjeno.
 contentanalysis-error-message-clipboard = Umetanje zabranjeno.
 contentanalysis-error-message-print = Ispis zabranjen.
 contentanalysis-block-dialog-title-upload-file = Ne smiješ prenijeti ovu datoteku
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ prenijeti datoteku „{ $filename }”. Obrati se administratoru za više informacija.
 contentanalysis-block-dialog-title-clipboard = Ne smiješ umetnuti ovaj sadržaj
+contentanalysis-block-dialog-body-clipboard = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ zalijepiti ovaj sadržaj. Obrati se administratoru za više informacija.
 contentanalysis-block-dialog-title-dropped-text = Ne smiješ ispustiti ovaj sadržaj
+contentanalysis-block-dialog-body-dropped-text = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ povući i ispustiti ovaj sadržaj. Obrati se administratoru za više informacija.
 contentanalysis-block-dialog-title-print = Ne smiješ ispisati ovaj dokument
 contentanalysis-inprogress-quit-title = Zatvoriti { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = U tijeku je nekoliko radnji. Ako zatvoriš { -brand-shorter-name } te se radnje neće dovršiti.
