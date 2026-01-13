@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Personecigita eka paĝo
+home-custom-homepage-subpage =
+    .heading = Personecigita eka paĝo
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adreso(j) de retejo
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Adreso(j) de retejo
 home-custom-homepage-address =
     .placeholder = Tajpi adreson
 home-custom-homepage-address-button =
