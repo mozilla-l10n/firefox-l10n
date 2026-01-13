@@ -82,6 +82,7 @@ turn-on-scheduled-backups-error-file-system = Došlo je do problema s tvojom oda
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Isključiti sigurnosno kopiranje?
+turn-off-scheduled-backups-description = Ovo briše i sve tvoje podatke sigurnosnih kopija. To se ne može poništiti.
 turn-off-scheduled-backups-support-link = Saznaj više
 turn-off-scheduled-backups-cancel-button = Odustani
 turn-off-scheduled-backups-confirm-button = Isključi i izbriši sigurnosne kopije

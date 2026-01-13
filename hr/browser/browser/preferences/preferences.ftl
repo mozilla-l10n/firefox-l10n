@@ -12,7 +12,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Reci web-stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
-non-technical-privacy-header = Postavke privatnosti web stranice
+non-technical-privacy-header = Postavke privatnosti web-stranica
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
 # Do not translate.
@@ -60,7 +60,7 @@ pane-experimental-description2 = Mijenjanje naprednih konfiguracijskih postavki 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description4 = Isprobaj naše eksperimentalne funkcije! Još se nalaze u fazi razvoja, što bi moglo utjecati na način rada { -brand-short-name }. Podatke o tvojem korštenju ovih funkcija primamo samo ako su opcije <a data-l10n-name="data-collection">tehnički podatci i podatci o interakciji</a> uključene.
+pane-experimental-description4 = Isprobaj naše eksperimentalne funkcije! Još se nalaze u fazi razvoja, što bi moglo utjecati na način rada { -brand-short-name }. Podatke o tvojem korštenju ovih funkcija primamo samo ako su opcije <a data-l10n-name="data-collection">tehnički podaci i podaci o interakciji</a> uključene.
 pane-experimental-description3 = Isprobaj naše eksperimentalne funkcije! Nalaze se u fazi razvoja i svakim danom su sve bolje, što bi moglo utjecati na funkcioniranje { -brand-short-name(case: "gen") }.
 pane-experimental-reset =
     .label = Obnovi standardne postavke
@@ -301,24 +301,24 @@ preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-choice-auto2 =
     .label = Automatski
-    .title = Automatski promijeni pozadinu i sadržaj web stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
+    .title = Automatski promijeni pozadinu i sadržaj web-stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
 preferences-web-appearance-choice-light2 =
     .label = Svijetla
-    .title = Koristi svijetli izgled za pozadinu i sadržaj web stranice.
+    .title = Koristi svijetli izgled za pozadinu i sadržaj web-stranice.
 preferences-web-appearance-choice-dark2 =
     .label = Tamna
-    .title = Koristi tamni izgled za pozadinu i sadržaj web stranice.
+    .title = Koristi tamni izgled za pozadinu i sadržaj web-stranice.
 web-appearance-group =
     .aria-label = Izgled web-stranice
 preferences-web-appearance-choice-auto = Automatski
 preferences-web-appearance-choice-light = Svijetla
 preferences-web-appearance-choice-dark = Tamna
 preferences-web-appearance-choice-tooltip-auto =
-    .title = Automatski promijeni pozadinu i sadržaj web stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
+    .title = Automatski promijeni pozadinu i sadržaj web-stranice na temelju postavki tvog sustava i { -brand-short-name } teme.
 preferences-web-appearance-choice-tooltip-light =
-    .title = Koristi svijetli izgled za pozadinu i sadržaj web stranice.
+    .title = Koristi svijetli izgled za pozadinu i sadržaj web-stranice.
 preferences-web-appearance-choice-tooltip-dark =
-    .title = Koristi tamni izgled za pozadinu i sadržaj web stranice.
+    .title = Koristi tamni izgled za pozadinu i sadržaj web-stranice.
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
@@ -328,7 +328,7 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
-    .message = Tvoje postavke kontrole kontrasta poništavaju izgled web stranice.
+    .message = Tvoje postavke kontrole kontrasta poništavaju izgled web-stranice.
 preferences-web-appearance-link =
     .label = Upravljaj temama za { -brand-short-name } u odjeljku Dodaci i teme
 preferences-contrast-control-group =
@@ -338,7 +338,7 @@ preferences-contrast-control-radio-group =
     .label = Nadjačaj boje
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
-preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
+preferences-web-appearance-override-warning = Tvoj izbor boja nadvladava izgled web-stranice. <a data-l10n-name="colors-link">Upravljaj bojama</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Upravljaj temama za { -brand-short-name } u odjeljku <a data-l10n-name="themes-link">Dodaci i teme</a>
@@ -354,7 +354,7 @@ preferences-contrast-control-custom =
     .label = Prilagođeno
     .accesskey = P
 preferences-colors-header = Boje
-preferences-colors-description = Zamijeni standardne { -brand-short-name } boje za tekst, pozadinu web stranice i poveznice.
+preferences-colors-description = Zamijeni standardne { -brand-short-name } boje za tekst, pozadinu web-stranice i poveznice.
 preferences-colors-manage-button =
     .label = Upravljaj bojama …
     .accesskey = b
@@ -1268,7 +1268,7 @@ pane-privacy-logins-and-passwords-header = Prijave i lozinke
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Pitaj za spremanje prijava i lozinki za web stranice
+    .label = Pitaj za spremanje prijava i lozinki za web-stranice
     .accesskey = r
 
 ## Privacy Section - Passwords
@@ -1297,7 +1297,7 @@ forms-suggest-passwords =
     .label = Predloži snažnu lozinku
     .accesskey = P
 forms-breach-alerts =
-    .label = Prikaži upozorenja o lozinkama za hakirane web stranice
+    .label = Prikaži upozorenja o lozinkama za hakirane web-stranice
     .accesskey = u
 forms-breach-alerts-learn-more-link = Saznaj više
 preferences-relay-integration-checkbox =
@@ -1525,10 +1525,10 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Kolačići i podaci web stranice
+sitedata-header = Kolačići i podaci web-stranice
 sitedata-label =
     .aria-label = { sitedata-header }
-sitedata-total-size-calculating = Izračunavanje količine podataka web stranice i predmemorije …
+sitedata-total-size-calculating = Izračunavanje količine podataka web-stranice i predmemorije …
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")

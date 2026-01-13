@@ -211,6 +211,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Preporučene postavke za otklanjanje grešaka u { -brand-shorter-name(case: "loc") }. Visoko opterećenje, nemoj koristiti za rad koji zahtijeva performanse, već za fokusiranje na razumijevanje ponašanja preglednika.
 profiler-popup-presets-debug-label =
     .label = Otklanjanje grešaka
+profiler-popup-presets-web-compat-description = Preporučena zadana postavka za ispravljanje grešaka s web-kompatibilnosti na web-stranicama, umjesto praćenja performansi.
 profiler-popup-presets-custom-label =
     .label = Prilagođeno
 

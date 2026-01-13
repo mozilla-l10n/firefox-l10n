@@ -24,4 +24,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Razina 1 popisa za blokiranje (preporučeno).
 blocklist-item-moz-std-description = Dozvoljava neke programe za praćenje, kako bi se smanjio broj pogrešno prikazanih web-stranica.
 blocklist-item-moz-full-listName = Razina 2 popisa za blokiranje.
-blocklist-item-moz-full-description = Blokira sve pratitelje. Neke web stranice ili sadržaji se možda neće ispravno učitati.
+blocklist-item-moz-full-description = Blokira sve pratitelje. Neke web-stranice ili sadržaji se možda neće ispravno učitati.

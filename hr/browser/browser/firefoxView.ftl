@@ -181,7 +181,7 @@ firefoxview-search-results-count =
 #   $query (String) - The search query.
 firefoxview-search-results-empty = Nema rezultata za „{ $query }”
 firefoxview-sort-history-by-date-label = Poredaj po datumu
-firefoxview-sort-history-by-site-label = Poredaj po web stranici
+firefoxview-sort-history-by-site-label = Razvrstaj po web-stranici
 firefoxview-sort-open-tabs-by-recency-label = Poredaj po nedavnoj aktivnosti
 firefoxview-sort-open-tabs-by-order-label = Poredaj po redoslijedu kartica
 

@@ -8,12 +8,12 @@ xpinstall-prompt = { -brand-short-name } je spriječio ovu stranicu da te zatra�
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Dozvoliti, da { $host } instalira dodatak?
-xpinstall-prompt-message = Pokušavaš instalirati dodatak s { $host } stranice. Prije nego što nastaviš, odluči vjeruješ li ovoj web lokaciji.
+xpinstall-prompt-message = Pokušavaš instalirati dodatak s { $host } stranice. Prije nego što nastaviš, odluči vjeruješ li ovoj web-stranici.
 
 ##
 
 xpinstall-prompt-header-unknown = Želiš li dozvoliti nepoznatoj stranici da instalira dodatak?
-xpinstall-prompt-message-unknown = Pokušavaš instalirati dodatak s nepoznate stranice. Prije nego što nastaviš, odluči vjeruješ li ovoj web lokaciji.
+xpinstall-prompt-message-unknown = Pokušavaš instalirati dodatak s nepoznate stranice. Prije nego što nastaviš, odluči vjeruješ li ovoj web-stranici.
 xpinstall-prompt-dont-allow =
     .label = Nemoj dozvoliti
     .accesskey = N

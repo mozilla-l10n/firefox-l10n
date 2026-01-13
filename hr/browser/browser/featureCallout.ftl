@@ -81,13 +81,13 @@ bookmarks-toolbar-callout-1-primary-button-label = Dodaj zabilješku
 bookmarks-toolbar-callout-1-secondary-button-label = Ne hvala
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = Jednostavno dodaj više zabilješki
-bookmarks-toolbar-callout-2a-subtitle = Povuci i ispusti kartice ovdje kako bi ti tvoje omiljene web stranice bile nadohvat ruke.
+bookmarks-toolbar-callout-2a-subtitle = Povuci i ispusti kartice ovdje kako bi ti tvoje omiljene web-stranice bile nadohvat ruke.
 bookmarks-toolbar-callout-2a-primary-button-label = Razumijem
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = Sakrij alatnu traku
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = Zadržati tvoju alatnu traku sa zabilješkama otvorenom?
-bookmarks-toolbar-callout-2b-subtitle = Možeš dodati i druge web stranice koje češće posjećuješ. Jednostavno povuci i ispusti kartice ovdje kako bi ti omiljene web stranice bile nadohvat ruke.
+bookmarks-toolbar-callout-2b-subtitle = Možeš dodati i druge web-stranice koje češće posjećuješ. Jednostavno povuci i ispusti kartice ovdje kako bi ti omiljene web-stranice bile nadohvat ruke.
 bookmarks-toolbar-callout-2b-primary-button-label = Zadrži otvoreno
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = Ne hvala
@@ -176,7 +176,7 @@ pin-tabs-callout-2-title = Prikvači kartice koje najčešće posjećuješ
 pin-tabs-callout-2-subtitle = Prikvači karticu povlačeći je na početak trake kartica. Ili klikni desnom tipkom miša i odaberi „Prikvači karticu”.
 pin-tabs-callout-cta-2-button = Prikvači ovu karticu
 pin-tabs-callout-3-title = Drži važne web stranice nadohvat ruke
-pin-tabs-callout-4-title = Prikvači web stranice koje najčešće posjećuješ
+pin-tabs-callout-4-title = Prikvači web-stranice koje najčešće posjećuješ
 
 ## Sidebar Onboarding Strings
 
@@ -206,8 +206,8 @@ sidebar-callout-survey-agree = Slažem se
 sidebar-callout-survey-disagree = Ne slažem se
 sidebar-callout-survey-strongly-disagree = Apsolutno se ne slažem
 sidebar-callout-survey-features-question = Sljedeće su potencijalne funkcije bočne trake. Što bi najviše poboljšalo tvoju produktivnost u { -brand-short-name(case: "loc") }?
-sidebar-callout-survey-split-view = Pregledaj bilo koje dvije web stranice odjednom u podijeljenom prikazu jednu pored druge
-sidebar-callout-survey-keep-website-open = Zadrži web stranicu, poput e-pošte ili kalendara, otvorenom u bočnoj traci tijekom pregledavanja
+sidebar-callout-survey-split-view = Pregledaj bilo koje dvije web-stranice odjednom u podijeljenom prikazu jednu pored druge
+sidebar-callout-survey-keep-website-open = Zadrži web-stranicu, poput e-pošte ili kalendara, otvorenom u bočnoj traci tijekom pregledavanja
 sidebar-callout-survey-saved-websites-2 = Brzi pristup tvojim zabilješkama
 sidebar-callout-survey-none-of-above = Ništa od navedenog
 sidebar-callout-survey-submit = Pošalji

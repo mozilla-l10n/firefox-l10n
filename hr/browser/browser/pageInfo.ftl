@@ -83,7 +83,7 @@ security-view =
 security-view-unknown = Nepoznato
     .value = Nepoznato
 security-view-identity =
-    .value = Identitet web stranice
+    .value = Identitet web-stranice
 security-view-identity-owner =
     .value = Vlasnik:
 security-view-identity-domain =
@@ -99,7 +99,7 @@ security-view-privacy-sitedata-value = Sprema li ova web-stranica podatke na moj
 security-view-privacy-clearsitedata =
     .label = Izbriši kolačiće i podatke stranica
     .accesskey = I
-security-view-privacy-passwords-value = Jesu li spremljene lozinke za ovu web stranicu?
+security-view-privacy-passwords-value = Jesam li spremio/la lozinke za ovu web-stranicu?
 security-view-privacy-viewpasswords =
     .label = Pregled spremljenih lozinki
     .accesskey = z
@@ -236,6 +236,6 @@ media-block-image =
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =
-    .title = Informacije o stranici - { $website }
+    .title = Informacije o stranici – { $website }
 page-info-frame =
     .title = Informacije o okviru - { $website }

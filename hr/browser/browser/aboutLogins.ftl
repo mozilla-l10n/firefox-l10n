@@ -98,7 +98,7 @@ about-logins-list-item-breach-icon =
     .title = Hakirana web-stranica
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranjiva lozinka
-about-logins-list-section-breach = Hakirane web stranice
+about-logins-list-section-breach = Hakirane web-stranice
 about-logins-list-section-vulnerable = Ranjive lozinke
 about-logins-list-section-nothing = Bez upozorenja
 about-logins-list-section-today = Danas
@@ -127,8 +127,8 @@ login-item-new-login-title = Stvori novu prijavu
 about-logins-login-item-new-login-title = Dodaj lozinku
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
-login-item-origin-label = Adresa web stranice
-login-item-tooltip-message = Provjeri podudara li se adresa web stranice na kojoj se prijavljuješ.
+login-item-origin-label = Adresa web-stranice
+login-item-tooltip-message = Provjeri podudara li se adresa web-stranice na kojoj se prijavljuješ.
 about-logins-origin-tooltip2 = Upiši punu adresu i provjeri da točno odgovara stranici na kojoj se prijavljuješ.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -331,7 +331,7 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Hakirana web-stranica
-breach-alert-text = Lozinke su procurile ili su ukradene s ove web stranice od zadnjeg aktualiziranja tvojih podataka za prijavu. Za zaštitu svog računa, promijeni lozinku.
+breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od zadnjeg aktualiziranja tvojih podataka za prijavu. Za zaštitu svog računa, promijeni lozinku.
 about-logins-breach-alert-date = Curenje podataka dogodilo se { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

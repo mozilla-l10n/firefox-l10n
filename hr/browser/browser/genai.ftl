@@ -239,7 +239,7 @@ link-preview-error-message = Ne možemo prikazati pregled ove poveznice
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Posjeti poveznicu
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
-link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne može generirati ključne točke za ovu web-stranicu.
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ne može generirati ključne točke za ovu web stranicu.
 # Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
 link-preview-generation-error-missing-data = Ne možemo generirati ključne točke za ovu web stranicu.
 # Error message when something went wrong during key point generation
@@ -253,7 +253,7 @@ link-preview-settings-enable =
     .label = Omogući preglede poveznica
     .description = Vidi naslov stranice, opis i još više kada koristiš prečac ili kada klikneš desnom tipkom miša na poveznicu.
 link-preview-settings-key-points =
-    .label = Dopusti umjetnoj inteligenciji čitanje početka web-stranice i generiranje ključnih točaka
+    .label = Dopusti umjetnoj inteligenciji čitanje početka web stranice i generiranje ključnih točaka
 link-preview-settings-long-press =
     .label = Prečac: klikni i zadrži poveznicu pritisnutom jednu sekundu (dugi pritisak)
 # Title that appears when user is shown the opt-in flow for link previews

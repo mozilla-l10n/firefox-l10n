@@ -173,7 +173,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = Upravljaj dijeljenjem drugih zvučnika s web stranicom
+    .tooltiptext = Upravljaj dijeljenjem drugih zvučnika s web-stranicom
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Otvori ploču za automatsku reprodukciju
 urlbar-persistent-storage-notification-anchor =
@@ -269,19 +269,19 @@ urlbar-camera-blocked =
 urlbar-microphone-blocked =
     .tooltiptext = Ovoj ste stranici zabranili korištenje mikrofona.
 urlbar-screen-blocked =
-    .tooltiptext = Blokirao/la si dijeljenje tvog ekrana ovoj web stranici.
+    .tooltiptext = Blokirao/la si dijeljenje tvog ekrana ovoj web-stranici.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ovoj stranici zabranjeno je trajno spremanje podataka.
 urlbar-popup-blocked2 =
     .tooltiptext = Za ovu stranicu si blokirao/la skočne prozore i preusmjeravanja trećih strana
 urlbar-popup-blocked =
-    .tooltiptext = Blokirali ste pop-up prozore za ovu web stranicu.
+    .tooltiptext = Blokirao/la si skočne prozore za ovu web-stranicu.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Ovoj ste stranici zabranili automatsko reproduciranje medija sa zvukom.
 urlbar-canvas-blocked =
     .tooltiptext = Ovoj stranici zabranjeno je izdvajanje podataka platna.
 urlbar-midi-blocked =
-    .tooltiptext = Blokirali ste MIDI pristup za ovu web stranicu.
+    .tooltiptext = Blokirao/la si MIDI pristup za ovu web-stranicu.
 urlbar-install-blocked =
     .tooltiptext = Ovoj stranici ste zabranili instalaciju dodataka.
 # Variables
@@ -738,7 +738,7 @@ urlbar-result-action-switch-tab-with-container = Prijeđi na karticu · <span>{ 
 # Used when the target tab is in a tab group that doesn't have a label.
 urlbar-result-action-tab-group-unnamed = Neimenovana grupa
 # Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-clipboard = Posjeti web stranicu iz međuspremnika
+urlbar-result-action-visit-from-clipboard = Posjeti web-stranicu iz međuspremnika
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -1499,14 +1499,14 @@ trustpanel-privacy-link = Postavke privatnosti
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Izbriši kolačiće i podatke stranica za { $host }
-trustpanel-clear-cookies-description = Uklanjanje kolačića i podataka web stranice će te možda odjaviti s web stranice i isprazniti košaricu.
+trustpanel-clear-cookies-description = Uklanjanje kolačića i podataka web-stranice će te možda odjaviti s web-stranice i isprazniti košaricu.
 trustpanel-clear-cookies-subview-button-clear = Izbriši
 trustpanel-clear-cookies-subview-button-cancel = Odustani
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
     .title = Zaštite veze za { $host }
-trustpanel-siteinformation-morelink = Više informacija o web stranici
+trustpanel-siteinformation-morelink = Više informacija o web-stranici
 trustpanel-blocker-see-all = Pogledaj sve
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
@@ -1525,16 +1525,16 @@ urlbar-trust-icon-notsecure-label = Nije sigurno
 
 trustpanel-blocker-section-header =
     { $count ->
-        [one] <span>{ $count }</span> program za praćenje blokiran na ovoj web stranici
-        [few] <span>{ $count }</span> programa za praćenje blokirani na ovoj web stranici
-       *[other] <span>{ $count }</span> programa za praćenje blokirani na ovoj web stranici
+        [one] <span>{ $count }</span> program za praćenje blokiran na ovoj web-stranici
+        [few] <span>{ $count }</span> programa za praćenje blokirani na ovoj web-stranici
+       *[other] <span>{ $count }</span> programa za praćenje blokirani na ovoj web-stranici
     }
 trustpanel-blocker-description = { -brand-product-name } smatra da bi te tvrtke trebale manje pratiti. Stoga blokiramo što više možemo.
 trustpanel-blocked-header = { -brand-product-name } je blokirao sljedeće stvari:
 trustpanel-tracking-header = { -brand-product-name } je dopustio sljedeće stvart kako bi web-stranice ispravno radile:
 trustpanel-tracking-description = Neki gumbi, obrasci i polja za prijavu možda neće raditi bez programa za praćenje.
 trustpanel-insecure-section-header = Tvoja veza nije sigurna
-trustpanel-insecure-description = Podaci koje šalješ na ovu web stranicu nisu šifrirani. Mogu se pregledati, ukrasti ili promijeniti.
+trustpanel-insecure-description = Podaci koje šalješ na ovu web-stranicu nisu šifrirani. Mogu se pregledati, ukrasti ili promijeniti.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } međustranični kolačić za praćenje

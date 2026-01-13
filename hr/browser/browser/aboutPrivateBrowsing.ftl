@@ -76,5 +76,5 @@ about-private-browsing-cookie-banners-promo-body = Sada automatski odbijamo mnog
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Ne ostavljaj tragove na ovom uređaju.
-about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } briše kolačiće, povijest i podatke web.stranica kada zatvoriš sve svoje privatne prozore.
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } briše kolačiće, povijest i podatke web-stranica kada zatvoriš sve svoje privatne prozore.
 about-private-browsing-felt-privacy-v1-info-link = Tko može vidjeti moju aktivnost?

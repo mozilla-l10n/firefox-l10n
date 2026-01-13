@@ -16,7 +16,7 @@ policy-AllowFileSelectionDialogs = Dopusti dijaloške okvire za biranje datoteke
 policy-AppAutoUpdate = Aktiviraj ili deaktiviraj automatsko aktualiziranje programa.
 policy-AppUpdatePin = Spriječi { -brand-short-name } da se aktualizira na noviju verziju od navedene.
 policy-AppUpdateURL = Postavi prilagođeni URL za aktualiziranje programa.
-policy-Authentication = Postavi integriranu provjeru autentičnosti za web stranice koje to podržavaju.
+policy-Authentication = Postavi integriranu provjeru autentičnosti za web-stranice koje to podržavaju.
 policy-AutofillAddressEnabled = Aktiviraj automatsko ispunjavanje za adrese.
 policy-AutofillCreditCardEnabled = Aktiviraj automatsko popunjavanje za načine plaćanja.
 policy-AutoLaunchProtocolsFromOrigins = Definiraj popis eksternih protokola koji se mogu koristiti iz navedenih izvora bez da se korisnika pita.
@@ -112,7 +112,7 @@ policy-OfferToSaveLoginsDefault = Postavi standardnu vrijednost kako bi { -brand
 policy-OverrideFirstRunPage = Poništi postavke početne stranice. Postavi ovo pravilo na prazno, ako želiš onemogućiti početnu stranicu.
 policy-OverridePostUpdatePage = Poništi stranicu „Što je novo” nakon aktualiziranja. Postavi ovo pravilo na prazno, ako želiš deaktivirati stranicu nakon aktualiziranja.
 policy-PasswordManagerEnabled = Aktiviraj spremanje lozinki u upravljaču lozinki.
-policy-PasswordManagerExceptions = Spriječi { -brand-short-name } da sprema lozinke za određene web stranice.
+policy-PasswordManagerExceptions = Spriječi { -brand-short-name } da sprema lozinke za određene web-stranice.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
 # computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
 policy-PostQuantumKeyAgreementEnabled = Aktiviraj postkvantni dogovor ključa za TLS.
@@ -140,7 +140,7 @@ policy-SSLVersionMax = Postavi maksimalnu SSL verziju.
 policy-SSLVersionMin = Postavi minimalnu SSL verziju.
 policy-StartDownloadsInTempDirectory = Prisili pokretanje preuzimanja u lokalno, privremenu lokaciju umjesto u standardnu mapu za preuzimanje.
 policy-SupportMenu = Dodaj prilagođenu stavku korisničke podrške u izbornik pomoći.
-policy-TranslateEnabled = Uključi ili isključi prevođenje web stranica.
+policy-TranslateEnabled = Uključi ili isključi prevođenje web-stranica.
 policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 policy-UseSystemPrintDialog = Ispiši pomoću dijaloškog prozora sustava …
 policy-VisualSearchEnabled = Uključi ili isključi vizualno pretraživanje.

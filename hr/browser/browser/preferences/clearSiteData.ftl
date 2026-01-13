@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Kolačići i podaci web stranice
+    .label = Kolačići i podaci web-stranice
     .accesskey = K
 clear-site-data-cookies-info = Moguće je da ćeš biti odjavljen/a s web-stranica, ako izbrišeš
 # The parameters in parentheses in this string describe disk usage
@@ -41,7 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Web sadržaj u predmemoriji
     .accesskey = W
-clear-site-data-cache-info = Web stranice će morati ponovo učitati slike i podatke
+clear-site-data-cache-info = Web-stranice će morati ponovo učitati slike i podatke
 clear-site-data-dialog =
     .buttonlabelaccept = Izbriši
     .buttonaccesskeyaccept = I
