@@ -44,10 +44,12 @@ settings-data-backup-restore-header = Obnovi svoje podatke
 
 ## These strings are shown under the header if scheduled backups are disabled.
 
+settings-data-backup-scheduled-backups-off-restore-description = Koristi sigurnosnu kopiju { -brand-product-name(case: "gen") } s drugog uređaja za obnavljanje tvojih podataka.
 settings-data-backup-scheduled-backups-off-restore-choose = Odaberi datoteku sigurnosne kopije …
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Obnovi podatke { -brand-product-name(case: "gen") } pomoću zadnje sigurnosne kopije.
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovi …
 settings-data-toggle-encryption-label = Sigurnosno kopiraj svoje osjetljive podatke
 settings-data-toggle-encryption-support-link = Saznaj više
@@ -78,6 +80,7 @@ turn-on-scheduled-backups-confirm-button = Uključi sigurnosno kopiranje
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Došlo je do problema s tvojom odabranom mapom za sigurnosne kopije. Odaberi jednu drugu mapu i pokušaj ponovo.
+backup-error-file-system = Dogodila se greška s odabranom mapom sigurnosne kopije tijekom sigurnosnog kopiranja { -brand-short-name(case: "gen") }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
@@ -90,6 +93,10 @@ turn-off-scheduled-backups-confirm-button = Isključi i izbriši sigurnosne kopi
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Obnovi svoje podatke
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Ovo će zamijeniti sve tvoje trenutačne podatke { -brand-short-name(case: "gen") } sa sigurnosnom kopijom od { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
     .message = Što će se obnoviti?
 restore-from-backup-no-backup-file-link = Ne možeš pronaći svoju sigurnosnu kopiju?
@@ -137,6 +144,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = { -brand-short-name } se nije mogao obnoviti
     .message = Ponovo pokreni { -brand-short-name } i pokušaj obnoviti sigurnosnu kopiju.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Dogodila se greška tijekom sigurnosnog kopiranja.
+    .message = Pokušaj ponovo za par minuta.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -190,6 +202,7 @@ backup-error-retry = Nešto nije u redu. Pokušaj kasnije ponovo.
 
 backup-file-header = { -brand-short-name } je spreman za obnavljanje
 backup-file-title = Obnovi { -brand-short-name }
+backup-file-intro = Vrati se pregledavanju i obnovi sve svoje zabilješke, povijest i druge podatke. <a data-l10n-name="backup-file-support-link">Saznaj više</a>
 backup-file-path-label = Datoteka sigurnosne kopije:
 backup-file-encryption-state-label = Šifrirano:
 backup-file-encryption-state-value-encrypted = Da
