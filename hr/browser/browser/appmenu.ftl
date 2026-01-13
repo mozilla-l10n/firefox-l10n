@@ -199,6 +199,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Zadana postavka za istraživanje audio i video grešaka u { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-media-label =
     .label = Mediji
+profiler-popup-presets-ml-description = Zadana postavka za istraživanje grešaka strojnog učenja u { -brand-shorter-name(case: "loc") }.
 profiler-popup-presets-ml-label =
     .label = Strojno učenje
 profiler-popup-presets-networking-description = Zadana postavka za istraživanje grešaka mrežnog povezivanja u { -brand-shorter-name(case: "loc") }.
@@ -212,6 +213,8 @@ profiler-popup-presets-debug-description = Preporučene postavke za otklanjanje 
 profiler-popup-presets-debug-label =
     .label = Otklanjanje grešaka
 profiler-popup-presets-web-compat-description = Preporučena zadana postavka za ispravljanje grešaka s web-kompatibilnosti na web-stranicama, umjesto praćenja performansi.
+profiler-popup-presets-web-compat-label =
+    .label = Web-kompatibilnost
 profiler-popup-presets-custom-label =
     .label = Prilagođeno
 
