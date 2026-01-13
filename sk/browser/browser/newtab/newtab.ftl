@@ -333,6 +333,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Časovač
 newtab-custom-widget-section-title = Miniaplikácie
+newtab-custom-widget-section-toggle =
+    .label = Miniaplikácie
+newtab-widget-manage-title = Miniaplikácie
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zavrieť
