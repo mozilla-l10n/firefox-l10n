@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Página inicial personalizada
+home-custom-homepage-subpage =
+    .heading = Página inicial personalizada
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Endereços de sites
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Endereços de sites
 home-custom-homepage-address =
     .placeholder = Inserir endereço
 home-custom-homepage-address-button =
