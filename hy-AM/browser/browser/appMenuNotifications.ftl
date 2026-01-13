@@ -44,6 +44,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Լավ
     .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Կառավարեք Ձեր հավելումները և ոճերը հավելվածի ցանկով:
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Թարմացրեք թույլտվությունները և տվյալների նախապատվությունները ցանկացած պահի <a data-l10n-name="settings-link">ընդլայնման կարգավորումներում</a>:
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .label = Ամրացնել ընդլայնումը գործիքագոտում
     .accesskey = P
