@@ -726,8 +726,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = หน้าแรกกำหนดเอง
+home-custom-homepage-subpage =
+    .heading = หน้าแรกกำหนดเอง
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = ที่อยู่เว็บไซต์
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = ที่อยู่เว็บไซต์
 home-custom-homepage-address =
     .placeholder = ป้อนที่อยู่
 home-custom-homepage-address-button =
@@ -993,6 +998,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
