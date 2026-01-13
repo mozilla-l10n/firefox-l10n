@@ -773,8 +773,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Emboava kuatiarogue ñepyrũgua
+home-custom-homepage-subpage =
+    .heading = Emboava kuatiarogue ñepyrũgua
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Ñanduti kundaharape(ita)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Ñanduti kundaharape(ita)
 home-custom-homepage-address =
     .placeholder = Ehai kundaharape
 home-custom-homepage-address-button =
