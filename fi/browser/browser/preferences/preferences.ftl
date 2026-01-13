@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Mukautettu etusivu
+home-custom-homepage-subpage =
+    .heading = Mukautettu etusivu
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Verkkosivuston tai -sivustojen osoitteet
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Verkkosivuston tai -sivustojen osoitteet
 home-custom-homepage-address =
     .placeholder = Kirjoita osoite
 home-custom-homepage-address-button =
