@@ -330,6 +330,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = タイマー
 newtab-custom-widget-section-title = ウィジェット
+newtab-custom-widget-section-toggle =
+    .label = ウィジェット
+newtab-widget-manage-title = ウィジェット
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = 閉じる
