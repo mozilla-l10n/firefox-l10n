@@ -56,6 +56,7 @@ policy-DisablePocket2 = Disattiva la possibilità di salvare pagine web in { -po
 policy-DisablePrivateBrowsing = Disattiva la modalità Navigazione anonima.
 policy-DisableProfileImport = Disattiva il menu per importare dati da un altro browser.
 policy-DisableProfileRefresh = Disattiva il pulsante “Ripristina { -brand-short-name }” nella pagina about:support.
+policy-DisableRemoteImprovements = Impedisci a { -brand-short-name } di apportare modifiche relative a prestazioni, stabilità e funzionalità tra un aggiornamento e l’altro.
 policy-DisableSafeMode = Disattiva la possibilità di riavviare in modalità provvisoria. Nota: l’utilizzo del tasto Maiusc per avviare in modalità provvisoria può essere disattivato solo nei criteri di gruppo.
 policy-DisableSecurityBypass = Impedisci all’utente di ignorare alcuni avvisi di sicurezza.
 policy-DisableSetAsDesktopBackground = Disattiva il comando “Imposta come sfondo del desktop…” per le immagini.
