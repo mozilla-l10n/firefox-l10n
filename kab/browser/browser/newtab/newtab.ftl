@@ -88,6 +88,9 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 
 newtab-topsite-sponsored = S lmendad
 
+## Label used by screen readers for pinned top sites
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -316,6 +319,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Amakud
 newtab-custom-widget-section-title = Iwiǧiten
+newtab-custom-widget-section-toggle =
+    .label = Iwiǧiten
+newtab-widget-manage-title = Iwiǧiten
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Mdel
@@ -373,6 +379,12 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -474,6 +486,9 @@ newtab-new-user-custom-wallpaper-cta = Ɛreḍ-it tura
 newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
 newtab-download-mobile-highlight-image =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
+
+## Strings for shortcuts highlight
+
 
 ## Strings for reporting issues with ads and content
 
