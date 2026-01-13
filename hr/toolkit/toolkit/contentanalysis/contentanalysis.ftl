@@ -42,11 +42,16 @@ contentanalysis-block-dialog-title-upload-file = Ne smiješ prenijeti ovu datote
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ prenijeti datoteku „{ $filename }”. Obrati se administratoru za više informacija.
+contentanalysis-block-dialog-title-download-file = Ne smiješ preuzeti ovu datoteku
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ preuzeti datoteku „{ $filename }”. Obrati se administratoru za više informacija.
 contentanalysis-block-dialog-title-clipboard = Ne smiješ umetnuti ovaj sadržaj
 contentanalysis-block-dialog-body-clipboard = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ zalijepiti ovaj sadržaj. Obrati se administratoru za više informacija.
 contentanalysis-block-dialog-title-dropped-text = Ne smiješ ispustiti ovaj sadržaj
 contentanalysis-block-dialog-body-dropped-text = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ povući i ispustiti ovaj sadržaj. Obrati se administratoru za više informacija.
 contentanalysis-block-dialog-title-print = Ne smiješ ispisati ovaj dokument
+contentanalysis-block-dialog-body-print = Prema pravilima o zaštiti podataka tvoje organizacije, ne smiješ ispisati ovu datoteku. Obrati se administratoru za više informacija.
 contentanalysis-inprogress-quit-title = Zatvoriti { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = U tijeku je nekoliko radnji. Ako zatvoriš { -brand-shorter-name } te se radnje neće dovršiti.
 contentanalysis-inprogress-quit-yesbutton = Da, zatvori
