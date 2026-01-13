@@ -339,6 +339,8 @@ newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
 newtab-widget-manage-title = Widgetar
+newtab-widget-manage-widget-button =
+    .label = Hantera widgetar
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Stäng
@@ -466,6 +468,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Sök plats
     .aria-label = Sök plats
 newtab-weather-menu-weather-display = Vädervisning
+newtab-weather-todays-forecast = Dagens prognos
+newtab-weather-see-full-forecast = Se fullständig prognos
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

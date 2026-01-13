@@ -56,6 +56,7 @@ policy-DisablePocket2 = Inaktivera funktionen att spara webbsidor till { -pocket
 policy-DisablePrivateBrowsing = Inaktivera privat surfning.
 policy-DisableProfileImport = Inaktivera menyalternativet att importera data från en annan webbläsare.
 policy-DisableProfileRefresh = Inaktivera knappen Återställ { -brand-short-name } på sidan about:support.
+policy-DisableRemoteImprovements = Förhindra { -brand-short-name } från att tillämpa prestanda, stabilitet och funktionsändringar mellan uppdateringar.
 policy-DisableSafeMode = Inaktivera funktionen att starta om i felsäkert läge. OBS: Att använda knappen Shift för att starta i felsäkert läge kan bara inaktiveras via grupprinciper på Windows.
 policy-DisableSecurityBypass = Förhindra användaren från att gå vidare vid vissa säkerhetsvarningar.
 policy-DisableSetAsDesktopBackground = Inaktivera menyalternativet Använd som skrivbordsbakgrund för bilder.

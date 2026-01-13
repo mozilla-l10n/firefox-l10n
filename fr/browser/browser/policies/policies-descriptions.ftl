@@ -56,6 +56,7 @@ policy-DisablePocket2 = Désactiver la fonctionnalité d’enregistrement de pag
 policy-DisablePrivateBrowsing = Désactiver la navigation privée.
 policy-DisableProfileImport = Désactiver la commande de menu permettant d’importer des données à partir d’un autre navigateur.
 policy-DisableProfileRefresh = Désactiver le bouton Réparer { -brand-short-name } dans la page about:support.
+policy-DisableRemoteImprovements = Empêcher { -brand-short-name } d’appliquer des modifications de performances, de stabilité et de fonctionnalités entre les mises à jour.
 policy-DisableSafeMode = Désactiver le redémarrage en mode sans échec. Note : sous Windows, le passage en mode sans échec via la touche Majuscule ne peut être désactivé qu’à l’aide d’une stratégie de groupe.
 policy-DisableSecurityBypass = Empêcher l’utilisateur de contourner certains avertissements de sécurité.
 policy-DisableSetAsDesktopBackground = Désactiver la commande contextuelle Choisir l’image comme fond d’écran pour les images.
