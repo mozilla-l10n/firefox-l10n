@@ -179,7 +179,7 @@ fp-neterror-connection-intro = { -brand-short-name } ne peut pas établir de con
 fp-neterror-offline-intro = { -brand-short-name } ne peut pas se connecter au serveur à l’adresse <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } n’a pas chargé cette page, car il semble que la configuration de sécurité ne corresponde pas à la page précédente.
 fp-neterror-http-auth-disabled-intro = Quelqu’un se faisant passer pour le site pourrait tenter de dérober des éléments tels que vos nom d’utilisateur, mot de passe ou adresse e-mail.
-fp-neterror-http-auth-disabled-secure-connection = Ce site nécessite une connexion sécurisée et vous ne pouvez pas ajouter d’exception pour le visiter.
+fp-neterror-http-auth-disabled-secure-connection = Ce site exige une connexion sécurisée et il n’est pas possible d’ajouter une exception pour y accéder.
 fp-neterror-why-did-this-happen = Pourquoi est-ce arrivé ?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Il semble que ce site utilise d’anciens logiciels présentant des failles de sécurité connues.
