@@ -336,6 +336,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Időzítő
 newtab-custom-widget-section-title = Felületi elemek
+newtab-custom-widget-section-toggle =
+    .label = Felületi elemek
+newtab-widget-manage-title = Felületi elemek
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Bezárás
