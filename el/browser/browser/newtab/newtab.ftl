@@ -336,6 +336,9 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Αντίστροφη μέτρηση
 newtab-custom-widget-section-title = Γραφικά στοιχεία
+newtab-custom-widget-section-toggle =
+    .label = Γραφικά στοιχεία
+newtab-widget-manage-title = Γραφικά στοιχεία
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Κλείσιμο
