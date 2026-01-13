@@ -776,8 +776,13 @@ home-homepage-title =
 ## Custom Homepage subpage
 
 home-custom-homepage-header = דף בית מותאם אישית
+home-custom-homepage-subpage =
+    .heading = דף בית מותאם אישית
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = כתובות אתרי אינטרנט
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = כתובות אתרי אינטרנט
 home-custom-homepage-address =
     .placeholder = נא להכניס כתובת
 home-custom-homepage-address-button =
