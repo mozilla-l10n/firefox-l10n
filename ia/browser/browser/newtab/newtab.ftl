@@ -335,6 +335,8 @@ newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
 newtab-widget-manage-title = Widgets
+newtab-widget-manage-widget-button =
+    .label = Gerer widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Clauder

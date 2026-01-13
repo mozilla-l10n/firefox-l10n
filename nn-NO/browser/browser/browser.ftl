@@ -921,6 +921,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Søk denne gong med:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Søk med:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Søkjeinnstillingar
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.

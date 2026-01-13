@@ -633,6 +633,51 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Cancellar
 pdfjs-editor-add-comment-button =
     .title = Adder commento
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-toggle-views-manager-button =
+    .title = Monstrar/celar le barra lateral
+pdfjs-toggle-views-manager-button-label = Monstrar/celar le barra lateral
+pdfjs-views-manager-sidebar =
+    .aria-label = Barra lateral
+pdfjs-views-manager-view-selector-button =
+    .title = Vistas
+pdfjs-views-manager-view-selector-button-label = Vistas
+pdfjs-views-manager-pages-title = Paginas
+pdfjs-views-manager-outlines-title = Schema del documento
+pdfjs-views-manager-attachments-title = Annexos
+pdfjs-views-manager-layers-title = Stratos
+pdfjs-views-manager-pages-option-label = Paginas
+pdfjs-views-manager-outlines-option-label = Schema del documento
+pdfjs-views-manager-attachments-option-label = Annexos
+pdfjs-views-manager-layers-option-label = Stratos
+pdfjs-views-manager-add-file-button =
+    .title = Adder file
+pdfjs-views-manager-add-file-button-label = Adder file
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } seligite
+       *[other] { $count } seligite
+    }
+pdfjs-views-manager-pages-status-none-action-label = Seliger paginas
+pdfjs-views-manager-pages-status-action-button-label = Gerer
+pdfjs-views-manager-pages-status-copy-button-label = Copiar
+pdfjs-views-manager-pages-status-cut-button-label = Secar
+pdfjs-views-manager-pages-status-delete-button-label = Deler
+pdfjs-views-manager-pages-status-save-as-button-label = Salvar como…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Cargante file…
+pdfjs-views-manager-status-undo-button-label = Disfacer
+pdfjs-views-manager-status-close-button =
+    .title = Clauder
+pdfjs-views-manager-status-close-button-label = Clauder
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
