@@ -633,6 +633,48 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Бас тарту
 pdfjs-editor-add-comment-button =
     .title = Пікір қосу
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-toggle-views-manager-button-label = Бүйір панелін көрсету/жасыру
+pdfjs-views-manager-sidebar =
+    .aria-label = Бүйір панелі
+pdfjs-views-manager-view-selector-button =
+    .title = Көріністер
+pdfjs-views-manager-view-selector-button-label = Көріністер
+pdfjs-views-manager-pages-title = Беттер
+pdfjs-views-manager-outlines-title = Құжаттың құрылымы
+pdfjs-views-manager-attachments-title = Салынымдар
+pdfjs-views-manager-layers-title = Қабаттар
+pdfjs-views-manager-pages-option-label = Беттер
+pdfjs-views-manager-outlines-option-label = Құжаттың құрылымы
+pdfjs-views-manager-attachments-option-label = Салынымдар
+pdfjs-views-manager-layers-option-label = Қабаттар
+pdfjs-views-manager-add-file-button =
+    .title = Файлды қосу
+pdfjs-views-manager-add-file-button-label = Файлды қосу
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } таңдалды
+       *[other] { $count } таңдалды
+    }
+pdfjs-views-manager-pages-status-none-action-label = Беттерді таңдау
+pdfjs-views-manager-pages-status-action-button-label = Басқару
+pdfjs-views-manager-pages-status-copy-button-label = Көшіріп алу
+pdfjs-views-manager-pages-status-cut-button-label = Қиып алу
+pdfjs-views-manager-pages-status-delete-button-label = Өшіру
+pdfjs-views-manager-pages-status-save-as-button-label = Қалайша сақтау…
+pdfjs-views-manager-status-undo-button-label = Болдырмау
+pdfjs-views-manager-status-close-button =
+    .title = Жабу
+pdfjs-views-manager-status-close-button-label = Жабу
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
