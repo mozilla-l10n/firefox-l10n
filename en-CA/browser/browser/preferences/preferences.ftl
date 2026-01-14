@@ -1063,7 +1063,7 @@ sync-sign-out =
     .label = Sign Out…
     .accesskey = g
 sync-sign-out2 =
-    .label = Sign Out
+    .label = Sign out
     .accesskey = g
 sync-manage-account = Manage account
     .accesskey = o
@@ -1130,16 +1130,16 @@ prefs-sync-now =
     .accesskeynotsyncing = N
     .labelsyncing = Syncing…
 prefs-sync-now-button =
-    .label = Sync Now
+    .label = Sync now
     .accesskey = N
 prefs-sync-now-button-2 =
-    .label = Sync Now
+    .label = Sync now
     .accesskey = N
 prefs-syncing-button =
     .label = Syncing…
 prefs-syncing-button-2 =
     .label = Syncing…
-    .title = Sync Now
+    .title = Sync now
 
 ## The list of things currently syncing.
 
