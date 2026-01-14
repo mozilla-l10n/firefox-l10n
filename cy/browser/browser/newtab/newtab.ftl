@@ -344,6 +344,8 @@ newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau
 newtab-widget-manage-title = Teclynnau
+newtab-widget-manage-widget-button =
+    .label = Rheoli teclynnau
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Cau
@@ -471,6 +473,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Chwilio am leoliad
     .aria-label = Chwilio am leoliad
 newtab-weather-menu-weather-display = Dangos y tywydd
+newtab-weather-todays-forecast = Rhagolwg heddiw
+newtab-weather-see-full-forecast = Gweld y rhagolwg llawn
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

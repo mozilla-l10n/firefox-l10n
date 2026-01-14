@@ -136,6 +136,10 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = Dyw { -brand-short-name } d
 # Variables:
 #   $date (Date) - Device's clock date.
 fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Mae cloc eich dyfais wedi'i osod i { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Os yw hyn yn gywir, mae'n debyg mai'r wefan ei hun yw'r broblem diogelwch. Os yw'n anghywir, gallwch ei newid yng ngosodiadau system eich dyfais.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = Dyw perchennog { $hostname } heb ei osod yn iawn a does dim modd creu cysylltiad diogel.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
