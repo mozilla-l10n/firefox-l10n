@@ -100,7 +100,7 @@ perplexity-callout-theme-1-subtitle-1 = Rhowch gynnig ar Perplexity. Dewiswch ef
 perplexity-callout-theme-1-subtitle-2 = Gofynnwch gwestiynau. Cewch atebion cyflawn, wedi'u dyfynnu'n sylweddol. I roi cynnig ar Perplexity, dewiswch ef o'r botwm chwilio.
 perplexity-callout-theme-2-subtitle-1 = Gofynnwch i Perplexity. Byddwch yn cael atebion cyflawn, gan gynnwys y ffynonellau.
 perplexity-callout-theme-2-subtitle-2 = Gofynnwch gwestiynau. Cewch atebion cyflawn, wedi'u dyfynnu'n dda.
-perplexity-callout-primary-label = Gofynnwch i Perplexity
+perplexity-callout-primary-label = Gofyn i Perplexity
 perplexity-callout-secondary-label-1 = Cau
 perplexity-callout-secondary-label-2 = Iawn
 

@@ -332,7 +332,7 @@ tab-context-move-tab-to-new-group =
             [many] Ychwanegu Tabiau i Grŵp Newydd
            *[other] Ychwanegu Tabiau i Grŵp Newydd
         }
-    .accesskey = T
+    .accesskey = N
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
@@ -356,7 +356,7 @@ tab-context-move-split-view-to-new-group =
             [many] Ychwanegu Golygon Hollt i Grŵp Newydd
            *[other] Ychwanegu Golygon Hollt i Grŵp Newydd
         }
-    .accesskey = Y
+    .accesskey = N
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
@@ -497,7 +497,7 @@ tab-context-open-in-split-view =
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Gwahanu Golwg Hollt
-    .accesskey = G
+    .accesskey = w
 tab-context-badge-new = Newydd
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
