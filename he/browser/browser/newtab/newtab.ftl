@@ -333,6 +333,8 @@ newtab-custom-widget-section-title = ווידג’טים
 newtab-custom-widget-section-toggle =
     .label = ווידג’טים
 newtab-widget-manage-title = ווידג’טים
+newtab-widget-manage-widget-button =
+    .label = ניהול ווידג’טים
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = סגירה
@@ -460,6 +462,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = חיפוש מקום
     .aria-label = חיפוש מקום
 newtab-weather-menu-weather-display = תצוגת מזג אוויר
+newtab-weather-todays-forecast = תחזית היום
+newtab-weather-see-full-forecast = הצגת תחזית מלאה
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

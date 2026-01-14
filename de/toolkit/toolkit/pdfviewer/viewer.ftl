@@ -658,6 +658,51 @@ pdfjs-views-manager-attachments-option-label = Anhänge
 pdfjs-views-manager-layers-option-label = Ebenen
 pdfjs-views-manager-add-file-button =
     .title = Datei hinzufügen
+pdfjs-views-manager-add-file-button-label = Datei hinzufügen
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } ausgewählt
+       *[other] { $count } ausgewählt
+    }
+pdfjs-views-manager-pages-status-none-action-label = Seiten auswählen
+pdfjs-views-manager-pages-status-action-button-label = Verwalten
+pdfjs-views-manager-pages-status-copy-button-label = Kopieren
+pdfjs-views-manager-pages-status-cut-button-label = Ausschneiden
+pdfjs-views-manager-pages-status-delete-button-label = Löschen
+pdfjs-views-manager-pages-status-save-as-button-label = Speichern unter…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 Seite ausgeschnitten
+       *[other] { $count } Seiten ausgeschnitten
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 Seite kopiert
+       *[other] { $count } Seiten kopiert
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 Seite gelöscht
+       *[other] { $count } Seiten gelöscht
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Ihre Datei wird vorbereitet…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Datei wird hochgeladen…
+pdfjs-views-manager-status-warning-cut-label = Ausschneiden war nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
+pdfjs-views-manager-status-warning-copy-label = Kopieren nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
+pdfjs-views-manager-status-warning-delete-label = Löschen war nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
+pdfjs-views-manager-status-warning-save-label = Speichern nicht möglich. Aktualisieren Sie die Seite und versuchen Sie es erneut.
+pdfjs-views-manager-status-undo-button-label = Rückgängig
+pdfjs-views-manager-status-close-button =
+    .title = Schließen
+pdfjs-views-manager-status-close-button-label = Schließen
 
 ## Main menu for adding/removing signatures
 
