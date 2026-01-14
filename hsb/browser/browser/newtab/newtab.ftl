@@ -341,6 +341,8 @@ newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty
 newtab-widget-manage-title = Asistenty
+newtab-widget-manage-widget-button =
+    .label = Asistenty rjadować
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Začinić
@@ -468,6 +470,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Městno pytać
     .aria-label = Městno pytać
 newtab-weather-menu-weather-display = Wjedrowe pokazanje
+newtab-weather-todays-forecast = Dźensniša předpowědź
+newtab-weather-see-full-forecast = Dospołnu předpowědź wobhladać
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
