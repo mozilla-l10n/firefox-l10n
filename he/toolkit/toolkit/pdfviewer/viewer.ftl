@@ -697,6 +697,14 @@ pdfjs-views-manager-pages-status-undo-delete-label =
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = בתהליך הכנת הקובץ שלך…
 pdfjs-views-manager-pages-status-waiting-uploading-label = בתהליך העלאת הקובץ…
+pdfjs-views-manager-status-warning-cut-label = לא ניתן היה לגזור. נא לרענן את הדף ולנסות שוב.
+pdfjs-views-manager-status-warning-copy-label = לא ניתן היה להעתיק. נא לרענן את הדף ולנסות שוב.
+pdfjs-views-manager-status-warning-delete-label = לא ניתן היה למחוק. נא לרענן את הדף ולנסות שוב.
+pdfjs-views-manager-status-warning-save-label = לא ניתן היה לשמור. נא לרענן את הדף ולנסות שוב.
+pdfjs-views-manager-status-undo-button-label = ביטול פעולה
+pdfjs-views-manager-status-close-button =
+    .title = סגירה
+pdfjs-views-manager-status-close-button-label = סגירה
 
 ## Main menu for adding/removing signatures
 
