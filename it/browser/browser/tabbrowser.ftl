@@ -434,4 +434,3 @@ split-view-menuitem-reverse-tabs =
     .label = Scambia schede
 split-view-menuitem-close-both-tabs =
     .label = Chiudi entrambe le schede
-

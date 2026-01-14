@@ -222,4 +222,3 @@ fp-certerror-override-exception-button = Procedi su { $hostname } (rischioso)
 fp-certerror-intro = { -brand-short-name } ha rilevato un potenziale problema di sicurezza con <strong>{ $hostname }</strong>. Un soggetto che finge di essere il sito potrebbe cercare di rubare informazioni su carte di credito, password o email.
 fp-certerror-expired-into = { -brand-short-name } ha rilevato un problema di sicurezza con <strong>{ $hostname }</strong>. Il sito non è configurato correttamente o l’orologio del dispositivo è impostato su una data/ora sbagliata.
 fp-certerror-transparency-intro = Un soggetto che finge di essere <strong>{ $hostname }</strong> potrebbe cercare di rubare dettagli come informazioni sulle carte di credito, password o email.
-
