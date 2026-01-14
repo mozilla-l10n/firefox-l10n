@@ -337,6 +337,8 @@ newtab-custom-widget-section-title = Виҷетҳо
 newtab-custom-widget-section-toggle =
     .label = Виҷетҳо
 newtab-widget-manage-title = Виҷетҳо
+newtab-widget-manage-widget-button =
+    .label = Идоракунии виҷетҳо
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Пӯшидан
