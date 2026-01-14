@@ -78,14 +78,15 @@ contentanalysis-timeout-block-error-message-content = Zwisk ze zwiskom { $agent 
 contentanalysis-block-dialog-title-upload-file = Njesmějośo toś tu dataju nagraś
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-upload-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ nagraś. Stajśo se ze swójim administratorom za dalšne informacije.
+contentanalysis-block-dialog-body-upload-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ nagraś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-download-file = Njesmějośo toś tu dataju ześěgnuś
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-download-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ ześěgnuś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-clipboard = Njesmějośo toś to wopśimjeśe zasajźiś
+contentanalysis-block-dialog-body-clipboard = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe zasajźiś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-dropped-text = Njesmějośo toś to wopśimjeśe pušćiś
-contentanalysis-block-dialog-body-dropped-text = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe śěgnuś a pušćiś. Stajśo se ze swójim administratorom za dalšne informacije.
+contentanalysis-block-dialog-body-dropped-text = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe śěgnuś a pušćiś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-print = Njesmějośo toś ten dokument śišćaś
 contentanalysis-block-dialog-body-print = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś ten dokument śišćaś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } spušćiś?
