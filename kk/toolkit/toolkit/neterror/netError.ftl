@@ -46,6 +46,10 @@ neterror-load-error-firewall = Компьютер немесе желі желі
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Жергілікті желі бетін жүктеп алғыңыз келсе, { -brand-short-name } қолданбасына macOS Жекелік және қауіпсіздік параметрлерінде Жергілікті желі рұқсаттары берілгенін тексеріңіз.
 neterror-http-error-page = Веб-сайт адресін дұрыс енгізгеніңізді тексеріп шығыңыз.
+neterror-http-empty-response = Веб-сайт адресін дұрыс тергеніңізді тексеріп, біраз уақыттан кейін қайталап көріңіз.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } бос бетті қайтарды.
 neterror-captive-portal = Интернетке қатынау үшін бұл желіге кіруіңіз керек.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
