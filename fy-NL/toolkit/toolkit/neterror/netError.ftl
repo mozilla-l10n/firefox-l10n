@@ -46,6 +46,10 @@ neterror-load-error-firewall = As jo kompjûter of netwurk befeilige wurdt troch
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = As jo in lokale netwurkside probearje te laden, kontrolearje dan yn de privacy- en befeiligingsynstellingen fan macOS of { -brand-short-name } tastimming hat foar in Lokaal netwurk.
 neterror-http-error-page = Kontrolearje oft jo it websiteadres krekt ynfierd hawwe.
+neterror-http-empty-response = Kontrolearje oft jo it website-adres goed ynfierd hawwe en probearje it oer in pear mominten nochris.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } hat in lege side weromstjoerd.
 neterror-captive-portal = Jo moatte jo oanmelde by dit netwurk eardat jo tagong krije ta it ynternet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

@@ -167,10 +167,10 @@ pdfjs-printing-not-ready = 警告：此 PDF 未完成加载，无法打印。
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
-    .title = 切换侧栏
+    .title = 打开/关闭侧栏
 pdfjs-toggle-sidebar-notification-button =
-    .title = 切换侧栏（文档所含的大纲/附件/图层）
-pdfjs-toggle-sidebar-button-label = 切换侧栏
+    .title = 打开/关闭侧栏（文档所含的大纲/附件/图层）
+pdfjs-toggle-sidebar-button-label = 打开/关闭侧栏
 pdfjs-document-outline-button =
     .title = 显示文档大纲（双击展开/折叠所有项）
 pdfjs-document-outline-button-label = 文档大纲
