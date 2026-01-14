@@ -403,6 +403,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Salvează
     .accesskey = S
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Citește mai multe
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
@@ -433,6 +435,18 @@ tab-context-separate-split-view =
     .label = Separă ecranul divizat
     .accesskey = t
 tab-context-badge-new = Nou
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, Vizualizare divizată la stânga
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, Vizualizare divizată la dreapta
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

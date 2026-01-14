@@ -56,6 +56,7 @@ policy-DisablePocket2 = Dezactivează funcționalitatea de salvare a paginilor w
 policy-DisablePrivateBrowsing = Dezactivează navigarea privată.
 policy-DisableProfileImport = Dezactivează comanda de meniu pentru importul de date din alte browsere.
 policy-DisableProfileRefresh = Dezactivează butonul de reîmprospătare { -brand-short-name } în pagina about:support.
+policy-DisableRemoteImprovements = Împiedică { -brand-short-name } să aplice modificări de performanță, stabilitate și funcții între actualizări.
 policy-DisableSafeMode = Dezactivează funcționalitatea de repornire în Modul sigur. Obs: Tasta Shift de intrare în Modul sigur poate fi dezactivată numai în Windows, folosind Politica de grup.
 policy-DisableSecurityBypass = Împiedică utilizatorul să ocolească anumite avertismente de securitate.
 policy-DisableSetAsDesktopBackground = Dezactivează comanda de meniu de setare ca fundal pe desktop pentru imagini.

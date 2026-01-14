@@ -336,6 +336,8 @@ newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi
 newtab-widget-manage-title = Widgeturi
+newtab-widget-manage-widget-button =
+    .label = Gestionează widgeturile
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Închide
@@ -463,6 +465,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Caută locație
     .aria-label = Caută locație
 newtab-weather-menu-weather-display = Afișaj meteo
+newtab-weather-todays-forecast = Prognoza de astăzi
+newtab-weather-see-full-forecast = Vezi prognoza completă
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

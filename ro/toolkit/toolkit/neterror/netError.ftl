@@ -46,6 +46,10 @@ neterror-load-error-firewall = Dacă calculatorul sau rețeaua este protejat(ă)
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Dacă încerci să încarci o pagină din rețeaua locală, verifică dacă { -brand-short-name } a primit permisiuni pentru Rețeaua Locală în setările de Confidențialitate și Securitate macOS.
 neterror-http-error-page = Verifică dacă ai introdus corect adresa site-ului web.
+neterror-http-empty-response = Verifică dacă ai introdus corect adresa site-ului web și încearcă din nou peste câteva momente.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } a returnat o pagină goală.
 neterror-captive-portal = Trebuie să te autentifici în această rețea ca să poți accesa internetul.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
