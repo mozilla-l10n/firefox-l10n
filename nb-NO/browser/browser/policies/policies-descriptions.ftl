@@ -56,6 +56,7 @@ policy-DisablePocket2 = Deaktiver funksjonen for å lagre nettsider til { -pocke
 policy-DisablePrivateBrowsing = Slå av privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fra en annen nettleser.
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på siden about:support.
+policy-DisableRemoteImprovements = Hindre { -brand-short-name } i å bruke endringer i ytelse, stabilitet og funksjoner mellom oppdateringer.
 policy-DisableSafeMode = Deaktiver funksjonen for å starte på nytt i sikker modus. NB: Deaktivering av tasten skift for å starte sikker modus kan kun gjennomføres i Windows via gruppepolicy.
 policy-DisableSecurityBypass = Forhindre brukerens mulighet til å omgå visse sikkerhetsadvarsler.
 policy-DisableSetAsDesktopBackground = Deaktiver menykommandoen Bruk som skrivebordsbakgrunn for bilder.
