@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер
 newtab-widget-manage-title = Виджеттер
+newtab-widget-manage-widget-button =
+    .label = Виджеттерді басқару
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Жабу
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Орналасуды іздеу
     .aria-label = Орналасуды іздеу
 newtab-weather-menu-weather-display = Ауа райын көрсету
+newtab-weather-todays-forecast = Бүгінгі ауа райы болжамы
+newtab-weather-see-full-forecast = Толық ауа райы болжамын қарау
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
