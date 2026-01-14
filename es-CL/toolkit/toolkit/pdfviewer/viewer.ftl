@@ -675,12 +675,36 @@ pdfjs-views-manager-pages-status-cut-button-label = Cortar
 pdfjs-views-manager-pages-status-delete-button-label = Eliminar
 pdfjs-views-manager-pages-status-save-as-button-label = Guardar como…
 # Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 página cortada
+       *[other] { $count } páginas cortadas
+    }
+# Variables:
 #   $count (Number) - the number of selected pages to be copied.
 pdfjs-views-manager-pages-status-undo-copy-label =
     { $count ->
         [one] 1 página copiada
        *[other] { $count } páginas copiadas
     }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 página eliminada
+       *[other] { $count } páginas eliminadas
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Preparando tu archivo…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Subiendo archivo…
+pdfjs-views-manager-status-warning-cut-label = No se pudo cortar. Actualiza la página y vuelve a intentarlo.
+pdfjs-views-manager-status-warning-copy-label = No se pudo copiar. Actualiza la página y vuelve a intentarlo.
+pdfjs-views-manager-status-warning-delete-label = No se pudo eliminar. Actualiza la página y vuelve a intentarlo.
+pdfjs-views-manager-status-warning-save-label = No se pudo guardar. Actualiza la página y vuelve a intentarlo.
+pdfjs-views-manager-status-undo-button-label = Deshacer
+pdfjs-views-manager-status-close-button =
+    .title = Cerrar
+pdfjs-views-manager-status-close-button-label = Cerrar
 
 ## Main menu for adding/removing signatures
 
