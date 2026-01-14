@@ -694,6 +694,49 @@ pdfjs-views-manager-pages-status-copy-button-label = Copïo
 pdfjs-views-manager-pages-status-cut-button-label = Torri
 pdfjs-views-manager-pages-status-delete-button-label = Dileu
 pdfjs-views-manager-pages-status-save-as-button-label = Cadw fel…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [zero] { $count } tudalennau wedi'u torri
+        [one] { $count } dudalen wedi'i thorri
+        [two] { $count } dudalen wedi'u torri
+        [few] { $count } tudalen wedi'u torri
+        [many] { $count } tudalen wedi'u torri
+       *[other] { $count } tudalen wedi'u torri
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [zero] { $count } tudalennau wedi'u copïo
+        [one] { $count } tudalen wedi'i chopïo
+        [two] { $count } tudalen wedi'u copïo
+        [few] { $count } tudalen wedi'u copïo
+        [many] { $count } tudalen wedi'u copïo
+       *[other] { $count } tudalen wedi'u copïo
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [zero] { $count } tudalennau wedi'u dileu
+        [one] { $count } tudalen wedi'i dileu
+        [two] { $count } dudalen wedi'u dileu
+        [few] { $count } tudalen wedi'u dileu
+        [many] { $count } tudalen wedi'u dileu
+       *[other] { $count } tudalen wedi'u dileu
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Yn paratoi eich ffeil…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Yn llwytho ffeil i fyny…
+pdfjs-views-manager-status-warning-cut-label = Methu torri. Adnewyddwch y dudalen a cheisio eto.
+pdfjs-views-manager-status-warning-copy-label = Methu copïo. Adnewyddwch y dudalen a cheisio eto.
+pdfjs-views-manager-status-warning-delete-label = Methu dileu. Adnewyddwch y dudalen a cheisio eto.
+pdfjs-views-manager-status-warning-save-label = Methu cadw. Adnewyddwch y dudalen a cheisio eto.
+pdfjs-views-manager-status-undo-button-label = Dadwneud
+pdfjs-views-manager-status-close-button =
+    .title = Cau
+pdfjs-views-manager-status-close-button-label = Cau
 
 ## Main menu for adding/removing signatures
 
