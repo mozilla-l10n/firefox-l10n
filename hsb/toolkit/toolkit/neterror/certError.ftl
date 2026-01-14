@@ -136,6 +136,10 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } tutom
 # Variables:
 #   $date (Date) - Device's clock date.
 fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Časnik wašeho grata je na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } stajeny. Jeli to je korektne, ma wěstotny problem najskerje ze sydłom samym činić. Jeli je wopačny, móžeće to w swojich systemowych nastajenjach změnić.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = Swójstwownik { $hostname } njeje jo korektnje konfigurował a wěsty zwisk njeda so wutworić.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

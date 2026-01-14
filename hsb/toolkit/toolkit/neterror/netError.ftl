@@ -46,6 +46,10 @@ neterror-load-error-firewall = Jeli waš ličak abo syć so z wohnjowej murju ab
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jeli pospytujeće, stronu lokalneje syće začitać, přepruwujće prošu, hač je { -brand-short-name } prawa lokalneje syće w nastajenjach priwatnosće a wěstoty dóstał.
 neterror-http-error-page = Přepruwujće, hač sće adresu websydła korektnje zapodał.
+neterror-http-empty-response = Přepruwujće, hač sće adresu websydła korektnje zapodał a spytajće za mało wokomikow hišće raz.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } je prózdnu stronu wróćo pósłał.
 neterror-captive-portal = Dyrbiće so pola tuteje syće přizjewić, prjedy hač móžeće přistup k internetej měć.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
