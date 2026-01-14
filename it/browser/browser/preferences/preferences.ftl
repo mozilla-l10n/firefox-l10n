@@ -726,6 +726,12 @@ home-new-windows-tabs-description2 = Scegli cosa visualizzare quando vengono ape
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Browser predefinito
+is-default-browser-2 =
+    .message = { -brand-short-name } è impostato come browser predefinito. Ottima scelta.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } non è il browser predefinito.
 set-as-my-default-browser-2 =
     .label = Imposta come browser predefinito
     .accesskey = o
