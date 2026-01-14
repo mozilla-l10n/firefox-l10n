@@ -656,11 +656,6 @@ pdfjs-views-manager-attachments-title = Bilagor
 pdfjs-views-manager-layers-title = Lager
 pdfjs-views-manager-pages-option-label = Sidor
 pdfjs-views-manager-outlines-option-label = Dokumentöversikt
-pdfjs-views-manager-attachments-option-label = Bilagor
-pdfjs-views-manager-layers-option-label = Lager
-pdfjs-views-manager-add-file-button =
-    .title = Lägg till fil
-pdfjs-views-manager-add-file-button-label = Lägg till fil
 # Variables:
 #   $count (Number) - the number of selected pages.
 pdfjs-views-manager-pages-status-action-label =
