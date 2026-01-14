@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = 위젯
 newtab-custom-widget-section-toggle =
     .label = 위젯
 newtab-widget-manage-title = 위젯
+newtab-widget-manage-widget-button =
+    .label = 위젯 관리
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = 닫기
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = 위치 검색
     .aria-label = 위치 검색
 newtab-weather-menu-weather-display = 날씨 표시
+newtab-weather-todays-forecast = 오늘의 일기예보
+newtab-weather-see-full-forecast = 전체 일기예보 보기
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

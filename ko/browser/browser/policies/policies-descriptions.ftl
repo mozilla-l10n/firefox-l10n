@@ -56,6 +56,7 @@ policy-DisablePocket2 = { -pocket-brand-name }에 웹 사이트 저장하는 기
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 사용 안 합니다.
 policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 가져오는 명령을 사용 안 합니다.
 policy-DisableProfileRefresh = about:support 페이지의 { -brand-short-name } 새로설정 버튼을 사용 안 합니다.
+policy-DisableRemoteImprovements = { -brand-short-name }가 업데이트 간의 성능, 안정성 및 기능 변경 사항을 적용하지 못하게 합니다.
 policy-DisableSafeMode = 안전 모드로 다시 시작하는 기능을 사용 안 합니다. 참고: 그룹 정책을 사용해서 Shift 키를 눌러서 안전 모드로 들어가는 방법을 비활성화하는 것은 Windows에서만 가능합니다.
 policy-DisableSecurityBypass = 사용자가 특정 보안 경고를 무시할 수 없게 합니다.
 policy-DisableSetAsDesktopBackground = 이미지를 바탕 화면 배경으로 설정하는 메뉴 명령을 사용 안 합니다.
