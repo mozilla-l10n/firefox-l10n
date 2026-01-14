@@ -136,6 +136,10 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = 由於提供的憑證看來
 # Variables:
 #   $date (Date) - Device's clock date.
 fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 您的裝置時間目前設定為 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") }。若此時間正確，安全性問題可能發生在網站端。若此時間不正確，請到您的裝置的系統設定中調整為正確時間。
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = { $hostname } 的擁有者未正確設定網站，無法建立安全連線。
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
