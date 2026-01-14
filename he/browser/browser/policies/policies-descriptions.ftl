@@ -56,6 +56,7 @@ policy-DisablePocket2 = השבתת התכונה לשמירת דפי אינטרנ
 policy-DisablePrivateBrowsing = השבתת גלישה פרטית.
 policy-DisableProfileImport = השבתת פקודת התפריט לייבוא נתונים מדפדפן אחר.
 policy-DisableProfileRefresh = השבתת הכפתור 'ריענון { -brand-short-name }' בעמוד about:support.
+policy-DisableRemoteImprovements = למנוע מ־{ -brand-short-name } להחיל שינויים בביצועים, יציבות ותכונות בין עדכונים.
 policy-DisableSafeMode = השבתת התכונה להפעלה מחדש במצב בטוח. לתשומת לבך: ניתן להשבית את מקש ה־Shift לכניסה למצב בטוח רק ב־Windows באמצעות מדיניות קבוצתית.
 policy-DisableSecurityBypass = למנוע מהמשתמש לעקוף אזהרות אבטחה מסוימות.
 policy-DisableSetAsDesktopBackground = להשבית את הפקודה לקביעה כרקע שולחן העבודה בתפריט עבור תמונות.
