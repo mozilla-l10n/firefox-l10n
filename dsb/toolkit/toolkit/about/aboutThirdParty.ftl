@@ -68,10 +68,10 @@ third-party-button-to-unblock-module = Toś ten modul wěcej njeblokěrowaś
 third-party-button-to-unblock-module-disabled = Toś ten modul wěcej njebokěrowaś (lisćina blokěrowanjow tuchylu znjemóžnjona)
     .title =
         Tuchylu ako blokěrowany markěrowany, lěcrownož lisćina blokěrowanjow jo za toś to wuwjeźenje 
-        { -brand-short-name }. Klikniśo, aby blokěrowanje wótpórał.
+        { -brand-short-name } znjemóžnjona. Klikniśo, aby blokěrowanje wótpórał.
     .aria-label =
         Tuchylu ako blokěrowany markěrowany, lěcrownož lisćina blokěrowanjow jo za toś to wuwjeźenje 
-        { -brand-short-name }. Klikniśo, aby blokěrowanje wótpórał.
+        { -brand-short-name } znjemóžnjona. Klikniśo, aby blokěrowanje wótpórał.
 third-party-button-expand =
     .title = Nadrobne informacije pokazaś
 third-party-button-collapse =
