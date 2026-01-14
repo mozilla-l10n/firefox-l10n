@@ -40,7 +40,7 @@ about-translations-copy-button-default =
 # Button label shown after the translated output has been copied to the clipboard.
 about-translations-copy-button-copied =
     .label = Copied
-    .title = Copied translation
+    .title = Copy translation
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Select language

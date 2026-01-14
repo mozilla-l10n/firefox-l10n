@@ -1139,13 +1139,13 @@ prefs-sync-now-button =
     .label = Synchronise Now
     .accesskey = N
 prefs-sync-now-button-2 =
-    .label = Synchronise Now
+    .label = Synchronise now
     .accesskey = N
 prefs-syncing-button =
     .label = Synchronising…
 prefs-syncing-button-2 =
     .label = Synchronising…
-    .title = Synchronise Now
+    .title = Synchronise now
 
 ## The list of things currently syncing.
 
