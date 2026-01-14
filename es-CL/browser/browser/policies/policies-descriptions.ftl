@@ -56,6 +56,7 @@ policy-DisablePocket2 = Deshabilitar la función para guardar páginas web en { 
 policy-DisablePrivateBrowsing = Deshabilitar navegación privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón de "Refrescar { -brand-short-name }" en la página about:support.
+policy-DisableRemoteImprovements = Evita que { -brand-short-name } aplique cambios de rendimiento, estabilidad y funcionalidades entre actualizaciones.
 policy-DisableSafeMode = Deshabilitar la función para reiniciar en modo seguro. Nota: la tecla Shift para ingresar al modo seguro solo puede ser desactivada en en Windows usando las políticas de grupo del sistema.
 policy-DisableSecurityBypass = Impedir que el usuario se salte ciertas advertencias de seguridad.
 policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú "Colocar como fondo de escritorio" para las imágenes.

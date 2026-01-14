@@ -136,6 +136,10 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no co
 # Variables:
 #   $date (Date) - Device's clock date.
 fp-certerror-pkix-not-yet-valid-what-can-you-do-body = El reloj de tu dispositivo está configurado como { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si esto es correcto, es probable que el problema de seguridad esté en el sitio. Si no es así, puedes cambiarlo en la configuración del sistema de tu dispositivo.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = El propietario de { $hostname } no lo ha configurado correctamente y no se puede crear una conexión segura.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

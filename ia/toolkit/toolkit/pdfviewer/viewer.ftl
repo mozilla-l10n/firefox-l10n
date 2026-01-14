@@ -672,6 +672,27 @@ pdfjs-views-manager-pages-status-copy-button-label = Copiar
 pdfjs-views-manager-pages-status-cut-button-label = Secar
 pdfjs-views-manager-pages-status-delete-button-label = Deler
 pdfjs-views-manager-pages-status-save-as-button-label = Salvar como…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 pagina secate
+       *[other] { $count } paginas secate
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 pagina copiate
+       *[other] { $count } paginas copiate
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 pagina delite
+       *[other] { $count } paginas delite
+    }
 pdfjs-views-manager-pages-status-waiting-uploading-label = Cargante file…
 pdfjs-views-manager-status-undo-button-label = Disfacer
 pdfjs-views-manager-status-close-button =

@@ -633,6 +633,55 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Cancelar
 pdfjs-editor-add-comment-button =
     .title = Añadir comentario
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-toggle-views-manager-button =
+    .title = Barra lateral
+pdfjs-toggle-views-manager-notification-button =
+    .title = Cambiar barra lateral (índice de contenidos del documento/miniaturas/adjuntos/capas)
+pdfjs-toggle-views-manager-button-label = Barra lateral
+pdfjs-views-manager-sidebar =
+    .aria-label = Barra lateral
+pdfjs-views-manager-view-selector-button =
+    .title = Vistas
+pdfjs-views-manager-view-selector-button-label = Vistas
+pdfjs-views-manager-pages-title = Páginas
+pdfjs-views-manager-outlines-title = Esquema del documento
+pdfjs-views-manager-attachments-title = Adjuntos
+pdfjs-views-manager-layers-title = Capas
+pdfjs-views-manager-pages-option-label = Páginas
+pdfjs-views-manager-outlines-option-label = Esquema del documento
+pdfjs-views-manager-attachments-option-label = Adjuntos
+pdfjs-views-manager-layers-option-label = Capas
+pdfjs-views-manager-add-file-button =
+    .title = Añadir archivo
+pdfjs-views-manager-add-file-button-label = Añadir archivo
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } seleccionado
+       *[other] { $count } seleccionados
+    }
+pdfjs-views-manager-pages-status-none-action-label = Seleccionar páginas
+pdfjs-views-manager-pages-status-action-button-label = Administrar
+pdfjs-views-manager-pages-status-copy-button-label = Copiar
+pdfjs-views-manager-pages-status-cut-button-label = Cortar
+pdfjs-views-manager-pages-status-delete-button-label = Eliminar
+pdfjs-views-manager-pages-status-save-as-button-label = Guardar como…
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 página copiada
+       *[other] { $count } páginas copiadas
+    }
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
