@@ -643,7 +643,7 @@ pdfjs-editor-add-comment-button =
 pdfjs-toggle-views-manager-button =
     .title = Visa/dölj sidofält
 pdfjs-toggle-views-manager-notification-button =
-    .title = Växla sidofält (dokument innehåller miniatyrer/outline/bilagor/lager)
+    .title = Visa/dölj sidofält (dokument innehåller miniatyrer/översikt/bilagor/lager)
 pdfjs-toggle-views-manager-button-label = Visa/dölj sidofält
 pdfjs-views-manager-sidebar =
     .aria-label = Sidofält
@@ -656,11 +656,16 @@ pdfjs-views-manager-attachments-title = Bilagor
 pdfjs-views-manager-layers-title = Lager
 pdfjs-views-manager-pages-option-label = Sidor
 pdfjs-views-manager-outlines-option-label = Dokumentöversikt
+pdfjs-views-manager-attachments-option-label = Bilagor
+pdfjs-views-manager-layers-option-label = Lager
+pdfjs-views-manager-add-file-button =
+    .title = Lägg till fil
+pdfjs-views-manager-add-file-button-label = Lägg till fil
 # Variables:
 #   $count (Number) - the number of selected pages.
 pdfjs-views-manager-pages-status-action-label =
     { $count ->
-        [one] { $count } valda
+        [one] { $count } vald
        *[other] { $count } valda
     }
 pdfjs-views-manager-pages-status-none-action-label = Välj sidor
@@ -673,7 +678,7 @@ pdfjs-views-manager-pages-status-save-as-button-label = Spara som…
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =
     { $count ->
-        [one] 1 sida skuren
+        [one] 1 sida klippt
        *[other] { $count } sidor klippta
     }
 # Variables:
@@ -688,7 +693,7 @@ pdfjs-views-manager-pages-status-undo-copy-label =
 pdfjs-views-manager-pages-status-undo-delete-label =
     { $count ->
         [one] 1 sida borttagen
-       *[other] { $count } sidor raderade
+       *[other] { $count } sidor borttagna
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = Förbereder din fil…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Överför fil…
