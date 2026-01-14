@@ -136,6 +136,10 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } fertr
 # Variables:
 #   $date (Date) - Device's clock date.
 fp-certerror-pkix-not-yet-valid-what-can-you-do-body = De klok fan jo apparaat is ynsteld op { DATETIME($date, timeStyle: "short") }{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. As dit goed is, leit it befeiligingsprobleem wierskynlik by de website sels. As it ferkeard is, kinne jo it wizigje yn de systeemynstellingen fan jo apparaat.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = De eigener fan { $hostname } hat dizze net goed ynsteld en der kin gjin feilige ferbining makke wurde.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

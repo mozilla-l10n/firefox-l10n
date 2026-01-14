@@ -56,6 +56,7 @@ policy-DisablePocket2 = De funksje foar it bewarjen fan websiden nei { -pocket-b
 policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
 policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens fan in oare browser út útskeakelje.
 policy-DisableProfileRefresh = De knop { -brand-short-name } opfrisse yn de about:support-side útskeakelje.
+policy-DisableRemoteImprovements = Foarkomme dat { -brand-short-name } prestaasjes, stabiliteit en funksjes tapast tusken fernijingen.
 policy-DisableSafeMode = De funksje foar it opnij starten yn Feilige modus útskeakelje. Noat: de Shift-toets foar it betrêden fan de Feilige modus kin yn Windows allinnich útskeakele wurde fia Groepsbelied.
 policy-DisableSecurityBypass = Foarkomme dat de brûker bepaalde befeiligingsynstellingen omsilet.
 policy-DisableSetAsDesktopBackground = De menuopdracht As buroblêdachtergrûn ynstelle foar ôfbyldingen útskeakelje.
