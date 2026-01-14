@@ -46,6 +46,10 @@ neterror-load-error-firewall = 사용자의 컴퓨터나 네트워크가 방화�
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = 로컬 네트워크 페이지를 로드하려고 하는 경우, macOS 개인정보 보호 및 보안 설정에서 { -brand-short-name }에 로컬 네트워크 권한이 부여되었는지 확인하세요.
 neterror-http-error-page = 웹 사이트 주소를 올바르게 입력했는지 확인하세요.
+neterror-http-empty-response = 웹 사이트 주소를 올바르게 입력했는지 확인하고 잠시 후 다시 시도하세요.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname }에서 빈 페이지를 보냈습니다.
 neterror-captive-portal = 인터넷을 사용하기 위해서 반드시 이 네트워크에 로그인해야 합니다.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
