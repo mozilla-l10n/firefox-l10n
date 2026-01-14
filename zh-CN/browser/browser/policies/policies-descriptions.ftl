@@ -56,6 +56,7 @@ policy-DisablePocket2 = 禁用保存网页到 { -pocket-brand-name } 的功能�
 policy-DisablePrivateBrowsing = 禁用隐私浏览功能。
 policy-DisableProfileImport = 禁用自其他浏览器导入数据的菜单命令。
 policy-DisableProfileRefresh = 禁用 about:support 页面中的“翻新 { -brand-short-name }”按钮。
+policy-DisableRemoteImprovements = 阻止 { -brand-short-name } 在更新间隔期间进行功能、性能、稳定性更改。
 policy-DisableSafeMode = 禁用以安全模式重启浏览器的功能。注意：仅可在 Windows 上使用组策略禁用按住 Shift 键进入安全模式。
 policy-DisableSecurityBypass = 阻止用户绕过某些安全性警告。
 policy-DisableSetAsDesktopBackground = 禁用将图像“设为桌面背景”的菜单命令。
