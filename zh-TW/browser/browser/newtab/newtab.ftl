@@ -335,6 +335,8 @@ newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具
 newtab-widget-manage-title = 小工具
+newtab-widget-manage-widget-button =
+    .label = 管理小工具
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = 關閉
@@ -462,6 +464,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = 搜尋位置
     .aria-label = 搜尋位置
 newtab-weather-menu-weather-display = 顯示天氣
+newtab-weather-todays-forecast = 本日天氣預報
+newtab-weather-see-full-forecast = 檢視完整天氣預報
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

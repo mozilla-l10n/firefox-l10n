@@ -349,6 +349,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = 儲存
     .accesskey = S
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = 閱讀更多
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
