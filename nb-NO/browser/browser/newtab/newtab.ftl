@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
 newtab-widget-manage-title = Widgeter
+newtab-widget-manage-widget-button =
+    .label = Behandle widgeter
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Lukk
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Søk plassering
     .aria-label = Søk plassering
 newtab-weather-menu-weather-display = Værvisning
+newtab-weather-todays-forecast = Dagens værmelding
+newtab-weather-see-full-forecast = Se fullstendig værmelding
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
