@@ -724,6 +724,12 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nuove finestre e schede
 home-new-windows-tabs-description2 = Scegli cosa visualizzare quando vengono aperti la pagina iniziale, nuove finestre e nuove schede.
 
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Imposta come browser predefinito
+    .accesskey = o
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina iniziale e nuove finestre
