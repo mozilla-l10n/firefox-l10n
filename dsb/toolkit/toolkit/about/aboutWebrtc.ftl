@@ -213,7 +213,7 @@ about-webrtc-track-identifier = Identifikator cery
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Wusćełańska šyrokosć pasma (bajty/sek)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
-about-webrtc-receive-bandwidth-bytes-sec = šyrokosć pasma dostaśa (bajty/sek)
+about-webrtc-receive-bandwidth-bytes-sec = Šyrokosć pasma dostaśa (bajty/sek)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maksimalne połnjenje (bajty/sek)
 # The amount of time inserted between packets to keep them spaced out
