@@ -46,6 +46,10 @@ neterror-load-error-firewall = אם המחשב או הרשת שלך מוגנים
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = אם הינך מנסה לטעון דף אינטרנט מקומי, נא לבדוק של־{ -brand-short-name } הוענקה הרשאות לרשת המקומית בהגדרות הפרטיות והאבטחה של macOS.
 neterror-http-error-page = כדאי לבדוק שהקלדת את כתובת האתר בצורה נכונה.
+neterror-http-empty-response = יש לוודא שהקלדת את כתובת האתר בצורה נכונה ולנסות שוב בעוד מספר רגעים.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = ‏{ $hostname } שלח בחזרה דף ריק.
 neterror-captive-portal = עליך להתחבר לרשת זו כדי לגלוש באינטרנט.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
