@@ -110,7 +110,7 @@ neterror-content-encoding-error = נא ליצור קשר עם בעלי האתר 
 neterror-unsafe-content-type = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-basic-http-auth = ‏{ -brand-short-name } אינו נותן אמון ב־{ $hostname } מכיוון שהחיבור אינו מאובטח. ניתן לנסות לשנות את כתובת האתר ל־HTTPS.
+neterror-basic-http-auth = ‏{ -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהחיבור אינו מאובטח. ניתן לנסות לשנות את כתובת האתר ל־HTTPS.
 neterror-nss-failure-not-verified = לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.
 neterror-nss-failure-contact-website = נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.
 # Variables:
