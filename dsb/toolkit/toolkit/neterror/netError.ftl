@@ -46,6 +46,10 @@ neterror-load-error-firewall = Jolic wašo licadło abo waša seś šćita se z 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jolic wopytujośo, bok lokalneje seśi zacytaś, pśeglědujśo pšosym, lěc { -brand-short-name } jo dostał pšawa lokalneje seśi w nastajenjach priwatnosći a wěstoty.
 neterror-http-error-page = Pśeglědujśo, lěc sćo korektnje zapódał adresu websedła.
+neterror-http-empty-response = Pśeglědujśo, lěc sćo adresu websedła korektnje zapódał a wopytajśo za mało wokognuśow hyšći raz.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } jo pósłał prozny bok slědk.
 neterror-captive-portal = Musyśo se pla toś teje seśi pśizjawiś, nježli až móžośo pśistup k internetoju měś.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

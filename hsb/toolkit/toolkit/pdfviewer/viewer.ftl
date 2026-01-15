@@ -689,9 +689,9 @@ pdfjs-views-manager-pages-status-save-as-button-label = Składować jako…
 pdfjs-views-manager-status-undo-cut-label =
     { $count ->
         [one] { $count } strona wutřihana
-        [two] { $count } strona wutřihanej
-        [few] { $count } strona wutřihane
-       *[other] { $count } strona wutřihane
+        [two] { $count } stronje wutřihanej
+        [few] { $count } strony wutřihane
+       *[other] { $count } stronow wutřihane
     }
 # Variables:
 #   $count (Number) - the number of selected pages to be copied.
