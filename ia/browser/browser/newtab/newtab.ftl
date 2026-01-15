@@ -464,6 +464,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cercar loco
     .aria-label = Cercar loco
 newtab-weather-menu-weather-display = Visualisation meteo
+newtab-weather-todays-forecast = Prevision hodierne
+newtab-weather-see-full-forecast = Vider prevision complete
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

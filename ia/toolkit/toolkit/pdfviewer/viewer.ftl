@@ -642,6 +642,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Monstrar/celar le barra lateral
+pdfjs-toggle-views-manager-notification-button =
+    .title = Monstrar/celar le barra lateral (le documento contine miniaturas/structura/attachamentos/stratos)
 pdfjs-toggle-views-manager-button-label = Monstrar/celar le barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
@@ -694,6 +696,7 @@ pdfjs-views-manager-pages-status-undo-delete-label =
        *[other] { $count } paginas delite
     }
 pdfjs-views-manager-pages-status-waiting-uploading-label = Cargante file…
+pdfjs-views-manager-status-warning-cut-label = Impossibile secar. Refresca le pagina e retenta.
 pdfjs-views-manager-status-undo-button-label = Disfacer
 pdfjs-views-manager-status-close-button =
     .title = Clauder
