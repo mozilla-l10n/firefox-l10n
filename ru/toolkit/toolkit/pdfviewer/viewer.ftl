@@ -662,6 +662,57 @@ pdfjs-views-manager-pages-option-label = Страницы
 pdfjs-views-manager-outlines-option-label = Структура документа
 pdfjs-views-manager-attachments-option-label = Вложения
 pdfjs-views-manager-layers-option-label = Слои
+pdfjs-views-manager-add-file-button =
+    .title = Добавить файл
+pdfjs-views-manager-add-file-button-label = Добавить файл
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] Выбрана { $count }
+        [few] Выбраны { $count }
+       *[many] Выбрано { $count }
+    }
+pdfjs-views-manager-pages-status-none-action-label = Выбрать страницы
+pdfjs-views-manager-pages-status-action-button-label = Управление
+pdfjs-views-manager-pages-status-copy-button-label = Копировать
+pdfjs-views-manager-pages-status-cut-button-label = Вырезать
+pdfjs-views-manager-pages-status-delete-button-label = Удалить
+pdfjs-views-manager-pages-status-save-as-button-label = Сохранить как…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] Вырезана 1 страница
+        [few] Вырезаны { $count } страницы
+       *[many] Вырезано { $count } страниц
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] Скопирована 1 страница
+        [few] Скопированы { $count } страницы
+       *[many] Скопировано { $count } страниц
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] Удалена 1 страница
+        [few] Удалены { $count } страницы
+       *[many] Удалено { $count } страниц
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Идёт подготовка файла…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Выгрузка файла…
+pdfjs-views-manager-status-warning-cut-label = Не удалось вырезать. Обновить страницу и попробовать ещё раз.
+pdfjs-views-manager-status-warning-copy-label = Не удалось скопировать. Обновить страницу и попробовать ещё раз.
+pdfjs-views-manager-status-warning-delete-label = Не удалось удалить. Обновить страницу и попробовать ещё раз.
+pdfjs-views-manager-status-warning-save-label = Не удалось сохранить. Обновить страницу и попробовать ещё раз.
+pdfjs-views-manager-status-undo-button-label = Отменить
+pdfjs-views-manager-status-close-button =
+    .title = Закрыть
+pdfjs-views-manager-status-close-button-label = Закрыть
 
 ## Main menu for adding/removing signatures
 
