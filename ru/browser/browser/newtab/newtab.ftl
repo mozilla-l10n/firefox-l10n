@@ -465,6 +465,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Поиск местоположения
     .aria-label = Поиск местоположения
 newtab-weather-menu-weather-display = Отображение погоды
+newtab-weather-todays-forecast = Сегодняшний прогноз
+newtab-weather-see-full-forecast = Посмотреть полный прогноз
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
