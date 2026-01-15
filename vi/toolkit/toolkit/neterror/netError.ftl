@@ -46,6 +46,10 @@ neterror-load-error-firewall = Nếu máy tính hoặc mạng của bạn đư�
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Nếu bạn đang cố tải một trang mạng cục bộ, vui lòng kiểm tra xem { -brand-short-name } đã được cấp quyền Mạng cục bộ trong cài đặt Quyền riêng tư & bảo mật trên macOS hay chưa.
 neterror-http-error-page = Kiểm tra để đảm bảo bạn đã gõ địa chỉ trang web một cách chính xác.
+neterror-http-empty-response = Hãy kiểm tra lại xem bạn đã nhập đúng địa chỉ trang web chưa và thử lại sau vài phút.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } đã trả về một trang trống.
 neterror-captive-portal = Bạn cần đăng nhập vào mạng trước khi có thể truy cập Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
