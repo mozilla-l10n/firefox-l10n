@@ -336,6 +336,8 @@ newtab-custom-widget-section-title = Виджеты
 newtab-custom-widget-section-toggle =
     .label = Виджеты
 newtab-widget-manage-title = Виджеты
+newtab-widget-manage-widget-button =
+    .label = Управление виджетами
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Закрыть
