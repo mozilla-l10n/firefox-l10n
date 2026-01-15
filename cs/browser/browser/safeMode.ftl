@@ -19,8 +19,8 @@ refresh-profile =
         }
 troubleshoot-mode-description =
     { -brand-short-name.case-status ->
-        [with-cases] Tento režim { -brand-short-name(case: "gen") } vám pomůže s diagnostikou problémů. Vaše rozšíření a uživatelská nastavení budou dočasně zakázána.
-       *[no-cases] Tento režim aplikace { -brand-short-name } vám pomůže s diagnostikou problémů. Vaše rozšíření a uživatelská nastavení budou dočasně zakázána.
+        [with-cases] Tento režim { -brand-short-name(case: "gen") } vám pomůže s diagnostikou problémů. Vaše rozšíření budou dočasně zakázána a uživatelská nastavení potlačena.
+       *[no-cases] Tento režim aplikace { -brand-short-name } vám pomůže s diagnostikou problémů. Vaše rozšíření budou dočasně zakázána a uživatelská nastavení potlačena.
     }
 skip-troubleshoot-refresh-profile =
     { -brand-short-name.case-status ->
