@@ -56,6 +56,7 @@ policy-DisablePocket2 = Funkciju składowanja webbokow do { -pocket-brand-name }
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžniś.
 policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugego wobglědowaka znjemóžniś.
 policy-DisableProfileRefresh = Tłocašk { -brand-short-name } wótnowiś na boku about:support znjemóžniś.
+policy-DisableRemoteImprovements = Zajźujśo tomu, zo { -brand-short-name } změny wugbaśa, stabilnosći a funkcijow mjazy aktualizacijami nałožujo.
 policy-DisableSafeMode = Funkciju za znowegostartowanje we wěstem modusu znjemóžniś. Glědajśo: Tasta Umsch, z kótarejuž k wěstemu modusoju pśejźośo, dajo se jano pód Windowsom z pomocu kupkowych pšawidłow znjemóžniś.
 policy-DisableSecurityBypass = Wužywarjeju zakazaś, se wěstych wěstotnych warnowanjow wobinuś.
 policy-DisableSetAsDesktopBackground = Menijowy pśikaz Ako desktopowu slězynu za wobraze nastajiś znjemóžniś.
