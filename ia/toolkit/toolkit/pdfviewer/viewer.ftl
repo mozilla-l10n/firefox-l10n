@@ -695,8 +695,12 @@ pdfjs-views-manager-pages-status-undo-delete-label =
         [one] 1 pagina delite
        *[other] { $count } paginas delite
     }
+pdfjs-views-manager-pages-status-waiting-ready-label = Preparante file…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Cargante file…
 pdfjs-views-manager-status-warning-cut-label = Impossibile secar. Refresca le pagina e retenta.
+pdfjs-views-manager-status-warning-copy-label = Impossibile copiar. Refresca le pagina e retenta.
+pdfjs-views-manager-status-warning-delete-label = Impossibile deler. Refresca le pagina e retenta.
+pdfjs-views-manager-status-warning-save-label = Impossibile salvar. Refresca le pagina e retenta.
 pdfjs-views-manager-status-undo-button-label = Disfacer
 pdfjs-views-manager-status-close-button =
     .title = Clauder
