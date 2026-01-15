@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
 newtab-widget-manage-title = Widget
+newtab-widget-manage-widget-button =
+    .label = Quản lý widget
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Đóng
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Tìm kiếm khu vực
     .aria-label = Tìm kiếm khu vực
 newtab-weather-menu-weather-display = Cách hiển thị thời tiết
+newtab-weather-todays-forecast = Dự báo thời tiết hôm nay
+newtab-weather-see-full-forecast = Xem dự báo thời tiết đầy đủ
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

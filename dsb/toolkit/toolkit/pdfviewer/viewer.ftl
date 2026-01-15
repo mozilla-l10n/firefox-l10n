@@ -702,6 +702,25 @@ pdfjs-views-manager-pages-status-undo-copy-label =
         [few] { $count } boki kopěrowane
        *[other] { $count } bokow kopěrowane
     }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] { $count } bok wulašowany
+        [two] { $count } boka wulašowanej
+        [few] { $count } boki wulašowane
+       *[other] { $count } bokow wulašowane
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Waša dataja se pśigótujo…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Dataja se nagrawa…
+pdfjs-views-manager-status-warning-cut-label = Njedajo se wurězaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
+pdfjs-views-manager-status-warning-copy-label = Njedajo se kopěrowaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
+pdfjs-views-manager-status-warning-delete-label = Njedajo se lašowaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
+pdfjs-views-manager-status-warning-save-label = Njedajo se składowaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
+pdfjs-views-manager-status-undo-button-label = Anulěrowaś
+pdfjs-views-manager-status-close-button =
+    .title = Zacyniś
+pdfjs-views-manager-status-close-button-label = Zacyniś
 
 ## Main menu for adding/removing signatures
 
