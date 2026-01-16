@@ -548,6 +548,8 @@ performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ am
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (amezwer)
+performance-group =
+    .label = Tamellit
 
 ## General Section - Browsing
 
@@ -593,6 +595,8 @@ browsing-cfr-features =
     .label = Welleh ɣef timahilin n tunigin iteddun akka tura.
     .accesskey = W
 browsing-cfr-recommendations-learn-more = Issin ugar
+browsing-group =
+    .label = Tunigin
 
 ## General Section - Proxy
 
