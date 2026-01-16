@@ -591,6 +591,12 @@ history-remember-option-never =
     .label = ཟིན་ཐོ་ནམ་ཡང་ངེས་མི་དགོས།
 history-remember-option-custom =
     .label = ཟིན་ཐོ་ལ་རང་མོས་ཀྱི་སྒྲིག་འགོད་བེད་སྤྱོད།
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
@@ -652,6 +658,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Manage Data…
     .accesskey = M
+cookies-site-data-group =
+    .label = Cookies and Site Data
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -784,6 +792,8 @@ collection-health-report-disabled = Data reporting is disabled for this build co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Security
+browsing-protection-group =
+    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
