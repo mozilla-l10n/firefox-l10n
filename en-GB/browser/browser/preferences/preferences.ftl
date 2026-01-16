@@ -709,6 +709,8 @@ browsing-cfr-features =
     .label = Recommend features as you browse
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Learn more
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = New Windows and Tabs
 home-new-windows-tabs-description2 = Choose what you see when you open your homepage, new windows, and new tabs.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
