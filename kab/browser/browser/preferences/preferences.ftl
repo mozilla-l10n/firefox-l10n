@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ssuter i yismal web ur snuzuyen, ur beṭṭun isefka-w
     .accesskey = s
+non-technical-privacy-group =
+    .label = Ismenyifen n tbaḍnit n yismal web
 non-technical-privacy-header = Ismenyifen n tbaḍnit n yismal web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -1555,6 +1557,8 @@ website-advertising-header = Ismenyifen n udellel n yismal web
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Taɣellist
+browsing-protection-group =
+    .label = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-browsing-protection = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-enable-safe-browsing =
     .label = Sewḥel yir agbur neɣ win iweɛṛen
