@@ -304,6 +304,9 @@ browser-layout-show-sidebar-desc = Mějśo malsny pśistup k cytańskim znamjenj
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Rěc a wuglěd
+appearance-group =
+    .label = Naglěd websedła
+    .description = Někotare websedła swóju barwowu šemu na zakłaźe wašych nastajenjow pśiměrjuju. Wubjeŕśo, kótaru barwowu šemu cośo za te sedła wužywaś.
 preferences-web-appearance-header = Naglěd websedła
 preferences-web-appearance-description = Někotare websedła swóju barwowu šemu na zakłaźe wašych nastajenjow pśiměrjuju. Wubjeŕśo, kótaru barwowu šemu cośo za te sedła wužywaś.
 preferences-web-appearance-choice-auto2 =
@@ -673,6 +676,8 @@ performance-limit-content-process-blocked-desc = Licba wopśimjeśowych procesow
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Wugbaśe
 
 ## General Section - Browsing
 
@@ -721,6 +726,8 @@ browsing-cfr-features =
     .label = Dopórucćo funkcije, mjaztym až pśeglědujośo
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Dalšne informacije
+browsing-group =
+    .label = Pśeglědowanje
 
 ## General Section - Proxy
 
@@ -1503,6 +1510,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adrese a wěcej
 payments-group =
     .label = Płaśeńske metody
 
@@ -1565,6 +1574,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Historiju lašowaś…
     .accesskey = i
+history-group =
+    .label = Historija
 
 ## Privacy Section - Site Data
 
