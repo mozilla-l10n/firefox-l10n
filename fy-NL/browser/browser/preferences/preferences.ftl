@@ -715,6 +715,8 @@ browsing-cfr-features =
     .label = Funksjes oanrekommandearje wylst jo sneupe
     .accesskey = F
 browsing-cfr-recommendations-learn-more = Mear ynfo
+browsing-group =
+    .label = Navigearje
 
 ## General Section - Proxy
 
