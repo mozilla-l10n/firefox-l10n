@@ -147,6 +147,8 @@ browsing-title = Go batla
 browsing-use-smooth-scrolling =
     .label = Dirisa momenololo o o borethe
     .accesskey = m
+browsing-group =
+    .label = Go batla
 
 ## General Section - Proxy
 
