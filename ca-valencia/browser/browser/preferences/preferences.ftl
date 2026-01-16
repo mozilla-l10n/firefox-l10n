@@ -149,6 +149,8 @@ browser-containers-settings =
     .label = Paràmetres…
     .accesskey = t
 containers-disable-alert-title = Voleu tancar totes les pestanyes de contenidor?
+startup-group =
+    .label = Inici
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -334,6 +336,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
     .label = Reprodueix contingut controlat per DRM
@@ -380,6 +384,9 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -399,6 +406,8 @@ performance-limit-content-process-blocked-desc = El nombre de processos de conti
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (per defecte)
+performance-group =
+    .label = Rendiment
 
 ## General Section - Browsing
 
@@ -433,6 +442,8 @@ browsing-cfr-features =
     .label = Recomana funcions durant la navegació
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Més informació
+browsing-group =
+    .label = Navegació
 
 ## General Section - Proxy
 
@@ -442,11 +453,17 @@ network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
     .label = Paràmetres…
     .accesskey = P
+network-proxy-group =
+    .label = Paràmetres de xarxa
+    .description = Configureu com el { -brand-short-name } es connecta a Internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Finestres i pestanyes noves
 home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina d'inici, finestres noves i pestanyes noves.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -477,6 +494,12 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interés…
     .accesskey = z
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -654,6 +677,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -852,6 +880,9 @@ primary-password-os-auth-dialog-message-win = Per crear una contrasenya principa
 primary-password-os-auth-dialog-message-macosx = crear una contrasenya principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historial
@@ -947,6 +978,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1136,12 +1173,17 @@ collection-health-report-disabled = L'informe de dades està desactivat en la co
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } envie els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
+browsing-protection-group =
+    .label = Protecció contra contingut enganyós i programari perillós
 security-browsing-protection = Protecció contra contingut enganyós i programari perillós
 security-enable-safe-browsing =
     .label = Bloca el contingut enganyós i perillós
@@ -1184,6 +1226,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
