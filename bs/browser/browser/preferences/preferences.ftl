@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Recite web stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
+non-technical-privacy-group =
+    .label = Postavke privatnosti web stranice
 non-technical-privacy-header = Postavke privatnosti web stranice
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -213,6 +215,8 @@ browser-containers-settings =
     .label = Postavke…
     .accesskey = t
 containers-disable-alert-title = Zatvoriti sve Container tabove?
+startup-group =
+    .label = Pokretanje
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -261,6 +265,9 @@ browser-layout-show-sidebar-desc = Brzo pristupite zabilješkama, karticama s te
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izled
+appearance-group =
+    .label = Izgled web stranice
+    .description = Neke web stranice prilagođavaju svoju shemu boja na osnovu vaših preferencija. Odaberite šemu boja koju želite koristiti za te stranice.
 preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja na osnovu vaših preferencija. Odaberite šemu boja koju želite koristiti za te stranice.
 preferences-web-appearance-choice-auto2 =
@@ -1208,6 +1215,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Obriši historiju…
     .accesskey = s
+history-group =
+    .label = Historija
 
 ## Privacy Section - Site Data
 
@@ -1582,6 +1591,8 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+browsing-protection-group =
+    .label = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-enable-safe-browsing =
     .label = Blokiraj opasan i obmanjujući sadržaj
