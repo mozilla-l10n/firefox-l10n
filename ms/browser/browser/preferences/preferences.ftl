@@ -233,6 +233,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Kandungan Digital Rights Management (DRM)
 drm-content-header = Kandungan Digital Rights Management (DRM)
 play-drm-content =
     .label = Mainkan kandungan kawalan-DRM
@@ -259,6 +261,9 @@ update-application-manual =
 update-application-use-service =
     .label = Gunakan servis latar belakang bagi pemasangan versi terkini
     .accesskey = b
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -311,11 +316,17 @@ network-proxy-connection-learn-more = Ketahui Selanjutnya
 network-proxy-connection-settings =
     .label = Tetapan…
     .accesskey = t
+network-proxy-group =
+    .label = Tetapan Rangkaian
+    .description = Tetapkan cara { -brand-short-name } menyambung ke internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Tetingkap dan Tab Baru
 home-new-windows-tabs-description2 = Pilih apa yang anda mahu lihat apabila anda buka laman, tetingkap dan tab baru.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -346,6 +357,12 @@ use-current-pages =
 choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -440,6 +457,9 @@ containers-add-button =
 containers-remove-button =
     .label = Buang
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -474,6 +494,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -485,6 +510,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -574,6 +605,12 @@ forms-master-pw-change =
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sejarah
@@ -659,6 +696,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Urus Data…
     .accesskey = U
+cookies-site-data-group =
+    .label = Kuki dan Data Laman
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -766,12 +811,17 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keselamatan
+browsing-protection-group =
+    .label = Perlindungan Kandungan Mengelirukan dan Perisian Berbahaya
 security-browsing-protection = Perlindungan Kandungan Mengelirukan dan Perisian Berbahaya
 security-enable-safe-browsing =
     .label = Sekat isi kandung berbahaya dan memperdayakan
@@ -797,6 +847,12 @@ certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
