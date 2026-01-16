@@ -221,6 +221,8 @@ browser-containers-settings =
     .label = Definições…
     .accesskey = i
 containers-disable-alert-title = Fechar todos os separadores contentores?
+startup-group =
+    .label = Inicialização
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -1231,6 +1233,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gerir endereços e mais
     .accesskey = m
+addresses-group =
+    .label = Endereços e mais
+payments-group =
+    .label = Métodos de pagamento
 
 ## Privacy Section - History
 
@@ -1288,6 +1294,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = s
+history-group =
+    .label = Histórico
 
 ## Privacy Section - Site Data
 
@@ -1703,6 +1711,8 @@ website-advertising-private-attribution-description = Isto ajuda os sites a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
+browsing-protection-group =
+    .label = Conteúdo decetivo e proteção contra software perigoso
 security-browsing-protection = Conteúdo decetivo e proteção contra software perigoso
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e decetivo
@@ -1759,6 +1769,9 @@ httpsonly-radio-disabled3 =
     .description = O { -brand-short-name } pode, ainda assim, atualizar algumas ligações
 httpsonly-radio-disabled =
     .label = Não ativar o modo apenas HTTPS
+httpsonly-group =
+    .label = Modo apenas HTTPS
+    .description = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
 
 ## DoH Section
 
