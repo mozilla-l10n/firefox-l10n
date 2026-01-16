@@ -1614,6 +1614,8 @@ sitedata-cookies-exceptions2 =
     .label = ניהול חריגות
     .accesskey = ח
     .description = באפשרותך לציין אילו אתרים תמיד מורשים או אסורים להשתמש בעוגיות ונתוני אתרים.
+cookies-site-data-group =
+    .label = עוגיות ונתוני אתרים
 
 ## Privacy Section - Cookie Banner Handling
 
