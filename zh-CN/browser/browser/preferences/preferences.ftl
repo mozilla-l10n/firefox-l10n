@@ -707,6 +707,8 @@ browsing-cfr-features =
     .label = 在您浏览时推荐新功能
     .accesskey = f
 browsing-cfr-recommendations-learn-more = 详细了解
+browsing-group =
+    .label = 浏览
 
 ## General Section - Proxy
 
