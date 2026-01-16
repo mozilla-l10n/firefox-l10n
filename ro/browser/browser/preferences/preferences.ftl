@@ -301,6 +301,9 @@ browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon,
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbă și aspect
+appearance-group =
+    .label = Aspectul site-urilor web
+    .description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
 preferences-web-appearance-header = Aspectul site-urilor web
 preferences-web-appearance-description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
 preferences-web-appearance-choice-auto2 =
@@ -670,6 +673,8 @@ performance-limit-content-process-blocked-desc = Modificarea numărului de proce
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (implicită)
+performance-group =
+    .label = Performanță
 
 ## General Section - Browsing
 
@@ -1501,6 +1506,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adrese și multe altele
+payments-group =
+    .label = Metode de plată
 
 ## Privacy Section - History
 
@@ -1561,6 +1570,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Șterge istoricul…
     .accesskey = s
+history-group =
+    .label = Istoric
 
 ## Privacy Section - Site Data
 
