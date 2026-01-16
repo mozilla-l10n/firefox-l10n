@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Aseta oletukseksi
+    .accesskey = e
 
 ## Custom Homepage subpage
 
