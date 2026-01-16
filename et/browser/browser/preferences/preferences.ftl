@@ -200,6 +200,9 @@ containers-remove-cancel-button = Ära eemalda seda konteinerit
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Keel ja välimus
+appearance-group =
+    .label = Veebilehe välimus
+    .description = Mõned saidid kohandavad oma värviskeemi vastavalt sinu sätetele. Vali, millist värviskeemi soovite nende saitide jaoks kasutada.
 preferences-web-appearance-header = Veebilehe välimus
 preferences-web-appearance-description = Mõned saidid kohandavad oma värviskeemi vastavalt sinu sätetele. Vali, millist värviskeemi soovite nende saitide jaoks kasutada.
 preferences-web-appearance-choice-light2 =
@@ -441,6 +444,9 @@ update-in-progress-ok-button = &Loobu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Jätka
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Jõudlus
@@ -460,6 +466,8 @@ performance-limit-content-process-blocked-desc = Sisu protsesside arvu muutmine 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (vaikimisi)
+performance-group =
+    .label = Jõudlus
 
 ## General Section - Browsing
 
@@ -497,6 +505,8 @@ browsing-cfr-features =
     .label = Veebilehitsemise ajal soovitatakse funktsionaalsusi
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Rohkem teavet
+browsing-group =
+    .label = Lehitsemine
 
 ## General Section - Proxy
 
@@ -506,11 +516,17 @@ network-proxy-connection-learn-more = Rohkem teavet
 network-proxy-connection-settings =
     .label = Sätted...
     .accesskey = e
+network-proxy-group =
+    .label = Võrgusätted
+    .description = { -brand-short-name }i internetiga ühendumise häälestamine.
 
 ## Home Section
 
 home-new-windows-tabs-header = Uued aknad ja kaardid
 home-new-windows-tabs-description2 = Vali avalehe, uute akende ja uute kaartide avamisel kuvatavad asjad.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -541,6 +557,12 @@ use-current-pages =
 choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -720,6 +742,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } pole kinnitatud.
 sync-signedin-login-failure = Konto { $email } taasühendamiseks logi sisse
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -918,6 +945,9 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Ajalugu
@@ -974,6 +1004,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ajaloo kustutamine…
     .accesskey = j
+history-group =
+    .label = Ajalugu
 
 ## Privacy Section - Site Data
 
@@ -1017,6 +1049,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Halda erandeid…
     .accesskey = H
+cookies-site-data-group =
+    .label = Küpsised ja saidi andmed
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1208,12 +1248,17 @@ collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on a
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Turvalisus
+browsing-protection-group =
+    .label = Petliku sisu ja ohtliku tarkvara vastane kaitse
 security-browsing-protection = Petliku sisu ja ohtliku tarkvara vastane kaitse
 security-enable-safe-browsing =
     .label = Ohtlik ja petlik sisu blokitakse
@@ -1256,6 +1301,9 @@ httpsonly-radio-enabled-pbm =
     .label = Ainult HTTPS-režiimi kasutatakse ainult privaatsetes akendes
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
