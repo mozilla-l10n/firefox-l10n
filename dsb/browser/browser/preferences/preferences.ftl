@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websydłam k wěsći daś, až njamaju móje daty pśedaś abo źěliś
     .accesskey = d
+non-technical-privacy-group =
+    .label = Nastajenja priwatnosći websedła
 non-technical-privacy-header = Nastajenja priwatnosći websedła
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
 containers-disable-alert-title = Wše kontejnerowe rejtariki zacyniś?
+startup-group =
+    .label = Startowaś
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -589,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pšašaś se, lěc se maju dataje wócyniś abo składowaś
     .accesskey = P
+drm-group =
+    .label = Wopśimjeśe Digital Right Management (DRM)
 drm-content-header = Wopśimjeśe Digital Right Management (DRM)
 play-drm-content =
     .label = Wopśimjeśe wóźone pśez DRM wótgraś
@@ -724,11 +730,17 @@ network-proxy-connection-learn-more = Dalšne informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
+network-proxy-group =
+    .label = Seśowe nastajenja
+    .description = Konfigurěrowaś, kak { -brand-short-name } z internetom zwězujo.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe wokna a rejtariki
 home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój startowy bok, nowe wokna a nowe rejtariki wócynjaśo.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1491,6 +1503,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Płaśeńske metody
 
 ## Privacy Section - History
 
@@ -1617,6 +1631,8 @@ sitedata-cookies-exceptions2 =
     .label = Wuwześa zastojaś
     .accesskey = u
     .description = Móžośo pódaś, kótare websedła směju pśecej cookieje a sedłowe daty wužywaś a kótare nic.
+cookies-site-data-group =
+    .label = Cookieje a sedłowe daty
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2009,6 +2025,8 @@ website-advertising-private-attribution-description = To websedłam pomaga rozm�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
+browsing-protection-group =
+    .label = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
 security-browsing-protection = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
 security-enable-safe-browsing =
     .label = Tšašne a wobšudnikojske wopśimjeśe blokěrowaś
@@ -2065,10 +2083,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } snaź někotare zwiski aktualizěrujo
 httpsonly-radio-disabled =
     .label = Modus Jano-HTTPS njezmóžniś
+httpsonly-group =
+    .label = Modus Jano-HTTPS
+    .description = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
 
 ## DoH Section
 
 preferences-doh-header = DNS pśez HTTPS
+dns-over-https-group =
+    .label = DNS pśez HTTPS
 preferences-doh-description = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, napórajo wěsty DNS a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 preferences-doh-description2 = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, staja wěsty DNS k dispoziciji a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 # Variables:
