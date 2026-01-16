@@ -101,6 +101,8 @@ browser-containers-settings =
     .label = Teelte…
     .accesskey = l
 containers-disable-alert-title = Uddu Tabbe Mooftirɗe Kala?
+startup-group =
+    .label = Kurmital
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +296,9 @@ update-in-progress-ok-button = &Woppu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jokku
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Jaawgol golle
@@ -355,6 +360,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Kenorɗe Kese kam e Tabbe
 home-new-windows-tabs-description2 = Suɓo ko njiyataa so a udditii hello maa jaɓɓorgo, henorde hesere, e tabbere hesere.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Hello jaɓɓorgo kam e kenorɗe kese
@@ -384,6 +392,12 @@ use-current-pages =
 choose-bookmark =
     .label = Huutoro Maantorol…
     .accesskey = M
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -486,6 +500,9 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Momtu
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -526,6 +543,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ƴeewtaaka.
 sync-signedin-login-failure = Tiiɗno seŋo ngam naattude { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -537,6 +559,9 @@ sync-remove-account =
 sync-sign-in =
     .label = Seŋao
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -651,6 +676,9 @@ forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Aslol
@@ -738,6 +766,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Yuɓɓin keɓe…
     .accesskey = M
+cookies-site-data-group =
+    .label = Kuukiije kam e Keɓe Lowre
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -758,12 +794,19 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 content-blocking-learn-more = Ɓeydu humpito
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
 ##
 
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -822,6 +865,9 @@ collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -853,6 +899,12 @@ certs-devices =
     .label = kaɓirɗi Kisal…
     .accesskey = k
 certs-devices-enable-fips = Daaƴtu FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
