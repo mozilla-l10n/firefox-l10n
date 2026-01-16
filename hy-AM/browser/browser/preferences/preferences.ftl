@@ -583,6 +583,9 @@ home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Դարձնել սկզբնադիր
+    .accesskey = Ս
 
 ## Custom Homepage subpage
 
