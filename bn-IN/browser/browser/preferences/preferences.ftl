@@ -319,6 +319,8 @@ browsing-cfr-recommendations =
     .label = আপনি ব্রাউজ করেন এমন প্রস্তাবিত এক্সটেনশন
     .accesskey = R
 browsing-cfr-recommendations-learn-more = আরো জানুন
+browsing-group =
+    .label = ব্রাউজ করা
 
 ## General Section - Proxy
 
@@ -328,6 +330,9 @@ network-proxy-connection-learn-more = আরো জানুন
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = ব
+network-proxy-group =
+    .label = নেটওয়ার্ক সেটিংস
+    .description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
 
 ## Home Section
 
