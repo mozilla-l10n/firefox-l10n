@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਮੇਰਾ ਡਾਟਾ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਨਾ ਕਰਨ ਲਈ ਦੱਸੋ
     .accesskey = s
+non-technical-privacy-group =
+    .label = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
 non-technical-privacy-header = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -711,6 +713,8 @@ browsing-cfr-features =
     .label = ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ੀ ਫੀਚਰ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
+browsing-group =
+    .label = ਬਰਾਊਜ਼ਿੰਗ
 
 ## General Section - Proxy
 
@@ -720,6 +724,9 @@ network-proxy-connection-learn-more = ਹੋਰ ਜਾਣੋ
 network-proxy-connection-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = e
+network-proxy-group =
+    .label = ਨੈੱਟਵਰਕ ਸੈਟਿੰਗਾਂ
+    .description = ਸੰਰਚਨਾ ਕਰੋ ਕਿ { -brand-short-name } ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕਨੈਕਟ ਹੋਵੇ।
 
 ## Home Section
 
@@ -1476,6 +1483,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
+payments-group =
+    .label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 
 ## Privacy Section - History
 
@@ -1998,6 +2009,8 @@ website-advertising-private-attribution-description = ਇਹ ਸਾਈਟਾਂ 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ਸੁਰੱਖਿਆ
+browsing-protection-group =
+    .label = ਭਰਮਪੂਰਨ ਸਮੱਗਰੀ ਅਤੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ
 security-browsing-protection = ਭਰਮਪੂਰਨ ਸਮੱਗਰੀ ਅਤੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ
 security-enable-safe-browsing =
     .label = ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
@@ -2054,10 +2067,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } ਸ਼ਾਇਦ ਹਾਲੇ ਵੀ ਕੁਝ ਕਨੈਕਸ਼ਨ ਅੱਪਗਰੇਡ ਕਰੇ
 httpsonly-radio-disabled =
     .label = ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਨਾ ਕਰੋ
+httpsonly-group =
+    .label = ਸਿਰਫ਼-HTTPS ਮੋਡ
+    .description = ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਿਰਫ਼ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਹੀ ਇਜਾਜ਼ਤ ਦਿਓ। { -brand-short-name } ਅਸੁਰੱਖਿਅਤ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੇਗਾ।
 
 ## DoH Section
 
 preferences-doh-header = HTTPS ਉੱਤੇ DNS
+dns-over-https-group =
+    .label = HTTPS ਉੱਤੇ DNS
 preferences-doh-description = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਬਣਾਉਂਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
 preferences-doh-description2 = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਦਿੰਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
 # Variables:
