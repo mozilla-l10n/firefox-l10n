@@ -697,6 +697,8 @@ browsing-cfr-features =
     .label = Đề xuất các tính năng khi bạn duyệt
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Tìm hiểu thêm
+browsing-group =
+    .label = Duyệt
 
 ## General Section - Proxy
 
@@ -711,6 +713,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Cửa sổ và thẻ mới
 home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn mở trang chủ, cửa sổ mới và các thẻ mới.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
