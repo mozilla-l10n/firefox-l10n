@@ -730,6 +730,9 @@ home-new-windows-tabs-description2 = ホームページ、新しいウィンド�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = 既定のブラウザーにする
+    .accesskey = D
 
 ## Custom Homepage subpage
 
