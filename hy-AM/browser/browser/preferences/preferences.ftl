@@ -203,6 +203,8 @@ browser-containers-settings =
     .label = Կարգավորումներ...
     .accesskey = ր
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+startup-group =
+    .label = Մեկնարկ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -486,6 +488,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
@@ -561,6 +566,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Նոր պատուհաններ և ներդիրներ
 home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ տուն էջը, նոր պատուհաններ և նոր ներդիրներ բացելիս:
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -844,6 +852,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1225,6 +1238,11 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+cookies-site-data-group =
+    .label = Cookie-ներ և կայքի տվյալներ
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
