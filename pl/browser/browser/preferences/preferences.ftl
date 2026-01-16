@@ -301,6 +301,9 @@ browser-layout-show-sidebar-desc = Szybki dostęp do zakładek, kart z telefonu
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Język i wygląd
+appearance-group =
+    .label = Wygląd witryn internetowych
+    .description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
 preferences-web-appearance-header = Wygląd witryn internetowych
 preferences-web-appearance-description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
 preferences-web-appearance-choice-auto2 =
@@ -1491,6 +1494,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresy i nie tylko
+payments-group =
+    .label = Metody płatności
 
 ## Privacy Section - History
 
@@ -1551,6 +1558,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Wyczyść historię…
     .accesskey = W
+history-group =
+    .label = Historia
 
 ## Privacy Section - Site Data
 
