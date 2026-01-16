@@ -390,6 +390,9 @@ home-new-windows-tabs-description2 = चुनें कि आप अपने 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = तयशुदा बनाएँ
+    .accesskey = D
 
 ## Custom Homepage subpage
 
