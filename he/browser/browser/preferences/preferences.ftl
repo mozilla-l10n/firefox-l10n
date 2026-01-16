@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = להורות לאתרים לא למכור או לשתף את הנתונים שלי
     .accesskey = מ
+non-technical-privacy-group =
+    .label = העדפות פרטיות של אתרים
 non-technical-privacy-header = העדפות פרטיות של אתרים
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = לשאול האם לפתוח או לשמור את הקבצים
     .accesskey = א
+drm-group =
+    .label = תוכן ניהול זכויות קניין (DRM)
 drm-content-header = תוכן ניהול זכויות קניין (DRM)
 play-drm-content =
     .label = הפעלת תוכן מוגן DRM
@@ -1491,6 +1495,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = אמצעי תשלום
 
 ## Privacy Section - History
 
@@ -2012,6 +2018,8 @@ website-advertising-private-attribution-description = אפשרות זו מסיי
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = אבטחה
+browsing-protection-group =
+    .label = תוכן מטעה והגנת תוכנה מסוכנת
 security-browsing-protection = תוכן מטעה והגנת תוכנה מסוכנת
 security-enable-safe-browsing =
     .label = חסימת תוכן מסוכן ומטעה
@@ -2068,10 +2076,15 @@ httpsonly-radio-disabled3 =
     .description = ‏ייתכן ש־{ -brand-short-name } עדיין ישדרג חלק מהחיבורים
 httpsonly-radio-disabled =
     .label = לא להפעיל מצב HTTPS בלבד
+httpsonly-group =
+    .label = מצב HTTPS בלבד
+    .description = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 
 ## DoH Section
 
 preferences-doh-header = ‏DNS על גבי HTTPS
+dns-over-https-group =
+    .label = ‏DNS על גבי HTTPS
 preferences-doh-description = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, יוצרת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 preferences-doh-description2 = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, מספקת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 # Variables:
