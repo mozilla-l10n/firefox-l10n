@@ -539,6 +539,9 @@ home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Lakaat dre ziouer
+    .accesskey = L
 
 ## Custom Homepage subpage
 
