@@ -955,6 +955,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = پاک کردن تاریخچه…
     .accesskey = s
+history-group =
+    .label = تاریخچه
 
 ## Privacy Section - Site Data
 
