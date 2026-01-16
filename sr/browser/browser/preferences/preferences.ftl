@@ -201,6 +201,8 @@ browser-containers-settings =
     .label = Подешавања…
     .accesskey = П
 containers-disable-alert-title = Затворити све картице у контејнеру?
+startup-group =
+    .label = Покретање
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -236,6 +238,9 @@ containers-remove-cancel-button = Не уклањај
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Језик и изглед
+appearance-group =
+    .label = Изглед веб странице
+    .description = Неке веб странице прилагођавају своју шему боја према вашим жељама. Изаберите шему боја коју желите да користите за те сајтове.
 preferences-web-appearance-header = Изглед веб странице
 preferences-web-appearance-description = Неке веб странице прилагођавају своју шему боја према вашим жељама. Изаберите шему боја коју желите да користите за те сајтове.
 preferences-web-appearance-choice-auto2 =
@@ -435,6 +440,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Питај да отворите или сачувате датотеке
     .accesskey = П
+drm-group =
+    .label = Садржај са заштитом ауторских права (DRM)
 drm-content-header = Садржај са заштитом ауторских права (DRM)
 play-drm-content =
     .label = Пуштај садржај заштићен DRM-ом
@@ -530,6 +537,8 @@ performance-limit-content-process-blocked-desc = Уређивање броја �
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (подразумевано)
+performance-group =
+    .label = Перформансе
 
 ## General Section - Browsing
 
@@ -567,6 +576,8 @@ browsing-cfr-features =
     .label = Препоручуј функције током прегледања
     .accesskey = ф
 browsing-cfr-recommendations-learn-more = Сазнајте више
+browsing-group =
+    .label = Прегледање
 
 ## General Section - Proxy
 
@@ -576,6 +587,9 @@ network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
     .label = Подешавања…
     .accesskey = П
+network-proxy-group =
+    .label = Подешавања мреже
+    .description = Подесите како { -brand-short-name } приступа интернету.
 
 ## Home Section
 
@@ -1161,6 +1175,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Управљај изузецима…
     .accesskey = з
+cookies-site-data-group =
+    .label = Колачићи и подаци о сајтовима
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1397,6 +1413,8 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безбедност
+browsing-protection-group =
+    .label = Заштита од обмањујућег садржаја и опасног софтвера
 security-browsing-protection = Заштита од обмањујућег садржаја и опасног софтвера
 security-enable-safe-browsing =
     .label = Блокирај опасан и обмањујућ садржај
