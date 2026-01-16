@@ -191,6 +191,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू
     .accesskey = c
+browsing-group =
+    .label = ब्राउजिंग
 
 ## General Section - Proxy
 
