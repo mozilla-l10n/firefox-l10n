@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = 설정…
     .accesskey = i
 containers-disable-alert-title = 모든 컨테이너 탭을 닫으시겠습니까?
+startup-group =
+    .label = 시작 페이지
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -711,6 +713,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = 새 창과 탭
 home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 때 표시되는 것을 선택하세요.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
