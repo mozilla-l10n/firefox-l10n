@@ -2271,6 +2271,8 @@ website-advertising-private-attribution-description = Pomůžete tím webům poc
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Zabezpečení
+browsing-protection-group =
+    .label = Ochrana před klamavým obsahem a nebezpečným softwarem
 security-browsing-protection = Ochrana před klamavým obsahem a nebezpečným softwarem
 security-enable-safe-browsing =
     .label = Blokovat nebezpečný a klamavý obsah
