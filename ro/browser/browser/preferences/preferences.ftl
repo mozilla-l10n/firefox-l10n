@@ -714,6 +714,8 @@ browsing-cfr-features =
     .label = Funcționalități recomandate în timpul navigării
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Află mai multe
+browsing-group =
+    .label = Navigare
 
 ## General Section - Proxy
 
@@ -723,6 +725,9 @@ network-proxy-connection-learn-more = Află mai multe
 network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
+network-proxy-group =
+    .label = Setări de rețea
+    .description = Configurează modul în care { -brand-short-name } se conectează la internet.
 
 ## Home Section
 
@@ -1618,6 +1623,8 @@ sitedata-cookies-exceptions2 =
     .label = Gestionează excepțiile
     .accesskey = x
     .description = Poți specifica ce site-uri au întotdeauna permisiunea sau interdicția de a folosi cookie-uri și date despre site-uri.
+cookies-site-data-group =
+    .label = Cookie-uri și date ale site-urilor
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2070,6 +2077,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS prin HTTPS
+dns-over-https-group =
+    .label = DNS prin HTTPS
 preferences-doh-description = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 preferences-doh-description2 = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 # Variables:
