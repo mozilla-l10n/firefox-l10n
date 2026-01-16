@@ -742,6 +742,12 @@ home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standardbrowser
+is-default-browser-2 =
+    .message = { -brand-short-name } ist der Standardbrowser. Gute Wahl.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } ist nicht Ihr Standardbrowser
 set-as-my-default-browser-2 =
     .label = Als Standard festlegen
     .accesskey = g
@@ -1460,6 +1466,10 @@ payments-list-item-label = <strong>Zahlungmethoden</strong>
 payments-delete-payment-prompt-title = Diese Zahlungsmethode löschen?
 payments-delete-payment-prompt-confirm-button = Löschen
 payments-delete-payment-prompt-cancel-button = Abbrechen
+payments-delete-payment-button-label =
+    .aria-label = Löschen
+payments-edit-payment-button-label =
+    .aria-label = Bearbeiten
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Keine Zahlungsmethoden hinzugefügt
@@ -2101,6 +2111,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Nur-HTTPS-Modus
     .description = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
