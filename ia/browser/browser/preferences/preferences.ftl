@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Rapidemente accede marcapaginas, schedas de t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e apparentia
+appearance-group =
+    .label = Apparentia de sitos web
+    .description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.
 preferences-web-appearance-header = Apparentia de sitos web
 preferences-web-appearance-description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Modificar le numero de processo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinite)
+performance-group =
+    .label = Rendimento
 
 ## General Section - Browsing
 
@@ -1497,6 +1502,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresses e plus
 payments-group =
     .label = Methodos de pagamento
 
@@ -1559,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vacuar le chronologia…
     .accesskey = V
+history-group =
+    .label = Chronologia
 
 ## Privacy Section - Site Data
 
