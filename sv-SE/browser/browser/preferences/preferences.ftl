@@ -1495,6 +1495,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser och mer
+payments-group =
+    .label = Betalningsmetoder
 
 ## Privacy Section - History
 
@@ -2015,6 +2019,8 @@ website-advertising-private-attribution-description = Detta hjälper webbplatser
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Säkerhet
+browsing-protection-group =
+    .label = Skydd mot vilseledande och skadlig programvara
 security-browsing-protection = Skydd mot vilseledande och skadlig programvara
 security-enable-safe-browsing =
     .label = Blockera farligt och vilseledande innehåll
