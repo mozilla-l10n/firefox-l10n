@@ -538,6 +538,12 @@ history-remember-option-never =
     .label = никогаш нема да ја памти историјата
 history-remember-option-custom =
     .label = ќе ги користи вашите лични поставки за историјата
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ќе ги помни вашата историја на прелистување, преземања, формулари и пребарувања.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ќе ги користи истите поставки како и за приватно прелистување, и нема да ја памти историјата додека прелистувате на интернет.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ќе ги помни вашата историја на прелистување, преземања, формулари и пребарувања.
@@ -568,6 +574,8 @@ sitedata-total-size-calculating = Пресметување на податоци
 sitedata-learn-more = Дознајте повеќе
 sitedata-option-block-unvisited =
     .label = Колачиња од непосетени мрежни места
+cookies-site-data-group =
+    .label = Колачиња и податоци за мрежно место
 
 ## Privacy Section - Cookie Banner Handling
 
