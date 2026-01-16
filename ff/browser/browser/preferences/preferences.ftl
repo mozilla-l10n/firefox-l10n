@@ -883,6 +883,8 @@ collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonk
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Kisal
+browsing-protection-group =
+    .label = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-browsing-protection = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-enable-safe-browsing =
     .label = Falo loowi mbonndi e puuntoori
