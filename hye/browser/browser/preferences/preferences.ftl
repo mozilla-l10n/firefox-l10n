@@ -437,6 +437,9 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -493,6 +496,8 @@ browsing-cfr-features =
     .label = Առարջարկեք յատկութիւններ՝ զննարկելիս
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Իմանալ աւելին
+browsing-group =
+    .label = Դիտարկում
 
 ## General Section - Proxy
 
@@ -502,11 +507,17 @@ network-proxy-connection-learn-more = Իմանալ աւելին
 network-proxy-connection-settings =
     .label = Կարգաւորումներ…
     .accesskey = ա
+network-proxy-group =
+    .label = Ցանցի կարգաւորումներ
+    .description = Կազմաձեւեք, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
 
 ## Home Section
 
 home-new-windows-tabs-header = Նոր Պատուհաններ եւ Ներդիրներ
 home-new-windows-tabs-description2 = Ընտրէք, թե ինչ տեսնել՝ տնէջը, նոր պատուհաններ եւ նոր ներդիրներ բացելիս:
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -538,6 +549,12 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -715,6 +732,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -913,6 +935,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Պատմութիւն
@@ -1012,6 +1037,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1201,6 +1232,9 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1249,6 +1283,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
