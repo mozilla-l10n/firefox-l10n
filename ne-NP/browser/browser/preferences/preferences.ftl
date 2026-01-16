@@ -285,6 +285,8 @@ performance-limit-content-process-blocked-desc = सामग्री प्र
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (पूर्वनिर्धारित)
+performance-group =
+    .label = कार्यसम्पादन
 
 ## General Section - Browsing
 
@@ -305,6 +307,8 @@ browsing-search-on-start-typing =
     .label = टाइप गर्न सुरु गरेपछि पाठ खोजी गर्नुहोस्
     .accesskey = x
 browsing-cfr-recommendations-learn-more = थप जान्नुहोस्
+browsing-group =
+    .label = ब्राउजिङ्ग
 
 ## General Section - Proxy
 
