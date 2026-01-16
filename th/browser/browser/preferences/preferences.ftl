@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = บอกเว็บไซต์ไม่ให้ขายหรือแบ่งปันข้อมูลของฉัน
     .accesskey = บ
+non-technical-privacy-group =
+    .label = ค่าปรับแต่งความเป็นส่วนตัวของเว็บ
 non-technical-privacy-header = ค่าปรับแต่งความเป็นส่วนตัวของเว็บ
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -284,6 +286,9 @@ browser-layout-show-sidebar-desc = เข้าถึงที่คั่นห
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ภาษาและรูปลักษณ์
+appearance-group =
+    .label = รูปลักษณ์ของเว็บไซต์
+    .description = บางเว็บไซต์ปรับโทนสีตามค่าปรับแต่งของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
 preferences-web-appearance-header = รูปลักษณ์ของเว็บไซต์
 preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามค่าปรับแต่งของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
 preferences-web-appearance-choice-auto2 =
@@ -665,6 +670,8 @@ browsing-cfr-features =
     .label = แนะนำคุณลักษณะขณะที่คุณเรียกดู
     .accesskey = น
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
+browsing-group =
+    .label = การเรียกดู
 
 ## General Section - Proxy
 
@@ -1938,10 +1945,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } อาจจะยังคงอัปเกรดการเชื่อมต่อบางอย่าง
 httpsonly-radio-disabled =
     .label = ไม่ต้องเปิดใช้งานโหมด HTTPS-Only
+httpsonly-group =
+    .label = โหมด HTTPS-Only
+    .description = อนุญาตเฉพาะการเชื่อมต่อที่ปลอดภัยกับเว็บไซต์เท่านั้น { -brand-short-name } จะถามก่อนเชื่อมต่อแบบไม่ปลอดภัย
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS จะส่งคำขอชื่อโดเมนของคุณผ่านการเชื่อมต่อที่มีการเข้ารหัส เพื่อเสริมความปลอดภัยให้กับ DNS และทำให้ผู้อื่นดูว่าคุณกำลังจะเข้าถึงเว็บไซต์ใดได้ยากขึ้น
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS จะส่งคำขอชื่อโดเมนของคุณผ่านการเชื่อมต่อที่มีการเข้ารหัส เพื่อเสริมความปลอดภัยให้กับ DNS และทำให้ผู้อื่นดูว่าคุณกำลังจะเข้าถึงเว็บไซต์ใดได้ยากขึ้น
 # Variables:
