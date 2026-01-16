@@ -352,6 +352,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = मांडावळी…
     .accesskey = ड
+history-group =
+    .label = इतिहास
 
 ## Privacy Section - Site Data
 
