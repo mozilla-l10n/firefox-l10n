@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Αποκτήστε γρήγορη πρόσβ�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Γλώσσα και εμφάνιση
+appearance-group =
+    .label = Εμφάνιση ιστοτόπου
+    .description = Ορισμένοι ιστότοποι προσαρμόζουν το σύνολο χρωμάτων τους με βάση τις προτιμήσεις σας. Επιλέξτε ποιο σύνολο χρωμάτων θέλετε να χρησιμοποιήσετε για αυτούς τους ιστοτόπους.
 preferences-web-appearance-header = Εμφάνιση ιστοτόπου
 preferences-web-appearance-description = Ορισμένοι ιστότοποι προσαρμόζουν το σύνολο χρωμάτων τους με βάση τις προτιμήσεις σας. Επιλέξτε ποιο σύνολο χρωμάτων θέλετε να χρησιμοποιήσετε για αυτούς τους ιστοτόπους.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Η τροποποίηση το�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (προεπιλογή)
+performance-group =
+    .label = Επιδόσεις
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Πρόταση λειτουργιών κατά την περιήγησή σας
     .accesskey = λ
 browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
+browsing-group =
+    .label = Περιήγηση
 
 ## General Section - Proxy
 
@@ -1483,6 +1490,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Διευθύνσεις και άλλα
 payments-group =
     .label = Μέθοδοι πληρωμής
 
@@ -1516,6 +1525,9 @@ history-remember-option-never =
     .label = Δεν θα διατηρεί ποτέ το ιστορικό
 history-remember-option-custom =
     .label = Θα κάνει χρήση προσαρμοσμένων ρυθμίσεων ιστορικού
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = Το { -brand-short-name } θα χρησιμοποιεί προσαρμοσμένες ρυθμίσεις για το ιστορικό περιήγησης, λήψεων, φορμών και αναζητήσεων.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Το { -brand-short-name } θα αποθηκεύει το ιστορικό περιήγησης, λήψεων, φορμών και αναζητήσεων.
@@ -1545,6 +1557,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Απαλοιφή ιστορικού…
     .accesskey = σ
+history-group =
+    .label = Ιστορικό
 
 ## Privacy Section - Site Data
 
