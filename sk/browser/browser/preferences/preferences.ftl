@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Nastavenia…
     .accesskey = i
 containers-disable-alert-title = Zavrieť všetky kontajnerové karty?
+startup-group =
+    .label = Spustenie
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -726,6 +728,9 @@ network-proxy-connection-learn-more = Ďalšie informácie
 network-proxy-connection-settings =
     .label = Nastavenia…
     .accesskey = N
+network-proxy-group =
+    .label = Nastavenia siete
+    .description = Konfigurovať, ako sa aplikácia { -brand-short-name } pripája k internetu.
 
 ## Home Section
 
@@ -1615,6 +1620,8 @@ sitedata-cookies-exceptions2 =
     .label = Spravovať výnimky
     .accesskey = r
     .description = Môžete určiť, ktoré webové stránky môžu vždy alebo nesmú nikdy používať súbory cookie a údaje stránok.
+cookies-site-data-group =
+    .label = Cookies a údaje stránok
 
 ## Privacy Section - Cookie Banner Handling
 
