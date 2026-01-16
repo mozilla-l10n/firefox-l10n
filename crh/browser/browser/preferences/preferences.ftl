@@ -673,6 +673,12 @@ history-remember-option-never =
     .label = Asla hatırlamaycaq
 history-remember-option-custom =
     .label = Şahsiyleştirilgen ayarlarğa köre hatırlaycaq
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
@@ -878,6 +884,8 @@ collection-health-report-disabled = Bu yapılandırma için veri raporlama devre
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Emniyet
+browsing-protection-group =
+    .label = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla
