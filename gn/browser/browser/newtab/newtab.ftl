@@ -489,6 +489,11 @@ newtab-weather-opt-in-yes =
     .label = Héẽ
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Táva Nueva York
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Ehecha ára rehegua { $provider }-pe
+    .aria-description = { $provider } ∙ Oykekóva
 
 ## Topic Labels
 
