@@ -324,6 +324,9 @@ home-new-windows-tabs-header = नयाँ संझ्याल तथा ट�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = पूर्वनिर्धारित बनाउनुहोस
+    .accesskey = D
 
 ## Custom Homepage subpage
 
