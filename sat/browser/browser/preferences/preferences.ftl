@@ -482,6 +482,8 @@ performance-limit-content-process-blocked-desc = ᱡᱚᱱᱚᱥ ᱯᱨᱚᱥᱮ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ᱢᱩᱞ)
+performance-group =
+    .label = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
 
 ## General Section - Browsing
 
@@ -522,6 +524,8 @@ browsing-cfr-features =
     .label = ᱵᱽᱨᱟᱣᱡᱽ ᱥᱟᱶ ᱛᱮ ᱯᱷᱤᱪᱚᱨ ᱠᱚ ᱵᱟᱛᱟᱣᱟᱢᱟᱭ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+browsing-group =
+    .label = ᱯᱟᱱᱛᱮ ᱮᱫ ᱟ
 
 ## General Section - Proxy
 
@@ -531,6 +535,9 @@ network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 network-proxy-connection-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = e
+network-proxy-group =
+    .label = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱟᱡᱟᱣᱠᱚ
+    .description = ᱥᱟᱡᱟᱣ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ { -brand-short-name } ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣᱜᱼᱟ ᱾
 
 ## Home Section
 
@@ -1031,6 +1038,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ…
     .accesskey = s
+history-group =
+    .label = ᱱᱟᱜᱟᱢ
 
 ## Privacy Section - Site Data
 
@@ -1315,6 +1324,8 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ᱡᱟᱹᱯᱛᱤ
+browsing-protection-group =
+    .label = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
 security-browsing-protection = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
 security-enable-safe-browsing =
     .label = ᱤᱥᱠᱟᱨ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱡᱚᱱᱚᱥ ᱵᱟᱹᱰ ᱢᱮ
@@ -1361,6 +1372,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
+dns-over-https-group =
+    .label = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
 preferences-doh-description = HTTPS ᱨᱮ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱥᱤᱥᱴᱮᱢ (DNS) ᱟᱢᱟᱜ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱨ ᱢᱤᱫ ᱠᱨᱤᱯᱴᱮᱰ ᱡᱩᱲᱟᱹᱣ ᱛᱟᱞᱟᱛᱮ ᱯᱟᱨᱥᱟᱞᱟᱭ, ᱢᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱤᱹᱮᱱᱹᱮᱥ ᱵᱮᱱᱟᱣᱜ ᱠᱟᱱᱟ ᱟᱨ ᱟᱢ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ ᱚᱱᱟ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱟᱸᱴᱚᱜ ᱢᱟᱸ ᱾
 # Variables:
 #   $status (string) - The status of the DoH connection
