@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Bruk som standard
+    .accesskey = S
 
 ## Custom Homepage subpage
 
