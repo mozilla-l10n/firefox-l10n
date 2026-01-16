@@ -546,6 +546,9 @@ home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu a
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Cleachd mar am brabhsair bunaiteach
+    .accesskey = b
 
 ## Custom Homepage subpage
 
