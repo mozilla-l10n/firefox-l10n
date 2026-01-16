@@ -1617,6 +1617,8 @@ sitedata-cookies-exceptions2 =
     .label = İstisnaları yönet
     .accesskey = s
     .description = Hangi sitelerin çerezleri ve site verilerini her zaman kullanabileceğini veya hiçbir zaman kullanamayacağını belirleyebilirsiniz.
+cookies-site-data-group =
+    .label = Çerezler ve site verileri
 
 ## Privacy Section - Cookie Banner Handling
 
