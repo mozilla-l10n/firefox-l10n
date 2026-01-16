@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websydłam zdźělić, zo nimaja moje daty předać abo dźělić
     .accesskey = d
+non-technical-privacy-group =
+    .label = Nastajenja priwatnosće websydła
 non-technical-privacy-header = Nastajenja priwatnosće websydła
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
 containers-disable-alert-title = Wšě kontejnerowe rajtarki začinić?
+startup-group =
+    .label = Startować
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -589,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Prašeć so, hač so maja dataje wočinić abo składować
     .accesskey = P
+drm-group =
+    .label = Wobsah Digital Right Management (DRM)
 drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
     .label = Wobsah wodźeny přez DRM wothrać
@@ -724,11 +730,17 @@ network-proxy-connection-learn-more = Dalše informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
+network-proxy-group =
+    .label = Syćowe nastajenja
+    .description = Konfigurować, kak { -brand-short-name } z internetom zwjazuje.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe wokna a rajtarki
 home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž swoju startowu stronu, nowe wokna a nowe rajtarki wočinjeće.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1491,6 +1503,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresy a wjace
+payments-group =
+    .label = Płaćenske metody
 
 ## Privacy Section - History
 
@@ -1617,6 +1633,8 @@ sitedata-cookies-exceptions2 =
     .label = Wuwzaća rjadować
     .accesskey = u
     .description = Móžeće podać, kotre websydła přeco smědźa placki a sydłowe daty wužiwać a kotre nic.
+cookies-site-data-group =
+    .label = Placki a sydłowe daty
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2009,6 +2027,8 @@ website-advertising-private-attribution-description = To websydłam pomha rozumi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
+browsing-protection-group =
+    .label = Škit před wobšudnym wobsahom a strašnej softwaru
 security-browsing-protection = Škit před wobšudnym wobsahom a strašnej softwaru
 security-enable-safe-browsing =
     .label = Strašny a wobšudny wobsah blokować
@@ -2065,10 +2085,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } snano někotre zwiski aktualizuje
 httpsonly-radio-disabled =
     .label = Modus Jenož-HTTPS njezmóžnić
+httpsonly-group =
+    .label = Modus Jenož-HTTPS
+    .description = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 
 ## DoH Section
 
 preferences-doh-header = DNS přez HTTPS
+dns-over-https-group =
+    .label = DNS přez HTTPS
 preferences-doh-description = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, wutworja wěsty DNS a poćežuje druhim wosobam widźeć, kotre websydła wopytujeće.
 preferences-doh-description2 = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, staja  wěsty DNS k dispoziciji a poćežuje druhim wosobam widźeć, kotre websydła wopytujeće.
 # Variables:
