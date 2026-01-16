@@ -98,6 +98,8 @@ browser-containers-settings =
     .label = அமைவுகள்…
     .accesskey = i
 containers-disable-alert-title = அனைத்து கலன் கீற்றுகளையும் மூடவா?
+startup-group =
+    .label = துவக்கம்
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
