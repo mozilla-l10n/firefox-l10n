@@ -913,6 +913,12 @@ history-remember-option-never =
     .label = Nivver mind yer historie
 history-remember-option-custom =
     .label = Yaise custom settins for historie
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
@@ -1188,6 +1194,8 @@ collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siccarness
+browsing-protection-group =
+    .label = Begowkin Content and Uncannie Saftware Bieldin
 security-browsing-protection = Begowkin Content and Uncannie Saftware Bieldin
 security-enable-safe-browsing =
     .label = Block uncannie and begowkin content
