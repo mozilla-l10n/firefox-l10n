@@ -672,6 +672,9 @@ home-new-windows-tabs-description2 = მიუთითეთ, რისი ხ�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ნაგულისხმევად მითითება
+    .accesskey = ნ
 
 ## Custom Homepage subpage
 
