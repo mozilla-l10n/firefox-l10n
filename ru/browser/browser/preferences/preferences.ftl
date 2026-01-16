@@ -297,6 +297,9 @@ browser-layout-show-sidebar-desc = Быстрый доступ к закладк
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Язык и внешний вид
+appearance-group =
+    .label = Внешний вид сайтов
+    .description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
 preferences-web-appearance-header = Внешний вид сайтов
 preferences-web-appearance-description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
 preferences-web-appearance-choice-auto2 =
@@ -586,6 +589,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Спрашивать, открывать или сохранять файлы
     .accesskey = ш
+drm-group =
+    .label = Содержимое, использующее средства защиты авторских прав (DRM)
 drm-content-header = Содержимое, использующее средства защиты авторских прав (DRM)
 play-drm-content =
     .label = Воспроизводить защищённое DRM содержимое
@@ -1619,6 +1624,8 @@ sitedata-cookies-exceptions2 =
     .label = Управление исключениями
     .accesskey = Ч
     .description = Вы можете указать, каким веб-сайтам всегда разрешено или никогда не разрешено использовать куки и данные сайта.
+cookies-site-data-group =
+    .label = Куки и данные сайтов
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2067,6 +2074,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } сможет всё ещё переключать некоторые соединения
 httpsonly-radio-disabled =
     .label = Не включать режим «Только HTTPS»
+httpsonly-group =
+    .label = Режим «Только HTTPS»
+    .description = Разрешает только защищённые соединения с веб-сайтами. { -brand-short-name } будет спрашивать перед незащищённым соединением.
 
 ## DoH Section
 
