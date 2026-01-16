@@ -585,6 +585,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spørg om filer skal åbnes eller gemmes
     .accesskey = S
+drm-group =
+    .label = Indhold beskyttet af digital rettigheds-styring (DRM)
 drm-content-header = Indhold beskyttet af digital rettigheds-styring (DRM)
 play-drm-content =
     .label = Afspil DRM-kontrolleret indhold
@@ -2000,6 +2002,8 @@ website-advertising-private-attribution-description = Det hjælper websider med 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerhed
+browsing-protection-group =
+    .label = Beskyttelse mod vildledende indhold og farlig software
 security-browsing-protection = Beskyttelse mod vildledende indhold og farlig software
 security-enable-safe-browsing =
     .label = Bloker farlige og vildledende websteder
