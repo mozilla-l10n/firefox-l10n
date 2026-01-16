@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Thuaju sajteve të mos shesin apo japin të dhëna të miat
     .accesskey = u
+non-technical-privacy-group =
+    .label = Parapëlqime Privatësie Sajti
 non-technical-privacy-header = Parapëlqime Privatësie Sajti
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Rregullime…
     .accesskey = R
 containers-disable-alert-title = Të mbyllen Krejt Skedat e Kontejnerve?
+startup-group =
+    .label = Nisje
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -583,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pyet në të hapen apo të ruhen kartelat
     .accesskey = P
+drm-group =
+    .label = Lëndë nën Digital Rights Management (DRM)
 drm-content-header = Lëndë nën Digital Rights Management (DRM)
 play-drm-content =
     .label = Luaj lëndë të kontrolluar nga DRM
@@ -661,6 +667,8 @@ performance-limit-content-process-blocked-desc = Ndryshimi i numrit të procesev
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (parazgjedhje)
+performance-group =
+    .label = Punim
 
 ## General Section - Browsing
 
@@ -718,11 +726,17 @@ network-proxy-connection-learn-more = Mësoni më tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
+network-proxy-group =
+    .label = Rregullime Rrjeti
+    .description = Formësoni si lidhet në internet { -brand-short-name }-i.
 
 ## Home Section
 
 home-new-windows-tabs-header = Dritare dhe Skeda të Reja
 home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1485,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Metoda pagesash
 
 ## Privacy Section - History
 
@@ -1597,6 +1613,8 @@ sitedata-cookies-exceptions2 =
     .label = Administroni përjashtime
     .accesskey = x
     .description = Mund të tregoni cilët sajte janë përherë, ose kurrë, të lejuar të përdorin “cookies” dhe të dhëna sajtesh.
+cookies-site-data-group =
+    .label = “Cookies” dhe të Dhëna Sajtesh
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1986,6 +2004,8 @@ website-advertising-private-attribution-description = Kjo i ndihmon sajtet të k
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siguri
+browsing-protection-group =
+    .label = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-enable-safe-browsing =
     .label = Blloko lëndë të rrezikshme dhe të rrejshme
@@ -2042,10 +2062,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }-i mundet prapëseprapë të përmirësojë disa lidhje
 httpsonly-radio-disabled =
     .label = Mos e aktivizo Mënyrën Vetëm-HTTPS
+httpsonly-group =
+    .label = Mënyra Vetëm-HTTPS
+    .description = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 
 ## DoH Section
 
 preferences-doh-header = DNS përmes HTTPS-je
+dns-over-https-group =
+    .label = DNS përmes HTTPS-je
 preferences-doh-description = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke krijuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 preferences-doh-description2 = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke furnizuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 # Variables:
