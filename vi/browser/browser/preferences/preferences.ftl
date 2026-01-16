@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Yêu cầu trang web không bán hoặc chia sẻ dữ liệu của tôi
     .accesskey = s
+non-technical-privacy-group =
+    .label = Tùy chọn riêng tư trang web
 non-technical-privacy-header = Tùy chọn riêng tư trang web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Cài đặt…
     .accesskey = i
 containers-disable-alert-title = Đóng tất cả các ngăn chứa thẻ?
+startup-group =
+    .label = Khởi động
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -282,6 +286,9 @@ browser-layout-show-sidebar-desc = Nhanh chóng truy cập dấu trang, thẻ t�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ngôn ngữ và chủ đề
+appearance-group =
+    .label = Diện mạo trang web
+    .description = Một số trang web điều chỉnh bảng màu của họ dựa trên tùy chỉnh của bạn. Chọn bảng màu mà bạn muốn sử dụng cho các trang web đó.
 preferences-web-appearance-header = Diện mạo trang web
 preferences-web-appearance-description = Một số trang web điều chỉnh bảng màu của họ dựa trên tùy chỉnh của bạn. Chọn bảng màu mà bạn muốn sử dụng cho các trang web đó.
 preferences-web-appearance-choice-auto2 =
@@ -571,6 +578,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Hỏi xem có nên mở hay lưu tập tin hay không
     .accesskey = A
+drm-group =
+    .label = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 drm-content-header = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 play-drm-content =
     .label = Phát nội dung DRM được kiểm soát
@@ -649,6 +658,8 @@ performance-limit-content-process-blocked-desc = Việc chỉnh sửa số tiế
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (mặc định)
+performance-group =
+    .label = Hiệu suất
 
 ## General Section - Browsing
 
@@ -708,6 +719,9 @@ network-proxy-connection-learn-more = Tìm hiểu thêm
 network-proxy-connection-settings =
     .label = Cài đặt…
     .accesskey = e
+network-proxy-group =
+    .label = Cài đặt mạng
+    .description = Cấu hình phương thức { -brand-short-name } kết nối internet.
 
 ## Home Section
 
@@ -1472,6 +1486,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Địa chỉ và nhiều hơn nữa
+payments-group =
+    .label = Phương thức thanh toán
 
 ## Privacy Section - History
 
@@ -1598,6 +1616,8 @@ sitedata-cookies-exceptions2 =
     .label = Quản lý ngoại lệ
     .accesskey = x
     .description = Bạn có thể chỉ định trang web nào luôn được phép hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web.
+cookies-site-data-group =
+    .label = Cookie và dữ liệu trang
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1990,6 +2010,8 @@ website-advertising-private-attribution-description = Điều này giúp các tr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bảo mật
+browsing-protection-group =
+    .label = Chống nội dung lừa đảo và phần mềm nguy hiểm
 security-browsing-protection = Chống nội dung lừa đảo và phần mềm nguy hiểm
 security-enable-safe-browsing =
     .label = Chặn nội dung lừa đảo và không an toàn
@@ -2046,10 +2068,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } vẫn có thể nâng cấp một số kết nối
 httpsonly-radio-disabled =
     .label = Không kích hoạt chế độ chỉ HTTPS
+httpsonly-group =
+    .label = Chế độ chỉ HTTPS
+    .description = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 
 ## DoH Section
 
 preferences-doh-header = DNS qua HTTPS
+dns-over-https-group =
+    .label = DNS qua HTTPS
 preferences-doh-description = Hệ thống tên miền (DNS) qua HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, tạo một DNS an toàn và khiến người khác khó nhìn thấy trang web bạn sắp truy cập hơn.
 preferences-doh-description2 = Hệ thống phân giải tên miền (DNS) trên HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, cung cấp DNS an toàn và khiến người khác khó biết bạn sắp truy cập trang web nào.
 # Variables:
