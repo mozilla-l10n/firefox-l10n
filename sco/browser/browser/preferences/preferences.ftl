@@ -464,6 +464,9 @@ home-new-windows-tabs-description2 = Decide whit ye see when ye open yer hamepag
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Mak Staunart
+    .accesskey = S
 
 ## Custom Homepage subpage
 
