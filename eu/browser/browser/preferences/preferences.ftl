@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Esan webguneei nire datuak ez saltzeko edo partekatzeko
     .accesskey = s
+non-technical-privacy-group =
+    .label = Webgunearen pribatutasun-hobespenak
 non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -296,6 +298,9 @@ browser-layout-show-sidebar-desc = Izan laster-marketa, telefonoko fitxeta, AA t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Hizkuntza eta itxura
+appearance-group =
+    .label = Webgunearen itxura
+    .description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
 preferences-web-appearance-header = Webgunearen itxura
 preferences-web-appearance-description = Zenbait webgunek beraiek kolore-eskema zure hobespenetara moldatzen dute. Aukeratu gune horietarako zein kolore-eskema erabili nahi duzun.
 preferences-web-appearance-choice-auto2 =
@@ -585,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Galdetu fitxategiak irekitzea edo gordetzea
     .accesskey = a
+drm-group =
+    .label = DRM edukia
 drm-content-header = DRM edukia
 play-drm-content =
     .label = Erreproduzitu DRM bidez kontrolatutako edukia
@@ -663,6 +670,8 @@ performance-limit-content-process-blocked-desc = Edukien prozesu kopurua multipr
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (lehenetsia)
+performance-group =
+    .label = Errendimendua
 
 ## General Section - Browsing
 
@@ -711,6 +720,8 @@ browsing-cfr-features =
     .label = Gomendatu eginbideak nabigatu ahala
     .accesskey = G
 browsing-cfr-recommendations-learn-more = Argibide gehiago
+browsing-group =
+    .label = Nabigatzea
 
 ## General Section - Proxy
 
@@ -1485,6 +1496,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Ordainketa-metodoak
 
 ## Privacy Section - History
 
@@ -2002,6 +2015,8 @@ website-advertising-private-attribution-description = Honek laguntzen die webgun
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurtasuna
+browsing-protection-group =
+    .label = Eduki iruzurgilearen eta software arriskutsuaren babesa
 security-browsing-protection = Eduki iruzurgilearen eta software arriskutsuaren babesa
 security-enable-safe-browsing =
     .label = Blokeatu eduki arriskutsu eta iruzurtia
@@ -2058,10 +2073,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }(e)k zenbait konexio HTTPSra bihur litzake halere
 httpsonly-radio-disabled =
     .label = Ez gaitu HTTPS-Only modua
+httpsonly-group =
+    .label = HTTPS-Only modua
+    .description = Soilik konexio seguruak baimentzen ditu webguneetara. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
 
 ## DoH Section
 
 preferences-doh-header = HTTPS gaineko DNSa
+dns-over-https-group =
+    .label = HTTPS gaineko DNSa
 preferences-doh-description = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNSa seguru bilakatuz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
 preferences-doh-description2 = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNS segurua hornituz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
 # Variables:
