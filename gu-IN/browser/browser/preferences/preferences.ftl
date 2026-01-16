@@ -251,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = ડિજિટલ અધિકાર સંચાલન (DRM) કન્ટેન્ટ
 drm-content-header = ડિજિટલ અધિકાર સંચાલન (DRM) કન્ટેન્ટ
 play-drm-content =
     .label = DRM-નિયંત્રિત સામગ્રીને ચાલુ કરો
