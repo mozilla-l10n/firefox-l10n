@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tu
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Vëre Parazgjedhje
+    .accesskey = V
 
 ## Custom Homepage subpage
 
