@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Paramètres…
     .accesskey = s
 containers-disable-alert-title = Fermer tous les onglets conteneurs ?
+startup-group =
+    .label = Démarrage
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
