@@ -538,6 +538,9 @@ home-new-windows-tabs-description2 = Pasirinkite, ką norite matyti atvėrę sav
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Paskirti numatytąja
+    .accesskey = n
 
 ## Custom Homepage subpage
 
