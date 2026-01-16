@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Beritahu situs untuk tidak menjual atau membagikan data saya
     .accesskey = s
+non-technical-privacy-group =
+    .label = Pengaturan Privasi Situs
 non-technical-privacy-header = Pengaturan Privasi Situs
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -215,6 +217,8 @@ browser-containers-settings =
     .label = Setelan…
     .accesskey = E
 containers-disable-alert-title = Tutup Semua Kontainer Tab?
+startup-group =
+    .label = Memulai
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -248,6 +252,9 @@ browser-layout-show-sidebar-desc = Akses markah, tab dari ponsel Anda, chatbot A
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Bahasa dan Tampilan
+appearance-group =
+    .label = Tampilan situs web
+    .description = Beberapa situs web menyesuaikan skema warnanya berdasarkan preferensi Anda. Pilih skema warna mana yang ingin Anda gunakan untuk situs tersebut.
 preferences-web-appearance-header = Tampilan situs web
 preferences-web-appearance-description = Beberapa situs web menyesuaikan skema warnanya berdasarkan preferensi Anda. Pilih skema warna mana yang ingin Anda gunakan untuk situs tersebut.
 preferences-web-appearance-choice-auto2 =
@@ -468,6 +475,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Tanyakan apakah akan membuka atau menyimpan berkas
     .accesskey = a
+drm-group =
+    .label = Konten Digital Rights Management (DRM)
 drm-content-header = Konten Digital Rights Management (DRM)
 play-drm-content =
     .label = Putar konten DRM-terkontrol
@@ -517,6 +526,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -536,6 +548,8 @@ performance-limit-content-process-blocked-desc = Memodifikasi jumlah proses kont
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (baku)
+performance-group =
+    .label = Kinerja
 
 ## General Section - Browsing
 
@@ -581,6 +595,8 @@ browsing-cfr-features =
     .label = Sarankan fitur seiring penjelajahan Anda
     .accesskey = S
 browsing-cfr-recommendations-learn-more = Pelajari lebih lanjut
+browsing-group =
+    .label = Jelajah Web
 
 ## General Section - Proxy
 
@@ -590,11 +606,20 @@ network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
     .label = Setelan…
     .accesskey = S
+network-proxy-group =
+    .label = Setelan Jaringan
+    .description = Atur bagaimana { -brand-short-name } tersambung ke internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Jendela dan Tab Baru
 home-new-windows-tabs-description2 = Pilih yang akan dilihat pertama kali ketika membuka beranda, jendela baru, dan tab baru.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Jadikan Baku
+    .accesskey = U
 
 ## Custom Homepage subpage
 
@@ -627,6 +652,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -836,6 +867,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1132,6 +1168,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Kelola alamat dan lainnya
     .accesskey = m
+addresses-group =
+    .label = Alamat dan lainnya
+payments-group =
+    .label = Metode pembayaran
 
 ## Privacy Section - History
 
@@ -1163,6 +1203,12 @@ history-remember-option-never =
     .label = tidak akan mengingat data riwayat
 history-remember-option-custom =
     .label = akan menggunakan pengaturan khusus untuk data riwayat
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
@@ -1189,6 +1235,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Hapus riwayat…
     .accesskey = r
+history-group =
+    .label = Riwayat
 
 ## Privacy Section - Site Data
 
@@ -1239,6 +1287,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kelola Pengecualian…
     .accesskey = K
+cookies-site-data-group =
+    .label = Kuki dan Data Situs
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1564,6 +1614,8 @@ website-advertising-private-attribution-description = Ini membantu situs memaham
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keamanan
+browsing-protection-group =
+    .label = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-browsing-protection = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-enable-safe-browsing =
     .label = Blokir konten berbahaya dan tidak dapat dipercaya
@@ -1617,10 +1669,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } mungkin masih meningkatkan beberapa koneksi
 httpsonly-radio-disabled =
     .label = Jangan aktifkan Mode Hanya HTTPS
+httpsonly-group =
+    .label = Mode Hanya HTTPS
+    .description = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 
 ## DoH Section
 
 preferences-doh-header = DNS melalui HTTPS
+dns-over-https-group =
+    .label = DNS melalui HTTPS
 preferences-doh-description = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menciptakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
 preferences-doh-description2 = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menyediakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
 # Variables:

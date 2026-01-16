@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Spletnim mestom sporočaj, naj ne prodajajo ali delijo mojih podatkov
     .accesskey = n
+non-technical-privacy-group =
+    .label = Nastavitve zasebnosti spletnih mest
 non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -248,6 +250,8 @@ browser-containers-settings =
     .label = Nastavitve …
     .accesskey = N
 containers-disable-alert-title = Zapri vse vsebniške zavihke?
+startup-group =
+    .label = Zagon
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -299,6 +303,9 @@ browser-layout-show-sidebar-desc = Hitro dostopajte do zaznamkov in zavihkov na 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik in videz
+appearance-group =
+    .label = Videz spletnih strani
+    .description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
 preferences-web-appearance-header = Videz spletnih strani
 preferences-web-appearance-description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
 preferences-web-appearance-choice-auto2 =
@@ -588,6 +595,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Vprašaj, ali želite datoteko odpreti ali shraniti
     .accesskey = V
+drm-group =
+    .label = Vsebina upravljanja digitalnih pravic (DRM)
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
     .label = Predvajaj vsebino, zaščiteno z DRM
@@ -666,6 +675,8 @@ performance-limit-content-process-blocked-desc = Število procesov vsebine je mo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (privzeto)
+performance-group =
+    .label = Učinkovitost
 
 ## General Section - Browsing
 
@@ -714,6 +725,8 @@ browsing-cfr-features =
     .label = Med brskanjem priporočaj možnosti
     .accesskey = m
 browsing-cfr-recommendations-learn-more = Več o tem
+browsing-group =
+    .label = Brskanje
 
 ## General Section - Proxy
 
@@ -723,11 +736,20 @@ network-proxy-connection-learn-more = Več o tem
 network-proxy-connection-settings =
     .label = Nastavitve …
     .accesskey = n
+network-proxy-group =
+    .label = Nastavitve omrežja
+    .description = Nastavite, kako se { -brand-short-name } poveže z internetom.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nova okna in zavihki
 home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete domačo stran, nova okna in nove zavihke.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Nastavi za privzeto{ " " }
+    .accesskey = N
 
 ## Custom Homepage subpage
 
@@ -1456,6 +1478,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Plačilna sredstva
 
 ## Privacy Section - History
 
@@ -1487,6 +1511,15 @@ history-remember-option-never =
     .label = ne shranjuje zgodovine
 history-remember-option-custom =
     .label = uporablja posebne nastavitve za zgodovino
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } bo za zgodovino brskanja, prenosov, obrazcev in iskanj uporabljal nastavitve po meri.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
@@ -1516,6 +1549,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Počisti zgodovino …
     .accesskey = č
+history-group =
+    .label = Zgodovina
 
 ## Privacy Section - Site Data
 
@@ -1582,6 +1617,8 @@ sitedata-cookies-exceptions2 =
     .label = Upravljanje izjem
     .accesskey = z
     .description = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani.
+cookies-site-data-group =
+    .label = Piškotki in podatki strani
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1962,6 +1999,8 @@ website-advertising-private-attribution-description = To spletnim mestom pomaga 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Varnost
+browsing-protection-group =
+    .label = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 security-enable-safe-browsing =
     .label = Zavrni nevarno in zavajajočo vsebino
@@ -2018,10 +2057,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } bo nekatere povezave vseeno nadgradil
 httpsonly-radio-disabled =
     .label = Ne omogoči načina "samo HTTPS"
+httpsonly-group =
+    .label = Način "samo HTTPS"
+    .description = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 
 ## DoH Section
 
 preferences-doh-header = DNS prek HTTPS
+dns-over-https-group =
+    .label = DNS prek HTTPS
 preferences-doh-description = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 preferences-doh-description2 = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 # Variables:

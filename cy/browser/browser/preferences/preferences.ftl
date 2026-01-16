@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dweud wrth wefannau i beidio â gwerthu neu rannu fy nata
     .accesskey = g
+non-technical-privacy-group =
+    .label = Dewisiadau Preifatrwydd Gwefan
 non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
 containers-disable-alert-title = Cau Tabiau Pob Cynhwysydd?
+startup-group =
+    .label = Cychwyn
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -306,6 +310,9 @@ browser-layout-show-sidebar-desc = Cael mynediad cyflym at nodau tudalen, tabiau
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Iaith a Gwedd
+appearance-group =
+    .label = Gwedd gwefan
+    .description = Mae rhai gwefannau yn addasu eu cynllun lliw yn seiliedig ar eich dewisiadau. Dewiswch pa gynllun lliw yr hoffech ei ddefnyddio ar gyfer y gwefannau hynny.
 preferences-web-appearance-header = Gwedd gwefan
 preferences-web-appearance-description = Mae rhai gwefannau yn addasu eu cynllun lliw yn seiliedig ar eich dewisiadau. Dewiswch pa gynllun lliw yr hoffech ei ddefnyddio ar gyfer y gwefannau hynny.
 preferences-web-appearance-choice-auto2 =
@@ -595,6 +602,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Gofyn a ydych am agor neu gadw ffeiliau
     .accesskey = G
+drm-group =
+    .label = Cynnwys Rheoli Hawliau Digidol (DRM)
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
     .label = Chwarae cynnwys wedi ei reoli gan DRM
@@ -673,6 +682,8 @@ performance-limit-content-process-blocked-desc = Dim ond yn y fersiwn amlbroses 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (rhagosodiad)
+performance-group =
+    .label = Perfformiad
 
 ## General Section - Browsing
 
@@ -721,6 +732,8 @@ browsing-cfr-features =
     .label = Argymell nodweddion wrth bori
     .accesskey = A
 browsing-cfr-recommendations-learn-more = Darllen rhagor
+browsing-group =
+    .label = Pori
 
 ## General Section - Proxy
 
@@ -730,11 +743,20 @@ network-proxy-connection-learn-more = Darllen rhagor
 network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
+network-proxy-group =
+    .label = Gosodiadau Rhwydwaith
+    .description = Ffurfweddwch sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 
 ## Home Section
 
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
 home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestri newydd a thabiau newydd.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Gwneud yn Ragosodedig
+    .accesskey = R
 
 ## Custom Homepage subpage
 
@@ -1499,6 +1521,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Cyfeiriadau a mwy
+payments-group =
+    .label = Dulliau talu
 
 ## Privacy Section - History
 
@@ -1530,6 +1556,15 @@ history-remember-option-never =
     .label = Peidio â chofio hanes
 history-remember-option-custom =
     .label = Defnyddio gosodiadau cyfaddas ar gyfer hanes
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = Bydd { -brand-short-name } yn defnyddio gosodiadau cyfaddas ar gyfer eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
@@ -1559,6 +1594,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Clirio Hanes…
     .accesskey = H
+history-group =
+    .label = Hanes
 
 ## Privacy Section - Site Data
 
@@ -1625,6 +1662,8 @@ sitedata-cookies-exceptions2 =
     .label = Rheoli eithriadau
     .accesskey = e
     .description = Gallwch bennu pa wefannau sy'n cael neu beidio cael defnyddio cwcis neu ddata gwefannau.
+cookies-site-data-group =
+    .label = Cwcis a Data Gwefan
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2017,6 +2056,8 @@ website-advertising-private-attribution-description = Mae hyn yn helpu gwefannau
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelwch
+browsing-protection-group =
+    .label = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-browsing-protection = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
@@ -2073,10 +2114,15 @@ httpsonly-radio-disabled3 =
     .description = Gall { -brand-short-name } uwchraddio rhai cysylltiadau
 httpsonly-radio-disabled =
     .label = Peidio â galluogi Modd HTTPS-yn-Unig
+httpsonly-group =
+    .label = Modd HTTPS-yn-Unig
+    .description = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 
 ## DoH Section
 
 preferences-doh-header = DNS dros HTTPS
+dns-over-https-group =
+    .label = DNS dros HTTPS
 preferences-doh-description = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 preferences-doh-description2 = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 # Variables:

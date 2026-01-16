@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = 告訴網站不要銷售或分享我的資料
     .accesskey = s
+non-technical-privacy-group =
+    .label = 網站隱私權偏好設定
 non-technical-privacy-header = 網站隱私權偏好設定
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = 設定…
     .accesskey = i
 containers-disable-alert-title = 要關閉所有容器分頁嗎？
+startup-group =
+    .label = 啟動
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -282,6 +286,9 @@ browser-layout-show-sidebar-desc = 不用離開主畫面就能快速開啟書籤
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 語言與外觀
+appearance-group =
+    .label = 網站外觀
+    .description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
 preferences-web-appearance-header = 網站外觀
 preferences-web-appearance-description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
 preferences-web-appearance-choice-auto2 =
@@ -571,6 +578,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = 詢問要直接開啟還是儲存檔案
     .accesskey = A
+drm-group =
+    .label = 數位權利管理（DRM）內容
 drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
     .label = 播放 DRM 內容
@@ -649,6 +658,8 @@ performance-limit-content-process-blocked-desc = 僅能在多程序的 { -brand-
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num }（預設）
+performance-group =
+    .label = 效能
 
 ## General Section - Browsing
 
@@ -697,6 +708,8 @@ browsing-cfr-features =
     .label = 隨您上網推薦新功能
     .accesskey = f
 browsing-cfr-recommendations-learn-more = 了解更多
+browsing-group =
+    .label = 瀏覽
 
 ## General Section - Proxy
 
@@ -706,11 +719,20 @@ network-proxy-connection-learn-more = 了解更多
 network-proxy-connection-settings =
     .label = 設定…
     .accesskey = e
+network-proxy-group =
+    .label = 網路設定
+    .description = 設定 { -brand-short-name } 要如何連線至網際網路。
 
 ## Home Section
 
 home-new-windows-tabs-header = 新視窗與分頁
 home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁時要看到的內容。
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = 設為預設瀏覽器
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1493,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 地址與更多資訊
+payments-group =
+    .label = 付款方式
 
 ## Privacy Section - History
 
@@ -1502,6 +1528,15 @@ history-remember-option-never =
     .label = 不保留歷史記錄
 history-remember-option-custom =
     .label = 使用自訂的設定
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } 將記住您的瀏覽、下載、表單填寫與搜尋紀錄。
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } 不會儲存任何瀏覽記錄，如同在隱私瀏覽狀態下執行。
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } 會針對您的瀏覽、下載、表單填寫與搜尋紀錄使用您自訂的選項。
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } 將記住您的瀏覽、下載、表單填寫與搜尋紀錄。
@@ -1531,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 清除瀏覽記錄…
     .accesskey = s
+history-group =
+    .label = 瀏覽紀錄
 
 ## Privacy Section - Site Data
 
@@ -1597,6 +1634,8 @@ sitedata-cookies-exceptions2 =
     .label = 管理例外網站
     .accesskey = x
     .description = 您可以指定哪些網站總是可以，或永遠不可儲存 Cookie 與網站資料。
+cookies-site-data-group =
+    .label = Cookie 與網站資料
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1989,6 +2028,8 @@ website-advertising-private-attribution-description = 此功能可在不收集�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 安全性
+browsing-protection-group =
+    .label = 詐騙內容與危險網站保護
 security-browsing-protection = 詐騙內容與危險網站保護
 security-enable-safe-browsing =
     .label = 封鎖危險及詐騙內容
@@ -2045,10 +2086,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } 可能還是會將某些連線升級為 HTTPS 連線
 httpsonly-radio-disabled =
     .label = 不要開啟純 HTTPS 模式
+httpsonly-group =
+    .label = 純 HTTPS 模式
+    .description = 僅允許對網站使用安全連線。{ -brand-short-name } 會在進行不安全連線前先詢問。
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
 preferences-doh-description2 = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
 # Variables:

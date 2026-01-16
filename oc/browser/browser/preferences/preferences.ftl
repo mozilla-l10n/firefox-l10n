@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Indicar als sites web de vendre pas nimai partejar mas donadas
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferéncias de confidencialitat dels sites web
 non-technical-privacy-header = Preferéncias de confidencialitat dels sites web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -193,6 +195,8 @@ browser-containers-settings =
     .label = Paramètres…
     .accesskey = t
 containers-disable-alert-title = Tampar totes los onglets de contenedor ?
+startup-group =
+    .label = Aviada
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -228,6 +232,9 @@ settings-tabs-show-image-in-preview =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lenga e aparéncia
+appearance-group =
+    .label = Aparéncia dels sites web
+    .description = D’unes sites web adaptan lor jòc de colors segon vòstras preferéncias. Causissètz lo jòc de colors que volètz emplegar per aqueles sites.
 preferences-web-appearance-header = Aparéncia dels sites web
 preferences-web-appearance-description = D’unes sites web adaptan lor jòc de colors segon vòstras preferéncias. Causissètz lo jòc de colors que volètz emplegar per aqueles sites.
 preferences-web-appearance-choice-auto2 =
@@ -428,6 +435,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demandar se cal dobrir o salvar los fichièrs
     .accesskey = D
+drm-group =
+    .label = Contengut amb Digital Rights Management (DRM)
 drm-content-header = Contengut amb Digital Rights Management (DRM)
 play-drm-content =
     .label = Legir lo contengut contrarotlat per DRM
@@ -477,6 +486,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -496,6 +508,8 @@ performance-limit-content-process-blocked-desc = Modificar lo nombre de procedim
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (defaut)
+performance-group =
+    .label = Performanças
 
 ## General Section - Browsing
 
@@ -536,6 +550,8 @@ browsing-cfr-features =
     .label = Recomandar de foncionalitats pendent la navegacion
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Ne saber mai
+browsing-group =
+    .label = Navegacion
 
 ## General Section - Proxy
 
@@ -545,11 +561,20 @@ network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = e
+network-proxy-group =
+    .label = Paramètres ret
+    .description = Configurar lo biais de { -brand-short-name } de se connectar a Internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novèlas fenèstras e novèls onglets
 home-new-windows-tabs-description2 = Causissètz çò que volètz veire en dobrir la pagina d’acuèlh, de fenèstras novèlas o d’onglets novèls.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Definir per defaut
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -582,6 +607,12 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -778,6 +809,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1070,6 +1106,12 @@ history-remember-option-never =
     .label = Conservar pas jamai l'istoric
 history-remember-option-custom =
     .label = Utilizar los paramètres personalizats per l'istoric
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } enregistrarà vòstres istorics, telecargaments e recèrcas.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navegaretz sus internet.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } enregistrarà vòstres istorics, telecargaments e recèrcas.
@@ -1096,6 +1138,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Escafar l’istoric…
     .accesskey = s
+history-group =
+    .label = Istoric
 
 ## Privacy Section - Site Data
 
@@ -1141,6 +1185,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gerir las excepcions…
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies e donadas de sites
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1404,6 +1450,8 @@ website-advertising-private-attribution-description = Aquò ajuda los sites a co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
+browsing-protection-group =
+    .label = Proteccion contra los contenguts enganaires e los logicials perilhoses
 security-browsing-protection = Proteccion contra los contenguts enganaires e los logicials perilhoses
 security-enable-safe-browsing =
     .label = Blocar lo contengut perilhós e enganaire
@@ -1450,6 +1498,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sus HTTPS
+dns-over-https-group =
+    .label = DNS sus HTTPS
 preferences-doh-description = Lo DNS (Domain Name Sistèma) sus HTTPS envia vòstras requèstas per un nom de domeni via una connexion chifrada, en creant un DNS segur e en fasent venir mai complicat per los autres de veire quines sites sètz a mand de visitar.
 # Variables:
 #   $status (string) - The status of the DoH connection

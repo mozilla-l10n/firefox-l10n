@@ -51,6 +51,8 @@ tabs-group-header = टॅब्जा
 show-tabs-in-taskbar =
     .label = विंडोस कार्यपट्टींत टॅब पूर्वदेखाव दाखोवचो
     .accesskey = र
+startup-group =
+    .label = सुरवेक
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -178,6 +180,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = पानामदी नेविगेट करपाक कर्सर कळ वापरात
     .accesskey = c
+browsing-group =
+    .label = ब्रावजिंग
 
 ## General Section - Proxy
 
@@ -186,6 +190,9 @@ network-proxy-connection-settings =
     .accesskey = e
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -204,6 +211,9 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क वापरात…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -248,6 +258,9 @@ search-default-engine =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -257,9 +270,15 @@ search-default-engine =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } तपासूंक ना.
 sync-signedin-login-failure = परत जुळपाक मात्शे सायन ईन  { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -319,6 +338,9 @@ history-remember-option-never =
     .label = इतिहास केन्नाच उगडास धरचो न्हय
 history-remember-option-custom =
     .label = इतिहासा खातीर कस्टम मांडावळी वापरच्यो
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
@@ -335,6 +357,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = मांडावळी…
     .accesskey = ड
+history-group =
+    .label = इतिहास
 
 ## Privacy Section - Site Data
 
@@ -345,7 +369,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = बुकमार्कस्

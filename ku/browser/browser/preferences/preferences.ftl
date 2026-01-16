@@ -50,6 +50,8 @@ tabs-group-header = Hilpekîn
 show-tabs-in-taskbar =
     .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
     .accesskey = k
+startup-group =
+    .label = Destpêk
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -147,6 +149,9 @@ update-application-use-service =
     .label = Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne
     .accesskey = p
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -165,6 +170,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne
     .accesskey = J
+browsing-group =
+    .label = Digere
 
 ## General Section - Proxy
 
@@ -173,6 +180,9 @@ network-proxy-connection-settings =
     .accesskey = e
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -191,6 +201,9 @@ use-current-pages =
 choose-bookmark =
     .label = Bijareyê bi kar bîne...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -222,6 +235,9 @@ search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -231,6 +247,12 @@ search-keyword-warning-bookmark = Te peyveke kilît ku ji hêla bijareyê ve tê
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -288,6 +310,9 @@ history-remember-option-never =
     .label = Mêjûyê qet bi bîr neyne
 history-remember-option-custom =
     .label = Ji bo mêjûyê mîhengên takekesî bi kar bîne
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
@@ -314,7 +339,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

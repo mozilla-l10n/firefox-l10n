@@ -98,6 +98,8 @@ browser-containers-settings =
     .label = Īstatiejumi...
     .accesskey = i
 containers-disable-alert-title = Aiztaisēt vysas cilņu skreines?
+startup-group =
+    .label = Palaišona
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -244,6 +246,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Digital Rights Management (DRM) saturs
 drm-content-header = Digital Rights Management (DRM) saturs
 play-drm-content =
     .label = Atskaņōt DRM kontrolietu saturu
@@ -271,6 +275,9 @@ update-application-use-service =
     .label = Instaleit atjaunynuojumus fonā
     .accesskey = f
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspieja
@@ -290,6 +297,8 @@ performance-limit-content-process-blocked-desc = Modificeit satura procesu skait
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (nūkluseitais)
+performance-group =
+    .label = Veiktspieja
 
 ## General Section - Browsing
 
@@ -309,6 +318,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Mekleit raksteitū tekstu, koleidz es suoku raksteit
     .accesskey = M
+browsing-group =
+    .label = Puorlūkuošona
 
 ## General Section - Proxy
 
@@ -322,6 +333,12 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Jauni lūgi i cilnes
 home-new-windows-tabs-description2 = Izavielej, kū rōdēt atdorut jaunu lopu, lūgu ci cilni.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Padareit par nūkluseitū
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -352,6 +369,12 @@ use-current-pages =
 choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -450,6 +473,9 @@ containers-add-button =
 containers-remove-button =
     .label = Nūjimt
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -484,6 +510,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } nav apstyprynuots.
 sync-signedin-login-failure = Lyudzu pīsaslēdz, kab atjaunōtu savīnojumu { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -495,6 +526,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -581,6 +618,12 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Viesture
@@ -611,6 +654,12 @@ history-remember-option-never =
     .label = Nikod naatguoduos viesturi
 history-remember-option-custom =
     .label = Izmantuots pīlāguotus viestures īstatiejumus
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } pīminēs tuvu porlyukōšonys, lejupīlōžu, formu un mekliešonys viesturi.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } pīminēs tuvu porlyukōšonys, lejupīlōžu, formu un mekliešonys viesturi.
@@ -637,6 +686,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Nūteireit viesturi…
     .accesskey = s
+history-group =
+    .label = Viesture
 
 ## Privacy Section - Site Data
 
@@ -663,6 +714,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
+cookies-site-data-group =
+    .label = Cookies un lopys dati
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -682,6 +741,19 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Vaira
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -740,12 +812,17 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Drūseiba
+browsing-protection-group =
+    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
@@ -771,6 +848,12 @@ certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
 certs-devices-enable-fips = Īslēgt FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

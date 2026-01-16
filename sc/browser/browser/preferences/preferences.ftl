@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Nara a is sitos web de non bèndere nen cumpartzire is datos mios
     .accesskey = N
+non-technical-privacy-group =
+    .label = Preferèntzias de riservadesa de su situ
 non-technical-privacy-header = Preferèntzias de riservadesa de su situ
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -217,6 +219,8 @@ browser-containers-settings =
     .label = Cunfiguratzione…
     .accesskey = u
 containers-disable-alert-title = Boles serrare totu is ischedas cuntenidoras?
+startup-group =
+    .label = Aviu
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -262,6 +266,9 @@ browser-layout-show-sidebar-desc = Atzede a sa lestra a sinnalibros, ischedas da
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbas e aspetu
+appearance-group =
+    .label = Aspetu de is sitos web
+    .description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
 preferences-web-appearance-header = Aspetu de is sitos web
 preferences-web-appearance-description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
 preferences-web-appearance-choice-auto2 =
@@ -478,6 +485,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pregunta si boles abèrrere o sarvare is archìvios
     .accesskey = P
+drm-group =
+    .label = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content =
     .label = Reprodue cuntenutu protetu dae DRM
@@ -527,6 +536,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -546,6 +558,8 @@ performance-limit-content-process-blocked-desc = Su nùmeru de protzessos de cun
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinidu)
+performance-group =
+    .label = Rendimentu
 
 ## General Section - Browsing
 
@@ -591,6 +605,8 @@ browsing-cfr-features =
     .label = Cussìgia funtzionalidades durante sa navigatzione
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Àteras informatziones
+browsing-group =
+    .label = Navigatzione
 
 ## General Section - Proxy
 
@@ -600,11 +616,20 @@ network-proxy-connection-learn-more = Àteras informatziones
 network-proxy-connection-settings =
     .label = Cunfiguratzione…
     .accesskey = c
+network-proxy-group =
+    .label = Cunfiguratzione de rete
+    .description = Cunfigura comente { -brand-short-name } si connetet a internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Ventanas e ischedas noas
 home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgina printzipale, ventanas noas e ischedas noas.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Cunfigura comente predefinidu
+    .accesskey = p
 
 ## Custom Homepage subpage
 
@@ -638,6 +663,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -860,6 +891,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1156,6 +1192,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gesti is indiritzos e àteru
     .accesskey = s
+addresses-group =
+    .label = Indiritzos e àteru
+payments-group =
+    .label = Mètodos de pagamentu
 
 ## Privacy Section - History
 
@@ -1187,6 +1227,12 @@ history-remember-option-never =
     .label = no at a regordare mai sa cronologia
 history-remember-option-custom =
     .label = Imprea sa cunfiguratzione personalizada pro sa cronologia
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
@@ -1213,6 +1259,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Isbòida sa cronologia…
     .accesskey = s
+history-group =
+    .label = Cronologia
 
 ## Privacy Section - Site Data
 
@@ -1275,6 +1323,8 @@ sitedata-cookies-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = e
     .description = Podes ispetzificare cales sitos tenent permissu o nono pro impreare testimòngios e datos de is sitos.
+cookies-site-data-group =
+    .label = Testimòngios e datos de is sitos
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1605,6 +1655,8 @@ website-advertising-private-attribution-description = Custu agiudat a is sitos a
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguresa
+browsing-protection-group =
+    .label = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-browsing-protection = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-enable-safe-browsing =
     .label = Bloca is cuntenutos perigulosos e ingannosos
@@ -1660,10 +1712,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } diat pòdere ancora atualizare unas cantas connessiones
 httpsonly-radio-disabled =
     .label = No atives sa modalidade HTTPS ebbia
+httpsonly-group =
+    .label = Modalidade HTTPS ebbia
+    .description = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 
 ## DoH Section
 
 preferences-doh-header = DNS  pro mèdiu de  HTTPS
+dns-over-https-group =
+    .label = DNS  pro mèdiu de  HTTPS
 preferences-doh-description = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, creende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 preferences-doh-description2 = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, frunende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 # Variables:

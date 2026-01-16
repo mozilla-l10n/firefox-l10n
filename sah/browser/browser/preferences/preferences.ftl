@@ -50,6 +50,8 @@ tabs-group-header = Кыбытыктар
 show-tabs-in-taskbar =
     .label = Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол
     .accesskey = т
+startup-group =
+    .label = Саҥаттан
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -150,6 +152,9 @@ update-application-use-service =
     .label = Саҥардыылары туруорарга фон сулууспаны туһан
     .accesskey = ф
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -168,6 +173,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Курсор клавишаларын сирэйдэри көрөргө куруук туттарга
     .accesskey = к
+browsing-group =
+    .label = Көрүү
 
 ## General Section - Proxy
 
@@ -176,6 +183,9 @@ network-proxy-connection-settings =
     .accesskey = р
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -194,6 +204,9 @@ use-current-pages =
 choose-bookmark =
     .label = Бэлиэни тутун...
     .accesskey = т
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -222,6 +235,9 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -231,6 +247,12 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -288,6 +310,9 @@ history-remember-option-never =
     .label = устуоруйатын долоҕойоугар хатыа суоҕа
 history-remember-option-custom =
     .label = устуоруйаны харайыы туруорууларын туһаныа
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
@@ -314,7 +339,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Thuaju sajteve të mos shesin apo japin të dhëna të miat
     .accesskey = u
+non-technical-privacy-group =
+    .label = Parapëlqime Privatësie Sajti
 non-technical-privacy-header = Parapëlqime Privatësie Sajti
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Rregullime…
     .accesskey = R
 containers-disable-alert-title = Të mbyllen Krejt Skedat e Kontejnerve?
+startup-group =
+    .label = Nisje
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Hyni shpejt e shpejt te faqerojtësit, skedat
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Gjuhë dhe Dukje
+appearance-group =
+    .label = Dukje sajti
+    .description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
 preferences-web-appearance-header = Dukje sajti
 preferences-web-appearance-description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pyet në të hapen apo të ruhen kartelat
     .accesskey = P
+drm-group =
+    .label = Lëndë nën Digital Rights Management (DRM)
 drm-content-header = Lëndë nën Digital Rights Management (DRM)
 play-drm-content =
     .label = Luaj lëndë të kontrolluar nga DRM
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Ndryshimi i numrit të procesev
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (parazgjedhje)
+performance-group =
+    .label = Punim
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Rekomandim veçorish, teksa shfletoni
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
+browsing-group =
+    .label = Shfletim
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Mësoni më tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
+network-proxy-group =
+    .label = Rregullime Rrjeti
+    .description = Formësoni si lidhet në internet { -brand-short-name }-i.
 
 ## Home Section
 
 home-new-windows-tabs-header = Dritare dhe Skeda të Reja
 home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Vëre Parazgjedhje
+    .accesskey = V
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1493,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresa, etj
+payments-group =
+    .label = Metoda pagesash
 
 ## Privacy Section - History
 
@@ -1502,6 +1528,15 @@ history-remember-option-never =
     .label = S’do ta mbajë mend historikun
 history-remember-option-custom =
     .label = Do të përdorë rregullime vetjake për historikun
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat dhe s’do të mbajë mend ndonjë historik, teksa shfletoni në Web.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }-i do të përdorë rregullime të përshtatur për historik shfletimi, shkarkimesh, formularësh dhe kërkimesh tuajat.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
@@ -1531,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Spastroni Historikun…
     .accesskey = S
+history-group =
+    .label = Historik
 
 ## Privacy Section - Site Data
 
@@ -1597,6 +1634,8 @@ sitedata-cookies-exceptions2 =
     .label = Administroni përjashtime
     .accesskey = x
     .description = Mund të tregoni cilët sajte janë përherë, ose kurrë, të lejuar të përdorin “cookies” dhe të dhëna sajtesh.
+cookies-site-data-group =
+    .label = “Cookies” dhe të Dhëna Sajtesh
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1986,6 +2025,8 @@ website-advertising-private-attribution-description = Kjo i ndihmon sajtet të k
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siguri
+browsing-protection-group =
+    .label = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-enable-safe-browsing =
     .label = Blloko lëndë të rrezikshme dhe të rrejshme
@@ -2042,10 +2083,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }-i mundet prapëseprapë të përmirësojë disa lidhje
 httpsonly-radio-disabled =
     .label = Mos e aktivizo Mënyrën Vetëm-HTTPS
+httpsonly-group =
+    .label = Mënyra Vetëm-HTTPS
+    .description = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 
 ## DoH Section
 
 preferences-doh-header = DNS përmes HTTPS-je
+dns-over-https-group =
+    .label = DNS përmes HTTPS-je
 preferences-doh-description = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke krijuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 preferences-doh-description2 = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke furnizuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 # Variables:

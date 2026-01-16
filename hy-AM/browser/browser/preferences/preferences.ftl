@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Կայքերին հաղորդել, որ չտարածեն և չվաճառեն իմ տվյալները
     .accesskey = չ
+non-technical-privacy-group =
+    .label = Կայքի գաղտնիության նախընտրանքներ
 non-technical-privacy-header = Կայքի գաղտնիության նախընտրանքներ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -203,6 +205,8 @@ browser-containers-settings =
     .label = Կարգավորումներ...
     .accesskey = ր
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+startup-group =
+    .label = Մեկնարկ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -248,6 +252,9 @@ browser-layout-show-sidebar-desc = Արագորեն մատչեք Ձեր էջան
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Լեզուն և տեսքը
+appearance-group =
+    .label = Կայքի արտաքին տեսքը
+    .description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
 preferences-web-appearance-header = Կայքի արտաքին տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
 web-appearance-group =
@@ -448,6 +455,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Հարցնի՝ բացել, թե պահել ֆայլերը
     .accesskey = A
+drm-group =
+    .label = Թվային իրավունքների կառավարման (DRM) բովանդակություն
 drm-content-header = Թվային իրավունքների կառավարման (DRM) բովանդակություն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկավարվող բովանդակությունը
@@ -486,6 +495,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
@@ -505,6 +517,8 @@ performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (սկզբնադիր)
+performance-group =
+    .label = Արտադրողականություն
 
 ## General Section - Browsing
 
@@ -547,6 +561,8 @@ browsing-cfr-features =
     .label = Դիտարկելիս առաջարկել յուրահատկություններ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
+browsing-group =
+    .label = Դիտարկում
 
 ## General Section - Proxy
 
@@ -556,11 +572,20 @@ network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
     .label = Կարգավորումներ…
     .accesskey = ա
+network-proxy-group =
+    .label = Ցանցի կարգավորումներ
+    .description = Կարգավորեք, թե ինչպես { -brand-short-name }-ը միանա համացանցին:
 
 ## Home Section
 
 home-new-windows-tabs-header = Նոր պատուհաններ և ներդիրներ
 home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ տուն էջը, նոր պատուհաններ և նոր ներդիրներ բացելիս:
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Դարձնել սկզբնադիր
+    .accesskey = Ս
 
 ## Custom Homepage subpage
 
@@ -844,6 +869,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1144,6 +1174,12 @@ history-remember-option-never =
     .label = երբեք չի հիշի պատմությունը
 history-remember-option-custom =
     .label = կօգտվի պատմության համար հարմարեցված կարգավորումներից
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
@@ -1170,6 +1206,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Մաքրել պատմությունը…
     .accesskey = s
+history-group =
+    .label = Պատմություն
 
 ## Privacy Section - Site Data
 
@@ -1225,6 +1263,11 @@ sitedata-cookies-exceptions2 =
     .label = Կառավարել բացառությունները...
     .accesskey = x
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
+cookies-site-data-group =
+    .label = Cookie-ներ և կայքի տվյալներ
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1508,6 +1551,8 @@ website-advertising-private-attribution-description = Սա օգնում է կա�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Անվտանգություն
+browsing-protection-group =
+    .label = Խաբուսիկ բովանդակություն և պաշտպանություն վտանգավոր ծրագրերից
 security-browsing-protection = Խաբուսիկ բովանդակություն և պաշտպանություն վտանգավոր ծրագրերից
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը
@@ -1556,10 +1601,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }-ը դեռ կարող է արդիացնել որոշ կապակցումներ
 httpsonly-radio-disabled =
     .label = Չմիացնել Միայն HTTPS կերպը
+httpsonly-group =
+    .label = Միայն HTTPS կերպ
+    .description = Թույլատրում է միայն անվտանգ միացումները վեբ կայքերին։ Չպաշտպանված միացումից առաջ՝ { -brand-short-name }-ը կհարցնի։
 
 ## DoH Section
 
 preferences-doh-header = DNS-ը HTTPS-ի միջով
+dns-over-https-group =
+    .label = DNS-ը HTTPS-ի միջով
 preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 preferences-doh-description2 = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 # Variables:

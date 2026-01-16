@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = སྒྲིག་འགོད…
     .accesskey = i
 containers-disable-alert-title = Close All Container Tabs?
+startup-group =
+    .label = འགོ་བསྐྱར་འཛུགས
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -202,8 +204,15 @@ applications-action-column =
     .label = Action
     .accesskey = A
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
 ##
 
+drm-group =
+    .label = Digital Rights Management (DRM) Content
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
     .label = Play DRM-controlled content
@@ -231,6 +240,9 @@ update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ནུས་རྩལ
@@ -250,6 +262,8 @@ performance-limit-content-process-blocked-desc = Modifying the number of content
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = ནུས་རྩལ
 
 ## General Section - Browsing
 
@@ -273,6 +287,8 @@ browsing-cfr-recommendations =
     .label = Recommend extensions as you browse
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Learn more
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -282,11 +298,20 @@ network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
+network-proxy-group =
+    .label = Network Settings
+    .description = Configure how { -brand-short-name } connects to the internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = New Windows and Tabs
 home-new-windows-tabs-description2 = Choose what you see when you open your homepage, new windows, and new tabs.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = སྔོན་སྒྲིག་བཟོ་བ
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -317,6 +342,21 @@ use-current-pages =
 choose-bookmark =
     .label = ཡིག་རྟགས་བེད་སྤྱོད…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -377,6 +417,9 @@ containers-add-button =
 containers-remove-button =
     .label = Remove
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -411,6 +454,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -422,6 +470,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Sign in
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -471,6 +525,10 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
 ## Privacy Section
 
 privacy-header = Browser Privacy
@@ -499,6 +557,12 @@ forms-saved-logins =
 forms-master-pw-change =
     .label = གསང་གྲངས་ཨ་མ་བརྗེ་བ…
     .accesskey = M
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -530,6 +594,12 @@ history-remember-option-never =
     .label = ཟིན་ཐོ་ནམ་ཡང་ངེས་མི་དགོས།
 history-remember-option-custom =
     .label = ཟིན་ཐོ་ལ་རང་མོས་ཀྱི་སྒྲིག་འགོད་བེད་སྤྱོད།
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
@@ -556,6 +626,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Clear History…
     .accesskey = s
+history-group =
+    .label = ཟིན་ཐོ
 
 ## Privacy Section - Site Data
 
@@ -589,6 +661,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Manage Data…
     .accesskey = M
+cookies-site-data-group =
+    .label = Cookies and Site Data
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -706,12 +786,17 @@ addon-recommendations-link = Learn more
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Security
+browsing-protection-group =
+    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
@@ -736,6 +821,12 @@ certs-view =
 certs-devices =
     .label = Security Devices…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

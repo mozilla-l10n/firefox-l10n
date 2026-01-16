@@ -49,6 +49,8 @@ tabs-group-header = Amathebhu
 show-tabs-in-taskbar =
     .label = Bonisa ukubukwa ngaphambili kwamathebhu kubha yemisebenzi ye-Windows
     .accesskey = b
+startup-group =
+    .label = Qala
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -149,6 +151,9 @@ update-application-use-service =
     .label = Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva
     .accesskey = y
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -167,6 +172,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Makuhlalwe kusetshenziswa izinkinobho zesikhombisi ekuzuleni kumakhasi
     .accesskey = z
+browsing-group =
+    .label = Ukudlulisa amehlo
 
 ## General Section - Proxy
 
@@ -175,6 +182,9 @@ network-proxy-connection-settings =
     .accesskey = z
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -193,6 +203,9 @@ use-current-pages =
 choose-bookmark =
     .label = Sebenzisa ukuphawula nokubekisa…
     .accesskey = u
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -222,6 +235,9 @@ search-keyword-warning-bookmark = Ukhathe igama elingukhiye elisebenzisa uphawu 
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -231,6 +247,12 @@ search-keyword-warning-bookmark = Ukhathe igama elingukhiye elisebenzisa uphawu 
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -288,6 +310,9 @@ history-remember-option-never =
     .label = Kungalokothwa kukhunjulwe umlando
 history-remember-option-custom =
     .label = Sebenzisa izimiso zokuzenzela uzisebenzisele umlando
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
@@ -314,7 +339,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

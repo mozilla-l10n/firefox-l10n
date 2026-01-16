@@ -45,6 +45,8 @@ tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
     .accesskey = k
+startup-group =
+    .label = Эхлэл
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -142,6 +144,9 @@ applications-use-other-label =
 ##
 
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -160,11 +165,16 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Хуудсанд зорчих үед үргэлж хулганы заагчийг хэрэглэ
     .accesskey = у
+browsing-group =
+    .label = Вэбд зорчих
 
 ## General Section - Proxy
 
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -180,6 +190,9 @@ use-current-pages =
            *[other] Одоогийн хуудаснуудыг хэрэглэ
         }
     .accesskey = д
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -208,6 +221,9 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -217,6 +233,12 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -267,6 +289,9 @@ history-remember-option-never =
     .label = Зорчсон түүхийг хадгалахгүй
 history-remember-option-custom =
     .label = Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
@@ -284,7 +309,7 @@ history-private-browsing-permanent =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

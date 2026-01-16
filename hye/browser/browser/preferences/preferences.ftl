@@ -164,6 +164,8 @@ browser-containers-settings =
     .label = Կարգաւորումներ...
     .accesskey = ր
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+startup-group =
+    .label = Մեկնարկ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -196,6 +198,9 @@ containers-remove-cancel-button = Չհեռացնել այս պարունակը
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Լեզուն եւ տեսքը
+appearance-group =
+    .label = Վեբ կայքի տեսքը
+    .description = Որոշ կայքեր հարմարեցնում են իրենց գունաւորումը՝ Ձեր նախասիրութիւններին համապատասխան: Ընտրէք գունաւորումը, որը ցանկանում էք աւգտագործել այդ կայքերի համար:
 preferences-web-appearance-header = Վեբ կայքի տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գունաւորումը՝ Ձեր նախասիրութիւններին համապատասխան: Ընտրէք գունաւորումը, որը ցանկանում էք աւգտագործել այդ կայքերի համար:
 preferences-web-appearance-choice-light2 =
@@ -388,6 +393,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Հարցնել բացել կամ պահպանել նիշերը
     .accesskey = Հ
+drm-group =
+    .label = Թուային իրաւունքների կառավարման (DRM) բովանդակութիւն
 drm-content-header = Թուային իրաւունքների կառավարման (DRM) բովանդակութիւն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկաւարուող բովանդակութիւնը
@@ -437,6 +444,9 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -456,6 +466,8 @@ performance-limit-content-process-blocked-desc = Հնարաւոր է փոփոխ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (սկզբնադիր)
+performance-group =
+    .label = Կատարողականութիւն
 
 ## General Section - Browsing
 
@@ -493,6 +505,8 @@ browsing-cfr-features =
     .label = Առարջարկեք յատկութիւններ՝ զննարկելիս
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Իմանալ աւելին
+browsing-group =
+    .label = Դիտարկում
 
 ## General Section - Proxy
 
@@ -502,11 +516,20 @@ network-proxy-connection-learn-more = Իմանալ աւելին
 network-proxy-connection-settings =
     .label = Կարգաւորումներ…
     .accesskey = ա
+network-proxy-group =
+    .label = Ցանցի կարգաւորումներ
+    .description = Կազմաձեւեք, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
 
 ## Home Section
 
 home-new-windows-tabs-header = Նոր Պատուհաններ եւ Ներդիրներ
 home-new-windows-tabs-description2 = Ընտրէք, թե ինչ տեսնել՝ տնէջը, նոր պատուհաններ եւ նոր ներդիրներ բացելիս:
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Դարձնել սկզբնադիր
+    .accesskey = ս
 
 ## Custom Homepage subpage
 
@@ -538,6 +561,12 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -715,6 +744,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -913,6 +947,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Պատմութիւն
@@ -943,6 +980,12 @@ history-remember-option-never =
     .label = Երբեք չյիշել այցելութիւնները
 history-remember-option-custom =
     .label = Պատմութեան համար աւգտագործել յարմարեցուած կարգաւորումները
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }֊ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ չի յիշի համացանցում Ձեր դիտարկումների պատմութիւնը:
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
@@ -969,6 +1012,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Մաքրել պատմութիւնը…
     .accesskey = s
+history-group =
+    .label = Պատմութիւն
 
 ## Privacy Section - Site Data
 
@@ -1012,6 +1057,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+cookies-site-data-group =
+    .label = Cookie-ներ եւ կայքի տուեալներ
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1201,12 +1254,17 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Անվտանգութիւն
+browsing-protection-group =
+    .label = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
 security-browsing-protection = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգաւոր եւ խաբուսիկ բովանդակութիւնը
@@ -1249,6 +1307,9 @@ httpsonly-radio-enabled-pbm =
     .label = Միացնել «Միայն HTTPS» աշխատակերպը գաղտնի դիտարկման ժամանակ
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

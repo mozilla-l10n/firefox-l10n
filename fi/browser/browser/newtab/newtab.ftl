@@ -490,6 +490,11 @@ newtab-weather-opt-in-yes =
     .label = Kyllä
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Helsinki
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Katso ennuste palvelussa { $provider }
+    .aria-description = { $provider } ∙ Sponsoroitu
 
 ## Topic Labels
 

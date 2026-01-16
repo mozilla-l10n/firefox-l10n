@@ -493,6 +493,11 @@ newtab-weather-opt-in-yes =
     .label = 예
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 뉴욕
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = { $provider }의 일기예보 보기
+    .aria-description = { $provider } ∙ 스폰서
 
 ## Topic Labels
 

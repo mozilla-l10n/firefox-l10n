@@ -29,6 +29,20 @@ feature-disable-requires-restart = ଏହି ବିଶେଷତାକୁ ନି�
 should-restart-title = { -brand-short-name } କୁ ପୁନଃଚାଳନ କରନ୍ତୁ
 cancel-no-restart-button = ବାତିଲ କରନ୍ତୁ
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = ଆରମ୍ଭ
@@ -45,6 +59,15 @@ show-tabs-in-taskbar =
     .label = ୱିଣ୍ଡୋ କାର୍ଯ୍ୟପଟିରେ ଟ୍ୟାବ ପ୍ରାକଦର୍ଶନକୁ ଦର୍ଶାନ୍ତୁ
     .accesskey = k
 browser-containers-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
+startup-group =
+    .label = ଆରମ୍ଭ
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -145,6 +168,9 @@ update-application-use-service =
     .label = ଅପଡେଟସବୁ ଇନଷ୍ଟଲ କରିବା ପାଇଁ ଏକ ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ସର୍ଭିସ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = କାର୍ଯ୍ୟଦକ୍ଷତା
@@ -152,6 +178,8 @@ performance-settings-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 performance-allow-hw-accel =
     .label = ଉପଲବ୍ଧ ହେଲେ ହାର୍ଡୱେର ତ୍ୱରଣକୁ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = r
+performance-group =
+    .label = କାର୍ଯ୍ୟଦକ୍ଷତା
 
 ## General Section - Browsing
 
@@ -168,6 +196,8 @@ browsing-use-cursor-navigation =
 browsing-picture-in-picture-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 browsing-media-control-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 browsing-cfr-recommendations-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
+browsing-group =
+    .label = ବ୍ରାଉଜ କରୁଅଛି
 
 ## General Section - Proxy
 
@@ -175,6 +205,12 @@ network-proxy-connection-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 network-proxy-connection-settings =
     .label = ବିନ୍ୟାସ…
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -193,6 +229,18 @@ choose-bookmark =
     .label = ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ…
     .accesskey = B
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
 ##
 
 home-prefs-recent-activity-header =
@@ -210,12 +258,39 @@ search-keyword-warning-title = ନକଲି ସୂଚକ ଶବ୍ଦ
 search-keyword-warning-engine = ଆପଣ ଗୋଟିଏ ସୂଚକ ଶବ୍ଦ ବାଛିଛନ୍ତି ଯାହାକି ବର୍ତ୍ତମାନ "{ $name }" ଦ୍ୱାରା ବ୍ୟବହୃତ ହେଉଛି.ଦୟାକରି ଅନ୍ୟ ଏକ ଚୟନ କରନ୍ତୁ.
 search-keyword-warning-bookmark = ଆପଣ ଗୋଟିଏ ସୂଚକ ଶବ୍ଦ ବାଛିଛନ୍ତି ଯାହାକି ବର୍ତ୍ତମାନ ଗୋଟିଏ ଚିହ୍ନିତ ସ୍ଥାନ ଦ୍ୱାରା ବ୍ୟବହୃତ ହେଉଛି.ଦୟାକରି ଅନ୍ୟ ଏକ ଚୟନ କରନ୍ତୁ.
 
+## Containers Section
+
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
 ## Variables
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ଯାଞ୍ଚ କରାଯାଇ ନାହିଁ।
 sync-signedin-login-failure = ପୁନଃ ସଂଯୋଗ କରିବା ପାଇଁ ସାଇନ ଇନ କରନ୍ତୁ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -226,10 +301,19 @@ sync-engine-history =
     .label = ପୁରୁଣା ତଥ୍ୟ
     .accesskey = r
 
+## The device name controls.
+
+
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
 sync-verification-sent-title = ଯାଞ୍ଚ ବିବରଣୀ ପଠା ସରିଛି
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Section - Passwords
 
@@ -247,6 +331,12 @@ forms-master-pw-change =
 forms-master-pw-fips-desc = ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ ବିଫଳ ହେଲା
 forms-windows-sso-learn-more-link = ଅଧିକ ଜାଣନ୍ତୁ
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-remember-option-all =
@@ -255,6 +345,9 @@ history-remember-option-never =
     .label = ପୁରୁଣା ତଥ୍ୟକୁ କଦାପି ମନେ ରଖନ୍ତୁ ନାହିଁ
 history-remember-option-custom =
     .label = ପୁରୁଣା ତଥ୍ୟ ପାଇଁ ଇଚ୍ଛାମୁତାବକ ସଂରଚନାକୁ ବ୍ୟବହାର କରନ୍ତୁ
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପରି ସମାନ ସଂରଚନାକୁ ବ୍ୟବହାର କରିବ, ଏବଂ ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖିବ ନାହିଁ।
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପରି ସମାନ ସଂରଚନାକୁ ବ୍ୟବହାର କରିବ, ଏବଂ ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖିବ ନାହିଁ।
@@ -276,9 +369,22 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Search Section
+
+
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -286,6 +392,9 @@ content-blocking-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -302,6 +411,15 @@ permissions-addon-exceptions =
 collection-health-report-telemetry-disabled-link = ଅଧିକ ଜାଣନ୍ତୁ
 collection-health-report-link = ଅଧିକ ଜାଣନ୍ତୁ
 
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ
@@ -309,6 +427,12 @@ certs-enable-ocsp =
     .label = OCSP ଉତ୍ତର ପ୍ରଦାନକାରୀ ସର୍ଭରଗୁଡ଼ିକୁ ପ୍ରଚଳିକ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବୈଧତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ପଚାରନ୍ତୁ
     .accesskey = Q
 certs-devices-enable-fips = FIPSକୁ ସକ୍ରିୟ କରନ୍ତୁ
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

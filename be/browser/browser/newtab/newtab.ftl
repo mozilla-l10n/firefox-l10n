@@ -491,6 +491,11 @@ newtab-weather-opt-in-yes =
     .label = Так
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Нью-Ёрк
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Паглядзець прагноз у { $provider }
+    .aria-description = { $provider } ∙ Спонсар
 
 ## Topic Labels
 

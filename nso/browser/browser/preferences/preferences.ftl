@@ -50,6 +50,8 @@ tabs-group-header = Dithepe
 show-tabs-in-taskbar =
     .label = Laetša ditebelelopele tša thepo go thasekepaa ya Windows
     .accesskey = k
+startup-group =
+    .label = Thoma
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -150,6 +152,9 @@ update-application-use-service =
     .label = Diriša tirelo ya bokamorago gore o lokele dimpshafatšo
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -168,6 +173,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Ka mehla diriša dinotlelo tša khesa go sepela-sepela ka gare ga matlakala
     .accesskey = k
+browsing-group =
+    .label = Go praosa
 
 ## General Section - Proxy
 
@@ -176,6 +183,9 @@ network-proxy-connection-settings =
     .accesskey = e
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -194,6 +204,9 @@ use-current-pages =
 choose-bookmark =
     .label = Diriša pukutshwayo...
     .accesskey = p
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -223,6 +236,9 @@ search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le di
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -232,6 +248,12 @@ search-keyword-warning-bookmark = O kgethile lentšu la motheo leo gabjale le di
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -289,6 +311,9 @@ history-remember-option-never =
     .label = O se ke wa gopola histori
 history-remember-option-custom =
     .label = Diriša dipeakanyo tša tlwaelo bakeng sa histori
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
@@ -315,7 +340,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

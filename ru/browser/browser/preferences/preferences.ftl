@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Сообщать веб-сайтам, чтобы они не продавали и не разглашали мои данные
     .accesskey = ы
+non-technical-privacy-group =
+    .label = Настройки конфиденциальности веб-сайта
 non-technical-privacy-header = Настройки конфиденциальности веб-сайта
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Параметры…
     .accesskey = м
 containers-disable-alert-title = Закрыть все вкладки в контейнере?
+startup-group =
+    .label = Запуск
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -297,6 +301,9 @@ browser-layout-show-sidebar-desc = Быстрый доступ к закладк
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Язык и внешний вид
+appearance-group =
+    .label = Внешний вид сайтов
+    .description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
 preferences-web-appearance-header = Внешний вид сайтов
 preferences-web-appearance-description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
 preferences-web-appearance-choice-auto2 =
@@ -586,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Спрашивать, открывать или сохранять файлы
     .accesskey = ш
+drm-group =
+    .label = Содержимое, использующее средства защиты авторских прав (DRM)
 drm-content-header = Содержимое, использующее средства защиты авторских прав (DRM)
 play-drm-content =
     .label = Воспроизводить защищённое DRM содержимое
@@ -664,6 +673,8 @@ performance-limit-content-process-blocked-desc = Изменение числа �
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (по умолчанию)
+performance-group =
+    .label = Производительность
 
 ## General Section - Browsing
 
@@ -712,6 +723,8 @@ browsing-cfr-features =
     .label = Рекомендовать функции при просмотре
     .accesskey = ф
 browsing-cfr-recommendations-learn-more = Подробнее
+browsing-group =
+    .label = Просмотр сети
 
 ## General Section - Proxy
 
@@ -721,11 +734,20 @@ network-proxy-connection-learn-more = Подробнее
 network-proxy-connection-settings =
     .label = Настроить…
     .accesskey = Н
+network-proxy-group =
+    .label = Настройки сети
+    .description = Настроить, как { -brand-short-name } соединяется с Интернетом.
 
 ## Home Section
 
 home-new-windows-tabs-header = Новые окна и вкладки
 home-new-windows-tabs-description2 = Выберите, что вы хотите увидеть, когда откроете домашнюю страницу, новые окна и новые вкладки.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Сделать браузером по умолчанию
+    .accesskey = у
 
 ## Custom Homepage subpage
 
@@ -1487,6 +1509,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Адреса и другое
+payments-group =
+    .label = Способы оплаты
 
 ## Privacy Section - History
 
@@ -1518,6 +1544,15 @@ history-remember-option-never =
     .label = не будет запоминать историю
 history-remember-option-custom =
     .label = будет использовать ваши настройки хранения истории
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } будет помнить историю посещений, загрузок, поиска и сохранять данные форм.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } будет использовать те же настройки, что и в приватном режиме, и не будет помнить историю вашей работы с сайтами.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } будет использовать собственные настройки для истории посещений, загрузок, форм и поиска.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } будет помнить историю посещений, загрузок, поиска и сохранять данные форм.
@@ -1547,6 +1582,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Удалить историю…
     .accesskey = л
+history-group =
+    .label = История
 
 ## Privacy Section - Site Data
 
@@ -1613,6 +1650,8 @@ sitedata-cookies-exceptions2 =
     .label = Управление исключениями
     .accesskey = Ч
     .description = Вы можете указать, каким веб-сайтам всегда разрешено или никогда не разрешено использовать куки и данные сайта.
+cookies-site-data-group =
+    .label = Куки и данные сайтов
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2005,6 +2044,8 @@ website-advertising-private-attribution-description = Это помогает с
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Защита
+browsing-protection-group =
+    .label = Поддельное содержимое и защита от вредоносных приложений
 security-browsing-protection = Поддельное содержимое и защита от вредоносных приложений
 security-enable-safe-browsing =
     .label = Блокировать опасное и обманывающее содержимое
@@ -2061,10 +2102,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } сможет всё ещё переключать некоторые соединения
 httpsonly-radio-disabled =
     .label = Не включать режим «Только HTTPS»
+httpsonly-group =
+    .label = Режим «Только HTTPS»
+    .description = Разрешает только защищённые соединения с веб-сайтами. { -brand-short-name } будет спрашивать перед незащищённым соединением.
 
 ## DoH Section
 
 preferences-doh-header = DNS через HTTPS
+dns-over-https-group =
+    .label = DNS через HTTPS
 preferences-doh-description = Система доменных имён (DNS) через HTTPS отправляет ваш запрос доменного имени через зашифрованное соединение, создавая безопасный DNS и затрудняя другим возможность увидеть, к какому сайту вы собираетесь получить доступ.
 preferences-doh-description2 = Система доменных имен (DNS) через HTTPS отправляет ваш запрос на доменное имя через зашифрованное соединение, обеспечивая безопасный DNS и мешая другим увидеть, к какому веб-сайту вы собираетесь получить доступ.
 # Variables:

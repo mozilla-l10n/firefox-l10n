@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = 웹 사이트에 내 데이터를 판매하거나 공유하지 말라고 요청
     .accesskey = s
+non-technical-privacy-group =
+    .label = 웹 사이트 개인 정보 보호 설정
 non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = 설정…
     .accesskey = i
 containers-disable-alert-title = 모든 컨테이너 탭을 닫으시겠습니까?
+startup-group =
+    .label = 시작 페이지
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -282,6 +286,9 @@ browser-layout-show-sidebar-desc = 주 화면을 떠나지 않고 북마크, 휴
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 언어 및 모양
+appearance-group =
+    .label = 웹 사이트 모양
+    .description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
 preferences-web-appearance-header = 웹 사이트 모양
 preferences-web-appearance-description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
 preferences-web-appearance-choice-auto2 =
@@ -571,6 +578,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = 파일을 열지 저장할지 묻기
     .accesskey = A
+drm-group =
+    .label = 디지털 권한 관리 (DRM) 콘텐츠
 drm-content-header = 디지털 권한 관리 (DRM) 콘텐츠
 play-drm-content =
     .label = DRM 제어 콘텐츠 재생
@@ -649,6 +658,8 @@ performance-limit-content-process-blocked-desc = 콘텐츠 프로세스 갯수 �
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (기본값)
+performance-group =
+    .label = 성능
 
 ## General Section - Browsing
 
@@ -697,6 +708,8 @@ browsing-cfr-features =
     .label = 탐색할 때 기능 추천
     .accesskey = f
 browsing-cfr-recommendations-learn-more = 더 알아보기
+browsing-group =
+    .label = 탐색
 
 ## General Section - Proxy
 
@@ -706,11 +719,20 @@ network-proxy-connection-learn-more = 더 알아보기
 network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
+network-proxy-group =
+    .label = 네트워크 설정
+    .description = { -brand-short-name }가 인터넷에 접근하는 방법을 설정하세요.
 
 ## Home Section
 
 home-new-windows-tabs-header = 새 창과 탭
 home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 때 표시되는 것을 선택하세요.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = 기본 브라우저로
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1467,6 +1489,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 주소 및 기타
+payments-group =
+    .label = 결제 수단
 
 ## Privacy Section - History
 
@@ -1498,6 +1524,15 @@ history-remember-option-never =
     .label = 기록을 기억 안 함
 history-remember-option-custom =
     .label = 기록에 사용자 지정 설정 사용
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 기억합니다.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며, 웹 사이트 방문 중 어떤 기록도 기억하지 않습니다.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name }가 탐색, 다운로드, 양식 및 검색 기록에 대해 사용자 지정 설정을 사용합니다.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 기억합니다.
@@ -1527,6 +1562,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 기록 지우기…
     .accesskey = s
+history-group =
+    .label = 기록
 
 ## Privacy Section - Site Data
 
@@ -1593,6 +1630,8 @@ sitedata-cookies-exceptions2 =
     .label = 예외 관리
     .accesskey = x
     .description = 쿠키 및 사이트 데이터 사용을 항상 허용하거나 허용하지 않을 웹 사이트를 지정할 수 있습니다.
+cookies-site-data-group =
+    .label = 쿠키 및 사이트 데이터
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1985,6 +2024,8 @@ website-advertising-private-attribution-description = 이를 통해 사이트에
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 보안
+browsing-protection-group =
+    .label = 사기성 콘텐츠 및 위험한 소프트웨어 보호
 security-browsing-protection = 사기성 콘텐츠 및 위험한 소프트웨어 보호
 security-enable-safe-browsing =
     .label = 위험하고 사기성 있는 콘텐츠 차단
@@ -2041,10 +2082,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }는 여전히 ​​일부 연결을 업그레이드 할 수 있음
 httpsonly-radio-disabled =
     .label = HTTPS 전용 모드 사용 안 함
+httpsonly-group =
+    .label = HTTPS 전용 모드
+    .description = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 preferences-doh-description2 = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 제공하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 # Variables:

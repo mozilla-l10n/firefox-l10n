@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Demandar al sitos web de non vender ni compartir mi datos
     .accesskey = v
+non-technical-privacy-group =
+    .label = Preferentias de confidentialitate del sito
 non-technical-privacy-header = Preferentias de confidentialitate del sito
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Parametros…
     .accesskey = P
 containers-disable-alert-title = Clauder tote le schedas contentor?
+startup-group =
+    .label = Al initio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Rapidemente accede marcapaginas, schedas de t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e apparentia
+appearance-group =
+    .label = Apparentia de sitos web
+    .description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.
 preferences-web-appearance-header = Apparentia de sitos web
 preferences-web-appearance-description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demandar si aperir o salvar le files
     .accesskey = D
+drm-group =
+    .label = Contento protegite per DRM (Gestion de Derectos Digital)
 drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
 play-drm-content =
     .label = Presentar contento protegite per DRM
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Modificar le numero de processo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinite)
+performance-group =
+    .label = Rendimento
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Recommendar functionalitates durante que tu naviga
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saper plus
+browsing-group =
+    .label = Navigation
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
+network-proxy-group =
+    .label = Parametros de rete
+    .description = Configura como { -brand-short-name } se connecte a internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nove fenestras e schedas
 home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pagina initial, nove fenestras e nove schedas.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Predefinir
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1505,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresses e plus
+payments-group =
+    .label = Methodos de pagamento
 
 ## Privacy Section - History
 
@@ -1514,6 +1540,15 @@ history-remember-option-never =
     .label = Non memorisar jammais le chronologia
 history-remember-option-custom =
     .label = Usar parametros personalisate pro le chronologia
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } recordara tu chronologia de navigation, discargamentos, formularios e recerca.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } usara le mesme parametros que pro le navigation private e non memorisara le chronologia durante que tu naviga le Web.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } usara parametros personalisate pro tu chronologia de navigation, discargamentos, formularios e recerca.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } recordara tu chronologia de navigation, discargamentos, formularios e recerca.
@@ -1543,6 +1578,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vacuar le chronologia…
     .accesskey = V
+history-group =
+    .label = Chronologia
 
 ## Privacy Section - Site Data
 
@@ -1609,6 +1646,8 @@ sitedata-cookies-exceptions2 =
     .label = Gerer exceptiones
     .accesskey = x
     .description = Tu pote specificar que sitos web es sempre o jammais permittite usar  cookies e datos del sito.
+cookies-site-data-group =
+    .label = Cookies e datos de sitos
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2040,8 @@ website-advertising-private-attribution-description = Isto adjuta l sitos a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+browsing-protection-group =
+    .label = Protection contra contento fraudulente e software periculose
 security-browsing-protection = Protection contra contento fraudulente e software periculose
 security-enable-safe-browsing =
     .label = Blocar le contento periculose e fraudulente
@@ -2057,10 +2098,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } pote ancora promover alcun connexiones
 httpsonly-radio-disabled =
     .label = Non activar le Modo solo HTTPS
+httpsonly-group =
+    .label = Modo solo HTTPS
+    .description = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 
 ## DoH Section
 
 preferences-doh-header = DNS super HTTPS
+dns-over-https-group =
+    .label = DNS super HTTPS
 preferences-doh-description = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, creante un DNS secur e obstruente a alteres de vider que sito web tu va acceder.
 preferences-doh-description2 = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, forniente un DNS secur e obstruente al alteres de vider que sito web tu va acceder.
 # Variables:

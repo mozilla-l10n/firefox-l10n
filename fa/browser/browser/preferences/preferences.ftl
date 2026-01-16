@@ -149,6 +149,8 @@ browser-containers-settings =
     .label = تنظیمات…
     .accesskey = ت
 containers-disable-alert-title = بستن تمام زبانه‌های حامل؟
+startup-group =
+    .label = راه‌اندازی
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -349,6 +351,8 @@ applications-handle-new-file-types-description = ‏{ -brand-short-name } با �
 applications-save-for-new-types =
     .label = ذخیرهٔ پرونده‌ها
     .accesskey = ذ
+drm-group =
+    .label = محتوا مدیریت حقوق دیجیتال(DRM)
 drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
     .label = پخش محتوا کنترل شده-DRM
@@ -395,6 +399,9 @@ update-in-progress-ok-button = &نادیده گرفتن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ادامه
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارایی
@@ -414,6 +421,8 @@ performance-limit-content-process-blocked-desc = تغییر دادن تعداد 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (پیش‌فرض)
+performance-group =
+    .label = کارایی
 
 ## General Section - Browsing
 
@@ -448,6 +457,8 @@ browsing-cfr-features =
     .label = پیشنهاد دادن ویژگی‌ها همزمان با مرور وب
     .accesskey = f
 browsing-cfr-recommendations-learn-more = بیشتر بدانید
+browsing-group =
+    .label = مرور
 
 ## General Section - Proxy
 
@@ -457,11 +468,20 @@ network-proxy-connection-learn-more = اطلاعات بیشتر
 network-proxy-connection-settings =
     .label = تنظیمات…
     .accesskey = ت
+network-proxy-group =
+    .label = تنظیمات شبکه
+    .description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
 
 ## Home Section
 
 home-new-windows-tabs-header = پنجره‌ها و زبانه‌های جدید
 home-new-windows-tabs-description2 = انتخاب کنید چه چیزی در زمان باز کردن صفحهٔ خانگی، پنجره‌ها جدید و زبانه‌های جدید می‌بینید.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = تنظیم به عنوان پیش‌فرض
+    .accesskey = پ
 
 ## Custom Homepage subpage
 
@@ -492,6 +512,12 @@ use-current-pages =
 choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -671,6 +697,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } تایید نشده است.
 sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -870,6 +901,9 @@ primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه
 primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = تاریخچه
@@ -900,6 +934,12 @@ history-remember-option-never =
     .label = هرگز تاریخچه را به خاطر نمی‌سپارد
 history-remember-option-custom =
     .label = تنظیمات خاصی را برای تاریخچه استفاده می‌کند
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
@@ -926,6 +966,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = پاک کردن تاریخچه…
     .accesskey = s
+history-group =
+    .label = تاریخچه
 
 ## Privacy Section - Site Data
 
@@ -969,6 +1011,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
+cookies-site-data-group =
+    .label = کلوچک‌ها و داده‌های پایگاه
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1159,12 +1209,17 @@ collection-health-report-disabled = گزارش کردن داده‌ها برای
 collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
     .accesskey = ج
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = امنیت
+browsing-protection-group =
+    .label = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-browsing-protection = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-enable-safe-browsing =
     .label = مسدود سازی محتوا‌های خطرناک و فریبنده
@@ -1211,6 +1266,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = ساناد روی HTTPS
+dns-over-https-group =
+    .label = ساناد روی HTTPS
 preferences-doh-description = سامانهٔ نام دامنه (ساناد) روی HTTPS درخواست شما برای نام دامنه را از طریق اتصال رمزگذاشته می‌فرستد، سانادی ایمن ایجاد می‌کند و مشاهدهٔ وبگاه‌هایی که بازدید می‌کنید را برای دیگران سخت‌تر می‌کند.
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.

@@ -164,6 +164,8 @@ browser-containers-settings =
     .label = Nuostatos…
     .accesskey = u
 containers-disable-alert-title = Užverti visas sudėtinio rodinio korteles?
+startup-group =
+    .label = Paleistis
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -199,6 +201,9 @@ containers-remove-cancel-button = Palikti šį sudėtinį rodinį
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Kalba ir išvaizda
+appearance-group =
+    .label = Svetainių išvaizda
+    .description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
 preferences-web-appearance-header = Svetainių išvaizda
 preferences-web-appearance-description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
 preferences-web-appearance-choice-auto2 =
@@ -399,6 +404,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Paklausti, ar atverti, ar įrašyti failus
     .accesskey = P
+drm-group =
+    .label = Skaitmeninių teisių valdymo (DRM) turinys
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
     .label = Atkurti DRM valdomą turinį
@@ -448,6 +455,9 @@ update-in-progress-ok-button = &Atmesti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Našumas
@@ -467,6 +477,8 @@ performance-limit-content-process-blocked-desc = Turinio procesų skaičiaus kei
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (numatyta)
+performance-group =
+    .label = Našumas
 
 ## General Section - Browsing
 
@@ -504,6 +516,8 @@ browsing-cfr-features =
     .label = Rekomenduoti funkcijas naršant
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Sužinoti daugiau
+browsing-group =
+    .label = Naršymas
 
 ## General Section - Proxy
 
@@ -513,11 +527,20 @@ network-proxy-connection-learn-more = Sužinoti daugiau
 network-proxy-connection-settings =
     .label = Nuostatos…
     .accesskey = N
+network-proxy-group =
+    .label = Tinklo nuostatos
+    .description = Nustatykite, kaip „{ -brand-short-name }“ jungiasi prie interneto.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nauji langai ir kortelės
 home-new-windows-tabs-description2 = Pasirinkite, ką norite matyti atvėrę savo pradžios tinklalapį, naujus langus, naujas korteles.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Paskirti numatytąja
+    .accesskey = n
 
 ## Custom Homepage subpage
 
@@ -550,6 +573,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -737,6 +766,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -936,6 +970,9 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Žurnalas
@@ -966,6 +1003,12 @@ history-remember-option-never =
     .label = niekada nevesti žurnalo
 history-remember-option-custom =
     .label = laikytis tinkintų žurnalo vedimo nuostatų
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } įsimins jūsų naršytus tinklalapius, parsiųstus failus, įvestas formų ir paieškos laukų reikšmes.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = „{ -brand-short-name }“ visą laiką laikysis privačiojo naršymo seanso nuostatų ir nepildys naršymo žurnalo.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } įsimins jūsų naršytus tinklalapius, parsiųstus failus, įvestas formų ir paieškos laukų reikšmes.
@@ -992,6 +1035,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Išvalyti žurnalą…
     .accesskey = u
+history-group =
+    .label = Žurnalas
 
 ## Privacy Section - Site Data
 
@@ -1035,6 +1080,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
+cookies-site-data-group =
+    .label = Slapukai ir svetainių duomenys
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1236,12 +1289,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Saugumas
+browsing-protection-group =
+    .label = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-browsing-protection = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-enable-safe-browsing =
     .label = Blokuoti pavojingą ir apgaulingą turinį
@@ -1284,6 +1342,9 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

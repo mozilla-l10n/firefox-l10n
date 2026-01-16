@@ -164,6 +164,8 @@ browser-containers-settings =
     .label = Nasztalowania…
     .accesskey = i
 containers-disable-alert-title = Zawrzić wszyskie kōntynerowe karty?
+startup-group =
+    .label = Sztartowanie
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -199,6 +201,9 @@ containers-remove-cancel-button = Niy wyciepuj tego kōntynera
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Godki i wyglōnd
+appearance-group =
+    .label = Wyglōnd strōn
+    .description = Niykere strōny przipasowujōm swoje schymaty farbōw do twojich preferyncyji. Ôbier, kery schymat farbōw chcesz mieć na takich strōnach.
 preferences-web-appearance-header = Wyglōnd strōn
 preferences-web-appearance-description = Niykere strōny przipasowujōm swoje schymaty farbōw do twojich preferyncyji. Ôbier, kery schymat farbōw chcesz mieć na takich strōnach.
 preferences-web-appearance-choice-light2 =
@@ -391,6 +396,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pytej sie, jeźli ôdewrzić abo spamiyntać zbiōr
     .accesskey = P
+drm-group =
+    .label = Zawartość Digital Rights Management (DRM)
 drm-content-header = Zawartość Digital Rights Management (DRM)
 play-drm-content =
     .label = Puszczanie zawartości brōniōnyj ôd DRM
@@ -440,6 +447,9 @@ update-in-progress-ok-button = &Pociep
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Idź dalij
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Sprowność
@@ -459,6 +469,8 @@ performance-limit-content-process-blocked-desc = Zmiana wielości procesōw zawa
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (bazowo)
+performance-group =
+    .label = Sprowność
 
 ## General Section - Browsing
 
@@ -496,6 +508,8 @@ browsing-cfr-features =
     .label = Doradzej funkcyje przi przeglōndaniu
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Przewiydz sie wiyncyj
+browsing-group =
+    .label = Przeglōndanie
 
 ## General Section - Proxy
 
@@ -505,11 +519,20 @@ network-proxy-connection-learn-more = Przewiydz sie wiyncyj
 network-proxy-connection-settings =
     .label = Nasztalowania…
     .accesskey = n
+network-proxy-group =
+    .label = Nasztalowania neca
+    .description = Sztaluj, jak { -brand-short-name } łōnczy sie z internetym.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe ôkna i karty
 home-new-windows-tabs-description2 = Ôbier, co chcesz widzieć przi ôtwiyraniu swojij dōmowyj strōny, nowych ôkiyn abo kart.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Nasztaluj za bazowo
+    .accesskey = B
 
 ## Custom Homepage subpage
 
@@ -542,6 +565,12 @@ use-current-pages =
 choose-bookmark =
     .label = Użyj zokłodki…
     .accesskey = Z
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -720,6 +749,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Kōnto { $email } niy ma zweryfikowane.
 sync-signedin-login-failure = Wloguj sie, coby zaś połōnczyć kōnto { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -918,6 +952,9 @@ primary-password-os-auth-dialog-message-win = Żeby zrychtować głōwne hasło,
 primary-password-os-auth-dialog-message-macosx = zrychtuj głōwne hasło
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historyjo
@@ -948,6 +985,12 @@ history-remember-option-never =
     .label = nigdy niy spamiyntować historyje
 history-remember-option-custom =
     .label = używać twojich nasztalowań do historyje
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } bydzie pamiyntoł twoje przeglōndanie, pobiyranie, formulary i historyjo szukanio.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } bydzie używoł tych samuych nasztalowań co we prywatnym trybie i niy spamiynto historyji twojigo przeglōndanio strōn.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } bydzie pamiyntoł twoje przeglōndanie, pobiyranie, formulary i historyjo szukanio.
@@ -974,6 +1017,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Pucuj historyjo…
     .accesskey = c
+history-group =
+    .label = Historyjo
 
 ## Privacy Section - Site Data
 
@@ -1017,6 +1062,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies i dane strōn
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1206,12 +1259,17 @@ collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kō
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpieczyństwo
+browsing-protection-group =
+    .label = Ôchrōna ôd ôszydy i niybezpiecznym softwarem
 security-browsing-protection = Ôchrōna ôd ôszydy i niybezpiecznym softwarem
 security-enable-safe-browsing =
     .label = Szperuj niybezpieczno i ôszydno zawartość
@@ -1254,6 +1312,9 @@ httpsonly-radio-enabled-pbm =
     .label = Załōncz tryb "ino HTTPS" ino w prywatnych ôknach
 httpsonly-radio-disabled =
     .label = Niy załōnczej trybu "ino HTTPS"
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

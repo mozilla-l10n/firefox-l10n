@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortæl websteder, at de ikke skal sælge eller dele mine data
     .accesskey = s
+non-technical-privacy-group =
+    .label = Privatlivsindstillinger for websted
 non-technical-privacy-header = Privatlivsindstillinger for websted
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Indstillinger…
     .accesskey = n
 containers-disable-alert-title = Luk alle kontekst-faneblade?
+startup-group =
+    .label = Opstart
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Få hurtig adgang til bogmærker, faneblade f
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Sprog og udseende
+appearance-group =
+    .label = Websteds-udseende
+    .description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
 preferences-web-appearance-header = Websteds-udseende
 preferences-web-appearance-description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spørg om filer skal åbnes eller gemmes
     .accesskey = S
+drm-group =
+    .label = Indhold beskyttet af digital rettigheds-styring (DRM)
 drm-content-header = Indhold beskyttet af digital rettigheds-styring (DRM)
 play-drm-content =
     .label = Afspil DRM-kontrolleret indhold
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Det er kun muligt at ændre ant
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Ydelse
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Anbefal funktioner mens jeg browser
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Læs mere
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
+network-proxy-group =
+    .label = Forbindelsesindstillinger
+    .description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nye vinduer og faneblade
 home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din startside, nye vinduer og nye faneblade
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Sæt som standard
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1499,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser med mere
+payments-group =
+    .label = Betalingsmetoder
 
 ## Privacy Section - History
 
@@ -1508,6 +1534,15 @@ history-remember-option-never =
     .label = Aldrig gemme historik
 history-remember-option-custom =
     .label = Bruge tilpassede indstillinger for historik
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vil bruge de samme indstillinger som privat browsing, og vil ikke gemme nogen historik, mens du surfer på nettet.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vil bruge tilpassede indstillinger for browsing og filhentninger, samt historik for formularer og søgning.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
@@ -1537,6 +1572,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ryd historik…
     .accesskey = h
+history-group =
+    .label = Historik
 
 ## Privacy Section - Site Data
 
@@ -1603,6 +1640,8 @@ sitedata-cookies-exceptions2 =
     .label = Håndter undtagelser
     .accesskey = u
     .description = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data.
+cookies-site-data-group =
+    .label = Cookies og websteds-data
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1992,6 +2031,8 @@ website-advertising-private-attribution-description = Det hjælper websider med 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerhed
+browsing-protection-group =
+    .label = Beskyttelse mod vildledende indhold og farlig software
 security-browsing-protection = Beskyttelse mod vildledende indhold og farlig software
 security-enable-safe-browsing =
     .label = Bloker farlige og vildledende websteder
@@ -2052,10 +2093,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan stadig opgradere nogle forbindelser
 httpsonly-radio-disabled =
     .label = Slå ikke kun-HTTPS til
+httpsonly-group =
+    .label = Tilstanden Kun-HTTPS
+    .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+dns-over-https-group =
+    .label = DNS via HTTPS
 preferences-doh-description = DNS-opslag foretaget med DNS via HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
 preferences-doh-description2 = Domain Name System (DNS) via HTTPS sender din forespørgsel efter et domænenavn over en krypteret forbindelse for at sikre DNS og gøre det sværere for andre at se, hvilket websted du skal til at besøge.
 # Variables:

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Decir a los sitios web que no vendan ni compartan mis datos
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencias de privacidad del sitio web
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -215,6 +217,8 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = o
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
+startup-group =
+    .label = Inicio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -260,6 +264,9 @@ browser-layout-show-sidebar-desc = Accede rápidamente a marcadores, pestañas d
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma y apariencia
+appearance-group =
+    .label = Apariencia del sitio web
+    .description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
 preferences-web-appearance-choice-auto2 =
@@ -475,6 +482,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = P
+drm-group =
+    .label = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
 drm-content-header = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -524,6 +533,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -543,6 +555,8 @@ performance-limit-content-process-blocked-desc = Es posible modificar el número
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -588,6 +602,8 @@ browsing-cfr-features =
     .label = Recomendar funciones mientras navegas
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Aprender más
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -597,11 +613,20 @@ network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Configurar…
     .accesskey = C
+network-proxy-group =
+    .label = Configuración de conexión
+    .description = Configurar como { -brand-short-name } se conecta a internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige que quieres ver cuando abras tu página de inicio, nuevas ventanas y nuevas pestañas.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Hacer predeterminado
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -634,6 +659,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -853,6 +884,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1139,6 +1175,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = A
+addresses-group =
+    .label = Direcciones y más
+payments-group =
+    .label = Métodos de pago
 
 ## Privacy Section - History
 
@@ -1170,6 +1210,12 @@ history-remember-option-never =
     .label = No guarde el historial
 history-remember-option-custom =
     .label = Utilice configuraciones personalizadas para el historial
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
@@ -1196,6 +1242,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpiar historial…
     .accesskey = s
+history-group =
+    .label = Historial
 
 ## Privacy Section - Site Data
 
@@ -1248,6 +1296,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administrar excepciones...
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies y datos del sitio
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1573,6 +1623,8 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group =
+    .label = Protección contra contenido engañoso y software peligroso
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
@@ -1627,6 +1679,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y hace más difícil que otros vean que sitio web estás tratando de acceder.
 preferences-doh-description2 = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que entrega un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:

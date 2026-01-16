@@ -138,6 +138,8 @@ browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
 containers-disable-alert-title = Isara Lahat ng Mga Container Tab?
+startup-group =
+    .label = Startup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -332,6 +334,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Digital Rights Management (DRM) Content
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
     .label = Magpaandar ng DRM-controlled content
@@ -370,6 +374,9 @@ update-in-progress-ok-button = Isantabi
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Magpatuloy
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -389,6 +396,8 @@ performance-limit-content-process-blocked-desc = Ang pagbabago sa bilang ng mga 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = Performance
 
 ## General Section - Browsing
 
@@ -423,6 +432,8 @@ browsing-cfr-features =
     .label = Magrekomenda ng mga feature habang nagba-browse
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Alamin pa
+browsing-group =
+    .label = Pag-browse
 
 ## General Section - Proxy
 
@@ -432,11 +443,20 @@ network-proxy-connection-learn-more = Alamin
 network-proxy-connection-settings =
     .label = Mga Setting…
     .accesskey = e
+network-proxy-group =
+    .label = Mga Network Setting
+    .description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Bagong mga Window at Tab
 home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, mga bagong window, at mga bagong tab.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Gawing Default
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -467,6 +487,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gumamit ng Bookmark...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -638,6 +664,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Hindi pa verified ang { $email }.
 sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -869,6 +900,12 @@ history-remember-option-never =
     .label = Huwag kailanman tandaan ang kasaysayan
 history-remember-option-custom =
     .label = Gumamit ng mga custom setting para sa kasaysayan
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Gagamitin ng { -brand-short-name } ang kaparehong mga setting sa private browsing, at hindi nito tatandaan ang iyong kasaysayan ng pag-browse sa Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
@@ -895,6 +932,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Burahin ang Kasaysayan...
     .accesskey = s
+history-group =
+    .label = Kasaysayan
 
 ## Privacy Section - Site Data
 
@@ -936,6 +975,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
+cookies-site-data-group =
+    .label = Mga Cookie at Site Data
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1124,12 +1171,17 @@ collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa b
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group =
+    .label = Mapanlinlang na Content at Proteksyon mula sa Delikadong Software
 security-browsing-protection = Mapanlinlang na Content at Proteksyon mula sa Delikadong Software
 security-enable-safe-browsing =
     .label = Harangin ang delikado at mapanlinlang na content
@@ -1170,6 +1222,9 @@ httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

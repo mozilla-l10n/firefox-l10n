@@ -36,6 +36,17 @@ should-restart-ok = { -brand-short-name } तत्काल पुनःसु�
 cancel-no-restart-button = रद्द गर्नुहोस्
 restart-later = केहि समयपछि पुनःसुरु गर्नुहोस्
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = खोजी परिणामहरू
@@ -81,6 +92,8 @@ browser-containers-settings =
     .label = सेटिङहरू…
     .accesskey = i
 containers-disable-alert-title = सबै कन्टेनर ट्याबहरू बन्द गर्न चाहनुहुन्छ?
+startup-group =
+    .label = सुरुवात
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -221,6 +234,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री
 drm-content-header = डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री
 play-drm-content =
     .label = DRM-नियन्त्रित सामग्री प्ले गर्नुहोस्
@@ -248,6 +263,9 @@ update-application-use-service =
     .label = अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = कार्यसम्पादन
@@ -267,6 +285,8 @@ performance-limit-content-process-blocked-desc = सामग्री प्र
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (पूर्वनिर्धारित)
+performance-group =
+    .label = कार्यसम्पादन
 
 ## General Section - Browsing
 
@@ -287,6 +307,8 @@ browsing-search-on-start-typing =
     .label = टाइप गर्न सुरु गरेपछि पाठ खोजी गर्नुहोस्
     .accesskey = x
 browsing-cfr-recommendations-learn-more = थप जान्नुहोस्
+browsing-group =
+    .label = ब्राउजिङ्ग
 
 ## General Section - Proxy
 
@@ -299,6 +321,12 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = नयाँ संझ्याल तथा ट्याबहरू
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = पूर्वनिर्धारित बनाउनुहोस
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -329,6 +357,12 @@ use-current-pages =
 choose-bookmark =
     .label = पुस्तकचिनो प्रयोग गर्नुहोस्...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -419,6 +453,9 @@ containers-add-button =
 containers-remove-button =
     .label = हटाउनुहोस्
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -453,11 +490,22 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } प्रमाणित गरिएको छैन।
 sync-signedin-login-failure = कृपया पुनः जडान गर्न साइन-इन गर्नुहोस् { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-sign-in =
     .label = साइन इन गर्नुहोस्
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -505,6 +553,9 @@ sync-verification-not-sent-body = हामी यस समय प्रमा�
 
 privacy-header = ब्राउजर गोपनीयता
 
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -520,6 +571,12 @@ forms-master-pw-change =
     .label = मुल गोप्यशब्द परिवर्तन गर्नुहोस्...
     .accesskey = M
 forms-master-pw-fips-desc = गोप्यशब्द परिवर्तन असफल
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -551,6 +608,9 @@ history-remember-option-never =
     .label = इतिहास कहिल्यै नसम्झिनुहोस्
 history-remember-option-custom =
     .label = इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
@@ -567,6 +627,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = ढाँचाहरू...
     .accesskey = t
+history-group =
+    .label = इतिहास
 
 ## Privacy Section - Site Data
 
@@ -585,6 +647,14 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापन गर्नुहोस्…
     .accesskey = M
+cookies-site-data-group =
+    .label = कुकिजहरु र साइट डेटा
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -604,6 +674,19 @@ addressbar-suggestions-settings = खोज इन्जिन सुझाव�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = थप जान्नुहोस्
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -659,12 +742,17 @@ collection-health-report-link = अझ जान्नुहोस्
 # or builds with no Telemetry support available.
 collection-health-report-disabled = यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+browsing-protection-group =
+    .label = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-browsing-protection = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस
@@ -690,6 +778,12 @@ certs-devices =
     .label = सुरक्षा उपकरणहरू…
     .accesskey = D
 certs-devices-enable-fips = FIPS सक्षम पार्नुहोस्
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ejerure ñanduti rendápe ani ovende ha omoherakuã che mba’ekuaarã
     .accesskey = s
+non-technical-privacy-group =
+    .label = Ñanduti renda marandu’i ñemigua
 non-technical-privacy-header = Ñanduti renda marandu’i ñemigua
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -248,6 +250,8 @@ browser-containers-settings =
     .label = Ñemboheko…
     .accesskey = i
 containers-disable-alert-title = ¿Emmbotypaite tendayke guerekoha pegua?
+startup-group =
+    .label = Ñepyrũha
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -293,6 +297,9 @@ browser-layout-show-sidebar-desc = Eike pya’e techaukaha, pumbyry rendayke, ch
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
+appearance-group =
+    .label = Mba’éicha ojehecha ñanduti renda
+    .description = Heta ñanduti renda omohenda isa’y jeporukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jeporukuaa reipotáva umi tendápe g̃uarã.
 preferences-web-appearance-header = Mba’éicha ojehecha ñanduti renda
 preferences-web-appearance-description = Heta ñanduti renda omohenda isa’y jeporukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jeporukuaa reipotáva umi tendápe g̃uarã.
 preferences-web-appearance-choice-auto2 =
@@ -580,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Eporandu embojuruja térã eñongatúta marandurenda
     .accesskey = A
+drm-group =
+    .label = Tembiapo Ñandutigua Derécho (TÑD) retepy
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
     .label = Emboheta tetepy oñangarekóva DRM rehe
@@ -658,6 +667,8 @@ performance-limit-content-process-blocked-desc = Pe mba’eapo papapy moambue re
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ijypykue)
+performance-group =
+    .label = Mba’eaporã
 
 ## General Section - Browsing
 
@@ -706,6 +717,8 @@ browsing-cfr-features =
     .label = Eñe’ẽporã tembiapoitére eikundahakuévo
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Kuaave
+browsing-group =
+    .label = Kundaha
 
 ## General Section - Proxy
 
@@ -715,11 +728,20 @@ network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
     .label = Ñemboheko…
     .accesskey = e
+network-proxy-group =
+    .label = Jeike ñemboheko
+    .description = Emboheko { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 
 ## Home Section
 
 home-new-windows-tabs-header = Ovetã ha tendayke pyahu
 home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue iporãvévape, ovetã ha tendayke pyahúpe.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Ejapo chugui yjypykuéva
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1468,6 +1490,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Kundaharape ha hetave
+payments-group =
+    .label = Mba’éicha ehepyme’ẽta
 
 ## Privacy Section - History
 
@@ -1499,6 +1525,15 @@ history-remember-option-never =
     .label = Ani nemandu’a tembiasakuére
 history-remember-option-custom =
     .label = Eiporu peteĩ ñemboheko mba’etéva tembiasakuépe g̃uarã
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } oiporujeýta ñemboheko kundaha ñemiguáva, ha noñongatumo’ãi mba’ekuaarã tembiasakuéva oikundahávo ñandutípe.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } oiporúta ñemboheko mba’eteéva, kundaha rehegua, ñemboguejy, myanyhẽha ha jeheka.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
@@ -1528,6 +1563,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tembiasakue ñemopotĩ…
     .accesskey = s
+history-group =
+    .label = Tembiasakue
 
 ## Privacy Section - Site Data
 
@@ -1594,6 +1631,8 @@ sitedata-cookies-exceptions2 =
     .label = Eñangareko oĩ’ỹva…
     .accesskey = x
     .description = Eremi mba’e ñanduti roguépa tapia térã araka’eve oiporu kookie ha tenda mba’ekuaarã.
+cookies-site-data-group =
+    .label = Kookie ha tenda mbakuaarã
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1981,6 +2020,8 @@ website-advertising-private-attribution-description = Kóva oipytyvõta tendaku�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tekorosã
+browsing-protection-group =
+    .label = Ñemo’ã Mba’e Ag̃ave’ỹvagui
 security-browsing-protection = Ñemo’ã Mba’e Ag̃ave’ỹvagui
 security-enable-safe-browsing =
     .label = Ejoko tetepy kyhyjerã ha imarãkuaáva
@@ -2037,10 +2078,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } ombohekopyahukuaa gueteri heta juajurã
 httpsonly-radio-disabled =
     .label = Ani embojuruja HTTPS año ayvu
+httpsonly-group =
+    .label = HTTPS año ayvu
+    .description = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
 
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS reheguáva
+dns-over-https-group =
+    .label = DNS HTTPS reheguáva
 preferences-doh-description = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 preferences-doh-description2 = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 # Variables:

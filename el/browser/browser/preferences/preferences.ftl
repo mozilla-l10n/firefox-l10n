@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης δεδομένων στους ιστοτόπους
     .accesskey = σ
+non-technical-privacy-group =
+    .label = Προτιμήσεις απορρήτου ιστοτόπων
 non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπων
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Ρυθμίσεις…
     .accesskey = ι
 containers-disable-alert-title = Κλείσιμο όλων των θεματικών καρτελών;
+startup-group =
+    .label = Εκκίνηση
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Αποκτήστε γρήγορη πρόσβ�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Γλώσσα και εμφάνιση
+appearance-group =
+    .label = Εμφάνιση ιστοτόπου
+    .description = Ορισμένοι ιστότοποι προσαρμόζουν το σύνολο χρωμάτων τους με βάση τις προτιμήσεις σας. Επιλέξτε ποιο σύνολο χρωμάτων θέλετε να χρησιμοποιήσετε για αυτούς τους ιστοτόπους.
 preferences-web-appearance-header = Εμφάνιση ιστοτόπου
 preferences-web-appearance-description = Ορισμένοι ιστότοποι προσαρμόζουν το σύνολο χρωμάτων τους με βάση τις προτιμήσεις σας. Επιλέξτε ποιο σύνολο χρωμάτων θέλετε να χρησιμοποιήσετε για αυτούς τους ιστοτόπους.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Ερώτηση για το εάν θα γίνεται άνοιγμα ή αποθήκευση των αρχείων
     .accesskey = Ε
+drm-group =
+    .label = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
     .label = Αναπαραγωγή περιεχομένου με έλεγχο DRM
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Η τροποποίηση το�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (προεπιλογή)
+performance-group =
+    .label = Επιδόσεις
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Πρόταση λειτουργιών κατά την περιήγησή σας
     .accesskey = λ
 browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
+browsing-group =
+    .label = Περιήγηση
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Μάθετε περισσότερα
 network-proxy-connection-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
+network-proxy-group =
+    .label = Ρυθμίσεις δικτύου
+    .description = Ρυθμίστε τον τρόπο σύνδεσης του { -brand-short-name } στο διαδίκτυο.
 
 ## Home Section
 
 home-new-windows-tabs-header = Νέα παράθυρα και καρτέλες
 home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε όταν ανοίγετε την αρχική σας σελίδα, νέα παράθυρα και νέες καρτέλες.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Ορισμός ως προεπιλογή
+    .accesskey = Π
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1493,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Διευθύνσεις και άλλα
+payments-group =
+    .label = Μέθοδοι πληρωμής
 
 ## Privacy Section - History
 
@@ -1502,6 +1528,15 @@ history-remember-option-never =
     .label = Δεν θα διατηρεί ποτέ το ιστορικό
 history-remember-option-custom =
     .label = Θα κάνει χρήση προσαρμοσμένων ρυθμίσεων ιστορικού
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Το { -brand-short-name } θα αποθηκεύει το ιστορικό περιήγησης, λήψεων, φορμών και αναζητήσεων.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Το { -brand-short-name } θα χρησιμοποιεί τις ίδιες ρυθμίσεις με την ιδιωτική περιήγηση και δεν θα διατηρεί το ιστορικό περιήγησης σας.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = Το { -brand-short-name } θα χρησιμοποιεί προσαρμοσμένες ρυθμίσεις για το ιστορικό περιήγησης, λήψεων, φορμών και αναζητήσεων.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Το { -brand-short-name } θα αποθηκεύει το ιστορικό περιήγησης, λήψεων, φορμών και αναζητήσεων.
@@ -1531,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Απαλοιφή ιστορικού…
     .accesskey = σ
+history-group =
+    .label = Ιστορικό
 
 ## Privacy Section - Site Data
 
@@ -1597,6 +1634,8 @@ sitedata-cookies-exceptions2 =
     .label = Διαχείριση επεκτάσεων
     .accesskey = χ
     .description = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται ή απαγορεύεται πάντα η χρήση cookie και δεδομένων ιστοτόπου.
+cookies-site-data-group =
+    .label = Cookie και δεδομένα ιστοτόπων
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1986,6 +2025,8 @@ website-advertising-private-attribution-description = Αυτή η επιλογή
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ασφάλεια
+browsing-protection-group =
+    .label = Προστασία από παραπλανητικό περιεχόμενο και επικίνδυνο λογισμικό
 security-browsing-protection = Προστασία από παραπλανητικό περιεχόμενο και επικίνδυνο λογισμικό
 security-enable-safe-browsing =
     .label = Φραγή επικίνδυνου και παραπλανητικού περιεχομένου
@@ -2042,10 +2083,15 @@ httpsonly-radio-disabled3 =
     .description = Το { -brand-short-name } ενδέχεται και πάλι να αναβαθμίσει ορισμένες συνδέσεις
 httpsonly-radio-disabled =
     .label = Να μην ενεργοποιηθεί η λειτουργία «Μόνο HTTPS»
+httpsonly-group =
+    .label = Λειτουργία «Μόνο HTTPS»
+    .description = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 
 ## DoH Section
 
 preferences-doh-header = DNS μέσω HTTPS
+dns-over-https-group =
+    .label = DNS μέσω HTTPS
 preferences-doh-description = Το DNS (Domain Name System) μέσω HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, δημιουργώντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
 preferences-doh-description2 = Το DNS (Domain Name System) μέσω HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, παρέχοντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
 # Variables:

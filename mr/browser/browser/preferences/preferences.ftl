@@ -102,6 +102,8 @@ browser-containers-settings =
     .label = सेटिंग्ज…
     .accesskey = i
 containers-disable-alert-title = सगळे कंटेनर टॅब बंद करायचे आहेत का?
+startup-group =
+    .label = प्रारंभीकरण
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -252,6 +254,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 drm-content-header = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 play-drm-content =
     .label = डीआरएम-नियंत्रित मजकूर चालवा
@@ -284,6 +288,9 @@ update-in-progress-ok-button = रद्द करा
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = पुढे चला
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = कार्यक्षमता
@@ -303,6 +310,8 @@ performance-limit-content-process-blocked-desc = मजकूर प्रक्
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (पूर्वनिर्धारित)
+performance-group =
+    .label = कार्यक्षमता
 
 ## General Section - Browsing
 
@@ -330,6 +339,8 @@ browsing-cfr-features =
     .label = आपण ब्राउझ करता तेव्हा वैशिष्ट्यांची शिफारस करा
     .accesskey = f
 browsing-cfr-recommendations-learn-more = अधिक जाणा
+browsing-group =
+    .label = ब्राउजिंग
 
 ## General Section - Proxy
 
@@ -339,11 +350,20 @@ network-proxy-connection-learn-more = अधिक जाणा
 network-proxy-connection-settings =
     .label = सेटिंग्ज…
     .accesskey = e
+network-proxy-group =
+    .label = नेटवर्क सेटिंग
+    .description = { -brand-short-name } इंटरनेटशी जोडणी कशी करतो ते संरचीत करा.
 
 ## Home Section
 
 home-new-windows-tabs-header = नवीन पटल आणि टॅब
 home-new-windows-tabs-description2 = आपले मुखपृष्ठ, नवीन पटल, आणि नवीन टॅब उघडल्यावर जे आपण बघता ते निवडा.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = पूर्वनिर्धारित बनवा
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -374,6 +394,12 @@ use-current-pages =
 choose-bookmark =
     .label = वाचनखूणाचा वापर करा…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -473,6 +499,9 @@ containers-add-button =
 containers-remove-button =
     .label = काढून टाका
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -512,6 +541,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } चाचणी झाली नाही.
 sync-signedin-login-failure = पुन्हा जोडणीकरिता कृपया साइन करा { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -655,6 +689,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -685,6 +725,12 @@ history-remember-option-never =
     .label = इतिहास कधीच लक्षात ठेवु नका
 history-remember-option-custom =
     .label = इतिहासा करीता मनपसंत संयोजना वापरा
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } आपले ब्राउझिंग, डाउनलोड, फॉर्म आणि शोध इतिहास लक्षात ठेवेल.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } आपले ब्राउझिंग, डाउनलोड, फॉर्म आणि शोध इतिहास लक्षात ठेवेल.
@@ -711,6 +757,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = इतिहास पुसा...
     .accesskey = s
+history-group =
+    .label = इतिहास
 
 ## Privacy Section - Site Data
 
@@ -737,6 +785,14 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
+cookies-site-data-group =
+    .label = कुकीज आणि साईट डेटा
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -888,12 +944,17 @@ addon-recommendations-link = अधिक जाणा
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+browsing-protection-group =
+    .label = भ्रामक मजकूर आणि धोकादायक सॉफ्टवेअर संरक्षण
 security-browsing-protection = भ्रामक मजकूर आणि धोकादायक सॉफ्टवेअर संरक्षण
 security-enable-safe-browsing =
     .label = धोकादायक आणि भ्रामक सामग्री अवरोधित करा
@@ -919,6 +980,12 @@ certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

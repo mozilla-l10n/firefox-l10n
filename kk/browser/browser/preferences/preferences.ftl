@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Веб-сайттарға менің деректерімді сатпауды немесе олармен бөліспеуді айту
     .accesskey = с
+non-technical-privacy-group =
+    .label = Веб-сайттың жекелік баптаулары
 non-technical-privacy-header = Веб-сайттың жекелік баптаулары
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Баптаулар…
     .accesskey = п
 containers-disable-alert-title = Барлық контейнерлік беттерді жабу керек пе?
+startup-group =
+    .label = Іске қосылу
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Бетбелгілерге, телефонн�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Тіл және сыртқы түрі
+appearance-group =
+    .label = Веб-сайттың сыртқы түрі
+    .description = Кейбір веб-сайттар түс схемасын сіздің қалауыңызға қарай бейімдейді. Сол сайттар үшін қандай түс схемасын пайдаланғыңыз келетінін таңдаңыз.
 preferences-web-appearance-header = Веб-сайттың сыртқы түрі
 preferences-web-appearance-description = Кейбір веб-сайттар түс схемасын сіздің қалауыңызға қарай бейімдейді. Сол сайттар үшін қандай түс схемасын пайдаланғыңыз келетінін таңдаңыз.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Файлдарды ашу немесе сақтауды сұрау
     .accesskey = а
+drm-group =
+    .label = Цифрлық құқықтарды басқару (DRM) құрамасы
 drm-content-header = Цифрлық құқықтарды басқару (DRM) құрамасы
 play-drm-content =
     .label = DRM-басқарылатын құрамасын ойнау
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Процесстер санын
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (негізгі)
+performance-group =
+    .label = Өнімділік
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Шолу кезінде мүмкіндіктерді ұсыну
     .accesskey = м
 browsing-cfr-recommendations-learn-more = Көбірек білу
+browsing-group =
+    .label = Сайттарды қарау
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Көбірек білу
 network-proxy-connection-settings =
     .label = Баптау…
     .accesskey = а
+network-proxy-group =
+    .label = Желі баптаулары
+    .description = { -brand-short-name } интернетпен қалай байланысатынын баптау
 
 ## Home Section
 
 home-new-windows-tabs-header = Жаңа терезелер мен беттер
 home-new-windows-tabs-description2 = Үй парағын, жаңа терезелер және беттерді ашқан кезде көретін нәрселерді таңдаңыз.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Негізгі браузер қылу
+    .accesskey = Н
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1505,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Адрестер және т.б
+payments-group =
+    .label = Төлем әдістері
 
 ## Privacy Section - History
 
@@ -1514,6 +1540,15 @@ history-remember-option-never =
     .label = тарихты ешқашан сақтамайды
 history-remember-option-custom =
     .label = қолдан көрсетілген тарих баптауын қолданады
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } сіздің шолу, жүктемелер, формалар және іздеулер тарихын сақтайтын болады.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } сіздің шолу, жүктеу, формалар және іздеу тарихыңызға арналған жеке баптауларды қолданады.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } сіздің шолу, жүктемелер, формалар және іздеулер тарихын сақтайтын болады.
@@ -1543,6 +1578,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Тарихты тазарту…
     .accesskey = з
+history-group =
+    .label = Тарих
 
 ## Privacy Section - Site Data
 
@@ -1609,6 +1646,8 @@ sitedata-cookies-exceptions2 =
     .label = Ережеден тыс жағдайларды басқару
     .accesskey = ы
     .description = Қай веб-сайттарға cookie файлдары мен сайт деректерін әрқашан немесе ешқашан қолдануға рұқсат етілетінін көрсете аласыз.
+cookies-site-data-group =
+    .label = Cookies файлдары және сайт деректері
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2040,8 @@ website-advertising-private-attribution-description = Бұл сайттарға 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Қауіпсіздік
+browsing-protection-group =
+    .label = Жалған істелген мазмұн және қауіпті бағдарламалық қамтамадан қорғаныс
 security-browsing-protection = Жалған істелген мазмұн және қауіпті бағдарламалық қамтамадан қорғаныс
 security-enable-safe-browsing =
     .label = Қауіпті және алдамшы құраманы блоктау
@@ -2057,10 +2098,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } кейбір қосылымдарды жаңарта алады
 httpsonly-radio-disabled =
     .label = Тек-HTTPS режимін іске қоспау
+httpsonly-group =
+    .label = Тек-HTTPS режимі
+    .description = Веб-сайттарға так қауіпсіз қосылуға рұқсат береді. Қауіпсіз емес қосылым орнатылмас бұрын { -brand-short-name } сізден сұрайды.
 
 ## DoH Section
 
 preferences-doh-header = HTTPS арқылы DNS
+dns-over-https-group =
+    .label = HTTPS арқылы DNS
 preferences-doh-description = HTTPS арқылы домендік атаулар жүйесі (DNS) шифрленген байланыс арқылы домендік атқа сұрауыңызды жібереді, осылай ол қауіпсіз DNS жасайды және басқаларға қай веб-сайтқа кіргіңіз келетінін көруді қиындатады.
 preferences-doh-description2 = HTTPS арқылы домендік атаулар жүйесі (DNS) шифрленген байланыс арқылы домендік атқа сұрауыңызды жібереді, осылай ол қауіпсіз DNS ұсынады және басқаларға қай веб-сайтқа кіргіңіз келетінін көруді қиындатады.
 # Variables:

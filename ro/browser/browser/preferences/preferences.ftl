@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Spune site-urilor web să nu-mi vândă sau să nu-mi partajeze datele
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferințe de confidențialitate pe site-uri web
 non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Setări…
     .accesskey = t
 containers-disable-alert-title = Închizi toate filele container?
+startup-group =
+    .label = Pornire
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -297,6 +301,9 @@ browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon,
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbă și aspect
+appearance-group =
+    .label = Aspectul site-urilor web
+    .description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
 preferences-web-appearance-header = Aspectul site-urilor web
 preferences-web-appearance-description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
 preferences-web-appearance-choice-auto2 =
@@ -586,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Să întrebe dacă să deschidă sau să salveze fișierele
     .accesskey = A
+drm-group =
+    .label = Conținut Digital Rights Management (DRM)
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
     .label = Redă conținut controlat prin DRM
@@ -664,6 +673,8 @@ performance-limit-content-process-blocked-desc = Modificarea numărului de proce
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (implicită)
+performance-group =
+    .label = Performanță
 
 ## General Section - Browsing
 
@@ -712,6 +723,8 @@ browsing-cfr-features =
     .label = Funcționalități recomandate în timpul navigării
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Află mai multe
+browsing-group =
+    .label = Navigare
 
 ## General Section - Proxy
 
@@ -721,11 +734,20 @@ network-proxy-connection-learn-more = Află mai multe
 network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
+network-proxy-group =
+    .label = Setări de rețea
+    .description = Configurează modul în care { -brand-short-name } se conectează la internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Ferestre și file noi
 home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de start, ferestre noi și file noi.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Setează ca implicit
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1487,6 +1509,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adrese și multe altele
+payments-group =
+    .label = Metode de plată
 
 ## Privacy Section - History
 
@@ -1518,6 +1544,15 @@ history-remember-option-never =
     .label = Nu va ține minte istoricul niciodată
 history-remember-option-custom =
     .label = Va folosi setări personalizate pentru istoric
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } va folosi setări personalizate pentru navigare, descărcări, formulare și istoricul căutărilor.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
@@ -1547,6 +1582,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Șterge istoricul…
     .accesskey = s
+history-group =
+    .label = Istoric
 
 ## Privacy Section - Site Data
 
@@ -1613,6 +1650,8 @@ sitedata-cookies-exceptions2 =
     .label = Gestionează excepțiile
     .accesskey = x
     .description = Poți specifica ce site-uri au întotdeauna permisiunea sau interdicția de a folosi cookie-uri și date despre site-uri.
+cookies-site-data-group =
+    .label = Cookie-uri și date ale site-urilor
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2005,6 +2044,8 @@ website-advertising-private-attribution-description = Ajută site-urile să în�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+browsing-protection-group =
+    .label = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-browsing-protection = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
@@ -2061,10 +2102,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } poate încă activa modul pe unele conexiuni
 httpsonly-radio-disabled =
     .label = Nu activa modul numai HTTPS
+httpsonly-group =
+    .label = Mod numai HTTPS
+    .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 
 ## DoH Section
 
 preferences-doh-header = DNS prin HTTPS
+dns-over-https-group =
+    .label = DNS prin HTTPS
 preferences-doh-description = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 preferences-doh-description2 = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 # Variables:

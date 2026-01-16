@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Segja vefsvæðum að selja ekki eða deila gögnunum mínum
     .accesskey = S
+non-technical-privacy-group =
+    .label = Persónuverndarstefna vefsvæðis
 non-technical-privacy-header = Persónuverndarstefna vefsvæðis
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -217,6 +219,8 @@ browser-containers-settings =
     .label = Stillingar…
     .accesskey = i
 containers-disable-alert-title = Loka öllum sérefnisflipum?
+startup-group =
+    .label = Ræsing
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -262,6 +266,9 @@ browser-layout-show-sidebar-desc = Fáðu einfaldan aðgang að bókamerkjum, fl
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tungumál og útlit
+appearance-group =
+    .label = Útlit vefsvæðis
+    .description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
 preferences-web-appearance-header = Útlit vefsvæðis
 preferences-web-appearance-description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
 preferences-web-appearance-choice-auto2 =
@@ -482,6 +489,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spyrja hvort eigi að opna eða vista skrár
     .accesskey = a
+drm-group =
+    .label = Digital Rights Management (DRM) efni
 drm-content-header = Digital Rights Management (DRM) efni
 play-drm-content =
     .label = Spila efni sem notar DRM
@@ -531,6 +540,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -550,6 +562,8 @@ performance-limit-content-process-blocked-desc = Aðeins er hægt að breyta fj�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (sjálfgefið)
+performance-group =
+    .label = Afköst
 
 ## General Section - Browsing
 
@@ -595,6 +609,8 @@ browsing-cfr-features =
     .label = Stinga uppá virkni er þú vafrar
     .accesskey = S
 browsing-cfr-recommendations-learn-more = Kanna nánar
+browsing-group =
+    .label = Leit
 
 ## General Section - Proxy
 
@@ -604,11 +620,20 @@ network-proxy-connection-learn-more = Kanna nánar
 network-proxy-connection-settings =
     .label = Stillingar…
     .accesskey = S
+network-proxy-group =
+    .label = Stillingar netkerfis
+    .description = Stilla hvernig { -brand-short-name } tengist við internetið.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nýir gluggar og flipar
 home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar upphafssíðuna þína, nýja glugga og nýja flipa.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Gera sjálfgefið
+    .accesskey = s
 
 ## Custom Homepage subpage
 
@@ -641,6 +666,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -856,6 +887,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1156,6 +1192,10 @@ autofill-addresses-manage-addresses-button =
     .accesskey = m
 autofill-addresses-manage-addresses-title =
     .heading = Sýsla með heimilisföng og fleira
+addresses-group =
+    .label = Heimilisföng og fleira
+payments-group =
+    .label = Greiðslumátar
 
 ## Privacy Section - History
 
@@ -1187,6 +1227,12 @@ history-remember-option-never =
     .label = Aldrei geyma feril
 history-remember-option-custom =
     .label = Nota sérsniðnar stillingar fyrir feril
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
@@ -1213,6 +1259,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Hreinsa feril…
     .accesskey = s
+history-group =
+    .label = Ferill
 
 ## Privacy Section - Site Data
 
@@ -1275,6 +1323,8 @@ sitedata-cookies-exceptions2 =
     .label = Sýsla með undantekningar
     .accesskey = u
     .description = Þú getur tilgreint hvaða vefsvæðum sé leyft eða aldrei leyft að nota vefkökur og vafurgögn.
+cookies-site-data-group =
+    .label = Vefkökur og gögn vefsvæðis
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1612,6 +1662,8 @@ website-advertising-private-attribution-description = Þetta hjálpar vefsvæðu
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Öryggi
+browsing-protection-group =
+    .label = Vörn gegn svikaefni og hættulegum hugbúnaði
 security-browsing-protection = Vörn gegn svikaefni og hættulegum hugbúnaði
 security-enable-safe-browsing =
     .label = Loka fyrir hættulegt og villandi efni
@@ -1668,10 +1720,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } gæti samt uppfært sumar tengingar
 httpsonly-radio-disabled =
     .label = Ekki virkja Einungis-HTTPS-ham
+httpsonly-group =
+    .label = Einungis-HTTPS-hamur
+    .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 
 ## DoH Section
 
 preferences-doh-header = DNS yfir HTTPS
+dns-over-https-group =
+    .label = DNS yfir HTTPS
 preferences-doh-description = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, útbýr öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 preferences-doh-description2 = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, veitir öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 # Variables:

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dizer aos sites para não venderem ou partilharem os meus dados
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferências de Privacidade do Site
 non-technical-privacy-header = Preferências de Privacidade do Site
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -221,6 +223,8 @@ browser-containers-settings =
     .label = Definições…
     .accesskey = i
 containers-disable-alert-title = Fechar todos os separadores contentores?
+startup-group =
+    .label = Inicialização
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -266,6 +270,9 @@ browser-layout-show-sidebar-desc = Aceda rapidamente a marcadores, separadores d
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aspeto
+appearance-group =
+    .label = Aspeto do site
+    .description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
 preferences-web-appearance-header = Aspeto do site
 preferences-web-appearance-description = Alguns sites adaptam o seu esquema de cores com base nas suas preferências. Escolha qual o esquema de cores que gostaria de usar para esses sites.
 preferences-web-appearance-choice-auto2 =
@@ -488,6 +495,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pedir se deseja abrir ou guardar ficheiros
     .accesskey = P
+drm-group =
+    .label = Conteúdo com Gestão de Direitos Digitais (DRM)
 drm-content-header = Conteúdo com Gestão de Direitos Digitais (DRM)
 play-drm-content =
     .label = Reproduzir conteúdo controlado por DRM
@@ -537,6 +546,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -556,6 +568,8 @@ performance-limit-content-process-blocked-desc = Modificar o número de processo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinição)
+performance-group =
+    .label = Desempenho
 
 ## General Section - Browsing
 
@@ -601,6 +615,8 @@ browsing-cfr-features =
     .label = Recomendar funcionalidades enquanto navega
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saber mais
+browsing-group =
+    .label = Navegação
 
 ## General Section - Proxy
 
@@ -610,11 +626,20 @@ network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
+network-proxy-group =
+    .label = Definições de rede
+    .description = Configure como o { -brand-short-name } se liga à internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e separadores
 home-new-windows-tabs-description2 = Escolha o que vê quando abre a sua página inicial, novas janelas, e novos separadores.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Predefinir
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -654,6 +679,9 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 home-homepage-header = Página inicial
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -914,6 +942,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1210,6 +1243,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gerir endereços e mais
     .accesskey = m
+addresses-group =
+    .label = Endereços e mais
+payments-group =
+    .label = Métodos de pagamento
 
 ## Privacy Section - History
 
@@ -1241,6 +1278,12 @@ history-remember-option-never =
     .label = Nunca memorizar histórico
 history-remember-option-custom =
     .label = Utilizar definições personalizadas para o histórico
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = O { -brand-short-name } irá memorizar o seu histórico de navegação, transferências, formulários e pesquisa.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = O { -brand-short-name } irá utilizar as mesmas definições da navegação privada e não irá memorizar qualquer histórico enquanto navega na Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = O { -brand-short-name } irá memorizar o seu histórico de navegação, transferências, formulários e pesquisa.
@@ -1267,6 +1310,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = s
+history-group =
+    .label = Histórico
 
 ## Privacy Section - Site Data
 
@@ -1333,6 +1378,8 @@ sitedata-cookies-exceptions2 =
     .label = Gerir exceções
     .accesskey = x
     .description = Pode especificar que sites que estão, sempre ou nunca, autorizados a utilizar os cookies e os dados de sites.
+cookies-site-data-group =
+    .label = Cookies e dados de sites
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1680,6 +1727,8 @@ website-advertising-private-attribution-description = Isto ajuda os sites a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
+browsing-protection-group =
+    .label = Conteúdo decetivo e proteção contra software perigoso
 security-browsing-protection = Conteúdo decetivo e proteção contra software perigoso
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e decetivo
@@ -1736,10 +1785,15 @@ httpsonly-radio-disabled3 =
     .description = O { -brand-short-name } pode, ainda assim, atualizar algumas ligações
 httpsonly-radio-disabled =
     .label = Não ativar o modo apenas HTTPS
+httpsonly-group =
+    .label = Modo apenas HTTPS
+    .description = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
 
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 preferences-doh-description2 = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, fornecendo um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 # Variables:

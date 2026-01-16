@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dîs ai sîts web di no sta vendi o condividi i miei dâts
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencis pe riservatece dai sîts web
 non-technical-privacy-header = Preferencis pe riservatece dai sîts web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Impostazions…
     .accesskey = I
 containers-disable-alert-title = Sierâ dutis lis schedis contignidôr?
+startup-group =
+    .label = Inviament
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Rive intun lamp a segnelibris, schedis dal to
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lenghe e aspiet
+appearance-group =
+    .label = Aspiet dai sîts web
+    .description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
 preferences-web-appearance-header = Aspiet dai sîts web
 preferences-web-appearance-description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Domande se vierzi o salvâ i files
     .accesskey = D
+drm-group =
+    .label = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 drm-content-header = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 play-drm-content =
     .label = Riprodûs contignût protet di DRM
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Si pues modificâ il numar di p
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinît)
+performance-group =
+    .label = Prestazions
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Consee funzionalitâts intant che tu navighis
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Plui informazions
+browsing-group =
+    .label = Navigazion
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Plui informazions
 network-proxy-connection-settings =
     .label = Impostazions…
     .accesskey = I
+network-proxy-group =
+    .label = Impostazions di rêt
+    .description = Configure cemût che { -brand-short-name } si conet a internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Gnûfs barcons e schedis
 home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzis la pagjine iniziâl, i gnûfs barcons e lis gnovis schedis.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Definìs come predefinît
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1493,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Recapits e altris dâts
+payments-group =
+    .label = Metodis di paiament
 
 ## Privacy Section - History
 
@@ -1502,6 +1528,15 @@ history-remember-option-never =
     .label = No si visarà mai la cronologjie
 history-remember-option-custom =
     .label = Al doprarà lis impostazions personalizadis pe cronologjie
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } al doprarà impostazions personalizadis pe navigazion, par discjariâ, pai formularis e pe cronologjie di ricercje.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
@@ -1531,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Nete la cronologjie…
     .accesskey = s
+history-group =
+    .label = Cronologjie
 
 ## Privacy Section - Site Data
 
@@ -1597,6 +1634,8 @@ sitedata-cookies-exceptions2 =
     .label = Gjestìs ecezions
     .accesskey = c
     .description = Tu puedis specificâ i sîts web che ur ven simpri o mai concedude la utilizazion di cookies e dâts dai sîts.
+cookies-site-data-group =
+    .label = Cookies e dâts dai sîts
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1986,6 +2025,8 @@ website-advertising-private-attribution-description = Chest al permet ai sîts d
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurece
+browsing-protection-group =
+    .label = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-browsing-protection = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-enable-safe-browsing =
     .label = Bloche i contignûts pericolôs e ingjanôs
@@ -2042,10 +2083,15 @@ httpsonly-radio-disabled3 =
     .description = Al è pussibil che { -brand-short-name } al inzorni distès cualchi conession
 httpsonly-radio-disabled =
     .label = No sta abilitâ la modalitât Dome-HTTPS
+httpsonly-group =
+    .label = Modalitât Dome-HTTPS
+    .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 
 ## DoH Section
 
 preferences-doh-header = DNS sore HTTPS
+dns-over-https-group =
+    .label = DNS sore HTTPS
 preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
 preferences-doh-description2 = Il sisteme di risoluzion dai nons di domini (DNS) sore HTTPS al invie lis richiestis pai nons di domini a traviers di une conession cifrade, furnint un DNS sigûr e fasint in mût che al sedi plui dificil scuvierzi i sîts web che tu stâs par visitâ.
 # Variables:

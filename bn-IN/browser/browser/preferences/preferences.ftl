@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = সেটিংস…
     .accesskey = i
 containers-disable-alert-title = সমস্ত কন্টেইনার ট্যাব বন্ধ করবেন?
+startup-group =
+    .label = প্রারম্ভ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -249,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = ডিজিটাল রাইটস ম্যানেজমেন্ট (DRM) বিষয়বস্তু
 drm-content-header = ডিজিটাল রাইটস ম্যানেজমেন্ট (DRM) বিষয়বস্তু
 play-drm-content =
     .label = DRM-নিয়ন্ত্রিত বিষয়বস্তু চালান
@@ -296,6 +300,8 @@ performance-limit-content-process-blocked-desc = কন্টেন্ট প্
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ডিফল্ট)
+performance-group =
+    .label = কার্যকারিতা
 
 ## General Section - Browsing
 
@@ -319,6 +325,8 @@ browsing-cfr-recommendations =
     .label = আপনি ব্রাউজ করেন এমন প্রস্তাবিত এক্সটেনশন
     .accesskey = R
 browsing-cfr-recommendations-learn-more = আরো জানুন
+browsing-group =
+    .label = ব্রাউজ করা
 
 ## General Section - Proxy
 
@@ -328,11 +336,20 @@ network-proxy-connection-learn-more = আরো জানুন
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = ব
+network-proxy-group =
+    .label = নেটওয়ার্ক সেটিংস
+    .description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
 
 ## Home Section
 
 home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাবগুলি
 home-new-windows-tabs-description2 = হোমপেজ, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = ডিফল্ট বানান
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -649,6 +666,12 @@ history-remember-option-never =
     .label = পূর্ববর্তী তথ্য কখনো মনে রাখা হবে না
 history-remember-option-custom =
     .label = পূর্ববর্তী তথ্য সম্বন্ধীয় স্বনির্ধারিত বৈশিষ্ট্য ব্যবহার করা হবে
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
@@ -675,6 +698,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ইতিহাস মুছে ফেলুন…
     .accesskey = s
+history-group =
+    .label = পূর্ববর্তী তথ্য
 
 ## Privacy Section - Site Data
 
@@ -704,6 +729,8 @@ sitedata-clear =
 sitedata-settings =
     .label = তথ্যের ব্যবস্থাপনা…
     .accesskey = M
+cookies-site-data-group =
+    .label = কুকি এবং সাইটের তথ্য
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -711,7 +738,7 @@ sitedata-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ঠিকানা বার
 addressbar-suggest = ঠিকানা বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে
@@ -810,6 +837,8 @@ collection-health-report-disabled = এই বিল্ড কনফিগার
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = নিরাপত্তা
+browsing-protection-group =
+    .label = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-browsing-protection = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-enable-safe-browsing =
     .label = বিপজ্জনক এবং প্রতারণামূলক কন্টেন্ট ব্লক করুন

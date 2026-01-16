@@ -149,6 +149,8 @@ browser-containers-settings =
     .label = Settins…
     .accesskey = i
 containers-disable-alert-title = Sneck Aw Conteener Tabs?
+startup-group =
+    .label = Stertup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -334,6 +336,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Digital Richts Management (DRM) Content
 drm-content-header = Digital Richts Management (DRM) Content
 play-drm-content =
     .label = Pley DRM-controlled content
@@ -380,6 +384,9 @@ update-in-progress-ok-button = &Discaird
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Haud Forrit
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -399,6 +406,8 @@ performance-limit-content-process-blocked-desc = Chyngin the nummer o content pr
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (staunart)
+performance-group =
+    .label = Performance
 
 ## General Section - Browsing
 
@@ -433,6 +442,8 @@ browsing-cfr-features =
     .label = Recommend featurs as ye stravaig
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Lairn mair
+browsing-group =
+    .label = Stravaigin
 
 ## General Section - Proxy
 
@@ -442,11 +453,20 @@ network-proxy-connection-learn-more = Lairn mair
 network-proxy-connection-settings =
     .label = Settins…
     .accesskey = e
+network-proxy-group =
+    .label = Netwark settins
+    .description = Confeegur how { -brand-short-name } connects tae the internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = New Windaes and Tabs
 home-new-windows-tabs-description2 = Decide whit ye see when ye open yer hamepage, new windaes, and new tabs.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Mak Staunart
+    .accesskey = S
 
 ## Custom Homepage subpage
 
@@ -477,6 +497,12 @@ use-current-pages =
 choose-bookmark =
     .label = Yaise Buikmerk...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -654,6 +680,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -852,6 +883,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historie
@@ -882,6 +916,12 @@ history-remember-option-never =
     .label = Nivver mind yer historie
 history-remember-option-custom =
     .label = Yaise custom settins for historie
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
@@ -908,6 +948,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Dicht Historie…
     .accesskey = s
+history-group =
+    .label = Historie
 
 ## Privacy Section - Site Data
 
@@ -951,6 +993,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies and Site Data
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1138,12 +1188,17 @@ collection-health-report-disabled = Data reportin is disabled fur this build con
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siccarness
+browsing-protection-group =
+    .label = Begowkin Content and Uncannie Saftware Bieldin
 security-browsing-protection = Begowkin Content and Uncannie Saftware Bieldin
 security-enable-safe-browsing =
     .label = Block uncannie and begowkin content
@@ -1186,6 +1241,9 @@ httpsonly-radio-enabled-pbm =
     .label = Yaise HTTPS-Anely Mode in private windaes, jist
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

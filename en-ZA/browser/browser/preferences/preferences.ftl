@@ -64,6 +64,8 @@ browser-containers-enabled =
     .label = Enable Container Tabs
     .accesskey = n
 browser-containers-learn-more = Learn more
+startup-group =
+    .label = Startup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -195,6 +197,8 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -203,6 +207,9 @@ network-proxy-connection-settings =
     .accesskey = e
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -221,6 +228,9 @@ use-current-pages =
 choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -294,9 +304,15 @@ sync-profile-picture-with-alt =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = ​ { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email } ​
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -368,6 +384,9 @@ history-remember-option-never =
     .label = Never remember history
 history-remember-option-custom =
     .label = Use custom settings for history
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
@@ -384,6 +403,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Settings…
     .accesskey = t
+history-group =
+    .label = History
 
 ## Privacy Section - Site Data
 
@@ -394,7 +415,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Bookmarks

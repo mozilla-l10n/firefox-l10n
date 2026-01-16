@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Уведомяване на сайтовете да не продават или споделят мои данни
     .accesskey = с
+non-technical-privacy-group =
+    .label = Предпочитания за поверителност към сайтовете
 non-technical-privacy-header = Предпочитания за поверителност към сайтовете
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -213,6 +215,8 @@ browser-containers-settings =
     .label = Настройки…
     .accesskey = а
 containers-disable-alert-title = Затваряне на всички изолирани раздели?
+startup-group =
+    .label = Стартиране
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -258,6 +262,9 @@ browser-layout-show-sidebar-desc = Бърз достъп до отметки, р
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Език и изглед
+appearance-group =
+    .label = Изглед на страниците
+    .description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-header = Изглед на страниците
 preferences-web-appearance-description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-choice-auto2 =
@@ -474,6 +481,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Питане за отваряне или за запазване на файловете
     .accesskey = П
+drm-group =
+    .label = Съдържание с цифрови права (DRM)
 drm-content-header = Съдържание с цифрови права (DRM)
 play-drm-content =
     .label = Изпълняване на съдържание под DRM
@@ -523,6 +532,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -542,6 +554,8 @@ performance-limit-content-process-blocked-desc = Променянето на б�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (по подразбиране)
+performance-group =
+    .label = Производителност
 
 ## General Section - Browsing
 
@@ -585,6 +599,8 @@ browsing-cfr-features =
     .label = Препоръчване на възможности
     .accesskey = в
 browsing-cfr-recommendations-learn-more = Научете повече
+browsing-group =
+    .label = Разглеждане
 
 ## General Section - Proxy
 
@@ -594,11 +610,20 @@ network-proxy-connection-learn-more = Научете повече
 network-proxy-connection-settings =
     .label = Настройки…
     .accesskey = Н
+network-proxy-group =
+    .label = Настройки на мрежата
+    .description = Настройване на достъпа до интернет от { -brand-short-name }.
 
 ## Home Section
 
 home-new-windows-tabs-header = Нови прозорци и раздели
 home-new-windows-tabs-description2 = Изберете какво да виждате при отваряне на началната страница, нови прозорци или раздели.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Задаване като стандартен
+    .accesskey = с
 
 ## Custom Homepage subpage
 
@@ -631,6 +656,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -838,6 +869,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1143,6 +1179,12 @@ history-remember-option-never =
     .label = не помни история
 history-remember-option-custom =
     .label = ползва потребителски настройки за историята
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
@@ -1169,6 +1211,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Изчистване на историята…
     .accesskey = и
+history-group =
+    .label = История
 
 ## Privacy Section - Site Data
 
@@ -1217,6 +1261,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Изключения…
     .accesskey = з
+cookies-site-data-group =
+    .label = Бисквитки и данни на страници
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1540,6 +1586,8 @@ website-advertising-private-attribution-description = Това помага на
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Защита
+browsing-protection-group =
+    .label = Измамно съдържание и защита от опасен софтуер
 security-browsing-protection = Измамно съдържание и защита от опасен софтуер
 security-enable-safe-browsing =
     .label = Блокиране на опасно и измамно съдържание
@@ -1593,6 +1641,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS през HTTPS
+dns-over-https-group =
+    .label = DNS през HTTPS
 preferences-doh-description = Системата за имена на домейни (DNS) през HTTPS изпраща вашата DNS заявка през шифрована връзка, създавайки сигурен DNS и затруднявайки трети страни да видят кой уебсайт искате да посетите.
 preferences-doh-description2 = Системата за имена на домейни (DNS) през HTTPS изпраща вашата DNS заявка през шифрована връзка, създавайки сигурен DNS и затруднявайки трети страни да видят кой уебсайт искате да посетите.
 # Variables:

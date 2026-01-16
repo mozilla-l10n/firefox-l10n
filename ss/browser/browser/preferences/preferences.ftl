@@ -79,6 +79,9 @@ applications-use-other-label =
 ##
 
 
+## Firefox support
+
+
 ## General Section - Performance
 
 
@@ -88,6 +91,8 @@ browsing-title = Tfunguluta
 browsing-use-smooth-scrolling =
     .label = Sebentisa kugicika lokushelelako
     .accesskey = s
+browsing-group =
+    .label = Tfunguluta
 
 ## General Section - Proxy
 
@@ -95,7 +100,13 @@ browsing-use-smooth-scrolling =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
+
+
+## Home Section - Home Page Customization
 
 
 ## Custom Homepage subpage
@@ -116,6 +127,9 @@ browsing-use-smooth-scrolling =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -125,6 +139,12 @@ browsing-use-smooth-scrolling =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -165,6 +185,8 @@ forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 ## Privacy Section - History
 
 history-header = Umlandvo
+history-group =
+    .label = Umlandvo
 
 ## Privacy Section - Site Data
 
@@ -175,7 +197,7 @@ history-header = Umlandvo
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = 要求网站不许出售或共享我的数据
     .accesskey = s
+non-technical-privacy-group =
+    .label = 网站隐私首选项
 non-technical-privacy-header = 网站隐私首选项
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = 设置…
     .accesskey = i
 containers-disable-alert-title = 关闭所有身份标签页？
+startup-group =
+    .label = 启动
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -290,6 +294,9 @@ browser-layout-show-sidebar-desc = 快捷使用书签、手机上的标签页、
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 语言与外观
+appearance-group =
+    .label = 网站外观
+    .description = 某些网站可依照您的偏好调整自身配色，您可在下方选择要使用的网站配色方案。
 preferences-web-appearance-header = 网站外观
 preferences-web-appearance-description = 某些网站可依照您的偏好调整自身配色，您可在下方选择要使用的网站配色方案。
 preferences-web-appearance-choice-auto2 =
@@ -579,6 +586,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = 询问要打开还是保存文件
     .accesskey = A
+drm-group =
+    .label = 采用数字版权管理（DRM）的内容
 drm-content-header = 采用数字版权管理（DRM）的内容
 play-drm-content =
     .label = 播放采用 DRM 的内容
@@ -657,6 +666,8 @@ performance-limit-content-process-blocked-desc = 仅在多进程 { -brand-short-
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (默认)
+performance-group =
+    .label = 性能
 
 ## General Section - Browsing
 
@@ -705,6 +716,8 @@ browsing-cfr-features =
     .label = 在您浏览时推荐新功能
     .accesskey = f
 browsing-cfr-recommendations-learn-more = 详细了解
+browsing-group =
+    .label = 浏览
 
 ## General Section - Proxy
 
@@ -714,11 +727,20 @@ network-proxy-connection-learn-more = 详细了解
 network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
+network-proxy-group =
+    .label = 网络设置
+    .description = 配置 { -brand-short-name } 如何连接互联网。
 
 ## Home Section
 
 home-new-windows-tabs-header = 新窗口和标签页
 home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标签页时要看到的内容。
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = 设为默认
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1475,6 +1497,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 地址等信息
+payments-group =
+    .label = 付款方式
 
 ## Privacy Section - History
 
@@ -1506,6 +1532,15 @@ history-remember-option-never =
     .label = 不记录历史
 history-remember-option-custom =
     .label = 使用自定义设置
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } 将使用自定义设置处理您的浏览、下载、表单和搜索记录。
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
@@ -1535,6 +1570,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 清除历史记录…
     .accesskey = s
+history-group =
+    .label = 历史记录
 
 ## Privacy Section - Site Data
 
@@ -1601,6 +1638,8 @@ sitedata-cookies-exceptions2 =
     .label = 管理例外
     .accesskey = x
     .description = 您可以指定一律允许或不允许哪些网站使用 Cookie 和网站数据。
+cookies-site-data-group =
+    .label = Cookie 和网站数据
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1993,6 +2032,8 @@ website-advertising-private-attribution-description = 此功能可帮助网站�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 安全
+browsing-protection-group =
+    .label = 欺诈内容和危险软件防护
 security-browsing-protection = 欺诈内容和危险软件防护
 security-enable-safe-browsing =
     .label = 拦截危险与诈骗内容
@@ -2049,10 +2090,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } 可能仍会为某些连接进行升级
 httpsonly-radio-disabled =
     .label = 不启用 HTTPS-Only 模式
+httpsonly-group =
+    .label = HTTPS-Only 模式
+    .description = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
 
 ## DoH Section
 
 preferences-doh-header = 基于 HTTPS 的 DNS
+dns-over-https-group =
+    .label = 基于 HTTPS 的 DNS
 preferences-doh-description = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而建立安全 DNS 连接，使他人更难得知您要访问的网站。
 preferences-doh-description2 = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而提供安全 DNS，使他人更难得知您要访问的网站。
 # Variables:

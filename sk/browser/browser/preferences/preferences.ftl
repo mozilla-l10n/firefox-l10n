@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Požiadať webové stránky, aby nepredávali ani nezdieľali moje údaje
     .accesskey = i
+non-technical-privacy-group =
+    .label = Predvoľby ochrany súkromia na webových stránkach
 non-technical-privacy-header = Predvoľby ochrany súkromia na webových stránkach
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Nastavenia…
     .accesskey = i
 containers-disable-alert-title = Zavrieť všetky kontajnerové karty?
+startup-group =
+    .label = Spustenie
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -297,6 +301,9 @@ browser-layout-show-sidebar-desc = Získajte rýchly prístup k záložkám, kar
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jazyk a vzhľad stránok
+appearance-group =
+    .label = Vzhľad webových stránok
+    .description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
 preferences-web-appearance-header = Vzhľad webových stránok
 preferences-web-appearance-description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
 preferences-web-appearance-choice-auto2 =
@@ -586,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Opýtať sa, či chcete súbory otvoriť alebo uložiť
     .accesskey = O
+drm-group =
+    .label = Obsah chránený pomocou Digital Rights Management (DRM)
 drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
 play-drm-content =
     .label = Prehrávať obsah chránený pomocou DRM
@@ -664,6 +673,8 @@ performance-limit-content-process-blocked-desc = Zmena počtu procesov s obsahom
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predvolená)
+performance-group =
+    .label = Výkon
 
 ## General Section - Browsing
 
@@ -712,6 +723,8 @@ browsing-cfr-features =
     .label = Odporúčať funkcie počas prehliadania
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Ďalšie informácie
+browsing-group =
+    .label = Prehliadanie
 
 ## General Section - Proxy
 
@@ -721,11 +734,20 @@ network-proxy-connection-learn-more = Ďalšie informácie
 network-proxy-connection-settings =
     .label = Nastavenia…
     .accesskey = N
+network-proxy-group =
+    .label = Nastavenia siete
+    .description = Konfigurovať, ako sa aplikácia { -brand-short-name } pripája k internetu.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nové okná a karty
 home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zobrazovanú pri otvorení nových okien a kariet.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Nastaviť ako predvolený
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -1481,6 +1503,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresy a ďalšie
+payments-group =
+    .label = Spôsoby platby
 
 ## Privacy Section - History
 
@@ -1512,6 +1538,15 @@ history-remember-option-never =
     .label = Nikdy neukladať históriu prehliadania
 history-remember-option-custom =
     .label = Použiť vlastné nastavenia
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } si bude pamätať históriu vášho prehliadania, sťahovania, formulárov a vyhľadávania.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } použije totožné nastavenia s režimom súkromného prehliadania a nebude si pamätať žiadnu históriu prehliadania webu.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } použije vlastné nastavenia pre vašu históriu prehliadania, sťahovania, formulárov a vyhľadávania.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } si bude pamätať históriu vášho prehliadania, sťahovania, formulárov a vyhľadávania.
@@ -1541,6 +1576,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vymazať históriu…
     .accesskey = s
+history-group =
+    .label = História
 
 ## Privacy Section - Site Data
 
@@ -1607,6 +1644,8 @@ sitedata-cookies-exceptions2 =
     .label = Spravovať výnimky
     .accesskey = r
     .description = Môžete určiť, ktoré webové stránky môžu vždy alebo nesmú nikdy používať súbory cookie a údaje stránok.
+cookies-site-data-group =
+    .label = Cookies a údaje stránok
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1996,6 +2035,8 @@ website-advertising-private-attribution-description = Toto pomáha webom pochopi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpečnosť
+browsing-protection-group =
+    .label = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-browsing-protection = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-enable-safe-browsing =
     .label = Blokovať nebezpečný a podvodný obsah
@@ -2052,10 +2093,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } môže stále zmeniť niektoré pripojenia
 httpsonly-radio-disabled =
     .label = Nezapínať režim "Len HTTPS"
+httpsonly-group =
+    .label = Režim "Len HTTPS"
+    .description = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 
 ## DoH Section
 
 preferences-doh-header = DNS cez HTTPS
+dns-over-https-group =
+    .label = DNS cez HTTPS
 preferences-doh-description = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím vytvorí zabezpečené DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 preferences-doh-description2 = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím zabezpečí DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 # Variables:

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Web sitelerine verilerimi satmamalarını ve paylaşmamalarını söyle
     .accesskey = W
+non-technical-privacy-group =
+    .label = Web sitesi gizlilik tercihleri
 non-technical-privacy-header = Web sitesi gizlilik tercihleri
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Ayarlar…
     .accesskey = A
 containers-disable-alert-title = Tüm kapsayıcı sekmeler kapatılsın mı?
+startup-group =
+    .label = Başlangıç
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Ana görünümünüzden ayrılmadan yer imler
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Dil ve görünüm
+appearance-group =
+    .label = Web sitesi görünümü
+    .description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
 preferences-web-appearance-header = Web sitesi görünümü
 preferences-web-appearance-description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Dosyaları açmayı veya kaydetmeyi sor
     .accesskey = o
+drm-group =
+    .label = Sayısal Hak Yönetimi (DRM) içerikleri
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
     .label = DRM denetimli içerikleri oynat
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = İçerik işlemi sayısını de
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (varsayılan)
+performance-group =
+    .label = Performans
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Gezinirken yeni özellikler öner
     .accesskey = z
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
+browsing-group =
+    .label = Gezinti
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
+network-proxy-group =
+    .label = Ağ ayarları
+    .description = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını yapılandırın.
 
 ## Home Section
 
 home-new-windows-tabs-header = Yeni pencere ve sekmeler
 home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yeni sekmeleri açtığınızda ne görmek istediğinizi seçin.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Varsayılan yap
+    .accesskey = a
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1499,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresler ve daha fazlası
+payments-group =
+    .label = Ödeme yöntemleri
 
 ## Privacy Section - History
 
@@ -1508,6 +1534,15 @@ history-remember-option-never =
     .label = geçmişi asla hatırlamasın
 history-remember-option-custom =
     .label = geçmiş için özel ayarları kullansın
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişleriniz için özel ayarlar kullanacak.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
@@ -1537,6 +1572,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Geçmişi temizle…
     .accesskey = G
+history-group =
+    .label = Geçmiş
 
 ## Privacy Section - Site Data
 
@@ -1603,6 +1640,8 @@ sitedata-cookies-exceptions2 =
     .label = İstisnaları yönet
     .accesskey = s
     .description = Hangi sitelerin çerezleri ve site verilerini her zaman kullanabileceğini veya hiçbir zaman kullanamayacağını belirleyebilirsiniz.
+cookies-site-data-group =
+    .label = Çerezler ve site verileri
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1992,6 +2031,8 @@ website-advertising-private-attribution-description = Bu sayede siteler sizin ha
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Güvenlik
+browsing-protection-group =
+    .label = Aldatıcı içerik ve tehlikeli yazılım koruması
 security-browsing-protection = Aldatıcı içerik ve tehlikeli yazılım koruması
 security-enable-safe-browsing =
     .label = Tehlikeli ve aldatıcı içerikleri engelle
@@ -2048,10 +2089,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } yine de bazı bağlantıları HTTPS’e yükseltebilir
 httpsonly-radio-disabled =
     .label = Yalnızca HTTPS modunu etkinleştirme
+httpsonly-group =
+    .label = Yalnızca HTTPS modu
+    .description = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
 
 ## DoH Section
 
 preferences-doh-header = HTTPS üzerinden DNS
+dns-over-https-group =
+    .label = HTTPS üzerinden DNS
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:

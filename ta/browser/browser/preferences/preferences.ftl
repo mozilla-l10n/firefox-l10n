@@ -98,6 +98,8 @@ browser-containers-settings =
     .label = அமைவுகள்…
     .accesskey = i
 containers-disable-alert-title = அனைத்து கலன் கீற்றுகளையும் மூடவா?
+startup-group =
+    .label = துவக்கம்
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -242,6 +244,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
 drm-content-header = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
 play-drm-content =
     .label = DRM உள்ளடக்கங்கத்தை இயக்கு
@@ -274,6 +278,9 @@ update-in-progress-ok-button = & நிராகரி
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &தொடரவும்
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = செயல்திறன்
@@ -293,6 +300,8 @@ performance-limit-content-process-blocked-desc = உள்ளடக்க செ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (முன்னிருப்பு)
+performance-group =
+    .label = செயல்திறன்
 
 ## General Section - Browsing
 
@@ -313,6 +322,8 @@ browsing-search-on-start-typing =
     .label = நீங்கள் தட்டச்சு செய்யத்தொடங்கும்போது உரையைத் தேடவும்
     .accesskey = x
 browsing-cfr-recommendations-learn-more = மேலும் அறிய
+browsing-group =
+    .label = உலாவல்
 
 ## General Section - Proxy
 
@@ -322,11 +333,20 @@ network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
+network-proxy-group =
+    .label = வலைதள அமைவுகள்
+    .description = { -brand-short-name } எவ்வாறு இணையத்துடன் இணைய வேண்டும் என்பதைக் கட்டமை.
 
 ## Home Section
 
 home-new-windows-tabs-header = புதிய சாளரங்களும் கீற்றுகளும்
 home-new-windows-tabs-description2 = முகப்புப்பக்கம், புதிய சாளங்கள், கீற்றுகளைத் திறக்கும்போது எவற்றைப் பார்க்கிறீர்கள் என்று  தேர்ந்தெடுங்கள்.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = முன்னிருப்பாக்கு
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -357,6 +377,12 @@ use-current-pages =
 choose-bookmark =
     .label = புத்தககுறியை பயன்படுத்தவும்...
     .accesskey = ப
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -453,6 +479,9 @@ containers-add-button =
 containers-remove-button =
     .label = நீக்கு
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -487,6 +516,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } இது உறுதிப்படுத்தவில்லை.
 sync-signedin-login-failure = தயவுச்செய்து மீண்டும் இணைய உள்நுழையவும் { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -498,6 +532,12 @@ sync-remove-account =
 sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -584,6 +624,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = வரலாறு
@@ -614,6 +660,12 @@ history-remember-option-never =
     .label = வரலாற்றை நினைவில் வைக்காது
 history-remember-option-custom =
     .label = வரலாறுக்கான விருப்பமை அமைவுகளைப் பாவிக்கும்
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } உங்கள் உலாவல், பதிவிறக்கம், படிவம் மற்றும் தேடல் வரலாற்றை நினைவிற்கொள்ளும்.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } உங்கள் உலாவல், பதிவிறக்கம், படிவம் மற்றும் தேடல் வரலாற்றை நினைவிற்கொள்ளும்.
@@ -640,6 +692,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = வரலாற்றைத் துடை
     .accesskey = s
+history-group =
+    .label = வரலாறு
 
 ## Privacy Section - Site Data
 
@@ -660,6 +714,14 @@ sitedata-clear =
 sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
+cookies-site-data-group =
+    .label = நினைவிகள் மற்றும் தள தரவு
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -693,6 +755,15 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -752,12 +823,17 @@ addon-recommendations-link = மேலும் அறிக
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = பாதுகாப்பு
+browsing-protection-group =
+    .label = ஏமாற்று உள்ளடக்கம் மற்றும் ஆபத்தான மென்பொருள் பாதுகாப்பு
 security-browsing-protection = ஏமாற்று உள்ளடக்கம் மற்றும் ஆபத்தான மென்பொருள் பாதுகாப்பு
 security-enable-safe-browsing =
     .label = ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு
@@ -783,6 +859,12 @@ certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
 certs-devices-enable-fips = FIPSஐ செயல்படுத்து
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

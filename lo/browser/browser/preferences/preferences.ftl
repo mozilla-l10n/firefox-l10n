@@ -143,6 +143,8 @@ browser-containers-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = ຕ
 containers-disable-alert-title = ປິດແຖບບັນຈຸທັງໝົດບໍ?
+startup-group =
+    .label = ເລີ່ມເຮັດວຽກ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -163,6 +165,9 @@ containers-remove-cancel-button = ຢ່າເອົາ Container ນີ້ອ�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ພາສາແລະລັກສະນະທີ່ປະກົດ
+appearance-group =
+    .label = ຮູບລັກສະນະຂອງເວັບໄຊທ໌
+    .description = ບາງເວັບໄຊທ໌ປັບປ່ຽນສີຂອງເຂົາເຈົ້າໂດຍອີງໃສ່ຄວາມມັກຂອງທ່ານ. ເລືອກຮູບແບບສີທີ່ທ່ານຕ້ອງການໃຊ້ສໍາລັບເວັບໄຊທ໌ເຫຼົ່ານັ້ນ.
 preferences-web-appearance-header = ຮູບລັກສະນະຂອງເວັບໄຊທ໌
 preferences-web-appearance-description = ບາງເວັບໄຊທ໌ປັບປ່ຽນສີຂອງເຂົາເຈົ້າໂດຍອີງໃສ່ຄວາມມັກຂອງທ່ານ. ເລືອກຮູບແບບສີທີ່ທ່ານຕ້ອງການໃຊ້ສໍາລັບເວັບໄຊທ໌ເຫຼົ່ານັ້ນ.
 preferences-web-appearance-choice-auto2 =
@@ -353,6 +358,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ຖາມວ່າຈະເປີດ ຫຼື ບັນທຶກໄຟລ໌
     .accesskey = A
+drm-group =
+    .label = ເນື້ອຫາການຄຸ້ມຄອງສິດທິດິຈິຕອນ (DRM).
 drm-content-header = ເນື້ອຫາການຄຸ້ມຄອງສິດທິດິຈິຕອນ (DRM).
 play-drm-content =
     .label = ຫຼິ້ນເນື້ອຫາທີ່ຄວບຄຸມໂດຍ DRM
@@ -402,6 +409,9 @@ update-in-progress-ok-button = &ຍົກເລີກ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ສືບຕໍ່
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ປະສິດທິພາບ
@@ -421,6 +431,8 @@ performance-limit-content-process-blocked-desc = ການແກ້ໄຂຈໍ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ຄ່າເລີ່ມຕົ້ນ)
+performance-group =
+    .label = ປະສິດທິພາບ
 
 ## General Section - Browsing
 
@@ -455,6 +467,8 @@ browsing-cfr-recommendations =
     .label = ແນະນຳການຂະຫຍາຍໃນຂະນະທີ່ທ່ານທ່ອງເວັບ
     .accesskey = R
 browsing-cfr-recommendations-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+browsing-group =
+    .label = ການທ່ອງເວັບ
 
 ## General Section - Proxy
 
@@ -464,11 +478,20 @@ network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີ
 network-proxy-connection-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = ຕ
+network-proxy-group =
+    .label = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
+    .description = ຕັ້ງຄ່າວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
 
 ## Home Section
 
 home-new-windows-tabs-header = ວິນໂດແລະແທັບໃຫມ່
 home-new-windows-tabs-description2 = ເລືອກສິ່ງທີ່ທ່ານຕ້ອງການເຫັນເມື່ອທ່ານເປີດຫນ້າຫລັກ, ຫນ້າຕ່າງໃຫມ່, ແລະແທັບໃຫມ່ຂອງທ່ານ.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ
+    .accesskey = ຄ
 
 ## Custom Homepage subpage
 
@@ -501,6 +524,12 @@ use-current-pages =
 choose-bookmark =
     .label = ໃຊ້ບຸກມາກ…
     .accesskey = ບ
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -683,6 +712,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ຍັງບໍ່ທັນຖືກກວດສອບ.
 sync-signedin-login-failure = ກະລຸນາລົງຊື່ເຂົ້າໃຊ້ເພື່ອເຊື່ອມຕໍ່ { $email } ໃຫມ່
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -867,6 +901,9 @@ primary-password-os-auth-dialog-message-win = ເພື່ອສ້າງລະ�
 primary-password-os-auth-dialog-message-macosx = ສ້າງລະຫັດຜ່ານຫຼັກ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ປະຫວັດ
@@ -897,6 +934,12 @@ history-remember-option-never =
     .label = ບໍ່ເຄີຍບັນທຶກປະຫວັດການໃຊ້ງານ
 history-remember-option-custom =
     .label = ໃຊ້ການຕັ້ງຄ່າຕາມໃຈສຳລັບປະຫວັດການໃຊ້ງານ
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ຈະບັນທຶກປະຫວັດການທ່ອງເວັບ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ການຊອກຫາຂອງທ່ານ.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ຈະໃຊ້ການຕັ້ງຄ່າດຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ ແລະ ຈະບໍ່ເກັບບັນດາເວັບໄຊຕ໌ທີ່ເຄີຍເຂົ້າມາກ່ອນ.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ຈະບັນທຶກປະຫວັດການທ່ອງເວັບ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ການຊອກຫາຂອງທ່ານ.
@@ -923,6 +966,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ລ້າງປະຫວັດ…
     .accesskey = s
+history-group =
+    .label = ປະຫວັດ
 
 ## Privacy Section - Site Data
 
@@ -965,6 +1010,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
     .accesskey = x
+cookies-site-data-group =
+    .label = ຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1175,12 +1222,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ຄວາມປອດໄພ
+browsing-protection-group =
+    .label = ການປ້ອງກັນເນື້ອຫາຫລອກລວງແລະຊອບແວທີ່ເປັນອັນຕະລາຍ
 security-browsing-protection = ການປ້ອງກັນເນື້ອຫາຫລອກລວງແລະຊອບແວທີ່ເປັນອັນຕະລາຍ
 security-enable-safe-browsing =
     .label = ປິດກັ້ນເນື້ອຫາທີ່ເປັນອັນຕະລາຍແລະຫລອກລວງ
@@ -1226,6 +1278,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS ຜ່ານ HTTPS
+dns-over-https-group =
+    .label = DNS ຜ່ານ HTTPS
 preferences-doh-description = ລະບົບຊື່ໂດເມນ (DNS) ຜ່ານ HTTPS ສົ່ງຄໍາຮ້ອງຂໍຂອງທ່ານສໍາລັບຊື່ໂດເມນໂດຍຜ່ານການເຊື່ອມຕໍ່ທີ່ຖືກເຂົ້າລະຫັດ, ສ້າງ DNS ທີ່ປອດໄພ ແລະ ເຮັດໃຫ້ມັນຍາກສໍາລັບຜູ້ອື່ນທີ່ຈະເບິ່ງວ່າເວັບໄຊທ໌ໃດທີ່ເຈົ້າກໍາລັງຈະເຂົ້າຫາ.
 # Variables:
 #   $status (string) - The status of the DoH connection

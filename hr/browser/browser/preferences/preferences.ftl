@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Reci web-stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
+non-technical-privacy-group =
+    .label = Postavke privatnosti web-stranica
 non-technical-privacy-header = Postavke privatnosti web-stranica
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Postavke …
     .accesskey = o
 containers-disable-alert-title = Zatvoriti sve kontejnerske kartice?
+startup-group =
+    .label = Pokretanje
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -297,6 +301,9 @@ browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s tele
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izgled
+appearance-group =
+    .label = Izgled web stranice
+    .description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-choice-auto2 =
@@ -586,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pitaj da li otvoriti ili spremiti datoteke
     .accesskey = P
+drm-group =
+    .label = Sadržaj kontroliran DRM-om (Digital Rights Management)
 drm-content-header = Sadržaj kontroliran DRM-om (Digital Rights Management)
 play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
@@ -664,6 +673,8 @@ performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standardno)
+performance-group =
+    .label = Performanca
 
 ## General Section - Browsing
 
@@ -712,6 +723,8 @@ browsing-cfr-features =
     .label = Preporuči funkcije tijekom pregledavanja
     .accesskey = m
 browsing-cfr-recommendations-learn-more = Saznaj više
+browsing-group =
+    .label = Pregledavanje
 
 ## General Section - Proxy
 
@@ -721,11 +734,20 @@ network-proxy-connection-learn-more = Saznaj više
 network-proxy-connection-settings =
     .label = Postavke …
     .accesskey = e
+network-proxy-group =
+    .label = Postavke mreže
+    .description = Postavi kako se { -brand-short-name } spaja na internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novi prozori i kartice
 home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš početnu stranicu, nove prozore i nove kartice.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Postavi kao standardni{ " " }
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -1467,6 +1489,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adrese i više
+payments-group =
+    .label = Načini plaćanja
 
 ## Privacy Section - History
 
@@ -1498,6 +1524,15 @@ history-remember-option-never =
     .label = zaboraviti povijest
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } će koristiti iste postavke kao i za privatno pregledavanje, te neće pamtiti povijest pregledavanja.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } će koristiti prilagođene postavke za tvoju povijest pregledavanja, preuzimanja, ispunjavanja obrazaca i pretraživanja.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
@@ -1527,6 +1562,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Izbriši povijest
     .accesskey = s
+history-group =
+    .label = Povijest
 
 ## Privacy Section - Site Data
 
@@ -1593,6 +1630,8 @@ sitedata-cookies-exceptions2 =
     .label = Upravljaj iznimkama
     .accesskey = v
     .description = Možeš odrediti koje web-stranice uvijek smiju ili nikada ne smiju koristiti kolačiće i podatke web-stranice.
+cookies-site-data-group =
+    .label = Kolačići i podaci web-stranice
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1980,6 +2019,8 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+browsing-protection-group =
+    .label = Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija
 security-browsing-protection = Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
@@ -2036,10 +2077,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } će možda i nadalje nadograditi neke veze
 httpsonly-radio-disabled =
     .label = Nemoj aktivirati „Samo HTTPS” modus
+httpsonly-group =
+    .label = „Samo HTTPS” modus
+    .description = Dozvoljava samo sigurne veze s web-stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS
+dns-over-https-group =
+    .label = DNS preko HTTPS
 preferences-doh-description = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 preferences-doh-description2 = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 # Variables:

@@ -165,6 +165,8 @@ browser-containers-settings =
     .label = Taq nuk'ulem…
     .accesskey = l
 containers-disable-alert-title = ¿La yetz'apïx konojel ri kik'ojlib'al taq ruwi'?
+startup-group =
+    .label = Tikirisab'äl
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -371,6 +373,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Tik'utüx we yejaq o yeyak taq yakb'äl
     .accesskey = k
+drm-group =
+    .label = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
     .label = Titzij DRM-chajin rupam
@@ -420,6 +424,9 @@ update-in-progress-ok-button = &Tich'aqïx
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rub'eyal nisamäj
@@ -439,6 +446,8 @@ performance-limit-content-process-blocked-desc = Ri rujalwachinik rajilab'al rut
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ruk'amon wi pe)
+performance-group =
+    .label = Rub'eyal nisamäj
 
 ## General Section - Browsing
 
@@ -476,6 +485,8 @@ browsing-cfr-features =
     .label = Ke'achilab'ej taq b'anikil toq atokinäq pa k'amaya'l
     .accesskey = b
 browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
+browsing-group =
+    .label = Okik'amaya'l
 
 ## General Section - Proxy
 
@@ -485,11 +496,20 @@ network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
 network-proxy-connection-settings =
     .label = Taq nuk'ulem…
     .accesskey = n
+network-proxy-group =
+    .label = Runuk'ulem Okem
+    .description = Tib'an runuk'ulem rub'eyal { -brand-short-name } nok pa k'amaya'l.
 
 ## Home Section
 
 home-new-windows-tabs-header = K'ak'a' taq Tzuwäch chuqa' taq Ruwi'
 home-new-windows-tabs-description2 = Tacha' ri natz'ët toq ye'ajäq ri tikirib'äl ruxaq, k'ak'a' taq tzuwäch chuqa' k'ak'a' taq ruwi'.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Tib'an chi K'o wi
+    .accesskey = K
 
 ## Custom Homepage subpage
 
@@ -522,6 +542,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -703,6 +729,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } man jikib'an ta.
 sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -902,6 +933,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Natab'äl
@@ -932,6 +966,12 @@ history-remember-option-never =
     .label = Mani ninatäx ri natab'äl
 history-remember-option-custom =
     .label = Tokisäx jun ichinan runuk'ulem re natab'äl
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
@@ -958,6 +998,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tiyuj el ri Natab'äl…
     .accesskey = t
+history-group =
+    .label = Natab'äl
 
 ## Privacy Section - Site Data
 
@@ -1003,6 +1045,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
+cookies-site-data-group =
+    .label = Taq Kuki chuqa' Rutzij Ruxaq
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1216,12 +1260,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Jikomal
+browsing-protection-group =
+    .label = Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'
 security-browsing-protection = Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'
 security-enable-safe-browsing =
     .label = Keq'at k'ayew chuqa' q'olonel rupam
@@ -1268,6 +1317,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS chi rij HTTPS
+dns-over-https-group =
+    .label = DNS chi rij HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = B'anikil: { $status }

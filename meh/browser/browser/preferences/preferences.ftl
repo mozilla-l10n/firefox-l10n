@@ -51,6 +51,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 restart-later = Nakajie'e inka ichi
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -86,6 +97,8 @@ browser-containers-settings =
     .label = Ke´i...
     .accesskey = i
 containers-disable-alert-title = ¿Nakasɨ kuaíyo contenedor pestañas?
+startup-group =
+    .label = Nuu kajie´e
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -249,6 +262,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
 drm-content-header = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -280,6 +295,9 @@ update-in-progress-ok-button = &Xita
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Naja satiñu
@@ -294,6 +312,8 @@ performance-allow-hw-accel =
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (Predeterminado)
+performance-group =
+    .label = Naja satiñu
 
 ## General Section - Browsing
 
@@ -325,6 +345,8 @@ browsing-cfr-features =
     .label = Kachi da funciones sa jikanu
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -334,11 +356,20 @@ network-proxy-connection-learn-more = Ka´vi jiee ya´a
 network-proxy-connection-settings =
     .label = Ke´i
     .accesskey = e
+network-proxy-group =
+    .label = Ke´i conexión
+    .description = Ke´i naja { -brand-short-name } kivu nuu internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Ventanas jíía ji pestañas
 home-new-windows-tabs-description2 = Kaji naku kuvinu kune'yanu sa sinenu página xinañu'u, a jíía ventana ji pestaña jíía.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Sá´á kua vají
+    .accesskey = S
 
 ## Custom Homepage subpage
 
@@ -369,6 +400,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ni´i marcador...
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -526,6 +563,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Kuni kune'ya de ya'a kuvi... { $email } noo'o
 sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -707,6 +749,9 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
@@ -737,6 +782,9 @@ history-remember-option-never =
     .label = Nchuva´a historial
 history-remember-option-custom =
     .label = Ni'i configuraciones personalizadas nuu historial
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
@@ -759,6 +807,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Xita sɨ´ɨ nsá´ánu…
     .accesskey = s
+history-group =
+    .label = Sɨ´ɨ
 
 ## Privacy Section - Site Data
 
@@ -793,6 +843,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies ji datos nuu ya´a
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -933,6 +991,9 @@ collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -970,6 +1031,9 @@ httpsonly-radio-enabled-pbm =
     .label = Tee HTTPS nu ntaka da ventanas yu'u
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

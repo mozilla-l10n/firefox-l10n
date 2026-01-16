@@ -99,6 +99,8 @@ browser-containers-settings =
     .label = ការ​កំណត់...
     .accesskey = i
 containers-disable-alert-title = បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ទាំងអស់មែន​ទេ?
+startup-group =
+    .label = ចាប់ផ្ដើម​ឡើង
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -229,6 +231,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = ខ្លឹមសារ​ការគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM)
 drm-content-header = ខ្លឹមសារ​ការគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM)
 play-drm-content =
     .label = លេងខ្លឹមសារ​ដែលគ្រប់គ្រងដោយ DRM
@@ -256,6 +260,9 @@ update-application-use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ដំណើរការ
@@ -275,6 +282,8 @@ performance-limit-content-process-blocked-desc = ការ​កែប្រែ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (លំនាំដើម)
+performance-group =
+    .label = ដំណើរការ
 
 ## General Section - Browsing
 
@@ -295,6 +304,8 @@ browsing-search-on-start-typing =
     .label = ស្វែងរក​​អក្សរ នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​វាយ
     .accesskey = x
 browsing-cfr-recommendations-learn-more = ស្វែងយល់​បន្ថែម
+browsing-group =
+    .label = រក​មើល
 
 ## General Section - Proxy
 
@@ -304,11 +315,20 @@ network-proxy-connection-learn-more = ស្វែងយល់​បន្ថែ
 network-proxy-connection-settings =
     .label = ការ​កំណត់…
     .accesskey = e
+network-proxy-group =
+    .label = ការកំណត់​បណ្ដាញ
+    .description = កំណត់រចនាសម្ព័ន្ធរបៀបដែល { -brand-short-name } តភ្ជាប់ទៅអ៊ីនធឺណិត
 
 ## Home Section
 
 home-new-windows-tabs-header = វីនដូ និងផ្ទាំងថ្មី
 home-new-windows-tabs-description2 = ជ្រើសអ្វីដែលអ្នកឃើញនៅពេលអ្នកបើកគេហទំព័រ, វីនដូថ្មី, និងផ្ទាំងថ្មី។
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = ដាក់​ជា​លំនាំ​ដើម
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -339,6 +359,12 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -436,6 +462,9 @@ containers-add-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -470,6 +499,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់។
 sync-signedin-login-failure = សូម​ចូល​ដើម្បី​តភ្ជាប់​ឡើង​វិញ { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -481,6 +515,12 @@ sync-remove-account =
 sync-sign-in =
     .label = ចូល
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -567,6 +607,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ប្រវត្តិ
@@ -597,6 +643,12 @@ history-remember-option-never =
     .label = កុំ​ចងចាំ​ប្រវត្តិ
 history-remember-option-custom =
     .label = ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } នឹងចងចាំការរុករក ការទាញយក សំណុំបែបបទ និងប្រវត្តិស្វែងរករបស់អ្នក។
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជា​ការ​​រក​មើល​ឯកជន ហើយ​នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​ដែល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ​នោះ​ទេ ។
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } នឹងចងចាំការរុករក ការទាញយក សំណុំបែបបទ និងប្រវត្តិស្វែងរករបស់អ្នក។
@@ -623,6 +675,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = សម្អាតប្រវត្តិ...
     .accesskey = s
+history-group =
+    .label = ប្រវត្តិ
 
 ## Privacy Section - Site Data
 
@@ -643,6 +697,14 @@ sitedata-clear =
 sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
+cookies-site-data-group =
+    .label = ខូឃី និងទិន្នន័យ​គេហទំព័រ
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -682,6 +744,9 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -737,12 +802,17 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = សុវត្ថិភាព
+browsing-protection-group =
+    .label = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-browsing-protection = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-enable-safe-browsing =
     .label = ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត
@@ -768,6 +838,12 @@ certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

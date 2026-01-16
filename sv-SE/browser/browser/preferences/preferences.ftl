@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Säg till webbplatser att inte sälja eller dela mina data
     .accesskey = S
+non-technical-privacy-group =
+    .label = Sekretessinställningar för webbplatsen
 non-technical-privacy-header = Sekretessinställningar för webbplatsen
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Inställningar…
     .accesskey = s
 containers-disable-alert-title = Stäng alla innehållsflikar?
+startup-group =
+    .label = Vid start
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Snabb åtkomst till bokmärken, flikar från 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk och utseende
+appearance-group =
+    .label = Webbplatsens utseende
+    .description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
 preferences-web-appearance-header = Webbplatsens utseende
 preferences-web-appearance-description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Fråga om du vill öppna eller spara filer
     .accesskey = F
+drm-group =
+    .label = Digital Rights Management (DRM) innehåll
 drm-content-header = Digital Rights Management (DRM) innehåll
 play-drm-content =
     .label = Spela DRM-kontrollerat innehåll
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Ändring av antalet innehållsp
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Prestanda
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Rekommendera funktioner medan du surfar
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Läs mer
+browsing-group =
+    .label = Webbläsning
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Läs mer
 network-proxy-connection-settings =
     .label = Inställningar…
     .accesskey = n
+network-proxy-group =
+    .label = Nätverksinställningar
+    .description = Konfigurera hur { -brand-short-name } ansluter till internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nya fönster och flikar
 home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din startsida, ett nytt fönster eller en ny flik.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Ange som standard
+    .accesskey = s
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1505,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser och mer
+payments-group =
+    .label = Betalningsmetoder
 
 ## Privacy Section - History
 
@@ -1514,6 +1540,15 @@ history-remember-option-never =
     .label = Inte spara någon historik
 history-remember-option-custom =
     .label = Använda anpassade inställningar för historik
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } använder anpassade inställningar för din surfning, nedladdningar, formulär och sökhistorik.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.
@@ -1543,6 +1578,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Rensa historik…
     .accesskey = s
+history-group =
+    .label = Historik
 
 ## Privacy Section - Site Data
 
@@ -1609,6 +1646,8 @@ sitedata-cookies-exceptions2 =
     .label = Hantera undantag
     .accesskey = H
     .description = Du kan ange vilka webbplatser som alltid eller aldrig får använda kakor och webbplatsdata.
+cookies-site-data-group =
+    .label = Kakor och webbplatsdata
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2040,8 @@ website-advertising-private-attribution-description = Detta hjälper webbplatser
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Säkerhet
+browsing-protection-group =
+    .label = Skydd mot vilseledande och skadlig programvara
 security-browsing-protection = Skydd mot vilseledande och skadlig programvara
 security-enable-safe-browsing =
     .label = Blockera farligt och vilseledande innehåll
@@ -2057,10 +2098,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan fortfarande uppgradera vissa anslutningar
 httpsonly-radio-disabled =
     .label = Aktivera inte endast HTTPS-läge
+httpsonly-group =
+    .label = Endast HTTPS-läge
+    .description = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 
 ## DoH Section
 
 preferences-doh-header = DNS över HTTPS
+dns-over-https-group =
+    .label = DNS över HTTPS
 preferences-doh-description = Domain Name System (DNS) över HTTPS skickar din begäran om ett domännamn via en krypterad anslutning, skapar en säker DNS och gör det svårare för andra att se vilken webbplats du ska komma åt.
 preferences-doh-description2 = Domain Name System (DNS) över HTTPS skickar din begäran om ett domännamn via en krypterad anslutning, vilket ger en säker DNS och gör det svårare för andra att se vilken webbplats du ska komma åt.
 # Variables:

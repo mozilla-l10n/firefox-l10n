@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dicci ê siti web di nun vìnniri o spàrtiri i me dati
     .accesskey = d
+non-technical-privacy-group =
+    .label = Prifirenzi di privatizza dî siti web
 non-technical-privacy-header = Prifirenzi di privatizza dî siti web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -117,6 +119,8 @@ browser-containers-settings =
     .label = Mpustazzioni…
     .accesskey = i
 containers-disable-alert-title = Vo’ chiùjiri tutti i schedi cuntinituri?
+startup-group =
+    .label = Abbìu
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -284,6 +288,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Cuntinutu di gistiuni diritta diggitali (DRM)
 drm-content-header = Cuntinutu di gistiuni diritta diggitali (DRM)
 play-drm-content =
     .label = Ripruduci cuntinutu cuntrullatu di DRM
@@ -318,6 +324,9 @@ update-in-progress-ok-button = &Stagghia
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Pristazziuni
@@ -337,6 +346,8 @@ performance-limit-content-process-blocked-desc = Canciari u nùmmaru di prucessi
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (pridifinutu)
+performance-group =
+    .label = Pristazziuni
 
 ## General Section - Browsing
 
@@ -367,6 +378,8 @@ browsing-cfr-features =
     .label = Raccumanna funziunalità mentri nàvighi
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
+browsing-group =
+    .label = Navicazzioni
 
 ## General Section - Proxy
 
@@ -376,11 +389,20 @@ network-proxy-connection-learn-more = Cchiù nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
+network-proxy-group =
+    .label = Mpustazzioni riti
+    .description = Cunfijura comu { -brand-short-name } si culleja â riti.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novi finestri e schedi
 home-new-windows-tabs-description2 = Scarta chiḍḍu chi vidi quannu grapi a pàggina mastra, novi finestri o novi schedi.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Fai addivintari pridifinutu
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -412,6 +434,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -519,6 +547,9 @@ containers-add-button =
 containers-remove-button =
     .label = Leva
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -558,6 +589,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -717,6 +753,12 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Crunuluggìa
@@ -747,6 +789,12 @@ history-remember-option-never =
     .label = Nun ricurdari mai a crunuluggìa
 history-remember-option-custom =
     .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } s’arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } usarà i stissi mpustazzioni pâ navicazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } s’arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
@@ -773,6 +821,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Scancella a crunuluggìa…
     .accesskey = C
+history-group =
+    .label = Crunuluggìa
 
 ## Privacy Section - Site Data
 
@@ -811,6 +861,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
+cookies-site-data-group =
+    .label = Viscotta e dati dî siti
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -978,12 +1036,17 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sicurizza
+browsing-protection-group =
+    .label = Prutizziuni dî cuntinuti fallaci e prugrammi piriculusi
 security-browsing-protection = Prutizziuni dî cuntinuti fallaci e prugrammi piriculusi
 security-enable-safe-browsing =
     .label = Blocca cuntinuti fallaci e piriculusi
@@ -1008,6 +1071,12 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

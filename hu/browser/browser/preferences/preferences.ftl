@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Megmondás a webhelyeknek, hogy ne adják el vagy osszák meg az adatait
     .accesskey = M
+non-technical-privacy-group =
+    .label = Webhely adatvédelmi beállításai
 non-technical-privacy-header = Webhely adatvédelmi beállításai
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Beállítások…
     .accesskey = B
 containers-disable-alert-title = Az összes konténerlap bezárása?
+startup-group =
+    .label = Indítás
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Érje el gyorsan a könyvjelzőket és a lapo
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Nyelv és megjelenés
+appearance-group =
+    .label = Weboldal megjelenése
+    .description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
 preferences-web-appearance-header = Weboldal megjelenése
 preferences-web-appearance-description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Kérdezze meg, hogy nyissa meg vagy mentse a fájlokat
     .accesskey = K
+drm-group =
+    .label = Digitális jogkezelést (DRM) használó tartalom
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
     .label = DRM-vezérelt tartalom lejátszása
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = A tartalom folyamatok számána
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (alapértelmezett)
+performance-group =
+    .label = Teljesítmény
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Funkciójavaslatok böngészés közben
     .accesskey = F
 browsing-cfr-recommendations-learn-more = További tudnivalók
+browsing-group =
+    .label = Böngészés
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
+network-proxy-group =
+    .label = Hálózati beállítások
+    .description = Állítsa be, hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
 
 ## Home Section
 
 home-new-windows-tabs-header = Új ablakok és lapok
 home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a kezdőoldalt, vagy egy új ablakot, lapot.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Beállítás alapértelmezettként
+    .accesskey = a
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1499,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Címek és egyebek
+payments-group =
+    .label = Fizetési módok
 
 ## Privacy Section - History
 
@@ -1508,6 +1534,15 @@ history-remember-option-never =
     .label = Nem jegyzi meg az előzményeket
 history-remember-option-custom =
     .label = Egyéni beállításokat használ az előzményekhez
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = A { -brand-short-name } egyéni beállításokat fog használni a böngészési, letöltési, űrlap- és keresési előzményekhez.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
@@ -1537,6 +1572,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Előzmények törlése…
     .accesskey = l
+history-group =
+    .label = Előzmények
 
 ## Privacy Section - Site Data
 
@@ -1603,6 +1640,8 @@ sitedata-cookies-exceptions2 =
     .label = Kivételek kezelése
     .accesskey = v
     .description = Megadhatja, hogy mely webhelyek használhatnak mindig vagy soha sütiket és oldaladatokat.
+cookies-site-data-group =
+    .label = Sütik és oldaladatok
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1992,6 +2031,8 @@ website-advertising-private-attribution-description = Ez anélkül segít a webh
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Biztonság
+browsing-protection-group =
+    .label = Félrevezető tartalom és veszélyes szoftver elleni védelem
 security-browsing-protection = Félrevezető tartalom és veszélyes szoftver elleni védelem
 security-enable-safe-browsing =
     .label = Veszélyes és félrevezető tartalom blokkolása
@@ -2048,10 +2089,15 @@ httpsonly-radio-disabled3 =
     .description = A { -brand-short-name } továbbra is frissítheti az egyes kapcsolatokat
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
+httpsonly-group =
+    .label = Csak HTTPS mód
+    .description = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 
 ## DoH Section
 
 preferences-doh-header = HTTPS feletti DNS
+dns-over-https-group =
+    .label = HTTPS feletti DNS
 preferences-doh-description = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t hozva létre, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 preferences-doh-description2 = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t biztosítva, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 # Variables:

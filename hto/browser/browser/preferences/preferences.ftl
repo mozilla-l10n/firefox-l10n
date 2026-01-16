@@ -48,6 +48,8 @@ tabs-group-header = Úitɨraɨ
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
     .accesskey = k
+startup-group =
+    .label = Táɨnia
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -154,6 +156,8 @@ browsing-title = Makara
 browsing-use-autoscroll =
     .label = Dama gɨgɨta jone
     .accesskey = g
+browsing-group =
+    .label = Makara
 
 ## General Section - Proxy
 
@@ -162,6 +166,9 @@ network-proxy-connection-settings =
     .accesskey = A
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -180,6 +187,9 @@ use-current-pages =
 choose-bookmark =
     .label = Rɨgɨnua fɨno…
     .accesskey = f
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -225,9 +235,15 @@ sync-profile-picture-with-alt =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Fákara íyano... { $email } Naɨ éroñega.
 sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno nitayena taɨne yuamo
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -295,6 +311,9 @@ history-remember-option-never =
     .label = Jágaɨ úibiñeniri
 history-remember-option-custom =
     .label = Kúe dama ñúe fɨnoyena jagaɨ
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
@@ -311,6 +330,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Abɨdo  fɨnoka...
     .accesskey = A
+history-group =
+    .label = Jagaɨ
 
 ## Privacy Section - Site Data
 
@@ -321,7 +342,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Rɨgɨnua

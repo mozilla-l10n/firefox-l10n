@@ -38,6 +38,8 @@ startup-header = ஆரம்பிக்க
 is-default-browser =
     .message = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 is-default = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
+startup-group =
+    .label = ஆரம்பிக்க
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -135,6 +137,9 @@ update-application-use-service =
     .label = இற்றைகளை நிறுவ ஒரு பின்னணி சேவையைப் பயன்படுத்துக
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 
@@ -147,6 +152,8 @@ browsing-use-autoscroll =
 browsing-use-cursor-navigation =
     .label = எப்போதும் நிலைக்காட்டி விசைகளைப் பயன்படுத்திப் பக்கங்களிடையே செல்
     .accesskey = c
+browsing-group =
+    .label = உலாவுதல்
 
 ## General Section - Proxy
 
@@ -157,7 +164,16 @@ network-proxy-connection-settings =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
 
 
 ## Home Section - Firefox Home Content Customization
@@ -175,6 +191,9 @@ network-proxy-connection-settings =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -184,6 +203,12 @@ network-proxy-connection-settings =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -239,7 +264,7 @@ history-remember-option-never =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

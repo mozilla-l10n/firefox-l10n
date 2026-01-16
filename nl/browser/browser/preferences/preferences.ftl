@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websites vertellen mijn gegevens niet te verkopen of te delen
     .accesskey = s
+non-technical-privacy-group =
+    .label = Websiteprivacyvoorkeuren
 non-technical-privacy-header = Websiteprivacyvoorkeuren
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Instellingen…
     .accesskey = I
 containers-disable-alert-title = Alle containertabbladen sluiten?
+startup-group =
+    .label = Opstarten
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Benader snel bladwijzers, tabbladen van uw te
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en Vormgeving
+appearance-group =
+    .label = Uiterlijk van de website
+    .description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
 preferences-web-appearance-header = Uiterlijk van de website
 preferences-web-appearance-description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Vragen of bestanden geopend of opgeslagen moeten worden
     .accesskey = V
+drm-group =
+    .label = Digital Rights Management (DRM)-inhoud
 drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
     .label = DRM-beheerde inhoud afspelen
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Aanpassen van het aantal inhoud
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standaard)
+performance-group =
+    .label = Prestaties
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Functies aanbevelen terwijl u surft
     .accesskey = F
 browsing-cfr-recommendations-learn-more = Meer info
+browsing-group =
+    .label = Navigeren
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Meer info
 network-proxy-connection-settings =
     .label = Instellingen…
     .accesskey = I
+network-proxy-group =
+    .label = Netwerkinstellingen
+    .description = Configureren hoe { -brand-short-name } verbinding maakt met het internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nieuwe vensters en tabbladen
 home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw startpagina, nieuwe vensters, en nieuwe tabbladen.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Standaard maken
+    .accesskey = m
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1505,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adressen en meer
+payments-group =
+    .label = Betalingsmethoden
 
 ## Privacy Section - History
 
@@ -1514,6 +1540,15 @@ history-remember-option-never =
     .label = Nooit geschiedenis onthouden
 history-remember-option-custom =
     .label = Aangepaste instellingen gebruiken voor geschiedenis
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } gebruikt aangepaste instellingen voor uw browser-, download-, formulier- en zoekgeschiedenis.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
@@ -1543,6 +1578,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Geschiedenis wissen…
     .accesskey = G
+history-group =
+    .label = Geschiedenis
 
 ## Privacy Section - Site Data
 
@@ -1609,6 +1646,8 @@ sitedata-cookies-exceptions2 =
     .label = Uitzonderingen beheren
     .accesskey = z
     .description = U kunt opgeven welke websites altijd of nooit cookies en websitegegevens mogen gebruiken.
+cookies-site-data-group =
+    .label = Cookies en websitegegevens
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2040,8 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Beveiliging
+browsing-protection-group =
+    .label = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-browsing-protection = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-enable-safe-browsing =
     .label = Gevaarlijke en misleidende inhoud blokkeren
@@ -2057,10 +2098,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan nog steeds sommige verbindingen upgraden
 httpsonly-radio-disabled =
     .label = Alleen-HTTPS-modus niet inschakelen
+httpsonly-group =
+    .label = Alleen-HTTPS-modus
+    .description = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt gecreëerd en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt geboden en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 # Variables:

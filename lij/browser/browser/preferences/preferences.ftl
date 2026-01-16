@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = Inpostaçioin…
     .accesskey = i
 containers-disable-alert-title = Særa tutti i contegnitoî de feuggi?
+startup-group =
+    .label = Iniçio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -249,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Contegnuo da Gestion di Diritti Digitali (DRM)
 drm-content-header = Contegnuo da Gestion di Diritti Digitali (DRM)
 play-drm-content =
     .label = Riproduxi o contegnuo DRM-controlled
@@ -276,6 +280,9 @@ update-application-use-service =
     .label = Deuvia 'n serviçio ascozo pe instalâ i agiornamenti
     .accesskey = v
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Prestaçioin
@@ -295,6 +302,8 @@ performance-limit-content-process-blocked-desc = Cangiâ o numero de contegnui d
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinio)
+performance-group =
+    .label = Prestaçioin
 
 ## General Section - Browsing
 
@@ -322,6 +331,8 @@ browsing-cfr-features =
     .label = Consegime fonçioin quande navego
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Atre informaçioin
+browsing-group =
+    .label = Riçerca
 
 ## General Section - Proxy
 
@@ -331,11 +342,20 @@ network-proxy-connection-learn-more = Pe saveine de ciù
 network-proxy-connection-settings =
     .label = Inpostaçioin…
     .accesskey = I
+network-proxy-group =
+    .label = Inpostaçioin da ræ
+    .description = Inpòsta o mòddo de conetise a l'internet de { -brand-short-name }.
 
 ## Home Section
 
 home-new-windows-tabs-header = Neuvi Barcoin e feuggi
 home-new-windows-tabs-description2 = Çerni cöse ti veu vedde quande ti arvi a pagina prinçipâ, neuvi barcoin e neuvi feuggi.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Adeuvia comme predefinio
+    .accesskey = A
 
 ## Custom Homepage subpage
 
@@ -366,6 +386,12 @@ use-current-pages =
 choose-bookmark =
     .label = Adeuvia o segnalibbro…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -464,6 +490,9 @@ containers-add-button =
 containers-remove-button =
     .label = Scancella
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -498,6 +527,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } no l'é verificou.
 sync-signedin-login-failure = Acedi pe ativâ torna a conescion { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -509,6 +543,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Intra
     .accesskey = t
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -601,6 +641,12 @@ forms-master-pw-change =
     .accesskey = C
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Stöia
@@ -631,6 +677,12 @@ history-remember-option-never =
     .label = no se aregordiâ mai a stöia
 history-remember-option-custom =
     .label = Deuvia inpostaçioin personalizæ pe-a stöia
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
@@ -657,6 +709,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Scancella Stöia…
     .accesskey = s
+history-group =
+    .label = Stöia
 
 ## Privacy Section - Site Data
 
@@ -687,6 +741,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
+cookies-site-data-group =
+    .label = Cookie e Dæti di Sciti
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -821,12 +883,17 @@ addon-recommendations-link = Atre informaçioin
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguessa
+browsing-protection-group =
+    .label = Proteçion contra o conegnuo inganevole e pericoloso
 security-browsing-protection = Proteçion contra o conegnuo inganevole e pericoloso
 security-enable-safe-browsing =
     .label = Blòcca contegnui grammi pericolozi
@@ -852,6 +919,12 @@ certs-devices =
     .label = Aparati de Seguessa…
     .accesskey = S
 certs-devices-enable-fips = Abilita FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

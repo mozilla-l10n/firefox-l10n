@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fertel websites dat se myn gegevens net ferkeapje of diele meie
     .accesskey = s
+non-technical-privacy-group =
+    .label = Websiteprivacyfoarkarren
 non-technical-privacy-header = Websiteprivacyfoarkarren
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Ynstellingen…
     .accesskey = i
 containers-disable-alert-title = Alle kontenerljepblêden slute?
+startup-group =
+    .label = Opstarte
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Benaderje fluch blêdwizers, ljepblêden fan 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en úterlik
+appearance-group =
+    .label = Uterlik fan de website
+    .description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
 preferences-web-appearance-header = Uterlik fan de website
 preferences-web-appearance-description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Freegje oft bestannen iepene of bewarre wurde moatte
     .accesskey = F
+drm-group =
+    .label = Digital Rights Management (DRM)-ynhâld
 drm-content-header = Digital Rights Management (DRM)-ynhâld
 play-drm-content =
     .label = DRM-kontrolearre ynhâld ôfspylje
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Oanpassen fan it oantal ynhâld
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standert)
+performance-group =
+    .label = Prestaasjes
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Funksjes oanrekommandearje wylst jo sneupe
     .accesskey = F
 browsing-cfr-recommendations-learn-more = Mear ynfo
+browsing-group =
+    .label = Navigearje
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Mear ynfo
 network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
+network-proxy-group =
+    .label = Netwurkynstellingen
+    .description = Konfigurearje hoe { -brand-short-name } ferbining makket mei it ynternet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nije finsters en ljepblêden
 home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije finsters en nije ljepblêden iepenje.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Standert meitsje
+    .accesskey = S
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1505,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adressen en mear
+payments-group =
+    .label = Betellingsmetoaden
 
 ## Privacy Section - History
 
@@ -1514,6 +1540,15 @@ history-remember-option-never =
     .label = Nea skiednis ûnthâlde
 history-remember-option-custom =
     .label = Oanpaste ynstellingen brûke foar skiednis
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } brûkt oanpaste ynstellingen foar jo sneup-, download-, formulier- en sykskiednis.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.
@@ -1543,6 +1578,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Skiednis wiskje…
     .accesskey = s
+history-group =
+    .label = Skiednis
 
 ## Privacy Section - Site Data
 
@@ -1609,6 +1646,8 @@ sitedata-cookies-exceptions2 =
     .label = Utsûnderingen beheare
     .accesskey = z
     .description = Jo kinne opjaan hokker websites altyd of nea cookies en websitegegevens brûke meie.
+cookies-site-data-group =
+    .label = Cookies en websitegegevens
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2040,8 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Befeiliging
+browsing-protection-group =
+    .label = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-browsing-protection = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-enable-safe-browsing =
     .label = Gefaarlike en misliedende ynhâld blokkearje
@@ -2057,10 +2098,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kin noch hieltyd guon ferbiningen opwurdearje
 httpsonly-radio-disabled =
     .label = Allinnich-HTTPS-modus net ynskeakelje
+httpsonly-group =
+    .label = Allinnich-HTTPS-modus
+    .description = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 
 ## DoH Section
 
 preferences-doh-header = DNS oer HTTPS
+dns-over-https-group =
+    .label = DNS oer HTTPS
 preferences-doh-description = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS makke wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 preferences-doh-description2 = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS jûn wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 # Variables:

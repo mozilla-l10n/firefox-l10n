@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Teikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
     .accesskey = s
+non-technical-privacy-group =
+    .label = Vietņu privātuma preferences
 non-technical-privacy-header = Vietņu privātuma preferences
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -183,6 +185,8 @@ browser-containers-settings =
     .label = Iestatījumi...
     .accesskey = i
 containers-disable-alert-title = Vai aizvērt visas konteineru cilnes?
+startup-group =
+    .label = Palaišana
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -221,6 +225,9 @@ settings-tabs-show-image-in-preview =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Valoda un izskats
+appearance-group =
+    .label = Vietnes izskats
+    .description = Dažas vietnes pielāgo savu krāsu shēmu atbilstoši jūsu preferencēm. Izvēlieties, kuru krāsu shēmu vēlaties izmantot šīm vietnēm.
 preferences-web-appearance-header = Vietnes izskats
 preferences-web-appearance-description = Dažas vietnes pielāgo savu krāsu shēmu atbilstoši jūsu preferencēm. Izvēlieties, kuru krāsu shēmu vēlaties izmantot šīm vietnēm.
 preferences-web-appearance-choice-auto2 =
@@ -423,6 +430,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Vaicāt, vai atvērt vai saglabāt datnes
     .accesskey = a
+drm-group =
+    .label = Digitālā satura tiesību pārvaldības (DRM) saturs
 drm-content-header = Digitālā satura tiesību pārvaldības (DRM) saturs
 play-drm-content =
     .label = Atskaņot DRM kontrolētu saturu
@@ -472,6 +481,9 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -491,6 +503,8 @@ performance-limit-content-process-blocked-desc = Modificēt satura procesu skait
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (noklusējuma)
+performance-group =
+    .label = Veiktspēja
 
 ## General Section - Browsing
 
@@ -534,6 +548,8 @@ browsing-cfr-features =
     .label = Ieteikt funkcijas pārlūkošanas laikā
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Uzzināt vairāk
+browsing-group =
+    .label = Pārlūkošana
 
 ## General Section - Proxy
 
@@ -543,11 +559,20 @@ network-proxy-connection-learn-more = Uzzināt vairāk
 network-proxy-connection-settings =
     .label = Iestatījumi...
     .accesskey = e
+network-proxy-group =
+    .label = Tīkla iestatījumi
+    .description = Konfigurēt kā { -brand-short-name } pieslēdzas internetam.
 
 ## Home Section
 
 home-new-windows-tabs-header = Jaunus logus un cilnes
 home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu, logu vai cilni.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Padarīt par noklusējuma
+    .accesskey = n
 
 ## Custom Homepage subpage
 
@@ -580,6 +605,12 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -780,6 +811,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1063,6 +1099,12 @@ history-remember-option-never =
     .label = Nekad neatcerēsies vēsturi
 history-remember-option-custom =
     .label = Izmantos pielāgotus vēstures iestatījumus
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } atcerēsies jūsu pārlūkošanas, lejupielāžu, formu un meklēšanas vēsturi.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } izmantos tādus pat iestatījumus kā privātās pārlūkošanas režīmā un pārlūkojot internetu nesaglabās vēsturi.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } atcerēsies jūsu pārlūkošanas, lejupielāžu, formu un meklēšanas vēsturi.
@@ -1089,6 +1131,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Notīrīt vēsturi…
     .accesskey = v
+history-group =
+    .label = Vēsture
 
 ## Privacy Section - Site Data
 
@@ -1137,6 +1181,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
+cookies-site-data-group =
+    .label = Sīkdatnes un vietnes dati
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1387,12 +1433,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Drošība
+browsing-protection-group =
+    .label = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-browsing-protection = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-enable-safe-browsing =
     .label = Bloķēt bīstamu un maldinošu saturu
@@ -1442,6 +1493,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS caur HTTPS
+dns-over-https-group =
+    .label = DNS caur HTTPS
 preferences-doh-description = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, izveidojot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 # Variables:

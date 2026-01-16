@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Паведамляць сайтам, каб яны не прадавалі і не дзяліліся маімі звесткамі
     .accesskey = ы
+non-technical-privacy-group =
+    .label = Налады прыватнасці сайта
 non-technical-privacy-header = Налады прыватнасці сайта
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Налады…
     .accesskey = а
 containers-disable-alert-title = Закрыць усе карткі кантэйнера?
+startup-group =
+    .label = Запуск
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -297,6 +301,9 @@ browser-layout-show-sidebar-desc = Атрымлівайце хуткі дост�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Мова і выгляд
+appearance-group =
+    .label = Выгляд вэб-сайтаў
+    .description = Некаторыя вэб-сайты адаптуюць сваю колеравую схему ў залежнасці ад вашых пераваг. Выберыце, якую колеравую схему вы хочаце выкарыстоўваць для гэтых сайтаў.
 preferences-web-appearance-header = Выгляд вэб-сайтаў
 preferences-web-appearance-description = Некаторыя вэб-сайты адаптуюць сваю колеравую схему ў залежнасці ад вашых пераваг. Выберыце, якую колеравую схему вы хочаце выкарыстоўваць для гэтых сайтаў.
 preferences-web-appearance-choice-auto2 =
@@ -586,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Пытацца, адкрываць ці захоўваць файлы
     .accesskey = ф
+drm-group =
+    .label = Digital Rights Management (DRM) змесціва
 drm-content-header = Digital Rights Management (DRM) змесціва
 play-drm-content =
     .label = Прайграваць DRM-кантраляванае змесціва
@@ -664,6 +673,8 @@ performance-limit-content-process-blocked-desc = Змена колькасці �
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (прадвызначана)
+performance-group =
+    .label = Прадукцыйнасць
 
 ## General Section - Browsing
 
@@ -712,6 +723,8 @@ browsing-cfr-features =
     .label = Рэкамендаваць функцыі ў часе аглядання
     .accesskey = а
 browsing-cfr-recommendations-learn-more = Падрабязней
+browsing-group =
+    .label = Агляданне
 
 ## General Section - Proxy
 
@@ -721,11 +734,20 @@ network-proxy-connection-learn-more = Падрабязней
 network-proxy-connection-settings =
     .label = Налады…
     .accesskey = л
+network-proxy-group =
+    .label = Налады сеткі
+    .description = Наладзіць спосаб злучэння { -brand-short-name } з Інтэрнэтам.
 
 ## Home Section
 
 home-new-windows-tabs-header = Новыя вокны і карткі
 home-new-windows-tabs-description2 = Выберыце, што бачыць, калі вы адкрываеце хатнюю старонку, новае акно ці картку.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Зрабіць прадвызначаным
+    .accesskey = З
 
 ## Custom Homepage subpage
 
@@ -1481,6 +1503,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Адрасы і іншае
+payments-group =
+    .label = Спосабы аплаты
 
 ## Privacy Section - History
 
@@ -1512,6 +1538,15 @@ history-remember-option-never =
     .label = ніколі не памятаць гісторыю
 history-remember-option-custom =
     .label = ужываць налады для гісторыі
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } будзе выкарыстоўваць карыстальніцкія налады для вашай гісторыі аглядання, сцягванняў, формаў і пошуку.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.
@@ -1541,6 +1576,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ачысціць гісторыю…
     .accesskey = с
+history-group =
+    .label = Гісторыя
 
 ## Privacy Section - Site Data
 
@@ -1607,6 +1644,8 @@ sitedata-cookies-exceptions2 =
     .label = Кіраваць выключэннямі
     .accesskey = ч
     .description = Вы можаце ўказаць, якім сайтам заўсёды можна або ніколі нельга выкарыстоўваць кукі і дадзеныя сайтаў
+cookies-site-data-group =
+    .label = Кукі і дадзеныя сайтаў
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1996,6 +2035,8 @@ website-advertising-private-attribution-description = Гэта дапамага�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Бяспека
+browsing-protection-group =
+    .label = Абарона ад падманнага змесціва і небяспечных праграм
 security-browsing-protection = Абарона ад падманнага змесціва і небяспечных праграм
 security-enable-safe-browsing =
     .label = Блакаваць небяспечнае і падманлівае змесціва
@@ -2052,10 +2093,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } можа ўсё роўна павысіць некаторыя злучэнні
 httpsonly-radio-disabled =
     .label = Не ўключаць рэжым толькі HTTPS
+httpsonly-group =
+    .label = Рэжым толькі HTTPS
+    .description = Дазваляе толькі бяспечнае злучэнне з вэб-сайтамі. { -brand-short-name } спытае перад небяспечным злучэннем.
 
 ## DoH Section
 
 preferences-doh-header = DNS праз HTTPS
+dns-over-https-group =
+    .label = DNS праз HTTPS
 preferences-doh-description = Сістэма даменных імёнаў (DNS) праз HTTPS адпраўляе ваш запыт на даменнае імя праз зашыфраванае злучэнне, ствараючы бяспечны DNS і ўскладняючы для іншых бачыць, да якога сайта вы збіраецеся атрымаць доступ.
 preferences-doh-description2 = Сістэма даменных імёнаў (DNS) праз HTTPS адпраўляе ваш запыт на даменнае імя праз зашыфраванае злучэнне, прадстаўляючы бяспечны DNS і ўскладняючы для іншых бачыць, да якога сайта вы збіраецеся атрымаць доступ.
 # Variables:

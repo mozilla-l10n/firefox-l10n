@@ -44,6 +44,17 @@ should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
 cancel-no-restart-button = Bekor qilish
 restart-later = Keyinroq qayta ishga tushirish
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Qidiruv natijalari
@@ -100,6 +111,8 @@ browser-containers-settings =
     .label = Sozlamalar
     .accesskey = s
 containers-disable-alert-title = Barcha Container oynalari yopilsinmi?
+startup-group =
+    .label = Ishga tushirish
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -264,6 +277,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Raqamli huquqlar boshqaruvi (DRM) kontenti
 drm-content-header = Raqamli huquqlar boshqaruvi (DRM) kontenti
 play-drm-content =
     .label = DRM boshqaruvdagi kontentni ishga tushirish
@@ -296,6 +311,9 @@ update-in-progress-ok-button = &Rad etish
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Davom etish
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Samaradorlik
@@ -315,6 +333,8 @@ performance-limit-content-process-blocked-desc = Kontent jarayoni miqdorini o‘
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standart)
+performance-group =
+    .label = Samaradorlik
 
 ## General Section - Browsing
 
@@ -339,6 +359,8 @@ browsing-cfr-recommendations =
     .label = Koʻrish vaqtida kengaytmalarni tavsiya qilish
     .accesskey = t
 browsing-cfr-recommendations-learn-more = Batafsil
+browsing-group =
+    .label = Koʻrish
 
 ## General Section - Proxy
 
@@ -348,11 +370,20 @@ network-proxy-connection-learn-more = Batafsil ma’lumot
 network-proxy-connection-settings =
     .label = Sozlamalar…
     .accesskey = e
+network-proxy-group =
+    .label = Tarmoq sozlamalari
+    .description = { -brand-short-name } brauzerni internetga ulanishini sozlash.
 
 ## Home Section
 
 home-new-windows-tabs-header = Yangi oyna va varaqlar
 home-new-windows-tabs-description2 = Bosh sahifa, yangi oyna va varaqlarni ochganda nima koʻrinishi kerakligini tanlang.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Asosiy sifatida o‘rnatish
+    .accesskey = A
 
 ## Custom Homepage subpage
 
@@ -383,6 +414,12 @@ use-current-pages =
 choose-bookmark =
     .label = Xatcho‘pdan foydalanish
     .accesskey = X
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -538,6 +575,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tasdiqlanmagan.
 sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -695,6 +737,12 @@ forms-master-pw-change =
     .accesskey = u
 forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Tarix
@@ -725,6 +773,12 @@ history-remember-option-never =
     .label = Tarix hech qachon eslab qolinmasin
 history-remember-option-custom =
     .label = Tarix uchun boshqa sozlamalardan foydalanish
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
@@ -748,6 +802,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tarixni tozalash
     .accesskey = t
+history-group =
+    .label = Tarix
 
 ## Privacy Section - Site Data
 
@@ -759,6 +815,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
+cookies-site-data-group =
+    .label = Kuki va sayt ma’lumotlari
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -774,6 +838,22 @@ addressbar-locbar-openpage-option =
     .label = Varaqlarni ochish
     .accesskey = o
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -831,6 +911,9 @@ addon-recommendations-link = Batafsil
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -861,6 +944,12 @@ certs-devices =
     .label = Xavfsizlik qurilmalari
     .accesskey = X
 certs-devices-enable-fips = FIPS’ni yoqib qo‘yish
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

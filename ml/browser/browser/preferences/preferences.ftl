@@ -67,6 +67,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -144,6 +155,8 @@ browser-containers-settings =
     .label = ക്രമീകരണങ്ങൾ…
     .accesskey = i
 containers-disable-alert-title = എല്ലാ കണ്ടൈനർ ടാബുകളും ക്ലോസ് ചെയ്യണോ?
+startup-group =
+    .label = തുടക്കം
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -363,6 +376,8 @@ applications-use-os-default-label =
 applications-save-for-new-types =
     .label = ഫയലുകൾ കരുതിവയ്ക്കുക
     .accesskey = ക
+drm-group =
+    .label = ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്
 drm-content-header = ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്
 play-drm-content =
     .label = DRM- നിയന്ത്രിത കണ്ടന്റ് പ്ലേ ചെയ്യുക
@@ -419,6 +434,8 @@ performance-limit-content-process-blocked-desc = കണ്ടന്റ് പ്
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (തനതു്)
+performance-group =
+    .label = പ്രകടനം
 
 ## General Section - Browsing
 
@@ -443,6 +460,8 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-learn-more = കൂടുതല്‍ അറിയുക
 browsing-media-control-learn-more = കൂടുതല്‍ അറിയുക
 browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയുക
+browsing-group =
+    .label = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
 
 ## General Section - Proxy
 
@@ -455,6 +474,12 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാലകങ്ങളും
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = തനതാക്കുക
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -696,6 +721,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -928,6 +958,8 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ഈ വിലാസം മായ്ക്കട്ടെ?
 addresses-delete-address-prompt-confirm-button = മായ്ക്കുക
 addresses-delete-address-prompt-cancel-button = റദ്ദാക്കുക
+payments-group =
+    .label = പണമടക്കൽ മുറകൾ
 
 ## Privacy Section - History
 
@@ -959,6 +991,9 @@ history-remember-option-never =
     .label = നാള്‍വഴികൾ ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്
 history-remember-option-custom =
     .label = നാള്‍വഴിക്കു വേണ്ടി ഇച്ഛാനുസൃതം സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
@@ -981,6 +1016,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = നാള്‍വഴി മായ്ക്കൂ...
     .accesskey = s
+history-group =
+    .label = നാള്‍വഴി
 
 ## Privacy Section - Site Data
 
@@ -994,6 +1031,11 @@ sitedata-clear =
 sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
+cookies-site-data-group =
+    .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1105,6 +1147,9 @@ content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
 
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-header = അനുമതികൾ
@@ -1202,6 +1247,8 @@ website-advertising-header = വെബിടപ്പരസ്യമുൻഗണ
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = സുരക്ഷ
+browsing-protection-group =
+    .label = വഞ്ചനാപരമായ ഉള്ളടക്കത്തില്‍ നിന്നും അപകടകരമായ സോഫ്റ്റ്വെയറില്‍ നിന്നും സുരക്ഷ
 security-browsing-protection = വഞ്ചനാപരമായ ഉള്ളടക്കത്തില്‍ നിന്നും അപകടകരമായ സോഫ്റ്റ്വെയറില്‍ നിന്നും സുരക്ഷ
 security-enable-safe-browsing =
     .label = അപകടകരവും വഞ്ചനാപരവുമായ ഉള്ളടക്കം തടയുക

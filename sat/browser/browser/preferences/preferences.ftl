@@ -169,6 +169,8 @@ browser-containers-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = i
 containers-disable-alert-title = ᱡᱷᱚᱛᱚ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱵᱚᱸᱫᱚᱭ ᱟᱢ ᱥᱮ ?
+startup-group =
+    .label = ᱮᱛᱦᱚᱵ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -204,6 +206,9 @@ containers-remove-cancel-button = ᱱᱚᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱟᱞ�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱧᱮᱞᱚᱜ
+appearance-group =
+    .label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞᱚᱜ
+    .description = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱨᱚᱝ ᱦᱤᱥᱟᱹᱵᱽ ᱛᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟ ᱾ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱨᱚᱝ ᱥᱠᱤᱢᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ ᱾
 preferences-web-appearance-header = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱧᱮᱞᱚᱜ
 preferences-web-appearance-description = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱨᱚᱝ ᱦᱤᱥᱟᱹᱵᱽ ᱛᱮ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟ ᱾ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱨᱚᱝ ᱥᱠᱤᱢᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ ᱾
 preferences-web-appearance-choice-auto2 =
@@ -404,6 +409,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ᱨᱮᱫ ᱥᱟᱺᱪᱟᱣ ᱟᱢ ᱥᱮ ᱠᱷᱩᱞᱟᱹᱭ ᱟᱢ ᱠᱩᱠᱞᱤ ᱢᱮ
     .accesskey = A
+drm-group =
+    .label = ᱰᱤᱡᱤᱴᱟᱞ ᱨᱟᱭᱤᱴᱥ ᱢᱮᱱᱮᱡᱢᱮᱱᱴ (DRM) ᱡᱤᱱᱤᱥ
 drm-content-header = ᱰᱤᱡᱤᱴᱟᱞ ᱨᱟᱭᱤᱴᱥ ᱢᱮᱱᱮᱡᱢᱮᱱᱴ (DRM) ᱡᱤᱱᱤᱥ
 play-drm-content =
     .label = DRM-ᱠᱚᱵᱚᱡᱽ ᱟᱠᱟᱱ ᱠᱟᱛᱷᱟ ᱮᱢ ᱢᱮ
@@ -453,6 +460,9 @@ update-in-progress-ok-button = ᱵᱟᱹᱨᱜᱤᱞ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ᱞᱟᱦᱟᱜ ᱢᱮ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
@@ -472,6 +482,8 @@ performance-limit-content-process-blocked-desc = ᱡᱚᱱᱚᱥ ᱯᱨᱚᱥᱮ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ᱢᱩᱞ)
+performance-group =
+    .label = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
 
 ## General Section - Browsing
 
@@ -512,6 +524,8 @@ browsing-cfr-features =
     .label = ᱵᱽᱨᱟᱣᱡᱽ ᱥᱟᱶ ᱛᱮ ᱯᱷᱤᱪᱚᱨ ᱠᱚ ᱵᱟᱛᱟᱣᱟᱢᱟᱭ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+browsing-group =
+    .label = ᱯᱟᱱᱛᱮ ᱮᱫ ᱟ
 
 ## General Section - Proxy
 
@@ -521,11 +535,20 @@ network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 network-proxy-connection-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = e
+network-proxy-group =
+    .label = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱟᱡᱟᱣᱠᱚ
+    .description = ᱥᱟᱡᱟᱣ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ { -brand-short-name } ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣᱜᱼᱟ ᱾
 
 ## Home Section
 
 home-new-windows-tabs-header = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ
 home-new-windows-tabs-description2 = ᱟᱢ ᱟᱢᱟᱜ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ, ᱱᱟᱣᱟ ᱣᱤᱱᱰᱚ ᱟᱨ ᱱᱟᱣᱟ ᱴᱟᱵᱽ ᱮᱢᱟᱱ ᱠᱚ ᱚᱞ ᱠᱟᱛᱮ ᱪᱮᱫ ᱧᱮᱞᱟ ᱚᱱᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ{ " " }
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -558,6 +581,12 @@ use-current-pages =
 choose-bookmark =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -745,6 +774,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ᱫᱚ ᱵᱟᱭ ᱧᱮᱞ ᱢᱤᱞᱟᱣ ᱠᱟᱱᱟ ᱾
 sync-signedin-login-failure = ᱫᱟᱭᱟᱠᱟᱛᱮ { $email } ᱥᱟᱞᱟᱜ ᱫᱚᱦᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -948,6 +982,9 @@ primary-password-os-auth-dialog-message-win = ᱢᱤᱫᱴᱟᱝ ᱫᱟᱵᱟᱝ
 primary-password-os-auth-dialog-message-macosx = ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱢᱮ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ᱱᱟᱜᱟᱢ
@@ -978,6 +1015,12 @@ history-remember-option-never =
     .label = ᱦᱤᱛᱟᱹᱞ ᱛᱤᱥ ᱦᱚᱸ ᱟᱞᱚᱢ ᱩᱭᱦᱟᱹᱨ ᱟ
 history-remember-option-custom =
     .label = ᱦᱤᱛᱟᱹᱞ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ, ᱰᱟᱣᱱᱞᱚᱰ, ᱯᱷᱚᱨᱢ, ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱤᱛᱟᱹᱞ ᱢᱚᱱᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ᱫᱚ ᱱᱤᱡᱮᱨᱟᱜ ᱯᱟᱱᱛᱮ ᱭᱟᱜ ᱞᱮᱠᱟ ᱢᱤᱛ ᱜᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨᱟ, ᱟᱨ ᱟᱢ ᱣᱮᱵ ᱯᱟᱱᱛᱮ ᱞᱮᱠᱟ ᱡᱟᱦᱟᱱ ᱦᱤᱛᱟᱹᱞ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ, ᱰᱟᱣᱱᱞᱚᱰ, ᱯᱷᱚᱨᱢ, ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱤᱛᱟᱹᱞ ᱢᱚᱱᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
@@ -1004,6 +1047,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ…
     .accesskey = s
+history-group =
+    .label = ᱱᱟᱜᱟᱢ
 
 ## Privacy Section - Site Data
 
@@ -1049,6 +1094,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ᱮᱠᱥᱮᱯᱥᱚᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
     .accesskey = x
+cookies-site-data-group =
+    .label = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1279,12 +1326,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ᱡᱟᱹᱯᱛᱤ
+browsing-protection-group =
+    .label = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
 security-browsing-protection = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
 security-enable-safe-browsing =
     .label = ᱤᱥᱠᱟᱨ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱡᱚᱱᱚᱥ ᱵᱟᱹᱰ ᱢᱮ
@@ -1331,6 +1383,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
+dns-over-https-group =
+    .label = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
 preferences-doh-description = HTTPS ᱨᱮ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱥᱤᱥᱴᱮᱢ (DNS) ᱟᱢᱟᱜ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱨ ᱢᱤᱫ ᱠᱨᱤᱯᱴᱮᱰ ᱡᱩᱲᱟᱹᱣ ᱛᱟᱞᱟᱛᱮ ᱯᱟᱨᱥᱟᱞᱟᱭ, ᱢᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱤᱹᱮᱱᱹᱮᱥ ᱵᱮᱱᱟᱣᱜ ᱠᱟᱱᱟ ᱟᱨ ᱟᱢ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ ᱚᱱᱟ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱟᱸᱴᱚᱜ ᱢᱟᱸ ᱾
 # Variables:
 #   $status (string) - The status of the DoH connection

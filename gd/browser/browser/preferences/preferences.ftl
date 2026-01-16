@@ -169,6 +169,8 @@ browser-containers-settings =
     .label = Roghainnean…
     .accesskey = i
 containers-disable-alert-title = A bheil thu airson gach taba soithich a dhùnadh?
+startup-group =
+    .label = Aig an toiseach
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -207,6 +209,9 @@ containers-remove-cancel-button = Na thoir an soitheach seo air falbh
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Cànan is coltas
+appearance-group =
+    .label = Coltas nan làrach
+    .description = Cuiridh cuid a làraichean-lìn gleus air sgeama an dathan a-rèir nan roghainnean agad-sa. Tagh an sgeama dhathan a bu mhiann leat dha na làraichean ud.
 preferences-web-appearance-header = Coltas nan làrach
 preferences-web-appearance-description = Cuiridh cuid a làraichean-lìn gleus air sgeama an dathan a-rèir nan roghainnean agad-sa. Tagh an sgeama dhathan a bu mhiann leat dha na làraichean ud.
 preferences-web-appearance-choice-auto2 =
@@ -407,6 +412,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Faighnich dhìom a bheil mi airson faidhlichean fhosgladh no dùnadh
     .accesskey = a
+drm-group =
+    .label = Susbaint Digital Rights Management (DRM)
 drm-content-header = Susbaint Digital Rights Management (DRM)
 play-drm-content =
     .label = Cluich susbaint fo smachd DRM
@@ -456,6 +463,9 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -475,6 +485,8 @@ performance-limit-content-process-blocked-desc = Chan urrainn dhut àireamh nam 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (bun-roghainn)
+performance-group =
+    .label = Dèanadas
 
 ## General Section - Browsing
 
@@ -512,6 +524,8 @@ browsing-cfr-features =
     .label = Mol gleusan fhad ’s a nithear brabhsadh
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Barrachd fiosrachaidh
+browsing-group =
+    .label = A' brabhsadh
 
 ## General Section - Proxy
 
@@ -521,11 +535,20 @@ network-proxy-connection-learn-more = Barrachd fiosrachaidh
 network-proxy-connection-settings =
     .label = Roghainnean…
     .accesskey = e
+network-proxy-group =
+    .label = Roghainnean an lìonraidh
+    .description = Rèitich mar a cheanglas { -brand-short-name } ris an eadar-lìon.
 
 ## Home Section
 
 home-new-windows-tabs-header = Uinneagan is tabaichean ùra
 home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu an duilleag-dhachaigh agad no uinneag no taba ùr.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Cleachd mar am brabhsair bunaiteach
+    .accesskey = b
 
 ## Custom Homepage subpage
 
@@ -558,6 +581,12 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -746,6 +775,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -947,6 +981,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Eachdraidh
@@ -977,6 +1014,12 @@ history-remember-option-never =
     .label = Na cuimhnich an eachdraidh idir
 history-remember-option-custom =
     .label = Cleachd roghainnean gnàthaichte airson na h-eachdraidh
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
@@ -1003,6 +1046,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Falamhaich an eachdraidh...
     .accesskey = s
+history-group =
+    .label = Eachdraidh
 
 ## Privacy Section - Site Data
 
@@ -1048,6 +1093,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Stiùirich na h-eisgeachdan…
     .accesskey = e
+cookies-site-data-group =
+    .label = Briosgaidean is dàta làraichean
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1266,12 +1313,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tèarainteachd
+browsing-protection-group =
+    .label = Dìon o shusbaint mhealltach agus bathar-bog cunnartach
 security-browsing-protection = Dìon o shusbaint mhealltach agus bathar-bog cunnartach
 security-enable-safe-browsing =
     .label = Bac susbaint chunnartach is susbaint foill
@@ -1318,6 +1370,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS thar HTTPS
+dns-over-https-group =
+    .label = DNS thar HTTPS
 preferences-doh-description = Cuiridh Domain Name System (DNS) thar HTTPS d’ iarrtas airson ainm àrainn air ceangal crioptaichte, a’ cruthachadh DNS tèarainte agus bidh e nas dorra do dhaoine eile na làraichean-lìn a tha thu ag inntrigeadh fhaicinn.
 # Variables:
 #   $status (string) - The status of the DoH connection

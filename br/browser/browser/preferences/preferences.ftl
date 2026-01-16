@@ -180,6 +180,8 @@ browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
 containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
+startup-group =
+    .label = Loc'hañ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -406,6 +408,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Goulenn ma tleer digeriñ pe enrollañ ar restroù
     .accesskey = G
+drm-group =
+    .label = Endalc'had Digital Rights Management (DRM)
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
     .label = Lenn un endalc'had reoliet gant DRM
@@ -452,6 +456,9 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -471,6 +478,8 @@ performance-limit-content-process-blocked-desc = Evit kemmañ an niver a araezad
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (dre ziouer)
+performance-group =
+    .label = Digonusted
 
 ## General Section - Browsing
 
@@ -508,6 +517,8 @@ browsing-cfr-features =
     .label = Erbediñ keweriusterioù pa verdeit
     .accesskey = E
 browsing-cfr-recommendations-learn-more = Gouzout hiroc’h
+browsing-group =
+    .label = Furchal
 
 ## General Section - Proxy
 
@@ -517,11 +528,20 @@ network-proxy-connection-learn-more = Gouzout hiroc’h
 network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
+network-proxy-group =
+    .label = Arventennoù ar rouedad
+    .description = Kefluniañ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
 
 ## Home Section
 
 home-new-windows-tabs-header = Prenestroù hag ivinelloù nevez
 home-new-windows-tabs-description2 = Dibabit petra vo gwelet ganeoc'h pa vezot o tigeriñ ho pennbajenn, prenestroù, pe ivinelloù nevez.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Lakaat dre ziouer
+    .accesskey = L
 
 ## Custom Homepage subpage
 
@@ -554,6 +574,12 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -749,6 +775,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1022,6 +1053,12 @@ history-remember-option-never =
     .label = Ne zerc'hel ket soñj ar roll istor
 history-remember-option-custom =
     .label = Implijout arventennoù personelaet evit ar roll istor
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
@@ -1048,6 +1085,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Skarzhañ ar roll istor…
     .accesskey = r
+history-group =
+    .label = Roll istor
 
 ## Privacy Section - Site Data
 
@@ -1091,6 +1130,11 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = M
+cookies-site-data-group =
+    .label = Toupinoù ha roadennoù lec'hienn
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1310,12 +1354,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelroez
+browsing-protection-group =
+    .label = Endalc'had touellus ha Gwarez a-enep d'ar Meziantoù Arvarus
 security-browsing-protection = Endalc'had touellus ha Gwarez a-enep d'ar Meziantoù Arvarus
 security-enable-safe-browsing =
     .label = Stankañ endalc'hadoù arvarus pe touellus

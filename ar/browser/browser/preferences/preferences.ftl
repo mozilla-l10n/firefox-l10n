@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = أخبر مواقع الويب بعدم بيع بياناتي أو مشاركتها
     .accesskey = ش
+non-technical-privacy-group =
+    .label = تفضيلات خصوصية الموقع
 non-technical-privacy-header = تفضيلات خصوصية الموقع
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -205,6 +207,8 @@ browser-containers-settings =
     .label = الإعدادات…
     .accesskey = د
 containers-disable-alert-title = أأغلق كل الألسنة الحاوية؟
+startup-group =
+    .label = البدء
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -259,6 +263,9 @@ browser-layout-show-sidebar-desc = الوصول بسرعة إلى العلاما
 ## General Section - Language & Appearance
 
 language-and-appearance-header = اللغة و المظهر
+appearance-group =
+    .label = مظهر الموقع
+    .description = تكيف بعض المواقع مخطط ألوانها بناء على تفضيلاتك. أختر مخطط الألوان الذي تريد إستخدامه لهذه المواقع.
 preferences-web-appearance-header = مظهر الموقع
 preferences-web-appearance-description = تكيف بعض المواقع مخطط ألوانها بناء على تفضيلاتك. أختر مخطط الألوان الذي تريد إستخدامه لهذه المواقع.
 preferences-web-appearance-choice-auto2 =
@@ -473,6 +480,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = اسأل إذا كنت تريد فتح الملفات أو حفظها
     .accesskey = ك
+drm-group =
+    .label = محتوى إدارة الحقوق الرقمية (DRM)
 drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
 play-drm-content =
     .label = شغّل المحتوى الخاضع لإدارة الحقوق الرقمية
@@ -522,6 +531,9 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -541,6 +553,8 @@ performance-limit-content-process-blocked-desc = لا يمكن تعديل عدد
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = ‏{ $num } (المبدئي)
+performance-group =
+    .label = الأداء
 
 ## General Section - Browsing
 
@@ -586,6 +600,8 @@ browsing-cfr-features =
     .label = مزايا مستحسنة وأنت تتصفّح أرجاء الوِب
     .accesskey = س
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
+browsing-group =
+    .label = التّصفّح
 
 ## General Section - Proxy
 
@@ -595,11 +611,20 @@ network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
     .label = الإعدادات…
     .accesskey = ع
+network-proxy-group =
+    .label = إعدادات الشبكة
+    .description = اضبط طريقة اتصال { -brand-short-name } بالإنترنت.
 
 ## Home Section
 
 home-new-windows-tabs-header = النوافذ و الألسنة الجديدة
 home-new-windows-tabs-description2 = اختر ما تراه عندما تفتح صفحة البداية و النوافذ و الألسنة الجديدة.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = اجعله المبدئي
+    .accesskey = م
 
 ## Custom Homepage subpage
 
@@ -632,6 +657,12 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -844,6 +875,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
 sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1125,6 +1161,12 @@ history-remember-option-never =
     .label = لا يتذكر التأريخ أبدًا
 history-remember-option-custom =
     .label = يستخدم إعدادات مخصصة للتأريخ
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
@@ -1151,6 +1193,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = امسح التأريخ…
     .accesskey = ت
+history-group =
+    .label = التأريخ
 
 ## Privacy Section - Site Data
 
@@ -1202,6 +1246,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = أدِر الاستثناءات…
     .accesskey = ت
+cookies-site-data-group =
+    .label = الكعكات و بيانات المواقع
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1507,6 +1553,8 @@ website-advertising-private-attribution-description = يساعد هذا المو
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = الأمان
+browsing-protection-group =
+    .label = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-browsing-protection = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-enable-safe-browsing =
     .label = احجب المحتوى الخطير و المخادع
@@ -1560,10 +1608,15 @@ httpsonly-radio-disabled3 =
     .description = قد لا يزال { -brand-short-name } يرقي بعض الاتصالات
 httpsonly-radio-disabled =
     .label = لا تفعّل وضع HTTPS فقط
+httpsonly-group =
+    .label = وضع HTTPS فقط
+    .description = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 
 ## DoH Section
 
 preferences-doh-header = DNS عبر HTTPS
+dns-over-https-group =
+    .label = DNS عبر HTTPS
 preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
 preferences-doh-description2 = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم مجال من خلال اتصال مُعمّى، مما يوفر DNS آمنًا ويجعل من الصعب على الآخرين رؤية موقع الوب الذي أنت على وشك الوصول إليه.
 # Variables:

@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dir a websites da betg vender u cundivider mias datas
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferenzas per la protecziun da datas da websites
 non-technical-privacy-header = Preferenzas per la protecziun da datas da websites
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Parameters…
     .accesskey = r
 containers-disable-alert-title = Serrar tut ils tabs da container?
+startup-group =
+    .label = Aviar
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Acceda directamain als segnapaginas, als tabs
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua ed apparientscha
+appearance-group =
+    .label = Apparientscha da websites
+    .description = Tschertas websites adatteschan lur schema da colurs tut tenor tias preferenzas. Tscherna il schema da colur che ti utilisassas gugent per questas websites.
 preferences-web-appearance-header = Apparientscha da websites
 preferences-web-appearance-description = Tschertas websites adatteschan lur schema da colurs tut tenor tias preferenzas. Tscherna il schema da colur che ti utilisassas gugent per questas websites.
 preferences-web-appearance-choice-auto2 =
@@ -516,6 +523,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Dumandar sche avrir u memorisar las datotecas
     .accesskey = a
+drm-group =
+    .label = Cuntegn DRM (Digital Rights Management)
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
     .label = Far ir cuntegn controllà da DRM
@@ -594,6 +603,8 @@ performance-limit-content-process-blocked-desc = Igl è mo pussaivel da midar il
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Prestaziun
 
 ## General Section - Browsing
 
@@ -642,6 +653,8 @@ browsing-cfr-features =
     .label = Proponer funcziuns durant che ti navigheschas
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
+browsing-group =
+    .label = Navigaziun
 
 ## General Section - Proxy
 
@@ -651,11 +664,20 @@ network-proxy-connection-learn-more = Ulteriuras infurmaziuns
 network-proxy-connection-settings =
     .label = Parameters…
     .accesskey = P
+network-proxy-group =
+    .label = Parameters da la rait
+    .description = Configurar la moda da connexiun cun l'internet da { -brand-short-name }.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novas fanestras e tabs
 home-new-windows-tabs-description2 = Tscherna tge che vegn mussà cura che ti avras tia pagina da partenza, novas fanestras e novs tabs.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Definir sco standard
+    .accesskey = s
 
 ## Custom Homepage subpage
 
@@ -695,6 +717,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 home-homepage-header = Pagina iniziala
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -967,6 +992,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1309,6 +1339,10 @@ autofill-addresses-manage-addresses-button =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adressas e dapli
+payments-group =
+    .label = Metodas da pajament
 
 ## Privacy Section - History
 
@@ -1340,6 +1374,12 @@ history-remember-option-never =
     .label = Mai memorisar la cronologia
 history-remember-option-custom =
     .label = Utilisar per la cronologia ils parameters definids da l'utilisader
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
@@ -1366,6 +1406,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Stizzar la cronologia…
     .accesskey = z
+history-group =
+    .label = Cronologia
 
 ## Privacy Section - Site Data
 
@@ -1432,6 +1474,8 @@ sitedata-cookies-exceptions2 =
     .label = Administrar las excepziuns
     .accesskey = x
     .description = Ti pos specifitgar tge websites che dastgan adina u mai utilisar cookies e datas da websites.
+cookies-site-data-group =
+    .label = Cookies e datas da websites
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1779,6 +1823,8 @@ website-advertising-private-attribution-description = Quai gida a websites da va
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segirezza
+browsing-protection-group =
+    .label = Protecziun encunter cuntegn engianaivel e software privlusa
 security-browsing-protection = Protecziun encunter cuntegn engianaivel e software privlusa
 security-enable-safe-browsing =
     .label = Bloccar cuntegn privlus ed engianaivel
@@ -1835,10 +1881,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } actualisescha eventualmain tuttina tschertas connexiuns
 httpsonly-radio-disabled =
     .label = Betg activar il modus mo HTTPS
+httpsonly-group =
+    .label = Modus mo HTTPS
+    .description = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+dns-over-https-group =
+    .label = DNS via HTTPS
 preferences-doh-description = Domain Name System (DNS) via HTTPS trametta tia dumonda per ina domena via ina connexiun criptada cun crear in DNS segirà. Quai renda pli difficil ad auters da vesair tge websites che ti visitas.
 preferences-doh-description2 = Domain Name System (DNS) via HTTPS trametta tia dumonda per ina domena via ina connexiun criptada cun porscher in DNS segirà. Quai renda pli difficil ad auters da vesair tge websites che ti visitas.
 # Variables:

@@ -462,6 +462,11 @@ newtab-weather-opt-in-yes =
     .label = Այո
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Նյու Յորք քաղաք
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Տեսեք կանխատեսումը { $provider }-ում
+    .aria-description = { $provider } ∙ Հովանավորվում է
 
 ## Topic Labels
 

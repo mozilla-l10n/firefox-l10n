@@ -34,6 +34,8 @@ close-button =
 ## General Section
 
 startup-header = Startup
+startup-group =
+    .label = Startup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -98,6 +100,9 @@ applications-use-other-label =
 ##
 
 
+## Firefox support
+
+
 ## General Section - Performance
 
 
@@ -113,6 +118,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
+browsing-group =
+    .label = Ho lekola
 
 ## General Section - Proxy
 
@@ -123,7 +130,10 @@ network-proxy-connection-settings =
 ## Home Section
 
 
-## Home Section - Home Page Customization
+## Home Section - Default Browser
+
+
+## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -136,6 +146,12 @@ use-current-pages =
            *[other] Use Current Pages
         }
     .accesskey = C
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -152,6 +168,9 @@ use-current-pages =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -161,6 +180,12 @@ use-current-pages =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -210,7 +235,7 @@ forms-master-pw-fips-desc = Phetolo ya Phasewete e Hlolehile
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking

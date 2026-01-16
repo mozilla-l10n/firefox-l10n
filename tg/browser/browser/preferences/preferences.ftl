@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
     .accesskey = Б
+non-technical-privacy-group =
+    .label = Хусусиятҳои махфияти сомона
 non-technical-privacy-header = Хусусиятҳои махфияти сомона
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Танзимот…
     .accesskey = Т
 containers-disable-alert-title = Ҳамаи варақаҳои дарбаргирандаро мепӯшед?
+startup-group =
+    .label = Оғози кор
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Аз саҳифаи асосии худ на�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Забон ва намуди зоҳирӣ
+appearance-group =
+    .label = Намуди зоҳирии сомона
+    .description = Баъзе сомонаҳо нақшаи рангҳои худро дар асоси бартариҳо шумо мутобиқ мекунанд. Интихоб кунед, ки шумо кадом нақшаи рангро барои он сомонаҳо истифода бурдан мехоҳед.
 preferences-web-appearance-header = Намуди зоҳирии сомона
 preferences-web-appearance-description = Баъзе сомонаҳо нақшаи рангҳои худро дар асоси бартариҳо шумо мутобиқ мекунанд. Интихоб кунед, ки шумо кадом нақшаи рангро барои он сомонаҳо истифода бурдан мехоҳед.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Намоиши дархост барои кушодан ё нигоҳ доштани файлҳо
     .accesskey = Н
+drm-group =
+    .label = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 drm-content-header = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 play-drm-content =
     .label = Пахш кардани муҳтавои идорашавандаи DRM
@@ -660,6 +669,8 @@ performance-limit-content-process-blocked-desc = Иваз кардани шум�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (пешфарз)
+performance-group =
+    .label = Самаранокӣ
 
 ## General Section - Browsing
 
@@ -708,6 +719,8 @@ browsing-cfr-features =
     .label = Тавсия додани хусусиятҳо ҳангоми тамошобинӣ
     .accesskey = Т
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
+browsing-group =
+    .label = Тамошобинӣ
 
 ## General Section - Proxy
 
@@ -717,11 +730,20 @@ network-proxy-connection-learn-more = Маълумоти бештар
 network-proxy-connection-settings =
     .label = Танзимот…
     .accesskey = Т
+network-proxy-group =
+    .label = Танзимоти шабака
+    .description = Танзими тарзи пайвастшавии «{ -brand-short-name }» ба Интернет.
 
 ## Home Section
 
 home-new-windows-tabs-header = Равзанаҳо ва варақаҳои нав
 home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ бояд нишон дода шавад, вақте ки шумо саҳифаи асосӣ, равзанаҳои нав ва варақаҳои навро мекушоед.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Ҳамчун пешфарз танзим кунед
+    .accesskey = Ҳ
 
 ## Custom Homepage subpage
 
@@ -1479,6 +1501,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Нишониҳо ва ғайра
+payments-group =
+    .label = Тарзҳои пардохт
 
 ## Privacy Section - History
 
@@ -1510,6 +1536,15 @@ history-remember-option-never =
     .label = Таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад
 history-remember-option-custom =
     .label = Истифодаи танзимоти фармоишӣ барои таърих
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = «{ -brand-short-name }» барои тамошобинӣ, боргирӣ, шаклҳо ва таърихи ҷустуҷӯи шумо аз танзимоти фармоишии шумо истифода мебарад.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
@@ -1539,6 +1574,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Пок кардани таърих…
     .accesskey = П
+history-group =
+    .label = Таърих
 
 ## Privacy Section - Site Data
 
@@ -1605,6 +1642,8 @@ sitedata-cookies-exceptions2 =
     .label = Идоракунии истисноҳо
     .accesskey = И
     .description = Шумо метавонед муайян кунед, ки кадом сомонаҳо ҳамеша ё ҳеҷ гоҳ барои истифодаи кукиҳо ва маълумоти сомона иҷозат доранд ё надоранд.
+cookies-site-data-group =
+    .label = Кукиҳо ва иттилооти сомона
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1994,6 +2033,8 @@ website-advertising-private-attribution-description = Ин хусусият ба
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Амният
+browsing-protection-group =
+    .label = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-browsing-protection = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-enable-safe-browsing =
     .label = Манъ кардани муҳтавои дурӯғӣ ва зараровар
@@ -2050,10 +2091,15 @@ httpsonly-radio-disabled3 =
     .description = «{ -brand-short-name }» то ҳол метавонад баъзе пайвастҳоро такмид диҳад
 httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
+httpsonly-group =
+    .label = Реҷаи «Танҳо HTTPS»
+    .description = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 
 ## DoH Section
 
 preferences-doh-header = DNS тавассути HTTPS
+dns-over-https-group =
+    .label = DNS тавассути HTTPS
 preferences-doh-description = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро месозад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 preferences-doh-description2 = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро таъмин мекунад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 # Variables:

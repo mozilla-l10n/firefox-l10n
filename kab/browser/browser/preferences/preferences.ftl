@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ssuter i yismal web ur snuzuyen, ur beṭṭun isefka-w
     .accesskey = s
+non-technical-privacy-group =
+    .label = Ismenyifen n tbaḍnit n yismal web
 non-technical-privacy-header = Ismenyifen n tbaḍnit n yismal web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -215,6 +217,8 @@ browser-containers-settings =
     .label = Iγewwaṛen…
     .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
+startup-group =
+    .label = Asenker
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -259,6 +263,9 @@ browser-layout-show-sidebar =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tutlayt d urwes
+appearance-group =
+    .label = Arwes n usmel web
+    .description = Kra n yismal web ṭṭafaren aɣanib n yiniten yebnan ɣef yismenyifen-inek•inem. Fren anwa aɣanib n yiniten i tebɣiḍ ad t-tesqedceḍ i yismal-a.
 preferences-web-appearance-header = Arwes n usmel web
 preferences-web-appearance-description = Kra n yismal web ṭṭafaren aɣanib n yiniten yebnan ɣef yismenyifen-inek•inem. Fren anwa aɣanib n yiniten i tebɣiḍ ad t-tesqedceḍ i yismal-a.
 preferences-web-appearance-choice-auto2 =
@@ -475,6 +482,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Suter ma yella ad d-yeldi neɣ ad isekles ifuyla
     .accesskey = S
+drm-group =
+    .label = Izerfan n usefrek n ugbur umḍin (DRM)
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
     .label = Γɣaṛ agbur ittwaḥerzen s DRM-
@@ -524,6 +533,9 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -543,6 +555,8 @@ performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ am
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (amezwer)
+performance-group =
+    .label = Tamellit
 
 ## General Section - Browsing
 
@@ -588,6 +602,8 @@ browsing-cfr-features =
     .label = Welleh ɣef timahilin n tunigin iteddun akka tura.
     .accesskey = W
 browsing-cfr-recommendations-learn-more = Issin ugar
+browsing-group =
+    .label = Tunigin
 
 ## General Section - Proxy
 
@@ -597,11 +613,20 @@ network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
     .label = Iɣewwaṛen…
     .accesskey = I
+network-proxy-group =
+    .label = Iɣewwaṛen n uẓeṭṭa
+    .description = Swel amek { -brand-short-name } ad iqqen γer internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Isfuyla d yiccaren imaynuten
 home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ accaren imaynuten.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Sbadut d amezwar
+    .accesskey = G
 
 ## Custom Homepage subpage
 
@@ -634,6 +659,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -840,6 +871,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1110,6 +1146,10 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Asekles d taččart tawurmant n tansiwin
     .accesskey = A
+addresses-group =
+    .label = Tansiwin d wayen niḍen
+payments-group =
+    .label = Tarrayin n uxelleṣ
 
 ## Privacy Section - History
 
@@ -1141,6 +1181,12 @@ history-remember-option-never =
     .label = Ur ḥerrez ara azray
 history-remember-option-custom =
     .label = Seqdec iɣewwaṛen udmawanen i umazray-a
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
@@ -1167,6 +1213,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Sfeḍ azray…
     .accesskey = s
+history-group =
+    .label = Azray
 
 ## Privacy Section - Site Data
 
@@ -1219,6 +1267,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Sefrek tisuraf…
     .accesskey = x
+cookies-site-data-group =
+    .label = Inagan n tuqna akked isefka n usmel
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1521,6 +1571,8 @@ website-advertising-header = Ismenyifen n udellel n yismal web
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Taɣellist
+browsing-protection-group =
+    .label = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-browsing-protection = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-enable-safe-browsing =
     .label = Sewḥel yir agbur neɣ win iweɛṛen
@@ -1567,6 +1619,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS s HTTPS
+dns-over-https-group =
+    .label = DNS s HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Addad: { $status }

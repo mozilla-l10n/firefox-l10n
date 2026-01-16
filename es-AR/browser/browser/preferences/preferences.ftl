@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Decirle a los sitios web que no vendan ni compartan mis datos
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencias de privacidad del sitio web
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = i
 containers-disable-alert-title = ¿Cerrar todas las pestañas contenedoras?
+startup-group =
+    .label = Inicio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Acceso rápido a marcadores, pestañas desde 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma y apariencia
+appearance-group =
+    .label = Apariencia del sitio web
+    .description = Algunos sitios web adaptan su combinación de colores según las preferencias. Elija qué combinación de colores le gustaría usar para esos sitios.
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según las preferencias. Elija qué combinación de colores le gustaría usar para esos sitios.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = A
+drm-group =
+    .label = Contenido con Digital Rights Management (DRM)
 drm-content-header = Contenido con Digital Rights Management (DRM)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM-
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Modificar el número de proceso
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Recomendar funciones mientras navega
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Conocer más
+browsing-group =
+    .label = Navegar
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Conocer más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
+network-proxy-group =
+    .label = Configuración de red
+    .description = Configurar cómo { -brand-short-name } se conecta con Internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elija lo que se ve al abrir su página principal, ventanas nuevas y nuevas pestañas.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Hacer predeterminado
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1499,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Direcciones y más
+payments-group =
+    .label = Métodos de pago
 
 ## Privacy Section - History
 
@@ -1508,6 +1534,15 @@ history-remember-option-never =
     .label = Nunca recordar el historial
 history-remember-option-custom =
     .label = Usar la configuración personalizada para el historial
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } usará una configuración personalizada para el historial de navegación, descargas, formularios e historial de búsquedas.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } recordará su historial de navegación, descargas, formularios e historial de búsquedas.
@@ -1537,6 +1572,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpiar historial…
     .accesskey = s
+history-group =
+    .label = Historial
 
 ## Privacy Section - Site Data
 
@@ -1603,6 +1640,8 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Se puede especificar que sitios siempre o nunca permitirán usar cookies y datos del sitio.
+cookies-site-data-group =
+    .label = Cookies y datos del sitio
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1989,6 +2028,8 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group =
+    .label = Protección contra contenido engañoso y software peligroso
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
@@ -2045,10 +2086,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } aún puede actualizar ciertas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-group =
+    .label = Modo solo HTTPS
+    .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, creando un DNS seguro y haciendo más difícil que otros vean que sitio web está tratando de acceder.
 preferences-doh-description2 = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, proporcionando un DNS seguro y haciendo más difícil que otros vean que sitio web está tratando de acceder.
 # Variables:

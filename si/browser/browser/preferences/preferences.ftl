@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = මාගේ දත්ත විකිණීමෙන් හෝ බෙදා ගැනීමෙන් වළකින ලෙස අඩවි වලට පවසන්න
     .accesskey = s
+non-technical-privacy-group =
+    .label = අඩවි‌ සඳහා පෞද්ගලිකත්ව අභිප්‍රේත
 non-technical-privacy-header = අඩවි‌ සඳහා පෞද්ගලිකත්ව අභිප්‍රේත
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -199,6 +201,8 @@ browser-containers-settings =
     .label = සැකසුම්…
     .accesskey = i
 containers-disable-alert-title = සියළුම පටිති අඩංගු වසන්නද?
+startup-group =
+    .label = ආරම්භය
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -238,6 +242,9 @@ browser-layout-show-sidebar-desc = ඔබගේ ප්‍රධාන දැක�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = භාෂාව සහ පෙනුම
+appearance-group =
+    .label = අඩවියේ පෙනුම
+    .description = ඔබගේ අභිප්‍රේත මත පදනම්ව ඇතැම් වියමන අඩවිවල වර්ණ රටාව සැකසෙයි. එම අඩවි සඳහා භාවිතා කිරීමට කැමති වර්ණ රටාව තෝරන්න.
 preferences-web-appearance-header = අඩවියේ පෙනුම
 preferences-web-appearance-description = ඔබගේ අභිප්‍රේත මත පදනම්ව ඇතැම් වියමන අඩවිවල වර්ණ රටාව සැකසෙයි. එම අඩවි සඳහා භාවිතා කිරීමට කැමති වර්ණ රටාව තෝරන්න.
 preferences-web-appearance-choice-auto2 =
@@ -438,6 +445,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ගොනු අරින්න හෝ සුරකින්න දැයි අසන්න
     .accesskey = A
+drm-group =
+    .label = සංඛ්‍යාංක හිමිකම් කළමනාකරණ (DRM) අන්තර්ගතය
 drm-content-header = සංඛ්‍යාංක හිමිකම් කළමනාකරණ (DRM) අන්තර්ගතය
 play-drm-content =
     .label = DRM-පාලිත අන්තර්ගත වාදනය
@@ -487,6 +496,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -504,6 +516,8 @@ performance-limit-content-process-option = අන්තර්ගත සැකස
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num }(පෙරනිමි)
+performance-group =
+    .label = කාර්ය සාධනය
 
 ## General Section - Browsing
 
@@ -547,6 +561,8 @@ browsing-cfr-features =
     .label = ඔබ පිරික්සන දෑ සඳහා විශේෂාංග නිර්දේශ කරන්න
     .accesskey = f
 browsing-cfr-recommendations-learn-more = තව දැනගන්න
+browsing-group =
+    .label = පිරික්සීම
 
 ## General Section - Proxy
 
@@ -556,11 +572,20 @@ network-proxy-connection-learn-more = තව දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
+network-proxy-group =
+    .label = ජාල සැකසුම්
+    .description = { -brand-short-name } අන්තර්ජාලයට සම්බන්ධ වන අයුරු වින්‍යාස කරන්න.
 
 ## Home Section
 
 home-new-windows-tabs-header = නව කවුළු සහ පටිති
 home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, නව කවුළු හෝ පටිති විවෘත කරන විට ඔබ දැකීමට ප්‍රිය දෑ තෝරන්න.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = පෙරනිමි කරන්න
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -593,6 +618,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -796,6 +827,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1091,6 +1127,12 @@ history-remember-option-never =
     .label = ඉතිහාසය තබා නොගන්න
 history-remember-option-custom =
     .label = ඉතිහාසය සඳහා අභිරුචි සැකසුම්
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ඔබගේ පිරික්සුම්, බාගැනීම්, ආකෘති හා සෙවුම් ඉතිහාසය මතක තබා ගනියි.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } පෞද්ගලික පිරික්සුම් සැකසුම් එළෙසම යොදා ගැනෙයි, වියමනෙහි පිරික්සන විට කිසිදු ඉතිහාසයක් මතක තබා නොගනියි.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ඔබගේ පිරික්සුම්, බාගැනීම්, ආකෘති හා සෙවුම් ඉතිහාසය මතක තබා ගනියි.
@@ -1117,6 +1159,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ඉතිහාසය මකන්න...
     .accesskey = S
+history-group =
+    .label = ඉතිහාසය
 
 ## Privacy Section - Site Data
 
@@ -1165,6 +1209,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = හැරදැමීම් කළමනාකරණය...
     .accesskey = x
+cookies-site-data-group =
+    .label = දත්තකඩ හා අඩවි දත්ත
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1449,6 +1495,8 @@ website-advertising-private-attribution-description = මෙය අඩවි ව
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ආරක්‍ෂාව
+browsing-protection-group =
+    .label = කූට අන්තර්ගත සහ භයානක මෘදුකාංග ආරක්‍ෂණය
 security-browsing-protection = කූට අන්තර්ගත සහ භයානක මෘදුකාංග ආරක්‍ෂණය
 security-enable-safe-browsing =
     .label = භයානක හා කූට අන්තර්ගත අවහිර කරන්න
@@ -1501,10 +1549,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } තවදුරටත් සමහර සම්බන්ධතා උත්ශ්‍රේණි කරනු ඇත.
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
+httpsonly-group =
+    .label = HTTPS-පමණි ප්‍රකාරය
+    .description = අඩවි වලට ආරක්‍ෂිත සම්බන්ධතා පමණක් ඉඩ දෙයි. අනාරක්‍ෂිතව සබැඳීමට පෙර { -brand-short-name } අසනු ඇත.
 
 ## DoH Section
 
 preferences-doh-header = HTTPS හරහා ව.නා.ප.
+dns-over-https-group =
+    .label = HTTPS හරහා ව.නා.ප.
 preferences-doh-description = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්‍ධතාවක් මගින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. එය ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සාදමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
 preferences-doh-description2 = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්‍ධතාවක් මගින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. එය ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සපයමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
 # Variables:

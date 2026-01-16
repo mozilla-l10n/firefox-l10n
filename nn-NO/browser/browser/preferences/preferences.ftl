@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortel nettstadar om å ikkje selje eller dele mine data
     .accesskey = o
+non-technical-privacy-group =
+    .label = Personverninnstillingar for nettstaden
 non-technical-privacy-header = Personverninnstillingar for nettstaden
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Innstillingar…
     .accesskey = I
 containers-disable-alert-title = Late att alle behaldarfaner?
+startup-group =
+    .label = Startside
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mob
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk og utsjånad
+appearance-group =
+    .label = Utsjånaden på nettstaden
+    .description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
 preferences-web-appearance-header = Utsjånaden på nettstaden
 preferences-web-appearance-description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spør om du vil opne eller lagre filer
     .accesskey = S
+drm-group =
+    .label = Digital Rights Management (DRM) innhald
 drm-content-header = Digital Rights Management (DRM) innhald
 play-drm-content =
     .label = Spel DRM-kontrollert innhald
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Endring av talet på innhaldspr
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Yting
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Tilrå funksjonar medan du surfar
     .accesskey = T
 browsing-cfr-recommendations-learn-more = Les meir
+browsing-group =
+    .label = Nettlesing
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Les meir
 network-proxy-connection-settings =
     .label = Innstillingar…
     .accesskey = I
+network-proxy-group =
+    .label = Nettverksinnstillingar
+    .description = Konfigurer korleis { -brand-short-name } koplar seg til internett.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nye vindauge og faner
 home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida, nye vindauge og nye faner.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Bruk som standard
+    .accesskey = S
 
 ## Custom Homepage subpage
 
@@ -1480,6 +1502,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser og meir
+payments-group =
+    .label = Betalingsmåtar
 
 ## Privacy Section - History
 
@@ -1511,6 +1537,15 @@ history-remember-option-never =
     .label = Aldri hugse historikk
 history-remember-option-custom =
     .label = Bruke eigne innstillingar for historikk
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkjehistorikk.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vil bruke eigendefinerte innstillingar for nettlesar-, nedlastings-, skjema- og søkjehistorikk.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkjehistorikk.
@@ -1540,6 +1575,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tøm historikk…
     .accesskey = s
+history-group =
+    .label = Historikk
 
 ## Privacy Section - Site Data
 
@@ -1606,6 +1643,8 @@ sitedata-cookies-exceptions2 =
     .label = Handsam unntak
     .accesskey = H
     .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstad-data.
+cookies-site-data-group =
+    .label = Infokapslar og sidedata
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1995,6 +2034,8 @@ website-advertising-private-attribution-description = Dette hjelper nettstadar m
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerheit
+browsing-protection-group =
+    .label = Vern mot villeiande innhald og skadeleg programvare
 security-browsing-protection = Vern mot villeiande innhald og skadeleg programvare
 security-enable-safe-browsing =
     .label = Blokker farleg og villeiande innhald
@@ -2051,10 +2092,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan framleis oppgradere nokre tilkoplingar
 httpsonly-radio-disabled =
     .label = Ikkje slå på berre HTTPS-modus
+httpsonly-group =
+    .label = Berre HTTPS-modus
+    .description = Tillèt berre sikre tilkoplingar til nettstadar. { -brand-short-name } vil spørje før du koplar til på ein usikker måte.
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domennamn via ei kryptert tilkopling, lagar ein sikker DNS og gjer det vanskelegare for andre å sjå kva for nettstad du er i ferd med å besøkje.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domenenamn gjennom ei kryptert tilkopling, og gir eit sikkert DNS og gjer det vanskelegare for andre å sjå kva for nettstad du er i ferd med å besøke.
 # Variables:

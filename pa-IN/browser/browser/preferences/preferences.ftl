@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਮੇਰਾ ਡਾਟਾ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਨਾ ਕਰਨ ਲਈ ਦੱਸੋ
     .accesskey = s
+non-technical-privacy-group =
+    .label = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
 non-technical-privacy-header = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = i
 containers-disable-alert-title = ਸਾਰੀਆਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+startup-group =
+    .label = ਸ਼ੁਰੂਆਤ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = ਆਪਣੇ ਫ਼ੋਨ ਤੋਂ ਬੁੱ
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ਬੋਲੀ ਅਤੇ ਦਿੱਖ
+appearance-group =
+    .label = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
+    .description = ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੀਆਂ ਪਸੰਦਾਂ ਦੇ ਮੁਤਾਬਕ ਆਪਣੀ ਰੰਗ ਸਕੀਮ ਨੂੰ ਢਾਲ ਲੈਂਦੀਆਂ ਹਨ। ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ ਕਿਹੜੀ ਰੰਗ ਸਕੀਮ ਵਰਤਣੀ ਚਾਹੋਗੇ।
 preferences-web-appearance-header = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
 preferences-web-appearance-description = ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੀਆਂ ਪਸੰਦਾਂ ਦੇ ਮੁਤਾਬਕ ਆਪਣੀ ਰੰਗ ਸਕੀਮ ਨੂੰ ਢਾਲ ਲੈਂਦੀਆਂ ਹਨ। ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ ਕਿਹੜੀ ਰੰਗ ਸਕੀਮ ਵਰਤਣੀ ਚਾਹੋਗੇ।
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ਪੁੱਛੋ ਕਿ ਕੀ ਫਾਈਲਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ ਜਾਂ ਸੰਭਾਲਣਾ?
     .accesskey = A
+drm-group =
+    .label = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
 drm-content-header = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
 play-drm-content =
     .label = DRM-ਕੰਟਰੋਲ ਕੀਤੀ ਸਮੱਗਰੀ ਚਲਾਓ
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = ਸਮੱਗਰੀ ਪਰੋਸ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ਡਿਫਾਲਟ)
+performance-group =
+    .label = ਕਾਰਗੁਜ਼ਾਰੀ
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੇ ਲਈ ਸਿਫਾਰਸ਼ੀ ਫੀਚਰ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
+browsing-group =
+    .label = ਬਰਾਊਜ਼ਿੰਗ
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = ਹੋਰ ਜਾਣੋ
 network-proxy-connection-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = e
+network-proxy-group =
+    .label = ਨੈੱਟਵਰਕ ਸੈਟਿੰਗਾਂ
+    .description = ਸੰਰਚਨਾ ਕਰੋ ਕਿ { -brand-short-name } ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕਨੈਕਟ ਹੋਵੇ।
 
 ## Home Section
 
 home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
 home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਮੁੱਖ ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਦੇ ਹੋ।
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = …ਮੂਲ ਬਣਾਓ
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1493,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
+payments-group =
+    .label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 
 ## Privacy Section - History
 
@@ -1502,6 +1528,15 @@ history-remember-option-never =
     .label = ਅਤੀਤ ਕਦੇ ਵੀ ਯਾਦ ਨਾ ਰੱਖੋ
 history-remember-option-custom =
     .label = ਅਤੀਤ ਲਈ ਚੁਣਿੰਦਾ ਸੈਟਿੰਗ ਵਰਤੋਂ
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ, ਫਾਰਮਾਂ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਿੰਗ, ਡਾਊਨਲੋਡ, ਫਾਰਮ ਅਤੇ ਖੋਜ ਅਤੀਤ ਲਈ ਪਸੰਦੀਦਾ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੇਗਾ।
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ, ਫਾਰਮਾਂ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।
@@ -1531,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = …ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
     .accesskey = s
+history-group =
+    .label = ਅਤੀਤ
 
 ## Privacy Section - Site Data
 
@@ -1597,6 +1634,8 @@ sitedata-cookies-exceptions2 =
     .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = X
     .description = ਤੁਸੀਂ ਅਜਿਹੀਆਂ ਸਾਈਟਾਂ ਦੇ ਸਕਦੇ ਹੋ, ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹਮੇਸ਼ਾਂ ਦੇਣੀ ਹੈ ਜਾਂ ਨਹੀਂ ਦੇਣੀ ਹੈ।
+cookies-site-data-group =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1991,6 +2030,8 @@ website-advertising-private-attribution-description = ਇਹ ਸਾਈਟਾਂ 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ਸੁਰੱਖਿਆ
+browsing-protection-group =
+    .label = ਭਰਮਪੂਰਨ ਸਮੱਗਰੀ ਅਤੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ
 security-browsing-protection = ਭਰਮਪੂਰਨ ਸਮੱਗਰੀ ਅਤੇ ਖ਼ਤਰਨਾਕ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ
 security-enable-safe-browsing =
     .label = ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
@@ -2047,10 +2088,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } ਸ਼ਾਇਦ ਹਾਲੇ ਵੀ ਕੁਝ ਕਨੈਕਸ਼ਨ ਅੱਪਗਰੇਡ ਕਰੇ
 httpsonly-radio-disabled =
     .label = ਸਿਰਫ਼-HTTPS ਮੋਡ ਸਮਰੱਥ ਨਾ ਕਰੋ
+httpsonly-group =
+    .label = ਸਿਰਫ਼-HTTPS ਮੋਡ
+    .description = ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਿਰਫ਼ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਹੀ ਇਜਾਜ਼ਤ ਦਿਓ। { -brand-short-name } ਅਸੁਰੱਖਿਅਤ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੇਗਾ।
 
 ## DoH Section
 
 preferences-doh-header = HTTPS ਉੱਤੇ DNS
+dns-over-https-group =
+    .label = HTTPS ਉੱਤੇ DNS
 preferences-doh-description = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਬਣਾਉਂਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
 preferences-doh-description2 = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਦਿੰਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
 # Variables:

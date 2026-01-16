@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Peti al retejoj ne vendi aŭ dividi miajn datumojn
     .accesskey = v
+non-technical-privacy-group =
+    .label = Preferoj pri privateco en retejoj
 non-technical-privacy-header = Preferoj pri privateco en retejoj
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Agordoj…
     .accesskey = A
 containers-disable-alert-title = Ĉu fermi ĉiujn ingajn langetojn?
+startup-group =
+    .label = Starto
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Rapide aliru legosignojn aŭ langetojn el via
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingvo kaj aspekto
+appearance-group =
+    .label = Aspekto de retejoj
+    .description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
 preferences-web-appearance-header = Aspekto de retejoj
 preferences-web-appearance-description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demandi ĉu malfermi aŭ konservi dosierojn
     .accesskey = D
+drm-group =
+    .label = Enhavo kun cifereca administrado de rajtoj (DRM)
 drm-content-header = Enhavo kun cifereca administrado de rajtoj (DRM)
 play-drm-content =
     .label = Ludi DRM-administritan enhavon
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Nur eblas modifi la nombron de 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (norma)
+performance-group =
+    .label = Efikeco
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Sugesti funkciojn dum retumo
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Pli da informo
+browsing-group =
+    .label = Retumo
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
+network-proxy-group =
+    .label = Retaj agordoj
+    .description = Agordi la manieron, kiel { -brand-short-name } konektiĝas al la reto.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novaj fenestroj kaj langetoj
 home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo de via eka paĝo, novaj fenestroj aŭ novaj langetoj.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Elekti kiel norman
+    .accesskey = E
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1499,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresoj kaj pli
+payments-group =
+    .label = Pagmetodoj
 
 ## Privacy Section - History
 
@@ -1508,6 +1534,15 @@ history-remember-option-never =
     .label = neniam memoros historion
 history-remember-option-custom =
     .label = uzos personajn agordojn por la historio
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } uzos personecitigajn agordojn por via retumo, elŝutoj, formularoj kaj historio.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
@@ -1537,6 +1572,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Viŝi historion…
     .accesskey = V
+history-group =
+    .label = Historio
 
 ## Privacy Section - Site Data
 
@@ -1603,6 +1640,8 @@ sitedata-cookies-exceptions2 =
     .label = Administri esceptojn
     .accesskey = e
     .description = Vi povas specifi, kiuj retejoj ĉiam aŭ neniam rajtas uzi kuketojn kaj retejajn datumojn.
+cookies-site-data-group =
+    .label = Kuketoj kaj retejaj datumoj
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1992,6 +2031,8 @@ website-advertising-private-attribution-description = Tio ĉi permesas al retejo
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sekureco
+browsing-protection-group =
+    .label = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-browsing-protection = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-enable-safe-browsing =
     .label = Bloki danĝeran aŭ trompan enhavon
@@ -2048,10 +2089,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } povus tamen plisekurigi kelkajn konektojn
 httpsonly-radio-disabled =
     .label = Ne aktivigi HTTPS-nuran reĝimon
+httpsonly-group =
+    .label = HTTPS-nura reĝimo
+    .description = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 
 ## DoH Section
 
 preferences-doh-header = DNS per HTTPS
+dns-over-https-group =
+    .label = DNS per HTTPS
 preferences-doh-description = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio kreas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 preferences-doh-description2 = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio provizas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 # Variables:

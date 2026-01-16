@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = להורות לאתרים לא למכור או לשתף את הנתונים שלי
     .accesskey = מ
+non-technical-privacy-group =
+    .label = העדפות פרטיות של אתרים
 non-technical-privacy-header = העדפות פרטיות של אתרים
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = הגדרות…
     .accesskey = ג
 containers-disable-alert-title = האם לסגור את כל מגירות הלשוניות?
+startup-group =
+    .label = הפעלה
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = קבלת גישה מהירה לסימניות
 ## General Section - Language & Appearance
 
 language-and-appearance-header = שפה ותצוגה
+appearance-group =
+    .label = מראה האתר
+    .description = חלק מהאתרים מתאימים את ערכת הצבעים שלהם בהתאם להעדפות שלך. ניתן לבחור באיזו ערכת צבעים ברצונך להשתמש עבור אתרים אלה.
 preferences-web-appearance-header = מראה האתר
 preferences-web-appearance-description = חלק מהאתרים מתאימים את ערכת הצבעים שלהם בהתאם להעדפות שלך. ניתן לבחור באיזו ערכת צבעים ברצונך להשתמש עבור אתרים אלה.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = לשאול האם לפתוח או לשמור את הקבצים
     .accesskey = א
+drm-group =
+    .label = תוכן ניהול זכויות קניין (DRM)
 drm-content-header = תוכן ניהול זכויות קניין (DRM)
 play-drm-content =
     .label = הפעלת תוכן מוגן DRM
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = שינוי מספר תהליכ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ברירת מחדל)
+performance-group =
+    .label = ביצועים
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = קבלת המלצות על תכונות תוך כדי גלישה
     .accesskey = ת
 browsing-cfr-recommendations-learn-more = מידע נוסף
+browsing-group =
+    .label = דפדוף
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
     .label = הגדרות…
     .accesskey = ה
+network-proxy-group =
+    .label = הגדרות רשת
+    .description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
 
 ## Home Section
 
 home-new-windows-tabs-header = חלונות ולשוניות חדשים
 home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת פתיחת דף הבית שלך, חלונות חדשים ולשוניות חדשות.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = הגדרה כדפדפן ברירת המחדל
+    .accesskey = ב
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1505,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = כתובות ועוד
+payments-group =
+    .label = אמצעי תשלום
 
 ## Privacy Section - History
 
@@ -1514,6 +1540,15 @@ history-remember-option-never =
     .label = לעולם לא ישמור היסטוריה
 history-remember-option-custom =
     .label = ישתמש בהגדרות מותאמות אישית להיסטוריה
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = ‏{ -brand-short-name } ישתמש בהגדרות מותאמות אישית עבור היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
@@ -1543,6 +1578,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ניקוי היסטוריה…
     .accesskey = ה
+history-group =
+    .label = היסטוריה
 
 ## Privacy Section - Site Data
 
@@ -1609,6 +1646,8 @@ sitedata-cookies-exceptions2 =
     .label = ניהול חריגות
     .accesskey = ח
     .description = באפשרותך לציין אילו אתרים תמיד מורשים או אסורים להשתמש בעוגיות ונתוני אתרים.
+cookies-site-data-group =
+    .label = עוגיות ונתוני אתרים
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2000,6 +2039,8 @@ website-advertising-private-attribution-description = אפשרות זו מסיי
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = אבטחה
+browsing-protection-group =
+    .label = תוכן מטעה והגנת תוכנה מסוכנת
 security-browsing-protection = תוכן מטעה והגנת תוכנה מסוכנת
 security-enable-safe-browsing =
     .label = חסימת תוכן מסוכן ומטעה
@@ -2056,10 +2097,15 @@ httpsonly-radio-disabled3 =
     .description = ‏ייתכן ש־{ -brand-short-name } עדיין ישדרג חלק מהחיבורים
 httpsonly-radio-disabled =
     .label = לא להפעיל מצב HTTPS בלבד
+httpsonly-group =
+    .label = מצב HTTPS בלבד
+    .description = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 
 ## DoH Section
 
 preferences-doh-header = ‏DNS על גבי HTTPS
+dns-over-https-group =
+    .label = ‏DNS על גבי HTTPS
 preferences-doh-description = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, יוצרת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 preferences-doh-description2 = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, מספקת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 # Variables:

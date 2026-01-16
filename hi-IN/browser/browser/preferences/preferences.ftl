@@ -105,6 +105,8 @@ browser-containers-settings =
     .label = सेटिंग्स…
     .accesskey = i
 containers-disable-alert-title = क्या आप सभी कंटेनर टैब्स बंद करना चाहते हैं?
+startup-group =
+    .label = आरंभन
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -282,6 +284,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content =
     .label = DRM-नियंत्रित सामग्री चलाएं
@@ -315,6 +319,9 @@ update-in-progress-ok-button = और छोड़े
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = और जारी रखें
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = प्रदर्शन
@@ -334,6 +341,8 @@ performance-limit-content-process-blocked-desc = सामग्री प्र
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (तयशुदा)
+performance-group =
+    .label = प्रदर्शन
 
 ## General Section - Browsing
 
@@ -359,6 +368,8 @@ browsing-cfr-features =
     .label = ब्राउज़ करते समय सुविधाओं की सिफारिश करें
     .accesskey = f
 browsing-cfr-recommendations-learn-more = और जानें
+browsing-group =
+    .label = ब्राउज़िंग
 
 ## General Section - Proxy
 
@@ -368,11 +379,20 @@ network-proxy-connection-learn-more = अधिक जानें
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
+network-proxy-group =
+    .label = नेटवर्क सेटिंग
+    .description = विन्यस्त करें की { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
 
 ## Home Section
 
 home-new-windows-tabs-header = नया विंडोज और टैब
 home-new-windows-tabs-description2 = चुनें कि आप अपने होमपेज, नयी विंडो और नए टैब को खोलते समय क्या देखेंगे.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = तयशुदा बनाएँ
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -403,6 +423,12 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -514,6 +540,9 @@ containers-settings-button =
 containers-remove-button =
     .label = हटायें
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -553,6 +582,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } सत्यापित नहीं है.
 sync-signedin-login-failure = फिर से कनेक्ट करने के लिए साइन इन करें { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -704,6 +738,9 @@ forms-windows-sso-learn-more-link = अधिक जानें
 master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -734,6 +771,12 @@ history-remember-option-never =
     .label = इतिहास कभी याद ना रखें
 history-remember-option-custom =
     .label = इतिहास के लिए मनपसंद सेटिंग्स का उपयोग करें
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } द्वारा आपके ब्राउज़िंग, डाउनलोड, फॉर्म तथा खोज इतिहास याद रखा जाएगा.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } द्वारा आपके ब्राउज़िंग, डाउनलोड, फॉर्म तथा खोज इतिहास याद रखा जाएगा.
@@ -760,6 +803,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = इतिहास हटायें...
     .accesskey = s
+history-group =
+    .label = इतिहास
 
 ## Privacy Section - Site Data
 
@@ -790,6 +835,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
+cookies-site-data-group =
+    .label = कुकीज़ और साइट डेटा
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -951,12 +1004,17 @@ addon-recommendations-link = और जानें
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+browsing-protection-group =
+    .label = भ्रामक सामग्री और खतरनाक सॉफ़्टवेयर सुरक्षा
 security-browsing-protection = भ्रामक सामग्री और खतरनाक सॉफ़्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = ख़तरनाक और संदेहास्पद सामग्री रोकें
@@ -989,6 +1047,9 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = अधिक जानें
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

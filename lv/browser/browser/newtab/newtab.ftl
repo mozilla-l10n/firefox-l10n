@@ -85,6 +85,9 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 
 newtab-topsite-sponsored = Apmaksāts
 
+## Label used by screen readers for pinned top sites
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -126,6 +129,9 @@ newtab-menu-section-block = Bloķēt
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Pārtraukt sekot tēmai
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -380,6 +386,12 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -410,6 +422,11 @@ newtab-weather-menu-hide-weather = Paslēpt laikapstākļus jaunā cilnē
 newtab-weather-menu-learn-more = Uzzināt vairāk
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Laikapstākļu dati pašlaik nav pieejami.
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Skatīt prognozi { $provider }
+    .aria-description = { $provider } ∙ sponsorēts
 
 ## Topic Labels
 
@@ -459,6 +476,33 @@ newtab-section-follow-button = Sekot
 newtab-section-following-button = Seko
 newtab-section-unfollow-button = Pārtraukt sekošanu
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne tagad
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+

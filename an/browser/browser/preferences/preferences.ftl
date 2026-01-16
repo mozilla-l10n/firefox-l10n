@@ -109,6 +109,8 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = g
 containers-disable-alert-title = Zarrar totas las pestanyas de contenedor?
+startup-group =
+    .label = Inicio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -293,6 +295,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
 drm-content-header = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
 play-drm-content =
     .label = Reproducir conteniu controlau per DRM
@@ -327,6 +331,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -346,6 +353,8 @@ performance-limit-content-process-blocked-desc = Modificar lo numero de procesos
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (por defecto)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -376,6 +385,8 @@ browsing-cfr-features =
     .label = Recomendar caracteristicas mientres navegas
     .accesskey = c
 browsing-cfr-recommendations-learn-more = Saber-ne mas
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -385,11 +396,20 @@ network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
+network-proxy-group =
+    .label = Configuración de ret
+    .description = Configurar cómo { -brand-short-name } se connecta con internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas finestras y pestanyas
 home-new-windows-tabs-description2 = Triar qué ye lo que se vei quan s'ubre la pachina d'inicio, finestras nuevas y pestanyas nuevas.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Definir per defecto
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -420,6 +440,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -533,6 +559,9 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Borrar
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -572,6 +601,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no ye verificau.
 sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -754,6 +788,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escrib
 primary-password-os-auth-dialog-message-macosx = Crear una clau primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historial
@@ -784,6 +821,12 @@ history-remember-option-never =
     .label = no remerará l'historial
 history-remember-option-custom =
     .label = ferá servir a configuración personalizada de l'historial
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } recordará la tuya navegación, descargas, formularios y historial de busqueda.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = O { -brand-short-name } ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } recordará la tuya navegación, descargas, formularios y historial de busqueda.
@@ -810,6 +853,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Borrar l'historial…
     .accesskey = h
+history-group =
+    .label = Historial
 
 ## Privacy Section - Site Data
 
@@ -849,6 +894,14 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Chestionar excepcions…
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies y datos de puestos web
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1016,12 +1069,17 @@ addon-recommendations-link = Saber-ne mas
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
+browsing-protection-group =
+    .label = Protección contra los contenius enganyosos y los programas periglosos
 security-browsing-protection = Protección contra los contenius enganyosos y los programas periglosos
 security-enable-safe-browsing =
     .label = Blocar lo conteniu perigloso y malicioso
@@ -1059,6 +1117,9 @@ httpsonly-radio-enabled-pbm =
     .label = Activar lo modo Nomás-HTTPS nomás en as finestras privadas
 httpsonly-radio-disabled =
     .label = No activar lo modo Nomás-HTTPS
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

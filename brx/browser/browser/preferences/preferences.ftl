@@ -35,6 +35,17 @@ should-restart-ok = { -brand-short-name } खौ दानो फिनजाग
 cancel-no-restart-button = नेवसि
 restart-later = उनाव फिन जागाय
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = नागिरनायनि फिन
@@ -67,6 +78,8 @@ browser-containers-learn-more = गोबां सोलों
 browser-containers-settings =
     .label = सेटिं....
     .accesskey = i
+startup-group =
+    .label = जागायजेन्नाइ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -194,6 +207,9 @@ update-in-progress-ok-button = &नागार
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &सालाय लांबाय था
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-settings-learn-more = गोबां सोलों
@@ -219,6 +235,8 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-picture-in-picture-learn-more = गोबां सोलों
 browsing-cfr-recommendations-learn-more = गोबां सोलों
+browsing-group =
+    .label = ब्राउजिं
 
 ## General Section - Proxy
 
@@ -230,6 +248,12 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = गोदान उइन्ड'स आरो टेबफोर
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = डिफल्ट बानाय
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -256,6 +280,12 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमाकॅखौ बाहाय...
     .accesskey = ब
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -333,6 +363,13 @@ containers-add-button =
 containers-remove-button =
     .label = बोखार
 
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-manage-account = एकाउन्ट सामलाय
@@ -348,6 +385,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } थारबिजिरनाय जाया।
 sync-signedin-login-failure = फिन फोनांजाब खालामनो थाखाय साइन-इन खालाम { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-remove-account =
@@ -356,6 +398,12 @@ sync-remove-account =
 sync-sign-in =
     .label = साइन-इन
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -374,6 +422,13 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = थिना दोन
     .accesskey = v
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
 
 ## Privacy Section - Logins and Passwords
 
@@ -397,6 +452,12 @@ forms-master-pw-change =
     .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -428,6 +489,9 @@ history-remember-option-never =
     .label = माब्लाबाबो जारिमनखौ गोसोयाव दालाखि
 history-remember-option-custom =
     .label = जारिमिननि थाखाय कास्टम सेटिंखौ बाहाय
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
@@ -447,6 +511,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = जारिमिनखौ खोमोर...
     .accesskey = s
+history-group =
+    .label = जारिमिन
 
 ## Privacy Section - Site Data
 
@@ -455,6 +521,14 @@ sitedata-learn-more = गोबां सोलों
 sitedata-clear =
     .label = दाटाफोरखौ खोमोर...
     .accesskey = I
+cookies-site-data-group =
+    .label = कुकिफोर आरो साइट दाटा
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -500,6 +574,9 @@ content-blocking-cookies-label =
 content-blocking-expand-section =
     .tooltiptext = गोबां फोरमायथिहोग्रा
 
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-header = गनायथि
@@ -544,6 +621,9 @@ collection-privacy-notice = गुमुरथि मिथिसारहोन
 collection-health-report-link = गोबां सोलों
 addon-recommendations-link = गोबां सोलों
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -561,6 +641,12 @@ certs-enable-ocsp =
 certs-view =
     .label = चार्टिफिकेटखौ नाय...
     .accesskey = C
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

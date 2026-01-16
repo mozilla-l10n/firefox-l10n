@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Pyydä verkkosivustoja olemaan myymättä tai jakamatta tietojani
     .accesskey = s
+non-technical-privacy-group =
+    .label = Sivuston tietosuojakäytännöt
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Asetukset…
     .accesskey = e
 containers-disable-alert-title = Suljetaanko kaikki eristetyt välilehdet?
+startup-group =
+    .label = Käynnistys
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Käytä nopeasti kirjanmerkkejä, välilehti�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Kieli ja ulkoasu
+appearance-group =
+    .label = Verkkosivuston ulkoasu
+    .description = Jotkin verkkosivustot mukauttavat värimaailmaansa valintasi mukaan. Valitse, mitä värimaailmaa haluat käyttää tällaisilla sivustoilla.
 preferences-web-appearance-header = Verkkosivuston ulkoasu
 preferences-web-appearance-description = Jotkin verkkosivustot mukauttavat värimaailmaansa valintasi mukaan. Valitse, mitä värimaailmaa haluat käyttää tällaisilla sivustoilla.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Kysy avataanko vai tallennetaanko tiedostot
     .accesskey = A
+drm-group =
+    .label = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
     .label = Toista DRM-suojattua sisältöä
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Sisältöprosessien määrän m
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (oletus)
+performance-group =
+    .label = Suorituskyky
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Suosittele ominaisuuksia selaamisen yhteydessä
     .accesskey = u
 browsing-cfr-recommendations-learn-more = Lue lisää
+browsing-group =
+    .label = Selaus
 
 ## General Section - Proxy
 
@@ -718,11 +731,20 @@ network-proxy-connection-learn-more = Lue lisää
 network-proxy-connection-settings =
     .label = Asetukset…
     .accesskey = A
+network-proxy-group =
+    .label = Verkkoasetukset
+    .description = Muokkaa { -brand-short-name }-selaimen verkkoyhteysasetuksia.
 
 ## Home Section
 
 home-new-windows-tabs-header = Uudet ikkunat ja välilehdet
 home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun, uuden ikkunan tai uuden välilehden.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Aseta oletukseksi
+    .accesskey = e
 
 ## Custom Homepage subpage
 
@@ -1471,6 +1493,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Osoitteita ja muuta
+payments-group =
+    .label = Maksutavat
 
 ## Privacy Section - History
 
@@ -1502,6 +1528,15 @@ history-remember-option-never =
     .label = Ei mitään historiatietoja
 history-remember-option-custom =
     .label = Valitut historiatiedot
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } käyttää mukautettuja asetuksia selaus-, lataus-, lomake- ja hakuhistoriaa varten.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
@@ -1531,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tyhjennä historia…
     .accesskey = T
+history-group =
+    .label = Historiatiedot
 
 ## Privacy Section - Site Data
 
@@ -1597,6 +1634,8 @@ sitedata-cookies-exceptions2 =
     .label = Hallitse poikkeuksia
     .accesskey = k
     .description = Voit määrittää, mitkä verkkosivustot voivat aina tai ei koskaan käyttää evästeitä ja sivustotietoa.
+cookies-site-data-group =
+    .label = Evästeet ja sivustotiedot
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1986,6 +2025,8 @@ website-advertising-private-attribution-description = Tämä auttaa sivustoja ym
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Turvallisuus
+browsing-protection-group =
+    .label = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-browsing-protection = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-enable-safe-browsing =
     .label = Estä vaarallinen ja petollinen sisältö
@@ -2042,10 +2083,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } saattaa silti päivittää jotkin yhteydet salatuksi
 httpsonly-radio-disabled =
     .label = Älä käytä ”Vain HTTPS”-tilaa
+httpsonly-group =
+    .label = Vain HTTPS -tila
+    .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS:n kautta
+dns-over-https-group =
+    .label = DNS HTTPS:n kautta
 preferences-doh-description = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, luoden suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 preferences-doh-description2 = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, tarjoten suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 # Variables:

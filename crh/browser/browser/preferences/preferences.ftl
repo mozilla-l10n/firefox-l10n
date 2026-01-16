@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = Ayarlar…
     .accesskey = A
 containers-disable-alert-title = Konteyner İlmeklerniñ Episi Qapatılsınmı?
+startup-group =
+    .label = Başlanğıç
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -249,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Raqamsal Aqlar İdaresi (DRM) Muhtevası
 drm-content-header = Raqamsal Aqlar İdaresi (DRM) Muhtevası
 play-drm-content =
     .label = DRM-muraqabeli muhtevanı oynat
@@ -277,6 +281,9 @@ update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = İcraat
@@ -296,6 +303,8 @@ performance-limit-content-process-blocked-desc = Muhteva süreçleri sayısını
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ögbelgilgengen)
+performance-group =
+    .label = İcraat
 
 ## General Section - Browsing
 
@@ -322,6 +331,8 @@ browsing-cfr-features =
     .label = Siz seyran etkende hususiyetlerni tevsiye et
     .accesskey = h
 browsing-cfr-recommendations-learn-more = Daha Çoq Ögren
+browsing-group =
+    .label = Kezinti
 
 ## General Section - Proxy
 
@@ -331,11 +342,20 @@ network-proxy-connection-learn-more = Daa Çoq Ögren
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
+network-proxy-group =
+    .label = Şebeke Ayarları
+    .description = { -brand-short-name } kezicisiniñ İnternet'ke nasıl bağlanacağını endamlandırıñız.
 
 ## Home Section
 
 home-new-windows-tabs-header = Yañı Pencereler ve İlmekler
 home-new-windows-tabs-description2 = Ev saifeñizni, yañı pencerelerni ve yañı ilmeklerni açqanıñızda ne körgeniñizni saylañız.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Ögbelgilengen Yap
+    .accesskey = a
 
 ## Custom Homepage subpage
 
@@ -366,6 +386,12 @@ use-current-pages =
 choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -463,6 +489,9 @@ containers-add-button =
 containers-remove-button =
     .label = Çetleştir
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -497,6 +526,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } doğrulanmamış.
 sync-signedin-login-failure = Yañıdan { $email } esabına bağlanmaq içün lütfen içeri imzalanıñız
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -508,6 +542,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Giriş yap
     .accesskey = G
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -600,6 +640,12 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Keçmiş
@@ -630,6 +676,12 @@ history-remember-option-never =
     .label = Asla hatırlamaycaq
 history-remember-option-custom =
     .label = Şahsiyleştirilgen ayarlarğa köre hatırlaycaq
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
@@ -656,6 +708,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Keçmişi Temizle…
     .accesskey = T
+history-group =
+    .label = Keçmiş
 
 ## Privacy Section - Site Data
 
@@ -690,6 +744,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
+cookies-site-data-group =
+    .label = Çörekler ve Sayt Verileri
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -816,12 +878,17 @@ addon-recommendations-link = Daha çoq ögren
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Emniyet
+browsing-protection-group =
+    .label = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla
@@ -847,6 +914,12 @@ certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

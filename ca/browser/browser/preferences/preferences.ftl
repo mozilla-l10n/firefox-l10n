@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Sol·licita als llocs web que no venguin ni comparteixin les meves dades
     .accesskey = S
+non-technical-privacy-group =
+    .label = Preferències de privadesa del lloc web
 non-technical-privacy-header = Preferències de privadesa del lloc web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -184,6 +186,8 @@ browser-containers-settings =
     .label = Paràmetres…
     .accesskey = t
 containers-disable-alert-title = Voleu tancar totes les pestanyes de contenidor?
+startup-group =
+    .label = Inici
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -225,6 +229,9 @@ browser-layout-show-sidebar =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Llengua i aparença
+appearance-group =
+    .label = Aparença dels llocs web
+    .description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
 preferences-web-appearance-header = Aparença dels llocs web
 preferences-web-appearance-description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
 preferences-web-appearance-choice-auto2 =
@@ -427,6 +434,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demana si els fitxers s'han d'obrir o de desar
     .accesskey = a
+drm-group =
+    .label = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
     .label = Reprodueix contingut controlat per DRM
@@ -476,6 +485,9 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -495,6 +507,8 @@ performance-limit-content-process-blocked-desc = El nombre de processos de conti
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (per defecte)
+performance-group =
+    .label = Rendiment
 
 ## General Section - Browsing
 
@@ -538,6 +552,8 @@ browsing-cfr-features =
     .label = Recomana funcions durant la navegació
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Més informació
+browsing-group =
+    .label = Navegació
 
 ## General Section - Proxy
 
@@ -547,11 +563,20 @@ network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
     .label = Paràmetres…
     .accesskey = P
+network-proxy-group =
+    .label = Paràmetres de xarxa
+    .description = Configureu com el { -brand-short-name } es connecta a Internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Finestres i pestanyes noves
 home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina d'inici, finestres noves i pestanyes noves.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Fes que sigui el navegador per defecte
+    .accesskey = d
 
 ## Custom Homepage subpage
 
@@ -584,6 +609,12 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -784,6 +815,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1079,6 +1115,12 @@ history-remember-option-never =
     .label = No recordarà mai l'historial
 history-remember-option-custom =
     .label = Utilitza els paràmetres personalitzats de l'historial
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
@@ -1105,6 +1147,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Esborra l'historial…
     .accesskey = s
+history-group =
+    .label = Historial
 
 ## Privacy Section - Site Data
 
@@ -1153,6 +1197,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+cookies-site-data-group =
+    .label = Galetes i dades dels llocs
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1417,6 +1463,8 @@ website-advertising-private-attribution-description = Això ajuda els llocs a en
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
+browsing-protection-group =
+    .label = Protecció contra contingut enganyós i programari perillós
 security-browsing-protection = Protecció contra contingut enganyós i programari perillós
 security-enable-safe-browsing =
     .label = Bloca el contingut enganyós i perillós
@@ -1466,6 +1514,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, creant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 preferences-doh-description2 = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, proporcionant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 # Variables:

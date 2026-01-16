@@ -36,6 +36,17 @@ should-restart-ok = ಈಗ { -brand-short-name } ಮರಳಿ ಆರಂಭಿಸ
 cancel-no-restart-button = ರದ್ದು ಮಾಡು
 restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = ಹುಡುಕು ಫಲಿತಾಂಶಗಳು
@@ -80,6 +91,12 @@ browser-containers-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ�
 browser-containers-settings =
     .label = ಸಿದ್ಧತೆಗಳು…‍
     .accesskey = i
+startup-group =
+    .label = ಆರಂಭಿಕ
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -214,6 +231,9 @@ update-application-use-service =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ಕಾರ್ಯಕ್ಷಮತೆ
@@ -227,6 +247,8 @@ performance-limit-content-process-option = ಪರಿವಿಡಿ ಪ್ರಕ್
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ಪೂರ್ವನಿಯೋಜಿತ)
+performance-group =
+    .label = ಕಾರ್ಯಕ್ಷಮತೆ
 
 ## General Section - Browsing
 
@@ -244,6 +266,8 @@ browsing-use-cursor-navigation =
     .label = ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು
     .accesskey = c
 browsing-cfr-recommendations-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+browsing-group =
+    .label = ವೀಕ್ಷಣೆ
 
 ## General Section - Proxy
 
@@ -252,6 +276,15 @@ network-proxy-connection-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯ�
 network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು
+    .accesskey = D
 
 ## Custom Homepage subpage
 
@@ -276,6 +309,12 @@ use-current-pages =
 choose-bookmark =
     .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -351,6 +390,9 @@ containers-add-button =
 containers-remove-button =
     .label = ತೆಗೆದುಹಾಕು
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -385,6 +427,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.
 sync-signedin-login-failure = ಮರಳಿ ಸಂಪರ್ಕಿತಗೊಳ್ಳಲು ದಯವಿಟ್ಟು ಸೈನ್‌ ಇನ್ ಆಗಿ { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-remove-account =
@@ -393,6 +440,12 @@ sync-remove-account =
 sync-sign-in =
     .label = ಒಳಗೆ ಪ್ರವೇಶಿಸು‍
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -444,6 +497,9 @@ sync-verification-not-sent-body = ನಾವು ಈ ಸಮಯದಲ್ಲಿ ಒ�
 
 privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
 
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -459,6 +515,12 @@ forms-master-pw-change =
     .label = ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...
     .accesskey = M
 forms-master-pw-fips-desc = ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -490,6 +552,9 @@ history-remember-option-never =
     .label = ಎಂದಿಗೂ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ
 history-remember-option-custom =
     .label = ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
@@ -506,6 +571,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = ಸಿದ್ಧತೆಗಳು…
     .accesskey = t
+history-group =
+    .label = ಇತಿಹಾಸ
 
 ## Privacy Section - Site Data
 
@@ -517,6 +584,14 @@ sitedata-clear =
 sitedata-settings =
     .label = ದತ್ತಾಂಶವನ್ನು ನಿರ್ವಹಿಸು…
     .accesskey = M
+cookies-site-data-group =
+    .label = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -536,6 +611,19 @@ addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸ�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -578,6 +666,9 @@ collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರ�
 collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -608,6 +699,12 @@ certs-devices =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನಗಳು…
     .accesskey = D
 certs-devices-enable-fips = FIPS ಅನ್ನು ಶಕ್ತಗೊಳಿಸಿ
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 

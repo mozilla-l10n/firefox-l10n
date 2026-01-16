@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Recite web stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
+non-technical-privacy-group =
+    .label = Postavke privatnosti web stranice
 non-technical-privacy-header = Postavke privatnosti web stranice
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -213,6 +215,8 @@ browser-containers-settings =
     .label = Postavke…
     .accesskey = t
 containers-disable-alert-title = Zatvoriti sve Container tabove?
+startup-group =
+    .label = Pokretanje
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -261,6 +265,9 @@ browser-layout-show-sidebar-desc = Brzo pristupite zabilješkama, karticama s te
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izled
+appearance-group =
+    .label = Izgled web stranice
+    .description = Neke web stranice prilagođavaju svoju shemu boja na osnovu vaših preferencija. Odaberite šemu boja koju želite koristiti za te stranice.
 preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web stranice prilagođavaju svoju shemu boja na osnovu vaših preferencija. Odaberite šemu boja koju želite koristiti za te stranice.
 preferences-web-appearance-choice-auto2 =
@@ -481,6 +488,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pitaj da li otvoriti ili sačuvati datoteke
     .accesskey = A
+drm-group =
+    .label = Digital Rights Management (DRM) sadržaj
 drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
     .label = Reproduciraj DRM-kontrolisani sadržaj
@@ -530,6 +539,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -549,6 +561,8 @@ performance-limit-content-process-blocked-desc = Promjena broja procesa sadržaj
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (izvorno)
+performance-group =
+    .label = Performanse
 
 ## General Section - Browsing
 
@@ -594,6 +608,8 @@ browsing-cfr-features =
     .label = Preporučite funkcije dok pretražujete
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saznajte više
+browsing-group =
+    .label = Surfanje
 
 ## General Section - Proxy
 
@@ -603,11 +619,20 @@ network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
+network-proxy-group =
+    .label = Mrežne postavke
+    .description = Konfigurišite kako se { -brand-short-name } konektuje na internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novi prozori i tabovi
 home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorite svoju početnu stranicu, nove prozore i nove tabove.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Učini glavnim
+    .accesskey = G
 
 ## Custom Homepage subpage
 
@@ -640,6 +665,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -860,6 +891,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1165,6 +1201,12 @@ history-remember-option-never =
     .label = Nemoj nikad pamtiti historiju
 history-remember-option-custom =
     .label = Koristiti korisničke postavke za historiju
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } će pamtiti vašu historiju surfanja, preuzimanja, formi i pretraga.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } će pamtiti vašu historiju surfanja, preuzimanja, formi i pretraga.
@@ -1191,6 +1233,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Obriši historiju…
     .accesskey = s
+history-group =
+    .label = Historija
 
 ## Privacy Section - Site Data
 
@@ -1239,6 +1283,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Upravljaj izuzecima…
     .accesskey = x
+cookies-site-data-group =
+    .label = Kolačići i podaci stranica
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1563,6 +1609,8 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+browsing-protection-group =
+    .label = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-enable-safe-browsing =
     .label = Blokiraj opasan i obmanjujući sadržaj
@@ -1616,10 +1664,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } možda ipak nadogradi neke veze
 httpsonly-radio-disabled =
     .label = Ne omogućavajte samo HTTPS način rada
+httpsonly-group =
+    .label = Način rada samo za HTTPS
+    .description = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS-a
+dns-over-https-group =
+    .label = DNS preko HTTPS-a
 preferences-doh-description = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, stvarajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
 preferences-doh-description2 = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, pružajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
 # Variables:

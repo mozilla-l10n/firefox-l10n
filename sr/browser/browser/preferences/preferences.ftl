@@ -201,6 +201,8 @@ browser-containers-settings =
     .label = Подешавања…
     .accesskey = П
 containers-disable-alert-title = Затворити све картице у контејнеру?
+startup-group =
+    .label = Покретање
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -236,6 +238,9 @@ containers-remove-cancel-button = Не уклањај
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Језик и изглед
+appearance-group =
+    .label = Изглед веб странице
+    .description = Неке веб странице прилагођавају своју шему боја према вашим жељама. Изаберите шему боја коју желите да користите за те сајтове.
 preferences-web-appearance-header = Изглед веб странице
 preferences-web-appearance-description = Неке веб странице прилагођавају своју шему боја према вашим жељама. Изаберите шему боја коју желите да користите за те сајтове.
 preferences-web-appearance-choice-auto2 =
@@ -435,6 +440,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Питај да отворите или сачувате датотеке
     .accesskey = П
+drm-group =
+    .label = Садржај са заштитом ауторских права (DRM)
 drm-content-header = Садржај са заштитом ауторских права (DRM)
 play-drm-content =
     .label = Пуштај садржај заштићен DRM-ом
@@ -508,6 +515,9 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Перформансе
@@ -527,6 +537,8 @@ performance-limit-content-process-blocked-desc = Уређивање броја �
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (подразумевано)
+performance-group =
+    .label = Перформансе
 
 ## General Section - Browsing
 
@@ -564,6 +576,8 @@ browsing-cfr-features =
     .label = Препоручуј функције током прегледања
     .accesskey = ф
 browsing-cfr-recommendations-learn-more = Сазнајте више
+browsing-group =
+    .label = Прегледање
 
 ## General Section - Proxy
 
@@ -573,11 +587,20 @@ network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
     .label = Подешавања…
     .accesskey = П
+network-proxy-group =
+    .label = Подешавања мреже
+    .description = Подесите како { -brand-short-name } приступа интернету.
 
 ## Home Section
 
 home-new-windows-tabs-header = Нови прозори и картице
 home-new-windows-tabs-description2 = Изаберите шта желите да видите када отворите почетну страницу, нови прозор или картицу.
+
+## Home Section - Default Browser
+
+set-as-my-default-browser-2 =
+    .label = Постави као подразумеван
+    .accesskey = П
 
 ## Custom Homepage subpage
 
@@ -610,6 +633,12 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -813,6 +842,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } није потврђен.
 sync-signedin-login-failure = Пријавите се да поново повежете { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1053,6 +1087,12 @@ history-remember-option-never =
     .label = не чувај историју
 history-remember-option-custom =
     .label = прилагођена подешавања
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ће чувати историју прегледања, преузимања, образаца и претраге.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ће користити иста подешавања као и за приватно прегледање и неће чувати историју прегледања веб-страница.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ће чувати историју прегледања, преузимања, образаца и претраге.
@@ -1085,6 +1125,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Обриши историју…
     .accesskey = с
+history-group =
+    .label = Историја
 
 ## Privacy Section - Site Data
 
@@ -1142,6 +1184,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Управљај изузецима…
     .accesskey = з
+cookies-site-data-group =
+    .label = Колачићи и подаци о сајтовима
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1369,12 +1413,17 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безбедност
+browsing-protection-group =
+    .label = Заштита од обмањујућег садржаја и опасног софтвера
 security-browsing-protection = Заштита од обмањујућег садржаја и опасног софтвера
 security-enable-safe-browsing =
     .label = Блокирај опасан и обмањујућ садржај
@@ -1433,6 +1482,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS преко HTTPS-а
+dns-over-https-group =
+    .label = DNS преко HTTPS-а
 preferences-doh-description = Систем доменских имена (DNS) преко HTTPS-а шаље ваше захтеве за име домена путем шифроване везе и тако ствара безбедан DNS, што отежава другима да сазнају који сајт желите да отворите.
 # Variables:
 #   $status (string) - The status of the DoH connection
