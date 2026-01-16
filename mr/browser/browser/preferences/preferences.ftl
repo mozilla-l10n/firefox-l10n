@@ -310,6 +310,8 @@ performance-limit-content-process-blocked-desc = मजकूर प्रक्
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (पूर्वनिर्धारित)
+performance-group =
+    .label = कार्यक्षमता
 
 ## General Section - Browsing
 
