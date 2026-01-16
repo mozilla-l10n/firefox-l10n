@@ -86,6 +86,8 @@ browser-containers-settings =
     .label = Opstelling…
     .accesskey = t
 containers-disable-alert-title = Sluit alle konteksoortjies?
+startup-group =
+    .label = Begin
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
