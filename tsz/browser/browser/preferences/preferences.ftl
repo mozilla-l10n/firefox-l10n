@@ -119,6 +119,8 @@ browsing-use-autoscroll =
 browsing-use-cursor-navigation =
     .label = Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani
     .accesskey = m
+browsing-group =
+    .label = Miiunskakua
 
 ## General Section - Proxy
 
