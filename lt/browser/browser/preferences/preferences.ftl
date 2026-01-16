@@ -164,6 +164,8 @@ browser-containers-settings =
     .label = Nuostatos…
     .accesskey = u
 containers-disable-alert-title = Užverti visas sudėtinio rodinio korteles?
+startup-group =
+    .label = Paleistis
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -199,6 +201,9 @@ containers-remove-cancel-button = Palikti šį sudėtinį rodinį
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Kalba ir išvaizda
+appearance-group =
+    .label = Svetainių išvaizda
+    .description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
 preferences-web-appearance-header = Svetainių išvaizda
 preferences-web-appearance-description = Kai kurios svetainės pritaiko savo spalvų schemą pagal jūsų nustatymus. Pasirinkite, kurią spalvų schemą norėtumėte naudoti tokioms svetainėms.
 preferences-web-appearance-choice-auto2 =
@@ -448,6 +453,9 @@ update-in-progress-ok-button = &Atmesti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Našumas
@@ -519,6 +527,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nauji langai ir kortelės
 home-new-windows-tabs-description2 = Pasirinkite, ką norite matyti atvėrę savo pradžios tinklalapį, naujus langus, naujas korteles.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pradžios tinklalapis ir nauji langai
@@ -550,6 +561,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -737,6 +754,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -936,6 +958,9 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Žurnalas
@@ -1035,6 +1060,12 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1236,6 +1267,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1284,6 +1318,9 @@ httpsonly-radio-enabled-pbm =
     .label = Įjungti tik HTTPS veikseną privačiojo naršymo languose
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
