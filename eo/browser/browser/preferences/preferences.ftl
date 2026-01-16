@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Peti al retejoj ne vendi aŭ dividi miajn datumojn
     .accesskey = v
+non-technical-privacy-group =
+    .label = Preferoj pri privateco en retejoj
 non-technical-privacy-header = Preferoj pri privateco en retejoj
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demandi ĉu malfermi aŭ konservi dosierojn
     .accesskey = D
+drm-group =
+    .label = Enhavo kun cifereca administrado de rajtoj (DRM)
 drm-content-header = Enhavo kun cifereca administrado de rajtoj (DRM)
 play-drm-content =
     .label = Ludi DRM-administritan enhavon
@@ -1485,6 +1489,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresoj kaj pli
+payments-group =
+    .label = Pagmetodoj
 
 ## Privacy Section - History
 
