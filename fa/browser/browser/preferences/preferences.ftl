@@ -466,6 +466,9 @@ network-proxy-connection-learn-more = اطلاعات بیشتر
 network-proxy-connection-settings =
     .label = تنظیمات…
     .accesskey = ت
+network-proxy-group =
+    .label = تنظیمات شبکه
+    .description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
 
 ## Home Section
 
