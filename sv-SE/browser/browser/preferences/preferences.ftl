@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Säg till webbplatser att inte sälja eller dela mina data
     .accesskey = S
+non-technical-privacy-group =
+    .label = Sekretessinställningar för webbplatsen
 non-technical-privacy-header = Sekretessinställningar för webbplatsen
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Inställningar…
     .accesskey = s
 containers-disable-alert-title = Stäng alla innehållsflikar?
+startup-group =
+    .label = Vid start
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -718,11 +722,17 @@ network-proxy-connection-learn-more = Läs mer
 network-proxy-connection-settings =
     .label = Inställningar…
     .accesskey = n
+network-proxy-group =
+    .label = Nätverksinställningar
+    .description = Konfigurera hur { -brand-short-name } ansluter till internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nya fönster och flikar
 home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din startsida, ett nytt fönster eller en ny flik.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1609,6 +1619,8 @@ sitedata-cookies-exceptions2 =
     .label = Hantera undantag
     .accesskey = H
     .description = Du kan ange vilka webbplatser som alltid eller aldrig får använda kakor och webbplatsdata.
+cookies-site-data-group =
+    .label = Kakor och webbplatsdata
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2057,10 +2069,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan fortfarande uppgradera vissa anslutningar
 httpsonly-radio-disabled =
     .label = Aktivera inte endast HTTPS-läge
+httpsonly-group =
+    .label = Endast HTTPS-läge
+    .description = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 
 ## DoH Section
 
 preferences-doh-header = DNS över HTTPS
+dns-over-https-group =
+    .label = DNS över HTTPS
 preferences-doh-description = Domain Name System (DNS) över HTTPS skickar din begäran om ett domännamn via en krypterad anslutning, skapar en säker DNS och gör det svårare för andra att se vilken webbplats du ska komma åt.
 preferences-doh-description2 = Domain Name System (DNS) över HTTPS skickar din begäran om ett domännamn via en krypterad anslutning, vilket ger en säker DNS och gör det svårare för andra att se vilken webbplats du ska komma åt.
 # Variables:
