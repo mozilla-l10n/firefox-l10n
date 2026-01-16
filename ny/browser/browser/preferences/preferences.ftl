@@ -75,6 +75,9 @@ applications-use-other-label =
 ##
 
 
+## Firefox support
+
+
 ## General Section - Performance
 
 
@@ -87,7 +90,16 @@ applications-use-other-label =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
 
 
 ## Home Section - Firefox Home Content Customization
@@ -105,6 +117,9 @@ applications-use-other-label =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -114,6 +129,12 @@ applications-use-other-label =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -159,6 +180,8 @@ sync-engine-history =
 ## Privacy Section - History
 
 history-header = Mbiri
+history-group =
+    .label = Mbiri
 
 ## Privacy Section - Site Data
 
@@ -169,7 +192,7 @@ history-header = Mbiri
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Chidziwitso
