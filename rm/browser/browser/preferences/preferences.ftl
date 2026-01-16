@@ -644,6 +644,8 @@ browsing-cfr-features =
     .label = Proponer funcziuns durant che ti navigheschas
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
+browsing-group =
+    .label = Navigaziun
 
 ## General Section - Proxy
 
