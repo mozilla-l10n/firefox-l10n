@@ -242,6 +242,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
 drm-content-header = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
 play-drm-content =
     .label = DRM உள்ளடக்கங்கத்தை இயக்கு
