@@ -658,6 +658,8 @@ performance-limit-content-process-blocked-desc = 콘텐츠 프로세스 갯수 �
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (기본값)
+performance-group =
+    .label = 성능
 
 ## General Section - Browsing
 
