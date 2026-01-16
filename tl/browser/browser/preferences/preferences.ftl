@@ -426,6 +426,8 @@ browsing-cfr-features =
     .label = Magrekomenda ng mga feature habang nagba-browse
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Alamin pa
+browsing-group =
+    .label = Pag-browse
 
 ## General Section - Proxy
 
