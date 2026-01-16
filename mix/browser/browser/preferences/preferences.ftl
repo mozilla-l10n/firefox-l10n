@@ -129,6 +129,8 @@ performance-settings-learn-more = Kavi
 ## General Section - Browsing
 
 browsing-title = Sucha
+browsing-group =
+    .label = Sucha
 
 ## General Section - Proxy
 
