@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Standert meitsje
+    .accesskey = S
 
 ## Custom Homepage subpage
 
