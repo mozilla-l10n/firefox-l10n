@@ -251,6 +251,8 @@ browser-containers-settings =
     .label = Налады…
     .accesskey = а
 containers-disable-alert-title = Закрыць усе карткі кантэйнера?
+startup-group =
+    .label = Запуск
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
