@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = הגדרות…
     .accesskey = ג
 containers-disable-alert-title = האם לסגור את כל מגירות הלשוניות?
+startup-group =
+    .label = הפעלה
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
