@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Einstellungen…
     .accesskey = u
 containers-disable-alert-title = Alle Tabs im Umgebungen schließen?
+startup-group =
+    .label = Start
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -718,11 +720,17 @@ network-proxy-connection-learn-more = Weitere Informationen
 network-proxy-connection-settings =
     .label = Einstellungen…
     .accesskey = n
+network-proxy-group =
+    .label = Verbindungs-Einstellungen
+    .description = Jetzt festlegen, wie sich { -brand-short-name } mit dem Internet verbindet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Neue Fenster und Tabs
 home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in neuen Fenstern und Tabs geöffnet wird.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1609,6 +1617,8 @@ sitedata-cookies-exceptions2 =
     .label = Ausnahmen verwalten
     .accesskey = A
     .description = Sie können festlegen, welche Websites immer oder nie Cookies und Seitendaten verwenden dürfen.
+cookies-site-data-group =
+    .label = Cookies und Website-Daten
 
 ## Privacy Section - Cookie Banner Handling
 
