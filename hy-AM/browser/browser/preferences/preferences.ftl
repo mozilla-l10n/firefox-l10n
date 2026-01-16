@@ -1582,6 +1582,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }-ը դեռ կարող է արդիացնել որոշ կապակցումներ
 httpsonly-radio-disabled =
     .label = Չմիացնել Միայն HTTPS կերպը
+httpsonly-group =
+    .label = Միայն HTTPS կերպ
+    .description = Թույլատրում է միայն անվտանգ միացումները վեբ կայքերին։ Չպաշտպանված միացումից առաջ՝ { -brand-short-name }-ը կհարցնի։
 
 ## DoH Section
 
