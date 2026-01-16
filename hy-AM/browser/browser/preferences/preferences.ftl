@@ -554,6 +554,8 @@ browsing-cfr-features =
     .label = Դիտարկելիս առաջարկել յուրահատկություններ
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
+browsing-group =
+    .label = Դիտարկում
 
 ## General Section - Proxy
 
