@@ -724,6 +724,9 @@ network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
+network-proxy-group =
+    .label = Hálózati beállítások
+    .description = Állítsa be, hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
 
 ## Home Section
 
@@ -2065,6 +2068,9 @@ httpsonly-radio-disabled3 =
     .description = A { -brand-short-name } továbbra is frissítheti az egyes kapcsolatokat
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
+httpsonly-group =
+    .label = Csak HTTPS mód
+    .description = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 
 ## DoH Section
 
