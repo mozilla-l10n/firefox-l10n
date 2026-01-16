@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = ਆਪਣੇ ਫ਼ੋਨ ਤੋਂ ਬੁੱ
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ਬੋਲੀ ਅਤੇ ਦਿੱਖ
+appearance-group =
+    .label = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
+    .description = ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੀਆਂ ਪਸੰਦਾਂ ਦੇ ਮੁਤਾਬਕ ਆਪਣੀ ਰੰਗ ਸਕੀਮ ਨੂੰ ਢਾਲ ਲੈਂਦੀਆਂ ਹਨ। ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ ਕਿਹੜੀ ਰੰਗ ਸਕੀਮ ਵਰਤਣੀ ਚਾਹੋਗੇ।
 preferences-web-appearance-header = ਵੈੱਬਸਾਈਟ ਦੀ ਦਿੱਖ
 preferences-web-appearance-description = ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੀਆਂ ਪਸੰਦਾਂ ਦੇ ਮੁਤਾਬਕ ਆਪਣੀ ਰੰਗ ਸਕੀਮ ਨੂੰ ਢਾਲ ਲੈਂਦੀਆਂ ਹਨ। ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ ਕਿਹੜੀ ਰੰਗ ਸਕੀਮ ਵਰਤਣੀ ਚਾਹੋਗੇ।
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = ਸਮੱਗਰੀ ਪਰੋਸ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ਡਿਫਾਲਟ)
+performance-group =
+    .label = ਕਾਰਗੁਜ਼ਾਰੀ
 
 ## General Section - Browsing
 
@@ -1549,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = …ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
     .accesskey = s
+history-group =
+    .label = ਅਤੀਤ
 
 ## Privacy Section - Site Data
 
