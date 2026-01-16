@@ -367,6 +367,9 @@ home-new-windows-tabs-description2 = Kaji naku kuvinu kune'yanu sa sinenu págin
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Sá´á kua vají
+    .accesskey = S
 
 ## Custom Homepage subpage
 
