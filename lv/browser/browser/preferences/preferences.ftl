@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Teikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
     .accesskey = s
+non-technical-privacy-group =
+    .label = Vietņu privātuma preferences
 non-technical-privacy-header = Vietņu privātuma preferences
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -223,6 +225,9 @@ settings-tabs-show-image-in-preview =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Valoda un izskats
+appearance-group =
+    .label = Vietnes izskats
+    .description = Dažas vietnes pielāgo savu krāsu shēmu atbilstoši jūsu preferencēm. Izvēlieties, kuru krāsu shēmu vēlaties izmantot šīm vietnēm.
 preferences-web-appearance-header = Vietnes izskats
 preferences-web-appearance-description = Dažas vietnes pielāgo savu krāsu shēmu atbilstoši jūsu preferencēm. Izvēlieties, kuru krāsu shēmu vēlaties izmantot šīm vietnēm.
 preferences-web-appearance-choice-auto2 =
@@ -425,6 +430,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Vaicāt, vai atvērt vai saglabāt datnes
     .accesskey = a
+drm-group =
+    .label = Digitālā satura tiesību pārvaldības (DRM) saturs
 drm-content-header = Digitālā satura tiesību pārvaldības (DRM) saturs
 play-drm-content =
     .label = Atskaņot DRM kontrolētu saturu
@@ -1115,6 +1122,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Notīrīt vēsturi…
     .accesskey = v
+history-group =
+    .label = Vēsture
 
 ## Privacy Section - Site Data
 
@@ -1424,6 +1433,8 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Drošība
+browsing-protection-group =
+    .label = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-browsing-protection = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-enable-safe-browsing =
     .label = Bloķēt bīstamu un maldinošu saturu
