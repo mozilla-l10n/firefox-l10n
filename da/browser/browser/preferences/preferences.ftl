@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortæl websteder, at de ikke skal sælge eller dele mine data
     .accesskey = s
+non-technical-privacy-group =
+    .label = Privatlivsindstillinger for websted
 non-technical-privacy-header = Privatlivsindstillinger for websted
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -296,6 +298,9 @@ browser-layout-show-sidebar-desc = Få hurtig adgang til bogmærker, faneblade f
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Sprog og udseende
+appearance-group =
+    .label = Websteds-udseende
+    .description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
 preferences-web-appearance-header = Websteds-udseende
 preferences-web-appearance-description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
 preferences-web-appearance-choice-auto2 =
@@ -2070,10 +2075,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan stadig opgradere nogle forbindelser
 httpsonly-radio-disabled =
     .label = Slå ikke kun-HTTPS til
+httpsonly-group =
+    .label = Tilstanden Kun-HTTPS
+    .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+dns-over-https-group =
+    .label = DNS via HTTPS
 preferences-doh-description = DNS-opslag foretaget med DNS via HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
 preferences-doh-description2 = Domain Name System (DNS) via HTTPS sender din forespørgsel efter et domænenavn over en krypteret forbindelse for at sikre DNS og gøre det sværere for andre at se, hvilket websted du skal til at besøge.
 # Variables:
