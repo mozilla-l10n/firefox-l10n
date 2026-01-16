@@ -251,6 +251,9 @@ home-new-windows-tabs-header = गोदान उइन्ड'स आरो ट
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = डिफल्ट बानाय
+    .accesskey = D
 
 ## Custom Homepage subpage
 
