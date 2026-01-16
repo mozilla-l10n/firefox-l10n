@@ -554,6 +554,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Поставки…
     .accesskey = П
+history-group =
+    .label = Историја
 
 ## Privacy Section - Site Data
 
