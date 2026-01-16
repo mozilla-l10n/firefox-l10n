@@ -326,6 +326,9 @@ home-new-windows-tabs-description2 = ជ្រើសអ្វីដែលអ្�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ដាក់​ជា​លំនាំ​ដើម
+    .accesskey = D
 
 ## Custom Homepage subpage
 
