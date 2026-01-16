@@ -1367,6 +1367,8 @@ autofill-addresses-manage-addresses-title =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = วิธีการชำระเงิน
 
 ## Privacy Section - History
 
