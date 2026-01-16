@@ -817,6 +817,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
     .accesskey = x
+cookies-site-data-group =
+    .label = कुकीज़ और साइट डेटा
 
 ## Privacy Section - Cookie Banner Handling
 
