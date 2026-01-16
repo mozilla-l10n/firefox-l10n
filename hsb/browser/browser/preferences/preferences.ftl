@@ -304,6 +304,9 @@ browser-layout-show-sidebar-desc = Mějće spěšny přistup k zapołožkam, raj
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Rěč a zwonkowne
+appearance-group =
+    .label = Napohlad websydła
+    .description = Někotre websydła swoju barbowu šemu na zakładźe wašich nastajenjow přiměrjeja. Wubjerće, kotru barbowu šemu chceće za te sydła wužiwać.
 preferences-web-appearance-header = Napohlad websydła
 preferences-web-appearance-description = Někotre websydła swoju barbowu šemu na zakładźe wašich nastajenjow přiměrjeja. Wubjerće, kotru barbowu šemu chceće za te sydła wužiwać.
 preferences-web-appearance-choice-auto2 =
@@ -673,6 +676,8 @@ performance-limit-content-process-blocked-desc = Ličba wobsahowych procesow da 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Wukon
 
 ## General Section - Browsing
 
@@ -721,6 +726,8 @@ browsing-cfr-features =
     .label = Doporučće funkcije, mjeztym zo přehladujeće
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Dalše informacije
+browsing-group =
+    .label = Přehladowanje
 
 ## General Section - Proxy
 
@@ -1567,6 +1574,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Historiju zhašeć…
     .accesskey = s
+history-group =
+    .label = Historija
 
 ## Privacy Section - Site Data
 
