@@ -479,6 +479,9 @@ home-new-windows-tabs-description2 = انتخاب کنید چه چیزی در ز
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = تنظیم به عنوان پیش‌فرض
+    .accesskey = پ
 
 ## Custom Homepage subpage
 
