@@ -231,6 +231,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = ខ្លឹមសារ​ការគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM)
 drm-content-header = ខ្លឹមសារ​ការគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM)
 play-drm-content =
     .label = លេងខ្លឹមសារ​ដែលគ្រប់គ្រងដោយ DRM
