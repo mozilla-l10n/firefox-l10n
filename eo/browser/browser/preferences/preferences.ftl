@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Rapide aliru legosignojn aŭ langetojn el via
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingvo kaj aspekto
+appearance-group =
+    .label = Aspekto de retejoj
+    .description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
 preferences-web-appearance-header = Aspekto de retejoj
 preferences-web-appearance-description = Kelkaj retejoj adaptas siajn kolorarojn al viaj preferoj. Elektu la koloraron kiun vi ŝatus uzi por tiuj retejoj.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Nur eblas modifi la nombron de 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (norma)
+performance-group =
+    .label = Efikeco
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Sugesti funkciojn dum retumo
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Pli da informo
+browsing-group =
+    .label = Retumo
 
 ## General Section - Proxy
 
@@ -1553,6 +1560,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Viŝi historion…
     .accesskey = V
+history-group =
+    .label = Historio
 
 ## Privacy Section - Site Data
 
@@ -2075,6 +2084,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS per HTTPS
+dns-over-https-group =
+    .label = DNS per HTTPS
 preferences-doh-description = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio kreas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 preferences-doh-description2 = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio provizas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 # Variables:
