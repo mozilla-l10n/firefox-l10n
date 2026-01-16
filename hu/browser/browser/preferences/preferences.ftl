@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Beállítások…
     .accesskey = B
 containers-disable-alert-title = Az összes konténerlap bezárása?
+startup-group =
+    .label = Indítás
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Új ablakok és lapok
 home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a kezdőoldalt, vagy egy új ablakot, lapot.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1603,6 +1608,8 @@ sitedata-cookies-exceptions2 =
     .label = Kivételek kezelése
     .accesskey = v
     .description = Megadhatja, hogy mely webhelyek használhatnak mindig vagy soha sütiket és oldaladatokat.
+cookies-site-data-group =
+    .label = Sütik és oldaladatok
 
 ## Privacy Section - Cookie Banner Handling
 
