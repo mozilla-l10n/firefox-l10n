@@ -119,6 +119,8 @@ browser-containers-settings =
     .label = সেটিং
     .accesskey = i
 containers-disable-alert-title = সব কন্টেইনার ট্যাব বন্ধ করবেন?
+startup-group =
+    .label = শুরুতে
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -292,6 +294,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 drm-content-header = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 play-drm-content =
     .label = DRM-নিয়ন্ত্রিত কন্টেন্ট প্লে করুন
@@ -326,6 +330,9 @@ update-in-progress-ok-button = &বাতিল
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &চালিয়ে যান
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
@@ -345,6 +352,8 @@ performance-limit-content-process-blocked-desc = কন্টেন্ট প্
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ডিফল্ট)
+performance-group =
+    .label = কার্যকারিতা
 
 ## General Section - Browsing
 
@@ -391,6 +400,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাব
 home-new-windows-tabs-description2 = নীড় পাতা, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = নীড়পাতা এবং নতুন পর্দা
@@ -420,6 +432,12 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -574,6 +592,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } যাচাইকৃত নয়।
 sync-signedin-login-failure = { $email } পুনরায় সংযোগ করতে অনুগ্রহ করে সাইন ইন করুন
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -738,6 +761,9 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ইতিহাস
@@ -830,6 +856,12 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -993,12 +1025,17 @@ addon-recommendations-link = আরও জানুন
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = নিরাপত্তা
+browsing-protection-group =
+    .label = ক্ষতিকারক কন্টেন্ট ও বিপদজনক সফ্টওয়্যার সুরক্ষা
 security-browsing-protection = ক্ষতিকারক কন্টেন্ট ও বিপদজনক সফ্টওয়্যার সুরক্ষা
 security-enable-safe-browsing =
     .label = লুকানো এবং ক্ষতিকর কনটেন্ট ব্লক করো
@@ -1024,6 +1061,12 @@ certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
