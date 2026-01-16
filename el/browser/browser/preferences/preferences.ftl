@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης δεδομένων στους ιστοτόπους
     .accesskey = σ
+non-technical-privacy-group =
+    .label = Προτιμήσεις απορρήτου ιστοτόπων
 non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπων
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Ρυθμίσεις…
     .accesskey = ι
 containers-disable-alert-title = Κλείσιμο όλων των θεματικών καρτελών;
+startup-group =
+    .label = Εκκίνηση
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -583,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Ερώτηση για το εάν θα γίνεται άνοιγμα ή αποθήκευση των αρχείων
     .accesskey = Ε
+drm-group =
+    .label = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
     .label = Αναπαραγωγή περιεχομένου με έλεγχο DRM
@@ -1477,6 +1483,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Μέθοδοι πληρωμής
 
 ## Privacy Section - History
 
@@ -1603,6 +1611,8 @@ sitedata-cookies-exceptions2 =
     .label = Διαχείριση επεκτάσεων
     .accesskey = χ
     .description = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται ή απαγορεύεται πάντα η χρήση cookie και δεδομένων ιστοτόπου.
+cookies-site-data-group =
+    .label = Cookie και δεδομένα ιστοτόπων
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1992,6 +2002,8 @@ website-advertising-private-attribution-description = Αυτή η επιλογή
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ασφάλεια
+browsing-protection-group =
+    .label = Προστασία από παραπλανητικό περιεχόμενο και επικίνδυνο λογισμικό
 security-browsing-protection = Προστασία από παραπλανητικό περιεχόμενο και επικίνδυνο λογισμικό
 security-enable-safe-browsing =
     .label = Φραγή επικίνδυνου και παραπλανητικού περιεχομένου
@@ -2048,10 +2060,15 @@ httpsonly-radio-disabled3 =
     .description = Το { -brand-short-name } ενδέχεται και πάλι να αναβαθμίσει ορισμένες συνδέσεις
 httpsonly-radio-disabled =
     .label = Να μην ενεργοποιηθεί η λειτουργία «Μόνο HTTPS»
+httpsonly-group =
+    .label = Λειτουργία «Μόνο HTTPS»
+    .description = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
 
 ## DoH Section
 
 preferences-doh-header = DNS μέσω HTTPS
+dns-over-https-group =
+    .label = DNS μέσω HTTPS
 preferences-doh-description = Το DNS (Domain Name System) μέσω HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, δημιουργώντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
 preferences-doh-description2 = Το DNS (Domain Name System) μέσω HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, παρέχοντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
 # Variables:
