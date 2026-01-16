@@ -720,6 +720,9 @@ network-proxy-connection-learn-more = Lue lisää
 network-proxy-connection-settings =
     .label = Asetukset…
     .accesskey = A
+network-proxy-group =
+    .label = Verkkoasetukset
+    .description = Muokkaa { -brand-short-name }-selaimen verkkoyhteysasetuksia.
 
 ## Home Section
 
@@ -1476,6 +1479,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Maksutavat
 
 ## Privacy Section - History
 
@@ -1602,6 +1607,8 @@ sitedata-cookies-exceptions2 =
     .label = Hallitse poikkeuksia
     .accesskey = k
     .description = Voit määrittää, mitkä verkkosivustot voivat aina tai ei koskaan käyttää evästeitä ja sivustotietoa.
+cookies-site-data-group =
+    .label = Evästeet ja sivustotiedot
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2047,6 +2054,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } saattaa silti päivittää jotkin yhteydet salatuksi
 httpsonly-radio-disabled =
     .label = Älä käytä ”Vain HTTPS”-tilaa
+httpsonly-group =
+    .label = Vain HTTPS -tila
+    .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 
 ## DoH Section
 
