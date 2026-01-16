@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Indstillinger…
     .accesskey = n
 containers-disable-alert-title = Luk alle kontekst-faneblade?
+startup-group =
+    .label = Opstart
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -718,11 +720,17 @@ network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
+network-proxy-group =
+    .label = Forbindelsesindstillinger
+    .description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nye vinduer og faneblade
 home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din startside, nye vinduer og nye faneblade
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
