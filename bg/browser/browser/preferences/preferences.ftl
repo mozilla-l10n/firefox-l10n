@@ -592,6 +592,8 @@ browsing-cfr-features =
     .label = Препоръчване на възможности
     .accesskey = в
 browsing-cfr-recommendations-learn-more = Научете повече
+browsing-group =
+    .label = Разглеждане
 
 ## General Section - Proxy
 
