@@ -51,6 +51,8 @@ tabs-group-header = टॅब्जा
 show-tabs-in-taskbar =
     .label = विंडोस कार्यपट्टींत टॅब पूर्वदेखाव दाखोवचो
     .accesskey = र
+startup-group =
+    .label = सुरवेक
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -188,6 +190,9 @@ network-proxy-connection-settings =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -204,6 +209,9 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क वापरात…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -248,6 +256,9 @@ search-default-engine =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -257,9 +268,15 @@ search-default-engine =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } तपासूंक ना.
 sync-signedin-login-failure = परत जुळपाक मात्शे सायन ईन  { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -345,7 +362,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = बुकमार्कस्
