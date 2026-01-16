@@ -1376,6 +1376,8 @@ autofill-addresses-manage-addresses-title =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = ที่อยู่และอื่นๆ
 payments-group =
     .label = วิธีการชำระเงิน
 
@@ -1438,6 +1440,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ล้างประวัติ…
     .accesskey = ง
+history-group =
+    .label = ประวัติ
 
 ## Privacy Section - Site Data
 
