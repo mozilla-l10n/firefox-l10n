@@ -371,6 +371,9 @@ home-new-windows-tabs-description2 = Suɓo ko njiyataa so a udditii hello maa ja
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Waɗ ɗum Woowaande
+    .accesskey = W
 
 ## Custom Homepage subpage
 
