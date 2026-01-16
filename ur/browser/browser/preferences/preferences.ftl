@@ -280,6 +280,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = عددی حقوق بندرستگی(DRM) مواد
 drm-content-header = عددی حقوق بندرستگی(DRM) مواد
 play-drm-content =
     .label = DRM کے زیرانتظام مواد چلائیں
