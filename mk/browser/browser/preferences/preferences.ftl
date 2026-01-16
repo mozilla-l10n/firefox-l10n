@@ -85,6 +85,8 @@ browser-containers-settings =
     .label = Поставки…
     .accesskey = и
 containers-disable-alert-title = Да ги затворам сите контејнерски јазичиња?
+startup-group =
+    .label = Стартување
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
