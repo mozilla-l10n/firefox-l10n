@@ -475,6 +475,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = اسأل إذا كنت تريد فتح الملفات أو حفظها
     .accesskey = ك
+drm-group =
+    .label = محتوى إدارة الحقوق الرقمية (DRM)
 drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
 play-drm-content =
     .label = شغّل المحتوى الخاضع لإدارة الحقوق الرقمية
@@ -546,6 +548,8 @@ performance-limit-content-process-blocked-desc = لا يمكن تعديل عدد
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = ‏{ $num } (المبدئي)
+performance-group =
+    .label = الأداء
 
 ## General Section - Browsing
 
@@ -591,6 +595,8 @@ browsing-cfr-features =
     .label = مزايا مستحسنة وأنت تتصفّح أرجاء الوِب
     .accesskey = س
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
+browsing-group =
+    .label = التّصفّح
 
 ## General Section - Proxy
 
@@ -1221,6 +1227,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = أدِر الاستثناءات…
     .accesskey = ت
+cookies-site-data-group =
+    .label = الكعكات و بيانات المواقع
 
 ## Privacy Section - Cookie Banner Handling
 
