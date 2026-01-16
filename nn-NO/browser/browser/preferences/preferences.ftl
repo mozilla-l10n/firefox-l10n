@@ -1550,6 +1550,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tøm historikk…
     .accesskey = s
+history-group =
+    .label = Historikk
 
 ## Privacy Section - Site Data
 
