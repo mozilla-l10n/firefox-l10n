@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Acceda directamain als segnapaginas, als tabs
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua ed apparientscha
+appearance-group =
+    .label = Apparientscha da websites
+    .description = Tschertas websites adatteschan lur schema da colurs tut tenor tias preferenzas. Tscherna il schema da colur che ti utilisassas gugent per questas websites.
 preferences-web-appearance-header = Apparientscha da websites
 preferences-web-appearance-description = Tschertas websites adatteschan lur schema da colurs tut tenor tias preferenzas. Tscherna il schema da colur che ti utilisassas gugent per questas websites.
 preferences-web-appearance-choice-auto2 =
