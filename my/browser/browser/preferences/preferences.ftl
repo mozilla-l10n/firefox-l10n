@@ -335,6 +335,9 @@ home-new-windows-tabs-header = ဝင်းဒိုးအသစ်နှင့�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = စံသတ်မှတ်
+    .accesskey = D
 
 ## Custom Homepage subpage
 
