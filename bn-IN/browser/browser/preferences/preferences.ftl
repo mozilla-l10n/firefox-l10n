@@ -347,6 +347,9 @@ home-new-windows-tabs-description2 = হোমপেজ, নতুন ইউন�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ডিফল্ট বানান
+    .accesskey = D
 
 ## Custom Homepage subpage
 
