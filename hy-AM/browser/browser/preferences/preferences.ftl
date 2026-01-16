@@ -252,6 +252,9 @@ browser-layout-show-sidebar-desc = Արագորեն մատչեք Ձեր էջան
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Լեզուն և տեսքը
+appearance-group =
+    .label = Կայքի արտաքին տեսքը
+    .description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
 preferences-web-appearance-header = Կայքի արտաքին տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
 web-appearance-group =
@@ -569,6 +572,9 @@ network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
     .label = Կարգավորումներ…
     .accesskey = ա
+network-proxy-group =
+    .label = Ցանցի կարգավորումներ
+    .description = Կարգավորեք, թե ինչպես { -brand-short-name }-ը միանա համացանցին:
 
 ## Home Section
 
@@ -1191,6 +1197,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Մաքրել պատմությունը…
     .accesskey = s
+history-group =
+    .label = Պատմություն
 
 ## Privacy Section - Site Data
 
@@ -1591,6 +1599,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS-ը HTTPS-ի միջով
+dns-over-https-group =
+    .label = DNS-ը HTTPS-ի միջով
 preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 preferences-doh-description2 = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 # Variables:
