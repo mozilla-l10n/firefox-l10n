@@ -717,6 +717,8 @@ browsing-cfr-features =
     .label = Rekomandim veçorish, teksa shfletoni
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
+browsing-group =
+    .label = Shfletim
 
 ## General Section - Proxy
 
