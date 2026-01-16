@@ -142,6 +142,8 @@ play-drm-content-learn-more = Lab Kue
 ## General Section - Browsing
 
 browsing-title = Te tak kuan lu koo lash luu
+browsing-group =
+    .label = Te tak kuan lu koo lash luu
 
 ## General Section - Proxy
 
