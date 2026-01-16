@@ -50,6 +50,8 @@ tabs-group-header = Ntab
 show-tabs-in-taskbar =
     .label = Kyerɛ ntab priviw wɔ Windows taskbaa ne so
     .accesskey = b
+startup-group =
+    .label = Nhyɛase
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -150,6 +152,9 @@ update-application-use-service =
     .label = Fa ndaekyiri asom no instɔɔle ntoso bi
     .accesskey = n
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -168,6 +173,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Fa kɛɛsa akee nom kyini akrataafa mu
     .accesskey = k
+browsing-group =
+    .label = Ɛrebrawse
 
 ## General Section - Proxy
 
@@ -176,6 +183,9 @@ network-proxy-connection-settings =
     .accesskey = y
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -194,6 +204,9 @@ use-current-pages =
 choose-bookmark =
     .label = Fa Bukmaak di dwuma…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -223,6 +236,9 @@ search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwum
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -232,6 +248,12 @@ search-keyword-warning-bookmark = Wo apaw kasafua-titiriw a bukmaak de redi dwum
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -315,7 +337,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking
