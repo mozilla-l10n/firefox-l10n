@@ -565,6 +565,9 @@ network-proxy-connection-learn-more = තව දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
+network-proxy-group =
+    .label = ජාල සැකසුම්
+    .description = { -brand-short-name } අන්තර්ජාලයට සම්බන්ධ වන අයුරු වින්‍යාස කරන්න.
 
 ## Home Section
 
