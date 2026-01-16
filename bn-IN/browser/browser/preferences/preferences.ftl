@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = সেটিংস…
     .accesskey = i
 containers-disable-alert-title = সমস্ত কন্টেইনার ট্যাব বন্ধ করবেন?
+startup-group =
+    .label = প্রারম্ভ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
