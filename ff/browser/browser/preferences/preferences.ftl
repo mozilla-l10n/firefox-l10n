@@ -263,6 +263,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
 drm-content-header = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
 play-drm-content =
     .label = Tar loowdi curdaandi DRM
@@ -345,6 +347,8 @@ browsing-cfr-features =
     .label = Wasiyo fannuuji so aɗa wanngoo
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Jokku taro
+browsing-group =
+    .label = Peeragol
 
 ## General Section - Proxy
 
@@ -354,6 +358,9 @@ network-proxy-connection-learn-more = Ɓeydu humpito
 network-proxy-connection-settings =
     .label = Teelte…
     .accesskey = e
+network-proxy-group =
+    .label = Teelte geese
+    .description = Teelto hol no { -brand-short-name } seŋortoo e enternet oo.
 
 ## Home Section
 
@@ -735,6 +742,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Momtu Aslol…
     .accesskey = s
+history-group =
+    .label = Aslol
 
 ## Privacy Section - Site Data
 
