@@ -128,6 +128,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji
     .accesskey = r
+browsing-group =
+    .label = Gushakisha
 
 ## General Section - Proxy
 
