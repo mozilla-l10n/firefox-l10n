@@ -605,6 +605,9 @@ history-remember-option-never =
     .label = इतिहास कहिल्यै नसम्झिनुहोस्
 history-remember-option-custom =
     .label = इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
@@ -641,6 +644,8 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापन गर्नुहोस्…
     .accesskey = M
+cookies-site-data-group =
+    .label = कुकिजहरु र साइट डेटा
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -743,6 +748,8 @@ collection-health-report-disabled = यस निर्माण कन्फि
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+browsing-protection-group =
+    .label = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-browsing-protection = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस
