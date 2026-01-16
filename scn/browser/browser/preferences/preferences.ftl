@@ -119,6 +119,8 @@ browser-containers-settings =
     .label = Mpustazzioni…
     .accesskey = i
 containers-disable-alert-title = Vo’ chiùjiri tutti i schedi cuntinituri?
+startup-group =
+    .label = Abbìu
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -286,6 +288,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Cuntinutu di gistiuni diritta diggitali (DRM)
 drm-content-header = Cuntinutu di gistiuni diritta diggitali (DRM)
 play-drm-content =
     .label = Ripruduci cuntinutu cuntrullatu di DRM
@@ -342,6 +346,8 @@ performance-limit-content-process-blocked-desc = Canciari u nùmmaru di prucessi
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (pridifinutu)
+performance-group =
+    .label = Pristazziuni
 
 ## General Section - Browsing
 
@@ -372,6 +378,8 @@ browsing-cfr-features =
     .label = Raccumanna funziunalità mentri nàvighi
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
+browsing-group =
+    .label = Navicazzioni
 
 ## General Section - Proxy
 
@@ -381,6 +389,9 @@ network-proxy-connection-learn-more = Cchiù nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
+network-proxy-group =
+    .label = Mpustazzioni riti
+    .description = Cunfijura comu { -brand-short-name } si culleja â riti.
 
 ## Home Section
 
@@ -801,6 +812,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Scancella a crunuluggìa…
     .accesskey = C
+history-group =
+    .label = Crunuluggìa
 
 ## Privacy Section - Site Data
 
@@ -839,6 +852,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Manija dati…
     .accesskey = d
+cookies-site-data-group =
+    .label = Viscotta e dati dî siti
 
 ## Privacy Section - Cookie Banner Handling
 
