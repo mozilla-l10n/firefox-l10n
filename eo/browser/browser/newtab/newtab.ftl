@@ -486,6 +486,11 @@ newtab-weather-opt-in-yes =
     .label = Jes
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Novjorko
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Vidi veterprognozon en { $provider }
+    .aria-description = { $provider } ∙ Patronita
 
 ## Topic Labels
 
