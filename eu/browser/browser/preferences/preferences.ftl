@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Lehenetsi
+    .accesskey = L
 
 ## Custom Homepage subpage
 
