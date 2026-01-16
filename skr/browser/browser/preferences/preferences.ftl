@@ -420,6 +420,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = فائلاں کھولیندیں یا ہتھیکڑا کریندیں پچھو
     .accesskey = A
+drm-group =
+    .label = ڈیجیٹل رائٹس مینجمنٹ (DRM) مواد
 drm-content-header = ڈیجیٹل رائٹس مینجمنٹ (DRM) مواد
 play-drm-content =
     .label = DRM دے زیرانتظام مواد چلاؤ
@@ -468,6 +470,9 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -540,11 +545,17 @@ network-proxy-connection-learn-more = ٻیا سِکھو
 network-proxy-connection-settings =
     .label = ترتیباں…
     .accesskey = e
+network-proxy-group =
+    .label = نیٹ ورک دیاں ترتیباں
+    .description = کنفیگر کرو جو کیویں { -brand-short-name } انٹرنیٹ نال جڑدا ہے۔
 
 ## Home Section
 
 home-new-windows-tabs-header = نویاں ونڈوز تے ٹیباں
 home-new-windows-tabs-description2 = جݙاں تساں اپݨا ہوم پیج، نویں ونڈوز، تے نویاں ٹیباں کھولیندے او تاں تساں جو کجھ ݙیکھدے او اونکوں منتخب کرو۔
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -577,6 +588,12 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -777,6 +794,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
