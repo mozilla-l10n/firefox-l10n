@@ -606,6 +606,9 @@ network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
     .label = الإعدادات…
     .accesskey = ع
+network-proxy-group =
+    .label = إعدادات الشبكة
+    .description = اضبط طريقة اتصال { -brand-short-name } بالإنترنت.
 
 ## Home Section
 
