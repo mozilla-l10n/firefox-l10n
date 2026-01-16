@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ejerure ñanduti rendápe ani ovende ha omoherakuã che mba’ekuaarã
     .accesskey = s
+non-technical-privacy-group =
+    .label = Ñanduti renda marandu’i ñemigua
 non-technical-privacy-header = Ñanduti renda marandu’i ñemigua
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -295,6 +297,9 @@ browser-layout-show-sidebar-desc = Eike pya’e techaukaha, pumbyry rendayke, ch
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
+appearance-group =
+    .label = Mba’éicha ojehecha ñanduti renda
+    .description = Heta ñanduti renda omohenda isa’y jeporukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jeporukuaa reipotáva umi tendápe g̃uarã.
 preferences-web-appearance-header = Mba’éicha ojehecha ñanduti renda
 preferences-web-appearance-description = Heta ñanduti renda omohenda isa’y jeporukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jeporukuaa reipotáva umi tendápe g̃uarã.
 preferences-web-appearance-choice-auto2 =
@@ -582,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Eporandu embojuruja térã eñongatúta marandurenda
     .accesskey = A
+drm-group =
+    .label = Tembiapo Ñandutigua Derécho (TÑD) retepy
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
     .label = Emboheta tetepy oñangarekóva DRM rehe
@@ -1476,6 +1483,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Mba’éicha ehepyme’ẽta
 
 ## Privacy Section - History
 
@@ -1991,6 +2000,8 @@ website-advertising-private-attribution-description = Kóva oipytyvõta tendaku�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tekorosã
+browsing-protection-group =
+    .label = Ñemo’ã Mba’e Ag̃ave’ỹvagui
 security-browsing-protection = Ñemo’ã Mba’e Ag̃ave’ỹvagui
 security-enable-safe-browsing =
     .label = Ejoko tetepy kyhyjerã ha imarãkuaáva
@@ -2047,10 +2058,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } ombohekopyahukuaa gueteri heta juajurã
 httpsonly-radio-disabled =
     .label = Ani embojuruja HTTPS año ayvu
+httpsonly-group =
+    .label = HTTPS año ayvu
+    .description = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
 
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS reheguáva
+dns-over-https-group =
+    .label = DNS HTTPS reheguáva
 preferences-doh-description = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 preferences-doh-description2 = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 # Variables:
