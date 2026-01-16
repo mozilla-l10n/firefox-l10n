@@ -263,6 +263,9 @@ browser-layout-show-sidebar =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tutlayt d urwes
+appearance-group =
+    .label = Arwes n usmel web
+    .description = Kra n yismal web ṭṭafaren aɣanib n yiniten yebnan ɣef yismenyifen-inek•inem. Fren anwa aɣanib n yiniten i tebɣiḍ ad t-tesqedceḍ i yismal-a.
 preferences-web-appearance-header = Arwes n usmel web
 preferences-web-appearance-description = Kra n yismal web ṭṭafaren aɣanib n yiniten yebnan ɣef yismenyifen-inek•inem. Fren anwa aɣanib n yiniten i tebɣiḍ ad t-tesqedceḍ i yismal-a.
 preferences-web-appearance-choice-auto2 =
