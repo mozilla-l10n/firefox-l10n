@@ -353,6 +353,9 @@ home-new-windows-tabs-description2 = Çerni cöse ti veu vedde quande ti arvi a 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Adeuvia comme predefinio
+    .accesskey = A
 
 ## Custom Homepage subpage
 
