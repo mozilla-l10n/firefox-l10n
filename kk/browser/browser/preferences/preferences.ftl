@@ -1502,6 +1502,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Адрестер және т.б
+payments-group =
+    .label = Төлем әдістері
 
 ## Privacy Section - History
 
