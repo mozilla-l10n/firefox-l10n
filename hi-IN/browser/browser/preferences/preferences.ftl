@@ -284,6 +284,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content =
     .label = DRM-नियंत्रित सामग्री चलाएं
@@ -339,6 +341,8 @@ performance-limit-content-process-blocked-desc = सामग्री प्र
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (तयशुदा)
+performance-group =
+    .label = प्रदर्शन
 
 ## General Section - Browsing
 
@@ -790,6 +794,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = इतिहास हटायें...
     .accesskey = s
+history-group =
+    .label = इतिहास
 
 ## Privacy Section - Site Data
 
