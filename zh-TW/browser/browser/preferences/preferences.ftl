@@ -730,6 +730,9 @@ home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = 設為預設瀏覽器
+    .accesskey = D
 
 ## Custom Homepage subpage
 
