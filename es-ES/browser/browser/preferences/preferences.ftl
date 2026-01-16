@@ -724,6 +724,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página de inicio y ventanas nuevas
@@ -2042,10 +2045,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } todavía podría actualizar algunas conexiones
 httpsonly-radio-disabled =
     .label = No activar el modo solo-HTTPS
+httpsonly-group =
+    .label = Modo solo-HTTPS
+    .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y hace más difícil que otros vean que sitio web está tratando de acceder.
 preferences-doh-description2 = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que proporciona un DNS seguro y hace más difícil que otros vean qué sitio web está tratando de acceder.
 # Variables:
