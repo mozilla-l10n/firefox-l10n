@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortell nettsteder om ikke å selge eller dele mine data
     .accesskey = o
+non-technical-privacy-group =
+    .label = Nettstedets personverninnstillinger
 non-technical-privacy-header = Nettstedets personverninnstillinger
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spør om du vil åpne eller lagre filer
     .accesskey = S
+drm-group =
+    .label = Digital Rights Management (DRM) innhold
 drm-content-header = Digital Rights Management (DRM) innhold
 play-drm-content =
     .label = Spill DRM-kontrollert innhold
@@ -720,6 +724,9 @@ network-proxy-connection-learn-more = Les mer
 network-proxy-connection-settings =
     .label = Innstillinger …
     .accesskey = I
+network-proxy-group =
+    .label = Nettverksinnstillinger
+    .description = Konfigurer hvordan { -brand-short-name } kobler seg til internett.
 
 ## Home Section
 
@@ -1488,6 +1495,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Betalingsmåter
 
 ## Privacy Section - History
 
@@ -1614,6 +1623,8 @@ sitedata-cookies-exceptions2 =
     .label = Behandle unntak
     .accesskey = e
     .description = Du kan angi hvilke nettsteder som alltid eller aldri har lov til å bruke infokapsler og nettstedsdata.
+cookies-site-data-group =
+    .label = Infokapsler og nettstedsdata
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2006,6 +2017,8 @@ website-advertising-private-attribution-description = Dette hjelper nettsteder m
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerhet
+browsing-protection-group =
+    .label = Beskyttelse mot villedene innhold og skadelig programvare
 security-browsing-protection = Beskyttelse mot villedene innhold og skadelig programvare
 security-enable-safe-browsing =
     .label = Blokker farlig og villendende innhold
@@ -2062,10 +2075,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan fortsatt oppgradere noen tilkoblinger
 httpsonly-radio-disabled =
     .label = Ikke aktiver kun-HTTPS
+httpsonly-group =
+    .label = Kun-HTTPS-modus
+    .description = Tillater kun sikre tilkoblinger til nettsteder. { -brand-short-name } vil spørre, før en usikker tilkobling opprettes.
 
 ## DoH Section
 
 preferences-doh-header = DNS-over-HTTPS
+dns-over-https-group =
+    .label = DNS-over-HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS sender forespørselen din om et domenenavn gjennom en kryptert tilkobling, lager en sikker DNS og gjør det vanskeligere for andre å se hvilket nettsted du er i ferd med å besøke.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS sender forespørselen din om et domenenavn gjennom en kryptert tilkobling, og gir en sikker DNS og gjør det vanskeligere for andre å se hvilket nettsted du er i ferd med å besøke.
 # Variables:
