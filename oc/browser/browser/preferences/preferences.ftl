@@ -195,6 +195,8 @@ browser-containers-settings =
     .label = Paramètres…
     .accesskey = t
 containers-disable-alert-title = Tampar totes los onglets de contenedor ?
+startup-group =
+    .label = Aviada
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
