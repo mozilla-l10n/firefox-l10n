@@ -725,6 +725,9 @@ network-proxy-connection-learn-more = En savoir plus
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = P
+network-proxy-group =
+    .label = Paramètres réseau
+    .description = Configurer la façon dont { -brand-short-name } se connecte à Internet.
 
 ## Home Section
 
