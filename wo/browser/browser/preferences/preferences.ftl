@@ -43,6 +43,8 @@ is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
+startup-group =
+    .label = Tàmbali
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
