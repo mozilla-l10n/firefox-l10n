@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Decir a los sitios web que no vendan ni compartan mis datos
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencias de privacidad del sitio web
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Ajustes…
     .accesskey = i
 containers-disable-alert-title = ¿Cerrar todas las pestañas contenedoras?
+startup-group =
+    .label = Inicio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Accede rápidamente a marcadores, pestañas d
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma y apariencia
+appearance-group =
+    .label = Apariencia del sitio web
+    .description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según tus preferencias. Elige qué combinación de colores te gustaría usar para esos sitios.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = A
+drm-group =
+    .label = Contenido con DRM (Gestión de derechos digitales)
 drm-content-header = Contenido con DRM (Gestión de derechos digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -661,6 +670,8 @@ performance-limit-content-process-blocked-desc = Modificar el número de proceso
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -709,6 +720,8 @@ browsing-cfr-features =
     .label = Recomendar funciones mientras navegas
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Aprender más
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -718,11 +731,17 @@ network-proxy-connection-learn-more = Aprender más
 network-proxy-connection-settings =
     .label = Configuraciones…
     .accesskey = e
+network-proxy-group =
+    .label = Ajustes de conexión
+    .description = Configura cómo { -brand-short-name } se conecta a internet
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1502,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Direcciones y más
+payments-group =
+    .label = Métodos de pago
 
 ## Privacy Section - History
 
@@ -1609,6 +1632,8 @@ sitedata-cookies-exceptions2 =
     .label = Gestionar excepciones…
     .accesskey = x
     .description = Puedes especificar que sitios web tienen siempre permitido o prohibido usar cookies y datos de sitio.
+cookies-site-data-group =
+    .label = Cookies y datos de sitio
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2026,8 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group =
+    .label = Protección de contenido fraudulento y software peligroso
 security-browsing-protection = Protección de contenido fraudulento y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y fraudulento
@@ -2057,10 +2084,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } todavía podría mejorar algunas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-group =
+    .label = Modo solo HTTPS
+    .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 preferences-doh-description2 = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que entrega un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:
