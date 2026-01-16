@@ -205,6 +205,8 @@ browser-containers-settings =
     .label = الإعدادات…
     .accesskey = د
 containers-disable-alert-title = أأغلق كل الألسنة الحاوية؟
+startup-group =
+    .label = البدء
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -522,6 +524,9 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -601,6 +606,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = النوافذ و الألسنة الجديدة
 home-new-windows-tabs-description2 = اختر ما تراه عندما تفتح صفحة البداية و النوافذ و الألسنة الجديدة.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = صفحة البداية و النوافذ الجديدة
@@ -632,6 +640,12 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -844,6 +858,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
 sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
