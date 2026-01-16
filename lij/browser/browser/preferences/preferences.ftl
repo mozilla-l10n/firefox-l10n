@@ -302,6 +302,8 @@ performance-limit-content-process-blocked-desc = Cangiâ o numero de contegnui d
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinio)
+performance-group =
+    .label = Prestaçioin
 
 ## General Section - Browsing
 
