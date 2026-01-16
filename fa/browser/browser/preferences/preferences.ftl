@@ -419,6 +419,8 @@ performance-limit-content-process-blocked-desc = تغییر دادن تعداد 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (پیش‌فرض)
+performance-group =
+    .label = کارایی
 
 ## General Section - Browsing
 
@@ -1196,6 +1198,8 @@ collection-backlogged-crash-reports-with-link = به { -brand-short-name } اج�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = امنیت
+browsing-protection-group =
+    .label = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-browsing-protection = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-enable-safe-browsing =
     .label = مسدود سازی محتوا‌های خطرناک و فریبنده
