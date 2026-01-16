@@ -880,6 +880,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Llimpiar l'historial…
     .accesskey = h
+history-group =
+    .label = Historial
 
 ## Privacy Section - Site Data
 
