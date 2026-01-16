@@ -727,6 +727,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novi prozori i kartice
 home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš početnu stranicu, nove prozore i nove kartice.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Početna stranica i novi prozori
@@ -2036,10 +2039,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } će možda i nadalje nadograditi neke veze
 httpsonly-radio-disabled =
     .label = Nemoj aktivirati „Samo HTTPS” modus
+httpsonly-group =
+    .label = „Samo HTTPS” modus
+    .description = Dozvoljava samo sigurne veze s web-stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS
+dns-over-https-group =
+    .label = DNS preko HTTPS
 preferences-doh-description = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 preferences-doh-description2 = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 # Variables:
