@@ -252,6 +252,9 @@ browser-layout-show-sidebar-desc = Akses markah, tab dari ponsel Anda, chatbot A
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Bahasa dan Tampilan
+appearance-group =
+    .label = Tampilan situs web
+    .description = Beberapa situs web menyesuaikan skema warnanya berdasarkan preferensi Anda. Pilih skema warna mana yang ingin Anda gunakan untuk situs tersebut.
 preferences-web-appearance-header = Tampilan situs web
 preferences-web-appearance-description = Beberapa situs web menyesuaikan skema warnanya berdasarkan preferensi Anda. Pilih skema warna mana yang ingin Anda gunakan untuk situs tersebut.
 preferences-web-appearance-choice-auto2 =
