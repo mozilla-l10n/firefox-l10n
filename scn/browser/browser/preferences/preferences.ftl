@@ -400,6 +400,9 @@ home-new-windows-tabs-description2 = Scarta chiḍḍu chi vidi quannu grapi a p
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Fai addivintari pridifinutu
+    .accesskey = d
 
 ## Custom Homepage subpage
 
