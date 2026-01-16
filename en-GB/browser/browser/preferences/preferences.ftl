@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Quickly access bookmarks, tabs from your phon
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Language and Appearance
+appearance-group =
+    .label = Web site appearance
+    .description = Some web sites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
 preferences-web-appearance-header = Web site appearance
 preferences-web-appearance-description = Some web sites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Modifying the number of content
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = Performance
 
 ## General Section - Browsing
 
@@ -1561,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Clear History…
     .accesskey = s
+history-group =
+    .label = History
 
 ## Privacy Section - Site Data
 
