@@ -1160,6 +1160,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Kelola alamat dan lainnya
     .accesskey = m
+addresses-group =
+    .label = Alamat dan lainnya
+payments-group =
+    .label = Metode pembayaran
 
 ## Privacy Section - History
 
@@ -1217,6 +1221,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Hapus riwayat…
     .accesskey = r
+history-group =
+    .label = Riwayat
 
 ## Privacy Section - Site Data
 
@@ -1654,6 +1660,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS melalui HTTPS
+dns-over-https-group =
+    .label = DNS melalui HTTPS
 preferences-doh-description = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menciptakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
 preferences-doh-description2 = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menyediakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
 # Variables:
