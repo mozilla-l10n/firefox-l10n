@@ -658,6 +658,8 @@ performance-limit-content-process-blocked-desc = コンテンツプロセスの�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (デフォルト)
+performance-group =
+    .label = パフォーマンス
 
 ## General Section - Browsing
 
@@ -1510,6 +1512,15 @@ history-remember-option-never =
     .label = 履歴を一切記憶させない
 history-remember-option-custom =
     .label = 記憶させる履歴を詳細設定する
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } は表示したページの履歴、ファイルのダウンロード履歴、検索やフォームの入力履歴を保存します。
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } はプライベートブラウジング中と同様に、表示したページの履歴などのプライバシーデータを一切保存しません。
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } は表示したページの履歴、ファイルのダウンロード履歴、検索やフォームの入力履歴をカスタム設定で保存します。
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } は表示したページの履歴、ファイルのダウンロード履歴、検索やフォームの入力履歴を保存します。
