@@ -100,6 +100,8 @@ browser-containers-settings =
     .label = Socruithe…
     .accesskey = i
 containers-disable-alert-title = An bhfuil fonn ort gach Cluaisín Coimeádáin a dhúnadh?
+startup-group =
+    .label = Tosú
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
