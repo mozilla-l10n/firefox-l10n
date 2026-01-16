@@ -1017,6 +1017,8 @@ sitedata-clear =
 sitedata-settings =
     .label = ഡാറ്റ ക്രമീകരിക്കുക
     .accesskey = M
+cookies-site-data-group =
+    .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 
 ## Privacy Section - Cookie Banner Handling
 
