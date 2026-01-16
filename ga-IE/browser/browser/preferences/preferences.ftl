@@ -610,6 +610,9 @@ history-remember-option-never =
     .label = Ná meabhraigh an stair riamh
 history-remember-option-custom =
     .label = Úsáid socruithe saincheaptha don stair
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
@@ -633,6 +636,8 @@ history-group =
 
 sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
+cookies-site-data-group =
+    .label = Fianáin agus Sonraí Suímh
 
 ## Privacy Section - Cookie Banner Handling
 
