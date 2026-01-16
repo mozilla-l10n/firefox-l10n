@@ -256,6 +256,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 play-drm-content =
     .label = Nachrun' 'ngà DRM
@@ -312,6 +314,8 @@ performance-limit-content-process-blocked-desc = Ga'ue nagi'iaj nikot 'ngà mult
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (dànj hua nianj)
+performance-group =
+    .label = Daj unūkuaj ma
 
 ## General Section - Browsing
 
@@ -353,6 +357,9 @@ network-proxy-connection-learn-more = Gahuin chrūn doj
 network-proxy-connection-settings =
     .label = Nagi'iô'...
     .accesskey = N
+network-proxy-group =
+    .label = Dàj ga Red ruhuât
+    .description = Nagi'io' { -brand-short-name } gate' riña internet.
 
 ## Home Section
 
