@@ -2010,6 +2010,8 @@ website-advertising-private-attribution-description = This helps sites understan
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Security
+browsing-protection-group =
+    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
