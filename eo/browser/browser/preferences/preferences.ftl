@@ -1611,6 +1611,8 @@ sitedata-cookies-exceptions2 =
     .label = Administri esceptojn
     .accesskey = e
     .description = Vi povas specifi, kiuj retejoj ĉiam aŭ neniam rajtas uzi kuketojn kaj retejajn datumojn.
+cookies-site-data-group =
+    .label = Kuketoj kaj retejaj datumoj
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2000,6 +2002,8 @@ website-advertising-private-attribution-description = Tio ĉi permesas al retejo
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sekureco
+browsing-protection-group =
+    .label = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-browsing-protection = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-enable-safe-browsing =
     .label = Bloki danĝeran aŭ trompan enhavon
