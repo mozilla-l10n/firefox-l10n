@@ -229,6 +229,9 @@ browser-layout-show-sidebar =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Llengua i aparença
+appearance-group =
+    .label = Aparença dels llocs web
+    .description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
 preferences-web-appearance-header = Aparença dels llocs web
 preferences-web-appearance-description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
 preferences-web-appearance-choice-auto2 =
