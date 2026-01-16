@@ -1602,6 +1602,8 @@ website-advertising-private-attribution-description = Ini membantu situs memaham
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keamanan
+browsing-protection-group =
+    .label = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-browsing-protection = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-enable-safe-browsing =
     .label = Blokir konten berbahaya dan tidak dapat dipercaya
