@@ -772,6 +772,8 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
+cookies-site-data-group =
+    .label = कुकीज आणि साईट डेटा
 
 ## Privacy Section - Cookie Banner Handling
 
