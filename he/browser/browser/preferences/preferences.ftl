@@ -718,6 +718,9 @@ network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
     .label = הגדרות…
     .accesskey = ה
+network-proxy-group =
+    .label = הגדרות רשת
+    .description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
 
 ## Home Section
 
