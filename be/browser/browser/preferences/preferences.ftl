@@ -1500,6 +1500,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Адрасы і іншае
 payments-group =
     .label = Спосабы аплаты
 
@@ -1562,6 +1564,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ачысціць гісторыю…
     .accesskey = с
+history-group =
+    .label = Гісторыя
 
 ## Privacy Section - Site Data
 
