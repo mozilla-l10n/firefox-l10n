@@ -670,6 +670,8 @@ performance-limit-content-process-blocked-desc = È possibile modificare il nume
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinito)
+performance-group =
+    .label = Prestazioni
 
 ## General Section - Browsing
 
@@ -718,6 +720,8 @@ browsing-cfr-features =
     .label = Consiglia funzioni durante la navigazione
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Ulteriori informazioni
+browsing-group =
+    .label = Navigazione
 
 ## General Section - Proxy
 
@@ -1507,6 +1511,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Indirizzi e altri dati
+payments-group =
+    .label = Metodi di pagamento
 
 ## Privacy Section - History
 
@@ -1538,6 +1546,15 @@ history-remember-option-never =
     .label = non salvare la cronologia
 history-remember-option-custom =
     .label = utilizza impostazioni personalizzate
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = Verranno utilizzate impostazioni personalizzate per la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.
@@ -1567,6 +1584,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Cancella cronologia…
     .accesskey = e
+history-group =
+    .label = Cronologia
 
 ## Privacy Section - Site Data
 
@@ -2085,6 +2104,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } potrebbe comunque aggiornare alcune connessioni
 httpsonly-radio-disabled =
     .label = Non attivare
+httpsonly-group =
+    .label = Modalità solo HTTPS
+    .description = Consente solo connessioni sicure ai siti web. { -brand-short-name } chiederà prima di stabilire una connessione non sicura.
 
 ## DoH Section
 
