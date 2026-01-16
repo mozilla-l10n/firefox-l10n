@@ -745,6 +745,12 @@ home-new-windows-tabs-description2 = Выберыце, што бачыць, ка
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Прадвызначаны браўзер
+is-default-browser-2 =
+    .message = { -brand-short-name } – ваш прадвызначаны браўзер. Добры выбар.
+is-not-default-browser-2 =
+    .message = Тсс, { -brand-short-name } – не ваш прадвызначаны.
 set-as-my-default-browser-2 =
     .label = Зрабіць прадвызначаным
     .accesskey = З

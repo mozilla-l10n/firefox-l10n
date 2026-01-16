@@ -742,6 +742,12 @@ home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din starts
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standardwebbläsare
+is-default-browser-2 =
+    .message = { -brand-short-name } är din standardwebbläsare. Bra val.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } är inte din standard.
 set-as-my-default-browser-2 =
     .label = Ange som standard
     .accesskey = s
@@ -1460,6 +1466,10 @@ payments-list-item-label = <strong>Betalningsmetoder</strong>
 payments-delete-payment-prompt-title = Ta bort den här betalningsmetoden?
 payments-delete-payment-prompt-confirm-button = Ta bort
 payments-delete-payment-prompt-cancel-button = Avbryt
+payments-delete-payment-button-label =
+    .aria-label = Ta bort
+payments-edit-payment-button-label =
+    .aria-label = Redigera
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Inga betalningsmetoder har lagts till
@@ -2101,6 +2111,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Endast HTTPS-läge
     .description = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 

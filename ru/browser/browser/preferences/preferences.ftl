@@ -745,6 +745,12 @@ home-new-windows-tabs-description2 = Выберите, что вы хотите 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Браузер по умолчанию
+is-default-browser-2 =
+    .message = { -brand-short-name } — ваш браузер по умолчанию. Хороший выбор.
+is-not-default-browser-2 =
+    .message = Псс, { -brand-short-name } не является вашим браузером по умолчанию.
 set-as-my-default-browser-2 =
     .label = Сделать браузером по умолчанию
     .accesskey = у
@@ -1464,6 +1470,10 @@ payments-list-item-label = <strong>Способы оплаты</strong>
 payments-delete-payment-prompt-title = Удалить этот способ оплаты?
 payments-delete-payment-prompt-confirm-button = Удалить
 payments-delete-payment-prompt-cancel-button = Отмена
+payments-delete-payment-button-label =
+    .aria-label = Удалить
+payments-edit-payment-button-label =
+    .aria-label = Изменить
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Способы оплаты не добавлены
@@ -2105,6 +2115,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Режим «Только HTTPS»
     .description = Разрешает только защищённые соединения с веб-сайтами. { -brand-short-name } будет спрашивать перед незащищённым соединением.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 

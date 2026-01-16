@@ -742,6 +742,12 @@ home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startside
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standard nettleser
+is-default-browser-2 =
+    .message = { -brand-short-name } er standardnettleseren din. Godt valg.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } er ikke din standardnettleser.
 set-as-my-default-browser-2 =
     .label = Bruk som standard
     .accesskey = s
@@ -1460,6 +1466,10 @@ payments-list-item-label = <strong>Betalingsmåter</strong>
 payments-delete-payment-prompt-title = Slette denne betalingsmåten?
 payments-delete-payment-prompt-confirm-button = Slett
 payments-delete-payment-prompt-cancel-button = Avbryt
+payments-delete-payment-button-label =
+    .aria-label = Slett
+payments-edit-payment-button-label =
+    .aria-label = Rediger
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmåter lagt til
@@ -2101,6 +2111,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Kun-HTTPS-modus
     .description = Tillater kun sikre tilkoblinger til nettsteder. { -brand-short-name } vil spørre, før en usikker tilkobling opprettes.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
