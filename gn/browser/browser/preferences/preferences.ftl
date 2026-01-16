@@ -248,6 +248,8 @@ browser-containers-settings =
     .label = Ñemboheko…
     .accesskey = i
 containers-disable-alert-title = ¿Emmbotypaite tendayke guerekoha pegua?
+startup-group =
+    .label = Ñepyrũha
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -720,6 +722,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Ovetã ha tendayke pyahu
 home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue iporãvévape, ovetã ha tendayke pyahúpe.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
