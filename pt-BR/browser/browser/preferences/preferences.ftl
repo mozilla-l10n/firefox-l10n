@@ -1548,6 +1548,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = h
+history-group =
+    .label = Histórico
 
 ## Privacy Section - Site Data
 
