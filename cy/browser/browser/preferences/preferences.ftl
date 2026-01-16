@@ -1582,6 +1582,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Clirio Hanes…
     .accesskey = H
+history-group =
+    .label = Hanes
 
 ## Privacy Section - Site Data
 
