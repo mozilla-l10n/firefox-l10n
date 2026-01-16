@@ -478,6 +478,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pregunta si boles abèrrere o sarvare is archìvios
     .accesskey = P
+drm-group =
+    .label = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 drm-content-header = Cuntenutu DRM (Digital Rights Management, Gestione de deretos digitales)
 play-drm-content =
     .label = Reprodue cuntenutu protetu dae DRM
@@ -526,6 +528,9 @@ update-in-progress-ok-button = &Iscarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -606,6 +611,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Ventanas e ischedas noas
 home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgina printzipale, ventanas noas e ischedas noas.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina printzipale e ventanas noas
@@ -638,6 +646,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -860,6 +874,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
