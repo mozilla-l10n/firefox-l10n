@@ -197,6 +197,8 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -382,6 +384,9 @@ history-remember-option-never =
     .label = Never remember history
 history-remember-option-custom =
     .label = Use custom settings for history
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
