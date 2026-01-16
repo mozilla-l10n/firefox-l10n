@@ -27,6 +27,7 @@ profiles-rootdir = Rotkatalog
 profiles-localdir = Lokal katalog
 profiles-current-profile = Denna profilen används just nu och kan inte bli borttagen
 profiles-in-use-profile = Den här profilen används i en annan applikation och den kan inte raderas.
+profiles-cannot-delete-profile = Det går inte att ta bort en profil som är länkad till andra profiler.
 profiles-rename = Byt namn
 profiles-remove = Ta bort
 profiles-set-as-default = Ange som standardprofil

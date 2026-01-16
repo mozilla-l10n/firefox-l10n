@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synkronisering
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI-kontroller
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } Experiment
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiment
@@ -2180,3 +2183,62 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Skrivbord
 downloads-folder-name = Filhämtningar
 choose-download-folder-title = Välj mapp för hämtade filer:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Du kan alltid välja i { -brand-short-name }, inklusive om du vill använda funktioner förbättrade med AI. Fler kontroller kommer snart.
+preferences-ai-controls-block-ai-label = Blockera AI-förbättringar
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blockering innebär att du inte ser nya eller aktuella AI-förbättringar i { -brand-short-name } eller popup-fönster om dem. <a data-l10n-name="link">Få mer information</a> om vad som ingår och hur du styr traditionella maskininlärningsfunktioner, som sökförslag och rekommendationer.
+preferences-ai-controls-blocked-message =
+    .message = Nya och aktuella AI-förbättringar blockeras som standard. För att avblockera en specifik funktion, använd kontrollerna nedan.
+preferences-ai-controls-on-device-group =
+    .label = AI på enheten
+    .description = Dessa använder små AI-modeller som laddas ner till din enhet om du använder funktionen. Detta tillvägagångssätt hjälper till att skydda din integritet.
+preferences-ai-controls-translations-control =
+    .label = Översättningar
+    .description = Surfa smidigt på webben på ditt önskade språk.
+preferences-ai-controls-translations-more-link = Fler översättningsinställningar
+preferences-ai-controls-pdfjs-control =
+    .label = Alt-text för bild i PDF-läsaren { -brand-short-name }
+    .description = När du lägger till bilder i PDF-filer läggs det till beskrivningar för att göra dem tillgängliga.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Förslag på flikgrupper
+    .description = Få förslag för att namnge och organisera dina flikar.
+preferences-ai-controls-key-points-control =
+    .label = Viktiga punkter i förhandsgranskningar av länk
+    .description = Se en snabb sammanfattning innan du öppnar en länk.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = AI chatbot-leverantörer i sidofält
+    .description = Ha en chatbot i sikte när du surfar. Välj bland antropiska Claude, ChatGPT, Copilot, Google Gemini och Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot i sidofältet
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Tillgänglig
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Aktiverad
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blockerad
+preferences-ai-controls-state-description-before = Vad alternativen betyder:
+preferences-ai-controls-state-description-available = <strong>Tillgänglig:</strong> Du ser funktionen och kan använda den.
+preferences-ai-controls-state-description-enabled = <strong>Aktiverad:</strong> Du har valt att använda funktionen.
+preferences-ai-controls-state-description-blocked = <strong>Blockerad:</strong> Du kommer inte att se och kan inte använda funktionen. För på enhetens AI tas alla modeller som redan hämtats bort.
+preferences-ai-controls-block-confirmation-heading = Blockera AI-förbättringar?
+preferences-ai-controls-block-confirmation-description = Du kommer inte se nya eller nuvarande AI-förbättringar i { -brand-short-name } eller popup-fönster om dem. Efteråt kan du avblockera allt du vill fortsätta använda.
+preferences-ai-controls-block-confirmation-features-start = Vad kommer att blockeras:
+preferences-ai-controls-block-confirmation-translations = Översättningar
+preferences-ai-controls-block-confirmation-pdfjs = Alt-text för bild i PDF-läsaren { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Förslag på flikgrupper
+preferences-ai-controls-block-confirmation-key-points = Viktiga punkter i förhandsgranskningar av länk
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbot-leverantörer i sidofältet
+preferences-ai-controls-block-confirmation-features-after = Blockering påverkar också tillägg som använder AI som tillhandahålls av { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Avbryt
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blockera

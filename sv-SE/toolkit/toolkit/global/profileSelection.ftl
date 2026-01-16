@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Använd den valda profilen utan att fråga vid start
     .accesskey = d
+profile-has-selectable-profiles-title = Det går inte att ta bort en profil som är länkad till andra profiler
+profile-has-selectable-profiles-message = För att ta bort den här profilen, öppna den och välj ”Hantera profiler” från profilsektionen på menyn { -brand-short-name }. När du har tagit bort ytterligare profiler som du har skapat här, kan du återgå till about:profiles och ta bort den här profilen.

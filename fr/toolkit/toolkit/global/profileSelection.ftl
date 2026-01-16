@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Utiliser le profil sélectionné sans demander au démarrage
     .accesskey = U
+profile-has-selectable-profiles-title = Impossible de supprimer un profil qui est lié à d’autres profils
+profile-has-selectable-profiles-message = Pour supprimer ce profil, ouvrez-le et sélectionnez « Gérer les profils » dans la section profils du menu { -brand-short-name }. Après avoir supprimé tous les profils supplémentaires que vous avez créés ici, vous pouvez retourner dans about:profiles et supprimer ce profil.

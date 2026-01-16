@@ -27,6 +27,7 @@ profiles-rootdir = Répertoire racine
 profiles-localdir = Répertoire local
 profiles-current-profile = Il s’agit du profil en cours d’utilisation ; il ne peut pas être supprimé.
 profiles-in-use-profile = Ce profil est utilisé par une autre application et ne peut pas être supprimé.
+profiles-cannot-delete-profile = Impossible de supprimer un profil qui est lié à d’autres profils.
 profiles-rename = Renommer
 profiles-remove = Supprimer
 profiles-set-as-default = Définir comme profil par défaut
