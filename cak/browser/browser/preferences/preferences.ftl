@@ -481,6 +481,8 @@ browsing-cfr-features =
     .label = Ke'achilab'ej taq b'anikil toq atokinäq pa k'amaya'l
     .accesskey = b
 browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
+browsing-group =
+    .label = Okik'amaya'l
 
 ## General Section - Proxy
 
