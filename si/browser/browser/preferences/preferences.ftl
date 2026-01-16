@@ -583,6 +583,9 @@ home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = පෙරනිමි කරන්න
+    .accesskey = D
 
 ## Custom Homepage subpage
 
