@@ -349,6 +349,9 @@ browser-layout-show-sidebar-desc = Získejte rychlý přístup k záložkám, pa
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Zobrazení a jazyk stránek
+appearance-group =
+    .label = Vzhled webových stránek
+    .description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
 preferences-web-appearance-header = Vzhled webových stránek
 preferences-web-appearance-description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
 preferences-web-appearance-choice-auto2 =
@@ -665,6 +668,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Zeptat se, jestli soubor otevřít, nebo uložit
     .accesskey = a
+drm-group =
+    .label = Obsah chráněný pomocí Digital Rights Management (DRM)
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
 play-drm-content =
     .label = Přehrávat obsah chráněný pomocí DRM
@@ -851,11 +856,21 @@ network-proxy-connection-learn-more = Zjistit více
 network-proxy-connection-settings =
     .label = Nastavení…
     .accesskey = e
+network-proxy-group =
+    .label = Nastavení sítě
+    .description =
+        { -brand-short-name.case-status ->
+            [with-cases] Konfigurovat připojení { -brand-short-name(case: "gen") } k internetu.
+           *[no-cases] Konfigurovat připojení aplikace { -brand-short-name } k internetu.
+        }
 
 ## Home Section
 
 home-new-windows-tabs-header = Nová okna a panely
 home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna nebo panelu.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1765,6 +1780,8 @@ sitedata-cookies-exceptions2 =
     .label = Spravovat výjimky
     .accesskey = v
     .description = Můžete určit, které weby mají vždy nebo nemají nikdy povoleno používat cookies a data stránek.
+cookies-site-data-group =
+    .label = Cookies a data stránek
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2326,6 +2343,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Systém doménových jmen (DNS) přes HTTPS odešle váš požadavek na doménu skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním, aby viděli, které servery navštěvujete.
 preferences-doh-description2 = Systém DNS (Domain Name System) přes HTTPS odesílá váš požadavek na název domény prostřednictvím šifrovaného připojení, čímž zajišťuje bezpečný systém DNS a znemožňuje ostatním zjistit, kterou webovou stránku se chystáte navštívit.
 # Variables:
