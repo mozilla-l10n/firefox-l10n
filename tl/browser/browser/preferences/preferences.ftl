@@ -957,6 +957,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
+cookies-site-data-group =
+    .label = Mga Cookie at Site Data
 
 ## Privacy Section - Cookie Banner Handling
 
