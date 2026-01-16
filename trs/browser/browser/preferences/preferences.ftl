@@ -779,6 +779,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Nadure' sa gini’iājt...
     .accesskey = r
+history-group =
+    .label = Daran sa gahuin
 
 ## Privacy Section - Site Data
 
