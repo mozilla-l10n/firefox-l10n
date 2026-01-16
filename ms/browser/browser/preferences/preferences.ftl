@@ -667,6 +667,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Buang Sejarah…
     .accesskey = j
+history-group =
+    .label = Sejarah
 
 ## Privacy Section - Site Data
 
