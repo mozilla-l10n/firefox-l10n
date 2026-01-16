@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dîs ai sîts web di no sta vendi o condividi i miei dâts
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencis pe riservatece dai sîts web
 non-technical-privacy-header = Preferencis pe riservatece dai sîts web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -296,6 +298,9 @@ browser-layout-show-sidebar-desc = Rive intun lamp a segnelibris, schedis dal to
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lenghe e aspiet
+appearance-group =
+    .label = Aspiet dai sîts web
+    .description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
 preferences-web-appearance-header = Aspiet dai sîts web
 preferences-web-appearance-description = Cualchi sît web al adate il so scheme di colôrs in base aes tôs preferencis. Sielç cuâl scheme di colôrs doprâ par chei sîts.
 preferences-web-appearance-choice-auto2 =
@@ -585,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Domande se vierzi o salvâ i files
     .accesskey = D
+drm-group =
+    .label = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 drm-content-header = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
 play-drm-content =
     .label = Riprodûs contignût protet di DRM
@@ -663,6 +670,8 @@ performance-limit-content-process-blocked-desc = Si pues modificâ il numar di p
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinît)
+performance-group =
+    .label = Prestazions
 
 ## General Section - Browsing
 
@@ -711,6 +720,8 @@ browsing-cfr-features =
     .label = Consee funzionalitâts intant che tu navighis
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Plui informazions
+browsing-group =
+    .label = Navigazion
 
 ## General Section - Proxy
 
@@ -1476,6 +1487,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Metodis di paiament
 
 ## Privacy Section - History
 
@@ -1993,6 +2006,8 @@ website-advertising-private-attribution-description = Chest al permet ai sîts d
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurece
+browsing-protection-group =
+    .label = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-browsing-protection = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-enable-safe-browsing =
     .label = Bloche i contignûts pericolôs e ingjanôs
@@ -2049,10 +2064,15 @@ httpsonly-radio-disabled3 =
     .description = Al è pussibil che { -brand-short-name } al inzorni distès cualchi conession
 httpsonly-radio-disabled =
     .label = No sta abilitâ la modalitât Dome-HTTPS
+httpsonly-group =
+    .label = Modalitât Dome-HTTPS
+    .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 
 ## DoH Section
 
 preferences-doh-header = DNS sore HTTPS
+dns-over-https-group =
+    .label = DNS sore HTTPS
 preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
 preferences-doh-description2 = Il sisteme di risoluzion dai nons di domini (DNS) sore HTTPS al invie lis richiestis pai nons di domini a traviers di une conession cifrade, furnint un DNS sigûr e fasint in mût che al sedi plui dificil scuvierzi i sîts web che tu stâs par visitâ.
 # Variables:
