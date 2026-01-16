@@ -640,6 +640,12 @@ history-remember-option-never =
     .label = កុំ​ចងចាំ​ប្រវត្តិ
 history-remember-option-custom =
     .label = ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } នឹងចងចាំការរុករក ការទាញយក សំណុំបែបបទ និងប្រវត្តិស្វែងរករបស់អ្នក។
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជា​ការ​​រក​មើល​ឯកជន ហើយ​នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​ដែល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ​នោះ​ទេ ។
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } នឹងចងចាំការរុករក ការទាញយក សំណុំបែបបទ និងប្រវត្តិស្វែងរករបស់អ្នក។
@@ -688,6 +694,8 @@ sitedata-clear =
 sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
+cookies-site-data-group =
+    .label = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -800,6 +808,8 @@ collection-health-report-disabled = ការ​រាយការណ៍​ទ�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = សុវត្ថិភាព
+browsing-protection-group =
+    .label = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-browsing-protection = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-enable-safe-browsing =
     .label = ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត
