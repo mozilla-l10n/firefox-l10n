@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Decirle a los sitios web que no vendan ni compartan mis datos
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencias de privacidad del sitio web
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elija lo que se ve al abrir su página principal, ventanas nuevas y nuevas pestañas.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1482,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Métodos de pago
 
 ## Privacy Section - History
 
@@ -1603,6 +1610,8 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Se puede especificar que sitios siempre o nunca permitirán usar cookies y datos del sitio.
+cookies-site-data-group =
+    .label = Cookies y datos del sitio
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1989,6 +1998,8 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group =
+    .label = Protección contra contenido engañoso y software peligroso
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
@@ -2049,6 +2060,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, creando un DNS seguro y haciendo más difícil que otros vean que sitio web está tratando de acceder.
 preferences-doh-description2 = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, proporcionando un DNS seguro y haciendo más difícil que otros vean que sitio web está tratando de acceder.
 # Variables:
