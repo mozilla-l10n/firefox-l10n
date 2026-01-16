@@ -251,6 +251,8 @@ browser-containers-settings =
     .label = 設定…
     .accesskey = i
 containers-disable-alert-title = 要關閉所有容器分頁嗎？
+startup-group =
+    .label = 啟動
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
