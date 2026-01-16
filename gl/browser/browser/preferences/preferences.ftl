@@ -213,6 +213,8 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = i
 containers-disable-alert-title = Pechar todas as lapelas contedor?
+startup-group =
+    .label = Inicio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -478,6 +480,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Preguntar se abrir ou gardar os ficheiros
     .accesskey = a
+drm-group =
+    .label = Contido DRM (Digital Rights Management, Xestión de dereitos dixitais)
 drm-content-header = Contido DRM (Digital Rights Management, Xestión de dereitos dixitais)
 play-drm-content =
     .label = Reproducir contido controlado por DRM
