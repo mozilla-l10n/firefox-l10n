@@ -606,6 +606,9 @@ network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
     .label = Iɣewwaṛen…
     .accesskey = I
+network-proxy-group =
+    .label = Iɣewwaṛen n uẓeṭṭa
+    .description = Swel amek { -brand-short-name } ad iqqen γer internet.
 
 ## Home Section
 
