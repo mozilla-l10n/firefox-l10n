@@ -741,6 +741,9 @@ home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ боя
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Ҳамчун пешфарз танзим кунед
+    .accesskey = Ҳ
 
 ## Custom Homepage subpage
 
