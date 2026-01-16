@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Sol·licita als llocs web que no venguin ni comparteixin les meves dades
     .accesskey = S
+non-technical-privacy-group =
+    .label = Preferències de privadesa del lloc web
 non-technical-privacy-header = Preferències de privadesa del lloc web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
