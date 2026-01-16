@@ -251,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = ডিজিটাল রাইটস ম্যানেজমেন্ট (DRM) বিষয়বস্তু
 drm-content-header = ডিজিটাল রাইটস ম্যানেজমেন্ট (DRM) বিষয়বস্তু
 play-drm-content =
     .label = DRM-নিয়ন্ত্রিত বিষয়বস্তু চালান
