@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Benader snel bladwijzers, tabbladen van uw te
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en Vormgeving
+appearance-group =
+    .label = Uiterlijk van de website
+    .description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
 preferences-web-appearance-header = Uiterlijk van de website
 preferences-web-appearance-description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Aanpassen van het aantal inhoud
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standaard)
+performance-group =
+    .label = Prestaties
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Functies aanbevelen terwijl u surft
     .accesskey = F
 browsing-cfr-recommendations-learn-more = Meer info
+browsing-group =
+    .label = Navigeren
 
 ## General Section - Proxy
 
@@ -1559,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Geschiedenis wissen…
     .accesskey = G
+history-group =
+    .label = Geschiedenis
 
 ## Privacy Section - Site Data
 
