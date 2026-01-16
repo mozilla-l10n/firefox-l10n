@@ -725,6 +725,9 @@ network-proxy-connection-learn-more = Več o tem
 network-proxy-connection-settings =
     .label = Nastavitve …
     .accesskey = n
+network-proxy-group =
+    .label = Nastavitve omrežja
+    .description = Nastavite, kako se { -brand-short-name } poveže z internetom.
 
 ## Home Section
 
