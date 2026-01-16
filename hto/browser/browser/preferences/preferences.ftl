@@ -325,6 +325,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Abɨdo  fɨnoka...
     .accesskey = A
+history-group =
+    .label = Jagaɨ
 
 ## Privacy Section - Site Data
 
