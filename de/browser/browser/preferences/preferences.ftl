@@ -714,6 +714,8 @@ browsing-cfr-features =
     .label = Funktionen während des Surfens empfehlen
     .accesskey = F
 browsing-cfr-recommendations-learn-more = Weitere Informationen
+browsing-group =
+    .label = Surfen
 
 ## General Section - Proxy
 
