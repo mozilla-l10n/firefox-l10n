@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Snabb åtkomst till bokmärken, flikar från 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk och utseende
+appearance-group =
+    .label = Webbplatsens utseende
+    .description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
 preferences-web-appearance-header = Webbplatsens utseende
 preferences-web-appearance-description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Ändring av antalet innehållsp
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Prestanda
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Rekommendera funktioner medan du surfar
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Läs mer
+browsing-group =
+    .label = Webbläsning
 
 ## General Section - Proxy
 
@@ -1559,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Rensa historik…
     .accesskey = s
+history-group =
+    .label = Historik
 
 ## Privacy Section - Site Data
 
