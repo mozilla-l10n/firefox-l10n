@@ -75,6 +75,8 @@ browser-containers-settings =
     .label = Kayandiyaney…
     .accesskey = n
 containers-disable-alert-title = Sun kanjey kul daabu?
+startup-group =
+    .label = Tunandi
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
