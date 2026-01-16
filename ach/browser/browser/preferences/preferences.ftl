@@ -278,6 +278,9 @@ update-in-progress-ok-button = &Juki
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Mede
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tic
@@ -292,6 +295,8 @@ performance-allow-hw-accel =
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (makwongo)
+performance-group =
+    .label = Tic
 
 ## General Section - Browsing
 
@@ -314,6 +319,8 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-learn-more = Nong ngec mapol
 browsing-media-control-learn-more = Nong ngec mapol
 browsing-cfr-recommendations-learn-more = Nong ngec mapol
+browsing-group =
+    .label = Yenyo
 
 ## General Section - Proxy
 
@@ -323,11 +330,17 @@ network-proxy-connection-learn-more = Nong ngec mapol
 network-proxy-connection-settings =
     .label = Tero…
     .accesskey = e
+network-proxy-group =
+    .label = Ter me Netwak
+    .description = Ter kit ma { -brand-short-name } kube ki intanet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Dirica ki dirica matino manyen
 home-new-windows-tabs-description2 = Yer ngo ma ineno ka iyabo potbuk me acakki mamegi, dirica manyen, ki dirica matino manyen.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -356,6 +369,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -456,6 +475,9 @@ containers-add-button =
 containers-remove-button =
     .label = Kwany
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -495,6 +517,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } pe ki moko ada ne.
 sync-signedin-login-failure = Tim ber i dony me kube odoco { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -633,6 +660,9 @@ forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Gin mukato
@@ -689,6 +719,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Jwa gin mukato…
     .accesskey = j
+history-group =
+    .label = Gin mukato
 
 ## Privacy Section - Site Data
 
@@ -713,6 +745,14 @@ sitedata-clear =
 sitedata-settings =
     .label = Lo Data
     .accesskey = D
+cookies-site-data-group =
+    .label = Angija ki Data me kakube
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -732,6 +772,10 @@ addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Nong ngec mapol
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -757,6 +801,9 @@ content-blocking-cookies-label =
     .accesskey = A
 content-blocking-expand-section =
     .tooltiptext = Ngec mapol
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -820,12 +867,17 @@ collection-health-report =
 collection-health-report-link = Nong ngec mapol
 addon-recommendations-link = Nong ngec mapol
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ber bedo
+browsing-protection-group =
+    .label = Gwokke ikom jami me bwola ki purugram maraco
 security-browsing-protection = Gwokke ikom jami me bwola ki purugram maraco
 security-enable-safe-browsing =
     .label = Geng jami maraco ki me bwola
@@ -855,6 +907,9 @@ certs-devices-enable-fips = Mii tic me FIPS
 ## Privacy Section - HTTPS-Only
 
 httpsonly-learn-more = Nong ngec mapol
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
