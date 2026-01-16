@@ -262,6 +262,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
 drm-content-header = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -310,6 +312,8 @@ performance-allow-hw-accel =
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (Predeterminado)
+performance-group =
+    .label = Naja satiñu
 
 ## General Section - Browsing
 
