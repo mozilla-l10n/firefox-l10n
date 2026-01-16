@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ეცნობოს ვებსაიტებს, რომ არ მსურს გაყიდონ ან გააზიარონ ჩემი მონაცემები
     .accesskey = ყ
+non-technical-privacy-group =
+    .label = საიტის პირადულობის პარამეტრები
 non-technical-privacy-header = საიტის პირადულობის პარამეტრები
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -522,6 +524,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ყოველ ჯერზე იკითხოს, გახსნას თუ შეინახოს
     .accesskey = ჯ
+drm-group =
+    .label = ციფრული უფლებების მართვის (DRM) შიგთავსი
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
 play-drm-content =
     .label = DRM-დაქვემდებარებული შიგთავსის გაშვება
@@ -593,6 +597,8 @@ performance-limit-content-process-blocked-desc = შიგთავსის პ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ნაგულისხმევი)
+performance-group =
+    .label = წარმადობა
 
 ## General Section - Browsing
 
@@ -641,6 +647,8 @@ browsing-cfr-features =
     .label = შესაძლებლობების შემოთავაზებები გვერდების მონახულებისას
     .accesskey = ზ
 browsing-cfr-recommendations-learn-more = ვრცლად
+browsing-group =
+    .label = გვერდების მონახულება
 
 ## General Section - Proxy
 
@@ -650,6 +658,9 @@ network-proxy-connection-learn-more = ვრცლად
 network-proxy-connection-settings =
     .label = პარამეტრები…
     .accesskey = პ
+network-proxy-group =
+    .label = ქსელის პარამეტრები
+    .description = მიუთითეთ, როგორ დაუკავშირდეს { -brand-short-name } ინტერნეტს.
 
 ## Home Section
 
@@ -1328,6 +1339,8 @@ autofill-addresses-manage-addresses-button =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = გადახდის საშუალებები
 
 ## Privacy Section - History
 
@@ -1839,6 +1852,8 @@ website-advertising-private-attribution-description = ეს ეხმარე�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = უსაფრთხოება
+browsing-protection-group =
+    .label = თაღლითური შიგთავსისა და სახიფათო პროგრამებისგან დაცვა
 security-browsing-protection = თაღლითური შიგთავსისა და სახიფათო პროგრამებისგან დაცვა
 security-enable-safe-browsing =
     .label = სახიფათო და თაღლითური შიგთავსის შეზღუდვა
@@ -1895,6 +1910,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } ზოგ კავშირს მაინც გადაიყვანს დაცულზე
 httpsonly-radio-disabled =
     .label = მხოლოდ-HTTPS-რეჟიმის გარეშე
+httpsonly-group =
+    .label = მხოლოდ-HTTPS-რეჟიმი
+    .description = მხოლოდ დაცული კავშირის მქონე საიტებთან წვდომა. { -brand-short-name } ნებართვას მოითხოვს დაუცველი კავშირის დამყარებამდე.
 
 ## DoH Section
 
