@@ -66,6 +66,17 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -122,6 +133,8 @@ browser-containers-settings =
     .label = అమరికలు…
     .accesskey = i
 containers-disable-alert-title = అన్ని కంటైనర్ ట్యాబులు మూసివేయాలా?
+startup-group =
+    .label = మొదలవడం
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -293,6 +306,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
 drm-content-header = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
 play-drm-content =
     .label = DRM-నియంత్రిత విషయాన్ని ఆడించు
@@ -326,6 +341,9 @@ update-in-progress-ok-button = విస్మరించు (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = కొనసాగించు (&C)
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = పనితనం
@@ -344,6 +362,8 @@ performance-limit-content-process-enabled-desc = బహుళ ట్యాబ్
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (అప్రమేయం)
+performance-group =
+    .label = పనితనం
 
 ## General Section - Browsing
 
@@ -366,6 +386,8 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-learn-more = ఇంకా తెలుసుకోండి
 browsing-media-control-learn-more = ఇంకా తెలుసుకోండి
 browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకోండి
+browsing-group =
+    .label = విహారణ
 
 ## General Section - Proxy
 
@@ -375,11 +397,17 @@ network-proxy-connection-learn-more = ఇంకా తెలుసుకోం�
 network-proxy-connection-settings =
     .label = అమరికలు…
     .accesskey = e
+network-proxy-group =
+    .label = నెట్‌వర్క్ అమరికలు
+    .description = { -brand-short-name } అంతర్జాలానికి ఎలా అనుసంధానమవ్వాలో స్వరూపించండి.
 
 ## Home Section
 
 home-new-windows-tabs-header = కొత్త కిటికీలు, ట్యాబులు
 home-new-windows-tabs-description2 = మీ ముంగిలి పేజీని, కొత్త కిటికీలను, కొత్త ట్యాబులను తెరచినప్పుడు ఏం కనబడాలో ఎంచుకోండి.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -412,6 +440,12 @@ use-current-pages =
 choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -522,6 +556,9 @@ containers-settings-button =
 containers-remove-button =
     .label = తొలగించు
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -555,6 +592,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -723,6 +765,9 @@ forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండ�
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = చరిత్ర
@@ -779,6 +824,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = చరిత్రను తుడిచివేయి…
     .accesskey = s
+history-group =
+    .label = చరిత్ర
 
 ## Privacy Section - Site Data
 
@@ -813,6 +860,11 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
+cookies-site-data-group =
+    .label = కుకీలు, సైటు డేటా
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -983,12 +1035,17 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = భద్రత
+browsing-protection-group =
+    .label = మోసపూరిత జాల విషయం, ప్రమాదకరమైన సాఫ్ట్‌వేరు నుండి రక్షణ
 security-browsing-protection = మోసపూరిత జాల విషయం, ప్రమాదకరమైన సాఫ్ట్‌వేరు నుండి రక్షణ
 security-enable-safe-browsing =
     .label = ప్రమాదకరమైన, మోసపూరిత కంటెంటును నిరోధించు
