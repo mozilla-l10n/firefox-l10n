@@ -489,6 +489,11 @@ newtab-weather-opt-in-yes =
     .label = ਹਾਂ
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = ਅੰਮ੍ਰਿਤਸਰ
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = { $provider } ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਵੇਖੋ
+    .aria-description = { $provider } ∙ ਸਪਾਂਸਰ
 
 ## Topic Labels
 
