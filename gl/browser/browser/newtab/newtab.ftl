@@ -429,6 +429,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -472,6 +475,11 @@ newtab-weather-menu-hide-weather = Ocultar o tempo na nova pestana
 newtab-weather-menu-learn-more = Máis información
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Os datos meteorolóxicos non están dispoñibles neste momento.
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Ver a previsión en { $provider }
+    .aria-description = { $provider } ∙ Patrocinado
 
 ## Topic Labels
 
