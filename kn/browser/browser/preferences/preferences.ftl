@@ -91,6 +91,8 @@ browser-containers-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ�
 browser-containers-settings =
     .label = ಸಿದ್ಧತೆಗಳು…‍
     .accesskey = i
+startup-group =
+    .label = ಆರಂಭಿಕ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
