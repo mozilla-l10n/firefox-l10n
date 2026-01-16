@@ -592,6 +592,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Vprašaj, ali želite datoteko odpreti ali shraniti
     .accesskey = V
+drm-group =
+    .label = Vsebina upravljanja digitalnih pravic (DRM)
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
     .label = Predvajaj vsebino, zaščiteno z DRM
@@ -670,6 +672,8 @@ performance-limit-content-process-blocked-desc = Število procesov vsebine je mo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (privzeto)
+performance-group =
+    .label = Učinkovitost
 
 ## General Section - Browsing
 
@@ -718,6 +722,8 @@ browsing-cfr-features =
     .label = Med brskanjem priporočaj možnosti
     .accesskey = m
 browsing-cfr-recommendations-learn-more = Več o tem
+browsing-group =
+    .label = Brskanje
 
 ## General Section - Proxy
 
