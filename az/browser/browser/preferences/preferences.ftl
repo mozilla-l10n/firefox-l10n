@@ -247,6 +247,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Rəqəmsal Hüquqların İdarəsi (DRM) Məzmunu
 drm-content-header = Rəqəmsal Hüquqların İdarəsi (DRM) Məzmunu
 play-drm-content =
     .label = DRM-idarəli məzmunu oxut (güvənilir deyil)
@@ -686,6 +688,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tarixçəni Təmizlə…
     .accesskey = T
+history-group =
+    .label = Tarixçə
 
 ## Privacy Section - Site Data
 
