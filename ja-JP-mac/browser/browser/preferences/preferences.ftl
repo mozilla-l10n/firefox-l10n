@@ -286,6 +286,9 @@ browser-layout-show-sidebar-desc = ブックマーク、同期したタブ、AI 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 言語と外観
+appearance-group =
+    .label = ウェブサイトの外観
+    .description = 一部のウェブサイトはあなたの設定をもとにカラースキームを適用します。これらのサイトでどのカラースキームを使用するか選択してください。
 preferences-web-appearance-header = ウェブサイトの外観
 preferences-web-appearance-description = 一部のウェブサイトはあなたの設定をもとにカラースキームを適用します。これらのサイトでどのカラースキームを使用するか選択してください。
 preferences-web-appearance-choice-auto2 =
@@ -1472,6 +1475,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 住所など
+payments-group =
+    .label = 支払い方法
 
 ## Privacy Section - History
 
@@ -1532,6 +1539,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 履歴を消去...
     .accesskey = s
+history-group =
+    .label = 履歴
 
 ## Privacy Section - Site Data
 
