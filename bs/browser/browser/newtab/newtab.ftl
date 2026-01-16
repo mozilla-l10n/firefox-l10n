@@ -88,6 +88,9 @@ newtab-confirm-delete-history-p2 = Ova radnja se ne može opozvati.
 
 newtab-topsite-sponsored = Sponzorisano
 
+## Label used by screen readers for pinned top sites
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -410,6 +413,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -453,6 +459,11 @@ newtab-weather-menu-hide-weather = Sakrij vrijeme na novom tabu
 newtab-weather-menu-learn-more = Saznajte više
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Vremenski podaci trenutno nisu dostupni.
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Pogledajte prognozu na { $provider }
+    .aria-description = { $provider } ∙ Sponzorisano
 
 ## Topic Labels
 
@@ -536,6 +547,9 @@ newtab-custom-wallpaper-title = Prilagođene pozadine su ovdje
 newtab-custom-wallpaper-subtitle = Otpremite vlastitu pozadinu ili odaberite prilagođenu boju kako biste { -brand-product-name } prilagodili sebi.
 newtab-custom-wallpaper-cta = Probaj
 
+## Strings for new user activation custom wallpaper highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmite { -brand-product-name } za mobilne uređaje
@@ -573,3 +587,10 @@ newtab-report-cancel = Otkaži
 newtab-report-submit = Pošalji
 newtab-toast-thanks-for-reporting =
     .message = Hvala vam što ste ovo prijavili.
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
