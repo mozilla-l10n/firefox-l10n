@@ -718,11 +718,17 @@ network-proxy-connection-learn-more = Μάθετε περισσότερα
 network-proxy-connection-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
+network-proxy-group =
+    .label = Ρυθμίσεις δικτύου
+    .description = Ρυθμίστε τον τρόπο σύνδεσης του { -brand-short-name } στο διαδίκτυο.
 
 ## Home Section
 
 home-new-windows-tabs-header = Νέα παράθυρα και καρτέλες
 home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε όταν ανοίγετε την αρχική σας σελίδα, νέα παράθυρα και νέες καρτέλες.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
