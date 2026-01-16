@@ -531,6 +531,9 @@ home-new-windows-tabs-description2 = Vali avalehe, uute akende ja uute kaartide 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Määra vaikebrauseriks
+    .accesskey = M
 
 ## Custom Homepage subpage
 
