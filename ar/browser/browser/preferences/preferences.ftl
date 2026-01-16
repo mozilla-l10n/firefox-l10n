@@ -263,6 +263,9 @@ browser-layout-show-sidebar-desc = الوصول بسرعة إلى العلاما
 ## General Section - Language & Appearance
 
 language-and-appearance-header = اللغة و المظهر
+appearance-group =
+    .label = مظهر الموقع
+    .description = تكيف بعض المواقع مخطط ألوانها بناء على تفضيلاتك. أختر مخطط الألوان الذي تريد إستخدامه لهذه المواقع.
 preferences-web-appearance-header = مظهر الموقع
 preferences-web-appearance-description = تكيف بعض المواقع مخطط ألوانها بناء على تفضيلاتك. أختر مخطط الألوان الذي تريد إستخدامه لهذه المواقع.
 preferences-web-appearance-choice-auto2 =
@@ -1541,6 +1544,8 @@ website-advertising-private-attribution-description = يساعد هذا المو
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = الأمان
+browsing-protection-group =
+    .label = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-browsing-protection = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-enable-safe-browsing =
     .label = احجب المحتوى الخطير و المخادع
