@@ -251,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Contegnuo da Gestion di Diritti Digitali (DRM)
 drm-content-header = Contegnuo da Gestion di Diritti Digitali (DRM)
 play-drm-content =
     .label = Riproduxi o contegnuo DRM-controlled
