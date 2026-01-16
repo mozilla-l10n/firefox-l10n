@@ -622,6 +622,9 @@ home-new-windows-tabs-description2 = اختر ما تراه عندما تفتح 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = اجعله المبدئي
+    .accesskey = م
 
 ## Custom Homepage subpage
 
