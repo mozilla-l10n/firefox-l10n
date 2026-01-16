@@ -487,6 +487,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -547,6 +550,8 @@ browsing-cfr-features =
     .label = ඔබ පිරික්සන දෑ සඳහා විශේෂාංග නිර්දේශ කරන්න
     .accesskey = f
 browsing-cfr-recommendations-learn-more = තව දැනගන්න
+browsing-group =
+    .label = පිරික්සීම
 
 ## General Section - Proxy
 
@@ -561,6 +566,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = නව කවුළු සහ පටිති
 home-new-windows-tabs-description2 = ඔබගේ මුල් පිටුව, නව කවුළු හෝ පටිති විවෘත කරන විට ඔබ දැකීමට ප්‍රිය දෑ තෝරන්න.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -593,6 +601,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -796,6 +810,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
