@@ -199,6 +199,8 @@ browser-containers-settings =
     .label = සැකසුම්…
     .accesskey = i
 containers-disable-alert-title = සියළුම පටිති අඩංගු වසන්නද?
+startup-group =
+    .label = ආරම්භය
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
