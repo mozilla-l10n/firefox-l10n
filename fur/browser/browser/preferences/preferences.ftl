@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzi
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Definìs come predefinît
+    .accesskey = d
 
 ## Custom Homepage subpage
 
