@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websites vertellen mijn gegevens niet te verkopen of te delen
     .accesskey = s
+non-technical-privacy-group =
+    .label = Websiteprivacyvoorkeuren
 non-technical-privacy-header = Websiteprivacyvoorkeuren
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Vragen of bestanden geopend of opgeslagen moeten worden
     .accesskey = V
+drm-group =
+    .label = Digital Rights Management (DRM)-inhoud
 drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
     .label = DRM-beheerde inhoud afspelen
@@ -2011,6 +2015,8 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Beveiliging
+browsing-protection-group =
+    .label = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-browsing-protection = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-enable-safe-browsing =
     .label = Gevaarlijke en misleidende inhoud blokkeren
@@ -2067,10 +2073,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan nog steeds sommige verbindingen upgraden
 httpsonly-radio-disabled =
     .label = Alleen-HTTPS-modus niet inschakelen
+httpsonly-group =
+    .label = Alleen-HTTPS-modus
+    .description = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt gecreëerd en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt geboden en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 # Variables:
