@@ -332,6 +332,8 @@ performance-limit-content-process-option = مواد کی عمل کی حد
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = کارکردگی
 
 ## General Section - Browsing
 
@@ -363,6 +365,8 @@ browsing-cfr-features =
     .label = براؤز کرتے وقت خصوصیات کی تجویز کریں
     .accesskey = f
 browsing-cfr-recommendations-learn-more = مزید سیکھیں
+browsing-group =
+    .label = براؤزنگ
 
 ## General Section - Proxy
 
@@ -817,6 +821,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = سابقات صاف کریں
     .accesskey = s
+history-group =
+    .label = سابقات
 
 ## Privacy Section - Site Data
 
