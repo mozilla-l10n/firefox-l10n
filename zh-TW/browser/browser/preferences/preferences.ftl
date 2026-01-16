@@ -286,6 +286,9 @@ browser-layout-show-sidebar-desc = 不用離開主畫面就能快速開啟書籤
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 語言與外觀
+appearance-group =
+    .label = 網站外觀
+    .description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
 preferences-web-appearance-header = 網站外觀
 preferences-web-appearance-description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
 preferences-web-appearance-choice-auto2 =
@@ -655,6 +658,8 @@ performance-limit-content-process-blocked-desc = 僅能在多程序的 { -brand-
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num }（預設）
+performance-group =
+    .label = 效能
 
 ## General Section - Browsing
 
@@ -1485,6 +1490,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 地址與更多資訊
 payments-group =
     .label = 付款方式
 
@@ -1547,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 清除瀏覽記錄…
     .accesskey = s
+history-group =
+    .label = 瀏覽紀錄
 
 ## Privacy Section - Site Data
 
