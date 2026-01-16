@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε �
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Ορισμός ως προεπιλογή
+    .accesskey = Π
 
 ## Custom Homepage subpage
 
