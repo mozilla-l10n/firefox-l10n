@@ -246,6 +246,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Digital Rights Management (DRM) saturs
 drm-content-header = Digital Rights Management (DRM) saturs
 play-drm-content =
     .label = Atskaņōt DRM kontrolietu saturu
