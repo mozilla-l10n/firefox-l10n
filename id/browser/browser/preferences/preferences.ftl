@@ -217,6 +217,8 @@ browser-containers-settings =
     .label = Setelan…
     .accesskey = E
 containers-disable-alert-title = Tutup Semua Kontainer Tab?
+startup-group =
+    .label = Memulai
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -586,6 +588,8 @@ browsing-cfr-features =
     .label = Sarankan fitur seiring penjelajahan Anda
     .accesskey = S
 browsing-cfr-recommendations-learn-more = Pelajari lebih lanjut
+browsing-group =
+    .label = Jelajah Web
 
 ## General Section - Proxy
 
@@ -1638,6 +1642,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } mungkin masih meningkatkan beberapa koneksi
 httpsonly-radio-disabled =
     .label = Jangan aktifkan Mode Hanya HTTPS
+httpsonly-group =
+    .label = Mode Hanya HTTPS
+    .description = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 
 ## DoH Section
 
