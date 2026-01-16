@@ -503,6 +503,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = जारिमिनखौ खोमोर...
     .accesskey = s
+history-group =
+    .label = जारिमिन
 
 ## Privacy Section - Site Data
 
