@@ -716,6 +716,8 @@ sitedata-clear =
 sitedata-settings =
     .label = তথ্যের ব্যবস্থাপনা…
     .accesskey = M
+cookies-site-data-group =
+    .label = কুকি এবং সাইটের তথ্য
 
 ## Privacy Section - Cookie Banner Handling
 
