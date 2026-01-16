@@ -351,6 +351,8 @@ applications-handle-new-file-types-description = ‏{ -brand-short-name } با �
 applications-save-for-new-types =
     .label = ذخیرهٔ پرونده‌ها
     .accesskey = ذ
+drm-group =
+    .label = محتوا مدیریت حقوق دیجیتال(DRM)
 drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
     .label = پخش محتوا کنترل شده-DRM
@@ -1000,6 +1002,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
+cookies-site-data-group =
+    .label = کلوچک‌ها و داده‌های پایگاه
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1253,6 +1257,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = ساناد روی HTTPS
+dns-over-https-group =
+    .label = ساناد روی HTTPS
 preferences-doh-description = سامانهٔ نام دامنه (ساناد) روی HTTPS درخواست شما برای نام دامنه را از طریق اتصال رمزگذاشته می‌فرستد، سانادی ایمن ایجاد می‌کند و مشاهدهٔ وبگاه‌هایی که بازدید می‌کنید را برای دیگران سخت‌تر می‌کند.
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
