@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Quickly access bookmarks, tabs from your phon
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Language and Appearance
+appearance-group =
+    .label = Website appearance
+    .description = Some websites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
 preferences-web-appearance-header = Website appearance
 preferences-web-appearance-description = Some websites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
 preferences-web-appearance-choice-auto2 =
@@ -1557,6 +1560,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Clear History…
     .accesskey = s
+history-group =
+    .label = History
 
 ## Privacy Section - Site Data
 
