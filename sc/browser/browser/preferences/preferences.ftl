@@ -219,6 +219,8 @@ browser-containers-settings =
     .label = Cunfiguratzione…
     .accesskey = u
 containers-disable-alert-title = Boles serrare totu is ischedas cuntenidoras?
+startup-group =
+    .label = Aviu
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -264,6 +266,9 @@ browser-layout-show-sidebar-desc = Atzede a sa lestra a sinnalibros, ischedas da
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Limbas e aspetu
+appearance-group =
+    .label = Aspetu de is sitos web
+    .description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
 preferences-web-appearance-header = Aspetu de is sitos web
 preferences-web-appearance-description = Unos cantos sitos web adatant s'ischema de colore suo de acordu cun is preferèntzias tuas. Sèbera cale ischema de colore dias bòlere impreare pro cussos sitos.
 preferences-web-appearance-choice-auto2 =
@@ -1633,6 +1638,8 @@ website-advertising-private-attribution-description = Custu agiudat a is sitos a
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguresa
+browsing-protection-group =
+    .label = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-browsing-protection = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-enable-safe-browsing =
     .label = Bloca is cuntenutos perigulosos e ingannosos
