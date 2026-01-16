@@ -79,6 +79,8 @@ browser-containers-settings =
     .label = Iisetingi…
     .accesskey = s
 containers-disable-alert-title = Ufuna ukuvala Zonke iiThebhu zeeKhonteyina?
+startup-group =
+    .label = Qalisa
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
