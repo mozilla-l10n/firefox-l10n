@@ -1011,6 +1011,12 @@ history-remember-option-never =
     .label = Na cuimhnich an eachdraidh idir
 history-remember-option-custom =
     .label = Cleachd roghainnean gnàthaichte airson na h-eachdraidh
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
@@ -1313,6 +1319,8 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tèarainteachd
+browsing-protection-group =
+    .label = Dìon o shusbaint mhealltach agus bathar-bog cunnartach
 security-browsing-protection = Dìon o shusbaint mhealltach agus bathar-bog cunnartach
 security-enable-safe-browsing =
     .label = Bac susbaint chunnartach is susbaint foill
