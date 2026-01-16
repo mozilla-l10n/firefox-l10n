@@ -50,6 +50,8 @@ tabs-group-header = Кыбытыктар
 show-tabs-in-taskbar =
     .label = Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол
     .accesskey = т
+startup-group =
+    .label = Саҥаттан
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -150,6 +152,9 @@ update-application-use-service =
     .label = Саҥардыылары туруорарга фон сулууспаны туһан
     .accesskey = ф
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -178,6 +183,9 @@ network-proxy-connection-settings =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -194,6 +202,9 @@ use-current-pages =
 choose-bookmark =
     .label = Бэлиэни тутун...
     .accesskey = т
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -222,6 +233,9 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -231,6 +245,12 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -314,7 +334,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking
