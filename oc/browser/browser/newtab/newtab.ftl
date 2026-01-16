@@ -85,6 +85,9 @@ newtab-confirm-delete-history-p2 = Impossible d'anullar aquesta accion.
 
 newtab-topsite-sponsored = Esponsorizat
 
+## Label used by screen readers for pinned top sites
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -120,6 +123,9 @@ newtab-menu-delete-pocket = Suprimir de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nòstres esponsòrs e vòstra vida privada
 newtab-menu-about-fakespot = A prepaus de { -fakespot-brand-name }
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -334,6 +340,12 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -361,6 +373,11 @@ newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Passar en Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Passar en Celsius
 newtab-weather-menu-learn-more = Ne saber mai
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Mostrar la prevision metèo de { $provider }
+    .aria-description = { $provider } ∙ Esponsorizat
 
 ## Topic Labels
 
@@ -395,3 +412,38 @@ newtab-topic-selection-button-maybe-later = Benlèu mai tard
 newtab-topic-selection-privacy-link = Descobrissètz cossí protegissèm e gerissèm vòstras donadas
 newtab-topic-selection-button-update-interests = Metre a jorn vòstres interèsses
 newtab-topic-selection-button-pick-interests = Causir vòstres interèsses
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
