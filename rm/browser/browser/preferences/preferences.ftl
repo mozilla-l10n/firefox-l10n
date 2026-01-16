@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Parameters…
     .accesskey = r
 containers-disable-alert-title = Serrar tut ils tabs da container?
+startup-group =
+    .label = Aviar
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -657,6 +659,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novas fanestras e tabs
 home-new-windows-tabs-description2 = Tscherna tge che vegn mussà cura che ti avras tia pagina da partenza, novas fanestras e novs tabs.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina da partenza e novas fanestras
@@ -695,6 +700,9 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 home-homepage-header = Pagina iniziala
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -967,6 +975,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1835,6 +1848,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } actualisescha eventualmain tuttina tschertas connexiuns
 httpsonly-radio-disabled =
     .label = Betg activar il modus mo HTTPS
+httpsonly-group =
+    .label = Modus mo HTTPS
+    .description = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 
 ## DoH Section
 
