@@ -225,6 +225,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Als Standard festleeën
+    .accesskey = S
 
 ## Custom Homepage subpage
 
