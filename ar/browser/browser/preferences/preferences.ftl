@@ -1590,10 +1590,15 @@ httpsonly-radio-disabled3 =
     .description = قد لا يزال { -brand-short-name } يرقي بعض الاتصالات
 httpsonly-radio-disabled =
     .label = لا تفعّل وضع HTTPS فقط
+httpsonly-group =
+    .label = وضع HTTPS فقط
+    .description = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 
 ## DoH Section
 
 preferences-doh-header = DNS عبر HTTPS
+dns-over-https-group =
+    .label = DNS عبر HTTPS
 preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
 preferences-doh-description2 = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم مجال من خلال اتصال مُعمّى، مما يوفر DNS آمنًا ويجعل من الصعب على الآخرين رؤية موقع الوب الذي أنت على وشك الوصول إليه.
 # Variables:
