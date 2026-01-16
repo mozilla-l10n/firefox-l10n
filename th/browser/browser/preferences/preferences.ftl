@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = การตั้งค่า…
     .accesskey = ต
 containers-disable-alert-title = ปิดแท็บแยกข้อมูลทั้งหมดหรือไม่?
+startup-group =
+    .label = เริ่มการทำงาน
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
