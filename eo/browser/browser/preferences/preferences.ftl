@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Elekti kiel norman
+    .accesskey = E
 
 ## Custom Homepage subpage
 
