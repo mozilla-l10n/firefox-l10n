@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = أخبر مواقع الويب بعدم بيع بياناتي أو مشاركتها
     .accesskey = ش
+non-technical-privacy-group =
+    .label = تفضيلات خصوصية الموقع
 non-technical-privacy-header = تفضيلات خصوصية الموقع
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -1179,6 +1181,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = امسح التأريخ…
     .accesskey = ت
+history-group =
+    .label = التأريخ
 
 ## Privacy Section - Site Data
 
