@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fertel websites dat se myn gegevens net ferkeapje of diele meie
     .accesskey = s
+non-technical-privacy-group =
+    .label = Websiteprivacyfoarkarren
 non-technical-privacy-header = Websiteprivacyfoarkarren
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Ynstellingen…
     .accesskey = i
 containers-disable-alert-title = Alle kontenerljepblêden slute?
+startup-group =
+    .label = Opstarte
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -583,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Freegje oft bestannen iepene of bewarre wurde moatte
     .accesskey = F
+drm-group =
+    .label = Digital Rights Management (DRM)-ynhâld
 drm-content-header = Digital Rights Management (DRM)-ynhâld
 play-drm-content =
     .label = DRM-kontrolearre ynhâld ôfspylje
@@ -718,11 +724,17 @@ network-proxy-connection-learn-more = Mear ynfo
 network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
+network-proxy-group =
+    .label = Netwurkynstellingen
+    .description = Konfigurearje hoe { -brand-short-name } ferbining makket mei it ynternet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nije finsters en ljepblêden
 home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije finsters en nije ljepblêden iepenje.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1483,6 +1495,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adressen en mear
+payments-group =
+    .label = Betellingsmetoaden
 
 ## Privacy Section - History
 
@@ -1609,6 +1625,8 @@ sitedata-cookies-exceptions2 =
     .label = Utsûnderingen beheare
     .accesskey = z
     .description = Jo kinne opjaan hokker websites altyd of nea cookies en websitegegevens brûke meie.
+cookies-site-data-group =
+    .label = Cookies en websitegegevens
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2001,6 +2019,8 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Befeiliging
+browsing-protection-group =
+    .label = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-browsing-protection = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-enable-safe-browsing =
     .label = Gefaarlike en misliedende ynhâld blokkearje
@@ -2057,10 +2077,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kin noch hieltyd guon ferbiningen opwurdearje
 httpsonly-radio-disabled =
     .label = Allinnich-HTTPS-modus net ynskeakelje
+httpsonly-group =
+    .label = Allinnich-HTTPS-modus
+    .description = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 
 ## DoH Section
 
 preferences-doh-header = DNS oer HTTPS
+dns-over-https-group =
+    .label = DNS oer HTTPS
 preferences-doh-description = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS makke wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 preferences-doh-description2 = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS jûn wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 # Variables:
