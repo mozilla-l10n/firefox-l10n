@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = 웹 사이트에 내 데이터를 판매하거나 공유하지 말라고 요청
     .accesskey = s
+non-technical-privacy-group =
+    .label = 웹 사이트 개인 정보 보호 설정
 non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -284,6 +286,9 @@ browser-layout-show-sidebar-desc = 주 화면을 떠나지 않고 북마크, 휴
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 언어 및 모양
+appearance-group =
+    .label = 웹 사이트 모양
+    .description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
 preferences-web-appearance-header = 웹 사이트 모양
 preferences-web-appearance-description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
 preferences-web-appearance-choice-auto2 =
@@ -573,6 +578,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = 파일을 열지 저장할지 묻기
     .accesskey = A
+drm-group =
+    .label = 디지털 권한 관리 (DRM) 콘텐츠
 drm-content-header = 디지털 권한 관리 (DRM) 콘텐츠
 play-drm-content =
     .label = DRM 제어 콘텐츠 재생
@@ -1477,6 +1484,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 주소 및 기타
+payments-group =
+    .label = 결제 수단
 
 ## Privacy Section - History
 
@@ -1537,6 +1548,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 기록 지우기…
     .accesskey = s
+history-group =
+    .label = 기록
 
 ## Privacy Section - Site Data
 
@@ -1603,6 +1616,8 @@ sitedata-cookies-exceptions2 =
     .label = 예외 관리
     .accesskey = x
     .description = 쿠키 및 사이트 데이터 사용을 항상 허용하거나 허용하지 않을 웹 사이트를 지정할 수 있습니다.
+cookies-site-data-group =
+    .label = 쿠키 및 사이트 데이터
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2053,10 +2068,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name }는 여전히 ​​일부 연결을 업그레이드 할 수 있음
 httpsonly-radio-disabled =
     .label = HTTPS 전용 모드 사용 안 함
+httpsonly-group =
+    .label = HTTPS 전용 모드
+    .description = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 preferences-doh-description2 = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 제공하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 # Variables:
