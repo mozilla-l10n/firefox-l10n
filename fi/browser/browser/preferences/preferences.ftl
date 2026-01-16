@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Käytä nopeasti kirjanmerkkejä, välilehti�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Kieli ja ulkoasu
+appearance-group =
+    .label = Verkkosivuston ulkoasu
+    .description = Jotkin verkkosivustot mukauttavat värimaailmaansa valintasi mukaan. Valitse, mitä värimaailmaa haluat käyttää tällaisilla sivustoilla.
 preferences-web-appearance-header = Verkkosivuston ulkoasu
 preferences-web-appearance-description = Jotkin verkkosivustot mukauttavat värimaailmaansa valintasi mukaan. Valitse, mitä värimaailmaa haluat käyttää tällaisilla sivustoilla.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Sisältöprosessien määrän m
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (oletus)
+performance-group =
+    .label = Suorituskyky
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Suosittele ominaisuuksia selaamisen yhteydessä
     .accesskey = u
 browsing-cfr-recommendations-learn-more = Lue lisää
+browsing-group =
+    .label = Selaus
 
 ## General Section - Proxy
 
@@ -1483,6 +1490,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Osoitteita ja muuta
 payments-group =
     .label = Maksutavat
 
@@ -1545,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tyhjennä historia…
     .accesskey = T
+history-group =
+    .label = Historiatiedot
 
 ## Privacy Section - Site Data
 
