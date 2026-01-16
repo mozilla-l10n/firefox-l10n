@@ -341,6 +341,8 @@ browsing-cfr-features =
     .label = Kachi da funciones sa jikanu
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -350,6 +352,9 @@ network-proxy-connection-learn-more = Ka´vi jiee ya´a
 network-proxy-connection-settings =
     .label = Ke´i
     .accesskey = e
+network-proxy-group =
+    .label = Ke´i conexión
+    .description = Ke´i naja { -brand-short-name } kivu nuu internet.
 
 ## Home Section
 
@@ -792,6 +797,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Xita sɨ´ɨ nsá´ánu…
     .accesskey = s
+history-group =
+    .label = Sɨ´ɨ
 
 ## Privacy Section - Site Data
 
@@ -826,6 +833,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies ji datos nuu ya´a
 
 ## Privacy Section - Cookie Banner Handling
 
