@@ -548,6 +548,8 @@ performance-limit-content-process-blocked-desc = Es posible modificar el número
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -593,6 +595,8 @@ browsing-cfr-features =
     .label = Recomendar funciones mientras navegas
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Aprender más
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
