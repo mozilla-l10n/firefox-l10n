@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Demander aux sites web de ne pas vendre ni partager mes données
     .accesskey = D
+non-technical-privacy-group =
+    .label = Préférences de confidentialité des sites web
 non-technical-privacy-header = Préférences de confidentialité des sites web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -586,6 +588,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demander s’il faut ouvrir ou enregistrer les fichiers
     .accesskey = D
+drm-group =
+    .label = Contenu protégé par des composants de gestion des droits numériques (DRM)
 drm-content-header = Contenu protégé par des composants de gestion des droits numériques (DRM)
 play-drm-content =
     .label = Lire le contenu protégé par des DRM
@@ -2065,10 +2069,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } peut tout de même surclasser certaines connexions
 httpsonly-radio-disabled =
     .label = Ne pas activer le mode HTTPS uniquement
+httpsonly-group =
+    .label = Mode HTTPS uniquement
+    .description = Ce mode autorise seulement les connexions sécurisées aux sites web. { -brand-short-name } demande avant d’établir une connexion non sécurisée.
 
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+dns-over-https-group =
+    .label = DNS via HTTPS
 preferences-doh-description = Le système de nom de domaine (DNS) via HTTPS envoie votre demande de résolution d’un nom de domaine à travers une connexion chiffrée, créant un système sécurisé compliquant la tâche des tiers qui tenteraient de découvrir sur quel site web vous allez vous rendre.
 preferences-doh-description2 = Le système de nom de domaine (DNS) via HTTPS envoie votre demande de résolution d’un nom de domaine à travers une connexion chiffrée, procurant un DNS sécurisé pour compliquer la tâche de tiers qui tenteraient de découvrir le site web sur lequel vous allez vous rendre.
 # Variables:
