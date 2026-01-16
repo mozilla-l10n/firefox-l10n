@@ -2065,6 +2065,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan framleis oppgradere nokre tilkoplingar
 httpsonly-radio-disabled =
     .label = Ikkje slå på berre HTTPS-modus
+httpsonly-group =
+    .label = Berre HTTPS-modus
+    .description = Tillèt berre sikre tilkoplingar til nettstadar. { -brand-short-name } vil spørje før du koplar til på ein usikker måte.
 
 ## DoH Section
 
