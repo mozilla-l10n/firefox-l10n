@@ -301,6 +301,8 @@ browser-containers-settings =
     .label = Nastavení…
     .accesskey = v
 containers-disable-alert-title = Zavřít všechny kontejnerové panely?
+startup-group =
+    .label = Spuštění
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
