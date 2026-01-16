@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
     .accesskey = Б
+non-technical-privacy-group =
+    .label = Хусусиятҳои махфияти сомона
 non-technical-privacy-header = Хусусиятҳои махфияти сомона
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Танзимот…
     .accesskey = Т
 containers-disable-alert-title = Ҳамаи варақаҳои дарбаргирандаро мепӯшед?
+startup-group =
+    .label = Оғози кор
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -583,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Намоиши дархост барои кушодан ё нигоҳ доштани файлҳо
     .accesskey = Н
+drm-group =
+    .label = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 drm-content-header = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 play-drm-content =
     .label = Пахш кардани муҳтавои идорашавандаи DRM
@@ -708,6 +714,8 @@ browsing-cfr-features =
     .label = Тавсия додани хусусиятҳо ҳангоми тамошобинӣ
     .accesskey = Т
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
+browsing-group =
+    .label = Тамошобинӣ
 
 ## General Section - Proxy
 
@@ -717,11 +725,17 @@ network-proxy-connection-learn-more = Маълумоти бештар
 network-proxy-connection-settings =
     .label = Танзимот…
     .accesskey = Т
+network-proxy-group =
+    .label = Танзимоти шабака
+    .description = Танзими тарзи пайвастшавии «{ -brand-short-name }» ба Интернет.
 
 ## Home Section
 
 home-new-windows-tabs-header = Равзанаҳо ва варақаҳои нав
 home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ бояд нишон дода шавад, вақте ки шумо саҳифаи асосӣ, равзанаҳои нав ва варақаҳои навро мекушоед.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1479,6 +1493,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Тарзҳои пардохт
 
 ## Privacy Section - History
 
@@ -1605,6 +1621,8 @@ sitedata-cookies-exceptions2 =
     .label = Идоракунии истисноҳо
     .accesskey = И
     .description = Шумо метавонед муайян кунед, ки кадом сомонаҳо ҳамеша ё ҳеҷ гоҳ барои истифодаи кукиҳо ва маълумоти сомона иҷозат доранд ё надоранд.
+cookies-site-data-group =
+    .label = Кукиҳо ва иттилооти сомона
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1994,6 +2012,8 @@ website-advertising-private-attribution-description = Ин хусусият ба
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Амният
+browsing-protection-group =
+    .label = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-browsing-protection = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-enable-safe-browsing =
     .label = Манъ кардани муҳтавои дурӯғӣ ва зараровар
@@ -2050,10 +2070,15 @@ httpsonly-radio-disabled3 =
     .description = «{ -brand-short-name }» то ҳол метавонад баъзе пайвастҳоро такмид диҳад
 httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
+httpsonly-group =
+    .label = Реҷаи «Танҳо HTTPS»
+    .description = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 
 ## DoH Section
 
 preferences-doh-header = DNS тавассути HTTPS
+dns-over-https-group =
+    .label = DNS тавассути HTTPS
 preferences-doh-description = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро месозад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 preferences-doh-description2 = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро таъмин мекунад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 # Variables:
