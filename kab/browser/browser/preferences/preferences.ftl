@@ -215,6 +215,8 @@ browser-containers-settings =
     .label = Iγewwaṛen…
     .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
+startup-group =
+    .label = Asenker
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -524,6 +526,9 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -603,6 +608,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Isfuyla d yiccaren imaynuten
 home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki telḍiḍ asebter agejdan, ifuyla imaynuten neɣ accaren imaynuten.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Asebter agejdan akked isfuyla imaynuten
@@ -634,6 +642,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -840,6 +854,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
