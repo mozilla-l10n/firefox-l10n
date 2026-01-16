@@ -507,6 +507,9 @@ home-new-windows-tabs-description2 = Tacha' ri natz'ët toq ye'ajäq ri tikirib'
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Tib'an chi K'o wi
+    .accesskey = K
 
 ## Custom Homepage subpage
 
