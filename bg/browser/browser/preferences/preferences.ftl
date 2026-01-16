@@ -213,6 +213,8 @@ browser-containers-settings =
     .label = Настройки…
     .accesskey = а
 containers-disable-alert-title = Затваряне на всички изолирани раздели?
+startup-group =
+    .label = Стартиране
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -523,6 +525,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -542,6 +547,8 @@ performance-limit-content-process-blocked-desc = Променянето на б�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (по подразбиране)
+performance-group =
+    .label = Производителност
 
 ## General Section - Browsing
 
@@ -594,11 +601,17 @@ network-proxy-connection-learn-more = Научете повече
 network-proxy-connection-settings =
     .label = Настройки…
     .accesskey = Н
+network-proxy-group =
+    .label = Настройки на мрежата
+    .description = Настройване на достъпа до интернет от { -brand-short-name }.
 
 ## Home Section
 
 home-new-windows-tabs-header = Нови прозорци и раздели
 home-new-windows-tabs-description2 = Изберете какво да виждате при отваряне на началната страница, нови прозорци или раздели.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -631,6 +644,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -838,6 +857,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1217,6 +1241,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Изключения…
     .accesskey = з
+cookies-site-data-group =
+    .label = Бисквитки и данни на страници
 
 ## Privacy Section - Cookie Banner Handling
 
