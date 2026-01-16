@@ -300,6 +300,8 @@ performance-limit-content-process-blocked-desc = কন্টেন্ট প্
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ডিফল্ট)
+performance-group =
+    .label = কার্যকারিতা
 
 ## General Section - Browsing
 
@@ -661,6 +663,12 @@ history-remember-option-never =
     .label = পূর্ববর্তী তথ্য কখনো মনে রাখা হবে না
 history-remember-option-custom =
     .label = পূর্ববর্তী তথ্য সম্বন্ধীয় স্বনির্ধারিত বৈশিষ্ট্য ব্যবহার করা হবে
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
