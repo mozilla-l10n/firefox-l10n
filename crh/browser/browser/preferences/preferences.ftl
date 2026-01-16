@@ -353,6 +353,9 @@ home-new-windows-tabs-description2 = Ev saifeñizni, yañı pencerelerni ve yañ
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Ögbelgilengen Yap
+    .accesskey = a
 
 ## Custom Homepage subpage
 
