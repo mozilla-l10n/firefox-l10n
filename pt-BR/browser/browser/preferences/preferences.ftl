@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Configurações…
     .accesskey = C
 containers-disable-alert-title = Fechar todas as abas contêiner?
+startup-group =
+    .label = Iniciar
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Novas janelas e abas
 home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página inicial, novas janelas e novas abas.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
