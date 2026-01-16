@@ -149,6 +149,8 @@ browser-containers-settings =
     .label = Settins…
     .accesskey = i
 containers-disable-alert-title = Sneck Aw Conteener Tabs?
+startup-group =
+    .label = Stertup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -334,6 +336,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Digital Richts Management (DRM) Content
 drm-content-header = Digital Richts Management (DRM) Content
 play-drm-content =
     .label = Pley DRM-controlled content
@@ -438,6 +442,8 @@ browsing-cfr-features =
     .label = Recommend featurs as ye stravaig
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Lairn mair
+browsing-group =
+    .label = Stravaigin
 
 ## General Section - Proxy
 
@@ -447,6 +453,9 @@ network-proxy-connection-learn-more = Lairn mair
 network-proxy-connection-settings =
     .label = Settins…
     .accesskey = e
+network-proxy-group =
+    .label = Netwark settins
+    .description = Confeegur how { -brand-short-name } connects tae the internet.
 
 ## Home Section
 
@@ -930,6 +939,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Dicht Historie…
     .accesskey = s
+history-group =
+    .label = Historie
 
 ## Privacy Section - Site Data
 
@@ -973,6 +984,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
+cookies-site-data-group =
+    .label = Cookies and Site Data
 
 ## Privacy Section - Cookie Banner Handling
 
