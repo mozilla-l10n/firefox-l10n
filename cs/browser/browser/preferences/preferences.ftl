@@ -799,6 +799,8 @@ performance-limit-content-process-blocked-desc =
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (výchozí)
+performance-group =
+    .label = Výkon
 
 ## General Section - Browsing
 
@@ -847,6 +849,8 @@ browsing-cfr-features =
     .label = Doporučovat funkce během prohlížení
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Zjistit více
+browsing-group =
+    .label = Prohlížení
 
 ## General Section - Proxy
 
@@ -1650,6 +1654,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresy a další
+payments-group =
+    .label = Platební metody
 
 ## Privacy Section - History
 
@@ -1714,6 +1722,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vymazat historii…
     .accesskey = V
+history-group =
+    .label = Historie prohlížení
 
 ## Privacy Section - Site Data
 
