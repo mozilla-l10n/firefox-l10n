@@ -249,6 +249,9 @@ update-application-use-service =
     .label = Ngui servis dilikôt keu pasang ata seubarô
     .accesskey = N
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performen
@@ -287,6 +290,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Seutöt teunuléh watéi ta peuphôn thép
     .accesskey = S
+browsing-group =
+    .label = Peuhah Situs
 
 ## General Section - Proxy
 
@@ -301,6 +306,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Tingkap ngön Tab Barô
 home-new-windows-tabs-description2 = Piléh pue nyang meukalën watéi neupeuhah laman home, window barô, ngën tab barô
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -330,6 +338,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ngui bookmark...
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -423,6 +437,9 @@ containers-add-button =
 containers-remove-button =
     .label = Sampoh
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -457,6 +474,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Hana lom itanyöng
 sync-signedin-login-failure = Neu tulông tamöng bah meukonék lom { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -468,6 +490,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Tamong
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -553,6 +581,12 @@ forms-master-pw-change =
     .label = Tuka lageuëm rayeuk
     .accesskey = M
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Riwayat
@@ -632,6 +666,12 @@ sitedata-settings =
     .label = Uroh Data...
     .accesskey = U
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Bar Alamat
@@ -650,6 +690,19 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Meurunoe lôm
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -708,6 +761,9 @@ collection-studies-link = Kalön kajian { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lapuran data meupeulèn keu build konfigurasi nyoe
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -738,3 +794,12 @@ certs-view =
 certs-devices =
     .label = Peukakah Peuji'oh Mara Bahya
     .accesskey = P
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## The following strings are used in the Download section of settings
+
