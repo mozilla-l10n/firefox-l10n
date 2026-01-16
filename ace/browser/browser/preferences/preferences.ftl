@@ -318,6 +318,9 @@ home-new-windows-tabs-description2 = Piléh pue nyang meukalën watéi neupeuhah
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Peugot Baku
+    .accesskey = B
 
 ## Custom Homepage subpage
 
