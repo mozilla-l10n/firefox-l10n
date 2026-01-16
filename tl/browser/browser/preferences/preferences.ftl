@@ -396,6 +396,8 @@ performance-limit-content-process-blocked-desc = Ang pagbabago sa bilang ng mga 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = Performance
 
 ## General Section - Browsing
 
