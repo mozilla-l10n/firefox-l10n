@@ -598,6 +598,9 @@ home-new-windows-tabs-description2 = Изаберите шта желите да
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Постави као подразумеван
+    .accesskey = П
 
 ## Custom Homepage subpage
 
