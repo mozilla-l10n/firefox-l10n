@@ -168,6 +168,8 @@ browser-containers-settings =
     .label = Sätted…
     .accesskey = d
 containers-disable-alert-title = Konteinerkaartide sulgemine
+startup-group =
+    .label = Käivitamine
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
