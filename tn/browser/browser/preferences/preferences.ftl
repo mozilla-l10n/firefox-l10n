@@ -50,6 +50,8 @@ tabs-group-header = Ditab
 show-tabs-in-taskbar =
     .label = Supa diponopele tsa thebe mo Baratiro ya di Window
     .accesskey = k
+startup-group =
+    .label = Tshimololosešwa
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -133,6 +135,9 @@ applications-use-other-label =
 
 play-drm-content-learn-more = Ithute mo go tseneletseng
 
+## Firefox support
+
+
 ## General Section - Performance
 
 
@@ -147,6 +152,9 @@ browsing-use-smooth-scrolling =
 
 
 ## Home Section
+
+
+## Home Section - Default Browser
 
 
 ## Custom Homepage subpage
@@ -165,6 +173,9 @@ use-current-pages =
 choose-bookmark =
     .label = Dirisa Letshwaotsebe…
     .accesskey = L
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -200,6 +211,9 @@ search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiw
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -209,8 +223,14 @@ search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiw
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ga e a netefadiwa.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -252,6 +272,8 @@ forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
 ## Privacy Section - History
 
 history-header = Motlhala wa tsedifitileng
+history-group =
+    .label = Motlhala wa tsedifitileng
 
 ## Privacy Section - Site Data
 
@@ -262,7 +284,7 @@ history-header = Motlhala wa tsedifitileng
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Matshwaotsebe
