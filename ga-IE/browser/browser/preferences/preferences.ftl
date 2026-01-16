@@ -252,6 +252,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Ábhar DRM (Bainistíocht Ceart Digiteach)
 drm-content-header = Ábhar DRM (Bainistíocht Ceart Digiteach)
 play-drm-content =
     .label = Seinn ábhar DRM
