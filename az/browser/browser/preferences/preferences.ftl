@@ -345,6 +345,9 @@ home-new-windows-tabs-description2 = Ev səhifənizi, yeni pəncərə və vərə
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Əsas səyyahım et
+    .accesskey = m
 
 ## Custom Homepage subpage
 
