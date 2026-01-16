@@ -2026,6 +2026,8 @@ website-advertising-private-attribution-description = Isso ajuda sites a entende
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
+browsing-protection-group =
+    .label = Proteção contra conteúdo enganoso e softwares perigosos
 security-browsing-protection = Proteção contra conteúdo enganoso e softwares perigosos
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso ou enganoso
