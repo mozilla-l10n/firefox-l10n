@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = སྒྲིག་འགོད…
     .accesskey = i
 containers-disable-alert-title = Close All Container Tabs?
+startup-group =
+    .label = འགོ་བསྐྱར་འཛུགས
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -260,6 +262,8 @@ performance-limit-content-process-blocked-desc = Modifying the number of content
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = ནུས་རྩལ
 
 ## General Section - Browsing
 
@@ -283,6 +287,8 @@ browsing-cfr-recommendations =
     .label = Recommend extensions as you browse
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Learn more
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -292,6 +298,9 @@ network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
+network-proxy-group =
+    .label = Network Settings
+    .description = Configure how { -brand-short-name } connects to the internet.
 
 ## Home Section
 
