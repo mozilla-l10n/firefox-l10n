@@ -164,6 +164,8 @@ browser-containers-settings =
     .label = Կարգաւորումներ...
     .accesskey = ր
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+startup-group =
+    .label = Մեկնարկ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -196,6 +198,9 @@ containers-remove-cancel-button = Չհեռացնել այս պարունակը
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Լեզուն եւ տեսքը
+appearance-group =
+    .label = Վեբ կայքի տեսքը
+    .description = Որոշ կայքեր հարմարեցնում են իրենց գունաւորումը՝ Ձեր նախասիրութիւններին համապատասխան: Ընտրէք գունաւորումը, որը ցանկանում էք աւգտագործել այդ կայքերի համար:
 preferences-web-appearance-header = Վեբ կայքի տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գունաւորումը՝ Ձեր նախասիրութիւններին համապատասխան: Ընտրէք գունաւորումը, որը ցանկանում էք աւգտագործել այդ կայքերի համար:
 preferences-web-appearance-choice-light2 =
@@ -388,6 +393,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Հարցնել բացել կամ պահպանել նիշերը
     .accesskey = Հ
+drm-group =
+    .label = Թուային իրաւունքների կառավարման (DRM) բովանդակութիւն
 drm-content-header = Թուային իրաւունքների կառավարման (DRM) բովանդակութիւն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկաւարուող բովանդակութիւնը
@@ -459,6 +466,8 @@ performance-limit-content-process-blocked-desc = Հնարաւոր է փոփոխ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (սկզբնադիր)
+performance-group =
+    .label = Կատարողականութիւն
 
 ## General Section - Browsing
 
@@ -994,6 +1003,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Մաքրել պատմութիւնը…
     .accesskey = s
+history-group =
+    .label = Պատմութիւն
 
 ## Privacy Section - Site Data
 
@@ -1037,6 +1048,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
     .accesskey = ց
+cookies-site-data-group =
+    .label = Cookie-ներ եւ կայքի տուեալներ
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1241,6 +1254,8 @@ collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-n
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Անվտանգութիւն
+browsing-protection-group =
+    .label = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
 security-browsing-protection = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգաւոր եւ խաբուսիկ բովանդակութիւնը
