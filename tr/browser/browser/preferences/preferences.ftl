@@ -670,6 +670,8 @@ performance-limit-content-process-blocked-desc = İçerik işlemi sayısını de
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (varsayılan)
+performance-group =
+    .label = Performans
 
 ## General Section - Browsing
 
@@ -1494,6 +1496,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresler ve daha fazlası
 payments-group =
     .label = Ödeme yöntemleri
 
@@ -1527,6 +1531,9 @@ history-remember-option-never =
     .label = geçmişi asla hatırlamasın
 history-remember-option-custom =
     .label = geçmiş için özel ayarları kullansın
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişleriniz için özel ayarlar kullanacak.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
@@ -1556,6 +1563,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Geçmişi temizle…
     .accesskey = G
+history-group =
+    .label = Geçmiş
 
 ## Privacy Section - Site Data
 
