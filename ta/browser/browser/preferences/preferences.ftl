@@ -322,6 +322,8 @@ browsing-search-on-start-typing =
     .label = நீங்கள் தட்டச்சு செய்யத்தொடங்கும்போது உரையைத் தேடவும்
     .accesskey = x
 browsing-cfr-recommendations-learn-more = மேலும் அறிய
+browsing-group =
+    .label = உலாவல்
 
 ## General Section - Proxy
 
