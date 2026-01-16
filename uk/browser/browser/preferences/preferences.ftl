@@ -521,6 +521,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Запитувати, відкривати чи зберігати файли
     .accesskey = в
+drm-group =
+    .label = Вміст з керуванням цифровими правами (DRM)
 drm-content-header = Вміст з керуванням цифровими правами (DRM)
 play-drm-content =
     .label = Відтворювати вміст з DRM
@@ -1927,6 +1929,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS через HTTPS
+dns-over-https-group =
+    .label = DNS через HTTPS
 preferences-doh-description = Система доменних імен (DNS) через HTTPS надсилає ваш запит на доменне ім'я через зашифроване з'єднання, створюючи захищену DNS і ускладнюючи іншим користувачам можливість переглянути, до якого вебсайту ви збираєтеся отримати доступ.
 preferences-doh-description2 = Завдяки системі DNS через HTTPS ваші запити на доменне ім'я шифруються, ускладнюючи стороннім особам можливість перегляду, до якого вебсайту ви збираєтеся отримати доступ.
 # Variables:
