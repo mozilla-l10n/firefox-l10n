@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortel nettstadar om å ikkje selje eller dele mine data
     .accesskey = o
+non-technical-privacy-group =
+    .label = Personverninnstillingar for nettstaden
 non-technical-privacy-header = Personverninnstillingar for nettstaden
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -296,6 +298,9 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mob
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk og utsjånad
+appearance-group =
+    .label = Utsjånaden på nettstaden
+    .description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
 preferences-web-appearance-header = Utsjånaden på nettstaden
 preferences-web-appearance-description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
 preferences-web-appearance-choice-auto2 =
@@ -585,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spør om du vil opne eller lagre filer
     .accesskey = S
+drm-group =
+    .label = Digital Rights Management (DRM) innhald
 drm-content-header = Digital Rights Management (DRM) innhald
 play-drm-content =
     .label = Spel DRM-kontrollert innhald
@@ -2072,6 +2079,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domennamn via ei kryptert tilkopling, lagar ein sikker DNS og gjer det vanskelegare for andre å sjå kva for nettstad du er i ferd med å besøkje.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domenenamn gjennom ei kryptert tilkopling, og gir eit sikkert DNS og gjer det vanskelegare for andre å sjå kva for nettstad du er i ferd med å besøke.
 # Variables:
