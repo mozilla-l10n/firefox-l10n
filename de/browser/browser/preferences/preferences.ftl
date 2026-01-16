@@ -296,6 +296,9 @@ browser-layout-show-sidebar-desc = Greifen Sie schnell auf Lesezeichen, Tabs von
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Sprache und Erscheinungsbild
+appearance-group =
+    .label = Erscheinungsbild von Websites
+    .description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
 preferences-web-appearance-header = Erscheinungsbild von Websites
 preferences-web-appearance-description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
 preferences-web-appearance-choice-auto2 =
