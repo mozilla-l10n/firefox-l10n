@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Ezarpenak…
     .accesskey = r
 containers-disable-alert-title = Itxi edukiontzi-fitxa gutziak?
+startup-group =
+    .label = Abioa
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Leiho eta fitxa berriak
 home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-orria, leiho berriak eta fitxa berriak irekitzean.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
