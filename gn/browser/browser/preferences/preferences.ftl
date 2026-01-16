@@ -739,6 +739,9 @@ home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue i
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Ejapo chugui yjypykuéva
+    .accesskey = D
 
 ## Custom Homepage subpage
 
