@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Spune site-urilor web să nu-mi vândă sau să nu-mi partajeze datele
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferințe de confidențialitate pe site-uri web
 non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -588,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Să întrebe dacă să deschidă sau să salveze fișierele
     .accesskey = A
+drm-group =
+    .label = Conținut Digital Rights Management (DRM)
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
     .label = Redă conținut controlat prin DRM
@@ -2017,6 +2021,8 @@ website-advertising-private-attribution-description = Ajută site-urile să în�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+browsing-protection-group =
+    .label = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-browsing-protection = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
