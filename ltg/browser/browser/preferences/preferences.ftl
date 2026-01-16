@@ -336,6 +336,9 @@ home-new-windows-tabs-description2 = Izavielej, kū rōdēt atdorut jaunu lopu, 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Padareit par nūkluseitū
+    .accesskey = d
 
 ## Custom Homepage subpage
 
