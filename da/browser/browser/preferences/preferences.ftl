@@ -713,6 +713,8 @@ browsing-cfr-features =
     .label = Anbefal funktioner mens jeg browser
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Læs mere
+browsing-group =
+    .label = Browsing
 
 ## General Section - Proxy
 
@@ -1547,6 +1549,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ryd historik…
     .accesskey = h
+history-group =
+    .label = Historik
 
 ## Privacy Section - Site Data
 
