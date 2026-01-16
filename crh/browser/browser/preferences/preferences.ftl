@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = Ayarlar…
     .accesskey = A
 containers-disable-alert-title = Konteyner İlmeklerniñ Episi Qapatılsınmı?
+startup-group =
+    .label = Başlanğıç
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -249,6 +251,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Raqamsal Aqlar İdaresi (DRM) Muhtevası
 drm-content-header = Raqamsal Aqlar İdaresi (DRM) Muhtevası
 play-drm-content =
     .label = DRM-muraqabeli muhtevanı oynat
@@ -338,6 +342,9 @@ network-proxy-connection-learn-more = Daa Çoq Ögren
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
+network-proxy-group =
+    .label = Şebeke Ayarları
+    .description = { -brand-short-name } kezicisiniñ İnternet'ke nasıl bağlanacağını endamlandırıñız.
 
 ## Home Section
 
@@ -692,6 +699,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Keçmişi Temizle…
     .accesskey = T
+history-group =
+    .label = Keçmiş
 
 ## Privacy Section - Site Data
 
@@ -726,6 +735,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
+cookies-site-data-group =
+    .label = Çörekler ve Sayt Verileri
 
 ## Privacy Section - Cookie Banner Handling
 
