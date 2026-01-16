@@ -477,6 +477,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Suter ma yella ad d-yeldi neɣ ad isekles ifuyla
     .accesskey = S
+drm-group =
+    .label = Izerfan n usefrek n ugbur umḍin (DRM)
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
     .label = Γɣaṛ agbur ittwaḥerzen s DRM-
@@ -1136,6 +1138,10 @@ autofill-addresses-header =
 autofill-addresses-checkbox-message =
     .label = Asekles d taččart tawurmant n tansiwin
     .accesskey = A
+addresses-group =
+    .label = Tansiwin d wayen niḍen
+payments-group =
+    .label = Tarrayin n uxelleṣ
 
 ## Privacy Section - History
 
@@ -1193,6 +1199,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Sfeḍ azray…
     .accesskey = s
+history-group =
+    .label = Azray
 
 ## Privacy Section - Site Data
 
