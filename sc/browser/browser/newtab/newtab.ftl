@@ -489,6 +489,11 @@ newtab-weather-opt-in-yes =
     .label = Eja
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = Càstia is previsiones in { $provider }
+    .aria-description = { $provider } ∙ Patrotzinadu
 
 ## Topic Labels
 
