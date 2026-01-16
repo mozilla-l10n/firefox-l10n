@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Settings…
     .accesskey = i
 containers-disable-alert-title = Close All Container Tabs?
+startup-group =
+    .label = Startup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
