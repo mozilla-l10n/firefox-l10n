@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = הגדרה כדפדפן ברירת המחדל
+    .accesskey = ב
 
 ## Custom Homepage subpage
 
