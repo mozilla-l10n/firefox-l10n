@@ -294,6 +294,9 @@ browser-layout-show-sidebar-desc = 快捷使用书签、手机上的标签页、
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 语言与外观
+appearance-group =
+    .label = 网站外观
+    .description = 某些网站可依照您的偏好调整自身配色，您可在下方选择要使用的网站配色方案。
 preferences-web-appearance-header = 网站外观
 preferences-web-appearance-description = 某些网站可依照您的偏好调整自身配色，您可在下方选择要使用的网站配色方案。
 preferences-web-appearance-choice-auto2 =
@@ -663,6 +666,8 @@ performance-limit-content-process-blocked-desc = 仅在多进程 { -brand-short-
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (默认)
+performance-group =
+    .label = 性能
 
 ## General Section - Browsing
 
@@ -1489,6 +1494,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = 地址等信息
 payments-group =
     .label = 付款方式
 
@@ -1551,6 +1558,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 清除历史记录…
     .accesskey = s
+history-group =
+    .label = 历史记录
 
 ## Privacy Section - Site Data
 
