@@ -320,6 +320,8 @@ performance-limit-content-process-blocked-desc = Baylugol keeweendi silsilaaji l
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = Huutoro { $num } (goowaaɗo)
+performance-group =
+    .label = Jaawgol golle
 
 ## General Section - Browsing
 
