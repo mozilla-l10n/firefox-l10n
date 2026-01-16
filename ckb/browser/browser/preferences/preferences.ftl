@@ -40,6 +40,17 @@ should-restart-ok = ئێستا { -brand-short-name } پێبکەرەوە
 cancel-no-restart-button = پاشگەزبوونەوە
 restart-later = دوواتر پێبکەوە
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = گەڕانی ئەنجامەکان
@@ -86,6 +97,8 @@ browser-containers-settings =
     .label = ڕێکخستنەکان
     .accesskey = i
 containers-disable-alert-title = هەموو بازدەرەکانی لەخۆگر دادەخەیت؟
+startup-group =
+    .label = دەستپێکردن
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -256,6 +269,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM)
 drm-content-header = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM)
 play-drm-content =
     .label = ناوەڕۆکی کۆنترۆڵکراو لە ژێر DRM کارپێبکە
@@ -289,6 +304,9 @@ update-in-progress-ok-button = &هەڵیبوەشینەوە
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &بەردەوام بە
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارایی
@@ -301,6 +319,8 @@ performance-settings-learn-more = زیاتر بزانە
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (بنەڕەت)
+performance-group =
+    .label = کارایی
 
 ## General Section - Browsing
 
@@ -331,6 +351,8 @@ browsing-cfr-features =
     .label = تایبەتمەندییەکان پێشنیازبکە کاتێک دەگەڕێم
     .accesskey = f
 browsing-cfr-recommendations-learn-more = زیاتر بزانە
+browsing-group =
+    .label = گەڕان
 
 ## General Section - Proxy
 
@@ -340,11 +362,17 @@ network-proxy-connection-learn-more = زیاتر بزانە
 network-proxy-connection-settings =
     .label = ڕێکخستنەکان...
     .accesskey = e
+network-proxy-group =
+    .label = ڕێکخستنی ڕایەڵە
+    .description = ڕێکی بخە کە چۆن { -brand-short-name } پەویوەندی ببەستێت بە ئینتەرنێتەوە.
 
 ## Home Section
 
 home-new-windows-tabs-header = پەنجەرە و بازدەری نوێ
 home-new-windows-tabs-description2 = دەتەوێت چی ببینی کاتێک پەڕەی سەرەکی دەکرێتەوە، لە پەنجەرەی نوێ،یان بازدەری نوێ.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -376,6 +404,12 @@ use-current-pages =
 choose-bookmark =
     .label = دڵخوازەکان بەکاربێنە...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -483,6 +517,9 @@ containers-new-tab-check =
 containers-remove-button =
     .label = بیسڕەوە
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -522,6 +559,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } نەسەلمێندراوە
 sync-signedin-login-failure = هەوڵ بدە دووبارە { $email } ببەستەوە
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -682,6 +724,9 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 primary-password-os-auth-dialog-message-macosx = درووستکردنی وشەی تێپەڕی سەرەکی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = مێژوو
@@ -718,6 +763,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = پاککردنەوەی مێژوو...
     .accesskey = s
+history-group =
+    .label = مێژوو
 
 ## Privacy Section - Site Data
 
@@ -746,6 +793,12 @@ sitedata-clear =
 sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -893,6 +946,9 @@ collection-health-report-telemetry-disabled-link = زیاتر بزانە
 collection-health-report-link = زیاتر بزانە
 addon-recommendations-link = زیاتر بزانە
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -905,6 +961,12 @@ security-enable-safe-browsing-link = زیاتر بزانە
 
 certs-header = بڕوانامە
 certs-devices-enable-fips = FIPS چالاک بکە
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
