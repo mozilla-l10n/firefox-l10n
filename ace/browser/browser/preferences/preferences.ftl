@@ -224,6 +224,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Asoë Kontèn DRM (Digital Right Management)
 drm-content-header = Asoë Kontèn DRM (Digital Right Management)
 play-drm-content =
     .label = Peumaèn kontèn nyang meukontrol-DRM
