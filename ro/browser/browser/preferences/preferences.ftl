@@ -745,6 +745,9 @@ home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de star
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Setează ca implicit
+    .accesskey = D
 
 ## Custom Homepage subpage
 
