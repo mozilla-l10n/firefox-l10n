@@ -250,6 +250,8 @@ browser-containers-settings =
     .label = Nastavitve …
     .accesskey = N
 containers-disable-alert-title = Zapri vse vsebniške zavihke?
+startup-group =
+    .label = Zagon
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
