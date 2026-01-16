@@ -1135,6 +1135,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Esborra l'historial…
     .accesskey = s
+history-group =
+    .label = Historial
 
 ## Privacy Section - Site Data
 
