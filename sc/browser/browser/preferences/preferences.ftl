@@ -1189,6 +1189,10 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gesti is indiritzos e àteru
     .accesskey = s
+addresses-group =
+    .label = Indiritzos e àteru
+payments-group =
+    .label = Mètodos de pagamentu
 
 ## Privacy Section - History
 
@@ -1246,6 +1250,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Isbòida sa cronologia…
     .accesskey = s
+history-group =
+    .label = Cronologia
 
 ## Privacy Section - Site Data
 
