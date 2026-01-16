@@ -28,6 +28,17 @@ should-restart-title = { -brand-short-name } tunandi taaga
 should-restart-ok = { -brand-short-name } tunandi taaga sohõ
 restart-later = Tunandi taaga nd'a too kayna
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Ceeci duurawey
@@ -206,6 +217,9 @@ update-application-use-service =
     .label = Goy bandafaari zaa ka taagarandirey sinji
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Teeyan sahã
@@ -243,6 +257,12 @@ network-proxy-connection-settings =
     .label = Kayandiyaney…
     .accesskey = a
 
+## Home Section
+
+
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -259,6 +279,21 @@ use-current-pages =
 choose-bookmark =
     .label = Doo-šilbay goyandi...
     .accesskey = D
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -302,6 +337,9 @@ containers-add-button =
 containers-remove-button =
     .label = Kaa
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -331,11 +369,22 @@ sync-profile-picture-with-alt =
 sync-signedin-unverified = { $email } mana korosandi.
 sync-signedin-login-failure = War maa hantum ka ciya koyne { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-sign-in =
     .label = Huru
     .accesskey = H
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -379,6 +428,12 @@ sync-verification-sent-body = Tabatandiyan dobu sanbandi { $email } do.
 sync-verification-not-sent-title = Mana hin ka tabatandiyan sanba
 sync-verification-not-sent-body = Ir mana hin ka tabatandiyan bataga sanba sohõda, wa ceeci koyne waati foo.
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -394,6 +449,12 @@ forms-master-pw-change =
     .label = Takaddaɲaa šennikufal barmay
     .accesskey = T
 forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -441,6 +502,17 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Kayandiyaney…
     .accesskey = n
+history-group =
+    .label = Taariki
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -451,6 +523,22 @@ addressbar-locbar-openpage-option =
     .label = Nor lokey feeri
     .accesskey = f
 addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -463,6 +551,12 @@ permissions-addon-exceptions =
     .accesskey = H
 permissions-notification2 =
     .label = Bangandiyaney
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -487,6 +581,12 @@ certs-enable-ocsp =
     .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
     .accesskey = H
 certs-devices-enable-fips = FIPS tunandi
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
