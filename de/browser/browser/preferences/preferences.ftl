@@ -2078,6 +2078,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } könnte trotzdem einige Verbindungen ändern
 httpsonly-radio-disabled =
     .label = Nur-HTTPS-Modus nicht aktivieren
+httpsonly-group =
+    .label = Nur-HTTPS-Modus
+    .description = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
 
 ## DoH Section
 
