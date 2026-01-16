@@ -692,6 +692,9 @@ home-new-windows-tabs-description2 = เลือกสิ่งที่คุ�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ทำให้เป็นค่าเริ่มต้น
+    .accesskey = ค
 
 ## Custom Homepage subpage
 
