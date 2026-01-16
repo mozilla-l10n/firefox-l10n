@@ -2061,6 +2061,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } 可能仍会为某些连接进行升级
 httpsonly-radio-disabled =
     .label = 不启用 HTTPS-Only 模式
+httpsonly-group =
+    .label = HTTPS-Only 模式
+    .description = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
 
 ## DoH Section
 
