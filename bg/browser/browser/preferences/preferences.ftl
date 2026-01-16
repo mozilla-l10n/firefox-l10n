@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Уведомяване на сайтовете да не продават или споделят мои данни
     .accesskey = с
+non-technical-privacy-group =
+    .label = Предпочитания за поверителност към сайтовете
 non-technical-privacy-header = Предпочитания за поверителност към сайтовете
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -476,6 +478,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Питане за отваряне или за запазване на файловете
     .accesskey = П
+drm-group =
+    .label = Съдържание с цифрови права (DRM)
 drm-content-header = Съдържание с цифрови права (DRM)
 play-drm-content =
     .label = Изпълняване на съдържание под DRM
@@ -1195,6 +1199,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Изчистване на историята…
     .accesskey = и
+history-group =
+    .label = История
 
 ## Privacy Section - Site Data
 
