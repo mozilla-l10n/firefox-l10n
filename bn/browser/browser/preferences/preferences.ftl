@@ -396,6 +396,9 @@ network-proxy-connection-learn-more = আরও জানুন
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = e
+network-proxy-group =
+    .label = নেটওয়ার্ক সেটিং
+    .description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
 
 ## Home Section
 
