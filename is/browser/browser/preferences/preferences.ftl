@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Segja vefsvæðum að selja ekki eða deila gögnunum mínum
     .accesskey = S
+non-technical-privacy-group =
+    .label = Persónuverndarstefna vefsvæðis
 non-technical-privacy-header = Persónuverndarstefna vefsvæðis
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -484,6 +486,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Spyrja hvort eigi að opna eða vista skrár
     .accesskey = a
+drm-group =
+    .label = Digital Rights Management (DRM) efni
 drm-content-header = Digital Rights Management (DRM) efni
 play-drm-content =
     .label = Spila efni sem notar DRM
@@ -613,6 +617,9 @@ network-proxy-connection-learn-more = Kanna nánar
 network-proxy-connection-settings =
     .label = Stillingar…
     .accesskey = S
+network-proxy-group =
+    .label = Stillingar netkerfis
+    .description = Stilla hvernig { -brand-short-name } tengist við internetið.
 
 ## Home Section
 
@@ -1179,6 +1186,8 @@ autofill-addresses-manage-addresses-button =
     .accesskey = m
 autofill-addresses-manage-addresses-title =
     .heading = Sýsla með heimilisföng og fleira
+payments-group =
+    .label = Greiðslumátar
 
 ## Privacy Section - History
 
@@ -1298,6 +1307,8 @@ sitedata-cookies-exceptions2 =
     .label = Sýsla með undantekningar
     .accesskey = u
     .description = Þú getur tilgreint hvaða vefsvæðum sé leyft eða aldrei leyft að nota vefkökur og vafurgögn.
+cookies-site-data-group =
+    .label = Vefkökur og gögn vefsvæðis
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1635,6 +1646,8 @@ website-advertising-private-attribution-description = Þetta hjálpar vefsvæðu
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Öryggi
+browsing-protection-group =
+    .label = Vörn gegn svikaefni og hættulegum hugbúnaði
 security-browsing-protection = Vörn gegn svikaefni og hættulegum hugbúnaði
 security-enable-safe-browsing =
     .label = Loka fyrir hættulegt og villandi efni
@@ -1691,10 +1704,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } gæti samt uppfært sumar tengingar
 httpsonly-radio-disabled =
     .label = Ekki virkja Einungis-HTTPS-ham
+httpsonly-group =
+    .label = Einungis-HTTPS-hamur
+    .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 
 ## DoH Section
 
 preferences-doh-header = DNS yfir HTTPS
+dns-over-https-group =
+    .label = DNS yfir HTTPS
 preferences-doh-description = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, útbýr öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 preferences-doh-description2 = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, veitir öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 # Variables:
