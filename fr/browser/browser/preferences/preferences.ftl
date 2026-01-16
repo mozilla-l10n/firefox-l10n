@@ -740,6 +740,9 @@ home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Définir par défaut
+    .accesskey = D
 
 ## Custom Homepage subpage
 
