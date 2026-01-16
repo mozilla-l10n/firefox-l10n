@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = 设置…
     .accesskey = i
 containers-disable-alert-title = 关闭所有身份标签页？
+startup-group =
+    .label = 启动
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -714,11 +716,17 @@ network-proxy-connection-learn-more = 详细了解
 network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
+network-proxy-group =
+    .label = 网络设置
+    .description = 配置 { -brand-short-name } 如何连接互联网。
 
 ## Home Section
 
 home-new-windows-tabs-header = 新窗口和标签页
 home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标签页时要看到的内容。
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
