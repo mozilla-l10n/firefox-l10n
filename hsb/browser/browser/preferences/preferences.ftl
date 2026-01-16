@@ -748,6 +748,9 @@ home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž s
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = K standardej činić
+    .accesskey = t
 
 ## Custom Homepage subpage
 
