@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Požiadať webové stránky, aby nepredávali ani nezdieľali moje údaje
     .accesskey = i
+non-technical-privacy-group =
+    .label = Predvoľby ochrany súkromia na webových stránkach
 non-technical-privacy-header = Predvoľby ochrany súkromia na webových stránkach
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -591,6 +593,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Opýtať sa, či chcete súbory otvoriť alebo uložiť
     .accesskey = O
+drm-group =
+    .label = Obsah chránený pomocou Digital Rights Management (DRM)
 drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
 play-drm-content =
     .label = Prehrávať obsah chránený pomocou DRM
@@ -1494,6 +1498,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresy a ďalšie
+payments-group =
+    .label = Spôsoby platby
 
 ## Privacy Section - History
 
@@ -2013,6 +2021,8 @@ website-advertising-private-attribution-description = Toto pomáha webom pochopi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpečnosť
+browsing-protection-group =
+    .label = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-browsing-protection = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-enable-safe-browsing =
     .label = Blokovať nebezpečný a podvodný obsah
@@ -2076,6 +2086,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS cez HTTPS
+dns-over-https-group =
+    .label = DNS cez HTTPS
 preferences-doh-description = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím vytvorí zabezpečené DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 preferences-doh-description2 = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím zabezpečí DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 # Variables:
