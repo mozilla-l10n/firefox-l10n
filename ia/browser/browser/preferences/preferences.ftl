@@ -724,6 +724,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nove fenestras e schedas
 home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pagina initial, nove fenestras e nove schedas.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina principal e nove fenestras
@@ -1609,6 +1612,8 @@ sitedata-cookies-exceptions2 =
     .label = Gerer exceptiones
     .accesskey = x
     .description = Tu pote specificar que sitos web es sempre o jammais permittite usar  cookies e datos del sito.
+cookies-site-data-group =
+    .label = Cookies e datos de sitos
 
 ## Privacy Section - Cookie Banner Handling
 
