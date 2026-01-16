@@ -102,6 +102,8 @@ browser-containers-settings =
     .label = Ter…
     .accesskey = r
 containers-disable-alert-title = Lor dirica matino weng me mako jami?
+startup-group =
+    .label = Caki
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
