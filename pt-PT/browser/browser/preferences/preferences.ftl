@@ -537,6 +537,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -556,6 +559,8 @@ performance-limit-content-process-blocked-desc = Modificar o número de processo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinição)
+performance-group =
+    .label = Desempenho
 
 ## General Section - Browsing
 
@@ -601,6 +606,8 @@ browsing-cfr-features =
     .label = Recomendar funcionalidades enquanto navega
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saber mais
+browsing-group =
+    .label = Navegação
 
 ## General Section - Proxy
 
@@ -610,11 +617,17 @@ network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
+network-proxy-group =
+    .label = Definições de rede
+    .description = Configure como o { -brand-short-name } se liga à internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e separadores
 home-new-windows-tabs-description2 = Escolha o que vê quando abre a sua página inicial, novas janelas, e novos separadores.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -654,6 +667,9 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 home-homepage-header = Página inicial
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -914,6 +930,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1333,6 +1354,8 @@ sitedata-cookies-exceptions2 =
     .label = Gerir exceções
     .accesskey = x
     .description = Pode especificar que sites que estão, sempre ou nunca, autorizados a utilizar os cookies e os dados de sites.
+cookies-site-data-group =
+    .label = Cookies e dados de sites
 
 ## Privacy Section - Cookie Banner Handling
 
