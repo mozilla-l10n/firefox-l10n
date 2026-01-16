@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Hyni shpejt e shpejt te faqerojtësit, skedat
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Gjuhë dhe Dukje
+appearance-group =
+    .label = Dukje sajti
+    .description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
 preferences-web-appearance-header = Dukje sajti
 preferences-web-appearance-description = Disa sajte e përshtatin skemën e ngjyrave të tyre bazuar në parapëlqimet tuaja. Zgjidhni cilën skemë ngjyre do të donit të përdoret për këto sajte.
 preferences-web-appearance-choice-auto2 =
@@ -1487,6 +1490,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresa, etj
 payments-group =
     .label = Metoda pagesash
 
@@ -1549,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Spastroni Historikun…
     .accesskey = S
+history-group =
+    .label = Historik
 
 ## Privacy Section - Site Data
 
