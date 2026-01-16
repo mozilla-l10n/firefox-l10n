@@ -1224,6 +1224,12 @@ history-remember-option-never =
     .label = no at a regordare mai sa cronologia
 history-remember-option-custom =
     .label = Imprea sa cunfiguratzione personalizada pro sa cronologia
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
@@ -1314,6 +1320,8 @@ sitedata-cookies-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = e
     .description = Podes ispetzificare cales sitos tenent permissu o nono pro impreare testimòngios e datos de is sitos.
+cookies-site-data-group =
+    .label = Testimòngios e datos de is sitos
 
 ## Privacy Section - Cookie Banner Handling
 
