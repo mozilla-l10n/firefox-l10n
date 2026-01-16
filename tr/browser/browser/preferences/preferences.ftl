@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Ayarlar…
     .accesskey = A
 containers-disable-alert-title = Tüm kapsayıcı sekmeler kapatılsın mı?
+startup-group =
+    .label = Başlangıç
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -583,6 +585,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Dosyaları açmayı veya kaydetmeyi sor
     .accesskey = o
+drm-group =
+    .label = Sayısal Hak Yönetimi (DRM) içerikleri
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
     .label = DRM denetimli içerikleri oynat
@@ -709,6 +713,8 @@ browsing-cfr-features =
     .label = Gezinirken yeni özellikler öner
     .accesskey = z
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
+browsing-group =
+    .label = Gezinti
 
 ## General Section - Proxy
 
@@ -718,11 +724,17 @@ network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
+network-proxy-group =
+    .label = Ağ ayarları
+    .description = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını yapılandırın.
 
 ## Home Section
 
 home-new-windows-tabs-header = Yeni pencere ve sekmeler
 home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yeni sekmeleri açtığınızda ne görmek istediğinizi seçin.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1477,6 +1489,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Ödeme yöntemleri
 
 ## Privacy Section - History
 
@@ -1992,6 +2006,8 @@ website-advertising-private-attribution-description = Bu sayede siteler sizin ha
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Güvenlik
+browsing-protection-group =
+    .label = Aldatıcı içerik ve tehlikeli yazılım koruması
 security-browsing-protection = Aldatıcı içerik ve tehlikeli yazılım koruması
 security-enable-safe-browsing =
     .label = Tehlikeli ve aldatıcı içerikleri engelle
@@ -2048,6 +2064,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } yine de bazı bağlantıları HTTPS’e yükseltebilir
 httpsonly-radio-disabled =
     .label = Yalnızca HTTPS modunu etkinleştirme
+httpsonly-group =
+    .label = Yalnızca HTTPS modu
+    .description = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
 
 ## DoH Section
 
