@@ -793,6 +793,8 @@ sitedata-clear =
 sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
+cookies-site-data-group =
+    .label = شەکرۆکە و زانیاری ماڵپەڕ
 
 ## Privacy Section - Cookie Banner Handling
 
