@@ -668,6 +668,8 @@ performance-limit-content-process-blocked-desc = Modifier le nombre de processus
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (par défaut)
+performance-group =
+    .label = Performances
 
 ## General Section - Browsing
 
@@ -716,6 +718,8 @@ browsing-cfr-features =
     .label = Recommander des fonctionnalités en cours de navigation
     .accesskey = f
 browsing-cfr-recommendations-learn-more = En savoir plus
+browsing-group =
+    .label = Navigation
 
 ## General Section - Proxy
 
@@ -1560,6 +1564,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Effacer l’historique…
     .accesskey = h
+history-group =
+    .label = Historique
 
 ## Privacy Section - Site Data
 
