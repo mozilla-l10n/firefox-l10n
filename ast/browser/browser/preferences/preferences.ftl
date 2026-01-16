@@ -321,6 +321,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Conteníu con DRM (Xestión de Derechos Dixitales)
 drm-content-header = Conteníu con DRM (Xestión de Derechos Dixitales)
 play-drm-content =
     .label = Reproducir el conteníu controláu con DRM
