@@ -527,6 +527,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -606,6 +609,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Novas xanelas e lapelas
 home-new-windows-tabs-description2 = Escolla que desexa ver cando se abren a súa páxina de inicio, novas xanelas e novas lapelas.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Páxina de inicio e novas xanelas
@@ -637,6 +643,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -856,6 +868,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1560,6 +1577,8 @@ website-advertising-private-attribution-description = Isto axuda aos sitios a co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
+browsing-protection-group =
+    .label = Protección contra contido enganoso e software perigoso
 security-browsing-protection = Protección contra contido enganoso e software perigoso
 security-enable-safe-browsing =
     .label = Bloquear contido perigoso e enganoso
