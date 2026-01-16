@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Érje el gyorsan a könyvjelzőket és a lapo
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Nyelv és megjelenés
+appearance-group =
+    .label = Weboldal megjelenése
+    .description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
 preferences-web-appearance-header = Weboldal megjelenése
 preferences-web-appearance-description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = A tartalom folyamatok számána
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (alapértelmezett)
+performance-group =
+    .label = Teljesítmény
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Funkciójavaslatok böngészés közben
     .accesskey = F
 browsing-cfr-recommendations-learn-more = További tudnivalók
+browsing-group =
+    .label = Böngészés
 
 ## General Section - Proxy
 
@@ -1553,6 +1560,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Előzmények törlése…
     .accesskey = l
+history-group =
+    .label = Előzmények
 
 ## Privacy Section - Site Data
 
