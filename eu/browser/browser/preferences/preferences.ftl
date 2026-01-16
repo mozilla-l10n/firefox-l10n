@@ -720,6 +720,9 @@ network-proxy-connection-learn-more = Argibide gehiago
 network-proxy-connection-settings =
     .label = Ezarpenak…
     .accesskey = E
+network-proxy-group =
+    .label = Sareko ezarpenak
+    .description = Konfiguratu { -brand-short-name } nola konektatzen den Internetera.
 
 ## Home Section
 
@@ -1608,6 +1611,8 @@ sitedata-cookies-exceptions2 =
     .label = Kudeatu salbuespenak
     .accesskey = s
     .description = Zehaztu dezakezu zein webgunek duten beti edo inoiz baimena cookieak eta guneetako datuak erabiltzeko.
+cookies-site-data-group =
+    .label = Cookieak eta guneetako datuak
 
 ## Privacy Section - Cookie Banner Handling
 
