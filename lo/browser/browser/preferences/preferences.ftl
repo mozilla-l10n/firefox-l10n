@@ -431,6 +431,8 @@ performance-limit-content-process-blocked-desc = ການແກ້ໄຂຈໍ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ຄ່າເລີ່ມຕົ້ນ)
+performance-group =
+    .label = ປະສິດທິພາບ
 
 ## General Section - Browsing
 
@@ -1265,6 +1267,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS ຜ່ານ HTTPS
+dns-over-https-group =
+    .label = DNS ຜ່ານ HTTPS
 preferences-doh-description = ລະບົບຊື່ໂດເມນ (DNS) ຜ່ານ HTTPS ສົ່ງຄໍາຮ້ອງຂໍຂອງທ່ານສໍາລັບຊື່ໂດເມນໂດຍຜ່ານການເຊື່ອມຕໍ່ທີ່ຖືກເຂົ້າລະຫັດ, ສ້າງ DNS ທີ່ປອດໄພ ແລະ ເຮັດໃຫ້ມັນຍາກສໍາລັບຜູ້ອື່ນທີ່ຈະເບິ່ງວ່າເວັບໄຊທ໌ໃດທີ່ເຈົ້າກໍາລັງຈະເຂົ້າຫາ.
 # Variables:
 #   $status (string) - The status of the DoH connection
