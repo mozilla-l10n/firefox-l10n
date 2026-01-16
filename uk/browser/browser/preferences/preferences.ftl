@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Вказувати вебсайтам не продавати мої дані та не ділитися ними
     .accesskey = к
+non-technical-privacy-group =
+    .label = Налаштування приватності вебсайтів
 non-technical-privacy-header = Налаштування приватності вебсайтів
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -299,6 +301,9 @@ browser-layout-show-sidebar-desc = Швидкий доступ до заклад
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Мова і зовнішній вигляд
+appearance-group =
+    .label = Зовнішній вигляд сайтів
+    .description = Деякі вебсайти адаптують свою колірну схему відповідно до ваших уподобань. Виберіть, яку колірну схему ви хочете використовувати для цих сайтів.
 preferences-web-appearance-header = Зовнішній вигляд сайтів
 preferences-web-appearance-description = Деякі вебсайти адаптують свою колірну схему відповідно до ваших уподобань. Виберіть, яку колірну схему ви хочете використовувати для цих сайтів.
 preferences-web-appearance-choice-auto2 =
@@ -601,6 +606,8 @@ performance-limit-content-process-blocked-desc = Зміна числа проц�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (типово)
+performance-group =
+    .label = Продуктивність
 
 ## General Section - Browsing
 
@@ -1415,6 +1422,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Стерти історію…
     .accesskey = С
+history-group =
+    .label = Історія
 
 ## Privacy Section - Site Data
 
