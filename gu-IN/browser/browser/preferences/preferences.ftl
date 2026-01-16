@@ -336,6 +336,9 @@ network-proxy-connection-learn-more = વધુ શીખો
 network-proxy-connection-settings =
     .label = સેટીંગ...
     .accesskey = e
+network-proxy-group =
+    .label = નેટવર્ક સેટિંગ્સ
+    .description = કેવી રીતે { -brand-short-name } ઇન્ટરનેટ સાથે જોડાય છે તે ગોઠવો.
 
 ## Home Section
 
@@ -691,6 +694,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ઇતિહાસ સાફ કરો…
     .accesskey = s
+history-group =
+    .label = ઇતિહાસ
 
 ## Privacy Section - Site Data
 
