@@ -262,6 +262,9 @@ browser-layout-show-sidebar-desc = Accede rapidamente aos marcadores, pestanas d
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aparencia
+appearance-group =
+    .label = Aspecto do sitio web
+    .description = Algúns sitios web adaptan o seu esquema de cores segundo as túas preferencias. Escolle o esquema de cores que queres usar neses sitios.
 preferences-web-appearance-header = Aspecto do sitio web
 preferences-web-appearance-description = Algúns sitios web adaptan o seu esquema de cores segundo as túas preferencias. Escolle o esquema de cores que queres usar neses sitios.
 preferences-web-appearance-choice-auto2 =
