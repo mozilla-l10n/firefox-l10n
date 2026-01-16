@@ -770,6 +770,12 @@ history-remember-option-never =
     .label = Tarix hech qachon eslab qolinmasin
 history-remember-option-custom =
     .label = Tarix uchun boshqa sozlamalardan foydalanish
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
@@ -806,6 +812,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Ma’lumotlarni boshqarish
     .accesskey = M
+cookies-site-data-group =
+    .label = Kuki va sayt ma’lumotlari
 
 ## Privacy Section - Cookie Banner Handling
 
