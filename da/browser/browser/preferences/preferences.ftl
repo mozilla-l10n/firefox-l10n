@@ -1617,6 +1617,8 @@ sitedata-cookies-exceptions2 =
     .label = Håndter undtagelser
     .accesskey = u
     .description = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data.
+cookies-site-data-group =
+    .label = Cookies og websteds-data
 
 ## Privacy Section - Cookie Banner Handling
 
