@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Instellingen…
     .accesskey = I
 containers-disable-alert-title = Alle containertabbladen sluiten?
+startup-group =
+    .label = Opstarten
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -718,11 +720,17 @@ network-proxy-connection-learn-more = Meer info
 network-proxy-connection-settings =
     .label = Instellingen…
     .accesskey = I
+network-proxy-group =
+    .label = Netwerkinstellingen
+    .description = Configureren hoe { -brand-short-name } verbinding maakt met het internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nieuwe vensters en tabbladen
 home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw startpagina, nieuwe vensters, en nieuwe tabbladen.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1609,6 +1617,8 @@ sitedata-cookies-exceptions2 =
     .label = Uitzonderingen beheren
     .accesskey = z
     .description = U kunt opgeven welke websites altijd of nooit cookies en websitegegevens mogen gebruiken.
+cookies-site-data-group =
+    .label = Cookies en websitegegevens
 
 ## Privacy Section - Cookie Banner Handling
 
