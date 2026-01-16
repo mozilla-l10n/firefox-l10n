@@ -624,6 +624,9 @@ home-new-windows-tabs-description2 = Fren ayen ara d-yettwaseknen ticki tel·∏çi·
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Sbadut d amezwar
+    .accesskey = G
 
 ## Custom Homepage subpage
 
