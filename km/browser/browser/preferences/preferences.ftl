@@ -661,6 +661,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = សម្អាតប្រវត្តិ...
     .accesskey = s
+history-group =
+    .label = ប្រវត្តិ
 
 ## Privacy Section - Site Data
 
