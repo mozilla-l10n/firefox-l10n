@@ -617,6 +617,9 @@ home-new-windows-tabs-description2 = Pilih yang akan dilihat pertama kali ketika
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Jadikan Baku
+    .accesskey = U
 
 ## Custom Homepage subpage
 
