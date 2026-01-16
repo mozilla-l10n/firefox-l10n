@@ -730,6 +730,9 @@ home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 �
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = 기본 브라우저로
+    .accesskey = D
 
 ## Custom Homepage subpage
 
