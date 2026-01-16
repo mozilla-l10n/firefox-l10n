@@ -343,6 +343,9 @@ home-new-windows-tabs-description2 = Yer ngo ma ineno ka iyabo potbuk me acakki 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Mi obed makwongo
+    .accesskey = m
 
 ## Custom Homepage subpage
 
