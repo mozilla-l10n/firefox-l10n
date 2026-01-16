@@ -472,6 +472,9 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -543,11 +546,17 @@ network-proxy-connection-learn-more = Uzzināt vairāk
 network-proxy-connection-settings =
     .label = Iestatījumi...
     .accesskey = e
+network-proxy-group =
+    .label = Tīkla iestatījumi
+    .description = Konfigurēt kā { -brand-short-name } pieslēdzas internetam.
 
 ## Home Section
 
 home-new-windows-tabs-header = Jaunus logus un cilnes
 home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu, logu vai cilni.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -580,6 +589,12 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -780,6 +795,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1137,6 +1157,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
+cookies-site-data-group =
+    .label = Sīkdatnes un vietnes dati
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1386,6 +1408,9 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
