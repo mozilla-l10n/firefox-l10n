@@ -857,6 +857,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مستثنیات کو منظم کریں…
     .accesskey = x
+cookies-site-data-group =
+    .label = کوکیز اور سائٹ کے کواِئف
 
 ## Privacy Section - Cookie Banner Handling
 
