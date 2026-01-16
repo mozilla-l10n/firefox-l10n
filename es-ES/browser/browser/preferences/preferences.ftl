@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Acceda rápidamente a marcadores, pestañas d
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma y apariencia
+appearance-group =
+    .label = Apariencia del sitio web
+    .description = Algunos sitios web adaptan su combinación de colores según las preferencias. Elija qué combinación de colores le gustaría usar para esos sitios.
 preferences-web-appearance-header = Apariencia del sitio web
 preferences-web-appearance-description = Algunos sitios web adaptan su combinación de colores según las preferencias. Elija qué combinación de colores le gustaría usar para esos sitios.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Modificar el número de proceso
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Recomendar funciones mientras navega
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Saber más
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -1483,6 +1490,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Direcciones y más
 payments-group =
     .label = Métodos de pago
 
