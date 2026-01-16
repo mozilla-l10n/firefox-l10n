@@ -559,6 +559,8 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = ಸಿದ್ಧತೆಗಳು…
     .accesskey = t
+history-group =
+    .label = ಇತಿಹಾಸ
 
 ## Privacy Section - Site Data
 
