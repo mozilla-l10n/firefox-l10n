@@ -92,6 +92,8 @@ browser-containers-settings =
     .label = सेटिङहरू…
     .accesskey = i
 containers-disable-alert-title = सबै कन्टेनर ट्याबहरू बन्द गर्न चाहनुहुन्छ?
+startup-group =
+    .label = सुरुवात
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -232,6 +234,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री
 drm-content-header = डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री
 play-drm-content =
     .label = DRM-नियन्त्रित सामग्री प्ले गर्नुहोस्
