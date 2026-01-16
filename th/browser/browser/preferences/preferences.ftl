@@ -611,6 +611,8 @@ performance-limit-content-process-blocked-desc = การปรับเปล�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ค่าเริ่มต้น)
+performance-group =
+    .label = ประสิทธิภาพ
 
 ## General Section - Browsing
 
@@ -668,11 +670,17 @@ network-proxy-connection-learn-more = เรียนรู้เพิ่มเ
 network-proxy-connection-settings =
     .label = การตั้งค่า…
     .accesskey = ต
+network-proxy-group =
+    .label = การตั้งค่าเครือข่าย
+    .description = กำหนดค่าวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
 
 ## Home Section
 
 home-new-windows-tabs-header = หน้าต่างและแท็บใหม่
 home-new-windows-tabs-description2 = เลือกสิ่งที่คุณเห็นเมื่อคุณเปิดหน้าแรก, หน้าต่างใหม่ และแท็บใหม่ของคุณ
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -998,6 +1006,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1478,6 +1491,8 @@ sitedata-cookies-exceptions2 =
     .label = จัดการข้อยกเว้น
     .accesskey = ข
     .description = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์ได้
+cookies-site-data-group =
+    .label = คุกกี้และข้อมูลไซต์
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1859,6 +1874,8 @@ website-advertising-private-attribution-description = ตัวเลือก�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ความปลอดภัย
+browsing-protection-group =
+    .label = การป้องกันเนื้อหาหลอกลวงและซอฟต์แวร์ที่เป็นอันตราย
 security-browsing-protection = การป้องกันเนื้อหาหลอกลวงและซอฟต์แวร์ที่เป็นอันตราย
 security-enable-safe-browsing =
     .label = ปิดกั้นเนื้อหาที่เป็นอันตรายและหลอกลวง
