@@ -262,6 +262,9 @@ browser-layout-show-sidebar-desc = Бърз достъп до отметки, р
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Език и изглед
+appearance-group =
+    .label = Изглед на страниците
+    .description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-header = Изглед на страниците
 preferences-web-appearance-description = Някои страници адаптират цветовете си въз основа на вашите предпочитания. Изберете цветовата схема, която да бъде използвана за такива страници.
 preferences-web-appearance-choice-auto2 =
@@ -1574,6 +1577,8 @@ website-advertising-private-attribution-description = Това помага на
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Защита
+browsing-protection-group =
+    .label = Измамно съдържание и защита от опасен софтуер
 security-browsing-protection = Измамно съдържание и защита от опасен софтуер
 security-enable-safe-browsing =
     .label = Блокиране на опасно и измамно съдържание
