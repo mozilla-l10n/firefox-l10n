@@ -705,6 +705,8 @@ sitedata-clear =
 sitedata-settings =
     .label = தரவை நிர்வகி
     .accesskey = M
+cookies-site-data-group =
+    .label = நினைவிகள் மற்றும் தள தரவு
 
 ## Privacy Section - Cookie Banner Handling
 
