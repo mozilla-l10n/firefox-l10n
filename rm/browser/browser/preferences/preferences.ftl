@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dir a websites da betg vender u cundivider mias datas
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferenzas per la protecziun da datas da websites
 non-technical-privacy-header = Preferenzas per la protecziun da datas da websites
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -518,6 +520,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Dumandar sche avrir u memorisar las datotecas
     .accesskey = a
+drm-group =
+    .label = Cuntegn DRM (Digital Rights Management)
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
     .label = Far ir cuntegn controllà da DRM
@@ -596,6 +600,8 @@ performance-limit-content-process-blocked-desc = Igl è mo pussaivel da midar il
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Prestaziun
 
 ## General Section - Browsing
 
@@ -655,6 +661,9 @@ network-proxy-connection-learn-more = Ulteriuras infurmaziuns
 network-proxy-connection-settings =
     .label = Parameters…
     .accesskey = P
+network-proxy-group =
+    .label = Parameters da la rait
+    .description = Configurar la moda da connexiun cun l'internet da { -brand-short-name }.
 
 ## Home Section
 
@@ -1324,6 +1333,10 @@ autofill-addresses-manage-addresses-button =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adressas e dapli
+payments-group =
+    .label = Metodas da pajament
 
 ## Privacy Section - History
 
@@ -1381,6 +1394,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Stizzar la cronologia…
     .accesskey = z
+history-group =
+    .label = Cronologia
 
 ## Privacy Section - Site Data
 
@@ -1794,6 +1809,8 @@ website-advertising-private-attribution-description = Quai gida a websites da va
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segirezza
+browsing-protection-group =
+    .label = Protecziun encunter cuntegn engianaivel e software privlusa
 security-browsing-protection = Protecziun encunter cuntegn engianaivel e software privlusa
 security-enable-safe-browsing =
     .label = Bloccar cuntegn privlus ed engianaivel
@@ -1857,6 +1874,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+dns-over-https-group =
+    .label = DNS via HTTPS
 preferences-doh-description = Domain Name System (DNS) via HTTPS trametta tia dumonda per ina domena via ina connexiun criptada cun crear in DNS segirà. Quai renda pli difficil ad auters da vesair tge websites che ti visitas.
 preferences-doh-description2 = Domain Name System (DNS) via HTTPS trametta tia dumonda per ina domena via ina connexiun criptada cun porscher in DNS segirà. Quai renda pli difficil ad auters da vesair tge websites che ti visitas.
 # Variables:
