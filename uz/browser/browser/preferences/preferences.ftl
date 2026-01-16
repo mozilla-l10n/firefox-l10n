@@ -333,6 +333,8 @@ performance-limit-content-process-blocked-desc = Kontent jarayoni miqdorini o‘
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standart)
+performance-group =
+    .label = Samaradorlik
 
 ## General Section - Browsing
 
@@ -357,6 +359,8 @@ browsing-cfr-recommendations =
     .label = Koʻrish vaqtida kengaytmalarni tavsiya qilish
     .accesskey = t
 browsing-cfr-recommendations-learn-more = Batafsil
+browsing-group =
+    .label = Koʻrish
 
 ## General Section - Proxy
 
