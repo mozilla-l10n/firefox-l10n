@@ -295,6 +295,8 @@ applications-use-os-default-label =
 
 ##
 
+drm-group =
+    .label = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
 drm-content-header = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
 play-drm-content =
     .label = Reproducir conteniu controlau per DRM
@@ -351,6 +353,8 @@ performance-limit-content-process-blocked-desc = Modificar lo numero de procesos
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (por defecto)
+performance-group =
+    .label = Rendimiento
 
 ## General Section - Browsing
 
@@ -381,6 +385,8 @@ browsing-cfr-features =
     .label = Recomendar caracteristicas mientres navegas
     .accesskey = c
 browsing-cfr-recommendations-learn-more = Saber-ne mas
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
