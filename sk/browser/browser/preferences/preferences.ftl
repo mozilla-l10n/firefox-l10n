@@ -1554,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vymazať históriu…
     .accesskey = s
+history-group =
+    .label = História
 
 ## Privacy Section - Site Data
 
