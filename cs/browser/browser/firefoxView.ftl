@@ -37,7 +37,7 @@ firefoxview-syncedtabs-signin-header-2 =
         [neuter] Vaše { -brand-product-name } na všech vašich zařízeních
        *[other] Vaše aplikace { -brand-product-name } na všech vašich zařízeních
     }
-firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely otevřené v telefonu a dalších zařízeních, přihlaste se nebo si zaregistrujte účet. S účtem můžete také synchronizovat svá hesla, historii a další údaje.
+firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely, které máte otevřené v telefonu a dalších zařízeních, přihlaste se nebo si vytvořte účet. S účtem můžete také synchronizovat svá hesla, historii a další data.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
