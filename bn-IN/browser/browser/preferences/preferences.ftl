@@ -334,6 +334,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাবগুলি
 home-new-windows-tabs-description2 = হোমপেজ, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = হোম পেজ এবং নতুন উইন্ডোজ
@@ -675,6 +678,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ইতিহাস মুছে ফেলুন…
     .accesskey = s
+history-group =
+    .label = পূর্ববর্তী তথ্য
 
 ## Privacy Section - Site Data
 
@@ -711,7 +716,7 @@ sitedata-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-header = ঠিকানা বার
 addressbar-suggest = ঠিকানা বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে
@@ -810,6 +815,8 @@ collection-health-report-disabled = এই বিল্ড কনফিগার
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = নিরাপত্তা
+browsing-protection-group =
+    .label = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-browsing-protection = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-enable-safe-browsing =
     .label = বিপজ্জনক এবং প্রতারণামূলক কন্টেন্ট ব্লক করুন
