@@ -1780,6 +1780,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 preferences-doh-description2 = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, fornecendo um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 # Variables:
