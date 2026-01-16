@@ -368,6 +368,9 @@ home-new-windows-tabs-description2 = Ganin ruhua ahuin' si gini'iaj 'ngà gana'n
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Nagi'iaj yitïn' ma
+    .accesskey = D
 
 ## Custom Homepage subpage
 
