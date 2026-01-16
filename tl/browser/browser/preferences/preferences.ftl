@@ -454,6 +454,9 @@ home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Gawing Default
+    .accesskey = D
 
 ## Custom Homepage subpage
 
