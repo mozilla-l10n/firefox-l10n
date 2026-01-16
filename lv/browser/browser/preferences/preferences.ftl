@@ -570,6 +570,9 @@ home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Padarīt par noklusējuma
+    .accesskey = n
 
 ## Custom Homepage subpage
 
