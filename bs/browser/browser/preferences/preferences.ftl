@@ -561,6 +561,8 @@ performance-limit-content-process-blocked-desc = Promjena broja procesa sadržaj
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (izvorno)
+performance-group =
+    .label = Performanse
 
 ## General Section - Browsing
 
@@ -606,6 +608,8 @@ browsing-cfr-features =
     .label = Preporučite funkcije dok pretražujete
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saznajte više
+browsing-group =
+    .label = Surfanje
 
 ## General Section - Proxy
 
@@ -615,6 +619,9 @@ network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
+network-proxy-group =
+    .label = Mrežne postavke
+    .description = Konfigurišite kako se { -brand-short-name } konektuje na internet.
 
 ## Home Section
 
@@ -1648,10 +1655,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } možda ipak nadogradi neke veze
 httpsonly-radio-disabled =
     .label = Ne omogućavajte samo HTTPS način rada
+httpsonly-group =
+    .label = Način rada samo za HTTPS
+    .description = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS-a
+dns-over-https-group =
+    .label = DNS preko HTTPS-a
 preferences-doh-description = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, stvarajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
 preferences-doh-description2 = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, pružajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
 # Variables:
