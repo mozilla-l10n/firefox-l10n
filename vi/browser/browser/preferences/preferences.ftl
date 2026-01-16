@@ -730,6 +730,9 @@ home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn m
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Đặt làm mặc định
+    .accesskey = D
 
 ## Custom Homepage subpage
 
