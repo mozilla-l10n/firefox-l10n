@@ -61,6 +61,8 @@ tabs-group-header = टैब
 show-tabs-in-taskbar =
     .label = विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ
     .accesskey = k
+startup-group =
+    .label = आरंभन
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
