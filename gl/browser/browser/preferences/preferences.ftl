@@ -594,6 +594,8 @@ browsing-cfr-features =
     .label = Recomendar funcións mentres navega
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Máis información
+browsing-group =
+    .label = Navegación
 
 ## General Section - Proxy
 
@@ -603,6 +605,9 @@ network-proxy-connection-learn-more = Máis información
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
+network-proxy-group =
+    .label = Configuración de rede
+    .description = Configurar o modo en que { -brand-short-name } se conecta á Internet.
 
 ## Home Section
 
