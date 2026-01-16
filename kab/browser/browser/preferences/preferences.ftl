@@ -1178,6 +1178,12 @@ history-remember-option-never =
     .label = Ur ḥerrez ara azray
 history-remember-option-custom =
     .label = Seqdec iɣewwaṛen udmawanen i umazray-a
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
@@ -1258,6 +1264,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Sefrek tisuraf…
     .accesskey = x
+cookies-site-data-group =
+    .label = Inagan n tuqna akked isefka n usmel
 
 ## Privacy Section - Cookie Banner Handling
 
