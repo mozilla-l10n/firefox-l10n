@@ -1496,6 +1496,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Helbideak eta gehiago
 payments-group =
     .label = Ordainketa-metodoak
 
@@ -1558,6 +1560,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Garbitu historia…
     .accesskey = s
+history-group =
+    .label = Historia
 
 ## Privacy Section - Site Data
 
