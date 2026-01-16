@@ -485,6 +485,8 @@ performance-limit-content-process-blocked-desc = Chan urrainn dhut àireamh nam 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (bun-roghainn)
+performance-group =
+    .label = Dèanadas
 
 ## General Section - Browsing
 
@@ -522,6 +524,8 @@ browsing-cfr-features =
     .label = Mol gleusan fhad ’s a nithear brabhsadh
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Barrachd fiosrachaidh
+browsing-group =
+    .label = A' brabhsadh
 
 ## General Section - Proxy
 
@@ -531,6 +535,9 @@ network-proxy-connection-learn-more = Barrachd fiosrachaidh
 network-proxy-connection-settings =
     .label = Roghainnean…
     .accesskey = e
+network-proxy-group =
+    .label = Roghainnean an lìonraidh
+    .description = Rèitich mar a cheanglas { -brand-short-name } ris an eadar-lìon.
 
 ## Home Section
 
@@ -1352,6 +1359,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS thar HTTPS
+dns-over-https-group =
+    .label = DNS thar HTTPS
 preferences-doh-description = Cuiridh Domain Name System (DNS) thar HTTPS d’ iarrtas airson ainm àrainn air ceangal crioptaichte, a’ cruthachadh DNS tèarainte agus bidh e nas dorra do dhaoine eile na làraichean-lìn a tha thu ag inntrigeadh fhaicinn.
 # Variables:
 #   $status (string) - The status of the DoH connection
