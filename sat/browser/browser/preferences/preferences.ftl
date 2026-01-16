@@ -546,6 +546,9 @@ home-new-windows-tabs-description2 = ᱟᱢ ᱟᱢᱟᱜ ᱚᱲᱟᱜ ᱥᱟᱦ�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ ᱵᱮᱵᱷᱟᱨ ᱢᱮ{ " " }
+    .accesskey = D
 
 ## Custom Homepage subpage
 
