@@ -341,6 +341,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Úsáid mar Réamhshocrú
+    .accesskey = d
 
 ## Custom Homepage subpage
 
