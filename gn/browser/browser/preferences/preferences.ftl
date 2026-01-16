@@ -717,6 +717,9 @@ network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
     .label = Ñemboheko…
     .accesskey = e
+network-proxy-group =
+    .label = Jeike ñemboheko
+    .description = Emboheko { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 
 ## Home Section
 
@@ -1599,6 +1602,8 @@ sitedata-cookies-exceptions2 =
     .label = Eñangareko oĩ’ỹva…
     .accesskey = x
     .description = Eremi mba’e ñanduti roguépa tapia térã araka’eve oiporu kookie ha tenda mba’ekuaarã.
+cookies-site-data-group =
+    .label = Kookie ha tenda mbakuaarã
 
 ## Privacy Section - Cookie Banner Handling
 
