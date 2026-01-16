@@ -1626,6 +1626,8 @@ sitedata-cookies-exceptions2 =
     .label = Кіраваць выключэннямі
     .accesskey = ч
     .description = Вы можаце ўказаць, якім сайтам заўсёды можна або ніколі нельга выкарыстоўваць кукі і дадзеныя сайтаў
+cookies-site-data-group =
+    .label = Кукі і дадзеныя сайтаў
 
 ## Privacy Section - Cookie Banner Handling
 
