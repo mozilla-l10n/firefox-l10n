@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Setări…
     .accesskey = t
 containers-disable-alert-title = Închizi toate filele container?
+startup-group =
+    .label = Pornire
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -726,6 +728,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Ferestre și file noi
 home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de start, ferestre noi și file noi.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
