@@ -249,6 +249,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 drm-content-header = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 play-drm-content =
     .label = DRM-নিয়ন্ত্রিত কন্টেন্ট প্লে করুন
