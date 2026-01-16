@@ -670,6 +670,8 @@ performance-limit-content-process-blocked-desc = Det er kun muligt at ændre ant
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Ydelse
 
 ## General Section - Browsing
 
@@ -1494,6 +1496,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser med mere
+payments-group =
+    .label = Betalingsmetoder
 
 ## Privacy Section - History
 
