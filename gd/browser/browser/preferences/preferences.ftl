@@ -1073,6 +1073,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Stiùirich na h-eisgeachdan…
     .accesskey = e
+cookies-site-data-group =
+    .label = Briosgaidean is dàta làraichean
 
 ## Privacy Section - Cookie Banner Handling
 
