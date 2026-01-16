@@ -509,6 +509,8 @@ performance-limit-content-process-option = අන්තර්ගත සැකස
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num }(පෙරනිමි)
+performance-group =
+    .label = කාර්ය සාධනය
 
 ## General Section - Browsing
 
@@ -1522,6 +1524,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } තවදුරටත් සමහර සම්බන්ධතා උත්ශ්‍රේණි කරනු ඇත.
 httpsonly-radio-disabled =
     .label = HTTPS-පමණි ප්‍රකාරය සබල නොකරන්න
+httpsonly-group =
+    .label = HTTPS-පමණි ප්‍රකාරය
+    .description = අඩවි වලට ආරක්‍ෂිත සම්බන්ධතා පමණක් ඉඩ දෙයි. අනාරක්‍ෂිතව සබැඳීමට පෙර { -brand-short-name } අසනු ඇත.
 
 ## DoH Section
 
