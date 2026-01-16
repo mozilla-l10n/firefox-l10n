@@ -251,6 +251,8 @@ browser-containers-settings =
     .label = Parametros…
     .accesskey = P
 containers-disable-alert-title = Clauder tote le schedas contentor?
+startup-group =
+    .label = Al initio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -713,6 +715,8 @@ browsing-cfr-features =
     .label = Recommendar functionalitates durante que tu naviga
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saper plus
+browsing-group =
+    .label = Navigation
 
 ## General Section - Proxy
 
