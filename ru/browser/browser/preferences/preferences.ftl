@@ -721,11 +721,17 @@ network-proxy-connection-learn-more = Подробнее
 network-proxy-connection-settings =
     .label = Настроить…
     .accesskey = Н
+network-proxy-group =
+    .label = Настройки сети
+    .description = Настроить, как { -brand-short-name } соединяется с Интернетом.
 
 ## Home Section
 
 home-new-windows-tabs-header = Новые окна и вкладки
 home-new-windows-tabs-description2 = Выберите, что вы хотите увидеть, когда откроете домашнюю страницу, новые окна и новые вкладки.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
