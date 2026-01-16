@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Decir a los sitios web que no vendan ni compartan mis datos
     .accesskey = s
+non-technical-privacy-group =
+    .label = Preferencias de privacidad del sitio web
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = a
+drm-group =
+    .label = Contenido sujeto a administración de derechos de autor (DRM)
 drm-content-header = Contenido sujeto a administración de derechos de autor (DRM)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -1996,6 +2000,8 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group =
+    .label = Protección contra contenido engañoso y software peligroso
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
