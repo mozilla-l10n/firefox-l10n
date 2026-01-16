@@ -373,6 +373,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Tik'utüx we yejaq o yeyak taq yakb'äl
     .accesskey = k
+drm-group =
+    .label = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
     .label = Titzij DRM-chajin rupam
@@ -444,6 +446,8 @@ performance-limit-content-process-blocked-desc = Ri rujalwachinik rajilab'al rut
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ruk'amon wi pe)
+performance-group =
+    .label = Rub'eyal nisamäj
 
 ## General Section - Browsing
 
@@ -492,6 +496,9 @@ network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
 network-proxy-connection-settings =
     .label = Taq nuk'ulem…
     .accesskey = n
+network-proxy-group =
+    .label = Runuk'ulem Okem
+    .description = Tib'an runuk'ulem rub'eyal { -brand-short-name } nok pa k'amaya'l.
 
 ## Home Section
 
@@ -982,6 +989,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tiyuj el ri Natab'äl…
     .accesskey = t
+history-group =
+    .label = Natab'äl
 
 ## Privacy Section - Site Data
 
@@ -1027,6 +1036,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
+cookies-site-data-group =
+    .label = Taq Kuki chuqa' Rutzij Ruxaq
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1249,6 +1260,8 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Jikomal
+browsing-protection-group =
+    .label = Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'
 security-browsing-protection = Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'
 security-enable-safe-browsing =
     .label = Keq'at k'ayew chuqa' q'olonel rupam
@@ -1295,6 +1308,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS chi rij HTTPS
+dns-over-https-group =
+    .label = DNS chi rij HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = B'anikil: { $status }
