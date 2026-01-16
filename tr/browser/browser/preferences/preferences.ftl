@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yen
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Varsayılan yap
+    .accesskey = a
 
 ## Custom Homepage subpage
 
