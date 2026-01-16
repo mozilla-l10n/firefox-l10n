@@ -338,7 +338,7 @@ menu-help-more-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
 menu-help-report-site-issue =
-    .label = Adrodd ar Fater Gwefan…
+    .label = Adrodd am Fater Gwefan…
 menu-help-share-ideas =
     .label = Rhannu Syniadau ac Adborth…
     .accesskey = R
@@ -354,10 +354,10 @@ menu-help-switch-device =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = Adroddwch ar wefan twyllodrus…
+    .label = Adrodd am wefan twyllodrus…
     .accesskey = t
 menu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
 menu-report-broken-site =
-    .label = Adrodd ar Wefan wedi Torri
+    .label = Adrodd am Wefan wedi Torri

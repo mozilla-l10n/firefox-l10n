@@ -249,7 +249,7 @@ appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = D
 appmenu-help-report-site-issue =
-    .label = Adrodd ar Fater Gwefan…
+    .label = Adrodd am Fater Gwefan…
 appmenu-help-share-ideas =
     .label = Rhannu syniadau ac adborth…
     .accesskey = R
@@ -270,7 +270,7 @@ appmenu-help-exit-troubleshoot-mode =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Adroddwch ar wefan twyllodrus…
+    .label = Adrodd am wefan twyllodrus…
     .accesskey = t
 appmenu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
@@ -284,7 +284,7 @@ appmenu-developer-tools-subheader = Offer y Porwr
 appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr
 appmenuitem-report-broken-site =
-    .label = Adrodd ar wefan wedi torri
+    .label = Adrodd am wefan wedi torri
 
 ## Panel for privacy and security products
 
@@ -309,7 +309,7 @@ appmenu-other-profiles = Proffiliau eraill
 appmenu-manage-profiles =
     .label = Rheoli proffiliau
 appmenu-copy-profile =
-    .label = Copïwch y proffil hwn
+    .label = Copïo'r proffil hwn
 appmenu-create-profile =
     .label = Proffil newydd
 appmenu-edit-profile =

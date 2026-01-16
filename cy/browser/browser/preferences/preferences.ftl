@@ -179,8 +179,8 @@ preferences-profiles-settings-button =
     .label = Gosodiadau
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .label = Copïwch y proffil hwn
-    .description = Bydd y proffil hwn yn copio eich gosodiadau, ychwanegion, hanes, a data wedi'i gadw fel nodau tudalen a chyfrineiriau — ond nid eich cyfrif na manylion cydweddu. Bydd y proffil hwn yn copïo eich gosodiadau, ychwanegion, hanes, a data wedi'i gadw fel nodau tudalen a chyfrineiriau — ond nid eich cyfrif na manylion  cydweddu.
+    .label = Copïo'r proffil presennol
+    .description = Bydd y proffil hwn yn copïo eich gosodiadau, ychwanegion, hanes, a data wedi'i gadw fel nodau tudalen a chyfrineiriau — ond nid eich cyfrif na manylion cydweddu.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.

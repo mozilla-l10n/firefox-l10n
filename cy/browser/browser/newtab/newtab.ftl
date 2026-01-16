@@ -606,7 +606,7 @@ newtab-shortcuts-highlight-subtitle = Ychwanegwch lwybr byr i gadw'ch hoff wefan
 ## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
-    .label = Pam ydych chi'n adrodd ar hyn?
+    .label = Pam ydych chi'n adrodd am hyn?
 newtab-report-ads-reason-not-interested =
     .label = Does gen i ddim diddordeb
 newtab-report-ads-reason-inappropriate =
@@ -627,7 +627,7 @@ newtab-report-content-requires-payment-subscription-learn-more = Darllen rhagor
 newtab-report-cancel = Diddymu
 newtab-report-submit = Cyflwyno
 newtab-toast-thanks-for-reporting =
-    .message = Diolch am adrodd ar hwn.
+    .message = Diolch am adrodd am hyn.
 
 ## Strings for task / to-do list productivity widget
 

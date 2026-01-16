@@ -224,9 +224,7 @@ contextual-manager-passwords-alert-list =
     .aria-label = Rhestr rhybuddion
 contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Argymhelliad i newid eich cyfrinair
-    .message =
-        Cafwyd adroddiadau fod cyfrineiriau o'r wefan hon wedi eu dwyn neu eu gollwng.
-        Newidiwch eich cyfrinair er mwyn diogelu eich cyfrif.
+    .message = Cafwyd adroddiadau fod cyfrineiriau o'r wefan hon wedi eu dwyn neu eu gollwng. Newidiwch eich cyfrinair er mwyn diogelu eich cyfrif.
 contextual-manager-passwords-breached-origin-link-message = Sut mae { -brand-product-name } yn gwybod am dor-data?
 contextual-manager-passwords-change-password-button = Newidiwch y cyfrinair
 contextual-manager-passwords-vulnerable-password-heading-and-message =
