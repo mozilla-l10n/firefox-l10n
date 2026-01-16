@@ -321,6 +321,8 @@ browsing-cfr-recommendations =
     .label = Gəzərkən uzantıları məsləhət gör
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
+browsing-group =
+    .label = Səyahət
 
 ## General Section - Proxy
 
@@ -856,6 +858,8 @@ collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məl
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Təhlükəsizlik
+browsing-protection-group =
+    .label = Aldadıcı Məzmun və Təhlükəli Proqram Qoruması
 security-browsing-protection = Aldadıcı Məzmun və Təhlükəli Proqram Qoruması
 security-enable-safe-browsing =
     .label = Təhlükəli və aldadıcı məzmunu blokla
