@@ -119,7 +119,7 @@ protections-panel-content-blocking-manage-settings =
     .label = Rheoli Gosodiadau Diogelu
     .accesskey = R
 protections-panel-content-blocking-breakage-report-view =
-    .title = Adrodd ar Wefan wedi Torri
+    .title = Adrodd am Wefan wedi Torri
 protections-panel-content-blocking-breakage-report-view-description = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla. <label data-l10n-name="learn-more">Darllen rhagor</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
@@ -164,8 +164,8 @@ protections-panel-cookie-banner-view-turn-off-label =
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Troi Ymlaen
 protections-panel-report-broken-site =
-    .label = Adrodd ar wefan wedi torri
-    .title = Adrodd ar wefan wedi torri
+    .label = Adrodd am wefan wedi torri
+    .title = Adrodd am wefan wedi torri
 
 ## Protections panel info message
 

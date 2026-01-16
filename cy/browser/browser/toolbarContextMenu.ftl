@@ -50,8 +50,8 @@ toolbar-context-menu-remove-extension =
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
-    .label = Adrodd ar yr Estyniad
-    .accesskey = A
+    .label = Adrodd am yr Estyniad
+    .accesskey = E
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.

@@ -462,6 +462,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Konum ara
     .aria-label = Konum ara
 newtab-weather-menu-weather-display = Hava durumu göstergesi
+newtab-weather-todays-forecast = Bugünkü hava durumu
+newtab-weather-see-full-forecast = Tüm hava durumunu göster
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

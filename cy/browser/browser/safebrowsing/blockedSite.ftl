@@ -21,8 +21,8 @@ safeb-palm-see-details-label = Gweld manylion
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-phishing-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd ar anhawster canfod</a> neu <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
-safeb-blocked-phishing-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd ar anhawster canfod</a>.
+safeb-blocked-phishing-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd am anhawster canfod</a> neu <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
+safeb-blocked-phishing-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd am anhawster canfod</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
