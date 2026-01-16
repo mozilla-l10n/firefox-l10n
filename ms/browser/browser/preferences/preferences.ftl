@@ -286,6 +286,8 @@ performance-limit-content-process-blocked-desc = Mengubah bilangan proses kandun
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (piawai)
+performance-group =
+    .label = Prestasi
 
 ## General Section - Browsing
 
@@ -309,6 +311,8 @@ browsing-cfr-recommendations =
     .label = Cadangkan ekstensi semasa melayar
     .accesskey = C
 browsing-cfr-recommendations-learn-more = Ketahui Selanjutnya
+browsing-group =
+    .label = Menyemak
 
 ## General Section - Proxy
 
