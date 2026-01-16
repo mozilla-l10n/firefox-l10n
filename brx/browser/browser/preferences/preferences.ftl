@@ -486,6 +486,9 @@ history-remember-option-never =
     .label = माब्लाबाबो जारिमनखौ गोसोयाव दालाखि
 history-remember-option-custom =
     .label = जारिमिननि थाखाय कास्टम सेटिंखौ बाहाय
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
@@ -515,6 +518,8 @@ sitedata-learn-more = गोबां सोलों
 sitedata-clear =
     .label = दाटाफोरखौ खोमोर...
     .accesskey = I
+cookies-site-data-group =
+    .label = कुकिफोर आरो साइट दाटा
 
 ## Privacy Section - Cookie Banner Handling
 
