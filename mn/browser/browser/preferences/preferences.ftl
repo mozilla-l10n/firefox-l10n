@@ -45,6 +45,8 @@ tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
     .accesskey = k
+startup-group =
+    .label = Эхлэл
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
