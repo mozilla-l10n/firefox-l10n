@@ -169,6 +169,8 @@ browser-containers-settings =
     .label = Roghainnean…
     .accesskey = i
 containers-disable-alert-title = A bheil thu airson gach taba soithich a dhùnadh?
+startup-group =
+    .label = Aig an toiseach
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
