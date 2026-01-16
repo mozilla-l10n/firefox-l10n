@@ -745,6 +745,9 @@ home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zo
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Nastaviť ako predvolený
+    .accesskey = d
 
 ## Custom Homepage subpage
 
