@@ -247,6 +247,8 @@ performance-limit-content-process-option = ಪರಿವಿಡಿ ಪ್ರಕ್
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ಪೂರ್ವನಿಯೋಜಿತ)
+performance-group =
+    .label = ಕಾರ್ಯಕ್ಷಮತೆ
 
 ## General Section - Browsing
 
@@ -264,6 +266,8 @@ browsing-use-cursor-navigation =
     .label = ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು
     .accesskey = c
 browsing-cfr-recommendations-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+browsing-group =
+    .label = ವೀಕ್ಷಣೆ
 
 ## General Section - Proxy
 
