@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Agordoj…
     .accesskey = A
 containers-disable-alert-title = Ĉu fermi ĉiujn ingajn langetojn?
+startup-group =
+    .label = Starto
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -718,11 +720,17 @@ network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
+network-proxy-group =
+    .label = Retaj agordoj
+    .description = Agordi la manieron, kiel { -brand-short-name } konektiĝas al la reto.
 
 ## Home Section
 
 home-new-windows-tabs-header = Novaj fenestroj kaj langetoj
 home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo de via eka paĝo, novaj fenestroj aŭ novaj langetoj.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -2048,6 +2056,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } povus tamen plisekurigi kelkajn konektojn
 httpsonly-radio-disabled =
     .label = Ne aktivigi HTTPS-nuran reĝimon
+httpsonly-group =
+    .label = HTTPS-nura reĝimo
+    .description = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 
 ## DoH Section
 
