@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Innstillinger …
     .accesskey = I
 containers-disable-alert-title = Lukk alle beholderfaner?
+startup-group =
+    .label = Startside
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nye vinduer og faner
 home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startsiden, nye vinduer og nye faner.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
