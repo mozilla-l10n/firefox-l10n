@@ -464,6 +464,9 @@ home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Fes que siga el navegador per defecte
+    .accesskey = d
 
 ## Custom Homepage subpage
 
