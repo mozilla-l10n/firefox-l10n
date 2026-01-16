@@ -385,6 +385,8 @@ browsing-cfr-features =
     .label = ব্রাউজ করার সাথে সাথে ফিচারের পরামর্শ  দিন
     .accesskey = f
 browsing-cfr-recommendations-learn-more = আরও জানুন
+browsing-group =
+    .label = ব্রাউজ করা
 
 ## General Section - Proxy
 
