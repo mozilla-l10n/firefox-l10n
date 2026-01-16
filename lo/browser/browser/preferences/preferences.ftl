@@ -460,6 +460,8 @@ browsing-cfr-recommendations =
     .label = ແນະນຳການຂະຫຍາຍໃນຂະນະທີ່ທ່ານທ່ອງເວັບ
     .accesskey = R
 browsing-cfr-recommendations-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+browsing-group =
+    .label = ການທ່ອງເວັບ
 
 ## General Section - Proxy
 
