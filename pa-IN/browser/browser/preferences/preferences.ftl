@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = …ਮੂਲ ਬਣਾਓ
+    .accesskey = D
 
 ## Custom Homepage subpage
 
