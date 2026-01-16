@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Demandar al sitos web de non vender ni compartir mi datos
     .accesskey = v
+non-technical-privacy-group =
+    .label = Preferentias de confidentialitate del sito
 non-technical-privacy-header = Preferentias de confidentialitate del sito
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -583,6 +585,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Demandar si aperir o salvar le files
     .accesskey = D
+drm-group =
+    .label = Contento protegite per DRM (Gestion de Derectos Digital)
 drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
 play-drm-content =
     .label = Presentar contento protegite per DRM
@@ -718,6 +722,9 @@ network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
+network-proxy-group =
+    .label = Parametros de rete
+    .description = Configura como { -brand-short-name } se connecte a internet.
 
 ## Home Section
 
@@ -1486,6 +1493,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Methodos de pagamento
 
 ## Privacy Section - History
 
@@ -2006,6 +2015,8 @@ website-advertising-private-attribution-description = Isto adjuta l sitos a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+browsing-protection-group =
+    .label = Protection contra contento fraudulente e software periculose
 security-browsing-protection = Protection contra contento fraudulente e software periculose
 security-enable-safe-browsing =
     .label = Blocar le contento periculose e fraudulente
@@ -2062,10 +2073,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } pote ancora promover alcun connexiones
 httpsonly-radio-disabled =
     .label = Non activar le Modo solo HTTPS
+httpsonly-group =
+    .label = Modo solo HTTPS
+    .description = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
 
 ## DoH Section
 
 preferences-doh-header = DNS super HTTPS
+dns-over-https-group =
+    .label = DNS super HTTPS
 preferences-doh-description = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, creante un DNS secur e obstruente a alteres de vider que sito web tu va acceder.
 preferences-doh-description2 = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, forniente un DNS secur e obstruente al alteres de vider que sito web tu va acceder.
 # Variables:
