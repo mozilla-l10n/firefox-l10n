@@ -1140,6 +1140,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ඉතිහාසය මකන්න...
     .accesskey = S
+history-group =
+    .label = ඉතිහාසය
 
 ## Privacy Section - Site Data
 
