@@ -287,6 +287,8 @@ performance-limit-content-process-enabled-desc = ထပ်ပေါင်း အ
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (မူလ သတ်မှတ်ချက်)
+performance-group =
+    .label = စွမ်းဆောင်ရည်
 
 ## General Section - Browsing
 
@@ -310,6 +312,8 @@ browsing-cfr-recommendations =
     .label = သင် လိုက်ကြည့် သောအပိုနောက်တိုး မျိုးကို အကြံပြုမည် (R)
     .accesskey = R
 browsing-cfr-recommendations-learn-more = ပိုမိုလေ့လာရန်
+browsing-group =
+    .label = ကြည့်ရှုခြင်း
 
 ## General Section - Proxy
 
