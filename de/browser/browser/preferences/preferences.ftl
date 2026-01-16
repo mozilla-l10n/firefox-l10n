@@ -1554,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Chronik löschen…
     .accesskey = C
+history-group =
+    .label = Chronik
 
 ## Privacy Section - Site Data
 
