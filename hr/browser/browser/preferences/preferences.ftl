@@ -721,6 +721,9 @@ network-proxy-connection-learn-more = Saznaj više
 network-proxy-connection-settings =
     .label = Postavke …
     .accesskey = e
+network-proxy-group =
+    .label = Postavke mreže
+    .description = Postavi kako se { -brand-short-name } spaja na internet.
 
 ## Home Section
 
@@ -1596,6 +1599,8 @@ sitedata-cookies-exceptions2 =
     .label = Upravljaj iznimkama
     .accesskey = v
     .description = Možeš odrediti koje web-stranice uvijek smiju ili nikada ne smiju koristiti kolačiće i podatke web-stranice.
+cookies-site-data-group =
+    .label = Kolačići i podaci web-stranice
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1983,6 +1988,8 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+browsing-protection-group =
+    .label = Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija
 security-browsing-protection = Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
