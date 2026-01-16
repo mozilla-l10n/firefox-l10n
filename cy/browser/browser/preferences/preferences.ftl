@@ -754,6 +754,9 @@ home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Gwneud yn Ragosodedig
+    .accesskey = R
 
 ## Custom Homepage subpage
 
