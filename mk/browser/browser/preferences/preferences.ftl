@@ -250,6 +250,8 @@ performance-allow-hw-accel =
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (основно)
+performance-group =
+    .label = Перформанси
 
 ## General Section - Browsing
 
