@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Параметры…
     .accesskey = м
 containers-disable-alert-title = Закрыть все вкладки в контейнере?
+startup-group =
+    .label = Запуск
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
