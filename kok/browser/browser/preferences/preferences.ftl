@@ -180,6 +180,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = पानामदी नेविगेट करपाक कर्सर कळ वापरात
     .accesskey = c
+browsing-group =
+    .label = ब्रावजिंग
 
 ## General Section - Proxy
 
@@ -336,6 +338,9 @@ history-remember-option-never =
     .label = इतिहास केन्नाच उगडास धरचो न्हय
 history-remember-option-custom =
     .label = इतिहासा खातीर कस्टम मांडावळी वापरच्यो
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
