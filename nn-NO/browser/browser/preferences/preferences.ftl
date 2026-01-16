@@ -2016,6 +2016,8 @@ website-advertising-private-attribution-description = Dette hjelper nettstadar m
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerheit
+browsing-protection-group =
+    .label = Vern mot villeiande innhald og skadeleg programvare
 security-browsing-protection = Vern mot villeiande innhald og skadeleg programvare
 security-enable-safe-browsing =
     .label = Blokker farleg og villeiande innhald
