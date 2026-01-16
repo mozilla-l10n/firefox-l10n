@@ -55,6 +55,8 @@ show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইণ্ড'সমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
     .accesskey = k
 browser-containers-learn-more = অধিক জানক
+startup-group =
+    .label = আৰম্ভণি
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
