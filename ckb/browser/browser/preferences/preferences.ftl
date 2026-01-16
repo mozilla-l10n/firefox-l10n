@@ -373,6 +373,9 @@ home-new-windows-tabs-description2 = دەتەوێت چی ببینی کاتێک �
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = بیکە بنەڕەتی
+    .accesskey = D
 
 ## Custom Homepage subpage
 
