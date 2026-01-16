@@ -172,6 +172,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Makuhlalwe kusetshenziswa izinkinobho zesikhombisi ekuzuleni kumakhasi
     .accesskey = z
+browsing-group =
+    .label = Ukudlulisa amehlo
 
 ## General Section - Proxy
 
