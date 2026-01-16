@@ -429,6 +429,9 @@ network-proxy-connection-learn-more = Lleer más
 network-proxy-connection-settings =
     .label = Axustes…
     .accesskey = A
+network-proxy-group =
+    .label = Axustes de rede
+    .description = Configura cómo se conecta { -brand-short-name } a internet.
 
 ## Home Section
 
