@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Баптаулар…
     .accesskey = п
 containers-disable-alert-title = Барлық контейнерлік беттерді жабу керек пе?
+startup-group =
+    .label = Іске қосылу
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Жаңа терезелер мен беттер
 home-new-windows-tabs-description2 = Үй парағын, жаңа терезелер және беттерді ашқан кезде көретін нәрселерді таңдаңыз.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
