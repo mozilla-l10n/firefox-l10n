@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sincronización
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controles de IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador predeterminado
+is-default-browser-2 =
+    .message = { -brand-short-name }  es tu navegador predeterminado. Buena elección.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } no es tu opción predeterminada.
 set-as-my-default-browser-2 =
     .label = Predeterminar
     .accesskey = D
@@ -1460,6 +1469,10 @@ payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-prompt-title = ¿Eliminar este método de pago?
 payments-delete-payment-prompt-confirm-button = Borrar
 payments-delete-payment-prompt-cancel-button = Cancelar
+payments-delete-payment-button-label =
+    .aria-label = Eliminar
+payments-edit-payment-button-label =
+    .aria-label = Editar
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = No se han añadido métodos de pago
@@ -2101,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modo solo HTTPS
     .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2168,3 +2183,50 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Selecciona la carpeta de descarga:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Siempre puedes elegir en { -brand-short-name }, incluyendo si deseas usar funciones mejoradas con IA. Próximamente habrá más controles.
+preferences-ai-controls-block-ai-label = Mejoras en el bloqueo de IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = El bloqueo significa que no verás mejoras de IA nuevas o actuales en { -brand-short-name }, ni ventanas emergentes relacionadas a ellas. <a data-l10n-name="link">Obtén más detalles</a> sobre lo que está incluido y cómo controlar las funciones tradicionales de aprendizaje automático, como sugerencias de búsqueda y recomendaciones.
+preferences-ai-controls-blocked-message =
+    .message = Las mejoras de IA, tanto nuevas como actuales, están bloqueadas por defecto. Para desbloquear una función específica, usa los controles a continuación.
+preferences-ai-controls-on-device-group =
+    .label = IA en el dispositivo
+    .description = Estas usan pequeños modelos de IA que se descargan en tu dispositivos si usas la funcionalidad. Esta modalidad ayuda a proteger tu privacidad.
+preferences-ai-controls-translations-control =
+    .label = Traducciones
+    .description = Navega sin problemas por la web en tu idioma preferido.
+preferences-ai-controls-translations-more-link = Más ajustes de traducción
+preferences-ai-controls-pdfjs-control =
+    .label = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
+    .description = Cuando añades imágenes a PDFs, esto añade descripciones para hacerlas accesibles.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugerencias de grupos de pestañas
+    .description = Obtén sugerencias para nombrar y organizar tus pestañas.
+preferences-ai-controls-key-points-control =
+    .label = Puntos clave en las vistas previas de enlaces
+    .description = Revisa un resumen rápido antes de abrir un enlace.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot en la barra lateral
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponible
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Habilitada
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloqueada
+preferences-ai-controls-state-description-before = Qué significan las opciones:
+preferences-ai-controls-state-description-available = <strong>Disponible:</strong> Verás la funcionalidad y podrás usarla.
+preferences-ai-controls-state-description-enabled = <strong>Habilitada:</strong> Has optado por utilizar la funcionalidad.
+preferences-ai-controls-state-description-blocked = Bloqueada: No verás ni podrás usar la funcionalidad. Para la IA en el dispositivo, se eliminarán los modelos ya descargados.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancelar
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloquear
