@@ -297,6 +297,9 @@ browser-layout-show-sidebar-desc = Získajte rýchly prístup k záložkám, kar
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jazyk a vzhľad stránok
+appearance-group =
+    .label = Vzhľad webových stránok
+    .description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
 preferences-web-appearance-header = Vzhľad webových stránok
 preferences-web-appearance-description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
 preferences-web-appearance-choice-auto2 =
@@ -712,6 +715,8 @@ browsing-cfr-features =
     .label = Odporúčať funkcie počas prehliadania
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Ďalšie informácie
+browsing-group =
+    .label = Prehliadanie
 
 ## General Section - Proxy
 
@@ -726,6 +731,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nové okná a karty
 home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zobrazovanú pri otvorení nových okien a kariet.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -2052,6 +2060,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } môže stále zmeniť niektoré pripojenia
 httpsonly-radio-disabled =
     .label = Nezapínať režim "Len HTTPS"
+httpsonly-group =
+    .label = Režim "Len HTTPS"
+    .description = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 
 ## DoH Section
 
