@@ -302,6 +302,8 @@ performance-limit-content-process-blocked-desc = મલ્ટિપ્રોસ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (મૂળભૂત)
+performance-group =
+    .label = કામગીરી
 
 ## General Section - Browsing
 
