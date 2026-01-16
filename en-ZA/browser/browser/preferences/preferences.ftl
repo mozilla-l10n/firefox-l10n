@@ -64,6 +64,8 @@ browser-containers-enabled =
     .label = Enable Container Tabs
     .accesskey = n
 browser-containers-learn-more = Learn more
+startup-group =
+    .label = Startup
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
