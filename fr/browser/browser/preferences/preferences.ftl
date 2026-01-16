@@ -1496,6 +1496,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresses et autres informations
+payments-group =
+    .label = Moyens de paiement
 
 ## Privacy Section - History
 
@@ -2016,6 +2020,8 @@ website-advertising-private-attribution-description = Cette préférence aide le
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sécurité
+browsing-protection-group =
+    .label = Protection contre les contenus trompeurs et les logiciels dangereux
 security-browsing-protection = Protection contre les contenus trompeurs et les logiciels dangereux
 security-enable-safe-browsing =
     .label = Bloquer les contenus dangereux ou trompeurs
