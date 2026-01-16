@@ -9,7 +9,7 @@ close-button-label =
     .title = Güncelleme Geçmişi
 no-updates-label = Henüz hiçbir güncelleme yüklenmemiş
 name-header = Güncellemenin Adı
-date-header = Kurulum Tarihi
+date-header = Yüklenme tarihi
 type-header = Türü
 state-header = Durumu
 # Used to display update history
@@ -21,7 +21,7 @@ update-full-build-name = { $name } ({ $buildID })
 update-details = Ayrıntılar
 # Variables:
 #   $date (string) - Date the last update was installed
-update-installed-on = Kurulum tarihi: { $date }
+update-installed-on = Yüklenme tarihi: { $date }
 # Variables:
 #   $status (string) - Status of the last update
 update-status = Durum: { $status }

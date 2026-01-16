@@ -17,7 +17,7 @@ list-empty-get-language-packs-message = Dil paketlerini <a data-l10n-name="get-e
 ##
 
 list-empty-installed =
-    .value = Bu türden kurulmuş bir eklentiniz yok
+    .value = Yüklenmiş bu tür bir eklentiniz yok
 list-empty-available-updates =
     .value = Güncelleme bulunamadı
 list-empty-recent-updates =
@@ -208,13 +208,13 @@ addon-updates-manual-updates-found = Yüklenebilir güncellemelere bak
 
 ## Add-on install/debug strings for page options menu
 
-addon-install-from-file = Dosyadan eklenti kur...
-    .accesskey = k
+addon-install-from-file = Dosyadan eklenti yükle…
+    .accesskey = D
 # Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
 # pref is set.
-addon-install-or-update-from-file = Dosyadan eklenti kur veya güncelle...
+addon-install-or-update-from-file = Dosyadan eklenti yükle veya güncelle…
     .accesskey = o
-addon-install-from-file-dialog-title = Kurulacak eklentiyi seçin
+addon-install-from-file-dialog-title = Yüklenecek eklentiyi seçin
 addon-install-from-file-filter-name = Eklentiler
 addon-open-about-debugging = Eklentilerde hata ayıkla
     .accesskey = h

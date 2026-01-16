@@ -15,7 +15,7 @@ options-select-default-tools-label = Varsayılan geliştirici araçları
 options-tool-not-supported-label = * Geçerli araç kutusu hedefinde desteklenmiyor
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = Eklentiler tarafından kurulan geliştirici araçları
+options-select-additional-tools-label = Eklentiler tarafından yüklenen geliştirici araçları
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Kullanılabilir araç kutusu düğmeleri
