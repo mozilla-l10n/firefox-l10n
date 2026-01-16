@@ -185,6 +185,8 @@ forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 ## Privacy Section - History
 
 history-header = Umlandvo
+history-group =
+    .label = Umlandvo
 
 ## Privacy Section - Site Data
 
