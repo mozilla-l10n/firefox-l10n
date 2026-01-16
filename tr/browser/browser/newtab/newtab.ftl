@@ -335,6 +335,8 @@ newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
 newtab-widget-manage-title = Araçlar
+newtab-widget-manage-widget-button =
+    .label = Araçları yönet
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Kapat

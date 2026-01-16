@@ -136,6 +136,10 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = Bu sitenin sağladığı se
 # Variables:
 #   $date (Date) - Device's clock date.
 fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Cihazınızın saati { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = { $hostname } sitesinin sahibi siteyi düzgün kurmadığı için güvenli bir bağlantı oluşturulamıyor.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
