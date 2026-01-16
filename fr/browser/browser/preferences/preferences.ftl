@@ -294,6 +294,9 @@ browser-layout-show-sidebar-desc = Accédez rapidement aux marque-pages, aux ong
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Langue et apparence
+appearance-group =
+    .label = Apparence des sites web
+    .description = Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites.
 preferences-web-appearance-header = Apparence des sites web
 preferences-web-appearance-description = Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites.
 preferences-web-appearance-choice-auto2 =
@@ -721,6 +724,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
 home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous ouvrez votre page d’accueil, de nouvelles fenêtres ou de nouveaux onglets.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1607,6 +1613,8 @@ sitedata-cookies-exceptions2 =
     .label = Gérer les exceptions
     .accesskey = G
     .description = Vous pouvez spécifier quels sites web sont toujours ou jamais autorisés à utiliser des cookies et des données de site.
+cookies-site-data-group =
+    .label = Cookies et données de sites
 
 ## Privacy Section - Cookie Banner Handling
 
