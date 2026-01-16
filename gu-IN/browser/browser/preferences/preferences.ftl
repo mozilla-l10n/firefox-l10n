@@ -724,6 +724,8 @@ sitedata-clear =
 sitedata-settings =
     .label = ડેટા સંચાલન કરો…
     .accesskey = M
+cookies-site-data-group =
+    .label = કૂકીઝ અને સાઈટ ડેટા
 
 ## Privacy Section - Cookie Banner Handling
 
