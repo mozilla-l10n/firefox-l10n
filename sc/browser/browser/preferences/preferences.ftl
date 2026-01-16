@@ -553,6 +553,8 @@ performance-limit-content-process-blocked-desc = Su nùmeru de protzessos de cun
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predefinidu)
+performance-group =
+    .label = Rendimentu
 
 ## General Section - Browsing
 
@@ -598,6 +600,8 @@ browsing-cfr-features =
     .label = Cussìgia funtzionalidades durante sa navigatzione
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Àteras informatziones
+browsing-group =
+    .label = Navigatzione
 
 ## General Section - Proxy
 
@@ -607,6 +611,9 @@ network-proxy-connection-learn-more = Àteras informatziones
 network-proxy-connection-settings =
     .label = Cunfiguratzione…
     .accesskey = c
+network-proxy-group =
+    .label = Cunfiguratzione de rete
+    .description = Cunfigura comente { -brand-short-name } si connetet a internet.
 
 ## Home Section
 
@@ -1681,10 +1688,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } diat pòdere ancora atualizare unas cantas connessiones
 httpsonly-radio-disabled =
     .label = No atives sa modalidade HTTPS ebbia
+httpsonly-group =
+    .label = Modalidade HTTPS ebbia
+    .description = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 
 ## DoH Section
 
 preferences-doh-header = DNS  pro mèdiu de  HTTPS
+dns-over-https-group =
+    .label = DNS  pro mèdiu de  HTTPS
 preferences-doh-description = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, creende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 preferences-doh-description2 = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, frunende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 # Variables:
