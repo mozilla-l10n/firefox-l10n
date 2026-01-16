@@ -233,6 +233,8 @@ performance-allow-hw-accel =
     .accesskey = j
 performance-limit-content-process-option = Gundekuna goyandiyan adadu
     .accesskey = d
+performance-group =
+    .label = Teeyan sahã
 
 ## General Section - Browsing
 
@@ -252,6 +254,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Hantum ceeci waati kaŋ ay šintin ka hantum
     .accesskey = H
+browsing-group =
+    .label = Ceeciyan
 
 ## General Section - Proxy
 
