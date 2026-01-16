@@ -575,6 +575,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ファイルを開くか保存するかを確認する
     .accesskey = A
+drm-group =
+    .label = デジタル著作権管理 (DRM) コンテンツ
 drm-content-header = デジタル著作権管理 (DRM) コンテンツ
 play-drm-content =
     .label = DRM 制御のコンテンツを再生する
@@ -712,6 +714,9 @@ network-proxy-connection-learn-more = 詳細情報
 network-proxy-connection-settings =
     .label = 接続設定...
     .accesskey = e
+network-proxy-group =
+    .label = ネットワーク設定
+    .description = { -brand-short-name } のインターネットへの接続方法を設定します。
 
 ## Home Section
 
@@ -1593,6 +1598,8 @@ sitedata-cookies-exceptions2 =
     .label = 例外を管理
     .accesskey = x
     .description = Cookie とサイトデータの使用を常に許可するウェブサイトと今後許可しないウェブサイトを指定できます。
+cookies-site-data-group =
+    .label = Cookie とサイトデータ
 
 ## Privacy Section - Cookie Banner Handling
 
