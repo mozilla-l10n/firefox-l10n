@@ -699,6 +699,8 @@ browsing-cfr-features =
     .label = 탐색할 때 기능 추천
     .accesskey = f
 browsing-cfr-recommendations-learn-more = 더 알아보기
+browsing-group =
+    .label = 탐색
 
 ## General Section - Proxy
 
@@ -708,6 +710,9 @@ network-proxy-connection-learn-more = 더 알아보기
 network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
+network-proxy-group =
+    .label = 네트워크 설정
+    .description = { -brand-short-name }가 인터넷에 접근하는 방법을 설정하세요.
 
 ## Home Section
 
