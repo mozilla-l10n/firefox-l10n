@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Tell web sites not to sell or share my data
     .accesskey = s
+non-technical-privacy-group =
+    .label = Web Site Privacy Preferences
 non-technical-privacy-header = Web Site Privacy Preferences
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Ask whether to open or save files
     .accesskey = A
+drm-group =
+    .label = Digital Rights Management (DRM) Content
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
     .label = Play DRM-controlled content
@@ -722,6 +726,9 @@ network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
+network-proxy-group =
+    .label = Network Settings
+    .description = Configure how { -brand-short-name } connects to the internet.
 
 ## Home Section
 
@@ -1490,6 +1497,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Addresses and more
+payments-group =
+    .label = Payment methods
 
 ## Privacy Section - History
 
@@ -1616,6 +1627,8 @@ sitedata-cookies-exceptions2 =
     .label = Manage exceptions
     .accesskey = x
     .description = You can specify which web sites are always or never allowed to use cookies and site data.
+cookies-site-data-group =
+    .label = Cookies and Site Data
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2008,6 +2021,8 @@ website-advertising-private-attribution-description = This helps sites understan
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Security
+browsing-protection-group =
+    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
@@ -2064,10 +2079,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } may still upgrade some connections
 httpsonly-radio-disabled =
     .label = Don’t enable HTTPS-Only Mode
+httpsonly-group =
+    .label = HTTPS-Only Mode
+    .description = Only allows secure connections to web sites. { -brand-short-name } will ask before connecting insecurely.
 
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group =
+    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS sends your request for a domain name through an encrypted connection, creating a secure DNS and making it harder for others to see which web site you’re about to access.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS sends your request for a domain name through an encrypted connection, providing a secure DNS and making it harder for others to see which web site you’re about to access.
 # Variables:
