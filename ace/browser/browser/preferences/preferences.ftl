@@ -301,6 +301,9 @@ network-proxy-connection-learn-more = Meurunoë Lom
 network-proxy-connection-settings =
     .label = Atô...
     .accesskey = e
+network-proxy-group =
+    .label = Peuatô Jaringan
+    .description = Meuatô kiban { -brand-short-name } meuhubông u internet
 
 ## Home Section
 
