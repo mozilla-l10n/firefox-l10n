@@ -645,6 +645,7 @@ pdfjs-editor-add-comment-button =
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
 pdfjs-views-manager-pages-title = Старонкі
+pdfjs-views-manager-pages-option-label = Старонкі
 pdfjs-views-manager-add-file-button =
     .title = Дадаць файл
 pdfjs-views-manager-add-file-button-label = Дадаць файл
