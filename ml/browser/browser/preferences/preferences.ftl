@@ -434,6 +434,8 @@ performance-limit-content-process-blocked-desc = കണ്ടന്റ് പ്
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (തനതു്)
+performance-group =
+    .label = പ്രകടനം
 
 ## General Section - Browsing
 
@@ -458,6 +460,8 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-learn-more = കൂടുതല്‍ അറിയുക
 browsing-media-control-learn-more = കൂടുതല്‍ അറിയുക
 browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയുക
+browsing-group =
+    .label = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
 
 ## General Section - Proxy
 
@@ -951,6 +955,8 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ഈ വിലാസം മായ്ക്കട്ടെ?
 addresses-delete-address-prompt-confirm-button = മായ്ക്കുക
 addresses-delete-address-prompt-cancel-button = റദ്ദാക്കുക
+payments-group =
+    .label = പണമടക്കൽ മുറകൾ
 
 ## Privacy Section - History
 
@@ -1004,6 +1010,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = നാള്‍വഴി മായ്ക്കൂ...
     .accesskey = s
+history-group =
+    .label = നാള്‍വഴി
 
 ## Privacy Section - Site Data
 
