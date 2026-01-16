@@ -663,6 +663,8 @@ performance-limit-content-process-blocked-desc = Modifying the number of content
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (default)
+performance-group =
+    .label = Performance
 
 ## General Section - Browsing
 
@@ -722,6 +724,9 @@ network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
+network-proxy-group =
+    .label = Network Settings
+    .description = Configure how { -brand-short-name } connects to the internet.
 
 ## Home Section
 
@@ -1484,6 +1489,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Addresses and more
+payments-group =
+    .label = Payment methods
 
 ## Privacy Section - History
 
@@ -2057,6 +2066,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } may still upgrade some connections
 httpsonly-radio-disabled =
     .label = Don’t enable HTTPS-Only Mode
+httpsonly-group =
+    .label = HTTPS-Only Mode
+    .description = Only allows secure connections to websites. { -brand-short-name } will ask before connecting insecurely.
 
 ## DoH Section
 
