@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Beállítás alapértelmezettként
+    .accesskey = a
 
 ## Custom Homepage subpage
 
