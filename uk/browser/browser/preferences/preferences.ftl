@@ -658,6 +658,9 @@ network-proxy-connection-learn-more = Докладніше
 network-proxy-connection-settings =
     .label = Налаштувати…
     .accesskey = а
+network-proxy-group =
+    .label = Налаштування мережі
+    .description = Налаштувати спосіб з'єднання { -brand-short-name } з Інтернетом.
 
 ## Home Section
 
