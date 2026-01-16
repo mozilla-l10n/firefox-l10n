@@ -1550,6 +1550,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Xóa lịch sử...
     .accesskey = s
+history-group =
+    .label = Lịch sử
 
 ## Privacy Section - Site Data
 
