@@ -738,6 +738,9 @@ home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = 设为默认
+    .accesskey = D
 
 ## Custom Homepage subpage
 
