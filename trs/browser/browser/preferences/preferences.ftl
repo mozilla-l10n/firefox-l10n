@@ -753,6 +753,12 @@ history-remember-option-never =
     .label = Si gani'ij ma riña gaché nut
 history-remember-option-custom =
     .label = Nagi'io' daj anin ruhuot riña gaché nut
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } gataj na'anj ma dane' gaché nut, nuin si naduninj nī nej sa nana'uit.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } garusunj ru'ua riña gaché nu hui' se si na'ninj sa'aj riña gaché nut.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gataj na'anj ma dane' gaché nut, nuin si naduninj nī nej sa nana'uit.
@@ -817,6 +823,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
+cookies-site-data-group =
+    .label = Kookies nī si dato sitio
 
 ## Privacy Section - Cookie Banner Handling
 
