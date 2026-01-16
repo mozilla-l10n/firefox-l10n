@@ -183,6 +183,8 @@ browser-containers-settings =
     .label = Iestatījumi...
     .accesskey = i
 containers-disable-alert-title = Vai aizvērt visas konteineru cilnes?
+startup-group =
+    .label = Palaišana
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
