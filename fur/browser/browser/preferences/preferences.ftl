@@ -731,6 +731,9 @@ network-proxy-connection-learn-more = Plui informazions
 network-proxy-connection-settings =
     .label = Impostazions…
     .accesskey = I
+network-proxy-group =
+    .label = Impostazions di rêt
+    .description = Configure cemût che { -brand-short-name } si conet a internet.
 
 ## Home Section
 
@@ -1487,6 +1490,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Recapits e altris dâts
 payments-group =
     .label = Metodis di paiament
 
@@ -1549,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Nete la cronologjie…
     .accesskey = s
+history-group =
+    .label = Cronologjie
 
 ## Privacy Section - Site Data
 
