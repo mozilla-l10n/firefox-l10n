@@ -103,6 +103,8 @@ browser-containers-settings =
     .label = Inpostaçioin…
     .accesskey = i
 containers-disable-alert-title = Særa tutti i contegnitoî de feuggi?
+startup-group =
+    .label = Iniçio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
