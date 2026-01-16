@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Spletnim mestom sporočaj, naj ne prodajajo ali delijo mojih podatkov
     .accesskey = n
+non-technical-privacy-group =
+    .label = Nastavitve zasebnosti spletnih mest
 non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -728,6 +730,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nova okna in zavihki
 home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete domačo stran, nova okna in nove zavihke.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1962,6 +1967,8 @@ website-advertising-private-attribution-description = To spletnim mestom pomaga 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Varnost
+browsing-protection-group =
+    .label = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 security-enable-safe-browsing =
     .label = Zavrni nevarno in zavajajočo vsebino
