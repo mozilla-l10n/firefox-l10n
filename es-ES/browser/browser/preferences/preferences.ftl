@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = C
 containers-disable-alert-title = ¿Cerrar todas las pestañas contenedoras?
+startup-group =
+    .label = Inicio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -1600,6 +1602,8 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Puede especificar que sitios web tienen siempre permitido o prohibido usar cookies y datos de sitio.
+cookies-site-data-group =
+    .label = Cookies y datos del sitio
 
 ## Privacy Section - Cookie Banner Handling
 
