@@ -1489,6 +1489,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = 付款方式
 
 ## Privacy Section - History
 
