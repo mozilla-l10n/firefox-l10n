@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Segnala ai siti web di non vendere o condividere i miei dati
     .accesskey = S
+non-technical-privacy-group =
+    .label = Preferenze per la privacy dei siti web
 non-technical-privacy-header = Preferenze per la privacy dei siti web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Impostazioni…
     .accesskey = o
 containers-disable-alert-title = Chiudere tutte le schede contenitore?
+startup-group =
+    .label = Avvio
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -294,6 +298,9 @@ browser-layout-show-sidebar-desc = Accedi rapidamente a segnalibri, schede dal t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e aspetto
+appearance-group =
+    .label = Aspetto dei siti web
+    .description = Alcuni siti web possono adattare il proprio schema di colori in base alle preferenze del visitatore. Scegli lo schema di colori da seguire per questi siti.
 preferences-web-appearance-header = Aspetto dei siti web
 preferences-web-appearance-description = Alcuni siti web possono adattare il proprio schema di colori in base alle preferenze del visitatore. Scegli lo schema di colori da seguire per questi siti.
 preferences-web-appearance-choice-auto2 =
@@ -583,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Chiedi se aprire o salvare i file
     .accesskey = C
+drm-group =
+    .label = Contenuti con DRM (Digital Rights Management)
 drm-content-header = Contenuti con DRM (Digital Rights Management)
 play-drm-content =
     .label = Riproduci contenuti protetti da DRM
@@ -718,6 +727,9 @@ network-proxy-connection-learn-more = Ulteriori informazioni
 network-proxy-connection-settings =
     .label = Impostazioni…
     .accesskey = z
+network-proxy-group =
+    .label = Impostazioni di rete
+    .description = Determina come { -brand-short-name } si collega a Internet.
 
 ## Home Section
 
@@ -1621,6 +1633,8 @@ sitedata-cookies-exceptions2 =
     .label = Gestisci eccezioni
     .accesskey = z
     .description = È possibile specificare quali siti web potranno o meno salvare cookie e dati.
+cookies-site-data-group =
+    .label = Cookie e dati dei siti web
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -2073,6 +2087,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS su HTTPS
+dns-over-https-group =
+    .label = DNS su HTTPS
 preferences-doh-description = Il meccanismo di risoluzione dei nomi di dominio tramite HTTPS (DNS su HTTPS) invia le richieste per i nomi di dominio tramite una connessione crittata, creando un sistema sicuro che rende più difficile scoprire quali siti stai per visitare.
 preferences-doh-description2 = Il meccanismo di risoluzione dei nomi di dominio tramite HTTPS (DNS su HTTPS) invia le richieste per i nomi di dominio tramite una connessione crittata, fornendo un sistema sicuro che rende più difficile scoprire quali siti stai per visitare.
 # Variables:
