@@ -412,6 +412,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Faighnich dhìom a bheil mi airson faidhlichean fhosgladh no dùnadh
     .accesskey = a
+drm-group =
+    .label = Susbaint Digital Rights Management (DRM)
 drm-content-header = Susbaint Digital Rights Management (DRM)
 play-drm-content =
     .label = Cluich susbaint fo smachd DRM
@@ -1028,6 +1030,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Falamhaich an eachdraidh...
     .accesskey = s
+history-group =
+    .label = Eachdraidh
 
 ## Privacy Section - Site Data
 
