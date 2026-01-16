@@ -217,6 +217,8 @@ browser-containers-settings =
     .label = Stillingar…
     .accesskey = i
 containers-disable-alert-title = Loka öllum sérefnisflipum?
+startup-group =
+    .label = Ræsing
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -531,6 +533,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -610,6 +615,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Nýir gluggar og flipar
 home-new-windows-tabs-description2 = Veldu hvað þú sérð þegar þú opnar upphafssíðuna þína, nýja glugga og nýja flipa.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Upphafssíða og nýir gluggar
@@ -641,6 +649,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -856,6 +870,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
