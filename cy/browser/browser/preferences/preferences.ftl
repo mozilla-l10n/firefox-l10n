@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
 containers-disable-alert-title = Cau Tabiau Pob Cynhwysydd?
+startup-group =
+    .label = Cychwyn
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -735,6 +737,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
 home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestri newydd a thabiau newydd.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
