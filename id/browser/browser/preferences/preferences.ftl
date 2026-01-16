@@ -543,6 +543,8 @@ performance-limit-content-process-blocked-desc = Memodifikasi jumlah proses kont
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (baku)
+performance-group =
+    .label = Kinerja
 
 ## General Section - Browsing
 
@@ -599,6 +601,9 @@ network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
     .label = Setelan…
     .accesskey = S
+network-proxy-group =
+    .label = Setelan Jaringan
+    .description = Atur bagaimana { -brand-short-name } tersambung ke internet.
 
 ## Home Section
 
