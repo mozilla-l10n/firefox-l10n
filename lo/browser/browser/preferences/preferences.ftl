@@ -476,6 +476,9 @@ network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີ
 network-proxy-connection-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = ຕ
+network-proxy-group =
+    .label = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
+    .description = ຕັ້ງຄ່າວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
 
 ## Home Section
 
@@ -952,6 +955,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ລ້າງປະຫວັດ…
     .accesskey = s
+history-group =
+    .label = ປະຫວັດ
 
 ## Privacy Section - Site Data
 
