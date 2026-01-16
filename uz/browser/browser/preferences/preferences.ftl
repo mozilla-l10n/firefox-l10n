@@ -381,6 +381,9 @@ home-new-windows-tabs-description2 = Bosh sahifa, yangi oyna va varaqlarni ochga
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Asosiy sifatida o‘rnatish
+    .accesskey = A
 
 ## Custom Homepage subpage
 
