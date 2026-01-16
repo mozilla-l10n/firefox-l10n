@@ -647,6 +647,8 @@ browsing-cfr-features =
     .label = Рекомендувати функції під час перегляду
     .accesskey = Р
 browsing-cfr-recommendations-learn-more = Докладніше
+browsing-group =
+    .label = Перегляд сайтів
 
 ## General Section - Proxy
 
@@ -1344,6 +1346,10 @@ autofill-addresses-manage-addresses-button =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Адреси та інше
+payments-group =
+    .label = Способи оплати
 
 ## Privacy Section - History
 
@@ -1470,6 +1476,8 @@ sitedata-cookies-exceptions2 =
     .label = Керування винятками
     .accesskey = в
     .description = Ви можете вказати сайти, яким дозволено або заборонено використовувати файли cookie та дані.
+cookies-site-data-group =
+    .label = Файли cookie та дані сайтів
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1851,6 +1859,8 @@ website-advertising-private-attribution-description = Завдяки цьому 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безпека
+browsing-protection-group =
+    .label = Шахрайський вміст і захист від зловмисних програм
 security-browsing-protection = Шахрайський вміст і захист від зловмисних програм
 security-enable-safe-browsing =
     .label = Блокувати небезпечний і шахрайський вміст
@@ -1907,6 +1917,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } все одно може оновлювати деякі з'єднання
 httpsonly-radio-disabled =
     .label = Не вмикати HTTPS-режим
+httpsonly-group =
+    .label = HTTPS-режим
+    .description = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 
 ## DoH Section
 
