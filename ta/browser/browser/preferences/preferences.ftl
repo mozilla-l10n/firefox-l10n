@@ -344,6 +344,9 @@ home-new-windows-tabs-description2 = முகப்புப்பக்கம�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = முன்னிருப்பாக்கு
+    .accesskey = D
 
 ## Custom Homepage subpage
 
