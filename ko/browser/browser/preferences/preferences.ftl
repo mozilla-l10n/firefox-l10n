@@ -1990,6 +1990,8 @@ website-advertising-private-attribution-description = 이를 통해 사이트에
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 보안
+browsing-protection-group =
+    .label = 사기성 콘텐츠 및 위험한 소프트웨어 보호
 security-browsing-protection = 사기성 콘텐츠 및 위험한 소프트웨어 보호
 security-enable-safe-browsing =
     .label = 위험하고 사기성 있는 콘텐츠 차단
