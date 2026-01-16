@@ -41,6 +41,8 @@ restart-later = Irugi Manen Intono Madamdama
 ## General Section
 
 startup-header = Pagirugian
+startup-group =
+    .label = Pagirugian
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
