@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Կայքերին հաղորդել, որ չտարածեն և չվաճառեն իմ տվյալները
     .accesskey = չ
+non-technical-privacy-group =
+    .label = Կայքի գաղտնիության նախընտրանքներ
 non-technical-privacy-header = Կայքի գաղտնիության նախընտրանքներ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
