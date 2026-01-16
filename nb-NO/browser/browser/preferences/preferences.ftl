@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerker, faner fra tel
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk og utseende
+appearance-group =
+    .label = Utseende på nettstedet
+    .description = Noen nettsteder tilpasser fargeskjemaet basert på dine innstillinger. Velg hvilket fargeskjema du vil bruke for disse nettstedene.
 preferences-web-appearance-header = Utseende på nettstedet
 preferences-web-appearance-description = Noen nettsteder tilpasser fargeskjemaet basert på dine innstillinger. Velg hvilket fargeskjema du vil bruke for disse nettstedene.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Endring av antall innholdsprose
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Ytelse
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = Anbefal funksjoner mens du surfer
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Les mer
+browsing-group =
+    .label = Nettlesing
 
 ## General Section - Proxy
 
@@ -1495,6 +1502,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser og mer
 payments-group =
     .label = Betalingsmåter
 
@@ -1557,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tøm historikk…
     .accesskey = s
+history-group =
+    .label = Historikk
 
 ## Privacy Section - Site Data
 
