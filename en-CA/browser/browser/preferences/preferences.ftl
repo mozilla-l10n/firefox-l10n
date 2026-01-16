@@ -1610,6 +1610,8 @@ sitedata-cookies-exceptions2 =
     .label = Manage exceptions
     .accesskey = x
     .description = You can specify which websites are always or never allowed to use cookies and site data.
+cookies-site-data-group =
+    .label = Cookies and Site Data
 
 ## Privacy Section - Cookie Banner Handling
 
