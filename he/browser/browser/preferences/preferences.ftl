@@ -724,6 +724,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = חלונות ולשוניות חדשים
 home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת פתיחת דף הבית שלך, חלונות חדשים ולשוניות חדשות.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = דף הבית וחלונות חדשים
@@ -1543,6 +1546,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ניקוי היסטוריה…
     .accesskey = ה
+history-group =
+    .label = היסטוריה
 
 ## Privacy Section - Site Data
 
