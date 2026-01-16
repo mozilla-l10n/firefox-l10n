@@ -477,6 +477,9 @@ home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാ�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = തനതാക്കുക
+    .accesskey = D
 
 ## Custom Homepage subpage
 
