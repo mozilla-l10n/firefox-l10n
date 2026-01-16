@@ -408,6 +408,9 @@ home-new-windows-tabs-description2 = మీ ముంగిలి పేజీ�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = అప్రమేయం చేయి
+    .accesskey = D
 
 ## Custom Homepage subpage
 
