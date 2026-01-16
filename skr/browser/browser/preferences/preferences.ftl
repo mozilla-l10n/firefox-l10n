@@ -1105,6 +1105,12 @@ history-remember-option-never =
     .label = کݙاہیں تاریخ یاد نہ رکھو
 history-remember-option-custom =
     .label = تاریخ کیتے من مرضی دیاں ترتیباں استعمال کرو
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
@@ -1181,6 +1187,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
+cookies-site-data-group =
+    .label = کوکیاں تے سائٹ ڈیٹا
 
 ## Privacy Section - Cookie Banner Handling
 
