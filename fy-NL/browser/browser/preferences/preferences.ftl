@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Benaderje fluch blêdwizers, ljepblêden fan 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en úterlik
+appearance-group =
+    .label = Uterlik fan de website
+    .description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
 preferences-web-appearance-header = Uterlik fan de website
 preferences-web-appearance-description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = Oanpassen fan it oantal ynhâld
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standert)
+performance-group =
+    .label = Prestaasjes
 
 ## General Section - Browsing
 
@@ -1561,6 +1566,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Skiednis wiskje…
     .accesskey = s
+history-group =
+    .label = Skiednis
 
 ## Privacy Section - Site Data
 
