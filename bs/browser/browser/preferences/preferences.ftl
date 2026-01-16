@@ -630,6 +630,9 @@ home-new-windows-tabs-description2 = Izaberite šta želite vidjeti kada otvorit
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Učini glavnim
+    .accesskey = G
 
 ## Custom Homepage subpage
 
