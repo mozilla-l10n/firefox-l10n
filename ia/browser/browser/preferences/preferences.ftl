@@ -742,6 +742,12 @@ home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pag
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navigator predefinite
+is-default-browser-2 =
+    .message = { -brand-short-name } es tu navigator predefinite. Optime election.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } non es tu navigator predefinite.
 set-as-my-default-browser-2 =
     .label = Predefinir
     .accesskey = D
@@ -1460,6 +1466,10 @@ payments-list-item-label = <strong>Methodos de pagamento</strong>
 payments-delete-payment-prompt-title = Deler iste methodo de pagamento?
 payments-delete-payment-prompt-confirm-button = Deler
 payments-delete-payment-prompt-cancel-button = Cancellar
+payments-delete-payment-button-label =
+    .aria-label = Deler
+payments-edit-payment-button-label =
+    .aria-label = Rediger
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Necun methodo de pagamento addite
@@ -2101,6 +2111,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modo solo HTTPS
     .description = Solo permitte connexiones secur a sitos web. { -brand-short-name } demandara ante connecter in maniera non secur.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 

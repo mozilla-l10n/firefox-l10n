@@ -748,7 +748,7 @@ home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete do
 ## Home Section - Default Browser
 
 set-as-my-default-browser-2 =
-    .label = Nastavi za privzeto{ " " }
+    .label = Nastavi za privzeto
     .accesskey = N
 
 ## Custom Homepage subpage

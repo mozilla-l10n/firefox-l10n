@@ -128,3 +128,6 @@ sanitize-everything-warning = Tote le chronologia essera vacuate.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Tote le elementos seligite essera vacuate.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Calculante…
