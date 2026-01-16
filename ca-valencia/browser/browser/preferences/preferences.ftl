@@ -913,6 +913,12 @@ history-remember-option-never =
     .label = No recordarà mai l'historial
 history-remember-option-custom =
     .label = Utilitza els paràmetres personalitzats de l'historial
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
@@ -980,6 +986,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+cookies-site-data-group =
+    .label = Galetes i dades dels llocs
 
 ## Privacy Section - Cookie Banner Handling
 
