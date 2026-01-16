@@ -277,6 +277,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = Raqamli huquqlar boshqaruvi (DRM) kontenti
 drm-content-header = Raqamli huquqlar boshqaruvi (DRM) kontenti
 play-drm-content =
     .label = DRM boshqaruvdagi kontentni ishga tushirish
