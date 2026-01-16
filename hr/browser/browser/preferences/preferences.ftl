@@ -745,6 +745,9 @@ home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš p
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Postavi kao standardni{ " " }
+    .accesskey = d
 
 ## Custom Homepage subpage
 
