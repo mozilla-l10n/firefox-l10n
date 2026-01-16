@@ -600,6 +600,8 @@ browsing-cfr-features =
     .label = Stinga uppá virkni er þú vafrar
     .accesskey = S
 browsing-cfr-recommendations-learn-more = Kanna nánar
+browsing-group =
+    .label = Leit
 
 ## General Section - Proxy
 
