@@ -627,6 +627,9 @@ home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgin
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Cunfigura comente predefinidu
+    .accesskey = p
 
 ## Custom Homepage subpage
 
