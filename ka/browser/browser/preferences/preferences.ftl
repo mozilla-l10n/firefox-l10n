@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = პარამეტრები…
     .accesskey = პ
 containers-disable-alert-title = გსურთ ყველა სათავსი ჩანართის დახურვა?
+startup-group =
+    .label = ჩართვისას
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -569,6 +571,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -650,6 +655,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = ახალი ფანჯრები და ჩანართები
 home-new-windows-tabs-description2 = მიუთითეთ, რისი ხილვა გსურთ საწყისი გვერდის, ახალი ფანჯრებისა და ახალი ჩანართების გახსნისას.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -977,6 +985,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1375,6 +1388,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ისტორიის გასუფთავება…
     .accesskey = ს
+history-group =
+    .label = ისტორია
 
 ## Privacy Section - Site Data
 
@@ -1441,6 +1456,8 @@ sitedata-cookies-exceptions2 =
     .label = გამონაკლისების მართვა
     .accesskey = ლ
     .description = შეგიძლიათ მიუთითოთ ვებსაიტები, რომლებიც ყოველთვის ან არასდროს გამოიყენებს ფუნთუშებსა და საიტის მონაცემებს.
+cookies-site-data-group =
+    .label = ფუნთუშები და საიტის მონაცემები
 
 ## Privacy Section - Cookie Banner Handling
 
