@@ -496,6 +496,8 @@ performance-limit-content-process-blocked-desc = Modificēt satura procesu skait
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (noklusējuma)
+performance-group =
+    .label = Veiktspēja
 
 ## General Section - Browsing
 
@@ -539,6 +541,8 @@ browsing-cfr-features =
     .label = Ieteikt funkcijas pārlūkošanas laikā
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Uzzināt vairāk
+browsing-group =
+    .label = Pārlūkošana
 
 ## General Section - Proxy
 
@@ -1469,6 +1473,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS caur HTTPS
+dns-over-https-group =
+    .label = DNS caur HTTPS
 preferences-doh-description = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, izveidojot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 # Variables:
