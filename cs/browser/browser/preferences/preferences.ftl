@@ -2341,6 +2341,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } i tak může některá spojení povýšit na zabezpečená
 httpsonly-radio-disabled =
     .label = Nezapínat režim „pouze HTTPS“
+httpsonly-group =
+    .label = Režim „pouze HTTPS“
+    .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
 
 ## DoH Section
 
