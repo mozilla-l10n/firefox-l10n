@@ -489,6 +489,9 @@ home-new-windows-tabs-description2 = ເລືອກສິ່ງທີ່ທ່�
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ
+    .accesskey = ຄ
 
 ## Custom Homepage subpage
 
