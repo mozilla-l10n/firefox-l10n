@@ -940,6 +940,8 @@ collection-health-report-disabled = माहिती अहवाल देण
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
+browsing-protection-group =
+    .label = भ्रामक मजकूर आणि धोकादायक सॉफ्टवेअर संरक्षण
 security-browsing-protection = भ्रामक मजकूर आणि धोकादायक सॉफ्टवेअर संरक्षण
 security-enable-safe-browsing =
     .label = धोकादायक आणि भ्रामक सामग्री अवरोधित करा
