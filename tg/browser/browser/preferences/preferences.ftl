@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = Аз саҳифаи асосии худ на�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Забон ва намуди зоҳирӣ
+appearance-group =
+    .label = Намуди зоҳирии сомона
+    .description = Баъзе сомонаҳо нақшаи рангҳои худро дар асоси бартариҳо шумо мутобиқ мекунанд. Интихоб кунед, ки шумо кадом нақшаи рангро барои он сомонаҳо истифода бурдан мехоҳед.
 preferences-web-appearance-header = Намуди зоҳирии сомона
 preferences-web-appearance-description = Баъзе сомонаҳо нақшаи рангҳои худро дар асоси бартариҳо шумо мутобиқ мекунанд. Интихоб кунед, ки шумо кадом нақшаи рангро барои он сомонаҳо истифода бурдан мехоҳед.
 preferences-web-appearance-choice-auto2 =
@@ -666,6 +669,8 @@ performance-limit-content-process-blocked-desc = Иваз кардани шум�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (пешфарз)
+performance-group =
+    .label = Самаранокӣ
 
 ## General Section - Browsing
 
@@ -1493,6 +1498,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Нишониҳо ва ғайра
 payments-group =
     .label = Тарзҳои пардохт
 
@@ -1526,6 +1533,9 @@ history-remember-option-never =
     .label = Таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад
 history-remember-option-custom =
     .label = Истифодаи танзимоти фармоишӣ барои таърих
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = «{ -brand-short-name }» барои тамошобинӣ, боргирӣ, шаклҳо ва таърихи ҷустуҷӯи шумо аз танзимоти фармоишии шумо истифода мебарад.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
@@ -1555,6 +1565,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Пок кардани таърих…
     .accesskey = П
+history-group =
+    .label = Таърих
 
 ## Privacy Section - Site Data
 
