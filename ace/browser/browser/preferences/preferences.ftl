@@ -650,6 +650,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Peugléh Riwayat
     .accesskey = s
+history-group =
+    .label = Riwayat
 
 ## Privacy Section - Site Data
 
