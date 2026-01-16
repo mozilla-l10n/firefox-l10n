@@ -2073,6 +2073,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } poate încă activa modul pe unele conexiuni
 httpsonly-radio-disabled =
     .label = Nu activa modul numai HTTPS
+httpsonly-group =
+    .label = Mod numai HTTPS
+    .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 
 ## DoH Section
 
