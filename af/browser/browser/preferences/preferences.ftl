@@ -588,6 +588,9 @@ history-remember-option-never =
     .label = nooit geskiedenis onthou nie
 history-remember-option-custom =
     .label = eie instellings vir geskiedenis gebruik
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
@@ -611,6 +614,8 @@ history-group =
 
 sitedata-header = Koekies en webwerf-data
 sitedata-learn-more = Meer inligting
+cookies-site-data-group =
+    .label = Koekies en webwerf-data
 
 ## Privacy Section - Cookie Banner Handling
 
