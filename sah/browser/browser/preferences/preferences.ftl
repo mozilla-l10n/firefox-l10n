@@ -173,6 +173,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Курсор клавишаларын сирэйдэри көрөргө куруук туттарга
     .accesskey = к
+browsing-group =
+    .label = Көрүү
 
 ## General Section - Proxy
 
