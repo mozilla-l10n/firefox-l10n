@@ -1455,6 +1455,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS преко HTTPS-а
+dns-over-https-group =
+    .label = DNS преко HTTPS-а
 preferences-doh-description = Систем доменских имена (DNS) преко HTTPS-а шаље ваше захтеве за име домена путем шифроване везе и тако ствара безбедан DNS, што отежава другима да сазнају који сајт желите да отворите.
 # Variables:
 #   $status (string) - The status of the DoH connection
