@@ -720,6 +720,9 @@ network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
+network-proxy-group =
+    .label = Configuración de red
+    .description = Configurar cómo se conecta { -brand-short-name } a Internet.
 
 ## Home Section
 
