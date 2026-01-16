@@ -101,6 +101,8 @@ browser-containers-settings =
     .label = အပြင်အဆင်များ…
     .accesskey = i
 containers-disable-alert-title = ကွန်တိန်နာတပ်ဗ်အားလုံးကို ပိတ်ပါမည်လား။
+startup-group =
+    .label = စတင်ခြင်း
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
