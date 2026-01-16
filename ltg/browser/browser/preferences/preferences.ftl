@@ -318,6 +318,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Mekleit raksteitū tekstu, koleidz es suoku raksteit
     .accesskey = M
+browsing-group =
+    .label = Puorlūkuošona
 
 ## General Section - Proxy
 
@@ -703,6 +705,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Porvaļdēt datus…
     .accesskey = P
+cookies-site-data-group =
+    .label = Cookies un lopys dati
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -808,6 +812,8 @@ collection-health-report-disabled = Data reporting is disabled for this build co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Drūseiba
+browsing-protection-group =
+    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content
