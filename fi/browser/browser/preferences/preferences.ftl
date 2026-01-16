@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Pyydä verkkosivustoja olemaan myymättä tai jakamatta tietojani
     .accesskey = s
+non-technical-privacy-group =
+    .label = Sivuston tietosuojakäytännöt
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -1998,6 +2000,8 @@ website-advertising-private-attribution-description = Tämä auttaa sivustoja ym
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Turvallisuus
+browsing-protection-group =
+    .label = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-browsing-protection = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-enable-safe-browsing =
     .label = Estä vaarallinen ja petollinen sisältö
@@ -2061,6 +2065,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS:n kautta
+dns-over-https-group =
+    .label = DNS HTTPS:n kautta
 preferences-doh-description = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, luoden suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 preferences-doh-description2 = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, tarjoten suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 # Variables:
