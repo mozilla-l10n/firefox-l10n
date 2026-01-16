@@ -1371,6 +1371,12 @@ history-remember-option-never =
     .label = Mai memorisar la cronologia
 history-remember-option-custom =
     .label = Utilisar per la cronologia ils parameters definids da l'utilisader
+history-remember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
@@ -1465,6 +1471,8 @@ sitedata-cookies-exceptions2 =
     .label = Administrar las excepziuns
     .accesskey = x
     .description = Ti pos specifitgar tge websites che dastgan adina u mai utilisar cookies e datas da websites.
+cookies-site-data-group =
+    .label = Cookies e datas da websites
 
 ## Privacy Section - Cookie Banner Handling
 
