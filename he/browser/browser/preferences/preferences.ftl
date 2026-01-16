@@ -298,6 +298,9 @@ browser-layout-show-sidebar-desc = קבלת גישה מהירה לסימניות
 ## General Section - Language & Appearance
 
 language-and-appearance-header = שפה ותצוגה
+appearance-group =
+    .label = מראה האתר
+    .description = חלק מהאתרים מתאימים את ערכת הצבעים שלהם בהתאם להעדפות שלך. ניתן לבחור באיזו ערכת צבעים ברצונך להשתמש עבור אתרים אלה.
 preferences-web-appearance-header = מראה האתר
 preferences-web-appearance-description = חלק מהאתרים מתאימים את ערכת הצבעים שלהם בהתאם להעדפות שלך. ניתן לבחור באיזו ערכת צבעים ברצונך להשתמש עבור אתרים אלה.
 preferences-web-appearance-choice-auto2 =
@@ -667,6 +670,8 @@ performance-limit-content-process-blocked-desc = שינוי מספר תהליכ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ברירת מחדל)
+performance-group =
+    .label = ביצועים
 
 ## General Section - Browsing
 
@@ -715,6 +720,8 @@ browsing-cfr-features =
     .label = קבלת המלצות על תכונות תוך כדי גלישה
     .accesskey = ת
 browsing-cfr-recommendations-learn-more = מידע נוסף
+browsing-group =
+    .label = דפדוף
 
 ## General Section - Proxy
 
@@ -1495,6 +1502,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = כתובות ועוד
 payments-group =
     .label = אמצעי תשלום
 
