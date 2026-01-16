@@ -99,6 +99,8 @@ browser-containers-settings =
     .label = ការ​កំណត់...
     .accesskey = i
 containers-disable-alert-title = បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ទាំងអស់មែន​ទេ?
+startup-group =
+    .label = ចាប់ផ្ដើម​ឡើង
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
