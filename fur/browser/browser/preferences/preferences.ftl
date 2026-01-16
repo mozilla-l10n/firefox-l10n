@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Impostazions…
     .accesskey = I
 containers-disable-alert-title = Sierâ dutis lis schedis contignidôr?
+startup-group =
+    .label = Inviament
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -723,6 +725,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Gnûfs barcons e schedis
 home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzis la pagjine iniziâl, i gnûfs barcons e lis gnovis schedis.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1597,6 +1602,8 @@ sitedata-cookies-exceptions2 =
     .label = Gjestìs ecezions
     .accesskey = c
     .description = Tu puedis specificâ i sîts web che ur ven simpri o mai concedude la utilizazion di cookies e dâts dai sîts.
+cookies-site-data-group =
+    .label = Cookies e dâts dai sîts
 
 ## Privacy Section - Cookie Banner Handling
 
