@@ -20,6 +20,12 @@ about-translations-input-placeholder =
 # and no language has been identified from the content of the source-language text area.
 about-translations-detect-default-label =
     .label = ഭാഷ തിരഞ്ഞെടുക്കുക
+# Text displayed on the source-language selector when no explicit option is selected
+# and a valid language has been identified from the content of the source-language text area.
+# Variables:
+#   $language (string) - The localized display name of the detected language
+about-translations-detect-language-label =
+    .label = { $language } (കണ്ടെത്തി)
 # Placeholder text shown in the target-language output area when no translation has occurred.
 about-translations-output-placeholder =
     .placeholder = മൊഴിമാറ്റം
