@@ -678,6 +678,9 @@ home-new-windows-tabs-description2 = Оберіть, що ви хочете ба
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Зробити типовим
+    .accesskey = т
 
 ## Custom Homepage subpage
 
