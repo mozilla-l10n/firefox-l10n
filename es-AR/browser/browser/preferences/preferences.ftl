@@ -587,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = A
+drm-group =
+    .label = Contenido con Digital Rights Management (DRM)
 drm-content-header = Contenido con Digital Rights Management (DRM)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM-
@@ -722,6 +724,9 @@ network-proxy-connection-learn-more = Conocer más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
+network-proxy-group =
+    .label = Configuración de red
+    .description = Configurar cómo { -brand-short-name } se conecta con Internet.
 
 ## Home Section
 
@@ -2058,6 +2063,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } aún puede actualizar ciertas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-group =
+    .label = Modo solo HTTPS
+    .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 
 ## DoH Section
 
