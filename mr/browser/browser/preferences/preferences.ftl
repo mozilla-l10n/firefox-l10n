@@ -254,6 +254,8 @@ applications-use-other-label =
 
 ##
 
+drm-group =
+    .label = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 drm-content-header = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 play-drm-content =
     .label = डीआरएम-नियंत्रित मजकूर चालवा
