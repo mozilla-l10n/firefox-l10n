@@ -99,6 +99,8 @@ browser-containers-settings =
     .label = Tetapan…
     .accesskey = p
 containers-disable-alert-title = Tutup Semua Tab Penyimpan?
+startup-group =
+    .label = Permulaan
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
