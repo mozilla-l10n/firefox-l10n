@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Megmondás a webhelyeknek, hogy ne adják el vagy osszák meg az adatait
     .accesskey = M
+non-technical-privacy-group =
+    .label = Webhely adatvédelmi beállításai
 non-technical-privacy-header = Webhely adatvédelmi beállításai
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -585,6 +587,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Kérdezze meg, hogy nyissa meg vagy mentse a fájlokat
     .accesskey = K
+drm-group =
+    .label = Digitális jogkezelést (DRM) használó tartalom
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
     .label = DRM-vezérelt tartalom lejátszása
@@ -2003,6 +2007,8 @@ website-advertising-private-attribution-description = Ez anélkül segít a webh
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Biztonság
+browsing-protection-group =
+    .label = Félrevezető tartalom és veszélyes szoftver elleni védelem
 security-browsing-protection = Félrevezető tartalom és veszélyes szoftver elleni védelem
 security-enable-safe-browsing =
     .label = Veszélyes és félrevezető tartalom blokkolása
@@ -2063,6 +2069,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS feletti DNS
+dns-over-https-group =
+    .label = HTTPS feletti DNS
 preferences-doh-description = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t hozva létre, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 preferences-doh-description2 = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t biztosítva, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 # Variables:
