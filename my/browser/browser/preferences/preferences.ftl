@@ -680,6 +680,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = မှတ်တမ်းကို ရှင်းလင်းပါ...
     .accesskey = s
+history-group =
+    .label = မှတ်တမ်း
 
 ## Privacy Section - Site Data
 
