@@ -530,6 +530,9 @@ home-new-windows-tabs-description2 = Ôbier, co chcesz widzieć przi ôtwiyraniu
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Nasztaluj za bazowo
+    .accesskey = B
 
 ## Custom Homepage subpage
 
