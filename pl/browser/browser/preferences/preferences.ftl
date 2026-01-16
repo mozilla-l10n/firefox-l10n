@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Informowanie witryn, że mają nie sprzedawać ani nie udostępniać moich danych.
     .accesskey = n
+non-technical-privacy-group =
+    .label = Preferencje dotyczące prywatności na witrynach
 non-technical-privacy-header = Preferencje dotyczące prywatności na witrynach
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -249,6 +251,8 @@ browser-containers-settings =
     .label = Dostosuj…
     .accesskey = D
 containers-disable-alert-title = Czy zamknąć wszystkie karty z kontekstem?
+startup-group =
+    .label = Uruchamianie
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -586,6 +590,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pytaj, czy otworzyć lub zapisać pliki
     .accesskey = P
+drm-group =
+    .label = Treści DRM (Digital Rights Management)
 drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
     .label = Odtwarzanie treści chronionych przez DRM.
@@ -664,6 +670,8 @@ performance-limit-content-process-blocked-desc = Zmiana liczby procesów jest mo
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (domyślnie)
+performance-group =
+    .label = Wydajność
 
 ## General Section - Browsing
 
@@ -712,6 +720,8 @@ browsing-cfr-features =
     .label = Polecaj funkcje podczas przeglądania.
     .accesskey = u
 browsing-cfr-recommendations-learn-more = Więcej informacji
+browsing-group =
+    .label = Przeglądanie
 
 ## General Section - Proxy
 
@@ -721,11 +731,17 @@ network-proxy-connection-learn-more = Więcej informacji
 network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
+network-proxy-group =
+    .label = Sieć
+    .description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe okna i karty
 home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1601,6 +1617,8 @@ sitedata-cookies-exceptions2 =
     .label = Wyjątki
     .accesskey = W
     .description = Określ zasady akceptacji ciasteczek i danych witryn.
+cookies-site-data-group =
+    .label = Ciasteczka i dane witryn
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1990,6 +2008,8 @@ website-advertising-private-attribution-description = Pomaga to witrynom zrozumi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpieczeństwo
+browsing-protection-group =
+    .label = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
 security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
 security-enable-safe-browsing =
     .label = Blokowanie niebezpiecznych i podejrzanych treści.
@@ -2046,10 +2066,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } nadal może przełączać część połączeń.
 httpsonly-radio-disabled =
     .label = Nie włączaj
+httpsonly-group =
+    .label = Tryb używania wyłącznie protokołu HTTPS
+    .description = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
 
 ## DoH Section
 
 preferences-doh-header = DNS poprzez HTTPS
+dns-over-https-group =
+    .label = DNS poprzez HTTPS
 preferences-doh-description = System nazw domen (DNS) poprzez HTTPS wysyła zapytanie o nazwę domeny przez zaszyfrowane połączenie, tworząc zabezpieczony serwer DNS i utrudniając innym podejrzenie, jaką witrynę zaraz otworzysz.
 preferences-doh-description2 = System nazw domen (DNS) poprzez HTTPS wysyła zapytanie o nazwę domeny przez zaszyfrowane połączenie, zapewniając zabezpieczony serwer DNS i utrudniając innym podejrzenie, jaką witrynę zaraz otworzysz.
 # Variables:
