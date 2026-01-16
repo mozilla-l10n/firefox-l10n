@@ -99,6 +99,8 @@ browser-containers-settings =
     .label = Peuatô...
     .accesskey = P
 containers-disable-alert-title = Tôb mandum Tab kontener
+startup-group =
+    .label = Peuphôn
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -271,6 +273,8 @@ performance-limit-content-process-blocked-desc = Modifikasi leumboi dari proses 
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (baku)
+performance-group =
+    .label = Performen
 
 ## General Section - Browsing
 
