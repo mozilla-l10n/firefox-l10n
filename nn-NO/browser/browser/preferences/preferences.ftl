@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Innstillingar…
     .accesskey = I
 containers-disable-alert-title = Late att alle behaldarfaner?
+startup-group =
+    .label = Startside
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -709,6 +711,8 @@ browsing-cfr-features =
     .label = Tilrå funksjonar medan du surfar
     .accesskey = T
 browsing-cfr-recommendations-learn-more = Les meir
+browsing-group =
+    .label = Nettlesing
 
 ## General Section - Proxy
 
@@ -718,11 +722,17 @@ network-proxy-connection-learn-more = Les meir
 network-proxy-connection-settings =
     .label = Innstillingar…
     .accesskey = I
+network-proxy-group =
+    .label = Nettverksinnstillingar
+    .description = Konfigurer korleis { -brand-short-name } koplar seg til internett.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nye vindauge og faner
 home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida, nye vindauge og nye faner.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -1606,6 +1616,8 @@ sitedata-cookies-exceptions2 =
     .label = Handsam unntak
     .accesskey = H
     .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstad-data.
+cookies-site-data-group =
+    .label = Infokapslar og sidedata
 
 ## Privacy Section - Cookie Banner Handling
 
