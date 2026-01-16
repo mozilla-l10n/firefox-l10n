@@ -1627,6 +1627,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS през HTTPS
+dns-over-https-group =
+    .label = DNS през HTTPS
 preferences-doh-description = Системата за имена на домейни (DNS) през HTTPS изпраща вашата DNS заявка през шифрована връзка, създавайки сигурен DNS и затруднявайки трети страни да видят кой уебсайт искате да посетите.
 preferences-doh-description2 = Системата за имена на домейни (DNS) през HTTPS изпраща вашата DNS заявка през шифрована връзка, създавайки сигурен DNS и затруднявайки трети страни да видят кой уебсайт искате да посетите.
 # Variables:
