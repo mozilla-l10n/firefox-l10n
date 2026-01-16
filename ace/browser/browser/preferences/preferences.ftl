@@ -672,6 +672,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Uroh Data...
     .accesskey = U
+cookies-site-data-group =
+    .label = Cookies ngön  Data Situs
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -777,6 +779,8 @@ collection-health-report-disabled = Lapuran data meupeulèn keu build konfiguras
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keuamanan
+browsing-protection-group =
+    .label = Peulindông Peukateun Leumiek nyang Meubahya dan Content Deceptive
 security-browsing-protection = Peulindông Peukateun Leumiek nyang Meubahya dan Content Deceptive
 security-enable-safe-browsing =
     .label = Tham konten nyang meubaya ngon seumunguet
