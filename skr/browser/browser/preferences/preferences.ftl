@@ -567,6 +567,9 @@ home-new-windows-tabs-description2 = جݙاں تساں اپݨا ہوم پیج، 
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = طے شدہ بݨاؤ{ " " }
+    .accesskey = D
 
 ## Custom Homepage subpage
 
