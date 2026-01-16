@@ -266,6 +266,9 @@ browser-layout-show-sidebar-desc = Fáðu einfaldan aðgang að bókamerkjum, fl
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tungumál og útlit
+appearance-group =
+    .label = Útlit vefsvæðis
+    .description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
 preferences-web-appearance-header = Útlit vefsvæðis
 preferences-web-appearance-description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
 preferences-web-appearance-choice-auto2 =
@@ -1186,6 +1189,8 @@ autofill-addresses-manage-addresses-button =
     .accesskey = m
 autofill-addresses-manage-addresses-title =
     .heading = Sýsla með heimilisföng og fleira
+addresses-group =
+    .label = Heimilisföng og fleira
 payments-group =
     .label = Greiðslumátar
 
@@ -1245,6 +1250,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Hreinsa feril…
     .accesskey = s
+history-group =
+    .label = Ferill
 
 ## Privacy Section - Site Data
 
