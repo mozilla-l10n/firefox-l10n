@@ -670,6 +670,8 @@ performance-limit-content-process-blocked-desc = Endring av talet på innhaldspr
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standard)
+performance-group =
+    .label = Yting
 
 ## General Section - Browsing
 
@@ -1497,6 +1499,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adresser og meir
+payments-group =
+    .label = Betalingsmåtar
 
 ## Privacy Section - History
 
