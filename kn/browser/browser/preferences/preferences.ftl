@@ -282,6 +282,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು
+    .accesskey = D
 
 ## Custom Homepage subpage
 
