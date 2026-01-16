@@ -404,6 +404,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Paklausti, ar atverti, ar įrašyti failus
     .accesskey = P
+drm-group =
+    .label = Skaitmeninių teisių valdymo (DRM) turinys
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
     .label = Atkurti DRM valdomą turinį
@@ -475,6 +477,8 @@ performance-limit-content-process-blocked-desc = Turinio procesų skaičiaus kei
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (numatyta)
+performance-group =
+    .label = Našumas
 
 ## General Section - Browsing
 
@@ -512,6 +516,8 @@ browsing-cfr-features =
     .label = Rekomenduoti funkcijas naršant
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Sužinoti daugiau
+browsing-group =
+    .label = Naršymas
 
 ## General Section - Proxy
 
@@ -521,6 +527,9 @@ network-proxy-connection-learn-more = Sužinoti daugiau
 network-proxy-connection-settings =
     .label = Nuostatos…
     .accesskey = N
+network-proxy-group =
+    .label = Tinklo nuostatos
+    .description = Nustatykite, kaip „{ -brand-short-name }“ jungiasi prie interneto.
 
 ## Home Section
 
@@ -1017,6 +1026,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Išvalyti žurnalą…
     .accesskey = u
+history-group =
+    .label = Žurnalas
 
 ## Privacy Section - Site Data
 
@@ -1060,6 +1071,8 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tvarkyti išimtis…
     .accesskey = m
+cookies-site-data-group =
+    .label = Slapukai ir svetainių duomenys
 
 ## Privacy Section - Cookie Banner Handling
 
@@ -1276,6 +1289,8 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Saugumas
+browsing-protection-group =
+    .label = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-browsing-protection = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-enable-safe-browsing =
     .label = Blokuoti pavojingą ir apgaulingą turinį
