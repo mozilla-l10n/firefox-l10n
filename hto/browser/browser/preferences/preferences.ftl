@@ -48,6 +48,8 @@ tabs-group-header = Úitɨraɨ
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
     .accesskey = k
+startup-group =
+    .label = Táɨnia
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -164,6 +166,9 @@ network-proxy-connection-settings =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -180,6 +185,9 @@ use-current-pages =
 choose-bookmark =
     .label = Rɨgɨnua fɨno…
     .accesskey = f
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -225,9 +233,15 @@ sync-profile-picture-with-alt =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Fákara íyano... { $email } Naɨ éroñega.
 sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno nitayena taɨne yuamo
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -321,7 +335,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 addressbar-locbar-bookmarks-option =
     .label = Rɨgɨnua
