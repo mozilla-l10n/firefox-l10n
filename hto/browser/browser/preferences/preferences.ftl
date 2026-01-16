@@ -156,6 +156,8 @@ browsing-title = Makara
 browsing-use-autoscroll =
     .label = Dama gɨgɨta jone
     .accesskey = g
+browsing-group =
+    .label = Makara
 
 ## General Section - Proxy
 
@@ -309,6 +311,9 @@ history-remember-option-never =
     .label = Jágaɨ úibiñeniri
 history-remember-option-custom =
     .label = Kúe dama ñúe fɨnoyena jagaɨ
+history-dontremember-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
 history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
