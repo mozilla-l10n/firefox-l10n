@@ -675,6 +675,9 @@ home-new-windows-tabs-description2 = Tscherna tge che vegn mussà cura che ti av
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Definir sco standard
+    .accesskey = s
 
 ## Custom Homepage subpage
 
