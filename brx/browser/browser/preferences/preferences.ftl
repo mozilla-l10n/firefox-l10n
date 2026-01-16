@@ -235,6 +235,8 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-picture-in-picture-learn-more = गोबां सोलों
 browsing-cfr-recommendations-learn-more = गोबां सोलों
+browsing-group =
+    .label = ब्राउजिं
 
 ## General Section - Proxy
 
