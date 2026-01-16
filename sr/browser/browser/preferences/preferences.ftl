@@ -508,6 +508,9 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Перформансе
@@ -579,6 +582,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Нови прозори и картице
 home-new-windows-tabs-description2 = Изаберите шта желите да видите када отворите почетну страницу, нови прозор или картицу.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Почетна страница и нови прозори:
@@ -610,6 +616,12 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележивач…
     .accesskey = б
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -813,6 +825,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } није потврђен.
 sync-signedin-login-failure = Пријавите се да поново повежете { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1085,6 +1102,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Обриши историју…
     .accesskey = с
+history-group =
+    .label = Историја
 
 ## Privacy Section - Site Data
 
@@ -1368,6 +1387,9 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
