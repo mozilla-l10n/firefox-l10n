@@ -640,8 +640,14 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Vis/skjul sidestolpe
+pdfjs-toggle-views-manager-button-label = Vis/skjul sidestolpe
 pdfjs-views-manager-sidebar =
     .aria-label = Sidestolpe
+pdfjs-views-manager-view-selector-button =
+    .title = Vis
+pdfjs-views-manager-view-selector-button-label = Visningar
 pdfjs-views-manager-pages-title = Sider
 pdfjs-views-manager-outlines-title = Dokumentdisposisjon
 pdfjs-views-manager-attachments-title = Vedlegg
@@ -658,6 +664,7 @@ pdfjs-views-manager-pages-status-copy-button-label = Kopier
 pdfjs-views-manager-pages-status-cut-button-label = Klipp ut
 pdfjs-views-manager-pages-status-delete-button-label = Slett
 pdfjs-views-manager-pages-status-save-as-button-label = Lagre som…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Lastar opp fila…
 pdfjs-views-manager-status-undo-button-label = Angre
 pdfjs-views-manager-status-close-button =
     .title = Lat att

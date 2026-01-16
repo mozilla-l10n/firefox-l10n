@@ -465,6 +465,7 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Søk plassering
     .aria-label = Søk plassering
 newtab-weather-menu-weather-display = Vêrvising
+newtab-weather-see-full-forecast = Sjå fullstendig vêrmelding
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
