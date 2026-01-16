@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Postavke …
     .accesskey = o
 containers-disable-alert-title = Zatvoriti sve kontejnerske kartice?
+startup-group =
+    .label = Pokretanje
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -586,6 +588,8 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = Pitaj da li otvoriti ili spremiti datoteke
     .accesskey = P
+drm-group =
+    .label = Sadržaj kontroliran DRM-om (Digital Rights Management)
 drm-content-header = Sadržaj kontroliran DRM-om (Digital Rights Management)
 play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
