@@ -822,6 +822,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ইতিহাস মুছে ফেলুন…
     .accesskey = s
+history-group =
+    .label = ইতিহাস
 
 ## Privacy Section - Site Data
 
