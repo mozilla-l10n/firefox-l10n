@@ -668,6 +668,8 @@ performance-limit-content-process-blocked-desc = Das Ändern der Anzahl der Inha
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (Standard)
+performance-group =
+    .label = Leistung
 
 ## General Section - Browsing
 
@@ -1498,6 +1500,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adressen und mehr
+payments-group =
+    .label = Zahlungsmethoden
 
 ## Privacy Section - History
 
@@ -1529,6 +1535,9 @@ history-remember-option-never =
     .label = niemals anlegen
 history-remember-option-custom =
     .label = nach benutzerdefinierten Einstellungen anlegen
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } wird benutzerdefinierte Einstellungen für das Surfen, Downloads, Formulare und Suchchroniken verwenden.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingegebene Formular- und Suchdaten speichern.
