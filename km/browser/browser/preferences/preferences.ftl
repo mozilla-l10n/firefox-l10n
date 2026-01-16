@@ -256,6 +256,9 @@ update-application-use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ដំណើរការ
@@ -275,6 +278,8 @@ performance-limit-content-process-blocked-desc = ការ​កែប្រែ�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (លំនាំដើម)
+performance-group =
+    .label = ដំណើរការ
 
 ## General Section - Browsing
 
@@ -295,6 +300,8 @@ browsing-search-on-start-typing =
     .label = ស្វែងរក​​អក្សរ នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​វាយ
     .accesskey = x
 browsing-cfr-recommendations-learn-more = ស្វែងយល់​បន្ថែម
+browsing-group =
+    .label = រក​មើល
 
 ## General Section - Proxy
 
@@ -309,6 +316,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = វីនដូ និងផ្ទាំងថ្មី
 home-new-windows-tabs-description2 = ជ្រើសអ្វីដែលអ្នកឃើញនៅពេលអ្នកបើកគេហទំព័រ, វីនដូថ្មី, និងផ្ទាំងថ្មី។
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -339,6 +349,12 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -436,6 +452,9 @@ containers-add-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -470,6 +489,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់។
 sync-signedin-login-failure = សូម​ចូល​ដើម្បី​តភ្ជាប់​ឡើង​វិញ { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -481,6 +505,12 @@ sync-remove-account =
 sync-sign-in =
     .label = ចូល
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -567,6 +597,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ប្រវត្តិ
@@ -644,6 +680,12 @@ sitedata-settings =
     .label = គ្រប់គ្រងទិន្នន័យ...
     .accesskey = M
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = របារអាសយដ្ឋាន
@@ -682,6 +724,9 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -737,6 +782,9 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -768,6 +816,12 @@ certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
