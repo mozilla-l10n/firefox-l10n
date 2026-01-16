@@ -249,6 +249,8 @@ browser-containers-settings =
     .label = Налаштування…
     .accesskey = л
 containers-disable-alert-title = Закрити всі вкладки контейнера?
+startup-group =
+    .label = Запуск
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -660,6 +662,9 @@ network-proxy-connection-settings =
 home-new-windows-tabs-header = Нові вікна і вкладки
 home-new-windows-tabs-description2 = Оберіть, що ви хочете бачити, відкриваючи домівку, нові вікна і вкладки.
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Домівка та нові вікна
@@ -992,6 +997,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
