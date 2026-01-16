@@ -555,6 +555,8 @@ performance-limit-content-process-blocked-desc = Aðeins er hægt að breyta fj�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (sjálfgefið)
+performance-group =
+    .label = Afköst
 
 ## General Section - Browsing
 
