@@ -1472,6 +1472,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+payments-group =
+    .label = Plačilna sredstva
 
 ## Privacy Section - History
 
@@ -2038,10 +2040,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } bo nekatere povezave vseeno nadgradil
 httpsonly-radio-disabled =
     .label = Ne omogoči načina "samo HTTPS"
+httpsonly-group =
+    .label = Način "samo HTTPS"
+    .description = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 
 ## DoH Section
 
 preferences-doh-header = DNS prek HTTPS
+dns-over-https-group =
+    .label = DNS prek HTTPS
 preferences-doh-description = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 preferences-doh-description2 = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 # Variables:
