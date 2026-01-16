@@ -1592,6 +1592,8 @@ sitedata-cookies-exceptions2 =
     .label = Upravljanje izjem
     .accesskey = z
     .description = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani.
+cookies-site-data-group =
+    .label = Piškotki in podatki strani
 
 ## Privacy Section - Cookie Banner Handling
 
