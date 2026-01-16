@@ -667,6 +667,8 @@ performance-limit-content-process-blocked-desc = Pe mba’eapo papapy moambue re
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (ijypykue)
+performance-group =
+    .label = Mba’eaporã
 
 ## General Section - Browsing
 
@@ -715,6 +717,8 @@ browsing-cfr-features =
     .label = Eñe’ẽporã tembiapoitére eikundahakuévo
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Kuaave
+browsing-group =
+    .label = Kundaha
 
 ## General Section - Proxy
 
@@ -1483,6 +1487,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Kundaharape ha hetave
 payments-group =
     .label = Mba’éicha ehepyme’ẽta
 
@@ -1516,6 +1522,9 @@ history-remember-option-never =
     .label = Ani nemandu’a tembiasakuére
 history-remember-option-custom =
     .label = Eiporu peteĩ ñemboheko mba’etéva tembiasakuépe g̃uarã
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } oiporúta ñemboheko mba’eteéva, kundaha rehegua, ñemboguejy, myanyhẽha ha jeheka.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
@@ -1545,6 +1554,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tembiasakue ñemopotĩ…
     .accesskey = s
+history-group =
+    .label = Tembiasakue
 
 ## Privacy Section - Site Data
 
