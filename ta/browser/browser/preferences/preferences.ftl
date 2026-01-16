@@ -333,6 +333,9 @@ network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
+network-proxy-group =
+    .label = வலைதள அமைவுகள்
+    .description = { -brand-short-name } எவ்வாறு இணையத்துடன் இணைய வேண்டும் என்பதைக் கட்டமை.
 
 ## Home Section
 
