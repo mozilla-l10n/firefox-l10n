@@ -455,6 +455,8 @@ browsing-cfr-features =
     .label = پیشنهاد دادن ویژگی‌ها همزمان با مرور وب
     .accesskey = f
 browsing-cfr-recommendations-learn-more = بیشتر بدانید
+browsing-group =
+    .label = مرور
 
 ## General Section - Proxy
 
