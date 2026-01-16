@@ -39,6 +39,8 @@ startup-header = Ntangiriro
 tabs-group-header2 =
     .label = Udufishi
 tabs-group-header = Udufishi
+startup-group =
+    .label = Ntangiriro
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -108,6 +110,9 @@ applications-use-other-label =
 ##
 
 
+## Firefox support
+
+
 ## General Section - Performance
 
 
@@ -133,6 +138,9 @@ network-proxy-connection-settings =
 ## Home Section
 
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -146,6 +154,9 @@ use-current-pages =
            *[other] Koresha Paji Ziriho
         }
     .accesskey = I
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -165,6 +176,9 @@ use-current-pages =
 ## Containers Section
 
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -174,6 +188,12 @@ use-current-pages =
 
 ## Variables
 ## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
 
 
 ##
@@ -229,7 +249,7 @@ forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 ## Privacy Section - Cookie Banner Blocking
 
 
-## Privacy Section - Address Bar
+## Search Section
 
 
 ## Privacy Section - Content Blocking
