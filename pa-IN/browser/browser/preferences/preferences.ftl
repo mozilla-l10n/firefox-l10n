@@ -1602,6 +1602,8 @@ sitedata-cookies-exceptions2 =
     .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = X
     .description = ਤੁਸੀਂ ਅਜਿਹੀਆਂ ਸਾਈਟਾਂ ਦੇ ਸਕਦੇ ਹੋ, ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹਮੇਸ਼ਾਂ ਦੇਣੀ ਹੈ ਜਾਂ ਨਹੀਂ ਦੇਣੀ ਹੈ।
+cookies-site-data-group =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 
 ## Privacy Section - Cookie Banner Handling
 
