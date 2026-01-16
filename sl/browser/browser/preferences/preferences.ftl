@@ -303,6 +303,9 @@ browser-layout-show-sidebar-desc = Hitro dostopajte do zaznamkov in zavihkov na 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik in videz
+appearance-group =
+    .label = Videz spletnih strani
+    .description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
 preferences-web-appearance-header = Videz spletnih strani
 preferences-web-appearance-description = Nekatera spletna mesta lahko prilagodijo barvno shemo glede na vaše nastavitve. Izberite barvno shemo, ki jo želite uporabiti za ta spletna mesta.
 preferences-web-appearance-choice-auto2 =
@@ -1534,6 +1537,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Počisti zgodovino …
     .accesskey = č
+history-group =
+    .label = Zgodovina
 
 ## Privacy Section - Site Data
 
