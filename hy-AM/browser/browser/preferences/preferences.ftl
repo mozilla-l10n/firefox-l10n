@@ -1528,6 +1528,8 @@ website-advertising-private-attribution-description = Սա օգնում է կա�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Անվտանգություն
+browsing-protection-group =
+    .label = Խաբուսիկ բովանդակություն և պաշտպանություն վտանգավոր ծրագրերից
 security-browsing-protection = Խաբուսիկ բովանդակություն և պաշտպանություն վտանգավոր ծրագրերից
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը
