@@ -98,6 +98,8 @@ browser-containers-settings =
     .label = Īstatiejumi...
     .accesskey = i
 containers-disable-alert-title = Aiztaisēt vysas cilņu skreines?
+startup-group =
+    .label = Palaišona
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -671,6 +673,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Nūteireit viesturi…
     .accesskey = s
+history-group =
+    .label = Viesture
 
 ## Privacy Section - Site Data
 
