@@ -333,6 +333,9 @@ home-new-windows-tabs-description2 = Pilih apa yang anda mahu lihat apabila anda
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Jadikan Piawai
+    .accesskey = P
 
 ## Custom Homepage subpage
 
