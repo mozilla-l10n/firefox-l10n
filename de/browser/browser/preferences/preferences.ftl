@@ -742,6 +742,9 @@ home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Als Standard festlegen
+    .accesskey = g
 
 ## Custom Homepage subpage
 
