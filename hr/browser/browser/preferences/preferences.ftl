@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Reci web-stranicama da ne prodaju ili dijele moje podatke
     .accesskey = s
+non-technical-privacy-group =
+    .label = Postavke privatnosti web-stranica
 non-technical-privacy-header = Postavke privatnosti web-stranica
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -299,6 +301,9 @@ browser-layout-show-sidebar-desc = Brzo pristupi zabilješkama, karticama s tele
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Jezik i izgled
+appearance-group =
+    .label = Izgled web stranice
+    .description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-header = Izgled web stranice
 preferences-web-appearance-description = Neke web-stranice prilagođavaju svoju shemu boja prema tvojim preferencijama. Odaberi koju shemu boja želiš koristiti na tim stranicama.
 preferences-web-appearance-choice-auto2 =
@@ -668,6 +673,8 @@ performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (standardno)
+performance-group =
+    .label = Performanca
 
 ## General Section - Browsing
 
@@ -716,6 +723,8 @@ browsing-cfr-features =
     .label = Preporuči funkcije tijekom pregledavanja
     .accesskey = m
 browsing-cfr-recommendations-learn-more = Saznaj više
+browsing-group =
+    .label = Pregledavanje
 
 ## General Section - Proxy
 
@@ -1477,6 +1486,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adrese i više
+payments-group =
+    .label = Načini plaćanja
 
 ## Privacy Section - History
 
@@ -1537,6 +1550,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Izbriši povijest
     .accesskey = s
+history-group =
+    .label = Povijest
 
 ## Privacy Section - Site Data
 
