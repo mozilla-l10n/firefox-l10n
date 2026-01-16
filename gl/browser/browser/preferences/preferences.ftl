@@ -553,6 +553,8 @@ performance-limit-content-process-blocked-desc = Modificar o número de procesos
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predeterminado)
+performance-group =
+    .label = Rendemento
 
 ## General Section - Browsing
 
@@ -1641,10 +1643,15 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } aínda pode actualizar algunhas conexións
 httpsonly-radio-disabled =
     .label = Non activar o modo só HTTPS
+httpsonly-group =
+    .label = Modo só HTTPS
+    .description = Só permite conexións seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group =
+    .label = DNS sobre HTTPS
 preferences-doh-description = O sistema de nomes de dominio (DNS) sobre HTTPS envía a súa solicitude de nome de dominio a través dunha conexión cifrada, creando un DNS seguro e dificultando que outros poidan ver a que sitio web está a piques de acceder.
 preferences-doh-description2 = O sistema de nomes de dominio (DNS) sobr HTTPS envía a túa petición de nome de dominio a través dunha conexión cifrada, proporcionando un DNS seguro e dificultando que outros poidan ver a que sitio web estás a piques de acceder.
 # Variables:
