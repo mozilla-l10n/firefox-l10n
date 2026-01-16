@@ -673,6 +673,8 @@ performance-limit-content-process-blocked-desc = Zmena počtu procesov s obsahom
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (predvolená)
+performance-group =
+    .label = Výkon
 
 ## General Section - Browsing
 
