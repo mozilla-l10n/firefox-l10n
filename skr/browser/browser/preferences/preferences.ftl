@@ -11,6 +11,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ویب سائٹاں کوں آکھو جو میݙا ڈیٹا نہ ویچِن تے نہ کئیں کوں ݙِکھاوِن
     .accesskey = ݙ
+non-technical-privacy-group =
+    .label = ویب سائٹ رازداری ترجیحاں
 non-technical-privacy-header = ویب سائٹ رازداری ترجیحاں
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -183,6 +185,8 @@ browser-containers-settings =
     .label = ترتیباں …
     .accesskey = i
 containers-disable-alert-title = تمام کنٹینر ٹیباں بند کرو؟
+startup-group =
+    .label = سٹارٹ اپ
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -218,6 +222,9 @@ settings-tabs-show-image-in-preview =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زبان تے ظاہری شکل
+appearance-group =
+    .label = ویب سائٹ دی ظاہری شکل
+    .description = کجھ ویب سائٹاں تہاݙیاں ترجیحاں دی بنیاد تے اپݨی رنگ سکیم کوں اپݨیندیدیاں ہن۔ منتخب کرو جو تساں انہاں سائٹاں کیتے کیڑھی رنگ سکیم استعمال کرݨ چاہندے او۔
 preferences-web-appearance-header = ویب سائٹ دی ظاہری شکل
 preferences-web-appearance-description = کجھ ویب سائٹاں تہاݙیاں ترجیحاں دی بنیاد تے اپݨی رنگ سکیم کوں اپݨیندیدیاں ہن۔ منتخب کرو جو تساں انہاں سائٹاں کیتے کیڑھی رنگ سکیم استعمال کرݨ چاہندے او۔
 preferences-web-appearance-choice-auto2 =
@@ -493,6 +500,8 @@ performance-limit-content-process-blocked-desc = مواد دے عمل دی تع�
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (طے شدہ)
+performance-group =
+    .label = کارکردگی
 
 ## General Section - Browsing
 
@@ -536,6 +545,8 @@ browsing-cfr-features =
     .label = براؤز کریندے ویلھے خصوصیت تجویز کرو
     .accesskey = f
 browsing-cfr-recommendations-learn-more = ٻیا سِکھو
+browsing-group =
+    .label = براؤزنگ
 
 ## General Section - Proxy
 
@@ -1120,6 +1131,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = تاریخ صاف کرو…
     .accesskey = s
+history-group =
+    .label = تاریخ
 
 ## Privacy Section - Site Data
 
@@ -1434,6 +1447,8 @@ website-advertising-private-attribution =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = سلامتی
+browsing-protection-group =
+    .label = گمراہ کن مواد تے خطرناک سافٹ ویئر پروٹیکشن
 security-browsing-protection = گمراہ کن مواد تے خطرناک سافٹ ویئر پروٹیکشن
 security-enable-safe-browsing =
     .label = خطرناک تے گمراہ کن مواد کوں بلاک کرو
@@ -1483,6 +1498,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS تے DNS
+dns-over-https-group =
+    .label = HTTPS تے DNS
 preferences-doh-description = HTTPS تے ڈومین نیم سسٹم (DNS) ہک خفیہ کنکشن دے ذریعے ڈومین ناں کیتے تہاݙی ارداس پٹھیندے، ہک محفوظ DNS بݨیندا ہے تے ٻنھاں کیتے ایہ اوکھیرا بݨیندا  ہے جو تساں کہڑی ویب سائٹ تائیں رسائی حاصل کرݨ آلے ہو۔
 preferences-doh-description2 = ایچ ٹی ٹی پی ایس کنوں وَدھ ڈومین ناں دا نظام (ڈی این ایس) ہِک خفیہ کِیتے ڳئے کنکشن دے ذریعے تُہاݙی عرضی کوں ڈومین دے ناں کِیتے گَھلین٘دا ہِے، ہِک محفوظ ڈی این ایس فراہم کرین٘دا ہِے اَتے ٻِنّھاں کوں اِیہ ݙیکھݨ اَوکھا بݨین٘دا ہِے جو تُساں کہڑی ویب سائٹ تئیں رسائل حاصل کرݨ وین٘دے پئے ہِیوے۔
 # Variables:
