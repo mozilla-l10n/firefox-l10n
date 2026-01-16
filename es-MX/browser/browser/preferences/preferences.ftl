@@ -524,6 +524,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -597,11 +600,17 @@ network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Configurar…
     .accesskey = C
+network-proxy-group =
+    .label = Configuración de conexión
+    .description = Configurar como { -brand-short-name } se conecta a internet.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige que quieres ver cuando abras tu página de inicio, nuevas ventanas y nuevas pestañas.
+
+## Home Section - Default Browser
+
 
 ## Custom Homepage subpage
 
@@ -634,6 +643,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -853,6 +868,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
