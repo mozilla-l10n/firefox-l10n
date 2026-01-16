@@ -1482,6 +1482,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Címek és egyebek
+payments-group =
+    .label = Fizetési módok
 
 ## Privacy Section - History
 
