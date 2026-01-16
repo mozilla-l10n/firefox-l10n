@@ -1466,6 +1466,10 @@ payments-list-item-label = <strong>Metodi di pagamento</strong>
 payments-delete-payment-prompt-title = Eliminare questo metodo di pagamento?
 payments-delete-payment-prompt-confirm-button = Elimina
 payments-delete-payment-prompt-cancel-button = Annulla
+payments-delete-payment-button-label =
+    .aria-label = Elimina
+payments-edit-payment-button-label =
+    .aria-label = Modifica
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nessun metodo di pagamento aggiunto
@@ -2107,6 +2111,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modalità solo HTTPS
     .description = Consente solo connessioni sicure ai siti web. { -brand-short-name } chiederà prima di stabilire una connessione non sicura.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
