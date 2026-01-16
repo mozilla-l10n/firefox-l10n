@@ -12,6 +12,8 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Web sitelerine verilerimi satmamalarını ve paylaşmamalarını söyle
     .accesskey = W
+non-technical-privacy-group =
+    .label = Web sitesi gizlilik tercihleri
 non-technical-privacy-header = Web sitesi gizlilik tercihleri
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -296,6 +298,9 @@ browser-layout-show-sidebar-desc = Ana görünümünüzden ayrılmadan yer imler
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Dil ve görünüm
+appearance-group =
+    .label = Web sitesi görünümü
+    .description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
 preferences-web-appearance-header = Web sitesi görünümü
 preferences-web-appearance-description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
 preferences-web-appearance-choice-auto2 =
@@ -2073,6 +2078,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = HTTPS üzerinden DNS
+dns-over-https-group =
+    .label = HTTPS üzerinden DNS
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:
