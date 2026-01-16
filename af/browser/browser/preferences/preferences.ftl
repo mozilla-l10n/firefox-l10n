@@ -315,6 +315,9 @@ home-new-windows-tabs-header = Nuwe Vensters en Oortjies
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Maak verstek
+    .accesskey = D
 
 ## Custom Homepage subpage
 
