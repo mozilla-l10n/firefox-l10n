@@ -572,6 +572,9 @@ home-new-windows-tabs-description2 = Causissètz çò que volètz veire en dobri
 
 ## Home Section - Default Browser
 
+set-as-my-default-browser-2 =
+    .label = Definir per defaut
+    .accesskey = D
 
 ## Custom Homepage subpage
 
