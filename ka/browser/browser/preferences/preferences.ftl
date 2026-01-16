@@ -578,9 +578,6 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -1002,11 +999,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 

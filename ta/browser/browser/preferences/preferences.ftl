@@ -278,9 +278,6 @@ update-in-progress-ok-button = & நிராகரி
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &தொடரவும்
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = செயல்திறன்
@@ -378,12 +375,6 @@ choose-bookmark =
     .label = புத்தககுறியை பயன்படுத்தவும்...
     .accesskey = ப
 
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -479,9 +470,6 @@ containers-add-button =
 containers-remove-button =
     .label = நீக்கு
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -516,11 +504,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } இது உறுதிப்படுத்தவில்லை.
 sync-signedin-login-failure = தயவுச்செய்து மீண்டும் இணைய உள்நுழையவும் { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -532,12 +515,6 @@ sync-remove-account =
 sync-sign-in =
     .label = புகுபதிகை
     .accesskey = g
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -623,12 +600,6 @@ forms-master-pw-change =
     .label = முதன்மை கடவுச்சொல்லை மாற்றவும்...
     .accesskey = M
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -717,12 +688,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = நினைவிகள் மற்றும் தள தரவு
 
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
-
 ## Search Section
 
 addressbar-header = முகவரி பட்டை
@@ -755,15 +720,6 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
-
-##
-
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -823,9 +779,6 @@ addon-recommendations-link = மேலும் அறிக
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -859,12 +812,6 @@ certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
 certs-devices-enable-fips = FIPSஐ செயல்படுத்து
-
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

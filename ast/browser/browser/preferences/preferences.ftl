@@ -360,9 +360,6 @@ update-in-progress-ok-button = &Escartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Siguir
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rindimientu
@@ -474,12 +471,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -651,11 +642,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ta ensin verificar.
 sync-signedin-login-failure = Anicia sesión pa volver conectate a { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -829,9 +815,6 @@ primary-password-os-auth-dialog-message-win = Pa crear una contraseña primaria,
 primary-password-os-auth-dialog-message-macosx = crear una contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Historial
@@ -937,12 +920,6 @@ sitedata-cookies-exceptions =
     .accesskey = X
 cookies-site-data-group =
     .label = Cookies y datos de los sitios
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1129,9 +1106,6 @@ collection-health-report-disabled = L'informe de datos ta desactiváu na configu
 collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos <a data-l10n-name="crash-reports-link">Llleer más</a>
     .accesskey = c
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1176,9 +1150,6 @@ httpsonly-radio-enabled-pbm =
     .label = Activar el mou de namás HTTPS únicamente nes ventanes privaes
 httpsonly-radio-disabled =
     .label = Nun activar el mou de namás HTTPS
-
-## DoH Section
-
 
 ## The following strings are used in the Download section of settings
 

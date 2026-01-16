@@ -486,9 +486,6 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Performanças
@@ -607,12 +604,6 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -809,11 +800,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
