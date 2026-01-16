@@ -2007,6 +2007,8 @@ website-advertising-private-attribution-description = 此功能可帮助网站�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 安全
+browsing-protection-group =
+    .label = 欺诈内容和危险软件防护
 security-browsing-protection = 欺诈内容和危险软件防护
 security-enable-safe-browsing =
     .label = 拦截危险与诈骗内容
@@ -2070,6 +2072,8 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = 基于 HTTPS 的 DNS
+dns-over-https-group =
+    .label = 基于 HTTPS 的 DNS
 preferences-doh-description = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而建立安全 DNS 连接，使他人更难得知您要访问的网站。
 preferences-doh-description2 = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而提供安全 DNS，使他人更难得知您要访问的网站。
 # Variables:
