@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Синхрондау
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = ЖИ басқару элементтері
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = Үй парағын, жаңа терезе�
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Негізгі браузері
+is-default-browser-2 =
+    .message = { -brand-short-name } жүйеңіздің негізгі браузер болып тұр. Жақсы таңдау.
+is-not-default-browser-2 =
+    .message = Айтпақшы, { -brand-short-name } сіздің негізгі браузеріңіз емес.
 set-as-my-default-browser-2 =
     .label = Негізгі браузер қылу
     .accesskey = Н
@@ -1460,6 +1469,10 @@ payments-list-item-label = <strong>Төлем әдістері</strong>
 payments-delete-payment-prompt-title = Бұл төлем әдісін өшіру керек пе?
 payments-delete-payment-prompt-confirm-button = Өшіру
 payments-delete-payment-prompt-cancel-button = Бас тарту
+payments-delete-payment-button-label =
+    .aria-label = Өшіру
+payments-edit-payment-button-label =
+    .aria-label = Түзету
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Төлем әдістері қосылмаған
@@ -2101,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Тек-HTTPS режимі
     .description = Веб-сайттарға так қауіпсіз қосылуға рұқсат береді. Қауіпсіз емес қосылым орнатылмас бұрын { -brand-short-name } сізден сұрайды.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2168,3 +2183,19 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Жұмыс үстелі
 downloads-folder-name = Жүктемелер
 choose-download-folder-title = Жүктемелер сақталатын буманы таңдаңыз:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-confirmation-heading = ЖИ жақсартуларын бұғаттау керек пе?
+preferences-ai-controls-block-confirmation-features-start = Не бұғатталады:
+preferences-ai-controls-block-confirmation-translations = Аудармалар
+preferences-ai-controls-block-confirmation-pdfjs = { -brand-short-name } PDF қарау құралындағы суреттің балама мәтіні
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Беттер тобының ұсыныстары
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Бас тарту
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Блоктау
