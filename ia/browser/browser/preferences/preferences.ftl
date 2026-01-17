@@ -2192,7 +2192,7 @@ preferences-ai-controls-description = Tu sempre ha  optiones in { -brand-short-n
 preferences-ai-controls-block-ai-label = Blocar meliorationes de IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Activante le blocada tu non videra nove o actual meliorationes de IA in { -brand-short-name }, ni quadros resaltante re illos. <a data-l10n-name="ligamine">Obtene altere detalios</a> re lo que es includite e como controlar le functionalitates traditional de apprendimento automatic, como le suggestiones de recerca e le recommendationes.
+preferences-ai-controls-block-ai-description = Activante le blocada tu non videra nove o actual meliorationes de IA in { -brand-short-name }, ni quadros resaltante re illos. <a data-l10n-name="link">Obtene altere detalios</a> re lo que es includite e como controlar le functionalitates traditional de apprendimento automatic, como le suggestiones de recerca e le recommendationes.
 preferences-ai-controls-blocked-message =
     .message = Le meliorationes de IA nove e actual es blocate de ordinario. Pro disblocar un characteristica specific, usa le commandos sequente.
 preferences-ai-controls-on-device-group =
