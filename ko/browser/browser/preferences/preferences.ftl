@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI 제어
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } 실험
 category-experimental =
     .tooltiptext = { -brand-short-name } 실험
@@ -730,6 +733,12 @@ home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 �
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = 기본 브라우저
+is-default-browser-2 =
+    .message = { -brand-short-name }가 기본 브라우저입니다. 좋은 선택입니다.
+is-not-default-browser-2 =
+    .message = 잠깐, { -brand-short-name }가 기본 브라우저가 아닙니다.
 set-as-my-default-browser-2 =
     .label = 기본 브라우저로
     .accesskey = D
