@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = להשתמש בפרופיל הנבחר מבלי לשאול בהפעלה
     .accesskey = נ
+profile-has-selectable-profiles-title = לא ניתן למחוק פרופיל המקושר לפרופילים אחרים
+profile-has-selectable-profiles-message = כדי למחוק את פרופיל זה, יש לפתוח אותו ולבחור באפשרות ״ניהול פרופילים״ ממקטע הפרופילים בתפריט של { -brand-short-name }. לאחר מחיקת כל פרופיל נוסף שיצרת כאן, יהיה ניתן לחזור אל about:profiles ולמחוק פרופיל זה.

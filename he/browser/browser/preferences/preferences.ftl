@@ -2191,7 +2191,7 @@ preferences-ai-controls-description = תמיד יש לך אפשרות בחירה
 preferences-ai-controls-block-ai-label = חסימת שיפורי בינה מלאכותית
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = חסימה פירושה שלא יוצגו שיפורי בינה מלאכותית חדשים או נוכחיים ב-{ -brand-short-name }, או חלונות קופצים לגביהם. <a data-l10n-name="link">קבלת פרטים נוספים</a> על מה כלול וכיצד לשלוט בתכונות למידת מכונה מסורתיות, כמו הצעות חיפוש והמלצות.
+preferences-ai-controls-block-ai-description = חסימה פירושה שלא יוצגו שיפורי בינה מלאכותית חדשים או קיימים ב-{ -brand-short-name }, או חלונות קופצים לגביהם. <a data-l10n-name="link">קבלת פרטים נוספים</a> על מה כלול וכיצד לשלוט בתכונות למידת מכונה מסורתיות, כמו הצעות חיפוש והמלצות.
 preferences-ai-controls-blocked-message =
     .message = שיפורי בינה מלאכותית חדשים ונוכחיים חסומים כברירת מחדל. כדי לבטל חסימה של תכונה ספציפית, יש להשתמש בפקדים שלהלן.
 preferences-ai-controls-on-device-group =
@@ -2229,3 +2229,15 @@ preferences-ai-controls-state-description-available = <strong>זמין:</strong>
 preferences-ai-controls-state-description-enabled = <strong>מופעל:</strong> בחרת להשתמש בתכונה.
 preferences-ai-controls-state-description-blocked = <strong>חסום:</strong> התכונה לא גלויה ולא ניתן להשתמש בה. עבור בינה מלאכותית במכשיר, כל המודלים שכבר הורדו יוסרו.
 preferences-ai-controls-block-confirmation-heading = לחסום שיפורי בינה מלאכותית?
+preferences-ai-controls-block-confirmation-description = לא יוצגו שיפורי בינה מלאכותית חדשים או קיימים ב־{ -brand-short-name }, או חלונות קופצים לגביהם. לאחר מכן, יהיה באפשרותך לבטל את החסימה של כל דבר שברצונך להמשיך להשתמש.
+preferences-ai-controls-block-confirmation-features-start = מה ייחסם:
+preferences-ai-controls-block-confirmation-translations = תרגומים
+preferences-ai-controls-block-confirmation-pdfjs = טקסט חלופי לתמונה במציג PDF של { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = הצעות לקבוצות לשוניות
+preferences-ai-controls-block-confirmation-key-points = נקודות מפתח בתצוגות מקדימות של קישורים
+preferences-ai-controls-block-confirmation-sidebar-chatbot = ספקי צ’אטבוטים בסרגל הצד
+preferences-ai-controls-block-confirmation-features-after = החסימה משפיעה גם על הרחבות המשתמשות בבינה מלאכותית המסופקת על־ידי { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = ביטול
+preferences-ai-controls-block-confirmation-confirm =
+    .label = חסימה
