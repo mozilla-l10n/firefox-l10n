@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
 newtab-widget-manage-title = Widgetar
+newtab-widget-manage-widget-button =
+    .label = Handsam widgetar
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Lat att
