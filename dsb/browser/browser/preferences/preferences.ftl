@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synchronizěrowaś
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Wóźeńske elementy KI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
@@ -748,6 +751,12 @@ home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standardny wobglědowak
+is-default-browser-2 =
+    .message = { -brand-short-name } jo waš standardny wobglědowak. Dobra wólba.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } njejo waš standardny wobglědowak.
 set-as-my-default-browser-2 =
     .label = K standardoju cyniś
     .accesskey = s
@@ -1468,6 +1477,10 @@ payments-list-item-label = <strong>Płaśeńske metody</strong>
 payments-delete-payment-prompt-title = Toś tu płaśeńsku metodu lašowaś?
 payments-delete-payment-prompt-confirm-button = Lašowaś
 payments-delete-payment-prompt-cancel-button = Pśetergnuś
+payments-delete-payment-button-label =
+    .aria-label = Lašowaś
+payments-edit-payment-button-label =
+    .aria-label = Wobźěłaś
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Žedne płaśeńske metody pśidane
@@ -2109,6 +2122,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modus Jano-HTTPS
     .description = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2176,3 +2191,31 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Ześěgnjenja
 choose-download-folder-title = Zarědnik ześěgnjenjow wubraś:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Pólěpšenja KI blokěrowaś
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-on-device-group =
+    .label = KI na rěźe
+    .description = Toś te małe modele KI, kótarež se na waš rěd ześěguju, jolic funkciju wužywaśo. Toś ten nałog póstupowanja pomaga, wašu priwatnosć šćitaś.
+preferences-ai-controls-translations-control =
+    .label = Pśełožki
+    .description = Pśeglědujśo web w swójej preferěrowanej rěcy.
+preferences-ai-controls-translations-more-link = Dalšne nastajenja pśełožowanja
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot w bocnicy
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Stoj k dispoziciji
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Zmóžnjony
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokěrowany
+preferences-ai-controls-state-description-before = Což nastajenja wóznamjeniju:
+preferences-ai-controls-block-confirmation-heading = Pólěpšenja KI blokěrowaś?
