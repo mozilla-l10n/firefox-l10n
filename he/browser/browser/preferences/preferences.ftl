@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = סנכרון
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = בקרי בינה מלאכותית
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = ניסויים של { -brand-short-name }
 category-experimental =
     .tooltiptext = ניסויים של { -brand-short-name }
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = דפדפן ברירת מחדל
+is-default-browser-2 =
+    .message = { -brand-short-name } הוא דפדפן ברירת המחדל שלך. בחירה טובה.
+is-not-default-browser-2 =
+    .message = פססט, { -brand-short-name } אינו דפדפן ברירת המחדל שלך.
 set-as-my-default-browser-2 =
     .label = הגדרה כדפדפן ברירת המחדל
     .accesskey = ב
@@ -1460,6 +1469,10 @@ payments-list-item-label = <strong>אמצעי תשלום</strong>
 payments-delete-payment-prompt-title = למחוק את אמצעי התשלום הזה?
 payments-delete-payment-prompt-confirm-button = מחיקה
 payments-delete-payment-prompt-cancel-button = ביטול
+payments-delete-payment-button-label =
+    .aria-label = מחיקה
+payments-edit-payment-button-label =
+    .aria-label = עריכה
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = לא נוספו אמצעי תשלום
@@ -2100,6 +2113,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = מצב HTTPS בלבד
     .description = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2167,3 +2182,12 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = שולחן עבודה
 downloads-folder-name = הורדות
 choose-download-folder-title = בחירת תיקייה להורדה:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = תמיד יש לך אפשרות בחירה ב־{ -brand-short-name }, לרבות האם להשתמש בתכונות משופרות באמצעות בינה מלאכותית. בקרוב יהיו הגדרות נוספות.
+preferences-ai-controls-block-ai-label = חסימת שיפורי בינה מלאכותית
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
