@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synkronisering
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI-kontrollar
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-eksperiment
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiment
@@ -742,6 +745,8 @@ home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standard nettlesar
 set-as-my-default-browser-2 =
     .label = Bruk som standard
     .accesskey = S
@@ -1457,6 +1462,10 @@ payments-list-item-label = <strong>Betalingsmåtar</strong>
 payments-delete-payment-prompt-title = Slette denne betalingsmåten?
 payments-delete-payment-prompt-confirm-button = Slett
 payments-delete-payment-prompt-cancel-button = Avbryt
+payments-delete-payment-button-label =
+    .aria-label = Slett
+payments-edit-payment-button-label =
+    .aria-label = Rediger
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmåtar lagt til
@@ -2095,6 +2104,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Berre HTTPS-modus
     .description = Tillèt berre sikre tilkoplingar til nettstadar. { -brand-short-name } vil spørje før du koplar til på ein usikker måte.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2162,3 +2173,31 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Skrivebord
 downloads-folder-name = Nedlastingar
 choose-download-folder-title = Vel nedlastingsmappe:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-on-device-group =
+    .label = AI på eininga
+    .description = Desse brukar små AI-modellar som blir lasta ned til eininga di om du brukar funksjonen. Denne tilnærminga bidreg til å verne personvernet ditt.
+preferences-ai-controls-translations-more-link = Fleire omsettingsinnstillingar
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot i sidestolpen
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Tilgjengeleg
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Slå på
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokkert
+preferences-ai-controls-block-confirmation-features-start = Kva som vil bli blokkert:
+preferences-ai-controls-block-confirmation-translations = Omsetjingar
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Avbryt
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blokker
