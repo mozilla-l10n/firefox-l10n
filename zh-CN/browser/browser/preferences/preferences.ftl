@@ -2177,3 +2177,5 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-confirmation-cancel =
+    .label = 取消
