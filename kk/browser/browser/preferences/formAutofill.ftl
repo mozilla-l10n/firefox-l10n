@@ -110,12 +110,12 @@ autofill-address-oblast = Облыс
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
 # Postal code field used in India (IN).
-autofill-address-pin = Пошта индексі
+autofill-address-pin = Pin
 autofill-address-postal-code = Пошта индексі
 # Postal code field.
 autofill-address-zip = Пошта индексі
 # Postal code field used in Ireland (IE).
-autofill-address-eircode = Пошта индексі
+autofill-address-eircode = Eircode
 
 ##
 
