@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI Controls
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = Choose what you see when you open your home
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Default browser
+is-default-browser-2 =
+    .message = { -brand-short-name } is your default browser. Good choice.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } isn’t your default.
 set-as-my-default-browser-2 =
     .label = Make Default
     .accesskey = D
@@ -1460,6 +1469,10 @@ payments-list-item-label = <strong>Payment methods</strong>
 payments-delete-payment-prompt-title = Delete this payment method?
 payments-delete-payment-prompt-confirm-button = Delete
 payments-delete-payment-prompt-cancel-button = Cancel
+payments-delete-payment-button-label =
+    .aria-label = Delete
+payments-edit-payment-button-label =
+    .aria-label = Edit
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = No payment methods added
@@ -2101,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS-Only Mode
     .description = Only allows secure connections to web sites. { -brand-short-name } will ask before connecting insecurely.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2168,3 +2183,62 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = You always have a choice in { -brand-short-name }, including whether to use features enhanced with AI. More controls coming soon.
+preferences-ai-controls-block-ai-label = Block AI enhancements
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blocking means you won’t see new or current AI enhancements in { -brand-short-name }, or pop-ups about them. <a data-l10n-name="link">Get more details</a> about what’s included and how to control traditional machine learning features, like search suggestions and recommendations.
+preferences-ai-controls-blocked-message =
+    .message = New and current AI enhancements are blocked by default. To unblock a specific feature, use the controls below.
+preferences-ai-controls-on-device-group =
+    .label = On-device AI
+    .description = These use small AI models that download to your device if you use the feature. This approach helps protect your privacy.
+preferences-ai-controls-translations-control =
+    .label = Translations
+    .description = Seamlessly browse the web in your preferred language.
+preferences-ai-controls-translations-more-link = More translations settings
+preferences-ai-controls-pdfjs-control =
+    .label = Image alt text in { -brand-short-name } PDF viewer
+    .description = When you add images to PDFs, this adds descriptions to make them accessible.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Tab group suggestions
+    .description = Get suggestions to name and organise your tabs.
+preferences-ai-controls-key-points-control =
+    .label = Key points in link previews
+    .description = See a quick summary before opening a link.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = AI chatbot providers in sidebar
+    .description = Keep a chatbot in view as you browse. Choose from Anthropic Claude, ChatGPT, Copilot, Google Gemini, and Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot in sidebar
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Available
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Enabled
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blocked
+preferences-ai-controls-state-description-before = What the options mean:
+preferences-ai-controls-state-description-available = <strong>Available:</strong> You’ll see the feature and can use it.
+preferences-ai-controls-state-description-enabled = <strong>Enabled:</strong> You’ve opted in to use the feature.
+preferences-ai-controls-state-description-blocked = <strong>Blocked:</strong> You won’t see and can’t use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-block-confirmation-heading = Block AI enhancements?
+preferences-ai-controls-block-confirmation-description = You won’t see new or current AI enhancements in { -brand-short-name }, or pop-ups about them. Afterwards, you can unblock anything you want to keep using.
+preferences-ai-controls-block-confirmation-features-start = What will be blocked:
+preferences-ai-controls-block-confirmation-translations = Translations
+preferences-ai-controls-block-confirmation-pdfjs = Image alt text in { -brand-short-name } PDF viewer
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Tab group suggestions
+preferences-ai-controls-block-confirmation-key-points = Key points in link previews
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbot providers in sidebar
+preferences-ai-controls-block-confirmation-features-after = Blocking also affects extensions that use AI provided by { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancel
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Block
