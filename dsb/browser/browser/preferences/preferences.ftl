@@ -2196,9 +2196,13 @@ choose-download-folder-title = Zarědnik ześěgnjenjow wubraś:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Maśo pśecej wólbu w { -brand-short-name }, mjazy drugim, lěc cośo funkcije wužywaś, kótarež su z KI pólěpšone. Dalšne wóźeńske elementy skóro pśidu.
 preferences-ai-controls-block-ai-label = Pólěpšenja KI blokěrowaś
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokěrowanje groni, až nowe abo aktualne pólěpšenja KI abo wuskokujuce wokna wó nich w { -brand-short-name } njewiźiśo. <a data-l10n-name="link">Zgóńśo dalšne drobnostki</a> wó tom, což jo wopśimjone a kak móžośo tradicionelne funkcije mašinelnego wuknjenja kaž pytańske naraźenja a dopórucenja wóźiś.
+preferences-ai-controls-blocked-message =
+    .message = Nowe a aktualne pólěpšenja KI su pó standarźe blokěrowane. Aby blokěrowanje za wěstu funkciju wótpórał, wužywajśo slědujuce wóźeńske elementy.
 preferences-ai-controls-on-device-group =
     .label = KI na rěźe
     .description = Toś te małe modele KI, kótarež se na waš rěd ześěguju, jolic funkciju wužywaśo. Toś ten nałog póstupowanja pomaga, wašu priwatnosć šćitaś.
