@@ -1453,6 +1453,10 @@ payments-list-item-label = <strong>결제 수단</strong>
 payments-delete-payment-prompt-title = 이 결제 수단을 삭제하시겠습니까?
 payments-delete-payment-prompt-confirm-button = 삭제
 payments-delete-payment-prompt-cancel-button = 취소
+payments-delete-payment-button-label =
+    .aria-label = 삭제
+payments-edit-payment-button-label =
+    .aria-label = 편집
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 추가된 결제 수단 없음
@@ -2094,6 +2098,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS 전용 모드
     .description = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2161,3 +2167,21 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = 바탕 화면
 downloads-folder-name = 다운로드
 choose-download-folder-title = 다운로드 폴더 선택:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = AI로 향상된 기능을 사용할지 여부를 포함하여 항상 { -brand-short-name }에서 선택할 수 있습니다. 더 많은 제어 옵션이 곧 제공될 예정입니다.
+preferences-ai-controls-block-ai-label = AI 향상 차단
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-blocked-message =
+    .message = 신규 및 현재 AI 향상은 기본적으로 차단됩니다. 특정 기능을 차단 해제하려면 아래 컨트롤을 사용하세요.
+preferences-ai-controls-on-device-group =
+    .label = 온디바이스 AI
+    .description = 이 기능을 사용하면 기기에 다운로드되는 작은 AI 모델을 사용합니다. 이 접근 방식은 개인 정보를 보호하는 데 도움이 됩니다.
+preferences-ai-controls-translations-control =
+    .label = 번역
+    .description = 원하는 언어로 웹을 원활하게 탐색하세요.
+preferences-ai-controls-translations-more-link = 기타 번역 설정
