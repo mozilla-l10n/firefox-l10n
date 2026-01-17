@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Đồng bộ hóa
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Kiểm soát trí tuệ nhân tạo (AI)
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Thử nghiệm { -brand-short-name }
 category-experimental =
     .tooltiptext = Thử nghiệm { -brand-short-name }
@@ -730,6 +733,12 @@ home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn m
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Trình duyệt mặc định
+is-default-browser-2 =
+    .message = { -brand-short-name } là trình duyệt mặc định của bạn. Lựa chọn tốt đấy.
+is-not-default-browser-2 =
+    .message = Này, hiện tại { -brand-short-name } không phải là trình duyệt mặc định của bạn.
 set-as-my-default-browser-2 =
     .label = Đặt làm mặc định
     .accesskey = D
@@ -1444,6 +1453,10 @@ payments-list-item-label = <strong>Phương thức thanh toán</strong>
 payments-delete-payment-prompt-title = Xoá phương thức thanh toán này?
 payments-delete-payment-prompt-confirm-button = Xóa
 payments-delete-payment-prompt-cancel-button = Hủy bỏ
+payments-delete-payment-button-label =
+    .aria-label = Xóa
+payments-edit-payment-button-label =
+    .aria-label = Chỉnh sửa
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Không có phương thức thanh toán nào được thêm
@@ -2085,6 +2098,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Chế độ chỉ HTTPS
     .description = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2152,3 +2167,62 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Bàn làm việc
 downloads-folder-name = Tải xuống
 choose-download-folder-title = Chọn thư mục tải xuống:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Bạn luôn có quyền lựa chọn trong { -brand-short-name }, bao gồm cả việc sử dụng các tính năng được tăng cường bởi trí tuệ nhân tạo. Nhiều tùy chọn hơn sẽ sớm được bổ sung.
+preferences-ai-controls-block-ai-label = Chặn cải tiến AI
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Chặn có nghĩa là bạn sẽ không thấy các cải tiến AI mới hoặc hiện tại trong { -brand-short-name }, hoặc các cửa sổ bật lên về chúng. <a data-l10n-name="link">Xem thêm chi tiết</a> về những gì được bao gồm và cách kiểm soát các tính năng học máy truyền thống, chẳng hạn như gợi ý và đề xuất tìm kiếm.
+preferences-ai-controls-blocked-message =
+    .message = Các tính năng nâng cao AI mới và hiện tại đều bị chặn theo mặc định. Để bỏ chặn một tính năng cụ thể, hãy sử dụng các điều khiển bên dưới.
+preferences-ai-controls-on-device-group =
+    .label = AI trên thiết bị
+    .description = Các ứng dụng này sử dụng các mô hình AI nhỏ được tải xuống thiết bị của bạn nếu bạn sử dụng tính năng này. Cách tiếp cận này giúp bảo vệ quyền riêng tư của bạn.
+preferences-ai-controls-translations-control =
+    .label = Dịch thuật
+    .description = Dễ dàng duyệt web bằng ngôn ngữ bạn ưa thích.
+preferences-ai-controls-translations-more-link = Cài đặt dịch thuật khác
+preferences-ai-controls-pdfjs-control =
+    .label = Văn bản thay thế cho hình ảnh trong trình xem PDF của { -brand-short-name }
+    .description = Khi bạn thêm hình ảnh vào tập tin PDF, thao tác này sẽ thêm mô tả để giúp hình ảnh dễ đọc hơn.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Gợi ý nhóm thẻ
+    .description = Nhận gợi ý để đặt tên và sắp xếp các thẻ của bạn.
+preferences-ai-controls-key-points-control =
+    .label = Nội dung chính trong bản xem trước liên kết
+    .description = Xem tóm tắt nhanh trước khi mở liên kết.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Các nhà cung cấp chatbot AI ở thanh lề
+    .description = Hãy luôn để chatbot hiển thị trong tầm nhìn khi bạn duyệt web. Chọn từ Anthropic Claude, ChatGPT, Copilot, Google Gemini, và Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot ở thanh lề
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Có sẵn
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Đã bật
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Đã chặn
+preferences-ai-controls-state-description-before = Ý nghĩa của tùy chọn:
+preferences-ai-controls-state-description-available = <strong>Có sẵn:</strong> Bạn sẽ thấy và có thể sử dụng nó.
+preferences-ai-controls-state-description-enabled = <strong>Đã bật:</strong> Bạn đã chọn sử dụng tính năng này.
+preferences-ai-controls-state-description-blocked = <strong>Đã chặn:</strong> Bạn sẽ không thấy và không thể sử dụng tính năng này. Đối với AI trên thiết bị, mọi mô hình đã tải xuống trước đó sẽ bị xóa.
+preferences-ai-controls-block-confirmation-heading = Chặn các cải tiến AI?
+preferences-ai-controls-block-confirmation-description = Bạn sẽ không thấy các cải tiến AI mới hoặc hiện tại trong { -brand-short-name }, hoặc các cửa sổ bật lên về chúng. Sau đó, bạn có thể bỏ chặn bất cứ thứ gì bạn muốn tiếp tục sử dụng.
+preferences-ai-controls-block-confirmation-features-start = Những gì sẽ bị chặn:
+preferences-ai-controls-block-confirmation-translations = Dịch thuật
+preferences-ai-controls-block-confirmation-pdfjs = Văn bản thay thế cho hình ảnh trong trình xem PDF của { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Gợi ý nhóm thẻ
+preferences-ai-controls-block-confirmation-key-points = Nội dung chính trong bản xem trước liên kết
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Các nhà cung cấp chatbot ở thanh lề
+preferences-ai-controls-block-confirmation-features-after = Việc chặn cũng ảnh hưởng đến các tiện ích mở rộng sử dụng AI do { -brand-short-name } cung cấp.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Hủy bỏ
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Chặn
