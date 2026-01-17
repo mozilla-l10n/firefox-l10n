@@ -27,6 +27,7 @@ profiles-rootdir = Directorio radice
 profiles-localdir = Directorio local
 profiles-current-profile = Iste profilo es in uso e non pote esser delite.
 profiles-in-use-profile = Iste profilo es in uso in un altere application e non pote esser delite.
+profiles-cannot-delete-profile = Impossibile deler un profilo que es ligate a altere profilos.
 profiles-rename = Renominar
 profiles-remove = Remover
 profiles-set-as-default = Marcar como profilo predefinite

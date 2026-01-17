@@ -2196,6 +2196,7 @@ choose-download-folder-title = Rjadowak sćehnjenjow wubrać:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Maće přeco wólbu w { -brand-short-name }, mjez druhim, hač chceće funkcije wužiwać, kotrež su z KI polěpšene. Dalše wodźenske elementy bórze přińdu.
 preferences-ai-controls-block-ai-label = Polěpšenja KI blokować
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }

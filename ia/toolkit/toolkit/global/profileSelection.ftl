@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Usar le profilo seligite sin demandar a cata initio
     .accesskey = s
+profile-has-selectable-profiles-title = Impossibile deler un profilo que es ligate a altere profilos
