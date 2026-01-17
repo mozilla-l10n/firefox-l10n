@@ -53,6 +53,7 @@ category-privacy =
 pane-sync-title3 = Synkronisering
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI-kontroller
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } Experiment
@@ -2221,6 +2222,10 @@ preferences-ai-controls-state-available =
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
     .label = Aktiverad
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blockerad
+preferences-ai-controls-state-description-before = Vad alternativen betyder:
 preferences-ai-controls-state-description-available = <strong>Tillgänglig:</strong> Du ser funktionen och kan använda den.
 preferences-ai-controls-state-description-enabled = <strong>Aktiverad:</strong> Du har valt att använda funktionen.
 preferences-ai-controls-state-description-blocked = <strong>Blockerad:</strong> Du kommer inte att se och kan inte använda funktionen. För på enhetens AI tas alla modeller som redan hämtats bort.
