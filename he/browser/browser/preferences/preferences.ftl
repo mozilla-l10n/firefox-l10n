@@ -2191,3 +2191,6 @@ preferences-ai-controls-description = תמיד יש לך אפשרות בחירה
 preferences-ai-controls-block-ai-label = חסימת שיפורי בינה מלאכותית
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = חסימה פירושה שלא יוצגו שיפורי בינה מלאכותית חדשים או נוכחיים ב-{ -brand-short-name }, או חלונות קופצים לגביהם. <a data-l10n-name="link">קבלת פרטים נוספים</a> על מה כלול וכיצד לשלוט בתכונות למידת מכונה מסורתיות, כמו הצעות חיפוש והמלצות.
+preferences-ai-controls-blocked-message =
+    .message = שיפורי בינה מלאכותית חדשים ונוכחיים חסומים כברירת מחדל. כדי לבטל חסימה של תכונה ספציפית, יש להשתמש בפקדים שלהלן.
