@@ -2196,6 +2196,11 @@ preferences-ai-controls-on-device-group =
     .label = IA in le apparato
     .description = Isto usa micre modellos de IA discargate sur tu apparato si tu usa le functionalitate. Iste approche adjuta proteger tu confidentialitate.
 preferences-ai-controls-translations-more-link = Altere parametros de traduction
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Suggestiones de gruppo de schedas
+    .description = Obtene suggestiones pro nominar e organisar tu scheda.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Robot confabulator in barra lateral
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponibile
@@ -2205,3 +2210,13 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Blocate
+preferences-ai-controls-block-confirmation-heading = Blocar meliorationes de IA?
+preferences-ai-controls-block-confirmation-features-start = Que sera blocate:
+preferences-ai-controls-block-confirmation-translations = Traductiones
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggestiones de gruppo de schedas
+preferences-ai-controls-block-confirmation-key-points = Punctos clave in le vista preliminar de ligamines
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Fornitores de robot confabulator in barra lateral
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancellar
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blocar
