@@ -2177,5 +2177,9 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-more-link = 更多翻译设置
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = 已启用
 preferences-ai-controls-block-confirmation-cancel =
     .label = 取消
