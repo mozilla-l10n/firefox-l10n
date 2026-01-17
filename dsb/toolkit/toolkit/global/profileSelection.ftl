@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Wubrany profil wužywaś, mimo aby se pśi startowanju pšašało
     .accesskey = u
 profile-has-selectable-profiles-title = Profil, kótaryž jo z drugimi profilami zwězany, njedajo se lašowaś
+profile-has-selectable-profiles-message = Aby toś ten profil lašował, wócyńśo jen a wubjeŕśo „Profile zastojaś“ z wótrězka profilow menija { -brand-short-name }. Za tym až sćo pśidatne profile wulašował, kótarež sćo how załožył, móžośo se k about:profiles wrośiś a toś ten profil wulašowaś.
