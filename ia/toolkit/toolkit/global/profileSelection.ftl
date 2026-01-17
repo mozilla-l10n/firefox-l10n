@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Usar le profilo seligite sin demandar a cata initio
     .accesskey = s
 profile-has-selectable-profiles-title = Impossibile deler un profilo que es ligate a altere profilos
+profile-has-selectable-profiles-message = Pro deler iste profilo, aperi lo e selige ”Gerer profilos” ab le section profilos del menu de { -brand-short-name }. Post deler qualcunque altere profilo que tu ha create ci, tu pote retornar a about:profiles e deler iste profilo.
