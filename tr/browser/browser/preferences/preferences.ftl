@@ -742,6 +742,12 @@ home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yen
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Varsayılan tarayıcı
+is-default-browser-2 =
+    .message = { -brand-short-name } varsayılan tarayıcınız. İyi bir seçim yaptınız.
+is-not-default-browser-2 =
+    .message = { -brand-short-name } varsayılan tarayıcınız değil.
 set-as-my-default-browser-2 =
     .label = Varsayılan yap
     .accesskey = a
@@ -1454,6 +1460,10 @@ payments-list-item-label = <strong>Ödeme yöntemleri</strong>
 payments-delete-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
 payments-delete-payment-prompt-confirm-button = Sil
 payments-delete-payment-prompt-cancel-button = Vazgeç
+payments-delete-payment-button-label =
+    .aria-label = Sil
+payments-edit-payment-button-label =
+    .aria-label = Düzenle
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Hiç ödeme yöntemi eklenmedi
@@ -2092,6 +2102,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Yalnızca HTTPS modu
     .description = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2159,3 +2171,11 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Masaüstü
 downloads-folder-name = İndirilenler
 choose-download-folder-title = İndirme klasörünü seçin:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-confirmation-translations = Çeviriler
