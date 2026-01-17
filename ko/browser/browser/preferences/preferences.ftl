@@ -2185,6 +2185,9 @@ preferences-ai-controls-translations-control =
     .label = 번역
     .description = 원하는 언어로 웹을 원활하게 탐색하세요.
 preferences-ai-controls-translations-more-link = 기타 번역 설정
+preferences-ai-controls-pdfjs-control =
+    .label = { -brand-short-name } PDF 뷰어의 이미지 대체 텍스트
+    .description = PDF에 이미지를 추가하면 접근성을 위해 설명이 추가됩니다.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = 탭 그룹 제안
     .description = 탭 이름과 탭 정리를 위한 제안을 받아보세요.
@@ -2194,3 +2197,20 @@ preferences-ai-controls-key-points-control =
 preferences-ai-controls-sidebar-chatbot-group =
     .label = 사이드바의 AI 챗봇 공급자
     .description = 탐색하는 동안 챗봇을 시야에 두세요. Anthropic Claude, ChatGPT, Copilot, Google Gemini 및 Le Chat Mistral 중에서 선택하세요.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = 사이드바의 챗봇
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = 사용 가능
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = 사용함
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = 차단됨
+preferences-ai-controls-state-description-before = 옵션의 의미:
+preferences-ai-controls-state-description-available = <strong>사용 가능:</strong> 기능을 확인하고 사용할 수 있습니다.
+preferences-ai-controls-state-description-enabled = <strong>사용함:</strong> 이 기능을 사용하기로 했습니다.
+preferences-ai-controls-state-description-blocked = <strong>차단됨:</strong> 기능을 볼 수 없으며 사용할 수 없습니다. 온디바이스 AI의 경우 이미 다운로드 된 모델은 제거됩니다.
+preferences-ai-controls-block-confirmation-heading = AI 향상을 차단하시겠습니까?
+preferences-ai-controls-block-confirmation-translations = 번역
