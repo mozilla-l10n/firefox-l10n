@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sincronizzazione
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controlli IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Esperimenti di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimenti di { -brand-short-name }
@@ -2180,3 +2183,62 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = In { -brand-short-name } hai sempre la libertà di scegliere, anche per quanto riguarda l’uso di funzionalità basate sull’IA. A breve saranno disponibili ulteriori controlli.
+preferences-ai-controls-block-ai-label = Blocca miglioramenti basati sull’IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Attivando il blocco in { -brand-short-name } non vedrai né miglioramenti basati sull’IA, nuovi o esistenti, né i relativi pop-up. <a data-l10n-name="link">Scopri di più</a> su cosa è incluso e su come gestire le funzionalità basate sul tradizionale “machine learning”, come i suggerimenti di ricerca e le raccomandazioni.
+preferences-ai-controls-blocked-message =
+    .message = Per impostazione predefinita, i miglioramenti basati sull’IA nuovi o esistenti sono bloccati. Per attivare una funzione specifica, utilizza i controlli qui sotto.
+preferences-ai-controls-on-device-group =
+    .label = IA sul dispositivo
+    .description = Vengono utilizzati modelli IA di dimensioni ridotte che vengono scaricati sul tuo dispositivo quando utilizzi la funzione. In questo modo, la tua privacy viene sempre tutelata.
+preferences-ai-controls-translations-control =
+    .label = Traduzioni
+    .description = Naviga senza problemi sul Web nella tua lingua preferita.
+preferences-ai-controls-translations-more-link = Altre impostazioni per le traduzioni
+preferences-ai-controls-pdfjs-control =
+    .label = Testo alternativo per le immagini nel visualizzatore PDF di { -brand-short-name }
+    .description = Quando aggiungi immagini ai PDF, permettere di aggiungere descrizioni per renderle accessibili.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Suggerimenti per i gruppi di schede
+    .description = Ottieni suggerimenti per assegnare un nome ai gruppi e organizzare le tue schede.
+preferences-ai-controls-key-points-control =
+    .label = Punti chiave nelle anteprime dei link
+    .description = Visualizza un breve sommario prima di aprire un link.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Provider di chatbot IA nella barra laterale
+    .description = Mantieni un chatbot sempre visibile mentre navighi. Puoi scegliere tra Anthropic Claude, ChatGPT, Copilot, Google Gemini e Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot nella barra laterale
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponibile
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Attiva
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloccata
+preferences-ai-controls-state-description-before = Significato delle opzioni:
+preferences-ai-controls-state-description-available = <strong>Disponibile:</strong> vedrai la funzione e potrai utilizzarla.
+preferences-ai-controls-state-description-enabled = <strong>Attiva:</strong> hai attivato questa funzione.
+preferences-ai-controls-state-description-blocked = <strong>Bloccata:</strong> la funzione non verrà visualizzata e non sarà possibile utilizzarla. Per l’IA sul dispositivo, tutti i modelli già scaricati verranno rimossi.
+preferences-ai-controls-block-confirmation-heading = Blocca miglioramenti basati sull’IA?
+preferences-ai-controls-block-confirmation-description = In { -brand-short-name } non vedrai né i miglioramenti basati sull’IA, nuovi o esistenti, né i relativi pop-up. In seguito, potrai sbloccare qualsiasi funzione tu voglia continuare a usare.
+preferences-ai-controls-block-confirmation-features-start = Che cosa verrà bloccato:
+preferences-ai-controls-block-confirmation-translations = Traduzioni
+preferences-ai-controls-block-confirmation-pdfjs = Testo alternativo per le immagini nel visualizzatore PDF di { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggerimenti per i gruppi di schede
+preferences-ai-controls-block-confirmation-key-points = Punti chiave nelle anteprime dei link
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Provider di chatbot nella barra laterale
+preferences-ai-controls-block-confirmation-features-after = Il blocco interessa anche le estensioni che utilizzano l’IA fornita da { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Annulla
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blocca

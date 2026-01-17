@@ -27,6 +27,7 @@ profiles-rootdir = Cartella radice
 profiles-localdir = Cartella locale
 profiles-current-profile = Non è possibile eliminare questo profilo in quanto è attualmente in uso.
 profiles-in-use-profile = Questo profilo è attualmente utilizzato da un’altra applicazione e non può essere eliminato.
+profiles-cannot-delete-profile = Impossibile eliminare un profilo collegato ad altri profili.
 profiles-rename = Rinomina
 profiles-remove = Elimina
 profiles-set-as-default = Imposta come profilo predefinito
