@@ -2179,3 +2179,27 @@ preferences-ai-controls-header =
 preferences-ai-controls-block-ai-label = 封鎖 AI 功能
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-on-device-group =
+    .label = 本機裝置上的 AI
+    .description = 這些功能會下載小型 AI 模型到您的裝置上運作，這樣可以幫助保護您的隱私。
+preferences-ai-controls-translations-control =
+    .label = 翻譯
+    .description = 用您偏好的語言，無縫瀏覽網頁。
+preferences-ai-controls-translations-more-link = 更多翻譯設定
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = 可用
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = 啟用
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = 封鎖
+preferences-ai-controls-state-description-before = 選項的意思：
+preferences-ai-controls-block-confirmation-heading = 要封鎖 AI 功能嗎？
+preferences-ai-controls-block-confirmation-features-start = 會封鎖哪些功能：
+preferences-ai-controls-block-confirmation-translations = 翻譯
+preferences-ai-controls-block-confirmation-cancel =
+    .label = 取消
+preferences-ai-controls-block-confirmation-confirm =
+    .label = 封鎖

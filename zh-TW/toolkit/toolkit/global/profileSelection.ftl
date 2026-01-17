@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = 啟動時直接使用選擇的設定檔，不要再詢問
     .accesskey = s
+profile-has-selectable-profiles-title = 無法刪除與其他設定檔連結的設定檔

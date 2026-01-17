@@ -27,6 +27,7 @@ profiles-rootdir = 根目錄
 profiles-localdir = 本機目錄
 profiles-current-profile = 這個設定檔正在使用中，無法刪除。
 profiles-in-use-profile = 其他應用程式正在使用此設定檔，無法刪除。
+profiles-cannot-delete-profile = 無法刪除與其他設定檔連結的設定檔。
 profiles-rename = 重新命名
 profiles-remove = 移除
 profiles-set-as-default = 設為預設設定檔
