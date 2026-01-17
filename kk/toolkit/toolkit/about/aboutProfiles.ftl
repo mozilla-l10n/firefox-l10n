@@ -27,6 +27,7 @@ profiles-rootdir = Түбірлік бумасы
 profiles-localdir = Жергілікті бума
 profiles-current-profile = Бұл профиль қолданыста болып тұр, сондықтан, оны өшіру мүмкін емес.
 profiles-in-use-profile = Бұл профильді басқа қолданып тұр, сондықтан оны өшіру мүмкін емес.
+profiles-cannot-delete-profile = Басқа профильдермен байланыстырылған профильді өшіру мүмкін емес.
 profiles-rename = Атын өзгерту
 profiles-remove = Өшіру
 profiles-set-as-default = Бастапқы ретінде орнату

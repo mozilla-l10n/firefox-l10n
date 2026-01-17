@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Іске қосылған кезде, сұрамай-ақ, таңдалған профильді қолдану
     .accesskey = о
+profile-has-selectable-profiles-title = Басқа профильдермен байланыстырылған профильді өшіру мүмкін емес
+profile-has-selectable-profiles-message = Бұл профильді өшіру үшін оны ашып, { -brand-short-name } мәзірінің профильдер бөлімінен «Профильдерді басқару» тармағын таңдаңыз. Осы жерде өзіңіз жасаған барлық қосымша профильдерді өшіргеннен кейін, about:profiles бетіне қайта оралып, осы профильді өшіре аласыз.

@@ -2211,11 +2211,33 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Сілтемелерді алдын ала қарау кезіндегі негізгі тұстар.
     .description = Сілтемені ашпас бұрын оның қысқаша мазмұнымен танысыңыз.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Бүйірлік панельдегі ЖИ чатбот провайдерлері
+    .description = Веб-беттерді шолу барысында чат-ботты әрдайым көз алдыңызда ұстаңыз. Anthropic Claude, ChatGPT, Copilot, Google Gemini және Le Chat Mistral ішінен қалауыңызды таңдаңыз.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Бүйірлік панельдегі чатбот
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Қолжетімді
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Іске қосылған
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Бұғатталған
+preferences-ai-controls-state-description-before = Бұл опциялар нені білдіреді:
+preferences-ai-controls-state-description-available = <strong>Қолжетімді:<</strong> Сіз бұл мүмкіндікті көресіз және оны пайдалана аласыз.
+preferences-ai-controls-state-description-enabled = <strong>Іске қосылған:</strong> Сіз бұл мүмкіндікті пайдалануға келісім бердіңіз.
+preferences-ai-controls-state-description-blocked = <strong>Бұғатталған:</strong> Сіз бұл мүмкіндікті көре алмайсыз және пайдалана алмайсыз. Құрылғыдағы ЖИ үшін жүктеп алынған кез келген модельдер өшіріледі.
 preferences-ai-controls-block-confirmation-heading = ЖИ жақсартуларын бұғаттау керек пе?
+preferences-ai-controls-block-confirmation-description = { -brand-short-name } ішінде жаңа немесе ағымдағы ЖИ жақсартуларын немесе олар туралы қалқымалы терезелерді көрмейсіз. Содан кейін, пайдалануды жалғастырғыңыз келетін кез келген нәрсені бұғаттан босата аласыз.
 preferences-ai-controls-block-confirmation-features-start = Не бұғатталады:
 preferences-ai-controls-block-confirmation-translations = Аудармалар
 preferences-ai-controls-block-confirmation-pdfjs = { -brand-short-name } PDF қарау құралындағы суреттің балама мәтіні
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Беттер тобының ұсыныстары
+preferences-ai-controls-block-confirmation-key-points = Сілтемелерді алдын ала қарау кезіндегі негізгі тұстар
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Бүйірлік панельдегі чатбот провайдерлері
+preferences-ai-controls-block-confirmation-features-after = Бұғаттау { -brand-short-name } ұсынған ЖИ пайдаланатын кеңейтулерге де әсер етеді.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Бас тарту
 preferences-ai-controls-block-confirmation-confirm =

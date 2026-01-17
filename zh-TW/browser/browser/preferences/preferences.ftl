@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = 同步
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI 控制
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } 實驗
 category-experimental =
     .tooltiptext = { -brand-short-name } 實驗
@@ -730,6 +733,12 @@ home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁�
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = 預設瀏覽器
+is-default-browser-2 =
+    .message = 好選擇！{ -brand-short-name } 是您的預設瀏覽器。
+is-not-default-browser-2 =
+    .message = 嗯… { -brand-short-name } 不是您的預設瀏覽器。
 set-as-my-default-browser-2 =
     .label = 設為預設瀏覽器
     .accesskey = D
@@ -1448,6 +1457,10 @@ payments-list-item-label = <strong>付款方式</strong>
 payments-delete-payment-prompt-title = 要刪除這筆付款方式嗎？
 payments-delete-payment-prompt-confirm-button = 刪除
 payments-delete-payment-prompt-cancel-button = 取消
+payments-delete-payment-button-label =
+    .aria-label = 刪除
+payments-edit-payment-button-label =
+    .aria-label = 編輯
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 未新增付款方式
@@ -2089,6 +2102,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = 純 HTTPS 模式
     .description = 僅允許對網站使用安全連線。{ -brand-short-name } 會在進行不安全連線前先詢問。
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2156,3 +2171,11 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = 桌面
 downloads-folder-name = 下載
 choose-download-folder-title = 選取下載目錄：
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = 封鎖 AI 功能
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
