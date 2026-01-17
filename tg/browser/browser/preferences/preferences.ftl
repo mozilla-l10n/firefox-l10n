@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Ҳамоҳангсозӣ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Унсурҳои идоракунии зеҳни сунъӣ (AI)
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Озмоишҳои «{ -brand-short-name }»
 category-experimental =
     .tooltiptext = Озмоишҳои «{ -brand-short-name }»
@@ -741,6 +744,10 @@ home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ боя
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Браузери пешфарз
+is-default-browser-2 =
+    .message = «{ -brand-short-name }» браузери пешфарзи шумо мебошад. Интихоби шумо хуб аст.
 set-as-my-default-browser-2 =
     .label = Ҳамчун пешфарз танзим кунед
     .accesskey = Ҳ
