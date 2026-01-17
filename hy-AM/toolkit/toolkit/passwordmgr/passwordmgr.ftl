@@ -20,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Թարմացնե՞լ գաղտնաբառը { $host }-ի համար:
+password-manager-update-password-button-delete =
+    .label = Հեռացնել պահված գաղտնաբառը
+    .accesskey = R
 password-manager-password-password-button-allow =
     .label = Թարմացնել
     .accesskey = U
