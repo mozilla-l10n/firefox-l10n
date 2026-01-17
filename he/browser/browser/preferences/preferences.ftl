@@ -2210,3 +2210,22 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = נקודות מפתח בתצוגות מקדימות של קישורים
     .description = הצגת סיכום מהיר לפני פתיחת קישור.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = ספקי צ’אטבוטים של בינה מלאכותית בסרגל הצד
+    .description = להשאיר צ’אטבוט בתצוגה תוך כדי גלישה. ניתן לבחור מבין Anthropic Claude, ChatGPT, Copilot, Google Gemini, ו־Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = צ’אטבוט בסרגל הצד
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = זמין
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = מופעל
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = חסום
+preferences-ai-controls-state-description-before = מה המשמעות של האפשרויות:
+preferences-ai-controls-state-description-available = <strong>זמין:</strong> התכונה גלויה וניתן להשתמש בה.
+preferences-ai-controls-state-description-enabled = <strong>מופעל:</strong> בחרת להשתמש בתכונה.
+preferences-ai-controls-state-description-blocked = <strong>חסום:</strong> התכונה לא גלויה ולא ניתן להשתמש בה. עבור בינה מלאכותית במכשיר, כל המודלים שכבר הורדו יוסרו.
+preferences-ai-controls-block-confirmation-heading = לחסום שיפורי בינה מלאכותית?

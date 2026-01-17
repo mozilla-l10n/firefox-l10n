@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synchronizace
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Ovládání AI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty { -brand-short-name(case: "gen") }
@@ -879,6 +882,10 @@ home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zo
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Výchozí prohlížeč
+is-default-browser-2 =
+    .message = { -brand-short-name } je vaším výchozím prohlížečem. Dobrá volba.
 set-as-my-default-browser-2 =
     .label = Nastavit jako výchozí
     .accesskey = i
@@ -1153,6 +1160,9 @@ search-remove-engine =
 search-add-engine =
     .label = Přidat
     .accesskey = P
+search-add-engine-2 =
+    .label = Přidat vyhledávač
+    .accesskey = v
 search-edit-engine =
     .label = Upravit
     .accesskey = U
@@ -1612,6 +1622,10 @@ payments-list-item-label = <strong>Platební metody</strong>
 payments-delete-payment-prompt-title = Smazat tuto platební metodu?
 payments-delete-payment-prompt-confirm-button = Smazat
 payments-delete-payment-prompt-cancel-button = Zrušit
+payments-delete-payment-button-label =
+    .aria-label = Smazat
+payments-edit-payment-button-label =
+    .aria-label = Upravit
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nebyla přidána žádná platební metoda
@@ -2238,6 +2252,7 @@ collection-studies-link =
         [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
        *[no-cases] Zobrazit studie aplikace { -brand-short-name }
     }
+nimbus-rollouts-enabled-description = Změny budou provedeny na dálku.
 addon-recommendations2 =
     .label = Povolit personalizovaná doporučení rozšíření
 addon-recommendations-description = Nechte si doporučovat rozšíření pro zlepšení vašeho prohlížení.
@@ -2370,6 +2385,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Režim „pouze HTTPS“
     .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2441,3 +2458,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Plocha
 downloads-folder-name = Stažené soubory
 choose-download-folder-title = Vyberte složku pro stahování souborů
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }

@@ -346,6 +346,8 @@ newtab-custom-widget-section-title = Widgety
 newtab-custom-widget-section-toggle =
     .label = Widgety
 newtab-widget-manage-title = Widgety
+newtab-widget-manage-widget-button =
+    .label = Spravovat widgety
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zavřít
@@ -473,6 +475,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Hledat umístění
     .aria-label = Hledat umístění
 newtab-weather-menu-weather-display = Zobrazení počasí
+newtab-weather-todays-forecast = Dnešní předpověď
+newtab-weather-see-full-forecast = Zobrazit úplnou předpověď
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
