@@ -2206,3 +2206,30 @@ preferences-ai-controls-translations-control =
     .label = Переводы
     .description = Просматривайте бесшовно веб-страницы на выбранном вами языке.
 preferences-ai-controls-translations-more-link = Другие настройки переводов
+preferences-ai-controls-pdfjs-control =
+    .label = Альтернативный текст изображения в средстве просмотра PDF { -brand-short-name }
+    .description = Когда вы добавляете изображения в PDF, к ним добавляются описания, чтобы улучшить их доступность.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Предложения для групп вкладок
+    .description = Получите предложения по названию и упорядочению ваших вкладок.
+preferences-ai-controls-key-points-control =
+    .label = Ключевые моменты в предпросмотре ссылок
+    .description = Ознакомьтесь с краткой информацией, прежде чем открывать ссылку.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = ИИ-провайдеры на боковой панели
+    .description = Держите в поле зрения чат-бот во время просмотра. Выбирайте между Anthropic Claude, ChatGPT, Copilot, Google Gemini и Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Чат-бот на боковой панели
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Доступно
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Включено
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Заблокировано
+preferences-ai-controls-state-description-before = Что означают параметры:
+preferences-ai-controls-state-description-available = <strong>Доступно:</strong> Вы увидите эту функцию и сможете её использовать.
+preferences-ai-controls-state-description-enabled = <strong>Включена:</strong> Вы согласились использовать эту функцию.
+preferences-ai-controls-state-description-blocked = <strong>Заблокировано:</strong> Вы не увидите и не сможете использовать эту функцию. Для ИИ на устройстве любые уже загруженные модели удаляются.
