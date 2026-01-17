@@ -2200,6 +2200,7 @@ preferences-ai-controls-description = Maće přeco wólbu w { -brand-short-name 
 preferences-ai-controls-block-ai-label = Polěpšenja KI blokować
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokowanje rěka, zo nowe abo aktualne polěpšenja KI abo wuskakowace wokna wo nich w { -brand-short-name } njewidźiće. <a data-l10n-name="link">Zhońće dalše podrobnosće</a> wo tym, štož je wobsahowane a kak móžeće tradicionelne funkcije mašinelneho wuknjenja kaž pytanske namjety a doporučenja wodźić.
 preferences-ai-controls-blocked-message =
     .message = Nowe a aktualne polěpšenja KI su po standardźe zablokowane. Zo byšće blokowanje za wěstu funkciju zběhnył, wužiwajće slědowace wodźenske elementy.
 preferences-ai-controls-on-device-group =

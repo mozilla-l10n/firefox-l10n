@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Wubrany profil wužiwać bjez toho, zo by so při startowanju prašało
     .accesskey = u
 profile-has-selectable-profiles-title = Profil, kotryž je z druhimi profilemi zwjazany, njeda so zhašeć
+profile-has-selectable-profiles-message = Zo byšće tutón profil zhašał, wočińće jón a wubjerće „Profile rjadować“ z wotrězka profilow menija { -brand-short-name }. Po tym zo sće přidatne profile zhašał, kotrež sće tu załožił, móžeće so k about:profiles wróćić a tutón profil zhašeć.
