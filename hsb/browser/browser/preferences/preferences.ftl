@@ -2196,3 +2196,34 @@ choose-download-folder-title = Rjadowak sćehnjenjow wubrać:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Polěpšenja KI blokować
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-control =
+    .label = Přełožki
+    .description = Přehladujće web w swojej preferowanej rěči.
+preferences-ai-controls-translations-more-link = Dalše přełožowanske nastajenja
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Namjety rajtarkowych skupinow
+    .description = Dóstańće namjety, zo byšće swoje rajtarki pomjenował a organizował.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot w bóčnicy
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Steji k dispoziciji
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Zmóžnjeny
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Zablokowany
+preferences-ai-controls-state-description-before = Štož nastajenja woznamjenjeja:
+preferences-ai-controls-block-confirmation-heading = Polěpšenja KI blokować?
+preferences-ai-controls-block-confirmation-features-start = Štož so blokuje:
+preferences-ai-controls-block-confirmation-translations = Přełožki
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Namjety rajtarkowych skupinow
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Poskićowarjo chatbot w bóčnicy
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Přetorhnyć
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blokować

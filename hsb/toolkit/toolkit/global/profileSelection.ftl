@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Wubrany profil wužiwać bjez toho, zo by so při startowanju prašało
     .accesskey = u
+profile-has-selectable-profiles-title = Profil, kotryž je z druhimi profilemi zwjazany, njeda so zhašeć

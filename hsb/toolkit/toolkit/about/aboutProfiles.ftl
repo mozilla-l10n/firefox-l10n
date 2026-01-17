@@ -27,6 +27,7 @@ profiles-rootdir = Korjenjowy zapis
 profiles-localdir = Lokalny zapis
 profiles-current-profile = Tutón profil so runje wužiwa a njeda so zhašeć.
 profiles-in-use-profile = Tutón profil so přez druhe nałoženje wužiwa a njeda so zhašeć.
+profiles-cannot-delete-profile = Profil, kotryž je z druhimi profilemi zwjazany, njeda so zhašeć.
 profiles-rename = Přemjenować
 profiles-remove = Wotstronić
 profiles-set-as-default = Jako standardny profil nastajić
