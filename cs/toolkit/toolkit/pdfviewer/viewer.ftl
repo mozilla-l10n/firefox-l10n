@@ -666,6 +666,15 @@ pdfjs-views-manager-pages-status-copy-button-label = Kopírovat
 pdfjs-views-manager-pages-status-cut-button-label = Vyjmout
 pdfjs-views-manager-pages-status-delete-button-label = Smazat
 pdfjs-views-manager-pages-status-save-as-button-label = Uložit jako…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Nahrávání souboru…
+pdfjs-views-manager-status-warning-cut-label = Nelze vyjmout. Obnovte stránku a zkuste to znovu.
+pdfjs-views-manager-status-warning-copy-label = Kopírování se nezdařilo. Obnovte stránku a zkuste to znovu.
+pdfjs-views-manager-status-warning-delete-label = Smazání se nezdařilo. Obnovte stránku a zkuste to znovu.
+pdfjs-views-manager-status-warning-save-label = Nepodařilo se uložit. Obnovte stránku a zkuste to znovu.
+pdfjs-views-manager-status-undo-button-label = Zpět
+pdfjs-views-manager-status-close-button =
+    .title = Zavřít
+pdfjs-views-manager-status-close-button-label = Zavřít
 
 ## Main menu for adding/removing signatures
 
