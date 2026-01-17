@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Синхронизация
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Управление ИИ
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Эксперименты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперименты { -brand-short-name }
@@ -2184,3 +2187,22 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Рабочий стол
 downloads-folder-name = Загрузки
 choose-download-folder-title = Выберите папку для загрузок:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = В { -brand-short-name } у вас всегда есть выбор, в том числе использовать ли функции, улучшенные с помощью ИИ. Скоро будет ещё больше элементов управления.
+preferences-ai-controls-block-ai-label = Блокировать ИИ-улучшения ИИ
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Блокировка означает, что вы не увидите новые или текущие ИИ-улучшения в { -brand-short-name }, а также всплывающие окна о них. <a data-l10n-name="link">Узнайте больше</a> о том, что включено и как управлять типичными функциями машинного обучения, такими как поисковые предложения и рекомендации.
+preferences-ai-controls-blocked-message =
+    .message = Новые и текущие ИИ-улучшения заблокированы по умолчанию. Чтобы разблокировать какую-либо функцию, используйте расположенные ниже элементы управления.
+preferences-ai-controls-on-device-group =
+    .label = ИИ на устройстве
+    .description = Они используют небольшие модели ИИ, которые загружаются на ваше устройство, если вы используете эту функцию. Такой подход помогает защитить вашу конфиденциальность.
+preferences-ai-controls-translations-control =
+    .label = Переводы
+    .description = Просматривайте бесшовно веб-страницы на выбранном вами языке.
+preferences-ai-controls-translations-more-link = Другие настройки переводов
