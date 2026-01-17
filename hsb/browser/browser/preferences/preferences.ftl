@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synchronizować
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Wodźenske elementy KI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
@@ -748,6 +751,12 @@ home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž s
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standardny wobhladowak
+is-default-browser-2 =
+    .message = { -brand-short-name } je tuchwilu waš standardny wobhladowak. Dobra wólba.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } waš standardny wobhladowak njeje.
 set-as-my-default-browser-2 =
     .label = K standardej činić
     .accesskey = t
@@ -1468,6 +1477,10 @@ payments-list-item-label = <strong>Płaćenske metody</strong>
 payments-delete-payment-prompt-title = Tutu płaćensku metodu zhašeć?
 payments-delete-payment-prompt-confirm-button = Zhašeć
 payments-delete-payment-prompt-cancel-button = Přetorhnyć
+payments-delete-payment-button-label =
+    .aria-label = Zhašeć
+payments-edit-payment-button-label =
+    .aria-label = Wobdźěłać
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Žane płaćenske metody přidate
@@ -2109,6 +2122,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modus Jenož-HTTPS
     .description = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2176,3 +2191,8 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Sćehnjenja
 choose-download-folder-title = Rjadowak sćehnjenjow wubrać:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
