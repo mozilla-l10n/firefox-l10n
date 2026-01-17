@@ -128,3 +128,6 @@ sanitize-everything-warning = 모든 기록이 지워집니다.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = 모든 선택한 항목이 지워집니다.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = 계산 중…

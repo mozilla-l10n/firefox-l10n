@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = 시작할 때 묻지 않고 선택한 프로필을 사용
     .accesskey = s
+profile-has-selectable-profiles-title = 다른 프로필에 연결된 프로필은 삭제할 수 없음
+profile-has-selectable-profiles-message = 이 프로필을 삭제하려면, 프로필을 열고 { -brand-short-name } 메뉴의 프로필 섹션에서 "프로필 관리"를 선택하세요. 여기에 생성한 추가 프로필을 모두 삭제한 후, about:profiles로 돌아가서 이 프로필을 삭제할 수 있습니다.

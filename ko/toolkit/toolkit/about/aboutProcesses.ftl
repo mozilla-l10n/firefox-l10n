@@ -128,6 +128,7 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation 미디�
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows 유틸리티
 about-processes-utility-actor-windows-file-dialog = Windows 파일 대화 상자
+about-processes-utility-actor-pkcs11-module = 보안 모듈 도우미
 
 ## Displaying CPU (percentage and total)
 ## Variables:
