@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Sử dụng cấu hình đã chọn mà không hỏi lại khi khởi động
     .accesskey = s
+profile-has-selectable-profiles-title = Không thể xóa hồ sơ được liên kết với các hồ sơ khác.
+profile-has-selectable-profiles-message = Để xóa hồ sơ này, hãy mở nó lên và chọn ”Quản lý hồ sơ” từ phần hồ sơ của menu { -brand-short-name }. Sau khi xóa bất kỳ hồ sơ bổ sung nào bạn đã tạo ở đây, bạn có thể quay lại about:profiles và xóa hồ sơ này.

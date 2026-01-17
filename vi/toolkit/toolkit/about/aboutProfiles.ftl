@@ -27,6 +27,7 @@ profiles-rootdir = Thư mục gốc
 profiles-localdir = Thư mục nội bộ
 profiles-current-profile = Hồ sơ này đang được sử dụng nên nó không thể bị xóa.
 profiles-in-use-profile = Hồ sơ này đang được sử dụng trong một ứng dụng khác và nó không thể bị xóa.
+profiles-cannot-delete-profile = Không thể xóa hồ sơ đã được liên kết với các hồ sơ khác.
 profiles-rename = Đổi tên
 profiles-remove = Xóa
 profiles-set-as-default = Đặt làm hồ sơ mặc định
