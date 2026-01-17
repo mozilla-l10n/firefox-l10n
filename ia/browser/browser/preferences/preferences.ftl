@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controlos de IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -2180,3 +2183,25 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scriptorio
 downloads-folder-name = Discargamentos
 choose-download-folder-title = Elige le dossier de discargamentos:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Tu sempre ha  optiones in { -brand-short-name }, i.a. si usar functionalitates meliorate con IA. Altere controlos tosto veniente.
+preferences-ai-controls-block-ai-label = Blocar meliorationes de IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-on-device-group =
+    .label = IA in le apparato
+    .description = Isto usa micre modellos de IA discargate sur tu apparato si tu usa le functionalitate. Iste approche adjuta proteger tu confidentialitate.
+preferences-ai-controls-translations-more-link = Altere parametros de traduction
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponibile
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Activate
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blocate
