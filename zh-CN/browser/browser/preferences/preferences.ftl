@@ -53,6 +53,8 @@ category-privacy =
 pane-sync-title3 = 同步
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } 实验
 category-experimental =
     .tooltiptext = { -brand-short-name } 实验
@@ -738,6 +740,8 @@ home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标�
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = 默认浏览器
 set-as-my-default-browser-2 =
     .label = 设为默认
     .accesskey = D
@@ -1452,6 +1456,10 @@ payments-list-item-label = <strong>付款方式</strong>
 payments-delete-payment-prompt-title = 确定要删除此付款方式吗？
 payments-delete-payment-prompt-confirm-button = 删除
 payments-delete-payment-prompt-cancel-button = 取消
+payments-delete-payment-button-label =
+    .aria-label = 删除
+payments-edit-payment-button-label =
+    .aria-label = 编辑
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 未添加付款方式
@@ -2093,6 +2101,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS-Only 模式
     .description = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2160,3 +2170,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = 桌面
 downloads-folder-name = 下载
 choose-download-folder-title = 选择下载文件夹：
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
