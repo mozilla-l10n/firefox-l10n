@@ -748,6 +748,8 @@ home-default-browser-title =
     .label = Браузери пешфарз
 is-default-browser-2 =
     .message = «{ -brand-short-name }» браузери пешфарзи шумо мебошад. Интихоби шумо хуб аст.
+is-not-default-browser-2 =
+    .message = Псст, «{ -brand-short-name }» браузери пешфарзи шумо намебошад.
 set-as-my-default-browser-2 =
     .label = Ҳамчун пешфарз танзим кунед
     .accesskey = Ҳ
@@ -1463,6 +1465,10 @@ payments-list-item-label = <strong>Тарзҳои пардохт</strong>
 payments-delete-payment-prompt-title = Ин тарзи пардохтро нест мекунед?
 payments-delete-payment-prompt-confirm-button = Нест кардан
 payments-delete-payment-prompt-cancel-button = Бекор кардан
+payments-delete-payment-button-label =
+    .aria-label = Нест кардан
+payments-edit-payment-button-label =
+    .aria-label = Таҳрир кардан
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ягон тарзи пардохт илова карда нашуд
@@ -2101,6 +2107,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Реҷаи «Танҳо HTTPS»
     .description = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2168,3 +2176,25 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
 choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Дастрас
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Фаъол аст
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Манъ карда мешавад
+preferences-ai-controls-state-description-before = Имконот чӣ маъно дорад:
+preferences-ai-controls-block-confirmation-translations = Тарҷумаҳо
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Бекор кардан
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Манъ кардан
