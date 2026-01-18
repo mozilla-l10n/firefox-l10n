@@ -641,6 +641,19 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Zrušiť
 pdfjs-editor-add-comment-button =
     .title = Pridať komentár
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-attachments-option-label = Prílohy
+pdfjs-views-manager-layers-option-label = Vrstvy
+pdfjs-views-manager-add-file-button =
+    .title = Pridať súbor
+pdfjs-views-manager-add-file-button-label = Pridať súbor
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

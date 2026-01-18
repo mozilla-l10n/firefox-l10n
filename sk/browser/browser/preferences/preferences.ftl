@@ -53,6 +53,8 @@ category-privacy =
 pane-sync-title3 = Synchronizácia
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty prehliadača { -brand-short-name }
@@ -745,6 +747,12 @@ home-new-windows-tabs-description2 = Vyberte si domovskú stránku a stránku zo
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Predvolený prehliadač
+is-default-browser-2 =
+    .message = { -brand-short-name } je vaším predvoleným prehliadačom. Dobrá voľba.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } nie je vaším predvoleným prehliadačom.
 set-as-my-default-browser-2 =
     .label = Nastaviť ako predvolený
     .accesskey = d
@@ -999,6 +1007,9 @@ search-remove-engine =
 search-add-engine =
     .label = Pridať
     .accesskey = P
+search-add-engine-2 =
+    .label = Pridať vyhľadávací modul
+    .accesskey = r
 search-edit-engine =
     .label = Upraviť
     .accesskey = U
@@ -1458,6 +1469,10 @@ payments-list-item-label = <strong>Spôsoby platby</strong>
 payments-delete-payment-prompt-title = Odstrániť tento spôsob platby?
 payments-delete-payment-prompt-confirm-button = Odstrániť
 payments-delete-payment-prompt-cancel-button = Zrušiť
+payments-delete-payment-button-label =
+    .aria-label = Odstrániť
+payments-edit-payment-button-label =
+    .aria-label = Upraviť
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Zatiaľ nebol pridaný žiadny spôsob platby
@@ -2096,6 +2111,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Režim "Len HTTPS"
     .description = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2163,3 +2180,11 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Pracovná plocha
 downloads-folder-name = Stiahnuté súbory
 choose-download-folder-title = Vyberte priečinok pre stiahnuté súbory:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-confirmation-translations = Preklady
