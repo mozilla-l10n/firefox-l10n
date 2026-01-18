@@ -653,6 +653,27 @@ pdfjs-views-manager-layers-option-label = Vrstvy
 pdfjs-views-manager-add-file-button =
     .title = Pridať súbor
 pdfjs-views-manager-add-file-button-label = Pridať súbor
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } označená
+        [few] { $count } označené
+        [many] { $count } označených
+       *[other] { $count } označených
+    }
+pdfjs-views-manager-pages-status-copy-button-label = Kopírovať
+pdfjs-views-manager-pages-status-cut-button-label = Vystrihnúť
+pdfjs-views-manager-pages-status-delete-button-label = Odstrániť
+pdfjs-views-manager-pages-status-save-as-button-label = Uložiť ako…
+pdfjs-views-manager-status-warning-cut-label = Vystrihnutie sa nepodarilo. Obnovte stránku a skúste to znova.
+pdfjs-views-manager-status-warning-copy-label = Skopírovanie sa nepodarilo. Obnovte stránku a skúste to znova.
+pdfjs-views-manager-status-warning-delete-label = Odstránenie sa nepodarilo. Obnovte stránku a skúste to znova.
+pdfjs-views-manager-status-warning-save-label = Uloženie sa nepodarilo. Obnovte stránku a skúste to znova.
+pdfjs-views-manager-status-undo-button-label = Späť
+pdfjs-views-manager-status-close-button =
+    .title = Zavrieť
+pdfjs-views-manager-status-close-button-label = Zavrieť
 
 ## Main menu for adding/removing signatures
 

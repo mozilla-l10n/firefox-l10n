@@ -56,6 +56,7 @@ policy-DisablePocket2 = Vypne funkciu pre ukladanie stránok do služby { -pocke
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie.
 policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
 policy-DisableProfileRefresh = Zablokuje tlačidlo pre obnovenie prehliadača { -brand-short-name } do pôvodných nastavení na stránke about:support.
+policy-DisableRemoteImprovements = Zabráni aplikovaniu zmien týkajúcich sa výkonu, stability a nových funkcií vo { -brand-short-name(case: "loc") } medzi aktualizáciami.
 policy-DisableSafeMode = Zablokuje funkciu reštartu so zakázanými doplnkami. Poznámka: prechod do núdzového režimu podržaním klávesy Shift je v systéme Windows možné len pomocou skupinovej politiky.
 policy-DisableSecurityBypass = Zabráni používateľovi v obchádzaní niektorých bezpečnostných varovaní.
 policy-DisableSetAsDesktopBackground = Zablokuje kontextovú ponuku obrázkov a ich možnosť nastaviť ich ako pozadie plochy.
