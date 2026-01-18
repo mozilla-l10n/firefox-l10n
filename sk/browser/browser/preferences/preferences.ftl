@@ -2207,3 +2207,7 @@ preferences-ai-controls-translations-control =
     .description = Bezproblémovo prehliadajte web vo vami preferovanom jazyku.
 preferences-ai-controls-translations-more-link = Ďalšie nastavenia prekladov
 preferences-ai-controls-block-confirmation-translations = Preklady
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Zrušiť
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blokovať
