@@ -674,6 +674,29 @@ pdfjs-views-manager-pages-status-copy-button-label = Нусха бардошта
 pdfjs-views-manager-pages-status-cut-button-label = Буридан
 pdfjs-views-manager-pages-status-delete-button-label = Нест кардан
 pdfjs-views-manager-pages-status-save-as-button-label = Нигоҳ доштан ҳамчун…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 саҳифа бурида шуд
+       *[other] { $count } саҳифа бурида шуданд
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 саҳифа нусха бардошта шуд
+       *[other] { $count } саҳифа нусха бардошта шуданд
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 саҳифа нест карда шуд
+       *[other] { $count } саҳифа нест карда шуданд
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Файли шумо омода мешавад…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Дар ҳоли боркунии файл…
 pdfjs-views-manager-status-undo-button-label = Бекор кардан
 pdfjs-views-manager-status-close-button =
     .title = Пӯшидан
