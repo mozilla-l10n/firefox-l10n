@@ -2114,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS-Only modua
     .description = Soilik konexio seguruak baimentzen ditu webguneetara. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2181,3 +2183,12 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Mahaigaina
 downloads-folder-name = Deskargak
 choose-download-folder-title = Aukeratu deskarga-karpeta:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Beti egin dituzu aukerak { -brand-short-name }(e)n, AA bidez areagotutako eginbideak erabiltzea aukeratzea barne. Kontrol gehiago laster erabilgarri.
+preferences-ai-controls-block-ai-label = Blokeatu AA bidezko hobekuntzak
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
