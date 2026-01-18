@@ -2192,3 +2192,6 @@ preferences-ai-controls-description = Beti egin dituzu aukerak { -brand-short-na
 preferences-ai-controls-block-ai-label = Blokeatu AA bidezko hobekuntzak
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokeatzeak esan nahi du ez duzula { -brand-short-name }(e)n ikusiko AA hobekuntzarik ez eta hauei buruzko laster-leihorik. <a data-l10n-name="link">Lortu xehetasun gehiago </a> honen barruan sartzen denari buruz eta nola kontrolatu ikasketa automatikoko eginbide tradizionalak, hala nola bilaketa-iradokizunak eta gomendioak.
+preferences-ai-controls-blocked-message =
+    .message = AA hobekuntzak blokeatuta daude lehenespenez. Eginbide jakin bat desblokeatzeko, erabili azpiko kontrolak.
