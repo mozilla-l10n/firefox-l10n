@@ -683,8 +683,19 @@ pdfjs-views-manager-pages-status-undo-copy-label =
         [one] Αντιγράφηκε 1 σελίδα
        *[other] Αντιγράφηκαν { $count } σελίδες
     }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] Διαγράφηκε 1 σελίδα
+       *[other] Διαγράφηκαν { $count } σελίδες
+    }
 pdfjs-views-manager-pages-status-waiting-ready-label = Προετοιμασία αρχείου…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Μεταφόρτωση αρχείου…
+pdfjs-views-manager-status-warning-cut-label = Δεν ήταν δυνατή η αποκοπή. Ανανεώστε τη σελίδα και δοκιμάστε ξανά.
+pdfjs-views-manager-status-warning-copy-label = Δεν ήταν δυνατή η αντιγραφή. Ανανεώστε τη σελίδα και δοκιμάστε ξανά.
+pdfjs-views-manager-status-warning-delete-label = Δεν ήταν δυνατή η διαγραφή. Ανανεώστε τη σελίδα και δοκιμάστε ξανά.
+pdfjs-views-manager-status-warning-save-label = Δεν ήταν δυνατή η αποθήκευση. Ανανεώστε τη σελίδα και δοκιμάστε ξανά.
 pdfjs-views-manager-status-undo-button-label = Αναίρεση
 pdfjs-views-manager-status-close-button =
     .title = Κλείσιμο
