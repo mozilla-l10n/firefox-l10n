@@ -648,6 +648,13 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Prepnúť bočný panel
+pdfjs-toggle-views-manager-notification-button =
+    .title = Prepnúť bočný panel (dokument obsahuje miniatúry/prehľad/prílohy/vrstvy)
+pdfjs-toggle-views-manager-button-label = Prepnúť bočný panel
+pdfjs-views-manager-sidebar =
+    .aria-label = Bočný panel
 pdfjs-views-manager-view-selector-button =
     .title = Zobrazenia
 pdfjs-views-manager-view-selector-button-label = Zobrazenia

@@ -2222,8 +2222,26 @@ preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot v bočnom paneli
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
-    .label = Dostupný
+    .label = Dostupné
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Povolené
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokované
+preferences-ai-controls-state-description-before = Čo znamenajú tieto možnosti:
+preferences-ai-controls-state-description-available = <strong>Dostupné:</strong> Funkciu uvidíte a budete ju môcť používať.
+preferences-ai-controls-state-description-enabled = <strong>Povolené:</strong> Prihlásili ste sa na používanie funkcie.
+preferences-ai-controls-state-description-blocked = <strong>Blokované:</strong> Funkciu neuvidíte a nebudete ju môcť používať. V prípade umelej inteligencie v zariadení sa odstránia všetky už stiahnuté modely.
+preferences-ai-controls-block-confirmation-heading = Zablokovať vylepšenia umelej inteligencie?
+preferences-ai-controls-block-confirmation-description = Vo { -brand-short-name(case: "loc") } sa nezobrazia nové ani aktuálne vylepšenia umelej inteligencie, ani kontextové okná o nich. Následne môžete odblokovať čokoľvek, čo chcete naďalej používať.
+preferences-ai-controls-block-confirmation-features-start = Čo bude blokované:
 preferences-ai-controls-block-confirmation-translations = Preklady
+preferences-ai-controls-block-confirmation-pdfjs = Alternatívny text obrázka v prehliadači PDF vo { -brand-short-name(case: "loc") }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Návrhy pre skupiny kariet
+preferences-ai-controls-block-confirmation-key-points = Kľúčové body v ukážkach odkazov
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Poskytovatelia chatbotov v bočnom paneli
+preferences-ai-controls-block-confirmation-features-after = Blokovanie ovplyvňuje aj rozšírenia, ktoré používajú umelú inteligenciu poskytovanú { -brand-short-name(case: "ins") }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušiť
 preferences-ai-controls-block-confirmation-confirm =

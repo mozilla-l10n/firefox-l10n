@@ -27,6 +27,7 @@ profiles-rootdir = Koreňový priečinok
 profiles-localdir = Lokálny priečinok
 profiles-current-profile = Tento profil sa používa a nedá sa odstrániť.
 profiles-in-use-profile = Tento profil je používaní inou aplikáciou a nemôže byť odstránený.
+profiles-cannot-delete-profile = Profil, ktorý je prepojený s inými profilmi, nie je možné odstrániť.
 profiles-rename = Premenovať
 profiles-remove = Odstrániť
 profiles-set-as-default = Nastaviť ako predvolený profil

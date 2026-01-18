@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Automaticky použiť zvolený profil pri spustení
     .accesskey = A
+profile-has-selectable-profiles-title = Profil, ktorý je prepojený s inými profilmi, nie je možné odstrániť
+profile-has-selectable-profiles-message = Ak chcete tento profil odstrániť, otvorte ho a v sekcii profilov v ponuke { -brand-short-name(case: "gen") } vyberte možnosť „Spravovať profily“. Po odstránení všetkých ďalších profilov, ktoré ste tu vytvorili, sa môžete vrátiť na stránku about:profiles a tento profil odstrániť.

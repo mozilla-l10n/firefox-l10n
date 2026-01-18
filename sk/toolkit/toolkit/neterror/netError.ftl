@@ -46,6 +46,10 @@ neterror-load-error-firewall = Ak sú počítač alebo sieť chránené firewall
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Ak sa pokúšate načítať stránku lokálnej siete, skontrolujte, či má { -brand-short-name } v nastaveniach ochrany súkromia a zabezpečenia systému macOS udelené povolenia pre lokálnu sieť.
 neterror-http-error-page = Skontrolujte, či ste adresu webovej stránky zadali správne.
+neterror-http-empty-response = Skontrolujte, či ste správne zadali adresu webovej stránky, a skúste to znova o chvíľu.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = Server { $hostname } odoslal späť prázdnu stránku.
 neterror-captive-portal = Pre prístup na internet sa musíte najprv prihlásiť k tejto sieti.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
