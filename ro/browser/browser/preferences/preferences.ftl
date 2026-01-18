@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sincronizare
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Comenzi AI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimente { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimente { -brand-short-name }
@@ -745,6 +748,12 @@ home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de star
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Browser implicit
+is-default-browser-2 =
+    .message = { -brand-short-name } este browserul tău implicit. Ai ales bine!
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } nu este implicit.
 set-as-my-default-browser-2 =
     .label = Setează ca implicit
     .accesskey = D
@@ -1464,6 +1473,10 @@ payments-list-item-label = <strong>Metode de plată</strong>
 payments-delete-payment-prompt-title = Ștergi această metodă de plată?
 payments-delete-payment-prompt-confirm-button = Șterge
 payments-delete-payment-prompt-cancel-button = Anulează
+payments-delete-payment-button-label =
+    .aria-label = Șterge
+payments-edit-payment-button-label =
+    .aria-label = Editează
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nu a fost adăugată nicio metodă de plată
@@ -2105,6 +2118,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Mod numai HTTPS
     .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2172,3 +2187,48 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = În { -brand-short-name }, ai întotdeauna libertatea de alegere, inclusiv dacă să folosești funcționalități îmbunătățite cu AI. Mai multe controale în curând.
+preferences-ai-controls-block-ai-label = Blochează îmbunătățirile cu AI
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Prin blocare, nu vei mai vedea îmbunătățiri AI noi sau curente în { -brand-short-name } și nici pop-up-uri despre ele. <a data-l10n-name="link">Vezi mai multe detalii</a> despre ce este inclus și cum să controlezi funcționalitățile tradiționale de învățare automată, cum ar fi sugestii de căutare și recomandări.
+preferences-ai-controls-blocked-message =
+    .message = Îmbunătățirile noi și curente cu AI sunt blocate implicit. Pentru deblocarea unei funcționalități anume, vezi comenzile de mai jos.
+preferences-ai-controls-on-device-group =
+    .label = AI pe dispozitiv
+    .description = Folosesc modele AI mici care sunt descărcate pe dispozitiv dacă folosești funcționalitatea. Această abordare te ajută să îți protejezi confidențialitatea.
+preferences-ai-controls-translations-control =
+    .label = Traduceri
+    .description = Navighezi fără probleme pe web în limba ta preferată.
+preferences-ai-controls-translations-more-link = Mai multe setări pentru traduceri
+preferences-ai-controls-pdfjs-control =
+    .label = Text alternativ imagini în lectorul PDF { -brand-short-name }
+    .description = Când adaugi imagini în PDF-uri, adaugă descrieri pentru a le face mai accesibile.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugestii pentru grupuri de file
+    .description = Obții sugestii pentru denumirea și organizarea filelor.
+preferences-ai-controls-key-points-control =
+    .label = Puncte-cheie în previzualizări de linkuri
+    .description = Vezi un rezumat rapid înainte să deschizi un link.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Furnizori de chatboți AI în bara laterală
+    .description = Menții afișat un chatbot în timp de navighezi. Alege dintre Anthropic Claude, ChatGPT, Copilot, Google Gemini și Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot în bara laterală
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponibil
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Activat
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blocat
+preferences-ai-controls-state-description-before = Ce înseamnă opțiunile:
+preferences-ai-controls-state-description-available = <strong>Disponibil:</strong> Vei vedea funcționalitatea și o poți folosi.
+preferences-ai-controls-state-description-enabled = <strong>Activat:</strong> Ai optat să folosești funcționalitatea.

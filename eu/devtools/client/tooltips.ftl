@@ -88,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Saiatu <stro
 inactive-css-not-multicol-container-fix = Saiatu <strong>column-count</strong> edo <strong>column-width</strong> gehitzen. { learn-more }
 inactive-css-column-span-fix = Saiatu bere guraso-elementu batean <strong>column-count</strong> edo <strong>column-width</strong> gehitzen. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Saiatu elementuari <strong>position: absolute</strong> gehitzen edo elementuaren gurasoari <strong>display: grid</strong>, <strong>display: flex</strong>, <strong>display: inline-grid</strong> edo <strong>display: inline-flex</strong> gehitzen. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Saiatu elementuari <strong>position:absolute</strong> edo elementuaren gurasoari <strong>display:grid</strong> edo <strong>display: inline -grid</strong> gehitzen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Saiatu elementuaren gurasoari <strong>display: grid</strong>, <strong>display: flex</strong>, <strong>display: inline-grid</strong> edo <strong>display: inline-flex</strong> gehitzen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Saiatu elementuaren gurasoari <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen. { learn-more }
 inactive-css-not-grid-container-fix = Saiatu <strong>display: grid</strong> edo <strong>display: inline-grid</strong> gehitzen. { learn-more }

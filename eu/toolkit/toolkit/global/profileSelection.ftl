@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Erabili hautatutako profila abioan galdetu gabe
     .accesskey = r
+profile-has-selectable-profiles-title = Ezin da ezabatu beste profiletara lotuta dagoen profil bat
+profile-has-selectable-profiles-message = Profil hau ezabatzeko, ireki ezazu eta hautatu 'Kudeatu profilak' aukera { -brand-short-name } menuko profilen atalean. Hemen sortutako gainerako profilak ezabatzean, about:profiles helbidera itzul zaitezke eta profil hau ezabatu.

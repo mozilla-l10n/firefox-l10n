@@ -27,6 +27,7 @@ profiles-rootdir = Erro direktorioa
 profiles-localdir = Direktorio lokala
 profiles-current-profile = Hau da uneko profila eta ezin da ezabatu.
 profiles-in-use-profile = Profil hau beste aplikazio batek darabil eta ezin da ezabatu.
+profiles-cannot-delete-profile = Ezin da ezabatu beste profiletara lotuta dagoen profil bat.
 profiles-rename = Berrizendatu
 profiles-remove = Kendu
 profiles-set-as-default = Ezarri profil lehenetsi gisa
