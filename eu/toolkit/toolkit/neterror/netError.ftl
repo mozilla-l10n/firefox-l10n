@@ -46,6 +46,10 @@ neterror-load-error-firewall = Ordenagailua edo sarea suebaki edo proxy baten bi
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Sare lokaleko orri bat kargatzen saiatzen ari bazara, egiaztatu { -brand-short-name }(e)k sare lokalerako baimena duela macOS-en pribatutasun- eta segurtasun-ezarpenetan.
 neterror-http-error-page = Ziurtatu webgunearen helbidea ondo idatzi duzula.
+neterror-http-empty-response = Egiaztatu webgunearen helbidea ondo idatzi duzula eta saiatu berriro geroago.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } ostalariak orri hutsa itzuli du.
 neterror-captive-portal = Internetera sartu ahal izateko saioa hasi behar duzu sare honetan.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
