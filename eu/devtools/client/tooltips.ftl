@@ -118,6 +118,7 @@ inactive-css-resize-fix = Saiatu <strong>overflow</strong> propietatearen balioa
 inactive-css-ruby-element-fix = Saiatu 'ruby' testuaren <strong>font-size</strong> propietatea aldatzen. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Saiatu lerro kopurua gutxitzen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Saihestu elementuaren edukia zatitzen, adibidez zutabeak kenduz edo <strong>page-break-inside:avoid</strong> erabiliz. { learn-more }
+inactive-css-no-principal-box-fix = Saiatu gehitzen kutxa nagusia sortzen duen <strong>display</strong> balio bat, adbidez <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> edo <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

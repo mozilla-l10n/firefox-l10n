@@ -81,6 +81,27 @@ about-webauthn-update-button = Eguneratu
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-clientpin = Bezeroaren PINa
+about-webauthn-auth-option-rk = Egoitzaren gakoa
+about-webauthn-auth-option-plat = Plataformako gailua
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Komandoen baimenak (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = MakeCredential / GetAssertion baimenik ez bezeroaren PINarekin
+about-webauthn-auth-option-largeblobs = Blob handiak
+about-webauthn-auth-option-ep = Enpresako testigantza
+about-webauthn-auth-option-bioenroll = Erregistro biometrikoa
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Erregistro biometrikoaren prototipoa (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Erregistro biometrikoaren baimena
+about-webauthn-auth-option-authnrcfg = Autentifikatzaile-konfigurazioa
+about-webauthn-auth-option-uvacfg = Autentifikatzaile-konfigurazioaren baimena
+about-webauthn-auth-option-credmgmt = Kredentzialen kudeaketa
+about-webauthn-auth-option-credentialmgmtpreview = Prototiporako kredentzialen kudeaketa
+about-webauthn-auth-option-setminpinlength = Ezarri gutxieneko PIN luzera
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = Erabiltzailearen egiaztapenik gabeko MakeCredential
+about-webauthn-auth-option-alwaysuv = Eskatu beti erabiltzailearen egiaztapena
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Egia
 # Shows when boolean value of an option is False. False should not be translated.
