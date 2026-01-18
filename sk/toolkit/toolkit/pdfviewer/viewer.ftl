@@ -648,6 +648,15 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-views-manager-view-selector-button =
+    .title = Zobrazenia
+pdfjs-views-manager-view-selector-button-label = Zobrazenia
+pdfjs-views-manager-pages-title = Strany
+pdfjs-views-manager-outlines-title = Prehľad dokumentu
+pdfjs-views-manager-attachments-title = Prílohy
+pdfjs-views-manager-layers-title = Vrstvy
+pdfjs-views-manager-pages-option-label = Strany
+pdfjs-views-manager-outlines-option-label = Prehľad dokumentu
 pdfjs-views-manager-attachments-option-label = Prílohy
 pdfjs-views-manager-layers-option-label = Vrstvy
 pdfjs-views-manager-add-file-button =
@@ -662,10 +671,41 @@ pdfjs-views-manager-pages-status-action-label =
         [many] { $count } označených
        *[other] { $count } označených
     }
+pdfjs-views-manager-pages-status-none-action-label = Vybrať strany
+pdfjs-views-manager-pages-status-action-button-label = Spravovať
 pdfjs-views-manager-pages-status-copy-button-label = Kopírovať
 pdfjs-views-manager-pages-status-cut-button-label = Vystrihnúť
 pdfjs-views-manager-pages-status-delete-button-label = Odstrániť
 pdfjs-views-manager-pages-status-save-as-button-label = Uložiť ako…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] Vystrihnutá 1 strana
+        [few] Vystrihnuté { $count } strany
+        [many] Vystrihnutých { $count } strán
+       *[other] Vystrihnutých { $count } strán
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] Skopírovaná 1 strana
+        [few] Skopírované { $count } strany
+        [many] Skopírovaných { $count } strán
+       *[other] Skopírovaných { $count } strán
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] Odstránená 1 strana
+        [few] Odstránené { $count } strany
+        [many] Odstránených { $count } strán
+       *[other] Odstránených { $count } strán
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Váš súbor sa pripravuje…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Nahráva sa súbor…
 pdfjs-views-manager-status-warning-cut-label = Vystrihnutie sa nepodarilo. Obnovte stránku a skúste to znova.
 pdfjs-views-manager-status-warning-copy-label = Skopírovanie sa nepodarilo. Obnovte stránku a skúste to znova.
 pdfjs-views-manager-status-warning-delete-label = Odstránenie sa nepodarilo. Obnovte stránku a skúste to znova.

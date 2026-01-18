@@ -2196,4 +2196,14 @@ preferences-ai-controls-description = Vo { -brand-short-name(case: "loc") } mát
 preferences-ai-controls-block-ai-label = Blokovať vylepšenia pomocou AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokovanie znamená, že vo { -brand-short-name(case: "loc") } neuvidíte nové ani aktuálne vylepšenia umelej inteligencie, ani kontextové okná o nich. <a data-l10n-name="link">Tu nájdete viac informácií</a> o tom, čo je zahrnuté a ako ovládať tradičné funkcie strojového učenia, ako sú návrhy a odporúčania vyhľadávania.
+preferences-ai-controls-blocked-message =
+    .message = Nové a aktuálne vylepšenia umelej inteligencie sú štandardne blokované. Ak chcete odblokovať konkrétnu funkciu, použite ovládacie prvky nižšie.
+preferences-ai-controls-on-device-group =
+    .label = Umelá inteligencia v zariadení
+    .description = Tieto funkcie používajú malé modely umelej inteligencie, ktoré sa stiahnu do vášho zariadenia, ak danú funkciu používate. Tento prístup pomáha chrániť vaše súkromie.
+preferences-ai-controls-translations-control =
+    .label = Preklady
+    .description = Bezproblémovo prehliadajte web vo vami preferovanom jazyku.
+preferences-ai-controls-translations-more-link = Ďalšie nastavenia prekladov
 preferences-ai-controls-block-confirmation-translations = Preklady
