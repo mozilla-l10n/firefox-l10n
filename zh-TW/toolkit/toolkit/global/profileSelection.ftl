@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = 啟動時直接使用選擇的設定檔，不要再詢問
     .accesskey = s
 profile-has-selectable-profiles-title = 無法刪除與其他設定檔連結的設定檔
+profile-has-selectable-profiles-message = 若要刪除此設定檔，請開啟，並從 { -brand-short-name } 選單的設定檔區段選擇「管理設定檔」。刪除此處的其他設定檔後，就可以再回到 about:profiles 刪除此設定檔。
