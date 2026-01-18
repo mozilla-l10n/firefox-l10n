@@ -53,6 +53,8 @@ category-privacy =
 pane-sync-title3 = Synchronisation
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-Experimente
 category-experimental =
     .tooltiptext = { -brand-short-name }-Experimente
@@ -2180,3 +2182,12 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Download-Ordner wählen:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Sie haben in { -brand-short-name } immer die Wahl, ob Sie durch KI verbesserte Funktionen nutzen möchten. Weitere Einstellungen folgen bald.
+preferences-ai-controls-block-ai-label = KI-Verbesserungen blockieren
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
