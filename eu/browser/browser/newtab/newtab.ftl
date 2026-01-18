@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = Widgetak
 newtab-custom-widget-section-toggle =
     .label = Widgetak
 newtab-widget-manage-title = Widgetak
+newtab-widget-manage-widget-button =
+    .label = Kudeatu widgetak
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Itxi
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Bilatu kokapena
     .aria-label = Bilatu kokapena
 newtab-weather-menu-weather-display = Eguraldia bistaratzea
+newtab-weather-todays-forecast = Gaurko iragarpena
+newtab-weather-see-full-forecast = Ikusi iragarpen osoa
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
