@@ -1007,6 +1007,9 @@ search-remove-engine =
 search-add-engine =
     .label = Añadir
     .accesskey = A
+search-add-engine-2 =
+    .label = Añadir buscador
+    .accesskey = A
 search-edit-engine =
     .label = Editar
     .accesskey = E
@@ -1370,6 +1373,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Usar una contraseña maestra
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Usar una contraseña maestra
+    .description = Añada una capa adicional de seguridad para proteger sus contraseñas guardadas
+    .accesskey = U
 forms-primary-pw-set =
     .label = Establecer contraseña maestra
 forms-primary-pw-on =
@@ -1382,6 +1389,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerir inicio de sesión en el dispositivo para introducir y administrar contraseñas
+forms-os-reauth-2 =
+    .label = Requerir inicio de sesión en el dispositivo para administrar contraseñas
 forms-primary-pw-learn-more-link = Saber más
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1460,6 +1469,10 @@ payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-prompt-title = ¿Eliminar este método de pago?
 payments-delete-payment-prompt-confirm-button = Eliminar
 payments-delete-payment-prompt-cancel-button = Cancelar
+payments-delete-payment-button-label =
+    .aria-label = Eliminar
+payments-edit-payment-button-label =
+    .aria-label = Editar
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = No se han añadido métodos de pago
@@ -1998,6 +2011,9 @@ collection-studies-description = Probar funcionalidades e ideas antes de que est
 collection-studies =
     .label = Permitir que { -brand-short-name } instale y ejecute estudios
 collection-studies-link = Ver los estudios de { -brand-short-name }
+nimbus-rollouts-enabled =
+    .label = Permitir que { -brand-short-name } mejore las funciones, el rendimiento y la estabilidad entre actualizaciones
+nimbus-rollouts-enabled-description = Los cambios se aplicarán de forma remota.
 addon-recommendations2 =
     .label = Permitir recomendaciones personalizadas de extensiones
 addon-recommendations-description = Obtenga recomendaciones de extensiones para mejorar la experiencia de navegación.
@@ -2098,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modo solo-HTTPS
     .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2165,3 +2183,37 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta de descarga:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Siempre puede elegir en { -brand-short-name }, incluyendo si desea usar funciones mejoradas con IA. Próximamente habrá más controles.
+preferences-ai-controls-block-ai-label = Mejoras en el bloqueo de IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-control =
+    .label = Traducciones
+    .description = Navegue sin problemas por la red e su idioma preferido.
+preferences-ai-controls-translations-more-link = Más ajustes de traducciones
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot en la barra lateral
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponible
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Activado
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloqueado
+preferences-ai-controls-state-description-before = Qué significan las opciones:
+preferences-ai-controls-block-confirmation-features-start = Qué se bloqueará:
+preferences-ai-controls-block-confirmation-translations = Traducciones
+preferences-ai-controls-block-confirmation-pdfjs = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugerencias de grupos de pestañas
+preferences-ai-controls-block-confirmation-key-points = Puntos clave en las vistas previas de enlaces
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Proveedores de chatbots en la barra lateral
+preferences-ai-controls-block-confirmation-features-after = El bloqueo también afecta a las extensiones que utilizan IA proporcionada por { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancelar
