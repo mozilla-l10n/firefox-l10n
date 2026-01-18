@@ -98,7 +98,7 @@ about-webauthn-auth-option-authnrcfg = Autentifikatzaile-konfigurazioa
 about-webauthn-auth-option-uvacfg = Autentifikatzaile-konfigurazioaren baimena
 about-webauthn-auth-option-credmgmt = Kredentzialen kudeaketa
 about-webauthn-auth-option-credentialmgmtpreview = Prototiporako kredentzialen kudeaketa
-about-webauthn-auth-option-setminpinlength = Ezarri gutxieneko PIN luzera
+about-webauthn-auth-option-setminpinlength = Ezarri PIN luzera minimoa
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = Erabiltzailearen egiaztapenik gabeko MakeCredential
 about-webauthn-auth-option-alwaysuv = Eskatu beti erabiltzailearen egiaztapena
@@ -112,6 +112,17 @@ about-webauthn-auth-option-null = Ez dago onartuta
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Saltzailearen prototipoaren konfigurazio-komandoak
+about-webauthn-auth-info-remaining-discoverable-credentials = Falta diren kredentzial ikusgaiak
+about-webauthn-auth-info-certifications = Ziurtagiriak
+about-webauthn-auth-info-uv-modality = Erabiltzaileak egiaztatzeko modalitatea
+about-webauthn-auth-info-preferred-platform-uv-attempts = Hobetsitako plataformako erabiltzailearen egiaztapen-saiakerak
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Fidatzeko taldeen ID kopuru maximoa ezarritako PIN luzera minimorako
+about-webauthn-auth-info-max-cred-blob-length = Kredentzialen blob-aren luzera maximoa
+about-webauthn-auth-info-firmware-version = Firmware bertsioa
+about-webauthn-auth-info-min-pin-length = PIN luzera minimoa
+about-webauthn-auth-info-force-pin-change = Behartu PIN aldaketa
+about-webauthn-auth-info-max-ser-large-blob-array = Blob array handi baten tamaina maximoa
 about-webauthn-auth-info-algorithms = Algoritmoak
 about-webauthn-auth-info-extensions = Hedapenak
 about-webauthn-auth-info-versions = Bertsioak
