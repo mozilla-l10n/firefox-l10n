@@ -919,6 +919,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Αναζήτηση με:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ρυθμίσεις αναζήτησης
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.

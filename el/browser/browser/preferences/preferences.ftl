@@ -53,6 +53,8 @@ category-privacy =
 pane-sync-title3 = Συγχρονισμός
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Πειράματα { -brand-short-name }
 category-experimental =
     .tooltiptext = Πειράματα { -brand-short-name }
@@ -742,6 +744,8 @@ home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε �
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Προεπιλεγμένο πρόγραμμα περιήγησης
 set-as-my-default-browser-2 =
     .label = Ορισμός ως προεπιλογή
     .accesskey = Π
@@ -994,6 +998,9 @@ search-remove-engine =
     .accesskey = Α
 search-add-engine =
     .label = Προσθήκη
+    .accesskey = Π
+search-add-engine-2 =
+    .label = Προσθήκη μηχανής αναζήτησης
     .accesskey = Π
 search-edit-engine =
     .label = Επεξεργασία
@@ -1448,6 +1455,10 @@ payments-list-item-label = <strong>Μέθοδοι πληρωμής</strong>
 payments-delete-payment-prompt-title = Αφαίρεση μεθόδου πληρωμής;
 payments-delete-payment-prompt-confirm-button = Διαγραφή
 payments-delete-payment-prompt-cancel-button = Ακύρωση
+payments-delete-payment-button-label =
+    .aria-label = Διαγραφή
+payments-edit-payment-button-label =
+    .aria-label = Επεξεργασία
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Δεν έχουν προστεθεί μέθοδοι πληρωμής
@@ -2086,6 +2097,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Λειτουργία «Μόνο HTTPS»
     .description = Επιτρέπει μόνο τις ασφαλείς συνδέσεις με ιστοτόπους. Το { -brand-short-name } θα σας ρωτήσει πριν πραγματοποιήσει μη ασφαλή σύνδεση.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2153,3 +2166,11 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Επιφάνεια εργασίας
 downloads-folder-name = Λήψεις
 choose-download-folder-title = Επιλογή φακέλου λήψεων:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-more-link = Περισσότερες ρυθμίσεις μεταφράσεων

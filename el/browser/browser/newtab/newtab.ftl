@@ -339,6 +339,8 @@ newtab-custom-widget-section-title = Γραφικά στοιχεία
 newtab-custom-widget-section-toggle =
     .label = Γραφικά στοιχεία
 newtab-widget-manage-title = Γραφικά στοιχεία
+newtab-widget-manage-widget-button =
+    .label = Διαχείριση γραφικών στοιχείων
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Κλείσιμο
