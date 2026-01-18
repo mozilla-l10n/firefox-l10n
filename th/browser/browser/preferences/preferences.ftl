@@ -323,6 +323,11 @@ preferences-web-appearance-override-warning3 =
     .message = การตั้งค่าการควบคุมความคมชัดของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์
 preferences-web-appearance-link =
     .label = จัดการชุดตกแต่งของ { -brand-short-name } ใน ส่วนขยายและชุดตกแต่ง
+preferences-contrast-control-group =
+    .label = ความเปรียบต่างในเว็บไซต์
+    .description = เว็บไซต์ใช้สีพื้นหน้าและพื้นหลังที่หลากหลาย สำหรับความเปรียบต่างที่สม่ำเสมอ คุณสามารถใช้สีเดียวกันผ่านเว็บไซต์ต่าง ๆ ได้
+preferences-contrast-control-radio-group =
+    .label = แทนที่สี
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
@@ -393,6 +398,15 @@ translate-attribution = แปลโดย <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
+settings-translations-header =
+    .label = การแปล
+    .aria-label = การแปล
+    .description = แปลหน้าหรือข้อความที่เลือก เพื่อปกป้องความเป็นส่วนตัวของคุณ การแปลจะอยู่บนอุปกรณ์ของคุณ
+settings-translations-offer-to-translate-label =
+    .label = นำเสนอการแปลหน้าแบบเต็ม
+settings-translations-more-settings-button =
+    .label = การตั้งค่าการแปลเพิ่มเติม
+    .description = ตั้งค่าปรับแต่งสำหรับภาษา เว็บไซต์ และการแปลแบบออฟไลน์
 settings-translations-subpage-header =
     .heading = การตั้งค่าการแปลเพิ่มเติม
 settings-translations-subpage-speed-up-translation-header =
