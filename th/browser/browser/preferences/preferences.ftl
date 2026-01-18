@@ -432,15 +432,32 @@ settings-translations-subpage-download-languages-select-option =
 settings-translations-subpage-download-languages-button =
     .aria-label = ดาวน์โหลดภาษา
     .title = ดาวน์โหลดภาษา
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
 settings-translations-subpage-no-languages-downloaded =
     .label = ไม่มีภาษาที่ดาวน์โหลด
+settings-translations-subpage-no-languages-added =
+    .label = ไม่ได้เพิ่มภาษา
 settings-translations-subpage-download-progress = กำลังดาวน์โหลด…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = ไม่สามารถดาวน์โหลด { $language } ({ $size }MB)
 settings-translations-subpage-download-retry-button =
     .label = ลองอีกครั้ง
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = ลบ { $language } ({ $size }MB) หรือไม่?
 settings-translations-subpage-download-delete-button =
     .label = ลบ
 settings-translations-subpage-download-cancel-button =
     .label = ยกเลิก
+settings-translations-subpage-no-sites-added =
+    .label = ไม่ได้เพิ่มไซต์
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -612,8 +629,13 @@ update-in-progress-cancel-button = &ดำเนินการต่อ
 
 ## Firefox support
 
+support-application-heading =
+    .label = การสนับสนุนของ { -brand-short-name }
+    .description = แก้ไขปัญหาหรือแบ่งปันแนวคิดกับชุมชน
 support-get-help =
     .label = รับความช่วยเหลือ
+support-share-ideas =
+    .label = แบ่งปันแนวคิดและข้อเสนอแนะ
 
 ## General Section - Performance
 
