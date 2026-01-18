@@ -747,6 +747,8 @@ home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete do
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Privzeti brskalnik
 set-as-my-default-browser-2 =
     .label = Nastavi za privzeto
     .accesskey = N
