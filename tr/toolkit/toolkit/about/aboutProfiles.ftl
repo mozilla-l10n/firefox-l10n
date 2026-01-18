@@ -27,6 +27,7 @@ profiles-rootdir = Kök klasör
 profiles-localdir = Yerel klasör
 profiles-current-profile = Bu profil şu anda kullanıldığı için silinemez.
 profiles-in-use-profile = Bu profil başka bir uygulama tarafından kullanılmakta olduğu için silinemez.
+profiles-cannot-delete-profile = Başka profillerle bağlantılı bir profili silemezsiniz.
 profiles-rename = Adını değiștir
 profiles-remove = Sil
 profiles-set-as-default = Varsayılan profil yap

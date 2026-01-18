@@ -645,11 +645,48 @@ pdfjs-toggle-views-manager-button =
 pdfjs-toggle-views-manager-button-label = Kenar çubuğunu aç/kapat
 pdfjs-views-manager-sidebar =
     .aria-label = Kenar çubuğu
+pdfjs-views-manager-view-selector-button =
+    .title = Görünümler
+pdfjs-views-manager-view-selector-button-label = Görünümler
+pdfjs-views-manager-pages-title = Sayfalar
+pdfjs-views-manager-outlines-title = Belge ana hatları
+pdfjs-views-manager-attachments-title = Ekler
+pdfjs-views-manager-layers-title = Katmanlar
+pdfjs-views-manager-pages-option-label = Sayfalar
+pdfjs-views-manager-outlines-option-label = Belge ana hatları
+pdfjs-views-manager-attachments-option-label = Ekler
+pdfjs-views-manager-layers-option-label = Katmanlar
+pdfjs-views-manager-add-file-button =
+    .title = Dosya ekle
+pdfjs-views-manager-add-file-button-label = Dosya ekle
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } seçili
+       *[other] { $count } seçili
+    }
 pdfjs-views-manager-pages-status-action-button-label = Yönet
 pdfjs-views-manager-pages-status-copy-button-label = Kopyala
 pdfjs-views-manager-pages-status-cut-button-label = Kes
 pdfjs-views-manager-pages-status-delete-button-label = Sil
 pdfjs-views-manager-pages-status-save-as-button-label = Farklı kaydet…
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 sayfa kopyalandı
+       *[other] { $count } sayfa kopyalandı
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 sayfa silindi
+       *[other] { $count } sayfa silindi
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Dosyanız hazırlanıyor…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Dosya yükleniyor…
 pdfjs-views-manager-status-undo-button-label = Geri al
 pdfjs-views-manager-status-close-button =
     .title = Kapat

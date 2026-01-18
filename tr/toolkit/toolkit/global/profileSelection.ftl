@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Başlangıçta sormadan seçili profili kullan
     .accesskey = k
+profile-has-selectable-profiles-title = Başka profillerle bağlantılı bir profili silemezsiniz
