@@ -2195,3 +2195,34 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = Blokeatzeak esan nahi du ez duzula { -brand-short-name }(e)n ikusiko AA hobekuntzarik ez eta hauei buruzko laster-leihorik. <a data-l10n-name="link">Lortu xehetasun gehiago </a> honen barruan sartzen denari buruz eta nola kontrolatu ikasketa automatikoko eginbide tradizionalak, hala nola bilaketa-iradokizunak eta gomendioak.
 preferences-ai-controls-blocked-message =
     .message = AA hobekuntzak blokeatuta daude lehenespenez. Eginbide jakin bat desblokeatzeko, erabili azpiko kontrolak.
+preferences-ai-controls-on-device-group =
+    .label = Gailuko AA
+    .description = Eginbidea erabiltzen baduzu, hauek zure gailura deskargatzen diren AA modelo txikiak erabiliko dituzte. Metodo honek zure pribatutasuna babesten laguntzen du.
+preferences-ai-controls-translations-control =
+    .label = Itzulpenak
+    .description = Arakatu weba zure gogoko hizkuntzan inolako koskarik gabe.
+preferences-ai-controls-translations-more-link = Itzulpenen ezarpen gehiago
+preferences-ai-controls-pdfjs-control =
+    .label = Irudien testu alternatiboa { -brand-short-name } PDF ikustailean
+    .description = PDFtan irudiak gehitzen dituzunean, honek azalpenak gehitzen dizkie erabilgarriak izan daitezen.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Fitxa-taldeen gomendioak
+    .description = Lortu gomendioak zure fitxak izendatu eta antolatzeko.
+preferences-ai-controls-key-points-control =
+    .label = Puntu nagusiak loturen aurrebistetan
+    .description = Ikusi laburpen azkar bat lotura bat ireki aurretik.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = AA txaterako boten hornitzaileak alboko barran
+    .description = Izan bistan txaterako bota nabigatu bitartean. Aukeratu hainbaten artean: Anthropic Claude, ChatGPT, Copilot, Google Gemini eta Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Txaterako bota alboko barran
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Erabilgarri
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Gaituta
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokeatuta
+preferences-ai-controls-state-description-before = Aukerak zer esan nahi duen:

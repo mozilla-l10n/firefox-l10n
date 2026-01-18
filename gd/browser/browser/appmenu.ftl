@@ -199,6 +199,9 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
+profiler-popup-presets-ml-description = Ro-sheata airson bugaichean ionnsachaidh-inneil a rannsachadh ann am { -brand-shorter-name }
+profiler-popup-presets-ml-label =
+    .label = Ionnsachadh-inneil
 profiler-popup-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Networking
@@ -209,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Preset for debugging in { -brand-shorter-name }. High overhead, do not use for performance work but use for focusing on understanding browser behavior.
 profiler-popup-presets-debug-label =
     .label = Debug
+profiler-popup-presets-web-compat-description = Ro-sheata a mholamaid airson duilgheadasan leis a’ cho-chòrdalachd-lìn a dhì-bhugachadh air làraichean-lìn, seach tracadh an dèanadais.
+profiler-popup-presets-web-compat-label =
+    .label = Co-chòrdalachd-lìn
 profiler-popup-presets-custom-label =
     .label = Custom
 
@@ -291,6 +297,10 @@ appmenuitem-services-relay-description = Cuir gu dol deas-bhòrd masgan a’ phu
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Dìon do ghnìomhachd air loidhne
 appmenu-services-header = Na seirbheisean agam
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Feuch na h-innealan-dìon eile aig Mozilla:
 appmenu-other-protection-header = Feuch na h-innealan dìon eile o { -vendor-short-name }:
 
 ## Profiles panel
@@ -298,6 +308,8 @@ appmenu-other-protection-header = Feuch na h-innealan dìon eile o { -vendor-sho
 appmenu-other-profiles = Pròifilean eile
 appmenu-manage-profiles =
     .label = Stiùirich na pròifilean
+appmenu-copy-profile =
+    .label = Dèan lethbhreac dhen phròifil seo
 appmenu-create-profile =
     .label = Pròifil ùr
 appmenu-edit-profile =
