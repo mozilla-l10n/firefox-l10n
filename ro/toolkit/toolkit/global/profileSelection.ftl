@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Utilizează profilul selectat fără a mai întreba la pornire
     .accesskey = s
+profile-has-selectable-profiles-title = Nu poți șterge un profil legat la alte profiluri
+profile-has-selectable-profiles-message = Pentru ștergerea profilului, deschide-l și selecționează „Gestionează profilurile” din secțiunea de profiluri din meniul { -brand-short-name }. După ștergerea oricăror profiluri suplimentare pe care le-ai creat aici, poți reveni la about:profiles și să ștergi acest profil.

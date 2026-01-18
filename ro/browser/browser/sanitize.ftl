@@ -128,3 +128,6 @@ sanitize-everything-warning = Va fi șters tot istoricul.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Se vor șterge toate elementele selectate.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Calcul în curs…

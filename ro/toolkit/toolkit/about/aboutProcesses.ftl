@@ -134,6 +134,7 @@ about-processes-utility-actor-mf-media-engine = CDM-ul motorului media Windows M
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Utilitare Windows
 about-processes-utility-actor-windows-file-dialog = Casetă de dialog pentru fișiere Windows
+about-processes-utility-actor-pkcs11-module = Asistent modul de securitate
 
 ## Displaying CPU (percentage and total)
 ## Variables:

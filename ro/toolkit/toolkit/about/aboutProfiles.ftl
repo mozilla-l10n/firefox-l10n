@@ -27,6 +27,7 @@ profiles-rootdir = Dosar rădăcină
 profiles-localdir = Director local
 profiles-current-profile = Acesta este profilul în uz și nu poate fi șters.
 profiles-in-use-profile = Acest profil este folosit în altă aplicație și nu poate fi șters.
+profiles-cannot-delete-profile = Nu poți șterge un profil legat la alte profiluri.
 profiles-rename = Redenumește
 profiles-remove = Elimină
 profiles-set-as-default = Setează ca profil implicit
