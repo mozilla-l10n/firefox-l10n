@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sincronización
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controles de IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador predeterminado
+is-default-browser-2 =
+    .message = { -brand-short-name } es su navegador predeterminado. Buena elección.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } no es su navegador predeterminado.
 set-as-my-default-browser-2 =
     .label = Convertir en predeterminado
     .accesskey = C
@@ -982,6 +991,9 @@ suggestions-addressbar-settings-generic2 = Cambiar configuración para otras sug
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header2 = Atajos de búsqueda
 search-one-click-desc = Elija los buscadores alternativos que aparecen bajo las barras de direcciones y de búsqueda cuando comienza a escribir una palabra clave.
+search-one-click-header-3 =
+    .label = Buscadores adicionales
+    .description = Elija qué buscadores y atajos aparecen en su barra de direcciones.
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
