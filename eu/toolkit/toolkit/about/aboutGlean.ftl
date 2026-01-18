@@ -37,7 +37,20 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ez bidali ping-ik)
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
+about-glean-feedback-settings-only =
+    .message = Ezarpenak aplikatuta!
+about-glean-feedback-settings-and-ping =
+    .message = Ezarpenak aplikatuta eta ping-a bidalita!
 about-glean-about-data-header = Datuei buruz
+about-glean-about-data-description =
+    Bila zabiltzanaren arabera, zure datuak ikusteko erabil ditzakezun
+    hainbat tresna daude.
+about-glean-about-data-description-list-intro =
+    Egin erreferentzia beheko zerrendari tresna
+    bakoitzaren erabilpen-kasu zehatzetarako:
+about-glean-about-data-list-item-dictionary =
+    Aplikazioko { -glean-brand-name }(e)k biltzen duen datu-zerrenda arakatzeko, begiratu
+    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.
 about-glean-metrics-table-header = Neurkera guztiak
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategoria

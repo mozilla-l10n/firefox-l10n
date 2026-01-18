@@ -81,6 +81,8 @@ about-webauthn-update-button = Eguneratu
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Erabiltzailearen egiaztapena
+about-webauthn-auth-option-up = Erabiltzailearen presentzia
 about-webauthn-auth-option-clientpin = Bezeroaren PINa
 about-webauthn-auth-option-rk = Egoitzaren gakoa
 about-webauthn-auth-option-plat = Plataformako gailua
@@ -124,6 +126,13 @@ about-webauthn-auth-info-min-pin-length = PIN luzera minimoa
 about-webauthn-auth-info-force-pin-change = Behartu PIN aldaketa
 about-webauthn-auth-info-max-ser-large-blob-array = Blob array handi baten tamaina maximoa
 about-webauthn-auth-info-algorithms = Algoritmoak
+about-webauthn-auth-info-transports = Garraioak
+about-webauthn-auth-info-max-credential-id-length = Kredentzialen IDaren luzera maximoa
+about-webauthn-auth-info-max-credential-count-in-list = Kredentzialen kopuru maximoa zerrendan
+about-webauthn-auth-info-pin-protocols = PIN protokoloak
+about-webauthn-auth-info-max-msg-size = Mezuaren tamaina maximoa
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Hedapenak
 about-webauthn-auth-info-versions = Bertsioak
 # Shows when boolean value for an info field is True. True should not be translated.
@@ -131,3 +140,41 @@ about-webauthn-auth-info-true = Egia
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Faltsua
 about-webauthn-auth-info-null = Ez dago onartuta
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Oraindik lagin { $repeatCount } behar da.
+       *[other] Oraindik { $repeatCount } lagin behar dira.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Lagina ondo zegoen.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Lagina altuegia zen.
+about-webauthn-ctap2-enroll-feedback-too-low = Lagina baxuegia zen.
+about-webauthn-ctap2-enroll-feedback-too-left = Lagina ezkerregi zegoen.
+about-webauthn-ctap2-enroll-feedback-too-right = Lagina eskuinegi zegoen.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Lagina azkarregia zen.
+about-webauthn-ctap2-enroll-feedback-too-slow = Lagina mantsoegia zen.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Laginak kalitate eskasa zuen.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Lagina distortsionatuegi zegoen.
+about-webauthn-ctap2-enroll-feedback-too-short = Lagina laburregia zen.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Lagina konbinatzeko hutsegitea.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Lagina badago lehendik ere.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Erabiltzailearen jarduerarik ez.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Erabiltzaileak ez du laginketa espero bezala burutu.
+about-webauthn-ctap2-enroll-feedback-other = Laginaren errorea.
