@@ -53,6 +53,7 @@ category-privacy =
 pane-sync-title3 = Συγχρονισμός
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Επιλογές ελέγχου ΤΝ
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Πειράματα { -brand-short-name }
@@ -746,6 +747,10 @@ home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε �
 
 home-default-browser-title =
     .label = Προεπιλεγμένο πρόγραμμα περιήγησης
+is-default-browser-2 =
+    .message = Το { -brand-short-name } είναι το προεπιλεγμένο σας πρόγραμμα περιήγησης. Καλή επιλογή!
+is-not-default-browser-2 =
+    .message = Ψιτ, το { -brand-short-name } δεν έχει οριστεί ως προεπιλογή.
 set-as-my-default-browser-2 =
     .label = Ορισμός ως προεπιλογή
     .accesskey = Π
@@ -1377,6 +1382,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Απαίτηση σύνδεσης μέσω συσκευής για συμπλήρωση και διαχείριση κωδικών πρόσβασης
+forms-os-reauth-2 =
+    .label = Απαίτηση σύνδεσης μέσω συσκευής για τη διαχείριση των κωδικών πρόσβασης
 forms-primary-pw-learn-more-link = Μάθετε περισσότερα
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1997,6 +2004,7 @@ collection-studies-description = Δοκιμάστε λειτουργίες κα�
 collection-studies =
     .label = Να επιτρέπεται στο { -brand-short-name } να εγκαθιστά και να εκτελεί μελέτες
 collection-studies-link = Προβολή μελετών του { -brand-short-name }
+nimbus-rollouts-enabled-description = Οι αλλαγές θα εφαρμόζονται απομακρυσμένα.
 addon-recommendations2 =
     .label = Να επιτρέπονται εξατομικευμένες προτάσεις επεκτάσεων
 addon-recommendations-description = Λάβετε προτάσεις επεκτάσεων για να βελτιώσετε την εμπειρία περιήγησής σας.
@@ -2174,6 +2182,8 @@ preferences-ai-controls-header =
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-translations-more-link = Περισσότερες ρυθμίσεις μεταφράσεων
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot στην πλαϊνή γραμμή
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Διαθέσιμο

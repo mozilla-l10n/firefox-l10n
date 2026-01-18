@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Χρήση επιλεγμένου προφίλ χωρίς ερώτηση στην εκκίνηση
     .accesskey = ρ
+profile-has-selectable-profiles-title = Δεν είναι δυνατή η διαγραφή ενός προφίλ που είναι συνδεδεμένο με άλλα προφίλ

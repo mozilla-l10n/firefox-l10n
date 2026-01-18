@@ -46,3 +46,6 @@ about-translations-translating-message = Μετάφραση…
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = Εναλλαγή γλωσσών
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Απαλοιφή αρχικού κειμένου

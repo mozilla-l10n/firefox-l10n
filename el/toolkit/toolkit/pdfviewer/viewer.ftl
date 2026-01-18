@@ -669,6 +669,20 @@ pdfjs-views-manager-pages-status-copy-button-label = Αντιγραφή
 pdfjs-views-manager-pages-status-cut-button-label = Αποκοπή
 pdfjs-views-manager-pages-status-delete-button-label = Διαγραφή
 pdfjs-views-manager-pages-status-save-as-button-label = Αποθήκευση ως…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] Αποκόπηκε 1 σελίδα
+       *[other] Αποκόπηκαν { $count } σελίδες
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] Αντιγράφηκε 1 σελίδα
+       *[other] Αντιγράφηκαν { $count } σελίδες
+    }
 pdfjs-views-manager-pages-status-waiting-ready-label = Προετοιμασία αρχείου…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Μεταφόρτωση αρχείου…
 pdfjs-views-manager-status-undo-button-label = Αναίρεση

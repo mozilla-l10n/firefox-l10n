@@ -468,6 +468,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Αναζήτηση τοποθεσίας
     .aria-label = Αναζήτηση τοποθεσίας
 newtab-weather-menu-weather-display = Προβολή καιρού
+newtab-weather-todays-forecast = Πρόγνωση ημέρας
+newtab-weather-see-full-forecast = Προβολή πλήρους πρόγνωσης
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
