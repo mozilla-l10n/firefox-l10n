@@ -917,6 +917,13 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = แสดงคำแนะนำการค้นหาในผลลัพธ์ของแถบที่อยู่
     .accesskey = ส
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = แสดงข้อเสนอแนะการค้นหาก่อนประวัติการเรียกดูในผลลัพธ์แถบที่อยู่
 search-show-suggestions-private-windows-2 =
     .label = แสดงคำแนะนำการค้นหาในหน้าต่างส่วนตัว
 search-suggestions-cant-show-2 =
@@ -932,6 +939,13 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = แสดงคำค้นหาในแถบที่อยู่บนหน้าผลลัพธ์
+search-separate-default-engine-2 =
+    .label = ใช้เครื่องมือค้นหาอื่นในหน้าต่างส่วนตัว
+    .accesskey = ช
+search-separate-default-engine-dropdown =
+    .aria-label = เครื่องมือค้นหาเริ่มต้นในหน้าต่างส่วนตัว
+search-suggestions-header-2 =
+    .label = ข้อเสนอแนะเครื่องมือค้นหา
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1008,6 +1022,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = การซิงค์
+account-group-label =
+    .label = บัญชี { -vendor-short-name }
+account-placeholder =
+    .label = คุณไม่ได้ลงชื่อเข้า
+    .description = ลงชื่อเข้าเพื่อให้ข้อมูลของคุณเป็นส่วนตัว เข้ารหัสลับ และซิงค์ผ่านอุปกรณ์ต่าง ๆ อยู่เสมอ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1017,6 +1036,12 @@ sync-signedout-description2 = ประสานที่คั่นหน้�
 sync-signedout-account-signin3 =
     .label = ลงชื่อเข้าเพื่อซิงค์…
     .accesskey = ข
+sync-signedout-account-signin-4 =
+    .label = ลงชื่อเข้าบัญชีของคุณเพื่อเริ่มการซิงค์
+    .accesskey = ล
+sync-signedout-account-short =
+    .label = ลงชื่อเข้า
+    .accesskey = ล
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1055,7 +1080,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
+sync-signedin-unverified2 =
+    .label = { $email } ยังไม่ได้ยืนยัน
+    .description = ตรวจสอบกล่องจดหมายของคุณเพื่อยืนยันบัญชีของคุณอย่างเป็นทางการ
 sync-signedin-login-failure = โปรดลงชื่อเข้าเพื่อเชื่อมต่อ { $email } ใหม่
+sync-signedin-login-failure2 =
+    .label = คุณลงชื่อออกจาก { $email } แล้ว
+    .description = ลงชื่อเข้าอีกครั้งเพื่อเชื่อมต่อใหม่และเริ่มการซิงค์ข้อมูลของคุณ
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1078,6 +1119,9 @@ prefs-syncing-on = การซิงค์: เปิด
 prefs-syncing-on-2 =
     .label = การซิงค์เปิดอยู่
 prefs-syncing-off = การซิงค์: ปิด
+prefs-syncing-off-2 =
+    .label = การซิงค์ปิดอยู่
+    .description = เปิดการซิงค์เพื่อนำที่คั่นหน้า รหัสผ่าน ประวัติ และอื่น ๆ มาไว้บนอุปกรณ์ใด ๆ ของคุณ
 prefs-sync-turn-on-syncing =
     .label = เปิดการซิงค์…
     .accesskey = ซ
@@ -1104,6 +1148,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = คุณกำลังซิงค์รายการเหล่านี้กับอุปกรณ์ที่เชื่อมต่อทั้งหมดของคุณ:
+sync-syncing-across-devices-heading-2 = ข้อมูลที่ซิงค์ผ่านอุปกรณ์ต่าง ๆ
+sync-syncing-across-devices-empty-state =
+    .label = คุณยังไม่ได้ซิงค์ข้อมูลอะไร… เลย
+    .description = เริ่มการซิงค์เพื่อนำข้อมูลทั้งหมดของคุณมาไว้บนอุปกรณ์ทั้งหมดของคุณ
 sync-currently-syncing-bookmarks = ที่คั่นหน้า
 sync-currently-syncing-history = ประวัติ
 sync-currently-syncing-tabs = แท็บที่เปิด
@@ -1116,6 +1164,9 @@ sync-currently-syncing-addons = ส่วนเสริม
 sync-currently-syncing-settings = การตั้งค่า
 sync-manage-options =
     .label = จัดการการซิงค์…
+    .accesskey = จ
+sync-manage-options-2 =
+    .label = จัดการข้อมูลที่ซิงค์
     .accesskey = จ
 sync-change-options =
     .label = เปลี่ยน…
@@ -1379,6 +1430,13 @@ payments-list-item-label = <strong>วิธีการชำระเงิน
 payments-delete-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
 payments-delete-payment-prompt-confirm-button = ลบ
 payments-delete-payment-prompt-cancel-button = ยกเลิก
+payments-delete-payment-button-label =
+    .aria-label = ลบ
+payments-edit-payment-button-label =
+    .aria-label = แก้ไข
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = ไม่ได้เพิ่มวิธีการชำระเงิน
 payments-remove-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
 payments-remove-payment-prompt-confirm-button = ลบ
 payments-remove-payment-prompt-cancel-button = ยกเลิก
@@ -1400,8 +1458,19 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ลบที่อยู่นี้หรือไม่?
 addresses-delete-address-prompt-confirm-button = ลบ
 addresses-delete-address-prompt-cancel-button = ยกเลิก
+autofill-addresses-add-button = เพิ่มที่อยู่ใหม่
 autofill-addresses-manage-addresses-title =
     .heading = จัดการที่อยู่และอื่นๆ
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = ไม่ได้เพิ่มที่อยู่
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1613,6 +1682,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = คำสั่งด่วน
     .accesskey = ด
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = การค้นหาล่าสุด
+    .accesskey = ค
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = ข้อเสนอแนะการค้นหาที่กำลังมาแรง
+    .accesskey = ข
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = คำแนะนำจาก { -brand-short-name }
@@ -1649,6 +1724,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = คำแนะนำที่ถูกปิด
     .description = เรียกคืนคำแนะนำที่ถูกปิดจากผู้สนับสนุนและ { -brand-short-name }
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = เรียกคืนข้อเสนอแนะ
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 addressbar-dismissed-suggestions-label = คำแนะนำที่ถูกปิด
 addressbar-restore-dismissed-suggestions-description = เรียกคืนคำแนะนำที่ถูกปิดจากผู้สนับสนุนและ { -brand-short-name }
