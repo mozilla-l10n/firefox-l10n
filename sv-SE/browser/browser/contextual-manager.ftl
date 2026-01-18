@@ -327,7 +327,7 @@ contextual-manager-passwords-discard-changes-go-back-button = Gå tillbaka
 contextual-manager-passwords-remove-all-passwords-checkbox =
     { $total ->
         [1] Ja, ta bort lösenordet
-       *[other] Yes, remove passwords
+       *[other] Ja, ta bort lösenorden
     }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = För att se dina sparade lösenord anger du ditt primära lösenord.
