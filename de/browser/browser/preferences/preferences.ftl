@@ -2208,3 +2208,17 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Wichtige Punkte in der Link-Vorschau
     .description = Sehen Sie eine Zusammenfassung, bevor Sie einen Link öffnen.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = KI-Chatbot-Anbieter in der Sidebar
+    .description = Behalten Sie einen Chatbot in Reichweite, während Sie surfen. Wählen Sie zwischen Anthropic Claude, ChatGPT, Copilot, Google Gemini, und Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot in der Sidebar
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Verfügbar
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Aktiviert
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blockiert
