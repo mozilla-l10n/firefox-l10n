@@ -98,12 +98,15 @@ inactive-css-not-inline-or-tablecell-fix = Saiatu <strong>display: inline</stron
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Saiatu <strong>display: inline-block</strong> edo <strong>display: block</strong> gehitzen. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Saiatu <strong>display: inline-block</strong> gehitzen. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Saiatu <strong>float</strong> kentzen edo <strong>display: block</strong> gehitzen. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Saiatu elementuaren edukiontziaren <strong>display</strong> balioa <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong> edo <strong>inline-grid</strong> ez beste balio batera aldatzen edo <strong>float</strong> kentzen. { learn-more }
 inactive-css-not-block-fix = Saiatu <strong>display: block</strong> edo <strong>float: left</strong> moduko propietateak gehitzen. { learn-more }
 inactive-css-not-block-container-fix = Saiatu <strong>display: block</strong>, <strong>display: inline-block</strong> edo <strong>display: flow-root</strong> gehitzen. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Saiatu <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> edo <strong>display:flow-root</strong> gehitzen. { learn-more }
 inactive-css-not-floated-fix = Saiatu <strong>position</strong> propietatea gehitzen <strong>none</strong> ez den beste balio batekin. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Saiatu bere <strong>position</strong> propietateari <strong>static</strong> ez den beste balio bat ezartzen. { learn-more }
 inactive-css-only-replaced-elements-fix = Ziurtatu propietatea ordezkatutako elementu bati gehitzen diozula. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Saiatu <strong>overflow:hidden</strong> gehitzen. { learn-more }
+inactive-css-no-size-containment-fix = Saiatu bere <strong>display</strong>propietatea <strong>none</strong>, <strong>contents</strong>, <strong>table</strong> edo <strong>inline-table</strong> ez beste zerbaitera ezartzen eta ziurtatu ez dagoela taula baten edo ruby segmentu baten barruan. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Saiatu bere <strong>display</strong> propietatea <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Saiatu bere <strong>display</strong> propietatea <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen. { learn-more }
 inactive-css-not-table-fix = Saiatu gehitzen <strong>display:table</strong> edo <strong>display:inline-table</strong>. { learn-more }
@@ -111,8 +114,10 @@ inactive-css-collapsed-table-borders-fix = Saiatu <strong>border-collapse:separa
 inactive-css-not-table-cell-fix = Saiatu <strong>display:table-cell</strong> gehitzen. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Saiatu gehitzen <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> edo <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Guraso taula-elementuan, kendu propietatea edo aldatu <strong>border-collapse</strong> atributuaren balioa <strong>collapse</strong> ez den beste balio batera. { learn-more }
+inactive-css-resize-fix = Saiatu <strong>overflow</strong> propietatearen balioa <strong>visible</strong> ez beste zerbaitera ezartzen edo hau onartuko duen ordezkatutako elementu bat helburutzat hartzen. { learn-more }
 inactive-css-ruby-element-fix = Saiatu 'ruby' testuaren <strong>font-size</strong> propietatea aldatzen. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Saiatu lerro kopurua gutxitzen. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Saihestu elementuaren edukia zatitzen, adibidez zutabeak kenduz edo <strong>page-break-inside:avoid</strong> erabiliz. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
