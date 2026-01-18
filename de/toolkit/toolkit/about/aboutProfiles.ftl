@@ -27,6 +27,7 @@ profiles-rootdir = Wurzelordner
 profiles-localdir = Lokaler Ordner
 profiles-current-profile = Dieses Profil wird derzeit verwendet und kann daher nicht gelöscht werden.
 profiles-in-use-profile = Dieses Profil wird derzeit durch eine andere Anwendung verwendet und kann daher nicht gelöscht werden.
+profiles-cannot-delete-profile = Ein mit anderen Profilen verknüpftes Profil kann nicht gelöscht werden.
 profiles-rename = Umbenennen
 profiles-remove = Löschen
 profiles-set-as-default = Als Standardprofil festlegen
