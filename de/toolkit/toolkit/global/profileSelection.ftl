@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Gewähltes Profil beim Start ohne Nachfrage verwenden
     .accesskey = S
 profile-has-selectable-profiles-title = Ein mit anderen Profilen verknüpftes Profil kann nicht gelöscht werden
+profile-has-selectable-profiles-message = Um dieses Profil zu löschen, öffnen Sie es und wählen „Profile verwalten“ im Abschnitt „Profile“ des { -brand-short-name }-Menüs. Nachdem Sie alle zusätzlichen Profile, die Sie hier erstellt haben, gelöscht haben, können Sie zu about:profiles zurückkehren und dieses Profil löschen.
