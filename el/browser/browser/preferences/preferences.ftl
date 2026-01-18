@@ -2174,3 +2174,14 @@ preferences-ai-controls-header =
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-translations-more-link = Περισσότερες ρυθμίσεις μεταφράσεων
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Διαθέσιμο
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ενεργό
+preferences-ai-controls-state-description-before = Τι σημαίνουν οι επιλογές:
+preferences-ai-controls-block-confirmation-translations = Μεταφράσεις
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Προτάσεις ομάδων καρτελών
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Ακύρωση
