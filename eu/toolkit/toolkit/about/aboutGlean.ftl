@@ -51,6 +51,16 @@ about-glean-about-data-description-list-intro =
 about-glean-about-data-list-item-dictionary =
     Aplikazioko { -glean-brand-name }(e)k biltzen duen datu-zerrenda arakatzeko, begiratu
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.
+about-glean-about-data-list-item-about-telemetry =
+    Legatu-telemetriak biltzen dituen datuak arakatzeko, begiratu
+    <a data-l10n-name="about-telemetry-link">about:telemetry</a>.
+about-glean-about-data-list-item-debug-ping-viewer =
+    Arazketarako etiketak arakatzeko, ping osoak ikustkeo, gertaeren zuzeneko stream-a ikusteko edo
+    metriken bistaratzeak ikusteko, begiratu
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
+about-glean-about-data-list-item-firefox-profiler =
+    Errendimenduaren profila grabatu eta grabatutako metrika guztiak ikusteko, erabili
+    <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
 about-glean-metrics-table-header = Neurkera guztiak
 # This message refers to the category in which a given metric is recorded.
 about-glean-metrics-table-header-category = Kategoria
