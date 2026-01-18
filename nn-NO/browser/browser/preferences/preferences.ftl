@@ -747,6 +747,10 @@ home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida
 
 home-default-browser-title =
     .label = Standard nettlesar
+is-default-browser-2 =
+    .message = { -brand-short-name } er standardnettlesar. Godt val.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } er ikkje standardnettlesar.
 set-as-my-default-browser-2 =
     .label = Bruk som standard
     .accesskey = S
