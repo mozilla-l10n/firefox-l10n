@@ -27,6 +27,7 @@ profiles-rootdir = Haadmap
 profiles-localdir = Lokale map
 profiles-current-profile = Dit is it profyl dat yn gebrûk is en kin dêrom net fuortsmiten wurde.
 profiles-in-use-profile = Dit profyl is yn gebrûk yn in oare tapassing en kin dêrom net fuortsmiten wurde.
+profiles-cannot-delete-profile = Kin gjin profyl dat oan oare profilen keppele is fuortsmite.
 profiles-rename = Omneame
 profiles-remove = Fuortsmite
 profiles-set-as-default = Ynstelle as standertprofyl

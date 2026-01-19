@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Selektearre profyl brûke sûnder te freegjen by it opstarten
     .accesskey = r
+profile-has-selectable-profiles-title = Kin gjin profyl dat oan oare profilen keppele is fuortsmite
+profile-has-selectable-profiles-message = Om dit profyl fuort te smiten, iepenje it en selektearje jo ‘Profilen beheare’ yn de seksje Profilen fan it { -brand-short-name }-menu. Nei it fuortsmiten fan alle ekstra profilen dy’t jo hjir makke hawwe, kinne jo weromgean nei about:profiles en dit profyl fuortsmite.

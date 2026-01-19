@@ -2237,6 +2237,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Alternative tekst bij ôfbyld
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggestjes foar ljepblêdgroepen
 preferences-ai-controls-block-confirmation-key-points = Haadpunten yn foarbylden fan keppelingen
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbotproviders yn de sydbalke
+preferences-ai-controls-block-confirmation-features-after = Blokkearjen hat ek ynfloed op útwreidingen dy’t AI fan { -brand-short-name } brûke.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Annulearje
 preferences-ai-controls-block-confirmation-confirm =
