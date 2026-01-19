@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Syngronisaasje
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI-bestjoeringen
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-eksperiminten
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiminten
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standertbrowser
+is-default-browser-2 =
+    .message = { -brand-short-name } is jo standertbrowser. Goede kar.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } is net jo standert.
 set-as-my-default-browser-2 =
     .label = Standert meitsje
     .accesskey = S
@@ -1460,6 +1469,10 @@ payments-list-item-label = <strong>Betellingsmetoaden</strong>
 payments-delete-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
 payments-delete-payment-prompt-confirm-button = Fuortsmite
 payments-delete-payment-prompt-cancel-button = Annulearje
+payments-delete-payment-button-label =
+    .aria-label = Fuortsmite
+payments-edit-payment-button-label =
+    .aria-label = Bewurkje
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Gjin betellingsmetoaden tafoege
@@ -2101,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Allinnich-HTTPS-modus
     .description = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2168,3 +2183,11 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Búroblêd
 downloads-folder-name = Myn downloads
 choose-download-folder-title = Downloadmap kieze:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = AI-ferbetteringen blokkearje
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }

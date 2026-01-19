@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synchronisatie
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI-bedieningselementen
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-experimenten
 category-experimental =
     .tooltiptext = { -brand-short-name }-experimenten
@@ -1460,6 +1463,10 @@ payments-list-item-label = <strong>Betaalmethoden</strong>
 payments-delete-payment-prompt-title = Deze betalingsmethode verwijderen?
 payments-delete-payment-prompt-confirm-button = Verwijderen
 payments-delete-payment-prompt-cancel-button = Annuleren
+payments-delete-payment-button-label =
+    .aria-label = Verwijderen
+payments-edit-payment-button-label =
+    .aria-label = Bewerken
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Geen betalingsmethoden toegevoegd
@@ -2101,6 +2108,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Alleen-HTTPS-modus
     .description = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2168,3 +2177,25 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Bureaublad
 downloads-folder-name = Downloads
 choose-download-folder-title = Downloadmap kiezen:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Beschikbaar
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ingeschakeld
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Geblokkeerd
+preferences-ai-controls-state-description-before = Wat de opties betekenen:
+preferences-ai-controls-block-confirmation-translations = Vertalingen
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Annuleren
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blokkeren
