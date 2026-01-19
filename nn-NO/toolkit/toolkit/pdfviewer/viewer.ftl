@@ -659,6 +659,7 @@ pdfjs-views-manager-layers-option-label = Lag
 pdfjs-views-manager-add-file-button =
     .title = Legg til fil
 pdfjs-views-manager-add-file-button-label = Legg til fil
+pdfjs-views-manager-pages-status-none-action-label = Vel sider
 pdfjs-views-manager-pages-status-action-button-label = Handsam
 pdfjs-views-manager-pages-status-copy-button-label = Kopier
 pdfjs-views-manager-pages-status-cut-button-label = Klipp ut

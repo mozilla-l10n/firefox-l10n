@@ -2192,6 +2192,9 @@ preferences-ai-controls-description = Du har alltid eit val i { -brand-short-nam
 preferences-ai-controls-block-ai-label = Blokker AI-forbetringar
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokkering betyr at du ikkje vil sjå nye eller eksisterande AI-forbetringar i { -brand-short-name }, eller varsel om dei. <a data-l10n-name="link">Få fleire detaljar</a> om kva som er inkludert og korleis du kan styre tradisjonelle maskinlæringsfunksjonar, som søkjeforslag og tilrådingar.
+preferences-ai-controls-blocked-message =
+    .message = Nye og eksisterande AI-forbetringar er blokkerte som standard. For å oppheve blokkeringa av ein viss funksjon, bruk kontrollane nedanfor.
 preferences-ai-controls-on-device-group =
     .label = AI på eininga
     .description = Desse brukar små AI-modellar som blir lasta ned til eininga di om du brukar funksjonen. Denne tilnærminga bidreg til å verne personvernet ditt.
@@ -2210,8 +2213,10 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Blokkert
+preferences-ai-controls-state-description-before = Kva alternativa betyr:
 preferences-ai-controls-block-confirmation-features-start = Kva som vil bli blokkert:
 preferences-ai-controls-block-confirmation-translations = Omsetjingar
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Forslag til fanegrupper
 preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
