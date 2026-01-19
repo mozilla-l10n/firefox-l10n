@@ -2188,9 +2188,16 @@ choose-download-folder-title = Downloadmap kieze:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Jo hawwe altyd in kar yn { -brand-short-name }, ynklusyf oft jo funksjes brûke wolle dy’t ferbettere binne mei AI. Ynkoarten mear betsjinningseleminten.
 preferences-ai-controls-block-ai-label = AI-ferbetteringen blokkearje
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokkearjen betsjut dat jo gjin nije of aktuele AI-ferbetteringen yn { -brand-short-name } sjen sille, of pop-ups deroer. <a data-l10n-name="link">Krij mear details</a> oer wat ynbegrepen is en hoe’t jo tradisjonele funksjes foar machine learning beheare kinne, lykas syksuggestjes en oanrekommandaasjes.
+preferences-ai-controls-blocked-message =
+    .message = Nije en aktuele AI-ferbetteringen wurde standert blokkearre. Brûk de ûndersteande knoppen om in spesifike funksje te deblokkearjen.
+preferences-ai-controls-on-device-group =
+    .label = AI op apparaat
+    .description = Dizze brûke lytse AI-modellen dy’t nei jo apparaat download wurde as jo de funksje brûke. Dizze oanpak helpt jo privacy te beskermjen.
 preferences-ai-controls-translations-more-link = Mear oersetynstellingen
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot yn sydbalke

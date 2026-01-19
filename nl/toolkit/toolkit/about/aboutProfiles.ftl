@@ -27,6 +27,7 @@ profiles-rootdir = Hoofdmap
 profiles-localdir = Lokale map
 profiles-current-profile = Dit is het profiel dat in gebruik is en kan daarom niet worden verwijderd.
 profiles-in-use-profile = Dit profiel is in gebruik in een andere toepassing en kan daarom niet worden verwijderd.
+profiles-cannot-delete-profile = Kan geen profiel dat aan andere profielen is gekoppeld verwijderen.
 profiles-rename = Hernoemen
 profiles-remove = Verwijderen
 profiles-set-as-default = Instellen als standaardprofiel

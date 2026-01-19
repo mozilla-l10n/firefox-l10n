@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Geselecteerde profiel gebruiken zonder te vragen bij het opstarten
     .accesskey = r
+profile-has-selectable-profiles-title = Kan geen profiel dat aan andere profielen is gekoppeld verwijderen
+profile-has-selectable-profiles-message = Om dit profiel te verwijderen, opent u het en selecteert u ‘Profielen beheren’ in de sectie Profielen van het { -brand-short-name }-menu. Na het verwijderen van eventuele aanvullende profielen die u hier hebt aangemaakt, kunt u terugkeren naar about:profiles en dit profiel verwijderen.

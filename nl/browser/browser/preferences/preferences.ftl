@@ -745,6 +745,12 @@ home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw start
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standaardbrowser
+is-default-browser-2 =
+    .message = { -brand-short-name } is uw standaardbrowser. Goede keuze.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } is niet uw standaardbrowser.
 set-as-my-default-browser-2 =
     .label = Standaard maken
     .accesskey = m
@@ -2182,8 +2188,34 @@ choose-download-folder-title = Downloadmap kiezen:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = U hebt altijd een keuze in { -brand-short-name }, waaronder het al dan niet gebruiken van met AI verbeterde functies. Binnenkort meer bedieningselementen.
+preferences-ai-controls-block-ai-label = AI-verbeteringen blokkeren
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokkeren betekent dat u geen nieuwe of huidige AI-verbeteringen in { -brand-short-name } ziet, of pop-ups daarover. <a data-l10n-name="link">Ontdek meer</a> over wat er is inbegrepen en hoe u traditionele functies voor machine learning kunt beheren, zoals zoeksuggesties en aanbevelingen.
+preferences-ai-controls-blocked-message =
+    .message = Nieuwe en huidige AI-verbeteringen worden standaard geblokkeerd. Gebruik de onderstaande knoppen om een specifieke functie te deblokkeren.
+preferences-ai-controls-on-device-group =
+    .label = AI op apparaat
+    .description = Deze gebruiken kleine AI-modellen die naar uw apparaat worden gedownload als u de functie gebruikt. Deze benadering helpt uw privacy te beschermen.
+preferences-ai-controls-translations-control =
+    .label = Vertalingen
+    .description = Surf naadloos over het web in uw voorkeurstaal.
+preferences-ai-controls-translations-more-link = Meer vertaalinstellingen
+preferences-ai-controls-pdfjs-control =
+    .label = Alternatieve tekst bij afbeeldingen in { -brand-short-name }-pdf-lezer
+    .description = Als u afbeeldingen aan PDF’s toevoegt, voegt dit beschrijvingen toe om ze toegankelijk te maken.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Suggesties voor tabbladgroepen
+    .description = Ontvang suggesties om uw tabbladen een naam te geven en te ordenen.
+preferences-ai-controls-key-points-control =
+    .label = Hoofdpunten in voorbeelden van koppelingen
+    .description = Bekijk een snelle samenvatting voordat u een koppeling opent.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = AI-chatbotproviders in de zijbalk
+    .description = Houd een chatbot binnen handbereik tijdens het surfen. Kies uit Anthropic Claude, ChatGPT, Copilot, Google Gemini en Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot in zijbalk
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Beschikbaar
@@ -2194,7 +2226,18 @@ preferences-ai-controls-state-enabled =
 preferences-ai-controls-state-blocked =
     .label = Geblokkeerd
 preferences-ai-controls-state-description-before = Wat de opties betekenen:
+preferences-ai-controls-state-description-available = <strong>Beschikbaar:</strong> u ziet de functie en kunt deze gebruiken.
+preferences-ai-controls-state-description-enabled = <strong>Ingeschakeld:</strong> u hebt zich aangemeld voor het gebruik van de functie.
+preferences-ai-controls-state-description-blocked = <strong>Geblokkeerd:</strong> u ziet de functie niet en kunt deze niet gebruiken. Reeds gedownloade modellen voor AI op het apparaat worden verwijderd.
+preferences-ai-controls-block-confirmation-heading = AI-verbeteringen blokkeren?
+preferences-ai-controls-block-confirmation-description = U ziet geen nieuwe of huidige AI-verbeteringen in { -brand-short-name }, of pop-ups daarover. Daarna kunt u alles wat u wilt blijven gebruiken deblokkeren.
+preferences-ai-controls-block-confirmation-features-start = Wat wordt geblokkeerd:
 preferences-ai-controls-block-confirmation-translations = Vertalingen
+preferences-ai-controls-block-confirmation-pdfjs = Alternatieve tekst bij afbeeldingen in { -brand-short-name }-pdf-lezer
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggesties voor tabbladgroepen
+preferences-ai-controls-block-confirmation-key-points = Hoofdpunten in voorbeelden van koppelingen
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbotproviders in zijbalk
+preferences-ai-controls-block-confirmation-features-after = Blokkeren heeft ook invloed op extensies die AI van { -brand-short-name } gebruiken.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Annuleren
 preferences-ai-controls-block-confirmation-confirm =
