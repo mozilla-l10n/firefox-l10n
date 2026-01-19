@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controles de IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -742,6 +745,10 @@ home-new-windows-tabs-description2 = Elija lo que se ve al abrir su página prin
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador predeterminado
+is-default-browser-2 =
+    .message = { -brand-short-name } es su navegador predeterminado. Buena elección.
 set-as-my-default-browser-2 =
     .label = Hacer predeterminado
     .accesskey = D
@@ -982,6 +989,9 @@ suggestions-addressbar-settings-generic2 = Cambiar preferencias para otras suger
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header2 = Atajos de búsqueda
 search-one-click-desc = Seleccionar los buscadores alternativos que aparecen debajo de la barra de direcciones y barra de búsqueda al comenzar a escribir una palabra.
+search-one-click-header-3 =
+    .label = Buscadores adicionales
+    .description = Seleccionar que buscadores y accesos directos aparecerán en la barra de direcciones.
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
@@ -994,6 +1004,9 @@ search-remove-engine =
     .accesskey = r
 search-add-engine =
     .label = Agregar
+    .accesskey = A
+search-add-engine-2 =
+    .label = Agregar buscador
     .accesskey = A
 search-edit-engine =
     .label = Editar
@@ -1454,6 +1467,10 @@ payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-prompt-title = ¿Borrar este método de pago?
 payments-delete-payment-prompt-confirm-button = Borrar
 payments-delete-payment-prompt-cancel-button = Cancelar
+payments-delete-payment-button-label =
+    .aria-label = Borrar
+payments-edit-payment-button-label =
+    .aria-label = Editar
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = No se agregaron métodos de pago
@@ -1989,6 +2006,9 @@ collection-studies-description = Probar funciones e ideas antes de que estén di
 collection-studies =
     .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
 collection-studies-link = Ver los estudios { -brand-short-name }
+nimbus-rollouts-enabled =
+    .label = Permitir que { -brand-short-name } mejore funciones, rendimiento y estabilidad entre actualizaciones
+nimbus-rollouts-enabled-description = Los cambios se aplicarán de forma remota.
 addon-recommendations2 =
     .label = Permitir recomendaciones de extensiones personalizadas
 addon-recommendations-description = Consiga recomendaciones de extensiones para mejorar la experiencia de navegación.
@@ -2089,6 +2109,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modo solo HTTPS
     .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2156,3 +2178,12 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta para descargas:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Bloquear mejoras de IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-more-link = Más opciones de traducciones
