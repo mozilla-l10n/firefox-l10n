@@ -12,7 +12,7 @@ neterror-blocked-by-policy-page-title = 页面已封锁
 neterror-captive-portal-page-title = 请登录网络
 neterror-dns-not-found-title = 找不到服务器
 neterror-malformed-uri-page-title = 无效网址
-general-body-title = 当心，看来有异常情况。
+general-body-title = 当心，似乎有异常情况。
 problem-with-this-site-title = 此网站似乎存在问题
 
 ## Error page actions

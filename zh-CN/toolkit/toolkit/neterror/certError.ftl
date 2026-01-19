@@ -71,8 +71,8 @@ open-in-new-window-for-csp-or-xfo-error = 在新窗口中打开网站
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 为了保护您的安全，{ $hostname } 将不允许 { -brand-short-name } 显示嵌入了其他网站的页面。要查看此页面，请在新窗口中打开。
-fp-certerror-view-certificate-link = 查看此网站的证书
-fp-certerror-return-to-previous-page-recommended-button = 返回（推荐）
+fp-certerror-view-certificate-link = 查看网站证书
+fp-certerror-return-to-previous-page-recommended-button = 返回上一页（推荐）
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
