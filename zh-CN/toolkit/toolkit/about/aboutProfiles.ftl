@@ -27,6 +27,7 @@ profiles-rootdir = 根目录
 profiles-localdir = 本地目录
 profiles-current-profile = 正在使用此配置文件，因而不能删除。
 profiles-in-use-profile = 此配置文件正在被其他应用程序使用，因此无法删除。
+profiles-cannot-delete-profile = 无法删除已链接到其他配置文件的配置文件。
 profiles-rename = 重命名
 profiles-remove = 移除
 profiles-set-as-default = 设为默认配置文件

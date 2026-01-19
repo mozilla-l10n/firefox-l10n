@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = 启动时不询问并使用选定的配置文件
     .accesskey = s
+profile-has-selectable-profiles-title = 无法删除已链接到其他配置文件的配置文件
