@@ -687,6 +687,9 @@ pdfjs-views-manager-pages-status-undo-delete-label =
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = Dosyanız hazırlanıyor…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Dosya yükleniyor…
+pdfjs-views-manager-status-warning-copy-label = Kopyalanamadı. Sayfayı tazeleyip yeniden deneyin.
+pdfjs-views-manager-status-warning-delete-label = Silinemedi. Sayfayı tazeleyip yeniden deneyin.
+pdfjs-views-manager-status-warning-save-label = Kaydedilemedi. Sayfayı tazeleyip yeniden deneyin.
 pdfjs-views-manager-status-undo-button-label = Geri al
 pdfjs-views-manager-status-close-button =
     .title = Kapat
