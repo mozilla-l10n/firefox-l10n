@@ -2191,3 +2191,23 @@ preferences-ai-controls-header =
 preferences-ai-controls-block-ai-label = AI-ferbetteringen blokkearje
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-more-link = Mear oersetynstellingen
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot yn sydbalke
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Beskikber
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ynskeakele
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokkearre
+preferences-ai-controls-state-description-before = Wat de opsjes betsjutte:
+preferences-ai-controls-block-confirmation-heading = AI-ferbetteringen blokkearje?
+preferences-ai-controls-block-confirmation-features-start = Wat sil blokkearre wurde:
+preferences-ai-controls-block-confirmation-translations = Oersettingen
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Annulearje
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blokkearje
