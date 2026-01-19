@@ -46,6 +46,7 @@ neterror-load-error-firewall = Si su computadora o red están protegidas por un 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Si se está intentando cargar una página en la red local, verifique que se hayan otorgado permisos de red local a { -brand-short-name } en la configuración de Privacidad y seguridad de macOS.
 neterror-http-error-page = Verifique haber escrito correctamente la dirección del sitio web.
+neterror-http-empty-response = Verifique que escribió correctamente la dirección del sitio web y vuelva a intentarlo en un momento.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-http-empty-response-description = { $hostname } devolvió una página vacía.
