@@ -208,7 +208,7 @@ certerror-mitm-title = 有软件正在阻止 { -brand-short-name } 安全地连�
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = 警告：存在安全风险
-fp-certerror-body-title = 当心，看来有异常情况。
+fp-certerror-body-title = 当心，似乎有异常情况。
 fp-certerror-why-site-dangerous = 为什么此网站可能危险？
 fp-certerror-what-can-you-do = 您可以做什么？
 fp-certerror-advanced-title = 高级
