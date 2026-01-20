@@ -642,6 +642,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Kenar çubuğunu aç/kapat
+pdfjs-toggle-views-manager-notification-button =
+    .title = Kenar çubuğunu aç/kapat (Belge, küçük resimler/ana hat/ekler/katmanlar içeriyor)
 pdfjs-toggle-views-manager-button-label = Kenar çubuğunu aç/kapat
 pdfjs-views-manager-sidebar =
     .aria-label = Kenar çubuğu
@@ -666,6 +668,7 @@ pdfjs-views-manager-pages-status-action-label =
         [one] { $count } seçili
        *[other] { $count } seçili
     }
+pdfjs-views-manager-pages-status-none-action-label = Sayfaları seç
 pdfjs-views-manager-pages-status-action-button-label = Yönet
 pdfjs-views-manager-pages-status-copy-button-label = Kopyala
 pdfjs-views-manager-pages-status-cut-button-label = Kes

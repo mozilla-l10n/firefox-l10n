@@ -2201,11 +2201,13 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Engellendi
+preferences-ai-controls-state-description-before = Seçenekler ne anlama geliyor?
 preferences-ai-controls-state-description-available = <strong>Kullanılabilir:</strong> Bu özelliği görecek ve kullanabileceksiniz.
 preferences-ai-controls-block-confirmation-heading = Yapay zekâ geliştirmeleri engellensin mi?
 preferences-ai-controls-block-confirmation-features-start = Neler engellenecek?
 preferences-ai-controls-block-confirmation-translations = Çeviriler
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sekme grubu önerileri
+preferences-ai-controls-block-confirmation-key-points = Bağlantı ön izlemelerinde önemli noktalar
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Kenar çubuğundaki sohbet botu sağlayıcıları
 preferences-ai-controls-block-confirmation-cancel =
     .label = Vazgeç
