@@ -658,6 +658,13 @@ pdfjs-views-manager-pages-status-action-button-label = Gerenciar
 pdfjs-views-manager-pages-status-copy-button-label = Copiar
 pdfjs-views-manager-pages-status-cut-button-label = Cortar
 pdfjs-views-manager-pages-status-delete-button-label = Excluir
+pdfjs-views-manager-pages-status-save-as-button-label = Salvar como…
+pdfjs-views-manager-pages-status-waiting-ready-label = Preparando seu arquivo…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Enviando arquivo…
+pdfjs-views-manager-status-warning-cut-label = Não foi possível cortar. Atualize a página e tente novamente.
+pdfjs-views-manager-status-warning-copy-label = Não foi possível copiar. Atualize a página e tente novamente.
+pdfjs-views-manager-status-warning-delete-label = Não foi possível excluir. Atualize a página e tente novamente.
+pdfjs-views-manager-status-warning-save-label = Não foi possível salvar. Atualize a página e tente novamente.
 
 ## Main menu for adding/removing signatures
 
