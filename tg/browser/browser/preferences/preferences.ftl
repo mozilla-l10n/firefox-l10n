@@ -2201,6 +2201,7 @@ preferences-ai-controls-state-description-before = Имконот чӣ маън�
 preferences-ai-controls-block-confirmation-heading = Такмилҳои зеҳни сунъӣ (AI)-ро манъ мекунед?
 preferences-ai-controls-block-confirmation-features-start = Чӣ манъ карда мешавад:
 preferences-ai-controls-block-confirmation-translations = Тарҷумаҳо
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Пешниҳодҳои гурӯҳи варақаҳо
 preferences-ai-controls-block-confirmation-cancel =
     .label = Бекор кардан
 preferences-ai-controls-block-confirmation-confirm =
