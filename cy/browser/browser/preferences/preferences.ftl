@@ -2209,3 +2209,37 @@ preferences-ai-controls-block-ai-label = Rhwystro nodweddion AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Mae rhwystro'n golygu fyddwch chi ddim yn gweld nodweddion AI newydd neu gyfredol yn { -brand-short-name }, neu lamlenni amdanyn nhwt. <a data-l10n-name="link">Cael mwy o fanylion</a> am yr hyn sydd wedi'i gynnwys a sut i reoli nodweddion dysgu peirianyddol traddodiadol, fel awgrymiadau chwilio ac argymhellion.
+preferences-ai-controls-blocked-message =
+    .message = Mae nodweddion AI newydd a chyfredol yn cael eu rhwystro fel rhagosodiad. I ddadrwystro nodwedd benodol, defnyddiwch y rheolyddion isod.
+preferences-ai-controls-on-device-group =
+    .label = AI Ar y ddyfais
+    .description = Mae'r rhain yn defnyddio modelau AI bychain sy'n cael eu llwytho i lawr i'ch dyfais os ydych yn defnyddio'r nodwedd hon. Mae'r dull yma'n helpu i ddiogelu eich preifatrwydd.
+preferences-ai-controls-translations-control =
+    .label = Cyfieithiadau
+    .description = Porwch y we'n rhwydd yn eich dewis iaith
+preferences-ai-controls-translations-more-link = Rhagor o osodiadau cyfieithu
+preferences-ai-controls-pdfjs-control =
+    .label = Testun amgen delwedd yn narllenydd PDF { -brand-short-name }
+    .description = Pan fyddwch yn ychwanegu delweddau PDF, mae hyn yn ychwanegu disgrifiadau i'w gwneud yn hygyrch.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Awgrymiadau grwpiau tabiau
+    .description = Cael awgrymiadau i enwi a threfnu eich tabiau.
+preferences-ai-controls-key-points-control =
+    .label = Prif bwyntiau rhagolwg dolen
+    .description = Cael crynodeb byr cyn agor dolen
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Darparwyr sgwrsfotiau AI yn y bar ochr
+    .description = Cadw sgwrsfotiau yn y golwg wrth bori. Dewiswch Anthropic Claude, ChatGPT, Copilot, Google Gemini, neu Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Sgwrsfot yn y bar ochr
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Ar Gael
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Galluogwyd
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Rhwystrwyd
+preferences-ai-controls-state-description-before = Beth yw ystyr y dewis:
+preferences-ai-controls-state-description-available = <strong>Ar gael:</strong> Gweld y nodwedd a gallu ei defnyddio.
