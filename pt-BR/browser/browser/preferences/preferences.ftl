@@ -53,6 +53,7 @@ category-privacy =
 pane-sync-title3 = Sincronização
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controles de inteligência artificial
 pane-experimental-title = Experimentos do { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos do { -brand-short-name }
@@ -742,6 +743,8 @@ home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página in
 
 ## Home Section - Default Browser
 
+is-not-default-browser-2 =
+    .message = Psiu, o { -brand-short-name } não é seu padrão.
 set-as-my-default-browser-2 =
     .label = Definir como padrão
     .accesskey = D
@@ -1460,6 +1463,10 @@ payments-list-item-label = <strong>Métodos de pagamento</strong>
 payments-delete-payment-prompt-title = Excluir este método de pagamento?
 payments-delete-payment-prompt-confirm-button = Excluir
 payments-delete-payment-prompt-cancel-button = Cancelar
+payments-delete-payment-button-label =
+    .aria-label = Excluir
+payments-edit-payment-button-label =
+    .aria-label = Editar
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nenhum método de pagamento adicionado
@@ -1998,6 +2005,8 @@ collection-studies-description = Experimente recursos e ideias antes de ser libe
 collection-studies =
     .label = Permitir que o { -brand-short-name } instale e execute estudos
 collection-studies-link = Ver estudos do { -brand-short-name }
+nimbus-rollouts-enabled =
+    .label = Permitir que o { -brand-short-name } melhore funcionalidades, desempenho e estabilidade entre uma atualização e outra
 nimbus-rollouts-enabled-description = As alterações serão aplicadas remotamente.
 addon-recommendations2 =
     .label = Permitir recomendações personalizadas de extensões
@@ -2166,3 +2175,25 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Área de trabalho
 downloads-folder-name = Downloads
 choose-download-folder-title = Selecione a pasta dos downloads:
+
+## AI controls page
+
+preferences-ai-controls-block-ai-label = Bloquear aprimoramentos de inteligência artificial
+preferences-ai-controls-translations-control =
+    .label = Tradução
+    .description = Navegue na web tranquilamente em seu idioma preferido
+preferences-ai-controls-translations-more-link = Mais configurações de tradução
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot no painel lateral
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponível
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ativado
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloqueado
+preferences-ai-controls-state-description-before = O que significam as opções:
+preferences-ai-controls-state-description-available = <strong>Disponível:</strong> O recurso aparece e você pode usar.
+preferences-ai-controls-state-description-enabled = <strong>Ativado:</strong> Você optou por usar o recurso.
