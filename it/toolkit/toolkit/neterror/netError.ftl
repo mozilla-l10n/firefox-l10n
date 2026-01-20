@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Verificare se il file è stato spostato, rinomin
 neterror-access-denied = Il file potrebbe essere stato rimosso o spostato, oppure non si possiedono le autorizzazioni necessarie per aprirlo.
 neterror-unknown-protocol = È necessario installare del software aggiuntivo per aprire questo indirizzo.
 neterror-redirect-loop = Questo problema spesso è causato dal blocco o dal rifiuto dei cookie.
+neterror-unknown-socket-type-client-config = Questo potrebbe essere dovuto a un errore di configurazione del tuo client.
 neterror-unknown-socket-type-psm-installed = Verificare che nel sistema sia installato il Personal Security Manager.
 neterror-unknown-socket-type-server-config = Potrebbe trattarsi di una configurazione non standard del server.
 neterror-not-cached-intro = Il documento richiesto non è più disponibile nella cache di { -brand-short-name }.
