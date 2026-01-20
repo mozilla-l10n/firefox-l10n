@@ -46,6 +46,10 @@ neterror-load-error-firewall = Se via komputilo aŭ reto estas protektataj de re
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Se vi klopodas ŝargi paĝon el la loka reto, bonvolu kontroli ĉu { -brand-short-name } ricevis la permesojn por la loka reto en la agordoj de privateco kaj sekureco de de macOS.
 neterror-http-error-page = Certiĝu esti ĝuste tajpinta la adreson de la retejo.
+neterror-http-empty-response = Kontrolu por certi ke vi tajpis la ĝustan adreson por la retejo kaj provu denove post momento.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } sendis malplenan paĝon.
 neterror-captive-portal = Vi devas komenci seancon en tiu ĉi reto antaŭ ol vi povos aliri la Interreton.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

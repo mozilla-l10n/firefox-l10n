@@ -381,6 +381,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Konservi
     .accesskey = K
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Pli da informo
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:

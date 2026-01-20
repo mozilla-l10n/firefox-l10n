@@ -335,6 +335,8 @@ newtab-custom-widget-section-title = Komponantoj
 newtab-custom-widget-section-toggle =
     .label = Komponantoj
 newtab-widget-manage-title = Komponantoj
+newtab-widget-manage-widget-button =
+    .label = Administri komponantojn
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Fermi
@@ -462,6 +464,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Serĉi lokon
     .aria-label = Serĉi lokon
 newtab-weather-menu-weather-display = Montro de vetero
+newtab-weather-todays-forecast = Hodiaŭa veterprognozo
+newtab-weather-see-full-forecast = Vidi kompletan prognozon
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

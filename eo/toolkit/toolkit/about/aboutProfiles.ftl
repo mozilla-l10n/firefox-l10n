@@ -27,6 +27,7 @@ profiles-rootdir = Radika dosierujo
 profiles-localdir = Loka dosierujo
 profiles-current-profile = Tiu ĉi profilo estas uzata kaj ne povas esti forigita.
 profiles-in-use-profile = Tiu ĉi profilo estas uzata de alia programo kaj ne povas esti forigita.
+profiles-cannot-delete-profile = Ne eblas forigi profilon kiu estas ligita al aliaj profiloj.
 profiles-rename = Renomi
 profiles-remove = Forigi
 profiles-set-as-default = Igi profilon norma
