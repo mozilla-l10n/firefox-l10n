@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Defnyddio'r proffil penodol heb ofyn wrth gychwyn
     .accesskey = p
+profile-has-selectable-profiles-title = Methu â dileu proffil sy'n gysylltiedig â phroffiliau eraill
+profile-has-selectable-profiles-message = I ddileu'r proffil hwn, agorwch ef a dewis "Rheoli proffiliau" o adran proffiliau dewislen { -brand-short-name }. Ar ôl dileu unrhyw broffiliau ychwanegol rydych wedi'u creu yma, gallwch ddychwelyd i about:profiles a dileu'r proffil hwn.

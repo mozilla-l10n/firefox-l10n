@@ -27,6 +27,7 @@ profiles-rootdir = Cyfarwyddiadur Gwraidd
 profiles-localdir = Cyfarwyddiadur Lleol
 profiles-current-profile = Dyma'r proffil sy'n cael ei ddefnyddio ac nid oes modd ei ddileu.
 profiles-in-use-profile = Mae'r proffil yn cael ei ddefnyddio o fewn rhaglen arall ac nid oes modd ei ddileu.
+profiles-cannot-delete-profile = Methu â dileu proffil sy'n gysylltiedig â phroffiliau eraill.
 profiles-rename = Ailenwi
 profiles-remove = Tynnu
 profiles-set-as-default = Gosod fel y proffil ragosodedig
