@@ -56,6 +56,7 @@ policy-DisablePocket2 = Deaktiver funktionen at gemme websider til { -pocket-bra
 policy-DisablePrivateBrowsing = Deaktiver privat browsing.
 policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra en anden browser.
 policy-DisableProfileRefresh = Deaktiver knappen Nulstil { -brand-short-name } på siden about:support.
+policy-DisableRemoteImprovements = Tillad ikke, at { -brand-short-name } anvender ændringer i forhold til ydelse, stabilitet og funktioner mellem opdateringer.
 policy-DisableSafeMode = Deaktiver funktionen til at genstarte i fejlsikret tilstand. NB: Deaktivering af tasten Skift til at starte fejlsikret tilstand kan kun gennemføres i Windows via Gruppepolitik.
 policy-DisableSecurityBypass = Deaktiver brugerens mulighed for at omgå bestemte sikkerhedsadvarsler
 policy-DisableSetAsDesktopBackground = Deaktiver menu-kommandoen Brug som skrivebordsbaggrund

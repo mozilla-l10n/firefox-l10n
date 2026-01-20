@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synkronisering
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI-indstillinger
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-eksperimenter
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperimenter
@@ -742,6 +745,12 @@ home-new-windows-tabs-description2 = Vælg hvad du vil se, når du åbner din st
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standardbrowser
+is-default-browser-2 =
+    .message = { -brand-short-name } er din standardbrowser. God beslutning.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } er ikke din standardbrowser.
 set-as-my-default-browser-2 =
     .label = Sæt som standard
     .accesskey = D
@@ -994,6 +1003,9 @@ search-remove-engine =
     .accesskey = f
 search-add-engine =
     .label = Tilføj
+    .accesskey = T
+search-add-engine-2 =
+    .label = Tilføj søgetjeneste
     .accesskey = T
 search-edit-engine =
     .label = Rediger
@@ -1454,6 +1466,8 @@ payments-list-item-label = <strong>Betalingsmetoder</strong>
 payments-delete-payment-prompt-title = Slet denne betalingsmetode?
 payments-delete-payment-prompt-confirm-button = Slet
 payments-delete-payment-prompt-cancel-button = Annuller
+payments-delete-payment-button-label =
+    .aria-label = Slet
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmetoder tilføjet
