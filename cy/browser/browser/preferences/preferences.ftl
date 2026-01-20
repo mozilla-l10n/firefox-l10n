@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Rheolaethau AI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Arbrofion { -brand-short-name }
 category-experimental =
     .tooltiptext = Arbrofion { -brand-short-name }
@@ -754,6 +757,12 @@ home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Porwr Rhagosodedig
+is-default-browser-2 =
+    .message = { -brand-short-name } yw eich porwr rhagosodedig. Dewis da.
+is-not-default-browser-2 =
+    .message = Pst, nid { -brand-short-name } yw eich rhagosodiad.
 set-as-my-default-browser-2 =
     .label = Gwneud yn Ragosodedig
     .accesskey = R
@@ -1476,6 +1485,10 @@ payments-list-item-label = <strong>Dulliau talu</strong>
 payments-delete-payment-prompt-title = Dileu'r dull talu hwn?
 payments-delete-payment-prompt-confirm-button = Dileu
 payments-delete-payment-prompt-cancel-button = Diddymu
+payments-delete-payment-button-label =
+    .aria-label = Dileu
+payments-edit-payment-button-label =
+    .aria-label = Golygu
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Dim dulliau talu wedi'u hychwanegu
@@ -2117,6 +2130,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modd HTTPS-yn-Unig
     .description = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2184,3 +2199,13 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Bwrdd Gwaith
 downloads-folder-name = Llwythi i lawr
 choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Mae gennych ddewis yn { -brand-short-name } bob amser, gan gynnwys ydych chi eisiau defnyddio nodweddion sydd wedi'u cyfoethogi ag AI. Mwy o reolaethau cyn hir.
+preferences-ai-controls-block-ai-label = Rhwystro nodweddion AI
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Mae rhwystro'n golygu fyddwch chi ddim yn gweld nodweddion AI newydd neu gyfredol yn { -brand-short-name }, neu lamlenni amdanyn nhwt. <a data-l10n-name="link">Cael mwy o fanylion</a> am yr hyn sydd wedi'i gynnwys a sut i reoli nodweddion dysgu peirianyddol traddodiadol, fel awgrymiadau chwilio ac argymhellion.
