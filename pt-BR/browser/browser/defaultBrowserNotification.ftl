@@ -18,7 +18,7 @@ default-browser-prompt-message-pin-msix = Tenha o { -brand-short-name } à mão,
 default-browser-prompt-message-pin-mac = Tenha o { -brand-short-name } à mão, torne seu navegador padrão e mantenha no Dock.
 default-browser-prompt-button-primary-set = Definir como navegador principal
 default-browser-prompt-button-primary-pin = Tornar o navegador principal
-default-browser-prompt-title-alt = Tornar o { -brand-short-name } seu navegador padrão?
+default-browser-prompt-title-alt = Tornar o { -brand-short-name } o navegador padrão?
 default-browser-prompt-message-alt = Tenha velocidade, segurança e privacidade sempre que você navegar.
 default-browser-prompt-button-primary-alt = Definir como navegador padrão
 default-browser-prompt-checkbox-not-again-label = Não mostrar esta mensagem novamente
@@ -28,7 +28,7 @@ default-browser-prompt-button-secondary = Agora não
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
-default-browser-guidance-notification-title = Concluir tornar o { -brand-short-name } como padrão
+default-browser-guidance-notification-title = Concluir definir o { -brand-short-name } como padrão
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Etapa 1: Vá em Configurações > Aplicativos padrão

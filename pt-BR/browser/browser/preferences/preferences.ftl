@@ -141,7 +141,7 @@ is-not-default-browser =
 is-default = { -brand-short-name } é o seu navegador padrão
 is-not-default = { -brand-short-name } não é o seu navegador padrão
 set-as-my-default-browser =
-    .label = Tornar padrão…
+    .label = Definir como padrão…
     .accesskey = D
 startup-restore-windows-and-tabs =
     .label = Abrir janelas e abas anteriores
@@ -743,7 +743,7 @@ home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página in
 ## Home Section - Default Browser
 
 set-as-my-default-browser-2 =
-    .label = Tornar padrão
+    .label = Definir como padrão
     .accesskey = D
 
 ## Custom Homepage subpage

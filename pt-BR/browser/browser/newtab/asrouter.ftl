@@ -242,7 +242,7 @@ set-default-pdf-handler-primary = Entendi
 annotations-default-pdf-handler-headline = Assine na linha tracejada, ou em qualquer lugar!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Desenhe, digite ou envie uma imagem de sua assinatura e coloque exatamente onde quiser. Salve suas assinaturas frequentes para usar nas próximas vezes.
-annotations-make-default-pdf-handler-title = Tornar o { -brand-short-name } seu editor de PDF padrão?
+annotations-make-default-pdf-handler-title = Tornar o { -brand-short-name } o editor de PDF padrão?
 annotations-make-default-pdf-handler-subtitle = Você terá acesso às nossas ferramentas sempre que abrir um PDF.
 annotations-make-default-pdf-primary-cta-label = Definir como padrão
 annotations-make-default-pdf-next-label = Avançar
@@ -278,7 +278,7 @@ device-migration-fxa-spotlight-sync-primary-button = Começar
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Tornar o { -brand-short-name } seu leitor padrão de PDF?</strong> Use o { -brand-short-name } para ler e editar arquivos PDF salvos neste computador.
+pdf-default-notification-message = <strong>Tornar o { -brand-short-name } o leitor padrão de PDF?</strong> Use o { -brand-short-name } para ler e editar arquivos PDF salvos neste computador.
 pdf-default-notification-set-default-button =
     .label = Definir como padrão
 pdf-default-notification-decline-button =
