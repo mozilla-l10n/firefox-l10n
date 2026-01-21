@@ -878,6 +878,7 @@ network-proxy-group =
 ## Home Section
 
 home-new-windows-tabs-header = Nová okna a panely
+home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna a nového panelu.
 
 ## Home Section - Default Browser
 
@@ -908,9 +909,9 @@ home-mode-choice-default-fx =
 home-mode-choice-custom =
     .label = Vlastní adresy…
 home-mode-choice-blank =
-    .label = Prázdnou stránku
+    .label = Prázdná stránka
 home-homepage-custom-url =
-    .placeholder = Zadejte URL adresu…
+    .placeholder = Zadejte adresu URL…
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Nastavení tohoto rozšíření
