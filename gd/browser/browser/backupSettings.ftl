@@ -40,3 +40,8 @@ settings-data-create-backup-error = Cha b’ urrainn dhuinn an lethbhreac-glèid
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ainm an fhaidhle: { $fileName }
 settings-data-backup-restore-header = Aisig an dàta agad
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Cleachd lethbhreac-glèidhidh { -brand-product-name } o uidheam eile airson an dàta agad aiseag.
+settings-data-backup-scheduled-backups-off-restore-choose = Tagh faidhle lethbhric-ghlèidhidh…
