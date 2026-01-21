@@ -2186,6 +2186,9 @@ preferences-ai-controls-block-ai-label = Манъ кардани такмилҳ�
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-translations-more-link = Танзимоти иловагии тарҷума
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Пешниҳодҳои гурӯҳи варақаҳо
+    .description = Гирифтани пешниҳодҳо барои номгузорӣ ё ташкилдиҳии варақаҳои худ.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Чат-бот дар навори ҷонибӣ
 # This option means that a user will see the feature and can use it.

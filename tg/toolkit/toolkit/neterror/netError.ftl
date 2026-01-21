@@ -46,6 +46,9 @@ neterror-load-error-firewall = Агар компютер ё шабакаи шу�
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Агар шумо кӯшиш кунед, ки саҳифаи шабакаи маҳаллиро бор кунед, лутфан, тафтиш кунед, ки ба «{ -brand-short-name }» дар танзимоти махфият ва амнияти «macOS» иҷозатҳои шабакаи маҳаллӣ ба таври мувофиқ таъмин шудаанд.
 neterror-http-error-page = Тафтиш кунед, ки шумо нишонии сомонаро ба таври дуруст ва бехато ворид кардед.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } саҳифаи холиро исрол кард.
 neterror-captive-portal = Пеш аз пайдо кардани дастрасӣ ба Интернет, шумо бояд ба ин шабака ворид шавед.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

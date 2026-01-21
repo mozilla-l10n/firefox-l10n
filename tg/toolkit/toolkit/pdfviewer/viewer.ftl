@@ -697,6 +697,10 @@ pdfjs-views-manager-pages-status-undo-delete-label =
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = Файли шумо омода мешавад…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Дар ҳоли боркунии файл…
+pdfjs-views-manager-status-warning-cut-label = Бурида нашуд. Саҳифаро навсозӣ кунед ва аз нав кӯшиш намоед.
+pdfjs-views-manager-status-warning-copy-label = Нусха бардошта нашуд. Саҳифаро навсозӣ кунед ва аз нав кӯшиш намоед.
+pdfjs-views-manager-status-warning-delete-label = Нест карда нашуд. Саҳифаро навсозӣ кунед ва аз нав кӯшиш намоед.
+pdfjs-views-manager-status-warning-save-label = Нигоҳ дошта нашуд. Саҳифаро навсозӣ кунед ва аз нав кӯшиш намоед.
 pdfjs-views-manager-status-undo-button-label = Бекор кардан
 pdfjs-views-manager-status-close-button =
     .title = Пӯшидан
