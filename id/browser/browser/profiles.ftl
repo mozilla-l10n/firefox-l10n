@@ -196,6 +196,8 @@ present-avatar-alt =
     .alt = Hadiah
 shopping-avatar-alt =
     .alt = Keranjang belanja
+soccer-ball-avatar-alt =
+    .alt = Bola sepak
 sparkle-single-avatar-alt =
     .alt = Berkilau
 star-avatar-alt =
@@ -232,10 +234,14 @@ leaf-avatar = Daun
 makeup-avatar = Riasan
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = Pesan
+musical-note-avatar = Not musik
 palette-avatar = Palet
 plane-avatar = Pesawat
 # Present refers to a gift box, not the current time period
 present-avatar = Hadiah
 shopping-avatar = Keranjang belanja
 star-avatar = Bintang
+custom-avatar-crop-back-button =
+    .aria-label = Kembali
+barbell-avatar = Barbel
 bike-avatar = Sepeda

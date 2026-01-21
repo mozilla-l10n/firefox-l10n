@@ -96,6 +96,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = Tidak, terima kasih
 
 perplexity-callout-theme-1-title = Butuh jawaban yang tepat, segera?
 perplexity-callout-theme-2-title = Coba Perplexity: cara baru untuk mencari
+perplexity-callout-theme-1-subtitle-1 = Coba Perplexity. Pilih dari tombol pencarian jika Anda ingin jawaban lengkap, termasuk sumbernya.
 perplexity-callout-primary-label = Tanya Perplexity
 perplexity-callout-secondary-label-1 = Tutup
 perplexity-callout-secondary-label-2 = Paham
