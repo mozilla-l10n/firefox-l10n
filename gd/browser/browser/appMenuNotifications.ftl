@@ -44,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ceart ma-thà
     .buttonaccesskey = C
 appmenu-addon-post-install-message3 = Stiùirich na tuilleadain ’s na h-ùrlaran agad le clàr-taice na h-aplacaid.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = ’S urrainn dhut na ceadan is roghainnean dàta ùrachadh uair sam bith ann an <a data-l10n-name="settings-link">roghainnean an leudachain</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Prìnich an leudachan ri bàr nan saothair
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leig leis an leudachan seo ruith ann an uinneagan prìobhaideach
     .accesskey = a
