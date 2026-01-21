@@ -25,6 +25,7 @@ update-applying = កំពុង​អនុវត្ត​បច្ចុប�
 update-failed = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <label data-l10n-name="failed-link">ទាញ​យក​កំណែ​ថ្មី​បំផុត</label>
 update-failed-main = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <a data-l10n-name="failed-link-main">ទាញ​យក​កំណែ​ថ្មី​បំផុត</a>
 update-adminDisabled = ការ​ធ្វើ​បច្ចុប្បន្នភាព​ត្រូវ​បាន​បិទ​ដោយ​អ្នក​គ្រប់គ្រង​ប្រព័ន្ធ​របស់​អ្នក
+update-policy-disabled = ការធ្វើបច្ចុប្បន្នភាពត្រូវបានបិទដោយស្ថាប័នរបស់អ្នក
 update-noUpdatesFound = { -brand-short-name } ​គឺ​ទាន់​សម័យ
 aboutdialog-update-checking-failed = មិនអាច​ពិនិត្យរកមើលកំណែថ្មី​បានទេ។
 update-otherInstanceHandlingUpdates = { -brand-short-name } កំពុង​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​​ធាតុ​ផ្សេង

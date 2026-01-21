@@ -4,6 +4,12 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ការចូល និង​ពាក្យ​សម្ងាត់
+about-logins-page-title-name = ពាក្យ​សម្ងាត់
+about-logins-login-filter2 =
+    .placeholder = ស្វែងរកពាក្យសម្ងាត់
+    .key = F
+create-login-button =
+    .title = បន្ថែមពាក្យសម្ងាត់
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងៗ​របស់​អ្នក
 fxaccounts-sign-in-sync-button = ចូល ដើម្បី​ធ្វើ​សមកាលកម្ម
 fxaccounts-avatar-button =
@@ -18,6 +24,7 @@ about-logins-menu-menuitem-import-from-another-browser = នាំចូលព�
 about-logins-menu-menuitem-import-from-a-file = នាំចូល​ពី​ឯកសារ…
 about-logins-menu-menuitem-export-logins = នាំចេញចូល...
 about-logins-menu-menuitem-remove-all-logins = ដក​ការចូល​ទាំងអស់ចេញ...
+about-logins-menu-menuitem-remove-all-logins2 = លុបពាក្យសម្ងាត់ទាំងអស់...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ជម្រើស
@@ -35,6 +42,17 @@ login-list-count =
     { $count ->
        *[other] ការចូល​ចំនួន { $count }
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 = ពាក្យសម្ងាត់ { $count }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } នៃ { $total } ពាក្យសម្ងាត់
+       *[other] { $count } នៃ { $total } ពាក្យសម្ងាត់ច្រើន
+    }
 login-list-sort-label-text = តម្រៀបតាម៖
 login-list-name-option = ឈ្មោះ (A-Z)
 login-list-name-reverse-option = ឈ្មោះ (Z-A)
@@ -46,9 +64,11 @@ login-list-last-used-option = បាន​ប្រើប្រាស់​ច�
 login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
 login-list-intro-description = នៅពេល​អ្នក​រក្សាទុក​ពាក្យ​សម្ងាត់​នៅ​ក្នុង { -brand-product-name } វា​នឹង​បង្ហាញ​នៅ​ត្រង់​នេះ។
 about-logins-login-list-empty-search-title = រក​មិន​ឃើញ​ការ​ចូល
+about-logins-login-list-empty-search-title2 = រកពាក្យសម្ងាត់មិនឃើញ
 about-logins-login-list-empty-search-description = មិនមានលទ្ធផលត្រូវនឹងការស្វែងរករបស់អ្នកទេ។
 login-list-item-title-new-login = ការចូល​ថ្មី
 login-list-item-subtitle-new-login = បញ្ចូល​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក
+login-list-item-title-new-login2 = បន្ថែមពាក្យសម្ងាត់
 login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ​អ្នក​ប្រើប្រាស់)
 about-logins-list-item-breach-icon =
     .title = គេហទំព័រ​ដែល​បាន​បំពាន
@@ -67,6 +87,7 @@ about-logins-login-intro-heading-logged-out2 = កំពុង​រកមើល
 about-logins-login-intro-heading-logged-in = រកមិនឃើញការចូលដែល​បាន​ធ្វើសមកាលកម្ម។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instructions-fxa = បង្កើត ឬ​ចូល​ { -fxaccount-brand-name } របស់អ្នក​នៅលើ​ឧបករណ៍​ដែល​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក។
+about-logins-login-intro-heading-message = រក្សាទុកពាក្យសម្ងាត់របស់អ្នកទៅកាន់កន្លែងសុវត្ថិភាព
 login-intro-instructions-fxa-settings = ចូលទៅ​កាន់ ការកំណត់ > ធ្វើសមកាលកម្ម > បើក​ការធ្វើសមកាលកម្ម... ជ្រើសរើស​ប្រអប់​ការចូល និង​ពាក្យសម្ងាត់។
 login-intro-instructions-fxa-passwords-help = ចូលមើល​<a data-l10n-name="passwords-help-link">ជំនួយ​ពាក្យសម្ងាត់</a>​សម្រាប់​ជំនួយ​បន្ថែម។
 about-logins-intro-browser-only-import = ប្រសិនបើ​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក​នៅក្នុង​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ផ្សេង អ្នក​អាច <a data-l10n-name="import-link">នាំចូល​វា​ក្នុង { -brand-product-name }</a>
@@ -75,6 +96,8 @@ about-logins-intro-import2 = ប្រសិនបើ​ការចូល​រ
 ## Login
 
 login-item-new-login-title = បង្កើត​ការចូល​ថ្មី
+# Header for adding a password
+about-logins-login-item-new-login-title = បន្ថែមពាក្យសម្ងាត់
 login-item-edit-button = កែសម្រួល
 about-logins-login-item-remove-button = លុប​ចេញ
 login-item-origin-label = អាសយដ្ឋាន​គេហទំព័រ
@@ -171,6 +194,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] វា​នឹង​លុប​ការចូល​ដែល​អ្នក​បាន​រក្សាទុក​នៅក្នុង { -brand-short-name } លើ​ឧបករណ៍​ទាំងអស់​ដែល​បាន​ធ្វើសមកាលកម្ម​ទៅ { -fxaccount-brand-name } របស់អ្នក។ វា​ក៏​នឹង​លុប​ការជូនដំណឹង​អំពី​ការបំពាន​ដែល​បង្ហាញ​នៅត្រង់​នេះ​ផងដែរ។ អ្នក​នឹងមិន​អាច​ត្រឡប់​សកម្មភាព​នេះ​ដូចដើមវិញ​បាន​ទេ។
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] បាទ/ចាស ដកពាក្យសម្ងាត់ចេញ
+       *[other] បាទ/ចាស ដកពាក្យសម្ងាត់ចេញ
     }
 
 ##

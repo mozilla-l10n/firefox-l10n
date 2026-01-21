@@ -174,8 +174,24 @@ appmenu-about =
 appmenu-get-help =
     .label = ទទួលបានជំនួយ
     .accesskey = H
+appmenu-help-more-troubleshooting-info =
+    .label = ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហាបន្ថែម
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = រាយការណ៍​បញ្ហា​គេហទំព័រ…
+appmenu-help-share-ideas =
+    .label = ចែករំលែកគំនិតនិងមតិយោបល់…
+    .accesskey = S
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = របៀបដោះស្រាយបញ្ហា…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = បិទរបៀបដោះស្រាយបញ្ហា
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -189,4 +205,8 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង…
 appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក
+appmenu-developer-tools-extensions =
+    .label = ផ្នែកបន្ថែមសម្រាប់អ្នកអភិវឌ្ឍន៍

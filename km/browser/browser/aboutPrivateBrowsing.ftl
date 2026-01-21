@@ -26,6 +26,7 @@ about-private-browsing-hide-activity = លាក់​សកម្មភាព �
 about-private-browsing-get-privacy = ទទួលបាន​ការការពារ​ឯកជនភាព​គ្រប់កន្លែង​ដែលអ្នក​រុករក
 about-private-browsing-hide-activity-1 = លាក់​សកម្មភាព​រុករក និង​ទីតាំង​ជាមួយ { -mozilla-vpn-brand-name }។ ចុច​មួយ​បង្កើត​ការតភ្ជាប់​សុវត្ថិភាព ទោះជា​នៅលើ Wi-Fi សាធារណៈក៏ដោយ។
 about-private-browsing-prominent-cta = បន្តនៅជាឯកជន​ជាមួយ { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = ទាញ​យក { -focus-brand-name }
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
