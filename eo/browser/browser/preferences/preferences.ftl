@@ -2182,5 +2182,6 @@ choose-download-folder-title = Elekti dosierujon por elŝutoj:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Bloki plibonigojn, kiuj uzas AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
