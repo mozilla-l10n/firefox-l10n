@@ -533,6 +533,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nisi sigurno povezan/a na ovu stranicu.
 identity-connection-verified = Sigurno si povezan/a na ovu stranicu.
 identity-ev-owner-label = Certifikat izdan za:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalificirano prema Uredbi (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla ne prepoznaje ovog izdavatelja certifikata. Možda ga je dodao tvoj operacijski sustav ili administrator.
 identity-remove-cert-exception =
     .label = Ukloni iznimku
@@ -929,6 +931,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ovaj put traži pomoću:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Traži pomoću:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Postavke pretrage
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.

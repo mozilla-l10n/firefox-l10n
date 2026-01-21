@@ -878,7 +878,6 @@ network-proxy-group =
 ## Home Section
 
 home-new-windows-tabs-header = Nová okna a panely
-home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna nebo panelu.
 
 ## Home Section - Default Browser
 

@@ -114,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = Registriraj se
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Čuvaj svoje omiljene feedove u svojoj programskoj traci
 taskbar-tabs-chat-callout-title = Čavrljaj iz svoje programske trake
 taskbar-tabs-email-callout-title = Drži svoju e-poštu u programskoj traci
 taskbar-tabs-email-callout-subtitle = Pokreni svoju web-poštu poput aplikacije u pojednostavljenom prozoru koju štiti { -brand-short-name }.
