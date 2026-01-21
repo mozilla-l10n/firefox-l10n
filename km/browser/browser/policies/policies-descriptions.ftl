@@ -40,8 +40,13 @@ policy-DisplayBookmarksToolbar = បង្ហាញរបារឧបករណ�
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
 policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS នៅ​លើ HTTPS ។
 policy-DontCheckDefaultBrowser = បិទការពិនិត្យមើលកម្មវិធីរុករកលំនាំដើមនៅពេលចាប់ផ្ដើម
+policy-DownloadDirectory = កំណត់ និងចាក់សោថតឯកសារទាញយក
 policy-InstallAddonsPermission = អនុញ្ញាត​ឲ្យ​​គេហទំព័រ​ណា​មួយ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម។
 
 ##
 
+policy-PictureInPicture = មើល ឬបិទមុខងាររូបភាពក្នុងរូបភាព
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
+policy-ShowHomeButton = បង្ហាញប៊ូតុងទំព័រដើមនៅលើរបារឧបករណ៍។
+policy-SSLVersionMax = កំណត់ជំនាន់ SSL អតិបរមា
+policy-SSLVersionMin = កំណត់ជំនាន់ SSL អប្បបរមា។
