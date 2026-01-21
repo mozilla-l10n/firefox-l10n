@@ -746,6 +746,8 @@ home-default-browser-title =
     .label = Norma retumilo
 is-default-browser-2 =
     .message = { -brand-short-name } estas via ĉefa retumilo. Bona elekto.
+is-not-default-browser-2 =
+    .message = Hej, { -brand-short-name } ne estas via ĉefa retumilo.
 set-as-my-default-browser-2 =
     .label = Elekti kiel norman
     .accesskey = E
@@ -986,6 +988,9 @@ suggestions-addressbar-settings-generic2 = Ŝanĝi agordojn por la aliaj sugesto
 search-suggestions-cant-show = Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al { -brand-short-name } neniam memori la historion.
 search-one-click-header2 = Serĉaj ŝparvojoj
 search-one-click-desc = Elekti la alternativajn serĉilojn, kiuj aperos sub la adresa kaj serĉa strio kiam vi ektajpas ŝlosilvorton.
+search-one-click-header-3 =
+    .label = Aldonaj serĉiloj
+    .description = Elekti serĉilojn kaj ŝparvojojn por via adresa strio.
 search-choose-engine-column =
     .label = Serĉilo
 search-choose-keyword-column =
@@ -998,6 +1003,9 @@ search-remove-engine =
     .accesskey = F
 search-add-engine =
     .label = Aldoni
+    .accesskey = A
+search-add-engine-2 =
+    .label = Aldoni serĉilon
     .accesskey = A
 search-edit-engine =
     .label = Modifi
@@ -1458,6 +1466,10 @@ payments-list-item-label = <strong>Pagmetodoj</strong>
 payments-delete-payment-prompt-title = Ĉu forigi tiun ĉi pagmetodon?
 payments-delete-payment-prompt-confirm-button = Forigi
 payments-delete-payment-prompt-cancel-button = Nuligi
+payments-delete-payment-button-label =
+    .aria-label = Forigi
+payments-edit-payment-button-label =
+    .aria-label = Modifi
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Neniu pagmetodo aldonita
@@ -2096,6 +2108,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS-nura reĝimo
     .description = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2163,3 +2177,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Labortablo
 downloads-folder-name = Elŝutoj
 choose-download-folder-title = Elekti dosierujon por elŝutoj:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
