@@ -45,3 +45,31 @@ onboarding-theme-primary-button-label = រួចរាល់
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = ជ្រើសរើសភាសារបស់អ្នក
+mr2022-onboarding-live-language-switch-to = ប្តូរទៅ { $negotiatedLanguage }
+onboarding-live-language-secondary-cancel-download = បោះបង់
+onboarding-live-language-skip-button-label = រំលង
+
+## Firefox 100 Thank You screens
+
+mr2022-onboarding-secondary-skip-button-label = រំលងជំហាននេះ
+
+## MR2022 Existing User Pin Firefox Screen Strings
+
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = សូមអរគុណសម្រាប់ការស្រលាញ់ { -brand-product-name }
+
+## If your language uses grammatical genders, in the description for the
+## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
+## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
+## help creating a more inclusive translation.
+
+mr2022-onboarding-colorway-label-default = លំនាំ​ដើម
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-button-secondary-label = បង្ហាញព័ត៌មានលម្អិត
+
+## MR2022 Multistage Gratitude screen strings
+
+mr2022-onboarding-gratitude-primary-button-label = មើល​អ្វី​ដែល​ថ្មី
+mr2022-onboarding-gratitude-secondary-button-label = ចាប់ផ្ដើម​រុករក

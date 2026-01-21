@@ -36,8 +36,10 @@ policy-DisablePrimaryPasswordCreation = ប្រសិនបើ​ពិត ន
 policy-DisablePasswordReveal = កុំអនុញ្ញាតឱ្យបង្ហាញពាក្យសម្ងាត់នៅក្នុងការចូលដែលបានរក្សាទុក។
 policy-DisablePocket2 = បិទដំណើរការមុខងារ ដើម្បីរក្សាទុកគេហទំព័រទៅ​ { -pocket-brand-name }។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
+policy-DisplayBookmarksToolbar = បង្ហាញរបារឧបករណ៍ចំណាំតាមលំនាំដើម
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
 policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS នៅ​លើ HTTPS ។
+policy-DontCheckDefaultBrowser = បិទការពិនិត្យមើលកម្មវិធីរុករកលំនាំដើមនៅពេលចាប់ផ្ដើម
 policy-InstallAddonsPermission = អនុញ្ញាត​ឲ្យ​​គេហទំព័រ​ណា​មួយ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម។
 
 ##
