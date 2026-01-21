@@ -112,3 +112,74 @@ restore-from-backup-password-description = Bheir seo a’ ghlas far an lethbhric
 restore-from-backup-cancel-button = Sguir dheth
 restore-from-backup-confirm-button = Aisig is ath-thòisich
 restore-from-backup-restoring-button = Ga aiseag…
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Tha am facal-faire ceàrr. <a data-l10n-name="incorrect-password-support-link">A bheil duilgheadasan agad fhathast?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Chan eil am faidhle seo ag obair
+    .message = Bha duilgheadas le faidhle an lethbhric-ghlèidhidh agad. Tagh faidhle eile ’s feuch ris a-rithist.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Chan eil am faidhle seo ag obair
+    .message = Chan eil am faidhle a thagh thu co-chòrdail leis an tionndadh seo dhe { -brand-short-name }. Tagh faidhle eile ’s feuch ris a-rithist.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Chan eil am faidhle seo ag obair
+    .message = Cha deach am faidhle a thagh thu a chruthachadh le { -brand-short-name }. Tagh faidhle eile ’s feuch ris a-rithist.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = Cha b’ urrainn dha { -brand-short-name } aiseag a dhèanamh
+    .message = Ath-thòisich { -brand-short-name } is feuch ris an lethbhreac-ghlèidhidh agad aiseag as ùr.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hm, bha duilgheadas againn leis an lethbhreac-ghlèidhidh.
+    .message = Feuch ris a-rithist ann am mionaid no dhà.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
+enable-backup-encryption-support-link = Barrachd fiosrachaidh
+enable-backup-encryption-create-password-label = Facal-faire
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = Cuir am facal-faire a-steach a-rithist
+enable-backup-encryption-cancel-button = Sguir dheth
+enable-backup-encryption-confirm-button = Sàbhail
+change-backup-encryption-header = Atharraich facal-faire an lethbhric-ghlèidhidh
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = An seòrsa de dh’fhacal-faire a tha dhìth
+password-rules-length-description = Co-dhiù 8 caractaran
+password-rules-email-description = Chan e seo an seòladh puist-d agad
+password-rules-disclaimer = Bi sàbhailte – na cleachd an aon fhacal-faire ann an iomadh àite. Fiosraich <a data-l10n-name="password-support-link">mar a chruthaicheas tu facal-faire làidir</a>.
+password-validity-has-email = Chan fhaod seo a bhith na sheòladh puist-d
+password-validity-do-not-match = Chan eil an dà fhacal-faire co-ionnann
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = Soirbheas
+password-rules-a11y-warning =
+    .alt = Rabhadh
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = Thoir air falbh an dìon facail-fhaire
+disable-backup-encryption-support-link = Dè thèid lethbhreac-glèidhidh a dhèanamh dheth?
+disable-backup-encryption-cancel-button = Sguir dheth
+disable-backup-encryption-confirm-button = Thoir am facal-faire air falbh
