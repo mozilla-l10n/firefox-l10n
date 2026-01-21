@@ -742,6 +742,10 @@ home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Norma retumilo
+is-default-browser-2 =
+    .message = { -brand-short-name } estas via ĉefa retumilo. Bona elekto.
 set-as-my-default-browser-2 =
     .label = Elekti kiel norman
     .accesskey = E
