@@ -1220,7 +1220,7 @@ account-placeholder =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Vezměte si web s sebou
-sync-signedout-description2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
+sync-signedout-description2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení napříč všemi svými zařízeními.
 sync-signedout-account-signin3 =
     .label = Přihlásit se k synchronizaci…
     .accesskey = i
@@ -1316,7 +1316,7 @@ prefs-sync-turn-on-syncing =
 prefs-sync-turn-on-syncing-2 =
     .label = Zapnout synchronizaci
     .accesskey = s
-prefs-sync-offer-setup-label2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení ve všech svých zařízeních.
+prefs-sync-offer-setup-label2 = Synchronizujte své záložky, historii, panely, hesla, doplňky a nastavení napříč všemi svými zařízeními.
 prefs-sync-now =
     .labelnotsyncing = Synchronizovat
     .accesskeynotsyncing = S
