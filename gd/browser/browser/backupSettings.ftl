@@ -29,3 +29,14 @@ settings-data-backup-in-progress-message =
     .message = A’ dèanamh lethbreac-glèidhidh…
 settings-data-backup-scheduled-backups-on = Tha na lethbhreacan-glèidhidh AIR
 settings-data-backup-scheduled-backups-off = Tha na lethbhreacan-glèidhidh DHETH
+settings-data-backup-scheduled-backups-description = Dìon na comharran-lìn, an eachdraidh is dàta eile agad gu fèin-obrachail. <a data-l10n-name="support-link">Barrachd fiosrachaidh</a>
+settings-data-backup-last-backup-date = An lethbhreac-glèidhidh mu dheireadh: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location = Ionad
+settings-data-backup-last-backup-location-show-in-folder = Seall sa phasgan
+settings-data-backup-last-backup-location-edit = Deasaich…
+settings-data-create-backup-error = Cha b’ urrainn dhuinn an lethbhreac-glèidhidh agad a chruthachadh { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Ainm an fhaidhle: { $fileName }
+settings-data-backup-restore-header = Aisig an dàta agad
