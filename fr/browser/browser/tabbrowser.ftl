@@ -416,13 +416,13 @@ tab-context-badge-new = Nouveau
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
 # Variables:
 #   $label (String): the text label of the tab visible in the tab strip
-tabbrowser-tab-label-tab-split-view-left = { $label }, Fractionnement de la vue vers la gauche
+tabbrowser-tab-label-tab-split-view-left = { $label }, vue scindée à gauche
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the right tab inside of a tab split view
 # "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
 # Variables:
 #   $label (String): the text label of the tab visible in the tab strip
-tabbrowser-tab-label-tab-split-view-right = { $label }, Vue scindée à droite
+tabbrowser-tab-label-tab-split-view-right = { $label }, vue scindée à droite
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
