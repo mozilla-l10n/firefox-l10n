@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Ionad
 settings-data-backup-last-backup-location-show-in-folder = Seall sa phasgan
 settings-data-backup-last-backup-location-edit = Deasaich…
 settings-data-create-backup-error = Cha b’ urrainn dhuinn an lethbhreac-glèidhidh agad a chruthachadh { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Dèan lethbhreac-glèidhidh dhe na faclan-faire is dòighean-pàighidh agus cùm an dàta agad sàbhailte le bhith ga chrioptachadh.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ainm an fhaidhle: { $fileName }
@@ -45,3 +46,19 @@ settings-data-backup-restore-header = Aisig an dàta agad
 
 settings-data-backup-scheduled-backups-off-restore-description = Cleachd lethbhreac-glèidhidh { -brand-product-name } o uidheam eile airson an dàta agad aiseag.
 settings-data-backup-scheduled-backups-off-restore-choose = Tagh faidhle lethbhric-ghlèidhidh…
+
+## These strings are shown under the header if scheduled backups are enabled.
+
+settings-data-backup-scheduled-backups-on-restore-description = Aisig an dàta { -brand-product-name } agad on lethbhreac-ghlèidhidh mu dheireadh a rinn thu.
+settings-data-backup-scheduled-backups-on-restore-choose = Aisig…
+settings-data-toggle-encryption-label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
+settings-data-toggle-encryption-support-link = Barrachd fiosrachaidh
+settings-data-change-password = Atharraich am facal-faire…
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+turn-on-scheduled-backups-header = Cuir na lethbhreacan-glèidhidh air
+turn-on-scheduled-backups-description = Nì { -brand-short-name } snapshot dhen dàta agad gach 24 uair a thìde. Is urrainn dhut aiseag an uair sin ma bhios duilgheadas ann no ma gheibh thu uidheam ùr.
+turn-on-scheduled-backups-support-link = Dè thèid lethbhreac-glèidhidh a dhèanamh dheth?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Ionad
