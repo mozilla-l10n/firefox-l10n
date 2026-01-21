@@ -2186,8 +2186,8 @@ choose-download-folder-title = Choisir le dossier de téléchargement :
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = { -brand-short-name } vous aura toujours le choix, y compris pour utiliser ou non les optimisations. Plus de contrôles à venir.
-preferences-ai-controls-block-ai-label = Améliorations pour l’IA des blocages
+preferences-ai-controls-description = Vous avez toujours le choix avec { -brand-short-name }, y compris concernant l’utilisation des fonctionnalités améliorées avec l’IA. Plus de contrôles seront bientôt disponibles.
+preferences-ai-controls-block-ai-label = Bloquer les améliorations ayant recours à l’IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Le blocage signifie que vous ne verrez pas les améliorations nouvelles ou actuelles de l’IA dans { -brand-short-name }, ni de popups les concernant. <a data-l10n-name="link">Obtenez plus de détails</a> sur ce qui est inclus et comment contrôler les fonctionnalités d’apprentissage automatique traditionnelles, comme les suggestions de recherche et les recommandations.
