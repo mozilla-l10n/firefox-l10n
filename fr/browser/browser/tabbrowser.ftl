@@ -381,7 +381,7 @@ tab-note-editor-button-save =
     .label = Enregistrer
     .accesskey = E
 # Link to show the full tab note in case it was truncated.
-tab-note-preview-expand = En savoir plus
+tab-note-preview-expand = Lire la suite
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
