@@ -62,3 +62,53 @@ turn-on-scheduled-backups-description = Nì { -brand-short-name } snapshot dhen 
 turn-on-scheduled-backups-support-link = Dè thèid lethbhreac-glèidhidh a dhèanamh dheth?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Ionad
+# Variables:
+#   $recommendedFolder (String) - Name of the recommended folder for saving backups
+turn-on-scheduled-backups-location-default-folder =
+    .value = { $recommendedFolder } (na mholamaid)
+turn-on-scheduled-backups-location-choose-button =
+    { PLATFORM() ->
+        [macos] Dèan taghadh…
+       *[other] Dèan brabhsadh…
+    }
+turn-on-scheduled-backups-encryption-label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
+turn-on-scheduled-backups-encryption-create-password-label = Facal-faire
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Cuir am facal-faire a-steach a-rithist
+turn-on-scheduled-backups-cancel-button = Sguir dheth
+turn-on-scheduled-backups-confirm-button = Cuir na lethbhreacan-glèidhidh air
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Bha duilgheadas ann le pasgan an lethbhric-ghlèidhidh agad. Tagh pasgan eile agus feuch ris a-rithist.
+backup-error-file-system = Bha duilgheadas ann le pasgan an lethbhric-ghlèidhidh agad fhad ’s a bha sinn a’ dèanamh lethbhreac-glèidhidh dhe { -brand-short-name }.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = A bheil thu airson na lethbhreacan-glèidhidh a chur dheth?
+turn-off-scheduled-backups-description = Sguabaidh seo an dàta air fad a rinn thu lethbhreac-glèidhidh dheth cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
+turn-off-scheduled-backups-support-link = Barrachd fiosrachaidh
+turn-off-scheduled-backups-cancel-button = Sguir dheth
+turn-off-scheduled-backups-confirm-button = Cuir dheth agus sguab an lethbhreac-glèidhidh às
+
+## These strings are displayed in a modal when users want restore from a backup.
+
+restore-from-backup-header = Aisig an dàta agad
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Thèid an lethbhreac-glèidhidh agad on { DATETIME($date, timeStyle: "short", dateStyle: "short") } a chur an àite an dàta { -brand-short-name } làithrich agad.
+restore-from-backup-support-link =
+    .message = Dè thèid aiseag?
+restore-from-backup-no-backup-file-link = Nach fhaigh thu lorg air an lethbhreac-ghlèidhidh agad?
+restore-from-backup-filepicker-label = Faidhle lethbhric-ghlèidhidh
+restore-from-backup-filepicker-title = Tagh faidhle lethbhric-ghlèidhidh:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Dèan taghadh…
+       *[other] Dèan brabhsadh…
+    }
+restore-from-backup-password-label = Facal-faire
+restore-from-backup-password-description = Bheir seo a’ ghlas far an lethbhric-ghlèidhidh chrioptaichte agad.
+restore-from-backup-cancel-button = Sguir dheth
+restore-from-backup-confirm-button = Aisig is ath-thòisich
+restore-from-backup-restoring-button = Ga aiseag…
