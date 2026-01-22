@@ -646,6 +646,9 @@ pdfjs-toggle-views-manager-notification-button =
     .title = Exibir/ocultar painel lateral (documento contém miniaturas/estrutura/anexos/camadas)
 pdfjs-views-manager-sidebar =
     .aria-label = Painel lateral
+pdfjs-views-manager-view-selector-button =
+    .title = Exibição
+pdfjs-views-manager-view-selector-button-label = Exibição
 pdfjs-views-manager-pages-title = Páginas
 pdfjs-views-manager-outlines-title = Estrutura do documento
 pdfjs-views-manager-attachments-title = Anexos
@@ -669,6 +672,10 @@ pdfjs-views-manager-status-warning-cut-label = Não foi possível cortar. Atuali
 pdfjs-views-manager-status-warning-copy-label = Não foi possível copiar. Atualize a página e tente novamente.
 pdfjs-views-manager-status-warning-delete-label = Não foi possível excluir. Atualize a página e tente novamente.
 pdfjs-views-manager-status-warning-save-label = Não foi possível salvar. Atualize a página e tente novamente.
+pdfjs-views-manager-status-undo-button-label = Desfazer
+pdfjs-views-manager-status-close-button =
+    .title = Fechar
+pdfjs-views-manager-status-close-button-label = Fechar
 
 ## Main menu for adding/removing signatures
 
