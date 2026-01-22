@@ -115,6 +115,7 @@ fxa-adoption-passwords-primary-button-label = Registriraj se
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Čuvaj svoje omiljene feedove u svojoj programskoj traci
+taskbar-tabs-social-callout-subtitle = Pokreni svoje društvene web-stranice kao aplikaciju u pojednostavljenom prozoru, koje štiti { -brand-short-name }.
 taskbar-tabs-chat-callout-title = Čavrljaj iz svoje programske trake
 taskbar-tabs-email-callout-title = Drži svoju e-poštu u programskoj traci
 taskbar-tabs-email-callout-subtitle = Pokreni svoju web-poštu poput aplikacije u pojednostavljenom prozoru koju štiti { -brand-short-name }.
@@ -126,7 +127,9 @@ taskbar-tabs-value-prop-callout-subtitle = Jednim klikom pokreni u vlastitom pro
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Nemoj izgubiti spremljene podatke prilikom prijelaza na Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sinkroniziraj sada da osiguraš svoje { -brand-short-name } zabilješke, lozinke i postavke, te da ih možeš jednostavno obnoviti.
 windows-10-eos-sync-urgency-title-2 = Opraštaš se od Windows 10? Zaštiti svoje podatke tijekom prelaska.
+windows-10-eos-sync-urgency-subtitle-2 = Čak i ako ne koristiš { -brand-short-name } svakodnevno, sinkroniziraj ga da osiguraš i jednostavno pristupiš svojim zabilješkama i lozinkama.
 windows-10-eos-sync-new-device-subtitle-1 = Sinkroniziraj { -brand-short-name } tako da svoje zabilješke, lozinke i postavke možeš ponijeti sa sobom kada se seliš na novi uređaj.
 windows-10-eos-sync-new-device-title-2 = Prelaziš na novi uređaj? Nemoj izgubiti ono što ti je bitno.
 windows-10-eos-sync-new-device-subtitle-2 = Bez obzira koliko često koristiš { -brand-short-name }, sinkronizacija štiti tvoje zabilješke, lozinke i postavke.

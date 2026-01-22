@@ -46,6 +46,9 @@ neterror-load-error-firewall = Dersom datamaskina er verna av ein brannmur eller
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Viss du prøver å laste inn ei lokal nettverksside, må du kontrollere at { -brand-short-name } har fått løyve for lokale nettverk i innstillingane for macOS personvern og sikkerheit.
 neterror-http-error-page = Kontroller at du har skrive inn nettadressa rett.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } sende tilbake ei tom side.
 neterror-captive-portal = Du må logge inn på nettverket før du kan kople til Internett.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
