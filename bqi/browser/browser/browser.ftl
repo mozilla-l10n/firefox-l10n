@@ -791,7 +791,7 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ای کرت پیتینیڌن وا:
 urlbar-searchmode-popup-search-settings-menuitem =
-    .label = سامووا پیتینیڌن
+    .label = پیتینیڌن سامووا
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = نۊ
 # Searchmode Switcher button
