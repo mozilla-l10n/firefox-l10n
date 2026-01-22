@@ -640,6 +640,10 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Exibir/ocultar painel lateral
+pdfjs-toggle-views-manager-notification-button =
+    .title = Exibir/ocultar painel lateral (documento contém miniaturas/estrutura/anexos/camadas)
 pdfjs-views-manager-sidebar =
     .aria-label = Painel lateral
 pdfjs-views-manager-pages-title = Páginas

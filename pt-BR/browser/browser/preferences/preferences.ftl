@@ -2180,6 +2180,9 @@ choose-download-folder-title = Selecione a pasta dos downloads:
 
 preferences-ai-controls-description = Você sempre tem escolhas no { -brand-short-name }, inclusive se quer ou não usar recursos aprimorados com inteligência artificial. Mais controles em breve.
 preferences-ai-controls-block-ai-label = Bloquear aprimoramentos de inteligência artificial
+preferences-ai-controls-block-ai-description = Bloquear significa que não aparecerão novos ou atuais aprimoramentos de inteligência artificial no { -brand-short-name }, nem notificações sobre eles. <a data-l10n-name="link">Veja mais detalhes</a> sobre o que está incluído e como controlar recursos tradicionais de aprendizado de máquina, como sugestões de pesquisa e recomendações.
+preferences-ai-controls-blocked-message =
+    .message = Aprimoramentos novos e atuais de inteligência artificial são bloqueados por padrão. Para desbloquear um recurso específico, use os controles abaixo.
 preferences-ai-controls-translations-control =
     .label = Tradução
     .description = Navegue na web tranquilamente em seu idioma preferido

@@ -46,6 +46,10 @@ neterror-load-error-firewall = Se a rede ou o computador estiver protegido por u
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Se estiver tentando carregar uma página de rede local, verifique se o { -brand-short-name } recebeu permissões de rede local nas configurações de privacidade e segurança do macOS.
 neterror-http-error-page = Verifique se você digitou o endereço do site corretamente.
+neterror-http-empty-response = Verifique se você digitou o endereço do site corretamente e tente novamente em instantes.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } enviou de volta uma página vazia.
 neterror-captive-portal = Você deve se autenticar nessa rede antes de poder acessar a internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
