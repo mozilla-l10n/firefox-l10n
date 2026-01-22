@@ -659,12 +659,40 @@ pdfjs-views-manager-layers-option-label = Lag
 pdfjs-views-manager-add-file-button =
     .title = Legg til fil
 pdfjs-views-manager-add-file-button-label = Legg til fil
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } vald
+       *[other] { $count } valde
+    }
 pdfjs-views-manager-pages-status-none-action-label = Vel sider
 pdfjs-views-manager-pages-status-action-button-label = Handsam
 pdfjs-views-manager-pages-status-copy-button-label = Kopier
 pdfjs-views-manager-pages-status-cut-button-label = Klipp ut
 pdfjs-views-manager-pages-status-delete-button-label = Slett
 pdfjs-views-manager-pages-status-save-as-button-label = Lagre som…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 side klipt ut
+       *[other] { $count } sider klipte ut
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 side kopiert
+       *[other] { $count } sider kopierte
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 side sletta
+       *[other] { $count } sider sletta
+    }
 pdfjs-views-manager-pages-status-waiting-ready-label = Klargjer fila di…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Lastar opp fila…
 pdfjs-views-manager-status-undo-button-label = Angre

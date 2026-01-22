@@ -2205,6 +2205,9 @@ preferences-ai-controls-translations-more-link = Fleire omsettingsinnstillingar
 preferences-ai-controls-pdfjs-control =
     .label = Bildetekst (alt-tekst) i PDF-visningsprogrammet i { -brand-short-name }
     .description = Når du legg til bilete i PDF-filer, blir det lagt til beskrivingar for å gjere dei tilgjengelege.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Forslag til fanegrupper
+    .description = Få forslag om namngiving og organisering av fanene dine.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot i sidestolpen
 # This option means that a user will see the feature and can use it.
