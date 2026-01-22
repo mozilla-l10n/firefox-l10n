@@ -675,6 +675,13 @@ pdfjs-views-manager-pages-status-cut-button-label = Kes
 pdfjs-views-manager-pages-status-delete-button-label = Sil
 pdfjs-views-manager-pages-status-save-as-button-label = Farklı kaydet…
 # Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 sayfa kesildi
+       *[other] { $count } sayfa kesildi
+    }
+# Variables:
 #   $count (Number) - the number of selected pages to be copied.
 pdfjs-views-manager-pages-status-undo-copy-label =
     { $count ->
@@ -690,6 +697,7 @@ pdfjs-views-manager-pages-status-undo-delete-label =
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = Dosyanız hazırlanıyor…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Dosya yükleniyor…
+pdfjs-views-manager-status-warning-cut-label = Kesilemedi. Sayfayı tazeleyip yeniden deneyin.
 pdfjs-views-manager-status-warning-copy-label = Kopyalanamadı. Sayfayı tazeleyip yeniden deneyin.
 pdfjs-views-manager-status-warning-delete-label = Silinemedi. Sayfayı tazeleyip yeniden deneyin.
 pdfjs-views-manager-status-warning-save-label = Kaydedilemedi. Sayfayı tazeleyip yeniden deneyin.
