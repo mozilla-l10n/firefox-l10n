@@ -2202,6 +2202,9 @@ preferences-ai-controls-translations-control =
     .label = Omsetjingar
     .description = Surf saumlaust på nettet på språket du føretrekkjer.
 preferences-ai-controls-translations-more-link = Fleire omsettingsinnstillingar
+preferences-ai-controls-pdfjs-control =
+    .label = Bildetekst (alt-tekst) i PDF-visningsprogrammet i { -brand-short-name }
+    .description = Når du legg til bilete i PDF-filer, blir det lagt til beskrivingar for å gjere dei tilgjengelege.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot i sidestolpen
 # This option means that a user will see the feature and can use it.
