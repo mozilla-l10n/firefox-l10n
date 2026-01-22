@@ -2237,6 +2237,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Bildetekst (alt-tekst) i PDF-
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Forslag til fanegrupper
 preferences-ai-controls-block-confirmation-key-points = Hovudpunkt i førehandsvisning av lenker
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbotleverandørar i sidestolpen
+preferences-ai-controls-block-confirmation-features-after = Blokkering påverkar også utvidingar som brukar AI levert av { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
