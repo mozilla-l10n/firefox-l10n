@@ -644,6 +644,7 @@ pdfjs-toggle-views-manager-button =
     .title = Exibir/ocultar painel lateral
 pdfjs-toggle-views-manager-notification-button =
     .title = Exibir/ocultar painel lateral (documento contém miniaturas/estrutura/anexos/camadas)
+pdfjs-toggle-views-manager-button-label = Exibir/ocultar painel lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Painel lateral
 pdfjs-views-manager-view-selector-button =
@@ -660,12 +661,40 @@ pdfjs-views-manager-layers-option-label = Camadas
 pdfjs-views-manager-add-file-button =
     .title = Adicionar arquivo
 pdfjs-views-manager-add-file-button-label = Adicionar arquivo
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } selecionada
+       *[other] { $count } selecionadas
+    }
 pdfjs-views-manager-pages-status-none-action-label = Selecionar páginas
 pdfjs-views-manager-pages-status-action-button-label = Gerenciar
 pdfjs-views-manager-pages-status-copy-button-label = Copiar
 pdfjs-views-manager-pages-status-cut-button-label = Cortar
 pdfjs-views-manager-pages-status-delete-button-label = Excluir
 pdfjs-views-manager-pages-status-save-as-button-label = Salvar como…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 página cortada
+       *[other] { $count } páginas cortadas
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 página copiada
+       *[other] { $count } páginas copiadas
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 página excluída
+       *[other] { $count } páginas excluídas
+    }
 pdfjs-views-manager-pages-status-waiting-ready-label = Preparando seu arquivo…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Enviando arquivo…
 pdfjs-views-manager-status-warning-cut-label = Não foi possível cortar. Atualize a página e tente novamente.

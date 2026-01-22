@@ -54,6 +54,8 @@ pane-sync-title3 = Sincronização
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
 pane-ai-controls-title = Controles de inteligência artificial
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimentos do { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos do { -brand-short-name }
@@ -743,6 +745,10 @@ home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página in
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador padrão
+is-default-browser-2 =
+    .message = { -brand-short-name } é o seu navegador padrão. Ótima escolha.
 is-not-default-browser-2 =
     .message = Psiu, o { -brand-short-name } não é seu padrão.
 set-as-my-default-browser-2 =
@@ -2108,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modo somente HTTPS
     .description = Só permite conexões seguras com sites. O { -brand-short-name } pergunta antes de conectar em modo não seguro.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2178,8 +2186,12 @@ choose-download-folder-title = Selecione a pasta dos downloads:
 
 ## AI controls page
 
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
 preferences-ai-controls-description = Você sempre tem escolhas no { -brand-short-name }, inclusive se quer ou não usar recursos aprimorados com inteligência artificial. Mais controles em breve.
 preferences-ai-controls-block-ai-label = Bloquear aprimoramentos de inteligência artificial
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Bloquear significa que não aparecerão novos ou atuais aprimoramentos de inteligência artificial no { -brand-short-name }, nem notificações sobre eles. <a data-l10n-name="link">Veja mais detalhes</a> sobre o que está incluído e como controlar recursos tradicionais de aprendizado de máquina, como sugestões de pesquisa e recomendações.
 preferences-ai-controls-blocked-message =
     .message = Aprimoramentos novos e atuais de inteligência artificial são bloqueados por padrão. Para desbloquear um recurso específico, use os controles abaixo.
@@ -2201,3 +2213,9 @@ preferences-ai-controls-state-blocked =
 preferences-ai-controls-state-description-before = O que significam as opções:
 preferences-ai-controls-state-description-available = <strong>Disponível:</strong> O recurso aparece e você pode usar.
 preferences-ai-controls-state-description-enabled = <strong>Ativado:</strong> Você optou por usar o recurso.
+preferences-ai-controls-block-confirmation-features-start = O que será bloqueado:
+preferences-ai-controls-block-confirmation-translations = Tradução
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancelar
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloquear
