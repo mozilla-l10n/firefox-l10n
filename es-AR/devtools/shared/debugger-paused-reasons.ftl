@@ -15,7 +15,7 @@
 
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
-whypaused-debugger-statement = Pausado en sentencia del depurador
+whypaused-debugger-statement = Pausado en sentencia debugger
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a breakpoint
 whypaused-breakpoint = Pausado en punto de interrupción
