@@ -2178,6 +2178,7 @@ choose-download-folder-title = Selecione a pasta dos downloads:
 
 ## AI controls page
 
+preferences-ai-controls-description = Você sempre tem escolhas no { -brand-short-name }, inclusive se quer ou não usar recursos aprimorados com inteligência artificial. Mais controles em breve.
 preferences-ai-controls-block-ai-label = Bloquear aprimoramentos de inteligência artificial
 preferences-ai-controls-translations-control =
     .label = Tradução
