@@ -2199,6 +2199,12 @@ preferences-ai-controls-translations-control =
     .label = Tradução
     .description = Navegue na web tranquilamente em seu idioma preferido
 preferences-ai-controls-translations-more-link = Mais configurações de tradução
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugestões de grupos de abas
+    .description = Receber sugestões de nome e organizar suas abas.
+preferences-ai-controls-key-points-control =
+    .label = Pontos-chave na exibição prévia de links
+    .description = Ver um breve resumo antes de abrir um link.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot no painel lateral
 # This option means that a user will see the feature and can use it.
