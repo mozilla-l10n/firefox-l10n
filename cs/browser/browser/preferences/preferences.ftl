@@ -1347,7 +1347,7 @@ sync-currently-syncing-logins-passwords = Přihlašovací údaje
 sync-currently-syncing-passwords = Hesla
 sync-currently-syncing-addresses = Adresy
 sync-currently-syncing-creditcards = Platební karty
-sync-currently-syncing-payment-methods = Způsoby platby
+sync-currently-syncing-payment-methods = Platební metody
 sync-currently-syncing-addons = Doplňky
 sync-currently-syncing-settings = Nastavení
 sync-manage-options =
@@ -1581,8 +1581,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 # The macOS string is preceded by the operating system with "Firefox is trying to ".
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
-        [macos] změnit nastavení pro způsoby plateb
-       *[other] { -brand-short-name } se snaží změnit nastavení způsobů plateb. Pokud to chcete povolit, použijte heslo k účtu na svém zařízení.
+        [macos] změnit nastavení pro platební metody
+       *[other] { -brand-short-name } se snaží změnit nastavení platebních metod. Pokud to chcete povolit, použijte heslo k účtu na svém zařízení.
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
@@ -1593,7 +1593,7 @@ autofill-addresses-checkbox = Ukládat a vyplňovat adresy
     .accesskey = a
 autofill-saved-addresses-button = Uložené adresy
     .accesskey = U
-autofill-payment-methods-checkbox-message = Uložit a vyplnit způsoby platby
+autofill-payment-methods-checkbox-message = Uložit a vyplnit platební metody
     .accesskey = U
 autofill-payment-methods-checkbox-submessage = Zahrnuje kreditní a debetní karty
     .accesskey = Z
