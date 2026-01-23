@@ -642,6 +642,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Vis/skjul sidestolpe
+pdfjs-toggle-views-manager-notification-button =
+    .title = Vis/skjul sidestolpe (dokumentet inneheld miniatyrbilde/disposisjon/vedlegg/lag)
 pdfjs-toggle-views-manager-button-label = Vis/skjul sidestolpe
 pdfjs-views-manager-sidebar =
     .aria-label = Sidestolpe
@@ -695,6 +697,10 @@ pdfjs-views-manager-pages-status-undo-delete-label =
     }
 pdfjs-views-manager-pages-status-waiting-ready-label = Klargjer fila di…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Lastar opp fila…
+pdfjs-views-manager-status-warning-cut-label = Klarte ikkje å klippe ut. Oppdater sida og prøv på nytt.
+pdfjs-views-manager-status-warning-copy-label = Klarte ikkje å kopiere. Oppdater sida og prøv på nytt.
+pdfjs-views-manager-status-warning-delete-label = Klarte ikkje å slette. Oppdater sida og prøv på nytt.
+pdfjs-views-manager-status-warning-save-label = Klarte ikkje å lagre. Oppdater sida og prøv på nytt.
 pdfjs-views-manager-status-undo-button-label = Angre
 pdfjs-views-manager-status-close-button =
     .title = Lat att
