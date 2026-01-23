@@ -86,7 +86,7 @@ migration-passwords-option-label = Uložená hesla
 migration-history-option-label = Historie prohlížení
 migration-extensions-option-label = Rozšíření
 migration-form-autofill-option-label = Data pro automatické vyplňování formulářů
-migration-payment-methods-option-label = Způsoby platby
+migration-payment-methods-option-label = Platební metody
 migration-cookies-option-label = Cookies
 migration-session-option-label = Okna a panely
 migration-otherdata-option-label = Ostatní data
@@ -191,7 +191,7 @@ migration-list-password-label = hesla
 migration-list-history-label = historie
 migration-list-extensions-label = rozšíření
 migration-list-autofill-label = data pro automatické vyplňování
-migration-list-payment-methods-label = způsoby platby
+migration-list-payment-methods-label = platební metody
 
 ##
 
@@ -317,10 +317,10 @@ migration-wizard-progress-success-formdata = Historie formulářů
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] { $quantity } způsob platby
-        [few] { $quantity } způsoby platby
-        [many] { $quantity } způsobů platby
-       *[other] { $quantity } způsobů platby
+        [one] { $quantity } platební metoda
+        [few] { $quantity } platební metody
+        [many] { $quantity } platebních metod
+       *[other] { $quantity } platebních metod
     }
 migration-wizard-safari-permissions-sub-header = Pro importování záložek a historie prohlížení ze Safari:
 migration-wizard-safari-instructions-continue = Vyberte „Pokračovat“
