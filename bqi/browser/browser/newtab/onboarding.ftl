@@ -73,6 +73,7 @@ onboarding-live-language-installing = هونی بسته زووݩ ن سی { $nego
 mr2022-onboarding-live-language-switch-to = آلشت و { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = رئڌن وا پؽش من { $appLanguage }
 onboarding-live-language-secondary-cancel-download = لقو
+onboarding-live-language-skip-button-label = گوم زیڌن
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
