@@ -133,7 +133,7 @@ onboarding-live-language-button-label-downloading = Rěčny pakćik za { $negoti
 onboarding-live-language-waiting-button = K dispoziciji stejace rěče so wobstaruja …
 onboarding-live-language-installing = Rěčny pakćik za { $negotiatedLanguage } so instaluje …
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } wužiwać
-mr2022-onboarding-live-language-continue-in = Z { $appLanguage } pokročować
+mr2022-onboarding-live-language-continue-in = Z rěču { $appLanguage } pokročować
 onboarding-live-language-secondary-cancel-download = Přetorhnyć
 onboarding-live-language-skip-button-label = Přeskočić
 
