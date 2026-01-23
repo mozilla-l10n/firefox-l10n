@@ -27,6 +27,7 @@ profiles-rootdir = Rotmappe
 profiles-localdir = Lokalmappe
 profiles-current-profile = Dette er profilen som er i bruk, og han kan ikkje slettast.
 profiles-in-use-profile = Denne profilen er i bruk i eit anna program, og han kan ikkje slettast.
+profiles-cannot-delete-profile = Kan ikkje slette ein profil som er kopla til andre profilar.
 profiles-rename = Byt namn
 profiles-remove = Fjern
 profiles-set-as-default = Vel som standard profil

@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Bruk den valde profilen utan å spørje ved oppstart
     .accesskey = B
+profile-has-selectable-profiles-title = Kan ikkje slette ein profil som er kopla til andre profilar
+profile-has-selectable-profiles-message = For å slette denne profilen opnar du han og vel «Handsam profilar» frå profildelen i { -brand-short-name }-menyen. Etter at du har sletta eventuelle andre profilar du har oppretta her, kan du gå tilbake til about:profiles og slette denne profilen.
