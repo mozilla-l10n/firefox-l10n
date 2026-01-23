@@ -420,6 +420,8 @@ settings-translations-subpage-never-translate-header =
     .label = ไม่ต้องแปลภาษาเหล่านี้
 settings-translations-subpage-never-translate-sites-header =
     .label = ไม่ต้องแปลไซต์เหล่านี้
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = หากต้องการเพิ่มไซต์ ให้เปิด <img data-l10n-name="translations-icon"/> แผงการแปล เลือก <img data-l10n-name="settings-icon"/> การตั้งค่าการแปล แล้วเลือก “ไม่ต้องแปลไซต์นี้”
 settings-translations-subpage-language-select-option =
     .label = เพิ่มภาษา
 settings-translations-subpage-language-add-button =
