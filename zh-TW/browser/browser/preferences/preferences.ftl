@@ -1750,12 +1750,12 @@ addressbar-firefox-suggest-online =
     .label = 一邊打字，一邊從 Mozilla 取得建議
 addressbar-dismissed-suggestions-label-2 =
     .label = 忽略的建議
-    .description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
+    .description = 重新顯示被忽略的贊助商與 { -brand-short-name } 建議項目。
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = 還原建議
 addressbar-quickactions-learn-more = 了解更多
 addressbar-dismissed-suggestions-label = 忽略的建議
-addressbar-restore-dismissed-suggestions-description = 還原顯示被忽略的贊助商與 { -brand-short-name } 建議。
+addressbar-restore-dismissed-suggestions-description = 重新顯示被忽略的贊助商與 { -brand-short-name } 建議項目。
 addressbar-restore-dismissed-suggestions-button =
     .label = 還原
 
