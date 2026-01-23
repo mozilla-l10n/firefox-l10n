@@ -56,6 +56,7 @@ policy-DisablePocket2 = Disable the feature to save webpages to { -pocket-brand-
 policy-DisablePrivateBrowsing = Disable Private Browsing.
 policy-DisableProfileImport = Disable the menu command to Import data from another browser.
 policy-DisableProfileRefresh = Disable the Refresh { -brand-short-name } button in the about:support page.
+policy-DisableRemoteImprovements = Prevent { -brand-short-name } from applying performance, stability, and feature changes between updates.
 policy-DisableSafeMode = Disable the feature to restart in Safe Mode. Note: the Shift key to enter Safe Mode can only be disabled on Windows using Group Policy.
 policy-DisableSecurityBypass = Prevent the user from bypassing certain security warnings.
 policy-DisableSetAsDesktopBackground = Disable the menu command Set as Desktop Background for images.
