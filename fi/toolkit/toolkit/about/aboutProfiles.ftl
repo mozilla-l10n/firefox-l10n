@@ -27,6 +27,7 @@ profiles-rootdir = Päähakemisto
 profiles-localdir = Paikallinen hakemisto
 profiles-current-profile = Tämä on tällä hetkellä käytössä oleva profiili, joten sitä ei voi poistaa.
 profiles-in-use-profile = Profiili on käytössä toisessa ohjelmassa eikä sitä voida poistaa.
+profiles-cannot-delete-profile = Profiilia, joka on linkitetty muihin profiileihin, ei voi poistaa.
 profiles-rename = Nimeä uudelleen
 profiles-remove = Poista
 profiles-set-as-default = Aseta oletusprofiiliksi
