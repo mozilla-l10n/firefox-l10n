@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = ประสิทธิภาพ (%)
 place-database-stats-sequentiality-perc = ความเป็นลำดับ (%)
 place-database-integrity = ความสมบูรณ์
 place-database-verify-integrity = ยืนยันความสมบูรณ์
+place-database-last-idle-maintenance-data = วันที่ Idle Maintenance ล่าสุด
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = วันที่ Vacuum ล่าสุด
+place-database-last-integrity-corruption-date = วันที่ความครบถ้วนเสียหายล่าสุด
 a11y-title = การช่วยการเข้าถึง
 a11y-activated = เปิดใช้งานแล้ว
 a11y-force-disabled = ป้องกันการช่วยการเข้าถึง
