@@ -466,6 +466,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Hae sijaintia
     .aria-label = Hae sijaintia
 newtab-weather-menu-weather-display = Sään näkymä
+newtab-weather-todays-forecast = Tämän päivän ennuste
+newtab-weather-see-full-forecast = Katso koko ennuste
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

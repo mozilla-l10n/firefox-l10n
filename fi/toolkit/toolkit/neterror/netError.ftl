@@ -46,6 +46,10 @@ neterror-load-error-firewall = Jos tietokone tai verkko on suojattu palomuurilla
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jos yrität ladata paikallisverkon sivua, tarkista, että { -brand-short-name } on saanut paikallisen verkon käyttöoikeudet macOS:n tietosuoja- ja suojausasetuksista.
 neterror-http-error-page = Tarkista, että olet kirjoittanut verkkosivuston osoitteen oikein.
+neterror-http-empty-response = Tarkista, että olet kirjoittanut verkkosivuston osoitteen oikein, ja yritä uudelleen hetken kuluttua.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } lähetti takaisin tyhjän sivun.
 neterror-captive-portal = Tähän verkkoon täytyy kirjautua ennen internetin käyttämistä.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.

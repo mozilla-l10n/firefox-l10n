@@ -633,6 +633,55 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Peruuta
 pdfjs-editor-add-comment-button =
     .title = Lisää kommentti
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-add-file-button =
+    .title = Lisää tiedosto
+pdfjs-views-manager-add-file-button-label = Lisää tiedosto
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } valittu
+       *[other] { $count } valittu
+    }
+pdfjs-views-manager-pages-status-none-action-label = Valitse sivut
+pdfjs-views-manager-pages-status-copy-button-label = Kopioi
+pdfjs-views-manager-pages-status-cut-button-label = Leikkaa
+pdfjs-views-manager-pages-status-delete-button-label = Poista
+pdfjs-views-manager-pages-status-save-as-button-label = Tallenna nimellä…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 sivu leikattu
+       *[other] { $count } sivua leikattu
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 sivu kopioitu
+       *[other] { $count } sivua kopioitu
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 sivu poistettu
+       *[other] { $count } sivua poistettu
+    }
+pdfjs-views-manager-pages-status-waiting-uploading-label = Lähetetään tiedostoa…
+pdfjs-views-manager-status-undo-button-label = Kumoa
+pdfjs-views-manager-status-close-button =
+    .title = Sulje
+pdfjs-views-manager-status-close-button-label = Sulje
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
