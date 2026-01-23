@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = วิดเจ็ต
 newtab-custom-widget-section-toggle =
     .label = วิดเจ็ต
 newtab-widget-manage-title = วิดเจ็ต
+newtab-widget-manage-widget-button =
+    .label = จัดการวิดเจ็ต
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = ปิด
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = ค้นหาตำแหน่งที่ตั้ง
     .aria-label = ค้นหาตำแหน่งที่ตั้ง
 newtab-weather-menu-weather-display = การแสดงผลพยากรณ์อากาศ
+newtab-weather-todays-forecast = พยากรณ์วันนี้
+newtab-weather-see-full-forecast = ดูพยากรณ์ฉบับเต็ม
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"

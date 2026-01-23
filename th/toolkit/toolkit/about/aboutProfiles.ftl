@@ -27,6 +27,7 @@ profiles-rootdir = ไดเรกทอรีราก
 profiles-localdir = ไดเรกทอรีในเครื่อง
 profiles-current-profile = นี่เป็นโปรไฟล์ที่ใช้งานอยู่และไม่สามารถลบได้
 profiles-in-use-profile = โปรไฟล์นี้ถูกใช้งานในแอปพลิเคชันอื่นและไม่สามารถลบได้
+profiles-cannot-delete-profile = ไม่สามารถลบโปรไฟล์ที่เชื่อมโยงกับโปรไฟล์อื่นได้
 profiles-rename = เปลี่ยนชื่อ
 profiles-remove = เอาออก
 profiles-set-as-default = ตั้งเป็นโปรไฟล์เริ่มต้น

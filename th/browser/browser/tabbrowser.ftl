@@ -355,6 +355,17 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = บันทึก
     .accesskey = บ
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = อ่านเพิ่มเติม
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } อักขระ
+    }
 
 ## Split View
 
@@ -374,6 +385,18 @@ tab-context-separate-split-view =
     .label = แบ่งมุมมองแยก
     .accesskey = ย
 tab-context-badge-new = ใหม่
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, มุมมองแยกด้านซ้าย
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, มุมมองแยกด้านขวา
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
