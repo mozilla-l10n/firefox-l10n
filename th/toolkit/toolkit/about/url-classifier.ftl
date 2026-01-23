@@ -14,6 +14,7 @@ url-classifier-search-result-list = รายการตาราง: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL ไม่ถูกต้อง
 url-classifier-search-error-no-features = ไม่ได้เลือกคุณลักษณะใด
+url-classifier-search-error-no-results = ไม่พบข้อมูลสำหรับ URL นี้
 url-classifier-search-btn = เริ่มการค้นหา
 url-classifier-search-features = คุณลักษณะ
 url-classifier-search-listType = ชนิดรายการ

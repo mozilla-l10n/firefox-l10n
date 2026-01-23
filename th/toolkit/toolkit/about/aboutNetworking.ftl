@@ -39,6 +39,7 @@ about-networking-dns-lookup = การค้นหา DNS
 about-networking-dns-lookup-button = แปลงที่อยู่
 about-networking-dns-domain = โดเมน:
 about-networking-dns-lookup-table-column = IP
+about-networking-dns-https-rrs-lookup-table-column = RR HTTPS
 about-networking-dns-https-rr-lookup-table-column = RR HTTP
 about-networking-rcwn = สถิติ RCWN
 about-networking-rcwn-status = สถานะ RCWN
