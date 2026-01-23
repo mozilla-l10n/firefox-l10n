@@ -132,6 +132,14 @@ fp-learn-more-about-time-related-errors = เรียนรู้เพิ่�
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ไม่เชื่อถือเว็บไซต์นี้ เนื่องจากดูเหมือนว่าใบรับรองที่ให้มาจะไม่ถูกต้องจนถึง { DATETIME($date, timeStyle: "short") } ในวันที่ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = นาฬิกาของอุปกรณ์คุณถูกตั้งเป็น { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ถ้าเวลาดังกล่าวถูกต้องแล้ว ปัญหาด้านความปลอดภัยน่าจะเป็นที่ตัวไซต์เอง ถ้าเวลาผิด คุณสามารถเปลี่ยนได้ในการตั้งค่าระบบของอุปกรณ์คุณ
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = เจ้าของ { $hostname } ไม่ได้ตั้งค่าให้ถูกต้อง และไม่สามารถสร้างการเชื่อมต่อแบบปลอดภัยได้
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
