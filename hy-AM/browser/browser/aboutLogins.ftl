@@ -151,7 +151,7 @@ login-item-cancel-button = Չեղարկել
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
-login-item-timeline-action-created = Ստեղծված
+login-item-timeline-action-created = Ստեղծվեց
 login-item-timeline-action-updated = Արդիացված
 login-item-timeline-action-used = Օգտագործված
 
