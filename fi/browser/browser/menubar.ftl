@@ -24,13 +24,13 @@ menu-application-touch-bar =
 menu-quit =
     .label =
         { PLATFORM() ->
-            [windows] Lopeta selain
-           *[other] Lopeta selain
+            [windows] Lopeta
+           *[other] Lopeta
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] s
-           *[other] s
+            [windows] L
+           *[other] L
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
