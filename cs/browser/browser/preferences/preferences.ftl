@@ -1758,7 +1758,7 @@ history-group =
 sitedata-header = Cookies a data stránek
 sitedata-label =
     .aria-label = { sitedata-header }
-sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek…
+sitedata-total-size-calculating = Probíhá výpočet velikosti mezipaměti a dat stránek…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
