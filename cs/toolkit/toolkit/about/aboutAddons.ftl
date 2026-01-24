@@ -292,13 +292,13 @@ header-back-button =
 discopane-intro =
     { -brand-product-name.case-status ->
         [with-cases]
-            Rozšíření a vzhledy jsou jako aplikace pro váš prohlížeč. S nimi můžete chránit
+            Rozšíření a vzhledy jsou něco jako aplikace pro váš prohlížeč. S nimi můžete chránit
             svá hesla, stahovat videa, hledat výhodné nabídky, blokovat otravné reklamy,
             měnit vzhled prohlížeče a mnoho dalšího. Tyto malé prográmky většinou vytváří
             někdy jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
             pro { -brand-product-name(case: "acc") } díky jejich jedinečné bezpečnosti a funkcím.
        *[no-cases]
-            Rozšíření a vzhledy jsou jako aplikace pro váš prohlížeč. S nimi můžete chránit
+            Rozšíření a vzhledy jsou něco jako aplikace pro váš prohlížeč. S nimi můžete chránit
             svá hesla, stahovat videa, hledat výhodné nabídky, blokovat otravné reklamy,
             měnit vzhled prohlížeče a mnoho dalšího. Tyto malé prográmky většinou vytváří
             někdy jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>

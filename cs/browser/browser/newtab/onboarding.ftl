@@ -485,7 +485,7 @@ amo-picker-title =
         [neuter] Přizpůsobte si své { -brand-short-name(case: "acc") }
        *[other] Přizpůsobte si svou aplikaci { -brand-short-name }
     }
-amo-picker-subtitle = Rozšíření jsou jako aplikace pro váš prohlížeč. Umožňují vám chránit hesla, stahovat videa, hledat akční nabídky, blokovat obtěžující reklamy, měnit vzhled prohlížeče a mnoho dalšího.
+amo-picker-subtitle = Rozšíření jsou něco jako aplikace pro váš prohlížeč. Umožňují vám chránit hesla, stahovat videa, hledat akční nabídky, blokovat obtěžující reklamy, měnit vzhled prohlížeče a mnoho dalšího.
 amo-picker-install-button-label =
     { -brand-short-name.case-status ->
         [with-cases] Přidat do { -brand-short-name(case: "gen") }
