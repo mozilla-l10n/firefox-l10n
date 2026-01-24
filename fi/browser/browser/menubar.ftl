@@ -24,17 +24,17 @@ menu-application-touch-bar =
 menu-quit =
     .label =
         { PLATFORM() ->
-            [windows] Sulje selain
-           *[other] Sulje selain
+            [windows] Lopeta selain
+           *[other] Lopeta selain
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] S
-           *[other] S
+            [windows] s
+           *[other] s
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = Sulje { -brand-shorter-name }
+    .label = Lopeta { -brand-shorter-name }
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
