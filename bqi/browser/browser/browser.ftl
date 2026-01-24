@@ -628,7 +628,7 @@ urlbar-placeholder-with-name =
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
 urlbar-remote-control-notification-anchor2 =
-    .tooltiptext = گشت گر تئت کونتورول ز ر دیر هڌ (دلیل: { $component })
+    .tooltiptext = گشت گر تئت کونتورول ز ره دیر هڌ (دلیل: { $component })
 urlbar-permissions-granted =
     .tooltiptext = و ای وبگه موجوزا ازافی داڌینه.
 urlbar-switch-to-tab =
