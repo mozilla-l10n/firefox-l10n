@@ -765,7 +765,11 @@ home-mode-choice-custom =
 home-mode-choice-blank =
     .label = Tyhjä sivu
 home-homepage-custom-url =
-    .placeholder = Liitä osoite…
+    .placeholder =
+        { PLATFORM() ->
+            [macos] Kirjoita tai sijoita osoite…
+           *[other] Kirjoita tai liitä osoite…
+        }
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Hallitse laajennusta

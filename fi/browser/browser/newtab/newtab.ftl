@@ -64,7 +64,11 @@ newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
 newtab-topsites-url-label = Osoite
 newtab-topsites-url-input =
-    .placeholder = Kirjoita tai liitä osoite
+    .placeholder =
+        { PLATFORM() ->
+            [macos] Kirjoita tai sijoita osoite
+           *[other] Kirjoita tai liitä osoite
+        }
 newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
 newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
