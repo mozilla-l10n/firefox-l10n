@@ -92,6 +92,7 @@ item-cached-content-with-size =
 item-cached-content =
     .label = Dočasně uložené soubory a stránky
     .accesskey = D
+item-cached-content-description = Vymaže věci, které pomáhají rychlejšímu načítání stránek
 item-form-search-history =
     .label = Historii formulářů a hledání
     .accesskey = f
