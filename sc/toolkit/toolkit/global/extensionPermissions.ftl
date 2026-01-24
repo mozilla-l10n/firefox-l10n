@@ -41,6 +41,14 @@ webext-perms-extra-warning-userScripts-long = Is scripts non verificados podent 
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = Is scripts non verificados podent cumportare un’arriscu de seguresa e de riservadesa. Esecuta isceti is scripts dae estensiones o mitzas fidadas.
 
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+webext-perms-description-data-short-technicalAndInteraction = datos tècnicos e de interatzione
+
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
 webext-perms-description-data-long-searchTerms = Cumpartzi is tèrmines de chirca cun s’iscuadra de isvilupu de s’estensione
+webext-perms-description-data-long-technicalAndInteraction = Cumpartzire datos tècnicos e de interatziones cun s’iscuadra de isvilupu de s’estensione

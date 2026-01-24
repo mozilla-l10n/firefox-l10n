@@ -169,8 +169,14 @@ preferences-manage-profiles-description = Onni profilu tenet cunfiguratziones e 
 preferences-manage-profiles-learn-more = Àteras informatziones
 preferences-manage-profiles-button =
     .label = Gesti is profilos
+preferences-profiles-settings-button =
+    .label = Cunfiguratzione
 tabs-group-header2 =
     .label = Ischedas
+tabs-interaction-heading =
+    .label = Interatzione
+tabs-closing-heading =
+    .label = Serrada
 tabs-group-header = Ischedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cuncàmbiat ischedas in s’òrdine de impreu reghente
@@ -1768,3 +1774,7 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Iscrivania
 downloads-folder-name = Iscarrigamentos
 choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
+
+## AI controls page
+
+preferences-ai-controls-translations-more-link = Àteras cunfiguratziones de tradutzione
