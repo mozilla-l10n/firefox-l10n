@@ -29,10 +29,18 @@ text-action-copy-clean-link =
     .label = Kopioi puhdas linkki
     .accesskey = n
 text-action-paste =
-    .label = Liitä
+    .label =
+        { PLATFORM() ->
+            [macos] Sijoita
+           *[other] Liitä
+        }
     .accesskey = i
 text-action-paste-no-formatting =
-    .label = Liitä ilman muotoilua
+    .label =
+        { PLATFORM() ->
+            [macos] Sijoita ilman muotoilua
+           *[other] Liitä ilman muotoilua
+        }
     .accesskey = i
 text-action-paste-shortcut =
     .key = V

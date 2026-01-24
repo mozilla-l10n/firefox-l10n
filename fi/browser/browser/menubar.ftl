@@ -42,7 +42,11 @@ menu-about =
 ## File Menu
 
 menu-file =
-    .label = Tiedosto
+    .label =
+        { PLATFORM() ->
+            [macos] Arkisto
+           *[other] Tiedosto
+        }
     .accesskey = T
 menu-file-new-tab =
     .label = Uusi välilehti
