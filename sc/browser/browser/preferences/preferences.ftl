@@ -173,6 +173,8 @@ preferences-profiles-settings-button =
     .label = Cunfiguratzione
 tabs-group-header2 =
     .label = Ischedas
+tabs-opening-heading =
+    .label = Abertura
 tabs-interaction-heading =
     .label = Interatzione
 tabs-closing-heading =
@@ -596,6 +598,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Ativa is cumandos vìdeu de immàgine-subra-immàgine
     .accesskey = A
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Sighi a riproduire vìdeos in sa modalidade Immàgine-subra-immàgine cando colas dae un’ischeda a un’àtera
+    .accesskey = r
 browsing-picture-in-picture-learn-more = Àteras informatziones
 browsing-media-control =
     .label = Controlla su cuntenutu multimediale cun su tecladu, is cùfias o s'interfache virtuale
@@ -1778,3 +1783,6 @@ choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
 ## AI controls page
 
 preferences-ai-controls-translations-more-link = Àteras cunfiguratziones de tradutzione
+preferences-ai-controls-key-points-control =
+    .label = Puntos crae in sa previsualizatzione de is ligòngios
+    .description = Bide unu resumu lestru in antis de abèrrere unu ligòngiu.
