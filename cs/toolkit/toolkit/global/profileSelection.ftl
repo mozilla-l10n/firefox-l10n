@@ -44,3 +44,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Použít zvolený profil bez ptaní při startu
     .accesskey = P
+profile-has-selectable-profiles-title = Nelze smazat profil, který je propojený s jinými profily

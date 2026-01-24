@@ -132,3 +132,6 @@ sanitize-everything-warning = Celá historie bude vymazána.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Všechny vybrané položky budou smazány.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Probíhá výpočet…

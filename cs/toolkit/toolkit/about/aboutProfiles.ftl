@@ -43,6 +43,7 @@ profiles-rootdir = Kořenový adresář
 profiles-localdir = Místní adresář
 profiles-current-profile = Tento profil je používán a nelze ho smazat.
 profiles-in-use-profile = Tento profil je používán jinou aplikací a nemůže být smazán.
+profiles-cannot-delete-profile = Nelze smazat profil, který je propojený s jinými profily.
 profiles-rename = Přejmenovat
 profiles-remove = Smazat
 profiles-set-as-default = Nastavit jako výchozí profil
