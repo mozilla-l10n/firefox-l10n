@@ -66,7 +66,7 @@ unified-extensions-mb-about-addons-link = Перейти в настройки �
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single2 =
-    .heading = { $extensionName } disabled
+    .heading = { $extensionName } отключено
     .message =
         Это расширение ограничено и было отключено.
         Вы можете включить его в настройках, но это может быть рискованно.
