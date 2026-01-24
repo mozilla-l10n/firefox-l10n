@@ -53,8 +53,18 @@ about-glean-additional-links =
     Datuak grabatu eta aurkitzeko modu ezberdinei buruzko azalpenetarako, egin erreferentzia
     <strong>Datuei buruz</strong> fitxari.
 about-glean-about-testing-header = Probei buruz
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Jarraibide osoak
+    <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } instrumentazioa probatzeko dokumentu</a>etan
+    eta <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentazioa</a>n daude dokumentatuta,
+    baina motzean, zure instrumentazioa badabilela eskuz probatzeko, ondorengoa egin behar zenuke:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ez bidali ping-ik)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = Aurreko eremuan ziurtatu arazketarako etiketa gogoangarri bat dagoela, ondoren zure ping-ak antzeman ahal izan ditzazun.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Ezarri arazketarako etiketa gogoangarri bat <span>(20 karaktere edo gutxiago, alfazenbakiak eta - soilik) geroago zure ping-ak antzeman ahal izan ditzazun.
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
 about-glean-feedback-settings-only =
     .message = Ezarpenak aplikatuta!
