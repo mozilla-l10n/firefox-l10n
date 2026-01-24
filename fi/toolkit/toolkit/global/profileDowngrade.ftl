@@ -13,6 +13,6 @@ profiledowngrade-nosync = Vanhan { -brand-product-name }-version käyttäminen v
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
-            [windows] Sulje
-           *[other] Sulje
+            [windows] Lopeta
+           *[other] Lopeta
         }
