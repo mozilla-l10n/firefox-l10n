@@ -1107,7 +1107,7 @@ search-suggestions-cant-show-2 =
         }
 addressbar-header-1 =
     .label = Adresní řádek
-    .description = Zvolte, které návrhy se zobrazí v adresním řádku
+    .description = Zvolte, co se bude našeptávat v adresním řádku
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
     .label = { -firefox-suggest-brand-name }
@@ -1843,7 +1843,7 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresní řádek
-addressbar-suggest-1 = Zvolte, které návrhy se zobrazí v adresním řádku
+addressbar-suggest-1 = Zvolte, co se bude našeptávat v adresním řádku
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
@@ -1861,7 +1861,7 @@ addressbar-suggest-firefox-suggest = Vyberte typ návrhů, které se zobrazí v 
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = Zjistit více
 addressbar-locbar-history-option =
-    .label = Historii prohlížení
+    .label = Historie prohlížení
     .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Záložky
