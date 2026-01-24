@@ -374,7 +374,7 @@ onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք �
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-feature-callout-title = Փորձեք ներդիրի խմբերը ավելի քիչ առաջնահերթության, ավելի շատ կիզակետի համար
+tab-groups-onboarding-feature-callout-title = Փորձեք ներդիրի խմբերը՝ ավելի քիչ խառնաշփոթ, ավելի շատ կենտրոնացում
 tab-groups-onboarding-feature-callout-subtitle = Կազմակերպվեք՝ մեկ ներդիրը մյուսի վրա քաշելով՝ ձեր առաջին խումբը ստեղծելու համար։
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Գտեք ձեր ներդիրների խմբերը «Բոլոր ներդիրների ցանկ» ցանկում ցանկացած ժամանակ։
