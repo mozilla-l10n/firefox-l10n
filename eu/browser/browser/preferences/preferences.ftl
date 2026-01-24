@@ -1341,9 +1341,9 @@ forms-breach-alerts =
     .accesskey = E
 forms-breach-alerts-learn-more-link = Argibide gehiago
 preferences-relay-integration-checkbox =
-    .label = Gomendatu { -relay-brand-name } helbide-maskarak zure helbide elektronikoa babesteko
+    .label = Gomendatu { -relay-brand-name } posta-maskarak zure helbide elektronikoa babesteko
 preferences-relay-integration-checkbox2 =
-    .label = Gomendatu { -relay-brand-name } helbide-maskarak zure helbide elektronikoa babesteko
+    .label = Gomendatu { -relay-brand-name } posta-maskarak zure helbide elektronikoa babesteko
     .accesskey = r
 relay-integration-learn-more-link = Argibide gehiago
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.

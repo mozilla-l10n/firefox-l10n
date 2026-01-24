@@ -11,13 +11,28 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } arazketarako pingen ikustailea
 about-glean-page-title2 = { -glean-brand-name }(r)i buruz
 about-glean-header = { -glean-brand-name }(r)i buruz
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    datuen bilketarako liburutegi bat da, { -vendor-short-name } proiektuetan erabiltzen dena.
+    Interfaze hau garatzaile eta probatzaileek erabiltzeko diseinatuta dago 
+    <a data-l10n-name="fog-link">instrumentazioa eskuz probatzeko</a>.
 about-glean-category-about-glean = { -glean-brand-name }(r)i buruz
+about-glean-category-manual-testing = Eskuzko probak
+about-glean-category-adhoc-testing = Kasuan kasuko probak
 about-glean-category-profiler = Analizatzailea erabiltzea
 about-glean-category-about-data = Datuei buruz
 about-glean-category-metrics-table = Neurkeren taula
 about-glean-upload-enabled = Datuak igotzea gaituta dago.
 about-glean-upload-disabled = Datuak igotzea desgaituta dago.
 about-glean-upload-enabled-local = Datuak igotzea gaituta dago, zerbitzari lokal batera bidaltzeko soilik.
+about-glean-upload-fake-enabled =
+    Datuak igotzea desgaituta dago,
+    baina gezurretan ari gara eta { glean-sdk-brand-name }(r)i esan diogu gaituta dagoela
+    datuak horrela modu lokalean oraindik ere graba daitezen.
+    Oharra: arazketarako etiketa bat ezartzen baduzu, ping-ak igo egingo dira
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>(r)a ezarpenak kontuan hartu gabe.
+# This message is followed by a bulleted list.
+about-glean-prefs-and-defines = Beharrezko <a data-l10n-name="fog-prefs-and-defines-doc-link">hobespen eta definizioek</a> ondorengoak dituzte:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
@@ -34,6 +49,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+about-glean-additional-links =
+    Datuak grabatu eta aurkitzeko modu ezberdinei buruzko azalpenetarako, egin erreferentzia
+    <strong>Datuei buruz</strong> fitxari.
+about-glean-about-testing-header = Probei buruz
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ez bidali ping-ik)
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
