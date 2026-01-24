@@ -48,8 +48,8 @@ appmenuitem-help =
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
-            [linux] Sulje selain
-           *[other] Sulje selain
+            [linux] Lopeta selain
+           *[other] Lopeta selain
         }
 appmenu-menu-button-closed2 =
     .tooltiptext = Avaa sovellusvalikko
