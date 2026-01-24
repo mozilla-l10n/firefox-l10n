@@ -41,7 +41,7 @@ text-action-paste-no-formatting =
             [macos] Sijoita ilman muotoilua
            *[other] Liitä ilman muotoilua
         }
-    .accesskey = i
+    .accesskey = m
 text-action-paste-shortcut =
     .key = V
 text-action-delete =
