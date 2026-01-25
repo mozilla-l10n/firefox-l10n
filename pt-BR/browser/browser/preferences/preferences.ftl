@@ -2205,6 +2205,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Pontos-chave na exibição prévia de links
     .description = Ver um breve resumo antes de abrir um link.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Provedores de chatbot de inteligência artificial no painel lateral
+    .description = Mantenha um chatbot à mão enquanto navega. Escolha Anthropic Claude, ChatGPT, Copilot, Google Gemini ou Le Chat Mistral.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot no painel lateral
 # This option means that a user will see the feature and can use it.
