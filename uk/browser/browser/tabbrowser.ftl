@@ -277,9 +277,17 @@ tab-group-editor-color-selector2-red = Червоний
 tab-group-description = { $tabGroupName } – група вкладок
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Згорнуто
 tab-group-label-tooltip-expanded = { $tabGroupName } — Розгорнуто
+tab-group-preview-name =
+    .aria-label = Вкладки у згорнутій групі
 tab-context-unnamed-group =
     .label = Група без назви
 tab-group-name-default = Група без назви
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Список вкладок відкрито
+tab-group-preview-closed-description = Список вкладок закрито
 
 ##
 
@@ -297,6 +305,20 @@ tab-context-move-tab-to-group =
            *[other] Додати вкладки до групи
         }
     .accesskey = т
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Додати розділений екран до нової групи
+           *[other] Додати розділені екрани до нової групи
+        }
+    .accesskey = з
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Додати розділений екран до групи
+           *[other] Додати розділені екрани до групи
+        }
+    .accesskey = г
 tab-context-move-tab-to-group-saved-groups =
     .label = Закриті групи
 tab-group-editor-action-new-tab =
@@ -359,3 +381,83 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Відкрити групу в новому вікні
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = Додати нотатку
+    .accesskey = к
+tab-context-update-note =
+    .label = Оновити нотатку
+    .accesskey = н
+tab-context-edit-note =
+    .label = Редагувати нотатку
+    .accesskey = г
+tab-context-delete-note =
+    .label = Видалити нотатку
+    .accesskey = л
+tab-note-editor-title-create = Додати нотатку
+tab-note-editor-title-edit = Редагувати нотатку
+tab-note-editor-text-field =
+    .placeholder = Що ви хочете запам'ятати про цю вкладку?
+tab-note-editor-button-cancel =
+    .label = Скасувати
+    .accesskey = к
+tab-note-editor-button-save =
+    .label = Зберегти
+    .accesskey = б
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Докладніше
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } символ
+        [few] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } символи
+       *[many] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } символів
+    }
+
+## Split View
+
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on tabs inside of a tab split view
+tabbrowser-tab-label-tab-split-view = Розділений екран
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Додати розділений екран
+    .accesskey = з
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Відкрити на розділеному екрані
+    .accesskey = л
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Вийти з розділеного екрану
+    .accesskey = й
+tab-context-badge-new = Новий
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, розділений екран ліворуч
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, розділений екран праворуч
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Розділити вкладки
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Переставити вкладки
+split-view-menuitem-close-both-tabs =
+    .label = Закрити обидві вкладки
