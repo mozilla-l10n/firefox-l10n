@@ -27,6 +27,7 @@ profiles-rootdir = Pasta raiz
 profiles-localdir = Pasta local
 profiles-current-profile = Este é o perfil em uso e não pode ser excluído.
 profiles-in-use-profile = Este perfil está em uso em outra aplicação e não pode ser excluído.
+profiles-cannot-delete-profile = Não é possível excluir um perfil vinculado a outros perfis.
 profiles-rename = Renomear
 profiles-remove = Remover
 profiles-set-as-default = Definir como perfil padrão
