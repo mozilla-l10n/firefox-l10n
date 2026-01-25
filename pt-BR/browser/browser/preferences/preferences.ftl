@@ -2195,10 +2195,16 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = Bloquear significa que não aparecerão novos ou atuais aprimoramentos de inteligência artificial no { -brand-short-name }, nem notificações sobre eles. <a data-l10n-name="link">Veja mais detalhes</a> sobre o que está incluído e como controlar recursos tradicionais de aprendizado de máquina, como sugestões de pesquisa e recomendações.
 preferences-ai-controls-blocked-message =
     .message = Aprimoramentos novos e atuais de inteligência artificial são bloqueados por padrão. Para desbloquear um recurso específico, use os controles abaixo.
+preferences-ai-controls-on-device-group =
+    .label = Inteligência artificial no dispositivo
+    .description = Usa pequenos modelos de inteligência artificial que são baixados para este dispositivo, se você usar o recurso. Esta abordagem ajuda a proteger sua privacidade.
 preferences-ai-controls-translations-control =
     .label = Tradução
     .description = Navegue na web tranquilamente em seu idioma preferido
 preferences-ai-controls-translations-more-link = Mais configurações de tradução
+preferences-ai-controls-pdfjs-control =
+    .label = Texto alternativo de imagens no visor de PDF do { -brand-short-name }
+    .description = Ao adicionar uma imagem em um PDF, é adicionada uma descrição para tornar a imagem acessível.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = Sugestões de grupos de abas
     .description = Receber sugestões de nome e organizar suas abas.

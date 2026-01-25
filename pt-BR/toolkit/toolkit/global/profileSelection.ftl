@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Usar o perfil selecionado sem perguntar ao iniciar
     .accesskey = U
 profile-has-selectable-profiles-title = Não é possível excluir um perfil vinculado a outros perfis
+profile-has-selectable-profiles-message = Para excluir este perfil, o abra e selecione "Gerenciar perfis" na seção de perfis do menu do { -brand-short-name }. Após excluir quaisquer perfis adicionais que você tenha criado aqui, pode voltar para about:profiles e excluir este perfil.
