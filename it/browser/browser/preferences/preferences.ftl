@@ -407,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Attenzione: se si seleziona “Ingrandisci solo il testo” e lo zoom predefinito non è impostato a 100%, alcuni siti o contenuti potrebbero non funzionare correttamente.
 language-header = Lingua
 choose-language-description = Scegli la lingua in cui visualizzare le pagine web
+website-language-heading =
+    .label = Lingua dei siti web
+    .description = Alcune pagine web sono disponibili in diverse lingue. Seleziona le lingue nell’ordine che preferisci.
+website-preferred-language =
+    .label = Lingue preferite
+website-add-language =
+    .label = Aggiungi lingua
+website-add-language-button =
+    .aria-label = Aggiungi lingua selezionata
+    .title = Aggiungi lingua selezionata
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Rimuovi { $locale }
+    .title = Rimuovi { $locale }
 choose-button =
     .label = Scegli…
     .accesskey = g

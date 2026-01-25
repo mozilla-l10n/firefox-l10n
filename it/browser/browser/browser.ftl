@@ -724,6 +724,7 @@ urlbar-result-action-search-in-private = Cerca in una finestra anonima
 urlbar-result-action-search-w-engine = Cerca con { $engine }
 urlbar-result-action-sponsored = Sponsorizzato
 urlbar-result-action-switch-tab = Passa alla scheda
+urlbar-result-action-move-tab-to-split-view = Sposta scheda in schermo diviso
 urlbar-result-action-visit = Apri
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
