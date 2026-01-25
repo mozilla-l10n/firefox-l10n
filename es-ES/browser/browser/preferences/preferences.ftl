@@ -2192,10 +2192,22 @@ preferences-ai-controls-description = Siempre puede elegir en { -brand-short-nam
 preferences-ai-controls-block-ai-label = Mejoras en el bloqueo de IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = El bloqueo implica que no verá mejoras de IA nuevas ni actuales en { -brand-short-name }, ni ventanas emergentes relacionadas con ellas. <a data-l10n-name="link">Obtenga más detalles</a> sobre lo que se incluye y cómo controlar las funciones tradicionales de aprendizaje automático, como las sugerencias de búsqueda y las recomendaciones.
+preferences-ai-controls-blocked-message =
+    .message = Las mejoras de IA, tanto nuevas como actuales, están bloqueadas por defecto. Para desbloquear una función específica, utilice los controles que se encuentran a continuación.
+preferences-ai-controls-on-device-group =
+    .label = IA en el dispositivo
+    .description = Esto utiliza pequeños modelos de IA que se descargan en su dispositivo si utiliza la función. Este enfoque ayuda a proteger su privacidad.
 preferences-ai-controls-translations-control =
     .label = Traducciones
     .description = Navegue sin problemas por la red e su idioma preferido.
 preferences-ai-controls-translations-more-link = Más ajustes de traducciones
+preferences-ai-controls-pdfjs-control =
+    .label = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
+    .description = Cuando añade imágenes a los archivos PDF, se añaden descripciones para que sean accesibles.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugerencias de grupos de pestañas
+    .description = Obtenga sugerencias para nombrar y organizar sus pestañas.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot en la barra lateral
 # This option means that a user will see the feature and can use it.
