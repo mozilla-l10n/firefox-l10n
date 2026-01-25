@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Usar el perfil seleccionado sin preguntar al iniciar
     .accesskey = U
+profile-has-selectable-profiles-title = No se puede eliminar un perfil que esté vinculado a otros perfiles
+profile-has-selectable-profiles-message = Para eliminar este perfil, ábralo y seleccione «Administrar perfiles» en la sección de perfiles del menú { -brand-short-name }. Tras eliminar cualquier perfil adicional que haya creado aquí, puede volver a about:profiles y eliminar este perfil.

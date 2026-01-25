@@ -640,6 +640,8 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Cambiar barra lateral
 pdfjs-views-manager-pages-status-none-action-label = Seleccionar páginas
 pdfjs-views-manager-pages-status-action-button-label = Administrar
 pdfjs-views-manager-pages-status-copy-button-label = Copiar
