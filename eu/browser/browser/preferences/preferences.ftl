@@ -296,7 +296,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Bistaratu alboan, alboko barran
 browser-layout-show-sidebar =
     .label = Erakutsi alboko barra
-browser-layout-show-sidebar-desc = Izan laster-marketa, telefonoko fitxeta, AA txaterako bot eta gehiagoren sarbide bizkorra zure ikuspegi nagusia utzi gabe.
+browser-layout-show-sidebar-desc = Izan laster-marka, telefonoko fitxa, AA txaterako bot eta gehiagoren sarbide bizkorra zure ikuspegi nagusia utzi gabe.
 
 ## General Section - Language & Appearance
 
