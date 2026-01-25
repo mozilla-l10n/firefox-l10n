@@ -64,7 +64,7 @@ about-glean-no-ping-label = (ez bidali ping-ik)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Aurreko eremuan ziurtatu arazketarako etiketa gogoangarri bat dagoela, ondoren zure ping-ak antzeman ahal izan ditzazun.
 # An in-line text input field precedes this string.
-about-glean-label-for-tag-pings-with-requirements = Ezarri arazketarako etiketa gogoangarri bat <span>(20 karaktere edo gutxiago, alfazenbakiak eta - soilik) geroago zure ping-ak antzeman ahal izan ditzazun.
+about-glean-label-for-tag-pings-with-requirements = Ezarri arazketarako etiketa gogoangarri bat <span>(20 karaktere edo gutxiago, alfazenbakiak eta - soilik) </span> geroago zure ping-ak antzeman ahal izan ditzazun.
 controls-button-label-verbose = Aplikatu ezarpenak eta bidali ping-a
 about-glean-feedback-settings-only =
     .message = Ezarpenak aplikatuta!
