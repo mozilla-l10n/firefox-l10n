@@ -258,15 +258,15 @@ tab-context-move-tab-to-group =
 tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
-            [1] 새 그룹에 분할 보기 추가
-           *[other] 새 그룹에 분할 보기 추가
+            [1] 새 그룹에 분할 화면 추가
+           *[other] 새 그룹에 분할 화면 추가
         }
     .accesskey = G
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
-            [1] 그룹에 분할 보기 추가
-           *[other] 그룹에 분할 보기 추가
+            [1] 그룹에 분할 화면 추가
+           *[other] 그룹에 분할 화면 추가
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
@@ -364,14 +364,14 @@ tab-note-editor-character-limit = { NUMBER($totalCharacters, useGrouping: "false
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
-tabbrowser-tab-label-tab-split-view = 분할 보기
+tabbrowser-tab-label-tab-split-view = 분할 화면
 # Open a new tab next to the current tab and display their contents side by side
 tab-context-add-split-view =
-    .label = 분할 보기 추가
+    .label = 분할 화면 추가
     .accesskey = t
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
-    .label = 분할 보기 열기
+    .label = 분할 화면에서 열기
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =

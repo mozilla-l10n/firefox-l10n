@@ -293,8 +293,8 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = 이 페이지 북마크 ({ $shortcut })
 urlbar-split-view-button =
-    .tooltiptext = 분할 보기
-    .aria-label = 분할 보기
+    .tooltiptext = 분할 화면
+    .aria-label = 분할 화면
 
 ## Page Action Context Menu
 
