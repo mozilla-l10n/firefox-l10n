@@ -12,13 +12,13 @@ profiles-conflict =
     { -brand-product-name.case-status ->
         [with-cases]
             { -brand-short-name.case-status ->
-                [with-cases] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-               *[no-cases] Další kopie { -brand-product-name(case: "gen") } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+                [with-cases] Jiná kopie { -brand-product-name(case: "gen") } provedla v profilech změny. Před provedením dalších změn musíte { -brand-short-name(case: "acc") } restartovat.
+               *[no-cases] Jiná kopie { -brand-product-name(case: "gen") } provedla v profilech změny. Před provedením dalších změn musíte aplikaci { -brand-short-name } restartovat.
             }
        *[no-cases]
             { -brand-short-name.case-status ->
-                [with-cases] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn { -brand-short-name(case: "acc") } restartujte.
-               *[no-cases] Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+                [with-cases] Jiná kopie aplikace { -brand-product-name } provedla v profilech změny. Před provedením dalších změn musíte { -brand-short-name(case: "acc") } restartovat.
+               *[no-cases] Jiná kopie aplikace { -brand-product-name } provedla v profilech změny. Před provedením dalších změn musíte aplikaci { -brand-short-name } restartovat.
             }
     }
 profiles-flush-fail-title = Změny nebyly uloženy
