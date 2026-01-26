@@ -276,7 +276,25 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = پور کردن خوتکار
+payments-delete-payment-button-label =
+    .aria-label = پاک کردن
+payments-edit-payment-button-label =
+    .aria-label = آلشت
 payments-remove-payment-prompt-cancel-button = لقو
+addreses-delete-address-button-label =
+    .aria-label = پاک کردن
+addreses-edit-address-button-label =
+    .aria-label = آلشت
+addresses-delete-address-prompt-title = ای نشۊوی پاک بۊ؟
+addresses-delete-address-prompt-confirm-button = پاک کردن
+addresses-delete-address-prompt-cancel-button = لقو
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 
 ## Privacy Section - History
 
@@ -297,6 +315,8 @@ cookie-banner-learn-more = قلوه دووسته بۊین
 
 ## Search Section
 
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = قلوه دووسته بۊین
@@ -359,18 +379,27 @@ permissions-notification-settings =
     .label = سامووا…
     .accesskey = t
 permissions-notification-link = قلوه دووسته بۊین
+permissions-autoplay = پشک خوتکار
 permissions-autoplay-settings =
     .label = سامووا…
     .accesskey = t
 permissions-block-popups =
     .label = مسدۊد کردن نیمدری یل گۊشیڌنی
     .accesskey = B
+permissions-camera2 =
+    .label = شؽواتگر
+permissions-microphone2 =
+    .label = میکروفووݩ
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = بولندگۊ
 permissions-notification2 =
     .label = وارسۊویا
 
 ## Privacy Section - Data Collection
 
 preferences-view-profiles = نیشتن پوی پوروفایلا
+collection-privacy-notice = نوکات زفت مهرموویی
 collection-health-report-telemetry-disabled-link = قلوه دووسته بۊین
 collection-health-report-link = قلوه دووسته بۊین
 addon-recommendations-link = قلوه دووسته بۊین
@@ -390,4 +419,34 @@ space-alert-over-5gb-settings-button =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = هالت تینا-Https
 httpsonly-learn-more = قلوه دووسته بۊین
+
+## DoH Section
+
+preferences-doh-header = دی ان اس ری HTTPS
+dns-over-https-group =
+    .label = دی ان اس ری HTTPS
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = وزعیت: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = جۊر کوݩ: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = نشۊوی اینترنتی زبال نؽ
+preferences-doh-status-active = فعال
+preferences-doh-expand-section =
+    .tooltiptext = دووسمندیا قلوه
+preferences-doh-strict-detailed-desc-1 = تینا و کار گرؽڌن جۊر کوݩ پسند بیڌه
+preferences-doh-strict-detailed-desc-2 = ٱر DNS ٱمن من دسرس نبی، هی اختار بڌه
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = دانلودا
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
