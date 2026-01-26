@@ -1751,7 +1751,7 @@ history-clear-button =
     .label = Vymazat historii…
     .accesskey = V
 history-group =
-    .label = Historie prohlížení
+    .label = Historie
 
 ## Privacy Section - Site Data
 

@@ -36,6 +36,11 @@ delete-profile-bookmarks = نشووکا
 # Button label
 delete-profile-cancel = لقو
 
+## Data collection settings changed (multi-profile)
+
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = رڌ کردن
+
 ## Alternative text for default profile icons
 
 book-avatar-alt =
@@ -44,3 +49,5 @@ book-avatar-alt =
 ## Tooltips for default avatar icons
 
 book-avatar = کتاو
+custom-avatar-crop-back-button =
+    .aria-label = وورگشتن
