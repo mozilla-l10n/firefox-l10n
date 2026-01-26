@@ -375,7 +375,7 @@ tab-context-open-in-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = 분할 보기 분리
+    .label = 분할 화면 종료
     .accesskey = t
 tab-context-badge-new = 신규
 # Split view tabs display their respective contents side by side
@@ -383,19 +383,19 @@ tab-context-badge-new = 신규
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
 # Variables:
 #   $label (String): the text label of the tab visible in the tab strip
-tabbrowser-tab-label-tab-split-view-left = { $label }, 분할 보기 왼쪽
+tabbrowser-tab-label-tab-split-view-left = { $label }, 분할 화면 왼쪽
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the right tab inside of a tab split view
 # "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
 # Variables:
 #   $label (String): the text label of the tab visible in the tab strip
-tabbrowser-tab-label-tab-split-view-right = { $label }, 분할 보기 오른쪽
+tabbrowser-tab-label-tab-split-view-right = { $label }, 분할 화면 오른쪽
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
-    .label = 탭 분할
+    .label = 탭 분리
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = 탭 역순
