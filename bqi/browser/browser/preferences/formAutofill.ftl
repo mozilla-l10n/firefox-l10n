@@ -26,6 +26,9 @@ address-capture-edit-address-button =
 autofill-add-address-title = ٱووردن نشۊوی
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = آلشت نشۊوی
+autofill-address-given-name = نوم
+autofill-address-additional-name = نوم منجایی
+autofill-address-family-name = فامیل
 autofill-address-name = نوم
 autofill-address-organization = سازمووݩ
 autofill-address-street-address = نشۊوی خیابۉݩ
@@ -39,6 +42,7 @@ autofill-address-street = نشۊوی خیابۉݩ
 autofill-address-neighborhood = مهله
 # Used in Malaysia (MY) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-village-township = بونه یا شئرک
+autofill-address-island = جزیره
 # Used in Ireland (IE) as sublocality (civil entity below a locality, e.g. within a city).
 autofill-address-townland = تاونلند
 
@@ -85,6 +89,8 @@ autofill-address-oblast = اوستان
 # Postal code field used in India (IN).
 autofill-address-pin = دیسنیڌن
 autofill-address-postal-code = کود پوستی
+# Postal code field.
+autofill-address-zip = کود پوستی
 # Postal code field used in Ireland (IE).
 autofill-address-eircode = Eircode
 
@@ -92,6 +98,7 @@ autofill-address-eircode = Eircode
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = ٱووردن نشۊوی نۊ
+autofill-address-country = کشور یا وولات
 autofill-address-country-only = کشور
 autofill-address-tel = تیلیفووݩ
 autofill-address-email = ایمیل
@@ -105,3 +112,17 @@ autofill-add-card-title = ٱووردن کارت
 autofill-edit-card-title2 = آلشت کارت
 autofill-card-number = شوماره کارت
 autofill-card-name-on-card = نوم ری کارت
+autofill-card-billing-address = نشۊوی قبز
+autofill-card-network = نوع کارت
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = ویزا

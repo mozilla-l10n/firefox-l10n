@@ -5,6 +5,8 @@
 webpage-languages-window2 =
     .title = سامووا زووݩ بلگه وبگه
     .style = min-width: 40em
+languages-close-key =
+    .key = w
 languages-customize-select-language =
     .placeholder = زووی ن سی ٱووردن پسند کۊنین…
 languages-active-code-format =
