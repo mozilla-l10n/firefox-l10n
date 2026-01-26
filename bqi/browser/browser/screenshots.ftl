@@ -9,6 +9,7 @@ screenshots-copy-button-title =
     .title = لف گیری شؽوات بلگه من کلیپ بورد
 screenshots-cancel-button-title =
     .title = لقو
+screenshots-notification-image-copied-title = شؽوات لف گیری وابی
 screenshots-component-cancel-button =
     .title =
         { PLATFORM() ->
@@ -31,3 +32,18 @@ screenshots-component-download-button-2 = دانلود
 screenshot-toolbar-button =
     .label = شؽوات ز بلگه
     .tooltiptext = گرؽڌن ی شؽوات ز بلگه ({ $shortcut })
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
+
+##
+
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }

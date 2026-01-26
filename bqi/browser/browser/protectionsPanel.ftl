@@ -12,17 +12,35 @@
 protections-panel-blocking-label = مسدۊد وابیڌه
 protections-panel-not-blocking-label = هشته
 
+## In the Site Not Working? view, we suggest turning off protections if
+## the user is experiencing issues with any of a variety of functionality.
+
+protections-panel-site-not-working-view-issue-list-videos = فیلما
+
 ##
 
 protections-panel-description-shim-allowed-learn-more = قلوه دووسته بۊین
+protections-panel-content-blocking-breakage-report-view-collection-url = نشۊوی اینترنتی
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = نشۊوی اینترنتی
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = لقو
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-blocker-header = مسدۊد کوݩ بنر کۊکی
+protections-panel-cookie-banner-handling-enabled = رۊشن سی ای وبگه
+protections-panel-cookie-banner-handling-disabled = کۊر سی ای وبگه
+protections-panel-cookie-banner-blocker-view-title =
+    .title = مسدۊد کوݩ بنر کۊکی
 protections-panel-cookie-banner-view-cancel = لقو
+protections-panel-cookie-banner-view-turn-on = رۊشن کردن
 protections-panel-cookie-banner-view-cancel-label =
     .label = لقو
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = کۊر کردن
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = رۊشن کردن
 
 ## Protections panel info message
 
