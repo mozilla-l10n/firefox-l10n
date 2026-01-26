@@ -5,8 +5,13 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
+more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-learn-more-link = قلوه دووسته بۊین
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }

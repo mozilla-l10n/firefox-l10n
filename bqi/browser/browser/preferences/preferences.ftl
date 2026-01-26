@@ -30,6 +30,8 @@ category-privacy =
 pane-sync-title3 = هوم گوم کردن
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -51,6 +53,8 @@ preferences-profiles-header = پوروفایلا
 preferences-manage-profiles-learn-more = قلوه دووسته بۊین
 preferences-manage-profiles-button =
     .label = دؽوۉداری پوروفایلا
+preferences-profiles-settings-button =
+    .label = سامووا
 preferences-copy-profile-button = لف گیری
 tabs-group-header2 =
     .label = بلگه یل
@@ -82,6 +86,7 @@ preferences-zoom-header = گپ نمایی
 preferences-default-zoom-value =
     .label = { $percentage }٪
 language-header = زووݩ
+fx-translate-web-pages = { -translations-brand-name }
 
 ## General Section - Files and Applications
 

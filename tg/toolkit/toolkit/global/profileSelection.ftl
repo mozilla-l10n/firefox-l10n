@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Бе дархост истифода кардани профили интихобшуда дар оғози кор
     .accesskey = Б
+profile-has-selectable-profiles-title = Профиле, ки ба профилҳои дигар пайваст шудааст, нест карда намешавад

@@ -27,6 +27,7 @@ profiles-rootdir = Ҷузвдони реша
 profiles-localdir = Ҷузвдони маҳаллӣ
 profiles-current-profile = Ин профил дар ҳоли истифода мебошад ва нест карда намешавад.
 profiles-in-use-profile = Ин профил дар ҳоли истифода бо барномаи дигар мебошад ва нест карда намешавад.
+profiles-cannot-delete-profile = Профиле, ки ба профилҳои дигар пайваст шудааст, нест карда намешавад.
 profiles-rename = Иваз кардани ном
 profiles-remove = Тоза кардан
 profiles-set-as-default = Гузоштан ҳамчун профили пешфарз

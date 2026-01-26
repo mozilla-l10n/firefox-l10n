@@ -131,6 +131,7 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Барномаҳои муфиди «Windows»
 about-processes-utility-actor-windows-file-dialog = Равзанаи гуфтугӯи файл дар низоми «Windows»
+about-processes-utility-actor-pkcs11-module = Ёридиҳандаи модули амният
 
 ## Displaying CPU (percentage and total)
 ## Variables:
