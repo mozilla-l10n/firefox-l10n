@@ -10,3 +10,7 @@
 default-bookmarks-title = نشووکا
 default-bookmarks-heading = نشووکا
 default-bookmarks-toolbarfolder = دوبلگه نوار ٱوزار نشووکا
+# Firefox links folder name
+default-bookmarks-firefox-heading = Mozilla Firefox
+# link title for https://www.mozilla.org/firefox/help/
+default-bookmarks-firefox-get-help = گرؽڌن هیاری

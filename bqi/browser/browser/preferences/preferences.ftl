@@ -261,9 +261,13 @@ sync-engine-settings =
 
 ## The device name controls.
 
+sync-device-name-header-2 =
+    .label = نوم دسگا
 sync-device-name-cancel =
     .label = لقو
     .accesskey = n
+sync-connect-another-device-2 =
+    .label = منپیز ی دسگا دیر
 
 ## Privacy Section - Passwords
 
@@ -282,10 +286,13 @@ pane-privacy-autofill-header = پور کردن خوتکار
 autofill-payment-methods-title = بارتا پرداخت
 autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
+payments-list-header =
+    .label = بارتا پرداخت
 payments-delete-payment-button-label =
     .aria-label = پاک کردن
 payments-edit-payment-button-label =
     .aria-label = آلشت
+payments-remove-payment-prompt-confirm-button = پاک کردن
 payments-remove-payment-prompt-cancel-button = لقو
 addreses-delete-address-button-label =
     .aria-label = پاک کردن
@@ -301,6 +308,16 @@ addresses-delete-address-prompt-cancel-button = لقو
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
+payments-group =
+    .label = بارتا پرداخت
 
 ## Privacy Section - History
 
@@ -308,6 +325,8 @@ history-header = ویرگار
 history-clear-on-close-settings =
     .label = سامووا…
     .accesskey = t
+history-group =
+    .label = ویرگار
 
 ## Privacy Section - Site Data
 
@@ -337,7 +356,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-shortcuts-option =
     .label = ر نهنگا
     .accesskey = S
+addressbar-locbar-suggest-sponsored-option =
+    .label = پؽشنهاڌا ز هؽزگرووݩ
 addressbar-quickactions-learn-more = قلوه دووسته بۊین
+addressbar-restore-dismissed-suggestions-button =
+    .label = وورگندن
 
 ## Privacy Section - Content Blocking
 
@@ -363,6 +386,8 @@ content-blocking-option-private =
 content-blocking-cookies-label =
     .label = کۊکیا
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = دووسمندیا قلوه
 
 ## Privacy Section - Permissions
 
@@ -390,6 +415,8 @@ permissions-notification-settings =
     .label = سامووا…
     .accesskey = t
 permissions-notification-link = قلوه دووسته بۊین
+permissions-autoplay2 =
+    .label = پشک خوتکار
 permissions-autoplay = پشک خوتکار
 permissions-autoplay-settings =
     .label = سامووا…
@@ -397,6 +424,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = مسدۊد کردن نیمدری یل گۊشیڌنی
     .accesskey = B
+permissions-location2 =
+    .label = جاگه
+permissions-localhost2 =
+    .label = برنومه یل وو سرویسا دسگا
+permissions-local-network2 =
+    .label = دسگایل شبکه مهلی
 permissions-camera2 =
     .label = شؽواتگر
 permissions-microphone2 =
@@ -432,6 +465,8 @@ space-alert-over-5gb-settings-button =
 
 httpsonly-header = هالت تینا-Https
 httpsonly-learn-more = قلوه دووسته بۊین
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 

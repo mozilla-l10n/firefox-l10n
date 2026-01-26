@@ -11,8 +11,14 @@ edit-profile-page-desktop-shortcut-header = وورکل ر نهنگ دسکتاپ
 edit-profile-page-desktop-shortcut-toggle =
     .aria-label = وورکل ر نهنگ دسکتاپ
 edit-profile-page-avatar-selector-opener-link = آلشت
+avatar-selector-icon-tab = آیکون
+avatar-selector-custom-tab = سفارشی
 avatar-selector-cancel-button =
     .label = لقو
+avatar-selector-save-button =
+    .label = زفت
+edit-profile-page-profile-saved = زفت وابی
+new-profile-page-title = پوروفایل نۊ
 new-profile-page-learn-more = قلوه دووسته بۊین
 new-profile-page-done-button =
     .label = آلشتکاریا ٱنجوم وابی
@@ -21,6 +27,8 @@ new-profile-page-done-button =
 
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = گۊشیڌن نیمدری یل
+# Open is an adjective, as in "browser tabs currently open".
+delete-profile-tabs = بلگه یل واز
 delete-profile-bookmarks = نشووکا
 
 ##
