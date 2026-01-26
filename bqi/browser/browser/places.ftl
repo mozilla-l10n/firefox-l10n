@@ -33,6 +33,12 @@ places-edit-generic =
 places-edit-folder2 =
     .label = آلشت دوبلگه…
     .accesskey = E
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
+managed-bookmarks =
+    .label = نشووکا دؽوۉداری وابیڌه
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = نشووکا دیری
 places-library3 =
     .title = کتاو هووه
 places-cmd-close =

@@ -126,9 +126,26 @@ applications-use-os-default-label =
 
 play-drm-content-learn-more = قلوه دووسته بۊین
 
+## Firefox support
+
+support-get-help =
+    .label = گرؽڌن هیاری
+
+## General Section - Performance
+
+performance-title = عملکرد
+performance-settings-learn-more = قلوه دووسته بۊین
+
+## General Section - Browsing
+
+browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
+browsing-media-control-learn-more = قلوه دووسته بۊین
+browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
+
 ## General Section - Proxy
 
 network-settings-title = سامووا شبکه
+network-proxy-connection-learn-more = قلوه دووسته بۊین
 network-proxy-connection-settings =
     .label = سامووا…
     .accesskey = e
@@ -171,6 +188,15 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 
+##
+
+home-prefs-recommended-by-learn-more = یو چتاور کار اکونه
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = وزعیتا هؽزگرووݩ
+home-prefs-highlights-options-bookmarks =
+    .label = نشووکا
+home-prefs-weather-learn-more-link = قلوه دووسته بۊین
+
 ## Search Section
 
 search-one-click-header2 = پیتینیڌن ر نهنگا
@@ -202,6 +228,13 @@ sync-device-name-cancel =
     .label = لقو
     .accesskey = n
 
+## Privacy Section - Passwords
+
+forms-breach-alerts-learn-more-link = قلوه دووسته بۊین
+relay-integration-learn-more-link = قلوه دووسته بۊین
+forms-primary-pw-learn-more-link = قلوه دووسته بۊین
+forms-windows-sso-learn-more-link = قلوه دووسته بۊین
+
 ## Privacy section - Autofill
 
 payments-remove-payment-prompt-cancel-button = لقو
@@ -214,11 +247,19 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = قلوه دووسته بۊین
 sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
 
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-learn-more = قلوه دووسته بۊین
+
 ## Search Section
 
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = قلوه دووسته بۊین
 addressbar-locbar-bookmarks-option =
     .label = نشووکا
     .accesskey = k
@@ -226,6 +267,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-shortcuts-option =
     .label = ر نهنگا
     .accesskey = S
+addressbar-quickactions-learn-more = قلوه دووسته بۊین
+
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = قلوه دووسته بۊین
 
 ##
 
