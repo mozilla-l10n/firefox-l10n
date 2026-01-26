@@ -20,3 +20,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = تینا من بلگه نۊ نشووݩ داڌه وابۊ
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = نشووݩ داڌن نشووکا دیری
+    .accesskey = h

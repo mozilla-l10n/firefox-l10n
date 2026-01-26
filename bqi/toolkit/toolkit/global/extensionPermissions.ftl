@@ -7,6 +7,7 @@
 ## Permissions for which the message has been changed and the key updated
 ## must have a corresponding entry in the `PERMISSION_L10N_ID_OVERRIDES` map.
 
+webext-perms-description-bookmarks = خوندن وو سامووݩ نشووکا
 webext-perms-description-management = نزارت ری و کار گرؽڌن وردنی یل وو دؽوۉداری زمینه یل
 webext-perms-description-notifications = نشووݩ داڌن وارسۊویا ری بلگه سی ایسا
 

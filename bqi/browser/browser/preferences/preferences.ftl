@@ -177,10 +177,19 @@ home-homepage-title =
 home-custom-homepage-header = سفارشی کردن بلگه هووه
 home-custom-homepage-subpage =
     .heading = سفارشی کردن بلگه هووه
+home-custom-homepage-address =
+    .placeholder = زیذن نشۊوی
+home-custom-homepage-address-button =
+    .label = ٱووردن نشۊوی
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = نشووکا…
 
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
+home-prefs-search-header2 =
+    .label = پیتینیڌن
 home-prefs-shortcuts-header =
     .label = ر نهنگا
 home-prefs-shortcuts-by-option-sponsored =
@@ -195,10 +204,15 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = وزعیتا هؽزگرووݩ
 home-prefs-highlights-options-bookmarks =
     .label = نشووکا
+home-prefs-recent-activity-header =
+    .label = فعالیتا دیندایی
+home-prefs-weather-header =
+    .label = ٱو وو هوا
 home-prefs-weather-learn-more-link = قلوه دووسته بۊین
 
 ## Search Section
 
+search-bar-header = نوار پیتینیڌن
 search-one-click-header2 = پیتینیڌن ر نهنگا
 search-edit-engine =
     .label = آلشت
@@ -211,12 +225,32 @@ containers-back-button2 =
 containers-settings-button =
     .label = سامووا
 
+## Account and sync
+
+sync-group-label =
+    .label = هوم گوم کردن
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-off = هوم گوم کردن: کۊر
+
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = نشووکا
 sync-currently-syncing-settings = سامووا
 
 ## The "Choose what to sync" dialog.
 
+sync-engine-bookmarks =
+    .label = نشووکا
+    .accesskey = m
 sync-engine-settings =
     .label = سامووا
     .tooltiptext = سامووا پوی وولاتی، هریم سیخومی، وو ٱمنیتی ک آلشتکاری کردین
@@ -235,12 +269,18 @@ relay-integration-learn-more-link = قلوه دووسته بۊین
 forms-primary-pw-learn-more-link = قلوه دووسته بۊین
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
 
+## OS Authentication dialog
+
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = پور کردن خوتکار
 payments-remove-payment-prompt-cancel-button = لقو
 
 ## Privacy Section - History
 
+history-header = ویرگار
 history-clear-on-close-settings =
     .label = سامووا…
     .accesskey = t
@@ -278,6 +318,7 @@ content-blocking-learn-more = قلوه دووسته بۊین
 content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منجا وبگهی
 content-blocking-all-cookies = پوی کۊکیا
 content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌه
+content-blocking-cryptominers = ودر کونا رزم ٱرزا
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -294,15 +335,19 @@ content-blocking-cookies-label =
 
 ## Privacy Section - Permissions
 
+permissions-header = موجوزا
+permissions-location = جاگه
 permissions-location-settings =
     .label = سامووا…
     .accesskey = t
 permissions-xr-settings =
     .label = سامووا…
     .accesskey = t
+permissions-camera = شؽواتگر
 permissions-camera-settings =
     .label = سامووا…
     .accesskey = t
+permissions-microphone = میکروفووݩ
 permissions-microphone-settings =
     .label = سامووا…
     .accesskey = t
