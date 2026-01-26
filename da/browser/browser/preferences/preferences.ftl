@@ -1471,6 +1471,8 @@ payments-delete-payment-prompt-confirm-button = Slet
 payments-delete-payment-prompt-cancel-button = Annuller
 payments-delete-payment-button-label =
     .aria-label = Slet
+payments-edit-payment-button-label =
+    .aria-label = Rediger
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmetoder tilføjet
@@ -2009,6 +2011,8 @@ collection-studies-description = Prøv nye funktioner og idéer, før de bliver 
 collection-studies =
     .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
 collection-studies-link = Vis { -brand-short-name }-undersøgelser
+nimbus-rollouts-enabled =
+    .label = Tillad, at { -brand-short-name } forbedrer funktioner, ydeevne og stabilitet mellem opdateringer
 addon-recommendations2 =
     .label = Tillad tilpassede anbefalinger af udvidelser
 addon-recommendations-description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.
@@ -2113,6 +2117,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Tilstanden Kun-HTTPS
     .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2180,3 +2186,21 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
 choose-download-folder-title = Gem filer i
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Med { -brand-short-name } er valget altid dit - også om du vil bruge funktioner baseret på AI. Flere indstillinger kommer snart.
+preferences-ai-controls-block-ai-label = Bloker AI-forbedringer
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-blocked-message =
+    .message = Nye og nuværende AI-forbedringer er som standard blokeret. For at fjerne blokeringen af en specifik funktion kan du bruge indstillingerne nedenfor.
+preferences-ai-controls-on-device-group =
+    .label = AI på din enhed
+    .description = Disse funktioner bruger små AI-modeller, der hentes til din enhed, hvis du bruger dem. Denne fremgangsmåde beskytter dit privatliv.
+preferences-ai-controls-translations-control =
+    .label = Oversættelser
+    .description = Brug nettet på det sprog, du foretrækker.
+preferences-ai-controls-translations-more-link = Flere indstillinger for oversættelse
