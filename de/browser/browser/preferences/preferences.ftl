@@ -2213,7 +2213,7 @@ preferences-ai-controls-key-points-control =
     .description = Sehen Sie eine Zusammenfassung, bevor Sie einen Link öffnen.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = KI-Chatbot-Anbieter in der Sidebar
-    .description = Behalten Sie einen Chatbot in Reichweite, während Sie surfen. Wählen Sie zwischen Anthropic Claude, ChatGPT, Copilot, Google Gemini, und Le Chat Mistral.
+    .description = Behalten Sie einen Chatbot in Reichweite, während Sie surfen. Wählen Sie zwischen Anthropic Claude, ChatGPT, Copilot, Google Gemini und Le Chat Mistral.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot in der Sidebar
 # This option means that a user will see the feature and can use it.
@@ -2227,7 +2227,6 @@ preferences-ai-controls-state-blocked =
     .label = Blockiert
 preferences-ai-controls-state-description-before = Bedeutung der Optionen:
 preferences-ai-controls-state-description-available = <strong>Verfügbar:</strong> Sie sehen die Funktion und können sie verwenden.
-preferences-ai-controls-state-description-enabled = <strong>Aktiviert:</strong> Sie haben die Verwendung der Funktion zugestimmt.
 preferences-ai-controls-state-description-blocked = <strong>Blockiert:</strong> Sie werden die Funktion nicht sehen und können sie nicht verwenden. Für die geräteinterne KI werden alle bereits heruntergeladenen Modelle entfernt.
 preferences-ai-controls-block-confirmation-heading = KI-Verbesserungen blockieren?
 preferences-ai-controls-block-confirmation-description = Sie werden keine neuen oder aktuellen KI-Verbesserungen in { -brand-short-name } sehen, oder Pop-ups darüber. Danach können Sie alles entsperren, was Sie weiter verwenden möchten.

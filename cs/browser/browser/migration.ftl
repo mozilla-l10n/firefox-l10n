@@ -162,22 +162,22 @@ browser-data-formdata-label =
 browser-data-passwords-checkbox =
     .label =
         { $browser ->
-            [firefox] Uložené přihlašovací údaje a hesla
+            [firefox] Uložená uživatelská jména a hesla
             [chrome] Uložená hesla
             [edge] Uložená hesla
             [safari] Hesla
-           *[other] Uložené přihlašovací údaje a hesla
+           *[other] Uložená uživatelská jména a hesla
         }
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value =
         { $browser ->
-            [firefox] Uložené přihlašovací údaje a hesla
+            [firefox] Uložená uživatelská jména a hesla
             [chrome] Uložená hesla
             [edge] Uložená hesla
             [safari] Hesla
-           *[other] Uložené přihlašovací údaje a hesla
+           *[other] Uložená uživatelská jména a hesla
         }
 browser-data-bookmarks-checkbox =
     .label =

@@ -232,7 +232,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = zkopírovat uložené
 about-logins-export-password-os-auth-dialog-message-win = Pro export přihlašovacích údajů prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportovat uložené přihlašovací údaje a hesla
+about-logins-export-password-os-auth-dialog-message-macosx = exportovat uložená uživatelská jména a hesla
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Chcete-li exportovat hesla, zadejte přihlašovací údaje do systému Windows. To pomáhá chránit bezpečnost vašich účtů.
 # This message can be seen when attempting to export a password in about:logins
