@@ -31,3 +31,14 @@ remove-search-engine-button = خا
 ## $newEngine (String) - the name of the new default search engine.
 
 reset-search-settings-button = خا
+
+## Infobar shown when user is prompted to install search engine.
+## Variables
+## $engineName (String) - the name of the search engine to install.
+
+install-search-engine-add = ٱووردن
+install-search-engine-no = ن
+
+## The following strings are used as input labels.
+
+add-engine-name = نوم موتور پیتینیڌن
