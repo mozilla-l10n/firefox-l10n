@@ -236,6 +236,9 @@ sync-group-label =
 
 sync-account-signed-in =
     .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ## Sync section - enabling or disabling sync.
 
@@ -276,6 +279,9 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = پور کردن خوتکار
+autofill-payment-methods-title = بارتا پرداخت
+autofill-payment-methods-header =
+    .aria-label = بارتا پرداخت
 payments-delete-payment-button-label =
     .aria-label = پاک کردن
 payments-edit-payment-button-label =
@@ -308,10 +314,14 @@ history-clear-on-close-settings =
 sitedata-learn-more = قلوه دووسته بۊین
 sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
+sitedata-option-block-all =
+    .label = پوی کۊکیا (وبگه یل ن خراو اکونه)
 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = قلوه دووسته بۊین
+forms-handle-cookie-banners =
+    .label = کم کردن بنرا کۊکی
 
 ## Search Section
 
@@ -331,6 +341,7 @@ addressbar-quickactions-learn-more = قلوه دووسته بۊین
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
 content-blocking-learn-more = قلوه دووسته بۊین
 
 ##
