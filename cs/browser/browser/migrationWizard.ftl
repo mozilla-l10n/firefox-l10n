@@ -71,7 +71,7 @@ migration-no-permissions-instructions-step2 = V nástroji pro výběr souborů p
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Importovat všechna dostupná data
-migration-no-selected-data-label = Pro import nejsou vybrána žádná data
+migration-no-selected-data-label = K importu nejsou vybrána žádná data
 migration-selected-data-label = Importovat vybraná data
 
 ##
