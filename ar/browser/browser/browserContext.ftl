@@ -161,7 +161,7 @@ main-context-menu-copy-link-simple =
     .label = انسخ الرابط
     .accesskey = ن
 main-context-menu-preview-link =
-    .label = رابط المعاينة
+    .label = عاين الرابط
     .accesskey = ط
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items

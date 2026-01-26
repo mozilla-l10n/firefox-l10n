@@ -90,6 +90,10 @@ perplexity-callout-primary-label = اسأل Perplexity
 perplexity-callout-secondary-label-1 = أهمِل
 perplexity-callout-secondary-label-2 = فهمت
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = جديد: انقر مع الاستمرار لمعاينة الروابط
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي

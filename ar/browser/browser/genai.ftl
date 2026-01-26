@@ -48,3 +48,15 @@ genai-model-optin-optout =
     .label = ألغِ
 genai-model-optin-cancel =
     .label = ألغِ
+
+## Link previews
+
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } لا يمكن معاينة هذا الرابط
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message = لا يمكننا معاينة هذا الرابط
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = إعدادات معاينة الرابط
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = جديد: انقر مع الاستمرار على أي رابط لمعاينة المحتوى
