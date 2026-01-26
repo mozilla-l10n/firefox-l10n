@@ -2,6 +2,41 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-contextual-password-manager =
+    .label = رزما
+sidebar-options-menu-button =
+    .title = گۊشیڌن نومگه
+
+## Labels for sidebar history panel
+
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+sidebar-history-date-today =
+    .heading = ٱمرۊز - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-yesterday =
+    .heading = دۊش - { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-this-month =
+    .heading = { DATETIME($date, dateStyle: "full") }
+sidebar-history-date-prev-month =
+    .heading = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+sidebar-history-site-localhost =
+    .heading = (فایلا مهلی)
+sidebar-history-delete =
+    .title = پاک کردن ز ویرگار
+sidebar-history-sort-by-heading = ترتیب و ری:
+sidebar-history-sort-option-site =
+    .label = وبگه
+
+## Labels for sidebar search
+
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+sidebar-search-results-header =
+    .heading = نتیجه یل پیتینیڌن سی «{ $query }»
 
 ## Labels for sidebar customize panel
 
@@ -33,6 +68,8 @@ sidebar-context-menu-copy-link =
 
 sidebar-menu-bookmarks-label =
     .label = نشووکا
+sidebar-menu-more-tools-label =
+    .label = ٱوزارا قلوه
 
 ## Tooltips for sidebar menu items.
 
@@ -62,3 +99,13 @@ sidebar-menu-open-ai-chatbot-tooltip-generic = گۊشیڌن چت بات هۊش �
 sidebar-menu-open-ai-chatbot-provider-tooltip = گۊشیڌن { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = بستن چت بات هۊش مسنۊعی ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = بستن { $provider } ({ $shortcut })
+
+## Headings for sidebar menu panels.
+
+sidebar-menu-cpm-header =
+    .heading = رزما
+
+## Titles for sidebar menu panels.
+
+sidebar-history-title = ویرگار
+sidebar-syncedtabs-title = بلگه یل ز دسگا یل دیری

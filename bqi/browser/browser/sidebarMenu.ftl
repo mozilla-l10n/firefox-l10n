@@ -5,3 +5,7 @@
 sidebar-menu-bookmarks =
     .label = نشووکا
 sidebar-menu-bookmarks-2 = نشووکا
+sidebar-menu-history =
+    .label = ویرگار
+sidebar-menu-synced-tabs =
+    .label = بلگه یل هوم گوم وابیڌه
