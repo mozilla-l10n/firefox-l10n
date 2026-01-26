@@ -2227,6 +2227,7 @@ preferences-ai-controls-state-blocked =
     .label = Blockiert
 preferences-ai-controls-state-description-before = Bedeutung der Optionen:
 preferences-ai-controls-state-description-available = <strong>Verfügbar:</strong> Sie sehen die Funktion und können sie verwenden.
+preferences-ai-controls-state-description-enabled = <strong>Aktiviert:</strong> Sie haben der Verwendung der Funktion zugestimmt.
 preferences-ai-controls-state-description-blocked = <strong>Blockiert:</strong> Sie werden die Funktion nicht sehen und können sie nicht verwenden. Für die geräteinterne KI werden alle bereits heruntergeladenen Modelle entfernt.
 preferences-ai-controls-block-confirmation-heading = KI-Verbesserungen blockieren?
 preferences-ai-controls-block-confirmation-description = Sie werden keine neuen oder aktuellen KI-Verbesserungen in { -brand-short-name } sehen, oder Pop-ups darüber. Danach können Sie alles entsperren, was Sie weiter verwenden möchten.

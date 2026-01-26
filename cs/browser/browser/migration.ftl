@@ -142,20 +142,20 @@ browser-data-history-label =
 browser-data-formdata-checkbox =
     .label =
         { $browser ->
-            [firefox] Uložené formuláře
-            [chrome] Uložené formuláře
+            [firefox] Uložená historie formulářů
+            [chrome] Uložená historie formulářů
             [edge] Vyplňování formulářů
             [safari] Vyplňování formulářů
-           *[other] Uložené formuláře
+           *[other] Uložená historie formulářů
         }
 browser-data-formdata-label =
     .value =
         { $browser ->
-            [firefox] Uložené formuláře
-            [chrome] Uložené formuláře
+            [firefox] Uložená historie formulářů
+            [chrome] Uložená historie formulářů
             [edge] Vyplňování formulářů
             [safari] Vyplňování formulářů
-           *[other] Uložené formuláře
+           *[other] Uložená historie formulářů
         }
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.

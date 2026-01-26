@@ -53,7 +53,7 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Добавить поисковую систему
 newtab-topsites-add-shortcut-header = Новый ярлык
-newtab-topsites-edit-topsites-header = Изменить сайт из топа
+newtab-topsites-edit-topsites-header = Изменить сайт из любимых
 newtab-topsites-edit-shortcut-header = Изменить ярлык
 newtab-topsites-add-shortcut-label = Добавить ярлык
 newtab-topsites-add-shortcut-title =
@@ -213,7 +213,7 @@ newtab-section-menu-collapse-section = Свернуть раздел
 newtab-section-menu-expand-section = Развернуть раздел
 newtab-section-menu-manage-section = Управление разделом
 newtab-section-menu-manage-webext = Управление расширением
-newtab-section-menu-add-topsite = Добавить в топ сайтов
+newtab-section-menu-add-topsite = Добавить в любимые сайты
 newtab-section-menu-add-search-engine = Добавить поисковую систему
 newtab-section-menu-move-up = Вверх
 newtab-section-menu-move-down = Вниз
@@ -228,7 +228,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Топ сайтов
+newtab-section-header-topsites = Любимые сайты
 newtab-section-header-recent-activity = Последние действия
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
