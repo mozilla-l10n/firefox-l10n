@@ -4,6 +4,19 @@
 
 tabbrowser-empty-tab-title = بلگه نۊ
 tabbrowser-empty-private-tab-title = بلگه سیخومی نۊ
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -26,6 +39,11 @@ tabbrowser-unmute-tab-audio-tooltip =
            *[other] وا دونگ کردن { $tabCount } بلگه ({ $shortcut })
         }
 
+## Confirmation dialog when closing a window with more than one tab open,
+## or when quitting when only one window is open.
+
+tabbrowser-confirm-close-tabs-button = بستن بلگه یل
+
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
 tabbrowser-confirm-close-windows-button =
@@ -34,8 +52,25 @@ tabbrowser-confirm-close-windows-button =
        *[other] بستن وو و در زیڌن
     }
 
+## Confirmation dialog when opening multiple tabs simultaneously
+
+tabbrowser-confirm-open-multiple-tabs-button = گۊشیڌن بلگه یل
+
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = بستن بلگه یل
+
+## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+tabbrowser-manager-close-tab =
+    .tooltiptext = بستن بلگه
+
 ##
 
+tab-group-editor-name-label = نوم
 tab-group-editor-cancel =
     .label = لقو
     .accesskey = C
