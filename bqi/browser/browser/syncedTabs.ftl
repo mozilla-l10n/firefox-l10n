@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-title = بلگه یل هوم گوم وابیڌه
 synced-tabs-sidebar-open-settings = گۊشیڌن سامووا هوم گوم کردن
+synced-tabs-sidebar-connect-another-device = منپیز و دسگا دیر
+synced-tabs-sidebar-search =
+    .placeholder = پیتینیڌن من بلگه یل هوم گوم وابیڌه
 
 ## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
 ## and/or devices in the list. The "Open" strings below should be translated
@@ -33,3 +37,5 @@ synced-tabs-context-bookmark =
 synced-tabs-context-copy =
     .label = لف گیری
     .accesskey = C
+synced-tabs-fxa-sign-in = سی هوم گوم کردن و من بیاین
+synced-tabs-turn-on-sync = رۊشن کردن هوم گوم کردن
