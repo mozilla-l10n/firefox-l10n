@@ -36,10 +36,18 @@ media-tab =
     .accesskey = M
 media-location =
     .value = جاگه:
+media-alt-header =
+    .label = هؽل جایونی
+media-address =
+    .label = نشۊوی
 media-type =
     .label = نوع
 media-size =
     .label = هندا
+security-view-identity-verifier =
+    .value = تاییڌ وابیڌه و دست:
+security-view-technical =
+    .value = جۊزعیات فنی
 help-button =
     .label = هیاری
 
@@ -59,6 +67,12 @@ media-audio = آرنگ
 saved-passwords-yes = هری
 saved-passwords-no = ن
 security-no-visits = ن
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = شؽوات { $type }
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
