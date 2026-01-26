@@ -2204,3 +2204,32 @@ preferences-ai-controls-translations-control =
     .label = Oversættelser
     .description = Brug nettet på det sprog, du foretrækker.
 preferences-ai-controls-translations-more-link = Flere indstillinger for oversættelse
+preferences-ai-controls-pdfjs-control =
+    .label = Alternativ tekst for billeder i { -brand-short-name }' PDF-viser
+    .description = Når du tilføjer billeder til PDF-filer, føjer denne funktion beskrivelser for at gøre billederne tilgængelige.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Forslag til fanebladsgrupper
+    .description = Få forslag til at navngive og organisere dine faneblade.
+preferences-ai-controls-key-points-control =
+    .label = Hovedpunkter i forhåndsvisning af links
+    .description = Se en hurtig sammenfatning, før du åbner et link.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = AI-chatbot-leverandører i sidepanelet
+    .description = Hav en chatbot i nærheden, når du bruger nettet. Vælg mellem Anthropic Claude, ChatGPT, Copilot, Google Gemini og Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot i sidepanel
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Tilgængelig
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Aktiveret
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokeret
+preferences-ai-controls-state-description-before = Hvad indstillingerne betyder:
+preferences-ai-controls-state-description-available = <strong>Tilgængelig:</strong> Du får vist funktionen og kan bruge den.
+preferences-ai-controls-state-description-enabled = <strong>Aktiveret:</strong> Du har givet samtykke til at funktionen anvendes.
+preferences-ai-controls-state-description-blocked = <strong>Blokeret:</strong> Du får ikke vist funktionen og kan ikke bruge den. For 'AI på din enhed' vil eventuelt hentede modeller blive fjernet.
+preferences-ai-controls-block-confirmation-heading = Bloker AI-forbedringer?
+preferences-ai-controls-block-confirmation-description = Du vil ikke se nye eller nuværende AI-forbedringer i { -brand-short-name } - eller pop op-vinduer om dem. Du kan fjerne blokeringen af de funktioner, du fortsat ønsker at bruge.
