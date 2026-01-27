@@ -7,7 +7,13 @@ fxviewtabrow-open-menu-button =
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
+# Used instead of the localized relative time when a timestamp is within a minute or so of now
+fxviewtabrow-just-now-timestamp = ឥឡូវនេះ
 
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-delete = លុប
+    .accesskey = { "" }
+fxviewtabrow-forget-about-this-site = បំភ្លេចអំពីតំបន់នេះ…
+    .accesskey = { "" }
