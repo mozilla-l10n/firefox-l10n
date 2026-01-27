@@ -276,8 +276,8 @@ urlbar-tabtosearch-onboard = Klepněte na tuto zkratku, abyste rychleji našli, 
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Záložky
-urlbar-search-mode-tabs = Otevřené panely
-urlbar-search-mode-history = Historie prohlížení
+urlbar-search-mode-tabs = Panely
+urlbar-search-mode-history = Historie
 urlbar-search-mode-actions = Akce
 
 ##
