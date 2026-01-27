@@ -15,7 +15,13 @@ protections-panel-not-blocking-label = هشته
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = فیلدا و من ٱووڌن
+protections-panel-site-not-working-view-issue-list-forms = فورما
+protections-panel-site-not-working-view-issue-list-payments = پرداختا مالی
 protections-panel-site-not-working-view-issue-list-videos = فیلما
+protections-panel-site-not-working-view-issue-list-fonts = قلما
+protections-panel-site-not-working-view-send-report = فشناڌن گوزارش
 
 ##
 

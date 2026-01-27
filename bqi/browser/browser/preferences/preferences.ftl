@@ -561,3 +561,14 @@ downloads-folder-name = دانلودا
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = فعال وابی
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = مسدۊد وابیڌه
+preferences-ai-controls-block-confirmation-translations = ولرنیڌنا
+preferences-ai-controls-block-confirmation-cancel =
+    .label = لقو
+preferences-ai-controls-block-confirmation-confirm =
+    .label = مسدۊد کردن

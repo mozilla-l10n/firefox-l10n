@@ -10,6 +10,8 @@
 default-bookmarks-title = نشووکا
 default-bookmarks-heading = نشووکا
 default-bookmarks-toolbarfolder = دوبلگه نوار ٱوزار نشووکا
+# link title for https://www.mozilla.org/firefox/central/
+default-bookmarks-getting-started = ناهاڌن پا کار
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/
