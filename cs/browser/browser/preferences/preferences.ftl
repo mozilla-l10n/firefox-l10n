@@ -1068,7 +1068,7 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Vyhledávací pole
+search-bar-header = Pole vyhledávání
 search-bar-hidden =
     .label = Použít adresní řádek pro navigaci i vyhledávání
 search-bar-shown =

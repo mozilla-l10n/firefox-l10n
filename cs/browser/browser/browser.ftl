@@ -1357,7 +1357,7 @@ navbar-library =
     .label = Knihovna stránek
     .tooltiptext = Zobrazí historii, uložené záložky, a mnoho dalšího
 navbar-search =
-    .title = Vyhledávací pole
+    .title = Pole vyhledávání
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
