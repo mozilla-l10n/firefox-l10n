@@ -406,12 +406,12 @@ tab-context-add-split-view =
     .accesskey = e
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
-    .label = Åpne i delt visning
+    .label = Opne i delt visning
     .accesskey = p
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Separat delt visning
-    .accesskey = p
+    .label = Del visninga
+    .accesskey = D
 tab-context-badge-new = Ny
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
