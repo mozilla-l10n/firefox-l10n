@@ -14,6 +14,7 @@ webext-perms-header = ٱووردن { $extension }؟
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-optional-settings = سامووا اختیاری:
 webext-perms-header-optional-required-perms = موجوزا نۊ:
 
 ##
@@ -24,3 +25,9 @@ webext-perms-cancel =
 webext-perms-sideload-cancel =
     .label = لقو
     .accesskey = C
+
+## Strings for data collection permissions in the permission prompt.
+
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } درخاست سامووا بیشتری ن داره

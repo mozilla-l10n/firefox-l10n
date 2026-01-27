@@ -2,7 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-alert-close =
-    .tooltiptext = بستن ای وارسۊوی
-alert-settings-title =
-    .tooltiptext = سامووا
+# Displayed time for files finished yesterday
+download-utils-yesterday = دۊش

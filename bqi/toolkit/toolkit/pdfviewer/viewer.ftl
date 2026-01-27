@@ -9,6 +9,10 @@ pdfjs-print-button =
     .title = چاپ
 pdfjs-print-button-label = چاپ
 
+##
+
+pdfjs-document-properties-linearized-yes = هری
+
 ## Print
 
 pdfjs-print-progress-close-button = لقو
