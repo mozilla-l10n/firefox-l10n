@@ -1989,7 +1989,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
+content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Stránky se budou načítat normálně.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
 content-blocking-etp-custom-desc = Vyberte sledovací prvky a skripty, které chcete zablokovat.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
