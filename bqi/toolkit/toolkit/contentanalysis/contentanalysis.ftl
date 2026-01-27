@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-operationtype-print = چاپ
+contentanalysis-warndialog-response-deny = لقو

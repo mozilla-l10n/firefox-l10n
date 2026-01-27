@@ -8,6 +8,7 @@
 
 ## Buttons
 
+about-webauthn-cancel-button = لقو
 about-webauthn-send-pin-button = خا
 
 ## Authenticator info fields

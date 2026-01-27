@@ -15,3 +15,12 @@ webext-perms-header = ٱووردن { $extension }؟
 ## Headers used in the webextension permissions dialog, inside the content.
 
 webext-perms-header-optional-required-perms = موجوزا نۊ:
+
+##
+
+webext-perms-cancel =
+    .label = لقو
+    .accesskey = C
+webext-perms-sideload-cancel =
+    .label = لقو
+    .accesskey = C
