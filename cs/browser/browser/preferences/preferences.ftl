@@ -1969,8 +1969,8 @@ content-blocking-fpi-incompatibility-warning = Používáte izolaci prvních str
 # standard users (e.g. via Settings).
 content-blocking-rfp-incompatibility-warning =
     { -brand-short-name.case-status ->
-        [with-cases] Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany ve { -brand-short-name(case: "loc") } před vytvářením otisků prohlížeče . To může způsobit problémy s některými stránkami.
-       *[no-cases] Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany v aplikaci { -brand-short-name } před vytvářením otisků prohlížeče . To může způsobit problémy s některými stránkami.
+        [with-cases] Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany ve { -brand-short-name(case: "loc") } před vytvářením otisku prohlížeče . To může způsobit problémy s některými stránkami.
+       *[no-cases] Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany v aplikaci { -brand-short-name } před vytvářením otisku prohlížeče . To může způsobit problémy s některými stránkami.
     }
 
 ## These strings are used to define the different levels of
