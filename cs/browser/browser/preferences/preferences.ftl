@@ -1148,7 +1148,7 @@ search-suggestions-cant-show =
        *[no-cases] Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
     }
 search-one-click-header2 = Vyhledávače
-search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
+search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a pole vyhledávání.
 search-choose-engine-column =
     .label = Vyhledávač
 search-choose-keyword-column =
