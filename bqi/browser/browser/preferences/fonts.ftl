@@ -2,11 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = قلما
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-arabic =
+    .label = عروی
+fonts-langgroup-armenian =
+    .label = ٱرمنی
+fonts-langgroup-bengali =
+    .label = بنگالی
+fonts-langgroup-simpl-chinese =
+    .label = چینی ساڌه وابیڌه
+fonts-langgroup-trad-chinese-hk =
+    .label = چینی سونتی (هونگ کونگ)‏
+fonts-langgroup-trad-chinese =
+    .label = چینی سونتی (تایوان)‏
 fonts-langgroup-cyrillic =
     .label = سیریلیک
 fonts-langgroup-devanagari =

@@ -9,6 +9,18 @@ languages-close-key =
     .key = w
 languages-customize-select-language =
     .placeholder = زووی ن سی ٱووردن پسند کۊنین…
+# The pattern used to generate strings presented to the user in the
+# locale selection list.
+#
+# Example:
+#   Icelandic [is]
+#   Spanish (Chile) [es-CL]
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+#   $code (String) - Locale code of the locale (for example: "is", "es-CL")
+languages-code-format =
+    .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
@@ -17,6 +29,8 @@ browser-languages-window2 =
 browser-languages-search = پیتینیڌن زووا قلوه…
 browser-languages-searching =
     .label = هونی زووا ن اپیتینه…
+browser-languages-downloading =
+    .label = هونی دانلود ابۊ…
 browser-languages-select-language =
     .label = پسند زووݩ سی ٱووردن…
     .placeholder = پسند زووݩ سی ٱووردن…
