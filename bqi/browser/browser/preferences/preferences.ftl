@@ -87,6 +87,10 @@ preferences-default-zoom-value =
     .label = { $percentage }٪
 language-header = زووݩ
 fx-translate-web-pages = { -translations-brand-name }
+settings-translations-subpage-download-retry-button =
+    .label = قپ ریت دووارته
+settings-translations-subpage-download-delete-button =
+    .label = پاک کردن
 
 ## General Section - Files and Applications
 
@@ -125,6 +129,10 @@ applications-use-os-default-label =
 ##
 
 play-drm-content-learn-more = قلوه دووسته بۊین
+update-in-progress-ok-button = &دیر وندن
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &رئڌن وا پؽش
 
 ## Firefox support
 
@@ -135,6 +143,10 @@ support-get-help =
 
 performance-title = عملکرد
 performance-settings-learn-more = قلوه دووسته بۊین
+# Variables:
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (پؽش فرز)
 
 ## General Section - Browsing
 
@@ -154,6 +166,11 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = نیمدری یل وو بلگه یل نۊ
 
+## Home Section - Default Browser
+
+home-default-browser-title =
+    .label = گشت گر پؽش فرز
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = بلگه هووه ای وو نیمدری یل نۊ
@@ -165,6 +182,8 @@ home-homepage-new-tabs =
     .label = بلگه یل نۊ
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (پؽش فرز)
+home-mode-choice-blank =
+    .label = بلگه پتی
 home-homepage-header = بلگه هووه ای
 
 ## Home Section - Home Page Customization
@@ -177,6 +196,9 @@ home-homepage-title =
 home-custom-homepage-header = سفارشی کردن بلگه هووه
 home-custom-homepage-subpage =
     .heading = سفارشی کردن بلگه هووه
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = نشۊوی (ا) وبگه
 home-custom-homepage-address =
     .placeholder = زیذن نشۊوی
 home-custom-homepage-address-button =
@@ -209,6 +231,12 @@ home-prefs-recent-activity-header =
 home-prefs-weather-header =
     .label = ٱو وو هوا
 home-prefs-weather-learn-more-link = قلوه دووسته بۊین
+home-prefs-widgets-header =
+    .label = ویجتا
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = زمووݩ سنج
+home-prefs-manage-topics-link = دؽوۉداری سرتالا
 
 ## Search Section
 
@@ -230,6 +258,11 @@ containers-settings-button =
 sync-group-label =
     .label = هوم گوم کردن
 
+## Firefox account - Signed in
+
+fxa-login-rejected-warning =
+    .alt = بپا
+
 ## Variables
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
@@ -242,11 +275,20 @@ sync-account-signed-in-display-name =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = هوم گوم کردن: رۊشن
 prefs-syncing-off = هوم گوم کردن: کۊر
 
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = نشووکا
+sync-currently-syncing-history = ویرگار
+sync-currently-syncing-tabs = بلگه یل واز
+sync-currently-syncing-logins-passwords = و من ٱووڌنا وو رزما
+sync-currently-syncing-passwords = رزما
+sync-currently-syncing-addresses = نشۊویا
+sync-currently-syncing-creditcards = کارتا ائتواری
+sync-currently-syncing-payment-methods = بارتا پرداخت
+sync-currently-syncing-addons = وردنی یل
 sync-currently-syncing-settings = سامووا
 
 ## The "Choose what to sync" dialog.
@@ -254,6 +296,9 @@ sync-currently-syncing-settings = سامووا
 sync-engine-bookmarks =
     .label = نشووکا
     .accesskey = m
+sync-engine-history =
+    .label = ویرگار
+    .accesskey = r
 sync-engine-settings =
     .label = سامووا
     .tooltiptext = سامووا پوی وولاتی، هریم سیخومی، وو ٱمنیتی ک آلشتکاری کردین
