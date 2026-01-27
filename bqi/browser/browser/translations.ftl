@@ -85,6 +85,10 @@ translations-settings-remove-language-button =
 translations-settings-remove-all-languages-button =
     .label = پاک کردن پوی زووا
     .accesskey = e
+# Text displayed in the select translations panel header.
+select-translations-panel-header = ولرنیڌن
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = ز
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = و
 # Text displayed above the try-another-source-language dropdown menu.
