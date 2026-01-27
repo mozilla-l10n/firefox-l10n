@@ -410,8 +410,8 @@ tab-context-open-in-split-view =
     .accesskey = p
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Del visninga
-    .accesskey = D
+    .label = Opphev delt visning
+    .accesskey = O
 tab-context-badge-new = Ny
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
