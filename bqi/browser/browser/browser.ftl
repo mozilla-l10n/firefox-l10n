@@ -485,6 +485,7 @@ identity-connection-file = ای بلگه و ری کامپیتر ایسا زفت 
 identity-connection-associated = ای بلگه ز بلگه دیری بار ونی وابیڌه.
 identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه.
 identity-active-blocked = { -brand-short-name } بشنایی ز ای بلگه ک ٱمن نؽڌن ن، مسدۊد کرده.
+identity-weak-encryption = ای بلگه رزم ناهاڌن زعیفی ن و کار گرؽڌه.
 identity-https-only-label = هالت تینا-Https
 identity-https-only-dropdown-on =
     .label = رۊشن
