@@ -486,7 +486,9 @@ identity-connection-associated = ای بلگه ز بلگه دیری بار ون�
 identity-extension-page = ای بلگه و دست ی وردنی بار ونی وابیڌه.
 identity-active-blocked = { -brand-short-name } بشنایی ز ای بلگه ک ٱمن نؽڌن ن، مسدۊد کرده.
 identity-weak-encryption = ای بلگه رزم ناهاڌن زعیفی ن و کار گرؽڌه.
+identity-https-only-connection-upgraded = (وا روء رئڌه و HTTPS)
 identity-https-only-label = هالت تینا-Https
+identity-https-only-label2 = و هالت خوتکار ای وبگه ن و ی منپیز ٱمن وا روء بوورین
 identity-https-only-dropdown-on =
     .label = رۊشن
 identity-https-only-dropdown-off =
@@ -746,6 +748,9 @@ urlbar-result-menu-dont-show-market =
     .label = پؽشنهاڌا بازار ن نشووݩ مڌه
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = ز منشڌ داڌن ایسا ممنووݩ داریم. دی پؽشنهاڌا بازار ن نیبینین.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = پؽشنهاڌا بازار سهام
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -903,6 +908,12 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] نیشتن نوار ٱوزار نشووکا
            *[other] نیشتن نوار ٱوزار نشووکا
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] بؽڌار کردن نوار ٱوزار نشووکا
+           *[other] دیاری کردن نوار ٱوزار نشووکا
         }
 bookmarks-tools-toolbar-visibility-panel =
     .label =
