@@ -13,6 +13,10 @@ media-codec-support-lack-of-extension = پۊرنیڌن وردنی
 
 intl-app-title = سامووا برنومه
 
+## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
+
+yes = هری
+
 ## Remote Settings sections
 
 support-remote-settings-status-ok = خا

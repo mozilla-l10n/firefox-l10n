@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = بلگه یل هوم گوم وابیڌه
+synced-tabs-sidebar-notabs = بؽ بلگه واز
 synced-tabs-sidebar-open-settings = گۊشیڌن سامووا هوم گوم کردن
 synced-tabs-sidebar-connect-another-device = منپیز و دسگا دیر
 synced-tabs-sidebar-search =

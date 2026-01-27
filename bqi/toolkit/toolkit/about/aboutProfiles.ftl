@@ -4,3 +4,4 @@
 
 profiles-title = زبار پوروفایلا
 profiles-flush-conflict = { profiles-conflict }
+profiles-yes = هری
