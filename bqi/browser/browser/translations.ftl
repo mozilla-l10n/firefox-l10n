@@ -75,6 +75,8 @@ translations-manage-download-description = دانلود زووا سی ولرنی
 translations-settings-title =
     .title = سامووا ولرنیڌن
     .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
 translations-settings-languages-column =
     .label = زووا
 translations-settings-remove-language-button =
@@ -83,13 +85,41 @@ translations-settings-remove-language-button =
 translations-settings-remove-all-languages-button =
     .label = پاک کردن پوی زووا
     .accesskey = e
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = و
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = ی زووݩ بونچک دیری ن امتهووݩ کۊنین
 select-translations-panel-cancel-button =
     .label = لقو
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = لف گیری
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = لف گیری وابی
 select-translations-panel-done-button =
     .label = ٱنجوم وابی
+select-translations-panel-translate-button =
+    .label = ولرنیڌن
+select-translations-panel-try-again-button =
+    .label = قپ ریت دووارته
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = ولرنیڌن هونی ٱنجوم ابۊ…
+select-translations-panel-init-failure-message =
+    .message = نترستیم زووا ن دانلود کۊنیم. منپیز اینترنت خوتووݩ ن واجۊری کۊنین وو دووارته قپ ریت کۊنین.
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = موشکلی من ولرنیڌن پؽش ٱووڌ. دووارته قپ ریت کۊنین.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = وابخشی، ایما هنی ز { $language } لادراری نؽکۊنیم.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = وابخشی، ایما هنی ز ای زووݩ لادراری نؽکۊنیم.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = سامووا ولرنیڌن

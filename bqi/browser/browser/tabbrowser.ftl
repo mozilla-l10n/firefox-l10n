@@ -4,6 +4,10 @@
 
 tabbrowser-empty-tab-title = بلگه نۊ
 tabbrowser-empty-private-tab-title = بلگه سیخومی نۊ
+tabbrowser-menuitem-close-tab =
+    .label = بستن بلگه
+tabbrowser-menuitem-close =
+    .label = بستن
 # Displayed within the tooltip on tabs inside of a tab group.
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.
@@ -17,6 +21,11 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
+# Displayed as a tooltip on container tabs
+# Variables:
+#   $title (String): the title of the current tab.
+#   $containerName (String): the name of the current container.
+tabbrowser-container-tab-title = { $title } - { $containerName }
 
 ## Tooltips for tab audio control
 ## Variables:

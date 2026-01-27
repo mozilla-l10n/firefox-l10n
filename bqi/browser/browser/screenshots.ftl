@@ -2,13 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+screenshot-shortcut =
+    .key = S
 screenshots-cancel-button = لقو
+screenshots-download-button = دانلود
 screenshots-copy-button = لف گیری
 screenshots-copy-button-tooltip = لف گیری شؽوات بلگه من کلیپ بورد
 screenshots-copy-button-title =
     .title = لف گیری شؽوات بلگه من کلیپ بورد
 screenshots-cancel-button-title =
     .title = لقو
+screenshots-meta-key =
+    { PLATFORM() ->
+        [macos] ⌘
+       *[other] Ctrl
+    }
+screenshots-notification-link-copied-title = لینگ لف گیری وابی
 screenshots-notification-image-copied-title = شؽوات لف گیری وابی
 screenshots-component-cancel-button =
     .title =
