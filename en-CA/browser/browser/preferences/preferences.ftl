@@ -1460,7 +1460,7 @@ autofill-payment-methods-manage-payments-button =
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
-    .label = Require device sign in to autofill and manage payments methods
+    .label = Require device sign in to autofill and manage payment methods
     .accesskey = o
 autofill-payment-methods-add-button = Add new payment method
 payments-list-header =
