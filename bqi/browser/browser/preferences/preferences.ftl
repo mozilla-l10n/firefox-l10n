@@ -308,6 +308,11 @@ sync-engine-settings =
 
 sync-device-name-header-2 =
     .label = نوم دسگا
+# Variables:
+#   $placeholder (string) - The placeholder text of the input
+sync-device-name-input =
+    .aria-label = نوم دسگا
+    .placeholder = { $placeholder }
 sync-device-name-cancel =
     .label = لقو
     .accesskey = n
@@ -323,6 +328,7 @@ forms-windows-sso-learn-more-link = قلوه دووسته بۊین
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -333,6 +339,7 @@ autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
 payments-list-header =
     .label = بارتا پرداخت
+payments-delete-payment-prompt-cancel-button = لقو
 payments-delete-payment-button-label =
     .aria-label = پاک کردن
 payments-edit-payment-button-label =
@@ -401,6 +408,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-shortcuts-option =
     .label = ر نهنگا
     .accesskey = S
+addressbar-locbar-engines-option =
+    .label = موتورا پیتینیڌن
+    .accesskey = a
 addressbar-locbar-suggest-sponsored-option =
     .label = پؽشنهاڌا ز هؽزگرووݩ
 addressbar-quickactions-learn-more = قلوه دووسته بۊین
@@ -422,6 +432,8 @@ content-blocking-cryptominers = ودر کونا رزم ٱرزا
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = قلوه دووسته بۊین
+content-blocking-baseline-uncheck-warning-dialog-ok-button = کۊر کردن رفع اشکالا
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = رفع اشکالا ن رۊشن بؽلین
 content-blocking-tracking-protection-option-all-windows =
     .label = من پوی نیمدری یل
     .accesskey = A
@@ -528,10 +540,18 @@ preferences-doh-resolver = جۊر کوݩ: { $name }
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = نشۊوی اینترنتی زبال نؽ
 preferences-doh-status-active = فعال
+preferences-doh-status-disabled = کۊر
 preferences-doh-expand-section =
     .tooltiptext = دووسمندیا قلوه
+preferences-doh-default-detailed-desc-2 = ٱر موشکلی وا جۊر کوݩ DNS ٱمن هڌه، DNS پؽش فرز خوتووݩ ن و کار بگیرین
+preferences-doh-default-detailed-desc-4 = کۊر من مجالی ک وی پی ان، کونتورول والدین یا سیاستا سازمۊوی فعال بۊن
+preferences-doh-enabled-desc = ایسا اگۊین ک چ مجالی DNS ٱمن و کار روه وو جۊر کونسه پسند اکۊنین.
+preferences-doh-enabled-detailed-desc-1 = و کار گرؽڌن جۊر کوݩ پسند بیڌه ایسا
+preferences-doh-enabled-detailed-desc-2 = تینا ٱر موشکلی وا جۊر کوݩ DNS ٱمن هڌه، DNS پؽش فرز خوتووݩ ن و کار بگیرین
 preferences-doh-strict-detailed-desc-1 = تینا و کار گرؽڌن جۊر کوݩ پسند بیڌه
 preferences-doh-strict-detailed-desc-2 = ٱر DNS ٱمن من دسرس نبی، هی اختار بڌه
+preferences-doh-strict-detailed-desc-3 = ٱر DNS ٱمن من دسرس نبۊ، وبگه یل بار ونی نؽبۊن وو یا و خۊوی کار نؽکونن
+preferences-doh-off-desc = موبدل DNS پؽش فرز خوته و کار بگر
 
 ## The following strings are used in the Download section of settings
 
