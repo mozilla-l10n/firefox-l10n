@@ -53,6 +53,7 @@ category-privacy =
 pane-sync-title3 = 同步
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI 控制
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } 实验
