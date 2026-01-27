@@ -14,6 +14,6 @@ fxviewtabrow-just-now-timestamp = ឥឡូវនេះ
 # For developers, this duplicates command because the label attribute is required.
 
 fxviewtabrow-delete = លុប
-    .accesskey = { "" }
+    .accesskey = D
 fxviewtabrow-forget-about-this-site = បំភ្លេចអំពីតំបន់នេះ…
-    .accesskey = { "" }
+    .accesskey = F
