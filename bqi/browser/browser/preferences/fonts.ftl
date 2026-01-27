@@ -5,6 +5,13 @@
 fonts-window-close =
     .key = w
 
+## Font groups by language
+
+fonts-langgroup-cyrillic =
+    .label = سیریلیک
+fonts-langgroup-devanagari =
+    .label = دواناگری
+
 ## Default fonts and their sizes
 
 fonts-default-serif =
