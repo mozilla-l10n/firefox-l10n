@@ -180,7 +180,7 @@ fp-neterror-offline-body-title = Mae'n ymddangos bod problem gyda'ch cysylltiad 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = Dyw { -brand-short-name } ddim yn gallu creu cysylltiad diogel i'r gweinydd yn { $hostname } .
-fp-neterror-offline-intro = Does di modd i { -brand-short-name } gysylltu â'r gweinydd yn <strong>{ $hostname }</strong>
+fp-neterror-offline-intro = Does dim modd i { -brand-short-name } gysylltu â'r gweinydd yn <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = Nid yw { -brand-short-name } wedi llwytho'r dudalen hon oherwydd mae'n edrych yn debyg nad yw'r ffurfweddiad diogelwch yn cyfateb i'r dudalen flaenorol.
 fp-neterror-http-auth-disabled-intro = Gallai rhywun sy'n cymryd arno fod ar y wefan geisio dwyn pethau fel eich enw defnyddiwr, cyfrinair neu e-bost.
 fp-neterror-http-auth-disabled-secure-connection = Mae angen cysylltiad diogel ar y wefan hon, a does dim modd i chi ychwanegu eithriad i ymweld â hi.
