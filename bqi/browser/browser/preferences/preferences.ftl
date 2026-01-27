@@ -91,6 +91,8 @@ settings-translations-subpage-download-retry-button =
     .label = قپ ریت دووارته
 settings-translations-subpage-download-delete-button =
     .label = پاک کردن
+settings-translations-subpage-download-cancel-button =
+    .label = لقو
 
 ## General Section - Files and Applications
 
