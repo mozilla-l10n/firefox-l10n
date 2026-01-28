@@ -335,10 +335,12 @@ newtab-custom-widget-lists-toggle =
     .label = Listák
 newtab-custom-widget-timer-toggle =
     .label = Időzítő
-newtab-custom-widget-section-title = Felületi elemek
+newtab-custom-widget-section-title = Kisalkalmazások
 newtab-custom-widget-section-toggle =
-    .label = Felületi elemek
-newtab-widget-manage-title = Felületi elemek
+    .label = Kisalkalmazások
+newtab-widget-manage-title = Kisalkalmazások
+newtab-widget-manage-widget-button =
+    .label = Kisalkalmazások kezelése
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Bezárás

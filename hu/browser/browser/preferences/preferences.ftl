@@ -2011,6 +2011,9 @@ collection-studies-description = Próbálja ki a funkciókat és az ötleteket, 
 collection-studies =
     .label = Engedélyezés, hogy a { -brand-short-name } tanulmányokat telepítsen és futtasson
 collection-studies-link = { -brand-short-name } tanulmányok megtekintése
+nimbus-rollouts-enabled =
+    .label = Engedélyezés a { -brand-short-name } számára, hogy teljesítményt, stabilitást és funkciókat érintő változtatásokat hajtson végre a frissítések között.
+nimbus-rollouts-enabled-description = A módosításokat távolról fogják alkalmazni.
 addon-recommendations2 =
     .label = Személyre szabott kiegészítőjavaslatok engedélyezése
 addon-recommendations-description = Kapjon kiegészítőjavaslatokat a böngészési élmény javítása érdekében.
@@ -2111,6 +2114,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Csak HTTPS mód
     .description = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2178,3 +2183,62 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Asztal
 downloads-folder-name = Letöltések
 choose-download-folder-title = Letöltési mappa kiválasztása:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = A { -brand-short-name } használata során mindig választhat, beleértve azt is, hogy kívánja-e használni a mesterséges intelligenciával (MI) bővített funkciókat. További beállítási lehetőségek hamarosan.
+preferences-ai-controls-block-ai-label = MI funkcióbővítések letiltása
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = A letiltás azt jelenti, hogy nem fogja látni a { -brand-short-name } új vagy jelenlegi MI funkcióbővítéseit, vagy az ezekkel kapcsolatos felugró ablakokat. <a data-l10n-name="link">Tudjon meg többet</a> arról, hogy ez mit tartalmaz, és hogyan vezérelhetők a hagyományos gépi tanulási funkciók, mint a keresési javaslatok és az ajánlások.
+preferences-ai-controls-blocked-message =
+    .message = Az új és jelenlegi MI funkcióbővítések alapértelmezés szerint le vannak tiltva. Egy adott funkció letiltásának feloldásához használja az alábbi vezérlőket.
+preferences-ai-controls-on-device-group =
+    .label = Eszközön lévő MI
+    .description = Ezek kis méretű MI-modelleket használnak, amelyek akkor töltődnek le az eszközre, ha használja a funkciót. Ez a megközelítés segít megvédeni a magánszféráját.
+preferences-ai-controls-translations-control =
+    .label = Fordítások
+    .description = Böngésszen a világhálón zökkenőmentesen az előnyben részesített nyelven.
+preferences-ai-controls-translations-more-link = További fordítási beállítások
+preferences-ai-controls-pdfjs-control =
+    .label = Képek alternatív szövege a { -brand-short-name } PDF-megjelenítőben
+    .description = Amikor képeket ad a PDF-fájlokhoz, azokhoz leírások is kerülnek, hogy akadálymentesek legyenek.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Lapcsoport-javaslatok
+    .description = Javaslatokat kaphat a lapjai elnevezéséhez és rendezéséhez.
+preferences-ai-controls-key-points-control =
+    .label = Kulcspontok a hivatkozás-előnézetekben
+    .description = Nézzen meg egy gyors összefoglalót, mielőtt a hivatkozásra kattint.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = MI csevegőbot-szolgáltatók az oldalsávban
+    .description = Tartson szem előtt egy csevegőbotot böngészés közben. Választhat az Anthropic Claude, a ChatGPT, a Copilot, a Google Gemini és a Le Chat Mistral közül.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Csevegőbot az oldalsávban
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Elérhető
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Engedélyezve
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokkolva
+preferences-ai-controls-state-description-before = Mit jelentenek a beállítások:
+preferences-ai-controls-state-description-available = <strong>Elérhető:</strong> Látni fogja a funkciót, és használhatja is.
+preferences-ai-controls-state-description-enabled = <strong>Engedélyezve:</strong> Bekapcsolta a funkció használatát.
+preferences-ai-controls-state-description-blocked = <strong>Letiltva:</strong> Nem fogja látni, és nem használhatja a funkciót. Az eszközön lévő MI esetén a már letöltött modellek eltávolításra kerülnek.
+preferences-ai-controls-block-confirmation-heading = Letiltja az MI funkcióbővítéseket?
+preferences-ai-controls-block-confirmation-description = Nem fogja látni a { -brand-short-name } új vagy jelenlegi MI funkcióbővítéseit, vagy az ezekkel kapcsolatos felugró ablakokat. Később feloldhatja bármelyik használni kívánt elem letiltását.
+preferences-ai-controls-block-confirmation-features-start = Mi lesz letiltva:
+preferences-ai-controls-block-confirmation-translations = Fordítások
+preferences-ai-controls-block-confirmation-pdfjs = Képek alternatív szövege a { -brand-short-name } PDF-megjelenítőben
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Lapcsoport-javaslatok
+preferences-ai-controls-block-confirmation-key-points = Kulcspontok a hivatkozás-előnézetekben
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Csevegőbot-szolgáltatók az oldalsávban
+preferences-ai-controls-block-confirmation-features-after = A letiltás azokat a kiegészítőket is érinti, amelyek a { -brand-short-name } által biztosított mesterséges intelligenciát használják.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Mégse
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Tiltás
