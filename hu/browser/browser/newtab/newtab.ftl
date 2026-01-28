@@ -466,6 +466,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Keresési hely
     .aria-label = Keresési hely
 newtab-weather-menu-weather-display = Időjárás-kijelző
+newtab-weather-todays-forecast = Mai előrejelzés
+newtab-weather-see-full-forecast = Teljes előrejelzés megtekintése
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
