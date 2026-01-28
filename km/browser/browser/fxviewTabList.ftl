@@ -17,3 +17,14 @@ fxviewtabrow-delete = លុប
     .accesskey = D
 fxviewtabrow-forget-about-this-site = បំភ្លេចអំពីតំបន់នេះ…
     .accesskey = F
+fxviewtabrow-open-in-window = បើកក្នុងបង្អួចថ្មី
+    .accesskey = N
+fxviewtabrow-open-in-private-window = បើកក្នុងបង្អួចឯកជនថ្មី
+    .accesskey = P
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = ចំណាំ
+    .accesskey = B
+fxviewtabrow-save-to-pocket = រក្សាទុកទៅ { -pocket-brand-name }
+    .accesskey = o
+fxviewtabrow-copy-link = ចម្លងតំណ
+    .accesskey = L
