@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 report-broken-site-mainview-title = گوزارش خراوی وبگه
+report-broken-site-panel-header =
+    .label = گوزارش خراوی وبگه
+    .title = گوزارش خراوی وبگه
 report-broken-site-panel-learn-more-link = قلوه دووسته بۊین
 report-broken-site-panel-url = نشۊوی اینترنتی
 report-broken-site-panel-reason-label = چ موشکلی پؽش ٱووڌه؟

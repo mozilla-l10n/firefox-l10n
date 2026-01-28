@@ -19,6 +19,8 @@ addon-category-extension-title =
 addon-category-locale = زووا
 addon-category-locale-title =
     .title = زووا
+addon-category-sitepermission-title =
+    .title = هشتنا وبگه
 
 ## These are global warnings
 

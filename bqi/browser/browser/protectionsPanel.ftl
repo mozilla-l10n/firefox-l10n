@@ -30,6 +30,8 @@ protections-panel-site-not-working-view-send-report = فشناڌن گوزارش
 ##
 
 protections-panel-description-shim-allowed-learn-more = قلوه دووسته بۊین
+protections-panel-content-blocking-breakage-report-view =
+    .title = گوزارش ی وبگه خراو
 protections-panel-content-blocking-breakage-report-view-collection-url = نشۊوی اینترنتی
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = نشۊوی اینترنتی
@@ -51,6 +53,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = کۊر کردن
 protections-panel-cookie-banner-view-turn-on-label =
     .label = رۊشن کردن
+protections-panel-report-broken-site =
+    .label = گوزارش خراوی وبگه
+    .title = گوزارش خراوی وبگه
 
 ## Protections panel info message
 
