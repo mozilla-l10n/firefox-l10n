@@ -20,3 +20,7 @@ default-bookmarks-firefox-get-help = گرؽڌن هیاری
 default-bookmarks-bugzilla = رڌجۊر اشکال Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = شبکه برنومه نویسووݩ Mozilla
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = پوی خراویا ایسا
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = سیاره Mozilla

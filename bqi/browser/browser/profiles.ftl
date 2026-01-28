@@ -2,18 +2,33 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-window-heading = پسند پوروفایل { -brand-short-name }
 profile-window-create-profile = وورکل پوروفایل
 profile-card-edit-button =
     .title = آلشت پوروفایل
     .aria-label = آلشت پوروفایل
+# Variables
+#   $profileName (string) - The name of the profile
+profile-card =
+    .title = گۊشیڌن { $profileName }
+    .aria-label = گۊشیڌن { $profileName }
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = پوروفایل { $number }
+# The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
+original-profile-name = پوروفایل ٱسلی
 default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = آلشت پوروفایل
 edit-profile-page-header = آلشت پوروفایل خوت
+edit-profile-page-profile-name-label = نوم پوروفایل
 edit-profile-page-theme-header-2 =
     .label = زمینه
+edit-profile-page-explore-themes = پیتینیڌن زمینه یل قلوه
 edit-profile-page-desktop-shortcut-header = وورکل ر نهنگ دسکتاپ
 edit-profile-page-desktop-shortcut-toggle =
     .aria-label = وورکل ر نهنگ دسکتاپ
+edit-profile-page-avatar-header-2 =
+    .label = شؽوات
 edit-profile-page-delete-button =
     .label = پاک کردن
 edit-profile-page-avatar-selector-opener-link = آلشت
@@ -23,8 +38,12 @@ avatar-selector-cancel-button =
     .label = لقو
 avatar-selector-save-button =
     .label = زفت
+avatar-selector-upload-file = آپلود ی فایل
+avatar-selector-drag-file = یا کشیڌن ی فایل و ایچو
+avatar-selector-add-image = ٱووردن ی شؽوات
 edit-profile-page-profile-saved = زفت وابی
 new-profile-page-title = پوروفایل نۊ
+new-profile-page-header = پوروفایل نۊ خوتووه سفارشی کۊنین
 new-profile-page-learn-more = قلوه دووسته بۊین
 new-profile-page-done-button =
     .label = آلشتکاریا ٱنجوم وابی
@@ -66,6 +85,8 @@ book-avatar-alt =
     .alt = کتاو
 briefcase-avatar-alt =
     .alt = کیف
+picture-avatar-alt =
+    .alt = شؽوات
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = پیوم
