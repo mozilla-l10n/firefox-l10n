@@ -99,6 +99,11 @@ settings-translations-subpage-download-cancel-button =
 downloads-header-2 =
     .label = دانلودا
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } فایل
+applications-action-save =
+    .label = زفت فایل
+# Variables:
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
@@ -130,6 +135,9 @@ applications-use-os-default-label =
 
 ##
 
+applications-save-for-new-types =
+    .label = زفت فایل
+    .accesskey = S
 play-drm-content-learn-more = قلوه دووسته بۊین
 update-in-progress-ok-button = &دیر وندن
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -223,6 +231,11 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 
+## Home Section - Firefox Home Content Customization
+
+home-prefs-stories-header =
+    .label = داستانا
+
 ##
 
 home-prefs-recommended-by-learn-more = یو چتاور کار اکونه
@@ -239,6 +252,9 @@ home-prefs-weather-header =
 home-prefs-weather-learn-more-link = قلوه دووسته بۊین
 home-prefs-widgets-header =
     .label = ویجتا
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = نومگه یل
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = زمووݩ سنج
@@ -268,6 +284,11 @@ sync-group-label =
 
 fxa-login-rejected-warning =
     .alt = بپا
+sync-sign-out =
+    .label = و در زیڌن…
+    .accesskey = g
+sync-manage-account = دؽوۉداری هساو
+    .accesskey = o
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -278,6 +299,12 @@ sync-account-signed-in =
 sync-account-signed-in-display-name =
     .label = { $name }
     .description = { $email }
+
+##
+
+sync-sign-in =
+    .label = و من ٱووڌن
+    .accesskey = g
 
 ## Sync section - enabling or disabling sync.
 
@@ -322,11 +349,28 @@ sync-device-name-input =
 sync-device-name-cancel =
     .label = لقو
     .accesskey = n
+sync-device-name-save =
+    .label = زفت
+    .accesskey = v
+sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
+## Privacy Section - Logins and Passwords
+
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = و من ٱووڌنا وو رزما
+    .searchkeywords = { -lockwise-brand-short-name }
+
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = رزما
+    .searchkeywords = و من ٱووڌنا
+forms-exceptions =
+    .label = استسنایل…
+    .accesskey = x
 forms-breach-alerts-learn-more-link = قلوه دووسته بۊین
 relay-integration-learn-more-link = قلوه دووسته بۊین
 forms-primary-pw-learn-more-link = قلوه دووسته بۊین
