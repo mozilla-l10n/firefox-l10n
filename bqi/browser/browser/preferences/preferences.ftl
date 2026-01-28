@@ -287,7 +287,13 @@ fxa-login-rejected-warning =
 sync-sign-out =
     .label = و در زیڌن…
     .accesskey = g
+sync-sign-out2 =
+    .label = و در زیڌن
+    .accesskey = g
 sync-manage-account = دؽوۉداری هساو
+    .accesskey = o
+sync-manage-account2 =
+    .label = دؽوۉداری هساو
     .accesskey = o
 
 ## Variables
@@ -323,6 +329,9 @@ sync-currently-syncing-creditcards = کارتا ائتواری
 sync-currently-syncing-payment-methods = بارتا پرداخت
 sync-currently-syncing-addons = وردنی یل
 sync-currently-syncing-settings = سامووا
+sync-manage-options-2 =
+    .label = دؽوۉداری داده یل هوم گوم وابیڌه
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
@@ -373,6 +382,12 @@ forms-exceptions =
     .accesskey = x
 forms-breach-alerts-learn-more-link = قلوه دووسته بۊین
 relay-integration-learn-more-link = قلوه دووسته بۊین
+forms-saved-passwords =
+    .label = رزما زفت وابیڌه
+    .accesskey = d
+forms-saved-passwords-2 =
+    .label = دؽوۉداری رزما زفت وابیڌه
+    .accesskey = d
 forms-primary-pw-learn-more-link = قلوه دووسته بۊین
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
 
@@ -396,6 +411,9 @@ payments-edit-payment-button-label =
     .aria-label = آلشت
 payments-remove-payment-prompt-confirm-button = پاک کردن
 payments-remove-payment-prompt-cancel-button = لقو
+autofill-addresses-manage-addresses-button =
+    .label = دؽوۉداری نشۊویا وو قلوه
+    .accesskey = M
 addreses-delete-address-button-label =
     .aria-label = پاک کردن
 addreses-edit-address-button-label =
@@ -424,6 +442,12 @@ payments-group =
 ## Privacy Section - History
 
 history-header = ویرگار
+history-remember-option-all =
+    .label = ویرگار و ویرس امهنه
+history-remember-option-never =
+    .label = هرگشت ویرگار و ویرس نؽمهنه
+history-remember-option-custom =
+    .label = سامووا خاسی ن سی ویرگار و کار اگره
 history-clear-on-close-settings =
     .label = سامووا…
     .accesskey = t
@@ -432,6 +456,8 @@ history-group =
 
 ## Privacy Section - Site Data
 
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-learn-more = قلوه دووسته بۊین
 sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
@@ -451,9 +477,18 @@ addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = قلوه دووسته بۊین
+addressbar-locbar-history-option =
+    .label = ویرگار گشتن
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = نشووکا
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = کلیپ بورد
+    .accesskey = C
+addressbar-locbar-openpage-option =
+    .label = بلگه یل واز
+    .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
     .label = ر نهنگا
@@ -461,9 +496,13 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-engines-option =
     .label = موتورا پیتینیڌن
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = کارا زل
+    .accesskey = Q
 addressbar-locbar-suggest-sponsored-option =
     .label = پؽشنهاڌا ز هؽزگرووݩ
 addressbar-quickactions-learn-more = قلوه دووسته بۊین
+addressbar-dismissed-suggestions-label = پؽشنهاڌا رڌ وابیڌه
 addressbar-restore-dismissed-suggestions-button =
     .label = وورگندن
 
@@ -471,6 +510,16 @@ addressbar-restore-dismissed-suggestions-button =
 
 content-blocking-enhanced-tracking-protection = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
 content-blocking-learn-more = قلوه دووسته بۊین
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-strict =
+    .label = سخت گرووه
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = سفارشی
+    .accesskey = C
 
 ##
 
@@ -598,6 +647,9 @@ preferences-doh-default-detailed-desc-4 = کۊر من مجالی ک وی پی ا
 preferences-doh-enabled-desc = ایسا اگۊین ک چ مجالی DNS ٱمن و کار روه وو جۊر کونسه پسند اکۊنین.
 preferences-doh-enabled-detailed-desc-1 = و کار گرؽڌن جۊر کوݩ پسند بیڌه ایسا
 preferences-doh-enabled-detailed-desc-2 = تینا ٱر موشکلی وا جۊر کوݩ DNS ٱمن هڌه، DNS پؽش فرز خوتووݩ ن و کار بگیرین
+preferences-doh-setting-strict =
+    .label = هدکسر زفت وابیڌن
+    .accesskey = M
 preferences-doh-strict-detailed-desc-1 = تینا و کار گرؽڌن جۊر کوݩ پسند بیڌه
 preferences-doh-strict-detailed-desc-2 = ٱر DNS ٱمن من دسرس نبی، هی اختار بڌه
 preferences-doh-strict-detailed-desc-3 = ٱر DNS ٱمن من دسرس نبۊ، وبگه یل بار ونی نؽبۊن وو یا و خۊوی کار نؽکونن
