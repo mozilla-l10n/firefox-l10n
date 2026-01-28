@@ -270,15 +270,15 @@ tab-group-preview-closed-description = Lista de schedas clause
 tab-context-move-tab-to-new-group =
     .label =
         { $tabCount ->
-            [1] Adder scheda al nove gruppo
-           *[other] Adder schedas al nove gruppo
+            [1] Adder scheda a un nove gruppo
+           *[other] Adder schedas a un nove gruppo
         }
     .accesskey = g
 tab-context-move-tab-to-group =
     .label =
         { $tabCount ->
-            [1] Adder scheda gruppo
-           *[other] Adder schedas gruppo
+            [1] Adder scheda al gruppo
+           *[other] Adder schedas al gruppo
         }
     .accesskey = g
 tab-context-move-split-view-to-new-group =
