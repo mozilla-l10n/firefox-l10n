@@ -2188,6 +2188,7 @@ choose-download-folder-title = İndirme klasörünü seçin:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = { -brand-short-name } ile her zaman tercih hakkına sahipsiniz. Yapay zekâ destekli özellikleri kullanıp kullanmamak da sizin tercihiniz. Yakında başka kontrol imkânları da sunacağız.
 preferences-ai-controls-block-ai-label = Yapay zekâ geliştirmelerini engelle
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
