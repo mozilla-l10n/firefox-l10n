@@ -703,6 +703,12 @@ newtab-widget-timer-menu-notifications = Disattiva notifiche
 newtab-widget-timer-menu-notifications-on = Attiva le notifiche
 newtab-widget-timer-menu-hide = Nascondi timer
 newtab-widget-timer-menu-learn-more = Ulteriori informazioni
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Notizie in primo piano
+newtab-daily-briefing-card-menu-dismiss = Chiudi
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Aggiornato { $minutes }m fa
 newtab-widget-message-title = Mantieni la concentrazione utilizzando le liste e il timer integrato
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Da promemoria veloci a liste di attività quotidiane, da sessioni di concentrazione a pause per rilassarsi: mantieni l’attenzione e rispetta i tempi.
