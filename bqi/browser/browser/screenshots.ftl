@@ -2,12 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+screenshot-toolbarbutton =
+    .label = شؽوات ز بلگه
+    .tooltiptext = گرؽڌن ی شؽوات ز بلگه
 screenshot-shortcut =
     .key = S
 screenshots-cancel-button = لقو
+screenshots-save-page-button = زفت پوی بلگه
 screenshots-download-button = دانلود
+screenshots-download-button-tooltip = دانلود شؽواتا گرؽڌه وابیڌه ز بلگه
 screenshots-copy-button = لف گیری
 screenshots-copy-button-tooltip = لف گیری شؽوات بلگه من کلیپ بورد
+screenshots-download-button-title =
+    .title = دانلود شؽواتا گرؽڌه وابیڌه ز بلگه
 screenshots-copy-button-title =
     .title = لف گیری شؽوات بلگه من کلیپ بورد
 screenshots-cancel-button-title =

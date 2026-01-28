@@ -13,6 +13,8 @@ opensearch-error-download-title = ختا دانلود
 
 ##
 
+searchbar-submit =
+    .tooltiptext = سبت پیتینیڌن
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = پیتینیڌن
