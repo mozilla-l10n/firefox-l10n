@@ -46,7 +46,7 @@ policy-DisableBuiltinPDFViewer =
         [with-cases] Zablokování PDF prohlížeče PDF.js vestavěného ve { -brand-short-name(case: "loc") }.
        *[no-cases] Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
     }
-policy-DisableDefaultBrowserAgent = Zabraňuje „výchozímu agentovi prohlížeče“ provádět jakékoliv akce. Dostupné pouze pro Windows, ostatní platformy agenty nemají.
+policy-DisableDefaultBrowserAgent = Zabraňuje agentovi Default Browser Agent provádět jakékoliv akce. Platí pouze pro Windows; ostatní platformy tohoto agenta nemají.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableEncryptedClientHello = Zakáže použití funkce TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
