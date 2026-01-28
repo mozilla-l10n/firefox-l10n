@@ -563,7 +563,7 @@ windows-10-eos-challenger-sync-callout-subtitle =
         [with-cases] Když si zálohujete záložky a hesla ve { -brand-product-name(case: "loc") }, můžete vybraný prohlížeč snáze přenést do dalšího zařízení.
        *[no-cases] Když si zálohujete záložky a hesla v aplikaci { -brand-product-name }, můžete vybraný prohlížeč snáze přenést do dalšího zařízení.
     }
-windows-10-eos-challenger-pin-callout-subtitle = Připněte si { -brand-shorter-name } na systémový hlavní panel, abyste měli vybraný prohlížeč vždy po ruce, když ho potřebujete.
+windows-10-eos-challenger-pin-callout-subtitle = Připněte si { -brand-shorter-name } na systémový hlavní panel, abyste svůj vybraný prohlížeč měli po ruce vždy, když ho potřebujete.
 windows-10-eos-challenger-sync-primary-button = Zálohovat { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Připnout { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokuje těžbu kryptoměn, sledovací prvky sociálních sítí a vytváření otisku prohlížeče.
