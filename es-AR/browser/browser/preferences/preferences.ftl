@@ -2183,6 +2183,7 @@ choose-download-folder-title = Elegir carpeta para descargas:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Siempre hay una opción en { -brand-short-name }, incluyendo si se quiere usar funciones mejoradas con IA. Próximamente más controles.
 preferences-ai-controls-block-ai-label = Bloquear mejoras de IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
