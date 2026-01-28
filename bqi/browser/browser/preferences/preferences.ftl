@@ -199,6 +199,8 @@ home-custom-homepage-header = سفارشی کردن بلگه هووه
 home-custom-homepage-subpage =
     .heading = سفارشی کردن بلگه هووه
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = نشۊوی (ا) وبگه
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card =
     .heading = نشۊوی (ا) وبگه
 home-custom-homepage-address =
@@ -226,6 +228,8 @@ home-prefs-content-header =
 home-prefs-recommended-by-learn-more = یو چتاور کار اکونه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = وزعیتا هؽزگرووݩ
+home-prefs-highlights-option-visited-pages =
+    .label = بلگه یل نیشته وابیڌه
 home-prefs-highlights-options-bookmarks =
     .label = نشووکا
 home-prefs-recent-activity-header =

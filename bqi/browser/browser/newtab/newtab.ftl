@@ -120,6 +120,7 @@ newtab-menu-open-file = گۊشیڌن فایل
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = نیشته وابیڌه
 newtab-label-bookmarked = نشووک ناهاڌه وابیڌه
 newtab-label-removed-bookmark = نشووک پاک وابی
 newtab-label-saved = من { -pocket-brand-name } زفت وابیڌه
