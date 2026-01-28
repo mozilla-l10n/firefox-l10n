@@ -27,6 +27,7 @@ profiles-rootdir = Gyökérkönyvtár
 profiles-localdir = Helyi könyvtár
 profiles-current-profile = A profil használatban van, és nem törölhető.
 profiles-in-use-profile = Ezt a profilt egy másik alkalmazás használja, és nem törölhető.
+profiles-cannot-delete-profile = Nem törölhető olyan profil, amely más profilokhoz van kapcsolva.
 profiles-rename = Átnevezés
 profiles-remove = Eltávolítás
 profiles-set-as-default = Alapértelmezett profil beállítása

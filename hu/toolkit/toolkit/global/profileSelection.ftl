@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = A kijelölt profil használata induláskor kérdés nélkül
     .accesskey = d
+profile-has-selectable-profiles-title = Nem törölhető olyan profil, amely más profilokhoz van kapcsolva
