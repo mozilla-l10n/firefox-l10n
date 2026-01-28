@@ -20,3 +20,10 @@ site-data-local-file-host = (فایل مهلی)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+
+## Removing
+
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = پاک کردن
+site-data-removing-header = کۊکیا وو داده یل وبگه ن هونی پاک اکونه

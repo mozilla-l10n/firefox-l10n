@@ -16,3 +16,7 @@ default-bookmarks-getting-started = ناهاڌن پا کار
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = گرؽڌن هیاری
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = رڌجۊر اشکال Mozilla
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = شبکه برنومه نویسووݩ Mozilla

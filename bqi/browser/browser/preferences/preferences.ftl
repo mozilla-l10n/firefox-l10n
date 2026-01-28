@@ -421,6 +421,9 @@ addreses-edit-address-button-label =
 addresses-delete-address-prompt-title = ای نشۊوی پاک بۊ؟
 addresses-delete-address-prompt-confirm-button = پاک کردن
 addresses-delete-address-prompt-cancel-button = لقو
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = هیچ نشۊوی ٱوورده نوابیڌه
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -650,10 +653,18 @@ preferences-doh-enabled-detailed-desc-2 = تینا ٱر موشکلی وا جۊر
 preferences-doh-setting-strict =
     .label = هدکسر زفت وابیڌن
     .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } هی و عونوان DNS ٱمن و کار روه. پؽش ز یوکه DNS سیستوم و کار روه، و ایسا ی هوشتار اختار ٱمنیتی داڌه ابۊ.
 preferences-doh-strict-detailed-desc-1 = تینا و کار گرؽڌن جۊر کوݩ پسند بیڌه
 preferences-doh-strict-detailed-desc-2 = ٱر DNS ٱمن من دسرس نبی، هی اختار بڌه
 preferences-doh-strict-detailed-desc-3 = ٱر DNS ٱمن من دسرس نبۊ، وبگه یل بار ونی نؽبۊن وو یا و خۊوی کار نؽکونن
+preferences-doh-setting-off =
+    .label = کۊر
+    .accesskey = O
 preferences-doh-off-desc = موبدل DNS پؽش فرز خوته و کار بگر
+preferences-doh-select-resolver = پسند جۊر کوݩ:
+preferences-doh-manage-exceptions =
+    .label = دؽوۉداری استسنایل…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
