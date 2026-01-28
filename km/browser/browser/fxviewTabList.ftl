@@ -28,3 +28,34 @@ fxviewtabrow-save-to-pocket = រក្សាទុកទៅ { -pocket-brand-nam
     .accesskey = o
 fxviewtabrow-copy-link = ចម្លងតំណ
     .accesskey = L
+fxviewtabrow-close-tab = បិទផ្ទាំង
+    .accesskey = C
+fxviewtabrow-move-tab = ផ្លាស់ទីផ្ទាំង
+    .accesskey = V
+fxviewtabrow-move-tab-start = ផ្លាស់ទីទៅការចាប់ផ្ដើម
+    .accesskey = S
+fxviewtabrow-move-tab-end = ផ្លាស់ទីទៅចុងបញ្ចប់
+    .accesskey = E
+fxviewtabrow-move-tab-window = ផ្លាស់ទីទៅកាន់បង្អួចថ្មី
+    .accesskey = W
+fxviewtabrow-send-tab = ផ្ញើផ្ទាំងទៅឧបករណ៍
+    .accesskey = n
+fxviewtabrow-pin-tab = ផ្ទាំងខ្ទាស់
+    .accesskey = P
+fxviewtabrow-unpin-tab = ដោះផ្ទាំងខ្ទាស់
+    .accesskey = p
+fxviewtabrow-mute-tab = ផ្ទាំងបិទសំឡេង
+    .accesskey = M
+fxviewtabrow-unmute-tab = ផ្ទាំងបើកសំឡេង
+    .accesskey = m
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = ជម្រើសសម្រាប់ { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = ផ្ទាំង​បិទ​សំឡេង
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = ផ្ទាំង​បើក​សំឡេង

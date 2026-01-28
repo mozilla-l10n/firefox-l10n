@@ -98,3 +98,15 @@ about-debugging-runtime-processes =
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = ចាប់ផ្ដើម
     .disabledTitle = ការចាប់ផ្តើមរបស់ Service Worker បច្ចុប្បន្នត្រូវបានបិទសម្រាប់ពហុដំណើរការ { -brand-shorter-name }
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = លុប​ការ​ចុះ​ឈ្មោះ
+# Displayed for service workers in runtime pages, to label the origin of a worker.
+about-debugging-worker-origin =
+    .label = ប្រភពដើម
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = បិទសារ
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = ព័ត៌មានលម្អិតអំពីកំហុស
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = ព័ត៌មានលម្អិតអំពីការព្រមាន

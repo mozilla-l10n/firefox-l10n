@@ -45,6 +45,8 @@ onboarding-theme-primary-button-label = រួចរាល់
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = ជ្រើសរើសភាសារបស់អ្នក
+mr2022-onboarding-live-language-text = { -brand-short-name } និយាយភាសារបស់អ្នក
+onboarding-live-language-button-label-downloading = កំពុងទាញយកកញ្ចប់ភាសាសម្រាប់ { $negotiatedLanguage }…
 mr2022-onboarding-live-language-switch-to = ប្តូរទៅ { $negotiatedLanguage }
 onboarding-live-language-secondary-cancel-download = បោះបង់
 onboarding-live-language-skip-button-label = រំលង
