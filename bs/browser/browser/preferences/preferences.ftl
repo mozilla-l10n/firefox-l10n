@@ -251,6 +251,11 @@ containers-remove-cancel-button = Ne uklanjaj ovaj Container
 settings-tabs-show-image-in-preview =
     .label = Prikažite pregled slike kada zadržite pokazivač miša na tabu
     .accessKey = h
+browser-layout-header2 =
+    .label = Raspored preglednika
+browser-layout-show-sidebar2 =
+    .label = Prikaži bočnu traku
+    .description = Brzo pristupite zabilješkama, karticama s telefona, AI chatbotovima i još mnogo čemu bez napuštanja glavnog prikaza.
 browser-layout-header = Raspored preglednika
 browser-layout-horizontal-tabs =
     .label = Horizontalni tabovi
@@ -539,6 +544,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -662,6 +670,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -882,6 +896,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1720,3 +1739,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
+
+## AI controls page
+
