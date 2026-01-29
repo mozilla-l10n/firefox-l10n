@@ -284,6 +284,11 @@ containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹ
 settings-tabs-show-image-in-preview =
     .label = ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਉੱਤੇ ਹੋਵੋ ਤਾਂ ਚਿੱਤਰ ਚਿੱਤਰ ਝਲਕ ਵੇਖੋ
     .accessKey = h
+browser-layout-header2 =
+    .label = ਬਰਾਊਜ਼ਰ ਦਾ ਲੇਆਉਟ
+browser-layout-show-sidebar2 =
+    .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ
+    .description = ਆਪਣੇ ਫ਼ੋਨ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਟੈਬਾਂ, AI ਚੈਟਬੋਟਾਂ ਤੇ ਹੋਰਾਂ ਵਾਸਤੇ ਬਿਨਾਂ ਆਪਣੀ ਮੁੱਖ ਝਲਕ ਛੱਡੇ ਬਗੈਰ ਫ਼ੌਰਨ ਪਹੁੰਚ।
 browser-layout-header = ਬਰਾਊਜ਼ਰ ਦਾ ਲੇਆਉਟ
 browser-layout-horizontal-tabs =
     .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
@@ -2158,3 +2163,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = ਡੈਸਕਟਾਪ
 downloads-folder-name = ਡਾਊਨਲੋਡ
 choose-download-folder-title = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣੋ:
+
+## AI controls page
+
