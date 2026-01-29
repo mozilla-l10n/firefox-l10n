@@ -2153,6 +2153,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
-
-## AI controls page
-

@@ -2158,6 +2158,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
-
-## AI controls page
-

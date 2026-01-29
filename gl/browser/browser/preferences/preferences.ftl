@@ -541,9 +541,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -667,12 +664,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -892,11 +883,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1736,6 +1722,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
-
-## AI controls page
-

@@ -544,9 +544,6 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Performanse
@@ -670,12 +667,6 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -896,11 +887,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1739,6 +1725,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
-
-## AI controls page
-

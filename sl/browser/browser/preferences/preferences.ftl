@@ -2134,6 +2134,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
-
-## AI controls page
-

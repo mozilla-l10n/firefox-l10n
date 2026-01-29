@@ -2162,6 +2162,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
-
-## AI controls page
-
