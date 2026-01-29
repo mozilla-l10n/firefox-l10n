@@ -700,7 +700,12 @@ newtab-widget-timer-menu-notifications = Slå av varsler
 newtab-widget-timer-menu-notifications-on = Slå på varsler
 newtab-widget-timer-menu-hide = Skjul nedteller
 newtab-widget-timer-menu-learn-more = Les mer
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Toppoverskrifter
 newtab-daily-briefing-card-menu-dismiss = Ignorer
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Oppdatert for { $minutter } minutter siden
 newtab-widget-message-title = Hold fokus med lister og en innebygd nedteller
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fra kjappe påminnelser til daglige gjøremål, fokuserte arbeidsøkter til strekkpauser — hold deg til oppgaven og tidsplanen.

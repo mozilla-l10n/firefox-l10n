@@ -724,6 +724,7 @@ urlbar-result-action-search-in-private = Søk i et privat vindu
 urlbar-result-action-search-w-engine = Søk med { $engine }
 urlbar-result-action-sponsored = Sponset
 urlbar-result-action-switch-tab = Bytt til fane
+urlbar-result-action-move-tab-to-split-view = Flytt fane til delt visning
 urlbar-result-action-visit = Besøk
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

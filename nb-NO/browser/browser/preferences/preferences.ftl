@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = f
 browser-layout-header2 =
     .label = Nettleserutforming
+browser-layout-horizontal-tabs2 =
+    .label = Horisontale faner
+    .title = Faner øverst
+    .description = Faner øverst
+browser-layout-vertical-tabs2 =
+    .label = Vertikale faner
+    .title = Faner på siden, i sidestolpen
+    .description = Faner på siden, i sidestolpen
 browser-layout-show-sidebar2 =
     .label = Vis sidestolpe
     .description = Få rask tilgang til bokmerker, faner fra telefonen, AI-chatroboter og mer uten å forlate hovedvisningen.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Advarsel: Hvis du velger «Forstørr bare tekst» og standardzoomen ikke er satt til 100 %, kan det føre til at enkelte nettsteder eller innhold ikke fungerer korrekt.
 language-header = Språk
 choose-language-description = Velg foretrukket språk på nettsider
+website-language-heading =
+    .label = Nettstedsspråk
+    .description = Noen nettsider vises på flere språk. Velg språk i ønsket rekkefølge.
+website-preferred-language =
+    .label = Foretrukket språk
+website-add-language =
+    .label = Legg til språk
+website-add-language-button =
+    .aria-label = Legg til valgt språk
+    .title = Legg til valgt språk
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Fjern { $locale }
+    .title = Fjern { $locale }
 choose-button =
     .label = Velg …
     .accesskey = V
