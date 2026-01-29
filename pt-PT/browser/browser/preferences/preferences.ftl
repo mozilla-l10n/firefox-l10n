@@ -256,6 +256,11 @@ containers-remove-cancel-button = Não remover este contentor
 settings-tabs-show-image-in-preview =
     .label = Mostrar uma pré-visualização da imagem ao passar o rato sobre um separador
     .accessKey = v
+browser-layout-header2 =
+    .label = Esquema do navegador
+browser-layout-show-sidebar2 =
+    .label = Mostrar barra lateral
+    .description = Aceda rapidamente a marcadores, separadores do seu telemóvel, chatbots de IA e muito mais, sem sair da vista principal.
 browser-layout-header = Esquema do navegador
 browser-layout-horizontal-tabs =
     .label = Separadores horizontais
@@ -546,6 +551,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -676,6 +684,9 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 home-homepage-header = Página inicial
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -936,6 +947,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1844,3 +1860,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## AI controls page
+
