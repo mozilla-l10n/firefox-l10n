@@ -479,6 +479,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
 newtab-weather-menu-temperature-option-celsius = Цельсий
 newtab-weather-menu-change-temperature-units-fahrenheit = Переключиться на градусы Фаренгейта
 newtab-weather-menu-change-temperature-units-celsius = Переключиться на градусы Цельсия
+newtab-weather-menu-hide-weather-v2 = Скрыть погоду
 newtab-weather-menu-hide-weather = Скрыть погоду на новой вкладке
 newtab-weather-menu-learn-more = Подробнее
 newtab-weather-menu-detect-my-location = Определить моё местоположение
@@ -697,6 +698,12 @@ newtab-widget-timer-menu-notifications = Отключить уведомлени
 newtab-widget-timer-menu-notifications-on = Включить уведомления
 newtab-widget-timer-menu-hide = Скрыть таймер
 newtab-widget-timer-menu-learn-more = Подробнее
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Самые популярные новости
+newtab-daily-briefing-card-menu-dismiss = Скрыть
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Обновлено { $minutes } мин. назад
 newtab-widget-message-title = Оставайтесь в фокусе с помощью списков и встроенного таймера
 # to-dos stands for "things to do".
 newtab-widget-message-copy = От быстрых напоминаний до ежедневных задач, от фокус-сессий до длительных перерывов - выполняйте задачи вовремя.

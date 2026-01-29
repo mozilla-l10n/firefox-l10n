@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Машинное обучение
 about-logging-preset-ml-description = Модули журнала для диагностики проблем машинного обучения
 about-logging-preset-web-compat-label = Веб-совместимость
 about-logging-preset-web-compat-description = Модули журнала для диагностики проблем веб-совместимости
+about-logging-preset-navigation = Навигация
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули журнала для диагностики проблем WebGPU
 about-logging-preset-gfx-label = Графика

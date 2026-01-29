@@ -292,6 +292,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Внешний вид браузера
+browser-layout-horizontal-tabs2 =
+    .label = Горизонтальные вкладки
+    .title = Вкладки вверху
+    .description = Вкладки вверху
+browser-layout-vertical-tabs2 =
+    .label = Вертикальные вкладки
+    .title = Вкладки сбоку, на боковой панели
+    .description = Вкладки сбоку, на боковой панели
 browser-layout-show-sidebar2 =
     .label = Показать боковую панель
     .description = Быстрый доступ к закладкам, вкладкам с телефона, ИИ-чат-ботам и многому другому, не покидая основного вида.
@@ -402,6 +410,28 @@ preferences-text-zoom-override-warning =
     .message = Предупреждение: Если вы выберете «Масштабировать только текст», а ваш масштаб по умолчанию не установлен на 100%, это может привести к поломке некоторых сайтов или их содержимого.
 language-header = Язык
 choose-language-description = Выберите язык, предпочитаемый вами для отображения страниц
+website-language-heading =
+    .label = Язык веб-сайта
+    .description = Некоторые веб-страницы отображаются на нескольких языках. Выберите языки в удобном для вас порядке.
+website-preferred-language =
+    .label = Предпочитаемые языки
+website-add-language =
+    .label = Добавить язык
+website-add-language-button =
+    .aria-label = Добавить выбранный язык
+    .title = Добавить выбранный язык
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Удалить { $locale }
+    .title = Удалить { $locale }
 choose-button =
     .label = Выбрать…
     .accesskey = ы
