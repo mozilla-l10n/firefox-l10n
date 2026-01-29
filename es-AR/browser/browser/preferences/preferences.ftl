@@ -2199,6 +2199,9 @@ preferences-ai-controls-pdfjs-control =
 preferences-ai-controls-key-points-control =
     .label = Puntos clave en las vistas previas de enlaces
     .description = Ver un resumen rápido antes de abrir un enlace.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Proveedores de chatbot de IA en la barra lateral
+    .description = Mantienen un chatbot a la vista mientras se navega. Se puede seleccionar entre Anthropic Claude, ChatGPT, Copilot, Google Gemini, y Le Chat Mistral.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot en la barra lateral
 # This option means that a user will see the feature and can use it.
