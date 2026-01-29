@@ -735,6 +735,7 @@ urlbar-result-action-search-in-private = W priwatnym woknje pytać
 urlbar-result-action-search-w-engine = Z { $engine } pytać
 urlbar-result-action-sponsored = Sponserowany
 urlbar-result-action-switch-tab = K rajtarkej přeńć
+urlbar-result-action-move-tab-to-split-view = Rajtark do dźěleneho napohlada přesunyć
 urlbar-result-action-visit = Wopytać
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -774,6 +775,8 @@ urlbar-result-action-copy-to-clipboard = Kopěrować
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = njedefinowany
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Rozšěrjenje { -brand-product-name }
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables

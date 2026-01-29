@@ -484,6 +484,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenheit wužiwać
 newtab-weather-menu-change-temperature-units-celsius = Celsius wužiwać
+newtab-weather-menu-hide-weather-v2 = Wjedro schować
 newtab-weather-menu-hide-weather = Wjedro na nowym rajtarku schować
 newtab-weather-menu-learn-more = Dalše informacije
 newtab-weather-menu-detect-my-location = Moje stejnišćo namakać
@@ -702,7 +703,12 @@ newtab-widget-timer-menu-notifications = Zdźělenja znjemóžnić
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžnić
 newtab-widget-timer-menu-hide = Časoměr schować
 newtab-widget-timer-menu-learn-more = Dalše informacije
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Wažne hłowne nadpisma
 newtab-daily-briefing-card-menu-dismiss = Zaćisnyć
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Před { $minutes } m zaktualizowany
 newtab-widget-message-title = Wostańće koncentrowany z lisćinami a zatwarjenym časoměrom
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Wot spěšnych dopomnjećow do wšědnych nadawkowych lisćinow, koncentrujće so na posedźenja, zo byšće přestawki podlěšił – njepopušćejće a budźće zdypkom.
