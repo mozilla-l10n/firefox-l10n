@@ -295,6 +295,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = b
 browser-layout-header2 =
     .label = Wugótowanje wobglědowaka
+browser-layout-horizontal-tabs2 =
+    .label = Horicontalne rejtariki
+    .title = Rejtariki górjejce
+    .description = Rejtariki górjejce
+browser-layout-vertical-tabs2 =
+    .label = Wertikalne rejtariki
+    .title = Rejtariki na boku, w bocnicy
+    .description = Rejtariki na boku, w bocnicy
 browser-layout-show-sidebar2 =
     .label = Bocnicu pokazaś
     .description = Mějśo malsny pśistup k cytańskim znamjenjam, rejtarikam ze swójogo telefona, chatbotam KI a wěcej, bźez togo, aby swój głowny naglěd spušćił.
@@ -405,6 +413,28 @@ preferences-text-zoom-override-warning =
     .message = Glědajśo: Jolic „Jano tekst skalěrowaś“  wuběraśo a wašo standardne skalěrowanje njejo na 100 % nastajone, mógu problemy z někotarymi sedłami abo wopśimjeśim wustupowaś.
 language-header = Rěc
 choose-language-description = Wubjeŕśo swóju preferěrowanu rěc za zwobraznjenje bokow
+website-language-heading =
+    .label = Rěc websedła
+    .description = Někotare webboki se w někotarych rěcach pokazuju. Wubjeŕśo rěcy w swójom preferěrowanem pórěźe.
+website-preferred-language =
+    .label = Preferěrowane rěcy
+website-add-language =
+    .label = Rěc pśidaś
+website-add-language-button =
+    .aria-label = Wubranu rěc pśidaś
+    .title = Wubranu rěc pśidaś
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } wótwónoźeś
+    .title = { $locale } wótwónoźeś
 choose-button =
     .label = Wubraś…
     .accesskey = u

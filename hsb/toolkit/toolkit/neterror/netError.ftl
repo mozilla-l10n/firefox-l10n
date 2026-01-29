@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Přepruwujće, hač je so dataja přesunyła, p�
 neterror-access-denied = Snano je so wotstroniła, přesunyła, abo datajowe prawa zadźěwaju přistupej.
 neterror-unknown-protocol = Snano dyrbiće druhe programy instalować, zo by so tuta adresa wočiniła.
 neterror-redirect-loop = Tutón problem so druhdy přeze znjemóžnjenje abo wotpokazowanje plackow zawinuje.
+neterror-unknown-socket-type-client-config = To móhło dla konfiguraciskeho zmylka z wašim klientom być.
 neterror-unknown-socket-type-psm-installed = Pruwujće, hač Personal Security Manager je instalowany na wašim systemje.
 neterror-unknown-socket-type-server-config = Přičina je snano njestandardna konfiguracija na wašim serwerje.
 neterror-not-cached-intro = Požadany dokument w pufrowaku { -brand-short-name } k dispoziciji njesteji.
