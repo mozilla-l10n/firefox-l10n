@@ -45,7 +45,7 @@ browser-languages-window2 =
            *[no-cases] Jazyk aplikace { -brand-short-name }
         }
     .style = min-width: 40em
-browser-languages-description = { -brand-short-name } zobrazí své uživatelské rozhraní v prvním vybraném jazyce. Ostatní použije jen pokud bude potřeba, a to ve vybraném pořadí.
+browser-languages-description = { -brand-short-name } zobrazí své uživatelské rozhraní v prvním uvedeném jazyce. Ostatní jazyky použije jen pokud bude potřeba, a to v uvedeném pořadí.
 browser-languages-search = Najít další jazyky…
 browser-languages-searching =
     .label = Hledání jazyků…
