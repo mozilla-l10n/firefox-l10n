@@ -57,6 +57,7 @@ about-logging-preset-ml-label = Омӯзиши мошинӣ
 about-logging-preset-ml-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои омӯзиши мошинӣ
 about-logging-preset-web-compat-label = Мутобиқати веб
 about-logging-preset-web-compat-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои мутобиқати веб
+about-logging-preset-navigation = Паймоиш
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои «WebGPU»
 about-logging-preset-gfx-label = Графика

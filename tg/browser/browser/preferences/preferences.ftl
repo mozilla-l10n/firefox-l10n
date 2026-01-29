@@ -293,6 +293,10 @@ browser-layout-horizontal-tabs2 =
     .label = Варақаҳои уфуқӣ
     .title = Варақаҳо дар боло
     .description = Варақаҳо дар боло
+browser-layout-vertical-tabs2 =
+    .label = Варақаҳои амудӣ
+    .title = Варақаҳо аз паҳлу, дар навори ҷонибӣ
+    .description = Варақаҳо аз паҳлу, дар навори ҷонибӣ
 browser-layout-show-sidebar2 =
     .label = Намоиш додани навори ҷонибӣ
     .description = Аз саҳифаи асосии худ нарафта, ба хатбаракҳо, варақаҳо дар телефони худ, чат-боти зеҳни сунъӣ «AI» ва имкониятҳои дигар зуд дастрасӣ пайдо намоед.
@@ -403,6 +407,25 @@ preferences-text-zoom-override-warning =
     .message = Огоҳӣ: Агар шумо «Танҳо калон кардани андозаи матн»-ро интихоб кунед ва андозаи пешфарзи шумо ба 100% муқаррар карда нашудааст, он метавонад боиси вайрон шудани баъзе сомонаҳо ва муҳтаво гардад.
 language-header = Забон
 choose-language-description = Забони дилхоҳатонро барои намоиши саҳифаҳо интихоб намоед
+website-preferred-language =
+    .label = Забонҳои пазируфта
+website-add-language =
+    .label = Илова кардани забон
+website-add-language-button =
+    .aria-label = Илова кардани забони интихобшуда
+    .title = Илова кардани забони интихобшуда
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Тоза кардани забони «{ $locale }»
+    .title = Тоза кардани забони «{ $locale }»
 choose-button =
     .label = Интихоб кунед ...
     .accesskey = И

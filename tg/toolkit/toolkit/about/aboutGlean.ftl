@@ -165,6 +165,8 @@ about-glean-label-for-filter-metrics = Поло
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Ин амал нишондиҳандаҳои ҷадвали зеринро аз рӯйи категория, ном, навъ ва қимат поло мекунад (агар қимат навъи оддӣ бошад).
 about-glean-button-load-all = Бор кардани ҳамаи қиматҳо
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Содир кардани маълумот
 about-glean-button-load-value = Бор кардан
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Ҳуҷҷатҳо
