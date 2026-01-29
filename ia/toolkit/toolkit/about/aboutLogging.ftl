@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Apprendimento automatic
 about-logging-preset-ml-description = Modulos de registro pro diagnosticar problemas de apprendimento automatic
 about-logging-preset-web-compat-label = Compatibilitate de web
 about-logging-preset-web-compat-description = Modulos de registro pro diagnosticar problemas de compatibilitate de web
+about-logging-preset-navigation = Navigation
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modulos de registration pro diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Graphica

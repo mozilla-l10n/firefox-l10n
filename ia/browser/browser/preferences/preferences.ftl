@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = n
 browser-layout-header2 =
     .label = Disposition del navigator
+browser-layout-horizontal-tabs2 =
+    .label = Schedas horizontal
+    .title = Schedas al summitate
+    .description = Schedas al summitate
+browser-layout-vertical-tabs2 =
+    .label = Schedas vertical
+    .title = Schedas al latere, in le barra lateral
+    .description = Schedas al latere, in le barra lateral
 browser-layout-show-sidebar2 =
     .label = Monstrar barra lateral
     .description = Rapidemente accede marcapaginas, schedas de tu telephono, robots confabulator IA, e altero sin exir de tu vista principal.
@@ -399,6 +407,16 @@ preferences-text-zoom-override-warning =
     .message = ATTENTION: Si tu elige “Facer zoom solo texto” e tu zoom predefinite non es configurate a 100%, isto pote causar que alcun sitos o contento collabe.
 language-header = Lingua
 choose-language-description = Elige tu lingua preferite pro presentar le paginas
+website-language-heading =
+    .label = Lingua del sito web
+    .description = Alcun paginas web es monstrate in plure linguas. Elige linguas in tu ordine preferite.
+website-preferred-language =
+    .label = Linguas preferite
+website-add-language =
+    .label = Adder lingua
+website-add-language-button =
+    .aria-label = Adder lingua selecte
+    .title = Adder lingua selecte
 # The pattern used to generate strings presented to the user in the
 # website languages selection list.
 #
