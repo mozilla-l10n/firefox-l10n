@@ -2223,16 +2223,16 @@ choose-download-folder-title = Selezionare la cartella di download:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = In { -brand-short-name } hai sempre la libertà di scegliere, anche per quanto riguarda l’uso di funzionalità basate sull’IA. A breve saranno disponibili ulteriori controlli.
+preferences-ai-controls-description = In { -brand-short-name } hai sempre la libertà di scegliere, anche per quanto riguarda l’uso di funzionalità basate sull’IA. A breve saranno disponibili altri controlli.
 preferences-ai-controls-block-ai-label = Blocca miglioramenti basati sull’IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Attivando il blocco in { -brand-short-name } non vedrai né miglioramenti basati sull’IA, nuovi o esistenti, né i relativi pop-up. <a data-l10n-name="link">Scopri di più</a> su cosa è incluso e su come gestire le funzionalità basate sul tradizionale “machine learning”, come i suggerimenti di ricerca e le raccomandazioni.
+preferences-ai-controls-block-ai-description = Attivando il blocco in { -brand-short-name } non vedrai funzionalità basate sull’IA, nuove o esistenti, né i relativi messaggi pop-up. <a data-l10n-name="link">Scopri di più</a> su cosa è incluso e su come gestire le funzionalità basate sul tradizionale machine learning, come i suggerimenti di ricerca e le raccomandazioni.
 preferences-ai-controls-blocked-message =
     .message = Per impostazione predefinita, i miglioramenti basati sull’IA nuovi o esistenti sono bloccati. Per attivare una funzione specifica, utilizza i controlli qui sotto.
 preferences-ai-controls-on-device-group =
     .label = IA sul dispositivo
-    .description = Vengono utilizzati modelli IA di dimensioni ridotte che vengono scaricati sul tuo dispositivo quando utilizzi la funzione. In questo modo, la tua privacy viene sempre tutelata.
+    .description = Le funzioni utilizzano modelli IA di dimensioni ridotte, scaricati sul tuo dispositivo nel momento in cui le usi. In questo modo, la tua privacy è sempre tutelata.
 preferences-ai-controls-translations-control =
     .label = Traduzioni
     .description = Naviga senza problemi sul Web nella tua lingua preferita.
@@ -2263,7 +2263,7 @@ preferences-ai-controls-state-blocked =
 preferences-ai-controls-state-description-before = Significato delle opzioni:
 preferences-ai-controls-state-description-available = <strong>Disponibile:</strong> vedrai la funzione e potrai utilizzarla.
 preferences-ai-controls-state-description-enabled = <strong>Attiva:</strong> hai attivato questa funzione.
-preferences-ai-controls-state-description-blocked = <strong>Bloccata:</strong> la funzione non verrà visualizzata e non sarà possibile utilizzarla. Per l’IA sul dispositivo, tutti i modelli già scaricati verranno rimossi.
+preferences-ai-controls-state-description-blocked = <strong>Bloccata:</strong> la funzione non sarà visibile né utilizzabile. Se utilizza IA sul dispositivo, tutti i modelli già scaricati verranno rimossi.
 preferences-ai-controls-block-confirmation-heading = Blocca miglioramenti basati sull’IA?
 preferences-ai-controls-block-confirmation-description = In { -brand-short-name } non vedrai né i miglioramenti basati sull’IA, nuovi o esistenti, né i relativi pop-up. In seguito, potrai sbloccare qualsiasi funzione tu voglia continuare a usare.
 preferences-ai-controls-block-confirmation-features-start = Che cosa verrà bloccato:
