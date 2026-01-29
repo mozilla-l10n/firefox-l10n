@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Maskinlæring
 about-logging-preset-ml-description = Profildataa er registrerte. Vil du lagre eller laste dei opp?
 about-logging-preset-web-compat-label = Webbkompatibilitet
 about-logging-preset-web-compat-description = Loggmodular for å diagnostisere problem med webbkompatibilitet
+about-logging-preset-navigation = Navigasjon
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmodular for å diagnostisere WebGPU-problem
 about-logging-preset-gfx-label = Grafikk
