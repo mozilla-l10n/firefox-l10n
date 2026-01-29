@@ -395,6 +395,28 @@ preferences-text-zoom-override-warning =
     .message = 경고: "글자 크기만 조정"을 선택하고 기본 확대/축소가 100%로 설정되지 않은 경우, 일부 사이트나 콘텐츠가 깨질 수 있습니다.
 language-header = 언어
 choose-language-description = 웹 페이지를 표시할 기본 언어 선택
+website-language-heading =
+    .label = 웹 사이트 언어
+    .description = 일부 웹 페이지는 여러 언어로 표시됩니다. 선호하는 순서대로 언어를 선택하세요.
+website-preferred-language =
+    .label = 선호 언어
+website-add-language =
+    .label = 언어 추가
+website-add-language-button =
+    .aria-label = 선택한 언어 추가
+    .title = 선택한 언어 추가
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } 제거
+    .title = { $locale } 제거
 choose-button =
     .label = 선택…
     .accesskey = o

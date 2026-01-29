@@ -186,6 +186,8 @@ about-glean-label-for-filter-metrics = 필터
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = 분류, 이름, 유형, 값 (단순 형식인 경우)에 따라 아래의 표가 필터링 됩니다.
 about-glean-button-load-all = 모든 값 로드
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = 데이터 내보내기
 about-glean-button-load-value = 로드
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = 문서

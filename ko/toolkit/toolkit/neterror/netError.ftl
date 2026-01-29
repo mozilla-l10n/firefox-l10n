@@ -95,6 +95,7 @@ neterror-file-not-found-moved = 파일이 이동, 이름 변경 또는 삭제되
 neterror-access-denied = 삭제, 이동 또는 권한이 없어서 접근할 수 없습니다.
 neterror-unknown-protocol = 이 주소를 열기 위해서는 다른 소프트웨어를 설치할 필요가 있습니다.
 neterror-redirect-loop = 이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수 있습니다.
+neterror-unknown-socket-type-client-config = 클라이언트의 설정 오류가 원인일 수 있습니다.
 neterror-unknown-socket-type-psm-installed = 시스템에 개인 보안 관리자가 설치 되어 있는지 확인해 보세요.
 neterror-unknown-socket-type-server-config = 서버의 정상적이지 않은 설정 때문일 수도 있습니다.
 neterror-not-cached-intro = 요청하신 문서는 { -brand-short-name } 캐시에서 사용할 수 없습니다.
