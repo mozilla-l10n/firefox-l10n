@@ -700,6 +700,7 @@ newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοπ
 newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+newtab-daily-briefing-card-menu-dismiss = Απόρριψη
 newtab-widget-message-title = Παραμείνετε συγκεντρωμένοι με τις λίστες και την ενσωματωμένη αντίστροφη μέτρηση
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Από γρήγορες υπενθυμίσεις έως καθημερινές υποχρεώσεις, συνεδρίες συγκέντρωσης έως διαλείμματα: επικεντρωθείτε και ολοκληρώστε τις εργασίες σας εγκαίρως.
