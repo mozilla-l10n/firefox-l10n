@@ -238,6 +238,8 @@ containers-remove-cancel-button = Jangan hapus Kontainer ini
 settings-tabs-show-image-in-preview =
     .label = Tampilkan pratinjau gambar saat mengarahkan kursor pada tab
     .accessKey = p
+browser-layout-header2 =
+    .label = Tata Letak Peramban
 browser-layout-header = Tata Letak Peramban
 browser-layout-horizontal-tabs =
     .label = Tab horizontal
@@ -526,6 +528,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -649,6 +654,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -858,6 +869,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1725,3 +1741,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Unduhan
 choose-download-folder-title = Pilih Folder Unduhan:
+
+## AI controls page
+
