@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = V
 browser-layout-header2 =
     .label = Webbläsarlayout
+browser-layout-horizontal-tabs2 =
+    .label = Horisontella flikar
+    .title = Flikar överst
+    .description = Flikar överst
+browser-layout-vertical-tabs2 =
+    .label = Vertikala flikar
+    .title = Flikar på sidan, i sidofältet
+    .description = Flikar på sidan, i sidofältet
 browser-layout-show-sidebar2 =
     .label = Visa sidofält
     .description = Snabb åtkomst till bokmärken, flikar från din telefon, AI-chatbotar och mer utan att lämna huvudvyn.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Varning: Om du väljer "Zooma endast text" och din standardzoom är inte inställd på 100%, kan det orsaka fel på vissa webbplatser eller innehåll.
 language-header = Språk
 choose-language-description = Välj språk som webbsidor ska visas i
+website-language-heading =
+    .label = Webbplatsens språk
+    .description = Vissa webbsidor visas på flera språk. Välj språk i din ordning.
+website-preferred-language =
+    .label = Föredragna språk
+website-add-language =
+    .label = Lägg till språk
+website-add-language-button =
+    .aria-label = Lägg till valt språk
+    .title = Lägg till valt språk
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Ta bort { $locale }
+    .title = Ta bort { $locale }
 choose-button =
     .label = Välj…
     .accesskey = V

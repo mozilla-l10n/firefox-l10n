@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Kontrollera om filen flyttats, fått ett annat n
 neterror-access-denied = Den kan ha tagits bort, flyttats eller så kan filrättigheter hindra tillgång.
 neterror-unknown-protocol = Du kan behöva installera andra program för att öppna den här sidan.
 neterror-redirect-loop = Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.
+neterror-unknown-socket-type-client-config = Detta kan bero på ett konfigurationsfel med din klient.
 neterror-unknown-socket-type-psm-installed = Kontrollera att Personal Security Manager finns installerat på datorn.
 neterror-unknown-socket-type-server-config = Det här kan ibland bero på en ovanlig konfiguration på servern.
 neterror-not-cached-intro = Det efterfrågade dokumentet finns inte längre i { -brand-short-name } cache.

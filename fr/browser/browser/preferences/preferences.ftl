@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = A
 browser-layout-header2 =
     .label = Disposition du navigateur
+browser-layout-horizontal-tabs2 =
+    .label = Onglets horizontaux
+    .title = Onglets en haut
+    .description = Onglets en haut
+browser-layout-vertical-tabs2 =
+    .label = Onglets verticaux
+    .title = Onglets sur le côté, dans la barre latérale
+    .description = Onglets sur le côté, dans la barre latérale
 browser-layout-show-sidebar2 =
     .label = Afficher le panneau latéral
     .description = Accédez rapidement aux marque-pages, aux onglets de votre téléphone, aux chatbots IA et encore plus sans quitter l’affichage principal.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Attention : si vous sélectionnez « Agrandir uniquement le texte » et que votre zoom par défaut n’est pas réglé sur 100 %, certains sites ou contenus peuvent ne pas fonctionner correctement.
 language-header = Langue
 choose-language-description = Choix de la langue préférée pour l’affichage des pages
+website-language-heading =
+    .label = Langue du site web
+    .description = Certaines pages web sont affichées en plusieurs langues. Choisissez les langues dans l’ordre de votre choix.
+website-preferred-language =
+    .label = Langues préférées
+website-add-language =
+    .label = Ajouter une langue
+website-add-language-button =
+    .aria-label = Ajouter la langue sélectionnée
+    .title = Ajouter la langue sélectionnée
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Supprimer { $locale }
+    .title = Supprimer { $locale }
 choose-button =
     .label = Choisir…
     .accesskey = o
