@@ -277,6 +277,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = 瀏覽器版面
+browser-layout-horizontal-tabs2 =
+    .label = 水平分頁標籤
+    .title = 分頁放置於畫面頂端
+    .description = 分頁放置於畫面頂端
+browser-layout-vertical-tabs2 =
+    .label = 垂直分頁標籤
+    .title = 分頁放置於側邊欄
+    .description = 分頁放置於側邊欄
 browser-layout-show-sidebar2 =
     .label = 顯示側邊欄
     .description = 不用離開主畫面就能快速開啟書籤、手機上的分頁、AI 聊天機器人等功能。
@@ -387,6 +395,28 @@ preferences-text-zoom-override-warning =
     .message = 警告：若您選擇「只縮放文字」，但未將預設縮放比例設定為 100%，可能造成某些網站或內容不正常。
 language-header = 語言
 choose-language-description = 請選擇瀏覽支援多國語言的網頁時要優先顯示哪種語言
+website-language-heading =
+    .label = 網站語言
+    .description = 一張網頁有時候會有不同語言的版本，請選擇要顯示的語言版本順序。
+website-preferred-language =
+    .label = 偏好語言
+website-add-language =
+    .label = 新增語言
+website-add-language-button =
+    .aria-label = 新增選擇的語言
+    .title = 新增選擇的語言
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = 移除 { $locale }
+    .title = 移除 { $locale }
 choose-button =
     .label = 選擇…
     .accesskey = o

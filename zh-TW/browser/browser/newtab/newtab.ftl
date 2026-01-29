@@ -478,6 +478,7 @@ newtab-weather-menu-temperature-option-fahrenheit = 華氏
 newtab-weather-menu-temperature-option-celsius = 攝氏
 newtab-weather-menu-change-temperature-units-fahrenheit = 切換為華氏溫度
 newtab-weather-menu-change-temperature-units-celsius = 切換為攝氏溫度
+newtab-weather-menu-hide-weather-v2 = 隱藏天氣資訊
 newtab-weather-menu-hide-weather = 隱藏新分頁的天氣資訊
 newtab-weather-menu-learn-more = 更多資訊
 newtab-weather-menu-detect-my-location = 偵測我的所在位置
@@ -696,6 +697,12 @@ newtab-widget-timer-menu-notifications = 關閉通知
 newtab-widget-timer-menu-notifications-on = 開啟通知
 newtab-widget-timer-menu-hide = 隱藏計時器
 newtab-widget-timer-menu-learn-more = 更多資訊
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = 頭條新聞
+newtab-daily-briefing-card-menu-dismiss = 知道了！
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = { $minutes } 分鐘前更新
 newtab-widget-message-title = 使用清單與內建的計時器，讓您保持專注
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 從快速提醒到每日待辦事項，或是在專注時間之後休息一下伸伸懶腰，讓您及時完成工作。

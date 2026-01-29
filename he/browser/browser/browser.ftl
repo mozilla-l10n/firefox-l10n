@@ -724,6 +724,7 @@ urlbar-result-action-search-in-private = חיפוש בחלון פרטי
 urlbar-result-action-search-w-engine = חיפוש באמצעות { $engine }
 urlbar-result-action-sponsored = ממומן
 urlbar-result-action-switch-tab = מעבר ללשונית
+urlbar-result-action-move-tab-to-split-view = העברת לשונית לתצוגה מפוצלת
 urlbar-result-action-visit = ביקור
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -763,6 +764,8 @@ urlbar-result-action-copy-to-clipboard = העתקה
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = לא מוגדר
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = הרחבה של { -brand-product-name }
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables

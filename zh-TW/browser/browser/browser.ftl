@@ -724,6 +724,7 @@ urlbar-result-action-search-in-private = 用隱私瀏覽視窗搜尋
 urlbar-result-action-search-w-engine = 使用 { $engine } 進行搜尋
 urlbar-result-action-sponsored = 贊助項目
 urlbar-result-action-switch-tab = 切換至該分頁
+urlbar-result-action-move-tab-to-split-view = 將分頁移動到分割畫面
 urlbar-result-action-visit = 前往
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -763,6 +764,8 @@ urlbar-result-action-copy-to-clipboard = 複製
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = 未定義
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } 擴充套件
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables

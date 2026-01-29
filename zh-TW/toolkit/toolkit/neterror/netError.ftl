@@ -95,6 +95,7 @@ neterror-file-not-found-moved = 請檢查檔案是否已被移動、改名或刪
 neterror-access-denied = 可能是檔案被移走、移除，或存取權限不正確，造成無法存取。
 neterror-unknown-protocol = 您可能需要安裝其他軟體才能開啟此網址。
 neterror-redirect-loop = 有時候停用或拒絕接受 Cookie 會造成此問題。
+neterror-unknown-socket-type-client-config = 可能是您的客戶端設定有誤。
 neterror-unknown-socket-type-psm-installed = 請確定電腦已安裝個人安全管理員 (Personal Security Manager)。
 neterror-unknown-socket-type-server-config = 可能是伺服器上的非標準設定所造成的。
 neterror-not-cached-intro = 您所請求的文件已不存在於 { -brand-short-name } 的快取當中。
