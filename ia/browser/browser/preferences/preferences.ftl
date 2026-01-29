@@ -399,6 +399,18 @@ preferences-text-zoom-override-warning =
     .message = ATTENTION: Si tu elige “Facer zoom solo texto” e tu zoom predefinite non es configurate a 100%, isto pote causar que alcun sitos o contento collabe.
 language-header = Lingua
 choose-language-description = Elige tu lingua preferite pro presentar le paginas
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Remover { $locale }
+    .title = Remover { $locale }
 choose-button =
     .label = Eliger…
     .accesskey = E
