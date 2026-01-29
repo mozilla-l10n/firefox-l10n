@@ -698,6 +698,13 @@ newtab-widget-timer-menu-learn-more = מידע נוסף
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = כותרות מובילות
 newtab-daily-briefing-card-menu-dismiss = סגירה
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp =
+    { $minutes ->
+        [one] עודכן לפני דקה אחת
+       *[other] עודכן לפני { $minutes } דקות
+    }
 newtab-widget-message-title = להישאר מרוכז בעזרת רשימות ושעון עצר מובנה
 # to-dos stands for "things to do".
 newtab-widget-message-copy = מתזכורות מהירות ועד למשימות יומיות, מזמני התמקדות ועד להפסקות להתמתחות - כך ניתן להספיק את המשימות בזמן.
