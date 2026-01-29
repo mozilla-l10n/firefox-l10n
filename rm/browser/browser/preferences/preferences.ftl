@@ -284,6 +284,11 @@ containers-remove-cancel-button = Betg allontanar quest container
 settings-tabs-show-image-in-preview =
     .label = Mussar ina prevista grafica cura che la mieur passa sur in tab
     .accessKey = u
+browser-layout-header2 =
+    .label = Layout dal navigatur
+browser-layout-show-sidebar2 =
+    .label = Mussar la trav laterala
+    .description = Acceda directamain als segnapaginas, als tabs da tes telefonin, a chatbots IA e dapli – senza bandunar la vista principala.
 browser-layout-header = Layout dal navigatur
 browser-layout-horizontal-tabs =
     .label = Tabs orizontals
@@ -718,6 +723,9 @@ choose-bookmark =
     .accesskey = l
 home-homepage-header = Pagina iniziala
 
+## Home Section - Home Page Customization
+
+
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagina iniziala persunalisada
@@ -989,6 +997,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1943,3 +1956,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
+
+## AI controls page
+
