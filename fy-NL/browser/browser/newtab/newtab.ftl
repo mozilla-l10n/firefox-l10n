@@ -482,6 +482,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Wikselje nei Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Wikselje nei Celsius
+newtab-weather-menu-hide-weather-v2 = Waar ferstopje
 newtab-weather-menu-hide-weather = It waar op nij ljepblêd ferstopje
 newtab-weather-menu-learn-more = Mear ynfo
 newtab-weather-menu-detect-my-location = Myn lokaasje detektearje
@@ -700,6 +701,12 @@ newtab-widget-timer-menu-notifications = Notifikaasjes útskeakelje
 newtab-widget-timer-menu-notifications-on = Notifikaasjes ynskeakelje
 newtab-widget-timer-menu-hide = Timer ferstopje
 newtab-widget-timer-menu-learn-more = Mear ynfo
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Topberjochten
+newtab-daily-briefing-card-menu-dismiss = Slute
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = { $minutes } min. lyn bywurke
 newtab-widget-message-title = Bliuw fokust mei listen en in ynboude timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fan rappe yn ’t sin bringers oant deistige taken, fokussesjes oant stretchskoft – bliuw by de taak en op tiid.

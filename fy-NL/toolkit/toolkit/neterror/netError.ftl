@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Kontrolearje oft it bestân ferpleatst, omneamd 
 neterror-access-denied = It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.
 neterror-unknown-protocol = Miskien moatte jo oare software ynstallearje om dit adres te iepenjen.
 neterror-redirect-loop = Dit probleem kin somtiden feroarsake wurde troch it útskeakeljen of wegerjen fan cookies.
+neterror-unknown-socket-type-client-config = Dit kin it gefolch wêze fan in konfiguraasjeflater yn jo client.
 neterror-unknown-socket-type-psm-installed = Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem ynstallearre is.
 neterror-unknown-socket-type-server-config = Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de server.
 neterror-not-cached-intro = It opfrege dokumint is net beskikber yn de buffer fan { -brand-short-name }.

@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = w
 browser-layout-header2 =
     .label = Browserindeling
+browser-layout-horizontal-tabs2 =
+    .label = Horizontale tabbladen
+    .title = Tabbladen bovenaan
+    .description = Tabbladen bovenaan
+browser-layout-vertical-tabs2 =
+    .label = Verticale tabbladen
+    .title = Tabbladen aan zijkant, in de zijbalk
+    .description = Tabbladen aan zijkant, in de zijbalk
 browser-layout-show-sidebar2 =
     .label = Zijbalk tonen
     .description = Benader snel bladwijzers, tabbladen van uw telefoon, AI-chatbots en meer zonder uw hoofdvenster te verlaten.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Waarschuwing: als u ‘Alleen tekst zoomen’ selecteert en uw standaardzoom niet is ingesteld op 100%, kan dit ervoor zorgen dat bepaalde websites of inhoud niet goed werken.
 language-header = Taal
 choose-language-description = Talen van uw voorkeur kiezen voor het weergeven van webpagina’s
+website-language-heading =
+    .label = Websitetaal
+    .description = Sommige webpagina’s worden getoond in meerdere talen. Kies talen in de volgorde van uw voorkeur.
+website-preferred-language =
+    .label = Voorkeurstalen
+website-add-language =
+    .label = Taal toevoegen
+website-add-language-button =
+    .aria-label = Geselecteerde taal toevoegen
+    .title = Geselecteerde taal toevoegen
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } verwijderen
+    .title = { $locale } verwijderen
 choose-button =
     .label = Kiezen…
     .accesskey = z

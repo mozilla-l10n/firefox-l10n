@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = w
 browser-layout-header2 =
     .label = Browseryndieling
+browser-layout-horizontal-tabs2 =
+    .label = Horizontale ljepblêden
+    .title = Ljepblêden boppe-oan
+    .description = Ljepblêden boppe-oan
+browser-layout-vertical-tabs2 =
+    .label = Fertikale ljepblêden
+    .title = Ljepblêden oan sydkant, yn de sidebalke
+    .description = Ljepblêden oan sydkant, yn de sidebalke
 browser-layout-show-sidebar2 =
     .label = Sidebalke toane
     .description = Benaderje fluch blêdwizers, ljepblêden fan jo telefoan, AI-chatbots en mear sûnder jo haadfinster te ferlitten.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Warskôging: As jo ‘Allinnich tekst zoome’ selektearje en jo standertzoom is net ynsteld op 100%, kin dit der foar soargje dat bepaalde websites of ynhâld net goed wurkje.
 language-header = Taal
 choose-language-description = Talen kieze dêr’t websites yn werjûn wurde moatte.
+website-language-heading =
+    .label = Websitetaal
+    .description = Guon websiden wurde toand yn meardere talen. Kies talen yn de folchoarder fan jo foarkar.
+website-preferred-language =
+    .label = Foarkarstalen
+website-add-language =
+    .label = Taal tafoegje
+website-add-language-button =
+    .aria-label = Selektearre taal tafoegje
+    .title = Selektearre taal tafoegje
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } fuortsmite?
+    .title = { $locale } fuortsmite?
 choose-button =
     .label = Kieze…
     .accesskey = i
