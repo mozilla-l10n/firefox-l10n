@@ -56,6 +56,7 @@ about-logging-preset-ml-description = Protokollieren Sie Module zur Diagnose von
 about-logging-preset-web-compat-label = Web Compat
 about-logging-preset-web-compat-description = Zu protokollierende Module zur Diagnose von Web-Kompatibilitätsproblemen
 about-logging-preset-navigation = Navigation
+about-logging-preset-navigation-description = Zu protokollierende Module zur Diagnose von Problemen mit der Navigation und der Sitzungschronik
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Zu protokollierende Module zur Diagnose von WebGPU-Problemen
 about-logging-preset-gfx-label = Grafik
