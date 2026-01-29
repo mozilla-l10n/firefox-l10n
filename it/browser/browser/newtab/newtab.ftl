@@ -718,3 +718,4 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
+

@@ -196,3 +196,4 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Prova a cambiare l’URL u
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A volte i siti web proteggono se stessi da interazioni indesiderate con altri siti.
 fp-learn-more-about-https-connections = Ulteriori informazioni sulle connessioni HTTPS
+
