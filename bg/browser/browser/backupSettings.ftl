@@ -64,6 +64,14 @@ turn-off-scheduled-backups-confirm-button = Изключване и изтрив
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-support-link =
+    .message = Какво ще бъде възстановено?
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Разглеждане…
+       *[other] Разглеждане…
+    }
+restore-from-backup-password-label = Парола
 restore-from-backup-cancel-button = Отказ
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
