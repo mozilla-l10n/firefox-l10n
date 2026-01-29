@@ -642,6 +642,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Alternar barra lateral
+pdfjs-toggle-views-manager-notification-button =
+    .title = Alternar barra lateral (el documento contiene miniaturas/esquemas/adjuntos/capas)
 pdfjs-toggle-views-manager-button-label = Alternar barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
