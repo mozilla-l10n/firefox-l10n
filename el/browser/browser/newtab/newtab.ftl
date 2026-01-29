@@ -482,6 +482,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Φαρενάιτ
 newtab-weather-menu-temperature-option-celsius = Κελσίου
 newtab-weather-menu-change-temperature-units-fahrenheit = Εναλλαγή σε Φαρενάιτ
 newtab-weather-menu-change-temperature-units-celsius = Εναλλαγή σε Κελσίου
+newtab-weather-menu-hide-weather-v2 = Απόκρυψη καιρού
 newtab-weather-menu-hide-weather = Απόκρυψη καιρού στη νέα καρτέλα
 newtab-weather-menu-learn-more = Μάθετε περισσότερα
 newtab-weather-menu-detect-my-location = Εντοπισμός τοποθεσίας
@@ -701,6 +702,9 @@ newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοπ�
 newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
 newtab-daily-briefing-card-menu-dismiss = Απόρριψη
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Ενημερώθηκε πριν από { $minutes }λ
 newtab-widget-message-title = Παραμείνετε συγκεντρωμένοι με τις λίστες και την ενσωματωμένη αντίστροφη μέτρηση
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Από γρήγορες υπενθυμίσεις έως καθημερινές υποχρεώσεις, συνεδρίες συγκέντρωσης έως διαλείμματα: επικεντρωθείτε και ολοκληρώστε τις εργασίες σας εγκαίρως.

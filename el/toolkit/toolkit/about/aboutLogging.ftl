@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Μηχανική μάθηση
 about-logging-preset-ml-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων μηχανικής μάθησης
 about-logging-preset-web-compat-label = Συμβατότητα ιστού
 about-logging-preset-web-compat-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων συμβατότητας ιστού
+about-logging-preset-navigation = Πλοήγηση
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων WebGPU
 about-logging-preset-gfx-label = Γραφικά
