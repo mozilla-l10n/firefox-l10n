@@ -295,6 +295,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Wuhotowanje wobhladowaka
+browser-layout-horizontal-tabs2 =
+    .label = Horicontalne rajtarki
+    .title = Rajtarki horjeka
+    .description = Rajtarki horjeka
+browser-layout-vertical-tabs2 =
+    .label = Wertikalne rajtarki
+    .title = Rajtarki na boku, w bóčnicy
+    .description = Rajtarki na boku, w bóčnicy
 browser-layout-show-sidebar2 =
     .label = Bóčnicu pokazać
     .description = Mějće spěšny přistup k zapołožkam, rajtarkam ze swojeho telefona, chatbotam KI a wjace, bjeztoho zo byšće swój hłowny napohlad wopušćił.
@@ -405,6 +413,28 @@ preferences-text-zoom-override-warning =
     .message = Kedźbu: Jeli „Jenož tekst skalěrować“  wuběraće a waše standardne skalěrowanje njeje na 100 % nastajene, móža problemy z někotrymi sydłami abo wobsahom wustupować.
 language-header = Rěč
 choose-language-description = Wubjerće swoju preferowanu rěč za zwobraznjenje stronow
+website-language-heading =
+    .label = Rěč websydła
+    .description = Někotre webstrony so we wjacorych rěčach pokazuja. Wubjerće rěče w swojim preferowanym porjedźe.
+website-preferred-language =
+    .label = Preferowane rěče
+website-add-language =
+    .label = Rěč přidać
+website-add-language-button =
+    .aria-label = Wubranu rěč přidać
+    .title = Wubranu rěč přidać
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } wotstronić
+    .title = { $locale } wotstronić
 choose-button =
     .label = Wubrać…
     .accesskey = u
