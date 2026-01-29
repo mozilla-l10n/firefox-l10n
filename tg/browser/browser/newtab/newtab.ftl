@@ -480,6 +480,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
 newtab-weather-menu-temperature-option-celsius = Селсий
 newtab-weather-menu-change-temperature-units-fahrenheit = Гузариш ба Фаренгейт
 newtab-weather-menu-change-temperature-units-celsius = Гузариш ба Селсий
+newtab-weather-menu-hide-weather-v2 = Пинҳон кардани маълумоти обу ҳаво
 newtab-weather-menu-hide-weather = Нинҳон кардани обу ҳаво дар варақаи нав
 newtab-weather-menu-learn-more = Маълумоти бештар
 newtab-weather-menu-detect-my-location = Ҷойгиршавии маро муайян кунед
@@ -698,6 +699,12 @@ newtab-widget-timer-menu-notifications = Хомӯш кардани огоҳно�
 newtab-widget-timer-menu-notifications-on = Фаъол кардани огоҳномаҳо
 newtab-widget-timer-menu-hide = Пинҳон кардани вақтсанҷ
 newtab-widget-timer-menu-learn-more = Маълумоти бештар
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Сарлавҳаҳои хабарҳои асосӣ
+newtab-daily-briefing-card-menu-dismiss = Нодида гузарондан
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = { $minutes } дақиқа пеш навсозӣ карда шуд
 newtab-widget-message-title = Бо истифода аз рӯйхатҳо ва вақтсанҷи дарунсохт диққати худро нигоҳ доред
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Аз ёдовариҳои фаврӣ то вазифаҳои ҳаррӯза ва аз ҷаласаҳои бодиққат то танаффусҳои бардавом — ҳар гуна вазифаҳоро дар сари вақт иҷро намоед.
