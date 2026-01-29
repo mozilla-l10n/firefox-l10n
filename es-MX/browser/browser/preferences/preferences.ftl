@@ -250,6 +250,11 @@ containers-remove-cancel-button = No eliminar este marcador
 settings-tabs-show-image-in-preview =
     .label = Mostrar una imagen de vista previa cuando pases el cursor sobre una pestaña
     .accessKey = h
+browser-layout-header2 =
+    .label = Disposición del navegador
+browser-layout-show-sidebar2 =
+    .label = Mostrar barra lateral
+    .description = Accede rápidamente a marcadores, pestañas de tu teléfono, chatbots de IA y mucho más sin salir de la vista principal.
 browser-layout-header = Disposición del navegador
 browser-layout-horizontal-tabs =
     .label = Pestañas horizontales
@@ -533,6 +538,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -656,6 +664,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -875,6 +889,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1728,3 +1747,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Selecciona la carpeta de descarga:
+
+## AI controls page
+
