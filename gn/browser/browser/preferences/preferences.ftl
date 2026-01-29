@@ -283,6 +283,8 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 settings-tabs-show-image-in-preview =
     .label = Ehechauka hechaha ypy embohasávo hekaha tendayke ári
     .accessKey = h
+browser-layout-header2 =
+    .label = Kundahára jeporukuaa
 browser-layout-header = Kundahára jeporukuaa
 browser-layout-horizontal-tabs =
     .label = Tendayke ñeno
@@ -2148,3 +2150,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
+
+## AI controls page
+
