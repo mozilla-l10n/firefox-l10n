@@ -2247,9 +2247,17 @@ preferences-ai-controls-key-points-control =
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Fournisseurs de chatbots IA dans le panneau latéral
     .description = Gardez un œil sur un chatbot tout en naviguant. Faites votre choix parmi Anthropic Claude, ChatGPT, Copilot, Google Gemini et Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot dans le panneau latéral
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Activé
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloqué
 preferences-ai-controls-state-description-before = Signification des options :
 preferences-ai-controls-state-description-available = <strong>Disponible :</strong> vous verrez la fonctionnalité et pourrez l’utiliser.
 preferences-ai-controls-state-description-enabled = <strong>Activée :</strong> vous avez choisi d’utiliser cette fonctionnalité.
