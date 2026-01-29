@@ -277,6 +277,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = แ
 browser-layout-header2 =
     .label = เค้าโครงของเบราว์เซอร์
+browser-layout-horizontal-tabs2 =
+    .label = แท็บแนวนอน
+    .title = แท็บด้านบน
+    .description = แท็บด้านบน
+browser-layout-vertical-tabs2 =
+    .label = แท็บแนวตั้ง
+    .title = แท็บด้านข้าง ในแถบด้านข้าง
+    .description = แท็บด้านข้าง ในแถบด้านข้าง
 browser-layout-show-sidebar2 =
     .label = แสดงแถบข้าง
     .description = เข้าถึงที่คั่นหน้า แท็บต่างๆ ได้อย่างรวดเร็วจากโทรศัพท์ บอตสนทนา AI และอื่นๆ ของคุณได้โดยไม่ต้องออกจากมุมมองหลัก
@@ -387,6 +395,28 @@ preferences-text-zoom-override-warning =
     .message = คำเตือน: ถ้าคุณเลือก “ซูมข้อความเท่านั้น” และค่าการซูมเริ่มต้นของคุณไม่ได้ตั้งไว้ที่ 100% ก็อาจจะทำให้ไซต์บางไซต์หรือเนื้อหาบางส่วนใช้งานไม่ได้
 language-header = ภาษา
 choose-language-description = เลือกภาษาที่คุณต้องการในการแสดงผลหน้า
+website-language-heading =
+    .label = ภาษาของเว็บไซต์
+    .description = บางหน้าเว็บแสดงผลได้หลายภาษา โปรดเลือกภาษาตามลำดับที่คุณต้องการ
+website-preferred-language =
+    .label = ภาษาที่ต้องการ
+website-add-language =
+    .label = เพิ่มภาษา
+website-add-language-button =
+    .aria-label = เพิ่มภาษาที่เลือก
+    .title = เพิ่มภาษาที่เลือก
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = เอา { $locale } ออก
+    .title = เอา { $locale } ออก
 choose-button =
     .label = เลือก…
     .accesskey = ล
