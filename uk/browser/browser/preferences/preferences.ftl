@@ -287,6 +287,11 @@ containers-remove-cancel-button = Не вилучати цей контейне�
 settings-tabs-show-image-in-preview =
     .label = Показувати зображення сторінки під час наведення курсора на вкладку
     .accessKey = з
+browser-layout-header2 =
+    .label = Подання браузера
+browser-layout-show-sidebar2 =
+    .label = Показати бічну панель
+    .description = Швидкий доступ до закладок, вкладок з телефона, чат-ботів з ШІ й інших можливостей, не виходячи з основного вікна.
 browser-layout-header = Подання браузера
 browser-layout-horizontal-tabs =
     .label = Горизонтальні вкладки
@@ -1014,6 +1019,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -2008,3 +2018,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
