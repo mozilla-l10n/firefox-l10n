@@ -482,6 +482,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Wisselen naar Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Wisselen naar Celsius
+newtab-weather-menu-hide-weather-v2 = Weer verbergen
 newtab-weather-menu-hide-weather = Weer op nieuw tabblad verbergen
 newtab-weather-menu-learn-more = Meer info
 newtab-weather-menu-detect-my-location = Mijn locatie detecteren
@@ -700,6 +701,12 @@ newtab-widget-timer-menu-notifications = Notificaties uitschakelen
 newtab-widget-timer-menu-notifications-on = Notificaties inschakelen
 newtab-widget-timer-menu-hide = Timer verbergen
 newtab-widget-timer-menu-learn-more = Meer info
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Topberichten
+newtab-daily-briefing-card-menu-dismiss = Sluiten
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = { $minutes } min. geleden bijgewerkt
 newtab-widget-message-title = Blijf gefocust met lijsten en een ingebouwde timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Van snelle herinneringen tot dagelijkse to-do’s, en van focussessies tot lange pauzes – blijf bij de taak en op tijd.
