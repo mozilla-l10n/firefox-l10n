@@ -407,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Ескерту: «Тек мәтінді масштабтау» опциясын таңдасаңыз және үнсіз келісім бойынша масштабтау 100%-ға орнатылмаса, бұл кейбір сайттардың немесе мазмұнның бұзылуына әкелуі мүмкін.
 language-header = Тіл
 choose-language-description = Интернет-беттерді көрсету үшін тілді таңдаңыз
+website-language-heading =
+    .label = Веб-сайт тілі
+    .description = Кейбір веб-беттер бірнеше тілде көрсетіледі. Тілдерді қалаған ретіңіз бойынша таңдаңыз.
+website-preferred-language =
+    .label = Таңдамалы тілдер
+website-add-language =
+    .label = Тілді қосу
+website-add-language-button =
+    .aria-label = Таңдамалы тілді қосу
+    .title = Таңдамалы тілді қосу
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } өшіру
+    .title = { $locale } өшіру
 choose-button =
     .label = Таңдау…
     .accesskey = у
