@@ -726,6 +726,7 @@ urlbar-result-action-search-in-private = Gizli pencerede ara
 urlbar-result-action-search-w-engine = { $engine } ile ara
 urlbar-result-action-sponsored = Sponsorlu
 urlbar-result-action-switch-tab = Sekmeye geç
+urlbar-result-action-move-tab-to-split-view = Sekmeyi ayrık görünüme taşı
 urlbar-result-action-visit = Ziyaret et
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -765,6 +766,8 @@ urlbar-result-action-copy-to-clipboard = Kopyala
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = tanımsız
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } uzantısı
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables

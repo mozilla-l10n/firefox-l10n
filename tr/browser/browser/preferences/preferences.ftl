@@ -399,6 +399,25 @@ preferences-text-zoom-override-warning =
     .message = Uyarı: “Sadece metni yakınlaştır”ı seçerseniz ve varsayılan yakınlaştırmanız %100 olarak ayarlanmazsa bazı siteler ve içerikler düzgün görünmeyebilir.
 language-header = Dil
 choose-language-description = Sayfaları hangi dilde görmeyi tercih ettiğinizi seçin
+website-preferred-language =
+    .label = Tercih edilen diller
+website-add-language =
+    .label = Dil ekle
+website-add-language-button =
+    .aria-label = Seçilen dili ekle
+    .title = Seçilen dili ekle
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } dilini kaldır
+    .title = { $locale } dilini kaldır
 choose-button =
     .label = Seç…
     .accesskey = S

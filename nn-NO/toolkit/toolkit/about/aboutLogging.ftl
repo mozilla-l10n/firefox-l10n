@@ -56,6 +56,7 @@ about-logging-preset-ml-description = Profildataa er registrerte. Vil du lagre e
 about-logging-preset-web-compat-label = Webbkompatibilitet
 about-logging-preset-web-compat-description = Loggmodular for å diagnostisere problem med webbkompatibilitet
 about-logging-preset-navigation = Navigasjon
+about-logging-preset-navigation-description = Loggmodular for å diagnostisere problem med navigasjon og økthistorikk
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmodular for å diagnostisere WebGPU-problem
 about-logging-preset-gfx-label = Grafikk
