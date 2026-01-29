@@ -27,6 +27,7 @@ profiles-rootdir = ספריית השורש
 profiles-localdir = ספרייה מקומית
 profiles-current-profile = זה הפרופיל שבשימוש ולא ניתן למחוק אותו.
 profiles-in-use-profile = פרופיל זה בשימוש ביישום אחר ולכן לא ניתן למחוק אותו.
+profiles-cannot-delete-profile = לא ניתן למחוק פרופיל המקושר לפרופילים אחרים.
 profiles-rename = שינוי שם
 profiles-remove = הסרה
 profiles-set-as-default = הגדרה כפרופיל בררת המחדל
