@@ -123,6 +123,15 @@ tab-context-move-tabs =
            *[other] Move is ischedas
         }
     .accesskey = v
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Imbia a unu dispositivu
+            [one] Imbia s’ischeda a unu dispositivu
+           *[other] Imbia { $tabCount } ischedas a unu dispositivu
+        }
+    .accesskey = I
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

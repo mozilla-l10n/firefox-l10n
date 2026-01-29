@@ -481,6 +481,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
 newtab-weather-menu-temperature-option-celsius = Цельсий
 newtab-weather-menu-change-temperature-units-fahrenheit = Фаренгейтке ауысу
 newtab-weather-menu-change-temperature-units-celsius = Цельсийге ауысу
+newtab-weather-menu-hide-weather-v2 = Ауа райын жасыру
 newtab-weather-menu-hide-weather = Жаңа бетте ауа райын жасыру
 newtab-weather-menu-learn-more = Көбірек білу
 newtab-weather-menu-detect-my-location = Менің орналасуымды анықтау
@@ -699,6 +700,12 @@ newtab-widget-timer-menu-notifications = Хабарламаларды сөнді
 newtab-widget-timer-menu-notifications-on = Хабарламаларды іске қосу
 newtab-widget-timer-menu-hide = Таймерді жасыру
 newtab-widget-timer-menu-learn-more = Көбірек білу
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Басты жаңалықтар
+newtab-daily-briefing-card-menu-dismiss = Елемеу
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = { $minutes } минут бұрын жаңартылды
 newtab-widget-message-title = Тізімдер мен кірістірілген таймер арқылы назарыңызды сақтаңыз
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Жылдам еске салғыштардан күнделікті істер тізіміне дейін, зейін қою сессияларынан бой жазу үзілістеріне дейін — жұмыстан ауытқымай, уақытыңызды тиімді пайдаланыңыз.
