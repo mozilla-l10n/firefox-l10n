@@ -482,6 +482,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Switch to Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Switch to Celsius
+newtab-weather-menu-hide-weather-v2 = Hide weather
 newtab-weather-menu-hide-weather = Hide weather on New Tab
 newtab-weather-menu-learn-more = Learn more
 newtab-weather-menu-detect-my-location = Detect my location
@@ -700,6 +701,12 @@ newtab-widget-timer-menu-notifications = Turn off notifications
 newtab-widget-timer-menu-notifications-on = Turn on notifications
 newtab-widget-timer-menu-hide = Hide timer
 newtab-widget-timer-menu-learn-more = Learn more
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Top Headlines
+newtab-daily-briefing-card-menu-dismiss = Dismiss
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Updated { $minutes }m ago
 newtab-widget-message-title = Stay focused with lists and a built-in timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = From quick reminders to daily to-dos, focus sessions to stretch breaks — stay on task and on time.
