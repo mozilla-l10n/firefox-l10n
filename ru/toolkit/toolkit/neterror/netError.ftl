@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Проверьте, не был ли файл п
 neterror-access-denied = Возможно, что он был удалён или перемещён, или разрешения на файл не дают получить к нему доступ.
 neterror-unknown-protocol = Для открытия данного адреса вам, возможно, понадобится установить стороннее программное обеспечение.
 neterror-redirect-loop = Эта проблема может возникать при отключении или запрещении принятия кук.
+neterror-unknown-socket-type-client-config = Возможно, это произошло из-за ошибки конфигурации вашего клиента.
 neterror-unknown-socket-type-psm-installed = Убедитесь, что в вашей системе установлен «Менеджер личной защиты (PSM)».
 neterror-unknown-socket-type-server-config = Возможно, это произошло из-за нестандартной конфигурации сервера.
 neterror-not-cached-intro = Запрошенный документ недоступен в кеше { -brand-short-name }.

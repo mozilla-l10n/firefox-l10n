@@ -56,6 +56,7 @@ about-logging-preset-ml-description = Модули журнала для диа�
 about-logging-preset-web-compat-label = Веб-совместимость
 about-logging-preset-web-compat-description = Модули журнала для диагностики проблем веб-совместимости
 about-logging-preset-navigation = Навигация
+about-logging-preset-navigation-description = Модули журнала для диагностики проблем с навигацией и историей сессий
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули журнала для диагностики проблем WebGPU
 about-logging-preset-gfx-label = Графика
