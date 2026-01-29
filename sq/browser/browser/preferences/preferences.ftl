@@ -284,6 +284,11 @@ containers-remove-cancel-button = Mos e hiq këtë Kontejner
 settings-tabs-show-image-in-preview =
     .label = Shfaq një paraparje figure, kur kaloni kursorin sipër një skede
     .accessKey = q
+browser-layout-header2 =
+    .label = Skemë Shfletuesi
+browser-layout-show-sidebar2 =
+    .label = Shfaqe anështyllën
+    .description = Hyni shpejt e shpejt te faqerojtësit, skedat, që nga telefoni juaj, robotë IA fjalosjesh, etj, pa u larguar nga pamja kryesore.
 browser-layout-header = Skemë Shfletuesi
 browser-layout-horizontal-tabs =
     .label = Skeda horizontale
@@ -2153,3 +2158,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## AI controls page
+

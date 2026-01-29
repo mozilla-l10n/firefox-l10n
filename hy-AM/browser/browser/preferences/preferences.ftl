@@ -238,6 +238,11 @@ containers-remove-cancel-button = Չհեռացնել այս Պարունակը
 settings-tabs-show-image-in-preview =
     .label = Ցուցադրել նախադիտման նկարը՝ երբ սահում եք ներդիրի վրա
     .accessKey = ս
+browser-layout-header2 =
+    .label = Դիտարկիչի դասավորությունը
+browser-layout-show-sidebar2 =
+    .label = Ցուցադրել կողագոտի
+    .description = Արագորեն մատչեք Ձեր էջանիշերը, ներդիրները հեռապխոսից, ԱԲ չաթ-բոթերը և ավելին՝ առանց լքելու հիմնական տեսքը:
 browser-layout-header = Դիտարկիչի դասավորությունը
 browser-layout-horizontal-tabs =
     .label = Հորիզոնական ներդիրներ
@@ -494,6 +499,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -866,6 +874,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1257,6 +1270,9 @@ sitedata-cookies-exceptions2 =
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
 cookies-site-data-group =
     .label = Cookie-ներ և կայքի տվյալներ
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1660,3 +1676,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+
+## AI controls page
+

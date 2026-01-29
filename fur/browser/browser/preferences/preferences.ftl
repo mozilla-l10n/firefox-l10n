@@ -284,6 +284,11 @@ containers-remove-cancel-button = No sta gjavâ chest contignidôr
 settings-tabs-show-image-in-preview =
     .label = Mostre une imagjin di anteprime cuant che tu passis cul pontadôr sore di une schede
     .accessKey = h
+browser-layout-header2 =
+    .label = Disposizion dal navigadôr
+browser-layout-show-sidebar2 =
+    .label = Mostre la sbare laterâl
+    .description = Rive intun lamp a segnelibris, schedis dal to telefon, chatbots AI e tant altri cence lâ fûr de videade principâl.
 browser-layout-header = Disposizion dal navigadôr
 browser-layout-horizontal-tabs =
     .label = Schedis orizontâls
@@ -2153,3 +2158,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+

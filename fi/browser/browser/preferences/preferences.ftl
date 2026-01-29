@@ -284,6 +284,11 @@ containers-remove-cancel-button = Älä poista eristystilaa
 settings-tabs-show-image-in-preview =
     .label = Näytä kuvan esikatselu, kun siirrät hiiren välilehden päälle
     .accessKey = h
+browser-layout-header2 =
+    .label = Selaimen asettelu
+browser-layout-show-sidebar2 =
+    .label = Näytä sivupalkki
+    .description = Käytä nopeasti kirjanmerkkejä, välilehtiä, AI-chatbotteja ja paljon muuta poistumatta päänäkymästä.
 browser-layout-header = Selaimen asettelu
 browser-layout-horizontal-tabs =
     .label = Vaakasuuntaiset välilehdet
@@ -2157,3 +2162,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Työpöytä
 downloads-folder-name = Lataukset
 choose-download-folder-title = Valitse tallennuskansio
+
+## AI controls page
+

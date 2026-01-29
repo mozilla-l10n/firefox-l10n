@@ -284,6 +284,11 @@ containers-remove-cancel-button = სათავსის დატოვებ
 settings-tabs-show-image-in-preview =
     .label = შეთვალიერების ჩვენება ჩანართზე მაჩვენებლის გადატარებისას
     .accessKey = ტ
+browser-layout-header2 =
+    .label = ბრაუზერის განლაგება
+browser-layout-show-sidebar2 =
+    .label = გვერდითი ზოლის ჩვენება
+    .description = სწრაფი წვდომა სანიშნებთან, ჩანართებთან, AI-თანამოსაუბრესთან და სხვ. მთავარი ფანჯრისგან თვალის მოუცილებლად.
 browser-layout-header = ბრაუზერის განლაგება
 browser-layout-horizontal-tabs =
     .label = თარაზული ჩანართები
@@ -577,6 +582,9 @@ update-in-progress-ok-button = &უარყოფა
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -999,6 +1007,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1989,3 +2002,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
 choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
+
+## AI controls page
+

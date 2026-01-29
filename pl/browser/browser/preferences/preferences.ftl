@@ -287,6 +287,11 @@ containers-remove-cancel-button = Nie usuwaj
 settings-tabs-show-image-in-preview =
     .label = Podgląd po najechaniu kursorem na kartę
     .accessKey = P
+browser-layout-header2 =
+    .label = Układ przeglądarki
+browser-layout-show-sidebar2 =
+    .label = Panel boczny
+    .description = Szybki dostęp do zakładek, kart z telefonu, czatbotów opartych na sztucznej inteligencji i nie tylko bez wychodzenia z głównego okna
 browser-layout-header = Układ przeglądarki
 browser-layout-horizontal-tabs =
     .label = Karty poziome
@@ -2157,3 +2162,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
+
+## AI controls page
+

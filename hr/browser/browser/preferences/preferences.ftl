@@ -287,6 +287,11 @@ containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 settings-tabs-show-image-in-preview =
     .label = Prikaži pregled slike kada prelaziš pokazivačem na kartici
     .accessKey = P
+browser-layout-header2 =
+    .label = Raspored preglednika
+browser-layout-show-sidebar2 =
+    .label = Prikaži bočnu traku
+    .description = Brzo pristupi zabilješkama, karticama s telefona, UI chatbotovima i još mnogo toga bez napuštanja glavnog prikaza.
 browser-layout-header = Raspored preglednika
 browser-layout-horizontal-tabs =
     .label = Vodoravne kartice
@@ -2147,3 +2152,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Radna površina
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite mapu za preuzimanja:
+
+## AI controls page
+

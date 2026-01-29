@@ -252,6 +252,11 @@ containers-remove-cancel-button = Ekki fjarlægja þetta sérefni
 settings-tabs-show-image-in-preview =
     .label = Sýna forskoðun mynda þegar þú lætur bendilinn svífa yfir flipa
     .accessKey = h
+browser-layout-header2 =
+    .label = Framsetning vafra
+browser-layout-show-sidebar2 =
+    .label = Sýna hliðarstiku
+    .description = Fáðu einfaldan aðgang að bókamerkjum, flipum úr símanum þínum, spjallforritum og fleiru án þess að fara úr aðalskjánum þínum.
 browser-layout-header = Framsetning vafra
 browser-layout-horizontal-tabs =
     .label = Láréttir flipar
@@ -540,6 +545,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -663,6 +671,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -878,6 +892,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1776,3 +1795,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## AI controls page
+

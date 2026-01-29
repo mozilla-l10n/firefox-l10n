@@ -289,6 +289,11 @@ containers-remove-cancel-button = Ne odstrani tega vsebnika
 settings-tabs-show-image-in-preview =
     .label = Ob pomiku miškinega kazalca na zavihek prikaži sliko predogleda
     .accessKey = h
+browser-layout-header2 =
+    .label = Postavitev brskalnika
+browser-layout-show-sidebar2 =
+    .label = Prikaži stransko vrstico
+    .description = Hitro dostopajte do zaznamkov in zavihkov na telefonu, do UI-klepetalnikov in še več, ne da bi zapustili svoj glavni pogled.
 browser-layout-header = Postavitev brskalnika
 browser-layout-horizontal-tabs =
     .label = Vodoravni zavihki
@@ -2129,3 +2134,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
+
+## AI controls page
+
