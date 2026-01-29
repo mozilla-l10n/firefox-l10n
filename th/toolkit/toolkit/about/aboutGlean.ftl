@@ -170,6 +170,8 @@ about-glean-label-for-filter-metrics = ตัวกรอง
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = ช่องข้อมูลนี้จะกรองตารางด้านล่างตามหมวดหมู่ ชื่อ ชนิด และค่า (ถ้าค่าเป็นชนิดอย่างง่าย)
 about-glean-button-load-all = โหลดค่าทั้งหมด
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = ส่งออกข้อมูล
 about-glean-button-load-value = โหลด
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = เอกสาร

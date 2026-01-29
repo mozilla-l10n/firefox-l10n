@@ -481,6 +481,7 @@ newtab-weather-menu-temperature-option-fahrenheit = ฟาเรนไฮต์
 newtab-weather-menu-temperature-option-celsius = เซลเซียส
 newtab-weather-menu-change-temperature-units-fahrenheit = เปลี่ยนเป็นฟาเรนไฮต์
 newtab-weather-menu-change-temperature-units-celsius = เปลี่ยนเป็นเซลเซียส
+newtab-weather-menu-hide-weather-v2 = ซ่อนสภาพอากาศ
 newtab-weather-menu-hide-weather = ซ่อนพยากรณ์อากาศในแท็บใหม่
 newtab-weather-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-weather-menu-detect-my-location = ตรวจจับตำแหน่งที่ตั้งของฉัน
@@ -699,6 +700,12 @@ newtab-widget-timer-menu-notifications = ปิดการแจ้งเตื
 newtab-widget-timer-menu-notifications-on = เปิดการแจ้งเตือน
 newtab-widget-timer-menu-hide = ซ่อนตัวจับเวลา
 newtab-widget-timer-menu-learn-more = เรียนรู้เพิ่มเติม
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = ข่าวเด่น
+newtab-daily-briefing-card-menu-dismiss = ยกเลิก
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = อัปเดตเมื่อ { $minutes } นาทีที่แล้ว
 newtab-widget-message-title = มีสมาธิด้วยรายการสิ่งที่ต้องทำและตัวจับเวลาในตัว
 # to-dos stands for "things to do".
 newtab-widget-message-copy = ตั้งแต่เตือนความจำด่วน ๆ ไปจนถึงสิ่งที่ต้องทำในแต่ละวัน ช่วงเวลาโฟกัสไปจนถึงช่วงเวลาพัก ให้คุณอยู่กับงานและตรงเวลาเสมอ

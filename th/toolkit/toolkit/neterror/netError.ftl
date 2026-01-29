@@ -95,6 +95,7 @@ neterror-file-not-found-moved = ตรวจสอบเพื่อดูหา
 neterror-access-denied = ไฟล์อาจถูกเอาออก ย้าย หรือการกำหนดสิทธิ์ของไฟล์อาจป้องกันไม่ให้เข้าถึง
 neterror-unknown-protocol = คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้
 neterror-redirect-loop = ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้
+neterror-unknown-socket-type-client-config = นี่อาจเกิดจากข้อผิดพลาดในการตั้งค่าฝั่งไคลเอ็นต์ของคุณ
 neterror-unknown-socket-type-psm-installed = ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่
 neterror-unknown-socket-type-server-config = สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์
 neterror-not-cached-intro = เอกสารที่ขอไม่มีในแคชของ { -brand-short-name }

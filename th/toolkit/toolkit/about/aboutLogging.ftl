@@ -55,6 +55,7 @@ about-logging-preset-ml-label = การเรียนรู้ของเค
 about-logging-preset-ml-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาการเรียนรู้ของเครื่อง
 about-logging-preset-web-compat-label = Web Compat
 about-logging-preset-web-compat-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาความเข้ากันได้ของเว็บ
+about-logging-preset-navigation = การนำทาง
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebGPU
 about-logging-preset-gfx-label = กราฟิก
