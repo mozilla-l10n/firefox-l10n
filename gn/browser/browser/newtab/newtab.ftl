@@ -338,6 +338,8 @@ newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
 newtab-widget-manage-title = Widgets
+newtab-widget-manage-widget-button =
+    .label = Eñangareko widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Mboty
@@ -465,6 +467,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Eheka tendatee
     .aria-label = Eheka tendatee
 newtab-weather-menu-weather-display = Ára jehechaha
+newtab-weather-todays-forecast = Arareko ko árape g̃uarã
+newtab-weather-see-full-forecast = Ehechapaite arareko
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -477,6 +481,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Eva Fahrenheit ndive
 newtab-weather-menu-change-temperature-units-celsius = Eva Celsius ndive
+newtab-weather-menu-hide-weather-v2 = Eñomi arapytu
 newtab-weather-menu-hide-weather = Eñomi arareko Tendayke Pyahúpe
 newtab-weather-menu-learn-more = Eikuaave
 newtab-weather-menu-detect-my-location = Ehecha che rendaite

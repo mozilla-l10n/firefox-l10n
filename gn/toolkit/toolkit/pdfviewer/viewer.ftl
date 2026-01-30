@@ -632,6 +632,18 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Eheja
 pdfjs-editor-add-comment-button =
     .title = Je’erei mbojuaju
 
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-status-undo-button-label = Mboguevi
+pdfjs-views-manager-status-close-button =
+    .title = Mboty
+pdfjs-views-manager-status-close-button-label = Mboty
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =
