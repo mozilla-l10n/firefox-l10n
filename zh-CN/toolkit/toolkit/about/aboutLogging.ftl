@@ -55,6 +55,7 @@ about-logging-preset-ml-label = 机器学习
 about-logging-preset-ml-description = 用于诊断机器学习问题的日志模块
 about-logging-preset-web-compat-label = Web Compat
 about-logging-preset-web-compat-description = 用于诊断 Web 兼容性问题的日志模块
+about-logging-preset-navigation = 导航
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用于诊断 WebGPU 问题的日志模块
 about-logging-preset-gfx-label = 图形
