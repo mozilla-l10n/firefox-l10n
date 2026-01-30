@@ -185,4 +185,15 @@ migration-wizard-progress-partial-success-extensions = { $matched } ز { $quanti
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } رزم
+       *[other] { $quantity } رزم
+    }
 migration-wizard-progress-success-formdata = ز ویرگار
+migration-wizard-safari-instructions-continue = پسند (رئڌن وا پؽش)
