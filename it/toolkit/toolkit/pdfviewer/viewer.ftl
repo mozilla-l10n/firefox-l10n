@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Testo rimosso
 pdfjs-editor-undo-bar-message-ink = Disegno rimosso
 pdfjs-editor-undo-bar-message-stamp = Immagine rimossa
 pdfjs-editor-undo-bar-message-signature = Firma rimossa
+pdfjs-editor-undo-bar-message-comment = Commento rimosso
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
