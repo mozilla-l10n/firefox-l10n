@@ -403,8 +403,28 @@ preferences-text-zoom-override-warning =
     .message = Προειδοποίηση: Εάν επιλέξετε «Ζουμ μόνο στο κείμενο» και το προεπιλεγμένο ζουμ δεν έχει οριστεί στο 100%, ενδέχεται να προκληθεί δυσλειτουργία σε ορισμένους ιστοτόπους ή περιεχόμενο.
 language-header = Γλώσσα
 choose-language-description = Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση σελίδων
+website-language-heading =
+    .label = Γλώσσα ιστοτόπων
+    .description = Ορισμένες ιστοσελίδες προβάλλονται σε πολλαπλές γλώσσες. Επιλέξτε γλώσσες με τη σειρά προτίμησής σας.
+website-preferred-language =
+    .label = Προτιμώμενες γλώσσες
 website-add-language =
     .label = Προσθήκη γλώσσας
+website-add-language-button =
+    .aria-label = Προσθήκη επιλεγμένης γλώσσας
+    .title = Προσθήκη επιλεγμένης γλώσσας
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Αφαίρεση της γλώσσας «{ $locale }»
+    .title = Αφαίρεση της γλώσσας «{ $locale }»
 choose-button =
     .label = Επιλογή…
     .accesskey = λ
@@ -1002,6 +1022,9 @@ suggestions-addressbar-settings-generic2 = Αλλαγή ρυθμίσεων γι�
 search-suggestions-cant-show = Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το { -brand-short-name } έτσι ώστε να μην διατηρεί ποτέ το ιστορικό.
 search-one-click-header2 = Συντομεύσεις αναζήτησης
 search-one-click-desc = Επιλέξτε τις εναλλακτικές μηχανές αναζήτησης που εμφανίζονται κάτω από τη γραμμή διευθύνσεων και τη γραμμή αναζήτησης όταν αρχίσετε να πληκτρολογείτε μια λέξη-κλειδί.
+search-one-click-header-3 =
+    .label = Πρόσθετες μηχανές αναζήτησης
+    .description = Επιλέξτε ποιες μηχανές αναζήτησης και συντομεύσεις θα εμφανίζονται στη γραμμή διευθύνσεων.
 search-choose-engine-column =
     .label = Μηχανή αναζήτησης
 search-choose-keyword-column =
@@ -1380,6 +1403,10 @@ forms-additional-protections-header =
     .label = Πρόσθετα μέτρα προστασίας
 forms-primary-pw-use =
     .label = Χρήση κύριου κωδικού πρόσβασης
+    .accesskey = Χ
+forms-primary-pw-use-2 =
+    .label = Χρήση κύριου κωδικού πρόσβασης
+    .description = Προσθέτει ένα επιπλέον επίπεδο ασφαλείας για την προστασία των αποθηκευμένων κωδικών πρόσβασής σας.
     .accesskey = Χ
 forms-primary-pw-set =
     .label = Ορισμός κύριου κωδικού πρόσβασης
@@ -2015,6 +2042,8 @@ collection-studies-description = Δοκιμάστε λειτουργίες κα�
 collection-studies =
     .label = Να επιτρέπεται στο { -brand-short-name } να εγκαθιστά και να εκτελεί μελέτες
 collection-studies-link = Προβολή μελετών του { -brand-short-name }
+nimbus-rollouts-enabled =
+    .label = Να επιτρέπεται στο { -brand-short-name } η βελτίωση των δυνατοτήτων, των επιδόσεων και της σταθερότητας μεταξύ των ενημερώσεων
 nimbus-rollouts-enabled-description = Οι αλλαγές θα εφαρμόζονται απομακρυσμένα.
 addon-recommendations2 =
     .label = Να επιτρέπονται εξατομικευμένες προτάσεις επεκτάσεων
@@ -2190,9 +2219,19 @@ choose-download-folder-title = Επιλογή φακέλου λήψεων:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Αποκλεισμός βελτιώσεων ΤΝ
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-control =
+    .label = Μεταφράσεις
+    .description = Περιηγηθείτε απρόσκοπτα στο διαδίκτυο, στην προτιμώμενη γλώσσα σας.
 preferences-ai-controls-translations-more-link = Περισσότερες ρυθμίσεις μεταφράσεων
+preferences-ai-controls-pdfjs-control =
+    .label = Εναλλακτικό κείμενο εικόνας στο εργαλείο προβολής PDF του { -brand-short-name }
+    .description = Όταν προσθέτετε εικόνες σε αρχεία PDF, αυτή η επιλογή προσθέτει περιγραφές για λόγους προσβασιμότητας.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Προτάσεις ομάδων καρτελών
+    .description = Λάβετε προτάσεις για την ονομασία και την οργάνωση των καρτελών σας.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot στην πλαϊνή γραμμή
 # This option means that a user will see the feature and can use it.
@@ -2202,6 +2241,7 @@ preferences-ai-controls-state-available =
 preferences-ai-controls-state-enabled =
     .label = Ενεργό
 preferences-ai-controls-state-description-before = Τι σημαίνουν οι επιλογές:
+preferences-ai-controls-state-description-available = <strong>Διαθέσιμο:</strong> Θα βλέπετε τη λειτουργία και θα μπορείτε να τη χρησιμοποιήσετε.
 preferences-ai-controls-block-confirmation-translations = Μεταφράσεις
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Προτάσεις ομάδων καρτελών
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Πάροχοι chatbot στην πλαϊνή γραμμή

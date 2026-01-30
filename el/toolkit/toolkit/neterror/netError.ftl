@@ -46,6 +46,9 @@ neterror-load-error-firewall = Αν ο υπολογιστής ή το δίκτυ
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Εάν προσπαθείτε να φορτώσετε μια σελίδα τοπικού δικτύου, ελέγξτε αν έχουν χορηγηθεί στο { -brand-short-name } δικαιώματα τοπικού δικτύου από τις ρυθμίσεις απορρήτου και ασφάλειας του macOS.
 neterror-http-error-page = Ελέγξτε αν έχετε πληκτρολογήσει σωστά τη διεύθυνση του ιστοτόπου.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = Το { $hostname } επέστρεψε κενή σελίδα.
 neterror-captive-portal = Πρέπει να συνδεθείτε σε αυτό το δίκτυο πριν μπορέσετε να αποκτήσετε πρόσβαση στο διαδίκτυο.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
