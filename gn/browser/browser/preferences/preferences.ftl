@@ -2195,3 +2195,22 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-on-device-group =
     .label = IA mba’e’okápe
     .description = Oiporu IA michĩvéva oñemboguejýva ne mba’e’okápe eiporúvo tembiapoite. Ko jehechapy oipytyvõ omo’ãvo nde rekoñemi.
+preferences-ai-controls-translations-control =
+    .label = Moñe’ẽasa
+    .description = Eikundaha apañuai’ỹre ñandutípe ne ñe’ẽ eiporuvévape.
+preferences-ai-controls-translations-more-link = Emoĩporãve moñe’ẽasaita
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Ojeporukuaáva
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Myandypyre
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Jokopyre
+preferences-ai-controls-state-description-before = Mba’e he’ise umi jeporavoha:
+preferences-ai-controls-block-confirmation-translations = Ñemoñe’ẽasa
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Heja
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Joko
