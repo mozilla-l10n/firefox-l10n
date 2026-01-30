@@ -133,6 +133,7 @@ place-database-stats-efficiency-perc = Hiệu quả (%)
 place-database-stats-sequentiality-perc = Tuần tự (%)
 place-database-integrity = Tính toàn vẹn
 place-database-verify-integrity = Xác nhận tính toàn vẹn
+place-database-last-idle-maintenance-data = Ngày bảo trì không hoạt động gần đây nhất
 a11y-title = Trợ năng
 a11y-activated = Được kích hoạt
 a11y-force-disabled = Ngăn các tùy chọn về trợ năng
