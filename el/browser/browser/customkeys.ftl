@@ -8,7 +8,7 @@ customkeys-change = Αλλαγή
 customkeys-reset = Επαναφορά
 customkeys-clear = Απαλοιφή
 customkeys-new-key = Πατήστε νέο πλήκτρο:
-customkeys-reset-all = Επαναφορά όλων των συντομεύσεων στις προεπιλογές
+customkeys-reset-all = Επαναφορά όλων των προεπιλεγμένων συντομεύσεων
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Αυτό το πλήκτρο έχει ήδη ανατεθεί στην ενέργεια «{ $conflict }». Θέλετε να γίνει αντικατάσταση;
