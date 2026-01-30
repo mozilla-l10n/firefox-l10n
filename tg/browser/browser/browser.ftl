@@ -724,6 +724,7 @@ urlbar-result-action-search-in-private = Ҷустуҷӯ дар равзанаи 
 urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engine }
 urlbar-result-action-sponsored = Сарпарастӣ
 urlbar-result-action-switch-tab = Ба варақа гузаштан
+urlbar-result-action-move-tab-to-split-view = Ҷойгиркунии варақа дар намоиши тақсимшуда
 urlbar-result-action-visit = Боздид
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
