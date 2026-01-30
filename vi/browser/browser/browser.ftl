@@ -720,6 +720,7 @@ urlbar-result-action-search-in-private = Tìm kiếm trong cửa sổ riêng tư
 urlbar-result-action-search-w-engine = Tìm với { $engine }
 urlbar-result-action-sponsored = Được tài trợ
 urlbar-result-action-switch-tab = Chuyển sang thẻ
+urlbar-result-action-move-tab-to-split-view = Di chuyển thẻ sang chế độ chia cửa sổ
 urlbar-result-action-visit = Truy cập
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -759,6 +760,8 @@ urlbar-result-action-copy-to-clipboard = Sao chép
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = không xác định
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Tiện ích { -brand-product-name }
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables

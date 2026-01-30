@@ -277,6 +277,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Bố cục trình duyệt
+browser-layout-horizontal-tabs2 =
+    .label = Thẻ ngang
+    .title = Các thẻ ở trên cùng
+    .description = Các thẻ ở trên cùng
+browser-layout-vertical-tabs2 =
+    .label = Thẻ dọc
+    .title = Các thẻ ở bên cạnh, trong thanh lề
+    .description = Các thẻ ở bên cạnh, trong thanh lề
 browser-layout-show-sidebar2 =
     .label = Hiển thị thanh lề
     .description = Nhanh chóng truy cập dấu trang, thẻ từ điện thoại của bạn, chatbot AI và nhiều hơn nữa mà không rời khỏi chế độ xem chính của bạn.
@@ -387,6 +395,28 @@ preferences-text-zoom-override-warning =
     .message = Cảnh báo: Nếu bạn chọn “Chỉ phóng to văn bản” và thu phóng mặc định của bạn không được đặt thành 100%, nó có thể khiến một số trang web hoặc nội dung bị hỏng.
 language-header = Ngôn ngữ
 choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hiển thị trang
+website-language-heading =
+    .label = Ngôn ngữ trang web
+    .description = Một số trang web được hiển thị bằng nhiều ngôn ngữ. Hãy chọn ngôn ngữ theo thứ tự bạn muốn.
+website-preferred-language =
+    .label = Ngôn ngữ ưu tiên
+website-add-language =
+    .label = Thêm ngôn ngữ
+website-add-language-button =
+    .aria-label = Thêm ngôn ngữ đã chọn
+    .title = Thêm ngôn ngữ đã chọn
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Xoá { $locale }
+    .title = Xoá { $locale }
 choose-button =
     .label = Chọn…
     .accesskey = C

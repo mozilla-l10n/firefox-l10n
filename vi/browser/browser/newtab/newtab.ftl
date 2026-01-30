@@ -481,6 +481,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Độ F
 newtab-weather-menu-temperature-option-celsius = Độ C
 newtab-weather-menu-change-temperature-units-fahrenheit = Chuyển sang độ F
 newtab-weather-menu-change-temperature-units-celsius = Chuyển sang độ C
+newtab-weather-menu-hide-weather-v2 = Ẩn thời tiết
 newtab-weather-menu-hide-weather = Ẩn thời tiết trên thẻ mới
 newtab-weather-menu-learn-more = Tìm hiểu thêm
 newtab-weather-menu-detect-my-location = Phát hiện vị trí của tôi
@@ -699,6 +700,12 @@ newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
 newtab-widget-timer-menu-hide = Ẩn bộ hẹn giờ
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Tin tức nổi bật
+newtab-daily-briefing-card-menu-dismiss = Bỏ qua
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Đã cập nhật { $minutes } phút trước
 newtab-widget-message-title = Giữ tập trung với danh sách và bộ đếm thời gian tích hợp
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Từ những lời nhắc nhở nhanh đến những việc cần làm hàng ngày, các buổi tập trung đến những giờ nghỉ giải lao — hãy tập trung vào nhiệm vụ và đúng giờ.
