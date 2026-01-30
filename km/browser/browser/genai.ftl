@@ -54,3 +54,8 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = សួរ { $provider }
+
+## Model Optin Component
+
+genai-model-optin-optout =
+    .label = បោះបង់

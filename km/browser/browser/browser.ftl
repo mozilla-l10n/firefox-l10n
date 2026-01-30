@@ -421,3 +421,7 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = បង្ហាញ '{ $popupURI }'
+
+## The urlbar trust icon & panel
+
+trustpanel-clear-cookies-subview-button-cancel = បោះបង់

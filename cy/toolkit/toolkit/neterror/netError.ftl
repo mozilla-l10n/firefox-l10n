@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Gwiriwch i weld os yw'r ffeil wedi symud, ailenw
 neterror-access-denied = Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffeiliau yn rhwystro mynediad.
 neterror-unknown-protocol = Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.
 neterror-redirect-loop = Gall y broblem yma fod wedi ei hachosi drwy analluogi neu wrthod cwci.
+neterror-unknown-socket-type-client-config = Galla hyn fod oherwydd gwall ffurfweddu gyda'ch rhaglen.
 neterror-unknown-socket-type-psm-installed = Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.
 neterror-unknown-socket-type-server-config = Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.
 neterror-not-cached-intro = Nid yw'r ddogfen gofynnwyd amdani ar gael yn storfa dros dro { -brand-short-name }.

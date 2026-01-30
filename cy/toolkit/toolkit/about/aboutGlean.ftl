@@ -187,6 +187,8 @@ about-glean-label-for-filter-metrics = Hidl
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Bydd hyn yn hidlo'r tabl isod yn seiliedig ar gategori, enw, math, a gwerth (os yw'r gwerth yn fath syml).
 about-glean-button-load-all = Llwytho Pob Gwerth
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Allforio Data
 about-glean-button-load-value = Llwytho
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dogfennau
