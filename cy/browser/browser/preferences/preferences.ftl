@@ -419,6 +419,28 @@ preferences-text-zoom-override-warning =
     .message = Rhybudd: Os fyddwch yn dewis “Chwyddo testun yn unig” ac nad yw'ch chwyddo rhagosodedig wedi'i osod i 100%, gall achosi i rai gwefannau neu gynnwys dorri.
 language-header = Iaith
 choose-language-description = Dewiswch eich dewis o iaith i ddangos tudalennau
+website-language-heading =
+    .label = Iaith gwefan
+    .description = Mae rhai gwefannau'n cael eu dangos mewn nifer o ieithoedd. Dewiswch ieithoedd yn ôl eich dewis.
+website-preferred-language =
+    .label = Dewi iaith
+website-add-language =
+    .label = Ychwanegu Iaith
+website-add-language-button =
+    .aria-label = Ychwanegu iaith a ddewiswyd
+    .title = Ychwanegu iaith a ddewiswyd
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Tynnu { $name }?
+    .title = Tynnu { $name }?
 choose-button =
     .label = Dewis…
     .accesskey = D
@@ -2259,6 +2281,7 @@ preferences-ai-controls-state-description-available = <strong>Ar gael:</strong> 
 preferences-ai-controls-state-description-enabled = <strong>Galluogwyd:</strong> Wedi dewis defnyddio'r nodwedd.
 preferences-ai-controls-state-description-blocked = <strong>Rhwystrwyd:</strong> Fyddwch chi ddim yn gweld nac yn gallu defnyddio'r nodwedd. Pan fydd AI ar y ddyfais, mae unrhyw fodelau sydd eisoes wedi'u llwytho i lawr yn cael eu dileu.
 preferences-ai-controls-block-confirmation-heading = Rhwystro nodweddion AI?
+preferences-ai-controls-block-confirmation-description = Fyddwch chi ddim yn gweld nodweddion AI cyfredol na newydd yn { -brand-short-name }, na llamlenni amdanyn nhw. Wedi hynny, gallwch agor unrhyw beth rydych chi am barhau i'w ddefnyddio.
 preferences-ai-controls-block-confirmation-features-start = Beth fydd yn cael ei rwystro:
 preferences-ai-controls-block-confirmation-translations = Cyfieithu
 preferences-ai-controls-block-confirmation-pdfjs = Testun amgen delwedd yn narllenydd PDF { -brand-short-name }
