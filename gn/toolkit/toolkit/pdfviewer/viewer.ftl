@@ -639,6 +639,36 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button-label = Emoambue tenda yke
+pdfjs-views-manager-sidebar =
+    .aria-label = Ta’ãngarupa yke
+pdfjs-views-manager-view-selector-button =
+    .title = Hechaha
+pdfjs-views-manager-view-selector-button-label = Hechaha
+pdfjs-views-manager-pages-title = Kuatiarogue
+pdfjs-views-manager-outlines-title = Kuatiaite jejapopy
+pdfjs-views-manager-attachments-title = Moirũha
+pdfjs-views-manager-layers-title = Ñuãha
+pdfjs-views-manager-pages-option-label = Kuatiarogueita
+pdfjs-views-manager-outlines-option-label = Kuatiaite jejapopy
+pdfjs-views-manager-attachments-option-label = Moirũhaita
+pdfjs-views-manager-layers-option-label = Ñuãhaita
+pdfjs-views-manager-add-file-button =
+    .title = Embojuaju marandurenda
+pdfjs-views-manager-add-file-button-label = Embojuaju marandurenda
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } poravopyre
+       *[other] { $count } poravopyre
+    }
+pdfjs-views-manager-pages-status-none-action-label = Eiporavo kuatiarogue
+pdfjs-views-manager-pages-status-action-button-label = Ñangareko
+pdfjs-views-manager-pages-status-copy-button-label = Monguatia
+pdfjs-views-manager-pages-status-cut-button-label = Kytĩ
+pdfjs-views-manager-pages-status-delete-button-label = Mboguete
+pdfjs-views-manager-pages-status-save-as-button-label = Ñongatu pyahu…
 pdfjs-views-manager-status-undo-button-label = Mboguevi
 pdfjs-views-manager-status-close-button =
     .title = Mboty

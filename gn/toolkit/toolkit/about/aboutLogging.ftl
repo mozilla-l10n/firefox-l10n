@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Kuaarã Ijeheguíva
 about-logging-preset-ml-description = Mboheraguapy ra’ãha ehecha hag̃ua kuaarã ijeheguíva apañuái
 about-logging-preset-web-compat-label = Ñandutirogue jokupyty
 about-logging-preset-web-compat-description = Mboheraguapy ra’ãha ehecha hag̃ua apañuái ñanduti rehegua
+about-logging-preset-navigation = Ñeikundaha
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuái
 about-logging-preset-gfx-label = Ta’ãnga
