@@ -487,6 +487,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Newid i Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Newid i Celsius
+newtab-weather-menu-hide-weather-v2 = Cuddio'r tywydd
 newtab-weather-menu-hide-weather = Cuddio'r tywydd ar Dab Newydd
 newtab-weather-menu-learn-more = Rhagor
 newtab-weather-menu-detect-my-location = Canfod fy lleoliad
@@ -705,6 +706,12 @@ newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
 newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
 newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Prif Benawdau
+newtab-daily-briefing-card-menu-dismiss = Cau
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Diweddarwyd { $munud }m yn ôl
 newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.
