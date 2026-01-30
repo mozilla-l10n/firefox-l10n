@@ -477,6 +477,7 @@ newtab-weather-menu-temperature-option-fahrenheit = 华氏度
 newtab-weather-menu-temperature-option-celsius = 摄氏度
 newtab-weather-menu-change-temperature-units-fahrenheit = 切换为华氏度
 newtab-weather-menu-change-temperature-units-celsius = 切换为摄氏度
+newtab-weather-menu-hide-weather-v2 = 隐藏天气
 newtab-weather-menu-hide-weather = 隐藏新标签页上的天气信息
 newtab-weather-menu-learn-more = 详细了解
 newtab-weather-menu-detect-my-location = 检测我的位置
@@ -695,6 +696,7 @@ newtab-widget-timer-menu-notifications = 关闭通知
 newtab-widget-timer-menu-notifications-on = 开启通知
 newtab-widget-timer-menu-hide = 隐藏计时器
 newtab-widget-timer-menu-learn-more = 详细了解
+newtab-daily-briefing-card-menu-dismiss = 知道了
 newtab-widget-message-title = 借助清单和内置计时器，聚焦重点、保持专注。
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 从快捷提醒到日常待办，从专注时段到放松片刻，既能帮您管理任务，又可助您把握时间。

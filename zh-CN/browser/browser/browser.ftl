@@ -759,6 +759,8 @@ urlbar-result-action-copy-to-clipboard = 复制
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = 未定义
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } 扩展
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
