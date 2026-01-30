@@ -1480,7 +1480,7 @@ trustpanel-description-enabled2 = Vous êtes protégé·e. Si nous remarquons qu
 trustpanel-header-enabled-insecure = Faites attention sur ce site
 trustpanel-description-enabled-insecure = { -brand-product-name } a remarqué quelque chose de suspect.
 trustpanel-header-disabled = Vous avez désactivé les protections
-trustpanel-description-disabled = { -brand-product-name } n’est pas en service. Nous vous suggérons de réactiver les protections.
+trustpanel-description-disabled = { -brand-product-name } ne monte pas la garde. Nous vous suggérons de réactiver les protections.
 trustpanel-clear-cookies-button = Effacer les cookies et les données de sites
 trustpanel-privacy-link = Paramètres de vie privée
 # Variables
