@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Disposición del navegador
+browser-layout-horizontal-tabs2 =
+    .label = Pestañas horizontales
+    .title = Pestañas en la parte superior
+    .description = Pestañas en la parte superior
+browser-layout-vertical-tabs2 =
+    .label = Pestañas verticales
+    .title = Pestañas en la parte lateral, en la barra lateral
+    .description = Pestañas en la parte lateral, en la barra lateral
 browser-layout-show-sidebar2 =
     .label = Mostrar barra lateral
     .description = Accede rápidamente a marcadores, pestañas de tu teléfono, chatbots de IA y más sin salir de la vista principal.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Advertencia: si seleccionas "Ampliar solo texto" y tu aumento predeterminado no está configurado en 100%, podría ser que algunos sitios o contenidos fallen.
 language-header = Idioma
 choose-language-description = Elige tu idioma preferido para mostrar páginas Web.
+website-language-heading =
+    .label = Idioma del sitio web
+    .description = Algunas páginas web son mostradas en múltiples idiomas. Elige los idiomas en tu orden preferido.
+website-preferred-language =
+    .label = Idiomas preferidos
+website-add-language =
+    .label = Añadir idioma
+website-add-language-button =
+    .aria-label = Añadir idioma seleccionado
+    .title = Añadir idioma seleccionado
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Eliminar { $locale }
+    .title = Eliminar { $locale }
 choose-button =
     .label = Elegir…
     .accesskey = o
