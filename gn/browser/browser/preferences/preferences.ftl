@@ -1475,6 +1475,10 @@ payments-list-item-label = <strong>Mba’éicha ehepyme’ẽta</strong>
 payments-delete-payment-prompt-title = ¿Eipe’a mba’éichapa ehepyme’ẽta?
 payments-delete-payment-prompt-confirm-button = Mboguete
 payments-delete-payment-prompt-cancel-button = Eheja
+payments-delete-payment-button-label =
+    .aria-label = Mboguete
+payments-edit-payment-button-label =
+    .aria-label = Mbosako’i
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ndaipóri mba’éicha ehepyme’ẽta
@@ -2111,6 +2115,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = HTTPS año ayvu
     .description = Omoneĩ jeike tekorosãme añoite ñanduti roguépe. { -brand-short-name } oporandúta eike mboyve tekorosã’ỹme.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2178,3 +2184,14 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Iporãve IA jejokorãme
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-on-device-group =
+    .label = IA mba’e’okápe
+    .description = Oiporu IA michĩvéva oñemboguejýva ne mba’e’okápe eiporúvo tembiapoite. Ko jehechapy oipytyvõ omo’ãvo nde rekoñemi.
