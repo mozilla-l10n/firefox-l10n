@@ -681,6 +681,8 @@ urlbar-result-action-copy-to-clipboard = لف گیری
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = تعریف نوابیڌه
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } وردنی
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -754,6 +756,16 @@ urlbar-result-aria-group-market =
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · من { $daysUntilStart } رۊز
+       *[other] { $name } · من { $daysUntilStart } رۊز
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
