@@ -7,3 +7,4 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-button-cancel-recording = បោះបង់ការថត

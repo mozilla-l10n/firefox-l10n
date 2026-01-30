@@ -9,3 +9,6 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-view-cancel = បោះបង់
+protections-panel-cookie-banner-view-cancel-label =
+    .label = បោះបង់

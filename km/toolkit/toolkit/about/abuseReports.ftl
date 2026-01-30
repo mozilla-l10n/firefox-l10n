@@ -5,4 +5,5 @@
 
 ## Panel buttons.
 
+abuse-report-cancel-button = បោះបង់
 abuse-report-goback-button = ថយ​ក្រោយ

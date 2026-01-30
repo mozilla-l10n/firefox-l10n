@@ -59,3 +59,5 @@ genai-input-ask-provider =
 
 genai-model-optin-optout =
     .label = បោះបង់
+genai-model-optin-cancel =
+    .label = បោះបង់

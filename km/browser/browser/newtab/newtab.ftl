@@ -151,3 +151,11 @@ newtab-pocket-cta-button = ទាញយក { -pocket-brand-name }
 
 newtab-error-fallback-info = អូ មានអ្វីមួយខុសប្រក្រតីក្នុងការផ្ទុក​ខ្លឹមសារ​នេះ។
 newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវិញ ដើម្បីព្យាយាមម្ដងទៀត។
+
+## Topic Selection Modal
+
+newtab-topic-selection-cancel-button = បោះបង់
+
+## Strings for reporting issues with ads and content
+
+newtab-report-cancel = បោះបង់

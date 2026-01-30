@@ -37,3 +37,4 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] ឯកសារ TSV
        *[other] ឯកសារ TSV
     }
+migration-cancel-button-label = បោះបង់

@@ -5,6 +5,8 @@
 screenshots-cancel-button = បោះបង់
 screenshots-download-button = ទាញយក
 screenshots-copy-button = ចម្លង
+screenshots-cancel-button-title =
+    .title = បោះបង់
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

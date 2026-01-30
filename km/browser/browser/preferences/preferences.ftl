@@ -144,6 +144,8 @@ translate-attribution = ការ​បកប្រែ​ដោយ <img data-l10
 translate-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = x
+settings-translations-subpage-download-cancel-button =
+    .label = បោះបង់
 check-user-spelling =
     .label = ពិនិត្យ​​អក្ខរាវិរុទ្ធ​ពេល​វាយ
     .accesskey = t
@@ -584,6 +586,12 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
+## Privacy section - Autofill
+
+payments-delete-payment-prompt-cancel-button = បោះបង់
+payments-remove-payment-prompt-cancel-button = បោះបង់
+addresses-delete-address-prompt-cancel-button = បោះបង់
+
 ## Privacy Section - History
 
 history-header = ប្រវត្តិ
@@ -803,3 +811,8 @@ certs-devices-enable-fips = បើក FIPS
 desktop-folder-name = ផ្ទៃតុ
 downloads-folder-name = ទាញ​យក
 choose-download-folder-title = ជ្រើស​ថត​ទាញ​យក ៖
+
+## AI controls page
+
+preferences-ai-controls-block-confirmation-cancel =
+    .label = បោះបង់
