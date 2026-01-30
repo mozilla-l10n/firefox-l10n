@@ -149,6 +149,11 @@ addon-install-from-file-filter-name = កម្មវិធី​បន្ថែ
 addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែក​បន្ថែម
     .accesskey = B
 
+## Extension shortcut management
+
+header-back-button =
+    .title = ថយ​ក្រោយ
+
 ## Page headings
 
 addon-page-options-button =

@@ -2225,9 +2225,9 @@ preferences-ai-controls-description = Vous avez toujours le choix avec { -brand-
 preferences-ai-controls-block-ai-label = Bloquer les améliorations ayant recours à l’IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Le blocage signifie que vous ne verrez pas les améliorations nouvelles ou actuelles de l’IA dans { -brand-short-name }, ni de popups les concernant. <a data-l10n-name="link">Obtenez plus de détails</a> sur ce qui est inclus et comment contrôler les fonctionnalités d’apprentissage automatique traditionnelles, comme les suggestions de recherche et les recommandations.
+preferences-ai-controls-block-ai-description = Activer le blocage implique que vous ne verrez pas les améliorations par IA (nouvelles ou existantes) dans { -brand-short-name }, ni les popups qui s’y rapportent. <a data-l10n-name="link">Obtenez plus de détails</a> sur ce qui est inclus et sur la façon de gérer les fonctionnalités classiques d’apprentissage automatique, telles que les suggestions de recherche et les recommandations.
 preferences-ai-controls-blocked-message =
-    .message = Les améliorations nouvelles et actuelles de l’IA sont bloquées par défaut. Pour débloquer une fonctionnalité spécifique, utilisez les contrôles ci-dessous.
+    .message = Les améliorations par IA nouvelles et existantes sont bloquées par défaut. Pour débloquer une fonctionnalité spécifique, utilisez les contrôles ci-dessous.
 preferences-ai-controls-on-device-group =
     .label = IA sur l’appareil
     .description = Ces fonctionnalités utilisent de petites modèles d’IA qui se téléchargent sur votre appareil si vous les utilisez. Cette approche contribue à protéger votre vie privée.
@@ -2259,9 +2259,9 @@ preferences-ai-controls-state-enabled =
 preferences-ai-controls-state-blocked =
     .label = Bloqué
 preferences-ai-controls-state-description-before = Signification des options :
-preferences-ai-controls-state-description-available = <strong>Disponible :</strong> vous verrez la fonctionnalité et pourrez l’utiliser.
-preferences-ai-controls-state-description-enabled = <strong>Activée :</strong> vous avez choisi d’utiliser cette fonctionnalité.
-preferences-ai-controls-state-description-blocked = <strong>Bloqué :</strong> vous ne verrez pas et ne pouvez pas utiliser cette fonctionnalité. Pour l’IA sur l’appareil, tous les modèles déjà téléchargés sont supprimés.
+preferences-ai-controls-state-description-available = <strong>Disponible :</strong> vous pouvez voir la fonctionnalité et l’utiliser.
+preferences-ai-controls-state-description-enabled = <strong>Activée :</strong> vous avez choisi d’activer cette fonctionnalité.
+preferences-ai-controls-state-description-blocked = <strong>Bloquée :</strong> vous ne voyez pas et ne pouvez pas utiliser cette fonctionnalité. Pour l’IA sur l’appareil, tous les modèles déjà téléchargés sont supprimés.
 preferences-ai-controls-block-confirmation-heading = Bloquer les améliorations ayant recours à l’IA ?
 preferences-ai-controls-block-confirmation-description = Vous ne verrez pas d’améliorations nouvelles ou actuelles pour { -brand-short-name }, ni de fenêtres popup les concernant. Ensuite, vous pourrez débloquer tout ce que vous souhaitez continuer à utiliser.
 preferences-ai-controls-block-confirmation-features-start = Ce qui sera bloqué :

@@ -704,9 +704,6 @@ newtab-widget-timer-menu-learn-more = Läs mer
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Bästa rubriker
 newtab-daily-briefing-card-menu-dismiss = Ignorera
-# Variables:
-#   $minutes (number) - Time since the feed has been refreshed
-newtab-daily-briefing-card-timestamp = Uppdaterad för { $minutes } miljoner sedan
 newtab-widget-message-title = Håll fokus med listor och en inbyggd timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Från snabba påminnelser till dagliga att-göra-uppgifter, fokussessioner till stretchpauser — håll dig fokuserad och i tid.
