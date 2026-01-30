@@ -400,6 +400,20 @@ language-header = Ñe’ẽ
 choose-language-description = Eipoiravo pe ñe’ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue
 website-preferred-language =
     .label = Ñe’ẽita ojeporuvéva
+website-add-language =
+    .label = Embojuaju ñe’ẽ
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Embogue { $locale }
+    .title = Embogue { $locale }
 choose-button =
     .label = Poravo…
     .accesskey = o
@@ -749,6 +763,12 @@ home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue i
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Kundaha ypykuéva
+is-default-browser-2 =
+    .message = { -brand-short-name } ha’e kundaha ypykuéva. Eiporavo porã.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } ndaha’éi ne kundaha ypykuéva.
 set-as-my-default-browser-2 =
     .label = Ejapo chugui yjypykuéva
     .accesskey = D
