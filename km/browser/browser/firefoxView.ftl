@@ -9,3 +9,9 @@ firefoxview-collapse-button-show =
     .title = បង្ហាញបញ្ជី
 firefoxview-collapse-button-hide =
     .title = លាក់បញ្ជី
+
+##
+
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = របារស្វែងរក

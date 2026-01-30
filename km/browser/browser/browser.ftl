@@ -211,6 +211,12 @@ urlbar-result-action-search-w-engine = ស្វែងរក​ជាមួយ {
 urlbar-result-action-switch-tab = ប្ដូរ​ទៅ​ផ្ទាំង
 urlbar-result-action-visit = មើល
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-tabs = របារស្វែងរក
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl

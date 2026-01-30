@@ -63,17 +63,17 @@ webrtc-screen-system-menu =
 webrtc-indicator-sharing-camera-and-microphone =
     .tooltiptext = Сіз камера және микрофоныңызбен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-indicator-sharing-camera =
-    .tooltiptext = Сіз камерамен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
+    .tooltiptext = Сіз камераны бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-indicator-sharing-microphone =
-    .tooltiptext = Сіз микрофоныңызбен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
+    .tooltiptext = Сіз микрофоныңызды бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-indicator-sharing-application =
     .tooltiptext = Қолданбамен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-indicator-sharing-screen =
-    .tooltiptext = Сіз экраныңызбен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
+    .tooltiptext = Сіз экраныңызды бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-indicator-sharing-window =
     .tooltiptext = Тереземен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-indicator-sharing-browser =
-    .tooltiptext = Бетпен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
+    .tooltiptext = Бетті бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
