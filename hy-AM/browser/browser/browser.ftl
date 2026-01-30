@@ -1466,3 +1466,13 @@ trustpanel-tracking-content-not-blocking-tab-header =
        *[other] { -brand-product-name }-ը թույլատրել է { $count } հետևիչներ
     }
 trustpanel-tracking-content-tab-list-header = Հետևյալ կայքերը փորձում են հետևել ձեզ՝
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-ը արգելափակել է { $count } մատնահետք հավաքող
+       *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name }-ը արգելափակել է { $count } մատնահետք հավաքող
+       *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
+    }
