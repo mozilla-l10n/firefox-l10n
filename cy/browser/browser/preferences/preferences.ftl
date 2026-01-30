@@ -429,18 +429,6 @@ website-add-language =
 website-add-language-button =
     .aria-label = Ychwanegu iaith a ddewiswyd
     .title = Ychwanegu iaith a ddewiswyd
-# The pattern used to generate strings presented to the user in the
-# website languages selection list.
-#
-# Example:
-#   Icelandic
-#   Spanish (Chile)
-#
-# Variables:
-#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
-website-remove-language-button =
-    .aria-label = Tynnu { $name }?
-    .title = Tynnu { $name }?
 choose-button =
     .label = Dewis…
     .accesskey = D

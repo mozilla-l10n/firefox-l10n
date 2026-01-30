@@ -395,7 +395,7 @@ tabbrowser-tab-label-tab-split-view-right = { $label }, 분할 화면 오른쪽
 
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
-    .label = 탭 분리
+    .label = 탭 분할 해제
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = 탭 역순
