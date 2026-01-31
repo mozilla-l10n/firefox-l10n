@@ -154,6 +154,14 @@ addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែ
 header-back-button =
     .title = ថយ​ក្រោយ
 
+## Add-on actions
+
+enable-addon-button = បើក​ដំណើរការ
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = បើក​ដំណើរការ
+
 ## Page headings
 
 addon-page-options-button =
