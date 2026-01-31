@@ -74,7 +74,7 @@ appmenu-addon-post-install-message3 = Spravujte své doplňky a vzhledy z hlavn�
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Oprávnění a předvolby rozšíření můžete kdykoliv aktualizovat v <a data-l10n-name="settings-link">nastavení rozšíření</a>.
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
-    .label = Připnout rozšíření na panel nástrojů
+    .label = Připnout rozšíření na nástrojovou lištu
     .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povolit toto rozšíření v anonymních oknech

@@ -55,7 +55,7 @@ accessibility-text-label-issue-iframe = Použijte atribut <code>title</code> k p
 accessibility-text-label-issue-image = Obsah s obrázky musí být označen. <a>Zjistit více</a>
 accessibility-text-label-issue-interactive = Interaktivní prvky musí být označeny. <a>Zjistit více</a>
 accessibility-text-label-issue-optgroup-label2 = Prvek <span>optgroup</span> označte atributem <code>label</code>. <a>Zjistit více</a>
-accessibility-text-label-issue-toolbar = Panely nástrojů musí být označeny, pokud existuje více než jeden panel nástrojů. <a>Zjistit více</a>
+accessibility-text-label-issue-toolbar = Nástrojové lišty musí být označeny, jestliže existuje více než jedna nástrojová lišta. <a>Zjistit více</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
