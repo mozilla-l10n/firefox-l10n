@@ -58,6 +58,7 @@ about-logging-preset-ml-description = Makine öğrenimi sorunlarını teşhis et
 about-logging-preset-web-compat-label = Web Compat
 about-logging-preset-web-compat-description = Web uyumluluk sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-navigation = Gezinme
+about-logging-preset-navigation-description = Gezinti ve oturum geçmişi sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-gfx-label = Grafik

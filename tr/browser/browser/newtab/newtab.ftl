@@ -697,6 +697,8 @@ newtab-widget-timer-menu-notifications = Bildirimleri kapat
 newtab-widget-timer-menu-notifications-on = Bildirimleri aç
 newtab-widget-timer-menu-hide = Sayacı gizle
 newtab-widget-timer-menu-learn-more = Daha fazla bilgi al
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Öne çıkan başlıklar
 newtab-daily-briefing-card-menu-dismiss = Kapat
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
