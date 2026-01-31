@@ -23,7 +23,7 @@ about-processes-shutdown-tab =
 about-processes-profile-process =
     .title =
         { $duration ->
-            [one] יצירת פרופיל לכל התהליכונים של תהליך זה לשניה אחת
+            [one] יצירת פרופיל לכל התהליכונים של תהליך זה לשנייה אחת
            *[other] יצירת פרופיל לכל התהליכונים של תהליך זה ל־{ $duration } שניות
         }
 
