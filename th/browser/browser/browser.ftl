@@ -720,6 +720,7 @@ urlbar-result-action-search-in-private = ค้นหาในหน้าต่
 urlbar-result-action-search-w-engine = ค้นหาด้วย { $engine }
 urlbar-result-action-sponsored = ได้รับการสนับสนุน
 urlbar-result-action-switch-tab = สลับไปยังแท็บ
+urlbar-result-action-move-tab-to-split-view = ย้ายแท็บไปยังมุมมองแยก
 urlbar-result-action-visit = เยี่ยมชม
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
