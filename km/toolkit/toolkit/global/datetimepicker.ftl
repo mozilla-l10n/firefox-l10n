@@ -3,12 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### Datepicker - Dialog for default HTML's <input type="date">
+### Datetimepicker - Dialog for default HTML's <input type="datetime-local">
 
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
+date-picker-previous =
+    .aria-label = ខែមុន
 date-picker-next =
     .aria-label = ខែក្រោយ
 

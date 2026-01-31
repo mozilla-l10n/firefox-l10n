@@ -210,3 +210,8 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក
 appmenu-developer-tools-extensions =
     .label = ផ្នែកបន្ថែមសម្រាប់អ្នកអភិវឌ្ឍន៍
+
+## Profiles panel
+
+appmenu-edit-profile =
+    .aria-label = កែសម្រួលប្រវត្តិរូប
