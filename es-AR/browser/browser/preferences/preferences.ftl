@@ -293,6 +293,10 @@ browser-layout-horizontal-tabs2 =
     .label = Pestañas horizontales
     .title = Pestañas arriba
     .description = Pestañas arriba
+browser-layout-vertical-tabs2 =
+    .label = Pestañas verticales
+    .title = Pestañas al costado, en la barra lateral
+    .description = Pestañas al costado, en la barra lateral
 browser-layout-show-sidebar2 =
     .label = Mostrar barra lateral
     .description = Acceso rápido a marcadores, pestañas desde el teléfono, chatbots de IA y más sin salir de la vista principal.
@@ -403,6 +407,25 @@ preferences-text-zoom-override-warning =
     .message = Advertencia: Al seleccionar “Zoom solamente en texto” y el zoom predeterminado no esté establecido al 100%, puede causar fallas en algunos sitios o contenido.
 language-header = Idioma
 choose-language-description = Seleccione su idioma preferido para mostrar las páginas
+website-preferred-language =
+    .label = Idiomas preferidos
+website-add-language =
+    .label = Agregar idioma
+website-add-language-button =
+    .aria-label = Agregar idioma seleccionado
+    .title = Agregar idioma seleccionado
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Eliminar { $locale }
+    .title = Eliminar { $locale }
 choose-button =
     .label = Seleccionar…
     .accesskey = o

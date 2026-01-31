@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Machine Learning
 about-logging-preset-ml-description = Registrar módulos para diagnosticar problemas de machine learning
 about-logging-preset-web-compat-label = Compatibilidad web
 about-logging-preset-web-compat-description = Registrar módulos para diagnosticar problemas de compatibilidad web
+about-logging-preset-navigation = Navegación
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Registrar módulos para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos
