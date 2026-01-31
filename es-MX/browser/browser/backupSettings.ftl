@@ -36,6 +36,7 @@ settings-data-backup-last-backup-location = Ubicación
 settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Se produjo un error al crear la copia de seguridad el { DATETIME($date, dateStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Realiza copias de seguridad de tus contraseñas y métodos de pago, además de mantener todos tus datos seguros con cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
@@ -44,15 +45,23 @@ settings-data-backup-restore-header = Restaura tus datos
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = Utiliza una copia de seguridad de { -brand-product-name } de otro dispositivo para restaurar tus datos.
+settings-data-backup-scheduled-backups-off-restore-choose = Selecciona el archivo de copia de seguridad…
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Recupera tus datos de { -brand-product-name } desde la última vez que se realizó la copia de seguridad.
+settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-data-toggle-encryption-label = Realiza una copia de seguridad de tus datos sensibles
 settings-data-toggle-encryption-support-link = Más información
 settings-data-change-password = Cambiar contraseña…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Activar copia de seguridad
+turn-on-scheduled-backups-description = { -brand-short-name } creará una copia de seguridad de tus datos cada 24 horas. Podrás restaurarla si surge algún problema o si adquieres un nuevo dispositivo.
+turn-on-scheduled-backups-support-link = ¿Qué se respaldará?
+# "Location" refers to the save location or a folder where users want backups stored.
+turn-on-scheduled-backups-location-label = Ubicación
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
@@ -62,6 +71,16 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Seleccionar…
        *[other] Examinar…
     }
+turn-on-scheduled-backups-encryption-label = Realiza una copia de seguridad de tus datos sensibles
+turn-on-scheduled-backups-encryption-create-password-label = Contraseña
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = Repetir contraseña
+turn-on-scheduled-backups-cancel-button = Cancelar
+turn-on-scheduled-backups-confirm-button = Activar copia de seguridad
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Hubo un problema con la carpeta de copia de seguridad seleccionada. Elige otra carpeta e inténtalo de nuevo.
+backup-error-file-system = Hubo un problema con la carpeta de copia de seguridad seleccionada al realizar la copia de seguridad de { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
