@@ -72,6 +72,12 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = គណនី
+    .tooltiptext = គណនី
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -129,6 +135,14 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = បើក​សំឡេង
     .accesskey = m
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
 main-context-menu-media-loop =
     .label = រង្វិល​ជុំ
     .accesskey = L

@@ -88,6 +88,7 @@ appmenu-remote-tabs-unverified = គណនី​របស់​អ្នក​�
 appmenuitem-fxa-toolbar-sync-now2 = ធ្វើសមកាលកម្មឥឡូវនេះ
 appmenuitem-fxa-manage-account = គ្រប់គ្រង​គណនី
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = គណនី
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -210,6 +211,10 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក
 appmenu-developer-tools-extensions =
     .label = ផ្នែកបន្ថែមសម្រាប់អ្នកអភិវឌ្ឍន៍
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
 
 ## Profiles panel
 

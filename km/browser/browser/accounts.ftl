@@ -42,6 +42,9 @@ account-send-tab-to-device-verify = ផ្ទៀងផ្ទាត់​គណ�
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = គណនី
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = ឥឡូវនេះ កុំព្យូទ័រនេះភ្ជាប់ជាមួយ { $deviceName } ។

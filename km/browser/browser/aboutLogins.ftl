@@ -120,6 +120,12 @@ login-item-save-changes-button = រក្សាទុក​ការផ្ល�
 login-item-save-new-button = រក្សាទុក
 login-item-cancel-button = បោះបង់
 
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+login-item-timeline-action-updated = បានធ្វើបច្ចុប្បន្នភាព
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
