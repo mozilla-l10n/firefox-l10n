@@ -54,6 +54,10 @@ neterror-load-osx-permission =
        *[no-cases] Pokud se pokoušíte načíst stránku místní sítě, zkontrolujte, zda máte v nastavení Soukromí a zabezpečení systému macOS přidělena oprávnění aplikace { -brand-short-name } pro místní síť.
     }
 neterror-http-error-page = Zkontrolujte, zda jste správně zadali adresu webové stránky.
+neterror-http-empty-response = Zkontrolujte, že jste adresu webu zadali správně, a zkuste to za chvíli znovu.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = Server { $hostname } vrátil zpět prázdnou stránku.
 neterror-captive-portal = Pro přístup na internet se musíte do této sítě nejprve přihlásit.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -107,6 +111,7 @@ neterror-file-not-found-moved = Zkontrolujte, že soubor nebyl přesunut, přejm
 neterror-access-denied = Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.
 neterror-unknown-protocol = Pro otevření této adresy budete patrně potřebovat nainstalovat další software.
 neterror-redirect-loop = Tento problém může být způsoben zakázáním nebo odmítnutím cookies.
+neterror-unknown-socket-type-client-config = To může být způsobeno chybou při konfiguraci vašeho klienta.
 neterror-unknown-socket-type-psm-installed = Zkontrolujte, že je ve vašem systému nainstalován Personal Security Manager.
 neterror-unknown-socket-type-server-config = Tato chyba může být také způsobena nestandardní konfigurací serveru.
 neterror-not-cached-intro =
