@@ -82,15 +82,48 @@ turn-on-scheduled-backups-confirm-button = Activar copia de seguridad
 turn-on-scheduled-backups-error-file-system = Hubo un problema con la carpeta de copia de seguridad seleccionada. Elige otra carpeta e inténtalo de nuevo.
 backup-error-file-system = Hubo un problema con la carpeta de copia de seguridad seleccionada al realizar la copia de seguridad de { -brand-short-name }.
 
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = ¿Desactivar la copia de seguridad?
+turn-off-scheduled-backups-description = Esto también elimina todos tus datos de copia de seguridad. No se puede deshacer.
+turn-off-scheduled-backups-support-link = Saber más
+turn-off-scheduled-backups-cancel-button = Cancelar
+turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de seguridad
+
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Restaurar tus datos
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-description-with-metadata =
+    .message = Esto reemplazará todos tus datos actuales de { -brand-short-name } con tu copia de seguridad de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
+restore-from-backup-support-link =
+    .message = ¿Qué se restaurará?
+restore-from-backup-no-backup-file-link = ¿Tienes problemas para encontrar tu copia de seguridad?
+restore-from-backup-filepicker-label = Archivo de copia de seguridad
+restore-from-backup-filepicker-title = Seleccionar archivo de copia de seguridad:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] Seleccionar…
+       *[other] Examinar…
+    }
 restore-from-backup-password-label = Contraseña
+restore-from-backup-password-description = Esto desbloquea tu copia de seguridad cifrada.
 restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar y reiniciar
 restore-from-backup-restoring-button = Restaurando…
 
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# User is not authorized to restore a particular backup file, usually because
+# the backup file is encrypted and the user provided a recovery password that
+# was different than the password the user configured for their backup file
+backup-service-error-incorrect-password = Contraseña incorrecta. <a data-l10n-name="incorrect-password-support-link">¿Aún tienes problemas?</a>
+
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
+enable-backup-encryption-header = Hacer copia de seguridad de tus datos sensibles
 enable-backup-encryption-support-link = Saber más
 enable-backup-encryption-create-password-label = Contraseña
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
@@ -104,6 +137,8 @@ change-backup-encryption-header = Cambiar la contraseña de respaldo
 password-rules-header = Requisitos de contraseña
 password-rules-length-description = Al menos 8 caracteres
 password-rules-email-description = No es tu dirección de correo electrónico
+password-validity-has-email = No puede ser una dirección de correo electrónico
+password-validity-do-not-match = Las contraseñas no coinciden
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
@@ -115,6 +150,8 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Eliminar la protección con contraseña
+disable-backup-encryption-description2 = Tus contraseñas guardadas y métodos de pago ya no tendrán copia de seguridad.
+disable-backup-encryption-support-link = ¿Qué se respaldará?
 disable-backup-encryption-cancel-button = Cancelar
 disable-backup-encryption-confirm-button = Eliminar contraseña
 
@@ -133,6 +170,7 @@ backup-error-retry = Algo salió mal. Por favor, inténtalo de nuevo.
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } está listo para ser restaurado
 backup-file-title = Restaurar { -brand-short-name }
 backup-file-path-label = Archivo de respaldo:
 backup-file-encryption-state-label = Encriptado:
