@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Depuración preestablecida en { -brand-shorter-name }. Sobrecarga, no lo use para trabajo de rendimiento, úselo para centrarse en entender el comportamiento del navegador.
 profiler-popup-presets-debug-label =
     .label = Depurar
+profiler-popup-presets-web-compat-description = Ajuste preestablecido recomendado para depurar problemas de compatibilidad web en sitios web, en lugar de rastrear el rendimiento.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilidad web
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
@@ -294,6 +297,10 @@ appmenuitem-services-relay-description = Iniciar el panel de máscaras de correo
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Protege tu actividad en línea
 appmenu-services-header = Mis servicios
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Prueba otras herramientas de protección de Mozilla:
 appmenu-other-protection-header = Prueba otras herramientas de protección de { -vendor-short-name }:
 
 ## Profiles panel
@@ -301,6 +308,8 @@ appmenu-other-protection-header = Prueba otras herramientas de protección de { 
 appmenu-other-profiles = Otros perfiles
 appmenu-manage-profiles =
     .label = Administrar perfiles
+appmenu-copy-profile =
+    .label = Copiar este perfil
 appmenu-create-profile =
     .label = Nuevo perfil
 appmenu-edit-profile =

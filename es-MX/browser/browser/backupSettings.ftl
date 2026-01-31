@@ -21,10 +21,29 @@ backup-folder-name = Restaurar { -brand-product-name }
 backup-file-name = { -brand-product-name }Copia de seguridad
 settings-data-backup-header = Respaldo
 settings-data-backup-toggle = Administrar copias de seguridad
+settings-data-backup-toggle-on = Activar copia de seguridad
+settings-data-backup-toggle-off = Desactivar copia de seguridad
 settings-data-backup-trigger-button = Respaldar ahora
 settings-data-backup-in-progress-button = Copia de seguridad en progreso…
+settings-data-backup-in-progress-message =
+    .message = Copia de seguridad en progreso…
 settings-data-backup-scheduled-backups-on = Copia de seguridad: ACTIVADA
 settings-data-backup-scheduled-backups-off = Copia de seguridad: DESACTIVADA
+settings-data-backup-scheduled-backups-description = Protege automáticamente tus marcadores, historial y otros datos. <a data-l10n-name="support-link">Más información</a>
+settings-data-backup-last-backup-date = Última copia de seguridad: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location = Ubicación
+settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
+settings-data-backup-last-backup-location-edit = Editar…
+settings-data-create-backup-error = Se produjo un error al crear la copia de seguridad el { DATETIME($date, dateStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+# Variables:
+#   $fileName (String) - The file name of the last backup that was created.
+settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
+settings-data-backup-restore-header = Restaura tus datos
+
+## These strings are shown under the header if scheduled backups are disabled.
+
+settings-data-backup-scheduled-backups-off-restore-description = Utiliza una copia de seguridad de { -brand-product-name } de otro dispositivo para restaurar tus datos.
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
