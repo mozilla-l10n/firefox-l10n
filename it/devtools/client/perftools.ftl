@@ -35,6 +35,7 @@ perftools-description-local-build =
     Se si sta creando il profilo di una build compilata localmente su questo
     dispositivo, aggiungere la cartella “objdir” della build all’elenco seguente
     affinché possa essere utilizzata per la ricerca di informazioni sui simboli.
+perftools-pick-local-build-directory = Scegli cartella di compilazione
 
 ## The controls for the interval at which the profiler samples the code.
 
