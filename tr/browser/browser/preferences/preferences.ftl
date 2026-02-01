@@ -2263,6 +2263,7 @@ preferences-ai-controls-state-blocked =
 preferences-ai-controls-state-description-before = Seçenekler ne anlama geliyor?
 preferences-ai-controls-state-description-available = <strong>Kullanılabilir:</strong> Bu özelliği görecek ve kullanabileceksiniz.
 preferences-ai-controls-state-description-enabled = <strong>Etkin:</strong> Bu özelliği kullanıyorsunuz.
+preferences-ai-controls-state-description-blocked = <strong>Engellendi:</strong> Bu özelliği görmeyecek ve kullanamayacaksınız. Yerel yapay zekâ özellikleri için daha önce indirilmiş olan modeller kaldırılacaktır.
 preferences-ai-controls-block-confirmation-heading = Yapay zekâ geliştirmeleri engellensin mi?
 preferences-ai-controls-block-confirmation-features-start = Neler engellenecek?
 preferences-ai-controls-block-confirmation-translations = Çeviriler
