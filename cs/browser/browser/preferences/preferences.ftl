@@ -2432,6 +2432,7 @@ preferences-doh-setting-default =
 preferences-doh-default-desc = { -brand-short-name } rozhodne, kdy použít zabezpečené DNS za účelem ochrany vašeho soukromí.
 preferences-doh-default-detailed-desc-1 = V oblastech, kde je dostupné, se použije zabezpečené DNS
 preferences-doh-default-detailed-desc-2 = Pokud se zabezpečeným DNS nastane problém, použije se výchozí překladač DNS
+preferences-doh-default-detailed-desc-3 = Je-li to možné, použije se místní poskytovatel
 preferences-doh-default-detailed-desc-4 = Vypne se, když je aktivní VPN, rodičovská kontrola nebo podnikové zásady
 preferences-doh-default-detailed-desc-5 =
     { -brand-short-name.case-status ->

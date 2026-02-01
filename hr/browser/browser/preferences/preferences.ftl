@@ -2020,6 +2020,9 @@ collection-studies-description = Isprobaj funkcije i ideje prije nego što se ob
 collection-studies =
     .label = Dozvoli { -brand-short-name(case: "dat") } da instalira i pokreće istraživanja
 collection-studies-link = Pregledaj { -brand-short-name } istraživanja
+nimbus-rollouts-enabled =
+    .label = Dopusti { -brand-short-name(case: "dat") } da poboljša funkcije, performanse i stabilnost između aktualiziranja
+nimbus-rollouts-enabled-description = Promjene će se primijeniti na daljinu.
 addon-recommendations2 =
     .label = Dozvoli personalizirane preporuke za proširenja
 addon-recommendations-description = Dobij preporuke za proširenja i poboljšaj svoj način pregledavanja interneta.
@@ -2120,6 +2123,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = „Samo HTTPS” modus
     .description = Dozvoljava samo sigurne veze s web-stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2190,6 +2195,15 @@ choose-download-folder-title = Izaberite mapu za preuzimanja:
 
 ## AI controls page
 
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = U { -brand-short-name(case: "loc") } uvijek imaš izbor, uključujući i hoćeš li koristiti umjetnom inteligencijom poboljšane funkcije. Uskoro stiže više kontrola.
+preferences-ai-controls-block-ai-label = Blokiraj poboljšanja umjetne inteligencije
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokiranje znači da nećeš vidjeti nova, niti trenutačna poboljšanja umjetne inteligencije u { -brand-short-name(case: "loc") }, kao i skočne obavijesti za njih. <a data-l10n-name="link">Pogledaj više detalja</a> o tome što je uključeno i kako upravljati funkcijama tradicionalnog strojnog učenja, poput prijedloga za pretraživanje i preporuka.
+preferences-ai-controls-blocked-message =
+    .message = Nova i trenutačna poboljšanja umjetne inteligencije su standardno blokirana. Za odblokiranje određene funkcije koristi donje kontrole.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Odustani
 preferences-ai-controls-block-confirmation-confirm =
