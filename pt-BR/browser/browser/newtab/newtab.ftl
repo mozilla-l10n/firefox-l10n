@@ -478,6 +478,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Mudar para Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Mudar para Celsius
+newtab-weather-menu-hide-weather-v2 = Ocultar previsão do tempo
 newtab-weather-menu-hide-weather = Ocultar tempo em nova aba
 newtab-weather-menu-learn-more = Saiba mais
 newtab-weather-menu-detect-my-location = Detectar minha localização
@@ -696,6 +697,8 @@ newtab-widget-timer-menu-notifications = Desativar notificações
 newtab-widget-timer-menu-notifications-on = Ativar notificações
 newtab-widget-timer-menu-hide = Esconder o temporizador
 newtab-widget-timer-menu-learn-more = Saiba mais
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Principais notícias
 newtab-daily-briefing-card-menu-dismiss = Descartar
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
