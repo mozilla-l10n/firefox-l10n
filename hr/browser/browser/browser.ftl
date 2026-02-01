@@ -731,6 +731,7 @@ urlbar-result-action-search-in-private = Pretraži u privatnom prozoru
 urlbar-result-action-search-w-engine = Traži pomoću { $engine }
 urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Prijeđi na karticu
+urlbar-result-action-move-tab-to-split-view = Premjesti karticu u podijeljeni prikaz
 urlbar-result-action-visit = Posjeti
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

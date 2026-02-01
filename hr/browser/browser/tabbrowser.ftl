@@ -448,6 +448,18 @@ tab-context-separate-split-view =
     .label = Razdvoji podijeljeni prikaz
     .accesskey = d
 tab-context-badge-new = Novi
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, podijeljeni prikaz lijevo
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, podijeljeni prikaz desno
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

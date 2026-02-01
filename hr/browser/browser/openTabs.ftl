@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-opentabs-page-title = Odaberi karticu koja će se dodati za podijeljeni prikaz
+opentabs-page-title = Odaberi karticu koja će se dodati u podijeljeni prikaz

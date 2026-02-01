@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sinkronizacija
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Kontrole za umjetnu inteligenciju
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } eksperimenti
 category-experimental =
     .tooltiptext = { -brand-short-name } eksperimenti
@@ -750,6 +753,12 @@ home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš p
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Standardni preglednik
+is-default-browser-2 =
+    .message = { -brand-short-name } je tvoj standardni preglednik. Dobar izbor.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } nije tvoj standardni preglednik.
 set-as-my-default-browser-2 =
     .label = Postavi kao standardni
     .accesskey = d
@@ -991,6 +1000,9 @@ suggestions-addressbar-settings-generic2 = Promijeni postavke za ostale prijedlo
 search-suggestions-cant-show = Prijedlozi za pretraživanje se neće prikazati u adresnoj traci, jer je { -brand-short-name } postavljen da ne pamti povijest.
 search-one-click-header2 = Prečaci za pretraživanje
 search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
+search-one-click-header-3 =
+    .label = Dodatne tražilice
+    .description = Odaberi tražilice i prečace koji će se prikazati u tvojoj adresnoj traci.
 search-choose-engine-column =
     .label = Tražilica
 search-choose-keyword-column =
@@ -1004,6 +1016,9 @@ search-remove-engine =
 search-add-engine =
     .label = Dodaj
     .accesskey = D
+search-add-engine-2 =
+    .label = Dodaj tražilicu
+    .accesskey = a
 search-edit-engine =
     .label = Uredi
     .accesskey = U
@@ -1049,6 +1064,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinkronizacija
+account-group-label =
+    .label = { -vendor-short-name } račun
 account-placeholder =
     .label = Nisi prijavljen/a.
     .description = Prijavi se da bi tvoji podaci bili privatni, šifrirani i sinkronizirani na svim uređajima.
@@ -1365,6 +1382,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = u
+forms-primary-pw-use-2 =
+    .label = Korisni primarnu lozinku
+    .description = Dodaje dodatni sloj sigurnosti za zaštitu tvojih spremljenih lozinki.
+    .accesskey = u
 forms-primary-pw-set =
     .label = Postavi primarnu lozinku
 forms-primary-pw-on =
@@ -1377,6 +1398,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Zatraži prijavu uređajem za ispunjavanje i upravljanje lozinkama
+forms-os-reauth-2 =
+    .label = Zatraži prijavu uređajem za upravljanje lozinkama
 forms-primary-pw-learn-more-link = Saznaj više
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1455,6 +1478,13 @@ payments-list-item-label = <strong>Načini plaćanja</strong>
 payments-delete-payment-prompt-title = Obrisati ovaj način plaćanja?
 payments-delete-payment-prompt-confirm-button = Obriši
 payments-delete-payment-prompt-cancel-button = Odustani
+payments-delete-payment-button-label =
+    .aria-label = Izbriši
+payments-edit-payment-button-label =
+    .aria-label = Uredi
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Nije dodan nijedan način plaćanja
 payments-remove-payment-prompt-title = Ukloniti ovaj način plaćanja?
 payments-remove-payment-prompt-confirm-button = Ukloni
 payments-remove-payment-prompt-cancel-button = Odustani
@@ -1479,6 +1509,9 @@ addresses-delete-address-prompt-cancel-button = Odustani
 autofill-addresses-add-button = Dodaj novu adresu
 autofill-addresses-manage-addresses-title =
     .heading = Upravljaj adresama i još više
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Nije dodana nijedna adresa
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1739,6 +1772,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = Odbačeni prijedlozi
     .description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Obnovi prijedloge
 addressbar-quickactions-learn-more = Saznaj više
 addressbar-dismissed-suggestions-label = Odbačeni prijedlozi
 addressbar-restore-dismissed-suggestions-description = Obnovi odbačene prijedloge od sponzora i { -brand-short-name }.
