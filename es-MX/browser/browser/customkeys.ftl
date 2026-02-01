@@ -29,3 +29,11 @@ customkeys-dev-profiler-toggle = Iniciar/Detener el perfilador de rendimiento
 customkeys-dev-profiler-capture = Capturar un perfil de rendimiento
 customkeys-category-navigation = Navegación
 customkeys-nav-back = Atrás
+customkeys-nav-forward = Adelante
+customkeys-nav-home = Inicio
+customkeys-nav-reload = Recargar
+customkeys-nav-reload-skip-cache = Recargar (Reemplazar caché)
+customkeys-nav-stop = Detener
+customkeys-caution-message = Esta función es experimental y puede que no funcione como se espera.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Inválido
