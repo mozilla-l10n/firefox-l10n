@@ -701,6 +701,8 @@ newtab-widget-timer-menu-notifications = Απενεργοποίηση ειδοπ
 newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοποιήσεων
 newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Κορυφαίες επικεφαλίδες
 newtab-daily-briefing-card-menu-dismiss = Απόρριψη
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
