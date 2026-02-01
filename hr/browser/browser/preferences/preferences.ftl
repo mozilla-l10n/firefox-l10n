@@ -2204,6 +2204,42 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = Blokiranje znači da nećeš vidjeti nova, niti trenutačna poboljšanja umjetne inteligencije u { -brand-short-name(case: "loc") }, kao i skočne obavijesti za njih. <a data-l10n-name="link">Pogledaj više detalja</a> o tome što je uključeno i kako upravljati funkcijama tradicionalnog strojnog učenja, poput prijedloga za pretraživanje i preporuka.
 preferences-ai-controls-blocked-message =
     .message = Nova i trenutačna poboljšanja umjetne inteligencije su standardno blokirana. Za odblokiranje određene funkcije koristi donje kontrole.
+preferences-ai-controls-on-device-group =
+    .label = Umjetna inteligencija na uređaju
+    .description = Ovo koristi male modele umjetne inteligencije koji se preuzimaju na tvoj uređaj, ako koristiš tu funkciju. Ovaj pristup pomaže zaštiti tvoju privatnosti.
+preferences-ai-controls-translations-control =
+    .label = Prijevodi
+    .description = Neometano pregledavaj web u svom preferiranom jeziku.
+preferences-ai-controls-translations-more-link = Više postavki prijevoda
+preferences-ai-controls-pdfjs-control =
+    .label = Alternativni tekst slika u { -brand-short-name } pregledniku PDF-ova
+    .description = Kada dodaš slike u PDF-ove, ovo dodaje opise koji poboljšavaju pristupačnost.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Prijedlozi grupiranja kartica
+    .description = Primaj prijedloge za imenovanje i organizaciju svojih kartica.
+preferences-ai-controls-key-points-control =
+    .label = Ključne točke u pregledima poveznica
+    .description = Vidi kratki sažetak prije otvaranja poveznice.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Pružatelji chatbotova umjetne inteligencije u bočnoj traci
+    .description = Zadrži chatbot u vidokrugu tijekom pregledavanja weba. Biraj između usluga Anthropic Claude, ChatGPT, Copilot, Google Gemini i Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot u bočnoj traci
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Dostupno
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Aktivirano
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokirano
+preferences-ai-controls-state-description-before = Što opcije znače:
+preferences-ai-controls-state-description-available = <strong>Dostupno:</strong> vidjet ćeš funkciju i moći ćeš ju koristiti.
+preferences-ai-controls-state-description-enabled = <strong>Aktivirano:</strong> odlučio/la si koristitu tu funkciju.
+preferences-ai-controls-state-description-blocked = <strong>Blokirano:</strong> nećeš moći vidjeti niti koristiti funkciju. Za umjetnu inteligenciju na uređaju, bilo koji već preuzeti modeli će se ukloniti.
+preferences-ai-controls-block-confirmation-heading = Blokirati poboljšanja umjetne inteligencije?
+preferences-ai-controls-block-confirmation-description = Nećeš vidjeti nova ili trenutačna poboljšanja umjetne inteligencije u { -brand-short-name(case: "loc") }, niti skočne obavijesti o njima. Nakon toga možeš odblokirati sve što želiš nastaviti koristiti.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Odustani
 preferences-ai-controls-block-confirmation-confirm =
