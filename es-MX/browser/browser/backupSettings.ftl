@@ -35,7 +35,7 @@ settings-data-backup-last-backup-date = Última copia de seguridad: { DATETIME($
 settings-data-backup-last-backup-location = Ubicación
 settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
 settings-data-backup-last-backup-location-edit = Editar…
-settings-data-create-backup-error = Se produjo un error al crear la copia de seguridad el { DATETIME($date, dateStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-create-backup-error = Se produjo un error al crear la copia de seguridad el { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Realiza copias de seguridad de tus contraseñas y métodos de pago, además de mantener todos tus datos seguros con cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
