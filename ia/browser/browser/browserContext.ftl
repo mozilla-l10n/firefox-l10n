@@ -161,7 +161,7 @@ main-context-menu-copy-link-simple =
     .label = Copiar ligamine
     .accesskey = l
 main-context-menu-preview-link =
-    .label = Ligamine de vista preliminar
+    .label = Previsualisar ligamine
     .accesskey = r
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items

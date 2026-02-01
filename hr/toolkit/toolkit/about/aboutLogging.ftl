@@ -25,6 +25,7 @@ about-logging-no-log-modules = Ništa
 about-logging-no-log-file = Ništa
 about-logging-logging-preset-selector-text = Unaprijed konfigurirane postavke vođenja zapisnika:
 about-logging-with-profiler-stacks-checkbox = Aktiviraj detaljni popis poziva za poruke zapisnika
+about-logging-with-javascript-tracing-checkbox = Aktiviraj praćenje JavaScripta
 about-logging-menu =
     .title = Napredne opcije
 
@@ -45,6 +46,7 @@ about-logging-preset-media-playback-description = Moduli zapisnika za dijagnosti
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduli zapisnika za dijagnosticiranje WebRTC poziva
 about-logging-preset-webcodecs-label = WebCodecs
+about-logging-preset-webcodecs-description = Moduli zapisnika za dijagnosticiranje problema s WebCodecs dekoderima i koderima audio ili videozapisa, te dekoderima slike
 about-logging-preset-ml-label = Strojno učenje
 about-logging-preset-ml-description = Moduli zapisnika za dijagnosticiranje problema sa strojnim učenjem
 about-logging-preset-web-compat-label = Web-kompatibilnost
@@ -114,4 +116,8 @@ about-logging-no-uploaded-profiles = Nijedan profil još nije prenesen.
 about-logging-delete-uploaded-profile = Izbriši
 about-logging-view-uploaded-profile = Pogledaj profil
 about-logging-delete-profile-confirm-title = Izbriši profil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Stvarno želiš izbrisati profil „{ $profileName }”? Ovo je nepovratna radnja.
 about-logging-deleting-profile = Brisanje …
