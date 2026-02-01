@@ -2152,3 +2152,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Radna površina
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite mapu za preuzimanja:
+
+## AI controls page
+
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Odustani
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Blokiraj
