@@ -2377,7 +2377,7 @@ httpsonly-header = Režim „pouze HTTPS“
 httpsonly-label =
     .aria-label = { httpsonly-header }
     .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
-httpsonly-description3 = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
+httpsonly-description3 = Umožňuje pouze zabezpečená spojení s weby. Před použitím nezabezpečeného spojení se { -brand-short-name } zeptá.
 httpsonly-learn-more2 = Jak funguje režim „pouze HTTPS“.
 httpsonly-description =
     { -brand-short-name.case-status ->
@@ -2422,8 +2422,8 @@ preferences-doh-status-disabled = Vypnuto
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Neaktivní ({ $reason })
-preferences-doh-group-message = Zapnout zabezpečené DNS:
-preferences-doh-group-message2 = Zapnout DNS over HTTPS pomocí:
+preferences-doh-group-message = Zapnout zabezpečené DNS, použije se:
+preferences-doh-group-message2 = Zapnout DNS over HTTPS, použije se:
 preferences-doh-expand-section =
     .tooltiptext = Více informací
 preferences-doh-setting-default =

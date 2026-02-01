@@ -39,6 +39,7 @@ about-networking-dns-lookup = DNS upit
 about-networking-dns-lookup-button = Razriješi
 about-networking-dns-domain = Domena:
 about-networking-dns-lookup-table-column = IP adrese
+about-networking-dns-https-rrs-lookup-table-column = HTTPS RR-ovi
 about-networking-dns-https-rr-lookup-table-column = HTTP RR-ovi
 about-networking-rcwn = RCWN statistika
 about-networking-rcwn-status = RCWN status

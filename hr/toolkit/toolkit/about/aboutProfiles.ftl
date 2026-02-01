@@ -27,6 +27,7 @@ profiles-rootdir = Korijenski direktorij
 profiles-localdir = Lokalni direktorij
 profiles-current-profile = Ovaj se profil trenutačno koristi i ne može se izbrisati.
 profiles-in-use-profile = Ovaj profil upotrebljava druga aplikacija i ne može se izbrisati.
+profiles-cannot-delete-profile = Nije moguće se izbrisati profil koji je povezan s drugim profilima.
 profiles-rename = Preimenuj
 profiles-remove = Ukloni
 profiles-set-as-default = Postavi kao standardni profil
