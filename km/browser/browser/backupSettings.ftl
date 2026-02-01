@@ -75,7 +75,51 @@ enable-backup-encryption-support-link = ស្វែងយល់​បន្ថ�
 enable-backup-encryption-create-password-label = ពាក្យ​សម្ងាត់
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 enable-backup-encryption-repeat-password-label = ពាក្យសម្ងាត់ម្តងទៀត
+enable-backup-encryption-cancel-button = បោះបង់
+enable-backup-encryption-confirm-button = រក្សា​ទុក
+change-backup-encryption-header = ផ្លាស់ប្តូរពាក្យសម្ងាត់បម្រុងទុក
 
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
+password-rules-header = តម្រូវការពាក្យសម្ងាត់
 password-rules-length-description = យ៉ាងហោចណាស់ 8 តួអក្សរ
+password-rules-email-description = មិនមែនអាសយដ្ឋានអ៊ីមែលរបស់អ្នកទេ
+password-validity-has-email = មិនអាចជាអាសយដ្ឋានអ៊ីមែលបានទេ
+password-validity-do-not-match = ពាក្យសម្ងាត់មិនត្រូវគ្នាទេ
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = ជោគជ័យ
+password-rules-a11y-warning =
+    .alt = ការ​ព្រមាន
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = លុបការការពារពាក្យសម្ងាត់
+disable-backup-encryption-cancel-button = បោះបង់
+disable-backup-encryption-confirm-button = លុបពាក្យសម្ងាត់
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-title = ស្ដារ { -brand-short-name }
+backup-file-path-label = ឯកសារបម្រុងទុក៖
+backup-file-encryption-state-label = បានអ៊ិនគ្រីប៖
+backup-file-encryption-state-value-encrypted = បាទ/ចាស
+backup-file-encryption-state-value-not-encrypted = ទេ
+backup-file-creation-device-label = ឧបករណ៍៖
+backup-file-creation-date-label = បានបង្កើត៖
+backup-file-how-to-restore-header = របៀបស្ដារឡើងវិញ៖
+backup-file-moz-browser-restore-step-2 = ចុច "ជ្រើសរើសឯកសារបម្រុងទុក" ហើយជ្រើសរើសឯកសារនេះ
+backup-file-other-browser-restore-step-1 = ទាញយក និងដំឡើង { -brand-short-name }
+backup-file-download-moz-browser-button = ទាញ​យក
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = គ្មានឯកសារណាមួយត្រូវបានជ្រើសរើសទេ

@@ -44,6 +44,13 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
         [macos] ឯកសារ CSV
        *[other] CSV File
     }
+# Checkbox label to confirm the removal of saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-confirm =
+    { $total ->
+        [1] បាទ/ចាស ដកពាក្យសម្ងាត់ចេញ
+       *[other] បាទ/ចាស ដកពាក្យសម្ងាត់ចេញ
+    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-confirm-button =
@@ -62,3 +69,16 @@ contextual-manager-passwords-remove-login-card-cancel-button = បោះបង�
 
 contextual-manager-copy-icon =
     .alt = ចម្លង
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = រកមិនឃើញពាក្យសម្ងាត់ទេ
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] បាទ/ចាស៎ លុបពាក្យសម្ងាត់ចេញ
+       *[other] បាទ/ចាស៎ លុបពាក្យសម្ងាត់ចេញ
+    }

@@ -2227,6 +2227,9 @@ preferences-ai-controls-description = { -brand-short-name } ile her zaman tercih
 preferences-ai-controls-block-ai-label = Yapay zekâ geliştirmelerini engelle
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Engellemeyi seçtiğinizde { -brand-short-name } tarayıcısında mevcut ve ileride eklenecek yapay zekâ geliştirmelerini görmez, onlarla ilgili tanıtımlar almazsınız. Bu özelliklere nelerin dahil olduğu, arama önerileri ve uzantı önerileri gibi geleneksel makine öğrenimi özelliklerini nasıl kontrol edebileceğinizi <a data-l10n-name="link">buradan öğrenebilirsiniz</a>.
+preferences-ai-controls-blocked-message =
+    .message = Yeni ve mevcut yapay zekâ geliştirmeleri varsayılan olarak engelleniyor. Belirli bir özelliğin engelini kaldırmak isterseniz aşağıdaki düğmeleri kullanabilirsiniz.
 preferences-ai-controls-on-device-group =
     .label = Yerel yapay zekâ
     .description = Bu özellikler cihazınıza indirilen küçük yapay zekâ modellerini kullanır. Bu yaklaşım gizliliğinizin korunmasını sağlar.

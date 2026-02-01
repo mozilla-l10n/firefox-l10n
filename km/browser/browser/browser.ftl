@@ -211,6 +211,12 @@ urlbar-result-action-search-w-engine = ស្វែងរក​ជាមួយ {
 urlbar-result-action-switch-tab = ប្ដូរ​ទៅ​ផ្ទាំង
 urlbar-result-action-visit = មើល
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = កុំទាន់
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -425,3 +431,10 @@ popup-show-popup-menuitem =
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-cancel = បោះបង់
+
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = មិនមានសុវត្ថិភាព

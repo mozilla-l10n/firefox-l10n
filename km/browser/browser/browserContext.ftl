@@ -113,6 +113,12 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = ចម្លង​អាសយដ្ឋានអ៊ីមែល
     .accesskey = E
+main-context-menu-copy-link-simple =
+    .label = ចម្លង​តំណ
+    .accesskey = ច
+main-context-menu-preview-link =
+    .label = មើលតំណភ្ជាប់ជាមុន
+    .accesskey = ម
 
 ## Media (video/audio) controls
 ##
@@ -143,6 +149,8 @@ main-context-menu-media-play-speed-fast-2 =
     .label = 1.25×
 main-context-menu-media-play-speed-faster-2 =
     .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = ២×
 main-context-menu-media-loop =
     .label = រង្វិល​ជុំ
     .accesskey = L
