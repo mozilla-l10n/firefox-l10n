@@ -88,6 +88,7 @@ inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Δοκιμά
 inactive-css-not-multicol-container-fix = Δοκιμάστε να προσθέσετε είτε το <strong>column-count</strong> είτε το <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Δοκιμάστε να προσθέσετε το <strong>column-count</strong> ή το <strong>column-width</strong> σε ένα από τα προγονικά του στοιχεία. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Δοκιμάστε να προσθέσετε το <strong>position:absolute</strong> στο στοιχείο ή το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Δοκιμάστε να προσθέσετε το <strong>position:absolute</strong> στο στοιχείο, ή το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong> στο γονικό στοιχείο. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο. { learn-more }
 inactive-css-not-grid-item-fix-2 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong> στο γονικό στοιχείο. { learn-more }
 inactive-css-not-grid-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:inline-grid</strong>. { learn-more }
@@ -141,3 +142,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Μάθετε 
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Αυτός ο επιλογέας χρησιμοποιεί απεριόριστο <strong>:has()</strong>, το οποίο μπορεί να είναι αργό
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Τα αδελφικά στοιχεία επιλογής μετά το <strong>:scope</strong> δεν θα ταιριάξουν ποτέ με τίποτα

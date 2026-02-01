@@ -37,6 +37,10 @@ about-translations-output-placeholder =
 about-translations-copy-button-default =
     .label = Αντιγραφή
     .title = Αντιγραφή μετάφρασης
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Αντιγράφηκε
+    .title = Αντιγραφή μετάφρασης
 # Text displayed on target-language selector when no language option is selected.
 about-translations-select-label =
     .label = Επιλογή γλώσσας
