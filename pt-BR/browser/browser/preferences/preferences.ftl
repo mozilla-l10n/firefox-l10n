@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = b
 browser-layout-header2 =
     .label = Disposição do navegador
+browser-layout-horizontal-tabs2 =
+    .label = Abas na horizontal
+    .title = Abas no alto
+    .description = Abas embaixo
+browser-layout-vertical-tabs2 =
+    .label = Abas na vertical
+    .title = Abas ao lado, no painel lateral
+    .description = Abas ao lado, no painel lateral
 browser-layout-show-sidebar2 =
     .label = Mostrar painel lateral
     .description = Acesse rapidamente favoritos, abas do seu celular, chatbots de inteligência artificial e muito mais sem sair da visão principal.
@@ -399,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Aviso: Se você selecionar “Zoom apenas no texto” e o zoom padrão não estiver definido como 100%, pode atrapalhar alguns sites ou conteúdos.
 language-header = Idioma
 choose-language-description = Escolha o idioma preferido para exibir páginas
+website-language-heading =
+    .label = Idioma do site
+    .description = Algumas páginas do site são exibidas em vários idiomas. Escolha idiomas em sua ordem de preferência.
+website-preferred-language =
+    .label = Idiomas preferidos
+website-add-language =
+    .label = Adicionar idioma
+website-add-language-button =
+    .aria-label = Adicionar idioma selecionado
+    .title = Adicionar idioma selecionado
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Remover { $locale }
+    .title = Remover { $locale }
 choose-button =
     .label = Selecionar…
     .accesskey = S
