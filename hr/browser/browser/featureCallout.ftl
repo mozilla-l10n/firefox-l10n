@@ -130,11 +130,15 @@ windows-10-eos-sync-urgency-title-1 = Nemoj izgubiti spremljene podatke prilikom
 windows-10-eos-sync-urgency-subtitle-1 = Sinkroniziraj sada da osiguraš svoje { -brand-short-name } zabilješke, lozinke i postavke, te da ih možeš jednostavno obnoviti.
 windows-10-eos-sync-urgency-title-2 = Opraštaš se od Windows 10? Zaštiti svoje podatke tijekom prelaska.
 windows-10-eos-sync-urgency-subtitle-2 = Čak i ako ne koristiš { -brand-short-name } svakodnevno, sinkroniziraj ga da osiguraš i jednostavno pristupiš svojim zabilješkama i lozinkama.
+windows-10-eos-sync-new-device-title-1 = Nemoj riskirati da moraš krenuti ispočetka na svojem sljedećem uređaju.
 windows-10-eos-sync-new-device-subtitle-1 = Sinkroniziraj { -brand-short-name } tako da svoje zabilješke, lozinke i postavke možeš ponijeti sa sobom kada se seliš na novi uređaj.
 windows-10-eos-sync-new-device-title-2 = Prelaziš na novi uređaj? Nemoj izgubiti ono što ti je bitno.
 windows-10-eos-sync-new-device-subtitle-2 = Bez obzira koliko često koristiš { -brand-short-name }, sinkronizacija štiti tvoje zabilješke, lozinke i postavke.
 windows-10-eos-sync-new-device-primary-label = Sinkroniziraj sada
 windows-10-eos-sync-general-title-1 = Zaštiti { -brand-short-name } kojeg si učinio/la svojim.
+windows-10-eos-sync-general-subtitle-1 = Sigurnosno kopiraj i sinkroniziraj svoje lozinke, zabilješke, postavke i druge podatke da sačuvaš ono što ti je važno.
+windows-10-eos-sync-general-title-2 = Sada je dobro vrijeme da sigurnosno kopiraš svoje lozinke i zabilješke.
+windows-10-eos-sync-general-subtitle-2 = Sinkroniziraj sada da zaštitiš stvari koje povjeriš { -brand-short-name(case: "dat") } – i vrati ih bilo gdje, bilo kada.
 windows-10-eos-sync-tour-title-1 = Previše kartica? Pospremi ih pomoću grupa kartica.
 windows-10-eos-sync-tour-subtitle-1 = Povuci jednu karticu preko druge za stvaranje grupe i održi stvari organiziranima.
 windows-10-eos-sync-tour-title-2 = Organiziraj se za Windows 11.
@@ -154,6 +158,8 @@ link-preview-onboarding-callout-description = Pogledaj kratki opis, vrijeme čit
 sidebar-button-callout-title = Prikaži naslove kartica u bočnoj traci
 sidebar-button-callout-subtitle = Koristi gumb bočne trake za prikaz naslova kartica.
 sidebar-button-callout-vertical-tabs = Za prikaz kartica odaberi gumb bočne trake u alatnoj traci.
+sidebar-deprecation-callout-title = Uskoro stiže nadograđena bočna traka
+sidebar-deprecation-callout-subtitle = Postupno ukidamo verziju bočne trake koju trenutačno koristiš. Isprobaj nadograđenu bočnu traku. Brža je i pruža pristup većem broju alata.
 sidebar-deprecation-cta-button = Isprobaj sada
 
 ## Sidebar Vertical Tabs Strings

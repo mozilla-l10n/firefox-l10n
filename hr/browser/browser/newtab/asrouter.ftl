@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
     .title = Zatvori
 fxa-adoption-addresses-backup-title = Sigurnosno kopirajmo tvoje spremljene adrese
+fxa-adoption-addresses-backup-subtitle = Zaštiti svoje spremljene adrese sinkronizacijom s uređajima pomoću šifriranja.
 fxa-adoption-credit-cards-backup-title = Izradimo sigurnosnu kopiju tvojih načina plaćanja
 fxa-adoption-credit-cards-backup-subtitle = Zaštiti svoje načine plaćanja sinkronizacijom s uređajima pomoću šifriranja.
 fxa-adoption-bookmarks-treatment-backup-title = Sigurnosno kopiraj svoje zabilješke
@@ -242,6 +243,8 @@ set-default-pdf-handler-primary = Razumijem
 # If this expression doesn’t have a direct translation, please
 # translate this alternative string: "Add your signature anywhere!"
 annotations-default-pdf-handler-headline = Potpiši se na isprekidanoj liniji – ili bilo gdje!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Nacrtaj, upiši ili prenesi svoj potpis, zatim ga postavi točno tamo gdje želiš. Spremi svoj omiljeni potpis za sljedeći put.
 annotations-make-default-pdf-handler-title = Postaviti { -brand-short-name } kao zadani uređivač PDF-ova?
 annotations-make-default-pdf-handler-subtitle = Imat ćeš pristup našim alatima svaki put kada otvoriš PDF.
 annotations-make-default-pdf-primary-cta-label = Postavi kao zadano
@@ -393,6 +396,8 @@ windows-10-eos-challenger-pin-callout-subtitle = Prikvači { -brand-shorter-name
 windows-10-eos-challenger-sync-primary-button = Sigurnosno kopiraj { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Prikvači { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudare, programe za praćenje društvenih mreža i prikupljače digitalnih otisaka.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Programi za praćenje ne mogu identificirati tvoj uređaj niti te pratiti po webu – jer im mi to ne dopuštamo.
+windows-10-eos-sync-callout-privacy-screen-2-title = Osiguraj svoje lozinke i zabilješke za sljedeći uređaj.
 windows-10-eos-sync-callout-privacy-info-button = Pogledaj što je blokirano
 windows-10-eos-callout-addons-title = Isprobaj dodatke: jednostavne nadogradnje, veliki učinci
 windows-10-eos-callout-addons-primary-button = Pogledaj naš izbor

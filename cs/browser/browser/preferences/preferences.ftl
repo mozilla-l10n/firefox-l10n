@@ -2405,8 +2405,8 @@ httpsonly-label2 =
 preferences-doh-header = DNS over HTTPS
 dns-over-https-group =
     .label = DNS over HTTPS
-preferences-doh-description = DNS over HTTPS odesílá váš požadavek na poskytnutí doménového jména skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
-preferences-doh-description2 = DNS over HTTPS odesílá váš požadavek na poskytnutí doménového jména skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
+preferences-doh-description = DNS over HTTPS odesílá váš požadavek na doménové jméno skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
+preferences-doh-description2 = DNS over HTTPS odesílá váš požadavek na doménové jméno skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stav: { $status }
