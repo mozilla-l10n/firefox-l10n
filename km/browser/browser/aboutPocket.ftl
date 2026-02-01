@@ -68,3 +68,4 @@ pocket-panel-header-sign-in = ចូល
 
 pocket-panel-button-show-all = បង្ហាញ​ទាំងអស់
 pocket-panel-button-activate = បើកដំណើរការ { -pocket-brand-name } នៅក្នុង { -brand-product-name }
+pocket-panel-button-remove = យកចេញ

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = គោលនយោបាយ​សម្រាប់​សហគ្រាស
+aboutpolicies-page-heading =
+    .heading = អំពីគោលការណ៍
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = សកម្ម
 errors-tab = កំហុស

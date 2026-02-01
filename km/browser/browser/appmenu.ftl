@@ -27,12 +27,16 @@ appmenuitem-downloads =
     .label = ទាញ​យក
 appmenuitem-passwords =
     .label = ពាក្យសម្ងាត់
+appmenuitem-extensions =
+    .label = ផ្នែក​បន្ថែម
 appmenuitem-addons-and-themes =
     .label = កម្មវិធីបន្ថែមស្បែក
 appmenuitem-print =
     .label = បោះពុម្ព…
 appmenuitem-find-in-page =
     .label = ស្វែងរកក្នុងទំព័រ…
+appmenuitem-translate =
+    .label = បកប្រែទំព័រ…
 appmenuitem-zoom =
     .value = ពង្រីក
 appmenuitem-more-tools =
@@ -75,17 +79,25 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = បង្ហាញផ្ទាំងបន្ថែមច្រើនទៀត
     .tooltiptext = បង្ហាញ​ផ្ទាំង​បន្ថែម​ទៀត​ពី​ឧបករណ៍​នេះ
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = ផ្ទាំងអសកម្ម
+    .tooltiptext = មើលផ្ទាំងដែលមិនសកម្មនៅលើឧបករណ៍នេះ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = គ្មានផ្ទាំងបើកទេ
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = បើកសមកាលកម្មផ្ទាំងដើម្បីបង្ហាញបញ្ជីនៃផ្ទាំងពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក ។
+appmenu-remote-tabs-opensettings =
+    .label = ការ​កំណត់
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ចង់​មើល​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង​នៅ​ទីនេះ​មែន​ទេ?
 appmenu-remote-tabs-connectdevice =
     .label = ភ្ជាប់​ឧបករណ៍​ផ្សេង
+appmenu-remote-tabs-welcome = មើលបញ្ជីផ្ទាំងពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក។
 appmenu-remote-tabs-unverified = គណនី​របស់​អ្នក​ត្រូវធ្វើការ​​ផ្ទៀងផ្ទាត់។
 appmenuitem-fxa-toolbar-sync-now2 = ធ្វើសមកាលកម្មឥឡូវនេះ
+appmenuitem-fxa-sign-in = ចូលទៅកាន់ { -brand-product-name }
 appmenuitem-fxa-manage-account = គ្រប់គ្រង​គណនី
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = គណនី
@@ -98,8 +110,11 @@ appmenu-fxa-sync-and-save-data2 = ធ្វើសមកាលកម្ម និ
 appmenu-fxa-signed-in-label = ចូល
 appmenu-fxa-setup-sync =
     .label = បើកការធ្វើសមកាលកម្ម ...
+appmenu-fxa-setup-sync-new = បើក
 appmenuitem-save-page =
     .label = រក្សា​ទុក​ទំព័រជា...
+appmenuitem-fxa-sync-off-title = សមកាលកម្មត្រូវបានបិទ
+appmenuitem-fxa-sync-off-description = ការពារ និងចូលប្រើចំណាំ ពាក្យសម្ងាត់ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែង។
 
 ## What's New panel in App menu.
 
@@ -150,6 +165,26 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## Profiler presets
+## They are shown in the popup's select box.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+profiler-popup-presets-web-developer-label =
+    .label = អ្នកអភិវឌ្ឍន៍គេហទំព័រ
+profiler-popup-presets-graphics-label =
+    .label = ក្រាហ្វិក
+profiler-popup-presets-media-label =
+    .label = មេឌៀ
 
 ## History panel
 

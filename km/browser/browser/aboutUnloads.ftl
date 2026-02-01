@@ -7,3 +7,5 @@
 ### feature.
 
 about-unloads-page-title = មិនកំពុងផ្ទុក​ផ្ទាំង
+about-unloads-column-priority = អាទិភាព
+about-unloads-column-last-accessed = បានចូលប្រើចុងក្រោយ

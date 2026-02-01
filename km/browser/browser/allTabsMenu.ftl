@@ -12,3 +12,16 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
     .accesskey = o
+all-tabs-menu-close-all-duplicate-tabs =
+    .label = បិទផ្ទាំងស្ទួនទាំងអស់
+all-tabs-menu-synced-tabs =
+    .label = ផ្ទាំងពីឧបករណ៍ផ្សេងទៀត
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = ក្រុមផ្ទាំងថ្មីៗ
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = បង្ហាញ​ទាំងអស់
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = ក្រុមផ្ទាំង
