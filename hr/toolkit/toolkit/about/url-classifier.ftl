@@ -14,6 +14,7 @@ url-classifier-search-result-list = Popis tablica: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Neispravan URL
 url-classifier-search-error-no-features = Nijedna funkcija nije odabrana
+url-classifier-search-error-no-results = Nije pronađen nijedan unos za URL
 url-classifier-search-btn = Počni tražiti
 url-classifier-search-features = Funkcije
 url-classifier-search-listType = Vrsta popisa

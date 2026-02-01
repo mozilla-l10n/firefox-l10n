@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Mjesto osnivanja
 certificate-viewer-locality = Područje
 certificate-viewer-location = Mjesto
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Ime zapisa
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID zapisnika
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul
@@ -111,6 +113,8 @@ certificate-viewer-export = Izvezi
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (nepoznato)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = certifikat
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

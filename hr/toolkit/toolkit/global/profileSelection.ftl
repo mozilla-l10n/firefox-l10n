@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Koristi odabrani profil bez pitanja pri pokretanju
     .accesskey = s
+profile-has-selectable-profiles-title = Nije moguće se izbrisati profil koji je povezan s drugim profilima
+profile-has-selectable-profiles-message = Za brisanje ovog profila, otvori ga i odaberi „Upravljaj profilima” iz birača profila u { -brand-short-name } izborniku. Nakon brisanja bilo kojih stvorenih dodatnih profila, možeš se vratiti na about:profiles i izbrisati ovaj profil.
