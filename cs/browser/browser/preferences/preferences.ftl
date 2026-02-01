@@ -2377,7 +2377,7 @@ httpsonly-header = Režim „pouze HTTPS“
 httpsonly-label =
     .aria-label = { httpsonly-header }
     .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
-httpsonly-description3 = Umožňuje pouze zabezpečená spojení s weby. Před použitím nezabezpečeného spojení se { -brand-short-name } zeptá.
+httpsonly-description3 = Povoluje pouze zabezpečená spojení s weby. Před použitím nezabezpečeného spojení se { -brand-short-name } zeptá.
 httpsonly-learn-more2 = Jak funguje režim „pouze HTTPS“.
 httpsonly-description =
     { -brand-short-name.case-status ->
