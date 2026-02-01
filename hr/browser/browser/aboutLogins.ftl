@@ -223,7 +223,7 @@ confirmation-dialog-cancel-button = Odustani
 confirmation-dialog-dismiss-button =
     .title = Odustani
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
-confirm-delete-dialog-message = Ova radnja je nepovratna.
+confirm-delete-dialog-message = Ovo je nepovratna radnja.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Ukloniti lozinku?
 # Message for modal to confirm the removal of one saved password

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = otvoriti novi, čisti prozor
-panic-button-undo-warning = Ova se radnja ne može poništiti.
+panic-button-undo-warning = Ovo je nepovratna radnja.
 panic-button-forget-button =
     .label = Zaboravi!
 
