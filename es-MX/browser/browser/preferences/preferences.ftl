@@ -635,6 +635,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página de inicio y nuevas ventanas
+home-homepage-new-windows =
+    .label = Nuevas ventanas
 home-newtabs-mode-label = Nuevas pestañas
 home-homepage-new-tabs =
     .label = Nuevas pestañas
@@ -664,6 +666,11 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
 
+## Custom Homepage subpage
+
+home-custom-homepage-address-button =
+    .label = Agregar dirección
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Contenido de { -firefox-home-brand-name }
@@ -675,6 +682,8 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sitios que guardas o visitas
 home-prefs-shortcuts-by-option-sponsored =
     .label = Atajos patrocinados
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -684,6 +693,12 @@ home-prefs-recommended-by-description-new = Contenido excepcional seleccionado p
 home-prefs-recommended-by-header-generic =
     .label = Historias recomendadas
 home-prefs-recommended-by-description-generic = Contenido excepcional seleccionado por la familia { -brand-product-name }
+home-prefs-stories-header =
+    .label = Historias
+home-prefs-stories-description = Historias personalizadas basadas en tu actividad
+home-prefs-stories-header2 =
+    .label = Historias
+    .description = Contenido excepcional seleccionado por la familia { -brand-product-name }
 
 ##
 
