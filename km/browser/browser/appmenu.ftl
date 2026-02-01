@@ -185,6 +185,11 @@ profiler-popup-presets-graphics-label =
     .label = ក្រាហ្វិក
 profiler-popup-presets-media-label =
     .label = មេឌៀ
+profiler-popup-presets-networking-label =
+    .label = បណ្តាញ
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = ថាមពល
 
 ## History panel
 
@@ -199,6 +204,9 @@ appmenu-recently-closed-tabs =
     .label = ផ្ទាំង​ដែល​បិទ​ថ្មីៗ
 appmenu-recently-closed-windows =
     .label = បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = ស្វែងរក​ប្រវត្តិ
 
 ## Help panel
 
@@ -218,6 +226,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = ចែករំលែកគំនិតនិងមតិយោបល់…
     .accesskey = S
+appmenu-help-switch-device =
+    .label = ការប្តូរទៅឧបករណ៍ថ្មី
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -246,10 +256,14 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក
 appmenu-developer-tools-extensions =
     .label = ផ្នែកបន្ថែមសម្រាប់អ្នកអភិវឌ្ឍន៍
+appmenuitem-report-broken-site =
+    .label = រាយការណ៍គេហទំព័រដែលខូច
 
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
+appmenu-services-header = សេវាកម្មរបស់ខ្ញុំ
+appmenu-other-protection-header = សាកល្បងឧបករណ៍ការពារផ្សេងទៀតពី { -vendor-short-name }៖
 
 ## Profiles panel
 

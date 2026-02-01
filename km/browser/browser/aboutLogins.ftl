@@ -62,6 +62,7 @@ about-logins-login-list-alerts-option = ការជូនដំណឹង
 login-list-last-changed-option = បាន​កែប្រែ​ចុងក្រោយ
 login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
 login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
+login-list-intro-title2 = គ្មានពាក្យសម្ងាត់ត្រូវបានរក្សាទុកទេ
 login-list-intro-description = នៅពេល​អ្នក​រក្សាទុក​ពាក្យ​សម្ងាត់​នៅ​ក្នុង { -brand-product-name } វា​នឹង​បង្ហាញ​នៅ​ត្រង់​នេះ។
 about-logins-login-list-empty-search-title = រក​មិន​ឃើញ​ការ​ចូល
 about-logins-login-list-empty-search-title2 = រកពាក្យសម្ងាត់មិនឃើញ
@@ -117,6 +118,7 @@ login-item-password-conceal-checkbox =
 login-item-copy-password-button-text = ចម្លង
 login-item-copied-password-button-text = បាន​ចម្លង!
 login-item-save-changes-button = រក្សាទុក​ការផ្លាស់ប្ដូរ
+about-logins-login-item-save-changes-button = រក្សា​ទុក
 login-item-save-new-button = រក្សាទុក
 login-item-cancel-button = បោះបង់
 
@@ -124,7 +126,9 @@ login-item-cancel-button = បោះបង់
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = បាន​បង្កើត
 login-item-timeline-action-updated = បានធ្វើបច្ចុប្បន្នភាព
+login-item-timeline-action-used = ប្រើរួច
 
 ## OS Authentication dialog
 
@@ -139,6 +143,9 @@ about-logins-edit-login-os-auth-dialog-message-win = ដើម្បីកែស
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = កែសម្រួលការចូលដែលបានរក្សាទុក
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = កែសម្រួលពាក្យសម្ងាត់ដែលបានរក្សាទុក
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ដើម្បីមើល​ពាក្យសម្ងាត់​របស់អ្នក សូម​បញ្ចូល​ព័ត៌មាន​ផ្ទៀងផ្ទាត់​ការចូល​ Windows របស់​អ្នក។ វា​ជួយ​ការពារ​សុវត្ថិភាព​គណនី​របស់​អ្នក។
 # This message can be seen when attempting to reveal a password in about:logins
@@ -154,6 +161,9 @@ about-logins-export-password-os-auth-dialog-message-win = ដើម្បីន�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = នាំចេញការចូលនិងពាក្យសម្ងាត់ដែលបានរក្សាទុក
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = នាំចេញពាក្យសម្ងាត់ដែលបានរក្សាទុក
 
 ## Primary Password notification
 
@@ -169,6 +179,8 @@ confirmation-dialog-dismiss-button =
     .title = បោះបង់
 about-logins-confirm-remove-dialog-title = លុបការចូលនេះចេញ?
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = លុបពាក្យសម្ងាត់ចេញ?
 about-logins-confirm-remove-dialog-confirm-button = លុប​ចេញ
 
 ## Variables
@@ -209,12 +221,19 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] បាទ/ចាស ដកពាក្យសម្ងាត់ចេញ
        *[other] បាទ/ចាស ដកពាក្យសម្ងាត់ចេញ
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] លុបពាក្យសម្ងាត់ { $count } ទាំងអស់ចេញ?
+       *[other] លុបពាក្យសម្ងាត់ទាំងអស់ { $count } ចេញ?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-message = ពាក្យសម្ងាត់​របស់​អ្នក​នឹង​ត្រូវបាន​រក្សាទុក​ជាអត្ថបទ​ដែល​អាច​អាន​បាន (ឧ. BadP@ssw0rd) ដូច្នេះ​នរណា​ដែល​អាច​បើក​ឯកសារ​ដែល​បាន​នាំចេញ​ អាច​មើលពាក្យ​សម្ងាត់​ទាំងនោះបាន។
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
+about-logins-confirm-export-dialog-confirm-button2 = បន្តនាំចេញ
 about-logins-alert-import-title = ការនាំចូល​បាន​បញ្ចប់
 about-logins-alert-import-message = មើល​សេចក្ដី​សង្ខេប​អំពី​ការនាំចូល​លម្អិត
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
@@ -256,6 +275,11 @@ about-logins-export-file-picker-title = នាំចេញឯកសារចូ�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = នាំចេញពាក្យសម្ងាត់ពី { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = ពាក្យសម្ងាត់.csv
 about-logins-export-file-picker-export-button = នាំចេញ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -329,6 +353,8 @@ about-logins-import-report-row-index = ជួរដេក { $number }
 about-logins-import-report-row-description-no-change = ស្ទួន៖ ត្រូវគ្នា​ជាមួយ​ការចូល​ដែល​មាន​ស្រាប់
 about-logins-import-report-row-description-modified = ការចូល​ដែល​មាន​ស្រាប់​ត្រូវបាន​ធ្វើបច្ចុប្បន្នភាព
 about-logins-import-report-row-description-added = ការចូល​ថ្មី​ត្រូវបាន​បញ្ចូល
+about-logins-import-report-row-description-modified2 = ធាតុដែលមានស្រាប់ត្រូវបានធ្វើបច្ចុប្បន្នភាព
+about-logins-import-report-row-description-added2 = បានបន្ថែមពាក្យសម្ងាត់ថ្មី
 about-logins-import-report-row-description-error = បញ្ហា៖ មិន​បាន​បញ្ចូល​កន្លែង​ណាមួយ
 
 ##

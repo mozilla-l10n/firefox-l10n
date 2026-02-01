@@ -32,6 +32,7 @@ mr1-onboarding-sign-in-button-label = ចូល
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = នាំចូលពី { $previous }
+mr1-onboarding-theme-secondary-button-label = កុំទាន់
 mr1-onboarding-theme-label-dark = ងងឹត
 onboarding-theme-primary-button-label = រួចរាល់
 
@@ -75,3 +76,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = បង្ហា�
 
 mr2022-onboarding-gratitude-primary-button-label = មើល​អ្វី​ដែល​ថ្មី
 mr2022-onboarding-gratitude-secondary-button-label = ចាប់ផ្ដើម​រុករក
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-survey-time-based-option-2 = តិចជាង 1 ខែ

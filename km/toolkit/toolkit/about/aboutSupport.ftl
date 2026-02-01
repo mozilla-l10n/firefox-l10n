@@ -81,6 +81,7 @@ try-newer-driver = បាន​ទប់ស្កាត់​សម្រាប�
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ប៉ារ៉ាម៉ែត្រ ClearType
+yes = បាទ/ចាស
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

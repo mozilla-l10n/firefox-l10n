@@ -7,3 +7,9 @@
 
 abuse-report-cancel-button = បោះបង់
 abuse-report-goback-button = ថយ​ក្រោយ
+
+## Message bars actions.
+
+abuse-report-messagebar-action-remove-extension = បាទ/ចាស៎ លុបវាចេញ
+abuse-report-messagebar-action-remove-sitepermission = បាទ/ចាស៎ លុបវាចេញ
+abuse-report-messagebar-action-remove-theme = បាទ/ចាស៎ លុបវាចេញ

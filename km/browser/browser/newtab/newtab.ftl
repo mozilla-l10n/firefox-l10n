@@ -146,16 +146,46 @@ newtab-pocket-read-more = ប្រធានបទកំពុងពេញនិ
 newtab-pocket-more-recommendations = ការណែនាំច្រើនទៀត
 newtab-pocket-cta-button = ទាញយក { -pocket-brand-name }
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = មិនមែនសម្រាប់ខ្ញុំទេ
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = អូ មានអ្វីមួយខុសប្រក្រតីក្នុងការផ្ទុក​ខ្លឹមសារ​នេះ។
 newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវិញ ដើម្បីព្យាយាមម្ដងទៀត។
 
+## New Tab Weather
+
+newtab-weather-opt-in-not-now =
+    .label = កុំទាន់
+newtab-weather-opt-in-yes =
+    .label = បាទ/ចាស៎
+
 ## Topic Selection Modal
 
 newtab-topic-selection-cancel-button = បោះបង់
 
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = កុំទាន់
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-cta = សាកល្បងឥឡូវនេះ
+
 ## Strings for reporting issues with ads and content
 
+newtab-report-ads-reason-not-interested =
+    .label = ខ្ញុំមិនចាប់អារម្មណ៍ទេ
 newtab-report-cancel = បោះបង់
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-warning = ការជូនដំណឹងត្រូវបានបិទ
+newtab-widget-timer-menu-notifications = បិទការជូនដំណឹង
+newtab-widget-timer-menu-notifications-on = បើកការជូនដំណឹង

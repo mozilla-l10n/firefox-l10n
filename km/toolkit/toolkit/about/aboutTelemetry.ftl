@@ -7,6 +7,7 @@ about-telemetry-show-archived-ping-data = ទិន្នន័យ​ភីង�
 about-telemetry-show-subsession-data = បង្ហាញ​ទិន្នន័យ​សម័យ​រង
 about-telemetry-choose-ping = ជ្រើស​ភីង៖
 about-telemetry-archive-ping-header = ភីង
+about-telemetry-option-group-yesterday = ម្សិលមិញ
 about-telemetry-page-title = ទិន្នន័យ Telemetry
 about-telemetry-general-data-section = ទិន្នន័យ​ទូទៅ
 about-telemetry-environment-data-section = ទិន្នន័យ​បរិស្ថាន

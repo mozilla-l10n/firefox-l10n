@@ -24,3 +24,31 @@ process-type-webisolated = មាតិកាគេហទំព័រដាច�
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = បុគ្គលិកសេវាដាច់ឆ្ងាយ
+# process preallocated; may change to other types
+process-type-prealloc = បែងចែកជាមុន
+
+##
+## Localization for Gecko process types defined in GeckoProcessTypes.h
+
+process-type-default = ចម្បង
+process-type-tab = ផ្ទាំង
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = រន្ធ
+# process used to decode media
+process-type-rdd = RDD
+# process used to run inference
+process-type-inference = ការសន្និដ្ឋាន
+# process used to run some IPC actor in their own sandbox
+process-type-utility = តួរអង្គ IPC ដែលត្រូវបាន Sandboxed
+process-type-utility-actor-audio-decoder-generic = ឧបករណ៍ឌិកូដអូឌីយ៉ូទូទៅសម្រាប់ប្រើប្រាស់
+process-type-utility-actor-audio-decoder-applemedia = ឧបករណ៍ប្រើប្រាស់ AppleMedia
+process-type-utility-actor-audio-decoder-wmf = មូលនិធិប្រព័ន្ធផ្សព្វផ្សាយវីនដូឧបករណ៍ប្រើប្រាស់
+
+##
+## Other
+
+# fallback
+process-type-unknown = មិន​ស្គាល់
