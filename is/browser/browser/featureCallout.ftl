@@ -108,6 +108,8 @@ windows-10-eos-sync-new-device-primary-label = Samstilla núna
 windows-10-eos-sync-tour-title-1 = Of margir flipar? Taktu til með aðstoð flipahópa.
 windows-10-eos-sync-tour-title-2 = Skipuleggðu þig fyrir komu Windows 11.
 windows-10-eos-sync-tour-subtitle-2 = Samstilltu bókamerki, lykilorð og stillingar til að taka afrit af þeim áður en þú skiptir.
+windows-10-eos-sync-dismiss-button-label = Afgreiða
+windows-10-eos-sync-callout-primary-advance-button-label = Næsta
 
 ## Sidebar Strings
 

@@ -426,6 +426,9 @@ quickactions-cmd-restart = endurræsa
 # Opens the screenshot tool
 quickactions-screenshot3 = Taka skjámynd
 quickactions-cmd-screenshot2 = skjámynd, taka skjámynd
+# Opens about:translations
+quickactions-translate = Þýða
+quickactions-cmd-translate = þýða
 quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings2 = Sýsla með stillingar
@@ -913,6 +916,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Að þessu sinni leita með:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Leita með:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Leitarstillingar
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
