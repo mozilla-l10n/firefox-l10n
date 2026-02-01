@@ -98,6 +98,7 @@ perplexity-callout-theme-1-title = ¿Necesita la respuesta correcta de inmediato
 perplexity-callout-theme-2-title = Prueba Perplexity: una nueva forma de buscar
 perplexity-callout-theme-1-subtitle-1 = Prueba Perplexity. Selecciónalo en el botón de búsqueda cuando quieras respuestas completas, incluidas las fuentes.
 perplexity-callout-theme-1-subtitle-2 = Haz preguntas. Obtén respuestas completas y bien citadas. Para probar Perplexity, selecciónalo en el botón de búsqueda.
+perplexity-callout-theme-2-subtitle-1 = Pregúntale a Perplexity. Recibirás respuestas completas, con fuentes incluidas.
 perplexity-callout-primary-label = Pregúntale a Perplexity
 perplexity-callout-secondary-label-1 = Descartar
 perplexity-callout-secondary-label-2 = Enterado
@@ -155,6 +156,7 @@ sidebar-customization-callout-1-title = Barra lateral: tu espacio para herramien
 sidebar-customization-callout-1-subtitle = La barra lateral { -brand-product-name } te brinda acceso rápido a tu historial de navegación, pestañas de otros dispositivos y un chatbot de IA, todo sin salir de tu vista principal.
 sidebar-customization-callout-callout-button = Personalizar barra lateral
 sidebar-customization-callout-dismiss-button = Ocultar barra lateral
+sidebar-customization-callout-2-title = Personaliza la barra lateral de { -brand-product-name }
 sidebar-customization-callout-2-subtitle = Agrega y elimina herramientas. Coloca tus pestañas en la barra lateral. Prueba un chatbot con IA. Personaliza tu barra lateral como quieras.
 
 ## Sidebar Callout Survey Strings
