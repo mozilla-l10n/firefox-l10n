@@ -2189,13 +2189,13 @@ permissions-notification2 =
 
 collection-header =
     { -brand-short-name.case-status ->
-        [with-cases] Sběr a používání dat o { -brand-short-name(case: "loc") }
-       *[no-cases] Sběr a používání dat o aplikaci { -brand-short-name }
+        [with-cases] Sběr a používání údajů o { -brand-short-name(case: "loc") }
+       *[no-cases] Sběr a používání údajů o aplikaci { -brand-short-name }
     }
 collection-header2 =
     { -brand-short-name.case-status ->
-        [with-cases] Sběr a používání dat o { -brand-short-name(case: "loc") }
-       *[no-cases] Sběr a používání dat o aplikaci { -brand-short-name }
+        [with-cases] Sběr a používání údajů o { -brand-short-name(case: "loc") }
+       *[no-cases] Sběr a používání údajů o aplikaci { -brand-short-name }
     }
     .searchkeywords = telemetrie
 preferences-collection-description =
