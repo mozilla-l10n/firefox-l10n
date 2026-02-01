@@ -36,7 +36,7 @@ settings-data-backup-last-backup-location = Mesto
 settings-data-backup-last-backup-location-show-in-folder = Prikaži v mapi
 settings-data-backup-last-backup-location-edit = Spremeni …
 settings-data-create-backup-error = { DATETIME($date, dateStyle: "short") } ob { DATETIME($date, timeStyle: "short") } je prišlo do napake
-settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačila ter ohranite vse svoje podatke s šifriranjem.
+settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačilna sredstva ter zavarujte vse podatke s šifriranjem.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ime datoteke: { $fileName }
@@ -101,6 +101,7 @@ restore-from-backup-support-link =
     .message = Kaj bo obnovljeno?
 restore-from-backup-no-backup-file-link = Ne uspete najti datoteke z varnostno kopijo?
 restore-from-backup-filepicker-label = Datoteka z varnostno kopijo
+restore-from-backup-filepicker-title = Izberite datoteko z varnostno kopijo:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Izberi …
@@ -119,6 +120,12 @@ restore-from-backup-restoring-button = Obnavljanje …
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Napačno geslo. <a data-l10n-name="incorrect-password-support-link">Imate še vedno težave?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Ta datoteka ne deluje
+    .message = Datoteka, iz katere ste poskušali obnoviti podatke, ne deluje. Izberite drugo datoteko in poskusite znova.
 # The backup file cannot be restored. The currently running application may
 # be too old and may not support features in the backed up profile.
 # Alternatively, the backup file may be too old and some of the feature in
@@ -132,6 +139,11 @@ backup-service-error-unsupported-version =
 backup-service-error-unsupported-application =
     .heading = Ta datoteka ne deluje
     .message = Datoteke, ki ste jo izbrali, ni ustvaril { -brand-short-name }. Izberite drugo datoteko in poskusite znova.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } ni mogel obnoviti podatkov
+    .message = Ponovno zaženite { -brand-short-name(sklon: "tozilnik") } in poskusite podatke varnostne kopije znova obnoviti.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
@@ -168,6 +180,7 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Odstranitev zaščite z geslom
+disable-backup-encryption-description2 = Shranjena gesla in plačilna sredstva se ne bodo več varnostno kopirala.
 disable-backup-encryption-support-link = Kaj se bo varnostno kopiralo?
 disable-backup-encryption-cancel-button = Prekliči
 disable-backup-encryption-confirm-button = Odstrani geslo
