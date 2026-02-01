@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Uporabi izbran profil brez spraševanja ob zagonu
     .accesskey = s
+profile-has-selectable-profiles-title = Profila, ki je povezan z drugimi profili, ni mogoče izbrisati
+profile-has-selectable-profiles-message = Ta profil lahko izbrišete tako, da ga odprete in v meniju { -brand-short-name(sklon: "rodilnik") } v razdelku s profili izberete "Upravljanje profilov". Potem ko izbrišete morebitne dodatne profile, ki ste jih tam ustvarili, se lahko vrnete na about:profiles in izbrišete ta profil.

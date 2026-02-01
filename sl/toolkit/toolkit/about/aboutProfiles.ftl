@@ -27,6 +27,7 @@ profiles-rootdir = Korenska mapa
 profiles-localdir = Krajevna mapa
 profiles-current-profile = Ta profil je v uporabi in ga ni mogoče izbrisati.
 profiles-in-use-profile = Ta profil trenutno uporablja drug program in ga ni mogoče izbrisati.
+profiles-cannot-delete-profile = Profila, ki je povezan z drugimi profili, ni mogoče izbrisati.
 profiles-rename = Preimenuj
 profiles-remove = Odstrani
 profiles-set-as-default = Nastavi kot privzeti profil

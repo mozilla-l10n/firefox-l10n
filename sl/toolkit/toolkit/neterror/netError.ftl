@@ -46,6 +46,10 @@ neterror-load-error-firewall = Če uporabljate posrednika ali požarni zid, se p
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Če poskušate naložiti stran lokalnega omrežja, preverite, ali ima { -brand-short-name } v nastavitvah zasebnosti in varnosti sistema macOS dovoljenja za lokalno omrežje.
 neterror-http-error-page = Preverite, ali ste naslov spletnega mesta vnesli pravilno.
+neterror-http-empty-response = Preverite, ali ste pravilno vnesli naslov spletnega mesta, in poskusite znova čez nekaj trenutkov.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } je vrnil prazno stran.
 neterror-captive-portal = Za dostop do interneta se morate prijaviti v to omrežje.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
