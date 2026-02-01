@@ -2200,8 +2200,8 @@ collection-header2 =
     .searchkeywords = telemetrie
 preferences-collection-description =
     { -brand-product-name.case-status ->
-        [with-cases] Snažíme se vám poskytnout možnost volby a shromažďovat pouze minimum údajů nezbytných pro zlepšení { -brand-product-name(case: "gen") } pro všechny.
-       *[no-cases] Snažíme se vám poskytnout možnost volby a shromažďovat pouze minimum údajů nezbytných pro zlepšení aplikace { -brand-product-name } pro všechny.
+        [with-cases] Snažíme se vám poskytnout možnost volby a sbírat jen minimum údajů potřebných k vylepšování { -brand-product-name(case: "gen") }.
+       *[no-cases] Snažíme se vám poskytnout možnost volby a sbírat jen minimum údajů potřebných k vylepšování aplikace { -brand-product-name }.
     }
 preferences-collection-privacy-notice = Zobrazit zásady ochrany osobních údajů
 preferences-across-profiles =

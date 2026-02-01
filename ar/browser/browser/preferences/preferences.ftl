@@ -1668,3 +1668,9 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = سطح المكتب
 downloads-folder-name = التّنزيلات
 choose-download-folder-title = اختر مجلّد التّنزيلات:
+
+## AI controls page
+
+preferences-ai-controls-translations-control =
+    .label = الترجمات
+    .description = تصفح الوِب بسهولة في لغتك المفضلة.
