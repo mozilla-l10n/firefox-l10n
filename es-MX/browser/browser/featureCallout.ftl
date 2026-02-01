@@ -99,6 +99,7 @@ perplexity-callout-theme-2-title = Prueba Perplexity: una nueva forma de buscar
 perplexity-callout-theme-1-subtitle-1 = Prueba Perplexity. Selecciónalo en el botón de búsqueda cuando quieras respuestas completas, incluidas las fuentes.
 perplexity-callout-theme-1-subtitle-2 = Haz preguntas. Obtén respuestas completas y bien citadas. Para probar Perplexity, selecciónalo en el botón de búsqueda.
 perplexity-callout-theme-2-subtitle-1 = Pregúntale a Perplexity. Recibirás respuestas completas, con fuentes incluidas.
+perplexity-callout-theme-2-subtitle-2 = Haz preguntas. Obtén respuestas completas y bien citadas.
 perplexity-callout-primary-label = Pregúntale a Perplexity
 perplexity-callout-secondary-label-1 = Descartar
 perplexity-callout-secondary-label-2 = Enterado
@@ -113,6 +114,7 @@ fxa-adoption-passwords-primary-button-label = Regístrate
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = Mantén tus feeds favoritos en tu barra de tareas
 taskbar-tabs-email-callout-title = Mantén tu correo electrónico en la barra de tareas
 taskbar-tabs-email-callout-subtitle = Inicia tu correo web como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
@@ -120,6 +122,7 @@ taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = No pierdas todo lo que hayas guardado al migrar a Windows 11.
+windows-10-eos-sync-urgency-subtitle-1 = Sincroniza ahora para mantener tus marcadores, contraseñas y ajustes de { -brand-short-name } seguros y fáciles de restaurar.
 windows-10-eos-sync-new-device-title-1 = No te arriesgues a empezar desde cero en tu próximo dispositivo.
 windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
 windows-10-eos-sync-dismiss-button-label = Descartar
