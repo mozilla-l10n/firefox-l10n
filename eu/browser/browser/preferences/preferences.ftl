@@ -407,6 +407,28 @@ preferences-text-zoom-override-warning =
     .message = Abisua: 'Zooma testuan soilik' hautatzen baduzu eta zure zoom lehenetsia ez badago %100ean ezarrita, zenbait gune edo eduki apur litezke.
 language-header = Hizkuntza
 choose-language-description = Aukeratu orriak bistaratzeko hizkuntza hobetsia
+website-language-heading =
+    .label = Webgunearen hizkuntza
+    .description = Zenbait web orri hainbat hizkuntzatan bistaratzen dira. Aukeratu hizkuntzak zure gogoko ordenan.
+website-preferred-language =
+    .label = Hobetsitako hizkuntzak
+website-add-language =
+    .label = Gehitu hizkuntza
+website-add-language-button =
+    .aria-label = Gehitu hautatutako hizkuntza
+    .title = Gehitu hautatutako hizkuntza
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Kendu { $locale }
+    .title = Kendu { $locale }
 choose-button =
     .label = Aukeratu…
     .accesskey = A

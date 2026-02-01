@@ -183,12 +183,19 @@ permissions-site-camera-disable-desc = Ovo će spriječiti traženje pristupa tv
 permissions-site-localhost-window =
     .title = Postavke – Aplikacije uređaja i usluge
     .style = { permissions-window2.style }
+permissions-site-localhost-desc = Ove su web-stranice zatražile pristup aplikacijama i uslugama na ovom uređaju. Možeš odabrati je li želiš dopustiti ili blokirati stranicama pristup.
+permissions-site-localhost-disable-label =
+    .label = Blokiraj nove zahtjeve za pristup aplikacijama i uslugama na ovom uređaju
+permissions-site-localhost-disable-desc = Ovo će spriječiti bilo koju web-stranicu koja nije gore navedena da zatraži pristup aplikacijama i uslugama na ovom uređaju. To može onemogućiti neke funkcije web-stranica.
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = Postavke – Lokalni mrežni uređaji
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Ove su web-stranice zatražile pristup aplikacijama i uslugama na uređajima koji su povezani s tvojom Wi-Fi ili lokalnom mrežom. Možeš odabrati je li web-stranicama to želiš dopustiti ili je li im želiš blokirati pristup.
+permissions-site-local-network-disable-label =
+    .label = Blokiraj nove zahtjeve za pristup aplikacijama i uslugama na uređajima koji su povezani s tvojom Wi-Fi ili lokalnom mrežom.
 
 ## Site Permissions - Microphone
 
