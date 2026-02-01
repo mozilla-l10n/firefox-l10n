@@ -18,5 +18,5 @@ app-manager-handle-file = Sljedeći programi mogu upravljati s { $type } sadrža
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = Ova aplikacija nalazi se na:
-app-manager-local-app-info = Ova aplikacija locirana je na:
+app-manager-web-app-info = Ova se aplikacija održava na:
+app-manager-local-app-info = Ova se aplikacija nalazi na:

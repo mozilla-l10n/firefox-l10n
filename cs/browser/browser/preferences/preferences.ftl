@@ -2405,8 +2405,8 @@ httpsonly-label2 =
 preferences-doh-header = DNS over HTTPS
 dns-over-https-group =
     .label = DNS over HTTPS
-preferences-doh-description = Systém doménových jmen (DNS) přes HTTPS odešle váš požadavek na doménu skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním, aby viděli, které servery navštěvujete.
-preferences-doh-description2 = Systém DNS (Domain Name System) přes HTTPS odesílá váš požadavek na název domény prostřednictvím šifrovaného připojení, čímž zajišťuje bezpečný systém DNS a znemožňuje ostatním zjistit, kterou webovou stránku se chystáte navštívit.
+preferences-doh-description = DNS over HTTPS odesílá váš požadavek na poskytnutí doménového jména skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
+preferences-doh-description2 = DNS over HTTPS odesílá váš požadavek na poskytnutí doménového jména skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stav: { $status }
@@ -2422,7 +2422,7 @@ preferences-doh-status-disabled = Vypnuto
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Neaktivní ({ $reason })
-preferences-doh-group-message = Povolit zabezpečené DNS:
+preferences-doh-group-message = Zapnout zabezpečené DNS:
 preferences-doh-group-message2 = Zapnout DNS over HTTPS pomocí:
 preferences-doh-expand-section =
     .tooltiptext = Více informací
