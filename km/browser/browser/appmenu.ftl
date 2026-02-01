@@ -263,9 +263,22 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
 appmenu-services-header = សេវាកម្មរបស់ខ្ញុំ
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = សាកល្បងឧបករណ៍ការពារផ្សេងទៀតពី Mozilla៖
 appmenu-other-protection-header = សាកល្បងឧបករណ៍ការពារផ្សេងទៀតពី { -vendor-short-name }៖
 
 ## Profiles panel
 
+appmenu-other-profiles = ប្រវត្តិរូបផ្សេងទៀត
+appmenu-manage-profiles =
+    .label = គ្រប់គ្រងប្រវត្តិរូប
+appmenu-copy-profile =
+    .label = ចម្លងប្រវត្តិរូបនេះ
+appmenu-create-profile =
+    .label = ប្រវត្តិរូបថ្មី
 appmenu-edit-profile =
     .aria-label = កែសម្រួលប្រវត្តិរូប
+appmenu-profiles-2 =
+    .label = ប្រវត្តិរូប

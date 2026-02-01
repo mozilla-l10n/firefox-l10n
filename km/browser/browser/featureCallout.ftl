@@ -6,3 +6,7 @@
 callout-primary-advance-button-label = បន្ទាប់
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = យល់ហើយ!
+
+## Sidebar Strings
+
+sidebar-deprecation-cta-button = សាកល្បងឥឡូវនេះ

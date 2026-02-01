@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-theme-installed =
+    .secondarybuttonlabel = មិន​ធ្វើ​វិញ​
+    .secondarybuttonaccesskey = U
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = យល់ព្រម
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = អនុញ្ញាតឱ្យផ្នែកបន្ថែមនេះដំណើរការនៅក្នុងវីនដូឯកជន
     .accesskey = ក

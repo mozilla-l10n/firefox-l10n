@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Used instead of the localized relative time when a timestamp is within a minute or so of now
+firefoxview-just-now-timestamp = ឥឡូវនេះ
 firefoxview-tabpickup-description = បើកទំព័រចេញពីឧបករណ៍ផ្សេងទៀត។
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = សកម្ម​ចុងក្រោយ
@@ -15,3 +17,8 @@ firefoxview-collapse-button-hide =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = របារស្វែងរក
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-history-date-yesterday = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }

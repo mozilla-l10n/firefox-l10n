@@ -56,3 +56,11 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] អ្នកប្រើ { $total }
     }
+
+## Emotive Continuous Onboarding
+
+spotlight-pin-secondary-button = កុំទាន់
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = កុំទាន់
