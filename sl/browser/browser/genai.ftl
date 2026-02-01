@@ -225,3 +225,11 @@ link-preview-reading-time =
         [few] Čas branja: { $range } minute
        *[other] Čas branja: { $range } minut
     }
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Prišlo je do napake.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Poskusi znova
+# Onboarding card Close button
+link-preview-onboarding-close = Zapri
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Prva nastavitev

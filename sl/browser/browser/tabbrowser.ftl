@@ -319,6 +319,24 @@ tab-context-move-tab-to-group =
            *[other] Dodaj zavihke k skupini
         }
     .accesskey = s
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [one] Dodaj razdeljeni pogled novi skupini
+            [two] Dodaj razdeljena pogleda novi skupini
+            [few] Dodaj razdeljene poglede novi skupini
+           *[other] Dodaj razdeljene poglede novi skupini
+        }
+    .accesskey = u
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [one] Dodaj razdeljeni pogled skupini
+            [two] Dodaj razdeljena pogleda skupini
+            [few] Dodaj razdeljene poglede skupini
+           *[other] Dodaj razdeljene poglede skupini
+        }
+    .accesskey = u
 tab-context-move-tab-to-group-saved-groups =
     .label = Zaprte skupine
 tab-group-editor-action-new-tab =
@@ -409,17 +427,51 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Shrani
     .accesskey = S
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Preberi več
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znaka
+        [two] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znakov
+        [few] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znakov
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znakov
+    }
 
 ## Split View
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Razdeljen pogled
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Dodaj razdeljeni pogled
+    .accesskey = D
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
     .label = Odpri v razdeljenem pogledu
     .accesskey = d
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Loči razdeljeni pogled
+    .accesskey = L
 tab-context-badge-new = Novo
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, razdeljeni pogled na levi
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, razdeljeni pogled na desni
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

@@ -212,12 +212,36 @@ backup-file-creation-date-label = Ustvarjena:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Kako jo obnoviti:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Odprite meni aplikacije ☰ in izberite Nastavitve > Sinhronizacija
+backup-file-moz-browser-restore-step-2 = Kliknite "Izberi datoteko z varnostno kopijo" in izberite to datoteko
+backup-file-moz-browser-restore-step-3 = Ko ste pozvani, znova zaženite { -brand-short-name(sklon: "tozilnik") }
+backup-file-other-browser-restore-step-1 = Prenesite in namestite { -brand-short-name(sklon: "tozilnik") }
 backup-file-download-moz-browser-button = Prenesi
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Zaženite { -brand-short-name(sklon: "tozilnik") }, odprite meni aplikacije ☰ in izberite Nastavitve > Sinhronizacija
+backup-file-other-browser-restore-step-3 = Kliknite "Izberi datoteko z varnostno kopijo" in izberite to datoteko
+backup-file-other-browser-restore-step-4 = Ko ste pozvani, znova zaženite { -brand-short-name(sklon: "tozilnik") }
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Opomba:</b> Najdena je bila tudi { $numberOfOtherBackupsFound } druga datoteka z varnostno kopijo
+        [two] <b>Opomba:</b> Najdeni sta bili tudi { $numberOfOtherBackupsFound } drugi datoteki z varnostnima kopijama
+        [few] <b>Opomba:</b> Najdene so bile tudi { $numberOfOtherBackupsFound } druge datoteke z varnostnimi kopijami
+       *[other] <b>Opomba:</b> Najdenih je bilo tudi { $numberOfOtherBackupsFound } drugih datotek z varnostnimi kopijami
+    }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Ustvarjena { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na napravi { $machineName }
 backup-file-restore-file-validation-error = Ta datoteka ne deluje. Poskusite izbrati drugo datoteko. <a data-l10n-name="restore-problems">Imate še vedno težave?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Izbrana ni nobena datoteka

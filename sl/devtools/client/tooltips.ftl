@@ -63,6 +63,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> nima vpliva na ta ele
 
 inactive-css-highlight-pseudo-elements-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih highlight.
 inactive-css-cue-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::cue.
+inactive-css-at-position-try-not-supported = Lastnost <strong>{ $property }</strong> ni podprta v pravilih <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -85,6 +86,8 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Poskusite dodati <strong>
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Poskusite dodati bodisi <strong>column-count</strong> bodisi <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Poskusite enemu od nadrejenih elementov dodati <strong>column-count</strong> ali <strong>column-width</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Poskusite elementu dodati <strong>position:absolute</strong> ali starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Poskusite elementu dodati <strong>position:absolute</strong> ali starševskemu elementu dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Poskusite starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Nadrejenemu elementu poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }

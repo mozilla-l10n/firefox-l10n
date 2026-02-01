@@ -485,6 +485,10 @@ create-backup-screen-1-title =
 create-backup-screen-1-subtitle = Brez truda zavarujte svoja gesla, zaznamke in druge podatke v 1–2 minutah.
 create-backup-screen-1-flair = Priporočeno
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Več o tem</a>
+create-backup-screen-1-sync-label = Sinhronizacija s { -brand-product-name(sklon: "orodnik") }
+create-backup-screen-1-sync-body = Varnostno kopira vse naprave, na katerih ste prijavljeni
+create-backup-screen-1-backup-label = Varnostno kopiranje na računalnik
+create-backup-screen-1-backup-body = Shrani na napravo ali v OneDrive
 create-backup-select-tile-button-label = Izberi
 create-backup-back-button-label = Nazaj
 create-backup-show-fewer =
@@ -493,6 +497,8 @@ create-backup-screen-2-title = Izberite podatke { -brand-product-name(sklon: "ro
 create-backup-screen-2-subtitle = Traja le minuto. Podatki se varnostno kopirajo enkrat dnevno.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Preprosta nastavitev
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = Ne vključuje gesel in plačilnih sredstev
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Ni šifrirano
 # Preceded by a green check mark indicating that these are included in the "All data" backup

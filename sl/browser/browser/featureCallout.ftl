@@ -115,6 +115,11 @@ fxa-adoption-passwords-primary-button-label = Registracija
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Imejte svoje priljubljene vire v opravilni vrstici
+taskbar-tabs-social-callout-subtitle = Odprite svoja družbena omrežja v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Klepet v opravilni vrstici
+taskbar-tabs-chat-callout-subtitle = Odprite spletni klepetalnik v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
+taskbar-tabs-email-callout-title = Imejte e-pošto pri roki v opravilni vrstici
+taskbar-tabs-email-callout-subtitle = Odprite svojo spletno pošto v obliki aplikacije v poenostavljenem oknu, ki ga ščiti { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Dodajte si to stran v opravilno vrstico
 taskbar-tabs-value-prop-callout-subtitle = Zaženite jo v svojem oknu in v poenostavljenem vmesniku z enim klikom.
 
@@ -152,6 +157,9 @@ link-preview-onboarding-callout-description = Oglejte si kratek opis strani, pre
 sidebar-button-callout-title = V stranski vrstici prikaži naslove zavihkov
 sidebar-button-callout-subtitle = S klikom na gumb lahko razširite stransko vrstico in prikažete naslove zavihkov.
 sidebar-button-callout-vertical-tabs = Za prikaz zavihkov v orodni vrstici izberite gumb stranske vrstice.
+sidebar-deprecation-callout-title = Posodobljena stranska vrstica je na poti
+sidebar-deprecation-callout-subtitle = Različico stranske vrstice, ki jo trenutno uporabljate, postopoma ukinjamo. Preskusite posodobljeno stransko vrstico. Je hitrejša in omogoča dostop do več orodij.
+sidebar-deprecation-cta-button = Preizkusi zdaj
 
 ## Sidebar Vertical Tabs Strings
 

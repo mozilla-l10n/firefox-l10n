@@ -438,4 +438,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } ni 
 set-default-menu-message-row-layout-title = Nastavi { -brand-short-name(sklon: "tozilnik") } kot glavni brskalnik
 set-default-menu-message-row-layout-title-variant = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
 set-default-menu-message-row-layout-subtitle = Izberite hitrost, varnost in zasebnost ob vsakem brskanju.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Obdržite { -brand-short-name(sklon: "tozilnik") } na dosegu roke – nastavite ga za privzeti brskalnik in ga pripnite v vrstico Dock.
+       *[other] Obdržite { -brand-short-name(sklon: "tozilnik") } na dosegu roke – nastavite ga za privzeti brskalnik in ga pripnite v opravilno vrstico.
+    }
+set-default-menu-message-primary-button = Nastavi kot privzeto
 set-default-menu-message-primary-button-variant = Nastavi kot glavni brskalnik

@@ -56,6 +56,7 @@ policy-DisablePocket2 = Onemogoči možnost shranjevanja spletnih strani v { -po
 policy-DisablePrivateBrowsing = Onemogoči zasebno brskanje.
 policy-DisableProfileImport = Onemogoči menijski ukaz Uvozi podatke drugega brskalnika.
 policy-DisableProfileRefresh = Onemogoči gumb Osveži { -brand-short-name } na strani about:support.
+policy-DisableRemoteImprovements = { -brand-short-name(sklon: "dajalnik") } prepreči uveljavljanje sprememb učinkovitosti delovanja, zanesljivosti in funkcij med posodobitvami.
 policy-DisableSafeMode = Onemogoči možnost za ponovni zagon v varnem načinu. Opomba: zagon varnega načina s tipko Shift lahko v sistemu Windows onemogočite le z uporabo pravilnika skupine.
 policy-DisableSecurityBypass = Uporabniku prepreči, da zaobide določena varnostna opozorila.
 policy-DisableSetAsDesktopBackground = Onemogoči menijski ukaz Nastavi kot ozadje namizja za slike.

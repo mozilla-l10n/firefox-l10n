@@ -340,6 +340,8 @@ newtab-custom-widget-section-title = Pripomočki
 newtab-custom-widget-section-toggle =
     .label = Pripomočki
 newtab-widget-manage-title = Pripomočki
+newtab-widget-manage-widget-button =
+    .label = Upravljanje pripomočkov
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zapri
@@ -467,6 +469,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Išči lokacijo
     .aria-label = Išči lokacijo
 newtab-weather-menu-weather-display = Prikazovalnik vremena
+newtab-weather-todays-forecast = Napoved za današnji dan
+newtab-weather-see-full-forecast = Prikaži celotno napoved
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -617,6 +621,9 @@ newtab-report-content-inappropriate-offensive =
     .label = Neprimerno ali žaljivo
 newtab-report-content-spam-misleading =
     .label = Vsiljivo ali zavajajoče
+newtab-report-content-requires-payment-subscription =
+    .label = Zahteva plačilo ali naročnino
+newtab-report-content-requires-payment-subscription-learn-more = Več o tem
 newtab-report-cancel = Prekliči
 newtab-report-submit = Pošlji
 newtab-toast-thanks-for-reporting =

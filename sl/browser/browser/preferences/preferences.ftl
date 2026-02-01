@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sinhronizacija
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Nadzor UI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }ovi poskusi
 category-experimental =
     .tooltiptext = { -brand-short-name }ovi poskusi
@@ -754,6 +757,10 @@ home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete do
 
 home-default-browser-title =
     .label = Privzeti brskalnik
+is-default-browser-2 =
+    .message = { -brand-short-name } je vaš privzeti brskalnik. Odlična izbira.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } ni vaš privzeti brskalnik.
 set-as-my-default-browser-2 =
     .label = Nastavi za privzeto
     .accesskey = N
@@ -839,6 +846,8 @@ home-prefs-content-header2 = Vsebina { -firefox-home-brand-name(sklon: "rodilnik
 home-prefs-content-description2 = Izberite vsebino, ki naj se prikazuje na { -firefox-home-brand-name(sklon: "mestnik") }.
 home-prefs-search-header =
     .label = Iskanje po spletu
+home-prefs-search-header2 =
+    .label = Iskanje
 home-prefs-shortcuts-header =
     .label = Bližnjice
 home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
@@ -858,6 +867,9 @@ home-prefs-recommended-by-description-generic = Izjemna vsebina, ki jo pripravlj
 home-prefs-stories-header =
     .label = Zgodbe
 home-prefs-stories-description = Zgodbe, izbrane na podlagi vaše dejavnosti
+home-prefs-stories-header2 =
+    .label = Zgodbe
+    .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
 
 ##
 
@@ -991,6 +1003,9 @@ suggestions-addressbar-settings-generic2 = Spremeni nastavitve drugih predlogov 
 search-suggestions-cant-show = Predlogi iskanja v naslovni vrstici ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 search-one-click-header2 = Bližnjice za iskanje
 search-one-click-desc = Izberite nadomestne iskalnike, ki se pojavijo pod naslovno in iskalno vrstico, ko začnete vnašati ključno besedo.
+search-one-click-header-3 =
+    .label = Dodatni iskalniki
+    .description = Izberite, kateri iskalniki in bližnjice naj se prikazujejo v naslovni vrstici.
 search-choose-engine-column =
     .label = Iskalnik
 search-choose-keyword-column =
@@ -1003,6 +1018,9 @@ search-remove-engine =
     .accesskey = r
 search-add-engine =
     .label = Dodaj
+    .accesskey = D
+search-add-engine-2 =
+    .label = Dodaj iskalnik
     .accesskey = D
 search-edit-engine =
     .label = Uredi
@@ -1345,6 +1363,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Samodejno izpolnjuj uporabniška imena in gesla
     .accesskey = S
+forms-fill-usernames-and-passwords-2 =
+    .label = Shranjuj in samodejno izpolnjuj uporabniška imena in gesla
+    .accesskey = u
 forms-saved-passwords =
     .label = Shranjena gesla
     .accesskey = h
@@ -1358,6 +1379,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Uporabi glavno geslo
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Uporabi glavno geslo
+    .description = Dodatno zavarujte svoje shranjena gesla.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Nastavi glavno geslo
 forms-primary-pw-on =
@@ -1370,6 +1395,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Zahtevaj prijavo v napravi za izpolnjevanje in upravljanje gesel
+forms-os-reauth-2 =
+    .label = Zahtevaj prijavo v napravi za upravljanje gesel
 forms-primary-pw-learn-more-link = Več o tem
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1448,6 +1475,10 @@ payments-list-item-label = <strong>Plačilna sredstva</strong>
 payments-delete-payment-prompt-title = Ali želite izbrisati to plačilno sredstvo?
 payments-delete-payment-prompt-confirm-button = Izbriši
 payments-delete-payment-prompt-cancel-button = Prekliči
+payments-delete-payment-button-label =
+    .aria-label = Izbriši
+payments-edit-payment-button-label =
+    .aria-label = Uredi
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ni dodanih plačilnih sredstev
@@ -1967,6 +1998,7 @@ collection-studies-description = Preizkusite funkcije in ideje, preden postanejo
 collection-studies =
     .label = { -brand-short-name(sklon: "dajalnik") } dovoli nameščanje in izvajanje raziskav
 collection-studies-link = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
+nimbus-rollouts-enabled-description = Spremembe se bodo uveljavljale na daljavo.
 addon-recommendations2 =
     .label = Dovoli osebno prilagojena priporočila razširitev
 addon-recommendations-description = Prejemajte priporočila za razširitve, ki bi vam izboljšale izkušnjo brskanja.
@@ -2067,6 +2099,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Način "samo HTTPS"
     .description = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2134,3 +2168,48 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = { -brand-short-name } vam vedno daje izbiro – tudi glede funkcij, izboljšanih z umetno inteligenco. Kmalu bo na voljo več možnosti nadzora.
+preferences-ai-controls-block-ai-label = Prepovej izboljšave s pomočjo UI
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-control =
+    .label = Prevajanje
+    .description = Brez truda brskajte po spletu v svojem jeziku.
+preferences-ai-controls-translations-more-link = Več nastavitev prevajanja
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Predlogi skupin zavihkov
+    .description = Prejemajte predloge, kako lahko poimenujete in organizirate zavihke.
+preferences-ai-controls-key-points-control =
+    .label = Ključne točke v predogledih povezav
+    .description = Oglejte si kratek povzetek, še preden odprete povezavo.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Ponudniki UI-klepetalnikov v stranski vrstici
+    .description = Imejte robota za klepet z umetno inteligenco pri roki med brskanjem. Na izbiro so vam Anthropic Claude, ChatGPT, Copilot, Google Gemini in Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Klepetalni robot v stranski vrstici
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Na voljo
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Omogočeno
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Prepovedano
+preferences-ai-controls-state-description-before = Kaj možnosti pomenijo:
+preferences-ai-controls-state-description-available = <strong>Na voljo:</strong> Možnost bo prikazana in jo boste lahko uporabljali.
+preferences-ai-controls-state-description-enabled = <strong>Omogočeno:</strong> Odločili ste se, da želite možnost uporabljati.
+preferences-ai-controls-state-description-blocked = <strong>Prepovedano:</strong> Možnost se vam ne bo prikazovala in je ne boste mogli uporabljati. Morebitni modeli UI, ki so se že prenesli na napravo, so bili odstranjeni.
+preferences-ai-controls-block-confirmation-heading = Želite prepovedati izboljšave z uporabo UI?
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Predlogi skupin zavihkov
+preferences-ai-controls-block-confirmation-key-points = Ključne točke v predogledih povezav
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Ponudniki klepetalnih robotov v stranski vrstici
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Prekliči
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Prepovej
