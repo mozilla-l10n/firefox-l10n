@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Egiaztatu ea fitxategia lekuz aldatu, berrizenda
 neterror-access-denied = Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.
 neterror-unknown-protocol = Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.
 neterror-redirect-loop = Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.
+neterror-unknown-socket-type-client-config = Zure bezeroaren konfigurazio-errore batengatik izan daiteke hau.
 neterror-unknown-socket-type-psm-installed = Egiaztatu zure sistemak Personal Security Manager delakoa instalatuta duela.
 neterror-unknown-socket-type-server-config = Baliteke zerbitzariaren konfigurazio ez-estandar batengatik izatea.
 neterror-not-cached-intro = Eskatutako dokumentua ez dago { -brand-short-name }(r)en cache memorian.

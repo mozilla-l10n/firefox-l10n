@@ -56,6 +56,7 @@ policy-DisablePocket2 = Deaktiviraj funkcije za spremanje web stranica u { -pock
 policy-DisablePrivateBrowsing = Onemogući privatno pregledavanje.
 policy-DisableProfileImport = Onemogućite naredbu izbornika za uvoz podatka iz drugog preglednika.
 policy-DisableProfileRefresh = Deaktiviraj gumb „Aktualiziraj { -brand-short-name }” na stranici about:support.
+policy-DisableRemoteImprovements = Spriječi { -brand-short-name } da primjenjuje promjene performansi, stabilnosti i funkcija između aktualiziranja.
 policy-DisableSafeMode = Deaktiviraj funkciju za ponovno pokretanje u sigurnom modusu. Napomena: Tipka Shift za ulazak u sigurni modus može se deaktivirati samo na Windows sustavu koristeći grupna pravila.
 policy-DisableSecurityBypass = Spriječite korisnika da zaobiđe određena sigurnosna upozorenja.
 policy-DisableSetAsDesktopBackground = Onemogućite naredbu izbornika Postavi kao pozadinu radne površine.

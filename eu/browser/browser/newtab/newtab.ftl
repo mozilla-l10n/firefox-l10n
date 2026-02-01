@@ -481,6 +481,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Aldatu Fahrenheit-era
 newtab-weather-menu-change-temperature-units-celsius = Aldatu Celsius-era
+newtab-weather-menu-hide-weather-v2 = Ezkutatu eguraldia
 newtab-weather-menu-hide-weather = Ezkutatu eguraldia fitxa berrian
 newtab-weather-menu-learn-more = Argibide gehiago
 newtab-weather-menu-detect-my-location = Hauteman nire kokalekua
@@ -699,6 +700,12 @@ newtab-widget-timer-menu-notifications = Desaktibatu jakinarazpenak
 newtab-widget-timer-menu-notifications-on = Aktibatu jakinarazpenak
 newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
 newtab-widget-timer-menu-learn-more = Argibide gehiago
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Lerroburu garrantzitsuenak
+newtab-daily-briefing-card-menu-dismiss = Baztertu
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Duela { $minutes }m eguneratuta
 newtab-widget-message-title = Mantendu kontzentratuta zerrendekin eta tenporizadorearekin
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Abisu azkarretatik egunaren egitekoetara, saio zentratuetatik luzatzeko hutsuneetara — izan zereginen gainean eta garaiz.

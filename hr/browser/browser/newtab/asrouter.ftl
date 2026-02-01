@@ -398,15 +398,21 @@ windows-10-eos-challenger-pin-primary-button = Prikvači { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } blokira kriptorudare, programe za praćenje društvenih mreža i prikupljače digitalnih otisaka.
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Programi za praćenje ne mogu identificirati tvoj uređaj niti te pratiti po webu – jer im mi to ne dopuštamo.
 windows-10-eos-sync-callout-privacy-screen-2-title = Osiguraj svoje lozinke i zabilješke za sljedeći uređaj.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Sigurnosno kopiranje { -brand-shorter-name(case: "gen") } olakšava prenošenje tvojih podataka i postavki privatnosti.
 windows-10-eos-sync-callout-privacy-info-button = Pogledaj što je blokirano
 windows-10-eos-callout-addons-title = Isprobaj dodatke: jednostavne nadogradnje, veliki učinci
+windows-10-eos-callout-addons-subtitle = Ova su proširenja odabrana kao pomoć za tvoju produktivnost, zaštitu i fokus.
 windows-10-eos-callout-addons-primary-button = Pogledaj naš izbor
+windows-10-eos-sync-callout-addons-title = Nemoj izgubiti svoje dodatke kada nadogradiš s Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sinkroniziraj sada kako bi tvoji dodaci u { -brand-product-name(case: "loc") } uvijek bili dostupni, čak i nakon mijenjanja uređaja.
 windows-10-eos-sync-callout-next-button = Dalje
 windows-10-eos-sync-callout-get-started-button = Započni
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Uveli smo okomite kartice i grupe kartica!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = Na zahtjev mnogih, { -brand-product-name } je upravo uveo nove funkcije kako bi tvoje pregledavanje bilo jednostavno i fokusirano.
 windows-10-eos-feature-toast-whats-new-button = Pogledaj što je novo
 windows-10-eos-feature-toast-dismiss-button = Odbaci
 
@@ -431,5 +437,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } nij
 set-default-menu-message-row-layout-title = Postavi { -brand-short-name } kao svoj primarni preglednik
 set-default-menu-message-row-layout-title-variant = Postavi { -brand-short-name } kao svoj zadani preglednik
 set-default-menu-message-row-layout-subtitle = Dobij brzinu, sigurnost i privatnost pri svakom pregledavanju.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u svoj Dock.
+       *[other] Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u svoju programsku traku.
+    }
 set-default-menu-message-primary-button = Postavi kao zadano
 set-default-menu-message-primary-button-variant = Postavi kao primarni preglednik
