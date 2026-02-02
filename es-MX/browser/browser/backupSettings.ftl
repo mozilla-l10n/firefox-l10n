@@ -225,3 +225,10 @@ backup-file-download-moz-browser-button = Descargar
 backup-file-other-browser-restore-step-2 = Inicia { -brand-short-name }, abre el menú de la aplicación ☰ y ve a Ajustes > Sincronización
 backup-file-other-browser-restore-step-3 = Haz clic en “Elegir archivo de respaldo” y selecciona este archivo
 backup-file-other-browser-restore-step-4 = Reinicia { -brand-short-name } cuando se te solicite
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = Ningún archivo seleccionado
