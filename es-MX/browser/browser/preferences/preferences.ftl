@@ -716,6 +716,9 @@ home-custom-homepage-card =
     .heading = Dirección(es) del sitio web
 home-custom-homepage-address-button =
     .label = Agregar dirección
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = Marcadores…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -1985,9 +1988,17 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot en la barra lateral
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Habilitado
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloqueado
 preferences-ai-controls-block-confirmation-translations = Traducciones
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar

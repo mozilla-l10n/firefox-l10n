@@ -88,6 +88,14 @@ newtab-confirm-delete-history-p2 = Esta acción no se puede deshacer.
 
 newtab-topsite-sponsored = Patrocinado
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (fijado)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -327,6 +335,8 @@ newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
 newtab-widget-manage-title = Widgets
+newtab-widget-manage-widget-button =
+    .label = Administrar widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Cerrar
