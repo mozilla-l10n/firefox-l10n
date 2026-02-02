@@ -479,6 +479,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzius
 newtab-weather-menu-change-temperature-units-fahrenheit = Prepnúť na stupne Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Prepnite na stupne Celzia
+newtab-weather-menu-hide-weather-v2 = Skryť počasie
 newtab-weather-menu-hide-weather = Skryť počasie na novej karte
 newtab-weather-menu-learn-more = Ďalšie informácie
 newtab-weather-menu-detect-my-location = Zistiť moju polohu
@@ -697,6 +698,12 @@ newtab-widget-timer-menu-notifications = Vypnúť upozornenia
 newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
 newtab-widget-timer-menu-hide = Skryť časovač
 newtab-widget-timer-menu-learn-more = Ďalšie informácie
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Najlepšie titulky
+newtab-daily-briefing-card-menu-dismiss = Zavrieť
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Aktualizované pred { $minutes } min.
 newtab-widget-message-title = Zostaňte sústredení vďaka zoznamom a vstavanému časovaču
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od rýchlych pripomienok až po denné úlohy, od sústredených stretnutí až po prestávky – sústreďte sa na úlohy a dodržujte čas.

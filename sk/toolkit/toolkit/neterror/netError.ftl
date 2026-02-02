@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Skontrolujte, či súbor nebol premenovaný, pre
 neterror-access-denied = Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.
 neterror-unknown-protocol = Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.
 neterror-redirect-loop = Tento problém môže nastať pri nepovolení, resp. odmietnutí cookies.
+neterror-unknown-socket-type-client-config = Môže to byť spôsobené chybou konfigurácie vášho klienta.
 neterror-unknown-socket-type-psm-installed = Uistite sa, či je v systéme nainštalovaný Správca súkromných kľúčov (PSM).
 neterror-unknown-socket-type-server-config = Môže to byť spôsobené neštandardnou konfiguráciou servera.
 neterror-not-cached-intro = Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti { -brand-short-name(case: "gen") }.

@@ -402,6 +402,25 @@ preferences-text-zoom-override-warning =
     .message = Upozornenie: ak vyberiete možnosť “Meniť iba veľkosť textu” a vaše predvolené priblíženie nie je nastavené na 100 %, môže to spôsobiť nesprávne zobrazenie niektorých stránok alebo obsahu.
 language-header = Jazyk
 choose-language-description = Vyberte jazyky pre zobrazovanie webových stránok
+website-preferred-language =
+    .label = Preferované jazyky
+website-add-language =
+    .label = Pridať jazyk
+website-add-language-button =
+    .aria-label = Pridať vybraný jazyk
+    .title = Pridať vybraný jazyk
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Odstrániť jazyk { $locale }
+    .title = Odstrániť jazyk { $locale }
 choose-button =
     .label = Vybrať…
     .accesskey = V
