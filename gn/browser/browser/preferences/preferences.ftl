@@ -292,6 +292,10 @@ browser-layout-horizontal-tabs2 =
     .label = Tendaykeita ñeno
     .title = Tendaykeita yvate gotyo
     .description = Tendaykeita yvate gotyo
+browser-layout-vertical-tabs2 =
+    .label = Tendaykeita ñembo’y
+    .title = Tendaykeita yke gotyo, tenda yképe
+    .description = Tendaykeita yke gotyo, tenda yképe
 browser-layout-show-sidebar2 =
     .label = Ehechauka tenda yke
     .description = Eike pya’e techaukaha, pumbyry rendayke, chatbots IA ha ko’ãva esẽ mboyve  mba’erechaha tuichavévagui.
@@ -402,10 +406,16 @@ preferences-text-zoom-override-warning =
     .message = Kyhyjerã: eiporavóramo “Moñe’ẽrã mbotuichave añoite” ha pe zoom ijypyguáva noñembohekói 100%, ikatu heta tenda ndoikoporãmbái.
 language-header = Ñe’ẽ
 choose-language-description = Eipoiravo pe ñe’ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue
+website-language-heading =
+    .label = Ñanduti rogue ñe’ẽ
+    .description = Oĩhína ñanduti rogue ojehechaukáva heta ñe’ẽme. Eiporavo umi ñe’ẽ ejaposehaichaite.
 website-preferred-language =
     .label = Ñe’ẽita ojeporuvéva
 website-add-language =
     .label = Embojuaju ñe’ẽ
+website-add-language-button =
+    .aria-label = Embojuaju ñe’ẽ poravopyre
+    .title = Embojuaju ñe’ẽ poravopyre
 # The pattern used to generate strings presented to the user in the
 # website languages selection list.
 #
