@@ -57,6 +57,33 @@ cfr-doorhanger-extension-total-users =
        *[other] អ្នកប្រើ { $total }
     }
 
+## Mozilla Account messages
+
+cfr-doorhanger-bookmark-fxa-header = ធ្វើសមកាលកម្មចំណាំរបស់អ្នកគ្រប់ទីកន្លែង។
+cfr-doorhanger-bookmark-fxa-body = ការរកឃើញដ៏អស្ចារ្យ! ឥឡូវនេះ កុំទុកចោលដោយគ្មានចំណាំនេះនៅលើឧបករណ៍ចល័តរបស់អ្នក។ ចាប់ផ្តើមជាមួយ { -fxaccount-brand-name }។
+cfr-doorhanger-bookmark-fxa-body-2 = ការរកឃើញដ៏អស្ចារ្យ! ឥឡូវនេះ កុំទុកចោលដោយគ្មានចំណាំនេះនៅលើឧបករណ៍ចល័តរបស់អ្នក។ ចាប់ផ្តើមជាមួយគណនី។
+cfr-doorhanger-bookmark-fxa-link-text = ធ្វើសមកាលកម្មចំណាំឥឡូវនេះ...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = ប៊ូតុងបិទ
+    .title = បិទ
+fxa-adoption-addresses-backup-title = ចូរយើងបម្រុងទុកអាសយដ្ឋានដែលអ្នកបានរក្សាទុក
+fxa-adoption-addresses-backup-subtitle = ការពារអាសយដ្ឋានដែលអ្នកបានរក្សាទុកដោយធ្វើសមកាលកម្មពួកវាទៅឧបករណ៍របស់អ្នកជាមួយនឹងការអ៊ិនគ្រីប។
+fxa-adoption-credit-cards-backup-title = ចូរយើងបម្រុងទុកវិធីសាស្ត្រទូទាត់របស់អ្នក
+fxa-adoption-credit-cards-backup-subtitle = ការពារវិធីបង់ប្រាក់របស់អ្នកដោយធ្វើសមកាលកម្មពួកវាទៅឧបករណ៍របស់អ្នកជាមួយនឹងការអ៊ិនគ្រីប។
+fxa-adoption-primary-button-label = ចុះឈ្មោះ
+
+## Protections panel
+
+cfr-protections-panel-header = រកមើលដោយមិនតាមដាន
+cfr-protections-panel-body = រក្សាទិន្នន័យរបស់អ្នកសម្រាប់ខ្លួនអ្នក។ { -brand-short-name } ការពារអ្នកពីកម្មវិធីតាមដានទូទៅបំផុតជាច្រើនដែលតាមដានអ្វីដែលអ្នកធ្វើនៅលើអ៊ីនធឺណិត។
+cfr-protections-panel-link-text = ស្វែងយល់បន្ថែម
+
+## What's New toolbar button and panel
+
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = មុខងារថ្មី៖
+
 ## Emotive Continuous Onboarding
 
 spotlight-pin-secondary-button = កុំទាន់
