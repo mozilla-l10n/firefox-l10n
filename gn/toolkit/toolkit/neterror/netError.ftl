@@ -46,6 +46,9 @@ neterror-load-error-firewall = Nemohendaha térã ñanduti omo’ã chupe tataky
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Oñeha’ãramo oñemyanyhẽ peteĩ kuatiarogue upepegua, ehechajey oñemoneĩpa pe ñanduti upepeguágui { -brand-short-name }-pe macOS Privacy ha Security ñembohekorãme.
 neterror-http-error-page = Ehechajey ehai porãpa ñanduti renda réra.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } omondo kuatiarogue nandi.
 neterror-captive-portal = Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñandutípe.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +94,7 @@ neterror-file-not-found-moved = Ehechajey pe marandurenda noñemongu’éipa, o�
 neterror-access-denied = Ikatúmakuri oñemboguete, oñemongu’e térã marandurenda ñemoneĩ ikatu omboyke pe jeike.
 neterror-unknown-protocol = Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.
 neterror-redirect-loop = Ko apañuái oikokuaa reipe’a térã neremoneĩriramo kookie ñeg̃uahẽ.
+neterror-unknown-socket-type-client-config = Kóva oikokuaa oĩramo ñemboheko jejavy ñemuhárandi.
 neterror-unknown-socket-type-psm-installed = Ehechajey nde apopyvusu oguerekópa ñangarekoha imba’eteéva tekorosãrã mohendapyréva.
 neterror-unknown-socket-type-server-config = Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã’ỹva mohendahavusúpe rupi.
 neterror-not-cached-intro = Kuatia jerurepyre noĩvéima ojeporu hag̃uáicha kache { -brand-short-name }-pe.
@@ -168,9 +172,14 @@ certerror-coep-learn-more = Eikuaave teñoiha juasáva porureko oñondivegua reh
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Ayvu jejavy: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = Ha’eténte ku oĩva apañuái eike hag̃ua ñandutípe
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ndaikatúi omoheñói jeike hekorosãva { $hostname } mba’e’oka ndive.
+fp-neterror-offline-intro = { -brand-short-name } ndoikekuaái mba’e’okápe <strong>{ $hostname }</strong>
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Amalisia ko tenda oiporu software itujáva orekóva apañuái tekorosã rehegua.
