@@ -1300,6 +1300,7 @@ payments-edit-payment-button-label =
     .aria-label = Editar
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
+payments-remove-payment-prompt-cancel-button = Cancelar
 autofill-addresses-title = Direcciones y más
 autofill-addresses-header =
     .aria-label = Direcciones y más
@@ -1331,6 +1332,14 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 addresses-group =
     .label = Direcciones y más
 payments-group =
