@@ -916,6 +916,9 @@ sync-signedout-description2 = Sincroniza tus marcadores, historial, pestañas, c
 sync-signedout-account-signin3 =
     .label = Iniciar sesión para sincronizar...
     .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Inicia sesión en tu cuenta para empezar a sincronizar
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1241,6 +1244,16 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = A
+autofill-addresses-add-button = Agregar nueva dirección
+autofill-addresses-manage-addresses-title =
+    .heading = Administrar direcciones y más
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 addresses-group =
     .label = Direcciones y más
 payments-group =
