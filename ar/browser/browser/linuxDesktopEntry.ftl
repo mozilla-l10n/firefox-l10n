@@ -12,7 +12,7 @@ desktop-entry-name = { -brand-shortcut-name }
 desktop-entry-comment-1 = متصفح سريع وخاص
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = تصفح شبكة الوِب العالمية
-desktop-entry-generic-name = متصفح الإنترنت
+desktop-entry-generic-name = متصفح الوِب
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name-1 = { -brand-full-name }
 # Combine Name and GenericName. This string is specific to GNOME.
