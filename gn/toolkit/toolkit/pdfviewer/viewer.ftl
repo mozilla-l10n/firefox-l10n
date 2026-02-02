@@ -687,6 +687,18 @@ pdfjs-views-manager-pages-status-undo-copy-label =
         [one] 1 kuatiarogue monguatiapyre
        *[other] { $count } kuatiarogue monguatiapyre
     }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 kuatiarogue mboguepyre
+       *[other] { $count } kuatiarogue mboguepyre
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Embosako’ihína ne marandurenda…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Ehupihína marandurenda…
+pdfjs-views-manager-status-warning-cut-label = Ndaikatúi oñekytĩ. Embopyahu kuatiarogue ha eha’ã jey.
+pdfjs-views-manager-status-warning-copy-label = Ndaikatúi oñembokuatia. Embopyahu kuatiarogue ha eha’ã jey.
+pdfjs-views-manager-status-warning-delete-label = Ndaikatúi embogue. Embopyahu kuatiarogue ha eha’ã jey.
 pdfjs-views-manager-status-undo-button-label = Mboguevi
 pdfjs-views-manager-status-close-button =
     .title = Mboty
