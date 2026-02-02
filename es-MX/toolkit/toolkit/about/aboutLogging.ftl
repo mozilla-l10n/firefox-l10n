@@ -27,6 +27,8 @@ about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
 about-logging-with-profiler-stacks-checkbox = Habilitar seguimientos de pila para mensajes de registro
+about-logging-menu =
+    .title = Opciones avanzadas
 
 ## Logging presets
 
