@@ -577,6 +577,7 @@ newtab-custom-wallpaper-cta = Intentalo
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para que { -brand-product-name } sea tuyo
 newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
 
@@ -587,6 +588,8 @@ newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para 
 newtab-download-mobile-highlight-body-variant-a = Escanea el código para navegar de forma segura mientras viajas.
 newtab-download-mobile-highlight-body-variant-b = Continúa donde lo dejaste cuando sincronizas tus pestañas, contraseñas y más.
 newtab-download-mobile-highlight-body-variant-c = ¿Sabías que puedes llevar { -brand-product-name } contigo? El mismo navegador. En tu bolsillo.
+newtab-download-mobile-highlight-image =
+    .aria-label = Código QR para descargar { -brand-product-name } para dispositivos móviles
 
 ## Strings for shortcuts highlight
 
@@ -601,6 +604,12 @@ newtab-report-ads-reason-not-interested =
     .label = No me interesa
 newtab-report-ads-reason-inappropriate =
     .label = Es inapropiado
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = Lo he visto demasiadas veces
+newtab-report-content-wrong-category =
+    .label = Categoría incorrecta
+newtab-report-content-outdated =
+    .label = Desactualizado
 newtab-report-content-inappropriate-offensive =
     .label = Inapropiado u ofensivo
 newtab-report-content-spam-misleading =
@@ -674,6 +683,10 @@ newtab-widget-timer-menu-notifications = Desactivar notificaciones
 newtab-widget-timer-menu-notifications-on = Activar notificaciones
 newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-menu-learn-more = Más información
+newtab-daily-briefing-card-menu-dismiss = Descartar
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Actualizado hace { $minutes }m
 newtab-widget-message-title = Mantén la concentración con listas y un temporizador incorporado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de concentración y descansos para estirarse, mantén la concentración en tus tareas y a tiempo.
