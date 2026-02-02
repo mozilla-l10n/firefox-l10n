@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Uzi la elektitan profilon sen konsulti je la starto
     .accesskey = U
+profile-has-selectable-profiles-title = Ne eblas forigi profilon kiu estas ligita al aliaj profiloj
+profile-has-selectable-profiles-message = Por forigi tiun ĉi profilon malfermu ĝin kaj elektu "Administri profilojn" el la sekcio Profiloj en la menuo de { -brand-short-name }. Post forigo de ĉiu aldona profilo kreita tie vi povos reiri al about:profiles kaj forigi tiun ĉi profilon.
