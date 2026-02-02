@@ -394,6 +394,23 @@ translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-subpage-language-select-option =
+    .label = Agregar idioma
+settings-translations-subpage-language-add-button =
+    .aria-label = Agregar idioma
+    .title = Agregar idioma
+settings-translations-subpage-download-languages-header =
+    .label = Descargar idiomas
+settings-translations-subpage-download-languages-select-option =
+    .label = Seleccionar idioma
+settings-translations-subpage-download-languages-button =
+    .aria-label = Descargar idioma
+    .title = Descargar idioma
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } { $size }MB)
+    .label = { $language } { $size }MB)
 settings-translations-subpage-download-delete-button =
     .label = Eliminar
 settings-translations-subpage-download-cancel-button =
@@ -566,6 +583,13 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+support-get-help =
+    .label = Obtener ayuda
+support-share-ideas =
+    .label = Compartir ideas y comentarios
+
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -669,6 +693,7 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Página de inicio y nuevas ventanas
 home-homepage-new-windows =
     .label = Nuevas ventanas
+home-homepage-mode-label2 = Nuevas ventanas
 home-newtabs-mode-label = Nuevas pestañas
 home-homepage-new-tabs =
     .label = Nuevas pestañas
@@ -683,9 +708,14 @@ home-mode-choice-blank =
     .label = Página en blanco
 home-homepage-custom-url =
     .placeholder = Pegar una URL...
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Administrar extensión
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elige un sitio específico
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Elige un sitio específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -709,13 +739,23 @@ home-homepage-title =
 
 ## Custom Homepage subpage
 
+home-custom-homepage-header = Personalizar página de inicio
 home-custom-homepage-subpage =
     .heading = Personalizar página de inicio
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-subheader = Dirección(es) del sitio web
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card =
     .heading = Dirección(es) del sitio web
+home-custom-homepage-address =
+    .placeholder = Ingresar dirección
 home-custom-homepage-address-button =
     .label = Agregar dirección
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-websites-yet = Todavía no se han agregado sitios web
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Reemplazar con
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Marcadores…
@@ -939,6 +979,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizar
+account-group-label =
+    .label = Cuenta de { -vendor-short-name }
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1022,6 +1064,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-on-2 =
+    .label = Sincronización ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Activar sincronización...
@@ -1307,8 +1351,18 @@ autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el disp
 autofill-payment-methods-title = Métodos de pago
 autofill-payment-methods-header =
     .aria-label = Métodos de pago
+autofill-payment-methods-checkbox-message-2 =
+    .label = Guardar y completar automáticamente la información de pago
+    .accesskey = p
 autofill-payment-methods-manage-payments-title =
     .heading = Administrar métodos de pago
+autofill-payment-methods-manage-payments-button =
+    .label = Administrar métodos de pago
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Requerir inicio de sesión en el dispositivo para completar automáticamente y administrar los métodos de pago
+    .accesskey = o
 autofill-payment-methods-add-button = Agregar nuevo método de pago
 payments-list-header =
     .label = Métodos de pago
