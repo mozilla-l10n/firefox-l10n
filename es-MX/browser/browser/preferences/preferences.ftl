@@ -628,6 +628,12 @@ home-new-windows-tabs-description2 = Elige que quieres ver cuando abras tu pági
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador predeterminado
+is-default-browser-2 =
+    .message = { -brand-short-name } es tu navegador predeterminado. ¡Buena elección!
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } no es tu navegador predeterminado.
 set-as-my-default-browser-2 =
     .label = Hacer predeterminado
     .accesskey = D
@@ -651,6 +657,9 @@ home-mode-choice-blank =
     .label = Página en blanco
 home-homepage-custom-url =
     .placeholder = Pegar una URL...
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Elige un sitio específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -666,8 +675,15 @@ choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
 
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Página de inicio
+
 ## Custom Homepage subpage
 
+home-custom-homepage-subpage =
+    .heading = Personalizar página de inicio
 home-custom-homepage-address-button =
     .label = Agregar dirección
 
@@ -729,14 +745,23 @@ home-prefs-weather-header =
     .label = Clima
 home-prefs-weather-description = Pronóstico estimado para hoy
 home-prefs-weather-learn-more-link = Saber más
+home-prefs-widgets-header =
+    .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listas
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporizador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Soporte { -brand-product-name }
 home-prefs-mission-message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web
 home-prefs-mission-message-learn-more-link = Descubre cómo
+home-prefs-mission-message2 =
+    .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
+home-prefs-manage-topics-link = Administrar temas
+home-prefs-choose-wallpaper-link = Elige un fondo de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
