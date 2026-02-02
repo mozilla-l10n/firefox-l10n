@@ -1484,6 +1484,8 @@ addressbar-locbar-suggest-sponsored-desc = Soporte { -brand-short-name } con sug
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugerencias descartadas
     .description = Restaurar las sugerencias descartadas de los patrocinadores y { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaurar sugerencias
 addressbar-quickactions-learn-more = Saber más
 addressbar-dismissed-suggestions-label = Sugerencias descartadas
 addressbar-restore-dismissed-suggestions-description = Restaurar las sugerencias descartadas de los patrocinadores y { -brand-short-name }.
@@ -1632,6 +1634,18 @@ permissions-autoplay = Reproducción automática
 permissions-autoplay-settings =
     .label = Ajustes…
     .accesskey = A
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Administrar las excepciones de ventanas emergentes y redireccionamiento de terceros
+    .accesskey = E
+    .searchkeywords = popups
+permissions-addon-install-warning2 =
+    .label = Advertir cuando los sitios web intenten instalar extensiones
+    .accesskey = W
+permissions-addon-exceptions2 =
+    .label = Elige qué sitios web pueden instalar extensiones
+    .accesskey = E
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
@@ -1657,6 +1671,9 @@ permissions-camera2 =
     .label = Cámara
 permissions-microphone2 =
     .label = Micrófono
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Salida de audio
 permissions-notification2 =
     .label = Notificaciones
 
@@ -1781,6 +1798,8 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } todavía puedes actualizar algunas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -1848,3 +1867,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Selecciona la carpeta de descarga:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }

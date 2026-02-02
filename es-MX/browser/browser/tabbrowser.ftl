@@ -329,8 +329,23 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Abrir grupo en una nueva ventana
 
+## Tab Notes
+
+tab-context-delete-note =
+    .label = Eliminar nota
+    .accesskey = D
+
 ## Split View
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Vista dividida
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Separar pestañas
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Invertir pestañas
