@@ -130,11 +130,19 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Descartar
 windows-10-eos-sync-callout-primary-advance-button-label = Siguiente
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Nuevo: Haz clic y mantén presionado para obtener una vista previa de los enlaces
+link-preview-onboarding-callout-description = Consulta una breve descripción, el tiempo de lectura y más información para decidir si vale la pena hacer clic en un enlace. También disponible con el botón derecho.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de las pestañas en la barra lateral
 sidebar-button-callout-subtitle = Usa el botón de la barra lateral para expandirla y poder ver los títulos de las pestañas.
 sidebar-button-callout-vertical-tabs = Para mostrar tus pestañas, selecciona el botón de la barra lateral en la barra de herramientas.
+sidebar-deprecation-callout-title = Barra lateral actualizada próximamente
+sidebar-deprecation-callout-subtitle = Estamos eliminando gradualmente la versión de la barra lateral que usas actualmente. Prueba la barra lateral actualizada. Es más rápida y te da acceso a más herramientas.
+sidebar-deprecation-cta-button = Pruébalo ahora
 
 ## Sidebar Vertical Tabs Strings
 

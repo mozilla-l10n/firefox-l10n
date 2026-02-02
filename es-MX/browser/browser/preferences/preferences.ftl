@@ -394,6 +394,12 @@ translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-subpage-download-delete-button =
+    .label = Eliminar
+settings-translations-subpage-download-cancel-button =
+    .label = Cancelar
+settings-translations-subpage-no-sites-added =
+    .label = No hay sitios agregados
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
