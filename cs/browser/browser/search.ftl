@@ -105,9 +105,9 @@ add-engine-keyword-placeholder =
 add-engine-keyword-exists = Toto klíčové slovo je již použito. Zkuste použít jiné.
 add-engine-name-exists = Tento název je již používán. Zvolte prosím jiný.
 add-engine-no-name = Zadejte prosím jméno.
-add-engine-no-url = Zadajte URL adresu.
+add-engine-no-url = Zadajte adresu URL.
 add-engine-invalid-url = Tato URL adresa se nezdá být v pořádku. Zkontrolujte ji a zkuste to znovu.
-add-engine-invalid-protocol = Tato URL adresa se nezdá být v pořádku. Použijte URL adresu, která začíná http nebo https.
+add-engine-invalid-protocol = Tato adresa URL se nezdá být v pořádku. Použijte adresu, která začíná http nebo https.
 # This error is shown when the user typed URL is missing %s.
 add-engine-missing-terms-url = Zkuste přidat %s místo vyhledávaného výrazu.
 # This error is shown when the user typed post data is missing %s.

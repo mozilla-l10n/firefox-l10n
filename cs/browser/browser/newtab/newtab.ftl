@@ -64,11 +64,11 @@ newtab-topsites-title-input =
     .placeholder = Zadejte název
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
-    .placeholder = Zadejte nebo vložte URL adresu
+    .placeholder = Zadejte nebo vložte adresu URL
 newtab-topsites-url-validation = Je vyžadována platná URL
 newtab-topsites-image-url-label = URL adresa vlastního obrázku
 newtab-topsites-use-image-link = Použít vlastní obrázek…
-newtab-topsites-image-validation = Obrázek se nepodařilo načíst. Zkuste jinou URL adresu.
+newtab-topsites-image-validation = Obrázek se nepodařilo načíst. Zkuste jinou adresu URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

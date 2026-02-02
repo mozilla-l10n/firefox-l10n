@@ -27,9 +27,9 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importi el alia retumilo…
 about-logins-menu-menuitem-import-from-a-file = Importi el dosiero …
-about-logins-menu-menuitem-export-logins = Elporti legitimilojn…
+about-logins-menu-menuitem-export-logins = Eksporti legitimilojn…
 about-logins-menu-menuitem-remove-all-logins = Forigi ĉiujn legitimilojn…
-about-logins-menu-menuitem-export-logins2 = Elporti pasvortojn…
+about-logins-menu-menuitem-export-logins2 = Eksporti pasvortojn…
 about-logins-menu-menuitem-remove-all-logins2 = Forigi ĉiujn pasvortojn…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -196,15 +196,15 @@ about-logins-copy-password-os-auth-dialog-message-win = Por kopii vian pasvorton
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopii la konservitan pasvorton
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Por elporti viajn legitimilojn, tajpu la akdreditilojn  de Windows. Tio helpas protekti la sekurecon de viaj kontoj.
+about-logins-export-password-os-auth-dialog-message-win = Por eksporti viajn legitimilojn, tajpu la akdreditilojn  de Windows. Tio helpas protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = Elporto konservis legitimilojn kaj pasvortojn
+about-logins-export-password-os-auth-dialog-message-macosx = eksporti konservitajn legitimilojn kaj pasvortojn
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message2-win = Por elporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
+about-logins-export-password-os-auth-dialog-message2-win = Por eksporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message2-macosx = elporti la konservitan pasvortojn
+about-logins-export-password-os-auth-dialog-message2-macosx = eksporti la konservitan pasvortojn
 
 ## Primary Password notification
 
@@ -294,14 +294,14 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
+about-logins-confirm-export-dialog-title = Eksporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
-about-logins-confirm-export-dialog-confirm-button = Elporti…
-about-logins-confirm-export-dialog-title2 = Rimarko pri elporto de pasvortoj
+about-logins-confirm-export-dialog-confirm-button = Eksporti…
+about-logins-confirm-export-dialog-title2 = Rimarko pri eksporto de pasvortoj
 about-logins-confirm-export-dialog-message2 =
-    Kiam vi elportas, viaj pasvortoj estos konservitaj en dosiero per legebla teksto.
+    Kiam vi eksportas, viaj pasvortoj estos konservitaj en dosiero per legebla teksto.
     Post la uzo de tiu dosiero, ni rekomendas forigi ĝin, tiel ke aliaj uzantoj de la aparato ne povos vidi viajn pasvortojn.
-about-logins-confirm-export-dialog-confirm-button2 = Daŭrigi la elporton
+about-logins-confirm-export-dialog-confirm-button2 = Daŭrigi la eksporton
 about-logins-alert-import-title = Importo finita
 about-logins-alert-import-message = Vidi detalan raporton pri importo
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
@@ -339,16 +339,16 @@ about-logins-error-message-default = Eraro okazis dum konservo de tiu ĉi pasvor
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Elporti dosieron de legitimiloj
+about-logins-export-file-picker-title = Eksporti dosieron de legitimiloj
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = legitimiloj.csv
 # Title of the file picker dialog
-about-logins-export-file-picker-title2 = Elporti pasvortojn el { -brand-short-name }
+about-logins-export-file-picker-title2 = Eksporti pasvortojn el { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = pasvortoj.csv
-about-logins-export-file-picker-export-button = Elporti
+about-logins-export-file-picker-export-button = Eksporti
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =

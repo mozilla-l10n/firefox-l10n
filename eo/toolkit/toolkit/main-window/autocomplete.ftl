@@ -10,13 +10,13 @@
 ##   $host (String) - Host name of the current site.
 
 autocomplete-import-logins-chrome =
-    <div data-l10n-name="line1">Enportu vian legitimilon el Google Chrome</div>
+    <div data-l10n-name="line1">Importu vian legitimilon el Google Chrome</div>
     <div data-l10n-name="line2">por { $host } kaj aliaj retejoj</div>
 autocomplete-import-logins-chromium =
-    <div data-l10n-name="line1">Enportu vian legitimilon el Chromium</div>
+    <div data-l10n-name="line1">Importu vian legitimilon el Chromium</div>
     <div data-l10n-name="line2">por { $host } kaj aliaj retejoj</div>
 autocomplete-import-logins-chromium-edge =
-    <div data-l10n-name="line1">Enportu vian legitimilon el Microsoft Edge</div>
+    <div data-l10n-name="line1">Importu vian legitimilon el Microsoft Edge</div>
     <div data-l10n-name="line2">por { $host } kaj aliaj retejoj</div>
 
 ##

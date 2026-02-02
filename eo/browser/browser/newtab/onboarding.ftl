@@ -51,7 +51,7 @@ mr1-onboarding-sign-in-button-label = Komenci seancon
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
-mr1-onboarding-import-primary-button-label-attribution = Enporti el { $previous }
+mr1-onboarding-import-primary-button-label-attribution = Importi el { $previous }
 mr1-onboarding-theme-header = Personecigu ĝin
 mr1-onboarding-theme-subtitle = Personecigi { -brand-short-name } per etoso.
 mr1-onboarding-theme-secondary-button-label = Ne nun
@@ -170,7 +170,7 @@ mr2022-onboarding-easy-setup-primary-button-label = Konservi kaj daŭrigi
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Igu { -brand-short-name } via norma retumilo
 # Import action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-import-checkbox-label = Enporti el antaŭa retumilo
+mr2022-onboarding-easy-setup-import-checkbox-label = Importi el antaŭa retumilo
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -230,7 +230,7 @@ mr2022-onboarding-get-started-primary-button-label = Agordi en sekundoj
 
 mr2022-onboarding-import-header = Fulmrapida agordo
 mr2022-onboarding-import-subtitle = Agordu { -brand-short-name } kiel vi ĝin ŝatas. Aldonu viajn legosignojn, pasvortojn kaj pli el via antaŭa retumilo.
-mr2022-onboarding-import-primary-button-label-no-attribution = Enporti el antaŭa retumilo
+mr2022-onboarding-import-primary-button-label-no-attribution = Importi el antaŭa retumilo
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
@@ -306,8 +306,8 @@ mr2022-onboarding-gratitude-secondary-button-label = Komenci retumi
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Sentu vin hejme
-onboarding-infrequent-import-subtitle = Ĉu vi pretas instali ĉu vi simple provas, memoru ke vi povas enporti viajn legosignojn, pasvortojn kaj aliajn aferojn.
-onboarding-infrequent-import-primary-button = Enporti en { -brand-short-name }
+onboarding-infrequent-import-subtitle = Ĉu vi pretas instali, ĉu vi simple provas, memoru ke vi povas importi viajn legosignojn, pasvortojn kaj aliajn aferojn.
+onboarding-infrequent-import-primary-button = Importi en { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
@@ -436,7 +436,7 @@ onboarding-checklist-title = Fini la agordadon de { -brand-short-name }
 onboarding-checklist-subtitle = Seku la jenajn paŝojn por eltiri la maksimumon el via retuma sperto.
 onboarding-checklist-set-default = Igu { -brand-short-name } via norma retumilo
 onboarding-checklist-pin = Alpingli { -brand-short-name } al via Dock
-onboarding-checklist-import = Enporti el antaŭa retumilo
+onboarding-checklist-import = Importi el antaŭa retumilo
 onboarding-checklist-extension = Aldoni etendaĵon
 onboarding-checklist-sign-up = Registriĝu aŭ komencu seancon per via konto
 

@@ -16,19 +16,19 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = Aldoni pasvorton
 contextual-manager-passwords-command-import-from-browser = Importi el alia retumilo…
 contextual-manager-passwords-command-import = Importi el dosiero …
-contextual-manager-passwords-command-export = Elporti pasvortojn…
+contextual-manager-passwords-command-export = Eksporti pasvortojn…
 contextual-manager-passwords-command-remove-all = Forviŝi ĉiujn pasvortojn
 contextual-manager-passwords-command-options = Elektebloj
 contextual-manager-passwords-command-settings = Agordoj
 contextual-manager-passwords-command-help = Helpo
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
-contextual-manager-passwords-export-os-auth-dialog-message-win = Por elporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
+contextual-manager-passwords-export-os-auth-dialog-message-win = Por eksporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to export a password in about:logins
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-export-os-auth-dialog-message-macosx = elporti la konservitan pasvortojn
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = eksporti la konservitan pasvortojn
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Por vidi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
@@ -81,19 +81,19 @@ contextual-manager-passwords-import-error-button-try-again = Klopodi denove
 contextual-manager-passwords-import-error-button-cancel = Nuligi
 contextual-manager-passwords-import-learn-more = Pli da informo pri importo de pasvortoj
 contextual-manager-passwords-export-success-heading =
-    .heading = Pasvortoj elportitaj
+    .heading = Pasvortoj eksportitaj
 contextual-manager-passwords-export-success-button = Farita
 # Export passwords to file dialog
-contextual-manager-export-passwords-dialog-title = Ĉu elporti pasvortojn al dosiero?
+contextual-manager-export-passwords-dialog-title = Ĉu eksporti pasvortojn al dosiero?
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
-contextual-manager-export-passwords-dialog-message = Post la elporto, ni rekomendas forigi la dosieron, tiel ke aliaj uzantoj de tiu ĉi aparato ne povos vidi viajn pasvortojn.
-contextual-manager-export-passwords-dialog-confirm-button = Daŭrigi la elporton
+contextual-manager-export-passwords-dialog-message = Post la eksporto, ni rekomendas forigi la dosieron, tiel ke aliaj uzantoj de tiu ĉi aparato ne povos vidi viajn pasvortojn.
+contextual-manager-export-passwords-dialog-confirm-button = Daŭrigi la eksporton
 # Title of the file picker dialog
-contextual-manager-passwords-export-file-picker-title = Elporti pasvortojn el { -brand-short-name }
+contextual-manager-passwords-export-file-picker-title = Eksporti pasvortojn el { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = pasvortoj
-contextual-manager-passwords-export-file-picker-export-button = Elporti
+contextual-manager-passwords-export-file-picker-export-button = Eksporti
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-export-file-picker-csv-filter-title =

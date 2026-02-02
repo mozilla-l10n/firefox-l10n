@@ -57,7 +57,7 @@ report-broken-site-panel-report-sent-text =
         [with-cases] Děkujeme, že pomáháte { -brand-product-name(case: "dat") } utvářet web otevřenější, přístupnější a lepší pro všechny.
        *[no-cases] Děkujeme, že pomáháte aplikaci { -brand-product-name } utvářet web otevřenější, přístupnější a lepší pro všechny.
     }
-report-broken-site-panel-invalid-url-label = Vložte prosím platnou URL adresu
+report-broken-site-panel-invalid-url-label = Vložte prosím platnou adresu URL
 report-broken-site-panel-missing-reason-label = Zvolte důvod
 report-broken-site-panel-blocked-trackers-label =
     .label = Odesílat URL adresy blokované ochranou proti sledování
