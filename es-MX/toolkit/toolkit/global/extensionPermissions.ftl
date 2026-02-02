@@ -48,3 +48,7 @@ webext-perms-extra-warning-userScripts-short = Los scripts no verificados pueden
 
 webext-perms-description-data-short-authenticationInfo = información de autenticación
 webext-perms-description-data-short-bookmarksInfo = marcadores
+webext-perms-description-data-short-browsingActivity = actividad de navegación
+webext-perms-description-data-short-financialAndPaymentInfo = información financiera y de pagos
+webext-perms-description-data-short-healthInfo = información de salud
+webext-perms-description-data-short-locationInfo = ubicación

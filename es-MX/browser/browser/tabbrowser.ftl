@@ -331,9 +331,20 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Agregar nota
+    .accesskey = A
+tab-context-update-note =
+    .label = Actualizar nota
+    .accesskey = U
+tab-context-edit-note =
+    .label = Editar nota
+    .accesskey = E
 tab-context-delete-note =
     .label = Eliminar nota
     .accesskey = D
+tab-note-editor-title-create = Agregar nota
+tab-note-editor-title-edit = Editar nota
 tab-note-editor-text-field =
     .placeholder = ¿Qué quieres recordar de esta pestaña?
 tab-note-editor-button-cancel =
@@ -342,12 +353,23 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Guardar
     .accesskey = S
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Leer más
 
 ## Split View
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Vista dividida
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Abrir en vista dividida
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separar vista dividida
+    .accesskey = t
+tab-context-badge-new = Nuevo
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
