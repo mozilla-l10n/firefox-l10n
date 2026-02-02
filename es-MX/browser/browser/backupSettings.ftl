@@ -166,6 +166,7 @@ change-backup-encryption-header = Cambiar la contraseña de respaldo
 password-rules-header = Requisitos de contraseña
 password-rules-length-description = Al menos 8 caracteres
 password-rules-email-description = No es tu dirección de correo electrónico
+password-rules-disclaimer = Mantente a seguro — no reutilices las contraseñas. Consulta más sugerencias para <a data-l10n-name="password-support-link">crear contraseñas seguras</a>.
 password-validity-has-email = No puede ser una dirección de correo electrónico
 password-validity-do-not-match = Las contraseñas no coinciden
 
@@ -201,6 +202,7 @@ backup-error-retry = Algo salió mal. Por favor, inténtalo de nuevo.
 
 backup-file-header = { -brand-short-name } está listo para ser restaurado
 backup-file-title = Restaurar { -brand-short-name }
+backup-file-intro = Vuelve a navegar y recupera todos tus marcadores, historial y demás datos. <a data-l10n-name="backup-file-support-link">Más información</a>
 backup-file-path-label = Archivo de respaldo:
 backup-file-encryption-state-label = Encriptado:
 backup-file-encryption-state-value-encrypted = Sí
@@ -211,4 +213,15 @@ backup-file-creation-date-label = Creado:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = Cómo restaurar:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Abre el menú de la aplicación ☰ y ve a Ajustes > Sincronización
+backup-file-moz-browser-restore-step-2 = Haz clic en “Elegir archivo de respaldo” y selecciona este archivo
+backup-file-moz-browser-restore-step-3 = Reinicia { -brand-short-name } cuando se te solicite
+backup-file-other-browser-restore-step-1 = Descargar e instalar { -brand-short-name }
 backup-file-download-moz-browser-button = Descargar
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Inicia { -brand-short-name }, abre el menú de la aplicación ☰ y ve a Ajustes > Sincronización
+backup-file-other-browser-restore-step-3 = Haz clic en “Elegir archivo de respaldo” y selecciona este archivo
+backup-file-other-browser-restore-step-4 = Reinicia { -brand-short-name } cuando se te solicite
