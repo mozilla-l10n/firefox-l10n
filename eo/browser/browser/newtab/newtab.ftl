@@ -478,6 +478,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Ŝanĝi al Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Ŝanĝi al Celsius
+newtab-weather-menu-hide-weather-v2 = Kaŝi veterprognozon
 newtab-weather-menu-hide-weather = Kaŝi veteron en nova langeto
 newtab-weather-menu-learn-more = Pli da informo
 newtab-weather-menu-detect-my-location = Trovi mian pozicion
@@ -696,6 +697,9 @@ newtab-widget-timer-menu-notifications = Malŝalti sciigojn
 newtab-widget-timer-menu-notifications-on = Ŝalti sciigojn
 newtab-widget-timer-menu-hide = Kaŝi tempumilon
 newtab-widget-timer-menu-learn-more = Pli da informo
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Ĉefaj titoloj
+newtab-daily-briefing-card-menu-dismiss = Ignori
 newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
