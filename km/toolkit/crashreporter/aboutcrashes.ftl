@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = របាយការណ៍​គាំង
+delete-button-label = សម្អាតទាំងអស់
 delete-confirm-title = តើ​អ្នក​ប្រាកដ​ដែរ​ឬ​ទេ ?
 crashes-unsubmitted-label = ដក​ការ​ដាក់ស្នើ​របាយការណ៍​គាំង
 id-heading = លេខ​សម្គាល់​របាយការណ៍

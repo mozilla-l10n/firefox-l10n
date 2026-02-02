@@ -201,6 +201,13 @@ pdfjs-web-fonts-disabled = បាន​បិទ​ពុម្ពអក្ស�
 
 pdfjs-editor-alt-text-cancel-button = បោះបង់
 
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = បង្ហាញ​ទាំងអស់
+pdfjs-editor-highlight-show-all-button =
+    .title = បង្ហាញ​ទាំងអស់
+
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = បោះបង់

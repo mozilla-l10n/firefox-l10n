@@ -108,6 +108,7 @@ extensions-warning-update-security2 =
     .message = ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​ត្រូវ​បាន​សម្របសម្រួល​ទៅតាម​បច្ចុប្បន្នភាព ។
 extensions-warning-update-security-button = បើក
     .title = បើក​ការ​ត្រួតពិនិត្យមើល​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម
+extensions-warning-imported-addons-button = ដំឡើង​ផ្នែក​បន្ថែម
 
 ## Strings connected to add-on updates
 
@@ -161,6 +162,10 @@ enable-addon-button = បើក​ដំណើរការ
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = បើក​ដំណើរការ
+
+## Pending uninstall message bar
+
+addon-detail-private-browsing-allow = អនុញ្ញាត
 
 ## Page headings
 

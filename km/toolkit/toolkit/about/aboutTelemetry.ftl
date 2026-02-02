@@ -21,6 +21,8 @@ about-telemetry-full-sql-warning = ចំណាំ ៖ ការ​បំបា
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ទំព័រ​នេះ​បង្ហាញ​ព័ត៌មាន​អំពី​ដំណើរការ ផ្នែក​រឹង ការ​ប្រើប្រាស់ និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ដែល​បាន​ប្រមូល​ដោយ​ទូរមាត្រ​វិធី ។ ព័ត៌មាន​នេះ​ត្រូវ​បាន​ដាក់​ស្នើ​ទៅ { $telemetryServerOwner } ដើម្បី​ធ្វើឲ្យ { -brand-full-name } ប្រសើរ​ឡើង ។
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = ទាំងអស់
 # button label to copy the histogram
 about-telemetry-histogram-copy = ​ចម្លង
 # these strings are used in the “Slow SQL Statements” section

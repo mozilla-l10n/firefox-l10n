@@ -49,6 +49,10 @@ copy-text-to-clipboard-label = ចម្លង​អត្ថបទ​ទៅ​�
 copy-raw-data-to-clipboard-label = ចម្លង​ទិន្នន័យ​ដើម​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 sandbox-title = Sandbox
 
+## Codec support table
+
+media-codec-support-lack-of-extension = ដំឡើង​ផ្នែក​បន្ថែម
+
 ##
 
 # Variables

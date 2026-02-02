@@ -846,6 +846,9 @@ urlbar-result-menu-dont-show-market =
     .label = No mostrar sugerencias de mercados
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Gracias por tu opinión. Ya no verás sugerencias de mercados.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugerencias del mercado de valores
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Gracias por tu opinión. Ya no verás estas sugerencias.
@@ -924,6 +927,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Esta vez busca con:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Buscar con:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Configuración de Búsqueda
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
@@ -937,6 +943,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = No hay acceso directo seleccionado, elige uno.
     .tooltiptext = No hay acceso directo seleccionado, elige uno.
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = La búsqueda de palabras clave está deshabilitada
+    .tooltiptext = La búsqueda de palabras clave está deshabilitada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
