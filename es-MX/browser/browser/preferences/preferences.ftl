@@ -684,6 +684,9 @@ home-homepage-title =
 
 home-custom-homepage-subpage =
     .heading = Personalizar página de inicio
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card =
+    .heading = Dirección(es) del sitio web
 home-custom-homepage-address-button =
     .label = Agregar dirección
 
@@ -761,7 +764,11 @@ home-prefs-mission-message-learn-more-link = Descubre cómo
 home-prefs-mission-message2 =
     .message = Nuestros patrocinadores apoyan nuestra misión de construir una mejor web.
 home-prefs-manage-topics-link = Administrar temas
+home-prefs-manage-topics-link2 =
+    .label = Administrar temas
 home-prefs-choose-wallpaper-link = Elige un fondo de pantalla
+home-prefs-choose-wallpaper-link2 =
+    .label = Selecciona un fondo de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -795,12 +802,28 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-show-suggestions-private-windows-2 =
+    .label = Sugerencias de búsqueda en ventanas privadas
 search-suggestions-cant-show-2 =
     .message = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque has configurado { -brand-short-name } para que nunca recuerde el historial.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostrar los términos de búsqueda en la barra de direcciones en las páginas de resultados.
+search-separate-default-engine-2 =
+    .label = Utiliza un motor de búsqueda predeterminado diferente en ventanas privadas
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Motor de búsqueda predeterminado en ventanas privadas
+search-suggestions-header-2 =
+    .label = Sugerencias de motor de búsqueda
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
