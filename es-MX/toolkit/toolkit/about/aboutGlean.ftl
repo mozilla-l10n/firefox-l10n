@@ -150,6 +150,7 @@ about-glean-metrics-table-header-type = Tipo
 about-glean-metrics-table-header-value = Valor
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Acciones
+about-glean-metrics-table-settings-button = Ajustes
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
