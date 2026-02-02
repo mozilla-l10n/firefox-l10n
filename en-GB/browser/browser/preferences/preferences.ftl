@@ -787,7 +787,7 @@ is-default-browser-2 =
 is-not-default-browser-2 =
     .message = Psst, { -brand-short-name } isn’t your default.
 set-as-my-default-browser-2 =
-    .label = Make Default
+    .label = Make default
     .accesskey = D
 
 ## Custom Homepage subpage
