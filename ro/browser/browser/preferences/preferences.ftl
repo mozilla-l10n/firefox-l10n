@@ -410,6 +410,28 @@ preferences-text-zoom-override-warning =
     .message = Avertisment: Dacă selectezi „Mărește doar textul” și zoom-ul implicit nu este setat la 100%, este posibil ca unele site-uri sau conținuturi să nu funcționeze corect.
 language-header = Limbă
 choose-language-description = Alege limba în care preferi să vezi paginile
+website-language-heading =
+    .label = Limbă site web
+    .description = Unele pagini web sunt afișate în mai multe limbi. Alege limbile în ordinea preferată de tine.
+website-preferred-language =
+    .label = Limbi preferate
+website-add-language =
+    .label = Adaugă o limbă
+website-add-language-button =
+    .aria-label = Adaugă limba selectată
+    .title = Adaugă limba selectată
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Elimină { $locale }
+    .title = Elimină { $locale }
 choose-button =
     .label = Alege…
     .accesskey = o

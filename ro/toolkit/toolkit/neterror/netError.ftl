@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Verifică fișierul - să nu fi fost mutat, rede
 neterror-access-denied = Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.
 neterror-unknown-protocol = S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.
 neterror-redirect-loop = Această problemă poate fi uneori cauzată de dezactivarea sau refuzarea acceptării de cookie-uri.
+neterror-unknown-socket-type-client-config = Este posibil să fie din cauza unei erori de configurare a clientului.
 neterror-unknown-socket-type-psm-installed = Verifică dacă sistemul are instalat Managerul personal de securitate.
 neterror-unknown-socket-type-server-config = Se poate întâmpla și din cauza unei configurații atipice pe server.
 neterror-not-cached-intro = Documentul solicitat nu este disponibil în cache-ul { -brand-short-name }.
