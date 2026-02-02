@@ -14,8 +14,8 @@ contextual-manager-more-options-popup =
 ## Passwords
 
 contextual-manager-passwords-command-create = Aldoni pasvorton
-contextual-manager-passwords-command-import-from-browser = Enporti el alia retumilo…
-contextual-manager-passwords-command-import = Enporti el dosiero …
+contextual-manager-passwords-command-import-from-browser = Importi el alia retumilo…
+contextual-manager-passwords-command-import = Importi el dosiero …
 contextual-manager-passwords-command-export = Elporti pasvortojn…
 contextual-manager-passwords-command-remove-all = Forviŝi ĉiujn pasvortojn
 contextual-manager-passwords-command-options = Elektebloj
@@ -44,8 +44,8 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Por kopi
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopii la konservitan pasvorton
-contextual-manager-passwords-import-file-picker-title = Enporti pasvortojn…
-contextual-manager-passwords-import-file-picker-import-button = Enporti
+contextual-manager-passwords-import-file-picker-title = Importi pasvortojn…
+contextual-manager-passwords-import-file-picker-import-button = Importi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-import-file-picker-csv-filter-title =
@@ -61,7 +61,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] Dosiero TSV
     }
 contextual-manager-passwords-import-success-heading =
-    .heading = Pasvortoj enportitaj
+    .heading = Pasvortoj importitaj
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -75,11 +75,11 @@ contextual-manager-passwords-import-success-message-2 = Novaj: { $added }, ĝisd
 contextual-manager-passwords-import-detailed-report = Montri detalan raporton
 contextual-manager-passwords-import-success-button = Farita
 contextual-manager-passwords-import-error-heading-and-message =
-    .heading = Ne eblis enporti pasvortojn
+    .heading = Ne eblis importi pasvortojn
     .message = Certiĝu havi dosieron kiu inkluzivas kolumnojn por retejoj, por nomoj de uzanto kaj por pasvortoj.
 contextual-manager-passwords-import-error-button-try-again = Klopodi denove
 contextual-manager-passwords-import-error-button-cancel = Nuligi
-contextual-manager-passwords-import-learn-more = Pli da informo pri enporto de pasvortoj
+contextual-manager-passwords-import-learn-more = Pli da informo pri importo de pasvortoj
 contextual-manager-passwords-export-success-heading =
     .heading = Pasvortoj elportitaj
 contextual-manager-passwords-export-success-button = Farita

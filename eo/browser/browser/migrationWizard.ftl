@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard-selection-header = Enporti retumilajn datumojn
-migration-wizard-selection-list = Elekti la datumojn, kiujn vi ŝatus enporti.
+migration-wizard-selection-header = Importi retumilajn datumojn
+migration-wizard-selection-list = Elekti la datumojn, kiujn vi ŝatus importi.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -53,7 +53,7 @@ migration-imported-edge-reading-list = Legolisto (de Edge)
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } ne havas aliron al profiloj de aliaj retumiloj instalitaj en tiu ĉi aparato.
-migration-no-permissions-instructions = Por daŭrigi la enporton de datumoj el alia retumilo, donu al { -brand-short-name } permeson aliri la profilan dosierujon.
+migration-no-permissions-instructions = Por daŭrigi la importon de datumoj el alia retumilo, donu al { -brand-short-name } permeson aliri la profilan dosierujon.
 migration-no-permissions-instructions-step1 = Elektu “Daŭrigi”
 # The second step in getting permissions to read data for the selected
 # browser type.
@@ -64,9 +64,9 @@ migration-no-permissions-instructions-step2 = En la elektilo de dosieroj, iru al
 
 ## These strings will be displayed based on how many resources are selected to import
 
-migration-all-available-data-label = Enporti ĉiujn disponeblajn datumojn
-migration-no-selected-data-label = Neniu datumo elektita por enporto
-migration-selected-data-label = Enporti elektitajn datumojn
+migration-all-available-data-label = Importi ĉiujn disponeblajn datumojn
+migration-no-selected-data-label = Neniu datumo elektita por importo
+migration-selected-data-label = Importi elektitajn datumojn
 
 ##
 
@@ -84,13 +84,13 @@ migration-payment-methods-option-label = Pagmetodoj
 migration-cookies-option-label = Kuketoj
 migration-session-option-label = Fenestroj kaj langetoj
 migration-otherdata-option-label = Aliaj datumoj
-migration-passwords-from-file-progress-header = Enporti dosieron kun pasvortoj
-migration-passwords-from-file-success-header = Pasvortoj sukcese enportitaj
+migration-passwords-from-file-progress-header = Importi dosieron kun pasvortoj
+migration-passwords-from-file-success-header = Pasvortoj sukcese importitaj
 migration-passwords-from-file = Kontrolo de ekzisto de pasvortoj en dosiero
 migration-passwords-new = Novaj pasvortoj
 migration-passwords-updated = Jamaj pasvortoj
 migration-passwords-from-file-no-valid-data = Tiu dosiero ne enhavas validajn pasvortajn datumojn. Elektu alian dosieron.
-migration-passwords-from-file-picker-title = Enporti dosieron kun pasvortoj
+migration-passwords-from-file-picker-title = Importi dosieron kun pasvortoj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -125,10 +125,10 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } ĝisdatigita
        *[other] { $updatedEntries } ĝisdatigitaj
     }
-migration-bookmarks-from-file-picker-title = Enporti dosieron de legosignoj
-migration-bookmarks-from-file-progress-header = Enporto de legosignoj
+migration-bookmarks-from-file-picker-title = Importi dosieron de legosignoj
+migration-bookmarks-from-file-progress-header = Importo de legosignoj
 migration-bookmarks-from-file = Legosignoj
-migration-bookmarks-from-file-success-header = Legosignoj sukcese enportitaj
+migration-bookmarks-from-file-success-header = Legosignoj sukcese importitaj
 migration-bookmarks-from-file-no-valid-data = Tiu dosiero ne enhavas legosignajn datumojn. Elektu alian dosieron.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
@@ -150,14 +150,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } legosigno
        *[other] { $newEntries } legosignoj
     }
-migration-import-button-label = Enporti
-migration-choose-to-import-from-file-button-label = Enporti el dosiero
+migration-import-button-label = Importi
+migration-choose-to-import-from-file-button-label = Importi el dosiero
 migration-import-from-file-button-label = Elekti dosieron
 migration-cancel-button-label = Nuligi
 migration-done-button-label = Farita
 migration-continue-button-label = Daŭrigi
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ne povis trovi programon, kiu enhavas legosignajn, historiajn aŭ pasvortajn datumojn.
-migration-wizard-import-browser-no-resources = Okazis erar. { -brand-short-name } ne povis trovi enporteblajn datumojn el tiu retumila profilo.
+migration-wizard-import-browser-no-resources = Okazis eraro. { -brand-short-name } ne povis trovi importeblajn datumojn el tiu retumila profilo.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -177,31 +177,28 @@ migration-list-payment-methods-label = pagmetodoj
 
 ##
 
-migration-wizard-progress-header = Datumoj enportataj
+migration-wizard-progress-header = Datumoj importataj
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
-migration-wizard-progress-done-header = Datumoj sukcese enportitaj
+migration-wizard-progress-done-header = Datumoj sukcese importitaj
 # This header appears in the final page of the migration wizard if only
 # some of the resources were imported successfully. This is meant to be
 # distinct from migration-wizard-progress-done-header, which is only shown
 # if all resources were imported successfully.
-migration-wizard-progress-done-with-warnings-header = Enporto de datumoj finita
+migration-wizard-progress-done-with-warnings-header = Importo de datumoj finita
 migration-wizard-progress-icon-in-progress =
-    .aria-label = Enporto…
+    .aria-label = Importo…
 migration-wizard-progress-icon-completed =
     .aria-label = Kompleta
-migration-safari-password-import-header = Enporti pasvortojn el Safari
-migration-safari-password-import-steps-header = Por enporti pasvortojn el Safari:
+migration-safari-password-import-header = Importi pasvortojn el Safari
 migration-safari-password-import-step1 = En Safari, malfermu la menuon “Safari“ kaj iru al Preferoj > Pasvortoj
 migration-safari-password-import-step2 = Elektu la butonon <img data-l10n-name="safari-icon-3dots"/> kaj “Elporti ĉiujn pasvortojn”
 migration-safari-password-import-step3 = Konservi la dosieron kun pasvortoj
 migration-safari-password-import-step4 = Malsupre, uzu “Elekti dosieron” por elekti la dosieron kun pasvortoj, kiun vi konservis
-migration-chrome-windows-password-import-header = Kiel enporti pasvortojn el Chrome
 migration-chrome-windows-password-import-steps-header = En Chrome:
 migration-chrome-windows-password-import-step1 = Malfermu la ĉefan menuon <img data-l10n-name="chrome-icon-3dots"/> kaj iru al Pasvortoj kaj aŭtomata plenigu > Administranto de pasvortoj de Google.
 migration-chrome-windows-password-import-step2 = Elektu “Agoroj” en la menuo.
 migration-chrome-windows-password-import-step3 = Elektu “Elŝuti dosieron” kaj konservu ĝin en via aparato.
-migration-chrome-windows-password-import-step4 = Revenu ĉi tien kaj elektu “Elekti dosieron”  por fini la enporton.
 migration-manual-password-import-skip-button = Ignori
 migration-manual-password-import-select-button = Elekti dosieron
 migration-safari-password-import-skip-button = Ignori
@@ -289,6 +286,5 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } pagmetodo
        *[other] { $quantity } pagmetodoj
     }
-migration-wizard-safari-permissions-sub-header = Por enporti legosignojn kaj retuman historio el Safari:
 migration-wizard-safari-instructions-continue = Elektu “Daŭrigi”
 migration-wizard-safari-instructions-folder = Elektu en la listo la dosierujon de Safari kaj “Open”

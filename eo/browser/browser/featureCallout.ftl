@@ -174,7 +174,7 @@ vertical-tabs-callout-2-subtitle = Tiu aranĝo permesas rapidan trarigardon de v
 
 ## Sidebar Vertical Tabs Pinning Strings
 
-sidebar-pins-callout-title = Ĉu vi ne plu facile retrovas viajn gravajn langetojn?
+sidebar-pins-callout-title = Ĉu vi ne plu retrovas viajn gravajn langetojn facile?
 sidebar-pins-callout-subtitle = Provu alplingli ilin, kio tenas ilin ĉe la komenco de via listo de langetoj. Alklaku per la deksta butono la alpinglotan langeton kaj poste elektu Alpingli langeton.
 sidebar-pins-callout-cta-button = Alpingli langeton
 

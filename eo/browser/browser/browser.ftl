@@ -602,8 +602,8 @@ browser-tab-unblock =
 ## Bookmarks toolbar items
 
 browser-import-button2 =
-    .label = Enporti legosignojn…
-    .tooltiptext = Enporti legosignojn de alia retumilo en { -brand-short-name }.
+    .label = Importi legosignojn…
+    .tooltiptext = Importi legosignojn de alia retumilo en { -brand-short-name }.
 bookmarks-toolbar-empty-message = Por rapida aliro, metu viajn legosignojn ĉi tien, en la strion de legosignoj. <a data-l10n-name="manage-bookmarks">Administri legosignojn…</a>
 
 ## WebRTC Pop-up notifications

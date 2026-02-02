@@ -25,8 +25,8 @@ fxaccounts-avatar-button =
 menu =
     .title = Malfermi menuon
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Enporti el alia retumilo…
-about-logins-menu-menuitem-import-from-a-file = Enporti el dosiero …
+about-logins-menu-menuitem-import-from-another-browser = Importi el alia retumilo…
+about-logins-menu-menuitem-import-from-a-file = Importi el dosiero …
 about-logins-menu-menuitem-export-logins = Elporti legitimilojn…
 about-logins-menu-menuitem-remove-all-logins = Forigi ĉiujn legitimilojn…
 about-logins-menu-menuitem-export-logins2 = Elporti pasvortojn…
@@ -103,7 +103,7 @@ about-logins-list-section-week = Lastaj 7 tagoj
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Ĉu vi serĉas viajn konservitajn legitimilojn? Ŝaltu speguladon aŭ enportu ilin.
+about-logins-login-intro-heading-logged-out2 = Ĉu vi serĉas viajn konservitajn legitimilojn? Ŝaltu speguladon aŭ importu ilin.
 about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instructions-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
@@ -112,9 +112,9 @@ login-intro-description2 = Ĉiuj pasvortoj konservitaj en { -brand-product-name 
 login-intro-instructions-fxa2 = Krei konton aŭ komencu seancon en la aparato, kie la legitimiloj estas konservitaj.
 login-intro-instructions-fxa-settings = Iru al Agordoj->Spegulado->Ŝalti speguladon… Elektu la markobutonon "Legitimiloj kaj pasvortoj".
 login-intro-instructions-fxa-passwords-help = Vizitu la paĝon <a data-l10n-name="passwords-help-link">helpo pri pasvortoj</a> por havi pli da informo.
-about-logins-intro-browser-only-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -brand-product-name }</a>
-about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">enporti ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
-about-logins-intro-import3 = Premu la supran plussignan butonon por aldoni pasvorton nun. Vi povas ankaŭ <a data-l10n-name="import-browser-link">enporti pasvortojn el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>.
+about-logins-intro-browser-only-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">importi ilin en { -brand-product-name }</a>
+about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">importi ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
+about-logins-intro-import3 = Premu la supran plussignan butonon por aldoni pasvorton nun. Vi povas ankaŭ <a data-l10n-name="import-browser-link">importi pasvortojn el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>.
 
 ## Login
 
@@ -302,8 +302,8 @@ about-logins-confirm-export-dialog-message2 =
     Kiam vi elportas, viaj pasvortoj estos konservitaj en dosiero per legebla teksto.
     Post la uzo de tiu dosiero, ni rekomendas forigi ĝin, tiel ke aliaj uzantoj de la aparato ne povos vidi viajn pasvortojn.
 about-logins-confirm-export-dialog-confirm-button2 = Daŭrigi la elporton
-about-logins-alert-import-title = Enportado finita
-about-logins-alert-import-message = Vidi detalan raporton pri enportado
+about-logins-alert-import-title = Importo finita
+about-logins-alert-import-message = Vidi detalan raporton pri importo
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
 confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
 confirm-discard-changes-dialog-confirm-button = Ignori
@@ -360,10 +360,10 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Enporti dosieron de legitimiloj
+about-logins-import-file-picker-title = Importi dosieron de legitimiloj
 # Title of the file picker dialog
-about-logins-import-file-picker-title2 = Enporti pasvortojn en { -brand-short-name }
-about-logins-import-file-picker-import-button = Enporti
+about-logins-import-file-picker-title2 = Importi pasvortojn en { -brand-short-name }
+about-logins-import-file-picker-import-button = Importi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
@@ -383,7 +383,7 @@ about-logins-import-file-picker-tsv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-dialog-title = Enportado finita
+about-logins-import-dialog-title = Importo finita
 about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Novaj legitimiloj aldonitaj:</span> <span data-l10n-name="count">{ $count }</span>
@@ -394,8 +394,8 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
-       *[other] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
+        [one] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importita)</span>
+       *[other] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importitaj)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
@@ -409,16 +409,16 @@ about-logins-import-dialog-items-modified2 =
     }
 about-logins-import-dialog-items-no-change2 =
     { $count ->
-        [one] <span>Duobligita elemento trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
+        [one] <span>Duobligita elemento trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importita)</span>
        *[other] <span>Duobligitaj elementoj trovitaj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importitaj)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
-        [one] <span>Eraro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
-       *[other] <span>Eraroj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
+        [one] <span>Eraro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importita)</span>
+       *[other] <span>Eraroj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importitaj)</span>
     }
 about-logins-import-dialog-done = Farita
-about-logins-import-dialog-error-title = Enporta eraro
+about-logins-import-dialog-error-title = Importa eraro
 about-logins-import-dialog-error-conflicting-values-title = Pluraj malkonsentaj valoroj por legitimilo
 about-logins-import-dialog-error-conflicting-values-description = Ekzemple: pluraj nomoj de uzanto, pasvortoj, retadresojn, ktp. por legitimilo.
 about-logins-import-dialog-error-file-format-title = Problemo kun la formo de dosiero
@@ -427,13 +427,13 @@ about-logins-import-dialog-error-file-permission-title = Ne eblis legi dosieron
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ne rajtas legi la dosieron. Provu ŝanĝi la permesojn de la dosiero.
 about-logins-import-dialog-error-unable-to-read-title = Ne eblis analizi dosieron
 about-logins-import-dialog-error-unable-to-read-description = Certiĝu ke vi elektis dosieron ĉu CSV ĉu TSV.
-about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis enportita
+about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis importita
 about-logins-import-dialog-error-learn-more = Pli da informo
-about-logins-import-dialog-error-try-import-again = Klopodu enporti denove…
+about-logins-import-dialog-error-try-import-again = Klopodu importi denove…
 about-logins-import-dialog-error-cancel = Nuligi
-about-logins-import-report-title = Resumo pri enporto
-about-logins-import-report-description = Akreditiloj kaj pasvortoj enportitaj en { -brand-short-name }.
-about-logins-import-report-description2 = Pasvortoj enportitaj en { -brand-short-name }.
+about-logins-import-report-title = Resumo pri importo
+about-logins-import-report-description = Akreditiloj kaj pasvortoj importitaj en { -brand-short-name }.
+about-logins-import-report-description2 = Pasvortoj importitaj en { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -469,8 +469,8 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligita akreditilo</div> <div data-l10n-name="not-imported">(ne enportita)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligitaj akreditiloj</div> <div data-l10n-name="not-imported">(ne enportitaj)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligita akreditilo</div> <div data-l10n-name="not-imported">(ne importita)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligitaj akreditiloj</div> <div data-l10n-name="not-imported">(ne importitaj)</div>
     }
 about-logins-import-report-added2 =
     { $count ->
@@ -484,15 +484,15 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duobligita elemento</div> <div data-l10n-name="not-imported">(ne enportita)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duobligitaj elementoj</div> <div data-l10n-name="not-imported">(ne enportita)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duobligita elemento</div> <div data-l10n-name="not-imported">(ne importita)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duobligitaj elementoj</div> <div data-l10n-name="not-imported">(ne importitaj)</div>
     }
 about-logins-import-report-error =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eraro</div> <div data-l10n-name="not-imported">(ne enportita)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eraroj</div> <div data-l10n-name="not-imported">(ne enportitaj)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eraro</div> <div data-l10n-name="not-imported">(ne importita)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eraroj</div> <div data-l10n-name="not-imported">(ne importitaj)</div>
     }
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Enporti resuman raporton
+about-logins-import-report-page-title = Importi resuman raporton

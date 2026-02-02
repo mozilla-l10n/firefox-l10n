@@ -226,8 +226,8 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
-firefoxview-import-history-header = Enporti datumojn el alia retumilo
-firefoxview-import-history-description = Igu { -brand-short-name } via ĉefa retumilo. Enportu vian retuman historion, legosignojn kaj pli.
+firefoxview-import-history-header = Importi datumojn el alia retumilo
+firefoxview-import-history-description = Igu { -brand-short-name } via ĉefa retumilo. Importu vian retuman historion, legosignojn kaj pli.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

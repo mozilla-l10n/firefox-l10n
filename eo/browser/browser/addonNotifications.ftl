@@ -69,7 +69,7 @@ webext-perms-update-menu-item = { $addonName } postulas novajn permesojn
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
-webext-imported-addons = Fini instalon de etendaĵoj enportitaj en { -brand-short-name }
+webext-imported-addons = Fini instalon de etendaĵoj importitaj en { -brand-short-name }
 
 ## Add-on removal warning
 
