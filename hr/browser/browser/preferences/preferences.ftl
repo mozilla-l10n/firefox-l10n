@@ -292,6 +292,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = P
 browser-layout-header2 =
     .label = Raspored preglednika
+browser-layout-horizontal-tabs2 =
+    .label = Vodoravne kartice
+    .title = Kartice gore
+    .description = Kartice gore
+browser-layout-vertical-tabs2 =
+    .label = Okomite kartice
+    .title = Kartice na strani u bočnoj traci
+    .description = Kartice na strani u bočnoj traci
 browser-layout-show-sidebar2 =
     .label = Prikaži bočnu traku
     .description = Brzo pristupi zabilješkama, karticama s telefona, UI chatbotovima i još mnogo toga bez napuštanja glavnog prikaza.
@@ -402,6 +410,28 @@ preferences-text-zoom-override-warning =
     .message = Upozorenje: Ako odabereš „Zumiraj samo tekst”, a tvoje standardno zumiranje nije postavljeno na 100 %, to može pokvariti prikaz nekih stranica ili sadržaja.
 language-header = Jezik
 choose-language-description = Odaberi jezik za prikazivanje stranica
+website-language-heading =
+    .label = Jezik web-stranice
+    .description = Neke se web-stranice prikazuju na više jezika. Odredi redoslijed jezika.
+website-preferred-language =
+    .label = Preferirani jezici
+website-add-language =
+    .label = Dodaj jezik
+website-add-language-button =
+    .aria-label = Dodaj odabrani jezik
+    .title = Dodaj odabrani jezik
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Ukloni { $locale }
+    .title = Ukloni { $locale }
 choose-button =
     .label = Odaberi …
     .accesskey = d

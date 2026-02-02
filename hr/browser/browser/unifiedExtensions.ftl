@@ -18,6 +18,7 @@ unified-extensions-empty-reason-extension-not-enabled = Imaš instalirana proši
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Poboljšaj razinu pregledavanja s proširenjima
 unified-extensions-empty-content-explain-enable2 = Odaberi „{ unified-extensions-manage-extensions.label }” za aktiviranje u postavkama.
+unified-extensions-empty-content-explain-manage2 = Odaberi „{ unified-extensions-manage-extensions.label }” za upravljanje proširenjima u postavkama
 unified-extensions-empty-content-explain-extensions-onboarding = Personaliziraj { -brand-short-name } promjenom izgleda i rada ili poboljšanjem privatnosti i sigurnosti.
 
 ## An extension in the main list
@@ -29,6 +30,9 @@ unified-extensions-empty-content-explain-extensions-onboarding = Personaliziraj 
 unified-extensions-item-open-menu =
     .aria-label = Otvori izbornik za { $extensionName }
 unified-extensions-item-message-manage = Upravljaj proširenjem
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = Proširenje { $extensionName } je blokirano. Njegovo korištenje može biti rizično.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } krši Mozillina pravila. Korištenje može biti riskantno.
@@ -61,6 +65,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Saznaj više
 unified-extensions-mb-about-addons-link = Idi na postavke proširenja
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } deaktivirano
+    .message =
+        Ovo je proširenje ograničeno te je deaktivirano.
+        Može se aktivirati u postavkama, ali to može biti rizično.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } deaktivirano
     .message =
@@ -71,6 +82,16 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } deaktivirano
     .message = Ovo proširenje krši Mozillina pravila te je stoga deaktivirano.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } proširenje je deaktivirano
+            [few] { $extensionsCount } proširenja su deaktivirana
+           *[other] { $extensionsCount } proširenja je deaktivirano
+        }
+    .message = Mogu se aktivirati u postavkama, ali to može biti rizično.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =
@@ -93,3 +114,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } proširenja deaktivirano
         }
     .message = Neka od tvojih proširenja su deaktivirana jer krše Mozillina pravila.
+unified-extensions-notice-safe-mode =
+    .message = Modus ispravljanja grešaka je deaktivirao sve dodatke.

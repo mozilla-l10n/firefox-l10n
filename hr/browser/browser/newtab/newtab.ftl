@@ -483,6 +483,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzija
 newtab-weather-menu-change-temperature-units-fahrenheit = Prebaci na Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Prebaci na Celzijeve stupnjeve
+newtab-weather-menu-hide-weather-v2 = Sakrij vrijeme
 newtab-weather-menu-hide-weather = Sakrij vremensku prognozu na novoj kartici
 newtab-weather-menu-learn-more = Saznaj više
 newtab-weather-menu-detect-my-location = Otkrij moju lokaciju
@@ -701,6 +702,12 @@ newtab-widget-timer-menu-notifications = Isključi obavijesti
 newtab-widget-timer-menu-notifications-on = Uključi obavijesti
 newtab-widget-timer-menu-hide = Sakrij odbrojavanje
 newtab-widget-timer-menu-learn-more = Saznaj više
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Najnovije vijesti
+newtab-daily-briefing-card-menu-dismiss = Odbaci
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Aktualizirano prije { $minutes } min
 newtab-widget-message-title = Ostanite fokusirani uz popise i ugrađeno odbrojavanje
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od brzih podsjetnika do dnevnih obaveza, sesija za fokusiranje do pauza za istezanje — ostanite usredotočeni na zadatak i na vrijeme.
