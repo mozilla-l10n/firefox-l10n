@@ -171,8 +171,28 @@ preferences-manage-profiles-description = Cada perfil tiene sus propios datos y 
 preferences-manage-profiles-learn-more = Más información
 preferences-manage-profiles-button =
     .label = Administrar perfiles
+preferences-profiles-settings-button =
+    .label = Ajustes
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Perfil para copiar
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Seleccionar perfil
+preferences-copy-profile-button = Copiar
 tabs-group-header2 =
     .label = Pestañas
+tabs-opening-heading =
+    .label = Apertura
+tabs-interaction-heading =
+    .label = Interacción
+tabs-containers-heading =
+    .label = Contenedores
+tabs-closing-heading =
+    .label = Cierre
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl + Tab recorre pestañas según su uso reciente
@@ -674,6 +694,7 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+home-homepage-header = Página de inicio
 
 ## Home Section - Home Page Customization
 
@@ -919,6 +940,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Inicia sesión en tu cuenta para empezar a sincronizar
     .accesskey = i
+sync-signedout-account-short =
+    .label = Iniciar sesión
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -958,6 +982,14 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1133,10 +1165,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Contraseñas
     .searchkeywords = inicios de sesión
+forms-passwords-header =
+    .label = Contraseñas
+    .aria-label = Contraseñas
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Preguntar para guardar contraseñas
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = Administrar excepciones de contraseña
+    .accesskey = M
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -1170,9 +1208,22 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Contraseñas guardadas
     .accesskey = d
+forms-saved-passwords-searchkeywords = Los inicios de sesión para los siguientes sitios web están almacenados en tu computadora
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Protecciones adicionales
 forms-primary-pw-use =
     .label = Utilizar una contraseña principal
     .accesskey = U
+forms-primary-pw-set =
+    .label = Establecer contraseña principal
+forms-primary-pw-on =
+    .label = La contraseña principal está activada
+forms-primary-pw-change-2 =
+    .label = Cambiar la contraseña principal
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desactivar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerir inicio de sesión en el dispositivo para completar y administrar contraseñas
@@ -1237,10 +1288,18 @@ autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el disp
 autofill-payment-methods-title = Métodos de pago
 autofill-payment-methods-header =
     .aria-label = Métodos de pago
+autofill-payment-methods-manage-payments-title =
+    .heading = Administrar métodos de pago
+autofill-payment-methods-add-button = Agregar nuevo método de pago
+payments-list-header =
+    .label = Métodos de pago
+payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-button-label =
     .aria-label = Eliminar
 payments-edit-payment-button-label =
     .aria-label = Editar
+payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
+payments-remove-payment-prompt-confirm-button = Eliminar
 autofill-addresses-title = Direcciones y más
 autofill-addresses-header =
     .aria-label = Direcciones y más
@@ -1354,6 +1413,10 @@ sitedata-total-size-calculating = Calculando tamaño de los datos del sitio y el
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size2 = Las cookies almacenadas, el historial, los datos del sitio y el caché están utilizando actualmente <strong>{ $value } { $unit }</strong> de espacio en disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Aprender más
 sitedata-delete-on-close =
@@ -1387,6 +1450,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Todas las cookies entre sitios (puede causar errores en los sitios web)
 sitedata-option-block-all =
     .label = Todas las cookies (causará errores en los sitios web)
+sitedata-clear2 =
+    .label = Borrar datos de navegación
+    .accesskey = I
+sitedata-settings2 =
+    .label = Administrar datos de navegación
+    .accesskey = M
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = l
