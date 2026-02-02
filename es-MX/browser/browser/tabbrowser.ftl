@@ -334,6 +334,14 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-delete-note =
     .label = Eliminar nota
     .accesskey = D
+tab-note-editor-text-field =
+    .placeholder = ¿Qué quieres recordar de esta pestaña?
+tab-note-editor-button-cancel =
+    .label = Cancelar
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Guardar
+    .accesskey = S
 
 ## Split View
 
@@ -349,3 +357,5 @@ split-view-menuitem-separate-tabs =
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
     .label = Invertir pestañas
+split-view-menuitem-close-both-tabs =
+    .label = Cerrar ambas pestañas
