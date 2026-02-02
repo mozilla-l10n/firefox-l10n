@@ -700,6 +700,13 @@ newtab-widget-timer-menu-learn-more = Pli da informo
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Ĉefaj titoloj
 newtab-daily-briefing-card-menu-dismiss = Ignori
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp =
+    { $minutes ->
+        [one] Ĝisdatigita antaŭ minuto
+       *[other] Ĝisdatigita antaŭ { $minutes } minutoj
+    }
 newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
