@@ -1176,6 +1176,8 @@ forms-primary-pw-use =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerir inicio de sesión en el dispositivo para completar y administrar contraseñas
+forms-os-reauth-2 =
+    .label = Requerir la autenticación del sistema para administrar contraseñas
 forms-primary-pw-learn-more-link = Más información
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1235,6 +1237,10 @@ autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el disp
 autofill-payment-methods-title = Métodos de pago
 autofill-payment-methods-header =
     .aria-label = Métodos de pago
+payments-delete-payment-button-label =
+    .aria-label = Eliminar
+payments-edit-payment-button-label =
+    .aria-label = Editar
 autofill-addresses-title = Direcciones y más
 autofill-addresses-header =
     .aria-label = Direcciones y más
@@ -1244,9 +1250,21 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Administrar direcciones y más
     .accesskey = A
+addresses-list-header =
+    .label = Direcciones
+addreses-delete-address-button-label =
+    .aria-label = Eliminar
+addreses-edit-address-button-label =
+    .aria-label = Editar
+addresses-delete-address-prompt-title = ¿Eliminar esta dirección?
+addresses-delete-address-prompt-confirm-button = Eliminar
+addresses-delete-address-prompt-cancel-button = Cancelar
 autofill-addresses-add-button = Agregar nueva dirección
 autofill-addresses-manage-addresses-title =
     .heading = Administrar direcciones y más
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = No hay direcciones agregadas
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1295,6 +1313,9 @@ history-remember-description4 =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } utilizará configuraciones personalizadas para tu historial de navegación, descargas, formularios y búsqueda.
 history-remember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
@@ -1429,6 +1450,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Búsquedas recientes
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Tendencias en sugerencias de búsqueda
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Sugerencias de { -brand-short-name }
