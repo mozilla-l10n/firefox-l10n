@@ -120,6 +120,35 @@ restore-from-backup-restoring-button = Restaurando…
 # the backup file is encrypted and the user provided a recovery password that
 # was different than the password the user configured for their backup file
 backup-service-error-incorrect-password = Contraseña incorrecta. <a data-l10n-name="incorrect-password-support-link">¿Aún tienes problemas?</a>
+# The backup file (or specific data files within the backup file) could not be
+# loaded and parsed correctly, most likely due to data corruption of the
+# backup file itself
+backup-service-error-corrupt-file =
+    .heading = Este archivo no funciona
+    .message = Hubo un problema con tu archivo de respaldo. Elige un archivo diferente y vuelve a intentarlo.
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = Este archivo no funciona
+    .message = El archivo que elegiste no es compatible con esta versión de { -brand-short-name }. Elige un archivo diferente y vuelve a intentarlo.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = Este archivo no funciona
+    .message = El archivo que elegiste no fue creado por { -brand-short-name }. Elige un archivo diferente y vuelve a intentarlo.
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = { -brand-short-name } no se pudo restaurar
+    .message = Reinicia { -brand-short-name } y vuelve a intentar restaurar tu respaldo.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Hmm, hubo un problema al realizar la copia de seguridad.
+    .message = Vuelve a intentarlo en unos minutos.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
