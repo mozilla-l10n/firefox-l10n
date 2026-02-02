@@ -641,6 +641,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Emoambue tenda yke
+pdfjs-toggle-views-manager-notification-button =
+    .title = Embojopyru tenda ykegua (kuatia oguereko mba’e’i, kuaakaha/moirũha/ñuãha)
 pdfjs-toggle-views-manager-button-label = Emoambue tenda yke
 pdfjs-views-manager-sidebar =
     .aria-label = Ta’ãngarupa yke
@@ -671,6 +673,20 @@ pdfjs-views-manager-pages-status-copy-button-label = Monguatia
 pdfjs-views-manager-pages-status-cut-button-label = Kytĩ
 pdfjs-views-manager-pages-status-delete-button-label = Mboguete
 pdfjs-views-manager-pages-status-save-as-button-label = Ñongatu pyahu…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 kuatiarogue kytĩmbyre
+       *[other] { $count } kuatiarogue kytĩmbyre
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 kuatiarogue monguatiapyre
+       *[other] { $count } kuatiarogue monguatiapyre
+    }
 pdfjs-views-manager-status-undo-button-label = Mboguevi
 pdfjs-views-manager-status-close-button =
     .title = Mboty
