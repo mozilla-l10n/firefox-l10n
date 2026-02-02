@@ -125,6 +125,8 @@ windows-10-eos-sync-urgency-title-1 = No pierdas todo lo que hayas guardado al m
 windows-10-eos-sync-urgency-subtitle-1 = Sincroniza ahora para mantener tus marcadores, contraseñas y ajustes de { -brand-short-name } seguros y fáciles de restaurar.
 windows-10-eos-sync-new-device-title-1 = No te arriesgues a empezar desde cero en tu próximo dispositivo.
 windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostrar menos recomendaciones
 windows-10-eos-sync-dismiss-button-label = Descartar
 windows-10-eos-sync-callout-primary-advance-button-label = Siguiente
 
@@ -151,6 +153,7 @@ sidebar-pins-callout-cta-button = Anclar pestaña
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-3-title = Mantén los sitios importantes a tu alcance
 pin-tabs-callout-4-title = Anclar los sitios que visitas con más frecuencia
 
 ## Sidebar Onboarding Strings

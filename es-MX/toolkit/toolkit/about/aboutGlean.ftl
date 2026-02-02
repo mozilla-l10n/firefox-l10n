@@ -164,6 +164,11 @@ about-glean-metrics-table-settings-histograms-chart-max = Altura máxima del gr�
 about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima escalada
 about-glean-metrics-table-settings-histograms-box-padding = Relleno de las barras
 about-glean-metrics-table-settings-category-visualizations-timeline = Línea de tiempo
+about-glean-metrics-table-settings-timelines-height = Altura
+about-glean-metrics-table-settings-timelines-width = Ancho
+about-glean-metrics-table-settings-timelines-chart-padding = Relleno de gráficos
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Radio del círculo
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -185,3 +190,10 @@ about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, por favor, consulta el
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Diccionario</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Pings incorporados
+about-glean-ping-list-optgroup-custom =
+    .label = Pings personalizados

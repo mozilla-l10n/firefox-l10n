@@ -46,6 +46,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de registro para diagnosticar llamadas WebRTC
 about-logging-preset-webcodecs-label = Códecs web
 about-logging-preset-webcodecs-description = Módulos de registro para diagnosticar problemas con los descodificadores y codificadores de audio/vídeo y los descodificadores de imágenes de WebCodecs.
+about-logging-preset-navigation = Navegación
+about-logging-preset-navigation-description = Módulos de registro para diagnosticar problemas de navegación e historial de sesiones
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficas
@@ -66,6 +68,9 @@ about-logging-unknown-profiler-preset = Valor preestablecido de perfilador desco
 about-logging-unknown-option = Opción de about:loggin desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
 about-logging-file-and-profiler-override = No se puede forzar la salida a un archivo y anular las opciones del perfilador al mismo tiempo
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-unknown-error = Ocurrió un error: { $errorText }
 about-logging-configured-via-url = Opción configurada vía URL
 
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
