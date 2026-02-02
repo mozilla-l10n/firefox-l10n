@@ -565,15 +565,31 @@ newtab-custom-wallpaper-title = Los fondos de pantalla personalizados están aqu
 newtab-custom-wallpaper-subtitle = Sube tu propio fondo de pantalla o elige un color personalizado para hacer tuyo { -brand-product-name }.
 newtab-custom-wallpaper-cta = Intentalo
 
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
+newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móviles
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Escanea el código para navegar de forma segura mientras viajas.
 newtab-download-mobile-highlight-body-variant-b = Continúa donde lo dejaste cuando sincronizas tus pestañas, contraseñas y más.
+newtab-download-mobile-highlight-body-variant-c = ¿Sabías que puedes llevar { -brand-product-name } contigo? El mismo navegador. En tu bolsillo.
 
 ## Strings for reporting issues with ads and content
 
+newtab-report-content-why-reporting-this =
+    .label = ¿Por qué estás informando esto?
+newtab-report-ads-reason-not-interested =
+    .label = No me interesa
+newtab-report-ads-reason-inappropriate =
+    .label = Es inapropiado
+newtab-report-content-inappropriate-offensive =
+    .label = Inapropiado u ofensivo
+newtab-report-content-spam-misleading =
+    .label = Spam o engañoso
 newtab-report-cancel = Cancelar
 newtab-report-submit = Enviar
 
