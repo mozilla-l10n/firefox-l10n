@@ -2229,7 +2229,7 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Attivando il blocco in { -brand-short-name } non vedrai funzionalità basate sull’IA, nuove o esistenti, né i relativi messaggi pop-up. <a data-l10n-name="link">Scopri di più</a> su cosa è incluso e su come gestire le funzionalità basate sul tradizionale machine learning, come i suggerimenti di ricerca e le raccomandazioni.
 preferences-ai-controls-blocked-message =
-    .message = Per impostazione predefinita, le funzionalità basate basati sull’IA, nuove o esistenti, sono bloccate. Per attivare una funzione specifica, utilizza i controlli qui sotto.
+    .message = Per impostazione predefinita, le funzionalità basate sull’IA, nuove o esistenti, sono bloccate. Per attivare una funzione specifica, utilizza i controlli qui sotto.
 preferences-ai-controls-on-device-group =
     .label = IA sul dispositivo
     .description = Le funzioni utilizzano modelli IA di dimensioni ridotte, scaricati sul tuo dispositivo nel momento in cui le usi. In questo modo, la tua privacy è sempre tutelata.
