@@ -13,3 +13,4 @@ abuse-report-goback-button = ថយ​ក្រោយ
 abuse-report-messagebar-action-remove-extension = បាទ/ចាស៎ លុបវាចេញ
 abuse-report-messagebar-action-remove-sitepermission = បាទ/ចាស៎ លុបវាចេញ
 abuse-report-messagebar-action-remove-theme = បាទ/ចាស៎ លុបវាចេញ
+abuse-report-messagebar-action-cancel = បោះបង់

@@ -158,6 +158,10 @@ newtab-pocket-thumbs-down-tooltip =
 newtab-error-fallback-info = អូ មានអ្វីមួយខុសប្រក្រតីក្នុងការផ្ទុក​ខ្លឹមសារ​នេះ។
 newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវិញ ដើម្បីព្យាយាមម្ដងទៀត។
 
+## New Tab Wallpapers
+
+newtab-wallpaper-title = ផ្ទាំងរូបភាព
+
 ## New Tab Weather
 
 newtab-weather-opt-in-not-now =
@@ -182,6 +186,10 @@ newtab-new-user-custom-wallpaper-cta = សាកល្បងឥឡូវនេ�
 newtab-report-ads-reason-not-interested =
     .label = ខ្ញុំមិនចាប់អារម្មណ៍ទេ
 newtab-report-cancel = បោះបង់
+
+## Strings for task / to-do list productivity widget
+
+newtab-widget-lists-menu-hide = លាក់បញ្ជីទាំងអស់
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

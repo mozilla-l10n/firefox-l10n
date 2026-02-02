@@ -77,6 +77,15 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = បង្ហា�
 mr2022-onboarding-gratitude-primary-button-label = មើល​អ្វី​ដែល​ថ្មី
 mr2022-onboarding-gratitude-secondary-button-label = ចាប់ផ្ដើម​រុករក
 
+## Add-ons Picker screen
+
+amo-picker-install-complete-label = បាន​ដំឡើង
+
 ## New user time and familiarity survey strings
 
 onboarding-new-user-survey-time-based-option-2 = តិចជាង 1 ខែ
+
+## Fx Backup onboarding: Create Backup spotlight
+
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = ទិន្នន័យទាំងអស់

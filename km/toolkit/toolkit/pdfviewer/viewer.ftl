@@ -196,3 +196,15 @@ pdfjs-password-invalid = ពាក្យសម្ងាត់​មិន​ត�
 pdfjs-password-ok-button = យល់​ព្រម
 pdfjs-password-cancel-button = បោះបង់
 pdfjs-web-fonts-disabled = បាន​បិទ​ពុម្ពអក្សរ​បណ្ដាញ ៖ មិន​អាច​ប្រើ​ពុម្ពអក្សរ PDF ដែល​បាន​បង្កប់​បាន​ទេ ។
+
+## Alt-text dialog
+
+pdfjs-editor-alt-text-cancel-button = បោះបង់
+
+## Dialog buttons
+
+pdfjs-editor-add-signature-cancel-button = បោះបង់
+
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-dialog-cancel-button = បោះបង់
