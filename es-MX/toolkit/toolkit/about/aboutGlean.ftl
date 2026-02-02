@@ -151,6 +151,19 @@ about-glean-metrics-table-header-value = Valor
 # This message refers to the UI action buttons for a given metric.
 about-glean-metrics-table-header-actions = Acciones
 about-glean-metrics-table-settings-button = Ajustes
+# Settings for the metrics table and its visualizations in about:glean
+about-glean-metrics-table-settings-title = Ajustes de tabla de métricas
+about-glean-metrics-table-settings-category-general = General
+about-glean-metrics-table-settings-hide-empty-value-rows = Ocultar filas con valores vacíos
+about-glean-metrics-table-settings-category-visualizations = Visualizaciones
+# This is a heading that is immediately followed by an example data visualization
+about-glean-metrics-table-settings-visualization-example = Ejemplo
+about-glean-metrics-table-settings-category-visualizations-histogram = Histograma
+about-glean-metrics-table-settings-histograms-chart-max = Altura máxima del gráfico
+# The maximum height after to which the y-values on the chart will be scaled
+about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima escalada
+about-glean-metrics-table-settings-histograms-box-padding = Relleno de las barras
+about-glean-metrics-table-settings-category-visualizations-timeline = Línea de tiempo
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -167,6 +180,8 @@ about-glean-button-dictionary-link = Documentos
 about-glean-button-watch = Observar
 # Meaning "to stop watching"
 about-glean-button-unwatch = Dejar de ver
+about-glean-no-data-to-display = No hay datos para mostrar.
+about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, por favor, consulta el
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Diccionario</a>.
