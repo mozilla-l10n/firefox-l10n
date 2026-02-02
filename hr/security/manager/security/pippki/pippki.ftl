@@ -100,3 +100,9 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lozinka sigurnosne kopije certifikata (još jednom):
 set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći obnoviti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.
+
+## Protected authentication alert
+
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Autentificiraj se na token „{ $tokenName }”. Kako to učiniti ovisi o tokenu (npr. skeniranjem otiska prsta ili unosom koda na tipkovnici).

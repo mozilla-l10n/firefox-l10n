@@ -165,6 +165,8 @@ extensions-warning-update-security-button = Aktiviraj
 extensions-warning-imported-addons2 =
     .message = Završite instaliranje dodataka uvezenih u { -brand-short-name }.
 extensions-warning-imported-addons-button = Instaliraj proširenja
+extensions-warning-safe-mode3 =
+    .message = Modus ispravljanja grešaka je deaktivirao sve dodatke.
 
 ## Strings connected to add-on updates
 
@@ -284,6 +286,10 @@ colorway-removal-notice-message =
     .message = { -brand-product-name } je aktualizirao svoju zbirku kolorita. Uklonili smo stare verzije s popisa „Spremljene teme”. Preuzmi nove verzije na stranici s dodacima.
 colorway-removal-notice-learn-more = Saznaj više
 colorway-removal-notice-button = Nabavi aktualizirane teme kolorita
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Tvoje postavke kontrasta u Windowsu nadjačavaju { -brand-short-name } teme. Isključi te postavke kako bi mogao/la koristiti teme u { -brand-short-name(case: "loc") }.
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -532,6 +538,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Više informacija
 details-notification-blocked = Dodatak { $name } je blokiran zbog problema sa sigurnosti ili stabilnosti.
 details-notification-blocked-link2 = Pogledaj detalje
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Ovo je proširenje blokirano i deaktivirano. Možeš ga aktivirati, ali to može biti rizično.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Ovo je proširenje blokirano. Njegovo korištenje može biti rizično.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Ovaj je dodatak blokiran i deaktiviran. Možeš ga aktivirati, ali to može biti rizično.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Ovaj dodatak je blokiran. Njegovo korištenje može biti rizično.
 details-notification-soft-blocked-extension-disabled =
     .message = Ovo proširenje je ograničeno jer krši Mozillina pravila te je deaktivirano. Možeš ga aktivirati, ali to može biti riskantno.
 details-notification-soft-blocked-extension-enabled =

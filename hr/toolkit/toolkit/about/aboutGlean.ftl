@@ -48,6 +48,10 @@ about-glean-label-for-ping-names =
     Inače, zadana vrijednost za metrike <code>events</code> je
     ping <code>events</code>, a zadana vrijednost za sve ostale metrike je
     ping <code>metrics</code>.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Opcionalano. Označi prethodni okvir ako želiš da se pingovi također zapisuju prilikom slanja.
+    Dodatno tome ćeš morati <a data-l10n-name="enable-logging-link">aktivirati zapisivanje</a>.)
 about-glean-profiler-explanation =
     Za potpuni prikaz svih zabilježenih metrika možeš koristiti { -profiler-brand-name }.
     Najprije <a data-l10n-name="firefox-profiler-link">snimi profil performansi</a>.

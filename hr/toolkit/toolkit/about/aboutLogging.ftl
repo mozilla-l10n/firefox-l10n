@@ -2,10 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is the title of the page
+about-logging-title = O vođenju zapisnika
+about-logging-page-title = Upravljač zapisnika
 about-logging-current-log-file = Trenutačna datoteka zapisnika:
 about-logging-new-log-file = Nova datoteka zapisnika:
 about-logging-currently-enabled-log-modules = Trenutačno aktivirani moduli zapisnika:
-about-logging-log-tutorial = Posjetite <a data-l10n-name="logging">HTTP zapisnik</a> za uputstva kako koristiti ovaj alat.
+about-logging-log-tutorial = Posjeti <a data-l10n-name="logging">HTTP zapisnik</a> za upute kako koristiti ovaj alat.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Otvori mapu
 about-logging-set-log-file = Postavi datoteku zapisnika
@@ -14,6 +17,7 @@ about-logging-start-logging = Pokreni vođenje zapisnika
 about-logging-stop-logging = Zaustavi vođenje zapisnika
 about-logging-copy-as-url = Kopiraj trenutačne postavke kao URL
 about-logging-url-copied = Postavke vođenja zapisnika su kopirane u međuspremnik kao unaprijed postavljeni URL
+about-logging-buttons-disabled = Vođenje zapisnika je konfigurirano kroz varijable okruženja. Dinamička konfiguracija nije dostupna.
 about-logging-some-elements-disabled = Vođenje zapisnika je konfigurirano putem URL-a. Neke opcije konfiguracije nisu dostupne
 about-logging-info = Informacije:
 about-logging-log-modules-selection = Izbor modula zapisnika
