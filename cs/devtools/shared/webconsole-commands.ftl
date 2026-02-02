@@ -13,7 +13,7 @@ webconsole-commands-usage-block =
     
     Začne blokovat síťové požadavky
     
-      Přijímá pouze jeden parametr URL_STRING, řetězec neuvedený v uvozovkách, který bude použit k zablokování všech požadavků, jejichž URL adresa obsahuje tento řetězec.
+      Přijímá pouze jeden parametr URL_STRING, řetězec neuvedený v uvozovkách, který bude použit k zablokování všech požadavků, jejichž adresa URL obsahuje tento řetězec.
       Chcete-li toto blokování zrušit, použijte příkaz :unblock nebo postranní panel blokování požadavků monitoru síťových požadavků.
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =

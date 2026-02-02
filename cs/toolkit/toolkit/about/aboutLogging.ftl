@@ -75,7 +75,7 @@ about-logging-invalid-output = Neplatná hodnota „{ $v }“ pro klíč „{ $k
 about-logging-unknown-logging-preset = Neznámá předvolba protokolování „{ $v }“
 about-logging-unknown-profiler-preset = Neznámá předvolba profilování „{ $v }“
 about-logging-unknown-option = Neznámá možnost „{ $k }“ stránky about:logging
-about-logging-configuration-url-ignored = Konfigurační URL adresa ignorována
+about-logging-configuration-url-ignored = Konfigurační adresa URL ignorována
 about-logging-file-and-profiler-override = Vynucení výstupu do souboru a nastavení profilování není zároveň možné
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.

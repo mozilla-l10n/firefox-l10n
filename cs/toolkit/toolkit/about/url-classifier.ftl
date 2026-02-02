@@ -11,8 +11,8 @@ url-classifier-search-result-uri = URI: { $uri }
 # Variables:
 #   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Seznam tabulek: { $list }
-url-classifier-search-input = URL adresa
-url-classifier-search-error-invalid-url = Neplatná URL adresa
+url-classifier-search-input = Adresa URL
+url-classifier-search-error-invalid-url = Neplatná adresa URL
 url-classifier-search-error-no-features = Nejsou vybrány žádné funkce
 url-classifier-search-error-no-results = Pro URL nebyly nalezeny žádné záznamy
 url-classifier-search-btn = Hledat

@@ -106,7 +106,7 @@ certificate-viewer-download-pem-chain = PEM (chain)
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Tiu ĉi etendaĵo estis markita kiel gravega. Tio signifas ke klientoj devus rifuzi la atestilon se ili ne komprenas ĝin.
-certificate-viewer-export = Elporti
+certificate-viewer-export = Eksporti
     .download = { $fileName }.pem
 
 ##

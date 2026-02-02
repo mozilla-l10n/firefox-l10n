@@ -66,7 +66,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Zadejte nebo vložte adresu URL
 newtab-topsites-url-validation = Je vyžadována platná URL
-newtab-topsites-image-url-label = URL adresa vlastního obrázku
+newtab-topsites-image-url-label = Adresa URL vlastního obrázku
 newtab-topsites-use-image-link = Použít vlastní obrázek…
 newtab-topsites-image-validation = Obrázek se nepodařilo načíst. Zkuste jinou adresu URL.
 

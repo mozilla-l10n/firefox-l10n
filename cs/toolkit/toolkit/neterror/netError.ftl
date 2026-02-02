@@ -11,7 +11,7 @@ certerror-sts-page-title = Nepřipojeno: Možný bezpečnostní problém
 neterror-blocked-by-policy-page-title = Zablokovaná stránka
 neterror-captive-portal-page-title = Přihlásit se do sítě
 neterror-dns-not-found-title = Server nenalezen
-neterror-malformed-uri-page-title = Neplatná URL adresa
+neterror-malformed-uri-page-title = Neplatná adresa URL
 general-body-title = Buďte opatrní. Něco není v pořádku.
 problem-with-this-site-title = Zdá se, že s touto stránkou nastal problém
 
@@ -88,7 +88,7 @@ neterror-dns-not-found-trr-only-timeout = Připojení k DNS překladači { $trrD
 neterror-dns-not-found-trr-offline = Nejste připojeni k internetu.
 neterror-dns-not-found-trr-unknown-host2 = Tento server nebyl překladačem { $trrDomain } nalezen.
 neterror-dns-not-found-trr-server-problem = Vyskytl se problém s DNS překladačem { $trrDomain }.
-neterror-dns-not-found-bad-trr-url = Neplatná URL adresa.
+neterror-dns-not-found-bad-trr-url = Neplatná adresa URL.
 neterror-dns-not-found-system-sleep = Systém je v režimu spánku.
 neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
 
