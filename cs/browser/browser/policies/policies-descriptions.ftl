@@ -95,7 +95,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Zakáže varován
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
+policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat adresy URL nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
 policy-ExtensionSettings = Správa všech aspektů instalace rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
 policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.

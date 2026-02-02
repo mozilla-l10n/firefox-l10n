@@ -1141,7 +1141,7 @@ search-suggestions-header-2 =
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
-    .label = Pro výsledky výchozího vyhledávače zobrazovat vyhledané výrazy místo jeho URL adresy
+    .label = Pro výsledky výchozího vyhledávače zobrazovat vyhledané výrazy místo jeho adresy URL
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,

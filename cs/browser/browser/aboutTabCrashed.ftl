@@ -22,8 +22,8 @@ crashed-comment =
     .placeholder = Přidat komentář (komentáře jsou veřejně dostupné)
 crashed-include-URL-2 =
     { -brand-short-name.case-status ->
-        [with-cases] Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu { -brand-short-name(case: "gen") }
-       *[no-cases] Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu aplikace { -brand-short-name }
+        [with-cases] Zahrnout adresy URL stránek, na kterých jste byli v okamžiku pádu { -brand-short-name(case: "gen") }
+       *[no-cases] Zahrnout adresy URL stránek, na kterých jste byli v okamžiku pádu aplikace { -brand-short-name }
     }
 crashed-report-sent =
     { -brand-short-name.case-status ->
