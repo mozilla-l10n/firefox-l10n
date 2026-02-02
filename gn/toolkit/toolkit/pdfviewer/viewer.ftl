@@ -639,6 +639,8 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Emoambue tenda yke
 pdfjs-toggle-views-manager-button-label = Emoambue tenda yke
 pdfjs-views-manager-sidebar =
     .aria-label = Ta’ãngarupa yke
