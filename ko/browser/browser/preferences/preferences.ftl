@@ -2208,12 +2208,10 @@ choose-download-folder-title = 다운로드 폴더 선택:
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-description = AI로 향상된 기능을 사용할지 여부를 포함하여 항상 { -brand-short-name }에서 선택할 수 있습니다. 더 많은 제어 옵션이 곧 제공될 예정입니다.
-preferences-ai-controls-block-ai-label = AI 향상 차단
+preferences-ai-controls-block-ai-label = AI 향상 기능 차단
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = 차단은 { -brand-short-name }의 신규 또는 현재 AI 향상이나 관련 팝업을 보지 않음을 의미합니다. 포함된 내용과 검색 제안 및 추천과 같은 기존의 기계 학습 기능을 제어하는 방법에 대한 <a data-l10n-name="link">자세한 내용</a>을 확인하세요.
-preferences-ai-controls-blocked-message =
-    .message = 신규 및 현재 AI 향상은 기본적으로 차단됩니다. 특정 기능을 차단 해제하려면 아래 컨트롤을 사용하세요.
+preferences-ai-controls-block-ai-description = 차단은 { -brand-short-name }의 신규 또는 현재의 AI 향상 기능이나 관련 팝업을 보지 않음을 의미합니다. 포함된 내용과 검색 제안 및 추천과 같은 기존의 기계 학습 기능을 제어하는 방법에 대한 <a data-l10n-name="link">자세한 내용</a>을 확인하세요.
 preferences-ai-controls-on-device-group =
     .label = 온디바이스 AI
     .description = 이 기능을 사용하면 기기에 다운로드되는 작은 AI 모델을 사용합니다. 이 접근 방식은 개인 정보를 보호하는 데 도움이 됩니다.
@@ -2248,7 +2246,6 @@ preferences-ai-controls-state-description-before = 옵션의 의미:
 preferences-ai-controls-state-description-available = <strong>사용 가능:</strong> 기능을 확인하고 사용할 수 있습니다.
 preferences-ai-controls-state-description-enabled = <strong>사용함:</strong> 이 기능을 사용하기로 했습니다.
 preferences-ai-controls-state-description-blocked = <strong>차단됨:</strong> 기능을 볼 수 없으며 사용할 수 없습니다. 온디바이스 AI의 경우 이미 다운로드된 모델은 제거됩니다.
-preferences-ai-controls-block-confirmation-heading = AI 향상을 차단하시겠습니까?
 preferences-ai-controls-block-confirmation-description = { -brand-short-name }에서 신규 또는 현재 AI 향상이나 관련 팝업이 표시되지 않습니다. 나중에 계속 사용하고 싶은 항목을 차단 해제할 수 있습니다.
 preferences-ai-controls-block-confirmation-features-start = 차단할 항목:
 preferences-ai-controls-block-confirmation-translations = 번역
