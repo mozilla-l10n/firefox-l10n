@@ -11,6 +11,7 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } ojoko kuatiarogue
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ojoko ko ñandutirogue omohendakuaágui mba’evai ne mohendahápe, omondakuaáva mba’ekuaa nde rehegua ýrõ omboguekuaáva reguerekóva.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ojoko togue oimo’ãgui nembotavyse emohenda hag̃ua programa mba’evaiapoha (techapyrãrõ omoambuekuaa ñandutirogue ñepyrũgua ýrõ ohechaukakuaa ta’ãnga omba’evendeseha opaite tenda eikehápe guive).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogue oimo’ãgui kóva oiméne omohendase tembiporu’i ivaíva mohendahápe, umíva rupive omonda térã omboguekuaa nemba’éva (techapyrã ta’ãnga rerekóva, ñe’ẽñemi, marandu ha viru kuatiatã reiporúva).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } ojoko ko ñanduti rogue peteĩva umi ne moĩmbaha oñeha’ã ombojuruja. Ko tenda ojeporukuaa oñemonda hag̃ua ne marandu, taha’e ñe’ẽñemi térã kuatia’atã ñemurã papapy.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Marandu omog̃uahẽva <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.

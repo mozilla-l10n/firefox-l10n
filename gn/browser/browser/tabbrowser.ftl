@@ -388,6 +388,15 @@ tab-note-editor-button-save =
     .accesskey = S
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Emoñe’ẽve
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } tairendaita
+    }
 
 ## Split View
 
