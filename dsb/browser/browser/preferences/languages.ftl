@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Rěc wubraś…
 browser-languages-installed-label = Zainstalěrowane rěcy
 browser-languages-available-label = K dispoziciji stojece recy
-browser-languages-error = { -brand-short-name } njamóžo waše rěcy ned aktualizěrowaś. Pśekontrolěrujśo, lěc sćo z internetom zwězany abo wopytajśo hyšće raz.
+browser-languages-error = { -brand-short-name } njamóžo waše rěcy ned aktualizěrowaś. Pśekontrolěrujśo, lěc sćo z internetom zwězany abo wopytajśo hyšći raz.
