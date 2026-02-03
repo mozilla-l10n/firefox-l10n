@@ -56,21 +56,55 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = گۊشیڌن فایل…
     .accesskey = O
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] بستن بلگه
+            [one] بستن بلگه
+           *[other] بستن { $tabCount } بلگه
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = بستن نیمدری
     .accesskey = d
+menu-file-save-page =
+    .label = زفت کردن بلگه و عونوان…
+    .accesskey = A
+menu-file-email-link =
+    .label = لینگ ایمیل…
+    .accesskey = E
 menu-file-share-url =
     .label = یک رسۊوی
     .accesskey = h
+menu-file-print-setup =
+    .label = سامووݩ بلگه…
+    .accesskey = u
 menu-file-print =
     .label = چاپ
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = و من ٱووردن ز ی گشت گر دی…
+    .accesskey = I
+menu-file-go-offline =
+    .label = آفلاین کار کوݩ
+    .accesskey = k
 
 ## Edit Menu
 
 menu-edit =
     .label = آلشت
     .accesskey = E
+menu-edit-find-in-page =
+    .label = جوستن من بلگه…
+    .accesskey = F
+menu-edit-find-again =
+    .label = جوستن دووارته
+    .accesskey = g
+menu-edit-bidi-switch-text-direction =
+    .label = آلشت جهت هؽل
+    .accesskey = w
 
 ## View Menu
 
