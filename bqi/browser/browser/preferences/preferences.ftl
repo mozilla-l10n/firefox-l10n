@@ -225,9 +225,9 @@ home-prefs-content-header2 = { -firefox-home-brand-name } موئتوا
 home-prefs-search-header2 =
     .label = پیتینیڌن
 home-prefs-shortcuts-header =
-    .label = ر نهنگا
+    .label = ره نهنگا
 home-prefs-shortcuts-by-option-sponsored =
-    .label = ر نهنگا هؽزگرووݩ
+    .label = ره نهنگا هؽزگرووݩ
 home-prefs-content-header =
     .label = { -firefox-home-brand-name }
 
@@ -263,7 +263,7 @@ home-prefs-manage-topics-link = دؽوۉداری سرتالا
 ## Search Section
 
 search-bar-header = نوار پیتینیڌن
-search-one-click-header2 = پیتینیڌن ر نهنگا
+search-one-click-header2 = پیتینیڌن ره نهنگا
 search-edit-engine =
     .label = آلشت
     .accesskey = E
@@ -494,7 +494,7 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option =
-    .label = ر نهنگا
+    .label = ره نهنگا
     .accesskey = S
 addressbar-locbar-engines-option =
     .label = موتورا پیتینیڌن

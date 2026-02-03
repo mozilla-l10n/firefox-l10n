@@ -241,7 +241,7 @@ urlbar-search-tips-redirect-2 = پیتینیڌن خوتووه من نوار نش
 urlbar-search-tips-persist = پیتینیڌن ساڌه تر وابیڌه. قپ ریت کۊنین پیتینیڌن خوتووݩ ن من ایچو من نوار نشۊوی دیاری تر کۊنین. سی نشووݩ داڌن نشۊوی وبگه و جا هو، و «پیتینیڌن» من سامووا ریوین.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = ای ر نهنگ ن سی جوستن زیتر اۊ چیه ک اخۊین، پسند کۊنین.
+urlbar-tabtosearch-onboard = ای ره نهنگ ن سی جوستن زیتر اۊ چیه ک اخۊین، پسند کۊنین.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -822,8 +822,8 @@ urlbar-searchmode-button2 =
     .label = { $engine }، پسند ی موتور پیتینیڌن
     .tooltiptext = { $engine }، پسند ی موتور پیتینیڌن
 urlbar-searchmode-button-no-engine =
-    .label = ر نهنگی پسند نوابیڌه، ی ر نهنگ پسند کۊنین
-    .tooltiptext = ر نهنگی پسند نوابیڌه، ی ر نهنگ پسند کۊنین
+    .label = ره نهنگی پسند نوابیڌه، ی ره نهنگ پسند کۊنین
+    .tooltiptext = ره نهنگی پسند نوابیڌه، ی ره نهنگ پسند کۊنین
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

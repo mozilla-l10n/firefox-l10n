@@ -23,12 +23,12 @@ newtab-search-box-text = پیتینیڌن من وب
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = ٱووردن موتور پیتینیڌن
-newtab-topsites-add-shortcut-header = ر نهنگ نۊ
-newtab-topsites-edit-shortcut-header = آلشت ر نهنگ
-newtab-topsites-add-shortcut-label = ٱووردن ر نهنگ
+newtab-topsites-add-shortcut-header = ره نهنگ نۊ
+newtab-topsites-edit-shortcut-header = آلشت ره نهنگ
+newtab-topsites-add-shortcut-label = ٱووردن ره نهنگ
 newtab-topsites-add-shortcut-title =
-    .title = ٱووردن ر نهنگ
-    .aria-label = ٱووردن ر نهنگ
+    .title = ٱووردن ره نهنگ
+    .aria-label = ٱووردن ره نهنگ
 newtab-topsites-title-label = عونوان
 newtab-topsites-url-label = نشۊوی اینترنتی
 
@@ -161,8 +161,8 @@ newtab-toast-dismiss-button =
 
 ## Customization Menu
 
-newtab-custom-shortcuts-title = ر نهنگا
-newtab-custom-sponsored-sites = ر نهنگا هؽزگرووݩ
+newtab-custom-shortcuts-title = ره نهنگا
+newtab-custom-sponsored-sites = ره نهنگا هؽزگرووݩ
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
 newtab-custom-pocket-sponsored = وزعیتا هؽزگرووݩ

@@ -7,7 +7,7 @@ new-tab = بلگه نۊ
 add-bookmark = ٱووردن نشووک
 share = یک رسۊوی
 # This string describes shortcuts for search.
-search-popover = پیتینیڌن ر نهنگا
+search-popover = پیتینیڌن ره نهنگا
 
 ## Various categories of shortcuts for search.
 
