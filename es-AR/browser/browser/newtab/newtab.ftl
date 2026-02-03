@@ -703,7 +703,11 @@ newtab-widget-timer-menu-learn-more = Conocer más
 newtab-daily-briefing-card-menu-dismiss = Descartar
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
-newtab-daily-briefing-card-timestamp = Actualizado hace { $minutes } minutos
+newtab-daily-briefing-card-timestamp =
+    { $minutes ->
+        [one] Actualizado hace un minuto
+       *[other] Actualizado hace { $minutes } minutos
+    }
 newtab-widget-message-title = Manténgase enfocado con listas y un temporizador incorporado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de enfoque y descansos prolongados: manténgase concentrado en la tarea y a tiempo.
