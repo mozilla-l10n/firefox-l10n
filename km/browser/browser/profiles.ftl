@@ -44,3 +44,4 @@ star-avatar-alt =
 ## Tooltips for default avatar icons
 
 folder-avatar = ថតឯកសារ
+picture-avatar = រូបភាព

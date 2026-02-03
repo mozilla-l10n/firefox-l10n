@@ -2,3 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+third-party-detail-app = កម្មវិធី
+third-party-th-process = ដំណើរការ
+third-party-th-status = ស្ថានភាព
