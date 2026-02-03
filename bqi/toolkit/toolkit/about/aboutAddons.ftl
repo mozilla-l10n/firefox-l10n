@@ -36,8 +36,9 @@ shortcuts-input =
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
     .aria-label = پاک کردن ره نهنگ
+shortcuts-system = نتره ی ره نهنگ { -brand-short-name } ن باتل کونه
 # String displayed in warning label when there is a duplicate shortcut
-shortcuts-duplicate = ر نهنگ تکراری
+shortcuts-duplicate = ره نهنگ تکراری
 
 ## Recommended add-ons page
 
@@ -55,4 +56,4 @@ recommended-extensions-heading = وردنی یل پؽشنهاڌ بیڌه
 ## Page headings
 
 locale-heading = زووا خوتووݩ ن دؽوۉداری کۊنین
-shortcuts-heading = دؽوۉداری ر نهنگا وردنی
+shortcuts-heading = دؽوۉداری ره نهنگا وردنی
