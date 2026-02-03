@@ -166,6 +166,8 @@ newtab-custom-sponsored-sites = ر نهنگا هؽزگرووݩ
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
 newtab-custom-pocket-sponsored = وزعیتا هؽزگرووݩ
+newtab-custom-widget-weather-toggle =
+    .label = ٱو وو هوا
 newtab-custom-widget-lists-toggle =
     .label = نومگه یل
 newtab-custom-widget-timer-toggle =
@@ -174,6 +176,8 @@ newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا
 newtab-widget-manage-title = ویجتا
+newtab-widget-manage-widget-button =
+    .label = دؽوۉداری ویجتا
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = بستن
