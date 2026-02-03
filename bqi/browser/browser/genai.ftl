@@ -33,19 +33,39 @@ genai-input-ask-provider =
     .placeholder = پورس کردن ز { $provider }…
 genai-shortcuts-hide =
     .label = بؽڌار کردن ره نهنگ چت بات
+genai-menu-choose-chatbot =
+    .label = ی چت بات هۊش مسنۊعی پسند کۊنین
+genai-menu-ask-generic-2 =
+    .label = پورس کردن ز چت بات هۊش مسنۊعی
+    .accesskey = z
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = پورس کردن ز { $provider }
+    .accesskey = z
+genai-menu-no-provider-2 =
+    .label = پورس کردن ز چت بات هۊش مسنۊعی
+    .accesskey = z
 
 ## Chatbot header
 
 genai-chatbot-title = چت بات هۊش مسنۊعی
 genai-header-provider-menu =
     .title = ی چت بات پسند کۊنین
+genai-header-settings-button =
+    .title = سامووا چت هۊش مسنۊعی
 genai-header-options-button =
     .title = گۊشیڌن نومگه
 genai-header-close-button =
     .title = بستن
+genai-provider-view-details =
+    .label = نیشتن جۊزعیات چت بات
+genai-options-reload-generic =
+    .label = بار ونی دووارته چت بات هۊش مسنۊعی
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = بارونی دووارته { $provider }
+genai-options-show-shortcut =
+    .label = نشووݩ داڌن ره نهنگ مجال پسند هؽل
 
 ## Chatbot onboarding
 
