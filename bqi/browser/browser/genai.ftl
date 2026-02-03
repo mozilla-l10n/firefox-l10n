@@ -5,13 +5,40 @@
 
 ## Chatbot menu shortcuts
 
+genai-menu-ask-generic =
+    .label = پورس کردن ز چت بات هۊش مسنۊعی
+# $provider (string) - name of the provider
+genai-menu-ask-provider =
+    .label = پورس کردن ز { $provider }
+genai-menu-open-generic =
+    .label = گۊشیڌن چت بات هۊش مسنۊعی
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = گۊشیڌن { $provider }
+genai-menu-remove-generic =
+    .label = پاک کردن چت بات هۊش مسنۊعی
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = پاک کردن { $provider }
+genai-menu-remove-sidebar =
+    .label = پاک کردن ز نوار کلی
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = پورس کردن ز { $provider }
 genai-menu-new-badge = نۊ
+genai-input-ask-generic =
+    .placeholder = پورس کردن ز چت بات هۊش مسنۊعی…
+# $provider (string) - name of the provider
+genai-input-ask-provider =
+    .placeholder = پورس کردن ز { $provider }…
+genai-shortcuts-hide =
+    .label = بؽڌار کردن ره نهنگ چت بات
 
 ## Chatbot header
 
+genai-chatbot-title = چت بات هۊش مسنۊعی
+genai-header-provider-menu =
+    .title = ی چت بات پسند کۊنین
 genai-header-options-button =
     .title = گۊشیڌن نومگه
 genai-header-close-button =
