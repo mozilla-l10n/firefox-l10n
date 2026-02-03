@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Dosyanın taşınmadığını, adının değişm
 neterror-access-denied = Silinmiş, taşınmış veya dosya izinleri nedeniyle erişilemiyor olabilir.
 neterror-unknown-protocol = Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.
 neterror-redirect-loop = Bu sorun bazen çerezlerin devre dışı bırakılmasından veya reddedilmesinden kaynaklanabilir.
+neterror-unknown-socket-type-client-config = Bu durum istemcinizdeki bir yapılandırma hatasından kaynaklanıyor olabilir.
 neterror-unknown-socket-type-psm-installed = Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.
 neterror-unknown-socket-type-server-config = Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.
 neterror-not-cached-intro = Talep edilen belge { -brand-short-name } önbelleğinde mevcut değil.
