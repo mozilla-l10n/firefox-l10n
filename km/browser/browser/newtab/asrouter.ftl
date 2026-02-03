@@ -88,6 +88,27 @@ cfr-badge-reader-label-newfeature = មុខងារថ្មី៖
 
 spotlight-pin-secondary-button = កុំទាន់
 
+## Firefox View Spotlight
+
+firefoxview-spotlight-promo-secondarybutton = រំលង
+
+## Cookie Banner Handling CFR
+
+cookie-banner-blocker-onboarding-learn-more = ស្វែងយល់​បន្ថែម
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+fox-doodle-pin-headline = ស្វាគមន៍​ការ​ត្រឡប់​មកវិញ
+
+## PDF Annotations strings
+
+annotations-make-default-pdf-next =
+    .label = បន្ទាប់
+
+## Device Migration FxA Spotlight
+
+device-migration-fxa-spotlight-older-device-primary-button = បង្កើត​គណនី
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = កុំទាន់

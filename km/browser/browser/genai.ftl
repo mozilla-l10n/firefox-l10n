@@ -55,6 +55,11 @@ genai-input-ask-generic =
 genai-input-ask-provider =
     .placeholder = សួរ { $provider }
 
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-lechat-price = ឥតគិតថ្លៃ; តម្រូវឲ្យមានគណនី
+
 ## Model Optin Component
 
 genai-model-optin-optout =

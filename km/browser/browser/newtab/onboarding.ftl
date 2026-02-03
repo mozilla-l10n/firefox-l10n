@@ -85,6 +85,10 @@ amo-picker-install-complete-label = បាន​ដំឡើង
 
 onboarding-new-user-survey-time-based-option-2 = តិចជាង 1 ខែ
 
+## New user onboarding checklist
+
+onboarding-checklist-sign-up = ចុះឈ្មោះ ឬចូលទៅក្នុងគណនីរបស់អ្នក
+
 ## Fx Backup onboarding: Create Backup spotlight
 
 # Label for the "All data" backup option
