@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = ਸ਼ੁਰੂ ਸਮੇਂ ਬਿਨਾਂ ਪੁੱਛੇ ਚੁਣਿਆ ਪਰੋਫਾਈਲ ਵਰਤੋਂ
     .accesskey = s
 profile-has-selectable-profiles-title = ਹੋਰ ਪਰੋਫ਼ਾਇਲਾਂ ਨਾਲ ਲਿੰਕ ਹੋਏ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
+profile-has-selectable-profiles-message = ਇਸ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਉਣ ਵਾਸਤੇ ਇਸ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ { -brand-short-name } ਮੇਨੂ ਵਿੱੱਚੋਂ ਪਰੋਫ਼ਾਇਲ ਚੋਣ ਤੋਂ "ਪਰੋਫ਼ਾਇਲ ਬੰਦੋਬਸਤ" ਨੂੰ ਚੁਣੋ। ਇੱਥੇ ਤੁਹਾਡੇ ਵਲੋਂ ਬਣਾਏ ਕਿਸੇ ਵੀ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਉਣ ਦੇ ਬਾਅਦ ਤੁਸੀਂ about:profiles ਉੱਤੇ ਵਾਪਸ ਜਾ ਕੇ ਇਸ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾ ਸਕਦੇ ਹੋ।
