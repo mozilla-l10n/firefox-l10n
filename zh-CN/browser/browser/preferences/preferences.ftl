@@ -397,6 +397,21 @@ language-header = 语言
 choose-language-description = 选择您想要优先使用哪种语言显示页面
 website-add-language =
     .label = 添加语言
+website-add-language-button =
+    .aria-label = 添加所选语言
+    .title = 添加所选语言
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = 移除{ $locale }
+    .title = 移除{ $locale }
 choose-button =
     .label = 选择…
     .accesskey = o

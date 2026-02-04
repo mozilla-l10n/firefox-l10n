@@ -720,6 +720,7 @@ urlbar-result-action-search-in-private = 在隐私窗口中搜索
 urlbar-result-action-search-w-engine = 使用 { $engine } 搜索
 urlbar-result-action-sponsored = 赞助推广
 urlbar-result-action-switch-tab = 切换到标签页
+urlbar-result-action-move-tab-to-split-view = 将标签页移动到分屏
 urlbar-result-action-visit = 访问
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
