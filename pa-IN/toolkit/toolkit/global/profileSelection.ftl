@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = ਸ਼ੁਰੂ ਸਮੇਂ ਬਿਨਾਂ ਪੁੱਛੇ ਚੁਣਿਆ ਪਰੋਫਾਈਲ ਵਰਤੋਂ
     .accesskey = s
+profile-has-selectable-profiles-title = ਹੋਰ ਪਰੋਫ਼ਾਇਲਾਂ ਨਾਲ ਲਿੰਕ ਹੋਏ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
