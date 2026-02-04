@@ -2265,6 +2265,7 @@ preferences-ai-controls-state-description-available = <strong>Kullanılabilir:</
 preferences-ai-controls-state-description-enabled = <strong>Etkin:</strong> Bu özelliği kullanıyorsunuz.
 preferences-ai-controls-state-description-blocked = <strong>Engellendi:</strong> Bu özelliği görmeyecek ve kullanamayacaksınız. Yerel yapay zekâ özellikleri için daha önce indirilmiş olan modeller kaldırılacaktır.
 preferences-ai-controls-block-confirmation-heading = Yapay zekâ geliştirmeleri engellensin mi?
+preferences-ai-controls-block-confirmation-description = { -brand-short-name } tarayıcısında yeni ve mevcut yapay zekâ geliştirmelerini ve bunlarla ilgili tanıtımları görmeyeceksiniz. Kullanmaya devam etmek istediğiniz özelliklerin engelini kaldırabilirsiniz.
 preferences-ai-controls-block-confirmation-features-start = Neler engellenecek?
 preferences-ai-controls-block-confirmation-translations = Çeviriler
 preferences-ai-controls-block-confirmation-pdfjs = { -brand-short-name } PDF görüntüleyicisinde resim alternatif metni

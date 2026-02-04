@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Başlangıçta sormadan seçili profili kullan
     .accesskey = k
 profile-has-selectable-profiles-title = Başka profillerle bağlantılı bir profili silemezsiniz
+profile-has-selectable-profiles-message = Bu profili silmek isterseniz profili açıp { -brand-short-name } menüsünün profiller bölümünden “Profilleri yönet”i seçin. Burada oluşturduğunuz ek profilleri sildikten sonra about:profiles sayfasına geri dönüp bu profili silebilirsiniz.
