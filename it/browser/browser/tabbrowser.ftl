@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Chiudi scheda
            *[other] Chiudi { $tabCount } schede
         }
+tab-splitview-splitter =
+    .aria-label = Ridimensiona le schede divise
 
 ## Tooltips for tab audio control
 ## Variables:
