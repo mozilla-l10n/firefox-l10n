@@ -131,6 +131,7 @@ about-processes-utility-actor-mf-media-engine = Windows ਮੀਡੀਆ ਫਾ�
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = ਵਿੰਡੋਜ਼ ਸਹੂਲਤਾਂ
 about-processes-utility-actor-windows-file-dialog = ਵਿੰਡੋਜ਼ ਫਾਇਲ ਡਾਈਲਾਗ
+about-processes-utility-actor-pkcs11-module = ਸਕਿਉਰਟੀ ਮੈਡਿਊਲ ਸਹਾਇਕ
 
 ## Displaying CPU (percentage and total)
 ## Variables:
