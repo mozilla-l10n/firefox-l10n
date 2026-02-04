@@ -344,6 +344,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = o
 browser-layout-header2 =
     .label = Rozložení prohlížeče
+browser-layout-horizontal-tabs2 =
+    .label = Vodorovné panely
+    .title = Panely nahoře
+    .description = Panely nahoře
+browser-layout-vertical-tabs2 =
+    .label = Svislé panely
+    .title = Panely na straně, v postranní liště
+    .description = Panely na straně, v postranní liště
 browser-layout-show-sidebar2 =
     .label = Zobrazit postranní lištu
     .description = Získejte rychlý přístup k záložkám, panelům z telefonu, AI chatbotu a dalším věcem bez toho, abyste opustili hlavní okno.
@@ -470,11 +478,28 @@ preferences-text-zoom-override-warning =
     .message = Varování: Pokud zvolíte „Pouze velikost textu“ a vaše výchozí velikost není nastavena na 100%, může to způsobit chybné fungování některých stránek nebo obsahu.
 language-header = Jazyk
 choose-language-description = Vyberte jazyky pro zobrazování webových stránek
+website-language-heading =
+    .label = Jazyk webových stránek
+    .description = Některé webové stránky je možné zobrazit ve více jazycích. Vyberte jazyky v pořadí podle vašich preferencí.
+website-preferred-language =
+    .label = Preferované jazyky
 website-add-language =
     .label = Přidat jazyk
 website-add-language-button =
     .aria-label = Přidat vybraný jazyk
     .title = Přidat vybraný jazyk
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Odebrat jazyk { $locale }
+    .title = Odebrat jazyk { $locale }
 choose-button =
     .label = Vybrat jazyky…
     .accesskey = j
@@ -2486,6 +2511,16 @@ preferences-ai-controls-translations-control =
 preferences-ai-controls-translations-more-link = Další nastavení překladu
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot v postranní liště
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Dostupné
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Povoleno
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokováno
+preferences-ai-controls-block-confirmation-heading = Blokovat vylepšování umělou inteligencí?
 preferences-ai-controls-block-confirmation-features-start = Co bude blokováno:
 preferences-ai-controls-block-confirmation-translations = Překlady
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Návrhy skupin panelů
