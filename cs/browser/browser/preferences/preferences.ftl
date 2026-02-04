@@ -1533,7 +1533,7 @@ forms-breach-alerts-learn-more-link = Zjistit více
 preferences-relay-integration-checkbox =
     .label = Navrhovat e-mailové masky služby { -relay-brand-name } na ochranu vaší e-mailové adresy
 preferences-relay-integration-checkbox2 =
-    .label = Navrhovat e-mailové masky { -relay-brand-name } pro ochranu vaší e-mailové adresy
+    .label = Navrhovat e-mailové masky služby { -relay-brand-name } k ochraně vaší e-mailové adresy
     .accesskey = r
 relay-integration-learn-more-link = Zjistit více
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
