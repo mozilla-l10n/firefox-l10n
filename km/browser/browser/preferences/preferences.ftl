@@ -121,6 +121,8 @@ containers-remove-cancel-button = កុំ​លុប​ប្រអប់​�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ភាសា និង​ការបង្ហាញ
+preferences-web-appearance-choice-light = ភ្លឺ
+preferences-web-appearance-choice-dark = ងងឹត
 default-font = ពុម្ព​អក្សរ​លំនាំដើម
     .accesskey = D
 default-font-size = ទំហំ

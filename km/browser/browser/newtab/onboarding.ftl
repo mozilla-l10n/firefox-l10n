@@ -33,6 +33,7 @@ mr1-onboarding-sign-in-button-label = ចូល
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = នាំចូលពី { $previous }
 mr1-onboarding-theme-secondary-button-label = កុំទាន់
+mr1-onboarding-theme-label-light = ភ្លឺ
 mr1-onboarding-theme-label-dark = ងងឹត
 onboarding-theme-primary-button-label = រួចរាល់
 

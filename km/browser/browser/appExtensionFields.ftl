@@ -5,7 +5,7 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
-extension-firefox-compact-light-name = ស្រាល
+extension-firefox-compact-light-name = ភ្លឺ
 extension-firefox-compact-light-description = រចនាប័ទ្មដែលមានគ្រោងពណ៌ភ្លឺ។
 extension-firefox-compact-dark-name = ងងឹត
 extension-firefox-compact-dark-description = រចនាប័ទ្មដែលមានគ្រោងពណ៌ងងឹត។

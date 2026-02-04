@@ -14,3 +14,7 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = បិទការមើលរបស់​​អ្នក​អាន
 about-reader-toolbar-type-controls = ប្រភេទ​វត្ថុ​បញ្ជា
+
+## Reader View text and layout menu
+
+about-reader-font-weight-light = ភ្លឺ

@@ -23,6 +23,8 @@ delete-profile-confirm = លុប
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# The default dark theme
+profiles-dark-theme = ងងឹត
 # The default system theme
 profiles-system-theme = ប្រព័ន្ធ
 
