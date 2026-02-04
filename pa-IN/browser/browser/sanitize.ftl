@@ -128,3 +128,6 @@ sanitize-everything-warning = ਸਭ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕੀ�
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = ਸਭ ਚੁਣੀਆਂ ਆਈਟਮਾਂ ਨੂੰ ਸਾਫ਼ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = ਗਿਣਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…

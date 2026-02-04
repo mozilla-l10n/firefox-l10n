@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = ਕਾਰਗੁਜ਼ਾਰੀ (%)
 place-database-stats-sequentiality-perc = ਲੜੀ (%)
 place-database-integrity = ਇਕਸਾਰਤਾ
 place-database-verify-integrity = ਇਕਸਾਰਤਾ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+place-database-last-idle-maintenance-data = ਆਖਰੀ ਸਥਿਰ ਦੇਖਭਾਲ ਦੀ ਤਾਰੀਖ
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = ਆਖਰੀ ਸਫ਼ਾਈ ਦੀ ਤਾਰੀਖ
+place-database-last-integrity-corruption-date = ਆਖਰੀ ਇਕਸਾਰਤਾ ਖ਼ਰਾਬ ਦੀ ਤਾਰੀਖ
 a11y-title = ਅਸੈਸਬਿਲਟੀ
 a11y-activated = ਸਰਗਰਮ ਹੈ
 a11y-force-disabled = ਅਸੈਸਬਿਲਟੀ ਰੋਕੋ
