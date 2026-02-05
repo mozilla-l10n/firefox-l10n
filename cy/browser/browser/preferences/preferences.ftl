@@ -2276,10 +2276,13 @@ preferences-ai-controls-state-available =
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
     .label = Galluogi
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Rhwystro
 preferences-ai-controls-state-description-before = Beth yw ystyr y dewis:
 preferences-ai-controls-state-description-available = <strong>Ar gael:</strong> Gweld y nodwedd a gallu ei defnyddio.
 preferences-ai-controls-state-description-enabled = <strong>Galluogi:</strong> Wedi dewis defnyddio'r nodwedd.
-preferences-ai-controls-state-description-blocked = <strong>Rhwystrwyd:</strong> Fyddwch chi ddim yn gweld nac yn gallu defnyddio'r nodwedd. Pan fydd AI ar y ddyfais, mae unrhyw fodelau sydd eisoes wedi'u llwytho i lawr yn cael eu dileu.
+preferences-ai-controls-state-description-blocked = <strong>Rhwystro:</strong> Fyddwch chi ddim yn gweld nac yn gallu defnyddio'r nodwedd. Pan fydd AI ar y ddyfais, mae unrhyw fodelau sydd eisoes wedi'u llwytho i lawr yn cael eu dileu.
 preferences-ai-controls-block-confirmation-heading = Rhwystro nodweddion AI?
 preferences-ai-controls-block-confirmation-description = Fyddwch chi ddim yn gweld nodweddion AI cyfredol na newydd yn { -brand-short-name }, na llamlenni amdanyn nhw. Wedi hynny, gallwch agor unrhyw beth rydych chi am barhau i'w ddefnyddio.
 preferences-ai-controls-block-confirmation-features-start = Beth fydd yn cael ei rwystro:

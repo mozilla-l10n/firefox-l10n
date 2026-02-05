@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Jeku’e 2: Eiporavo “Emoĩ ijypyguávarõ” { -brand-short-name }-pe g̃uarã
 default-browser-guidance-notification-info-page = Ehechaukána
 default-browser-guidance-notification-dismiss = Apopyre
+default-browser-guidance-notification-v2-title = Ejapo { -brand-short-name } taha’e ne kundahára ypyguáva
+default-browser-guidance-notification-v2-body = Ñembohekohápe, eiporavo “Emoĩ ypyguárõ” { -brand-short-name }-pe g̃uarã.
+default-browser-guidance-notification-v2-title-only = Ejapo { -brand-short-name } taha’e ne kundahára ypyguáva Ñembohekohápe

@@ -227,6 +227,8 @@ sidebar-genai-survey-satisfaction-question = ¿Mba'éicha ehecharamo eguerekóvo
 sidebar-genai-survey-productive-question =
     ¿Mba’eichaitépa emoneĩ térã embotove ko ñemoneĩ:<br/>
     “Pe chatbot IA rehegua renda yke cheipytyvõ che guapove hag̃ua”?
+splitview-onboarding-callout-title-1 = Jehecha vorepyre: ejapo porã hag̃ua tembiapoita
+splitview-onboarding-callout-cta-1 = Eiporu ko’ág̃a
 unified-search-callout-title = Emoambue jehekaha pa’ũme
 unified-search-callout-subtitle = Eiporavo oiko porãve hag̃ua pe jehekaha ha’etéva.
 unified-search-callout-primary-label = Tenonde

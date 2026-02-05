@@ -68,7 +68,7 @@ protections-panel-content-blocking-fingerprinters-label = Bysbrintwyr
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
-protections-panel-blocking-label = Rhwystrwyd
+protections-panel-blocking-label = Rhwystro
 protections-panel-not-blocking-label = Caniatawyd
 protections-panel-not-found-label = Heb Ganfod Dim
 
