@@ -841,11 +841,17 @@ home-custom-homepage-header = Саҳифаи асосии фармоишӣ
 home-custom-homepage-subpage =
     .heading = Саҳифаи асосии фармоишӣ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Нишони(ҳо)и сомона
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Нишони(ҳо)и сомона
 home-custom-homepage-address =
     .placeholder = Нишониеро ворид намоед
 home-custom-homepage-address-button =
     .label = Илова кардани нишонӣ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = То ҳол ягон сомона илова карда нашудааст.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = То ҳол ягон сомона илова карда нашудааст.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
