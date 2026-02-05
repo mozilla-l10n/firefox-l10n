@@ -417,6 +417,18 @@ website-add-language =
 website-add-language-button =
     .aria-label = შერჩეული ენის დამატება
     .title = შერჩეული ენის დამატება
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = მოცილდეს { $locale }
+    .title = მოცილდეს { $locale }
 choose-button =
     .label = არჩევა…
     .accesskey = ა
@@ -447,10 +459,57 @@ settings-translations-more-settings-button =
     .description = გამართეთ ენები, ვებსაიტები და კავშირგარეშე თარგმნა.
 settings-translations-subpage-header =
     .heading = თარგმნის სხვა პარამეტრები
+settings-translations-subpage-speed-up-translation-header =
+    .label = თარგმნის ასწრაფება
+    .description = ჩამოტვირთეთ სრული ენა კავშირგარეშე სწრაფი თარგმნისთვის.
+settings-translations-subpage-automatic-translation-header =
+    .label = ავტომატური თარგმანი
+settings-translations-subpage-always-translate-header =
+    .label = ყოველთვის ითარგმნოს ამ ენებიდან
+settings-translations-subpage-never-translate-header =
+    .label = არასდროს ითარგმნოს ამ ენებიდან
+settings-translations-subpage-never-translate-sites-header =
+    .label = არასდროს ითარგმნოს ეს საიტები
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = საიტის დასამატებლად, გახსენით <img data-l10n-name="translations-icon"/> თარგმნის არე, აირჩიეთ <img data-l10n-name="settings-icon"/> თარგმანის პარამეტრები, შემდეგ კი მიუთითეთ „არასდროს ითარგმნოს ეს საიტი”
+settings-translations-subpage-language-select-option =
+    .label = ენის დამატება
+settings-translations-subpage-language-add-button =
+    .aria-label = ენის დამატება
+    .title = ენის დამატება
+settings-translations-subpage-download-languages-header =
+    .label = ენების ჩამოტვირთვა
+settings-translations-subpage-download-languages-select-option =
+    .label = ენის არჩევა
+settings-translations-subpage-download-languages-button =
+    .aria-label = ენის ჩამოტვირთვა
+    .title = ენის ჩამოტვირთვა
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }ᲛᲑ)
+    .label = { $language } ({ $size }ᲛᲑ)
+settings-translations-subpage-no-languages-downloaded =
+    .label = ენები არაა ჩამოტვირთული
+settings-translations-subpage-no-languages-added =
+    .label = ენები არაა დამატებული
+settings-translations-subpage-download-progress = ჩამოტვირთვა მიმდინარეობს…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ვერ ჩამოიტვირთა ({ $size }ᲛᲑ)
+settings-translations-subpage-download-retry-button =
+    .label = ხელახლა ცდა
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = წაიშალოს { $language } ({ $size }ᲛᲑ)?
 settings-translations-subpage-download-delete-button =
     .label = წაშლა
 settings-translations-subpage-download-cancel-button =
     .label = გაუქმება
+settings-translations-subpage-no-sites-added =
+    .label = საიტები არაა დამატებული
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -620,6 +679,16 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name } – მხარდაჭერა
+    .description = მოაგვარეთ ხარვეზები ან გაუზიარეთ მოსაზრებები ერთობის წევრებს.
+support-get-help =
+    .label = დახმარების მიღება
+support-share-ideas =
+    .label = მოსაზრების მოხსენება და გამოხმაურება
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -711,6 +780,12 @@ home-new-windows-tabs-description2 = მიუთითეთ, რისი ხ�
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = ნაგულისხმევი ბრაუზერი
+is-default-browser-2 =
+    .message = { -brand-short-name } ნაგულისხმევი ბრაუზერია. გონივრული არჩევანია.
+is-not-default-browser-2 =
+    .message = ჰმ, { -brand-short-name } არ აგირჩევიათ ნაგულისხმევად.
 set-as-my-default-browser-2 =
     .label = ნაგულისხმევად მითითება
     .accesskey = ნ
@@ -781,6 +856,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = საიტები ჯერ არ დამატებულა.
+home-custom-homepage-delete-address-button =
+    .aria-label = მისამართის წაშლა
+    .title = მისამართის წაშლა
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = საიტები ჯერ არ დამატებულა.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -907,6 +985,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ძიების შემოთავაზებები მისამართების ველის შედეგებში
     .accesskey = ძ
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = ძიების შემოთავაზებების გამოჩენა მონახულებულ გვერდებზე წინ, მისამართების ველის შედეგებში
+search-show-suggestions-private-windows-2 =
+    .label = ძიების შემოთავაზებები პირად ფანჯრებში
 search-suggestions-cant-show-2 =
     .message = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 addressbar-header-1 =
@@ -920,6 +1007,13 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = საძიებო სიტყვების ჩვენება მისამართების ველში შედეგების გვერდზე
+search-separate-default-engine-2 =
+    .label = აირჩიეთ განსხვავებული საძიებო პირადი ფანჯრებისთვის
+    .accesskey = რ
+search-separate-default-engine-dropdown =
+    .aria-label = ნაგულისხმევი საძიებო პირად ფანჯრებში
+search-suggestions-header-2 =
+    .label = საძიებოს შემოთავაზებები
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -938,6 +1032,9 @@ suggestions-addressbar-settings-generic2 = პარამეტრები მ
 search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 search-one-click-header2 = ძიების მალსახმობები
 search-one-click-desc = მიუთითეთ სათადარიგო საძიებოები, რომლებიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ საძებნი ფრაზის აკრეფისას.
+search-one-click-header-3 =
+    .label = დამატებითი საძიებოები
+    .description = აირჩიეთ რომელი საძიებო და მალსახმობი გამოჩნდეს მისამართების ველში.
 search-choose-engine-column =
     .label = საძიებო სისტემა
 search-choose-keyword-column =
@@ -950,6 +1047,9 @@ search-remove-engine =
     .accesskey = ა
 search-add-engine =
     .label = დამატება
+    .accesskey = ტ
+search-add-engine-2 =
+    .label = საძიებოს დამატება
     .accesskey = ტ
 search-edit-engine =
     .label = ჩასწორება
@@ -1005,6 +1105,9 @@ sync-signedout-description2 = დაასინქრონეთ თქვე�
 sync-signedout-account-signin3 =
     .label = სინქრონიზაციაში შესვლა
     .accesskey = ი
+sync-signedout-account-signin-4 =
+    .label = შედით თქვენს ანგარიშზე დასინქრონებისთვის
+    .accesskey = დ
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1090,6 +1193,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = ეს ერთეულები დასინქრონებული გაქვთ ყველა დაკავშირებულ მოწყობილობაში:
+sync-syncing-across-devices-heading-2 = მონაცემები დასინქრონებულია მოწყობილობებს შორის.
 sync-currently-syncing-bookmarks = სანიშნები
 sync-currently-syncing-history = ისტორია
 sync-currently-syncing-tabs = გახსნილი ჩანართები
