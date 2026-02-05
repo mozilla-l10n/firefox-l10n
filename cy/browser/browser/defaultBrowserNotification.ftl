@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Cam 2: Dewiswch “Gosod y rhagosodiad” ar gyfer { -brand-short-name }
 default-browser-guidance-notification-info-page = Dangos i mi
 default-browser-guidance-notification-dismiss = Gorffen
+default-browser-guidance-notification-v2-title = Gorffen gwneud { -brand-short-name } eich porwr arferol
+default-browser-guidance-notification-v2-body = Yn y Gosodiadau, dewiswch "Gosod yr arferol" ar gyfer { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Gorffen gwneud { -brand-short-name } eich porwr arferol yn y Gosodiadau

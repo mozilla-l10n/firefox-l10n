@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Pa mor fodlon ydych chi ar gael myn
 sidebar-genai-survey-productive-question =
     I ba raddau ydych chi'n cytuno neu'n anghytuno â'r gosodiad hwn:<br/>
     “Mae'r sgwrsfot AI yn y bar ochr yn fy helpu i fod yn fwy cynhyrchiol”?
+splitview-onboarding-callout-title-1 = Golwg hollt: ffordd well o amldasgio
+splitview-onboarding-callout-subtitle-1 = Cliciwch y tab hwn i'r dde a dewis “Ychwanegu Golwg Hollt” i weld dau dab ar unwaith.
+splitview-onboarding-callout-cta-1 = Rhowch gynnig arno
+splitview-onboarding-callout-title-2 = Gweld dau dab ar unwaith gyda golwg hollt
+splitview-onboarding-callout-subtitle-2 = Dim ffenestri ychwanegol. Dim fflipio tabiau. Cliciwch y tab i'r dde a dewis "Ychwanegu Golwg Hollt."
+splitview-onboarding-callout-cta-2 = Rhowch gynnig ar olwg hollt
 unified-search-callout-title = Newid rhwng peiriannau chwilio
 unified-search-callout-subtitle = Dewiswch beth sy'n gweithio orau ar gyfer eich chwilio penodol.
 unified-search-callout-primary-label = Nesaf

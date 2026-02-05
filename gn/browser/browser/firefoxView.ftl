@@ -132,6 +132,14 @@ firefoxview-synced-tabs-nav = Tendaykekuéra ambue mba’e’okagua
     .title = Tendaykekuéra ambue mba’e’okagua
 firefoxview-synced-tabs-header = Tendaykekuéra ambue mba’e’okagua
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Chat
+    .title = Chat
+firefoxview-chats-header = Chat
+firefoxview-chat-context-delete = Embogue chat
+    .accesskey = D
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -164,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Eheka tendayke ijurujávape
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Eheka chat
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -195,6 +206,10 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (marandurenda pypegua)
+firefoxview-chat-date-today = Ko’árape - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Kuehe - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 

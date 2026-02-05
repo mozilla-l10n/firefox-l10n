@@ -223,6 +223,7 @@ sidebar-callout-survey-submit = Inviar
 sidebar-callout-survey-thank-you = Gratias pro tu commentario!
 sidebar-genai-survey-satisfaction-question = Quanto es tu satisfacite de haber accesso a un robot confabulator IA in le barra lateral?
 sidebar-genai-survey-productive-question = In que mesura concorda tu o dissenti de iste declaration:<br/> “Le robot confabulator IA in le barra lateral me adjuta a esser plus productive”?
+splitview-onboarding-callout-cta-1 = Proba lo subito
 unified-search-callout-title = Cambiar de motor de recerca
 unified-search-callout-subtitle = Selige lo que functiona melio pro tu recerca specific.
 unified-search-callout-primary-label = Sequente
