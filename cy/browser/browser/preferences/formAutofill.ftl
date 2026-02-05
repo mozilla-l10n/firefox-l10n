@@ -152,6 +152,12 @@ autofill-card-expires-month = Mis Dod i Ben
 autofill-card-expires-year = Blwyddyn Daw i Ben
 autofill-card-billing-address = Cyfeiriad Archebion
 autofill-card-network = Mathau o Gerdyn
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = cardiau credyd, credyd, cardiau, cardiau debyd, debyd, waled, talu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

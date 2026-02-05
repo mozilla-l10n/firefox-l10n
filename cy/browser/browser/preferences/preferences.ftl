@@ -868,6 +868,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Dim gwefannau wedi'u hychwanegu eto.
+home-custom-homepage-delete-address-button =
+    .aria-label = Dileu cyfeiriad
+    .title = Dileu cyfeiriad
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dim gwefannau wedi'u hychwanegu eto.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

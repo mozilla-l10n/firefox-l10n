@@ -33,6 +33,7 @@ perftools-description-local-build =
     Ojehechahína peteĩ ñembyaty ejapova’ekue ndete ko
     mohendahápe, embojuaju pe objdir hesegua tysýi oĩva yvy gotyo ikatu hag̃ua
     ojeporu ojeheka hag̃ua marandu ta’ãnga’i rehegua.
+perftools-pick-local-build-directory = Eiporavo marandurenda’aty mbyatyha
 
 ## The controls for the interval at which the profiler samples the code.
 

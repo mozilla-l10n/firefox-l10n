@@ -546,6 +546,7 @@ pdfjs-editor-undo-bar-message-freetext = Tynnwyd y testun
 pdfjs-editor-undo-bar-message-ink = Tynnwyd y lluniad
 pdfjs-editor-undo-bar-message-stamp = Tynnwyd y ddelwedd
 pdfjs-editor-undo-bar-message-signature = Llofnod wedi'i dynnu
+pdfjs-editor-undo-bar-message-comment = Sylw wedi'i dynnu
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =

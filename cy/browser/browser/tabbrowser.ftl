@@ -53,6 +53,8 @@ tabbrowser-close-tabs-tooltip =
             [many] Cau { $tabCount } tab
            *[other] Cau { $tabCount } tab
         }
+tab-splitview-splitter =
+    .aria-label = Newid maint tabiau'r golwg hollt
 
 ## Tooltips for tab audio control
 ## Variables:

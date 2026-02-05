@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Moñe’ẽrã mboguepyre
 pdfjs-editor-undo-bar-message-ink = Ta’ãnga mboguepyre
 pdfjs-editor-undo-bar-message-stamp = Ta’ãnga mboguepyre
 pdfjs-editor-undo-bar-message-signature = Teraguapy mboguepyre
+pdfjs-editor-undo-bar-message-comment = Je’epy mboguepyre
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =

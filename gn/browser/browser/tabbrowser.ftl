@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Emboty tendayke
            *[other] Emboty { $tabCount } tendayke
         }
+tab-splitview-splitter =
+    .aria-label = Emoambue tendayke tuichakue jehecha vorepyrépe
 
 ## Tooltips for tab audio control
 ## Variables:

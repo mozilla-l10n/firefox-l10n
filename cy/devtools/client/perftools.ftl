@@ -34,6 +34,7 @@ perftools-description-local-build =
     peiriant hwn,
     ychwanegwch objdir eich adeiladedd at y rhestr isod fel bod
     modd ei ddefnyddio i chwilio am fanylion symbolau.
+perftools-pick-local-build-directory = Dewis cyfeiriadur adeiladaeth
 
 ## The controls for the interval at which the profiler samples the code.
 
