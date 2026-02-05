@@ -171,6 +171,8 @@ sidebar-pins-callout-cta-button = Anclar pestaña
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-cta-1-button = Fijar esta pestaña
+pin-tabs-callout-cta-2-button = Fijar esta pestaña
 pin-tabs-callout-3-title = Mantén los sitios importantes a tu alcance
 pin-tabs-callout-4-title = Anclar los sitios que visitas con más frecuencia
 
