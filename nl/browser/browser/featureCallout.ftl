@@ -227,6 +227,11 @@ sidebar-genai-survey-satisfaction-question = Hoe tevreden bent u met toegang tot
 sidebar-genai-survey-productive-question =
     In welke mate bent u het eens of oneens met deze stelling:<br/>
     ‘De AI-chatbot in de zijbalk helpt me productiever te zijn’?
+splitview-onboarding-callout-title-1 = Gesplitste weergave: een betere manier om te multitasken
+splitview-onboarding-callout-subtitle-1 = Klik met uw rechtermuisknop op dit tabblad en kies ‘Gesplitste weergave toevoegen’ om twee tabbladen tegelijk te zien.
+splitview-onboarding-callout-cta-1 = Nu proberen
+splitview-onboarding-callout-title-2 = Bekijk twee tabbladen tegelijk met gesplitste weergave
+splitview-onboarding-callout-subtitle-2 = Geen extra vensters. Geen tabbladen wisselen. Klik met uw rechtermuisknop op dit tabblad en kies ‘Gesplitste weergave toevoegen’.
 unified-search-callout-title = Wisselen tussen zoekmachines
 unified-search-callout-subtitle = Kies wat het beste werkt voor uw specifieke zoekopdracht.
 unified-search-callout-primary-label = Volgende

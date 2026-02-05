@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Tabblad sluiten
            *[other] { $tabCount } tabbladen sluiten
         }
+tab-splitview-splitter =
+    .aria-label = Formaat van gesplitste tabbladweergave wijzigen
 
 ## Tooltips for tab audio control
 ## Variables:

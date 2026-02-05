@@ -856,6 +856,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = No web sites added yet.
+home-custom-homepage-delete-address-button =
+    .aria-label = Delete address
+    .title = Delete address
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = No web sites added yet.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

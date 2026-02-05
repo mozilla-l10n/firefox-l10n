@@ -33,6 +33,7 @@ perftools-description-local-build =
     Als u een build profileert die u zelf, op deze machine, gecompileerd heeft,
     voeg dan de objdir van uw build aan de onderstaande lijst toe, zodat
     deze kan worden gebruikt om symboolinformatie op te zoeken.
+perftools-pick-local-build-directory = Buildmap kiezen
 
 ## The controls for the interval at which the profiler samples the code.
 
