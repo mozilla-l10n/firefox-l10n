@@ -851,14 +851,17 @@ home-custom-homepage-header = Swójski startowy bok
 home-custom-homepage-subpage =
     .heading = Swójski startowy bok
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adrese websedłow
+home-custom-homepage-card-header =
+    .label = Adrese websedłow
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adrese websedłow
+home-custom-homepage-subheader = Adrese websedłow
 home-custom-homepage-address =
     .placeholder = Adresu zapódaś
 home-custom-homepage-address-button =
     .label = Adresu pśidaś
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Hyšći žedne websedła pśidane.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Hyšći žedne websedła pśidane.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

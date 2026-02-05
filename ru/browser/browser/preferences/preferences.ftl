@@ -848,14 +848,17 @@ home-custom-homepage-header = Настраиваемая домашняя стр
 home-custom-homepage-subpage =
     .heading = Настраиваемая домашняя страница
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Адрес(а) веб-сайтов
+home-custom-homepage-card-header =
+    .label = Адрес(а) веб-сайтов
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Адрес(а) веб-сайтов
+home-custom-homepage-subheader = Адрес(а) веб-сайтов
 home-custom-homepage-address =
     .placeholder = Введите адрес
 home-custom-homepage-address-button =
     .label = Добавить адрес
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Пока не добавлено ни одного веб-сайта.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Пока не добавлено ни одного веб-сайта.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

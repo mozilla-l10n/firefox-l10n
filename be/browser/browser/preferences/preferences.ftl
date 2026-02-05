@@ -815,14 +815,17 @@ home-custom-homepage-header = Уласная хатняя старонка
 home-custom-homepage-subpage =
     .heading = Уласная хатняя старонка
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Адрас(ы) сайта(ў)
+home-custom-homepage-card-header =
+    .label = Адрас(ы) сайта(ў)
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Адрас(ы) сайта(ў)
+home-custom-homepage-subheader = Адрас(ы) сайта(ў)
 home-custom-homepage-address =
     .placeholder = Увядзіце адрас
 home-custom-homepage-address-button =
     .label = Дадаць адрас
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Пакуль не дададзены ніводны сайт.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Пакуль не дададзены ніводны сайт.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2189,3 +2192,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Працоўны стол
 downloads-folder-name = Сцягванні
 choose-download-folder-title = Выбар папкі сцягванняў:
+
+## AI controls page
+

@@ -827,14 +827,17 @@ home-custom-homepage-header = דף בית מותאם אישית
 home-custom-homepage-subpage =
     .heading = דף בית מותאם אישית
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = כתובות אתרי אינטרנט
+home-custom-homepage-card-header =
+    .label = כתובות אתרי אינטרנט
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = כתובות אתרי אינטרנט
+home-custom-homepage-subheader = כתובות אתרי אינטרנט
 home-custom-homepage-address =
     .placeholder = נא להכניס כתובת
 home-custom-homepage-address-button =
     .label = הוספת כתובת
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = עדיין לא נוספו אתרים.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = עדיין לא נוספו אתרים.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

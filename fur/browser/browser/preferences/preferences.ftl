@@ -806,14 +806,17 @@ home-custom-homepage-header = Pagjine iniziâl personalizade
 home-custom-homepage-subpage =
     .heading = Pagjine iniziâl personalizade
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Direzions di sîts web
+home-custom-homepage-card-header =
+    .label = Direzions di sîts web
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Direzions di sîts web
+home-custom-homepage-subheader = Direzions di sîts web
 home-custom-homepage-address =
     .placeholder = Inserìs une direzion
 home-custom-homepage-address-button =
     .label = Zonte direzion
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nol è stât zontât ancjemò nissun sît.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Nol è stât zontât ancjemò nissun sît.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2158,3 +2161,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+

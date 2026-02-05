@@ -806,14 +806,17 @@ home-custom-homepage-header = Faqe Hyrëse e Përshtatur
 home-custom-homepage-subpage =
     .heading = Faqe Hyrëse e Përshtatur
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adresë(a) sajti
+home-custom-homepage-card-header =
+    .label = Adresë(a) sajti
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adresë(a) sajti
+home-custom-homepage-subheader = Adresë(a) sajti
 home-custom-homepage-address =
     .placeholder = Jepni adresë
 home-custom-homepage-address-button =
     .label = Shtoni adresë
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ende pa sajte të shtuar.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ende pa sajte të shtuar.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2158,3 +2161,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## AI controls page
+

@@ -837,14 +837,17 @@ home-custom-homepage-header = Vlastná domovská stránka
 home-custom-homepage-subpage =
     .heading = Vlastná domovská stránka
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adresy webových stránok
+home-custom-homepage-card-header =
+    .label = Adresy webových stránok
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adresy webových stránok
+home-custom-homepage-subheader = Adresy webových stránok
 home-custom-homepage-address =
     .placeholder = Zadajte adresu
 home-custom-homepage-address-button =
     .label = Pridať adresu
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Zatiaľ neboli pridané žiadne webové stránky.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Zatiaľ neboli pridané žiadne webové stránky.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

@@ -31,6 +31,7 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -solo-ai-brand-name = Solo
+-yelp-brand-name = Yelp
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand

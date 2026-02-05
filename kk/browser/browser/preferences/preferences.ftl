@@ -845,14 +845,17 @@ home-custom-homepage-header = Арнайы басты бет
 home-custom-homepage-subpage =
     .heading = Арнайы басты бет
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Веб-сайт адрес(тер)і
+home-custom-homepage-card-header =
+    .label = Веб-сайт адрес(тер)і
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Веб-сайт адрес(тер)і
+home-custom-homepage-subheader = Веб-сайт адрес(тер)і
 home-custom-homepage-address =
     .placeholder = Адресті енгізу
 home-custom-homepage-address-button =
     .label = Адресті қосу
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Әлі ешқандай веб-сайт қосылмаған.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Әлі ешқандай веб-сайт қосылмаған.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

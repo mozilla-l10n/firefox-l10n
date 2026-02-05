@@ -845,14 +845,17 @@ home-custom-homepage-header = Anpassad startsida
 home-custom-homepage-subpage =
     .heading = Anpassad startsida
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Webbadress(er)
+home-custom-homepage-card-header =
+    .label = Webbadress(er)
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Webbadress(er)
+home-custom-homepage-subheader = Webbadress(er)
 home-custom-homepage-address =
     .placeholder = Ange adress
 home-custom-homepage-address-button =
     .label = Lägg till adress
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Inga webbplatser tillagda ännu.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Inga webbplatser tillagda ännu.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

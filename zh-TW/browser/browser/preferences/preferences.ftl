@@ -833,14 +833,17 @@ home-custom-homepage-header = 自訂首頁
 home-custom-homepage-subpage =
     .heading = 自訂首頁
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = 網站網址
+home-custom-homepage-card-header =
+    .label = 網站網址
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = 網站網址
+home-custom-homepage-subheader = 網站網址
 home-custom-homepage-address =
     .placeholder = 請輸入網址
 home-custom-homepage-address-button =
     .label = 新增網址
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = 尚未加入任何網站。
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 尚未加入任何網站。
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

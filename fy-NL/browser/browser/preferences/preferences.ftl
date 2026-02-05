@@ -845,14 +845,17 @@ home-custom-homepage-header = Oanpaste startside
 home-custom-homepage-subpage =
     .heading = Oanpaste startside
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Websiteadres(sen)
+home-custom-homepage-card-header =
+    .label = Websiteadres(sen)
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Websiteadres(sen)
+home-custom-homepage-subheader = Websiteadres(sen)
 home-custom-homepage-address =
     .placeholder = Fier adres yn
 home-custom-homepage-address-button =
     .label = Adres tafoegje
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Noch gjin websites tafoege.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Noch gjin websites tafoege.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

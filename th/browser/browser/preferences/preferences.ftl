@@ -833,14 +833,17 @@ home-custom-homepage-header = หน้าแรกกำหนดเอง
 home-custom-homepage-subpage =
     .heading = หน้าแรกกำหนดเอง
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = ที่อยู่เว็บไซต์
+home-custom-homepage-card-header =
+    .label = ที่อยู่เว็บไซต์
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = ที่อยู่เว็บไซต์
+home-custom-homepage-subheader = ที่อยู่เว็บไซต์
 home-custom-homepage-address =
     .placeholder = ป้อนที่อยู่
 home-custom-homepage-address-button =
     .label = เพิ่มที่อยู่
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = ยังไม่ได้เพิ่มเว็บไซต์ใด
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = ยังไม่ได้เพิ่มเว็บไซต์ใด
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

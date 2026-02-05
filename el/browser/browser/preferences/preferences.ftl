@@ -845,14 +845,17 @@ home-custom-homepage-header = Προσαρμοσμένη αρχική σελίδ
 home-custom-homepage-subpage =
     .heading = Προσαρμοσμένη αρχική σελίδα
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Διευθύνσεις ιστοτόπων
+home-custom-homepage-card-header =
+    .label = Διευθύνσεις ιστοτόπων
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Διευθύνσεις ιστοτόπων
+home-custom-homepage-subheader = Διευθύνσεις ιστοτόπων
 home-custom-homepage-address =
     .placeholder = Εισαγάγετε διεύθυνση
 home-custom-homepage-address-button =
     .label = Προσθήκη διεύθυνσης
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Δεν έχουν προστεθεί ακόμα ιστότοποι.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Δεν έχουν προστεθεί ακόμα ιστότοποι.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

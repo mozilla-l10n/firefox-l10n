@@ -845,14 +845,17 @@ home-custom-homepage-header = Tilpasset startside
 home-custom-homepage-subpage =
     .heading = Tilpasset startside
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Nettadresse(r)
+home-custom-homepage-card-header =
+    .label = Nettadresse(r)
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Nettadresse(r)
+home-custom-homepage-subheader = Nettadresse(r)
 home-custom-homepage-address =
     .placeholder = Skriv inn adresse
 home-custom-homepage-address-button =
     .label = Legg til adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ingen nettsteder lagt til ennå.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ingen nettsteder lagt til ennå.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

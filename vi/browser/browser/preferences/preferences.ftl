@@ -833,14 +833,17 @@ home-custom-homepage-header = Tùy chỉnh trang chủ
 home-custom-homepage-subpage =
     .heading = Tùy chỉnh trang chủ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Địa chỉ trang web
+home-custom-homepage-card-header =
+    .label = Địa chỉ trang web
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Địa chỉ trang web
+home-custom-homepage-subheader = Địa chỉ trang web
 home-custom-homepage-address =
     .placeholder = Nhập địa chỉ
 home-custom-homepage-address-button =
     .label = Thêm địa chỉ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Chưa có trang web nào được thêm vào.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Chưa có trang web nào được thêm vào.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

@@ -806,14 +806,17 @@ home-custom-homepage-header = ਪਸੰਦੀਦਾ ਮੁੱਖ-ਸਫ਼ਾ
 home-custom-homepage-subpage =
     .heading = ਪਸੰਦੀਦਾ ਮੁੱਖ-ਸਫ਼ਾ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ(ਸਿਰਨਾਵੇਂ)
+home-custom-homepage-card-header =
+    .label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ(ਸਿਰਨਾਵੇਂ)
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ(ਸਿਰਨਾਵੇਂ)
+home-custom-homepage-subheader = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ(ਸਿਰਨਾਵੇਂ)
 home-custom-homepage-address =
     .placeholder = ਸਿਰਨਾਵਾਂ ਦਿਓ
 home-custom-homepage-address-button =
     .label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਜੋੜੋ
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = ਹਾਲੇ ਕੋਈ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਜੋੜੀ ਗਈ।
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = ਹਾਲੇ ਕੋਈ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਜੋੜੀ ਗਈ।
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2163,3 +2166,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = ਡੈਸਕਟਾਪ
 downloads-folder-name = ਡਾਊਨਲੋਡ
 choose-download-folder-title = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣੋ:
+
+## AI controls page
+

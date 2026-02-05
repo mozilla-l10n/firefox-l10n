@@ -810,14 +810,17 @@ home-custom-homepage-header = Mukautettu etusivu
 home-custom-homepage-subpage =
     .heading = Mukautettu etusivu
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Verkkosivuston tai -sivustojen osoitteet
+home-custom-homepage-card-header =
+    .label = Verkkosivuston tai -sivustojen osoitteet
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Verkkosivuston tai -sivustojen osoitteet
+home-custom-homepage-subheader = Verkkosivuston tai -sivustojen osoitteet
 home-custom-homepage-address =
     .placeholder = Kirjoita osoite
 home-custom-homepage-address-button =
     .label = Lisää osoite
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ei vielä lisättyjä verkkosivustoja.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2162,3 +2165,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Työpöytä
 downloads-folder-name = Lataukset
 choose-download-folder-title = Valitse tallennuskansio
+
+## AI controls page
+
