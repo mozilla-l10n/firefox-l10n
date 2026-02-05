@@ -230,5 +230,12 @@ backup-file-other-browser-restore-step-4 = Reinicia { -brand-short-name } cuando
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Nota:</b> se encontró otro archivo de respaldo
+       *[other] <b>Nota:</b> se encontraron otros { $numberOfOtherBackupsFound } archivos de respaldo
+    }
 restore-from-backup-filepicker-input =
     .placeholder = Ningún archivo seleccionado
