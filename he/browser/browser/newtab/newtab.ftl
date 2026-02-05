@@ -723,3 +723,15 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = סגירה
     .aria-label = סגירה
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = התאמה אישית של הדף הזה
+newtab-activation-window-message-customization-focus-message = ניתן לבחור בטפט חדש, להוסיף קיצורי דרך לאתרים המועדפים עליך ולהישאר מעודכנים בסיפורים שמעניינים אותך.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = להתחיל להתאים אישית
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = המרחב הזה פועל לפי הכללים שלך
