@@ -815,11 +815,17 @@ home-custom-homepage-header = Egyéni kezdőlap
 home-custom-homepage-subpage =
     .heading = Egyéni kezdőlap
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Webhelyek címei
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Webhelyek címei
 home-custom-homepage-address =
     .placeholder = Cím megadása
 home-custom-homepage-address-button =
     .label = Cím hozzáadása
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Még nincsenek webhelyek hozzáadva.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Még nincsenek webhelyek hozzáadva.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
