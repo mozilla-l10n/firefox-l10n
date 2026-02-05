@@ -2165,6 +2165,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Työpöytä
 downloads-folder-name = Lataukset
 choose-download-folder-title = Valitse tallennuskansio
-
-## AI controls page
-

@@ -2192,6 +2192,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Працоўны стол
 downloads-folder-name = Сцягванні
 choose-download-folder-title = Выбар папкі сцягванняў:
-
-## AI controls page
-

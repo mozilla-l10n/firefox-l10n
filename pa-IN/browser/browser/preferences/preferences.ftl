@@ -2166,6 +2166,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = ਡੈਸਕਟਾਪ
 downloads-folder-name = ਡਾਊਨਲੋਡ
 choose-download-folder-title = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣੋ:
-
-## AI controls page
-
