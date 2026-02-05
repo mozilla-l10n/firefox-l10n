@@ -227,6 +227,7 @@ sidebar-genai-survey-satisfaction-question = 您对在侧栏中能够使用 AI �
 sidebar-genai-survey-productive-question =
     您在多大程度上赞同或反对此说法：<br/>
     “侧栏中的 AI 聊天机器人让我的浏览更高效”？
+splitview-onboarding-callout-cta-1 = 现在就试试
 unified-search-callout-title = 切换搜索引擎
 unified-search-callout-subtitle = 针对具体搜索内容，选择最合用的搜索引擎。
 unified-search-callout-primary-label = 下一步
