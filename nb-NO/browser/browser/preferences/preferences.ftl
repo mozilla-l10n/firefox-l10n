@@ -845,6 +845,9 @@ home-custom-homepage-header = Tilpasset startside
 home-custom-homepage-subpage =
     .heading = Tilpasset startside
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Nettadresse(r)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Nettadresse(r)
 home-custom-homepage-address =
     .placeholder = Skriv inn adresse
