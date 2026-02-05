@@ -849,9 +849,6 @@ home-custom-homepage-subpage =
     .heading = Настраиваемая домашняя страница
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Адрес(а) веб-сайтов
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Адрес(а) веб-сайтов
 home-custom-homepage-address =
     .placeholder = Введите адрес
 home-custom-homepage-address-button =
