@@ -2138,3 +2138,37 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
 choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
+
+## AI controls page
+
+preferences-ai-controls-translations-control =
+    .label = თარგმანები
+    .description = შეუფერხებლად მონახულეთ გვერდები სასურველ ენაზე.
+preferences-ai-controls-translations-more-link = თარგმნის სხვა პარამეტრები
+preferences-ai-controls-pdfjs-control =
+    .label = სურათზე დართული წარწერა { -brand-short-name } PDF-მნახველში
+    .description = სურათების დამატებისას PDF-ებში დაერთვება აღმწერი წარწერებიც მეტი ხელმისაწვდომობისთვის.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = ჩანართის დაჯგუფების შემოთავაზებები
+    .description = მიიღეთ შემოთავაზებები ჩანართების დალაგებისა და გადარქმევის შესახებ.
+preferences-ai-controls-key-points-control =
+    .label = საკვანძო საკითხები ბმულის შეთვალიერებისას
+    .description = იხილეთ მოკლე შეჯამება ბმულის გახსნამდე.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = AI-თანამოსაუბრის მომწოდებლები გვერდით ზოლზე
+    .description = თან იქონიეთ თანამოსაუბრე ხელგონი გვერდების მონახულებისას. აირჩიეთ Anthropic Claude, ChatGPT, Copilot, Google Gemini ან Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = თანამოსაუბრე გვერდით ზოლზე
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = ხელმისაწვდომი
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = ამოქმედებული
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = შეზღუდული
+preferences-ai-controls-state-description-before = რას გულისხმობს ეს პარამეტრები:
+preferences-ai-controls-state-description-available = <strong>ხელმისაწვდომი:</strong> შეგიძლიათ იხილოთ და გამოიყენოთ.
+preferences-ai-controls-state-description-enabled = <strong>ამოქმედებული:</strong> ჩართული გაქვთ და სარგებლობთ ამ შესაძლებლობით.
+preferences-ai-controls-state-description-blocked = <strong>შეზღუდული:</strong> ვერ იხილავთ და ვერ გამოიყენებთ ამ შესაძლებლობას. მოწყობილობაზე მომუშავე ხელგონი ან წინათ ჩამოტვირთული ნებისმიერი მოდელი მოცილებულია.
