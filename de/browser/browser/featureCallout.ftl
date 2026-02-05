@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Wie zufrieden bist du damit, Zugrif
 sidebar-genai-survey-productive-question =
     Inwieweit stimmen Sie dieser Aussage zu oder nicht:<br/>
     „Der KI-Chatbot in der Sidebar hilft mir, produktiver zu sein“?
+splitview-onboarding-callout-title-1 = Geteilte Ansicht: Eine bessere Möglichkeit für Multitasking
+splitview-onboarding-callout-subtitle-1 = Klicken Sie mit der rechten Maustaste auf diesen Tab und wählen Sie "Geteilte Ansicht hinzufügen", um zwei Tabs gleichzeitig zu sehen.
+splitview-onboarding-callout-cta-1 = Jetzt ausprobieren
+splitview-onboarding-callout-title-2 = Zwei Tabs gleichzeitig anzeigen mit "geteilte Ansicht"
+splitview-onboarding-callout-subtitle-2 = Keine zusätzlichen Fenster. Kein Wechseln der Tabs. Klicken Sie mit der rechten Maustaste auf diesen Tab und wählen Sie "Geteilte Ansicht hinzufügen".
+splitview-onboarding-callout-cta-2 = Probieren Sie die geteilte Ansicht aus
 unified-search-callout-title = Zwischen Suchmaschinen wechseln
 unified-search-callout-subtitle = Wählen Sie aus, was für Ihre spezifische Suche am besten funktioniert.
 unified-search-callout-primary-label = Weiter

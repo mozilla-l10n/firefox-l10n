@@ -766,6 +766,10 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-undefined-calculator-result = undefiniert
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = { -brand-product-name }-Erweiterung
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Empfohlen
 # Shows the result of a formula expression being calculated, in scientific notation.
