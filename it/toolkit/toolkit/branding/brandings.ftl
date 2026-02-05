@@ -52,3 +52,4 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
+
