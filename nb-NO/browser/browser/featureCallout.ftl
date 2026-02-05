@@ -228,6 +228,7 @@ sidebar-genai-survey-productive-question =
     I hvilken grad er du enig eller uenig i denne påstanden:<br/>
     "AI-chatboten i sidestolpen hjelper meg å bli mer produktiv"?
 splitview-onboarding-callout-cta-1 = Prøv det nå
+splitview-onboarding-callout-title-2 = Se to faner samtidig med delt visning
 unified-search-callout-title = Bytt mellom søkemotorer
 unified-search-callout-subtitle = Velg det som fungerer best for ditt spesifikke søk.
 unified-search-callout-primary-label = Neste

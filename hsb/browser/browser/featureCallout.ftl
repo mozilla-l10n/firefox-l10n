@@ -228,6 +228,7 @@ sidebar-genai-survey-productive-question =
     Do kotreje měry zwoliće abo njezwoliće do tutoho twjerdźenja:<br/>
     „Chatbot KI w bóčnicy mi pomha bóle produktiwny być“?
 splitview-onboarding-callout-cta-1 = Spytajće nětko
+splitview-onboarding-callout-title-2 = Wobhladajće sej dwaj rajtarkaj naraz z dźělenym napohladom
 unified-search-callout-title = Pytawu změnić
 unified-search-callout-subtitle = Wubjerće, što za swoje specifiske pytanje najlěpje funguje.
 unified-search-callout-primary-label = Přichodny
