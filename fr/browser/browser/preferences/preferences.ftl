@@ -844,9 +844,6 @@ home-custom-homepage-subpage =
     .heading = Page d’accueil personnalisée
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresse(s) de site web
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adresse(s) de site web
 home-custom-homepage-address =
     .placeholder = Saisissez une adresse
 home-custom-homepage-address-button =
