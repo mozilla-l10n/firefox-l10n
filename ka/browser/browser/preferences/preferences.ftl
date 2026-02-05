@@ -1158,6 +1158,19 @@ sync-signedin-unverified2 =
     .label = { $email } ჯერ არ დამოწმებულა
     .description = იხილეთ საფოსტო ყუთი ანგარიშის დასამოწმებლად და ასამოქმედებლად
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+sync-signedin-login-failure2 =
+    .label = თქვენ გამოსული ხართ ანგარიშიდან { $email }
+    .description = კვლავ შედით მისაერთებლად და მონაცემთა დასინქრონებისთვის.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1401,6 +1414,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = მთავარი პაროლის გამოყენება
     .accesskey = გ
+forms-primary-pw-use-2 =
+    .label = მთავარი პაროლის გამოყენება
+    .description = ამატებს უსაფრთხოების დამატებით შრეს პაროლების დასაცავად.
+    .accesskey = ყ
 forms-primary-pw-set =
     .label = მთავარი პაროლის დაყენება
 forms-primary-pw-on =
@@ -1413,6 +1430,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = საჭიროა მოწყობილობით დამოწმება პაროლების შესავსებად და სამართავად
+forms-os-reauth-2 =
+    .label = საჭიროა მოწყობილობით დამოწმება პაროლების სამართავად
 forms-primary-pw-learn-more-link = ვრცლად
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1488,6 +1507,16 @@ autofill-payment-methods-add-button = გადახდის საშუა�
 payments-list-header =
     .label = გადახდის საშუალებები
 payments-list-item-label = <strong>გადახდის საშუალებები</strong>
+payments-delete-payment-prompt-title = მოცილდეს გადახდის ეს საშუალება?
+payments-delete-payment-prompt-confirm-button = წაშლა
+payments-delete-payment-prompt-cancel-button = გაუქმება
+payments-delete-payment-button-label =
+    .aria-label = წაშლა
+payments-edit-payment-button-label =
+    .aria-label = ჩასწორება
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = გადახდის საშუალება არაა დამატებული
 payments-remove-payment-prompt-title = მოცილდეს გადახდის ეს საშუალება?
 payments-remove-payment-prompt-confirm-button = მოცილება
 payments-remove-payment-prompt-cancel-button = გაუქმება
@@ -1500,6 +1529,28 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = მისამართების მართვა და სხვა
     .accesskey = მ
+addresses-list-header =
+    .label = მისამართები
+addreses-delete-address-button-label =
+    .aria-label = წაშლა
+addreses-edit-address-button-label =
+    .aria-label = ჩასწორება
+addresses-delete-address-prompt-title = წაიშალოს მისამართი?
+addresses-delete-address-prompt-confirm-button = წაშლა
+addresses-delete-address-prompt-cancel-button = გაუქმება
+autofill-addresses-add-button = ახალი მისამართის დამატება
+autofill-addresses-manage-addresses-title =
+    .heading = მისამართების მართვა და სხვა
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = მისამართები არაა დამატებული
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1711,6 +1762,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = სწრაფი მოქმედებები
     .accesskey = წ
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = ბოლოს მოძიებული
+    .accesskey = ო
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = ხშირად მოძიებულის შემოთავაზება
+    .accesskey = ხ
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = გთავაზობთ { -brand-short-name }
@@ -1747,6 +1804,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = შეთავაზებების აცილება
     .description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = შემოთავაზებების დაბრუნება
 addressbar-quickactions-learn-more = ვრცლად
 addressbar-dismissed-suggestions-label = შეთავაზებების აცილება
 addressbar-restore-dismissed-suggestions-description = აცილებული შემოთავაზებების დაბრუნება, რომელთაც გაწვდით დამკვეთები და { -brand-short-name }.
@@ -1993,6 +2052,9 @@ collection-studies-description = გამოცადეთ შესაძლ�
 collection-studies =
     .label = ნებართვა, რომ { -brand-short-name } დააყენებს და გაუშვებს კვლევებს
 collection-studies-link = იხილეთ { -brand-short-name } – კვლევები
+nimbus-rollouts-enabled =
+    .label = ნებართვა, რომ { -brand-short-name } შეძლებს გააუმჯობესოს შესაძლებლობები, წარმადობა და მდგრადობა განახლებებს შორის
+nimbus-rollouts-enabled-description = ცვლილებები აისახება დაშორებულ რეჟიმში.
 addon-recommendations2 =
     .label = გაფართოებების მორგებული შემოთავაზებების ნებართვა
 addon-recommendations-description = მიიღეთ გაფართოებების შემოთავაზებები გვერდების თვალიერების გასაუმჯობესებლად.
@@ -2093,6 +2155,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = მხოლოდ-HTTPS-რეჟიმი
     .description = მხოლოდ დაცული კავშირის მქონე საიტებთან წვდომა. { -brand-short-name } ნებართვას მოითხოვს დაუცველი კავშირის დამყარებამდე.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2163,6 +2227,18 @@ choose-download-folder-title = ჩამოტვირთვების სა
 
 ## AI controls page
 
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = ყოველთვის გაძლევთ { -brand-short-name } არჩევანის უფლებას, მათ შორის ხელოვნური ინტელექტის შესაძლებლობებით სარგებლობის შემთხვევაშიც. მართვის სხვა საშუალებებიც მალე დაემატება.
+preferences-ai-controls-block-ai-label = შეიზღუდოს AI-შესაძლებლობები?
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = შეზღუდვა გულისხმობს, რომ თქვენთვის აღარ გამოაჩენს { -brand-short-name } ახალ ან არსებულ AI-შესაძლებლობებს, არც მათ შესახებ ამომხტომ ცნობებს. <a data-l10n-name="link">იხილეთ ვრცლად</a>, თუ რას მოიცავს და როგორ იმართება ძველებური სახის მანქანური დასწავლის მქონე შესაძლებლობები, მათ შორის ძიებისა თუ სხვა შემოთავაზებები.
+preferences-ai-controls-blocked-message =
+    .message = ახალი ან არსებული AI-შესაძლებლობები შეიზღუდება ნაგულისხმევად. ცალკეულ შესაძლებლობაზე შეზღუდვის მოსახსნელად გამოიყენეთ სამართავი ქვემოთ.
+preferences-ai-controls-on-device-group =
+    .label = მოწყობილობაზე მომუშავე AI
+    .description = გამოყენებული იქნება ხელგონის მცირე მოდელები, რომლებიც ჩამოიტვირთება მოწყობილობაზე შესაძლებლობის გამოყენებისას. ამგვარი მიდგომა დაიცავს თქვენს პირადულობას.
 preferences-ai-controls-translations-control =
     .label = თარგმანები
     .description = შეუფერხებლად მონახულეთ გვერდები სასურველ ენაზე.
