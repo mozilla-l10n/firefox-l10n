@@ -126,9 +126,9 @@ genai-options-reload-generic =
 genai-options-reload-provider =
     .label = Recargar { $provider }
 genai-options-show-shortcut =
-    .label = Monstrar via-breve seligente texto
+    .label = Monstrar un accesso directe durante le selection de texto
 genai-options-hide-shortcut =
-    .label = Celar via-breve seligente texto
+    .label = Celar le accesso directe durante le selection de texto
 genai-options-about-chatbot =
     .label = Re le chatbots IA in { -brand-short-name }
 
