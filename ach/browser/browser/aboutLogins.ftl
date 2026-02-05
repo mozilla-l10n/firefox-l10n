@@ -4,6 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Donyo iyie ki Mung me donyo
+about-logins-login-filter =
+    .placeholder = Yeny Donyo iyie
+    .key = F
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-avatar-button =
     .title = Lo akaunt

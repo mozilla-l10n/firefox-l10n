@@ -10,7 +10,7 @@ update-checkForUpdatesButton =
     .accesskey = R
 update-updateButton =
     .label = Nwo cako me keto ngec manyen i { -brand-shorter-name }
-    .accesskey = R
+    .accesskey = N
 update-checkingForUpdates = Roto pi ngec manyen…
 
 ## Variables:
@@ -25,6 +25,7 @@ update-applying = Tye kaketo ngec manyen…
 update-failed = Keto ngec manyen pe olare. <label data-l10n-name="failed-link">Gam kite manyen loyo</label>
 update-failed-main = Keto ngec manyen pe olare. <a data-l10n-name="failed-link-main">Gam kite manyen loyo</a>
 update-adminDisabled = Ngat ma loyo nyonyo ni ojuko ngec manyen woko
+update-policy-disabled = Dul mamegi ojuko woko keto ngec manyen
 update-noUpdatesFound = { -brand-short-name } tye kakare
 aboutdialog-update-checking-failed = Roto ngec manyen pe otwere.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
