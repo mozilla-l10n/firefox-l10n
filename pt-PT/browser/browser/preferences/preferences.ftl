@@ -551,6 +551,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -682,6 +685,9 @@ choose-bookmark =
     .accesskey = m
 home-homepage-header = Página inicial
 
+## Home Section - Home Page Customization
+
+
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Página inicial personalizada
@@ -689,9 +695,6 @@ home-custom-homepage-subpage =
     .heading = Página inicial personalizada
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Endereço(s) do site
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Endereço(s) do site
 home-custom-homepage-address =
     .placeholder = Inserir endereço
 home-custom-homepage-address-button =
@@ -941,6 +944,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1849,3 +1857,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## AI controls page
+
