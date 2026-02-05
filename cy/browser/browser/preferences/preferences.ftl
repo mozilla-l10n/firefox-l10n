@@ -857,11 +857,17 @@ home-custom-homepage-header = Tudalen Cartref Cyfaddas
 home-custom-homepage-subpage =
     .heading = Tudalen Cartref Cyfaddas
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Cyfeiriad(au) gwefan
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Cyfeiriad(au) gwefan
 home-custom-homepage-address =
     .placeholder = Rhowch gyfeiriad
 home-custom-homepage-address-button =
     .label = Ychwanegu cyfeiriad
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Dim gwefannau wedi'u hychwanegu eto.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dim gwefannau wedi'u hychwanegu eto.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
