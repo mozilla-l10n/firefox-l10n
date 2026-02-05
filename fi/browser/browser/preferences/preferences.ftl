@@ -811,9 +811,6 @@ home-custom-homepage-subpage =
     .heading = Mukautettu etusivu
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Verkkosivuston tai -sivustojen osoitteet
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Verkkosivuston tai -sivustojen osoitteet
 home-custom-homepage-address =
     .placeholder = Kirjoita osoite
 home-custom-homepage-address-button =
@@ -2162,3 +2159,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Työpöytä
 downloads-folder-name = Lataukset
 choose-download-folder-title = Valitse tallennuskansio
+
+## AI controls page
+
