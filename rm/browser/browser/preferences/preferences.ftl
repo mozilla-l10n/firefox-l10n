@@ -732,11 +732,17 @@ home-custom-homepage-header = Pagina iniziala persunalisada
 home-custom-homepage-subpage =
     .heading = Pagina iniziala persunalisada
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adressa(s) da website(s)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adressa(s) da website(s)
 home-custom-homepage-address =
     .placeholder = Endatar in’adressa
 home-custom-homepage-address-button =
     .label = Agiuntar in’adressa
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Anc n’agiuntà naginas websites.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Anc n’agiuntà naginas websites.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
