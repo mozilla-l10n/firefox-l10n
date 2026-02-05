@@ -255,6 +255,12 @@ tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Lista de pestañas abiertas
+tab-group-preview-closed-description = Lista de pestañas cerradas
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -273,6 +279,8 @@ tab-context-move-tab-to-group =
            *[other] Agregar pestañas a grupo
         }
     .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = Grupos cerrados
 tab-group-editor-action-new-tab =
     .label = Nueva pestaña en grupo
 tab-group-editor-action-new-window =

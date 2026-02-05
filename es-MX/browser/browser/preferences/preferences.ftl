@@ -1835,6 +1835,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
+permissions-header2 =
+    .label = Permisos
+    .description = Permisos que otorgas a los sitios web que visitas.
 permissions-location2 =
     .label = Ubicación
 permissions-localhost2 =
@@ -2050,6 +2053,7 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-more-link = Más configuraciones de traducción
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot en la barra lateral
 # This option means that a user will see the feature and can use it.

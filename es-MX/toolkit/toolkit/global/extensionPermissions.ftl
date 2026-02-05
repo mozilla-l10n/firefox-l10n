@@ -58,3 +58,7 @@ webext-perms-description-data-short-searchTerms = términos de búsqueda
 webext-perms-description-data-short-technicalAndInteraction = datos técnicos y de interacción
 webext-perms-description-data-short-websiteActivity = actividad del sitio web
 webext-perms-description-data-short-websiteContent = contenido del sitio web
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-healthInfo = Compartir información de salud con el desarrollador de la extensión
