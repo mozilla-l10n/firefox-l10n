@@ -834,9 +834,6 @@ home-custom-homepage-subpage =
     .heading = 사용자 지정 홈페이지
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = 웹 사이트 주소
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = 웹 사이트 주소
 home-custom-homepage-address =
     .placeholder = 주소 입력
 home-custom-homepage-address-button =
