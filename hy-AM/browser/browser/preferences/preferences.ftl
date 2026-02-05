@@ -642,11 +642,17 @@ home-custom-homepage-header = Հարմարեցված տնէջ
 home-custom-homepage-subpage =
     .heading = Հարմարեցված տնէջ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Վեբ-կայքի հասցե(ներ)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Վեբ-կայքի հասցե(ներ)
 home-custom-homepage-address =
     .placeholder = Մուտքագրեք հասցե
 home-custom-homepage-address-button =
     .label = Ավելացնել հասցե
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Դեռևս կայքեր չեն ավելացվել։
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Դեռևս կայքեր չեն ավելացվել։
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
