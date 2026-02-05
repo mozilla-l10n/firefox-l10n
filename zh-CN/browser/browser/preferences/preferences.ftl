@@ -829,9 +829,6 @@ home-custom-homepage-subpage =
     .heading = 自定义主页
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = 网址
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = 网址
 home-custom-homepage-address =
     .placeholder = 输入地址
 home-custom-homepage-address-button =
