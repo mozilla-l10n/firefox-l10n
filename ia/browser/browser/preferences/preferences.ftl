@@ -845,11 +845,17 @@ home-custom-homepage-header = Pagina initial personalisate
 home-custom-homepage-subpage =
     .heading = Pagina initial personalisate
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adresse(s) de sito web
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresse(s) de sito web
 home-custom-homepage-address =
     .placeholder = Insere adresse
 home-custom-homepage-address-button =
     .label = Adder adresse
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Necun sito web ancora addite
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Necun sito web ancora addite
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
