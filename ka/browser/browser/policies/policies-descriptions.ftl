@@ -56,6 +56,7 @@ policy-DisablePocket2 = ვებგვერდების { -pocket-brand-nam
 policy-DisablePrivateBrowsing = პირადი დათვალიერების გათიშვა.
 policy-DisableProfileImport = მენიუდან სხვა ბრაუზერის მონაცემების გადმოტანის შესაძლებლობის გათიშვა.
 policy-DisableProfileRefresh = about:support გვერდზე, გაითიშოს ღილაკი { -brand-short-name } – შეკეთება.
+policy-DisableRemoteImprovements = შეზღუდვა, რომ { -brand-short-name } შეცვლის შესაძლებლობებს, წარმადობასა და მდგრადობას განახლებებს შორის შუალედშიც.
 policy-DisableSafeMode = უსაფრთხო რეჟიმში გაშვების შესაძლებლობის გათიშვა. შენიშვნა: Shift-ღილაკით უსაფრთხო რეჟიმში გადასვლის შეზღუდვა, მხოლოდ Windows-ის ჯგუფის წესებიდანაა (Group Policy) შესაძლებელი.
 policy-DisableSecurityBypass = მომხმარებლისთვის, უსაფრთხოების გარკვეული გაფრთხილებების უგულებელყოფის შეზღუდვა.
 policy-DisableSetAsDesktopBackground = მენიუდან, ეკრანის ფონად გამოყენების ბრძანების გათიშვა სურათებისთვის.
