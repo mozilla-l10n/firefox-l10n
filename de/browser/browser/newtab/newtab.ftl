@@ -729,3 +729,7 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Verwerfen
     .aria-label = Verwerfen
+newtab-activation-window-message-customization-focus-message = Wählen Sie ein neues Hintergrundbild, fügen Sie Verknüpfungen zu Ihren Lieblingsseiten hinzu und bleiben Sie auf dem neuesten Stand, wenn es um Geschichten geht, die Sie interessieren.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Beginnen Sie mit den Anpassungen
+newtab-activation-window-message-values-focus-message = Mit { -brand-product-name } können Sie so surfen, wie Sie es möchten. Mit einer persönlicheren Möglichkeit, Ihren Tag online zu starten. Passen Sie { -brand-product-name } an Ihre Wünsche an.

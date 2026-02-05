@@ -212,6 +212,7 @@ sidebar-genai-survey-satisfaction-question = עד כמה הינך מרוצה מ�
 sidebar-genai-survey-productive-question =
     באיזו מידה היית נוטה להסכים או לא להסכים עם הצהרה זו:<br/>
     ״צ’אטבוט AI בסרגל הצד מסייע לי להיות יותר פרודקטיבי״?
+splitview-onboarding-callout-title-1 = תצוגה מפוצלת: דרך טובה יותר לריבוי משימות
 unified-search-callout-title = מעבר בין מנועי חיפוש
 unified-search-callout-subtitle = באפשרותך לבחור במה שהכי מתאים לחיפוש הספציפי שלך.
 unified-search-callout-primary-label = הבא
