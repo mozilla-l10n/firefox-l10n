@@ -30,6 +30,7 @@ perftools-description-intro =
     Les enregistrements lancent <a>profiler.firefox.com</a> dans un nouvel onglet. Toutes les données sont stockées
     localement, mais vous pouvez choisir de les envoyer pour les partager.
 perftools-description-local-build = Si vous profilez une version que vous avez vous-même compilée, sur cette machine, veuillez ajouter le dossier « objdir » de votre compilation à la liste ci-dessous pour qu’il puisse être utilisé pour rechercher des informations sur les symboles.
+perftools-pick-local-build-directory = Choisir le répertoire de compilation
 
 ## The controls for the interval at which the profiler samples the code.
 

@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Steg 2: Välj "Ange standard" för { -brand-short-name }
 default-browser-guidance-notification-info-page = Visa mig
 default-browser-guidance-notification-dismiss = Klar
+default-browser-guidance-notification-v2-title = Slutför gör { -brand-short-name } till din standardwebbläsare
+default-browser-guidance-notification-v2-body = I Inställningar väljer du “Ange standard” för { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Slutför gör { -brand-short-name } till din standardwebbläsare i inställningarna

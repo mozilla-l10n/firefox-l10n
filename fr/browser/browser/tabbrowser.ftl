@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Fermer l’onglet
            *[other] Fermer { $tabCount } onglets
         }
+tab-splitview-splitter =
+    .aria-label = Redimensionner les onglets de l’affichage partagé
 
 ## Tooltips for tab audio control
 ## Variables:

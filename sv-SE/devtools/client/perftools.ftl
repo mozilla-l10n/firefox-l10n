@@ -33,6 +33,7 @@ perftools-description-local-build =
     Om du profilerar ett bygge som du själv har sammanställt, på denna
     maskin, lägg till din bygg-objdir i listan nedan så att
     den kan användas för att slå upp symbolinformation.
+perftools-pick-local-build-directory = Välj byggkatalog
 
 ## The controls for the interval at which the profiler samples the code.
 

@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Stäng flik
            *[other] Stäng { $tabCount } flikar
         }
+tab-splitview-splitter =
+    .aria-label = Ändra storlek på flikar med delad vy
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -856,6 +856,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Inga webbplatser tillagda ännu.
+home-custom-homepage-delete-address-button =
+    .aria-label = Ta bort adress
+    .title = Ta bort adress
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Inga webbplatser tillagda ännu.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
