@@ -715,3 +715,23 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .title = 닫기
     .aria-label = 닫기
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = 닫기
+    .aria-label = 닫기
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = 이 공간을 나만의 공간으로 만들기
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = 맞춤 설정 시작
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = 이 공간은 유연하고 사용자 정의가 가능합니다

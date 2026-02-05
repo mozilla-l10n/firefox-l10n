@@ -26,6 +26,7 @@ perftools-heading-local-build = 本機編譯版本
 
 perftools-description-intro = 記錄過程將在新分頁開啟 <a>profiler.firefox.com</a>。所有資料都儲存在您的本機上，但您可以決定是否要上傳分享。
 perftools-description-local-build = 若您使用這台電腦上自行編譯的版本進行測量，請將編譯出的目的碼路徑（objdir）放到下方清單，以用於查詢除錯符號資訊。
+perftools-pick-local-build-directory = 挑選編譯目錄
 
 ## The controls for the interval at which the profiler samples the code.
 

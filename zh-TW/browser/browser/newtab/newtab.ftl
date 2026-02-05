@@ -712,3 +712,12 @@ newtab-promo-card-cta = 更多資訊
 newtab-promo-card-dismiss-button =
     .title = 知道了！
     .aria-label = 知道了！
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = 知道了！
+    .aria-label = 知道了！

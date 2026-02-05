@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     第 2 步：點擊 { -brand-short-name } 的「設定為預設值」
 default-browser-guidance-notification-info-page = 顯示給我看
 default-browser-guidance-notification-dismiss = 完成
+default-browser-guidance-notification-v2-title = 完成將 { -brand-short-name } 設為預設瀏覽器
