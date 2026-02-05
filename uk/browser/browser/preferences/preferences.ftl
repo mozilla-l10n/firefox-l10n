@@ -742,11 +742,17 @@ home-custom-homepage-header = Власна домівка
 home-custom-homepage-subpage =
     .heading = Власна домівка
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Адреса вебсайту
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Адреса вебсайту
 home-custom-homepage-address =
     .placeholder = Введіть адресу
 home-custom-homepage-address-button =
     .label = Додати адресу
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ще не додано жодного вебсайту.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ще не додано жодного вебсайту.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
