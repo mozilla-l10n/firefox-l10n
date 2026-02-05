@@ -851,6 +851,9 @@ home-custom-homepage-address =
 home-custom-homepage-address-button =
     .label = Legg til adresse
 # Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Ingen nettsteder lagt til ennå.
+# Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ingen nettsteder lagt til ennå.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
