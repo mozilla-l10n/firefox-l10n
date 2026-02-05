@@ -806,6 +806,9 @@ home-custom-homepage-header = Pagjine iniziâl personalizade
 home-custom-homepage-subpage =
     .heading = Pagjine iniziâl personalizade
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Direzions di sîts web
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Direzions di sîts web
 home-custom-homepage-address =
     .placeholder = Inserìs une direzion
