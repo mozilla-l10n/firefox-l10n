@@ -834,9 +834,6 @@ home-custom-homepage-subpage =
     .heading = หน้าแรกกำหนดเอง
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = ที่อยู่เว็บไซต์
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = ที่อยู่เว็บไซต์
 home-custom-homepage-address =
     .placeholder = ป้อนที่อยู่
 home-custom-homepage-address-button =
