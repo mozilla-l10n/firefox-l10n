@@ -93,7 +93,7 @@ genai-shortcuts-selected-warning =
            *[other] Tu ha seligite circa { $selectionLength } characteres. Le numero de characteres que nos pote inviar a { $provider } es circa { $maxLength }.
         }
 genai-shortcuts-hide =
-    .label = Celar via breve pro chatbot
+    .label = Celar accesso directe a chatbot
 genai-menu-choose-chatbot =
     .label = Elige un chatbot IA
 genai-menu-ask-generic-2 =

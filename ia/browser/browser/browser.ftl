@@ -946,8 +946,8 @@ urlbar-searchmode-button2 =
     .label = { $engine }, seliger un motor de recerca
     .tooltiptext = { $engine }, seliger un motor de recerca
 urlbar-searchmode-button-no-engine =
-    .label = Nulle via breve seligite, selige un via breve
-    .tooltiptext = Nulle via breve seligite, selige un via breve
+    .label = Necun accesso directe seligite, selige un accesso directe
+    .tooltiptext = Necun accesso directe seligite, selige un accesso directe
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword =
     .label = Le recerca per parolas clave es disactivate

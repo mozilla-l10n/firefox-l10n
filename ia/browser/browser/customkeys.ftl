@@ -2,17 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-customkeys-title = Vias breve de claviero
+customkeys-title = Claves de accesso directe
 customkeys-search = Cercar:
 customkeys-change = Cambiar
 customkeys-reset = Reinitialisar
 customkeys-clear = Vacuar
 customkeys-new-key = Pulsar nove clave:
-customkeys-reset-all = Reinitialisar tote le vias breve al valor predefinite
+customkeys-reset-all = Reinitialisar tote le accessos directe al valores predefinite
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Iste clave es jam assignate a { $conflict }. Desira tu substituer lo?
-customkeys-reset-all-confirm = Desira tu vermente reinitialisar tote le vias breve a lor valores predefinite?
+customkeys-reset-all-confirm = Desira tu vermente reinitialisar tote le accessos directe a lor valores predefinite?
 customkeys-history-reopen-tab = Reaperir ultime scheda claudite
 customkeys-history-reopen-window = Reaperir ultime fenestra claudite
 customkeys-dev-tools = Utensiles de disveloppator web
