@@ -810,9 +810,6 @@ home-custom-homepage-subpage =
     .heading = Inna strona startowa
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresy stron
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adresy stron
 home-custom-homepage-address =
     .placeholder = Wpisz adres
 home-custom-homepage-address-button =
@@ -2162,3 +2159,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
+
+## AI controls page
+
