@@ -31,6 +31,7 @@ perftools-description-local-build =
     Wenn Sie einen auf diesem Computer selbst kompilierten Build untersuchen,
     fügen Sie bitte das objdir des Build zur folgenden Liste hinzu, sodass es
     genutzt werden kann, um Symbolinformationen nachzuschlagen.
+perftools-pick-local-build-directory = Build-Ordner auswählen
 
 ## The controls for the interval at which the profiler samples the code.
 

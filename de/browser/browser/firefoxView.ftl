@@ -134,6 +134,9 @@ firefoxview-synced-tabs-header = Tabs von anderen Geräten
 
 ## Chats in this context refers to chats saved from the AI Window Assistant
 
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
 firefoxview-chat-context-delete = Aus Chats löschen
     .accesskey = l
 

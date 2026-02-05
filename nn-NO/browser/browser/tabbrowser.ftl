@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Lat att fane
            *[other] Lat at { $tabCount } faner
         }
+tab-splitview-splitter =
+    .aria-label = Endre størrelse på delte visningsfaner
 
 ## Tooltips for tab audio control
 ## Variables:

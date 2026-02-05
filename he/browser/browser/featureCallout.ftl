@@ -213,6 +213,11 @@ sidebar-genai-survey-productive-question =
     באיזו מידה היית נוטה להסכים או לא להסכים עם הצהרה זו:<br/>
     ״צ’אטבוט AI בסרגל הצד מסייע לי להיות יותר פרודקטיבי״?
 splitview-onboarding-callout-title-1 = תצוגה מפוצלת: דרך טובה יותר לריבוי משימות
+splitview-onboarding-callout-subtitle-1 = יש ללחוץ לחיצה ימנית על לשונית זו ולבחור באפשרות ״הוספת תצוגה מפוצלת״ כדי לראות שתי לשוניות בו זמנית.
+splitview-onboarding-callout-cta-1 = לנסות כעת
+splitview-onboarding-callout-title-2 = צפייה בשתי לשוניות בו זמנית עם תצוגה מפוצלת
+splitview-onboarding-callout-subtitle-2 = ללא חלונות נוספים. ללא צורך לדפדף בין לשוניות. פשוט ללחוץ לחיצה ימנית על הלשונית ולבחור באפשרות ״הוספת תצוגה מפוצלת״.
+splitview-onboarding-callout-cta-2 = לנסות תצוגה מפוצלת
 unified-search-callout-title = מעבר בין מנועי חיפוש
 unified-search-callout-subtitle = באפשרותך לבחור במה שהכי מתאים לחיפוש הספציפי שלך.
 unified-search-callout-primary-label = הבא
