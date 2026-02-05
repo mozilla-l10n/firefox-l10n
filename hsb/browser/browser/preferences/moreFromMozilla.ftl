@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = Twórc websydłow KI { -solo-ai-brand-name }
 more-from-moz-mdn-title = Web-dokumentacija MDN
 more-from-moz-mdn-description = Wukńće webwuwiće z darmotnymi, wobšěrnymi nawodami a referencami.
 more-from-moz-mdn-button = Webwuwiće wuknyć
+more-from-moz-mdn-title2 = { -mdn-brand-name }
