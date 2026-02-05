@@ -155,6 +155,10 @@ addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែ
 header-back-button =
     .title = ថយ​ក្រោយ
 
+## Recommended add-ons page
+
+install-theme-button = តំឡើងរចនាប័ទ្ម
+
 ## Add-on actions
 
 enable-addon-button = បើក​ដំណើរការ

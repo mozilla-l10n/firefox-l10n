@@ -27,3 +27,4 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = ធម្មតា
 customize-mode-undo-cmd =
     .label = មិនធ្វើវិញ
+customize-mode-lwthemes-link = គ្រប់គ្រង​រចនាប័ទ្ម

@@ -112,6 +112,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-add-engine-menu =
     .label = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
 
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
+quickactions-cmd-themes = រចនាប័ទ្ម
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =

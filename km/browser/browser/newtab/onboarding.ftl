@@ -17,6 +17,7 @@ onboarding-not-now-button-label = កុំទាន់
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-add-extension-label = បញ្ចូលផ្នែកបន្ថែម
+return-to-amo-theme-install-complete-label = បានតំឡើងរចនាប័ទ្ម
 
 ## Multistage onboarding strings (about:welcome pages)
 
