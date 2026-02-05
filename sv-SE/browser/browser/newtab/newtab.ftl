@@ -731,10 +731,10 @@ newtab-activation-window-message-dismiss-button =
 newtab-activation-window-message-customization-focus-header = Gör detta utrymme till ditt
 newtab-activation-window-message-customization-focus-message = Välj en ny bakgrundsbild, lägg till genvägar till dina favoritsajter och håll dig uppdaterad om berättelser som intresserar dig.
 newtab-activation-window-message-customization-focus-primary-button =
-    .label = Börja anpassning
+    .label = Börja anpassa
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
 # meant to evoke the idea that newtab is malleable and customizable. The call to
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
-newtab-activation-window-message-values-focus-header = Detta utrymme följer dina regler
-newtab-activation-window-message-values-focus-message = { -brand-product-name } låter dig surfa som du vill, med ett mer personligt sätt att starta din dag online. Gör { -brand-product-name } till din egen.
+newtab-activation-window-message-values-focus-header = Det här utrymmet följer dina regler
+newtab-activation-window-message-values-focus-message = Med { -brand-product-name } kan du surfa precis som du vill, med ett mer personligt sätt att börja dagen online. Gör { -brand-product-name } till din egen.

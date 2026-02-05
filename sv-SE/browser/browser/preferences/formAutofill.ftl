@@ -157,7 +157,7 @@ autofill-card-network = Korttyp
 # simply a comma separated list of additional search keywords for the payment
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
-autofill-card-search-term-credit-cards = kreditkort, kredit, kort, betalkort, betal, plånbok, kassan
+autofill-card-search-term-credit-cards = kreditkort, kredit, kort, betalkort, betal, plånbok, kassa
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
