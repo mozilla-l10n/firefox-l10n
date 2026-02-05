@@ -49,7 +49,7 @@ crashreporter-checkbox-send-report =
                *[other] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
             }
     }
-crashreporter-checkbox-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
+crashreporter-checkbox-include-url = Zahrnout i adresu stránky, na níž došlo k pádu.
 crashreporter-submit-status = Vaše hlášení o pádu bude odesláno před ukončením či restartem aplikace
 crashreporter-submit-waiting-hardware-tests = Probíhá kontrola problémů s hardwarem a konfigurací...
 crashreporter-submit-in-progress = Odesílání hlášení o pádu…
