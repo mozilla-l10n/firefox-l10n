@@ -525,11 +525,17 @@ home-custom-homepage-header = ഇഷ്ടാനുസൃത പൂമുഖത�
 home-custom-homepage-subpage =
     .heading = ഇഷ്ടാനുസൃത പൂമുഖത്താൾ
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = വെബ്ബിട വിലാസം(കൾ)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = വെബ്ബിട വിലാസം(കൾ)
 home-custom-homepage-address =
     .placeholder = വിലാസം നല്കുക
 home-custom-homepage-address-button =
     .label = വിലാസം ചേൎക്കുക
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
