@@ -152,6 +152,12 @@ autofill-card-expires-month = Mes de vencimiento
 autofill-card-expires-year = Año de vencimiento
 autofill-card-billing-address = Dirección de facturación
 autofill-card-network = Tipo de tarjeta
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = tarjetas de crédito, crédito, tarjetas, tarjetas de débito, débito, billetera, pago
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

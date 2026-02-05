@@ -712,3 +712,25 @@ newtab-promo-card-cta = Más información
 newtab-promo-card-dismiss-button =
     .title = Ocultar
     .aria-label = Ocultar
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Ocultar
+    .aria-label = Ocultar
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Haz tuyo este espacio
+newtab-activation-window-message-customization-focus-message = Elige un fondo de pantalla nuevo, agrega accesos directos a tus sitios favoritos y mantente al día sobre las historias que te interesan.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Empieza a personalizar
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Este espacio juega según tus reglas
+newtab-activation-window-message-values-focus-message = { -brand-product-name } te permite navegar como quieras, con una forma más personal de empezar el día en línea. Personaliza { -brand-product-name }.

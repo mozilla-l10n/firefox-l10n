@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = IA Creadora de sitios web { -solo-ai-brand-name }
 more-from-moz-mdn-title = Documentos web de MDN
 more-from-moz-mdn-description = Aprende desarrollo web con guías y referencias gratuitas y completas.
 more-from-moz-mdn-button = Aprende desarrollo web
+more-from-moz-mdn-title2 = { -mdn-brand-name }
