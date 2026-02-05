@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } – ustvarjalnik spletnih s
 more-from-moz-mdn-title = Spletna dokumentacija MDN
 more-from-moz-mdn-description = Naučite se spletnega razvoja z brezplačnimi obsežnimi vodniki in napotki.
 more-from-moz-mdn-button = Naučite se spletnega razvoja
+more-from-moz-mdn-title2 = { -mdn-brand-name }
