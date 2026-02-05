@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] סגירת לשונית
            *[other] סגירת { $tabCount } לשוניות
         }
+tab-splitview-splitter =
+    .aria-label = שינוי גודל של הלשוניות בתצוגה מפוצלת
 
 ## Tooltips for tab audio control
 ## Variables:
