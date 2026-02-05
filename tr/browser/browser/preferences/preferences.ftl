@@ -846,9 +846,6 @@ home-custom-homepage-subpage =
     .heading = Özel giriş sayfası
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Web sitesi adres(ler)i
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Web sitesi adres(ler)i
 home-custom-homepage-address =
     .placeholder = Adres yazın
 home-custom-homepage-address-button =
