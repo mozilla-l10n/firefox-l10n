@@ -717,3 +717,5 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = 知道了
     .aria-label = 知道了
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = 开始定制
