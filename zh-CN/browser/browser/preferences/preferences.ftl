@@ -828,11 +828,17 @@ home-custom-homepage-header = 自定义主页
 home-custom-homepage-subpage =
     .heading = 自定义主页
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = 网址
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = 网址
 home-custom-homepage-address =
     .placeholder = 输入地址
 home-custom-homepage-address-button =
     .label = 添加地址
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = 未添加网站。
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 未添加网站。
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
