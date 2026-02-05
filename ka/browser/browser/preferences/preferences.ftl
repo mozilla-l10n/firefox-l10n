@@ -351,6 +351,11 @@ preferences-web-appearance-override-warning3 =
     .message = სიმკვეთრის თქვენ მიერ შერჩეული პარამეტრები ჩაანაცვლებს საიტის გაფორმებას.
 preferences-web-appearance-link =
     .label = გააფორმეთ { -brand-short-name } გაფართოებებისა და თემების განყოფილებიდან
+preferences-contrast-control-group =
+    .label = ვებსაიტზე ფერთა გამოკვეთა
+    .description = ვებსაიტებზე განსხვავებული ფერებია წინა და უკანა ფონზე. სიმკვეთრის შენარჩუნებისთვის შეგიძლიათ ყველა საიტზე ერთი და იმავე ფერების მითითება.
+preferences-contrast-control-radio-group =
+    .label = ფერების ჩანაცვლება
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას. <a data-l10n-name="colors-link">ფერების მართვა</a>
@@ -402,6 +407,9 @@ preferences-text-zoom-override-warning =
     .message = გაფრთხილება: როცა მონიშნულია „მხოლოდ ნაწერის ზომა“ და მოახლოება ნაგულისხმევად არაა 100%, შეიძლება ზოგიერთ საიტზე დაირღვეს შიგთავსის განლაგება.
 language-header = ენა
 choose-language-description = მიუთითეთ სასურველი ენა გვერდების საჩვენებლად
+website-language-heading =
+    .label = ვებსაიტის ენა
+    .description = ზოგიერთი ვებგვერდი რამდენიმე ენაზეა. მიუთითეთ ენები სასურველი მიმდევრობით.
 choose-button =
     .label = არჩევა…
     .accesskey = ა
