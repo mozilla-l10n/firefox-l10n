@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     2단계: { -brand-short-name }에 대해 "기본값 설정"을 선택
 default-browser-guidance-notification-info-page = 더보기
 default-browser-guidance-notification-dismiss = 완료
+default-browser-guidance-notification-v2-title = { -brand-short-name }를 기본 브라우저로 설정 완료
+default-browser-guidance-notification-v2-body = 설정에서 { -brand-short-name }에 대해 "기본 브라우저로 설정"을 선택하세요.
+default-browser-guidance-notification-v2-title-only = 설정에서 { -brand-short-name }를 기본 브라우저로 설정을 완료하세요

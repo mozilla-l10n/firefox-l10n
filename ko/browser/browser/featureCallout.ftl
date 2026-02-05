@@ -227,6 +227,10 @@ sidebar-genai-survey-satisfaction-question = 사이드바의 AI 챗봇에 접근
 sidebar-genai-survey-productive-question =
     다음 의견에 얼마나 동의하십니까?<br/>
     "사이드바에 AI 챗봇을 사용하면 생산성을 높일 수 있습니다"
+splitview-onboarding-callout-title-1 = 분할 화면: 멀티태스킹을 위한 더 나은 방법
+splitview-onboarding-callout-subtitle-1 = 이 탭을 마우스 오른쪽 버튼으로 클릭하고 "분할 화면 추가"를 선택하면 한 번에 두 개의 탭을 볼 수 있습니다.
+splitview-onboarding-callout-cta-1 = 지금 사용해보기
+splitview-onboarding-callout-title-2 = 분할 화면으로 한 번에 두 개의 탭 보기
 unified-search-callout-title = 검색 엔진 전환
 unified-search-callout-subtitle = 특정 검색에 가장 적합한 것을 선택하세요.
 unified-search-callout-primary-label = 다음
