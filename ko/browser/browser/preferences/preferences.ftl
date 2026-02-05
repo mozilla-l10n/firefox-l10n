@@ -833,11 +833,17 @@ home-custom-homepage-header = 사용자 지정 홈페이지
 home-custom-homepage-subpage =
     .heading = 사용자 지정 홈페이지
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = 웹 사이트 주소
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = 웹 사이트 주소
 home-custom-homepage-address =
     .placeholder = 주소 입력
 home-custom-homepage-address-button =
     .label = 주소 추가
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = 아직 추가된 웹 사이트가 없습니다.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 아직 추가된 웹 사이트가 없습니다.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
