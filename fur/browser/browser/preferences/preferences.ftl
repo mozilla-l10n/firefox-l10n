@@ -807,9 +807,6 @@ home-custom-homepage-subpage =
     .heading = Pagjine iniziâl personalizade
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Direzions di sîts web
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Direzions di sîts web
 home-custom-homepage-address =
     .placeholder = Inserìs une direzion
 home-custom-homepage-address-button =
@@ -2158,3 +2155,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+
