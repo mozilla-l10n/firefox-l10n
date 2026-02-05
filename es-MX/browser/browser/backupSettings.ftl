@@ -237,5 +237,10 @@ other-backup-files-founds =
         [one] <b>Nota:</b> se encontró otro archivo de respaldo
        *[other] <b>Nota:</b> se encontraron otros { $numberOfOtherBackupsFound } archivos de respaldo
     }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Creado el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
+backup-file-restore-file-validation-error = Este archivo no funciona. Prueba a seleccionar otro archivo. <a data-l10n-name="restore-problems">¿Sigues teniendo problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ningún archivo seleccionado
