@@ -696,6 +696,8 @@ newtab-widget-timer-menu-notifications = 关闭通知
 newtab-widget-timer-menu-notifications-on = 开启通知
 newtab-widget-timer-menu-hide = 隐藏计时器
 newtab-widget-timer-menu-learn-more = 详细了解
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = 头条新闻
 newtab-daily-briefing-card-menu-dismiss = 知道了
 newtab-widget-message-title = 借助清单和内置计时器，聚焦重点、保持专注。
 # to-dos stands for "things to do".
@@ -704,5 +706,14 @@ newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 建设一个更好的互联网的使命，离不开我们赞助商的支持
 newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
+    .title = 知道了
+    .aria-label = 知道了
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
     .title = 知道了
     .aria-label = 知道了
