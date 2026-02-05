@@ -852,9 +852,6 @@ home-custom-homepage-subpage =
     .heading = Swójska startowa strona
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adresy websydłow
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adresy websydłow
 home-custom-homepage-address =
     .placeholder = Adresu zapodać
 home-custom-homepage-address-button =
