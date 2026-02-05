@@ -812,6 +812,9 @@ home-custom-homepage-address =
 home-custom-homepage-address-button =
     .label = Zonte direzion
 # Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nol è stât zontât ancjemò nissun sît.
+# Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Nol è stât zontât ancjemò nissun sît.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
