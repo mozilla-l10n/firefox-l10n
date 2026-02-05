@@ -115,6 +115,9 @@ fxa-adoption-passwords-primary-button-label = Regístrate
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Mantén tus feeds favoritos en tu barra de tareas
+taskbar-tabs-social-callout-subtitle = Inicia tus sitios sociales como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-chat-callout-title = Chatea desde tu barra de tareas
+taskbar-tabs-chat-callout-subtitle = Inicia tus sitios de chat como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mantén tu correo electrónico en la barra de tareas
 taskbar-tabs-email-callout-subtitle = Inicia tu correo web como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
@@ -123,7 +126,11 @@ taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
 
 windows-10-eos-sync-urgency-title-1 = No pierdas todo lo que hayas guardado al migrar a Windows 11.
 windows-10-eos-sync-urgency-subtitle-1 = Sincroniza ahora para mantener tus marcadores, contraseñas y ajustes de { -brand-short-name } seguros y fáciles de restaurar.
+windows-10-eos-sync-urgency-title-2 = ¿Te despides de Windows 10? Protege tus datos al cambiar.
+windows-10-eos-sync-urgency-subtitle-2 = Incluso si no usas { -brand-short-name } a diario, sincroniza para mantener los marcadores y las contraseñas seguros y accesibles.
 windows-10-eos-sync-new-device-title-1 = No te arriesgues a empezar desde cero en tu próximo dispositivo.
+windows-10-eos-sync-new-device-subtitle-1 = Sincroniza para llevar contigo tus marcadores, contraseñas y ajustes preferidos de { -brand-short-name } cuando te mudas.
+windows-10-eos-sync-new-device-title-2 = ¿Te cambias de dispositivo? No pierdas lo que importa.
 windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Mostrar menos recomendaciones
