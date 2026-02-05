@@ -846,9 +846,6 @@ home-custom-homepage-subpage =
     .heading = Προσαρμοσμένη αρχική σελίδα
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Διευθύνσεις ιστοτόπων
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Διευθύνσεις ιστοτόπων
 home-custom-homepage-address =
     .placeholder = Εισαγάγετε διεύθυνση
 home-custom-homepage-address-button =
