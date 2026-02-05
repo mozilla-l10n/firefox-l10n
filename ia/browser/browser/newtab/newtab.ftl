@@ -55,10 +55,10 @@ newtab-topsites-add-search-engine-header = Adder un motor de recerca
 newtab-topsites-add-shortcut-header = Nove accesso directe
 newtab-topsites-edit-topsites-header = Modificar le sito preferite
 newtab-topsites-edit-shortcut-header = Modificar accesso directe
-newtab-topsites-add-shortcut-label = Adder via-breve
+newtab-topsites-add-shortcut-label = Adder accesso directe
 newtab-topsites-add-shortcut-title =
-    .title = Adder via-breve
-    .aria-label = Adder via-breve
+    .title = Adder accesso directe
+    .aria-label = Adder accesso directe
 newtab-topsites-title-label = Titulo
 newtab-topsites-title-input =
     .placeholder = Scriber un titulo
@@ -598,7 +598,7 @@ newtab-download-mobile-highlight-image =
 ## Strings for shortcuts highlight
 
 newtab-shortcuts-highlight-title = Tu preferentias a tu punctas de digitos
-newtab-shortcuts-highlight-subtitle = Adde un via-breve pro mantener tu sitos favorite a portata de clic.
+newtab-shortcuts-highlight-subtitle = Adde un accesso directe pro mantener tu sitos favorite a portata de clic.
 
 ## Strings for reporting issues with ads and content
 

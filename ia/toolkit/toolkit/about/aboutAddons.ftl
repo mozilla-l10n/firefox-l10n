@@ -223,7 +223,7 @@ shortcuts-input =
     .placeholder = Insere un accesso directe
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
-    .aria-label = Remover via-breve
+    .aria-label = Remover accesso directe
 shortcuts-browserAction2 = Activar le button del barra de utensiles
 shortcuts-pageAction = Activar le action del pagina
 shortcuts-sidebarAction = Monstrar/celar le barra lateral
