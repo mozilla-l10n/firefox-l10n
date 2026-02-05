@@ -25,6 +25,7 @@ perftools-heading-local-build = בנייה מקומית
 ##
 
 perftools-description-intro = ההקלטות פותחות את <a>profiler.firefox.com</a> בלשונית חדשה. כל הנתונים מאוחסנים באופן מקומי, אך באפשרותך לבחור להעלות אותם לצורך שיתוף.
+perftools-pick-local-build-directory = בחירת ספריית בנייה
 
 ## The controls for the interval at which the profiler samples the code.
 
