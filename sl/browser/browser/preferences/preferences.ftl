@@ -820,11 +820,17 @@ home-custom-homepage-header = Domača stran po meri
 home-custom-homepage-subpage =
     .heading = Domača stran po meri
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Naslov spletnega mesta oz. spletnih mest
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Naslov spletnega mesta oz. spletnih mest
 home-custom-homepage-address =
     .placeholder = Vnesite naslov
 home-custom-homepage-address-button =
     .label = Dodaj naslov
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Dodano ni še nobeno spletno mesto.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dodano ni še nobeno spletno mesto.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
