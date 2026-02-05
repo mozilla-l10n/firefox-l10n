@@ -120,6 +120,8 @@ taskbar-tabs-chat-callout-title = Chatea desde tu barra de tareas
 taskbar-tabs-chat-callout-subtitle = Inicia tus sitios de chat como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mantén tu correo electrónico en la barra de tareas
 taskbar-tabs-email-callout-subtitle = Inicia tu correo web como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-media-callout-title = Regresa a transmitir desde tu barra de tareas
+taskbar-tabs-media-callout-subtitle = Inicia tus sitios de streaming como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
 
 ## Windows 10 EoS Sync messages group 1 callouts
@@ -131,6 +133,7 @@ windows-10-eos-sync-urgency-subtitle-2 = Incluso si no usas { -brand-short-name 
 windows-10-eos-sync-new-device-title-1 = No te arriesgues a empezar desde cero en tu próximo dispositivo.
 windows-10-eos-sync-new-device-subtitle-1 = Sincroniza para llevar contigo tus marcadores, contraseñas y ajustes preferidos de { -brand-short-name } cuando te mudas.
 windows-10-eos-sync-new-device-title-2 = ¿Te cambias de dispositivo? No pierdas lo que importa.
+windows-10-eos-sync-new-device-subtitle-2 = No importa con qué frecuencia uses { -brand-short-name }, la sincronización protege tus marcadores, contraseñas y ajustes.
 windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Mostrar menos recomendaciones

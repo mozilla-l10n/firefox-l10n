@@ -53,6 +53,7 @@ category-privacy =
 pane-sync-title3 = Sincronizar
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controles de IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
@@ -375,6 +376,8 @@ preferences-text-zoom-override-warning =
     .message = Advertencia: si seleccionas "Ampliar solo texto" y tu aumento predeterminado no está configurado en 100%, podría ser que algunos sitios o contenidos fallen.
 language-header = Idioma
 choose-language-description = Elegir el idioma preferido para mostrar las páginas web
+website-add-language =
+    .label = Agregar idioma
 choose-button =
     .label = Seleccionar…
     .accesskey = o
@@ -411,6 +414,8 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } { $size }MB)
     .label = { $language } { $size }MB)
+settings-translations-subpage-download-retry-button =
+    .label = Intentar de nuevo
 settings-translations-subpage-download-delete-button =
     .label = Eliminar
 settings-translations-subpage-download-cancel-button =
@@ -585,6 +590,9 @@ update-in-progress-cancel-button = &Continuar
 
 ## Firefox support
 
+support-application-heading =
+    .label = Soporte de { -brand-short-name }
+    .description = Soluciona problemas o comparte ideas con la comunidad.
 support-get-help =
     .label = Obtener ayuda
 support-share-ideas =
