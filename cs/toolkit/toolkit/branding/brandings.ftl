@@ -163,6 +163,7 @@
     .gender = masculine
     .case-status = with-cases
 -solo-ai-brand-name = Solo
+-mdn-brand-name = Webová dokumentace MDN
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
