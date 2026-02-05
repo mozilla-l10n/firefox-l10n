@@ -725,6 +725,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = 讓這塊空間有您的風格
+newtab-activation-window-message-customization-focus-message = 選擇全新的背景圖、加入您最愛網站的捷徑，並且隨時取得您有興趣的文章的最新資訊。
 newtab-activation-window-message-customization-focus-primary-button =
     .label = 開始自訂
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -732,3 +733,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 這個空間可以用您想要的方式安排
+newtab-activation-window-message-values-focus-message = { -brand-product-name } 讓您可以用自己想要的方式上網，用更個人化的方式開啟每一天。讓 { -brand-product-name } 有您獨特的風格。

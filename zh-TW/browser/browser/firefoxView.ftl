@@ -132,6 +132,14 @@ firefoxview-synced-tabs-nav = 其他裝置的分頁
     .title = 其他裝置的分頁
 firefoxview-synced-tabs-header = 其他裝置的分頁
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = 聊天紀錄
+    .title = 聊天紀錄
+firefoxview-chats-header = 聊天紀錄
+firefoxview-chat-context-delete = 從聊天紀錄刪除
+    .accesskey = D
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -164,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = 搜尋開啟的分頁
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = 搜尋聊天紀錄
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

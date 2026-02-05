@@ -152,6 +152,12 @@ autofill-card-expires-month = 到期月份
 autofill-card-expires-year = 到期年分
 autofill-card-billing-address = 帳單地址
 autofill-card-network = 卡片類型
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = 信用卡, 信用, 卡片, 卡, 簽帳卡, 金融卡, 提款卡, 借記卡, 錢包, 結帳, 付款, 支付, credit cards, credit, cards, debit cards, debit, wallet, checkout
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
