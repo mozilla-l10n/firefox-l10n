@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } веб-сайттарды �
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Тегін, жан-жақты нұсқаулықтар мен сілтемелер арқылы веб-әзірлеуді үйреніңіз.
 more-from-moz-mdn-button = Веб әзірлеуді үйрену
+more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -227,6 +227,9 @@ sidebar-genai-survey-satisfaction-question = Бүйір панелінде AI ч
 sidebar-genai-survey-productive-question =
     Сіз бұл мәлімдемемен қаншалықты келісесіз:<br/>
     "Бүйір панеліндегі AI чат-боты маған өнімдірек болуға көмектеседі"?
+splitview-onboarding-callout-cta-1 = Қазір қолданып көру
+splitview-onboarding-callout-title-2 = Бөлінген көрініспен бір уақытта екі бетті көру
+splitview-onboarding-callout-cta-2 = Бөлінген көріністі қолданып көру
 unified-search-callout-title = Іздеу жүйелері арасында ауысу
 unified-search-callout-subtitle = Нақты іздеуіңізге ең қолайлы нұсқаны таңдаңыз.
 unified-search-callout-primary-label = Келесі
