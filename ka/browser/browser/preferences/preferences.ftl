@@ -583,6 +583,9 @@ update-in-progress-ok-button = &უარყოფა
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = წარმადობა
@@ -734,9 +737,6 @@ home-custom-homepage-subpage =
     .heading = მორგებული საწყისი გვერდი
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = საიტის მისამართ(ებ)ი
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = საიტის მისამართ(ებ)ი
 home-custom-homepage-address =
     .placeholder = შეიყვანეთ მისამართი
 home-custom-homepage-address-button =
@@ -1004,6 +1004,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1994,3 +1999,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
 choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
+
+## AI controls page
+
