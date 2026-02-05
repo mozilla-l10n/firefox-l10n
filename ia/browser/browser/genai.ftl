@@ -130,7 +130,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Celar le accesso directe durante le selection de texto
 genai-options-about-chatbot =
-    .label = Re le chatbots IA in { -brand-short-name }
+    .label = A proposito del chatbots IA in { -brand-short-name }
 
 ## Chatbot message
 
