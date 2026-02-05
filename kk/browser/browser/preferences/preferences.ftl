@@ -846,9 +846,6 @@ home-custom-homepage-subpage =
     .heading = Арнайы басты бет
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Веб-сайт адрес(тер)і
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Веб-сайт адрес(тер)і
 home-custom-homepage-address =
     .placeholder = Адресті енгізу
 home-custom-homepage-address-button =
