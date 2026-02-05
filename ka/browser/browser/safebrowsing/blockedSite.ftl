@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = თაღლითური საიტი
 safeb-blocked-malware-page-title = საიტზე გადასვლამ შესაძლოა, ავნოს თქვენს კომპიუტერს
 safeb-blocked-unwanted-page-title = ეს საიტი შესაძლოა, მავნე პროგრამებს შეიცავდეს
 safeb-blocked-harmful-page-title = ეს საიტი შესაძლოა, მავნე კოდს შეიცავდეს
+safeb-blocked-addon-page-title = საიტი შეიზღუდა თქვენი უსაფრთხოებისთვის
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა, მოტყუებით დაგაყენებინოთ პროგრამა ან ხელყოს თქვენი პირადი მონაცემები, მათ შორის პაროლები ან საკრედიტო ბარათების ნომრები.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან ცდილობდა მავნე პროგრამის დაყენებას, რომელსაც შეეძლო მოეპარა ან გაენადგურებინა პირადი მონაცემები თქვენს კომპიუტერში.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა, მოტყუებით დაგაყენებინოთ პროგრამა, რომელიც ხელყოფს თქვენს ბრაუზერს (მაგალითად, შეგიცვლით საწყის გვერდს, ამოგიგდებთ დამატებით რეკლამებს საიტებზე და ა. შ.).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა, სახიფათო პროგრამას აყენებდეს და იპარავდეს ან აზიანებდეს თქვენს პირად მონაცემებს (როგორიცაა ფოტოები, პაროლები, შეტყობინებები და საკრედიტო ბარათები).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან ერთ-ერთი თქვენი დამატება შეეცადა მის გახსნას. ეს საიტი შესაძლოა გამოიყენებოდეს თქვენი მონაცემების ხელყოფისთვის — მათ შორის პაროლებისა თუ საკრედიტო ბარათის ნომრების.</p>
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = ინფორმაციის მომწოდებელი: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -69,3 +71,6 @@ safeb-palm-notdeceptive =
 
 safeb-blocked-addon-page-error-desc-override = <strong>რატომ შეიზღუდა ეს საიტი?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> შესაძლოა თაღლითურ და მავნე ქმედებებთან იყოს კავშირში.
+safeb-blocked-addon-page-error-desc3-override = <strong>რისი გაკეთება შეიძლება?</strong>
+safeb-blocked-addon-page-error-desc4-override = ამის თავიდან ასაცილებლად, შეგიძლიათ ამოშალოთ ან გამორთოთ <strong>{ $addonName }</strong> გვერდიდან about:addons.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } თაღლითური და მავნე მასალებისგან</a>.

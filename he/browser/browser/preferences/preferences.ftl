@@ -399,6 +399,13 @@ preferences-text-zoom-override-warning =
     .message = אזהרה: בחירה באפשרות ״שינוי גודל טקסט בלבד״ בעת שהמרחק מתצוגה ברירת המחדל שלך אינו מוגדר ל־100%, עלולה לגרום לאתרים או תוכן מסוים להישבר.
 language-header = שפה
 choose-language-description = בחירת השפה המועדפת עליך להצגת דפים
+website-preferred-language =
+    .label = שפות מועדפות
+website-add-language =
+    .label = הוספת שפה
+website-add-language-button =
+    .aria-label = הוספת השפה שנבחרה
+    .title = הוספת השפה שנבחרה
 # The pattern used to generate strings presented to the user in the
 # website languages selection list.
 #
