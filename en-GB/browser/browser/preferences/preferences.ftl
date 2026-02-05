@@ -845,11 +845,17 @@ home-custom-homepage-header = Custom Homepage
 home-custom-homepage-subpage =
     .heading = Custom Homepage
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Web site address(es)
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Web site address(es)
 home-custom-homepage-address =
     .placeholder = Enter address
 home-custom-homepage-address-button =
     .label = Add address
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = No web sites added yet.
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = No web sites added yet.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
