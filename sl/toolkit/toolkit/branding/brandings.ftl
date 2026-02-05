@@ -40,6 +40,7 @@
        *[imenovalnik] Fakespot
     }
 -solo-ai-brand-name = Solo
+-mdn-brand-name = Spletna dokumentacija MDN
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
