@@ -37,6 +37,8 @@ tabbrowser-close-tabs-button =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label = 탭 { $tabCount }개 닫기
+tab-splitview-splitter =
+    .aria-label = 분할 화면 탭 크기 조정
 
 ## Tooltips for tab audio control
 ## Variables:

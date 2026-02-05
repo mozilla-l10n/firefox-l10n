@@ -522,6 +522,7 @@ pdfjs-editor-undo-bar-message-freetext = 텍스트 제거됨
 pdfjs-editor-undo-bar-message-ink = 그리기 제거됨
 pdfjs-editor-undo-bar-message-stamp = 이미지 제거됨
 pdfjs-editor-undo-bar-message-signature = 서명 제거됨
+pdfjs-editor-undo-bar-message-comment = 주석 제거됨
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = 주석 { $count }개 제거됨

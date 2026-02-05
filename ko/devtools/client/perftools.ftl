@@ -33,6 +33,7 @@ perftools-description-local-build =
     직접 컴파일한 빌드를 프로파일링하는 경우
     이 컴퓨터에서 빌드의 objdir을 아래 목록에 추가하여 
     기호 정보를 조회하는 데 사용할 수 있습니다.
+perftools-pick-local-build-directory = 빌드 디렉터리 선택
 
 ## The controls for the interval at which the profiler samples the code.
 

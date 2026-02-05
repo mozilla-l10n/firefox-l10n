@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI 웹 사이트 생성기
 more-from-moz-mdn-title = MDN 웹 문서
 more-from-moz-mdn-description = 무료 종합 가이드와 참조 자료를 통해 웹 개발을 배워보세요.
 more-from-moz-mdn-button = 웹 개발 배우기
+more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI 网站创建工具
 more-from-moz-mdn-title = MDN Web 文档
 more-from-moz-mdn-description = 详尽且免费的指南和参考，助力学习 Web 开发。
 more-from-moz-mdn-button = 学习 Web 开发
+more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -728,6 +728,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = 이 공간을 나만의 공간으로 만들기
+newtab-activation-window-message-customization-focus-message = 새로운 배경 화면을 선택하고, 즐겨찾는 사이트에 대한 바로 가기를 추가하고, 관심 있는 최신 뉴스를 받아보세요.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = 맞춤 설정 시작
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -735,3 +736,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 이 공간은 유연하고 사용자 정의가 가능합니다
+newtab-activation-window-message-values-focus-message = { -brand-product-name }는 사용자가 원하는 방식으로 탐색할 수 있게 해주며, 온라인에서 하루를 시작하는 더 개인화된 방법을 제공합니다. 나만의 { -brand-product-name }를 만드세요.
