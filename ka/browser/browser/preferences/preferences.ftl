@@ -1096,6 +1096,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = სინქრონიზაცია
+account-group-label =
+    .label = { -vendor-short-name }-ანგარიში
+account-placeholder =
+    .label = შესული არ ხართ.
+    .description = შედით, რომ თქვენი მონაცემები დარჩეს პირადული, დაშიფრული და დასინქრონებული სხვადასხვა მოწყობილობაზე.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1108,6 +1113,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = შედით თქვენს ანგარიშზე დასინქრონებისთვის
     .accesskey = დ
+sync-signedout-account-short =
+    .label = შესვლა
+    .accesskey = ს
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1146,6 +1154,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } გადამოწმებული არაა.
+sync-signedin-unverified2 =
+    .label = { $email } ჯერ არ დამოწმებულა
+    .description = იხილეთ საფოსტო ყუთი ანგარიშის დასამოწმებლად და ასამოქმედებლად
 sync-signedin-login-failure = ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში { $email }
 
 ##
@@ -1214,6 +1225,9 @@ sync-currently-syncing-addons = დამატებები
 sync-currently-syncing-settings = პარამეტრები
 sync-manage-options =
     .label = სინქრონიზაციის მართვა…
+    .accesskey = მ
+sync-manage-options-2 =
+    .label = დასინქრონებული მონაცემების მართვა
     .accesskey = მ
 sync-change-options =
     .label = შეცვლა…
