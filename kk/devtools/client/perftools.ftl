@@ -33,6 +33,7 @@ perftools-description-local-build =
     Егер сіз бұл машинада өзіңіз құрастырған жинақты профильдейтін
     болсаңыз, оның objdir бумасын төмендегі тізімге қосыңыз,
     нәтижесінде ол бумадан да таңбалар ақпараты ізделетін болады.
+perftools-pick-local-build-directory = Құрастыру бумасын таңдау
 
 ## The controls for the interval at which the profiler samples the code.
 

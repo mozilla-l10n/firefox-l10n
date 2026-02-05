@@ -62,3 +62,10 @@ safeb-blocked-harmful-page-learn-more = იხილეთ ვრცლად, �
 safeb-palm-notdeceptive =
     .label = ეს თაღლითური საიტი არაა…
     .accesskey = ე
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>რატომ შეიზღუდა ეს საიტი?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> შესაძლოა თაღლითურ და მავნე ქმედებებთან იყოს კავშირში.

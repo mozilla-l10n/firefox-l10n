@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Бетті жабу
            *[other] { $tabCount } бетті жабу
         }
+tab-splitview-splitter =
+    .aria-label = Бөлінген көрініс беттерінің өлшемін өзгерту
 
 ## Tooltips for tab audio control
 ## Variables:
