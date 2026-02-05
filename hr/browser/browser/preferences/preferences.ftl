@@ -849,9 +849,6 @@ home-custom-homepage-subpage =
     .heading = Prilagođena početna stranica
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-subheader = Adrese web-stranica
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-card =
-    .heading = Adrese web-stranica
 home-custom-homepage-address =
     .placeholder = Upiši adresu
 home-custom-homepage-address-button =
