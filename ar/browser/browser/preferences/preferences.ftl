@@ -1202,9 +1202,17 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = كلمات السر المحفوظة
     .accesskey = ت
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = حماية إضافية
 forms-primary-pw-use =
     .label = استعمل كلمة سر رئيسيّة
     .accesskey = س
+forms-primary-pw-set =
+    .label = عيِّن كلمة سر رئيسية
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = عطّله
 forms-primary-pw-learn-more-link = اطّلع على المزيد
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1250,6 +1258,26 @@ autofill-payment-methods-checkbox-message = احفظ واملء طرق الدف�
     .accesskey = ف
 autofill-saved-payment-methods-button = طرق الدفع المحفوظة
     .accesskey = ع
+payments-list-header =
+    .label = طرق الدفع
+payments-delete-payment-prompt-confirm-button = احذف
+payments-delete-payment-prompt-cancel-button = ألغِ
+payments-delete-payment-button-label =
+    .aria-label = احذف
+payments-edit-payment-button-label =
+    .aria-label = حرّر
+payments-remove-payment-prompt-confirm-button = أزِل
+payments-remove-payment-prompt-cancel-button = ألغِ
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
+payments-group =
+    .label = طرق الدفع
 
 ## Privacy Section - History
 
@@ -1319,6 +1347,8 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = الكعكات و بيانات المواقع
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = يحسب حجم بيانات الموقع و الخبيئة…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1385,6 +1415,8 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = شريط العناوين
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = عند استخدام شريط العناوين، اقترح
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = شريط العناوين — { -firefox-suggest-brand-name }
@@ -1484,6 +1516,7 @@ content-blocking-etp-blocking-desc = يحجب { -brand-short-name } الآتي:
 content-blocking-private-windows = المحتوى الذي يتعقّبك في النوافذ الخاصة
 content-blocking-cross-site-tracking-cookies = كعكات تتعقّبك بين المواقع
 content-blocking-all-cross-site-cookies-private-windows = الكعكات بين المواقع في النوافذ الخاصة
+content-blocking-isolate-cross-site-cookies = اعزل الكعكات بين المواقع
 content-blocking-cross-site-tracking-cookies-plus-isolate = المتعقّبات التي تعبر المواقع، واعزل بقية الكعكات
 content-blocking-social-media-trackers = متعقبات مواقع التواصل الاجتماعي
 content-blocking-all-cookies = كل الكعكات
@@ -1611,6 +1644,9 @@ permissions-camera2 =
     .label = الكاميرا
 permissions-microphone2 =
     .label = الميكروفون
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = مكبر الصوت
 permissions-notification2 =
     .label = التنبيهات
 
