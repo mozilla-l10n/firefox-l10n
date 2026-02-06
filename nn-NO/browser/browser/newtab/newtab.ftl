@@ -152,7 +152,7 @@ newtab-privacy-modal-button-done = Ferdig
 newtab-privacy-modal-button-manage = Handsam innstillingar for sponsa innhald
 newtab-privacy-modal-header = Personvernet ditt er viktig.
 newtab-privacy-modal-paragraph-2 =
-    I tillegg til å servere fengslande historier, viser vi deg også relevant og
+    I tillegg til å servere fengslande artiklar, viser vi deg også relevant og
     høgt kontrollert innhald frå utvalde sponsorar. Du kan vere sikker på, <strong>at surfedata dine
     aldri forlèt det personlege eksemplaret ditt av  { -brand-product-name }</strong> — vi ser dei ikkje, og sponsorane våre ser dei ikkje heller.
 newtab-privacy-modal-link = Lær deg korleis personvernet fungerer på den nye fana
