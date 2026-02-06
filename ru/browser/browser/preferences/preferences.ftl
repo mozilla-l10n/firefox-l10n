@@ -2231,7 +2231,7 @@ choose-download-folder-title = Выберите папку для загрузо
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-description = В { -brand-short-name } у вас всегда есть выбор, в том числе использовать ли функции, улучшенные с помощью ИИ. Скоро будет ещё больше элементов управления.
-preferences-ai-controls-block-ai-label = Блокировать ИИ-улучшения ИИ
+preferences-ai-controls-block-ai-label = Блокировать ИИ-улучшения
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Блокировка означает, что вы не увидите новые или текущие ИИ-улучшения в { -brand-short-name }, а также всплывающие окна о них. <a data-l10n-name="link">Узнайте больше</a> о том, что включено и как управлять типичными функциями машинного обучения, такими как поисковые предложения и рекомендации.
@@ -2269,7 +2269,7 @@ preferences-ai-controls-state-blocked =
     .label = Заблокировано
 preferences-ai-controls-state-description-before = Что означают параметры:
 preferences-ai-controls-state-description-available = <strong>Доступно:</strong> Вы увидите эту функцию и сможете её использовать.
-preferences-ai-controls-state-description-enabled = <strong>Включена:</strong> Вы согласились использовать эту функцию.
+preferences-ai-controls-state-description-enabled = <strong>Включено:</strong> Вы согласились использовать эту функцию.
 preferences-ai-controls-state-description-blocked = <strong>Заблокировано:</strong> Вы не увидите и не сможете использовать эту функцию. Для ИИ на устройстве любые уже загруженные модели удаляются.
 preferences-ai-controls-block-confirmation-heading = Блокировать ИИ-улучшения?
 preferences-ai-controls-block-confirmation-description = Вы не увидите новых или текущих улучшений ИИ в { -brand-short-name } или всплывающих окон о них. После этого вы можете разблокировать всё, что захотите продолжить использовать.

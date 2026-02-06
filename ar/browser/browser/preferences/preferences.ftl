@@ -1644,9 +1644,6 @@ permissions-camera2 =
     .label = الكاميرا
 permissions-microphone2 =
     .label = الميكروفون
-# Privacy permission for sound output devices.
-permissions-speaker2 =
-    .label = مكبر الصوت
 permissions-notification2 =
     .label = التنبيهات
 
@@ -1767,6 +1764,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = وضع HTTPS فقط
     .description = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -1836,6 +1835,20 @@ choose-download-folder-title = اختر مجلّد التّنزيلات:
 
 ## AI controls page
 
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-translations-control =
     .label = الترجمات
     .description = تصفح الوِب بسهولة في لغتك المفضلة.
+preferences-ai-controls-translations-more-link = المزيد من إعدادات الترجمة
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = متاح
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = مفعّل
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = محجوب
