@@ -228,6 +228,7 @@ sidebar-genai-survey-productive-question =
     ¿Mba’eichaitépa emoneĩ térã embotove ko ñemoneĩ:<br/>
     “Pe chatbot IA rehegua renda yke cheipytyvõ che guapove hag̃ua”?
 splitview-onboarding-callout-title-1 = Jehecha vorepyre: ejapo porã hag̃ua tembiapoita
+splitview-onboarding-callout-subtitle-1 = Eikutu akatuagua ko tendayképe ha eiporavo “Mbojuaju hechaha vorepyre” ehecha hag̃ua mokõi tendayke ojoja.
 splitview-onboarding-callout-cta-1 = Eiporu ko’ág̃a
 splitview-onboarding-callout-title-2 = Ehecha mokõi tendayke oñondive jehecha vorepyrépe
 splitview-onboarding-callout-cta-2 = Jehecha vorepyre

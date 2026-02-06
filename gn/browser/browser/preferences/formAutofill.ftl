@@ -152,6 +152,12 @@ autofill-card-expires-month = Exp. Jasy
 autofill-card-expires-year = Exp. Ary
 autofill-card-billing-address = Kundaharape ñemondo hag̃ua
 autofill-card-network = Peteĩchagua kuatia’atã
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = kuatia’atã ñemurã, jedeverã, kuatia’atã, kuatia’atã débito, débito, viruryru, hepyme’ẽ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
