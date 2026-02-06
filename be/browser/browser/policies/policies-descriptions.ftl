@@ -56,6 +56,7 @@ policy-DisablePocket2 = Адключыць магчымасць захаванн
 policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.
 policy-DisableProfileImport = Адключыць каманду меню для імпарту даных з іншага браўзера.
 policy-DisableProfileRefresh = Адключыць кнопку «Абнавіць { -brand-short-name }» на старонцы «about:support».
+policy-DisableRemoteImprovements = Забараніць { -brand-short-name } прымяняць змены прадукцыйнасці, стабільнасці і функцый паміж абнаўленнямі.
 policy-DisableSafeMode = Выключыць функцыю перазапуску ў бяспечным рэжыме. Заўвага: уваход у бяспечны рэжым з дапамогай клавішы Shift можа быць выключаны толькі праз групавыя палітыкі Windows.
 policy-DisableSecurityBypass = Не даваць карыстальніку абыходзіць пэўныя папярэджанні бяспекі.
 policy-DisableSetAsDesktopBackground = Адключыць каманду меню "Усталяваць як фон працоўнага стала…" для выяваў.
