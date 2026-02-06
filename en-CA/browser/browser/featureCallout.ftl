@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = How satisfied are you with having a
 sidebar-genai-survey-productive-question =
     To what extent do you agree or disagree with this statement:<br/>
     “The AI chatbot in the sidebar helps me be more productive”?
+splitview-onboarding-callout-title-1 = Split view: a better way to multitask
+splitview-onboarding-callout-subtitle-1 = Right click this tab and choose “Add Split View” to see two tabs at once.
+splitview-onboarding-callout-cta-1 = Try it now
+splitview-onboarding-callout-title-2 = See two tabs at once with split view
+splitview-onboarding-callout-subtitle-2 = No extra windows. No tab flipping. Right-click this tab and choose “Add Split View.”
+splitview-onboarding-callout-cta-2 = Try split view
 unified-search-callout-title = Switch between search engines
 unified-search-callout-subtitle = Choose what works best for your specific search.
 unified-search-callout-primary-label = Next
