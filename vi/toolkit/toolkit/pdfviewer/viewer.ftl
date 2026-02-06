@@ -522,6 +522,7 @@ pdfjs-editor-undo-bar-message-freetext = Đã xóa văn bản
 pdfjs-editor-undo-bar-message-ink = Đã xóa bản vẽ
 pdfjs-editor-undo-bar-message-stamp = Đã xóa hình ảnh
 pdfjs-editor-undo-bar-message-signature = Chữ ký đã bị xoá
+pdfjs-editor-undo-bar-message-comment = Đã xoá chú thích
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = { $count } chú thích đã bị xóa

@@ -152,6 +152,12 @@ autofill-card-expires-month = Hết hạn tháng
 autofill-card-expires-year = Hết hạn năm
 autofill-card-billing-address = Địa chỉ thanh toán
 autofill-card-network = Loại thẻ
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = thẻ tín dụng, tín dụng, thẻ, thẻ ghi nợ, ghi nợ, ví, thanh toán
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

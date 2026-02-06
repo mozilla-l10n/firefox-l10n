@@ -715,3 +715,25 @@ newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
     .title = Bỏ qua
     .aria-label = Bỏ qua
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Bỏ qua
+    .aria-label = Bỏ qua
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Hãy biến không gian này thành của riêng bạn.
+newtab-activation-window-message-customization-focus-message = Chọn hình nền mới, thêm lối tắt đến các trang web yêu thích của bạn và cập nhật những câu chuyện mà bạn quan tâm.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Bắt đầu tuỳ chỉnh
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Không gian này tuân theo luật lệ của bạn.
+newtab-activation-window-message-values-focus-message = { -brand-product-name } cho phép bạn duyệt web theo cách bạn thích, với cách thức cá nhân hơn để bắt đầu ngày mới trực tuyến. Biến { -brand-product-name } thành của riêng bạn.
