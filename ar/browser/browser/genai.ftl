@@ -3,6 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chatbot prompts
+## Prompts are plain language ‘instructions’ sent to a chatbot.
+## These prompts have been made concise and direct in English because some chatbot providers
+## have character restrictions and being direct reduces the chance for misinterpretation.
+## When localizing, please be concise and direct, but not at the expense of losing meaning.
+
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = اختبرني
+    .value = يُرجى اختباري في هذا الجزء. اطرح عليّ أنواعًا مختلفة من الأسئلة، على سبيل المثال: اختيار من متعدد، صح أو خطأ، وأسئلة ذات إجابات قصيرة. انتظر ردي قبل الانتقال إلى السؤال التالي.
+
 ## Chatbot menu shortcuts
 
 # $provider (string) - name of the provider

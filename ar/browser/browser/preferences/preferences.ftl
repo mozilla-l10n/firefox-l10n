@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = المزامنة
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = أنظمة التحكم بالذكاء الاصطناعي
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = تجارب { -brand-short-name }
 category-experimental =
     .tooltiptext = تجارب { -brand-short-name }
@@ -159,6 +162,9 @@ preferences-profiles-header = ملفات الإعدادات
 preferences-manage-profiles-learn-more = اطّلع على المزيد
 preferences-manage-profiles-button =
     .label = أدِر ملفات الإعدادات
+preferences-profiles-settings-button =
+    .label = الإعدادات
+preferences-copy-profile-button = انسخ
 tabs-group-header2 =
     .label = الألسنة
 tabs-group-header = الألسنة
@@ -168,6 +174,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = افتح الروابط في ألسنة بدل فتح نوافذ جديدة
     .accesskey = ن
+open-external-link-next-to-active-tab =
+    .label = افتح الروابط من التطبيقات الموجودة بجوار اللسان النشط
 ask-on-close-multiple-tabs =
     .label = اسأل قبل محاولة إغلاق عدّة ألسنة
     .accesskey = د
@@ -303,6 +311,9 @@ preferences-web-appearance-override-warning3 =
     .message = إعدادات التحكم في التباين لديك تتغلب على مظهر موقع الوِب.
 preferences-web-appearance-link =
     .label = أدِر سمات { -brand-short-name } في الامتدادات والسمات
+preferences-contrast-control-group =
+    .label = تباين الموقع
+    .description = تستخدم المواقع الإلكترونية مجموعة متنوعة من ألوان الخلفية والنصوص. لضمان تباين ثابت، يمكنك استخدام نفس الألوان عبر جميع المواقع.
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
@@ -310,6 +321,7 @@ preferences-web-appearance-override-warning = إن اختياراتك للألو
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = أدِر سمات { -brand-short-name } في الامتدادات والسمات <a data-l10n-name="themes-link"></a>
 preferences-contrast-control-header = التحكم في التباين
+preferences-contrast-control-description = تتنوع ألوان النصوص والخلفيات في المواقع الإلكترونية. استخدم { -brand-short-name } لتوحيد الألوان في جميع المواقع لتحسين سهولة القراءة.
 preferences-contrast-control-use-platform-settings =
     .label = تلقائي (استخدام إعدادات النظام)
     .accesskey = ع
@@ -351,6 +363,18 @@ preferences-zoom-text-only =
     .accesskey = ن
 language-header = اللّغات
 choose-language-description = اختر لغتك المفضلة لعرض الصفحات
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = أزِل { $locale }
+    .title = أزِل { $locale }
 choose-button =
     .label = اختر…
     .accesskey = خ
@@ -370,6 +394,31 @@ translate-attribution = ترجمات <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
+settings-translations-subpage-automatic-translation-header =
+    .label = الترجمة التلقائية
+settings-translations-subpage-always-translate-header =
+    .label = ترجم هذه اللغات دائمًا
+settings-translations-subpage-never-translate-header =
+    .label = لا تترجم هذه اللغات أبدًا
+settings-translations-subpage-never-translate-sites-header =
+    .label = لا تترجم هذه المواقع أبدًا
+settings-translations-subpage-language-select-option =
+    .label = أضِف لغة
+settings-translations-subpage-language-add-button =
+    .aria-label = أضِف لغة
+    .title = أضِف لغة
+settings-translations-subpage-download-languages-header =
+    .label = نزّل اللغات
+settings-translations-subpage-download-languages-select-option =
+    .label = اختر لغة
+settings-translations-subpage-download-languages-button =
+    .aria-label = نزّل اللغة
+    .title = نزّل اللغة
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } م.بايت)
+    .label = { $language } ({ $size } م.بايت)
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
