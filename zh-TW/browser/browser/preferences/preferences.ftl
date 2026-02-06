@@ -1087,7 +1087,7 @@ sync-group-label =
 account-group-label =
     .label = { -vendor-short-name } 帳號
 account-placeholder =
-    .label = 您尚未登入。
+    .label = 您尚未登入
     .description = 登入後即可透過有隱私、加密過的方式，將您的資料同步道不同裝置上。
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
