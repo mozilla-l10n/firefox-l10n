@@ -152,7 +152,7 @@ newtab-privacy-modal-button-done = Ferdig
 newtab-privacy-modal-button-manage = Behandle innstillinger for sponset innhold
 newtab-privacy-modal-header = Personvernet ditt er viktig.
 newtab-privacy-modal-paragraph-2 =
-    I tillegg til å servere fengslende historier, viser vi deg også relevant og
+    I tillegg til å servere fengslende artikler, viser vi deg også relevant og
     høyt kontrollert innhold fra utvalgte sponsorer. Du kan være sikker på, <strong>at dine surfedata
     aldri forlater ditt personlige eksemplar av  { -brand-product-name }</strong> — vi ser dem ikke, og sponsorerene våre ser dem ikke heller.
 newtab-privacy-modal-link = Les mer om hvordan personvernet fungerer på den nye fanen
@@ -724,6 +724,6 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Ignorer
     .aria-label = Ignorer
-newtab-activation-window-message-customization-focus-message = Velg et nytt bakgrunnsbilde, legg til snarveier til favorittnettstedene dine, og hold deg oppdatert på saker som interesserer deg.
+newtab-activation-window-message-customization-focus-message = Velg et nytt bakgrunnsbilde, legg til snarveier til favorittnettstedene dine, og hold deg oppdatert på artikler som interesserer deg.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Begynn å tilpasse
