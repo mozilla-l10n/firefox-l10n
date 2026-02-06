@@ -522,6 +522,7 @@ pdfjs-editor-undo-bar-message-freetext = 已移除文本
 pdfjs-editor-undo-bar-message-ink = 已移除绘图
 pdfjs-editor-undo-bar-message-stamp = 已移除图像
 pdfjs-editor-undo-bar-message-signature = 签名已移除
+pdfjs-editor-undo-bar-message-comment = 已移除批注
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = 已移除 { $count } 条注释
