@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Zapri { $tabCount } zavihke
            *[other] Zapri { $tabCount } zavihkov
         }
+tab-splitview-splitter =
+    .aria-label = Spremeni velikost zavihkov v razdeljenem pogledu
 
 ## Tooltips for tab audio control
 ## Variables:

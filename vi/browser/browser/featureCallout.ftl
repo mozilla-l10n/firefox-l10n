@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Bạn hài lòng đến mức nào 
 sidebar-genai-survey-productive-question =
     Bạn đồng ý hay không đồng ý với khẳng định này ở mức độ nào:<br/>
     “Chatbot AI trong thanh lề giúp tôi làm việc hiệu quả hơn”?
+splitview-onboarding-callout-title-1 = Chế độ chia cửa sổ: một cách tốt hơn để làm nhiều việc cùng lúc.
+splitview-onboarding-callout-subtitle-1 = Nhấp chuột phải vào thẻ này và chọn “Chế độ xem cửa sổ” để xem hai thẻ cùng một lúc.
+splitview-onboarding-callout-cta-1 = Thử ngay bây giờ
+splitview-onboarding-callout-title-2 = Xem hai thẻ cùng lúc với chế độ chia cửa sổ
+splitview-onboarding-callout-subtitle-2 = Không cần mở thêm cửa sổ. Không cần chuyển đổi thẻ. Nhấp chuột phải vào thẻ này và chọn “Chế độ chia cửa sổ”.
+splitview-onboarding-callout-cta-2 = Thử chế độ chia cửa sổ
 unified-search-callout-title = Chuyển giữa các công cụ tìm kiếm
 unified-search-callout-subtitle = Chọn những gì hoạt động tốt nhất cho tìm kiếm cụ thể của bạn.
 unified-search-callout-primary-label = Tiếp

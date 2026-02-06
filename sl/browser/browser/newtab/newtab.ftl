@@ -483,6 +483,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzij
 newtab-weather-menu-change-temperature-units-fahrenheit = Preklopi na stopinje Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Preklopi na stopinje Celzija
+newtab-weather-menu-hide-weather-v2 = Skrij vreme
 newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
 newtab-weather-menu-learn-more = Več o tem
 newtab-weather-menu-detect-my-location = Zaznaj mojo lokacijo
@@ -700,6 +701,12 @@ newtab-widget-timer-menu-notifications = Izklopi obvestila
 newtab-widget-timer-menu-notifications-on = Vklopi obvestila
 newtab-widget-timer-menu-hide = Skrij odštevalnik
 newtab-widget-timer-menu-learn-more = Več o tem
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Glavne novice
+newtab-daily-briefing-card-menu-dismiss = Skrij
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Posodobljeno pred { $minutes } min
 newtab-widget-message-title = Ostanite osredotočeni s seznami in vgrajenim časovnikom
 newtab-promo-card-title = Podprite { -brand-product-name(sklon: "tozilnik") }
 newtab-promo-card-body = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta

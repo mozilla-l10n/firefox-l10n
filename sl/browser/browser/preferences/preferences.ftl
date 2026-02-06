@@ -294,6 +294,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Postavitev brskalnika
+browser-layout-horizontal-tabs2 =
+    .label = Vodoravni zavihki
+    .title = Zavihki na vrhu
+    .description = Zavihki na vrhu
+browser-layout-vertical-tabs2 =
+    .label = Navpični zavihki
+    .title = Zavihki ob strani v stranski vrstici
+    .description = Zavihki ob strani v stranski vrstici
 browser-layout-show-sidebar2 =
     .label = Prikaži stransko vrstico
     .description = Hitro dostopajte do zaznamkov in zavihkov na telefonu, do UI-klepetalnikov in še več, ne da bi zapustili svoj glavni pogled.
@@ -404,6 +412,28 @@ preferences-text-zoom-override-warning =
     .message = Opozorilo: Če izberete "Povečaj le besedilo", privzeta povečava pa ni 100 %, lahko nekatere strani ali vsebina delujejo nepravilno.
 language-header = Jezik
 choose-language-description = Izberite prednosten jezik za prikazovanje strani
+website-language-heading =
+    .label = Jezik spletnih strani
+    .description = Nekatere strani imajo možnost prikaza v več jezikih. Določite svoj prednostni vrstni red jezikov.
+website-preferred-language =
+    .label = Želeni jeziki
+website-add-language =
+    .label = Dodaj jezik
+website-add-language-button =
+    .aria-label = Dodaj izbrani jezik
+    .title = Dodaj izbrani jezik
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Odstrani jezik { $locale }
+    .title = Odstrani jezik { $locale }
 choose-button =
     .label = Izberi …
     .accesskey = e
@@ -831,6 +861,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Dodano ni še nobeno spletno mesto.
+home-custom-homepage-delete-address-button =
+    .aria-label = Izbriši naslov
+    .title = Izbriši naslov
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dodano ni še nobeno spletno mesto.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1194,6 +1227,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Naslednji podatki se sinhronizirajo med vsemi povezanimi napravami:
 sync-syncing-across-devices-heading-2 = Podatki, sinhronizirani med napravami
+sync-syncing-across-devices-empty-state =
+    .label = Ne sinhronizirate (še) ničesar.
+    .description = Nastavite sinhronizacijo in imejte dostop do svojih podatkov na vseh napravah.
 sync-currently-syncing-bookmarks = zaznamki
 sync-currently-syncing-history = zgodovina
 sync-currently-syncing-tabs = odprti zavihki
@@ -2184,6 +2220,9 @@ preferences-ai-controls-translations-control =
     .label = Prevajanje
     .description = Brez truda brskajte po spletu v svojem jeziku.
 preferences-ai-controls-translations-more-link = Več nastavitev prevajanja
+preferences-ai-controls-pdfjs-control =
+    .label = Nadomestno besedilo slik v { -brand-short-name }ovem pregledovalniku PDF
+    .description = Ob vstavljanju slik v datoteke PDF ta možnost doda opise za osebe s posebnimi potrebami.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = Predlogi skupin zavihkov
     .description = Prejemajte predloge, kako lahko poimenujete in organizirate zavihke.
@@ -2209,9 +2248,13 @@ preferences-ai-controls-state-description-available = <strong>Na voljo:</strong>
 preferences-ai-controls-state-description-enabled = <strong>Omogočeno:</strong> Odločili ste se, da želite možnost uporabljati.
 preferences-ai-controls-state-description-blocked = <strong>Prepovedano:</strong> Možnost se vam ne bo prikazovala in je ne boste mogli uporabljati. Morebitni modeli UI, ki so se že prenesli na napravo, so bili odstranjeni.
 preferences-ai-controls-block-confirmation-heading = Želite prepovedati izboljšave z uporabo UI?
+preferences-ai-controls-block-confirmation-features-start = Kaj bo onemogočeno:
+preferences-ai-controls-block-confirmation-translations = prevajanje
+preferences-ai-controls-block-confirmation-pdfjs = nadomestno besedilo slik v { -brand-short-name }ovem pregledovalniku PDF
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Predlogi skupin zavihkov
 preferences-ai-controls-block-confirmation-key-points = Ključne točke v predogledih povezav
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Ponudniki klepetalnih robotov v stranski vrstici
+preferences-ai-controls-block-confirmation-features-after = Prepoved vpliva tudi na razširitve, ki uporabljajo umetno inteligenco, ki jo ponuja { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Prekliči
 preferences-ai-controls-block-confirmation-confirm =

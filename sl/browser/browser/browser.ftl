@@ -735,6 +735,7 @@ urlbar-result-action-search-in-private = Išči v zasebnem oknu
 urlbar-result-action-search-w-engine = Išči z iskalnikom { $engine }
 urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Preklopi na zavihek
+urlbar-result-action-move-tab-to-split-view = Premakni zavihek v razdeljeni pogled
 urlbar-result-action-visit = Obišči
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -774,6 +775,8 @@ urlbar-result-action-copy-to-clipboard = Kopiraj
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nedoločeno
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Razširitev za { -brand-product-name(sklon: "tozilnik") }
 # The sub title of a mdn suggestion in the urlbar.
 urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
@@ -837,6 +840,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Vprašaj
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

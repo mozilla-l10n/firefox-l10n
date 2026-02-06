@@ -132,6 +132,14 @@ firefoxview-synced-tabs-nav = Zavihki z drugih naprav
     .title = Zavihki z drugih naprav
 firefoxview-synced-tabs-header = Zavihki z drugih naprav
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Klepeti
+    .title = Klepeti
+firefoxview-chats-header = Klepeti
+firefoxview-chat-context-delete = Izbriši iz klepetov
+    .accesskey = I
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -164,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Iskanje po odprtih zavihkih
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Iskanje med klepeti
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -197,6 +208,10 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (krajevne datoteke)
+firefoxview-chat-date-today = Danes – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Včeraj – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 

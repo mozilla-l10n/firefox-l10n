@@ -37,6 +37,8 @@ tabbrowser-close-tabs-button =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label = Đóng { $tabCount } thẻ
+tab-splitview-splitter =
+    .aria-label = Thay đổi kích thước thẻ của chia cửa sổ
 
 ## Tooltips for tab audio control
 ## Variables:
