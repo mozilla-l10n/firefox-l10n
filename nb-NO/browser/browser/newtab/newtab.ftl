@@ -715,3 +715,15 @@ newtab-promo-card-cta = Les mer
 newtab-promo-card-dismiss-button =
     .title = Avvis
     .aria-label = Avvis
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Ignorer
+    .aria-label = Ignorer
+newtab-activation-window-message-customization-focus-message = Velg et nytt bakgrunnsbilde, legg til snarveier til favorittnettstedene dine, og hold deg oppdatert på saker som interesserer deg.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Begynn å tilpasse
