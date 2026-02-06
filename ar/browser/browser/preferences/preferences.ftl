@@ -419,6 +419,14 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size } م.بايت)
     .label = { $language } ({ $size } م.بايت)
+settings-translations-subpage-no-languages-downloaded =
+    .label = لم تُنزل أي لغات
+settings-translations-subpage-download-delete-button =
+    .label = احذف
+settings-translations-subpage-download-cancel-button =
+    .label = ألغِ
+settings-translations-subpage-no-sites-added =
+    .label = لم يُضاف أي مواقع
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -585,6 +593,13 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox support
+
+support-get-help =
+    .label = احصل على مُساعدة
+support-share-ideas =
+    .label = شارك الأفكار والتعليقات
+
 ## General Section - Performance
 
 performance-title = الأداء
@@ -673,6 +688,10 @@ home-new-windows-tabs-description2 = اختر ما تراه عندما تفتح 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = المتصفّح المبدئي
+is-default-browser-2 =
+    .message = { -brand-short-name } هو متصفحك المبدئي. اختيار موفق.
 set-as-my-default-browser-2 =
     .label = اجعله المبدئي
     .accesskey = م
@@ -680,6 +699,7 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = صفحة البداية و النوافذ الجديدة
+home-homepage-mode-label2 = نوافذ جديدة
 home-newtabs-mode-label = الألسنة الجديدة
 home-homepage-new-tabs =
     .label = الألسنة الجديدة
@@ -694,6 +714,14 @@ home-mode-choice-blank =
     .label = صفحة فارغة
 home-homepage-custom-url =
     .placeholder = ألصِق عنوانا…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = أدِر الامتداد
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = اختر موقعًا محددًا
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = اختر موقعًا محددًا
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -709,17 +737,43 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Custom Homepage subpage
+
+home-custom-homepage-address =
+    .placeholder = أدخل العنوان
+home-custom-homepage-address-button =
+    .label = أضف عنوانًا
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = لم تُضاف أي مواقع إلكترونية حتى الآن.
+home-custom-homepage-delete-address-button =
+    .aria-label = احذف العنوان
+    .title = احذف العنوان
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = استبدل ب
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = الصفحات المفتوحة حاليًا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = العلامات…
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = محتوى { -firefox-home-brand-name }
 home-prefs-content-description2 = اختر المحتوى الذي تريد عرضه في شاشة { -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = ابحث في الوِب
+home-prefs-search-header2 =
+    .label = ابحث
 home-prefs-shortcuts-header =
     .label = الاختصارات
 home-prefs-shortcuts-description = المواقع التي حفظتها أو زُرتها
 home-prefs-shortcuts-by-option-sponsored =
     .label = الاختصارات المموّلة
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -728,6 +782,9 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = محتوى مميّز جمعه لك { $provider }، وهو جزء من عائلة { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = القصص المُقترحة
+home-prefs-stories-header =
+    .label = قصص
+home-prefs-stories-description = قصص مخصّصة بناءً على نشاطك
 
 ##
 
@@ -758,6 +815,19 @@ home-prefs-weather-header =
     .label = الطقس
 home-prefs-weather-description = لمحة عامة عن توقعات الطقس اليوم
 home-prefs-weather-learn-more-link = اطّلع على المزيد
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = المؤقت
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = ادعم { -brand-product-name }
+home-prefs-mission-message-learn-more-link = اكتشف كيف
+home-prefs-manage-topics-link = أدِر المواضيع
+home-prefs-manage-topics-link2 =
+    .label = أدِر المواضيع
+home-prefs-choose-wallpaper-link = اختر خلفية
+home-prefs-choose-wallpaper-link2 =
+    .label = اختر خلفية
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -920,6 +990,16 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
 sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
