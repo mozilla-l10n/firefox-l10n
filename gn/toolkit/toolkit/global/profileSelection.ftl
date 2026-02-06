@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Eiporu mba’ete poravopyre ejerure’ỹre ñepyrũha
     .accesskey = s
+profile-has-selectable-profiles-title = Ndaikatúi embogue mba’ete ojuajúva ambue mba’eteita ndive.

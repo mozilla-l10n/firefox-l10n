@@ -27,6 +27,7 @@ profiles-rootdir = Tapo Marandurenda’aty
 profiles-localdir = Marandurenda’aty pypeguáva
 profiles-current-profile = Kóva mba’ete ojeporúva ha upévare ndaikatumo’ãi oñemboguete.
 profiles-in-use-profile = Ko mba’ete ojeporuhína ambue tembiporu’ípe ha ndaikatúi oñembogue.
+profiles-cannot-delete-profile = Ndaikatúi embogue mba’ete ojuajúva ambue mba’eteita ndive.
 profiles-rename = Ñemboherajey
 profiles-remove = Ñemboguete
 profiles-set-as-default = Ejapo chugui mba’ete ijypykuéva

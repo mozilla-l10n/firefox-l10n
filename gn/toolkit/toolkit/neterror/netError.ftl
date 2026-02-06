@@ -181,6 +181,7 @@ fp-neterror-offline-body-title = Ha’eténte ku oĩva apañuái eike hag̃ua ñ
 
 fp-neterror-connection-intro = { -brand-short-name } ndaikatúi omoheñói jeike hekorosãva { $hostname } mba’e’oka ndive.
 fp-neterror-offline-intro = { -brand-short-name } ndoikekuaái mba’e’okápe <strong>{ $hostname }</strong>
+fp-neterror-http-auth-disabled-intro = Peteĩva ohasáva pe tenda rekovia ikatuhína omonda nde poruhára réra, ñe’ẽñemi térã ñanduti veve.
 fp-neterror-why-did-this-happen = ¿Mba’ére oiko ko’ãva?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Amalisia ko tenda oiporu software itujáva orekóva apañuái tekorosã rehegua.

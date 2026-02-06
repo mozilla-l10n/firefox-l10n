@@ -7,6 +7,10 @@ about-translations-title = { -brand-short-name } ñe’ẽasaita
 # The brief description of the Translations functionality on the page.
 about-translations-description = Ñe’ẽasaita oikóva omomba’eguasúva nde rekoñami.
 about-translations-learn-more-link = Eikuaave
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = Pe ñemoñe’ẽasa ndaipóri ko mba’e’okápe.
+    .message = Eñeha’ã emoambue mba’e’oka ambuépe.
 about-translations-unsupported-info-button = Eikuaave
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
