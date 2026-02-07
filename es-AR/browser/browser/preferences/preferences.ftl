@@ -851,6 +851,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Todavía no se agregaron sitios web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Borrar dirección
+    .title = Borrar dirección
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Todavía no se agregaron sitios web.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
