@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Käytä valittua profiilia aina käynnistettäessä
     .accesskey = K
+profile-has-selectable-profiles-title = Profiilia, joka on linkitetty muihin profiileihin, ei voi poistaa
+profile-has-selectable-profiles-message = Voit poistaa tämän profiilin avaamalla sen ja valitsemalla { -brand-short-name }-valikon Profiilit-osiosta ”Hallitse profiileja”. Kun olet poistanut kaikki luomasi lisäprofiilit, voit palata about:profiles-sivulle ja poistaa tämän profiilin.

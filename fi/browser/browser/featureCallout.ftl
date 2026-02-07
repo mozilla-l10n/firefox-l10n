@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Kuinka tyytyväinen olet AI-chatbot
 sidebar-genai-survey-productive-question =
     Missä määrin olet samaa tai eri mieltä tämän väitteen kanssa:<br/>
     "Sivupalkin AI-chatbotti auttaa minua olemaan tuottavampi"?
+splitview-onboarding-callout-title-1 = Jaettu näkymä: parempi tapa tehdä useita asioita samanaikaisesti
+splitview-onboarding-callout-subtitle-1 = Napsauta tätä välilehteä hiiren oikealla painikkeella ja valitse ”Lisää jaettu näkymä” nähdäksesi kaksi välilehteä kerralla.
+splitview-onboarding-callout-cta-1 = Kokeile nyt
+splitview-onboarding-callout-title-2 = Näe kaksi välilehteä samanaikaisesti jaetulla näkymällä
+splitview-onboarding-callout-subtitle-2 = Ei ylimääräisiä ikkunoita. Ei välilehtien selaamista. Napsauta tätä välilehteä hiiren oikealla painikkeella ja valitse “Lisää jaettu näkymä”.
+splitview-onboarding-callout-cta-2 = Kokeile jaettua näkymää
 unified-search-callout-title = Vaihda hakukoneiden välillä
 unified-search-callout-subtitle = Valitse, mikä sopii parhaiten yksittäiseen hakuusi.
 unified-search-callout-primary-label = Seuraava

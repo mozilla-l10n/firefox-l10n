@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Synkronointi
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Tekoälyn säätimet
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-kokeilut
 category-experimental =
     .tooltiptext = { -brand-short-name }-kokeilut
@@ -396,6 +399,11 @@ preferences-text-zoom-override-warning =
     .message = Varoitus: Jos valitset "Muuta vain tekstin kokoa" ja oletussuurennusta ei ole asetettu 100 %:iin, jotkin sivustot tai sisällöt saattavat rikkoutua.
 language-header = Kieli
 choose-language-description = Valitse kielet, joilla sivut näytetään
+website-add-language =
+    .label = Lisää kieli
+website-add-language-button =
+    .aria-label = Lisää valittu kieli
+    .title = Lisää valittu kieli
 choose-button =
     .label = Valitse…
     .accesskey = V
@@ -821,6 +829,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Ei vielä lisättyjä verkkosivustoja.
+home-custom-homepage-delete-address-button =
+    .aria-label = Poista osoite
+    .title = Poista osoite
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1007,6 +1018,9 @@ search-remove-engine =
 search-add-engine =
     .label = Lisää
     .accesskey = L
+search-add-engine-2 =
+    .label = Lisää hakukone
+    .accesskey = a
 search-edit-engine =
     .label = Muokkaa
     .accesskey = M
@@ -1460,6 +1474,10 @@ payments-list-item-label = <strong>Maksutavat</strong>
 payments-delete-payment-prompt-title = Poistetaanko tämä maksutapa?
 payments-delete-payment-prompt-confirm-button = Poista
 payments-delete-payment-prompt-cancel-button = Peruuta
+payments-delete-payment-button-label =
+    .aria-label = Poista
+payments-edit-payment-button-label =
+    .aria-label = Muokkaa
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Maksutapoja ei ole lisätty
@@ -1998,6 +2016,7 @@ collection-studies-description = Kokeile ominaisuuksia ja ideoita, ennen kuin ne
 collection-studies =
     .label = Salli, että { -brand-short-name } asentaa ja suorittaa tutkimuksia
 collection-studies-link = Näytä { -brand-short-name }-tutkimukset
+nimbus-rollouts-enabled-description = Muutokset otetaan käyttöön etänä.
 addon-recommendations2 =
     .label = Salli henkilökohtaiset laajennussuositukset
 addon-recommendations-description = Hanki laajennussuosituksia parantaaksesi selauskokemustasi.
@@ -2098,6 +2117,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Vain HTTPS -tila
     .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2165,3 +2186,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Työpöytä
 downloads-folder-name = Lataukset
 choose-download-folder-title = Valitse tallennuskansio
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }

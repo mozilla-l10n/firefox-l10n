@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Teksti poistettu
 pdfjs-editor-undo-bar-message-ink = Piirustus poistettu
 pdfjs-editor-undo-bar-message-stamp = Kuva poistettu
 pdfjs-editor-undo-bar-message-signature = Allekirjoitus poistettu
+pdfjs-editor-undo-bar-message-comment = Kommentti poistettu
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -640,6 +641,17 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Näytä/piilota sivupaneeli
+pdfjs-toggle-views-manager-button-label = Näytä/piilota sivupaneeli
+pdfjs-views-manager-sidebar =
+    .aria-label = Sivupaneeli
+pdfjs-views-manager-pages-title = Sivut
+pdfjs-views-manager-attachments-title = Liitteet
+pdfjs-views-manager-layers-title = Tasot
+pdfjs-views-manager-pages-option-label = Sivut
+pdfjs-views-manager-attachments-option-label = Liitteet
+pdfjs-views-manager-layers-option-label = Tasot
 pdfjs-views-manager-add-file-button =
     .title = Lisää tiedosto
 pdfjs-views-manager-add-file-button-label = Lisää tiedosto
@@ -651,6 +663,7 @@ pdfjs-views-manager-pages-status-action-label =
        *[other] { $count } valittu
     }
 pdfjs-views-manager-pages-status-none-action-label = Valitse sivut
+pdfjs-views-manager-pages-status-action-button-label = Hallitse
 pdfjs-views-manager-pages-status-copy-button-label = Kopioi
 pdfjs-views-manager-pages-status-cut-button-label = Leikkaa
 pdfjs-views-manager-pages-status-delete-button-label = Poista
@@ -676,7 +689,12 @@ pdfjs-views-manager-pages-status-undo-delete-label =
         [one] 1 sivu poistettu
        *[other] { $count } sivua poistettu
     }
+pdfjs-views-manager-pages-status-waiting-ready-label = Tiedostoa valmistellaan…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Lähetetään tiedostoa…
+pdfjs-views-manager-status-warning-cut-label = Leikkaaminen epäonnistui. Päivitä sivu ja yritä uudelleen.
+pdfjs-views-manager-status-warning-copy-label = Kopiointi epäonnistui. Päivitä sivu ja yritä uudelleen.
+pdfjs-views-manager-status-warning-delete-label = Poisto epäonnistui. Päivitä sivu ja yritä uudelleen.
+pdfjs-views-manager-status-warning-save-label = Tallentaminen epäonnistui. Päivitä sivu ja yritä uudelleen.
 pdfjs-views-manager-status-undo-button-label = Kumoa
 pdfjs-views-manager-status-close-button =
     .title = Sulje
