@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     ขั้นตอนที่ 2: เลือก “ตั้งค่าเริ่มต้น” สำหรับ { -brand-short-name }
 default-browser-guidance-notification-info-page = แสดงให้ฉันเห็น
 default-browser-guidance-notification-dismiss = เสร็จสิ้น
+default-browser-guidance-notification-v2-title = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณสำเร็จแล้ว
+default-browser-guidance-notification-v2-body = ในการตั้งค่า ให้เลือก “ตั้งค่าเริ่มต้น” สำหรับ { -brand-short-name }
+default-browser-guidance-notification-v2-title-only = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณสำเร็จในการตั้งค่า

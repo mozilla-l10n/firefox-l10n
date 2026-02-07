@@ -56,6 +56,7 @@ about-logging-preset-ml-description = โมดูลบันทึกสำห
 about-logging-preset-web-compat-label = Web Compat
 about-logging-preset-web-compat-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาความเข้ากันได้ของเว็บ
 about-logging-preset-navigation = การนำทาง
+about-logging-preset-navigation-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาการนำทางและประวัติการใช้งาน
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebGPU
 about-logging-preset-gfx-label = กราฟิก
