@@ -232,6 +232,7 @@ splitview-onboarding-callout-subtitle-1 = Klik met uw rechtermuisknop op dit tab
 splitview-onboarding-callout-cta-1 = Nu proberen
 splitview-onboarding-callout-title-2 = Bekijk twee tabbladen tegelijk met gesplitste weergave
 splitview-onboarding-callout-subtitle-2 = Geen extra vensters. Geen tabbladen wisselen. Klik met uw rechtermuisknop op dit tabblad en kies ‘Gesplitste weergave toevoegen’.
+splitview-onboarding-callout-cta-2 = Gesplitste weergave proberen
 unified-search-callout-title = Wisselen tussen zoekmachines
 unified-search-callout-subtitle = Kies wat het beste werkt voor uw specifieke zoekopdracht.
 unified-search-callout-primary-label = Volgende
