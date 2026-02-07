@@ -152,6 +152,12 @@ autofill-card-expires-month = เดือนที่หมดอายุ
 autofill-card-expires-year = ปีที่หมดอายุ
 autofill-card-billing-address = ที่อยู่สำหรับเรียกเก็บเงิน
 autofill-card-network = ชนิดบัตร
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = บัตรเครดิต, เครดิต, บัตร, บัตรเดบิต, เดบิต, กระเป๋าเงิน, ชำระเงิน
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -762,6 +762,12 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-undefined-calculator-result = ไม่นิยาม
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = ส่วนขยาย { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = แนะนำ
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -819,6 +825,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ได้รับการสนับสนุน
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = ถาม
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.

@@ -37,6 +37,8 @@ tabbrowser-close-tabs-button =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
     .label = ปิด { $tabCount } แท็บ
+tab-splitview-splitter =
+    .aria-label = ปรับขนาดแท็บมุมมองแยก
 
 ## Tooltips for tab audio control
 ## Variables:

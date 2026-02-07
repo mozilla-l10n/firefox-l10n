@@ -522,6 +522,7 @@ pdfjs-editor-undo-bar-message-freetext = เอาข้อความออก
 pdfjs-editor-undo-bar-message-ink = เอาภาพวาดออกแล้ว
 pdfjs-editor-undo-bar-message-stamp = เอาภาพออกแล้ว
 pdfjs-editor-undo-bar-message-signature = ลบลายเซ็นแล้ว
+pdfjs-editor-undo-bar-message-comment = เอาความคิดเห็นออกแล้ว
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple = เอาคำอธิบายประกอบ { $count } รายการออกแล้ว

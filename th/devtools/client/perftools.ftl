@@ -33,6 +33,7 @@ perftools-description-local-build =
     ถ้าคุณกำลังสร้างโปรไฟล์ให้กับบิลด์ที่คุณคอมไพล์ด้วยตัวเอง บนเครื่องนี้
     โปรดเพิ่ม objdir ของบิลด์ของคุณลงในรายการด้านล่างเพื่อให้สามารถ
     นำมาใช้ในการค้นหาข้อมูลสัญลักษณ์ได้
+perftools-pick-local-build-directory = เลือกไดเรกทอรีการสร้าง
 
 ## The controls for the interval at which the profiler samples the code.
 
