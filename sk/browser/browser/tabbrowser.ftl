@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Zavrieť { $tabCount } karty
            *[other] Zavrieť { $tabCount } kariet
         }
+tab-splitview-splitter =
+    .aria-label = Zmena veľkosti kariet rozdeleného zobrazenia
 
 ## Tooltips for tab audio control
 ## Variables:

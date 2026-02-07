@@ -410,6 +410,9 @@ preferences-text-zoom-override-warning =
     .message = Upozornenie: ak vyberiete možnosť “Meniť iba veľkosť textu” a vaše predvolené priblíženie nie je nastavené na 100 %, môže to spôsobiť nesprávne zobrazenie niektorých stránok alebo obsahu.
 language-header = Jazyk
 choose-language-description = Vyberte jazyky pre zobrazovanie webových stránok
+website-language-heading =
+    .label = Jazyk webovej stránky
+    .description = Niektoré webové stránky je možné zobraziť vo viacerých jazykoch. Vyberte si jazyky a zoraďte ich podľa vašej preferencie.
 website-preferred-language =
     .label = Preferované jazyky
 website-add-language =
@@ -856,6 +859,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Zatiaľ neboli pridané žiadne webové stránky.
+home-custom-homepage-delete-address-button =
+    .aria-label = Odstrániť adresu
+    .title = Odstrániť adresu
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Zatiaľ neboli pridané žiadne webové stránky.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

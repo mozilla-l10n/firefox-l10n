@@ -30,6 +30,7 @@ perftools-description-intro =
     Nahrávky spúšťajú <a>profiler.firefox.com</a> na novej karte. Všetky údaje sú uložené
     lokálne, ale môžete sa rozhodnúť ich zdieľať.
 perftools-description-local-build = Ak profilujete zostavenie, ktoré ste si sami zostavili na tomto zariadení, pridajte do zoznamu nižšie priečinok objdir vášho zostavenia, aby ho bolo možné použiť na vyhľadanie informácií o symboloch.
+perftools-pick-local-build-directory = Vyberte priečinok so zostavením
 
 ## The controls for the interval at which the profiler samples the code.
 
