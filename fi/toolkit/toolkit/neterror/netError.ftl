@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Tarkista, ettei tiedostoa ole poistettu, siirret
 neterror-access-denied = Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.
 neterror-unknown-protocol = Osoitteen avaaminen voi vaatia uuden ohjelman asentamista.
 neterror-redirect-loop = Tämä virhe johtuu joskus siitä, että evästeiden asettamista ei ole sallittu tai että se on erityisesti estetty tältä sivustolta.
+neterror-unknown-socket-type-client-config = Tämä saattaa johtua määritysvirheestä asiakasohjelmistossasi.
 neterror-unknown-socket-type-psm-installed = Tarkista, että tietokoneelle on asennettu Mozillan Personal Security Manager.
 neterror-unknown-socket-type-server-config = Virhe voi johtua palvelimen epästandardeista asetuksista.
 neterror-not-cached-intro = Pyydettyä dokumenttia ei ole tallennettu { -brand-short-name }in väliaikaistiedostoihin.
