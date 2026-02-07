@@ -33,6 +33,7 @@ perftools-description-local-build =
     Zuk makina honetan konpilatutako eraikitze bat analizatzen ari bazara,
     gehi ezazu zure eraikitzearen objdir-a beheko zerrendan, sinboloen
     informazioa bilatzeko erabili ahal izan dadin.
+perftools-pick-local-build-directory = Hautatu eraikitze-direktorioa
 
 ## The controls for the interval at which the profiler samples the code.
 

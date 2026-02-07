@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Itxi fitxa
            *[other] Itxi { $tabCount } fitxa
         }
+tab-splitview-splitter =
+    .aria-label = Aldatu tamainaz ikuspegi zatituko fitxak
 
 ## Tooltips for tab audio control
 ## Variables:
