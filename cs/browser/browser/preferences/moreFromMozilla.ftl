@@ -62,3 +62,4 @@ more-from-moz-solo-title-2 = Tvůrce webových stránek { -solo-ai-brand-name }
 more-from-moz-mdn-title = Webová dokumentace MDN
 more-from-moz-mdn-description = Naučte se vyvíjet webové stránky pomocí bezplatných, komplexních průvodců a referencí.
 more-from-moz-mdn-button = Naučit se vývoj webových aplikací
+more-from-moz-mdn-title2 = { -mdn-brand-name }

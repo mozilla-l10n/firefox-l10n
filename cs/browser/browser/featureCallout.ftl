@@ -309,6 +309,9 @@ sidebar-genai-survey-satisfaction-question = Jak jste spokojeni s přístupem k 
 sidebar-genai-survey-productive-question =
     Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>
     "Chatbot s umělou inteligencí v postranní liště mi pomáhá být produktivnější"?
+splitview-onboarding-callout-title-1 = Rozdělené zobrazení: lepší způsob multitaskingu
+splitview-onboarding-callout-cta-1 = Vyzkoušejte nyní
+splitview-onboarding-callout-cta-2 = Vyzkoušet rozdělené zobrazení
 unified-search-callout-title = Přepínejte mezi vyhledávači
 unified-search-callout-subtitle = Vyberte si, co je pro vaše konkrétní vyhledávání nejvhodnější.
 unified-search-callout-primary-label = Další

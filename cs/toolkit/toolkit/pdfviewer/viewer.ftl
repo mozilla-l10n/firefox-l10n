@@ -667,12 +667,49 @@ pdfjs-views-manager-layers-option-label = Vrstvy
 pdfjs-views-manager-add-file-button =
     .title = Přidat soubor
 pdfjs-views-manager-add-file-button-label = Přidat soubor
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } vybrán
+        [few] { $count } vybrány
+        [many] { $count } vybráno
+       *[other] { $count } vybráno
+    }
 pdfjs-views-manager-pages-status-none-action-label = Vyberte stránky
 pdfjs-views-manager-pages-status-action-button-label = Správa
 pdfjs-views-manager-pages-status-copy-button-label = Kopírovat
 pdfjs-views-manager-pages-status-cut-button-label = Vyjmout
 pdfjs-views-manager-pages-status-delete-button-label = Smazat
 pdfjs-views-manager-pages-status-save-as-button-label = Uložit jako…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 stránka vyjmuta
+        [few] { $count } stránky vyjmuty
+        [many] { $count } stránek vyjmuto
+       *[other] { $count } stránek vyjmuto
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 stránka zkopírována
+        [few] { $count } stránky zkopírovány
+        [many] { $count } stránek zkopírováno
+       *[other] { $count } stránek zkopírováno
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 stránka smazána
+        [few] { $count } stránky smazány
+        [many] { $count } stránek smazáno
+       *[other] { $count } stránek smazáno
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = Příprava vašeho souboru…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Nahrávání souboru…
 pdfjs-views-manager-status-warning-cut-label = Nelze vyjmout. Obnovte stránku a zkuste to znovu.
 pdfjs-views-manager-status-warning-copy-label = Kopírování se nezdařilo. Obnovte stránku a zkuste to znovu.
