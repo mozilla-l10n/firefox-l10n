@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Ako ste spokojní s prístupom k AI
 sidebar-genai-survey-productive-question =
     Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
     “AI chatbot na bočnom paneli mi pomáha byť produktívnejší”?
+splitview-onboarding-callout-title-1 = Rozdelené zobrazenie: lepší spôsob multitaskingu
+splitview-onboarding-callout-subtitle-1 = Kliknite pravým tlačidlom myši na túto kartu a vyberte možnosť “Pridať rozdelené zobrazenie”, čím zobrazíte dve karty naraz.
+splitview-onboarding-callout-cta-1 = Vyskúšajte si to teraz
+splitview-onboarding-callout-title-2 = Zobrazte si dve karty naraz v rozdelenom zobrazení
+splitview-onboarding-callout-subtitle-2 = Žiadne ďalšie okná. Žiadne prepínanie medzi kartami. Kliknite pravým tlačidlom myši na túto kartu a vyberte možnosť “Pridať rozdelené zobrazenie”.
+splitview-onboarding-callout-cta-2 = Vyskúšajte rozdelené zobrazenie
 unified-search-callout-title = Prepínajte medzi vyhľadávačmi
 unified-search-callout-subtitle = Vyberte si, čo najlepšie vyhovuje vášmu konkrétnemu vyhľadávaniu.
 unified-search-callout-primary-label = Ďalej

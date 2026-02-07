@@ -152,6 +152,12 @@ autofill-card-expires-month = Mesiac konca platnosti
 autofill-card-expires-year = Rok konca platnosti
 autofill-card-billing-address = Fakturačná adresa
 autofill-card-network = Typ karty
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = kreditné karty, kredit, karty, debetné karty, debet, peňaženka, pokladňa
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Krok 2: Vyberte { -brand-short-name } a kliknite na tlačidlo “Nastaviť predvolené”
 default-browser-guidance-notification-info-page = Zobraziť viac
 default-browser-guidance-notification-dismiss = Hotovo
+default-browser-guidance-notification-v2-title = Dokončite nastavenie { -brand-short-name(case: "gen") } ako predvoleného prehliadača
+default-browser-guidance-notification-v2-body = V Nastaveniach vyberte pre { -brand-short-name } možnosť “Nastaviť predvolené”.
+default-browser-guidance-notification-v2-title-only = Dokončite nastavenie { -brand-short-name(case: "gen") } ako predvoleného prehliadača
