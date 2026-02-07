@@ -7,6 +7,7 @@ avatar-selector-custom-tab = ផ្ទាល់ខ្លួន
 avatar-selector-cancel-button =
     .label = បោះបង់
 avatar-selector-upload-file = ផ្ទុកឡើងឯកសារ
+avatar-selector-crop = ច្រឹប
 edit-profile-page-profile-saved = បានរក្សាទុក
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
@@ -48,6 +49,7 @@ star-avatar-alt =
 ## Tooltips for default avatar icons
 
 folder-avatar = ថតឯកសារ
+palette-avatar = ក្ដារលាយពណ៌
 picture-avatar = រូបភាព
 custom-avatar-crop-back-button =
     .aria-label = ត្រឡប់​ក្រោយ
