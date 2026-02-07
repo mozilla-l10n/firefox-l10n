@@ -2503,6 +2503,7 @@ choose-download-folder-title = Vyberte složku pro stahování souborů
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Blokovat vylepšení pomocí AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-on-device-group =
