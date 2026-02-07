@@ -484,6 +484,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Vaihda Fahrenheitiin
 newtab-weather-menu-change-temperature-units-celsius = Vaihda Celsiukseen
+newtab-weather-menu-hide-weather-v2 = Piilota sää
 newtab-weather-menu-hide-weather = Piilota sää uudessa välilehdessä
 newtab-weather-menu-learn-more = Lue lisää
 newtab-weather-menu-detect-my-location = Havaitse sijaintini
@@ -702,6 +703,10 @@ newtab-widget-timer-menu-notifications = Poista ilmoitukset käytöstä
 newtab-widget-timer-menu-notifications-on = Ota ilmoitukset käyttöön
 newtab-widget-timer-menu-hide = Piilota ajastin
 newtab-widget-timer-menu-learn-more = Lue lisää
+newtab-daily-briefing-card-menu-dismiss = Hylkää
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Päivitetty { $minutes } min sitten
 newtab-widget-message-title = Pysy keskittyneenä listojen ja sisäänrakennetun ajastimen avulla
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nopeista muistutuksista päivittäisiin tehtäviin, keskittymisharjoituksista venyttelytaukoihin – pysy tehtävässäsi ja aikataulussa.
@@ -709,5 +714,14 @@ newtab-promo-card-title = Tue { -brand-product-name }ia
 newtab-promo-card-body = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 newtab-promo-card-cta = Lue lisää
 newtab-promo-card-dismiss-button =
+    .title = Hylkää
+    .aria-label = Hylkää
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
     .title = Hylkää
     .aria-label = Hylkää
