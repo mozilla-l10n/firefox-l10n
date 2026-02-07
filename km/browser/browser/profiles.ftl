@@ -23,6 +23,8 @@ delete-profile-confirm = លុប
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
+# The default light theme
+profiles-light-theme = ភ្លឺ
 # The default dark theme
 profiles-dark-theme = ងងឹត
 # The default system theme
@@ -47,3 +49,5 @@ star-avatar-alt =
 
 folder-avatar = ថតឯកសារ
 picture-avatar = រូបភាព
+custom-avatar-crop-back-button =
+    .aria-label = ត្រឡប់​ក្រោយ
