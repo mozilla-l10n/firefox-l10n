@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Матн тоза карда шуд
 pdfjs-editor-undo-bar-message-ink = Расм тоза карда шуд
 pdfjs-editor-undo-bar-message-stamp = Тасвир тоза карда шуд
 pdfjs-editor-undo-bar-message-signature = Имзо тоза карда шуд
+pdfjs-editor-undo-bar-message-comment = Шарҳ тоза карда шуд
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
