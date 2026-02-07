@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     2. urratsa: hautatu "Ezarri lehenetsia" eta aukeratu { -brand-short-name }
 default-browser-guidance-notification-info-page = Erakuts iezadazu
 default-browser-guidance-notification-dismiss = Eginda
+default-browser-guidance-notification-v2-title = Amaitu { -brand-short-name } zure nabigatzaile lehenetsia eginez
+default-browser-guidance-notification-v2-body = Ezarpenetan, hautatu "Ezarri lehenetsi gisa" { -brand-short-name } aplikaziorako.
+default-browser-guidance-notification-v2-title-only = Amaitu { -brand-short-name } zure nabigatzaile lehenetsia eginez ezarpenetan

@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Zenbateraino zaude pozik AA txatera
 sidebar-genai-survey-productive-question =
     Zein neurriraino zaude ados edo desados ondorengo adierazpenarekin:<br/>
     "Alboko barrako AA txaterako botak emankorrago izaten laguntzen dit"?
+splitview-onboarding-callout-title-1 = Ikuspegi zatitua: aldibereko zereginetarako modu hobea
+splitview-onboarding-callout-subtitle-1 = Egin eskuin-klika fitxa honetan eta aukeratu "Gehitu ikuspegi zatitua" bi fitxa aldi berean ikusteko.
+splitview-onboarding-callout-cta-1 = Probatu orain
+splitview-onboarding-callout-title-2 = Ikusi bi fitxa aldi berean ikuspegi zatituarekin
+splitview-onboarding-callout-subtitle-2 = Aparteko leihorik ez. Fitxen arteko dantzarik ez. Egin eskuin-klika fitxa honetan eta aukeratu "Gehitu ikuspegi zatitua".
+splitview-onboarding-callout-cta-2 = Probatu ikuspegi zatitua
 unified-search-callout-title = Aldatu bilaketa-motorren artean
 unified-search-callout-subtitle = Aukeratu zer datorkizun ondoen zure bilaketarentzat.
 unified-search-callout-primary-label = Hurrengoa

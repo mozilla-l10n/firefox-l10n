@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Testua kenduta
 pdfjs-editor-undo-bar-message-ink = Marrazkia kenduta
 pdfjs-editor-undo-bar-message-stamp = Irudia kenduta
 pdfjs-editor-undo-bar-message-signature = Sinadura kenduta
+pdfjs-editor-undo-bar-message-comment = Iruzkina kenduta
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
