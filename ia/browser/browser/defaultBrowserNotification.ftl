@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Passo 2: Elige “Configura predefinite” pro { -brand-short-name }
 default-browser-guidance-notification-info-page = Monstra me
 default-browser-guidance-notification-dismiss = Facite
+default-browser-guidance-notification-v2-title = Fini de render { -brand-short-name } tu navigator predefinite
+default-browser-guidance-notification-v2-body = In ParamEtros, elige “Configurar predefinite” pro { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Fini de render { -brand-short-name } tu navigator predefinite in Parametros
