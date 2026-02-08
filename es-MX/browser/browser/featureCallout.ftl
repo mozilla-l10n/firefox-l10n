@@ -141,6 +141,9 @@ windows-10-eos-sync-general-subtitle-1 = Realiza copias de seguridad y sincroniz
 windows-10-eos-sync-general-title-2 = Ahora es un buen momento para hacer una copia de seguridad de tus contraseñas y marcadores.
 windows-10-eos-sync-general-subtitle-2 = Sincroniza ahora para proteger las cosas que confías a { -brand-short-name } y recupéralas en cualquier lugar y momento.
 windows-10-eos-sync-tour-title-1 = ¿Demasiadas pestañas? Ordena con grupos de pestañas.
+windows-10-eos-sync-tour-subtitle-1 = Arrastra una pestaña sobre otra para crear un grupo y mantener las cosas organizadas.
+windows-10-eos-sync-tour-title-2 = Organízate para Windows 11.
+windows-10-eos-sync-tour-subtitle-2 = Sincroniza tus marcadores, contraseñas y ajustes para hacer una copia de seguridad de ellos antes de cambiar.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Mostrar menos recomendaciones
 windows-10-eos-sync-dismiss-button-label = Descartar
@@ -180,6 +183,8 @@ sidebar-pins-callout-cta-button = Anclar pestaña
 pin-tabs-callout-1-title = Mantén las pestañas importantes a tu alcance
 pin-tabs-callout-1-subtitle = Arrastra una pestaña al inicio de la barra de pestañas para fijarla. O haz clic derecho y selecciona "Fijar pestaña".
 pin-tabs-callout-cta-1-button = Fijar esta pestaña
+pin-tabs-callout-2-title = Fija las pestañas que visitas con más frecuencia
+pin-tabs-callout-2-subtitle = Para fijar una pestaña, arrástrala al inicio de la barra de pestañas. O haz clic derecho y selecciona "Fijar pestaña".
 pin-tabs-callout-cta-2-button = Fijar esta pestaña
 pin-tabs-callout-3-title = Mantén los sitios importantes a tu alcance
 pin-tabs-callout-4-title = Anclar los sitios que visitas con más frecuencia
@@ -222,6 +227,7 @@ sidebar-genai-survey-satisfaction-question = ¿En qué medida estás satisfecho 
 sidebar-genai-survey-productive-question =
     ¿En qué medida estás de acuerdo o en desacuerdo con esta afirmación:<br/>
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
+splitview-onboarding-callout-title-1 = Vista dividida: una mejor manera de realizar múltiples tareas
 splitview-onboarding-callout-cta-1 = Pruébalo ahora
 splitview-onboarding-callout-title-2 = Ver dos pestañas a la vez con vista dividida
 splitview-onboarding-callout-cta-2 = Prueba la vista dividida
