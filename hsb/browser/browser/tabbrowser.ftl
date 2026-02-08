@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
             [few] { $tabCount } rajtarki začinić
            *[other] { $tabCount } rajtarkow začinić
         }
+tab-splitview-splitter =
+    .aria-label = Wulkosć rajtarkow dźěleneho napohlada změnić
 
 ## Tooltips for tab audio control
 ## Variables:

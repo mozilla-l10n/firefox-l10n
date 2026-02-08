@@ -739,3 +739,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tutón městno po wašich prawidłach hraje
+newtab-activation-window-message-values-focus-message = { -brand-product-name } wam zmóžnja, na wašnje přehladować, kotrež wam so spodoba, z bóle wosobinskej móžnosću, dźeń online započeć. Přiswojće sej { -brand-product-name }.
