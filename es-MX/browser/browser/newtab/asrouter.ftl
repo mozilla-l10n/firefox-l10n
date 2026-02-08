@@ -72,6 +72,8 @@ fxa-adoption-addresses-backup-title = Hagamos una copia de seguridad de tus dire
 fxa-adoption-addresses-backup-subtitle = Protege tus direcciones guardadas sincronizándolas con tus dispositivos con encriptación.
 fxa-adoption-credit-cards-backup-title = Respaldemos tus métodos de pago
 fxa-adoption-credit-cards-backup-subtitle = Protege tus métodos de pago sincronizándolos con sus dispositivos con encriptación.
+fxa-adoption-bookmarks-treatment-backup-title = Hagamos un respaldo de tus marcadores
+fxa-adoption-bookmarks-treatment-backup-subtitle = Protege tus marcadores sincronizándolos con tus dispositivos cifrados.
 fxa-adoption-primary-button-label = Registrate
 
 ## Protections panel
@@ -427,5 +429,7 @@ etp-strict-exceptions-infobar-not-now = Ahora no
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = { -brand-short-name } no es tu navegador predeterminado
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } no es tu navegador principal
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador principal

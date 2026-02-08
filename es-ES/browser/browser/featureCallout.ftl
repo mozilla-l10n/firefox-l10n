@@ -227,6 +227,8 @@ sidebar-genai-survey-satisfaction-question = ¿En qué medida está satisfecho c
 sidebar-genai-survey-productive-question =
     ¿En qué medida está de acuerdo o en desacuerdo con esta afirmación:<br/>
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
+splitview-onboarding-callout-title-1 = Vista dividida: una mejor manera de realizar múltiples tareas
+splitview-onboarding-callout-subtitle-1 = Haga clic con el botón derecho en esta pestaña y elija “Añadir vista dividida” para ver dos pestañas a la vez.
 unified-search-callout-title = Cambiar entre buscadores
 unified-search-callout-subtitle = Elija lo que funcione mejor para una búsqueda específica.
 unified-search-callout-primary-label = Siguiente
