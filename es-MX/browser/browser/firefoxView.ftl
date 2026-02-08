@@ -137,6 +137,8 @@ firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 firefoxview-chats-nav = Chats
     .title = Chats
 firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Eliminar de los chats
+    .accesskey = D
 
 ##
 
