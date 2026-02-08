@@ -1889,6 +1889,7 @@ collection-studies-description = Prueba funcionalidades e ideas antes del lanzam
 collection-studies =
     .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
 collection-studies-link = Ver estudios de { -brand-short-name }
+nimbus-rollouts-enabled-description = Los cambios se aplicarán de forma remota.
 addon-recommendations2 =
     .label = Permitir recomendaciones de extensiones personalizadas
 addon-recommendations-description = Obtén recomendaciones de extensiones para mejorar tu experiencia de navegación.
@@ -1963,6 +1964,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en disco. </strong> Los contenidos del sitio web pueden no mostrarse correctamente. Puede limpiar los datos de sitios guardados en Ajustes > Privacidad y Seguridad > Cookies y datos del sitio.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en disco. </strong> los contenidos de los sitios web no pueden mostrarse correctamente. Visita “Saber más” para optimizar el uso del disco para una mejor experiencia de navegación.
+certs-description2 =
+    .label = Certificados
+    .description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
 
 ## Privacy Section - HTTPS-Only
 
@@ -1983,6 +1987,9 @@ httpsonly-radio-disabled3 =
     .description = { -brand-short-name } todavía puedes actualizar algunas conexiones
 httpsonly-radio-disabled =
     .label = No habilitar el modo solo HTTPS
+httpsonly-group =
+    .label = Modo solo HTTPS
+    .description = Solo permite conexiones seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 
@@ -2057,8 +2064,13 @@ choose-download-folder-title = Selecciona la carpeta de descarga:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Siempre puedes elegir en { -brand-short-name }, incluyendo si deseas usar funciones mejoradas con IA. Próximamente habrá más controles.
+preferences-ai-controls-block-ai-label = Mejoras en el bloqueo de IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = El bloqueo significa que no verás mejoras de IA nuevas o actuales en { -brand-short-name }, ni ventanas emergentes sobre ellas. <a data-l10n-name="link">Obtén más detalles</a> sobre lo que está incluido y cómo controlar las funciones tradicionales de aprendizaje automático, como sugerencias de búsqueda y recomendaciones.
+preferences-ai-controls-blocked-message =
+    .message = Las mejoras de IA, tanto nuevas como actuales, están bloqueadas por defecto. Para desbloquear una función específica, usa los controles a continuación.
 preferences-ai-controls-translations-more-link = Más configuraciones de traducción
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot en la barra lateral
