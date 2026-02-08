@@ -724,6 +724,15 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Ignorer
     .aria-label = Ignorer
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Gjør dette området til ditt eget
 newtab-activation-window-message-customization-focus-message = Velg et nytt bakgrunnsbilde, legg til snarveier til favorittnettstedene dine, og hold deg oppdatert på artikler som interesserer deg.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Begynn å tilpasse
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Dette området følger reglene dine

@@ -227,8 +227,12 @@ sidebar-genai-survey-satisfaction-question = Hvor fornøyd er du med å ha tilga
 sidebar-genai-survey-productive-question =
     I hvilken grad er du enig eller uenig i denne påstanden:<br/>
     "AI-chatboten i sidestolpen hjelper meg å bli mer produktiv"?
+splitview-onboarding-callout-title-1 = Delt visning: en bedre måte å multitaske på
+splitview-onboarding-callout-subtitle-1 = Høyreklikk på denne fanen og velg «Legg til delt visning» for å se to faner samtidig.
 splitview-onboarding-callout-cta-1 = Prøv det nå
 splitview-onboarding-callout-title-2 = Se to faner samtidig med delt visning
+splitview-onboarding-callout-subtitle-2 = Ingen ekstra vinduer. Ingen fanebytting. Høyreklikk på denne fanen og velg «Legg til delt visning».
+splitview-onboarding-callout-cta-2 = Prøv delt visning
 unified-search-callout-title = Bytt mellom søkemotorer
 unified-search-callout-subtitle = Velg det som fungerer best for ditt spesifikke søk.
 unified-search-callout-primary-label = Neste
