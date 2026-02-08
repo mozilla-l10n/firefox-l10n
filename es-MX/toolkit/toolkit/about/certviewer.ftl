@@ -37,6 +37,8 @@ certificate-viewer-inc-locality = Localidad de la empresa
 certificate-viewer-locality = Localidad
 certificate-viewer-location = Ubicación
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Nombre del registro
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = ID de registro
 certificate-viewer-method = Método
 certificate-viewer-modulus = Módulo
