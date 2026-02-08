@@ -60,3 +60,12 @@ add-engine-name = Nombre del motor de búsqueda
 
 add-engine-url-placeholder =
     .placeholder = por ejemplo, https://developer.mozilla.com/search?q=%s
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Agregar motor de búsqueda
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = Avanzado

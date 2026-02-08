@@ -71,6 +71,7 @@ storage-table-headers-cookies-expires = Expira / Tiempo máximo
 storage-table-headers-cookies-size = Tamaño
 storage-table-headers-cookies-last-accessed = Último acceso
 storage-table-headers-cookies-creation-time = Creación
+storage-table-headers-cookies-update-time = Actualizado
 storage-table-headers-cache-status = Estado
 storage-table-headers-extension-storage-area = Área de almacenamiento
 

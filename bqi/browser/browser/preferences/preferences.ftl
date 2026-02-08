@@ -114,6 +114,9 @@ advanced-fonts =
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header2 =
     .label = گپ نمایی
+preferences-default-zoom-label =
+    .label = گپ نمایی پؽش فرز
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = گپ نمایی
 preferences-default-zoom = گپ نمایی پؽش فرز
@@ -126,6 +129,20 @@ preferences-zoom-text-only =
     .label = تینا گپ نمایی هؽل
     .accesskey = t
 language-header = زووݩ
+website-add-language =
+    .label = ٱووردن زووݩ
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = پاک کردن { $locale }
+    .title = پاک کردن { $locale }
 translate-web-pages =
     .label = ولرنیڌن موئتوا وب
     .accesskey = T
@@ -136,6 +153,11 @@ translate-attribution = ولرنیڌن وا <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استسنایل…
     .accesskey = x
+settings-translations-subpage-language-select-option =
+    .label = ٱووردن زووݩ
+settings-translations-subpage-language-add-button =
+    .aria-label = ٱووردن زووݩ
+    .title = ٱووردن زووݩ
 settings-translations-subpage-download-retry-button =
     .label = قپ ریت دووارته
 settings-translations-subpage-download-delete-button =
@@ -147,6 +169,9 @@ settings-translations-subpage-download-cancel-button =
 
 downloads-header-2 =
     .label = دانلودا
+download-save-where-2 =
+    .label = زفت فایل من
+    .accesskey = v
 download-header = دانلودا
 download-save-where = زفت فایل من
     .accesskey = v
@@ -196,6 +221,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = و کار گرؽڌن { $plugin-name } (من { -brand-short-name })
+applications-open-inapp =
+    .label = گۊشیڌن من { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -220,10 +247,13 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = { -brand-short-name } وا فایلا دیری چ کونه؟
 applications-save-for-new-types =
     .label = زفت فایل
     .accesskey = S
 play-drm-content-learn-more = قلوه دووسته بۊین
+update-application-allow-description = هشتن { -brand-short-name } سی
+update-setting-write-failure-title2 = ختا مجال زفت کردن سامووا ورۊ رسۊوی
 update-in-progress-ok-button = &دیر وندن
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -242,9 +272,12 @@ performance-settings-learn-more = قلوه دووسته بۊین
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (پؽش فرز)
+performance-group =
+    .label = عملکرد
 
 ## General Section - Browsing
 
+browsing-title = گشتن
 browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
 browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
@@ -344,14 +377,22 @@ home-prefs-lists-header =
 home-prefs-timer-header =
     .label = زمووݩ سنج
 home-prefs-manage-topics-link = دؽوۉداری سرتالا
+home-prefs-choose-wallpaper-link = پسند شؽوات زمینه
 
 ## Search Section
 
 search-bar-header = نوار پیتینیڌن
 search-one-click-header2 = پیتینیڌن ره نهنگا
+search-remove-engine =
+    .label = پاک کردن
+    .accesskey = R
+search-add-engine =
+    .label = ٱووردن
+    .accesskey = A
 search-edit-engine =
     .label = آلشت
     .accesskey = E
+search-find-more-link = جوستن موتورا پیتینیڌن قلوه
 
 ## Containers Section
 
@@ -359,11 +400,20 @@ containers-back-button2 =
     .aria-label = وورگشتن و سامووا
 containers-settings-button =
     .label = سامووا
+containers-remove-button =
+    .label = پاک کردن
 
 ## Account and sync
 
 sync-group-label =
     .label = هوم گوم کردن
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+sync-signedout-account-signin3 =
+    .label = سی هوم گوم کردن و من بیاین…
+    .accesskey = i
 
 ## Firefox account - Signed in
 
@@ -393,6 +443,9 @@ sync-account-signed-in-display-name =
 
 ##
 
+sync-remove-account =
+    .label = پاک کردن هساو
+    .accesskey = R
 sync-sign-in =
     .label = و من ٱووڌن
     .accesskey = g
@@ -401,6 +454,9 @@ sync-sign-in =
 
 prefs-syncing-on = هوم گوم کردن: رۊشن
 prefs-syncing-off = هوم گوم کردن: کۊر
+prefs-sync-turn-on-syncing =
+    .label = رۊشن کردن هوم گوم کردن…
+    .accesskey = s
 
 ## The list of things currently syncing.
 
