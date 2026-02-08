@@ -7,6 +7,7 @@ about-translations-title = Traducciones de { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Traducciones instantáneas que respetan tu privacidad.
 about-translations-learn-more-link = Saber más
+about-translations-unsupported-info-button = Saber más
 about-translations-language-load-error-button = Intentar de nuevo
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

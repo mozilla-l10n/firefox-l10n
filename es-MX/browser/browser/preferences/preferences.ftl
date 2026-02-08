@@ -762,6 +762,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Todavía no se han agregado sitios web
+home-custom-homepage-delete-address-button =
+    .aria-label = Eliminar dirección
+    .title = Eliminar dirección
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Todavía no se han agregado sitios web
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2091,6 +2094,7 @@ preferences-ai-controls-state-blocked =
     .label = Bloqueado
 preferences-ai-controls-state-description-before = Qué significan las opciones:
 preferences-ai-controls-state-description-available = <strong>Disponible:</strong> Verás la función y podrás usarla.
+preferences-ai-controls-state-description-enabled = <strong>Habilitada:</strong> Has optado por utilizar la función.
 preferences-ai-controls-state-description-blocked = <strong>Bloqueada:</strong> No verás ni podrás usar la funcionalidad. Para la IA en el dispositivo, se eliminarán los modelos ya descargados.
 preferences-ai-controls-block-confirmation-heading = ¿Bloquear las mejoras de la IA?
 preferences-ai-controls-block-confirmation-translations = Traducciones
