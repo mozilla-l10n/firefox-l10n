@@ -422,8 +422,8 @@ quickactions-cmd-private = گشتن سیخومی
 quickactions-refresh = وانۊ کردن { -brand-short-name }
 quickactions-cmd-refresh = وانۊ کردن
 # Restarts the browser
-quickactions-restart = ر وندن دووارته { -brand-short-name }
-quickactions-cmd-restart = ر وندن دووارته
+quickactions-restart = ره وندن دووارته { -brand-short-name }
+quickactions-cmd-restart = ره وندن دووارته
 # Opens the screenshot tool
 quickactions-screenshot3 = ز بلگه شؽوات بیگیرین
 # Opens about:translations
@@ -1192,7 +1192,7 @@ file-picker-crashed-show-in-folder =
 onboarding-checklist-button-label = تموم کردن پۊرنیڌن
 onboarding-aw-finish-setup-button =
     .label = تموم کردن پۊرنیڌن
-    .tooltiptext = تموم کردن ر وندن { -brand-short-name }
+    .tooltiptext = تموم کردن ره وندن { -brand-short-name }
 
 ## The urlbar trust icon & panel
 

@@ -60,7 +60,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-should-restart-title = ر وندن دووارته { -brand-short-name }
+should-restart-title = ره وندن دووارته { -brand-short-name }
 cancel-no-restart-button = لقو
 
 ## General Section

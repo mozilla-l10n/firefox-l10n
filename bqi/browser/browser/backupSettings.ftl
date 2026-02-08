@@ -95,7 +95,7 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = رزم
 restore-from-backup-password-description = ای کار نوسخه لادرار رزم ناهاڌه بیڌه ایسا ن اگوشه.
 restore-from-backup-cancel-button = لقو
-restore-from-backup-confirm-button = وورگندن وو ر وندن دووارته
+restore-from-backup-confirm-button = وورگندن وو ره وندن دووارته
 restore-from-backup-restoring-button = هونی اوورگنه…
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.

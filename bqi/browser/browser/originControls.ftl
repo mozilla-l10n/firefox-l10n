@@ -7,7 +7,7 @@
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-runnable-hover-open = گۊشیڌن وردنی
-origin-controls-state-runnable-hover-run = ر وندن وردنی
+origin-controls-state-runnable-hover-run = ره وندن وردنی
 
 ## Extension's toolbar button.
 ## Variables:
