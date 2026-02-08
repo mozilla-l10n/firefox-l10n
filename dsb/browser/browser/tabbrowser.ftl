@@ -49,6 +49,8 @@ tabbrowser-close-tabs-tooltip =
             [few] { $tabCount } rejtariki zacyniś
            *[other] { $tabCount } rejtarikow zacyniś
         }
+tab-splitview-splitter =
+    .aria-label = Wjelikosć rejtarikow źělonego naglěda změniś
 
 ## Tooltips for tab audio control
 ## Variables:

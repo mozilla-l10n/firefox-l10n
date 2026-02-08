@@ -32,6 +32,7 @@ perftools-description-intro =
 perftools-description-local-build =
     Jolic wersiju pśespytujośo, kótaruž sćo sam kompilěrował na toś tom licadle, pśidajśo pšosym lišćinje dołojce objdir swójeje wersije, aby
     se dał wužywas, za symbolowymi informacijami pytaś.
+perftools-pick-local-build-directory = Wersijowy zapis wubraś
 
 ## The controls for the interval at which the profiler samples the code.
 

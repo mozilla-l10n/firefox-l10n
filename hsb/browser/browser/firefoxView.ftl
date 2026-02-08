@@ -137,7 +137,7 @@ firefoxview-synced-tabs-header = Rajtarki z druhich gratow
 firefoxview-chats-nav = Chaty
     .title = Chaty
 firefoxview-chats-header = Chaty
-firefoxview-chat-context-delete = Z chatowy zhašeć
+firefoxview-chat-context-delete = Z chatow zhašeć
     .accesskey = Z
 
 ##
@@ -174,7 +174,7 @@ firefoxview-search-text-box-opentabs =
     .placeholder = Wočinjene rajtarki pytać
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
-    .placeholder = Chaty pytać
+    .placeholder = Chaty přepytać
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

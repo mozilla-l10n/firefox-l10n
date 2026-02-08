@@ -862,6 +862,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Hyšći žedne websedła pśidane.
+home-custom-homepage-delete-address-button =
+    .aria-label = Adresu lašowaś
+    .title = Adresu lašowaś
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Hyšći žedne websedła pśidane.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
