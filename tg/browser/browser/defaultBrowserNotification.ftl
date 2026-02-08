@@ -5,7 +5,7 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>Шумо мехоҳед, ки «{ -brand-short-name }»-ро ҳамчун браузери асосӣ танзим намоед?</strong> Фаъолияти худро дар Интернет тезтар ва бехатар кунед ва маълумоти шахсиро дар веб ҳифз намоед.
 default-browser-notification-button =
-    .label = Ҳамчун стандартӣ танзим кардан
+    .label = Ҳамчун пешфарз танзим кардан
     .accesskey = Ҳ
 
 ## These strings are used for the default browser prompt. There are 2 variations
@@ -40,3 +40,5 @@ default-browser-guidance-notification-body-instruction-win11 =
     Қадами 2: Барои барномаи «{ -brand-short-name }» имкони «Ҳамчун пешфарз танзим кардан»-ро интихоб намоед
 default-browser-guidance-notification-info-page = Ба ман нишон диҳед
 default-browser-guidance-notification-dismiss = Тайёр
+default-browser-guidance-notification-v2-title = Танзими «{ -brand-short-name }»-ро барои таъини он ҳамчун браузери пешфарз ба анҷом расонед
+default-browser-guidance-notification-v2-body = Дар танзимоти браузер имкони «Ҳамчун пешфарз танзим кардан»-ро барои «{ -brand-short-name }» интихоб намоед.

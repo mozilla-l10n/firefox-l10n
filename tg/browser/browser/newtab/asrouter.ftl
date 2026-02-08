@@ -243,10 +243,10 @@ annotations-default-pdf-handler-headline = Ба хати нуқтадор имз
 annotations-default-pdf-handler-body = Расм кашед, нависед ё имзои худро бор кунед, пас онро айнан дар ҷойи дилхоҳ гузоред. Барои истифодаи такрорӣ имзоҳои дилхоҳи ҳудро нигоҳ доред.
 annotations-make-default-pdf-handler-title = Браузери «{ -brand-short-name }»-ро ҳамчун муҳаррири «PDF»-и пешфарзи худ истифода мебаред?
 annotations-make-default-pdf-handler-subtitle = Ҳар дафъае, ки шумо файли «PDF»-ро мекушоед, шумо ба абзорҳои мо дастрасӣ пайдо мекунед.
-annotations-make-default-pdf-primary-cta-label = Ҳамчун стандартӣ танзим кардан
+annotations-make-default-pdf-primary-cta-label = Ҳамчун пешфарз танзим кардан
 annotations-make-default-pdf-next-label = Навбатӣ
 annotations-make-default-pdf-primary-cta =
-    .label = Ҳамчун стандартӣ танзим кардан
+    .label = Ҳамчун пешфарз танзим кардан
 annotations-make-default-pdf-next =
     .label = Навбатӣ
 
@@ -279,7 +279,7 @@ device-migration-fxa-spotlight-sync-primary-button = Оғози кор
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 pdf-default-notification-message = <strong>Барномаи «{ -brand-short-name }»-ро ҳамчун хонандаи пешфарзи файлҳои PDF танзим мекунед?</strong> Барои хондан ва таҳрир кардани файлҳои PDF, ки ба компютери шумо нигоҳ дошта шудаанд, аз барномаи { -brand-short-name } истифода баред.
 pdf-default-notification-set-default-button =
-    .label = Ҳамчун стандартӣ танзим кардан
+    .label = Ҳамчун пешфарз танзим кардан
 pdf-default-notification-decline-button =
     .label = Ҳоло не
 
@@ -431,12 +431,12 @@ etp-strict-exceptions-infobar-not-now = Ҳоло не
 set-default-menu-message-simple-layout-title = «{ -brand-short-name }» браузери пешфарзи шумо намебошад
 set-default-menu-message-simple-layout-title-variant = «{ -brand-short-name }» браузери асосии шумо намебошад
 set-default-menu-message-row-layout-title = Таъин кардани «{ -brand-short-name }» ҳамчун браузери асосии шахсӣ
-set-default-menu-message-row-layout-title-variant = Таъин кардани { -brand-short-name } ҳамчун браузери стандартии шахсӣ
+set-default-menu-message-row-layout-title-variant = Таъин кардани «{ -brand-short-name }» ҳамчун браузери пешфарзи шахсӣ
 set-default-menu-message-row-layout-subtitle = Ҳар вақте ки шумо бо Интернет кор мекунед, суръат, амният ва махфиятро ба даст оред.
 set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->
-        [macos] «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери стандартии шахсӣ истифода баред ва ба мустақари худ ҷойгир кунед.
-       *[other] «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери стандартии шахсӣ истифода баред ва ба навори вазифаи худ ҷойгир кунед.
+        [macos] «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарзи шахсӣ истифода баред ва ба мустақари худ ҷойгир кунед.
+       *[other] «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарзи шахсӣ истифода баред ва ба навори вазифаи худ ҷойгир кунед.
     }
-set-default-menu-message-primary-button = Ҳамчун стандартӣ танзим кардан
+set-default-menu-message-primary-button = Ҳамчун пешфарз танзим кардан
 set-default-menu-message-primary-button-variant = Гузоштан ҳамчун браузери асосӣ
