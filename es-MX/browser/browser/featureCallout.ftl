@@ -175,6 +175,7 @@ sidebar-pins-callout-cta-button = Anclar pestaña
 
 ## Pinning Tabs Strings
 
+pin-tabs-callout-1-title = Mantén las pestañas importantes a tu alcance
 pin-tabs-callout-cta-1-button = Fijar esta pestaña
 pin-tabs-callout-cta-2-button = Fijar esta pestaña
 pin-tabs-callout-3-title = Mantén los sitios importantes a tu alcance
@@ -218,6 +219,9 @@ sidebar-genai-survey-satisfaction-question = ¿En qué medida estás satisfecho 
 sidebar-genai-survey-productive-question =
     ¿En qué medida estás de acuerdo o en desacuerdo con esta afirmación:<br/>
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
+splitview-onboarding-callout-cta-1 = Pruébalo ahora
+splitview-onboarding-callout-title-2 = Ver dos pestañas a la vez con vista dividida
+splitview-onboarding-callout-cta-2 = Prueba la vista dividida
 unified-search-callout-title = Cambiar entre motores de búsqueda
 unified-search-callout-subtitle = Elija lo que funcione mejor para su búsqueda específica.
 unified-search-callout-primary-label = Siguiente

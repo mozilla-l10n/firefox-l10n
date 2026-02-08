@@ -132,6 +132,12 @@ firefoxview-synced-tabs-nav = Pestañas de otros dispositivos
     .title = Pestañas de otros dispositivos
 firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View

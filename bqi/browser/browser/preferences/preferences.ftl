@@ -130,6 +130,12 @@ translate-web-pages =
     .label = ولرنیڌن موئتوا وب
     .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = ولرنیڌن وا <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = استسنایل…
+    .accesskey = x
 settings-translations-subpage-download-retry-button =
     .label = قپ ریت دووارته
 settings-translations-subpage-download-delete-button =
@@ -141,11 +147,43 @@ settings-translations-subpage-download-cancel-button =
 
 downloads-header-2 =
     .label = دانلودا
+download-header = دانلودا
+download-save-where = زفت فایل من
+    .accesskey = v
+applications-header = برنومه یل
+applications-type-column =
+    .label = نوع موئتوا
+    .accesskey = T
+applications-action-column =
+    .label = عمل
+    .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } فایل
 applications-action-save =
     .label = زفت فایل
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = و کار گرؽڌن { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = و کار گرؽڌن { $app-name } (پؽش فرز)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] و کار گرؽڌن برنومه یل پؽش فرز macOS
+            [windows] و کار گرؽڌن برنومه یل پؽش فرز Windows
+           *[other] و کار گرؽڌن برنومه یل پؽش فرز سیستوم
+        }
+applications-use-other =
+    .label = و کار گرؽڌن برنومه یل دیری…
+applications-select-helper = پسند برنومه هیاری
+applications-manage-app =
+    .label = جۊزعیات برنومه…
+applications-always-ask =
+    .label = هی پۊرسیڌه بۊ
 # Variables:
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
@@ -154,6 +192,10 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = و کار گرؽڌن { $plugin-name } (من { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
