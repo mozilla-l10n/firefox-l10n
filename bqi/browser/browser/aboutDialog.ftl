@@ -36,7 +36,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } هونی ز ی نم�
 aboutdialog-update-manual-with-link = ورۊ رسۊویا من <label data-l10n-name="manual-link">{ $displayUrl }</label> هڌسووݩ
 settings-update-manual-with-link = ورۊ رسۊویا من <a data-l10n-name="manual-link">{ $displayUrl }</a> هڌسووݩ
 update-unsupported = ری ای سیستوم نترین بیشتر ز یو ورۊ کۊنین. <label data-l10n-name="unsupported-link">قلوه دووسته بۊین</label>
-update-restarting = ر وندن دووارته…
+update-restarting = ره وندن دووارته…
 update-internal-error2 = سی دل ختایی منی، واجۊری سی ورۊ رسۊوی یل ٱنجوم نوابی. ورۊ رسۊوی یل من <label data-l10n-name="manual-link">{ $displayUrl }</label> هڌسووݩ
 
 ##

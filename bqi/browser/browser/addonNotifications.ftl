@@ -36,7 +36,7 @@ xpinstall-prompt-install =
 ##
 
 xpinstall-disabled-button =
-    .label = و کار وندن
+    .label = فعال کردن
     .accesskey = n
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
