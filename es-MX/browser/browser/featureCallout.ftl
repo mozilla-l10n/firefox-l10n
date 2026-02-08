@@ -123,6 +123,7 @@ taskbar-tabs-email-callout-subtitle = Inicia tu correo web como una aplicación 
 taskbar-tabs-media-callout-title = Regresa a transmitir desde tu barra de tareas
 taskbar-tabs-media-callout-subtitle = Inicia tus sitios de streaming como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Agrega este sitio a tu barra de tareas
+taskbar-tabs-value-prop-callout-subtitle = Ejecútalo en su propia ventana y en una interfaz simplificada con un solo clic.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -135,6 +136,9 @@ windows-10-eos-sync-new-device-subtitle-1 = Sincroniza para llevar contigo tus m
 windows-10-eos-sync-new-device-title-2 = ¿Te cambias de dispositivo? No pierdas lo que importa.
 windows-10-eos-sync-new-device-subtitle-2 = No importa con qué frecuencia uses { -brand-short-name }, la sincronización protege tus marcadores, contraseñas y ajustes.
 windows-10-eos-sync-new-device-primary-label = Sincronizar ahora
+windows-10-eos-sync-general-title-1 = Protege el { -brand-short-name } que has hecho tuyo.
+windows-10-eos-sync-general-subtitle-1 = Realiza copias de seguridad y sincroniza tus contraseñas, marcadores, ajustes y otros datos para preservar aquello que valoras.
+windows-10-eos-sync-general-title-2 = Ahora es un buen momento para hacer una copia de seguridad de tus contraseñas y marcadores.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Mostrar menos recomendaciones
 windows-10-eos-sync-dismiss-button-label = Descartar

@@ -76,14 +76,19 @@ preferences-profiles-settings-button =
 preferences-copy-profile-button = لف گیری
 tabs-group-header2 =
     .label = بلگه یل
+tabs-group-header = بلگه یل
 browser-containers-learn-more = قلوه دووسته بۊین
 browser-containers-settings =
     .label = سامووا…
     .accesskey = i
+startup-group =
+    .label = ره وندن
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زووݩ وو شؽوات
+web-appearance-group =
+    .aria-label = شؽوات وبگه
 preferences-web-appearance-choice-auto = خوتکار
 preferences-web-appearance-choice-light = رۊشن
 preferences-web-appearance-choice-dark = تاریک
@@ -93,17 +98,37 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-contrast-control-header = کونتورول کونتراست
 preferences-colors-header = رنگا
+preferences-colors-manage-button =
+    .label = دؽوۉداری رنگا…
+    .accesskey = C
+preferences-fonts-header = قلما
+default-font = قلم پؽش فرز
+    .accesskey = D
+default-font-size = هندا
+    .accesskey = S
+advanced-fonts =
+    .label = پؽش رئڌه…
+    .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header2 =
     .label = گپ نمایی
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = گپ نمایی
+preferences-default-zoom = گپ نمایی پؽش فرز
+    .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }٪
+preferences-zoom-text-only =
+    .label = تینا گپ نمایی هؽل
+    .accesskey = t
 language-header = زووݩ
+translate-web-pages =
+    .label = ولرنیڌن موئتوا وب
+    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
 settings-translations-subpage-download-retry-button =
     .label = قپ ریت دووارته
