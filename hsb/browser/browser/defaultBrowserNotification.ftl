@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Krok 2: Wubjerće „Als Standard setzen“ za { -brand-short-name }
 default-browser-guidance-notification-info-page = Pokazać
 default-browser-guidance-notification-dismiss = Dokónčeny
+default-browser-guidance-notification-v2-title = Nastajenje { -brand-short-name } jako waš standardny wobhladowak dokónčić
