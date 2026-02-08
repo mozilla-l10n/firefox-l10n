@@ -39,6 +39,7 @@ managed-bookmarks =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = نشووکا دیری
+places-forget-about-this-site-forget = ز ویر بوور
 places-library3 =
     .title = کتاو هووه
 places-cmd-close =
