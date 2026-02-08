@@ -152,6 +152,12 @@ autofill-card-expires-month = Son kul. ayı
 autofill-card-expires-year = Son kul. yılı
 autofill-card-billing-address = Fatura adresi
 autofill-card-network = Kart türü
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = kredi kartları, kredi, kartlar, banka kartları, banka, cüzdan, ödeme
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -227,7 +227,9 @@ sidebar-genai-survey-satisfaction-question = Kenar çubuğundan bir yapay zekâ 
 sidebar-genai-survey-productive-question =
     Aşağıdaki ifadeye katılıyor musunuz?:<br/>
     “Kenar çubuğundaki yapay zekâ sohbet botu daha verimli olmamı sağlıyor”
+splitview-onboarding-callout-title-1 = Ayrık görünüm: Aynı anda çok iş yapmanın daha iyi yolu
 splitview-onboarding-callout-subtitle-1 = İki sekmeyi aynı anda görmek için bu sekmeye sağ tıklayıp “Ayrık görünüm ekle”yi seçin.
+splitview-onboarding-callout-cta-1 = Hemen deneyin
 splitview-onboarding-callout-title-2 = Ayrık görünümle iki sekmeyi aynı anda görün
 splitview-onboarding-callout-cta-2 = Ayrık görünümü deneyin
 unified-search-callout-title = Arama motorları arasında geçiş yapın

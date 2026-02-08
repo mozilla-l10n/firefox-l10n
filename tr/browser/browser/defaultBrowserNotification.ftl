@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     2. adım: { -brand-short-name } uygulamasını seçip “Varsayılan olarak ayarla”ya tıklayın
 default-browser-guidance-notification-info-page = Nasıl yapacağımı göster
 default-browser-guidance-notification-dismiss = Tamam
+default-browser-guidance-notification-v2-title = { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapmayı tamamlayın
+default-browser-guidance-notification-v2-body = Ayarlarda { -brand-short-name } için “Varsayılan olarak ayarla”yı seçin.
+default-browser-guidance-notification-v2-title-only = Ayarlar penceresinden { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapın
