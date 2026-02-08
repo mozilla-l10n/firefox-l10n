@@ -312,19 +312,19 @@ tab-context-move-tab-to-group =
 tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
-            [1] Добавить разделённый вид в новую группу
-            [one] Добавить разделённый вид в новую группу
-            [few] Добавить разделённые виды в новую группу
-           *[many] Добавить разделённые виды в новую группу
+            [1] Добавить разделение экрана в новую группу
+            [one] Добавить разделение экрана в новую группу
+            [few] Добавить разделение экрана в новую группу
+           *[many] Добавить разделение экрана в новую группу
         }
     .accesskey = П
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
-            [1] Добавить разделённый вид в группу
-            [one] Добавить разделённый вид в группу
-            [few] Добавить разделённые виды в группу
-           *[many] Добавить разделённые виды в группу
+            [1] Добавить разделение экрана в группу
+            [one] Добавить разделение экрана в группу
+            [few] Добавить разделение экрана в группу
+           *[many] Добавить разделение экрана в группу
         }
     .accesskey = П
 tab-context-move-tab-to-group-saved-groups =
@@ -434,18 +434,18 @@ tab-note-editor-character-limit =
 
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
-tabbrowser-tab-label-tab-split-view = Разделить вид
+tabbrowser-tab-label-tab-split-view = Разделение экрана
 # Open a new tab next to the current tab and display their contents side by side
 tab-context-add-split-view =
-    .label = Добавить раздельный вид
+    .label = Добавить разделение экрана
     .accesskey = е
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
-    .label = Открыть в раздельном виде
+    .label = Открыть в разделении экрана
     .accesskey = е
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Разъединить раздельный вид
+    .label = Разъединить разделение экрана
     .accesskey = е
 tab-context-badge-new = Новый
 # Split view tabs display their respective contents side by side
@@ -453,13 +453,7 @@ tab-context-badge-new = Новый
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
 # Variables:
 #   $label (String): the text label of the tab visible in the tab strip
-tabbrowser-tab-label-tab-split-view-left = { $label }, Разделённый просмотр слева
-# Split view tabs display their respective contents side by side
-# Displayed within the tooltip on the right tab inside of a tab split view
-# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
-# Variables:
-#   $label (String): the text label of the tab visible in the tab strip
-tabbrowser-tab-label-tab-split-view-right = { $label }, Разделённый просмотр справа
+tabbrowser-tab-label-tab-split-view-left = { $label }, Разделение экрана слева
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
