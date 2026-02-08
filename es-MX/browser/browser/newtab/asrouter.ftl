@@ -431,5 +431,7 @@ etp-strict-exceptions-infobar-not-now = Ahora no
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } no es tu navegador predeterminado
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } no es tu navegador principal
+set-default-menu-message-row-layout-title = Hacer que { -brand-short-name } sea tu navegador principal
+set-default-menu-message-row-layout-title-variant = Hacer que { -brand-short-name } sea tu navegador predeterminado
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador principal
