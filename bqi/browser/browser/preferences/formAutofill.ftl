@@ -5,17 +5,39 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
+autofill-manage-addresses-title = نشۊویا زفت وابیڌه
+autofill-manage-addresses-list-header = نشۊویا
+autofill-manage-credit-cards-title = کارتا ائتواری زفت وابیڌه
+autofill-manage-credit-cards-list-header = کارتا ائتواری
+autofill-manage-payment-methods-title = بارتا پرداخت زفت وابیڌه
+autofill-manage-cards-list-header = کارتا
+autofill-manage-dialog =
+    .style = min-width: 560px
 autofill-manage-remove-button = پاک کردن
+autofill-manage-add-button = ٱووردن…
 autofill-manage-edit-button = آلشت…
 
 ## Labels for address fields (e.g. for a mailing address) used as part of the form
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+address-capture-save-doorhanger-header = نشۊوی زفت بۊ؟
+address-capture-update-doorhanger-header = نشۊویا ورۊ رسۊوی بۊن؟
 address-capture-edit-doorhanger-header = آلشت نشۊوی
+address-capture-save-button =
+    .label = زفت
+    .accessKey = S
+address-capture-not-now-button =
+    .label = سکو ن
+    .accessKey = N
 address-capture-cancel-button =
     .label = لقو
     .accessKey = C
+address-capture-update-button =
+    .label = ورۊ رسۊوی
+    .accessKey = U
+address-capture-manage-address-button =
+    .label = سامووا نشۊوی
 address-capture-learn-more-button =
     .label = قلوه دووسته بۊین
 address-capture-open-menu-button =

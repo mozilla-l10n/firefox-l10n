@@ -85,5 +85,11 @@ fonts-monospace = Monospace
     .accesskey = M
 fonts-monospace-size = هندا
     .accesskey = e
+fonts-minsize-none =
+    .label = هیچ کویکسووݩ
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = پؽش فرز ({ $name })
 fonts-label-default-unnamed =
     .label = پؽش فرز
