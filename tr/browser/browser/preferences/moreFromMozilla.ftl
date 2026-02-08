@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } Yapay Zekâlı Web Sitesi O
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Ücretsiz, kapsamlı rehberler ve referanslarla web geliştirmeyi öğrenin.
 more-from-moz-mdn-button = Web geliştirmeyi öğrenin
+more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Sekmeyi kapat
            *[other] { $tabCount } sekmeyi kapat
         }
+tab-splitview-splitter =
+    .aria-label = Ayrık görünüm sekmelerini yeniden boyutlandır
 
 ## Tooltips for tab audio control
 ## Variables:

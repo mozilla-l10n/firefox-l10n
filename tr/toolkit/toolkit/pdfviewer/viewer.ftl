@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Metin silindi
 pdfjs-editor-undo-bar-message-ink = Çizim silindi
 pdfjs-editor-undo-bar-message-stamp = Görsel silindi
 pdfjs-editor-undo-bar-message-signature = İmza kaldırıldı
+pdfjs-editor-undo-bar-message-comment = Yorum silindi
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
