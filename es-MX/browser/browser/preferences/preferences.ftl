@@ -2071,6 +2071,12 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = El bloqueo significa que no verás mejoras de IA nuevas o actuales en { -brand-short-name }, ni ventanas emergentes sobre ellas. <a data-l10n-name="link">Obtén más detalles</a> sobre lo que está incluido y cómo controlar las funciones tradicionales de aprendizaje automático, como sugerencias de búsqueda y recomendaciones.
 preferences-ai-controls-blocked-message =
     .message = Las mejoras de IA, tanto nuevas como actuales, están bloqueadas por defecto. Para desbloquear una función específica, usa los controles a continuación.
+preferences-ai-controls-on-device-group =
+    .label = IA en el dispositivo
+    .description = Estas usan pequeños modelos de IA que se descargan en tu dispositivo si usas la funcionalidad. Esta modalidad ayuda a proteger tu privacidad.
+preferences-ai-controls-translations-control =
+    .label = Traducciones
+    .description = Navega sin problemas por la web en tu idioma preferido.
 preferences-ai-controls-translations-more-link = Más configuraciones de traducción
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot en la barra lateral
@@ -2083,6 +2089,10 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Bloqueado
+preferences-ai-controls-state-description-before = Qué significan las opciones:
+preferences-ai-controls-state-description-available = <strong>Disponible:</strong> Verás la función y podrás usarla.
+preferences-ai-controls-state-description-blocked = <strong>Bloqueada:</strong> No verás ni podrás usar la funcionalidad. Para la IA en el dispositivo, se eliminarán los modelos ya descargados.
+preferences-ai-controls-block-confirmation-heading = ¿Bloquear las mejoras de la IA?
 preferences-ai-controls-block-confirmation-translations = Traducciones
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
