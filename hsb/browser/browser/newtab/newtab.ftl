@@ -727,3 +727,15 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Přiswojće sej tutón rum
+newtab-activation-window-message-customization-focus-message = Wubjerće nowy pozadkowy wobraz, přidajće swojim najlubšim sydłam zwjazanja a wostańće na běžnym wp stawizničkach, kotrež was zajimuja.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Započńće přiměrjeć
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Tutón městno po wašich prawidłach hraje

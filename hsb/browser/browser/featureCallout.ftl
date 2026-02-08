@@ -227,8 +227,12 @@ sidebar-genai-survey-satisfaction-question = Kak spokojny sće z přistupom k ch
 sidebar-genai-survey-productive-question =
     Do kotreje měry zwoliće abo njezwoliće do tutoho twjerdźenja:<br/>
     „Chatbot KI w bóčnicy mi pomha bóle produktiwny być“?
+splitview-onboarding-callout-title-1 = Dźěleny napohlad: lěpša móžnosć za multitasking
+splitview-onboarding-callout-subtitle-1 = Klikńće z prawej tastu na tutón rajtark a wubjerće „Dźěleny napohlad přidać“, zo byšće dwaj rajtarkaj naraz widźał.
 splitview-onboarding-callout-cta-1 = Spytajće nětko
 splitview-onboarding-callout-title-2 = Wobhladajće sej dwaj rajtarkaj naraz z dźělenym napohladom
+splitview-onboarding-callout-subtitle-2 = Žane přidatne wokna. Žane přeměnjenje rajtarkow. Klikńće z prawej tastu na tutón rajtark a wubjerće „Dźěleny napohlad přidać“.
+splitview-onboarding-callout-cta-2 = Dźěleny napohlad wupruwować
 unified-search-callout-title = Pytawu změnić
 unified-search-callout-subtitle = Wubjerće, što za swoje specifiske pytanje najlěpje funguje.
 unified-search-callout-primary-label = Přichodny
