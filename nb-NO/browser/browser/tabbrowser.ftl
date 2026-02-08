@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Lukk fane
            *[other] Lukk { $tabCount } faner
         }
+tab-splitview-splitter =
+    .aria-label = Endre størrelsen på delt visning-faner
 
 ## Tooltips for tab audio control
 ## Variables:
