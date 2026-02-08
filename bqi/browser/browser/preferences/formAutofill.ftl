@@ -128,6 +128,8 @@ autofill-cancel-button = لقو
 autofill-save-button = زفت
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ٱووردن کارت ائتواری نۊ
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title = آلشت کارت ائتواری
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = ٱووردن کارت
 # The dialog title for editing credit cards in browser preferences.

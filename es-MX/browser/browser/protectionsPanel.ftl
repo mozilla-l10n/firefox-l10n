@@ -87,7 +87,7 @@ smartblock-placeholder-button-text = Permitir en { $websitehost }
 
 ##
 
-protections-panel-settings-label = Configuración de protección
+protections-panel-settings-label = Ajustes de protección
 protections-panel-protectionsdashboard-label = Panel de protección
 
 ## In the Site Not Working? view, we suggest turning off protections if

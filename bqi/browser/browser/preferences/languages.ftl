@@ -7,8 +7,20 @@ webpage-languages-window2 =
     .style = min-width: 40em
 languages-close-key =
     .key = w
+languages-customize-moveup =
+    .label = جاگورو و روء
+    .accesskey = U
+languages-customize-movedown =
+    .label = جاگورو و لم
+    .accesskey = D
+languages-customize-remove =
+    .label = پاک کردن
+    .accesskey = R
 languages-customize-select-language =
     .placeholder = زووی ن سی ٱووردن پسند کۊنین…
+languages-customize-add =
+    .label = ٱووردن
+    .accesskey = A
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #

@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = قلوه دووسته بۊین
+do-not-track-option-always =
+    .label = هی
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 settings-page-title = سامووا
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -15,6 +19,10 @@ settings-page-title = سامووا
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = جوستن من سامووا
+managed-notice-info-icon =
+    .alt = دووسمندیا
+category-list =
+    .aria-label = کتنا
 pane-general-title = پوی وولاتی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -30,11 +38,20 @@ category-privacy =
 pane-sync-title3 = هوم گوم کردن
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = کونتورولا هۊش مسنۊعی
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-experimental-title = آزمایشا { -brand-short-name }
+category-experimental =
+    .tooltiptext = آزمایشا { -brand-short-name }
+pane-experimental-subtitle = وا پاییڌن وا پؽش ریوین
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-reset =
+    .label = وورگندن پؽش فرزا
+    .accesskey = R
+help-button-label = لادراری { -brand-short-name }
 addons-button-label = وردنی یل وو زمینه یل
 focus-search =
     .key = f
@@ -43,6 +60,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-title = ر وندن دووارته { -brand-short-name }
 cancel-no-restart-button = لقو
 
 ## General Section
