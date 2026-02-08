@@ -22,4 +22,5 @@ perftools-devtools-settings-label = سامووا
 
 perftools-button-cancel-recording = لقو زفت کردن
 perftools-button-save-settings = سامووا ن زفت کۊنین وو و عقب وورگرتین
+perftools-button-restart = ره وندن دووارته
 perftools-button-edit-settings = آلشت سامووا…

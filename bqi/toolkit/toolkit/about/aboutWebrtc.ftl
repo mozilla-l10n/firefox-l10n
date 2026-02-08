@@ -6,4 +6,12 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+
+## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
+## is an IETF protocol, and should not normally be translated.
+
+about-webrtc-ice-restart-count-label = ره وندن دووارته ICE:
+
+##
+
 about-webrtc-copy-report-button = لف گیری گوزارش

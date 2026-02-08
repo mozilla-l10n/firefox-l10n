@@ -2,6 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-noThanksButton = ن ممنووݩ
-restartLaterButton = دینداتر ره وندن دووارته ٱنجوم بۊ
-restartNowButton = ره وندن دووارته %S
+third-party-restart-later = دینداتر ره وندن دووارته ٱنجوم بۊ
