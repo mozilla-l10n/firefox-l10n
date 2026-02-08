@@ -132,6 +132,14 @@ firefoxview-synced-tabs-nav = Варақаҳо аз дастгоҳҳои диг�
     .title = Варақаҳо аз дастгоҳҳои дигар
 firefoxview-synced-tabs-header = Варақаҳо аз дастгоҳҳои дигар
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Чатҳо
+    .title = Чатҳо
+firefoxview-chats-header = Чатҳо
+firefoxview-chat-context-delete = Нест кардан аз чатҳо
+    .accesskey = Н
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -164,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Ҷустуҷӯ дар варақаҳои кушодашуда
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Ҷустуҷӯ дар чатҳо
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

@@ -42,3 +42,4 @@ default-browser-guidance-notification-info-page = Ба ман нишон диҳ�
 default-browser-guidance-notification-dismiss = Тайёр
 default-browser-guidance-notification-v2-title = Танзими «{ -brand-short-name }»-ро барои таъини он ҳамчун браузери пешфарз ба анҷом расонед
 default-browser-guidance-notification-v2-body = Дар танзимоти браузер имкони «Ҳамчун пешфарз танзим кардан»-ро барои «{ -brand-short-name }» интихоб намоед.
+default-browser-guidance-notification-v2-title-only = Танзими «{ -brand-short-name }»-ро барои таъини он ҳамчун браузери пешфарз дар «Танзимот» ба анҷом расонед
