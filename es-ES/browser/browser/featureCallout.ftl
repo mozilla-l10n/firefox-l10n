@@ -229,6 +229,10 @@ sidebar-genai-survey-productive-question =
     “El chatbot de IA de la barra lateral de me ayuda a ser más productivo”?
 splitview-onboarding-callout-title-1 = Vista dividida: una mejor manera de realizar múltiples tareas
 splitview-onboarding-callout-subtitle-1 = Haga clic con el botón derecho en esta pestaña y elija “Añadir vista dividida” para ver dos pestañas a la vez.
+splitview-onboarding-callout-cta-1 = Pruébelo ahora
+splitview-onboarding-callout-title-2 = Ver dos pestañas a la vez con vista dividida
+splitview-onboarding-callout-subtitle-2 = Sin ventanas adicionales. Sin cambio de pestañas. Haga clic con el botón derecho en esta pestaña y seleccione “Añadir vista dividida”.
+splitview-onboarding-callout-cta-2 = Pruebe la vista dividida
 unified-search-callout-title = Cambiar entre buscadores
 unified-search-callout-subtitle = Elija lo que funcione mejor para una búsqueda específica.
 unified-search-callout-primary-label = Siguiente
