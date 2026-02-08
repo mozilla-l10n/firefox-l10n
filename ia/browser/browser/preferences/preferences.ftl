@@ -856,6 +856,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Necun sito web ancora addite
+home-custom-homepage-delete-address-button =
+    .aria-label = Deler adresse
+    .title = Deler adresse
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Necun sito web ancora addite
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
