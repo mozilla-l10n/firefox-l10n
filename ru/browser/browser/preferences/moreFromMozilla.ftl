@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = Создатель ИИ-веб-сайта { -solo-a
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Изучите веб-разработку с помощью бесплатных подробных руководств и ссылок.
 more-from-moz-mdn-button = Изучение веб-разработки
+more-from-moz-mdn-title2 = { -mdn-brand-name }

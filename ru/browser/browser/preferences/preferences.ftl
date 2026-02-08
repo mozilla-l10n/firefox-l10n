@@ -859,6 +859,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Пока не добавлено ни одного веб-сайта.
+home-custom-homepage-delete-address-button =
+    .aria-label = Удалить адрес
+    .title = Удалить адрес
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Пока не добавлено ни одного веб-сайта.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

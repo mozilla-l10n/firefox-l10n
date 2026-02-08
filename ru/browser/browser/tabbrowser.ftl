@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Закрыть { $tabCount } вкладки
            *[many] Закрыть { $tabCount } вкладок
         }
+tab-splitview-splitter =
+    .aria-label = Изменить размер вкладок в разделении экрана
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -454,6 +456,12 @@ tab-context-badge-new = Новый
 # Variables:
 #   $label (String): the text label of the tab visible in the tab strip
 tabbrowser-tab-label-tab-split-view-left = { $label }, Разделение экрана слева
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, Разделение экрана справа
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

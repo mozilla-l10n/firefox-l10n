@@ -152,6 +152,12 @@ autofill-card-expires-month = Месяц срока действия
 autofill-card-expires-year = Год срока действия
 autofill-card-billing-address = Адрес выставления счёта
 autofill-card-network = Тип карты
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = банковские карты, кредит, карты, дебетовые карты, дебетовая, кошелёк, оформление заказа
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

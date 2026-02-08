@@ -228,6 +228,11 @@ sidebar-genai-survey-productive-question =
     В какой степени вы согласны или не согласны с этим заявлением:<br/>
     «ИИ-чат-бот на боковой панели помогает мне быть более продуктивным»?
 splitview-onboarding-callout-title-1 = Разделение экрана: лучший метод для многозадачности
+splitview-onboarding-callout-subtitle-1 = Щёлкните правой кнопкой мыши по этой вкладке и выберите «Добавить разделение экрана», чтобы увидеть сразу две вкладки.
+splitview-onboarding-callout-cta-1 = Попробовать сейчас
+splitview-onboarding-callout-title-2 = Смотрите сразу две вкладки с разделением экрана
+splitview-onboarding-callout-subtitle-2 = Без дополнительных окон. Нет листания вкладок. Щёлкните правой кнопкой мыши по этой вкладке и выберите «Добавить разделение экрана».
+splitview-onboarding-callout-cta-2 = Попробовать разделение экрана
 unified-search-callout-title = Переключение между поисковыми системами
 unified-search-callout-subtitle = Выберите, что лучше всего работает для вашего конкретного поиска.
 unified-search-callout-primary-label = Далее
