@@ -92,12 +92,25 @@ translations-panel-restore-button =
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = ولرنیڌنا
 translations-manage-settings-button =
     .label = سامووا…
     .accesskey = t
 translations-manage-description = دانلود زووا سی ولرنیڌن آفلاین.
 translations-manage-all-language = پوی زووا
+translations-manage-download-button = دانلود
+translations-manage-delete-button = پاک کردن
 translations-manage-download-description = دانلود زووا سی ولرنیڌن آفلاین
+translations-manage-language-download-button =
+    .label = دانلود
+translations-manage-language-download-all-button =
+    .label = دانلود پوی
+    .accesskey = D
+translations-manage-language-remove-button =
+    .label = پاک کردن
+translations-manage-language-remove-all-button =
+    .label = پاک کردن پوی
+    .accesskey = e
 translations-settings-title =
     .title = سامووا ولرنیڌن
     .style = min-width: 36em

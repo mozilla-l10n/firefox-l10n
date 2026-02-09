@@ -5,6 +5,7 @@
 
 ## Used as list items in sharing menu
 
+webrtc-item-camera = شؽواتگر
 webrtc-item-application = برنومه
 webrtc-item-window = نیمدری
 webrtc-item-browser = بلگه
