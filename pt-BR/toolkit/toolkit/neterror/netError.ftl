@@ -50,7 +50,7 @@ neterror-http-empty-response = Verifique se você digitou o endereço do site co
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-http-empty-response-description = { $hostname } enviou de volta uma página vazia.
-neterror-captive-portal = Você deve se autenticar nessa rede antes de poder acessar a internet.
+neterror-captive-portal = Você precisa se autenticar nesta rede para poder acessar a internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Pretendia acessar <a data-l10n-name="website">{ $hostAndPath }</a>?
