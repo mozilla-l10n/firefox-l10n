@@ -331,6 +331,9 @@ home-mode-choice-blank =
     .label = بلگه پتی
 home-homepage-custom-url =
     .placeholder = جا وندن ی نشۊوی…
+choose-bookmark =
+    .label = و کار گرؽڌن نشووک…
+    .accesskey = B
 home-homepage-header = بلگه هووه ای
 
 ## Home Section - Home Page Customization
