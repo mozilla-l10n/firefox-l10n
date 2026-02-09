@@ -114,11 +114,13 @@ fxa-adoption-passwords-primary-button-label = ਸਾਈਟ ਅੱਪ
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਫ਼ੀਡ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਰੱਖੋ
+taskbar-tabs-social-callout-subtitle = ਆਪਣੀਆਂ ਸ਼ੋਸ਼ਲ ਸਾਈਟਾਂ ਨੂੰ { -brand-short-name } ਵਲੋਂ ਸੁਰੱਖਿਅਤ ਸੁਚਾਰੂ ਵਿੰਡੋ ਵਿੱਚ ਐਪ ਵਾਗੂੰ ਚਲਾਓ।
 taskbar-tabs-chat-callout-title = ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਰਾਹੀਂ ਗੱਲਬਾਤ ਕਰੋ
 taskbar-tabs-chat-callout-subtitle = ਆਪਣੀਆਂ ਚੈਟ ਸਾਈਟਾਂ ਨੂੰ { -brand-short-name } ਵਲੋਂ ਸੁਰੱਖਿਅਤ ਸੁਚਾਰੂ ਵਿੰਡੋ ਵਿੱਚ ਐਪ ਵਾਗੂੰ ਚਲਾਓ।
 taskbar-tabs-email-callout-title = ਆਪਣੀ ਈਮੇਲ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਰੱਖੋ
 taskbar-tabs-email-callout-subtitle = ਆਪਣੀ ਵੈੱਬਮੇਲ ਨੂੰ { -brand-short-name } ਵਲੋਂ ਸੁਰੱਖਿਅਤ ਸੁਚਾਰੂ ਵਿੰਡੋ ਵਿੱਚ ਐਪ ਵਾਗੂੰ ਚਲਾਓ।
 taskbar-tabs-media-callout-title = ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਤੋਂ ਸਟਰੀਮਿੰਗ ਉੱਤੇ ਵਾਪਸ ਜਾਓ
+taskbar-tabs-media-callout-subtitle = ਆਪਣੀਆਂ ਸਟਰੀਮ ਸਾਈਟਾਂ ਨੂੰ { -brand-short-name } ਵਲੋਂ ਸੁਰੱਖਿਅਤ ਸੁਚਾਰੂ ਵਿੰਡੋ ਵਿੱਚ ਐਪ ਵਾਗੂੰ ਚਲਾਓ।
 taskbar-tabs-value-prop-callout-title = ਇਸ ਸਾਈਟ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਜੋੜੋ
 taskbar-tabs-value-prop-callout-subtitle = ਇਸ ਨੂੰ ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਆਪਣੀ ਵਿੰਡੋ ਵਿੱਚ ਅਤੇ ਸਰਲ ਕੀਤੇ ਇੰਟਰਫੇਸ ਵਿੱਚ ਚਲਾਓ।
 
@@ -149,6 +151,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = ਅੱਗੇ
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = ਨਵਾਂ: ਲਿੰਕਾਂ ਦੀ ਝਲਕ ਵੇਖਣ ਲਈ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ
+link-preview-onboarding-callout-description = ਲਿੰਕ ਕਲਿੱਕ ਕਰਨ ਦਾ ਫਾਇਦਾ ਹੈ ਕਿ ਨਹੀਂ, ਇਹ ਪਤਾ ਕਰਨ ਵਾਸਤੇ ਸੰਖੇਪ ਸਾਰ, ਪੜ੍ਹਨ ਲਈ ਲੱਗਣ ਵਾਲਾ ਸਮਾਂ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨਾਲ ਫੈਸਲਾ ਕਰੋ। ਸੱਜਾ ਕਲਿੱਕ ਕਰਕੇ ਵੀ ਮੌਜੂਦ ਹੈ।
 
 ## Sidebar Strings
 
@@ -156,6 +159,7 @@ sidebar-button-callout-title = ਬਾਹੀ ਵਿੱਚ ਟੈਬਾਂ ਦੇ 
 sidebar-button-callout-subtitle = ਟੈਬਾਂ ਦੇ ਟਾਈਟਲ ਵੇਖਣ ਵਾਸਤੇ ਬਾਹੀ ਵਾਲੇ ਬਟਨ ਨੂੰ ਬਾਹੀ ਫੈਲਾਉਣ ਲਈ ਵਰਤੋ।
 sidebar-button-callout-vertical-tabs = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਉਣ ਲਈ, ਟੂਲ-ਪੱਟੀ ਵਿੱਚ ਬਾਹੀ ਬਟਨ ਨੂੰ ਚੁਣੋ।
 sidebar-deprecation-callout-title = ਬਾਹੀ ਵਿੱਚ ਨਵੇਂ ਅੱਪਡੇਟ ਛੇਤੀ ਹੀ ਆ ਰਹੇ ਹਨ
+sidebar-deprecation-callout-subtitle = ਜੋ ਬਾਹੀ ਵਾਰ ਰੂਪ ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਵਰਤ ਰਹੇ ਹੋ, ਅਸੀਂ ਉਸ ਨੂੰ ਲੜੀਵਾਰ ਢੰਗ ਨਾਲ ਬੰਦ ਕਰਨ ਜਾ ਰਹੇ ਹਾ। ਅੱਪਡੇਟ ਕੀਤੀ ਬਾਹੀ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ। ਇਹ ਵੱਧ ਤੇਜ਼ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਹੋਰ ਟੂਲਾਂ ਲਈ ਸੌਖਾਲੀ ਪਹੁੰਚ ਮਿਲਦੀ ਹੈ।
 sidebar-deprecation-cta-button = ਹੁਣੇ ਅਜ਼ਮਾਓ
 
 ## Sidebar Vertical Tabs Strings
@@ -215,7 +219,9 @@ sidebar-callout-survey-submit = ਭੇਜੋ
 sidebar-callout-survey-thank-you = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!
 sidebar-genai-survey-satisfaction-question = ਬਾਹੀ ਵਿੱਚ ਇੱਕ AI ਚੈਟਬੋਟ ਮੌਜੂਦ ਹੋਣ ਨਾਲ ਤੁਸੀਂ ਕਿੰਨਾ ਕੁ ਸੰਤਸ਼ਟ ਹੋ?
 sidebar-genai-survey-productive-question = ਤੁਸੀਂ ਅੱਗੇ ਦਿੱਤੇ ਬਿਆਨ ਨਾਲ ਕਿੰਨਾ ਸਹਿਮਤ ਜਾਂ ਅਸਹਿਮਤ ਹੋ:<br/>“ਬਾਹੀ ਵਿੱਚ AI ਚੈਟਬੋਟ ਨੇ ਮੇਰੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵਧਾਉਣ ਲਈ ਮਦਦ ਕੀਤੀ ਹੈ”?
-splitview-onboarding-callout-cta-1 = ਹੁਣੇ ਅਜ਼ਮਾਓ
+splitview-onboarding-callout-title-1 = ਵੰਡ ਝਲਕ: ਮਲਟੀ-ਟਾਸਕ ਲਈ ਵਧੀਆ ਢੰਗ
+splitview-onboarding-callout-subtitle-1 = ਇਸ ਟੈਬ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਦੋ ਟੈਬਾਂ ਨੂੰ ਇੱਕ ਵਾਰ ਵਿੱਚ ਵੇਖਣ ਲਈ “ਵੰਡ ਝਲਕ ਵਿੱਚ ਜੋੜੋ” ਨੂੰ ਚੁਣੋ।
+splitview-onboarding-callout-cta-1 = ਇਸ ਨੂੰ ਹੁਣੇ ਅਜ਼ਮਾਓ
 splitview-onboarding-callout-title-2 = ਦੋ ਟੈਬਾਂ ਨੂੰ ਵੰਡ ਝਲਕ ਵਿੱਚ ਇੱਕ ਵਾਰ 'ਚ ਵੇਖੋ
 splitview-onboarding-callout-subtitle-2 = ਕੋਈ ਵਾਧੂ ਵਿੰਡੋ ਨਹੀਂ ਹੈ। ਕੋਈ ਟੈਬ ਪਲਟਣੀ ਨਹੀਂ ਹੈ। ਇਸ ਟੈਬ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਅਤੇ "ਵੰਡ ਝਲਕ ਵਿੱਚ ਜੋੜੋ" ਨੂੰ ਚੁਣੋ।
 splitview-onboarding-callout-cta-2 = ਵੰਡ ਝਲਕ ਨੂੰ ਅਜ਼ਮਾਓ
