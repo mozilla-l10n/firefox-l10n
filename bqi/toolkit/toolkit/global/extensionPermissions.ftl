@@ -15,7 +15,7 @@ webext-perms-description-notifications = نشووݩ داڌن وارسۊویا ر
 ## displayed prominently near the usual permission description.
 
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
-webext-perms-extra-warning-userScripts-short = اسکریپتا تاییڌ نوابیڌه ترن خترات ٱمنیتی وو زفت کردن هریم سیخومی وورکل کونن. تینا اسکریپتایی ن ز وردنی یل وو بونچکایی ک وسووݩ ائتماڌ دارین، ر بونین.
+webext-perms-extra-warning-userScripts-short = اسکریپتا تاییڌ نوابیڌه ترن خترات ٱمنیتی وو زفت کردن هریم سیخومی وورکل کونن. تینا اسکریپتایی ز وردنی یل وو بونچکایی ک وسووݩ ائتماڌ دارین ن، ره بونین.
 
 ## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
 ## that formats some of the data collection permissions below using `Intl.ListFormat`.

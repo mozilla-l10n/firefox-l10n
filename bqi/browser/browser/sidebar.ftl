@@ -31,8 +31,12 @@ sidebar-history-delete =
 sidebar-history-clear =
     .label = روفتن ویرگار
 sidebar-history-sort-by-heading = ترتیب و ری:
+sidebar-history-sort-option-date =
+    .label = تاریخ
 sidebar-history-sort-option-site =
     .label = وبگه
+sidebar-history-sort-option-date-and-site =
+    .label = تاریخ وو جاگه
 
 ## Labels for sidebar search
 
@@ -45,6 +49,8 @@ sidebar-search-results-header =
 ## Labels for sidebar customize panel
 
 sidebar-customize-extensions-header = وردنی یل نوار کلی
+sidebar-customize-firefox-tools-header =
+    .label = ٱوزارا { -brand-product-name }
 sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
 sidebar-settings =
     .label = سامووا نوار کلی
@@ -68,11 +74,30 @@ sidebar-context-menu-bookmark-tab =
     .label = نشووک ناهاڌن بلگه…
 sidebar-context-menu-copy-link =
     .label = لف گیری لینگ
+sidebar-context-menu-customize-sidebar =
+    .label = سفارشی کردن نوار کلی
+# Variables:
+#   $deviceName (String) - The name of the device the user is closing a tab for
+sidebar-context-menu-close-remote-tab =
+    .label = بستن بلگه ز { $deviceName }
+sidebar-context-menu-remove-extension2 =
+    .label = پاک کردن { -brand-short-name }
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-pages =
+    .label = پاک کردن بلگه ز ویرگار
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-genai-chat-label =
+    .label = چت بات هۊش مسنۊعی
+sidebar-menu-history-label =
+    .label = ویرگار
 sidebar-menu-bookmarks-label =
     .label = نشووکا
+sidebar-menu-customize-label =
+    .label = سفارشی کردن نوار کلی
 sidebar-menu-more-tools-label =
     .label = ٱوزارا قلوه
 
