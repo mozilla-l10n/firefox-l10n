@@ -320,10 +320,17 @@ home-homepage-mode-label2 = نیمدری یل نۊ
 home-newtabs-mode-label = بلگه یل نۊ
 home-homepage-new-tabs =
     .label = بلگه یل نۊ
+home-restore-defaults =
+    .label = وورگندن پؽش فرزا
+    .accesskey = R
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (پؽش فرز)
+home-mode-choice-custom =
+    .label = نشۊویا سفارشی…
 home-mode-choice-blank =
     .label = بلگه پتی
+home-homepage-custom-url =
+    .placeholder = جا وندن ی نشۊوی…
 home-homepage-header = بلگه هووه ای
 
 ## Home Section - Home Page Customization
