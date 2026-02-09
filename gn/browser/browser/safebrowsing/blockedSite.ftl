@@ -72,3 +72,5 @@ safeb-palm-notdeceptive =
 safeb-blocked-addon-page-error-desc-override = <strong>¿Mba'ére ojejoko ko tenda?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> ikatu ojuaju tembiapo oporombotavykuaa ha ivaívandi.
 safeb-blocked-addon-page-error-desc3-override = <strong>¿Mba’épa ejapóta upévare?</strong>
+safeb-blocked-addon-page-error-desc4-override = Ani hag̃ua oiko jey ko mba’e, ikatu emboguete térã embogue <strong>{ $addonName }</strong> about:addons-gui.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Eñemomaranduve phishing ha ñemo’ã rehe ha malware { -brand-short-name } mba’ére </a>.
