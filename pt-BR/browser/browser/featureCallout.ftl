@@ -227,6 +227,11 @@ sidebar-genai-survey-satisfaction-question = Qual é seu nível de satisfação 
 sidebar-genai-survey-productive-question =
     Até que ponto você concorda ou discorda com esta declaração?<br/>
     “O chatbot de inteligência artificial no painel lateral me ajuda a ser mais produtivo”
+splitview-onboarding-callout-title-1 = Exibição dividida: um jeito melhor de fazer várias coisas ao mesmo tempo
+splitview-onboarding-callout-subtitle-1 = Clique com o botão direito nesta aba e escolha “Adicionar exibição dividida” para ver duas abas de uma só vez.
+splitview-onboarding-callout-title-2 = Veja duas abas ao mesmo tempo com exibição dividida
+splitview-onboarding-callout-subtitle-2 = Nenhuma janela extra. Nenhuma troca de abas. Clique com o botão direito nesta aba e escolha “Adicionar exibição dividida”.
+splitview-onboarding-callout-cta-2 = Experimente a exibição dividida
 unified-search-callout-title = Mudar de mecanismo de pesquisa
 unified-search-callout-subtitle = Escolha o que funciona melhor para sua pesquisa específica.
 unified-search-callout-primary-label = Avançar
