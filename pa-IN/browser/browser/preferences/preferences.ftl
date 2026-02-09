@@ -2233,3 +2233,39 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-description = { -brand-short-name } ਵਿੱਚ ਤੁਹਾਡੇ ਕੋਲ ਹਮੇਸ਼ਾਂ ਚੋਣ ਕਰਨ ਦੀ ਮਰਜ਼ੀ ਹੁੰਦੀ ਹੈ, ਜਿਸ ਵਿੱਚ AI ਨਾਲ ਵਧੀਆਂ ਬਣਾਏ ਫ਼ੀਚਰਾਂ ਨੂੰ ਵਰਤਣਾ ਵੀ ਸ਼ਾਮਲ ਹੈ। ਹੋਰ ਕੰਟਰੋਲ ਵੀ ਛੇਤੀ ਹੀ ਆ ਰਹੇ ਹਨ।
 preferences-ai-controls-block-ai-label = AI ਸੁਧਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = ਪਾਬੰਦੀ ਲਾਉਣ ਦਾ ਅਰਥ ਹੁੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ { -brand-short-name } ਵਿੱਚ ਨਵੇਂ ਜਾਂ ਮੌਜੂਦਾ AI ਸੁਧਾਰ ਜਾਂ ਉਹਨਾਂ ਬਾਰੇ ਪੌਪ-ਅੱਪ ਨਹੀਂ ਵੇਖੋਗੇ। ਰਿਵਾਇਤੀ ਮਸ਼ੀਨ ਸਿਖਲਾਈ ਫ਼ੀਚਰ ਜਿਵੇਂ ਕਿ ਖੋਜ ਸੁਝਾਅ ਅਤੇ ਸਿਫ਼ਾਰਸ਼ਾਂ ਆਦਿ ਵਿੱਚ ਕੀ ਸ਼ਾਮਲ ਹੈ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਕਿਵੇਂ ਕੰਟਰੋਲ ਕਰਨਾ ਹੈ, ਇਸ ਬਾਰੇ <a data-l10n-name="link">ਹੋਰ ਜਾਣਕਾਰੀ ਲਵੋ</a>।
+preferences-ai-controls-blocked-message =
+    .message = ਨਵੇਂ ਅਤੇ ਮੌਜੂਦਾ AI ਸੁਧਾਰਾਂ ਉੱਤੇ ਮੂਲ ਰੂਪ ਵਿੱਚ ਹੀ ਪਾਬੰਦੀ ਲਾਈ ਜਾਂਦੀ ਹੈ। ਕਿਸੇ ਖਾਸ ਫ਼ੀਚਰ ਉੱਤੇ ਪਾਬੰਦੀ ਹਟਾਉਣ ਲਈ, ਹੇਠ ਦਿੱਤੇ ਕੰਟਰੋਲਾਂ ਨੂੰ ਵਰਤੋਂ।
+preferences-ai-controls-on-device-group =
+    .label = ਆਨ-ਡਿਵਾਈਸ AI
+    .description = ਜੇ ਤੁਸੀਂ ਫ਼ੀਚਰ ਨੂੰ ਵਰਤਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਡਾਊਨਲੋਡ ਕੀਤੇ ਛੋਟੇ AI ਮਾਡਲਾਂ ਨੂੰ ਵਰਤਦਾ ਹੈ।
+preferences-ai-controls-translations-control =
+    .label = ਉਲੱਥੇ
+    .description = ਵੈੱਬ ਨੂੰ ਆਪਣੀ ਪਸੰਦ ਦੀ ਭਾਸ਼ਾ ਵਿੱਚ ਸੁਚਾਰੂ ਢੰਗ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ।
+preferences-ai-controls-translations-more-link = ਹੋਰ ਉਲੱਥਾ ਸੈਟਿੰਗਾਂ
+preferences-ai-controls-pdfjs-control =
+    .label = { -brand-short-name } PDF ਝਲਕ ਵਿੱਚ ਚਿੱਤਰ ਲਈ ਬਦਲਵੀਂ ਲਿਖਤ
+    .description = ਜਦੋਂ ਤੁਸੀਂ PDF ਵਿੱਚ ਚਿੱਤਰ ਨੂੰ ਜੋੜਦੇ ਹੋ ਤਾਂ ਇਹ ਉਹਨਾਂ ਨੂੰ ਵੱਧ ਵਰਤੋਯੋਗ ਬਣਾਉਣ ਲਈ ਵਰਣਨ ਨੂੰ ਜੋੜਦਾ ਹੈ।
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = ਟੈਬ ਗਰੁੱਪ ਲਈ ਸੁਝਾਅ
+    .description = ਆਪਣੀਆਂ ਟੈਬਾਂ ਦੇ ਨਾਂ ਅਤੇ ਪ੍ਰਬੰਧ ਲਈ ਸੁਝਾਅ ਲਵੋ
+preferences-ai-controls-key-points-control =
+    .label = ਲਿੰਕ ਝਲਕਾਂ ਵਿੱਚ ਮੁੱਖ ਬਿੰਦੂ
+    .description = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਫ਼ੌਰਨੀ ਸਾਰ ਨੂੰ ਵੇਖੋ।
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = ਬਾਹੀ ਵਿੱਚ AI ਚੈਟ-ਬੋਟ ਪੂਰਕ
+    .description = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਝਲਕ ਵਿੱਚ ਚੈਟ-ਬੋਟ ਨੂੰ ਮੌਜੂਦ ਰੱਖੋ। ਚੋਣਾਂ ਵਿੱਚ Anthropic Claude, ChatGPT, Copilot, Google Gemini, ਅਤੇ Le Chat Mistral ਸ਼ਾਮਲ ਹੈ।
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = ਬਾਹੀ ਵਿੱਚ ਚੈਟ-ਬੋਟ
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = ਮੌਜੂਦ
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = ਸਮਰੱਥ ਹੈ
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = ਪਾਬੰਦੀ ਲਗਾਈ
+preferences-ai-controls-state-description-before = ਚੋਣਾਂ ਦਾ ਮਤਲਬ ਕੀ ਹੈ:
