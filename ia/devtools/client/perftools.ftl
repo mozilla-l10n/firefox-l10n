@@ -33,6 +33,7 @@ perftools-description-local-build =
     Si tu profila un version que tu mesme ha compilate, sur iste machina,
      adde le directorio 'objdir' de tu compilation al lista sequente a fin que
      illo pote esser usate pro cercar informationes sur le symbolos.
+perftools-pick-local-build-directory = Elige le plica de compilation
 
 ## The controls for the interval at which the profiler samples the code.
 

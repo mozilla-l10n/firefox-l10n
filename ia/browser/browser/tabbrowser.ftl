@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Clauder scheda
            *[other] Clauder { $tabCount } schedas
         }
+tab-splitview-splitter =
+    .aria-label = Redimensionar schedas de visualisation scisse
 
 ## Tooltips for tab audio control
 ## Variables:
