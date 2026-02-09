@@ -163,6 +163,11 @@ settings-translations-subpage-download-languages-select-option =
 settings-translations-subpage-download-languages-button =
     .aria-label = دانلود زووݩ
     .title = دانلود زووݩ
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
 settings-translations-subpage-download-retry-button =
     .label = قپ ریت دووارته
 settings-translations-subpage-download-delete-button =
@@ -283,6 +288,8 @@ performance-group =
 ## General Section - Browsing
 
 browsing-title = گشتن
+browsing-group-label =
+    .aria-label = گشتن
 browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
 browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
