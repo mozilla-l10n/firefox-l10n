@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     ਪੜਾਅ 2: { -brand-short-name } ਨੂੰ “Set default (ਮੂਲ ਸੈੱਟ ਕਰੋ)“ ਚੁਣੋ
 default-browser-guidance-notification-info-page = ਮੈਨੂੰ ਵੇਖਾਓ
 default-browser-guidance-notification-dismiss = ਮੁਕੰਮਲ
+default-browser-guidance-notification-v2-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਉਣ ਨੂੰ ਪੂਰਾ ਕਰੋ
+default-browser-guidance-notification-v2-body = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { -brand-short-name } ਲਈ “ਮੂਲ ਸੈੱਟ ਕਰੋ” ਨੂੰ ਚੁਣੋ।
+default-browser-guidance-notification-v2-title-only = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਉਣ ਨੂੰ ਪੂਰਾ ਕਰੋ
