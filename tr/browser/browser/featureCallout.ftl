@@ -231,6 +231,7 @@ splitview-onboarding-callout-title-1 = Ayrık görünüm: Aynı anda çok iş ya
 splitview-onboarding-callout-subtitle-1 = İki sekmeyi aynı anda görmek için bu sekmeye sağ tıklayıp “Ayrık görünüm ekle”yi seçin.
 splitview-onboarding-callout-cta-1 = Hemen deneyin
 splitview-onboarding-callout-title-2 = Ayrık görünümle iki sekmeyi aynı anda görün
+splitview-onboarding-callout-subtitle-2 = Ekstra pencere yok, sekme değiştirmek yok. Bu sekmeye sağ tıklayıp “Ayrık görünüm ekle”yi seçin.
 splitview-onboarding-callout-cta-2 = Ayrık görünümü deneyin
 unified-search-callout-title = Arama motorları arasında geçiş yapın
 unified-search-callout-subtitle = Aradığınız şeye en uygun arama motorunu seçin.

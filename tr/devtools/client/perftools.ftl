@@ -26,6 +26,7 @@ perftools-heading-local-build = Yerel build
 
 perftools-description-intro = Kayıtlar yeni bir sekmede <a>profiler.firefox.com</a> adresini açar. Tüm veriler cihazınızda yerel olarak depolanır. Paylaşmak istediklerinizi karşıya yükleyebilirsiniz.
 perftools-description-local-build = Eğer bu makinede kendi derlediğiniz bir yapının profilini çıkarıyorsanız, lütfen yapı objdir’inizi aşağıdaki listeye ekleyin. Böylece sembol bilgilerini aramak için kullanılabilir.
+perftools-pick-local-build-directory = Build klasörünü seçin
 
 ## The controls for the interval at which the profiler samples the code.
 
