@@ -106,7 +106,9 @@ about-logins-list-section-week = 7 رۊز گوڌشته
 about-logins-login-intro-heading-logged-out2 = ز دین و من ٱووڌنا زفت وابیڌه خوتووݩ هڌین؟ هوم گوم کردن ن رۊشن کۊنین یا هونووݩ ن و من بیارین.
 about-logins-login-intro-heading-logged-in = هیچ و من ٱووڌن هوم گوم سازی وابیڌه ای نجۊرست.
 login-intro-description = ٱر ایسا و من ٱووڌن تووݩ و { -brand-product-name } ن ری دسگا دیری زفت کردینه، و ای بارت و دستس بیارین:
+login-intro-instructions-fxa = { -fxaccount-brand-name } خوته من دسگایی ک و من ٱووڌنا ایسا من هو زفت وابیڌنه وورکل یا من هو و من بیاین.
 about-logins-login-intro-heading-message = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
+login-intro-description2 = پوی رزمایی ک من { -brand-product-name } اواڌارنین، رزم ناهاڌه وابیڌنه. جوڌا ز یو، ایما ویردار لوو رئڌن هونوو هڌیم وو ٱر من ختر بۊوین و ایسا هوشدار ادیم. <a data-l10n-name="breach-alert-link">قلوه دووسته بۊین</a>
 
 ## Login
 
