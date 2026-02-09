@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Fechar aba
            *[other] Fechar { $tabCount } abas
         }
+tab-splitview-splitter =
+    .aria-label = Redimensionar abas de exibição dividida
 
 ## Tooltips for tab audio control
 ## Variables:

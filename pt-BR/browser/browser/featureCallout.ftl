@@ -229,6 +229,7 @@ sidebar-genai-survey-productive-question =
     “O chatbot de inteligência artificial no painel lateral me ajuda a ser mais produtivo”
 splitview-onboarding-callout-title-1 = Exibição dividida: um jeito melhor de fazer várias coisas ao mesmo tempo
 splitview-onboarding-callout-subtitle-1 = Clique com o botão direito nesta aba e escolha “Adicionar exibição dividida” para ver duas abas de uma só vez.
+splitview-onboarding-callout-cta-1 = Experimente agora
 splitview-onboarding-callout-title-2 = Veja duas abas ao mesmo tempo com exibição dividida
 splitview-onboarding-callout-subtitle-2 = Nenhuma janela extra. Nenhuma troca de abas. Clique com o botão direito nesta aba e escolha “Adicionar exibição dividida”.
 splitview-onboarding-callout-cta-2 = Experimente a exibição dividida

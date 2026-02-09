@@ -152,6 +152,12 @@ autofill-card-expires-month = Mês de Expiração
 autofill-card-expires-year = Ano de Expiração
 autofill-card-billing-address = Endereço de cobrança
 autofill-card-network = Tipo de cartão
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = cartões de crédito, crédito, cartões, cartões de débito, débito, carteira, pagamento
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
