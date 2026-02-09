@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The button for "Firefox Translations" in the url bar.
+urlbar-translations-button =
+    .tooltiptext = ولرنیڌن ای بلگه
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = ولرنیڌن ای بلگه - Beta
 translations-panel-settings-button =
     .aria-label = دؽوۉداری سامووا ولرنیڌن
 # Text displayed on a language dropdown when the language is in beta
