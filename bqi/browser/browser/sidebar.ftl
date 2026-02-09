@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+menu-view-genai-chat =
+    .label = چت بات هۊش مسنۊعی
 menu-view-contextual-password-manager =
     .label = رزما
 sidebar-options-menu-button =
@@ -26,6 +28,8 @@ sidebar-history-site-localhost =
     .heading = (فایلا مهلی)
 sidebar-history-delete =
     .title = پاک کردن ز ویرگار
+sidebar-history-clear =
+    .label = روفتن ویرگار
 sidebar-history-sort-by-heading = ترتیب و ری:
 sidebar-history-sort-option-site =
     .label = وبگه
@@ -40,6 +44,7 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
+sidebar-customize-extensions-header = وردنی یل نوار کلی
 sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
 sidebar-settings =
     .label = سامووا نوار کلی
