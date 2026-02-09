@@ -40,6 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Étape 2 : sélectionnez « Définir par défaut » pour { -brand-short-name }
 default-browser-guidance-notification-info-page = Dites m’en plus
 default-browser-guidance-notification-dismiss = Terminé
-default-browser-guidance-notification-v2-title = Faites de { -brand-short-name } votre navigateur par défaut
+default-browser-guidance-notification-v2-title = Finir de faire de { -brand-short-name } votre navigateur par défaut
 default-browser-guidance-notification-v2-body = Dans les paramètres, sélectionnez « Définir par défaut » pour { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Faites de { -brand-short-name } votre navigateur par défaut dans les paramètres

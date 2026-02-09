@@ -132,6 +132,12 @@ firefoxview-synced-tabs-nav = Faneblade fra andre enheder
     .title = Faneblade fra andre enheder
 firefoxview-synced-tabs-header = Faneblade fra andre enheder
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View

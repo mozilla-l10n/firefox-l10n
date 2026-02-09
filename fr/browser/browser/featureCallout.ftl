@@ -227,11 +227,11 @@ sidebar-genai-survey-satisfaction-question = Quel est votre degré de satisfacti
 sidebar-genai-survey-productive-question =
     Jusqu’à quel point êtes vous d’accord ou non avec cette affirmation :<br/>
     « Le chatbot IA dans le panneau latéral me permet d’être plus efficace » ?
-splitview-onboarding-callout-title-1 = Mode partagé : une meilleure façon d’effectuer plusieurs tâches à la fois
-splitview-onboarding-callout-subtitle-1 = Faites un clic droit sur cet onglet et choisissez « Ajouter une vue scindée » pour afficher deux onglets à la fois.
+splitview-onboarding-callout-title-1 = Vue scindée : une méthode plus efficace pour effectuer plusieurs tâches en même temps
+splitview-onboarding-callout-subtitle-1 = Faites un clic droit sur cet onglet et choisissez « Ajouter une vue scindée » pour afficher deux onglets en même temps.
 splitview-onboarding-callout-cta-1 = Essayer maintenant
 splitview-onboarding-callout-title-2 = Affichez deux onglets en même temps avec la vue scindée
-splitview-onboarding-callout-subtitle-2 = Aucune fenêtre supplémentaire. Pas de retournement d’onglet. Faites un clic droit sur cet onglet et choisissez « Ajouter une vue scindée ».
+splitview-onboarding-callout-subtitle-2 = Aucune fenêtre supplémentaire. Aucun changement d’onglet. Faites un clic droit sur cet onglet et choisissez « Ajouter une vue scindée ».
 splitview-onboarding-callout-cta-2 = Essayer la vue scindée
 unified-search-callout-title = Changer de moteur de recherche
 unified-search-callout-subtitle = Choisissez ce qui correspond le mieux à votre recherche.
