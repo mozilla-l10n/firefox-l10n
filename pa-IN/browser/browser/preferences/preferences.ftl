@@ -2267,5 +2267,9 @@ preferences-ai-controls-state-enabled =
     .label = ਸਮਰੱਥ ਹੈ
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
-    .label = ਪਾਬੰਦੀ ਲਗਾਈ
+    .label = ਪਾਬੰਦੀ ਲਾਏ
 preferences-ai-controls-state-description-before = ਚੋਣਾਂ ਦਾ ਮਤਲਬ ਕੀ ਹੈ:
+preferences-ai-controls-state-description-available = <strong>ਮੌਜੂਦ:</strong> ਤੁਸੀਂ ਫ਼ੀਚਰ ਨੂੰ ਵੇਖੋਗੇ ਅਤੇ ਇਸ ਨੂੰ ਵਰਤ ਸਕਦੇ ਹੋ।
+preferences-ai-controls-state-description-enabled = <strong>ਸਮਰੱਥ ਹੈ:</strong> ਤੁਹਾਡੇ ਕੋਲ ਫ਼ੀਚਰ ਨੂੰ ਵਰਤਣ ਦੀ ਚੋਣ ਕੀਤੀ ਹੈ।
+preferences-ai-controls-state-description-blocked = <strong>ਪਾਬੰਦੀ ਲੱਗੀ:</strong> ਤੁਸੀਂ ਫ਼ੀਚਰ ਨੂੰ ਵੇਖੋਗੇ ਨਹੀਂ ਅਤੇ ਨਾ ਹੀ ਵਰਤ ਸਕੋਗੇ। ਡਿਵਾਈਸ ਉੱਤੇ AI ਲਈ ਕਿਸੇ ਵੀ ਡਾਊਨਲੋਡ ਕੀਤੇ ਮਾਡਲ ਨੂੰ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ।
+preferences-ai-controls-block-confirmation-heading = AI ਸੁਧਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ ਹੈ?

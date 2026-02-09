@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] ਟੈਬ ਬੰਦ ਕਰੋ
            *[other] { $tabCount }ਟੈਬਾਂ ਬੰਦ ਕਰੋ
         }
+tab-splitview-splitter =
+    .aria-label = ਵੰਡ ਝਲਕ ਟੈਬਾਂ ਦਾ ਆਕਾਰ ਬਦਲੋ
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -384,6 +386,17 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = S
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = ਹੋਰ ਪੜ੍ਹੋ
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } ਅੱਖਰ
+    }
 
 ## Split View
 
@@ -403,6 +416,12 @@ tab-context-separate-split-view =
     .label = ਵੰਡੀ ਹੋਈ ਝਲਕ ਵਿੱਚ ਵੱਖਰਾ ਕਰੋ
     .accesskey = t
 tab-context-badge-new = ਨਵਾਂ
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, ਖੱਬੇ ਪਾਸੇ ਵੰਡ ਝਲਕ
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
