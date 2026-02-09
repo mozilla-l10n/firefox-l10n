@@ -228,8 +228,10 @@ sidebar-genai-survey-productive-question =
     Do kótareje měry zwólijośo abo njezwólijośo do toś togo twarźenja:<br/>
     „Chatbot KI w bocnicy mě pomaga wěcej produktiwny byś“?
 splitview-onboarding-callout-title-1 = Źělony naglěd: lěpša móžnosć za multitasking
+splitview-onboarding-callout-subtitle-1 = Klikniśo z pšaweju tastu na toś ten rejtarik a wubjeŕśo „Źělony naglěd pśidaś“, aby dwa rejtarika naraz wiźeł.
 splitview-onboarding-callout-cta-1 = Wopytajśo něnto
 splitview-onboarding-callout-title-2 = Woglědajśo se dwa rejtarika naraz ze źělonym naglědom
+splitview-onboarding-callout-subtitle-2 = Žedne pśidatne wokna. Žedne pśeměnjenje rejtarikow. Klikniśo z pšaweju tastu na toś ten rejtarik a wubjeŕśo „Źělony naglěd pśidaś“.
 splitview-onboarding-callout-cta-2 = Źělony naglěd wopytaś
 unified-search-callout-title = Pytnicu změniś
 unified-search-callout-subtitle = Wubjeŕśo, co za swójo specifiske pytanje nejlěpjej funkcioněrujo.

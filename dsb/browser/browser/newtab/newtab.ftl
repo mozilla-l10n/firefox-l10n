@@ -727,6 +727,11 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Pśiswójśo se toś ten rum
+newtab-activation-window-message-customization-focus-message = Wubjeŕśo nowy slězynowy wobraz, pśidajśo swójim nejlubšym sedłam zwězanja a wóstańśo na běžnem wó tšojeńkach, kótarež was zajmuju.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Zachopśo pśiměrowaś
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -734,3 +739,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Toś to městno pó wašych pšawidłach grajo
+newtab-activation-window-message-values-focus-message = { -brand-product-name } wam zmóžnja, na wašnju pśeglědowaś, kótarež wam se spódoba, z wěcej wósobinskej móžnosću, źeń online zachopiś. Pśiswójśo se { -brand-product-name }.

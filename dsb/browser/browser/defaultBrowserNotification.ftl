@@ -41,3 +41,5 @@ default-browser-guidance-notification-body-instruction-win11 =
 default-browser-guidance-notification-info-page = Pokazaś
 default-browser-guidance-notification-dismiss = Dokóńcony
 default-browser-guidance-notification-v2-title = Nastajenje { -brand-short-name } ako waš standardny wobglědowak dokóńcyś
+default-browser-guidance-notification-v2-body = Wubjeŕśo w nastajenjach „Standardny wobglědowak“ za { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Nastajenje { -brand-short-name } ako waš standardny wobglědowak w nastajenjach dokóńcyś
