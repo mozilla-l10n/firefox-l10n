@@ -399,7 +399,11 @@ home-prefs-lists-header =
 home-prefs-timer-header =
     .label = زمووݩ سنج
 home-prefs-manage-topics-link = دؽوۉداری سرتالا
+home-prefs-manage-topics-link2 =
+    .label = دؽوۉداری سرتالا
 home-prefs-choose-wallpaper-link = پسند شؽوات زمینه
+home-prefs-choose-wallpaper-link2 =
+    .label = پسند شؽوات زمینه
 
 ## Search Section
 
@@ -415,6 +419,10 @@ search-edit-engine =
     .label = آلشت
     .accesskey = E
 search-find-more-link = جوستن موتورا پیتینیڌن قلوه
+search-engine-group =
+    .label = موتور پیتینیڌن پؽش فرز
+search-default-engine =
+    .aria-label = موتور پیتینیڌن پؽش فرز
 
 ## Containers Section
 
@@ -511,6 +519,7 @@ sync-engine-settings =
 
 ## The device name controls.
 
+sync-device-name-header = نوم دسگا
 sync-device-name-header-2 =
     .label = نوم دسگا
 # Variables:
