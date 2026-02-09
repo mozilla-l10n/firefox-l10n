@@ -733,3 +733,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Burası sizin yeriniz
+newtab-activation-window-message-values-focus-message = { -brand-product-name } internette istediğiniz gibi gezinmenizi ve güne daha kişisel bir şekilde başlamanızı sağlar. { -brand-product-name } tarayıcınızı özelleştirin.
