@@ -61,6 +61,11 @@ tabbrowser-confirm-close-windows-button =
        *[other] بستن وو و در زیڌن
     }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## Windows does not show a prompt on quit when using the keyboard shortcut by default.
+
+tabbrowser-confirm-close-tabs-with-key-title = بستن نیمدری وو و در زیڌن ز { -brand-short-name }؟
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-button = گۊشیڌن بلگه یل

@@ -82,9 +82,15 @@ sidebar-context-menu-close-remote-tab =
     .label = بستن بلگه ز { $deviceName }
 sidebar-context-menu-remove-extension2 =
     .label = پاک کردن { -brand-short-name }
+sidebar-context-menu-unpin-extension =
+    .label = پاک کردن ز نوار کلی
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = پاک کردن بلگه ز ویرگار
+sidebar-history-context-menu-bookmark-page =
+    .label = نشووک ناهاڌن بلگه…
 sidebar-history-context-menu-delete-pages =
     .label = پاک کردن بلگه ز ویرگار
 
@@ -98,6 +104,8 @@ sidebar-menu-bookmarks-label =
     .label = نشووکا
 sidebar-menu-customize-label =
     .label = سفارشی کردن نوار کلی
+sidebar-menu-contextual-password-manager-label =
+    .label = رزما
 sidebar-menu-more-tools-label =
     .label = ٱوزارا قلوه
 
@@ -132,10 +140,28 @@ sidebar-menu-close-ai-chatbot-provider-tooltip = بستن { $provider } ({ $shor
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-customize-header =
+    .heading = سفارشی کردن نوار کلی
+sidebar-menu-history-header =
+    .heading = ویرگار
+sidebar-menu-syncedtabs-header =
+    .heading = بلگه یل ز دسگا یل دیری
 sidebar-menu-cpm-header =
     .heading = رزما
+sidebar-panel-header-close-button =
+    .tooltiptext = بستن
 
 ## Titles for sidebar menu panels.
 
+sidebar-customize-title = سفارشی کردن نوار کلی
 sidebar-history-title = ویرگار
 sidebar-syncedtabs-title = بلگه یل ز دسگا یل دیری
+
+## Context for closing synced tabs when hovering over the items
+
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables:
+#   $deviceName (String) - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab-title =
+    .title = بستن بلگه ز { $deviceName }

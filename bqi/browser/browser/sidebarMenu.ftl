@@ -9,3 +9,7 @@ sidebar-menu-history =
     .label = ویرگار
 sidebar-menu-synced-tabs =
     .label = بلگه یل هوم گوم وابیڌه
+sidebar-menu-close =
+    .label = بستن نوار کلی
+sidebar-close-button =
+    .tooltiptext = بستن نوار کلی

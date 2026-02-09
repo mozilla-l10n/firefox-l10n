@@ -9,6 +9,10 @@ content-blocking-cookies-view-trackers-label = کۊکیا رڌجۊر منجا و
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
     .value = هشته
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = مسدۊد وابیڌه
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
