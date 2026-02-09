@@ -165,6 +165,7 @@ sidebar-deprecation-cta-button = ਹੁਣੇ ਅਜ਼ਮਾਓ
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ ਵਿੱਚ ਉਲਝੇ ਹੋਏ ਹੋ?
+vertical-tabs-callout-1-subtitle = ਆਪਣੀਆਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਫ਼ੌਰਨ ਵੇਖਣ ਲਈ ਸਾਡੇ ਨਵੀਂ ਖੜ੍ਹਵੇਂ ਟੈਬ ਖਾਕੇ ਨੂੰ ਅਜ਼ਮਾਓ। ਮੁੱਢਲੇ ਟੈਸਟ ਕਰਨ ਵਾਲਿਆਂ ਨੇ ਸਿੱਧ ਕੀਤਾ ਹੈ ਕਿ ਇਹ ਖਾਕਾ ਉਹਨਾਂ ਨੂੰ ਵੱਧ ਸੰਗਠਿਤ ਮਹਿਸੂਸ ਕਰਨ ਦਿੰਦਾ ਹੈ। ਕਿਵੇਂ ਵੀ ਬਦਲੋ।
 vertical-tabs-callout-1-cta-button = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
 vertical-tabs-callout-2-cta-button = ਹੁਣੇ ਅਜ਼ਮਾਓ
 vertical-tabs-callout-2-title = ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖਦੇ ਹੋ? ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ।

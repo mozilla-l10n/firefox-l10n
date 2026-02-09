@@ -27,6 +27,7 @@ profiles-rootdir = ਰੂਟ ਡਾਇਰੈਕਟਰੀ
 profiles-localdir = ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ
 profiles-current-profile = ਇਹ ਪਰੋਫਾਈਲ ਵਰਤੋਂ ਅਧੀਨ ਹੈ ਅਤੇ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
 profiles-in-use-profile = ਇਹ ਪਰੋਫਾਈਲ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਵਲੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ ਅਤੇ ਇਹ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
+profiles-cannot-delete-profile = ਹੋਰ ਪਰੋਫ਼ਾਇਲਾਂ ਨਾਲ ਲਿੰਕ ਹੋਏ ਕਿਸੇ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
 profiles-rename = ਨਾਂ-ਬਦਲੋ
 profiles-remove = ਹਟਾਓ
 profiles-set-as-default = ਮੂਲ ਪਰੋਫਾਈਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
