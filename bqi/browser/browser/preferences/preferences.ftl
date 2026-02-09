@@ -576,6 +576,7 @@ autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
 payments-list-header =
     .label = بارتا پرداخت
+payments-delete-payment-prompt-confirm-button = پاک کردن
 payments-delete-payment-prompt-cancel-button = لقو
 payments-delete-payment-button-label =
     .aria-label = پاک کردن
@@ -586,6 +587,8 @@ payments-remove-payment-prompt-cancel-button = لقو
 autofill-addresses-manage-addresses-button =
     .label = دؽوۉداری نشۊویا وو قلوه
     .accesskey = M
+addresses-list-header =
+    .label = نشۊویا
 addreses-delete-address-button-label =
     .aria-label = پاک کردن
 addreses-edit-address-button-label =
@@ -702,6 +705,7 @@ content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منج�
 content-blocking-all-cookies = پوی کۊکیا
 content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌه
 content-blocking-cryptominers = ودر کونا رزم ٱرزا
+content-blocking-fingerprinters = کلک نگارا
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -777,6 +781,7 @@ preferences-view-profiles = نیشتن پوی پوروفایلا
 collection-privacy-notice = نوکات زفت مهرموویی
 collection-health-report-telemetry-disabled-link = قلوه دووسته بۊین
 collection-health-report-link = قلوه دووسته بۊین
+collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز تیجنیڌن سی پوی امتهووݩ کۊنین.
 addon-recommendations-link = قلوه دووسته بۊین
 
 ## Privacy Section - Security
