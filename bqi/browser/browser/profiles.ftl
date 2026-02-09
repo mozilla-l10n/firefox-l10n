@@ -73,6 +73,19 @@ profiles-light-theme = رۊشن
 profiles-dark-theme = تاریک
 # The default system theme
 profiles-system-theme = سیستوم
+profiles-system-theme-title =
+    .title = ائمال زمینه سیستوم
+profiles-red-theme = سوئر
+profiles-pink-theme = آل
+profiles-pink-theme-title =
+    .title = ائمال زمینه آل
+profiles-purple-theme-title =
+    .title = ائمال زمینه بناوش
+profiles-violet-theme = بناوش
+profiles-violet-theme-title =
+    .title = ائمال زمینه بناوش
+profiles-blue-theme = کوۊ
+profiles-green-theme = ساوز
 
 ## Data collection settings changed (multi-profile)
 
@@ -87,12 +100,26 @@ briefcase-avatar-alt =
     .alt = کیف
 picture-avatar-alt =
     .alt = شؽوات
+folder-avatar-alt =
+    .alt = دوبلگه
+heart-avatar-alt =
+    .alt = قلب
+heart-rate-avatar-alt =
+    .alt = زربووݩ قلب
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = پیوم
+shopping-avatar-alt =
+    .alt = سبد استیڌن
+star-avatar-alt =
+    .alt = آستاره
 
 ## Tooltips for default avatar icons
 
 book-avatar = کتاو
+briefcase-avatar = کیف
+heart-avatar = قلب
+shopping-avatar = سبد استیڌن
+star-avatar = آستاره
 custom-avatar-crop-back-button =
     .aria-label = وورگشتن
