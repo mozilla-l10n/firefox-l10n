@@ -51,7 +51,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ត្រូវ​បាន​រចនា​ដោយ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label><label data-l10n-name="community-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា។
 helpus = ចង់​ជួយ?<label data-l10n-name="helpus-donateLink">ជួយ​ឧបត្ថម្ភ</label> ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួម​ចំណែក!</label>
 bottomLinks-license = ព័ត៌មាន​អាជ្ញាប័ណ្ណ
-bottom-links-terms = លក្ខខ័ណ្ឌប្រើប្រាស់
 bottom-links-privacy = គោលការណ៍​ឯកជនភាព
 bottomLinks-rights = សិទ្ធិ​អ្នកប្រើ
 bottomLinks-privacy = គោលការណ៍​ភាព​ឯកជន
