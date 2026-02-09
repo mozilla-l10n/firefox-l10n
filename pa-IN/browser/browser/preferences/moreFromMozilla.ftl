@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI ਵੈੱਬਸਾਈਟ
 more-from-moz-mdn-title = MDN ਵੈੱਬ ਦਸਤਾਵੇਜ਼
 more-from-moz-mdn-description = ਮੁਫ਼ਤ, ਸੰਪੂਰਨ ਗਾਈਡਾਂ ਅਤੇ ਹਵਾਲਿਆਂ ਨਾਲ ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਸਿੱਖੋ।
 more-from-moz-mdn-button = ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਸਿੱਖੇੋ
+more-from-moz-mdn-title2 = { -mdn-brand-name }

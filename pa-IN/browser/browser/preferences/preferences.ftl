@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = ਸਿੰਕ ਕਰੋ
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI ਕੰਟਰੋਲ
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } ਤਜਰਬੇ
 category-experimental =
     .tooltiptext = { -brand-short-name } ਤਜਰਬੇ
@@ -286,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = ਬਰਾਊਜ਼ਰ ਦਾ ਲੇਆਉਟ
+browser-layout-horizontal-tabs2 =
+    .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
+    .title = ਟੈਬਾਂ ਉੱਤੇ
+    .description = ਟੈਬਾਂ ਉੱਤੇ
+browser-layout-vertical-tabs2 =
+    .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
+    .title = ਟੈਬਾਂ ਪਾਸੇ ਬਾਹੀ ਵਿੱਚ
+    .description = ਟੈਬਾਂ ਪਾਸੇ ਬਾਹੀ ਵਿੱਚ
 browser-layout-show-sidebar2 =
     .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ
     .description = ਆਪਣੇ ਫ਼ੋਨ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਟੈਬਾਂ, AI ਚੈਟਬੋਟਾਂ ਤੇ ਹੋਰਾਂ ਵਾਸਤੇ ਬਿਨਾਂ ਆਪਣੀ ਮੁੱਖ ਝਲਕ ਛੱਡੇ ਬਗੈਰ ਫ਼ੌਰਨ ਪਹੁੰਚ।
@@ -396,6 +407,25 @@ preferences-text-zoom-override-warning =
     .message = ਸਾਵਧਾਨ: ਜੇ ਤੁਸੀਂ “ਸਿਰਫ਼ ਲਿਖਤ ਨੂੰ ਜ਼ੂਮ ਕਰੋ” ਨੂੰ ਚੁਣਿਆ ਤਾਂ ਅਤੇ ਤੁਹਾਡੇ ਜ਼ੂਮ ਪੱਧਰ 100% ਸੈੱਟ ਨਾ ਹੋਇਆ ਤਾਂ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ।
 language-header = ਬੋਲੀ
 choose-language-description = ਸਫ਼ੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਬੋਲੀ ਚੁਣੋ
+website-preferred-language =
+    .label = ਪਸੰਦੀਦਾ ਭਾਸ਼ਾਵਾਂ
+website-add-language =
+    .label = ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
+website-add-language-button =
+    .aria-label = ਚੁਣੀ ਗਈ ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
+    .title = ਚੁਣੀ ਗਈ ਭਾਸ਼ਾ ਨੂੰ ਜੋੜੋ
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } ਨੂੰ ਹਟਾਓ
+    .title = { $locale } ਨੂੰ ਹਟਾਓ
 choose-button =
     .label = …ਚੁਣੋ
     .accesskey = o
@@ -747,6 +777,8 @@ home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = ਮੂਲ ਬਰਾਊਜ਼ਰ
 set-as-my-default-browser-2 =
     .label = …ਮੂਲ ਬਣਾਓ
     .accesskey = D

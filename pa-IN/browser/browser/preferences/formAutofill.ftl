@@ -152,6 +152,12 @@ autofill-card-expires-month = ਮਿਆਦ ਮਹੀਨਾ
 autofill-card-expires-year = ਮਿਆਦ ਸਾਲ
 autofill-card-billing-address = ਬਿੱਲ ਲਈ ਸਿਰਨਾਵਾਂ
 autofill-card-network = ਕਾਰਡ ਕਿਸਮ
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = ਕਰੈਡਿਟ ਕਾਰਡ, ਕਰੈਡਿਟ, ਕਾਰਡ, ਡੇਬਿਟ ਕਾਰਡ, ਡੇਬਿਟ, ਵਾਲਟ, ਚੈਕਆਉਟ, ਕ੍ਰੈਡਿਟ, ਕ੍ਰੈਡਿਟ ਕਾਰਡ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
