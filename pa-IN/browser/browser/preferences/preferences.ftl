@@ -779,6 +779,10 @@ home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ 
 
 home-default-browser-title =
     .label = ਮੂਲ ਬਰਾਊਜ਼ਰ
+is-default-browser-2 =
+    .message = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਇਆ ਹੈ। ਵਧੀਆ ਚੋਣ ਹੈ।
+is-not-default-browser-2 =
+    .message = ਓਹ, { -brand-short-name } ਤੁਹਾਡਾ ਮੂਲ ਨਹੀ ਹੈ।
 set-as-my-default-browser-2 =
     .label = …ਮੂਲ ਬਣਾਓ
     .accesskey = D
@@ -849,6 +853,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = ਹਾਲੇ ਕੋਈ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਜੋੜੀ ਗਈ।
+home-custom-homepage-delete-address-button =
+    .aria-label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
+    .title = ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = ਹਾਲੇ ਕੋਈ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਜੋੜੀ ਗਈ।
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1022,6 +1029,9 @@ suggestions-addressbar-settings-generic2 = ਹੋਰ ਸਿਰਨਾਵਾਂ �
 search-suggestions-cant-show = ਟਿਕਾਣਾ ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਖੋਜ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾਏ ਜਾਣਗੇ, ਕਿਉਂਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖਣ ਲਈ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ।
 search-one-click-header2 = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
 search-one-click-desc = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਕੋਈ ਸ਼ਬਦ ਭਰੋ ਤਾਂ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਅਤੇ ਖੋਜ ਪੱਟੀ ਹੇਠਾਂ ਦਿਖਾਈ ਦੇਣ ਵਾਲੇ ਬਦਲਵੇਂ ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਚੁਣੋ।
+search-one-click-header-3 =
+    .label = ਵਧੀਕ ਖੋਜ ਇੰਜਣ
+    .description = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਖੋਜ ਇੰਜਣਾਂ ਅਤੇ ਸ਼ਾਰਟਕੱਟਾਂ ਨੂੰ ਚੁਣੋ।
 search-choose-engine-column =
     .label = ਖੋਜ ਇੰਜਣ
 search-choose-keyword-column =
@@ -1034,6 +1044,9 @@ search-remove-engine =
     .accesskey = r
 search-add-engine =
     .label = ਜੋੜੋ
+    .accesskey = A
+search-add-engine-2 =
+    .label = ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ
     .accesskey = A
 search-edit-engine =
     .label = ਸੋਧੋ
@@ -1398,6 +1411,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = ਮੁੱਖ ਪਾਸਵਰਡ ਵਰਤੋਂ
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = ਇੱਕ ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
+    .description = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਵਾਧੂ ਪਰਤ ਨੂੰ ਜੋੜੋ
+    .accesskey = U
 forms-primary-pw-set =
     .label = ਮੁੱਖ ਪਾਸਵਰਡ ਲਾਓ
 forms-primary-pw-on =
@@ -1410,6 +1427,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = ਪਾਸਵਰਡ ਭਰਨ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਲਾਗਇਨ ਚਾਹੀਦਾ ਹੈ
+forms-os-reauth-2 =
+    .label = ਪਾਸਵਰਡਾਂ ਦੇ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਡਿਵਾਈਸ ਸਾਈਨਇਨ ਚਾਹੀਦਾ ਹੈ
 forms-primary-pw-learn-more-link = ਹੋਰ ਜਾਣੋ
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1488,6 +1507,10 @@ payments-list-item-label = <strong>ਭੁਗਤਾਨ ਦੇ ਢੰਗ</strong>
 payments-delete-payment-prompt-title = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 payments-delete-payment-prompt-confirm-button = ਹਟਾਓ
 payments-delete-payment-prompt-cancel-button = ਰੱਦ ਕਰੋ
+payments-delete-payment-button-label =
+    .aria-label = ਹਟਾਓ
+payments-edit-payment-button-label =
+    .aria-label = ਸੋਧੋ
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = ਕੋਈ ਭੁਗਤਾਨ ਢੰਗ ਨਹੀਂ ਜੋੜਿਆ ਗਿਆ
@@ -2031,6 +2054,9 @@ collection-studies-description = ਫ਼ੀਚਰ ਅਤੇ ਵਿਚਾਰਾਂ
 collection-studies =
     .label = { -brand-short-name } ਨੂੰ ਅਧਿਐਨ ਇੰਸਟਾਲ ਅਤੇ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 collection-studies-link = { -brand-short-name } ਅਧਿਐਨ ਵੇਖੋ
+nimbus-rollouts-enabled =
+    .label = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟਾਂ ਰਾਹੀਂ ਫ਼ੀਚਰ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਸਥਿਰਤਾ ਲਈ ਮਨਜ਼ੂਰੀ ਦਿਓ
+nimbus-rollouts-enabled-description = ਤਬਦੀਲੀਆਂ ਨੂੰ ਰਿਮੋਟ ਤੋਂ ਹੀ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇਗਾ।
 addon-recommendations2 =
     .label = ਨਿੱਜੀ ਬਣਾਈਆਂ ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿਓ
 addon-recommendations-description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਤਜਰਬੇ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।
@@ -2131,6 +2157,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = ਸਿਰਫ਼-HTTPS ਮੋਡ
     .description = ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਿਰਫ਼ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਹੀ ਇਜਾਜ਼ਤ ਦਿਓ। { -brand-short-name } ਅਸੁਰੱਖਿਅਤ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੇਗਾ।
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2198,3 +2226,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = ਡੈਸਕਟਾਪ
 downloads-folder-name = ਡਾਊਨਲੋਡ
 choose-download-folder-title = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣੋ:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = { -brand-short-name } ਵਿੱਚ ਤੁਹਾਡੇ ਕੋਲ ਹਮੇਸ਼ਾਂ ਚੋਣ ਕਰਨ ਦੀ ਮਰਜ਼ੀ ਹੁੰਦੀ ਹੈ, ਜਿਸ ਵਿੱਚ AI ਨਾਲ ਵਧੀਆਂ ਬਣਾਏ ਫ਼ੀਚਰਾਂ ਨੂੰ ਵਰਤਣਾ ਵੀ ਸ਼ਾਮਲ ਹੈ। ਹੋਰ ਕੰਟਰੋਲ ਵੀ ਛੇਤੀ ਹੀ ਆ ਰਹੇ ਹਨ।
+preferences-ai-controls-block-ai-label = AI ਸੁਧਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
