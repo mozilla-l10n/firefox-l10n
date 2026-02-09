@@ -137,6 +137,8 @@ firefoxview-synced-tabs-header = Faneblade fra andre enheder
 firefoxview-chats-nav = Chats
     .title = Chats
 firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Slet fra chats
+    .accesskey = S
 
 ##
 
@@ -170,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Søg i åbne faneblade
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Søg i chats
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
