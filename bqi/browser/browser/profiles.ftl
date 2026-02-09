@@ -89,6 +89,8 @@ profiles-green-theme = ساوز
 
 ## Data collection settings changed (multi-profile)
 
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = سامووا نیشتن
 # Secondary button label to dismiss the infobar without action
 multiprofile-data-collection-dismiss = رڌ کردن
 
@@ -106,6 +108,8 @@ heart-avatar-alt =
     .alt = قلب
 heart-rate-avatar-alt =
     .alt = زربووݩ قلب
+clock-avatar-alt =
+    .alt = ساعت
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = پیوم
@@ -118,7 +122,13 @@ star-avatar-alt =
 
 book-avatar = کتاو
 briefcase-avatar = کیف
+clock-avatar = ساعت
+folder-avatar = دوبلگه
+hammer-avatar = چکوش
 heart-avatar = قلب
+heart-rate-avatar = زربووݩ قلب
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = پیوم
 shopping-avatar = سبد استیڌن
 star-avatar = آستاره
 custom-avatar-crop-back-button =

@@ -12,3 +12,6 @@ graph-today = ٱمرۊز
 lockwise-how-it-works-link = یو چتاور کار اکونه
 monitor-link = یو چتاور کار اکونه
 monitor-no-breaches-title = خورا خۊو!
+monitor-partial-breaches-motivation-title-start = ناهاڌن پا کار عالی!
+monitor-partial-breaches-motivation-title-middle = راو وا پؽش!
+monitor-partial-breaches-motivation-title-end = دی هونی تموم ابۊ! راو وا پؽش!

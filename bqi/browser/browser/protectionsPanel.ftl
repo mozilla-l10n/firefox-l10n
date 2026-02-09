@@ -40,6 +40,13 @@ protections-panel-content-blocking-fingerprinters-label = کلک نگارا
 protections-panel-blocking-label = مسدۊد وابیڌه
 protections-panel-not-blocking-label = هشته
 
+## Smartblock strings
+
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = هشتن { $trackername }
+
 ##
 
 protections-panel-settings-label = سامووا زفت کردنی
