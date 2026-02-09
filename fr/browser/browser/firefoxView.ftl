@@ -134,9 +134,9 @@ firefoxview-synced-tabs-header = Onglets d’autres appareils
 
 ## Chats in this context refers to chats saved from the AI Window Assistant
 
-firefoxview-chats-nav = Discussions instantanées
-    .title = Discussions instantanées
-firefoxview-chats-header = Discussions instantanées
+firefoxview-chats-nav = Discussions
+    .title = Discussions
+firefoxview-chats-header = Discussions
 firefoxview-chat-context-delete = Supprimer des discussions
     .accesskey = S
 
@@ -174,7 +174,7 @@ firefoxview-search-text-box-opentabs =
     .placeholder = Rechercher parmi les onglets ouverts
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
-    .placeholder = Rechercher dans des discussions
+    .placeholder = Rechercher dans les discussions
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

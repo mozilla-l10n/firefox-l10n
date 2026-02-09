@@ -157,7 +157,7 @@ autofill-card-network = Type de carte
 # simply a comma separated list of additional search keywords for the payment
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
-autofill-card-search-term-credit-cards = cartes de crédit, crédit, cartes, cartes de débit, débit, caisse
+autofill-card-search-term-credit-cards = carte bleue, carte bancaire, carte de paiement, carte de débit, carte de crédit
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
