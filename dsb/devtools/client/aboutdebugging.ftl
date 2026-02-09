@@ -215,7 +215,7 @@ about-debugging-connection-prompt-enable-button = Zwiskowe napominanje zmóžni�
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Zwiskowe napominanje znjemóžniś
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title2 = Profilowak
+about-debugging-profiler-dialog-title2 = Wugbaśowa analyza
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.

@@ -132,14 +132,14 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle =
-    .label = Profilowak
+    .label = Wugbaśowa analyza
     .tooltiptext = Nagrajśo wugbaśowy profil
 profiler-popup-button-recording =
-    .label = Profilowak
-    .tooltiptext = Profilowak profil registrěrujo
+    .label = Wugbaśowa analyza
+    .tooltiptext = Wugbaśowa analyza profil registrěrujo
 profiler-popup-button-capturing =
-    .label = Profilowak
-    .tooltiptext = Profilowak profil nagrawa
+    .label = Wugbaśowa analyza
+    .tooltiptext = Wugbaśowa analyza profil nagrawa
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Dalšne informacije pokazaś

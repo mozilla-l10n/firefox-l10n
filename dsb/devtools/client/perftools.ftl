@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Nastajenja profilowaka
+perftools-intro-title = Nastajenja wugbaśoweje analyzy
 perftools-intro-description =
     Nagraśa profiler.firefox.com w nowem rejtariku wócynjaju. Wšykne daty se lokalnje
     składuju, ale móžośo je nagraś, aby je źělił.
@@ -120,7 +120,7 @@ perftools-thread-jvm-pool =
 
 perftools-record-all-registered-threads = Wuběrki górjejce wobejś a wšě zregistrěrowane nitki nagraś
 perftools-tools-threads-input-label =
-    .title = Toś te nitkowe mjenja su pśez komu źělona lisćina, kótaraž se wužywa, aby pśepytowanje nitkow w profilowaku zmóžnił. Mě trjeba se jano pó źělach z mjenim nitki makaś, kótarež se ma zapśimjeś. Na prozne znamjenja se źiwa.
+    .title = Toś te nitkowe mjenja su pśez komu źělona lisćina, kótaraž se wužywa, aby pśepytowanje nitkow we wugbaśowej analyzy zmóžnił. Mě trjeba se jano pó źělach z mjenim nitki makaś, kótarež se ma zapśimjeś. Na prozne znamjenja se źiwa.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
