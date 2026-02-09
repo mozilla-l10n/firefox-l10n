@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Etapa 2: Selecione { -brand-short-name } e clique em “Definir padrão”
 default-browser-guidance-notification-info-page = Mostrar
 default-browser-guidance-notification-dismiss = Pronto
+default-browser-guidance-notification-v2-title = Conclua a configuração do { -brand-short-name } como navegador padrão
+default-browser-guidance-notification-v2-body = Nas configurações, selecione “Definir como padrão” no { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Conclua tornar o { -brand-short-name } seu navegador padrão nas configurações
