@@ -5,7 +5,11 @@
 # Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = وورگشتن
+forward = جلاو رئڌن
+reload = گۊشیڌن دووارته
 home = هووه
+fullscreen = نما پوی بلگه
+touchbar-fullscreen-exit = و در زیڌن ز نما پوی بلگه
 find = جوستن
 new-tab = بلگه نۊ
 add-bookmark = ٱووردن نشووک

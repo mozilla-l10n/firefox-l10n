@@ -10,6 +10,8 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = ولرنیڌن ای بلگه - Beta
+urlbar-translations-button-loading =
+    .tooltiptext = ولرنیڌن هونی ٱنجوم ابۊ
 translations-panel-settings-button =
     .aria-label = دؽوۉداری سامووا ولرنیڌن
 # Text displayed on a language dropdown when the language is in beta
@@ -40,10 +42,18 @@ translations-panel-settings-never-translate-unknown-language =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-translate-button =
+    .label = ولرنیڌن
+translations-panel-translate-button-loading =
+    .label = مندیر بۊ…
 translations-panel-translate-cancel =
     .label = لقو
 translations-panel-learn-more-link = قلوه دووسته بۊین
+translations-panel-error-translating = موشکلی من ولرنیڌن پؽش ٱووڌ. دووارته قپ ریت کۊنین.
 translations-panel-error-load-languages = زووا قابل و بار ونی نبیڌن
+translations-panel-error-load-languages-hint = منپیز اینترنت خوتووݩ ن واجۊری کۊنین وو دووارته امتهووݩ کۊنین.
+translations-panel-error-load-languages-hint-button =
+    .label = قپ ریت دووارته
 translations-panel-error-dismiss-button =
     .label = فئمیم
 translations-panel-error-change-button =
@@ -56,6 +66,12 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known = وابخشی، ایما هنی ز { $language } لادراری نؽکۊنیم.
 translations-panel-error-unsupported-hint-unknown = وابخشی، ایما هنی ز ای زووݩ لادراری نؽکۊنیم.
+
+## Each label is followed, on a new line, by a dropdown list of language names.
+## If this structure is problematic for your locale, an alternative way is to
+## translate them as `Source language:` and `Target language:`
+
+translations-panel-to-label = ولرنیڌن و
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -71,6 +87,8 @@ translations-panel-error-unsupported-hint-unknown = وابخشی، ایما هن
 translations-panel-revisit-header = ای بلگه ز { $fromLanguage } و { $toLanguage } ولرنیڌه وابیڌه
 translations-panel-choose-language =
     .label = ی زووݩ ن پسند کۊنین
+translations-panel-restore-button =
+    .label = نشووݩ داڌن ٱسلی
 
 ## Firefox Translations language management in about:preferences.
 
