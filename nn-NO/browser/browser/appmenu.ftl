@@ -116,7 +116,7 @@ appmenu-fxa-setup-sync-new = Slå på
 appmenuitem-save-page =
     .label = Lagre sida som…
 appmenuitem-fxa-sync-off-title = Synkronisering er av
-appmenuitem-fxa-sync-off-description = Vern og få tilgang til bokmerka, passorda, med meir kvar som helst.
+appmenuitem-fxa-sync-off-description = Vern og få tilgang til bokmerke, passord, med meir, kvar som helst.
 
 ## What's New panel in App menu.
 
