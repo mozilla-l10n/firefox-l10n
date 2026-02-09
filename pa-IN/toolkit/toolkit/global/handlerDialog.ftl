@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = { $scheme } ਲਿੰਕ ਖੋਲ�
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡਾ ਡਿਜ਼ਿਟਲ ਵਾਲਟ ਖੋਲ੍ਹਣ ਦੀ ਮਨਜ਼ੂਰੀ ਦੇਣੀ ਹੈ?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong> ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਨਾਲ <strong>{ $host }</strong> ਨੂੰ <strong>{ $appName }</strong> ਤੋਂ ਆਪਣੀ ਅਸਲ ਪਛਾਣ ਦੀ ਬੇਨਤੀ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ ਤਾਂ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong> ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਨਾਲ ਇਸ ਸਾਈਟ ਨੂੰ <strong>{ $appName }</strong> ਤੋਂ ਆਪਣੀ ਅਸਲ ਪਛਾਣ ਦੀ ਬੇਨਤੀ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ ਤਾਂ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong> ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਨਾਲ <strong>{ $host }</strong> ਨੂੰ ਤੁਹਾਡੇ ਡਿਜ਼ਿਟਲ ਵਾਲਟ ਤੋਂ ਆਪਣੀ ਅਸਲ ਪਛਾਣ ਦੀ ਬੇਨਤੀ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ ਤਾਂ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong> ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਨਾਲ ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਡਿਜ਼ਿਟਲ ਵਾਲਟ ਤੋਂ ਆਪਣੀ ਅਸਲ ਪਛਾਣ ਦੀ ਬੇਨਤੀ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ ਤਾਂ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

@@ -103,7 +103,9 @@ about-logins-list-section-week = 7 رۊز گوڌشته
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = ز دین و من ٱووڌنا زفت وابیڌه خوتووݩ هڌین؟ هوم گوم کردن ن رۊشن کۊنین یا هونووݩ ن و من بیارین.
 about-logins-login-intro-heading-logged-in = هیچ و من ٱووڌن هوم گوم سازی وابیڌه ای نجۊرست.
+login-intro-description = ٱر ایسا و من ٱووڌن تووݩ و { -brand-product-name } ن ری دسگا دیری زفت کردینه، و ای بارت و دستس بیارین:
 about-logins-login-intro-heading-message = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
 
 ## Login
