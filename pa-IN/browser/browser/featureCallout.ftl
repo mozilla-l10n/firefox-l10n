@@ -87,6 +87,7 @@ bookmarks-toolbar-callout-2a-primary-button-label = ਸਮਝੇ
 bookmarks-toolbar-callout-2a-secondary-button-label = ਟੂਲਬਾਰ ਓਹਲੇ
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = ਕੀ ਆਪਣੀ ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖਣਾ ਹੈ?
+bookmarks-toolbar-callout-2b-subtitle = ਤੁਸੀਂ ਜੋ ਸਾਈਟਾਂ ਨੂੰ ਵੱਧ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਉਹਾਨਂ ਨੂੰ ਵੀ ਜੋੜ ਸਕਦੇ ਹੋ। ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਖਿੱਚ ਕੇ ਜੋੜੋ।
 bookmarks-toolbar-callout-2b-primary-button-label = ਖੁੱਲ੍ਹਾ ਰੱਖੋ
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = ਨਹੀਂ ਜੀ, ਧੰਨਵਾਦ
@@ -169,10 +170,12 @@ vertical-tabs-callout-1-subtitle = ਆਪਣੀਆਂ ਟੈਬਾਂ ਦੀ ਸ
 vertical-tabs-callout-1-cta-button = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ
 vertical-tabs-callout-2-cta-button = ਹੁਣੇ ਅਜ਼ਮਾਓ
 vertical-tabs-callout-2-title = ਬਹੁਤ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖਦੇ ਹੋ? ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਨੂੰ ਅਜ਼ਮਾਓ।
+vertical-tabs-callout-2-subtitle = ਇਹ ਖਾਲਾ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਫ਼ੌਰਨ ਵੇਖਣ ਨੂੰ ਸੌਖਾ ਬਣਾਉਂਦਾ ਹੈ। ਇਸ ਤੋਂ ਬਿਨਾਂ ਤੁਸੀਂ ਚੌੜਾਈ ਨੂੰ ਆਪਣੇ ਟੈਬ ਟਾਈਟਲਾਂ ਨੂੰ ਵੱਧ ਜਾਂ ਘੱਟ ਵੇਖਣ ਲਈ ਠੀਕ ਕਰ ਸਕਦੇ ਹੋ।
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = ਆਪਣੀਆਂ ਖ਼ਾਸ ਟੈਬਾਂ ਉੱਤੇ ਧਿਆਨ ਨਹੀਂ ਰਹਿੰਦਾ ਹੈ?
+sidebar-pins-callout-subtitle = ਉਹਨਾਂ ਨੂੰ ਟੰਗ ਨਾਲ ਉਹ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਸਿਖਰ ਉੱਤੇ ਰਹਿੰਦੀਆਂ ਹਨ। ਜਿਸ ਟੈਬ ਨੂੰ ਤੁਸੀਂ ਟੰਗਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰਕੇ ਟੈਬ ਨੂੰ ਟੰਗੋ ਦੀ ਚੋਣ ਕਰੋ।
 sidebar-pins-callout-cta-button = ਟੈਬ ਨੂੰ ਟੰਗੋ
 
 ## Pinning Tabs Strings
