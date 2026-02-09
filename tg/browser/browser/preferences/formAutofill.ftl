@@ -152,6 +152,12 @@ autofill-card-expires-month = Моҳи анҷоми муҳлат
 autofill-card-expires-year = Соли анҷоми муҳлат
 autofill-card-billing-address = Нишонӣ барои санади ҳисоббарорӣ
 autofill-card-network = Навъи корт
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = кортҳои бонкӣ, қарз, кортҳо, кортҳои дебетӣ, дебет, ҳамён, ба тартиб даровардани фармоиш
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
