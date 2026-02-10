@@ -24,9 +24,16 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Découvrez le VPN, désormais intégré directement à votre navigateur
+ipprotection-feature-introduction-link-text = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données avec un chiffrement supplémentaire.
+ipprotection-feature-introduction-link-text-private-browsing = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données avec un chiffrement supplémentaire, même lorsque vous êtes dans une fenêtre privée.
 ipprotection-feature-introduction-button-primary = Suivant
 ipprotection-feature-introduction-button-secondary-not-now = Plus tard
 ipprotection-feature-introduction-button-secondary-no-thanks = Non merci
+
+## Site settings callout
+
+ipprotection-site-settings-callout-subtitle = Désactivez le VPN pour un site spécifique et nous nous en souviendrons lors de votre prochaine visite.
+ipprotection-site-settings-callout-button = J’ai compris
 
 ## Panel
 
@@ -180,3 +187,10 @@ ipprotection-bandwidth-reset-button = J’ai compris
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN mis en pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès VPN sera rétabli le mois prochain.
+vpn-paused-alert-close-tabs-button = Fermer tous les onglets
+vpn-paused-alert-continue-wo-vpn-button = Continuer sans le VPN
+vpn-error-alert-title = Le VPN ne fonctionne pas pour le moment.
+vpn-error-alert-body = Réessayez plus tard.
