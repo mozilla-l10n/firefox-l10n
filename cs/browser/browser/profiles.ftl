@@ -70,8 +70,8 @@ new-profile-page-title = Nový profil
 new-profile-page-header = Přizpůsobte si svůj nový profil
 new-profile-page-header-description =
     { -brand-short-name.case-status ->
-        [with-cases] Každý profil uchovává svou jedinečnou historii procházení a nastavení odděleně od ostatních profilů. Navíc je ve výchozím nastavení zapnutá silná ochrana soukromí { -brand-short-name(case: "gen") }.
-       *[no-cases] Každý profil uchovává svou jedinečnou historii procházení a nastavení odděleně od ostatních profilů. Navíc je ve výchozím nastavení zapnutá silná ochrana soukromí aplikace { -brand-short-name }.
+        [with-cases] Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnutá silná opatření { -brand-short-name(case: "gen") } na ochranu soukromí.
+       *[no-cases] Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnutá silná opatření aplikace { -brand-short-name } na ochranu soukromí.
     }
 new-profile-page-learn-more = Zjistit více
 new-profile-page-input-placeholder =
