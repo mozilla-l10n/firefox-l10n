@@ -69,15 +69,48 @@ focus-search =
     .key = f
 close-button =
     .aria-label = بستن
+do-not-track-removal2 =
+    .label = ایما دی ز سیگنال «رڌجۊری نبۊوه» لادراری نؽکۊنیم
 
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = سی فعال کردن ای امکووݩ، { -brand-short-name } وا دووارته ره اۊفته.
+feature-disable-requires-restart = سی قیر فعال کردن ای امکووݩ، { -brand-short-name } وا دووارته ره اۊفته.
 should-restart-title = ره وندن دووارته { -brand-short-name }
+should-restart-ok = هیم سکو { -brand-short-name } دووارته ره بوۊفته
 cancel-no-restart-button = لقو
+restart-later = دینداتر ره وندن دووارته ٱنجوم بۊ
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ای سامووݩ ن کونتورول اکونه.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ای سامووݩ ن کونتورول اکونه.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> بلگه یل کانتینر ن اخو.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ای سامووݩ ن کونتورول اکونه.
+
+## Preferences UI Search Results
+
+search-results-header = نتیجه یل پیتینیڌن
 
 ## General Section
 
+startup-header = ره وندن
 preferences-profiles-group-header =
     .heading = پوروفایلا
 preferences-profiles-header = پوروفایلا
