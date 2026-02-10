@@ -117,10 +117,12 @@ disable-extension =
     .label = قیرفعال کردن وردنی
 preferences-data-migration-header = و من ٱووردن داده یل گشت گر
 preferences-data-migration-button =
-    .label = و من ٱووردن داده
+    .label = و من ٱووردن داده یل
     .accesskey = m
 preferences-profiles-group-header =
     .heading = پوروفایلا
+preferences-profiles-subpane-description =
+    .description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
 preferences-profiles-header = پوروفایلا
 preferences-manage-profiles-description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
 preferences-manage-profiles-learn-more = قلوه دووسته بۊین
@@ -132,6 +134,37 @@ preferences-copy-profile-button = لف گیری
 tabs-group-header2 =
     .label = بلگه یل
 tabs-group-header = بلگه یل
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab و ترتیب بلگه یلی ک هیم دمۊوی و کار گرؽڌه وابینه منجاسووݩ هرکت اکونه
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = گۊشیڌن لینگا من بلگه و جا گۊشیڌن من نیمدری
+    .accesskey = w
+ask-on-close-multiple-tabs =
+    .label = پۊرسیڌن پؽش ز بستن چنتا بلگه
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = پۊرسیڌن پؽش ز و در زیڌن وا { $quitKey }
+    .accesskey = b
+confirm-on-close-multiple-tabs =
+    .label = قوۊل کردن پؽش ز بستن چنتا بلگه
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = قوۊل کردن پؽش ز و در زیڌن وا { $quitKey }
+    .accesskey = b
+warn-on-open-many-tabs =
+    .label = ٱر گۊشیڌن چنتا بلگه ترسته بۊ ک { -brand-short-name } ن کوند کونه، و مو هوشدار بڌه
+    .accesskey = d
 browser-containers-learn-more = قلوه دووسته بۊین
 browser-containers-settings =
     .label = سامووا…

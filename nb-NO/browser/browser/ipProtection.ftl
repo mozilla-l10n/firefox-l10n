@@ -37,6 +37,10 @@ ipprotection-site-settings-callout-button = Jeg forstår
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-get-started = Kom i gang
+site-exclusion-toggle-enabled =
+    .aria-label = VPN er på for dette nettstedet
+site-exclusion-toggle-disabled =
+    .aria-label = VPN er av for dette nettstedet
 ipprotection-settings-link =
     .label = Innstillinger
 
@@ -59,10 +63,15 @@ ipprotection-button-connecting = Slår på …
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN satt på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
+upgrade-vpn-title = Få ekstra beskyttelse utover nettleseren
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-title = Kunne ikke koble til VPN
 ipprotection-connection-status-generic-error-description = Prøv igjen om noen minutter.
 ipprotection-connection-status-network-error-title = Sjekk internettilkoblingen din
 ipprotection-connection-status-network-error-description = Koble til internett, og prøv deretter å slå på VPN.
@@ -82,8 +91,20 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette 
 ipprotection-bandwidth-upgrade-title = Liker du innebygd VPN? Få enda mer beskyttelse utenfor { -brand-product-name } med { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Velg en VPN-plassering og legg til beskyttelse for alle appene dine på opptil 5 enheter, enten du er hjemme eller på offentlig Wi-Fi.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du nærmer deg VPN-grensen din.</strong> Du har { $usageLeft } GB igjen. Datamengden nullstilles ved starten av neste måned.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du nærmer deg VPN-grensen din.</strong> Du har { $usageLeft } GB igjen. Datamengden nullstilles ved starten av neste måned.
+
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Innebygd VPN for å forbedre personvernet ditt mens du surfer med { -brand-short-name }.
 ip-protection-learn-more = Les mer
 ip-protection-site-exceptions =
     .label = Nettstedsspesifikke innstillinger
@@ -108,8 +129,57 @@ ip-protection-autostart-checkbox =
     .label = Når jeg åpner { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = I private vinduer
+ip-protection-vpn-upgrade-link =
+    .label = Få enda mer beskyttelse utenfor { -brand-short-name } med { -mozilla-vpn-brand-name }
+    .description = Velg egendefinerte VPN-plasseringer og legg til beskyttelse for alle appene dine på opptil fem enheter, enten du er hjemme eller på offentlig Wi-Fi.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Behandle nettstedsinnstillinger
+ip-protection-exclusions-desc = Bruk VPN for alle nettsteder unntatt de på denne listen. Legg til et nettsted her eller ved å åpne VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Månedlig VPN-data
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB av { $maxUsage } GB igjen denne måneden
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB av { $maxUsage } GB igjen
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB av { $maxUsage } GB igjen denne måneden
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB av { $maxUsage } GB igjen
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Nullstilles til { $maxUsage } GB den første i hver måned.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB med VPN-data, fornyet og klart til bruk
+ipprotection-bandwidth-reset-text = Slå på VPN for et ekstra personvernløft, gratis hver måned.
+ipprotection-bandwidth-reset-button = Jeg forstår
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN satt på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. VPN-tilgangen nullstilles neste måned.
 vpn-paused-alert-close-tabs-button = Lukk alle faner
+vpn-paused-alert-continue-wo-vpn-button = Fortsett uten VPN
+vpn-error-alert-title = VPN fungerer ikke akkurat nå.
 vpn-error-alert-body = Prøv igjen senere.

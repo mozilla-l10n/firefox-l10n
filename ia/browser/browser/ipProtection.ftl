@@ -32,6 +32,8 @@ ipprotection-site-settings-callout-button = OK
 ## Panel
 
 unauthenticated-get-started = Comenciar
+site-exclusion-toggle-disabled =
+    .aria-label = VPN es disactivate pro iste sito
 ipprotection-settings-link =
     .label = Parametros
 
@@ -46,12 +48,17 @@ ipprotection-button-turn-vpn-on = Activar le VPN
 
 ## VPN paused state
 
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso se reinitialisara le mense proxime.
+upgrade-vpn-title = Obtene protection ulterior ultra le navigator
 upgrade-vpn-button = Essaya { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Impossibile connecter se al VPN
 ipprotection-connection-status-network-error-title = Controla tu connexion a internet
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Predefinir VPN pro activar se</a> cata vice tu aperi { -brand-short-name } pro un strato ulterior de protection.
 
 ## IP Protection Settings
 
