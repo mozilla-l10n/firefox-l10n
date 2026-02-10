@@ -85,12 +85,26 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Le VPN est désactiv
 
 ipprotection-bandwidth-upgrade-text = Choisissez un emplacement VPN et ajoutez une protection à toutes vos applications sur jusqu’à 5 appareils, que vous soyez chez vous ou sur un Wi-Fi public.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Vous avez presque atteint la limite de votre VPN.</strong> Il vous reste { $usageLeft } Go. Votre quota de données sera remis à zéro au début du mois prochain.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Votre quota de données VPN est presque épuisé.</strong> Il vous reste { $usageLeft } Go disponibles. Dès que vous aurez tout utilisé, votre VPN sera suspendu jusqu’à la réinitialisation de votre quota le premier du mois prochain.
+
 ## IP Protection Settings
 
 ip-protection-description =
     .label = VPN
     .description = VPN intégré pour renforcer votre confidentialité lorsque vous naviguez avec { -brand-short-name }.
 ip-protection-learn-more = En savoir plus
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Essayez le VPN intégré à { -brand-short-name }
+    .message = Dissimulez votre localisation et renforcez la sécurité de votre navigation dans { -brand-short-name } grâce à un chiffrement supplémentaire. Obtenez { $maxUsage } Go de données VPN gratuits chaque mois.
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
@@ -100,3 +114,9 @@ ip-protection-site-exceptions-all-sites-button =
             [one] { $count } site web
            *[other] { $count } sites web
         }
+ip-protection-autostart =
+    .label = Activer le VPN automatiquement
+ip-protection-autostart-checkbox =
+    .label = À l’ouverture de { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = Dans les fenêtres de navigation privée

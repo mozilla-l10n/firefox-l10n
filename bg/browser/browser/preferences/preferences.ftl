@@ -1725,3 +1725,19 @@ preferences-ai-controls-translations-control =
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Доставчици на чатбот с AI в страничната лента
     .description = Задържане на чатбота на екрана при сърфиране. Избор между Anthropic Claude, ChatGPT, Copilot, Google Gemini и Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Чатбот в страничната лента
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Наличен
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Включен
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Забранен
+preferences-ai-controls-state-description-before = Какво означават настройките:
+preferences-ai-controls-state-description-available = <strong>Наличен:</strong> Фукнцията е налична за използване.
+preferences-ai-controls-state-description-enabled = <strong>Включен:</strong> Функцията е избрана за използване.
+preferences-ai-controls-state-description-blocked = <strong>Забранен:</strong> Функцията не се вижда и няма да може да се използва. За AI върху устройство всички вече изтеглени модели се премахват.
+preferences-ai-controls-block-confirmation-heading = Забраняване на AИ подобренията?
