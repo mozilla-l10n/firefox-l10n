@@ -293,6 +293,7 @@ appmenuitem-monitor-description = קבלת התרעות על דליפות נתו
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = קבלת הגנה על כל המכשיר
 appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך
 appmenu-services-header = השירותים שלי
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

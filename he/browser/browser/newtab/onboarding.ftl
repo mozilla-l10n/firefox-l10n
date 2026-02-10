@@ -525,3 +525,7 @@ onboarding-personalization-motivation-title = אילו תכונות של { -bran
 onboarding-personalization-motivation-privacy-option = פרטיות ואבטחה
 onboarding-personalization-motivation-productivity-option = פרודקטיביות
 onboarding-personalization-motivation-other-option = אחר
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = אנו מגנים על הנתונים שלך וחוסמים חברות מלרגל אחר הלחיצות שלך - באופן אוטומטי.
