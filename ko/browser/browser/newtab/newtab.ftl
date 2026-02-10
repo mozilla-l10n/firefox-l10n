@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = 개인화
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = 닫기
+    .aria-label = 닫기
 
 ## Search box component.
 

@@ -7,7 +7,7 @@ profile-window-heading =
         [with-cases] Vyberte profil { -brand-short-name(case: "gen") }
        *[no-cases] Vyberte profil aplikace { -brand-short-name }
     }
-profile-window-body = Pracovní a osobní prohlížení, včetně takových věcí, jako jsou hesla a záložky, mějte zcela oddělené. Nebo si vytvořte profily pro všechny, kteří toto zařízení používají.
+profile-window-body = Pracovní a osobní prohlížení, včetně takových věcí, jako jsou hesla a záložky, mějte zcela oddělené. Nebo vytvořte profil každému, kdo používá toto zařízení.
 # This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
 profile-window-checkbox-label-2 =
     .label =
@@ -18,8 +18,8 @@ profile-window-checkbox-label-2 =
 # This subcopy appears below the checkbox when it is unchecked
 profile-window-checkbox-subcopy =
     { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } otevře váš naposledy použitý profil.
-       *[no-cases] Aplikace { -brand-short-name } otevře váš naposledy použitý profil.
+        [with-cases] { -brand-short-name } se otevře s vámi naposledy používaným profilem.
+       *[no-cases] Aplikace { -brand-short-name } se otevře s vámi naposledy používaným profilem.
     }
 profile-window-create-profile = Vytvořit profil
 profile-card-edit-button =

@@ -576,3 +576,13 @@ onboarding-refresh-pin-set-default-subtitle = 자동으로 사용자의 데이�
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = 여러분은 안전합니다
+onboarding-refresh-import-subtitle = 비밀번호, 북마크, 기록 등을 가져오세요.
+onboarding-refresh-import-title = { -brand-short-name }를 좀 더 나만의 것으로 만드세요.
+onboarding-refresh-onboarding-addons-subtitle = 확장 기능은 { -brand-short-name }를 사용자 정의할 수 있는 작은 앱입니다. 이들은 개인 정보 보호를 강화하고, 생산성을 향상시키며, { -brand-short-name }의 모양 등을 바꿀 수 있습니다.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = 탐색을 향상시키세요
+onboarding-refresh-sync-subtitle = { -brand-short-name }에 로그인한 모든 곳에서 북마크, 비밀번호 등을 사용하세요. 또한, 데이터는 암호화되어 오직 자신만 볼 수 있습니다.
+onboarding-refresh-sync-title = 어디든 가세요. 모든 것을 동기화하세요.
+onboarding-refresh-gratitude-subtitle = 비영리 단체가 지원하는 유일한 주요 브라우저인 { -brand-short-name }를 사용해 주셔서 감사합니다. 여러분의 지원으로 모든 사람이 더 안전하고 접근 가능한 인터넷을 만들 수 있습니다.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name }가 사용자를 지켜드립니다

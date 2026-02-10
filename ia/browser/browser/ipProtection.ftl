@@ -98,6 +98,8 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ## IP Protection Settings
 
 ip-protection-learn-more = Pro saper plus
+ip-protection-site-exceptions =
+    .label = Parametros specific de sito
 ip-protection-not-opted-in-button = Comenciar
 ip-protection-autostart-private-checkbox =
     .label = In fenestras private
