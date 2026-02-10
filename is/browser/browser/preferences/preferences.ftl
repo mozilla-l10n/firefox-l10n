@@ -328,6 +328,14 @@ preferences-colors-description = Taka yfir sjálfgefna liti { -brand-short-name 
 preferences-colors-manage-button =
     .label = Stýra litum…
     .accesskey = l
+preferences-fonts-header2 =
+    .label = Leturgerðir
+default-font-2 =
+    .label = Sjálfgefin leturgerð
+    .accesskey = g
+default-font-size-2 =
+    .label = Stærð
+    .accesskey = S
 preferences-fonts-header = Leturgerðir
 default-font = Sjálfgefin leturgerð
     .accesskey = g
@@ -545,6 +553,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -668,6 +679,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -883,6 +900,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1781,3 +1803,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## AI controls page
+
