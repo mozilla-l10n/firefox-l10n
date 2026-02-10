@@ -75,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN jo zastajony
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
 upgrade-vpn-title = Wobstarajśo se pśidatny šćit zwenka wobglědowaka
+upgrade-vpn-description = Wubjeŕśo swójo stojnišćo VPN, wužywajśo VPN za wšykne swóje nałoženja a na až do 5 rědow a wóstańśo wěsty w kuždej seśi – doma abo w zjawnem WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wopytaś
 
 ## Messages and errors
@@ -89,7 +90,24 @@ ipprotection-connection-status-network-error-description = Zwěžćo z interneto
 ipprotection-message-bandwidth-warning =
     .heading = Dojśpijośo waš limit VPN
     .message = Maśo { $usageLeft } GB z { $maxUsage } GB toś ten mjasec wušej.
+ipprotection-message-continuous-onboarding-intro = Zmóžniśo VPN, aby swójo stojnišćo schował a pśidajśo swójomu pśeglědowanjeju pśidatne koděrowanje.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžniśo VPN</a> za pśidatnu šćitnu rowninu, kuždy raz, gaž { -brand-short-name } wócynjaśo.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } se na to dopomina, za kótare websedła se ma VPN wužywaś. Aktualizěrujśo toś te kuždy cas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jo za toś to sedło znjemóžnjony
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Zatwarjony VPN wam se spódoba? Wobstarajśo se wěcej šćita zwenka { -brand-product-name } z { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Wubjeŕśo stojnišćo VPN a pśidajśo wšym swójim nałoženjam na až do 5 rědach šćit, wšojadno, lěc sćo doma abo w zjawnem WLAN.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Dojśpijośo swój limit VPN.</strong> Maśo { $usageLeft } GB wušej. Waše daty se na zachopjeńku pśiducego mjaseca slědk stajiju.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Sćo swóje daty VPN pśisamem pśetrjebał.</strong> Maśo { $usageLeft } GB wušej. Gaž je wšykne pśetrjebujośo, waš VPN wusajźijo, daniž se waše daty prědnego pśiducego mjaseca slědk stajiju.
 
 ## IP Protection Settings
 
@@ -122,11 +140,15 @@ ip-protection-autostart-checkbox =
     .label = Gaž { -brand-short-name } wócynjam
 ip-protection-autostart-private-checkbox =
     .label = W priwatnych woknach
+ip-protection-vpn-upgrade-link =
+    .label = Wobstarajśo se samo wěcej šćita zwenka { -brand-short-name } z { -mozilla-vpn-brand-name }.
+    .description = Wubjeŕśo swójske stojnišća VPN a pśidajśo wšym swójim nałoženjam na až do pěś rědach šćit, lěc sćo doma abo w zjawnem WLAN.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Nastajenja websedłow zastojaś
+ip-protection-exclusions-desc = Wužywajśo VPN za wšykne websedła mimo za te, kótarež su w lisćinje. Pśidajśo websedło how abo wócyńśo VPN.
 
 ## IP Protection Bandwidth
 
