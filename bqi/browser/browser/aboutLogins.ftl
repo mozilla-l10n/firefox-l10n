@@ -109,6 +109,8 @@ login-intro-description = ٱر ایسا و من ٱووڌن تووݩ و { -brand-
 login-intro-instructions-fxa = { -fxaccount-brand-name } خوته من دسگایی ک و من ٱووڌنا ایسا من هو زفت وابیڌنه وورکل یا من هو و من بیاین.
 about-logins-login-intro-heading-message = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
 login-intro-description2 = پوی رزمایی ک من { -brand-product-name } اواڌارنین، رزم ناهاڌه وابیڌنه. جوڌا ز یو، ایما ویردار لوو رئڌن هونوو هڌیم وو ٱر من ختر بۊوین و ایسا هوشدار ادیم. <a data-l10n-name="breach-alert-link">قلوه دووسته بۊین</a>
+login-intro-instructions-fxa2 = و دسگایی ک منه هو دووسمندیا و من ٱوۊڌنی خوتووݩ ن زفت کردینه، و من بیاین یا ی هساو نۊ سی خوت وورکل کوݩ.
+login-intro-instructions-fxa-settings = و سامووا> هوم گوم کردن> رۊشن کردن هوم گوم کردن… ریوین وو گۊزینه و من ٱووڌنا وو رزما ن پسند کۊنین.
 
 ## Login
 

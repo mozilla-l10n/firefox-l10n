@@ -40,6 +40,11 @@ ipprotection-site-settings-callout-button = OK
 
 unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
 unauthenticated-hide-location-message = Cela tu position e adde ulterior cryptation a tu navigation intra { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message =
+    Obtene { $maxUsage } GB de datos de VPN
+     gratuite cata mense.
 unauthenticated-get-started = Comenciar
 site-exclusion-toggle-label = Usar VPN pro iste sito
 site-exclusion-toggle-enabled =
@@ -72,6 +77,7 @@ ipprotection-connection-status-paused-title = VPN pausate
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso se reinitialisara le mense proxime.
 upgrade-vpn-title = Obtene protection ulterior ultra le navigator
+upgrade-vpn-description = Elige tu position del VPN, usa VPN pro tote tu applicationes e usque 5 apparatos, e sta secur sur qualcunque rete, a casa o sur wi-fi public.
 upgrade-vpn-button = Essaya { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -80,6 +86,13 @@ ipprotection-connection-status-generic-error-title = Impossibile connecter se al
 ipprotection-connection-status-generic-error-description = Retenta in alcun minutas.
 ipprotection-connection-status-network-error-title = Controla tu connexion a internet
 ipprotection-connection-status-network-error-description = Connecte te a internet, pois tenta activar VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Tu va approximar te a tu limite de VPN
+    .message = Tu ha { $usageLeft } GB de { $maxUsage } GB restante iste mense.
+ipprotection-message-continuous-onboarding-intro = Activa le VPN pro celar tu position e adder ulterior cryptation a tu navigation.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Predefinir VPN pro activar se</a> cata vice tu aperi { -brand-short-name } pro un strato ulterior de protection.
 
 ## IP Protection Settings
