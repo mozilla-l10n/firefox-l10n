@@ -55,3 +55,17 @@ ipprotection-connection-status-connected = VPN hendy
 ipprotection-connection-status-disconnected = VPN ogue
 ipprotection-connection-status-excluded = VPN ogue ko tendápe g̃uarã
 ipprotection-connection-status-connecting = Pe VPN oikehína…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Embogue VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Embogue VPN opa hendápe
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Emyandy VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Emyandyhína…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN opytáva
+upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
