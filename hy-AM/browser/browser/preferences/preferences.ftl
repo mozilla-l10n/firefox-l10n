@@ -294,6 +294,14 @@ preferences-colors-description = Չեղարկել { -brand-short-name }-ի սկ�
 preferences-colors-manage-button =
     .label = Կառավարել գույները…
     .accesskey = C
+preferences-fonts-header2 =
+    .label = Տառատեսակներ
+default-font-2 =
+    .label = Սկզբնադիր տառատեսակը
+    .accesskey = Ս
+default-font-size-2 =
+    .label = Չափը
+    .accesskey = Չ
 preferences-fonts-header = Տառատեսակներ
 default-font = Սկզբնադիր տառատեսակը
     .accesskey = Ս
@@ -499,6 +507,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -874,6 +885,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1265,6 +1281,9 @@ sitedata-cookies-exceptions2 =
     .description = Կարող եք հատկորոշել, թե որ կայքերը մշտապես կամ երբեք օգտագործեն թխուկներ և կայքի տվյալներ:
 cookies-site-data-group =
     .label = Cookie-ներ և կայքի տվյալներ
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1668,3 +1687,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+
+## AI controls page
+
