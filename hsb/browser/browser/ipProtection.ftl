@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we wašim wobhladowaku
+ipprotection-feature-introduction-link-text = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty z přidatnym zaklučowanjom škitał.
+ipprotection-feature-introduction-link-text-private-browsing = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty z přidatnym zaklučowanjom škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-button-primary = Dale
 ipprotection-feature-introduction-button-secondary-not-now = Nic nětko
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, dźakuju so
@@ -31,11 +33,13 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Ně, dźakuju so
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wubjerće, hdźež chceće VPN wužiwać
+ipprotection-site-settings-callout-subtitle = Znjemóžńće VPN za wěste sydło a dopominamy so na to kóždy raz, hdyž wopytujeće.
 ipprotection-site-settings-callout-button = Sym zrozumił
 
 ## Panel
 
 unauthenticated-vpn-title = Wupruwujće zatwarjeny VPN { -brand-product-name }
+unauthenticated-hide-location-message = Schowajće swoje stejnišćo a přidajće swojemu přehladowanju w { -brand-product-name } přidatne zaklučowanje.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
@@ -71,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN je zastajeny
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
 upgrade-vpn-title = Wobstarajće sej přidatny škit zwonka wobhladowaka
+upgrade-vpn-description = Wubjerće swoje stejnišćo VPN, wužiwajće VPN za wšě swoje nałoženja a na hač do 5 gratow a wostańće wěsty w kóždej syći – doma abo w zjawnym WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wupruwować
 
 ## Messages and errors
@@ -85,6 +90,8 @@ ipprotection-connection-status-network-error-description = Zwjazajće z internet
 ipprotection-message-bandwidth-warning =
     .heading = Docpějeće waš limit VPN
     .message = Maće { $usageLeft } GB z { $maxUsage } GB tutón měsac wyše.
+ipprotection-message-continuous-onboarding-intro = Zmóžńće VPN, zo byšće swoje stejnišćo schował a přidajće swojemu přehladowanju přidatne zaklučowanje.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžńće VPN</a> za přidatnu škitnu runinu, kóždy raz, hdyž { -brand-short-name } wočinjeće.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydło znjemóžnjeny
 
 ## IP Protection Settings
