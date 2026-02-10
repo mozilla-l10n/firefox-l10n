@@ -75,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN mis en pause
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
 upgrade-vpn-title = Bénéficiez d’une protection supplémentaire au-delà du navigateur
+upgrade-vpn-description = Choisissez des emplacements VPN personnalisés, protégez toutes vos applications sur un maximum de cinq appareils et restez en sécurité sur n’importe quel réseau, que vous soyez chez vous ou sur un Wi-Fi public.
 upgrade-vpn-button = Essayer { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -119,6 +120,7 @@ ip-protection-learn-more = En savoir plus
 ip-protection-not-opted-in =
     .heading = Essayez le VPN intégré à { -brand-short-name }
     .message = Dissimulez votre localisation et renforcez la sécurité de votre navigation dans { -brand-short-name } grâce à un chiffrement supplémentaire. Obtenez { $maxUsage } Go de données VPN gratuits chaque mois.
+ip-protection-not-opted-in-button = Lancez-vous
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
@@ -134,6 +136,9 @@ ip-protection-autostart-checkbox =
     .label = À l’ouverture de { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Dans les fenêtres de navigation privée
+ip-protection-vpn-upgrade-link =
+    .label = Profitez d’une protection renforcée en dehors de { -brand-short-name } grâce à { -mozilla-vpn-brand-name }.
+    .description = Choisissez des emplacements VPN personnalisés et protégez toutes vos applications sur un maximum de cinq appareils, que vous soyez chez vous ou sur un Wi-Fi public.
 
 ## IP Protection dialogs
 
