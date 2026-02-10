@@ -111,6 +111,11 @@ search-results-header = نتیجه یل پیتینیڌن
 ## General Section
 
 startup-header = ره وندن
+startup-restore-warn-on-quit =
+    .label = مجال و در زیڌن ز گشت گر اختار اده
+disable-extension =
+    .label = قیرفعال کردن وردنی
+preferences-data-migration-header = و من ٱووردن داده یل گشت گر
 preferences-profiles-group-header =
     .heading = پوروفایلا
 preferences-profiles-header = پوروفایلا

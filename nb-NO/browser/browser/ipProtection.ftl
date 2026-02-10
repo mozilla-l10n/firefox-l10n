@@ -37,3 +37,25 @@ ipprotection-site-settings-callout-button = Jeg forstår
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-get-started = Kom i gang
+ipprotection-settings-link =
+    .label = Innstillinger
+
+## Status card
+
+ipprotection-connection-status-connected = VPN er på
+ipprotection-connection-status-disconnected = VPN er av
+ipprotection-connection-status-excluded = VPN er av for dette nettstedet
+ipprotection-connection-status-connecting = VPN kobler til …
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Slå av VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Slå av VPN overalt
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Slå på VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Slår på …
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN satt på pause
