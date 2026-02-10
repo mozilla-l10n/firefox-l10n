@@ -174,3 +174,9 @@ ip-protection-bandwidth-help-text = Le quota est réinitialisé à { $maxUsage }
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } Go de VPN, remis à zéro et prêt à l’emploi
+ipprotection-bandwidth-reset-text = Activez le VPN pour renforcer votre confidentialité, gratuitement chaque mois.
+ipprotection-bandwidth-reset-button = J’ai compris
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN mis en pause
