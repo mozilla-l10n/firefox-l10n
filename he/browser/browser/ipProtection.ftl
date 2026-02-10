@@ -89,7 +89,7 @@ ipprotection-connection-status-network-error-description = יש התחבר לא�
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = הגעת כמעט למגבלת ה־VPN שלך
-    .message = נשארו לך { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב בחודש הזה.
+    .message = נשארו לך { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב החודש.
 ipprotection-message-continuous-onboarding-intro = ניתן להפעיל VPN כדי להסתיר את המיקום שלך ולהוסיף הצפנה נוספת לגלישה שלך.
 ipprotection-message-continuous-onboarding-autostart = ניתן <a data-l10n-name="setting-link">להגדיר שה־VPN יופעל</a> בכל פעם ש־{ -brand-short-name } נפתח, לקבלת שכבת הגנה נוספת.
 ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } יזכור באילו אתרים הגדרת להשתמש ב־VPN. ניתן לעדכן אותם ב<a data-l10n-name="setting-link">הגדרות</a> בכל עת.
@@ -98,7 +98,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = ה־VPN כבוי ע�
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = אהבת את ה־VPN המובנה? ניתן לקבל אפילו עוד יותר הגנה מחוץ ל־{ -brand-product-name } באמצעות { -mozilla-vpn-brand-name }.
-ipprotection-bandwidth-upgrade-text = ניתן לבחור מיקום VPN ולהוסיף הגנה לכל היישומים שלך ב־5 מכשירים לכל היותר, בין אם הינך בבית או ברשת Wi-Fi ציבורית.
+ipprotection-bandwidth-upgrade-text = ניתן לבחור מיקום VPN ולהוסיף הגנה לכל היישומים שלך על עד 5 מכשירים, בין אם הינך בבית או ברשת Wi-Fi ציבורית.
 
 ## IP Protection bandwidth warning infobar
 
@@ -117,6 +117,40 @@ ip-protection-description =
 ip-protection-learn-more = מידע נוסף
 ip-protection-site-exceptions =
     .label = הגדרות אתרים ספציפיים
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = לנסות את ה־VPN המובנה של { -brand-short-name }
+    .message = ניתן להסתיר את המיקום שלך ולהוסיף הצפנה נוספת לגלישה שלך ב־{ -brand-short-name }. כולל { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
+ip-protection-not-opted-in-button = תחילת עבודה
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = ניהול הגדרות אתרים
+    .description =
+        { $count ->
+            [one] אתר אחד
+           *[other] { $count } אתרים
+        }
+ip-protection-autostart =
+    .label = הפעלת VPN באופן אוטומטי
+ip-protection-autostart-checkbox =
+    .label = בעת הפתיחה של { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = בחלונות פרטיים
+ip-protection-vpn-upgrade-link =
+    .label = ניתן לקבל אפילו עוד יותר הגנה מחוץ ל־{ -brand-short-name } באמצעות { -mozilla-vpn-brand-name }
+    .description = ניתן לבחור במיקומי VPN מותאמים אישית ולהוסיף הגנה לכל היישומים שלך על עד 5 מכשירים, בין אם הינך בבית או ברשת Wi-Fi ציבורית.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = ניהול הגדרות אתרים
+ip-protection-exclusions-desc = יש להשתמש ב־VPN עבור כל האתרים מלבד אלה שברשימה זו. ניתן להוסיף אתרים כאן או על־ידי פתיחת VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = נתוני VPN חודשיים
 
 ## IP Protection bandwidth reset callout
 
