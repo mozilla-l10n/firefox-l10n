@@ -569,3 +569,20 @@ onboarding-personalization-motivation-title = A { -brand-short-name } mely funkc
 onboarding-personalization-motivation-privacy-option = Adatvédelem és biztonság
 onboarding-personalization-motivation-productivity-option = Produktivitás
 onboarding-personalization-motivation-other-option = Egyéb
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Megvédjük adatait, és megakadályozzuk a cégeket, hogy kémkedjenek a kattintásai után – mindezt automatikusan.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Biztonságos mancsokban van
+onboarding-refresh-import-subtitle = Hozza át jelszavait, könyvjelzőit, előzményeit és egyebeit.
+onboarding-refresh-import-title = Érezze magát otthon a { -brand-short-name } böngészőben
+onboarding-refresh-onboarding-addons-subtitle = A kiegészítők apró alkalmazások, amelyekkel testreszabhatja a { -brand-short-name } böngészőt. Erősíthetik az adatvédelmét, növelhetik a produktivitást, megváltoztathatják a { -brand-short-name } megjelenését, és még sok mást is tehetnek.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Adjon lendületet a böngészésének
+onboarding-refresh-sync-subtitle = Vegye át a könyvjelzőket, jelszavakat és egyebeket mindenhol, ahol be van jelentkezve a { -brand-short-name } böngészőbe. Ráadásul az adatai titkosítottak, így csak Ön láthatja azokat.
+onboarding-refresh-sync-title = Menjen bárhová. Szinkronizáljon mindent.
+onboarding-refresh-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name } böngészőt használja, az egyetlen jelentős böngészőt, melyet egy nonprofit szervezet támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = Számíthat a { -brand-short-name } böngészőre

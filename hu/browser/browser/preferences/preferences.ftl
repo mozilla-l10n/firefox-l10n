@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = E
 browser-layout-header2 =
     .label = Böngésző elrendezése
+browser-layout-horizontal-tabs2 =
+    .label = Vízszintes lapok
+    .title = Lapok felül
+    .description = Lapok felül
+browser-layout-vertical-tabs2 =
+    .label = Függőleges lapok
+    .title = Lapok oldalt, az oldalsávban
+    .description = Lapok oldalt, az oldalsávban
 browser-layout-show-sidebar2 =
     .label = Oldalsáv megjelenítése
     .description = Érje el gyorsan a könyvjelzőket és a lapokat a telefonjáról, használjon MI csevegőbotokat, anélkül hogy elhagyná a fő nézetet.
@@ -407,6 +415,28 @@ preferences-text-zoom-override-warning =
     .message = Figyelmeztetés: Ha a „Csak szöveg nagyítása” lehetőséget választja, és az alapértelmezett nagyítás nem 100%-ra van állítva, az egyes webhelyek és tartalmak nem megfelelő működését okozhatja.
 language-header = Nyelv
 choose-language-description = Az oldalak megjelenítésére előnyben részesített nyelv megadása
+website-language-heading =
+    .label = Webhely nyelve
+    .description = Egyes webhelyek több nyelven jelennek meg. Válassza ki az előnyben részesített nyelvek sorrendjét.
+website-preferred-language =
+    .label = Előnyben részesített nyelvek
+website-add-language =
+    .label = Nyelv hozzáadása
+website-add-language-button =
+    .aria-label = Kiválasztott nyelv hozzáadása
+    .title = Kiválasztott nyelv hozzáadása
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = { $locale } eltávolítása
+    .title = { $locale } eltávolítása
 choose-button =
     .label = Tallózás…
     .accesskey = T
@@ -834,6 +864,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Még nincsenek webhelyek hozzáadva.
+home-custom-homepage-delete-address-button =
+    .aria-label = Cím törlése
+    .title = Cím törlése
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Még nincsenek webhelyek hozzáadva.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

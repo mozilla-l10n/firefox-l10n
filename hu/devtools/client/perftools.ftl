@@ -33,6 +33,7 @@ perftools-description-local-build =
     Ha egy olyan összeállítást profiloz, amelyet saját maga fordított le,
     ezen a gépen, akkor adja az összeállítás tárgykönyvtárát a lenti listához,
     hogy használható legyen a szimbóluminformációk megkereséséhez.
+perftools-pick-local-build-directory = Válasszon összeállítási könyvtárat
 
 ## The controls for the interval at which the profiler samples the code.
 

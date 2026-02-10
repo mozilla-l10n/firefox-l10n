@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } MI weboldal-készítő
 more-from-moz-mdn-title = MDN webes dokumentáció
 more-from-moz-mdn-description = Tanuljon a webfejlesztésről ingyenes, átfogó útmutatók és referenciák segítségével.
 more-from-moz-mdn-button = Tanuljon a webfejlesztésről
+more-from-moz-mdn-title2 = { -mdn-brand-name }

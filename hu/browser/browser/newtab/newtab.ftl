@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Testreszabás
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Eltüntetés
+    .aria-label = Eltüntetés
 
 ## Search box component.
 
@@ -482,6 +485,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Váltás Fahrenheitre
 newtab-weather-menu-change-temperature-units-celsius = Váltás Celsiusra
+newtab-weather-menu-hide-weather-v2 = Időjárás elrejtése
 newtab-weather-menu-hide-weather = Időjárás elrejtése az Új lapon
 newtab-weather-menu-learn-more = További tudnivalók
 newtab-weather-menu-detect-my-location = Saját hely észlelése
@@ -700,6 +704,10 @@ newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-hide = Időzítő elrejtése
 newtab-widget-timer-menu-learn-more = További tudnivalók
+newtab-daily-briefing-card-menu-dismiss = Eltüntetés
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Frissítve: { $minutes } perce
 newtab-widget-message-title = Maradjon fókuszált a listákkal és a beépített időzítővel
 # to-dos stands for "things to do".
 newtab-widget-message-copy = A gyors emlékeztetőktől a napi tennivalókig, fókuszált munkaszakaszoktól a nyújtó szünetekig — maradjon a feladatnál és időben.
@@ -709,3 +717,25 @@ newtab-promo-card-cta = További tudnivalók
 newtab-promo-card-dismiss-button =
     .title = Eltüntetés
     .aria-label = Eltüntetés
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Eltüntetés
+    .aria-label = Eltüntetés
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Tegye sajátjává ezt a helyet
+newtab-activation-window-message-customization-focus-message = Válasszon egy friss háttérképet, adjon hozzá indítóikonokat a kedvenc webhelyeihez, és legyen naprakész az Önt érdeklő történetekről.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Testreszabás megkezdése
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Ez a hely az Ön szabályai szerint játszik
+newtab-activation-window-message-values-focus-message = A { -brand-product-name } használatával úgy böngészhet, ahogy tetszik, és személyesebben kezdheti a napját online. Tegye sajátjává a { -brand-product-name } böngészőt.

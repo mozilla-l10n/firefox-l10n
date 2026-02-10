@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Ehovamo’ã ne ñanduti veve ha pumbyry
 appmenuitem-services-relay-description = Emoñepyrũ ñanduti veve rovara’ãnga rupa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã
 appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
 appmenu-services-header = Mba’epytyvõrã
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
