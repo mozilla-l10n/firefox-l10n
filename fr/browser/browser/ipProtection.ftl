@@ -38,9 +38,11 @@ ipprotection-site-settings-callout-button = J’ai compris
 ## Panel
 
 unauthenticated-vpn-title = Essayez le VPN intégré à { -brand-product-name }
+unauthenticated-hide-location-message = Dissimulez votre localisation et renforcez la sécurité de votre navigation dans { -brand-product-name } grâce à un chiffrement supplémentaire.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Bénéficiez de { $maxUsage } Go de données VPN gratuits chaque mois.
+site-exclusion-toggle-label = Activer le VPN pour ce site
 site-exclusion-toggle-enabled =
     .aria-label = Le VPN est activé pour ce site
 site-exclusion-toggle-disabled =

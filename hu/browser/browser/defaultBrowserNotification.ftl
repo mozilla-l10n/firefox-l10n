@@ -40,3 +40,5 @@ default-browser-guidance-notification-body-instruction-win11 =
     2. lépés: Válassza az „Alaphelyzet” lehetőséget a { -brand-short-name }hoz
 default-browser-guidance-notification-info-page = Megjelenítés
 default-browser-guidance-notification-dismiss = Kész
+default-browser-guidance-notification-v2-title = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése
+default-browser-guidance-notification-v2-title-only = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése a Beállításokban
