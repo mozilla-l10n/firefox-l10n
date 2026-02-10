@@ -59,3 +59,57 @@ ipprotection-button-connecting = Slår på …
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN satt på pause
+upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-description = Prøv igjen om noen minutter.
+ipprotection-connection-status-network-error-title = Sjekk internettilkoblingen din
+ipprotection-connection-status-network-error-description = Koble til internett, og prøv deretter å slå på VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Du nærmer deg VPN-grensen din
+    .message = Du har { $usageLeft } GB av { $maxUsage } GB igjen denne måneden.
+ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule posisjonen din og legge til ekstra kryptering i nettlesingen din.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Sett VPN til å slå seg på</a> hver gang du åpner { -brand-short-name } for et ekstra lag med beskyttelse.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker hvilke nettsteder du har satt til å bruke VPN. Oppdater disse i <a data-l10n-name="setting-link">innstillinger</a> når som helst.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette nettstedet
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Liker du innebygd VPN? Få enda mer beskyttelse utenfor { -brand-product-name } med { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Velg en VPN-plassering og legg til beskyttelse for alle appene dine på opptil 5 enheter, enten du er hjemme eller på offentlig Wi-Fi.
+
+## IP Protection Settings
+
+ip-protection-learn-more = Les mer
+ip-protection-site-exceptions =
+    .label = Nettstedsspesifikke innstillinger
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
+    .message = Skjul plasseringen din og legg til ekstra kryptering i nettlesingen i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
+ip-protection-not-opted-in-button = Kom i gang
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Behandle nettstedsinnstillinger
+    .description =
+        { $count ->
+            [one] { $count } nettsted
+           *[other] { $count } nettsteder
+        }
+ip-protection-autostart =
+    .label = Slå på VPN automatisk
+ip-protection-autostart-checkbox =
+    .label = Når jeg åpner { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = I private vinduer
+
+## IP Protection alerts
+
+vpn-paused-alert-close-tabs-button = Lukk alle faner
+vpn-error-alert-body = Prøv igjen senere.
