@@ -13,3 +13,39 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
 
 ipprotection-site-settings-callout-title = Vel kvar du brukar VPN
 ipprotection-site-settings-callout-button = Eg forstår
+
+## Panel
+
+unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
+unauthenticated-hide-location-message = Skjul plasseringa di og legg til ekstra kryptering i nettlesinga di i { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data kvar månad.
+unauthenticated-get-started = Kom i gang
+site-exclusion-toggle-label = Bruk VPN for denne nettstaden
+site-exclusion-toggle-enabled =
+    .aria-label = VPN er på for denne nettstaden
+site-exclusion-toggle-disabled =
+    .aria-label = VPN er av for denne nettstaden
+ipprotection-settings-link =
+    .label = Innstillingar
+
+## Status card
+
+ipprotection-connection-status-connected = VPN er på
+ipprotection-connection-status-disconnected = VPN er av
+ipprotection-connection-status-excluded = VPN er av for denne nettstaden
+ipprotection-connection-status-connecting = VPN koplar til …
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Slå av VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Slå av VPN overalt
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Slå på VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Slår på…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN sett på pause

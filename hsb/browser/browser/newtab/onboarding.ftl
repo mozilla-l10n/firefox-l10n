@@ -582,6 +582,8 @@ onboarding-refresh-import-title = Dajće { -brand-short-name } so wjace doma ču
 onboarding-refresh-onboarding-addons-subtitle = Rozšěrjenja su małe nałoženja, kotrež wam zmóžnjeja, { -brand-short-name } přiměrić. Móža wašu priwatnosć powyšić, produktiwitu polěpšić, napohlad { -brand-short-name } změnić a wjele wjace.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Dajće swojemu přehladowanju stork
+onboarding-refresh-sync-subtitle = Zběrajće zapołožki, hesła wjace wšudźe, hdźež sće pola { -brand-short-name } přizjewjeny. Nimo toho so waše daty zaklučuja, zo byšće jenož wy móhł je widźeć.
 onboarding-refresh-sync-title = Dźiće wšudźe. Synchronizujće wšitko.
+onboarding-refresh-gratitude-subtitle = Wulki dźak, zo { -brand-short-name } wužiwaće, kotryž so wot powšitkownosći wužitneje organizacije spěchuje. Z wašej pomocu dźěłamy na tym, internet wěsćiši a přistupniši za kóždeho činić.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji

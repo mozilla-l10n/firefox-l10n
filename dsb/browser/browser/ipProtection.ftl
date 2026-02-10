@@ -23,6 +23,9 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Pśedstajamy VPN, něnto direktnje we wašom wobglědowaku
+ipprotection-feature-introduction-link-text = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty z pśidatnym koděrowanim šćitał.
+ipprotection-feature-introduction-link-text-private-browsing = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty z pśidatnym koděrowanim šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nic něnto
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, źěkujom se
@@ -30,11 +33,13 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Ně, źěkujom se
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wubjeŕśo, źož cośo VPN wužywaś
+ipprotection-site-settings-callout-subtitle = Znjemóžniśo VPN za wěste sedło a dopominamy se na to kuždy raz, gaž se woglědujośo.
 ipprotection-site-settings-callout-button = Som zrozměł
 
 ## Panel
 
 unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
+unauthenticated-hide-location-message = Schowajśo swójo stojnišćo a pśidajśo swójomu pśeglědowanjeju w { -brand-product-name } pśidatne koděrowanje.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
