@@ -91,21 +91,88 @@ ipprotection-message-bandwidth-warning =
     .heading = VPN лимитіне жақындадыңыз
     .message = Осы айда сізде { $maxUsage } ГБ көлемінің { $usageLeft } ГБ қалды.
 ipprotection-message-continuous-onboarding-intro = Орналасқан жеріңізді жасыру және шолуыңызға қосымша шифрлеуді қосу үшін VPN іске қосыңыз.
+ipprotection-message-continuous-onboarding-autostart = { -brand-short-name } браузерін әр ашқан сайын қосымша қорғаныс қабатын қамтамасыз ету үшін <a data-l10n-name="setting-link">VPN-ді автоматты түрде іске қосылатындай етіп баптаңыз</a>.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } қай веб-сайттар үшін VPN қолдануды таңдағаныңызды есте сақтайды. Бұл тізімді кез келген уақытта <a data-l10n-name="setting-link">баптаулар</a> бөлімінде өзгерте аласыз.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN бұл сайт үшін сөндірулі тұр
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Құрамындағы VPN ұнады ма? { -mozilla-vpn-brand-name } арқылы { -brand-product-name } браузерінен тыс жерде де жоғары деңгейлі қорғанысқа ие болыңыз.
+ipprotection-bandwidth-upgrade-text = VPN серверінің орналасуын таңдап, 5 құрылғыға дейін барлық қолданбаларыңызды қорғауға алыңыз; бұл кез келген жерде (үйде немесе ашық Wi-Fi нүктелерінде) қауіпсіздікті қамтамасыз етеді.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN лимитіне жақындадыңыз.</strong> Сізде { $usageLeft } ГБ қалды. Деректер көлемі келесі айдың басында қайта қалпына келеді.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN деректеріңіз таусылуға жақын.</strong> Сізде { $usageLeft } ГБ қалды. Барлық деректерді пайдаланып қойған соң, келесі айдың бірінші жұлдызында лимит жаңартылғанға дейін VPN жұмысы уақытша тоқтайды.
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = { -brand-short-name } браузерінде жұмыс істеу кезінде жекелігіңізді арттыруға арналған кірістірілген VPN.
 ip-protection-learn-more = Көбірек білу
+ip-protection-site-exceptions =
+    .label = Сайтқа тән баптаулар
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін байқап көріңіз.
+    .message = { -brand-short-name } браузерінде жұмыс істеу кезінде орналасқан жеріңізді жасырыңыз және қосымша шифрлеу қосыңыз. Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
+ip-protection-not-opted-in-button = Бастау
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Веб-сайт баптауларын басқару
+    .description =
+        { $count ->
+            [one] { $count } веб-сайт
+           *[other] { $count } веб-сайт
+        }
+ip-protection-autostart =
+    .label = VPN автоматты түрде іске қосу
+ip-protection-autostart-checkbox =
+    .label = Мен { -brand-short-name } ашқан кезде
 ip-protection-autostart-private-checkbox =
     .label = Жекелік шолу терезелерінде
+ip-protection-vpn-upgrade-link =
+    .label = { -mozilla-vpn-brand-name } арқылы { -brand-short-name } браузерінен тыс жерде де жоғары деңгейлі қорғанысқа ие болыңыз.
+    .description = VPN орналасқан жерін еркін таңдаңыз және үйде немесе қоғамдық Wi-Fi желісінде болсаңыз да, 5 құрылғыға дейін барлық қолданбаларыңызды қорғаңыз.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Веб-сайт баптауларын басқару
+ip-protection-exclusions-desc = Осы тізімдегілерден басқа барлық веб-сайттар үшін VPN пайдаланыңыз. Веб-сайтты осы жерге немесе VPN ашу арқылы қосыңыз.
 
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = Ай сайынғы VPN деректері
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Осы айда { $maxUsage } ГБ ішінен { $usageLeft } ГБ қалды
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $maxUsage } ГБ ішінен { $usageLeft } ГБ қалды
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Осы айда { $maxUsage } ГБ ішінен { $usageLeft } МБ қалды
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $maxUsage } ГБ ішінен { $usageLeft } МБ қалды
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Сіз VPN деректеріңіздің барлық { $maxUsage } ГБ көлемін пайдаландыңыз. Кіру мүмкіндігі келесі айда қалпына келтіріледі.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Әр айдың бірінші күнінде { $maxUsage } ГБ қалпына келтіріледі.
 
 ## IP Protection bandwidth reset callout
 
