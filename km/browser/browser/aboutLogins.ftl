@@ -4,6 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ការចូល និង​ពាក្យ​សម្ងាត់
+about-logins-login-filter =
+    .placeholder = ស្វែងរក​ការចូល
+    .key = F
+create-new-login-button =
+    .title = បង្កើតការចូលថ្មី
 about-logins-page-title-name = ពាក្យ​សម្ងាត់
 about-logins-login-filter2 =
     .placeholder = ស្វែងរកពាក្យសម្ងាត់
@@ -24,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = នាំចូលព�
 about-logins-menu-menuitem-import-from-a-file = នាំចូល​ពី​ឯកសារ…
 about-logins-menu-menuitem-export-logins = នាំចេញចូល...
 about-logins-menu-menuitem-remove-all-logins = ដក​ការចូល​ទាំងអស់ចេញ...
+about-logins-menu-menuitem-export-logins2 = នាំចេញពាក្យសម្ងាត់…
 about-logins-menu-menuitem-remove-all-logins2 = លុបពាក្យសម្ងាត់ទាំងអស់...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -41,6 +47,14 @@ login-list =
 login-list-count =
     { $count ->
        *[other] ការចូល​ចំនួន { $count }
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] ការចូល { $count } នៃការចូល { $total }
+       *[other] ការចូល { $count } នៃការចូល { $total } ច្រើន
     }
 # Variables
 #   $count (number) - Number of logins
@@ -89,6 +103,7 @@ about-logins-login-intro-heading-logged-in = រកមិនឃើញការ�
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instructions-fxa = បង្កើត ឬ​ចូល​ { -fxaccount-brand-name } របស់អ្នក​នៅលើ​ឧបករណ៍​ដែល​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក។
 about-logins-login-intro-heading-message = រក្សាទុកពាក្យសម្ងាត់របស់អ្នកទៅកាន់កន្លែងសុវត្ថិភាព
+login-intro-description2 = ពាក្យសម្ងាត់ទាំងអស់ដែលអ្នករក្សាទុកទៅក្នុង { -brand-product-name } ត្រូវបានអ៊ិនគ្រីប។ លើសពីនេះ យើងឃ្លាំមើលការបំពាន ហើយជូនដំណឹងដល់អ្នក ប្រសិនបើអ្នករងផលប៉ះពាល់។ <a data-l10n-name="breach-alert-link">ស្វែងយល់បន្ថែម</a>
 login-intro-instructions-fxa-settings = ចូលទៅ​កាន់ ការកំណត់ > ធ្វើសមកាលកម្ម > បើក​ការធ្វើសមកាលកម្ម... ជ្រើសរើស​ប្រអប់​ការចូល និង​ពាក្យសម្ងាត់។
 login-intro-instructions-fxa-passwords-help = ចូលមើល​<a data-l10n-name="passwords-help-link">ជំនួយ​ពាក្យសម្ងាត់</a>​សម្រាប់​ជំនួយ​បន្ថែម។
 about-logins-intro-browser-only-import = ប្រសិនបើ​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក​នៅក្នុង​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ផ្សេង អ្នក​អាច <a data-l10n-name="import-link">នាំចូល​វា​ក្នុង { -brand-product-name }</a>

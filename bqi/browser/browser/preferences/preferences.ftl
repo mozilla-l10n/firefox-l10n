@@ -55,6 +55,7 @@ category-experimental =
     .tooltiptext = آزمایشا { -brand-short-name }
 pane-experimental-subtitle = وا پاییڌن وا پؽش ریوین
 pane-experimental-search-results-header = آزمایشا { -brand-short-name }: خوتووݩ ن بپایین اوسو ریوین وا پؽش
+pane-experimental-description2 = آلشت سامووا پؽش رئڌه تره ری کارایی وو ٱمنیت { -brand-short-name } ٱسر داشته بۊ.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
