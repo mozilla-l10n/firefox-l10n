@@ -24,6 +24,13 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Енді браузеріңіздің ішінде қолжетімді болатын VPN ұсынамыз
+ipprotection-feature-introduction-button-primary = Келесі
+ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
+ipprotection-feature-introduction-button-secondary-no-thanks = Жоқ, рахмет
+
+## Site settings callout
+
+ipprotection-site-settings-callout-button = Түсіндім
 
 ## Panel
 

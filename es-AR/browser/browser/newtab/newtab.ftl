@@ -703,6 +703,8 @@ newtab-widget-timer-menu-notifications = Desactivar notificaciones
 newtab-widget-timer-menu-notifications-on = Activar notificaciones
 newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-menu-learn-more = Conocer más
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Noticias principales
 newtab-daily-briefing-card-menu-dismiss = Descartar
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed

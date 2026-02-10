@@ -229,6 +229,7 @@ sidebar-genai-survey-productive-question =
     “侧栏中的 AI 聊天机器人让我的浏览更高效”？
 splitview-onboarding-callout-subtitle-1 = 右键点击此标签页并选择“添加分屏”，即可同时查看两个标签页。
 splitview-onboarding-callout-cta-1 = 现在就试试
+splitview-onboarding-callout-title-2 = 通过分屏，同时查看两个标签页
 unified-search-callout-title = 切换搜索引擎
 unified-search-callout-subtitle = 针对具体搜索内容，选择最合用的搜索引擎。
 unified-search-callout-primary-label = 下一步

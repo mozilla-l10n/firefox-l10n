@@ -2224,7 +2224,7 @@ choose-download-folder-title = 选择下载文件夹：
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = { -brand-short-name } 始终尊重您的选择权，包括选择是否使用 AI 增强的功能。更多控制即将提供。
+preferences-ai-controls-description = { -brand-short-name } 始终尊重您的选择权，包括选择是否使用 AI 增强功能。更多控制即将提供。
 preferences-ai-controls-block-ai-label = 阻止 AI 增强功能
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }

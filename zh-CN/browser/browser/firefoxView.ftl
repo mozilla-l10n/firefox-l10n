@@ -137,6 +137,8 @@ firefoxview-synced-tabs-header = 其他设备
 firefoxview-chats-nav = 聊天
     .title = 聊天
 firefoxview-chats-header = 聊天
+firefoxview-chat-context-delete = 从聊天中删除
+    .accesskey = D
 
 ##
 
@@ -170,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = 搜索打开的标签页
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = 搜索聊天
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
