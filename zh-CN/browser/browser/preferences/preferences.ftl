@@ -2233,7 +2233,7 @@ preferences-ai-controls-blocked-message =
     .message = 默认将阻止新的和当前的 AI 增强功能。若要取消阻止特定功能，请使用下面的控制项。
 preferences-ai-controls-on-device-group =
     .label = 端侧 AI
-    .description = 在使用以下功能时，其会调用下载到您设备上的小型 AI 模型。这种做法可以保护您的隐私
+    .description = 在使用以下功能时，其会调用下载到您设备上的小型 AI 模型。这种做法有助于保护您的隐私。
 preferences-ai-controls-translations-control =
     .label = 翻译
     .description = 以熟悉的语言轻松浏览网页。
@@ -2254,17 +2254,17 @@ preferences-ai-controls-sidebar-chatbot-control =
     .label = 侧栏中的聊天机器人
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
-    .label = 可用
+    .label = 提供
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
-    .label = 已启用
+    .label = 启用
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
-    .label = 已阻止
+    .label = 阻止
 preferences-ai-controls-state-description-before = 选项含义：
-preferences-ai-controls-state-description-available = <strong>可用：</strong>功能将出现且可使用。
-preferences-ai-controls-state-description-enabled = <strong>已启用：</strong>已选择使用此功能。
-preferences-ai-controls-state-description-blocked = <strong>已阻止：</strong>功能将不会出现，也无法使用。对于端侧 AI，所有已下载的模型都已移除。
+preferences-ai-controls-state-description-available = <strong>提供：</strong>功能将出现且可使用。
+preferences-ai-controls-state-description-enabled = <strong>启用：</strong>已选择使用此功能。
+preferences-ai-controls-state-description-blocked = <strong>阻止：</strong>功能将不会出现，也无法使用。对于端侧 AI，所有已下载的模型都已移除。
 preferences-ai-controls-block-confirmation-heading = 确定要阻止 AI 增强功能吗？
 preferences-ai-controls-block-confirmation-description = { -brand-short-name } 将不再显示新的及现有的 AI 增强功能，也不会再弹出相关提醒。您以后可取消阻止希望继续使用的功能。
 preferences-ai-controls-block-confirmation-features-start = 将会阻止：

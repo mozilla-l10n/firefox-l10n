@@ -43,6 +43,20 @@ site-exclusion-toggle-disabled =
 ipprotection-settings-link =
     .label = Баптаулар
 
+## VPN paused state
+
+upgrade-vpn-button = { -mozilla-vpn-brand-name } қолданып көру
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = VPN-ге қосылу мүмкін болмады
+ipprotection-connection-status-generic-error-description = Бірнеше минуттан кейін қайталап көріңіз.
+ipprotection-connection-status-network-error-title = Интернетпен байланысын тексеріңіз
+
+## IP Protection Settings
+
+ip-protection-learn-more = Көбірек білу
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Түсіндім
