@@ -569,3 +569,8 @@ onboarding-personalization-motivation-title = { -brand-short-name } браузе
 onboarding-personalization-motivation-privacy-option = Жекелік және қауіпсіздік
 onboarding-personalization-motivation-productivity-option = Өнімділік
 onboarding-personalization-motivation-other-option = Басқа
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолдайды

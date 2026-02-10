@@ -570,3 +570,7 @@ onboarding-personalization-motivation-title = ¿Qué características de { -bran
 onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
 onboarding-personalization-motivation-productivity-option = Productividad
 onboarding-personalization-motivation-other-option = Otras
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Protegemos tus datos y bloqueamos a las empresas que espían tus clics — automáticamente.

@@ -1291,7 +1291,7 @@ filepicker-blocked-infobar = Сіздің ұйымыңыз бұл компьют
 
 data-reporting-notification-message = { -brand-short-name } автоматты түрде { -vendor-short-name } адресіне өнімді жақсартуға көмектесетін ақпаратты жібереді.
 data-reporting-notification-button =
-    .label = Мен немен бөлісе алатынымды көрсету
+    .label = Мен нені бөлісе алатынымды көрсету
     .accesskey = М
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Жекелік шолу
