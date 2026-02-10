@@ -570,3 +570,20 @@ onboarding-personalization-motivation-title = Quelles fonctionnalités de { -bra
 onboarding-personalization-motivation-privacy-option = Sécurité et vie privée
 onboarding-personalization-motivation-productivity-option = Productivité
 onboarding-personalization-motivation-other-option = Autre
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Nous protégeons vos données et empêchons les entreprises d’espionner vos clics, automatiquement.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Vous êtes entre de bonnes pattes
+onboarding-refresh-import-subtitle = Importez vos mots de passe, vos marque-pages, votre historique et bien plus.
+onboarding-refresh-import-title = Faites que { -brand-short-name } vous sentez plus comme chez vous
+onboarding-refresh-onboarding-addons-subtitle = Les extensions sont de minuscules applications qui vous permettent de personnaliser { -brand-short-name }. Ils peuvent protéger votre vie privée, améliorer votre productivité, changer l’apparence de { -brand-short-name } et bien plus encore.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Boostez votre navigation
+onboarding-refresh-sync-subtitle = Accédez à vos marque-pages, mots de passe et bien d’autres éléments partout où vous êtes connecté à { -brand-short-name }. De plus, vos données sont chiffrées, vous seul pouvez donc les consulter.
+onboarding-refresh-sync-title = Partez où vous voulez. Synchronisez toutes vos données.
+onboarding-refresh-gratitude-subtitle = Merci d’utiliser { -brand-short-name }, le seul navigateur d’envergure soutenu par une organisation à but non lucratif. Avec votre soutien, nous nous efforçons de rendre Internet plus sûr et plus accessible à tous.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } est toujours de votre côté
