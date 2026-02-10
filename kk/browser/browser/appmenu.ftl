@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
 appmenuitem-services-relay-description = Эл. пошта маскаларын бақылау тақтасын іске қосу
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Құрылғыны толығымен қорғауды алыңыз
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
 appmenu-services-header = Менің қызметтерім
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

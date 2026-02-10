@@ -434,6 +434,8 @@ support-get-help =
 
 performance-title = عملکرد
 performance-settings-learn-more = قلوه دووسته بۊین
+performance-limit-content-process-option = مئدۊدیت پروسه موئتوا
+    .accesskey = l
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -449,6 +451,8 @@ browsing-group-label =
 browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
 browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
+browsing-group =
+    .label = گشتن
 
 ## General Section - Proxy
 
@@ -487,6 +491,9 @@ home-mode-choice-blank =
     .label = بلگه پتی
 home-homepage-custom-url =
     .placeholder = جا وندن ی نشۊوی…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = دؽوۉداری وردنی
 choose-bookmark =
     .label = و کار گرؽڌن نشووک…
     .accesskey = B
@@ -564,8 +571,19 @@ home-prefs-choose-wallpaper-link2 =
 ## Search Section
 
 search-bar-header = نوار پیتینیڌن
+search-bar-shown =
+    .label = ٱووردن نوار پیتینیڌن و نوار ٱوزار
 search-engine-default-header = موتور پیتینیڌن پؽش فرز
+search-suggestions-header = پؽشنهاڌا پیتینیڌن
+search-suggestions-option =
+    .label = جۊر کون پؽشنهاڌا پیتینیڌن
+    .accesskey = s
+search-show-suggestions-option =
+    .label = نشووݩ داڌن پؽشنهاڌا پیتینیڌن
+    .accesskey = S
 search-one-click-header2 = پیتینیڌن ره نهنگا
+search-choose-engine-column =
+    .label = موتور پیتینیڌن
 search-remove-engine =
     .label = پاک کردن
     .accesskey = R
@@ -576,6 +594,7 @@ search-edit-engine =
     .label = آلشت
     .accesskey = E
 search-find-more-link = جوستن موتورا پیتینیڌن قلوه
+remove-engine-remove = پاک کردن
 search-engine-group =
     .label = موتور پیتینیڌن پؽش فرز
 search-default-engine =
@@ -604,6 +623,8 @@ sync-signedout-account-signin3 =
 
 ## Firefox account - Signed in
 
+sync-profile-picture-account-problem =
+    .alt = شؽوات پوروفایل هساو منتوری
 fxa-login-rejected-warning =
     .alt = بپا
 sync-sign-out =
@@ -622,6 +643,12 @@ sync-manage-account2 =
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
 
+sync-signedin-unverified = { $email } تاییڌ نوابیڌه.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -630,6 +657,9 @@ sync-account-signed-in-display-name =
 
 ##
 
+sync-verify-account =
+    .label = تاییڌ هساو
+    .accesskey = V
 sync-remove-account =
     .label = پاک کردن هساو
     .accesskey = R
