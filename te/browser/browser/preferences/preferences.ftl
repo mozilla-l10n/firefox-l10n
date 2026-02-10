@@ -66,17 +66,6 @@ should-restart-ok = ఇప్పుడు { -brand-short-name } ను పున
 cancel-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = వెతుకుడు ఫలితాలు
@@ -347,9 +336,6 @@ update-in-progress-ok-button = విస్మరించు (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = కొనసాగించు (&C)
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = పనితనం
@@ -449,12 +435,6 @@ use-current-pages =
 choose-bookmark =
     .label = ఇష్టాంశాన్ని వాడు…
     .accesskey = B
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -565,9 +545,6 @@ containers-settings-button =
 containers-remove-button =
     .label = తొలగించు
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -601,11 +578,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -774,9 +746,6 @@ forms-windows-sso-learn-more-link = ఇంకా తెలుసుకోండ�
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = చరిత్ర
@@ -877,9 +846,6 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = కుకీలు, సైటు డేటా
-
-## Privacy Section - Cookie Banner Handling
-
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1050,9 +1016,6 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1108,6 +1071,3 @@ preferences-doh-status = స్థితి: { $status }
 desktop-folder-name = డెస్కుటాప్
 downloads-folder-name = దింపుకోళ్ళు
 choose-download-folder-title = దింపుకోళ్ళ సంచయాన్ని తెరువు:
-
-## AI controls page
-

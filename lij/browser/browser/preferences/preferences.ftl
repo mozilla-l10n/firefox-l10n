@@ -286,9 +286,6 @@ update-application-use-service =
     .label = Deuvia 'n serviçio ascozo pe instalâ i agiornamenti
     .accesskey = v
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Prestaçioin
@@ -393,12 +390,6 @@ choose-bookmark =
     .label = Adeuvia o segnalibbro…
     .accesskey = s
 
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -496,9 +487,6 @@ containers-add-button =
 containers-remove-button =
     .label = Scancella
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -533,11 +521,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } no l'é verificou.
 sync-signedin-login-failure = Acedi pe ativâ torna a conescion { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -549,12 +532,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Intra
     .accesskey = t
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -646,12 +623,6 @@ forms-master-pw-change =
     .label = Cangia a paròlla segreta prinçipâ…
     .accesskey = C
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -749,12 +720,6 @@ sitedata-settings =
     .accesskey = G
 cookies-site-data-group =
     .label = Cookie e Dæti di Sciti
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -889,9 +854,6 @@ addon-recommendations-link = Atre informaçioin
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -926,17 +888,8 @@ certs-devices =
     .accesskey = S
 certs-devices-enable-fips = Abilita FIPS
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Descaregamenti
 choose-download-folder-title = Çerni a cartella de descaregamento:
-
-## AI controls page
-

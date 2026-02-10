@@ -745,9 +745,6 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 home-custom-homepage-address =

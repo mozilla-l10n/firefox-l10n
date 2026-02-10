@@ -210,11 +210,6 @@ applications-action-column =
     .label = Action
     .accesskey = A
 
-## The strings in this group are used to populate
-## selected label element based on the string from
-## the selected menu item.
-
-
 ##
 
 drm-group =
@@ -245,9 +240,6 @@ update-application-manual =
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
-
-## Firefox support
-
 
 ## General Section - Performance
 
@@ -349,21 +341,6 @@ choose-bookmark =
     .label = ཡིག་རྟགས་བེད་སྤྱོད…
     .accesskey = B
 
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
-## Home Section - Firefox Home Content Customization
-
-
-## Home Section - Firefox Home Content Customization
-
-
-##
-
-
 ## Search Section
 
 search-bar-header = འཚོལ་བཤེར་ངོས
@@ -423,9 +400,6 @@ containers-add-button =
 containers-remove-button =
     .label = Remove
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -460,11 +434,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -476,12 +445,6 @@ sync-remove-account =
 sync-sign-in =
     .label = Sign in
     .accesskey = g
-
-## Sync section - enabling or disabling sync.
-
-
-## The list of things currently syncing.
-
 
 ## The "Choose what to sync" dialog.
 
@@ -531,10 +494,6 @@ sync-device-name-save =
     .label = Save
     .accesskey = v
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
 ## Privacy Section
 
 privacy-header = Browser Privacy
@@ -563,12 +522,6 @@ forms-saved-logins =
 forms-master-pw-change =
     .label = གསང་གྲངས་ཨ་མ་བརྗེ་བ…
     .accesskey = M
-
-## OS Authentication dialog
-
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -669,12 +622,6 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = Cookies and Site Data
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -792,9 +739,6 @@ addon-recommendations-link = Learn more
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -828,17 +772,8 @@ certs-devices =
     .label = Security Devices…
     .accesskey = D
 
-## Privacy Section - HTTPS-Only
-
-
-## DoH Section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
-
-## AI controls page
-

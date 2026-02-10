@@ -731,9 +731,6 @@ choose-bookmark =
     .accesskey = l
 home-homepage-header = Pagina iniziala
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagina iniziala persunalisada
@@ -1008,11 +1005,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1967,6 +1959,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
-
-## AI controls page
-

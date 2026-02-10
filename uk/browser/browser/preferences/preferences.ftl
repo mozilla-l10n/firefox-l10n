@@ -1031,11 +1031,6 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
 
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
-
 ##
 
 sync-resend-verification =
@@ -2029,6 +2024,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
-
-## AI controls page
-

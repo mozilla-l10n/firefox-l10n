@@ -337,9 +337,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendimiento
@@ -446,12 +443,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -565,9 +556,6 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Borrar
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -607,11 +595,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no ye verificau.
 sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -794,9 +777,6 @@ primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escrib
 primary-password-os-auth-dialog-message-macosx = Crear una clau primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Historial
@@ -902,12 +882,6 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies y datos de puestos web
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1075,9 +1049,6 @@ addon-recommendations-link = Saber-ne mas
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1124,14 +1095,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = No activar lo modo Nomás-HTTPS
 
-## DoH Section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Trigar a carpeta de descargas:
-
-## AI controls page
-

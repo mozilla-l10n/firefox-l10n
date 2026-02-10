@@ -63,20 +63,6 @@ close-button =
 should-restart-title = ره وندن دووارته { -brand-short-name }
 cancel-no-restart-button = لقو
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
-## Preferences UI Search Results
-
-
 ## General Section
 
 preferences-profiles-group-header =
@@ -97,13 +83,6 @@ browser-containers-settings =
     .accesskey = i
 startup-group =
     .label = ره وندن
-
-## Variables:
-##   $tabCount (number) - Number of tabs
-
-
-##
-
 
 ## General Section - Language & Appearance
 
@@ -494,11 +473,6 @@ sync-manage-account2 =
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
 
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 sync-account-signed-in =
     .label = { $email }
 sync-account-signed-in-display-name =
@@ -570,13 +544,6 @@ sync-device-name-save =
 sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
-
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
 
 ## Privacy Section - Logins and Passwords
 
@@ -683,9 +650,6 @@ sitedata-option-block-cross-site-cookies2 =
 sitedata-option-block-all =
     .label = پوی کۊکیا (وبگه یل ن خراو اکونه)
 
-## Privacy Section - Cookie Banner Handling
-
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = قلوه دووسته بۊین
@@ -768,9 +732,6 @@ content-blocking-cookies-label =
 content-blocking-expand-section =
     .tooltiptext = دووسمندیا قلوه
 
-## Privacy Section - Tracking
-
-
 ## Privacy Section - Permissions
 
 permissions-header = موجوزا
@@ -830,9 +791,6 @@ collection-health-report-telemetry-disabled-link = قلوه دووسته بۊی�
 collection-health-report-link = قلوه دووسته بۊین
 collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز تیجنیڌن سی پوی امتهووݩ کۊنین.
 addon-recommendations-link = قلوه دووسته بۊین
-
-## Privacy Section - Website Advertising Preferences
-
 
 ## Privacy Section - Security
 ##

@@ -432,9 +432,6 @@ update-in-progress-ok-button = &Tich'aqïx
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rub'eyal nisamäj
@@ -550,12 +547,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -737,11 +728,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } man jikib'an ta.
 sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -940,9 +926,6 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -1268,9 +1251,6 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1365,6 +1345,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Kematz'ib'ab'äl
 downloads-folder-name = Taq qasanïk
 choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
-
-## AI controls page
-
