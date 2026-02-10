@@ -727,6 +727,7 @@ urlbar-result-action-search-in-private = Keresés egy privát ablakban
 urlbar-result-action-search-w-engine = { $engine } keresés
 urlbar-result-action-sponsored = Szponzorált
 urlbar-result-action-switch-tab = Váltás erre a lapra
+urlbar-result-action-move-tab-to-split-view = Lap áthelyezése osztott nézetbe
 urlbar-result-action-visit = Keresse fel:
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

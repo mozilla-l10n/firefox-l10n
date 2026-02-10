@@ -32,3 +32,8 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
 
 ipprotection-site-settings-callout-title = Velg hvor du bruker VPN
 ipprotection-site-settings-callout-button = Jeg forstår
+
+## Panel
+
+unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
+unauthenticated-get-started = Kom i gang

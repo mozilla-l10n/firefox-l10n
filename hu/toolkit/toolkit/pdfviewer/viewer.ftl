@@ -640,6 +640,30 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-views-manager-pages-status-cut-button-label = Kivágás
+pdfjs-views-manager-pages-status-delete-button-label = Törlés
+pdfjs-views-manager-pages-status-save-as-button-label = Mentés másként…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 oldal kivágva
+       *[other] { $count } oldal kivágva
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 oldal másolva
+       *[other] { $count } oldal másolva
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 oldal törölve
+       *[other] { $count } oldal törölve
+    }
 pdfjs-views-manager-pages-status-waiting-ready-label = A fájl előkészítése…
 pdfjs-views-manager-pages-status-waiting-uploading-label = Fájl feltöltése…
 pdfjs-views-manager-status-warning-cut-label = Nem sikerült kivágni. Frissítse az oldalt, és próbálja újra.

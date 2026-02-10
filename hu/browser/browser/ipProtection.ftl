@@ -91,6 +91,7 @@ ipprotection-message-bandwidth-warning =
     .heading = Közeledik a VPN adatkorlátja
     .message = Még { $usageLeft } / { $maxUsage } GB maradt ebben a hónapban.
 ipprotection-message-continuous-onboarding-intro = Kapcsolja be a VPN-t, hogy elrejtse a tartózkodási helyét, és további titkosítást adjon a böngészéséhez.
+ipprotection-message-continuous-onboarding-site-settings = A { -brand-short-name } megjegyzi, hogy mely webhelyeken állította be, hogy VPN-t használjanak. Ezeket bármikor frissítheti a <a data-l10n-name="setting-link">beállításokban</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN ki van kapcsolva ezen a webhelyen
 
 ## IP Protection bandwidth callouts
@@ -144,6 +145,7 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Webhely beállításainak kezelése
+ip-protection-exclusions-desc = VPN használata az összes webhelyhez, kivéve az ezen a listán szereplőket. Adjon hozzá egy weboldalt itt, vagy a VPN megnyitásával.
 
 ## IP Protection Bandwidth
 

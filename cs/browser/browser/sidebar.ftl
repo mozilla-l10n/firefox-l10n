@@ -75,7 +75,7 @@ sidebar-show-on-the-left =
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
-    .label = Rozbalit postranní panel při najetí myší
+    .label = Rozbalit postranní lištu při najetí myší
 sidebar-manage-extensions = Správa rozšíření
 
 ## Labels for sidebar context menu items

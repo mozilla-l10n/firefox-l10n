@@ -264,7 +264,7 @@ sidebar-customization-callout-2-title =
         [with-cases] Přizpůsobte si postranní lištu { -brand-product-name(case: "gen") }
        *[no-cases] Přizpůsobte si postranní lištu aplikace { -brand-product-name }
     }
-sidebar-customization-callout-2-subtitle = Přidejte nebo odeberte nástroje. Umístěte panely na postranní panel. Vyzkoušejte chatbota s umělou inteligencí. Záleží jen na vás, jak si přizpůsobíte postranní panel.
+sidebar-customization-callout-2-subtitle = Přidejte nebo odeberte nástroje. Umístěte své panely na postranní lištu. Vyzkoušejte chatbota s umělou inteligencí. Záleží jen na vás, jak si přizpůsobíte postranní lištu.
 
 ## Sidebar Callout Survey Strings
 
@@ -287,8 +287,8 @@ sidebar-callout-survey-very-dissatisfied-2 = Velmi nespokojený
 sidebar-callout-survey-dont-use-it = Nepoužívám
 sidebar-callout-survey-productive-question =
     { -brand-short-name.case-status ->
-        [with-cases] Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>"Postranní panel { -brand-short-name(case: "gen") } mi pomáhá být produktivnější"?
-       *[no-cases] Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>"Postranní panel aplikace { -brand-short-name } mi pomáhá být produktivnější"?
+        [with-cases] Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>„Postranní lišta { -brand-short-name(case: "gen") } mi pomáhá být produktivnější“?
+       *[no-cases] Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>„Postranní lišta aplikace { -brand-short-name } mi pomáhá být produktivnější“?
     }
 sidebar-callout-survey-strongly-agree = Rozhodně souhlasím
 sidebar-callout-survey-agree = Souhlasím

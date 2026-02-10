@@ -559,7 +559,7 @@ onboarding-many-tabs-subtitle = Máte otevřeno mnoho panelů? Vyzkoušejte pane
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Vyberte si rozložení panelů
 # Setup screen for vertical tabs - subtitle for focused variation
-onboarding-focused-tabs-subtitle = Chcete-li mít přehlednější zobrazení, které vám pomůže udržet pozornost, zkuste vertikální panely. Nebo si zachovejte klasický vzhled s panely nahoře. Přepnout můžete kdykoliv.
+onboarding-focused-tabs-subtitle = Chcete-li mít přehlednější zobrazení, které vám pomůže udržet pozornost, vyzkoušejte svislé panely. Nebo zůstaňte u klasického zobrazení s panely nahoře. Přepnout mezi nimi můžete kdykoliv.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Panely na straně
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.

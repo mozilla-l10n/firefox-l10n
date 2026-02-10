@@ -49,7 +49,7 @@ policy-DisableBuiltinPDFViewer =
 policy-DisableDefaultBrowserAgent = Zabraňuje agentovi Default Browser Agent provádět jakékoliv akce. Platí pouze pro Windows; ostatní platformy tohoto agenta nemají.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableEncryptedClientHello = Zakáže použití funkce TLS Encrypted Client Hello (ECH).
-policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
+policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit podvodnou stránku).
 policy-DisableFirefoxAccounts = Vypnutí služeb používajících { -fxaccount-brand-name(case: "acc", capitalization: "lower") }, včetně Syncu.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Zakáže služby vyžadující účty, včetně synchronizace.

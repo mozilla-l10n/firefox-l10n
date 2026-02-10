@@ -228,8 +228,10 @@ sidebar-genai-survey-productive-question =
     Mennyire ért egyet vagy nem ért egyet ezzel az állítással:<br/>
     „Az oldalsávban lévő MI csevegőbot segít abban, hogy hatékonyabb legyek”?
 splitview-onboarding-callout-title-1 = Osztott nézet: a párhuzamos munkavégzés jobb módja
+splitview-onboarding-callout-subtitle-1 = Kattintson jobb gombbal erre a lapra, és válassza a „Hozzáadás osztott nézethez” lehetőséget, hogy egyszerre két lapot lásson.
 splitview-onboarding-callout-cta-1 = Próbálja ki most
 splitview-onboarding-callout-title-2 = Két lap megtekintése egyszerre osztott nézetben
+splitview-onboarding-callout-subtitle-2 = Nincsenek további ablakok. Nincs lapváltás. Kattintson jobb gombbal erre a lapra, és válassza az „Hozzáadás osztott nézethez” lehetőséget.
 splitview-onboarding-callout-cta-2 = Osztott nézet kipróbálása
 unified-search-callout-title = Váltás a keresőszolgáltatások között
 unified-search-callout-subtitle = Válassza ki az adott kereséshez legmegfelelőbbet.

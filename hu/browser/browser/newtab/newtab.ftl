@@ -704,6 +704,8 @@ newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-hide = Időzítő elrejtése
 newtab-widget-timer-menu-learn-more = További tudnivalók
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Legfontosabb szalagcímek
 newtab-daily-briefing-card-menu-dismiss = Eltüntetés
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed

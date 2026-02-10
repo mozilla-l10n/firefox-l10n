@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safeb-blocked-phishing-page-title = Klamavá stránka
+safeb-blocked-phishing-page-title = Podvodná stránka
 safeb-blocked-malware-page-title = Návštěva této stránky může poškodit váš počítač
 safeb-blocked-unwanted-page-title = Tato stránka může obsahovat škodlivé programy
 safeb-blocked-harmful-page-title = Tato stránka může obsahovat malware
@@ -49,16 +49,16 @@ safeb-palm-see-details-label = Podrobnosti
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-phishing-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako klamavá</a>. Můžete <a data-l10n-name='report_detection'>nahlásit chybu v detekci</a> nebo se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
-safeb-blocked-phishing-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako klamavá</a>. Můžete <a data-l10n-name='report_detection'>nahlásit chybu v detekci</a>.
+safeb-blocked-phishing-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako podvodná</a>. Můžete <a data-l10n-name='report_detection'>nahlásit chybu v detekci</a> nebo se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
+safeb-blocked-phishing-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako podvodná</a>. Můžete <a data-l10n-name='report_detection'>nahlásit chybu v detekci</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-learn-more =
     { -brand-short-name.case-status ->
-        [with-cases] Zjistěte více o klamavých stránkách a phishingu na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Zjistěte více ochraně proti phishingu a malwaru ve { -brand-short-name(case: "loc") } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-       *[no-cases] Zjistěte více o klamavých stránkách a phishingu na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Zjistěte více ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+        [with-cases] Zjistěte více o podvodných stránkách a phishingu na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Zjistěte více ochraně proti phishingu a malwaru ve { -brand-short-name(case: "loc") } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+       *[no-cases] Zjistěte více o podvodných stránkách a phishingu na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Zjistěte více ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
     }
 
 ## Variables
@@ -106,7 +106,7 @@ safeb-blocked-harmful-page-learn-more =
        *[no-cases] Zjistěte více o ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
     }
 safeb-palm-notdeceptive =
-    .label = Tato stránka není klamavá…
+    .label = Tato stránka není podvodná…
     .accesskey = l
 
 ## Variables:
@@ -114,7 +114,7 @@ safeb-palm-notdeceptive =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-addon-page-error-desc-override = <strong>Proč byla tato stránka zablokována?</strong>
-safeb-blocked-addon-page-error-desc2-override = Stránka <strong>{ $sitename }</strong> může být spojena s klamavou či škodlivou aktivitou.
+safeb-blocked-addon-page-error-desc2-override = Stránka <strong>{ $sitename }</strong> může být spojena s podvodnou či škodlivou aktivitou.
 safeb-blocked-addon-page-error-desc3-override = <strong>Co s tím můžete dělat?</strong>
 safeb-blocked-addon-page-error-desc4-override = Aby se to už neopakovalo, můžete odstranit nebo zakázat doplněk <strong>{ $addonName }</strong> v about:addons.
 safeb-blocked-addon-page-learn-more =

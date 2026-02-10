@@ -201,11 +201,11 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete serveru {
 
 ##
 
-webrtc-share-screen-warning = Obrazovku sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+webrtc-share-screen-warning = Obrazovku sdílejte pouze se servery, kterým věříte. Sdílení může umožnit podvodným stránkám sledovat vaše procházení stránek a ukrást vaše osobní data.
 webrtc-share-browser-warning =
     { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
-       *[no-cases] Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
+        [with-cases] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit podvodným stránkám sledovat vaše procházení stránek a ukrást vaše osobní data.
+       *[no-cases] Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit podvodným stránkám sledovat vaše procházení stránek a ukrást vaše osobní data.
     }
 webrtc-share-screen-learn-more = Zjistit více
 webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku

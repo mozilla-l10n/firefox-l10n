@@ -570,3 +570,17 @@ onboarding-personalization-motivation-title = Kotre funkcije { -brand-short-name
 onboarding-personalization-motivation-privacy-option = Priwatnosć a wěstota
 onboarding-personalization-motivation-productivity-option = Produktiwita
 onboarding-personalization-motivation-other-option = Druhe
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Škitamy waše daty a haćimy předewzaća při wuskušowanju, hdyž klikaće – awtomatisce.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Sće we wěstych rukach
+onboarding-refresh-import-subtitle = Přenošujće swoje hesła, zapołožki, historiju a wjace.
+onboarding-refresh-import-title = Dajće { -brand-short-name } so wjace doma čuć
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Dajće swojemu přehladowanju stork
+onboarding-refresh-sync-title = Dźiće wšudźe. Synchronizujće wšitko.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji

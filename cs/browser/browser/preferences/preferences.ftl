@@ -2360,10 +2360,10 @@ website-advertising-private-attribution-description = Pomůžete tím webům poc
 
 security-header = Zabezpečení
 browsing-protection-group =
-    .label = Ochrana před klamavým obsahem a nebezpečným softwarem
-security-browsing-protection = Ochrana před klamavým obsahem a nebezpečným softwarem
+    .label = Ochrana před podvodným obsahem a nebezpečným softwarem
+security-browsing-protection = Ochrana před podvodným obsahem a nebezpečným softwarem
 security-enable-safe-browsing =
-    .label = Blokovat nebezpečný a klamavý obsah
+    .label = Blokovat nebezpečný a podvodný obsah
     .accesskey = B
 security-enable-safe-browsing-link = Zjistit více
 security-block-downloads =
