@@ -32,6 +32,17 @@ should-restart-title = Qalisa kwakhona { -brand-short-name }
 should-restart-ok = Phinda uqale i{ -brand-short-name } ngoku
 restart-later = Qalisa ngokutsha Kamva
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = IZiphumo zoKhangelo
@@ -101,6 +112,12 @@ containers-remove-cancel-button = Musa ukuyisusa le Khonteyina
 
 ## General Section - Language & Appearance
 
+default-font-2 =
+    .label = Ifonti esisiseko
+    .accesskey = I
+default-font-size-2 =
+    .label = Isayizi
+    .accesskey = I
 default-font = Ifonti esisiseko
     .accesskey = I
 default-font-size = Isayizi
@@ -225,6 +242,9 @@ update-application-use-service =
     .label = Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo
     .accesskey = y
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Ukusebenza
@@ -274,6 +294,12 @@ network-proxy-connection-settings =
     .label = Isetingi…
     .accesskey = e
 
+## Home Section
+
+
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -290,6 +316,21 @@ use-current-pages =
 choose-bookmark =
     .label = Sebenzisa iBhukhmakhi…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
 
 ## Search Section
 
@@ -331,6 +372,9 @@ containers-add-button =
     .label = Yongeza iKhonteyina eNtsha
     .accesskey = Y
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -360,11 +404,22 @@ sync-profile-picture-with-alt =
 sync-signedin-unverified = { $email } akuqinisekiswanga.
 sync-signedin-login-failure = Sicela ungene ukuze uphinde uqhagamshele { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-sign-in =
     .label = Sayina uNgene
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -408,6 +463,12 @@ sync-verification-sent-body = Ikhonkco lesiqinisekiso lithunyelwe kwi-{ $email }
 sync-verification-not-sent-title = Ayikwazi ukuThumela uQinisekiso
 sync-verification-not-sent-body = Asikwazi kuthumela imeyili yokuqinisekisa ngeli xesha, sicela uphinde uzame ngelinye ixesha.
 
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -423,6 +484,12 @@ forms-master-pw-change =
     .label = Guqula iPhaswedi eyiMasta…
     .accesskey = P
 forms-master-pw-fips-desc = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -480,6 +547,12 @@ history-group =
 
 sitedata-learn-more = Funda okungakumbi
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
@@ -489,6 +562,22 @@ addressbar-locbar-openpage-option =
     .label = Vula iithebhu
     .accesskey = V
 addressbar-suggestions-settings = Tshintsha iipreferensi zamacebiso enjini yokukhangela
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -506,6 +595,9 @@ collection-health-report-link = Funda okungakumbi
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
@@ -531,8 +623,17 @@ certs-enable-ocsp =
     .accesskey = B
 certs-devices-enable-fips = Nika isakhono kwi-FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Idesktophu
 downloads-folder-name = Okukhutshelweyo
 choose-download-folder-title = Khetha iFolda yokuKhutshelwayo:
+
+## AI controls page
+
