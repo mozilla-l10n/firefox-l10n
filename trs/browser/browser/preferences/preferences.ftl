@@ -138,6 +138,9 @@ containers-remove-cancel-button = Si dure' markador na
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Nânj a'mi' ni daj ga ma
+default-font-2 =
+    .label = Letra 'nga hua nia
+    .accesskey = L
 default-font-size-2 =
     .label = Dàj yachìj man
     .accesskey = D
