@@ -48,7 +48,7 @@ webext-perms-extra-warning-userScripts-short = Neověřené skripty mohou předs
 
 webext-perms-description-data-short-authenticationInfo = ověřovací informace
 webext-perms-description-data-short-bookmarksInfo = záložky
-webext-perms-description-data-short-browsingActivity = aktivita při procházení
+webext-perms-description-data-short-browsingActivity = aktivita při procházení stránek
 webext-perms-description-data-short-financialAndPaymentInfo = finanční a platební informace
 webext-perms-description-data-short-healthInfo = informace o zdraví
 webext-perms-description-data-short-locationInfo = umístění
