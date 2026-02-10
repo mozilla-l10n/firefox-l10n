@@ -569,3 +569,8 @@ onboarding-personalization-motivation-title = Kva funksjonar i { -brand-short-na
 onboarding-personalization-motivation-privacy-option = Personvern og sikkerheit
 onboarding-personalization-motivation-productivity-option = Produktivitet
 onboarding-personalization-motivation-other-option = Anna
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } passar på deg

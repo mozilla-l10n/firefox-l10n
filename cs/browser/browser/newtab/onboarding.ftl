@@ -648,10 +648,10 @@ multi-profile-spotlight-title =
         [with-cases] Pozdravte profily { -brand-product-name(case: "gen") }
        *[no-cases] Pozdravte profily aplikace { -brand-product-name }
     }
-multi-profile-spotlight-body = Snadno přepínejte mezi prohlížením pro práci a zábavu. Profily uchovávají informace o procházení, včetně historie vyhledávání a hesel, zcela odděleně, takže si můžete udržet pořádek.
+multi-profile-spotlight-body = Snadno přepínejte mezi prohlížením pro práci a pro zábavu. Profily uchovávají informace o procházení internetu, včetně historie vyhledávání a hesel, zcela odděleně, takže si můžete ve věcech udržet pořádek.
 multi-profile-spotlight-cta = Vytvořit profil
 multi-profile-callout-title = Vytvořte si různé profily pro práci a zábavu
-multi-profile-callout-subtitle = Profily umožňují uchovávat informace o procházení, jako je historie vyhledávání a hesla, zcela odděleně.
+multi-profile-callout-subtitle = Profily umožňují uchovávat informace o procházení internetu, jako je historie vyhledávání a hesla, zcela odděleně.
 multi-profile-callout-cta = Vytvořit profil
 
 ## Desktop to Mobile Adoption feature callout strings
