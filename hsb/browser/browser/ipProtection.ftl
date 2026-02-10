@@ -105,6 +105,9 @@ ipprotection-bandwidth-upgrade-text = Wubjerće stejnišćo VPN a přidajće wš
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Docpějeće swój limit VPN.</strong> Maće { $usageLeft } GB wyše. Waše daty so na spočatku přichodneho měsaca wróćo staja.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Sće swoje daty VPN nimale přetrjebał.</strong> Maće { $usageLeft } GB wyše. Hdyž je wšě přetrjebujeće, waš VPN wusadźi, doniž so waše daty prěnjeho přichodneho měsaca wróćo njestaja.
 
 ## IP Protection Settings
 
@@ -137,11 +140,15 @@ ip-protection-autostart-checkbox =
     .label = Hdyž { -brand-short-name } wočinjam
 ip-protection-autostart-private-checkbox =
     .label = W priwatnych woknach
+ip-protection-vpn-upgrade-link =
+    .label = Wobstarajće sej samo wjace škita zwonka { -brand-short-name } z { -mozilla-vpn-brand-name }
+    .description = wubjerće swójske stejnišća VPN a přidajće wšěm swojim nałoženjam na hač do pjeć gratow škit, wšojedne, hač sće doma abo w zjawnym WLAN.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Nastajenja websydłow rjadować
+ip-protection-exclusions-desc = Wužiwajće VPN za wšě websydła nimo za te, kotrež su w lisćinje. Přidajće websydło tu abo wočińće VPN.
 
 ## IP Protection Bandwidth
 
@@ -162,6 +169,12 @@ ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB z { $maxUsage } G
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-mb = { $usageLeft } MB z { $maxUsage } GB wyše
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Staja na { $maxUsage } GB prěnjeho kóždeho měsaca wróćo.
 
 ## IP Protection bandwidth reset callout
 

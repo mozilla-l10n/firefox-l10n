@@ -579,6 +579,7 @@ onboarding-refresh-pin-set-default-subtitle = Škitamy waše daty a haćimy pře
 onboarding-refresh-pin-set-default-title = Sće we wěstych rukach
 onboarding-refresh-import-subtitle = Přenošujće swoje hesła, zapołožki, historiju a wjace.
 onboarding-refresh-import-title = Dajće { -brand-short-name } so wjace doma čuć
+onboarding-refresh-onboarding-addons-subtitle = Rozšěrjenja su małe nałoženja, kotrež wam zmóžnjeja, { -brand-short-name } přiměrić. Móža wašu priwatnosć powyšić, produktiwitu polěpšić, napohlad { -brand-short-name } změnić a wjele wjace.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Dajće swojemu přehladowanju stork
 onboarding-refresh-sync-title = Dźiće wšudźe. Synchronizujće wšitko.
