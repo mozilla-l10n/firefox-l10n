@@ -2236,6 +2236,7 @@ preferences-ai-controls-description = Siempre hay una opción en { -brand-short-
 preferences-ai-controls-block-ai-label = Bloquear mejoras de IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = El bloqueo significa que no se verán mejoras de IA nuevas o actuales en { -brand-short-name }, ni ventanas emergentes sobre ellas. <a data-l10n-name="link">Ver más detalles</a> sobre lo que se incluye y cómo controlar las funciones tradicionales de machine learning, como sugerencias de búsqueda y recomendaciones.
 preferences-ai-controls-blocked-message =
     .message = Las mejoras de IA nuevas y actuales están bloqueadas de forma predeterminada. Para desbloquear una función específica, use los controles a continuación.
 preferences-ai-controls-on-device-group =
