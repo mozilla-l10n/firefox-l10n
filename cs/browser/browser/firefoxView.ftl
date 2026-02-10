@@ -282,7 +282,7 @@ firefoxview-choose-browser-button = Zvolte prohlížeč
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header-2 = Vy máte kontrolu nad tím, co si { -brand-short-name } pamatuje
-firefoxview-dont-remember-history-empty-description-one = Nyní si { -brand-short-name } nepamatuje vaši aktivitu při procházení. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">aktualizujte nastavení historie</a>.
+firefoxview-dont-remember-history-empty-description-one = Nyní si { -brand-short-name } nepamatuje vaši aktivitu při procházení internetu. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">aktualizujte nastavení historie</a>.
 
 ##
 

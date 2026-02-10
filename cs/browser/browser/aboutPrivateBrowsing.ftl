@@ -69,8 +69,8 @@ about-private-browsing-cookie-banners-promo-header = Cookie lišty jsou fuč!
 about-private-browsing-cookie-banners-promo-button = Omezit cookie lišty
 about-private-browsing-cookie-banners-promo-message =
     { -brand-short-name.case-status ->
-        [with-cases] Nechte { -brand-short-name(case: "acc") } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
-       *[no-cases] Nechte aplikaci { -brand-short-name } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
+        [with-cases] Nechte { -brand-short-name(case: "acc") } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení stránek bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
+       *[no-cases] Nechte aplikaci { -brand-short-name } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení stránek bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
     }
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
