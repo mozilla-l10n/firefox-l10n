@@ -69,3 +69,21 @@ ipprotection-button-connecting = Emyandyhína…
 
 ipprotection-connection-status-paused-title = VPN opytáva
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = VPN jehe’apyre oiko porãve hag̃ua nde rekoñemi eikundaha aja { -brand-short-name } ndive.
+ip-protection-learn-more = Eikuaave
+ip-protection-site-exceptions =
+    .label = Ñembohekoite tendagua
+ip-protection-not-opted-in-button = Eñepyrũ
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Aikũmby
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN opytáva

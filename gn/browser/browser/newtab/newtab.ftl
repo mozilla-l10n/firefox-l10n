@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Ñemomba’e
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Mboyke
+    .aria-label = Mboyke
 
 ## Search box component.
 
