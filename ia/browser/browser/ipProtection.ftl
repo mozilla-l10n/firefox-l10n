@@ -55,6 +55,7 @@ ipprotection-connection-status-network-error-title = Controla tu connexion a int
 
 ## IP Protection Settings
 
+ip-protection-learn-more = Pro saper plus
 ip-protection-not-opted-in-button = Comenciar
 ip-protection-autostart-private-checkbox =
     .label = In fenestras private
@@ -66,3 +67,4 @@ ipprotection-bandwidth-reset-button = OK
 ## IP Protection alerts
 
 vpn-paused-alert-close-tabs-button = Clauder tote le schedas
+vpn-error-alert-body = Retenta plus tarde.

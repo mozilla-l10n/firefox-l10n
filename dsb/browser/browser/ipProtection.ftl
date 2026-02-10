@@ -82,5 +82,20 @@ ipprotection-connection-status-network-error-description = Zwěžćo z interneto
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
-    .heading = Dojśpiśo waš limit VPN
-    .message = Sćo { $usageLeft } GB z { $maxUsage } GB toś ten mjasec wušej.
+    .heading = Dojśpijośo waš limit VPN
+    .message = Maśo { $usageLeft } GB z { $maxUsage } GB toś ten mjasec wušej.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jo za toś to sedło znjemóžnjony
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = Zatwarjony VPN, aby wašu priwatnosć pólěpšył, mjaztym až z { -brand-short-name } pśeglědujośo.
+ip-protection-learn-more = Dalšne informacije
+ip-protection-site-exceptions =
+    .label = Specifiske nastajenja sedła
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
+    .message = Schowajśo swójo stojnišćo a pśidajśo swójomu pśeglědowanjeju w { -brand-short-name } pśidatne koděrowanje. Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.

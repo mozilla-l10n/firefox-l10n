@@ -570,3 +570,9 @@ onboarding-personalization-motivation-title = Kótare funkcije { -brand-short-na
 onboarding-personalization-motivation-privacy-option = Priwatnosć a wěstota
 onboarding-personalization-motivation-productivity-option = Produktiwita
 onboarding-personalization-motivation-other-option = Druge
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-sync-title = Źiśo wšuźi. Synchronizěrujśo wšykno.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } za wami stoj

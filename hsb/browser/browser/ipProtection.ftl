@@ -41,9 +41,9 @@ unauthenticated-bandwidth-limit-message = Dóstańće { $maxUsage } GB darmotnyc
 unauthenticated-get-started = Prěnje kroki
 site-exclusion-toggle-label = VPN za tute sydło wužiwać
 site-exclusion-toggle-enabled =
-    .aria-label = VPN je za tute syło zmóžnjeny
+    .aria-label = VPN je za tute sydło zmóžnjeny
 site-exclusion-toggle-disabled =
-    .aria-label = VPN je za tute syło znjemóžnjeny
+    .aria-label = VPN je za tute sydło znjemóžnjeny
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -51,7 +51,7 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = VPN je zmóžnjeny
 ipprotection-connection-status-disconnected = VPN je znjemóžnjeny
-ipprotection-connection-status-excluded = VPN je za tute syło znjemóžnjeny
+ipprotection-connection-status-excluded = VPN je za tute sydło znjemóžnjeny
 ipprotection-connection-status-connecting = VPN so zwjazuje…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = VPN znjemóžnić
@@ -83,7 +83,7 @@ ipprotection-connection-status-network-error-description = Zwjazajće z internet
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Docpějeće waš limit VPN
-    .message = Sće { $usageLeft } GB z { $maxUsage } GB tutón měsac wyše.
+    .message = Maće { $usageLeft } GB z { $maxUsage } GB tutón měsac wyše.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydło znjemóžnjeny
 
 ## IP Protection Settings
