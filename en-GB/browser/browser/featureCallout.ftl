@@ -139,7 +139,7 @@ windows-10-eos-sync-new-device-primary-label = Synchronise now
 windows-10-eos-sync-general-title-1 = Protect the { -brand-short-name } you’ve made yours.
 windows-10-eos-sync-general-subtitle-1 = Back up and synchronise your passwords, bookmarks, settings, and other data to preserve what you count on.
 windows-10-eos-sync-general-title-2 = Now’s a good time to back up your passwords and bookmarks.
-windows-10-eos-sync-general-subtitle-2 = Synchronise now to protect the stuff you trust { -brand-short-name } with — and get it back anywhere, anytime.
+windows-10-eos-sync-general-subtitle-2 = Synchronise now to protect the stuff you trust { -brand-short-name } with — and get it back anywhere, at any time.
 windows-10-eos-sync-tour-title-1 = Too many tabs? Tidy up with tab groups.
 windows-10-eos-sync-tour-subtitle-1 = Drag one tab on top of another to create a group and keep things organised.
 windows-10-eos-sync-tour-title-2 = Get organised for Windows 11.
@@ -166,7 +166,7 @@ sidebar-deprecation-cta-button = Try it now
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Overwhelmed by too many tabs?
-vertical-tabs-callout-1-subtitle = Try our new vertical tabs layout to quickly scan your list of tabs. Early testers report this layout helps them feel more organised. Switch anytime.
+vertical-tabs-callout-1-subtitle = Try our new vertical tabs layout to quickly scan your list of tabs. Early testers report this layout helps them feel more organised. Switch at any time.
 vertical-tabs-callout-1-cta-button = Try vertical tabs
 vertical-tabs-callout-2-cta-button = Try now
 vertical-tabs-callout-2-title = Keep a lot of tabs open? Try vertical tabs.

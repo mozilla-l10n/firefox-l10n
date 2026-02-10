@@ -392,11 +392,11 @@ onboarding-new-tabs-subtitle = Switch it up whenever you want in the sidebar set
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Your tabs, your way
 # Setup screen for vertical tabs - subtitle for too many tabs variation
-onboarding-many-tabs-subtitle = Keep a lot of tabs open? Try your tabs on the side for a more streamlined view. Or keep it classic with tabs on the top. Switch anytime.
+onboarding-many-tabs-subtitle = Keep a lot of tabs open? Try your tabs on the side for a more streamlined view. Or keep it classic with tabs on the top. Switch at any time.
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Choose your tab layout
 # Setup screen for vertical tabs - subtitle for focused variation
-onboarding-focused-tabs-subtitle = For a streamlined view that can help you stay focused, try your tabs on the side. Or keep it classic with tabs on the top. Switch anytime.
+onboarding-focused-tabs-subtitle = For a streamlined view that can help you stay focused, try your tabs on the side. Or keep it classic with tabs on the top. Switch at any time.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Tabs on the side
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -446,16 +446,16 @@ onboarding-checklist-sign-up = Sign up or sign in to your account
 tab-groups-onboarding-feature-callout-title = Try tab groups for less clutter, more focus
 tab-groups-onboarding-feature-callout-subtitle = Get organised by dragging one tab on top of another to create your first group.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-create-group-title-3 = Find your tab groups in the List All Tabs menu anytime.
-tab-groups-onboarding-create-group-title-2 = Find your tab groups here anytime.
+tab-groups-onboarding-create-group-title-3 = Find your tab groups in the List All Tabs menu at any time.
+tab-groups-onboarding-create-group-title-2 = Find your tab groups here at any time.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Find your groups by searching for them in the address bar.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = When you close a tab group, reopen it from the List All Tabs menu anytime.
-tab-groups-onboarding-saved-groups-title-2 = When you close a tab group, you can reopen it here anytime.
+tab-groups-onboarding-saved-groups-title-3 = When you close a tab group, reopen it from the List All Tabs menu at any time.
+tab-groups-onboarding-saved-groups-title-2 = When you close a tab group, you can reopen it here at any time.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Find your closed groups by searching for them in the address bar.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-session-restore-title-2 = Reopen your tab groups from the List All Tabs menu anytime.
-tab-groups-onboarding-session-restore-title = Reopen your tab groups here anytime.
+tab-groups-onboarding-session-restore-title-2 = Reopen your tab groups from the List All Tabs menu at any time.
+tab-groups-onboarding-session-restore-title = Reopen your tab groups here at any time.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

@@ -536,7 +536,7 @@ newtab-topic-label-home = Home & Garden
 newtab-topic-selection-title = Select topics to fine-tune your feed
 # “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
 # In other words, “Our expert curators prioritize stories to fit your selected interests”
-newtab-topic-selection-subtitle = Choose two or more topics. Our expert curators prioritise stories tailored to your interests. Update any time.
+newtab-topic-selection-subtitle = Choose two or more topics. Our expert curators prioritise stories tailored to your interests. Update at any time.
 newtab-topic-selection-save-button = Save
 newtab-topic-selection-cancel-button = Cancel
 newtab-topic-selection-button-maybe-later = Maybe later
