@@ -24,3 +24,18 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Енді браузеріңіздің ішінде қолжетімді болатын VPN ұсынамыз
+
+## Panel
+
+unauthenticated-get-started = Бастау
+site-exclusion-toggle-label = Бұл сайт үшін VPN пайдалану
+site-exclusion-toggle-enabled =
+    .aria-label = Бұл сайт үшін VPN іске қосулы тұр
+site-exclusion-toggle-disabled =
+    .aria-label = Бұл сайт үшін VPN сөндірулі тұр
+ipprotection-settings-link =
+    .label = Баптаулар
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Түсіндім

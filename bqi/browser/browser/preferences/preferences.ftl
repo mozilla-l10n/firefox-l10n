@@ -620,6 +620,9 @@ sync-group-label =
 sync-signedout-account-signin3 =
     .label = سی هوم گوم کردن و من بیاین…
     .accesskey = i
+sync-signedout-account-short =
+    .label = و من ٱووڌن
+    .accesskey = i
 
 ## Firefox account - Signed in
 
@@ -670,10 +673,20 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = هوم گوم کردن: رۊشن
+prefs-syncing-on-2 =
+    .label = هوم گوم کردن رۊشن هڌ
 prefs-syncing-off = هوم گوم کردن: کۊر
 prefs-sync-turn-on-syncing =
     .label = رۊشن کردن هوم گوم کردن…
     .accesskey = s
+prefs-sync-now-button =
+    .label = سکو هوم گوم کوݩ
+    .accesskey = N
+prefs-sync-now-button-2 =
+    .label = سکو هوم گوم کوݩ
+    .accesskey = N
+prefs-syncing-button =
+    .label = هونی هوم گوم ابۊ…
 
 ## The list of things currently syncing.
 
@@ -687,9 +700,15 @@ sync-currently-syncing-creditcards = کارتا ائتواری
 sync-currently-syncing-payment-methods = بارتا پرداخت
 sync-currently-syncing-addons = وردنی یل
 sync-currently-syncing-settings = سامووا
+sync-manage-options =
+    .label = دؽوۉداری هوم گوم کردن
+    .accesskey = M
 sync-manage-options-2 =
     .label = دؽوۉداری داده یل هوم گوم وابیڌه
     .accesskey = M
+sync-change-options =
+    .label = آلشت…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -736,6 +755,9 @@ pane-privacy-logins-and-passwords-header = و من ٱووڌنا وو رزما
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = رزما
     .searchkeywords = و من ٱووڌنا
+forms-passwords-header =
+    .label = رزما
+    .aria-label = رزما
 forms-exceptions =
     .label = استسنایل…
     .accesskey = x
@@ -807,6 +829,17 @@ payments-group =
 ## Privacy Section - History
 
 history-header = ویرگار
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = گشت گر { -brand-short-name }
+    .accesskey = w
 history-remember-option-all =
     .label = ویرگار و ویرس امهنه
 history-remember-option-never =
@@ -816,6 +849,9 @@ history-remember-option-custom =
 history-clear-on-close-settings =
     .label = سامووا…
     .accesskey = t
+history-clear-button =
+    .label = روفتن ویرگار…
+    .accesskey = s
 history-group =
     .label = ویرگار
 
@@ -828,15 +864,20 @@ sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
 sitedata-option-block-all =
     .label = پوی کۊکیا (وبگه یل ن خراو اکونه)
+sitedata-clear =
+    .label = روفتن داده یل…
+    .accesskey = l
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = مسدۊد کوݩ بنر کۊکی
 cookie-banner-learn-more = قلوه دووسته بۊین
 forms-handle-cookie-banners =
     .label = کم کردن بنرا کۊکی
 
 ## Search Section
 
+addressbar-header = نوار نشۊوی
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
@@ -864,6 +905,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = کارا زل
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option =
+    .label = نشووݩ داڌن پیتینیڌنا دیندایی
+    .accesskey = r
 addressbar-locbar-suggest-sponsored-option =
     .label = پؽشنهاڌا ز هؽزگرووݩ
 addressbar-quickactions-learn-more = قلوه دووسته بۊین
