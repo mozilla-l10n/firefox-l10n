@@ -72,6 +72,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = سی فعال کردن ای امکووݩ، { -brand-short-name } وا دووارته ره اۊفته.
 should-restart-title = ره وندن دووارته { -brand-short-name }
 cancel-no-restart-button = لقو
 

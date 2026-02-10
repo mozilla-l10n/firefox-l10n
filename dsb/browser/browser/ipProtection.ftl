@@ -99,3 +99,68 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in =
     .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
     .message = Schowajśo swójo stojnišćo a pśidajśo swójomu pśeglědowanjeju w { -brand-short-name } pśidatne koděrowanje. Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
+ip-protection-not-opted-in-button = Prědne kšace
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Nastajenja websedłow zastojaś
+    .description =
+        { $count ->
+            [one] { $count } websedło
+            [two] { $count } websedle
+            [few] { $count } websedła
+           *[other] { $count } websedłow
+        }
+ip-protection-autostart =
+    .label = VPN awtomatiski zmóžniś
+ip-protection-autostart-checkbox =
+    .label = Gaž { -brand-short-name } wócynjam
+ip-protection-autostart-private-checkbox =
+    .label = W priwatnych woknach
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Nastajenja websedłow zastojaś
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Mjasecne daty VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB z { $maxUsage } GB toś ten mjasec wušej
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB z { $maxUsage } GB wušej
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB z { $maxUsage } GB toś ten mjasec wušej
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB z { $maxUsage } GB wušej
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, wótnowjone a gótowe, aby se wužywało
+ipprotection-bandwidth-reset-text = Zmóžniśo VPN za pśidatny śisk priwatnosći, dermotny kuždy mjasec.
+ipprotection-bandwidth-reset-button = Som zrozměł
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN jo zastajony
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Sćo pśetrjebał wšykne { $maxUsage } GB swójich datow VPN. Pśistup VPN se pśiducy mjasec slědk stajijo.
+vpn-paused-alert-close-tabs-button = Wšykne rejtariki zacyniś
+vpn-paused-alert-continue-wo-vpn-button = Bźez VPN pókšacowaś
+vpn-error-alert-title = VPN rowno njefunkcioněrujo.
+vpn-error-alert-body = Wopytajśo pózdźej hyšći raz.
