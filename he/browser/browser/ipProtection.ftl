@@ -89,7 +89,7 @@ ipprotection-connection-status-network-error-description = יש התחבר לא�
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = הגעת כמעט למגבלת ה־VPN שלך
-    .message = נשארו לך { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב החודש.
+    .message = נותרו לך { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב החודש.
 ipprotection-message-continuous-onboarding-intro = ניתן להפעיל VPN כדי להסתיר את המיקום שלך ולהוסיף הצפנה נוספת לגלישה שלך.
 ipprotection-message-continuous-onboarding-autostart = ניתן <a data-l10n-name="setting-link">להגדיר שה־VPN יופעל</a> בכל פעם ש־{ -brand-short-name } נפתח, לקבלת שכבת הגנה נוספת.
 ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } יזכור באילו אתרים הגדרת להשתמש ב־VPN. ניתן לעדכן אותם ב<a data-l10n-name="setting-link">הגדרות</a> בכל עת.
@@ -104,10 +104,10 @@ ipprotection-bandwidth-upgrade-text = ניתן לבחור מיקום VPN ולה�
 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-75 = <strong>הגעת כמעט למגבלת ה־VPN שלך.</strong> נשארו לך { $usageLeft } ג״ב. הנתונים שלך יתאפסו בתחילת החודש הבא.
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>הגעת כמעט למגבלת ה־VPN שלך.</strong> נותרו לך { $usageLeft } ג״ב. הנתונים שלך יתאפסו בתחילת החודש הבא.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = <strong>כמעט נגמרו לך נתוני VPN הניתנים לשימוש.</strong> נשארו לך { $usageLeft } ג״ב. לאחר שכל הנתונים ינוצלו, ה־VPN שלך יושהה עד שהנתונים שלך יתאפסו בתחילת החודש הבא.
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>כמעט נגמרו לך נתוני VPN הניתנים לשימוש.</strong> נותרו לך { $usageLeft } ג״ב. לאחר שכל הנתונים ינוצלו, ה־VPN שלך יושהה עד שהנתונים שלך יתאפסו בתחילת החודש הבא.
 
 ## IP Protection Settings
 
@@ -151,9 +151,34 @@ ip-protection-exclusions-desc = יש להשתמש ב־VPN עבור כל האתר
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = נתוני VPN חודשיים
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = נותרו { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב החודש
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = נותרו { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = נותרו { $usageLeft } מ״ב מתוך { $maxUsage } ג״ב החודש
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = נותרו { $usageLeft } מ״ב מתוך { $maxUsage } ג״ב
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה תתאפס בחודש הבא.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = מתאפס ל־{ $maxUsage } ג״ב בתחילת כל חודש.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } ג״ב של VPN, רעננים ומוכנים לשימוש
 ipprotection-bandwidth-reset-text = ניתן להפעיל VPN לקבלת תוספת פרטיות, בחינם בכל חודש.
 ipprotection-bandwidth-reset-button = הבנתי
 
