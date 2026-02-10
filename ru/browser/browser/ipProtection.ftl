@@ -117,3 +117,79 @@ ip-protection-description =
 ip-protection-learn-more = Подробнее
 ip-protection-site-exceptions =
     .label = Настройки для конкретных сайтов
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Попробуйте VPN, встроенный в { -brand-short-name }
+    .message = Скройте своё местоположение и добавьте дополнительное шифрование к вашему веб-сёрфингу в { -brand-short-name }. Получите { $maxUsage } ГБ бесплатных данных VPN каждый месяц.
+ip-protection-not-opted-in-button = Начало работы
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Управление настройками веб-сайтов
+    .description =
+        { $count ->
+            [one] { $count } веб-сайт
+            [few] { $count } веб-сайта
+           *[many] { $count } веб-сайтов
+        }
+ip-protection-autostart =
+    .label = Включать VPN автоматически
+ip-protection-autostart-checkbox =
+    .label = При открытии { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = В приватных окнах
+ip-protection-vpn-upgrade-link =
+    .label = Получите ещё больше защиты за пределами { -brand-short-name } с помощью { -mozilla-vpn-brand-name }
+    .description = Выберите пользовательские местоположения VPN и добавьте защиту ко всем своим приложениям на пяти устройствах, независимо от того, находитесь ли вы дома или подключены к общедоступному Wi-Fi.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Управление настройками веб-сайтов
+ip-protection-exclusions-desc = Использовать VPN для всех веб-сайтов, кроме перечисленных в этом списке. Добавьте веб-сайт здесь или открыв VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Ежемесячные данные VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = В этом месяце осталось { $usageLeft } ГБ из { $maxUsage } ГБ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Осталось { $usageLeft } ГБ из { $maxUsage } ГБ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = В этом месяце осталось { $usageLeft } МБ из { $maxUsage } ГБ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Осталось { $usageLeft } МБ из { $maxUsage } ГБ
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Вы использовали все { $maxUsage } ГБ данных вашего VPN. Доступ будет сброшен в следующем месяце.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Сбрасывается на { $maxUsage } ГБ первого числа каждого месяца.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN, обновлён и готов к работе
+ipprotection-bandwidth-reset-text = Включите VPN для дополнительного повышения приватности, бесплатно каждый месяц.
+ipprotection-bandwidth-reset-button = Понятно
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN приостановлен
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Вы использовали все { $maxUsage } ГБ данных вашего VPN. Доступ к VPN будет сброшен в следующем месяце.
+vpn-paused-alert-close-tabs-button = Закрыть все вкладки
+vpn-paused-alert-continue-wo-vpn-button = Продолжить без VPN
+vpn-error-alert-title = VPN сейчас не работает.
+vpn-error-alert-body = Попробуйте снова позже.

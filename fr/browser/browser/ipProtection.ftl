@@ -32,6 +32,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Non merci
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = Choisissez où vous utilisez le VPN
 ipprotection-site-settings-callout-subtitle = Désactivez le VPN pour un site spécifique et nous nous en souviendrons lors de votre prochaine visite.
 ipprotection-site-settings-callout-button = J’ai compris
 
@@ -42,6 +43,7 @@ unauthenticated-hide-location-message = Dissimulez votre localisation et renforc
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Bénéficiez de { $maxUsage } Go de données VPN gratuits chaque mois.
+unauthenticated-get-started = Démarrer
 site-exclusion-toggle-label = Activer le VPN pour ce site
 site-exclusion-toggle-enabled =
     .aria-label = Le VPN est activé pour ce site
@@ -72,6 +74,7 @@ ipprotection-connection-status-paused-title = VPN mis en pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
+upgrade-vpn-title = Bénéficiez d’une protection supplémentaire au-delà du navigateur
 upgrade-vpn-button = Essayer { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -88,10 +91,12 @@ ipprotection-message-bandwidth-warning =
     .message = Il vous reste { $usageLeft } Go sur { $maxUsage } Go ce mois-ci.
 ipprotection-message-continuous-onboarding-intro = Activez le VPN afin de dissimuler votre localisation et renforcer la sécurité de votre navigation grâce à un chiffrement supplémentaire.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Activez le VPN automatiquement</a> chaque fois que vous lancez { -brand-short-name } afin de bénéficier d’une protection supplémentaire.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } se souviendra des sites web que vous avez configurés pour utiliser le VPN. Vous pouvez les modifier à tout moment dans les <a data-l10n-name="setting-link">paramètres</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Le VPN est désactivé pour ce site
 
 ## IP Protection bandwidth callouts
 
+ipprotection-bandwidth-upgrade-title = Vous appréciez le VPN intégré ? Profitez d’une protection renforcée en dehors de { -brand-product-name } grâce à { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Choisissez un emplacement VPN et ajoutez une protection à toutes vos applications sur jusqu’à 5 appareils, que vous soyez chez vous ou sur un Wi-Fi public.
 
 ## IP Protection bandwidth warning infobar

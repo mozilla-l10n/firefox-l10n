@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Настроить
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Убрать
+    .aria-label = Убрать
 
 ## Search box component.
 
