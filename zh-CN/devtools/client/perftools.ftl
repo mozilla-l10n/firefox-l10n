@@ -26,6 +26,7 @@ perftools-heading-local-build = 本地构建版本
 
 perftools-description-intro = 记录器将新建标签页打开 <a>profiler.firefox.com</a>。所有数据存储在本地，您到时也可以选择上传以便分享。
 perftools-description-local-build = 若您要对本机自行编译的构建版本进行测量，请将其 objdir 路径添加至下方列表，以便查询调试符号信息。
+perftools-pick-local-build-directory = 选择构建目录
 
 ## The controls for the interval at which the profiler samples the code.
 
