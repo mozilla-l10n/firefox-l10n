@@ -572,5 +572,6 @@ onboarding-personalization-motivation-other-option = Басқа
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Біз деректеріңізді қорғаймыз және компаниялардың әрбір шертуіңізді аңдуына бұғаттау қоямыз — автоматты түрде.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолдайды

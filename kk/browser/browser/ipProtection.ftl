@@ -56,6 +56,17 @@ ipprotection-connection-status-network-error-title = Интернетпен ба
 ## IP Protection Settings
 
 ip-protection-learn-more = Көбірек білу
+ip-protection-autostart-private-checkbox =
+    .label = Жекелік шолу терезелерінде
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Веб-сайт баптауларын басқару
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Ай сайынғы VPN деректері
 
 ## IP Protection bandwidth reset callout
 

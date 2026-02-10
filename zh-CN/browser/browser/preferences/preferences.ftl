@@ -663,7 +663,7 @@ update-application-use-service =
     .label = 使用后台服务静默安装更新
     .accesskey = b
 update-application-suppress-prompts =
-    .label = 减少更新通知提醒
+    .label = 减少更新通知提示
     .accesskey = n
 update-setting-write-failure-title2 = 保存“更新”设置时出错
 # Variables:
@@ -2228,7 +2228,7 @@ preferences-ai-controls-description = { -brand-short-name } 始终尊重您的�
 preferences-ai-controls-block-ai-label = 阻止 AI 增强功能
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = 阻止后，{ -brand-short-name } 将不再显示新的及现有的 AI 增强功能，也不会再弹出相关提醒。<a data-l10n-name="link">详细了解</a>涉及的项目，以及传统机器学习功能（例如搜索建议和推荐）的控制方法。
+preferences-ai-controls-block-ai-description = 阻止后，{ -brand-short-name } 将不再显示新的及现有的 AI 增强功能，也不会再弹出相关提示。<a data-l10n-name="link">详细了解</a>涉及的项目，以及传统机器学习功能（例如搜索建议和推荐）的控制方法。
 preferences-ai-controls-blocked-message =
     .message = 默认将阻止新的和当前的 AI 增强功能。若要取消阻止特定功能，请使用下面的控制项。
 preferences-ai-controls-on-device-group =
@@ -2264,10 +2264,10 @@ preferences-ai-controls-state-blocked =
 preferences-ai-controls-state-description-before = 选项含义：
 preferences-ai-controls-state-description-available = <strong>提供：</strong>功能将出现且可使用。
 preferences-ai-controls-state-description-enabled = <strong>启用：</strong>已选择使用此功能。
-preferences-ai-controls-state-description-blocked = <strong>阻止：</strong>功能将不会出现，也无法使用。对于端侧 AI，所有已下载的模型都已移除。
+preferences-ai-controls-state-description-blocked = <strong>阻止：</strong>功能将不会出现，也无法使用。对于端侧 AI，所有已下载的模型都将移除。
 preferences-ai-controls-block-confirmation-heading = 确定要阻止 AI 增强功能吗？
-preferences-ai-controls-block-confirmation-description = { -brand-short-name } 将不再显示新的及现有的 AI 增强功能，也不会再弹出相关提醒。您以后可取消阻止希望继续使用的功能。
-preferences-ai-controls-block-confirmation-features-start = 将会阻止：
+preferences-ai-controls-block-confirmation-description = { -brand-short-name } 将不再显示新的及现有的 AI 增强功能，也不会再弹出相关提示。您以后可取消阻止希望继续使用的功能。
+preferences-ai-controls-block-confirmation-features-start = 将阻止以下功能：
 preferences-ai-controls-block-confirmation-translations = 翻译
 preferences-ai-controls-block-confirmation-pdfjs = 在 { -brand-short-name } PDF 查看器中创建图像替换文字
 preferences-ai-controls-block-confirmation-tab-group-suggestions = 建议标签页群组
