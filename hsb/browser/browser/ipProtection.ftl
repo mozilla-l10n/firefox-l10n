@@ -92,7 +92,19 @@ ipprotection-message-bandwidth-warning =
     .message = Maće { $usageLeft } GB z { $maxUsage } GB tutón měsac wyše.
 ipprotection-message-continuous-onboarding-intro = Zmóžńće VPN, zo byšće swoje stejnišćo schował a přidajće swojemu přehladowanju přidatne zaklučowanje.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžńće VPN</a> za přidatnu škitnu runinu, kóždy raz, hdyž { -brand-short-name } wočinjeće.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } so na to dopomina, za kotre websydła so ma VPN wužiwać. Aktualizujće tute kóždy čas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydło znjemóžnjeny
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Zatwarjeny VPN wam so spodoba? Wobstarajće sej wjace škita zwonka { -brand-product-name } z { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Wubjerće stejnišćo VPN a přidajće wšěm swojim nałoženjam na hač do 5 gratow škit, wšojedne, hač sće doma abo w zjawnym WLAN.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Docpějeće swój limit VPN.</strong> Maće { $usageLeft } GB wyše. Waše daty so na spočatku přichodneho měsaca wróćo staja.
 
 ## IP Protection Settings
 
