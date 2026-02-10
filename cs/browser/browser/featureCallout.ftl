@@ -226,7 +226,7 @@ sidebar-deprecation-cta-button = Vyzkoušejte nyní
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Jste zahlceni velkým množstvím panelů?
-vertical-tabs-callout-1-subtitle = Vyzkoušejte nové vertikální rozložení karet a rychle prohledejte seznam panelů. První testeři hlásí, že jim toto rozložení umožňuje lepší organizaci. Přepnout můžete kdykoliv.
+vertical-tabs-callout-1-subtitle = Vyzkoušejte nové svislé rozložení panelů, které vám umožní rychle procházet seznam panelů. První testeři hlásí, že jim toto rozložení pomáhá udržovat lepší přehled. Přepnout zpět můžete kdykoliv.
 vertical-tabs-callout-1-cta-button = Vyzkoušejte svislé panely
 vertical-tabs-callout-2-cta-button = Vyzkoušet nyní
 vertical-tabs-callout-2-title = Máte mnoho otevřených panelů? Zkuste svislé panely.

@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Skjul din ekte e-postadresse og ditt telefonnummer
 appmenuitem-services-relay-description = Start oversikten for e-postalias
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Få beskyttelse for hele enheten
 appmenuitem-vpn-description = Beskytt din nettaktivitet
 appmenu-services-header = Mine tjenester
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
