@@ -365,6 +365,14 @@ preferences-colors-description = Замінити усталені кольор�
 preferences-colors-manage-button =
     .label = Керувати кольорами…
     .accesskey = к
+preferences-fonts-header2 =
+    .label = Шрифти
+default-font-2 =
+    .label = Типовий шрифт
+    .accesskey = ш
+default-font-size-2 =
+    .label = Розмір
+    .accesskey = Р
 preferences-fonts-header = Шрифти
 default-font = Типовий шрифт
     .accesskey = ш
@@ -1022,6 +1030,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -2016,3 +2029,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
