@@ -370,6 +370,12 @@ preferences-colors-description = Перавызначыць звычайныя �
 preferences-colors-manage-button =
     .label = Кіраваць колерамі…
     .accesskey = К
+default-font-2 =
+    .label = Тыповы шрыфт
+    .accesskey = в
+default-font-size-2 =
+    .label = Памер
+    .accesskey = П
 preferences-fonts-header = Шрыфты
 default-font = Тыповы шрыфт
     .accesskey = в
@@ -2192,3 +2198,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Працоўны стол
 downloads-folder-name = Сцягванні
 choose-download-folder-title = Выбар папкі сцягванняў:
+
+## AI controls page
+
