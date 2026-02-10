@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Fermi langeton
            *[other] Fermi { $tabCount } langetojn
         }
+tab-splitview-splitter =
+    .aria-label = Ŝanĝi grandon de la langetoj en apartigita vido
 
 ## Tooltips for tab audio control
 ## Variables:

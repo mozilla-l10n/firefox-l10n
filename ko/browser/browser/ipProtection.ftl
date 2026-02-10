@@ -49,3 +49,31 @@ site-exclusion-toggle-enabled =
     .aria-label = 이 사이트에서 VPN이 켜짐
 site-exclusion-toggle-disabled =
     .aria-label = 이 사이트에서 VPN이 꺼짐
+ipprotection-settings-link =
+    .label = 설정
+
+## Status card
+
+ipprotection-connection-status-connected = VPN 켜짐
+ipprotection-connection-status-disconnected = VPN 꺼짐
+ipprotection-connection-status-excluded = 이 사이트에서 VPN 꺼짐
+ipprotection-connection-status-connecting = VPN 연결 중…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = VPN 끄기
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = 모든 곳에서 VPN 끄기
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = VPN 켜기
+# Button while VPN is connecting
+ipprotection-button-connecting = 켜는 중…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN 일시 중지됨
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = { $maxUsage } GB의 VPN 데이터를 모두 사용했습니다. 접근 권한이 다음 달에 초기화됩니다.
+upgrade-vpn-title = 브라우저를 넘어선 추가 보호를 받으세요
+upgrade-vpn-description = VPN 위치를 선택하고, 모든 앱과 최대 5개의 기기에 VPN을 사용하고, 집이든 공용 Wi-Fi든 모든 네트워크에서 보안을 유지하세요.
+upgrade-vpn-button = { -mozilla-vpn-brand-name } 사용해보기

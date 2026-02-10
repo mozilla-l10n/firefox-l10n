@@ -26,6 +26,7 @@ perftools-heading-local-build = Loka versio
 
 perftools-description-intro = La registroj lanĉas <a>profiler.firefox.com</a> en nova langeto. Ĉiuj datumoj estas konservitaj surloke, sed vi povas decidi alŝuti kaj dividi ilin.
 perftools-description-local-build = Se vi analizas la ruladon de versio, kiun vi mem kompilis en tiu ĉi maŝino, bonvolu aldoni la objdir de via versio al la suba listo, tiel ke ĝi povas esti uzata por serĉi simbolojn.
+perftools-pick-local-build-directory = Elekti kunmetan dosierujon
 
 ## The controls for the interval at which the profiler samples the code.
 
