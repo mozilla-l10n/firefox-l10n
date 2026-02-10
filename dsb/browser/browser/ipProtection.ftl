@@ -75,7 +75,7 @@ ipprotection-connection-status-paused-title = VPN jo zastajony
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
 upgrade-vpn-title = Wobstarajśo se pśidatny šćit zwenka wobglědowaka
-upgrade-vpn-description = Wubjeŕśo swójo stojnišćo VPN, wužywajśo VPN za wšykne swóje nałoženja a na až do 5 rědow a wóstańśo wěsty w kuždej seśi – doma abo w zjawnem WLAN.
+upgrade-vpn-description = Wubjeŕśo swójo stojnišćo VPN, wužywajśo VPN za wšykne swóje nałoženja a na až do 5 rědach a wóstańśo wěsty w kuždej seśi – doma abo w zjawnem WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wopytaś
 
 ## Messages and errors
@@ -172,6 +172,9 @@ ip-protection-bandwidth-left-mb = { $usageLeft } MB z { $maxUsage } GB wušej
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Staja na { $maxUsage } GB prědnego kuždego mjaseca slědk.
 
 ## IP Protection bandwidth reset callout
 

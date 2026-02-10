@@ -579,8 +579,11 @@ onboarding-refresh-pin-set-default-subtitle = Šćitamy waše daty a zawoborujom
 onboarding-refresh-pin-set-default-title = Sćo we wěstych rukach
 onboarding-refresh-import-subtitle = Pśenosujśo swóje gronidła, cytańske znamjenja, historiju a wěcej.
 onboarding-refresh-import-title = Dajśo { -brand-short-name } se wěcej doma cuś.
+onboarding-refresh-onboarding-addons-subtitle = Rozšyrjenja su małe nałoženja, kótarež wam zmóžnjaju, { -brand-short-name } pśiměriś. Mógu wašu priwatnosć pówušyś, produktiwitu pólěpšyś, naglěd { -brand-short-name } změniś a wjele wěcej.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Dajśo swójomu pśeglědowanjeju śisk
+onboarding-refresh-sync-subtitle = Zběrajśo cytańske znamjenja, gronidła a wěcej wšuźi, źož sćo pla { -brand-short-name } pśizjawjony. Mimo togo se waše daty koděruju, aby jano wy mógł je wiźeś.
 onboarding-refresh-sync-title = Źiśo wšuźi. Synchronizěrujśo wšykno.
+onboarding-refresh-gratitude-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót za wše wužytneje organizacije spěchujo. Z wašeju pomocu źěłamy na tom, internet wěsćejšy a pśistupnjejšy za kuždego cyniś.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami stoj

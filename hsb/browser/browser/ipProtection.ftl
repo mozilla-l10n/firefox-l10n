@@ -75,7 +75,7 @@ ipprotection-connection-status-paused-title = VPN je zastajeny
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
 upgrade-vpn-title = Wobstarajće sej přidatny škit zwonka wobhladowaka
-upgrade-vpn-description = Wubjerće swoje stejnišćo VPN, wužiwajće VPN za wšě swoje nałoženja a na hač do 5 gratow a wostańće wěsty w kóždej syći – doma abo w zjawnym WLAN.
+upgrade-vpn-description = Wubjerće swoje stejnišćo VPN, wužiwajće VPN za wšě swoje nałoženja a na hač do 5 gratach a wostańće wěsty w kóždej syći – doma abo w zjawnym WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wupruwować
 
 ## Messages and errors
@@ -98,7 +98,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydł
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Zatwarjeny VPN wam so spodoba? Wobstarajće sej wjace škita zwonka { -brand-product-name } z { -mozilla-vpn-brand-name }.
-ipprotection-bandwidth-upgrade-text = Wubjerće stejnišćo VPN a přidajće wšěm swojim nałoženjam na hač do 5 gratow škit, wšojedne, hač sće doma abo w zjawnym WLAN.
+ipprotection-bandwidth-upgrade-text = Wubjerće stejnišćo VPN a přidajće wšěm swojim nałoženjam na hač do 5 gratach škit, wšojedne, hač sće doma abo w zjawnym WLAN.
 
 ## IP Protection bandwidth warning infobar
 
