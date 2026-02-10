@@ -144,6 +144,8 @@ tabs-group-header2 =
     .label = بلگه یل
 tabs-opening-heading =
     .label = هونی اگوئشه
+tabs-closing-heading =
+    .label = هونی ابنده
 tabs-group-header = بلگه یل
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab و ترتیب بلگه یلی ک هیم دمۊوی و کار گرؽڌه وابینه منجاسووݩ هرکت اکونه
@@ -186,11 +188,14 @@ startup-group =
 ##
 
 containers-disable-alert-cancel-button = فعال بمهنه
+browser-layout-header2 =
+    .label = تئر بندی گشت گر
 browser-layout-header = تئر بندی گشت گر
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زووݩ وو شؽوات
+preferences-web-appearance-header = شؽوات وبگه
 web-appearance-group =
     .aria-label = شؽوات وبگه
 preferences-web-appearance-choice-auto = خوتکار
@@ -203,6 +208,9 @@ preferences-web-appearance-choice-input-light =
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-contrast-control-header = کونتورول کونتراست
+preferences-contrast-control-custom =
+    .label = سفارشی
+    .accesskey = C
 preferences-colors-header = رنگا
 preferences-colors-manage-button =
     .label = دؽوۉداری رنگا…
@@ -255,6 +263,7 @@ website-add-language =
 website-remove-language-button =
     .aria-label = پاک کردن { $locale }
     .title = پاک کردن { $locale }
+confirm-browser-language-change-button = ائمال وو ره وندن دووارته
 translate-web-pages =
     .label = ولرنیڌن موئتوا وب
     .accesskey = T
@@ -289,6 +298,7 @@ settings-translations-subpage-download-cancel-button =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = فایلا وو برنومه یل
 downloads-header-2 =
     .label = دانلودا
 download-save-where-2 =
@@ -297,7 +307,23 @@ download-save-where-2 =
 download-header = دانلودا
 download-save-where = زفت فایل من
     .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] پسند…
+           *[other] گشتن…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+download-always-ask-where =
+    .label = هی زبار جاگه زفت کردن پۊرسیڌه بۊ
+    .accesskey = A
 applications-header = برنومه یل
+applications-filter =
+    .placeholder = پیتینیڌن نوع فایلا یا برنومه یل
 applications-type-column =
     .label = نوع موئتوا
     .accesskey = T
@@ -374,6 +400,7 @@ applications-save-for-new-types =
     .label = زفت فایل
     .accesskey = S
 play-drm-content-learn-more = قلوه دووسته بۊین
+update-application-title = ورۊ رسۊوی یل { -brand-short-name }:
 update-application-allow-description = هشتن { -brand-short-name } سی
 update-setting-write-failure-title2 = ختا مجال زفت کردن سامووا ورۊ رسۊوی
 update-in-progress-ok-button = &دیر وندن

@@ -662,8 +662,8 @@ pdfjs-views-manager-add-file-button-label = Ajouter un fichier
 #   $count (Number) - the number of selected pages.
 pdfjs-views-manager-pages-status-action-label =
     { $count ->
-        [one] { $count } éléments sélectionnés
-       *[other] { $count } éléments sélectionnés
+        [one] { $count } page sélectionnée
+       *[other] { $count } pages sélectionnées
     }
 pdfjs-views-manager-pages-status-none-action-label = Sélectionner des pages
 pdfjs-views-manager-pages-status-action-button-label = Gérer

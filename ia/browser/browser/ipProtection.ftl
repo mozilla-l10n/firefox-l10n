@@ -17,21 +17,33 @@ ipprotection-button-error =
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA
+ipprotection-help-button =
+    .tooltiptext = Aperir pagina de supporto del VPN
 ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu navigator
+ipprotection-feature-introduction-link-text = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos con ulterior cryptation.
+ipprotection-feature-introduction-link-text-private-browsing = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos con ulterior cryptation, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-button-primary = Sequente
 ipprotection-feature-introduction-button-secondary-not-now = Non ora
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gratias
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = Elige ubi tu usa VPN
+ipprotection-site-settings-callout-subtitle = Disactiva le VPN pro un sito specific e nos lo memorara le proxime vice que tu lo visitara.
 ipprotection-site-settings-callout-button = OK
 
 ## Panel
 
+unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
+unauthenticated-hide-location-message = Cela tu position e adde ulterior cryptation a tu navigation intra { -brand-product-name }.
 unauthenticated-get-started = Comenciar
+site-exclusion-toggle-label = Usar VPN pro iste sito
+site-exclusion-toggle-enabled =
+    .aria-label = VPN es active pro iste sito
 site-exclusion-toggle-disabled =
     .aria-label = VPN es disactivate pro iste sito
 ipprotection-settings-link =
@@ -41,13 +53,21 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = Le VPN es active
 ipprotection-connection-status-disconnected = Le VPN es disactivate
+ipprotection-connection-status-excluded = VPN es disactivate pro iste sito
+ipprotection-connection-status-connecting = VPN se connecte…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Disactivar VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Disactivar VPN ubique
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Activar le VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Activar…
 
 ## VPN paused state
 
+ipprotection-connection-status-paused-title = VPN pausate
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso se reinitialisara le mense proxime.
@@ -57,7 +77,9 @@ upgrade-vpn-button = Essaya { -mozilla-vpn-brand-name }
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Impossibile connecter se al VPN
+ipprotection-connection-status-generic-error-description = Retenta in alcun minutas.
 ipprotection-connection-status-network-error-title = Controla tu connexion a internet
+ipprotection-connection-status-network-error-description = Connecte te a internet, pois tenta activar VPN.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Predefinir VPN pro activar se</a> cata vice tu aperi { -brand-short-name } pro un strato ulterior de protection.
 
 ## IP Protection Settings
