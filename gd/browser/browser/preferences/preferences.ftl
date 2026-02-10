@@ -251,6 +251,14 @@ preferences-colors-description = Tar-àithn na dathan bunaiteach aig { -brand-sh
 preferences-colors-manage-button =
     .label = Stiùirich na dathan…
     .accesskey = c
+preferences-fonts-header2 =
+    .label = Cruthan-clò
+default-font-2 =
+    .label = An cruth-clò bunaiteach
+    .accesskey = u
+default-font-size-2 =
+    .label = Meud
+    .accesskey = M
 preferences-fonts-header = Cruthan-clò
 default-font = An cruth-clò bunaiteach
     .accesskey = u
@@ -463,6 +471,9 @@ update-in-progress-ok-button = &Tilg air falbh
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Dèanadas
@@ -578,6 +589,12 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -766,6 +783,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -966,6 +988,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1296,6 +1321,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1411,3 +1439,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Deasg
 downloads-folder-name = Luchdaidhean a-nuas
 choose-download-folder-title = Tagh pasgan nan luchdaidhan a-nuas:
+
+## AI controls page
+

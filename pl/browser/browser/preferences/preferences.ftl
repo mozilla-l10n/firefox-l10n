@@ -370,6 +370,14 @@ preferences-colors-description = Zastąp domyślne kolory przeglądarki { -brand
 preferences-colors-manage-button =
     .label = Zarządzaj kolorami…
     .accesskey = k
+preferences-fonts-header2 =
+    .label = Czcionki
+default-font-2 =
+    .label = Domyślna czcionka:
+    .accesskey = D
+default-font-size-2 =
+    .label = Rozmiar:
+    .accesskey = R
 preferences-fonts-header = Czcionki
 default-font = Domyślna czcionka:
     .accesskey = D
@@ -2165,3 +2173,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
+
+## AI controls page
+

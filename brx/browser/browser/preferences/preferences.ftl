@@ -35,6 +35,17 @@ should-restart-ok = { -brand-short-name } खौ दानो फिनजाग
 cancel-no-restart-button = नेवसि
 restart-later = उनाव फिन जागाय
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = नागिरनायनि फिन
@@ -86,6 +97,12 @@ containers-disable-alert-cancel-button = हाहोनाय खालाम�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = राव आरो नुजाथिनाय
+default-font-2 =
+    .label = डिफल्ट फन्ट
+    .accesskey = D
+default-font-size-2 =
+    .label = महर
+    .accesskey = S
 default-font = डिफल्ट फन्ट
     .accesskey = D
 default-font-size = महर
@@ -196,6 +213,9 @@ update-in-progress-ok-button = &नागार
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &सालाय लांबाय था
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-settings-learn-more = गोबां सोलों
@@ -266,6 +286,12 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमाकॅखौ बाहाय...
     .accesskey = ब
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -343,6 +369,13 @@ containers-add-button =
 containers-remove-button =
     .label = बोखार
 
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-manage-account = एकाउन्ट सामलाय
@@ -358,6 +391,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } थारबिजिरनाय जाया।
 sync-signedin-login-failure = फिन फोनांजाब खालामनो थाखाय साइन-इन खालाम { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-remove-account =
@@ -366,6 +404,12 @@ sync-remove-account =
 sync-sign-in =
     .label = साइन-इन
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -384,6 +428,13 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = थिना दोन
     .accesskey = v
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
 
 ## Privacy Section - Logins and Passwords
 
@@ -407,6 +458,12 @@ forms-master-pw-change =
     .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -473,6 +530,12 @@ sitedata-clear =
 cookies-site-data-group =
     .label = कुकिफोर आरो साइट दाटा
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-locbar-history-option =
@@ -516,6 +579,9 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = गोबां फोरमायथिहोग्रा
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -561,6 +627,9 @@ collection-privacy-notice = गुमुरथि मिथिसारहोन
 collection-health-report-link = गोबां सोलों
 addon-recommendations-link = गोबां सोलों
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -579,8 +648,17 @@ certs-view =
     .label = चार्टिफिकेटखौ नाय...
     .accesskey = C
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटप
 downloads-folder-name = दावनल'दफोर
 choose-download-folder-title = डाउनल'ड फल्डारखौ बासिख:
+
+## AI controls page
+

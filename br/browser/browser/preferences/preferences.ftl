@@ -248,6 +248,14 @@ preferences-colors-header = Livioù
 preferences-colors-manage-button =
     .label = Merañ al livioù…
     .accesskey = L
+preferences-fonts-header2 =
+    .label = Nodrezhoù
+default-font-2 =
+    .label = Nodrezh dre ziouer
+    .accesskey = N
+default-font-size-2 =
+    .label = Ment
+    .accesskey = M
 preferences-fonts-header = Nodrezhoù
 default-font = Nodrezh dre ziouer
     .accesskey = N
@@ -456,6 +464,9 @@ update-in-progress-ok-button = &Argas
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Digonusted
@@ -571,6 +582,12 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -766,6 +783,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1119,6 +1141,9 @@ sitedata-cookies-exceptions =
 cookies-site-data-group =
     .label = Toupinoù ha roadennoù lec'hienn
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Gouzout hiroc’h
@@ -1337,6 +1362,9 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1426,3 +1454,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Burev
 downloads-folder-name = Pellgargadurioù
 choose-download-folder-title = Dibab un teuliad pellgargañ
+
+## AI controls page
+

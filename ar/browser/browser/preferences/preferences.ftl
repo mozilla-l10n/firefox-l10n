@@ -336,6 +336,14 @@ preferences-colors-description = تجاوز ألوان { -brand-short-name } ا�
 preferences-colors-manage-button =
     .label = أدِر الألوان…
     .accesskey = ر
+preferences-fonts-header2 =
+    .label = الخطوط
+default-font-2 =
+    .label = الخط المبدئي
+    .accesskey = ط
+default-font-size-2 =
+    .label = الحجم
+    .accesskey = ح
 preferences-fonts-header = الخطوط
 default-font = الخط المبدئي
     .accesskey = ط
@@ -736,6 +744,9 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 

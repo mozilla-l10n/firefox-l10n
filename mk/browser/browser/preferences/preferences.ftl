@@ -41,6 +41,17 @@ should-restart-ok = Рестарирај го { -brand-short-name } сега
 cancel-no-restart-button = Откажи
 restart-later = Рестартирај подоцна
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Резултати од пребарувањето
@@ -97,6 +108,14 @@ language-and-appearance-header = Јазик и изглед
 preferences-web-appearance-choice-light = Светла
 preferences-web-appearance-choice-dark = Темна
 preferences-colors-header = Бои
+preferences-fonts-header2 =
+    .label = Фонтови
+default-font-2 =
+    .label = Основен фонт
+    .accesskey = Д
+default-font-size-2 =
+    .label = Големина
+    .accesskey = С
 preferences-fonts-header = Фонтови
 default-font = Основен фонт
     .accesskey = Д
@@ -222,6 +241,9 @@ update-in-progress-ok-button = &Отфрли
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продолжи
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Перформанси
@@ -272,6 +294,9 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Нови прозорци и јазичиња
 
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Почетна страница и нови прозорци
@@ -296,6 +321,12 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележувач...
     .accesskey = б
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -384,6 +415,13 @@ containers-settings-button =
 containers-remove-button =
     .label = Избриши
 
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Firefox account - Signed in
 
 sync-profile-picture =
@@ -397,6 +435,11 @@ sync-profile-picture-with-alt =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } не е потврдена.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -467,6 +510,9 @@ sync-verification-not-sent-body = Не сме во можност да испр�
 
 privacy-header = Приватност на прелистувачот
 
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -487,6 +533,9 @@ forms-master-pw-fips-desc = Промената на лозинката не ус
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -536,6 +585,12 @@ sitedata-option-block-unvisited =
 cookies-site-data-group =
     .label = Колачиња и податоци за мрежно место
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-locbar-bookmarks-option =
@@ -548,6 +603,10 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Дознајте повеќе
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 
 ##
 
@@ -570,6 +629,9 @@ content-blocking-cookies-label =
     .accesskey = ц
 content-blocking-expand-section =
     .tooltiptext = Повеќе информации
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -620,6 +682,9 @@ collection-health-report-link = Дознај повеќе
 collection-studies-link = Погледнете ги студиите на { -brand-short-name }
 addon-recommendations-link = Дознајте повеќе
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -643,8 +708,14 @@ certs-devices-enable-fips = Овозможи FIPS
 
 httpsonly-learn-more = Дознајте повеќе
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Работна површина
 downloads-folder-name = Преземања
 choose-download-folder-title = Изберете папка за преземања:
+
+## AI controls page
+

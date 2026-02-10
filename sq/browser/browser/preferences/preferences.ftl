@@ -367,6 +367,14 @@ preferences-colors-description = Anashkalo ngjyrat parazgjedhje të { -brand-sho
 preferences-colors-manage-button =
     .label = Administroni Ngjyra…
     .accesskey = A
+preferences-fonts-header2 =
+    .label = Shkronja
+default-font-2 =
+    .label = Shkronja parazgjedhje
+    .accesskey = p
+default-font-size-2 =
+    .label = Madhësi
+    .accesskey = M
 preferences-fonts-header = Shkronja
 default-font = Shkronja parazgjedhje
     .accesskey = p
@@ -2161,3 +2169,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## AI controls page
+

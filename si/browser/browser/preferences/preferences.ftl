@@ -286,6 +286,14 @@ preferences-colors-description = පෙළ, අඩවිවල පසුබි�
 preferences-colors-manage-button =
     .label = වර්ණ කළමනාකරණය...
     .accesskey = C
+preferences-fonts-header2 =
+    .label = රුවකුරු
+default-font-2 =
+    .label = පෙරනිමි රුවකුර
+    .accesskey = D
+default-font-size-2 =
+    .label = තරම
+    .accesskey = S
 preferences-fonts-header = රුවකුරු
 default-font = පෙරනිමි රුවකුර
     .accesskey = D
@@ -498,6 +506,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -617,6 +628,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -820,6 +837,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1607,3 +1629,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 choose-download-folder-title = බාගත වන බහාලුම තේරීම:
+
+## AI controls page
+

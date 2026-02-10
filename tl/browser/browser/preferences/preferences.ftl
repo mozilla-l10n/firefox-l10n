@@ -180,6 +180,14 @@ preferences-web-appearance-choice-input-light =
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-colors-header = Mga kulay
+preferences-fonts-header2 =
+    .label = Mga font
+default-font-2 =
+    .label = Default na font
+    .accesskey = D
+default-font-size-2 =
+    .label = Laki
+    .accesskey = S
 preferences-fonts-header = Mga font
 default-font = Default na font
     .accesskey = D
@@ -374,6 +382,9 @@ update-in-progress-ok-button = Isantabi
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Magpatuloy
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -484,6 +495,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gumamit ng Bookmark...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -655,6 +672,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Hindi pa verified ang { $email }.
 sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -964,6 +986,12 @@ sitedata-cookies-exceptions =
 cookies-site-data-group =
     .label = Mga Cookie at Site Data
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Address Bar
@@ -1151,6 +1179,9 @@ collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa b
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1200,8 +1231,14 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Mga Download
 choose-download-folder-title = Pumili ng Download Folder:
+
+## AI controls page
+

@@ -137,6 +137,12 @@ containers-remove-cancel-button = কনটেইনার মুছে ফে�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ভাষা এবং উপস্থিতি
+default-font-2 =
+    .label = ডিফল্ট ফন্ট
+    .accesskey = D
+default-font-size-2 =
+    .label = আকার
+    .accesskey = S
 default-font = ডিফল্ট ফন্ট
     .accesskey = D
 default-font-size = আকার
@@ -876,3 +882,6 @@ certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
+
+## AI controls page
+

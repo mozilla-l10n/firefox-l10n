@@ -367,6 +367,14 @@ preferences-colors-description = Sostituìs i colôrs predefinîts di { -brand-s
 preferences-colors-manage-button =
     .label = Gjestìs colôrs…
     .accesskey = c
+preferences-fonts-header2 =
+    .label = Caratars
+default-font-2 =
+    .label = Caratar predefinît
+    .accesskey = d
+default-font-size-2 =
+    .label = Dimension
+    .accesskey = s
 preferences-fonts-header = Caratars
 default-font = Caratar predefinît
     .accesskey = d
@@ -2161,3 +2169,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+
