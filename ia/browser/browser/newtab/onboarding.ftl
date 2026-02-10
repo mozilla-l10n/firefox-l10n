@@ -569,3 +569,8 @@ onboarding-personalization-motivation-title = Qual functiones de { -brand-short-
 onboarding-personalization-motivation-privacy-option = Confidentialitate e securitate
 onboarding-personalization-motivation-productivity-option = Productivitate
 onboarding-personalization-motivation-other-option = Altere
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } es tu supporto

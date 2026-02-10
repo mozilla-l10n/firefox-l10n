@@ -146,3 +146,31 @@ ip-protection-bandwidth-left-gb =
         [one] { $usageLeft } Go restant sur { $maxUsage } Go
        *[other] { $usageLeft } Go restants sur { $maxUsage } Go
     }
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb =
+    { $usageLeft ->
+        [one] { $usageLeft } Mo restant sur { $maxUsage } Go ce mois-ci
+       *[other] { $usageLeft } Mo restants sur { $maxUsage } Go ce mois-ci
+    }
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb =
+    { $usageLeft ->
+        [one] { $usageLeft } Mo restant sur { $maxUsage } Go
+       *[other] { $usageLeft } Mo restants sur { $maxUsage } Go
+    }
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Le quota est réinitialisé à { $maxUsage } Go le premier jour de chaque mois.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } Go de VPN, remis à zéro et prêt à l’emploi
