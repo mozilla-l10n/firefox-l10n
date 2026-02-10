@@ -77,3 +77,24 @@ ipprotection-connection-status-paused-description = { $maxUsage } GB의 VPN 데�
 upgrade-vpn-title = 브라우저를 넘어선 추가 보호를 받으세요
 upgrade-vpn-description = VPN 위치를 선택하고, 모든 앱과 최대 5개의 기기에 VPN을 사용하고, 집이든 공용 Wi-Fi든 모든 네트워크에서 보안을 유지하세요.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } 사용해보기
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = VPN에 연결할 수 없음
+ipprotection-connection-status-generic-error-description = 몇 분 후 다시 시도하세요.
+ipprotection-connection-status-network-error-title = 인터넷 연결 확인
+ipprotection-connection-status-network-error-description = 인터넷에 연결하고, VPN을 켜보세요.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = VPN 사용 한도에 가까워지는 중
+    .message = 이번 달에는 { $maxUsage } GB 중 { $usageLeft } GB가 남았습니다.
+ipprotection-message-continuous-onboarding-intro = VPN을 켜서 위치를 숨기고 탐색에 암호화를 추가하세요.
+ipprotection-message-continuous-onboarding-autostart = { -brand-short-name }를 열 때마다 <a data-l10n-name="setting-link">VPN을 켜도록 설정</a>하여 추가 보호 계층을 사용하세요.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }는 VPN을 사용하도록 설정한 웹 사이트를 기억합니다. <a data-l10n-name="setting-link">설정</a>에서 언제든지 변경할 수 있습니다.
+confirmation-hint-ipprotection-navigated-to-excluded-site = 이 사이트에서 VPN 꺼짐
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = 내장 VPN이 마음에 드세요? { -mozilla-vpn-brand-name }으로 { -brand-product-name } 외부에서 더 많은 보호를 받으세요.
