@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Masca tu email e numero de telephono real
 appmenuitem-services-relay-description = Lancear le pannello de controlo del mascas de e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Obtene protection pro tote le apparato
 appmenuitem-vpn-description = Protege tu activitate online
 appmenu-services-header = Mi servicios
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

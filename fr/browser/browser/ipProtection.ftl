@@ -120,3 +120,29 @@ ip-protection-autostart-checkbox =
     .label = À l’ouverture de { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Dans les fenêtres de navigation privée
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Gérer les paramètres des sites web
+ip-protection-exclusions-desc = Utiliser le VPN pour tous les sites web, sauf pour ceux de cette liste. Ajoutez un site web ici ou en ouvrant le VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Données VPN mensuelles
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb =
+    { $usageLeft ->
+        [one] { $usageLeft } Go restant sur { $maxUsage } Go ce mois-ci
+       *[other] { $usageLeft } Go restants sur { $maxUsage } Go ce mois-ci
+    }
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb =
+    { $usageLeft ->
+        [one] { $usageLeft } Go restant sur { $maxUsage } Go
+       *[other] { $usageLeft } Go restants sur { $maxUsage } Go
+    }

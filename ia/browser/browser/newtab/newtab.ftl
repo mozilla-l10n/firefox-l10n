@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personalisar
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Ignorar
+    .aria-label = Ignorar
 
 ## Search box component.
 
