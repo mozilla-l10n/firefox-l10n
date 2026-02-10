@@ -130,9 +130,20 @@ preferences-manage-profiles-button =
     .label = دؽوۉداری پوروفایلا
 preferences-profiles-settings-button =
     .label = سامووا
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = پوروفایل سی لف گیری
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = پسند پوروفایل
 preferences-copy-profile-button = لف گیری
 tabs-group-header2 =
     .label = بلگه یل
+tabs-opening-heading =
+    .label = هونی اگوئشه
 tabs-group-header = بلگه یل
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab و ترتیب بلگه یلی ک هیم دمۊوی و کار گرؽڌه وابینه منجاسووݩ هرکت اکونه
@@ -171,6 +182,11 @@ browser-containers-settings =
     .accesskey = i
 startup-group =
     .label = ره وندن
+
+##
+
+containers-disable-alert-cancel-button = فعال بمهنه
+browser-layout-header = تئر بندی گشت گر
 
 ## General Section - Language & Appearance
 

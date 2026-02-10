@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introduserer VPN, nå rett i nettleseren din
+ipprotection-feature-introduction-link-text = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine med ekstra kryptering.
+ipprotection-feature-introduction-link-text-private-browsing = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine med ekstra kryptering, selv når du er i et privat vindu.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nå
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
@@ -31,12 +33,18 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Velg hvor du bruker VPN
+ipprotection-site-settings-callout-subtitle = Slå av VPN for et bestemt nettsted, så husker vi det neste gang du besøker det.
 ipprotection-site-settings-callout-button = Jeg forstår
 
 ## Panel
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
+unauthenticated-hide-location-message = Skjul plasseringen din og legg til ekstra kryptering i nettlesingen din i { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data hver måned.
 unauthenticated-get-started = Kom i gang
+site-exclusion-toggle-label = Bruk VPN for dette nettstedet
 site-exclusion-toggle-enabled =
     .aria-label = VPN er på for dette nettstedet
 site-exclusion-toggle-disabled =
@@ -67,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN satt på pause
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
 upgrade-vpn-title = Få ekstra beskyttelse utover nettleseren
+upgrade-vpn-description = Velg VPN-plasseringen din, bruk VPN for alle appene dine og på opptil 5 enheter, og vær trygg på alle nettverk — hjemme eller på offentlig Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
 ## Messages and errors
