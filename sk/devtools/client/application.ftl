@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Skripty typu worker
     .alt = Ikona Skripty typu worker
     .title = Skripty typu worker
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = História relácií
+    .alt = Ikona histórie relácií
+    .title = História relácií
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Zobraziť údaje histórie relácií
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona varovania

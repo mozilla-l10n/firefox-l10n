@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Prispôsobiť
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Zavrieť
+    .aria-label = Zavrieť
 
 ## Search box component.
 
