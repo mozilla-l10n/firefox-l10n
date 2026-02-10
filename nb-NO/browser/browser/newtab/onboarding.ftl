@@ -569,3 +569,20 @@ onboarding-personalization-motivation-title = Hvilke funksjoner i { -brand-short
 onboarding-personalization-motivation-privacy-option = Personvern og sikkerhet
 onboarding-personalization-motivation-productivity-option = Produktivitet
 onboarding-personalization-motivation-other-option = Annen
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Vi beskytter dataene dine og blokkerer selskaper fra å spionere på klikkene dine — automatisk.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Du er i trygge poter
+onboarding-refresh-import-subtitle = Ta med deg passord, bokmerker, historikk og mer.
+onboarding-refresh-import-title = Få { -brand-short-name } til å føles mer som hjemme
+onboarding-refresh-onboarding-addons-subtitle = Utvidelser er små apper som lar deg tilpasse { -brand-short-name }. De kan styrke personvernet ditt, øke produktiviteten, endre hvordan { -brand-short-name } ser ut og mye mer.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Gi nettlesingen din et løft
+onboarding-refresh-sync-subtitle = Få tilgang til bokmerker, passord og mer overalt der du er logget på { -brand-short-name }. I tillegg er dataene dine kryptert slik at bare du kan se dem.
+onboarding-refresh-sync-title = Dra hvor som helst. Synkroniser alt.
+onboarding-refresh-gratitude-subtitle = Takk for at du bruker { -brand-short-name }, den eneste store nettleseren som støttes av en ideell organisasjon. Med din støtte jobber vi for å gjøre internett tryggere og mer tilgjengelig for alle.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } passer på deg
