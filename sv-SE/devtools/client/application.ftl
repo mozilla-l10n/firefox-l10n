@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Service Workers
     .alt = Service Workers-ikon
     .title = Service Workers
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Sessionshistorik
+    .alt = Sessionshistorik ikon
+    .title = Sessionshistorik
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Visa sessionshistorik
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Varningsikon
