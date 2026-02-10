@@ -42,7 +42,7 @@ unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-p
 unauthenticated-hide-location-message = הסתרת המיקום שלך והוספת הצפנה נוספת לגלישה שלך בתוך { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = קבלת ‎{ $maxUsage } GB של נתוני VPN בחינם בכל חודש.
+unauthenticated-bandwidth-limit-message = קבלת { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
 unauthenticated-get-started = תחילת עבודה
 site-exclusion-toggle-label = שימוש ב־VPN עבור אתר זה
 site-exclusion-toggle-enabled =
@@ -73,7 +73,7 @@ ipprotection-button-connecting = בתהליך הפעלה…
 ipprotection-connection-status-paused-title = ה־VPN הושהה
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = השתמשת בכל ‎{ $maxUsage } GB של נתוני ה־VPN שלך. הגישה תתאפס בחודש הבא.
+ipprotection-connection-status-paused-description = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה תתאפס בחודש הבא.
 upgrade-vpn-title = קבלת הגנה נוספת מעבר לדפדפן
 upgrade-vpn-description = ניתן לבחור את מיקום ה־VPN שלך, להשתמש ב־VPN עבור כל היישומים שלך ועד 5 מכשירים, ולהישאר מאובטח בכל רשת - בבית או ב־Wi-Fi ציבורי.
 upgrade-vpn-button = לנסות את { -mozilla-vpn-brand-name }
@@ -90,6 +90,33 @@ ipprotection-connection-status-network-error-description = יש התחבר לא�
 ipprotection-message-bandwidth-warning =
     .heading = הגעת כמעט למגבלת ה־VPN שלך
     .message = נשארו לך { $usageLeft } ג״ב מתוך { $maxUsage } ג״ב בחודש הזה.
+ipprotection-message-continuous-onboarding-intro = ניתן להפעיל VPN כדי להסתיר את המיקום שלך ולהוסיף הצפנה נוספת לגלישה שלך.
+ipprotection-message-continuous-onboarding-autostart = ניתן <a data-l10n-name="setting-link">להגדיר שה־VPN יופעל</a> בכל פעם ש־{ -brand-short-name } נפתח, לקבלת שכבת הגנה נוספת.
+ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } יזכור באילו אתרים הגדרת להשתמש ב־VPN. ניתן לעדכן אותם ב<a data-l10n-name="setting-link">הגדרות</a> בכל עת.
+confirmation-hint-ipprotection-navigated-to-excluded-site = ה־VPN כבוי עבור אתר זה
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = אהבת את ה־VPN המובנה? ניתן לקבל אפילו עוד יותר הגנה מחוץ ל־{ -brand-product-name } באמצעות { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = ניתן לבחור מיקום VPN ולהוסיף הגנה לכל היישומים שלך ב־5 מכשירים לכל היותר, בין אם הינך בבית או ברשת Wi-Fi ציבורית.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>הגעת כמעט למגבלת ה־VPN שלך.</strong> נשארו לך { $usageLeft } ג״ב. הנתונים שלך יתאפסו בתחילת החודש הבא.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>כמעט נגמרו לך נתוני VPN הניתנים לשימוש.</strong> נשארו לך { $usageLeft } ג״ב. לאחר שכל הנתונים ינוצלו, ה־VPN שלך יושהה עד שהנתונים שלך יתאפסו בתחילת החודש הבא.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = ‏VPN מובנה כדי לשפר את הפרטיות שלך בזמן הגלישה ב־{ -brand-short-name }.
+ip-protection-learn-more = מידע נוסף
+ip-protection-site-exceptions =
+    .label = הגדרות אתרים ספציפיים
 
 ## IP Protection bandwidth reset callout
 
@@ -101,7 +128,7 @@ ipprotection-bandwidth-reset-button = הבנתי
 vpn-paused-alert-title = ה־VPN הושהה
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-paused-alert-body = השתמשת בכל ‎{ $maxUsage } GB של נתוני ה־VPN שלך. הגישה ל־VPN תתאפס בחודש הבא.
+vpn-paused-alert-body = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה ל־VPN תתאפס בחודש הבא.
 vpn-paused-alert-close-tabs-button = סגירת כל הלשוניות
 vpn-paused-alert-continue-wo-vpn-button = המשך ללא VPN
 vpn-error-alert-title = ה־VPN לא עובד כרגע.
