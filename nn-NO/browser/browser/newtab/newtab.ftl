@@ -721,5 +721,12 @@ newtab-promo-card-dismiss-button =
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
+newtab-activation-window-message-dismiss-button =
+    .title = Ignorer
+    .aria-label = Ignorer
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Gjer dette området til ditt eige
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Start tilpassing
