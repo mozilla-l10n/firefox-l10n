@@ -110,6 +110,13 @@ sidebar-item-manifest = 매니페스트
 sidebar-item-service-workers = Service Worker
     .alt = Service Worker 아이콘
     .title = Service Worker
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = 세션 기록
+    .alt = 세션 기록 아이콘
+    .title = 세션 기록
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = 세션 기록 데이터 보기
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 경고 아이콘

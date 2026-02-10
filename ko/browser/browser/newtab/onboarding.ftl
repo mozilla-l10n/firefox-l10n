@@ -569,3 +569,10 @@ onboarding-personalization-motivation-title = 가장 중요하게 생각하는 {
 onboarding-personalization-motivation-privacy-option = 개인 정보 및 보안
 onboarding-personalization-motivation-productivity-option = 생산성
 onboarding-personalization-motivation-other-option = 기타
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = 자동으로 사용자의 데이터를 보호하고 기업이 사용자의 클릭을 감시하지 못하도록 차단합니다.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = 여러분은 안전합니다
