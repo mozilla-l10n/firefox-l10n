@@ -2291,3 +2291,4 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulla
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blocca
+
