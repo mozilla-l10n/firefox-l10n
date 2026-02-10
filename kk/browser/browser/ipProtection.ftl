@@ -176,11 +176,18 @@ ip-protection-bandwidth-help-text = Әр айдың бірінші күнінд�
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN деректері, жаңартылды және пайдалануға дайын
+ipprotection-bandwidth-reset-text = Жекелікті арттыру үшін VPN-ді іске қосыңыз, ол ай сайын тегін беріледі.
 ipprotection-bandwidth-reset-button = Түсіндім
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN аялдатылды
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Сіз VPN деректеріңіздің барлық { $maxUsage } ГБ көлемін пайдаландыңыз. VPN-ге қол жеткізу мүмкіндігі келесі айда қалпына келтіріледі.
 vpn-paused-alert-close-tabs-button = Барлық беттерді жабу
 vpn-paused-alert-continue-wo-vpn-button = VPN-сіз жалғастыру
 vpn-error-alert-title = VPN қазір жұмыс істеп тұрған жоқ.

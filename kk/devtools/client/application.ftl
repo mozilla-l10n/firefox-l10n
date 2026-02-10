@@ -114,6 +114,9 @@ sidebar-item-service-workers = Service Workers
 sidebar-item-session-history = Сессия тарихы
     .alt = Сессия тарихы таңбашасы
     .title = Сессия тарихы
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Сессия тарихының деректерін көрсету
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ескерту таңбашасы
