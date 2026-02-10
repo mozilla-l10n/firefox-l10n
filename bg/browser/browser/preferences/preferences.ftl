@@ -15,6 +15,8 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Предпочитания за поверителност към сайтовете
 non-technical-privacy-header = Предпочитания за поверителност към сайтовете
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -51,6 +53,7 @@ category-privacy =
 pane-sync-title3 = Sync
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = AI контрол
 pane-experimental-title = Опити с { -brand-short-name }
 category-experimental =
     .tooltiptext = Опити с { -brand-short-name }
@@ -60,6 +63,7 @@ pane-experimental-description2 = Промяната на разширените 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Опитайте нашите експериментални функции! Те са в процес на разработка, което може да повлияе на работата на { -brand-short-name }. Получаваме данни за използването от ваша страна на тези функции само ако сте включили <a data-l10n-name="data-collection">технически данни и данни за взаимодействие</a>.
 pane-experimental-description3 = Опитайте нашите експериментални функции! Те са в процес на разработка, което може да повлияе на работата на { -brand-short-name }.
 pane-experimental-reset =
     .label = Възстановяване на стандартните настройки
@@ -1703,3 +1707,21 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Плот
 downloads-folder-name = Изтегляния
 choose-download-folder-title = Избиране на папка за изтегляне:
+
+## AI controls page
+
+preferences-ai-controls-block-ai-label = Блокиране на AI подобренията
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Блокирането означава, че няма да виждате нови или текущи подобрения на AI в { -brand-short-name } или изскачащи прозорци за тях. <a data-l10n-name="link">Получете повече подробности</a> за това какво е включено и как да контролирате традиционните функции за машинно обучение, като предложения и препоръки за търсене.
+preferences-ai-controls-blocked-message =
+    .message = Новите и текущите подобрения на AI са блокирани по подразбиране. За да отблокирате конкретна функция, използвайте контролите по-долу.
+preferences-ai-controls-on-device-group =
+    .label = AI на устройството
+    .description = Тo използва малки AI модели, които се изтеглят на вашето устройство, ако използвате функцията. Този подход помага за защита на вашата поверителност.
+preferences-ai-controls-translations-control =
+    .label = Превеждане
+    .description = Безпроблемно сърфиране в Интернет на предпочитания от вас език.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Доставчици на чатбот с AI в страничната лента
+    .description = Задържане на чатбота на екрана при сърфиране. Избор между Anthropic Claude, ChatGPT, Copilot, Google Gemini и Le Chat Mistral.

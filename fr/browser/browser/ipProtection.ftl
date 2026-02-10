@@ -45,3 +45,34 @@ ipprotection-connection-status-excluded = Le VPN est désactivé pour ce site
 ipprotection-connection-status-connecting = Le VPN est en cours de connexion…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Désactiver le VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Désactiver le VPN partout
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Activer le VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Activation…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN mis en pause
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-description = Réessayez dans quelques minutes.
+ipprotection-connection-status-network-error-title = Vérifiez votre connexion à Internet
+ipprotection-connection-status-network-error-description = Connectez-vous à Internet, puis essayez d’activer le VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Vous êtes sur le point d’atteindre la limite du VPN
+    .message = Il vous reste { $usageLeft } Go sur { $maxUsage } Go ce mois-ci.
+ipprotection-message-continuous-onboarding-intro = Activez le VPN afin de dissimuler votre localisation et renforcer la sécurité de votre navigation grâce à un chiffrement supplémentaire.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = VPN intégré pour renforcer votre confidentialité lorsque vous naviguez avec { -brand-short-name }.
+ip-protection-learn-more = En savoir plus
