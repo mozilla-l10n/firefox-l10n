@@ -104,6 +104,17 @@ ip-protection-not-opted-in-button = Comenciar
 ip-protection-autostart-private-checkbox =
     .label = In fenestras private
 
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB de { $maxUsage } GB restante iste mense
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } MB de { $maxUsage } GB restante iste mense
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = OK
