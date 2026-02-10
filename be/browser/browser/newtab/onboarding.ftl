@@ -569,3 +569,7 @@ onboarding-personalization-motivation-title = Якія асаблівасці { 
 onboarding-personalization-motivation-privacy-option = Прыватнасць і бяспека
 onboarding-personalization-motivation-productivity-option = Прадукцыйнасць
 onboarding-personalization-motivation-other-option = Іншае
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-import-title = Зрабіце { -brand-short-name } больш утульным

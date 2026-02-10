@@ -422,6 +422,18 @@ website-add-language =
 website-add-language-button =
     .aria-label = Дадаць абраную мову
     .title = Дадаць абраную мову
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Выдаліць { $locale }
+    .title = Выдаліць { $locale }
 choose-button =
     .label = Выбраць…
     .accesskey = В
@@ -849,6 +861,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Пакуль не дададзены ніводны сайт.
+home-custom-homepage-delete-address-button =
+    .aria-label = Выдаліць адрас
+    .title = Выдаліць адрас
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Пакуль не дададзены ніводны сайт.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -2215,3 +2230,16 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Працоўны стол
 downloads-folder-name = Сцягванні
 choose-download-folder-title = Выбар папкі сцягванняў:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Даступны
+preferences-ai-controls-block-confirmation-translations = Пераклады
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Скасаваць
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Блакаваць

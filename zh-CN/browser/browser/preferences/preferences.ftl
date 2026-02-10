@@ -2249,7 +2249,7 @@ preferences-ai-controls-key-points-control =
     .description = 打开链接前快速查看摘要。
 preferences-ai-controls-sidebar-chatbot-group =
     .label = 侧栏中 AI 聊天机器人的提供方
-    .description = 同屏使用聊天机器人和浏览网页，有 Anthropic Claude、ChatGPT、Copilot、Google Gemini、Le Chat Mistral 可选。
+    .description = 同屏使用聊天机器人和浏览网页，可选择 Anthropic Claude、ChatGPT、Copilot、Google Gemini 或 Le Chat Mistral。
 preferences-ai-controls-sidebar-chatbot-control =
     .label = 侧栏中的聊天机器人
 # This option means that a user will see the feature and can use it.
