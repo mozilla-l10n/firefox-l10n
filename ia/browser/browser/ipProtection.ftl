@@ -172,12 +172,25 @@ ip-protection-bandwidth-left-mb = { $usageLeft } MB de { $maxUsage } GB restante
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso se reinitialisara le mense proxime.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Remonta a { $maxUsage } GB in le prime die de cata mense.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, renovate e preste a ir
+ipprotection-bandwidth-reset-text = Activa le VPN pro un pulsata de ulterior confidentialitate, gratuite cata mense.
 ipprotection-bandwidth-reset-button = OK
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN pausate
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso del VPN se reinitialisara le mense proxime.
 vpn-paused-alert-close-tabs-button = Clauder tote le schedas
+vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
+vpn-error-alert-title = Le VPN non functiona a iste momento.
 vpn-error-alert-body = Retenta plus tarde.

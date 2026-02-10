@@ -39,3 +39,13 @@ ipprotection-site-settings-callout-button = 확인
 ## Panel
 
 unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용해 보세요
+unauthenticated-hide-location-message = { -brand-product-name } 안에서 탐색할 때 위치를 숨기고 추가 암호화를 추가하세요.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
+unauthenticated-get-started = 시작하기
+site-exclusion-toggle-label = 이 사이트에 VPN 사용
+site-exclusion-toggle-enabled =
+    .aria-label = 이 사이트에서 VPN이 켜짐
+site-exclusion-toggle-disabled =
+    .aria-label = 이 사이트에서 VPN이 꺼짐
