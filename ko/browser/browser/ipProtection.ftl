@@ -20,3 +20,22 @@ ipprotection-experiment-badge =
 ipprotection-help-button =
     .tooltiptext = VPN 지원 페이지 열기
 ipprotection-title = VPN
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
+ipprotection-feature-introduction-link-text = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 추가 암호화로 데이터를 보호하세요.
+ipprotection-feature-introduction-link-text-private-browsing = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 사용자 위치를 숨기고 추가 암호화로 데이터를 보호합니다.
+ipprotection-feature-introduction-button-primary = 다음
+ipprotection-feature-introduction-button-secondary-not-now = 나중에
+ipprotection-feature-introduction-button-secondary-no-thanks = 아니요
+
+## Site settings callout
+
+ipprotection-site-settings-callout-title = VPN 사용 위치 선택
+ipprotection-site-settings-callout-subtitle = 특정 사이트에 대해 VPN을 끄면 다음에 방문할 때 해당 사이트를 기억합니다.
+ipprotection-site-settings-callout-button = 확인
+
+## Panel
+
+unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용해 보세요
