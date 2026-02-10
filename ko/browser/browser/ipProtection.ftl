@@ -98,3 +98,39 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = 이 사이트에서 
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = 내장 VPN이 마음에 드세요? { -mozilla-vpn-brand-name }으로 { -brand-product-name } 외부에서 더 많은 보호를 받으세요.
+ipprotection-bandwidth-upgrade-text = 집이나 공용 Wi-Fi 등 상관없이 VPN 위치를 선택하고 최대 5대의 기기에서 모든 앱에 보호 기능을 추가하세요.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN 사용 한도에 도달했습니다.</strong> { $usageLeft } GB가 남았습니다. 사용자의 데이터는 다음 달 초에 초기화됩니다.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN 데이터가 거의 소진되었습니다.</strong> { $usageLeft } GB가 남았습니다. 모두 사용하면 다음 달 1일에 데이터가 초기화될 때까지 VPN이 일시 중지됩니다.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = { -brand-short-name }에서 검색하는 동안 개인정보 보호를 강화하는 VPN이 내장되어 있습니다.
+ip-protection-learn-more = 더 알아보기
+ip-protection-site-exceptions =
+    .label = 사이트별 설정
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
+    .message = { -brand-short-name }에서 사용자의 위치를 ​​숨기고 검색에 추가 암호화를 추가하세요. 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
+ip-protection-not-opted-in-button = 시작하기
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = 웹 사이트 설정 관리
+    .description = 웹 사이트 { $count }개
+ip-protection-autostart =
+    .label = 자동으로 VPN 켜기
+ip-protection-autostart-checkbox =
+    .label = { -brand-short-name }를 열 때
+ip-protection-autostart-private-checkbox =
+    .label = 사생활 보호 창에서
