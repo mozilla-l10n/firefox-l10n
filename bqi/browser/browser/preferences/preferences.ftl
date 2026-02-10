@@ -59,6 +59,7 @@ pane-experimental-description2 = آلشت سامووا پؽش رئڌه تره ر
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description3 = ویژیی یل آزمایشی ایما ن امتهووݩ کۊنین! هونووݩ هونی برنومه نویسی وو کامل ابۊن، ک ترن ری کارایی { -brand-short-name } ٱسر داشته بۊن.
 pane-experimental-reset =
     .label = وورگندن پؽش فرزا
     .accesskey = R
