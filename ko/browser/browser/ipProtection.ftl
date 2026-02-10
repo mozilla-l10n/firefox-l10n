@@ -134,3 +134,57 @@ ip-protection-autostart-checkbox =
     .label = { -brand-short-name }를 열 때
 ip-protection-autostart-private-checkbox =
     .label = 사생활 보호 창에서
+ip-protection-vpn-upgrade-link =
+    .label = { -mozilla-vpn-brand-name }으로 { -brand-short-name } 외부에서 더 많은 보호 받기
+    .description = 집이나 공용 Wi-Fi 등 상관없이 사용자 지정 VPN 위치를 선택하고 최대 5대의 기기에서 모든 앱에 보호 기능을 추가하세요.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = 웹 사이트 설정 관리
+ip-protection-exclusions-desc = 이 목록에 있는 웹 사이트를 제외한 모든 웹 사이트에서 VPN을 사용하세요. 여기에서 또는 VPN을 열어 웹 사이트를 추가하세요.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = 월간 VPN 데이터
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = 이번 달에는 { $maxUsage } GB 중 { $usageLeft } GB 남음
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $maxUsage } GB 중 { $usageLeft } GB 남음
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = 이번 달에는 { $maxUsage } GB 중 { $usageLeft } MB 남음
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $maxUsage } GB 중 { $usageLeft } MB 남음
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = { $maxUsage } GB의 VPN 데이터를 모두 사용했습니다. 접근 권한이 다음 달에 초기화됩니다.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = 매월 1일에 { $maxUsage } GB로 초기화합니다.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, 준비 완료
+ipprotection-bandwidth-reset-text = VPN을 켜서 개인 정보 보호를 더욱 강화하세요. 매달 무료로 제공해드립니다.
+ipprotection-bandwidth-reset-button = 확인
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN 일시 중지됨
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = { $maxUsage } GB의 VPN 데이터를 모두 사용했습니다. 다음 달에 VPN 접근이 초기화됩니다.
+vpn-paused-alert-close-tabs-button = 모든 탭 닫기
+vpn-paused-alert-continue-wo-vpn-button = VPN 없이 계속하기
+vpn-error-alert-title = VPN이 지금 작동하지 않습니다.
+vpn-error-alert-body = 나중에 다시 시도하세요.
