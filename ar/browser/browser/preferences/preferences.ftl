@@ -1845,8 +1845,13 @@ choose-download-folder-title = اختر مجلّد التّنزيلات:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = لديك دائمًا خيار في { -brand-short-name }، بما في ذلك ما إذا كنت ترغب في استخدام الميزات المحسّنة بالذكاء الاصطناعي. المزيد من عناصر التحكم قادمة قريبًا.
+preferences-ai-controls-block-ai-label = احظر تحسينات الذكاء الاصطناعي
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = يعني الحظر أنك لن ترى تحسينات الذكاء الاصطناعي الجديدة أو الحالية في { -brand-short-name }، أو النوافذ المنبثقة المتعلقة بها. <a data-l10n-name="link">للحصول على مزيد من التفاصيل</a> حول ما هو مُضمّن وكيفية التحكم في ميزات التعلّم الآلي التقليدية، مثل اقتراحات البحث والتوصيات.
+preferences-ai-controls-blocked-message =
+    .message = تُحظر التحسينات الجديدة والحالية للذكاء الاصطناعي مبدئيًا. لإلغاء حظر ميزة معينة، استخدم عناصر التحكم أدناه.
 preferences-ai-controls-translations-control =
     .label = الترجمات
     .description = تصفح الوِب بسهولة في لغتك المفضلة.
