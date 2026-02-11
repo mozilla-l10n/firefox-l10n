@@ -114,6 +114,12 @@ ip-protection-description =
 ip-protection-learn-more = 详细了解
 ip-protection-site-exceptions =
     .label = 特定网站设置
+ip-protection-not-opted-in-button = 开始使用
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = 管理网站设置
+    .description = { $count } 个网站
 ip-protection-autostart =
     .label = 自动开启 VPN
 ip-protection-autostart-private-checkbox =

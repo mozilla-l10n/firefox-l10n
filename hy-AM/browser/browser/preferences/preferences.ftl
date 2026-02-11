@@ -269,6 +269,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = ս
 browser-layout-header2 =
     .label = Դիտարկիչի դասավորությունը
+browser-layout-horizontal-tabs2 =
+    .label = Հորիզոնական ներդիրներ
+    .title = Ներդիրները վերևում
+    .description = Ներդիրները վերևում
+browser-layout-vertical-tabs2 =
+    .label = Ուղղահայաց ներդիրներ
+    .title = Ներդիրները կողքից, կողագոտիում
+    .description = Ներդիրները կողքից, կողագոտիում
 browser-layout-show-sidebar2 =
     .label = Ցուցադրել կողագոտի
     .description = Արագորեն մատչեք Ձեր էջանիշերը, ներդիրները հեռապխոսից, ԱԲ չաթ-բոթերը և ավելին՝ առանց լքելու հիմնական տեսքը:
@@ -421,6 +429,40 @@ settings-translations-subpage-automatic-translation-header =
     .label = Ինքնաշխատ թարգմանություն
 settings-translations-subpage-always-translate-header =
     .label = Միշտ թարգմանեք այս լեզուները
+settings-translations-subpage-never-translate-header =
+    .label = Երբեք չթարգմանել այս լեզուները
+settings-translations-subpage-never-translate-sites-header =
+    .label = Երբեք մի թարգմանեք այս կայքերը
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Կայք ավելացնելու համար բացեք <img data-l10n-name="translations-icon"/> թարգմանության վահանակը, ընտրեք <img data-l10n-name="settings-icon"/> թարգմանության կարգավորումները, ապա ընտրեք «Երբեք չթարգմանել այս կայքը»
+settings-translations-subpage-language-select-option =
+    .label = Ավելացնել լեզու
+settings-translations-subpage-language-add-button =
+    .aria-label = Ավելացնել լեզու
+    .title = Ավելացնել լեզու
+settings-translations-subpage-download-languages-header =
+    .label = Լեզուների ներբեռնում
+settings-translations-subpage-download-languages-select-option =
+    .label = Ընտրեք լեզուն
+settings-translations-subpage-download-languages-button =
+    .aria-label = Ներբեռնեք լեզուն
+    .title = Ներբեռնեք լեզուն
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } ՄԲ)
+    .label = { $language } ({ $size } ՄԲ)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Լեզուներ չեն ներբեռնվել
+settings-translations-subpage-no-languages-added =
+    .label = Լեզուներ չեն ավելացվել
+settings-translations-subpage-download-progress = Ներբեռնումն ընթացքի մեջ է…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Հնարավոր չէ ներբեռնել { $language }-ը ({ $size } ՄԲ)
+settings-translations-subpage-download-retry-button =
+    .label = Կրկին փորձել
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
@@ -604,6 +646,8 @@ support-application-heading =
     .description = Խափանազերծեք խնդիրները կամ համօգտագործեք գաղափարներ համայնքի հետ:
 support-get-help =
     .label = Ստանալ օգնություն
+support-share-ideas =
+    .label = Կիսվեք գաղափարներով և արձագանքներով
 
 ## General Section - Performance
 
@@ -659,6 +703,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Միացնում է Նկարը նկարում տեսանյութի կառավարները
     .accesskey = E
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Շարունակեք տեսանյութերի նվագարկումը «Նկար նկարի մեջ» ռեժիմում՝ ներդիրները փոխելիս
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Իմանալ ավելին
 browsing-media-control =
     .label = Կառավարել մեդիան ստեղնաշարի, ականջակալների կամ վիրտուալ միջերեսի միջոցով
@@ -720,6 +767,8 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Կառավարել ընդլայնումը
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-url = Ընտրեք որոշակի կայք
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -785,6 +834,9 @@ home-prefs-content-header =
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
 home-prefs-recommended-by-description-new = Բացառիկ բովանդակություն, որը կազմվել է { $provider }-ի կողմից, որը { -brand-product-name } ընտանիքի մաս է կազմում։
+home-prefs-recommended-by-header-generic =
+    .label = Առաջարկվող պատմություններ
+home-prefs-recommended-by-description-generic = { -brand-product-name } ընտանիքի կողմից ընտրված բացառիկ բովանդակություն
 home-prefs-stories-header =
     .label = Պատմություններ
 
@@ -815,6 +867,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Հուշումներ, նորություններ { -vendor-short-name }-ից և { -brand-product-name }-ից
 home-prefs-weather-header =
     .label = Եղանակ
+home-prefs-weather-description = Այսօրվա կանխատեսումը համառոտ
 home-prefs-weather-learn-more-link = Իմանալ ավելին
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =

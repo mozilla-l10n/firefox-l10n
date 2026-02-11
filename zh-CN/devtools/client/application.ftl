@@ -110,6 +110,13 @@ sidebar-item-manifest = 清单文件
 sidebar-item-service-workers = Service Worker
     .alt = Service Worker 图标
     .title = Service Worker
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = 会话历史
+    .alt = 会话历史图标
+    .title = 会话历史
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = 显示会话历史数据
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 警告图标

@@ -69,20 +69,20 @@ manifest-item-presentation = 展現資料
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = 圖示
 # Text displayed while we are loading the manifest file
-manifest-loading = 正在載入 manifest…
+manifest-loading = 正在載入安裝資訊檔…
 # Text displayed when the manifest has been successfully loaded
-manifest-loaded-ok = 已載入 manifest。
+manifest-loaded-ok = 已載入安裝資訊檔。
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
-manifest-loaded-error = 載入 manifest 時發生錯誤:
+manifest-loaded-error = 載入安裝資訊檔時發生錯誤：
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox 開發者工具發生錯誤
 # Text displayed when the page has no manifest available
-manifest-non-existing = 找不到可以檢測的 manifest。
+manifest-non-existing = 找不到可以檢測的安裝資訊檔。
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
-manifest-json-link-data-url = Manifest 嵌入於 Data URL 中。
+manifest-json-link-data-url = 安裝資訊嵌入於 Data URL 中。
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 # Variables:
@@ -104,12 +104,19 @@ manifest-icon-img-title = 下列大小的圖示: { $sizes }
 manifest-icon-img-title-no-sizes = 未指定大小的圖示
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
-    .alt = Manifest 圖示
+    .alt = 安裝資訊檔圖示
     .title = Manifest
 # Sidebar navigation item for Service Workers sidebar item section
 sidebar-item-service-workers = Service Worker
     .alt = Service Worker 圖示
     .title = Service Worker
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Session History
+    .alt = 使用階段紀錄圖示
+    .title = Session History
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = 顯示使用階段紀錄資料
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 警告圖示

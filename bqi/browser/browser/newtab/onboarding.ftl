@@ -93,9 +93,22 @@ mr1-onboarding-theme-description-dark =
     .aria-description =
         و کار گرؽڌن زمینه تاریک سی
         دویمه یل، نومگه یل وو نیمدری یل.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        و کار گرؽڌن زمینه پۊیا وو رنگی سی
+        دویمه یل، نومگه یل وو نیمدری یل.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        و کار گرؽڌن زمینه پۊیا وو رنگی سی
+        دویمه یل، نومگه یل وو نیمدری یل.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = واجۊری زمینه یل پؽش فرز.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = سی یو ک ایمانه پسند کردین، ممنووݩ دارتۊویم
 mr2-onboarding-start-browsing-button-label = ناهاڌن پا گشتن
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
@@ -109,6 +122,7 @@ mr2-onboarding-start-browsing-button-label = ناهاڌن پا گشتن
 
 onboarding-live-language-header = زووݩ خوته پسند کوݩ
 mr2022-onboarding-live-language-text = { -brand-short-name } و زووݩ ایسا گوفت وو لوفت اکونه
+onboarding-live-language-button-label-downloading = هونی بسته زووݩ ن سی { $negotiatedLanguage } دانلود اکونه…
 onboarding-live-language-waiting-button = گرؽڌن زووا من دسرس…
 onboarding-live-language-installing = هونی بسته زووݩ ن سی { $negotiatedLanguage } اپۊرنه…
 mr2022-onboarding-live-language-switch-to = آلشت و { $negotiatedLanguage }
@@ -116,10 +130,26 @@ mr2022-onboarding-live-language-continue-in = رئڌن وا پؽش من { $appLa
 onboarding-live-language-secondary-cancel-download = لقو
 onboarding-live-language-skip-button-label = گوم زیڌن
 
+## Firefox 100 Thank You screens
+
+fx100-upgrade-thanks-header = 100 ممنووݩ داری
+
 ## MR2022 New User Easy Setup screen strings
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = زفت کردن وو رئڌن وا پؽش
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+
+## MR2022 New User Set Default screen strings
+
+mr2022-onboarding-set-default-primary-button-label = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-get-started-primary-button-label = من چن سانیه ره ونین
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
