@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել
+do-not-track-removal = Մենք այլևս չենք աջակցում «Չհետևել» ազդանշանը
 do-not-track-learn-more = Իմանալ ավելին
 do-not-track-option-default-content-blocking-known =
     .label = Միայն երբ { -brand-short-name }-ը սահմանված է արգելափակել հայտնի վնասները։
@@ -14,6 +15,8 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Կայքի գաղտնիության նախընտրանքներ
 non-technical-privacy-header = Կայքի գաղտնիության նախընտրանքներ
+non-technical-privacy-label =
+    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -50,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Համաժամեցում
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = ԱԲ կառավարում
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name } Փորձեր
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
@@ -149,14 +155,37 @@ preferences-data-migration-button =
     .accesskey = մ
 preferences-profiles-group-header =
     .heading = Պրոֆիլներ
+preferences-profiles-subpane-description =
+    .description = Յուրաքանչյուր պրոֆիլ ունի առանձին դիտարկման տվյալներ և կարգավորումներ, ներառյալ պատմությունը, գաղտնաբառերը և այլն։
 preferences-profiles-section-header =
     .label = Պրոֆիլներ
     .description = Յուրաքանչյուր պրոֆիլը ունի դիտարկումների առանձին տվյալներ և կարգավորումներ, ներառյալ՝ պատմությունը, գաղտնաբառերը և ավելին:
+preferences-profiles-header = Պրոֆիլներ
 preferences-manage-profiles-learn-more = Իմանալ ավելին
 preferences-manage-profiles-button =
     .label = Կառավարել պրոֆիլները
+preferences-profiles-settings-button =
+    .label = Կարգավորումներ
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Պատճենելու համար նախատեսված պրոֆիլ
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Ընտրեք պրոֆիլ
+preferences-copy-profile-button = Պատճենել
 tabs-group-header2 =
     .label = Ներդիրներ
+tabs-opening-heading =
+    .label = Բացում
+tabs-interaction-heading =
+    .label = Փոխազդեցություն
+tabs-containers-heading =
+    .label = Պարունակներ
+tabs-closing-heading =
+    .label = Փակում
 tabs-group-header = Ներդիրներ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
@@ -275,6 +304,8 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-web-appearance-link =
     .label = Կառավարեք { -brand-short-name } ձևավորումները Ընդլայնումներ և Ձևավորումներում
+preferences-contrast-control-radio-group =
+    .label = Գույների փոխարինում
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Կառավարեք { -brand-short-name } ձևավորումները <a data-l10n-name="themes-link">Ընդլայնումներ և Ձևավորումներում</a>
@@ -500,6 +531,9 @@ update-application-warning-cross-user-setting = Այս կարգավորումը 
 update-application-use-service =
     .label = Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից
     .accesskey = խ
+update-application-suppress-prompts =
+    .label = Ցուցադրել ավելի քիչ թարմացման ծանուցումներ
+    .accesskey = n
 update-setting-write-failure-title2 = Թարմացման կարգավորումների պահպանման սխալ
 update-in-progress-title = Արդիացվում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:

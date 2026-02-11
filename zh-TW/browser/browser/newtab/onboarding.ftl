@@ -566,3 +566,5 @@ onboarding-refresh-pin-set-default-subtitle = 我們會保護您的資料，並�
 onboarding-refresh-pin-set-default-title = 一切都安全了
 onboarding-refresh-import-subtitle = 將您的密碼、書籤、瀏覽紀錄等資料移轉過來。
 onboarding-refresh-import-title = 讓 { -brand-short-name } 更有家的風格
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } 是您的堅強後盾

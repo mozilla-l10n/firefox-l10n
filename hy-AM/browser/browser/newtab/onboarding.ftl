@@ -31,6 +31,7 @@ return-to-amo-extension-install-complete-label = Ընդլայնումը տեղա
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Ասեք ողջույն { -brand-short-name }-ին
+mr1-return-to-amo-addon-title = Դուք ունեք արագ, անձնական դիտարկիչ ձեր ձեռքի տակ։ Այժմ կարող եք ավելացնել <b>{ $addon-name } </b>-ը և անել ավելին { -brand-short-name }-ի միջոցով։
 mr1-return-to-amo-add-extension-label = Ավելացնել { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
@@ -399,6 +400,7 @@ sync-to-mobile-button-label = Համաժամեցեք բջջայինի հետ
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-screen-1-flair = Խորհուրդ է տրվում
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Իմանալ ավելին</a>
 create-backup-screen-1-sync-label = Համաժամեցնել { -brand-product-name }-ի հետ
 create-backup-screen-1-backup-label = Պահուստավորել համակարգչի վրա
 create-backup-screen-1-backup-body = Պահպանվում է ձեր սարքում կամ OneDrive-ում
@@ -446,6 +448,13 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Պահված է ձեր ս
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Գաղտնաբառերը և վճարումները չեն ներառվում
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Անցեք <a data-l10n-name="settings">Կարգավորումներ</a>՝ զգայուն տվյալները ներառելու համար։
 
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = Վերականգնել պահուստային պատճենից
+restore-from-backup-title = Եկեք վերադարձնենք { -brand-short-name }-ը այնպես, ինչպես դուք եք ցանկանում
+restore-from-backup-subtitle = Վերականգնեք ձեր բոլոր էջանիշները, պատմությունը և այլ տվյալներ՝ զննարկմանը վերադառնալու համար։
+restore-from-backup-secondary-button = Չվերականգնել
+
 ## Restored from Backup spotlight
 
 restored-from-backup-success-with-checklist-primary-button = Պահել և շարունակել
@@ -467,3 +476,9 @@ onboarding-personalization-motivation-title = { -brand-short-name }-ի որ յո
 onboarding-personalization-motivation-privacy-option = Գաղտնիություն և անվտանգություն
 onboarding-personalization-motivation-productivity-option = Արդյունավետություն
 onboarding-personalization-motivation-other-option = Այլ
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-sync-title = Գնացեք ամենուր։ Համաժամեցրեք ամեն ինչ։
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name }-ը ձեզ հետ է

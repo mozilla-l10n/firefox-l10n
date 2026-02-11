@@ -39,7 +39,7 @@ ipprotection-site-settings-callout-button = 知道了！
 ## Panel
 
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
-unauthenticated-hide-location-message = 於 { -brand-product-name } 隱藏您的所在位置，並額外加密上網過程。
+unauthenticated-hide-location-message = 於 { -brand-product-name } 隱藏您的所在位置，並多加一層加密保護。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月獲得 { $maxUsage } GB 免費 VPN 流量。
@@ -75,7 +75,7 @@ ipprotection-connection-status-paused-title = 已暫停 VPN
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
 upgrade-vpn-title = 替瀏覽器以外的連線也加上一道保護
-upgrade-vpn-description = 挑選連線位置，使用 VPN 幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或使用公共 Wi-Fi，任何網路環境都能使用。
+upgrade-vpn-description = 挑選連線位置，使用 VPN 幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或透過公共 Wi-Fi，任何網路環境都能使用。
 upgrade-vpn-button = 請試用 { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -98,6 +98,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = 已對此網站關�
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = 喜歡內建的 VPN 功能嗎？請使用 { -mozilla-vpn-brand-name } 幫 { -brand-product-name } 以外的程式獲得更多保護。
+ipprotection-bandwidth-upgrade-text = 挑選 VPN 連線位置，幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或透過公共 Wi-Fi 上網都能使用。
 
 ## IP Protection bandwidth warning infobar
 
@@ -114,9 +115,64 @@ ip-protection-description =
     .label = VPN
     .description = 內建 VPN 功能，讓您在使用 { -brand-short-name } 加強保護隱私。
 ip-protection-learn-more = 更多資訊
+ip-protection-site-exceptions =
+    .label = 網站設定
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = 試用 { -brand-short-name } 的內建 VPN
+    .message = 隱藏您的所在位置，並對 { -brand-short-name } 上網瀏覽內容多加一層加密。每月均可免費使用 { $maxUsage } GB VPN 流量。
+ip-protection-not-opted-in-button = 開始使用
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = 管理網站設定
+    .description = { $count } 個網站
+ip-protection-autostart =
+    .label = 自動開啟 VPN
+ip-protection-autostart-checkbox =
+    .label = 當我開啟 { -brand-short-name } 時
+ip-protection-autostart-private-checkbox =
+    .label = 於隱私視窗中
+ip-protection-vpn-upgrade-link =
+    .label = 請使用 { -mozilla-vpn-brand-name } 幫 { -brand-short-name } 以外的程式獲得更多保護。
+    .description = 自行選擇 VPN 連線位置，幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或透過公共 Wi-Fi 上網都能使用。
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = 管理網站設定
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = 每月 VPN 流量
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = 本月剩餘 { $usageLeft } GB（上限 { $maxUsage } GB）
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = 剩餘 { $usageLeft } GB（上限 { $maxUsage } GB）
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = 本月剩餘 { $usageLeft } MB（上限 { $maxUsage } GB）
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = 剩餘 { $usageLeft } MB（上限 { $maxUsage } GB）
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = 知道了！
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = 已暫停 VPN
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
 vpn-paused-alert-close-tabs-button = 關閉所有分頁
 vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 繼續
 vpn-error-alert-title = VPN 發生錯誤，目前無法使用。
