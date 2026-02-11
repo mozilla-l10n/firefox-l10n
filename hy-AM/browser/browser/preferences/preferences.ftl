@@ -299,6 +299,12 @@ appearance-group =
     .description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
 preferences-web-appearance-header = Կայքի արտաքին տեսքը
 preferences-web-appearance-description = Որոշ կայքեր հարմարեցնում են իրենց գույնային սխեման ըստ ձեր նախապատվությունների: Ընտրեք, թե որ գույնային սխեման եք ցանկանում օգտագործել այդպիսի կայքերի համար:
+preferences-web-appearance-choice-light2 =
+    .label = Լուսավոր
+    .title = Օգտագործել լուսավոր տեսք՝ կայքի խորապատկերների և բովանդակության համար:
+preferences-web-appearance-choice-dark2 =
+    .label = Մութ
+    .title = Օգտագործել մութ տեսք՝ կայքի խորապատկերների և բովանդակության համար:
 web-appearance-group =
     .aria-label = Վեբ-կայքի տեսքը
 preferences-web-appearance-choice-auto = Ինքնաշխատ
@@ -310,6 +316,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Ձեր ցայտնության կառավարման կարգավորումները գերակշռում են կայքի տեսքի վրա։
 preferences-web-appearance-link =
     .label = Կառավարեք { -brand-short-name } ձևավորումները Ընդլայնումներ և Ձևավորումներում
 preferences-contrast-control-radio-group =
@@ -740,6 +750,12 @@ home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Սկզբնադիր դիտարկիչ
+is-default-browser-2 =
+    .message = { -brand-short-name }-ը ձեր սկզբնադիր դիտարկիչն է։ Լավ ընտրություն է։
+is-not-default-browser-2 =
+    .message = Պահո՜, { -brand-short-name }-ը սկզբնադիրը չէ:
 set-as-my-default-browser-2 =
     .label = Դարձնել սկզբնադիր
     .accesskey = Ս
@@ -767,6 +783,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Կառավարել ընդլայնումը
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Ընտրեք որոշակի կայք
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-url = Ընտրեք որոշակի կայք
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -807,6 +826,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Դեռևս կայքեր չեն ավելացվել։
+home-custom-homepage-delete-address-button =
+    .aria-label = Ջնջել հասցեն
+    .title = Ջնջել հասցեն
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Դեռևս կայքեր չեն ավելացվել։
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -889,6 +911,14 @@ home-prefs-support-firefox-header =
     .label = { -brand-product-name }-ի աջակցում
 home-prefs-mission-message = Մեր հովանավորները աջակցում են ավելի լավ համացանց կերտելու մեր առաքելությանը
 home-prefs-mission-message-learn-more-link = Իմացեք, թե ինչպես
+home-prefs-mission-message2 =
+    .message = Մեր հովանավորները աջակցում են մեր առաքելությանը՝ ստեղծել ավելի լավ կայք։
+home-prefs-manage-topics-link = Կառավարել թեմաները
+home-prefs-manage-topics-link2 =
+    .label = Կառավարել թեմաները
+home-prefs-choose-wallpaper-link = Ընտրեք պաստառ
+home-prefs-choose-wallpaper-link2 =
+    .label = Ընտրեք պաստառ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -922,6 +952,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Ցուցադրել որոնման առաջարկները նախքան որոնման պատմությունը հասցեների տողի արդյունքներում
+search-show-suggestions-private-windows-2 =
+    .label = Որոնման առաջարկներ գաղտնի պատուհաններում
 search-suggestions-cant-show-2 =
     .message = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
 addressbar-header-1 =
@@ -935,6 +974,13 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Ցուցադրել որոնման եզրույթները արդյունքների էջերի վրայի հասցեագոտում
+search-separate-default-engine-2 =
+    .label = Օգտագործեք այլ սկզբնադիր որոնիչ գաղտնի պատուհաններում
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Սկզբնադիր որոնիչ գաղտնի պատուհաններում
+search-suggestions-header-2 =
+    .label = Որոնիչների առաջարկներ
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1017,6 +1063,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Համաժամեցում
+account-group-label =
+    .label = { -vendor-short-name }-ի հաշիվ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1125,6 +1173,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Դուք համաժամեցնում եք այս միույթները կապակցված ձեր բոլոր սարքերի միջև.
 sync-syncing-across-devices-heading-2 = Տվյալները համաժամեցված են տարբեր սարքերի միջև
+sync-syncing-across-devices-empty-state =
+    .label = Դուք դեռ ոչինչ չեք համաժամեցնում:
+    .description = Սկսեք համաժամեցումը՝ ձեր բոլոր տվյալները բոլոր սարքերում ունենալու համար:
 sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բաց ներդիրներ
@@ -1151,6 +1202,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Անջատված…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Համաժամեցվող տարրերի ցանկի փոփոխությունները կարտացոլվեն ձեր բոլոր միացված սարքերում։
 sync-engine-bookmarks =
     .label = Էջանիշերը
     .accesskey = ն
@@ -1253,6 +1305,9 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Գաղտնաբառեր
     .searchkeywords = մուտքեր
+forms-passwords-header =
+    .label = Գաղտնաբառեր
+    .aria-label = Գաղտնաբառեր
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Խնդրել գաղտնաբառների պահպանում
@@ -1325,6 +1380,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Նախկինում հայտնի էր որպես Հիմնական գաղտնաբառ
+forms-primary-pw-fips-title = Դուք այժմ գտնվում եք FIPS կերպում: FIPS-ը պահանջում է ոչ դատարկ հիմնական գաղտնաբառ:
 forms-master-pw-fips-desc = Գաղտնաբառը չհաջողվեց փոխել
 forms-windows-sso =
     .label = Թույլատրել Windows եզակի գրանցում Microsoft-ում, աշխատանքային և դպրոցական հաշիվներում:
@@ -1342,6 +1398,12 @@ primary-password-os-auth-dialog-message-win = Հիմնական գաղտնաբա�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ստեղծել Հիմնական գաղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] փոխել սկզբնադիր վճարամիջոցները
+       *[other] { -brand-short-name }-ը փորձում է փոխել վճարման եղանակների կարգավորումները: Մուտք գործեք ձեր սարքի միջոցով՝ դա թույլատրելու համար:
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -1537,6 +1599,10 @@ sitedata-cookies-exceptions2 =
 cookies-site-data-group =
     .label = Cookie-ներ և կայքի տվյալներ
 
+## Privacy Section - Cookie Banner Handling
+
+cookie-banner-handling-header = Թխուկների դրոշակի կրճատում
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
@@ -1579,6 +1645,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Լավագույն կայքեր
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = Առաջարկել որոնիչներ
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Որոնիչներ
     .accesskey = հ
@@ -1595,6 +1664,7 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
     .accesskey = վ
+addressbar-locbar-suggest-nonsponsored-desc = Ստացեք առաջարկներ համացանցից՝ կապված ձեր որոնման հետ։
 addressbar-locbar-suggest-sponsored-option =
     .label = Առաջարկություններ հովանավորներից
 addressbar-quickactions-learn-more = Իմանալ ավելին
@@ -1642,6 +1712,10 @@ content-blocking-all-windows-tracking-content = Հետևում են բովանդ
 content-blocking-all-cross-site-cookies = Բոլոր միջկայքային թխուկները
 content-blocking-cryptominers = Գաղտնազերծիչներ
 content-blocking-fingerprinters = Մատնահետքեր
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Հայտնի և կասկածելի մատնահետքեր
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
