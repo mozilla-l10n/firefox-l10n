@@ -87,3 +87,8 @@ default-browser-guidance-notification-body-instruction-win11 =
     }
 default-browser-guidance-notification-info-page = Zobrazit
 default-browser-guidance-notification-dismiss = Hotovo
+default-browser-guidance-notification-v2-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Dokončete nastavení { -brand-short-name(case: "gen") } jako svého výchozího prohlížeče
+       *[no-cases] Dokončete nastavení aplikace { -brand-short-name } jako svého výchozího prohlížeče
+    }
