@@ -1354,6 +1354,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Հիմնական գաղտնաբառի օգտագործում
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Օգտագործել հիմնական գաղտնաբառ
+    .description = Ավելացնում է հավելյալ անվտանգություն՝ ձեր գաղտնաբառերը պաշտպանելու համար:
+    .accesskey = U
 forms-primary-pw-set =
     .label = Սահմանել հիմնական գաղտնաբառը
 forms-primary-pw-on =
@@ -1428,6 +1432,9 @@ autofill-payment-methods-add-button = Ավելացնել նոր վճարամիջ
 payments-list-header =
     .label = Վճարամիջոցներ
 payments-list-item-label = <strong>Վճարամիջոցներ</strong>
+payments-delete-payment-prompt-title = Ջնջե՞լ այս վճարամիջոցը:
+payments-delete-payment-prompt-confirm-button = Ջնջել
+payments-delete-payment-prompt-cancel-button = Չեղարկել
 payments-delete-payment-button-label =
     .aria-label = Ջնջել
 payments-edit-payment-button-label =
@@ -1664,9 +1671,21 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
     .accesskey = վ
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option =
+    .label = Առաջարկներ { -brand-short-name }-ից
+addressbar-locbar-suggest-all-option-desc = Ստացեք առաջարկներ համացանցից՝ կապված ձեր որոնման հետ։
 addressbar-locbar-suggest-nonsponsored-desc = Ստացեք առաջարկներ համացանցից՝ կապված ձեր որոնման հետ։
 addressbar-locbar-suggest-sponsored-option =
     .label = Առաջարկություններ հովանավորներից
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Ստանալ առաջարկներ Mozilla-ից՝ մուտքագրելիս
 addressbar-quickactions-learn-more = Իմանալ ավելին
 addressbar-dismissed-suggestions-label = Մերժված առաջարկներ
 addressbar-restore-dismissed-suggestions-button =
@@ -1725,6 +1744,8 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ ավելին
 content-blocking-etp-standard-tcp-title = Ներառում է Թխուկների ամբողջական պաշտպանությունը, գաղտնիության մեր ամենահզոր յուրահատկությունը
 content-blocking-warning-title = Ուշադրություն։
 content-blocking-warning-learn-how = Իմանալ ինչպես
+content-blocking-baseline-uncheck-warning-dialog-title = Վստա՞հ եք, որ ցանկանում եք անջատել ուղղումները։
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Անջատել ուղղումները
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Պահել շտկումները միացված
 content-blocking-reload-description = Ձեզ հարկավոր կլինի վերբեռնել ձեր ներդիրները այս փոփոխությունները հաստատելու համար։
 content-blocking-reload-tabs-button =
@@ -1829,6 +1850,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
+permissions-header2 =
+    .label = Թույլտվություններ
+    .description = Թույլտվություններ, որոնք տալիս եք կայքերին, որոնք դիտարկում եք:
 permissions-location2 =
     .label = Տեղադրություն
 permissions-localhost2 =
@@ -1880,6 +1904,9 @@ collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտու
 addon-recommendations2 =
     .label = Թույլատրել անհատականացված ընդլայնման առաջարկությունները
 addon-recommendations-description = Ստացեք ընդլայնման առաջարկներ՝ դիտարկումների փորձը բարելավելու համար:
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = Տվյալների հաղորդումը անջատված է այս կառուցման կարգավորման համար։
 collection-backlogged-crash-reports2 =
     .label = Ինքնաբար ուղարկել խափանումների մասին զեկույցը
     .accesskey = c
@@ -1893,6 +1920,8 @@ collection-health-report-disabled = Տվյալների զեկուցումը ան
 collection-backlogged-crash-reports-with-link = Թույլատրել { -brand-short-name }-ին ուղարկել հետաձգված վթարի զեկույցներ առանց ձեր գիտության <a data-l10n-name="crash-reports-link">Իմացեք ավելին</a>
     .accesskey = c
 privacy-segmentation-section-header = Նոր հնարավորություններ, որոնք կբարելավեն ձեր զննարկիչը
+privacy-segmentation-radio-off =
+    .label = Օգտվել { -brand-product-name }-ի խորհուրդներից
 privacy-segmentation-radio-on =
     .label = Ցուցադրել մանրամասն տեղեկություն
 
@@ -2046,3 +2075,8 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-translations-control =
     .label = Թարգմանություններ
     .description = Աննկատ դիտարկել վեբը ձեր նախընտրած լեզվով:
+preferences-ai-controls-translations-more-link = Թարգմանության ավելի շատ կարգավորումներ
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Չեղարկել
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Արգելափակել
