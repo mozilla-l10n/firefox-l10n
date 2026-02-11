@@ -211,6 +211,9 @@ mr2022-onboarding-existing-pin-checkbox-label = Նաև ավելացրեք { -bra
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Դարձրեք { -brand-short-name }-ը Ձեր հիմնական դիտարկիչը
 mr2022-onboarding-set-default-primary-button-label = Կայեք { -brand-short-name }-ը որպես սկզբնադիր դիտարկիչ
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Օգտագործեք ոչ առևտրային կազմակերպության կողմից աջակցվող դիտարկիչ: Մենք պաշտպանում ենք ձեր գաղտնիությունը, մինչ դուք թափառում եք համացանցում:
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -226,6 +229,7 @@ mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայր
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-import-header = Կայծակնային արագ տեղակայում
+mr2022-onboarding-import-subtitle = Կարգավորեք { -brand-short-name }-ը ձեր հայեցողությամբ։ Ավելացրեք ձեր էջանիշները, գաղտնաբառերը և այլն ձեր հին զննարկչից։
 mr2022-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ դիտարկիչից
 
 ## If your language uses grammatical genders, in the description for the
@@ -240,6 +244,7 @@ mr2022-onboarding-existing-colorway-checkbox-label = Դարձրեք { -firefox-h
 mr2022-onboarding-colorway-label-default = Սկզբնադիր
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = { -brand-short-name }-ի գործող գույները
+mr2022-onboarding-colorway-description-default = <b>Օգտագործել իմ ներկայիս { -brand-short-name } գույները։</b>
 mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)
@@ -247,6 +252,7 @@ mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյք�
 mr2022-onboarding-colorway-label-expressionist = Էքսպրեսիոնիստ
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Էքսպրեսիոնիստ (դեղին)
+mr2022-onboarding-colorway-description-expressionist = <b>Դուք էքսպրեսիոնիստ եք։</b> Դուք աշխարհը տեսնում եք այլ կերպ, և ձեր ստեղծագործությունները գրգռում են ուրիշների զգացմունքները։
 mr2022-onboarding-colorway-label-visionary = Տեսլական
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Տեսողական (կանաչ)
@@ -254,9 +260,11 @@ mr2022-onboarding-colorway-description-visionary = <b>Դուք տեսաբան ե
 mr2022-onboarding-colorway-label-activist = Ակտիվիստ
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Ակտիվիստ (կապույտ)
+mr2022-onboarding-colorway-description-activist = <b>Դուք ակտիվիստ եք։</b> Դուք աշխարհը թողնում եք ավելի լավ տեղ, քան գտել եք, և ուրիշներին էլ եք հավատացնում։
 mr2022-onboarding-colorway-label-dreamer = Երազող
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Երազող (մանուշակագույն)
+mr2022-onboarding-colorway-description-dreamer = <b>Դուք երազող եք։</b> Դուք հավատում եք, որ բախտը նպաստում է համարձակներին և ոգեշնչում է ուրիշներին լինել համարձակ։
 mr2022-onboarding-colorway-label-innovator = Նորարար
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Նորարար (նարնջագույն)
@@ -265,6 +273,9 @@ mr2022-onboarding-colorway-description-innovator = <b>Դուք նորարար ե
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Անցեք լափթոփից հեռախոս և ետ եկեք
+mr2022-onboarding-mobile-download-subtitle = Վերցրեք ներդիրները մեկ սարքից և շարունակեք այնտեղից, որտեղ կանգ եք առել մեկ այլ սարքում: Բացի այդ, համաժամեցրեք ձեր էջանիշերն ու գաղտնաբառերը ցանկացած վայրում, որտեղ օգտագործում եք { -brand-product-name }:
+mr2022-onboarding-mobile-download-cta-text = Սկանավորեք QR կոդը՝ { -brand-product-name }-ը բջջային հեռախոսի համար ստանալու համար կամ <a data-l10n-name="download-label">ուղարկեք ինքներդ ձեզ ներբեռնման հղում։</a>
+mr2022-onboarding-no-mobile-download-cta-text = Սկանավորեք QR կոդը՝ { -brand-product-name }-ը բջջային հեռախոսի համար ստանալու համար։
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -280,6 +291,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 ## MR2022 Privacy Segmentation screen strings
 
 mr2022-onboarding-privacy-segmentation-title = Մենք միշտ հարգում ենք ձեր գաղտնիությունը
+mr2022-onboarding-privacy-segmentation-subtitle = Խելացի առաջարկներից մինչև ավելի խելացի որոնում, մենք անընդհատ աշխատում ենք ստեղծել ավելի լավ, ավելի անհատական { -brand-product-name }:
+mr2022-onboarding-privacy-segmentation-text-cta = Ի՞նչ եք ուզում տեսնել, երբ մենք առաջարկում ենք նոր գործառույթներ, որոնք օգտագործում են ձեր տվյալները՝ ձեր զննարկիչը բարելավելու համար։
 mr2022-onboarding-privacy-segmentation-button-primary-label = Օգտվել { -brand-product-name }-ի խորհուրդներից
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Ցուցադրել մանրամասն տեղեկություն
 
@@ -292,16 +305,43 @@ mr2022-onboarding-gratitude-secondary-button-label = Սկսեք զննարկել
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Զգացեք ձեզ ինչպես տանը
+onboarding-infrequent-import-subtitle = Անկախ նրանից՝ հաստատվում եք, թե պարզապես այցելում եք, հիշեք, որ կարող եք ներմուծել ձեր էջանիշները, գաղտնաբառերը և այլն։
 onboarding-infrequent-import-primary-button = Ներմուծել { -brand-short-name }
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Մարդ, որը աշխատում է նոութբուքով՝ շրջապատված աստղերով և ծաղիկներով
+mr2022-onboarding-default-image-alt =
+    .aria-label = { -brand-product-name }-ի լոգոն գրկող մարդ
+mr2022-onboarding-import-image-alt =
+    .aria-label = Սքեյթբորդ քշող մարդ՝ ծրագրային պատկերակների տուփով
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Գորտերը ցատկոտում են շուշանների վրայով՝ կենտրոնում QR կոդով, որը կարող եք ներբեռնել { -brand-product-name }-ը բջջային հեռախոսի համար
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Կախարդական փայտիկը գլխարկից դուրս է բերում { -brand-product-name } գաղտնի դիտարկման լոգոն
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Բաց և մուգ մաշկ ունեցողների ձեռքերը՝ ձեռքդ բարձր պահած
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Արևմուտի տեսարան պատուհանից՝ աղվեսի և սենյակային բույսի հետ պատուհանագոգին
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Ձեռքի սփրեյը գունավոր կոլաժ է ստեղծում՝ կանաչ աչք, նարնջագույն կոշիկ, կարմիր բասկետբոլի գնդակ, մանուշակագույն ականջակալներ, կապույտ սիրտ և դեղին թագ
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Աղվեսը նոութբուքի էկրանին ձեռքով է անում։ Նոութբուքին միացված է մկնիկ։
 onboarding-device-migration-title = Բարի վերադարձ
+onboarding-device-migration-subtitle = Մուտք գործեք ձեր { -fxaccount-brand-name(capitalization: "sentence") } հաշիվ՝ ձեր էջանիշները, գաղտնաբառերը և պատմությունը ձեզ հետ նոր սարքում տեղափոխելու համար։
+onboarding-device-migration-subtitle2 = Մուտք գործեք ձեր հաշիվ՝ ձեր էջանիշները, գաղտնաբառերը և պատմությունը ձեզ հետ նոր սարքում տեղափոխելու համար։
 onboarding-device-migration-primary-button-label = Մուտք գործել
 
 ## Add-ons Picker screen
 
 amo-picker-title = Հարմարեցնել Ձեր { -brand-short-name }-ը
+amo-picker-subtitle = Ընդլայնումները նման են ձեր զննարկչի հավելվածների, և դրանք թույլ են տալիս պաշտպանել գաղտնաբառերը, ներբեռնել տեսանյութեր, գտնել զեղչեր, արգելափակել նյարդայնացնող գովազդները, փոխել ձեր զննարկչի տեսքը և շատ ավելին։
 amo-picker-install-button-label = Հավելել { -brand-short-name }-ին
 amo-picker-install-complete-label = Տեղադրվեց
 amo-picker-collection-link = Ուսումնասիրեք ավելի շատ հավելումներ
@@ -311,8 +351,15 @@ amo-picker-collection-link = Ուսումնասիրեք ավելի շատ հավ
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Մենք սիրում ենք ձեզ ապահով պահել
 onboarding-easy-setup-security-and-privacy-subtitle = Մեր ոչ առևտրային բրաուզերը օգնում է կանխել ընկերությունների կողմից ձեզ գաղտնի հետևելը համացանցում։
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Մնացեք կոդավորված, երբ անցնում եք մի սարքից մյուսին
+onboarding-mobile-download-security-and-privacy-subtitle = Երբ դուք համաժամեցված եք, { -brand-short-name }-ը կոդավորում է ձեր գաղտնաբառերը, էջանիշերը և այլն: Բացի այդ, դուք կարող եք ներբեռնել ներդիրներ ձեր մյուս սարքերից:
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name }-ը Ձեր ողնաշարն է
+onboarding-gratitude-security-and-privacy-subtitle = Շնորհակալություն ենք հայտնում Mozilla Foundation-ի կողմից աջակցվող { -brand-short-name }-ն օգտագործելու համար։ Ձեր աջակցությամբ մենք աշխատում ենք ինտերնետը բոլորի համար ավելի անվտանգ և հասանելի դարձնելու ուղղությամբ։
+# Sign up or Sign in screen
+onboarding-sign-up-title = Համաժամեցրեք ձեր տվյալները տարբեր սարքերում
+onboarding-sign-up-description = Գրանցվեք հաշիվ, և ձեր բոլոր կարևոր տեղեկությունները, ինչպիսիք են գաղտնաբառերը, էջանիշները և այլն, անվտանգ կերպով կպահվեն և հասանելի կլինեն ցանկացած սարքից մուտք գործելիս։
 onboarding-sign-up-button = Գրանցվեք կամ մուտք գործեք
 onboarding-sign-up-secondary-button = Սկսել դիտարկումը
 
@@ -343,8 +390,12 @@ onboarding-new-tabs-title = Ասեք մեզ, թե որտեղ եք ցանկանո
 onboarding-new-tabs-subtitle = Միացրեք այն, երբ ցանկանում եք, կողագոտու կարգավորումներում:
 # Setup screen for vertical tabs - too many tabs variation
 onboarding-many-tabs-title = Ձեր ներդիրները՝ ձեր ձևով
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = Շատ ներդիրներ բաց պահե՞լ եք: Փորձեք կողքի ներդիրները՝ ավելի պարզ տեսք ստանալու համար: Կամ պահեք դասական տարբերակը՝ վերևում ներդիրներով: Փոխարկեք ցանկացած պահի:
 # Setup screen for vertical tabs - focused variation
 onboarding-focused-tabs-title = Ընտրեք ձեր ներդիրի դասավորությունը
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = Ավելի պարզ տեսքի համար, որը կարող է օգնել ձեզ կենտրոնացած մնալ, փորձեք կողքի ներդիրները։ Կամ թողեք դասական տարբերակը՝ վերևում ներդիրներով։ Փոխեք ցանկացած պահի։
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = Ներդիրները կողքից
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -353,13 +404,29 @@ onboarding-new-horizontal-tabs-label = Ներդիրները վերևում
 onboarding-existing-tabs-title = Ուղղահայաց ներդիրներն այստեղ են
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Ներկայացնում ենք ուղղահայաց ներդիրները
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Փորձեք կողքի ներդիրները։ Փոխեք դրանք, երբ ցանկանաք, կողային վահանակի կարգավորումներում։
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Փորձեք ուղղահայաց ներդիրները
 onboarding-flair-text = Նոր
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Պահել հորիզոնական ներդիրները
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = Դիտարկիչի պատուհան, որը ցուցադրում է ներդիրներ էկրանի կողքի երկայնքով՝ որպես { -brand-shorter-name } կողային վահանակի մաս։
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = Դիտարկիչի պատուհան, որը ցուցադրում է ներդիրներ էկրանի կողքի երկայնքով՝ որպես { -brand-shorter-name } կողային վահանակի մաս։
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = Վերևում ներդիրներ ցուցադրող դիտարկիչի պատուհան։
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = Վերևում ներդիրներ ցուցադրող դիտարկիչի պատուհան։
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Փորձեք ԱԲ չաթբոտը Կողագոտում
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = Ամփոփեք վեբ բովանդակությունը, գաղափարների փոթորիկ արեք, նախագծեք հաղորդագրություններ՝ այս ամենը զննարկելիս: Ընտրեք բազմաթիվ մատակարարներից: Փոխարկեք ցանկացած պահի: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 onboarding-genai-sidebar-primary-button = Ընտրեք չաթբոտ
 onboarding-genai-sidebar-secondary-button = Սկսել դիտարկումը
 
@@ -380,6 +447,14 @@ tab-groups-onboarding-feature-callout-subtitle = Կազմակերպվեք՝ մե
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Գտեք ձեր ներդիրների խմբերը «Բոլոր ներդիրների ցանկ» ցանկում ցանկացած ժամանակ։
 tab-groups-onboarding-create-group-title-2 = Գտեք ձեր ներդիրների խմբերը ցանկացած ժամանակ:
+tab-groups-onboarding-create-group-no-alltabs-button-title = Գտեք ձեր խմբերը՝ որոնելով դրանք հասցեագոտում։
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Երբ փակում եք որևէ ներդիրների խումբ, ցանկացած պահի կարող եք այն վերաբացել «Ցանկացնել բոլոր ներդիրները» ցանկից։
+tab-groups-onboarding-saved-groups-title-2 = Երբ փակում եք ներդիրների խումբը, կարող եք այն վերաբացել այստեղ ցանկացած պահի։
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Գտեք ձեր փակ խմբերը՝ որոնելով դրանք հասցեների տողում։
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Վերաբացեք ձեր ներդիրների խմբերը «Ցանկացնել բոլոր ներդիրները» ցանկից ցանկացած պահի։
+tab-groups-onboarding-session-restore-title = Վերաբացեք ձեր ներդիրների խմբերը այստեղ ցանկացած ժամանակ։
 tab-groups-onboarding-dismiss = Լավ
 
 ## Multi Profiles feature onboarding messages
@@ -388,26 +463,38 @@ multi-profile-spotlight-title = Ասեք ողջույն { -brand-product-name }-
 multi-profile-spotlight-body = Հեշտությամբ անցեք աշխատանքի և զվարճանքի դիտարկումների միջև: Պրոֆիլները ձեր որոնումների տեղեկությունները, ներառյալ որոնման պատմությունը և գաղտնաբառերը, պահում են լիովին առանձին, որպեսզի դուք կարողանաք կազմակերպված մնալ:
 multi-profile-spotlight-cta = Ստեղծել պրոֆիլ
 multi-profile-callout-title = Ստեղծեք տարբեր պրոֆիլներ աշխատանքի և զվարճանքի համար
+multi-profile-callout-subtitle = Պրոֆիլները թույլ են տալիս ձեր զննարկչի տեղեկությունները, ինչպիսիք են որոնման պատմությունը և գաղտնաբառերը, լիովին առանձին պահել։
 multi-profile-callout-cta = Ստեղծել պրոֆիլ
 
 ## Desktop to Mobile Adoption feature callout strings
 
 # If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
 desktop-to-mobile-headline = Ներբեռնեք, համաժամեցրեք և գնացեք։
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = Սկանավորեք QR կոդը՝ { -brand-product-name }-ը բջջային հեռախոսի համար ներբեռնելու համար: Տեղադրվելուց հետո ընտրեք «Համաժամեցնել բջջայինի հետ»՝ ձեր գաղտնաբառերին, էջանիշներին և այլնին մուտք գործելու համար՝ ճանապարհին:
 dismiss-button-label = Բաց թողնել
 sync-to-mobile-button-label = Համաժամեցեք բջջայինի հետ
+desktop-to-mobile-qr-code-alt =
+    .aria-label = QR կոդ՝ { -brand-product-name }-ը բջջային հեռախոսի համար ներբեռնելու համար
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title =
+    Թարմացնո՞ւմ եք Windows 11-ի։
+    Եկեք պահուստավորենք ձեր { -brand-product-name } տվյալները։
+create-backup-screen-1-subtitle = Ինքնաշխատ  պաշտպանեք ձեր գաղտնաբառերը, էջանիշները և այլն 1-2 րոպեում։
 create-backup-screen-1-flair = Խորհուրդ է տրվում
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Իմանալ ավելին</a>
 create-backup-screen-1-sync-label = Համաժամեցնել { -brand-product-name }-ի հետ
+create-backup-screen-1-sync-body = Պահուստավորում է բոլոր մուտք գործած սարքերը
 create-backup-screen-1-backup-label = Պահուստավորել համակարգչի վրա
 create-backup-screen-1-backup-body = Պահպանվում է ձեր սարքում կամ OneDrive-ում
 create-backup-select-tile-button-label = Ընտրել
 create-backup-back-button-label = Նախորդը
 create-backup-show-fewer =
     .label = Ցուցադրել ավելի քիչ
+create-backup-screen-2-title = Ընտրեք { -brand-product-name } տվյալները՝ պահուստավորելու համար
+create-backup-screen-2-subtitle = Միայն մեկ րոպե է պահանջվում։ Ձեր տվյալները պահուստավորվում են օրը մեկ անգամ։
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Հեշտ տեղադրում
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -447,6 +534,8 @@ fx-backup-confirmation-screen-easy-setup-item-text-1 = Ներառված են է�
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Պահված է ձեր սարքում
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Գաղտնաբառերը և վճարումները չեն ներառվում
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Անցեք <a data-l10n-name="settings">Կարգավորումներ</a>՝ զգայուն տվյալները ներառելու համար։
+fx-backup-confirmation-screen-item-subtext-1 = Ձեր պահուստավորումը կսկսվի մի քանի րոպեից և կաշխատի օրը մեկ անգամ: Դուք կարող եք ստուգել առաջընթացը <a data-l10n-name="settings">Կարգավորումներ</a>-ում:
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name }-ը կփնտրի ձեր պահուստային պատճենը, եթե անհրաժեշտ լինի վերատեղադրել։
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -457,10 +546,14 @@ restore-from-backup-secondary-button = Չվերականգնել
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Մենք վերադարձանք։ Ձեր { -brand-short-name } տվյալները վերականգնվել են։
+restored-from-backup-success-with-checklist-subtitle = Ուզո՞ւմ եք ձեր սիրելի գաղտնիության վրա կենտրոնացած դիտարկիչը մեկ սեղմումով հեռու պահել։
+restored-from-backup-success-no-checklist-subtitle = Դուք կարող եք միացնել պահուստավորումը այս սարքի համար <a data-l10n-name="settings">Կարգավորումներ</a> բաժնում։
 restored-from-backup-success-with-checklist-primary-button = Պահել և շարունակել
 restored-from-backup-success-with-checklist-secondary-button = Բաց թողեք այս քայլը
 restored-from-backup-success-no-checklist-primary-button = Շարունակել
 restored-from-backup-error-title = Հըմ, ձեր պահուստային ֆայլի հետ կապված խնդիր կար։
+restored-from-backup-error-subtitle = Եթե ունեք մեկ այլ { -brand-short-name } պահուստային ֆայլ, փորձեք վերականգնել դրանից։ <a data-l10n-name="restore-problems">Դեռևս խնդիրներ ունե՞ք</a>
 restored-from-backup-error-primary-button = Փակել
 
 ## Onboarding Personalization Screen
@@ -479,6 +572,17 @@ onboarding-personalization-motivation-other-option = Այլ
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Մենք պաշտպանում ենք ձեր տվյալները և ավտոմատ կերպով արգելափակում ենք ընկերությունների կողմից ձեր սեղմումների լրտեսումը։
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Դուք անվտանգ եք
+onboarding-refresh-import-subtitle = Վերադարձրեք ձեր գաղտնաբառերը, էջանիշները, պատմությունը և այլն։
+onboarding-refresh-import-title = Դարձրեք { -brand-short-name }-ը ավելի տան պես
+onboarding-refresh-onboarding-addons-subtitle = Ընդլայնումները փոքրիկ հավելվածներ են, որոնք թույլ են տալիս ձեզ անհատականացնել { -brand-short-name }-ը: Դրանք կարող են հզորացնել ձեր գաղտնիությունը, բարձրացնել արտադրողականությունը, փոխել { -brand-short-name }-ի տեսքը և շատ ավելին:
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Խթանեք ձեր դիտարկումը
+onboarding-refresh-sync-subtitle = Ստացեք էջանիշեր, գաղտնաբառեր և այլն ամենուր, որտեղ մուտք եք գործել { -brand-short-name }: Բացի այդ, ձեր տվյալները կոդավորված են, այնպես որ միայն դուք կարող եք տեսնել դրանք:
 onboarding-refresh-sync-title = Գնացեք ամենուր։ Համաժամեցրեք ամեն ինչ։
+onboarding-refresh-gratitude-subtitle = Շնորհակալություն ենք հայտնում { -brand-short-name }-ը, որը միակ խոշոր զննարկիչն է, որը հովանավորվում է ոչ առևտրային կազմակերպության կողմից: Ձեր աջակցությամբ մենք աշխատում ենք ինտերնետը բոլորի համար ավելի անվտանգ և հասանելի դարձնելու ուղղությամբ:
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name }-ը ձեզ հետ է

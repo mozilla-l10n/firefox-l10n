@@ -162,9 +162,19 @@ ip-protection-bandwidth-left-this-month-mb = 本月剩餘 { $usageLeft } MB（�
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-mb = 剩餘 { $usageLeft } MB（上限 { $maxUsage } GB）
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = 每月月初重設為 { $maxUsage } GB。
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = 已恢復 { $maxUsage } GB VPN 流量，可以立刻使用
+ipprotection-bandwidth-reset-text = 開啟 VPN 加上一層隱私保護，每月都有免費流量。
 ipprotection-bandwidth-reset-button = 知道了！
 
 ## IP Protection alerts

@@ -362,6 +362,28 @@ preferences-text-zoom-override-warning =
     .message = Զգուշացում. Եթե ընտրեք «Դիտափոխել միայն գրվածքը» և Ձեր սկզբնադիր դիտափոխումը դրված չէ 100%, այն կարող է հանգեցնել որոշ կայքերի կամ բովանդակության խոտանի:
 language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
+website-language-heading =
+    .label = Կայքի լեզուն
+    .description = Որոշ վեբ էջեր ցուցադրված են բազմակի լեզուներով: Ընտրեք լեզուները ըստ ձեր նախընտրած հերթականության:
+website-preferred-language =
+    .label = Նախընտրելի լեզուներ
+website-add-language =
+    .label = Ավելացնել լեզու
+website-add-language-button =
+    .aria-label = Ավելացնել ընտրված լեզուն
+    .title = Ավելացնել ընտրված լեզուն
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Հեռացնել { $locale }-ը:
+    .title = Հեռացնել { $locale }-ը:
 choose-button =
     .label = Ընտրել…
     .accesskey = տ
@@ -381,6 +403,34 @@ translate-attribution = Թարգմանել է՝ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
+settings-translations-header =
+    .label = Թարգմանություններ
+    .aria-label = Թարգմանություններ
+    .description = Թարգմանեք էջերը կամ ընտրված տեքստը: Ձեր գաղտնիությունը պաշտպանելու համար թարգմանությունները մնում են սարքում:
+settings-translations-offer-to-translate-label =
+    .label = Առաջարկել ամբողջական էջի թարգմանություն
+settings-translations-more-settings-button =
+    .label = Թարգմանության ավելի շատ կարգավորումներ
+    .description = Սահմանեք լեզուների, կայքերի և անցանց թարգմանության նախապատվությունները:
+settings-translations-subpage-header =
+    .heading = Թարգմանության ավելի շատ կարգավորումներ
+settings-translations-subpage-speed-up-translation-header =
+    .label = Արագացնել թարգմանությունը
+    .description = Ներբեռնեք ամբողջական լեզուներ՝ ավելի արագ և անցանց թարգմանելու համար:
+settings-translations-subpage-automatic-translation-header =
+    .label = Ինքնաշխատ թարգմանություն
+settings-translations-subpage-always-translate-header =
+    .label = Միշտ թարգմանեք այս լեզուները
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Ջնջե՞լ { $language }-ը ({ $size } ՄԲ):
+settings-translations-subpage-download-delete-button =
+    .label = Ջնջել
+settings-translations-subpage-download-cancel-button =
+    .label = Չեղարկել
+settings-translations-subpage-no-sites-added =
+    .label = Կայքեր չեն ավելացվել
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -535,12 +585,25 @@ update-application-suppress-prompts =
     .label = Ցուցադրել ավելի քիչ թարմացման ծանուցումներ
     .accesskey = n
 update-setting-write-failure-title2 = Թարմացման կարգավորումների պահպանման սխալ
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 = { -brand-short-name }-ը բախվել է սխալի և չի պահպանել այս փոփոխությունը։ Նկատի ունեցեք, որ այս թարմացման նախընտրանքի կարգավորումը պահանջում է թույլատվություն ստորին ֆայլում գրելու համար։ Դուք կամ համակարգի վարիչը կարող եք լուծել սխալը օգտագործողների խմբին շնորհելով այս նիշքի ողջ կառավարումը։
 update-in-progress-title = Արդիացվում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## Firefox support
+
+support-application-heading =
+    .label = { -brand-short-name }-ի աջակցություն
+    .description = Խափանազերծեք խնդիրները կամ համօգտագործեք գաղափարներ համայնքի հետ:
+support-get-help =
+    .label = Ստանալ օգնություն
 
 ## General Section - Performance
 
@@ -587,6 +650,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Միշտ օգտագործել նշորդային ստեղները՝ էջերի ներսում նավարկելու համար
     .accesskey = ս
+browsing-use-full-keyboard-navigation =
+    .label = Օգտագործեք Tab ստեղնը՝ ձևի կառավարման տարրերի և հղումների միջև ֆոկուսը տեղափոխելու համար
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Որոնել տեքստը, երբ կսկսեք մուտքագրել
     .accesskey = ք
@@ -718,6 +784,7 @@ home-prefs-content-header =
 
 home-prefs-recommended-by-header =
     .label = Առաջարկվում է { $provider }
+home-prefs-recommended-by-description-new = Բացառիկ բովանդակություն, որը կազմվել է { $provider }-ի կողմից, որը { -brand-product-name } ընտանիքի մաս է կազմում։
 home-prefs-stories-header =
     .label = Պատմություններ
 
