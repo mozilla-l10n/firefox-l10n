@@ -31,14 +31,15 @@ default-browser-prompt-button-secondary = Most nem
 default-browser-guidance-notification-title = A { -brand-short-name } alapértelmezetté tételének befejezése
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
-    1. lépés: Ugorjon a Beállítások > Alapértelmezett alkalmazásokhoz
+    1. lépés: Ugorjon a Gépház > Alapértelmezett alkalmazásokhoz
     2. lépés: Görgessen le a „Webböngésző” részhez
     3. lépés: Válassza a { -brand-short-name } lehetőséget
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win11 =
-    1. lépés: Ugorjon a Beállítások > Alapértelmezett alkalmazásokhoz
-    2. lépés: Válassza az „Alaphelyzet” lehetőséget a { -brand-short-name }hoz
+    1. lépés: Ugorjon a Gépház > Alapértelmezett alkalmazásokhoz
+    2. lépés: Válassza az „Alapértelmezés beállítása” lehetőséget a { -brand-short-name }hoz
 default-browser-guidance-notification-info-page = Megjelenítés
 default-browser-guidance-notification-dismiss = Kész
 default-browser-guidance-notification-v2-title = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése
-default-browser-guidance-notification-v2-title-only = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése a Beállításokban
+default-browser-guidance-notification-v2-body = A Gépházban válassza az „Alapértelmezés beállítása” lehetőséget a { -brand-short-name }hoz.
+default-browser-guidance-notification-v2-title-only = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése a Gépházban
