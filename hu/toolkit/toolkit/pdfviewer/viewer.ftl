@@ -643,6 +643,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Oldalsáv be/ki
+pdfjs-toggle-views-manager-notification-button =
+    .title = Oldalsáv be/ki (a dokumentum bélyegképeket/vázlatot/mellékleteket/rétegeket tartalmaz)
 pdfjs-toggle-views-manager-button-label = Oldalsáv be/ki
 pdfjs-views-manager-sidebar =
     .aria-label = Oldalsáv
@@ -653,6 +655,23 @@ pdfjs-views-manager-pages-title = Oldalak
 pdfjs-views-manager-outlines-title = Dokumentumvázlat
 pdfjs-views-manager-attachments-title = Mellékletek
 pdfjs-views-manager-layers-title = Rétegek
+pdfjs-views-manager-pages-option-label = Oldalak
+pdfjs-views-manager-outlines-option-label = Dokumentumvázlat
+pdfjs-views-manager-attachments-option-label = Mellékletek
+pdfjs-views-manager-layers-option-label = Rétegek
+pdfjs-views-manager-add-file-button =
+    .title = Fájl hozzáadása
+pdfjs-views-manager-add-file-button-label = Fájl hozzáadása
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } kiválasztva
+       *[other] { $count } kiválasztva
+    }
+pdfjs-views-manager-pages-status-none-action-label = Oldalak kiválasztása
+pdfjs-views-manager-pages-status-action-button-label = Kezelés
+pdfjs-views-manager-pages-status-copy-button-label = Másolás
 pdfjs-views-manager-pages-status-cut-button-label = Kivágás
 pdfjs-views-manager-pages-status-delete-button-label = Törlés
 pdfjs-views-manager-pages-status-save-as-button-label = Mentés másként…
