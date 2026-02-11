@@ -35,6 +35,11 @@ ipprotection-site-settings-callout-button = Rozumím
 
 ## Panel
 
+site-exclusion-toggle-label = Použít VPN pro tuto stránku
+site-exclusion-toggle-enabled =
+    .aria-label = VPN je pro tuto stránku zapnuta
+site-exclusion-toggle-disabled =
+    .aria-label = VPN je pro tuto stránku vypnuta
 ipprotection-settings-link =
     .label = Nastavení
 
@@ -57,15 +62,60 @@ ipprotection-button-connecting = Zapíná se…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN je pozastavena
+upgrade-vpn-button = Vyzkoušejte { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Nepodařilo se připojit k VPN
 ipprotection-connection-status-generic-error-description = Zkuste to znovu za několik minut.
 ipprotection-connection-status-network-error-title = Zkontrolujte své připojení k internetu
+ipprotection-connection-status-network-error-description = Připojte se k internetu a zkuste zapnout VPN.
+ipprotection-message-continuous-onboarding-intro = Zapněte VPN pro skrytí vaší polohy a pro dodatečné šifrování vašeho procházení.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pro tuto stránku vypnutá
+
+## IP Protection Settings
+
+ip-protection-learn-more = Zjistit více
+ip-protection-site-exceptions =
+    .label = Nastavení pro konkrétní stránku
+ip-protection-not-opted-in-button = Začít
+ip-protection-autostart =
+    .label = Zapnout VPN automaticky
+ip-protection-autostart-private-checkbox =
+    .label = V anonymních oknech
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Měsíční data VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Zbývá { $usageLeft } GB z { $maxUsage } GB pro tento měsíc
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Zbývá { $usageLeft } GB z { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Zbývá { $usageLeft } MB z { $maxUsage } GB pro tento měsíc
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Zbývá { $usageLeft } MB z { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Využili jste všech { $maxUsage } GB vašich dat VPN. Přístup bude příští měsíc obnoven.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Obnovuje se na { $maxUsage } GB každého prvního dne v měsíci.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, obnoveno a připraveno
+ipprotection-bandwidth-reset-text = Zapněte VPN pro další zvýšení soukromí. Zdarma každý měsíc.
 ipprotection-bandwidth-reset-button = Rozumím
 
 ## IP Protection alerts

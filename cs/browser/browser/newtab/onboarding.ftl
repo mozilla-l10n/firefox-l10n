@@ -801,3 +801,7 @@ onboarding-personalization-motivation-title =
 onboarding-personalization-motivation-privacy-option = Soukromí a zabezpečení
 onboarding-personalization-motivation-productivity-option = Produktivita
 onboarding-personalization-motivation-other-option = Jiné
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-sync-title = Jděte kamkoli. Synchronizujte vše.

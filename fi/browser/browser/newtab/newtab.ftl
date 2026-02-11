@@ -346,6 +346,8 @@ newtab-custom-widget-section-title = Widgetit
 newtab-custom-widget-section-toggle =
     .label = Widgetit
 newtab-widget-manage-title = Widgetit
+newtab-widget-manage-widget-button =
+    .label = Hallitse widgetejä
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Sulje
