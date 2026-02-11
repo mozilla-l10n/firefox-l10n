@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Scripturi service worker
     .alt = Pictogramă pentru scripturile service worker
     .title = Scripturi service worker
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Istoric sesiuni
+    .alt = Pictogramă istoric sesiuni
+    .title = Istoric sesiuni
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Afișează datele despre istoricul sesiunilor
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Pictogramă de avertizare

@@ -867,6 +867,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Nu au fost adăugate încă site-uri web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Șterge adresa
+    .title = Șterge adresa
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Nu au fost adăugate încă site-uri web.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt

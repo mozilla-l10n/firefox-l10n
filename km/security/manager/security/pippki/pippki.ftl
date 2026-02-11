@@ -18,8 +18,12 @@ pippki-pw-change-ok = បានផ្លាស់ប្តូរពាក្យ�
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window2 =
+    .title = កំណត់ពាក្យសម្ងាត់ចម្បងឡើងវិញ
+    .style = min-width: 40em
 reset-password-button-label =
     .label = កំណត់​ឡើង​វិញ
+reset-primary-password-text = ប្រសិនបើអ្នកកំណត់ពាក្យសម្ងាត់ចម្បងរបស់អ្នកឡើងវិញ ពាក្យសម្ងាត់គេហទំព័រ និងអ៊ីមែល វិញ្ញាបនបត្រផ្ទាល់ខ្លួន និងកូនសោឯកជនទាំងអស់ ដែលអ្នកបានរក្សាទុកនឹងត្រូវបានបំភ្លេចចោល។ តើអ្នកពិតជាចង់កំណត់ពាក្យសម្ងាត់ចម្បងរបស់អ្នកឡើងវិញមែនទេ?
 pippki-reset-password-confirmation-title = កំណត់ពាក្យសម្ងាត់ចម្បងឡើងវិញ
 pippki-reset-password-confirmation-message = ពាក្យសម្ងាត់ចម្បងរបស់អ្នកត្រូវបានកំណត់ឡើងវិញ។
 

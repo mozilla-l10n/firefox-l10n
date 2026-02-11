@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Închide { $tabCount } file
            *[other] Închide { $tabCount } de file
         }
+tab-splitview-splitter =
+    .aria-label = Redimensionează filele în ecranul divizat
 
 ## Tooltips for tab audio control
 ## Variables:

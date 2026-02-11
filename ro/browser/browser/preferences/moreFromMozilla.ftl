@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = Creator de site-uri web cu AI { -solo-ai-brand-name
 more-from-moz-mdn-title = Documente web MDN
 more-from-moz-mdn-description = Învață dezvoltare web cu ghiduri și referințe gratuite și complete.
 more-from-moz-mdn-button = Învață dezvoltare web
+more-from-moz-mdn-title2 = { -mdn-brand-name }

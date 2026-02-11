@@ -584,3 +584,6 @@ onboarding-refresh-onboarding-addons-subtitle = Extensiile sunt aplicații mici 
 onboarding-refresh-onboarding-addons-title = Dă un impuls navigării tale
 onboarding-refresh-sync-subtitle = Ia cu tine marcaje, parole și multe altele oriunde te autentifici în { -brand-short-name }. În plus, datele tale sunt criptate, astfel încât numai tu le poți vedea.
 onboarding-refresh-sync-title = Mergi oriunde. Sincronizează tot.
+onboarding-refresh-gratitude-subtitle = Îți mulțumim că folosești { -brand-short-name }, singurul browser major susținut de o organizație non-profit. Cu sprijinul tău, lucrăm pentru a face internetul mai sigur și mai accesibil pentru toți.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } te susține
