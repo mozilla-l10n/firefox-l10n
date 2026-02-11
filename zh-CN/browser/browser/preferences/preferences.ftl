@@ -2233,7 +2233,7 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = 阻止后，{ -brand-short-name } 将不再显示新的及现有的 AI 增强功能，也不会再弹出相关提示。<a data-l10n-name="link">详细了解</a>涉及的功能，以及传统机器学习功能（例如搜索建议和推荐）的控制方法。
 preferences-ai-controls-blocked-message =
-    .message = 默认将阻止新的和当前的 AI 增强功能。若要取消阻止特定功能，请使用下面的控制项。
+    .message = 默认将阻止新的及现有的 AI 增强功能。若要取消阻止特定功能，请使用下方的控制项。
 preferences-ai-controls-on-device-group =
     .label = 端侧 AI
     .description = 在使用以下功能时，其会调用下载到您设备上的小型 AI 模型。这种做法有助于保护您的隐私。
