@@ -198,6 +198,7 @@ onboarding-device-migration-primary-button-label = و من ٱووڌن
 
 amo-picker-install-button-label = ٱووردن و { -brand-short-name }
 amo-picker-install-complete-label = پۊرنیڌه وابی
+amo-picker-collection-link = پیتینیڌن وردنی یل قلوه
 
 ## The following screens have been updated to use security and privacy focused strings:
 
@@ -206,12 +207,15 @@ onboarding-easy-setup-security-and-privacy-title = ایما عاشوق زفت ک
 onboarding-easy-setup-security-and-privacy-subtitle = گشت گر ن سۊد بر ایما و ایسا هیاری اده تا شرکتا نترسته بۊن ایسا ن بؽڌاری من وب بنیرن وو و دین کونن.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = مجالی ک دسگا یل موختلف ن و کار اگیرین رزم ناهاڌه بمهنین.
+onboarding-sign-up-button = سبت نوم یا و من ٱووڌن
 onboarding-sign-up-secondary-button = ناهاڌن پا گشتن
 
 ## New user time and familiarity survey strings
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = بئڌی
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = مو کاملن تازه کاروم
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = مو کاملن تازه کاروم
 
@@ -223,14 +227,26 @@ onboarding-genai-sidebar-secondary-button = ناهاڌن پا گشتن
 
 ## New user onboarding checklist
 
+onboarding-checklist-set-default = سامووݩ { -brand-short-name } و عونوان گشت گر پؽش فرز
+onboarding-checklist-import = و من ٱووردن ز گشت گر پؽشی
 onboarding-checklist-extension = ازاف کردن ی وردنی
 
 ## Tab Groups feature onboarding strings
 
 tab-groups-onboarding-dismiss = خا
 
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-cta = وورکل پوروفایل
+multi-profile-callout-cta = وورکل پوروفایل
+
+## Desktop to Mobile Adoption feature callout strings
+
+dismiss-button-label = رڌ کردن
+
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-flair = پؽشنهاڌ وابیڌه
 create-backup-select-tile-button-label = پسند
 create-backup-back-button-label = وورگشتن
 fx-backup-opt-in-confirm-btn-label = رئڌن وا پؽش
