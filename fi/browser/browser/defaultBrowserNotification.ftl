@@ -41,3 +41,5 @@ default-browser-guidance-notification-body-instruction-win11 =
 default-browser-guidance-notification-info-page = Näytä minulle
 default-browser-guidance-notification-dismiss = Valmis
 default-browser-guidance-notification-v2-title = Viimeistele { -brand-short-name }in asettaminen oletusselaimeksi
+default-browser-guidance-notification-v2-body = Valitse asetuksista { -brand-short-name }in kohdalla ”Aseta oletukseksi”.
+default-browser-guidance-notification-v2-title-only = Viimeistele { -brand-short-name }in asettaminen oletusselaimeksi asetuksissa

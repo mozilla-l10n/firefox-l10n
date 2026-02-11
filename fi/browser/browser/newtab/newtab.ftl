@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Muokkaa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Hylkää
+    .aria-label = Hylkää
 
 ## Search box component.
 
@@ -703,6 +706,8 @@ newtab-widget-timer-menu-notifications = Poista ilmoitukset käytöstä
 newtab-widget-timer-menu-notifications-on = Ota ilmoitukset käyttöön
 newtab-widget-timer-menu-hide = Piilota ajastin
 newtab-widget-timer-menu-learn-more = Lue lisää
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Pääotsikot
 newtab-daily-briefing-card-menu-dismiss = Hylkää
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
@@ -725,3 +730,16 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Hylkää
     .aria-label = Hylkää
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Tee tästä tilasta omasi
+newtab-activation-window-message-customization-focus-message = Valitse uusi taustakuva, lisää oikotiet suosikkisivustoillesi ja pysy ajan tasalla sinua kiinnostavista tarinoista.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Aloita mukauttaminen
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Tämä tila toimii sinun säännöilläsi
+newtab-activation-window-message-values-focus-message = { -brand-product-name } antaa sinun selata verkkoa haluamallasi tavalla, tarjoten henkilökohtaisemman tavan aloittaa päiväsi verkossa. Tee { -brand-product-name }ista omasi.
