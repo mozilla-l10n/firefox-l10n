@@ -130,6 +130,10 @@ ip-protection-autostart-private-checkbox =
 ip-protection-exceptions-dialog-window =
     .title = 管理网站设置
 
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = 每月 VPN 流量
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-text = 启用 VPN 可额外增强隐私保护，每月免费提供。

@@ -151,19 +151,43 @@ mr2022-onboarding-set-default-primary-button-label = سامووݩ { -brand-short
 
 mr2022-onboarding-get-started-primary-button-label = من چن سانیه ره ونین
 
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-import-header = پۊرنیڌن جۊر برق وو باڌ
+mr2022-onboarding-import-primary-button-label-no-attribution = و من ٱووردن ز گشت گر پؽشی
+
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-primary-button-label-continue = سامووݩ وو رئڌن وا پؽش
 mr2022-onboarding-colorway-label-default = پؽش فرز
+mr2022-onboarding-colorway-description-default = <b>رنگا هیم سکویی { -brand-short-name } مو و کار گرؽڌه بۊن.</b>
 mr2022-onboarding-colorway-label-playmaker = بازیساز
 mr2022-onboarding-colorway-label-dreamer = رویا پرداز
 mr2022-onboarding-colorway-label-innovator = نۊ ٱوورد
 
+## MR2022 Upgrade Dialog screens
+## Pin private window screen shown only for users who don't have Firefox private pinned
+
+mr2022-upgrade-onboarding-pin-private-window-header = گرؽڌن آزاڌی گشتن مهرمووه وا ی کلیک
+
+## MR2022 Privacy Segmentation screen strings
+
+mr2022-onboarding-privacy-segmentation-title = ایما هی و هریم سیخومی ایسا ائترام انیم
+mr2022-onboarding-privacy-segmentation-button-secondary-label = داده یل فلوه ای نشووݩ بڌه
+
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-primary-button-label = چیا نۊ ن بنیرین
+mr2022-onboarding-gratitude-secondary-button-label = ناهاڌن پا گشتن
+
+## Onboarding spotlight for infrequent users
+
+onboarding-infrequent-import-primary-button = و من ٱووردن و { -brand-short-name }
 
 ## Device migration onboarding
 

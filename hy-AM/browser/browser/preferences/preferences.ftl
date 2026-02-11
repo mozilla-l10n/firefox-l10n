@@ -809,6 +809,12 @@ home-custom-homepage-no-results =
     .label = Դեռևս կայքեր չեն ավելացվել։
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Դեռևս կայքեր չեն ավելացվել։
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = Փոխարինել՝
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = Բացված էջեր
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = Էջանիշներ…
@@ -839,6 +845,7 @@ home-prefs-recommended-by-header-generic =
 home-prefs-recommended-by-description-generic = { -brand-product-name } ընտանիքի կողմից ընտրված բացառիկ բովանդակություն
 home-prefs-stories-header =
     .label = Պատմություններ
+home-prefs-stories-description = Անհատականացված պատմություններ՝ հիմնված ձեր գործունեության վրա
 
 ##
 
@@ -869,6 +876,14 @@ home-prefs-weather-header =
     .label = Եղանակ
 home-prefs-weather-description = Այսօրվա կանխատեսումը համառոտ
 home-prefs-weather-learn-more-link = Իմանալ ավելին
+home-prefs-widgets-header =
+    .label = Վիջեթներ
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Ցանկեր
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Ժամաչափ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name }-ի աջակցում
@@ -912,6 +927,10 @@ search-suggestions-cant-show-2 =
 addressbar-header-1 =
     .label = Հասցեագոտի
     .description = Ընտրեք Ձեր հասցեագոտում ցուցադրվող առաջարկները
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Առաջարկներ { -brand-short-name }-ից և մեր գործընկերներից ձեր հասցեագոտիում:
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -934,6 +953,9 @@ suggestions-addressbar-settings-generic2 = Փոխել այլ հասցեագոտ�
 search-suggestions-cant-show = Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմությունը։
 search-one-click-header2 = Որոնման դյուրանցումներ
 search-one-click-desc = Ընտրեք այլընտրանքային որոնիչներ, որոնք կերևան ստորև հասցեի գոտում և որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
+search-one-click-header-3 =
+    .label = Լրացուցիչ որոնողական համակարգեր
+    .description = Ընտրեք, թե որ որոնիչը և դյուրանցումները երևան ձեր հասցեագոտիում:
 search-choose-engine-column =
     .label = Որոնիչներ
 search-choose-keyword-column =
@@ -947,6 +969,9 @@ search-remove-engine =
 search-add-engine =
     .label = Ավելացնել
     .accesskey = A
+search-add-engine-2 =
+    .label = Ավելացնել որոնիչ
+    .accesskey = A
 search-edit-engine =
     .label = Խմբագրել
     .accesskey = E
@@ -958,6 +983,10 @@ search-keyword-warning-title = Կրկնել հիմաբառը
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Դուք ընտրել եք կրկնվող հիմաբառ, որը արդեն օգտագործվում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
 search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին օգտագործվում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Արդեն կա որոնողական համակարգ՝ «{ $name }» անվամբ։ Խնդրում ենք ընտրել մեկ այլ անուն։
 remove-engine-confirmation = Վստա՞հ եք, որ ուզում եք հեռացնել այս որոնիչը:
 remove-engine-remove = Հեռացնել
 remove-addon-engine-alert = Այս որոնիչը հեռացնելու համար հեռացրեք հարակցված հավելումը:
@@ -996,6 +1025,9 @@ sync-signedout-caption = Ձեր վեբը Ձեզ հետ է
 sync-signedout-description2 = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբառերը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
 sync-signedout-account-signin3 =
     .label = Մուտք գործեք՝ համաժամեցնելու համար…
+    .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = Մուտք գործեք ձեր հաշիվ՝ համաժամեցումը սկսելու համար
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1037,6 +1069,14 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -1055,6 +1095,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՎԱԾ
+prefs-syncing-on-2 =
+    .label = Համաժամեցումը միացված է
 prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՎԱԾ
 prefs-sync-turn-on-syncing =
     .label = Միացնել համաժամեցումը…
@@ -1082,6 +1124,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Դուք համաժամեցնում եք այս միույթները կապակցված ձեր բոլոր սարքերի միջև.
+sync-syncing-across-devices-heading-2 = Տվյալները համաժամեցված են տարբեր սարքերի միջև
 sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բաց ներդիրներ
@@ -1250,9 +1293,21 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Պահված գաղտնաբառեր
     .accesskey = d
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Լրացուցիչ պաշտպանություններ
 forms-primary-pw-use =
     .label = Հիմնական գաղտնաբառի օգտագործում
     .accesskey = U
+forms-primary-pw-set =
+    .label = Սահմանել հիմնական գաղտնաբառը
+forms-primary-pw-on =
+    .label = Հիմնական գաղտնաբառը միացված է
+forms-primary-pw-change-2 =
+    .label = Փոխել հիմնական գաղտնաբառը
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Անջատել այն
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Գաղտնաբառերը լրացնելու և կառավարելու համար պահանջել սարքի մուտք գործում
@@ -1305,6 +1360,56 @@ autofill-saved-payment-methods-button = Պահված վճարամիջոցներ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Պահանջել մուտք գործել սարք՝ լրացնելու և կառավարելու համար վճարամիջոցները
     .accesskey = o
+autofill-payment-methods-manage-payments-title =
+    .heading = Կառավարել վճարամիջոցները
+autofill-payment-methods-add-button = Ավելացնել նոր վճարամիջոց
+payments-list-header =
+    .label = Վճարամիջոցներ
+payments-list-item-label = <strong>Վճարամիջոցներ</strong>
+payments-delete-payment-button-label =
+    .aria-label = Ջնջել
+payments-edit-payment-button-label =
+    .aria-label = Խմբագրել
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Վճարամիջոցներ չեն ավելացվել
+payments-remove-payment-prompt-title = Հեռացնե՞լ այս վճարամիջոցը:
+payments-remove-payment-prompt-confirm-button = Հեռացնել
+payments-remove-payment-prompt-cancel-button = Չեղարկել
+addresses-list-header =
+    .label = Հասցեներ
+addreses-delete-address-button-label =
+    .aria-label = Ջնջել
+addreses-edit-address-button-label =
+    .aria-label = Խմբագրել
+addresses-delete-address-prompt-title = Ջնջե՞լ այս հասցեն:
+addresses-delete-address-prompt-confirm-button = Ջնջել
+addresses-delete-address-prompt-cancel-button = Չեղարկել
+autofill-addresses-add-button = Ավելացնել նոր հասցե
+autofill-addresses-manage-addresses-title =
+    .heading = Կառավարեք հասցեները և այլն
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Հասցեներ չեն ավելացվել
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
+addresses-group =
+    .label = Հասցեներ և այլն
+payments-group =
+    .label = Վճարամիջոցներ
 
 ## Privacy Section - History
 
@@ -1374,6 +1479,8 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie-ներ և կայքի տվյալներ
+sitedata-label =
+    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Հաշվում է կայքի տվյալները և շտեմի չափը…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1402,6 +1509,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Միջակայքային հետևումներ
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Միջակայքային հետևող թխուկներ
+sitedata-option-block-cross-site-cookies2 =
+    .label = Մեկուսացնել միջկայքային թխուկները
 sitedata-option-block-unvisited =
     .label = Նշոցիկներ չայցելած վեբ կայքերից
 sitedata-option-block-all =
@@ -1439,6 +1548,8 @@ forms-handle-cookie-banners =
 
 addressbar-header = Հասցեագոտի
 addressbar-suggest-1 = Ընտրեք Ձեր հասցեագոտում ցուցադրվող առաջարկները
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
 addressbar-suggest-firefox-suggest-1 = Առաջարկներ { -brand-short-name }-ից և մեր գործընկերներից Ձեր հասցեագոտում։
 addressbar-suggest = Հասցեագոտին օգտագործելիս առաջարկել
@@ -1474,6 +1585,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Արագ գործողություններ
     .accesskey = Ա
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Վերջին որոնումները
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Թրենդային որոնման առաջարկներ
+    .accesskey = t
 addressbar-suggestions-settings = Փոխել որոնիչների նախապատվությունները
 addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
@@ -1490,6 +1607,7 @@ addressbar-restore-dismissed-suggestions-button =
 content-blocking-enhanced-tracking-protection = Բարելավվում է հետագծման պաշտպանությունը
 content-blocking-section-top-level-description = Հետևողները հետևում են ձեզ առցանց ձեր զննարկման հատկությունների և հետաքրքրությունների մասին տեղեկություն հավաքելու համար։ { -brand-short-name }-ը արգելափակում է այս հետևումներից և այլ վնասարար գրվածքներից շատերը։
 content-blocking-learn-more = Իմանալ ավելին
+content-blocking-fpi-incompatibility-warning = Դուք օգտագործում եք առաջին կողմի մեկուսացումը (FPI), որը չեղարկում է { -brand-short-name }-ի որոշ cookie կարգավորումներ։
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1515,6 +1633,7 @@ content-blocking-private-windows = Գաղտնի պատուհաններում հ�
 content-blocking-cross-site-cookies-in-all-windows2 = Միջկայքային թխուկները բոլոր պատուհաններում
 content-blocking-cross-site-tracking-cookies = Միջակայքային հետևող նշոցիկներ
 content-blocking-all-cross-site-cookies-private-windows = Միջկայքային թխուկները գաղտնի պատուհաններում
+content-blocking-isolate-cross-site-cookies = Մեկուսացրեք միջկայքային թխուկները
 content-blocking-cross-site-tracking-cookies-plus-isolate = Խաչաձև կայքերի հետագծումների թխուկներ, և մեկուսացնում է մնացած թխուկները
 content-blocking-social-media-trackers = Սոցիալական մեդիայի հետևիչներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
@@ -1532,6 +1651,7 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ ավելին
 content-blocking-etp-standard-tcp-title = Ներառում է Թխուկների ամբողջական պաշտպանությունը, գաղտնիության մեր ամենահզոր յուրահատկությունը
 content-blocking-warning-title = Ուշադրություն։
 content-blocking-warning-learn-how = Իմանալ ինչպես
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Պահել շտկումները միացված
 content-blocking-reload-description = Ձեզ հարկավոր կլինի վերբեռնել ձեր ներդիրները այս փոփոխությունները հաստատելու համար։
 content-blocking-reload-tabs-button =
     .label = Վերբեռնել բոլոր ներդիրները
@@ -1617,6 +1737,9 @@ permissions-autoplay = Ինքնանվագարկում
 permissions-autoplay-settings =
     .label = Կարգավորումներ...
     .accesskey = t
+permissions-addon-exceptions2 =
+    .label = Ընտրեք, թե որ կայքերը կարող են տեղադրել ընդլայնումներ
+    .accesskey = E
 permissions-block-popups =
     .label = Կանխել ելնող պատուհանները
     .accesskey = Կ
@@ -1644,6 +1767,9 @@ permissions-camera2 =
     .label = Տեսախցիկ
 permissions-microphone2 =
     .label = Խոսափող
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Բարձրախոս
 permissions-notification2 =
     .label = Ծանուցումներ
 
@@ -1736,6 +1862,9 @@ certs-view =
 certs-devices =
     .label = Անվտանգության սարքեր...
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Թույլատրել { -brand-short-name }-ին ավտոմատ կերպով վստահել ձեր տեղադրած երրորդ կողմի root վկայականներին
+    .accesskey = t
 certs-devices-enable-fips = FIPS-ը միացնել
 space-alert-over-5gb-settings-button =
     .label = Բացել կարգավորումները
@@ -1763,6 +1892,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Միայն HTTPS կերպ
     .description = Թույլատրում է միայն անվտանգ միացումները վեբ կայքերին։ Չպաշտպանված միացումից առաջ՝ { -brand-short-name }-ը կհարցնի։
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -1830,3 +1961,14 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai-label = Արգելափակել ԱԲ բարելավումները
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-control =
+    .label = Թարգմանություններ
+    .description = Աննկատ դիտարկել վեբը ձեր նախընտրած լեզվով:
