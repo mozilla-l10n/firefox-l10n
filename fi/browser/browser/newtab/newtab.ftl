@@ -342,12 +342,12 @@ newtab-custom-widget-lists-toggle =
     .label = Listat
 newtab-custom-widget-timer-toggle =
     .label = Ajastin
-newtab-custom-widget-section-title = Widgetit
+newtab-custom-widget-section-title = Pienoisohjelmat
 newtab-custom-widget-section-toggle =
-    .label = Widgetit
-newtab-widget-manage-title = Widgetit
+    .label = Pienoisohjelmat
+newtab-widget-manage-title = Pienoisohjelmat
 newtab-widget-manage-widget-button =
-    .label = Hallitse widgetejä
+    .label = Hallitse pienoisohjelmia
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Sulje
@@ -675,17 +675,17 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Uusi lista
-newtab-widget-section-title = Widgetit
+newtab-widget-section-title = Pienoisohjelmat
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .title = Piilota widgetit
-    .aria-label = Piilota kaikki widgetit
+    .title = Piilota pienoisohjelmat
+    .aria-label = Piilota kaikki pienoisohjelmat
 newtab-widget-section-maximize =
-    .title = Laajenna widgetit
-    .aria-label = Laajenna widgetit täyteen kokoon
+    .title = Laajenna pienoisohjelmat
+    .aria-label = Laajenna pienoisohjelmat täyteen kokoon
 newtab-widget-section-minimize =
-    .title = Pienennä widgetit
-    .aria-label = Supista widgetit kompaktiin kokoon
+    .title = Pienennä pienoisohjelmat
+    .aria-label = Supista pienoisohjelmat kompaktiin kokoon
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

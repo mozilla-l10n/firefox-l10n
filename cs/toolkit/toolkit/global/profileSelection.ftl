@@ -45,3 +45,8 @@ profile-manager-use-selected =
     .label = Použít zvolený profil bez ptaní při startu
     .accesskey = P
 profile-has-selectable-profiles-title = Nelze smazat profil, který je propojený s jinými profily
+profile-has-selectable-profiles-message =
+    { -brand-short-name.case-status ->
+        [with-cases] Pro smazání tohoto profilu ho otevřete a v nabídce { -brand-short-name(case: "gen") } vyberte v sekci profily možnost Správa profilů. Po smazání všech dalších profilů, které jste zde vytvořili, se můžete vrátit do about:profiles a tento profil smazat.
+       *[no-cases] Pro smazání tohoto profilu ho otevřete a v nabídce aplikace { -brand-short-name } vyberte v sekci profily možnost Správa profilů. Po smazání všech dalších profilů, které jste zde vytvořili, se můžete vrátit do about:profiles a tento profil smazat.
+    }

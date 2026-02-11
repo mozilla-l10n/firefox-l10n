@@ -540,6 +540,7 @@ pdfjs-editor-undo-bar-message-freetext = Text odstraněn
 pdfjs-editor-undo-bar-message-ink = Kresba odstraněna
 pdfjs-editor-undo-bar-message-stamp = Obrázek odebrán
 pdfjs-editor-undo-bar-message-signature = Podpis odebrán
+pdfjs-editor-undo-bar-message-comment = Komentář odebrán
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -650,6 +651,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Přepnout postranní lištu
+pdfjs-toggle-views-manager-notification-button =
+    .title = Přepnout postranní lištu (dokument obsahuje náhledy/osnovu/přílohy/vrstvy)
 pdfjs-toggle-views-manager-button-label = Přepnout postranní lištu
 pdfjs-views-manager-sidebar =
     .aria-label = Postranní lišta

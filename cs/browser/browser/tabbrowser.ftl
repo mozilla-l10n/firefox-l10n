@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Zavřít { $tabCount } panely
            *[other] Zavřít { $tabCount } panelů
         }
+tab-splitview-splitter =
+    .aria-label = Změnit velikost panelů v rozděleném zobrazení
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -479,7 +481,7 @@ tab-context-open-in-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Samostatné rozdělené zobrazení
+    .label = Zrušit rozdělené zobrazení
     .accesskey = t
 tab-context-badge-new = Nové
 # Split view tabs display their respective contents side by side

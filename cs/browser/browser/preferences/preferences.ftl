@@ -2524,6 +2524,9 @@ preferences-ai-controls-translations-control =
     .label = Překlady
     .description = Procházejte internet plynule ve svém preferovaném jazyce.
 preferences-ai-controls-translations-more-link = Další nastavení překladu
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Návrhy pro skupiny panelů
+    .description = Získejte návrhy na pojmenování a uspořádání panelů.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot v postranní liště
 # This option means that a user will see the feature and can use it.
