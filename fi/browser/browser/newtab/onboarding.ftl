@@ -578,6 +578,12 @@ onboarding-refresh-pin-set-default-subtitle = Suojaamme tietojasi ja estämme yr
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Olet turvallisissa käpälissä
 onboarding-refresh-import-subtitle = Tuo salasanasi, kirjanmerkkisi, historiasi ja paljon muuta.
+onboarding-refresh-import-title = Tee { -brand-short-name }ista itsellesi sopiva
 onboarding-refresh-onboarding-addons-subtitle = Laajennukset ovat pieniä sovelluksia, joiden avulla voit mukauttaa { -brand-short-name }ia. Ne voivat tehostaa yksityisyyttäsi, parantaa tuottavuutta, muuttaa { -brand-short-name }in ulkoasua ja paljon muuta.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Anna selailullesi tehostus
+onboarding-refresh-sync-subtitle = Käytä kirjanmerkkejä, salasanoja ja paljon muuta kaikkialta, missä olet kirjautuneena { -brand-short-name }iin. Lisäksi tietosi salataan, joten vain sinä näet ne.
+onboarding-refresh-sync-title = Mene minne tahansa. Synkronoi kaikki.
+onboarding-refresh-gratitude-subtitle = Kiitos, että käytät { -brand-short-name }ia, ainoaa selainta, jota tukee voittoa tavoittelematon järjestö. Tukesi avulla pyrimme tekemään Internetistä turvallisemman ja helpommin käytettävän kaikille.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } huolehtii sinusta
