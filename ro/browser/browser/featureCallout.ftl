@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Cât de mulțumit(ă) ești de acce
 sidebar-genai-survey-productive-question =
     În ce măsură ești de acord sau nu cu această afirmație:<br/>
     „Chatbotul AI din bara laterală mă ajută să fiu mai productiv(ă)”?
+splitview-onboarding-callout-title-1 = Ecran divizat: un mod mai bun de multitasking
+splitview-onboarding-callout-subtitle-1 = Dă clic dreapta pe această filă și alege „Adaugă ecran divizat” ca să afișezi două file simultan.
+splitview-onboarding-callout-cta-1 = Încearcă acum
+splitview-onboarding-callout-title-2 = Vezi două file simultan cu modul de ecran divizat
+splitview-onboarding-callout-subtitle-2 = Fără ferestre suplimentare. Fără schimbarea filelor. Dă clic dreapta pe această filă și alege „Adaugă ecran divizat”.
+splitview-onboarding-callout-cta-2 = Încearcă ecranul divizat
 unified-search-callout-title = Treci de la un  motor de căutare la altul
 unified-search-callout-subtitle = Alege ce funcționează cel mai bine pentru căutarea ta specifică.
 unified-search-callout-primary-label = Înainte

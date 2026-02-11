@@ -45,6 +45,7 @@ policy-InstallAddonsPermission = អនុញ្ញាត​ឲ្យ​​គ�
 
 ##
 
+policy-PrimaryPassword = តម្រូវ​ឱ្យ​ប្រើ ឬ​ទប់ស្កាត់​ការ​ប្រើ​ពាក្យ​សម្ងាត់​ចម្បង។
 policy-PictureInPicture = មើល ឬបិទមុខងាររូបភាពក្នុងរូបភាព
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
 policy-ShowHomeButton = បង្ហាញប៊ូតុងទំព័រដើមនៅលើរបារឧបករណ៍។

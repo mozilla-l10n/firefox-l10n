@@ -570,3 +570,17 @@ onboarding-personalization-motivation-title = Ce funcționalități { -brand-sho
 onboarding-personalization-motivation-privacy-option = Confidențialitate și securitate
 onboarding-personalization-motivation-productivity-option = Productivitate
 onboarding-personalization-motivation-other-option = Altele
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Îți protejăm datele și împiedicăm companiile să îți spioneze clicurile — automat.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Ești în siguranță cu Firefox
+onboarding-refresh-import-subtitle = Adu-ți parolele, marcajele, istoricul și multe altele.
+onboarding-refresh-import-title = Fă { -brand-short-name } ca la tine acasă
+onboarding-refresh-onboarding-addons-subtitle = Extensiile sunt aplicații mici care îți permit să personalizezi { -brand-short-name }. Pot îmbunătăți confidențialitatea, productivitatea, pot schimba aspectul { -brand-short-name } și multe altele.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Dă un impuls navigării tale
+onboarding-refresh-sync-subtitle = Ia cu tine marcaje, parole și multe altele oriunde te autentifici în { -brand-short-name }. În plus, datele tale sunt criptate, astfel încât numai tu le poți vedea.
+onboarding-refresh-sync-title = Mergi oriunde. Sincronizează tot.

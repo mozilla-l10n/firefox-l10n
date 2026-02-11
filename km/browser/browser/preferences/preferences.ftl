@@ -623,6 +623,14 @@ forms-primary-pw-change =
     .accesskey = P
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = បង្កើតពាក្យសម្ងាត់ចម្បង
+
 ## Privacy section - Autofill
 
 payments-delete-payment-prompt-cancel-button = បោះបង់

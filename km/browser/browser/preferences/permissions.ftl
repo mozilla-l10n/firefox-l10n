@@ -69,6 +69,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ការចូលសម្រាប់គេហទំព័រខាងក្រោមនឹងមិនត្រូវបានរក្សាទុកទេ
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = ករណីលើកលែង - ពាក្យសម្ងាត់ដែលបានរក្សាទុក
+    .style = { permissions-window2.style }
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

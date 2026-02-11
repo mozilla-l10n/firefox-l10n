@@ -54,5 +54,6 @@ migration-list-password-label = ពាក្យសម្ងាត់
 
 ##
 
+migration-safari-password-import-step1 = នៅក្នុង Safari សូមបើកម៉ឺនុយ “Safari” ហើយចូលទៅកាន់ Preferences > ពាក្យសម្ងាត់
 migration-safari-password-import-step2 = ជ្រើសរើសប៊ូតុង <img data-l10n-name="safari-icon-3dots"/> ហើយជ្រើសរើស “នាំចេញពាក្យសម្ងាត់ទាំងអស់”
 migration-chrome-windows-password-import-step1 = បើកម៉ឺនុយដើម <img data-l10n-name="chrome-icon-3dots"/> ហើយចូលទៅកាន់ ពាក្យសម្ងាត់ និងការបំពេញដោយស្វ័យប្រវត្តិ > កម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់ Google។
