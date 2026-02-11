@@ -138,6 +138,9 @@ ip-protection-autostart-checkbox =
     .label = Kun avaan { -brand-short-name }in
 ip-protection-autostart-private-checkbox =
     .label = Yksityisissä ikkunoissa
+ip-protection-vpn-upgrade-link =
+    .label = Saat entistä enemmän suojaa { -brand-short-name }in ulkopuolella käyttämällä { -mozilla-vpn-brand-name }:ää.
+    .description = Valitse mukautettuja VPN-sijainteja ja lisää ripaus suojausta kaikkiin sovelluksiisi, jopa viidellä laitteella, olitpa sitten kotona tai julkisessa Wi-Fi-verkossa.
 
 ## IP Protection dialogs
 

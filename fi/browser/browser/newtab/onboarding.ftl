@@ -570,3 +570,14 @@ onboarding-personalization-motivation-title = Mitkä { -brand-short-name }in omi
 onboarding-personalization-motivation-privacy-option = Tietosuoja ja turvallisuus
 onboarding-personalization-motivation-productivity-option = Tuottavuus
 onboarding-personalization-motivation-other-option = Muu
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Suojaamme tietojasi ja estämme yrityksiä vakoilemasta napsautuksiasi – automaattisesti.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Olet turvallisissa käpälissä
+onboarding-refresh-import-subtitle = Tuo salasanasi, kirjanmerkkisi, historiasi ja paljon muuta.
+onboarding-refresh-onboarding-addons-subtitle = Laajennukset ovat pieniä sovelluksia, joiden avulla voit mukauttaa { -brand-short-name }ia. Ne voivat tehostaa yksityisyyttäsi, parantaa tuottavuutta, muuttaa { -brand-short-name }in ulkoasua ja paljon muuta.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Anna selailullesi tehostus
