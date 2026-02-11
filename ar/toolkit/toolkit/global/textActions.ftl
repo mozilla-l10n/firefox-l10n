@@ -22,6 +22,12 @@ text-action-copy =
     .accesskey = ن
 text-action-copy-shortcut =
     .key = C
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+text-action-copy-clean-link =
+    .label = انسخ الرابط النظيف
+    .accesskey = ن
 text-action-paste =
     .label = ألصق
     .accesskey = ل
@@ -59,6 +65,11 @@ text-action-search-text-box-clear =
     .title = امسح
 text-action-highlight-selection =
     .label = لون التحديد
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = انسخ الرابط النظيف للتبريز
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
