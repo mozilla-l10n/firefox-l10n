@@ -32,3 +32,33 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Ne, děkuji
 
 ipprotection-site-settings-callout-title = Vyberte, kde používáte VPN
 ipprotection-site-settings-callout-button = Rozumím
+
+## Panel
+
+ipprotection-settings-link =
+    .label = Nastavení
+
+## Status card
+
+ipprotection-connection-status-connected = VPN je zapnutá
+ipprotection-connection-status-disconnected = VPN je vypnutá
+ipprotection-connection-status-excluded = VPN je pro tuto stránku vypnutá
+ipprotection-connection-status-connecting = VPN se připojuje…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Vypnout VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Vypnout VPN všude
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Zapnout VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Zapíná se…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN je pozastavena
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Nepodařilo se připojit k VPN
+ipprotection-connection-status-generic-error-description = Zkuste to znovu za několik minut.
