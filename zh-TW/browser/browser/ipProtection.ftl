@@ -98,3 +98,5 @@ ip-protection-learn-more = 更多資訊
 
 vpn-paused-alert-close-tabs-button = 關閉所有分頁
 vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 繼續
+vpn-error-alert-title = VPN 發生錯誤，目前無法使用。
+vpn-error-alert-body = 請稍後再試。

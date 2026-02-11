@@ -114,6 +114,15 @@ ip-protection-description =
 ip-protection-learn-more = 详细了解
 ip-protection-site-exceptions =
     .label = 特定网站设置
+ip-protection-autostart =
+    .label = 自动开启 VPN
+ip-protection-autostart-private-checkbox =
+    .label = 在隐私窗口中
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = 管理网站设置
 
 ## IP Protection alerts
 

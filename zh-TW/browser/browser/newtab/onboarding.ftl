@@ -557,3 +557,12 @@ onboarding-personalization-motivation-title = { -brand-short-name } 的哪些功
 onboarding-personalization-motivation-privacy-option = 隱私權與安全性
 onboarding-personalization-motivation-productivity-option = 生產力
 onboarding-personalization-motivation-other-option = 其他
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = 我們會保護您的資料，並自動防止企業偷窺您的點擊行為。
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = 一切都安全了
+onboarding-refresh-import-subtitle = 將您的密碼、書籤、瀏覽紀錄等資料移轉過來。
+onboarding-refresh-import-title = 讓 { -brand-short-name } 更有家的風格
