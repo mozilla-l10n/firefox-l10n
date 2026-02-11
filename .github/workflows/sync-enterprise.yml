@@ -1,0 +1,57 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+name: Sync enterprise-l10n
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 6 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout firefox-l10n
+        uses: actions/checkout@v6
+        with:
+          path: firefox-l10n
+          fetch-depth: 0
+      - name: Checkout enterprise-firefox-l10n
+        uses: actions/checkout@v6
+        with:
+          repository: mozilla-l10n/enterprise-firefox-l10n
+          path: enterprise-l10n
+          fetch-depth: 1
+      - name: Copy locale folders from enterprise repo
+        run: |
+          for dir in enterprise-l10n/*/; do
+            locale="$(basename "$dir")"
+
+            # Skip en-US, configs, and hidden dirs
+            if [[ "$locale" == "en-US" || "$locale" == .* || "$locale" == _* ]]; then
+              continue
+            fi
+
+            echo "Syncing locale: $locale"
+            mkdir -p "firefox-l10n/$locale"
+            rsync -a \
+              --exclude='.*' \
+              "$dir" "firefox-l10n/$locale/"
+          done
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          path: firefox-l10n
+          branch: l10n_enterprise
+          base: main
+          delete-branch: true
+          commit-message: "Sync localizations from enterprise-l10n"
+          title: "Sync localizations from enterprise-l10n"
+          body: |
+            Automated sync from `mozilla-l10n/enterprise-firefox-l10n`.
