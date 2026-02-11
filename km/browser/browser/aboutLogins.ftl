@@ -196,6 +196,8 @@ about-logins-confirm-remove-dialog-title = លុបការចូលនេះ�
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = លុបពាក្យសម្ងាត់ចេញ?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = អ្នកមិនអាចត្រឡប់សកម្មភាពនេះវិញបានទេ។
 about-logins-confirm-remove-dialog-confirm-button = លុប​ចេញ
 
 ## Variables
