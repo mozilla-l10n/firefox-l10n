@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Vaihe 2: Valitse "Aseta oletus" selaimelle { -brand-short-name }
 default-browser-guidance-notification-info-page = Näytä minulle
 default-browser-guidance-notification-dismiss = Valmis
+default-browser-guidance-notification-v2-title = Viimeistele { -brand-short-name }in asettaminen oletusselaimeksi
