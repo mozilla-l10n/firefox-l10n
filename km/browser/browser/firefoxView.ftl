@@ -15,6 +15,16 @@ firefoxview-collapse-button-show =
 firefoxview-collapse-button-hide =
     .title = លាក់បញ្ជី
 
+## History in this context refers to browser history
+
+firefoxview-history-context-delete = លុបចេញពីប្រវត្តិ
+    .accesskey = D
+
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chat-context-delete = លុបចេញពីការជជែក
+    .accesskey = D
+
 ##
 
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).

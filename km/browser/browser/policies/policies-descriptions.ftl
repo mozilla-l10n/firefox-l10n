@@ -48,6 +48,8 @@ policy-InstallAddonsPermission = អនុញ្ញាត​ឲ្យ​​គ�
 policy-PrimaryPassword = តម្រូវ​ឱ្យ​ប្រើ ឬ​ទប់ស្កាត់​ការ​ប្រើ​ពាក្យ​សម្ងាត់​ចម្បង។
 policy-PictureInPicture = មើល ឬបិទមុខងាររូបភាពក្នុងរូបភាព
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = បន្ថែម ឬលុបម៉ូឌុល PKCS #11។
 policy-ShowHomeButton = បង្ហាញប៊ូតុងទំព័រដើមនៅលើរបារឧបករណ៍។
 policy-SSLVersionMax = កំណត់ជំនាន់ SSL អតិបរមា
 policy-SSLVersionMin = កំណត់ជំនាន់ SSL អប្បបរមា។

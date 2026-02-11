@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-card-delete-button =
+    .title = លុបប្រវត្តិរូប
+    .aria-label = លុបប្រវត្តិរូប
+edit-profile-page-delete-button =
+    .label = លុប
 edit-profile-page-avatar-selector-opener-link = កែសម្រួល
 avatar-selector-custom-tab = ផ្ទាល់ខ្លួន
 avatar-selector-cancel-button =
@@ -12,6 +17,13 @@ edit-profile-page-profile-saved = បានរក្សាទុក
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title = លុបប្រវត្តិរូប { $profilename }
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = លុប​ប្រវត្តិរូប { $profilename } ចេញ?
+delete-profile-description = { -brand-short-name } នឹងលុបទិន្នន័យខាងក្រោមចេញពីឧបករណ៍នេះជាអចិន្ត្រៃយ៍៖
 delete-profile-bookmarks = ចំណាំ
 delete-profile-logins = ពាក្យ​សម្ងាត់
 

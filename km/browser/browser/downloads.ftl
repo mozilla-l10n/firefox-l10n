@@ -47,6 +47,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = សម្អាត​ការ​ទាញ​យក
     .accesskey = ទ
+downloads-cmd-delete-file =
+    .label = លុប
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = អនុញ្ញាត​ឲ្យ​ទាញយក
@@ -99,6 +102,12 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = ព័ត៌មាន​លម្អិត​ការទាញយក
+
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-delete-button =
+    .label = លុបឯកសារដោយស្វ័យប្រវត្តិ
+    .accesskey = D
 
 ##
 

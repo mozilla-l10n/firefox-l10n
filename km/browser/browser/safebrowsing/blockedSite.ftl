@@ -6,6 +6,7 @@ safeb-blocked-phishing-page-title = គេហទំព័រ​បញ្ឆោ�
 safeb-blocked-malware-page-title = ការទស្សនាវិបសាយនេះ​​អាច​អាម​ឃាត់​កុំព្យូទ័រ​របស់​អ្នក
 safeb-blocked-unwanted-page-title = វិបសាយ​ខាង​មុខ​អាច​មានកម្មវិធីបង្កគ្រោះថ្នាក់
 safeb-blocked-harmful-page-title = វិបសាយ​​ខាង​មុខ​អាច​មាន​ផ្ទុក​មេរោគ
+safeb-blocked-malware-page-short-desc = { -brand-short-name } បានរារាំងទំព័រនេះ ពីព្រោះវាអាចនឹងព្យាយាមដំឡើងកម្មវិធីមេរោគ ដែលអាចលួច ឬលុបព័ត៌មានផ្ទាល់ខ្លួននៅលើកុំព្យូទ័ររបស់អ្នក។
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = សេចក្ដីណែនាំដោយ <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>។

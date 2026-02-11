@@ -40,6 +40,15 @@ places-delete-domain-data =
 places-sortby-name =
     .label = តម្រៀប​តាម​ឈ្មោះ
     .accesskey = r
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] លុបថតឯកសារ
+           *[other] លុបថតឯកសារ
+        }
+    .accesskey = D
 # Variables:
 #   $count (number) - The number of pages selected for removal.
 places-delete-page =
@@ -47,6 +56,15 @@ places-delete-page =
         { $count ->
             [1] លុបទំព័រ
            *[other] លុបទំព័រ
+        }
+    .accesskey = D
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] លុបចំណាំ
+           *[other] លុបចំណាំ
         }
     .accesskey = D
 places-library3 =

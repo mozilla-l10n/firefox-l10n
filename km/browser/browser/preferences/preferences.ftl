@@ -156,6 +156,12 @@ settings-translations-subpage-no-languages-downloaded =
     .label = គ្មានភាសាណាមួយត្រូវបានទាញយកទេ
 settings-translations-subpage-no-languages-added =
     .label = គ្មានភាសាណាមួយត្រូវបានបន្ថែមទេ
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = លុប { $language } ({ $size }MB)?
+settings-translations-subpage-download-delete-button =
+    .label = លុប
 settings-translations-subpage-download-cancel-button =
     .label = បោះបង់
 settings-translations-subpage-no-sites-added =
@@ -189,6 +195,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = តែងតែ​សួរ​​រក​កន្លែង​ដែល​ត្រូវរក្សាទុក​ឯកសារ
     .accesskey = A
+download-private-browsing-delete =
+    .label = លុបឯកសារ ដែលបានទាញយកនៅក្នុងការរុករកឯកជន នៅពេលដែលបង្អួចឯកជនទាំងអស់ត្រូវបានបិទ
+    .accesskey = D
 applications-header = កម្មវិធី
 applications-description = ជ្រើសរើស​របៀប​ដែល { -brand-short-name } បើក​ដំណើរការ​ឯកសារ​ដែល​អ្នក​ទាញយក​ពី​បណ្ដាញ ឬ​កម្មវិធី​ដែល​អ្នក​ប្រើប្រាស់​នៅ​ពេល​រុករក។
 applications-filter =
@@ -372,6 +381,12 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
+
+## Custom Homepage subpage
+
+home-custom-homepage-delete-address-button =
+    .aria-label = លុបអាសយដ្ឋាន
+    .title = លុបអាសយដ្ឋាន
 
 ## Home Section - Firefox Home Content Customization
 
@@ -633,8 +648,16 @@ primary-password-os-auth-dialog-message-macosx = បង្កើតពាក្�
 
 ## Privacy section - Autofill
 
+payments-delete-payment-prompt-title = លុបវិធីសាស្ត្រទូទាត់នេះ?
+payments-delete-payment-prompt-confirm-button = លុប
 payments-delete-payment-prompt-cancel-button = បោះបង់
+payments-delete-payment-button-label =
+    .aria-label = លុប
 payments-remove-payment-prompt-cancel-button = បោះបង់
+addreses-delete-address-button-label =
+    .aria-label = លុប
+addresses-delete-address-prompt-title = លុបអាសយដ្ឋាននេះ?
+addresses-delete-address-prompt-confirm-button = លុប
 addresses-delete-address-prompt-cancel-button = បោះបង់
 
 ## Privacy Section - History
@@ -711,6 +734,12 @@ sitedata-total-size-calculating = កំពុងគណនាទិន្នន�
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ខុកឃី ទិន្នន័យវិបសាយ និងឃ្លាំងសម្ងាត់ដែលបានផ្ទុករបស់អ្នកបច្ចុប្បន្នកំពុងប្រើទំហំថាស { $value } { $unit }។
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
+sitedata-delete-on-close =
+    .label = លុបខូគី និងទិន្នន័យគេហទំព័រ នៅពេលដែល { -brand-short-name } ត្រូវបានបិទ
+    .accesskey = c
+sitedata-delete-on-close-private-browsing3 =
+    .message = ដោយផ្អែកលើការកំណត់ប្រវត្តិរបស់អ្នក { -brand-short-name } លុបខូគី និងទិន្នន័យគេហទំព័រចេញពីវគ្គរបស់អ្នក នៅពេលអ្នកបិទកម្មវិធីរុករក។
+sitedata-delete-on-close-private-browsing2 = ដោយផ្អែកលើការកំណត់ប្រវត្តិរបស់អ្នក { -brand-short-name } លុបខូគី និងទិន្នន័យគេហទំព័រចេញពីវគ្គរបស់អ្នក នៅពេលអ្នកបិទកម្មវិធីរុករក។
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ប្រភេទខ្លឹមផ្សាដែលបានទប់ស្កាត់
@@ -809,6 +838,7 @@ permissions-notification2 =
 collection-header = ការប្រមូល និងការប្រើប្រាស់ទិន្នន័យ { -brand-short-name }
 collection-description = យើងខិតខំផ្តល់ជូនអ្នកនូវជម្រើស និងប្រមូលតែ​អ្វីដែលយើងត្រូវការ ដើម្បីផ្តល់ និងកែលម្អ { -brand-short-name } សម្រាប់មនុស្សគ្រប់គ្នា​​ប៉ុណ្ណោះ។ យើងតែងតែសុំការអនុញ្ញាត មុនពេលទទួលបានព័ត៌មានផ្ទាល់ខ្លួន។
 collection-privacy-notice = ការជូនដំណឹង​អំពី​ឯកជនភាព
+collection-health-report-telemetry-disabled = អ្នកលែងអនុញ្ញាតឱ្យ { -vendor-short-name } ចាប់យកទិន្នន័យបច្ចេកទេស និងអន្តរកម្មទៀតហើយ។ ទិន្នន័យពីមុនទាំងអស់នឹងត្រូវបានលុបចោលក្នុងរយៈពេល 30 ថ្ងៃ។
 collection-health-report =
     .label = អនុញ្ញាតឲ្យ { -brand-short-name } ផ្ញើទិន្នន័យបច្ចេកទេស និងអន្តរកម្មទៅ { -vendor-short-name }
     .accesskey = r
