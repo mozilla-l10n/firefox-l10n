@@ -3,6 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Toolbar button tooltip reflects VPN state
+
+ipprotection-button =
+    .label = VPN
+    .tooltiptext = VPN
+ipprotection-button-error =
+    .label = Slå på VPN
+    .tooltiptext = Slå på VPN
+
+##
+
+# The word "Beta" is intended to be uppercase in the experiment label.
+ipprotection-experiment-badge =
+    .label = BETA
+
 ## Feature introduction callout
 
 ipprotection-feature-introduction-button-primary = Neste
