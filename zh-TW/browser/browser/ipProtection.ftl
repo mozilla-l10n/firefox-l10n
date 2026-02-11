@@ -88,3 +88,13 @@ ipprotection-connection-status-network-error-description = 請連線到網際網
 ipprotection-message-bandwidth-warning =
     .heading = VPN 流量即將用完
     .message = 這個月您還剩下 { $usageLeft } GB 可以使用。（上限 { $maxUsage } GB）
+ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的所在位置，並在上網時多加一層加密保護。
+
+## IP Protection Settings
+
+ip-protection-learn-more = 更多資訊
+
+## IP Protection alerts
+
+vpn-paused-alert-close-tabs-button = 關閉所有分頁
+vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 繼續
