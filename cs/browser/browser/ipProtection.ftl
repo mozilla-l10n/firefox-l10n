@@ -62,3 +62,16 @@ ipprotection-connection-status-paused-title = VPN je pozastavena
 
 ipprotection-connection-status-generic-error-title = Nepodařilo se připojit k VPN
 ipprotection-connection-status-generic-error-description = Zkuste to znovu za několik minut.
+ipprotection-connection-status-network-error-title = Zkontrolujte své připojení k internetu
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Rozumím
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN je pozastavena
+vpn-paused-alert-close-tabs-button = Zavřít všechny panely
+vpn-paused-alert-continue-wo-vpn-button = Pokračovat bez VPN
+vpn-error-alert-title = VPN právě nefunguje.
+vpn-error-alert-body = Zkuste to znovu později.
