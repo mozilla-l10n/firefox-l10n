@@ -17,9 +17,13 @@ ipprotection-button-error =
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA
+ipprotection-help-button =
+    .tooltiptext = Opne VPN-brukarstøttesida
+ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Vi introduserer VPN, no rett i nettlesaren din
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
@@ -64,3 +68,50 @@ ipprotection-button-connecting = Slår på…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN sett på pause
+upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Klarte ikkje å kople til VPN
+ipprotection-connection-status-generic-error-description = Prøv igjen om nokre minutt.
+ipprotection-connection-status-network-error-title = Sjekk internettilkoplinga di
+ipprotection-connection-status-network-error-description = Kople til internett, og prøv deretter å slå på VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Du nærmar deg VPN-grensa di
+    .message = Du har { $usageLeft } GB av { $maxUsage } GB att denne månaden.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
+
+## IP Protection Settings
+
+ip-protection-learn-more = Les meir
+ip-protection-not-opted-in-button = Kom i gang
+ip-protection-autostart =
+    .label = Slå på VPN automatisk
+ip-protection-autostart-checkbox =
+    .label = Når eg opnar { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = I private vindauge
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Handsam nettstadsinnstillingar
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Månadleg VPN-data
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Eg forstår
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN sett på pause
+vpn-paused-alert-close-tabs-button = Lat att alle faner
+vpn-paused-alert-continue-wo-vpn-button = Hald fram utan VPN
+vpn-error-alert-title = VPN fungerer ikkje akkurat no.
+vpn-error-alert-body = Prøv igjen seinare.
