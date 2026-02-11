@@ -289,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Selaimen asettelu
+browser-layout-horizontal-tabs2 =
+    .label = Vaakasuuntaiset välilehdet
+    .title = Välilehdet ylhäällä
+    .description = Välilehdet ylhäällä
+browser-layout-vertical-tabs2 =
+    .label = Pystysuuntaiset välilehdet
+    .title = Välilehdet sivupalkissa
+    .description = Välilehdet sivupalkissa
 browser-layout-show-sidebar2 =
     .label = Näytä sivupalkki
     .description = Käytä nopeasti kirjanmerkkejä, välilehtiä, AI-chatbotteja ja paljon muuta poistumatta päänäkymästä.
@@ -407,11 +415,28 @@ preferences-text-zoom-override-warning =
     .message = Varoitus: Jos valitset "Muuta vain tekstin kokoa" ja oletussuurennusta ei ole asetettu 100 %:iin, jotkin sivustot tai sisällöt saattavat rikkoutua.
 language-header = Kieli
 choose-language-description = Valitse kielet, joilla sivut näytetään
+website-language-heading =
+    .label = Verkkosivuston kieli
+    .description = Jotkin sivustot esitetään useilla kielillä. Valitse kielet ensisijaisuusjärjestyksessä.
+website-preferred-language =
+    .label = Ensisijaiset kielet
 website-add-language =
     .label = Lisää kieli
 website-add-language-button =
     .aria-label = Lisää valittu kieli
     .title = Lisää valittu kieli
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Poista { $locale }
+    .title = Poista { $locale }
 choose-button =
     .label = Valitse…
     .accesskey = V
@@ -763,6 +788,12 @@ home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Oletusselain
+is-default-browser-2 =
+    .message = { -brand-short-name } on oletusselaimesi. Hyvä valinta.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } ei ole oletusarvoinen selaimesi.
 set-as-my-default-browser-2 =
     .label = Aseta oletukseksi
     .accesskey = e
@@ -1391,6 +1422,10 @@ forms-additional-protections-header =
     .label = Lisäsuojaukset
 forms-primary-pw-use =
     .label = Käytä pääsalasanaa
+    .accesskey = K
+forms-primary-pw-use-2 =
+    .label = Käytä pääsalasanaa
+    .description = Lisää kerroksen turvallisuutta tallennettujen salasanojesi suojaamiseksi.
     .accesskey = K
 forms-primary-pw-set =
     .label = Aseta pääsalasana
@@ -2024,6 +2059,8 @@ collection-studies-description = Kokeile ominaisuuksia ja ideoita, ennen kuin ne
 collection-studies =
     .label = Salli, että { -brand-short-name } asentaa ja suorittaa tutkimuksia
 collection-studies-link = Näytä { -brand-short-name }-tutkimukset
+nimbus-rollouts-enabled =
+    .label = Salli { -brand-short-name }in parantaa ominaisuuksia, suorituskykyä ja vakautta päivitysten välillä
 nimbus-rollouts-enabled-description = Muutokset otetaan käyttöön etänä.
 addon-recommendations2 =
     .label = Salli henkilökohtaiset laajennussuositukset
@@ -2199,5 +2236,48 @@ choose-download-folder-title = Valitse tallennuskansio
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Sinulla on aina vaihtoehtoja { -brand-short-name }issa,, mukaan lukien tekoälyn parannettujen ominaisuuksien käyttö. Lisää säätimiä on tulossa pian.
+preferences-ai-controls-block-ai-label = Estä tekoälytehostukset
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Estäminen tarkoittaa, että et näe uusia tai nykyisiä tekoälytehostuksia { -brand-short-name }issa, etkä niistä kertovia ponnahdusikkunoita. <a data-l10n-name="link">Lue lisätietoja</a> siitä, mitä ominaisuuksia on ja miten voit hallita perinteisiä koneoppimisominaisuuksia, kuten hakuehdotuksia ja suosituksia.
+preferences-ai-controls-blocked-message =
+    .message = Uudet ja nykyiset tekoälytehostukset on oletusarvoisesti estetty. Voit poistaa tietyn ominaisuuden eston alla olevilla säätimillä.
+preferences-ai-controls-on-device-group =
+    .label = Paikallisen laitteen tekoäly
+    .description = Nämä ovat pieniä tekoälymalleja, jotka ladataan laitteellesi, jos käytät tätä ominaisuutta. Tämä lähestymistapa auttaa suojaamaan yksityisyyttäsi.
+preferences-ai-controls-translations-control =
+    .label = Käännökset
+    .description = Selaa verkkoa haluamallasi kielellä.
+preferences-ai-controls-translations-more-link = Lisää käännösasetuksia
+preferences-ai-controls-pdfjs-control =
+    .label = Kuvan alt-teksti { -brand-short-name }in PDF-katseluohjelmassa
+    .description = Kun lisäät kuvia PDF-tiedostoihin, tämä lisää kuvaavia tekstejä saavutettavuuden takaamiseksi.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Välilehtiryhmien ehdotukset
+    .description = Vastaanota ehdotuksia välilehtiesi nimeämiseen ja järjestämiseen.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot sivupaneelissa
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Saatavilla
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Käytössä
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Estetty
+preferences-ai-controls-state-description-before = Mitä vaihtoehdot tarkoittavat:
+preferences-ai-controls-state-description-available = <strong>Saatavilla:</strong> Näet ominaisuuden ja voit käyttää sitä.
+preferences-ai-controls-state-description-enabled = <strong>Käytössä:</strong> Olet ottanut ominaisuuden käyttöön.
+preferences-ai-controls-state-description-blocked = <strong>Estetty:</strong> Et näe etkä voi käyttää ominaisuutta. Paikallisen laitteen tekoälyn osalta kaikki jo ladatut mallit poistetaan.
+preferences-ai-controls-block-confirmation-features-start = Mitä estetään:
+preferences-ai-controls-block-confirmation-translations = Käännökset
+preferences-ai-controls-block-confirmation-pdfjs = Kuvan alt-teksti { -brand-short-name }in PDF-katseluohjelmassa
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Välilehtiryhmien ehdotukset
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbot sivupaneelissa
+preferences-ai-controls-block-confirmation-features-after = Esto vaikuttaa myös laajennuksiin, jotka käyttävät { -brand-short-name }in tarjoamaa tekoälyä.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Peruuta
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Estä

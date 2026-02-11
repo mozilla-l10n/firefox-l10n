@@ -25,6 +25,8 @@ wallet-custom-scheme-warning-heading =
     .heading = Dovolite temu spletnemu mestu, da odpre vašo digitalno denarnico?
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host-app = Odpiranje povezave <strong>{ $scheme }</strong> omogoča <strong>{ $host }</strong>, da zahteva vašo resnično identiteto od aplikacije <strong>{ $appName }</strong>. Nadaljujte samo, če spletnemu mestu zaupate.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Odpiranje povezave <strong>{ $scheme }</strong> omogoča temu spletnemu mestu, da zahteva vašo resnično identiteto od aplikacije <strong>{ $appName }</strong>. Nadaljujte samo, če spletnemu mestu zaupate.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

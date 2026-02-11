@@ -275,6 +275,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = h
 browser-layout-header2 =
     .label = Disposición del navegador
+browser-layout-horizontal-tabs2 =
+    .label = Pestañas horizontales
+    .title = Pestañas en la parte superior
+    .description = Pestañas en la parte superior
+browser-layout-vertical-tabs2 =
+    .label = Pestañas verticales
+    .title = Pestañas en la parte lateral, en la barra lateral
+    .description = Pestañas en la parte lateral, en la barra lateral
 browser-layout-show-sidebar2 =
     .label = Mostrar barra lateral
     .description = Accede rápidamente a marcadores, pestañas de tu teléfono, chatbots de IA y mucho más sin salir de la vista principal.
@@ -325,6 +333,8 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-web-appearance-link =
     .label = Administra los temas de { -brand-short-name } en Extensiones y Temas
+preferences-contrast-control-radio-group =
+    .label = Reemplazar colores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tus selecciones de color anulan la apariencia del sitio web. <a data-l10n-name="colors-link">Administrar colores</a>
@@ -386,6 +396,18 @@ language-header = Idioma
 choose-language-description = Elegir el idioma preferido para mostrar las páginas web
 website-add-language =
     .label = Agregar idioma
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Eliminar { $locale }
+    .title = Eliminar { $locale }
 choose-button =
     .label = Seleccionar…
     .accesskey = o
@@ -405,6 +427,8 @@ translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-subpage-automatic-translation-header =
+    .label = Traducción automática
 settings-translations-subpage-language-select-option =
     .label = Agregar idioma
 settings-translations-subpage-language-add-button =
@@ -955,6 +979,9 @@ search-remove-engine =
     .accesskey = R
 search-add-engine =
     .label = Agregar
+    .accesskey = A
+search-add-engine-2 =
+    .label = Agregar motor de búsqueda
     .accesskey = A
 search-edit-engine =
     .label = Editar

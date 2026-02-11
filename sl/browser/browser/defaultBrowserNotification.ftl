@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Korak 2: Za { -brand-short-name } izberite “Nastavi kot privzeto”
 default-browser-guidance-notification-info-page = Pokaži mi
 default-browser-guidance-notification-dismiss = Urejeno
+default-browser-guidance-notification-v2-title = Dokončajte nastavljanje { -brand-short-name(sklon: "rodilnik") } za privzeti brskalnik
