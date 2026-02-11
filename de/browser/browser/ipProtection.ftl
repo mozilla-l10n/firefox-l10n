@@ -71,6 +71,9 @@ ipprotection-button-connecting = Wird aktiviert…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN pausiert
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Sie haben die gesamten { $maxUsage } GB Ihrer VPN-Daten aufgebraucht. Volumen wird nächsten Monat zurückgesetzt.
 upgrade-vpn-title = Erhalten Sie zusätzlichen Schutz über den Browser hinaus
 upgrade-vpn-description = Wählen Sie Ihren VPN-Standort, verwenden Sie VPN für alle Ihre Apps und bis zu 5 Geräte und bleiben Sie sicher in jedem Netzwerk – zu Hause oder über öffentliches WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } ausprobieren
@@ -102,3 +105,90 @@ ipprotection-bandwidth-upgrade-text = Wählen Sie einen VPN-Standort und fügen 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Sie nähern sich Ihrem VPN-Limit.</strong> Sie haben noch { $usageLeft } GB übrig. Ihr Datenvolumen wird zu Beginn des nächsten Monats zurückgesetzt.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Sie haben fast kein VPN-Datenvolumen mehr.</strong> Sie haben noch { $usageLeft } GB übrig. Sobald Sie alles aufgebraucht haben, wird Ihr VPN angehalten, bis Ihr Datenvolumen am Ersten des nächsten Monats zurückgesetzt wird.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = Integriertes VPN zur Verbesserung Ihrer Privatsphäre beim Surfen auf { -brand-short-name }.
+ip-protection-learn-more = Weitere Informationen
+ip-protection-site-exceptions =
+    .label = Seitenspezifische Einstellungen
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
+    .message = Verbergen Sie Ihren Standort und sichern Sie Ihr Surfen in { -brand-short-name } mit zusätzlicher Verschlüsselung. Erhalten Sie jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
+ip-protection-not-opted-in-button = Erste Schritte
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Website-Einstellungen verwalten
+    .description =
+        { $count ->
+            [one] { $count } Website
+           *[other] { $count } Websites
+        }
+ip-protection-autostart =
+    .label = VPN automatisch aktivieren
+ip-protection-autostart-checkbox =
+    .label = Wenn { -brand-short-name } geöffnet wird
+ip-protection-autostart-private-checkbox =
+    .label = In privaten Fenstern
+ip-protection-vpn-upgrade-link =
+    .label = Holen Sie sich noch mehr Schutz außerhalb von { -brand-short-name } mit { -mozilla-vpn-brand-name }
+    .description = Wählen Sie benutzerdefinierte VPN-Standorte und schützen Sie alle Ihre Apps auf bis zu fünf Geräten, egal ob Sie zu Hause oder in einem öffentlichen WLAN sind.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Website-Einstellungen verwalten
+ip-protection-exclusions-desc = VPN für alle Websites verwenden, außer denen auf dieser Liste. Fügen Sie hier oder durch Öffnen von VPN eine Website hinzu.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Monatliche VPN-Daten
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB von { $maxUsage } GB für diesen Monat übrig
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB von { $maxUsage } GB übrig
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB von { $maxUsage } GB für diesen Monat übrig
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB von { $maxUsage } GB übrig
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Sie haben die gesamten { $maxUsage } GB Ihrer VPN-Daten aufgebraucht. Volumen wird nächsten Monat zurückgesetzt.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Wird am ersten eines Monats auf { $maxUsage } GB zurückgesetzt.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, aktualisiert und bereit
+ipprotection-bandwidth-reset-text = Aktivieren Sie VPN für einen zusätzlichen Datenschutz, der jeden Monat kostenlos ist.
+ipprotection-bandwidth-reset-button = Verstanden
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN pausiert
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Sie haben die gesamten { $maxUsage } GB Ihrer VPN-Daten aufgebraucht. Der VPN-Zugriff wird nächsten Monat zurückgesetzt.
+vpn-paused-alert-close-tabs-button = Alle Tabs schließen
+vpn-paused-alert-continue-wo-vpn-button = Ohne VPN fortfahren
+vpn-error-alert-title = VPN funktioniert derzeit nicht.
+vpn-error-alert-body = Versuchen Sie es später erneut.

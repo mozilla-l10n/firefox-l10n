@@ -1865,3 +1865,11 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = محجوب
+preferences-ai-controls-state-description-before = معنى الخيارات:
+preferences-ai-controls-block-confirmation-tab-group-suggestions = اقتراحات مجموعات اللسان
+preferences-ai-controls-block-confirmation-key-points = أهم النقاط في معاينات الروابط
+preferences-ai-controls-block-confirmation-sidebar-chatbot = مزودي برامج الدردشة الآلية في الشريط الجانبي
+preferences-ai-controls-block-confirmation-cancel =
+    .label = ألغِ
+preferences-ai-controls-block-confirmation-confirm =
+    .label = احجب
