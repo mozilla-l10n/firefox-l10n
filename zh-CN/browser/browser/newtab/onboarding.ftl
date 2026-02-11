@@ -553,3 +553,9 @@ onboarding-personalization-motivation-title = 您最看重 { -brand-short-name }
 onboarding-personalization-motivation-privacy-option = 隐私和安全
 onboarding-personalization-motivation-productivity-option = 效率
 onboarding-personalization-motivation-other-option = 其他
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = 我们会保护您的数据，并自动阻止大公司窥探您的浏览活动。
+onboarding-refresh-import-subtitle = 将密码、书签、历史记录等数据搬到这里。
+onboarding-refresh-sync-title = 同行千里，同步万物。

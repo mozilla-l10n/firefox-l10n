@@ -69,3 +69,11 @@ ipprotection-connection-status-generic-error-title = 无法连接 VPN
 ipprotection-connection-status-generic-error-description = 请过几分钟后再试。
 ipprotection-connection-status-network-error-title = 请检查您的互联网连接
 ipprotection-connection-status-network-error-description = 请先连接到互联网，然后尝试开启 VPN。
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN 已暂停
+vpn-paused-alert-close-tabs-button = 关闭所有标签页
+vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 继续
+vpn-error-alert-title = VPN 目前未运行。
+vpn-error-alert-body = 请稍后再试。
