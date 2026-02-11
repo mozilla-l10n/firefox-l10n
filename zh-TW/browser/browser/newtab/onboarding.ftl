@@ -566,8 +566,10 @@ onboarding-refresh-pin-set-default-subtitle = 我們會保護您的資料，並�
 onboarding-refresh-pin-set-default-title = 一切都安全了
 onboarding-refresh-import-subtitle = 將您的密碼、書籤、瀏覽紀錄等資料移轉過來。
 onboarding-refresh-import-title = 讓 { -brand-short-name } 更有家的風格
+onboarding-refresh-onboarding-addons-subtitle = 擴充套件就是一些能讓您自訂 { -brand-short-name } 的迷你小程式。它們可以加強您的隱私、提高生產力、改變 { -brand-short-name } 的外觀，或有更多功能。
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = 加強您的上網體驗
 onboarding-refresh-sync-title = 去到哪就同步到哪
+onboarding-refresh-gratitude-subtitle = 感謝您使用 { -brand-short-name }，這是唯一一套由非營利組織在背後全力相挺的主流瀏覽器。透過您的支援，我們努力讓網際網路環境變得更安全、更可被所有人使用。
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } 是您的堅強後盾

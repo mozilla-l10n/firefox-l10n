@@ -559,3 +559,6 @@ onboarding-personalization-motivation-other-option = 其他
 onboarding-refresh-pin-set-default-subtitle = 我们会保护您的数据，并自动阻止大公司窥探您的浏览活动。
 onboarding-refresh-import-subtitle = 将密码、书签、历史记录等数据搬到这里。
 onboarding-refresh-sync-title = 同行千里，同步万物。
+onboarding-refresh-gratitude-subtitle = 感谢您使用 { -brand-short-name }，这是唯一由非营利组织支持的主流浏览器。您的支持激励着我们为更开放、更美好且人人可用的互联网继续奋斗。
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } 为您护航

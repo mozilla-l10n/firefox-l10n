@@ -48,6 +48,7 @@ mr1-onboarding-sign-in-button-label = و من ٱووڌن
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = و من ٱووردن ز { $previous }
 mr1-onboarding-theme-header = هونه مال خوت کوݩ
+mr1-onboarding-theme-subtitle = { -brand-short-name } ن وا ی زمینه سفارشی کۊنین.
 mr1-onboarding-theme-secondary-button-label = سکو ن
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = زمینه سیستوم
@@ -56,6 +57,42 @@ mr1-onboarding-theme-label-dark = تاریک
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = آلپنگلۉ
 onboarding-theme-primary-button-label = ٱنجوم وابی
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        و کار گرؽڌن شؽوات سیستوم عامل
+        سی دویمه یل، نومگه یل وو نیمدری یل.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        و کار گرؽڌن شؽوات سیستوم عامل
+        سی دویمه یل، نومگه یل وو نیمدری یل.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        و کار گرؽڌن زمینه رۊشن سی
+        دویمه یل، نومگه یل وو نیمدری یل.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        و کار گرؽڌن زمینه رۊشن سی
+        دویمه یل، نومگه یل وو نیمدری یل.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        و کار گرؽڌن زمینه تاریک سی
+        دویمه یل، نومگه یل وو نیمدری یل.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        و کار گرؽڌن زمینه تاریک سی
+        دویمه یل، نومگه یل وو نیمدری یل.
 
 ## Strings for Thank You page
 
