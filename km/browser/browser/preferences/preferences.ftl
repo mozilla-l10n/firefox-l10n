@@ -387,6 +387,9 @@ choose-bookmark =
 home-custom-homepage-delete-address-button =
     .aria-label = លុបអាសយដ្ឋាន
     .title = លុបអាសយដ្ឋាន
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-bookmarks-button =
+    .label = ចំណាំ…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -534,6 +537,7 @@ sync-sign-in =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = ចំណាំ
 sync-currently-syncing-passwords = ពាក្យ​សម្ងាត់
 
 ## The "Choose what to sync" dialog.

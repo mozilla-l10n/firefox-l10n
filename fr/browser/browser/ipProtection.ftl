@@ -115,6 +115,8 @@ ip-protection-description =
     .label = VPN
     .description = VPN intégré pour renforcer votre confidentialité lorsque vous naviguez avec { -brand-short-name }.
 ip-protection-learn-more = En savoir plus
+ip-protection-site-exceptions =
+    .label = Paramètres spécifiques aux sites
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =

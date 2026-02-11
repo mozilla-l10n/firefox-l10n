@@ -7,6 +7,12 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Hint shown when the IndexedDB storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
+storage-table-type-indexeddb-hint = មើល និងលុបធាតុ IndexedDB ដោយជ្រើសរើសមូលដ្ឋានទិន្នន័យ។ <a data-l10n-name="learn-more-link">ស្វែងយល់បន្ថែម</a>
+# Hint shown when the cache storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
+storage-table-type-cache-hint = មើល និងលុបធាតុផ្ទុកទិន្នន័យឃ្លាំងសម្ងាត់ដោយជ្រើសរើសកន្លែងផ្ទុក។ <a data-l10n-name="learn-more-link">ស្វែងយល់បន្ថែម</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = ត្រង់​ធាតុ

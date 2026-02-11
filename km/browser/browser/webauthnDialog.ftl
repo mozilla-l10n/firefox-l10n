@@ -5,5 +5,8 @@
 
 ## WebAuthn prompts
 
+# Variables:
+#  $hostname (String): the origin (website) for which an account needs to be selected.
+webauthn-select-sign-result-prompt = បានរកឃើញគណនីជាច្រើនសម្រាប់ { $hostname }។ ជ្រើសរើសគណនីដែលត្រូវប្រើ ឬលុបចោល។
 webauthn-cancel = បោះបង់
     .accesskey = c

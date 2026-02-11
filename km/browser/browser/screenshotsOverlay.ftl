@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = បោះបង់
+screenshots-overlay-instructions = អូស ឬចុចលើទំព័រដើម្បីជ្រើសរើសតំបន់។ ចុច ESC ដើម្បីបោះបង់។

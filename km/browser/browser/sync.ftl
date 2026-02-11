@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog-body = { -brand-product-name } នឹងឈប់ធ្វើសមកាលកម្មគណនីរបស់អ្នក ប៉ុន្តែនឹងមិនលុបទិន្នន័យរុករកណាមួយរបស់អ្នកនៅលើឧបករណ៍នេះទេ។
 fxa-signout-dialog-title2 = ចេញពីគណនីរបស់អ្នក?
+fxa-signout-dialog2-checkbox = លុបទិន្នន័យចេញពីឧបករណ៍នេះ (ពាក្យសម្ងាត់ ប្រវត្តិ ចំណាំ។ល។)
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…

@@ -12,5 +12,6 @@ translations-panel-translate-cancel =
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-all-language = ភាសាទាំងអស់
+translations-manage-delete-button = លុប
 select-translations-panel-cancel-button =
     .label = បោះបង់

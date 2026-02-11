@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = ចំណាំ
+sidebar-menu-bookmarks-2 = ចំណាំ
 sidebar-menu-history =
     .label = ប្រវត្តិ
 sidebar-menu-synced-tabs =

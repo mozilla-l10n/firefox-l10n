@@ -5,10 +5,42 @@
 menu-view-contextual-password-manager =
     .label = ពាក្យ​សម្ងាត់
 
+## Labels for sidebar history panel
+
+sidebar-history-delete =
+    .title = លុប​ពី​ប្រវត្តិ
+
+## Labels for sidebar context menu items
+
+sidebar-context-menu-bookmark-tab =
+    .label = ផ្ទាំងចំណាំ…
+
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page-2 =
+    .label = លុបទំព័រចេញពីប្រវត្តិ
+sidebar-history-context-menu-bookmark-page =
+    .label = ទំព័រចំណាំ…
+sidebar-history-context-menu-delete-pages =
+    .label = លុបទំព័រចេញពីប្រវត្តិ
+
 ## Labels for sidebar menu items.
 
+sidebar-menu-bookmarks-label =
+    .label = ចំណាំ
 sidebar-menu-contextual-password-manager-label =
     .label = ពាក្យ​សម្ងាត់
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = បើក​ចំណាំ ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = បិទ​ចំណាំ ({ $shortcut })
 
 ## Headings for sidebar menu panels.
 

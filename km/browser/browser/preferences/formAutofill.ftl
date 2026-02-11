@@ -19,6 +19,9 @@ autofill-manage-edit-button = កែសម្រួល…
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+address-capture-cancel-button =
+    .label = បោះបង់
+    .accessKey = C
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = កែអាសយដ្ឋាន
 autofill-address-given-name = នាមខ្លួន

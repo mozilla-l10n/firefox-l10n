@@ -42,3 +42,31 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = រាយបញ្ជី​ផ្ទាំង { $tabCount } ទាំងអស់
+
+##
+
+tab-group-editor-cancel =
+    .label = បោះបង់
+    .accesskey = C
+
+##
+
+tab-group-editor-action-delete =
+    .label = លុបក្រុម
+
+## Open/saved tab group context menu
+
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = លុបក្រុម
+
+## Tab Notes
+
+tab-context-delete-note =
+    .label = លុបចំណាំ
+    .accesskey = D
+tab-note-editor-button-cancel =
+    .label = បោះបង់
+    .accesskey = C

@@ -57,6 +57,10 @@ urlbar-addons-notification-anchor =
 
 urlbar-search-tips-onboard = វាយតិចជាងនេះ រកច្រើនទៀត៖ ស្វែងរក { $engineName } ភ្លាមៗ ពីរបារអាសយដ្ឋានរបស់អ្នក។
 
+## Local search mode indicator labels in the urlbar
+
+urlbar-search-mode-bookmarks = ចំណាំ
+
 ##
 
 urlbar-geolocation-blocked =
@@ -112,14 +116,29 @@ search-one-offs-context-set-as-default =
 search-one-offs-add-engine-menu =
     .label = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+search-one-offs-bookmarks =
+    .tooltiptext = ចំណាំ ({ $restrict })
+
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the bookmarks library window
+quickactions-bookmarks2 = គ្រប់គ្រងចំណាំ
+quickactions-cmd-bookmarks = ចំណាំ
 quickactions-cmd-themes = រចនាប័ទ្ម
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = បន្ថែម​ចំណាំ
+bookmarks-edit-bookmark = កែសម្រួល​ចំណាំ
 bookmark-panel-cancel =
     .label = បោះបង់
     .accesskey = C
@@ -179,6 +198,12 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = បិទ
 
+## Bookmarks toolbar items
+
+browser-import-button2 =
+    .label = នាំចូល​ចំណាំ…
+    .tooltiptext = នាំចូលចំណាំពីកម្មវិធីរុករកផ្សេងទៀតទៅ { -brand-short-name }។
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
@@ -192,6 +217,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = បញ្ចូលពាក្យស្វែងរក
+    .aria-label = ស្វែងរកចំណាំ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -223,10 +252,16 @@ urlbar-result-action-visit = មើល
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = កុំទាន់
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks =
+    .label = ចំណាំ
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = ស្វែងរក​ចំណាំ
 urlbar-result-action-search-tabs = របារស្វែងរក
 
 ## Reader View toolbar buttons
@@ -256,6 +291,9 @@ pointerlock-warning-no-domain = ឯកសារនេះ​មាន​សិទ
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = គ្រប់គ្រងចំណាំ
+bookmarks-recent-bookmarks-panel-subheader = ចំណាំថ្មីៗ
 bookmarks-toolbar-chevron =
     .tooltiptext = បង្ហាញ​ចំណាំ​​ថែមទៀត
 bookmarks-sidebar-content =
@@ -283,6 +321,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] លាក់របារឧបករណ៍ចំណាំ
            *[other] មើល​របារ​ឧបករណ៍​ចំណាំ
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] លាក់របារឧបករណ៍ចំណាំ
+           *[other] បង្ហាញរបារឧបករណ៍ចំណាំ
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -296,12 +340,24 @@ bookmarks-search =
     .label = ស្វែងរក​ចំណាំ
 bookmarks-tools =
     .label = ​ឧបករណ៍​ចំណាំ
+bookmarks-subview-edit-bookmark =
+    .label = កែសម្រួល​ចំណាំ​នេះ…
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = របារឧបករណ៍ចំណាំ
+    .accesskey = B
+    .aria-label = ចំណាំ
 bookmarks-toolbar-menu =
     .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
     .title = ធាតុ​របារ​ឧបករណ៍​​ចំណាំ
 bookmarks-toolbar-placeholder-button =
     .label = ធាតុ​របារ​ឧបករណ៍​​ចំណាំ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = ចំណាំផ្ទាំងបច្ចុប្បន្ន…
 
 ## Library Panel items
 
@@ -405,6 +461,12 @@ tabs-toolbar-list-all-tabs =
 data-reporting-notification-message = { -brand-short-name } ផ្ញើ​ទិន្នន័យ​មួយ​ចំនួន​ដោយ​ស្វ័យប្រវត្តិ​ទៅកាន់ { -vendor-short-name } ដូច្នេះ​យើង​អាច​ធ្វើឲ្យ​បទពិសោធន៍​របស់​អ្នក​ប្រសើរ​ឡើង។
 data-reporting-notification-button =
     .label = ជ្រើស​អ្វី​ដែល​ខ្ញុំ​ចែករំលែក
+    .accesskey = C
+
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = បោះបង់
     .accesskey = C
 
 ## Autorefresh blocker

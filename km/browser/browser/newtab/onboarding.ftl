@@ -64,6 +64,12 @@ mr2022-onboarding-secondary-skip-button-label = រំលងជំហានន�
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = សូមអរគុណសម្រាប់ការស្រលាញ់ { -brand-product-name }
 
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
+mr2022-onboarding-import-subtitle = រៀបចំ { -brand-short-name } តាមដែលអ្នកចូលចិត្ត។ បន្ថែមចំណាំ ពាក្យសម្ងាត់ និងច្រើនទៀតពីកម្មវិធីរុករកចាស់របស់អ្នក។
+
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
@@ -94,9 +100,12 @@ onboarding-checklist-sign-up = ចុះឈ្មោះ ឬចូលទៅក្
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = ចំណាំ ប្រវត្តិ ការកំណត់ និងច្រើនទៀត
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = ទិន្នន័យទាំងអស់
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-easy-setup-item-text-1 = ចំណាំ ប្រវត្តិ ការកំណត់ និងរួមបញ្ចូលទិន្នន័យផ្សេងទៀត
 fx-backup-confirmation-screen-easy-setup-item-text-3 = មិនរាប់បញ្ចូលពាក្យសម្ងាត់ និងការទូទាត់ទេ

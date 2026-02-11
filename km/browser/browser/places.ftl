@@ -5,11 +5,17 @@
 places-open =
     .label = បើក
     .accesskey = ប
+places-open-all-bookmarks =
+    .label = បើកចំណាំទាំងអស់
+    .accesskey = O
 places-open-all-in-tabs =
     .label = បើក​ក្នុង​ផ្ទាំង​ទាំងអស់
     .accesskey = ប
 places-empty-bookmarks-folder =
     .label = (ទទេ)
+places-add-bookmark =
+    .label = បន្ថែម​ចំណាំ…
+    .accesskey = B
 places-view =
     .label = មើល
     .accesskey = ម
@@ -40,6 +46,10 @@ places-delete-domain-data =
 places-sortby-name =
     .label = តម្រៀប​តាម​ឈ្មោះ
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = កែសម្រួល​ចំណាំ…
+    .accesskey = E
 # Variables
 #   $count (number) - Number of folders to delete
 places-delete-folder =
@@ -58,6 +68,12 @@ places-delete-page =
            *[other] លុបទំព័រ
         }
     .accesskey = D
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
+managed-bookmarks =
+    .label = ចំណាំដែលបានគ្រប់គ្រង
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = ចំណាំ​ផ្សេង​ៗ​ទៀត
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -67,6 +83,18 @@ places-delete-bookmark =
            *[other] លុបចំណាំ
         }
     .accesskey = D
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] ចំណាំទំព័រ…
+           *[other] ចំណាំទំព័រ…
+        }
+    .accesskey = B
+places-manage-bookmarks =
+    .label = គ្រប់គ្រងចំណាំ
+    .accesskey = M
 places-library3 =
     .title = បណ្ណាល័យ
 places-organize-button =

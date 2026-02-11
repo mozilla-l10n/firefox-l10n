@@ -35,3 +35,19 @@ firefoxview-search-text-box-tabs =
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-history-date-yesterday = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = ប្តូរទៅ (បានចំណាំ) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (បានចំណាំ) { $url }

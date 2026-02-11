@@ -86,6 +86,38 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = ទំព័រចំណាំ…
+    .accesskey = M
+    .tooltiptext = ទំព័រចំណាំ
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = ទំព័រចំណាំ…
+    .accesskey = m
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = កែសម្រួល​ចំណាំ…
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = ទំព័រចំណាំ…
+    .accesskey = m
+    .tooltiptext = ទំព័រចំណាំ ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = កែសម្រួល​ចំណាំ…
+    .accesskey = m
+    .tooltiptext = កែសម្រួល​ចំណាំ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = កែសម្រួល​ចំណាំ…
+    .accesskey = m
+    .tooltiptext = កែសម្រួល​ចំណាំ ({ $shortcut })
 main-context-menu-open-link =
     .label = បើក​តំណ
     .accesskey = O
@@ -101,6 +133,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = បើក​តំណ​ក្នុង​បង្អួចឯក​ជន​ថ្មី
     .accesskey = P
+main-context-menu-bookmark-link-2 =
+    .label = តំណភ្ជាប់ចំណាំ…
+    .accesskey = B
 main-context-menu-save-link =
     .label = រក្សាទុក​តំណជា...
     .accesskey = k
@@ -243,6 +278,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ផ្ទុក​ស៊ុម​ឡើងវិញ
     .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = ស៊ុមចំណាំ…
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = រក្សា​ទុកស៊ុម​ជា...
     .accesskey = F
