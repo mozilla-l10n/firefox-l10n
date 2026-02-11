@@ -570,3 +570,20 @@ onboarding-personalization-motivation-title = Welche Funktionen von { -brand-sho
 onboarding-personalization-motivation-privacy-option = Datenschutz und Sicherheit
 onboarding-personalization-motivation-productivity-option = Produktivität
 onboarding-personalization-motivation-other-option = Sonstiges
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Wir schützen Ihre Daten und verhindern automatisch, dass Unternehmen Ihre Klicks ausspionieren.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Sie sind in sicheren Händen
+onboarding-refresh-import-subtitle = Nehmen Sie Ihre Passwörter, Lesezeichen, Chronik und mehr mit.
+onboarding-refresh-import-title = Sorgen Sie dafür, dass sich { -brand-short-name } wie zu Hause anfühlt
+onboarding-refresh-onboarding-addons-subtitle = Erweiterungen sind kleine Apps, mit denen Sie { -brand-short-name } anpassen können. Sie können Ihre Privatsphäre stärken, die Produktivität erhöhen, das Erscheinungsbild von { -brand-short-name } ändern und vieles mehr.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Verbessern Sie Ihr Surfverhalten
+onboarding-refresh-sync-subtitle = Holen Sie sich Lesezeichen, Passwörter und mehr überall dort, wo Sie mit { -brand-short-name } angemeldet sind. Außerdem werden Ihre Daten verschlüsselt, sodass nur Sie sie sehen können.
+onboarding-refresh-sync-title = Überallhin gehen. Alles synchronisieren.
+onboarding-refresh-gratitude-subtitle = Danke, dass Sie { -brand-short-name } verwenden, den einzigen großen Browser, der von einer gemeinnützigen Organisation unterstützt wird. Mit Ihrer Unterstützung arbeiten wir daran, das Internet sicherer und für alle zugänglicher zu machen.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } gibt dir Rückendeckung
