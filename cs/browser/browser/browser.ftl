@@ -857,6 +857,12 @@ urlbar-result-action-copy-to-clipboard = Kopírovat
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nedefinováno
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases] Rozšíření { -brand-product-name(case: "gen") }
+       *[no-cases] Rozšíření aplikace { -brand-product-name }
+    }
 # The sub title of a mdn suggestion in the urlbar.
 urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
