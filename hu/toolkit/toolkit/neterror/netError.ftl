@@ -46,6 +46,10 @@ neterror-load-error-firewall = Ha a számítógépet vagy a hálózatot tűzfal 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Ha egy helyi hálózati oldalt próbál betölteni, akkor ellenőrizze, hogy a { -brand-short-name } megkapta-e a helyi hálózati engedélyeket a macOS adatvédelmi és biztonsági beállításaiban.
 neterror-http-error-page = Ellenőrizze, hogy helyesen írta-e be a webhely címét.
+neterror-http-empty-response = Ellenőrizze, hogy jól írta-e be a webhely címét, és próbálja újra néhány pillanat múlva.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = A(z) { $hostname } üres lapot küldött vissza.
 neterror-captive-portal = Az internet elérése előtt be kell jelentkezni a hálózatra.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = Ellenőrizze, hogy a fájlt áthelyezték-e, át
 neterror-access-denied = Lehet hogy törölve lett, át lett helyezve, vagy a fájljogosultságok megakadályozzák a hozzáférést.
 neterror-unknown-protocol = Lehet, hogy egyéb szoftvert kell telepítenie a cím megnyitásához.
 neterror-redirect-loop = Ez a probléma néha a letiltott vagy visszautasított sütik miatt jelentkezik.
+neterror-unknown-socket-type-client-config = Ezt a kliens konfigurációs hibája okozhatja.
 neterror-unknown-socket-type-psm-installed = Ellenőrizze, hogy a rendszerre telepítve van-e a Personal Security Manager modul.
 neterror-unknown-socket-type-server-config = A hibát okozhatja a kiszolgáló nem szabványos beállítása is.
 neterror-not-cached-intro = A kért dokumentum nem érhető el a { -brand-short-name } gyorsítótárában.

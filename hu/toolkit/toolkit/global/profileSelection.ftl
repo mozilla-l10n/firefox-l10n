@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = A kijelölt profil használata induláskor kérdés nélkül
     .accesskey = d
 profile-has-selectable-profiles-title = Nem törölhető olyan profil, amely más profilokhoz van kapcsolva
+profile-has-selectable-profiles-message = A profil törléséhez nyissa meg, és válassza a { -brand-short-name } menü profilok részében a „Profilok kezelése” lehetőséget. Az itt létrehozott további profilok törlése után visszatérhet az about:profiles oldalra, és törölheti ezt a profilt.

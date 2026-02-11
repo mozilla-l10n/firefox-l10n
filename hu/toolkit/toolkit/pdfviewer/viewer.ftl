@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Szöveg eltávolítva
 pdfjs-editor-undo-bar-message-ink = Rajz eltávolítva
 pdfjs-editor-undo-bar-message-stamp = Kép eltávolítva
 pdfjs-editor-undo-bar-message-signature = Aláírás eltávolítva
+pdfjs-editor-undo-bar-message-comment = Megjegyzés eltávolítva
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -640,6 +641,13 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Oldalsáv be/ki
+pdfjs-toggle-views-manager-button-label = Oldalsáv be/ki
+pdfjs-views-manager-sidebar =
+    .aria-label = Oldalsáv
+pdfjs-views-manager-view-selector-button =
+    .title = Nézetek
 pdfjs-views-manager-pages-status-cut-button-label = Kivágás
 pdfjs-views-manager-pages-status-delete-button-label = Törlés
 pdfjs-views-manager-pages-status-save-as-button-label = Mentés másként…
