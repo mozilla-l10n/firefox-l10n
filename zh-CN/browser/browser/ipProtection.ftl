@@ -39,7 +39,7 @@ unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
 unauthenticated-hide-location-message = 隐藏真实位置，为 { -brand-product-name } 中的浏览添一层加密保护。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 数据量
+unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 流量
 unauthenticated-get-started = 开始使用
 site-exclusion-toggle-label = 为此网站使用 VPN
 site-exclusion-toggle-enabled =
@@ -70,7 +70,7 @@ ipprotection-button-connecting = 正在开启…
 ipprotection-connection-status-paused-title = VPN 已暂停
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = 您已用完全部 { $maxUsage } GB VPN 数据量，使用权限将于下个月重置。
+ipprotection-connection-status-paused-description = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
 upgrade-vpn-title = 获取额外保护，不限于浏览器。
 upgrade-vpn-description = 选择 VPN 位置，并于最多 5 台设备上为所有应用使用 VPN，在所有网络（包括家庭和公共场所 Wi-Fi）中都能确保安全。
 upgrade-vpn-button = 试用 { -mozilla-vpn-brand-name }
@@ -85,7 +85,7 @@ ipprotection-connection-status-network-error-description = 请先连接到互联
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
-    .heading = VPN 数据量即将用尽
+    .heading = VPN 流量即将用尽
     .message = 本月剩余 { $usageLeft } / { $maxUsage } GB。
 ipprotection-message-continuous-onboarding-intro = 开启 VPN，隐藏真实位置，为浏览添一层加密保护。
 ipprotection-message-continuous-onboarding-autostart = 将 VPN <a data-l10n-name="setting-link">设为打开 { -brand-short-name } 时自动开启</a>，添一层保护。
@@ -101,10 +101,10 @@ ipprotection-bandwidth-upgrade-text = 选择 VPN 位置，并在最多 5 台设�
 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN 数据量即将用尽</strong>，剩余 { $usageLeft } GB。数据量将于下月初重置。
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN 流量即将用尽</strong>，剩余 { $usageLeft } GB。流量将于下月初重置。
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN 数据量即将用尽</strong>，剩余 { $usageLeft } GB。用尽后，VPN 将暂停运行，直到下月初数据量重置。
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN 流量即将用尽</strong>，剩余 { $usageLeft } GB。用尽后，VPN 将暂停运行，直到下月初流量重置。
 
 ## IP Protection Settings
 
@@ -123,6 +123,11 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = 管理网站设置
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-text = 启用 VPN 可额外增强隐私保护，每月免费提供。
+ipprotection-bandwidth-reset-button = 明白了
 
 ## IP Protection alerts
 

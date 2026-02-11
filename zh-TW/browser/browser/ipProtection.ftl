@@ -74,6 +74,8 @@ ipprotection-connection-status-paused-title = 已暫停 VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = 您已用完 { $maxUsage } GB 的 VPN 流量。將於下個月重設使用權。
+upgrade-vpn-title = 替瀏覽器以外的連線也加上一道保護
+upgrade-vpn-description = 挑選連線位置，使用 VPN 幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或使用公共 Wi-Fi，任何網路環境都能使用。
 upgrade-vpn-button = 請試用 { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -89,9 +91,28 @@ ipprotection-message-bandwidth-warning =
     .heading = VPN 流量即將用完
     .message = 這個月您還剩下 { $usageLeft } GB 可以使用。（上限 { $maxUsage } GB）
 ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的所在位置，並在上網時多加一層加密保護。
+ipprotection-message-continuous-onboarding-autostart = 設定在每次開啟 { -brand-short-name } 時<a data-l10n-name="setting-link">就自動開啟 VPN</a>，讓您受到更多一層保護。
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 會記得您設定要讓哪些網站透過 VPN 開啟。也可隨時到<a data-l10n-name="setting-link">設定</a>當中調整。
+confirmation-hint-ipprotection-navigated-to-excluded-site = 已對此網站關閉 VPN 連線
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = 喜歡內建的 VPN 功能嗎？請使用 { -mozilla-vpn-brand-name } 幫 { -brand-product-name } 以外的程式獲得更多保護。
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>您已經用了不少 VPN 流量。</strong>目前剩餘 { $usageLeft } GB 流量，將於下個月初重設流量限制。
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>您的 VPN 流量即將用完。</strong>目前剩餘 { $usageLeft } GB 流量。流量用完之後將暫停 VPN 連線保護，並於下個月初重設流量限制。
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = 內建 VPN 功能，讓您在使用 { -brand-short-name } 加強保護隱私。
 ip-protection-learn-more = 更多資訊
 
 ## IP Protection alerts
