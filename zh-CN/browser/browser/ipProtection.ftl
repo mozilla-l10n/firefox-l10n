@@ -81,6 +81,39 @@ ipprotection-connection-status-generic-error-title = 无法连接 VPN
 ipprotection-connection-status-generic-error-description = 请过几分钟后再试。
 ipprotection-connection-status-network-error-title = 请检查您的互联网连接
 ipprotection-connection-status-network-error-description = 请先连接到互联网，然后尝试开启 VPN。
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = VPN 数据量即将用尽
+    .message = 本月剩余 { $usageLeft } / { $maxUsage } GB。
+ipprotection-message-continuous-onboarding-intro = 开启 VPN，隐藏真实位置，为浏览添一层加密保护。
+ipprotection-message-continuous-onboarding-autostart = 将 VPN <a data-l10n-name="setting-link">设为打开 { -brand-short-name } 时自动开启</a>，添一层保护。
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 将记住您设置为使用 VPN 的网站。您随时可在<a data-l10n-name="setting-link">设置</a>中更新网站。
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN 已为此网站关闭
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = 觉得内置 VPN 好用？不妨试试 { -mozilla-vpn-brand-name }，将保护扩展到 { -brand-product-name } 之外。
+ipprotection-bandwidth-upgrade-text = 选择 VPN 位置，并在最多 5 台设备上为所有应用添加保护。无论是在家还是使用公共 Wi-Fi，都能发挥作用。
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN 数据量即将用尽</strong>，剩余 { $usageLeft } GB。数据量将于下月初重置。
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN 数据量即将用尽</strong>，剩余 { $usageLeft } GB。用尽后，VPN 将暂停运行，直到下月初数据量重置。
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = 内置的 VPN，可在使用 { -brand-short-name } 浏览时增强隐私保护。
+ip-protection-learn-more = 详细了解
+ip-protection-site-exceptions =
+    .label = 特定网站设置
 
 ## IP Protection alerts
 
