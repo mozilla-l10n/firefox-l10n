@@ -589,6 +589,9 @@ privacy-header = ឯកជនភាព​កម្មវិធី​រុករ
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ការចូល និងពាក្យសម្ងាត់
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ស្នើឱ្យរក្សាទុកការចូលនិងពាក្យសម្ងាត់សម្រាប់វេបសាយ

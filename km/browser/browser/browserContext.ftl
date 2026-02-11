@@ -216,6 +216,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = ណែនាំពាក្យសម្ងាត់ខ្លាំង...
+    .accesskey = S
 main-context-menu-manage-passwords =
     .label = គ្រប់គ្រងពាក្យសម្ងាត់
     .accesskey = M
@@ -269,3 +272,6 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = ស្វែងយល់​បន្ថែម​អំពី DRM…
     .accesskey = D
+main-context-menu-reveal-password =
+    .label = បង្ហាញពាក្យសម្ងាត់
+    .accesskey = v

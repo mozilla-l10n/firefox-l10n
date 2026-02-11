@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Pasul 2: Selectează „Setează ca implicit” pentru { -brand-short-name }
 default-browser-guidance-notification-info-page = Arată-mi
 default-browser-guidance-notification-dismiss = Terminat
+default-browser-guidance-notification-v2-title = Finalizează setarea { -brand-short-name } ca browser implicit
