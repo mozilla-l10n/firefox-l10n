@@ -23,6 +23,8 @@ migration-imported-edge-reading-list = បញ្ជី​អំណាន (ពី
 
 ##
 
+migration-passwords-new = ពាក្យសម្ងាត់ថ្មី
+migration-passwords-updated = ពាក្យសម្ងាត់ដែលមានស្រាប់
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -38,3 +40,11 @@ migration-passwords-from-file-tsv-filter-title =
        *[other] ឯកសារ TSV
     }
 migration-cancel-button-label = បោះបង់
+
+## These strings will be used to create a dynamic list of items that can be
+## imported. The list will be created using Intl.ListFormat(), so it will
+## follow each locale's rules, and the first item will be capitalized by code.
+## When applicable, the resources should be in their plural form.
+## For example, a possible list could be "Bookmarks, passwords and autofill data".
+
+migration-list-password-label = ពាក្យសម្ងាត់

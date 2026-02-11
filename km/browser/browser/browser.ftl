@@ -316,6 +316,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = តំណ​អ៊ីមែល
     .tooltiptext = អ៊ីមែល​ភ្ជាប់​ទៅ​ទំព័រ​នេះ
+toolbar-button-logins =
+    .label = ពាក្យ​សម្ងាត់
+    .tooltiptext = មើល និងគ្រប់គ្រងពាក្យសម្ងាត់របស់អ្នកដែលបានរក្សាទុក
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

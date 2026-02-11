@@ -209,6 +209,16 @@ main-context-menu-send-to-device =
 
 ##
 
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = ប្រើពាក្យសម្ងាត់ដែលបានរក្សាទុក
+    .accesskey = o
+
+##
+
+main-context-menu-manage-passwords =
+    .label = គ្រប់គ្រងពាក្យសម្ងាត់
+    .accesskey = M
 main-context-menu-keyword =
     .label = បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...
     .accesskey = K

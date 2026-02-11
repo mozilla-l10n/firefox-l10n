@@ -45,9 +45,15 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] ឯកសារ TSV
        *[other] ឯកសារ TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = បាននាំចូលពាក្យសម្ងាត់
 contextual-manager-passwords-import-success-button = រួចរាល់
 contextual-manager-passwords-import-error-button-cancel = បោះបង់
+contextual-manager-passwords-export-success-heading =
+    .heading = បាននាំចេញពាក្យសម្ងាត់
 contextual-manager-passwords-export-success-button = រួចរាល់
+# Title of the file picker dialog
+contextual-manager-passwords-export-file-picker-title = នាំចេញពាក្យសម្ងាត់ពី { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # The resultant filename will end in .csv (added in code).
 contextual-manager-passwords-export-file-picker-default-filename = ពាក្យសម្ងាត់
@@ -73,6 +79,9 @@ contextual-manager-passwords-remove-all-confirm-button =
         [1] លុបចេញ
        *[other] លុបចេញ​ទាំងអស់
     }
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = ពាក្យ​សម្ងាត់
+    .data-after = បានចម្លង
 contextual-manager-passwords-radiogroup-label =
     .aria-label = ត្រងពាក្យសម្ងាត់
 # Variables
@@ -87,6 +96,14 @@ contextual-manager-passwords-password-already-exists-error-button = ចូលទ
 contextual-manager-passwords-update-password-success-heading =
     .heading = ពាក្យសម្ងាត់ត្រូវបានរក្សាទុក
 contextual-manager-passwords-update-password-success-button = រួចរាល់
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] បានលុបពាក្យសម្ងាត់ចេញ
+           *[other] បានលុបពាក្យសម្ងាត់ចេញ
+        }
 contextual-manager-passwords-delete-password-success-button = រួចរាល់
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = លុបពាក្យសម្ងាត់ចេញ?
@@ -96,18 +113,30 @@ contextual-manager-passwords-remove-login-card-remove-button = លុប​ច�
 contextual-manager-passwords-remove-login-card-cancel-button = បោះបង់
 contextual-manager-passwords-alert-card =
     .aria-label = ការជូនដំណឹងអំពីពាក្យសម្ងាត់
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = បានណែនាំឱ្យផ្លាស់ប្តូរពាក្យសម្ងាត់
+    .message = ពាក្យសម្ងាត់ពីគេហទំព័រនេះត្រូវបានគេរាយការណ៍ថាត្រូវបានលួច ឬលេចធ្លាយ។ សូមផ្លាស់ប្តូរពាក្យសម្ងាត់របស់អ្នកដើម្បីការពារគណនីរបស់អ្នក។
 contextual-manager-passwords-change-password-button = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = បានណែនាំឱ្យផ្លាស់ប្តូរពាក្យសម្ងាត់
+    .message = ពាក្យសម្ងាត់នេះអាចទាយបានយ៉ាងងាយស្រួល។ សូមផ្លាស់ប្តូរពាក្យសម្ងាត់របស់អ្នកដើម្បីការពារគណនីរបស់អ្នក។
 contextual-manager-passwords-title = ពាក្យ​សម្ងាត់
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = បន្ថែមពាក្យសម្ងាត់
+contextual-manager-passwords-update-label =
+    .label = ធ្វើបច្ចុប្បន្នភាពពាក្យសម្ងាត់
 contextual-manager-passwords-edit-label =
     .label = កែសម្រួលពាក្យសម្ងាត់
+contextual-manager-passwords-remove-label =
+    .title = លុបពាក្យសម្ងាត់
 
 ## Password Card
 
+contextual-manager-passwords-list-label =
+    .aria-label = ពាក្យ​សម្ងាត់
 contextual-manager-copy-icon =
     .alt = ចម្លង
 # The message displayed when the search text does not match any of the user's saved logins.

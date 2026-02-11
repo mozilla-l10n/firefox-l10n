@@ -13,6 +13,11 @@ bookmarks-toolbar-callout-1-secondary-button-label = ទេ សូម​អរ�
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = ទេ សូម​អរគុណ
 
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = ពាក្យសម្ងាត់ត្រូវបានរក្សាទុក។ សូមបម្រុងវាទុក។
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-new-device-primary-label = ធ្វើ​សមកាលកម្ម​ឥឡូវ

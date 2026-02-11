@@ -310,6 +310,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = នាំចូលឯកសារចូល
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = នាំចូលពាក្យសម្ងាត់ទៅ { -brand-short-name }
 about-logins-import-file-picker-import-button = នាំចូល
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -363,6 +365,7 @@ about-logins-import-dialog-error-try-import-again = សាកល្បង​ន�
 about-logins-import-dialog-error-cancel = បោះបង់
 about-logins-import-report-title = នាំចូល​សេចក្ដិ​សង្ខេប
 about-logins-import-report-description = ការចូល និង​ពាក្យសម្ងាត់​ត្រូវបាន​នាំចូល​ទៅ { -brand-short-name }។
+about-logins-import-report-description2 = ពាក្យសម្ងាត់ត្រូវបាននាំចូលទៅ { -brand-short-name }។
 #
 # Variables:
 #  $number (number) - The number of the row
