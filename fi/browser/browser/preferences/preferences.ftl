@@ -1044,6 +1044,9 @@ suggestions-addressbar-settings-generic2 = Muuta osoitepalkin muiden ehdotusten 
 search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 search-one-click-header2 = Hakuoikotiet
 search-one-click-desc = Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät osoite- ja hakupalkin alalaitaan, kun alat kirjoittaa hakusanoja.
+search-one-click-header-3 =
+    .label = Lisähakukoneet
+    .description = Valitse mitkä hakukoneet ja oikotiet näkyvät osoitepalkissa.
 search-choose-engine-column =
     .label = Hakukone
 search-choose-keyword-column =
@@ -1439,6 +1442,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Vaadi laitteen sisäänkirjautuminen salasanojen täyttämistä ja hallintaa varten
+forms-os-reauth-2 =
+    .label = Vaadi laitteen sisäänkirjautuminen salasanojen hallintaa varten
 forms-primary-pw-learn-more-link = Lue lisää
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -2259,6 +2264,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Pääkohdat linkkien esikatselussa
     .description = Näe nopea yhteenveto ennen linkin avaamista.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Chatbot-palveluntarjoajat sivupalkissa
+    .description = Pidä chatbot näkyvissä kun selaat. Vaihtoehdot ovat Anthropic Claude, ChatGPT, Copilot, Google Gemini ja Le Chat Mistral.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot sivupaneelissa
 # This option means that a user will see the feature and can use it.
@@ -2275,6 +2283,7 @@ preferences-ai-controls-state-description-available = <strong>Saatavilla:</stron
 preferences-ai-controls-state-description-enabled = <strong>Käytössä:</strong> Olet ottanut ominaisuuden käyttöön.
 preferences-ai-controls-state-description-blocked = <strong>Estetty:</strong> Et näe etkä voi käyttää ominaisuutta. Paikallisen laitteen tekoälyn osalta kaikki jo ladatut mallit poistetaan.
 preferences-ai-controls-block-confirmation-heading = Estetäänkö tekoälytehostukset?
+preferences-ai-controls-block-confirmation-description = Et näe uusia tai nykyisiä tekoälytehostuksia { -brand-short-name }issa, etkä niihin liittyviä ponnahdusikkunoita. Voit milloin tahansa myöhemmin poistaa yksittäisen tekoälytehostuksen eston.
 preferences-ai-controls-block-confirmation-features-start = Mitä estetään:
 preferences-ai-controls-block-confirmation-translations = Käännökset
 preferences-ai-controls-block-confirmation-pdfjs = Kuvan alt-teksti { -brand-short-name }in PDF-katseluohjelmassa
