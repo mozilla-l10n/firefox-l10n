@@ -339,6 +339,10 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = វីដេអូ និង​អូឌីយ៉ូ​មួយ​ចំនួន​នៅ​លើ​វេបសាយ​នេះ​ប្រើ​កម្មវិធី DRM ដែល​អាច​ដាក់​ដែន​កំណត់​ការ​ធ្វើ​របស់​អ្នក​ជាមួយ { -brand-short-name } ។
 
+## Password save/update panel
+
+panel-save-update-password = ពាក្យ​សម្ងាត់
+
 ##
 
 ui-tour-info-panel-close =
