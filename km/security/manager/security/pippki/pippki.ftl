@@ -6,17 +6,22 @@ password-quality-meter = ឧបករណ៍​​វាស់​​​គុណ�
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ឧបករណ៍​សុវត្ថិភាព: { $tokenName }
 change-password-old = ពាក្យ​សម្ងាត់​បច្ចុប្បន្ន ៖
 change-password-new = ពាក្យ​សម្ងាត់​ថ្មី ៖
 change-password-reenter = ពាក្យ​សម្ងាត់​ថ្មី (ម្តង​ទៀត) ៖
+pippki-pw-change-ok = បានផ្លាស់ប្តូរពាក្យសម្ងាត់ដោយជោគជ័យ។
 
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = កំណត់​ឡើង​វិញ
+pippki-reset-password-confirmation-title = កំណត់ពាក្យសម្ងាត់ចម្បងឡើងវិញ
+pippki-reset-password-confirmation-message = ពាក្យសម្ងាត់ចម្បងរបស់អ្នកត្រូវបានកំណត់ឡើងវិញ។
 
 ## Downloading cert dialog
 
