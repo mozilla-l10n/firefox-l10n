@@ -68,6 +68,14 @@ imported-edge-reading-list = បញ្ជី​អំណាន (ពី​​ Edg
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = ការចូល និងពាក្យសម្ងាត់ដែលបានរក្សាទុក
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = ការចូល និងពាក្យសម្ងាត់ដែលបានរក្សាទុក
 browser-data-session-checkbox =
     .label = បង្អួច និង​ផ្ទាំង
 browser-data-session-label =

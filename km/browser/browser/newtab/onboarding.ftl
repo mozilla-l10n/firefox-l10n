@@ -96,3 +96,7 @@ onboarding-checklist-sign-up = ចុះឈ្មោះ ឬចូលទៅក្
 
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = ទិន្នន័យទាំងអស់
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-easy-setup-item-text-3 = មិនរាប់បញ្ចូលពាក្យសម្ងាត់ និងការទូទាត់ទេ

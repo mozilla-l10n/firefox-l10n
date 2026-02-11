@@ -7,6 +7,7 @@ firefoxview-just-now-timestamp = ឥឡូវនេះ
 firefoxview-tabpickup-description = បើកទំព័រចេញពីឧបករណ៍ផ្សេងទៀត។
 firefoxview-tabpickup-password-locked-header = បញ្ចូលពាក្យសម្ងាត់ចម្បងរបស់អ្នកដើម្បីមើលផ្ទាំង
 firefoxview-tabpickup-password-locked-description = ដើម្បី​ចាប់យក​ផ្ទាំង​របស់​អ្នក អ្នក​នឹង​ត្រូវ​បញ្ចូល​ពាក្យ​សម្ងាត់​ចម្បង​សម្រាប់ { -brand-short-name }។
+firefoxview-tabpickup-password-locked-primarybutton = បញ្ចូលពាក្យសម្ងាត់ចម្បង
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = សកម្ម​ចុងក្រោយ
 firefoxview-collapse-button-show =

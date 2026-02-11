@@ -517,6 +517,10 @@ sync-sign-in =
     .label = ចូល
     .accesskey = g
 
+## The list of things currently syncing.
+
+sync-currently-syncing-passwords = ពាក្យ​សម្ងាត់
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -529,6 +533,10 @@ sync-engine-tabs =
     .label = ផ្ទាំងដែលបើក
     .tooltiptext = បញ្ជីអ្វីដែលបានបើកនៅលើឧបករណ៍ដែលបានធ្វើសមកាលកម្មទាំងអស់
     .accesskey = ផ
+sync-engine-passwords =
+    .label = ពាក្យ​សម្ងាត់
+    .tooltiptext = ពាក្យសម្ងាត់ដែលអ្នកបានរក្សាទុក
+    .accesskey = P
 sync-engine-addresses =
     .label = អាសយដ្ឋាន
     .tooltiptext = អាសយដ្ឋានប្រៃសណីយ៍ដែលអ្នកបានរក្សាទុក (ផ្ទៃតុតែប៉ុណ្ណោះ)
@@ -588,6 +596,13 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = ពាក្យ​សម្ងាត់
+    .searchkeywords = ចូល
+forms-passwords-header =
+    .label = ពាក្យ​សម្ងាត់
+    .aria-label = ពាក្យ​សម្ងាត់
 forms-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = x
@@ -600,6 +615,9 @@ forms-saved-logins =
 forms-master-pw-change =
     .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
     .accesskey = M
+forms-primary-pw-change =
+    .label = ប្តូរពាក្យសម្ងាត់ចម្បង...
+    .accesskey = P
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
 ## Privacy section - Autofill
