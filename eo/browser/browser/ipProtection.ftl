@@ -36,6 +36,10 @@ ipprotection-site-settings-callout-button = Mi komprenis
 ## Panel
 
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
+unauthenticated-hide-location-message = Kaŝu vian lokon en { -brand-product-name } kaj aldonu kroman tavolon de ĉifrado al via retumo.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
 unauthenticated-get-started = Unuaj paŝoj
 site-exclusion-toggle-label = Ŝalti VPN por tiu ĉi retejo
 site-exclusion-toggle-enabled =
@@ -67,6 +71,8 @@ ipprotection-connection-status-paused-title = VPN paŭzigita
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
+upgrade-vpn-title = Ricevu aldonan protekton, krom tiun de la retumilo.
+upgrade-vpn-description = Elektu la lokon de via VPN, uzu VPN por ĉiuj viaj apoj en maksimume 5 aparatoj kaj restu sekura en iu ajn reto, ĉu hejme ĉu en publika Wi-Fi.
 upgrade-vpn-button = Provu { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -81,6 +87,8 @@ ipprotection-connection-status-network-error-description = Konektiĝu al la reto
 ipprotection-message-bandwidth-warning =
     .heading = Vi alproksimiĝas al via limo en VPN
     .message = Restas al vi { $usageLeft } GB el { $maxUsage } GB por la cetero de la monato.
+ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian lokon kaj aldoni kroman tavolon de ĉifrado al via retumo.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
 
 ## IP Protection Settings
