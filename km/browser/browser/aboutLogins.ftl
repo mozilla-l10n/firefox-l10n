@@ -104,6 +104,7 @@ login-intro-description = ប្រសិនបើ​អ្នក​បាន​
 login-intro-instructions-fxa = បង្កើត ឬ​ចូល​ { -fxaccount-brand-name } របស់អ្នក​នៅលើ​ឧបករណ៍​ដែល​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក។
 about-logins-login-intro-heading-message = រក្សាទុកពាក្យសម្ងាត់របស់អ្នកទៅកាន់កន្លែងសុវត្ថិភាព
 login-intro-description2 = ពាក្យសម្ងាត់ទាំងអស់ដែលអ្នករក្សាទុកទៅក្នុង { -brand-product-name } ត្រូវបានអ៊ិនគ្រីប។ លើសពីនេះ យើងឃ្លាំមើលការបំពាន ហើយជូនដំណឹងដល់អ្នក ប្រសិនបើអ្នករងផលប៉ះពាល់។ <a data-l10n-name="breach-alert-link">ស្វែងយល់បន្ថែម</a>
+login-intro-instructions-fxa2 = បង្កើត ឬចូលគណនីរបស់អ្នកនៅលើឧបករណ៍ដែលការចូលគណនីរបស់អ្នកត្រូវបានរក្សាទុក។
 login-intro-instructions-fxa-settings = ចូលទៅ​កាន់ ការកំណត់ > ធ្វើសមកាលកម្ម > បើក​ការធ្វើសមកាលកម្ម... ជ្រើសរើស​ប្រអប់​ការចូល និង​ពាក្យសម្ងាត់។
 login-intro-instructions-fxa-passwords-help = ចូលមើល​<a data-l10n-name="passwords-help-link">ជំនួយ​ពាក្យសម្ងាត់</a>​សម្រាប់​ជំនួយ​បន្ថែម។
 about-logins-intro-browser-only-import = ប្រសិនបើ​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក​នៅក្នុង​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ផ្សេង អ្នក​អាច <a data-l10n-name="import-link">នាំចូល​វា​ក្នុង { -brand-product-name }</a>
@@ -118,6 +119,7 @@ login-item-edit-button = កែសម្រួល
 about-logins-login-item-remove-button = លុប​ចេញ
 login-item-origin-label = អាសយដ្ឋាន​គេហទំព័រ
 login-item-tooltip-message = ប្រាកដ​ថា ​វា​ត្រូវគ្នា​នឹង​អាសយដ្ឋានណាមួយ​​របស់​គេហទំព័រ​ដែល​អ្នក​ចូល។
+about-logins-origin-tooltip2 = សូមបញ្ចូលអាសយដ្ឋានពេញ ហើយត្រូវប្រាកដថាវាដូចគ្នាបេះបិទទៅនឹងកន្លែងដែលអ្នកចូល។
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ឈ្មោះ​អ្នក​ប្រើប្រាស់

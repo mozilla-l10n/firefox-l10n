@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-privatebrowsingpage-open-private-window-label = បើក​បង្អួច​ឯកជន
+privatebrowsingpage-open-private-window-label = បើកវិនដូឯកជន
     .accesskey = P
 about-private-browsing-search-placeholder = ស្វែងរក​ទំព័រ​បណ្ដាញ
 about-private-browsing-info-title = អ្នក​កំពុង​ស្ថិត​នៅ​​ផ្ទាំង​ឯកជន​
