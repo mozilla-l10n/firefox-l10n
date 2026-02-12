@@ -14,6 +14,7 @@ avatar-selector-cancel-button =
 avatar-selector-upload-file = ផ្ទុកឡើងឯកសារ
 avatar-selector-crop = ច្រឹប
 edit-profile-page-profile-saved = បានរក្សាទុក
+new-profile-page-title = ប្រវត្តិរូបថ្មី
 new-profile-page-done-button =
     .label = កែសម្រួលរួចរាល់
 

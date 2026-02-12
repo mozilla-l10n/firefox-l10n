@@ -355,6 +355,9 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = ទំព័រដើម និងវីនដូថ្មី
+home-homepage-new-windows =
+    .label = បង្អួចថ្មី
+home-homepage-mode-label2 = បង្អួចថ្មី
 home-newtabs-mode-label = ផ្ទាំងថ្មី
 home-homepage-new-tabs =
     .label = ផ្ទាំងថ្មី

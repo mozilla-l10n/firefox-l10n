@@ -94,6 +94,10 @@ amo-picker-install-complete-label = បាន​ដំឡើង
 
 onboarding-new-user-survey-time-based-option-2 = តិចជាង 1 ខែ
 
+## UI strings for the sidebar and vertical tabs
+
+onboarding-flair-text = ថ្មី!
+
 ## New user onboarding checklist
 
 onboarding-checklist-sign-up = ចុះឈ្មោះ ឬចូលទៅក្នុងគណនីរបស់អ្នក

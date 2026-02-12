@@ -16,6 +16,12 @@ sidebar-history-clear =
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-open-in-tab =
+    .label = បើក​ក្នុង​ផ្ទាំង​ថ្មី
+sidebar-context-menu-open-in-window =
+    .label = បើក​ក្នុង​បង្អួច​ថ្មី
+sidebar-context-menu-open-in-private-window =
+    .label = បើកក្នុងបង្អួចឯកជនថ្មី
 sidebar-context-menu-bookmark-tab =
     .label = ផ្ទាំងចំណាំ…
 

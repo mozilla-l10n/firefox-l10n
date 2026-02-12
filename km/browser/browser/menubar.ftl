@@ -204,6 +204,11 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ចំណាំ​ចល័ត
 
+## Profiles Menu
+
+menu-profiles-new-profile =
+    .label = ប្រវត្តិរូបថ្មី
+
 ## Tools Menu
 
 menu-tools =

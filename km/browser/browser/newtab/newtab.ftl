@@ -172,6 +172,8 @@ newtab-weather-opt-in-not-now =
     .label = កុំទាន់
 newtab-weather-opt-in-yes =
     .label = បាទ/ចាស៎
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = ទីក្រុងញូវយ៉ក
 
 ## Topic Selection Modal
 
@@ -193,6 +195,9 @@ newtab-report-cancel = បោះបង់
 
 ## Strings for task / to-do list productivity widget
 
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = ថ្មី
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
@@ -200,6 +205,9 @@ newtab-widget-lists-completed-list = បានបញ្ចប់ ({ $number })
 newtab-widget-lists-menu-delete = លុបបញ្ជីនេះ
 newtab-widget-lists-menu-hide = លាក់បញ្ជីទាំងអស់
 newtab-widget-lists-input-menu-delete = លុប
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = បញ្ជីថ្មី
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

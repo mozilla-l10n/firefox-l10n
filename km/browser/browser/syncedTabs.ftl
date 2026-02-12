@@ -20,6 +20,15 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = បើក
     .accesskey = O
+synced-tabs-context-open-in-tab =
+    .label = បើក​ក្នុង​ផ្ទាំង​ថ្មី
+    .accesskey = w
+synced-tabs-context-open-in-window =
+    .label = បើក​ក្នុង​បង្អួច​ថ្មី
+    .accesskey = N
+synced-tabs-context-open-in-private-window =
+    .label = បើកក្នុងបង្អួចឯកជនថ្មី
+    .accesskey = P
 
 ##
 

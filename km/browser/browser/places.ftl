@@ -5,6 +5,9 @@
 places-open =
     .label = បើក
     .accesskey = ប
+places-open-in-tab =
+    .label = បើក​ក្នុង​ផ្ទាំង​ថ្មី
+    .accesskey = w
 places-open-all-bookmarks =
     .label = បើកចំណាំទាំងអស់
     .accesskey = O

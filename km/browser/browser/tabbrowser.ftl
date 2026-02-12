@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = ផ្ទាំង​ថ្មី
+tabbrowser-empty-private-tab-title = ផ្ទាំង​ឯកជន​ថ្មី
 tabbrowser-menuitem-close-tab =
     .label = បិទ​ផ្ទាំង
 tabbrowser-menuitem-close =
