@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = წარწერა მოცილ�
 pdfjs-editor-undo-bar-message-ink = მოხაზულის მოცილებულია
 pdfjs-editor-undo-bar-message-stamp = სურათი მოცილებულია
 pdfjs-editor-undo-bar-message-signature = ხელმოწერა მოცილებულია
+pdfjs-editor-undo-bar-message-comment = შენიშვნა მოცილებულია
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -640,6 +641,67 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = გვერდითა ზოლის გამოჩენა/დამალვა
+pdfjs-toggle-views-manager-notification-button =
+    .title = გვერდითი ზოლის გამოჩენა (შეიცავს შესათვალიერებელს/სარჩევს/დანართს)
+pdfjs-toggle-views-manager-button-label = გვერდითა ზოლის გამოჩენა/დამალვა
+pdfjs-views-manager-sidebar =
+    .aria-label = გვერდითი ზოლი
+pdfjs-views-manager-view-selector-button =
+    .title = ხედები
+pdfjs-views-manager-view-selector-button-label = ხედები
+pdfjs-views-manager-pages-title = გვერდები
+pdfjs-views-manager-outlines-title = დოკუმენტის სარჩევი
+pdfjs-views-manager-attachments-title = დანართები
+pdfjs-views-manager-layers-title = შრეები
+pdfjs-views-manager-pages-option-label = გვერდები
+pdfjs-views-manager-outlines-option-label = დოკუმენტის სარჩევი
+pdfjs-views-manager-attachments-option-label = დანართები
+pdfjs-views-manager-layers-option-label = შრეები
+pdfjs-views-manager-add-file-button =
+    .title = ფაილის დამატება
+pdfjs-views-manager-add-file-button-label = ფაილის დამატება
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } შერჩეული
+       *[other] { $count } შერჩეული
+    }
+pdfjs-views-manager-pages-status-none-action-label = გვერდების შერჩევა
+pdfjs-views-manager-pages-status-action-button-label = მართვა
+pdfjs-views-manager-pages-status-copy-button-label = ასლი
+pdfjs-views-manager-pages-status-cut-button-label = ამოჭრა
+pdfjs-views-manager-pages-status-delete-button-label = წაშლა
+pdfjs-views-manager-pages-status-save-as-button-label = შენახვა როგორც…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 გვერდი ამოიჭრა
+       *[other] { $count } გვერდი ამოიჭრა
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 გვერდის ასლი აღებულია
+       *[other] { $count } გვერდის ასლი აღებულია
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 გვერდი წაიშალა
+       *[other] { $count } გვერდი წაიშალა
+    }
+pdfjs-views-manager-pages-status-waiting-ready-label = მზადდება თქვენი ფაილი…
+pdfjs-views-manager-pages-status-waiting-uploading-label = ფაილი აიტვირთება…
+pdfjs-views-manager-status-warning-cut-label = ვერ ამოიჭრა. განაახლეთ გვერდი და კვლავ სცადეთ.
+pdfjs-views-manager-status-warning-copy-label = ასლი ვერ აიღო. განაახლეთ გვერდი და კვლავ სცადეთ.
+pdfjs-views-manager-status-warning-delete-label = ვერ წაიშალა. განაახლეთ გვერდი და კვლავ სცადეთ.
+pdfjs-views-manager-status-warning-save-label = ვერ შეინახა. განაახლეთ გვერდი და კვლავ სცადეთ.
 pdfjs-views-manager-status-undo-button-label = დაბრუნება
 pdfjs-views-manager-status-close-button =
     .title = დახურვა

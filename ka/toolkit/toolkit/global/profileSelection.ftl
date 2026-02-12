@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = მონიშნული პროფილის გამოყენება ყოველი ჩართვისას
     .accesskey = მ
+profile-has-selectable-profiles-title = ვერ წაიშლება პროფილი, რომელიც სხვა პროფილებთანაა დაკავშირებული
