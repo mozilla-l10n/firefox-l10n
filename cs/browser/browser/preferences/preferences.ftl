@@ -1175,7 +1175,7 @@ search-separate-default-engine-2 =
 search-separate-default-engine-dropdown =
     .aria-label = Výchozí vyhledávač v anonymních oknech
 search-suggestions-header-2 =
-    .label = Návrhy z vyhledávačů
+    .label = Návrhy od vyhledávačů
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
