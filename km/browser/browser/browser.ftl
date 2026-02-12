@@ -60,6 +60,7 @@ urlbar-search-tips-onboard = វាយតិចជាងនេះ រកច្�
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = ចំណាំ
+urlbar-search-mode-history = ប្រវត្តិ
 
 ##
 
@@ -125,6 +126,8 @@ search-one-offs-add-engine-menu =
 
 search-one-offs-bookmarks =
     .tooltiptext = ចំណាំ ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = ប្រវត្តិ ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
@@ -133,6 +136,11 @@ search-one-offs-bookmarks =
 # Opens the bookmarks library window
 quickactions-bookmarks2 = គ្រប់គ្រងចំណាំ
 quickactions-cmd-bookmarks = ចំណាំ
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = សម្អាតប្រវត្តិថ្មីៗ
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = សម្អាត​ប្រវត្តិ
+quickactions-cmd-clearhistory = សម្អាត​ប្រវត្តិ
 quickactions-cmd-themes = រចនាប័ទ្ម
 
 ## Bookmark Panel
