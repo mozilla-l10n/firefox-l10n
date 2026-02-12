@@ -25,7 +25,9 @@ update-applying = Надградбата се применува...
 update-failed = Надградбата не успеа. <label data-l10n-name="failed-link">Преземете ја најновата верзија</label>
 update-failed-main = Надградбата не успеа. <a data-l10n-name="failed-link-main">Преземете ја најновата верзија</a>
 update-adminDisabled = Вашиот системски администратор ги има оневозможено надградбите
+update-policy-disabled = Надградбите се оневозможени од Вашата организација
 update-noUpdatesFound = Нема надградби за { -brand-short-name }
+aboutdialog-update-checking-failed = Неуспешна проверка за надградби.
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира од друга инстанца
 
 ## Variables:
@@ -48,6 +50,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } е дизајниран од <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">глобална заедница</label> која работи заедно за да ја зачува мрежата отворена, јавна и достапна за сите.
 helpus = Сакате да придонесете? <label data-l10n-name="helpus-donateLink">Донирајте</label> или <label data-l10n-name="helpus-getInvolvedLink">приклучете се!</label>
 bottomLinks-license = Информации за лиценцирањето
+bottom-links-terms = Услови на употреба
+bottom-links-privacy = Белешка за приватност
 bottomLinks-rights = Права на корисникот
 bottomLinks-privacy = Политика за приватност
 # Example of resulting string: 66.0.1 (64-bit)
@@ -61,3 +65,14 @@ aboutDialog-version = { $version } ({ $bits }-битен)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-битен)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })
