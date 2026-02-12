@@ -1607,6 +1607,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Administrar excepciones...
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Administrar excepciones
+    .accesskey = x
+    .description = Puedes especificar qué sitios web siempre o nunca pueden utilizar cookies y datos del sitio.
 cookies-site-data-group =
     .label = Cookies y datos del sitio
 
@@ -1766,6 +1770,8 @@ content-blocking-etp-standard-tcp-title = Incluye Total Cookie Protection, nuest
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-title-2 = Algunos sitios pueden romper la estricta protección de seguimiento
 content-blocking-warning-title-custom = Algunos sitios pueden dejar de funcionar con la protección de seguimiento personalizada
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomienda usar la configuración "Solucionar problemas del sitio" para reducir el número de funciones y contenido defectuosos. Si un sitio parece estar dañado, desactiva la protección de rastreo para que cargue todo el contenido.
 content-blocking-and-isolating-etp-warning-description-2 = Este ajuste puede hacer que algunos sitios web no muestren contenido o que no funcionen correctamente. Si un sitio parece roto, puede que desees desactivar la protección contra seguimiento para que ese sitio cargue todo el contenido.
 content-blocking-warning-learn-how = Aprende cómo
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
