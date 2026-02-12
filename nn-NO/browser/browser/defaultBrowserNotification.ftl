@@ -41,3 +41,5 @@ default-browser-guidance-notification-body-instruction-win11 =
 default-browser-guidance-notification-info-page = Vis meg
 default-browser-guidance-notification-dismiss = Ferdig
 default-browser-guidance-notification-v2-title = Fullfør i å gjere { -brand-short-name } til standardnettlesaren din
+default-browser-guidance-notification-v2-body = I Innstillingar vel du «Angje standard» for { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Fullfør å gjere { -brand-short-name } til standardnettlesar i Innstillingar
