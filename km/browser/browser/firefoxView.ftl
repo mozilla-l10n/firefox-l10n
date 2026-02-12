@@ -17,6 +17,9 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = ប្រវត្តិ
+    .title = ប្រវត្តិ
+firefoxview-history-header = ប្រវត្តិ
 firefoxview-history-context-delete = លុបចេញពីប្រវត្តិ
     .accesskey = D
 
@@ -27,6 +30,9 @@ firefoxview-chat-context-delete = លុបចេញពីការជជែក
 
 ##
 
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ស្វែងរក​ប្រវត្តិ
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
     .placeholder = របារស្វែងរក
@@ -35,6 +41,11 @@ firefoxview-search-text-box-tabs =
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-history-date-yesterday = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }
+
+##
+
+firefoxview-show-all-history = បង្ហាញប្រវត្តិទាំងអស់
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:

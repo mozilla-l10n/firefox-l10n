@@ -148,6 +148,15 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ប្រើ​លំនាំ​ដើម
 security-no-visits = ទេ
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] ទេ
+       *[other] បាទ/ចាស៎, មើល { $visits } ដង
+    }
 # This string is used to display the type of
 # an image
 # Variables:

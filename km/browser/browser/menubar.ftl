@@ -182,6 +182,9 @@ menu-history-undo-menu =
     .label = ផ្ទាំង​ដែល​បិទ​ថ្មីៗ
 menu-history-undo-window-menu =
     .label = បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = ស្វែងរក​ប្រវត្តិ
 
 ## Bookmarks Menu
 

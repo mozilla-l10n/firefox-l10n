@@ -138,6 +138,7 @@ quickactions-bookmarks2 = គ្រប់គ្រងចំណាំ
 quickactions-cmd-bookmarks = ចំណាំ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = សម្អាតប្រវត្តិថ្មីៗ
+quickactions-cmd-clearrecenthistory = សម្អាតប្រវត្តិថ្មីៗ, ប្រវត្តិ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = សម្អាត​ប្រវត្តិ
 quickactions-cmd-clearhistory = សម្អាត​ប្រវត្តិ
@@ -229,6 +230,10 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = បញ្ចូលពាក្យស្វែងរក
     .aria-label = ស្វែងរកចំណាំ
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = បញ្ចូលពាក្យស្វែងរក
+    .aria-label = ស្វែងរកប្រវត្តិ
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -264,12 +269,15 @@ urlbar-result-realtime-opt-in-not-now = កុំទាន់
 
 urlbar-searchmode-bookmarks =
     .label = ចំណាំ
+urlbar-searchmode-history =
+    .label = ប្រវត្តិ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = ស្វែងរក​ចំណាំ
+urlbar-result-action-search-history = ស្វែងរក​ប្រវត្តិ
 urlbar-result-action-search-tabs = របារស្វែងរក
 
 ## Reader View toolbar buttons

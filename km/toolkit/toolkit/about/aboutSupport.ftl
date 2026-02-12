@@ -118,3 +118,7 @@ touch-enabled = បាន​បើក​ការ​បញ្ចូល​ដោ�
 
 wheel-warning = បាន​បិទ​ការ​បញ្ចូល​ដោយ​កង់​កណ្ដុរ async ដោយ​សារ​ចំណូល​ចិត្ត​មិន​គាំទ្រ៖ { $preferenceKey }
 touch-warning = បាន​បិទ​ការ​បញ្ចូល​ដោយ​ប៉ះ async ដោយ​សារ​ចំណូល​ចិត្ត​មិន​គាំទ្រ៖ { $preferenceKey }
+
+## Remote Settings sections
+
+support-remote-settings-sync-history = ប្រវត្តិ

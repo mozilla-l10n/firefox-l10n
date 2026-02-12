@@ -51,6 +51,7 @@ migration-cancel-button-label = បោះបង់
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-password-label = ពាក្យសម្ងាត់
+migration-list-history-label = ប្រវត្តិ
 
 ##
 

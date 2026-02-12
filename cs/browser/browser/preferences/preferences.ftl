@@ -1953,7 +1953,7 @@ addressbar-locbar-suggest-all-option-2 =
     .description = Získat návrhy z webu souvisejícím s vaším vyhledáváním.
 addressbar-locbar-suggest-sponsored-option-2 =
     .label = Návrhy od sponzorů
-    .description = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.
+    .description = Podpořte { -brand-short-name(case: "acc") } občasným zobrazením sponzorovaných návrhů.
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazit nedávná vyhledávání
@@ -1979,7 +1979,7 @@ addressbar-locbar-suggest-nonsponsored-option =
 addressbar-locbar-suggest-nonsponsored-desc = Získat návrhy z webu souvisejícím s vaším vyhledáváním.
 addressbar-locbar-suggest-sponsored-option =
     .label = Návrhy od sponzorů
-addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.
+addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name(case: "acc") } občasným zobrazením sponzorovaných návrhů.
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.

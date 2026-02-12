@@ -109,6 +109,11 @@ annotations-make-default-pdf-next =
 
 device-migration-fxa-spotlight-older-device-primary-button = បង្កើត​គណនី
 
+## Launch on login infobar notification
+
+launch-on-login-infobar-confirm-button = បាទ/ចាស៎ បើក { -brand-short-name }
+    .accesskey = Y
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = កុំទាន់

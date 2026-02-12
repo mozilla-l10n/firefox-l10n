@@ -36,6 +36,7 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP មូលដ្ឋាន​
 about-webrtc-remote-sdp-heading = បញ្ជា SDP ពី​ចម្ងាយ
+about-webrtc-sdp-history-heading = ប្រវត្តិ SDP
 
 ##
 
@@ -65,6 +66,7 @@ about-webrtc-debug-mode-msg-label = របៀប​កែ​កំហុស
 about-webrtc-debug-mode-off-state-label = ចាប់ផ្ដើម​របៀប​កែ​កំហុស
 about-webrtc-debug-mode-on-state-label = បញ្ឈប់​ការ​កែ​កំហុស​
 about-webrtc-stats-heading = ស្ថិតិសម័យ
+about-webrtc-stats-clear = សម្អាត​ប្រវត្តិ
 about-webrtc-log-heading = កំណត់ហេតុ​តភ្ជាប់
 about-webrtc-log-show-msg = បង្ហាញ​កំណត់​ហេតុ​
     .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ

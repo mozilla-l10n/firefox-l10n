@@ -7,8 +7,12 @@ menu-view-contextual-password-manager =
 
 ## Labels for sidebar history panel
 
+sidebar-history-date-yesterday =
+    .heading = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }
 sidebar-history-delete =
     .title = លុប​ពី​ប្រវត្តិ
+sidebar-history-clear =
+    .label = សម្អាត​ប្រវត្តិ
 
 ## Labels for sidebar context menu items
 
@@ -26,6 +30,8 @@ sidebar-history-context-menu-delete-pages =
 
 ## Labels for sidebar menu items.
 
+sidebar-menu-history-label =
+    .label = ប្រវត្តិ
 sidebar-menu-bookmarks-label =
     .label = ចំណាំ
 sidebar-menu-contextual-password-manager-label =
@@ -33,6 +39,14 @@ sidebar-menu-contextual-password-manager-label =
 
 ## Tooltips for sidebar menu items.
 
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = បើកប្រវត្តិ ({ $shortcut })
+# The tooltip to show over the history icon, when history is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-history-tooltip = បិទប្រវត្តិ ({ $shortcut })
 # The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
@@ -44,8 +58,14 @@ sidebar-menu-close-bookmarks-tooltip = បិទ​ចំណាំ ({ $shortcut 
 
 ## Headings for sidebar menu panels.
 
+sidebar-menu-history-header =
+    .heading = ប្រវត្តិ
 sidebar-menu-cpm-header =
     .heading = ពាក្យ​សម្ងាត់
+
+## Titles for sidebar menu panels.
+
+sidebar-history-title = ប្រវត្តិ
 
 ## Context for closing synced tabs when hovering over the items
 

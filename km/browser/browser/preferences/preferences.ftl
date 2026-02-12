@@ -538,6 +538,7 @@ sync-sign-in =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = ចំណាំ
+sync-currently-syncing-history = ប្រវត្តិ
 sync-currently-syncing-passwords = ពាក្យ​សម្ងាត់
 
 ## The "Choose what to sync" dialog.
