@@ -1083,7 +1083,13 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>اخۊین بلگه یل پؽشی ن بۊگۊشین؟</strong> می‌توانید نشست پؽشی خوتووݩ ن ز نومگه { -brand-short-name } <img data-l10n-name="icon"/>، من بشن ویرگار وورگنین.
 restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = سازمووݩ ایسا، دسرسی و فایلا مهلی ری ای کامپیتر ن مسدۊد کرده
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
