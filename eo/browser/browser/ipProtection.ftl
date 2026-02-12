@@ -29,10 +29,13 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = Elektu, por kiuj retejoj uzi VPN
+ipprotection-site-settings-callout-subtitle = Malŝaltu VPN por specifa retejo kaj ni memoros tion por la venonta vizito.
 ipprotection-site-settings-callout-button = Mi komprenis
 
 ## Panel
 
+unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 unauthenticated-get-started = Unuaj paŝoj
 site-exclusion-toggle-label = Ŝalti VPN por tiu ĉi retejo
 site-exclusion-toggle-enabled =
@@ -129,4 +132,20 @@ ip-protection-bandwidth-help-text = La unuan tagon de ĉiu monato { $maxUsage } 
 
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, replenigitaj kaj pretaj por uzo
+ipprotection-bandwidth-reset-title =
+    { $maxUsage ->
+        [one] $maxUsage GB de VPN, replenigita kaj preta por uzo
+       *[other] $maxUsage GB de VPN, replenigitaj kaj pretaj por uzo
+    }
+ipprotection-bandwidth-reset-button = Mi komprenis
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN paŭzigita
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
+vpn-paused-alert-close-tabs-button = Fermi ĉiujn langetojn
+vpn-paused-alert-continue-wo-vpn-button = Daŭrigi sen VPN
+vpn-error-alert-title = La VPN ne funkcias nun.
+vpn-error-alert-body = Provu denove poste.
