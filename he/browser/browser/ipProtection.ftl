@@ -32,7 +32,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks = לא תודה
 
 ## Site settings callout
 
-ipprotection-site-settings-callout-title = בחירה במיקומים שבהם יש להשתמש ב־VPN
+ipprotection-site-settings-callout-title = בחירה באתרים שבהם יש להשתמש ב־VPN
 ipprotection-site-settings-callout-subtitle = ניתן לכבות את ה־VPN עבור אתר ספציפי, ונזכור זאת בביקור הבא.
 ipprotection-site-settings-callout-button = הבנתי
 

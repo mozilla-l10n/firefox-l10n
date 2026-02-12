@@ -1217,11 +1217,17 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
+trustpanel-etp-label-enabled = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری فعال هڌ
 trustpanel-etp-label-disabled = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری قیر فعال هڌ
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
     .aria-label = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری سی { $host } فعال هڌ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری سی { $host } قیر فعال هڌ
+trustpanel-etp-description-enabled = ٱر منی چیه من ای وبگه خراو هڌ، قپ ریت کۊنین زفت وابیڌنا ن کۊر کۊنین.
 trustpanel-connection-label-secure = منپیز ٱمن
 trustpanel-connection-label-insecure = منپیز ٱمن نؽ
 trustpanel-description-enabled2 = ایسا زفت ابۊین. ٱر چیه ن بوینیم، و ایسا وارسۊوی اکۊنیم.
@@ -1231,6 +1237,10 @@ trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل 
 trustpanel-privacy-link = سامووا هریم سیخومی
 trustpanel-clear-cookies-subview-button-clear = پاک کردن
 trustpanel-clear-cookies-subview-button-cancel = لقو
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = زفت وابیڌنا جلاو منپیزا سی { $host }
 trustpanel-siteinformation-morelink = دووسمندیا قلوه وبگه
 trustpanel-blocker-see-all = نیشتن پوی
 # Variables
