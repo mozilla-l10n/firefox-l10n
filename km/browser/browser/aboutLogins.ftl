@@ -253,6 +253,9 @@ about-logins-confirm-export-dialog-title = នាំចេញការចូល�
 about-logins-confirm-export-dialog-message = ពាក្យសម្ងាត់​របស់​អ្នក​នឹង​ត្រូវបាន​រក្សាទុក​ជាអត្ថបទ​ដែល​អាច​អាន​បាន (ឧ. BadP@ssw0rd) ដូច្នេះ​នរណា​ដែល​អាច​បើក​ឯកសារ​ដែល​បាន​នាំចេញ​ អាច​មើលពាក្យ​សម្ងាត់​ទាំងនោះបាន។
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
 about-logins-confirm-export-dialog-title2 = កំណត់ចំណាំអំពីការនាំចេញពាក្យសម្ងាត់
+about-logins-confirm-export-dialog-message2 =
+    នៅពេលអ្នកនាំចេញ ពាក្យសម្ងាត់របស់អ្នកត្រូវបានរក្សាទុកទៅក្នុងឯកសារដែលមានអក្សរដែលអាចអានបាន។
+    នៅពេលដែលអ្នកបានប្រើប្រាស់ឯកសាររួចហើយ យើងសូមណែនាំឱ្យលុបវាចោល ដើម្បីកុំឱ្យអ្នកដទៃដែលប្រើប្រាស់ឧបករណ៍នេះអាចមើលឃើញពាក្យសម្ងាត់របស់អ្នក។
 about-logins-confirm-export-dialog-confirm-button2 = បន្តនាំចេញ
 about-logins-alert-import-title = ការនាំចូល​បាន​បញ្ចប់
 about-logins-alert-import-message = មើល​សេចក្ដី​សង្ខេប​អំពី​ការនាំចូល​លម្អិត
@@ -403,6 +406,7 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ការចូល​ដែល​ស្ទួនគ្នា</div> <div data-l10n-name="not-imported">(not imported)</div>
     }
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ទិន្នន័យស្ទួន</div> <div data-l10n-name="not-imported">(មិនបាននាំចូលទេ)</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">បញ្ហា</div> <div data-l10n-name="not-imported">(not imported)</div>
