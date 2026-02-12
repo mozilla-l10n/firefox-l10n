@@ -89,11 +89,26 @@ ipprotection-message-bandwidth-warning =
     .message = Restas al vi { $usageLeft } GB el { $maxUsage } GB por la cetero de la monato.
 ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian lokon kaj aldoni kroman tavolon de ĉifrado al via retumo.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memoros la retejojn kiujn vi agordis por viziti pere de VPN. Vi povas modifi ilin iam ajn en <a data-l10n-name="setting-link">agordoj</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Ĉu vi ŝatas la integritan VPN? Ricevu eĉ pli da protekto krom tiu de { -brand-product-name } per { -mozilla-vpn-brand-name }.
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Integrita VPN por plibonigi vian privatecon dum vi retumas per { -brand-short-name }.
 ip-protection-learn-more = Pli da informo
+ip-protection-site-exceptions =
+    .label = Specifaj agordoj por retejoj
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Provu la integritan VPN de { -brand-short-name }
+    .message = Kaŝu vian lokon kaj aldonu kroman tavolon de ĉifrado al vi retumo en { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -110,9 +125,19 @@ ip-protection-autostart-checkbox =
     .label = Kiam mi malfermas { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = En privataj fenestroj
+ip-protection-vpn-upgrade-link =
+    .label = Ricevu eĉ pli da protekto krom tiu de { -brand-short-name } per { -mozilla-vpn-brand-name }.
+    .description = Elektu personecitigajn lokojn por VPN kaj aldonu protekton al ĉiuj viaj apoj en maksimume kvin aparatoj, ĉu hejme ĉu en publika Wi-Fi.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Administri agordojn de retejoj
+ip-protection-exclusions-desc = Uzi VPN por ĉiuj retejoj, krom por tiuj en tiu ĉi listo. Aldonu retejon rekte ĉi tie aŭ per malfermo de la VPN.
 
 ## IP Protection Bandwidth
 
+ip-protection-bandwidth-header = Ĉiumonataj datumoj de VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
