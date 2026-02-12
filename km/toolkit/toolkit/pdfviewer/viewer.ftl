@@ -220,6 +220,10 @@ pdfjs-editor-highlight-show-all-button =
 
 pdfjs-editor-new-alt-text-not-now-button = មិន​មែន​ឥឡូវ
 
+## Image alt-text settings
+
+pdfjs-editor-alt-text-settings-delete-model-button = លុប
+
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = បោះបង់
@@ -227,3 +231,12 @@ pdfjs-editor-add-signature-cancel-button = បោះបង់
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-dialog-cancel-button = បោះបង់
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-pages-status-delete-button-label = លុប

@@ -7,5 +7,6 @@ about-logging-new-log-modules = ម៉ូឌុលកំណត់ហេតុថ
 
 ## Uploaded Profiles section
 
+about-logging-delete-uploaded-profile = លុប
 about-logging-view-uploaded-profile = មើលប្រវត្តិរូប
 about-logging-delete-profile-confirm-title = លុបប្រវត្តិរូប

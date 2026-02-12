@@ -9,3 +9,4 @@
 ## Buttons
 
 about-webauthn-cancel-button = បោះបង់
+about-webauthn-delete-button = លុប
