@@ -33,10 +33,12 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Escolha onde você usa VPN
+ipprotection-site-settings-callout-subtitle = Desative a VPN em um site específico, isso será lembrado na próxima vez que você visitar.
 ipprotection-site-settings-callout-button = Entendi
 
 ## Panel
 
+unauthenticated-vpn-title = Experimente a VPN integrada no { -brand-product-name }
 unauthenticated-get-started = Introdução
 
 ## IP Protection Settings
