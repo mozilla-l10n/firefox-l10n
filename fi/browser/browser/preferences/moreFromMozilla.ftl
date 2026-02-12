@@ -38,7 +38,7 @@ more-from-moz-mozilla-monitor-button = Hanki { -monitor-brand-short-name }
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Luo verkkosivusto välittömästi ja yhdistä oma verkkotunnuksesi ilmaiseksi.
-more-from-moz-solo-button = Kokeile { -solo-ai-brand-name }:ta
+more-from-moz-solo-button = Kokeile { -solo-ai-brand-name }a
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
