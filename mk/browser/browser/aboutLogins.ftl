@@ -3,8 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Најави и лозинки
-fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
+about-logins-page-title = Најавувања и лозинки
+about-logins-login-filter =
+    .placeholder = Пребарај најавувања
+    .key = F
+create-new-login-button =
+    .title = Создај нова најава
+about-logins-page-title-name = Лозинки
+about-logins-login-filter2 =
+    .placeholder = Пребарај лозинки
+    .key = F
+create-login-button =
+    .title = Додај лозинка
+fxaccounts-sign-in-text = Добијте ги Вашите лозинки на други уреди
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
     .title = Уреди ја сметката
@@ -18,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Увези подато
 about-logins-menu-menuitem-import-from-a-file = Увоз од датотека
 about-logins-menu-menuitem-export-logins = Извези најавувања
 about-logins-menu-menuitem-remove-all-logins = Отстрани ги сите најавувања
+about-logins-menu-menuitem-export-logins2 = Извоз на лозинки…
+about-logins-menu-menuitem-remove-all-logins2 = Отстрани ги сите лозинки…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Преференции
@@ -36,6 +49,29 @@ login-list-count =
         [one] { $count } најавување
        *[other] { $count } најавувања
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } од { $total } најавување
+       *[other] { $count } од { $total } најавувања
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } лозинка
+       *[other] { $count } лозинки
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } од { $total } лозинка
+       *[other] { $count } од { $total } лозинки
+    }
 login-list-sort-label-text = Подреди според:
 login-list-name-option = Име (А-Ш)
 login-list-name-reverse-option = Име (Ш-А)
@@ -45,11 +81,14 @@ about-logins-login-list-alerts-option = Предупредувањa
 login-list-last-changed-option = Последна промена
 login-list-last-used-option = Последен пат користена
 login-list-intro-title = Не се пронајдени најавувања
+login-list-intro-title2 = Нема зачувани лозинки
 login-list-intro-description = Кога ќе зачувате лозинка во { -brand-product-name }, таа ќе се појави тука.
 about-logins-login-list-empty-search-title = Не се пронајдени најавувања
+about-logins-login-list-empty-search-title2 = Не се пронајдени лозинки
 about-logins-login-list-empty-search-description = Нема резултати што одговараат на вашето пребарување.
 login-list-item-title-new-login = Нова најава
 login-list-item-subtitle-new-login = Внесете ги вашите податоци за најава
+login-list-item-title-new-login2 = Додај лозинка
 login-list-item-subtitle-missing-username = (Нема корисничко име)
 about-logins-list-item-breach-icon =
     .title = Пробиена веб-страница
@@ -68,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Барате зачувани н�
 about-logins-login-intro-heading-logged-in = Не се пронајдени синхронизирани најавувања.
 login-intro-description = Ако ги зачувавте најавувањата на { -brand-product-name } на друг уред, еве како да ги добиете тука:
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
+about-logins-login-intro-heading-message = Зачувајте ги Вашите лозинки на безбедно место
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-passwords-help = За повеќе помош, посетете ја <a data-l10n-name="passwords-help-link">страницата за поддршка за лозинки</a>.
 about-logins-intro-browser-only-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -brand-product-name }</a>

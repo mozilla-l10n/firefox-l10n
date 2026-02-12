@@ -27,7 +27,7 @@ update-failed-main = Надградбата не успеа. <a data-l10n-name="
 update-adminDisabled = Вашиот системски администратор ги има оневозможено надградбите
 update-policy-disabled = Надградбите се оневозможени од Вашата организација
 update-noUpdatesFound = Нема надградби за { -brand-short-name }
-aboutdialog-update-checking-failed = Неуспешна проверка за надградби.
+aboutdialog-update-checking-failed = Неуспешна проверка за ажурирања.
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира од друга инстанца
 
 ## Variables:
@@ -37,6 +37,7 @@ aboutdialog-update-manual-with-link = Најнови верзии се дост�
 settings-update-manual-with-link = Најнови верзии се достапни на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не можете да направите дополнителни ажурирања на овој систем. <label data-l10n-name="unsupported-link">Дознајте повеќе</label>
 update-restarting = Рестартирам…
+update-internal-error2 = Не може да се провери за ажурирања поради внатрешна грешка. Ажурирањата се достапни на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
