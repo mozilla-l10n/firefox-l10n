@@ -289,6 +289,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Да се отстрани { $count } лозинка од сите уреди?
        *[other] Да се отстранат сите { $count } лозинки од сите уреди?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Ова ќе ја отстрани лозинката зачувана во { -brand-short-name } на сите ваши синхронизирани уреди. Ова исто така ќе ги отстрани сите известувања за прекршување на безбедноста што се појавуваат тука. Не можете да го вратите ова дејство.
+        [one] Ова ќе ја отстрани лозинката зачувана во { -brand-short-name } на сите ваши синхронизирани уреди. Ова исто така ќе ги отстрани сите известувања за прекршување на безбедноста што се појавуваат тука. Не можете да го вратите ова дејство.
+       *[other] Ова ќе ги отстрани сите лозинки зачувани во { -brand-short-name } на сите ваши синхронизирани уреди. Ова исто така ќе ги отстрани сите известувања за прекршување на безбедноста што се појавуваат тука. Не можете да го вратите ова дејство.
+    }
 
 ##
 
@@ -296,6 +303,10 @@ about-logins-confirm-export-dialog-title = Извезете најави и ло
 about-logins-confirm-export-dialog-message = Вашите лозинки ќе се зачуваат како читлив текст (на пр., BadP@ssw0rd), така што секој што може да ја отвори извезената датотека може да ги прегледа.
 about-logins-confirm-export-dialog-confirm-button = Извези...
 about-logins-confirm-export-dialog-title2 = Забелешка за извоз на лозинки
+about-logins-confirm-export-dialog-message2 =
+    Кога извезувате, вашите лозинки се зачувуваат во датотека со читлив текст.
+    Кога ќе завршите со користење на датотеката, препорачуваме да ја избришете за да не можат другите што го користат овој уред да ги видат вашите лозинки.
+about-logins-confirm-export-dialog-confirm-button2 = Продолжи со извозот
 about-logins-alert-import-title = Увозот заврши
 about-logins-alert-import-message = Погледнете го деталното резиме за увоз
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?
@@ -337,6 +348,11 @@ about-logins-export-file-picker-title = Извези датотека за на�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = најави.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Извоз на лозинки од { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = лозинки.csv
 about-logins-export-file-picker-export-button = Извези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -350,6 +366,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Увезете датотека со најави
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Увези лозинки во { -brand-short-name }
 about-logins-import-file-picker-import-button = Увези
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -386,6 +404,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Најдена е дупликат најава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е увезена)</span >
        *[other] <span>Најдени се дупликат најавувања:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е увезена)</span >
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Додадени се нови лозинки:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Додадени се нови лозинки:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Постоечките записи се ажурирани:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Постоечките записи се ажурирани:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Пронајдени се дупликати записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е импортирано)</span>
+       *[other] <span>Пронајдени се дупликати записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е импортирано)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Грешка:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не е увезена)</span>
@@ -407,6 +440,7 @@ about-logins-import-dialog-error-try-import-again = Обидете се повт
 about-logins-import-dialog-error-cancel = Откажи
 about-logins-import-report-title = Резиме за увоз
 about-logins-import-report-description = Најави и лозинки увезени во { -brand-short-name }.
+about-logins-import-report-description2 = Лозинките се увезени во { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -414,6 +448,9 @@ about-logins-import-report-row-index = Ред { $number }
 about-logins-import-report-row-description-no-change = Дупликат: Точно совпаѓање на постоечкото најавување
 about-logins-import-report-row-description-modified = Постоечкото најавување е ажурирано
 about-logins-import-report-row-description-added = Додадено е ново најавување
+about-logins-import-report-row-description-no-change2 = Дупликат: Точно совпаѓање на постоечкиот запис
+about-logins-import-report-row-description-modified2 = Постоечкиот запис е ажуриран
+about-logins-import-report-row-description-added2 = Додадена е нова лозинка
 about-logins-import-report-row-description-error = Грешка: Недостасува поле
 
 ##
@@ -437,3 +474,22 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ажурирано е постоечко најавување</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ажурирани се постоечките најави</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">дупликат најавување</div> <div data-l10n-name="not-imported">(не е импортирано)</div>
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">дупликати најавувања</div> <div data-l10n-name="not-imported">(не се импортирани)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">нова лозинка е додадена</div>
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">нови лозинки се додадени</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">постоечки запис е ажуриран</div>
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">постоечки записи се ажурирани</div>
+    }
+
+## Logins import report page
+
+about-logins-import-report-page-title = Извештај за увозот
