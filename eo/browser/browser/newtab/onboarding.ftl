@@ -572,6 +572,8 @@ onboarding-personalization-motivation-other-option = Aliaj
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Ni protektas viajn datumojn kaj evitas ke entreprenoj spionu viajn alklakojn, aŭtomate.
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Vi troviĝas en bonaj manoj
+onboarding-refresh-import-subtitle = Importu viajn pasvortojn, legosignojn, historion, kaj pli.
