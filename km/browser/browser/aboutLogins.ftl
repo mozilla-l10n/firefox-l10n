@@ -244,12 +244,15 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] លុបពាក្យសម្ងាត់ { $count } ទាំងអស់ចេញ?
        *[other] លុបពាក្យសម្ងាត់ទាំងអស់ { $count } ចេញ?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 = លុបពាក្យសម្ងាត់ { $count } ពីឧបករណ៍ទាំងអស់ដែរឬទេ?
 
 ##
 
 about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-message = ពាក្យសម្ងាត់​របស់​អ្នក​នឹង​ត្រូវបាន​រក្សាទុក​ជាអត្ថបទ​ដែល​អាច​អាន​បាន (ឧ. BadP@ssw0rd) ដូច្នេះ​នរណា​ដែល​អាច​បើក​ឯកសារ​ដែល​បាន​នាំចេញ​ អាច​មើលពាក្យ​សម្ងាត់​ទាំងនោះបាន។
 about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
+about-logins-confirm-export-dialog-title2 = កំណត់ចំណាំអំពីការនាំចេញពាក្យសម្ងាត់
 about-logins-confirm-export-dialog-confirm-button2 = បន្តនាំចេញ
 about-logins-alert-import-title = ការនាំចូល​បាន​បញ្ចប់
 about-logins-alert-import-message = មើល​សេចក្ដី​សង្ខេប​អំពី​ការនាំចូល​លម្អិត

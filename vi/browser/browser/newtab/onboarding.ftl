@@ -569,3 +569,20 @@ onboarding-personalization-motivation-title = Những tính năng nào của { -
 onboarding-personalization-motivation-privacy-option = Riêng tư và bảo mật
 onboarding-personalization-motivation-productivity-option = Năng suất
 onboarding-personalization-motivation-other-option = Khác
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Chúng tôi bảo vệ dữ liệu của bạn và tự động chặn các công ty theo dõi hoạt động của bạn — một cách tự động.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Bạn đang được bảo vệ an toàn
+onboarding-refresh-import-subtitle = Mang mật khẩu, dấu trang, lịch sử và nhiều thứ khác của bạn vào đây.
+onboarding-refresh-import-title = Giúp { -brand-short-name } trở nên gần gũi hơn
+onboarding-refresh-onboarding-addons-subtitle = Tiện ích mở rộng là những ứng dụng nhỏ cho phép bạn tùy chỉnh { -brand-short-name }. Chúng có thể tăng cường quyền riêng tư, nâng cao năng suất, thay đổi giao diện của { -brand-short-name } và nhiều hơn nữa.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Tăng cường trải nghiệm duyệt web của bạn
+onboarding-refresh-sync-subtitle = Lưu lại dấu trang, mật khẩu và nhiều thông tin khác ở mọi nơi bạn đăng nhập vào { -brand-short-name }. Thêm vào đó, dữ liệu của bạn được mã hóa nên chỉ bạn mới có thể xem được.
+onboarding-refresh-sync-title = Đi bất cứ đâu. Đồng bộ hóa mọi thứ.
+onboarding-refresh-gratitude-subtitle = Cảm ơn bạn đã sử dụng { -brand-short-name }, trình duyệt duy nhất được hỗ trợ bởi một tổ chức phi lợi nhuận. Với sự hỗ trợ của bạn, chúng tôi đang nỗ lực làm cho Internet an toàn hơn và dễ truy cập hơn cho mọi người.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } luôn hỗ trợ bạn
