@@ -53,6 +53,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> không ảnh hưởng
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên pseudo-elements được tô sáng.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::cue pseudo-elements.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> không được hỗ trợ trong rule <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong> không có tác dụng lên phần tử này vì nó có nhiều hơn { $lineCount } dòng.
