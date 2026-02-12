@@ -159,6 +159,9 @@ link-preview-onboarding-callout-description = იხილეთ მოკლე
 sidebar-button-callout-title = ჩანართების სათაურების ჩვენება გვერდით ზოლზე
 sidebar-button-callout-subtitle = გამოიყენეთ გვერდითი ზოლის ღილაკი გვერდითი ზოლის გასაშლელად, რათა იხილოთ ჩანართების დასახელებები.
 sidebar-button-callout-vertical-tabs = თქვენი ჩანართების სანახავად აირჩიეთ გვერდითი ზოლის ღილაკი ხელსაწყოთა ზოლზე.
+sidebar-deprecation-callout-title = გვერდითი ზოლი განახლდება მალე
+sidebar-deprecation-callout-subtitle = თანდათანობით უქმდება გვერდითი ზოლის მიმდინარე ვერსია, რომელსაც იყენებთ. მოსინჯეთ განახლებული გვერდითი ზოლი. მეტად სწრაფია და მეტ ხელსაწყოებთან წვდომის საშუალებას იძლევა.
+sidebar-deprecation-cta-button = გამოცადეთ ახლავე
 
 ## Sidebar Vertical Tabs Strings
 
@@ -224,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = რამდენად კმა�
 sidebar-genai-survey-productive-question =
     რამდენად ეთანხმებით ან არ ეთანხმებით დებულებას:<br/>
     „ხელოვნური გონის თანამოსაუბრე გვერდით ზოლზე მეხმარება შედეგიანობის გაზრდაში“?
+splitview-onboarding-callout-title-1 = გაყოფილი ხედი: უკეთესი გზა ერთდროულად რამდენიმე საქმისთვის
+splitview-onboarding-callout-subtitle-1 = ჩანართზე მარჯვენა წყაპით აირჩიეთ „გაყოფილი ხედის დამატება“, რომ ერთდროულად იხილოთ ორი ჩანართი.
+splitview-onboarding-callout-cta-1 = გამოცადეთ ახლავე
+splitview-onboarding-callout-title-2 = იხილეთ ორი ჩანართი ერთდროულად გაყოფილი ხედით
+splitview-onboarding-callout-subtitle-2 = დამატებითი ფანჯრების გარეშე. ჩანართების შეუნაცვლებლად. მარჯვენა წკაპით ამავე ჩანართზე აირჩიეთ „გაყოფილი ხედის დამატება“.
+splitview-onboarding-callout-cta-2 = მოსინჯეთ გაყოფილი ხედი
 unified-search-callout-title = გადართეთ საძიებოებს შორის
 unified-search-callout-subtitle = აირჩიეთ, რომელიც უკეთ გამოგადგებათ ძიებისას.
 unified-search-callout-primary-label = შემდეგ
