@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Εξατομίκευση
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Απόρριψη
+    .aria-label = Απόρριψη
 
 ## Search box component.
 

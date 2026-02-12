@@ -173,6 +173,18 @@ about-logins-edit-login-os-auth-dialog-message-win = За да го уредит
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредувајте ја зачуваната најава
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] да ги промени поставките за лозинките
+       *[other] { -brand-short-name } се обидува да ги промени поставките за лозинките. Користете го вашиот уред за да го овозможите ова.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = За да ја уредите лозинката, внесете ги Вашите акредитиви за најавување во Windows. Ова помага да се заштити безбедноста на Вашите сметки.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = изменете ја зачуваната лозинка
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да ја видите вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -188,6 +200,11 @@ about-logins-export-password-os-auth-dialog-message-win = За да го изв�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = извезете ги зачуваните најави и лозинки
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = За да ги извезете вашите лозинки, внесете ги вашите акредитиви за најавување во Windows. Ова помага да се заштити безбедноста на вашите сметки.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = извези зачувани лозинки
 
 ## Primary Password notification
 
@@ -203,6 +220,10 @@ confirmation-dialog-dismiss-button =
     .title = Откажи
 about-logins-confirm-remove-dialog-title = Да се отстрани ова најавување?
 confirm-delete-dialog-message = Ова дејство не може да се врати.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Да се отстрани лозинката?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Не можете да го вратите ова дејство.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
 
 ## Variables
@@ -242,12 +263,39 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Ова ќе го отстрани најавувањето што сте го зачувале на { -brand-short-name } на сите уреди синхронизирани со вашиот { -fxaccount-brand-name }. Ова ќе ги отстрани и предупредувањата за прекршување што се појавуваат овде. Нема да може да го вратите ова дејство.
        *[other] Ова ќе ги отстрани сите најавувања што сте ги зачувале на { -brand-short-name } на сите уреди синхронизирани со вашиот { -fxaccount-brand-name }. Ова ќе ги отстрани и предупредувањата за прекршување што се појавуваат овде. Нема да може да го вратите ова дејство.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Да, отстрани ја лозинката
+        [one] Да, отстрани ја лозинката
+       *[other] Да, отстрани ги лозинките
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Да се отстрани { $count } лозинка?
+       *[other] Да се отстранат сите { $count } лозинки?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Ова ќе ја отстрани лозинката зачувана во { -brand-short-name } и сите известувања за прекршување. Не можете да го вратите ова дејство.
+        [one] Ова ќе ја отстрани лозинката зачувана во { -brand-short-name } и сите известувања за прекршување. Не можете да го вратите ова дејство.
+       *[other] Ова ќе ги отстрани лозинките зачувани во { -brand-short-name } и сите известувања за прекршување. Не можете да го вратите ова дејство.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Да се отстрани { $count } лозинка од сите уреди?
+       *[other] Да се отстранат сите { $count } лозинки од сите уреди?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Извезете најави и лозинки
 about-logins-confirm-export-dialog-message = Вашите лозинки ќе се зачуваат како читлив текст (на пр., BadP@ssw0rd), така што секој што може да ја отвори извезената датотека може да ги прегледа.
 about-logins-confirm-export-dialog-confirm-button = Извези...
+about-logins-confirm-export-dialog-title2 = Забелешка за извоз на лозинки
 about-logins-alert-import-title = Увозот заврши
 about-logins-alert-import-message = Погледнете го деталното резиме за увоз
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?

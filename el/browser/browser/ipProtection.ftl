@@ -35,3 +35,35 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = Το VPN είναι ενεργό
 ipprotection-connection-status-disconnected = Το VPN είναι ανενεργό
+
+## IP Protection Settings
+
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Διαχείριση ρυθμίσεων ιστοτόπων
+    .description =
+        { $count ->
+            [one] { $count } ιστότοπος
+           *[other] { $count } ιστότοποι
+        }
+ip-protection-autostart =
+    .label = Αυτόματη ενεργοποίηση του VPN
+ip-protection-autostart-private-checkbox =
+    .label = Σε ιδιωτικά παράθυρα
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Διαχείριση ρυθμίσεων ιστοτόπων
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Μηνιαία δεδομένα VPN
+
+## IP Protection alerts
+
+vpn-paused-alert-close-tabs-button = Κλείσιμο όλων των καρτελών
+vpn-paused-alert-continue-wo-vpn-button = Συνέχεια χωρίς VPN
+vpn-error-alert-title = Το VPN δεν λειτουργεί αυτήν τη στιγμή.
+vpn-error-alert-body = Δοκιμάσετε ξανά αργότερα.
