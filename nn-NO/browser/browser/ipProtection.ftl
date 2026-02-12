@@ -31,6 +31,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vel kvar du brukar VPN
+ipprotection-site-settings-callout-subtitle = Slå av VPN for ein viss nettstad, så hugsar vi det neste gong du besøkjer det.
 ipprotection-site-settings-callout-button = Eg forstår
 
 ## Panel
@@ -68,6 +69,9 @@ ipprotection-button-connecting = Slår på…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN sett på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
 ## Messages and errors
