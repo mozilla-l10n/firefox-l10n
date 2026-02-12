@@ -117,8 +117,8 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Zavřít { $tabCount } panelů?
     }
 tabbrowser-confirm-close-tabs-button = Zavřít panely
-tabbrowser-ask-close-tabs-checkbox = Zeptat se před zavřením více panelů
-tabbrowser-confirm-close-tabs-checkbox = Vždy se zeptat při zavírání více panelů
+tabbrowser-ask-close-tabs-checkbox = Zeptat se před zavřením vícera panelů
+tabbrowser-confirm-close-tabs-checkbox = Vždy se zeptat při zavírání vícera panelů
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 

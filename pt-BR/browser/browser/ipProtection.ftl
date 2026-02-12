@@ -75,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN pausada
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso será renovado no próximo mês.
 upgrade-vpn-title = Tenha proteção extra, além da do navegador
+upgrade-vpn-description = Escolha uma localização de VPN, proteja todos os seus aplicativos em até 5 dispositivos e fique seguro em qualquer rede, em casa ou em redes públicas de WiFi.
 upgrade-vpn-button = Experimente o { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -92,6 +93,12 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativa
 
 ipprotection-bandwidth-upgrade-title = Gosta de VPN integrada? Tenha ainda mais proteção fora do { -brand-product-name } com o { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Escolha uma localização de VPN e adicione proteção a todos os seus aplicativos em até 5 dispositivos, esteja você em casa ou em uma rede pública de WiFi.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Chegando perto do seu limite de VPN.</strong> Você tem { $usageLeft } GB restantes. Sua cota de dados será renovada no início do próximo mês.
 
 ## IP Protection Settings
 

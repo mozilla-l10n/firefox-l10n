@@ -264,7 +264,7 @@ open-new-link-as-tabs =
 open-external-link-next-to-active-tab =
     .label = Otevírat odkazy z aplikací vedle vašeho aktivního panelu
 ask-on-close-multiple-tabs =
-    .label = Zeptat se před zavřením více panelů
+    .label = Zeptat se před zavřením vícera panelů
     .accesskey = p
 # This string is used for the confirm before quitting preference.
 # Variables:
@@ -275,7 +275,7 @@ ask-on-quit-with-key =
     .label = Zeptat se před ukončením aplikace pomocí zkratky { $quitKey }
     .accesskey = k
 confirm-on-close-multiple-tabs =
-    .label = Vždy se zeptat při zavírání více panelů
+    .label = Vždy se zeptat při zavírání vícera panelů
     .accesskey = V
 # This string is used for the confirm before quitting preference.
 # Variables:
