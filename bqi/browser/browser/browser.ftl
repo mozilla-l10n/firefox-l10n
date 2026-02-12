@@ -1138,12 +1138,21 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = هی ز مو پۊرسیڌه بۊ
+    .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = لقو
     .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = داده یل نشست ن پاک کۊنین
+    .accesskey = D
+reset-pbm-panel-complete = داده یل نشست سیخومی پاک وابین
 
 ## Autorefresh blocker
 
+refresh-blocked-refresh-label = { -brand-short-name } ز گۊشیڌن دووارته ای بلگه و هالت خوتکار جلاوگری کرد.
+refresh-blocked-redirect-label = { -brand-short-name } ای بلگه ن ز آلشت تور خوتکار و بلگه ای دیر واڌاشت.
 refresh-blocked-allow =
     .label = هشتن
     .accesskey = A
@@ -1152,6 +1161,7 @@ refresh-blocked-allow =
 
 popup-notification-addon-install-unsigned =
     .value = (تائیڌ نوابیڌه)
+popup-notification-xpinstall-prompt-learn-more = زبار پۊرنیڌن ٱمن وردنی یل قلوه دووسته بۊین
 popup-notification-xpinstall-prompt-block-url = نیشتن جۊزعیات
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =
