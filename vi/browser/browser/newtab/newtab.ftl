@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Cá nhân hóa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Bỏ qua
+    .aria-label = Bỏ qua
 
 ## Search box component.
 

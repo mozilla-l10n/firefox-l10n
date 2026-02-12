@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
 appmenuitem-services-relay-description = Khởi chạy bảng điều khiển email ẩn danh
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Bảo vệ toàn diện cho thiết bị
 appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
 appmenu-services-header = Dịch vụ của tôi
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

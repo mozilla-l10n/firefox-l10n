@@ -345,6 +345,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Tus ajustes del control de contraste prevalecen por sobre la apariencia del sitio web.
 preferences-web-appearance-link =
     .label = Administra los temas de { -brand-short-name } en Extensiones y Temas
 preferences-contrast-control-radio-group =
@@ -441,6 +445,10 @@ translate-attribution = Traducciones por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+settings-translations-header =
+    .label = Traducciones
+    .aria-label = Traducciones
+    .description = Traduce páginas o texto seleccionado. Para proteger tu privacidad, las traducciones permanecen en tu dispositivo.
 settings-translations-subpage-automatic-translation-header =
     .label = Traducción automática
 settings-translations-subpage-language-select-option =
@@ -501,6 +509,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Siempre preguntarme dónde guardar archivos
     .accesskey = A
+download-private-browsing-delete =
+    .label = Eliminar archivos descargados en la navegación privada cuando todas las ventanas privadas están cerradas
+    .accesskey = D
 applications-header = Aplicaciones
 applications-description = Decide cómo { -brand-short-name } gestiona los archivos que descargas de la Web o las aplicaciones que utilizas mientras navegas.
 applications-filter =
