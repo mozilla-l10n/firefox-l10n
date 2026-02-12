@@ -104,7 +104,7 @@ delete-profile-windows = Otevřená okna
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = Otevřené panely
 delete-profile-bookmarks = Záložky
-delete-profile-history = Historie (navštívené stránky, cookies, údaje stránek)
+delete-profile-history = Historie (navštívené stránky, cookies, data stránek)
 delete-profile-autofill = Automaticky vyplněné údaje (adresy, platební metody)
 delete-profile-logins = Hesla
 
