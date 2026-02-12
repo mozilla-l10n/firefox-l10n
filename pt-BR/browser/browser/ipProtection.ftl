@@ -138,6 +138,9 @@ ip-protection-autostart-checkbox =
     .label = Ao abrir o { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Em janelas privativas
+ip-protection-vpn-upgrade-link =
+    .label = Tenha ainda mais proteção fora do { -brand-short-name } com o { -mozilla-vpn-brand-name }
+    .description = Escolha locais personalizados de VPN e adicione proteção a todos os seus aplicativos em até cinco dispositivos, esteja em casa ou em uma rede pública de WiFi.
 
 ## IP Protection dialogs
 
@@ -176,11 +179,15 @@ ip-protection-bandwidth-help-text = É renovado para { $maxUsage } GB no início
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, renovado e pronto para usar
+ipprotection-bandwidth-reset-text = Ative a VPN para reforçar sua privacidade, gratuitamente todo mês.
 ipprotection-bandwidth-reset-button = Entendi
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN pausada
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso à VPN será renovado no próximo mês.
 vpn-paused-alert-close-tabs-button = Fechar todas as abas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sem VPN
 vpn-error-alert-title = A VPN não está funcionando no momento.

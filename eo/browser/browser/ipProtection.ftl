@@ -72,3 +72,30 @@ ipprotection-connection-status-generic-error-title = Ne eblis konektiĝi al la V
 ipprotection-connection-status-generic-error-description = Provu denove post kelkaj minutoj.
 ipprotection-connection-status-network-error-title = Kontrolu vian retaliron
 ipprotection-connection-status-network-error-description = Konektiĝu al la reto kaj poste provu ŝalti la VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Vi alproksimiĝas al via limo en VPN
+    .message = Restas al vi { $usageLeft } GB el { $maxUsage } GB por la cetero de la monato.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por tiu ĉi retejo
+
+## IP Protection Settings
+
+ip-protection-learn-more = Pli da informo
+ip-protection-not-opted-in-button = Unuaj paŝoj
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Administri agordojn de retejoj
+    .description =
+        { $count ->
+            [one] { $count } retejo
+           *[other] { $count } retejoj
+        }
+ip-protection-autostart =
+    .label = Aŭtomate ŝalti VPN
+ip-protection-autostart-checkbox =
+    .label = Kiam mi malfermas { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = En privataj fenestroj
