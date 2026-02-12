@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Paŝo 2: Elektu “Difini kiel norman” por { -brand-short-name }
 default-browser-guidance-notification-info-page = Montri al mi
 default-browser-guidance-notification-dismiss = Farita
+default-browser-guidance-notification-v2-title = Fini la elekton de { -brand-short-name } kiel via ĉefa retumilo
+default-browser-guidance-notification-v2-body = En Agordoj, elektu "Difini kiel norma" por { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = En viaj agordoj elektu { -brand-short-name } kiel vian ĉefan retumilon

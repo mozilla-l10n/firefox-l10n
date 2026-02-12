@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Spegulado
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Regiloj de AI
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Eksperimentoj de { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimentoj de { -brand-short-name }
@@ -286,6 +289,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = a
 browser-layout-header2 =
     .label = Aranĝo de la retumilo
+browser-layout-horizontal-tabs2 =
+    .label = Horizontalaj langetoj
+    .title = Langetoj supre
+    .description = Langetoj supre
+browser-layout-vertical-tabs2 =
+    .label = Vertikalaj langetoj
+    .title = Langetoj flanke, en la flanka strio
+    .description = Langetoj flanke, en la flanka strio
 browser-layout-show-sidebar2 =
     .label = Montri flankan strion
     .description = Rapide aliru legosignojn aŭ langetojn el via telefono, dialogantojn A.I. kaj pli sen devi eliri el la ĉefa vido.
@@ -404,6 +415,28 @@ preferences-text-zoom-override-warning =
     .message = Averto: se vi elektas “Pligrandigi nur tekston” kaj via norma pligrandigo ne estas 100%, kelkaj retejoj aŭ enhavo povas misfunkcii.
 language-header = Lingvo
 choose-language-description = Elektu vian preferatan lingvon por retpaĝoj
+website-language-heading =
+    .label = Lingvoj de retejoj
+    .description = Kelkaj retejoj povas montri paĝojn en pluraj lingvoj. Elektu viajn lingvojn en ordo de prefero.
+website-preferred-language =
+    .label = Preferataj lingvoj
+website-add-language =
+    .label = Aldoni lingvon
+website-add-language-button =
+    .aria-label = Aldoni elektitan lingvon
+    .title = Aldoni elektitan lingvon
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Forigi { $locale }
+    .title = Forigi { $locale }
 choose-button =
     .label = Elekti…
     .accesskey = l
@@ -831,6 +864,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Ankoraŭ neniu retejo aldonita.
+home-custom-homepage-delete-address-button =
+    .aria-label = Forigi adreson
+    .title = Forigi adreson
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ankoraŭ neniu retejo aldonita.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
