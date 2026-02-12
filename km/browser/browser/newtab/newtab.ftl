@@ -193,6 +193,10 @@ newtab-report-cancel = បោះបង់
 
 ## Strings for task / to-do list productivity widget
 
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = បានបញ្ចប់ ({ $number })
 newtab-widget-lists-menu-delete = លុបបញ្ជីនេះ
 newtab-widget-lists-menu-hide = លាក់បញ្ជីទាំងអស់
 newtab-widget-lists-input-menu-delete = លុប

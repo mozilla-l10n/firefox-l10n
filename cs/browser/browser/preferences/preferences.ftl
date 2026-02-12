@@ -1992,11 +1992,11 @@ addressbar-dismissed-suggestions-label-2 =
     .label = Vyřazené návrhy
     .description =
         { -brand-short-name.case-status ->
-            [with-cases] Vrátit zpět vyřazené návrhy od sponzorů a { -brand-short-name(case: "gen") }.
-           *[no-cases] Vrátit zpět vyřazené návrhy od sponzorů a aplikace { -brand-short-name }.
+            [with-cases] Vraťte zpět vyřazené návrhy od sponzorů a { -brand-short-name(case: "gen") }.
+           *[no-cases] Vraťte zpět vyřazené návrhy od sponzorů a aplikace { -brand-short-name }.
         }
 addressbar-restore-dismissed-suggestions-button-2 =
-    .label = Obnovit našeptávání
+    .label = Vrátit návrhy zpět
 addressbar-quickactions-learn-more = Zjistit více
 addressbar-dismissed-suggestions-label = Vyřazené návrhy
 addressbar-restore-dismissed-suggestions-description =

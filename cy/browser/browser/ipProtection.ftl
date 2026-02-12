@@ -150,7 +150,7 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Rheoli gosodiadau gwefan
-ip-protection-exclusions-desc = Defnyddiwch VPN ar gyfer pob gwefan ac eithrio'r rhai ar y rhestr hon. Ychwanegwch wefan yma neu trwy agor VPN.
+ip-protection-exclusions-desc = Defnyddiwch y VPN ar gyfer pob gwefan ac eithrio'r rhai ar y rhestr hon. Ychwanegwch wefan yma neu trwy agor y VPN.
 
 ## IP Protection Bandwidth
 
@@ -176,7 +176,7 @@ ip-protection-bandwidth-left-mb = { $usageLeft } GB o { $maxUsage } GB ar ôl
 ip-protection-bandwidth-hit-for-the-month = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan o'ch data VPN. Bydd eich mynediad yn ailgychwyn mis nesaf.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-help-text = Yn ailgychwyn ar { $maxUsage } GB, ar y cyntaf o bob mis.
+ip-protection-bandwidth-help-text = Yn ailgychwyn i { $maxUsage } GB, ar y cyntaf o bob mis.
 
 ## IP Protection bandwidth reset callout
 
@@ -191,7 +191,7 @@ ipprotection-bandwidth-reset-button = Iawn
 vpn-paused-alert-title = Oedi'r VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-paused-alert-body = Rydych chi wedi defnyddio { $maxUsage } GB sef y cyfan o'ch data VPN. Bydd eich mynediad i'r VPN yn ailgychwyn mis nesaf.
+vpn-paused-alert-body = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan o'ch data VPN. Bydd eich mynediad i'r VPN yn ailgychwyn mis nesaf.
 vpn-paused-alert-close-tabs-button = Cau pob tab
 vpn-paused-alert-continue-wo-vpn-button = Parhau heb y VPN
 vpn-error-alert-title = Dyw'r VPN ddim yn gweithio ar hyn o bryd.
