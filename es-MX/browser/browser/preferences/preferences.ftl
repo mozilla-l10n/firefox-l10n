@@ -1084,6 +1084,9 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
+sync-signedin-login-failure2 =
+    .label = Has cerrado sesión en { $email }
+    .description = Vuelve a iniciar sesión para empezar a sincronizar tus datos.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1319,6 +1322,9 @@ forms-fill-usernames-and-passwords-2 =
     .accesskey = f
 forms-saved-passwords =
     .label = Contraseñas guardadas
+    .accesskey = d
+forms-saved-passwords-2 =
+    .label = Administrar contraseñas guardadas
     .accesskey = d
 forms-saved-passwords-searchkeywords = Los inicios de sesión para los siguientes sitios web están almacenados en tu computadora
 # Header for additional protections when managing password settings.

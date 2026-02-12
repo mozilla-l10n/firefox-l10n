@@ -570,3 +570,13 @@ onboarding-personalization-motivation-title = რომელი შესაძ
 onboarding-personalization-motivation-privacy-option = პირადულობა და უსაფრთხოება
 onboarding-personalization-motivation-productivity-option = შედეგიანობა
 onboarding-personalization-motivation-other-option = სხვა
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = ჩვენ ვიცავთ თქვენს მონაცემებს და ვუზღუდავთ კომპანიებს, თვალი ადევნონ თქვენს თითოეულ დაწკაპებას — თავისთავად.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = უსაფრთხო ხელში ხართ
+onboarding-refresh-import-subtitle = გადმოიტანეთ თქვენი პაროლები, სანიშნები, ისტორია და სხვ.
+onboarding-refresh-import-title = გახადეთ { -brand-short-name } მეტად თქვენებური.
+onboarding-refresh-onboarding-addons-subtitle = გაფართოებები პაწაწინა პროგრამებია, რომლებიც საშუალებას გაძლევთ უკეთ მოირგოთ { -brand-short-name }. მათი მეშვეობით შეგიძლიათ, გააძლიეროთ პირადულობის დაცვა, აიმაღლოთ შედეგიანობა, გააფორმოთ { -brand-short-name } და აკეთოთ კიდევ ბევრი სხვა რამ.
