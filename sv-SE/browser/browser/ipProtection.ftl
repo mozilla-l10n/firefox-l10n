@@ -32,7 +32,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nej tack
 
 ## Site settings callout
 
-ipprotection-site-settings-callout-title = Välj var du använder VPN
+ipprotection-site-settings-callout-title = Välj vart du använder VPN
 ipprotection-site-settings-callout-subtitle = Stäng av VPN för en specifik webbplats så kommer vi ihåg det nästa gång du besöker den.
 ipprotection-site-settings-callout-button = Jag förstår
 
