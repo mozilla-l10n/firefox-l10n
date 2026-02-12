@@ -160,6 +160,9 @@ startup-restore-warn-on-quit =
     .label = Advertir al salir del navegador
 disable-extension =
     .label = Deshabilitar extensión
+preferences-data-migration-group =
+    .label = Importar datos del navegador
+    .description = Trae tus marcadores, contraseñas, historial, extensiones y datos de autocompletar de otro navegador.
 preferences-data-migration-header = Importar datos del navegador
 preferences-data-migration-description = Importa marcadores, contraseñas, historial y datos de autocompletadomarcar en { -brand-short-name }.
 preferences-data-migration-button =
@@ -179,6 +182,10 @@ preferences-manage-profiles-button =
     .label = Administrar perfiles
 preferences-profiles-settings-button =
     .label = Ajustes
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copiar un perfil existente
+    .description = El nuevo perfil copiará tus ajustes, complementos, historial y datos guardados, como marcadores y contraseñas — pero no tu cuenta ni la información de sincronización.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -206,6 +213,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir enlaces en pestañas en lugar de nuevas ventanas
     .accesskey = w
+open-external-link-next-to-active-tab =
+    .label = Abrir enlaces de aplicaciones junto a tu pestaña activa
 ask-on-close-multiple-tabs =
     .label = Pregúntame antes de cerrar varias pestañas
     .accesskey = m
