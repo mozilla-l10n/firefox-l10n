@@ -1929,7 +1929,7 @@ addressbar-locbar-topsites-option =
     .label = Top stránky
     .accesskey = T
 addressbar-locbar-engines-option-1 =
-    .label = Návrhy vyhledávačů, které je možné použít
+    .label = Vyhledávače, které je možné použít
     .accesskey = N
 addressbar-locbar-engines-option =
     .label = Vyhledávače
@@ -1950,7 +1950,7 @@ addressbar-locbar-suggest-all-option-2 =
             [with-cases] Návrhy od { -brand-short-name(case: "gen") }
            *[no-cases] Návrhy od aplikace { -brand-short-name }
         }
-    .description = Získat návrhy z webu související s vaším vyhledáváním.
+    .description = Získat návrhy z webu souvisejícím s vaším vyhledáváním.
 addressbar-locbar-suggest-sponsored-option-2 =
     .label = Návrhy od sponzorů
     .description = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.
@@ -1968,7 +1968,7 @@ addressbar-locbar-suggest-all-option =
             [with-cases] Návrhy od { -brand-short-name(case: "gen") }
            *[no-cases] Návrhy od aplikace { -brand-short-name }
         }
-addressbar-locbar-suggest-all-option-desc = Získat návrhy z webu související s vaším vyhledáváním.
+addressbar-locbar-suggest-all-option-desc = Získat návrhy z webu souvisejícím s vaším vyhledáváním.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label =
@@ -1976,7 +1976,7 @@ addressbar-locbar-suggest-nonsponsored-option =
             [with-cases] Návrhy od { -brand-short-name(case: "gen") }
            *[no-cases] Návrhy od aplikace { -brand-short-name }
         }
-addressbar-locbar-suggest-nonsponsored-desc = Získat návrhy z webu související s vaším vyhledáváním.
+addressbar-locbar-suggest-nonsponsored-desc = Získat návrhy z webu souvisejícím s vaším vyhledáváním.
 addressbar-locbar-suggest-sponsored-option =
     .label = Návrhy od sponzorů
 addressbar-locbar-suggest-sponsored-desc = Podpořte { -brand-short-name } zobrazením občasných sponzorovaných návrhů.

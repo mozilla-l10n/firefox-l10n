@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Cuddiwch eich e-bost a'ch ffôn go iawn
 appmenuitem-services-relay-description = Agor dangosfwrdd e-bost enwarall
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Cael diogelwch dyfais gyfan
 appmenuitem-vpn-description = Diogelwch eich preifatrwydd ar-lein
 appmenu-services-header = Gwasanaethau
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
