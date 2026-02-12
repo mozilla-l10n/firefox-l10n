@@ -82,6 +82,13 @@ ipprotection-connection-status-network-error-title = Verifique sua conexão com 
 ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
 ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar sua localização e adicionar criptografia extra à sua navegação.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure a VPN para ativar</a> toda vez que você abrir o { -brand-short-name }, para ter uma camada extra de proteção.
+ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } memoriza quais sites você configura para usar VPN. Você pode modificar quando quiser nas <a data-l10n-name="setting-link">configurações</a>.
+confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativada neste site
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Gosta de VPN integrada? Tenha ainda mais proteção fora do { -brand-product-name } com o { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Escolha uma localização de VPN e adicione proteção a todos os seus aplicativos em até 5 dispositivos, esteja você em casa ou em uma rede pública de WiFi.
 
 ## IP Protection Settings
 
@@ -89,7 +96,22 @@ ip-protection-description =
     .label = VPN
     .description = VPN integrada para aumentar sua privacidade ao navegar no { -brand-short-name }.
 ip-protection-learn-more = Saiba mais
+ip-protection-site-exceptions =
+    .label = Configurações específicas por site
 ip-protection-not-opted-in-button = Introdução
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Gerenciar configurações de sites
+    .description =
+        { $count ->
+            [one] { $count } site
+           *[other] { $count } sites
+        }
+ip-protection-autostart =
+    .label = Ativar VPN automaticamente
+ip-protection-autostart-checkbox =
+    .label = Ao abrir o { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Em janelas privativas
 
@@ -97,6 +119,11 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = Gerenciar configurações de sites
+ip-protection-exclusions-desc = Use VPN em todos os sites, exceto os desta lista. Adicione um site aqui ou abrindo a VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Dados mensais de VPN
 
 ## IP Protection bandwidth reset callout
 
