@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+translation-close-key =
+    .key = w
 translation-languages-disabled-desc = Превод нема да биде понуден за следните јазици
 translation-languages-column =
     .label = Јазици

@@ -6,3 +6,13 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Дознајте повеќе
+accessibility-keyboard-header = Тастатура
+
+## Text entries that are used as text alternative for icons that depict accessibility issues.
+
+accessibility-warning =
+    .alt = Предупредување
+accessibility-fail =
+    .alt = Грешка
+accessibility-best-practices =
+    .alt = Најдобри практики

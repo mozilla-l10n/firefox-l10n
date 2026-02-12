@@ -15,7 +15,7 @@ about-logins-login-filter2 =
     .key = F
 create-login-button =
     .title = Додај лозинка
-fxaccounts-sign-in-text = Добијте ги Вашите лозинки на други уреди
+fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
     .title = Уреди ја сметката
@@ -107,9 +107,9 @@ about-logins-login-intro-heading-logged-out2 = Барате зачувани н�
 about-logins-login-intro-heading-logged-in = Не се пронајдени синхронизирани најавувања.
 login-intro-description = Ако ги зачувавте најавувањата на { -brand-product-name } на друг уред, еве како да ги добиете тука:
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
-about-logins-login-intro-heading-message = Зачувајте ги Вашите лозинки на безбедно место
+about-logins-login-intro-heading-message = Зачувајте ги вашите лозинки на безбедно место
 login-intro-description2 = Сите лозинки што ги зачувувате во { -brand-product-name } се шифрирани. Плус, внимаваме на прекршувања и ве предупредуваме доколку сте засегнати. <a data-l10n-name="breach-alert-link">Дознајте повеќе</a>
-login-intro-instructions-fxa2 = Креирајте или најавете се на Вашата сметка на уредот каде што се зачувани Вашите најавувања.
+login-intro-instructions-fxa2 = Креирајте или најавете се на вашата сметка на уредот каде што се зачувани вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-passwords-help = За повеќе помош, посетете ја <a data-l10n-name="passwords-help-link">страницата за поддршка за лозинки</a>.
 about-logins-intro-browser-only-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -brand-product-name }</a>
@@ -181,7 +181,7 @@ about-logins-os-auth-dialog-message =
        *[other] { -brand-short-name } се обидува да ги промени поставките за лозинките. Користете го вашиот уред за да го овозможите ова.
     }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = За да ја уредите лозинката, внесете ги Вашите акредитиви за најавување во Windows. Ова помага да се заштити безбедноста на Вашите сметки.
+about-logins-edit-login-os-auth-dialog-message2-win = За да ја уредите лозинката, внесете ги вашите акредитиви за најавување во Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = изменете ја зачуваната лозинка
@@ -488,6 +488,16 @@ about-logins-import-report-modified2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">постоечки запис е ажуриран</div>
        *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">постоечки записи се ажурирани</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">дупликат најавување</div> <div data-l10n-name="not-imported">(не е увезено)</div>
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">дупликати најавувања</div> <div data-l10n-name="not-imported">(не се увезени)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">грешка најавувања</div> <div data-l10n-name="not-imported">(не е увезено)</div>
+       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">грешки</div> <div data-l10n-name="not-imported">(не се увезени)</div>
     }
 
 ## Logins import report page

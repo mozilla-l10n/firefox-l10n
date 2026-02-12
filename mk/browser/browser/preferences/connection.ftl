@@ -11,6 +11,8 @@ connection-window2 =
         }
 connection-close-key =
     .key = w
+connection-disable-extension =
+    .label = Оневозможи го проширувањето
 connection-proxy-option-no =
     .label = Без посредник
     .accesskey = Б
