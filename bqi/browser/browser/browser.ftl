@@ -1070,6 +1070,11 @@ navbar-home =
     .tooltiptext = { -brand-short-name } بلگه هووه ای
 navbar-search =
     .title = پیتینیڌن
+# Name for the tabs toolbar as spoken by screen readers. The word
+# "toolbar" is appended automatically and should not be included in
+# in the string
+tabs-toolbar =
+    .aria-label = بلگه یل گشت گر
 tabs-toolbar-new-tab =
     .label = بلگه نۊ
 tabs-toolbar-list-all-tabs =
