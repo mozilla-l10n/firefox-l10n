@@ -23,6 +23,9 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
+ipprotection-feature-introduction-link-text = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn per aldona tavolo de ĉifrado.
+ipprotection-feature-introduction-link-text-private-browsing = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn per aldona tavolo de ĉifrado, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
@@ -95,6 +98,16 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN malŝaltita por 
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Ĉu vi ŝatas la integritan VPN? Ricevu eĉ pli da protekto krom tiu de { -brand-product-name } per { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Elektu lokon por VPN kaj aldonu protekton al ĉiuj viaj apoj en maksimume 5 aparatoj, ĉu vi estas hejme ĉu en publika Wi-Fi.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Vi alproksimiĝas al via datuma limo de VPN.</strong> Restas al vi { $usageLeft } GB. Viaj datumoj estos replenigitaj je la komenco de la venonta monato.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Vi preskaŭ elĉerpas viajn datumojn en VPN.</strong> Restas al vi { $usageLeft } GB. Elĉerpinte ilin via VPN paŭzos ĝis la unuan tagon de la venonta monato, kiam la datumoj estos replenigitaj.
 
 ## IP Protection Settings
 
@@ -170,6 +183,7 @@ ipprotection-bandwidth-reset-title =
         [one] $maxUsage GB de VPN, replenigita kaj preta por uzo
        *[other] $maxUsage GB de VPN, replenigitaj kaj pretaj por uzo
     }
+ipprotection-bandwidth-reset-text = Ŝaltu vian VPN por aldona privateca plibonigo, senpage ĉiumonate.
 ipprotection-bandwidth-reset-button = Mi komprenis
 
 ## IP Protection alerts
