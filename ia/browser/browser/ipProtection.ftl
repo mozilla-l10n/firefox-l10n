@@ -32,7 +32,6 @@ ipprotection-feature-introduction-button-secondary-no-thanks = No, gratias
 
 ## Site settings callout
 
-ipprotection-site-settings-callout-title = Elige ubi tu usa VPN
 ipprotection-site-settings-callout-subtitle = Disactiva le VPN pro un sito specific e nos lo memorara le proxime vice que tu lo visitara.
 ipprotection-site-settings-callout-button = OK
 
