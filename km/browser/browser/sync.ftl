@@ -10,3 +10,8 @@ fxa-menu-send-tab-to-device-syncnotready =
     .label = កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…
 fxa-avatar-tooltip =
     .tooltiptext = ចូលទៅក្នុងគណនីរបស់អ្នក
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = ប្រវត្តិរូបត្រូវបានធ្វើសមកាលកម្មទៅគណនីផ្សេង

@@ -76,6 +76,16 @@ set-as-my-default-browser =
     .accesskey = D
 disable-extension =
     .label = បិទ​ផ្នែក​បន្ថែម
+preferences-profiles-group-header =
+    .heading = ប្រវត្តិរូប
+preferences-profiles-header = ប្រវត្តិរូប
+preferences-manage-profiles-button =
+    .label = គ្រប់គ្រងប្រវត្តិរូប
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = ប្រវត្តិរូបដែលត្រូវចម្លង
 tabs-group-header2 =
     .label = ផ្ទាំង
 tabs-group-header = ផ្ទាំង

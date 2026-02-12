@@ -5,6 +5,10 @@
 profile-card-delete-button =
     .title = លុបប្រវត្តិរូប
     .aria-label = លុបប្រវត្តិរូប
+# Variables
+#   $number (number) - The number of the profile
+default-profile-name = ប្រវត្តិរូប { $number }
+edit-profile-page-profile-name-label = ឈ្មោះ​ប្រវត្តិរូប
 edit-profile-page-delete-button =
     .label = លុប
 edit-profile-page-avatar-selector-opener-link = កែសម្រួល
@@ -13,6 +17,7 @@ avatar-selector-cancel-button =
     .label = បោះបង់
 avatar-selector-upload-file = ផ្ទុកឡើងឯកសារ
 avatar-selector-crop = ច្រឹប
+edit-profile-page-duplicate-name = ឈ្មោះ​ប្រវត្តិរូប​ត្រូវ​បាន​ប្រើ​រួច​ហើយ។ សាកល្បង​ឈ្មោះ​ថ្មី។
 edit-profile-page-profile-saved = បានរក្សាទុក
 new-profile-page-title = ប្រវត្តិរូបថ្មី
 new-profile-page-done-button =

@@ -206,8 +206,13 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
+menu-profiles-manage-profiles =
+    .label = គ្រប់គ្រងប្រវត្តិរូប
 menu-profiles-new-profile =
     .label = ប្រវត្តិរូបថ្មី
+menu-profiles-menu =
+    .label = ប្រវត្តិរូប
+    .accesskey = P
 
 ## Tools Menu
 

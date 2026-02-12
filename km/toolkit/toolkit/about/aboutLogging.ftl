@@ -4,3 +4,8 @@
 
 about-logging-new-log-file = ឯកសារកំណត់ហេតុថ្មី៖
 about-logging-new-log-modules = ម៉ូឌុលកំណត់ហេតុថ្មី៖
+
+## Uploaded Profiles section
+
+about-logging-view-uploaded-profile = មើលប្រវត្តិរូប
+about-logging-delete-profile-confirm-title = លុបប្រវត្តិរូប

@@ -18,8 +18,8 @@ more-from-moz-category =
         }
 more-from-moz-subtitle =
     { -vendor-short-name.case-status ->
-        [with-cases] Podívejte se na další produkty od { -vendor-short-name(case: "gen") }, které podporují zdravý internet.
-       *[no-cases] Podívejte se na další produkty od společnosti { -vendor-short-name }, které podporují zdravý internet.
+        [with-cases] Podívejte se na další produkty { -vendor-short-name(case: "gen") }, které podporují zdravý internet.
+       *[no-cases] Podívejte se na další produkty společnosti { -vendor-short-name }, které podporují zdravý internet.
     }
 more-from-moz-firefox-mobile-title = { -brand-product-name } pro mobily
 more-from-moz-firefox-mobile-description = Mobilní prohlížeč, který klade důraz na vaše soukromí.
@@ -27,7 +27,7 @@ more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pro mobily
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Objevte přidanou vrstvu anonymního prohlížení a ochrany.
 more-from-moz-qr-code-box-firefox-mobile-title = Pro stažení do svého mobilního zařízení namiřte fotoaparát na QR kód. Poté klepněte na adresu odkazu, která se objeví.
-more-from-moz-qr-code-box-firefox-mobile-button = Nebo si nechte odkaz do mobilu poslat e-mailem
+more-from-moz-qr-code-box-firefox-mobile-button = Nebo si odkaz nechte do mobilu poslat e-mailem
 more-from-moz-qr-code-firefox-mobile-img =
     .alt =
         { -brand-product-name.case-status ->
