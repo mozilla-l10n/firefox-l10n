@@ -577,3 +577,12 @@ onboarding-refresh-pin-set-default-subtitle = Ni protektas viajn datumojn kaj ev
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Vi troviĝas en bonaj manoj
 onboarding-refresh-import-subtitle = Importu viajn pasvortojn, legosignojn, historion, kaj pli.
+onboarding-refresh-import-title = Estu tute komforta ene de { -brand-short-name }
+onboarding-refresh-onboarding-addons-subtitle = Etendaĵoj estas etaj apoj kiuj permesas al vi personecigi { -brand-short-name }. Ili povas fortigi vian privatecon, plibonigi efikecon, ŝanĝi la aspekton de { -brand-short-name } kaj fari amason da aliaj aferoj.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Plibonigu vian retumon
+onboarding-refresh-sync-subtitle = Komencu seancon en { -brand-short-name } por aliri viajn legosignojn, pasvortojn kaj pli. Pro tio ke viaj datumoj estas ĉifritaj, nur vi povas ilin vidi.
+onboarding-refresh-sync-title = Iru kien ajn vi volas, spegulu ĉiujn viajn datumojn.
+onboarding-refresh-gratitude-subtitle = Dankon pro via uzo de { -brand-short-name }, la ununura granda retumilo subtenita de neprofitcela organizo. Kun via helpo ni laboras por igi la reton pli sekura kaj alirebla por ĉiuj.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } protektas vin

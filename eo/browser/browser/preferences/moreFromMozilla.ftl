@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } Kreanto de retejoj per AI
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Lernu teksaĵan programadon per liberaj, kompletaj gvidiloj kaj referencoj.
 more-from-moz-mdn-button = Lerni teksaĵan programadon
+more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -227,6 +227,11 @@ sidebar-genai-survey-satisfaction-question = Πόσο ικανοποιημένο
 sidebar-genai-survey-productive-question =
     Σε ποιο βαθμό συμφωνείτε ή διαφωνείτε με αυτήν τη δήλωση:<br/>
     «Με βοηθά το chatbot ΤΝ στην πλαϊνή γραμμή να είμαι πιο παραγωγικός/-ή»;
+splitview-onboarding-callout-subtitle-1 = Κάντε δεξί κλικ σε αυτήν την καρτέλα και επιλέξτε «Έναρξη διαχωρισμού προβολής» για να δείτε δύο καρτέλες ταυτόχρονα.
+splitview-onboarding-callout-cta-1 = Δοκιμάστε το τώρα
+splitview-onboarding-callout-title-2 = Προβολή δύο καρτελών ταυτόχρονα με διαχωρισμό προβολής
+splitview-onboarding-callout-subtitle-2 = Χωρίς επιπλέον παράθυρα. Χωρίς αναστροφή καρτελών. Κάντε δεξί κλικ σε αυτήν την καρτέλα και επιλέξτε «Έναρξη διαχωρισμού προβολής».
+splitview-onboarding-callout-cta-2 = Δοκιμή διαχωρισμού προβολής
 unified-search-callout-title = Εναλλαγή μεταξύ μηχανών αναζήτησης
 unified-search-callout-subtitle = Επιλέξτε αυτή που λειτουργεί καλύτερα για τη συγκεκριμένη αναζήτηση.
 unified-search-callout-primary-label = Επόμενο

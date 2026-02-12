@@ -35,6 +35,16 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = Το VPN είναι ενεργό
 ipprotection-connection-status-disconnected = Το VPN είναι ανενεργό
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Απενεργοποίηση VPN
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Ενεργοποίηση VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Ενεργοποίηση…
+
+## VPN paused state
+
+upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 
 ## IP Protection Settings
 
