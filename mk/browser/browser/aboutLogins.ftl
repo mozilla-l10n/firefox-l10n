@@ -108,18 +108,28 @@ about-logins-login-intro-heading-logged-in = Не се пронајдени си
 login-intro-description = Ако ги зачувавте најавувањата на { -brand-product-name } на друг уред, еве како да ги добиете тука:
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
 about-logins-login-intro-heading-message = Зачувајте ги Вашите лозинки на безбедно место
+login-intro-description2 = Сите лозинки што ги зачувувате во { -brand-product-name } се шифрирани. Плус, внимаваме на прекршувања и ве предупредуваме доколку сте засегнати. <a data-l10n-name="breach-alert-link">Дознајте повеќе</a>
+login-intro-instructions-fxa2 = Креирајте или најавете се на Вашата сметка на уредот каде што се зачувани Вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-passwords-help = За повеќе помош, посетете ја <a data-l10n-name="passwords-help-link">страницата за поддршка за лозинки</a>.
 about-logins-intro-browser-only-import = Ако вашите најавувања се зачувани во друг прелистувач, <a data-l10n-name="import-link">можете да ги увезете во { -brand-product-name }</a>
 about-logins-intro-import2 = Ако вашите најавувања се зачувани надвор од { -brand-product-name }, можете да <a data-l10n-name="import-browser-link">ги увезете од друг прелистувач</a> или <a data-l10n-name="import-file-link">од датотека</a>
+about-logins-intro-import3 = Изберете го копчето со знакот плус погоре за да додадете лозинка сега. Можете исто така да <a data-l10n-name="import-browser-link">увезете лозинки од друг прелистувач</a> или <a data-l10n-name="import-file-link">од датотека</a>.
 
 ## Login
 
 login-item-new-login-title = Создадете ново најавување
+# Header for adding a password
+about-logins-login-item-new-login-title = Додај лозинка
 login-item-edit-button = Уредување
 about-logins-login-item-remove-button = Отстрани
 login-item-origin-label = Веб-сајт адреса
 login-item-tooltip-message = Осигурете се дека ова одговара на точната адреса на веб-страницата каде што се најавувате.
+about-logins-origin-tooltip2 = Внесете ја целосната адреса и проверете дали точно се совпаѓа со местото каде што се најавувате.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Проверете дали ја зачувувате вашата тековна лозинка за оваа страница. Промената на лозинката тука, не ја менува со { $webTitle }.
+about-logins-add-password-tooltip = Проверете дали ја зачувувате Вашата тековна лозинка за оваа страница.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Корисничко име
@@ -130,11 +140,25 @@ login-item-copied-username-button-text = Ископирана!
 login-item-password-label = Лозинка
 login-item-password-reveal-checkbox =
     .aria-label = Прикажи лозинка
+login-item-password-conceal-checkbox =
+    .aria-label = Сокриј ја лозинката
 login-item-copy-password-button-text = Копирај
 login-item-copied-password-button-text = Ископирана!
 login-item-save-changes-button = Зачувај промени
+about-logins-login-item-save-changes-button = Зачувај
 login-item-save-new-button = Сними
 login-item-cancel-button = Откажи
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Создадено
+login-item-timeline-action-updated = Ажурирано
+login-item-timeline-action-used = Користено
 
 ## OS Authentication dialog
 

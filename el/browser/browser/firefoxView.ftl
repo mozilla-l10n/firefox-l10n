@@ -132,6 +132,12 @@ firefoxview-synced-tabs-nav = Καρτέλες από άλλες συσκευέ�
     .title = Καρτέλες από άλλες συσκευές
 firefoxview-synced-tabs-header = Καρτέλες από άλλες συσκευές
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Συνομιλίες
+    .title = Συνομιλίες
+firefoxview-chats-header = Συνομιλίες
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -164,6 +170,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Αναζήτηση ανοικτών καρτελών
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Αναζήτηση συνομιλιών
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
