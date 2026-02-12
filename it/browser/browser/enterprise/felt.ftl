@@ -17,7 +17,7 @@ felt-sso-continue-btn =
 ## Error details when launching the browser crashes
 
 felt-browser-error-multiple-crashes = { -brand-short-name } si è bloccato più volte.
-felt-browser-error-connection = Impossibile connettersi alla console. Contattare l'amministratore.
+felt-browser-error-connection = Impossibile connettersi alla console. Contattare l’amministratore.
 
 ## Network error details.
 
