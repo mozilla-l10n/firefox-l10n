@@ -117,6 +117,11 @@ ip-protection-description =
 ip-protection-learn-more = Saiba mais
 ip-protection-site-exceptions =
     .label = Configurações específicas por site
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Experimente a VPN integrada no { -brand-short-name }
+    .message = Oculte sua localização e adicione criptografia extra à sua navegação no { -brand-short-name }. Tenha { $maxUsage } GB de dados gratuitos de VPN todo mês.
 ip-protection-not-opted-in-button = Introdução
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

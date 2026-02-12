@@ -61,3 +61,14 @@ ipprotection-button-connecting = Ŝalto…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN paŭzigita
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
+upgrade-vpn-button = Provu { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Ne eblis konektiĝi al la VPN
+ipprotection-connection-status-generic-error-description = Provu denove post kelkaj minutoj.
+ipprotection-connection-status-network-error-title = Kontrolu vian retaliron
+ipprotection-connection-status-network-error-description = Konektiĝu al la reto kaj poste provu ŝalti la VPN.
