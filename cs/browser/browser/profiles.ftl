@@ -12,8 +12,8 @@ profile-window-body = Pracovní a osobní prohlížení, včetně takových věc
 profile-window-checkbox-label-2 =
     .label =
         { -brand-short-name.case-status ->
-            [with-cases] Zvolit profil při spuštění { -brand-short-name(case: "gen") }
-           *[no-cases] Zvolit profil při spuštění aplikace { -brand-short-name }
+            [with-cases] Zvolit profil pokaždé při spuštění { -brand-short-name(case: "gen") }
+           *[no-cases] Zvolit profil pokaždé při spuštění aplikace { -brand-short-name }
         }
 # This subcopy appears below the checkbox when it is unchecked
 profile-window-checkbox-subcopy =
@@ -60,7 +60,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = Uložit
 avatar-selector-upload-file = Nahrát soubor
-avatar-selector-drag-file = Nebo přetáhněte soubor sem
+avatar-selector-drag-file = Nebo sem soubor přetáhněte
 avatar-selector-add-image = Přidat obrázek
 avatar-selector-crop = Oříznout
 edit-profile-page-no-name = Pojmenujte tento profil, abyste ho později mohli snadno najít. Kdykoli ho můžete přejmenovat.
@@ -70,8 +70,8 @@ new-profile-page-title = Nový profil
 new-profile-page-header = Přizpůsobte si svůj nový profil
 new-profile-page-header-description =
     { -brand-short-name.case-status ->
-        [with-cases] Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnutá silná opatření { -brand-short-name(case: "gen") } na ochranu soukromí.
-       *[no-cases] Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnutá silná opatření aplikace { -brand-short-name } na ochranu soukromí.
+        [with-cases] Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnuta silná opatření { -brand-short-name(case: "gen") } na ochranu soukromí.
+       *[no-cases] Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnuta silná opatření aplikace { -brand-short-name } na ochranu soukromí.
     }
 new-profile-page-learn-more = Zjistit více
 new-profile-page-input-placeholder =

@@ -60,6 +60,9 @@ ipprotection-connection-status-excluded = A VPN está desativada neste site
 ipprotection-connection-status-connecting = A VPN está conectando…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Desativar VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Desativar VPN em todo lugar
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Ativar VPN
 # Button while VPN is connecting
