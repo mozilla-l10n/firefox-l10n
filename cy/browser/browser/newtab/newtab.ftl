@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personoli
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Cau
+    .aria-label = Cau
 
 ## Search box component.
 

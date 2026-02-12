@@ -166,6 +166,7 @@ enable-addon-button = បើក​ដំណើរការ
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = បើក​ដំណើរការ
+install-postponed-button = ធ្វើបច្ចុប្បន្នភាពឥឡូវនេះ
 
 ## Pending uninstall message bar
 

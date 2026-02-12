@@ -19,6 +19,9 @@ autofill-manage-edit-button = កែសម្រួល…
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
+address-capture-not-now-button =
+    .label = មិន​មែន​ឥឡូវ
+    .accessKey = N
 address-capture-cancel-button =
     .label = បោះបង់
     .accessKey = C

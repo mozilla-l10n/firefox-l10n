@@ -570,3 +570,17 @@ onboarding-personalization-motivation-title = Pa nodweddion o { -brand-short-nam
 onboarding-personalization-motivation-privacy-option = Preifatrwydd a Diogelwch
 onboarding-personalization-motivation-productivity-option = Cynhyrchedd
 onboarding-personalization-motivation-other-option = Arall
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Rydym yn diogelu eich data ac yn rhwystro cwmnïau rhag ysbïo ar eich cliciau, yn awtomatig .
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Rydych chi mewn pawennau diogel
+onboarding-refresh-import-subtitle = Dewch â'ch cyfrineiriau, nodau tudalen, hanes a mwy drosodd.
+onboarding-refresh-import-title = Gwnewch i { -brand-short-name } deimlo'n debycach i gartref
+onboarding-refresh-onboarding-addons-subtitle = Mae estyniadau yn apiau bach sy'n gadael i chi gyfaddasu { -brand-short-name }. Maen nhw'n gallu grymuso eich preifatrwydd, gwella'ch gwaith, newid golwg { -brand-short-name }, a llawer mwy.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Rhowch hwb i'ch pori
+onboarding-refresh-sync-subtitle = Defnyddiwch eich nodau tudalen, cyfrineiriau a mwy ym mhob man rydych wedi mewngofnodi i { -brand-short-name }. Hefyd, mae eich data wedi'i amgryptio felly dim ond chi all ei weld.
+onboarding-refresh-sync-title = Mynd i unrhyw le. Cydweddu popeth.

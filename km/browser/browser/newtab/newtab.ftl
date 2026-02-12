@@ -75,6 +75,10 @@ newtab-menu-save-to-pocket = រក្សាទុកទៅ { -pocket-brand-name
 newtab-menu-delete-pocket = លុបចេញពី { -pocket-brand-name }
 newtab-menu-archive-pocket = ទុកក្នុងប័ណ្ណសារក្នុង { -pocket-brand-name }
 
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = ធ្វើ​រួច
+
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".

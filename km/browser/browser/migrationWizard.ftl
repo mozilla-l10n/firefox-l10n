@@ -43,6 +43,7 @@ migration-passwords-from-file-tsv-filter-title =
        *[other] ឯកសារ TSV
     }
 migration-cancel-button-label = បោះបង់
+migration-done-button-label = ធ្វើ​រួច
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

@@ -14,6 +14,8 @@ avatar-selector-cancel-button =
 avatar-selector-upload-file = ផ្ទុកឡើងឯកសារ
 avatar-selector-crop = ច្រឹប
 edit-profile-page-profile-saved = បានរក្សាទុក
+new-profile-page-done-button =
+    .label = កែសម្រួលរួចរាល់
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 

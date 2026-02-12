@@ -535,6 +535,13 @@ sync-sign-in =
     .label = ចូល
     .accesskey = g
 
+## Sync section - enabling or disabling sync.
+
+prefs-sync-now =
+    .labelnotsyncing = ធ្វើ​សមកាលកម្ម​ឥឡូវ
+    .accesskeynotsyncing = N
+    .labelsyncing = កំពុងធ្វើ​សមកាលកម្ម​…
+
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = ចំណាំ

@@ -142,3 +142,57 @@ ip-protection-autostart-checkbox =
     .label = Pan fyddai'n agor { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Mewn ffenestri preifat
+ip-protection-vpn-upgrade-link =
+    .label = Cael hyd yn oed mwy o ddiogelwch tu allan i { -brand-short-name } gyda { -mozilla-vpn-brand-name }
+    .description = Dewiswch leoliadau VPN cyfaddas ac ychwanegu diogelwch i'ch holl apiau ar hyd at bum dyfais, p'un ai rydych adref neu ar Wi-Fi cyhoeddus
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Rheoli gosodiadau gwefan
+ip-protection-exclusions-desc = Defnyddiwch VPN ar gyfer pob gwefan ac eithrio'r rhai ar y rhestr hon. Ychwanegwch wefan yma neu trwy agor VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Data VPN misol
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB o { $maxUsage } GB ar ôl y mis hwn
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB o { $maxUsage } GB ar ôl
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } GB o { $maxUsage } GB ar ôl y mis hwn
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } GB o { $maxUsage } GB ar ôl
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan o'ch data VPN. Bydd eich mynediad yn ailgychwyn mis nesaf.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Yn ailgychwyn ar { $maxUsage } GB, ar y cyntaf o bob mis.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB o VPN, wedi'i ailgychwyn ac yn barod i fynd
+ipprotection-bandwidth-reset-text = Troi'r VPN ymlaen i gael hwb preifatrwydd ychwanegol, am ddim bob mis.
+ipprotection-bandwidth-reset-button = Iawn
+
+## IP Protection alerts
+
+vpn-paused-alert-title = Oedi'r VPN
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Rydych chi wedi defnyddio { $maxUsage } GB sef y cyfan o'ch data VPN. Bydd eich mynediad i'r VPN yn ailgychwyn mis nesaf.
+vpn-paused-alert-close-tabs-button = Cau pob tab
+vpn-paused-alert-continue-wo-vpn-button = Parhau heb y VPN
+vpn-error-alert-title = Dyw'r VPN ddim yn gweithio ar hyn o bryd.
+vpn-error-alert-body = Ceisiwch eto yn nes ymlaen

@@ -49,6 +49,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ផ្ទុក​ទិន្នន័យ​នៅ​ក្នុង​កន្លែង​ផ្ទុក​អចិន្ត្រៃយ៍
 urlbar-addons-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម
+urlbar-search-tips-confirm = យល់​ហើយ ទទួលបាន
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

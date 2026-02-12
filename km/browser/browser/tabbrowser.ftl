@@ -53,6 +53,9 @@ tab-group-editor-cancel =
 
 tab-group-editor-action-delete =
     .label = លុបក្រុម
+tab-group-editor-done =
+    .label = ធ្វើ​រួច
+    .accessKey = D
 
 ## Open/saved tab group context menu
 

@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The credit card capture doorhanger
+
+credit-card-capture-cancel-button =
+    .label = មិន​មែន​ឥឡូវ
+    .accessKey = W
+
+# Used on the doorhanger when an credit card change is detected.
+
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.

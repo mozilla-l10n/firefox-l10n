@@ -15,3 +15,5 @@ translations-manage-all-language = ភាសាទាំងអស់
 translations-manage-delete-button = លុប
 select-translations-panel-cancel-button =
     .label = បោះបង់
+select-translations-panel-done-button =
+    .label = ធ្វើ​រួច

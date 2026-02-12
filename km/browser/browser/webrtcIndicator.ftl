@@ -97,6 +97,9 @@ webrtc-share-application = { $appName } (បង្អួច { $windowCount })
 webrtc-action-allow =
     .label = អនុញ្ញាត
     .accesskey = A
+webrtc-action-not-now =
+    .label = មិន​មែន​ឥឡូវ
+    .accesskey = N
 
 ##
 

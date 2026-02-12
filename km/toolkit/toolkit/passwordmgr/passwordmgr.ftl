@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-deny =
+    .label = មិន​មែន​ឥឡូវ
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = រក្សា​ទុក
     .accesskey = S

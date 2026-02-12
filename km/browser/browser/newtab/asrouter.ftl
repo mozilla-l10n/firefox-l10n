@@ -84,9 +84,33 @@ cfr-protections-panel-link-text = ស្វែងយល់បន្ថែម
 # the notification icon
 cfr-badge-reader-label-newfeature = មុខងារថ្មី៖
 
+## DOH Message
+
+cfr-doorhanger-doh-primary-button-2 = យល់ព្រម
+    .accesskey = O
+
+## Full Video Support CFR message
+
+cfr-doorhanger-video-support-primary-button = ធ្វើបច្ចុប្បន្នភាពឥឡូវនេះ
+    .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-link = មិន​មែន​ឥឡូវ
+    .accesskey = N
+
 ## Emotive Continuous Onboarding
 
 spotlight-pin-secondary-button = កុំទាន់
+
+## Firefox View CFR
+
+firefoxview-cfr-secondarybutton = មិន​មែន​ឥឡូវ
+    .accesskey = N
 
 ## Firefox View Spotlight
 
@@ -94,11 +118,14 @@ firefoxview-spotlight-promo-secondarybutton = រំលង
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-dismiss-button = មិន​មែន​ឥឡូវ
+    .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = ស្វែងយល់​បន្ថែម
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 fox-doodle-pin-headline = ស្វាគមន៍​ការ​ត្រឡប់​មកវិញ
+fox-doodle-pin-secondary = មិន​មែន​ឥឡូវ
 
 ## PDF Annotations strings
 
@@ -109,11 +136,34 @@ annotations-make-default-pdf-next =
 
 device-migration-fxa-spotlight-older-device-primary-button = បង្កើត​គណនី
 
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-decline-button =
+    .label = មិន​មែន​ឥឡូវ
+
 ## Launch on login infobar notification
 
 launch-on-login-infobar-confirm-button = បាទ/ចាស៎ បើក { -brand-short-name }
     .accesskey = Y
+launch-on-login-infobar-reject-button = មិន​មែន​ឥឡូវ
+    .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = កុំទាន់
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = ធ្វើបច្ចុប្បន្នភាពឥឡូវនេះ
+    .accesskey = U
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-not-now = មិន​មែន​ឥឡូវ
+    .accesskey = N
