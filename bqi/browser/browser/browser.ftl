@@ -173,7 +173,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
-    .tooltiptext = دؽوۉداری یک رسۊوی بلندگۊ یل دیری وا وبگه
+    .tooltiptext = دؽوۉداری یک رسۊوی بولندگۊ یل دیری وا وبگه
 urlbar-autoplay-notification-anchor =
     .tooltiptext = گۊشیڌن تابلو پشک خوتکار
 urlbar-persistent-storage-notification-anchor =
