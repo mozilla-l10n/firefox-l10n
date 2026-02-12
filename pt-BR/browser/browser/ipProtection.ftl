@@ -71,6 +71,17 @@ ipprotection-connection-status-paused-title = VPN pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso será renovado no próximo mês.
+upgrade-vpn-title = Tenha proteção extra, além da do navegador
+upgrade-vpn-button = Experimente o { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Não foi possível conectar com a VPN
+ipprotection-connection-status-generic-error-description = Tente novamente em alguns minutos.
+ipprotection-connection-status-network-error-title = Verifique sua conexão com a internet
+ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
+ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar sua localização e adicionar criptografia extra à sua navegação.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure a VPN para ativar</a> toda vez que você abrir o { -brand-short-name }, para ter uma camada extra de proteção.
 
 ## IP Protection Settings
 
