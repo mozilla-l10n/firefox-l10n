@@ -131,6 +131,7 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = დამხმარე Windows-პროგრამები
 about-processes-utility-actor-windows-file-dialog = Windows-ის ფაილთა სარკმელი
+about-processes-utility-actor-pkcs11-module = უსაფრთხოების მოდულის დამხმარე
 
 ## Displaying CPU (percentage and total)
 ## Variables:
