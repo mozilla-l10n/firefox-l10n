@@ -39,7 +39,38 @@ ipprotection-site-settings-callout-button = Entendi
 ## Panel
 
 unauthenticated-vpn-title = Experimente a VPN integrada no { -brand-product-name }
+unauthenticated-hide-location-message = Oculte sua localização e adicione criptografia extra à sua navegação no { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Tenha { $maxUsage } GB de dados gratuitos na VPN todo mês.
 unauthenticated-get-started = Introdução
+site-exclusion-toggle-label = Usar VPN neste site
+site-exclusion-toggle-enabled =
+    .aria-label = A VPN está ativada neste site
+site-exclusion-toggle-disabled =
+    .aria-label = A VPN está desativada neste site
+ipprotection-settings-link =
+    .label = Configurações
+
+## Status card
+
+ipprotection-connection-status-connected = VPN está ativada
+ipprotection-connection-status-disconnected = VPN está desativada
+ipprotection-connection-status-excluded = A VPN está desativada neste site
+ipprotection-connection-status-connecting = A VPN está conectando…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Desativar VPN
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Ativar VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Ativando…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN pausada
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso será renovado no próximo mês.
 
 ## IP Protection Settings
 
