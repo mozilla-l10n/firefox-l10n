@@ -37,3 +37,27 @@ unauthenticated-get-started = Unuaj paŝoj
 site-exclusion-toggle-label = Ŝalti VPN por tiu ĉi retejo
 site-exclusion-toggle-enabled =
     .aria-label = VPN ŝaltita por tiu ĉi retejo
+site-exclusion-toggle-disabled =
+    .aria-label = VPN malŝaltita por tiu ĉi retejo
+ipprotection-settings-link =
+    .label = Agordoj
+
+## Status card
+
+ipprotection-connection-status-connected = VPN ŝaltita
+ipprotection-connection-status-disconnected = VPN malŝaltita
+ipprotection-connection-status-excluded = VPN malŝaltita por tiu ĉi retejo
+ipprotection-connection-status-connecting = Konektiĝo al VPN…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Malŝalti VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Malŝalti VPN ĉie
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Ŝalti VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Ŝalto…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN paŭzigita

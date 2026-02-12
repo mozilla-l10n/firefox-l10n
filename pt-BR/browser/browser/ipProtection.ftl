@@ -84,6 +84,12 @@ ipprotection-connection-status-generic-error-title = Não foi possível conectar
 ipprotection-connection-status-generic-error-description = Tente novamente em alguns minutos.
 ipprotection-connection-status-network-error-title = Verifique sua conexão com a internet
 ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Chegando perto do seu limite de VPN
+    .message = Você tem { $usageLeft } GB de { $maxUsage } GB restante este mês.
 ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar sua localização e adicionar criptografia extra à sua navegação.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure a VPN para ativar</a> toda vez que você abrir o { -brand-short-name }, para ter uma camada extra de proteção.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } memoriza quais sites você configura para usar VPN. Você pode modificar quando quiser nas <a data-l10n-name="setting-link">configurações</a>.

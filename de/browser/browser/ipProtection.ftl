@@ -91,6 +91,7 @@ ipprotection-message-bandwidth-warning =
     .heading = Sie nähern sich Ihrem VPN-Limit
     .message = Sie haben diesen Monat noch { $usageLeft } GB von { $maxUsage } GB übrig.
 ipprotection-message-continuous-onboarding-intro = Aktivieren Sie VPN, um Ihren Standort zu verbergen und Ihr Surfen zusätzlich zu verschlüsseln.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stellen Sie VPN so ein</a>, dass es jedes Mal aktiviert wird, wenn Sie { -brand-short-name } öffnen, um eine zusätzliche Schutzebene zu erhalten.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } wird sich merken, für welche Websites Sie die Verwendung von VPN eingestellt haben. Aktualisieren Sie diese Informationen jederzeit in den <a data-l10n-name="setting-link">Einstellungen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ist für diese Website deaktiviert
 
@@ -120,7 +121,7 @@ ip-protection-site-exceptions =
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
-    .message = Verbergen Sie Ihren Standort und sichern Sie Ihr Surfen in { -brand-short-name } mit zusätzlicher Verschlüsselung. Erhalten Sie jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
+    .message = Verbergen Sie Ihren Standort und sichern Sie Ihr Surfen in { -brand-short-name } mit zusätzlicher Verschlüsselung. Erhalten Sie jeden Monat { $maxUsage } GB kostenloses VPN-Datenvolumen.
 ip-protection-not-opted-in-button = Erste Schritte
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -186,7 +187,7 @@ ipprotection-bandwidth-reset-button = Verstanden
 vpn-paused-alert-title = VPN pausiert
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-paused-alert-body = Sie haben die gesamten { $maxUsage } GB Ihrer VPN-Daten aufgebraucht. Der VPN-Zugriff wird nächsten Monat zurückgesetzt.
+vpn-paused-alert-body = Sie haben die gesamten { $maxUsage } GB Ihres VPN-Datenvolumens aufgebraucht. Der VPN-Zugriff wird nächsten Monat zurückgesetzt.
 vpn-paused-alert-close-tabs-button = Alle Tabs schließen
 vpn-paused-alert-continue-wo-vpn-button = Ohne VPN fortfahren
 vpn-error-alert-title = VPN funktioniert derzeit nicht.
