@@ -5,11 +5,11 @@
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Parte desta página travou.</strong> Para deixar o { -brand-product-name } ter conhecimento deste problema e corrigir mais rápido, envie um relatório.
+crashed-subframe-message = <strong>Parte desta página falhou.</strong> Para deixar o { -brand-product-name } ter conhecimento deste problema e corrigir mais rápido, envie um relatório.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
-    .title = Parte desta página travou. Envie um relatório para o { -brand-product-name } tomar conhecimento deste problema e corrigir mais rápido.
+    .title = Parte desta página falhou. Envie um relatório para o { -brand-product-name } tomar conhecimento deste problema e corrigir mais rápido.
 crashed-subframe-learnmore-link =
     .value = Saiba mais
 crashed-subframe-submit =

@@ -4,11 +4,11 @@
 
 page-title = Informações técnicas
 page-subtitle = Esta página contém informações técnicas que podem ser úteis se você estiver tentando solucionar um problema. Se estiver procurando respostas às dúvidas mais comuns sobre o { -brand-short-name }, consulte o <a data-l10n-name="support-link">site de suporte</a>.
-crashes-title = Relatórios de travamento
+crashes-title = Relatórios de falha
 crashes-id = ID do relatório
 crashes-send-date = Envio
-crashes-all-reports = Todos os relatórios de travamento
-crashes-no-config = Este aplicativo não foi configurado para exibir relatórios de travamento.
+crashes-all-reports = Todos os relatórios de falha
+crashes-no-config = Este aplicativo não foi configurado para exibir relatórios de falha.
 support-addons-title = Extensões
 support-addons-name = Nome
 support-addons-type = Tipo
@@ -114,7 +114,7 @@ graphics-failure-log-title = Registro de falhas
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Registro de decisões
-graphics-crash-guards-title = Recursos desativados da proteção contra travamentos
+graphics-crash-guards-title = Recursos desativados da proteção contra falhas
 graphics-workarounds-title = Soluções alternativas
 graphics-device-pixel-ratios = Proporções de pixels do dispositivo de janela
 # Windowing system in use on Linux (e.g. X11, Wayland).
@@ -245,8 +245,8 @@ remote-debugging-url = URL
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Relatórios de travamentos do último dia
-       *[other] Relatórios de travamento dos últimos { $days } dias
+        [one] Relatórios de falha do último dia
+       *[other] Relatórios de falha dos últimos { $days } dias
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -273,8 +273,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Todos os relatórios de travamento (incluindo { $reports } travamento pendente na faixa de tempo indicada)
-       *[other] Todos os relatórios de travamento (incluindo { $reports } travamentos pendentes na faixa de tempo indicada)
+        [one] Todos os relatórios de falha (inclusive { $reports } falha pendente no intervalo de tempo indicado)
+       *[other] Todos os relatórios de falha (inclusive { $reports } falhas pendentes no intervalo de tempo indicado)
     }
 raw-data-copied = Dados copiados para área de transferência
 text-copied = Texto copiado para área de transferência
