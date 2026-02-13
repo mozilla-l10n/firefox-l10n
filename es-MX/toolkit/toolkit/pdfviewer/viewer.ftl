@@ -534,6 +534,7 @@ pdfjs-editor-undo-bar-message-freetext = Texto eliminado
 pdfjs-editor-undo-bar-message-ink = Dibujo eliminado
 pdfjs-editor-undo-bar-message-stamp = Imagen eliminada
 pdfjs-editor-undo-bar-message-signature = Firma eliminada
+pdfjs-editor-undo-bar-message-comment = Comentario eliminado
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -642,6 +643,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Alternar barra lateral
+pdfjs-toggle-views-manager-notification-button =
+    .title = Cambiar barra lateral (índice de contenidos del documento/miniaturas/adjuntos/capas)
 pdfjs-toggle-views-manager-button-label = Alternar barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
