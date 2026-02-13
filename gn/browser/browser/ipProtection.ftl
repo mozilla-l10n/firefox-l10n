@@ -25,6 +25,7 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Rohechauka VPN, ko’ág̃a ne kundahára ryepýpe
 ipprotection-feature-introduction-link-text = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua hendaite ha emo’ã imba’ekuaarã mbopapapyvéva ndive.
+ipprotection-feature-introduction-link-text-private-browsing = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua hendaite ha emo’ã imba’ekuaarã mbopapapyvéva ndive, taha’e oĩramo jepe ovetã ñemime.
 ipprotection-feature-introduction-button-primary = Tenondegua
 ipprotection-feature-introduction-button-secondary-not-now = Ani ko’ág̃a
 ipprotection-feature-introduction-button-secondary-no-thanks = Nahániri, aguyje
@@ -38,6 +39,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 ## Panel
 
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
+unauthenticated-hide-location-message = Eñomi ne rendaite ha embojuaju mbopapapyvéva ne ñeikundaha { -brand-product-name } ndiveguápe.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ereko { $maxUsage } GB VPN mba’ekuaarã reiete jasygua.
