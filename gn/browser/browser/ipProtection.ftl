@@ -71,6 +71,9 @@ ipprotection-button-connecting = Emyandyhína…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN opytáva
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jesýpe.
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
 
 ## IP Protection Settings
