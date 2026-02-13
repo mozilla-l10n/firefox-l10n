@@ -81,8 +81,8 @@ about-logins-login-list-alerts-option = Զգուշացումներ
 login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
-login-list-intro-title2 = Գաղտնաբառեր չեն պահպանվել
-login-list-intro-description = Երբ պահպանում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրվի այստեղ:
+login-list-intro-title2 = Գաղտնաբառերը չեն պահվել
+login-list-intro-description = Երբ պահում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրվի այստեղ:
 about-logins-login-list-empty-search-title = Մուտքեր չեն գտնվել
 about-logins-login-list-empty-search-title2 = Գաղտնաբառեր չեն գտնվել
 about-logins-login-list-empty-search-description = Որոնման հետ համընկնում չկա։
@@ -103,16 +103,16 @@ about-logins-list-section-week = Վերջին 7 օրում
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Փնտրու՞մ եք Ձեր պահպանած մուտքերը: Միացրեք համաժամեցումը կամ ներմուծեք դրանք:
+about-logins-login-intro-heading-logged-out2 = Փնտրու՞մ եք Ձեր պահած մուտքերը: Միացրեք համաժամեցումը կամ ներմուծեք դրանք:
 about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
-login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
+login-intro-description = Եթե պահել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
 login-intro-instructions-fxa = Գրանցվեք կամ մուտք գործեք Ձեր { -fxaccount-brand-name } հաշիվ այն սարքով, որով պահվել են Ձեր մուտքերը:
-about-logins-login-intro-heading-message = Պահպանեք Ձեր գաղտնաբառերը ապահով տեղում
+about-logins-login-intro-heading-message = Պահեք Ձեր գաղտնաբառերը ապահով տեղում
 login-intro-description2 = { -brand-product-name }-ում Ձեր պահած գաղտնաբառերը գաղտնագրված են:  Բացի այդ մենք հսկում ենք արտահոսքերը և կզգուշացնենեք՝ եթե այն վերաբերվի Ձեզ: <a data-l10n-name="breach-alert-link">Իմանալ ավելին</a>
-login-intro-instructions-fxa2 = Ստեղծեք կամ մուտք գործեք ձեր հաշիվ այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են:
+login-intro-instructions-fxa2 = Ստեղծեք կամ մուտք գործեք ձեր հաշիվ այն սարքում, որտեղ ձեր մուտքագրումները պահված են:
 login-intro-instructions-fxa-settings = Գնացեք Կարգավորումներ > Համաժամացում > Միացնել համաժամացումը…: Ընտրեք «Մուտքանուններ և գաղտնաբառեր» վանդակը:
 login-intro-instructions-fxa-passwords-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="passwords-help-link">գաղտնաբառերի աջակցություն</a>:
-about-logins-intro-browser-only-import = Եթե Ձեր մուտքերը պահպանված են այլ դիտարկիչում՝ կարող եք <a data-l10n-name="import-link">ներմուծել դրանք { -brand-product-name }</a>
+about-logins-intro-browser-only-import = Եթե Ձեր մուտքերը պահված են այլ դիտարկիչում՝ կարող եք <a data-l10n-name="import-link">ներմուծել դրանք { -brand-product-name }</a>
 
 ## Login
 
@@ -124,7 +124,6 @@ about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցեն
 login-item-tooltip-message = Համոզվեք, որ սա համընկնում է այն կայքի ճշգրիտ հասցեի հետ, որտեղ մուտք եք գործում։
 about-logins-origin-tooltip2 = Մուտքագրեք ամբողջական հասցեն և համոզվեք, որ այն ճշգրիտ համընկնում է ձեր մուտքի վայրի հետ:
-about-logins-add-password-tooltip = Համոզվեք, որ պահպանում եք ձեր ընթացիկ գաղտնաբառը այս կայքի համար:
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Օգտվողի անուն
@@ -139,9 +138,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Թաքցնել գաղտնաբառը
 login-item-copy-password-button-text = Պատճենել
 login-item-copied-password-button-text = Պատճենված
-login-item-save-changes-button = Պահպանել փոփոխությունները
-about-logins-login-item-save-changes-button = Պահպանել
-login-item-save-new-button = Պահպանել
 login-item-cancel-button = Չեղարկել
 
 ## The date is displayed in a timeline showing the password evolution.
@@ -167,25 +163,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահպանված մուտքանունը
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = խմբագրել պահված գաղտնաբառը
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
-# This message can be seen when attempting to reveal a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահպանված գաղտնաբառը
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Ձեր մուտքագրումը պատճենելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
-# This message can be seen when attempting to copy a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-copy-password-os-auth-dialog-message-macosx = պատճենեք պահպանված գաղտնաբառը
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքագրումը արտահանելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = արտահանել պահպանված մուտքանունները և գաղտնաբառերը
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Ձեր մուտքագրումը պատճենելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to export a password in about:logins
