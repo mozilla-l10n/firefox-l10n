@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
+ipprotection-feature-introduction-link-text = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu údajov pomocou dodatočného šifrovania.
+ipprotection-feature-introduction-link-text-private-browsing = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu údajov pomocou dodatočného šifrovania, a to aj v súkromnom okne.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
@@ -31,9 +33,22 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vyberte, kde používate VPN
+ipprotection-site-settings-callout-subtitle = Vypnite VPN pre konkrétnu stránku a my si to zapamätáme pre vaše ďalšie návštevy.
+ipprotection-site-settings-callout-button = Rozumiem
 
 ## Panel
 
+unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
+unauthenticated-hide-location-message = Skryte svoju polohu a pridajte ďalšie šifrovanie do prehliadania vo { -brand-product-name(case: "loc") }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
+unauthenticated-get-started = Začíname
+site-exclusion-toggle-label = Použiť VPN pre túto stránku
+site-exclusion-toggle-enabled =
+    .aria-label = VPN je pre túto stránku zapnutá
+site-exclusion-toggle-disabled =
+    .aria-label = VPN je pre túto stránku vypnutá
 ipprotection-settings-link =
     .label = Nastavenia
 
