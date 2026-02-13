@@ -600,7 +600,7 @@ settings-translations-subpage-no-sites-added =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Formátovat data, časy, čísla a jednotky podle nastavení jazyka „{ $localeName }“ z operačního systému
+    .label = Formátovat datumy, časy, čísla a jednotky podle nastavení pro jazyk „{ $localeName }“ v operačním systému
 check-user-spelling =
     .label = Při psaní kontrolovat pravopis
     .accesskey = t
