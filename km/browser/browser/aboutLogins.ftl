@@ -109,6 +109,7 @@ login-intro-instructions-fxa-settings = ចូលទៅ​កាន់ ការ
 login-intro-instructions-fxa-passwords-help = ចូលមើល​<a data-l10n-name="passwords-help-link">ជំនួយ​ពាក្យសម្ងាត់</a>​សម្រាប់​ជំនួយ​បន្ថែម។
 about-logins-intro-browser-only-import = ប្រសិនបើ​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក​នៅក្នុង​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ផ្សេង អ្នក​អាច <a data-l10n-name="import-link">នាំចូល​វា​ក្នុង { -brand-product-name }</a>
 about-logins-intro-import2 = ប្រសិនបើ​ការចូល​របស់​អ្នក​ត្រូវបាន​រក្សាទុក​ក្រៅពៅ { -brand-product-name } អ្នក​អាច <a data-l10n-name="import-browser-link">នាំចូល​ការចូល​ទាំងនោះ​ពី​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ផ្សេង</a> ឬ <a data-l10n-name="import-file-link">ពី​ឯកសារ</a>
+about-logins-intro-import3 = សូមជ្រើសរើសប៊ូតុងសញ្ញាបូកខាងលើដើម្បីបន្ថែមពាក្យសម្ងាត់ឥឡូវនេះ។ អ្នកក៏អាច <a data-l10n-name="import-browser-link">វាយបញ្ចូល ពាក្យសម្ងាត់ពីកម្មវិធីរុករកផ្សេងទៀត</a> ឬ <a data-l10n-name="import-file-link">ពីឯកសារ</a> បានដែរ។
 
 ## Login
 
