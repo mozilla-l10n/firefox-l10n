@@ -1145,7 +1145,7 @@ search-show-suggestions-url-bar-option =
 # "before" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option-2 =
-    .label = V našeptávači zobrazovat návrhy vyhledávání před historií prohlížení
+    .label = V našeptávači uvádět návrhy vyhledávání před historií prohlížení
 search-show-suggestions-private-windows-2 =
     .label = Návrhy vyhledávání v anonymních oknech
 search-suggestions-cant-show-2 =
