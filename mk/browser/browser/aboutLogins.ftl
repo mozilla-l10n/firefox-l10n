@@ -121,7 +121,7 @@ about-logins-intro-import3 = Изберете го копчето со знак�
 login-item-new-login-title = Создадете ново најавување
 # Header for adding a password
 about-logins-login-item-new-login-title = Додај лозинка
-login-item-edit-button = Уредување
+login-item-edit-button = Уреди
 about-logins-login-item-remove-button = Отстрани
 login-item-origin-label = Веб-сајт адреса
 login-item-tooltip-message = Осигурете се дека ова одговара на точната адреса на веб-страницата каде што се најавувате.
