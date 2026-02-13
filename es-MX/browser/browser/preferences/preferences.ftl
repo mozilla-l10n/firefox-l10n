@@ -1365,6 +1365,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Utilizar una contraseña principal
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Usar una contraseña primaria
+    .description = Agrega una capa extra de seguridad para proteger tus contraseñas guardadas.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Establecer contraseña principal
 forms-primary-pw-on =
@@ -1461,6 +1465,9 @@ payments-delete-payment-button-label =
     .aria-label = Eliminar
 payments-edit-payment-button-label =
     .aria-label = Editar
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = No se han agregado métodos de pago
 payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
 payments-remove-payment-prompt-confirm-button = Eliminar
 payments-remove-payment-prompt-cancel-button = Cancelar
@@ -1737,6 +1744,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Obtén sugerencias de la web relac
 addressbar-locbar-suggest-sponsored-option =
     .label = Sugerencias de patrocinadores
 addressbar-locbar-suggest-sponsored-desc = Soporte { -brand-short-name } con sugerencias patrocinadas ocasionales.
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Recibe sugerencias de Mozilla mientras escribes
 addressbar-dismissed-suggestions-label-2 =
     .label = Sugerencias descartadas
     .description = Restaurar las sugerencias descartadas de los patrocinadores y { -brand-short-name }.
@@ -1905,6 +1920,9 @@ permissions-autoplay = Reproducción automática
 permissions-autoplay-settings =
     .label = Ajustes…
     .accesskey = A
+permissions-block-popups2 =
+    .label = Bloquear ventanas emergentes y redirecciones de terceros
+    .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -1960,6 +1978,7 @@ collection-header2 = Recolección de datos y uso de { -brand-short-name }
     .searchkeywords = telemetría
 preferences-collection-description = Nos esforzamos por ofrecerle opciones y recopilar sólo los datos mínimos necesarios para mejorar { -brand-product-name } para todos.
 preferences-collection-privacy-notice = Ver política de privacidad
+preferences-across-profiles = Estas configuraciones se aplican a todos los perfiles de { -brand-product-name } en este dispositivo.
 preferences-view-profiles = Ver todos los perfiles
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad
@@ -1983,6 +2002,8 @@ collection-studies-description = Prueba funcionalidades e ideas antes del lanzam
 collection-studies =
     .label = Permitir { -brand-short-name } para instalar y ejecutar estudios
 collection-studies-link = Ver estudios de { -brand-short-name }
+nimbus-rollouts-enabled =
+    .label = Permitir que { -brand-short-name } mejore las funciones, el rendimiento y la estabilidad entre actualizaciones
 nimbus-rollouts-enabled-description = Los cambios se aplicarán de forma remota.
 addon-recommendations2 =
     .label = Permitir recomendaciones de extensiones personalizadas

@@ -84,3 +84,13 @@ ip-protection-bandwidth-help-text = Se restablece a { $maxUsage } GB el primer d
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualizado y listo para usar
 ipprotection-bandwidth-reset-text = Activa la VPN para obtener un aumento adicional de privacidad, gratis todos los meses.
+ipprotection-bandwidth-reset-button = Entendido
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN pausado
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Has usado todos los { $maxUsage } GB de datos de tu VPN. El acceso a la VPN se restablecerá el próximo mes.
+vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
+vpn-error-alert-body = Intentar de nuevo más tarde.
