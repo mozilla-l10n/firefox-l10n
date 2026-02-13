@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Ripristina dimensioni
 browser-window-close-button =
     .tooltiptext = Chiudi
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Ritorna
 
 ## Tab actions
 
