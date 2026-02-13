@@ -71,3 +71,37 @@ ipprotection-button-connecting = Zapína sa…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN pozastavená
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa resetuje budúci mesiac.
+upgrade-vpn-title = Získajte dodatočnú ochranu nad rámec prehliadača
+upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi-Fi sieti.
+upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Nepodarilo sa pripojiť k VPN
+ipprotection-connection-status-generic-error-description = Skúste to znova o pár minút.
+ipprotection-connection-status-network-error-title = Skontrolujte svoje internetové pripojenie
+ipprotection-connection-status-network-error-description = Pripojte sa na internet a potom skúste zapnúť VPN.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pre túto stránku vypnutá
+
+## IP Protection Settings
+
+ip-protection-learn-more = Ďalšie informácie
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-text = Zapnite si VPN a získajte ďalšie zvýšenie súkromia, každý mesiac zadarmo.
+ipprotection-bandwidth-reset-button = Rozumiem
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN pozastavená
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Využili ste celý objem { $maxUsage } GB dát pre VPN. Prístup k VPN sa resetuje budúci mesiac.
+vpn-paused-alert-close-tabs-button = Zavrieť všetky karty
+vpn-paused-alert-continue-wo-vpn-button = Pokračovať bez VPN
+vpn-error-alert-title = VPN momentálne nefunguje.
+vpn-error-alert-body = Skúste to znova neskôr.
