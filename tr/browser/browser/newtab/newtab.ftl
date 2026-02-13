@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Kişiselleştir
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Kapat
+    .aria-label = Kapat
 
 ## Search box component.
 
