@@ -578,6 +578,7 @@ onboarding-refresh-pin-set-default-subtitle = Protegemos tus datos y bloqueamos 
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Estás en buenas manos
 onboarding-refresh-import-subtitle = Traiga las contraseñas, marcadores, historial y más.
+onboarding-refresh-import-title = Haga que { -brand-short-name } se sienta propio
 onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas aplicaciones que permiten personalizar a { -brand-short-name }. Pueden mejorar la privacidad, aumentar la productividad, cambiar la forma en que se ve { -brand-short-name } y mucho más.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Mejore la navegación

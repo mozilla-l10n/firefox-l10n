@@ -792,6 +792,8 @@ home-default-browser-title =
     .label = Navegador predeterminado
 is-default-browser-2 =
     .message = { -brand-short-name } es su navegador predeterminado. Buena elección.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name } no es el navegador predeterminado.
 set-as-my-default-browser-2 =
     .label = Hacer predeterminado
     .accesskey = D
@@ -1773,7 +1775,7 @@ addressbar-locbar-showrecentsearches-option-2 =
     .accesskey = r
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Sugerencias de búsqueda en tendencia
-    .accesskey = { "" }
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Sugerencias de { -brand-short-name }
