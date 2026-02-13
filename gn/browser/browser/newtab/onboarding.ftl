@@ -578,3 +578,6 @@ onboarding-personalization-motivation-other-option = Ambue
 onboarding-refresh-pin-set-default-title = Eime eime hag̃uáme
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Emboha’eve ne ñeikundaha
+onboarding-refresh-sync-title = Oimeraẽ hendápe. Oñembojuehepa.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } oĩta nendive
