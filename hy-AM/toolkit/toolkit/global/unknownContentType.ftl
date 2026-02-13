@@ -14,7 +14,7 @@ unknowncontenttype-settingschange =
 unknowncontenttype-intro = Դուք պատրաստվում եք բացել՝
 unknowncontenttype-which-is = ֆայլի տեսակը.
 unknowncontenttype-from = աղբյուրը.
-unknowncontenttype-prompt = Ցանկանու՞մ եք պահպանել այս ֆայլը:
+unknowncontenttype-prompt = Ցանկանու՞մ եք պահել այս ֆայլը:
 unknowncontenttype-action-question = Ի՞նչ պետք է անի { -brand-short-name }-­ն այս ֆայլի հետ:
 unknowncontenttype-open-with =
     .label = Բացել հետևյալով՝
@@ -33,7 +33,7 @@ unknowncontenttype-choose-handler =
            *[other] Ը
         }
 unknowncontenttype-save-file =
-    .label = Պահպանել Ֆայլը
+    .label = Պահել Ֆայլը
     .accesskey = Պ
 unknowncontenttype-remember-choice =
     .label = Ինքնաբար կատարել նմանատիպ ֆայլերի համար:

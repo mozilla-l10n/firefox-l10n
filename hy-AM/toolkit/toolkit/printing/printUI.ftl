@@ -4,7 +4,7 @@
 
 printui-title = Տպել
 # Dialog title to prompt the user for a filename to save print to PDF.
-printui-save-to-pdf-title = Պահպանել որպես
+printui-save-to-pdf-title = Պահել որպես
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -84,4 +84,4 @@ printui-pages-per-sheet = Էջեր թերթում
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Տպում է…
-printui-print-progress-indicator-saving = Պահպանում է...
+printui-print-progress-indicator-saving = Պահում է...

@@ -18,13 +18,13 @@ credit-card-doorhanger-credit-cards-sync-checkbox = Համաժամացնել բ�
 credit-card-save-doorhanger-header = Ապահով պահե՞լ այս քարտը:
 credit-card-save-doorhanger-description = { -brand-short-name }-y գաղտնագրում է Ձեր քարտի համարը: , իսկ Ձեր անվտանգության կոդը չի պահվում:
 credit-card-capture-save-button =
-    .label = Պահպանել
+    .label = Պահել
     .accessKey = Պ
 credit-card-capture-cancel-button =
     .label = Ոչ հիմա
     .accessKey = Ա
 credit-card-capture-never-save-button =
-    .label = Երբեք չպահպանել քարտերը
+    .label = Երբեք չպահել քարտերը
     .accessKey = Ե
 
 # Used on the doorhanger when an credit card change is detected.

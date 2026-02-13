@@ -9,9 +9,9 @@ profiles-restart-title = Վերամեկնարկել
 profiles-restart-in-safe-mode = Վերամեկնարկել՝ հավելումներն անջատված...
 profiles-restart-normal = Նորմալ վերամեկնարկում...
 profiles-conflict = { -brand-product-name }-ի մեկ այլ օրինակը փոփոխություններ է կատարել հատկագիրներում։ Այլ փոփոխություններ կատարելուց առաջ անհրաժեշտ է վերագործարկել { -brand-short-name }-ը:
-profiles-flush-fail-title = Փոփոխությունները պահպանված չեն
+profiles-flush-fail-title = Փոփոխությունները պահված չեն
 profiles-flush-conflict = { profiles-conflict }
-profiles-flush-failed = Անսպասելի սխալը կանխել է ձեր փոփոխությունների պահպանումը։
+profiles-flush-failed = Անսպասելի սխալը կանխել է ձեր փոփոխությունների պահումը։
 profiles-flush-restart-button = Վերագործարկել { -brand-short-name }֊ը
 # Variables:
 #   $name (String) - Name of the profile

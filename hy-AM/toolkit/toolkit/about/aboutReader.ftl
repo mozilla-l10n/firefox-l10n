@@ -45,7 +45,7 @@ about-reader-font-type-sans-serif = Հստակ-գծիկավոր
 
 about-reader-toolbar-close = Փակել Ընթերցելու եղանակը
 about-reader-toolbar-type-controls = Մուտքագրման կառավարում
-about-reader-toolbar-savetopocket = Պահպանել { -pocket-brand-name }-ում
+about-reader-toolbar-savetopocket = Պահել { -pocket-brand-name }-ում
 
 ## Reader View colors menu
 

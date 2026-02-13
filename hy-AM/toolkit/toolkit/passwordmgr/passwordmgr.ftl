@@ -12,10 +12,10 @@ password-manager-save-password-button-deny =
     .label = Ոչ հիմա
     .accesskey = N
 password-manager-save-password-button-allow =
-    .label = Պահպանել
+    .label = Պահել
     .accesskey = Պ
 password-manager-save-password-button-never =
-    .label = Երբեք չպահպանել
+    .label = Երբեք չպահել
     .accesskey = e
 # Variables
 #   $host (String) - Hostname for which the password is updated for.

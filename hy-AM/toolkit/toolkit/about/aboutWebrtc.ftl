@@ -77,7 +77,7 @@ about-webrtc-nominated = Նշանակված
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Նշված
-about-webrtc-save-page-label = Պահպանել էջը
+about-webrtc-save-page-label = Պահել էջը
 about-webrtc-debug-mode-msg-label = Վրիպազերծման կերպ
 about-webrtc-debug-mode-off-state-label = Վրիպազերծման կերպ
 about-webrtc-debug-mode-on-state-label = Կանգնեցնել վրիպազերծումը
@@ -160,7 +160,7 @@ about-webrtc-custom-webrtc-configuration-heading = Օգտատիրոջ կողմի
 
 ##
 
-about-webrtc-save-page-msg = էջը պահպանվել է՝ { $path }
+about-webrtc-save-page-msg = էջը պահվել է՝ { $path }
 about-webrtc-debug-mode-off-state-msg = հետևելու մատյանը կարող է գտնվել՝ { $path }
 about-webrtc-debug-mode-on-state-msg = վրիպազերծման կերպը ակտիվ է, հետևելու մատյանը՝ { $path }
 about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլերը այստեղ են՝ { $path }
@@ -168,7 +168,7 @@ about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլ�
 # bug reports.
 # Variables:
 #  $path (String) - The path to which the file is saved.
-about-webrtc-save-page-complete-msg = Էջը պահպանվել է՝ { $path }
+about-webrtc-save-page-complete-msg = Էջը պահվել է՝ { $path }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
