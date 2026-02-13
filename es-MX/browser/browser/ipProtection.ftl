@@ -20,3 +20,28 @@ ipprotection-experiment-badge =
 ipprotection-help-button =
     .tooltiptext = Abrir la página de soporte de VPN
 ipprotection-title = VPN
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-button-primary = Siguiente
+ipprotection-feature-introduction-button-secondary-not-now = Ahora no
+ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
+
+## Site settings callout
+
+ipprotection-site-settings-callout-button = Entendido
+
+## Panel
+
+unauthenticated-get-started = Comenzar
+ipprotection-settings-link =
+    .label = Ajustes
+
+## Status card
+
+ipprotection-connection-status-connected = VPN activada
+ipprotection-connection-status-disconnected = La VPN está desactivada
+
+## VPN paused state
+
+upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
