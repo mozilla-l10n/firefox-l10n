@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo di contenuto
     .accesskey = T
+applications-type-heading = Tipo di contenuto
 applications-action-column =
     .label = Azione
     .accesskey = A
+applications-action-heading = Azione
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = file { $extension }
