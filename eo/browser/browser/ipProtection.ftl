@@ -180,8 +180,8 @@ ip-protection-bandwidth-help-text = La unuan tagon de ĉiu monato { $maxUsage } 
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title =
     { $maxUsage ->
-        [one] $maxUsage GB de VPN, replenigita kaj preta por uzo
-       *[other] $maxUsage GB de VPN, replenigitaj kaj pretaj por uzo
+        [one] { $maxUsage } GB de VPN, replenigita kaj preta por uzo
+       *[other] { $maxUsage } GB de VPN, replenigitaj kaj pretaj por uzo
     }
 ipprotection-bandwidth-reset-text = Ŝaltu vian VPN por aldona privateca plibonigo, senpage ĉiumonate.
 ipprotection-bandwidth-reset-button = Mi komprenis
