@@ -45,3 +45,25 @@ ipprotection-connection-status-disconnected = La VPN está desactivada
 ## VPN paused state
 
 upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Administrar los ajustes del sitio web
+ip-protection-exclusions-desc = Usa una VPN para todos los sitios web excepto los de esta lista. Agrega un sitio web aquí o abre la VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Datos mensuales de VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB de { $maxUsage } GB restantes este mes
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB de { $maxUsage } GB restantes
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB de { $maxUsage } GB restantes este mes
