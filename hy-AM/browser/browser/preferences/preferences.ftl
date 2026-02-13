@@ -596,8 +596,8 @@ applications-use-os-default-label =
 
 applications-handle-new-file-types-description = Ի՞նչ պետք է անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
 applications-save-for-new-types =
-    .label = Պահպանի ֆայլերը
-    .accesskey = Պ
+    .label = Պահել ֆայլերը
+    .accesskey = S
 applications-ask-before-handling =
     .label = Հարցնի՝ բացել, թե պահել ֆայլերը
     .accesskey = A
@@ -636,7 +636,7 @@ update-application-use-service =
 update-application-suppress-prompts =
     .label = Ցուցադրել ավելի քիչ թարմացման ծանուցումներ
     .accesskey = n
-update-setting-write-failure-title2 = Թարմացման կարգավորումների պահպանման սխալ
+update-setting-write-failure-title2 = Թարմացման կարգավորումների պահման սխալ
 # Variables:
 #   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -854,7 +854,7 @@ home-prefs-search-header2 =
     .label = Որոնում
 home-prefs-shortcuts-header =
     .label = Դյուրանցումներ
-home-prefs-shortcuts-description = Ձեր պահպանած կամ այցելած կայքերը
+home-prefs-shortcuts-description = Ձեր պահած կամ այցելած կայքերը
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանավորված դյուրանցումներ
 home-prefs-content-header =
@@ -1201,7 +1201,7 @@ sync-change-options =
 sync-choose-what-to-sync-dialog3 =
     .title = Ընրեք, թե ինչը համաժամեցնել
     .style = min-width: 36em;
-    .buttonlabelaccept = Պահպանել փոփոխությունները
+    .buttonlabelaccept = Պահել փոփոխությունները
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Անջատված…
     .buttonaccesskeyextra2 = D
@@ -1218,7 +1218,7 @@ sync-engine-tabs =
     .accesskey = ն
 sync-engine-logins-passwords =
     .label = Մուտքանուններ և գաղտնաբառեր
-    .tooltiptext = Ձեր պահպանած օգտվողի անուններ և գաղտնաբառեր
+    .tooltiptext = Ձեր պահած օգտվողի անուններ և գաղտնաբառեր
     .accesskey = L
 sync-engine-passwords =
     .label = Գաղտնաբառեր
@@ -1226,7 +1226,7 @@ sync-engine-passwords =
     .accesskey = P
 sync-engine-addresses =
     .label = Հասցեներ
-    .tooltiptext = Փոստային հասցեներ, որոնք դուք պահպանել եք (միայն դեսքթոփում)
+    .tooltiptext = Փոստային հասցեներ, որոնք դուք պահել եք (միայն դեսքթոփում)
     .accesskey = e
 sync-engine-creditcards =
     .label = Բանկային քարտեր
@@ -1272,7 +1272,7 @@ sync-device-name-cancel =
     .label = Չեղարկել
     .accesskey = ա
 sync-device-name-save =
-    .label = Պահպանել
+    .label = Պահել
     .accesskey = պ
 sync-connect-another-device = Կապվել այլ սարքի
 sync-connect-another-device-2 =
@@ -1299,7 +1299,7 @@ pane-privacy-logins-and-passwords-header = Մուտքանուններ և Գաղ�
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառերը կայքերի համար
+    .label = Հարցնել և պահել մուտքագրումները և գաղտնաբառերը կայքերի համար
     .accesskey = r
 
 ## Privacy Section - Passwords
@@ -1313,7 +1313,7 @@ forms-passwords-header =
     .aria-label = Գաղտնաբառեր
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
-    .label = Խնդրել գաղտնաբառների պահպանում
+    .label = Խնդրել գաղտնաբառների պահում
     .accesskey = Խ
 forms-manage-password-exceptions =
     .label = Կառավարել գաղտնաբառի բացառությունները
@@ -1416,11 +1416,11 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Ինքնալրացում
-autofill-addresses-checkbox = Պահպանել և լրացնել հասցեները
+autofill-addresses-checkbox = Պահել և լրացնել հասցեները
     .accesskey = a
 autofill-saved-addresses-button = Պահված հասցեներ
     .accesskey = Պ
-autofill-payment-methods-checkbox-message = Պահպանել և լրացնել վճարամիջոցները
+autofill-payment-methods-checkbox-message = Պահել և լրացնել վճարամիջոցները
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = Ներառում է կրեդիտ և դեբետային քարտերը
     .accesskey = Ն

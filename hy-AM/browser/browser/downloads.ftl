@@ -234,11 +234,11 @@ downloads-more-downloading =
 downloads-error-alert-title = Ներբեռնման սխալ
 # Variables:
 #   $extension (String): the name of the blocking extension.
-downloads-error-blocked-by = Ներբեռնումը չի կարող պահպանվել, քանի որ այն արգելափակված է { $extension }-ի կողմից:
+downloads-error-blocked-by = Ներբեռնումը չի կարող պահվել, քանի որ այն արգելափակված է { $extension }-ի կողմից:
 # Used when the name of the blocking extension is unavailable.
-downloads-error-extension = Ներբեռնումը չի կարող պահպանվել, քանի որ այն արգելափակված է ընդլայնման կողմից:
+downloads-error-extension = Ներբեռնումը չի կարող պահվել, քանի որ այն արգելափակված է ընդլայնման կողմից:
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
-    Բեռնումը չի կարող պահպանվել անհայտ վթարի պատճառով:
+    Բեռնումը չի կարող պահվել անհայտ վթարի պատճառով:
     
     Կրկին փորձեք:

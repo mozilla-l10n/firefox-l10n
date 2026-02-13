@@ -9,6 +9,6 @@ clear-data-for-site-list = Սա կջնջի { $site }-ի համար բոլոր տ
 clear-data-for-site-browsing-history = Դիտարկումների և ներբեռնումների պատմությունը
 clear-data-for-site-cache = Շտեմված ֆայլեր ու էջեր
 cclear-data-for-site-permissions = Թույլտվություններ և նախընտրություններ
-clear-data-for-site-exceptions = Էջանիշները և պահպանված գաղտնաբառերը չեն ջնջվի
+clear-data-for-site-exceptions = Էջանիշները և պահված գաղտնաբառերը չեն ջնջվի
 clear-data-for-site-dialog-accept-button = Մաքրել տվյալները
 clear-data-for-site-dialog-cancel-button = Չեղարկել

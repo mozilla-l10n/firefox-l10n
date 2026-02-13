@@ -87,7 +87,7 @@ toolbar-button-account =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = Պահպանել Էջը որպես…
+    .label = Պահել Էջը որպես…
     .accesskey = P
 
 ## Simple menu items
@@ -143,10 +143,10 @@ main-context-menu-bookmark-link-2 =
     .label = Էջանշել հղումը…
     .accesskey = B
 main-context-menu-save-link =
-    .label = Պահպանել հղումը որպես…
+    .label = Պահել հղումը որպես…
     .accesskey = մ
 main-context-menu-save-link-to-pocket =
-    .label = Պահպանել հղումը { -pocket-brand-name }-ում
+    .label = Պահել հղումը { -pocket-brand-name }-ում
     .accesskey = o
 
 ##
@@ -276,10 +276,10 @@ main-context-menu-visual-search-2 =
     .label = Որոնել պատկերը { $engine }-ով
     .accesskey = ր
 main-context-menu-video-save-as =
-    .label = Պահպանել տեսանյութը որպես...
+    .label = Պահել տեսանյութը որպես...
     .accesskey = լ
 main-context-menu-audio-save-as =
-    .label = Պահպանել ձայնանյութը որպես...
+    .label = Պահել ձայնանյութը որպես...
     .accesskey = պ
 main-context-menu-video-take-snapshot =
     .label = Ստանալ էկրանի պատկերը…
@@ -294,7 +294,7 @@ main-context-menu-send-to-device-2 =
     .label = Ուղարկել սարքի
     .accesskey = n
 main-context-menu-save-to-pocket =
-    .label = Պահպանել էջը { -pocket-brand-name }-ում
+    .label = Պահել էջը { -pocket-brand-name }-ում
     .accesskey = k
 main-context-menu-send-to-device =
     .label = Ուղարկել էջը սարքին
@@ -352,7 +352,7 @@ main-context-menu-frame-add-bookmark =
     .label = Էջանշել շրջանակը...
     .accesskey = m
 main-context-menu-frame-save-as =
-    .label = Պահպանել շրջանակը որպես…
+    .label = Պահել շրջանակը որպես…
     .accesskey = Պ
 main-context-menu-frame-print =
     .label = Տպել շրջանակը…

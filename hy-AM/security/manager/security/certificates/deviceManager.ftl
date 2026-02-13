@@ -93,7 +93,7 @@ load-module-help-empty-module-name =
     .value = Հանգույցի անունը չի կարող դատարկ լինել։
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
-    .value = ‘Root Certs‘-ը պահպանվծ է և չի կարող լինել որպես հանգույցի անուն։
+    .value = ‘Root Certs‘-ը պահված է և չի կարող լինել որպես հանգույցի անուն։
 add-module-failure = Չստացվեց ավելացնել մոդուլը
 del-module-warning = Իրո՞ք ցանկանում եք անվտանգության այս բաղադրիչը հեռացնել:
 del-module-error = Չստացվեց ջնջել մոդուլը

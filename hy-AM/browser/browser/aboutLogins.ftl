@@ -124,6 +124,7 @@ about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցեն
 login-item-tooltip-message = Համոզվեք, որ սա համընկնում է այն կայքի ճշգրիտ հասցեի հետ, որտեղ մուտք եք գործում։
 about-logins-origin-tooltip2 = Մուտքագրեք ամբողջական հասցեն և համոզվեք, որ այն ճշգրիտ համընկնում է ձեր մուտքի վայրի հետ:
+about-logins-add-password-tooltip = Համոզվեք, որ պահում եք ձեր ընթացիկ գաղտնաբառը այս կայքի համար:
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Օգտվողի անուն
@@ -138,6 +139,9 @@ login-item-password-conceal-checkbox =
     .aria-label = Թաքցնել գաղտնաբառը
 login-item-copy-password-button-text = Պատճենել
 login-item-copied-password-button-text = Պատճենված
+login-item-save-changes-button = Պահել փոփոխությունները
+about-logins-login-item-save-changes-button = Պահել
+login-item-save-new-button = Պահել
 login-item-cancel-button = Չեղարկել
 
 ## The date is displayed in a timeline showing the password evolution.
@@ -163,18 +167,30 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահված մուտքանունը
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = խմբագրել պահված գաղտնաբառը
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահված գաղտնաբառը
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Ձեր մուտքագրումը պատճենելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = պատճենեք պահված գաղտնաբառը
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքագրումը արտահանելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = արտահանել պահված մուտքանունները և գաղտնաբառերը
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Ձեր մուտքագրումը պատճենելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message2-macosx = արտահանել պահպանված գաղտնաբառերը
+about-logins-export-password-os-auth-dialog-message2-macosx = արտահանել պահված գաղտնաբառերը
 
 ## Primary Password notification
 
@@ -244,7 +260,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 ##
 
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանունները և գաղտնաբառերը
-about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կպահպանվեն որպես ընթեռնելի տեքստ (օր. ՝ BadP@ssw0rd), այնպես որ յուրաքանչյուրը, ով կարող է բացել արտահանվող ֆայլը, կարող է դիտել դրանք:
+about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կպահվեն որպես ընթեռնելի տեքստ (օր. ՝ BadP@ssw0rd), այնպես որ յուրաքանչյուրը, ով կարող է բացել արտահանվող ֆայլը, կարող է դիտել դրանք:
 about-logins-confirm-export-dialog-confirm-button = Արտահանել...
 about-logins-confirm-export-dialog-title2 = Ծանոթագրություն գաղտնաբառերի արտահանման մասին
 about-logins-confirm-export-dialog-message2 =
@@ -254,7 +270,7 @@ about-logins-confirm-export-dialog-confirm-button2 = Շարունակել արտ
 about-logins-alert-import-title = Ներմուծումն ավարտվեց
 about-logins-alert-import-message = Դիտեք ներմուծման մանրամասն ամփոփագիրը
 confirm-discard-changes-dialog-title = Վերանայե՞լ չփրկված փոփոխությունները:
-confirm-discard-changes-dialog-message = Բոլոր չպահպանված փոփոխությունները կկորչեն:
+confirm-discard-changes-dialog-message = Բոլոր չպահված փոփոխությունները կկորչեն:
 confirm-discard-changes-dialog-confirm-button = Մերժել
 
 ## Breach Alert notification

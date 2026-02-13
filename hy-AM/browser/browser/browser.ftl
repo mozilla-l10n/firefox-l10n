@@ -159,7 +159,7 @@ urlbar-web-rtc-share-screen-notification-anchor =
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Բացել անցանց պահեստի հաղորդագրության վահանակը
 urlbar-password-notification-anchor =
-    .tooltiptext = Բացել պահպանված գաղտնաբառի հաղորդագրության վահանակը
+    .tooltiptext = Բացել պահված գաղտնաբառի հաղորդագրության վահանակը
 urlbar-plugins-notification-anchor =
     .tooltiptext = Կառավարել բաղադրիչների օգտագործումը
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -405,7 +405,7 @@ quickactions-print2 = Տպել էջը
 quickactions-cmd-print = տպել
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Պահել էջը որպես PDF
-quickactions-cmd-savepdf2 = pdf, պահպանել էջը
+quickactions-cmd-savepdf2 = pdf, պահել էջը
 # Opens a new private browsing window
 quickactions-private2 = Բացել գաղտնի պատուհան
 quickactions-cmd-private = գաղտնի դիտարկում
@@ -463,7 +463,7 @@ bookmark-panel-remove =
         }
     .accesskey = R
 bookmark-panel-show-editor-checkbox =
-    .label = Ցուցադրել խմբագրիչում, երբ պահպանվում է
+    .label = Ցուցադրել խմբագրիչում, երբ պահվում է
     .accesskey = S
 bookmark-panel-save-button =
     .label = Պահել
@@ -1073,8 +1073,8 @@ library-recent-activity-title =
 ## Pocket toolbar button
 
 save-to-pocket-button =
-    .label = Պահպանել { -pocket-brand-name }-ում
-    .tooltiptext = Պահպանել { -pocket-brand-name }-ում
+    .label = Պահել { -pocket-brand-name }-ում
+    .tooltiptext = Պահել { -pocket-brand-name }-ում
 
 ## Repair text encoding toolbar button
 
@@ -1105,8 +1105,8 @@ toolbar-button-logins =
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
-    .label = Պահպանել էջը
-    .tooltiptext = Պահպանել էջը ({ $shortcut })
+    .label = Պահել էջը
+    .tooltiptext = Պահել էջը ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -1203,7 +1203,7 @@ navbar-home =
     .tooltiptext = { -brand-short-name }-ի տնէջ
 navbar-library =
     .label = Շտեմարան
-    .tooltiptext = Դիտել պատմությունը, պահպանված էջանիշերը և ավելին
+    .tooltiptext = Դիտել պատմությունը, պահված էջանիշերը և ավելին
 navbar-search =
     .title = Որոնում
 # Name for the tabs toolbar as spoken by screen readers. The word

@@ -9,7 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Բացել աշխատասեղանի նախապատվությունները
 set-desktop-background-downloading =
-    .label = Պահպանում է պատկերը…
+    .label = Պահում է պատկերը…
 set-background-preview-unavailable = Նախադիտումը անհասանելի է
 # Name of the file that will be used as the desktop background. The
 # extension ".bmp" is added by the system.

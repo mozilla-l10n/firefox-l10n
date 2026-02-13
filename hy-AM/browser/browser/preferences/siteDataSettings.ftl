@@ -25,7 +25,7 @@ site-data-remove-selected =
     .label = Հեռացնել ընտրվածը
     .accesskey = Հ
 site-data-settings-dialog =
-    .buttonlabelaccept = Պահպանել փոփոխությունները
+    .buttonlabelaccept = Պահել փոփոխությունները
     .buttonaccesskeyaccept = ա
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)

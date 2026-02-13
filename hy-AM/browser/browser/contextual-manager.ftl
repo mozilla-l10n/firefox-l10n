@@ -28,12 +28,12 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = Ձեր մուտ
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-export-os-auth-dialog-message-macosx = արտահանել պահպանված գաղտնաբառերը
+contextual-manager-passwords-export-os-auth-dialog-message-macosx = արտահանել պահված գաղտնաբառերը
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահպանված գաղտնաբառը
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահված գաղտնաբառը
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = խմբագրել պահված գաղտնաբառը
@@ -41,7 +41,7 @@ contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = խմ�
 contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Ձեր մուտքագրումը պատճենելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = պատճենեք պահպանված գաղտնաբառը
+contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = պատճենեք պահված գաղտնաբառը
 contextual-manager-passwords-import-file-picker-title = Ներմուծել գաղտնաբառերը
 contextual-manager-passwords-import-file-picker-import-button = Ներածել
 # A description for the .csv file format that may be shown as the file type
@@ -254,7 +254,7 @@ contextual-manager-passwords-no-passwords-found-header =
 ## their passwords safely and securely in Firefox:
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Պահպանեք ձեր գաղտնաբառերը անվտանգ տեղում։
+contextual-manager-passwords-no-passwords-header = Պահեք ձեր գաղտնաբառերը անվտանգ տեղում։
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ձեռքով ավելացնել
 

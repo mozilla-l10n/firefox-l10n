@@ -73,6 +73,6 @@ add-engine-dialog2 =
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
-    .buttonlabelaccept = Պահպանել որոնիչը
+    .buttonlabelaccept = Պահել որոնիչը
     .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Ընդլայնված
