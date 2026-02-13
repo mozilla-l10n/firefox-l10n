@@ -570,3 +570,10 @@ onboarding-personalization-motivation-title = Hvilke funktioner i { -brand-short
 onboarding-personalization-motivation-privacy-option = Privatliv og sikkerhed
 onboarding-personalization-motivation-productivity-option = Produktivitet
 onboarding-personalization-motivation-other-option = Andet
+
+## Onboarding 2026 brand refresh
+
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Giv din browsing et boost
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } passer på dig
