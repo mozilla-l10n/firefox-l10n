@@ -1771,6 +1771,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-showrecentsearches-option-2 =
     .label = Búsquedas recientes
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Sugerencias de búsqueda en tendencia
+    .accesskey = { "" }
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Sugerencias de { -brand-short-name }
