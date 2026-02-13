@@ -74,7 +74,15 @@ ipprotection-connection-status-paused-title = VPN opytáva
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jesýpe.
+upgrade-vpn-title = Erekóta ñemo’ãve kundahára riregua
+upgrade-vpn-description = Eiporavo VPN rendaite, eiporu VPN opaite tembiporu’ípe ha 5 mba’e’oka peve, ha eime tekorosãme oimeraẽva ñandutípe — nde rógape térã Wi-Fi-pe.
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Ndaikatúi eike VPN-pe
+ipprotection-connection-status-generic-error-description = Eha’ã jey ndahetái aravo’i rire.
+ipprotection-connection-status-network-error-title = Ehecha oiko porãpa ne ñanduti
 
 ## IP Protection Settings
 

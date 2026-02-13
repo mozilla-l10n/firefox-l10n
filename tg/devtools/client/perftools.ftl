@@ -29,6 +29,7 @@ perftools-description-local-build =
     Агар шумо сохтеро, ки худатон дар ин компютер эҷод кардаед, дар профил созед,
     лутфан, «objdir»-и сохти худро ба рӯйхати зерин илова кунед, то ки он тавонад
     барои ҷустуҷӯи маълумоти рамзӣ истифода бурда шавад.
+perftools-pick-local-build-directory = Интихоб кардани феҳристи сохт
 
 ## The controls for the interval at which the profiler samples the code.
 

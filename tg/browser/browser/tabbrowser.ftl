@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Пӯшидани варақа
            *[other] Пӯшидани { $tabCount } варақа
         }
+tab-splitview-splitter =
+    .aria-label = Иваз кардани андозаи варақаҳои намоиши тақсимшуда
 
 ## Tooltips for tab audio control
 ## Variables:
