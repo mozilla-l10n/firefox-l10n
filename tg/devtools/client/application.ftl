@@ -110,6 +110,13 @@ sidebar-item-manifest = Манифест
 sidebar-item-service-workers = Коргузорони хизматрасонӣ
     .alt = Нишони «Коргузорони хизматрасонӣ»
     .title = Коргузорони хизматрасонӣ
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Таърихи ҷаласа
+    .alt = Нишони таърихи ҷаласа
+    .title = Таърихи ҷаласа
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Нишон додани маълумоти таърихи ҷаласа
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Нишони огоҳкунанда

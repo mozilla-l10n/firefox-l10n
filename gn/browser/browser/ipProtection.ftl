@@ -109,10 +109,26 @@ ip-protection-exceptions-dialog-window =
 
 ## IP Protection Bandwidth
 
+ip-protection-bandwidth-header = VPN mba’ekuaarã jesygua
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Oĩntema { $usageLeft } GB { $maxUsage } GB ko jasýpe
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Oĩntema { $usageLeft } GB { $maxUsage } GB-gui
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Oĩntema { $usageLeft } MB { $maxUsage } GB ko jasýpe
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Oĩntema { $usageLeft } MB { $maxUsage } GB-gui
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jesýpe.
 
 ## IP Protection bandwidth reset callout
 
