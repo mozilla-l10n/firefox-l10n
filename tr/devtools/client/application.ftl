@@ -114,6 +114,9 @@ sidebar-item-service-workers = Service Worker’lar
 sidebar-item-session-history = Oturum geçmişi
     .alt = Oturum geçmişi simgesi
     .title = Oturum geçmişi
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Oturum geçmişi verilerini göster
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Uyarı simgesi

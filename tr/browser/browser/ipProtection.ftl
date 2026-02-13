@@ -52,6 +52,8 @@ ipprotection-button-turn-vpn-off = VPN’i kapat
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN’i her yerde kapat
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = VPN’i aç
 # Button while VPN is connecting
 ipprotection-button-connecting = Açılıyor…
 
@@ -75,6 +77,10 @@ ip-protection-site-exceptions =
     .label = Siteye özel ayarlar
 ip-protection-autostart =
     .label = VPN’i otomatik olarak aç
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Aylık VPN kotası
 
 ## IP Protection bandwidth reset callout
 
