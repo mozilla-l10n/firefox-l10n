@@ -22,8 +22,8 @@ crashed-subframe-submit =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message =
     { $reportCount ->
-        [one] Você tem um relatório de travamento não enviado
-       *[other] Você tem { $reportCount } relatórios de travamento não enviados
+        [one] Você tem um relatório de falha não enviado
+       *[other] Você tem { $reportCount } relatórios de falha não enviados
     }
 pending-crash-reports-view-all =
     .label = Ver

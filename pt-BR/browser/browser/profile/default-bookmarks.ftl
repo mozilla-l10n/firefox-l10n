@@ -34,6 +34,6 @@ default-bookmarks-mdn = Mozilla Developer Network
 # Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
 default-bookmarks-nightly-tester-tools = Ferramentas de testes do Nightly
 # Nightly builds only, link title for about:crashes
-default-bookmarks-crashes = Todos os seus travamentos
+default-bookmarks-crashes = Todas as falhas suas
 # Nightly builds only, link title for https://planet.mozilla.org/
 default-bookmarks-planet = Planet Mozilla
