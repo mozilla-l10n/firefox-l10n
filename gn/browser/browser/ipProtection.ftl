@@ -84,6 +84,7 @@ ipprotection-connection-status-generic-error-title = Ndaikatúi eike VPN-pe
 ipprotection-connection-status-generic-error-description = Eha’ã jey ndahetái aravo’i rire.
 ipprotection-connection-status-network-error-title = Ehecha oiko porãpa ne ñanduti
 ipprotection-connection-status-network-error-description = Eike ñandutípe, upéi ikatukuaáma emyady upe VPN.
+ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag̃ua tendaite ha embojuaju kundahára mbopapapyve.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
 
 ## IP Protection Settings
@@ -132,8 +133,15 @@ ip-protection-bandwidth-hit-for-the-month = Ojeporupaite { $maxUsage } GB mba’
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN rehegua, hekopyahu ha eiporukuaáma
 ipprotection-bandwidth-reset-button = Aikũmby
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN opytáva
+vpn-paused-alert-close-tabs-button = Embotypaite tendayke
+vpn-paused-alert-continue-wo-vpn-button = Eku’ejey VPN-ỹ rehe
+vpn-error-alert-title = VPN ndoikoporãi ko’ag̃aite.
+vpn-error-alert-body = Eha’ã jey ag̃ave.

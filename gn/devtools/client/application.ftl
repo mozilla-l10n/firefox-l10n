@@ -114,6 +114,9 @@ sidebar-item-service-workers = Mba’apohára mba’epytyvõrãguáva
 sidebar-item-session-history = Jeike Rembiasakue
     .alt = Jeike Rembiasakue Ra’ãnga’i
     .title = Jeike Rembiasakue
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Ehechauka jeike rembiasakue mba’ekuaarã
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ta’ãngachu’i kyhyjerã

@@ -570,3 +570,11 @@ onboarding-personalization-motivation-title = ¿Mba’etépa umi { -brand-short-
 onboarding-personalization-motivation-privacy-option = Ñemigua ha tekorosãrã
 onboarding-personalization-motivation-productivity-option = Mba’eapopya’e
 onboarding-personalization-motivation-other-option = Ambue
+
+## Onboarding 2026 brand refresh
+
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Eime eime hag̃uáme
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Emboha’eve ne ñeikundaha

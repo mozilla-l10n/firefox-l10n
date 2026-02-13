@@ -415,6 +415,25 @@ preferences-text-zoom-override-warning =
     .message = Advarsel: Hvis du vælger "Zoom kun tekst" og din standard-indstilling for zoom ikke er sat til 100%, kan det medføre at nogle websteder eller indhold ikke fungerer korrekt.
 language-header = Sprog
 choose-language-description = Vælg dit foretrukne sprog at få vist sider i
+website-preferred-language =
+    .label = Foretrukne sprog
+website-add-language =
+    .label = Tilføj sprog
+website-add-language-button =
+    .aria-label = Tilføj valgte sprog
+    .title = Tilføj valgte sprog
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Fjern { $locale }
+    .title = Fjern { $locale }
 choose-button =
     .label = Vælg…
     .accesskey = æ
@@ -842,6 +861,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Ingen websteder tilføjet endnu.
+home-custom-homepage-delete-address-button =
+    .aria-label = Slet adresse
+    .title = Slet adresse
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ingen websteder tilføjet endnu.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
