@@ -1173,6 +1173,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nuova finestra anonima
     .tooltiptext = Apri una nuova finestra anonima ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Condividi
+    .tooltiptext = Condividi questa pagina
 
 ## EME notification panel
 
