@@ -23,12 +23,15 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Presentamos VPN, ahora directamente en tu navegador
 ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = Ahora no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = Elige dónde usar la VPN
+ipprotection-site-settings-callout-subtitle = Desactiva la VPN para un sitio específico y lo recordaremos la próxima vez que lo visites.
 ipprotection-site-settings-callout-button = Entendido
 
 ## Panel
