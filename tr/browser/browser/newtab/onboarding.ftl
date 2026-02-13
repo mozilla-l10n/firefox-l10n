@@ -570,3 +570,14 @@ onboarding-personalization-motivation-title = Hangi { -brand-short-name } özell
 onboarding-personalization-motivation-privacy-option = Gizlilik ve güvenlik
 onboarding-personalization-motivation-productivity-option = Verimlilik
 onboarding-personalization-motivation-other-option = Diğer
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Verilerinizi koruyoruz ve şirketlerin tıklamalarınızı izlemesini otomatik olarak engelliyoruz.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Emin ellerdesiniz
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Gezintinizi hızlandırın
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor

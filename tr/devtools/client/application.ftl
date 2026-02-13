@@ -110,6 +110,10 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Service Worker’lar
     .alt = Service Worker’lar simgesi
     .title = Service Worker’lar
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Oturum geçmişi
+    .alt = Oturum geçmişi simgesi
+    .title = Oturum geçmişi
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Uyarı simgesi
