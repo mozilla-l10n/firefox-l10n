@@ -771,3 +771,8 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tento prostor hraje podle vašich pravidel
+newtab-activation-window-message-values-focus-message =
+    { -brand-product-name.case-status ->
+        [with-cases] { -brand-product-name } vám umožní procházet internet způsobem, který vám vyhovuje a je přizpůsoben vašemu dennímu programu. Přizpůsobte si { -brand-product-name(case: "acc") }.
+       *[no-cases] { -brand-product-name } vám umožní procházet internet způsobem, který vám vyhovuje a je přizpůsoben vašemu dennímu programu. Přizpůsobte si aplikaci { -brand-product-name }.
+    }
