@@ -27,6 +27,7 @@ profiles-rootdir = Rod-mappe
 profiles-localdir = Lokal mappe
 profiles-current-profile = Denne profil benyttes i øjeblikket og kan ikke slettes.
 profiles-in-use-profile = Denne profil benyttes i et andet program og kan derfor ikke slettes.
+profiles-cannot-delete-profile = Kan ikke slette en profil, der er knyttet til andre profiler.
 profiles-rename = Omdøb
 profiles-remove = Fjern
 profiles-set-as-default = Angiv som standardprofil
