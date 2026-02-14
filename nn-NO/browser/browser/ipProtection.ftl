@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introduserer VPN, no rett i nettlesaren din
+ipprotection-feature-introduction-link-text = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine med ekstra kryptering.
+ipprotection-feature-introduction-link-text-private-browsing = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine med ekstra kryptering, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
@@ -72,6 +74,7 @@ ipprotection-connection-status-paused-title = VPN sett på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
+upgrade-vpn-description = Vel VPN-plasseringa di, bruk VPN for alle appane dine, og på opptil 5 einingar, og ver trygg på alle nettverk — heime eller på offentleg Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -86,10 +89,14 @@ ipprotection-connection-status-network-error-description = Kople til internett, 
 ipprotection-message-bandwidth-warning =
     .heading = Du nærmar deg VPN-grensa di
     .message = Du har { $usageLeft } GB av { $maxUsage } GB att denne månaden.
+ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule posisjonen din og legge til ekstra kryptering i nettlesinga di.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Innebygd VPN for å forbetre personvernet ditt medan du surfar med { -brand-short-name }.
 ip-protection-learn-more = Les meir
 ip-protection-not-opted-in-button = Kom i gang
 ip-protection-autostart =
