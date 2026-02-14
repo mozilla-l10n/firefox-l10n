@@ -425,6 +425,7 @@ applications-handle-new-file-types-description = { -brand-short-name } وا فا
 applications-save-for-new-types =
     .label = زفت فایل
     .accesskey = S
+drm-content-header = موئتوا دؽوۉداری هۊقۊق دیجیتال (DRM)
 play-drm-content =
     .label = پشک موئتوا کونتورول وابیڌه DRM
     .accesskey = P
