@@ -577,6 +577,12 @@ onboarding-refresh-pin-set-default-subtitle = Chránime vaše údaje a automatic
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Ste v bezpečí
 onboarding-refresh-import-subtitle = Preneste si svoje heslá, záložky, históriu a ďalšie.
+onboarding-refresh-import-title = Nech sa { -brand-short-name } cíti ako doma
+onboarding-refresh-onboarding-addons-subtitle = Rozšírenia sú malé aplikácie, ktoré vám umožňujú prispôsobiť { -brand-short-name(case: "acc") }. Môžu posilniť vaše súkromie, zvýšiť produktivitu, zmeniť vzhľad { -brand-short-name(case: "gen") } a oveľa viac.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Vylepšite si prehliadanie
+onboarding-refresh-sync-subtitle = Získajte záložky, heslá a ďalšie informácie všade, kde ste prihlásení do { -brand-short-name(case: "gen") }. Navyše, vaše údaje sú šifrované, takže ich vidíte iba vy.
+onboarding-refresh-sync-title = Choďte kamkoľvek. Synchronizujte všetko.
 onboarding-refresh-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name(case: "acc") }, jediný významný prehliadač podporovaný neziskovou organizáciou. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a dostupnejší pre všetkých.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje chrbát

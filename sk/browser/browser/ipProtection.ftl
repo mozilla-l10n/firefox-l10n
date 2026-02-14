@@ -117,6 +117,11 @@ ip-protection-description =
 ip-protection-learn-more = Ďalšie informácie
 ip-protection-site-exceptions =
     .label = Nastavenia špecifické pre stránku
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
+    .message = Skryte svoju polohu a pridajte ďalšie šifrovanie do prehliadania vo { -brand-short-name(case: "loc") }. Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -130,10 +135,24 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webových stránok
         }
 ip-protection-autostart =
-    .label = Zapnúť VPN automaticky
+    .label = Automaticky zapínať VPN
+ip-protection-autostart-checkbox =
+    .label = Keď otvorím { -brand-short-name(case: "acc") }
+ip-protection-autostart-private-checkbox =
+    .label = V súkromných oknách
+ip-protection-vpn-upgrade-link =
+    .label = Získajte ešte väčšiu ochranu mimo { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
+    .description = Vyberte si vlastné umiestnenia VPN a pridajte ochranu všetkým svojim aplikáciám až na piatich zariadeniach, či už ste doma alebo na verejnej Wi‑Fi sieti.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Spravovať nastavenia webových stránok
+ip-protection-exclusions-desc = Použite VPN pre všetky webové stránky okrem tých v tomto zozname. Pridajte webovú stránku tu alebo otvorením VPN.
 
 ## IP Protection Bandwidth
 
+ip-protection-bandwidth-header = Mesačné údaje VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -153,9 +172,15 @@ ip-protection-bandwidth-left-mb = Zostáva { $usageLeft } MB z { $maxUsage } G
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa vynuluje budúci mesiac.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Obnoví sa na { $maxUsage } GB v prvý deň každý mesiac.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, obnovené a pripravené na použitie
 ipprotection-bandwidth-reset-text = Zapnite si VPN a získajte ďalšie zvýšenie súkromia, každý mesiac zadarmo.
 ipprotection-bandwidth-reset-button = Rozumiem
 

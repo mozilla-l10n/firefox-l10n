@@ -172,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Шукаць у адкрытых картках
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Пошук у чатах
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -206,6 +209,8 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 firefoxview-history-site-localhost = (лакальныя файлы)
 firefoxview-chat-date-today = Сёння - { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-yesterday = Учора - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
