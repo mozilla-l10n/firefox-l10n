@@ -577,6 +577,8 @@ onboarding-refresh-pin-set-default-subtitle = Verilerinizi koruyoruz ve şirketl
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Emin ellerdesiniz
+onboarding-refresh-import-subtitle = Parolalarınızı, yer imlerinizi, geçmişinizi ve ve diğer verilerinizi yeni tarayıcınıza taşıyın.
+onboarding-refresh-import-title = { -brand-short-name } ile kendinizi evinizde hissedin
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Gezintinizi hızlandırın
 # "has your back" is an idiom suggesting support and protection
