@@ -582,6 +582,7 @@ onboarding-refresh-import-title = Få { -brand-short-name } til at føles mere s
 onboarding-refresh-onboarding-addons-subtitle = Udvidelser er små apps, du kan bruge til at tilpasse { -brand-short-name } til dine behov. De kan sørge for, at dit privatliv er bedre beskyttet, gøre dig mere produktiv, ændre udseendet i { -brand-short-name } - og meget andet.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Giv din browsing et boost
+onboarding-refresh-sync-subtitle = Få adgang til bogmærker, adgangskoder og meget mere, overalt hvor du er logget ind på { -brand-short-name }. Desuden er dine data krypterede, så bare du kan se dem.
 onboarding-refresh-sync-title = Gå hvorhen du vil. Synkroniser overalt.
 onboarding-refresh-gratitude-subtitle = Tak for at du bruger { -brand-short-name }, den eneste store browser, der er støttet af en nonprofit-organisation. Med din hjælp gør vi internettet mere sikkert og tilgængeligt for alle.
 # "has your back" is an idiom suggesting support and protection
