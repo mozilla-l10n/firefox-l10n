@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Tilpass
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Ignorer
+    .aria-label = Ignorer
 
 ## Search box component.
 
@@ -730,3 +733,8 @@ newtab-activation-window-message-dismiss-button =
 newtab-activation-window-message-customization-focus-header = Gjer dette området til ditt eige
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Start tilpassing
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Dette området følgjer reglane dine
