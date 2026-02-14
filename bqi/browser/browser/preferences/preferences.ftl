@@ -272,6 +272,11 @@ website-remove-language-button =
 choose-button =
     .label = پسند…
     .accesskey = o
+choose-browser-language-description = زووی ک سی نشووݩ داڌن نومگه یل، پیوما وو وارسۊویا من { -brand-short-name } و کار گرؽڌه ابۊ ن پسند کۊنین.
+manage-browser-languages-button =
+    .label = سامووݩ جایونی یل…
+    .accesskey = l
+confirm-browser-language-change-description = سی ائمال ای آلشتکاری یل { -brand-short-name } ن دووارته ره ونین
 confirm-browser-language-change-button = ائمال وو ره وندن دووارته
 translate-web-pages =
     .label = ولرنیڌن موئتوا وب
@@ -306,6 +311,10 @@ settings-translations-subpage-download-delete-button =
     .label = پاک کردن
 settings-translations-subpage-download-cancel-button =
     .label = لقو
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = سی قالوو ویرگار، زمووݩ، ٱعداد وو واهدا هنداگیری، سامووا سیستوم عامل سی «{ $localeName }» و کار گرؽڌه بۊ.
 
 ## General Section - Files and Applications
 
