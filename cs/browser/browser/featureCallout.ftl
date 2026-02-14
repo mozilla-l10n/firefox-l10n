@@ -310,7 +310,10 @@ sidebar-genai-survey-productive-question =
     Do jaké míry souhlasíte nebo nesouhlasíte s tímto tvrzením:<br/>
     "Chatbot s umělou inteligencí v postranní liště mi pomáhá být produktivnější"?
 splitview-onboarding-callout-title-1 = Rozdělené zobrazení: lepší způsob multitaskingu
+splitview-onboarding-callout-subtitle-1 = Pro zobrazení dvou panelů najednou klepněte pravým tlačítkem myši na tento panel a vyberte „Přidat rozdělené zobrazení“.
 splitview-onboarding-callout-cta-1 = Vyzkoušejte nyní
+splitview-onboarding-callout-title-2 = Zobrazte si zároveň dva panely pomocí funkce rozdělené zobrazení
+splitview-onboarding-callout-subtitle-2 = Žádná okna navíc. Žádné přepínání panelů. Klepněte pravým tlačítkem myši na tento panel a zvolte „Přidat rozdělené zobrazení“.
 splitview-onboarding-callout-cta-2 = Vyzkoušet rozdělené zobrazení
 unified-search-callout-title = Přepínejte mezi vyhledávači
 unified-search-callout-subtitle = Vyberte si, co je pro vaše konkrétní vyhledávání nejvhodnější.
