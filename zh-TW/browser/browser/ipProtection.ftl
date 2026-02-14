@@ -142,6 +142,7 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = 管理網站設定
+ip-protection-exclusions-desc = 對所有網站開啟 VPN 上網，但排除此清單中的網站。可在此處或開啟 VPN 來新增網站。
 
 ## IP Protection Bandwidth
 
