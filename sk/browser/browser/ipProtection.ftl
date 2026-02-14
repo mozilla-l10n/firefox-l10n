@@ -84,10 +84,36 @@ ipprotection-connection-status-generic-error-title = Nepodarilo sa pripojiť k V
 ipprotection-connection-status-generic-error-description = Skúste to znova o pár minút.
 ipprotection-connection-status-network-error-title = Skontrolujte svoje internetové pripojenie
 ipprotection-connection-status-network-error-description = Pripojte sa na internet a potom skúste zapnúť VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Blížite sa k limitu vašej VPN
+    .message = Tento mesiac vám zostáva { $usageLeft } GB z { $maxUsage } GB.
+ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli svoju polohu a pridali ďalšie šifrovanie do prehliadania.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pre túto stránku vypnutá
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Páči sa vám vstavaná VPN? Získajte ešte väčšiu ochranu aj mimo { -brand-product-name(case: "gen") } s { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Vyberte si umiestnenie VPN a pridajte ochranu pre všetky svoje aplikácie až na 5 zariadeniach, či už ste doma alebo na verejnej Wi‑Fi sieti.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížite sa k limitu VPN.</strong> Zostáva vám { $usageLeft } GB. Vaše dáta sa vynulujú začiatkom budúceho mesiaca.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Takmer máte minulé dáta VPN.</strong> Zostáva vám { $usageLeft } GB. Keď ich všetky miniete, vaša VPN sa pozastaví, kým sa vaše dáta nevynulujú v prvý deň nasledujúceho mesiaca.
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Vstavaná VPN na zvýšenie vášho súkromia počas prehliadania webu vo{ -brand-short-name(case: "loc") }.
 ip-protection-learn-more = Ďalšie informácie
 
 ## IP Protection bandwidth reset callout

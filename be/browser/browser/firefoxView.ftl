@@ -132,6 +132,11 @@ firefoxview-synced-tabs-nav = Карткі з іншых прылад
     .title = Карткі з іншых прылад
 firefoxview-synced-tabs-header = Карткі з іншых прылад
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Чаты
+    .title = Чаты
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
