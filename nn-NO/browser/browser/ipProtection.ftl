@@ -91,7 +91,22 @@ ipprotection-message-bandwidth-warning =
     .message = Du har { $usageLeft } GB av { $maxUsage } GB att denne månaden.
 ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule posisjonen din og legge til ekstra kryptering i nettlesinga di.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Still inn VPN til å slå seg på</a> kvar gong du opnar { -brand-short-name } for eit ekstra lag med vern.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hugsar kva nettstadar du har stilt inn til å bruke VPN. Oppdater desse i <a data-l10n-name="setting-link">innstillingar</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Likar du innebygd VPN? Få endå meir vern utanfor { -brand-product-name } med { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Vel ei VPN-plassering og legg til vern for alle appane dine på opptil 5 einingar, anten du er heime eller på offentleg Wi-Fi.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du nærmar deg VPN-grensa di.</strong> Du har { $usageLeft } GB igjen. Datamengda blir nullstilt ved starten av neste månad.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du har nesten gått tom for VPN-data.</strong> Du har { $usageLeft } GB igjen. Når du har brukt opp alt, vil VPN-en din setjast på pause til dataa dine blir den første dagen tilbakestilt av neste månad.
 
 ## IP Protection Settings
 
