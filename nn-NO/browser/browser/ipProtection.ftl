@@ -74,6 +74,7 @@ ipprotection-connection-status-paused-title = VPN sett på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
+upgrade-vpn-title = Få ekstra vern utover nettleseren
 upgrade-vpn-description = Vel VPN-plasseringa di, bruk VPN for alle appane dine, og på opptil 5 einingar, og ver trygg på alle nettverk — heime eller på offentleg Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
@@ -106,7 +107,7 @@ ipprotection-bandwidth-upgrade-text = Vel ei VPN-plassering og legg til vern for
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du nærmar deg VPN-grensa di.</strong> Du har { $usageLeft } GB igjen. Datamengda blir nullstilt ved starten av neste månad.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du har nesten gått tom for VPN-data.</strong> Du har { $usageLeft } GB igjen. Når du har brukt opp alt, vil VPN-en din setjast på pause inntil dataa dine blir tilbakestilte den første dagen av neste månad.
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du har nesten gått tom for VPN-data.</strong> Du har { $usageLeft } GB igjen. Når du har brukt opp alt, vil VPN-en din setjast på pause inntil dataa dine blir tilbakestilte på den første dagen av neste månad.
 
 ## IP Protection Settings
 
@@ -137,6 +138,9 @@ ip-protection-autostart-checkbox =
     .label = Når eg opnar { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = I private vindauge
+ip-protection-vpn-upgrade-link =
+    .label = Få endå meir vern utanfor { -brand-short-name } med { -mozilla-vpn-brand-name }
+    .description = Vel eigendefinerte VPN-plasseringar og legg til vern for alle appane dine på opptil fem einingar, anten du er heime eller på offentleg Wi-Fi.
 
 ## IP Protection dialogs
 
