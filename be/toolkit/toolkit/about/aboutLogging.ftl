@@ -55,6 +55,7 @@ about-logging-preset-ml-label = Машыннае навучанне
 about-logging-preset-ml-description = Модулі журнала для дыягностыкі праблем машыннага навучання
 about-logging-preset-web-compat-label = Вэб-сумяшчальнасць
 about-logging-preset-web-compat-description = Модулі журнала для дыягностыкі праблем вэб-сумяшчальнасці
+about-logging-preset-navigation = Навігацыя
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модулі журнала для дыягностыкі праблем з WebGPU
 about-logging-preset-gfx-label = Графіка

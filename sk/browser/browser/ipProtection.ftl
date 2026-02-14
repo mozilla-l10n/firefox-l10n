@@ -42,7 +42,7 @@ unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(
 unauthenticated-hide-location-message = Skryte svoju polohu a pridajte ďalšie šifrovanie do prehliadania vo { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
+unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 unauthenticated-get-started = Začíname
 site-exclusion-toggle-label = Použiť VPN pre túto stránku
 site-exclusion-toggle-enabled =
@@ -73,9 +73,9 @@ ipprotection-button-connecting = Zapína sa…
 ipprotection-connection-status-paused-title = VPN pozastavená
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa resetuje budúci mesiac.
+ipprotection-connection-status-paused-description = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa obnoví budúci mesiac.
 upgrade-vpn-title = Získajte dodatočnú ochranu nad rámec prehliadača
-upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi-Fi sieti.
+upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi‑Fi sieti.
 upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -88,8 +88,8 @@ ipprotection-connection-status-network-error-description = Pripojte sa na intern
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
-    .heading = Blížite sa k limitu vašej VPN
-    .message = Tento mesiac vám zostáva { $usageLeft } GB z { $maxUsage } GB.
+    .heading = Blížite sa k vyčerpaniu limitu vašej VPN
+    .message = Tento mesiac vám zostáva { $usageLeft } GB z { $maxUsage } GB.
 ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli svoju polohu a pridali ďalšie šifrovanie do prehliadania.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.
@@ -104,17 +104,55 @@ ipprotection-bandwidth-upgrade-text = Vyberte si umiestnenie VPN a pridajte ochr
 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížite sa k limitu VPN.</strong> Zostáva vám { $usageLeft } GB. Vaše dáta sa vynulujú začiatkom budúceho mesiaca.
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížite sa k vyčerpaniu limitu VPN.</strong> Zostáva vám { $usageLeft } GB. Vaše dáta sa vynulujú začiatkom budúceho mesiaca.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = <strong>Takmer máte minulé dáta VPN.</strong> Zostáva vám { $usageLeft } GB. Keď ich všetky miniete, vaša VPN sa pozastaví, kým sa vaše dáta nevynulujú v prvý deň nasledujúceho mesiaca.
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Takmer máte minulé dáta VPN.</strong> Zostáva vám { $usageLeft } GB. Keď ich všetky miniete, vaša VPN sa pozastaví, kým sa vaše dáta nevynulujú v prvý deň nasledujúceho mesiaca.
 
 ## IP Protection Settings
 
 ip-protection-description =
     .label = VPN
-    .description = Vstavaná VPN na zvýšenie vášho súkromia počas prehliadania webu vo{ -brand-short-name(case: "loc") }.
+    .description = Vstavaná VPN na zvýšenie vášho súkromia počas prehliadania webu vo { -brand-short-name(case: "loc") }.
 ip-protection-learn-more = Ďalšie informácie
+ip-protection-site-exceptions =
+    .label = Nastavenia špecifické pre stránku
+ip-protection-not-opted-in-button = Začíname
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Spravovať nastavenia webových stránok
+    .description =
+        { $count ->
+            [one] { $count } webová stránka
+            [few] { $count } webové stránky
+            [many] { $count } webových stránok
+           *[other] { $count } webových stránok
+        }
+ip-protection-autostart =
+    .label = Zapnúť VPN automaticky
+
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Tento mesiac zostáva { $usageLeft } GB z { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Zostáva { $usageLeft } GB z { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Tento mesiac zostáva { $usageLeft } MB z { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Zostáva { $usageLeft } MB z { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa vynuluje budúci mesiac.
 
 ## IP Protection bandwidth reset callout
 
@@ -126,7 +164,7 @@ ipprotection-bandwidth-reset-button = Rozumiem
 vpn-paused-alert-title = VPN pozastavená
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-paused-alert-body = Využili ste celý objem { $maxUsage } GB dát pre VPN. Prístup k VPN sa resetuje budúci mesiac.
+vpn-paused-alert-body = Využili ste celý objem { $maxUsage } GB dát pre VPN. Prístup k VPN sa obnoví budúci mesiac.
 vpn-paused-alert-close-tabs-button = Zavrieť všetky karty
 vpn-paused-alert-continue-wo-vpn-button = Pokračovať bez VPN
 vpn-error-alert-title = VPN momentálne nefunguje.

@@ -136,6 +136,9 @@ firefoxview-synced-tabs-header = Карткі з іншых прылад
 
 firefoxview-chats-nav = Чаты
     .title = Чаты
+firefoxview-chats-header = Чаты
+firefoxview-chat-context-delete = Выдаліць з чатаў
+    .accesskey = В
 
 ##
 
@@ -201,6 +204,8 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (лакальныя файлы)
+firefoxview-chat-date-today = Сёння - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Учора - { DATETIME($date, dateStyle: "full") }
 
 ##
 

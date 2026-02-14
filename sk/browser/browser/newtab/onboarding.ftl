@@ -577,6 +577,6 @@ onboarding-refresh-pin-set-default-subtitle = Chránime vaše údaje a automatic
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Ste v bezpečí
 onboarding-refresh-import-subtitle = Preneste si svoje heslá, záložky, históriu a ďalšie.
-onboarding-refresh-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name }, jediný významný prehliadač podporovaný neziskovou organizáciou. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a dostupnejší pre všetkých.
+onboarding-refresh-gratitude-subtitle = Ďakujeme, že používate { -brand-short-name(case: "acc") }, jediný významný prehliadač podporovaný neziskovou organizáciou. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a dostupnejší pre všetkých.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje chrbát
