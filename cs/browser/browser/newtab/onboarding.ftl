@@ -804,4 +804,11 @@ onboarding-personalization-motivation-other-option = Jiné
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Chráníme vaše data a automaticky bráníme společnostem ve špehování vašeho klikání.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Jste v bezpečí
+onboarding-refresh-import-subtitle = Přeneste si svoje hesla, záložky, historii a další.
 onboarding-refresh-sync-title = Jděte kamkoli. Synchronizujte vše.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje záda
