@@ -341,3 +341,8 @@ etp-strict-exceptions-infobar-button = Գործադրել ուղղումները
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Ոչ հիմա
     .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-primary-button = Սահմանել որպես սկզբնադիր
+set-default-menu-message-primary-button-variant = Սահմանել որպես հիմնական դիտարկիչ

@@ -1080,6 +1080,9 @@ sync-signedout-account-signin3 =
 sync-signedout-account-signin-4 =
     .label = Մուտք գործեք ձեր հաշիվ՝ համաժամեցումը սկսելու համար
     .accesskey = i
+sync-signedout-account-short =
+    .label = Մուտք գործել
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1124,6 +1127,8 @@ sync-signedin-login-failure = Նախ մուտք գործեք { $email }
 ## $email (string) - Email used for Firefox account
 ## $name (string) - Name used for Firefox account
 
+sync-account-signed-in =
+    .label = { $email }
 sync-account-signed-in-display-name =
     .label = { $name }
     .description = { $email }
@@ -1351,6 +1356,9 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Պահված գաղտնաբառեր
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Կառավարեք պահված գաղտնաբառերը
+    .accesskey = d
 # Header for additional protections when managing password settings.
 forms-additional-protections-header =
     .label = Լրացուցիչ պաշտպանություններ
@@ -1429,6 +1437,9 @@ autofill-saved-payment-methods-button = Պահված վճարամիջոցներ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Պահանջել մուտք գործել սարք՝ լրացնելու և կառավարելու համար վճարամիջոցները
     .accesskey = o
+autofill-payment-methods-title = Վճարամիջոցներ
+autofill-payment-methods-header =
+    .aria-label = Վճարամիջոցներ
 autofill-payment-methods-manage-payments-title =
     .heading = Կառավարել վճարամիջոցները
 autofill-payment-methods-add-button = Ավելացնել նոր վճարամիջոց
@@ -1448,6 +1459,9 @@ payments-no-payments-stored-message =
 payments-remove-payment-prompt-title = Հեռացնե՞լ այս վճարամիջոցը:
 payments-remove-payment-prompt-confirm-button = Հեռացնել
 payments-remove-payment-prompt-cancel-button = Չեղարկել
+autofill-addresses-title = Հասցեներ և այլն
+autofill-addresses-header =
+    .aria-label = Հասցեներ և այլն
 addresses-list-header =
     .label = Հասցեներ
 addreses-delete-address-button-label =
