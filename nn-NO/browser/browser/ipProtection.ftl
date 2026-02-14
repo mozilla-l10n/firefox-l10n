@@ -122,6 +122,15 @@ ip-protection-not-opted-in =
     .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Skjul plasseringa di og legg til ekstra kryptering i nettlesinga i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data kvar månad.
 ip-protection-not-opted-in-button = Kom i gang
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Handsam nettstadsinnstillingar
+    .description =
+        { $count ->
+            [one] { $count } nettstad
+           *[other] { $count } nettstadar
+        }
 ip-protection-autostart =
     .label = Slå på VPN automatisk
 ip-protection-autostart-checkbox =

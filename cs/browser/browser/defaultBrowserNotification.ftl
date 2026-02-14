@@ -92,3 +92,13 @@ default-browser-guidance-notification-v2-title =
         [with-cases] Dokončete nastavení { -brand-short-name(case: "gen") } jako svého výchozího prohlížeče
        *[no-cases] Dokončete nastavení aplikace { -brand-short-name } jako svého výchozího prohlížeče
     }
+default-browser-guidance-notification-v2-body =
+    { -brand-short-name.case-status ->
+        [with-cases] V Nastavení vyberte pro { -brand-short-name(case: "acc") } možnost „Nastavit jako výchozí“.
+       *[no-cases] V Nastavení vyberte pro aplikaci { -brand-short-name } možnost „Nastavit jako výchozí“.
+    }
+default-browser-guidance-notification-v2-title-only =
+    { -brand-short-name.case-status ->
+        [with-cases] V Nastavení dokončete nastavení { -brand-short-name(case: "gen") } jako výchozího prohlížeče
+       *[no-cases] V Nastavení dokončete nastavení aplikace { -brand-short-name } jako výchozího prohlížeče
+    }
