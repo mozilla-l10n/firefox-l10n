@@ -2524,9 +2524,18 @@ preferences-ai-controls-translations-control =
     .label = Překlady
     .description = Procházejte internet plynule ve svém preferovaném jazyce.
 preferences-ai-controls-translations-more-link = Další nastavení překladu
+preferences-ai-controls-pdfjs-control =
+    .label = Alternativní text obrázku v prohlížeči PDF v aplikaci { -brand-short-name }
+    .description = Když do souborů PDF přidáte obrázky, přidá se popis, aby byly přístupné.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = Návrhy pro skupiny panelů
     .description = Získejte návrhy na pojmenování a uspořádání panelů.
+preferences-ai-controls-key-points-control =
+    .label = Klíčové body v náhledech odkazů
+    .description = Před otevřením odkazu si prohlédněte rychlé shrnutí.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Poskytovatelé chatbotů AI v postranní liště
+    .description = Při procházení webu mějte chatbota na očích. Vyberte si z Anthropic Claude, ChatGPT, Copilot, Google Gemini či Le Chat Mistral.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot v postranní liště
 # This option means that a user will see the feature and can use it.
@@ -2538,6 +2547,8 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Blokováno
+preferences-ai-controls-state-description-before = Co znamenají tyto možnosti:
+preferences-ai-controls-state-description-available = <strong>Dostupné:</strong> Funkci uvidíte a můžete ji používat.
 preferences-ai-controls-block-confirmation-heading = Blokovat vylepšování umělou inteligencí?
 preferences-ai-controls-block-confirmation-features-start = Co bude blokováno:
 preferences-ai-controls-block-confirmation-translations = Překlady
