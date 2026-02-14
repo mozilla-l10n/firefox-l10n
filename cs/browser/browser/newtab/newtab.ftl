@@ -763,6 +763,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Přizpůsobte si tento prostor
+newtab-activation-window-message-customization-focus-message = Vyberte si novou tapetu, přidejte zkratky na své oblíbené stránky a mějte přehled o novinkách, které vás zajímají.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Začít s přizpůsobováním
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
