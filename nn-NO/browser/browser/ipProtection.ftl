@@ -142,18 +142,48 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = Handsam nettstadsinnstillingar
+ip-protection-exclusions-desc = Bruk VPN for alle nettstadar unnateke dei på denne lista. Legg til ein nettstad her eller ved å opne VPN.
 
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = Månadleg VPN-data
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB av { $maxUsage } GB igjen denne månaden
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB av { $maxUsage } GB igjen
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB av { $maxUsage } GB igjen denne månaden
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB av { $maxUsage } GB igjen
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Blir nullstilt til { $maxUsage } GB den første i kvar månad.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB med VPN-data, fornya og klart til bruk
+ipprotection-bandwidth-reset-text = Slå på VPN for eit ekstra personvernløft, gratis kvar månad.
 ipprotection-bandwidth-reset-button = Eg forstår
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN sett på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. VPN-tilgangen blir nullstilt neste månad.
 vpn-paused-alert-close-tabs-button = Lat att alle faner
 vpn-paused-alert-continue-wo-vpn-button = Hald fram utan VPN
 vpn-error-alert-title = VPN fungerer ikkje akkurat no.
