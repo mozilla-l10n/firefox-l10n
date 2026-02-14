@@ -33,6 +33,7 @@ perftools-description-local-build =
     Hvis du profilerer et build, du selv har kompileret på denne maskine
     så tilføj dit builds objdir på listen nedenfor, så det kan bruges til at
     slå symbol-information op.
+perftools-pick-local-build-directory = Vælg build-mappe
 
 ## The controls for the interval at which the profiler samples the code.
 

@@ -46,6 +46,10 @@ neterror-load-error-firewall = Hvis din computer eller dit netværk er beskyttet
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Hvis du forsøger at oprette forbindelse til en lokal netværks-side, så skal du kontrollere, at { -brand-short-name } er blevet givet tilladelser for lokalt netværk under indstillingerne for anonymitet og sikkerhed.
 neterror-http-error-page = Tjek at du har indtastet webadressen korrekt.
+neterror-http-empty-response = Kontroller, at du har indtastet webstedets adresse korrekt, og prøv igen om et øjeblik.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } sendte en tom side tilbage.
 neterror-captive-portal = Dette netværk kræver, at du skal logge ind for at bruge internettet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = Undersøg om filen er blevet flyttet, omdøbt el
 neterror-access-denied = Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.
 neterror-unknown-protocol = Du er måske nødt til at installere andet software for at åbne denne adresse.
 neterror-redirect-loop = Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse af cookies er blevet nægtet.
+neterror-unknown-socket-type-client-config = Dette kan skyldes en konfigurationsfejl i din klient.
 neterror-unknown-socket-type-psm-installed = Undersøg om dit system har Personal Security Manager installeret.
 neterror-unknown-socket-type-server-config = Dette kan skyldes en ikke-standardopsætning af serveren.
 neterror-not-cached-intro = Den forespurgte side er ikke tilgængelig i { -brand-short-name }' cache.
