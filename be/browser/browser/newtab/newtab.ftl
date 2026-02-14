@@ -705,6 +705,8 @@ newtab-widget-timer-menu-notifications = Выключыць апавяшчэнн
 newtab-widget-timer-menu-notifications-on = Уключыць апавяшчэнні
 newtab-widget-timer-menu-hide = Схаваць таймер
 newtab-widget-timer-menu-learn-more = Падрабязней
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Галоўныя загалоўкі
 newtab-daily-briefing-card-menu-dismiss = Адхіліць
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
@@ -731,6 +733,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Зрабіце гэтую прастору сваёй
+newtab-activation-window-message-customization-focus-message = Выберыце новыя шпалеры, дадайце цэтлікі да вашых любімых сайтаў і будзьце ў курсе гісторый, якія вас цікавяць.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Пачаць уладкаванне
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
