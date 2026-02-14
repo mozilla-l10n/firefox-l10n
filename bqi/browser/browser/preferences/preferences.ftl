@@ -208,6 +208,12 @@ preferences-web-appearance-choice-input-light =
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-contrast-control-header = کونتورول کونتراست
+preferences-contrast-control-use-platform-settings =
+    .label = خوتکار (و کار گرؽڌن سامووا سیستوم)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = کۊر
+    .accesskey = O
 preferences-contrast-control-custom =
     .label = سفارشی
     .accesskey = C
@@ -263,6 +269,9 @@ website-add-language =
 website-remove-language-button =
     .aria-label = پاک کردن { $locale }
     .title = پاک کردن { $locale }
+choose-button =
+    .label = پسند…
+    .accesskey = o
 confirm-browser-language-change-button = ائمال وو ره وندن دووارته
 translate-web-pages =
     .label = ولرنیڌن موئتوا وب
@@ -880,6 +889,8 @@ forms-handle-cookie-banners =
 addressbar-header = نوار نشۊوی
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = نوار نشۊوی — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = قلوه دووسته بۊین
