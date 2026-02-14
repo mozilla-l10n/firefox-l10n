@@ -572,8 +572,11 @@ onboarding-personalization-motivation-other-option = Anna
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Vi vernar dataa dine og blokkerer selskap frå å spionere på klikka dine — automatisk.
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Du er trygg med Firefox
+onboarding-refresh-import-subtitle = Ta med deg passord, bokmerke, historikk, og meir.
+onboarding-refresh-import-title = Få { -brand-short-name } til å kjennast meir som heime
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passar på deg

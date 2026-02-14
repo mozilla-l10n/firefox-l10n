@@ -731,6 +731,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Gjer dette området til ditt eige
+newtab-activation-window-message-customization-focus-message = Vel eit nytt bakgrunnsbilde, legg til snarvegar til favorittnettstadane dine, og hald deg oppdatert på artiklar som interesserer deg.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Start tilpassing
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -738,3 +739,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dette området følgjer reglane dine
+newtab-activation-window-message-values-focus-message = { -brand-product-name } lèt deg surfe slik du vil, med ein meir personleg måte å starte dagen din på nettet. Gjer { -brand-product-name } til ditt eige.
