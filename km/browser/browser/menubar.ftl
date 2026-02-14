@@ -76,7 +76,7 @@ menu-file-print =
     .label = បោះពុម្ព…
     .accesskey = P
 menu-file-go-offline =
-    .label = ធ្វើ​ការដោយ​គ្មាន​អ៊ីនធឺណិត
+    .label = ធ្វើ​ការដោយអហ្វឡាញ
     .accesskey = k
 
 ## Edit Menu

@@ -35,6 +35,7 @@ ipprotection-site-settings-callout-button = Rozumím
 
 ## Panel
 
+unauthenticated-get-started = Začínáme
 site-exclusion-toggle-label = Použít VPN pro tuto stránku
 site-exclusion-toggle-enabled =
     .aria-label = VPN je pro tuto stránku zapnuta
