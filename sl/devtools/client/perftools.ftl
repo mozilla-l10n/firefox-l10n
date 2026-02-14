@@ -131,4 +131,6 @@ perftools-presets-power-label = Napajanje
 perftools-presets-power-description = Prednastavitev za preiskovanje napak pri porabi energije v { -brand-shorter-name(sklon: "mestnik") } z nizko porabo sredstev.
 perftools-presets-debug-label = Razhroščevanje
 perftools-presets-debug-description = Prednastavitev za razhroščevanje v { -brand-shorter-name(sklon: "mestnik") }. Visoka poraba sredstev – ne uporabljajte za delo pri visoki zmogljivosti, temveč za osredotočanje na razumevanje delovanja brskalnika.
+perftools-presets-web-compat-label = Spletna združljivost
+perftools-presets-web-compat-description = Priporočena prednastavitev za razhroščevanje težav s spletno združljivostjo na spletnih mestih in ne za sledenje učinkovitosti.
 perftools-presets-custom-label = Po meri

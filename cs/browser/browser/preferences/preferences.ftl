@@ -2306,6 +2306,12 @@ collection-studies-link =
         [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
        *[no-cases] Zobrazit studie aplikace { -brand-short-name }
     }
+nimbus-rollouts-enabled =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Povolit { -brand-short-name(case: "gen") } vylepšovat funkce, výkon a stabilitu mezi aktualizacemi
+           *[no-cases] Povolit aplikaci { -brand-short-name } vylepšovat funkce, výkon a stabilitu mezi aktualizacemi
+        }
 nimbus-rollouts-enabled-description = Změny budou provedeny na dálku.
 addon-recommendations2 =
     .label = Povolit personalizovaná doporučení rozšíření
@@ -2517,9 +2523,19 @@ choose-download-folder-title = Vyberte složku pro stahování souborů
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Ve { -brand-short-name(case: "loc") } máte vždy na výběr, včetně toho, zda chcete funkce vylepšené o umělou inteligenci používat. Další možnosti ovládání již brzy.
+       *[no-cases] V aplikaci { -brand-short-name } máte vždy na výběr, včetně toho, zda chcete funkce vylepšené o umělou inteligenci používat. Další možnosti ovládání již brzy.
+    }
 preferences-ai-controls-block-ai-label = Blokovat vylepšení pomocí AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Blokování znamená, že neuvidíte nová či aktuální vylepšení umělé inteligence { -brand-short-name(case: "gen") } ani žádná vyskakovací okna, která se jich týkají. <a data-l10n-name="link">Zjistěte více</a> o tom, co je zahrnuto a jak ovládat tradiční funkce strojového učení, jako jsou návrhy a doporučení pro vyhledávání.
+       *[no-cases] Blokování znamená, že neuvidíte nová či aktuální vylepšení umělé inteligence v aplikaci { -brand-short-name } ani žádná vyskakovací okna, která se jich týkají. <a data-l10n-name="link">Zjistěte více</a> o tom, co je zahrnuto a jak ovládat tradiční funkce strojového učení, jako jsou návrhy a doporučení pro vyhledávání.
+    }
 preferences-ai-controls-blocked-message =
     .message = Nová a aktuální vylepšení AI jsou ve výchozím nastavení blokována. Pro odblokování konkrétní funkce použijte ovládání níže.
 preferences-ai-controls-on-device-group =
