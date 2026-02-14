@@ -2573,12 +2573,22 @@ preferences-ai-controls-state-description-available = <strong>Dostupné:</strong
 preferences-ai-controls-state-description-enabled = <strong>Povoleno:</strong> Přihlásili jste se k používání funkce.
 preferences-ai-controls-state-description-blocked = <strong>Blokováno:</strong> Tuto funkci neuvidíte a nebudete moci používat. V případě umělé inteligence na zařízení dochází k odebrání již stažených modelů.
 preferences-ai-controls-block-confirmation-heading = Blokovat vylepšování umělou inteligencí?
+preferences-ai-controls-block-confirmation-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Ve { -brand-short-name(case: "loc") } neuvidíte nová či aktuální vylepšení od AI, ani související vyskakovací okna. Poté můžete odblokovat vše, co chcete nadále používat.
+       *[no-cases] V aplikaci { -brand-short-name } neuvidíte nová či aktuální vylepšení od AI, ani související vyskakovací okna. Poté můžete odblokovat vše, co chcete nadále používat.
+    }
 preferences-ai-controls-block-confirmation-features-start = Co bude blokováno:
 preferences-ai-controls-block-confirmation-translations = Překlady
 preferences-ai-controls-block-confirmation-pdfjs = Alternativní text obrázku v prohlížeči PDF v aplikaci { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Návrhy skupin panelů
 preferences-ai-controls-block-confirmation-key-points = Klíčové body v náhledech odkazů
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Poskytovatelé chatbotů v postranní liště
+preferences-ai-controls-block-confirmation-features-after =
+    { -brand-short-name.case-status ->
+        [with-cases] Blokování ovlivní také rozšíření, která používají umělou inteligenci poskytnutou { -brand-short-name(case: "ins") }.
+       *[no-cases] Blokování ovlivní také rozšíření, která používají umělou inteligenci poskytnutou aplikací { -brand-short-name }.
+    }
 preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušit
 preferences-ai-controls-block-confirmation-confirm =
