@@ -90,6 +90,7 @@ ipprotection-message-bandwidth-warning =
     .heading = Du nærmar deg VPN-grensa di
     .message = Du har { $usageLeft } GB av { $maxUsage } GB att denne månaden.
 ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule posisjonen din og legge til ekstra kryptering i nettlesinga di.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Still inn VPN til å slå seg på</a> kvar gong du opnar { -brand-short-name } for eit ekstra lag med vern.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
 
 ## IP Protection Settings
