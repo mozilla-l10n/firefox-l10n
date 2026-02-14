@@ -25,6 +25,8 @@ experimental-features-group-webpage-display =
     .label = Prikaz spletnih strani
 experimental-features-group-customize-browsing =
     .label = Prilagodite svoje brskanje
+experimental-features-group-productivity =
+    .label = Produktivnost
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Gesla v stranski vrstici

@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Přizpůsobit
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Zavřít
+    .aria-label = Zavřít
 
 ## Search box component.
 
@@ -747,3 +750,16 @@ newtab-promo-card-cta = Zjistit více
 newtab-promo-card-dismiss-button =
     .title = Zavřít
     .aria-label = Zavřít
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Zavřít
+    .aria-label = Zavřít
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Přizpůsobte si tento prostor

@@ -30,7 +30,7 @@ perftools-description-intro =
     Nahrávání spustí v novém panelu <a>profiler.firefox.com</a>. Všechna data jsou
     ukládána lokálně na vašem počítači, ale můžete se rozhodnout je sdílet.
 perftools-description-local-build = Pokud profilujete sestavení, které jste si sami zkompilovali na tomto zařízení, přidejte prosím objdir vašeho sestavení do níže uvedeného seznamu, abyste mohli použít vyhledávání informací o symbolech.
-perftools-pick-local-build-directory = Vyberte složku se sestavením
+perftools-pick-local-build-directory = Vyberte adresář se sestavením
 
 ## The controls for the interval at which the profiler samples the code.
 
