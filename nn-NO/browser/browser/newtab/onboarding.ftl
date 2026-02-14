@@ -578,5 +578,11 @@ onboarding-refresh-pin-set-default-subtitle = Vi vernar dataa dine og blokkerer 
 onboarding-refresh-pin-set-default-title = Du er trygg med Firefox
 onboarding-refresh-import-subtitle = Ta med deg passord, bokmerke, historikk, og meir.
 onboarding-refresh-import-title = Få { -brand-short-name } til å kjennast meir som heime
+onboarding-refresh-onboarding-addons-subtitle = Utvidingar er små appar som lèt deg tilpasse { -brand-short-name }. Dei kan styrkje personvernet ditt, auke produktiviteten, endre korleis { -brand-short-name } ser ut og, mykje meir.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Gi nettlesinga di eit løft
+onboarding-refresh-sync-subtitle = Få tilgang til bokmerke, passord og meir overalt der du er logga på { -brand-short-name }. I tillegg er dataa dine krypterte slik at berre du kan sjå dei.
+onboarding-refresh-sync-title = Drag kvar som helst. Synkroniser alt.
+onboarding-refresh-gratitude-subtitle = Takk for at du brukar { -brand-short-name }, den einaste store nettlesaren som blir støtta av ein ideell organisasjon. Med di støtte jobbar vi for å gjere internett tryggare og meir tilgjengeleg for alle.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passar på deg
