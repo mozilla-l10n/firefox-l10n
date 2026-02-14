@@ -8,11 +8,11 @@ customkeys-change = Změnit
 customkeys-reset = Výchozí
 customkeys-clear = Vymazat
 customkeys-new-key = Stiskněte novou klávesu:
-customkeys-reset-all = Obnovit všechny zkratky do výchozího stavu
+customkeys-reset-all = Obnovit všechny zkratky na výchozí hodnoty
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tato klávesa je již přiřazena k { $conflict }. Provést nahrazení?
-customkeys-reset-all-confirm = Opravdu chcete obnovit všechny klávesové zkratky do výchozího stavu?
+customkeys-reset-all-confirm = Opravdu chcete obnovit všechny klávesové zkratky na výchozí hodnoty?
 customkeys-history-reopen-tab = Obnovit naposledy zavřený panel
 customkeys-history-reopen-window = Obnovit naposledy zavřené okno
 customkeys-dev-tools = Nástroje pro webové vývojáře
