@@ -207,6 +207,8 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+preferences-contrast-control-radio-group =
+    .label = نیڌه گرؽڌن رنگا
 preferences-contrast-control-header = کونتورول کونتراست
 preferences-contrast-control-use-platform-settings =
     .label = خوتکار (و کار گرؽڌن سامووا سیستوم)
@@ -315,6 +317,9 @@ settings-translations-subpage-download-cancel-button =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = سی قالوو ویرگار، زمووݩ، ٱعداد وو واهدا هنداگیری، سامووا سیستوم عامل سی «{ $localeName }» و کار گرؽڌه بۊ.
+check-user-spelling =
+    .label = واجۊری املا هوم زمووݩ وا هؽل کردن
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -342,6 +347,7 @@ download-always-ask-where =
     .label = هی زبار جاگه زفت کردن پۊرسیڌه بۊ
     .accesskey = A
 applications-header = برنومه یل
+applications-description = یو ک چتاور { -brand-short-name } فایلا دانلود وابیڌه ز وبگه یا برنومه یلی ک مجال گشتن منه وب هونووݩ ن و کار اگیرین ن دؽوۉداری اکونه، ن پسند کۊنین.
 applications-filter =
     .placeholder = پیتینیڌن نوع فایلا یا برنومه یل
 applications-type-column =
