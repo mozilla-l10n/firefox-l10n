@@ -60,6 +60,10 @@ ipprotection-button-connecting = Açılıyor…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN duraklatıldı
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
+upgrade-vpn-title = Tarayıcının ötesinde ekstra korumaya kavuşun
 upgrade-vpn-button = { -mozilla-vpn-brand-name }’i deneyin
 
 ## Messages and errors
@@ -77,6 +81,11 @@ ip-protection-site-exceptions =
     .label = Siteye özel ayarlar
 ip-protection-autostart =
     .label = VPN’i otomatik olarak aç
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Web sitesi ayarlarını yönet
 
 ## IP Protection Bandwidth
 
