@@ -664,12 +664,44 @@ pdfjs-views-manager-layers-option-label = Пласты
 pdfjs-views-manager-add-file-button =
     .title = Дадаць файл
 pdfjs-views-manager-add-file-button-label = Дадаць файл
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] Вылучана { $count }
+        [few] Вылучаны { $count }
+       *[many] Вылучана { $count }
+    }
 pdfjs-views-manager-pages-status-none-action-label = Выбраць старонкі
 pdfjs-views-manager-pages-status-action-button-label = Кіраваць
 pdfjs-views-manager-pages-status-copy-button-label = Капіяваць
 pdfjs-views-manager-pages-status-cut-button-label = Выразаць
 pdfjs-views-manager-pages-status-delete-button-label = Выдаліць
 pdfjs-views-manager-pages-status-save-as-button-label = Захаваць як…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] Выразана { $count } старонка
+        [few] Выразана { $count } старонкі
+       *[many] Выразана { $count } старонак
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] Скапіравана { $count } старонка
+        [few] Скапіравана { $count } старонкі
+       *[many] Скапіравана { $count } старонак
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] Выдалена { $count } старонка
+        [few] Выдалена { $count } старонкі
+       *[many] Выдалена { $count } старонак
+    }
 pdfjs-views-manager-status-undo-button-label = Адмяніць
 pdfjs-views-manager-status-close-button =
     .title = Закрыць

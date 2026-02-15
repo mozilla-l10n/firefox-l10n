@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Domyślnie (bez pytania) używaj zaznaczonego profilu przy uruchamianiu
     .accesskey = D
 profile-has-selectable-profiles-title = Nie można usunąć profilu, który jest powiązany z innymi profilami
+profile-has-selectable-profiles-message = Aby usunąć ten profil, otwórz go i wybierz „Zarządzaj profilami” w sekcji profili menu { -brand-short-name(case: "gen") }. Po usunięciu wszelkich dodatkowych profili utworzonych w tym miejscu można wrócić do strony about:profiles i usunąć ten profil.
