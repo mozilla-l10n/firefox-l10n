@@ -569,3 +569,11 @@ onboarding-personalization-motivation-title = Które cechy { -brand-short-name(c
 onboarding-personalization-motivation-privacy-option = Prywatność i bezpieczeństwo
 onboarding-personalization-motivation-productivity-option = Produktywność
 onboarding-personalization-motivation-other-option = Inne
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Chronimy Twoje dane i blokujemy firmom możliwość śledzenia Twoich kliknięć — automatycznie.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Jesteś w dobrych łapkach
+onboarding-refresh-import-subtitle = Przenieś swoje hasła, zakładki, historię i nie tylko.

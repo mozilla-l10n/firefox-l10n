@@ -46,6 +46,10 @@ neterror-load-error-firewall = Jeśli ten komputer jest chroniony przez zaporę 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Jeśli próbujesz wczytać stronę w sieci lokalnej, sprawdź, czy { -brand-short-name } ma uprawnienia „Sieć lokalna” w ustawieniach prywatności i bezpieczeństwa systemu macOS.
 neterror-http-error-page = Należy sprawdzić, czy poprawnie wpisano adres witryny.
+neterror-http-empty-response = Sprawdź, czy adres witryny został poprawnie wpisany i spróbuj ponownie za chwilę.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = Witryna „{ $hostname }” odesłała pustą stronę.
 neterror-captive-portal = Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = Sprawdź, czy plik nie został przeniesiony, usu
 neterror-access-denied = Plik mógł zostać usunięty, przeniesiony lub jego uprawnienia uniemożliwiają dostęp.
 neterror-unknown-protocol = Aby otworzyć ten adres, może być konieczna instalacja innego programu.
 neterror-redirect-loop = Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.
+neterror-unknown-socket-type-client-config = Może to być spowodowane błędem konfiguracji klienta.
 neterror-unknown-socket-type-psm-installed = Należy sprawdzić, czy zainstalowany jest menedżer zabezpieczeń (PSM).
 neterror-unknown-socket-type-server-config = Powodem tego błędu może też być niestandardowa konfiguracja serwera.
 neterror-not-cached-intro = Żądany dokument nie jest dostępny w pamięci podręcznej { -brand-short-name(case: "gen") }.
