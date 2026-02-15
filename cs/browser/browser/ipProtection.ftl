@@ -162,6 +162,15 @@ ip-protection-autostart-checkbox =
         }
 ip-protection-autostart-private-checkbox =
     .label = V anonymních oknech
+ip-protection-vpn-upgrade-link =
+    .label = Získejte ještě lepší ochranu mimo aplikaci { -brand-short-name } pomocí { -mozilla-vpn-brand-name }
+    .description = Vyberte si vlastní umístění VPN a přidejte ochranu všem svým aplikacím až na pěti zařízeních, ať už jste doma nebo na veřejné Wi-Fi.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Spravovat nastavení webových stránek
+ip-protection-exclusions-desc = Používat VPN pro všechny webové stránky kromě těch v tomto seznamu. Přidejte webovou stránku zde nebo otevřením VPN.
 
 ## IP Protection Bandwidth
 
@@ -200,6 +209,9 @@ ipprotection-bandwidth-reset-button = Rozumím
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN je pozastavena
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Využili jste všech { $maxUsage } GB vašich dat VPN. Přístup k síti VPN bude příští měsíc obnoven.
 vpn-paused-alert-close-tabs-button = Zavřít všechny panely
 vpn-paused-alert-continue-wo-vpn-button = Pokračovat bez VPN
 vpn-error-alert-title = VPN právě nefunguje.
