@@ -189,6 +189,7 @@ about-glean-button-watch = Observar
 about-glean-button-unwatch = Dejar de ver
 about-glean-no-data-to-display = No hay datos para mostrar.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
+about-glean-enable-new-features-button = Habilitar nuevas funciones
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, por favor, consulta el
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Diccionario</a>.

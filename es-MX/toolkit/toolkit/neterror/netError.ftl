@@ -167,3 +167,14 @@ certerror-coep-learn-more = Obtén más información sobre las políticas de int
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Código de error: { $responsestatus } { $responsestatustext }
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-http-auth-disabled-secure-connection = Este sitio requiere una conexión segura y no puedes agregar una excepción para visitarlo.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } no confía en { $hostname } porque la conexión no es segura.
+fp-neterror-offline-what-can-you-do-body = Intenta conectarte en un dispositivo diferente. Verifica tu módem o router. Desconéctate y vuelve a conectarte al Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Intenta cambiar la URL a HTTPS. Pero es probable que haya un problema con el sitio en sí.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = A veces, los sitios web configuran protecciones para sí mismos contra interacciones no deseadas con otros sitios.
+fp-learn-more-about-https-connections = Obtén más información sobre las conexiones HTTPS

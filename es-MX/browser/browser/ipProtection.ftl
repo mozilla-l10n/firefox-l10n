@@ -44,6 +44,10 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = VPN activada
 ipprotection-connection-status-disconnected = La VPN está desactivada
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Desactivar VPN
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Activar VPN
 
 ## VPN paused state
 
