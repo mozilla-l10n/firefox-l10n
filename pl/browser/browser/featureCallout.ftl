@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Jak ocenisz swoje zadowolenie z do
 sidebar-genai-survey-productive-question =
     W jakim stopniu zgadzasz się lub nie zgadzasz z tym stwierdzeniem:<br/>
     „Czatbot oparty na sztucznej inteligencji w panelu bocznym pomaga mi zwiększyć produktywność”?
+splitview-onboarding-callout-title-1 = Podzielony widok: lepszy sposób na wielozadaniowość
+splitview-onboarding-callout-subtitle-1 = Kliknij tę kartę prawym przyciskiem i wybierz „Dodaj podzielony widok”, aby wyświetlić dwie karty jednocześnie.
+splitview-onboarding-callout-cta-1 = Wypróbuj teraz
+splitview-onboarding-callout-title-2 = Wyświetl dwie karty jednocześnie dzięki podzielonemu widokowi
+splitview-onboarding-callout-subtitle-2 = Bez dodatkowych okien. Bez przełączania kart. Kliknij tę kartę prawym przyciskiem i wybierz „Dodaj podzielony widok”.
+splitview-onboarding-callout-cta-2 = Wypróbuj podzielony widok
 unified-search-callout-title = Przełączaj się między wyszukiwarkami
 unified-search-callout-subtitle = Wybierz tę, która najlepiej odpowiada temu, co chcesz znaleźć.
 unified-search-callout-primary-label = Dalej

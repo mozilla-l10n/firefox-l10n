@@ -471,6 +471,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Wyszukaj położenie
     .aria-label = Wyszukaj położenie
 newtab-weather-menu-weather-display = Wyświetlanie pogody
+newtab-weather-todays-forecast = Prognoza na dziś
+newtab-weather-see-full-forecast = Pełna prognoza
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -483,6 +485,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Stopnie Fahrenheita
 newtab-weather-menu-temperature-option-celsius = Stopnie Celsjusza
 newtab-weather-menu-change-temperature-units-fahrenheit = Przełącz na stopnie Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Przełącz na stopnie Celsjusza
+newtab-weather-menu-hide-weather-v2 = Ukryj pogodę
 newtab-weather-menu-hide-weather = Ukryj pogodę na stronie nowej karty
 newtab-weather-menu-learn-more = Więcej informacji
 newtab-weather-menu-detect-my-location = Wykryj moje położenie
@@ -701,6 +704,12 @@ newtab-widget-timer-menu-notifications = Wyłącz powiadomienia
 newtab-widget-timer-menu-notifications-on = Włącz powiadomienia
 newtab-widget-timer-menu-hide = Ukryj minutnik
 newtab-widget-timer-menu-learn-more = Więcej informacji
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Najważniejsze nagłówki
+newtab-daily-briefing-card-menu-dismiss = Zamknij
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Zaktualizowano { $minutes } min temu
 newtab-widget-message-title = Nie trać koncentracji dzięki listom i wbudowanemu minutnikowi
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od szybkich przypomnień po codzienne listy zadań, od sesji skupienia po przerwy na rozciągnięcie — nie trać koncentracji ani czasu.
@@ -710,3 +719,16 @@ newtab-promo-card-cta = Więcej informacji
 newtab-promo-card-dismiss-button =
     .title = Zamknij
     .aria-label = Zamknij
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Zamknij
+    .aria-label = Zamknij
+newtab-activation-window-message-customization-focus-message = Wybierz nową tapetę, dodaj skróty do swoich ulubionych stron i bądź na bieżąco z artykułami, które Cię interesują.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Dostosuj
+newtab-activation-window-message-values-focus-message = { -brand-product-name } pozwala przeglądać Internet tak, jak lubisz, oferując bardziej spersonalizowany sposób na rozpoczęcie dnia w sieci. Ustaw { -brand-product-name(case: "acc") } po swojemu.
