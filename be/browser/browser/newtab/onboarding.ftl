@@ -572,8 +572,12 @@ onboarding-personalization-motivation-other-option = Іншае
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Мы абараняем вашы дадзеныя і блакуем кампаніі ад шпіянажу за вашымі клікамі  — аўтаматычна.
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Вы ў надзейных руках
 onboarding-refresh-import-subtitle = Перанясіце свае паролі, закладкі, гісторыю і іншае.
 onboarding-refresh-import-title = Зрабіце { -brand-short-name } больш утульным
+onboarding-refresh-onboarding-addons-subtitle = Пашырэнні — гэта невялікія праграмы, якія дазваляюць вам уладкаваць { -brand-short-name }. Яны могуць палепшыць вашу прыватнасць, павысіць прадукцыйнасць, змяніць знешні выгляд { -brand-short-name } і многае іншае.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Палепшыце сваё агляданне
