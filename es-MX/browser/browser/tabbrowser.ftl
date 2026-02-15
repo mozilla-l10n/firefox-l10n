@@ -374,6 +374,10 @@ tab-note-preview-expand = Leer más
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on tabs inside of a tab split view
 tabbrowser-tab-label-tab-split-view = Vista dividida
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Agregar vista dividida
+    .accesskey = t
 # Display the two selected tabs' contents side by side
 tab-context-open-in-split-view =
     .label = Abrir en vista dividida

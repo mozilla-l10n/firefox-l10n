@@ -240,6 +240,6 @@ select-translations-panel-unsupported-language-message-unknown =
     .message = Lo sentimos, todavía no manejamos este idioma.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
-    .label = Configuración de traducción.
+    .label = Ajustes de traducción
 # An announcement made to assistive technology when the translation is complete
 select-translations-panel-translation-complete-announcement = Traducción completa

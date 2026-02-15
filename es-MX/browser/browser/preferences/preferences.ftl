@@ -475,6 +475,7 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } { $size }MB)
     .label = { $language } { $size }MB)
+settings-translations-subpage-download-progress = Descarga en progreso…
 settings-translations-subpage-download-retry-button =
     .label = Intentar de nuevo
 settings-translations-subpage-download-delete-button =
