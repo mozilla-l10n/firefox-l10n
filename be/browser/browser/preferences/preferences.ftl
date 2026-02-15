@@ -2255,6 +2255,15 @@ preferences-ai-controls-translations-control =
     .label = Пераклады
     .description = Бязшвова аглядайце сеціва на сваёй пажаданай мове.
 preferences-ai-controls-translations-more-link = Дадатковыя налады перакладу
+preferences-ai-controls-pdfjs-control =
+    .label = Альтэрнатыўны тэкст выявы ў праглядальніку PDF { -brand-short-name }
+    .description = Калі вы дадаяце выявы ў PDF-файлы, да іх дадаюцца апісанні, каб зрабіць іх даступнымі.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Прапановы для груп картак
+    .description = Атрымлівайце прапановы па найменаванні і арганізацыі вашых картак.
+preferences-ai-controls-key-points-control =
+    .label = Ключавыя моманты папярэдняга прагляду спасылак
+    .description = Глядзіце хуткую зводку перад тым, як адкрыць спасылку.
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Даступны
