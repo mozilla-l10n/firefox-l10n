@@ -809,6 +809,28 @@ onboarding-refresh-pin-set-default-subtitle = Chráníme vaše data a automatick
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Jste v bezpečí
 onboarding-refresh-import-subtitle = Přeneste si svoje hesla, záložky, historii a další.
+onboarding-refresh-import-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Přizpůsobte si { -brand-short-name(case: "acc") }, abyste se v něm cítili jako doma
+       *[no-cases] Přizpůsobte si aplikaci { -brand-short-name }, abyste se v ní cítili jako doma
+    }
+onboarding-refresh-onboarding-addons-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Rozšíření jsou malé aplikace, které vám umožní přizpůsobit si { -brand-short-name(case: "acc") }. Mohou zlepšit vaše soukromí, zvýšit produktivitu, změnit vzhled { -brand-short-name(case: "gen") } a mnoho dalšího.
+       *[no-cases] Rozšíření jsou malé aplikace, které vám umožní přizpůsobit si aplikaci { -brand-short-name }. Mohou zlepšit vaše soukromí, zvýšit produktivitu, změnit vzhled aplikace { -brand-short-name } a mnoho dalšího.
+    }
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Dopřejte svému prohlížení impuls
+onboarding-refresh-sync-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Získejte své záložky, hesla a další data, kdekoli se přihlásíte do { -brand-short-name(case: "gen") }. Navíc jsou vaše data zašifrována, takže je vidíte jen vy.
+       *[no-cases] Získejte své záložky, hesla a další data, kdekoli se přihlásíte do aplikace { -brand-short-name }. Navíc jsou vaše data zašifrována, takže je vidíte jen vy.
+    }
 onboarding-refresh-sync-title = Jděte kamkoli. Synchronizujte vše.
+onboarding-refresh-gratitude-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Děkujeme, že používáte { -brand-short-name(case: "acc") }, jediný přední prohlížeč, za kterým stojí nezisková organizace. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro každého.
+       *[no-cases] Děkujeme, že používáte aplikaci { -brand-short-name }, jediný přední prohlížeč, za kterým stojí nezisková organizace. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro každého.
+    }
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje záda
