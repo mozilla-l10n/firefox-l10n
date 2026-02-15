@@ -728,7 +728,16 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Zamknij
     .aria-label = Zamknij
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Ustaw to miejsce po swojemu
 newtab-activation-window-message-customization-focus-message = Wybierz nową tapetę, dodaj skróty do swoich ulubionych stron i bądź na bieżąco z artykułami, które Cię interesują.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Dostosuj
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = To miejsce gra według Twoich zasad
 newtab-activation-window-message-values-focus-message = { -brand-product-name } pozwala przeglądać Internet tak, jak lubisz, oferując bardziej spersonalizowany sposób na rozpoczęcie dnia w sieci. Ustaw { -brand-product-name(case: "acc") } po swojemu.
