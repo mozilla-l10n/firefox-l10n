@@ -418,6 +418,9 @@ preferences-text-zoom-override-warning =
     .message = Папярэджанне: калі вы выбіраеце «Павялічваць толькі тэкст», а ваш прадвызначаны маштаб не ўсталяваны на 100%, гэта можа прывесці да няспраўнасці некаторых сайтаў або змесціва.
 language-header = Мова
 choose-language-description = Выберыце мовы, якім вы аддаяце перавагу, для прагляду старонак
+website-language-heading =
+    .label = Мова сайтаў
+    .description = Некаторыя старонкі сеціва могуць быць паказаны на некалькіх мовах. Выберыце мовы ў парадку прыярытэту.
 website-preferred-language =
     .label = Пажаданыя мовы
 website-add-language =
@@ -2238,6 +2241,10 @@ choose-download-folder-title = Выбар папкі сцягванняў:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = У { -brand-short-name } вы заўсёды маеце выбар, у тым ліку ці выкарыстоўваць функцыі, палепшаныя штучным інтэлектам. Больш элементаў кіравання будзе даступна ў бліжэйшы час.
+preferences-ai-controls-block-ai-label = Блакаваць ШІ-паляпшэнні
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Даступны
