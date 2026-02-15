@@ -731,6 +731,7 @@ urlbar-result-action-search-in-private = szukaj w prywatnym oknie
 urlbar-result-action-search-w-engine = szukaj w { $engine }
 urlbar-result-action-sponsored = sponsorowane
 urlbar-result-action-switch-tab = przełącz na kartę
+urlbar-result-action-move-tab-to-split-view = przenieś kartę do podzielonego widoku
 urlbar-result-action-visit = otwórz stronę
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -770,6 +771,14 @@ urlbar-result-action-copy-to-clipboard = kopiuj
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = wynik nieokreślony
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = rozszerzenie { -brand-product-name(case: "gen") }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = polecane
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -827,6 +836,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorowane
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = zapytaj
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -931,6 +942,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Tym razem szukaj w:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Szukaj w:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Ustawienia wyszukiwania
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
