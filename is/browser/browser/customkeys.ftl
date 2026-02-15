@@ -25,3 +25,5 @@ customkeys-nav-reload = Endurhlaða
 customkeys-nav-reload-skip-cache = Endurhlaða (Hnekkja skyndiminni)
 customkeys-nav-stop = Stöðva
 customkeys-caution-message = Þessi eiginleiki er á tilraunastigi og gæti virkað ekki eins og búast má við.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Ógildur
