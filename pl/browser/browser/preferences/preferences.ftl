@@ -292,6 +292,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = P
 browser-layout-header2 =
     .label = Układ przeglądarki
+browser-layout-horizontal-tabs2 =
+    .label = Karty poziome
+    .title = Karty na górze
+    .description = Karty na górze
+browser-layout-vertical-tabs2 =
+    .label = Karty pionowe
+    .title = Karty z boku w panelu bocznym
+    .description = Karty z boku w panelu bocznym
 browser-layout-show-sidebar2 =
     .label = Panel boczny
     .description = Szybki dostęp do zakładek, kart z telefonu, czatbotów opartych na sztucznej inteligencji i nie tylko bez wychodzenia z głównego okna
@@ -410,6 +418,28 @@ preferences-text-zoom-override-warning =
     .message = Ostrzeżenie: zaznaczenie opcji „Powiększaj tylko tekst” i ustawienie domyślnego powiększenia na inną wartość niż 100% może spowodować niepoprawne działanie niektórych stron.
 language-header = Język
 choose-language-description = Wybierz preferowany język, w jakim mają być wyświetlane strony
+website-language-heading =
+    .label = Język witryn
+    .description = Część witryn jest dostępna w wielu językach. Wybierz języki w preferowanej kolejności.
+website-preferred-language =
+    .label = Preferowane języki
+website-add-language =
+    .label = Dodaj język
+website-add-language-button =
+    .aria-label = Dodaj wybrany język
+    .title = Dodaj wybrany język
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Usuń { $locale }
+    .title = Usuń { $locale }
 choose-button =
     .label = Wybierz…
     .accesskey = e
@@ -761,6 +791,10 @@ home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwie
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Domyślna przeglądarka
+is-default-browser-2 =
+    .message = { -brand-short-name } jest domyślną przeglądarką. Dobry wybór.
 set-as-my-default-browser-2 =
     .label = Ustaw jako domyślną
     .accesskey = U
@@ -831,6 +865,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Nie dodano jeszcze żadnych stron.
+home-custom-homepage-delete-address-button =
+    .aria-label = Usuń adres
+    .title = Usuń adres
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Nie dodano jeszcze żadnych stron.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1005,6 +1042,9 @@ suggestions-addressbar-settings-generic2 = Zmień ustawienia innych podpowiedzi 
 search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header2 = Skróty wyszukiwania
 search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
+search-one-click-header-3 =
+    .label = Dodatkowe wyszukiwarki
+    .description = Wybierz, które wyszukiwarki i skróty są wyświetlane na pasku adresu.
 search-choose-engine-column =
     .label = Nazwa
 search-choose-keyword-column =
@@ -1017,6 +1057,9 @@ search-remove-engine =
     .accesskey = U
 search-add-engine =
     .label = Dodaj
+    .accesskey = o
+search-add-engine-2 =
+    .label = Dodaj wyszukiwarkę
     .accesskey = o
 search-edit-engine =
     .label = Edytuj
@@ -1380,6 +1423,10 @@ forms-additional-protections-header =
     .label = Dodatkowa ochrona
 forms-primary-pw-use =
     .label = Hasło główne.
+    .accesskey = H
+forms-primary-pw-use-2 =
+    .label = Używaj hasła głównego
+    .description = Dodaje dodatkową warstwę zabezpieczeń, aby chronić zachowane hasła.
     .accesskey = H
 forms-primary-pw-set =
     .label = Ustaw hasło główne
