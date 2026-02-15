@@ -569,3 +569,17 @@ onboarding-personalization-motivation-title = ¿Qué características de { -bran
 onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
 onboarding-personalization-motivation-productivity-option = Productividad
 onboarding-personalization-motivation-other-option = Otras
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Protegemos sus datos y bloqueamos a las empresas que espían sus clics — automáticamente.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Está en buenas manos
+onboarding-refresh-import-subtitle = Traiga sus contraseñas, marcadores, historial y más.
+onboarding-refresh-import-title = Siéntase en casa con { -brand-short-name }
+onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas aplicaciones que permiten personalizar { -brand-short-name }. Pueden mejorar la privacidad, aumentar la productividad, cambiar el aspecto de { -brand-short-name } y mucho más.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Dele un impulso a su navegación
+onboarding-refresh-sync-subtitle = Acceda a sus marcadores, contraseñas y más en cualquier lugar donde haya iniciado sesión en { -brand-short-name }. Además, los datos están cifrados para que solo usted pueda verlos.
+onboarding-refresh-sync-title = En cualquier parte. Todo sincronizado.

@@ -2256,3 +2256,35 @@ preferences-ai-controls-translations-more-link = Więcej ustawień tłumaczeń
 preferences-ai-controls-pdfjs-control =
     .label = Alternatywny tekst obrazów w przeglądarce plików PDF { -brand-short-name(case: "gen") }
     .description = Ta funkcja dodaje opisy podczas dodawania obrazów do plików PDF, aby zwiększyć ich dostępność.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Podpowiedzi grup kart
+    .description = Podpowiada, jak nazywać i organizować karty.
+preferences-ai-controls-key-points-control =
+    .label = Punkty kluczowe w podglądach odnośników
+    .description = Wyświetla krótkie streszczenie przed otwarciem odnośnika.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Dostawcy czatbotów SI w panelu bocznym
+    .description = Wyświetla czatbota na wierzchu podczas przeglądania. Wybierz spośród Anthropic Claude, ChatGPT, Copilot, Google Gemini i Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Czatbot w panelu bocznym
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Dostępne
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Włączone
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Zablokowane
+preferences-ai-controls-state-description-before = Co oznaczają te opcje:
+preferences-ai-controls-state-description-available = <strong>Dostępne:</strong> funkcja będzie widoczna i można z niej korzystać.
+preferences-ai-controls-state-description-enabled = <strong>Włączone:</strong> wybrano korzystanie z tej funkcji.
+preferences-ai-controls-state-description-blocked = <strong>Zablokowane:</strong> funkcja nie będzie widoczna i nie można z niej korzystać. W przypadku sztucznej inteligencji na urządzeniu wszystkie pobrane wcześniej modele zostaną usunięte.
+preferences-ai-controls-block-confirmation-heading = Cz zablokować ulepszenia SI?
+preferences-ai-controls-block-confirmation-description = Nie zobaczysz nowych ani obecnych ulepszeń SI w { -brand-short-name(case: "loc") } czy nawet informacji o nich. Następne można odblokować poszczególne funkcje, aby z nich korzystać.
+preferences-ai-controls-block-confirmation-features-start = Co zostanie zablokowane:
+preferences-ai-controls-block-confirmation-translations = Tłumaczenia
+preferences-ai-controls-block-confirmation-pdfjs = Alternatywny tekst obrazów w przeglądarce plików PDF { -brand-short-name(case: "gen") }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Podpowiedzi grup kart
+preferences-ai-controls-block-confirmation-key-points = Punkty kluczowe w podglądach odnośników
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Dostawcy czatbotów w panelu bocznym

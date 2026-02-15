@@ -117,3 +117,78 @@ ip-protection-description =
 ip-protection-learn-more = Saber más
 ip-protection-site-exceptions =
     .label = Ajustes específicos del sitio
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Pruebe la VPN integrada de { -brand-short-name }
+    .message = Oculte su ubicación y añada una capa adicional de cifrado a su navegación con { -brand-short-name }. Obtenga { $maxUsage } GB de datos de VPN gratis cada mes.
+ip-protection-not-opted-in-button = Comenzar
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Administrar configuración del sitio web
+    .description =
+        { $count ->
+            [one] { $count } sitio web
+           *[other] { $count } sitios web
+        }
+ip-protection-autostart =
+    .label = Activar la VPN automáticamente
+ip-protection-autostart-checkbox =
+    .label = Cuando abra { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = En ventanas privadas
+ip-protection-vpn-upgrade-link =
+    .label = Consiga aún más protección fuera de { -brand-short-name } con { -mozilla-vpn-brand-name }.
+    .description = Seleccione ubicaciones de VPN personalizadas y proteja todas las apps en hasta cinco dispositivos, tanto en casa como en una red Wi-Fi pública.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Administrar configuración del sitio web
+ip-protection-exclusions-desc = Usar VPN para todos los sitios web excepto los de esta lista. Añada un sitio web aquí o abriendo la VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Datos mensuales de VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Quedan { $usageLeft } GB de { $maxUsage } GB este mes
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Quedan { $usageLeft } GB de { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Quedan { $usageLeft } MB de { $maxUsage } GB este mes
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Quedan { $usageLeft } MB de { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Ha usado todos los { $maxUsage } GB de datos de su VPN. El acceso se restablecerá el próximo mes.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Se restablece a { $maxUsage } GB el primer día de cada mes.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualizados y listos para usar
+ipprotection-bandwidth-reset-text = Active la VPN para mejorar la privacidad, gratis todos los meses.
+ipprotection-bandwidth-reset-button = Entendido
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN en pausa
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Ha usado todos los { $maxUsage } GB de datos de su VPN. El acceso a la VPN se restablecerá el próximo mes.
+vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
+vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
+vpn-error-alert-title = La VPN no está funcionando en este momento.
+vpn-error-alert-body = Probar de nuevo más tarde.
