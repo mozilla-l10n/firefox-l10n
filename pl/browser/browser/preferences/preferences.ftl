@@ -1440,6 +1440,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Wymaganie zalogowania się na urządzeniu, aby wypełniać hasła i zarządzać nimi
+forms-os-reauth-2 =
+    .label = Wymaganie zalogowania się na urządzeniu, aby zarządzać hasłami
 forms-primary-pw-learn-more-link = Więcej informacji
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1518,6 +1520,10 @@ payments-list-item-label = <strong>Metody płatności</strong>
 payments-delete-payment-prompt-title = Czy usunąć tę metodę płatności?
 payments-delete-payment-prompt-confirm-button = Usuń
 payments-delete-payment-prompt-cancel-button = Anuluj
+payments-delete-payment-button-label =
+    .aria-label = Usuń
+payments-edit-payment-button-label =
+    .aria-label = Edytuj
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nie dodano żadnych metod płatności
@@ -2056,6 +2062,9 @@ collection-studies-description = Wypróbuj funkcje i pomysły, zanim zostaną u
 collection-studies =
     .label = Instalowanie i przeprowadzanie badań przez przeglądarkę { -brand-short-name }.
 collection-studies-link = Wyświetl badania { -brand-short-name(case: "gen") }
+nimbus-rollouts-enabled =
+    .label = { -brand-short-name } może ulepszać funkcje oraz zwiększać wydajność i stabilność pomiędzy aktualizacjami
+nimbus-rollouts-enabled-description = Zmiany będą wprowadzane zdalnie.
 addon-recommendations2 =
     .label = Personalizowane polecenia rozszerzeń
 addon-recommendations-description = Polecenia rozszerzeń, które usprawnią przeglądanie Internetu.
@@ -2156,6 +2165,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Tryb używania wyłącznie protokołu HTTPS
     .description = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2223,3 +2234,12 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = Sterowanie sztuczną inteligencją
+preferences-ai-controls-description = W { -brand-short-name(case: "loc") } zawsze masz wybór, także w korzystaniu z funkcji ulepszonych za pomocą sztucznej inteligencji. Więcej opcji sterowania wkrótce.
+preferences-ai-controls-block-ai-label = Blokuj ulepszenia SI
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
