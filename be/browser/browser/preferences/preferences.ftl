@@ -2264,9 +2264,25 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .label = Ключавыя моманты папярэдняга прагляду спасылак
     .description = Глядзіце хуткую зводку перад тым, як адкрыць спасылку.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Пастаўшчыкі чат-ботаў са штучным інтэлектам у бакавой панэлі
+    .description = Трымайце чат-бота ў полі зроку, пакуль аглядаеце. Выбірайце паміж Anthropic Claude, ChatGPT, Copilot, Google Gemini і Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Чат-бот у бакавой панэлі
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Даступны
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Уключаны
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Заблакаваны
+preferences-ai-controls-state-description-before = Што азначаюць варыянты:
+preferences-ai-controls-state-description-available = <strong>Даступна:</strong> Вы ўбачыце функцыю і зможаце ёю карыстацца.
+preferences-ai-controls-state-description-enabled = <strong>Уключана:</strong> Вы згадзіліся выкарыстоўваць гэту функцыю.
+preferences-ai-controls-state-description-blocked = <strong>Заблакавана:</strong> Вы не ўбачыце і не зможаце выкарыстоўваць гэту функцыю. Для штучнага інтэлекту на прыладзе ўсе ўжо сцягнутыя мадэлі выдаляюцца.
+preferences-ai-controls-block-confirmation-heading = Блакаваць ШІ-паляпшэнні?
 preferences-ai-controls-block-confirmation-translations = Пераклады
 preferences-ai-controls-block-confirmation-cancel =
     .label = Скасаваць
