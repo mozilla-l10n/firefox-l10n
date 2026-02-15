@@ -2243,3 +2243,16 @@ preferences-ai-controls-description = W { -brand-short-name(case: "loc") } zaws
 preferences-ai-controls-block-ai-label = Blokuj ulepszenia SI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Blokowanie oznacza, że nie zobaczysz nowych ani obecnych ulepszeń SI w { -brand-short-name(case: "loc") } czy nawet informacji o nich. <a data-l10n-name="link">Więcej informacji</a> o tym, co to obejmuje i jak sterować tradycyjnymi funkcjami uczenia maszynowego, takimi jak podpowiedzi wyszukiwania i polecenia.
+preferences-ai-controls-blocked-message =
+    .message = Nowe i obecne ulepszenia SI są domyślnie blokowane. Aby odblokować konkretną funkcję, skorzystaj z poniższych opcji sterowania.
+preferences-ai-controls-on-device-group =
+    .label = Sztuczna inteligencja na urządzeniu
+    .description = Te funkcje korzystają z małych modeli sztucznej inteligencji pobieranych na urządzenie, jeśli są włączone. Takie podejście chroni Twoją prywatność.
+preferences-ai-controls-translations-control =
+    .label = Tłumaczenia
+    .description = Płynne przeglądanie Internetu w preferowanym języku.
+preferences-ai-controls-translations-more-link = Więcej ustawień tłumaczeń
+preferences-ai-controls-pdfjs-control =
+    .label = Alternatywny tekst obrazów w przeglądarce plików PDF { -brand-short-name(case: "gen") }
+    .description = Ta funkcja dodaje opisy podczas dodawania obrazów do plików PDF, aby zwiększyć ich dostępność.

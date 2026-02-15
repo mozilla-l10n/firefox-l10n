@@ -39,7 +39,7 @@ ipprotection-site-settings-callout-button = Entendido
 ## Panel
 
 unauthenticated-vpn-title = Pruebe la VPN integrada de { -brand-product-name }
-unauthenticated-hide-location-message = Oculte su ubicación y añada un nivel adicional de cifrado a su navegación dentro de { -brand-product-name }.
+unauthenticated-hide-location-message = Oculte su ubicación y añada una capa adicional de cifrado a su navegación dentro de { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obtenga { $maxUsage } GB de datos gratuitos por la VPN cada mes.
@@ -84,3 +84,36 @@ ipprotection-connection-status-generic-error-title = No se ha podido conectar a 
 ipprotection-connection-status-generic-error-description = Inténtelo de nuevo en unos minutos.
 ipprotection-connection-status-network-error-title = Compruebe su conexión a internet
 ipprotection-connection-status-network-error-description = Conéctese a Internet y luego intente activar la VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Acercándose al límite de la VPN
+    .message = Le quedan { $usageLeft } GB de { $maxUsage } GB disponibles este mes.
+ipprotection-message-continuous-onboarding-intro = Active la VPN para ocultar su ubicación y añadir una capa adicional de cifrado a la navegación.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN para que se active</a> cada vez que abra { -brand-short-name } para una capa adicional de protección.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web se configuraron para usar la VPN. Actualice éstos en <a data-l10n-name="setting-link">configuración</a> en cualquier momento.
+confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = ¿Le gusta la VPN integrada? Consiga aún más protección fuera de { -brand-product-name } con { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Seleccione una ubicación de la VPN y proteja todas las apps en hasta 5 dispositivos, en casa o en una red Wi-Fi pública.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Se está acercando  al límite de la VPN.</strong> Le quedan { $usageLeft } GB. Los datos se restablecerán al inicio del próximo mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Casi se han terminado los datos de la VPN.</strong> Quedan { $usageLeft } GB. Una vez que se usen todos, la VPN se pausará hasta que los datos se restablezcan el primer día del próximo mes.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = VPN integrada para mejorar su privacidad mientras navega con { -brand-short-name }.
+ip-protection-learn-more = Saber más
+ip-protection-site-exceptions =
+    .label = Ajustes específicos del sitio
