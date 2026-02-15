@@ -2244,7 +2244,33 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = Tiu blokado signifas ke vi vidos nek novajn aŭ nunajn plibonigojn pri AI en { -brand-short-name } nek ŝprucaĵojn pri ili. <a data-l10n-name="link">Pli da informo</a> pri kio estas inkluzivita kaj pri kiel administri tradiciajn maŝinlernajn trajtojn, kiel serĉajn sugestoj kaj rekomendojn.
 preferences-ai-controls-blocked-message =
     .message = Nova kaj nunaj plibonigoj de AI estas norme blokitaj. Por malbloki specifan trajton uzu la regilojn malsupre.
+preferences-ai-controls-on-device-group =
+    .label = AI en la aparato mem
+    .description = Tio ĉi uzas etajn modelojn de AI, kiuj estos elŝutitaj al via aparato se vi uzas tiun ĉi trajton. Tio helpas protekti vian privatecon.
 preferences-ai-controls-translations-control =
     .label = Tradukoj
     .description = Senpene retumu en via preferata lingvo
 preferences-ai-controls-translations-more-link = Pli da agordoj pri tradukoj
+preferences-ai-controls-pdfjs-control =
+    .label = Alternativa teksto por bildoj en la PDF legilo de { -brand-short-name }
+    .description = Kiam vi aldonas bildojn al PDF dosieroj, tio ĉi aldonas priskribojn al ili, por igi ilin pli alireblaj.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugestoj pri grupoj de langetoj
+    .description = Proponoj por nomi kaj organizi viajn langetojn.
+preferences-ai-controls-key-points-control =
+    .label = Ĉefaj punktoj en antaŭvido de ligiloj
+    .description = Rapida resumo antaŭ ol malfermi ligilon.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Provizantoj de dialogantoj de AI en la flanka strio
+    .description = Tenu AI dialoganton videble ĉemane dum vi retumas. Elektu inter Anthropic Claude, ChatGPT, Copilot, Google Gemini, kaj Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Dialoganto en la flanka strio
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponebla
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Aktiva
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blokita
