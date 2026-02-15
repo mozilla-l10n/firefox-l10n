@@ -2241,7 +2241,7 @@ preferences-ai-controls-description = En { -brand-short-name } vi ĉiam elektas 
 preferences-ai-controls-block-ai-label = Bloki plibonigojn, kiuj uzas AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Tiu blokado signifas ke vi vidos nek novajn aŭ nunajn plibonigojn pri AI en { -brand-short-name } nek ŝprucaĵojn pri ili. <a data-l10n-name="link">Pli da informo</a> pri kio estas inkluzivita kaj pri kiel administri tradiciajn maŝinlernajn trajtojn, kiel serĉajn sugestoj kaj rekomendojn.
+preferences-ai-controls-block-ai-description = Tiu blokado signifas ke vi ne vidos novajn aŭ nunajn plibonigojn pri AI en { -brand-short-name } kaj ankaŭ ne ŝprucaĵojn pri ili. <a data-l10n-name="link">Pli da informo</a> pri kio estas inkluzivita kaj pri kiel administri tradiciajn maŝinlernajn trajtojn, kiel serĉajn sugestoj kaj rekomendojn.
 preferences-ai-controls-blocked-message =
     .message = Nova kaj nunaj plibonigoj de AI estas norme blokitaj. Por malbloki specifan trajton uzu la regilojn malsupre.
 preferences-ai-controls-on-device-group =
@@ -2274,3 +2274,11 @@ preferences-ai-controls-state-enabled =
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Blokita
+preferences-ai-controls-state-description-before = Signifo de ĉiu elekto:
+preferences-ai-controls-state-description-available = <strong>Disponebla:</strong> Vi vidas la trajton kaj povas uzi ĝin.
+preferences-ai-controls-state-description-enabled = <strong>Aktiva:</strong> Vi decidis aktivigi la trajton.
+preferences-ai-controls-state-description-blocked = <strong>Blokita:</strong> Vi nek vidas nek povas uzi la trajton. Por AI en la aparato mem, jam elŝutitaj modeloj estos forigitaj.
+preferences-ai-controls-block-confirmation-heading = Ĉu bloki plibonigojn, kiuj uzas AI?
+preferences-ai-controls-block-confirmation-description = Tiu blokado signifas ke vi ne vidos novajn aŭ nunajn plibonigojn pri AI en { -brand-short-name } kaj ankaŭ ne ŝprucaĵojn pri ili. Vi povas poste malbloki kion ajn vi volas plu uzi.
+preferences-ai-controls-block-confirmation-features-start = Kio estos blokita:
+preferences-ai-controls-block-confirmation-translations = Tradukoj
