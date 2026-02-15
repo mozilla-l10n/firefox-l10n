@@ -354,6 +354,8 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>បាន​រកឃើញ​ការចូល​ដែល​ស្ទួនគ្នា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
     }
+about-logins-import-dialog-items-added2 = <span>ពាក្យសម្ងាត់ថ្មីត្រូវបានបន្ថែម៖</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified2 = <span>បច្ចុប្បន្នភាពទិន្នន័យដែលមានស្រាប់៖</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>បញ្ហា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
@@ -382,6 +384,7 @@ about-logins-import-report-row-index = ជួរដេក { $number }
 about-logins-import-report-row-description-no-change = ស្ទួន៖ ត្រូវគ្នា​ជាមួយ​ការចូល​ដែល​មាន​ស្រាប់
 about-logins-import-report-row-description-modified = ការចូល​ដែល​មាន​ស្រាប់​ត្រូវបាន​ធ្វើបច្ចុប្បន្នភាព
 about-logins-import-report-row-description-added = ការចូល​ថ្មី​ត្រូវបាន​បញ្ចូល
+about-logins-import-report-row-description-no-change2 = ស្ទួន៖ ដូចគ្នាទាំងស្រុងទៅនឹងទិន្នន័យដែល​មាន​
 about-logins-import-report-row-description-modified2 = ធាតុដែលមានស្រាប់ត្រូវបានធ្វើបច្ចុប្បន្នភាព
 about-logins-import-report-row-description-added2 = បានបន្ថែមពាក្យសម្ងាត់ថ្មី
 about-logins-import-report-row-description-error = បញ្ហា៖ មិន​បាន​បញ្ចូល​កន្លែង​ណាមួយ
