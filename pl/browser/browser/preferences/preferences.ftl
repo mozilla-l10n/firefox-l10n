@@ -1543,11 +1543,11 @@ history-remember-label2 = { -brand-short-name }:
 history-remember-label = Program { -brand-short-name }:
     .accesskey = m
 history-remember-option-all =
-    .label = będzie zachowywał historię
+    .label = Zachowywanie historii
 history-remember-option-never =
-    .label = nie będzie zachowywał historii
+    .label = Bez zachowywania historii
 history-remember-option-custom =
-    .label = będzie używał ustawień użytkownika
+    .label = Inne ustawienia historii
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } zachowa historię przeglądania, wyszukiwania, pobieranych plików i danych formularzy.
@@ -1973,7 +1973,7 @@ permissions-microphone2 =
 permissions-speaker2 =
     .label = Głośniki
 permissions-notification2 =
-    .label = Powiadomienia.
+    .label = Powiadomienia
 
 ## Privacy Section - Data Collection
 
