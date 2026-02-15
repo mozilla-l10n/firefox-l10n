@@ -174,6 +174,8 @@ about-glean-label-for-filter-metrics = Filtruj
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Spowoduje to przefiltrowanie poniższej tabeli na podstawie kategorii, nazwy, typu i wartości (jeśli wartość jest typem prostym).
 about-glean-button-load-all = Wczytaj wszystkie wartości
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Eksportuj dane
 about-glean-button-load-value = Wczytaj
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentacja
