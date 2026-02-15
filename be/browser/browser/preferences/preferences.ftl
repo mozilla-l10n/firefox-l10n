@@ -2245,6 +2245,16 @@ preferences-ai-controls-description = У { -brand-short-name } вы заўсёд
 preferences-ai-controls-block-ai-label = Блакаваць ШІ-паляпшэнні
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Блакаванне азначае, што вы не будзеце бачыць новыя ці наяўыя ШІ-паляпшэнні ў { -brand-short-name }, або выплыўныя вокны пра іх. <a data-l10n-name="link">Атрымайце больш падрабязную інфармацыю</a> пра тое, што ўключана, і як кіраваць традыцыйнымі функцыямі машыннага навучання, такімі як прапановы пошуку і рэкамендацыі.
+preferences-ai-controls-blocked-message =
+    .message = Новыя і цяперашнія паляпшэнні штучнага інтэлекту прадвызначана заблакаваны. Каб разблакаваць пэўную функцыю, выкарыстайце элементы кіравання ніжэй.
+preferences-ai-controls-on-device-group =
+    .label = Штучны інтэлект на прыладзе
+    .description = Яны выкарыстоўваюць невялікія ШІ-мадэлі, якія сцягваюцца на вашу прыладу, калі вы карыстаецеся гэтай функцыяй. Такі падыход дапамагае абараніць вашу прыватнасць.
+preferences-ai-controls-translations-control =
+    .label = Пераклады
+    .description = Бязшвова аглядайце сеціва на сваёй пажаданай мове.
+preferences-ai-controls-translations-more-link = Дадатковыя налады перакладу
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Даступны
