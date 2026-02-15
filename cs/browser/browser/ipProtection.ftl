@@ -116,14 +116,50 @@ ipprotection-bandwidth-upgrade-title =
     }
 ipprotection-bandwidth-upgrade-text = Vyberte umístění pro VPN a přidejte ochranu všem svým aplikacím až na 5 zařízeních, ať už jste doma, nebo na veřejné Wi-Fi.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížíte se vyčerpání limitu VPN.</strong> Zbývá vám { $usageLeft } GB. Vaše data budou obnovena na začátku příštího měsíce.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 =
+    <strong>Data VPN jste téměř vyčerpali.</strong> Zbývá vám { $usageLeft } GB. Jakmile všechny vyčerpáte, vaše VPN se 
+    pozastaví až do začátku příštího měsíce.
+
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Vestavěná VPN pro zvýšení vašeho soukromí při procházení webu aplikací { -brand-short-name }.
 ip-protection-learn-more = Zjistit více
 ip-protection-site-exceptions =
     .label = Nastavení pro konkrétní stránku
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
+    .message = Skryjte svou polohu a přidejte další šifrování do svého procházení v aplikaci { -brand-short-name }. Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
 ip-protection-not-opted-in-button = Začít
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Spravovat nastavení webových stránek
+    .description =
+        { $count ->
+            [one] { $count } webová stránka
+            [few] { $count } webové stránky
+            [many] { $count } webových stránek
+           *[other] { $count } webových stránek
+        }
 ip-protection-autostart =
     .label = Zapnout VPN automaticky
+ip-protection-autostart-checkbox =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Když otevřu { -brand-short-name(case: "acc") }
+           *[no-cases] Když otevřu aplikaci { -brand-short-name }
+        }
 ip-protection-autostart-private-checkbox =
     .label = V anonymních oknech
 
