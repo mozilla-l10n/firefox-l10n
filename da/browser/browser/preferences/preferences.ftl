@@ -2291,3 +2291,7 @@ preferences-ai-controls-block-confirmation-tab-group-suggestions = Forslag til f
 preferences-ai-controls-block-confirmation-key-points = Hovedpunkter i forhåndsvisning af links
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbot-leverandører i sidepanelet
 preferences-ai-controls-block-confirmation-features-after = Blokering påvirker også udvidelser, der bruger AI leveret af { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Annuller
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloker

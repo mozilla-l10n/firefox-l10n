@@ -702,6 +702,8 @@ newtab-widget-timer-menu-notifications = Slå notifikationer fra
 newtab-widget-timer-menu-notifications-on = Slå notifikationer til
 newtab-widget-timer-menu-hide = Skjul timer
 newtab-widget-timer-menu-learn-more = Læs mere
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Topoverskrifter
 newtab-daily-briefing-card-menu-dismiss = Afvis
 newtab-widget-message-title = Hold fokus med lister og den indbyggede timer
 # to-dos stands for "things to do".
