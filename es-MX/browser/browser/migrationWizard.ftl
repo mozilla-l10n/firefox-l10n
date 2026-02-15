@@ -291,4 +291,4 @@ migration-wizard-progress-success-payment-methods =
     }
 migration-wizard-safari-permissions-sub-header = Para importar marcadores e historial de navegación de Safari:
 migration-wizard-safari-instructions-continue = Selecciona "Continuar"
-migration-wizard-safari-instructions-folder = Selecciona la carpeta Safari en la lista y elije “Abrir”
+migration-wizard-safari-instructions-folder = Selecciona la carpeta Safari en la lista y elige “Abrir”

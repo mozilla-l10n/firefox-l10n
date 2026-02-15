@@ -1186,7 +1186,7 @@ sync-currently-syncing-addresses = Direcciones
 sync-currently-syncing-creditcards = Tarjetas de crédito
 sync-currently-syncing-payment-methods = Métodos de pago
 sync-currently-syncing-addons = Complementos
-sync-currently-syncing-settings = Configuración
+sync-currently-syncing-settings = Ajustes
 sync-manage-options =
     .label = Administrar sincronización…
     .accesskey = M
@@ -1402,7 +1402,7 @@ forms-master-pw-fips-desc = Error al cambiar la contraseña
 forms-windows-sso =
     .label = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares
 forms-windows-sso-learn-more-link = Saber más
-forms-windows-sso-desc = Administrar las cuentas en la configuración de tu dispositivo
+forms-windows-sso-desc = Administra las cuentas en la configuración de tu dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
 
 ## OS Authentication dialog

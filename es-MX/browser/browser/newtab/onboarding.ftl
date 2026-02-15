@@ -490,14 +490,23 @@ create-backup-show-fewer =
     .label = Mostrar menos como este
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Configuración fácil
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Marcadores, historial, ajustes y más
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = No incluye contraseñas ni pagos
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = No cifrado
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = Todos los datos
 # Preceded by a green check mark indicating that these are included in the "All data" backup
 create-backup-screen-2-all-list-2 = Incluye contraseñas y pagos
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = Cifrado con contraseña
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = ¿Dónde quieres guardar tu copia de seguridad?
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = Crea una contraseña para el archivo de respaldo
+create-backup-screen-3-subtitle = Necesario para cifrar tus datos. Guárdalos en un lugar que puedas recordar.
 fx-backup-opt-in-header = Elige la ubicación del archivo
 fx-backup-opt-in-filepath-label = Elige una ubicación desde la que planees transferir los datos a un nuevo dispositivo, como OneDrive.
 fx-backup-opt-in-create-password-label = Ingresar contraseña
