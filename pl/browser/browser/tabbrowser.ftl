@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Zamknij { $tabCount } karty
            *[many] Zamknij { $tabCount } kart
         }
+tab-splitview-splitter =
+    .aria-label = Zmień rozmiar kart w podzielonym widoku
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -406,6 +408,19 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Zachowaj
     .accesskey = Z
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Więcej informacji
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znak
+        [few] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znaki
+       *[many] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } znaków
+    }
 
 ## Split View
 
@@ -425,6 +440,18 @@ tab-context-separate-split-view =
     .label = Rozdziel widok
     .accesskey = R
 tab-context-badge-new = Nowe
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, podzielony widok po lewej
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, podzielony widok po prawej
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

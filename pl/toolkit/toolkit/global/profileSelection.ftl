@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Domyślnie (bez pytania) używaj zaznaczonego profilu przy uruchamianiu
     .accesskey = D
+profile-has-selectable-profiles-title = Nie można usunąć profilu, który jest powiązany z innymi profilami

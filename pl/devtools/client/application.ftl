@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Wątki usługowe
     .alt = Ikona wątków usługowych
     .title = Wątki usługowe
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Historia sesji
+    .alt = Ikona historii sesji
+    .title = Historia sesji
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Wyświetl dane historii sesji
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona ostrzeżenia

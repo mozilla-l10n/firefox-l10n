@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     2. krok: zaznacz „Ustaw jako domyślne” przy { -brand-short-name(case: "loc") }
 default-browser-guidance-notification-info-page = Pokaż
 default-browser-guidance-notification-dismiss = Gotowe
+default-browser-guidance-notification-v2-title = Dokończ ustawianie { -brand-short-name(case: "gen") } jako domyślną przeglądarkę
+default-browser-guidance-notification-v2-body = W Ustawieniach zaznacz „Ustaw jako domyślne” przy { -brand-short-name(case: "loc") }.
+default-browser-guidance-notification-v2-title-only = Dokończ ustawianie { -brand-short-name(case: "gen") } jako domyślną przeglądarkę w Ustawieniach

@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Крок 2: Выберыце «Усталяваць па змаўчанні» для { -brand-short-name }
 default-browser-guidance-notification-info-page = Паказаць мне
 default-browser-guidance-notification-dismiss = Гатова
+default-browser-guidance-notification-v2-title = Закончыце, зрабіўшы { -brand-short-name } прадвызначаным браўзерам
+default-browser-guidance-notification-v2-body = У наладах абярыце «Зрабіць прадвызначаным» для { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Закончыце, зрабіўшы { -brand-short-name } прадвызначаным браўзерам у наладах

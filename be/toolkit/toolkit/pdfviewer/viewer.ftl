@@ -537,6 +537,7 @@ pdfjs-editor-undo-bar-message-freetext = Тэкст выдалены
 pdfjs-editor-undo-bar-message-ink = Малюнак выдалены
 pdfjs-editor-undo-bar-message-stamp = Відарыс выдалены
 pdfjs-editor-undo-bar-message-signature = Подпіс выдалены
+pdfjs-editor-undo-bar-message-comment = Каментарый выдалены
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -644,13 +645,20 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Паказаць/схаваць бакавую панэль
+pdfjs-toggle-views-manager-button-label = Паказаць/схаваць бакавую панэль
+pdfjs-views-manager-sidebar =
+    .aria-label = Бакавая панэль
 pdfjs-views-manager-view-selector-button =
     .title = Выгляд
 pdfjs-views-manager-view-selector-button-label = Выгляд
 pdfjs-views-manager-pages-title = Старонкі
+pdfjs-views-manager-outlines-title = Структура дакумента
 pdfjs-views-manager-attachments-title = Далучэнні
 pdfjs-views-manager-layers-title = Пласты
 pdfjs-views-manager-pages-option-label = Старонкі
+pdfjs-views-manager-outlines-option-label = Структура дакумента
 pdfjs-views-manager-attachments-option-label = Далучэнні
 pdfjs-views-manager-layers-option-label = Пласты
 pdfjs-views-manager-add-file-button =
