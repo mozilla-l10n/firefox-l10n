@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personalizuj
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Zamknij
+    .aria-label = Zamknij
 
 ## Search box component.
 
@@ -339,6 +342,8 @@ newtab-custom-widget-section-title = Widżety
 newtab-custom-widget-section-toggle =
     .label = Widżety
 newtab-widget-manage-title = Widżety
+newtab-widget-manage-widget-button =
+    .label = Zarządzaj widżetami
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Zamknij

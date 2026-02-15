@@ -577,3 +577,10 @@ onboarding-refresh-pin-set-default-subtitle = Chronimy Twoje dane i blokujemy f
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Jesteś w dobrych łapkach
 onboarding-refresh-import-subtitle = Przenieś swoje hasła, zakładki, historię i nie tylko.
+onboarding-refresh-onboarding-addons-subtitle = Rozszerzenia to niewielkie aplikacje, które pozwalają dostosować { -brand-short-name(case: "acc") }. Mogą one zwiększyć Twoją prywatność, poprawić wydajność, zmienić wygląd { -brand-short-name(case: "gen") } i wiele więcej.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Przeglądaj Internet wygodniej
+onboarding-refresh-sync-subtitle = Korzystaj z zakładek, haseł i nie tylko wszędzie, gdzie zalogujesz się w { -brand-short-name(case: "loc") }. Do tego Twoje dane są szyfrowane, więc tylko Ty je widzisz.
+onboarding-refresh-gratitude-subtitle = Dziękujemy za używanie { -brand-short-name(case: "gen") }, jedynej dużej przeglądarki wspieranej przez organizację non-profit. Z waszą pomocą pracujemy nad tym, aby Internet był bezpieczniejszy i bardziej dostępny dla wszystkich.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stronie
