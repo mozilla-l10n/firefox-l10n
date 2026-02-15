@@ -152,6 +152,12 @@ autofill-card-expires-month = miesiąc
 autofill-card-expires-year = rok
 autofill-card-billing-address = Adres na fakturze
 autofill-card-network = Wystawca karty
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = karty płatnicze, karty kredytowe, kredyt, karty, karty debetowe, debet, portfel, kasa
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
