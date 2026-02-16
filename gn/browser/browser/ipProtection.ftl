@@ -84,6 +84,12 @@ ipprotection-connection-status-generic-error-title = Ndaikatúi eike VPN-pe
 ipprotection-connection-status-generic-error-description = Eha’ã jey ndahetái aravo’i rire.
 ipprotection-connection-status-network-error-title = Ehecha oiko porãpa ne ñanduti
 ipprotection-connection-status-network-error-description = Eike ñandutípe, upéi ikatukuaáma emyady upe VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Og̃uahẽma VPN hu’ãme
+    .message = Ereko { $usageLeft } GB { $maxUsage } GB hembýva ko jasýpe.
 ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag̃ua tendaite ha embojuaju kundahára mbopapapyve.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
 
