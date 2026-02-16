@@ -35,3 +35,11 @@ ipprotection-site-settings-callout-button = Begrepen
 ## Panel
 
 unauthenticated-get-started = Beginnen
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Begrepen
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN gepauzeerd
