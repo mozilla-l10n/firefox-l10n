@@ -25,9 +25,18 @@ ipprotection-feature-introduction-button-primary = Επόμενο
 ipprotection-feature-introduction-button-secondary-not-now = Όχι τώρα
 ipprotection-feature-introduction-button-secondary-no-thanks = Όχι, ευχαριστώ
 
+## Site settings callout
+
+ipprotection-site-settings-callout-button = Το κατάλαβα
+
 ## Panel
 
+unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
 unauthenticated-get-started = Έναρξη
+site-exclusion-toggle-enabled =
+    .aria-label = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
+site-exclusion-toggle-disabled =
+    .aria-label = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 ipprotection-settings-link =
     .label = Ρυθμίσεις
 
@@ -35,6 +44,7 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = Το VPN είναι ενεργό
 ipprotection-connection-status-disconnected = Το VPN είναι ανενεργό
+ipprotection-connection-status-excluded = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 ipprotection-connection-status-connecting = Το VPN συνδέεται…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Απενεργοποίηση VPN
@@ -46,6 +56,11 @@ ipprotection-button-connecting = Ενεργοποίηση…
 ## VPN paused state
 
 upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-description = Δοκιμάστε ξανά σε λίγα λεπτά.
+ipprotection-connection-status-network-error-title = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 
 ## IP Protection Settings
 
@@ -75,6 +90,10 @@ ip-protection-exceptions-dialog-window =
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = Μηνιαία δεδομένα VPN
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Το κατάλαβα
 
 ## IP Protection alerts
 

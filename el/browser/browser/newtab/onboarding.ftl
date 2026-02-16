@@ -569,3 +569,8 @@ onboarding-personalization-motivation-title = Ποιες λειτουργίες 
 onboarding-personalization-motivation-privacy-option = Απόρρητο και ασφάλεια
 onboarding-personalization-motivation-productivity-option = Παραγωγικότητα
 onboarding-personalization-motivation-other-option = Άλλο
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = Το { -brand-short-name } στο πλευρό σας

@@ -152,6 +152,12 @@ autofill-card-expires-month = Μήνας λήξης
 autofill-card-expires-year = Έτος λήξης
 autofill-card-billing-address = Διεύθυνση χρέωσης
 autofill-card-network = Τύπος κάρτας
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = πιστωτικές κάρτες, πιστωτική, πιστωτικές, κάρτα, κάρτες, χρεωστικές κάρτες, χρεωστική, πορτοφόλι, ταμείο, αγορά
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

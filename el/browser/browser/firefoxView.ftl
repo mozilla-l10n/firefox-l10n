@@ -137,6 +137,8 @@ firefoxview-synced-tabs-header = Καρτέλες από άλλες συσκευ
 firefoxview-chats-nav = Συνομιλίες
     .title = Συνομιλίες
 firefoxview-chats-header = Συνομιλίες
+firefoxview-chat-context-delete = Διαγραφή από τις συνομιλίες
+    .accesskey = Δ
 
 ##
 
