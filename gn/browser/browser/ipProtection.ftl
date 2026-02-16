@@ -91,6 +91,7 @@ ipprotection-message-bandwidth-warning =
     .heading = Og̃uahẽma VPN hu’ãme
     .message = Ereko { $usageLeft } GB { $maxUsage } GB hembýva ko jasýpe.
 ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag̃ua tendaite ha embojuaju kundahára mbopapapyve.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Emboheko VPN ikatu hag̃uáicha hendy</a> oñembojuruja nove { -brand-short-name } peteĩ ñemo’ãverã.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
 
 ## IP Protection Settings
