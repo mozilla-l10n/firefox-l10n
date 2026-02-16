@@ -570,3 +570,8 @@ onboarding-personalization-motivation-title = Hokker funksjes fan { -brand-short
 onboarding-personalization-motivation-privacy-option = Privacy en befeiliging
 onboarding-personalization-motivation-productivity-option = Produktiviteit
 onboarding-personalization-motivation-other-option = Oars
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } is der foar jo

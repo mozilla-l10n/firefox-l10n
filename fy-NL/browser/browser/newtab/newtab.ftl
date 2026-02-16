@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personalisearje
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Slute
+    .aria-label = Slute
 
 ## Search box component.
 
@@ -716,3 +719,14 @@ newtab-promo-card-cta = Mear ynfo
 newtab-promo-card-dismiss-button =
     .title = Slute
     .aria-label = Slute
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Slute
+    .aria-label = Slute
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Begjinne mei oanpassen

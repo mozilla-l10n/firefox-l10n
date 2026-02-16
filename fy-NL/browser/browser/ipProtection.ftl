@@ -83,8 +83,57 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizz
 
 ip-protection-learn-more = Mear ynfo
 ip-protection-not-opted-in-button = Begjinne
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Website-ynstellingen beheare
+    .description =
+        { $count ->
+            [one] { $count } website
+           *[other] { $count } websites
+        }
+ip-protection-autostart =
+    .label = VPN automatysk ynskeakelje
+ip-protection-autostart-checkbox =
+    .label = As ik { -brand-short-name } iepenje
+ip-protection-autostart-private-checkbox =
+    .label = Yn priveefinsters
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Website-ynstellingen beheare
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Moanlikse VPN-gegevens
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB fan { $maxUsage } GB restearjend dizze moanne
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB fan { $maxUsage } GB restearjend
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB fan { $maxUsage } GB restearjend dizze moanne
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB fan { $maxUsage } GB restearjend
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. De tagong wurdt folgjende moanne opnij ynsteld.
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Begrepen
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN pauzearre
+vpn-paused-alert-close-tabs-button = Alle ljepblêden slute
 vpn-paused-alert-continue-wo-vpn-button = Trochgean sûnder VPN
 vpn-error-alert-title = VPN wurket op dit stuit net.

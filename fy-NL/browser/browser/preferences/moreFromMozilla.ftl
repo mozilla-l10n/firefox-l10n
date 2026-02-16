@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name }-AI-websitemakker
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Lear webûntwikkeling mei fergese, wiidweidige hantliedingen en referinsjes.
 more-from-moz-mdn-button = Webûntwikkeling leare
+more-from-moz-mdn-title2 = { -mdn-brand-name }
