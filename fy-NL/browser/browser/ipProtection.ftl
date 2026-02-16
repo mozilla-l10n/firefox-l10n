@@ -3,6 +3,28 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Toolbar button tooltip reflects VPN state
+
+ipprotection-button =
+    .label = VPN
+    .tooltiptext = VPN
+ipprotection-button-error =
+    .label = VPN ynskeakelje
+    .tooltiptext = VPN ynskeakelje
+
+##
+
+# The word "Beta" is intended to be uppercase in the experiment label.
+ipprotection-experiment-badge =
+    .label = BETA
+ipprotection-title = VPN
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-button-primary = Folgjende
+ipprotection-feature-introduction-button-secondary-not-now = No net
+ipprotection-feature-introduction-button-secondary-no-thanks = Nee, tankewol
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Kies wêr’t jo VPN brûke
@@ -54,3 +76,15 @@ upgrade-vpn-button = Probearje { -mozilla-vpn-brand-name }
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Kin net ferbine mei VPN
+ipprotection-connection-status-network-error-title = Kontrolearje jo ynternetferbining
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizze website
+
+## IP Protection Settings
+
+ip-protection-learn-more = Mear ynfo
+ip-protection-not-opted-in-button = Begjinne
+
+## IP Protection alerts
+
+vpn-paused-alert-continue-wo-vpn-button = Trochgean sûnder VPN
+vpn-error-alert-title = VPN wurket op dit stuit net.

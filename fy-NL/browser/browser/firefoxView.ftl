@@ -132,6 +132,12 @@ firefoxview-synced-tabs-nav = Ljepblêden fan oare apparaten
     .title = Ljepblêden fan oare apparaten
 firefoxview-synced-tabs-header = Ljepblêden fan oare apparaten
 
+## Chats in this context refers to chats saved from the AI Window Assistant
+
+firefoxview-chats-nav = Chats
+    .title = Chats
+firefoxview-chats-header = Chats
+
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -195,6 +201,10 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (lokale bestannen)
+firefoxview-chat-date-today = Hjoed – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Juster – { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
