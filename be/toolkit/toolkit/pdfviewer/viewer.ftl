@@ -647,6 +647,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Паказаць/схаваць бакавую панэль
+pdfjs-toggle-views-manager-notification-button =
+    .title = Паказаць/схаваць бакавую панэль (дакумент мае мініяцюры/змест/далучэнні/пласты)
 pdfjs-toggle-views-manager-button-label = Паказаць/схаваць бакавую панэль
 pdfjs-views-manager-sidebar =
     .aria-label = Бакавая панэль
@@ -702,6 +704,12 @@ pdfjs-views-manager-pages-status-undo-delete-label =
         [few] Выдалена { $count } старонкі
        *[many] Выдалена { $count } старонак
     }
+pdfjs-views-manager-pages-status-waiting-ready-label = Рыхтуецца ваш файл…
+pdfjs-views-manager-pages-status-waiting-uploading-label = Зацягваецца файл…
+pdfjs-views-manager-status-warning-cut-label = Не ўдалося выразаць. Абнавіце старонку і паспрабуйце зноў.
+pdfjs-views-manager-status-warning-copy-label = Не ўдалося скапіяваць. Абнавіце старонку і паспрабуйце зноў.
+pdfjs-views-manager-status-warning-delete-label = Не ўдалося выдаліць. Абнавіце старонку і паспрабуйце зноў.
+pdfjs-views-manager-status-warning-save-label = Не ўдалося захаваць. Абнавіце старонку і паспрабуйце зноў.
 pdfjs-views-manager-status-undo-button-label = Адмяніць
 pdfjs-views-manager-status-close-button =
     .title = Закрыць
