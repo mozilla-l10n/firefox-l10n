@@ -570,3 +570,20 @@ onboarding-personalization-motivation-title = Welke functies van { -brand-short-
 onboarding-personalization-motivation-privacy-option = Privacy en beveiliging
 onboarding-personalization-motivation-productivity-option = Productiviteit
 onboarding-personalization-motivation-other-option = Overig
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = We beschermen uw gegevens en voorkomen dat bedrijven uw klikken bespioneren – automatisch.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = U bent in veilige pootjes
+onboarding-refresh-import-subtitle = Breng uw wachtwoorden, bladwijzers, geschiedenis en meer over.
+onboarding-refresh-import-title = Laat { -brand-short-name } meer als thuis voelen
+onboarding-refresh-onboarding-addons-subtitle = Extensies zijn kleine apps waarmee u { -brand-short-name } kunt aanpassen. Ze kunnen uw privacy verbeteren, uw productiviteit verbeteren, het uiterlijk van { -brand-short-name } veranderen, en nog veel meer.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Geef uw navigatie een boost
+onboarding-refresh-sync-subtitle = Download bladwijzers, wachtwoorden en meer, overal waar u bent aangemeld bij { -brand-short-name }. Bovendien worden uw gegevens versleuteld, zodat alleen u ze kunt zien.
+onboarding-refresh-sync-title = Ga overal heen. Synchroniseer alles.
+onboarding-refresh-gratitude-subtitle = Bedankt voor het gebruik van { -brand-short-name }, de enige grote browser die wordt gesteund door een non-profitorganisatie. Met uw steun werken we eraan om het internet voor iedereen veiliger en meer toegankelijk te maken.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } is er voor u
