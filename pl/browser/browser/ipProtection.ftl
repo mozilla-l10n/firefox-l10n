@@ -98,3 +98,22 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jest wyłączony
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Lubisz wbudowaną sieć VPN? Korzystaj z jeszcze większej ochrony poza { -brand-product-name(case: "ins") } za pomocą { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Wybieraj położenie VPN i dodaj ochronę do wszystkich aplikacji na nawet 5 urządzeniach, w domu czy w publicznej sieci Wi-Fi.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Zbliżasz się do ograniczenia VPN.</strong> Pozostało { $usageLeft } GB. Ilość danych zostanie przywrócona na początku przyszłego miesiąca.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Prawie skończyły Ci się dane VPN.</strong> Pozostało { $usageLeft } GB. Po ich wykorzystaniu VPN wstrzyma działanie do czasu przywrócenia ilości danych pierwszego dnia przyszłego miesiąca.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = Wbudowana sieć VPN zwiększa prywatność podczas przeglądania w { -brand-short-name(case: "loc") }.
+ip-protection-learn-more = Więcej informacji
+ip-protection-site-exceptions =
+    .label = Ustawienia poszczególnych witryn
