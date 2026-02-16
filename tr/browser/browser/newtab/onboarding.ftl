@@ -579,6 +579,7 @@ onboarding-refresh-pin-set-default-subtitle = Verilerinizi koruyoruz ve şirketl
 onboarding-refresh-pin-set-default-title = Emin ellerdesiniz
 onboarding-refresh-import-subtitle = Parolalarınızı, yer imlerinizi, geçmişinizi ve ve diğer verilerinizi yeni tarayıcınıza taşıyın.
 onboarding-refresh-import-title = { -brand-short-name } ile kendinizi evinizde hissedin
+onboarding-refresh-onboarding-addons-subtitle = Uzantılar { -brand-short-name } tarayıcınızı özelleştiren küçük uygulamalardır. Gizliliğinizi ve verimliliğinizi artırabilir, { -brand-short-name } tarayıcısının görünümünü değiştirebilir, daha pek çok şey yapabilirler.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Gezintinizi hızlandırın
 # "has your back" is an idiom suggesting support and protection

@@ -25,14 +25,17 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
+ipprotection-feature-introduction-button-secondary-no-thanks = Hayır
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = VPN’i nerede kullanacağınızı seçin
+ipprotection-site-settings-callout-subtitle = Belirli bir sitede VPN’i kapatırsanız o siteye tekrar girdiğinizde bu kararınızı hatırlarız.
 ipprotection-site-settings-callout-button = Anladım
 
 ## Panel
 
+unauthenticated-get-started = Kullanmaya başlayın
 site-exclusion-toggle-label = Bu sitede VPN kullan
 site-exclusion-toggle-enabled =
     .aria-label = Bu sitede VPN açık
@@ -79,8 +82,27 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapal�
 ip-protection-learn-more = Daha fazla bilgi al
 ip-protection-site-exceptions =
     .label = Siteye özel ayarlar
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Yerleşik { -brand-short-name } VPN’i deneyin
+    .message = { -brand-short-name } ile gezinirken konumunuzu gizleyebilir, ekstra şifreleme ile güvenliği artırabilirsiniz. Her ay { $maxUsage } GB VPN kotası ücretsizdir.
+ip-protection-not-opted-in-button = Başla
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Web sitesi ayarlarını yönet
+    .description =
+        { $count ->
+            [one] { $count } web site
+           *[other] { $count } web site
+        }
 ip-protection-autostart =
     .label = VPN’i otomatik olarak aç
+ip-protection-autostart-checkbox =
+    .label = { -brand-short-name } tarayıcısını açtığımda
+ip-protection-autostart-private-checkbox =
+    .label = Gizli pencerelerde
 
 ## IP Protection dialogs
 
