@@ -190,3 +190,6 @@ vpn-paused-alert-title = Wstrzymano VPN
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp do VPN zostanie przywrócony w przyszłym miesiącu.
 vpn-paused-alert-close-tabs-button = Zamknij wszystkie karty
+vpn-paused-alert-continue-wo-vpn-button = Kontynuuj bez VPN
+vpn-error-alert-title = VPN obecnie nie działa.
+vpn-error-alert-body = Spróbować ponownie później.
