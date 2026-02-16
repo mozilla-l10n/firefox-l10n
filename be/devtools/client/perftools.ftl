@@ -33,6 +33,7 @@ perftools-description-local-build =
     Калі вы прафілюеце зборку, якую вы зкампілявалі самі, на гэтай
     машыне, калі ласка, дадайце objdir вашай зборкі ў спіс ніжэй, каб
     яго можна было выкарыстоўваць для пошуку інфармацыі пра сімвалы.
+perftools-pick-local-build-directory = Выберыце каталог зборкі
 
 ## The controls for the interval at which the profiler samples the code.
 
