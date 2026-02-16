@@ -117,3 +117,76 @@ ip-protection-description =
 ip-protection-learn-more = Więcej informacji
 ip-protection-site-exceptions =
     .label = Ustawienia poszczególnych witryn
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
+    .message = Ukryj swoje położenie i dodaj dodatkowe szyfrowanie podczas przeglądania w { -brand-short-name(case: "loc") }. Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
+ip-protection-not-opted-in-button = Zacznij teraz
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Zarządzaj ustawieniami witryn
+    .description =
+        { $count ->
+            [one] { $count } witryna
+            [few] { $count } witryny
+           *[many] { $count } witryn
+        }
+ip-protection-autostart =
+    .label = Automatycznie włączaj VPN
+ip-protection-autostart-checkbox =
+    .label = Podczas otwierania { -brand-short-name(case: "gen") }
+ip-protection-autostart-private-checkbox =
+    .label = W trybie prywatnym
+ip-protection-vpn-upgrade-link =
+    .label = Korzystaj z jeszcze większej ochrony poza { -brand-short-name(case: "ins") } za pomocą { -mozilla-vpn-brand-name }
+    .description = Wybieraj dowolne położenie VPN i dodaj ochronę do wszystkich aplikacji na nawet pięciu urządzeniach, w domu czy w publicznej sieci Wi-Fi.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Zarządzaj ustawieniami witryn
+ip-protection-exclusions-desc = Używaj VPN na wszystkich witrynach poza wymienionymi na tej liście. Dodaj witrynę w tym miejscu lub otwierając VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Miesięczne dane VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Pozostało { $usageLeft } GB z { $maxUsage } GB na ten miesiąc
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Pozostało { $usageLeft } GB z { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Pozostało { $usageLeft } MB z { $maxUsage } GB na ten miesiąc
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Pozostało { $usageLeft } MB z { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp zostanie przywrócony w przyszłym miesiącu.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Zostaje przywrócone do { $maxUsage } GB pierwszego dnia każdego miesiąca.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB danych VPN, odświeżone i gotowe do użycia
+ipprotection-bandwidth-reset-text = Włącz VPN i zapewnij sobie wzmocnienie prywatności, bezpłatnie co miesiąc.
+ipprotection-bandwidth-reset-button = OK
+
+## IP Protection alerts
+
+vpn-paused-alert-title = Wstrzymano VPN
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp do VPN zostanie przywrócony w przyszłym miesiącu.
+vpn-paused-alert-close-tabs-button = Zamknij wszystkie karty
