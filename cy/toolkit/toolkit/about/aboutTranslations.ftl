@@ -5,7 +5,7 @@
 # The title of the about:translations page.
 about-translations-title = Cyfieithiadau { -brand-short-name }
 # The brief description of the Translations functionality on the page.
-about-translations-description = Cyfieithiadau sydyn sy'n parchu'ch preifatrwydd.
+about-translations-description = Cyfieithu sydyn sy'n parchu'ch preifatrwydd.
 about-translations-learn-more-link = Darllen rhagor
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =

@@ -377,13 +377,13 @@ preferences-web-appearance-footer = Rheoli themâu { -brand-short-name } yn <a d
 preferences-contrast-control-header = Rheoli Cyferbyniad
 preferences-contrast-control-description = Mae gan wefannau amrywiaeth o liwiau blaendir a chefndir. Ffurfweddwch { -brand-short-name } i ddefnyddio'r un lliwiau ar draws gwefannau i wella darllenadwyedd.
 preferences-contrast-control-use-platform-settings =
-    .label = Awtomatig (defnyddiwch osodiadau system)
+    .label = Awtomatig (defnyddio gosodiadau'r system)
     .accesskey = A
 preferences-contrast-control-off =
     .label = Diffodd
     .accesskey = D
 preferences-contrast-control-custom =
-    .label = Cyfaddas
+    .label = Cyfaddasu
     .accesskey = C
 preferences-colors-header = Lliwiau
 preferences-colors-description = Diystyru lliwiau rhagosodedig { -brand-short-name } mewn perthynas â thestun, cefndiroedd gwefannau a dolenni.
@@ -426,7 +426,7 @@ preferences-zoom-text-only =
 preferences-text-zoom-override-warning =
     .message = Rhybudd: Os fyddwch yn dewis “Chwyddo testun yn unig” ac nad yw'ch chwyddo rhagosodedig wedi'i osod i 100%, gall achosi i rai gwefannau neu gynnwys dorri.
 language-header = Iaith
-choose-language-description = Dewiswch eich dewis o iaith i ddangos tudalennau
+choose-language-description = Dewiswch pa iaith i ddangos tudalennau
 website-language-heading =
     .label = Iaith gwefan
     .description = Mae rhai gwefannau'n cael eu dangos mewn nifer o ieithoedd. Dewiswch ieithoedd yn ôl eich trefn.
@@ -469,8 +469,8 @@ translate-exceptions =
     .label = Eithriadau…
     .accesskey = i
 settings-translations-header =
-    .label = Cyfieithiadau
-    .aria-label = Cyfieithiadau
+    .label = Cyfieithu
+    .aria-label = Cyfieithu
     .description = Cyfieithu tudalennau neu ddewis testun. I ddiogelu eich preifatrwydd, mae cyfieithiadau'n aros ar eich dyfais.
 settings-translations-offer-to-translate-label =
     .label = Cynnig cyfieithiad tudalen lawn
@@ -615,8 +615,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Defnyddio { $plugin-name } (yn { -brand-short-name })
-applications-open-inapp =
-    .label = Agorwch yn { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -1858,7 +1856,7 @@ enhanced-tracking-protection-setting-strict =
     .label = Llym
     .accesskey = L
 enhanced-tracking-protection-setting-custom =
-    .label = Cyfaddas
+    .label = Cyfaddasu
     .accesskey = C
 
 ##

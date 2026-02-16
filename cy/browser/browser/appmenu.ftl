@@ -216,7 +216,7 @@ profiler-popup-presets-web-compat-description = Rhagosodiad sy'n cael eu hargyme
 profiler-popup-presets-web-compat-label =
     .label = Web Compat
 profiler-popup-presets-custom-label =
-    .label = Cyfaddas
+    .label = Cyfaddasu
 
 ## History panel
 

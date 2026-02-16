@@ -37,9 +37,9 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Rheoli ieithoedd
-translations-panel-settings-about = Ynghylch cyfieithiadau yn { -brand-shorter-name }
+translations-panel-settings-about = Ynghylch cyfieithu yn { -brand-shorter-name }
 translations-panel-settings-about2 =
-    .label = Ynghylch cyfieithiadau yn { -brand-shorter-name }
+    .label = Ynghylch cyfieithu yn { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -118,7 +118,7 @@ translations-panel-restore-button =
 
 ## Firefox Translations language management in about:preferences.
 
-translations-manage-header = Cyfieithiadau
+translations-manage-header = Cyfieithu
 translations-manage-settings-button =
     .label = Gosodiadau…
     .accesskey = G
@@ -143,7 +143,7 @@ translations-manage-error-delete = Bu gwall wrth ddileu'r ffeiliau iaith. Ceisiw
 translations-manage-error-remove = Bu gwall wrth dynnu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-list = Wedi methu â chael y rhestr o ieithoedd sydd ar gael i'w cyfieithu. Ail-lwythwch y dudalen i geisio eto.
 translations-settings-title =
-    .title = Gosodiadau Cyfieithiadau
+    .title = Gosodiadau Cyfieithu
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
