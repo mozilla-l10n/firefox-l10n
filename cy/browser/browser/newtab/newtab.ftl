@@ -718,7 +718,7 @@ newtab-daily-briefing-card-timestamp = Diweddarwyd { $minutes }m yn ôl
 newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.
-newtab-promo-card-title = Cefnogwch { -brand-product-name }
+newtab-promo-card-title = Cefnogi { -brand-product-name }
 newtab-promo-card-body = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 newtab-promo-card-cta = Dysgu rhagor
 newtab-promo-card-dismiss-button =

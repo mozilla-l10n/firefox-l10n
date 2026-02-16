@@ -615,6 +615,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Defnyddio { $plugin-name } (yn { -brand-short-name })
+applications-open-inapp =
+    .label = Agor yn { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -639,7 +641,7 @@ applications-use-os-default-label =
 
 ##
 
-applications-handle-new-file-types-description = Beth ddylai { -brand-short-name } ei wneud gyda ffeiliau eraill?
+applications-handle-new-file-types-description = Beth ddylai { -brand-short-name } wneud gyda ffeiliau eraill?
 applications-save-for-new-types =
     .label = Cadw'r ffeiliau
     .accesskey = f
@@ -823,7 +825,7 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (Rhagosodedig)
 home-mode-choice-custom =
-    .label = URLau Cyfaddasu...
+    .label = URLau Cyfaddas...
 home-mode-choice-blank =
     .label = Tudalen Wag
 home-homepage-custom-url =
@@ -932,7 +934,7 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Nodau Tudalen
 home-prefs-highlights-option-most-recent-download =
-    .label = Llwytho i Lawr Mwyaf Diweddar
+    .label = Y Llwytho i Lawr Diweddaraf
 home-prefs-highlights-option-saved-to-pocket =
     .label = Tudalennau wedi eu Cadw i { -pocket-brand-name }
 home-prefs-recent-activity-header =
@@ -959,7 +961,7 @@ home-prefs-timer-header =
     .label = Amserydd
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Cefnogwch { -brand-product-name }
+    .label = Cefnogi { -brand-product-name }
 home-prefs-mission-message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-mission-message-learn-more-link = Dyma sut
 home-prefs-mission-message2 =
@@ -1897,7 +1899,7 @@ content-blocking-and-isolating-etp-warning-description-4 = Mae { -brand-short-na
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-warning-learn-how = Sut mae gwneud
 content-blocking-baseline-exceptions-3 =
-    .label = Datrys problemau mawr gwefan (argymell)
+    .label = Datrys problemau mawr gwefannau (argymell)
     .description = Yn helpu i lwytho gwefannau a nodweddion trwy ddadrwystro dim ond elfennau hanfodol sy'n gallu cynnwys tracwyr. Mae'n datrys y problemau mwyaf cyffredin.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =

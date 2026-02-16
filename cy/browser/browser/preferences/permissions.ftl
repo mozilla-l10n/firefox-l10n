@@ -79,7 +79,7 @@ permissions-invalid-uri-label = Rhoi cyfeiriad e-bost dilys
 permissions-exceptions-etp-window2 =
     .title = Eithriadau ar gyfer Diogelwch Uwch Rhag Tracio
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = Gallwch nodi pa wefannau sydd â Diogelwch Uwch Rhg Tracio wedi'i ddiffodd. Teipiwch union gyfeiriad y wefan rydych chi am ei rheoli ac yna cliciwch ar Ychwanegu Eithriad.
+permissions-exceptions-manage-etp-desc = Gallwch nodi pa wefannau sydd â Diogelwch Uwch Rhag Tracio wedi'i ddiffodd. Teipiwch union gyfeiriad y wefan rydych chi am ei rheoli ac yna cliciwch ar Ychwanegu Eithriad.
 
 ## Exceptions - Cookies
 
