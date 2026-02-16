@@ -728,3 +728,5 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Απόρριψη
     .aria-label = Απόρριψη
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Έναρξη προσαρμογής

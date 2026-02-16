@@ -110,6 +110,10 @@ sidebar-item-manifest = Δήλωση
 sidebar-item-service-workers = Service worker
     .alt = Εικονίδιο service worker
     .title = Service worker
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Ιστορικό συνεδρίας
+    .alt = Εικονίδιο ιστορικού συνεδρίας
+    .title = Ιστορικό συνεδρίας
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Εικονίδιο προειδοποίησης

@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Δημιουργία ι
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Μάθετε προγραμματισμό web με δωρεάν, ολοκληρωμένους οδηγούς και αναφορές.
 more-from-moz-mdn-button = Εκμάθηση προγραμματισμού web
+more-from-moz-mdn-title2 = { -mdn-brand-name }

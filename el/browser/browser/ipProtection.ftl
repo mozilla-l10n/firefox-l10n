@@ -35,6 +35,7 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = Το VPN είναι ενεργό
 ipprotection-connection-status-disconnected = Το VPN είναι ανενεργό
+ipprotection-connection-status-connecting = Το VPN συνδέεται…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Απενεργοποίηση VPN
 # Button to turn on the VPN
@@ -48,6 +49,10 @@ upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Ενσωματωμένο VPN για την ενίσχυση του απορρήτου σας κατά την περιήγηση με το { -brand-short-name }.
+ip-protection-learn-more = Μάθετε περισσότερα
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
