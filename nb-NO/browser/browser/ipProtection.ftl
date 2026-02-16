@@ -107,7 +107,7 @@ ipprotection-bandwidth-upgrade-text = Velg en VPN-plassering og legg til beskytt
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du nærmer deg VPN-grensen din.</strong> Du har { $usageLeft } GB igjen. Datamengden nullstilles ved starten av neste måned.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du nærmer deg VPN-grensen din.</strong> Du har { $usageLeft } GB igjen. Datamengden nullstilles ved starten av neste måned.
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du har nesten brukt opp VPN-dataene dine.</strong> Du har { $usageLeft } GB igjen. Når du har brukt opp alt, blir VPN-en satt på pause til dataene dine blir nullstilt den første dagen i neste måned.
 
 ## IP Protection Settings
 
