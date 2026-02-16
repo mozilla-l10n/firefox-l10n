@@ -108,7 +108,7 @@ about-telemetry-telemetry-ping-type-all = усе
 about-telemetry-histogram-copy = Капіяваць
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Паказ чыннікаў SQL у галоўнай нізцы
-about-telemetry-slow-sql-other = Паказ чыннікаў SQL у дапаможных нізках
+about-telemetry-slow-sql-other = Павольныя SQL-запыты ў дапаможных патоках
 about-telemetry-slow-sql-hits = Штуршкі
 about-telemetry-slow-sql-average = Сяр. час (мс)
 about-telemetry-slow-sql-statement = Чыннік
