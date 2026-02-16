@@ -75,3 +75,26 @@ ipprotection-connection-status-paused-title = Wstrzymano VPN
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp zostanie przywrócony w przyszłym miesiącu.
 upgrade-vpn-title = Dodatkowa ochrona poza przeglądarką
+upgrade-vpn-description = Wybieraj swoje położenie VPN, korzystaj z VPN we wszystkich aplikacjach i na nawet 5 urządzeniach oraz zachowaj bezpieczeństwo w każdej sieci — w domu czy w publicznej sieci Wi-Fi.
+upgrade-vpn-button = Wypróbuj { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = Nie można połączyć z siecią VPN
+ipprotection-connection-status-generic-error-description = Spróbuj ponownie za kilka minut.
+ipprotection-connection-status-network-error-title = Sprawdź połączenie z Internetem
+ipprotection-connection-status-network-error-description = Połącz się z Internetem i wtedy spróbuj włączyć VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Zbliżasz się do ograniczenia VPN
+    .message = Pozostało { $usageLeft } GB z { $maxUsage } GB na ten miesiąc.
+ipprotection-message-continuous-onboarding-intro = Włącz VPN, aby ukryć swoje położenie i dodać dodatkowe szyfrowanie podczas przeglądania.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ustaw włączanie VPN</a> za każdym razem, gdy otwierasz { -brand-short-name(case: "acc") }, aby zapewnić dodatkową warstwę ochrony.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } zapamięta, które witryny mają korzystać z VPN. W każdej chwili można je zmienić w <a data-l10n-name="setting-link">ustawieniach</a>.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jest wyłączony na tej witrynie
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Lubisz wbudowaną sieć VPN? Korzystaj z jeszcze większej ochrony poza { -brand-product-name(case: "ins") } za pomocą { -mozilla-vpn-brand-name }.
