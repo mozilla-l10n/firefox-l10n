@@ -592,6 +592,14 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = پسند شؽوات زمینه
 home-prefs-choose-wallpaper-link2 =
     .label = پسند شؽوات زمینه
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ردیف
+           *[other] { $num } ردیف
+        }
 
 ## Search Section
 
