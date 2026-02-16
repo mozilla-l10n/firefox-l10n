@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Запускати вибраний профіль без запиту
     .accesskey = В
+profile-has-selectable-profiles-title = Неможливо видалити профіль, пов'язаний з іншими профілями
+profile-has-selectable-profiles-message = Щоб видалити цей профіль, відкрийте його та виберіть "Керувати профілями" в розділі профілів меню { -brand-short-name }. Після видалення будь-яких додаткових профілів, які ви тут створили, можна повернутися до about:profiles і видалити цей профіль.

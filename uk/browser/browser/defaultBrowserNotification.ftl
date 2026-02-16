@@ -42,3 +42,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Крок 4: виберіть його і натисніть кнопку "Установити за замовчуванням" вгорі
 default-browser-guidance-notification-info-page = Показати мені
 default-browser-guidance-notification-dismiss = Готово
+default-browser-guidance-notification-v2-title = Зробіть { -brand-short-name } своїм типовим браузером
+default-browser-guidance-notification-v2-body = У налаштуваннях виберіть “Встановити типовим” для { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Зробіть { -brand-short-name } своїм типовим браузером

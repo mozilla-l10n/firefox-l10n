@@ -20,6 +20,17 @@ permission-dialog-description-file-app = Дозволити цьому файл�
 permission-dialog-description-extension-app = Дозволити розширенню { $extension } відкрити посилання { $scheme } за допомогою { $appName }?
 permission-dialog-description-system-app = Відкрити посилання { $scheme } за допомогою { $appName }?
 permission-dialog-description-system-noapp = Відкрити посилання { $scheme }?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Дозволити цьому сайту відкривати ваш цифровий гаманець?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Відкриття посилання <strong>{ $scheme }</strong> дозволяє <strong>{ $host }</strong> запитувати ваші справжні особисті дані за допомогою <strong>{ $appName }</strong>. Продовжуйте, лише якщо ви довіряєте цьому сайту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Відкриття посилання <strong>{ $scheme }</strong> дозволяє цьому сайту запитувати ваші справжні особисті дані за допомогою <strong>{ $appName }</strong>. Продовжуйте, лише якщо ви довіряєте цьому сайту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Відкриття посилання <strong>{ $scheme }</strong> дозволяє <strong>{ $host }</strong> запитувати ваші справжні особисті дані з цифрового гаманця. Продовжуйте, лише якщо ви довіряєте цьому сайту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Відкриття посилання <strong>{ $scheme }</strong> дозволяє цьому сайту запитувати ваші справжні особисті дані з цифрового гаманця. Продовжуйте, лише якщо ви довіряєте цьому сайту.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
