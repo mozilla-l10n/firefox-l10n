@@ -543,6 +543,12 @@ home-custom-homepage-address =
     .placeholder = زیذن نشۊوی
 home-custom-homepage-address-button =
     .label = ٱووردن نشۊوی
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with = جایونی کردن وا
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+home-custom-homepage-current-pages-button =
+    .label = بلگه یل گۊشیڌه وابیڌه هیم سکویی
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-bookmarks-button =
     .label = نشووکا…
@@ -586,6 +592,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = زمووݩ سنج
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = لادرار { -brand-product-name }
 home-prefs-manage-topics-link = دؽوۉداری سرتالا
 home-prefs-manage-topics-link2 =
     .label = دؽوۉداری سرتالا
@@ -614,6 +623,7 @@ search-suggestions-option =
 search-show-suggestions-option =
     .label = نشووݩ داڌن پؽشنهاڌا پیتینیڌن
     .accesskey = S
+suggestions-addressbar-settings-generic2 = آلشت سامووا سی پوی پؽشنهاڌا من نوار نشۊوی
 search-one-click-header2 = پیتینیڌن ره نهنگا
 search-choose-engine-column =
     .label = موتور پیتینیڌن
