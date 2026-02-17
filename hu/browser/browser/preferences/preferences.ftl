@@ -78,6 +78,8 @@ close-button =
     .aria-label = Bezárás
 do-not-track-removal2 =
     .label = Már nem támogatjuk a „Do Not Track” jelzést
+applications-setting-new-file-types =
+    .label = Mit tegyen a { -brand-short-name } más fájlokkal?
 
 ## Browser Restart Dialog
 
