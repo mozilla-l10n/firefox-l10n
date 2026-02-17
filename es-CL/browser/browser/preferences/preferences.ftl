@@ -78,6 +78,8 @@ close-button =
     .aria-label = Cerrar
 do-not-track-removal2 =
     .label = Ya no soportamos la señal “No rastrear”
+applications-setting-new-file-types =
+    .label = ¿Qué debiera hacer { -brand-short-name } con otros archivos?
 
 ## Browser Restart Dialog
 
@@ -803,7 +805,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Página de inicio y ventanas nuevas
 home-homepage-new-windows =
     .label = Nuevas ventanas
-home-homepage-mode-label2 = Nuevas ventanas
 home-newtabs-mode-label = Nuevas pestañas
 home-homepage-new-tabs =
     .label = Nuevas pestañas
@@ -824,8 +825,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elige un sitio específico
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Elige un sitio específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +839,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
-home-homepage-header = Página de inicio
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1512,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Añadir nuevo método de pago
 payments-list-header =
     .label = Métodos de pago
-payments-list-item-label = <strong>Métodos de pago</strong>
 payments-delete-payment-prompt-title = ¿Eliminar este método de pago?
 payments-delete-payment-prompt-confirm-button = Borrar
 payments-delete-payment-prompt-cancel-button = Cancelar
@@ -1525,9 +1522,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = No se han añadido métodos de pago
-payments-remove-payment-prompt-title = ¿Eliminar este método de pago?
-payments-remove-payment-prompt-confirm-button = Eliminar
-payments-remove-payment-prompt-cancel-button = Cancelar
 autofill-addresses-title = Direcciones y más
 autofill-addresses-header =
     .aria-label = Direcciones y más
@@ -1729,11 +1723,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Barra de direcciones
-addressbar-suggest-1 = Elige qué sugerencias se muestran en tu barra de direcciones
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Sugerencias de { -brand-short-name } y nuestros socios en tu barra de direcciones.
 addressbar-suggest = Al usar la barra de direcciones, sugerir
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de direcciones — { -firefox-suggest-brand-name }
@@ -1790,10 +1779,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar las sugerencias de búsqueda más populares
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Sugerencias de { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Recibe sugerencias de la web relacionadas con tu búsqueda.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugerencias de { -brand-short-name }
