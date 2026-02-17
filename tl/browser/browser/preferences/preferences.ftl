@@ -267,6 +267,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Lagi kang tanungin kung saan magse-save ng mga file
     .accesskey = A
+applications-setting =
+    .label = Mga Application
+    .description = Piliin kung ano ang gagawin ng { -brand-short-name } sa mga file na iyong na-download mula sa web o mga application na iyong ginagamit habang nagba-browse.
 applications-header = Mga Application
 applications-description = Piliin kung ano ang gagawin ng { -brand-short-name } sa mga file na iyong na-download mula sa web o mga application na iyong ginagamit habang nagba-browse.
 applications-filter =
@@ -382,6 +385,9 @@ update-in-progress-ok-button = Isantabi
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Magpatuloy
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performance
@@ -492,6 +498,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gumamit ng Bookmark...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -663,6 +675,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Hindi pa verified ang { $email }.
 sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -972,6 +989,12 @@ sitedata-cookies-exceptions =
 cookies-site-data-group =
     .label = Mga Cookie at Site Data
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Address Bar
@@ -1159,6 +1182,9 @@ collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa b
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1208,8 +1234,14 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Huwag i-enable ang HTTPS-Only Mode
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Mga Download
 choose-download-folder-title = Pumili ng Download Folder:
+
+## AI controls page
+
