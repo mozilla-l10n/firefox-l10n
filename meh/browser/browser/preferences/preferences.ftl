@@ -51,6 +51,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 restart-later = Nakajie'e inka ichi
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -182,6 +193,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Ntaka ichi katu´un nuu´u nenu chuva´aní da archivos
     .accesskey = N
+applications-setting =
+    .label = Da ka̱a̱
+    .description = Kaji naja { -brand-short-name } tetiñu da archivos xinuu nuu web a xíín da inka ka̱a̱ ni'inu ntaka nánukunu.
 applications-header = Da ka̱a̱
 applications-description = Kaji naja { -brand-short-name } tetiñu da archivos xinuu nuu web a xíín da inka ka̱a̱ ni'inu ntaka nánukunu.
 applications-filter =
@@ -290,6 +304,9 @@ update-in-progress-ok-button = &Xita
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Naja satiñu
@@ -392,6 +409,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ni´i marcador...
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -549,6 +572,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Kuni kune'ya de ya'a kuvi... { $email } noo'o
 sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -730,6 +758,9 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
@@ -823,6 +854,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies ji datos nuu ya´a
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -963,6 +1000,9 @@ collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1001,8 +1041,14 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Nxinuu
 choose-download-folder-title = Kaji carpeta chuva´a da nxinuun:
+
+## AI controls page
+
