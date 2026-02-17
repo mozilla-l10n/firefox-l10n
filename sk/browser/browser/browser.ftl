@@ -568,6 +568,9 @@ browser-window-restore-down-button =
     .tooltiptext = Obnoviť nadol
 browser-window-close-button =
     .tooltiptext = Zavrieť
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Návrat späť
 
 ## Tab actions
 
@@ -1186,6 +1189,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nové súkromné okno
     .tooltiptext = Otvorí nové súkromné okno ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Zdieľať
+    .tooltiptext = Zdieľať túto stránku
 
 ## EME notification panel
 

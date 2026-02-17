@@ -569,9 +569,11 @@ applications-filter =
 applications-type-column =
     .label = Typ obsahu
     .accesskey = T
+applications-type-heading = Typ obsahu
 applications-action-column =
     .label = Akcia
     .accesskey = A
+applications-action-heading = Akcia
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Súbor { $extension }
@@ -1052,6 +1054,8 @@ search-one-click-desc = Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobraz
 search-one-click-header-3 =
     .label = Ďalšie vyhľadávače
     .description = Vyberte, ktoré vyhľadávače a skratky sa zobrazujú v paneli s adresou.
+update-search-engine-success =
+    .message = Vyhľadávač bol úspešne aktualizovaný
 search-choose-engine-column =
     .label = Vyhľadávací modul
 search-choose-keyword-column =
