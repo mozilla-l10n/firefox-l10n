@@ -78,6 +78,8 @@ close-button =
     .aria-label = Zamknij
 do-not-track-removal2 =
     .label = Nagłówek „Do Not Track” (prośba o nieśledzenie) nie jest już obsługiwany
+applications-setting-new-file-types =
+    .label = Co { -brand-short-name } ma robić z innymi plikami?
 
 ## Browser Restart Dialog
 
