@@ -569,6 +569,9 @@ browser-window-restore-down-button =
     .tooltiptext = Wótnowiś
 browser-window-close-button =
     .tooltiptext = Zacyniś
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Slědk
 
 ## Tab actions
 
@@ -1190,6 +1193,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nowe priwatne wokno
     .tooltiptext = Nowe priwatne wokno wócyniś ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Źěliś
+    .tooltiptext = Toś ten bok źěliś
 
 ## EME notification panel
 

@@ -572,9 +572,11 @@ applications-filter =
 applications-type-column =
     .label = Wopśimjeśowy typ
     .accesskey = W
+applications-type-heading = Wopśimjeśowy typ
 applications-action-column =
     .label = Akcija
     .accesskey = A
+applications-action-heading = Akcija
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Dataja { $extension }
@@ -1056,6 +1058,8 @@ search-one-click-desc = Wubjeŕśo alternatiwne pytnice, kótarež se pód adres
 search-one-click-header-3 =
     .label = Pśidatne pytnice
     .description = Wubjeŕśo, kótare pytnice a zwězanja maju se we wašom adresowem pólu zjawiś.
+update-search-engine-success =
+    .message = Pytnica jo se wuspěšnje zaktualizěrowała
 search-choose-engine-column =
     .label = Pytnica
 search-choose-keyword-column =
