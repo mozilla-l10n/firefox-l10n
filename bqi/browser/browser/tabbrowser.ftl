@@ -74,6 +74,19 @@ tabbrowser-confirm-open-multiple-tabs-button = گۊشیڌن بلگه یل
 
 tabbrowser-confirm-close-all-duplicate-tabs-button-closetabs = بستن بلگه یل
 
+## Context menu buttons, of which only one will be visible at a time
+
+tabbrowser-context-mute-tab =
+    .label = بؽ دونگ کردن بلگه
+    .accesskey = M
+tabbrowser-context-unmute-tab =
+    .label = وا دونگ کردن بلگه
+    .accesskey = m
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = بؽ دونگ کردن بلگه یل
+    .accesskey = M
+
 ## Tab manager menu buttons
 ## Variables:
 ##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be

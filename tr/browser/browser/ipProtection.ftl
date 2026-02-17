@@ -84,6 +84,15 @@ ipprotection-connection-status-generic-error-title = VPN’e bağlanılamadı
 ipprotection-connection-status-generic-error-description = Birkaç dakika sonra yeniden deneyin.
 ipprotection-connection-status-network-error-title = İnternet bağlantınızı kontrol edin
 ipprotection-connection-status-network-error-description = İnternete bağlandıktan sonra VPN’i açmayı deneyin.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = VPN kotanız dolmak üzere
+    .message = Bu ayki { $maxUsage } GB kotanızdan { $usageLeft } GB kaldı.
+ipprotection-message-continuous-onboarding-intro = Konumunuzu gizlemek ve gezintilerinize ekstra şifreleme eklemek için VPN’i açabilirsiniz.
+ipprotection-message-continuous-onboarding-autostart = Ekstra koruma için { -brand-short-name } tarayıcınızı her açtığınızda <a data-l10n-name="setting-link">VPN’i açılacak şekilde ayarlayabilirsiniz</a>.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hangi sitelerde VPN kullandığınızı hatırlayacaktır. Bunları istediğiniz zaman <a data-l10n-name="setting-link">ayarlar</a> üzerinden güncelleyebilirsiniz.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapalı
 
 ## IP Protection Settings
