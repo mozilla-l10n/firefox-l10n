@@ -367,9 +367,6 @@ tab-note-editor-character-limit =
 
 ## Split View
 
-# Split view tabs display their respective contents side by side
-# Displayed within the tooltip on tabs inside of a tab split view
-tabbrowser-tab-label-tab-split-view = Chế độ chia cửa sổ
 # Open a new tab next to the current tab and display their contents side by side
 tab-context-add-split-view =
     .label = Chế độ chia cửa sổ

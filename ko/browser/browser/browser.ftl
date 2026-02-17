@@ -1496,7 +1496,6 @@ urlbar-trust-icon-notsecure-label = 안전하지 않음
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = 이 사이트에서 <span>{ $count }</span>개의 추적기가 차단됨
 trustpanel-blocker-description = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 그래서 저희는 가능한 한 많이 차단합니다.
 trustpanel-blocked-header = { -brand-product-name }가 다음 항목을 차단했습니다:
 trustpanel-tracking-header = { -brand-product-name }가 사이트가 깨지지 않도록 다음 항목을 허용했습니다:

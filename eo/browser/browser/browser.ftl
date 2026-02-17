@@ -1520,11 +1520,6 @@ urlbar-trust-icon-notsecure-label = Nesekura
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> spurilo blokita en tiu ĉi retejo
-       *[other] <span>{ $count }</span> spuriloj blokitaj en tiu ĉi retejo
-    }
 trustpanel-blocker-description = { -brand-product-name } konsideras ke entreprenoj devus malpli sekvi vin. Do ni blokas tiom da spuriloj, kiom ni povas.
 trustpanel-blocked-header = { -brand-product-name } blokis por vi:
 trustpanel-tracking-header = { -brand-product-name } permesis tion ĉi por eviti misfunkcion de retejoj:

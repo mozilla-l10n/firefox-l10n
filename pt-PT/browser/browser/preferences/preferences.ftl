@@ -564,9 +564,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -694,9 +691,6 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Página inicial personalizada
@@ -723,10 +717,10 @@ home-custom-homepage-no-websites-yet = Ainda não foram adicionados sites.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Substituir por
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Páginas atualmente abertas
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Marcadores…
 
@@ -963,11 +957,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1869,6 +1858,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
-
-## AI controls page
-

@@ -1522,11 +1522,6 @@ urlbar-trust-icon-notsecure-label = Ei suojattu
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> seurain estetty tällä sivustolla
-       *[other] <span>{ $count }</span> seurainta estetty tällä sivustolla
-    }
 trustpanel-blocker-description = { -brand-product-name } on sitä mieltä, että yritysten pitäisi seurata sinua vähemmän. Siksi estämme niin monta seurainta kuin pystymme.
 trustpanel-blocked-header = { -brand-product-name } esti nämä puolestasi:
 trustpanel-tracking-header = { -brand-product-name } salli nämä asiat, jotta sivustot eivät rikkoutuisi:

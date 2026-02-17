@@ -548,9 +548,6 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -674,12 +671,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -886,11 +877,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1683,6 +1669,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Tanarit
 downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
-
-## AI controls page
-

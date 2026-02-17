@@ -1503,12 +1503,6 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [zero] Šajā vietnē aizturēti <span>{ $count }</span> izsekotāju
-        [one] Šajā vietnē aizturēts <span>{ $count }</span> izsekotājs
-       *[other] Šajā vietnē aizturēti <span>{ $count }</span> izsekotāji
-    }
 trustpanel-blocker-description = { -brand-product-name } uzskata, ka uzņēmumiem vajadzētu jūs mazāk izsekot. Tādēļ mēs aizturam tik daudz, cik vien varam.
 trustpanel-blocked-header = { -brand-product-name } aizturēja šo:
 trustpanel-tracking-header = { -brand-product-name } atļāva šo, lai vietnes nesalūztu:

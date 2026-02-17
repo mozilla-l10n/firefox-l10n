@@ -876,10 +876,10 @@ home-custom-homepage-no-websites-yet = То ҳол ягон сомона ило�
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Иваз кардан бо
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Саҳифаҳои кушодашудаи ҷорӣ
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Хатбаракҳо…
 

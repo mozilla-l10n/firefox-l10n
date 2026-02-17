@@ -877,10 +877,10 @@ home-custom-homepage-no-websites-yet = Inga webbplatser tillagda ännu.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Ersätt med
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = För närvarande öppna sidor
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Bokmärken…
 

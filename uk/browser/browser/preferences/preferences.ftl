@@ -771,10 +771,10 @@ home-custom-homepage-no-websites-yet = Ще не додано жодного в�
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Замінити на
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Поточні відкриті сторінки
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Закладки…
 
@@ -1035,11 +1035,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -2021,6 +2016,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
-
-## AI controls page
-

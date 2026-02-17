@@ -1708,13 +1708,6 @@ urlbar-trust-icon-notsecure-label = Nezabezpečeno
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] Na této stránce byl zablokován <span>{ $count }</span> sledovací prvek
-        [few] Na této stránce byli zablokovány <span>{ $count }</span> sledovací prvky
-        [many] Na této stránce bylo zablokováno <span>{ $count }</span> sledovacích prvků
-       *[other] Na této stránce bylo zablokováno <span>{ $count }</span> sledovacích prvků
-    }
 trustpanel-blocker-description = { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Proto jich blokujeme co nejvíce.
 trustpanel-blocked-header =
     { -brand-product-name.case-status ->

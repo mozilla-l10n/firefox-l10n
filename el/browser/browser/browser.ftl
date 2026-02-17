@@ -1520,11 +1520,6 @@ urlbar-trust-icon-notsecure-label = Μη ασφαλής
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> αποκλεισμένος ιχνηλάτης στον ιστότοπο
-       *[other] <span>{ $count }</span> αποκλεισμένοι ιχνηλάτες στον ιστότοπο
-    }
 trustpanel-blocker-description = Το { -brand-product-name } θεωρεί ότι οι εταιρείες πρέπει να σας ακολουθούν λιγότερο. Αποκλείουμε λοιπόν όσους περισσότερους μπορούμε.
 trustpanel-blocked-header = Το { -brand-product-name } απέκλεισε τα παρακάτω στοιχεία για εσάς:
 trustpanel-tracking-header = Το { -brand-product-name } επέτρεψε τα παρακάτω στοιχεία για την εύρυθμη λειτουργία των ιστοτόπων:

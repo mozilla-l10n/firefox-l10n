@@ -491,9 +491,6 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -615,12 +612,6 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -821,11 +812,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1585,6 +1571,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ فولڈر دا انتخاب کرو:
-
-## AI controls page
-

@@ -457,9 +457,6 @@ update-in-progress-ok-button = &Հրաժարուել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Կատարողականութիւն
@@ -574,12 +571,6 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -757,11 +748,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -960,9 +946,6 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Պատմութիւն
@@ -1072,12 +1055,6 @@ sitedata-cookies-exceptions =
     .accesskey = ց
 cookies-site-data-group =
     .label = Cookie-ներ եւ կայքի տուեալներ
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1267,9 +1244,6 @@ collection-health-report-disabled = Տուեալների զեկուցումը ա
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1321,14 +1295,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
 
-## DoH Section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
-
-## AI controls page
-

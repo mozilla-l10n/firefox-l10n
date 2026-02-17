@@ -732,9 +732,6 @@ choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pagina iniziala persunalisada
@@ -761,10 +758,10 @@ home-custom-homepage-no-websites-yet = Anc n’agiuntà naginas websites.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Remplazzar cun
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Paginas avertas actualmain
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Segnapaginas…
 
@@ -1013,11 +1010,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1964,6 +1956,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
-
-## AI controls page
-

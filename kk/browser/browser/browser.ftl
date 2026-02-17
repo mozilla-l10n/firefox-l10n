@@ -1519,11 +1519,6 @@ urlbar-trust-icon-notsecure-label = Қауіпсіз емес
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] Бұл сайтта <span>{ $count }</span> трекер бұғатталған
-       *[other] Бұл сайтта <span>{ $count }</span> трекер бұғатталған
-    }
 trustpanel-blocker-description = { -brand-product-name } компаниялар сізді азырақ аңдуы керек деп есептейді. Сондықтан біз олардың барынша көбін бұғаттаймыз.
 trustpanel-blocked-header = { -brand-product-name } сіз үшін келесі нәрселерді бұғаттады:
 trustpanel-tracking-header = { -brand-product-name } сайттардың жұмысы бұзылмауы үшін мыналарға рұқсат берді:

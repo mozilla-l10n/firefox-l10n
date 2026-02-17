@@ -1539,12 +1539,6 @@ urlbar-trust-icon-notsecure-label = Не абаронена
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> трэкер заблакаваны на гэтым сайце
-        [few] <span>{ $count }</span> трэкеры заблакаваны на гэтым сайце
-       *[many] <span>{ $count }</span> трэкераў заблакавана на гэтым сайце
-    }
 trustpanel-blocker-description = { -brand-product-name } лічыць, што кампаніі павінны менш сачыць за вамі. Таму мы блакуем столькі, колькі можам.
 trustpanel-blocked-header = { -brand-product-name } заблакаваў для вас наступнае:
 trustpanel-tracking-header = { -brand-product-name } дазволіў наступныя рэчы, каб сайты не зламаліся:

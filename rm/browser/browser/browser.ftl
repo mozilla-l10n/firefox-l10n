@@ -1503,11 +1503,6 @@ urlbar-trust-icon-notsecure-label = Betg segir
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> fastizader bloccà sin questa website
-       *[other] <span>{ $count }</span> fastizaders bloccads sin questa website
-    }
 trustpanel-blocker-description = { -brand-product-name } è da l’avis che interpresas na duessan betg ta persequitar. Perquai bloccain nus tut quai ch’è pussaivel.
 trustpanel-blocked-header = { -brand-product-name } ha bloccà il suandant per tai:
 trustpanel-tracking-header = { -brand-product-name } ha permess il suandant per che las websites na giajan betg en paglia:

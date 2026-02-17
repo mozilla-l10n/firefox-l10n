@@ -1502,11 +1502,6 @@ urlbar-trust-icon-notsecure-label = Jo i Siguruar
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> Gjurmues i bllokuar në këtë sajt
-       *[other] <span>{ $count }</span> Gjurmues të bllokuar në këtë sajt
-    }
 trustpanel-blocker-description = { -brand-product-name } mendon se shoqëritë duhet t’ju ndjekin më pak. Ndaj bllokojmë sa më shumë të mundemi.
 trustpanel-blocked-header = { -brand-product-name }-i bllokoi këto gjëra për ju:
 trustpanel-tracking-header = { -brand-product-name }-i lejoi këto gjëra, që kështu të mos dëmtohet funksionimi i sajteve:

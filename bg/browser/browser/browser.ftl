@@ -1489,11 +1489,6 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> спряно проследяване на този сайт
-       *[other] <span>{ $count }</span> спрени проследявания на този сайт
-    }
 trustpanel-blocker-description = { -brand-product-name } смята, че компаниите трябва по-малко да ви следят. Блокираме колкото се може повече.
 trustpanel-blocked-header = { -brand-product-name } спря следните неща:
 trustpanel-tracking-header = { -brand-product-name } позволява следните неща, за да не се счупят страниците:

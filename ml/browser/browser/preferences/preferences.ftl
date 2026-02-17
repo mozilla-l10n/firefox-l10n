@@ -67,17 +67,6 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -548,10 +537,10 @@ home-custom-homepage-no-results =
     .label = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = അടയാളക്കുറിപ്പുകൾ…
 
@@ -733,11 +722,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1045,9 +1029,6 @@ sitedata-settings =
 cookies-site-data-group =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 
-## Privacy Section - Cookie Banner Handling
-
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = കുക്കീസു പൊന്തുവരൽ തടയൽയന്ത്രം
@@ -1157,9 +1138,6 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
-
-## Privacy Section - Tracking
-
 
 ## Privacy Section - Permissions
 
@@ -1315,6 +1293,3 @@ preferences-doh-setting-off =
 desktop-folder-name = ഉപരിഫലകം
 downloads-folder-name = ഇറക്കിവയ്ക്കലുകൾ
 choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിരഞ്ഞെടുക്കുക
-
-## AI controls page
-

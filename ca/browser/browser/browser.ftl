@@ -1507,11 +1507,6 @@ urlbar-trust-icon-notsecure-label = Insegur
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> element de seguiment blocat en aquest lloc
-       *[other] <span>{ $count }</span> elements de seguiment blocats en aquest lloc
-    }
 trustpanel-blocker-description = El { -brand-product-name } creu que les empreses us haurien de fer menys seguiment, així que bloquem tot allò que podem.
 trustpanel-blocked-header = El { -brand-product-name } ha blocat això:
 trustpanel-tracking-header = El { -brand-product-name } ha permès això perquè els llocs web funcionin bé:

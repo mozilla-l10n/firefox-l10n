@@ -1447,11 +1447,6 @@ urlbar-trust-icon-notsecure-label = Անվտանգ չէ
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count } </span> Հետագծիչ արգելափակված է այս կայքում
-       *[other] <span>{ $count } </span> Հետագծիչներ արգելափակված են այս կայքում
-    }
 trustpanel-insecure-section-header = Ձեր միացումն անվտանգ չէ
 trustpanel-list-label-tracking-cookies =
     { $count ->

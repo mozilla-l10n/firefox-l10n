@@ -1478,7 +1478,6 @@ urlbar-trust-icon-notsecure-label = Tidak Aman
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = <span>{ $count }</span> Pelacak diblokir di situs ini
 trustpanel-blocker-description = { -brand-product-name } berpikir perusahaan harus lebih sedikit mengikuti Anda. Jadi kami memblokir sebanyak yang kami bisa.
 trustpanel-blocked-header = { -brand-product-name } memblokir hal-hal berikut untuk Anda:
 trustpanel-tracking-header = { -brand-product-name } mengizinkan hal ini agar situs tidak rusak:

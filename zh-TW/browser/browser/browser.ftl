@@ -1514,7 +1514,6 @@ urlbar-trust-icon-notsecure-label = 不安全
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = 已封鎖此網站上的 <span>{ $count }</span> 組追蹤器
 trustpanel-blocker-description = { -brand-product-name } 認為大企業們應該少追蹤您一點，我們會盡可能封鎖追蹤器。
 trustpanel-blocked-header = { -brand-product-name } 為您封鎖了下列項目：
 trustpanel-tracking-header = { -brand-product-name } 放行了下列項目，讓網站不致於故障：
