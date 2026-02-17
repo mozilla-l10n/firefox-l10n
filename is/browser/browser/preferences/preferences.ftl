@@ -74,6 +74,8 @@ close-button =
     .aria-label = Loka
 do-not-track-removal2 =
     .label = Við styðjum ekki lengur „Ekki rekja“ merkinguna
+applications-setting-new-file-types =
+    .label = Hvernig viltu að { -brand-short-name } meðhöndli aðrar skrár?
 
 ## Browser Restart Dialog
 
@@ -420,6 +422,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Eyða skrám sem sóttar voru í huliðsvafri þegar öllum huliðsgluggum er lokað
     .accesskey = E
+applications-setting =
+    .label = Forrit
+    .description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-header = Forrit
 applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-filter =
