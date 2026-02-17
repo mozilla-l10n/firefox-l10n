@@ -78,6 +78,8 @@ close-button =
     .aria-label = Fermer
 do-not-track-removal2 =
     .label = Le signal « Ne pas me pister » n’est plus pris en charge
+applications-setting-new-file-types =
+    .label = Que doit faire { -brand-short-name } des autres fichiers ?
 
 ## Browser Restart Dialog
 
