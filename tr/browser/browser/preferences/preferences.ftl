@@ -78,6 +78,8 @@ close-button =
     .aria-label = Kapat
 do-not-track-removal2 =
     .label = Artık “Do Not Track” sinyalini desteklemiyoruz
+applications-setting-new-file-types =
+    .label = { -brand-short-name } diğer dosyalarla ne yapsın?
 
 ## Browser Restart Dialog
 
@@ -803,7 +805,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Giriş sayfası ve yeni pencereler
 home-homepage-new-windows =
     .label = Yeni pencereler
-home-homepage-mode-label2 = Yeni pencereler
 home-newtabs-mode-label = Yeni sekmeler
 home-homepage-new-tabs =
     .label = Yeni sekmeler
@@ -824,8 +825,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Belirli bir site seç
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Belirli bir site seç
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +839,6 @@ use-current-pages =
 choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
-home-homepage-header = Giriş sayfası
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1512,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Yeni ödeme yöntemi ekle
 payments-list-header =
     .label = Ödeme yöntemleri
-payments-list-item-label = <strong>Ödeme yöntemleri</strong>
 payments-delete-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
 payments-delete-payment-prompt-confirm-button = Sil
 payments-delete-payment-prompt-cancel-button = Vazgeç
@@ -1525,9 +1522,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Hiç ödeme yöntemi eklenmedi
-payments-remove-payment-prompt-title = Bu ödeme yöntemi silinsin mi?
-payments-remove-payment-prompt-confirm-button = Sil
-payments-remove-payment-prompt-cancel-button = Vazgeç
 autofill-addresses-title = Adresler ve daha fazlası
 autofill-addresses-header =
     .aria-label = Adresler ve daha fazlası
@@ -1729,11 +1723,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adres çubuğu
-addressbar-suggest-1 = Adres çubuğunuzda hangi önerilerin gösterileceğini seçin
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = { -brand-short-name } ve iş ortaklarımızdan gelen öneriler adres çubuğunuzda görünür.
 addressbar-suggest = Adres çubuğunu kullanırken şunları öner:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adres çubuğu — { -firefox-suggest-brand-name }
@@ -1790,10 +1779,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Arama trendi önerilerini göster
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } önerileri
-addressbar-locbar-suggest-all-option-desc = Aramanızla ilgili web sitesi önerileri alın.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } önerileri
