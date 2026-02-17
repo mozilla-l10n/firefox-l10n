@@ -582,5 +582,8 @@ onboarding-refresh-import-title = { -brand-short-name } ile kendinizi evinizde h
 onboarding-refresh-onboarding-addons-subtitle = Uzantılar { -brand-short-name } tarayıcınızı özelleştiren küçük uygulamalardır. Gizliliğinizi ve verimliliğinizi artırabilir, { -brand-short-name } tarayıcısının görünümünü değiştirebilir, daha pek çok şey yapabilirler.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Gezintinizi hızlandırın
+onboarding-refresh-sync-subtitle = { -brand-short-name } tarayıcısına giriş yaptığınız her yerden yer imlerinize, parolalarınıza ve diğer bilgilerinize ulaşın. Verileriniz şifrelendiği için onları yalnızca siz görebilirsiniz.
+onboarding-refresh-sync-title = İstediğin yere git, istediğin şeyi eşitle.
+onboarding-refresh-gratitude-subtitle = { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. { -brand-short-name }, kâr amacı gütmeyen bir kuruluşun geliştirdiği tek büyük tarayıcı. Desteğinizle interneti herkes için daha güvenli ve daha erişilebilir kılmaya çalışıyoruz.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor

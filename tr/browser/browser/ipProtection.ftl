@@ -23,6 +23,9 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
+ipprotection-feature-introduction-link-text = Konumunuzu gizlemek ve verilerinizi ekstra şifrelemeyle korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
+ipprotection-feature-introduction-link-text-private-browsing = Gizli pencerede konumunuzu gizlemek ve verilerinizi ekstra şifrelemeyle korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
 ipprotection-feature-introduction-button-secondary-no-thanks = Hayır
@@ -35,6 +38,11 @@ ipprotection-site-settings-callout-button = Anladım
 
 ## Panel
 
+unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
+unauthenticated-hide-location-message = { -brand-product-name } ile konumunuzu gizleyin, gezintilerinize ekstra şifreleme ekleyin.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Her ay { $maxUsage } GB VPN kotası ücretsiz.
 unauthenticated-get-started = Kullanmaya başlayın
 site-exclusion-toggle-label = Bu sitede VPN kullan
 site-exclusion-toggle-enabled =
@@ -67,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN duraklatıldı
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
 upgrade-vpn-title = Tarayıcının ötesinde ekstra korumaya kavuşun
+upgrade-vpn-description = VPN konumunuzu seçin, tüm uygulamalarınızda ve 5 cihazınızda VPN kullanın. İster evde ister halka açık Wi-Fi ağlarında, her yerde güvende kalın.
 upgrade-vpn-button = { -mozilla-vpn-brand-name }’i deneyin
 
 ## Messages and errors

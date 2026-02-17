@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Koliko si zadovoljan/na s pristupom
 sidebar-genai-survey-productive-question =
     U kojoj se mjeri slažeš ili ne slažeš s ovom izjavom:<br/>
     „UI chatbot u bočnoj traci mi pomaže povećati produktivnost”?
+splitview-onboarding-callout-title-1 = Podijeljeni prikaz: bolji način za obavljanje više zadataka istovremeno
+splitview-onboarding-callout-subtitle-1 = Desnom tipkom miša klikni ovu karticu i odaberi „Dodaj podijeljeni prikaz” za prikaz dviju kartica odjednom.
+splitview-onboarding-callout-cta-1 = Isprobaj sada
+splitview-onboarding-callout-title-2 = Pogledaj dvije kartice odjednom s podijeljenim prikazom
+splitview-onboarding-callout-subtitle-2 = Bez dodatnih prozora. Bez mijenjanja redoslijeda kartica. Desnom tipkom miša klikni ovu karticu i odaberi „Dodaj podijeljeni prikaz”.
+splitview-onboarding-callout-cta-2 = Isprobaj podijeljeni prikaz
 unified-search-callout-title = Prebacivanje između tražilica
 unified-search-callout-subtitle = Odaberi ono što najbolje funkcionira za tvoju specifičnu pretragu.
 unified-search-callout-primary-label = Dalje

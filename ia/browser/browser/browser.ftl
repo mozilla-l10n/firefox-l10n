@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Clauder
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Retornar
 
 ## Tab actions
 

@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Typo de contento
     .accesskey = T
+applications-type-heading = Typo de contento
 applications-action-column =
     .label = Action
     .accesskey = A
+applications-action-heading = Action
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = file { $extension }
