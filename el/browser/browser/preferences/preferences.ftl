@@ -2256,6 +2256,7 @@ preferences-ai-controls-state-enabled =
     .label = Ενεργό
 preferences-ai-controls-state-description-before = Τι σημαίνουν οι επιλογές:
 preferences-ai-controls-state-description-available = <strong>Διαθέσιμο:</strong> Θα βλέπετε τη λειτουργία και θα μπορείτε να τη χρησιμοποιήσετε.
+preferences-ai-controls-block-confirmation-heading = Αποκλεισμός βελτιώσεων ΤΝ;
 preferences-ai-controls-block-confirmation-features-start = Τι θα αποκλειστεί:
 preferences-ai-controls-block-confirmation-translations = Μεταφράσεις
 preferences-ai-controls-block-confirmation-pdfjs = Εναλλακτικό κείμενο εικόνας στο εργαλείο προβολής PDF του { -brand-short-name }

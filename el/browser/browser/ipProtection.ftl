@@ -65,12 +65,18 @@ ipprotection-connection-status-generic-error-description = Δοκιμάστε ξ
 ipprotection-connection-status-network-error-title = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 confirmation-hint-ipprotection-navigated-to-excluded-site = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-text = Επιλέξτε μια τοποθεσία VPN και προσθέστε προστασία σε όλες τις εφαρμογές σας σε έως και 5 συσκευές, είτε βρίσκεστε στο σπίτι είτε σε δημόσια Wi-Fi.
+
 ## IP Protection Settings
 
 ip-protection-description =
     .label = VPN
     .description = Ενσωματωμένο VPN για την ενίσχυση του απορρήτου σας κατά την περιήγηση με το { -brand-short-name }.
 ip-protection-learn-more = Μάθετε περισσότερα
+ip-protection-site-exceptions =
+    .label = Ρυθμίσεις συγκεκριμένων ιστοτόπων
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
