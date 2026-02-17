@@ -569,9 +569,11 @@ applications-filter =
 applications-type-column =
     .label = Тип содержимого
     .accesskey = о
+applications-type-heading = Тип содержимого
 applications-action-column =
     .label = Действие
     .accesskey = е
+applications-action-heading = Действие
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } файл
@@ -1052,6 +1054,8 @@ search-one-click-desc = Выберите иные поисковые систе�
 search-one-click-header-3 =
     .label = Дополнительные поисковые системы
     .description = Выбрать. какие поисковые системы и их сокращения появляются в вашей адресной строке.
+update-search-engine-success =
+    .message = Поисковая система успешно обновлена
 search-choose-engine-column =
     .label = Поисковая система
 search-choose-keyword-column =
