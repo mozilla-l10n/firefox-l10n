@@ -71,6 +71,8 @@ close-button =
     .aria-label = بستن
 do-not-track-removal2 =
     .label = ایما دی ز سیگنال «رڌجۊری نبۊوه» لادراری نؽکۊنیم
+applications-setting-new-file-types =
+    .label = { -brand-short-name } وا فایلا دیری چ کونه؟
 
 ## Browser Restart Dialog
 
@@ -184,6 +186,10 @@ browser-containers-settings =
     .accesskey = i
 startup-group =
     .label = ره وندن
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 
 ##
 
@@ -346,6 +352,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = هی زبار جاگه زفت کردن پۊرسیڌه بۊ
     .accesskey = A
+applications-setting =
+    .label = برنومه یل
+    .description = یو ک چتاور { -brand-short-name } فایلا دانلود وابیڌه ز وبگه یا برنومه یلی ک مجال گشتن منه وب هونووݩ ن و کار اگیرین ن دؽوۉداری اکونه، ن پسند کۊنین.
 applications-header = برنومه یل
 applications-description = یو ک چتاور { -brand-short-name } فایلا دانلود وابیڌه ز وبگه یا برنومه یلی ک مجال گشتن منه وب هونووݩ ن و کار اگیرین ن دؽوۉداری اکونه، ن پسند کۊنین.
 applications-filter =
@@ -501,7 +510,6 @@ home-default-browser-title =
 home-homepage-mode-label = بلگه هووه ای وو نیمدری یل نۊ
 home-homepage-new-windows =
     .label = نیمدری یل نۊ
-home-homepage-mode-label2 = نیمدری یل نۊ
 home-newtabs-mode-label = بلگه یل نۊ
 home-homepage-new-tabs =
     .label = بلگه یل نۊ
@@ -522,7 +530,6 @@ home-homepage-manage-extension-button =
 choose-bookmark =
     .label = و کار گرؽڌن نشووک…
     .accesskey = B
-home-homepage-header = بلگه هووه ای
 
 ## Home Section - Home Page Customization
 
@@ -786,6 +793,13 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
@@ -834,8 +848,6 @@ payments-delete-payment-button-label =
     .aria-label = پاک کردن
 payments-edit-payment-button-label =
     .aria-label = آلشت
-payments-remove-payment-prompt-confirm-button = پاک کردن
-payments-remove-payment-prompt-cancel-button = لقو
 autofill-addresses-manage-addresses-button =
     .label = دؽوۉداری نشۊویا وو قلوه
     .accesskey = M
@@ -911,6 +923,9 @@ sitedata-clear =
     .label = روفتن داده یل…
     .accesskey = l
 
+## Privacy Section - Cookie Banner Handling
+
+
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = مسدۊد کوݩ بنر کۊکی
@@ -921,8 +936,6 @@ forms-handle-cookie-banners =
 ## Search Section
 
 addressbar-header = نوار نشۊوی
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = نوار نشۊوی — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
@@ -1000,6 +1013,9 @@ content-blocking-cookies-label =
 content-blocking-expand-section =
     .tooltiptext = دووسمندیا قلوه
 
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-header = موجوزا
@@ -1059,6 +1075,9 @@ collection-health-report-telemetry-disabled-link = قلوه دووسته بۊی�
 collection-health-report-link = قلوه دووسته بۊین
 collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز تیجنیڌن سی پوی امتهووݩ کۊنین.
 addon-recommendations-link = قلوه دووسته بۊین
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
