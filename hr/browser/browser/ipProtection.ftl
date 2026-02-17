@@ -117,3 +117,16 @@ ip-protection-bandwidth-help-text = Resetira se na { $maxUsage } GB svakog prvog
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
+ipprotection-bandwidth-reset-text = Uključi VPN za dodatno poboljšanje privatnosti, besplatno svaki mjesec.
+ipprotection-bandwidth-reset-button = Razumijem
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN je pauziran
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Iskoristio/la si svih { $maxUsage } GB tvojih VPN podataka. Pristup VPN-u će se resetirati sljedeći mjesec.
+vpn-paused-alert-close-tabs-button = Zatvori sve kartice
+vpn-paused-alert-continue-wo-vpn-button = Nastavi bez VPN-a
+vpn-error-alert-title = VPN trenutačno ne radi.
+vpn-error-alert-body = Pokušaj kasnije ponovo.

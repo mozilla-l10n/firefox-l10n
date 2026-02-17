@@ -33,6 +33,7 @@ perftools-description-local-build =
     Αν δημιουργείτε προφίλ για μια έκδοση που έχετε μεταγλωττίσει μόνοι σας,
     σε αυτήν τη συσκευή, προσθέστε την objdir του έργου σας στην παρακάτω λίστα
     ώστε να μπορεί να χρησιμοποιηθεί για την αναζήτηση πληροφοριών συμβόλων.
+perftools-pick-local-build-directory = Επιλογή καταλόγου ανάπτυξης
 
 ## The controls for the interval at which the profiler samples the code.
 

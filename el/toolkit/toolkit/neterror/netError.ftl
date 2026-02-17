@@ -46,6 +46,7 @@ neterror-load-error-firewall = Αν ο υπολογιστής ή το δίκτυ
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Εάν προσπαθείτε να φορτώσετε μια σελίδα τοπικού δικτύου, ελέγξτε αν έχουν χορηγηθεί στο { -brand-short-name } δικαιώματα τοπικού δικτύου από τις ρυθμίσεις απορρήτου και ασφάλειας του macOS.
 neterror-http-error-page = Ελέγξτε αν έχετε πληκτρολογήσει σωστά τη διεύθυνση του ιστοτόπου.
+neterror-http-empty-response = Βεβαιωθείτε ότι έχετε πληκτρολογήσει σωστά τη διεύθυνση του ιστοτόπου και δοκιμάστε ξανά σε λίγο.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-http-empty-response-description = Το { $hostname } επέστρεψε κενή σελίδα.
@@ -94,6 +95,7 @@ neterror-file-not-found-moved = Ελέγξτε αν το αρχείο έχει �
 neterror-access-denied = Ενδέχεται να έχει διαγραφεί, μετακινηθεί, ή να μην επιτρέπεται η πρόσβαση λόγω των δικαιωμάτων του αρχείου.
 neterror-unknown-protocol = Ίσως χρειαστεί να εγκαταστήσετε κάποιο άλλο λογισμικό για να ανοίξετε αυτήν τη διεύθυνση.
 neterror-redirect-loop = Αυτό το πρόβλημα μπορεί να οφείλεται στην απενεργοποίηση ή την άρνηση αποδοχής των cookie.
+neterror-unknown-socket-type-client-config = Αυτό ενδέχεται να οφείλεται σε σφάλμα ρυθμίσεων του προγράμματος-πελάτη σας.
 neterror-unknown-socket-type-psm-installed = Βεβαιωθείτε ότι το σύστημά σας διαθέτει τη διαχείριση προσωπικής ασφάλειας.
 neterror-unknown-socket-type-server-config = Αυτό μπορεί να οφείλεται σε κάποια μη τυπική ρύθμιση του διακομιστή.
 neterror-not-cached-intro = Το ζητούμενο έγγραφο δεν είναι διαθέσιμο στην κρυφή μνήμη του { -brand-short-name }.

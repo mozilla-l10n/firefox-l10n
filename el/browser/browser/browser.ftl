@@ -727,6 +727,7 @@ urlbar-result-action-search-in-private = Αναζήτηση σε ιδιωτικ�
 urlbar-result-action-search-w-engine = Αναζήτηση με { $engine }
 urlbar-result-action-sponsored = Χορηγία
 urlbar-result-action-switch-tab = Εναλλαγή σε καρτέλα
+urlbar-result-action-move-tab-to-split-view = Μετακίνηση καρτέλας στον διαχωρισμό προβολής
 urlbar-result-action-visit = Επίσκεψη
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

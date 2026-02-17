@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Κλείσιμο καρτέλας
            *[other] Κλείσιμο { $tabCount } καρτελών
         }
+tab-splitview-splitter =
+    .aria-label = Αλλαγή μεγέθους καρτελών διαχωρισμού προβολής
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -643,6 +643,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = (Απ)ενεργοποίηση πλαϊνής γραμμής
+pdfjs-toggle-views-manager-notification-button =
+    .title = (Απ)ενεργοποίηση πλαϊνής γραμμής (το έγγραφο περιέχει μικρογραφίες/περίγραμμα/συνημμένα/επίπεδα)
 pdfjs-toggle-views-manager-button-label = (Απ)ενεργοποίηση πλαϊνής γραμμής
 pdfjs-views-manager-sidebar =
     .aria-label = Πλαϊνή γραμμή

@@ -136,6 +136,10 @@ place-database-stats-efficiency-perc = Αποδοτικότητα (%)
 place-database-stats-sequentiality-perc = Διαδοχικότητα (%)
 place-database-integrity = Ακεραιότητα
 place-database-verify-integrity = Επαλήθευση ακεραιότητας
+place-database-last-idle-maintenance-data = Ημερομηνία τελευταίας συντήρησης σε αδράνεια
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Ημερομηνία τελευταίας διεργασίας vacuum
+place-database-last-integrity-corruption-date = Ημερομηνία τελευταίας παραβίασης ακεραιότητας
 a11y-title = Προσβασιμότητα
 a11y-activated = Ενεργό
 a11y-force-disabled = Αποτροπή προσβασιμότητας
