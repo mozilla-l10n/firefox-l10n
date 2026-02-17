@@ -707,7 +707,6 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = صفحة البداية و النوافذ الجديدة
-home-homepage-mode-label2 = نوافذ جديدة
 home-newtabs-mode-label = الألسنة الجديدة
 home-homepage-new-tabs =
     .label = الألسنة الجديدة
@@ -728,8 +727,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = اختر موقعًا محددًا
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = اختر موقعًا محددًا
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -744,6 +741,9 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -1274,8 +1274,6 @@ payments-delete-payment-button-label =
     .aria-label = احذف
 payments-edit-payment-button-label =
     .aria-label = حرّر
-payments-remove-payment-prompt-confirm-button = أزِل
-payments-remove-payment-prompt-cancel-button = ألغِ
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1423,8 +1421,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = شريط العناوين
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = عند استخدام شريط العناوين، اقترح
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = شريط العناوين — { -firefox-suggest-brand-name }
@@ -1470,10 +1466,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = أظهر اقتراحات البحث المُتداولة
     .accesskey = ه
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = اقتراحات من { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = احصل على اقتراحات من الوِب تتعلق ببحثك.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = اقتراحات من { -brand-short-name }
