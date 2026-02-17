@@ -809,7 +809,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startowy bok a nowe wokna
 home-homepage-new-windows =
     .label = Nowe wokna
-home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rejtariki
 home-homepage-new-tabs =
     .label = Nowe rejtariki
@@ -830,8 +829,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wubjeŕśo wěste sedło
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Wubjeŕśo wěste sedło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -846,7 +843,6 @@ use-current-pages =
 choose-bookmark =
     .label = Cytańske znamje wužywaś…
     .accesskey = C
-home-homepage-header = Startowy bok
 
 ## Home Section - Home Page Customization
 
@@ -1522,7 +1518,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Nowu płaśeńsku metodu pśidaś
 payments-list-header =
     .label = Płaśeńske metody
-payments-list-item-label = <strong>Płaśeńske metody</strong>
 payments-delete-payment-prompt-title = Toś tu płaśeńsku metodu lašowaś?
 payments-delete-payment-prompt-confirm-button = Lašowaś
 payments-delete-payment-prompt-cancel-button = Pśetergnuś
@@ -1533,9 +1528,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Žedne płaśeńske metody pśidane
-payments-remove-payment-prompt-title = Toś tu płaśeńsku metodu wótwónoźeś?
-payments-remove-payment-prompt-confirm-button = Wótwónoźeś
-payments-remove-payment-prompt-cancel-button = Pśetergnuś
 autofill-addresses-title = Adrese a wěcej
 autofill-addresses-header =
     .aria-label = Adrese a wěcej
@@ -1737,11 +1729,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresowe pólo
-addressbar-suggest-1 = Wubjeŕśo, kótare naraźenja maju se we wašom adresowem pólu pokazaś
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Naraźenja z { -brand-short-name } a wót našych partnarjow we wašom adresowem pólu.
 addressbar-suggest = Pśi wužywanju adresowego póla ma se naraźiś
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresowe pólo – { -firefox-suggest-brand-name }
@@ -1798,10 +1785,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trendowe pytańske naraźenja pokazaś
     .accesskey = d
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Naraźenja wót { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Wobstarajśo se naraźenja z weba nastupajucy wašo pytanje.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Naraźenja wót { -brand-short-name }
