@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Content Type
     .accesskey = T
+applications-type-heading = Content Type
 applications-action-column =
     .label = Action
     .accesskey = A
+applications-action-heading = Action
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } file
@@ -1048,6 +1050,8 @@ search-one-click-desc = Choose the alternative search engines that appear below 
 search-one-click-header-3 =
     .label = Additional search engines
     .description = Choose which search engines and shortcuts appear in your address bar.
+update-search-engine-success =
+    .message = Search engine successfully updated
 search-choose-engine-column =
     .label = Search Engine
 search-choose-keyword-column =

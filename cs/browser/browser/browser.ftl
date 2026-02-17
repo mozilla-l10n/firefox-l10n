@@ -1276,6 +1276,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nové anonymní okno
     .tooltiptext = Otevře nové anonymní okno ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Sdílet
+    .tooltiptext = Sdílet tuto stránku
 
 ## EME notification panel
 

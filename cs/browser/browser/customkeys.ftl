@@ -15,6 +15,7 @@ customkeys-conflict-confirm = Tato klávesa je již přiřazena k { $conflict }.
 customkeys-reset-all-confirm = Opravdu chcete obnovit všechny klávesové zkratky na výchozí hodnoty?
 customkeys-history-reopen-tab = Obnovit naposledy zavřený panel
 customkeys-history-reopen-window = Obnovit naposledy zavřené okno
+customkeys-view-picture-in-picture = Obraz v obraze
 customkeys-dev-tools = Nástroje pro webové vývojáře
 customkeys-dev-inspector = Průzkumník DOM a stylů
 customkeys-dev-webconsole = Webová konzole
