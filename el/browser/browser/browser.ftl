@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Επαναφορά κάτω
 browser-window-close-button =
     .tooltiptext = Κλείσιμο
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Επιστροφή
 
 ## Tab actions
 
@@ -1172,6 +1175,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Νέο ιδιωτικό παράθυρο
     .tooltiptext = Άνοιγμα σε νέο παράθυρο ιδιωτικής περιήγησης ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Κοινοποίηση
+    .tooltiptext = Κοινοποίηση σελίδας
 
 ## EME notification panel
 
