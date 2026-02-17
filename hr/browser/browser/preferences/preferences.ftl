@@ -78,6 +78,8 @@ close-button =
     .aria-label = Zatvori
 do-not-track-removal2 =
     .label = Više ne podržavamo signal „Ne prati”
+applications-setting-new-file-types =
+    .label = Što bi { -brand-short-name } trebao učiniti s drugim datotekama?
 
 ## Browser Restart Dialog
 
