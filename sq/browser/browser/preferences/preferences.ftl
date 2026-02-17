@@ -75,6 +75,8 @@ close-button =
     .aria-label = Mbylleni
 do-not-track-removal2 =
     .label = S’e mbulojmë më sinjalin “Mos Më Gjurmoni”
+applications-setting-new-file-types =
+    .label = Ç'duhet të bëjë { -brand-short-name }-i me kartelat e tjera?
 
 ## Browser Restart Dialog
 
@@ -764,7 +766,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Faqen hyrëse dhe dritare të reja
 home-homepage-new-windows =
     .label = Dritare të reja
-home-homepage-mode-label2 = Dritare të reja
 home-newtabs-mode-label = Skeda të reja
 home-homepage-new-tabs =
     .label = Skeda të reja
@@ -785,8 +786,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Zgjidhni një sajt specifik
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Zgjidhni një sajt specifik
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -801,7 +800,6 @@ use-current-pages =
 choose-bookmark =
     .label = Përdorni Faqerojtës…
     .accesskey = F
-home-homepage-header = Faqe hyrëse
 
 ## Home Section - Home Page Customization
 
@@ -1460,16 +1458,12 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Shtoni metodë të re pagesash
 payments-list-header =
     .label = Metoda pagesash
-payments-list-item-label = <strong>Metoda pagesash</strong>
 payments-delete-payment-prompt-title = Të fshihet kjo metodë pagesash?
 payments-delete-payment-prompt-confirm-button = Fshije
 payments-delete-payment-prompt-cancel-button = Anuloje
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = S’u shtuan metoda pagesash
-payments-remove-payment-prompt-title = Të hiqet kjo metodë pagesash?
-payments-remove-payment-prompt-confirm-button = Hiqe
-payments-remove-payment-prompt-cancel-button = Anuloje
 autofill-addresses-title = Adresa, etj
 autofill-addresses-header =
     .aria-label = Adresa, etj
@@ -1671,11 +1665,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Shtyllë Adresash
-addressbar-suggest-1 = Zgjidhni cilat sugjerime të shfaqen te shtylla juaj e adresave
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Sugjerime nga { -brand-short-name }-i dhe partnerët tanë, te shtylla juaj e adresave.
 addressbar-suggest = Kur përdoret shtylla e adresave, jep sugjerime nga
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Shtyllë Adresash — { -firefox-suggest-brand-name }
@@ -1732,10 +1721,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Shfaq sugjerime prirjesh kërkimi
     .accesskey = k
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Sugjerime nga { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Merrni nga interneti sugjerime të lidhura me kërkimin tuaj.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugjerime nga { -brand-short-name }
@@ -2169,3 +2154,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## AI controls page
+
