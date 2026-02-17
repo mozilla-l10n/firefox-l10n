@@ -45,6 +45,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = ປິດ
+applications-setting-new-file-types =
+    .label = { -brand-short-name } ຄວນເຮັດຫຍັງກັບໄຟລ໌ອື່ນ?
 
 ## Browser Restart Dialog
 
