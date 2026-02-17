@@ -77,6 +77,8 @@ close-button =
     .aria-label = Mboty
 do-not-track-removal2 =
     .label = Nañamoneĩvéima pe kuaaukaha “Ani ehapykueho”
+applications-setting-new-file-types =
+    .label = ¿Mba’e ojapova’erã { -brand-short-name } ambue marandurenda ndive?
 
 ## Browser Restart Dialog
 
