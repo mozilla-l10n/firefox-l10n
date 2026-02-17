@@ -559,6 +559,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -654,7 +657,6 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página inicial e novas janelas
-home-homepage-mode-label2 = Novas janelas
 home-newtabs-mode-label = Novos separadores
 home-homepage-new-tabs =
     .label = Novos separadores
@@ -672,8 +674,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gerir extensão
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Escolha um site específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -688,7 +688,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
-home-homepage-header = Página inicial
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -952,6 +954,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1404,9 +1411,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Barra de endereço
-addressbar-suggest-1 = Escolha quais as sugestões a mostrar na sua barra de endereço
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
 addressbar-suggest = Ao utilizar a barra de endereço, sugerir
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de endereço — { -firefox-suggest-brand-name }
@@ -1457,10 +1461,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar sugestões de pesquisa com uma popularidade crescente
     .accesskey = p
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Sugestões do { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Obtenha sugestões da Internet relacionadas com a sua pesquisa
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugestões do { -brand-short-name }
@@ -1860,3 +1860,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## AI controls page
+
