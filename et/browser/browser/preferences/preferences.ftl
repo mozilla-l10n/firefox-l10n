@@ -323,6 +323,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Alati küsitakse, kuhu failid salvestada
     .accesskey = A
+applications-setting =
+    .label = Rakendused
+    .description = Määra, kuidas { -brand-short-name } käsitleb veebist alla laaditud faile või rakendusi, mida veebilehitsemisel kasutad.
 applications-header = Rakendused
 applications-description = Määra, kuidas { -brand-short-name } käsitleb veebist alla laaditud faile või rakendusi, mida veebilehitsemisel kasutad.
 applications-filter =
@@ -456,6 +459,9 @@ update-in-progress-ok-button = &Loobu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Jätka
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Jõudlus
@@ -569,6 +575,12 @@ use-current-pages =
 choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -748,6 +760,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } pole kinnitatud.
 sync-signedin-login-failure = Konto { $email } taasühendamiseks logi sisse
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -946,6 +963,9 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Ajalugu
@@ -1055,6 +1075,12 @@ sitedata-cookies-exceptions =
     .accesskey = H
 cookies-site-data-group =
     .label = Küpsised ja saidi andmed
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1246,6 +1272,9 @@ collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on a
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1297,8 +1326,14 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Töölaud
 downloads-folder-name = Allalaadimised
 choose-download-folder-title = Vali allalaadimiste kaust:
+
+## AI controls page
+
