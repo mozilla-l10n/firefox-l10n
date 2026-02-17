@@ -53,6 +53,9 @@ urlbar-search-tips-confirm = باشە، تێگەشتم
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = زانیاری:
+urlbar-result-menu-tip-get-help =
+    .label = یارمەتی بەدەستبهێنە
+    .accesskey = ی
 
 ## Local search mode indicator labels in the urlbar
 
