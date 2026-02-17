@@ -806,7 +806,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Strona startowa i nowe okna:
 home-homepage-new-windows =
     .label = Nowe okna:
-home-homepage-mode-label2 = Nowe okna:
 home-newtabs-mode-label = Nowa karta:
 home-homepage-new-tabs =
     .label = Nowa karta:
@@ -827,8 +826,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wybierz inną stronę
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Wybierz inną stronę
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -843,7 +840,6 @@ use-current-pages =
 choose-bookmark =
     .label = Użyj zakładki…
     .accesskey = z
-home-homepage-header = Strona startowa
 
 ## Home Section - Home Page Customization
 
@@ -1518,7 +1514,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Dodaj nową metodę płatności
 payments-list-header =
     .label = Metody płatności
-payments-list-item-label = <strong>Metody płatności</strong>
 payments-delete-payment-prompt-title = Czy usunąć tę metodę płatności?
 payments-delete-payment-prompt-confirm-button = Usuń
 payments-delete-payment-prompt-cancel-button = Anuluj
@@ -1529,9 +1524,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nie dodano żadnych metod płatności
-payments-remove-payment-prompt-title = Czy usunąć tę metodę płatności?
-payments-remove-payment-prompt-confirm-button = Usuń
-payments-remove-payment-prompt-cancel-button = Anuluj
 autofill-addresses-title = Adresy i nie tylko
 autofill-addresses-header =
     .aria-label = Adresy i nie tylko
@@ -1733,11 +1725,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Pasek adresu
-addressbar-suggest-1 = Wybierz, które podpowiedzi będą wyświetlane na pasku adresu.
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Podpowiedzi od { -brand-short-name(case: "gen") } i naszych partnerów na pasku adresu.
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Pasek adresu — { -firefox-suggest-brand-name(case: "nom", capitalization: "lower") }
@@ -1794,10 +1781,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Popularne wyszukiwania.
     .accesskey = u
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Podpowiedzi { -brand-short-name(case: "gen") }
-addressbar-locbar-suggest-all-option-desc = Otrzymuj podpowiedzi z Internetu związane z wyszukiwanymi słowami.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Podpowiedzi { -brand-short-name(case: "gen") }
