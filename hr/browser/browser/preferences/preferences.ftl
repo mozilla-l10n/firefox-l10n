@@ -806,7 +806,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Početna stranica i novi prozori
 home-homepage-new-windows =
     .label = Novi prozori
-home-homepage-mode-label2 = Novi prozori
 home-newtabs-mode-label = Nove kartice
 home-homepage-new-tabs =
     .label = Nove kartice
@@ -827,8 +826,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Odaberi određenu web-stranicu
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Odaberi određenu web-stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -843,7 +840,6 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
-home-homepage-header = Početna stranica
 
 ## Home Section - Home Page Customization
 
@@ -1515,7 +1511,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Dodaj novi način plaćanja
 payments-list-header =
     .label = Načini plaćanja
-payments-list-item-label = <strong>Načini plaćanja</strong>
 payments-delete-payment-prompt-title = Obrisati ovaj način plaćanja?
 payments-delete-payment-prompt-confirm-button = Obriši
 payments-delete-payment-prompt-cancel-button = Odustani
@@ -1526,9 +1521,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nije dodan nijedan način plaćanja
-payments-remove-payment-prompt-title = Ukloniti ovaj način plaćanja?
-payments-remove-payment-prompt-confirm-button = Ukloni
-payments-remove-payment-prompt-cancel-button = Odustani
 autofill-addresses-title = Adrese i više
 autofill-addresses-header =
     .aria-label = Adrese i više
@@ -1730,11 +1722,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresna traka
-addressbar-suggest-1 = Odaberi prijedloge koji će se prikazati u adresnoj traci
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = { -brand-short-name } prijedlozi i prijedlozi naših partnera u tvojoj adresnoj traci.
 addressbar-suggest = Pri korištenju adresne trake, predloži
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresna traka – { -firefox-suggest-brand-name }
@@ -1791,10 +1778,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži popularne prijedloge za pretraživanje
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } prijedlozi
-addressbar-locbar-suggest-all-option-desc = Dobij prijedloge s weba koji se odnose na tvoju pretragu.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } prijedlozi
