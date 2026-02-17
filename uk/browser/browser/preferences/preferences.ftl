@@ -700,7 +700,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Домівка та нові вікна
 home-homepage-new-windows =
     .label = Нові вікна
-home-homepage-mode-label2 = Нові вікна
 home-newtabs-mode-label = Нові вкладки
 home-homepage-new-tabs =
     .label = Нові вкладки
@@ -721,8 +720,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Вибрати певний сайт
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Вибрати певний сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -737,7 +734,6 @@ use-current-pages =
 choose-bookmark =
     .label = Використати закладку…
     .accesskey = к
-home-homepage-header = Домівка
 
 ## Home Section - Home Page Customization
 
@@ -1030,6 +1026,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1351,10 +1352,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Додати новий спосіб оплати
 payments-list-header =
     .label = Способи оплати
-payments-list-item-label = <strong>Способи оплати</strong>
-payments-remove-payment-prompt-title = Вилучити цей спосіб оплати?
-payments-remove-payment-prompt-confirm-button = Вилучити
-payments-remove-payment-prompt-cancel-button = Скасувати
 autofill-addresses-title = Адреси та інше
 autofill-addresses-header =
     .aria-label = Адреси та інше
@@ -1534,11 +1531,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Панель адреси
-addressbar-suggest-1 = Виберіть, які пропозиції показуватимуться в панелі адреси
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Пропозиції від { -brand-short-name } і наших партнерів у вашій панелі адреси.
 addressbar-suggest = При використанні панелі адреси, пропонувати
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Панель адреси – { -firefox-suggest-brand-name }
@@ -1589,10 +1581,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Показувати популярні пошукові пропозиції
     .accesskey = П
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Пропозиції від { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Отримувати пропозиції з інтернету, пов'язані з вашим пошуком.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Пропозиції від { -brand-short-name }
@@ -2024,3 +2012,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
