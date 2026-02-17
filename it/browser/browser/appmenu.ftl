@@ -313,4 +313,3 @@ appmenu-edit-profile =
     .aria-label = Modifica profilo
 appmenu-profiles-2 =
     .label = Profili
-

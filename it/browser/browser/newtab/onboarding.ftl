@@ -589,4 +589,3 @@ onboarding-refresh-sync-title = Vai ovunque. Porta i tuoi dati con te.
 onboarding-refresh-gratitude-subtitle = Grazie per aver scelto { -brand-short-name }, l’unico dei browser principali supportato da un’organizzazione senza fini di lucro. Con il tuo supporto, lavoriamo per rendere Internet un posto più sicuro e accessibile per tutti.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } è sempre dalla tua parte
-
