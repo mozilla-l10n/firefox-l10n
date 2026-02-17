@@ -78,6 +78,8 @@ close-button =
     .aria-label = Lukk
 do-not-track-removal2 =
     .label = Vi støtter ikke lenger «Ikke spor»-signalet
+applications-setting-new-file-types =
+    .label = Hva skal { -brand-short-name } gjøre med andre filer?
 
 ## Browser Restart Dialog
 
