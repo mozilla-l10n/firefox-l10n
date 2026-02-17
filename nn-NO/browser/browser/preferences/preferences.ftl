@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Innhaldstype
     .accesskey = I
+applications-type-heading = Innhaldstype
 applications-action-column =
     .label = Handling
     .accesskey = H
+applications-action-heading = Handling
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension }-fil
@@ -1048,6 +1050,8 @@ search-one-click-desc = Vel alternative søkjemotorar som vert viste under adres
 search-one-click-header-3 =
     .label = Fleire søkjemotorar
     .description = Vel kva søkjemotorar og snarvegar som blir viste i adressefeltet.
+update-search-engine-success =
+    .message = Søkjemotoren er oppdatert
 search-choose-engine-column =
     .label = Søkjemotor
 search-choose-keyword-column =
