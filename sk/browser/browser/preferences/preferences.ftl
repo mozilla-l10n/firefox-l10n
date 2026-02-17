@@ -806,7 +806,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Domovská stránka a nové okná
 home-homepage-new-windows =
     .label = Nové okná
-home-homepage-mode-label2 = Nové okná
 home-newtabs-mode-label = Nové karty
 home-homepage-new-tabs =
     .label = Nové karty
@@ -827,8 +826,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Vyberte konkrétnu stránku
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Vyberte konkrétnu stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -843,7 +840,6 @@ use-current-pages =
 choose-bookmark =
     .label = Použiť záložku…
     .accesskey = z
-home-homepage-header = Domovská stránka
 
 ## Home Section - Home Page Customization
 
@@ -1518,7 +1514,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Pridať nový spôsob platby
 payments-list-header =
     .label = Spôsoby platby
-payments-list-item-label = <strong>Spôsoby platby</strong>
 payments-delete-payment-prompt-title = Odstrániť tento spôsob platby?
 payments-delete-payment-prompt-confirm-button = Odstrániť
 payments-delete-payment-prompt-cancel-button = Zrušiť
@@ -1529,9 +1524,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Zatiaľ nebol pridaný žiadny spôsob platby
-payments-remove-payment-prompt-title = Odstrániť tento spôsob platby?
-payments-remove-payment-prompt-confirm-button = Odstrániť
-payments-remove-payment-prompt-cancel-button = Zrušiť
 autofill-addresses-title = Adresy a ďalšie
 autofill-addresses-header =
     .aria-label = Adresy a ďalšie
@@ -1733,11 +1725,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Panel s adresou
-addressbar-suggest-1 = Zvoľte, aké návrhy sa zobrazujú v paneli s adresou
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Návrhy { -brand-short-name(case: "gen") } a našich partnerov vo vašom adresnom riadku.
 addressbar-suggest = Pri používaní panela s adresou ponúkať
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Panel s adresou — { -firefox-suggest-brand-name }
@@ -1794,10 +1781,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Zobrazovať návrhy populárnych vyhľadávaní
     .accesskey = n
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Návrhy od { -brand-short-name(case: "gen") }
-addressbar-locbar-suggest-all-option-desc = Získajte návrhy z webu súvisiace s vaším vyhľadávaním.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Návrhy od { -brand-short-name(case: "gen") }
