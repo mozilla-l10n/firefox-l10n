@@ -74,6 +74,8 @@ close-button =
     .aria-label = Serra
 do-not-track-removal2 =
     .label = Non suportamus prus su sinnale “non mi sigas”
+applications-setting-new-file-types =
+    .label = Ite depet fàghere { -brand-short-name } cun is àteros archìvios?
 
 ## Browser Restart Dialog
 
@@ -557,6 +559,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -684,6 +689,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -906,6 +917,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1354,7 +1370,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Barra de indiritzos
-addressbar-suggest-1 = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
 addressbar-suggest = Cando ses impreende sa barra de indiritzos, cussìgia
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Barra de indiritzos — { -firefox-suggest-brand-name }
@@ -1405,10 +1420,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ammustra cussìgios de chirca in tendèntzia
     .accesskey = A
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Cussìgios dae { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Otene cussìgios de sa rete acapiados a sa chirca tua.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Cussìgios dae { -brand-short-name }
