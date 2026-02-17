@@ -69,6 +69,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = වසන්න
+applications-setting-new-file-types =
+    .label = { -brand-short-name } අනකුත් ගොනු සමඟ කුමක් කළ යුතුද?
 
 ## Browser Restart Dialog
 
