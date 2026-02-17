@@ -831,6 +831,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Eliminar dirección
     .title = Eliminar dirección
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplazar con
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Todavía no se han agregado sitios web
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
