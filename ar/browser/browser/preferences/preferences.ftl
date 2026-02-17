@@ -77,6 +77,8 @@ close-button =
     .aria-label = أغلق
 do-not-track-removal2 =
     .label = لم نعد ندعم إشارة "لا تتعقبني"
+applications-setting-new-file-types =
+    .label = ما الذي يجب أن يفعله { -brand-short-name } مع الملفات الأخرى؟
 
 ## Browser Restart Dialog
 
