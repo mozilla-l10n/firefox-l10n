@@ -75,6 +75,8 @@ close-button =
     .aria-label = Закрити
 do-not-track-removal2 =
     .label = Ми більше не підтримуємо сигнал "Не відстежувати"
+applications-setting-new-file-types =
+    .label = Як { -brand-short-name } повинен обробляти такі файли?
 
 ## Browser Restart Dialog
 
