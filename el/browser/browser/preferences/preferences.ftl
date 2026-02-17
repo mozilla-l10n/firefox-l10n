@@ -78,6 +78,8 @@ close-button =
     .aria-label = Κλείσιμο
 do-not-track-removal2 =
     .label = Δεν υποστηρίζουμε πλέον το σήμα «Αποτροπή καταγραφής»
+applications-setting-new-file-types =
+    .label = Τι να κάνει το { -brand-short-name } με άλλα αρχεία;
 
 ## Browser Restart Dialog
 
