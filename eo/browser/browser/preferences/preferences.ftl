@@ -78,6 +78,8 @@ close-button =
     .aria-label = Fermi
 do-not-track-removal2 =
     .label = Ni ne plu subtenas la signalon “Do Not Track”
+applications-setting-new-file-types =
+    .label = Kion devus fari { -brand-short-name } kun aliaj dosieroj?
 
 ## Browser Restart Dialog
 
