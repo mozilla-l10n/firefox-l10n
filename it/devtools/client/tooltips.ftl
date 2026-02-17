@@ -23,6 +23,8 @@ inactive-css-column-span = <strong>{ $property }</strong> non ha alcun effetto d
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento flex o griglia.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento grid o flex, e non ha una posizione assoluta.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento grid e non ha una posizione assoluta.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento con posizione assoluta.
+inactive-css-no-default-anchor = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non ha un elemento ancora predefinito.
 inactive-css-not-grid-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento griglia.
 inactive-css-not-grid-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un contenitore griglia.
 inactive-css-not-flex-item = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento flex.
@@ -89,6 +91,8 @@ inactive-css-not-multicol-container-fix = Provare ad aggiungere <strong>column-c
 inactive-css-column-span-fix = Provare ad aggiungere <strong>column-count</strong> o <strong>column-width</strong> a uno degli elementi predecessore. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Provare ad aggiungere <strong>position:absolute</strong> all’elemento, oppure <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al genitore dell’elemento. { learn-more }
 inactive-css-not-grid-or-absolutely-positioned-item-fix = Provare ad aggiungere <strong>position:absolute</strong> all’elemento, oppure <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitore dell’elemento. { learn-more }
+inactive-css-not-absolutely-positioned-item-fix = Provare ad aggiungere <strong>position:absolute</strong> all’elemento. { learn-more }
+inactive-css-no-default-anchor-fix = Provare ad aggiungere <strong>position-anchor</strong> con un nome valido per l’ancora. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Provare ad aggiungere <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al genitore dell’elemento. { learn-more }
 inactive-css-not-grid-item-fix-2 = Provare ad aggiungere <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitore dell’elemento. { learn-more }
 inactive-css-not-grid-container-fix = Provare ad aggiungere <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
@@ -144,4 +148,3 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Ulteriori inf
 css-selector-warning-unconstrained-has = Questo selettore utilizza <strong>:has()</strong> senza vincoli e potrebbe risultare lento
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = I selettori di pari livello (“sibling”) dopo <strong>:scope</strong> non avranno mai corrispondenze
-
