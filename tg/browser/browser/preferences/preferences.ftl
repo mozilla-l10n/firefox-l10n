@@ -78,6 +78,8 @@ close-button =
     .aria-label = Пӯшидан
 do-not-track-removal2 =
     .label = Мо дигар сигнали «Пайгирӣ карда нашавад»-ро дастгирӣ намекунем
+applications-setting-new-file-types =
+    .label = Аз тарафи «{ -brand-short-name }» бо файлҳои дигар чӣ бояд кард?
 
 ## Browser Restart Dialog
 
@@ -802,7 +804,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Саҳифаи асосӣ ва равзанаҳои нав
 home-homepage-new-windows =
     .label = Равзанаи нав
-home-homepage-mode-label2 = Равзанаи нав
 home-newtabs-mode-label = Варақаҳои нав
 home-homepage-new-tabs =
     .label = Варақаҳои нав
@@ -823,8 +824,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Интихоб кардани сомонаи муайян
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Интихоб кардани сомонаи муайян
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -839,7 +838,6 @@ use-current-pages =
 choose-bookmark =
     .label = Истифодаи хатбарак…
     .accesskey = И
-home-homepage-header = Саҳифаи асосӣ
 
 ## Home Section - Home Page Customization
 
@@ -1510,7 +1508,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Илова кардани тарзи пардохти нав
 payments-list-header =
     .label = Тарзҳои пардохт
-payments-list-item-label = <strong>Тарзҳои пардохт</strong>
 payments-delete-payment-prompt-title = Ин тарзи пардохтро нест мекунед?
 payments-delete-payment-prompt-confirm-button = Нест кардан
 payments-delete-payment-prompt-cancel-button = Бекор кардан
@@ -1521,9 +1518,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ягон тарзи пардохт илова карда нашуд
-payments-remove-payment-prompt-title = Ин тарзи пардохтро тоза мекунед?
-payments-remove-payment-prompt-confirm-button = Тоза кардан
-payments-remove-payment-prompt-cancel-button = Бекор кардан
 autofill-addresses-title = Нишониҳо ва ғайра
 autofill-addresses-header =
     .aria-label = Нишониҳо ва ғайра
@@ -1725,11 +1719,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Навори нишонӣ
-addressbar-suggest-1 = Интихоб кунед, ки кадом пешниҳодҳо дар навори нишонии шумо нишон дода мешаванд
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Пешниҳодҳо аз «{ -brand-short-name }» ва шарикони мо дар навори нишонии шумо.
 addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Навори нишонӣ — { -firefox-suggest-brand-name }
@@ -1786,10 +1775,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Намоиши пешниҳодҳои ҷустуҷӯи ҳавасангез
     .accesskey = Н
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Пешниҳодҳо аз «{ -brand-short-name }»
-addressbar-locbar-suggest-all-option-desc = Гирифтани пешниҳодҳо аз Интернет дар асоси ҷустуҷӯи шумо.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Пешниҳодҳо аз «{ -brand-short-name }»
