@@ -803,7 +803,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startsida och nya fönster
 home-homepage-new-windows =
     .label = Nya fönster
-home-homepage-mode-label2 = Nya fönster
 home-newtabs-mode-label = Nya flikar
 home-homepage-new-tabs =
     .label = Nya flikar
@@ -824,8 +823,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Välj en specifik webbplats
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Välj en specifik webbplats
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +837,6 @@ use-current-pages =
 choose-bookmark =
     .label = Använd bokmärke…
     .accesskey = d
-home-homepage-header = Startsida
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1510,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Lägg till ny betalningsmetod
 payments-list-header =
     .label = Betalningsmetoder
-payments-list-item-label = <strong>Betalningsmetoder</strong>
 payments-delete-payment-prompt-title = Ta bort den här betalningsmetoden?
 payments-delete-payment-prompt-confirm-button = Ta bort
 payments-delete-payment-prompt-cancel-button = Avbryt
@@ -1525,9 +1520,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Inga betalningsmetoder har lagts till
-payments-remove-payment-prompt-title = Ta bort den här betalningsmetoden?
-payments-remove-payment-prompt-confirm-button = Ta bort
-payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser och mer
 autofill-addresses-header =
     .aria-label = Adresser och mer
@@ -1729,11 +1721,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adressfält
-addressbar-suggest-1 = Välj vilka förslag som ska visas i adressfältet
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Förslag från { -brand-short-name } och våra partners i ditt adressfält.
 addressbar-suggest = När du använder adressfältet, föreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adressfält — { -firefox-suggest-brand-name }
@@ -1790,10 +1777,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Visa populära sökförslag
     .accesskey = p
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Förslag från { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Få förslag från webben relaterade till din sökning.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Förslag från { -brand-short-name }
