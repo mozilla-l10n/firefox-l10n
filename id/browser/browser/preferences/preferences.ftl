@@ -74,6 +74,8 @@ close-button =
     .aria-label = Tutup
 do-not-track-removal2 =
     .label = Kami tidak lagi mendukung sinyal "Jangan Lacak"
+applications-setting-new-file-types =
+    .label = Apa yang sebaiknya { -brand-short-name } lakukan dengan berkas lainnya?
 
 ## Browser Restart Dialog
 
