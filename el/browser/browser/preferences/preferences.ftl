@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Τύπος περιεχομένου
     .accesskey = Τ
+applications-type-heading = Τύπος περιεχομένου
 applications-action-column =
     .label = Ενέργεια
     .accesskey = Ε
+applications-action-heading = Ενέργεια
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Αρχείο { $extension }
@@ -1048,6 +1050,8 @@ search-one-click-desc = Επιλέξτε τις εναλλακτικές μηχ�
 search-one-click-header-3 =
     .label = Πρόσθετες μηχανές αναζήτησης
     .description = Επιλέξτε ποιες μηχανές αναζήτησης και συντομεύσεις θα εμφανίζονται στη γραμμή διευθύνσεων.
+update-search-engine-success =
+    .message = Επιτυχής ενημέρωση μηχανής αναζήτησης
 search-choose-engine-column =
     .label = Μηχανή αναζήτησης
 search-choose-keyword-column =

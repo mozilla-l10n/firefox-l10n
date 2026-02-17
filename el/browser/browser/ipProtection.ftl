@@ -61,6 +61,7 @@ upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-description = Δοκιμάστε ξανά σε λίγα λεπτά.
 ipprotection-connection-status-network-error-title = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
+confirmation-hint-ipprotection-navigated-to-excluded-site = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 
 ## IP Protection Settings
 
@@ -68,6 +69,12 @@ ip-protection-description =
     .label = VPN
     .description = Ενσωματωμένο VPN για την ενίσχυση του απορρήτου σας κατά την περιήγηση με το { -brand-short-name }.
 ip-protection-learn-more = Μάθετε περισσότερα
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Δοκιμάστε το ενσωματωμένο VPN του { -brand-short-name }
+    .message = Αποκρύψτε την τοποθεσία σας και προσθέστε επιπλέον κρυπτογράφηση στην περιήγησή σας στο { -brand-short-name }. Λάβετε δωρεάν { $maxUsage } GB δεδομένων VPN κάθε μήνα.
+ip-protection-not-opted-in-button = Έναρξη
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
@@ -79,6 +86,8 @@ ip-protection-site-exceptions-all-sites-button =
         }
 ip-protection-autostart =
     .label = Αυτόματη ενεργοποίηση του VPN
+ip-protection-autostart-checkbox =
+    .label = Κατά το άνοιγμα του { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Σε ιδιωτικά παράθυρα
 
@@ -90,6 +99,22 @@ ip-protection-exceptions-dialog-window =
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = Μηνιαία δεδομένα VPN
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Απομένουν { $usageLeft } GB από { $maxUsage } GB αυτόν τον μήνα
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Απομένουν { $usageLeft } GB από { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Απομένουν { $usageLeft } MB από { $maxUsage } GB αυτόν τον μήνα
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Απομένουν { $usageLeft } MB από { $maxUsage } GB
 
 ## IP Protection bandwidth reset callout
 
@@ -97,6 +122,7 @@ ipprotection-bandwidth-reset-button = Το κατάλαβα
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = Το VPN είναι σε παύση
 vpn-paused-alert-close-tabs-button = Κλείσιμο όλων των καρτελών
 vpn-paused-alert-continue-wo-vpn-button = Συνέχεια χωρίς VPN
 vpn-error-alert-title = Το VPN δεν λειτουργεί αυτήν τη στιγμή.
