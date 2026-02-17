@@ -78,6 +78,8 @@ close-button =
     .aria-label = Fechar
 do-not-track-removal2 =
     .label = Não oferecemos mais suporte ao sinal “Não rastrear”
+applications-setting-new-file-types =
+    .label = O que o { -brand-short-name } deve fazer com outros arquivos?
 
 ## Browser Restart Dialog
 
