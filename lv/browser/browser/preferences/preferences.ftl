@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Aizvērt
+applications-setting-new-file-types =
+    .label = Ko { -brand-short-name } vajadzētu darīt ar citām datnēm?
 
 ## Browser Restart Dialog
 
