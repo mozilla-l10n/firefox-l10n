@@ -78,6 +78,8 @@ close-button =
     .aria-label = Đóng
 do-not-track-removal2 =
     .label = Chúng tôi không còn hỗ trợ tín hiệu “Không theo dõi”
+applications-setting-new-file-types =
+    .label = { -brand-short-name } nên làm gì với các tập tin khác?
 
 ## Browser Restart Dialog
 
