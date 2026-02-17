@@ -132,10 +132,6 @@ fp-learn-more-about-time-related-errors = Μάθετε περισσότερα σ
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό του δεν είναι έγκυρο μέχρι τις { DATETIME($date, timeStyle: "short") } στις { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
-# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-# Variables:
-#   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, timeStyle: "short") }. Εάν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στον ίδιο τον ιστότοπο. Εάν είναι λάθος, μπορείτε να το αλλάξετε από τις ρυθμίσεις συστήματος της συσκευής σας.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
