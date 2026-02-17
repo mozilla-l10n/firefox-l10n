@@ -56,6 +56,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Sulge
+applications-setting-new-file-types =
+    .label = Mida peaks { -brand-short-name } tegema teiste failidega?
 
 ## Browser Restart Dialog
 
