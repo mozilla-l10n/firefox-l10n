@@ -295,6 +295,9 @@ update-application-use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = ដំណើរការ
@@ -367,7 +370,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = ទំព័រដើម និងវីនដូថ្មី
 home-homepage-new-windows =
     .label = បង្អួចថ្មី
-home-homepage-mode-label2 = បង្អួចថ្មី
 home-newtabs-mode-label = ផ្ទាំងថ្មី
 home-homepage-new-tabs =
     .label = ផ្ទាំងថ្មី
@@ -394,6 +396,9 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -500,6 +505,9 @@ containers-add-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -535,6 +543,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់។
 sync-signedin-login-failure = សូម​ចូល​ដើម្បី​តភ្ជាប់​ឡើង​វិញ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -678,7 +691,6 @@ payments-delete-payment-prompt-confirm-button = លុប
 payments-delete-payment-prompt-cancel-button = បោះបង់
 payments-delete-payment-button-label =
     .aria-label = លុប
-payments-remove-payment-prompt-cancel-button = បោះបង់
 addreses-delete-address-button-label =
     .aria-label = លុប
 addresses-delete-address-prompt-title = លុបអាសយដ្ឋាននេះ?
@@ -778,6 +790,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = របារអាសយដ្ឋាន
@@ -816,6 +834,9 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -872,6 +893,9 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -905,6 +929,12 @@ certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
