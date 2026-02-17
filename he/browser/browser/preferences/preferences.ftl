@@ -78,6 +78,8 @@ close-button =
     .aria-label = סגירה
 do-not-track-removal2 =
     .label = איננו תומכים עוד בחיווי ”נא לא לעקוב”
+applications-setting-new-file-types =
+    .label = מה על { -brand-short-name } לעשות עם קבצים מסוג אחר?
 
 ## Browser Restart Dialog
 
