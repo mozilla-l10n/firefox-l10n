@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Återställ nedåt
 browser-window-close-button =
     .tooltiptext = Stäng
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Återgå
 
 ## Tab actions
 
@@ -1173,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nytt privat fönster
     .tooltiptext = Öppna ett nytt privat fönster ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Dela
+    .tooltiptext = Dela den här sidan
 
 ## EME notification panel
 
