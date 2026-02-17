@@ -78,6 +78,8 @@ close-button =
     .aria-label = 关闭
 do-not-track-removal2 =
     .label = 我们不再支持“请勿跟踪”信号
+applications-setting-new-file-types =
+    .label = { -brand-short-name } 应如何处理其他文件？
 
 ## Browser Restart Dialog
 
