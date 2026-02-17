@@ -78,6 +78,8 @@ close-button =
     .aria-label = Жабу
 do-not-track-removal2 =
     .label = Біз енді «Мені бақыламау» сигналын қолдамаймыз
+applications-setting-new-file-types =
+    .label = { -brand-short-name } басқа файлдармен не істеу керек?
 
 ## Browser Restart Dialog
 
