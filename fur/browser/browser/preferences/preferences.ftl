@@ -75,6 +75,8 @@ close-button =
     .aria-label = Siere
 do-not-track-removal2 =
     .label = No supuartìn plui il segnâl “Do Not Track”
+applications-setting-new-file-types =
+    .label = Ce aial di fâ { -brand-short-name } cun chei altris files?
 
 ## Browser Restart Dialog
 
@@ -764,7 +766,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Pagjine iniziâl e gnûfs barcons
 home-homepage-new-windows =
     .label = Gnûfs barcons
-home-homepage-mode-label2 = Gnûfs barcons
 home-newtabs-mode-label = Gnovis schedis
 home-homepage-new-tabs =
     .label = Gnovis schedis
@@ -785,8 +786,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Sielç un sît specific
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Sielç un sît specific
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -801,7 +800,6 @@ use-current-pages =
 choose-bookmark =
     .label = Dopre segnelibri…
     .accesskey = b
-home-homepage-header = Pagjine iniziâl
 
 ## Home Section - Home Page Customization
 
@@ -1460,16 +1458,12 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Zonte gnûf metodi di paiament
 payments-list-header =
     .label = Metodis di paiament
-payments-list-item-label = <strong>Metodis di paiament</strong>
 payments-delete-payment-prompt-title = Eliminâ chest metodi di paiament?
 payments-delete-payment-prompt-confirm-button = Elimine
 payments-delete-payment-prompt-cancel-button = Anule
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nissun metodi di paiament zontât
-payments-remove-payment-prompt-title = Gjavâ chest metodi di paiament?
-payments-remove-payment-prompt-confirm-button = Gjave
-payments-remove-payment-prompt-cancel-button = Anule
 autofill-addresses-title = Recapits e altris dâts
 autofill-addresses-header =
     .aria-label = Recapits e altris dâts
@@ -1671,11 +1665,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Sbare de direzion
-addressbar-suggest-1 = Sielç i sugjeriments di mostrâ te sbare de direzion
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Sugjeriments di { -brand-short-name } e dai nestris colaboradôrs te sbare de direzion.
 addressbar-suggest = Cuant che tu dopris la sbare de direzion, sugjerìs
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Sbare de direzion — { -firefox-suggest-brand-name }
@@ -1732,10 +1721,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostre sugjeriments di ricercje di tindince
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Sugjeriments di { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Ricêf sugjeriments dal web relatîfs ae tô ricercje.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugjeriments di { -brand-short-name }
@@ -2169,3 +2154,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+
