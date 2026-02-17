@@ -114,6 +114,9 @@ sidebar-item-service-workers = Service worker
 sidebar-item-session-history = Ιστορικό συνεδρίας
     .alt = Εικονίδιο ιστορικού συνεδρίας
     .title = Ιστορικό συνεδρίας
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Εμφάνιση δεδομένων ιστορικού συνεδρίας
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Εικονίδιο προειδοποίησης

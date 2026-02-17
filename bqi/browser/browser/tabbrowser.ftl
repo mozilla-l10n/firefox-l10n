@@ -86,21 +86,57 @@ tabbrowser-context-unmute-tab =
 tabbrowser-context-mute-selected-tabs =
     .label = بؽ دونگ کردن بلگه یل
     .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-unmute-tab
+tabbrowser-context-unmute-selected-tabs =
+    .label = وا دونگ کردن بلگه یل
+    .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = پشک دونگ
+
+## Ctrl-Tab dialog
+
+# Variables:
+#   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
+tabbrowser-ctrl-tab-list-all-tabs =
+    .label =
+        { $tabCount ->
+            [one] نومگه پوی { $tabCount } بلگه
+           *[other] نومگه پوی { $tabCount } بلگه
+        }
 
 ## Tab manager menu buttons
 ## Variables:
 ##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
 ##                          used when the group's name is empty.
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = بؽ دونگ کردن بلگه
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = وا دونگ کردن بلگه
 tabbrowser-manager-close-tab =
     .tooltiptext = بستن بلگه
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — بسته وابیڌه
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — نیمدری هیم سکویی
 
 ##
 
+tab-group-editor-title-create = وورکل بونکۊ بلگه
+tab-group-editor-title-edit = دؽوۉداری بونکۊ بلگه
 tab-group-editor-name-label = نوم
+tab-group-editor-name-field =
+    .placeholder = مسال: استیڌن
 tab-group-editor-cancel =
     .label = لقو
     .accesskey = C
+tab-context-unnamed-group =
+    .label = بونکۊ بؽ نوم
+tab-group-name-default = بونکۊ بؽ نوم
 
 ##
 

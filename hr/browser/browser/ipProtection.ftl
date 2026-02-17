@@ -76,3 +76,44 @@ ip-protection-autostart-checkbox =
     .label = Kada otvorim { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = U privatnim prozorima
+ip-protection-vpn-upgrade-link =
+    .label = Dobij još veću zaštitu izvan { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
+    .description = Odaberi prilagođene VPN lokacije i dodaj zaštitu svim svojim aplikacijama na do pet uređaja, bilo da koristiš kućnu mrežu ili javnu Wi-Fi mrežu.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Upravljaj postavkama web-stranice
+ip-protection-exclusions-desc = Koristi VPN za sve web-stranice osim onih na ovom popisu. Dodaj web-stranicu ovdje ili putem otvaranja VPN-a.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Mjesečni VPN podaci
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB od { $maxUsage } GB preostalo ovaj mjesec
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB od { $maxUsage } GB preostalo
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB od { $maxUsage } GB preostalo ovaj mjesec
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB od { $maxUsage } GB preostalo
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Iskoristio/la si svih { $maxUsage } GB tvojih VPN podataka. Pristup će se resetirati sljedeći mjesec.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Resetira se na { $maxUsage } GB svakog prvog dana u mjesecu.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
