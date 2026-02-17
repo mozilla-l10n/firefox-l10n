@@ -1005,6 +1005,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Smazat adresu
     .title = Smazat adresu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Nahradit s
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dosud nebyly přidány žádné stránky.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
