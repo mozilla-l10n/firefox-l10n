@@ -56,6 +56,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Dùin
+applications-setting-new-file-types =
+    .label = Dè nì { -brand-short-name } le faidhlichean eile?
 
 ## Browser Restart Dialog
 
