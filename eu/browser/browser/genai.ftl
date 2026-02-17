@@ -231,14 +231,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name }(e)k ezin du lotura hau aurreikusi
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Ezin dugu lotura honen aurrebistarik sortu
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Bisitatu lotura
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name }(e)k ezin ditu web orri honen puntu nagusiak sortu.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Ezin ditugu web orri honen puntu nagusiak sortu.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Zerbait oker joan da.
 # Text for the retry link when generation fails

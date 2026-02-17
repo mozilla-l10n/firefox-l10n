@@ -183,10 +183,6 @@ set-default-pdf-handler-primary = മനസ്സിലായി
 
 annotations-make-default-pdf-primary-cta-label = തനിമട്ടാക്കുക
 annotations-make-default-pdf-next-label = അടുത്തതു്
-annotations-make-default-pdf-primary-cta =
-    .label = തനിമട്ടാക്കുക
-annotations-make-default-pdf-next =
-    .label = അടുത്തതു്
 
 ## FxA sync CFR
 

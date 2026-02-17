@@ -1519,11 +1519,6 @@ urlbar-trust-icon-notsecure-label = Бехатар нест
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуд
-       *[other] <span>{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуданд
-    }
 trustpanel-blocker-description = «{ -brand-product-name }» фикр мекунад, ки ширкатҳо бояд шуморо камтар пайгирӣ кунанд. Бинобар ин, мо ҳарчи бештар ҳар гуна васоити пайгириро манъ мекунем.
 trustpanel-blocked-header = «{ -brand-product-name }» барои шумо зеринро манъ кард:
 trustpanel-tracking-header = «{ -brand-product-name }» зеринро иҷозат медиҳад, то сомона вайрон нашавад:

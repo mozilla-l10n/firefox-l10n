@@ -240,10 +240,6 @@ annotations-make-default-pdf-handler-title = להפוך את { -brand-short-name
 annotations-make-default-pdf-handler-subtitle = תהיה לך גישה לכלים שלנו עם כל פתיחת קובץ PDF.
 annotations-make-default-pdf-primary-cta-label = הגדרה כברירת מחדל
 annotations-make-default-pdf-next-label = הבא
-annotations-make-default-pdf-primary-cta =
-    .label = הגדרה כברירת מחדל
-annotations-make-default-pdf-next =
-    .label = הבא
 
 ## FxA sync CFR
 

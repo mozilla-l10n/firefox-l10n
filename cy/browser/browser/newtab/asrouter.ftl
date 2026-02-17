@@ -258,10 +258,6 @@ annotations-make-default-pdf-handler-title = Gwneud { -brand-short-name } eich g
 annotations-make-default-pdf-handler-subtitle = Bydd gyda chi fynediad at ein hoffer bob tro byddwch yn agor PDF.
 annotations-make-default-pdf-primary-cta-label = Gosod fel y rhagosodiad
 annotations-make-default-pdf-next-label = Nesaf
-annotations-make-default-pdf-primary-cta =
-    .label = Gosod fel y rhagosodiad
-annotations-make-default-pdf-next =
-    .label = Nesaf
 
 ## FxA sync CFR
 

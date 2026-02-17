@@ -243,10 +243,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name }를 기본 PDF
 annotations-make-default-pdf-handler-subtitle = PDF를 열 때마다 저희 도구를 사용할 수 있습니다.
 annotations-make-default-pdf-primary-cta-label = 기본으로 설정
 annotations-make-default-pdf-next-label = 다음
-annotations-make-default-pdf-primary-cta =
-    .label = 기본으로 설정
-annotations-make-default-pdf-next =
-    .label = 다음
 
 ## FxA sync CFR
 

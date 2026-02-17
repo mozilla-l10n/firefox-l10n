@@ -219,14 +219,10 @@ genai-model-optin-cancel =
 link-preview-reading-time = ใช้เวลาอ่าน { $range } นาที
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } ไม่สามารถแสดงตัวอย่างลิงก์นี้ได้
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = เราไม่สามารถแสดงตัวอย่างลิงก์นี้ได้
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = เยี่ยมชมลิงก์
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } ไม่สามารถสร้างประเด็นสำคัญสำหรับหน้าเว็บนี้ได้
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = เราไม่สามารถสร้างประเด็นสำคัญสำหรับหน้าเว็บนี้ได้
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = มีบางอย่างผิดพลาด
 # Text for the retry link when generation fails

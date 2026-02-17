@@ -162,8 +162,6 @@ genai-model-optin-cancel =
 
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Անցնել հղումը
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Մենք չենք կարող այս վեբ էջի համար հիմնական կետեր ստեղծել։
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Ինչ-որ բան այն չէ։
 # Text for the retry link when generation fails

@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Make { -brand-short-name } your def
 annotations-make-default-pdf-handler-subtitle = You’ll have access to our tools every time you open a PDF.
 annotations-make-default-pdf-primary-cta-label = Set as default
 annotations-make-default-pdf-next-label = Next
-annotations-make-default-pdf-primary-cta =
-    .label = Set as default
-annotations-make-default-pdf-next =
-    .label = Next
 
 ## FxA sync CFR
 

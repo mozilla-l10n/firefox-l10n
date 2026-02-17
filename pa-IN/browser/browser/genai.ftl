@@ -229,14 +229,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } ਇਸ ਲਿੰਕ ਦੀ ਝਲਕ ਨਹੀਂ ਵੇਖ ਸਕਦਾ ਹੈ
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = ਅਸੀਂ ਇਸ ਲਿੰਕ ਦੀ ਝਲਕ ਨਹੀਂ ਵੇਖ ਸਕਦੇ ਹਾਂ
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = ਅਸੀਂ ਇਸ ਵੈੱਬ-ਸਫ਼ੇ ਲਈ ਮੁੱਖ ਨੁਕਤੇ ਤਿਆਰ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ।
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = ਕੁਝ ਗਲਤ ਹੋਇਆ।
 # Text for the retry link when generation fails

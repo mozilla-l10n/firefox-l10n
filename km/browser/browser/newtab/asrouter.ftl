@@ -127,11 +127,6 @@ cookie-banner-blocker-onboarding-learn-more = ស្វែងយល់​បន�
 fox-doodle-pin-headline = ស្វាគមន៍​ការ​ត្រឡប់​មកវិញ
 fox-doodle-pin-secondary = មិន​មែន​ឥឡូវ
 
-## PDF Annotations strings
-
-annotations-make-default-pdf-next =
-    .label = បន្ទាប់
-
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-older-device-primary-button = បង្កើត​គណនី

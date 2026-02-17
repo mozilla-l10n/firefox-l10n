@@ -243,10 +243,6 @@ annotations-make-default-pdf-handler-title = Đặt { -brand-short-name } làm t
 annotations-make-default-pdf-handler-subtitle = Bạn có quyền truy cập vào các công cụ của chúng tôi mỗi khi mở tập tin PDF.
 annotations-make-default-pdf-primary-cta-label = Đặt làm mặc định
 annotations-make-default-pdf-next-label = Tiếp
-annotations-make-default-pdf-primary-cta =
-    .label = Đặt làm mặc định
-annotations-make-default-pdf-next =
-    .label = Tiếp
 
 ## FxA sync CFR
 

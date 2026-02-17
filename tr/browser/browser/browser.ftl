@@ -1525,11 +1525,6 @@ urlbar-trust-icon-notsecure-label = Güvenli değil
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] Bu sitede <span>{ $count }</span> takip kodu engellendi
-       *[other] Bu sitede <span>{ $count }</span> takip kodu engellendi
-    }
 trustpanel-blocker-description = { -brand-product-name } şirketlerin sizi daha az takip etmesi gerektiğini düşünüyor. O yüzden mümkün olduğunca çok takip kodunu engelliyoruz.
 trustpanel-blocked-header = { -brand-product-name } sizin için aşağıdakileri engelledi:
 trustpanel-tracking-header = Sitelerin bozulmasını önlemek için { -brand-product-name } aşağıdakilere izin verdi:

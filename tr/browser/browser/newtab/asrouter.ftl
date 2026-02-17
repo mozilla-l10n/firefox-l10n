@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } varsayılan P
 annotations-make-default-pdf-handler-subtitle = PDF dosyalarını her açtığınızda araçlarımıza erişebileceksiniz.
 annotations-make-default-pdf-primary-cta-label = Varsayılan yap
 annotations-make-default-pdf-next-label = İleri
-annotations-make-default-pdf-primary-cta =
-    .label = Varsayılan yap
-annotations-make-default-pdf-next =
-    .label = İleri
 
 ## FxA sync CFR
 

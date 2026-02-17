@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = Meti { -brand-short-name } come edi
 annotations-make-default-pdf-handler-subtitle = Tu varâs acès ai nestris imprescj ogni volte che tu vierzis un PDF.
 annotations-make-default-pdf-primary-cta-label = Met come predefinît
 annotations-make-default-pdf-next-label = Sucessîf
-annotations-make-default-pdf-primary-cta =
-    .label = Met come predefinît
-annotations-make-default-pdf-next =
-    .label = Sucessîf
 
 ## FxA sync CFR
 

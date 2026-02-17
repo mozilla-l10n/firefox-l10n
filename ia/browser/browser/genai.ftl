@@ -231,14 +231,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } non pote monstrar in vista preliminar iste ligamine
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Impossibile previsualisar iste ligamine
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar le ligamine
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } non pote generar le punctos clave pro iste pagina web.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Impossibile generar le punctos clave de iste pagina web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Un problema ha occurrite.
 # Text for the retry link when generation fails

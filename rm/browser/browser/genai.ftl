@@ -224,12 +224,8 @@ link-preview-reading-time =
         [one] { $range } minuta temp da lectura
        *[other] { $range } minutas temp da lectura
     }
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Impussibel da mussar ina prevista da questa colliaziun
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar la colliaziun
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = I n’è betg reussì da generar puncts-clav per questa pagina-web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Igl ha dà in problem.
 # Text for the retry link when generation fails

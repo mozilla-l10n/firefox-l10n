@@ -229,14 +229,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = El { -brand-short-name } no pot previsualitzar aquest enllaç
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = No podem previsualitzar aquest enllaç
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visita l’enllaç
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = El { -brand-short-name } no pot generar punts clau per a aquesta pàgina web.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = No podem generar els punts clau d’aquesta pàgina web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Alguna cosa ha anat malament.
 # Text for the retry link when generation fails

@@ -214,12 +214,8 @@ genai-model-optin-cancel =
 #   $rangePlural (String): The plural category of the range, using the same set as for numbers.
 #   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
 link-preview-reading-time = { $range } mnt waktu membaca
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Kami tidak dapat mempratinjau tautan ini
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Kunjungi tautan
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Kami tidak dapat membuat poin-poin kunci untuk laman web ini.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Ada yang salah
 # Text for the retry link when generation fails

@@ -197,8 +197,6 @@ link-preview-reading-time =
         [one] { $range } mínútu lestrartími
        *[other] { $range } mínútna lestrartími
     }
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Við getum ekki útbúið lykilatriði fyrir þessa vefsíðu.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Eitthvað fór úrskeiðis.
 # Text for the retry link when generation fails

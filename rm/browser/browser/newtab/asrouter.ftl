@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = Definir { -brand-short-name } sco e
 annotations-make-default-pdf-handler-subtitle = Ti vegns ad avair access a noss utensils mintga giada cura che ti avras in PDF.
 annotations-make-default-pdf-primary-cta-label = Definir sco standard
 annotations-make-default-pdf-next-label = Enavant
-annotations-make-default-pdf-primary-cta =
-    .label = Definir sco standard
-annotations-make-default-pdf-next =
-    .label = Enavant
 
 ## FxA sync CFR
 

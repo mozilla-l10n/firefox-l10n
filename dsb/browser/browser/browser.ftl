@@ -1550,13 +1550,6 @@ urlbar-trust-icon-notsecure-label = Njewěsty
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> pśeslědowak jo se blokěrował na toś tom sedle
-        [two] <span>{ $count }</span> pśeslědowaka stej se blokěrowałej na toś tom sedle
-        [few] <span>{ $count }</span> pśeslědowaki su se blokěrowali na toś tom sedle
-       *[other] <span>{ $count }</span> pśeslědowakow jo se blokěrowało na toś tom sedle
-    }
 trustpanel-blocker-description = { -brand-product-name } měni, až pśedewześa měli wam mjenjej slědowaś. Togodla blokěrujomy tak wjele kaž móžomy.
 trustpanel-blocked-header = { -brand-product-name } jo blokěrował toś te wěcy za was:
 trustpanel-tracking-header = { -brand-product-name } jo dowólił toś te wěcy, aby sedła korektnje funkcioněrowali:

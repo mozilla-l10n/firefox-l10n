@@ -1572,15 +1572,6 @@ urlbar-trust-icon-notsecure-label = Dim yn Ddiogel
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [zero] Mae <span>{ $count }</span> traciwr wedi'u rhwystro ar y wefan hon
-        [one] Mae <span>{ $count }</span> traciwr wedi'i rwystro ar y wefan hon
-        [two] Mae <span>{ $count }</span> draciwr wedi'u rwystro ar y wefan hon
-        [few] Mae <span>{ $count }</span> traciwr wedi'u rwystro ar y wefan hon
-        [many] Mae <span>{ $count }</span> traciwr wedi'u rwystro ar y wefan hon
-       *[other] Mae <span>{ $count }</span> traciwr wedi'u rwystro ar y wefan hon
-    }
 trustpanel-blocker-description = Mae { -brand-product-name } yn meddwl y dylai cwmnïau eich dilyn llai. Felly rydym yn rhwystro cymaint ag y gallwn.
 trustpanel-blocked-header = Mae { -brand-product-name } wedi rhwystro'r pethau hyn ar eich rhan:
 trustpanel-tracking-header = Mae { -brand-product-name } wedi caniatáu'r pethau hyn fel nad yw gwefannau'n torri:

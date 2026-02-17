@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = A { -brand-short-name } legyen az a
 annotations-make-default-pdf-handler-subtitle = Minden alkalommal hozzáférhet eszközeinkhez, amikor megnyit egy PDF-et.
 annotations-make-default-pdf-primary-cta-label = Beállítás alapértelmezettként
 annotations-make-default-pdf-next-label = Tovább
-annotations-make-default-pdf-primary-cta =
-    .label = Beállítás alapértelmezettként
-annotations-make-default-pdf-next =
-    .label = Tovább
 
 ## FxA sync CFR
 

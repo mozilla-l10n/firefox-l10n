@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Браузери «{ -brand-short-n
 annotations-make-default-pdf-handler-subtitle = Ҳар дафъае, ки шумо файли «PDF»-ро мекушоед, шумо ба абзорҳои мо дастрасӣ пайдо мекунед.
 annotations-make-default-pdf-primary-cta-label = Ҳамчун пешфарз танзим кардан
 annotations-make-default-pdf-next-label = Навбатӣ
-annotations-make-default-pdf-primary-cta =
-    .label = Ҳамчун пешфарз танзим кардан
-annotations-make-default-pdf-next =
-    .label = Навбатӣ
 
 ## FxA sync CFR
 

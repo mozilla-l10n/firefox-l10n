@@ -1502,11 +1502,6 @@ urlbar-trust-icon-notsecure-label = Non seguru
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> sighidura blocada in custu situ
-       *[other] <span>{ $count }</span> sighiduras blocadas in custu situ
-    }
 trustpanel-blocker-description = { -brand-product-name } pensat chi is aziendas ti diant dèpere sighire prus pagu. E duncas nde blocamus cantu podimus.
 trustpanel-blocked-header = { -brand-product-name } at blocadu custas cosas pro tie:
 trustpanel-tracking-header = { -brand-product-name } at permìtidu custas cosas pro chi is sitos funtzionent:

@@ -330,10 +330,6 @@ annotations-make-default-pdf-handler-title =
 annotations-make-default-pdf-handler-subtitle = Při každém otevření souboru PDF budete mít přístup k našim nástrojům.
 annotations-make-default-pdf-primary-cta-label = Nastavit jako výchozí
 annotations-make-default-pdf-next-label = Další
-annotations-make-default-pdf-primary-cta =
-    .label = Nastavit jako výchozí
-annotations-make-default-pdf-next =
-    .label = Další
 
 ## FxA sync CFR
 

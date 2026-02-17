@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Të bëhet { -brand-short-name }-i 
 annotations-make-default-pdf-handler-subtitle = Do të mund të përdorni mjetet tona sa herë që hapni një PDF.
 annotations-make-default-pdf-primary-cta-label = Vëre si parazgjedhje
 annotations-make-default-pdf-next-label = Pasuesi
-annotations-make-default-pdf-primary-cta =
-    .label = Vëre si parazgjedhje
-annotations-make-default-pdf-next =
-    .label = Pasuesi
 
 ## FxA sync CFR
 

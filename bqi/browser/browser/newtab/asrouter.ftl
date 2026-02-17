@@ -107,10 +107,6 @@ set-default-pdf-handler-primary = فئمیم
 
 annotations-make-default-pdf-primary-cta-label = سامووݩ و عونوان پؽش فرز
 annotations-make-default-pdf-next-label = بئڌی
-annotations-make-default-pdf-primary-cta =
-    .label = سامووݩ و عونوان پؽش فرز
-annotations-make-default-pdf-next =
-    .label = بئڌی
 
 ## FxA sync CFR
 

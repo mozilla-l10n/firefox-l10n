@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Ορισμός του { -brand-shor
 annotations-make-default-pdf-handler-subtitle = Θα έχετε πρόσβαση στα εργαλεία μας κάθε φορά που ανοίγετε ένα PDF.
 annotations-make-default-pdf-primary-cta-label = Ορισμός ως προεπιλογή
 annotations-make-default-pdf-next-label = Επόμενο
-annotations-make-default-pdf-primary-cta =
-    .label = Ορισμός ως προεπιλογή
-annotations-make-default-pdf-next =
-    .label = Επόμενο
 
 ## FxA sync CFR
 

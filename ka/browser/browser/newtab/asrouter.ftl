@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = გახდეს { -brand-short-n
 annotations-make-default-pdf-handler-subtitle = წვდომა გექნებათ ჩვენს ხელსაწყოებთან PDF-ფაილის ყოველი გახსნისას.
 annotations-make-default-pdf-primary-cta-label = ნაგულისხმევად დაყენება
 annotations-make-default-pdf-next-label = შემდეგი
-annotations-make-default-pdf-primary-cta =
-    .label = ნაგულისხმევად დაყენება
-annotations-make-default-pdf-next =
-    .label = შემდეგი
 
 ## FxA sync CFR
 

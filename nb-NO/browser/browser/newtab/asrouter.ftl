@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Bruke { -brand-short-name } som sta
 annotations-make-default-pdf-handler-subtitle = Du får tilgang til verktøyene våre hver gang du åpner en PDF.
 annotations-make-default-pdf-primary-cta-label = Bruk som standard
 annotations-make-default-pdf-next-label = Neste
-annotations-make-default-pdf-primary-cta =
-    .label = Bruk som standard
-annotations-make-default-pdf-next =
-    .label = Neste
 
 ## FxA sync CFR
 

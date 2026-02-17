@@ -204,10 +204,6 @@ set-default-pdf-handler-primary = Հասկացա
 annotations-make-default-pdf-handler-title = Դարձնե՞լ { -brand-short-name }-ը ձեր սկզբնադիր PDF խմբագրիչը։
 annotations-make-default-pdf-primary-cta-label = Կայել որպես սկզբնադիր
 annotations-make-default-pdf-next-label = Հաջորդը
-annotations-make-default-pdf-primary-cta =
-    .label = Կայել որպես սկզբնադիր
-annotations-make-default-pdf-next =
-    .label = Հաջորդը
 
 ## FxA sync CFR
 

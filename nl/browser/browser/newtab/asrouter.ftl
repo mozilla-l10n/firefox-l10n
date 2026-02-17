@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } uw standaard 
 annotations-make-default-pdf-handler-subtitle = Telkens als u een PDF opent, hebt u toegang tot onze hulpmiddelen.
 annotations-make-default-pdf-primary-cta-label = Instellen als standaard
 annotations-make-default-pdf-next-label = Volgende
-annotations-make-default-pdf-primary-cta =
-    .label = Instellen als standaard
-annotations-make-default-pdf-next =
-    .label = Volgende
 
 ## FxA sync CFR
 

@@ -55,8 +55,6 @@ genai-chatbot-contextual-button = Causir un robòt de convèrsa
 
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } pòt pas previsualizar aqueste ligam
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Podèm pas previsualizar aqueste ligam
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Configuracion de la previsualizacion de ligams

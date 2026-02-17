@@ -1550,13 +1550,6 @@ urlbar-trust-icon-notsecure-label = Ni varno
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> blokiran sledilec na tem spletnem mestu
-        [two] <span>{ $count }</span> blokirana sledilca na tem spletnem mestu
-        [few] <span>{ $count }</span> blokirani sledilci na tem spletnem mestu
-       *[other] <span>{ $count }</span> blokiranih sledilcev na tem spletnem mestu
-    }
 trustpanel-blocker-description = { -brand-product-name } meni, da bi vam podjetja morala manj slediti – zato blokiramo toliko sledilcev, kolikor lahko.
 trustpanel-blocked-header = { -brand-product-name } je za vas blokiral naslednje:
 trustpanel-tracking-header = Da se stran ne bi pokvarila, je { -brand-product-name } dovolil naslednje:

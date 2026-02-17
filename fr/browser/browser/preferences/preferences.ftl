@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Type de contenu
     .accesskey = T
+applications-type-heading = Type de contenu
 applications-action-column =
     .label = Action
     .accesskey = A
+applications-action-heading = Action
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = fichier { $extension }
@@ -877,10 +879,10 @@ home-custom-homepage-no-websites-yet = Aucun site web ajouté pour l’instant.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = Remplacer par
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Pages ouvertes actuellement
-# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Marque-pages…
 
@@ -1048,6 +1050,8 @@ search-one-click-desc = Sélectionnez les moteurs de recherche alternatifs qui a
 search-one-click-header-3 =
     .label = Moteurs de recherche supplémentaires
     .description = Choisissez les moteurs de recherche et les raccourcis qui apparaissent dans votre barre d’adresse.
+update-search-engine-success =
+    .message = Moteur de recherche mis à jour
 search-choose-engine-column =
     .label = Moteur de recherche
 search-choose-keyword-column =

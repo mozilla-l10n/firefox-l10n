@@ -243,10 +243,6 @@ set-default-pdf-handler-primary = فهمت
 
 annotations-make-default-pdf-primary-cta-label = اجعله المبدئي
 annotations-make-default-pdf-next-label = التالي
-annotations-make-default-pdf-primary-cta =
-    .label = اجعله المبدئي
-annotations-make-default-pdf-next =
-    .label = التالي
 
 ## FxA sync CFR
 

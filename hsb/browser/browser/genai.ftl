@@ -237,14 +237,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } njemóže přehlad za tutón wotkaz pokazać
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Njemóžemy přehlad za tutón wotkaz pokazać
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Wotkaz wopytać
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } njemóže klučowe dypki za tutu webstronu generěrować.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Njemóžemy klučowe dypki za tutu webstronu generěrować.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Něšto je so nimokuliło.
 # Text for the retry link when generation fails

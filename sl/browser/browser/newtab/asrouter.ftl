@@ -251,10 +251,6 @@ annotations-default-pdf-handler-body = Narišite, vtipkajte ali naložite svoj p
 annotations-make-default-pdf-handler-title = Želite nastaviti { -brand-short-name(sklon: "tozilnik") } kot privzeti urejevalnik datotek PDF?
 annotations-make-default-pdf-primary-cta-label = Nastavi kot privzeto
 annotations-make-default-pdf-next-label = Naprej
-annotations-make-default-pdf-primary-cta =
-    .label = Nastavi kot privzeto
-annotations-make-default-pdf-next =
-    .label = Naprej
 
 ## FxA sync CFR
 

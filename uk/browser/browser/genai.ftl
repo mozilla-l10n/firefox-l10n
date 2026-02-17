@@ -225,12 +225,8 @@ link-preview-reading-time =
         [few] { $range } хв читання
        *[many] { $range } хв читання
     }
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Перегляд цього посилання недоступний
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Відвідати посилання
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Неможливо створити ключові тези для цієї вебсторінки.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Щось пішло не так.
 # Text for the retry link when generation fails

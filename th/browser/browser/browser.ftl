@@ -1500,7 +1500,6 @@ urlbar-trust-icon-notsecure-label = ไม่ปลอดภัย
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = <span>{ $count }</span> ตัวติดตามถูกปิดกั้นบนไซต์นี้
 trustpanel-blocker-description = { -brand-product-name } คิดว่าบริษัทต่าง ๆ ควรติดตามคุณให้น้อยลง ดังนั้นเราจึงปิดกั้นให้มากที่สุดเท่าที่จะทำได้
 trustpanel-blocked-header = { -brand-product-name } ปิดกั้นสิ่งเหล่านี้สำหรับคุณ:
 trustpanel-tracking-header = { -brand-product-name } อนุญาตสิ่งเหล่านี้เพื่อไม่ให้ไซต์เสียหาย:

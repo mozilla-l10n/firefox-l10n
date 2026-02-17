@@ -229,14 +229,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } kan ikke forhåndsvise denne lenken
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Vi kan ikke forhåndsvise denne lenken
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Besøk lenke
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } kan ikke generere hovedpunkter for denne nettsiden.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Vi kan ikke generere hovedpunkter for denne nettsiden.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Noe gikk galt.
 # Text for the retry link when generation fails

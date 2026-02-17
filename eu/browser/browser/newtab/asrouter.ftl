@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Egin { -brand-short-name } zure PDF
 annotations-make-default-pdf-handler-subtitle = Gure tresnetarako sarbidea izango duzu PDF bat irekitzen duzun aldiro.
 annotations-make-default-pdf-primary-cta-label = Ezarri lehenetsi gisa
 annotations-make-default-pdf-next-label = Hurrengoa
-annotations-make-default-pdf-primary-cta =
-    .label = Ezarri lehenetsi gisa
-annotations-make-default-pdf-next =
-    .label = Hurrengoa
 
 ## FxA sync CFR
 

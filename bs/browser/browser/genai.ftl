@@ -227,12 +227,8 @@ link-preview-reading-time =
         [few] Vrijeme čitanja u minutama: { $range }
        *[other] Vrijeme čitanja u minutama: { $range }
     }
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Ne možemo pregledati ovaj link
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Posjetite link
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Ne možemo generirati ključne tačke za ovu web stranicu.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Nešto je pošlo po zlu.
 # Text for the retry link when generation fails

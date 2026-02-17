@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = ¿Ejapo { -brand-short-name }-gui n
 annotations-make-default-pdf-handler-subtitle = Eikekuaáta ore rembiporukuérape embojuruja vove peteĩ PDF.
 annotations-make-default-pdf-primary-cta-label = Eipuru ijypykuévaramo
 annotations-make-default-pdf-next-label = Tenondegua
-annotations-make-default-pdf-primary-cta =
-    .label = Eipuru ijypykuévaramo
-annotations-make-default-pdf-next =
-    .label = Tenondegua
 
 ## FxA sync CFR
 

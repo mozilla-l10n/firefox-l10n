@@ -1524,11 +1524,6 @@ urlbar-trust-icon-notsecure-label = Net befeilige
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> tracker blokkearre op dizze website
-       *[other] <span>{ $count }</span> trackers blokkearre op dizze website
-    }
 trustpanel-blocker-description = { -brand-product-name } fynt dat bedriuwen jo minder folgje moatte. Dus blokkearje wy der safolle as wy kinne.
 trustpanel-blocked-header = { -brand-product-name } hat it folgjende foar jo blokkearre:
 trustpanel-tracking-header = { -brand-product-name } stiet it folgjende ta, sadat websites wurkje bliuwe:

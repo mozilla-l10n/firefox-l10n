@@ -1521,11 +1521,6 @@ urlbar-trust-icon-notsecure-label = Ndahekorosãi
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header =
-    { $count ->
-        [one] <span>{ $count }</span> Tapykuehoha jokopyre ko tendápe g̃uarã
-       *[other] <span>{ $count }</span> Tapykuehohakuéra jokopyre ko tendápe g̃uarã
-    }
 trustpanel-blocker-description = { -brand-product-name } oguerovia umi mba’apohaguasu nde rapykueho’ivéta. Upévare rojokopa roipotávape.
 trustpanel-blocked-header = { -brand-product-name } ojoko ko’ã mba’e ndéve g̃uarã:
 trustpanel-tracking-header = { -brand-product-name } omoneĩ ko’ã mba’e tendakuéra oikoite hag̃ua:

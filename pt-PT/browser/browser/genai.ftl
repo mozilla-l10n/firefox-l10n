@@ -224,12 +224,8 @@ link-preview-reading-time =
         [one] { $range } minuto de tempo de leitura
        *[other] { $range } minutos de tempo de leitura
     }
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Não podemos pré-visualizar esta ligação
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar ligação
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Não conseguimos gerar pontos-chave para esta página da Internet.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Algo correu mal.
 # Text for the retry link when generation fails

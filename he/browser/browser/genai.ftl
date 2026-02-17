@@ -189,14 +189,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = ‏{ -brand-short-name } לא יכול להציג תצוגה מקדימה של קישור זה
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = לא ניתן להציג תצוגה מקדימה לקישור זה
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = ביקור בקישור
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = ‏{ -brand-short-name } לא יכול ליצור נקודות מפתח עבור דף אינטרנט זה.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = לא ניתן ליצור נקודות מפתח עבור דף אינטרנט זה.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = משהו השתבש.
 # Text for the retry link when generation fails

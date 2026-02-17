@@ -249,10 +249,6 @@ annotations-make-default-pdf-handler-title = Setezi { -brand-short-name } ca edi
 annotations-make-default-pdf-handler-subtitle = Vei avea acces la toate uneltele noastre ori de câte ori vei deschide un PDF.
 annotations-make-default-pdf-primary-cta-label = Setează ca implicit
 annotations-make-default-pdf-next-label = Înainte
-annotations-make-default-pdf-primary-cta =
-    .label = Setează ca implicit
-annotations-make-default-pdf-next =
-    .label = Înainte
 
 ## FxA sync CFR
 

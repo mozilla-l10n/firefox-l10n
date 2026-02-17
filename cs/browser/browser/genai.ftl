@@ -261,14 +261,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } nedokáže zobrazit náhled tohoto odkazu
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Náhled tohoto odkazu nelze zobrazit
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Navštívit odkaz
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } nedokáže vytvořit klíčové body pro tuto webovou stránku
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Pro tuto stránku nemůžeme generovat klíčové body.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Nastala chyba.
 # Text for the retry link when generation fails

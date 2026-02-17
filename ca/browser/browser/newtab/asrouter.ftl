@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Voleu que el { -brand-short-name } 
 annotations-make-default-pdf-handler-subtitle = Tindreu accés a les nostres eines cada vegada que obriu un PDF.
 annotations-make-default-pdf-primary-cta-label = Defineix per defecte
 annotations-make-default-pdf-next-label = Següent
-annotations-make-default-pdf-primary-cta =
-    .label = Defineix per defecte
-annotations-make-default-pdf-next =
-    .label = Següent
 
 ## FxA sync CFR
 

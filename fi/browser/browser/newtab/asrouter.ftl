@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Tehdäänkö { -brand-short-name }i
 annotations-make-default-pdf-handler-subtitle = Pääset käyttämään työkalujamme aina, kun avaat PDF-tiedoston.
 annotations-make-default-pdf-primary-cta-label = Aseta oletukseksi
 annotations-make-default-pdf-next-label = Seuraava
-annotations-make-default-pdf-primary-cta =
-    .label = Aseta oletukseksi
-annotations-make-default-pdf-next =
-    .label = Seuraava
 
 ## FxA sync CFR
 

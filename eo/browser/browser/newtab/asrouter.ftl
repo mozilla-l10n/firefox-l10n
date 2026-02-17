@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = Ĉu igi { -brand-short-name } via n
 annotations-make-default-pdf-handler-subtitle = Malferminte dosieron PDF vi ĉiam povos aliri niajn ilojn.
 annotations-make-default-pdf-primary-cta-label = Elekti kiel norma
 annotations-make-default-pdf-next-label = Antaŭen
-annotations-make-default-pdf-primary-cta =
-    .label = Elekti kiel norma
-annotations-make-default-pdf-next =
-    .label = Antaŭen
 
 ## FxA sync CFR
 

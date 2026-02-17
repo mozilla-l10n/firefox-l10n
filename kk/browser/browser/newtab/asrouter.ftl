@@ -243,10 +243,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } өнімін 
 annotations-make-default-pdf-handler-subtitle = PDF файлын ашқан сайын біздің құралдарымызға қол жеткізе аласыз.
 annotations-make-default-pdf-primary-cta-label = Бастапқы ретінде орнату
 annotations-make-default-pdf-next-label = Келесі
-annotations-make-default-pdf-primary-cta =
-    .label = Бастапқы ретінде орнату
-annotations-make-default-pdf-next =
-    .label = Келесі
 
 ## FxA sync CFR
 

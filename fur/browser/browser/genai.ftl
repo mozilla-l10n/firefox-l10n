@@ -231,14 +231,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } nol pues gjenerâ la anteprime di chest colegament
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = No rivìn a visualizâ la anteprime di chest colegament
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visite il colegament
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } nol pues gjenerâ i ponts clâf par cheste pagjine web.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = No rivìn a gjenerâ i ponts clâf par cheste pagjine web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Alc al è lât strucj.
 # Text for the retry link when generation fails

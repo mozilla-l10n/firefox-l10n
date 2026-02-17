@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } jo standert P
 annotations-make-default-pdf-handler-subtitle = Hieltyd as jo in PDF iepenje, hawwe jo tagong ta ús helpmiddelen.
 annotations-make-default-pdf-primary-cta-label = Ynstelle as standert
 annotations-make-default-pdf-next-label = Folgjende
-annotations-make-default-pdf-primary-cta =
-    .label = Ynstelle as standert
-annotations-make-default-pdf-next =
-    .label = Folgjende
 
 ## FxA sync CFR
 

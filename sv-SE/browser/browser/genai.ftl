@@ -229,14 +229,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } kan inte förhandsgranska den här länken
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Vi kan inte förhandsgranska den här länken
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Besök länk
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } kan inte generera nyckelpunkter för den här webbsidan.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Vi kan inte skapa nyckelpunkter för den här webbsidan.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Något gick fel.
 # Text for the retry link when generation fails

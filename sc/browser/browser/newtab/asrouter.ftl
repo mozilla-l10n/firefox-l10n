@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = Boles cunfigurare { -brand-short-na
 annotations-make-default-pdf-handler-subtitle = As a tènnere atzessu a is ainas nostras onni borta chi abèrgias unu PDF.
 annotations-make-default-pdf-primary-cta-label = Cunfigura comente predefinidu
 annotations-make-default-pdf-next-label = Imbeniente
-annotations-make-default-pdf-primary-cta =
-    .label = Cunfigura comente predefinidu
-annotations-make-default-pdf-next =
-    .label = Imbeniente
 
 ## FxA sync CFR
 

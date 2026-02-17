@@ -249,10 +249,6 @@ annotations-make-default-pdf-handler-title = Зрабіць { -brand-short-name 
 annotations-make-default-pdf-handler-subtitle = Вы будзеце мець доступ да нашых прылад кожны раз, калі адкрываеце PDF-файл.
 annotations-make-default-pdf-primary-cta-label = Зрабіць прадвызначаным
 annotations-make-default-pdf-next-label = Далей
-annotations-make-default-pdf-primary-cta =
-    .label = Зрабіць прадвызначаным
-annotations-make-default-pdf-next =
-    .label = Далей
 
 ## FxA sync CFR
 

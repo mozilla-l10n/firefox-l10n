@@ -246,10 +246,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } als Standard-
 annotations-make-default-pdf-handler-subtitle = Sie haben jedes Mal Zugriff auf unsere Werkzeuge, wenn Sie eine PDF-Datei öffnen.
 annotations-make-default-pdf-primary-cta-label = Als Standard festlegen
 annotations-make-default-pdf-next-label = Weiter
-annotations-make-default-pdf-primary-cta =
-    .label = Als Standard festlegen
-annotations-make-default-pdf-next =
-    .label = Weiter
 
 ## FxA sync CFR
 

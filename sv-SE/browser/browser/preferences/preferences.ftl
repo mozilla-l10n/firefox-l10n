@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Typ av innehåll
     .accesskey = T
+applications-type-heading = Typ av innehåll
 applications-action-column =
     .label = Åtgärd
     .accesskey = Å
+applications-action-heading = Åtgärd
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension }-fil
@@ -1048,6 +1050,8 @@ search-one-click-desc = Välj alternativa sökmotorer som visas under adressfäl
 search-one-click-header-3 =
     .label = Ytterligare sökmotorer
     .description = Välj vilka sökmotorer och genvägar som ska visas i adressfältet.
+update-search-engine-success =
+    .message = Sökmotor har uppdaterats
 search-choose-engine-column =
     .label = Sökmotor
 search-choose-keyword-column =

@@ -245,10 +245,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } ਨੂੰ ਆ
 annotations-make-default-pdf-handler-subtitle = ਜਦੋਂ ਵੀ ਤੁਸੀਂ PDF ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਕੋਲ ਸਾਡੇ ਸਾਰੇ ਟੂਲਾਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ।
 annotations-make-default-pdf-primary-cta-label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
 annotations-make-default-pdf-next-label = ਅੱਗੇ
-annotations-make-default-pdf-primary-cta =
-    .label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
-annotations-make-default-pdf-next =
-    .label = ਅੱਗੇ
 
 ## FxA sync CFR
 

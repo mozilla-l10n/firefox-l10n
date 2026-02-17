@@ -234,14 +234,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } не может предпросмотреть эту ссылку
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Мы не можем предпросмотреть эту ссылку
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Перейти по ссылке
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } не может сгенерировать ключевые точки для этой веб-страницы.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Мы не можем сгенерировать ключевые точки для этой веб-страницы.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Что-то пошло не так.
 # Text for the retry link when generation fails

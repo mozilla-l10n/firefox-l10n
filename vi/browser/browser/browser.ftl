@@ -1497,7 +1497,6 @@ urlbar-trust-icon-notsecure-label = Không an toàn
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = <span>{ $count }</span> trình theo dõi bị chặn trên trang web này
 trustpanel-blocker-description = { -brand-product-name } cho rằng các công ty nên theo dõi bạn ít hơn. Vì vậy, chúng tôi chặn càng nhiều càng tốt.
 trustpanel-blocked-header = { -brand-product-name } đã chặn những thứ này cho bạn:
 trustpanel-tracking-header = { -brand-product-name } cho phép những điều này để các trang web không bị hỏng:

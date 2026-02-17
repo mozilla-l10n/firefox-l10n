@@ -230,14 +230,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } ndaikatúi ohecha ko juajuha
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Ndajarekói hecha ypy ko juajuha rehegua
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Eike juajuhápe
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } nomoheñoikuaái mba’eporã ko ñanduti roguépe g̃uarã.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Ndaikatúi jahecha mba’eporã ko ñanduti roguépe g̃uarã.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Oĩvaicha osẽvaíva.
 # Text for the retry link when generation fails

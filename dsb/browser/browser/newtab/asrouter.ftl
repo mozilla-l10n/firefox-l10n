@@ -252,10 +252,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } k swójomu st
 annotations-make-default-pdf-handler-subtitle = Maśo pśistup k našym rědam kuždy raz, gaž PDF wócynjaśo.
 annotations-make-default-pdf-primary-cta-label = Ako standard wužywaś
 annotations-make-default-pdf-next-label = Dalej
-annotations-make-default-pdf-primary-cta =
-    .label = Ako standard wužywaś
-annotations-make-default-pdf-next =
-    .label = Dalej
 
 ## FxA sync CFR
 

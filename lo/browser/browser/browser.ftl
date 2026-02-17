@@ -1228,7 +1228,6 @@ trustpanel-blocker-header =
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = <span>{ $count }</span> ຕົວຕິດຕາມຖືກບລັອກຢູ່ໃນເວັບໄຊນີ້
 trustpanel-blocker-description = { -brand-product-name } ຄິດວ່າບໍລິສັດຄວນຕິດຕາມທ່ານໜ້ອຍລົງ. ດັ່ງນັ້ນພວກເຮົາສະກັດຫຼາຍເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
 trustpanel-blocked-header = { -brand-product-name } ບລັອກສິ່ງເຫຼົ່ານີ້ສຳລັບທ່ານ:
 trustpanel-tracking-header = { -brand-product-name } ອະນຸຍາດໃຫ້ສິ່ງເຫຼົ່ານີ້ເພື່ອບໍ່ໃຫ້ເວັບໄຊທ໌ພັງ:

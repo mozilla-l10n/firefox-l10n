@@ -229,14 +229,10 @@ link-preview-reading-time =
     }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } бұл сілтемені алдын ала көре алмайды.
-# Error message displayed when a link preview cannot be generated
-link-preview-error-message = Бұл сілтемені алдын ала қарай алмаймыз
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Сілтемеден өту
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
 link-preview-generation-error-missing-data-v2 = { -brand-short-name } бұл веб-бет үшін негізгі тұстарды қорытындылау мүмкін емес.
-# Error message when we can't generate key points (summary highlights or main ideas of page content) for a page
-link-preview-generation-error-missing-data = Бұл веб-бет үшін негізгі тұстарды қорытындылау мүмкін емес.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Бірнәрсе қате кетті.
 # Text for the retry link when generation fails

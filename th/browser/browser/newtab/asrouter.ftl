@@ -243,10 +243,6 @@ annotations-make-default-pdf-handler-title = ต้องการทำให�
 annotations-make-default-pdf-handler-subtitle = คุณจะสามารถเข้าถึงเครื่องมือของเราได้ทุกครั้งที่เปิดไฟล์ PDF
 annotations-make-default-pdf-primary-cta-label = ตั้งเป็นค่าเริ่มต้น
 annotations-make-default-pdf-next-label = ถัดไป
-annotations-make-default-pdf-primary-cta =
-    .label = ตั้งเป็นค่าเริ่มต้น
-annotations-make-default-pdf-next =
-    .label = ถัดไป
 
 ## FxA sync CFR
 
