@@ -47,10 +47,10 @@ webauthn-register-direct-prompt = { $hostname } traži proširene informacije o 
 webauthn-register-direct-prompt-hint = { -brand-short-name } može anonimizirati podatke za tebe, ali web-stranica može odbiti ovaj ključ. Ako ga odbije, možeš pokušati ponovo.
 # Variables:
 #  $hostname (String): the origin (website) for which an account needs to be selected.
-webauthn-select-sign-result-prompt = Pronađeno je više računa za { $hostname }. Odaberite koji želite koristiti ili odustanite.
+webauthn-select-sign-result-prompt = Za { $hostname } je pronađeno više računa. Odaberi račun koji želiš koristiti ili odustani.
 # Variables:
 #  $hostname (String): the origin (website) for which a device needs to be selected.
-webauthn-select-device-prompt = Više uređaja pronađeno je za { $hostname }. Odaberite jedan.
+webauthn-select-device-prompt = Za { $hostname } je pronađeno više uređaja. Odaberi jedan.
 # Variables:
 #  $hostname (String): the origin (website) for which user verification failed.
 webauthn-device-blocked-prompt = Provjera korisnika za { $hostname } nije uspjela. Nema više pokušaja i vaš je uređaj zaključan jer je pogrešan PIN unesen previše puta. Uređaj treba resetirati.

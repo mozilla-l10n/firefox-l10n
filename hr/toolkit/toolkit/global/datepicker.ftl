@@ -11,9 +11,9 @@
 ## spinner dialogs for HTML's <input type="date">
 
 date-picker-label =
-    .aria-label = Odaberite datum
+    .aria-label = Odaberi datum
 date-spinner-label =
-    .aria-label = Odaberite mjesec i godinu
+    .aria-label = Odaberi mjesec i godinu
 
 ## Text of the clear button
 

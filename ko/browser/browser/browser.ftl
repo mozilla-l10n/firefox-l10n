@@ -563,6 +563,9 @@ browser-window-restore-down-button =
     .tooltiptext = 이전 크기로 복원
 browser-window-close-button =
     .tooltiptext = 닫기
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = 돌아가기
 
 ## Tab actions
 
@@ -1157,6 +1160,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = 새 사생활 보호 창
     .tooltiptext = 새 사생활 보호 창 열기 ({ $shortcut })
+toolbar-button-share-tab =
+    .label = 공유
+    .tooltiptext = 이 페이지 공유
 
 ## EME notification panel
 

@@ -118,7 +118,7 @@ login-intro-instructions-fxa-settings = Idi u Postavke > Sinkronizacija > Uklju�
 login-intro-instructions-fxa-passwords-help = Posjeti <a data-l10n-name="passwords-help-link">podršku za lozinke</a> za dodatnu pomoć.
 about-logins-intro-browser-only-import = Ako su tvoje prijave spremljene u drugom pregledniku, možeš ih <a data-l10n-name="import-link">uvesti u { -brand-product-name }</a>
 about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name(case: "gen") }, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog preglednika</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
-about-logins-intro-import3 = Odaberite plus znak iznad kako biste dodali lozinku. Također možete <a data-l10n-name="import-browser-link">uvesti lozinke iz drugog preglednika</a> ili <a data-l10n-name="import-file-link">iz datoteke</a>.
+about-logins-intro-import3 = Odaberi gornji znak plus za dodavanje lozinke. Također možeš <a data-l10n-name="import-browser-link">uvesti lozinke iz jednog drugog preglednika</a> ili <a data-l10n-name="import-file-link">iz datoteke</a>.
 
 ## Login
 
