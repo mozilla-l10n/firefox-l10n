@@ -74,6 +74,8 @@ close-button =
     .aria-label = Mdel
 do-not-track-removal2 =
     .label = Dayen, ur nettεawan ara tamuli “Ur ṭṭafar ara”
+applications-setting-new-file-types =
+    .label = D acu ara imahel { -brand-short-name } s yifuyla-nniḍen?
 
 ## Browser Restart Dialog
 
