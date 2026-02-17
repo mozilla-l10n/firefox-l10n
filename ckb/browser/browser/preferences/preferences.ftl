@@ -21,6 +21,7 @@ category-search =
 pane-privacy-title = تایبەتی و پاراستن
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = هاوکاتکردن
 pane-experimental-subtitle = بەردەوام بە وریایەوە
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
