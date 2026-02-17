@@ -78,6 +78,8 @@ close-button =
     .aria-label = Luk
 do-not-track-removal2 =
     .label = Vi understøtter ikke længere "Spor mig ikke"-signalet
+applications-setting-new-file-types =
+    .label = Hvad skal { -brand-short-name } gøre med andre filer?
 
 ## Browser Restart Dialog
 
