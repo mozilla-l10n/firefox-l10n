@@ -78,6 +78,8 @@ close-button =
     .aria-label = Stäng
 do-not-track-removal2 =
     .label = Vi stöder inte längre signalen "Spåra inte".
+applications-setting-new-file-types =
+    .label = Vad ska { -brand-short-name } göra med andra filer?
 
 ## Browser Restart Dialog
 
