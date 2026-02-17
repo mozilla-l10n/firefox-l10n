@@ -803,7 +803,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = საწყისი გვერდი და ახალი ფანჯრები
 home-homepage-new-windows =
     .label = ახალი ფანჯრები
-home-homepage-mode-label2 = ახალი ფანჯრები
 home-newtabs-mode-label = ახალი ჩანართები
 home-homepage-new-tabs =
     .label = ახალი ჩანართები
@@ -824,8 +823,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = აირჩიეთ ცალკეული საიტი
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = აირჩიეთ ცალკეული საიტი
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +837,6 @@ use-current-pages =
 choose-bookmark =
     .label = სანიშნის გამოყენება…
     .accesskey = ს
-home-homepage-header = საწყისი გვერდი
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1510,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = გადახდის საშუალების დამატება
 payments-list-header =
     .label = გადახდის საშუალებები
-payments-list-item-label = <strong>გადახდის საშუალებები</strong>
 payments-delete-payment-prompt-title = მოცილდეს გადახდის ეს საშუალება?
 payments-delete-payment-prompt-confirm-button = წაშლა
 payments-delete-payment-prompt-cancel-button = გაუქმება
@@ -1525,9 +1520,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = გადახდის საშუალება არაა დამატებული
-payments-remove-payment-prompt-title = მოცილდეს გადახდის ეს საშუალება?
-payments-remove-payment-prompt-confirm-button = მოცილება
-payments-remove-payment-prompt-cancel-button = გაუქმება
 autofill-addresses-title = მისამართები და სხვა
 autofill-addresses-header =
     .aria-label = მისამართები და სხვა
@@ -1729,11 +1721,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = მისამართების ველი
-addressbar-suggest-1 = აირჩიეთ, რომელი შემოთავაზებები გამოჩნდეს თქვენი მისამართების ველში
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = მისამართების ველში შემოთავაზებების წყაროა { -brand-short-name } და ჩვენი მოკავშირეები.
 addressbar-suggest = შემოთავაზებები მისამართების ველით სარგებლობისას
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = მისამართების ველი — { -firefox-suggest-brand-name }
@@ -1790,10 +1777,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = ხშირად მოძიებულის შემოთავაზებები
     .accesskey = ხ
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = გთავაზობთ { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = შემოთავაზებები ვებსივრციდან თქვენ მიერ მოძიებულის შესაბამისად.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = გთავაზობთ { -brand-short-name }
