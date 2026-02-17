@@ -78,6 +78,8 @@ close-button =
     .aria-label = ਬੰਦ ਕਰੋ
 do-not-track-removal2 =
     .label = ਅਸੀਂ ਹੁਣ “ਟਰੈਕ ਨਾ ਕਰੋ” ਸਿਗਨਲ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ
+applications-setting-new-file-types =
+    .label = { -brand-short-name } ਨੂੰ ਹੋਰ ਫਾਈਲਾਂ ਨਾਲ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
 
 ## Browser Restart Dialog
 
