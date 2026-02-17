@@ -16,6 +16,7 @@ customkeys-reset-all-confirm = 모든 키보드 단축키를 기본값으로 재
 customkeys-history-reopen-tab = 마지막으로 닫은 탭 다시 열기
 customkeys-history-reopen-window = 마지막으로 닫은 창 다시 열기
 customkeys-sidebar-toggle = 사이드바 표시/숨기기
+customkeys-view-picture-in-picture = 화면 속 화면
 customkeys-dev-tools = 웹 개발자 도구
 customkeys-dev-inspector = DOM 및 스타일 검사기
 customkeys-dev-webconsole = 웹 콘솔

@@ -554,9 +554,11 @@ applications-filter =
 applications-type-column =
     .label = 콘텐츠 유형
     .accesskey = T
+applications-type-heading = 콘텐츠 유형
 applications-action-column =
     .label = 동작
     .accesskey = A
+applications-action-heading = 동작
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } 파일
@@ -1032,6 +1034,8 @@ search-one-click-desc = 키워드 입력을 시작했을 때 주소 표시줄과
 search-one-click-header-3 =
     .label = 추가 검색 엔진
     .description = 주소 표시줄에 표시할 검색 엔진과 바로 가기를 선택하세요.
+update-search-engine-success =
+    .message = 검색 엔진 업데이트 완료
 search-choose-engine-column =
     .label = 검색 엔진
 search-choose-keyword-column =

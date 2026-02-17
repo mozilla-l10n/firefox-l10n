@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Embojevyjey Yvýgotyo
 browser-window-close-button =
     .tooltiptext = Mboty
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Jevyjey
 
 ## Tab actions
 
@@ -1176,6 +1179,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Ovetã ñemi pyahu
     .tooltiptext = Ovetã pyahu kundaha ñemíme jeike ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Moherakuã
+    .tooltiptext = Emoherakuã ko kuatiarogue
 
 ## EME notification panel
 
