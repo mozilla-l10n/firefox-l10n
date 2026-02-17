@@ -78,6 +78,8 @@ close-button =
     .aria-label = დახურვა
 do-not-track-removal2 =
     .label = აღარაა მხარდაჭერილი მოთხოვნა „არ მითვალთვალო“
+applications-setting-new-file-types =
+    .label = როგორ მოეპყრას { -brand-short-name } დანარჩენ ფაილებს?
 
 ## Browser Restart Dialog
 
