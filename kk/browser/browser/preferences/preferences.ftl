@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Құрамының түрі
     .accesskey = р
+applications-type-heading = Мазмұн түрі
 applications-action-column =
     .label = Әрекет
     .accesskey = е
+applications-action-heading = Әрекет
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } файлы
@@ -1048,6 +1050,8 @@ search-one-click-desc = Сіз кілттік сөзді енгізген кез
 search-one-click-header-3 =
     .label = Қосымша іздеу жүйелері
     .description = Адрес жолағында қай іздеу жүйелері мен жарлықтар көрінетінін таңдаңыз.
+update-search-engine-success =
+    .message = Іздеу жүйесі сәтті жаңартылды
 search-choose-engine-column =
     .label = Іздеу жүйесі
 search-choose-keyword-column =

@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Терезеге қайыру
 browser-window-close-button =
     .tooltiptext = Жабу
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Артқа оралу
 
 ## Tab actions
 
@@ -1173,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Жаңа жекелік терезе
     .tooltiptext = Жаңа жекелік шолу терезені ашу ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Бөлісу
+    .tooltiptext = Бұл бетті бөлісу
 
 ## EME notification panel
 
