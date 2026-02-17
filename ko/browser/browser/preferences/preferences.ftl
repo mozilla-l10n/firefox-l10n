@@ -856,6 +856,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = 주소 삭제
     .title = 주소 삭제
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 대체:
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 아직 추가된 웹 사이트가 없습니다.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
