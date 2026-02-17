@@ -78,6 +78,8 @@ close-button =
     .aria-label = Закрыць
 do-not-track-removal2 =
     .label = Мы больш не падтрымліваем сігнал «Не асочваць»
+applications-setting-new-file-types =
+    .label = Што { -brand-short-name } мусіць рабіць з іншымі файламі?
 
 ## Browser Restart Dialog
 
@@ -806,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Хатняя старонка і новыя вокны
 home-homepage-new-windows =
     .label = Новыя вокны
-home-homepage-mode-label2 = Новыя вокны
 home-newtabs-mode-label = Новыя карткі
 home-homepage-new-tabs =
     .label = Новыя карткі
@@ -827,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Выберыце канкрэтны сайт
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Выберыце канкрэтны сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -843,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
-home-homepage-header = Хатняя старонка
 
 ## Home Section - Home Page Customization
 
@@ -1518,7 +1516,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Дадаць новы спосаб аплаты
 payments-list-header =
     .label = Спосабы аплаты
-payments-list-item-label = <strong>Спосабы аплаты</strong>
 payments-delete-payment-prompt-title = Выдаліць гэты спосаб аплаты?
 payments-delete-payment-prompt-confirm-button = Выдаліць
 payments-delete-payment-prompt-cancel-button = Скасаваць
@@ -1529,9 +1526,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Спосабы аплаты не дададзены
-payments-remove-payment-prompt-title = Выдаліць гэты спосаб аплаты?
-payments-remove-payment-prompt-confirm-button = Выдаліць
-payments-remove-payment-prompt-cancel-button = Скасаваць
 autofill-addresses-title = Адрасы і іншае
 autofill-addresses-header =
     .aria-label = Адрасы і іншае
@@ -1733,11 +1727,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Адрасны радок
-addressbar-suggest-1 = Выберыце, якія прапановы будуць паказвацца ў адрасным радку
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Прапановы ад { -brand-short-name } і нашых партнёраў у вашым адрасным радку.
 addressbar-suggest = Пры выкарыстанні адраснага радка, прапаноўваць
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адрасны радок — { -firefox-suggest-brand-name }
@@ -1794,10 +1783,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Паказваць папулярныя пошукавыя прапановы
     .accesskey = п
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Прапановы ад { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Атрымлівайце прапановы з інтэрнэту, звязаныя з вашым пошукам.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Прапановы ад { -brand-short-name }
