@@ -78,6 +78,8 @@ close-button =
     .aria-label = Zacyniś
 do-not-track-removal2 =
     .label = Njepódpěramy wěcej signal „Njeslědowaś“
+applications-setting-new-file-types =
+    .label = Co ma { -brand-short-name } z drugimi datajami cyniś?
 
 ## Browser Restart Dialog
 
