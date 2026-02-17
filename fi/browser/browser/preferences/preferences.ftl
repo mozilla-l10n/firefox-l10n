@@ -78,6 +78,8 @@ close-button =
     .aria-label = Sulje
 do-not-track-removal2 =
     .label = "Älä seuraa"-signaali ei ole enää tuettu
+applications-setting-new-file-types =
+    .label = Mitä { -brand-short-name }in pitäisi tehdä muille tiedostoille?
 
 ## Browser Restart Dialog
 
