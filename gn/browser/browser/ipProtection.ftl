@@ -167,6 +167,9 @@ ipprotection-bandwidth-reset-button = Aikũmby
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN opytáva
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Eiporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jesýpe.
 vpn-paused-alert-close-tabs-button = Embotypaite tendayke
 vpn-paused-alert-continue-wo-vpn-button = Eku’ejey VPN-ỹ rehe
 vpn-error-alert-title = VPN ndoikoporãi ko’ag̃aite.

@@ -563,9 +563,11 @@ applications-filter =
 applications-type-column =
     .label = Peteĩchagua tetepy
     .accesskey = T
+applications-type-heading = Peteĩchagua tetepy
 applications-action-column =
     .label = Ñemongu’e
     .accesskey = A
+applications-action-heading = Ñemongu’e
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } marandurenda
@@ -1045,6 +1047,8 @@ search-one-click-desc = Eiporavo hekaha mongu’eha mbojopyrukuaa ojekuaáva kun
 search-one-click-header-3 =
     .label = Hekaha mongu’eha mokõiháva
     .description = Embojuaju hekaha mongu’eha ha jeike pya’eha ojekuaa nde kundaharape rupápe.
+update-search-engine-success =
+    .message = Jehekaha mongu’eha hekopyahu hekopete
 search-choose-engine-column =
     .label = Jehekaha
 search-choose-keyword-column =
