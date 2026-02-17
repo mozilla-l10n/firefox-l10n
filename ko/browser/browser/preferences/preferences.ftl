@@ -78,6 +78,8 @@ close-button =
     .aria-label = 닫기
 do-not-track-removal2 =
     .label = "추적 안 함" 신호를 더 이상 지원하지 않음
+applications-setting-new-file-types =
+    .label = { -brand-short-name }로 다른 파일 형식은 어떤 작업을 하시겠습니까?
 
 ## Browser Restart Dialog
 
