@@ -768,7 +768,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Տնէջ և նոր պատուհաններ
 home-homepage-new-windows =
     .label = Նոր պատուհաններ
-home-homepage-mode-label2 = Նոր պատուհաններ
 home-newtabs-mode-label = Նոր ներդիրներ
 home-homepage-new-tabs =
     .label = Նոր ներդիրներ
@@ -789,8 +788,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Ընտրեք որոշակի կայք
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Ընտրեք որոշակի կայք
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -805,7 +802,6 @@ use-current-pages =
 choose-bookmark =
     .label = Օգտագործել էջանիշ...
     .accesskey = է
-home-homepage-header = Տնային էջ
 
 ## Home Section - Home Page Customization
 
@@ -1445,7 +1441,6 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-add-button = Ավելացնել նոր վճարամիջոց
 payments-list-header =
     .label = Վճարամիջոցներ
-payments-list-item-label = <strong>Վճարամիջոցներ</strong>
 payments-delete-payment-prompt-title = Ջնջե՞լ այս վճարամիջոցը:
 payments-delete-payment-prompt-confirm-button = Ջնջել
 payments-delete-payment-prompt-cancel-button = Չեղարկել
@@ -1456,9 +1451,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Վճարամիջոցներ չեն ավելացվել
-payments-remove-payment-prompt-title = Հեռացնե՞լ այս վճարամիջոցը:
-payments-remove-payment-prompt-confirm-button = Հեռացնել
-payments-remove-payment-prompt-cancel-button = Չեղարկել
 autofill-addresses-title = Հասցեներ և այլն
 autofill-addresses-header =
     .aria-label = Հասցեներ և այլն
@@ -1637,11 +1629,6 @@ forms-handle-cookie-banners =
 ## Search Section
 
 addressbar-header = Հասցեագոտի
-addressbar-suggest-1 = Ընտրեք Ձեր հասցեագոտում ցուցադրվող առաջարկները
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Առաջարկներ { -brand-short-name }-ից և մեր գործընկերներից Ձեր հասցեագոտում։
 addressbar-suggest = Հասցեագոտին օգտագործելիս առաջարկել
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Հասցեագոտի․ { -firefox-suggest-brand-name }
@@ -1688,10 +1675,6 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 addressbar-locbar-showrecentsearches-option =
     .label = Ցուցադրել վերջին որոնումները
     .accesskey = վ
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Առաջարկներ { -brand-short-name }-ից
-addressbar-locbar-suggest-all-option-desc = Ստացեք առաջարկներ համացանցից՝ կապված ձեր որոնման հետ։
 addressbar-locbar-suggest-nonsponsored-desc = Ստացեք առաջարկներ համացանցից՝ կապված ձեր որոնման հետ։
 addressbar-locbar-suggest-sponsored-option =
     .label = Առաջարկություններ հովանավորներից
