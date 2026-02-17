@@ -56,6 +56,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = بستن
+applications-setting-new-file-types =
+    .label = ‏{ -brand-short-name } با دیگر پرونده‌ها چه کند؟
 
 ## Browser Restart Dialog
 
