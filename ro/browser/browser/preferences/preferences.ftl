@@ -78,6 +78,8 @@ close-button =
     .aria-label = Închide
 do-not-track-removal2 =
     .label = Nu mai oferim suport pentru semnalul „Nu mă urmări”
+applications-setting-new-file-types =
+    .label = Ce ar trebui să facă { -brand-short-name } cu alte fișiere?
 
 ## Browser Restart Dialog
 
