@@ -78,6 +78,8 @@ close-button =
     .aria-label = Clauder
 do-not-track-removal2 =
     .label = Le signal “Non traciar me” non es plus supportate
+applications-setting-new-file-types =
+    .label = Que debe { -brand-short-name } facer con altere files?
 
 ## Browser Restart Dialog
 
