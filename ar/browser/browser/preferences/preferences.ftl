@@ -764,6 +764,10 @@ home-custom-homepage-delete-address-button =
     .title = احذف العنوان
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = استبدل ب
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with = استبدل ب
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with)
 home-custom-homepage-current-pages-button =
