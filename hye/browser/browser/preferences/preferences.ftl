@@ -56,6 +56,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Փակել
+applications-setting-new-file-types =
+    .label = Ի՞նչ պետք է { -brand-short-name } անի այղ նիշերի հետ
 
 ## Browser Restart Dialog
 
