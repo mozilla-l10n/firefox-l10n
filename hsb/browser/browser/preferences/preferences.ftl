@@ -572,9 +572,11 @@ applications-filter =
 applications-type-column =
     .label = Wobsahowy typ
     .accesskey = W
+applications-type-heading = Wobsahowy typ
 applications-action-column =
     .label = Akcija
     .accesskey = A
+applications-action-heading = Akcija
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Dataja { $extension }
@@ -1056,6 +1058,8 @@ search-one-click-desc = Wubjerće alternatiwne pytawy, kotrež so pod adresowym 
 search-one-click-header-3 =
     .label = Přidatne pytawy
     .description = Rozsudźće, kotre pytawy a zwjazanja maja so we wašim adresowym polu jewić.
+update-search-engine-success =
+    .message = Pytawa je so wuspěšnje zaktualizowała
 search-choose-engine-column =
     .label = Pytawa
 search-choose-keyword-column =

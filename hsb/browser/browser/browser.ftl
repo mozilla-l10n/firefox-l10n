@@ -569,6 +569,9 @@ browser-window-restore-down-button =
     .tooltiptext = Pomjeńšić
 browser-window-close-button =
     .tooltiptext = Začinić
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Wróćo
 
 ## Tab actions
 
@@ -1190,6 +1193,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nowe priwatne wokno
     .tooltiptext = Nowe priwatne wokno wočinić ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Dźělić
+    .tooltiptext = Tutu stronu dźělić
 
 ## EME notification panel
 
