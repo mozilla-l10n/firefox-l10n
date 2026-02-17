@@ -74,6 +74,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Փակել
+applications-setting-new-file-types =
+    .label = Ի՞նչ պետք է անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
 
 ## Browser Restart Dialog
 
@@ -519,6 +521,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Ջնջել գաղտնի դիտարկման մեջ ներբեռնված ֆայլերը, երբ բոլոր գաղտնի պատուհանները փակվեն
     .accesskey = Ջ
+applications-setting =
+    .label = Ծրագրեր
+    .description = Ընտրեք, թե ինչպես { -brand-short-name }-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:
 applications-header = Ծրագրեր
 applications-description = Ընտրեք, թե ինչպես { -brand-short-name }-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:
 applications-filter =
