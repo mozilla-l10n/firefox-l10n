@@ -78,6 +78,8 @@ close-button =
     .aria-label = Sluiten
 do-not-track-removal2 =
     .label = We ondersteunen het ‘Niet volgen’-signaal niet meer
+applications-setting-new-file-types =
+    .label = Wat moet { -brand-short-name } met andere bestanden doen?
 
 ## Browser Restart Dialog
 
