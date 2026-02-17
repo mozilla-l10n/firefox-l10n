@@ -78,6 +78,8 @@ close-button =
     .aria-label = Schließen
 do-not-track-removal2 =
     .label = Wir unterstützen das "Do Not Track"-Signal nicht mehr
+applications-setting-new-file-types =
+    .label = Wie soll { -brand-short-name } mit anderen Dateien verfahren?
 
 ## Browser Restart Dialog
 
