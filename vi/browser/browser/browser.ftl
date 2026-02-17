@@ -563,6 +563,9 @@ browser-window-restore-down-button =
     .tooltiptext = Khôi phục kích thước
 browser-window-close-button =
     .tooltiptext = Đóng
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Quay lại
 
 ## Tab actions
 
@@ -1157,6 +1160,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Cửa sổ riêng tư mới
     .tooltiptext = Mở một cửa sổ duyệt web riêng tư mới ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Chia sẻ
+    .tooltiptext = Chia sẻ trang này
 
 ## EME notification panel
 

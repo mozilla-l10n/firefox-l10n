@@ -554,9 +554,11 @@ applications-filter =
 applications-type-column =
     .label = Kiểu dữ liệu
     .accesskey = K
+applications-type-heading = Kiểu dữ liệu
 applications-action-column =
     .label = Thao tác
     .accesskey = a
+applications-action-heading = Hành động
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Tập tin { $extension }
@@ -1032,6 +1034,8 @@ search-one-click-desc = Chọn các công cụ tìm kiếm thay thế xuất hi�
 search-one-click-header-3 =
     .label = Các công cụ tìm kiếm khác
     .description = Hãy chọn những công cụ tìm kiếm và lối tắt nào sẽ hiển thị trên thanh địa chỉ của bạn.
+update-search-engine-success =
+    .message = Công cụ tìm kiếm đã được cập nhật thành công
 search-choose-engine-column =
     .label = Công cụ tìm kiếm
 search-choose-keyword-column =
