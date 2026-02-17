@@ -78,6 +78,8 @@ close-button =
     .aria-label = Itxi
 do-not-track-removal2 =
     .label = Jada ez dugu onartzen "Do Not Track" seinalea
+applications-setting-new-file-types =
+    .label = Zer egin behar du { -brand-short-name }(e)k beste fitxategiekin?
 
 ## Browser Restart Dialog
 
