@@ -78,6 +78,8 @@ close-button =
     .aria-label = Začinić
 do-not-track-removal2 =
     .label = Hižo njepodpěrujemy signal „Njeslědować“
+applications-setting-new-file-types =
+    .label = Što ma { -brand-short-name } z druhimi datajemi činić?
 
 ## Browser Restart Dialog
 
