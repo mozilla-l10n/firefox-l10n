@@ -72,6 +72,8 @@ close-button =
     .aria-label = Pechar
 do-not-track-removal2 =
     .label = Xa non soportamos o sinal «Non rastrexar»
+applications-setting-new-file-types =
+    .label = Que debería facer { -brand-short-name } con outros ficheiros?
 
 ## Browser Restart Dialog
 
@@ -416,6 +418,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Elimina os ficheiros descargados na navegación privada cando todas as ventás privadas estean pechadas
     .accesskey = E
+applications-setting =
+    .label = Aplicativos
+    .description = Escolla como { -brand-short-name } xestiona os ficheiros que descarga da web ou os aplicativos que usa mentres navega.
 applications-header = Aplicativos
 applications-description = Escolla como { -brand-short-name } xestiona os ficheiros que descarga da web ou os aplicativos que usa mentres navega.
 applications-filter =
