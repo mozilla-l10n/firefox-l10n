@@ -806,7 +806,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Pagină de start și ferestre noi
 home-homepage-new-windows =
     .label = Ferestre noi
-home-homepage-mode-label2 = Ferestre noi
 home-newtabs-mode-label = File noi
 home-homepage-new-tabs =
     .label = File noi
@@ -827,8 +826,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Alege un anumit site
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Alege un anumit site
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -843,7 +840,6 @@ use-current-pages =
 choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
-home-homepage-header = Pagină de start
 
 ## Home Section - Home Page Customization
 
@@ -1518,7 +1514,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Adaugă o metodă nouă de plată
 payments-list-header =
     .label = Metode de plată
-payments-list-item-label = <strong>Metode de plată</strong>
 payments-delete-payment-prompt-title = Ștergi această metodă de plată?
 payments-delete-payment-prompt-confirm-button = Șterge
 payments-delete-payment-prompt-cancel-button = Anulează
@@ -1529,9 +1524,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nu a fost adăugată nicio metodă de plată
-payments-remove-payment-prompt-title = Ștergi această metodă de plată?
-payments-remove-payment-prompt-confirm-button = Elimină
-payments-remove-payment-prompt-cancel-button = Anulează
 autofill-addresses-title = Adrese și multe altele
 autofill-addresses-header =
     .aria-label = Adrese și multe altele
@@ -1733,11 +1725,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Bară de adrese
-addressbar-suggest-1 = Alege ce sugestii să se afișeze în bara ta de adrese
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Sugestii de la { -brand-short-name } și partenerii noștri în bara ta de adrese.
 addressbar-suggest = Când se folosește bara de adresă, sugerează:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Bară de adrese — { -firefox-suggest-brand-name }
@@ -1794,10 +1781,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Afișează sugestii de căutare în tendințe
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Sugestii de la { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Obține sugestii de pe web legate de căutarea ta.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugestii de la { -brand-short-name }
