@@ -17,6 +17,8 @@ ipprotection-button-error =
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA
+ipprotection-help-button =
+    .tooltiptext = Άνοιγμα σελίδας υποστήριξης VPN
 ipprotection-title = VPN
 
 ## Feature introduction callout

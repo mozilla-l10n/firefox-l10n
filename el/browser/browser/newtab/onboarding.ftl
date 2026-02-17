@@ -572,5 +572,11 @@ onboarding-personalization-motivation-other-option = Άλλο
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Προστατεύουμε τα δεδομένα σας και εμποδίζουμε τις εταιρείες από το να κατασκοπεύουν τα κλικ σας, αυτόματα.
+onboarding-refresh-import-subtitle = Μεταφέρετε τους κωδικούς πρόσβασης, τους σελιδοδείκτες, το ιστορικό σας και πολλά άλλα.
+onboarding-refresh-import-title = Νιώστε σαν στο σπίτι σας στο { -brand-short-name }
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Δώστε ώθηση στην περιήγησή σας
+onboarding-refresh-sync-title = Βρεθείτε οπουδήποτε. Συγχρονίστε τα όλα.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Το { -brand-short-name } στο πλευρό σας
