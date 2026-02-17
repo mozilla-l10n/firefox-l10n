@@ -56,6 +56,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Užverti
+applications-setting-new-file-types =
+    .label = Ką „{ -brand-short-name }“ turėtų daryti su kitais failais?
 
 ## Browser Restart Dialog
 
