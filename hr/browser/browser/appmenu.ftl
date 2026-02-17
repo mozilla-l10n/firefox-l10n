@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskiraj svoju pravu e-mail adresu i telefonski broj
 appmenuitem-services-relay-description = Pokreni nadzornu ploču za maske e-mail adresa
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Zaštiti cijeli uređaj
 appmenuitem-vpn-description = Zaštiti svoju online aktivnost
 appmenu-services-header = Moje usluge
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

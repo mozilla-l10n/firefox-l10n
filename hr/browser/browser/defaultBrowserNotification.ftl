@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Korak 2: Odaberi „Postavi kao standard” za { -brand-short-name }
 default-browser-guidance-notification-info-page = Pokaži mi
 default-browser-guidance-notification-dismiss = Gotovo
+default-browser-guidance-notification-v2-title = Završi postavljanje { -brand-short-name(case: "gen") } kao standardnog preglednika
