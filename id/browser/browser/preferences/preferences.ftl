@@ -539,6 +539,9 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -662,6 +665,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -871,6 +880,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1354,10 +1368,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Tampilkan saran pencarian yang sedang tren
     .accesskey = a
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Saran dari { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Dapatkan saran dari web yang terkait dengan pencarian Anda.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Saran dari { -brand-short-name }
@@ -1738,3 +1748,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Unduhan
 choose-download-folder-title = Pilih Folder Unduhan:
+
+## AI controls page
+
