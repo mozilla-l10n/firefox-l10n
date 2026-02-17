@@ -803,7 +803,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startside og nye vinduer
 home-homepage-new-windows =
     .label = Nye vinduer
-home-homepage-mode-label2 = Nye vinduer
 home-newtabs-mode-label = Nye faner
 home-homepage-new-tabs =
     .label = Nye faner
@@ -824,8 +823,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Velg et bestemt nettsted
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Velg et bestemt nettsted
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +837,6 @@ use-current-pages =
 choose-bookmark =
     .label = Bruk bokmerke …
     .accesskey = u
-home-homepage-header = Startside
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1510,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåter
-payments-list-item-label = <strong>Betalingsmåter</strong>
 payments-delete-payment-prompt-title = Slette denne betalingsmåten?
 payments-delete-payment-prompt-confirm-button = Slett
 payments-delete-payment-prompt-cancel-button = Avbryt
@@ -1525,9 +1520,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmåter lagt til
-payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
-payments-remove-payment-prompt-confirm-button = Fjern
-payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser og mer
 autofill-addresses-header =
     .aria-label = Adresser og mer
@@ -1729,11 +1721,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresselinje
-addressbar-suggest-1 = Velg hvilke forslag som skal vises i adresselinjen
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Forslag fra { -brand-short-name } og våre partnere i adresselinjen din.
 addressbar-suggest = Når du bruker adresselinjen, føreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
@@ -1790,10 +1777,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Vis populære søkeforslag
     .accesskey = s
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Forslag fra { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Få forslag fra nettet relatert til søket ditt
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Forslag fra { -brand-short-name }
