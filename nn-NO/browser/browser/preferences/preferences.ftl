@@ -78,6 +78,8 @@ close-button =
     .aria-label = Lat att
 do-not-track-removal2 =
     .label = Vi støttar ikkje lenger «Ikkje spor»-signalet
+applications-setting-new-file-types =
+    .label = Kva skal { -brand-short-name } gjere med andre filer?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Slett filer som er lasta ned i privat nettlesing når alle private vindauge er attlatne
     .accesskey = S
+applications-setting =
+    .label = Program
+    .description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-header = Program
 applications-description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-filter =
