@@ -554,9 +554,11 @@ applications-filter =
 applications-type-column =
     .label = 內容類型
     .accesskey = t
+applications-type-heading = 內容類型
 applications-action-column =
     .label = 動作
     .accesskey = A
+applications-action-heading = 動作
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } 檔案
@@ -1036,6 +1038,8 @@ search-one-click-desc = 請選擇當您在網址列或搜尋列輸入關鍵字�
 search-one-click-header-3 =
     .label = 其他搜尋引擎
     .description = 選擇要在網址列顯示哪些搜尋引擎與捷徑。
+update-search-engine-success =
+    .message = 已成功更新搜尋引擎
 search-choose-engine-column =
     .label = 搜尋引擎
 search-choose-keyword-column =

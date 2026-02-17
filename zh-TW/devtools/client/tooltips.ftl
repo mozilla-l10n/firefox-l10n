@@ -23,6 +23,7 @@ inactive-css-column-span = 由於不在多欄容器中，<strong>{ $property }</
 inactive-css-not-grid-or-flex-item = 由於不是 Flex 或 Grid 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = 由於這個元素不是 grid 或 flex 項目，也不是絕對定位元素，<strong>{ $property }</strong> 對其沒有影響。
 inactive-css-not-grid-or-absolutely-positioned-item = 由於這個元素不是 grid 元素，也不是絕對定位元素，<strong>{ $property }</strong> 對其沒有影響。
+inactive-css-not-absolutely-positioned-item = 由於不是絕對定位的元素，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-item = 由於不是 Grid 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-container = 由於不是 Grid 容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-flex-item = 由於不是 Flex 項目，<strong>{ $property }</strong> 對此元素沒有影響。

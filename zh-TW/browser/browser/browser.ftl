@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = 還原大小
 browser-window-close-button =
     .tooltiptext = 關閉
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = 返回
 
 ## Tab actions
 
@@ -1173,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = 開新隱私視窗
     .tooltiptext = 新增隱私瀏覽視窗 ({ $shortcut })
+toolbar-button-share-tab =
+    .label = 分享
+    .tooltiptext = 分享此頁面
 
 ## EME notification panel
 
