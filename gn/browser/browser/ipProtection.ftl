@@ -102,7 +102,21 @@ ip-protection-description =
 ip-protection-learn-more = Eikuaave
 ip-protection-site-exceptions =
     .label = Ñembohekoite tendagua
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Eiporu VPN jehe’apyre { -brand-short-name }
+    .message = Eñomi ne rendaite ha embojuaju papapy jo’apyre ne ñeikundaha { -brand-short-name }-pegua. Ereko { $maxUsage } GB mba’ekuaarã VPN reigua jasýpe.
 ip-protection-not-opted-in-button = Eñepyrũ
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Eñangareko ñanduti rogue ñembohekóre
+    .description =
+        { $count ->
+            [one] { $count } ñanduti rogue
+           *[other] { $count } ñanduti rogueita
+        }
 ip-protection-autostart =
     .label = Emyandy VPN ijeheguietéva
 ip-protection-autostart-checkbox =
@@ -114,6 +128,7 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = Eñangareko ñanduti rogue ñembohekóre
+ip-protection-exclusions-desc = Eiporu VPN opaite ñanduti rogue ha’eỹva ko tysyipegua. Embojuaju ñanduti rogue ápe térã embojuruja VPN.
 
 ## IP Protection Bandwidth
 
@@ -137,12 +152,16 @@ ip-protection-bandwidth-left-mb = Oĩntema { $usageLeft } MB { $maxUsage } GB-gu
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jesýpe.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Oiko jey { $maxUsage }-pe GB oñepyrũvo ára jasygua.
 
 ## IP Protection bandwidth reset callout
 
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN rehegua, hekopyahu ha eiporukuaáma
+ipprotection-bandwidth-reset-text = Emyandy VPN imbareteve hag̃ua nde rekoñemi, rei opaite jasýpe.
 ipprotection-bandwidth-reset-button = Aikũmby
 
 ## IP Protection alerts
