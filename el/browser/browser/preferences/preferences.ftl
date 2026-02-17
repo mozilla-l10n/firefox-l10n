@@ -803,7 +803,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Αρχική σελίδα και νέα παράθυρα
 home-homepage-new-windows =
     .label = Νέα παράθυρα
-home-homepage-mode-label2 = Νέα παράθυρα
 home-newtabs-mode-label = Νέες καρτέλες
 home-homepage-new-tabs =
     .label = Νέες καρτέλες
@@ -824,8 +823,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Επιλογή συγκεκριμένου ιστοτόπου
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Επιλογή συγκεκριμένου ιστοτόπου
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +837,6 @@ use-current-pages =
 choose-bookmark =
     .label = Χρήση σελιδοδείκτη…
     .accesskey = σ
-home-homepage-header = Αρχική σελίδα
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1510,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Προσθήκη νέας μεθόδου πληρωμής
 payments-list-header =
     .label = Μέθοδοι πληρωμής
-payments-list-item-label = <strong>Μέθοδοι πληρωμής</strong>
 payments-delete-payment-prompt-title = Αφαίρεση μεθόδου πληρωμής;
 payments-delete-payment-prompt-confirm-button = Διαγραφή
 payments-delete-payment-prompt-cancel-button = Ακύρωση
@@ -1525,9 +1520,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Δεν έχουν προστεθεί μέθοδοι πληρωμής
-payments-remove-payment-prompt-title = Αφαίρεση αυτής της μεθόδου πληρωμής;
-payments-remove-payment-prompt-confirm-button = Αφαίρεση
-payments-remove-payment-prompt-cancel-button = Ακύρωση
 autofill-addresses-title = Διευθύνσεις και άλλα
 autofill-addresses-header =
     .aria-label = Διευθύνσεις και άλλα
@@ -1729,11 +1721,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Γραμμή διευθύνσεων
-addressbar-suggest-1 = Επιλέξτε ποιες προτάσεις θα εμφανίζονται στη γραμμή διευθύνσεων
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name(case: "nom") }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Προτάσεις από το { -brand-short-name } και τους συνεργάτες μας στη γραμμή διευθύνσεών σας.
 addressbar-suggest = Κατά τη χρήση της γραμμής διευθύνσεων, να γίνονται προτάσεις από
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Γραμμή διευθύνσεων — { -firefox-suggest-brand-name(case: "nom") }
@@ -1790,10 +1777,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Εμφάνιση δημοφιλών προτάσεων αναζήτησης
     .accesskey = φ
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Προτάσεις από το { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Λάβετε προτάσεις από το διαδίκτυο που σχετίζονται με την αναζήτησή σας.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Προτάσεις από το { -brand-short-name }
