@@ -815,7 +815,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Tudalen cartref a ffenestri newydd
 home-homepage-new-windows =
     .label = Ffenestri newydd
-home-homepage-mode-label2 = Ffenestri newydd
 home-newtabs-mode-label = Tabiau newydd
 home-homepage-new-tabs =
     .label = Tabiau newydd
@@ -836,8 +835,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Dewis safle penodol
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Dewis safle penodol
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -852,7 +849,6 @@ use-current-pages =
 choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
-home-homepage-header = Tudalen Cartref
 
 ## Home Section - Home Page Customization
 
@@ -1530,7 +1526,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Ychwanegu dull talu newydd
 payments-list-header =
     .label = Dulliau talu
-payments-list-item-label = <strong>Dulliau talu</strong>
 payments-delete-payment-prompt-title = Dileu'r dull talu hwn?
 payments-delete-payment-prompt-confirm-button = Dileu
 payments-delete-payment-prompt-cancel-button = Diddymu
@@ -1541,9 +1536,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Dim dulliau talu wedi'u hychwanegu
-payments-remove-payment-prompt-title = Dileu'r dull talu hwn?
-payments-remove-payment-prompt-confirm-button = Dileu
-payments-remove-payment-prompt-cancel-button = Diddymu
 autofill-addresses-title = Cyfeiriadau a mwy
 autofill-addresses-header =
     .aria-label = Cyfeiriadau a mwy
@@ -1745,11 +1737,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Bar Cyfeiriadau
-addressbar-suggest-1 = Dewiswch pa awgrymiadau sy'n cael eu dangos yn eich bar cyfeiriad
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Awgrymiadau gan { -brand-short-name } a'n partneriaid yn eich bar cyfeiriad.
 addressbar-suggest = Pan yn defnyddio'r bar cyfeiriad, cynnig
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Bar Cyfeiriad — { -firefox-suggest-brand-name }
@@ -1806,10 +1793,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Dangos awgrymiadau chwilio tuedd
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Awgrymiadau gan { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Derbyn awgrymiadau o'r we am eich chwilio.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Awgrymiadau gan { -brand-short-name }
