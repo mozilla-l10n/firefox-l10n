@@ -92,6 +92,7 @@ inactive-css-column-span-fix = Versuchen Sie, <strong>column-count</strong> oder
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Versuchen Sie, <strong>position:absolute</strong> zum Element hinzuzufügen, oder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> >, oder <strong>display:inline-flex</strong> zum übergeordneten Element. { learn-more }
 inactive-css-not-grid-or-absolutely-positioned-item-fix = Versuchen Sie, <strong>position:absolute</strong> zum Element, oder <strong>display:grid</strong> oder <strong>display:inline-grid</strong> zum übergeordneten Element hinzuzufügen. { learn-more }
 inactive-css-not-absolutely-positioned-item-fix = Versuchen Sie, dem Element <strong>position:absolute</strong> hinzuzufügen. { learn-more }
+inactive-css-no-default-anchor-fix = Versuchen Sie, <strong>position-anchor</strong> mit einem gültigen Ankernamen hinzuzufügen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Versuchen Sie, <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> oder <strong>display:inline-flex</strong> zum übergeordneten Element hinzuzufügen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Versuchen Sie, <strong>display:grid</strong> oder <strong>display:inline-grid</strong>zum übergeordneten Element hinzuzufügen. { learn-more }
 inactive-css-not-grid-container-fix = Versuchen Sie, <strong>display:grid</strong> oder <strong>display:inline-grid</strong> hinzuzufügen. { learn-more }

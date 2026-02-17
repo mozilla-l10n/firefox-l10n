@@ -570,6 +570,7 @@ applications-type-heading = Dateityp
 applications-action-column =
     .label = Aktion
     .accesskey = A
+applications-action-heading = Aktion
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension }-Datei

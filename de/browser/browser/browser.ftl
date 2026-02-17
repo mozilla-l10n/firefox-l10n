@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Verkleinern
 browser-window-close-button =
     .tooltiptext = Schließen
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Zurück
 
 ## Tab actions
 
@@ -1173,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Neues privates Fenster
     .tooltiptext = Ein neues privates Fenster öffnen ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Teilen
+    .tooltiptext = Diese Seite teilen
 
 ## EME notification panel
 
