@@ -78,6 +78,8 @@ close-button =
     .aria-label = Cau
 do-not-track-removal2 =
     .label = Dydyn ni ddim bellach yn cefnogi'r signal “Peidiwch â Thracio”.
+applications-setting-new-file-types =
+    .label = Beth ddylai { -brand-short-name } wneud gyda ffeiliau eraill?
 
 ## Browser Restart Dialog
 
