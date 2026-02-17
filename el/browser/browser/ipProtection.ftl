@@ -55,10 +55,12 @@ ipprotection-button-connecting = Ενεργοποίηση…
 
 ## VPN paused state
 
+ipprotection-connection-status-paused-title = Το VPN είναι σε παύση
 upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-title = Δεν ήταν δυνατή η σύνδεση στο VPN
 ipprotection-connection-status-generic-error-description = Δοκιμάστε ξανά σε λίγα λεπτά.
 ipprotection-connection-status-network-error-title = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 confirmation-hint-ipprotection-navigated-to-excluded-site = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
