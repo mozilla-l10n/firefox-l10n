@@ -78,6 +78,8 @@ close-button =
     .aria-label = Slute
 do-not-track-removal2 =
     .label = Wy stypje it ‘Net folgje’-sinjaal net mear
+applications-setting-new-file-types =
+    .label = Wat moat { -brand-short-name } mei oare bestannen dwaan?
 
 ## Browser Restart Dialog
 
@@ -803,7 +805,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startside en nije finsters
 home-homepage-new-windows =
     .label = Nije finsters
-home-homepage-mode-label2 = Nije finsters
 home-newtabs-mode-label = Nije ljepblêden
 home-homepage-new-tabs =
     .label = Nije ljepblêden
@@ -824,8 +825,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Kies in spesifike website
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Kies in spesifike website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +839,6 @@ use-current-pages =
 choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
-home-homepage-header = Startside
 
 ## Home Section - Home Page Customization
 
@@ -1514,7 +1512,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Nije betellingsmetoade tafoegje
 payments-list-header =
     .label = Betellingsmetoaden
-payments-list-item-label = <strong>Betellingsmetoaden</strong>
 payments-delete-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
 payments-delete-payment-prompt-confirm-button = Fuortsmite
 payments-delete-payment-prompt-cancel-button = Annulearje
@@ -1525,9 +1522,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Gjin betellingsmetoaden tafoege
-payments-remove-payment-prompt-title = Dizze betellingsmetoade fuortsmite?
-payments-remove-payment-prompt-confirm-button = Fuortsmite
-payments-remove-payment-prompt-cancel-button = Annulearje
 autofill-addresses-title = Adressen en mear
 autofill-addresses-header =
     .aria-label = Adressen en mear
@@ -1729,11 +1723,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresbalke
-addressbar-suggest-1 = Kies hokker suggestjes yn jo adresbalke toand wurde
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Suggestjes fan { -brand-short-name } en ús partners yn jo adresbalke.
 addressbar-suggest = By gebrûk fan de adresbalke, suggestjes werjaan út
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresbalke – { -firefox-suggest-brand-name }
@@ -1790,10 +1779,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trending syksuggestjes toane
     .accesskey = T
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Suggestjes fan { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Untfang suggestjes fan it web relatearre oan jo sykopdracht.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suggestjes fan { -brand-short-name }
