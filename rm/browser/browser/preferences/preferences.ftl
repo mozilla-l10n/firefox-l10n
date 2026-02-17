@@ -75,6 +75,8 @@ close-button =
     .aria-label = Serrar
 do-not-track-removal2 =
     .label = Nus na sustegnain betg pli il signal «Betg ma fastizar»
+applications-setting-new-file-types =
+    .label = Tge duai { -brand-short-name } far cun autras datotecas?
 
 ## Browser Restart Dialog
 
