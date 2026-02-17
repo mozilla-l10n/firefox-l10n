@@ -78,6 +78,8 @@ close-button =
     .aria-label = 閉じる
 do-not-track-removal2 =
     .label = “Do Not Track” 信号のサポートは終了しました
+applications-setting-new-file-types =
+    .label = 他のファイルは { -brand-short-name } でどのように扱いますか？
 
 ## Browser Restart Dialog
 
