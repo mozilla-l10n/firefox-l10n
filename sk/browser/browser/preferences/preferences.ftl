@@ -78,6 +78,8 @@ close-button =
     .aria-label = Zavrieť
 do-not-track-removal2 =
     .label = Príznak “Nesledovať” (Do Not Track) už nie je podporovaný
+applications-setting-new-file-types =
+    .label = Čo má { -brand-short-name } robiť s inými súbormi?
 
 ## Browser Restart Dialog
 
