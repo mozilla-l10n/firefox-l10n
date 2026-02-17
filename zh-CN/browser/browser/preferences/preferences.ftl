@@ -799,7 +799,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = 主页和新窗口
 home-homepage-new-windows =
     .label = 新窗口
-home-homepage-mode-label2 = 新窗口
 home-newtabs-mode-label = 新标签页
 home-homepage-new-tabs =
     .label = 新标签页
@@ -820,8 +819,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 选择特定网站
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = 选择特定网站
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -836,7 +833,6 @@ use-current-pages =
 choose-bookmark =
     .label = 使用书签…
     .accesskey = B
-home-homepage-header = 主页
 
 ## Home Section - Home Page Customization
 
@@ -1506,7 +1502,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = 添加付款方式
 payments-list-header =
     .label = 付款方式
-payments-list-item-label = <strong>付款方式</strong>
 payments-delete-payment-prompt-title = 确定要删除此付款方式吗？
 payments-delete-payment-prompt-confirm-button = 删除
 payments-delete-payment-prompt-cancel-button = 取消
@@ -1517,9 +1512,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 未添加付款方式
-payments-remove-payment-prompt-title = 确定要移除此付款方式吗？
-payments-remove-payment-prompt-confirm-button = 移除
-payments-remove-payment-prompt-cancel-button = 取消
 autofill-addresses-title = 地址等信息
 autofill-addresses-header =
     .aria-label = 地址等信息
@@ -1721,11 +1713,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = 地址栏
-addressbar-suggest-1 = 选择在地址栏中显示的建议
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = 在地址栏显示来自 { -brand-short-name } 及我们的合作伙伴的建议。
 addressbar-suggest = 使用地址栏时，为我建议：
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = 地址栏 — { -firefox-suggest-brand-name }
@@ -1782,10 +1769,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 显示热门搜索建议
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } 的建议
-addressbar-locbar-suggest-all-option-desc = 从网络上获取与您的搜索相关的建议。
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } 的建议
