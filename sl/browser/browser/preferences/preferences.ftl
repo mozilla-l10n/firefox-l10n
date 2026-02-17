@@ -77,6 +77,8 @@ close-button =
     .aria-label = Zapri
 do-not-track-removal2 =
     .label = Signala "Brez sledenja" ne podpiramo več
+applications-setting-new-file-types =
+    .label = Kaj naj { -brand-short-name } stori z ostalimi datotekami?
 
 ## Browser Restart Dialog
 
