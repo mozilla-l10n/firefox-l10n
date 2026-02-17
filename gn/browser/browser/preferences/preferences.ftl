@@ -77,6 +77,8 @@ close-button =
     .aria-label = Mboty
 do-not-track-removal2 =
     .label = Nañamoneĩvéima pe kuaaukaha “Ani ehapykueho”
+applications-setting-new-file-types =
+    .label = ¿Mba’e ojapova’erã { -brand-short-name } ambue marandurenda ndive?
 
 ## Browser Restart Dialog
 
@@ -551,6 +553,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Embogue marandurenda mboguejypyre kundahára ñemiguápe oñemboty vove opaite ovetã ñemigua
     .accesskey = D
+applications-setting =
+    .label = Tembiporu’i
+    .description = Eiporavo { -brand-short-name } eiporu marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eiporúva eikundaha aja.
 applications-header = Tembiporu’i
 applications-description = Eiporavo { -brand-short-name } eiporu marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eiporúva eikundaha aja.
 applications-filter =
@@ -800,7 +805,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Togue moñepyrũ ha ovetã pyahu
 home-homepage-new-windows =
     .label = Ovetã pyahu
-home-homepage-mode-label2 = Ovetã pyahu
 home-newtabs-mode-label = tendayke pyahu
 home-homepage-new-tabs =
     .label = tendayke pyahu
@@ -821,8 +825,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Eiporavo peteĩ tendaite
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Eiporavo peteĩ tendaite
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -837,7 +839,6 @@ use-current-pages =
 choose-bookmark =
     .label = Techaukaha poru…
     .accesskey = B
-home-homepage-header = Kuatiarogue ñepyrũha
 
 ## Home Section - Home Page Customization
 
@@ -864,6 +865,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Embogue kundaharape
     .title = Embogue kundaharape
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Emyengovia kóvandi
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ndaipóri ñanduti rogue mbojuajupyre.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1511,7 +1516,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Embojuaju mba’éicha ehepyme’ẽta
 payments-list-header =
     .label = Mba’éicha ehepyme’ẽta
-payments-list-item-label = <strong>Mba’éicha ehepyme’ẽta</strong>
 payments-delete-payment-prompt-title = ¿Eipe’a mba’éichapa ehepyme’ẽta?
 payments-delete-payment-prompt-confirm-button = Mboguete
 payments-delete-payment-prompt-cancel-button = Eheja
@@ -1522,9 +1526,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ndaipóri mba’éicha ehepyme’ẽta
-payments-remove-payment-prompt-title = ¿Eipe’a mba’éichapa ehepyme’ẽta?
-payments-remove-payment-prompt-confirm-button = Mboguete
-payments-remove-payment-prompt-cancel-button = Heja
 autofill-addresses-title = Kundaharape ha hetave
 autofill-addresses-header =
     .aria-label = Kundaharape ha hetave
@@ -1726,11 +1727,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Kundaharape renda
-addressbar-suggest-1 = Eiporavo mba’e ñemoñe’ẽ ojehecháta nde kundaha rupápe
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = He’íva { -brand-short-name } ha ore irũnguéra ikundaharape rupápe.
 addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Kundaharape rupa — { -firefox-suggest-brand-name }
@@ -1787,10 +1783,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Ehechauka jehekarã ojeporuvévape
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } ñemoñe’ẽ
-addressbar-locbar-suggest-all-option-desc = Erekóta ñanduti ñemoñe’ẽ ojokupytýva rehekáva ndive.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ñemoñe’ẽ

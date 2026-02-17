@@ -68,6 +68,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Tampar
+applications-setting-new-file-types =
+    .label = Qué deu far { -brand-short-name } amb los autres fichièrs ?
 
 ## Browser Restart Dialog
 
@@ -361,6 +363,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Sempre demandar ont enregistrar los fichièrs
     .accesskey = S
+applications-setting =
+    .label = Aplicacions
+    .description = Causir cossí { -brand-short-name } tracta los fichièrs qu'avètz telecargats del Web o las aplicacions qu'uilizatz al navegar.
 applications-header = Aplicacions
 applications-description = Causir cossí { -brand-short-name } tracta los fichièrs qu'avètz telecargats del Web o las aplicacions qu'uilizatz al navegar.
 applications-filter =
@@ -494,6 +499,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -612,6 +620,12 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -808,6 +822,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1553,3 +1572,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
+
+## AI controls page
+

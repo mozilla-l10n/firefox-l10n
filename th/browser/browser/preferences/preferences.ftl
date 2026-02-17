@@ -78,6 +78,8 @@ close-button =
     .aria-label = ปิด
 do-not-track-removal2 =
     .label = เราไม่รองรับสัญญาณ “Do Not Track” อีกต่อไป
+applications-setting-new-file-types =
+    .label = { -brand-short-name } ควรจะทำอะไรกับไฟล์อื่น?
 
 ## Browser Restart Dialog
 
@@ -542,6 +544,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = ลบไฟล์ที่ดาวน์โหลดจากการเรียกดูแบบส่วนตัวเมื่อปิดหน้าต่างส่วนตัวทั้งหมดแล้ว
     .accesskey = ล
+applications-setting =
+    .label = แอปพลิเคชัน
+    .description = เลือกวิธีที่ { -brand-short-name } จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะเรียกดู
 applications-header = แอปพลิเคชัน
 applications-description = เลือกวิธีที่ { -brand-short-name } จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะเรียกดู
 applications-filter =
@@ -791,7 +796,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = หน้าแรกและหน้าต่างใหม่
 home-homepage-new-windows =
     .label = หน้าต่างใหม่
-home-homepage-mode-label2 = หน้าต่างใหม่
 home-newtabs-mode-label = แท็บใหม่
 home-homepage-new-tabs =
     .label = แท็บใหม่
@@ -812,8 +816,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = เลือกไซต์ที่ต้องการ
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = เลือกไซต์ที่ต้องการ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -828,7 +830,6 @@ use-current-pages =
 choose-bookmark =
     .label = ใช้ที่คั่นหน้า…
     .accesskey = ท
-home-homepage-header = หน้าแรก
 
 ## Home Section - Home Page Customization
 
@@ -855,6 +856,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = ลบที่อยู่
     .title = ลบที่อยู่
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = แทนที่ด้วย
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = ยังไม่ได้เพิ่มเว็บไซต์ใด
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1498,7 +1503,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = เพิ่มวิธีการชำระเงินใหม่
 payments-list-header =
     .label = วิธีการชำระเงิน
-payments-list-item-label = <strong>วิธีการชำระเงิน</strong>
 payments-delete-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
 payments-delete-payment-prompt-confirm-button = ลบ
 payments-delete-payment-prompt-cancel-button = ยกเลิก
@@ -1509,9 +1513,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = ไม่ได้เพิ่มวิธีการชำระเงิน
-payments-remove-payment-prompt-title = ลบวิธีการชำระเงินนี้หรือไม่?
-payments-remove-payment-prompt-confirm-button = ลบ
-payments-remove-payment-prompt-cancel-button = ยกเลิก
 autofill-addresses-title = ที่อยู่และอื่นๆ
 autofill-addresses-header =
     .aria-label = ที่อยู่และอื่นๆ
@@ -1713,11 +1714,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = แถบที่อยู่
-addressbar-suggest-1 = เลือกคำแนะนำที่จะแสดงในแถบที่อยู่ของคุณ
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = แสดงคำแนะนำจาก { -brand-short-name } และพันธมิตรของเราในแถบที่อยู่ของคุณ
 addressbar-suggest = เมื่อใช้แถบที่อยู่ เสนอแนะ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = แถบที่อยู่ — { -firefox-suggest-brand-name }
@@ -1774,10 +1770,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = แสดงคำแนะนำการค้นหาที่กำลังมาแรง
     .accesskey = ม
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = คำแนะนำจาก { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = รับคำแนะนำจากเว็บที่เกี่ยวข้องกับการค้นหาของคุณ
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = คำแนะนำจาก { -brand-short-name }

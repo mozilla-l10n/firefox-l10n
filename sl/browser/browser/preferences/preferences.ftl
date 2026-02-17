@@ -77,6 +77,8 @@ close-button =
     .aria-label = Zapri
 do-not-track-removal2 =
     .label = Signala "Brez sledenja" ne podpiramo več
+applications-setting-new-file-types =
+    .label = Kaj naj { -brand-short-name } stori z ostalimi datotekami?
 
 ## Browser Restart Dialog
 
@@ -559,6 +561,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Izbriši datoteke, prenesene v zasebnem brskanju, ko se zaprejo vsa zasebna okna
     .accesskey = I
+applications-setting =
+    .label = Programi
+    .description = Izberite, kako naj { -brand-short-name } ravna z datotekami, ki jih prenesete s spleta, ter aplikacijami, ki jih uporabljate med brskanjem.
 applications-header = Programi
 applications-description = Izberite, kako naj { -brand-short-name } ravna z datotekami, ki jih prenesete s spleta, ter aplikacijami, ki jih uporabljate med brskanjem.
 applications-filter =
@@ -808,7 +813,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Domača stran in nova okna
 home-homepage-new-windows =
     .label = Nova okna
-home-homepage-mode-label2 = Nova okna
 home-newtabs-mode-label = Novi zavihki
 home-homepage-new-tabs =
     .label = Novi zavihki
@@ -829,8 +833,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Izberite določeno stran
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Izberite določeno stran
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -845,7 +847,6 @@ use-current-pages =
 choose-bookmark =
     .label = Uporabi zaznamek …
     .accesskey = z
-home-homepage-header = Domača stran
 
 ## Home Section - Home Page Customization
 
@@ -872,6 +873,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Izbriši naslov
     .title = Izbriši naslov
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Zamenjaj s/z
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dodano ni še nobeno spletno mesto.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1518,7 +1523,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Dodaj novo plačilno sredstvo
 payments-list-header =
     .label = Plačilna sredstva
-payments-list-item-label = <strong>Plačilna sredstva</strong>
 payments-delete-payment-prompt-title = Ali želite izbrisati to plačilno sredstvo?
 payments-delete-payment-prompt-confirm-button = Izbriši
 payments-delete-payment-prompt-cancel-button = Prekliči
@@ -1529,9 +1533,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ni dodanih plačilnih sredstev
-payments-remove-payment-prompt-title = Ali želite odstraniti to plačilno sredstvo?
-payments-remove-payment-prompt-confirm-button = Odstrani
-payments-remove-payment-prompt-cancel-button = Prekliči
 autofill-addresses-checkbox-message =
     .label = Shranjuj in samodejno izpolnjuj naslove
     .accesskey = S
@@ -1723,11 +1724,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Naslovna vrstica
-addressbar-suggest-1 = Izberite, kateri predlogi naj se vam prikazujejo v naslovni vrstici
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Predlogi { -brand-short-name(sklon: "rodilnik") } in naših partnerjev v vaši naslovni vrstici.
 addressbar-suggest = Pri uporabi naslovne vrstice predlagaj
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Naslovna vrstica – { -firefox-suggest-brand-name }
@@ -1784,10 +1780,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Prikaži priljubljene predloge iskanja
     .accesskey = p
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Predlogi { -brand-short-name(sklon: "rodilnik") }
-addressbar-locbar-suggest-all-option-desc = Prejemajte predloge s spleta, povezane z vašim iskanjem.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Predlogi { -brand-short-name(sklon: "rodilnik") }

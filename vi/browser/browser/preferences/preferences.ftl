@@ -78,6 +78,8 @@ close-button =
     .aria-label = Đóng
 do-not-track-removal2 =
     .label = Chúng tôi không còn hỗ trợ tín hiệu “Không theo dõi”
+applications-setting-new-file-types =
+    .label = { -brand-short-name } nên làm gì với các tập tin khác?
 
 ## Browser Restart Dialog
 
@@ -542,6 +544,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Xóa các tập tin đã tải xuống trong trình duyệt riêng tư khi tất cả các cửa sổ riêng tư đã đóng
     .accesskey = D
+applications-setting =
+    .label = Ứng dụng
+    .description = Chọn cách { -brand-short-name } xử lý các tập tin bạn tải xuống từ web hoặc các ứng dụng bạn sử dụng khi duyệt web.
 applications-header = Ứng dụng
 applications-description = Chọn cách { -brand-short-name } xử lý các tập tin bạn tải xuống từ web hoặc các ứng dụng bạn sử dụng khi duyệt web.
 applications-filter =
@@ -791,7 +796,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Trang chủ và cửa sổ mới
 home-homepage-new-windows =
     .label = Cửa sổ mới
-home-homepage-mode-label2 = Cửa sổ mới
 home-newtabs-mode-label = Thẻ mới
 home-homepage-new-tabs =
     .label = Thẻ mới
@@ -812,8 +816,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Chọn một trang web cụ thể
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Chọn một trang web cụ thể
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -828,7 +830,6 @@ use-current-pages =
 choose-bookmark =
     .label = Sử dụng dấu trang…
     .accesskey = B
-home-homepage-header = Trang chủ
 
 ## Home Section - Home Page Customization
 
@@ -855,6 +856,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Xóa địa chỉ
     .title = Xóa địa chỉ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Thay thế bằng
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Chưa có trang web nào được thêm vào.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1498,7 +1503,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Thêm phương thức thanh toán mới
 payments-list-header =
     .label = Phương thức thanh toán
-payments-list-item-label = <strong>Phương thức thanh toán</strong>
 payments-delete-payment-prompt-title = Xoá phương thức thanh toán này?
 payments-delete-payment-prompt-confirm-button = Xóa
 payments-delete-payment-prompt-cancel-button = Hủy bỏ
@@ -1509,9 +1513,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Không có phương thức thanh toán nào được thêm
-payments-remove-payment-prompt-title = Xoá phương thức thanh toán này?
-payments-remove-payment-prompt-confirm-button = Xóa
-payments-remove-payment-prompt-cancel-button = Hủy bỏ
 autofill-addresses-title = Địa chỉ và nhiều hơn nữa
 autofill-addresses-header =
     .aria-label = Địa chỉ và nhiều hơn nữa
@@ -1713,11 +1714,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Thanh địa chỉ
-addressbar-suggest-1 = Chọn những đề xuất hiển thị trên thanh địa chỉ của bạn
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Đề xuất từ { -brand-short-name } và các đối tác của chúng tôi trên thanh địa chỉ của bạn.
 addressbar-suggest = Khi dùng thanh địa chỉ, gợi ý
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Thanh địa chỉ — { -firefox-suggest-brand-name }
@@ -1774,10 +1770,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Hiển thị đề xuất tìm kiếm thịnh hành
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Đề xuất từ { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Nhận đề xuất từ ​​web liên quan đến tìm kiếm của bạn.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Đề xuất từ { -brand-short-name }

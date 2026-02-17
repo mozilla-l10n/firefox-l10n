@@ -78,6 +78,8 @@ close-button =
     .aria-label = ਬੰਦ ਕਰੋ
 do-not-track-removal2 =
     .label = ਅਸੀਂ ਹੁਣ “ਟਰੈਕ ਨਾ ਕਰੋ” ਸਿਗਨਲ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ
+applications-setting-new-file-types =
+    .label = { -brand-short-name } ਨੂੰ ਹੋਰ ਫਾਈਲਾਂ ਨਾਲ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = ਜਦੋਂ ਵੀ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਬੰਦ ਕੀਤੀ ਜਾਵੇ ਤਾਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਦੌਰਾਨ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨੂੰ ਹਟਾਓ
     .accesskey = D
+applications-setting =
+    .label = ਐਪਲੀਕੇਸ਼ਨਾਂ
+    .description = ਚੁਣੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੈੱਬ ਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨਾਲ { -brand-short-name } ਕਿਵੇਂ ਕੰਮ ਕਰੇ।
 applications-header = ਐਪਲੀਕੇਸ਼ਨਾਂ
 applications-description = ਚੁਣੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੈੱਬ ਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨਾਲ { -brand-short-name } ਕਿਵੇਂ ਕੰਮ ਕਰੇ।
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = ਮੁੱਖ-ਸਫ਼ਾ ਅਤੇ ਨਵੀਆਂ ਵਿੰਡੋਆਂ
 home-homepage-new-windows =
     .label = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
-home-homepage-mode-label2 = ਨਵੀਆਂ ਵਿੰਡੋਆਂ
 home-newtabs-mode-label = ਨਵੀਆਂ ਟੈਬਾਂ
 home-homepage-new-tabs =
     .label = ਨਵੀਆਂ ਟੈਬਾਂ
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = ਕਿਸੇ ਖਾਸ ਸਾਈਟ ਨੂੰ ਚੁਣੋ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
     .accesskey = B
-home-homepage-header = ਮੁੱਖ ਸਫ਼ਾ
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
     .title = ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = ਇਸ ਨਾਲ ਬਦਲੋ
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = ਹਾਲੇ ਕੋਈ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਜੋੜੀ ਗਈ।
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = ਨਵਾਂ ਭੁਗਤਾਨ ਢੰਗ ਜੋੜੋ
 payments-list-header =
     .label = ਭੁਗਤਾਨ ਦੇ ਢੰਗ
-payments-list-item-label = <strong>ਭੁਗਤਾਨ ਦੇ ਢੰਗ</strong>
 payments-delete-payment-prompt-title = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 payments-delete-payment-prompt-confirm-button = ਹਟਾਓ
 payments-delete-payment-prompt-cancel-button = ਰੱਦ ਕਰੋ
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = ਕੋਈ ਭੁਗਤਾਨ ਢੰਗ ਨਹੀਂ ਜੋੜਿਆ ਗਿਆ
-payments-remove-payment-prompt-title = ਇਸ ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
-payments-remove-payment-prompt-confirm-button = ਹਟਾਓ
-payments-remove-payment-prompt-cancel-button = ਰੱਦ ਕਰੋ
 autofill-addresses-title = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
 autofill-addresses-header =
     .aria-label = ਸਿਰਨਾਵਾਂ ਅਤੇ ਹੋਰ
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = ਸਿਰਨਾਵਾਂ ਪੱਟੀ
-addressbar-suggest-1 = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਏ ਜਾਣੇ ਵਾਲੇ ਸੁਝਾਆਵਾਂ ਦੀ ਚੋਣ ਕਰੋ
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = ਤੁਹਾਡੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ { -brand-short-name } ਅਤੇ ਸਾਡੇ ਹਿੱਸੇਦਾਰਾਂ ਵਲੋਂ ਸੁਝਾਅ ਹਨ।
 addressbar-suggest = ਜਦੋਂ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਰਤੀ ਜਾਂਦੀ ਹੋਵੇ ਤਾਂ ਸੁਝਾਓ
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = ਸਿਰਨਾਵਾਂ ਪੱਟੀ — { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = ਖੋਜ ਸੁਝਾਆਵਾਂ ਦੇ ਰੁਝਾਨਾਂ ਨੂੰ ਵੇਖੋ
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } ਵਲੋਂ ਸੁਝਾਅ
-addressbar-locbar-suggest-all-option-desc = ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਸੁਝਾਅ ਵੈੱਬ ਤੋਂ ਲਵੋ।
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ਵਲੋਂ ਸੁਝਾਅ

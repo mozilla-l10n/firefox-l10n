@@ -78,6 +78,8 @@ close-button =
     .aria-label = Закрыть
 do-not-track-removal2 =
     .label = Мы больше не поддерживаем сигнал «Не отслеживать»
+applications-setting-new-file-types =
+    .label = Что { -brand-short-name } должен делать с другими файлами?
 
 ## Browser Restart Dialog
 
@@ -557,6 +559,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Удалять файлы, скачанные в приватном режиме, когда все приватные окна закрыты
     .accesskey = В
+applications-setting =
+    .label = Приложения
+    .description = Выберите, как { -brand-short-name } будет обрабатывать файлы, скачиваемые из Интернета, или приложения, используемые при работе в Интернете.
 applications-header = Приложения
 applications-description = Выберите, как { -brand-short-name } будет обрабатывать файлы, скачиваемые из Интернета, или приложения, используемые при работе в Интернете.
 applications-filter =
@@ -806,7 +811,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Домашняя страница и новые окна
 home-homepage-new-windows =
     .label = Новые окна
-home-homepage-mode-label2 = Новые окна
 home-newtabs-mode-label = Новые вкладки
 home-homepage-new-tabs =
     .label = Новые вкладки
@@ -827,8 +831,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Выбрать определённый сайт
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Выбрать определённый сайт
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -843,7 +845,6 @@ use-current-pages =
 choose-bookmark =
     .label = Использовать закладку…
     .accesskey = в
-home-homepage-header = Домашняя страница
 
 ## Home Section - Home Page Customization
 
@@ -870,6 +871,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Удалить адрес
     .title = Удалить адрес
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Заменить на
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Пока не добавлено ни одного веб-сайта.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1518,7 +1523,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Добавить новый способ оплаты
 payments-list-header =
     .label = Способы оплаты
-payments-list-item-label = <strong>Способы оплаты</strong>
 payments-delete-payment-prompt-title = Удалить этот способ оплаты?
 payments-delete-payment-prompt-confirm-button = Удалить
 payments-delete-payment-prompt-cancel-button = Отмена
@@ -1529,9 +1533,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Способы оплаты не добавлены
-payments-remove-payment-prompt-title = Удалить этот способ оплаты?
-payments-remove-payment-prompt-confirm-button = Удалить
-payments-remove-payment-prompt-cancel-button = Отмена
 autofill-addresses-title = Адреса и другое
 autofill-addresses-header =
     .aria-label = Адреса и другое
@@ -1733,11 +1734,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Адресная строка
-addressbar-suggest-1 = Выберите, какие предложения отображаются в вашей адресной строке
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Предложения от { -brand-short-name } и наших партнёров в вашей адресной строке.
 addressbar-suggest = При использовании адресной строки предлагать ссылки
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адресная строка — { -firefox-suggest-brand-name }
@@ -1794,10 +1790,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Отображать популярные поисковые предложения
     .accesskey = е
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Предложения от { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Получать предложения из сети на основе вашего поиска.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Предложения от { -brand-short-name }

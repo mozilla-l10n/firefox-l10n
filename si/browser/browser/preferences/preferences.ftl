@@ -69,6 +69,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = වසන්න
+applications-setting-new-file-types =
+    .label = { -brand-short-name } අනකුත් ගොනු සමඟ කුමක් කළ යුතුද?
 
 ## Browser Restart Dialog
 
@@ -373,6 +375,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = ගොනු සුරැකිය යුතු තැන සැමවිට අසන්න
     .accesskey = A
+applications-setting =
+    .label = යෙදුම්
+    .description = වියමන වෙතින් බාගත කරන ගොනු හෝ ඔබ පිරික්සන අතරතුර භාවිතා කරන යෙදුම් { -brand-short-name } හසුරුවන්නේ කෙසේදැයි තෝරන්න.
 applications-header = යෙදුම්
 applications-description = වියමන වෙතින් බාගත කරන ගොනු හෝ ඔබ පිරික්සන අතරතුර භාවිතා කරන යෙදුම් { -brand-short-name } හසුරුවන්නේ කෙසේදැයි තෝරන්න.
 applications-filter =
@@ -506,6 +511,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -625,6 +633,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -828,6 +842,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1615,3 +1634,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 choose-download-folder-title = බාගත වන බහාලුම තේරීම:
+
+## AI controls page
+

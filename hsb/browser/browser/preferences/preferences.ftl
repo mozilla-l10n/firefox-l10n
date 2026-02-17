@@ -78,6 +78,8 @@ close-button =
     .aria-label = Začinić
 do-not-track-removal2 =
     .label = Hižo njepodpěrujemy signal „Njeslědować“
+applications-setting-new-file-types =
+    .label = Što ma { -brand-short-name } z druhimi datajemi činić?
 
 ## Browser Restart Dialog
 
@@ -560,6 +562,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Dataje zhašeć, kotrež su so w priwatnym modusu sćahnyli, hdyž so wšě priwatne wokna začinjeja
     .accesskey = D
+applications-setting =
+    .label = Nałoženja
+    .description = Wubjerće, kak { -brand-short-name } ma z datajemi wobchadźeć, kotrež z interneta sćahujeće abo z nałoženjemi, kotrež při přehladowanju wužiwaće.
 applications-header = Nałoženja
 applications-description = Wubjerće, kak { -brand-short-name } ma z datajemi wobchadźeć, kotrež z interneta sćahujeće abo z nałoženjemi, kotrež při přehladowanju wužiwaće.
 applications-filter =
@@ -809,7 +814,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startowa strona a nowe wokna
 home-homepage-new-windows =
     .label = Nowe wokna
-home-homepage-mode-label2 = Nowe wokna
 home-newtabs-mode-label = Nowe rajtarki
 home-homepage-new-tabs =
     .label = Nowe rajtarki
@@ -830,8 +834,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wubjerće wěste sydło
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Wubjerće wěste sydło
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -846,7 +848,6 @@ use-current-pages =
 choose-bookmark =
     .label = Zapołožku wužiwać…
     .accesskey = Z
-home-homepage-header = Startowa strona
 
 ## Home Section - Home Page Customization
 
@@ -873,6 +874,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Adresu zhašeć
     .title = Adresu zhašeć
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Wuměnić z
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Hišće žane websydła přidate.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1522,7 +1527,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Nowu płaćensku metodu přidać
 payments-list-header =
     .label = Płaćenske metody
-payments-list-item-label = <strong>Płaćenske metody</strong>
 payments-delete-payment-prompt-title = Tutu płaćensku metodu zhašeć?
 payments-delete-payment-prompt-confirm-button = Zhašeć
 payments-delete-payment-prompt-cancel-button = Přetorhnyć
@@ -1533,9 +1537,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Žane płaćenske metody přidate
-payments-remove-payment-prompt-title = Tutu płaćensku metodu wotstronić?
-payments-remove-payment-prompt-confirm-button = Wotstronić
-payments-remove-payment-prompt-cancel-button = Přetorhnyć
 autofill-addresses-title = Adresy a wjace
 autofill-addresses-header =
     .aria-label = Adresy a wjace
@@ -1737,11 +1738,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresowe polo
-addressbar-suggest-1 = Wubjerće, kotre namjety maja so we wašim adresowym polu pokazać
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Namjety z { -brand-short-name } a wot našich partnerow we wašim adresowym polu.
 addressbar-suggest = Při wužiwanju adresoweho pola ma so namjetować
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresowe polo – { -firefox-suggest-brand-name }
@@ -1798,10 +1794,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trendowe pytanske namjety pokazać
     .accesskey = d
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Namjety wot { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Wobstarajće sej namjety z weba nastupajo waše pytanje.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Namjety wot { -brand-short-name }

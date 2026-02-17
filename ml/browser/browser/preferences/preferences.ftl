@@ -67,6 +67,17 @@ should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാര�
 cancel-no-restart-button = റദ്ദാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
@@ -302,6 +313,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണമെന്ന് എപ്പോഴും ചോദിക്കുക
     .accesskey = A
+applications-setting =
+    .label = ആപ്ലിക്കേഷനുകള്‍
+    .description = വെബിൽ നിന്നും ഡൗൺലോഡുചെയ്യുന്ന ഫയലുകൾ അല്ലെങ്കിൽ ബ്രൌസുചെയ്യുമ്പോൾ നിങ്ങൾ ഉപയോഗിക്കുന്ന അപ്ലിക്കേഷനുകൾ എങ്ങനെയാണ് { -brand-short-name } കൈകാര്യം ചെയ്യുന്നതെന്ന് തിരഞ്ഞെടുക്കുക.
 applications-header = ആപ്ലിക്കേഷനുകള്‍
 applications-description = വെബിൽ നിന്നും ഡൗൺലോഡുചെയ്യുന്ന ഫയലുകൾ അല്ലെങ്കിൽ ബ്രൌസുചെയ്യുമ്പോൾ നിങ്ങൾ ഉപയോഗിക്കുന്ന അപ്ലിക്കേഷനുകൾ എങ്ങനെയാണ് { -brand-short-name } കൈകാര്യം ചെയ്യുന്നതെന്ന് തിരഞ്ഞെടുക്കുക.
 applications-filter =
@@ -509,7 +523,6 @@ use-current-pages =
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
-home-homepage-header = പൂമുഖം
 
 ## Home Section - Home Page Customization
 
@@ -720,6 +733,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ഉറപ്പാക്കിയിട്ടില്ല.
 sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -946,8 +964,6 @@ payments-list-header =
     .label = പണമടക്കൽ മുറകൾ
 payments-delete-payment-prompt-title = ഈ പണമടക്കല്മുറ മായ്ക്കണോ?
 payments-delete-payment-prompt-confirm-button = മായ്ക്കുക
-payments-remove-payment-prompt-confirm-button = മാറ്റുക
-payments-remove-payment-prompt-cancel-button = റദ്ദാക്കുക
 addreses-edit-address-button-label =
     .aria-label = തിരുത്തുക
 addresses-delete-address-prompt-title = ഈ വിലാസം മായ്ക്കട്ടെ?
@@ -1028,6 +1044,9 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1138,6 +1157,9 @@ content-blocking-known-fingerprinters-label =
 content-blocking-suspected-fingerprinters-label =
     .label = സംശയിക്കപ്പെട്ട വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രങ്ങൾ
     .accesskey = വ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -1293,3 +1315,6 @@ preferences-doh-setting-off =
 desktop-folder-name = ഉപരിഫലകം
 downloads-folder-name = ഇറക്കിവയ്ക്കലുകൾ
 choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിരഞ്ഞെടുക്കുക
+
+## AI controls page
+

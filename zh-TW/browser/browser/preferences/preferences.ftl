@@ -78,6 +78,8 @@ close-button =
     .aria-label = 關閉
 do-not-track-removal2 =
     .label = 我們不再支援「Do Not Track」訊號
+applications-setting-new-file-types =
+    .label = { -brand-short-name } 應如何處理其他檔案？
 
 ## Browser Restart Dialog
 
@@ -542,6 +544,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = 關閉所有隱私瀏覽視窗時，刪除於隱私瀏覽模式中下載的檔案
     .accesskey = D
+applications-setting =
+    .label = 應用程式
+    .description = 選擇 { -brand-short-name } 要如何處理您上網時下載的檔案。
 applications-header = 應用程式
 applications-description = 選擇 { -brand-short-name } 要如何處理您上網時下載的檔案。
 applications-filter =
@@ -791,7 +796,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = 首頁與新視窗
 home-homepage-new-windows =
     .label = 新視窗
-home-homepage-mode-label2 = 新視窗
 home-newtabs-mode-label = 新分頁
 home-homepage-new-tabs =
     .label = 新分頁
@@ -812,8 +816,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 選擇特定網站
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = 選擇特定網站
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -828,7 +830,6 @@ use-current-pages =
 choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
-home-homepage-header = 首頁
 
 ## Home Section - Home Page Customization
 
@@ -855,6 +856,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = 刪除地址
     .title = 刪除地址
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 取代為
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 尚未加入任何網站。
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1502,7 +1507,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = 新增付款方式
 payments-list-header =
     .label = 付款方式
-payments-list-item-label = <strong>付款方式</strong>
 payments-delete-payment-prompt-title = 要刪除這筆付款方式嗎？
 payments-delete-payment-prompt-confirm-button = 刪除
 payments-delete-payment-prompt-cancel-button = 取消
@@ -1513,9 +1517,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 未新增付款方式
-payments-remove-payment-prompt-title = 要移除這筆付款方式嗎？
-payments-remove-payment-prompt-confirm-button = 移除
-payments-remove-payment-prompt-cancel-button = 取消
 autofill-addresses-title = 地址與更多資訊
 autofill-addresses-header =
     .aria-label = 地址與更多資訊
@@ -1717,11 +1718,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = 網址列
-addressbar-suggest-1 = 選擇要在網址列顯示哪些建議
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = 將在網址列顯示來自 { -brand-short-name } 與我們的夥伴所提供的建議。
 addressbar-suggest = 在使用網址列時提供建議
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = 網址列 — { -firefox-suggest-brand-name }
@@ -1778,10 +1774,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 顯示熱門搜尋建議
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = 來自 { -brand-short-name } 的建議
-addressbar-locbar-suggest-all-option-desc = 取得您搜尋內容的相關建議。
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = 來自 { -brand-short-name } 的建議

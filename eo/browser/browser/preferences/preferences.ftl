@@ -78,6 +78,8 @@ close-button =
     .aria-label = Fermi
 do-not-track-removal2 =
     .label = Ni ne plu subtenas la signalon “Do Not Track”
+applications-setting-new-file-types =
+    .label = Kion devus fari { -brand-short-name } kun aliaj dosieroj?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Forigi dosierojn elŝutitaj dum privata retumo kiam ĉiuj privataj fenestroj estas fermitaj
     .accesskey = F
+applications-setting =
+    .label = Programoj
+    .description = Elekti kiel { -brand-short-name } traktas la dosierojn elŝutitajn el la Teksaĵo aŭ la programojn uzatajn por ilin malfermi.
 applications-header = Programoj
 applications-description = Elekti kiel { -brand-short-name } traktas la dosierojn elŝutitajn el la Teksaĵo aŭ la programojn uzatajn por ilin malfermi.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Eka paĝo kaj novaj fenestroj
 home-homepage-new-windows =
     .label = Novaj fenestroj
-home-homepage-mode-label2 = Novaj fenestroj
 home-newtabs-mode-label = Novaj langetoj
 home-homepage-new-tabs =
     .label = Novaj langetoj
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Elekti specifan retejon
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Elekti specifan retejon
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Uzi legosignon…
     .accesskey = s
-home-homepage-header = Eka paĝo
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Forigi adreson
     .title = Forigi adreson
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Anstataŭigi per
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ankoraŭ neniu retejo aldonita.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Aldoni novan pagmetodon
 payments-list-header =
     .label = Pagmetodoj
-payments-list-item-label = <strong>Pagmetodoj</strong>
 payments-delete-payment-prompt-title = Ĉu forigi tiun ĉi pagmetodon?
 payments-delete-payment-prompt-confirm-button = Forigi
 payments-delete-payment-prompt-cancel-button = Nuligi
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Neniu pagmetodo aldonita
-payments-remove-payment-prompt-title = Ĉu forigi tiun ĉi pagmetodon?
-payments-remove-payment-prompt-confirm-button = Forigi
-payments-remove-payment-prompt-cancel-button = Nuligi
 autofill-addresses-title = Adresoj kaj pli
 autofill-addresses-header =
     .aria-label = Adresoj kaj pli
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresa strio
-addressbar-suggest-1 = Elekti la sugestojn, kiuj videblas en via adresa strio
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Sugestoj el { -brand-short-name } kaj niaj asociitoj en via adresa strio.
 addressbar-suggest = Dum uzo de la retadresa strio, sugesti el
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresa strio — { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Montri sugestojn pri popularaj serĉoj
     .accesskey = s
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Sugestoj de { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Ricevu sugestojn el la reto, kiu rilatas vian serĉon
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Sugestoj de { -brand-short-name }

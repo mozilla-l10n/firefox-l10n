@@ -199,6 +199,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = હંમેશાં તમને પૂછે છે કે ફાઇલો ક્યાં સાચવવી
     .accesskey = A
+applications-setting =
+    .label = એપ્લિકેશન્સ
+    .description = કેવી રીતે { -brand-short-name } પસંદ કરો; વેબ પરથી તમે ડાઉનલોડ કરેલી ફાઇલો અથવા બ્રાઉઝિંગ કરતી વખતે ઉપયોગમાં લેવાતી એપ્લિકેશનોનું સંચાલન કરે છે.
 applications-header = એપ્લિકેશન્સ
 applications-description = કેવી રીતે { -brand-short-name } પસંદ કરો; વેબ પરથી તમે ડાઉનલોડ કરેલી ફાઇલો અથવા બ્રાઉઝિંગ કરતી વખતે ઉપયોગમાં લેવાતી એપ્લિકેશનોનું સંચાલન કરે છે.
 applications-filter =
@@ -285,6 +288,9 @@ update-application-manual =
 update-application-use-service =
     .label = સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો
     .accesskey = b
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -386,6 +392,12 @@ choose-bookmark =
     .label = બુકમાર્ક વાપરો…
     .accesskey = B
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -483,6 +495,9 @@ containers-add-button =
 containers-remove-button =
     .label = દૂર કરો
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -517,6 +532,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ચકાસેલ નથી.
 sync-signedin-login-failure = મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -528,6 +548,12 @@ sync-remove-account =
 sync-sign-in =
     .label = સાઇન ઇન કરો
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -619,6 +645,12 @@ forms-master-pw-change =
     .label = મુખ્ય પાસવર્ડ બદલો...
     .accesskey = M
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -719,6 +751,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = કૂકીઝ અને સાઈટ ડેટા
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -851,6 +889,9 @@ addon-recommendations-link = વધુ શીખો
 # or builds with no Telemetry support available.
 collection-health-report-disabled = આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -885,8 +926,17 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS સક્રિય કરો
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ડેસ્કટોપ
 downloads-folder-name = ડાઉનલોડ
 choose-download-folder-title = ડાઉનલોડ ફોલ્ડર પસંદ કરો:
+
+## AI controls page
+

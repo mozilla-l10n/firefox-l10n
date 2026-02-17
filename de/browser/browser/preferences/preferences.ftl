@@ -78,6 +78,8 @@ close-button =
     .aria-label = Schließen
 do-not-track-removal2 =
     .label = Wir unterstützen das "Do Not Track"-Signal nicht mehr
+applications-setting-new-file-types =
+    .label = Wie soll { -brand-short-name } mit anderen Dateien verfahren?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Heruntergeladene Dateien im privaten Modus löschen, wenn alle privaten Fenster geschlossen sind
     .accesskey = l
+applications-setting =
+    .label = Anwendungen
+    .description = Legen Sie fest, wie { -brand-short-name } mit Dateien verfährt, die Sie aus dem Web oder aus Anwendungen, die Sie beim Surfen verwenden, herunterladen.
 applications-header = Anwendungen
 applications-description = Legen Sie fest, wie { -brand-short-name } mit Dateien verfährt, die Sie aus dem Web oder aus Anwendungen, die Sie beim Surfen verwenden, herunterladen.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startseite und neue Fenster
 home-homepage-new-windows =
     .label = Neue Fenster
-home-homepage-mode-label2 = Neue Fenster
 home-newtabs-mode-label = Neue Tabs
 home-homepage-new-tabs =
     .label = Neue Tabs
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Wählen Sie eine bestimmte Website
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Wählen Sie eine bestimmte Website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lesezeichen verwenden…
     .accesskey = L
-home-homepage-header = Startseite
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Adresse löschen
     .title = Adresse löschen
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ersetzen durch
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Noch keine Websites hinzugefügt.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Neue Zahlungsmethode hinzufügen
 payments-list-header =
     .label = Zahlungsmethoden
-payments-list-item-label = <strong>Zahlungmethoden</strong>
 payments-delete-payment-prompt-title = Diese Zahlungsmethode löschen?
 payments-delete-payment-prompt-confirm-button = Löschen
 payments-delete-payment-prompt-cancel-button = Abbrechen
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Keine Zahlungsmethoden hinzugefügt
-payments-remove-payment-prompt-title = Diese Zahlungsmethode entfernen?
-payments-remove-payment-prompt-confirm-button = Entfernen
-payments-remove-payment-prompt-cancel-button = Abbrechen
 autofill-addresses-title = Adressen und mehr
 autofill-addresses-header =
     .aria-label = Adressen und mehr
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adressleiste
-addressbar-suggest-1 = Wählen Sie aus, welche Vorschläge in Ihrer Adressleiste angezeigt werden
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Vorschläge von { -brand-short-name } und unseren Partnern in Ihrer Adressleiste.
 addressbar-suggest = Beim Verwenden der Adressleiste Folgendes vorschlagen:
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adressleiste – { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Beliebte Suchvorschläge anzeigen
     .accesskey = B
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Vorschläge von { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Erhalten Sie Vorschläge aus dem Web, die sich auf Ihre Suche beziehen.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Vorschläge von { -brand-short-name }

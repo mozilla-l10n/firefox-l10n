@@ -78,6 +78,8 @@ close-button =
     .aria-label = Sulje
 do-not-track-removal2 =
     .label = "Älä seuraa"-signaali ei ole enää tuettu
+applications-setting-new-file-types =
+    .label = Mitä { -brand-short-name }in pitäisi tehdä muille tiedostoille?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Poista yksityisessä selauksessa ladatut tiedostot, kun kaikki yksityiset ikkunat on suljettu
     .accesskey = d
+applications-setting =
+    .label = Ohjelmat
+    .description = Valitse, miten { -brand-short-name } käsittelee verkosta lataamasi tiedostot tai verkkoa selatessa käyttämäsi ohjelmat.
 applications-header = Ohjelmat
 applications-description = Valitse, miten { -brand-short-name } käsittelee verkosta lataamasi tiedostot tai verkkoa selatessa käyttämäsi ohjelmat.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Aloitussivu ja uudet ikkunat
 home-homepage-new-windows =
     .label = Uudet ikkunat
-home-homepage-mode-label2 = Uudet ikkunat
 home-newtabs-mode-label = Uudet välilehdet
 home-homepage-new-tabs =
     .label = Uudet välilehdet
@@ -828,8 +832,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Valitse tietty sivusto
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Valitse tietty sivusto
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -844,7 +846,6 @@ use-current-pages =
 choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
-home-homepage-header = Etusivu
 
 ## Home Section - Home Page Customization
 
@@ -871,6 +872,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Poista osoite
     .title = Poista osoite
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Korvaa käyttäen
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1518,7 +1523,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Lisää uusi maksutapa
 payments-list-header =
     .label = Maksutavat
-payments-list-item-label = <strong>Maksutavat</strong>
 payments-delete-payment-prompt-title = Poistetaanko tämä maksutapa?
 payments-delete-payment-prompt-confirm-button = Poista
 payments-delete-payment-prompt-cancel-button = Peruuta
@@ -1529,9 +1533,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Maksutapoja ei ole lisätty
-payments-remove-payment-prompt-title = Poistetaanko tämä maksutapa?
-payments-remove-payment-prompt-confirm-button = Poista
-payments-remove-payment-prompt-cancel-button = Peruuta
 autofill-addresses-title = Osoitteita ja muuta
 autofill-addresses-header =
     .aria-label = Osoitteita ja muuta
@@ -1733,11 +1734,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Osoitepalkki
-addressbar-suggest-1 = Valitse osoiterivillä näkyvät ehdotukset
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Ehdotuksia { -brand-short-name }ilta ja yhteistyökumppaneiltamme osoitepalkissasi.
 addressbar-suggest = Ehdota osoitepalkissa sivuja
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Osoitepalkki — { -firefox-suggest-brand-name }
@@ -1794,10 +1790,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Näytä suositut hakuehdotukset
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Ehdotuksia palvelusta { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Hanki hakuusi liittyviä ehdotuksia verkosta.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Ehdotuksia palvelusta { -brand-short-name }

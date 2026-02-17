@@ -183,6 +183,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Sentiasa tanya lokasi menyimpan fail
     .accesskey = S
+applications-setting =
+    .label = Aplikasi
+    .description = Pilih cara { -brand-short-name } mengendalikan fail yang dimuat turun dari Web atau aplikasi yang digunakan semasa melayar.
 applications-header = Aplikasi
 applications-description = Pilih cara { -brand-short-name } mengendalikan fail yang dimuat turun dari Web atau aplikasi yang digunakan semasa melayar.
 applications-filter =
@@ -269,6 +272,9 @@ update-application-manual =
 update-application-use-service =
     .label = Gunakan servis latar belakang bagi pemasangan versi terkini
     .accesskey = b
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -370,6 +376,12 @@ choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -463,6 +475,9 @@ containers-add-button =
 containers-remove-button =
     .label = Buang
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -497,6 +512,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -508,6 +528,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -596,6 +622,12 @@ forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -692,6 +724,12 @@ sitedata-settings =
     .accesskey = U
 cookies-site-data-group =
     .label = Kuki dan Data Laman
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -799,6 +837,9 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -833,8 +874,17 @@ certs-devices =
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Muat turun
 choose-download-folder-title = Pilih Folder Muat turun:
+
+## AI controls page
+

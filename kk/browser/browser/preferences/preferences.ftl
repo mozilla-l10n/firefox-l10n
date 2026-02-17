@@ -78,6 +78,8 @@ close-button =
     .aria-label = Жабу
 do-not-track-removal2 =
     .label = Біз енді «Мені бақыламау» сигналын қолдамаймыз
+applications-setting-new-file-types =
+    .label = { -brand-short-name } басқа файлдармен не істеу керек?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Барлық жеке терезелер жабылған кезде жеке шолу кезінде жүктелген файлдарды өшіру
     .accesskey = ш
+applications-setting =
+    .label = Қолданбалар
+    .description = { -brand-short-name } сіз интернеттен жүктеп алған файлдарды немесе шолу кезінде қолданатын қолданбаларды қалай өңдейтінін таңдаңыз.
 applications-header = Қолданбалар
 applications-description = { -brand-short-name } сіз интернеттен жүктеп алған файлдарды немесе шолу кезінде қолданатын қолданбаларды қалай өңдейтінін таңдаңыз.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Үй парағы және жаңа терезелер
 home-homepage-new-windows =
     .label = Жаңа терезелер
-home-homepage-mode-label2 = Жаңа терезелер
 home-newtabs-mode-label = Жаңа беттер
 home-homepage-new-tabs =
     .label = Жаңа беттер
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Белгілі бір сайтты таңдау
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Белгілі бір сайтты таңдау
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Бетбелгіні қолдану…
     .accesskey = Б
-home-homepage-header = Үй парағы
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Адресті өшіру
     .title = Адресті өшіру
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Немен алмастыру
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Әлі ешқандай веб-сайт қосылмаған.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Жаңа төлем әдісін қосу
 payments-list-header =
     .label = Төлем әдістері
-payments-list-item-label = <strong>Төлем әдістері</strong>
 payments-delete-payment-prompt-title = Бұл төлем әдісін өшіру керек пе?
 payments-delete-payment-prompt-confirm-button = Өшіру
 payments-delete-payment-prompt-cancel-button = Бас тарту
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Төлем әдістері қосылмаған
-payments-remove-payment-prompt-title = Бұл төлем әдісін өшіру керек пе?
-payments-remove-payment-prompt-confirm-button = Өшіру
-payments-remove-payment-prompt-cancel-button = Бас тарту
 autofill-addresses-title = Адрестер және т.б
 autofill-addresses-header =
     .aria-label = Адрестер және т.б
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Адрес жолағы
-addressbar-suggest-1 = Адрестік жолағында көрсетілетін ұсыныстарды таңдаңыз
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Адрес жолағындағы { -brand-short-name } және біздің серіктестеріміздің ұсыныстары.
 addressbar-suggest = Адрес жолағын қолдану кезінде, ұсыну
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Адрестік жолақ — { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Танымал іздеу ұсыныстарын көрсету
     .accesskey = т
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } ұсыныстары
-addressbar-locbar-suggest-all-option-desc = Сіздің іздеуіңізге қатысты интернеттен ұсыныстар алыңыз.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } ұсыныстары

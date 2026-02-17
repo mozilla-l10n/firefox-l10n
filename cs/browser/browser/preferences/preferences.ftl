@@ -94,6 +94,8 @@ close-button =
     .aria-label = Zavřít
 do-not-track-removal2 =
     .label = Funkce “Do Not Track” již není podporována
+applications-setting-new-file-types =
+    .label = Co má { -brand-short-name } dělat s ostatními soubory?
 
 ## Browser Restart Dialog
 
@@ -633,6 +635,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Smazat soubory stažené při anonymním prohlížení po zavření všech anonymních oken
     .accesskey = S
+applications-setting =
+    .label = Aplikace
+    .description = Co má { -brand-short-name } dělat se staženými soubory, nebo s aplikacemi, které používáte při prohlížení?
 applications-header = Aplikace
 applications-description = Co má { -brand-short-name } dělat se staženými soubory, nebo s aplikacemi, které používáte při prohlížení?
 applications-filter =
@@ -940,7 +945,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Na domovské stránce a v novém okně
 home-homepage-new-windows =
     .label = Nová okna
-home-homepage-mode-label2 = Nová okna
 home-newtabs-mode-label = V novém panelu
 home-homepage-new-tabs =
     .label = V novém panelu
@@ -961,8 +965,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Zvolte konkrétní stránku
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Zvolte konkrétní stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -977,7 +979,6 @@ use-current-pages =
 choose-bookmark =
     .label = Použít záložku…
     .accesskey = z
-home-homepage-header = Domovská stránka
 
 ## Home Section - Home Page Customization
 
@@ -1004,6 +1005,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Smazat adresu
     .title = Smazat adresu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Nahradit s
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Dosud nebyly přidány žádné stránky.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1672,7 +1677,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Přidat novou platební metodu
 payments-list-header =
     .label = Platební metody
-payments-list-item-label = <strong>Platební metody</strong>
 payments-delete-payment-prompt-title = Smazat tuto platební metodu?
 payments-delete-payment-prompt-confirm-button = Smazat
 payments-delete-payment-prompt-cancel-button = Zrušit
@@ -1683,9 +1687,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nebyla přidána žádná platební metoda
-payments-remove-payment-prompt-title = Odebrat tuto platební metodu?
-payments-remove-payment-prompt-confirm-button = Odebrat
-payments-remove-payment-prompt-cancel-button = Zrušit
 autofill-addresses-title = Adresy a další údaje
 autofill-addresses-header =
     .aria-label = Adresy a další údaje
@@ -1895,15 +1896,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresní řádek
-addressbar-suggest-1 = Zvolte, co se bude našeptávat v adresním řádku
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 =
-    { -brand-short-name.case-status ->
-        [with-cases] Návrhy od { -brand-short-name(case: "gen") } a našich partnerů přímo v adresním řádku.
-       *[no-cases] Návrhy od aplikace { -brand-short-name } a našich partnerů přímo v adresním řádku.
-    }
 addressbar-suggest = V adresním řádku našeptávat
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresní řádek — { -firefox-suggest-brand-name }
@@ -1964,14 +1956,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Našeptávat návrhy populárních vyhledávání
     .accesskey = p
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label =
-        { -brand-full-name.case-status ->
-            [with-cases] Návrhy od { -brand-short-name(case: "gen") }
-           *[no-cases] Návrhy od aplikace { -brand-short-name }
-        }
-addressbar-locbar-suggest-all-option-desc = Získat návrhy z webu souvisejícím s vaším vyhledáváním.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label =

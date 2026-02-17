@@ -69,6 +69,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Tanca
+applications-setting-new-file-types =
+    .label = Què ha de fer el { -brand-short-name } amb els altres fitxers?
 
 ## Browser Restart Dialog
 
@@ -360,6 +362,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Demana sempre on desar els fitxers
     .accesskey = a
+applications-setting =
+    .label = Aplicacions
+    .description = Trieu com voleu que el { -brand-short-name } tracti els fitxers que baixeu del web o les aplicacions que utilitzeu mentre navegueu.
 applications-header = Aplicacions
 applications-description = Trieu com voleu que el { -brand-short-name } tracti els fitxers que baixeu del web o les aplicacions que utilitzeu mentre navegueu.
 applications-filter =
@@ -493,6 +498,9 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -614,6 +622,12 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -814,6 +828,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1571,3 +1590,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+
+## AI controls page
+

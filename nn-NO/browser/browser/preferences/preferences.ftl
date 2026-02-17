@@ -78,6 +78,8 @@ close-button =
     .aria-label = Lat att
 do-not-track-removal2 =
     .label = Vi støttar ikkje lenger «Ikkje spor»-signalet
+applications-setting-new-file-types =
+    .label = Kva skal { -brand-short-name } gjere med andre filer?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Slett filer som er lasta ned i privat nettlesing når alle private vindauge er attlatne
     .accesskey = S
+applications-setting =
+    .label = Program
+    .description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-header = Program
 applications-description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startside og nye vindauge
 home-homepage-new-windows =
     .label = Nye vindauge
-home-homepage-mode-label2 = Nye vindauge
 home-newtabs-mode-label = Nye faner
 home-homepage-new-tabs =
     .label = Nye faner
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Vel ein bestemt nettstad
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Vel ein bestemt nettstad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Bruk bokmerke…
     .accesskey = u
-home-homepage-header = Startside
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Slett adresse
     .title = Slett adresse
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Erstatt med:
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ingen nettstadar lagt til enno.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåtar
-payments-list-item-label = <strong>Betalingsmåtar</strong>
 payments-delete-payment-prompt-title = Slette denne betalingsmåten?
 payments-delete-payment-prompt-confirm-button = Slett
 payments-delete-payment-prompt-cancel-button = Avbryt
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmåtar lagt til
-payments-remove-payment-prompt-title = Fjerne denne betalingsmåten?
-payments-remove-payment-prompt-confirm-button = Fjern
-payments-remove-payment-prompt-cancel-button = Avbryt
 autofill-addresses-title = Adresser og meir
 autofill-addresses-header =
     .aria-label = Adresser og meir
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresselinje
-addressbar-suggest-1 = Vel kva forslag som skal visast i adresselinja
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Forslag frå { -brand-short-name } og partnarane våre i adresselinja di.
 addressbar-suggest = Når du brukar adresselinja, føreslå
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresselinje — { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Vis populære søkjeforslag
     .accesskey = V
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Forslag frå { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Få forslag frå nettet relatert til søkinga di.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Forslag frå { -brand-short-name }

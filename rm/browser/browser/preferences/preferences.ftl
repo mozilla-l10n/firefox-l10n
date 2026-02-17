@@ -75,6 +75,8 @@ close-button =
     .aria-label = Serrar
 do-not-track-removal2 =
     .label = Nus na sustegnain betg pli il signal «Betg ma fastizar»
+applications-setting-new-file-types =
+    .label = Tge duai { -brand-short-name } far cun autras datotecas?
 
 ## Browser Restart Dialog
 
@@ -454,6 +456,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Stizzar las datotecas telechargiadas en il modus privat cura che tut las fanestras privatas èn serradas
     .accesskey = d
+applications-setting =
+    .label = Applicaziuns
+    .description = Tscherna co che { -brand-short-name } duai tractar las datotecas che ti telechargias dal web u las applicaziuns che ti utiliseschas durant navigar.
 applications-header = Applicaziuns
 applications-description = Tscherna co che { -brand-short-name } duai tractar las datotecas che ti telechargias dal web u las applicaziuns che ti utiliseschas durant navigar.
 applications-filter =
@@ -695,7 +700,6 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina da partenza e novas fanestras
-home-homepage-mode-label2 = Novas fanestras
 home-newtabs-mode-label = Novs tabs
 home-homepage-new-tabs =
     .label = Novs tabs
@@ -713,8 +717,6 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Administrar l'extensiun
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Tscherner ina website specifica
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -729,7 +731,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
-home-homepage-header = Pagina iniziala
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -748,6 +752,10 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Anc n’agiuntà naginas websites.
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Remplazzar cun
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Anc n’agiuntà naginas websites.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1005,6 +1013,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1326,10 +1339,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Agiuntar ina nova metoda da pajament
 payments-list-header =
     .label = Metodas da pajament
-payments-list-item-label = <strong>Metodas da pajament</strong>
-payments-remove-payment-prompt-title = Allontanar questa metoda da pajament?
-payments-remove-payment-prompt-confirm-button = Allontanar
-payments-remove-payment-prompt-cancel-button = Interrumper
 autofill-addresses-title = Adressas e dapli
 autofill-addresses-header =
     .aria-label = Adressas e dapli
@@ -1550,10 +1559,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mussar propostas da trends da tschertga
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Propostas da { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Retschaiva propostas dal web en connex cun tia tschertga.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Propostas da { -brand-short-name }
@@ -1959,3 +1964,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
+
+## AI controls page
+

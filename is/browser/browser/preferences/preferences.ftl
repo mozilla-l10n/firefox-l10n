@@ -74,6 +74,8 @@ close-button =
     .aria-label = Loka
 do-not-track-removal2 =
     .label = Við styðjum ekki lengur „Ekki rekja“ merkinguna
+applications-setting-new-file-types =
+    .label = Hvernig viltu að { -brand-short-name } meðhöndli aðrar skrár?
 
 ## Browser Restart Dialog
 
@@ -420,6 +422,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Eyða skrám sem sóttar voru í huliðsvafri þegar öllum huliðsgluggum er lokað
     .accesskey = E
+applications-setting =
+    .label = Forrit
+    .description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-header = Forrit
 applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-filter =
@@ -553,6 +558,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -676,6 +684,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -891,6 +905,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1180,9 +1199,7 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Bæta við nýjum greiðslumáta
 payments-list-header =
     .label = Greiðslumátar
-payments-list-item-label = <strong>Greiðslumátar</strong>
 payments-delete-payment-prompt-title = Eyða þessum greiðslumáta?
-payments-remove-payment-prompt-title = Fjarlægja þennan greiðslumáta?
 autofill-addresses-title = Heimilisföng og fleira
 autofill-addresses-header =
     .aria-label = Heimilisföng og fleira
@@ -1393,10 +1410,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sýna vinsælar leitartillögur
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Tillögur frá { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Tillögur frá { -brand-short-name }
@@ -1789,3 +1802,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## AI controls page
+

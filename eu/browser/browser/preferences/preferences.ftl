@@ -78,6 +78,8 @@ close-button =
     .aria-label = Itxi
 do-not-track-removal2 =
     .label = Jada ez dugu onartzen "Do Not Track" seinalea
+applications-setting-new-file-types =
+    .label = Zer egin behar du { -brand-short-name }(e)k beste fitxategiekin?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Ezabatu nabigatze pribatuan deskargatutako fitxategiak nabigatze pribatuko leiho guztiak ixtean
     .accesskey = E
+applications-setting =
+    .label = Aplikazioak
+    .description = Aukeratu { -brand-short-name }(e)k nola maneiatzen dituen webetik edo erabiltzen dituzun aplikazioetatik deskargatzen dituzun fitxategiak.
 applications-header = Aplikazioak
 applications-description = Aukeratu { -brand-short-name }(e)k nola maneiatzen dituen webetik edo erabiltzen dituzun aplikazioetatik deskargatzen dituzun fitxategiak.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Hasiera-orria eta leiho berriak
 home-homepage-new-windows =
     .label = Leiho berriak
-home-homepage-mode-label2 = Leiho berriak
 home-newtabs-mode-label = Fitxa berriak
 home-homepage-new-tabs =
     .label = Fitxa berriak
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Aukeratu gune zehatza
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Aukeratu gune zehatza
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
-home-homepage-header = Hasiera-orria
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Ezabatu helbidea
     .title = Ezabatu helbidea
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Ordeztu honekin
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Ez da webgunerik gehitu oraindik.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Gehitu ordainketa-metodo berria
 payments-list-header =
     .label = Ordainketa-metodoak
-payments-list-item-label = <strong>Ordainketa-metodoak</strong>
 payments-delete-payment-prompt-title = Ezabatu ordainketa-metodo hau?
 payments-delete-payment-prompt-confirm-button = Ezabatu
 payments-delete-payment-prompt-cancel-button = Utzi
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ez da ordainketa-metodorik gehitu
-payments-remove-payment-prompt-title = Kendu ordainketa-metodo hau?
-payments-remove-payment-prompt-confirm-button = Kendu
-payments-remove-payment-prompt-cancel-button = Utzi
 autofill-addresses-title = Helbideak eta gehiago
 autofill-addresses-header =
     .aria-label = Helbideak eta gehiago
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Helbide-barra
-addressbar-suggest-1 = Aukeratu helbide-barran bistaratu beharreko gomendioak.
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = { -brand-short-name }(r)en eta gure bazkideen iradokizunak zure helbide-barran.
 addressbar-suggest = Helbide-barra erabiltzean, gomendatu
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Helbide-barra — { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Erakutsi bilaketa-joeren iradokizunak
     .accesskey = n
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name }(r)en gomendioak
-addressbar-locbar-suggest-all-option-desc = Eskuratu zure bilaketarekin erlazionatutako webean zeharreko gomendioak.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name }(r)en gomendioak

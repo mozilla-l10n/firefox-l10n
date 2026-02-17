@@ -78,6 +78,8 @@ close-button =
     .aria-label = Sluiten
 do-not-track-removal2 =
     .label = We ondersteunen het ‘Niet volgen’-signaal niet meer
+applications-setting-new-file-types =
+    .label = Wat moet { -brand-short-name } met andere bestanden doen?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Bestanden die tijdens privénavigatie zijn gedownload verwijderen wanneer alle privévensters zijn gesloten
     .accesskey = v
+applications-setting =
+    .label = Toepassingen
+    .description = Kies hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
 applications-header = Toepassingen
 applications-description = Kies hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Startpagina en nieuwe vensters
 home-homepage-new-windows =
     .label = Nieuwe vensters
-home-homepage-mode-label2 = Nieuwe vensters
 home-newtabs-mode-label = Nieuwe tabbladen
 home-homepage-new-tabs =
     .label = Nieuwe tabbladen
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Kies een specifieke website
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Kies een specifieke website
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Bladwijzer gebruiken…
     .accesskey = B
-home-homepage-header = Startpagina
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Adres verwijderen
     .title = Adres verwijderen
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Vervangen door
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Nog geen websites toegevoegd.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Nieuwe betalingsmethode toevoegen
 payments-list-header =
     .label = Betalingsmethoden
-payments-list-item-label = <strong>Betaalmethoden</strong>
 payments-delete-payment-prompt-title = Deze betalingsmethode verwijderen?
 payments-delete-payment-prompt-confirm-button = Verwijderen
 payments-delete-payment-prompt-cancel-button = Annuleren
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Geen betalingsmethoden toegevoegd
-payments-remove-payment-prompt-title = Deze betalingsmethode verwijderen?
-payments-remove-payment-prompt-confirm-button = Verwijderen
-payments-remove-payment-prompt-cancel-button = Annuleren
 autofill-addresses-title = Adressen en meer
 autofill-addresses-header =
     .aria-label = Adressen en meer
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Adresbalk
-addressbar-suggest-1 = Kies welke suggesties in uw adresbalk worden getoond
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Suggesties van { -brand-short-name } en onze partners in uw adresbalk.
 addressbar-suggest = Bij gebruik van de adresbalk, suggesties weergeven uit
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Adresbalk – { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Trending zoeksuggesties tonen
     .accesskey = T
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Suggesties van { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Ontvang suggesties van het web gerelateerd aan uw zoekopdracht.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suggesties van { -brand-short-name }

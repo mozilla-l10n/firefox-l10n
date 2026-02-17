@@ -78,6 +78,8 @@ close-button =
     .aria-label = 閉じる
 do-not-track-removal2 =
     .label = “Do Not Track” 信号のサポートは終了しました
+applications-setting-new-file-types =
+    .label = 他のファイルは { -brand-short-name } でどのように扱いますか？
 
 ## Browser Restart Dialog
 
@@ -542,6 +544,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = プライベートブラウジングモードでダウンロードしたファイルをプライベートウインドウをすべて閉じた時に削除する
     .accesskey = D
+applications-setting =
+    .label = アプリケーション
+    .description = ウェブからダウンロードしたファイルを { -brand-short-name } が取り扱う方法と閲覧中に使用するアプリケーションを選んでください。
 applications-header = アプリケーション
 applications-description = ウェブからダウンロードしたファイルを { -brand-short-name } が取り扱う方法と閲覧中に使用するアプリケーションを選んでください。
 applications-filter =
@@ -791,7 +796,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = ホームページと新規ウインドウ
 home-homepage-new-windows =
     .label = 新規ウインドウ
-home-homepage-mode-label2 = 新規ウインドウ
 home-newtabs-mode-label = 新規タブ
 home-homepage-new-tabs =
     .label = 新規タブ
@@ -812,8 +816,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 特定のサイトを選択
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = 特定のサイトを選択
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -828,7 +830,6 @@ use-current-pages =
 choose-bookmark =
     .label = ブックマークを使う...
     .accesskey = B
-home-homepage-header = ホームページ
 
 ## Home Section - Home Page Customization
 
@@ -855,6 +856,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = アドレスを削除
     .title = アドレスを削除します
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 置き換え:
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = ウェブサイトがまだ追加されていません。
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1501,7 +1506,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = 新規支払い方法を追加
 payments-list-header =
     .label = 支払い方法
-payments-list-item-label = <strong>支払い方法</strong>
 payments-delete-payment-prompt-title = この支払い方法を削除しますか？
 payments-delete-payment-prompt-confirm-button = 削除
 payments-delete-payment-prompt-cancel-button = キャンセル
@@ -1512,9 +1516,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 追加した支払い方法はありません
-payments-remove-payment-prompt-title = この支払い方法を削除しますか？
-payments-remove-payment-prompt-confirm-button = 削除
-payments-remove-payment-prompt-cancel-button = キャンセル
 autofill-addresses-title = 住所など
 autofill-addresses-header =
     .aria-label = 住所など
@@ -1716,11 +1717,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = アドレスバー
-addressbar-suggest-1 = アドレスバーに表示する候補を選択してください。
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = { -brand-short-name } とパートナー企業からの候補をアドレスバーに表示します。
 addressbar-suggest = アドレスバーの使用時に表示する候補を選択してください。
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = アドレスバー — { -firefox-suggest-brand-name }
@@ -1777,10 +1773,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = トレンド検索の候補を表示する
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name } からの検索候補
-addressbar-locbar-suggest-all-option-desc = 検索語句に関連する候補をウェブから取得します
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name } からの検索候補

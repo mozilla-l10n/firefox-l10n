@@ -78,6 +78,8 @@ close-button =
     .aria-label = Bezárás
 do-not-track-removal2 =
     .label = Már nem támogatjuk a „Do Not Track” jelzést
+applications-setting-new-file-types =
+    .label = Mit tegyen a { -brand-short-name } más fájlokkal?
 
 ## Browser Restart Dialog
 
@@ -554,6 +556,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Privát böngészésben letöltött fájlok törlése, ha minden privát ablak be lett zárva
     .accesskey = t
+applications-setting =
+    .label = Alkalmazások
+    .description = Válassza ki, hogy a { -brand-short-name } hogyan kezelje az internetről letöltött fájlokat vagy a böngészéskor használt alkalmazásokat.
 applications-header = Alkalmazások
 applications-description = Válassza ki, hogy a { -brand-short-name } hogyan kezelje az internetről letöltött fájlokat vagy a böngészéskor használt alkalmazásokat.
 applications-filter =
@@ -803,7 +808,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = Kezdőlap és új ablakok
 home-homepage-new-windows =
     .label = Új ablakok
-home-homepage-mode-label2 = Új ablakok
 home-newtabs-mode-label = Új lapok
 home-homepage-new-tabs =
     .label = Új lapok
@@ -824,8 +828,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = Válasszon egy adott oldalt
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = Válasszon egy adott oldalt
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -840,7 +842,6 @@ use-current-pages =
 choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
-home-homepage-header = Kezdőlap
 
 ## Home Section - Home Page Customization
 
@@ -867,6 +868,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Cím törlése
     .title = Cím törlése
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Csere erre:
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = Még nincsenek webhelyek hozzáadva.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1514,7 +1519,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Új fizetési mód hozzáadása
 payments-list-header =
     .label = Fizetési módok
-payments-list-item-label = <strong>Fizetési módok</strong>
 payments-delete-payment-prompt-title = Törli ezt a fizetési módot?
 payments-delete-payment-prompt-confirm-button = Törlés
 payments-delete-payment-prompt-cancel-button = Mégse
@@ -1525,9 +1529,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nincs fizetési mód hozzáadva
-payments-remove-payment-prompt-title = Eltávolítja ezt a fizetési módot?
-payments-remove-payment-prompt-confirm-button = Eltávolítás
-payments-remove-payment-prompt-cancel-button = Mégse
 autofill-addresses-title = Címek és egyebek
 autofill-addresses-header =
     .aria-label = Címek és egyebek
@@ -1729,11 +1730,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = Címsáv
-addressbar-suggest-1 = Válassza ki a címsávban megjelenő javaslatokat
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = Javaslatok a { -brand-short-name }tól és a partnereinktől a címsorban.
 addressbar-suggest = A címsáv használatakor jelenjen meg
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = Címsor – { -firefox-suggest-brand-name }
@@ -1790,10 +1786,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Felkapott keresési javaslatok megjelenítése
     .accesskey = F
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Javaslatok a { -brand-short-name }tól
-addressbar-locbar-suggest-all-option-desc = Kapjon a kereséséhez kapcsolódó javaslatokat a webről.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Javaslatok a { -brand-short-name }tól

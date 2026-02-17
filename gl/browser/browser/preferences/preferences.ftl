@@ -72,6 +72,8 @@ close-button =
     .aria-label = Pechar
 do-not-track-removal2 =
     .label = Xa non soportamos o sinal «Non rastrexar»
+applications-setting-new-file-types =
+    .label = Que debería facer { -brand-short-name } con outros ficheiros?
 
 ## Browser Restart Dialog
 
@@ -416,6 +418,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = Elimina os ficheiros descargados na navegación privada cando todas as ventás privadas estean pechadas
     .accesskey = E
+applications-setting =
+    .label = Aplicativos
+    .description = Escolla como { -brand-short-name } xestiona os ficheiros que descarga da web ou os aplicativos que usa mentres navega.
 applications-header = Aplicativos
 applications-description = Escolla como { -brand-short-name } xestiona os ficheiros que descarga da web ou os aplicativos que usa mentres navega.
 applications-filter =
@@ -549,6 +554,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -672,6 +680,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -891,6 +905,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1346,10 +1365,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostrar as suxestións de busca en tendencia
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Suxestións de { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Recibe suxestións da web relacionadas coa túa busca.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Suxestións de { -brand-short-name }
@@ -1730,3 +1745,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
+
+## AI controls page
+

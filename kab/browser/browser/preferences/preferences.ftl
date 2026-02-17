@@ -74,6 +74,8 @@ close-button =
     .aria-label = Mdel
 do-not-track-removal2 =
     .label = Dayen, ur nettεawan ara tamuli “Ur ṭṭafar ara”
+applications-setting-new-file-types =
+    .label = D acu ara imahel { -brand-short-name } s yifuyla-nniḍen?
 
 ## Browser Restart Dialog
 
@@ -410,6 +412,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Suter yal tikkelt anida ara ttwakelsen ifuyla
     .accesskey = S
+applications-setting =
+    .label = Isnasen
+    .description = Fren amek ara yeddu { -brand-short-name } akked ifuyla i d-tessalayeḍ akked isnasen i tesseqdaceḍ mi ara tettinigeḍ.
 applications-header = Isnasen
 applications-description = Fren amek ara yeddu { -brand-short-name } akked ifuyla i d-tessalayeḍ akked isnasen i tesseqdaceḍ mi ara tettinigeḍ.
 applications-filter =
@@ -543,6 +548,9 @@ update-in-progress-ok-button = &Kkes
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Tamellit
@@ -666,6 +674,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -872,6 +886,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1330,10 +1349,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Sken isumar n unadi i yettuɛelqen
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = Isumar seg { -brand-short-name }
-addressbar-locbar-suggest-all-option-desc = Awi isumar seg web yeqqnen ɣer unadi-k·m.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = Isumar seg { -brand-short-name }
@@ -1668,3 +1683,6 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Tanarit
 downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
+
+## AI controls page
+

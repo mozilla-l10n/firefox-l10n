@@ -78,6 +78,8 @@ close-button =
     .aria-label = 닫기
 do-not-track-removal2 =
     .label = "추적 안 함" 신호를 더 이상 지원하지 않음
+applications-setting-new-file-types =
+    .label = { -brand-short-name }로 다른 파일 형식은 어떤 작업을 하시겠습니까?
 
 ## Browser Restart Dialog
 
@@ -542,6 +544,9 @@ download-always-ask-where =
 download-private-browsing-delete =
     .label = 모든 사생활 보호 창이 닫힐 때, 사생활 보호 모드에서 다운로드한 파일 삭제
     .accesskey = D
+applications-setting =
+    .label = 애플리케이션
+    .description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 애플리케이션을 처리하는 방법을 선택하세요.
 applications-header = 애플리케이션
 applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 애플리케이션을 처리하는 방법을 선택하세요.
 applications-filter =
@@ -791,7 +796,6 @@ set-as-my-default-browser-2 =
 home-homepage-mode-label = 홈페이지와 새 창
 home-homepage-new-windows =
     .label = 새 창
-home-homepage-mode-label2 = 새 창
 home-newtabs-mode-label = 새 탭
 home-homepage-new-tabs =
     .label = 새 탭
@@ -812,8 +816,6 @@ home-homepage-manage-extension-button =
 # This option leads to the "Custom Homepage" subpage
 home-homepage-custom-homepage-button =
     .label = 특정 사이트 선택
-# This option leads to the "Custom Homepage" subpage
-home-homepage-custom-homepage-url = 특정 사이트 선택
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -828,7 +830,6 @@ use-current-pages =
 choose-bookmark =
     .label = 북마크 사용…
     .accesskey = B
-home-homepage-header = 홈페이지
 
 ## Home Section - Home Page Customization
 
@@ -855,6 +856,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = 주소 삭제
     .title = 주소 삭제
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = 대체:
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-websites-yet = 아직 추가된 웹 사이트가 없습니다.
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
@@ -1498,7 +1503,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = 새 결제 수단 추가
 payments-list-header =
     .label = 결제 수단
-payments-list-item-label = <strong>결제 수단</strong>
 payments-delete-payment-prompt-title = 이 결제 수단을 삭제하시겠습니까?
 payments-delete-payment-prompt-confirm-button = 삭제
 payments-delete-payment-prompt-cancel-button = 취소
@@ -1509,9 +1513,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 추가된 결제 수단 없음
-payments-remove-payment-prompt-title = 이 결제 수단을 제거하시겠습니까?
-payments-remove-payment-prompt-confirm-button = 제거
-payments-remove-payment-prompt-cancel-button = 취소
 autofill-addresses-title = 주소 및 기타
 autofill-addresses-header =
     .aria-label = 주소 및 기타
@@ -1713,11 +1714,6 @@ cookie-banner-blocker-checkbox-label =
 ## Search Section
 
 addressbar-header = 주소 표시줄
-addressbar-suggest-1 = 주소 표시줄에 표시할 제안 선택
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest-1 = { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest-1 = 주소 표시줄에 { -brand-short-name } 및 파트너사의 제안이 표시됩니다.
 addressbar-suggest = 주소 표시줄에서 제안할 항목
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = 주소 표시줄 — { -firefox-suggest-brand-name }
@@ -1774,10 +1770,6 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = 인기 검색어 제안 표시
     .accesskey = t
-# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
-addressbar-locbar-suggest-all-option =
-    .label = { -brand-short-name }의 제안
-addressbar-locbar-suggest-all-option-desc = 사용자 검색과 관련된 웹 제안을 받으세요.
 # Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
 addressbar-locbar-suggest-nonsponsored-option =
     .label = { -brand-short-name }의 제안
