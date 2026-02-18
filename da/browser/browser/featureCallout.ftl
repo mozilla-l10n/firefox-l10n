@@ -231,6 +231,7 @@ splitview-onboarding-callout-title-1 = Opdelt visning: En bedre måde at multita
 splitview-onboarding-callout-subtitle-1 = Højreklik på dette faneblad og vælg "Tilføj opdelt visning" for at se to faneblade på én gang.
 splitview-onboarding-callout-cta-1 = Prøv det nu
 splitview-onboarding-callout-title-2 = Se to faneblade på samme tid med opdelt visning
+splitview-onboarding-callout-subtitle-2 = Ingen ekstra vinduer. Ingen skift mellem faneblade. Højreklik på dette faneblad og vælg "Tilføj opdelt visning".
 splitview-onboarding-callout-cta-2 = Prøv opdelt visning
 unified-search-callout-title = Skift mellem søgetjenester
 unified-search-callout-subtitle = Vælg hvad, der fungerer bedst for din specifikke søgning.

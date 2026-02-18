@@ -41,4 +41,5 @@ default-browser-guidance-notification-body-instruction-win11 =
 default-browser-guidance-notification-info-page = Vis mig hvordan
 default-browser-guidance-notification-dismiss = Færdig
 default-browser-guidance-notification-v2-title = Færdiggør opsætningen af { -brand-short-name } som din standard-browser
+default-browser-guidance-notification-v2-body = Vælg "Indstil som standard" for { -brand-short-name } i Indstillinger.
 default-browser-guidance-notification-v2-title-only = Afslut opsætning af { -brand-short-name } som din standard-browser i Indstillinger
