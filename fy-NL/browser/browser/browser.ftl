@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Omleech opnij ynstelle
 browser-window-close-button =
     .tooltiptext = Slute
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Tebek
 
 ## Tab actions
 
@@ -1176,6 +1179,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nij priveefinster
     .tooltiptext = Iepenje in nij priveenavigaasjefinster ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Diele
+    .tooltiptext = Dizze side diele
 
 ## EME notification panel
 
