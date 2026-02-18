@@ -99,3 +99,9 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er slået fra fo
 
 ipprotection-bandwidth-upgrade-title = Er du glad for den indbyggede VPN? Få endnu mere beskyttelse udenfor { -brand-product-name } med { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Vælg en VPN-placering, og tilføj beskyttelse af alle dine apps på op til fem enheder, hvad enten du er derhjemme eller på offentlige wi-fi.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du er tæt på din grænse for VPN.</strong> Du har { $usageLeft } GB tilbage. Grænsen for data nulstilles i starten af næste måned.

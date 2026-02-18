@@ -573,10 +573,15 @@ onboarding-personalization-motivation-other-option = Άλλο
 ## Onboarding 2026 brand refresh
 
 onboarding-refresh-pin-set-default-subtitle = Προστατεύουμε τα δεδομένα σας και εμποδίζουμε τις εταιρείες από το να κατασκοπεύουν τα κλικ σας, αυτόματα.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Είστε σε καλά χέρια
 onboarding-refresh-import-subtitle = Μεταφέρετε τους κωδικούς πρόσβασης, τους σελιδοδείκτες, το ιστορικό σας και πολλά άλλα.
 onboarding-refresh-import-title = Νιώστε σαν στο σπίτι σας στο { -brand-short-name }
+onboarding-refresh-onboarding-addons-subtitle = Οι επεκτάσεις είναι μικρές εφαρμογές που σας επιτρέπουν να προσαρμόσετε το { -brand-short-name }. Μπορούν να ενισχύσουν το απόρρητό σας, να βελτιώσουν την παραγωγικότητά σας, να αλλάξουν την εμφάνιση του { -brand-short-name } και πολλά άλλα.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Δώστε ώθηση στην περιήγησή σας
 onboarding-refresh-sync-title = Βρεθείτε οπουδήποτε. Συγχρονίστε τα όλα.
+onboarding-refresh-gratitude-subtitle = Σας ευχαριστούμε που χρησιμοποιείτε το { -brand-short-name }, το μόνο μεγάλο πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Με την υποστήριξή σας, εργαζόμαστε ώστε να κάνουμε το διαδίκτυο ασφαλέστερο και πιο προσβάσιμο για όλους.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Το { -brand-short-name } στο πλευρό σας

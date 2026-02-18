@@ -125,6 +125,9 @@ ip-protection-bandwidth-left-this-month-mb = Απομένουν { $usageLeft } M
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-mb = Απομένουν { $usageLeft } MB από { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση θα επιτραπεί ξανά τον επόμενο μήνα.
 
 ## IP Protection bandwidth reset callout
 

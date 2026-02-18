@@ -2254,8 +2254,12 @@ preferences-ai-controls-state-available =
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
     .label = Ενεργό
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Αποκλεισμένο
 preferences-ai-controls-state-description-before = Τι σημαίνουν οι επιλογές:
 preferences-ai-controls-state-description-available = <strong>Διαθέσιμο:</strong> Θα βλέπετε τη λειτουργία και θα μπορείτε να τη χρησιμοποιήσετε.
+preferences-ai-controls-state-description-enabled = <strong>Ενεργό:</strong> Έχετε επιλέξει να χρησιμοποιήσετε τη λειτουργία.
 preferences-ai-controls-block-confirmation-heading = Αποκλεισμός βελτιώσεων ΤΝ;
 preferences-ai-controls-block-confirmation-features-start = Τι θα αποκλειστεί:
 preferences-ai-controls-block-confirmation-translations = Μεταφράσεις
@@ -2264,3 +2268,5 @@ preferences-ai-controls-block-confirmation-tab-group-suggestions = Προτάσ�
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Πάροχοι chatbot στην πλαϊνή γραμμή
 preferences-ai-controls-block-confirmation-cancel =
     .label = Ακύρωση
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Φραγή
