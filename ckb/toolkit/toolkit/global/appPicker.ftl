@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-app-picker-browse-button =
+app-picker-browse-button = بگەڕێ...
     .buttonlabelextra2 = بگەڕێ...
-app-picker-send-msg =
+app-picker-send-msg = ئەم بڕگەیە بنێرە بۆ:
     .value = ئەم بڕگەیە بنێرە بۆ:
-app-picker-no-app-found =
+app-picker-no-app-found = هیچ داواکارییەک نەدۆزرایەوە بۆ ئەم جۆرە پەڕگەیە.
     .value = هیچ داواکارییەک نەدۆزرایەوە بۆ ئەم جۆرە پەڕگەیە.

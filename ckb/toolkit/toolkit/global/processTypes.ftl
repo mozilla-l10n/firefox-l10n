@@ -16,15 +16,43 @@ process-type-privilegedmozilla = ناوەڕۆکی Mozillaی شاراوە
 process-type-extension = پێوەکراو
 # process used to open file:// URLs
 process-type-file = پەڕگەی ناوخۆیی
+# process used to instantiate new child processes
+process-type-forkserver = Fork ڕاژەکار
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = ناوەڕۆکی جیاکراوە
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Isolated Service Worker
+# process preallocated; may change to other types
+process-type-prealloc = Preallocated
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 
+process-type-default = Main
+process-type-tab = تاب
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = چارەسەرکەری گرافیک
 # process used to perform network operations
 process-type-socket = سۆکێت
+# process used to decode media
+process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inference
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Sandboxed IPC Actor
+process-type-utility-actor-audio-decoder-generic = Utility Generic Audio Decoder
+process-type-utility-actor-audio-decoder-applemedia = Utility Appleمیدیا
+process-type-utility-actor-audio-decoder-wmf = Utility پەنجەرەs Media Foundation
+process-type-utility-actor-mf-media-engine = Utility Media Foundation Engine
+process-type-utility-actor-js-oracle = Utility JavaScript Oracle
+process-type-utility-actor-windows-utils = Utility پەنجەرەs Utils
+process-type-utility-actor-windows-file-dialog = Utility پەنجەرەs File Dialog
+
+##
+## Other
+
+# fallback
+process-type-unknown = نەناسراو

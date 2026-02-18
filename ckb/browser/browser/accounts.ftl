@@ -5,6 +5,9 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = پێکهێنانی هەژمارەکە تەواو بکە
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Account disconnected
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = بینێرە بۆ هەموو ئامێرەکان
 # Menu item that links to the Firefox Accounts settings for connected devices.
@@ -19,6 +22,7 @@ account-verify = بیسەلمێنە { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = بینێرە بۆ هەموو ئامێرەکان
+account-manage-devices-titlecase = بەڕێوەبردنی ئامێرەکان...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -38,6 +42,12 @@ account-send-tab-to-device-verify = هەژمارەکەت بسەلمێنە...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = هەژمار
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = کپمیوتەرەکت ئێستا پەیوەستە بووە لەگەڵ { $deviceName }.
@@ -70,14 +80,31 @@ account-single-tab-arriving-truncated-url = { $url }…
 account-multiple-tabs-arriving-title = بازدەرەکان گەیشتن
 # Variables:
 #   $deviceName (String): the device name.
-account-multiple-tabs-arriving-from-single-device =
+account-multiple-tabs-arriving-from-single-device = { $tabCount } گەیشت لە { $deviceName }ەوە
     { $tabCount ->
-        [one] { $tabCount } بازدەر گەیشت لە { $deviceName }ەوە
-       *[other] { $tabCount } گەیشت لە { $deviceName }ەوە
+        [one] { $tabCount } tab has arrived from { $deviceName }
+       *[other] { $tabCount } tabs have arrived from { $deviceName }
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] { $tabCount } tab has arrived from your connected devices
+       *[other] { $tabCount } tabs have arrived from your connected devices
     }
 # This version is used when we don't know any device names.
-account-multiple-tabs-arriving-from-unknown-device =
+account-multiple-tabs-arriving-from-unknown-device = { $tabCount } بازدەر گەیشت
     { $tabCount ->
-        [one] { $tabCount } بازدەر گەیشتن
-       *[other] { $tabCount } بازدەر گەیشت
+        [one] { $tabCount } tab has arrived
+       *[other] { $tabCount } tabs have arrived
+    }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = View recently closed tabs
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } tab closed
+       *[other] { $closedCount } { -brand-short-name } tabs closed
     }

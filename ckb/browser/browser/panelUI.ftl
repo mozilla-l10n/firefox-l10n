@@ -5,14 +5,21 @@
 
 ## Customization Menu
 
-customize-menu-add-to-toolbar =
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Unpin from Overflow Menu
+    .accesskey = U
+customize-menu-add-to-toolbar = زیادی بکە بۆ توڵامراز
     .label = زیادی بکە بۆ توڵامراز
     .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = Add to Overflow Menu
+    .accesskey = M
 
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the customization menu.
 panic-button-thankyou-msg1 = نوێترین مێژووی کارت پاککرایەوە.
 panic-button-thankyou-msg2 = گەڕانێکی پارێزراو!
-panic-button-thankyou-button =
+panic-button-thankyou-button = سوپاس!
     .label = سوپاس!

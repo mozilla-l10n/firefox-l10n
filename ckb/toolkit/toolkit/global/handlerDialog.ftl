@@ -12,14 +12,69 @@
 
 permission-dialog-description = ڕێگە بەم ماڵپەڕە بدە بەستەری { $scheme } بکاتەوە؟
 permission-dialog-description-file = ڕێگە بدە بەم پەڕگەیە بەستەری { $scheme } بکاتەوە؟
+permission-dialog-description-host = Allow { $host } to open the { $scheme } link?
+permission-dialog-description-extension = Allow the extension { $extension } to open the { $scheme } link?
+permission-dialog-description-app = Allow this site to open the { $scheme } link with { $appName }?
+permission-dialog-description-host-app = Allow { $host } to open the { $scheme } link with { $appName }?
+permission-dialog-description-file-app = Allow this file to open the { $scheme } link with { $appName }?
+permission-dialog-description-extension-app = Allow the extension { $extension } to open the { $scheme } link with { $appName }?
+permission-dialog-description-system-app = Open the { $scheme } link with { $appName }?
+permission-dialog-description-system-noapp = Open the { $scheme } link?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Allow this site to open your digital wallet?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Opening a <strong>{ $scheme }</strong> link allows <strong>{ $host }</strong> to request your real identity with <strong>{ $appName }</strong>. Only continue if you trust this site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Opening a <strong>{ $scheme }</strong> link allows this site to request your real identity with <strong>{ $appName }</strong>. Only continue if you trust this site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Opening a <strong>{ $scheme }</strong> link allows <strong>{ $host }</strong> to request your real identity from your digital wallet. Only continue if you trust this site.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Opening a <strong>{ $scheme }</strong> link allows this site to request your real identity from your digital wallet. Only continue if you trust this site.
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+## Variables:
+##  $host (string) - The hostname that is initiating the request
+##  $scheme (string) - The type of link that's being opened.
+
+permission-dialog-remember = Always allow <strong>{ $host }</strong> to open <strong>{ $scheme }</strong> links
+permission-dialog-remember-file = Always allow this file to open <strong>{ $scheme }</strong> links
+permission-dialog-remember-extension = Always allow this extension to open <strong>{ $scheme }</strong> links
+
+##
+
+permission-dialog-btn-open-link =
+    .label = بەستەر بکەرەوە
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Choose Application
+    .accessKey = A
+permission-dialog-unset-description = You’ll need to choose an application.
+permission-dialog-set-change-app-link = Choose a different application.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme (string) - The type of link that's being opened.
 
+chooser-window =
+    .title = Choose Application
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = بەستەر بکەرەوە
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Choose an application to open the { $scheme } link.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Always use this application to open <strong>{ $scheme }</strong> links
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] This can be changed in { -brand-short-name }’s options.
+       *[other] This can be changed in { -brand-short-name }’s preferences.
+    }
 choose-other-app-description = داوانامەیەکی تر هەڵبژێرە
-choose-app-btn =
-    .label = هەڵبژێرە...
+choose-app-btn = هەڵبژێرە...
+    .label = دیاریبکە...
     .accessKey = C
 choose-other-app-window-title = داوانامەیەکی تر...
 # Displayed under the name of a protocol handler in the Launch Application dialog.

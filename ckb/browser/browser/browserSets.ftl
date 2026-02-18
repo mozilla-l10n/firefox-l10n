@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-window-minimize-command =
+window-minimize-command = بچووکردنەوە
     .label = بچووکردنەوە
-window-zoom-command =
+window-zoom-command = زووم
     .label = زووم
 window-new-shortcut =
     .key = N
@@ -13,7 +13,7 @@ window-minimize-shortcut =
 close-shortcut =
     .key = W
 tab-new-shortcut =
-    .key = T
+    .key = ئ
 location-open-shortcut =
     .key = L
 location-open-shortcut-alt =
@@ -24,13 +24,13 @@ search-focus-shortcut =
 #   - web search
 #   - find in page
 find-shortcut =
-    .key = F
+    .key = پ
 search-find-again-shortcut =
     .key = G
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =
-    .key = E
+    .key = د
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -54,7 +54,7 @@ addons-shortcut =
 file-open-shortcut =
     .key = O
 save-page-shortcut =
-    .key = S
+    .key = پ
 page-source-shortcut =
     .key = U
 # This should match the Option+Command keyboard shortcut letter that Safari
@@ -79,14 +79,18 @@ nav-reload-shortcut =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+ai-chatbot-sidebar-shortcut =
+    .key = X
+toggle-sidebar-shortcut =
+    .key = Z
 history-show-all-shortcut =
-    .key = H
+    .key = ی
 history-show-all-shortcut-mac =
     .key = Y
 history-sidebar-shortcut =
-    .key = H
+    .key = ی
 full-screen-shortcut =
-    .key = F
+    .key = پ
 reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
 reader-mode-toggle-shortcut-other =
@@ -116,12 +120,12 @@ bookmark-show-library-shortcut =
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-sidebar-shortcut =
-    .key = B
+    .key = د
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-toolbar-shortcut =
-    .key = B
+    .key = د
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -132,17 +136,17 @@ full-zoom-reduce-shortcut =
 full-zoom-reduce-shortcut-alt-a =
     .key = _
 full-zoom-reduce-shortcut-alt-b =
-    .key = { "" }
+    .key = جوتیار نەریمان
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =
     .key = =
 full-zoom-enlarge-shortcut-alt2 =
-    .key = { "" }
+    .key = جوتیار نەریمان
 full-zoom-reset-shortcut =
     .key = 0
 full-zoom-reset-shortcut-alt =
-    .key = { "" }
+    .key = جوتیار نەریمان
 
 ##
 
@@ -161,6 +165,6 @@ help-shortcut =
 preferences-shortcut =
     .key = ,
 hide-app-shortcut =
-    .key = H
+    .key = ی
 hide-other-apps-shortcut =
-    .key = H
+    .key = ی

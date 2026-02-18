@@ -9,3 +9,16 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = پەنجەرەs Messages Information
+windows-messages-intro = This page shows the most recent messages sent by پەنجەرەs
+    to the { -brand-short-name } browser windows. The
+    bolded entry represents this window. Note that this page shows
+    the most recent messages at the time the page was loaded;
+    to see current ones you will need to refresh the page.
+    This page shows the most recent messages sent by Windows
+    to the { -brand-short-name } browser windows. The
+    bolded entry represents this window. Note that this page shows
+    the most recent messages at the time the page was loaded;
+    to see current ones you will need to refresh the page.
+windows-messages-copy-to-clipboard = Copy to clipboard

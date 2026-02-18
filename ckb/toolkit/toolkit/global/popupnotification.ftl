@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 popup-notification-learn-more = زیاتر بزانە
-popup-notification-more-actions-button =
+popup-notification-more-actions-button = کرداری زیاتر
     .aria-label = کرداری زیاتر
-popup-notification-default-button =
+popup-notification-default-button2 =
+    .label = باشە
+    .accesskey = O
+popup-notification-default-button = باشە!
     .label = باشە!
     .accesskey = O

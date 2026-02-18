@@ -7,10 +7,10 @@ aboutDialog-title =
 releaseNotes-link = چی نوێ هەیە
 update-checkForUpdatesButton =
     .label = چێکردنی نوێکردنەوە
-    .accesskey = چ
+    .accesskey = C
 update-updateButton =
     .label = پێکردنەوە بۆ نوێکردنەوە { -brand-shorter-name }
-    .accesskey = پ
+    .accesskey = R
 update-checkingForUpdates = چێکردن بۆ نوێکردنەوە…
 
 ## Variables:
@@ -25,7 +25,9 @@ update-applying = جێبەجێکردنی نوێکردنەوە…
 update-failed = نوێکردنەوە سەرکەوتوو نەبوو. <label data-l10n-name="failed-link"> دووا وەشان دابگرە </label>
 update-failed-main = نوێکردنەوە سەرکەوتوو نەبوو. <a data-l10n-name="failed-link-main">دووا وەشان دابگرە</a>
 update-adminDisabled = نوێکردنەوە ناچالاک کراوە لە بەڕێوەبەری سیستمەکەتەوە
+update-policy-disabled = نوێکردنەوەکان لەلایەن ڕێکخراوەکەتەوە ناچالاک کراون
 update-noUpdatesFound = { -brand-short-name } ئێستا لە دووا وەشانە
+aboutdialog-update-checking-failed = پشکنین بۆ نوێکردنەوەکان سەرکەوتوو نەبوو.
 update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
 
 ## Variables:
@@ -35,6 +37,7 @@ aboutdialog-update-manual-with-link = نوێکردنەوە بەردەستە لە
 settings-update-manual-with-link = نوێکردنەوە بەردەستە لە <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <label data-l10n-name="unsupported-link"> زیاتر بزانە</label>
 update-restarting = پێکردنەوە…
+update-internal-error2 = ناتوانرێت پشکنین بۆ نوێکردنەوەکان بکرێت بەهۆی هەڵەیەکی ناوخۆییەوە. نوێکردنەوەکان لە <label data-l10n-name="manual-link">{ $displayUrl }</label> بەردەستن.
 
 ##
 
@@ -48,6 +51,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } درووستکراوە لەلایەن <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">کۆمەڵگەییەکی جیهانییەوە</label> بەیەکەوە کاردەکرێت بۆ ئەوەی وێب بە کراوەیی، گشتی و بەردەست بێت بۆ هەموو کەسێک.
 helpus = دەتەوێت یارمەتیدەر بیت؟ <label data-l10n-name="helpus-donateLink"> ببەخشە </label> یان <label data-l10n-name="helpus-getInvolvedLink"> بەشدار بە</label>
 bottomLinks-license = زانیارییەکانی ڕێگەپێدان
+bottom-links-terms = مەرجەکانی بەکارهێنان
+bottom-links-privacy = ئاگاداریی تایبەتمەندی
 bottomLinks-rights = مافی بەکارهێنەر
 bottomLinks-privacy = ڕێوشوێنی تایبەتێتی
 # Example of resulting string: 66.0.1 (64-bit)
@@ -61,3 +66,14 @@ aboutDialog-version = { $version }({ $bits }-بت)
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $bits (Number): bits of the architecture (32 or 64)
 aboutDialog-version-nightly = { $version }({ $isodate })({ $bits }-بت)
+# Example of resulting string: 131.0a1 (aarch64)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch = { $version } ({ $arch })
+# Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $arch (String): name of the architecture (arm, aarch64, etc.)
+aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })

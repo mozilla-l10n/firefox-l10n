@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-alert-close =
+alert-close = ئەم ئاگانامەیە دابخە
     .tooltiptext = ئەم ئاگانامەیە دابخە
-alert-settings-title =
+alert-settings-title = ڕێکخستنەکان
     .tooltiptext = ڕێکخستنەکان
+
+## Reminder Notifications
+
+notification-default-dismiss = پشتگوێخستن

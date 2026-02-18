@@ -7,39 +7,42 @@ download-ui-confirm-title = هەموو داگرتنەکان هەڵدەوەشێن
 ## Variables:
 ##   $downloadsCount (Number): The current downloads count.
 
-download-ui-confirm-quit-cancel-downloads =
+download-ui-confirm-quit-cancel-downloads = ئەگەر ئێستا دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لە دەرچوون؟
     { $downloadsCount ->
-        [1] ئەگەر ئێستا دەرچیت، ئەوا 1 داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لە دەرچوون؟
-       *[other] ئەگەر ئێستا دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لە دەرچوون؟
+        [1] If you exit now, 1 download will be canceled. Are you sure you want to exit?
+       *[other] If you exit now, { $downloadsCount } downloads will be canceled. Are you sure you want to exit?
     }
-download-ui-confirm-quit-cancel-downloads-mac =
+download-ui-confirm-quit-cancel-downloads-mac = ئەگەر ئێستا دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لە دەرچوون؟
     { $downloadsCount ->
-        [1] ئەگەر ئێستا دەرچیت، ئەوا 1 داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لە دەرچوون؟
-       *[other] ئەگەر ئێستا دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لە دەرچوون؟
+        [1] If you quit now, 1 download will be canceled. Are you sure you want to quit?
+       *[other] If you quit now, { $downloadsCount } downloads will be canceled. Are you sure you want to quit?
     }
-download-ui-dont-quit-button =
+download-ui-dont-quit-button = دەرمەچۆ
     { PLATFORM() ->
-        [mac] دایمەخەرەوە
-       *[other] دەرمەچۆ
+        [mac] Don’t Quit
+       *[other] Don’t Exit
     }
-download-ui-confirm-offline-cancel-downloads =
+download-ui-confirm-offline-cancel-downloads = ئەگەر ئێستا بچیتە دەرهێڵ، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوە؟
     { $downloadsCount ->
-        [1] ئەگەر ئێستا دەرهێڵبیت، ئەوا 1 داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوە؟
-       *[other] ئەگەر ئێستا بچیتە دەرهێڵ، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوە؟
+        [1] If you go offline now, 1 download will be canceled. Are you sure you want to go offline?
+       *[other] If you go offline now, { $downloadsCount } downloads will be canceled. Are you sure you want to go offline?
     }
 download-ui-dont-go-offline-button = سەرهێڵ بمێنەوە
-download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads = ئەگەر ئێستا لە گەڕانی تایبەت دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوەی لە گەڕانی تایبەت دەرچیت؟
     { $downloadsCount ->
-        [1] ئەگەر ئێستا لە گەڕانی تایبەت دەرچیت، ئەوا 1 داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوەی لە گەڕانی تایبەت دەرچیت؟
-       *[other] ئەگەر ئێستا لە گەڕانی تایبەت دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوەی لە گەڕانی تایبەت دەرچیت؟
+        [1] If you close all Private Browsing windows now, 1 download will be canceled. Are you sure you want to leave Private Browsing?
+       *[other] If you close all Private Browsing windows now, { $downloadsCount } downloads will be canceled. Are you sure you want to leave Private Browsing?
     }
 download-ui-dont-leave-private-browsing-button = لە گەڕانی تایبەت بمێنەوە
-download-ui-cancel-downloads-ok =
+download-ui-cancel-downloads-ok = { $downloadsCount } داگرتن هەڵبوەشێنەوە
     { $downloadsCount ->
-        [1] 1 داگرتن هەڵبوەشێنەوە
-       *[other] { $downloadsCount } داگرتن هەڵبوەشێنەوە
+        [1] Cancel 1 Download
+       *[other] Cancel { $downloadsCount } Downloads
     }
 
 ##
 
 download-ui-file-executable-security-warning-title = پەڕگەی جێبەجێکراو دەکەیتەوە؟
+# Variables:
+#   $executable (String): The executable file to be opened.
+download-ui-file-executable-security-warning = “{ $executable }” is an executable file. Executable files may contain viruses or other malicious code that could harm your computer. Use caution when opening this file. Are you sure you want to launch “{ $executable }”?

@@ -2,29 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-translation-window2 =
+translation-window2 = هەڵاوێردی - وەرگێڕان
     .title = هەڵاوێردی - وەرگێڕان
     .style = min-width: 36em
 translation-close-key =
     .key = w
 translation-languages-disabled-desc = وەرگێڕان بەردەست نابێت بۆ ئەم زمانانەی خوارەوە
-translation-languages-column =
+translation-languages-column = زمانەکان
     .label = زمانەکان
-translation-languages-button-remove =
+translation-languages-button-remove = زمان بسڕەوە
     .label = زمان بسڕەوە
     .accesskey = R
-translation-languages-button-remove-all =
+translation-languages-button-remove-all = هەموو زمانەکان بسڕەوە
     .label = هەموو زمانەکان بسڕەوە
     .accesskey = e
 translation-sites-disabled-desc = وەرگێڕان بەردەست نابێت بۆ ئەم ماڵپەڕانەی خوارەوە
-translation-sites-column =
+translation-sites-column = ماڵپەڕەکان
     .label = ماڵپەڕەکان
-translation-sites-button-remove =
+translation-sites-button-remove = ماڵپەڕ بسڕەوە
     .label = ماڵپەڕ بسڕەوە
-    .accesskey = S
-translation-sites-button-remove-all =
+    .accesskey = پ
+translation-sites-button-remove-all = هەموو ماڵپەڕەکان بسڕەوە
     .label = هەموو ماڵپەڕەکان بسڕەوە
     .accesskey = i
-translation-dialog =
+translation-dialog = داخستن
     .buttonlabelaccept = داخستن
-    .buttonaccesskeyaccept = د
+    .buttonaccesskeyaccept = C

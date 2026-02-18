@@ -5,13 +5,13 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
-findbar-next =
+findbar-next = هەبوونی داهاتوو بدۆزەرەوە لە ڕستەکەدا
     .tooltiptext = هەبوونی داهاتوو بدۆزەرەوە لە ڕستەکەدا
-findbar-previous =
+findbar-previous = هەبوونی پێشوو بدۆزرەوە لە ڕستەکەدا
     .tooltiptext = هەبوونی پێشوو بدۆزرەوە لە ڕستەکەدا
-findbar-find-button-close =
+findbar-find-button-close = لاتەنیشتی دۆزینەوە دابخە
     .tooltiptext = لاتەنیشتی دۆزینەوە دابخە
-findbar-highlight-all2 =
+findbar-highlight-all2 = هەمووی نیشانە بکە
     .label = هەمووی نیشانە بکە
     .accesskey =
         { PLATFORM() ->
@@ -19,38 +19,47 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Highlight all occurrences of the phrase
-findbar-case-sensitive =
+findbar-case-sensitive = دۆخی لەیەکچوون
     .label = دۆخی لەیەکچوون
     .accesskey = C
     .tooltiptext = Search with case sensitivity
-findbar-match-diacritics =
+findbar-match-diacritics = دۆزینەوەی وشە وەکوو یەک
     .label = دۆزینەوەی وشە وەکوو یەک
     .accesskey = i
-    .tooltiptext = هێمای درووست بوونی وشەکان لە یەک جیادەکاتەوە و بەیەکەوە نایان دۆزێتەوە وەکو (هەردوو وشەی “resume” و “résumé” وەکوو یەک نادۆزێتەوە و جیایان دەکاتەوە)
-findbar-entire-word =
+    .tooltiptext = Distinguish between accented letters and their base letters (for example, when searching for “resume”, “résumé” will not be matched)
+findbar-entire-word = هەموو وشەکان
     .label = هەموو وشەکان
     .accesskey = W
-    .tooltiptext = تەنها بۆ هەموو وشەکان بگەڕێ
+    .tooltiptext = Search whole words only
 findbar-not-found = نووسین نەدۆزرایەوە
 findbar-wrapped-to-top = گەشتیتە کۆتایی پەڕە. لەسەرەوە دەستت پێکرد
 findbar-wrapped-to-bottom = گەشتیتە سەرەوەی پەڕە، لە خوارەوە دەستت پێکرد
-findbar-normal-find =
+findbar-normal-find = لە ناو پەڕگە بگەڕی
     .placeholder = لە ناو پەڕگە بگەڕی
-findbar-fast-find =
+findbar-fast-find = دۆزینەوەی خێرا
     .placeholder = دۆزینەوەی خێرا
-findbar-fast-find-links =
+findbar-fast-find-links = دۆزینەوەی خێرا (تەنها بەستەر)
     .placeholder = دۆزینەوەی خێرا (تەنها بەستەر)
-findbar-case-sensitive-status =
+findbar-case-sensitive-status = (هەستیاری بە پیتی گەورە وبچووک)
     .value = (هەستیاری بە پیتی گەورە وبچووک)
-findbar-match-diacritics-status =
+findbar-match-diacritics-status = (دۆزینەوەی وشە وەکوو یەک)
     .value = (دۆزینەوەی وشە وەکوو یەک)
-findbar-entire-word-status =
+findbar-entire-word-status = (تەنها هەموو پیتەکان)
     .value = (تەنها هەموو پیتەکان)
 # Variables:
+#   $current (Number): Index of the currently selected match
+#   $total (Number): Total count of matches
+findbar-found-matches =
+    .value =
+        { $total ->
+            [one] { $current } of { $total } match
+           *[other] { $current } of { $total } matches
+        }
+# Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
-findbar-found-matches-count-limit =
+findbar-found-matches-count-limit = زیاتر لە { $limit } دۆزرایەوە
     .value =
         { $limit ->
-            [one] زیاتر لە { $limit } دۆزرایەوە
-           *[other] زیاتر لە { $limit } دۆزرایەوە
+            [one] More than { $limit } match
+           *[other] More than { $limit } matches
         }

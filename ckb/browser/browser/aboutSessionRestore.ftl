@@ -16,25 +16,25 @@ restore-page-show-tabs = بازدەری پێشوو پیشان دە
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = پەنجەرەی { $windowNumber }
-restore-page-restore-header =
+restore-page-restore-header = هێنانەوە
     .label = هێنانەوە
-restore-page-list-header =
+restore-page-list-header = پەنجەرەکان و بازدەرەکان
     .label = پەنجەرەکان و بازدەرەکان
-restore-page-try-again-button =
+restore-page-try-again-button = هێنانەوەی دانیشتن
     .label = هێنانەوەی دانیشتن
-    .accesskey = ی
-restore-page-close-button =
+    .accesskey = R
+restore-page-close-button = دانیشتنی نوێ پێبکە
     .label = دانیشتنی نوێ پێبکە
-    .accesskey = ن
+    .accesskey = N
 
 ## The following strings are used in about:welcomeback
 
 welcome-back-tab-title = سەرکەوتوو بوو!
 welcome-back-page-title = سەرکەوتوو بوو!
 welcome-back-page-info = { -brand-short-name } ئێستا ئامادەیە بۆ ڕۆشتن.
-welcome-back-restore-button =
+welcome-back-restore-button = با بڕۆین!
     .label = با بڕۆین!
-    .accesskey = ۆ
+    .accesskey = L
 welcome-back-restore-all-label = هەموو پەنجەرە و بازدەرەکان بهێنەوە
 welcome-back-restore-some-label = تەنها ئەوە بهێنەوە کە خۆت دەتەوێت
 welcome-back-page-info-link = پێوە-کراوەکانت و دڵخوازکراوەکانت لابران و ڕێکخستەکانی وێبگەڕەکەت هێنرایەوە سەر دۆخی بنەڕەت. ئەگەر ئەمە کێشەکەی چارەسەر نەکردی، <a data-l10n-name="link-more"> زیاتر فێربە کە چی تر ئەتوانی بکەیت.</a>

@@ -4,7 +4,7 @@
 
 panic-button-open-new-window = پەنجەرەیەکی نوێی پاک بکەرەوە
 panic-button-undo-warning = ئەم کارە پاشگەزبوونەوەی نیە.
-panic-button-forget-button =
+panic-button-forget-button = لەبیرکردن!
     .label = لەبیرکردن!
 
 ## These strings are combined to form a complete sentence starting with
@@ -12,11 +12,11 @@ panic-button-forget-button =
 ## Please ensure that this remains the case in the translation.
 
 panic-main-timeframe-desc = کۆتا لەبیرکراو:
-panic-button-5min =
+panic-button-5min = ٥ خولەک
     .label = ٥ خولەک
-panic-button-2hr =
+panic-button-2hr = دوو کاژێر
     .label = دوو کاژێر
-panic-button-day =
+panic-button-day = 24 کاژێر
     .label = 24 کاژێر
 
 ## These strings are combined to form a complete sentence starting with

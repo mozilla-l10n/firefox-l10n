@@ -15,21 +15,21 @@ about-config-intro-warning-button = مەترسیەکە وەردەگرم و بە�
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = گۆڕینی ئەم هەڵبژاردنانە لەوانەیە کاربکاتە سەر توانای کار و پاراستنی { -brand-short-name }.
 about-config-page-title = هەڵبژاردنی پێشکەوتوو
-about-config-search-input1 =
+about-config-search-input1 = بگەڕێ بۆ ناوی هەڵبژاردن
     .placeholder = بگەڕێ بۆ ناوی هەڵبژاردن
 about-config-show-all = هەمووی پیشان بدە
 about-config-show-only-modified = تەنها هەڵبژرادنە دەستکاریکراوەکان پیشان بدە
-about-config-pref-add-button =
+about-config-pref-add-button = زیادکردن
     .title = زیادکردن
-about-config-pref-toggle-button =
+about-config-pref-toggle-button = بەستن و داخستن
     .title = بەستن و داخستن
-about-config-pref-edit-button =
+about-config-pref-edit-button = دەستکاریکردن
     .title = دەستکاریکردن
-about-config-pref-save-button =
+about-config-pref-save-button = پاشەکەوتکردن
     .title = پاشەکەوتکردن
-about-config-pref-reset-button =
+about-config-pref-reset-button = نوێکردنەوە
     .title = نوێکردنەوە
-about-config-pref-delete-button =
+about-config-pref-delete-button = سڕینەوە
     .title = سڕینەوە
 
 ## Labels for the type selection radio buttons shown when adding preferences.
@@ -45,7 +45,7 @@ about-config-pref-add-type-string = ڕیزبەند
 ## Variables:
 ##   $value (String): The full value of the preference.
 
-about-config-pref-accessible-value-default =
+about-config-pref-accessible-value-default = { $value } (بنەڕەت)
     .aria-label = { $value } (بنەڕەت)
-about-config-pref-accessible-value-custom =
+about-config-pref-accessible-value-custom = { $value } (خوازراو)
     .aria-label = { $value } (خوازراو)

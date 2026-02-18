@@ -2,16 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-blocklist-window2 =
+blocklist-window2 = لیستی بلۆک
     .title = لیستی بلۆک
     .style = min-width: 55em
+blocklist-description = Choose the list { -brand-short-name } uses to block online trackers. Lists provided by <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
-blocklist-treehead-list =
+blocklist-treehead-list = لیست
     .label = لیست
-blocklist-dialog =
+blocklist-dialog = گۆڕانکارییەکان هەڵگرە
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
-    .buttonaccesskeyaccept = گ
+    .buttonaccesskeyaccept = پ
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."

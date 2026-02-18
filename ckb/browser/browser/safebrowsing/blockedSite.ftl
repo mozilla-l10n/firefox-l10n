@@ -6,6 +6,15 @@ safeb-blocked-phishing-page-title = ماڵپەڕێکی فێڵاوی لەپێشە
 safeb-blocked-malware-page-title = سەردانیکردنی ماڵپەڕ لەوانەیە ئازاری کۆمپیوتەرەکەت بدا
 safeb-blocked-unwanted-page-title = ئەو ماڵپەڕەی وا دێت لەوانەیە ئازاری کۆمپیوتەرەکەت بدات
 safeb-blocked-harmful-page-title = ئەم ماڵپەڕەی کە دێت لەوانەیە زیانەواڵەی تێدا بێت
+safeb-blocked-addon-page-title = ماڵپەڕ blocked for your safety
+safeb-blocked-phishing-page-short-desc = { -brand-short-name } blocked this page because it may trick you into doing something dangerous like installing software or revealing personal information like passwords or credit cards.
+safeb-blocked-malware-page-short-desc = { -brand-short-name } blocked this page because it might attempt to install malicious software that may steal or delete personal information on your computer.
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blocked this page because it might try to trick you into installing programs that harm your browsing experience (for example, by changing your homepage or showing extra ads on sites you visit).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } blocked this page because it might try to install dangerous apps that steal or delete your information (for example, photos, passwords, messages and credit cards).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } blocked this page because one of your add-ons tried to open it. This site could be used to steal your info — like passwords or credit card numbers.
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
+safeb-palm-advisory-desc = Advisory provided by <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = بڕۆ دواوە
 safeb-palm-see-details-label = وردەکاری ببینە
 
@@ -13,15 +22,55 @@ safeb-palm-see-details-label = وردەکاری ببینە
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ئەم ماڵپەڕە <a data-l10n-name='error_desc_link'>ڕاپۆرت کراوە کە فێڵاوییە</a>. دەتوانیت <a data-l10n-name='report_detection'>کێشەکە ڕاپۆرت بکەی</a> یان <a data-l10n-name='ignore_warning_link'>کێشەکە پشتگوێبخەی</a> بڕۆی بۆ ماڵپەڕە ناپارێزراوەکە.
+safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as a deceptive site</a>. You can <a data-l10n-name='report_detection'>report a detection problem</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-phishing-page-learn-more = Learn more about deceptive sites and phishing at <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Learn more about { -brand-short-name }’s Phishing and Malware پاراستن at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing malicious software</a>. You can <a data-l10n-name='ignore_warning_link'>ignore the risk</a> and go to this unsafe site.
+safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing malicious software</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-malware-page-learn-more-sumo = Learn more about { -brand-short-name }’s Phishing and Malware پاراستن at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing harmful software</a>. You can <a data-l10n-name='ignore_warning_link'>ignore the risk</a> and go to this unsafe site.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span>ئەم ماڵپەڕە <a data-l10n-name='error_desc_link'>ڕاپۆرت کراوە کە نەرمەواڵەی ئازاربەخشی تێدایە</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-palm-notdeceptive =
+safeb-blocked-unwanted-page-learn-more = Learn more about harmful and unwanted software at <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Learn more about { -brand-short-name }’s Phishing and Malware پاراستن at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing a potentially harmful application</a>. You can <a data-l10n-name='ignore_warning_link'>ignore the risk</a> and go to this unsafe site.
+safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing a potentially harmful application</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-harmful-page-learn-more = Learn more about { -brand-short-name }’s Phishing and Malware پاراستن at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+safeb-palm-notdeceptive = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
-    .accesskey = d
+    .accesskey = ڕ
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>Why was this site blocked?</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> may be linked to deceptive and harmful activity.
+safeb-blocked-addon-page-error-desc3-override = <strong>What can you do about it?</strong>
+safeb-blocked-addon-page-error-desc4-override = To stop this from happening again, you can remove or disable <strong>{ $addonName }</strong> from دەربارەی پاشکۆکان.
+safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Learn more about { -brand-short-name }’s Phishing and Malware پاراستن</a>.

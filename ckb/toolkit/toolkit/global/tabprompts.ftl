@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-tabmodalprompt-username =
+tabmodalprompt-username = ناوی بەکارهێنەر:
     .value = ناوی بەکارهێنەر:
-tabmodalprompt-password =
+tabmodalprompt-password = وشەی تێپەڕبوون:
     .value = وشەی تێپەڕبوون:
-tabmodalprompt-ok-button =
+tabmodalprompt-ok-button = باشە
     .label = باشە
-tabmodalprompt-cancel-button =
+tabmodalprompt-cancel-button = پاشگەزبوونەوە
     .label = پاشگەزبوونەوە

@@ -6,15 +6,52 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بازدەری نوێ
-newtab-settings-button =
+newtab-settings-button = .title = ڕێکخستنەکان
     .title = پەڕەی بازدەری نوێ بە دڵی خۆت لێبکە
+newtab-customize-panel-icon-button =
+    .title = Customize this page
+newtab-customize-panel-icon-button-label = Customize
+newtab-personalize-settings-icon-label = .title = Personalize New Tab
+    .aria-label = ڕێکخستنەکان
+    .title = Personalize New Tab
+    .aria-label = ڕێکخستنەکان
+newtab-settings-dialog-label = .aria-label = ڕێکخستنەکان
+    .aria-label = ڕێکخستنەکان
+newtab-personalize-icon-label =
+    .title = Personalize new tab
+    .aria-label = Personalize new tab
+newtab-personalize-dialog-label =
+    .aria-label = Personalize
+newtab-logo-and-wordmark =
+    .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = پشتگوێخستن
+    .aria-label = پشتگوێخستن
 
 ## Search box component.
 
 # "Search" is a verb/action
-newtab-search-box-search-button =
+newtab-search-box-search-button = گەڕان
     .title = گەڕان
     .aria-label = گەڕان
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-text = گەڕان
+newtab-search-box-handoff-text-no-engine = گەڕان or enter address
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input = .placeholder = گەڕان
+    .placeholder = بگەڕێ بەهۆی { $engine } یان ناونیشان بنووسە
+    .title = بگەڕێ بەهۆی { $engine } یان ناونیشان بنووسە
+    .aria-label = بگەڕێ بەهۆی { $engine } یان ناونیشان بنووسە
+newtab-search-box-handoff-input-no-engine = .placeholder = گەڕان
+    .placeholder = بگەڕێ یان ناونیشان بنووسە
+    .title = بگەڕێ یان ناونیشان بنووسە
+    .aria-label = بگەڕێ یان ناونیشان بنووسە
+newtab-search-box-text = گەڕان the web
+newtab-search-box-input = .placeholder = گەڕان
+    .placeholder = بە وێبدا بگەڕێ
+    .aria-label = بە وێبدا بگەڕێ
 
 ## Top Sites - General form dialog.
 
@@ -22,11 +59,15 @@ newtab-topsites-add-search-engine-header = بزوێنەری گەڕان زیاد�
 newtab-topsites-add-shortcut-header = قەدبڕی نوێ
 newtab-topsites-edit-topsites-header = ماڵپەڕی سەرەکی دەستکاریبکە
 newtab-topsites-edit-shortcut-header = قەدبڕ دەستکاریبکە
+newtab-topsites-add-shortcut-label = Add کورتکراوە
+newtab-topsites-add-shortcut-title =
+    .title = Add کورتکراوە
+    .aria-label = Add کورتکراوە
 newtab-topsites-title-label = سەردێڕ
-newtab-topsites-title-input =
+newtab-topsites-title-input = سەردێڕێک بنووسە
     .placeholder = سەردێڕێک بنووسە
 newtab-topsites-url-label = بەستەر
-newtab-topsites-url-input =
+newtab-topsites-url-input = بینووسە یان بەستەر بلکێنە
     .placeholder = بینووسە یان بەستەر بلکێنە
 newtab-topsites-url-validation = بەستەری گونجاو پێویستە
 newtab-topsites-image-url-label = بەستەری وێنەی خوازراو
@@ -51,24 +92,32 @@ newtab-confirm-delete-history-p2 = ئەم کارە پاشگەزبوونەوەی 
 
 newtab-topsite-sponsored = پاڵپشتیکراو
 
+## Label used by screen readers for pinned top sites
+
+# Variables:
+#   $title (string) - The label or hostname of the site.
+topsite-label-pinned =
+    .aria-label = { $title } (pinned)
+    .title = { $title }
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
-newtab-menu-section-tooltip =
+newtab-menu-section-tooltip = پێڕست بکەرەوە
     .title = پێڕست بکەرەوە
     .aria-label = پێڕست بکەرەوە
 # Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
+newtab-dismiss-button-tooltip = بیسڕەوە
     .title = بیسڕەوە
     .aria-label = بیسڕەوە
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
-newtab-menu-content-tooltip =
+newtab-menu-content-tooltip = پێڕست بکەرەوە
     .title = پێڕست بکەرەوە
-    .aria-label = کردنەوەی پێکهاتەی پێڕست بۆ { $title }
+    .aria-label = Open context menu for { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
+newtab-menu-topsites-placeholder-tooltip = ئەم ماڵپەڕە دەستکاری بکە
     .title = ئەم ماڵپەڕە دەستکاری بکە
     .aria-label = ئەم ماڵپەڕە دەستکاری بکە
 
@@ -77,19 +126,40 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = دەستکاریکردن
 newtab-menu-open-new-window = لە پەنجەرەیەکی نوێ بیکەرەوە
 newtab-menu-open-new-private-window = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
-newtab-menu-dismiss = پشتگوێخستن
-newtab-menu-pin = هەڵواسین
-newtab-menu-unpin = لابردن
+newtab-menu-dismiss = لادان
+newtab-menu-pin = چەسپاندن
+newtab-menu-unpin = لادانی چەسپاندن
 newtab-menu-delete-history = سڕینەوە لە مێژووی کار
-newtab-menu-save-to-pocket = پاشەکەوتکردن لە { -pocket-brand-name }
+newtab-menu-save-to-pocket = پاشەکەوتکردن لە پۆکێت
 newtab-menu-delete-pocket = سڕینەوە لە { -pocket-brand-name }
 newtab-menu-archive-pocket = ئەرشیف کردن لە { -pocket-brand-name }
 newtab-menu-show-privacy-info = سپۆنسەرەکانمان و تایبەتێتی تۆ
+newtab-menu-about-fakespot = دەربارەی { -fakespot-brand-name }
+# Report is a verb (i.e. report issue with the content).
+newtab-menu-report = ڕاپۆرت
+# Context menu option to personalize New Tab recommended stories by blocking a section of stories,
+# e.g. "Sports". "Block" is a verb here.
+newtab-menu-section-block = بلۆک بکە
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
+newtab-menu-section-unfollow = Unfollow topic
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+newtab-menu-manage-sponsored-content = Manage sponsored content
+newtab-menu-our-sponsors-and-your-privacy = Our sponsors and your privacy
+newtab-menu-report-this-ad = Report this ad
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = تەواو
+newtab-privacy-modal-button-manage = Manage sponsored content settings
 newtab-privacy-modal-header = تایبەتێتی تۆ گرنگە
+newtab-privacy-modal-paragraph-2 =
+    In addition to dishing up captivating stories, we also show you relevant,
+    highly-vetted content from select sponsors. Rest assured, <strong>your browsing
+    data never leaves your personal copy of { -brand-product-name }</strong> — we don’t see it, and our
+    sponsors don’t either.
 newtab-privacy-modal-link = فێربە چۆن تایبەتێتی کاردەکات لە بازدەرێکی نوێ
 
 ##
@@ -110,10 +180,10 @@ newtab-menu-remove-download = سڕینەوە لە مێژووی کار
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
-newtab-menu-show-file =
+newtab-menu-show-file = بوخچەی لەخۆگری بکەرەوە
     { PLATFORM() ->
-        [macos] کردنەوەی لە بوخچەدا
-       *[other] بوخچەی لەخۆگری بکەرەوە
+        [macos] Show in Finder
+       *[other] Open Containing Folder
     }
 newtab-menu-open-file = پەڕگە بکەرەوە
 
@@ -131,6 +201,17 @@ newtab-label-download = داگیراو
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · سپۆنسەرکراو
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#   $sponsor (string) - The name of a sponsor
+newtab-label-sponsored-by = Sponsored by { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
+# This string is used under fixed size ads to indicate sponsored content
+newtab-label-sponsored-fixed = پاڵپشتیکراو
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -148,17 +229,21 @@ newtab-section-menu-privacy-notice = تێبینی لەسەر تایبەتێتی
 
 ## Section aria-labels
 
-newtab-section-collapse-section-label =
+newtab-section-collapse-section-label = داخستنەوەی بەش
     .aria-label = داخستنەوەی بەش
-newtab-section-expand-section-label =
+newtab-section-expand-section-label = فراوانکردنی بەش
     .aria-label = فراوانکردنی بەش
 
 ## Section Headers.
 
 newtab-section-header-topsites = ماڵپەڕە سەرەکییەکان
+newtab-section-header-recent-activity = Recent activity
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = پێشنیازکراوە لە لایەن { $provider }
+newtab-section-header-stories = Thought-provoking stories
+# "picks" refers to recommended articles
+newtab-section-header-todays-picks = Today’s picks for you
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -167,6 +252,8 @@ newtab-empty-section-highlights = دەست بکە بە گەڕان، ئێمەش �
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = هەموویت ئەنجام دا. کاتێکی تر وەرەوە بۆ چیرۆکی زیاتر لە { $provider }وە. ناتوانیت چاوەڕی بکەیت؟ بابەتێکی بەناوبانگ هەڵبژێرە بۆ ئەوەی چیرۆکی نایاب بدۆزیتەوە لە هەموو وێب.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = You’ve caught up. Check back later for more stories. Can’t wait? Select a popular topic to find more great stories from around the web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -181,13 +268,480 @@ newtab-discovery-empty-section-topstories-timed-out = ئوپس! وا هەموو 
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = بابەتی بەناوبانگ:
+newtab-pocket-new-topics-title = Want even more stories? See these popular topics from { -pocket-brand-name }
 newtab-pocket-more-recommendations = پێشنیازکراوی زیاتر
 newtab-pocket-learn-more = زیاتر بزانە
 newtab-pocket-cta-button = بەدەستهێنانی { -pocket-brand-name }
 newtab-pocket-cta-text = چیرۆکە دڵخوازەکانت پاشەکەوت بکە لە { -pocket-brand-name }، مێشکت پڕ بکە لە خوێندنەوەی دڵڕفێن.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is part of the { -brand-product-name } family
+newtab-pocket-save = پاشەکەوتکردن
+newtab-pocket-saved = Saved
+
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+# Clicking the thumbs up button for this story will result in more stories like this one being recommended
+newtab-pocket-thumbs-up-tooltip =
+    .title = More like this
+# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
+newtab-pocket-thumbs-down-tooltip =
+    .title = Not for me
+# Used to show the user a message upon clicking the thumbs up or down buttons
+newtab-toast-thumbs-up-or-down2 =
+    .message = Thanks. Your feedback will help us improve your feed.
+newtab-toast-dismiss-button =
+    .title = پشتگوێخستن
+    .aria-label = پشتگوێخستن
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+newtab-pocket-onboarding-discover = Discover the best of the web
+newtab-pocket-onboarding-cta = { -pocket-brand-name } explores a diverse range of publications to bring the most informative, inspirational, and trustworthy content right to your { -brand-product-name } browser.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = ئوپس! هەڵەیەک ڕوویدا لە کاتی بارکردنی ئەم ناوەڕۆکە.
 newtab-error-fallback-refresh-link = پەڕە نوێبکەرەوە بۆ هەوڵدانێکی تر.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = کورتکراوەs
+newtab-custom-shortcuts-subtitle = ماڵپەڕs you save or visit
+newtab-custom-shortcuts-toggle = .label = Shortcuts
+    .description = ماڵپەڕs you save or visit
+    .label = قەدبڕەکان
+    .description = ماڵپەڕs you save or visit
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } row
+       *[other] { $num } rows
+    }
+newtab-custom-sponsored-sites = کورتکراوە سپۆنسەرکراوەکان
+newtab-custom-pocket-title = Recommended by { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Exceptional content curated by { -pocket-brand-name }, part of the { -brand-product-name } family
+newtab-custom-stories-toggle =
+    .label = Recommended stories
+    .description = Exceptional content curated by the { -brand-product-name } family
+newtab-custom-stories-personalized-toggle =
+    .label = Stories
+newtab-custom-stories-personalized-checkbox-label = Personalized stories based on your activity
+newtab-custom-pocket-sponsored = Sponsored stories
+newtab-custom-pocket-show-recent-saves = Show recent saves
+newtab-custom-recent-title = Recent activity
+newtab-custom-recent-subtitle = A selection of recent sites and content
+newtab-custom-weather-toggle =
+    .label = Weather
+    .description = Today’s forecast at a glance
+newtab-custom-widget-weather-toggle =
+    .label = Weather
+newtab-custom-widget-lists-toggle =
+    .label = لیستەکان
+newtab-custom-widget-timer-toggle =
+    .label = Timer
+newtab-custom-widget-section-title = Widgets
+newtab-custom-widget-section-toggle =
+    .label = Widgets
+newtab-widget-manage-title = Widgets
+newtab-widget-manage-widget-button =
+    .label = Manage widgets
+# Tooltip for close button
+newtab-custom-close-menu-button = .title = داخستن
+    .title = داخستن
+    .aria-label = Close menu
+newtab-custom-close-button = داخستن
+newtab-custom-settings = Manage more settings
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Wallpapers
+newtab-wallpaper-reset = Reset to default
+newtab-wallpaper-upload-image = بەرزکردنەوە an image
+newtab-wallpaper-custom-color = Choose a color
+# Variables
+#   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
+newtab-wallpaper-error-max-file-size = The image exceeded the file size limit of { $file_size }MB. Please try uploading a smaller file.
+newtab-wallpaper-error-upload-file-type = We couldn’t upload your file. Please try again with an image file.
+newtab-wallpaper-error-file-type = We couldn’t upload your file. Please try again with different file type.
+newtab-wallpaper-light-red-panda = Red panda
+newtab-wallpaper-light-mountain = White mountain
+newtab-wallpaper-light-sky = Sky with purple and pink clouds
+newtab-wallpaper-light-color = Blue, pink and yellow shapes
+newtab-wallpaper-light-landscape = Blue mist mountain landscape
+newtab-wallpaper-light-beach = Beach with palm tree
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Red and blue shapes
+newtab-wallpaper-dark-panda = Red panda hidden in forest
+newtab-wallpaper-dark-sky = City landscape with a night sky
+newtab-wallpaper-dark-mountain = Landscape mountain
+newtab-wallpaper-dark-city = Purple city landscape
+newtab-wallpaper-dark-fox-anniversary = A fox on the pavement near a forest
+newtab-wallpaper-light-fox-anniversary = A fox in a grassy field with a misty mountain landscape
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Solid colors
+newtab-wallpaper-blue = شین
+newtab-wallpaper-light-blue = Light blue
+newtab-wallpaper-light-purple = Light purple
+newtab-wallpaper-light-green = Light green
+newtab-wallpaper-green = شین
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = زەرد
+newtab-wallpaper-orange = پرتەقاڵی
+newtab-wallpaper-pink = پەمەیی
+newtab-wallpaper-light-pink = Light pink
+newtab-wallpaper-red = سور
+newtab-wallpaper-dark-blue = Dark blue
+newtab-wallpaper-dark-purple = Dark purple
+newtab-wallpaper-dark-green = Dark green
+newtab-wallpaper-brown = Brown
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstract
+newtab-wallpaper-abstract-green = Green shapes
+newtab-wallpaper-abstract-blue = Blue shapes
+newtab-wallpaper-abstract-purple = Purple shapes
+newtab-wallpaper-abstract-orange = Orange shapes
+newtab-wallpaper-gradient-orange = Gradient orange and pink
+newtab-wallpaper-abstract-blue-purple = Blue and purple shapes
+newtab-wallpaper-abstract-white-curves = White with shaded curves
+newtab-wallpaper-abstract-purple-green = Purple and green light gradient
+newtab-wallpaper-abstract-blue-purple-waves = Blue and purple wavy shapes
+newtab-wallpaper-abstract-black-waves = Black wavy shapes
+
+## Firefox
+
+newtab-wallpaper-category-title-photographs = Photographs
+newtab-wallpaper-beach-at-sunrise = Beach at sunrise
+newtab-wallpaper-beach-at-sunset = Beach at sunset
+newtab-wallpaper-storm-sky = Storm sky
+newtab-wallpaper-sky-with-pink-clouds = Sky with pink clouds
+newtab-wallpaper-red-panda-yawns-in-a-tree = Red panda yawns in a tree
+newtab-wallpaper-white-mountains = White mountains
+newtab-wallpaper-hot-air-balloons = Assorted color of hot air balloons during daytime
+newtab-wallpaper-starry-canyon = Blue starry night
+newtab-wallpaper-suspension-bridge = Grey full-suspension bridge photography during daytime
+newtab-wallpaper-sand-dunes = White sand dunes
+newtab-wallpaper-palm-trees = Silhouette of coconut palm trees during golden hour
+newtab-wallpaper-blue-flowers = Closeup photography of blue-petaled flowers in bloom
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Photo by <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = وێنەی پاشبنەمای نوێ
+newtab-wallpaper-feature-highlight-content = Give your New تاب a fresh look with wallpapers.
+newtab-wallpaper-feature-highlight-button = تێگەیشتم
+# Tooltip for dismiss button
+feature-highlight-dismiss-button = .title = لادان\n    .aria-label = داخستنی پەنجەرە
+    .title = پشتگوێخستن
+    .aria-label = Close popup
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = Celestial
+newtab-wallpaper-celestial-lunar-eclipse = Lunar eclipse
+newtab-wallpaper-celestial-earth-night = Night photo from low Earth orbit
+newtab-wallpaper-celestial-starry-sky = Starry sky
+newtab-wallpaper-celestial-eclipse-time-lapse = Lunar eclipse time lapse
+newtab-wallpaper-celestial-black-hole = Black hole galaxy illustration
+newtab-wallpaper-celestial-river = Satellite image of river
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = See forecast in { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsored
+newtab-weather-menu-change-location = Change location
+newtab-weather-change-location-search-input-placeholder = .placeholder = گەڕان
+    .placeholder = Search location
+    .aria-label = Search location
+newtab-weather-menu-weather-display = Weather display
+newtab-weather-todays-forecast = Today’s forecast
+newtab-weather-see-full-forecast = See full forecast
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-change-weather-display-simple = Switch to simple view
+newtab-weather-menu-weather-display-option-detailed = Detailed
+newtab-weather-menu-change-weather-display-detailed = Switch to detailed view
+newtab-weather-menu-temperature-units = Temperature units
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Switch to Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Switch to Celsius
+newtab-weather-menu-hide-weather-v2 = Hide weather
+newtab-weather-menu-hide-weather = Hide weather on New تاب
+newtab-weather-menu-learn-more = زیاتر فێربە
+newtab-weather-menu-detect-my-location = Detect my location
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Weather data is not available right now.
+newtab-weather-opt-in-see-weather = Do you want to see the weather for your location?
+newtab-weather-opt-in-not-now =
+    .label = ئێستا نا
+newtab-weather-opt-in-yes = .label = بەڵێ
+    .label = بەڵێ
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = New York City
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast-description =
+    .title = See forecast in { $provider }
+    .aria-description = { $provider } ∙ Sponsored
+
+## Topic Labels
+
+newtab-topic-label-business = Business
+newtab-topic-label-career = Career
+newtab-topic-label-education = Education
+newtab-topic-label-arts = Entertainment
+newtab-topic-label-food = خواردن
+newtab-topic-label-health = Health
+newtab-topic-label-hobbies = Gaming
+# ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
+# and understand their personal finances – from saving money to buying a home. See the
+# “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
+newtab-topic-label-finance = Money
+newtab-topic-label-society-parenting = Parenting
+newtab-topic-label-government = Politics
+newtab-topic-label-education-science = Science
+# ”Life Hacks” = “Self Improvement”, refers to articles and stories aimed at helping readers improve various
+# aspects of their lives – from mental health to  productivity. See the “Curated by our editors“ section
+# at the top of https://getpocket.com/explore/self-improvement for more context.
+newtab-topic-label-society = Life Hacks
+newtab-topic-label-sports = Sports
+newtab-topic-label-tech = Tech
+newtab-topic-label-travel = Travel
+newtab-topic-label-home = سەرەکی & Garden
+
+## Topic Selection Modal
+
+# “fine-tune” refers to the process of making small adjustments to something to get
+# the best or desired experience or performance.
+newtab-topic-selection-title = Select topics to fine-tune your feed
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Choose two or more topics. Our expert curators prioritize stories tailored to your interests. Update anytime.
+newtab-topic-selection-save-button = پاشەکەوتکردن
+newtab-topic-selection-cancel-button = هەڵوەشاندنەوە
+newtab-topic-selection-button-maybe-later = Maybe later
+newtab-topic-selection-privacy-link = Learn how we protect and manage data
+newtab-topic-selection-button-update-interests = Update your interests
+newtab-topic-selection-button-pick-interests = Pick your interests
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+newtab-section-follow-button = Follow
+newtab-section-following-button = Following
+newtab-section-unfollow-button = Unfollow
+# A modal may appear next to the Follow button, directing users to try out the feature
+newtab-section-follow-highlight-title = Fine-tune your feed
+newtab-section-follow-highlight-subtitle = Follow your interests to see more of what you like.
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-block-button = بلۆک بکە
+newtab-section-blocked-button = بلۆککراوە
+newtab-section-unblock-button = Unblock
+
+## Confirmation modal for blocking a section
+
+newtab-section-cancel-button = ئێستا نا
+newtab-section-confirm-block-topic-p1 = Are you sure you want to block this topic?
+newtab-section-confirm-block-topic-p2 = Blocked topics will no longer appear in your feed.
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic-button = Block { $topic }
+
+## Strings for custom wallpaper highlight
+
+newtab-section-mangage-topics-title = Topics
+newtab-section-manage-topics-button-v2 =
+    .label = Manage topics
+newtab-section-mangage-topics-followed-topics = Followed
+newtab-section-mangage-topics-followed-topics-empty-state = You have not followed any topics yet.
+newtab-section-mangage-topics-blocked-topics = بلۆککراوە
+newtab-section-mangage-topics-blocked-topics-empty-state = You have not blocked any topics yet.
+newtab-custom-wallpaper-title = Custom wallpapers are here
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = Upload your own wallpaper or pick a custom color to make { -brand-product-name } yours.
+newtab-custom-wallpaper-cta = Try it
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-title = Choose a wallpaper to make { -brand-product-name } yours
+newtab-new-user-custom-wallpaper-subtitle = Make every new tab feel like home with custom wallpapers and colors.
+newtab-new-user-custom-wallpaper-cta = Try it now
+
+## Strings for download mobile highlight
+
+newtab-download-mobile-highlight-title = Download { -brand-product-name } for mobile
+# "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
+newtab-download-mobile-highlight-body-variant-a = Scan the code to securely browse on the go.
+newtab-download-mobile-highlight-body-variant-b = Pick up where you left off when you sync your tabs, passwords, and more.
+newtab-download-mobile-highlight-body-variant-c = Did you know you can take { -brand-product-name } on the go? Same browser. In your pocket.
+newtab-download-mobile-highlight-image =
+    .aria-label = QR code to download { -brand-product-name } for mobile
+
+## Strings for shortcuts highlight
+
+newtab-shortcuts-highlight-title = Your favorites at your fingertips
+newtab-shortcuts-highlight-subtitle = Add a shortcut to keep your favorite sites one click away.
+
+## Strings for reporting issues with ads and content
+
+newtab-report-content-why-reporting-this =
+    .label = Why are you reporting this?
+newtab-report-ads-reason-not-interested =
+    .label = I’m not interested
+newtab-report-ads-reason-inappropriate =
+    .label = It’s inappropriate
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = I’ve seen it too many times
+newtab-report-content-wrong-category =
+    .label = Wrong category
+newtab-report-content-outdated =
+    .label = Outdated
+newtab-report-content-inappropriate-offensive =
+    .label = Inappropriate or offensive
+newtab-report-content-spam-misleading =
+    .label = Spam or misleading
+newtab-report-content-requires-payment-subscription =
+    .label = Requires payment or subscription
+newtab-report-content-requires-payment-subscription-learn-more = زیاتر فێربە
+newtab-report-cancel = هەڵوەشاندنەوە
+newtab-report-submit = ناردن
+newtab-toast-thanks-for-reporting =
+    .message = Thank you for reporting this.
+
+## Strings for task / to-do list productivity widget
+
+# "Add one" means adding a new task to the list (e.g., "Walk the dog")
+newtab-widget-lists-empty-cta = The possibilities are endless. Add one.
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = New
+newtab-widget-lists-label-beta =
+    .label = Beta
+# When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
+# Variables:
+#   $number (number) - Amount of list items marked complete
+newtab-widget-lists-completed-list = Completed ({ $number })
+newtab-widget-task-list-menu-copy = کۆپیکردن
+newtab-widget-lists-menu-edit = Edit list name
+newtab-widget-lists-menu-create = Create a new list
+newtab-widget-lists-menu-delete = Delete this list
+newtab-widget-lists-menu-copy = Copy list to clipboard
+newtab-widget-lists-menu-hide = Hide all lists
+newtab-widget-lists-menu-learn-more = زیاتر فێربە
+newtab-widget-lists-input-add-an-item =
+    .placeholder = Add an item
+newtab-widget-lists-input-error = Please include text to add an item.
+newtab-widget-lists-input-menu-open-link = کردنەوەی بەستەر
+newtab-widget-lists-input-menu-move-up = Move up
+newtab-widget-lists-input-menu-move-down = Move down
+newtab-widget-lists-input-menu-delete = سڕینەوە
+newtab-widget-lists-input-menu-edit = دەستکاری
+# the + symbol emphasises the functionality of adding a new list
+newtab-widget-lists-dropdown-create =
+    .label = + Create a new list
+newtab-widget-lists-name-label-default =
+    .label = Task list
+newtab-widget-lists-name-placeholder-default =
+    .placeholder = Task list
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = New list
+newtab-widget-section-title = Widgets
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button = .title = شاردنەوەی ویجێتەکان
+    .aria-label = شاردنەوەی هەموو ویجێتەکان
+    .title = Hide widgets
+    .aria-label = Hide all widgets
+newtab-widget-section-maximize = .title = فراوانکردنی ویجێتەکان
+    .aria-label = فراوانکردنی هەموو ویجێتەکان بۆ قەبارەی تەواو
+    .title = Expand widgets
+    .aria-label = Expand all widgets to full size
+newtab-widget-section-minimize =
+    .title = Minimize widgets
+    .aria-label = Collapse all widgets to compact size
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+newtab-widget-timer-notification-title = Timer
+newtab-widget-timer-notification-focus = Focus time is up. Nice work. Need a break?
+newtab-widget-timer-notification-break = Your break is over. Ready to focus?
+newtab-widget-timer-notification-warning = Notifications are off
+newtab-widget-timer-mode-focus =
+    .label = Focus
+newtab-widget-timer-mode-break =
+    .label = Break
+newtab-widget-timer-label-play =
+    .label = لێدان
+newtab-widget-timer-label-pause =
+    .label = وچان
+newtab-widget-timer-reset =
+    .title = نوێکردنەوە
+newtab-widget-timer-menu-notifications = Turn off notifications
+newtab-widget-timer-menu-notifications-on = Turn on notifications
+newtab-widget-timer-menu-hide = Hide timer
+newtab-widget-timer-menu-learn-more = زیاتر فێربە
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Top Headlines
+newtab-daily-briefing-card-menu-dismiss = پشتگوێخستن
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Updated { $minutes }m ago
+newtab-widget-message-title = بە بەکارهێنانی لیستەکان و کاتژمێرێکی ناوەکی بە تەرکیزەوە بمێنەرەوە
+# to-dos stands for "things to do".
+newtab-widget-message-copy = لە بیرخەرەوە خێراکانەوە تا کارە ڕۆژانەییەکان، دانیشتنەکانی تەرکیزکردن تا کاتەکانی پشوودان — لەسەر کارەکەت و کاتەکەت بەردەوام بە.
+newtab-promo-card-title = Support { -brand-product-name }
+newtab-promo-card-body = Our sponsors support our mission to build a better web
+newtab-promo-card-cta = زیاتر فێربە
+newtab-promo-card-dismiss-button =
+    .title = پشتگوێخستن
+    .aria-label = پشتگوێخستن
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = پشتگوێخستن
+    .aria-label = پشتگوێخستن
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = ئەم شوێنە بە ئارەزووی خۆت ڕێکبخە
+newtab-activation-window-message-customization-focus-message = وێنەیەکی پاشبنەمای نوێ هەڵبژێرە، کورتکراوە بۆ ماڵپەڕە دڵخوازەکانت زیاد بکە، و ئاگاداری ئەو بابەتانە بە کە جێی سەرنجتن.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Start customizing
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = This space plays by your rules
+newtab-activation-window-message-values-focus-message = { -brand-product-name } lets you browse the way you like, with a more personal way to start your day online. Make { -brand-product-name } your own.

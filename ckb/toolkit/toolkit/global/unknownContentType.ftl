@@ -2,39 +2,39 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-unknowncontenttype-handleinternally =
+unknowncontenttype-handleinternally = کردنەوە بە { -brand-short-name }
     .label = کردنەوە بە { -brand-short-name }
-    .accesskey = ک
-unknowncontenttype-settingschange =
+    .accesskey = e
+unknowncontenttype-settingschange = ڕێکخستنەکان دەگۆڕدرێت لە بەشی { -brand-short-name } هەڵبژاردنەکان.
     .value =
         { PLATFORM() ->
-            [windows] ڕێکخستنەکان دەگۆڕدرێت لە بەشی { -brand-short-name } هەڵبژاردەکان.
-           *[other] ڕێکخستنەکان دەگۆڕدرێت لە بەشی { -brand-short-name } هەڵبژاردنەکان.
+            [windows] Settings can be changed in { -brand-short-name }’s Options.
+           *[other] Settings can be changed in { -brand-short-name }’s Preferences.
         }
 unknowncontenttype-intro = تۆ دیاریت کە بکرێتەوە:
 unknowncontenttype-which-is = بریتییە لە:
 unknowncontenttype-from = لە:
 unknowncontenttype-prompt = دەتەوێت پەڕگە پاشەکەوت بکەی؟
 unknowncontenttype-action-question = { -brand-short-name } چیبکات لەگەڵ ئەم جۆە پەڕگەیە؟
-unknowncontenttype-open-with =
+unknowncontenttype-open-with = بیکەرەوە لەڕێگەی
     .label = بیکەرەوە لەڕێگەی
-    .accesskey = o
-unknowncontenttype-other =
+    .accesskey = O
+unknowncontenttype-other = هیتر...
     .label = هیتر...
-unknowncontenttype-choose-handler =
+unknowncontenttype-choose-handler = بگەڕێ...
     .label =
         { PLATFORM() ->
-            [macos] دیاریبکە...
-           *[other] بگەڕێ...
+            [macos] Choose…
+           *[other] Browse…
         }
     .accesskey =
         { PLATFORM() ->
             [macos] C
            *[other] B
         }
-unknowncontenttype-save-file =
+unknowncontenttype-save-file = پەڕگە پاشەکەوت بکە
     .label = پەڕگە پاشەکەوت بکە
-    .accesskey = s
-unknowncontenttype-remember-choice =
+    .accesskey = پ
+unknowncontenttype-remember-choice = ئەم کارە خۆکار بکە بۆ هەر پەڕگەیەک کە وەک ئەمە وایە.
     .label = ئەم کارە خۆکار بکە بۆ هەر پەڕگەیەک کە وەک ئەمە وایە.
-    .accesskey = a
+    .accesskey = ه
