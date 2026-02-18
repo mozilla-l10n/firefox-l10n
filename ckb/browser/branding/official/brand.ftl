@@ -18,11 +18,11 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -brand-shorter-name = فایەرفۆکس
--brand-short-name = فایەرفۆکس
--brand-shortcut-name = فایەرفۆکس
--brand-full-name = مۆزیلا فایەرفۆکس
+-brand-short-name = Firefox
+-brand-shortcut-name = Firefox
+-brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = فایەرفۆکس
+-brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox و وێنۆچکەکانی هێمای بازرگانی دامەزراوەی Mozillaن
+trademarkInfo = Firefox and the Firefox logos are trademarks of the Mozilla Foundation.
