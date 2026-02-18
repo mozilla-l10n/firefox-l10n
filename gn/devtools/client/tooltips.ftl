@@ -24,6 +24,7 @@ inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi grid, flex térã mba’eporu oĩporãva ndive.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi grid, flex térã mba’eporu oĩporãva ndive.
 inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> nomyangekokuaái mba’everã ko mba’eporúpe ndaha’éigui mba’eporu hekoporãrasáva.
+inactive-css-no-default-anchor = <strong>{ $property }</strong> ndojapói mba’evete ko mba’eporúpe ndorekói rupi peteĩ mbojuajuha ijypykuéva.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ndoguerekói  mba’evai ko mba’eporúpe ndaha’éi rupi mbyatyha osẽtava renda.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe, ndaha’éi rupi mba’eporu hu’ũva.
