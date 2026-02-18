@@ -569,7 +569,7 @@ browser-window-close-button =
     .tooltiptext = Fermer
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
-    .tooltiptext = Entrée
+    .tooltiptext = Retour
 
 ## Tab actions
 
