@@ -5,11 +5,11 @@
 about-reader-loading = باردەکرێت...
 about-reader-load-error = نەتوانرا بابەت باربکرێت لە پەڕەوە
 about-reader-color-scheme-light = ڕوون
-    .title = ڕەنگی ڕێدانانی ڕوون
+    .title = Color Scheme Light
 about-reader-color-scheme-dark = تاریک
-    .title = ڕەنگی ڕێدانانی تاریک
+    .title = Color Scheme Dark
 about-reader-color-scheme-sepia = خۆڵەمێشی تۆخ
-    .title = ڕەنگی ڕێدانانی خۆڵەمێشی تۆخ
+    .title = Color Scheme Sepia
 about-reader-color-scheme-auto = Auto
     .title = Color Scheme Auto
 about-reader-color-light-theme = ڕوون
@@ -38,9 +38,9 @@ about-reader-estimated-read-time = { $range } خولەک
 ## Reader View text and layout menu
 
 about-reader-toolbar-minus = قەبارەی جۆرەپیت کەمبکەرەوە
-    .title = قەبارەی جۆرەپیت کەمبکەرەوە
+    .title = Decrease font size
 about-reader-toolbar-plus = قەبارەی جۆرەپیت زیادبکە
-    .title = قەبارەی جۆرەپیت زیادبکە
+    .title = Increase font size
 about-reader-toolbar-contentwidthminus = پانی ناوەڕۆک کەم بکەرەوە
     .title = پانی ناوەڕۆک کەم بکەرەوە
 about-reader-toolbar-contentwidthplus = پانی ناوەڕۆک زیاد بکە

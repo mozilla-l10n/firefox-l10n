@@ -16,6 +16,7 @@ abuse-report-subtitle = کێشەکە چییە؟
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = لە لایەن <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = دڵنیانیت کێشەکە چییە؟
+<a data-l10n-name="learnmore-link">زیاتر بخوێنەوە لەسەر ڕاپۆرت کردنی زیادکراو ڕووکارەکان</a>
     Unsure what issue to select?
     <a data-l10n-name="learnmore-link">Learn more about reporting extensions and themes</a>
 abuse-report-submit-description = کێشەکە پێناسە بکە (دڵخوازە)

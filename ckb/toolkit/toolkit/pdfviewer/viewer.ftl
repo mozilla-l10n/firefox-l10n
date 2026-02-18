@@ -34,7 +34,7 @@ pdfjs-presentation-mode-button = گۆڕین بۆ دۆخی پێشکەشکردن
     .title = گۆڕین بۆ دۆخی پێشکەشکردن
 pdfjs-presentation-mode-button-label = دۆخی پێشکەشکردن
 pdfjs-open-file-button = پەڕگە بکەرەوە
-    .title = پەڕگە بکەرەوە
+    .title = پەڕگە بکەرەوە...
 pdfjs-open-file-button-label = کردنەوە
 pdfjs-print-button = چاپکردن
     .title = چاپکردن
@@ -58,7 +58,7 @@ pdfjs-tools-button = ئامرازەکان
     .title = ئامرازەکان
 pdfjs-tools-button-label = ئامرازەکان
 pdfjs-first-page-button = برۆ بۆ یەکەم پەڕە
-    .title = برۆ بۆ یەکەم پەڕە
+    .title = بڕۆ بۆ یەکەم پەڕە
 pdfjs-first-page-button-label = بڕۆ بۆ یەکەم پەڕە
 pdfjs-last-page-button = بڕۆ بۆ کۆتا پەڕە
     .title = بڕۆ بۆ کۆتا پەڕە
@@ -559,10 +559,12 @@ pdfjs-editor-add-signature-dialog-title = Add a signature
 # Type is a verb (you can type your name as signature)
 pdfjs-editor-add-signature-type-button = Type
     .title = جۆر
+    .title = جۆر
 # Draw is a verb (you can draw your signature)
 pdfjs-editor-add-signature-draw-button = Draw
     .title = Draw
 pdfjs-editor-add-signature-image-button = وێنە
+    .title = وێنە
     .title = وێنە
 
 ## Tab panels

@@ -6,7 +6,7 @@ history-title = مێژووی نوێکاری
 history-intro = ئەم نوێکاریە دامەزرا
 close-button-label = داخستن
     .buttonlabelcancel = داخستن
-    .title = مێژووی کار نوێبکەرەوە
+    .title = مێژووی نوێکاری
 no-updates-label = هیچ نوێکارییەک دانەمەزراوە
 name-header = ناو نوێبکەرەوە
 date-header = بەرواری دامەزراندن
@@ -17,7 +17,7 @@ state-header = هەرێم
 # Variables:
 #   $name (string) - Name of the update
 #   $buildID (string) - Build identifier from the local updates.xml
-update-full-build-name = { $buildID }{ $name }
+update-full-build-name = { $name } ({ $buildID })
 update-details = وردەکاری
 # Variables:
 #   $date (string) - Date the last update was installed

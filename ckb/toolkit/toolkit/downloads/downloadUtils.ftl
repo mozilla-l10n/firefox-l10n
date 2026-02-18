@@ -40,7 +40,7 @@ download-utils-short-days = ڕ
 #   $transfer (string) - Transfer progress.
 #   $rate (string) - Rate number.
 #   $unit (string) - Rate unit.
-download-utils-status = { $timeLeft }—{ $transfer }({ $rate }{ $unit }/sec))
+download-utils-status = { $timeLeft } — { $transfer } ({ $rate } { $unit }/sec)
 # If download speed is a JavaScript Infinity value, this phrase is used
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (Really fast)
@@ -53,7 +53,7 @@ download-utils-status-infinite-rate = { $timeLeft }—{ $transfer }(زۆر خێ�
 # Variables:
 #   $timeLeft (string) - Time left.
 #   $transfer (string) - Transfer progress.
-download-utils-status-no-rate = { $timeLeft }—{ $transfer }
+download-utils-status-no-rate = { $timeLeft } — { $transfer }
 download-utils-bytes = بایت
 download-utils-kilobyte = کب
 download-utils-megabyte = مب
@@ -75,7 +75,7 @@ download-utils-transfer-diff-units = { $progress }{ $progressUnits } لە { $tot
 # Variables:
 #   $progress (string) - Progress number.
 #   $progressUnits (string) - Unit.
-download-utils-transfer-no-total = { $progress }{ $progressUnits }
+download-utils-transfer-no-total = { $progress } { $progressUnits }
 # examples: 1m; 11h
 # Variables:
 #   $time (string) - Time number.

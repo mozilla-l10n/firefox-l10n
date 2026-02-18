@@ -32,4 +32,4 @@ remove-info = پێویستە وشەی تێپەڕبوونی ئێستا بنووس
 remove-primary-password-warning1 = وشەی تێپەڕبوونی سەرەکی بەکاردێت بۆ پارێزگاریکردن لە زانیاریە هەستیارەکان وەک وشەی تێپەڕبوونی ماڵپەرەکان وچوونەژوورەوەکان.
 remove-primary-password-warning2 = If you remove your Primary تێپەڕەوشە your information will not be protected if your computer is compromised.
 remove-password-old-password = وشەی تێپەڕبوونی ئێستا:
-    .value = وشەی تێپەڕبوونی ئێستا:
+    .value = تێپەڕە وشەی ئێستا:

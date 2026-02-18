@@ -40,6 +40,7 @@ text-action-delete = سڕینەوە
     .label = سڕینەوە
     .accesskey = D
 text-action-reveal-password = .label = Reveal تێپەڕەوشە
+    .accesskey = v
     .label = Reveal Password
     .accesskey = v
 text-action-select-all = هەمووی دیاریبکە

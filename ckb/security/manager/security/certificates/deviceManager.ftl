@@ -21,20 +21,20 @@ devmgr-button-logout = بچۆ دەرەوە
     .label = بچۆ دەرەوە
     .accesskey = O
 devmgr-button-changepw = وشەی تێپەڕبوون بگۆڕە
-    .label = وشەی تێپەڕبوون بگۆڕە
-    .accesskey = پ
+    .label = گۆڕینی تێپەڕە وشە
+    .accesskey = P
 devmgr-button-load = بارکردن
     .label = بارکردن
-    .accesskey = ب
+    .accesskey = L
 devmgr-button-unload = بارنەکردن
     .label = بارنەکردن
-    .accesskey = ن
+    .accesskey = U
 devmgr-button-enable-fips = FIPS چالاک بکە
     .label = FIPS چالاک بکە
-    .accesskey = ف
+    .accesskey = پ
 devmgr-button-disable-fips = FIPS ناچالاک بکە
     .label = FIPS ناچالاک بکە
-    .accesskey = ف
+    .accesskey = پ
 
 ## Strings used for load device
 
@@ -43,15 +43,15 @@ load-device = وەگەڕخەری ئامێری PKCS#11 باربکە
 load-device-info = زانیارییەکانی مۆدول بنووسە کە دەتەوێت زیادی بکەیت.
 load-device-modname = ناوی مۆدول
     .value = ناوی مۆدول
-    .accesskey = م
+    .accesskey = M
 load-device-modname-default = مۆدولی PKCS#11 نوێ
     .value = مۆدولی PKCS#11 نوێ
 load-device-filename = ناوی پەڕگەی مۆدول
     .value = ناوی پەڕگەی مۆدول
-    .accesskey = ف
+    .accesskey = f
 load-device-browse = بگەڕێ...
     .label = بگەڕێ...
-    .accesskey = ب
+    .accesskey = د
 
 ## Token Manager
 
