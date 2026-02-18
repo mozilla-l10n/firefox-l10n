@@ -105,3 +105,15 @@ ipprotection-bandwidth-upgrade-text = Vælg en VPN-placering, og tilføj beskytt
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du er tæt på din grænse for VPN.</strong> Du har { $usageLeft } GB tilbage. Grænsen for data nulstilles i starten af næste måned.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du løber snart tør for VPN-data.</strong> Du har { $usageLeft } GB tilbage. Når du har brugt alt, bliver din VPN sat på pause, indtil grænsen for data nulstilles i starten af næste måned.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = Indbygget VPN til bedre beskyttelse af dit privatliv på internettet, når du bruger { -brand-short-name }.
+ip-protection-learn-more = Læs mere
+ip-protection-site-exceptions =
+    .label = Websteds-specifikke indstillinger

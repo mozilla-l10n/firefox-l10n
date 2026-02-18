@@ -565,6 +565,9 @@ browser-window-restore-down-button =
     .tooltiptext = Gendan fra maksimeret
 browser-window-close-button =
     .tooltiptext = Luk
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Tilbage
 
 ## Tab actions
 
@@ -1174,6 +1177,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nyt privat vindue
     .tooltiptext = Åbn et nyt vindue til privat browsing ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Del
+    .tooltiptext = Del denne side
 
 ## EME notification panel
 

@@ -40,6 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Βήμα 2: Επιλέξτε «Ορισμός προεπιλογής» για το { -brand-short-name }
 default-browser-guidance-notification-info-page = Εμφάνιση
 default-browser-guidance-notification-dismiss = Τέλος
-default-browser-guidance-notification-v2-title = Ολοκληρώστε τον ορισμό του { -brand-short-name } ως προεπιλεγμένο πρόγραμμα περιήγησης
-default-browser-guidance-notification-v2-body = Στις ρυθμίσεις, επιλέξτε «Ορισμός προεπιλογής» για το { -brand-short-name }.
-default-browser-guidance-notification-v2-title-only = Ολοκληρώστε τον ορισμό του { -brand-short-name } ως προεπιλεγμένο πρόγραμμα περιήγησης στις Ρυθμίσεις
+default-browser-guidance-notification-v2-title = Ολοκληρώστε τον ορισμό του { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης
+default-browser-guidance-notification-v2-body = Στις Ρυθμίσεις, επιλέξτε «Ορισμός προεπιλογής» για το { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Ολοκληρώστε τον ορισμό του { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης στις Ρυθμίσεις

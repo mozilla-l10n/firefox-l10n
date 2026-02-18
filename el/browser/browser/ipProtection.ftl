@@ -35,6 +35,7 @@ ipprotection-site-settings-callout-button = Το κατάλαβα
 
 unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
 unauthenticated-get-started = Έναρξη
+site-exclusion-toggle-label = Χρήση VPN για αυτόν τον ιστότοπο
 site-exclusion-toggle-enabled =
     .aria-label = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
 site-exclusion-toggle-disabled =

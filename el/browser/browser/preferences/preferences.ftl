@@ -2266,6 +2266,7 @@ preferences-ai-controls-block-confirmation-translations = Μεταφράσεις
 preferences-ai-controls-block-confirmation-pdfjs = Εναλλακτικό κείμενο εικόνας στο εργαλείο προβολής PDF του { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Προτάσεις ομάδων καρτελών
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Πάροχοι chatbot στην πλαϊνή γραμμή
+preferences-ai-controls-block-confirmation-features-after = Ο αποκλεισμός επηρεάζει επίσης τις επεκτάσεις που χρησιμοποιούν τεχνητή νοημοσύνη που παρέχεται από το { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Ακύρωση
 preferences-ai-controls-block-confirmation-confirm =
