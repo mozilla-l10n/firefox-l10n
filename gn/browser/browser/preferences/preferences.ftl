@@ -479,6 +479,8 @@ settings-translations-subpage-never-translate-header =
     .label = Ani araka’eve emoñe’ẽasa ko’ã ñe’ẽ
 settings-translations-subpage-never-translate-sites-header =
     .label = Araka’eve ani emoñe’ẽasa ko’ã tenda
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Embojuaju hag̃ua tenda, embojuruja <img data-l10n-name="translations-icon"/> ñe’ẽasa rupa, eiporavo <img data-l10n-name="settings-icon"/> ñe’ẽasa ñemoĩporã ha eiporavo “Aníke emoñe’ẽasa tenda”.
 settings-translations-subpage-language-select-option =
     .label = Embojuaju ñe’ẽ
 settings-translations-subpage-language-add-button =
