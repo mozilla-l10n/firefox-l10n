@@ -92,7 +92,12 @@ ipprotection-message-bandwidth-warning =
     .message = Ereko { $usageLeft } GB { $maxUsage } GB hembýva ko jasýpe.
 ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag̃ua tendaite ha embojuaju kundahára mbopapapyve.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Emboheko VPN ikatu hag̃uáicha hendy</a> oñembojuruja nove { -brand-short-name } peteĩ ñemo’ãverã.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } imandu’áta mba’e ñanduti roguépa oñemboheko oiporu hag̃ua VPN. Embohekopyahu <a data-l10n-name="setting-link">ñemboheko</a> ejapose vove.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = ¿Ehayhúpa VPN jehe’apyre? Ereko ñemo’ãve okápe { -brand-product-name }-gui { -mozilla-vpn-brand-name } ndive.
 
 ## IP Protection Settings
 
