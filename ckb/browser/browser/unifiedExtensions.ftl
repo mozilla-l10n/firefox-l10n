@@ -35,7 +35,7 @@ unified-extensions-item-message-manage = Manage extension
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } is restricted. Using it may be risky.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } violates مۆزیلا’s policies. Using it may be risky.
+unified-extensions-item-messagebar-softblocked = { $extensionName } violates Mozilla’s policies. Using it may be risky.
 
 ## Extension's context menu
 
@@ -74,7 +74,7 @@ unified-extensions-mb-blocklist-warning-single2 =
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single = .heading = { $extensionName } disabled
     .message =
-        This extension violates مۆزیلا’s policies and has been disabled.
+        This extension violates Mozilla’s policies and has been disabled.
         You can enable it in settings, but this may be risky.
     .heading = { $extensionName } disabled
     .message =
@@ -83,7 +83,7 @@ unified-extensions-mb-blocklist-warning-single = .heading = { $extensionName } d
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single = .heading = { $extensionName } disabled
-    .message = This extension violates مۆزیلا’s policies and has been disabled.
+    .message = This extension violates Mozilla’s policies and has been disabled.
     .heading = { $extensionName } disabled
     .message = This extension violates Mozilla’s policies and has been disabled.
 # Variables:
@@ -103,7 +103,7 @@ unified-extensions-mb-blocklist-warning-multiple = .heading =
            *[other] { $extensionsCount } extensions disabled
         }
     .message =
-        Some of your extensions have been disabled for violating مۆزیلا’s policies.
+        Some of your extensions have been disabled for violating Mozilla’s policies.
         You can enable them in settings, but this may be risky.
     .heading =
         { $extensionsCount ->
@@ -118,7 +118,7 @@ unified-extensions-mb-blocklist-error-multiple = .heading =
         { $extensionsCount ->
            *[other] { $extensionsCount } extensions disabled
         }
-    .message = Some of your extensions have been disabled for violating مۆزیلا’s policies.
+    .message = Some of your extensions have been disabled for violating Mozilla’s policies.
     .heading =
         { $extensionsCount ->
            *[other] { $extensionsCount } extensions disabled

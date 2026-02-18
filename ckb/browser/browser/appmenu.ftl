@@ -101,7 +101,7 @@ appmenu-remote-tabs-unverified = پێویستە هەژمارەکەت بسەلم�
 appmenuitem-fxa-toolbar-sync-now2 = هاوکاتگەری پێکردن
 appmenuitem-fxa-sign-in = بچۆژوورەوە لە { -brand-product-name }
 appmenuitem-fxa-manage-account = ڕێکخستنی هەژمار
-appmenu-fxa-header2 = هەژماری مۆزیلا
+appmenu-fxa-header2 = هەژماری Mozilla
 appmenu-account-header = هەژمار
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -298,14 +298,14 @@ appmenuitem-monitor-description = Get data breach alerts
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Mask your real email and phone
 appmenuitem-services-relay-description = Launch email masks dashboard
-appmenuitem-vpn-title = مۆزیلا VPN
+appmenuitem-vpn-title = Mozilla VPN
 appmenuitem-vpn-description-2 = Get whole-device protection
 appmenuitem-vpn-description = Protect your online activity
 appmenu-services-header = My services
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
-appmenu-other-protection-header2 = Try other protection tools from مۆزیلا:
+appmenu-other-protection-header2 = Try other protection tools from Mozilla:
 appmenu-other-protection-header = Try other protection tools from { -vendor-short-name }:
 
 ## Profiles panel

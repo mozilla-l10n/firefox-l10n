@@ -534,7 +534,7 @@ identity-connection-verified = تۆ بە پارێزراوی بەستراوی ب�
 identity-ev-owner-label = بڕوانامە دراوە لە لایەن:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Qualified as specified in Regulation (EU) 2024/1183.
-identity-description-custom-root2 = مۆزیلا does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.
+identity-description-custom-root2 = Mozilla does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.
 identity-remove-cert-exception = سڕینەوەی هەڵاوێردی
     .label = سڕینەوەی هەڵاوێردی
     .accesskey = R
@@ -605,7 +605,7 @@ browser-tab-unblock =
 ## Bookmarks toolbar items
 
 browser-import-button2 = .label = هێنانەناوەوەی دڵخوازەکان...
-    .tooltiptext = هێنانەناوەوەی دڵخوازەکان لە وێبگەڕێکی ترەوە بۆ فایەرفۆکس.
+    .tooltiptext = هێنانەناوەوەی دڵخوازەکان لە وێبگەڕێکی ترەوە بۆ Firefox.
     .label = Import bookmarks…
     .tooltiptext = Import bookmarks from another browser to { -brand-short-name }.
 bookmarks-toolbar-empty-message = بۆ دەستگەیشتنی خێرا، دڵخوازەکانت لێرە لەسەر شریتی دڵخوازەکان دابنێ. <a data-l10n-name="manage-bookmarks">بەڕێوەبردنی دڵخوازەکان...</a>

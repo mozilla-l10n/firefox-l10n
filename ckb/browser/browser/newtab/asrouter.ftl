@@ -131,7 +131,7 @@ cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Looks like you’re using public Wi-Fi
 spotlight-public-wifi-vpn-body = To hide your location and browsing activity, consider a Virtual Private Network. It will help keep you protected when browsing in public places like airports and coffee shops.
-spotlight-public-wifi-vpn-primary-button = بە تایبەت بمێنەرەوە بە مۆزیلا VPN
+spotlight-public-wifi-vpn-primary-button = بە تایبەت بمێنەرەوە بە Mozilla VPN
     .accesskey = پ
 spotlight-public-wifi-vpn-link = ئێستا نا
     .accesskey = N
@@ -427,7 +427,7 @@ etp-strict-exceptions-infobar-not-now = ئێستا نا
 set-default-menu-message-simple-layout-title = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتی نیە
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } is not your primary browser
 set-default-menu-message-row-layout-title = Make { -brand-short-name } your primary browser
-set-default-menu-message-row-layout-title-variant = فایەرفۆکس بکە بە وێبگەڕی بنەڕەتیت
+set-default-menu-message-row-layout-title-variant = Firefox بکە بە وێبگەڕی بنەڕەتیت
 set-default-menu-message-row-layout-subtitle = Get speed, safety and privacy every time you browse.
 set-default-menu-message-row-layout-subtitle-variant =
     { PLATFORM() ->

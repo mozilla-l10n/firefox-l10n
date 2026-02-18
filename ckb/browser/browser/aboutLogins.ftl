@@ -279,8 +279,8 @@ about-logins-confirm-remove-all-dialog-title2 = { $count ->
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 = { $count ->
-        [1] ئەمە ئەو تێپەڕەوشەیەی پاشەکەوتکراوە لە فایەرفۆکس و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-       *[other] ئەمە ئەو تێپەڕەوشانەی پاشەکەوتکراون لە فایەرفۆکس و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+        [1] ئەمە ئەو تێپەڕەوشەیەی پاشەکەوتکراوە لە Firefox و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+       *[other] ئەمە ئەو تێپەڕەوشانەی پاشەکەوتکراون لە Firefox و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
     }
     { $count ->
         [1] This will remove the password saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
@@ -297,8 +297,8 @@ about-logins-confirm-remove-all-sync-dialog-title2 = { $count ->
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 = { $count ->
-        [1] ئەمە ئەو تێپەڕەوشەیەی لە فایەرفۆکس پاشەکەوتکراوە لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-       *[other] ئەمە هەموو ئەو تێپەڕەوشانەی لە فایەرفۆکس پاشەکەوتکراون لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+        [1] ئەمە ئەو تێپەڕەوشەیەی لە Firefox پاشەکەوتکراوە لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+       *[other] ئەمە هەموو ئەو تێپەڕەوشانەی لە Firefox پاشەکەوتکراون لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
     }
     { $count ->
         [1] This will remove the password saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
@@ -357,7 +357,7 @@ about-logins-export-file-picker-title = پەڕگەی چوونەژوورەوەک�
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
 # Title of the file picker dialog
-about-logins-export-file-picker-title2 = ناردنی دەرەکیی تێپەڕەوشەکان لە فایەرفۆکس
+about-logins-export-file-picker-title2 = ناردنی دەرەکیی تێپەڕەوشەکان لە Firefox
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv
@@ -375,7 +375,7 @@ about-logins-export-file-picker-csv-filter-title = پەڕگەی CSV
 # Title of the file picker dialog
 about-logins-import-file-picker-title = هێنانی پەڕگەی چوونەژوور
 # Title of the file picker dialog
-about-logins-import-file-picker-title2 = هێنانەناوەوەی تێپەڕەوشەکان بۆ فایەرفۆکس
+about-logins-import-file-picker-title2 = هێنانەناوەوەی تێپەڕەوشەکان بۆ Firefox
 about-logins-import-file-picker-import-button = هێنان
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -432,7 +432,7 @@ about-logins-import-dialog-error-conflicting-values-description = بۆ نموو�
 about-logins-import-dialog-error-file-format-title = کێشەی فۆرماتی پەڕگە
 about-logins-import-dialog-error-file-format-description = سەرپەڕەی ستوونەکان هەڵەیە یان نییە. دڵنیابەرەوە کە پەڕگەکە ستوونەکانی ناوی بەکارهێنەر، تێپەڕەوشە و URLـی تێدایە.
 about-logins-import-dialog-error-file-permission-title = ناتوانرێت پەڕگەکە بخوێنرێتەوە
-about-logins-import-dialog-error-file-permission-description = فایەرفۆکس مۆڵەتی خوێندنەوەی ئەم پەڕگەیەی نییە. هەوڵ بدە مۆڵەتەکانی پەڕگەکە بگۆڕیت.
+about-logins-import-dialog-error-file-permission-description = Firefox مۆڵەتی خوێندنەوەی ئەم پەڕگەیەی نییە. هەوڵ بدە مۆڵەتەکانی پەڕگەکە بگۆڕیت.
 about-logins-import-dialog-error-unable-to-read-title = ناتوانرێت لێکدانەوە بۆ پەڕگەکە بکرێت
 about-logins-import-dialog-error-unable-to-read-description = دڵنیابەرەوە کە پەڕگەیەکی CSV یان TSVـت هەڵبژاردووە.
 about-logins-import-dialog-error-no-logins-imported = هیچ چوونەژوورێک نەهێنراوەتە ناوەوە
@@ -440,8 +440,8 @@ about-logins-import-dialog-error-learn-more = زیاتر بزانە
 about-logins-import-dialog-error-try-import-again = دووبارە هەوڵ بدەرەوە بۆ هێنانەناوەوە...
 about-logins-import-dialog-error-cancel = پاشگەزبوونەوە
 about-logins-import-report-title = پوختەی هێنانەناوەوە
-about-logins-import-report-description = چوونەژوورەوەکان و تێپەڕەوشەکان بۆ فایەرفۆکس هێنرانە ناوەوە.
-about-logins-import-report-description2 = تێپەڕەوشەکان بۆ فایەرفۆکس هێنرانە ناوەوە.
+about-logins-import-report-description = چوونەژوورەوەکان و تێپەڕەوشەکان بۆ Firefox هێنرانە ناوەوە.
+about-logins-import-report-description2 = تێپەڕەوشەکان بۆ Firefox هێنرانە ناوەوە.
 #
 # Variables:
 #  $number (number) - The number of the row

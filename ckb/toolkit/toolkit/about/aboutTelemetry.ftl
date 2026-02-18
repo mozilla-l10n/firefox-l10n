@@ -17,9 +17,9 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry زانیاری
 about-telemetry-current-store = Current Store:
 about-telemetry-more-information = Looking for more information?
-about-telemetry-firefox-data-doc = The <a data-l10n-name="data-doc-link">فایەرفۆکس Data Documentation</a> contains guides about how to work with our data tools.
-about-telemetry-telemetry-client-doc = The <a data-l10n-name="client-doc-link">فایەرفۆکس Telemetry client documentation</a> includes definitions for concepts, API documentation and data references.
-about-telemetry-telemetry-dashboard = The <a data-l10n-name="dashboard-link">Telemetry dashboards</a> allow you to visualize the data مۆزیلا receives via Telemetry.
+about-telemetry-firefox-data-doc = The <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> contains guides about how to work with our data tools.
+about-telemetry-telemetry-client-doc = The <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> includes definitions for concepts, API documentation and data references.
+about-telemetry-telemetry-dashboard = The <a data-l10n-name="dashboard-link">Telemetry dashboards</a> allow you to visualize the data Mozilla receives via Telemetry.
 about-telemetry-telemetry-probe-dictionary = The <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> provides details and descriptions for the probes collected by Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Open in the JSON viewer
 about-telemetry-home-section = سەرەکی

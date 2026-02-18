@@ -333,7 +333,7 @@ addon-options-button = کرداری زیاتر
 discopane-intro3 = Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
     enhance productivity, improve media, change the way { -brand-product-name } looks, and
     so much more. These small software programs are often developed by a third party. Here’s
-    a selection فایەرفۆکس <a data-l10n-name="learn-more-trigger">recommends</a> for
+    a selection Firefox <a data-l10n-name="learn-more-trigger">recommends</a> for
     exceptional security, performance, and functionality.
     Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
     enhance productivity, improve media, change the way { -brand-product-name } looks, and
@@ -463,7 +463,7 @@ addon-badge-recommended2 =
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 = .title = Official extension built by مۆزیلا. Meets security and performance standards
+addon-badge-line3 = .title = Official extension built by Mozilla. Meets security and performance standards
     .aria-label = { addon-badge-line3.title }
     .title = Official extension built by Mozilla. Meets security and performance standards
     .aria-label = { addon-badge-line3.title }
@@ -472,7 +472,7 @@ addon-badge-verified2 =
     .aria-label = { addon-badge-verified2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line4 = .title = Official extension built by مۆزیلا. Meets security and performance standards
+addon-badge-line4 = .title = Official extension built by Mozilla. Meets security and performance standards
     .title = Official extension built by Mozilla. Meets security and performance standards
 # This string needs to work in the context of other forks that are not Firefox
 # or built by Mozilla. In particular, we do not want to imply that an
@@ -486,7 +486,7 @@ addon-badge-verified4 =
 # organisation other than Mozilla or the Firefox team are making the
 # recommendation. As such, we hard code "Firefox" and avoid personalising
 # language like the words "our" or "we".
-addon-badge-recommended4 = .title = فایەرفۆکس only recommends extensions that meet standards for security and performance
+addon-badge-recommended4 = .title = Firefox only recommends extensions that meet standards for security and performance
     .title = Firefox only recommends extensions that meet standards for security and performance
 
 ##
@@ -551,9 +551,9 @@ details-notification-unsigned-and-disabled-link = زانیاری زیاتر
 details-notification-unsigned = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و بەردەوام بە بەهۆشیارییەوە.
 details-notification-unsigned2 = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و بەردەوام بە بەهۆشیارییەوە.
     .message = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و بەردەوام بە بەهۆشیارییەوە.
-details-notification-hard-blocked-extension = .message = This extension is blocked for violating مۆزیلا’s policies and has been disabled.
+details-notification-hard-blocked-extension = .message = This extension is blocked for violating Mozilla’s policies and has been disabled.
     .message = This extension is blocked for violating Mozilla’s policies and has been disabled.
-details-notification-hard-blocked-other = .message = This add-on is blocked for violating مۆزیلا’s policies and has been disabled.
+details-notification-hard-blocked-other = .message = This add-on is blocked for violating Mozilla’s policies and has been disabled.
     .message = This add-on is blocked for violating Mozilla’s policies and has been disabled.
 details-notification-unsigned-link = زانیاری زیاتر
 details-notification-blocked = { $name } ناچالاک کرا لەبەر ئەوەی کە کێشەی پاراستن و جێگیری هەیە.
@@ -566,13 +566,13 @@ details-notification-soft-blocked-other-disabled2 =
     .message = This add-on is restricted and has been disabled. You can enable it, but this may be risky.
 details-notification-soft-blocked-other-enabled2 =
     .message = This add-on is restricted. Using it may be risky.
-details-notification-soft-blocked-extension-disabled = .message = This extension is restricted for violating مۆزیلا’s policies and has been disabled. You can enable it, but this may be risky.
+details-notification-soft-blocked-extension-disabled = .message = This extension is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
     .message = This extension is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
-details-notification-soft-blocked-extension-enabled = .message = This extension violates مۆزیلا’s policies. Using it may be risky.
+details-notification-soft-blocked-extension-enabled = .message = This extension violates Mozilla’s policies. Using it may be risky.
     .message = This extension violates Mozilla’s policies. Using it may be risky.
-details-notification-soft-blocked-other-disabled = .message = This add-on is restricted for violating مۆزیلا’s policies and has been disabled. You can enable it, but this may be risky.
+details-notification-soft-blocked-other-disabled = .message = This add-on is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
     .message = This add-on is restricted for violating Mozilla’s policies and has been disabled. You can enable it, but this may be risky.
-details-notification-soft-blocked-other-enabled = .message = This add-on violates مۆزیلا’s policies. Using it may be risky.
+details-notification-soft-blocked-other-enabled = .message = This add-on violates Mozilla’s policies. Using it may be risky.
     .message = This add-on violates Mozilla’s policies. Using it may be risky.
 details-notification-softblocked-link2 = بینینی وردەکارییەکان
 details-notification-blocked-link = زانیاری زیاتر
@@ -587,7 +587,7 @@ details-notification-gmp-pending2 = { $name } بەزووی دادەمەزرێت.
 plugins-gmp-license-info = زانیارییەکانی ڕێگەپێدان
 plugins-gmp-privacy-info = زانیارییەکانی تایبەتمەندی
 plugins-openh264-name = OpenH264 Video Codec provided by Cisco Systems, Inc.
-plugins-openh264-description = This plugin is automatically installed by مۆزیلا to comply with the وێبRTC specification and to enable وێبRTC calls with devices that require the H.264 video codec. Visit https://www.openh264.org/ to view the codec source code and learn more about the implementation.
+plugins-openh264-description = This plugin is automatically installed by Mozilla to comply with the وێبRTC specification and to enable وێبRTC calls with devices that require the H.264 video codec. Visit https://www.openh264.org/ to view the codec source code and learn more about the implementation.
 plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
 plugins-widevine-description = This plugin enables playback of encrypted media in compliance with the Encrypted Media Extensions specification. Encrypted media is typically used by sites to protect against copying of premium media content. Visit https://www.w3.org/TR/encrypted-media/ for more information on Encrypted Media Extensions.
 

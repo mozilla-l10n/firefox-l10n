@@ -67,5 +67,5 @@ pocket-panel-header-sign-in = بچۆژوورەوە
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = هەمووی پیشان بدە
-pocket-panel-button-activate = چالاککردنی پۆکێت لە فایەرفۆکسدا
+pocket-panel-button-activate = چالاککردنی پۆکێت لە Firefoxدا
 pocket-panel-button-remove = بیسڕەوە

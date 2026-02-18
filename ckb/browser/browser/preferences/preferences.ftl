@@ -61,12 +61,12 @@ pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
 pane-experimental-subtitle = بە وریاییەوە بەردەوام بە
-pane-experimental-search-results-header = ئەزموونەکانی فایەرفۆکس: بە وریاییەوە بەردەوام بە
+pane-experimental-search-results-header = ئەزموونەکانی Firefox: بە وریاییەوە بەردەوام بە
 pane-experimental-description2 = Changing advanced configuration settings can impact { -brand-short-name } performance or security.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description4 = تایبەتمەندییە ئەزموونییەکانمان تاقی بکەرەوە! ئەمانە لە قۆناغی پەرەپێداندان و گەشە دەکەن، کە ڕەنگە کاریگەرییان هەبێت لەسەر چۆنیەتی کارکردنی فایەرفۆکس. ئێمە تەنها کاتێک زانیاری وەردەگرین کە <a data-l10n-name="data-collection">زانیارییە تەکنیکییەکان و کارلێککردن</a> چالاک کرابێت.
+pane-experimental-description4 = تایبەتمەندییە ئەزموونییەکانمان تاقی بکەرەوە! ئەمانە لە قۆناغی پەرەپێداندان و گەشە دەکەن، کە ڕەنگە کاریگەرییان هەبێت لەسەر چۆنیەتی کارکردنی Firefox. ئێمە تەنها کاتێک زانیاری وەردەگرین کە <a data-l10n-name="data-collection">زانیارییە تەکنیکییەکان و کارلێککردن</a> چالاک کرابێت.
 pane-experimental-description3 = Give our experimental features a try! They’re in development and evolving, which could impact how { -brand-short-name } works.
 pane-experimental-reset = .label = گەڕانەوە بۆ بنەڕەتی\n    .accesskey = گ
     .label = بنەرەتی بهێنەوە
@@ -1318,7 +1318,7 @@ sync-engine-payment-methods2 =
     .tooltiptext = Names, card numbers, and expiry dates
     .accesskey = n
 sync-engine-addons = .label = Add-ons
-    .tooltiptext = Extensions and themes for فایەرفۆکس desktop
+    .tooltiptext = Extensions and themes for Firefox desktop
     .accesskey = A
     .label = پێوەکراوەکان
     .tooltiptext = Extensions and themes for Firefox desktop
@@ -1826,7 +1826,7 @@ addressbar-locbar-suggest-sponsored-desc = Support { -brand-short-name } with oc
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since the online suggest is created and maintained
 # by Mozilla.
-addressbar-firefox-suggest-online = .label = پێشنیارەکان لە مۆزیلاوە وەربگرە کاتێک دەنووسیت
+addressbar-firefox-suggest-online = .label = پێشنیارەکان لە Mozillaوە وەربگرە کاتێک دەنووسیت
     .label = Retrieve suggestions from Mozilla as you type
 addressbar-dismissed-suggestions-label-2 =
     .label = Dismissed suggestions

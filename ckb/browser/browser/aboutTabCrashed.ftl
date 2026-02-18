@@ -16,7 +16,7 @@ crashed-request-report-title = ئەم بازدەرە ڕاپۆرت بکە
 crashed-send-report-2 = ڕاپۆرتێکی تێکچوونی خۆکار بنێرە بۆ ئەوەی بتوانین کێشەکانی وەک ئەمە چارەسەر بکەین.
 crashed-comment = .placeholder = سەرنجە ئارەزوومەندانەکان (سەرنجەکان بە گشتی دەبینرێن)
     .placeholder = Optional comments (comments are publicly visible)
-crashed-include-URL-2 = ناونیشانەکانی URLـی ئەو ماڵپەڕانە بگرەوە کە لەسەری بوویت کاتێک فایەرفۆکس تێکچوو
-crashed-report-sent = ڕاپۆرتی تێکچوون پێشتر نێردراوە؛ سوپاس بۆ یارمەتیت لە باشترکردنی فایەرفۆکس!
+crashed-include-URL-2 = ناونیشانەکانی URLـی ئەو ماڵپەڕانە بگرەوە کە لەسەری بوویت کاتێک Firefox تێکچوو
+crashed-report-sent = ڕاپۆرتی تێکچوون پێشتر نێردراوە؛ سوپاس بۆ یارمەتیت لە باشترکردنی Firefox!
 crashed-request-auto-submit-title = ڕاپۆرتکردنی تابەکانی پاشبنەما
-crashed-auto-submit-checkbox-2 = ڕێکخستنەکان نوێ بکەرەوە بۆ ناردنی خۆکارانەی ڕاپۆرتەکان کاتێک فایەرفۆکس تێکدەچێت
+crashed-auto-submit-checkbox-2 = ڕێکخستنەکان نوێ بکەرەوە بۆ ناردنی خۆکارانەی ڕاپۆرتەکان کاتێک Firefox تێکدەچێت

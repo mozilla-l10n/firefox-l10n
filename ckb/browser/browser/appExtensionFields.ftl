@@ -12,7 +12,7 @@ extension-firefox-compact-light-name = ڕوون
 extension-firefox-compact-light-description = ڕووکار لەگەڵ ڕەنگێکی ڕووناک.
 extension-firefox-compact-dark-name = تاریک
 extension-firefox-compact-dark-description = ڕووکار لەگەڵ ڕەنگێکی تاریک.
-extension-firefox-alpenglow-name = فایەرفۆکس Alpenglow
+extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Use a colorful appearance for buttons, menus, and windows.
 
 ## Colorway Themes

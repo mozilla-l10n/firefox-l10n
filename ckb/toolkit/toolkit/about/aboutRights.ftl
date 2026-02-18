@@ -8,10 +8,10 @@ rights-intro =
     of thousands from all over the world. There are a few things you should
     know:
 rights-intro-point-1 = { -brand-short-name } is made available to you under the terms of the
-    <a data-l10n-name="mozilla-public-license-link">مۆزیلا Public License</a>.
+    <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>.
     This means you may use, copy and distribute { -brand-short-name } to
     others. You are also welcome to modify the source code of
-    { -brand-short-name } as you want to meet your needs. The مۆزیلا Public
+    { -brand-short-name } as you want to meet your needs. The Mozilla Public
     License also gives you the right to distribute your modified versions.
     { -brand-short-name } is made available to you under the terms of the
     <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>.
@@ -20,8 +20,8 @@ rights-intro-point-1 = { -brand-short-name } is made available to you under the 
     { -brand-short-name } as you want to meet your needs. The Mozilla Public
     License also gives you the right to distribute your modified versions.
 rights-intro-point-2 = You are not granted any trademark rights or licenses to the trademarks of
-    the مۆزیلا Foundation or any party, including without limitation the
-    فایەرفۆکس name or logo. Additional information on trademarks may be found
+    the Mozilla Foundation or any party, including without limitation the
+    Firefox name or logo. Additional information on trademarks may be found
     <a data-l10n-name="mozilla-trademarks-link">here</a>.
     You are not granted any trademark rights or licenses to the trademarks of
     the Mozilla Foundation or any party, including without limitation the
