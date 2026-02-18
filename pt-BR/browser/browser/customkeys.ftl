@@ -15,6 +15,7 @@ customkeys-conflict-confirm = Esta tecla já está atribuída a { $conflict }. Q
 customkeys-reset-all-confirm = Tem certeza que quer restaurar todos os atalhos de teclado para o padrão?
 customkeys-history-reopen-tab = Reabrir última aba fechada
 customkeys-history-reopen-window = Reabrir última janela fechada
+customkeys-sidebar-toggle = Exibir/ocultar painel lateral
 customkeys-dev-tools = Ferramentas de desenvolvimento web
 customkeys-dev-inspector = Inspetor de DOM e estilos
 customkeys-dev-webconsole = Console web
