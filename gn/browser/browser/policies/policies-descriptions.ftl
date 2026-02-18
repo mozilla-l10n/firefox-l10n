@@ -56,6 +56,7 @@ policy-DisablePocket2 = Eipe’a ñanduti renda ñeñongatu rembiapoite { -pocke
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.
+policy-DisableRemoteImprovements = Ejoko { -brand-short-name } ani hag̃ua omoambue jeku’eporã, tekopyta ha tembiapoite ñembohekopyahu apytépe.
 policy-DisableSafeMode = Eipe’a tembiapoite emoñepyrũ hag̃ua tekorosã rekópe. Kuaarã: haiha taiguasúva eike hag̃ua tekorosã rekópe ikatu eipe’a Windows rupive añoite eiporúvo aty porureko.
 policy-DisableSecurityBypass = Ani eheja poruhárape ohejareívo tekorosã rehegua.
 policy-DisableSetAsDesktopBackground = Eipe’a pe poravorã mbohekopyréva mba’erechaha ruguarã ta’ãngápe g̃uarãva.
