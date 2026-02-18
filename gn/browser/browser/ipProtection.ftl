@@ -100,6 +100,12 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe
 ipprotection-bandwidth-upgrade-title = ¿Ehayhúpa VPN jehe’apyre? Ereko ñemo’ãve okápe { -brand-product-name }-gui { -mozilla-vpn-brand-name } ndive.
 ipprotection-bandwidth-upgrade-text = Eiporavo peteĩ VPN rendaite ha emo’ã opaite tembiporu’i 5 mba’e’oka peve, taha’e ógape térã Wi-Fi ojeporukuaávape.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Og̃uahẽmahína ne VPN hu’ãme.</strong> Reguereko { $usageLeft } GB hembýva. Mba’ekuaarãita oĩporãjeýta jasy pyahu og̃uahẽtavape.
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -129,6 +135,9 @@ ip-protection-autostart-checkbox =
     .label = Embojuruja vove { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Ovetã ñemiguávape
+ip-protection-vpn-upgrade-link =
+    .label = Eguerekovéta ñemo’ã okápee { -brand-short-name }-gui { -mozilla-vpn-brand-name } ndive.
+    .description = Eiporavo VPN rendaite mboavapyre ha embojuaju ñemo’ãve tembiporu’ieta po mba’e’oka peve, eimérõ nde rógape térã Wi-Fi ojeporukuaávape.
 
 ## IP Protection dialogs
 
