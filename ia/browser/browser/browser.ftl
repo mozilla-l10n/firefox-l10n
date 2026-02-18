@@ -1176,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nove fenestra private
     .tooltiptext = Aperir un nove fenestra de navigation private ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Condividi
+    .tooltiptext = Condivider iste pagina
 
 ## EME notification panel
 

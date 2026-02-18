@@ -23,6 +23,7 @@ inactive-css-column-span = <strong>{ $property }</strong> non ha alcun effecto d
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex ni de grillia.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> non ha alcun effecto sur iste elemento pois que illo non es un elemento grillia o flex, ni un elemento absolutemente positionate.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> non ha alcun effecto sur iste elemento pois que illo non es un elemento grillia ni un elemento absolutemente positionate.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> non ha alcun effecto sur iste elemento pois que il non es un elemento absolutemente positionate.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de grillia.
 inactive-css-not-grid-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un contentor de grillia.
 inactive-css-not-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex.
