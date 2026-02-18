@@ -15,13 +15,13 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--facebook-container-brand-name = لەخۆگری فەیسبووک
+-facebook-container-brand-name = Facebook Container
 -lockwise-brand-name = Firefox Lockwise
--lockwise-brand-short-name = لوکوایز
+-lockwise-brand-short-name = Lockwise
 -monitor-brand-name = Firefox Monitor
--monitor-brand-short-name = چاودێری
+-monitor-brand-short-name = Monitor
 -mozmonitor-brand-name = Mozilla Monitor
--pocket-brand-name = گیرفان
+-pocket-brand-name = Pocket
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
 -mozilla-vpn-brand-name = Mozilla VPN
@@ -32,21 +32,21 @@
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
 -solo-ai-brand-name = Solo
--mdn-brand-name = MDN وێب Docs
+-mdn-brand-name = MDN Web Docs
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
--fakespot-brand-full-name = Fakespot by مۆزیلا
+-fakespot-brand-full-name = Fakespot by Mozilla
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-suggest-brand-name = فایەرفۆکس Suggest
+-firefox-suggest-brand-name = Firefox Suggest
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefox-home-brand-name = فایەرفۆکس Home
+-firefox-home-brand-name = Firefox Home
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxview-brand-name = فایەرفۆکس View
+-firefoxview-brand-name = Firefox View
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
