@@ -7,14 +7,5 @@
 # (when we will only list the first 20, plus an "and X more" line).
 # Variables:
 #   $fileCount (Number): The number of remaining files.
-input-file-and-more-files =
-    { $fileCount ->
-        [one] and one more
-       *[other] and { $fileCount } more
-    }
 form-post-secure-to-insecure-warning-title = ئاگاداری پارێزگاری
-form-post-secure-to-insecure-warning-message =
-    The information you have entered on this page will be sent over an insecure connection and could be read by a third party.
-    
-    Are you sure you want to send this information?
 form-post-secure-to-insecure-warning-continue = بەردەوام بە

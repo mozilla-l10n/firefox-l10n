@@ -7,10 +7,6 @@
 ## browser.taskbarTabs.enabled = true and the user
 ## navigates to a website.
 
-taskbar-tab-urlbar-button-open =
-    .tooltiptext = Add tab to taskbar
-taskbar-tab-urlbar-button-close =
-    .tooltiptext = Remove tab from taskbar
 taskbar-tab-urlbar-button-show = Show وێب App page action
 taskbar-tab-urlbar-button-hide = Hide وێب App page action
 # This string is used in the description of a Windows Start Menu
@@ -43,8 +39,3 @@ taskbar-tab-audio-unmute = .tooltiptext = Unmute تاب
 ##  $container (String): The name of the user's container (e.g. 'Work',
 ##  'Personal').
 ##  $profile (String): The name of the user's current profile.
-
-taskbar-tab-title-default = { $name } in { -brand-full-name }
-taskbar-tab-title-container = { $name } ({ $container }) in { -brand-full-name }
-taskbar-tab-title-profile = { $name } in { $profile } — { -brand-full-name }
-taskbar-tab-title-container-profile = { $name } ({ $container }) in { $profile } — { -brand-full-name }

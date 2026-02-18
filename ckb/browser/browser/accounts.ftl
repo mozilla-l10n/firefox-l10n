@@ -7,7 +7,6 @@
 account-finish-account-setup = پێکهێنانی هەژمارەکە تەواو بکە
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected2 = Account disconnected
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = بینێرە بۆ هەموو ئامێرەکان
 # Menu item that links to the Firefox Accounts settings for connected devices.
@@ -44,7 +43,6 @@ account-send-tab-to-device-verify = هەژمارەکەت بسەلمێنە...
 
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = هەژمار
@@ -70,7 +68,6 @@ account-single-tab-arriving-from-device-title = بازدەر لە لایەن { $
 # Should display the URL with an indication that it's been truncated.
 # Variables:
 #   $url (String): the portion of the URL that remains after truncation.
-account-single-tab-arriving-truncated-url = { $url }…
 
 ## These strings are used in a notification shown when we're opening
 ## multiple tabs another device or devices sent us to display.
@@ -85,11 +82,6 @@ account-multiple-tabs-arriving-from-single-device = { $tabCount } گەیشت ل�
         [one] { $tabCount } tab has arrived from { $deviceName }
        *[other] { $tabCount } tabs have arrived from { $deviceName }
     }
-account-multiple-tabs-arriving-from-multiple-devices =
-    { $tabCount ->
-        [one] { $tabCount } tab has arrived from your connected devices
-       *[other] { $tabCount } tabs have arrived from your connected devices
-    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = { $tabCount } بازدەر گەیشت
     { $tabCount ->
@@ -101,10 +93,3 @@ account-multiple-tabs-arriving-from-unknown-device = { $tabCount } بازدەر 
 ## tabs from other devices
 ## Variables:
 ##   $closedCount (Number): the number of tabs closed
-
-account-view-recently-closed-tabs = View recently closed tabs
-account-tabs-closed-remotely =
-    { $closedCount ->
-        [one] { $closedCount } { -brand-short-name } tab closed
-       *[other] { $closedCount } { -brand-short-name } tabs closed
-    }

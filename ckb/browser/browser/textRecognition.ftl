@@ -6,9 +6,6 @@
 ## Text recognition works through a modal that presents the text that is found
 ## in an image, and copies the results to the clipboard.
 
-text-recognition-modal-searching-title = Searching image for text…
 text-recognition-modal-results-title = دەق copied from image
-text-recognition-modal-no-results-title = Sorry, we couldn’t extract any text. Try a different image. <a data-l10n-name="error-link">Learn more</a>.
 text-recognition-modal-close-button = داخستن
 # The title of the the modal is only available to screen readers.
-text-recognition-modal-accessible-modal-title = Results for text extraction

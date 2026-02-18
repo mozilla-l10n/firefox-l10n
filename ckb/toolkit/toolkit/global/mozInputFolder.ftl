@@ -3,13 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 choose-folder-button = بگەڕێ...
-    .label =
-        { PLATFORM() ->
-            [macos] Choose…
-           *[other] Browse…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }

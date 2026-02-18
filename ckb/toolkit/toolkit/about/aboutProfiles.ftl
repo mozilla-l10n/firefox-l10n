@@ -10,7 +10,6 @@ profiles-restart-in-safe-mode = دووبارە پێکردنەوە بە پێوە�
 profiles-restart-normal = دووبارە پێکردنەوە بە ئاسایی...
 profiles-conflict = لەبەرگیراوێکی نوێ ی { -brand-product-name } گۆڕانکاری لە پەڕە کەسیەکەتدا کرد. دەبێت { -brand-short-name } دووبارە پێبکەیتەوە پێش ئەنجامدانی گۆڕانکاری دیکە.
 profiles-flush-fail-title = گۆڕانکارییەکان پاشەکەوت نەکراون
-profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = هەڵەیەکی چاوەڕواننەکراو ڕێگربوو لە بەردەم پاشەکەوتکردنی گۆڕانکارییەکانت.
 profiles-flush-restart-button = دووبارە پێکردنەوەی { -brand-short-name }
 # Variables:
@@ -27,7 +26,6 @@ profiles-rootdir = Root ڕێڕەو
 profiles-localdir = Local ڕێڕەو
 profiles-current-profile = ئەمە پەڕە کەسیە چالاکەکەیە، ناتوانرێت بسڕدرێتەوە.
 profiles-in-use-profile = ئەم پەڕەیە لە نەرمەکاڵایەکی دیکەدا بەکاردەبرێت، ناتوانرێت بسڕدرێتەوە.
-profiles-cannot-delete-profile = Can’t delete a profile that is linked to other profiles.
 profiles-rename = دووبارە ناونانەوە
 profiles-remove = بیسڕەوە
 profiles-set-as-default = بیکە بە پەڕەی کەسی سەرەکی
@@ -50,9 +48,6 @@ profiles-delete-profile-title = سرینەوەی پەڕەی کەسی
 profiles-delete-profile-confirm = سڕینەوەی پەڕەیەکی کەسی وادەکات لە لیستی پەڕە کەسیە بەردەستەکانیشدا بسڕدرێتەوە.
 ڕەنگیشە بتەوێت بژاردەی سڕینەوەی زانیاری پەڕە کەسیەکە هەڵبژێریت ، کە ڕێکخستن و بڕوانامە و زانیاریە پەیوەندیدارەکان بە کارەوە دەسڕێتەوە. ئەم بژاردەیە بوخچەی "{ $dir }" دەسڕێتەوە کە ناتوانرێت بهێنرێتەوە.
 دەتەوێت بوخچەی زانیاری پەڕە کەسیەکەت بسڕیتەوە؟
-    Deleting a profile will remove the profile from the list of available profiles and cannot be undone.
-    You may also choose to delete the profile data files, including your settings, certificates and other user-related data. This option will delete the folder “{ $dir }” and cannot be undone.
-    Would you like to delete the profile data files?
 profiles-delete-files = پەڕگەکان بسڕەوە
 profiles-dont-delete-files = پەڕگەکان مەسڕەوە
 profiles-delete-profile-failed-title = هەڵە

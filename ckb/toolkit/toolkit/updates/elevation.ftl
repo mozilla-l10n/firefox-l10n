@@ -14,20 +14,8 @@ elevation-error-manual = دەتوانیت { -brand-short-name } بەدەستی �
 elevation-finished-page = نوێکاری ئامادەیە بۆ دامەزراندن
 elevation-finished-background-page = نوێکاری پاراستن و جێگیری بۆ { -brand-short-name } داگیرا
 ئێستا ئامادەیە بۆ دامەزراندن.
-    A security and stability update for { -brand-short-name } has been
-    downloaded and is ready to be installed.
 elevation-finished-background = نوێکردنەوە:
 elevation-more-elevated = ئەم نوێکارییە پێویستی بە دەسەڵاتی بەڕێوەبەرە. نوێکاری
 دادەمەزرێت جاری داهاتوو کە { -brand-short-name } دەکرێتەوە. دەتوانیت 
 { -brand-short-name } ئێستا پیبکەیتەوە، بەردەوام بی لە کارەکەت و دووای پێبکەیتەوە، یان ئەمە
 ڕەت بکەیتەوە کە نوێیبکەیتەوە.
-    This update requires administrator privileges. The update will be
-    installed the next time { -brand-short-name } starts. You can restart
-    { -brand-short-name } now, continue working and restart later, or decline this
-    update.
-sandbox-missing-unprivileged-namespaces = Some of { -brand-short-name }’s security features may offer less protection on your current operating system.
-sandbox-unprivileged-namespaces-dismiss-button =
-    .label = Don’t show again
-    .accesskey = D
-sandbox-unprivileged-namespaces-howtofix = How to fix this issue
-sandbox-content-disabled-warning = The security sandbox is disabled. Your configuration is unsupported and less secure.

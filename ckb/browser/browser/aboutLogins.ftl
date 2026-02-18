@@ -8,10 +8,8 @@ about-logins-login-filter = .placeholder = گەڕان لە چوونەژوورە�
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
     .key = پ
 create-new-login-button = .title = دروستکردنی چوونەژوورەوەی نوێ
-    .title = Create new login
 about-logins-page-title-name = تێپەڕەوشەکان
 about-logins-login-filter2 = .placeholder = گەڕان لە تێپەڕەوشەکان\n    .key = گ
-    .placeholder = Search Passwords
     .key = پ
 create-login-button = .title = زیادکردنی تێپەڕەوشە
     .title = زیادکردنی تێپەڕەوشە
@@ -52,26 +50,11 @@ login-list-count = { $count } چوونەژوورەوەکان
 # Variables
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } of { $total } login
-       *[other] { $count } of { $total } logins
-    }
 # Variables
 #   $count (number) - Number of logins
-login-list-count2 =
-    { $count ->
-        [one] { $count } password
-       *[other] { $count } passwords
-    }
 # Variables
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
-login-list-filtered-count2 =
-    { $total ->
-        [one] { $count } of { $total } password
-       *[other] { $count } of { $total } passwords
-    }
 login-list-sort-label-text = ڕێکی بەپێی:
 login-list-name-option = ناو(A-Z)
 login-list-name-reverse-option = ناو (Z-A)
@@ -108,13 +91,11 @@ about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک �
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
 login-intro-instructions-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
 about-logins-login-intro-heading-message = تێپەڕەوشەکانت لە شوێنێکی پارێزراودا پاشەکەوت بکە
-login-intro-description2 = All passwords you save to { -brand-product-name } are encrypted. Plus, we watch out for breaches and alert you if you’re affected. <a data-l10n-name="breach-alert-link">Learn more</a>
 login-intro-instructions-fxa2 = هەژمارێک دروست بکە یان بڕۆ ناو هەژمارەکەت لەسەر ئەو ئامێرەی کە چوونەژوورەوەکانتی لێ پاشەکەوت کراوە.
 login-intro-instructions-fxa-settings = بڕۆ بۆ ڕێکخستنەکان > هاوکاتکردن > هاوکاتکردن داگیرسێنە > چوارگۆشەکەی چوونەژوورەوە و تێپەڕەوشەکان هەڵبژێرە
 login-intro-instructions-fxa-passwords-help = سەردانی <a data-l10n-name="passwords-help-link"> بکە هاوکاریی تێپەڕەوشەکان </a> بکە بۆ یارمەتیی زیاتر.
 about-logins-intro-browser-only-import = ئەگەر چوونەژوورەوەکانت لە وێبگەڕێکی تردا پاشەکەوت کرابن، ئەوا دەتوانیت <a data-l10n-name="import-link"> هاوردەیان بکەیت بۆ { -brand-product-name }</a>
 about-logins-intro-import2 = ئەگەر چوونەژوورەوەکانت لە دەرەوەی { -brand-product-name }ـە، ئەتوانی <a data-l10n-name="import-browser-link">بیانهێنیت لە وێبگەڕێکی ترەوە</a> یان <a data-l10n-name="import-file-link"> لە پەڕگەیەکەوە</a>
-about-logins-intro-import3 = Select the plus sign button above to add a password now. You can also <a data-l10n-name="import-browser-link">import passwords from another browser</a> or <a data-l10n-name="import-file-link">from a file</a>.
 
 ## Login
 
@@ -130,8 +111,6 @@ about-logins-origin-tooltip2 = ناونیشانە تەواوەکە بنووسە 
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = دڵنیابەرەوە لە پاشەکەوتکردنی تێپەڕەوشەی ئێستات بۆ ئەم ماڵپەڕە. گۆڕینی تێپەڕەوشەکە لێرە نابێتە هۆی گۆڕینی لە { $webTitle }.
 about-logins-add-password-tooltip = دڵنیابەرەوە لە پاشەکەوتکردنی تێپەڕەوشەی ئێستات بۆ ئەم ماڵپەڕە.
-login-item-origin =
-    .placeholder = https://www.example.com
 login-item-username-label = ناوی بەکارهێنەر
 about-logins-login-item-username = (بێ نازناو)
     .placeholder = (بێ نازناو)
@@ -155,14 +134,12 @@ login-item-cancel-button = پاشگەزبوونەوە
 
 # Variables
 #   $datetime (date) - Event date
-login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = دروستکراوە
 login-item-timeline-action-updated = نوێکراوەتەوە
 login-item-timeline-action-used = بەکارهاتووە
 
 ## OS Authentication dialog
 
-about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -175,11 +152,6 @@ about-logins-edit-login-os-auth-dialog-message-win = بۆ دەستکاریکرد
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
-about-logins-os-auth-dialog-message =
-    { PLATFORM() ->
-        [macos] change the settings for passwords
-       *[other] { -brand-short-name } is trying to change the settings for passwords. Use your device sign in to allow this.
-    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = بۆ دەستکاریکردنی تێپەڕەوشەکەت، زانیارییەکانی چوونەژوورەوەی ویندۆزەکەت بنووسە. ئەمە یارمەتیدەرە بۆ پاراستنی ئاسایشی هەژمارەکانت.
 # This message can be seen when attempting to edit a login in about:logins
@@ -211,7 +183,6 @@ about-logins-export-password-os-auth-dialog-message2-macosx = ناردنی دە�
 about-logins-primary-password-notification-message = تکایە وشەنهێنی سەرەکی بنوسە بۆ بینینی وشەی بەکارهێنەر و نهێنیە پاشەکەوتکراوەکانت
 master-password-reload-button = بچۆژوورەوە
     .label = بچۆژوورەوە
-    .accesskey = L
 
 ## Dialogs
 
@@ -279,8 +250,8 @@ about-logins-confirm-remove-all-dialog-title2 = { $count ->
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 = { $count ->
-        [1] ئەمە ئەو تێپەڕەوشەیەی پاشەکەوتکراوە لە Firefox و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-       *[other] ئەمە ئەو تێپەڕەوشانەی پاشەکەوتکراون لە Firefox و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+        [1] ئەمە ئەو تێپەڕەوشەیەی پاشەکەوتکراوە لە فایەرفۆکس و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+       *[other] ئەمە ئەو تێپەڕەوشانەی پاشەکەوتکراون لە فایەرفۆکس و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
     }
     { $count ->
         [1] This will remove the password saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
@@ -297,8 +268,8 @@ about-logins-confirm-remove-all-sync-dialog-title2 = { $count ->
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 = { $count ->
-        [1] ئەمە ئەو تێپەڕەوشەیەی لە Firefox پاشەکەوتکراوە لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-       *[other] ئەمە هەموو ئەو تێپەڕەوشانەی لە Firefox پاشەکەوتکراون لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+        [1] ئەمە ئەو تێپەڕەوشەیەی لە فایەرفۆکس پاشەکەوتکراوە لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
+       *[other] ئەمە هەموو ئەو تێپەڕەوشانەی لە فایەرفۆکس پاشەکەوتکراون لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
     }
     { $count ->
         [1] This will remove the password saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
@@ -355,12 +326,10 @@ about-logins-error-message-default = هەڵەیەک ڕوویدا لە کاتی �
 about-logins-export-file-picker-title = پەڕگەی چوونەژوورەوەکان هەناردەبکە
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
 # Title of the file picker dialog
-about-logins-export-file-picker-title2 = ناردنی دەرەکیی تێپەڕەوشەکان لە Firefox
+about-logins-export-file-picker-title2 = ناردنی دەرەکیی تێپەڕەوشەکان لە فایەرفۆکس
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
-about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = هەناردەکردن
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -375,7 +344,7 @@ about-logins-export-file-picker-csv-filter-title = پەڕگەی CSV
 # Title of the file picker dialog
 about-logins-import-file-picker-title = هێنانی پەڕگەی چوونەژوور
 # Title of the file picker dialog
-about-logins-import-file-picker-title2 = هێنانەناوەوەی تێپەڕەوشەکان بۆ Firefox
+about-logins-import-file-picker-title2 = هێنانەناوەوەی تێپەڕەوشەکان بۆ فایەرفۆکس
 about-logins-import-file-picker-import-button = هێنان
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -386,45 +355,12 @@ about-logins-import-file-picker-csv-filter-title = پەڕگەی CSV
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
-about-logins-import-file-picker-tsv-filter-title =
-    { PLATFORM() ->
-        [macos] TSV Document
-       *[other] TSV File
-    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = هێنانەناوەوە تەواوبوو
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>New logins added:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>Existing logins updated:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Duplicate logins found:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
-    }
-about-logins-import-dialog-items-added2 =
-    { $count ->
-       *[other] <span>New passwords added:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified2 =
-    { $count ->
-       *[other] <span>Existing entries updated:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change2 =
-    { $count ->
-       *[other] <span>Duplicate entries found:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
-    }
-about-logins-import-dialog-items-error =
-    { $count ->
-       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
-    }
 about-logins-import-dialog-done = تەواو
 about-logins-import-dialog-error-title = هەڵەی هێنانەناوەوە
 about-logins-import-dialog-error-conflicting-values-title = چەندین نرخی دژبەیەک بۆ یەک چوونەژوورەوە
@@ -432,7 +368,7 @@ about-logins-import-dialog-error-conflicting-values-description = بۆ نموو�
 about-logins-import-dialog-error-file-format-title = کێشەی فۆرماتی پەڕگە
 about-logins-import-dialog-error-file-format-description = سەرپەڕەی ستوونەکان هەڵەیە یان نییە. دڵنیابەرەوە کە پەڕگەکە ستوونەکانی ناوی بەکارهێنەر، تێپەڕەوشە و URLـی تێدایە.
 about-logins-import-dialog-error-file-permission-title = ناتوانرێت پەڕگەکە بخوێنرێتەوە
-about-logins-import-dialog-error-file-permission-description = Firefox مۆڵەتی خوێندنەوەی ئەم پەڕگەیەی نییە. هەوڵ بدە مۆڵەتەکانی پەڕگەکە بگۆڕیت.
+about-logins-import-dialog-error-file-permission-description = فایەرفۆکس مۆڵەتی خوێندنەوەی ئەم پەڕگەیەی نییە. هەوڵ بدە مۆڵەتەکانی پەڕگەکە بگۆڕیت.
 about-logins-import-dialog-error-unable-to-read-title = ناتوانرێت لێکدانەوە بۆ پەڕگەکە بکرێت
 about-logins-import-dialog-error-unable-to-read-description = دڵنیابەرەوە کە پەڕگەیەکی CSV یان TSVـت هەڵبژاردووە.
 about-logins-import-dialog-error-no-logins-imported = هیچ چوونەژوورێک نەهێنراوەتە ناوەوە
@@ -440,8 +376,8 @@ about-logins-import-dialog-error-learn-more = زیاتر بزانە
 about-logins-import-dialog-error-try-import-again = دووبارە هەوڵ بدەرەوە بۆ هێنانەناوەوە...
 about-logins-import-dialog-error-cancel = پاشگەزبوونەوە
 about-logins-import-report-title = پوختەی هێنانەناوەوە
-about-logins-import-report-description = چوونەژوورەوەکان و تێپەڕەوشەکان بۆ Firefox هێنرانە ناوەوە.
-about-logins-import-report-description2 = تێپەڕەوشەکان بۆ Firefox هێنرانە ناوەوە.
+about-logins-import-report-description = چوونەژوورەوەکان و تێپەڕەوشەکان بۆ فایەرفۆکس هێنرانە ناوەوە.
+about-logins-import-report-description2 = تێپەڕەوشەکان بۆ فایەرفۆکس هێنرانە ناوەوە.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -465,34 +401,6 @@ about-logins-import-report-row-description-error-missing-field = هەڵە: { $fi
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">New logins added</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Existing logins updated</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicate logins</div> <div data-l10n-name="not-imported">(not imported)</div>
-    }
-about-logins-import-report-added2 =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">New passwords added</div>
-    }
-about-logins-import-report-modified2 =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Existing entries updated</div>
-    }
-about-logins-import-report-no-change2 =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicate entries</div> <div data-l10n-name="not-imported">(not imported)</div>
-    }
-about-logins-import-report-error =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errors</div> <div data-l10n-name="not-imported">(not imported)</div>
-    }
 
 ## Logins import report page
 

@@ -4,7 +4,6 @@
 
 about-policies-title = سیاسەتی ئابوری
 aboutpolicies-page-heading = .heading = دەربارەی سیاسەتەکان
-    .heading = About Policies
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = چالاکە
 errors-tab = هەڵە

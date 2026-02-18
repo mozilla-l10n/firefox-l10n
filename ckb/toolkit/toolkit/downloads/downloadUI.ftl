@@ -45,4 +45,3 @@ download-ui-cancel-downloads-ok = { $downloadsCount } داگرتن هەڵبوە�
 download-ui-file-executable-security-warning-title = پەڕگەی جێبەجێکراو دەکەیتەوە؟
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = “{ $executable }” is an executable file. Executable files may contain viruses or other malicious code that could harm your computer. Use caution when opening this file. Are you sure you want to launch “{ $executable }”?

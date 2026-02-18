@@ -2,13 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-contextual-manager-filter-input =
-    .placeholder = Search passwords
     .key = پ
-    .aria-label = Search passwords
-contextual-manager-menu-more-options-button =
-    .title = More options
-contextual-manager-more-options-popup =
     .aria-label = کرداری زیاتر
 
 ## Passwords
@@ -16,12 +10,9 @@ contextual-manager-more-options-popup =
 contextual-manager-passwords-command-create = زیادکردنی تێپەڕەوشە
 contextual-manager-passwords-command-import-from-browser = هێنان لە وێبگەڕی ترەوە...
 contextual-manager-passwords-command-import = هێنان لە پەڕگەوە...
-contextual-manager-passwords-command-export = Export passwords
-contextual-manager-passwords-command-remove-all = Remove all passwords
 contextual-manager-passwords-command-options = هەڵبژاردنەکان
 contextual-manager-passwords-command-settings = ڕێکخستنەکان
 contextual-manager-passwords-command-help = یارمەتی
-contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = To export your passwords, enter your پەنجەرەs login credentials. This helps protect the security of your accounts.
 # This message can be seen when attempting to export a password in about:logins
@@ -55,38 +46,23 @@ contextual-manager-passwords-import-file-picker-csv-filter-title = پەڕگەی 
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
-contextual-manager-passwords-import-file-picker-tsv-filter-title =
-    { PLATFORM() ->
-        [macos] TSV Document
-       *[other] TSV File
-    }
 contextual-manager-passwords-import-success-heading = .heading = تێپەڕەوشەکان imported
-    .heading = Passwords imported
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = New: { $added }, Updated: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
 #   $no_change (number) - Number of duplicate passwords
 #   $error (number) - Number of invalid passwords
-contextual-manager-passwords-import-success-message-2 = New: { $added }, Updated: { $modified }, Duplicates: { $no_change }, Errors: { $error }
 contextual-manager-passwords-import-detailed-report = نیشاندان detailed report
 contextual-manager-passwords-import-success-button = تەواو
-contextual-manager-passwords-import-error-heading-and-message =
-    .heading = Couldn’t import passwords
-    .message = Make sure your file includes a column for websites, usernames, and passwords.
 contextual-manager-passwords-import-error-button-try-again = دووبارە هەوڵ بدەرەوە
 contextual-manager-passwords-import-error-button-cancel = پاشگەزبوونەوە
-contextual-manager-passwords-import-learn-more = Learn about importing passwords
 contextual-manager-passwords-export-success-heading = .heading = تێپەڕەوشەکان exported
-    .heading = Passwords exported
 contextual-manager-passwords-export-success-button = تەواو
 # Export passwords to file dialog
-contextual-manager-export-passwords-dialog-title = Export passwords to file?
 # This string recommends to the user that they delete the exported password file that is saved on their local machine.
-contextual-manager-export-passwords-dialog-message = After you export, we recommend deleting it so others who may use this device can’t see your passwords.
 contextual-manager-export-passwords-dialog-confirm-button = بەردەوامبە لە ناردنی دەرەکی
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Export تێپەڕەوشەکان from { -brand-short-name }
@@ -103,64 +79,28 @@ contextual-manager-passwords-export-file-picker-csv-filter-title = پەڕگەی 
     }
 # Confirm the removal of all saved passwords
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-title =
-    { $total ->
-        [1] Remove password?
-       *[other] Remove all { $total } passwords?
-    }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-confirm =
-    { $total ->
-        [1] Yes, remove password
-       *[other] Yes, remove passwords
-    }
 # Button label to confirm removal of saved passwords
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-confirm-button =
-    { $total ->
-        [1] Remove
-       *[other] Remove all
-    }
 # Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-message =
-    { $total ->
-        [1] This will remove your password saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
-       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
-    }
 # Message for modal to confirm the removal of all saved passwords when user HAS SYNC
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-message-sync =
-    { $total ->
-        [1] This will remove the password saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
-       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices and remove any breach alerts. You cannot undo this action.
-    }
 contextual-manager-passwords-origin-label = وێبsite
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = ناوی بەکارهێنەر
-    .data-after = Copied
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = تێپەڕەوشە
-    .data-after = Copied
-    .data-after = Copied
-contextual-manager-passwords-radiogroup-label =
-    .aria-label = Filter passwords
 # Variables
 #   $url (string) - The url associated with the new login
 contextual-manager-passwords-add-password-success-heading = .heading = تێپەڕەوشە added for { $url }
-    .heading = Password added for { $url }
 contextual-manager-passwords-add-password-success-button = نیشاندان
 # Variables
 #   $url (string) - The url associated with the existing login
-contextual-manager-passwords-password-already-exists-error-heading =
-    .heading = A password and username for { $url } already exists
-contextual-manager-passwords-password-already-exists-error-button = Go to password
 contextual-manager-passwords-update-password-success-heading = .heading = تێپەڕەوشە saved
     .heading = تێپەڕەوشە saved
 contextual-manager-passwords-update-password-success-button = تەواو
-contextual-manager-passwords-update-username-success-heading-3 =
-    .heading = Username saved
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading = .heading =
@@ -168,23 +108,15 @@ contextual-manager-passwords-delete-password-success-heading = .heading =
             [1] Password removed
            *[other] تێپەڕەوشەکان removed
         }
-    .heading =
-        { $total ->
-            [1] Password removed
-           *[other] Passwords removed
-        }
 contextual-manager-passwords-delete-password-success-button = تەواو
 #
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-radiobutton-all = All ({ $total })
 # Radiobutton label to display total number of alerts
 #   $total (number) - Total number of alerts
-contextual-manager-passwords-radiobutton-alerts = Alerts ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = تێپەڕەوشەکە بسڕێتەوە؟
 # This message warns the user that deleting a login is permanent.
-contextual-manager-passwords-remove-login-card-message = You can’t undo this.
 # This message gives the user an option to go back to the edit login form.
 contextual-manager-passwords-remove-login-card-back-message = گەڕانەوە
 # This message confirms that the user wants to remove an existing login.
@@ -192,151 +124,70 @@ contextual-manager-passwords-remove-login-card-remove-button = بیسڕەوە
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = پاشگەزبوونەوە
 contextual-manager-passwords-alert-card = .aria-label = تێپەڕەوشە alerts
-    .aria-label = Password alerts
 contextual-manager-passwords-alert-back-button = .label = گەڕانەوە
     .label = دواوە
-contextual-manager-passwords-alert-list =
-    .aria-label = Alert list
-contextual-manager-passwords-breached-origin-heading-and-message = .heading = Password change recommended
     .message = تێپەڕەوشەکان from this website were reported stolen or leaked. Change your password to protect your account.
-    .heading = Password change recommended
-    .message = Passwords from this website were reported stolen or leaked. Change your password to protect your account.
-contextual-manager-passwords-breached-origin-link-message = How does { -brand-product-name } know about breaches?
-contextual-manager-passwords-change-password-button = Change password
 contextual-manager-passwords-vulnerable-password-heading-and-message = .heading = تێپەڕەوشە change recommended
-    .message = This password is easily guessable. Change your password to protect your account.
-    .heading = Password change recommended
-    .message = This password is easily guessable. Change your password to protect your account.
-contextual-manager-passwords-vulnerable-password-link-message = How does { -brand-product-name } know about weak passwords?
-contextual-manager-passwords-no-username-heading-and-message =
-    .heading = Add a username
-    .message = Add one to sign in faster.
-contextual-manager-passwords-add-username-button = Add username
 contextual-manager-passwords-title = تێپەڕەوشەکان
 
 ## Login Form
 
-contextual-manager-passwords-create-label =
     .label = زیادکردنی تێپەڕەوشە
-contextual-manager-passwords-update-label =
-    .label = Update password
-contextual-manager-passwords-edit-label =
     .label = دەستکاریکردنی تێپەڕەوشە
-contextual-manager-passwords-remove-label =
-    .title = Remove password
-contextual-manager-passwords-origin-tooltip = Enter the exact address where you’ll sign in to this site.
-contextual-manager-passwords-username-tooltip = Enter the username, email address, or account number you use to sign in.
-contextual-manager-passwords-password-tooltip-2 = Enter the password to sign in to this account.
-contextual-manager-passwords-password-tooltip = Enter the password used to sign in to this account.
 
 ## Password Card
 
 contextual-manager-passwords-list-label = .aria-label = تێپەڕەوشەکان
     .aria-label = وشەی تێپەڕبوونەکان
 contextual-manager-website-icon = .alt = وێبsite Icon
-    .alt = Website Icon
 contextual-manager-copy-icon = لەبەرگرتنەوە
     .alt = لەبەرگرتنەوە
-contextual-manager-check-icon-username =
-    .alt = Copied
-contextual-manager-check-icon-password =
-    .alt = Copied
 contextual-manager-alert-icon = .alt = ئاگاداری
     .alt = ئاگاداری
 # Variables
 #   $url (string) - The url associated with the login
-contextual-manager-origin-login-line =
-    .aria-label = Visit { $url }
-    .title = Visit { $url }
 # "(Warning)" indicates that a login's origin field has an alert icon.
 # Variables
 #   $url (string) - The url associated with the login
-contextual-manager-origin-login-line-with-alert =
-    .aria-label = Visit { $url } (Warning)
-    .title = Visit { $url } (Warning)
 # Variables
 #   $username (string) - The username associated with the login
-contextual-manager-username-login-line =
-    .aria-label = Copy username { $username }
-    .title = Copy username { $username }
 # "(Warning)" indicates that a login's username field has an alert icon.
 # Variables
 #   $username (string) - The username associated with the login
-contextual-manager-username-login-line-with-alert =
-    .aria-label = Copy username { $username } (Warning)
-    .title = Copy username { $username } (Warning)
-contextual-manager-password-login-line =
     .aria-label = کۆپیکردنی تێپەڕەوشە
     .title = کۆپیکردنی تێپەڕەوشە
 # "(Warning)" indicates that a login's password field has an alert icon.
-contextual-manager-password-login-line-with-alert =
-    .aria-label = Copy password (Warning)
-    .title = Copy password (Warning)
 contextual-manager-edit-login-button = دەستکاریکردن
     .tooltiptext = دەستکاریکردنی تێپەڕەوشە
 contextual-manager-view-alert-heading = .heading = نیشاندان alert
-    .heading = View alert
-contextual-manager-view-alert-button =
-    .tooltiptext = Review alert
 # Variables
 #   $count (number) - The number of active alerts associated with the login
-contextual-manager-view-alert-heading-2 =
-    .heading =
-        { $count ->
-            [1] View alert
-           *[other] View alerts
-        }
 # Variables
 #   $count (number) - The number of active alerts associated with the login
-contextual-manager-view-alert-button-2 =
-    .tooltiptext =
-        { $count ->
-            [1] Review alert
-           *[other] Review alerts
-        }
-contextual-manager-show-password-button =
     .aria-label = وشەی تێپەڕبوون پیشان بدە
     .title = وشەی تێپەڕبوون پیشان بدە
-contextual-manager-hide-password-button =
     .aria-label = شاردنەوەی تێپەڕەوشە
     .title = شاردنەوەی تێپەڕەوشە
 # The message displayed when the search text does not match any of the user's saved logins.
-contextual-manager-passwords-no-passwords-found-header =
     .heading = هیچ تێپەڕەوشەیەک نەدۆزرایەوە
-contextual-manager-passwords-no-passwords-found-message-2 = Try a different term and search again.
-contextual-manager-passwords-no-passwords-found-message = No passwords found. Search a different term and try again.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Save your passwords to a safe spot.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
-contextual-manager-passwords-no-passwords-message = All passwords are encrypted and we’ll watch out for breaches and alerts if you’re affected.
 # This string encourages the user to save their passwords to Firefox again.
-contextual-manager-passwords-no-passwords-get-started-message = Add them here to get started.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
-contextual-manager-passwords-add-manually = Add manually
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header-2 = تێپەڕەوشەکانت لە شوێنێکی پارێزراودا پاشەکەوت بکە
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
-contextual-manager-passwords-discard-changes-heading-and-message =
-    .heading = Close without saving?
-    .message = Your changes won’t be saved.
 contextual-manager-passwords-discard-changes-close-button = داخستن
 contextual-manager-passwords-discard-changes-go-back-button = بڕۆ دواوە
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-remove-all-passwords-checkbox =
-    { $total ->
-        [1] Yes, remove password
-       *[other] Yes, remove passwords
-    }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
-contextual-manager-primary-password-reauth-header = To see your saved passwords, enter your primary password.
 # This string informs the user their primary password is used to authenticate and access their passwords
-contextual-manager-primary-password-reauth-button = Enter primary password
 contextual-manager-primary-password-learn-more-link = زیاتر بزانە

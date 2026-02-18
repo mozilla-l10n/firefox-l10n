@@ -14,17 +14,9 @@ recently-closed-menu-reopen-all-windows = Reopen All پەنجەرەs
 ## and should follow the same capitalization (sentence case for English).
 ## Check appmenu.ftl for reference.
 
-recently-closed-panel-reopen-all-tabs = Reopen all tabs
-recently-closed-panel-reopen-all-windows = Reopen all windows
 
 ##
 
 # Variables:
 #   $tabCount (Number): Number of other tabs
 #   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (and { $tabCount } other tab)
-       *[other] { $winTitle } (and { $tabCount } other tabs)
-    }

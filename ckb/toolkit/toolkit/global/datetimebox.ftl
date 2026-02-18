@@ -8,7 +8,6 @@
 datetime-year-placeholder = ساڵ
 datetime-month-placeholder = مانگ
 datetime-day-placeholder = ڕۆژ
-datetime-time-placeholder = --
 
 ## Field labels for input type=date
 
@@ -38,6 +37,3 @@ datetime-dayperiod = د.ن/پ.ن
 # This label is used by screenreaders and other assistive technology
 # to indicate the purpose of a toggle button inside of the <input type="date">
 # field that opens/closes a date picker calendar dialog
-
-datetime-calendar =
-    .aria-label = Calendar

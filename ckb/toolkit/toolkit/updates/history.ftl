@@ -17,7 +17,6 @@ state-header = هەرێم
 # Variables:
 #   $name (string) - Name of the update
 #   $buildID (string) - Build identifier from the local updates.xml
-update-full-build-name = { $name } ({ $buildID })
 update-details = وردەکاری
 # Variables:
 #   $date (string) - Date the last update was installed

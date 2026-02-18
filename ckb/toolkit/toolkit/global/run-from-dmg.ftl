@@ -9,7 +9,6 @@
 ## user accepts.
 
 prompt-to-install-title = تەواوکردنی دامەزراندنی { -brand-short-name }؟
-prompt-to-install-message = Complete this one-step installation to help keep { -brand-short-name } up to date and prevent data loss. { -brand-short-name } will be added to your Applications folder and Dock.
 prompt-to-install-yes-button = دامەزراندن
 prompt-to-install-no-button = دانەمەزراندن
 
@@ -24,5 +23,4 @@ install-failed-message = { -brand-short-name } نەتوانرا دابمزەنر
 
 prompt-to-launch-existing-app-title = هەمان { -brand-short-name } دەکەیتەوە؟
 prompt-to-launch-existing-app-message = تۆ پێشتر { -brand-short-name } دامەزراندووە. داوانامەی دامەزراو بەکاربێنە بۆ ئەوەی هەمیشە لە نوێترین وەشان بیت و زانیارییەکانت نەفەوتێن.
-prompt-to-launch-existing-app-yes-button = Open existing
 prompt-to-launch-existing-app-no-button = نا سوپاس

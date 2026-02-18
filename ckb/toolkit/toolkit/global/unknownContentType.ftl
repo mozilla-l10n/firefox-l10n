@@ -4,13 +4,7 @@
 
 unknowncontenttype-handleinternally = کردنەوە بە { -brand-short-name }
     .label = کردنەوە بە { -brand-short-name }
-    .accesskey = e
 unknowncontenttype-settingschange = ڕێکخستنەکان دەگۆڕدرێت لە بەشی { -brand-short-name } هەڵبژاردنەکان.
-    .value =
-        { PLATFORM() ->
-            [windows] Settings can be changed in { -brand-short-name }’s Options.
-           *[other] Settings can be changed in { -brand-short-name }’s Preferences.
-        }
 unknowncontenttype-intro = تۆ دیاریت کە بکرێتەوە:
 unknowncontenttype-which-is = بریتییە لە:
 unknowncontenttype-from = لە:
@@ -18,20 +12,9 @@ unknowncontenttype-prompt = دەتەوێت پەڕگە پاشەکەوت بکەی�
 unknowncontenttype-action-question = { -brand-short-name } چیبکات لەگەڵ ئەم جۆە پەڕگەیە؟
 unknowncontenttype-open-with = بیکەرەوە لەڕێگەی
     .label = بیکەرەوە لەڕێگەی
-    .accesskey = O
 unknowncontenttype-other = هیتر...
     .label = هیتر...
 unknowncontenttype-choose-handler = بگەڕێ...
-    .label =
-        { PLATFORM() ->
-            [macos] Choose…
-           *[other] Browse…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] C
-           *[other] B
-        }
 unknowncontenttype-save-file = پەڕگە پاشەکەوت بکە
     .label = پەڕگە پاشەکەوت بکە
     .accesskey = پ

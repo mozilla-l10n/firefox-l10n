@@ -6,24 +6,10 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
-user-context-personal =
-    .label = Personal
-    .accesskey = P
-user-context-work =
-    .label = Work
-    .accesskey = W
-user-context-banking =
-    .label = Banking
     .accesskey = د
-user-context-shopping =
-    .label = Shopping
     .accesskey = پ
 
 ##
 
-user-context-none =
-    .label = No Container
-    .accesskey = N
 user-context-manage-containers = ڕێکخستنی لەخۆگرەکان
     .label = ڕێکخستنی لەخۆگرەکان
-    .accesskey = o

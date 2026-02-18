@@ -4,10 +4,6 @@
 
 blocklist-window2 = لیستی بلۆک
     .title = لیستی بلۆک
-    .style = min-width: 55em
-blocklist-description = Choose the list { -brand-short-name } uses to block online trackers. Lists provided by <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
-blocklist-close-key =
-    .key = w
 blocklist-treehead-list = لیست
     .label = لیست
 blocklist-dialog = گۆڕانکارییەکان هەڵگرە
@@ -20,7 +16,6 @@ blocklist-dialog = گۆڕانکارییەکان هەڵگرە
 # Variables:
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
-blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = ئاستی 1 لیستی بلۆک (پێشنیازکراو).
 blocklist-item-moz-std-description = هەندێک چاودیریکەر ڕێبدە بۆ ئەوەی کەمتر ماڵپەڕەکان تووشی شکان بن.
 blocklist-item-moz-full-listName = ئاستی 2 لیستی بلۆک.

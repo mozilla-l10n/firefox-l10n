@@ -4,15 +4,9 @@
 
 containers-window-new2 = لەخۆگرێکی نوێ زیاد بکە
     .title = لەخۆگرێکی نوێ زیاد بکە
-    .style = min-width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 = .title = { $name } Container ڕێکخستنەکان
-    .style = min-width: 45em
-    .title = { $name } Container Settings
-    .style = min-width: 45em
-containers-window-close =
-    .key = w
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,21 +16,12 @@ containers-window-close =
 # Using this term and referencing it in the `.style` attribute
 # of the three messages ensures that all three labels
 # will be aligned correctly.
--containers-labels-style = min-width: 4rem
 containers-name-label = ناو
-    .accesskey = N
-    .style = { -containers-labels-style }
 containers-name-text = ناوی لەخۆگر بنووسە
     .placeholder = ناوی لەخۆگر بنووسە
 containers-icon-label = وێنۆچکە
-    .accesskey = I
-    .style = { -containers-labels-style }
 containers-color-label = ڕەنگ
-    .accesskey = o
-    .style = { -containers-labels-style }
-containers-dialog =
     .buttonlabelaccept = تەواو
-    .buttonaccesskeyaccept = D
 containers-color-blue = شین
     .label = شین
 containers-color-turquoise = تەرکوازی

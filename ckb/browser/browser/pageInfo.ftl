@@ -2,23 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
-page-info-window =
-    .style = width: 600px; min-height: 550px;
-copy =
-    .key = C
 menu-copy = لەبەرگرتنەوە
     .label = لەبەرگرتنەوە
-    .accesskey = C
-select-all =
-    .key = A
 menu-select-all = هەمووی دیاریبکە
     .label = هەمووی دیاریبکە
-    .accesskey = A
-close-dialog =
-    .key = w
 general-tab = گشتی
     .label = گشتی
-    .accesskey = G
 general-title = سەردێڕ:
     .value = سەردێڕ:
 general-url = ناونیشان:
@@ -41,7 +30,6 @@ general-meta-content = ناوەڕۆک
     .label = ناوەڕۆک
 media-tab = میدیا
     .label = میدیا
-    .accesskey = M
 media-location = شوێن:
     .value = شوێن:
 media-text = دەقی پەیوەندیدار:
@@ -60,18 +48,13 @@ media-dimension = قەبارەکان:
     .value = قەبارەکان:
 media-long-desc = ڕوونکردنەوەی تەواو:
     .value = ڕوونکردنەوەی تەواو:
-media-select-all =
     .label = هەمووی دیاریبکە
-    .accesskey = e
 media-save-as = پاشەکەوتی بکە وەک
     .label = پاشەکەوتی بکە وەک
-    .accesskey = A
 media-save-image-as = پاشەکەوتی بکە وەک
     .label = پاشەکەوتی بکە وەک
-    .accesskey = v
 perm-tab = ڕێپێدان
     .label = ڕێگەپێدانەکان
-    .accesskey = P
 permissions-for = ڕێپێدان بۆ:
     .value = ڕێپێدان بۆ:
 security-tab = خۆپاراستن
@@ -98,11 +81,9 @@ security-view-privacy-history-value = ئایا من پێشتر سەردانی ئ
 security-view-privacy-sitedata-value = ئایا ئەم ماڵپەڕە زانیاری لەنێو کۆمپیوتەری من هەڵدەگرێت؟
 security-view-privacy-clearsitedata = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
     .label = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
-    .accesskey = C
 security-view-privacy-passwords-value = ئایا هیچ وشەی تێپەڕبوونێکم پاشەکەوت کردووە بۆ ئەم ماڵپەڕە؟
 security-view-privacy-viewpasswords = بینینی ووشە نهێنییە هەڵگیراوەکان
     .label = بینینی ووشە نهێنییە هەڵگیراوەکان
-    .accesskey = w
 security-view-technical = وردەکاری تەکنیکی
     .value = وردەکاری تەکنیکی
 help-button = یارمەتی
@@ -141,15 +122,6 @@ saved-passwords-yes = بەڵێ
 saved-passwords-no = نەخێر
 no-page-title = لاپەڕەی بێ ناو:
     .value = لاپەڕەی بێ ناو:
-general-quirks-mode =
-    .value = Quirks mode
-general-strict-mode =
-    .value = Standards compliance mode
-page-info-security-no-owner =
-    .value = This website does not supply ownership information.
-media-select-folder = Select a Folder to Save the Images
-media-unknown-not-cached =
-    .value = Unknown (not cached)
 permissions-use-default = بنەڕەت بەکاربەرە
     .label = بنەڕەت بەکاربەرە
 security-no-visits = نەخێر
@@ -158,11 +130,6 @@ security-no-visits = نەخێر
 # Variables:
 #   $tags (number) - The number of meta tags
 general-meta-tags = مێتا ({ $tags } تاگ)
-    .value =
-        { $tags ->
-            [one] Meta (1 tag)
-           *[other] Meta ({ $tags } tags)
-        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -178,22 +145,11 @@ security-visits-number = بەڵێ، { $visits } جار
 #   $kb (number) - The size of an image in Kilobytes
 #   $bytes (number) - The size of an image in Bytes
 properties-general-size = { $kb } کب ({ $bytes } بایت)
-    .value =
-        { $bytes ->
-            [one] { $kb } KB ({ $bytes } byte)
-           *[other] { $kb } KB ({ $bytes } bytes)
-        }
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
 #   $type (string) - The type of a animated image
 #   $frames (number) - The number of frames in an animated image
-media-animated-image-type =
-    .value =
-        { $frames ->
-            [one] { $type } Image (animated, { $frames } frame)
-           *[other] { $type } Image (animated, { $frames } frames)
-        }
 # This string is used to display the type of
 # an image
 # Variables:
@@ -207,8 +163,6 @@ media-image-type = وێنەی جۆری { $type }
 #   $dimy (number) - The vertical size of an image
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
-media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image

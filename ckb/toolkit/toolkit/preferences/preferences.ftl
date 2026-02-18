@@ -26,7 +26,6 @@ primary-password-required-by-policy = Your organization requires that you have a
 primary-password-description = A Primary تێپەڕەوشە is used to protect some sensitive information, like logins and passwords, on this device. If you create a Primary تێپەڕەوشە you will be asked to enter it once per session when { -brand-short-name } retrieves saved information protected by the password.
 primary-password-warning = Please make sure you remember the Primary تێپەڕەوشە you have set. If you forget your Primary تێپەڕەوشە, you will be unable to access any of the information protected by it on this device.
 remove-primary-password = .title = Remove Primary تێپەڕەوشە
-    .title = Remove Primary Password
 remove-info = پێویستە وشەی تێپەڕبوونی ئێستا بنووسی بۆ بەردەوام بوون:
     .value = پێویستە وشەی تێپەڕبوونی ئێستا بنووسی بۆ بەردەوام بوون:
 remove-primary-password-warning1 = وشەی تێپەڕبوونی سەرەکی بەکاردێت بۆ پارێزگاریکردن لە زانیاریە هەستیارەکان وەک وشەی تێپەڕبوونی ماڵپەرەکان وچوونەژوورەوەکان.

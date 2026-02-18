@@ -5,9 +5,6 @@
 popup-notification-learn-more = زیاتر بزانە
 popup-notification-more-actions-button = کرداری زیاتر
     .aria-label = کرداری زیاتر
-popup-notification-default-button2 =
     .label = باشە
-    .accesskey = O
 popup-notification-default-button = باشە!
     .label = باشە!
-    .accesskey = O

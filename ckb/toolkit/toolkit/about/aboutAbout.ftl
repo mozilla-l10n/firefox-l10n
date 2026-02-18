@@ -3,7 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-about-title = دەربارە دەربارە
-about-about-note =
-    This is a list of “about” pages for your convenience.<br/>
-    Some of them might be confusing. Some are for diagnostic purposes only.<br/>
-    And some are omitted because they require query strings.

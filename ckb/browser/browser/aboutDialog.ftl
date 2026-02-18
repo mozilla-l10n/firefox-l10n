@@ -2,15 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-aboutDialog-title =
     .title = دەربارەی { -brand-full-name }
 releaseNotes-link = چی نوێ هەیە
-update-checkForUpdatesButton =
     .label = چێکردنی نوێکردنەوە
-    .accesskey = C
-update-updateButton =
     .label = پێکردنەوە بۆ نوێکردنەوە { -brand-shorter-name }
-    .accesskey = R
 update-checkingForUpdates = چێکردن بۆ نوێکردنەوە…
 
 ## Variables:
@@ -70,10 +65,8 @@ aboutDialog-version-nightly = { $version }({ $isodate })({ $bits }-بت)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
 #   $arch (String): name of the architecture (arm, aarch64, etc.)
-aboutdialog-version-arch = { $version } ({ $arch })
 # Example of resulting string: 131.0a1 (2024-08-27) (aarch64)
 # Variables:
 #   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
 #   $isodate (String): date in ISO format, e.g. 2019-01-16
 #   $arch (String): name of the architecture (arm, aarch64, etc.)
-aboutdialog-version-arch-nightly = { $version } ({ $isodate }) ({ $arch })

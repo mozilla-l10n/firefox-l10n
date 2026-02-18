@@ -4,10 +4,8 @@
 
 app-manager-window2 = وردەکارییەکانی داوانامەکان...
     .title = وردەکارییەکانی داوانامەکان...
-    .style = min-width: 30em; min-height: 20em;
 app-manager-remove = بیسڕەوە
     .label = بیسڕەوە
-    .accesskey = R
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ئەم داوانامەیە بەکاردێت بۆ دەستپێگەشتنی بەستەری { $type }.

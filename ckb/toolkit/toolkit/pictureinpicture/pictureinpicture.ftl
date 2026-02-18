@@ -16,38 +16,17 @@ pictureinpicture-player-title = وێنە-لەناو-وێنە
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
-pictureinpicture-pause-btn =
     .aria-label = وچان
-    .tooltip = Pause (Spacebar)
-pictureinpicture-play-btn =
     .aria-label = لێدان
-    .tooltip = Play (Spacebar)
-pictureinpicture-mute-btn =
     .aria-label = بێدەنگردن
-    .tooltip = Mute ({ $shortcut })
-pictureinpicture-unmute-btn =
     .aria-label = دەنگ پێدان
-    .tooltip = Unmute ({ $shortcut })
-pictureinpicture-unpip-btn =
     .aria-label = بیگەڕێنەوە بۆ بازدەر
-    .tooltip = Back to tab
-pictureinpicture-close-btn =
     .aria-label = داخستن
-    .tooltip = Close ({ $shortcut })
-pictureinpicture-subtitles-btn =
-    .aria-label = Subtitles
-    .tooltip = Subtitles
-pictureinpicture-fullscreen-btn2 =
     .aria-label = پڕاوپڕ
-    .tooltip = Fullscreen (double-click or { $shortcut })
-pictureinpicture-exit-fullscreen-btn2 =
-    .aria-label = Exit fullscreen
-    .tooltip = Exit fullscreen (double-click or { $shortcut })
 
 ##
 
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
-pictureinpicture-toggle-fullscreen-shortcut =
     .key = پ
 
 ## Note that this uses .tooltip rather than the standard '.title'
@@ -55,21 +34,11 @@ pictureinpicture-toggle-fullscreen-shortcut =
 ## picture-in-picture window will read and copy this to an in-document
 ## DOM node that then shows the tooltip.
 
-pictureinpicture-seekbackward-btn =
-    .aria-label = Backward
-    .tooltip = Backward (←)
-pictureinpicture-seekforward-btn =
     .aria-label = پێشەوە
-    .tooltip = Forward (→)
 
 ##
 
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
-pictureinpicture-subtitles-panel-accessible = Subtitles settings
-pictureinpicture-subtitles-label = Subtitles
 pictureinpicture-font-size-label = فۆنت size
-pictureinpicture-font-size-small = Small
-pictureinpicture-font-size-medium = Medium
-pictureinpicture-font-size-large = Large
