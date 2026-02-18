@@ -23,6 +23,7 @@ xpinstall-prompt-never-allow = هەرگیز ڕێگە مەدە
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report = .label = Report Suspicious ماڵپەڕ
+    .accesskey = R
     .label = Report Suspicious Site
     .accesskey = R
 # Accessibility Note:

@@ -25,14 +25,14 @@ tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerN
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
+tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button = داخستنی  { $tabCount }بازدەر
-    .tooltiptext = 
+    .tooltiptext =
         { $tabCount ->
             [one] Close tab
            *[other] Close { $tabCount } tabs
@@ -40,7 +40,7 @@ tabbrowser-close-tabs-button = داخستنی  { $tabCount }بازدەر
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip = داخستنی  { $tabCount }بازدەر
-    .label = 
+    .label =
         { $tabCount ->
             [one] Close tab
            *[other] Close { $tabCount } tabs
@@ -69,19 +69,19 @@ tabbrowser-unmute-tab-audio-tooltip =
            *[other] Unmute { $tabCount } tabs ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip = بێدەنگبکە { $tabCount } بازدەر
-    .label = 
+    .label =
         { $tabCount ->
             [one] Mute tab
            *[other] Mute { $tabCount } tabs
         }
 tabbrowser-unmute-tab-audio-background-tooltip = دەنگی { $tabCount } بازدەر بکەرەوە
-    .label = 
+    .label =
         { $tabCount ->
             [one] Unmute tab
            *[other] Unmute { $tabCount } tabs
         }
 tabbrowser-unblock-tab-audio-tooltip = بازدەر { $tabCount } پێکردنی
-    .label = 
+    .label =
         { $tabCount ->
             [one] Play tab
            *[other] Play { $tabCount } tabs
@@ -207,7 +207,10 @@ tabbrowser-tab-audio-playing-description = Playing audio
 
 # Variables:
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
-tabbrowser-ctrl-tab-list-all-tabs =
+tabbrowser-ctrl-tab-list-all-tabs = .label =
+        { $tabCount ->
+           *[other] List All { $tabCount } تابs
+        }
     .label =
         { $tabCount ->
            *[other] List All { $tabCount } Tabs
@@ -280,14 +283,24 @@ tab-group-preview-closed-description = تابs list closed
 
 ##
 
-tab-context-move-tab-to-new-group =
+tab-context-move-tab-to-new-group = .label =
+        { $tabCount ->
+            [1] Add تاب to New Group
+           *[other] Add تابs to New Group
+        }
+    .accesskey = G
     .label =
         { $tabCount ->
             [1] Add Tab to New Group
            *[other] Add Tabs to New Group
         }
     .accesskey = G
-tab-context-move-tab-to-group =
+tab-context-move-tab-to-group = .label =
+        { $tabCount ->
+            [1] Add تاب to Group
+           *[other] Add تابs to Group
+        }
+    .accesskey = G
     .label =
         { $tabCount ->
             [1] Add Tab to Group

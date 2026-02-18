@@ -30,6 +30,7 @@ webrtc-sharing-menuitem-unknown-host = سەرچاوەی نەزانراو
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
 webrtc-sharing-menu = .label = تابs sharing devices
+    .accesskey = d
     .label = Tabs sharing devices
     .accesskey = ڕ
 webrtc-sharing-window = You are sharing another application window.
@@ -119,7 +120,11 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
         }
 webrtc-indicator-menuitem-sharing-window-with = .label = Sharing a پەنجەرە with “{ $streamTitle }”
     .label = Sharing a Window with “{ $streamTitle }”
-webrtc-indicator-menuitem-sharing-window-with-n-tabs =
+webrtc-indicator-menuitem-sharing-window-with-n-tabs = .label =
+        { $tabCount ->
+            [one] Sharing a پەنجەرە with { $tabCount } tab
+           *[other] Sharing پەنجەرەs with { $tabCount } tabs
+        }
     .label =
         { $tabCount ->
             [one] Sharing a Window with { $tabCount } tab
@@ -129,7 +134,11 @@ webrtc-indicator-menuitem-sharing-browser-with = .label = Sharing a تاب with 
     .label = Sharing a Tab with “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
-webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
+webrtc-indicator-menuitem-sharing-browser-with-n-tabs = .label =
+        { $tabCount ->
+            [one] Sharing a تاب with { $tabCount } tab
+           *[other] Sharing تابs with { $tabCount } tabs
+        }
     .label =
         { $tabCount ->
             [one] Sharing a Tab with { $tabCount } tab
@@ -208,7 +217,7 @@ webrtc-action-allow =
     .accesskey = A
 webrtc-action-block = بلۆک
     .label = بلۆک
-    .accesskey = ب
+    .accesskey = د
 webrtc-action-always-block =
     .label = Always block
     .accesskey = w

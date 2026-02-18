@@ -8,12 +8,12 @@ copy =
     .key = C
 menu-copy = لەبەرگرتنەوە
     .label = لەبەرگرتنەوە
-    .accesskey = ل
+    .accesskey = C
 select-all =
     .key = A
 menu-select-all = هەمووی دیاریبکە
     .label = هەمووی دیاریبکە
-    .accesskey = ا
+    .accesskey = A
 close-dialog =
     .key = w
 general-tab = گشتی
@@ -41,7 +41,7 @@ general-meta-content = ناوەڕۆک
     .label = ناوەڕۆک
 media-tab = میدیا
     .label = میدیا
-    .accesskey = م
+    .accesskey = M
 media-location = شوێن:
     .value = شوێن:
 media-text = دەقی پەیوەندیدار:
@@ -65,21 +65,21 @@ media-select-all =
     .accesskey = e
 media-save-as = پاشەکەوتی بکە وەک
     .label = پاشەکەوتی بکە وەک
-    .accesskey = پ
+    .accesskey = A
 media-save-image-as = پاشەکەوتی بکە وەک
     .label = پاشەکەوتی بکە وەک
-    .accesskey = پ
+    .accesskey = v
 perm-tab = ڕێپێدان
-    .label = ڕێپێدان
-    .accesskey = ڕ
+    .label = ڕێگەپێدانەکان
+    .accesskey = P
 permissions-for = ڕێپێدان بۆ:
     .value = ڕێپێدان بۆ:
 security-tab = خۆپاراستن
-    .label = خۆپاراستن
-    .accesskey = خ
+    .label = پاراستن
+    .accesskey = پ
 security-view = بڕوانامە پیشان بدە
     .label = بڕوانامە پیشان بدە
-    .accesskey = ب
+    .accesskey = ن
 security-view-unknown = نەناسراو
     .value = نەناسراو
 security-view-identity = ناسنامەی ماڵپەڕ
@@ -98,11 +98,11 @@ security-view-privacy-history-value = ئایا من پێشتر سەردانی ئ
 security-view-privacy-sitedata-value = ئایا ئەم ماڵپەڕە زانیاری لەنێو کۆمپیوتەری من هەڵدەگرێت؟
 security-view-privacy-clearsitedata = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
     .label = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
-    .accesskey = ش
+    .accesskey = C
 security-view-privacy-passwords-value = ئایا هیچ وشەی تێپەڕبوونێکم پاشەکەوت کردووە بۆ ئەم ماڵپەڕە؟
 security-view-privacy-viewpasswords = بینینی ووشە نهێنییە هەڵگیراوەکان
     .label = بینینی ووشە نهێنییە هەڵگیراوەکان
-    .accesskey = ب
+    .accesskey = w
 security-view-technical = وردەکاری تەکنیکی
     .value = وردەکاری تەکنیکی
 help-button = یارمەتی
@@ -158,7 +158,7 @@ security-no-visits = نەخێر
 # Variables:
 #   $tags (number) - The number of meta tags
 general-meta-tags = مێتا ({ $tags } تاگ)
-    .value = 
+    .value =
         { $tags ->
             [one] Meta (1 tag)
            *[other] Meta ({ $tags } tags)
@@ -178,7 +178,7 @@ security-visits-number = بەڵێ، { $visits } جار
 #   $kb (number) - The size of an image in Kilobytes
 #   $bytes (number) - The size of an image in Bytes
 properties-general-size = { $kb } کب ({ $bytes } بایت)
-    .value = 
+    .value =
         { $bytes ->
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)

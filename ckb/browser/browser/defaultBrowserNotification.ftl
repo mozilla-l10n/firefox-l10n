@@ -3,10 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>{ -brand-short-name } دەکەیتە وێبگەڕی سەرەکی؟
+default-browser-notification-message = <strong>{ -brand-short-name } دەکەیتە وێبگەڕی سەرەکی؟ 
+</strong> خێرابە، پارێزراو، هەروەها گەڕانی تایبەت لە ناو وێبدا.
 default-browser-notification-button = بیکە بنەڕەتی
-    .label = بیکە بنەڕەتی
-    .accesskey = ب
+    .label = Set as default
+    .accesskey = پ
 
 ## These strings are used for the default browser prompt. There are 2 variations
 ## depending on the operating system (Windows vs other). The checkbox label and
@@ -30,12 +31,15 @@ default-browser-prompt-button-secondary = ئێستا نا
 
 default-browser-guidance-notification-title = Finish making { -brand-short-name } your default
 # Quoted text are keywords to look for in the Windows Settings app.
-default-browser-guidance-notification-body-instruction-win10 =
+default-browser-guidance-notification-body-instruction-win10 = Step 1: Go to Settings > Default apps
+    Step 2: Scroll down to “وێب browser”
+    Step 3: Select and choose { -brand-short-name }
     Step 1: Go to Settings > Default apps
     Step 2: Scroll down to “Web browser”
     Step 3: Select and choose { -brand-short-name }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win11 = Step 1: Go to ڕێکخستنەکان > Default apps
+    Step 2: Select “Set default” for { -brand-short-name }
     Step 1: Go to Settings > Default apps
     Step 2: Select “Set default” for { -brand-short-name }
 default-browser-guidance-notification-info-page = Show me

@@ -35,7 +35,7 @@ languages-customize-add = زیادکردن
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
-    .label = { $locale }[{ $code }]
+    .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 = { -brand-short-name } ڕێکخستنی زمان

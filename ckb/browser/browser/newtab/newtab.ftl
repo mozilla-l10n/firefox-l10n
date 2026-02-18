@@ -11,7 +11,8 @@ newtab-settings-button = .title = ڕێکخستنەکان
 newtab-customize-panel-icon-button =
     .title = Customize this page
 newtab-customize-panel-icon-button-label = Customize
-newtab-personalize-settings-icon-label =
+newtab-personalize-settings-icon-label = .title = Personalize New Tab
+    .aria-label = ڕێکخستنەکان
     .title = Personalize New Tab
     .aria-label = ڕێکخستنەکان
 newtab-settings-dialog-label = .aria-label = ڕێکخستنەکان
@@ -114,7 +115,7 @@ newtab-dismiss-button-tooltip = بیسڕەوە
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip = پێڕست بکەرەوە
     .title = پێڕست بکەرەوە
-    .aria-label = کردنەوەی پێکهاتەی پێڕست بۆ { $title }
+    .aria-label = Open context menu for { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip = ئەم ماڵپەڕە دەستکاری بکە
     .title = ئەم ماڵپەڕە دەستکاری بکە
@@ -125,11 +126,11 @@ newtab-menu-topsites-placeholder-tooltip = ئەم ماڵپەڕە دەستکار�
 newtab-menu-edit-topsites = دەستکاریکردن
 newtab-menu-open-new-window = لە پەنجەرەیەکی نوێ بیکەرەوە
 newtab-menu-open-new-private-window = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
-newtab-menu-dismiss = پشتگوێخستن
-newtab-menu-pin = هەڵواسین
-newtab-menu-unpin = لابردن
+newtab-menu-dismiss = لادان
+newtab-menu-pin = چەسپاندن
+newtab-menu-unpin = لادانی چەسپاندن
 newtab-menu-delete-history = سڕینەوە لە مێژووی کار
-newtab-menu-save-to-pocket = پاشەکەوتکردن لە { -pocket-brand-name }
+newtab-menu-save-to-pocket = پاشەکەوتکردن لە پۆکێت
 newtab-menu-delete-pocket = سڕینەوە لە { -pocket-brand-name }
 newtab-menu-archive-pocket = ئەرشیف کردن لە { -pocket-brand-name }
 newtab-menu-show-privacy-info = سپۆنسەرەکانمان و تایبەتێتی تۆ
@@ -306,7 +307,8 @@ newtab-error-fallback-refresh-link = پەڕە نوێبکەرەوە بۆ هەوڵ
 
 newtab-custom-shortcuts-title = کورتکراوەs
 newtab-custom-shortcuts-subtitle = ماڵپەڕs you save or visit
-newtab-custom-shortcuts-toggle =
+newtab-custom-shortcuts-toggle = .label = Shortcuts
+    .description = ماڵپەڕs you save or visit
     .label = قەدبڕەکان
     .description = ماڵپەڕs you save or visit
 # Variables
@@ -674,9 +676,11 @@ newtab-widget-lists-name-placeholder-new =
 newtab-widget-section-title = Widgets
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button = .title = شاردنەوەی ویجێتەکان
+    .aria-label = شاردنەوەی هەموو ویجێتەکان
     .title = Hide widgets
     .aria-label = Hide all widgets
 newtab-widget-section-maximize = .title = فراوانکردنی ویجێتەکان
+    .aria-label = فراوانکردنی هەموو ویجێتەکان بۆ قەبارەی تەواو
     .title = Expand widgets
     .aria-label = Expand all widgets to full size
 newtab-widget-section-minimize =

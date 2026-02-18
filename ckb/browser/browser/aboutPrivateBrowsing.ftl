@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 privatebrowsingpage-open-private-window-label = لە پەنجەرەیەکی تایبەت بیکەرەوە
-    .accesskey = پ
+    .accesskey = P
 about-private-browsing-search-placeholder = بە وێبدا بگەڕێ
 about-private-browsing-info-title = تۆ لە پەنجەرەی تایبەتدایت
 about-private-browsing-search-btn = بە وێبدا بگەڕێ

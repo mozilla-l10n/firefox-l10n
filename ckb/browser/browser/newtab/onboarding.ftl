@@ -10,7 +10,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = بەخێربێی بۆ { -brand-short-name }
+onboarding-welcome-header = بەخێربێیت بۆ فایەرفۆکس
 onboarding-start-browsing-button-label = دەستبکە بە گەڕان
 onboarding-not-now-button-label = ئێستا نا
 mr1-onboarding-get-started-primary-button-label = دەست پێ بکە
@@ -481,6 +481,7 @@ desktop-to-mobile-qr-code-alt =
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-screen-1-title = Upgrading to پەنجەرەs 11?
+    Let’s back up your { -brand-product-name } data.
     Upgrading to Windows 11?
     Let’s back up your { -brand-product-name } data.
 create-backup-screen-1-subtitle = Automatically protect your passwords, bookmarks, and more in 1–2 minutes.

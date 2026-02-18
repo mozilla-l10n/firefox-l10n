@@ -27,8 +27,8 @@ bookmark-overlay-folders-expander-hide = شاردنەوە
 bookmark-overlay-folders-tree = .aria-label = بوخچەs
     .aria-label = Folders
 bookmark-overlay-new-folder-button = بوخچەی نوێ:
-    .label = بوخچەی نوێ:
-    .accesskey = ب
+    .label = بوخچەی نوێ
+    .accesskey = o
 bookmark-overlay-tags-2 =
     .value = تاگەکان
     .accesskey = ئ

@@ -4,14 +4,14 @@
 
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs = بازدەری گەڕان
-    .label = بازدەری گەڕان
+    .label = گەڕان لە تابەکان
 all-tabs-menu-new-user-context = بازدەری لەخۆگری نوێ
-    .label = بازدەری لەخۆگری نوێ
+    .label = New container tab
 all-tabs-menu-hidden-tabs = بازدەری شاراوە
-    .label = بازدەری شاراوە
+    .label = Hidden tabs
 all-tabs-menu-manage-user-context = ڕێکخستنی لەخۆگرەکان
     .label = ڕێکخستنی لەخۆگرەکان
-    .accesskey = ڕ
+    .accesskey = o
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Close all duplicate tabs
 all-tabs-menu-synced-tabs = .label = تابs from other devices

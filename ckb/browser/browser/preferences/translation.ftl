@@ -27,4 +27,4 @@ translation-sites-button-remove-all = هەموو ماڵپەڕەکان بسڕەو
     .accesskey = i
 translation-dialog = داخستن
     .buttonlabelaccept = داخستن
-    .buttonaccesskeyaccept = د
+    .buttonaccesskeyaccept = C

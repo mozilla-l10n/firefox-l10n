@@ -8,6 +8,7 @@ containers-window-new2 = لەخۆگرێکی نوێ زیاد بکە
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 = .title = { $name } Container ڕێکخستنەکان
+    .style = min-width: 45em
     .title = { $name } Container Settings
     .style = min-width: 45em
 containers-window-close =

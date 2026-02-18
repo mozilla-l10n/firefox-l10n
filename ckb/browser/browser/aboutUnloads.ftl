@@ -18,16 +18,19 @@ about-unloads-intro =
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = See <a data-l10n-name="doc-link">تاب Unloading</a> to learn more about
+    the feature and this page.
     See <a data-l10n-name="doc-link">Tab Unloading</a> to learn more about
     the feature and this page.
 about-unloads-last-updated = Last updated: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = دابەزاندنی بار
+    .title = دابەزاندنی باری تاب بە بەرزترین لەپێشینەیی
     .title = Unload tab with the highest priority
 about-unloads-no-unloadable-tab = There are no unloadable tabs.
 about-unloads-column-priority = لەپێشینەیی
 about-unloads-column-host = خانەخوێ
 about-unloads-column-last-accessed = دواین دەستپێگەیشتن
 about-unloads-column-weight = Base Weight
+    .title = Tabs are first sorted by this value, which derives from some special attributes such as playing a sound, وێبRTC, etc.
     .title = Tabs are first sorted by this value, which derives from some special attributes such as playing a sound, WebRTC, etc.
 about-unloads-column-sortweight = Secondary Weight
     .title = If available, tabs are sorted by this value after being sorted by the base weight. The value derives from tab’s memory usage and the count of processes.

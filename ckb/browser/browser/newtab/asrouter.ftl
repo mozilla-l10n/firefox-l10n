@@ -13,11 +13,11 @@ cfr-doorhanger-feature-heading = تایبەتمەندی پێشنیازکراو
 cfr-doorhanger-extension-sumo-link = بۆچی من ئەمە دەبینم؟
     .tooltiptext = بۆچی من ئەمە دەبینم؟
 cfr-doorhanger-extension-cancel-button = ئێستا نا
-    .accesskey = ۆ
+    .accesskey = N
 cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
-    .accesskey = ز
+    .accesskey = A
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنی پێشنیازکراوەکان
-    .accesskey = ب
+    .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = ئەوەم بۆ پێشنیاز مەکە
     .accesskey = پ
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
@@ -46,7 +46,7 @@ cfr-doorhanger-feature-notification = پێشنیازکراو
 # Variables:
 #   $total (Number) - The rating of the add-on from 1 to 5
 cfr-doorhanger-extension-rating = { $total } ئەستێرە
-    .tooltiptext = 
+    .tooltiptext =
         { $total ->
             [one] { $total } star
            *[other] { $total } stars
@@ -120,7 +120,7 @@ cfr-doorhanger-doh-secondary-button = ناچالاک
 cfr-doorhanger-video-support-body = ڤیدیۆکان لەوانەیە لەم ماڵپەڕە بە باشی کارنەکات لەم وەشانەی { -brand-short-name }. بۆ پشتگیری تەواو، تکایە { -brand-short-name } نوێبکەرەوە ئێستا.
 cfr-doorhanger-video-support-header = { -brand-short-name } نوێبکەرەوە بۆ پێکردنی ڤیدیۆ
 cfr-doorhanger-video-support-primary-button = ئێستا نوێیبکەرەوە
-    .accesskey = ئ
+    .accesskey = U
 
 ## VPN promotion dialog for public Wi-Fi users
 ##

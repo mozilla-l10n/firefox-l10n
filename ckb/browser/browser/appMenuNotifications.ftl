@@ -52,8 +52,12 @@ appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .accesskey = P
 appmenu-addon-post-install-incognito-checkbox = ڕێگە بدە ئەم پێوەکراوە لە پەنجەرەی تایبەت کاربکات
     .label = ڕێگە بدە ئەم پێوەکراوە لە پەنجەرەی تایبەت کاربکات
-    .accesskey = گ
-appmenu-new-tab-controlled-changes =
+    .accesskey = A
+appmenu-new-tab-controlled-changes = .label = Your new tab has changed.
+    .buttonlabel = Keep Changes
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Manage New تابs
+    .secondarybuttonaccesskey = M
     .label = Your new tab has changed.
     .buttonlabel = Keep Changes
     .buttonaccesskey = K
@@ -66,6 +70,10 @@ appmenu-homepage-controlled-changes =
     .secondarybuttonlabel = Manage Homepage
     .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled = .label = Access Your Hidden تابs
+    .buttonlabel = Keep تابs Hidden
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Disable Extension
+    .secondarybuttonaccesskey = D
     .label = Access Your Hidden Tabs
     .buttonlabel = Keep Tabs Hidden
     .buttonaccesskey = K

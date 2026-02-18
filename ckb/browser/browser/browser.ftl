@@ -201,7 +201,7 @@ urlbar-result-menu-remove-from-history =
     .accesskey = R
 urlbar-result-menu-tip-get-help =
     .label = یارمەتی بەدەستبهێنە
-    .accesskey = ی
+    .accesskey = ک
 urlbar-result-menu-dismiss-suggestion =
     .label = Dismiss this suggestion
     .accesskey = D
@@ -309,10 +309,10 @@ page-action-remove-extension2 =
 
 full-screen-autohide = شاردنەوەی توڵامراز
     .label = شاردنەوەی توڵامراز
-    .accesskey = ش
+    .accesskey = ی
 full-screen-exit = دەرچوون لە تەواوی شاشە
     .label = لە دۆخی پڕاوپڕی شاشە دەرچۆ
-    .accesskey = د
+    .accesskey = پ
 
 ## Search Engine selection buttons (one-offs)
 
@@ -323,13 +323,13 @@ search-one-offs-change-settings-compact-button = گۆڕینی ڕێکخستنەک
     .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
 search-one-offs-context-open-new-tab = گەڕان لە بازدەری نوێ
     .label = گەڕان لە بازدەری نوێ
-    .accesskey = گ
+    .accesskey = ئ
 search-one-offs-context-set-as-default = بیکە بە گەڕۆکی سەرەکی
     .label = بیکە بە گەڕۆکی سەرەکی
-    .accesskey = ۆ
+    .accesskey = D
 search-one-offs-context-set-as-default-private = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
     .label = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
-    .accesskey = پ
+    .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -466,7 +466,7 @@ bookmarks-add-bookmark = زیادکردنی دڵخواز
 bookmarks-edit-bookmark = دەستکاریکردنی دڵخواز
 bookmark-panel-cancel = پاشگەزبوونەوە
     .label = پاشگەزبوونەوە
-    .accesskey = گ
+    .accesskey = C
 # Variables:
 #  $count (number): number of bookmarks that will be removed
 bookmark-panel-remove = .label =\n        { $count ->\n            [1] سڕینەوەی دڵخواز\n           *[other] سڕینەوەی { $count } دڵخواز\n        }\n    .accesskey = س
@@ -478,7 +478,7 @@ bookmark-panel-remove = .label =\n        { $count ->\n            [1] سڕین�
     .accesskey = R
 bookmark-panel-show-editor-checkbox = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
     .label = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
-    .accesskey = س
+    .accesskey = پ
 bookmark-panel-save-button = پاشەکەوتکردن
     .label = پاشەکەوتکردن
 # Width of the bookmark panel.
@@ -496,7 +496,7 @@ identity-site-information = ماڵپەڕ information for { $host }
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = Connection security for { $host }
-identity-connection-not-secure = پەیوەندی پارێزراو نیە
+identity-connection-not-secure = پەیوەندییەکە پارێزراو نییە
 identity-connection-secure = پەیوەندی پارێزراوە
 identity-connection-failure = شکستهێنانی پەیوەندی
 identity-connection-internal = ئەمە پەڕەیەکی پارێزراوە { -brand-short-name }.
@@ -528,7 +528,7 @@ identity-permissions-storage-access-hint = These parties can use cross-site cook
 identity-permissions-storage-access-learn-more = زیاتر بزانە
 identity-permissions-reload-hint = لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.
 identity-clear-site-data = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
-    .label = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
+    .label = Clear cookies and site data…
 identity-connection-not-secure-security-view = تۆ بە پارێزراوی نەبەستراوی بەم ماڵپەڕەوە.
 identity-connection-verified = تۆ بە پارێزراوی بەستراوی بەم ماڵپەڕەوە.
 identity-ev-owner-label = بڕوانامە دراوە لە لایەن:
@@ -537,7 +537,7 @@ identity-etsi = Qualified as specified in Regulation (EU) 2024/1183.
 identity-description-custom-root2 = مۆزیلا does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.
 identity-remove-cert-exception = سڕینەوەی هەڵاوێردی
     .label = سڕینەوەی هەڵاوێردی
-    .accesskey = ڵ
+    .accesskey = R
 identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
 identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
 identity-description-weak-cipher-intro = Your connection to this website uses weak encryption and is not private.
@@ -550,10 +550,10 @@ identity-description-active-loaded = This website contains content that is not s
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
 identity-disable-mixed-content-blocking = پارێزگاری ناچالاک بکە لە ئێستادا
     .label = پارێزگاری ناچالاک بکە لە ئێستادا
-    .accesskey = پ
+    .accesskey = D
 identity-enable-mixed-content-blocking = پارێزگاری چالاک بکە
     .label = پارێزگاری چالاک بکە
-    .accesskey = چ
+    .accesskey = د
 identity-more-info-link-text = زانیاری زیاتر
     .label = زانیاری زیاتر
 
@@ -605,6 +605,7 @@ browser-tab-unblock =
 ## Bookmarks toolbar items
 
 browser-import-button2 = .label = هێنانەناوەوەی دڵخوازەکان...
+    .tooltiptext = هێنانەناوەوەی دڵخوازەکان لە وێبگەڕێکی ترەوە بۆ فایەرفۆکس.
     .label = Import bookmarks…
     .tooltiptext = Import bookmarks from another browser to { -brand-short-name }.
 bookmarks-toolbar-empty-message = بۆ دەستگەیشتنی خێرا، دڵخوازەکانت لێرە لەسەر شریتی دڵخوازەکان دابنێ. <a data-l10n-name="manage-bookmarks">بەڕێوەبردنی دڵخوازەکان...</a>
@@ -618,12 +619,13 @@ popup-select-camera-icon = کامێرا
     .tooltiptext = کامێرا
 popup-select-microphone-device = مایکرۆفۆن:
     .value = مایکرۆفۆن:
-    .accesskey = م
+    .accesskey = M
 popup-select-microphone-icon = مایکرۆفۆن
     .tooltiptext = مایکرۆفۆن
 popup-select-speaker-icon = بێژەران
     .tooltiptext = بێژەران
 popup-select-window-or-screen = .label = پەنجەرە or screen:
+    .accesskey = W
     .label = Window or screen:
     .accesskey = W
 popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.
@@ -661,7 +663,7 @@ urlbar-placeholder-keyword-disabled =
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 = بە وێبدا بگەڕێ
     .placeholder = بە وێبدا بگەڕێ
-    .aria-label = بگەڕێ لەگەڵ { $name }
+    .aria-label = Search with { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -669,19 +671,19 @@ urlbar-placeholder-search-mode-web-2 = بە وێبدا بگەڕێ
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine = دەقی گەڕان بنووسە
     .placeholder = دەقی گەڕان بنووسە
-    .aria-label = بگەڕێ لە { $name }
+    .aria-label = Search { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks = دەقی گەڕان بنووسە
     .placeholder = دەقی گەڕان بنووسە
-    .aria-label = بگەڕێ لە دڵخوازەکان
+    .aria-label = گەڕان لە دڵخوازەکان
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history = دەقی گەڕان بنووسە
     .placeholder = دەقی گەڕان بنووسە
-    .aria-label = بگەڕێ لە مێژوو
+    .aria-label = گەڕان لە ناو مێژووی کاردا
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs = دەقی گەڕان بنووسە
     .placeholder = دەقی گەڕان بنووسە
-    .aria-label = بگەڕێ لە بازدەرەکان
+    .aria-label = گەڕان لە تابەکان
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = دەقی گەڕان بنووسە
@@ -726,9 +728,9 @@ urlbar-result-action-search-in-private = بگەڕێ لە پەنجەرەی تای
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = بگەڕێ لەگەڵ{ $engine }
 urlbar-result-action-sponsored = پاڵپشتیکراو
-urlbar-result-action-switch-tab = بچۆ بۆ بازدەر
+urlbar-result-action-switch-tab = گۆڕین بۆ تاب
 urlbar-result-action-move-tab-to-split-view = گواستنەوەی تاب بۆ پیشاندانی دابەشکراو
-urlbar-result-action-visit = سەردانیبکە
+urlbar-result-action-visit = سەردانیکردن
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
 # Variables
@@ -961,8 +963,8 @@ urlbar-searchmode-no-keyword =
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = گەڕان لە دڵخوازەکان
-urlbar-result-action-search-history = گەڕان لە ناو مێژووی کاردا
-urlbar-result-action-search-tabs = گەڕان لە بازدەرەکان
+urlbar-result-action-search-history = مێژووی گەڕان
+urlbar-result-action-search-tabs = گەڕان لە تابەکان
 urlbar-result-action-search-actions = کارەکانی گەڕان
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
@@ -1059,24 +1061,24 @@ bookmarks-toolbar-chevron = دڵخوازی زیاتر پیشان بدە
 bookmarks-sidebar-content = دڵخوازەکان
     .aria-label = دڵخوازەکان
 bookmarks-menu-button = .label = دڵخوازەکان
-    .label = پێڕستی دڵخوازەکان
+    .label = Bookmarks menu
 bookmarks-other-bookmarks-menu = دڵخوازی تر
-    .label = دڵخوازی تر
+    .label = Other bookmarks
 bookmarks-mobile-bookmarks-menu = دڵخوازەکانی مۆبایل
-    .label = دڵخوازەکانی مۆبایل
+    .label = Mobile bookmarks
 
 ## Variables:
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
 ##                         bookmarks toolbar, etc.) is visible or not.
 
 bookmarks-tools-sidebar-visibility = لاتەنیشتی دڵخوازەکان ببینە
-    .label = 
+    .label =
         { $isVisible ->
             [true] Hide bookmarks sidebar
            *[other] View bookmarks sidebar
         }
 bookmarks-tools-toolbar-visibility-menuitem = توڵامرازی دڵخوازەکان ببینە
-    .label = 
+    .label =
         { $isVisible ->
             [true] Hide Bookmarks Toolbar
            *[other] View Bookmarks Toolbar
@@ -1088,7 +1090,7 @@ bookmarks-tools-toolbar-visibility-panel = .label =\n        { $isVisible ->\n  
            *[other] Show bookmarks toolbar
         }
 bookmarks-tools-menu-button-visibility = پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز
-    .label = 
+    .label =
         { $isVisible ->
             [true] Remove bookmarks menu from toolbar
            *[other] Add bookmarks menu to toolbar
@@ -1110,11 +1112,11 @@ bookmarks-toolbar = توڵامرازی دڵخوازەکان
     .accesskey = د
     .aria-label = دڵخوازەکان
 bookmarks-toolbar-menu = توڵامرازی دڵخوازەکان
-    .label = توڵامرازی دڵخوازەکان
+    .label = Bookmarks toolbar
 bookmarks-toolbar-placeholder = بڕگەکانی توڵامرازی دڵخوازەکان
-    .title = بڕگەکانی توڵامرازی دڵخوازەکان
+    .title = Bookmarks toolbar items
 bookmarks-toolbar-placeholder-button = بڕگەکانی توڵامرازی دڵخوازەکان
-    .label = بڕگەکانی توڵامرازی دڵخوازەکان
+    .label = Bookmarks toolbar items
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab = .label = دڵخوازکردنی تابی ئێستا...
     .label = Bookmark current tab…
@@ -1129,8 +1131,8 @@ library-recent-activity-title = .value = چالاکییەکانی ئەم دوا�
 ## Pocket toolbar button
 
 save-to-pocket-button = پاشەکەوتی بکە لە { -pocket-brand-name }
-    .label = پاشەکەوتی بکە لە { -pocket-brand-name }
-    .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
+    .label = پاشەکەوتکردن لە { -pocket-brand-name }
+    .tooltiptext = پاشەکەوتکردن لە { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1143,6 +1145,11 @@ repair-text-encoding-button =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button = .label = ڕێکخستنەکان
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Open settings ({ $shortcut })
+           *[other] Open settings
+        }
     .label = ڕێکخستنەکان
     .tooltiptext =
         { PLATFORM() ->
@@ -1156,18 +1163,19 @@ toolbar-button-email-link = بەستەر بنێرە
     .label = بەستەر بنێرە
     .tooltiptext = بەستەر بنێرە بۆ ئەم پەڕەیە
 toolbar-button-logins = .label = تێپەڕەوشەکان
+    .tooltiptext = View and manage your saved passwords
     .label = وشەی تێپەڕبوونەکان
     .tooltiptext = View and manage your saved passwords
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page = پاشەکەوتکردنی لاپەڕە وەک...
     .label = پەڕە پاشەکەوت بکە
-    .tooltiptext = ئەم پەڕەیە پاشەکەوت بکە ({ $shortcut })
+    .tooltiptext = Save this page ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file = پەڕگە بکەرەوە
     .label = پەڕگە بکەرەوە
-    .tooltiptext = پەڕگەیەک بکەرەوە ({ $shortcut })
+    .tooltiptext = Open a file ({ $shortcut })
 toolbar-button-synced-tabs = بازدەرە هاوکاتگەرییەکان
     .label = بازدەرە هاوکاتگەرییەکان
     .tooltiptext = بازدەرەکانی ئامێرەکانی تر پیشان بدە
@@ -1175,7 +1183,7 @@ toolbar-button-synced-tabs = بازدەرە هاوکاتگەرییەکان
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window = پەنجەرەی تایبەتی نوێ
     .label = پەنجەرەی تایبەتی نوێ
-    .tooltiptext = پەنجەرەیەکی نوێی گەڕانی تایبەت بکەرەوە ({ $shortcut })
+    .tooltiptext = Open a new private browsing window ({ $shortcut })
 toolbar-button-share-tab =
     .label = بڵاوکردنەوە
     .tooltiptext = Share this page
@@ -1259,13 +1267,13 @@ navbar-overflow = ئامرازی تر...
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print = چاپکردن
     .label = چاپکردن
-    .tooltiptext = ئەم پەڕەیە چاپبکە...({ $shortcut })
+    .tooltiptext = Print this page… ({ $shortcut })
 navbar-home = سەرەکی
     .label = ماڵەوە
-    .tooltiptext = پەڕەی سەرەکی { -brand-short-name }
+    .tooltiptext = { -brand-short-name } Home Page
 navbar-library = کتێبخانە
     .label = کتێبخانە
-    .tooltiptext = مێژووی کار، دڵخوازراو پاشەکەوتکراو، و زیاتر پیشان بدە
+    .tooltiptext = View history, saved bookmarks, and more
 navbar-search = گەڕان
     .title = گەڕان
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -1429,12 +1437,12 @@ popup-warning-exceeded-with-redirect-message =
        *[other] { -brand-short-name } prevented this site from opening more than { $popupCount } pop-up windows and redirecting.
     }
 popup-warning-button = هەڵبژاردنەکان
-    .label = 
+    .label =
         { PLATFORM() ->
             [windows] Options
            *[other] Preferences
         }
-    .accesskey = 
+    .accesskey =
         { PLATFORM() ->
             [windows] O
            *[other] P
@@ -1608,7 +1616,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } allowed { $count } cryptominers
     }
 trustpanel-cryptominer-tab-list-header = These sites are trying to cryptomine:
-trustpanel-blocker-section-header2 =
+trustpanel-blocker-section-header2 = { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> Tracker blocked on this site
+       *[other] <span data-l10n-name="count">{ $count }</span> شوێنپێهەڵگرەکان blocked on this site
+    }
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Tracker blocked on this site
        *[other] <span data-l10n-name="count">{ $count }</span> Trackers blocked on this site

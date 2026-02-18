@@ -20,10 +20,10 @@ downloads-panel-items =
     .style = width: 35em
 downloads-cmd-pause = وچان
     .label = وچان
-    .accesskey = و
+    .accesskey = P
 downloads-cmd-resume = هێنانەوە
     .label = هێنانەوە
-    .accesskey = ه
+    .accesskey = R
 downloads-cmd-cancel = پاشگەزبوونەوە
     .tooltiptext = پاشگەزبوونەوە
 downloads-cmd-cancel-panel = پاشگەزبوونەوە
@@ -86,33 +86,33 @@ downloads-cmd-show-description-2 =
            *[other] Show in Folder
         }
 downloads-cmd-show-downloads = بوخچەی داگرتنەکان پیشان بدە
-    .label = بوخچەی داگرتنەکان پیشان بدە
+    .label = Show downloads folder
 downloads-cmd-retry = هەوڵ بدەرەوە
     .tooltiptext = هەوڵ بدەرەوە
 downloads-cmd-retry-panel = هەوڵ بدەرەوە
     .aria-label = هەوڵ بدەرەوە
 downloads-cmd-go-to-download-page = بڕۆ بۆ پەڕەی داگرتن
     .label = بڕۆ بۆ پەڕەی داگرتن
-    .accesskey = گ
+    .accesskey = G
 downloads-cmd-copy-download-link = بەستەری داگرتن لەبەربگرەوە
     .label = بەستەری داگرتن لەبەربگرەوە
-    .accesskey = س
+    .accesskey = L
 downloads-cmd-remove-from-history = سڕینەوە لە مێژووی کار
     .label = سڕینەوە لە مێژووی کار
-    .accesskey = ک
+    .accesskey = e
 downloads-cmd-clear-list = پاککردنەوەی بەشی پێشبینین
     .label = پاککردنەوەی بەشی پێشبینین
-    .accesskey = پ
+    .accesskey = ه
 downloads-cmd-clear-downloads = پاککردنەوەی داگرتنەکان
     .label = پاککردنەوەی داگرتنەکان
-    .accesskey = پ
+    .accesskey = C
 downloads-cmd-delete-file =
     .label = سڕینەوە
     .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock = ڕێگە بە داگرتن بدە
     .label = ڕێگە بە داگرتن بدە
-    .accesskey = ێ
+    .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file = پەڕگە بسڕەوە
     .tooltiptext = پەڕگە بسڕەوە
@@ -176,12 +176,12 @@ downloads-cancel-download = پاشگەزبونەوەی داگرتن
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history = هەموو داگرتنەکان پیشان بدە
-    .label = هەموو داگرتنەکان پیشان بدە
+    .label = پیشاندانی هەموو دابەزێنراوەکان
     .accesskey = پ
 # This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details = زانیاری داگرتن
-    .title = زانیاری داگرتن
+    .title = Download details
 
 ## These strings are displayed in the private browsing view of the downloads panel
 
@@ -212,7 +212,7 @@ downloads-blocked-download-detailed-info = { $url } attempted to automatically d
 
 downloads-clear-downloads-button = پاککردنەوەی داگرتنەکان
     .label = پاککردنەوەی داگرتنەکان
-    .tooltiptext = پاککردنەوە تەواو بوو، داگرتنە تەواو نەبووەکان و پاشگەزبووەکان
+    .tooltiptext = Clears completed, canceled and failed downloads
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty = هیچ داگیراوێک نیە
