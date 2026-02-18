@@ -44,4 +44,5 @@ about-private-browsing-cookie-banners-promo-button = کم کردن بنرا کۊ
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = هیچ توری ری ای دسگا نهلی و جا
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کۊکیا، ویرگار وو داده یل وبگه ایسا ن هر سا ک پوی نیمدری یل سیخومی خوتووݩ ن بووندین، پاک اکونه.
 about-private-browsing-felt-privacy-v1-info-link = کؽ گاشڌ ترسته بۊ فعالیت مونه بنیره؟
