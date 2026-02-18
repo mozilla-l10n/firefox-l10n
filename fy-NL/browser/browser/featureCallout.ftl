@@ -227,7 +227,12 @@ sidebar-genai-survey-satisfaction-question = Hoe tefreden binne jo mei tagong ta
 sidebar-genai-survey-productive-question =
     Yn hoefier binne jo it iens of net iens mei dizze stelling:<br/>
     ‘De AI-chatbot yn de sidebalke helpt my produktiver te wêzen’?
+splitview-onboarding-callout-title-1 = Splitste werjefte: in bettere manier om te multitaske
+splitview-onboarding-callout-subtitle-1 = Klik mei jo rjochtermûsknop op dit ljepblêd en kies ‘Splitste werjefte tafoegje’ om twa ljepblêden tagelyk te sjen.
 splitview-onboarding-callout-cta-1 = No probearje
+splitview-onboarding-callout-title-2 = Besjoch twa ljepblêden tagelyk mei splitste werjefte
+splitview-onboarding-callout-subtitle-2 = Gjin ekstra finsters. Gjin ljepblêden wikselje. Klik mei jo rjochtermûsknop op dit ljepblêd en kies ‘Splitste werjefte tafoegje’.
+splitview-onboarding-callout-cta-2 = Splitste werjefte probearje
 unified-search-callout-title = Wikselje tusken sykmasinen
 unified-search-callout-subtitle = Kies wat it bêste wurket foar jo spesifike sykopdracht.
 unified-search-callout-primary-label = Folgjende

@@ -137,6 +137,8 @@ firefoxview-synced-tabs-header = Ljepblêden fan oare apparaten
 firefoxview-chats-nav = Chats
     .title = Chats
 firefoxview-chats-header = Chats
+firefoxview-chat-context-delete = Fuortsmite út chats
+    .accesskey = t
 
 ##
 
@@ -170,6 +172,9 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Iepen ljepblêden trochsykje
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Chats trochsykje
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

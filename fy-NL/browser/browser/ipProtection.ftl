@@ -17,10 +17,14 @@ ipprotection-button-error =
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA
+ipprotection-help-button =
+    .tooltiptext = VPN-stipeside iepenje
 ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Nij: VPN, no streekrjocht yn jo browser
+ipprotection-feature-introduction-link-text = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen mei ekstra fersifering.
 ipprotection-feature-introduction-button-primary = Folgjende
 ipprotection-feature-introduction-button-secondary-not-now = No net
 ipprotection-feature-introduction-button-secondary-no-thanks = Nee, tankewol
