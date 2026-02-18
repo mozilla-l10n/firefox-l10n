@@ -199,8 +199,12 @@ newtab-wallpaper-light-purple = بناوش رۊشن
 newtab-wallpaper-light-green = ساوز رۊشن
 newtab-wallpaper-green = ساوز
 newtab-wallpaper-beige = بژ
+newtab-wallpaper-pink = آل
+newtab-wallpaper-light-pink = آل رۊشن
 newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
+newtab-wallpaper-dark-purple = بناوش تاریک
+newtab-wallpaper-dark-green = ساوز تاریک
 
 ## Firefox
 
