@@ -15,7 +15,7 @@ clear-site-data-close-key =
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data = شەکرۆکە و زانیاری ماڵپەڕ ({ $amount }{ $unit })
     .label = شەکرۆکە و زانیاری ماڵپەڕ ({ $amount }{ $unit })
-    .accesskey = پ
+    .accesskey = س
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -23,7 +23,7 @@ clear-site-data-cookies-with-data = شەکرۆکە و زانیاری ماڵپە�
 # to avoid flickering.
 clear-site-data-cookies-empty = شەکرۆکە و زانیاری ماڵپەڕ
     .label = شەکرۆکە و زانیاری ماڵپەڕ
-    .accesskey = پ
+    .accesskey = س
 clear-site-data-cookies-info = ئەگەر پاکیبکەیتەوە لەوانەیە بچیتە دەرەوە لەو ماڵپەڕانە.
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
@@ -32,7 +32,7 @@ clear-site-data-cookies-info = ئەگەر پاکیبکەیتەوە لەوانە�
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data = ناوەڕۆکی وێبی حەشاردراو ({ $amount }{ $unit })
     .label = ناوەڕۆکی وێبی حەشاردراو ({ $amount }{ $unit })
-    .accesskey = W
+    .accesskey = ن
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -40,7 +40,7 @@ clear-site-data-cache-with-data = ناوەڕۆکی وێبی حەشاردراو (
 # to avoid flickering.
 clear-site-data-cache-empty = ناوەڕۆکی وێبی حەشاردراو
     .label = ناوەڕۆکی وێبی حەشاردراو
-    .accesskey = W
+    .accesskey = ش
 clear-site-data-cache-info = پێویستە لەسەر ماڵپەڕەکان کە وێنەکان و زانیارییەکان باربکاتەوە
 clear-site-data-dialog =
     .buttonlabelaccept = پاککردنەوە

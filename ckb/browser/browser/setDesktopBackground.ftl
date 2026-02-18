@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window = پاشبنەمای ڕوومێزەکەت ڕێکبخە
-    .title = بیکە پاشبنەمای ڕوومێزەکەت
+    .title = پاشبنەمای ڕوومێزەکەت ڕێکبخە
 set-desktop-background-accept = پاشبنەمای ڕوومێزەکەت ڕێکبخە
-    .label = بیکە پاشبنەمای ڕوومێزەکەت
+    .label = پاشبنەمای ڕوومێزەکەت ڕێکبخە
 open-desktop-prefs = هەڵبژاردنەکانی ڕوومێز بکەرەوە
     .label = هەڵبژاردنەکانی ڕوومێز بکەرەوە
 set-desktop-background-downloading = پاشکەوتکردنی وێنە…

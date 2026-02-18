@@ -30,8 +30,7 @@ settings-page-title = ڕێکخستنەکان
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
-search-input-box2 = .style = width: 15.4em
-    .placeholder = Find in ڕێکخستنەکان
+search-input-box2 =
     .style = width: 15.4em
     .placeholder = Find in Settings
 managed-notice = وێبگەڕەکەت بەڕێوەدەبرێت لەلایەن کۆمپانیاکەتەوە.
@@ -42,13 +41,13 @@ category-list =
 pane-general-title = گشتی
 category-general =
     .tooltiptext = { pane-general-title }
-pane-home-title = سەرەکی
+pane-home-title = ماڵەوە
 category-home =
     .tooltiptext = { pane-home-title }
 pane-search-title = گەڕان
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = تایبەتمەندی و ئاسایش
+pane-privacy-title = تایبەتی و پاراستن
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = هاوکاتکردن
@@ -57,10 +56,10 @@ category-sync3 =
 pane-ai-controls-title = AI Controls
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
-pane-experimental-title = { -brand-short-name } Experiments
+pane-experimental-title = تاقیکارییەکانی { -brand-short-name }
 category-experimental =
-    .tooltiptext = { -brand-short-name } Experiments
-pane-experimental-subtitle = بە وریاییەوە بەردەوام بە
+    .tooltiptext = تاقیکارییەکانی { -brand-short-name }
+pane-experimental-subtitle = بەردەوام بە وریایەوە
 pane-experimental-search-results-header = ئەزموونەکانی فایەرفۆکس: بە وریاییەوە بەردەوام بە
 pane-experimental-description2 = Changing advanced configuration settings can impact { -brand-short-name } performance or security.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
@@ -70,7 +69,7 @@ pane-experimental-description4 = تایبەتمەندییە ئەزموونییە
 pane-experimental-description3 = Give our experimental features a try! They’re in development and evolving, which could impact how { -brand-short-name } works.
 pane-experimental-reset = .label = گەڕانەوە بۆ بنەڕەتی\n    .accesskey = گ
     .label = بنەرەتی بهێنەوە
-    .accesskey = R
+    .accesskey = ب
 help-button-label = { -brand-short-name } پشتگیری
 addons-button-label = پێوەکراوەکان & ڕووکارەکان
 focus-search =
@@ -212,7 +211,7 @@ tabs-closing-heading =
 tabs-group-header = بازدەرەکان
 ctrl-tab-recently-used-order = Ctrl+Tab دەتبات بە ناو بازدەرە کراوەکان
     .label = Ctrl+Tab دەتبات بە ناو بازدەرە کراوەکان
-    .accesskey = ئ
+    .accesskey = ب
 open-new-link-as-tabs = بەستەرەکان بکەرەوە لە بازدەر لە جیاتی ئەوەی لە پەنجەرەی نوێ بیکەیتەوە
     .label = بەستەرەکان بکەرەوە لە بازدەر لە جیاتی ئەوەی لە پەنجەرەی نوێ بیکەیتەوە
     .accesskey = w
@@ -254,7 +253,7 @@ browser-containers-enabled = بازدەری لەخۆگری چالاک بکە
     .accesskey = n
 browser-containers-learn-more = زیاتر بزانە
 browser-containers-settings = ڕێکخستنەکان
-    .label = ڕێکخستنەکان...
+    .label = ڕێکخستنەکان
     .accesskey = i
 containers-disable-alert-title = هەموو بازدەرەکانی لەخۆگر دادەخەیت؟
 startup-group = دەستپێکردن
@@ -263,10 +262,7 @@ startup-group = دەستپێکردن
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
-containers-disable-alert-desc = { $tabCount ->
-        [one] If you disable Container تابs now, { $tabCount } container tab will be closed. Are you sure you want to disable Container تابs?
-       *[other] If you disable Container تابs now, { $tabCount } container tabs will be closed. Are you sure you want to disable Container تابs?
-    }
+containers-disable-alert-desc =
     { $tabCount ->
         [one] If you disable Container Tabs now, { $tabCount } container tab will be closed. Are you sure you want to disable Container Tabs?
        *[other] If you disable Container Tabs now, { $tabCount } container tabs will be closed. Are you sure you want to disable Container Tabs?
@@ -295,15 +291,11 @@ settings-tabs-show-image-in-preview =
     .accessKey = ک
 browser-layout-header2 = .label = وێبگەڕ Layout
     .label = وێبگەڕ Layout
-browser-layout-horizontal-tabs2 = .label = Horizontal tabs
-    .title = تابs at the top
-    .description = تابs at the top
+browser-layout-horizontal-tabs2 =
     .label = Horizontal tabs
     .title = Tabs at the top
     .description = Tabs at the top
-browser-layout-vertical-tabs2 = .label = Vertical tabs
-    .title = تابs on the side, in the sidebar
-    .description = تابs on the side, in the sidebar
+browser-layout-vertical-tabs2 =
     .label = Vertical tabs
     .title = Tabs on the side, in the sidebar
     .description = Tabs on the side, in the sidebar
@@ -325,7 +317,6 @@ browser-layout-show-sidebar-desc = Quickly access bookmarks, tabs from your phon
 
 language-and-appearance-header = زمانەکان و ڕووکارەکان
 appearance-group = .label = وێبsite appearance
-    .description = Some websites adapt their color scheme based on your preferences. Choose which color scheme you’d like to use for those sites.
     .label = وێبsite appearance
     .description = Some websites adapt their color scheme based on your preferences. Choose which color scheme you’d like to use for those sites.
 preferences-web-appearance-header = وێبsite appearance
@@ -363,7 +354,6 @@ preferences-web-appearance-override-warning3 =
 preferences-web-appearance-link =
     .label = Manage { -brand-short-name } themes in Extensions & Themes
 preferences-contrast-control-group = .label = کۆنتراستی ماڵپەڕ
-    .description = ماڵپەڕەکان ڕەنگی جیاوازی پێشەوە و پاشبنەما بەکاردەهێنن. بۆ کۆنتراستێکی جێگیر، دەتوانیت هەمان ڕەنگ لە هەموو ماڵپەڕەکاندا بەکاربهێنیت.
     .label = Website contrast
     .description = Websites use a variety of foreground and background colors. For consistent contrast, you can use the same colors across websites.
 preferences-contrast-control-radio-group = .label = تێپەڕاندنی ڕەنگەکان
@@ -380,7 +370,6 @@ preferences-contrast-control-use-platform-settings =
     .label = Automatic (use system settings)
     .accesskey = A
 preferences-contrast-control-off = .label = ناچالاک
-    .accesskey = ن
     .label = ناکارا
     .accesskey = O
 preferences-contrast-control-custom =
@@ -426,10 +415,9 @@ preferences-zoom-text-only = تەنها دەقەکان زووم بکە
     .accesskey = t
 preferences-text-zoom-override-warning =
     .message = Warning: If you select “Zoom text only” and your default zoom is not set to 100%, it may cause some sites or content to break.
-language-header = زمان و ڕووکار
+language-header = زمان
 choose-language-description = زمانی بنەڕەتی هەڵبژێرە بۆ پیشاندانی پەڕەکان
 website-language-heading = .label = وێبsite language
-    .description = Some web pages are displayed in multiple languages. Choose languages in your preferred order.
     .label = Website language
     .description = Some web pages are displayed in multiple languages. Choose languages in your preferred order.
 website-preferred-language =
@@ -457,7 +445,7 @@ choose-button = دیاریبکە...
 choose-browser-language-description = ئەو زمانە هەڵبژێرە کە بەکاربێت بۆ پیشاندانی پێڕست، پەیامەکان و ئاگانامەکان لە { -brand-short-name }.
 manage-browser-languages-button = جێگرەوە دابنێ...
     .label = جێگرەوە دابنێ...
-    .accesskey = l
+    .accesskey = I
 confirm-browser-language-change-description = { -brand-short-name } پێبکەرەوە بۆ جێبەجێکردنی گۆڕانکارییەکان
 confirm-browser-language-change-button = جێبەجێیبکە و پێبکەرەوە
 translate-web-pages = وەرگێڕانی ناوەڕۆکی وێب
@@ -552,12 +540,12 @@ download-header = داگرتنەکان
 download-save-where = پەڕگە پاشەکەوت بکە لە
     .accesskey = v
 download-choose-folder = بگەڕێ...
-    .label =
+    .label = 
         { PLATFORM() ->
             [macos] Choose…
            *[other] Browse…
         }
-    .accesskey =
+    .accesskey = 
         { PLATFORM() ->
             [macos] e
            *[other] o
@@ -597,7 +585,7 @@ applications-use-app = { $app-name } بەکاربێنە
 applications-use-app-default = { $app-name } بەکاربێنە (بنەڕەتی)
     .label = { $app-name } بەکاربێنە (بنەڕەتی)
 applications-use-os-default = داوانامەی بنەڕەتی سیستم بەکاربێنە
-    .label =
+    .label = 
         { PLATFORM() ->
             [macos] Use macOS default application
             [windows] Use Windows default application
@@ -660,7 +648,7 @@ drm-group = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM
 drm-content-header = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM)
 play-drm-content = ناوەڕۆکی کۆنترۆڵکراو لە ژێر DRM کارپێبکە
     .label = ناوەڕۆکی کۆنترۆڵکراو لە ژێر DRM کارپێبکە
-    .accesskey = P
+    .accesskey = پ
 play-drm-content-learn-more = زیاتر بزانە
 update-application-title = نوێکارییەکانی { -brand-short-name }
 update-application-description = { -brand-short-name } بەنوێکراوی بهێڵەوە، بۆ باشترین ئەرک، جێگیری، و پاراستن.
@@ -760,7 +748,7 @@ browsing-use-onscreen-keyboard =
     .accesskey = c
 browsing-use-cursor-navigation = هەموو کات ئاراستەکانی تەختەکلیل بەکاربێنە بۆ گۆڕین لە نێوان پەڕەکان.
     .label = هەموو کات ئاراستەکانی تەختەکلیل بەکاربێنە بۆ گۆڕین لە نێوان پەڕەکان.
-    .accesskey = k
+    .accesskey = گ
 browsing-use-full-keyboard-navigation =
     .label = Use the tab key to move focus between form controls and links
     .accesskey = t
@@ -768,7 +756,7 @@ browsing-search-on-start-typing = بگەڕێ بۆ پیت کاتێک دۆ دەس�
     .label = بگەڕێ بۆ پیت کاتێک دۆ دەستپێدەکەی بە نووسین
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled = دەستپێگەیشتنی ڤیدیۆیی وێنە-لەناو-وێنە چالاک بکە
-    .label = Enable Picture-in-Picture video controls
+    .label = دەستپێگەیشتنی ڤیدیۆیی وێنە-لەناو-وێنە چالاک بکە
     .accesskey = د
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Keep playing videos in Picture-in-Picture when switching tabs
@@ -776,7 +764,7 @@ browsing-picture-in-picture-enable-when-switching-tabs =
 browsing-picture-in-picture-learn-more = زیاتر بزانە
 browsing-media-control = کۆنتڕۆڵ کردنی میدیا لەڕێگەی تەختەکلیل، بیستۆک، یان ڕووکاری گریمانەیی
     .label = کۆنتڕۆڵ کردنی میدیا لەڕێگەی تەختەکلیل، بیستۆک، یان ڕووکاری گریمانەیی
-    .accesskey = v
+    .accesskey = ل
 browsing-media-control-learn-more = زیاتر فێربە
 browsing-cfr-recommendations = زیادکراوەکان پێشنیازبکە کاتێک دەگەڕێم
     .label = زیادکراوەکان پێشنیازبکە کاتێک دەگەڕێم
@@ -847,7 +835,7 @@ home-homepage-custom-homepage-button =
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages = پەڕەی ئێستا بەکاربێنە
-    .label =
+    .label = 
         { $tabCount ->
             [1] Use Current Page
            *[other] Use Current Pages
@@ -933,17 +921,17 @@ home-prefs-stories-header2 =
 
 home-prefs-recommended-by-learn-more = چۆن کار دەکات
 home-prefs-recommended-by-option-sponsored-stories = چیرۆکی سپۆنسەرکراو
-    .label = Sponsored stories
+    .label = چیرۆکی سپۆنسەرکراو
 home-prefs-recommended-by-option-recent-saves =
     .label = Show Recent Saves
 home-prefs-highlights-option-visited-pages = پەڕەی سەردانکراو
-    .label = Visited pages
+    .label = پەڕەی سەردانکراو
 home-prefs-highlights-options-bookmarks = دڵخوازەکان
     .label = دڵخوازەکان
 home-prefs-highlights-option-most-recent-download = دوواترین داگرتن
-    .label = Most recent download
+    .label = دوواترین داگرتن
 home-prefs-highlights-option-saved-to-pocket = پەڕە پاشەکەوت دەکرێت لە { -pocket-brand-name }
-    .label = Pages saved to { -pocket-brand-name }
+    .label = پەڕە پاشەکەوت دەکرێت لە { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Recent activity
 home-prefs-recent-activity-description = A selection of recent sites and content
@@ -982,7 +970,7 @@ home-prefs-choose-wallpaper-link2 =
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option = { $num } ڕیز
-    .label =
+    .label = 
         { $num ->
             [one] { $num } row
            *[other] { $num } rows
@@ -1167,7 +1155,7 @@ sync-profile-picture-account-problem =
 fxa-login-rejected-warning = .alt = ئاگاداری
     .alt = ئاگاداری
 sync-sign-out = بچۆ دەرەوە
-    .label = بچۆ دەرەوە...
+    .label = بچۆ دەرەوە
     .accesskey = g
 sync-sign-out2 = بچۆ دەرەوە
     .label = بچۆ دەرەوە
@@ -1240,13 +1228,13 @@ prefs-sync-now-button = هاوکاتگەری بکە ئێستا
     .label = هاوکاتگەری بکە ئێستا
     .accesskey = N
 prefs-sync-now-button-2 = هاوکاتگەری بکە ئێستا
-    .label = هاوکاتگەری پێکردن
+    .label = هاوکاتگەری بکە ئێستا
     .accesskey = N
 prefs-syncing-button = هاوکاتگەری دەکات…
     .label = هاوکاتگەری دەکات…
 prefs-syncing-button-2 = هاوکاتگەری دەکات…
     .label = هاوکاتگەری دەکات…
-    .title = هاوکاتگەری پێکردن
+    .title = هاوکاتگەری بکە ئێستا
 
 ## The list of things currently syncing.
 
@@ -1292,22 +1280,20 @@ sync-engine-history = مێژوو
     .label = مێژوو
     .accesskey = r
 sync-engine-tabs = بازدەر بکەرەوە
-    .label = بازدەرەکان بکەرەوە
-    .tooltiptext = A list of what’s open on all synced devices
+    .label = بازدەر بکەرەوە
+    .tooltiptext = لیستەی ئەوانەی کە ئێستا لە هەموو ئامێرەکان کراوەتەوە
     .accesskey = t
 sync-engine-logins-passwords = چوونەژوورەوە و وشەی تێپەڕەکان
     .label = چوونەژوورەوە و وشەی تێپەڕەکان
-    .tooltiptext = Usernames and passwords you’ve saved
+    .tooltiptext = چوونەژوورەوە و وشەی تێپەڕەکان کە پاشەکەوت کراون
     .accesskey = L
 sync-engine-passwords = .label = تێپەڕەوشەکان
-    .tooltiptext = تێپەڕەوشەکان you’ve saved
-    .accesskey = P
     .label = وشەی تێپەڕبوونەکان
     .tooltiptext = Passwords you’ve saved
     .accesskey = P
 sync-engine-addresses = ناونیشانەکان
     .label = ناونیشانەکان
-    .tooltiptext = Postal addresses you’ve saved (desktop only)
+    .tooltiptext = نانونیشانی پۆست کە پاشەکەوتت کردووە (تەنها ڕوومێز)
     .accesskey = e
 sync-engine-creditcards =
     .label = کارتی پڕکردنەوەی بانکی
@@ -1317,15 +1303,11 @@ sync-engine-payment-methods2 =
     .label = ڕێگاکانی پارەدان
     .tooltiptext = Names, card numbers, and expiry dates
     .accesskey = n
-sync-engine-addons = .label = Add-ons
-    .tooltiptext = Extensions and themes for فایەرفۆکس desktop
-    .accesskey = A
+sync-engine-addons =
     .label = پێوەکراوەکان
     .tooltiptext = Extensions and themes for Firefox desktop
     .accesskey = A
 sync-engine-settings = .label = ڕێکخستنەکان
-    .tooltiptext = General, تایبەتمەندی, and ئاسایش settings you’ve changed
-    .accesskey = s
     .label = ڕێکخستنەکان
     .tooltiptext = General, Privacy, and Security settings you’ve changed
     .accesskey = چ
@@ -1375,7 +1357,7 @@ sync-verification-not-sent-body = ناتوانین بەستەری سەلماند
 
 ## Privacy Section
 
-privacy-header = تایبەتمەندی وێبگەڕ (Privacy)
+privacy-header = تایبەتێتی وێبگەڕ
 
 ## Privacy Section - Logins and Passwords
 
@@ -1393,9 +1375,7 @@ forms-ask-to-save-logins = پرسیار بکە بۆ پاشەکەوت کردنی 
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = تێپەڕەوشەکان
     .searchkeywords = logins
-    .searchkeywords = logins
 forms-passwords-header = .label = تێپەڕەوشەکان
-    .aria-label = تێپەڕەوشەکان
     .label = وشەی تێپەڕبوونەکان
     .aria-label = وشەی تێپەڕبوونەکان
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
@@ -1410,13 +1390,13 @@ forms-exceptions = هەڵاوێردی...
     .accesskey = x
 forms-generate-passwords = پێشنیاز و یان وشەی تێپەڕبوون درووست بکە
     .label = پێشنیاز و یان وشەی تێپەڕبوون درووست بکە
-    .accesskey = u
+    .accesskey = پ
 forms-suggest-passwords =
     .label = Suggest strong passwords
     .accesskey = پ
 forms-breach-alerts = ئاگادارم بکەرەوە کاتێک ماڵپەڕێک دزەی پێکراوە
     .label = ئاگادارم بکەرەوە کاتێک ماڵپەڕێک دزەی پێکراوە
-    .accesskey = b
+    .accesskey = ئ
 forms-breach-alerts-learn-more-link = زیاتر بزانە
 preferences-relay-integration-checkbox =
     .label = Suggest { -relay-brand-name } email masks to protect your email address
@@ -1449,8 +1429,8 @@ forms-saved-passwords-searchkeywords = چوونژوورەوە بۆ ئەم ماڵ
 forms-additional-protections-header =
     .label = Additional protections
 forms-primary-pw-use = بەکارهێنانی وشەی تێپەڕی سەرەکی
-    .label = Use a primary password
-    .accesskey = U
+    .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
+    .accesskey = ت
 forms-primary-pw-use-2 =
     .label = Use a primary password
     .description = Adds an extra layer of security to protect your saved passwords.
@@ -1477,7 +1457,6 @@ forms-master-pw-change = وشەی تێپەڕبوونی سەرەکی بگۆڕە..
     .label = وشەی تێپەڕبوونی سەرەکی بگۆڕە...
     .accesskey = M
 forms-primary-pw-change = .label = Change Primary تێپەڕەوشە…
-    .accesskey = P
     .label = Change Primary Password…
     .accesskey = P
 # Leave this message empty if the translation for "Primary Password" matches
@@ -1610,7 +1589,7 @@ history-header = مێژوو
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = پاشەکەوتکردنی مێژوو
+history-remember-label2 = { -brand-short-name } هەڵئەسێت
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -1631,8 +1610,7 @@ history-remember-option-custom = ڕێکخستنی تایبەت بەکاربێن�
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } مێژووی گەڕان، دابەزاندن، فۆرم و گەڕانەکانت پاشەکەوت دەکات.
-history-dontremember-description4 = .aria-label = { history-group.label }
-    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the وێب.
+history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the وێب.
 history-custom-description4 =
@@ -1641,8 +1619,7 @@ history-custom-description4 =
 history-remember-description3 = .aria-label = { history-remember-label2 }\n    .description = { -brand-short-name } مێژووی گەڕان، دابەزاندن، فۆرم و گەڕانەکانت پاشەکەوت دەکات.
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } مێژووی گەڕان، دابەزاندن، فۆرم و گەڕانەکانت پاشەکەوت دەکات.
-history-dontremember-description3 = .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the وێب.
+history-dontremember-description3 =
     .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the وێب.
 history-custom-description3 =
@@ -1673,7 +1650,7 @@ history-group = مێژوو
 
 ## Privacy Section - Site Data
 
-sitedata-header = کوکی و زانیارییەکانی ماڵپەڕ
+sitedata-header = شەکرۆکە و زانیاری ماڵپەڕ
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = ژماردنی زانیاری ماڵپەڕ و قەبارەی شەکرۆکە...
@@ -1685,10 +1662,10 @@ sitedata-total-size2 = Your stored cookies, history, site data, and cache are cu
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = هەموو زانیارییەکانی ماڵپەڕ، شەکرۆکە و حەشارگەکان هەڵگیراون { $value }{ $unit } بیرگەی داگیرکردووە.
-sitedata-learn-more = زیاتر فێربە
+sitedata-learn-more = زیاتر بزانە
 sitedata-delete-on-close = شەکرۆکە و زانیاری ماڵپەڕ بسڕەوە کاتێک { -brand-short-name } دادەخەیت
     .label = شەکرۆکە و زانیاری ماڵپەڕ بسڕەوە کاتێک { -brand-short-name } دادەخەیت
-    .accesskey = c
+    .accesskey = ش
 sitedata-delete-on-close-private-browsing3 =
     .message = Based on your history settings, { -brand-short-name } deletes cookies and site data from your session when you close the browser.
 sitedata-delete-on-close-private-browsing = لە دۆخی تایبەت، بەشێوەیەکی هەمیشەیی شەکرۆکە و زانیاری ماڵپەڕ دەسڕێنەوە کاتێک { -brand-short-name } دادەخرێت.
@@ -1775,21 +1752,21 @@ addressbar-locbar-clipboard-option =
     .label = Clipboard
     .accesskey = C
 addressbar-locbar-openpage-option = بازدەر بکەرەوە
-    .label = بازدەرەکان بکەرەوە
+    .label = بازدەر بکەرەوە
     .accesskey = O
 # Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
 addressbar-locbar-shortcuts-option = قەدبڕەکان
     .label = قەدبڕەکان
-    .accesskey = پ
+    .accesskey = ق
 addressbar-locbar-topsites-option = ماڵپەڕە بەرزەکان
     .label = ماڵپەڕە بەرزەکان
-    .accesskey = ئ
+    .accesskey = م
 addressbar-locbar-engines-option-1 =
     .label = Suggest search engines to use
     .accesskey = ه
 addressbar-locbar-engines-option = بزوێنەری گەڕان
     .label = بزوێنەری گەڕان
-    .accesskey = ه
+    .accesskey = ب
 addressbar-locbar-quickactions-option =
     .label = Quick actions
     .accesskey = Q
@@ -1901,8 +1878,7 @@ content-blocking-warning-title-custom = Some sites may break with custom trackin
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recommends using the “Fix site issues” settings to reduce broken site features and content. If a site seems broken, try turning off tracking protection for that site to load all content.
 content-blocking-and-isolating-etp-warning-description-2 = This setting may cause some websites to not display content or work correctly. If a site seems broken, you may want to turn off tracking protection for that site to load all content.
 content-blocking-warning-learn-how = بزانە چۆن
-content-blocking-baseline-exceptions-3 = .label = Fix major site issues (recommended)
-    .description = یارمەتیs load sites and features by unblocking only essential elements that may contain trackers. Covers most common problems.
+content-blocking-baseline-exceptions-3 =
     .label = Fix major site issues (recommended)
     .description = Helps load sites and features by unblocking only essential elements that may contain trackers. Covers most common problems.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
@@ -1924,7 +1900,7 @@ content-blocking-tracking-protection-option-all-windows = لە هەموو پەن
     .label = لە هەموو پەنجەرەکان
     .accesskey = A
 content-blocking-option-private = تەنها لە پەنجەرەی تایبەت
-    .label = Only in private windows
+    .label = تەنها لە پەنجەرەی تایبەت
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = لیستەی بلۆک بگۆڕە
 content-blocking-cookies-label = شەکرۆکە
@@ -1962,7 +1938,7 @@ tracking-manage-exceptions = بەڕێوەبردنی هەڵاوێردەکان...
 
 ## Privacy Section - Permissions
 
-permissions-header = مۆڵەتەکان
+permissions-header = ڕێگەپێدانەکان
 permissions-location = شوێن
 permissions-location-settings = ڕێکخستنەکان...
     .label = ڕێکخستنەکان...
@@ -1982,7 +1958,6 @@ permissions-microphone-settings = ڕێکخستنەکان...
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
 permissions-speaker = Speaker Selection
 permissions-speaker-settings = .label = ڕێکخستنەکان…
-    .accesskey = t
     .label = ڕێکخستنەکان...
     .accesskey = t
 permissions-notification = ئاگانامەکان
@@ -2025,7 +2000,7 @@ permissions-block-popups-exceptions-button = .label = حاڵەتە جیاواز�
     .searchkeywords = popups
 permissions-addon-install-warning = ئاگادارت دەکاتەوە کاتێک ماڵپەڕێک دەیەوێت زیادکراوێک دامەزرێنێت
     .label = ئاگادارت دەکاتەوە کاتێک ماڵپەڕێک دەیەوێت زیادکراوێک دامەزرێنێت
-    .accesskey = W
+    .accesskey = و
 permissions-addon-exceptions = هەڵاوێردی...
     .label = هەڵاوێردی...
     .accesskey = د
@@ -2054,7 +2029,6 @@ permissions-notification2 = ئاگانامەکان
 
 collection-header = { -brand-short-name } زانیاری Collection and Use
 collection-header2 = { -brand-short-name } زانیاری Collection and Use
-    .searchkeywords = telemetry
     .searchkeywords = telemetry
 preferences-collection-description = We strive to provide you with choices and collect only the minimal data necessary to improve { -brand-product-name } for everyone.
 preferences-collection-privacy-notice = View تایبەتمەندی Notice
@@ -2123,7 +2097,7 @@ website-advertising-private-attribution-description = This helps sites understan
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
-security-header = ئاسایش
+security-header = پاراستن
 browsing-protection-group = .label = Deceptive Content and Dangerous Software پاراستن
     .label = Deceptive Content and Dangerous Software پاراستن
 security-browsing-protection = Deceptive Content and Dangerous Software پاراستن
@@ -2148,7 +2122,6 @@ certs-view =
     .label = View Certificates…
     .accesskey = C
 certs-devices = .label = ئاسایش Devices…
-    .accesskey = D
     .label = Security Devices…
     .accesskey = D
 certs-thirdparty-toggle =
@@ -2156,7 +2129,6 @@ certs-thirdparty-toggle =
     .accesskey = t
 certs-devices-enable-fips = FIPS چالاک بکە
 space-alert-over-5gb-settings-button = .label = Open ڕێکخستنەکان
-    .accesskey = O
     .label = کردنەوەی ڕێکخستنەکان
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } is running out of disk space.</strong> وێبsite contents may not display properly. You can clear stored data in Settings > Privacy & Security > Cookies and ماڵپەڕ Data.
@@ -2217,7 +2189,6 @@ preferences-doh-group-message2 = Enable DNS over HTTPS using:
 preferences-doh-expand-section =
     .tooltiptext = زانیاری زیاتر
 preferences-doh-setting-default = .label = Default پاراستن
-    .accesskey = D
     .label = Default Protection
     .accesskey = D
 preferences-doh-default-desc = { -brand-short-name } decides when to use secure DNS to protect your privacy.
@@ -2227,14 +2198,12 @@ preferences-doh-default-detailed-desc-3 = Use a local provider, if possible
 preferences-doh-default-detailed-desc-4 = Turn off when VPN, parental control, or enterprise policies are active
 preferences-doh-default-detailed-desc-5 = Turn off when a network tells { -brand-short-name } it shouldn’t use secure DNS
 preferences-doh-setting-enabled = .label = Increased پاراستن
-    .accesskey = I
     .label = Increased Protection
     .accesskey = I
 preferences-doh-enabled-desc = You control when to use secure DNS and choose your provider.
 preferences-doh-enabled-detailed-desc-1 = Use the provider you select
 preferences-doh-enabled-detailed-desc-2 = Only use your default DNS resolver if there is a problem with secure DNS
 preferences-doh-setting-strict = .label = Max پاراستن
-    .accesskey = M
     .label = Max Protection
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } will always use secure DNS. You’ll see a security risk warning before we use your system DNS.
@@ -2282,7 +2251,6 @@ preferences-ai-controls-pdfjs-control =
     .label = Image alt text in { -brand-short-name } PDF viewer
     .description = When you add images to PDFs, this adds descriptions to make them accessible.
 preferences-ai-controls-tab-group-suggestions-control = .label = تاب group suggestions
-    .description = Get suggestions to name and organize your tabs.
     .label = تاب group suggestions
     .description = Get suggestions to name and organize your tabs.
 preferences-ai-controls-key-points-control =

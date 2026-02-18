@@ -42,7 +42,7 @@ permissions-remove-all = هەموو ماڵپەڕەکان بسڕەوە
     .accesskey = e
 permission-dialog = گۆڕانکارییەکان هەڵگرە
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
-    .buttonaccesskeyaccept = پ
+    .buttonaccesskeyaccept = گ
 permissions-autoplay-menu = بنەڕەتی بۆ هەموو ماڵپەڕەکان:
 permissions-searchbox = بگەڕێ لە ناو ماڵپەڕ
     .placeholder = بگەڕێ لە ناو ماڵپەڕ
@@ -77,7 +77,6 @@ permissions-invalid-uri-label = ناوی پاوانی گونجاو بنووسە
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 = .title = Exceptions for Enhanced Tracking پاراستن
-    .style = { permissions-window2.style }
     .title = Exceptions for Enhanced Tracking Protection
     .style = { permissions-window2.style }
 permissions-exceptions-manage-etp-desc = You can specify which websites have Enhanced Tracking پاراستن turned off. Type the exact address of the site you want to manage and then click Add Exception.
@@ -85,7 +84,6 @@ permissions-exceptions-manage-etp-desc = You can specify which websites have Enh
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 = .title = Exceptions - Cookies and ماڵپەڕ Data
-    .style = { permissions-window2.style }
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = You can specify which websites are always or never allowed to use cookies and site data.  Type the exact address of the site you want to manage and then click Block, Allow for Session, or Allow.
@@ -101,7 +99,6 @@ permissions-exceptions-https-only-desc2 = You can turn off HTTPS-Only Mode for s
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 = .title = Allowed وێبsites - Pop-ups and Third-Party Redirects
-    .style = { permissions-window2.style }
     .title = Allowed Websites - Pop-ups and Third-Party Redirects
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = You can specify which websites are allowed to open pop-up windows and be redirected by third-party frames.
@@ -109,7 +106,6 @@ permissions-exceptions-popup-desc2 = You can specify which websites are allowed 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 = .title = Allowed وێبsites - Pop-ups
-    .style = { permissions-window2.style }
     .title = Allowed Websites - Pop-ups
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = You can specify which websites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
@@ -124,7 +120,6 @@ permissions-exceptions-saved-logins-desc = Logins for the following websites wil
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window = .title = Exceptions - Saved تێپەڕەوشەکان
-    .style = { permissions-window2.style }
     .title = Exceptions - Saved Passwords
     .style = { permissions-window2.style }
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } won’t save passwords for sites listed here.
@@ -132,7 +127,6 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } won’t save
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 = .title = Allowed وێبsites - Add-ons Installation
-    .style = { permissions-window2.style }
     .title = Allowed Websites - Add-ons Installation
     .style = { permissions-window2.style }
 permissions-exceptions-addons-desc = You can specify which websites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
@@ -140,7 +134,6 @@ permissions-exceptions-addons-desc = You can specify which websites are allowed 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 = .title = ڕێکخستنەکان - Autoplay
-    .style = { permissions-window2.style }
     .title = Settings - Autoplay
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = You can manage the sites that do not follow your default autoplay settings here.
@@ -148,7 +141,6 @@ permissions-site-autoplay-desc = You can manage the sites that do not follow you
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 = .title = ڕێکخستنەکان - Notification Permissions
-    .style = { permissions-window2.style }
     .title = Settings - Notification Permissions
     .style = { permissions-window2.style }
 permissions-site-notification-desc = The following websites have requested to send you notifications. You can specify which websites are allowed to send you notifications. You can also block new requests asking to allow notifications.
@@ -159,7 +151,6 @@ permissions-site-notification-disable-desc = This will prevent any websites not 
 ## Site Permissions - Location
 
 permissions-site-location-window2 = .title = ڕێکخستنەکان - Location Permissions
-    .style = { permissions-window2.style }
     .title = Settings - Location Permissions
     .style = { permissions-window2.style }
 permissions-site-location-desc = The following websites have requested to access your location. You can specify which websites are allowed to access your location. You can also block new requests asking to access your location.
@@ -170,7 +161,6 @@ permissions-site-location-disable-desc = This will prevent any websites not list
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 = .title = ڕێکخستنەکان - Virtual Reality Permissions
-    .style = { permissions-window2.style }
     .title = Settings - Virtual Reality Permissions
     .style = { permissions-window2.style }
 permissions-site-xr-desc = The following websites have requested to access your virtual reality devices. You can specify which websites are allowed to access your virtual reality devices. You can also block new requests asking to access your virtual reality devices.
@@ -181,7 +171,6 @@ permissions-site-xr-disable-desc = This will prevent any websites not listed abo
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 = .title = ڕێکخستنەکان - Camera Permissions
-    .style = { permissions-window2.style }
     .title = Settings - Camera Permissions
     .style = { permissions-window2.style }
 permissions-site-camera-desc = The following websites have requested to access your camera. You can specify which websites are allowed to access your camera. You can also block new requests asking to access your camera.
@@ -192,7 +181,6 @@ permissions-site-camera-disable-desc = This will prevent any websites not listed
 ## Site Permissions - Local host
 
 permissions-site-localhost-window = .title = ڕێکخستنەکان - Device apps and services
-    .style = { permissions-window2.style }
     .title = Settings - Device apps and services
     .style = { permissions-window2.style }
 permissions-site-localhost-desc = These websites have requested access to apps and services on this device. You can choose to allow or block sites from doing this.
@@ -203,7 +191,6 @@ permissions-site-localhost-disable-desc = This will stop any website not listed 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window = .title = ڕێکخستنەکان - Local Network Devices
-    .style = { permissions-window2.style }
     .title = Settings - Local Network Devices
     .style = { permissions-window2.style }
 permissions-site-local-network-desc = These websites have requested access to apps and services on devices connected to your Wi-Fi or local network. You can choose to allow or block sites from doing this.
@@ -214,7 +201,6 @@ permissions-site-local-network-disable-desc = This will stop any website not lis
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 = .title = ڕێکخستنەکان - Microphone Permissions
-    .style = { permissions-window2.style }
     .title = Settings - Microphone Permissions
     .style = { permissions-window2.style }
 permissions-site-microphone-desc = The following websites have requested to access your microphone. You can specify which websites are allowed to access your microphone. You can also block new requests asking to access your microphone.
@@ -227,12 +213,10 @@ permissions-site-microphone-disable-desc = This will prevent any websites not li
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window = .title = ڕێکخستنەکان - Speaker Permissions
-    .style = { permissions-window2.style }
     .title = Settings - Speaker Permissions
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = The following websites have requested to select an audio output device. You can specify which websites are allowed to select an audio output device.
 permissions-exceptions-doh-window = .title = وێبsite Exceptions for DNS over HTTPS
-    .style = { permissions-window2.style }
     .title = Website Exceptions for DNS over HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } won’t use secure DNS on these sites and their subdomains.

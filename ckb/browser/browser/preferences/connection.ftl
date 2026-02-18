@@ -4,7 +4,7 @@
 
 connection-window2 = ڕێکخستنەکانی پەیوەندیگرتن
     .title = ڕێکخستنەکانی پەیوەندیگرتن
-    .style =
+    .style = 
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
@@ -19,9 +19,8 @@ connection-proxy-option-no = پرۆکسی نیە
     .accesskey = y
 connection-proxy-option-system = ڕێکخستنی پرۆکسی سیستەم بەکاربێنە
     .label = ڕێکخستنی پرۆکسی سیستەم بەکاربێنە
-    .accesskey = U
+    .accesskey = س
 connection-proxy-option-wpad = .label = Use system وێب Proxy Auto-Discovery setting
-    .accesskey = g
     .label = Use system Web Proxy Auto-Discovery setting
     .accesskey = g
 connection-proxy-option-auto =
@@ -29,22 +28,22 @@ connection-proxy-option-auto =
     .accesskey = w
 connection-proxy-option-manual = ڕێکخستنی دەستیی پرۆکسی
     .label = ڕێکخستنی دەستیی پرۆکسی
-    .accesskey = M
+    .accesskey = د
 connection-proxy-http = پرۆکسی HTTP
-    .accesskey = x
+    .accesskey = پ
 connection-proxy-http-port = دەرەچە
     .accesskey = P
 connection-proxy-https-sharing =
     .label = Also use this proxy for HTTPS
     .accesskey = چ
 connection-proxy-https = پرۆکسی HTTPS
-    .accesskey = ی
+    .accesskey = ر
 connection-proxy-ssl-port = دەرەچە
     .accesskey = o
 connection-proxy-socks = ڕاژەخوازی SOCKS
-    .accesskey = C
+    .accesskey = ڕ
 connection-proxy-socks-port = دەرەچە
-    .accesskey = t
+    .accesskey = r
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -52,13 +51,13 @@ connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
 connection-proxy-noproxy = پرۆکسی نیە بۆ
-    .accesskey = N
+    .accesskey = پ
 connection-proxy-noproxy-desc = نموونە: Mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Connections to localhost, 127.0.0.1/8, and ::1 are never proxied.
 connection-proxy-autotype = بەستەری ڕێکخستنی خۆکاری پرۆکسی
     .label = بەستەری ڕێکخستنی خۆکاری پرۆکسی
-    .accesskey = A
+    .accesskey = ئ
 connection-proxy-reload = بارکردنەوە
     .label = بارکردنەوە
     .accesskey = e
@@ -80,7 +79,7 @@ connection-proxy-socks-remote-dns =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default = { $name } (بنەڕەت)
     .label = { $name } (بنەڕەت)
-    .tooltiptext = Use the default URL for resolving DNS over HTTPS
+    .tooltiptext = بەستەری بنەڕەتی بەکاربەرە بۆ چارەسەرکردنی DNS لەسەر HTTPS
 connection-dns-over-https-url-custom = خوازراو
     .label = خوازراو
     .accesskey = C

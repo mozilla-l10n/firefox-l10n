@@ -13,7 +13,7 @@ findbar-find-button-close = لاتەنیشتی دۆزینەوە دابخە
     .tooltiptext = لاتەنیشتی دۆزینەوە دابخە
 findbar-highlight-all2 = هەمووی نیشانە بکە
     .label = هەمووی نیشانە بکە
-    .accesskey =
+    .accesskey = 
         { PLATFORM() ->
             [macos] l
            *[other] a
@@ -26,11 +26,11 @@ findbar-case-sensitive = دۆخی لەیەکچوون
 findbar-match-diacritics = دۆزینەوەی وشە وەکوو یەک
     .label = دۆزینەوەی وشە وەکوو یەک
     .accesskey = i
-    .tooltiptext = Distinguish between accented letters and their base letters (for example, when searching for “resume”, “résumé” will not be matched)
+    .tooltiptext = هێمای درووست بوونی وشەکان لە یەک جیادەکاتەوە و بەیەکەوە نایان دۆزێتەوە وەکو (هەردوو وشەی “resume” و “résumé” وەکوو یەک نادۆزێتەوە و جیایان دەکاتەوە)
 findbar-entire-word = هەموو وشەکان
     .label = هەموو وشەکان
     .accesskey = W
-    .tooltiptext = Search whole words only
+    .tooltiptext = تەنها بۆ هەموو وشەکان بگەڕێ
 findbar-not-found = نووسین نەدۆزرایەوە
 findbar-wrapped-to-top = گەشتیتە کۆتایی پەڕە. لەسەرەوە دەستت پێکرد
 findbar-wrapped-to-bottom = گەشتیتە سەرەوەی پەڕە، لە خوارەوە دەستت پێکرد
@@ -58,7 +58,7 @@ findbar-found-matches =
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit = زیاتر لە { $limit } دۆزرایەوە
-    .value =
+    .value = 
         { $limit ->
             [one] More than { $limit } match
            *[other] More than { $limit } matches

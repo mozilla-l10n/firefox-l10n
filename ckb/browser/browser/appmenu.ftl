@@ -18,7 +18,7 @@ appmenuitem-banner-update-restart =
 appmenuitem-new-tab = بازدەری نوێ
     .label = بازدەری نوێ
 appmenuitem-new-window = .label = پەنجەرەیەکی نوێ
-    .label = New window
+    .label = پەنجەرەی نوێ
 appmenuitem-new-private-window = .label = پەنجەرەیەکی تایبەتی نوێ
     .label = پەنجەرەی تایبەتی نوێ
 appmenuitem-history = .label = مێژوو
@@ -69,7 +69,7 @@ appmenuitem-zoom-enlarge = هێنانەپێش
 appmenuitem-zoom-reduce = ڕۆچوونی
     .label = ڕۆچوونی
 appmenuitem-fullscreen = پڕاوپڕ
-    .label = Full screen
+    .label = پڕاوپڕ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -114,7 +114,7 @@ appmenu-fxa-setup-sync = هاوکاتگەری پێبکە...
     .label = هاوکاتگەری پێبکە...
 appmenu-fxa-setup-sync-new = Turn On
 appmenuitem-save-page = پەرە پاشەکەوت بکە وەک...
-    .label = Save page as…
+    .label = پەرە پاشەکەوت بکە وەک...
 appmenuitem-fxa-sync-off-title = هاوکاتکردن is off
 appmenuitem-fxa-sync-off-description = Protect and access your bookmarks, passwords, and more anywhere.
 
@@ -125,22 +125,19 @@ whatsnew-panel-header = چی نوێ هەیە
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox = ئاگادارم بکەرەوە لە تایبەتمەندی نوێ
     .label = ئاگادارم بکەرەوە لە تایبەتمەندی نوێ
-    .accesskey = f
+    .accesskey = ت
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
 profiler-popup-button-idle = .label = پڕۆفایلەر
-    .tooltiptext = دەست بکە بە تۆمارکردن
     .label = پرۆفایل
     .tooltiptext = تۆمارکردنی پرۆفایلی کارایی
 profiler-popup-button-recording = .label = پڕۆفایلەر
-    .tooltiptext = پڕۆفایلەرەکە سەرقاڵی تۆمارکردنی پڕۆفایلێکە
     .label = پرۆفایل
     .tooltiptext = The profiler is recording a profile
 profiler-popup-button-capturing = .label = پڕۆفایلەر
-    .tooltiptext = پڕۆفایلەرەکە سەرقاڵی تۆمارکردنی پڕۆفایلێکە
     .label = پرۆفایل
     .tooltiptext = The profiler is capturing a profile
 profiler-popup-header-text = { -profiler-brand-name }
@@ -174,7 +171,6 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 profiler-button-dropmarker = .label = پانێڵی پڕۆفایلەر بکەرەوە
-    .tooltiptext = پانێڵی پڕۆفایلەر بکەرەوە
     .label = Open the profiler panel
     .tooltiptext = Open the profiler panel
 
@@ -248,12 +244,12 @@ appmenu-about = دەربارەی { -brand-shorter-name }
     .accesskey = A
 appmenu-get-help = یارمەتی بەدەستبهێنە
     .label = یارمەتی بەدەستبهێنە
-    .accesskey = ک
+    .accesskey = ی
 appmenu-help-more-troubleshooting-info =
     .label = More troubleshooting information
     .accesskey = t
 appmenu-help-report-site-issue = کێشەی ماڵپەڕ بنێرە...
-    .label = Report site issue…
+    .label = کێشەی ماڵپەڕ بنێرە...
 appmenu-help-share-ideas =
     .label = Share ideas and feedback…
     .accesskey = پ
@@ -274,11 +270,11 @@ appmenu-help-exit-troubleshoot-mode =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site = ڕاپۆرتکردنی ماڵپەڕی گومڕاکەر
-    .label = Report deceptive site…
-    .accesskey = ڕ
+    .label = ڕاپۆرتکردنی ماڵپەڕی گومڕاکەر
+    .accesskey = ۆ
 appmenu-help-not-deceptive = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
-    .accesskey = ڕ
+    .accesskey = ن
 
 ## More Tools
 

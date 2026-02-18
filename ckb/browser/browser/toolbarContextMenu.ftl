@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-new-tab = .label = New تاب
-    .accesskey = w
     .label = بازدەری نوێ
     .accesskey = w
 toolbar-context-menu-reload-selected-tab = بازدەری دیاریکراو باربکەرەوە
@@ -23,12 +22,7 @@ toolbar-context-menu-select-all-tabs = هەموو بازدەرەکان دیار�
     .accesskey = پ
 # Variables
 #   $tabCount (number) - Number of tabs
-toolbar-context-menu-reopen-closed-tabs = .label =
-        { $tabCount ->
-            [1] Reopen Closed تاب
-           *[other] Reopen Closed تابs
-        }
-    .accesskey = o
+toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Reopen Closed Tab
@@ -90,11 +84,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
     .label = Never Show
     .accesskey = N
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 = .label = Only Show on New تاب
-    .accesskey = O
     .label = Only Show on New Tab
     .accesskey = O
 toolbar-context-menu-bookmarks-show-other-bookmarks = .label = Show Other دڵخوازەکان
-    .accesskey = h
     .label = Show Other Bookmarks
     .accesskey = ک
 toolbar-context-menu-menu-bar-cmd = شریتی پێڕست

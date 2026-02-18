@@ -7,22 +7,14 @@ rights-intro =
     { -brand-full-name } is free and open source software, built by a community
     of thousands from all over the world. There are a few things you should
     know:
-rights-intro-point-1 = { -brand-short-name } is made available to you under the terms of the
-    <a data-l10n-name="mozilla-public-license-link">مۆزیلا Public License</a>.
-    This means you may use, copy and distribute { -brand-short-name } to
-    others. You are also welcome to modify the source code of
-    { -brand-short-name } as you want to meet your needs. The مۆزیلا Public
-    License also gives you the right to distribute your modified versions.
+rights-intro-point-1 =
     { -brand-short-name } is made available to you under the terms of the
     <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>.
     This means you may use, copy and distribute { -brand-short-name } to
     others. You are also welcome to modify the source code of
     { -brand-short-name } as you want to meet your needs. The Mozilla Public
     License also gives you the right to distribute your modified versions.
-rights-intro-point-2 = You are not granted any trademark rights or licenses to the trademarks of
-    the مۆزیلا Foundation or any party, including without limitation the
-    فایەرفۆکس name or logo. Additional information on trademarks may be found
-    <a data-l10n-name="mozilla-trademarks-link">here</a>.
+rights-intro-point-2 =
     You are not granted any trademark rights or licenses to the trademarks of
     the Mozilla Foundation or any party, including without limitation the
     Firefox name or logo. Additional information on trademarks may be found
@@ -33,10 +25,7 @@ rights-intro-point-3 =
     to submit feedback, you give { -vendor-short-name } permission to use the
     feedback to improve its products, to publish the feedback on its websites,
     and to distribute the feedback.
-rights-intro-point-4 = How we use your personal information and feedback submitted to
-    { -vendor-short-name } through { -brand-short-name } is described in the
-    <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }
-    تایبەتمەندی Policy</a>.
+rights-intro-point-4 =
     How we use your personal information and feedback submitted to
     { -vendor-short-name } through { -brand-short-name } is described in the
     <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }
@@ -48,10 +37,7 @@ rights-intro-point-5 =
     error-free. More details, including information on how to disable the
     features that use these services, can be found in the
     <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
-rights-intro-point-5-unbranded = If this product incorporates web services, any applicable service terms for
-    the service(s) should be linked to the
-    <a data-l10n-name="mozilla-website-services-link"> وێبsite Services</a>
-    section.
+rights-intro-point-5-unbranded =
     If this product incorporates web services, any applicable service terms for
     the service(s) should be linked to the
     <a data-l10n-name="mozilla-website-services-link"> Website Services</a>

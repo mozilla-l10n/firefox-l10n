@@ -7,10 +7,10 @@ aboutDialog-title =
 releaseNotes-link = چی نوێ هەیە
 update-checkForUpdatesButton =
     .label = چێکردنی نوێکردنەوە
-    .accesskey = C
+    .accesskey = چ
 update-updateButton =
     .label = پێکردنەوە بۆ نوێکردنەوە { -brand-shorter-name }
-    .accesskey = R
+    .accesskey = پ
 update-checkingForUpdates = چێکردن بۆ نوێکردنەوە…
 
 ## Variables:

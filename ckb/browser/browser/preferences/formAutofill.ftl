@@ -51,7 +51,7 @@ autofill-add-address-title = Add address
 autofill-edit-address-title = دەستکاریکردنی ناونیشان
 autofill-address-given-name = ناوی یەکەم
 autofill-address-additional-name = ناوی باوک
-autofill-address-family-name = ناوی کۆتایی (نازناو)
+autofill-address-family-name = ناوی باپیر
 autofill-address-name = ناو
 autofill-address-organization = ڕێکخراو
 autofill-address-street-address = Street ناونیشان
@@ -124,7 +124,7 @@ autofill-add-new-address-title = Add New ناونیشان
 autofill-address-country = وڵات یان ناوچە
 autofill-address-country-only = وڵات
 autofill-address-tel = تەلەفۆن
-autofill-address-email = ئیمەیڵ
+autofill-address-email = پۆستی ئەلکترۆنی
 autofill-cancel-button = پاشگەزبوونەوە
 autofill-save-button = پاشەکەوتکردن
 autofill-country-warning-message = Form Autofill is currently available only for certain countries.
@@ -134,11 +134,7 @@ autofill-add-new-card-title = زیادکردنی کارتی قەرزی نوێ
 autofill-edit-card-title = Edit Credit Card
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt = { PLATFORM() ->
-        [macos] show credit card information
-        [windows] { -brand-short-name } is trying to show credit card information. Confirm access to this پەنجەرەs account below.
-       *[other] { -brand-short-name } is trying to show credit card information.
-    }
+autofill-edit-card-password-prompt =
     { PLATFORM() ->
         [macos] show credit card information
         [windows] { -brand-short-name } is trying to show credit card information. Confirm access to this Windows account below.

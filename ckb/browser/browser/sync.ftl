@@ -17,7 +17,7 @@ fxa-menu-turn-on-sync =
     .value = Turn on sync
 fxa-menu-turn-on-sync-default = Turn on sync
 fxa-menu-connect-another-device = پەیوەندی بکە بە ئامێرێکی تر...
-    .label = Connect another device…
+    .label = پەیوەندی بکە بە ئامێرێکی تر...
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 # The following string intentionally omits the word "tab" from the singular and includes it in the plural.
@@ -30,7 +30,7 @@ fxa-menu-send-to-device =
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device = { $tabCount } بازدەر بنێرە بۆ ئامێر
-    .label =
+    .label = 
         { $tabCount ->
             [1] Send tab to device
            *[other] Send { $tabCount } tabs to device
@@ -41,7 +41,7 @@ fxa-menu-send-tab-to-device-syncnotready = هاوکاتگەریکردنی ئام
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Send a tab instantly to any device you’re signed in on.
 fxa-menu-sign-out = بچۆ دەرەوە...
-    .label = Sign out…
+    .label = بچۆ دەرەوە...
 fxa-menu-sync-description = Access your web anywhere
 fxa-avatar-sign-in = چوونەژوورەوە
 fxa-avatar-sign-up = خۆتۆمارکردن

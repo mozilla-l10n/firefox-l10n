@@ -34,12 +34,12 @@ menu-application-touch-bar = تووڵی دەستلێدان(تەچ) بەدڵخو�
 
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit = وازهێنان
-    .label =
+    .label = 
         { PLATFORM() ->
             [windows] Exit
            *[other] Quit
         }
-    .accesskey =
+    .accesskey = 
         { PLATFORM() ->
             [windows] x
            *[other] Q
@@ -58,16 +58,16 @@ menu-file = پەڕگە
     .accesskey = پ
 menu-file-new-tab = بازدەری نوێ
     .label = بازدەری نوێ
-    .accesskey = ئ
+    .accesskey = ب
 menu-file-new-container-tab = بازدەری لەخۆگری نوێ
     .label = بازدەری لەخۆگری نوێ
-    .accesskey = b
+    .accesskey = ب
 menu-file-new-window = پەنجەرەی نوێ
     .label = پەنجەرەی نوێ
-    .accesskey = N
+    .accesskey = ێ
 menu-file-new-private-window = پەنجەرەی تایبەتی نوێ
     .label = پەنجەرەی تایبەتی نوێ
-    .accesskey = W
+    .accesskey = ت
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -75,15 +75,10 @@ menu-file-open-location = شوێنەکەی بکەرەوە...
     .label = شوێنەکەی بکەرەوە...
 menu-file-open-file = پەڕگە بکەرەوە...
     .label = پەڕگە بکەرەوە...
-    .accesskey = O
+    .accesskey = ک
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
-menu-file-close-tab = .label =
-        { $tabCount ->
-            [1] Close تاب
-           *[other] Close { $tabCount } تابs
-        }
-    .accesskey = C
+menu-file-close-tab =
     .label =
         { $tabCount ->
             [1] Close Tab
@@ -92,91 +87,88 @@ menu-file-close-tab = .label =
     .accesskey = C
 menu-file-close-window = پەنجەرە دابخە
     .label = پەنجەرە دابخە
-    .accesskey = ڕ
+    .accesskey = پ
 menu-file-save-page = پەرە پاشەکەوت بکە وەک...
     .label = پەرە پاشەکەوت بکە وەک...
-    .accesskey = A
+    .accesskey = ش
 menu-file-email-link = بەستەر بنێرە...
     .label = بەستەر بنێرە...
-    .accesskey = د
+    .accesskey = ت
 menu-file-share-url =
     .label = بڵاوکردنەوە
     .accesskey = ک
 menu-file-print-setup = ڕێکخستنی پەڕە
     .label = ڕێکخستنی پەڕە
-    .accesskey = u
+    .accesskey = ێ
 menu-file-print = چاپکردن...
     .label = چاپکردن...
-    .accesskey = P
+    .accesskey = چ
 menu-file-import-from-another-browser = هێنان لە وێبگەڕی ترەوە...
     .label = هێنان لە وێبگەڕی ترەوە...
-    .accesskey = I
+    .accesskey = ل
 menu-file-go-offline = بەدەرهێڵ کاربکە
     .label = بەدەرهێڵ کاربکە
-    .accesskey = k
+    .accesskey = ک
 
 ## Edit Menu
 
 menu-edit = .label = دەستکاری
-    .accesskey = د
     .label = دەستکاریکردن
-    .accesskey = د
+    .accesskey = ک
 menu-edit-find-in-page = .label = Find in لاپەڕە…
-    .accesskey = F
     .label = Find in Page…
     .accesskey = پ
 menu-edit-find-again = دووبارە بگەڕێ
     .label = دووبارە بگەڕێ
-    .accesskey = g
+    .accesskey = د
 menu-edit-bidi-switch-text-direction = ئاڕاستەی نووسین بگۆڕە
     .label = ئاڕاستەی نووسین بگۆڕە
-    .accesskey = w
+    .accesskey = ئ
 
 ## View Menu
 
 menu-view = .label = نیشاندان
-    .accesskey = ن
     .label = پیشاندان
-    .accesskey = ن
+    .accesskey = پ
 menu-view-toolbars-menu = توڵامراز
     .label = توڵامراز
-    .accesskey = ئ
+    .accesskey = ت
 menu-view-customize-toolbar2 =
     .label = Customize Toolbar…
     .accesskey = C
 menu-view-sidebar = لاتەنیشت
     .label = لاتەنیشت
-    .accesskey = e
+    .accesskey = ل
 menu-view-bookmarks = دڵخوازەکان
     .label = دڵخوازەکان
 menu-view-history-button = مێژوو
     .label = مێژوو
 menu-view-synced-tabs-sidebar = هاوکاتگەری بازدەرەکان
-    .label = بازدەرە هاوکاتگەرییەکان
+    .label = هاوکاتگەری بازدەرەکان
 menu-view-full-zoom = زووم
     .label = زووم
-    .accesskey = Z
+    .accesskey = ز
 menu-view-full-zoom-enlarge = هێنانەپێش
     .label = هێنانەپێش
-    .accesskey = I
+    .accesskey = ه
 menu-view-full-zoom-reduce = ڕۆچوونی
     .label = ڕۆچوونی
-    .accesskey = O
+    .accesskey = ۆ
 menu-view-full-zoom-actual-size = قەبارەی ڕاستی
     .label = قەبارەی ڕاستی
-    .accesskey = A
+    .accesskey = ق
 menu-view-full-zoom-toggle = تەنها دەقەکان زووم بکە
     .label = تەنها دەقەکان زووم بکە
-    .accesskey = ئ
+    .accesskey = ت
 menu-view-page-style-menu = شێوازی پەڕە
     .label = شێوازی پەڕە
-    .accesskey = y
+    .accesskey = ڕ
 menu-view-page-style-no-style = بێ شێواز
     .label = بێ شێواز
-    .accesskey = n
+    .accesskey = ێ
 menu-view-page-basic-style = شێوازی پەڕەی ئاسایی
     .label = شێوازی پەڕەی ئاسایی
-    .accesskey = د
+    .accesskey = س
 menu-view-repair-text-encoding =
     .label = Repair Text Encoding
     .accesskey = c
@@ -186,13 +178,13 @@ menu-view-repair-text-encoding =
 
 menu-view-enter-full-screen = بیکە پڕاوپڕی شاشە
     .label = بیکە پڕاوپڕی شاشە
-    .accesskey = پ
+    .accesskey = ی
 menu-view-exit-full-screen = لە پڕاوپڕی شاشە دەرچۆ
     .label = لە پڕاوپڕی شاشە دەرچۆ
-    .accesskey = پ
+    .accesskey = چ
 menu-view-full-screen = پڕاوپڕ
     .label = پڕاوپڕ
-    .accesskey = پ
+    .accesskey = ڕ
 
 ## These menu items may use the same accesskey.
 
@@ -209,23 +201,22 @@ menu-view-close-readerview = پیشاندەری خوێندنەوە دابخە
 
 menu-view-show-all-tabs = هەموو بازدەرەکان پیشان بدە
     .label = هەموو بازدەرەکان پیشان بدە
-    .accesskey = A
+    .accesskey = ب
 menu-view-bidi-switch-page-direction = ئاڕاستەی پەڕە بگۆڕە
     .label = ئاڕاستەی پەڕە بگۆڕە
-    .accesskey = D
+    .accesskey = ئ
 
 ## History Menu
 
 menu-history = .label = مێژوو
-    .accesskey = م
     .label = مێژوو
-    .accesskey = چ
+    .accesskey = م
 menu-history-show-all-history = هەموو مێژووی کار پیشان بدە
     .label = هەموو مێژووی کار پیشان بدە
 menu-history-clear-recent-history = دووا مێژووی بەکارهێنان بسڕەوە...
     .label = دووا مێژووی بەکارهێنان بسڕەوە...
 menu-history-synced-tabs = هاوکاتگەری بازدەرەکان
-    .label = بازدەرە هاوکاتگەرییەکان
+    .label = هاوکاتگەری بازدەرەکان
 menu-history-restore-last-session = دانیشتنی پێشوو بهێنەوە
     .label = دانیشتنی پێشوو بهێنەوە
 menu-history-hidden-tabs = بازدەری شاراوە
@@ -280,12 +271,11 @@ menu-profiles-menu =
 ## Tools Menu
 
 menu-tools = .label = ئامرازەکان
-    .accesskey = ئ
     .label = ئامرازەکان
-    .accesskey = ئ
+    .accesskey = م
 menu-tools-downloads = داگرتنەکان
     .label = داگرتنەکان
-    .accesskey = D
+    .accesskey = د
 menu-tools-extensions-and-themes =
     .label = Extensions and Themes
     .accesskey = د
@@ -293,7 +283,6 @@ menu-tools-addons-and-themes =
     .label = پاشکۆکان و ڕووکارەکان
     .accesskey = A
 menu-tools-fxa-sign-in2 = .label = چوونەژوورەوە
-    .accesskey = چ
     .label = بچۆژوورەوە
     .accesskey = g
 menu-tools-turn-on-sync2 =
@@ -301,24 +290,22 @@ menu-tools-turn-on-sync2 =
     .accesskey = n
 menu-tools-sync-now = هاوکاتگەری بکە ئێستا
     .label = هاوکاتگەری بکە ئێستا
-    .accesskey = o
+    .accesskey = ه
 menu-tools-fxa-re-auth = دووبارە ببەستەوە بۆ { -brand-product-name }…
     .label = دووبارە ببەستەوە بۆ { -brand-product-name }…
-    .accesskey = R
+    .accesskey = ب
 menu-tools-browser-tools = .label = وێبگەڕ Tools
-    .accesskey = B
     .label = Browser Tools
     .accesskey = د
 menu-tools-task-manager = .label = بەڕێوەبەری ئەرکەکان
-    .accesskey = ب
     .label = بەڕێوەبردنی تاسک (ئەرک)
     .accesskey = M
 menu-tools-page-source = سەرچاوەی پەڕە
     .label = سەرچاوەی پەڕە
-    .accesskey = o
+    .accesskey = س
 menu-tools-page-info = زانیاری پەڕە
     .label = زانیاری پەڕە
-    .accesskey = I
+    .accesskey = ز
 menu-settings =
     .label = ڕێکخستنەکان
     .accesskey =
@@ -328,7 +315,7 @@ menu-settings =
         }
 menu-tools-layout-debugger = نەخشەی هەڵەدۆزی
     .label = نەخشەی هەڵەدۆزی
-    .accesskey = L
+    .accesskey = ڵ
 
 ## Window Menu
 
@@ -349,11 +336,9 @@ menu-window-bring-all-to-front = هەمووی بهێنە پێشەوە
 # where the strings appear.
 
 menu-help = .label = یارمەتی
-    .accesskey = ی
     .label = یارمەتی
     .accesskey = ی
 menu-get-help = .label = Get یارمەتی
-    .accesskey = H
     .label = Get یارمەتی
     .accesskey = ی
 menu-help-more-troubleshooting-info =
@@ -377,9 +362,9 @@ menu-help-switch-device =
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site = ڕاپۆرتکردنی ماڵپەڕی گومڕاکەر
     .label = ڕاپۆرتکردنی ماڵپەڕی گومڕاکەر
-    .accesskey = D
+    .accesskey = ۆ
 menu-help-not-deceptive = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
-    .accesskey = D
+    .accesskey = ن
 menu-report-broken-site = .label = Report Broken ماڵپەڕ
     .label = Report Broken Site

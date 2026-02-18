@@ -23,19 +23,15 @@ synced-tabs-context-open = کردنەوە
     .label = کردنەوە
     .accesskey = O
 synced-tabs-context-open-in-tab = .label = Open in New تاب
-    .accesskey = w
     .label = Open in New تاب
     .accesskey = w
 synced-tabs-context-open-in-container-tab = .label = Open in New Container تاب
-    .accesskey = i
     .label = Open in New Container Tab
     .accesskey = i
 synced-tabs-context-open-in-window = .label = Open in New پەنجەرە
-    .accesskey = N
     .label = Open in New Window
     .accesskey = N
 synced-tabs-context-open-in-private-window = .label = Open in New Private پەنجەرە
-    .accesskey = P
     .label = Open in New Private Window
     .accesskey = P
 
@@ -47,7 +43,6 @@ synced-tabs-context-open-in-private-window = .label = Open in New Private پەن
 # string is located in tabContextMenu.ftl. So, this string should be translated
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark = .label = Bookmark تاب…
-    .accesskey = B
     .label = Bookmark Tab…
     .accesskey = د
 synced-tabs-context-copy = لەبەرگرتنەوە

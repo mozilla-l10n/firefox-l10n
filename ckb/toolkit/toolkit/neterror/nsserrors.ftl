@@ -12,7 +12,6 @@ psmerr-ssl-disabled = ناتوانیت بە شێوەیەکی پارێزراو پ
 psmerr-ssl2-disabled = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت چونکە ئەم ناونیشانە وەشانێکی کۆنی پرۆتۆکۆلی SSL  ی بەکارهێناوە.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial = تۆ بروانامەیەکی نادیارت پێگەشتوە، تکایە پەیوەندی بکە بە بەرێوەبەری سێرڤەر یان ئیمەیل بەکاربهێنە و ئەم زانیاریانەیان پێبدە:
-بروانامەکەی تۆ هەمان زنجیرە ژمارەیان هەیە لەگەل بروانامەیەکی تر کە لەلایەن نوسەری بروانامەکان تێبینی کراوە. تکایە بروانامەیەکی نوێ وەربگرە کە زنجیرە ژمارەیەکی تایبەتی هەبێ.
     You have received an invalid certificate. Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority. Please get a new certificate containing a unique serial number.

@@ -143,7 +143,6 @@ contextual-manager-passwords-username-label = ناوی بەکارهێنەر
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = تێپەڕەوشە
     .data-after = Copied
-    .data-after = Copied
 contextual-manager-passwords-radiogroup-label =
     .aria-label = Filter passwords
 # Variables
@@ -163,11 +162,7 @@ contextual-manager-passwords-update-username-success-heading-3 =
     .heading = Username saved
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
-contextual-manager-passwords-delete-password-success-heading = .heading =
-        { $total ->
-            [1] Password removed
-           *[other] تێپەڕەوشەکان removed
-        }
+contextual-manager-passwords-delete-password-success-heading =
     .heading =
         { $total ->
             [1] Password removed
@@ -197,14 +192,12 @@ contextual-manager-passwords-alert-back-button = .label = گەڕانەوە
     .label = دواوە
 contextual-manager-passwords-alert-list =
     .aria-label = Alert list
-contextual-manager-passwords-breached-origin-heading-and-message = .heading = Password change recommended
-    .message = تێپەڕەوشەکان from this website were reported stolen or leaked. Change your password to protect your account.
+contextual-manager-passwords-breached-origin-heading-and-message =
     .heading = Password change recommended
     .message = Passwords from this website were reported stolen or leaked. Change your password to protect your account.
 contextual-manager-passwords-breached-origin-link-message = How does { -brand-product-name } know about breaches?
 contextual-manager-passwords-change-password-button = Change password
 contextual-manager-passwords-vulnerable-password-heading-and-message = .heading = تێپەڕەوشە change recommended
-    .message = This password is easily guessable. Change your password to protect your account.
     .heading = Password change recommended
     .message = This password is easily guessable. Change your password to protect your account.
 contextual-manager-passwords-vulnerable-password-link-message = How does { -brand-product-name } know about weak passwords?

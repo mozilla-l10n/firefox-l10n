@@ -5,7 +5,7 @@
 addons-page-title = بەڕێوەبەری پێوەکراوەکان
 search-header = بگەڕێ لە addons.Mozilla.org
     .placeholder = بگەڕێ لە addons.Mozilla.org
-    .searchbuttonlabel = گەڕان
+    .searchbuttonlabel = بگەڕێ
 
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
@@ -44,19 +44,19 @@ addon-detail-description-expand = Show more
 addon-detail-description-collapse = Show less
 detail-contributions-description = پەرەپێدەری ئەم پاشکۆیە داوات لێ دەکات کە یارمەتی بدەیت لە بەردەوامبوونی پەرەپێدانەکەیدا لە ڕێگەی پێشکەشکردنی هاوکارییەکی بچووکەوە.
 detail-contributions-button = بەشداری
-    .title = Contribute to the development of this add-on
+    .title = بەشدار بە لە گەشەپێدانی ئەم پێوەکراوە
     .accesskey = C
 detail-update-type = نوێکردنەوەی خۆکار
     .value = نوێکردنەوەی خۆکار
 detail-update-default = بنەڕەت
     .label = بنەڕەت
-    .tooltiptext = Automatically install updates only if that’s the default
+    .tooltiptext = خۆکارانە نوێکردنەوە دابمەزرێنە ئەگەر بنەڕەت کرابوو
 detail-update-automatic = کارا
     .label = کارا
-    .tooltiptext = Automatically install updates
+    .tooltiptext = دامەزراندنی خۆکارانەی نوێکاری
 detail-update-manual = ناکارا
     .label = ناکارا
-    .tooltiptext = Don’t automatically install updates
+    .tooltiptext = دانەمەزراندنی خۆکارانەی نوێکاری
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = لە پەنجەرەیەکی تایبەت بیکەرەوە
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
@@ -68,10 +68,10 @@ detail-private-required-label = پێویستی بە چوونەناوە بۆ پە
 detail-private-required-description2 = ئەم پاشکۆیە دەستی بە چالاکییەکانی سەر هێڵت دەگات لە کاتی گەڕانی تایبەتدا. <a data-l10n-name="learn-more">زیاتر فێربە</a>
 detail-private-browsing-on = ڕێگەبدە
     .label = ڕێگەبدە
-    .tooltiptext = Enable in Private Browsing
+    .tooltiptext = چالاک کردنی لە گەڕانی تایبەت
 detail-private-browsing-off = ڕێگە مەدە
     .label = ڕێگە مەدە
-    .tooltiptext = Disable in Private Browsing
+    .tooltiptext = ناچالاک کردنی لە گەڕانی تایبەت
 detail-home = پەڕەی سەرەکی
     .label = پەڕەی سەرەکی
 detail-home-value =
@@ -82,20 +82,20 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates = چێکردنی نوێکردنەوە
     .label = چێکردنی نوێکردنەوە
-    .accesskey = U
-    .tooltiptext = Check for updates for this add-on
+    .accesskey = چ
+    .tooltiptext = چێکردنی نوێکردنەوە بۆ ئەم زیادکراوە
 detail-show-preferences = هەڵبژاردنەکان
-    .label =
+    .label = 
         { PLATFORM() ->
             [windows] Options
            *[other] Preferences
         }
-    .accesskey =
+    .accesskey = 
         { PLATFORM() ->
             [windows] O
            *[other] P
         }
-    .tooltiptext =
+    .tooltiptext = 
         { PLATFORM() ->
             [windows] Change this add-on’s options
            *[other] Change this add-on’s preferences
@@ -118,11 +118,7 @@ legacy-warning-show-legacy = زیادکراوە کۆنەکان پیشان بدە
 legacy-extensions = زیادکراوە کۆنەکان
     .value = زیادکراوە کۆنەکان
 legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
-private-browsing-description2 = { -brand-short-name } is changing how extensions work in private browsing. Any new extensions you add to
-    { -brand-short-name } won’t run by default in Private پەنجەرەs. Unless you allow it in settings, the
-    extension won’t work while private browsing, and won’t have access to your online activities
-    there. We’ve made this change to keep your private browsing private.
-    <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
+private-browsing-description2 =
     { -brand-short-name } is changing how extensions work in private browsing. Any new extensions you add to
     { -brand-short-name } won’t run by default in Private Windows. Unless you allow it in settings, the
     extension won’t work while private browsing, and won’t have access to your online activities
@@ -169,12 +165,12 @@ extensions-warning-safe-mode2 = هەموو پیوەکراوەکان ناچالا
 extensions-warning-check-compatibility2 =
     .message = Add-on compatibility checking is disabled. You may have incompatible add-ons.
 extensions-warning-check-compatibility-button = چالاک
-    .title = Enable add-on compatibility checking
+    .title = چێکردنی گونجاندنی پێوکراو چالاک بکە
 extensions-warning-update-security = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security2 =
     .message = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security-button = چالاک
-    .title = Enable add-on update security checking
+    .title = چێکردنی پاراستنی نوێکاری پیوەکراو چالاک بکە
 extensions-warning-imported-addons2 =
     .message = Please finalize the installation of extensions that were imported to { -brand-short-name }.
 extensions-warning-imported-addons-button = Install پاشکۆs
@@ -192,7 +188,7 @@ addon-updates-view-updates = دووا نوێکاری پیشان بدە
 # add-on update checking.
 
 addon-updates-update-addons-automatically = نوێکردنەوەی پێوەکراوەکان خۆکارانەیە
-    .accesskey = A
+    .accesskey = ن
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -215,7 +211,7 @@ addon-updates-manual-updates-found = نوێکاری بەردەست پیشان ب
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = دامەزراندنی پێوەکراو لە پەڕگەوە...
-    .accesskey = I
+    .accesskey = پ
 # Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
 # pref is set.
 addon-install-or-update-from-file = Install or Update Add-on From File…
@@ -223,13 +219,13 @@ addon-install-or-update-from-file = Install or Update Add-on From File…
 addon-install-from-file-dialog-title = پێوەکراو هەڵبژێرە بۆ دامەزراندن
 addon-install-from-file-filter-name = پێوەکراوەکان
 addon-open-about-debugging = هەڵەدۆزی پێوەکراوە
-    .accesskey = b
+    .accesskey = ڵ
 
 ## Extension shortcut management
 
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = بەڕێوەبردنی قەدبڕەکانی پێوەکراوە
-    .accesskey = پ
+    .accesskey = ب
 shortcuts-no-addons = هیچ پێوەکراوێکی چالاکت نیە.
 shortcuts-no-commands = ئەم پێوەکراوانە قەدبڕیان نیە:
 shortcuts-input = قەدبڕێک بنووسە
@@ -283,13 +279,11 @@ discopane-intro =
     security, performance, and functionality.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = هەندێک لە پێشنیازکراوەکان لە ڕێکخستنی خۆتەوە وەرگیراوە. بنچینە کراون لەسەر زیادکراوەکانی تر
-کە پێشتر داتمەزراندووە، هەڵبژاردنەکانی پرۆفایل، ئاماری بەکارهێنان.
     Some of these recommendations are personalized. They are based on other
     extensions you’ve installed, profile preferences, and usage statistics.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 = هەندێک لە پێشنیازکراوەکان لە ڕێکخستنی خۆتەوە وەرگیراوە. بنچینە کراون لەسەر زیادکراوەکانی تر
-کە پێشتر داتمەزراندووە، هەڵبژاردنەکانی پرۆفایل، ئاماری بەکارهێنان.
-    .message =
+    .message = 
         Some of these recommendations are personalized. They are based on other
         extensions you’ve installed, profile preferences, and usage statistics.
 discopane-notice-learn-more = زیاتر بزانە
@@ -330,11 +324,7 @@ addon-options-button = کرداری زیاتر
 # ("recommends") in the final sentence is a link to external documentation.
 # We hard code "Firefox" because we do not want to imply that a Firefox fork is
 # making this recommendation.
-discopane-intro3 = Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
-    enhance productivity, improve media, change the way { -brand-product-name } looks, and
-    so much more. These small software programs are often developed by a third party. Here’s
-    a selection فایەرفۆکس <a data-l10n-name="learn-more-trigger">recommends</a> for
-    exceptional security, performance, and functionality.
+discopane-intro3 =
     Extensions and themes let you customize { -brand-product-name }. They can boost privacy,
     enhance productivity, improve media, change the way { -brand-product-name } looks, and
     so much more. These small software programs are often developed by a third party. Here’s
@@ -361,8 +351,8 @@ preferences-addon-button = هەڵبژاردنەکان
 details-addon-button = وردەکاری
 release-notes-addon-button = تێبینییەکانی بڵاوکراوە
 permissions-addon-button = ڕێگەپێدانەکان
-extension-enabled-heading = چالاککراوە
-extension-disabled-heading = ناچالاککراوە
+extension-enabled-heading = چالاکە
+extension-disabled-heading = ناچالاکە
 theme-enabled-heading = چالاکە
 theme-disabled-heading2 = Saved ڕووکارs
 plugin-enabled-heading = چالاکە
@@ -464,7 +454,6 @@ addon-badge-recommended2 =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 = .title = Official extension built by مۆزیلا. Meets security and performance standards
-    .aria-label = { addon-badge-line3.title }
     .title = Official extension built by Mozilla. Meets security and performance standards
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =

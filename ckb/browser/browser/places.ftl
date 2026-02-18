@@ -6,32 +6,26 @@ places-open = کردنەوە
     .label = کردنەوە
     .accesskey = O
 places-open-in-tab = .label = Open in New تاب
-    .accesskey = w
     .label = Open in New تاب
     .accesskey = w
 places-open-in-container-tab = .label = Open in New Container تاب
-    .accesskey = i
     .label = Open in New Container Tab
     .accesskey = i
 places-open-all-bookmarks = .label = Open All دڵخوازەکان
-    .accesskey = O
     .label = Open All Bookmarks
     .accesskey = O
 places-open-all-in-tabs = هەمووی لە ناو بازدەرەکان بکەرەوە
     .label = هەمووی لە ناو بازدەرەکان بکەرەوە
     .accesskey = O
 places-open-in-window = .label = Open in New پەنجەرە
-    .accesskey = N
     .label = Open in New Window
     .accesskey = N
 places-open-in-private-window = .label = Open in New Private پەنجەرە
-    .accesskey = P
     .label = Open in New Private Window
     .accesskey = P
 places-empty-bookmarks-folder = (بەتاڵ)
     .label = (بەتاڵ)
 places-add-bookmark = .label = Add دڵخواز…
-    .accesskey = B
     .label = Add Bookmark…
     .accesskey = د
 places-add-folder-contextmenu =
@@ -71,7 +65,6 @@ places-delete-domain-data = دەربارەی ئەم ماڵپەڕە لە بیرب
     .label = دەربارەی ئەم ماڵپەڕە لە بیربکە
     .accesskey = پ
 places-forget-domain-data = .label = Forget About This ماڵپەڕ…
-    .accesskey = F
     .label = Forget About This Site…
     .accesskey = پ
 places-sortby-name = بەپێی ناو
@@ -79,7 +72,6 @@ places-sortby-name = بەپێی ناو
     .accesskey = r
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark = .label = Edit دڵخواز…
-    .accesskey = E
     .label = Edit Bookmark…
     .accesskey = د
 places-edit-generic =
@@ -100,7 +92,7 @@ places-delete-folder =
 # Variables:
 #   $count (number) - The number of pages selected for removal.
 places-delete-page = پەڕەکان بسڕەوە
-    .label =
+    .label = 
         { $count ->
             [1] Delete Page
            *[other] Delete Pages
@@ -120,12 +112,7 @@ places-show-in-folder =
     .accesskey = پ
 # Variables:
 # $count (number) - The number of elements being selected for removal.
-places-delete-bookmark = .label =
-        { $count ->
-            [1] Delete Bookmark
-           *[other] Delete دڵخوازەکان
-        }
-    .accesskey = D
+places-delete-bookmark =
     .label =
         { $count ->
             [1] Delete Bookmark
@@ -134,12 +121,7 @@ places-delete-bookmark = .label =
     .accesskey = D
 # Variables:
 #   $count (number) - The number of bookmarks being added.
-places-create-bookmark = .label =
-        { $count ->
-            [1] Bookmark لاپەڕە…
-           *[other] Bookmark لاپەڕەs…
-        }
-    .accesskey = B
+places-create-bookmark =
     .label =
         { $count ->
             [1] Bookmark Page…
@@ -150,7 +132,6 @@ places-untag-bookmark =
     .label = Remove Tag
     .accesskey = R
 places-manage-bookmarks = .label = Manage دڵخوازەکان
-    .accesskey = M
     .label = Manage Bookmarks
     .accesskey = M
 places-forget-about-this-site-confirmation-title = Forgetting about this site
@@ -162,11 +143,11 @@ places-library3 = کتێبخانە
     .title = کتێبخانە
 places-organize-button = ڕێکخستنەوە
     .label = ڕێکخستنەوە
-    .tooltiptext = Organize your bookmarks
+    .tooltiptext = ڕێککردنەوەی دڵخوازەکانت
     .accesskey = O
 places-organize-button-mac = ڕێکخستنەوە
     .label = ڕێکخستنەوە
-    .tooltiptext = Organize your bookmarks
+    .tooltiptext = ڕێککردنەوەی دڵخوازەکانت
 places-file-close = داخستن
     .label = داخستن
     .accesskey = C
@@ -174,11 +155,11 @@ places-cmd-close =
     .key = w
 places-view-button = پیشاندان
     .label = پیشاندان
-    .tooltiptext = Change your view
+    .tooltiptext = بینین بگۆڕە
     .accesskey = ن
 places-view-button-mac = پیشاندان
     .label = پیشاندان
-    .tooltiptext = Change your view
+    .tooltiptext = بینین بگۆڕە
 places-view-menu-columns = ستوونەکان پیشان بدە
     .label = ستوونەکان پیشان بدە
     .accesskey = C
@@ -196,11 +177,11 @@ places-view-sort-descending = ڕێکخستن بە شێوەی Z > A
     .accesskey = Z
 places-maintenance-button = هێنان و پاڵپشتی (باکئەپ)
     .label = هێنان و پاڵپشتی (باکئەپ)
-    .tooltiptext = Import and backup your bookmarks
+    .tooltiptext = هێنانی پاڵپشتیکردنی دڵخوازەکانت (باکئەپ)
     .accesskey = I
 places-maintenance-button-mac = هێنان و پاڵپشتی (باکئەپ)
     .label = هێنان و پاڵپشتی (باکئەپ)
-    .tooltiptext = Import and backup your bookmarks
+    .tooltiptext = هێنانی پاڵپشتیکردنی دڵخوازەکانت (باکئەپ)
 places-cmd-backup = پاڵپشتی...
     .label = پاڵپشتی...
     .accesskey = د
@@ -232,7 +213,7 @@ places-view-sort-col-visit-count = ژمارەی سەردانیکردن
 places-view-sort-col-date-added = زیادکرا
     .label = زیادکرا
 places-view-sort-col-last-modified = دووا دەستکاریکراو
-    .label = دووا دەستکاری
+    .label = دووا دەستکاریکراو
 places-view-sortby-name = بەپێی ناو
     .label = بەپێی ناو
     .accesskey = N

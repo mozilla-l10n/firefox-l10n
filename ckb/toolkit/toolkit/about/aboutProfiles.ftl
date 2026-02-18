@@ -48,8 +48,6 @@ profiles-delete-profile-title = سرینەوەی پەڕەی کەسی
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm = سڕینەوەی پەڕەیەکی کەسی وادەکات لە لیستی پەڕە کەسیە بەردەستەکانیشدا بسڕدرێتەوە.
-ڕەنگیشە بتەوێت بژاردەی سڕینەوەی زانیاری پەڕە کەسیەکە هەڵبژێریت ، کە ڕێکخستن و بڕوانامە و زانیاریە پەیوەندیدارەکان بە کارەوە دەسڕێتەوە. ئەم بژاردەیە بوخچەی "{ $dir }" دەسڕێتەوە کە ناتوانرێت بهێنرێتەوە.
-دەتەوێت بوخچەی زانیاری پەڕە کەسیەکەت بسڕیتەوە؟
     Deleting a profile will remove the profile from the list of available profiles and cannot be undone.
     You may also choose to delete the profile data files, including your settings, certificates and other user-related data. This option will delete the folder “{ $dir }” and cannot be undone.
     Would you like to delete the profile data files?

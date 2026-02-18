@@ -122,7 +122,7 @@ login-item-new-login-title = چوونەژوورەوە دروست بکە
 # Header for adding a password
 about-logins-login-item-new-login-title = زیادکردنی تێپەڕەوشە
 login-item-edit-button = دەستکاریکردن
-about-logins-login-item-remove-button = لادان
+about-logins-login-item-remove-button = بیسڕەوە
 login-item-origin-label = ناونیشانی ماڵپەڕ
 login-item-tooltip-message = دڵنیابەرەوە لەوەی ئەمە هاوتایە لەگەڵ ناونیشانی تەواوەتیی ئەو وێبگەیەی لێوەی چوویتەتە ژوورەوە.
 about-logins-origin-tooltip2 = ناونیشانە تەواوەکە بنووسە و دڵنیابەرەوە کە هاوتایەکی تەواوە بۆ ئەو شوێنەی لێی دەچیتە ژوورەوە.
@@ -211,7 +211,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = ناردنی دە�
 about-logins-primary-password-notification-message = تکایە وشەنهێنی سەرەکی بنوسە بۆ بینینی وشەی بەکارهێنەر و نهێنیە پاشەکەوتکراوەکانت
 master-password-reload-button = بچۆژوورەوە
     .label = بچۆژوورەوە
-    .accesskey = L
+    .accesskey = ب
 
 ## Dialogs
 
@@ -229,10 +229,7 @@ about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
 ## Variables
 ##   $count (number) - Number of items
 
-about-logins-confirm-remove-all-dialog-confirm-button-label = { $count ->
-        [1] سڕینەوە
-       *[other] سڕینەوەی هەمووی
-    }
+about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remove
        *[other] Remove All
@@ -269,37 +266,25 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 = { $count ->\n        [1
        *[other] Yes, remove passwords
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
-about-logins-confirm-remove-all-dialog-title2 = { $count ->
-        [one] { $count } تێپەڕەوشە بسڕێتەوە؟
-       *[other] هەموو { $count } تێپەڕەوشەکە بسڕێتەوە؟
-    }
+about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Remove { $count } password?
        *[other] Remove all { $count } passwords?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
-about-logins-confirm-remove-all-dialog-message2 = { $count ->
-        [1] ئەمە ئەو تێپەڕەوشەیەی پاشەکەوتکراوە لە فایەرفۆکس و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-       *[other] ئەمە ئەو تێپەڕەوشانەی پاشەکەوتکراون لە فایەرفۆکس و هەر ئاگادارییەکی دزەکردن دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-    }
+about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] This will remove the password saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
        *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
-about-logins-confirm-remove-all-sync-dialog-title2 = { $count ->
-        [one] { $count } تێپەڕەوشە لە هەموو ئامێرەکان بسڕێتەوە؟
-       *[other] هەموو { $count } تێپەڕەوشەکە لە هەموو ئامێرەکان بسڕێتەوە؟
-    }
+about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Remove { $count } password from all devices?
        *[other] Remove all { $count } passwords from all devices?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
-about-logins-confirm-remove-all-sync-dialog-message3 = { $count ->
-        [1] ئەمە ئەو تێپەڕەوشەیەی لە فایەرفۆکس پاشەکەوتکراوە لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-       *[other] ئەمە هەموو ئەو تێپەڕەوشانەی لە فایەرفۆکس پاشەکەوتکراون لەسەر هەموو ئامێرە هاوکاتکراوەکانت دەسڕێتەوە. ناتوانیت پاشگەز ببیتەوە.
-    }
+about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] This will remove the password saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
        *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
@@ -307,8 +292,8 @@ about-logins-confirm-remove-all-sync-dialog-message3 = { $count ->
 
 ##
 
-about-logins-confirm-export-dialog-title = ناردنی دەرەکیی تێپەڕەوشەکان
-about-logins-confirm-export-dialog-message = تێپەڕەوشەکانت لە پەڕگەیەکدا پاشەکەوت دەکرێن کە هەر کەسێک دەستی بە کۆمپیوتەرەکەت بگات دەتوانێت بیخوێنێتەوە.
+about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
+about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
 about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
 about-logins-confirm-export-dialog-title2 = تێبینییەک دەربارەی ناردنی دەرەکیی تێپەڕەوشەکان
 about-logins-confirm-export-dialog-message2 = کاتێک ناردنی دەرەکی دەکەیت، تێپەڕەوشەکانت لە پەڕگەیەکدا بە دەقێکی خوێنراوە پاشەکەوت دەکرێن.\n    کاتێک کارەکەت تەواو بوو، پێشنیار دەکەین پەڕگەکە بسڕیتەوە بۆ ئەوەی کەسانی تر کە ئەم ئامێرە بەکاردێنن نەتوانن تێپەڕەوشەکانت ببینن.

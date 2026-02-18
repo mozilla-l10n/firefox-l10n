@@ -54,7 +54,7 @@ import-from-chromium =
     .accesskey = u
 import-from-firefox =
     .label = فایەرفۆکس
-    .accesskey = x
+    .accesskey = X
 import-from-360se = وێبگەڕی پارێزراوی ٣٦٠
     .label = وێبگەڕی پارێزراوی ٣٦٠
     .accesskey = 3
@@ -96,17 +96,17 @@ imported-edge-reading-list = لیستی خوێندنەوە (لە Edge ەوە)
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-cookies-checkbox = شەکرۆکەکان
-    .label = شەکرۆکە
+    .label = شەکرۆکەکان
 browser-data-cookies-label = شەکرۆکەکان
-    .value = شەکرۆکە
+    .value = شەکرۆکەکان
 browser-data-history-checkbox = مێژووی وێبگەڕی
-    .label =
+    .label = 
         { $browser ->
             [firefox] Browsing History and Bookmarks
            *[other] Browsing History
         }
 browser-data-history-label = مێژووی وێبگەڕی
-    .value =
+    .value = 
         { $browser ->
             [firefox] Browsing History and Bookmarks
            *[other] Browsing History
@@ -124,14 +124,14 @@ browser-data-passwords-checkbox = چوونەژوورەوە و وشەی تێپە�
 browser-data-passwords-label = چوونەژوورەوە و وشەی تێپەڕە پاشەکەوتکراوەکان
     .value = چوونەژوورەوە و وشەی تێپەڕە پاشەکەوتکراوەکان
 browser-data-bookmarks-checkbox = جێنیشانه‌که‌ر
-    .label =
+    .label = 
         { $browser ->
             [ie] Favorites
             [edge] Favorites
            *[other] Bookmarks
         }
 browser-data-bookmarks-label = جێنیشانه‌که‌ر
-    .value =
+    .value = 
         { $browser ->
             [ie] Favorites
             [edge] Favorites

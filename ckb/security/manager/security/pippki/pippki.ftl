@@ -25,7 +25,6 @@ pippki-pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requi
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 = .title = Reset Primary تێپەڕەوشە
-    .style = min-width: 40em
     .title = Reset Primary تێپەڕەوشە
     .style = min-width: 40em
 reset-password-button-label =

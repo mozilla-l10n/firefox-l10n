@@ -26,10 +26,6 @@ about-glean-upload-enabled = زانیاری upload is enabled.
 about-glean-upload-disabled = زانیاری upload is disabled.
 about-glean-upload-enabled-local = زانیاری upload is enabled only for sending to a local server.
 about-glean-upload-fake-enabled = زانیاری upload is disabled,
-    but we’re lying and telling the { glean-sdk-brand-name } it is enabled
-    so that data is still recorded locally.
-    Note: If you set a debug tag, pings will be uploaded to the
-    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> regardless of settings.
     Data upload is disabled,
     but we’re lying and telling the { glean-sdk-brand-name } it is enabled
     so that data is still recorded locally.
@@ -53,8 +49,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-about-glean-additional-links = For an explanation of different ways to record and find data, please reference the
-    <strong>دەربارەی Data</strong> tab.
+about-glean-additional-links =
     For an explanation of different ways to record and find data, please reference the
     <strong>About Data</strong> tab.
 about-glean-about-testing-header = دەربارەی Testing

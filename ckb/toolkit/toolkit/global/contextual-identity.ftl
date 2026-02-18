@@ -26,4 +26,4 @@ user-context-none =
     .accesskey = N
 user-context-manage-containers = ڕێکخستنی لەخۆگرەکان
     .label = ڕێکخستنی لەخۆگرەکان
-    .accesskey = o
+    .accesskey = ڕ

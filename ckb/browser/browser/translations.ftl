@@ -120,7 +120,6 @@ translations-panel-restore-button =
 
 translations-manage-header = بەڕێوەبردنی زمانەکان
 translations-manage-settings-button = .label = ڕێکخستنەکان…
-    .accesskey = t
     .label = ڕێکخستنەکان...
     .accesskey = t
 translations-manage-description = زمانەکان دابەزێنە بۆ وەرگێڕانی بەبێ هێڵ (offline).
@@ -144,7 +143,6 @@ translations-manage-error-delete = There was an error deleting the language file
 translations-manage-error-remove = There was an error removing the language files. Please try again.
 translations-manage-error-list = Failed to get the list of available languages for translation. Refresh the page to try again.
 translations-settings-title = .title = Translations ڕێکخستنەکان
-    .style = min-width: 36em
     .title = Translations Settings
     .style = min-width: 36em
 translations-settings-close-key =
@@ -163,11 +161,9 @@ translations-settings-remove-all-languages-button =
 translations-settings-sites-column = .label = وێبsites
     .label = ماڵپەڕەکان
 translations-settings-remove-site-button = .label = Remove ماڵپەڕ
-    .accesskey = S
     .label = ماڵپەڕ بسڕەوە
     .accesskey = پ
 translations-settings-remove-all-sites-button = .label = Remove All ماڵپەڕs
-    .accesskey = m
     .label = هەموو ماڵپەڕەکان بسڕەوە
     .accesskey = خ
 translations-settings-close-dialog =

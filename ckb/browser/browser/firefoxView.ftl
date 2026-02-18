@@ -110,10 +110,8 @@ firefoxview-overview-header = Recent browsing
 
 firefoxview-history-nav = History
     .title = مێژوو
-    .title = مێژوو
 firefoxview-history-header = مێژوو
 firefoxview-history-context-delete = Delete from مێژوو
-    .accesskey = D
     .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
@@ -131,7 +129,6 @@ firefoxview-recently-closed-header = Recently closed tabs
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
 firefoxview-synced-tabs-nav = تابs from other devices
-    .title = تابs from other devices
     .title = تابs from other devices
 firefoxview-synced-tabs-header = تابs from other devices
 

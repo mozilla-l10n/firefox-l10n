@@ -26,12 +26,12 @@ site-data-remove-selected = دیاریکراو بسڕەوە
     .accesskey = R
 site-data-settings-dialog = گۆڕانکارییەکان هەڵگرە
     .buttonlabelaccept = گۆڕانکارییەکان هەڵگرە
-    .buttonaccesskeyaccept = ه
+    .buttonaccesskeyaccept = گ
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
-    .value = { $value } { $unit }
+    .value = { $value }{ $unit }
 site-storage-persistent = { site-storage-usage.value } (بەردەوام بوو)
     .value = { site-storage-usage.value } (بەردەوام بوو)
 site-data-remove-all = هەمووی بسڕەوە

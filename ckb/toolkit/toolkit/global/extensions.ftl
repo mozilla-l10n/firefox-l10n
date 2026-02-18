@@ -143,9 +143,7 @@ webext-site-perms-header-with-gated-perms-midi-sysex = This add-on gives { $host
 # This string is used as description in the webextension permissions dialog for synthetic add-ons.
 # Note, the empty line is used to create a line break between the two sections.
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
-webext-site-perms-description-gated-perms-midi = These are usually plug-in devices like audio synthesizers, but might also be built into your computer.
-    
-    وێبsites are normally not allowed to access MIDI devices. Improper usage could cause damage or compromise security.
+webext-site-perms-description-gated-perms-midi =
     These are usually plug-in devices like audio synthesizers, but might also be built into your computer.
     
     Websites are normally not allowed to access MIDI devices. Improper usage could cause damage or compromise security.

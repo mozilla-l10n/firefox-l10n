@@ -36,11 +36,11 @@ clear-time-duration-prefix2 =
     .value = When:
     .accesskey = W
 clear-time-duration-value-last-hour = کۆتا کاژێر
-    .label = Last hour
+    .label = کۆتا کاژێر
 clear-time-duration-value-last-2-hours = کۆتا دوو کاژێر
-    .label = Last two hours
+    .label = کۆتا دوو کاژێر
 clear-time-duration-value-last-4-hours = کۆتا چوار کاژێر
-    .label = Last four hours
+    .label = کۆتا چوار کاژێر
 # Variables:
 #   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
 clear-time-duration-value-since-midnight =
@@ -57,7 +57,7 @@ clear-time-duration-suffix =
 
 history-section-label = مێژوو
 item-history-and-downloads = مێژووی گەڕان و داگرتن
-    .label = Browsing & download history
+    .label = مێژووی گەڕان و داگرتن
     .accesskey = د
 item-history-and-downloads-description2 = Clears site and download history
 item-cookies = شەکرۆکە
@@ -67,17 +67,15 @@ item-cookies = شەکرۆکە
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cookies-site-data-with-size = .label = کوکییەکان and site data ({ $amount } { $unit })
-    .accesskey = e
     .label = Cookies and site data ({ $amount } { $unit })
     .accesskey = e
 item-cookies-site-data = .label = کوکییەکان and site data
-    .accesskey = e
     .label = Cookies and site data
     .accesskey = e
 item-cookies-site-data-description = May sign you out of sites or empty shopping carts
 item-active-logins = چوونەژوورەوەی چالاک
-    .label = Active logins
-    .accesskey = l
+    .label = چوونەژوورەوەی چالاک
+    .accesskey = L
 item-cache = حەشارگە (کاش)
     .label = حەشارگە (کاش)
     .accesskey = ه
@@ -92,10 +90,9 @@ item-cached-content =
     .accesskey = f
 item-cached-content-description = Clears items that help sites load faster
 item-form-search-history = مێژووی فۆرم و گەڕان
-    .label = Form & search history
+    .label = مێژووی فۆرم و گەڕان
     .accesskey = پ
 item-site-prefs = .label = ماڵپەڕ settings
-    .accesskey = i
     .label = Site settings
     .accesskey = i
 item-formdata-prefs =
@@ -105,11 +102,10 @@ item-formdata-description = Clears things like names, emails, and other items yo
 item-site-prefs-description = Resets your permissions and site preferences to original settings
 data-section-label = زانیاری
 item-site-settings = .label = ماڵپەڕ settings
-    .accesskey = S
     .label = Site settings
     .accesskey = پ
 item-offline-apps = زانیاری ماڵپەڕی دەرهێڵ
-    .label = Offline website data
+    .label = زانیاری ماڵپەڕی دەرهێڵ
     .accesskey = O
 sanitize-everything-undo-warning = ئەم کارە پاشگەزبوونەوەی نیە.
 window-close =

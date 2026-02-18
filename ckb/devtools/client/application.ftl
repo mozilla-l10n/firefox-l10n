@@ -112,8 +112,6 @@ sidebar-item-service-workers = خزمەتگوزاریی کرێکارەکان
     .title = خزمەتگوزاریی کرێکارەکان
 # Sidebar navigation item for Session History sidebar item section
 sidebar-item-session-history = Session مێژوو
-    .alt = Session مێژوو Icon
-    .title = Session مێژوو
     .alt = Session History Icon
     .title = Session History
 # Entry in the Session History diagram

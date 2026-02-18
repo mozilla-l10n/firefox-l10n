@@ -10,13 +10,10 @@ protections-panel-sitefixedsendreport-label = ماڵپەڕ fixed? Send report
 ## Enhanced Tracking Protection.
 
 protections-popup-footer-protection-label-strict = Strict
-    .label = توند
     .label = پتەو
 protections-popup-footer-protection-label-custom = Custom
-    .label = تایبەت
     .label = خوازراو
 protections-popup-footer-protection-label-standard = Standard
-    .label = ستاندارد
     .label = ستاندارد
 
 ##
@@ -38,14 +35,10 @@ protections-panel-site-not-working-view = ماڵپەڕ کار ناکات؟
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on = .label = Enhanced Tracking پاراستن
-    .description = On for this site
-    .aria-label = Enhanced Tracking پاراستن: On for { $host }
     .label = باشترکردنی پارێزگاری لە چاودێریکردن
     .description = On for this site
     .aria-label = Enhanced Tracking Protection: On for { $host }
 protections-panel-etp-toggle-off = .label = Enhanced Tracking پاراستن
-    .description = Off for this site
-    .aria-label = Enhanced Tracking پاراستن: Off for { $host }
     .label = باشترکردنی پارێزگاری لە چاودێریکردن
     .description = Off for this site
     .aria-label = Enhanced Tracking Protection: Off for { $host }
@@ -101,7 +94,7 @@ protections-panel-protectionsdashboard-label = بۆردی پارێزگاری
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
-protections-panel-site-not-working-view-header = ماڵپەڕەکە کار ناکات؟
+protections-panel-site-not-working-view-header = پارێزگاری بکوژێنەوە ئەگەر کێشەت هەیە لەگەڵ:
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = بواری چوونەژوورەوە
 protections-panel-site-not-working-view-issue-list-forms = فۆرمەکان
@@ -123,7 +116,7 @@ protections-panel-description-shim-allowed-learn-more = زیاتر بزانە
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Tracker partially unblocked
 protections-panel-content-blocking-manage-settings = بەڕێوەبردنی ڕێکخستنەکانی پارێزگاری
-    .label = Manage protection settings
+    .label = بەڕێوەبردنی ڕێکخستنەکانی پارێزگاری
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view = ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە
     .title = ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە

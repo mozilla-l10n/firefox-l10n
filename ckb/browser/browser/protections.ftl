@@ -140,7 +140,7 @@ monitor-view-report-link = View report
 monitor-breaches-unresolved-title = Resolve your breaches
 monitor-breaches-unresolved-description = دووای ئەوەی وردەکاری دزەپێکردنەکە ئەنجام دەدەیت بۆ پارێزگاریکردنی زانیارییەکانت، دەتوانیت هەڵبژێریت کە دزەپێکردنەکە چارەسەر بووە.
 monitor-manage-breaches-link = بەڕێوەبردنی پێشیلکارییەکان (دزەپێکردنەکان)
-    .title = Manage breaches on { -monitor-brand-short-name }
+    .title = بەڕێوەبردنی پێشیلکارییەکان (دزەپێکردنەکان) { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Nice! You’ve resolved all known breaches.
 monitor-breaches-resolved-description = If your email appears in any new breaches, we will let you know.
 # Variables:
@@ -169,17 +169,12 @@ monitor-resolve-breaches-link = Resolve breaches
 
 bar-tooltip-social = چاودێریکردنی تۆڕی کۆمەڵایەتی
     .title = چاودێریکردنی تۆڕی کۆمەڵایەتی
-    .aria-label =
+    .aria-label = 
         { $count ->
             [one] { $count } social media tracker ({ $percentage }%)
            *[other] { $count } social media trackers ({ $percentage }%)
         }
 bar-tooltip-cookie = .title = Cross-ماڵپەڕ Tracking Cookies
-    .aria-label =
-        { $count ->
-            [one] { $count } cross-site tracking cookie ({ $percentage }%)
-           *[other] { $count } cross-site tracking cookies ({ $percentage }%)
-        }
     .title = Cross-ماڵپەڕ Tracking Cookies
     .aria-label =
         { $count ->
@@ -188,14 +183,14 @@ bar-tooltip-cookie = .title = Cross-ماڵپەڕ Tracking Cookies
         }
 bar-tooltip-tracker = چاودێریکردنی ناوەڕۆک
     .title = چاودێریکردنی ناوەڕۆک
-    .aria-label =
+    .aria-label = 
         { $count ->
             [one] { $count } tracking content ({ $percentage }%)
            *[other] { $count } tracking content ({ $percentage }%)
         }
 bar-tooltip-fingerprinter = پەنجەمۆرەکان
-    .title = پەنجە مۆرەکان
-    .aria-label =
+    .title = پەنجەمۆرەکان
+    .aria-label = 
         { $count ->
             [one] { $count } fingerprinter ({ $percentage }%)
            *[other] { $count } fingerprinters ({ $percentage }%)
