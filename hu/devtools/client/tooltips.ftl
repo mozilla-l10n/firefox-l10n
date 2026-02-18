@@ -23,6 +23,7 @@ inactive-css-column-span = A(z) <strong>{ $property }</strong> tulajdonságnak n
 inactive-css-not-grid-or-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rács vagy flexibilis elem.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem rács vagy flexibilis elem, sem abszolút módon pozicionált elem.
 inactive-css-not-grid-or-absolutely-positioned-item = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem rácselem, sem abszolút módon pozicionált elem.
+inactive-css-not-absolutely-positioned-item = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem abszolút módon pozicionált elem.
 inactive-css-not-grid-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem egy rácselem.
 inactive-css-not-grid-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rácstároló.
 inactive-css-not-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis elem.

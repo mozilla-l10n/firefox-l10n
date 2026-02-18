@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Előző méret
 browser-window-close-button =
     .tooltiptext = Bezárás
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Vissza
 
 ## Tab actions
 
@@ -1176,6 +1179,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Új privát ablak
     .tooltiptext = Új privát ablak megnyitása ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Megosztás
+    .tooltiptext = Oldal megosztása
 
 ## EME notification panel
 

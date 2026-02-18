@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Tartalomtípus
     .accesskey = T
+applications-type-heading = Tartalomtípus
 applications-action-column =
     .label = Művelet
     .accesskey = M
+applications-action-heading = Művelet
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fájl
@@ -1048,6 +1050,8 @@ search-one-click-desc = Válassza ki a címsáv alatt és a keresősávban gépe
 search-one-click-header-3 =
     .label = További keresőszolgáltatások
     .description = Válassza ki a címsorban megjelenő keresőszolgáltatásokat
+update-search-engine-success =
+    .message = Keresőszolgáltatás sikeresen frissítve
 search-choose-engine-column =
     .label = Keresőszolgáltatás
 search-choose-keyword-column =
