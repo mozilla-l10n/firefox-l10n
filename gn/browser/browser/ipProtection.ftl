@@ -98,6 +98,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = ¿Ehayhúpa VPN jehe’apyre? Ereko ñemo’ãve okápe { -brand-product-name }-gui { -mozilla-vpn-brand-name } ndive.
+ipprotection-bandwidth-upgrade-text = Eiporavo peteĩ VPN rendaite ha emo’ã opaite tembiporu’i 5 mba’e’oka peve, taha’e ógape térã Wi-Fi ojeporukuaávape.
 
 ## IP Protection Settings
 
