@@ -683,6 +683,10 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-undefined-calculator-result = تعریف نوابیڌه
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = { -brand-product-name } وردنی
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = پؽشنهاڌ وابیڌه
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -734,6 +738,8 @@ urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</
 #   $unit (String) - The unit for the temperature, either "C" or "F"
 #   $city (String) - The name of the city the weather data is for
 urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> من { $city }
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = پۊرسیڌن
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -1004,6 +1010,9 @@ toolbar-button-open-file =
 toolbar-button-new-private-window =
     .label = نیمدری سیخومی نۊ
     .tooltiptext = گۊشیڌن ی نیمدری گشتن سیخومی نۊ ({ $shortcut })
+toolbar-button-share-tab =
+    .label = یک رسۊوی
+    .tooltiptext = یک رسۊوی ای بلگه
 
 ## EME notification panel
 
