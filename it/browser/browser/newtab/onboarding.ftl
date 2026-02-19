@@ -546,6 +546,7 @@ restore-from-backup-secondary-top-button = Ripristina da backup
 restore-from-backup-title = Facciamo tornare { -brand-short-name } come piace a te
 restore-from-backup-subtitle = Ripristina segnalibri, cronologia e tutti gli altri dati per tornare a navigare
 restore-from-backup-secondary-button = Non ripristinare
+multiple-backups-info-tile = <strong>Rilevati diversi file di backup.</strong> È stato selezionato il file più recente. Puoi ripristinare altri profili dalle <a data-l10n-name="settings-label">Impostazioni</a>
 
 ## Restored from Backup spotlight
 
