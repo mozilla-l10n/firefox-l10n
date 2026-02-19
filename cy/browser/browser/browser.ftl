@@ -571,6 +571,9 @@ browser-window-restore-down-button =
     .tooltiptext = Adfer i Lawr
 browser-window-close-button =
     .tooltiptext = Cau
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Nôl
 
 ## Tab actions
 
@@ -1204,6 +1207,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Ffenestr breifat newydd
     .tooltiptext = Agor ffenestr pori preifat newydd ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Rhannu
+    .tooltiptext = Rhannu'r dudalen hon
 
 ## EME notification panel
 

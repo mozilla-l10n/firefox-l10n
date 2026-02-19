@@ -578,9 +578,11 @@ applications-filter =
 applications-type-column =
     .label = Math o Gynnwys
     .accesskey = M
+applications-type-heading = Math o Gynnwys
 applications-action-column =
     .label = Gweithred
     .accesskey = G
+applications-action-heading = Gweithred
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Ffeil { $extension }
@@ -1064,6 +1066,8 @@ search-one-click-desc = Dewiswch beiriant chwilio arall sy'n ymddangos o dan y b
 search-one-click-header-3 =
     .label = Peiriannau chwilio ychwanegol
     .description = Dewiswch ba beiriannau chwilio a llwybrau byr sy'n ymddangos yn eich bar cyfeiriad.
+update-search-engine-success =
+    .message = Diweddarwyd y peiriant chwilio yn llwyddiannus
 search-choose-engine-column =
     .label = Peiriannau Chwilio
 search-choose-keyword-column =
