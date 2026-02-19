@@ -10,6 +10,8 @@
 ## to indicate the purpose of this picker as both a calendar with a month-year
 ## and a time selection dialog for HTML's <input type="datetime-local">
 
+datetime-picker-label =
+    .aria-label = Causir una data e un orari
 
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of a date picker calendar and a month-year selection
@@ -53,17 +55,3 @@ date-spinner-year-previous =
     .aria-label = Annada precedenta
 date-spinner-year-next =
     .aria-label = Annada seguenta
-
-## This label is used by screenreaders and other assistive technology
-## to indicate the purpose of a time picker dialog
-## for HTML's default <input type="time">
-
-
-## These labels are used by screenreaders and other assistive technology
-## to indicate the type of a value/unit that is being selected within a
-## time spinners on a timepicker dialog
-
-
-## These labels are used by screenreaders and other assistive technology
-## to indicate the purpose of buttons that leaf through time units of a spinner on a timepicker dialog
-

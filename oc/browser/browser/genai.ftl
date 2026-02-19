@@ -3,6 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chatbot prompts
+## Prompts are plain language ‘instructions’ sent to a chatbot.
+## These prompts have been made concise and direct in English because some chatbot providers
+## have character restrictions and being direct reduces the chance for misinterpretation.
+## When localizing, please be concise and direct, but not at the expense of losing meaning.
+
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Pròva-me
+    .value = Mercés de m’interrogar sus aquesta seccion. Demanda-me mantun tipe de questions, per exemples de causidas multiplas, verai o fals e responsas cortas. Espèra ma responsa abans de passar a la question seguenta.
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Explica aquò
+    .value = Mercés d’explicar los concèpts clau d’aquesta seccion, en utilizant de mots simples. E utiliza d’exemples tanben.
+
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
@@ -14,6 +29,7 @@ genai-menu-remove-generic =
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandar a { $provider }
+genai-menu-summarize-page = Resumir la pagina
 genai-input-ask-generic =
     .placeholder = Demandar al robòt de convèrsa d’IA…
 genai-menu-ask-generic-2 =
@@ -35,6 +51,10 @@ genai-header-close-button =
 genai-options-reload-generic =
     .label = Recargar lo robòt de convèrsa d’IA
 
+## Chatbot footer
+
+genai-page-button-summarize = Resumir la pagina
+
 ## Chatbot onboarding
 
 genai-onboarding-primary = Contunhar
@@ -50,6 +70,7 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-chatbot-contextual-button = Causir un robòt de convèrsa
+genai-chatbot-summarize-button = Resumir la pagina
 
 ## Link previews
 
