@@ -109,6 +109,7 @@ login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-produc
 login-intro-instructions-fxa = Gīrī si nitāj nī gāyi’í sēsiûn riñan si { -fxaccount-brand-name } riñan aga’ nañûn sà’ daran’ nej sa ayi’ìt sēsiûn.
 about-logins-login-intro-heading-message = Nā’nïnj sà’ nej da’nga’ huìi riña huā huì doj
 login-intro-description2 = Daran’ nej da’nga’ huì na’nïn sà’t riña { -brand-product-name } nī huā arrán riña nū nej man. Dàdanj nī, màn ñûnj dugumîn ñûnj sisī huā sa ruhuâ gī’hiaj yī’ì nej man nī gātāj nan’ānj ñûnj gūnïnt. <a data-l10n-name="breach-alert-link">Gāhuin chrūn doj</a>
+login-intro-instructions-fxa2 = Gāyì’ì sēsiûn riña si keundât asìj riña aga’ nū sà’ ne riña ayì’ìt sēsiûn.
 login-intro-instructions-fxa-settings = Guīj riña Nāgi’hiô’ Nāgi’hiaj nūgun’ùn’ Nāchrūn sa nagi’hiaj nūguan’àan… Gūru’man ra’a riña tāj Nātsij riña ayi’ìt sēsiûn ngà nej da’nga’ huìi.
 login-intro-instructions-fxa-passwords-help = Gātū riñan <a data-l10n-name="passwords-help-link">nej sa nīkāj da’nga’ huìi</a> da’ nārì’t doj sa huā riña man.
 about-logins-intro-browser-only-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -brand-product-name }</a>
