@@ -16,6 +16,7 @@ customkeys-reset-all-confirm = ¿Estás seguro de que deseas restablecer todos l
 customkeys-history-reopen-tab = Reabrir la última pestaña cerrada
 customkeys-history-reopen-window = Reabrir la última ventana cerrada
 customkeys-sidebar-toggle = Cambiar barra lateral
+customkeys-view-picture-in-picture = Picture-in-Picture
 customkeys-dev-tools = Herramientas de desarrollador
 customkeys-dev-inspector = Inspector de DOM y estilo
 customkeys-dev-webconsole = Consola web

@@ -61,6 +61,11 @@ add-engine-name = Nombre del motor de búsqueda
 add-engine-url-placeholder =
     .placeholder = por ejemplo, https://developer.mozilla.com/search?q=%s
 
+## The following strings are used as error messages.
+
+add-engine-no-name = Por favor, agrega un nombre.
+add-engine-no-url = Por favor, ingresa una URL.
+
 ## The following strings are used as labels for the dialog's buttons.
 
 # buttonlabelextra1 is the label of a button to open the advanced section

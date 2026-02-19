@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Presentamos VPN, ahora directamente en tu navegador
+ipprotection-feature-introduction-link-text = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos con cifrado adicional.
+ipprotection-feature-introduction-link-text-private-browsing = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos con cifrado adicional, incluso si estás en una ventana privada.
 ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = Ahora no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
