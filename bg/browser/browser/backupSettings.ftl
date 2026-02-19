@@ -24,6 +24,8 @@ settings-data-backup-toggle = Управление на резервните к�
 settings-data-backup-toggle-on = Включване на резервните копия
 settings-data-backup-trigger-button = Архивиране
 settings-data-backup-in-progress-button = Архивирането е в процес на изпълнение…
+settings-data-backup-in-progress-message =
+    .message = Архивиране в ход...
 settings-data-backup-scheduled-backups-on = Архивиране: ВКЛЮЧЕНО
 settings-data-backup-scheduled-backups-off = Архивиране: ИЗКЛЮЧЕНО
 # "Location" refers to the folder where backups are being written to.

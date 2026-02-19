@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Отмятане на страницата ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Преглеждане на два раздела в един прозорец
+    .aria-label = Преглеждане на два раздела в един прозорец
 
 ## Page Action Context Menu
 
@@ -760,6 +763,10 @@ urlbar-result-action-copy-to-clipboard = Копиране
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = неопределено
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Разширение за { -brand-product-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Препоръчанo
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
