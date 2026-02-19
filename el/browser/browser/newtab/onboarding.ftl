@@ -581,6 +581,7 @@ onboarding-refresh-import-title = Νιώστε σαν στο σπίτι σας �
 onboarding-refresh-onboarding-addons-subtitle = Οι επεκτάσεις είναι μικρές εφαρμογές που σας επιτρέπουν να προσαρμόσετε το { -brand-short-name }. Μπορούν να ενισχύσουν το απόρρητό σας, να βελτιώσουν την παραγωγικότητά σας, να αλλάξουν την εμφάνιση του { -brand-short-name } και πολλά άλλα.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Δώστε ώθηση στην περιήγησή σας
+onboarding-refresh-sync-subtitle = Λάβετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και πολλά άλλα σε όποια συσκευή έχετε συνδεθεί στο { -brand-short-name }. Επιπλέον, τα δεδομένα σας κρυπτογραφούνται και μόνο εσείς μπορείτε να τα δείτε.
 onboarding-refresh-sync-title = Βρεθείτε οπουδήποτε. Συγχρονίστε τα όλα.
 onboarding-refresh-gratitude-subtitle = Σας ευχαριστούμε που χρησιμοποιείτε το { -brand-short-name }, το μόνο μεγάλο πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Με την υποστήριξή σας, εργαζόμαστε ώστε να κάνουμε το διαδίκτυο ασφαλέστερο και πιο προσβάσιμο για όλους.
 # "has your back" is an idiom suggesting support and protection

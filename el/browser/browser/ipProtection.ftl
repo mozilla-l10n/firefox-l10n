@@ -23,6 +23,7 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Γνωρίστε το VPN, τώρα στο πρόγραμμα περιήγησής σας
 ipprotection-feature-introduction-link-text = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας με επιπλέον κρυπτογράφηση.
 ipprotection-feature-introduction-link-text-private-browsing = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας με επιπλέον κρυπτογράφηση, ακόμα και σε ιδιωτικά παράθυρα.
 ipprotection-feature-introduction-button-primary = Επόμενο
@@ -38,6 +39,7 @@ ipprotection-site-settings-callout-button = Το κατάλαβα
 ## Panel
 
 unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
+unauthenticated-hide-location-message = Αποκρύψτε την τοποθεσία σας και προσθέστε επιπλέον κρυπτογράφηση στην περιήγησή σας μέσα στο { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Λάβετε { $maxUsage } GB δωρεάν VPN κάθε μήνα.
@@ -73,6 +75,7 @@ ipprotection-connection-status-paused-title = Το VPN είναι σε παύσ�
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση θα επιτραπεί ξανά τον επόμενο μήνα.
 upgrade-vpn-title = Λάβετε επιπλέον προστασία πέρα από το πρόγραμμα περιήγησης
+upgrade-vpn-description = Επιλέξτε την τοποθεσία του VPN σας, χρησιμοποιήστε το VPN για όλες σας τις εφαρμογές σε έως και 5 συσκευές και παραμείνετε ασφαλείς σε οποιοδήποτε δίκτυο, είτε στο σπίτι είτε σε δημόσιο Wi-Fi.
 upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -80,12 +83,16 @@ upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = Δεν ήταν δυνατή η σύνδεση στο VPN
 ipprotection-connection-status-generic-error-description = Δοκιμάστε ξανά σε λίγα λεπτά.
 ipprotection-connection-status-network-error-title = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
+ipprotection-connection-status-network-error-description = Συνδεθείτε στο διαδίκτυο και δοκιμάστε να ενεργοποιήσετε το VPN.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Πλησιάζετε το όριο του VPN σας
     .message = Σας απομένουν { $usageLeft } GB από { $maxUsage } GB για αυτόν τον μήνα.
+ipprotection-message-continuous-onboarding-intro = Ενεργοποιήστε το VPN για να αποκρύψετε την τοποθεσία σας και να προσθέσετε επιπλέον κρυπτογράφηση στην περιήγησή σας.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ρυθμίστε το VPN έτσι, ώστε να ενεργοποιείται</a> κάθε φορά που ανοίγετε το { -brand-short-name } για ένα επιπλέον επίπεδο προστασίας.
+ipprotection-message-continuous-onboarding-site-settings = Το { -brand-short-name } θα θυμάται ποιους ιστοτόπους έχετε ρυθμίσει να χρησιμοποιούν VPN. Ενημερώστε τους στις <a data-l10n-name="setting-link">ρυθμίσεις</a> ανά πάσα στιγμή.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 
 ## IP Protection bandwidth callouts
@@ -98,6 +105,9 @@ ipprotection-bandwidth-upgrade-text = Επιλέξτε μια τοποθεσία
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Πλησιάζετε το όριο του VPN σας.</strong> Σας απομένουν { $usageLeft } GB. Θα γίνει επαναφορά των δεδομένων σας στις αρχές του επόμενου μήνα.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Τα δεδομένα VPN σας σχεδόν έχουν τελειώσει.</strong> Σας απομένουν { $usageLeft } GB. Μόλις τα χρησιμοποιήσετε όλα, το VPN σας θα σταματήσει να λειτουργεί μέχρι να γίνει επαναφορά των δεδομένων σας την πρώτη ημέρα του επόμενου μήνα.
 
 ## IP Protection Settings
 
@@ -136,6 +146,7 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = Διαχείριση ρυθμίσεων ιστοτόπων
+ip-protection-exclusions-desc = Το VPN θα χρησιμοποιείται για όλους τους ιστοτόπους εκτός από αυτούς που αναγράφονται σε αυτήν τη λίστα. Προσθέστε έναν ιστότοπο εδώ ή ανοίγοντας το VPN.
 
 ## IP Protection Bandwidth
 
@@ -159,14 +170,24 @@ ip-protection-bandwidth-left-mb = Απομένουν { $usageLeft } MB από { 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση θα επιτραπεί ξανά τον επόμενο μήνα.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Γίνεται επαναφορά στα { $maxUsage } GB την πρώτη μέρα κάθε μήνα.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, ανανεώθηκαν και είναι έτοιμα προς χρήση
+ipprotection-bandwidth-reset-text = Ενεργοποιήστε το VPN για επιπλέον ενίσχυση του απορρήτου, δωρεάν κάθε μήνα.
 ipprotection-bandwidth-reset-button = Το κατάλαβα
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = Το VPN είναι σε παύση
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση στο VPN θα επιτραπεί ξανά τον επόμενο μήνα.
 vpn-paused-alert-close-tabs-button = Κλείσιμο όλων των καρτελών
 vpn-paused-alert-continue-wo-vpn-button = Συνέχεια χωρίς VPN
 vpn-error-alert-title = Το VPN δεν λειτουργεί αυτήν τη στιγμή.
