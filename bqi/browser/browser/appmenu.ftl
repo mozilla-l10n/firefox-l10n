@@ -142,6 +142,16 @@ profiler-popup-discard-button =
     .label = دیر وندن
 profiler-popup-capture-button =
     .label = گرؽڌن
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
