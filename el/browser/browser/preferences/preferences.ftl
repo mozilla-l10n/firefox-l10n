@@ -2273,6 +2273,7 @@ preferences-ai-controls-state-blocked =
 preferences-ai-controls-state-description-before = Τι σημαίνουν οι επιλογές:
 preferences-ai-controls-state-description-available = <strong>Διαθέσιμο:</strong> Θα βλέπετε τη λειτουργία και θα μπορείτε να τη χρησιμοποιήσετε.
 preferences-ai-controls-state-description-enabled = <strong>Ενεργό:</strong> Έχετε επιλέξει να χρησιμοποιήσετε τη λειτουργία.
+preferences-ai-controls-state-description-blocked = <strong>Αποκλεισμένο:</strong> Δεν μπορείτε να δείτε, ούτε να χρησιμοποιήσετε τη λειτουργία. Όσον αφορά την τοπική τεχνητή νοημοσύνη, αφαιρούνται τυχόν μοντέλα που έχουν ήδη ληφθεί.
 preferences-ai-controls-block-confirmation-heading = Αποκλεισμός βελτιώσεων ΤΝ;
 preferences-ai-controls-block-confirmation-description = Δεν θα βλέπετε τις νέες ή τρέχουσες βελτιώσεις τεχνητής νοημοσύνης στο { -brand-short-name }, ούτε αναδυόμενα παράθυρα σχετικά με αυτές. Αργότερα, μπορείτε να άρετε τον αποκλεισμό όποιας λειτουργίας θέλετε να συνεχίσετε να χρησιμοποιείτε.
 preferences-ai-controls-block-confirmation-features-start = Τι θα αποκλειστεί:
