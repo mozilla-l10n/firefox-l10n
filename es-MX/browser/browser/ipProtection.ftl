@@ -38,7 +38,17 @@ ipprotection-site-settings-callout-button = Entendido
 
 ## Panel
 
+unauthenticated-vpn-title = Prueba la VPN integrada de { -brand-product-name }
+unauthenticated-hide-location-message = Oculta tu ubicación y agrega cifrado adicional a tu navegación dentro de { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Obtén { $maxUsage } GB de datos VPN gratis cada mes.
 unauthenticated-get-started = Comenzar
+site-exclusion-toggle-label = Utiliza VPN para este sitio
+site-exclusion-toggle-enabled =
+    .aria-label = La VPN está activada para este sitio
+site-exclusion-toggle-disabled =
+    .aria-label = La VPN está desactivada para este sitio
 ipprotection-settings-link =
     .label = Ajustes
 
@@ -46,14 +56,33 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = VPN activada
 ipprotection-connection-status-disconnected = La VPN está desactivada
+ipprotection-connection-status-excluded = La VPN está desactivada para este sitio
+ipprotection-connection-status-connecting = La VPN se está conectando…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Desactivar VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Desactivar la VPN en todas partes
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Activar VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Encendiendo…
 
 ## VPN paused state
 
+ipprotection-connection-status-paused-title = VPN pausado
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Has usado { $maxUsage } GB de datos de tu VPN. El acceso se restablecerá el próximo mes.
+upgrade-vpn-title = Obtén protección adicional más allá del navegador
 upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = No se pudo conectar a la VPN
+ipprotection-connection-status-generic-error-description = Inténtalo de nuevo en unos minutos.
+ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
+ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
 
 ## IP Protection dialogs
 
