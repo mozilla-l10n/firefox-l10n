@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = ਸਮੱਗਰੀ ਕਿਸਮ
     .accesskey = T
+applications-type-heading = ਸਮੱਗਰੀ ਟਾਈਪ
 applications-action-column =
     .label = ਐਕਸ਼ਨ
     .accesskey = A
+applications-action-heading = ਕਾਰਵਾਈ
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ਫਾਈਲ
@@ -1048,6 +1050,8 @@ search-one-click-desc = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਕੋਈ ਸ਼ਬਦ 
 search-one-click-header-3 =
     .label = ਵਧੀਕ ਖੋਜ ਇੰਜਣ
     .description = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਖੋਜ ਇੰਜਣਾਂ ਅਤੇ ਸ਼ਾਰਟਕੱਟਾਂ ਨੂੰ ਚੁਣੋ।
+update-search-engine-success =
+    .message = ਖੋਜ ਇੰਜਣ ਨੂੰ ਕਾਮਯਾਬੀ ਨਾਲ ਅੱਪਡੇਟ ਕੀਤਾ
 search-choose-engine-column =
     .label = ਖੋਜ ਇੰਜਣ
 search-choose-keyword-column =
