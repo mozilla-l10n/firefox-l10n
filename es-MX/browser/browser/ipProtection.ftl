@@ -83,6 +83,14 @@ ipprotection-connection-status-generic-error-title = No se pudo conectar a la VP
 ipprotection-connection-status-generic-error-description = Inténtalo de nuevo en unos minutos.
 ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
+ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
+
+## IP Protection Settings
+
+ip-protection-learn-more = Saber más
+ip-protection-not-opted-in-button = Comenzar
+ip-protection-autostart =
+    .label = Activar VPN automáticamente
 
 ## IP Protection dialogs
 
