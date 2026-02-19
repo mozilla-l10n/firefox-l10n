@@ -597,12 +597,12 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Defnyddiwch raglen ragosodedig macOS
-            [windows] Defnyddiwch raglen ragosodedig Windows
-           *[other] Defnyddiwch raglen ragosodedig y system
+            [macos] Defnyddio rhaglen ragosodedig macOS
+            [windows] Defnyddio rhaglen ragosodedig Windows
+           *[other] Defnyddio rhaglen ragosodedig y system
         }
 applications-use-other =
-    .label = Defnyddio arall…
+    .label = Defnyddio rhywbeth arall…
 applications-select-helper = Dewis Rhaglen Gynorthwyol
 applications-manage-app =
     .label = Manylion y Rhaglen…
@@ -1891,7 +1891,7 @@ content-blocking-and-isolating-etp-warning-description-4 = Mae { -brand-short-na
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
 content-blocking-warning-learn-how = Sut mae gwneud
 content-blocking-baseline-exceptions-3 =
-    .label = Datrys problemau mawr gwefannau (argymell)
+    .label = Datrys problemau mawr gwefan (argymell)
     .description = Yn helpu i lwytho gwefannau a nodweddion trwy ddadrwystro dim ond elfennau hanfodol sy'n gallu cynnwys tracwyr. Mae'n datrys y problemau mwyaf cyffredin.
 # This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
 content-blocking-convenience-exceptions-3 =
