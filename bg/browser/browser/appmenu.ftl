@@ -20,7 +20,7 @@ appmenuitem-new-tab =
 appmenuitem-new-window =
     .label = Нов прозорец
 appmenuitem-new-private-window =
-    .label = Поверителен прозорец
+    .label = Нов поверителен прозорец
 appmenuitem-history =
     .label = История
 appmenuitem-downloads =
@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Скрива истинския телефонен номер и адрес на ел. поща
 appmenuitem-services-relay-description = Стартираен на таблото за маскиране на електронните адреси
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Вземете защита за цялото устройство
 appmenuitem-vpn-description = Защита на действията ви онлайн
 appmenu-services-header = Моите услуги
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
