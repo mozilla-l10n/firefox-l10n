@@ -2218,6 +2218,7 @@ preferences-ai-controls-block-confirmation-translations = Traducciones
 preferences-ai-controls-block-confirmation-pdfjs = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugerencias de grupos de pestañas
 preferences-ai-controls-block-confirmation-key-points = Puntos clave en las vistas previas de enlaces
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Proveedores de chatbots en la barra lateral
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =

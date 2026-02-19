@@ -60,9 +60,12 @@ add-engine-name = Nombre del motor de búsqueda
 
 add-engine-url-placeholder =
     .placeholder = por ejemplo, https://developer.mozilla.com/search?q=%s
+add-engine-keyword-placeholder =
+    .placeholder = p. ej., @mdn
 
 ## The following strings are used as error messages.
 
+add-engine-keyword-exists = Esa palabra clave ya está en uso. Prueba con otra.
 add-engine-no-name = Por favor, agrega un nombre.
 add-engine-no-url = Por favor, ingresa una URL.
 

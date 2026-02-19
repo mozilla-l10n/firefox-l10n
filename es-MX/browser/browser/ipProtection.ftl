@@ -84,6 +84,7 @@ ipprotection-connection-status-generic-error-description = Inténtalo de nuevo e
 ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
 ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
+confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
 
 ## IP Protection Settings
 
@@ -139,4 +140,6 @@ vpn-paused-alert-title = VPN pausado
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Has usado todos los { $maxUsage } GB de datos de tu VPN. El acceso a la VPN se restablecerá el próximo mes.
 vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
+vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
+vpn-error-alert-title = La VPN no está funcionando en este momento.
 vpn-error-alert-body = Intentar de nuevo más tarde.

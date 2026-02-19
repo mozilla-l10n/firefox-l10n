@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Cerrar pestaña
            *[other] Cerrar { $tabCount } pestañas
         }
+tab-splitview-splitter =
+    .aria-label = Cambiar el tamaño de las pestañas de la vista dividida
 
 ## Tooltips for tab audio control
 ## Variables:
