@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Guīj riña Nāgi’hiô’ Nāgi’hiaj
 login-intro-instructions-fxa-passwords-help = Gātū riñan <a data-l10n-name="passwords-help-link">nej sa nīkāj da’nga’ huìi</a> da’ nārì’t doj sa huā riña man.
 about-logins-intro-browser-only-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -brand-product-name }</a>
 about-logins-intro-import2 = Sisī nej riña gayì’ìt sēsiûn nu sà’ ne’ yē’ { -brand-product-name }, ga’ue <a data-l10n-name="import-browser-link">gūxūnt ga’naj āsìj riña a’ngô sa riñā nana’uî’t</a> asi <a data-l10n-name="import-file-link">āsìj riña ‘ngō archivo</a>
+about-logins-intro-import3 = Gūru’man ra’a riña būtûn nì signo ‘na’ yātà’ dan da’ gā’hue gūnutà’t ‘ngō da’nga’ huìi akuan’ nïn. Así gā’hue <a data-l10n-name="import-browser-link">gānakājt nej da’nga’ huìi asìj riña a’ngô nej nābēgadôr</a>asi<a data-l10n-name="import-file-link">asìj riña archibô</a>.
 
 ## Login
 
@@ -124,6 +125,7 @@ login-item-edit-button = Nagi'iô'
 about-logins-login-item-remove-button = Guxūn
 login-item-origin-label = Si Direlsiûn Sîtio
 login-item-tooltip-message = Ni'hiaj sisī huê ngè direksiôn huin ngà riña ruhuat gātu raj.
+about-logins-origin-tooltip2 = Hue’êt chre gāchrūnt direksiûn nī gīni’hiā sisī nārì’ dugui’ man ngà hiūj ayi’ìt sēsiûn.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Si yuguî rè'
@@ -185,6 +187,9 @@ about-logins-export-password-os-auth-dialog-message-win = Da’ gā’nïnt gan'
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi nū sà’ ‘iát
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = gā’nïnj a’ngô hiūj u gān’ānj nej da’nga’ huì nū sà’ ‘hiát
 
 ## Primary Password notification
 
@@ -243,6 +248,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
 about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
 about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
+about-logins-confirm-export-dialog-confirm-button2 = Dūgu’nïn’ gā’nïnjt gān’an
 about-logins-alert-import-title = 'Ngà gisij gānūkuaj ma
 about-logins-alert-import-message = Ni'hio' daj gi'hiaj man gānūkua.
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
@@ -343,6 +349,7 @@ about-logins-import-dialog-error-title = Nū gūyunj
 about-logins-import-dialog-error-conflicting-values-title = Ûta ga'ì sa gire' guedâ ga'hue gāyi'ij.
 about-logins-import-dialog-error-conflicting-values-description = Daj run': ga'ì si yugui, da'ngà' huii, URLs, huin guenda gatu' riña aga' na.
 about-logins-import-dialog-error-file-format-title = Nitaj si hua hue'ej.
+about-logins-import-dialog-error-unable-to-read-title = Nā’hue gānatsi ārchîbo
 about-logins-import-dialog-error-no-logins-imported = Huā nïn’ nu nāchīn nej riña gayi’ìt sēsiûn
 about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
 about-logins-import-dialog-error-try-import-again = Ginùn huin gā’nïnj ñûnt…
