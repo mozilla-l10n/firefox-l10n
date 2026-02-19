@@ -2245,7 +2245,7 @@ choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = Mae  { -brand-short-name } bob amser yn cynnig dewisiadau, gan gynnwys ydych chi eisiau defnyddio nodweddion sydd wedi'u cyfoethogi ag AI. Mwy o gyfleoedd rheoli cyn hir.
+preferences-ai-controls-description = Mae  { -brand-short-name } bob amser yn cynnig dewisiadau, gan gynnwys ydych chi eisiau defnyddio nodweddion sydd wedi'u cyfoethogi ag AI. Bydd rhagor o gyfleoedd rheoli cyn hir.
 preferences-ai-controls-block-ai-label = Rhwystro nodweddion AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
