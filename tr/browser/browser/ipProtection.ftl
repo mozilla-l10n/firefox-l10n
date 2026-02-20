@@ -138,6 +138,9 @@ ipprotection-bandwidth-reset-button = Anladım
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN duraklatıldı
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = { $maxUsage } GB VPN kotanızın hepsini kullandınız. VPN kullanım hakkınız gelecek ay sıfırlanacaktır.
 vpn-paused-alert-close-tabs-button = Tüm sekmeleri kapat
 vpn-paused-alert-continue-wo-vpn-button = VPN olmadan devam et
 vpn-error-alert-title = VPN şu anda çalışmıyor.

@@ -569,6 +569,7 @@ applications-type-column =
 applications-action-column =
     .label = Eylem
     .accesskey = E
+applications-action-heading = Eylem
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } dosyası
@@ -1048,6 +1049,8 @@ search-one-click-desc = Anahtar kelimeleri yazmaya başladığınızda adres çu
 search-one-click-header-3 =
     .label = Ek arama motorları
     .description = Adres çubuğunda görünecek arama motorlarını ve kısayolları seçin.
+update-search-engine-success =
+    .message = Arama motoru başarıyla güncellendi
 search-choose-engine-column =
     .label = Arama motoru
 search-choose-keyword-column =

@@ -1175,6 +1175,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Yeni gizli pencere
     .tooltiptext = Yeni bir Gizli Gezinti penceresi aç ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Paylaş
+    .tooltiptext = Bu sayfayı paylaş
 
 ## EME notification panel
 
