@@ -270,6 +270,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = اعرض الوصف
     .accesskey = ص
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = ابحث عن الصورة باستخدام { $engine }
+    .accesskey = ة
 main-context-menu-video-save-as =
     .label = احفظ الڤديو باسم…
     .accesskey = و
@@ -285,6 +290,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = أرسل الصوت بالبريد…
     .accesskey = ت
+main-context-menu-send-to-device-2 =
+    .label = أرسل إلى جهاز
+    .accesskey = ز
 main-context-menu-save-to-pocket =
     .label = احفظ الصفحة في { -pocket-brand-name }
     .accesskey = ح
@@ -392,3 +400,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = أظهر كلمة السر
     .accesskey = ظ
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = جديد

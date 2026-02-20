@@ -20,6 +20,11 @@ permission-dialog-description-file-app = أتسمح لهذا الملف بفتح
 permission-dialog-description-extension-app = أأسمح للامتداد { $extension } بفتح رابط { $scheme } باستخدام { $appName }؟
 permission-dialog-description-system-app = أأفتح رابط { $scheme } باستخدام { $appName }؟
 permission-dialog-description-system-noapp = أأفتح الرابط { $scheme }؟
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = أتسمح لهذا الموقع بفتح محفظتك الرقمية؟
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = يُتيح فتح رابط <strong>{ $scheme }</strong> لـ <strong>{ $host }</strong> طلب هويتك الحقيقية باستخدام <strong>{ $appName }</strong>. تابع فقط إذا كنت تثق بهذا الموقع.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
