@@ -934,6 +934,14 @@ urlbar-searchmode-default =
     .tooltiptext = Motore di ricerca predefinito
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Adesso cerca con:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Cerca con:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Adesso cerca con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
@@ -1583,4 +1591,3 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
        *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
     }
-
