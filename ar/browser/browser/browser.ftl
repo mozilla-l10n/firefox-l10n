@@ -818,6 +818,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · مموّل
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = اسأل
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -882,6 +884,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ابحث هذه المرة ب:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = ابحث مستخدمًا:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = إعدادات البحث
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.

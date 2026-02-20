@@ -107,9 +107,15 @@ fp-cert-error-code = رمز الخطأ: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = ربما لا شيء، لأنه من المحتمل أن تكون هناك مشكلة في الموقع نفسه.
 fp-learn-more-about-secure-connection-failures = اعرف المزيد عن حالات فشل الاتصال الآمن
 fp-learn-more-about-cert-issues = اعرف المزيد عن هذه الأنواع من مشكلات الشهادات
 fp-learn-more-about-time-related-errors = اعرف المزيد عن مواجهة الأعطال المتعلقة بالوقت وإصلاحها
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = لم يقم مالك { $hostname } بإعداده بشكل صحيح، ولا يمكن إنشاء اتصال آمن.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -191,3 +197,4 @@ fp-certerror-hide-advanced-button = أخفِ المتقدم
 fp-certerror-override-exception-button = واصِل إلى { $hostname } (خطر)
 fp-certerror-intro = { -brand-short-name } لاحظ مشكلة أمنية محتملة خطيرة في <strong>{ $hostname }</strong>. قد يحاول شخص ينتحل هوية الموقع سرقة معلومات مثل بيانات بطاقة الائتمان أو كلمات السر أو البريد الإلكتروني.
 fp-certerror-expired-into = { -brand-short-name } لاحظ مشكلة أمنية في <strong>{ $hostname }</strong>. إما أن الموقع غير مُعدّ بشكل صحيح أو أن ساعة جهازك مضبوطة على تاريخ/وقت خاطئ.
+fp-certerror-transparency-intro = قد يحاول شخص يتظاهر بأنه <strong>{ $hostname }</strong> لسرقة أشياء مثل معلومات بطاقة الائتمان أو كلمات السر أو رسائل البريد الإلكتروني.

@@ -349,9 +349,15 @@ tab-group-context-open-saved-group-in-new-window =
 tab-context-add-note =
     .label = أضف ملاحظة
     .accesskey = ض
+tab-context-update-note =
+    .label = حدّث الملاحظة
+    .accesskey = د
 tab-context-edit-note =
     .label = حرّر الملاحظة
     .accesskey = ر
+tab-context-delete-note =
+    .label = احذف الملاحظة
+    .accesskey = ذ
 tab-note-editor-title-create = أضف ملاحظة
 tab-note-editor-title-edit = حرِّر الملاحظة
 tab-note-editor-text-field =
@@ -362,6 +368,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = احفظ
     .accesskey = ف
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = اطّلع على المزيد
 
 ## Split View
 

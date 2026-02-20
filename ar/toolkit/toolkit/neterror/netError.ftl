@@ -46,6 +46,10 @@ neterror-load-error-firewall = إذا كان حاسوبك محميًا بجدا�
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = إذا كنت تحاول تحميل صفحة شبكة محلية، فيُرجى التأكد مِن منح { -brand-short-name } تصاريح الشبكة المحلية في إعدادات الخصوصية والأمان في نظام التشغيل macOS.
 neterror-http-error-page = تأكد من أنك كتبت عنوان الموقع بشكل صحيح.
+neterror-http-empty-response = تأكد من كتابة عنوان الموقع الإلكتروني بشكل صحيح وحاول مرة أخرى بعد لحظات.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } أعاد صفحة فارغة.
 neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = تأكد أن الملف لم يُنقل، أو 
 neterror-access-denied = قد يكون حُذِف أو نُقِل أو أن صلاحيّات الملف تمنع الوصول إليه.
 neterror-unknown-protocol = قد تحتاج تنصيب برمجيات أخرى لفتح هذا العنوان.
 neterror-redirect-loop = سبب هذه المشكلة هو تعطيل الكعكات أو عدم قبولها.
+neterror-unknown-socket-type-client-config = قد يكون هذا بسبب خطأ في إعدادات عميلك.
 neterror-unknown-socket-type-psm-installed = تأكّد أنّ مدير الأمن الشخصي مثبت في نظامك.
 neterror-unknown-socket-type-server-config = قد يكون سبب هذا هو إعداد مخالف للمعايير في الخادوم.
 neterror-not-cached-intro = المستند المطلوب لم يعد متوفرًا في ذاكرة { -brand-short-name } الخبيئة.
@@ -167,3 +172,25 @@ certerror-coep-learn-more = تعرف على المزيد حول سياسات ت�
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = رمز الخطأ: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = يبدو أن هناك مشكلة في اتصالك بالإنترنت
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-connection-intro = لا يستطيع { -brand-short-name } عمل اتصال آمن بالخادم في { $hostname }.
+fp-neterror-offline-intro = لا يمكن لـ { -brand-short-name } الاتصال بالخادم على <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = لم تُحمّل هذه الصفحة بواسطة { -brand-short-name } لأن إعدادات الأمان لا تتطابق مع الصفحة السابقة.
+fp-neterror-http-auth-disabled-intro = قد يحاول شخص يتظاهر بأنه مسؤول عن الموقع سرقة أشياء مثل اسم المستخدم أو كلمة السر أو البريد الإلكتروني.
+fp-neterror-http-auth-disabled-secure-connection = يتطلب هذا الموقع اتصالاً آمناً، ولا يمكنك إضافة استثناء لزيارته.
+fp-neterror-why-did-this-happen = لمَ حدث هذا؟
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = يبدو أن هذا الموقع يستخدم برنامجًا قديمًا به مشاكل أمنية معروفة.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } لا يثق في { $hostname } لأن الاتصال غير آمن.
+fp-neterror-offline-what-can-you-do-body = حاول الاتصال من جهاز آخر. تحقّق من المودم أو جهاز التوجيه. افصل اتصالك بالواي فاي وأعد الاتصال به.
+fp-neterror-http-auth-disabled-what-can-you-do-body = حاول تغيير عنوان الموقع إلى HTTPS. لكن من المحتمل أن تكون هناك مشكلة في الموقع نفسه.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = في بعض الأحيان، تقوم المواقع الإلكترونية بوضع إجراءات حماية لحماية نفسها من التفاعلات غير المرغوب فيها مع المواقع الأخرى.
+fp-learn-more-about-https-connections = تعرّف على اتصالات HTTPS
