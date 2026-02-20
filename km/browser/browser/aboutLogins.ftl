@@ -121,6 +121,7 @@ about-logins-login-item-remove-button = លុប​ចេញ
 login-item-origin-label = អាសយដ្ឋាន​គេហទំព័រ
 login-item-tooltip-message = ប្រាកដ​ថា ​វា​ត្រូវគ្នា​នឹង​អាសយដ្ឋានណាមួយ​​របស់​គេហទំព័រ​ដែល​អ្នក​ចូល។
 about-logins-origin-tooltip2 = សូមបញ្ចូលអាសយដ្ឋានពេញ ហើយត្រូវប្រាកដថាវាដូចគ្នាបេះបិទទៅនឹងកន្លែងដែលអ្នកចូល។
+about-logins-add-password-tooltip = ត្រូវប្រាកដថាអ្នកបានរក្សាទុកពាក្យសម្ងាត់បច្ចុប្បន្នរបស់អ្នកសម្រាប់គេហទំព័រនេះ។
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ឈ្មោះ​អ្នក​ប្រើប្រាស់
