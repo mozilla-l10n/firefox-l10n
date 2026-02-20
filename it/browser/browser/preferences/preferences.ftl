@@ -524,9 +524,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Utilizza le impostazioni del sistema operativo per “{ $localeName }” per formattare date, orari, numeri e unità di misura.
+settings-spellcheck-header =
+    .label = Controllo ortografico
 check-user-spelling =
     .label = Controllo ortografico durante la digitazione
     .accesskey = C
+spellcheck-download-dictionaries =
+    .label = Scarica dizionari
+spellcheck-promo =
+    .heading = Come utilizzare il controllo ortografico
+    .message = Fare clic con il tasto destro del mouse su un campo di testo per attivare o disattivare il controllo ortografico o per cambiare la lingua. Non tutti i campi supportano il controllo ortografico.
 
 ## General Section - Files and Applications
 
@@ -1052,6 +1059,14 @@ search-one-click-header-3 =
     .description = Scegli i motori di ricerca e le scorciatoie da visualizzare nella barra degli indirizzi.
 update-search-engine-success =
     .message = Motore di ricerca aggiornato correttamente
+search-edit-engine-2 =
+    .title = Modifica motore di ricerca
+search-delete-engine =
+    .title = Elimina motore di ricerca
+search-enable-engine =
+    .title = Attiva motore di ricerca
+search-outlink-to-extensions-page =
+    .title = Gestisci in estensioni e temi
 search-choose-engine-column =
     .label = Motore di ricerca
 search-choose-keyword-column =
