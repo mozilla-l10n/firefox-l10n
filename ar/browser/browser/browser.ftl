@@ -120,6 +120,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = التصفح الخاص
+popups-infobar-dont-show-message2 =
+    .label = لا تعرض هذه الرسالة عند حظر النوافذ المنبثقة أو عمليات إعادة التوجيه من جهات خارجية
+    .accesskey = ر
 
 ##
 
@@ -266,6 +269,8 @@ urlbar-screen-blocked =
     .tooltiptext = لقد حجبت هذا الموقع من مشاركة شاشتك.
 urlbar-persistent-storage-blocked =
     .tooltiptext = لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.
+urlbar-popup-blocked2 =
+    .tooltiptext = لقد حظرت النوافذ المنبثقة وعمليات إعادة التوجيه من جهات خارجية لهذا الموقع الإلكتروني.
 urlbar-popup-blocked =
     .tooltiptext = لقد حجبت المنبثقات من هذا الموقع.
 urlbar-autoplay-media-blocked =
@@ -1155,6 +1160,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = احجب النوافذ المنبثقة من { $uriHost }
     .accesskey = ن
+popups-infobar-allow2 =
+    .label = اسمح بالنوافذ المنبثقة وإعادة التوجيه إلى جهات خارجية لـ { $uriHost }
+    .accesskey = م
 
 ##
 

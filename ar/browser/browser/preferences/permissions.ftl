@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع. لا تطبق الاستثناءات على النوافذ الخاصة.
 permissions-exceptions-https-only-desc2 = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = المواقع المسموح بها - النوافذ المنبثقة وعمليات إعادة التوجيه من جهات خارجية
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
