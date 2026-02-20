@@ -6,3 +6,4 @@ policy-BlocklistDomainBrowsedTelemetry = Attiva e configura la registrazione di 
 policy-DownloadTelemetry = Attiva e configura la registrazione di sicurezza e telemetria quando viene avviato un download.
 policy-EnterpriseStorageEncryption = Attiva password primaria gestita dall’azienda per l’archiviazione crittata.
 policy-PrintPageTelemetry = Attiva e configura la registrazione di sicurezza e telemetria quando viene stampata una pagina.
+policy-Sync = Attiva o disattiva la sincronizzazione e definisci quali dati includere.
