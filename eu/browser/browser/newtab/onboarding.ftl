@@ -570,3 +570,16 @@ onboarding-personalization-motivation-title = { -brand-short-name }(r)en zein eg
 onboarding-personalization-motivation-privacy-option = Pribatutasuna eta segurtasuna
 onboarding-personalization-motivation-productivity-option = Produktibitatea
 onboarding-personalization-motivation-other-option = Bestelakoa
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Zure datuak babestu eta enpresek zure klikak espiatzetik blokeatzen ditugu — automatikoki.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Seguru zaude Firefoxekin
+onboarding-refresh-import-subtitle = Ekarri zure pasahitzak, laster-markak, historia eta gehiago.
+onboarding-refresh-import-title = Senti zaitez { -brand-short-name }(e)kin etxean bezala.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Emaiozu bultzada zure nabigazioari
+onboarding-refresh-sync-subtitle = Hartu laster-markak, pasahitzak eta gehiago { -brand-short-name }(e)n saioa hasita duzun toki orotatik. Gainera, zure datuak zifratuta daude eta zuk bakarrik ikus ditzakezu.
+onboarding-refresh-sync-title = Joan edonora. Sinkronizatu guztia.
