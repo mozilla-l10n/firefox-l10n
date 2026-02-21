@@ -95,8 +95,15 @@ ipprotection-message-continuous-onboarding-autostart = Ekstra koruma için { -br
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hangi sitelerde VPN kullandığınızı hatırlayacaktır. Bunları istediğiniz zaman <a data-l10n-name="setting-link">ayarlar</a> üzerinden güncelleyebilirsiniz.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapalı
 
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Yerleşik VPN’i beğendiniz mi? { -mozilla-vpn-brand-name } ile daha{ -brand-product-name } korumaya sahip olabilirsiniz.
+
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = { -brand-short-name } ile gezinirken gizliliğinizi artıracak yerleşik VPN.
 ip-protection-learn-more = Daha fazla bilgi al
 ip-protection-site-exceptions =
     .label = Siteye özel ayarlar

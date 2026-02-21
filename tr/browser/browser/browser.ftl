@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Geri küçült
 browser-window-close-button =
     .tooltiptext = Kapat
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Geri dön
 
 ## Tab actions
 
