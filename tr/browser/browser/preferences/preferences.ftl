@@ -566,6 +566,7 @@ applications-filter =
 applications-type-column =
     .label = İçerik türü
     .accesskey = t
+applications-type-heading = İçerik türü
 applications-action-column =
     .label = Eylem
     .accesskey = E
