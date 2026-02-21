@@ -137,6 +137,22 @@ ip-protection-exceptions-dialog-window =
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = Aylık VPN kotası
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Bu ay { $maxUsage } GB kotanızdan { $usageLeft } GB kaldı
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $maxUsage } GB kotanızdan { $usageLeft } GB kaldı
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Bu ay { $maxUsage } GB kotanızdan { $usageLeft } MB kaldı
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $maxUsage } GB kotanızdan { $usageLeft } MB kaldı
 
 ## IP Protection bandwidth reset callout
 
