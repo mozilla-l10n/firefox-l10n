@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Eduki mota
     .accesskey = t
+applications-type-heading = Eduki mota
 applications-action-column =
     .label = Ekintza
     .accesskey = E
+applications-action-heading = Ekintza
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fitxategia
@@ -1048,6 +1050,8 @@ search-one-click-desc = Aukeratu gako-hitz bat idazten hasi ahala helbide- eta b
 search-one-click-header-3 =
     .label = Bilaketa-motor gehiagarriak
     .description = Aukeratu zein bilaketa-motor eta lasterbide agertzen diren zure helbide-barran.
+update-search-engine-success =
+    .message = Bilaketa-motorra ondo eguneratu da
 search-choose-engine-column =
     .label = Bilaketa-motorra
 search-choose-keyword-column =

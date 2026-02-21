@@ -136,6 +136,8 @@ about-glean-label-for-filter-metrics = Iragazkia
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Honek azpiko taula iragaziko du kategorian, izenean, motan eta balioan (mota sinplea bada) oinarrituta.
 about-glean-button-load-all = Kargatu balio guztiak
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Esportatu datuak
 about-glean-button-load-value = Kargatu
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentazioa

@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifestua
 sidebar-item-service-workers = Zerbitzu-langileak
     .alt = Zerbitzu-langileen ikonoa
     .title = Zerbitzu-langileak
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Saioko historia
+    .alt = Saioko historiaren ikonoa
+    .title = Saioko historia
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Erakutsi saioko historiaren datuak
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Abisu-ikonoa

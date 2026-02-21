@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Pertsonalizatu
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Baztertu
+    .aria-label = Baztertu
 
 ## Search box component.
 

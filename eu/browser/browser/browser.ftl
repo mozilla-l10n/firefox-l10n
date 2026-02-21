@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Leheneratu tamaina
 browser-window-close-button =
     .tooltiptext = Itxi
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Itzuli
 
 ## Tab actions
 
@@ -1173,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Leiho pribatu berria
     .tooltiptext = Ireki nabigatze pribatuko leiho berri bat ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Partekatu
+    .tooltiptext = Partekatu orri hau
 
 ## EME notification panel
 
