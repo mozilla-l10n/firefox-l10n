@@ -398,7 +398,7 @@ main-context-menu-open-link-in-container-tab =
     .label = Բացել հղումը նոր { $containerName } ներդիրում
     .accesskey = T
 main-context-menu-reveal-password =
-    .label = Բացահայտել գաղտնաբառը
+    .label = Ցուցադրել գաղտնաբառը
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Նոր

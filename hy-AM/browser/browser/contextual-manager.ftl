@@ -33,7 +33,7 @@ contextual-manager-passwords-export-os-auth-dialog-message-macosx = արտահա
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Ձեր մուտքագրումը խմբագրելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահված գաղտնաբառը
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = ցուցադրել պահված գաղտնաբառը
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = խմբագրել պահված գաղտնաբառը
