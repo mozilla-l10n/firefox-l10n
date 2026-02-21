@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Барқарор кардани равзана
 browser-window-close-button =
     .tooltiptext = Пӯшидан
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Бозгашт
 
 ## Tab actions
 
@@ -1173,6 +1176,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Равзанаи хусусии нав
     .tooltiptext = Кушодани равзанаи тамошобинии хусусии нав ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Мубодила кардан
+    .tooltiptext = Мубодила кардани ин саҳифа
 
 ## EME notification panel
 
