@@ -6,6 +6,14 @@
 ### These strings appear in the Unified Extensions panel.
 
 
+## Panel
+
+unified-extensions-header-title = الامتدادات
+unified-extensions-manage-extensions =
+    .label = أدِر الامتدادات
+unified-extensions-discover-extensions =
+    .label = اكتشف الامتدادات
+
 ## An extension in the main list
 
 # Each extension in the unified extensions panel (list) has a secondary button
@@ -14,13 +22,18 @@
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = افتح القائمة لـ { $extensionName }
+unified-extensions-item-message-manage = أدِر الامتداد
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = ثبّته في شريط الأدوات
+unified-extensions-context-menu-manage-extension =
+    .label = أدِر الامتداد
 unified-extensions-context-menu-remove-extension =
     .label = أزِل الامتداد
+unified-extensions-context-menu-report-extension =
+    .label = أبلِغ عن الامتداد
 unified-extensions-context-menu-move-widget-up =
     .label = انقل لأعلى
 unified-extensions-context-menu-move-widget-down =
