@@ -59,6 +59,9 @@ ipprotection-connection-status-disconnected = VPN je isključen
 
 ## IP Protection Settings
 
+ip-protection-learn-more = Saznaj više
+ip-protection-site-exceptions =
+    .label = Postavke web-stranice
 ip-protection-not-opted-in-button = Započni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
