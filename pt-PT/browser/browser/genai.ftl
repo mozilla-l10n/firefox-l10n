@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Remover { $provider }
 genai-menu-remove-sidebar =
     .label = Remover da barra lateral
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Pedir ao { $provider }
 genai-menu-new-badge = Novo
 genai-menu-summarize-page = Resumir página
 genai-input-ask-generic =
@@ -109,6 +112,8 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = Chatbot de IA
 genai-header-provider-menu =
     .title = Escolher um chatbot
+genai-header-settings-button =
+    .title = Configurações do Chat de IA
 genai-header-options-button =
     .title = Abrir menu
 genai-header-close-button =
@@ -224,8 +229,12 @@ link-preview-reading-time =
         [one] { $range } minuto de tempo de leitura
        *[other] { $range } minutos de tempo de leitura
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = O { -brand-short-name } não pode pré-visualizar esta ligação
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar ligação
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = O { -brand-short-name } não consegue gerar pontos-chave para esta página de Internet.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Algo correu mal.
 # Text for the retry link when generation fails

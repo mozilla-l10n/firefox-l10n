@@ -171,8 +171,8 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 profiler-button-dropmarker =
-    .label = Abrir o painel do perfilador
-    .tooltiptext = Abrir painel do perfilador
+    .label = Abrir o painel do gerador de perfis
+    .tooltiptext = Abrir painel do gerador de perfis
 
 ## Profiler presets
 ## They are shown in the popup's select box.

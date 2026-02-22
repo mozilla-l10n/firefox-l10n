@@ -133,6 +133,7 @@ windows-10-eos-sync-urgency-subtitle-2 = Mesmo que não utilize o { -brand-short
 windows-10-eos-sync-new-device-title-1 = Não corra o risco de começar do zero no seu próximo dispositivo.
 windows-10-eos-sync-new-device-subtitle-1 = Sincronize para levar os seus marcadores, palavras-passe e definições preferidas do { -brand-short-name } consigo quando mudar.
 windows-10-eos-sync-new-device-title-2 = A mudar para um novo dispositivo? Não perca o que é importante.
+windows-10-eos-sync-new-device-subtitle-2 = Não importa com que frequência utiliza o { -brand-short-name }, a sincronização protege os seus marcadores, palavras-passe e definições.
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
 windows-10-eos-sync-tour-title-1 = Demasiados separadores? Organize com grupos de separadores.
 windows-10-eos-sync-tour-subtitle-1 = Arraste um separador sobre o outro para criar um grupo e manter as coisas organizadas.
@@ -213,6 +214,7 @@ sidebar-genai-survey-satisfaction-question = Qual o seu grau de satisfação por
 sidebar-genai-survey-productive-question =
     Em que medida concorda ou discorda da seguinte afirmação:<br/>
     “O chatbot de IA na barra lateral ajuda-me a aumentar a minha produtividade”?
+splitview-onboarding-callout-cta-2 = Experimente a vista dividida
 unified-search-callout-title = Alternar entre motores de pesquisa
 unified-search-callout-subtitle = Escolha o que funciona melhor para a sua pesquisa específica.
 unified-search-callout-primary-label = Seguinte

@@ -9,8 +9,14 @@ customkeys-reset = Redefinir
 customkeys-clear = Limpar
 customkeys-new-key = Pressionar nova tecla:
 customkeys-reset-all = Reiniciar todos os atalhos para as predefinições
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Esta chave já foi atribuída a { $conflict }. Deseja substituí-la?
+customkeys-reset-all-confirm = Tem a certeza que pretende repor todos os atalhos de teclado para as respetivas predefinições?
 customkeys-history-reopen-tab = Reabrir último separador fechado
 customkeys-history-reopen-window = Reabrir última janela fechada
+customkeys-sidebar-toggle = Alternar barra lateral
+customkeys-view-picture-in-picture = Vídeo em janela flutuante
 customkeys-dev-tools = Ferramentas de programação
 customkeys-dev-inspector = DOM e inspetor de estilos
 customkeys-dev-webconsole = Consola web
@@ -21,6 +27,7 @@ customkeys-dev-performance = Desempenho
 customkeys-dev-storage = Inspetor de armazenamento
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Acessibilidade
+customkeys-dev-profiler-toggle = Iniciar/parar o Gerador de perfis de desempenho
 customkeys-dev-profiler-capture = Capturar um perfil de desempenho
 customkeys-category-navigation = Navegação
 customkeys-nav-back = Retroceder
@@ -30,3 +37,5 @@ customkeys-nav-reload = Recarregar
 customkeys-nav-reload-skip-cache = Recarregar (substituir cache)
 customkeys-nav-stop = Parar
 customkeys-caution-message = Esta funcionalidade é experimental e pode não funcionar conforme o esperado.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Inválido
