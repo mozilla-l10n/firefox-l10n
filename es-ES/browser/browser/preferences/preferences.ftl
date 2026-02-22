@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo de contenido
     .accesskey = T
+applications-type-heading = Tipo de contenido
 applications-action-column =
     .label = Acción
     .accesskey = A
+applications-action-heading = Acción
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archivo { $extension }
@@ -1048,6 +1050,8 @@ search-one-click-desc = Elija los buscadores alternativos que aparecen bajo las 
 search-one-click-header-3 =
     .label = Buscadores adicionales
     .description = Elija qué buscadores y atajos aparecen en su barra de direcciones.
+update-search-engine-success =
+    .message = Buscador actualizado correctamente
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
