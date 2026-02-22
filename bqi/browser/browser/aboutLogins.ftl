@@ -113,6 +113,7 @@ login-intro-instructions-fxa2 = و دسگایی ک منه هو دووسمندی�
 login-intro-instructions-fxa-settings = و سامووا> هوم گوم کردن> رۊشن کردن هوم گوم کردن… ریوین وو گۊزینه و من ٱووڌنا وو رزما ن پسند کۊنین.
 login-intro-instructions-fxa-passwords-help = سی گرؽڌن هیاری قلوه و <a data-l10n-name="passwords-help-link">لادراری مربۊت و رزم</a> ریوین.
 about-logins-intro-browser-only-import = ٱر دووسمندیا و من ٱووڌن ایسا من ی گشت گر دی زفت وابیڌنه، ایسا ترین <a data-l10n-name="import-link">هونووݩ ن و { -brand-product-name } جاگورو کۊنین</a>
+about-logins-intro-import2 = ٱر و من ٱووڌنا ایسا و در ز { -brand-product-name } زفت وابیڌنه، ترین <a data-l10n-name="import-browser-link">هونووݩ ن ز گشت گر دی</a> یا <a data-l10n-name="import-file-link">ز ی فایل</a> و من یارین
 
 ## Login
 
