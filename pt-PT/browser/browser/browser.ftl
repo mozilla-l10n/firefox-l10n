@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurar para baixo
 browser-window-close-button =
     .tooltiptext = Fechar
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Voltar
 
 ## Tab actions
 
@@ -1176,6 +1179,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nova janela privada
     .tooltiptext = Abrir uma nova janela de navegação privada ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Partilhar
+    .tooltiptext = Partilhar esta página
 
 ## EME notification panel
 
@@ -1564,6 +1570,46 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] O { -brand-product-name } permitiu { $count } rastreador de redes sociais
        *[other] O { -brand-product-name } permitiu { $count } rastreadores de redes sociais
     }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } cookie de monitorização entre sites
+       *[other] O { -brand-product-name } bloqueou { $count } cookies de monitorização entre sites
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } cookie de rastreamento entre sites
+       *[other] O { -brand-product-name } permitiu { $count } cookies de rastreamento entre sites
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } rastreador
+       *[other] O { -brand-product-name } bloqueou { $count } rastreadores
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } rastreador
+       *[other] O { -brand-product-name } permitiu { $count } rastreadores
+    }
 trustpanel-tracking-content-tab-list-header = Estes sites estão a tentar monitorizá-lo:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } identificador digital
+       *[other] O { -brand-product-name } bloqueou { $count } identificadores digitais
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } identificador digital
+       *[other] O { -brand-product-name } permitiu { $count } identificadores digitais
+    }
 trustpanel-fingerprinter-list-header = Estes sites estão a tentar identificá-lo:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } cripto-minerador
+       *[other] O { -brand-product-name } bloqueou { $count } cripto-mineradores
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } cripto-minerador
+       *[other] O { -brand-product-name } permitiu { $count } cripto-mineradores
+    }
 trustpanel-cryptominer-tab-list-header = Estes sites estão a tentar criptominerar:
