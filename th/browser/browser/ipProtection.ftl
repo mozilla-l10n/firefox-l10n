@@ -60,3 +60,27 @@ ipprotection-connection-status-excluded = VPN ปิดอยู่สำหร�
 ipprotection-connection-status-connecting = VPN กำลังเชื่อมต่อ…
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = ปิด VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = ปิด VPN ทุกไซต์
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = เปิด VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = กำลังเปิด…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN หยุดชั่วคราว
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = คุณใช้ข้อมูล VPN ครบ { $maxUsage } GB แล้ว การเข้าถึงจะถูกรีเซ็ตในเดือนหน้า
+upgrade-vpn-title = รับการปกป้องเพิ่มเติมเหนือกว่าแค่การใช้เบราว์เซอร์
+upgrade-vpn-description = เลือกตำแหน่ง VPN ของคุณ ใช้ VPN สำหรับแอปทั้งหมดของคุณและอุปกรณ์ได้สูงสุด 5 เครื่อง และรักษาความปลอดภัยบนเครือข่ายใดก็ได้ ไม่ว่าจะเป็นที่บ้านหรือบน Wi-Fi สาธารณะ
+upgrade-vpn-button = ลองใช้ { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = ไม่สามารถเชื่อมต่อกับ VPN ได้
+ipprotection-connection-status-generic-error-description = ลองใหม่อีกครั้งในอีกสักครู่
+ipprotection-connection-status-network-error-title = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
+ipprotection-connection-status-network-error-description = เชื่อมต่อกับอินเทอร์เน็ต จากนั้นลองเปิด VPN
