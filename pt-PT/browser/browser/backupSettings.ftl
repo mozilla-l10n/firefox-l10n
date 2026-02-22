@@ -29,12 +29,14 @@ settings-data-backup-in-progress-message =
     .message = Cópia de segurança em progresso…
 settings-data-backup-scheduled-backups-on = Cópia de segurança: ATIVADA
 settings-data-backup-scheduled-backups-off = Cópia de segurança: DESATIVADA
+settings-data-backup-scheduled-backups-description = Proteja automaticamente os seus marcadores, histórico e outros dados. <a data-l10n-name="support-link">Saber mais</a>
 settings-data-backup-last-backup-date = Última cópia de segurança: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Localização
 settings-data-backup-last-backup-location-show-in-folder = Mostrar na pasta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Ocorreu um erro ao criar a sua cópia de segurança em { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Faça uma cópia das suas palavras-passe e métodos de pagamento, além de manter todos os seus dados seguros com encriptação.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nome do ficheiro: { $fileName }
@@ -47,6 +49,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Escolher o ficheiro 
 
 ## These strings are shown under the header if scheduled backups are enabled.
 
+settings-data-backup-scheduled-backups-on-restore-description = Recupere os seus dados de { -brand-product-name } da última vez que fez uma cópia de segurança.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Efetue uma cópia de segurança dos seus dados sensíveis
 settings-data-toggle-encryption-support-link = Saber mais
@@ -55,6 +58,7 @@ settings-data-change-password = Alterar a palavra-passe…
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Ativar a cópia de segurança
+turn-on-scheduled-backups-description = O { -brand-short-name } irá criar uma captura dos seus dados a cada 24 horas. Pode restaurá-lo se houver um problema ou se obter um novo dispositivo.
 turn-on-scheduled-backups-support-link = O que será copiado?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Localização
@@ -140,6 +144,11 @@ backup-service-error-unsupported-application =
 backup-service-error-recovery-failed =
     .heading = O { -brand-short-name } não conseguiu restaurar
     .message = Reinicie o { -brand-short-name } e tente restaurar novamente a sua cópia de segurança.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = Ocorreu um problema ao criar a cópia de segurança.
+    .message = Tente novamente em alguns minutos.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
@@ -193,6 +202,7 @@ backup-error-retry = Ocorreu algo de errado. Por favor, tente novamente.
 
 backup-file-header = O { -brand-short-name } está pronto para ser restaurado.
 backup-file-title = Restaurar o { -brand-short-name }
+backup-file-intro = Volte a navegar e recupere todos os seus marcadores, histórico e outros dados. <a data-l10n-name="backup-file-support-link">Saber mais</a>
 backup-file-path-label = Ficheiro da cópia de segurança:
 backup-file-encryption-state-label = Encriptada:
 backup-file-encryption-state-value-encrypted = Sim
@@ -231,5 +241,6 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Criada a { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }
+backup-file-restore-file-validation-error = Este ficheiro não está a funcionar. Tente escolher um ficheiro diferente. <a data-l10n-name="restore-problems">Ainda tem problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nenhum ficheiro selecionado

@@ -212,6 +212,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Configuração pré-definida para depuração no { -brand-shorter-name }. Apresenta grande sobrecarga, não recomendada para tarefas de desempenho, mas sim para se concentrar em compreender o comportamento do navegador.
 profiler-popup-presets-debug-label =
     .label = Depuração
+profiler-popup-presets-web-compat-description = Predefinição recomendada para depurar problemas de compatibilidade em sites, em vez de monitorizar o desempenho.
+profiler-popup-presets-web-compat-label =
+    .label = Compatibilidade Web
 profiler-popup-presets-custom-label =
     .label = Personalizada
 
@@ -292,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Mascare o seu e-mail e telefone reais
 appmenuitem-services-relay-description = Iniciar o painel de máscaras de e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Obtenha proteção para todo o dispositivo
 appmenuitem-vpn-description = Proteja a sua privacidade na Internet
 appmenu-services-header = Os meus serviços
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

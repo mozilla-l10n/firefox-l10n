@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Adicionar esta página aos marcadores ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Vista dividida
+    .aria-label = Vista dividida
 
 ## Page Action Context Menu
 
@@ -426,6 +429,9 @@ quickactions-cmd-restart = reiniciar
 # Opens the screenshot tool
 quickactions-screenshot3 = Tirar uma captura de ecrã
 quickactions-cmd-screenshot2 = captura de ecrã, tirar uma captura de ecrã
+# Opens about:translations
+quickactions-translate = Traduzir
+quickactions-cmd-translate = traduzir
 quickactions-cmd-screenshot = captura de ecrã
 # Opens about:preferences
 quickactions-settings2 = Gerir definições
@@ -526,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = A sua ligação a este site não é segura.
 identity-connection-verified = Está ligado(a) de forma segura a este site.
 identity-ev-owner-label = Certificado emitido para:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Qualificado conforme especificado na Legislação (EU) 2024/1183.
 identity-description-custom-root2 = A Mozilla não reconhece este emissor de certificados. Este pode ter sido adicionado a partir do seu sistema operativo ou por um administrador.
 identity-remove-cert-exception =
     .label = Remover exceção
@@ -719,6 +727,7 @@ urlbar-result-action-search-in-private = Pesquisar numa janela privada
 urlbar-result-action-search-w-engine = Pesquisar com { $engine }
 urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Mudar para o separador
+urlbar-result-action-move-tab-to-split-view = Mover separador para vista dividida
 urlbar-result-action-visit = Visitar
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -758,6 +767,14 @@ urlbar-result-action-copy-to-clipboard = Copiar
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = não definido
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Extensão { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Recomendado
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -815,6 +832,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Perguntar
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -835,6 +854,9 @@ urlbar-result-menu-dont-show-market =
     .label = Não mostrar sugestões de mercados
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Obrigado pela sua opinião. Não irá ver mais as sugestões de mercados.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Sugestões do mercado de ações
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Obrigado pelo seu feedback. Deixará de ver estas sugestões.
@@ -913,6 +935,9 @@ urlbar-searchmode-default =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Desta vez, pesquisar com:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Pesquisar com:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Definições de pesquisa
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
@@ -926,6 +951,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nenhum atalho selecionado, escolher um atalho
     .tooltiptext = Nenhum atalho selecionado, escolher um atalho
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = A pesquisa por palavra-chave está desativada
+    .tooltiptext = A pesquisa por palavra-chave está desativada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1390,6 +1419,13 @@ popup-warning-exceeded-message =
     { $popupCount ->
         [one] O
        *[other] { -brand-short-name } impediu este site de abrir mais de { $popupCount } janelas pop-up.
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] O { -brand-short-name } impediu este site de abrir mais de { $popupCount } janela pop-up e redirecionar.
+       *[other] O { -brand-short-name } impediu este site de abrir mais de { $popupCount } janelas pop-up e redirecionar.
     }
 popup-warning-button =
     .label =
