@@ -1494,6 +1494,7 @@ trustpanel-connection-label-insecure = Ligação não segura
 trustpanel-header-enabled = { -brand-product-name } está a proteger
 trustpanel-description-enabled2 = Está protegido. Se detetarmos algo, iremos fornecer-lhe essa informação.
 trustpanel-header-enabled-insecure = Tenha cuidado neste site
+trustpanel-description-enabled-insecure = { -brand-product-name } detetou algo suspeito.
 trustpanel-header-disabled = Você desativou as proteções
 trustpanel-description-disabled = { -brand-product-name } não está ao serviço. Sugerimos que volte a ativar as proteções.
 trustpanel-clear-cookies-button = Limpar cookies e dados de sites
@@ -1532,6 +1533,11 @@ trustpanel-tracking-header = O { -brand-product-name } permitiu estas coisas, e 
 trustpanel-tracking-description = Sem rastreadores, alguns botões, formulários e campos de autenticação podem não funcionar.
 trustpanel-insecure-section-header = A sua ligação não é segura
 trustpanel-insecure-description = Os dados que está a enviar para este site não estão encriptados. Podem ser visualizados, roubados ou alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] Cookie de monitorização entre sites
+       *[other] Cookies de monitorização entre sites
+    }
 trustpanel-list-label-tracking-content = Conteúdo de monitorização
 trustpanel-list-label-fingerprinter =
     { $count ->
@@ -1547,6 +1553,16 @@ trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } criptominerador
        *[other] { $count } criptomineradores
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } bloqueou { $count } rastreador de redes sociais
+       *[other] O { -brand-product-name } bloqueou { $count } rastreadores de redes sociais
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] O { -brand-product-name } permitiu { $count } rastreador de redes sociais
+       *[other] O { -brand-product-name } permitiu { $count } rastreadores de redes sociais
     }
 trustpanel-tracking-content-tab-list-header = Estes sites estão a tentar monitorizá-lo:
 trustpanel-fingerprinter-list-header = Estes sites estão a tentar identificá-lo:
