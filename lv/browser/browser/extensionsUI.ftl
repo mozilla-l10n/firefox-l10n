@@ -7,7 +7,7 @@ webext-perms-learn-more = Uzzināt vairāk
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
 #   $newEngine (String): name of the new search engine.
-webext-default-search-description = { $addonName } vēlētos mainīt noklusēto meklētāju no { $currentEngine } uz { $newEngine }. Vai tas būs labi?
+webext-default-search-description = { $addonName } vēlas mainīt noklusējuma meklētāju no { $currentEngine } uz { $newEngine }. Vai tas ir pieņemami?
 webext-default-search-yes =
     .label = Jā
     .accesskey = J

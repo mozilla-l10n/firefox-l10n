@@ -21,7 +21,7 @@ aboutdialog-update-downloading = Lejupielādē atjauninājumu — <label data-l
 
 ##
 
-update-applying = Lieto atjauninājumu…
+update-applying = Uzstāda atjauninājumu…
 update-failed = Atjaunināšana neizdevās. <label data-l10n-name="failed-link">Lejupielādējiet jaunāko versiju</label>
 update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-main">Lejupielādējiet jaunāko versiju</a>
 update-adminDisabled = Sistēmas administrators ir izslēdzis atjaunināšanu

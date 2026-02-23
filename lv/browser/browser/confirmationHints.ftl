@@ -30,3 +30,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] Aizvērta { $tabCount } cilne
        *[other] Aizvērtas { $tabCount } cilnes
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Pārvietota uz izvēlni

@@ -32,3 +32,6 @@ pending-crash-reports-send =
     .label = Nosūtīt
 pending-crash-reports-always-send =
     .label = Vienmēr sūtīt
+requested-crash-reports-dont-show-again =
+    .label = Vairs nerādīt
+    .accesskey = V
