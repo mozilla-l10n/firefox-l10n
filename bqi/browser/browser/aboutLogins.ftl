@@ -173,18 +173,35 @@ about-logins-edit-login-os-auth-dialog-message-win = سی آلشت و من ٱو�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = آلشت دووسمندیا و من ٱووڌن زفت وابیڌه
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] سامووا رزما ن آلشت کۊنین
+       *[other] { -brand-short-name } هونی قپ ریت اکونه تا آلشت سامووا سی رزما ن ٱنجوم بڌه. سی هشتن ای کار، وا دسگا خوتووݩ و من بیاین.
+    }
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = سی آلشت رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = آلشت رزم زفت وابیڌه
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = سی نیشتن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = رزم زفت وابیڌه ن وادیاری بیارین
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = سی لف گیری رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = سی و در کشیڌن و من ٱووڌنا تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = و در کشیڌن نوما منتوری وو رزما زفت وابیڌه
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = سی و در کشیڌن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن امنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = و در کشیڌن رزما زفت وابیڌه
