@@ -41,7 +41,7 @@ policy-DisableDefaultBrowserAgent = Liegt noklusējuma pārlūka aģentam veikt 
 policy-DisableDeveloperTools = Bloķēt pieeju izstrādātāju rīkiem.
 policy-DisableEncryptedClientHello = Izslēgt TLS funkcijas Encrypted Client Hello (ECH) izmantošanu.
 policy-DisableFeedbackCommands = Atspējo komandas, kas var nosūtīt atsauksmes no Palīdzības izvēlnes (Sūtīt atsauksmi un Ziņot par krāpnieku lapu).
-policy-DisableFirefoxAccounts = Izslēgt { -fxaccount-brand-name } pakalpojumus, piemēram Sync.
+policy-DisableFirefoxAccounts = Izslēgt uz { -fxaccount-brand-name } balstītus pakalpojumus, tostarp Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Izslēgt ar kontu saistītus pakalpojumus, tostarp sinhronizāciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -55,27 +55,27 @@ policy-DisablePocket2 = Izslēgt iespēju saglabāt tīmekļlapas { -pocket-bran
 policy-DisablePrivateBrowsing = Izslēgt privāto pārūkošanu.
 policy-DisableProfileImport = Izslēgt izvēlnes vienumu datu importēšanai no cita pārlūka.
 policy-DisableProfileRefresh = Izslēgt { -brand-short-name } atsvaidzināšanas pogu lapā about:support
-policy-DisableSafeMode = Deaktivē iespēju pārstartēties drošajā režīmā. Piezēmi: Shift taustiņa lietošanu, lai ieslēgtos drošajā režīmā ir iespējams atslēgt vienīgi Windows platformā.
+policy-DisableSafeMode = Deaktivē iespēju pārstartēties drošajā režīmā. Piezīme: Shift taustiņa lietošanu, lai ieslēgtos drošajā režīmā ir iespējams atslēgt vienīgi Windows platformā.
 policy-DisableSecurityBypass = Liedz lietotājam apiet noteiktus drošības brīdinājumus.
-policy-DisableSetAsDesktopBackground = Deaktivē attēlu izvēlnes iespēju Iestatīt kā darba virsmas fona attēlu.
-policy-DisableSystemAddonUpdate = Liedz pārlūkam atjaunināt un instalēt sistēmas papildinājumus.
+policy-DisableSetAsDesktopBackground = Atspējot izvēlnes iespēju "Iestatīt kā darbvirsmas fona attēlu" attēliem.
+policy-DisableSystemAddonUpdate = Liedz pārlūkam atjaunināt un uzstādīt sistēmas papildinājumus.
 policy-DisableTelemetry = Atslēdz telemetriju.
 policy-DisableThirdPartyModuleBlocking = Liegt lietotājam bloķēt trešās puses moduļus, kas tiek injicēti { -brand-short-name } procesā.
 policy-DisplayBookmarksToolbar = Pēc noklusējuma rāda grāmatzīmju rīkjoslu.
 policy-DisplayMenuBar = Pēc noklusējuma rāda izvēlnes joslu.
 policy-DNSOverHTTPS = DNS konfigurēšana, izmantojot HTTPS.
-policy-DontCheckDefaultBrowser = Deaktivē noklusētā pārlūka pārbaudi startējot.
+policy-DontCheckDefaultBrowser = Atspējot noklusējuma pārlūka pārbaudi pēc palaišanas.
 policy-DownloadDirectory = Iestatīt un noslēgt lejupielādes mapi.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Aktivē vai deaktivē satura bloķēšanu.
+policy-EnableTrackingProtection = Iespējot vai atspējot satura aizturēšanu un pēc izvēles to aizslēgt.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Ieslēgt vai izslēgt šifrētos multivides paplašinājumus un pēc izvēles tos noslēgt.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Izslēgt brīdinājumus, kuru pamatā ir datņu paplašinājumi noteiktiem datņu tipiem domēnos.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Instalē, atinstalē vai fiksē papildinājumus. Instalēšanas iespējai ir jānorāda adreses vai sistēmas ceļi. Atinstalēšanas un fiksēšanas iespējai paplašinājuma ID.
-policy-ExtensionSettings = Pārvaldīt visus paplašinājumu instalēšanas aspektus.
+policy-Extensions = Uzstāda, noņem vai slēdz paplašinājumus. Uzstādīšanas iespējai kā parametri ir jānorāda URL vai ceļi. Noņemšanas un slēgšanas iespējām - paplašinājuma identifikators.
+policy-ExtensionSettings = Pārvaldīt visus paplašinājumu uzstādīšanas aspektus.
 policy-ExtensionUpdate = Ieslēgt vai izslēgt automātisku paplašinājumu atjaunināšanu.
 policy-FirefoxHome2 = Konfigurēt { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurēt { -firefox-suggest-brand-name }.
