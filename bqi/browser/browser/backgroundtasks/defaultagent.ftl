@@ -2,5 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+default-browser-notification-header-text = اخۊین هنی { -brand-short-name } ن و کار گیرین؟
 default-browser-notification-yes-button-text = هری
 default-browser-notification-no-button-text = ن
