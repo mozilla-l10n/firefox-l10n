@@ -53,6 +53,11 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = نیمدری سیخومی نۊ
     .accesskey = W
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = گۊشیڌن جاگه…
 menu-file-open-file =
     .label = گۊشیڌن فایل…
     .accesskey = O
@@ -178,6 +183,15 @@ menu-view-close-readerview =
     .label = بستن نما خۊندنی
     .accesskey = R
 
+##
+
+menu-view-show-all-tabs =
+    .label = نشووݩ داڌن پوی بلگه یل
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = آلشت جهت بلگه
+    .accesskey = D
+
 ## History Menu
 
 menu-history =
@@ -269,6 +283,15 @@ menu-tools-fxa-re-auth =
 menu-tools-browser-tools =
     .label = ٱوزارا گشت گر
     .accesskey = B
+menu-tools-task-manager =
+    .label = دؽوۉدار وزیفه یل
+    .accesskey = M
+menu-tools-page-source =
+    .label = بونچک بلگه
+    .accesskey = o
+menu-tools-page-info =
+    .label = دووسمندیا بلگه
+    .accesskey = I
 menu-settings =
     .label = سامووا
     .accesskey =
@@ -299,5 +322,7 @@ menu-help =
 menu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = H
+menu-help-report-site-issue =
+    .label = گوزارش موشکل وبگه…
 menu-report-broken-site =
     .label = گوزارش خراوی وبگه
