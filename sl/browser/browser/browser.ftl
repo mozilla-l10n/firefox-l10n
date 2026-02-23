@@ -569,6 +569,9 @@ browser-window-restore-down-button =
     .tooltiptext = Obnovi navzdol
 browser-window-close-button =
     .tooltiptext = Zapri
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Nazaj
 
 ## Tab actions
 
@@ -1190,6 +1193,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Novo zasebno okno
     .tooltiptext = Odpri novo okno v zasebnem načinu brskanja ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Deli
+    .tooltiptext = Deli to stran
 
 ## EME notification panel
 

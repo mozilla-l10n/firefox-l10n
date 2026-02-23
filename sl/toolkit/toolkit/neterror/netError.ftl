@@ -95,6 +95,7 @@ neterror-file-not-found-moved = Preverite, ali je bila datoteka premaknjena, pre
 neterror-access-denied = Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.
 neterror-unknown-protocol = Za odpiranje tega naslova boste morda morali namestiti dodaten program.
 neterror-redirect-loop = Težavo lahko povzroča onemogočanje ali zavračanje piškotkov.
+neterror-unknown-socket-type-client-config = Lahko bi bila kriva napaka v nastavitvah vašega odjemalca.
 neterror-unknown-socket-type-psm-installed = Prepričajte se, da je nameščen upravitelj osebne varnosti.
 neterror-unknown-socket-type-server-config = Vzrok napaki je lahko nestandardna nastavitev strežnika.
 neterror-not-cached-intro = Zahtevan dokument ni več na voljo v predpomnilniku { -brand-short-name }a.

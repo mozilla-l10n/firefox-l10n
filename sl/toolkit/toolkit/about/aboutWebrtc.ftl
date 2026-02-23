@@ -198,6 +198,8 @@ about-webrtc-bandwidth-stats-heading = Ocenjena pasovna širina
 about-webrtc-send-bandwidth-bytes-sec = Pasovna širina pošiljanja (bitov/s)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Pasovna širina prejemanja (bitov/s)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Največji odmik (bajtov/s)
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:

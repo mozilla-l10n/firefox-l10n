@@ -559,3 +559,20 @@ onboarding-personalization-motivation-title = Katere lastnosti { -brand-short-na
 onboarding-personalization-motivation-privacy-option = Zasebnost in varnost
 onboarding-personalization-motivation-productivity-option = Produktivnost
 onboarding-personalization-motivation-other-option = Drugo
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Ščitimo vaše podatke in – samodejno! – preprečujemo podjetjem, da bi vohunila za vašimi kliki.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Ste v varnih šapah
+onboarding-refresh-import-subtitle = Prinesite si s seboj gesla, zaznamke, zgodovino in druge podatke.
+onboarding-refresh-import-title = Dajte { -brand-short-name(sklon: "dajalnik") } svoj pečat
+onboarding-refresh-onboarding-addons-subtitle = Razširitve so drobne aplikacije, s katerimi si lahko prilagodite { -brand-short-name(sklon: "tozilnik") }. Z njimi lahko povečate zasebnost, izboljšate svojo produktivnost, spremenite videz { -brand-short-name(sklon: "rodilnik") } in še veliko več.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Povzdignite svoje brskanje na novo raven
+onboarding-refresh-sync-subtitle = Priskrbite si zaznamke, gesla in druge podatke povsod, kjer ste prijavljeni v { -brand-short-name(sklon: "tozilnik") }. Vaši podatki so šifrirani, tako da jih lahko vidite samo vi.
+onboarding-refresh-sync-title = Pojdite kamorkoli. Sinhronizirajte vse.
+onboarding-refresh-gratitude-subtitle = Hvala, ker uporabljate { -brand-short-name(sklon: "tozilnik") }, edini večji brskalnik, za katerim stoji neprofitna organizacija. Z vašo podporo si prizadevamo narediti internet varnejši in dostopnejši za vse.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet

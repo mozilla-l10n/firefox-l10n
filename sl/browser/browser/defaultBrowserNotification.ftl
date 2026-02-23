@@ -42,3 +42,4 @@ default-browser-guidance-notification-info-page = Pokaži mi
 default-browser-guidance-notification-dismiss = Urejeno
 default-browser-guidance-notification-v2-title = Dokončajte nastavljanje { -brand-short-name(sklon: "rodilnik") } za privzeti brskalnik
 default-browser-guidance-notification-v2-body = V nastavitvah pod { -brand-short-name(sklon: "tozilnik") } izberite "Nastavi privzeto".
+default-browser-guidance-notification-v2-title-only = Dokončajte nastavljanje { -brand-short-name(sklon: "rodilnik") } za privzeti brskalnik v nastavitvah

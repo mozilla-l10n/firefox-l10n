@@ -202,6 +202,7 @@ backup-error-retry = Prišlo je do napake. Poskusite znova.
 
 backup-file-header = { -brand-short-name } je pripravljen na obnovitev
 backup-file-title = Obnovi { -brand-short-name }
+backup-file-intro = Vrnite se k brskanju in obnovite svoje zaznamke, zgodovino in druge podatke. <a data-l10n-name="backup-file-support-link">Več o tem</a>
 backup-file-path-label = Datoteka z varnostno kopijo:
 backup-file-encryption-state-label = Šifrirana:
 backup-file-encryption-state-value-encrypted = da

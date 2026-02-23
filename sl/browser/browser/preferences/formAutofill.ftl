@@ -152,6 +152,12 @@ autofill-card-expires-month = Mesec poteka
 autofill-card-expires-year = Leto poteka
 autofill-card-billing-address = Naslov za izstavitev računa
 autofill-card-network = Vrsta kartice
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = kreditne kartice, kreditne, kartice, debetne kartice, bančne kartice, banka, denarnica, blagajna
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

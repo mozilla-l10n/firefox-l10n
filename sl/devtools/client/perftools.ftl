@@ -21,6 +21,10 @@ perftools-heading-threads = Niti
 perftools-heading-threads-jvm = Niti JVM
 perftools-heading-local-build = Lokalna graditev
 
+##
+
+perftools-pick-local-build-directory = Izberite mapo za graditev
+
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-label = Interval vzorčenja:

@@ -571,9 +571,11 @@ applications-filter =
 applications-type-column =
     .label = Vrsta vsebine
     .accesskey = T
+applications-type-heading = Vrsta vsebine
 applications-action-column =
     .label = Dejanje
     .accesskey = A
+applications-action-heading = Dejanje
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Datoteka { $extension }
@@ -2216,6 +2218,12 @@ preferences-ai-controls-description = { -brand-short-name } vam vedno daje izbir
 preferences-ai-controls-block-ai-label = Prepovej izboljšave s pomočjo UI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Prepoved pomeni, da { -brand-short-name } ne bo prikazoval novih ali trenutnih izboljšav z uporabo umetne inteligence, niti obvestil v zvezi z njimi. <a data-l10n-name="link">Več o tem</a>, kaj je vključeno in kako lahko nadzirate tradicionalne zmogljivosti strojnega učenja, kot so predlogi iskanja in priporočila.
+preferences-ai-controls-blocked-message =
+    .message = Nove in trenutne izboljšave z uporabo UI so privzeto prepovedane. Če želite omogočiti določeno možnost, uporabite spodnje nastavitve.
+preferences-ai-controls-on-device-group =
+    .label = UI na napravi
+    .description = Naslednje zmogljivosti uporabljajo male modele UI, ki se prenesejo na vašo napravo, če jih uporabite. Takšen pristop pripomore k večji zasebnosti.
 preferences-ai-controls-translations-control =
     .label = Prevajanje
     .description = Brez truda brskajte po spletu v svojem jeziku.
@@ -2248,6 +2256,7 @@ preferences-ai-controls-state-description-available = <strong>Na voljo:</strong>
 preferences-ai-controls-state-description-enabled = <strong>Omogočeno:</strong> Odločili ste se, da želite možnost uporabljati.
 preferences-ai-controls-state-description-blocked = <strong>Prepovedano:</strong> Možnost se vam ne bo prikazovala in je ne boste mogli uporabljati. Morebitni modeli UI, ki so se že prenesli na napravo, so bili odstranjeni.
 preferences-ai-controls-block-confirmation-heading = Želite prepovedati izboljšave z uporabo UI?
+preferences-ai-controls-block-confirmation-description = { -brand-short-name } ne bo prikazoval novih ali trenutnih izboljšav z umetno inteligenco, niti obvestil v zvezi z njimi. Naknadno lahko omogočite posamezne možnosti, ki bi jih radi uporabljali.
 preferences-ai-controls-block-confirmation-features-start = Kaj bo onemogočeno:
 preferences-ai-controls-block-confirmation-translations = prevajanje
 preferences-ai-controls-block-confirmation-pdfjs = nadomestno besedilo slik v { -brand-short-name }ovem pregledovalniku PDF
