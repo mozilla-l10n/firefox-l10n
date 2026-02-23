@@ -30,6 +30,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Не, ташак�
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Интихоб кунед, ки шумо «VPN»-ро дар куҷо истифода мебаред
+ipprotection-site-settings-callout-button = Фаҳмидам
 
 ## Panel
 
