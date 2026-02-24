@@ -75,3 +75,11 @@ ipprotection-connection-status-paused-title = VPN pausada
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Has usado { $maxUsage } GB de datos de tu VPN. El acceso se restablecerá el próximo mes.
 upgrade-vpn-title = Obtén protección adicional más allá del navegador
+upgrade-vpn-description = Elige la ubicación de tu VPN, usa VPN para todas tus aplicaciones y hasta 5 dispositivos, y mantente seguro en cualquier red, en casa o en Wi-Fi público.
+upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = No se pudo conectar a la VPN
+ipprotection-connection-status-generic-error-description = Vuelve a intentarlo en unos minutos.
+ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
