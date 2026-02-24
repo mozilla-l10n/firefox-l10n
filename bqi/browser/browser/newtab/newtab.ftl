@@ -18,7 +18,14 @@ newtab-logo-and-wordmark =
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 newtab-search-box-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = پیتینیڌن یا زیڌن نشۊوی
+    .title = پیتینیڌن یا زیڌن نشۊوی
+    .aria-label = پیتینیڌن یا زیڌن نشۊوی
 newtab-search-box-text = پیتینیڌن من وب
+newtab-search-box-input =
+    .placeholder = پیتینیڌن من وب
+    .aria-label = پیتینیڌن من وب
 
 ## Top Sites - General form dialog.
 
@@ -30,13 +37,24 @@ newtab-topsites-add-shortcut-title =
     .title = ٱووردن ره نهنگ
     .aria-label = ٱووردن ره نهنگ
 newtab-topsites-title-label = عونوان
+newtab-topsites-title-input =
+    .placeholder = زیڌن ی عونوان
 newtab-topsites-url-label = نشۊوی اینترنتی
+newtab-topsites-url-input =
+    .placeholder = ی نشۊوی هؽل کۊنین یا جا بونین
+newtab-topsites-url-validation = نشۊوی اینترنتی موعتبر لازوم هڌ
+newtab-topsites-image-url-label = نشۊوی سفارشی شؽوات
+newtab-topsites-use-image-link = و کار گرؽڌن ی شؽوات سفارشی…
+newtab-topsites-image-validation =
+    بار ونی شؽوات شکست خرد.
+    نشۊوی دیری ن امتهووݩ کۊنین.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = لقو
 newtab-topsites-delete-history-button = پاک کردن ز ویرگار
 newtab-topsites-save-button = زفت
+newtab-topsites-preview-button = پؽش نیر
 newtab-topsites-add-button = ٱووردن
 
 ## Top Sites - Delete history confirmation dialog.

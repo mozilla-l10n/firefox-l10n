@@ -210,6 +210,8 @@ windows-10-eos-feature-toast-dismiss-button = رڌ کردن
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = قلوه دووسته بۊین
+etp-strict-exceptions-infobar-not-now = سکو ن
+    .accesskey = N
 
 ## 'Set to default' messaging displayed within the App menu
 
