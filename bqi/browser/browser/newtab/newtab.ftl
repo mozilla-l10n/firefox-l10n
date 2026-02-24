@@ -155,10 +155,23 @@ newtab-section-menu-expand-section = واز کردن بشن
 newtab-section-menu-manage-section = دؽوۉداری بشن
 newtab-section-menu-manage-webext = دؽوۉداری وردنی
 newtab-section-menu-add-search-engine = ٱووردن موتور پیتینیڌن
+newtab-section-menu-move-up = جاگورو و روء
+newtab-section-menu-move-down = جاگورو و لم
 newtab-section-menu-privacy-notice = نوکات زفت مهرموویی
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = جم کردن بشن
+newtab-section-expand-section-label =
+    .aria-label = واز کردن بشن
 
 ## Section Headers.
 
+newtab-section-header-recent-activity = فعالیتا دیندایی
+# Variables:
+#   $provider (string) - Name of the corresponding content provider.
+newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
