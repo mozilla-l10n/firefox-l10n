@@ -162,6 +162,8 @@ about-logins-edit-login-os-auth-dialog-message-win = ដើម្បីកែស
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = កែសម្រួលការចូលដែលបានរក្សាទុក
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = ដើម្បីកែសម្រួលពាក្យសម្ងាត់របស់អ្នក សូមបញ្ចូលអត្តសញ្ញាណបញ្ជាប់ចូលប្រព័ន្ធវីនដូរបស់អ្នក។ វាជួយការពារសុវត្ថិភាពគណនីរបស់អ្នក។
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = កែសម្រួលពាក្យសម្ងាត់ដែលបានរក្សាទុក
