@@ -44,6 +44,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
 ## Perplexity callout strings
 
 perplexity-callout-theme-2-title = Perplexity ن امتهووݩ کۊنین: ی بارت نۊ سی پیتینیڌن
+perplexity-callout-primary-label = پورس کردن ز پرپلکسیتی
 perplexity-callout-secondary-label-1 = رڌ کردن
 perplexity-callout-secondary-label-2 = فئمیم
 
@@ -73,6 +74,11 @@ sidebar-pins-callout-cta-button = دیسنیڌن بلگه
 pin-tabs-callout-cta-1-button = دیسنیڌن ای بلگه
 pin-tabs-callout-cta-2-button = دیسنیڌن ای بلگه
 
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-callout-button = سفارشی کردن نوار کلی
+sidebar-customization-callout-dismiss-button = بؽڌار کردن نوار کلی
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = نوکات زفت مهرموویی
@@ -85,7 +91,10 @@ sidebar-callout-survey-dont-use-it = و کارس نؽگروم
 sidebar-callout-survey-agree = قوۊلومه
 sidebar-callout-survey-disagree = قوۊلوم نؽ
 sidebar-callout-survey-strongly-disagree = هیچ قوۊلوم نؽ
+sidebar-callout-survey-saved-websites-2 = دسرسی زل و نشووکا ایسا
+sidebar-callout-survey-none-of-above = هیچ کویکی ز مووردا رویی
 sidebar-callout-survey-submit = فشناڌن
+sidebar-callout-survey-thank-you = ممنووݩ ز منشڌ ایسا!
 unified-search-callout-primary-label = بئڌی
 unified-search-callout-secondary-label = رڌ کردن
 unified-search-engines-callout-primary-label = فئمیم
