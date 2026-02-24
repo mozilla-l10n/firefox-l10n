@@ -462,7 +462,7 @@ support-get-help =
 
 ## General Section - Performance
 
-performance-title = عملکرد
+performance-title = کارایی
 performance-settings-learn-more = قلوه دووسته بۊین
 performance-limit-content-process-option = مئدۊدیت پروسه موئتوا
     .accesskey = l
@@ -471,7 +471,7 @@ performance-limit-content-process-option = مئدۊدیت پروسه موئتو�
 performance-default-content-process-count =
     .label = { $num } (پؽش فرز)
 performance-group =
-    .label = عملکرد
+    .label = کارایی
 
 ## General Section - Browsing
 
