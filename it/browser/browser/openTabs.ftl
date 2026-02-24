@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Scegli una scheda da aggiungere a schermo diviso
+opentabs-search-text-box =
+    .placeholder = Cerca nelle schede
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Risultati della ricerca di “{ $query }”
