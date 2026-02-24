@@ -61,7 +61,27 @@ ip-protection-learn-more = قلوه دووسته بۊین
 ip-protection-site-exceptions =
     .label = سامووا خاس وبگه
 ip-protection-not-opted-in-button = ناهاڌن پا کار
+ip-protection-autostart =
+    .label = رۊشن کردن خوتکار VPN
+ip-protection-autostart-checkbox =
+    .label = هرسا { -brand-short-name } ن اگوشوم
+ip-protection-autostart-private-checkbox =
+    .label = من نیمدری یل سیخومی
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = دؽوۉداری سامووا وبگه
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = داده یل VPN ماهانه
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = فئمیم
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN واستا
 vpn-error-alert-body = دینداتر دووارته امتهووݩ کۊنین.
