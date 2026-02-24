@@ -85,3 +85,19 @@ ipprotection-connection-status-generic-error-description = ลองใหม่
 ipprotection-connection-status-network-error-title = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
 ipprotection-connection-status-network-error-description = เชื่อมต่อกับอินเทอร์เน็ต จากนั้นลองเปิด VPN
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ปิดอยู่สำหรับไซต์นี้
+
+## IP Protection Settings
+
+ip-protection-not-opted-in-button = เริ่มต้นใช้งาน
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = เข้าใจแล้ว
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN หยุดชั่วคราว
+vpn-paused-alert-close-tabs-button = ปิดแท็บทั้งหมด
+vpn-paused-alert-continue-wo-vpn-button = ดำเนินการต่อโดยไม่ต้องใช้ VPN
+vpn-error-alert-title = ขณะนี้ VPN ใช้งานไม่ได้
+vpn-error-alert-body = ลองอีกครั้งในภายหลัง
