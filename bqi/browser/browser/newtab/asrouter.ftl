@@ -71,6 +71,25 @@ spotlight-public-wifi-vpn-link = سکو ن
 
 spotlight-pin-secondary-button = سکو ن
 
+## MR2022 Background Update Windows native toast notification strings.
+##
+## These strings will be displayed by the Windows operating system in
+## a native toast, like:
+##
+## <b>multi-line title</b>
+## multi-line text
+## <img>
+## [ primary button ] [ secondary button ]
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = دینداتر وا ویروم بیار
+
 ## Firefox View CFR
 
 firefoxview-cfr-primarybutton = امتهووس کوݩ
@@ -138,6 +157,15 @@ launch-on-login-infobar-final-reject-button = ن ممنووݩ
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = سکو ن
+
+## Root Certificate Succession Infobar
+
+root-certificate-succession-infobar-primary-button =
+    .label = سکو ورۊ رسۊوی کۊنین
+    .accesskey = U
+root-certificate-succession-infobar-secondary-button =
+    .label = دیندا
+    .accesskey = L
 
 ## Root Certificate Succession Windows Background Notification
 

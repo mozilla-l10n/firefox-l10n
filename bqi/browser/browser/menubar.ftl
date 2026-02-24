@@ -304,6 +304,8 @@ menu-settings =
 
 menu-window-menu =
     .label = نیمدری
+menu-window-bring-all-to-front =
+    .label = ٱووردن پوی و جلاو
 
 ## Help Menu
 
