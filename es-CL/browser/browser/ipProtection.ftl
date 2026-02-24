@@ -107,7 +107,7 @@ ipprotection-bandwidth-upgrade-text = Elige una ubicación de VPN y agrega prote
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Te estás acercando al límite de tu VPN.</strong> Te quedan { $usageLeft } GB. Tus datos se reiniciarán a principios del próximo mes.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = Casi te quedas sin datos de VPN. Te quedan { $usageLeft } GB. Una vez que los uses todos, tu VPN se pausará hasta que tus datos se restablezcan el primero del mes siguiente.
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Casi te quedas sin datos de VPN.</strong> Te quedan { $usageLeft } GB. Una vez que los uses todos, tu VPN se pausará hasta que tus datos se restablezcan el primero del mes siguiente.
 
 ## IP Protection Settings
 
