@@ -177,10 +177,12 @@ newtab-section-header-stories = داستانا فرگ کردنی
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
+newtab-discovery-empty-section-topstories-loading = هونی بار اونه…
 
 ## Pocket Content Section.
 
 newtab-pocket-learn-more = قلوه دووسته بۊین
+newtab-pocket-cta-button = گرؽڌن { -pocket-brand-name }
 newtab-pocket-save = زفت
 newtab-pocket-saved = زفت وابی
 
@@ -197,6 +199,7 @@ newtab-custom-sponsored-sites = ره نهنگا هؽزگرووݩ
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
 newtab-custom-pocket-sponsored = وزعیتا هؽزگرووݩ
+newtab-custom-recent-title = فعالیتا دیندایی
 newtab-custom-widget-weather-toggle =
     .label = ٱو وو هوا
 newtab-custom-widget-lists-toggle =
@@ -219,7 +222,12 @@ newtab-custom-settings = دؽوۉداری سامووا قلوه
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = کاقز دیواری یل
+newtab-wallpaper-reset = وورگندن و سامووا پؽش فرز
+newtab-wallpaper-upload-image = آپلود ی شؽوات
 newtab-wallpaper-custom-color = ی رنگ پسند کۊنین
+newtab-wallpaper-light-red-panda = پاندای سوئر
+newtab-wallpaper-light-mountain = کوه اسبؽڌ
+newtab-wallpaper-light-sky = آسمۊوی وا ٱورا بناوش وو آل
 
 ## Solid Colors
 
