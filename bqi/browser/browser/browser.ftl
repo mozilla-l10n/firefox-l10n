@@ -711,6 +711,8 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-undefined-calculator-result = تعریف نوابیڌه
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = { -brand-product-name } وردنی
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
@@ -766,6 +768,12 @@ urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</
 #   $unit (String) - The unit for the temperature, either "C" or "F"
 #   $city (String) - The name of the city the weather data is for
 urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> من { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · هؽزگری وابیڌه
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پۊرسیڌن
 
@@ -787,6 +795,9 @@ urlbar-result-dismissal-acknowledgment-market = ز منشڌ داڌن ایسا م
 # This a11y label is read by screen readers when an item in the row is selected.
 urlbar-result-aria-group-market =
     .aria-label = پؽشنهاڌا بازار سهام
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = ز منشڌ داڌن ایسا ممنووݩ داریم. دی ای پؽشنهاڌا ن نیبینین.
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -897,6 +908,9 @@ urlbar-group-recent-searches =
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = هؽزگری وابیڌه
+urlbar-result-menu-trending-why =
+    .label = سیچه مو یونه ابینوم؟
+    .accesskey = W
 
 ## Reader View toolbar buttons
 
@@ -1023,6 +1037,12 @@ toolbar-settings-button =
 toolbar-overflow-customize-button =
     .label = سفارشی کردن نوار ٱوزار…
     .accesskey = C
+toolbar-button-email-link =
+    .label = لینگ ایمیل
+    .tooltiptext = فشناڌن لینگ و ای بلگه وا ایمیل
+toolbar-button-logins =
+    .label = رزما
+    .tooltiptext = نیشتن وو دؽوۉداری رزما زفت وابیڌه
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1033,6 +1053,9 @@ toolbar-button-save-page =
 toolbar-button-open-file =
     .label = گۊشیڌن فایل
     .tooltiptext = گۊشیڌن ی فایل ({ $shortcut })
+toolbar-button-synced-tabs =
+    .label = بلگه یل هوم گوم وابیڌه
+    .tooltiptext = نشووݩ داڌن بلگه یل ز دسگا یل دیری
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
