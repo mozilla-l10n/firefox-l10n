@@ -174,6 +174,7 @@ ip-protection-bandwidth-help-text = Her ayın ilk günü { $maxUsage } GB hakkı
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN kotanız yenilendi ve kullanıma hazır
+ipprotection-bandwidth-reset-text = Gizliliğinizi artırmak için VPN’i açabilirsiniz. Her ay ücretsiz.
 ipprotection-bandwidth-reset-button = Anladım
 
 ## IP Protection alerts
