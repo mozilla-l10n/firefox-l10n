@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Ynhâldstype
     .accesskey = t
+applications-type-heading = Ynhâldstype
 applications-action-column =
     .label = Aksje
     .accesskey = A
+applications-action-heading = Aksje
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension }-bestân
@@ -1048,6 +1050,8 @@ search-one-click-desc = Kies de alternative sykmasinen dy’t ûnder de adresbal
 search-one-click-header-3 =
     .label = Ekstra sykmasinen
     .description = Kies hokker sykmasinen en fluchkeppelingen yn jo adresbalke ferskine.
+update-search-engine-success =
+    .message = Sykmasine mei sukses bywurke
 search-choose-engine-column =
     .label = Sykmasine
 search-choose-keyword-column =
