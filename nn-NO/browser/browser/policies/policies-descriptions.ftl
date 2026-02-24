@@ -66,7 +66,7 @@ policy-DisableThirdPartyModuleBlocking = Hindre brukaren frå å blokkere tredje
 policy-DisplayBookmarksToolbar = Vis bokmerkeverktøylinja som standard.
 policy-DisplayMenuBar = Vise menylinja som standard.
 policy-DNSOverHTTPS = Konfigurer DNS over HTTPS.
-policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppstart.
+policy-DontCheckDefaultBrowser = Deaktiver sjekk om standardnettlesar ved oppstart.
 policy-DownloadDirectory = Spesifiser og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.

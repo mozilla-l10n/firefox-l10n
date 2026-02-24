@@ -137,13 +137,13 @@ search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -br
 
 startup-header = Startside
 always-check-default =
-    .label = Kontroller alltid om { -brand-short-name } er standard-nettlesar
+    .label = Kontroller alltid om { -brand-short-name } er standardnettlesar
     .accesskey = a
 is-default-browser =
-    .message = { -brand-short-name } er standard-nettlesar
+    .message = { -brand-short-name } er standardnettlesar
 is-not-default-browser =
     .message = { -brand-short-name } er ikkje standard nettlesar
-is-default = { -brand-short-name } er standard-nettlesar
+is-default = { -brand-short-name } er standardnettlesar
 is-not-default = { -brand-short-name } er ikkje standard nettlesar
 set-as-my-default-browser =
     .label = Bruk som standard…
