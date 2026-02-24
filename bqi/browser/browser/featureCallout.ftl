@@ -13,6 +13,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ناهاڌ�
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-button = بئڌی
 callout-pdfjs-draw-button = فئمیم!
 
 ## Firefox View Discoverability Strings
