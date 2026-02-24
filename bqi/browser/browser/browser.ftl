@@ -433,6 +433,8 @@ quickactions-cmd-translate = ولرنیڌن
 quickactions-cmd-screenshot = شؽوات ز بلگه
 # Opens about:preferences
 quickactions-settings2 = دؽوۉداری سامووا
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = سامووا، ترجیهات، گۊزینه یل، دؽوۉداری کردن
 quickactions-cmd-settings = سامووا، ترجیهات، گۊزینه یل
 # Opens about:addons page in the themes section
 quickactions-themes = دؽوۉداری زمینه یل
@@ -459,6 +461,16 @@ bookmarks-edit-bookmark = آلشت نشووک
 bookmark-panel-cancel =
     .label = لقو
     .accesskey = C
+# Variables:
+#  $count (number): number of bookmarks that will be removed
+bookmark-panel-remove =
+    .label =
+        { $count ->
+            [1] پاک کردن نشووک
+            [one] پاک کردن نشووک
+           *[other] پاک کردن { $count } نشووک
+        }
+    .accesskey = R
 bookmark-panel-show-editor-checkbox =
     .label = نشووݩ داڌن آلشتگر مجال زفت کردن
     .accesskey = S
@@ -481,6 +493,7 @@ identity-header-security-with-host =
     .title = منپیز ٱمن سی { $host }
 identity-connection-not-secure = منپیز ٱمن نؽ
 identity-connection-secure = منپیز ٱمن
+identity-connection-failure = شکست من منپیز وابیڌن
 identity-connection-internal = یو ی بلگه ٱمن { -brand-short-name } هڌ.
 identity-connection-file = ای بلگه و ری کامپیتر ایسا زفت وابی.
 identity-connection-associated = ای بلگه ز بلگه دیری بار ونی وابیڌه.
@@ -673,6 +686,20 @@ urlbar-result-action-visit = نیشتن
 urlbar-result-action-switch-tab-with-container = جا گورویی و بلگه · <span>{ $container }</span>
 # Used when the target tab is in a tab group that doesn't have a label.
 urlbar-result-action-tab-group-unnamed = بونکۊ بؽ نوم
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = سی پیتینیڌن { $engine } کیلیت Tab ن فشار بڌین
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = وا { $engine } موستقیم ز نوار نشۊوی بپیتین
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = وا { $engine } موستقیم ز نوار نشۊوی بپیتین
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = لف گیری
 # Shows the result of a formula expression being calculated, the last = sign will be shown
