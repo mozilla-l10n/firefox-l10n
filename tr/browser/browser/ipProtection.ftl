@@ -99,6 +99,15 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapal�
 
 ipprotection-bandwidth-upgrade-title = Yerleşik VPN’i beğendiniz mi? { -mozilla-vpn-brand-name } ile daha{ -brand-product-name } korumaya sahip olabilirsiniz.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN kotanız bitmeye yaklaşıyor.</strong> { $usageLeft } GB hakkınız kaldı. Kotanız ay başında sıfırlanacaktır.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN kotanız bitmek üzere.</strong> { $usageLeft } GB hakkınız kaldı. Kotanız bitince gelecek ayın ilk günü kotanız sıfırlanana kadar VPN’iniz duraklayacaktır.
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -153,9 +162,18 @@ ip-protection-bandwidth-left-this-month-mb = Bu ay { $maxUsage } GB kotanızdan 
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-mb = { $maxUsage } GB kotanızdan { $usageLeft } MB kaldı
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Her ayın ilk günü { $maxUsage } GB hakkınız sıfırlanır.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN kotanız yenilendi ve kullanıma hazır
 ipprotection-bandwidth-reset-button = Anladım
 
 ## IP Protection alerts
