@@ -1688,6 +1688,8 @@ history-custom-button =
     .label = Scegli quali dati vuoi che { -brand-short-name } conservi
 history-group =
     .label = Cronologia
+history-remember-option-all2 =
+    .label = Salva la cronologia
 
 ## Privacy Section - Site Data
 

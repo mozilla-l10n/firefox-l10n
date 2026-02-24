@@ -224,7 +224,7 @@ tabbrowser-manager-current-window-tab-group =
 
 ##
 
-tab-group-editor-title-create = Crea nuovo gruppo di schede
+tab-group-editor-title-create = Crea gruppo di schede
 tab-group-editor-title-edit = Gestisci gruppo di schede
 tab-group-editor-name-label = Nome
 tab-group-editor-name-field =
