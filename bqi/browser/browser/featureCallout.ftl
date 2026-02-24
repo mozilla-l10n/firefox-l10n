@@ -81,7 +81,7 @@ sidebar-customization-callout-dismiss-button = بؽڌار کردن نوار کل
 
 ## Sidebar Callout Survey Strings
 
-sidebar-callout-survey-privacy-notice-link = نوکات زفت مهرموویی
+sidebar-callout-survey-privacy-notice-link = نوکات زفت مهرمووه ای
 sidebar-callout-survey-very-satisfied = قلوه رازی
 sidebar-callout-survey-satisfied = رازی
 sidebar-callout-survey-neutral = بؽ ترف

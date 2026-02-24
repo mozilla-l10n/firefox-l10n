@@ -157,7 +157,7 @@ newtab-section-menu-manage-webext = دؽوۉداری وردنی
 newtab-section-menu-add-search-engine = ٱووردن موتور پیتینیڌن
 newtab-section-menu-move-up = جاگورو و روء
 newtab-section-menu-move-down = جاگورو و لم
-newtab-section-menu-privacy-notice = نوکات زفت مهرموویی
+newtab-section-menu-privacy-notice = نوکات زفت مهرمووه ای
 
 ## Section aria-labels
 

@@ -1057,7 +1057,7 @@ permissions-notification2 =
 ## Privacy Section - Data Collection
 
 preferences-view-profiles = نیشتن پوی پوروفایلا
-collection-privacy-notice = نوکات زفت مهرموویی
+collection-privacy-notice = نوکات زفت مهرمووه ای
 collection-health-report-telemetry-disabled-link = قلوه دووسته بۊین
 collection-health-report-link = قلوه دووسته بۊین
 collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز تیجنیڌن سی پوی امتهووݩ کۊنین.

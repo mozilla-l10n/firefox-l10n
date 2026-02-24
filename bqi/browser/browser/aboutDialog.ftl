@@ -52,7 +52,7 @@ community-2 = { -brand-short-name } و دست <label data-l10n-name="community-m
 helpus = اخۊین هیاری کۊنین؟ <label data-l10n-name="helpus-donateLink">هیاری نقدی</label> یا <label data-l10n-name="helpus-getInvolvedLink">بنین پا مشارکت!</label>
 bottomLinks-license = دووسمندیا موجوز
 bottom-links-terms = شرتا و کار گرؽڌن
-bottom-links-privacy = نوکات زفت مهرموویی
+bottom-links-privacy = نوکات زفت مهرمووه ای
 bottomLinks-rights = هوقۊق منتورووݩ دیندایی
 bottomLinks-privacy = سیاست زفت مهرمووه ای
 # Example of resulting string: 66.0.1 (64-bit)
