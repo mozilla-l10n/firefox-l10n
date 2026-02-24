@@ -83,3 +83,58 @@ upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-title = No se pudo conectar a la VPN
 ipprotection-connection-status-generic-error-description = Vuelve a intentarlo en unos minutos.
 ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
+ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Acercándose al límite de tu VPN
+    .message = Te quedan { $usageLeft } GB de { $maxUsage } GB disponibles para este mes.
+ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN para que se active</a> cada vez que abras { -brand-short-name } para tener una capa adicional de protección.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web has configurado para usar VPN. Actualízalos en <a data-l10n-name="setting-link">ajustes</a> cuando quieras.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN desactivada para este sitio
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = ¿Te gusta la VPN integrada? Obtén aún más protección fuera de { -brand-product-name } con { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Elige una ubicación de VPN y agrega protección a todas tus aplicaciones en hasta 5 dispositivos, ya sea que estés en casa o en una red Wi-Fi pública.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Te estás acercando al límite de tu VPN.</strong> Te quedan { $usageLeft } GB. Tus datos se reiniciarán a principios del próximo mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = Casi te quedas sin datos de VPN. Te quedan { $usageLeft } GB. Una vez que los uses todos, tu VPN se pausará hasta que tus datos se restablezcan el primero del mes siguiente.
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = VPN integrada para mejorar tu privacidad mientras navegas en { -brand-short-name }.
+ip-protection-learn-more = Aprender más
+ip-protection-site-exceptions =
+    .label = Configuraciones específicas del sitio
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Prueba la VPN integrada de { -brand-short-name }
+    .message = Oculta tu ubicación y añade cifrado adicional a tu navegación en { -brand-short-name }. Obtén { $maxUsage } GB gratis de datos de VPN cada mes.
+ip-protection-not-opted-in-button = Empezar
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Administrar ajustes de sitios web
+    .description =
+        { $count ->
+            [one] { $count } sitio web
+           *[other] { $count } sitios web
+        }
+ip-protection-autostart =
+    .label = Activar VPN automáticamente
+ip-protection-autostart-checkbox =
+    .label = Cuando abro { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = En ventanas privadas
