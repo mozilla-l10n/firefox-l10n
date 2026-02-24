@@ -292,7 +292,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = و کار گرؽڌن نقاب ایمیل { -relay-brand-short-name }
+    .label = و کار گرؽڌن ماسک ایمیل { -relay-brand-short-name }
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = پؽشنهاڌ ی رزم قوی…

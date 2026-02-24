@@ -5,6 +5,12 @@
 
 ## The "control" variation of the Relay offer popup
 
+firefox-relay-get-unlimited-masks =
+    .label = دؽوۉداری ماسکا
+    .accesskey = M
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = زفت وابیڌن نشۊوی ایمیل ایسا:
+firefox-relay-opt-in-title-2 = ی ماسک ایمیل مۊفتی بگیرین
 firefox-relay-opt-in-confirmation-postpone =
     .label = سکو ن
     .accesskey = N
