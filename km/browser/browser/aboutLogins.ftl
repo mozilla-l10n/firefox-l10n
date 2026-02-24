@@ -145,6 +145,9 @@ login-item-cancel-button = បោះបង់
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = បាន​បង្កើត
 login-item-timeline-action-updated = បានធ្វើបច្ចុប្បន្នភាព
 login-item-timeline-action-used = ប្រើរួច
