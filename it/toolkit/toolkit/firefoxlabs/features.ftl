@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Tieni sempre l
 experimental-features-semantic-history-search =
     .label = Ricerca semantica nella cronologia
 experimental-features-semantic-history-search-description = Utilizza un modello locale di Machine Learning per suggerire, nella barra degli indirizzi di { -brand-product-name }, elementi della cronologia correlati alle tue ricerche grazie alla comprensione del linguaggio naturale. <a data-l10n-name="connect">Condividi la tua opinione</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Note sulle schede
+experimental-features-tab-notes-description = Le note sulle schede sono una funzione sperimentale che ti permette di aggiungere annotazioni, simili a post-it, alle schede del browser. Annota contesto, promemoria o prossimi passi per poter tornare alla scheda e ricordare facilmente perché l’avevi aperta. Ci farebbe piacere conoscere la tua opinione mentre continuiamo a migliorare questa funzionalità. <a data-l10n-name="connect">Condividi il tuo feedback</a>

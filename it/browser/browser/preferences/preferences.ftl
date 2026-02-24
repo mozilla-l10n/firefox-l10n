@@ -810,6 +810,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Nuove finestre e schede
 home-new-windows-tabs-description2 = Scegli cosa visualizzare quando vengono aperti la pagina iniziale, nuove finestre e nuove schede.
+home-section =
+    .heading = Pagina iniziale e avvio
 
 ## Home Section - Default Browser
 
