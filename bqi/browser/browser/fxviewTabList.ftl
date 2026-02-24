@@ -37,9 +37,34 @@ fxviewtabrow-copy-link = لف گیری لینگ
     .accesskey = L
 fxviewtabrow-close-tab = بستن بلگه
     .accesskey = C
+fxviewtabrow-move-tab = جا گورو کردن بلگه
+    .accesskey = v
+fxviewtabrow-move-tab-start = جا گورو کردن و نیا
+    .accesskey = S
+fxviewtabrow-move-tab-end = جا گورو کردن و دیندا
+    .accesskey = E
 fxviewtabrow-move-tab-window = جاگورویی و نیمدری نۊ
     .accesskey = W
+fxviewtabrow-send-to-device = فشناڌن و دسگا
+    .accesskey = n
+fxviewtabrow-send-tab = فشناڌن بلگه و دسگا
+    .accesskey = n
 fxviewtabrow-pin-tab = دیسنیڌن بلگه
     .accesskey = P
 fxviewtabrow-unpin-tab = لقو دیسنیڌن بلگه
     .accesskey = p
+fxviewtabrow-mute-tab = بؽ دونگ کردن بلگه
+    .accesskey = M
+fxviewtabrow-unmute-tab = وا دونگ کردن بلگه
+    .accesskey = m
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = گۊزینه یل سی { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = بؽ دونگ کردن بلگه
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = وا دونگ کردن بلگه

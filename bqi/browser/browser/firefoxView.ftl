@@ -146,6 +146,21 @@ firefoxview-show-all-history = نشوݩ داڌن پوی ویرگار
 firefoxview-choose-browser-button = پسند گشت گر
     .title = پسند گشت گر
 
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = بستن
+    .title = بستن
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = و من ٱووردن ویرگار ز گشت گر دیری
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = بلگه ای ن قلوه زی بستین؟
+
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-connect-another-device = منپیز ی دسگا دیر
