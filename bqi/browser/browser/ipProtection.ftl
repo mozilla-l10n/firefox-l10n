@@ -21,12 +21,46 @@ ipprotection-experiment-badge =
 ## Panel
 
 unauthenticated-get-started = ناهاڌن پا کار
+site-exclusion-toggle-label = و کار گرؽڌن VPN سی ای وبگه
+site-exclusion-toggle-enabled =
+    .aria-label = VPN سی ای وبگه رۊشن هڌ
+site-exclusion-toggle-disabled =
+    .aria-label = VPN سی ای وبگه کۊر هڌ
 ipprotection-settings-link =
     .label = سامووا
 
 ## Status card
 
 ipprotection-connection-status-connected = VPN رۊشن هڌ
+ipprotection-connection-status-disconnected = VPN کۊر هڌ
+ipprotection-connection-status-excluded = VPN سی ای وبگه کۊر هڌ
+ipprotection-connection-status-connecting = VPN هونی منپیز ابۊ…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = کۊر کردن VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = کۊر کردن VPN سی همه جا
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = رۊشن کردن VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = هونی رۊشن ابۊ…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN واستا
+upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-network-error-title = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
+
+## IP Protection Settings
+
+ip-protection-learn-more = قلوه دووسته بۊین
+ip-protection-site-exceptions =
+    .label = سامووا خاس وبگه
+ip-protection-not-opted-in-button = ناهاڌن پا کار
 
 ## IP Protection alerts
 
