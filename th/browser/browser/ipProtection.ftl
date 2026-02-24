@@ -84,3 +84,4 @@ ipprotection-connection-status-generic-error-title = ไม่สามารถ
 ipprotection-connection-status-generic-error-description = ลองใหม่อีกครั้งในอีกสักครู่
 ipprotection-connection-status-network-error-title = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
 ipprotection-connection-status-network-error-description = เชื่อมต่อกับอินเทอร์เน็ต จากนั้นลองเปิด VPN
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ปิดอยู่สำหรับไซต์นี้
