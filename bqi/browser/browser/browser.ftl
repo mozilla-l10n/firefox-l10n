@@ -426,6 +426,7 @@ quickactions-restart = ره وندن دووارته { -brand-short-name }
 quickactions-cmd-restart = ره وندن دووارته
 # Opens the screenshot tool
 quickactions-screenshot3 = ز بلگه شؽوات بیگیرین
+quickactions-cmd-screenshot2 = شؽوات ز بلگه، گرؽڌن شؽوات ز بلگه
 # Opens about:translations
 quickactions-translate = ولرنیڌن
 quickactions-cmd-translate = ولرنیڌن
