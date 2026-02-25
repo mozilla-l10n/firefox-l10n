@@ -75,17 +75,28 @@ profiles-dark-theme = تاریک
 profiles-system-theme = سیستوم
 profiles-system-theme-title =
     .title = ائمال زمینه سیستوم
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = ساوز نعنایی
 profiles-red-theme = سوئر
+profiles-red-theme-title =
+    .title = ائمال زمینه سوئر
 profiles-pink-theme = آل
 profiles-pink-theme-title =
     .title = ائمال زمینه آل
+profiles-purple-theme = بناوش
 profiles-purple-theme-title =
     .title = ائمال زمینه بناوش
 profiles-violet-theme = بناوش
 profiles-violet-theme-title =
     .title = ائمال زمینه بناوش
 profiles-blue-theme = کوۊ
+profiles-blue-theme-title =
+    .title = ائمال زمینه کوۊ
 profiles-green-theme = ساوز
+profiles-green-theme-title =
+    .title = ائمال زمینه ساوز
+profiles-custom-theme-title =
+    .title = ائمال زمینه سفارشی
 
 ## Data collection settings changed (multi-profile)
 
@@ -102,23 +113,48 @@ briefcase-avatar-alt =
     .alt = کیف
 picture-avatar-alt =
     .alt = شؽوات
+flower-avatar-alt =
+    .alt = گول
 folder-avatar-alt =
     .alt = دوبلگه
+hammer-avatar-alt =
+    .alt = چکوش
 heart-avatar-alt =
     .alt = قلب
 heart-rate-avatar-alt =
     .alt = زربووݩ قلب
 clock-avatar-alt =
     .alt = ساعت
+leaf-avatar-alt =
+    .alt = بلگ
+lightbulb-avatar-alt =
+    .alt = گۊلۊپ
+makeup-avatar-alt =
+    .alt = آرایش
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar-alt =
     .alt = پیوم
+musical-note-avatar-alt =
+    .alt = نوت آرنگ
+palette-avatar-alt =
+    .alt = پالت
+paw-print-avatar-alt =
+    .alt = ٱسر پنگال
+plane-avatar-alt =
+    .alt = هواپیما
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = هازر
 shopping-avatar-alt =
     .alt = سبد استیڌن
 soccer-ball-avatar-alt =
     .alt = تۊپ فۊتبال
+sparkle-single-avatar-alt =
+    .alt = برقشت
 star-avatar-alt =
     .alt = آستاره
+custom-avatar-alt =
+    .alt = آواتار سفارشی
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-alt =
     .alt = گلوب
@@ -140,6 +176,7 @@ craft-avatar = سنایع دستی
 custom-avatar = آواتار سفارشی
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = اولماس
+flower-avatar = گول
 folder-avatar = دوبلگه
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar = گلوب
