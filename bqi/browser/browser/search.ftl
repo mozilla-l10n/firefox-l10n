@@ -43,4 +43,11 @@ install-search-engine-no = ن
 
 ## The following strings are used as input labels.
 
+add-engine-window =
+    .title = ٱووردن موتور پیتینیڌن
+    .style = min-width: 32em;
+edit-engine-window =
+    .title = آلشت موتور پیتینیڌن
+    .style = min-width: 32em;
+add-engine-button = ٱووردن موتور سفارشی
 add-engine-name = نوم موتور پیتینیڌن
