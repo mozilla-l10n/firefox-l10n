@@ -7,3 +7,9 @@
 
 # Text for secondary button linking to FAQ page
 existing-user-tou-learn-more = قلوه دووسته بۊین
+# Text for primary button
+existing-user-tou-accept = قوۊل کردن
+
+## Existing User Terms of Use Spotlight
+
+tou-existing-user-spotlight-remind-me-later = دینداتر وا ویروم بیار
