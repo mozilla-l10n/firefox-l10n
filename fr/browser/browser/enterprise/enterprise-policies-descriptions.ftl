@@ -6,3 +6,4 @@ policy-BlocklistDomainBrowsedTelemetry = Activer et configurer l’enregistremen
 policy-DownloadTelemetry = Activer et configurer l’enregistrement des évènements de sécurité lorsqu’un téléchargement est déclenché.
 policy-EnterpriseStorageEncryption = Activer la gestion du mot de passe principal par l’entreprise pour le stockage chiffré.
 policy-PrintPageTelemetry = Activer et configurer l’enregistrement des évènements de sécurité lorsqu’une impression est lancée.
+policy-Sync = Activer ou désactiver la synchronisation et déterminer quelles données inclure.
