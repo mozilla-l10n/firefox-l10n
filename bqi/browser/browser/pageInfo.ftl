@@ -107,6 +107,8 @@ saved-passwords-yes = هری
 saved-passwords-no = ن
 no-page-title =
     .value = بلگه بؽ عونوان:
+general-quirks-mode =
+    .value = هالت قیر استاندارد
 security-no-visits = ن
 # This string is used to display the type of
 # an image
