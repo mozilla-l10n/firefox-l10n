@@ -45,7 +45,7 @@ reset-search-settings-button = OK
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
-install-search-engine = Добавить { $engineName } в качестве поисковой системы?
+install-search-engine = Добавить «{ $engineName }» в качестве поисковой системы?
 install-search-engine-add = Добавить
 install-search-engine-no = Нет
 

@@ -440,8 +440,8 @@ website-add-language-button =
 # Variables:
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 website-remove-language-button =
-    .aria-label = Удалить { $locale }
-    .title = Удалить { $locale }
+    .aria-label = Удалить: { $locale }
+    .title = Удалить: { $locale }
 choose-button =
     .label = Выбрать…
     .accesskey = ы
@@ -516,7 +516,7 @@ settings-translations-subpage-download-retry-button =
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
-settings-translations-subpage-download-delete-confirm = Удалить { $language } ({ $size } МБ)?
+settings-translations-subpage-download-delete-confirm = Удалить: { $language } ({ $size } МБ)?
 settings-translations-subpage-download-delete-button =
     .label = Удалить
 settings-translations-subpage-download-cancel-button =

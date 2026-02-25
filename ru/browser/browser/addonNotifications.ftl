@@ -75,10 +75,10 @@ webext-imported-addons = Завершить установку расширен�
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
-addon-removal-title = Удалить { $name }?
+addon-removal-title = Удалить «{ $name }»?
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Удалить { $name } из { -brand-shorter-name }?
+addon-removal-message = Удалить «{ $name }» из { -brand-shorter-name }?
 addon-removal-button = Удалить
 addon-removal-abuse-report-checkbox = Пожаловаться на это расширение в { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature

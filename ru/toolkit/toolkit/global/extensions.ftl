@@ -10,14 +10,14 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Добавить { $extension }?
-webext-perms-header-with-perms = Добавить { $extension }? Это расширение будет иметь разрешение на:
-webext-perms-header-unsigned = Добавить { $extension }? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Добавляйте его, только если вы доверяете источнику.
-webext-perms-header-unsigned-with-perms = Добавить { $extension }? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Добавляйте его, только если вы доверяете источнику. Это расширение будет иметь разрешение на:
+webext-perms-header = Добавить «{ $extension }»?
+webext-perms-header-with-perms = Добавить «{ $extension }»? Это расширение будет иметь разрешение на:
+webext-perms-header-unsigned = Добавить «{ $extension }»? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Добавляйте его, только если вы доверяете источнику.
+webext-perms-header-unsigned-with-perms = Добавить «{ $extension }»? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Добавляйте его, только если вы доверяете источнику. Это расширение будет иметь разрешение на:
 webext-perms-sideload-header = { $extension } добавлено
 webext-perms-optional-perms-header2 = { $extension } запрашивает дополнительные разрешения
 webext-perms-optional-perms-header = { $extension } запрашивает дополнительные разрешения.
-webext-perms-header2 = Добавить { $extension }
+webext-perms-header2 = Добавить «{ $extension }»
 webext-perms-list-intro-unsigned = Это непроверенное расширение может поставить под угрозу вашу приватность или подвергнуть риску ваше устройство. Добавляйте его, только если вы доверяете источнику.
 
 ## Headers used in the webextension permissions dialog, inside the content.
@@ -158,8 +158,8 @@ webext-site-perms-description-gated-perms-midi =
 ##   $extension (String): replaced with the localized name of the extension being installed.
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
-webext-site-perms-header-with-perms = Добавить { $extension }? Это расширение предоставляет { $hostname } следующие возможности:
-webext-site-perms-header-unsigned-with-perms = Добавить { $extension }? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Устанавливайте его, только если вы доверяете его источнику. Это расширение предоставляет { $hostname } следующие возможности:
+webext-site-perms-header-with-perms = Добавить «{ $extension }»? Это расширение предоставляет { $hostname } следующие возможности:
+webext-site-perms-header-unsigned-with-perms = Добавить «{ $extension }»? Это расширение не проверено. Вредоносные расширения могут украсть вашу личную информацию или подвергнуть риску ваш компьютер. Устанавливайте его, только если вы доверяете его источнику. Это расширение предоставляет { $hostname } следующие возможности:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 

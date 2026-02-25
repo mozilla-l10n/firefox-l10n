@@ -32,7 +32,7 @@ return-to-amo-extension-install-complete-label = Расширение устан
 
 mr1-return-to-amo-subtitle = Познакомьтесь с { -brand-short-name }
 mr1-return-to-amo-addon-title = Вы получили быстрый приватный браузер. Теперь вы можете добавить <b>{ $addon-name }</b> и сделать ещё больше с помощью { -brand-short-name }.
-mr1-return-to-amo-add-extension-label = Добавить { $addon-name }
+mr1-return-to-amo-add-extension-label = Добавить «{ $addon-name }»
 
 ## Multistage onboarding strings (about:welcome pages)
 

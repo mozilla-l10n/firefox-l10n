@@ -30,7 +30,7 @@ sanitize-on-shutdown-description = Автоматически удалять в�
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Удалить:
+    .value = Диапазон времени для очистки:{ " " }
     .accesskey = т
 clear-time-duration-prefix2 =
     .value = Период:
