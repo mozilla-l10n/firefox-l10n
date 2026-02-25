@@ -97,6 +97,7 @@ security-site-data-no = ن
 media-img = شؽوات
 media-bg-img = پس زمینه
 media-border-img = هاشیه
+media-cursor = نشووݩ گر
 media-video = فیلم
 media-audio = آرنگ
 saved-passwords-yes = هری
