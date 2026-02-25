@@ -573,7 +573,7 @@ onboarding-personalization-motivation-other-option = Druge
 
 ## Onboarding 2026 brand refresh
 
-onboarding-refresh-pin-set-default-subtitle = Šćitamy waše daty a zawoborujomy pśedewześam pśi wusnuchlenju, gaž klikaśo – awtpmatiski.
+onboarding-refresh-pin-set-default-subtitle = Šćitamy waše daty a zawoborujomy pśedewześam pśi wusnuchlenju, gaž klikaśo – awtomatiski.
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Sćo we wěstych rukach
