@@ -77,6 +77,7 @@ translations-panel-error-unsupported-hint-unknown = وابخشی، ایما هن
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = ولرنیڌن ز
 translations-panel-to-label = ولرنیڌن و
 
 ## The translation panel appears from the url bar, and this view is the "restore" view

@@ -4,4 +4,14 @@
 
 unexpected-script-close-button =
     .aria-label = بستن
+unexpected-script-load-message-button-allow =
+    .label = هشتن
+    .accesskey = A
+unexpected-script-load-message-button-block =
+    .label = مسدۊد کردن
+    .accesskey = B
+unexpected-script-load-email-textbox =
+    .placeholder = ایمیل ن ایچو بزنین
+    .aria-label = ایمیل ن ایچو بزنین
+unexpected-script-load-more-info = دووسمندیا قلوه
 unexpected-script-load-learn-more = قلوه دووسته بۊین

@@ -7,3 +7,7 @@
 
 webauthn-cancel = لقو
     .accesskey = c
+webauthn-allow = هشتن
+    .accesskey = A
+webauthn-block = مسدۊد کردن
+    .accesskey = B

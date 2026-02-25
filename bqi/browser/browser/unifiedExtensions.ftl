@@ -11,6 +11,10 @@
 unified-extensions-header-title = وردنی یل
 unified-extensions-manage-extensions =
     .label = دؽوۉداری وردنی یل
+unified-extensions-discover-extensions =
+    .label = جوستن وردنی یل
+unified-extensions-empty-reason-private-browsing-not-allowed = ایسا وردنی یلی پۊرنیڌن، ٱما من نیمدری یل سیخومی فعال نؽڌن
+unified-extensions-empty-reason-extension-not-enabled = ایسا وردنی یلی پۊرنیڌن، ٱما فعال نؽڌن
 
 ## An extension in the main list
 
@@ -21,15 +25,24 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = گۊشیڌن نومگه سی { $extensionName }
 unified-extensions-item-message-manage = دؽوۉداری وردنی
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = { $extensionName } مئدۊد وابیڌه. و کار گرؽڌنس گاشڌ خترناک بۊ.
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = دیسنیڌن من نوار ٱوزار
 unified-extensions-context-menu-manage-extension =
     .label = دؽوۉداری وردنی
 unified-extensions-context-menu-remove-extension =
     .label = پاک کردن وردنی
 unified-extensions-context-menu-report-extension =
     .label = گوزارش وردنی
+unified-extensions-context-menu-move-widget-up =
+    .label = جاگورو و روء
+unified-extensions-context-menu-move-widget-down =
+    .label = جاگورو و لم
 
 ## Notifications
 
