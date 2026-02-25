@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-drop-on-home-title = سامووݩ بلگه هووه ای
+toolbar-drop-on-home-msg = اخۊین یو بلگه هووه ای نۊ تووݩ بۊوه؟

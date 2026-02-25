@@ -15,6 +15,9 @@ synced-tabs-sidebar-search =
 ## menu. That menu is activated by right-clicking a bookmark in the Library
 ## window. The bookmarks manager context's strings are located in places.ftl.
 
+synced-tabs-context-open =
+    .label = گۊشیڌن
+    .accesskey = O
 synced-tabs-context-open-in-tab =
     .label = گۊشیڌن من بلگه نۊ
     .accesskey = w

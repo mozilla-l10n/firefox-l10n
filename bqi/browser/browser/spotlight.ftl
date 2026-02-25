@@ -13,3 +13,7 @@ spotlight-android-marketplace-button =
     .title = گرؽڌن ز Google Play
 spotlight-ios-marketplace-button =
     .title = گرؽڌن ز ٱپ استور
+
+## Firefox Focus promo message strings
+
+spotlight-focus-promo-title = گرؽڌن { -focus-brand-name }
