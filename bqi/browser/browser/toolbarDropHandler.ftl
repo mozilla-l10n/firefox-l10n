@@ -4,3 +4,4 @@
 
 toolbar-drop-on-home-title = سامووݩ بلگه هووه ای
 toolbar-drop-on-home-msg = اخۊین یو بلگه هووه ای نۊ تووݩ بۊوه؟
+toolbar-drop-on-home-msg-multiple = اخۊین ای سندا بلگه یل هووه ای نۊ تووݩ بۊون؟

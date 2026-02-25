@@ -10,6 +10,15 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = ولرنیڌن ای بلگه - Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = بلگه ولرنیڌه وابیڌه ز { $fromLanguage } و { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = ولرنیڌن هونی ٱنجوم ابۊ
 translations-panel-settings-button =
@@ -131,6 +140,14 @@ translations-settings-remove-language-button =
 translations-settings-remove-all-languages-button =
     .label = پاک کردن پوی زووا
     .accesskey = e
+translations-settings-close-dialog =
+    .buttonlabelaccept = بستن
+    .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = ولرنیڌن پسند وابیڌه…
+    .accesskey = n
 # Text displayed in the select translations panel header.
 select-translations-panel-header = ولرنیڌن
 # Text displayed above the from-language dropdown menu.
