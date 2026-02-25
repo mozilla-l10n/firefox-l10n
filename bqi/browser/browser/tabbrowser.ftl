@@ -48,6 +48,11 @@ tabbrowser-unmute-tab-audio-tooltip =
            *[other] وا دونگ کردن { $tabCount } بلگه ({ $shortcut })
         }
 
+## Tooltips for tab audio control
+
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = بؽ دونگ کردن بلگه
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -134,12 +139,23 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = لقو
     .accesskey = C
+tab-group-editor-color-selector2-blue = کوۊ
+    .title = کوۊ
+tab-group-editor-color-selector2-purple = بناوش
+    .title = بناوش
+tab-group-editor-color-selector2-pink = آل
+    .title = آل
+tab-group-editor-color-selector2-red = سوئر
+    .title = سوئر
+tab-group-description = { $tabGroupName } — بونکۊ بلگه
 tab-context-unnamed-group =
     .label = بونکۊ بؽ نوم
 tab-group-name-default = بونکۊ بؽ نوم
 
 ##
 
+tab-group-editor-action-delete =
+    .label = پاک کردن بونکۊ
 tab-group-editor-done =
     .label = ٱنجوم وابی
     .accessKey = D
@@ -149,11 +165,44 @@ tab-group-editor-done =
 # e.g. "+2" for a group with 3 total tabs.
 tab-group-overflow-count = +{ $tabCount }
 
+## Open/saved tab group context menu
+
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = پاک کردن بونکۊ
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = گۊشیڌن بونکۊ من ای نیمدری
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = گۊشیڌن بونکۊ من نیمدری نۊ
+
 ## Tab Notes
 
+tab-context-add-note =
+    .label = ٱووردن ویرداشت
+    .accesskey = A
+tab-context-update-note =
+    .label = ورۊ رسۊوی ویرداشت
+    .accesskey = U
+tab-context-edit-note =
+    .label = آلشت ویرداشت
+    .accesskey = E
+tab-context-delete-note =
+    .label = پاک کردن ویرداشت
+    .accesskey = D
+tab-note-editor-title-create = ٱووردن ویرداشت
+tab-note-editor-title-edit = آلشت ویرداشت
 tab-note-editor-button-cancel =
     .label = لقو
     .accesskey = C
+tab-note-editor-button-save =
+    .label = زفت
+    .accesskey = S
 
 ## Split View
 
