@@ -9,6 +9,13 @@ ipprotection-button =
     .label = VPN
     .tooltiptext = VPN
 
+##
+
+# The word "Beta" is intended to be uppercase in the experiment label.
+ipprotection-experiment-badge =
+    .label = BETA
+ipprotection-title = VPN
+
 ## Feature introduction callout
 
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
