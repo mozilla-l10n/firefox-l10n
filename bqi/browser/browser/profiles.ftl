@@ -115,21 +115,65 @@ message-avatar-alt =
     .alt = پیوم
 shopping-avatar-alt =
     .alt = سبد استیڌن
+soccer-ball-avatar-alt =
+    .alt = تۊپ فۊتبال
 star-avatar-alt =
     .alt = آستاره
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = گلوب
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = اولماس
+barbell-avatar-alt =
+    .alt = هالتر
+bike-avatar-alt =
+    .alt = چرخ
 
 ## Tooltips for default avatar icons
 
 book-avatar = کتاو
 briefcase-avatar = کیف
 clock-avatar = ساعت
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = سنایع دستی
+custom-avatar = آواتار سفارشی
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = اولماس
 folder-avatar = دوبلگه
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = گلوب
 hammer-avatar = چکوش
 heart-avatar = قلب
 heart-rate-avatar = زربووݩ قلب
+leaf-avatar = بلگ
+lightbulb-avatar = گۊلۊپ
+makeup-avatar = آرایش
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = پیوم
+musical-note-avatar = نوت آرنگ
+palette-avatar = پالت
+paw-print-avatar = ٱسر پنگال
+picture-avatar = شؽوات
+plane-avatar = هواپیما
+# Present refers to a gift box, not the current time period
+present-avatar = هازر
 shopping-avatar = سبد استیڌن
+soccer-ball-avatar = تۊپ فۊتبال
+sparkle-single-avatar = برقشت
 star-avatar = آستاره
 custom-avatar-crop-back-button =
     .aria-label = وورگشتن
+profiles-appmenu-callout-tour-title = پوروفایل نۊت ٱماڌه هڌ
+profiles-appmenu-callout-tour-primary-button = نشووݩ داڌن بارت کار
+barbell-avatar = هالتر
+bike-avatar = چرخ
+
+## Tooltips for default avatar icons
+
+barbell-avatar-tooltip =
+    .tooltiptext = ائمال آواتار هالتر
+bike-avatar-tooltip =
+    .tooltiptext = ائمال آواتار چرخ
+book-avatar-tooltip =
+    .tooltiptext = ائمال آواتار کتاو
