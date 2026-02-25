@@ -646,6 +646,9 @@ browser-window-restore-down-button =
     .tooltiptext = Obnovit z maximalizace
 browser-window-close-button =
     .tooltiptext = Zavřít
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Návrat zpět
 
 ## Tab actions
 
