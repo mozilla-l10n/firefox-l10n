@@ -9,6 +9,16 @@ protection-report-manage-protections = دؽوۉداری سامووا
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = ٱمرۊز
+fingerprinter-tab-title = کلک نگارا
+cryptominer-tab-title = و در کونا رزم ٱرزا
+protections-close-button2 =
+    .aria-label = بستن
+    .title = بستن
+passwords-title-logged-in = دؽوۉداری رزما خوتووݩ
+protection-report-passwords-save-passwords-button = زفت رزما
+    .title = زفت رزما
+protection-report-passwords-manage-passwords-button = دؽوۉداری رزما
+    .title = دؽوۉداری رزما
 lockwise-how-it-works-link = یو چتاور کار اکونه
 monitor-link = یو چتاور کار اکونه
 monitor-no-breaches-title = خورا خۊو!

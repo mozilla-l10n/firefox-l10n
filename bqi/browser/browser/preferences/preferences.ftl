@@ -983,7 +983,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منجا وبگهی
 content-blocking-all-cookies = پوی کۊکیا
 content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌه
-content-blocking-cryptominers = ودر کونا رزم ٱرزا
+content-blocking-cryptominers = و در کونا رزم ٱرزا
 content-blocking-fingerprinters = کلک نگارا
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section

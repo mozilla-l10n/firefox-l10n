@@ -225,3 +225,7 @@ shopping-avatar-tooltip =
     .tooltiptext = ائمال آواتار سبد استیڌن
 soccer-ball-avatar-tooltip =
     .tooltiptext = ائمال آواتار تۊپ فۊتبال
+sparkle-single-avatar-tooltip =
+    .tooltiptext = ائمال آواتار برقشت
+star-avatar-tooltip =
+    .tooltiptext = ائمال آواتار آستاره

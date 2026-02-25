@@ -28,7 +28,7 @@ protections-panel-not-blocking-why-label = سیچه؟
 
 protections-panel-content-blocking-tracking-protection = موئتوا رڌجۊری
 protections-panel-content-blocking-socialblock = رڌجۊرا شبکه یل اجتماعی
-protections-panel-content-blocking-cryptominers-label = ودر کونا رزم ٱرزا
+protections-panel-content-blocking-cryptominers-label = و در کونا رزم ٱرزا
 protections-panel-content-blocking-fingerprinters-label = کلک نگارا
 
 ## In the protections panel, Content Blocking category items are in three sections:

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = هونی هوم گوم ابۊ…
+sync-disconnect-dialog-title2 = قت کردن منپیز؟
 sync-disconnect-dialog-button = قت کردن منپیز
 fxa-signout-dialog2-button = و در زیڌن
 fxa-menu-sync-settings =

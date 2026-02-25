@@ -38,5 +38,13 @@ synced-tabs-context-bookmark =
 synced-tabs-context-copy =
     .label = لف گیری
     .accesskey = C
+synced-tabs-context-sync-now =
+    .label = سکو هوم گوم کوݩ
+    .accesskey = S
 synced-tabs-fxa-sign-in = سی هوم گوم کردن و من بیاین
 synced-tabs-turn-on-sync = رۊشن کردن هوم گوم کردن
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = بستن بلگه من { $deviceName }
