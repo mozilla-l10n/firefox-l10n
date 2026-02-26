@@ -2063,6 +2063,9 @@ permissions-speaker2 =
     .label = Lautsprecher
 permissions-notification2 =
     .label = Benachrichtigungen
+permissions-header3 =
+    .label = Berechtigungen
+    .description = Verwalten Sie, auf was Websites zugreifen können, was kontrolliert oder ausgelöst werden kann.
 
 ## Privacy Section - Data Collection
 
@@ -2173,6 +2176,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nu
 certs-description2 =
     .label = Zertifikate
     .description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
+certs-description3 =
+    .label = Zertifikate
+    .description = Konfigurieren Sie die Zertifikate, die { -brand-short-name } zur Überprüfung sicherer Verbindungen verwendet.
+certs-view2 =
+    .label = Zertifikate verwalten
+    .accesskey = Z
+certs-devices2 =
+    .label = Kryptographie-Module verwalten
+    .accesskey = K
 
 ## Privacy Section - HTTPS-Only
 
@@ -2202,6 +2214,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS über HTTPS
+dns-over-https-group2 =
+    .label = DNS über HTTPS
+    .description = Das Domain-Name-System über HTTPS (DoH) verschlüsselt Website-Abfragen, sodass es für Ihren Internetanbieter oder andere schwieriger ist, zu sehen, welche Websites Sie besuchen möchten.
 preferences-doh-description = Domain Name System (DNS) über HTTPS sendet Ihre Anfrage für einen Domainnamen über eine verschlüsselte Verbindung, wodurch ein sicheres DNS geschaffen wird. Dies erschwert es anderen, zu sehen, welche Website Sie gerade besuchen.
 preferences-doh-description2 = Domain Name System (DNS) über HTTPS sendet Ihre Anfrage für einen Domainnamen über eine verschlüsselte Verbindung, wodurch ein sicheres DNS bereitgestellt wird. Dies erschwert es anderen, zu sehen, welche Website Sie gerade besuchen.
 # Variables:
@@ -2257,6 +2272,22 @@ preferences-doh-exceptions-description = { -brand-short-name } verwendet auf die
 preferences-doh-manage-exceptions =
     .label = Ausnahmen verwalten…
     .accesskey = u
+preferences-doh-overview-default =
+    .label = Standardschutz
+    .description = Verwenden Sie sicheres DNS in Regionen, in denen es verfügbar ist.
+preferences-doh-overview-off =
+    .label = Deaktiviert
+    .description = Verwenden Sie Ihren Standard-DNS-Resolver.
+preferences-doh-advanced-button =
+    .label = Erweiterte Einstellungen
+preferences-doh-advanced-section =
+    .label = Erweiterte Einstellungen
+    .description = Das Domain-Name-System über HTTPS (DoH) verschlüsselt Website-Abfragen, sodass es für Ihren Internetanbieter oder andere schwieriger ist, zu sehen, welche Websites Sie besuchen möchten.
+preferences-doh-manage-exceptions2 =
+    .label = Ausnahmen verwalten
+    .accesskey = u
+preferences-doh-status-item-off =
+    .message = DNS über HTTPS ist deaktiviert
 
 ## The following strings are used in the Download section of settings
 

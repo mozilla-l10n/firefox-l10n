@@ -80,4 +80,4 @@ experimental-features-semantic-history-search-description = Använd en lokal mas
 # Tab Notes
 experimental-features-tab-notes =
     .label = Anteckningar för flikar
-experimental-features-tab-notes-description = Flikanteckningar är en experimentell funktion som låter dig lägga till anteckningar i dina webbläsarflikar. Anteckna kontext, påminnelser eller nästa steg så att du kan komma tillbaka och komma ihåg varför du öppnade den. Vi skulle gilla din feedback eftersom vi fortsätter att förbättra den här funktionen. <a data-l10n-name="connect">Dela feedback</a>
+experimental-features-tab-notes-description = Flikanteckningar är en experimentell funktion som låter dig lägga till fästisar i dina webbläsarflikar. Skriv ner sammanhang, påminnelser eller nästa steg så att du kan komma tillbaka och komma ihåg varför du öppnade dem. Vi skulle gärna vilja ha din feedback när vi fortsätter att förbättra den här funktionen. <a data-l10n-name="connect">Dela feedback</a>

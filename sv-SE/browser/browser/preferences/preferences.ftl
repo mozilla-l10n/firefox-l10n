@@ -810,6 +810,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Nya fönster och flikar
 home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din startsida, ett nytt fönster eller en ny flik.
+home-section =
+    .heading = Startsida och uppstart
 
 ## Home Section - Default Browser
 
@@ -2357,7 +2359,7 @@ preferences-doh-select-resolver-label =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
     .label = { $name }
-    .tooltiptext = Använd denna provider för att lösa DNS över HTTPS
+    .tooltiptext = Använd den här leverantören för att lösa DNS över HTTPS
 preferences-doh-custom-provider-label =
     .aria-label = Ange en anpassad leverantörsadress
 preferences-doh-header2 =
@@ -2453,7 +2455,7 @@ security-privacy-status-up-to-date-label = Du har den senaste och säkraste vers
 security-privacy-status-update-needed-label = En ny version av { -brand-short-name } är tillgänglig.
 security-privacy-status-update-error-label = { -brand-short-name } har problem med att uppdatera sig själv
 security-privacy-status-update-checking-label = { -brand-short-name } söker uppdateringar
-security-privacy-status-update-needed-description = Uppdatering för de senaste hastighets-, stabilitets- och säkerhetsuppdateringarna.
+security-privacy-status-update-needed-description = Uppdatera för de senaste uppdateringarna för hastighet, stabilitet och säkerhet.
 security-privacy-status-update-button-label =
     .label = Uppdatera { -brand-short-name }
 security-privacy-image-warning =
@@ -2472,7 +2474,7 @@ issue-card-dismiss-button =
 
 preferences-etp-status-header =
     .label = Förbättrat spårningsskydd
-    .description = Webbplatser använder spårare för att följa dig online och visa läskiga annonser. { -brand-short-name } skyddar dig när du surfar och blockerar spårare automatiskt så att du har kontroll över ditt digitala spår.
+    .description = Webbplatser använder spårare för att följa dig online och visa obehagliga annonser. { -brand-short-name } skyddar dig när du surfar och blockerar spårare automatiskt så att du har kontroll över dina digitala spår.
 preferences-etp-level-standard =
     .label = Standard
     .description = Starka, pålitliga skydd som fungerar smidigt med de flesta webbplatser.
@@ -2562,7 +2564,7 @@ security-privacy-issue-warning-doh =
     .description = DNS över HTTPS döljer vilka webbplatser du besöker från din nätleverantör.
 security-privacy-issue-warning-ech =
     .label = Krypterad klient Hello är inaktiverad
-    .description = Krypterad klient Hello döljer vilka webbplatser du besöker från din nätleverantör.
+    .description = Krypterad klient Hello döljer vilka webbplatser du besöker från din nätverksleverantör.
 security-privacy-issue-warning-proxy-autodetection =
     .label = Automatisk proxykonfiguration är aktiverad
-    .description = Automatisk proxykonfiguration kan låta opålitliga nätverk övervaka din aktivitet.
+    .description = Automatisk proxykonfiguration kan göra det möjligt för otillförlitliga nätverk att övervaka din aktivitet.
