@@ -147,6 +147,6 @@ policy-UseSystemPrintDialog = 시스템 인쇄 대화 상자를 사용하여 인
 policy-VisualSearchEnabled = 시각적 검색을 사용하거나 사용하지 않게 합니다.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 특정 웹 사이트 방문을 차단합니다. 자세한 형식에 대해서는 문서를 참고하세요.
-policy-Windows10SSO = Microsoft, 회사 및 학교 계정에 Windows Single Sign-On을 허용합니다.
+policy-Windows10SSO = Microsoft, 회사 및 학교 계정에 Windows 단일 로그인 (SSO)을 허용합니다.
 # Entra is the name of a Microsoft product.
-policy-MicrosoftEntraSSO = Microsoft Entra 계정에 Single Sign-On을 허용합니다.
+policy-MicrosoftEntraSSO = Microsoft Entra 계정에 단일 로그인 (SSO)을 허용합니다.
