@@ -2049,6 +2049,15 @@ permissions-block-popups2 =
     .accesskey = k
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Dalesposrědkowanja rjadować
+    .accesskey = D
+    .searchkeywords = wuskakowace wokna
+permissions-addon-install-warning3 =
+    .label = Warnowanje pokazać, hdyž websydła pospytuja rozšěrjenja instalować
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Wuskakowace wokna a wuwzaća dalesposrědkowanjow třećich poskićowarjow rjadować
     .accesskey = u
@@ -2094,6 +2103,9 @@ permissions-speaker2 =
     .label = Wótřerěčak
 permissions-notification2 =
     .label = Zdźělenja
+permissions-header3 =
+    .label = Prawa
+    .description = Rjadujće, k čemu websydła móža přistup, štož móža kontrolować abo wuwabić.
 
 ## Privacy Section - Data Collection
 
@@ -2204,6 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć skła
 certs-description2 =
     .label = Certifikaty
     .description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
+certs-description3 =
+    .label = Certifikaty
+    .description = Konfigurujće certifikaty, kotrež { -brand-short-name } wužiwa, zo by wěste zwiski přepruwował.
+certs-view2 =
+    .label = Certifikaty rjadować
+    .accesskey = C
+certs-devices2 =
+    .label = Wěstotne graty rjadować
+    .accesskey = s
 
 ## Privacy Section - HTTPS-Only
 
@@ -2288,6 +2309,25 @@ preferences-doh-exceptions-description = { -brand-short-name } njebudźe wěsty 
 preferences-doh-manage-exceptions =
     .label = Wuwzaća rjadować…
     .accesskey = z
+preferences-doh-advanced-button =
+    .label = Rozšěrjene nastajenja
+preferences-doh-manage-exceptions2 =
+    .label = Wuwzaća rjadować
+    .accesskey = u
+preferences-doh-status-item-off =
+    .message = DNS přez HTTPS je znjemóžnjeny
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS přez HTTPS poskićowarja { $name } wužiwa
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS přez HTTPS lokalneho poskićowarja { $name } wužiwa
+preferences-doh-select-resolver-label =
+    .label = Wubjerće poskićowarja:
+preferences-doh-header2 =
+    .heading = DNS přez HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2353,3 +2393,28 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Přetorhnyć
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokować
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = Polěpšeny slědowanski škit je zmóžnjeny
+security-privacy-status-problem-label = Smy nastajenja namakali, kotrež waš škit wobwliwuja
+security-privacy-status-problem-helper-label = Problemy pokazać
+security-privacy-status-update-needed-label = Nowa wersija { -brand-short-name } je k dispoziciji.
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } aktualizować
+security-privacy-issue-card =
+    .heading = Wěstotne warnowanja
+issue-card-reset-button =
+    .label = Wróćo stajić
+issue-card-dismiss-button =
+    .tooltiptext = Zaćisnyć
+    .aria-label = Zaćisnyć
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Rozšěrjene nastajenja
+preferences-etp-header =
+    .heading = Polěpšeny slědowanski škit
+preferences-etp-customize-button =
+    .label = Slědowanski škit přiměrić
