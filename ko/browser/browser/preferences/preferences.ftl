@@ -2200,6 +2200,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량�
 certs-description2 =
     .label = 인증서
     .description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
+certs-description3 =
+    .label = 인증서
+    .description = 보안 연결을 확인하기 위해 { -brand-short-name }가 사용하는 인증서를 구성합니다.
+certs-view2 =
+    .label = 인증서 관리
+    .accesskey = C
+certs-devices2 =
+    .label = 보안 기기 관리
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2229,6 +2238,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group2 =
+    .label = DNS over HTTPS
+    .description = HTTPS를 통한 DNS (DoH)는 사이트 조회를 암호화하므로 인터넷 공급자나 다른 사람이 사용자가 방문하려는 웹 사이트를 확인하기가 더 어렵습니다.
 preferences-doh-description = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 생성하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 preferences-doh-description2 = DNS over HTTPS (HTTPS를 통한 DNS)는 암호화된 연결을 통해 도메인 이름에 대한 요청을 전송하여 보안 DNS를 제공하고 다른 사람들이 사용자가 액세스하려는 웹 사이트를 보기 어렵게 만듭니다.
 # Variables:
@@ -2284,6 +2296,34 @@ preferences-doh-exceptions-description = { -brand-short-name }는 다음 사이�
 preferences-doh-manage-exceptions =
     .label = 예외 관리…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = 기본 보호
+    .description = 가능한 지역에서는 보안 DNS를 사용합니다.
+preferences-doh-overview-custom =
+    .label = 사용자 지정
+    .description = 항상 공급자와 대체 동작을 제어할 수 있는 보안 DNS를 사용합니다.
+preferences-doh-overview-off =
+    .label = 끄기
+    .description = 기본 DNS 확인자를 사용합니다.
+preferences-doh-advanced-button =
+    .label = 고급 설정
+preferences-doh-advanced-section =
+    .label = 고급 설정
+    .description = HTTPS를 통한 DNS (DoH)는 사이트 조회를 암호화하므로 인터넷 공급자나 다른 사람이 사용자가 방문하려는 웹 사이트를 확인하기가 더 어렵습니다.
+preferences-doh-manage-exceptions2 =
+    .label = 예외 관리
+    .accesskey = x
+preferences-doh-status-item-off =
+    .message = DNS over HTTPS 꺼짐
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = { $name } 공급자를 사용하는 동안 오류({ $reason })가 발생하여 HTTPS를 통한 DNS가 작동하지 않습니다.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = 잘못된 URL({ $reason })을 받아 HTTPS를 통한 DNS가 작동하지 않음
 
 ## The following strings are used in the Download section of settings
 
@@ -2349,3 +2389,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = 취소
 preferences-ai-controls-block-confirmation-confirm =
     .label = 차단
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-customize-button =
+    .label = 추적 방지 기능 사용자 지정
+preferences-etp-reload-tabs-hint =
+    .message = 변경 사항을 적용하려면 탭을 새로 고침하세요.
+preferences-etp-reload-tabs-hint-button =
+    .label = 모든 탭 새로 고침
