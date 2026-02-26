@@ -105,6 +105,8 @@ ip-protection-site-exceptions-all-sites-button =
         }
 ip-protection-autostart =
     .label = Activar VPN automáticamente
+ip-protection-autostart-private-checkbox =
+    .label = En ventanas privadas
 
 ## IP Protection dialogs
 

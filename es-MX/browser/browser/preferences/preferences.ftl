@@ -490,9 +490,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Usar la configuración de tu sistema operativo para “{ $localeName }” para dar formato a fechas, horas, números y medidas.
+settings-spellcheck-header =
+    .label = Revisión ortográfica
 check-user-spelling =
     .label = Verificar la ortografía mientras escribes
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Descargar diccionarios
 
 ## General Section - Files and Applications
 
@@ -532,9 +536,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo de contenido
     .accesskey = T
+applications-type-heading = Tipo de contenido
 applications-action-column =
     .label = Acción
     .accesskey = A
+applications-action-heading = Acción
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archivo { $extension }
@@ -1540,6 +1546,8 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = Recuerde el historial
+history-remember-option-custom2 =
+    .label = Personalizar el historial
 history-remember-option-never =
     .label = No guarde el historial
 history-remember-option-custom =
@@ -1582,6 +1590,11 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpiar historial…
     .accesskey = s
+history-header2 =
+    .heading = Historial
+history-section-header =
+    .label = Historial
+    .description = Elige lo que quieres que { -brand-short-name } recuerde cuando cierres el navegador.
 history-group =
     .label = Historial
 
@@ -1650,6 +1663,16 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Puedes especificar qué sitios web siempre o nunca pueden utilizar cookies y datos del sitio.
+sitedata-heading =
+    .label = Datos de navegación
+    .description = Administra tus cookies, historial, caché, datos del sitio web y más.
+sitedata-settings3 =
+    .label = Borrar datos para sitios específicos
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Administrar excepciones
+    .accesskey = X
+    .description = Elige cómo los sitios específicos manejan las cookies y los datos del sitio.
 cookies-site-data-group =
     .label = Cookies y datos del sitio
 
@@ -1915,6 +1938,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Administrar redirecciones
+    .accesskey = E
+    .searchkeywords = popups,pop-ups
+permissions-addon-install-warning3 =
+    .label = Mostrar advertencia cuando los sitios web intentan instalar extensiones
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Administrar las excepciones de ventanas emergentes y redireccionamiento de terceros
     .accesskey = E
@@ -1960,6 +1992,9 @@ permissions-speaker2 =
     .label = Salida de audio
 permissions-notification2 =
     .label = Notificaciones
+permissions-header3 =
+    .label = Permisos
+    .description = Administra qué sitios web pueden acceder, controlar o activar.
 
 ## Privacy Section - Data Collection
 
