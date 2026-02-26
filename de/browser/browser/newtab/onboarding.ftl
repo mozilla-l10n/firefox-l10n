@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Aus Backup wiederherstellen
 restore-from-backup-title = Holen wir uns { -brand-short-name } zurück, wie Sie ihn mögen
 restore-from-backup-subtitle = Stellen Sie alle Lesezeichen, Chronik und andere Daten wieder her, um zum Surfen zurückzukehren.
 restore-from-backup-secondary-button = Nicht wiederherstellen
+multiple-backups-info-tile = <strong>Mehrere Sicherungsdateien gefunden.</strong> Die neueste Datei wird ausgewählt. Andere Profile in den <a data-l10n-name="settings-label">Einstellungen</a> wiederherstellen
 
 ## Restored from Backup spotlight
 

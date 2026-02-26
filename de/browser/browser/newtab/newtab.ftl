@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 newtab-topsites-image-validation = Grafik konnte nicht geladen werden. Verwenden Sie eine andere Adresse.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Text löschen
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Abbrechen

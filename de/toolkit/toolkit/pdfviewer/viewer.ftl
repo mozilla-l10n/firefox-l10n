@@ -706,6 +706,7 @@ pdfjs-views-manager-status-undo-button-label = Rückgängig
 pdfjs-views-manager-status-close-button =
     .title = Schließen
 pdfjs-views-manager-status-close-button-label = Schließen
+pdfjs-views-manager-paste-button-label = Einfügen
 
 ## Main menu for adding/removing signatures
 

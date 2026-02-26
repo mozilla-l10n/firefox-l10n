@@ -527,6 +527,8 @@ use-system-locale =
 check-user-spelling =
     .label = Rechtschreibung während der Eingabe überprüfen
     .accesskey = R
+spellcheck-download-dictionaries =
+    .label = Wörterbücher hinzufügen
 
 ## General Section - Files and Applications
 
@@ -1049,6 +1051,14 @@ search-one-click-header-3 =
     .description = Wählen Sie, welche Suchmaschinen und Verknüpfungen in Ihrer Adressleiste angezeigt werden sollen.
 update-search-engine-success =
     .message = Suchmaschine erfolgreich aktualisiert
+search-edit-engine-2 =
+    .title = Suchmaschine bearbeiten
+search-delete-engine =
+    .title = Suchmaschine löschen
+search-enable-engine =
+    .title = Suchmaschine aktivieren
+search-outlink-to-extensions-page =
+    .title = In Erweiterungen und Themes verwalten
 search-choose-engine-column =
     .label = Suchmaschine
 search-choose-keyword-column =
@@ -1642,6 +1652,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Chronik löschen…
     .accesskey = C
+history-header2 =
+    .heading = Chronik
 history-group =
     .label = Chronik
 
@@ -2280,3 +2292,38 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Abbrechen
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blockieren
+
+## Privacy and security status card
+
+security-privacy-status-update-needed-label = Eine neue Version von { -brand-short-name } ist verfügbar.
+security-privacy-status-update-checking-label = { -brand-short-name } sucht nach Updates
+security-privacy-status-update-needed-description = Aktualisieren Sie, um die neuesten Geschwindigkeits-, Stabilitäts- und Sicherheits-Updates zu erhalten.
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } aktualisieren
+security-privacy-issue-card =
+    .heading = Sicherheitswarnungen
+issue-card-reset-button =
+    .label = Zurücksetzen
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reload-tabs-hint-button =
+    .label = Alle Tabs neu laden
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Alle Cookies erlauben
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Inhalte zur Aktivitätenverfolgung
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Inhalte zur Aktivitätenverfolgung
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Heimliche Digitalwährungsberechner (Krypto-Miner)
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Bekannte Identifizierer (Fingerprinter)
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Vermutete Identifizierer (Fingerprinter)
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Vermutete Identifizierer (Fingerprinter)
