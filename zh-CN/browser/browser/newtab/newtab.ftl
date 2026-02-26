@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = 清除文本
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = 取消

@@ -2447,8 +2447,21 @@ security-privacy-status-trackers-label =
         [one] Соңғы айда { $trackerCount } трекер блокталды
        *[other] Соңғы айда { $trackerCount } трекер блокталды
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Сізде <a data-l10n-name="strict-tracking-protection">қатаң қорғаныс</a> бар.
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Сізде <a data-l10n-name="strict-tracking-protection">таңдауыңызша қорғаныс</a> бар.
+security-privacy-status-up-to-date-label = Сізде { -brand-short-name } соңғы, ең қауіпсіз нұсқасы орнатылған
+security-privacy-status-update-needed-label = { -brand-short-name } жаңа нұсқасы қолжетімді
+security-privacy-status-update-error-label = { -brand-short-name } өз-өзін жаңарту кезінде мәселелерге тап болуда
+security-privacy-status-update-checking-label = { -brand-short-name } жаңартуларға тексеруде
+security-privacy-status-update-needed-description = Ең соңғы жылдамдық, тұрақтылық және қауіпсіздік жаңартулары үшін жаңарту.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } жаңарту
+security-privacy-image-warning =
+    .alt = Қауіпсіздік ескертулеріне алаңдаушылық білдіретін леп белгісі бар қалқан
+security-privacy-image-ok =
+    .alt = Қауіпсіздік мәселелерінің жоқтығын білдіретін құсбелгісі бар қалқан
 security-privacy-issue-card =
     .heading = Қауіпсіздік ескертулері
 issue-card-reset-button =
@@ -2459,10 +2472,54 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Бақылаудан кеңейтілген қорғаныс
+    .description = Сайттар сіздің желідегі әрекеттеріңізді бақылау және жағымсыз жарнамаларды көрсету үшін трекерлерді қолданады. { -brand-short-name } интернетті шолу кезінде трекерлерді автоматты түрде блоктай отырып, сізді қорғайды және цифрлық ізіңізді бақылауда ұстауға мүмкіндік береді.
+preferences-etp-level-standard =
+    .label = Стандартты (бастапқы)
+    .description = Көптеген веб-сайттармен үйлесімді, сенімді әрі мықты қорғаныс.
+preferences-etp-level-strict =
+    .label = Қатаң
+    .description = Көбірек трекерлерді блоктайтын, бірақ кейбір сайттардың жұмысына кедергі келтіруі мүмкін күштірек қорғаныс.
+preferences-etp-level-custom =
+    .label = Таңдауыңызша
+    .description = Қай қорғаныстар іске қосылғанын немесе қосылмағанын таңдаңыз.
+preferences-etp-status-advanced-button =
+    .label = Кеңейтілген баптаулар
+preferences-etp-status-protections-dashboard-link =
+    .label = Жекелендірілген қорғаныс басқару тақтасын қараңыз
+    .description = { -brand-short-name } сіз үшін қанша жасырын трекерлерді, соның ішінде әлеуметтік желі трекерлерін, цифрлық саусақ ізін жинаушыларды және криптомайнерлерді блоктағанын көріңіз.
+preferences-etp-header =
+    .heading = Бақылаудан кеңейтілген қорғаныс
+preferences-etp-advanced-settings-group =
+    .label = Кеңейтілген баптаулар
+    .description = Сайттар сіздің желідегі әрекеттеріңізді бақылау және жағымсыз жарнамаларды көрсету үшін трекерлерді қолданады. { -brand-short-name } интернетті шолу кезінде трекерлердің көбін автоматты түрде блоктай отырып, сізді қорғайды және цифрлық ізіңізді бақылауда ұстауға мүмкіндік береді.
+preferences-etp-customize-button =
+    .label = Бақылаудан қорғанысты баптау
+preferences-etp-reload-tabs-hint =
+    .message = Бұл өзгерістерді іске асыру үшін беттеріңізді қайта жүктеңіз.
 preferences-etp-reload-tabs-hint-button =
     .label = Барлық беттерді қайта жүктеу
 preferences-etp-rfp-warning-message =
     .message = Сіз { -brand-short-name } саусақ ізін қорғау параметрлерінің кейбірін алмастыратын Resist Fingerprinting (RFP) қолданып жатырсыз. Бұл кейбір сайттар жұмысы бұзылуына әкеп соғуы мүмкін.
+preferences-etp-level-warning-message =
+    .heading = Ескерту! Кейбір сайттар күткендей жұмыс істемеуі мүмкін.
+    .message = Кейбір сайттар өз мүмкіндіктеріне немесе мазмұнына трекерлерді ендіреді. { -brand-short-name } оларды блоктаған кезде, сайт дұрыс жұмыс істемей тұрғандай көрінуі мүмкін. «Сайт мәселесін түзету» мүмкіндігін қолданып көріңіз немесе сол сайтта бақылаудан қорғанысты өшіріңіз.
+preferences-etp-manage-exceptions-button =
+    .label = Ережеден тыс жағдайларды басқару
+    .description = Бақылаудан кеңейтілген қорғаныс қай веб-сайттарда сөндірілетінін басқару.
+preferences-etp-customize-header =
+    .heading = Бақылаудан қорғанысты баптау
+preferences-etp-reset =
+    .label = Баптауларды тастау
+    .description = Баптауларды алдын ала орнатылған қорғаныс деңгейіне қайтару.
+preferences-etp-reset-standard-button =
+    .label = Стандартты түріне келтіру
+preferences-etp-reset-strict-button =
+    .label = Қатаң түріне келтіру
+preferences-etp-custom-control-group =
+    .label = Бақылаудан қорғаныс
+    .description = Қай қорғаныстар іске қосылғанын немесе қосылмағанын таңдау.
 preferences-etp-custom-cookies-enabled =
     .label = Cookie файлдары
 preferences-etp-custom-cookie-behavior =
@@ -2481,3 +2538,18 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Күмәнді цифрлық саусақ іздерін жинаушылар
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Күмәнді цифрлық саусақ іздерін жинаушылар
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Белгілі цифрлық саусақ іздерін жинаушылар бұғатталмаған
+    .description = Бұл кейбір трекерлерге cookie файлдарынсыз-ақ соңыңыздан бақылауға мүмкіндік беруі мүмкін.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Үшінші жақты cookie файлдары іске қосылған
+    .description = Үшінші тарап cookie файлдары сізді әртүрлі веб-сайттар арасында бақылау үшін қолданылады.
+security-privacy-issue-warning-password-manager =
+    .label = Парольдер басқарушысы сөндірілген
+    .description = Парольдерді басқарушылар тіркелгілеріңіз үшін күшті парольдерді сақтауға көмектеседі.
+security-privacy-issue-warning-popup-blocker =
+    .label = Қалқымалы терезені бұғаттау функциясы сөндірілген
+    .description = Қалқымалы терезелер кедергі келтіреді және олар зиянды болуы мүмкін.
