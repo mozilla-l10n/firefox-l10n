@@ -7,6 +7,9 @@ profile-window-create-profile = وورکل پوروفایل
 profile-card-edit-button =
     .title = آلشت پوروفایل
     .aria-label = آلشت پوروفایل
+profile-card-delete-button =
+    .title = پاک کردن پوروفایل
+    .aria-label = پاک کردن پوروفایل
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
@@ -47,6 +50,7 @@ new-profile-page-header = پوروفایل نۊ خوتووه سفارشی کۊن
 new-profile-page-learn-more = قلوه دووسته بۊین
 new-profile-page-done-button =
     .label = آلشتکاریا ٱنجوم وابی
+profile-window-title-2 = { -brand-short-name } - پسند ی پوروفایل
 profile-window-logo =
     .alt = لوگو { -brand-short-name }
 

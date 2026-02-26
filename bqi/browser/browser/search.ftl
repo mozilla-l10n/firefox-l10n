@@ -51,3 +51,18 @@ edit-engine-window =
     .style = min-width: 32em;
 add-engine-button = ٱووردن موتور سفارشی
 add-engine-name = نوم موتور پیتینیڌن
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = ٱووردن موتور
+    .buttonaccesskeyaccept = A
+    .buttonlabelextra1 = پؽش رئڌه
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = زفت کردن موتور
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = پؽش رئڌه

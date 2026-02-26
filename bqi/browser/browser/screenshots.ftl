@@ -26,6 +26,7 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = لینگ لف گیری وابی
 screenshots-notification-image-copied-title = شؽوات لف گیری وابی
+screenshots-request-error-title = و در ز سرویس.
 screenshots-component-cancel-button =
     .title =
         { PLATFORM() ->
