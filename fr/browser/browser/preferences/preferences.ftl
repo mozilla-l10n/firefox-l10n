@@ -19,7 +19,7 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Protections supplémentaires
 preferences-privacy-relay-available =
-    .label = Suggérer { -relay-brand-name } alias de messagerie
+    .label = Suggérer des alias de messagerie { -relay-brand-name }
     .description = Masque votre véritable adresse e-mail pour protéger votre boîte de réception du spam.
 non-technical-privacy-header = Préférences de confidentialité des sites web
 non-technical-privacy-label =
@@ -811,7 +811,7 @@ network-proxy-connection-settings2 =
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
 home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous ouvrez votre page d’accueil, de nouvelles fenêtres ou de nouveaux onglets.
 home-section =
-    .heading = Origine et démarrage
+    .heading = Accueil et démarrage
 
 ## Home Section - Default Browser
 
