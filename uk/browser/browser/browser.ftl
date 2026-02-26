@@ -925,6 +925,10 @@ urlbar-searchmode-default =
     .tooltiptext = Типова пошукова система
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Цього разу шукати з:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Цього разу шукати з:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Налаштування пошуку
