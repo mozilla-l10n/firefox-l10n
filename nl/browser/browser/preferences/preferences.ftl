@@ -1078,6 +1078,8 @@ search-delete-engine =
     .title = Zoekmachine verwijderen
 search-enable-engine =
     .title = Zoekmachine inschakelen
+search-outlink-to-extensions-page =
+    .title = In extensies en thema’s beheren
 search-choose-engine-column =
     .label = Zoekmachine
 search-choose-keyword-column =
@@ -1629,6 +1631,9 @@ history-remember-label = { -brand-short-name } zal
     .accesskey = z
 history-remember-option-all =
     .label = Geschiedenis onthouden
+history-remember-option-never2 =
+    .label = Nooit geschiedenis onthouden
+    .description = Elk venster wordt beschouwd als een privévenster. Indien ingeschakeld, dienen extensies te worden toegestaan.
 history-remember-option-custom2 =
     .label = Geschiedenis aanpassen
 history-remember-option-never =
@@ -1675,6 +1680,14 @@ history-clear-button =
     .accesskey = G
 history-header2 =
     .heading = Geschiedenis
+history-section-header =
+    .label = Geschiedenis
+    .description = Kies wat u { -brand-short-name } wilt laten onthouden als u de browser afsluit.
+history-custom-section-header =
+    .label = Geavanceerde instellingen
+    .description = Pas aan wat u { -brand-short-name } wilt laten onthouden als u de browser afsluit.
+history-custom-button =
+    .label = Kies wat u wilt dat { -brand-short-name } onthoudt
 history-group =
     .label = Geschiedenis
 history-remember-option-all2 =
@@ -1689,17 +1702,27 @@ sitedata-total-size-calculating = Grootte van websitegegevens en buffer berekene
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Websites gebruiken momenteel <strong>{ $value } { $unit }</strong> aan schijfruimte.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Uw opgeslagen cookies, geschiedenis, websitegegevens en buffer gebruiken momenteel <strong>{ $value } { $unit }</strong> aan schijfruimte.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Uw opgeslagen cookies, websitegegevens en buffer gebruiken momenteel { $value } { $unit } aan schijfruimte.
 sitedata-learn-more = Meer info
+sitedata-delete-on-close2 =
+    .label = Cookies en websitegegevens wissen telkens wanneer u { -brand-short-name } afsluit
+    .accesskey = C
 sitedata-delete-on-close =
     .label = Cookies en websitegegevens verwijderen zodra { -brand-short-name } wordt gesloten
     .accesskey = C
 sitedata-delete-on-close-private-browsing3 =
     .message = Op basis van uw geschiedenisinstellingen verwijdert { -brand-short-name } cookies en websitegegevens uit uw sessie wanneer u de browser sluit.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Geschiedenis wordt niet opgeslagen.
+    .message = { -brand-short-name } wist cookies en websitegegevens van uw sessie als u de browser afsluit.
 sitedata-delete-on-close-private-browsing = In permanente privénavigatiemodus worden cookies en websitegegevens altijd gewist zodra { -brand-short-name } wordt gesloten.
 sitedata-delete-on-close-private-browsing2 = Op basis van uw geschiedenisinstellingen verwijdert { -brand-short-name } cookies en websitegegevens uit uw sessie wanneer u de browser sluit.
 sitedata-allow-cookies-option =
@@ -1745,6 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Uitzonderingen beheren
     .accesskey = z
     .description = U kunt opgeven welke websites altijd of nooit cookies en websitegegevens mogen gebruiken.
+sitedata-heading =
+    .label = Navigatiegegevens
+    .description = Uw cookies, geschiedenis, buffer en websitegegevens en meer beheren.
+sitedata-settings3 =
+    .label = Gegevens voor specifieke websites wissen
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Uitzonderingen beheren
+    .accesskey = z
+    .description = Kies hoe specifieke websites omgaan met cookies en websitegegevens.
 cookies-site-data-group =
     .label = Cookies en websitegegevens
 
@@ -2011,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = b
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Omleidingen beheren
+    .accesskey = l
+    .searchkeywords = pop-ups,popups
+permissions-addon-install-warning3 =
+    .label = Waarschuwing tonen wanneer websites extensies proberen te installeren
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Uitzonderingen voor pop-ups en omleidingen van derden beheren
     .accesskey = o
@@ -2056,6 +2098,9 @@ permissions-speaker2 =
     .label = Luidspreker
 permissions-notification2 =
     .label = Notificaties
+permissions-header3 =
+    .label = Toestemmingen
+    .description = Beheren welke websites kunnen benaderen, aansturen of starten.
 
 ## Privacy Section - Data Collection
 
@@ -2130,11 +2175,16 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Beveiliging
+browsing-protection-group2 =
+    .label = Bescherming tegen misleidende inhoud en gevaarlijke software
+    .description = Gevaarlijke websites en downloads kunnen uw gegevens en apparaat in gevaar brengen. { -brand-short-name } blokkeert ze automatisch, en waarschuwt u voor riskante of ongewenste software.
 security-browsing-protection = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-enable-safe-browsing =
     .label = Gevaarlijke en misleidende inhoud blokkeren
     .accesskey = b
 security-enable-safe-browsing-link = Meer info
+security-safe-browsing-warning =
+    .message = Door dit uit te schakelen, vermindert de bescherming tegen oplichting, kwaadwillende websites en gevaarlijke downloads.
 security-block-downloads =
     .label = Gevaarlijke downloads blokkeren
     .accesskey = G
@@ -2166,9 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen 
 certs-description2 =
     .label = Certificaten
     .description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
+certs-description3 =
+    .label = Certificaten
+    .description = De certificaten die { -brand-short-name } gebruikt om beveiligde verbindingen te verifiëren configureren.
 certs-view2 =
     .label = Certificaten beheren
     .accesskey = C
+certs-devices2 =
+    .label = Beveiligingsapparaten beheren
+    .accesskey = a
 
 ## Privacy Section - HTTPS-Only
 
@@ -2198,6 +2254,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group2 =
+    .label = DNS over HTTPS
+    .description = Domain Name System over HTTPS (DoH) versleutelt websitezoekopdrachten, dus het is moeilijker voor uw internetprovider of anderen om te zien welke websites u gaat bezoeken.
 preferences-doh-description = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt gecreëerd en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt geboden en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 # Variables:
@@ -2253,10 +2312,43 @@ preferences-doh-exceptions-description = { -brand-short-name } gebruikt geen bev
 preferences-doh-manage-exceptions =
     .label = Uitzonderingen beheren…
     .accesskey = z
+preferences-doh-overview-default =
+    .label = Standaard bescherming
+    .description = Veilige DNS gebruiken in regio’s waar deze beschikbaar is.
+preferences-doh-overview-custom =
+    .label = Aangepast
+    .description = Altijd veilige DNS gebruiken met controle over uw provider en terugvalgedrag.
+preferences-doh-overview-off =
+    .label = Uit
+    .description = Uw standaard-DNS-resolver gebruiken.
 preferences-doh-advanced-button =
     .label = Geavanceerde instellingen
+preferences-doh-advanced-section =
+    .label = Geavanceerde instellingen
+    .description = Domain Name System over HTTPS (DoH) versleutelt websitezoekopdrachten, dus het is moeilijker voor uw internetprovider of anderen om te zien welke websites u gaat bezoeken.
+preferences-doh-manage-exceptions2 =
+    .label = Uitzonderingen beheren
+    .accesskey = z
 preferences-doh-status-item-off =
     .message = DNS over HTTPS is uitgeschakeld
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS over HTTPS werkt niet, omdat er een fout ({ $reason }) is opgetreden bij het gebruik van de provider { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS over HTTPS werkt niet, omdat we een ongeldige URL hebben ontvangen ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS over HTTPS gebruikt de provider { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS over HTTPS werkt niet, omdat er een fout ({ $reason }) is opgetreden bij het gebruik van de lokale provider { $name }
 preferences-doh-select-resolver-label =
     .label = Kies provider:
 preferences-doh-header2 =
