@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Бірдемені қосу
+storage-delete-all-button =
+    .title = Барлығын өшіру
 # Refresh button title
 storage-refresh-button =
     .title = Нәрселерді жаңарту

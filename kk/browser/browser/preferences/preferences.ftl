@@ -2287,3 +2287,33 @@ preferences-ai-controls-block-confirmation-confirm =
 
 security-privacy-status-ok-label = Бақылаудан кеңейтілген қорғаныс іске қосулы
 security-privacy-status-problem-helper-label = Мәселелерді қарау
+issue-card-reset-button =
+    .label = Тастау
+issue-card-dismiss-button =
+    .tooltiptext = Елемеу
+    .aria-label = Елемеу
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reload-tabs-hint-button =
+    .label = Барлық беттерді қайта жүктеу
+preferences-etp-rfp-warning-message =
+    .message = Сіз { -brand-short-name } саусақ ізін қорғау параметрлерінің кейбірін алмастыратын Resist Fingerprinting (RFP) қолданып жатырсыз. Бұл кейбір сайттар жұмысы бұзылуына әкеп соғуы мүмкін.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookie файлдары
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookie файлдары
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Барлық cookie файлдарына рұқсат беру
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Бақылайтын мазмұн
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Бақылайтын мазмұн
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Криптомайнерлер
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Белгілі цифрлық саусақ іздерін жинаушылар
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Күмәнді цифрлық саусақ іздерін жинаушылар
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Күмәнді цифрлық саусақ іздерін жинаушылар

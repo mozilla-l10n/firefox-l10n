@@ -706,6 +706,7 @@ pdfjs-views-manager-status-undo-button-label = Болдырмау
 pdfjs-views-manager-status-close-button =
     .title = Жабу
 pdfjs-views-manager-status-close-button-label = Жабу
+pdfjs-views-manager-paste-button-label = Кірістіру
 
 ## Main menu for adding/removing signatures
 
