@@ -2324,6 +2324,8 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = 잘못된 URL({ $reason })을 받아 HTTPS를 통한 DNS가 작동하지 않음
+preferences-doh-select-resolver-label =
+    .label = 공급자 선택:
 
 ## The following strings are used in the Download section of settings
 
