@@ -784,9 +784,6 @@ network-proxy-connection-learn-more = Mear ynfo
 network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
-network-proxy-group =
-    .label = Netwurkynstellingen
-    .description = Konfigurearje hoe { -brand-short-name } ferbining makket mei it ynternet.
 
 ## Home Section
 
@@ -2098,8 +2095,6 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Befeiliging
-browsing-protection-group =
-    .label = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-browsing-protection = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-enable-safe-browsing =
     .label = Gefaarlike en misliedende ynhâld blokkearje
@@ -2165,8 +2160,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS oer HTTPS
-dns-over-https-group =
-    .label = DNS oer HTTPS
 preferences-doh-description = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS makke wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 preferences-doh-description2 = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS jûn wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 # Variables:

@@ -796,9 +796,6 @@ network-proxy-connection-learn-more = Darllen rhagor
 network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
-network-proxy-group =
-    .label = Gosodiadau Rhwydwaith
-    .description = Ffurfweddwch sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 
 ## Home Section
 
@@ -2114,8 +2111,6 @@ website-advertising-private-attribution-description = Mae hyn yn helpu gwefannau
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelwch
-browsing-protection-group =
-    .label = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-browsing-protection = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
@@ -2181,8 +2176,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS dros HTTPS
-dns-over-https-group =
-    .label = DNS dros HTTPS
 preferences-doh-description = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 preferences-doh-description2 = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 # Variables:

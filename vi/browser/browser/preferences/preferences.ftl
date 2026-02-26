@@ -772,9 +772,6 @@ network-proxy-connection-learn-more = Tìm hiểu thêm
 network-proxy-connection-settings =
     .label = Cài đặt…
     .accesskey = e
-network-proxy-group =
-    .label = Cài đặt mạng
-    .description = Cấu hình phương thức { -brand-short-name } kết nối internet.
 
 ## Home Section
 
@@ -2082,8 +2079,6 @@ website-advertising-private-attribution-description = Điều này giúp các tr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bảo mật
-browsing-protection-group =
-    .label = Chống nội dung lừa đảo và phần mềm nguy hiểm
 security-browsing-protection = Chống nội dung lừa đảo và phần mềm nguy hiểm
 security-enable-safe-browsing =
     .label = Chặn nội dung lừa đảo và không an toàn
@@ -2149,8 +2144,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS qua HTTPS
-dns-over-https-group =
-    .label = DNS qua HTTPS
 preferences-doh-description = Hệ thống tên miền (DNS) qua HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, tạo một DNS an toàn và khiến người khác khó nhìn thấy trang web bạn sắp truy cập hơn.
 preferences-doh-description2 = Hệ thống phân giải tên miền (DNS) trên HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, cung cấp DNS an toàn và khiến người khác khó biết bạn sắp truy cập trang web nào.
 # Variables:

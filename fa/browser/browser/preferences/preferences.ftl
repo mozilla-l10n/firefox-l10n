@@ -478,9 +478,6 @@ network-proxy-connection-learn-more = اطلاعات بیشتر
 network-proxy-connection-settings =
     .label = تنظیمات…
     .accesskey = ت
-network-proxy-group =
-    .label = تنظیمات شبکه
-    .description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
 
 ## Home Section
 
@@ -1205,8 +1202,6 @@ collection-backlogged-crash-reports-with-link = به { -brand-short-name } اج�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = امنیت
-browsing-protection-group =
-    .label = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-browsing-protection = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-enable-safe-browsing =
     .label = مسدود سازی محتوا‌های خطرناک و فریبنده
@@ -1253,8 +1248,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = ساناد روی HTTPS
-dns-over-https-group =
-    .label = ساناد روی HTTPS
 preferences-doh-description = سامانهٔ نام دامنه (ساناد) روی HTTPS درخواست شما برای نام دامنه را از طریق اتصال رمزگذاشته می‌فرستد، سانادی ایمن ایجاد می‌کند و مشاهدهٔ وبگاه‌هایی که بازدید می‌کنید را برای دیگران سخت‌تر می‌کند.
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.

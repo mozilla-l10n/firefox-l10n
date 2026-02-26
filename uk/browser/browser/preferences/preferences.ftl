@@ -685,9 +685,6 @@ network-proxy-connection-learn-more = Докладніше
 network-proxy-connection-settings =
     .label = Налаштувати…
     .accesskey = а
-network-proxy-group =
-    .label = Налаштування мережі
-    .description = Налаштувати спосіб з'єднання { -brand-short-name } з Інтернетом.
 
 ## Home Section
 
@@ -1888,8 +1885,6 @@ website-advertising-private-attribution-description = Завдяки цьому 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безпека
-browsing-protection-group =
-    .label = Шахрайський вміст і захист від зловмисних програм
 security-browsing-protection = Шахрайський вміст і захист від зловмисних програм
 security-enable-safe-browsing =
     .label = Блокувати небезпечний і шахрайський вміст
@@ -1953,8 +1948,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS через HTTPS
-dns-over-https-group =
-    .label = DNS через HTTPS
 preferences-doh-description = Система доменних імен (DNS) через HTTPS надсилає ваш запит на доменне ім'я через зашифроване з'єднання, створюючи захищену DNS і ускладнюючи іншим користувачам можливість переглянути, до якого вебсайту ви збираєтеся отримати доступ.
 preferences-doh-description2 = Завдяки системі DNS через HTTPS ваші запити на доменне ім'я шифруються, ускладнюючи стороннім особам можливість перегляду, до якого вебсайту ви збираєтеся отримати доступ.
 # Variables:

@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ дар Интернет
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Илова кардани низоми ҷустуҷӯӣ
 newtab-topsites-add-shortcut-header = Миёнбури нав

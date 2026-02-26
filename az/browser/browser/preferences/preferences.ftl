@@ -340,9 +340,6 @@ network-proxy-connection-learn-more = Ətraflı öyrən
 network-proxy-connection-settings =
     .label = Nizamlar…
     .accesskey = a
-network-proxy-group =
-    .label = Şəbəkə Tənzimləmələri
-    .description = { -brand-short-name } səyyahının internetə necə qoşulduğunu idarə et.
 
 ## Home Section
 
@@ -840,8 +837,6 @@ collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məl
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Təhlükəsizlik
-browsing-protection-group =
-    .label = Aldadıcı Məzmun və Təhlükəli Proqram Qoruması
 security-browsing-protection = Aldadıcı Məzmun və Təhlükəli Proqram Qoruması
 security-enable-safe-browsing =
     .label = Təhlükəli və aldadıcı məzmunu blokla

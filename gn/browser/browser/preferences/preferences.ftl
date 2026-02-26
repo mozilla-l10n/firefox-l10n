@@ -783,9 +783,6 @@ network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
     .label = Ñemboheko…
     .accesskey = e
-network-proxy-group =
-    .label = Jeike ñemboheko
-    .description = Emboheko { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 
 ## Home Section
 
@@ -2095,8 +2092,6 @@ website-advertising-private-attribution-description = Kóva oipytyvõta tendaku�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Tekorosã
-browsing-protection-group =
-    .label = Ñemo’ã Mba’e Ag̃ave’ỹvagui
 security-browsing-protection = Ñemo’ã Mba’e Ag̃ave’ỹvagui
 security-enable-safe-browsing =
     .label = Ejoko tetepy kyhyjerã ha imarãkuaáva
@@ -2162,8 +2157,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS reheguáva
-dns-over-https-group =
-    .label = DNS HTTPS reheguáva
 preferences-doh-description = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 preferences-doh-description2 = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 # Variables:

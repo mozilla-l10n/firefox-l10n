@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Serĉi en la reto
     .aria-label = Serĉi en la reto
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Aldoni serĉilon
 newtab-topsites-add-shortcut-header = Nova ŝparvojo

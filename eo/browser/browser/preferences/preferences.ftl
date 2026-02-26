@@ -782,9 +782,6 @@ network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
-network-proxy-group =
-    .label = Retaj agordoj
-    .description = Agordi la manieron, kiel { -brand-short-name } konektiĝas al la reto.
 
 ## Home Section
 
@@ -2094,8 +2091,6 @@ website-advertising-private-attribution-description = Tio ĉi permesas al retejo
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sekureco
-browsing-protection-group =
-    .label = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-browsing-protection = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-enable-safe-browsing =
     .label = Bloki danĝeran aŭ trompan enhavon
@@ -2161,8 +2156,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS per HTTPS
-dns-over-https-group =
-    .label = DNS per HTTPS
 preferences-doh-description = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio kreas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 preferences-doh-description2 = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio provizas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 # Variables:

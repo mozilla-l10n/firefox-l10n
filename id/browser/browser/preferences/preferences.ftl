@@ -621,9 +621,6 @@ network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
     .label = Setelan…
     .accesskey = S
-network-proxy-group =
-    .label = Setelan Jaringan
-    .description = Atur bagaimana { -brand-short-name } tersambung ke internet.
 
 ## Home Section
 
@@ -1614,8 +1611,6 @@ website-advertising-private-attribution-description = Ini membantu situs memaham
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keamanan
-browsing-protection-group =
-    .label = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-browsing-protection = Perlindungan Konten Penipuan dan Perangkat Lunak Berbahaya
 security-enable-safe-browsing =
     .label = Blokir konten berbahaya dan tidak dapat dipercaya
@@ -1676,8 +1671,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS melalui HTTPS
-dns-over-https-group =
-    .label = DNS melalui HTTPS
 preferences-doh-description = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menciptakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
 preferences-doh-description2 = Domain Name System (DNS) melalui HTTPS mengirimkan permintaan Anda untuk mendapatkan nama domain melalui koneksi terenkripsi, sehingga menyediakan DNS yang aman dan mempersulit orang lain untuk melihat situs web mana yang akan diakses.
 # Variables:

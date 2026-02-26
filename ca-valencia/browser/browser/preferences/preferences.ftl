@@ -459,9 +459,6 @@ network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
     .label = Paràmetres…
     .accesskey = P
-network-proxy-group =
-    .label = Paràmetres de xarxa
-    .description = Configureu com el { -brand-short-name } es connecta a Internet.
 
 ## Home Section
 
@@ -1178,8 +1175,6 @@ collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-nam
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
-browsing-protection-group =
-    .label = Protecció contra contingut enganyós i programari perillós
 security-browsing-protection = Protecció contra contingut enganyós i programari perillós
 security-enable-safe-browsing =
     .label = Bloca el contingut enganyós i perillós

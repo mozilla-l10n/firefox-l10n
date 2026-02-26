@@ -132,14 +132,6 @@ firefoxview-synced-tabs-nav = 다른 기기의 탭
     .title = 다른 기기의 탭
 firefoxview-synced-tabs-header = 다른 기기의 탭
 
-## Chats in this context refers to chats saved from the AI Window Assistant
-
-firefoxview-chats-nav = 채팅
-    .title = 채팅
-firefoxview-chats-header = 채팅
-firefoxview-chat-context-delete = 채팅에서 삭제
-    .accesskey = D
-
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -172,9 +164,6 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = 열린 탭 검색
-# Placeholder for the input field to search in open tabs ("search" is a verb).
-firefoxview-search-text-box-chats =
-    .placeholder = 탭 검색
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -202,10 +191,6 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (로컬 파일)
-firefoxview-chat-date-today = 오늘 - { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-yesterday = 어제 - { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 

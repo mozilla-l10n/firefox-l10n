@@ -49,7 +49,7 @@ newtab-search-box-input =
     .placeholder = ინტერნეტში ძიება
     .aria-label = ინტერნეტში ძიება
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = საძიებო სისტემის დამატება
 newtab-topsites-add-shortcut-header = ახალი მალსახმობი

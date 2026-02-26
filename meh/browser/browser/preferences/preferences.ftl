@@ -351,9 +351,6 @@ network-proxy-connection-learn-more = Ka´vi jiee ya´a
 network-proxy-connection-settings =
     .label = Ke´i
     .accesskey = e
-network-proxy-group =
-    .label = Ke´i conexión
-    .description = Ke´i naja { -brand-short-name } kivu nuu internet.
 
 ## Home Section
 

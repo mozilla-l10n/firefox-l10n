@@ -569,9 +569,6 @@ network-proxy-connection-learn-more = Uzzināt vairāk
 network-proxy-connection-settings =
     .label = Iestatījumi...
     .accesskey = e
-network-proxy-group =
-    .label = Tīkla iestatījumi
-    .description = Konfigurēt kā { -brand-short-name } pieslēdzas internetam.
 
 ## Home Section
 
@@ -1438,8 +1435,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Drošība
-browsing-protection-group =
-    .label = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-browsing-protection = Maldinoša satura un bīstamas programmatūras aizsardzība
 security-enable-safe-browsing =
     .label = Bloķēt bīstamu un maldinošu saturu
@@ -1489,8 +1484,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS caur HTTPS
-dns-over-https-group =
-    .label = DNS caur HTTPS
 preferences-doh-description = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, izveidojot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 # Variables:

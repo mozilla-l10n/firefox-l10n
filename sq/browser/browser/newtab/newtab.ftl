@@ -49,7 +49,7 @@ newtab-search-box-input =
     .placeholder = Kërkoni në Web
     .aria-label = Kërkoni në Web
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Shtoni Motor Kërkimesh
 newtab-topsites-add-shortcut-header = Shkurtore e Re

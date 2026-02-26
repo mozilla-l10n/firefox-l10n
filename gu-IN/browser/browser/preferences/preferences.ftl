@@ -344,9 +344,6 @@ network-proxy-connection-learn-more = વધુ શીખો
 network-proxy-connection-settings =
     .label = સેટીંગ...
     .accesskey = e
-network-proxy-group =
-    .label = નેટવર્ક સેટિંગ્સ
-    .description = કેવી રીતે { -brand-short-name } ઇન્ટરનેટ સાથે જોડાય છે તે ગોઠવો.
 
 ## Home Section
 
@@ -860,8 +857,6 @@ collection-health-report-disabled = આ તૈચાર કરેલ રૂપ�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = સુરક્ષા
-browsing-protection-group =
-    .label = ભ્રામક સામગ્રી અને ડેન્જરસ સોફ્ટવેર પ્રોટેક્શન
 security-browsing-protection = ભ્રામક સામગ્રી અને ડેન્જરસ સોફ્ટવેર પ્રોટેક્શન
 security-enable-safe-browsing =
     .label = ખતરનાક અને ભ્રામક સામગ્રીને અવરોધિત કરો

@@ -367,9 +367,6 @@ network-proxy-connection-learn-more = زیاتر بزانە
 network-proxy-connection-settings =
     .label = ڕێکخستنەکان...
     .accesskey = e
-network-proxy-group =
-    .label = ڕێکخستنی ڕایەڵە
-    .description = ڕێکی بخە کە چۆن { -brand-short-name } پەویوەندی ببەستێت بە ئینتەرنێتەوە.
 
 ## Home Section
 

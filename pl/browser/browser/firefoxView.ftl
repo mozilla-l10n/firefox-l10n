@@ -132,14 +132,6 @@ firefoxview-synced-tabs-nav = Karty z innych urządzeń
     .title = Karty z innych urządzeń
 firefoxview-synced-tabs-header = Karty z innych urządzeń
 
-## Chats in this context refers to chats saved from the AI Window Assistant
-
-firefoxview-chats-nav = Czaty
-    .title = Czaty
-firefoxview-chats-header = Czaty
-firefoxview-chat-context-delete = Usuń z czatów
-    .accesskey = c
-
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -172,9 +164,6 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Szukaj w otwartych kartach
-# Placeholder for the input field to search in open tabs ("search" is a verb).
-firefoxview-search-text-box-chats =
-    .placeholder = Szukaj w czatach
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -207,10 +196,6 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (pliki lokalne)
-firefoxview-chat-date-today = Dzisiaj – { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-yesterday = Wczoraj – { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 

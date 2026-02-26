@@ -1086,8 +1086,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = دی ان اس ری HTTPS
-dns-over-https-group =
-    .label = دی ان اس ری HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = وزعیت: { $status }

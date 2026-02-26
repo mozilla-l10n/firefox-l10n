@@ -784,9 +784,6 @@ network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
-network-proxy-group =
-    .label = Ağ ayarları
-    .description = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını yapılandırın.
 
 ## Home Section
 
@@ -2098,8 +2095,6 @@ website-advertising-private-attribution-description = Bu sayede siteler sizin ha
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Güvenlik
-browsing-protection-group =
-    .label = Aldatıcı içerik ve tehlikeli yazılım koruması
 security-browsing-protection = Aldatıcı içerik ve tehlikeli yazılım koruması
 security-enable-safe-browsing =
     .label = Tehlikeli ve aldatıcı içerikleri engelle
@@ -2165,8 +2160,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = HTTPS üzerinden DNS
-dns-over-https-group =
-    .label = HTTPS üzerinden DNS
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:

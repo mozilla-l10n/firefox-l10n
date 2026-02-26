@@ -1234,9 +1234,6 @@ tabs-toolbar-list-all-tabs =
     .label = اسرد كل الألسنة
     .tooltiptext = اسرد كل الألسنة
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1459,9 +1456,6 @@ trustpanel-blocker-see-all = اعرض الكل
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = حماية التتبع لـ { $host }
-
-## The urlbar trust icon & panel
-
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

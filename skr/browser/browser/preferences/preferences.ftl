@@ -566,9 +566,6 @@ network-proxy-connection-learn-more = ٻیا سِکھو
 network-proxy-connection-settings =
     .label = ترتیباں…
     .accesskey = e
-network-proxy-group =
-    .label = نیٹ ورک دیاں ترتیباں
-    .description = کنفیگر کرو جو کیویں { -brand-short-name } انٹرنیٹ نال جڑدا ہے۔
 
 ## Home Section
 
@@ -1457,8 +1454,6 @@ website-advertising-private-attribution =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = سلامتی
-browsing-protection-group =
-    .label = گمراہ کن مواد تے خطرناک سافٹ ویئر پروٹیکشن
 security-browsing-protection = گمراہ کن مواد تے خطرناک سافٹ ویئر پروٹیکشن
 security-enable-safe-browsing =
     .label = خطرناک تے گمراہ کن مواد کوں بلاک کرو
@@ -1508,8 +1503,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS تے DNS
-dns-over-https-group =
-    .label = HTTPS تے DNS
 preferences-doh-description = HTTPS تے ڈومین نیم سسٹم (DNS) ہک خفیہ کنکشن دے ذریعے ڈومین ناں کیتے تہاݙی ارداس پٹھیندے، ہک محفوظ DNS بݨیندا ہے تے ٻنھاں کیتے ایہ اوکھیرا بݨیندا  ہے جو تساں کہڑی ویب سائٹ تائیں رسائی حاصل کرݨ آلے ہو۔
 preferences-doh-description2 = ایچ ٹی ٹی پی ایس کنوں وَدھ ڈومین ناں دا نظام (ڈی این ایس) ہِک خفیہ کِیتے ڳئے کنکشن دے ذریعے تُہاݙی عرضی کوں ڈومین دے ناں کِیتے گَھلین٘دا ہِے، ہِک محفوظ ڈی این ایس فراہم کرین٘دا ہِے اَتے ٻِنّھاں کوں اِیہ ݙیکھݨ اَوکھا بݨین٘دا ہِے جو تُساں کہڑی ویب سائٹ تئیں رسائل حاصل کرݨ وین٘دے پئے ہِیوے۔
 # Variables:

@@ -338,9 +338,6 @@ network-proxy-connection-learn-more = Nong ngec mapol
 network-proxy-connection-settings =
     .label = Tero…
     .accesskey = e
-network-proxy-group =
-    .label = Ter me Netwak
-    .description = Ter kit ma { -brand-short-name } kube ki intanet.
 
 ## Home Section
 
@@ -860,8 +857,6 @@ addon-recommendations-link = Nong ngec mapol
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ber bedo
-browsing-protection-group =
-    .label = Gwokke ikom jami me bwola ki purugram maraco
 security-browsing-protection = Gwokke ikom jami me bwola ki purugram maraco
 security-enable-safe-browsing =
     .label = Geng jami maraco ki me bwola

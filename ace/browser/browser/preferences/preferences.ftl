@@ -313,9 +313,6 @@ network-proxy-connection-learn-more = Meurunoë Lom
 network-proxy-connection-settings =
     .label = Atô...
     .accesskey = e
-network-proxy-group =
-    .label = Peuatô Jaringan
-    .description = Meuatô kiban { -brand-short-name } meuhubông u internet
 
 ## Home Section
 
@@ -750,8 +747,6 @@ collection-health-report-disabled = Lapuran data meupeulèn keu build konfiguras
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keuamanan
-browsing-protection-group =
-    .label = Peulindông Peukateun Leumiek nyang Meubahya dan Content Deceptive
 security-browsing-protection = Peulindông Peukateun Leumiek nyang Meubahya dan Content Deceptive
 security-enable-safe-browsing =
     .label = Tham konten nyang meubaya ngon seumunguet

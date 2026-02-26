@@ -784,9 +784,6 @@ network-proxy-connection-learn-more = Meer info
 network-proxy-connection-settings =
     .label = Instellingen…
     .accesskey = I
-network-proxy-group =
-    .label = Netwerkinstellingen
-    .description = Configureren hoe { -brand-short-name } verbinding maakt met het internet.
 
 ## Home Section
 
@@ -1050,6 +1047,8 @@ search-one-click-desc = Kies de alternatieve zoekmachines die onder de adresbalk
 search-one-click-header-3 =
     .label = Extra zoekmachines
     .description = Kies welke zoekmachines en snelkoppelingen in uw adresbalk verschijnen.
+update-search-engine-success =
+    .message = Zoekmachine met succes bijgewerkt
 search-choose-engine-column =
     .label = Zoekmachine
 search-choose-keyword-column =
@@ -2096,8 +2095,6 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Beveiliging
-browsing-protection-group =
-    .label = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-browsing-protection = Bescherming tegen misleidende inhoud en gevaarlijke software
 security-enable-safe-browsing =
     .label = Gevaarlijke en misleidende inhoud blokkeren
@@ -2163,8 +2160,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
-dns-over-https-group =
-    .label = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt gecreëerd en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS verzendt uw aanvraag voor een domeinnaam via een versleutelde verbinding, waardoor een veilige DNS wordt geboden en het voor anderen moeilijker wordt om te zien welke website u gaat bezoeken.
 # Variables:

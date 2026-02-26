@@ -641,9 +641,6 @@ network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
-network-proxy-group =
-    .label = Definições de rede
-    .description = Configure como o { -brand-short-name } se liga à internet.
 
 ## Home Section
 
@@ -1730,8 +1727,6 @@ website-advertising-private-attribution-description = Isto ajuda os sites a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
-browsing-protection-group =
-    .label = Conteúdo decetivo e proteção contra software perigoso
 security-browsing-protection = Conteúdo decetivo e proteção contra software perigoso
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e decetivo
@@ -1795,8 +1790,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
-dns-over-https-group =
-    .label = DNS sobre HTTPS
 preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 preferences-doh-description2 = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, fornecendo um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 # Variables:

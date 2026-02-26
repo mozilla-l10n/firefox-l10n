@@ -784,9 +784,6 @@ network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
     .label = הגדרות…
     .accesskey = ה
-network-proxy-group =
-    .label = הגדרות רשת
-    .description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
 
 ## Home Section
 
@@ -2097,8 +2094,6 @@ website-advertising-private-attribution-description = אפשרות זו מסיי
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = אבטחה
-browsing-protection-group =
-    .label = תוכן מטעה והגנת תוכנה מסוכנת
 security-browsing-protection = תוכן מטעה והגנת תוכנה מסוכנת
 security-enable-safe-browsing =
     .label = חסימת תוכן מסוכן ומטעה
@@ -2164,8 +2159,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = ‏DNS על גבי HTTPS
-dns-over-https-group =
-    .label = ‏DNS על גבי HTTPS
 preferences-doh-description = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, יוצרת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 preferences-doh-description2 = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, מספקת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 # Variables:

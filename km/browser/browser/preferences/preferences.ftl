@@ -350,9 +350,6 @@ network-proxy-connection-learn-more = ស្វែងយល់​បន្ថែ
 network-proxy-connection-settings =
     .label = ការ​កំណត់…
     .accesskey = e
-network-proxy-group =
-    .label = ការកំណត់​បណ្ដាញ
-    .description = កំណត់រចនាសម្ព័ន្ធរបៀបដែល { -brand-short-name } តភ្ជាប់ទៅអ៊ីនធឺណិត
 
 ## Home Section
 
@@ -879,8 +876,6 @@ collection-health-report-disabled = ការ​រាយការណ៍​ទ�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = សុវត្ថិភាព
-browsing-protection-group =
-    .label = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-browsing-protection = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-enable-safe-browsing =
     .label = ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត

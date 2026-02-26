@@ -451,9 +451,6 @@ network-proxy-connection-learn-more = Alamin
 network-proxy-connection-settings =
     .label = Mga Setting…
     .accesskey = e
-network-proxy-group =
-    .label = Mga Network Setting
-    .description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
 
 ## Home Section
 
@@ -1168,8 +1165,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
-browsing-protection-group =
-    .label = Mapanlinlang na Content at Proteksyon mula sa Delikadong Software
 security-browsing-protection = Mapanlinlang na Content at Proteksyon mula sa Delikadong Software
 security-enable-safe-browsing =
     .label = Harangin ang delikado at mapanlinlang na content

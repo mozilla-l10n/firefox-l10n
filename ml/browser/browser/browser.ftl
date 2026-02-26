@@ -561,9 +561,6 @@ sharing-warning-screen = താങ്ങളുടെ പ്രലമാകെ �
 sharing-warning-proceed-to-tab =
     .label = ടാബിലേക്ക് ചെല്ലുക
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -705,10 +702,6 @@ urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSign
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
@@ -1051,10 +1044,6 @@ edit-popup-settings =
     .label = പൊന്തുവരൽ ക്രമീകരണങ്ങൾ നിയന്ത്രിക്കുക...
     .accesskey = ക
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -1095,15 +1084,9 @@ tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = എങ്ങനെയെന്നു് കാണിയ്ക്കുക.
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1172,9 +1155,6 @@ refresh-blocked-redirect-label = മറ്റൊരു താളിലേക്�
 refresh-blocked-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -1272,7 +1252,3 @@ trustpanel-blocker-see-all = മുഴുവന്‍ കാണുക
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = സുരക്ഷിതമല്ല
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

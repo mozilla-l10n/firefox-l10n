@@ -362,9 +362,6 @@ network-proxy-connection-learn-more = Batafsil ma’lumot
 network-proxy-connection-settings =
     .label = Sozlamalar…
     .accesskey = e
-network-proxy-group =
-    .label = Tarmoq sozlamalari
-    .description = { -brand-short-name } brauzerni internetga ulanishini sozlash.
 
 ## Home Section
 

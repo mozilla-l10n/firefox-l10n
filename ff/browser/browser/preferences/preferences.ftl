@@ -366,9 +366,6 @@ network-proxy-connection-learn-more = Ɓeydu humpito
 network-proxy-connection-settings =
     .label = Teelte…
     .accesskey = e
-network-proxy-group =
-    .label = Teelte geese
-    .description = Teelto hol no { -brand-short-name } seŋortoo e enternet oo.
 
 ## Home Section
 
@@ -864,8 +861,6 @@ collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonk
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Kisal
-browsing-protection-group =
-    .label = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-browsing-protection = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-enable-safe-browsing =
     .label = Falo loowi mbonndi e puuntoori

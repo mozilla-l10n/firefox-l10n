@@ -348,9 +348,6 @@ network-proxy-connection-learn-more = Pe saveine de ciù
 network-proxy-connection-settings =
     .label = Inpostaçioin…
     .accesskey = I
-network-proxy-group =
-    .label = Inpostaçioin da ræ
-    .description = Inpòsta o mòddo de conetise a l'internet de { -brand-short-name }.
 
 ## Home Section
 
@@ -863,8 +860,6 @@ collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguessa
-browsing-protection-group =
-    .label = Proteçion contra o conegnuo inganevole e pericoloso
 security-browsing-protection = Proteçion contra o conegnuo inganevole e pericoloso
 security-enable-safe-browsing =
     .label = Blòcca contegnui grammi pericolozi

@@ -782,9 +782,6 @@ network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
-network-proxy-group =
-    .label = Forbindelsesindstillinger
-    .description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
 
 ## Home Section
 
@@ -2094,8 +2091,6 @@ website-advertising-private-attribution-description = Det hjælper websider med 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerhed
-browsing-protection-group =
-    .label = Beskyttelse mod vildledende indhold og farlig software
 security-browsing-protection = Beskyttelse mod vildledende indhold og farlig software
 security-enable-safe-browsing =
     .label = Bloker farlige og vildledende websteder
@@ -2165,8 +2160,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
-dns-over-https-group =
-    .label = DNS via HTTPS
 preferences-doh-description = DNS-opslag foretaget med DNS via HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
 preferences-doh-description2 = Domain Name System (DNS) via HTTPS sender din forespørgsel efter et domænenavn over en krypteret forbindelse for at sikre DNS og gøre det sværere for andre at se, hvilket websted du skal til at besøge.
 # Variables:

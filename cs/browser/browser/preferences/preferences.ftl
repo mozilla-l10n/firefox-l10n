@@ -917,13 +917,6 @@ network-proxy-connection-learn-more = Zjistit více
 network-proxy-connection-settings =
     .label = Nastavení…
     .accesskey = e
-network-proxy-group =
-    .label = Nastavení sítě
-    .description =
-        { -brand-short-name.case-status ->
-            [with-cases] Konfigurovat připojení { -brand-short-name(case: "gen") } k internetu.
-           *[no-cases] Konfigurovat připojení aplikace { -brand-short-name } k internetu.
-        }
 
 ## Home Section
 
@@ -2356,8 +2349,6 @@ website-advertising-private-attribution-description = Pomůžete tím webům poc
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Zabezpečení
-browsing-protection-group =
-    .label = Ochrana před podvodným obsahem a nebezpečným softwarem
 security-browsing-protection = Ochrana před podvodným obsahem a nebezpečným softwarem
 security-enable-safe-browsing =
     .label = Blokovat nebezpečný a podvodný obsah
@@ -2439,8 +2430,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
-dns-over-https-group =
-    .label = DNS over HTTPS
 preferences-doh-description = DNS over HTTPS odesílá váš požadavek na doménové jméno skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
 preferences-doh-description2 = DNS over HTTPS odesílá váš požadavek na doménové jméno skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
 # Variables:

@@ -348,9 +348,6 @@ network-proxy-connection-learn-more = Daa Çoq Ögren
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
-network-proxy-group =
-    .label = Şebeke Ayarları
-    .description = { -brand-short-name } kezicisiniñ İnternet'ke nasıl bağlanacağını endamlandırıñız.
 
 ## Home Section
 
@@ -858,8 +855,6 @@ collection-health-report-disabled = Bu yapılandırma için veri raporlama devre
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Emniyet
-browsing-protection-group =
-    .label = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla

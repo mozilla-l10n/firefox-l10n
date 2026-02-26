@@ -76,3 +76,4 @@ experimental-features-newtab-widget-lists-and-timer-description = Hold huskelist
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historikksøk
+experimental-features-semantic-history-search-description = Bruk en lokal maskinlæringsmodell til å foreslå oppføringer fra historikken som er relatert til søkene dine, basert på naturlig språkforståelse i { -brand-product-name }-adresselinjen. <a data-l10n-name="connect">Del tilbakemelding</a>

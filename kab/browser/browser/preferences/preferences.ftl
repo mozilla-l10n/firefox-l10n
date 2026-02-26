@@ -625,9 +625,6 @@ network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
     .label = Iɣewwaṛen…
     .accesskey = I
-network-proxy-group =
-    .label = Iɣewwaṛen n uẓeṭṭa
-    .description = Swel amek { -brand-short-name } ad iqqen γer internet.
 
 ## Home Section
 
@@ -1568,8 +1565,6 @@ website-advertising-header = Ismenyifen n udellel n yismal web
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Taɣellist
-browsing-protection-group =
-    .label = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-browsing-protection = Ammesten mgal agbur n ukellex u d aseɣẓan n ddir
 security-enable-safe-browsing =
     .label = Sewḥel yir agbur neɣ win iweɛṛen
@@ -1616,8 +1611,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS s HTTPS
-dns-over-https-group =
-    .label = DNS s HTTPS
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Addad: { $status }

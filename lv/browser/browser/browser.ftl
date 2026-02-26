@@ -1504,9 +1504,6 @@ trustpanel-blocker-see-all = Redzēt visu
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
 
-## The urlbar trust icon & panel
-
-
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

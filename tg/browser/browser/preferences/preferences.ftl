@@ -781,9 +781,6 @@ network-proxy-connection-learn-more = Маълумоти бештар
 network-proxy-connection-settings =
     .label = Танзимот…
     .accesskey = Т
-network-proxy-group =
-    .label = Танзимоти шабака
-    .description = Танзими тарзи пайвастшавии «{ -brand-short-name }» ба Интернет.
 
 ## Home Section
 
@@ -2088,8 +2085,6 @@ website-advertising-private-attribution-description = Ин хусусият ба
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Амният
-browsing-protection-group =
-    .label = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-browsing-protection = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-enable-safe-browsing =
     .label = Манъ кардани муҳтавои дурӯғӣ ва зараровар
@@ -2155,8 +2150,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS тавассути HTTPS
-dns-over-https-group =
-    .label = DNS тавассути HTTPS
 preferences-doh-description = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро месозад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 preferences-doh-description2 = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро таъмин мекунад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 # Variables:

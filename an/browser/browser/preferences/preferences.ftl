@@ -402,9 +402,6 @@ network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
-network-proxy-group =
-    .label = Configuración de ret
-    .description = Configurar cómo { -brand-short-name } se connecta con internet.
 
 ## Home Section
 
@@ -1058,8 +1055,6 @@ collection-health-report-disabled = Lo reporte de datos ye desactivau en esta co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
-browsing-protection-group =
-    .label = Protección contra los contenius enganyosos y los programas periglosos
 security-browsing-protection = Protección contra los contenius enganyosos y los programas periglosos
 security-enable-safe-browsing =
     .label = Blocar lo conteniu perigloso y malicioso

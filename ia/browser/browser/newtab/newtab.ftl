@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Cercar in le Web
     .aria-label = Cercar in le Web
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Adder un motor de recerca
 newtab-topsites-add-shortcut-header = Nove accesso directe

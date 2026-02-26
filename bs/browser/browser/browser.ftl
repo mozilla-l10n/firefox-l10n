@@ -1435,9 +1435,6 @@ trustpanel-blocker-see-all = Vidi sve
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
 
-## The urlbar trust icon & panel
-
-
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

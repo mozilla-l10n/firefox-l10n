@@ -642,9 +642,6 @@ network-proxy-connection-learn-more = Àteras informatziones
 network-proxy-connection-settings =
     .label = Cunfiguratzione…
     .accesskey = c
-network-proxy-group =
-    .label = Cunfiguratzione de rete
-    .description = Cunfigura comente { -brand-short-name } si connetet a internet.
 
 ## Home Section
 
@@ -1665,8 +1662,6 @@ website-advertising-private-attribution-description = Custu agiudat a is sitos a
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguresa
-browsing-protection-group =
-    .label = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-browsing-protection = Cuntenutu ingannosu e amparu contra programmas perigulosos
 security-enable-safe-browsing =
     .label = Bloca is cuntenutos perigulosos e ingannosos
@@ -1729,8 +1724,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS  pro mèdiu de  HTTPS
-dns-over-https-group =
-    .label = DNS  pro mèdiu de  HTTPS
 preferences-doh-description = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, creende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 preferences-doh-description2 = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, frunende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 # Variables:

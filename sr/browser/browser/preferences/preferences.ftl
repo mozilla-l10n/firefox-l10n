@@ -597,9 +597,6 @@ network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
     .label = Подешавања…
     .accesskey = П
-network-proxy-group =
-    .label = Подешавања мреже
-    .description = Подесите како { -brand-short-name } приступа интернету.
 
 ## Home Section
 
@@ -1418,8 +1415,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Безбедност
-browsing-protection-group =
-    .label = Заштита од обмањујућег садржаја и опасног софтвера
 security-browsing-protection = Заштита од обмањујућег садржаја и опасног софтвера
 security-enable-safe-browsing =
     .label = Блокирај опасан и обмањујућ садржај
@@ -1478,8 +1473,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS преко HTTPS-а
-dns-over-https-group =
-    .label = DNS преко HTTPS-а
 preferences-doh-description = Систем доменских имена (DNS) преко HTTPS-а шаље ваше захтеве за име домена путем шифроване везе и тако ствара безбедан DNS, што отежава другима да сазнају који сајт желите да отворите.
 # Variables:
 #   $status (string) - The status of the DoH connection

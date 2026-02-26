@@ -526,9 +526,6 @@ network-proxy-connection-learn-more = Իմանալ աւելին
 network-proxy-connection-settings =
     .label = Կարգաւորումներ…
     .accesskey = ա
-network-proxy-group =
-    .label = Ցանցի կարգաւորումներ
-    .description = Կազմաձեւեք, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
 
 ## Home Section
 
@@ -1250,8 +1247,6 @@ collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-n
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Անվտանգութիւն
-browsing-protection-group =
-    .label = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
 security-browsing-protection = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
 security-enable-safe-browsing =
     .label = Արգելափակել վտանգաւոր եւ խաբուսիկ բովանդակութիւնը

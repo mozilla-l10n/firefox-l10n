@@ -536,9 +536,6 @@ network-proxy-connection-learn-more = Gouzout hiroc’h
 network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
-network-proxy-group =
-    .label = Arventennoù ar rouedad
-    .description = Kefluniañ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
 
 ## Home Section
 
@@ -1354,8 +1351,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelroez
-browsing-protection-group =
-    .label = Endalc'had touellus ha Gwarez a-enep d'ar Meziantoù Arvarus
 security-browsing-protection = Endalc'had touellus ha Gwarez a-enep d'ar Meziantoù Arvarus
 security-enable-safe-browsing =
     .label = Stankañ endalc'hadoù arvarus pe touellus

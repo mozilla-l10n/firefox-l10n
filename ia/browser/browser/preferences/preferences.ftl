@@ -784,9 +784,6 @@ network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
-network-proxy-group =
-    .label = Parametros de rete
-    .description = Configura como { -brand-short-name } se connecte a internet.
 
 ## Home Section
 
@@ -2098,8 +2095,6 @@ website-advertising-private-attribution-description = Isto adjuta l sitos a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
-browsing-protection-group =
-    .label = Protection contra contento fraudulente e software periculose
 security-browsing-protection = Protection contra contento fraudulente e software periculose
 security-enable-safe-browsing =
     .label = Blocar le contento periculose e fraudulente
@@ -2165,8 +2160,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS super HTTPS
-dns-over-https-group =
-    .label = DNS super HTTPS
 preferences-doh-description = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, creante un DNS secur e obstruente a alteres de vider que sito web tu va acceder.
 preferences-doh-description2 = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, forniente un DNS secur e obstruente al alteres de vider que sito web tu va acceder.
 # Variables:

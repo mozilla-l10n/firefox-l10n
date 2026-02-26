@@ -690,9 +690,6 @@ network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
     .label = الإعدادات…
     .accesskey = ع
-network-proxy-group =
-    .label = إعدادات الشبكة
-    .description = اضبط طريقة اتصال { -brand-short-name } بالإنترنت.
 
 ## Home Section
 
@@ -1715,8 +1712,6 @@ website-advertising-private-attribution-description = يساعد هذا المو
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = الأمان
-browsing-protection-group =
-    .label = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-browsing-protection = الحماية من المحتوى المخادع و البرمجيات الخبيثة
 security-enable-safe-browsing =
     .label = احجب المحتوى الخطير و المخادع
@@ -1779,8 +1774,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS عبر HTTPS
-dns-over-https-group =
-    .label = DNS عبر HTTPS
 preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
 preferences-doh-description2 = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم مجال من خلال اتصال مُعمّى، مما يوفر DNS آمنًا ويجعل من الصعب على الآخرين رؤية موقع الوب الذي أنت على وشك الوصول إليه.
 # Variables:

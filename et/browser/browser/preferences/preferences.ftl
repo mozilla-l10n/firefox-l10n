@@ -530,9 +530,6 @@ network-proxy-connection-learn-more = Rohkem teavet
 network-proxy-connection-settings =
     .label = Sätted...
     .accesskey = e
-network-proxy-group =
-    .label = Võrgusätted
-    .description = { -brand-short-name }i internetiga ühendumise häälestamine.
 
 ## Home Section
 
@@ -1257,8 +1254,6 @@ collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sin
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Turvalisus
-browsing-protection-group =
-    .label = Petliku sisu ja ohtliku tarkvara vastane kaitse
 security-browsing-protection = Petliku sisu ja ohtliku tarkvara vastane kaitse
 security-enable-safe-browsing =
     .label = Ohtlik ja petlik sisu blokitakse

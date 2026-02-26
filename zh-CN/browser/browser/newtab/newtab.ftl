@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = 网上搜索
     .aria-label = 网上搜索
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = 添加搜索引擎
 newtab-topsites-add-shortcut-header = 新建快捷方式

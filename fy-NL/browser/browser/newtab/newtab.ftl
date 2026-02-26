@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Sykje op it web
     .aria-label = Sykje op it web
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Sykmasine tafoegje
 newtab-topsites-add-shortcut-header = Nije fluchkeppeling

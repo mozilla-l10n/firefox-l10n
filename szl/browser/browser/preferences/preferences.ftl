@@ -529,9 +529,6 @@ network-proxy-connection-learn-more = Przewiydz sie wiyncyj
 network-proxy-connection-settings =
     .label = Nasztalowania…
     .accesskey = n
-network-proxy-group =
-    .label = Nasztalowania neca
-    .description = Sztaluj, jak { -brand-short-name } łōnczy sie z internetym.
 
 ## Home Section
 
@@ -1255,8 +1252,6 @@ collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-n
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpieczyństwo
-browsing-protection-group =
-    .label = Ôchrōna ôd ôszydy i niybezpiecznym softwarem
 security-browsing-protection = Ôchrōna ôd ôszydy i niybezpiecznym softwarem
 security-enable-safe-browsing =
     .label = Szperuj niybezpieczno i ôszydno zawartość

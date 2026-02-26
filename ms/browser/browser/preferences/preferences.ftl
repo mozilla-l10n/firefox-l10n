@@ -328,9 +328,6 @@ network-proxy-connection-learn-more = Ketahui Selanjutnya
 network-proxy-connection-settings =
     .label = Tetapan…
     .accesskey = t
-network-proxy-group =
-    .label = Tetapan Rangkaian
-    .description = Tetapkan cara { -brand-short-name } menyambung ke internet.
 
 ## Home Section
 
@@ -808,8 +805,6 @@ collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keselamatan
-browsing-protection-group =
-    .label = Perlindungan Kandungan Mengelirukan dan Perisian Berbahaya
 security-browsing-protection = Perlindungan Kandungan Mengelirukan dan Perisian Berbahaya
 security-enable-safe-browsing =
     .label = Sekat isi kandung berbahaya dan memperdayakan

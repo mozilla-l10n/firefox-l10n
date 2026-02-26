@@ -459,9 +459,6 @@ network-proxy-connection-learn-more = Lairn mair
 network-proxy-connection-settings =
     .label = Settins…
     .accesskey = e
-network-proxy-group =
-    .label = Netwark settins
-    .description = Confeegur how { -brand-short-name } connects tae the internet.
 
 ## Home Section
 
@@ -1180,8 +1177,6 @@ collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siccarness
-browsing-protection-group =
-    .label = Begowkin Content and Uncannie Saftware Bieldin
 security-browsing-protection = Begowkin Content and Uncannie Saftware Bieldin
 security-enable-safe-browsing =
     .label = Block uncannie and begowkin content

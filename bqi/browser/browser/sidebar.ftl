@@ -167,6 +167,3 @@ sidebar-syncedtabs-title = بلگه یل ز دسگا یل دیری
 #   $deviceName (String) - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab-title =
     .title = بستن بلگه ز { $deviceName }
-
-## Tooltips for the sidebar toolbar widget.
-

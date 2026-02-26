@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = חיפוש ברשת
     .aria-label = חיפוש ברשת
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = הוספת מנוע חיפוש
 newtab-topsites-add-shortcut-header = קיצור דרך חדש

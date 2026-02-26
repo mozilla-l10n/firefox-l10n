@@ -790,9 +790,6 @@ network-proxy-connection-learn-more = Dalšne informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
-network-proxy-group =
-    .label = Seśowe nastajenja
-    .description = Konfigurěrowaś, kak { -brand-short-name } z internetom zwězujo.
 
 ## Home Section
 
@@ -2106,8 +2103,6 @@ website-advertising-private-attribution-description = To websedłam pomaga rozm�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
-browsing-protection-group =
-    .label = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
 security-browsing-protection = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
 security-enable-safe-browsing =
     .label = Tšašne a wobšudnikojske wopśimjeśe blokěrowaś
@@ -2173,8 +2168,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS pśez HTTPS
-dns-over-https-group =
-    .label = DNS pśez HTTPS
 preferences-doh-description = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, napórajo wěsty DNS a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 preferences-doh-description2 = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, staja wěsty DNS k dispoziciji a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 # Variables:

@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Iskanje po spletu
     .aria-label = Iskanje po spletu
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Dodaj iskalnik
 newtab-topsites-add-shortcut-header = Nova bližnjica

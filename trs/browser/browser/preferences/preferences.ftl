@@ -363,9 +363,6 @@ network-proxy-connection-learn-more = Gahuin chrūn doj
 network-proxy-connection-settings =
     .label = Nagi'iô'...
     .accesskey = N
-network-proxy-group =
-    .label = Dàj ga Red ruhuât
-    .description = Nagi'io' { -brand-short-name } gate' riña internet.
 
 ## Home Section
 
@@ -975,8 +972,6 @@ collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj s
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sa arrán riña yi'ìi
-browsing-protection-group =
-    .label = Sa arrán riña nej sa àta yi'ìi
 security-browsing-protection = Sa arrán riña nej sa àta yi'ìi
 security-enable-safe-browsing =
     .label = Garrun' riña nej sa Àta yi'ìi

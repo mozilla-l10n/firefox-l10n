@@ -584,9 +584,6 @@ network-proxy-connection-learn-more = තව දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
-network-proxy-group =
-    .label = ජාල සැකසුම්
-    .description = { -brand-short-name } අන්තර්ජාලයට සම්බන්ධ වන අයුරු වින්‍යාස කරන්න.
 
 ## Home Section
 
@@ -1496,8 +1493,6 @@ website-advertising-private-attribution-description = මෙය අඩවි ව
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ආරක්‍ෂාව
-browsing-protection-group =
-    .label = කූට අන්තර්ගත සහ භයානක මෘදුකාංග ආරක්‍ෂණය
 security-browsing-protection = කූට අන්තර්ගත සහ භයානක මෘදුකාංග ආරක්‍ෂණය
 security-enable-safe-browsing =
     .label = භයානක හා කූට අන්තර්ගත අවහිර කරන්න
@@ -1557,8 +1552,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = HTTPS හරහා ව.නා.ප.
-dns-over-https-group =
-    .label = HTTPS හරහා ව.නා.ප.
 preferences-doh-description = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්‍ධතාවක් මගින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. එය ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සාදමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
 preferences-doh-description2 = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්‍ධතාවක් මගින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. එය ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සපයමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
 # Variables:

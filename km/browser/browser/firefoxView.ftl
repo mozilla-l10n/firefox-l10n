@@ -23,11 +23,6 @@ firefoxview-history-header = ប្រវត្តិ
 firefoxview-history-context-delete = លុបចេញពីប្រវត្តិ
     .accesskey = D
 
-## Chats in this context refers to chats saved from the AI Window Assistant
-
-firefoxview-chat-context-delete = លុបចេញពីការជជែក
-    .accesskey = D
-
 ##
 
 # Placeholder for the input field to search in history ("search" is a verb).
@@ -41,7 +36,6 @@ firefoxview-search-text-box-tabs =
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-history-date-yesterday = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-yesterday = ម្សិលមិញ - { DATETIME($date, dateStyle: "full") }
 
 ##
 

@@ -571,9 +571,6 @@ network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = e
-network-proxy-group =
-    .label = Paramètres ret
-    .description = Configurar lo biais de { -brand-short-name } de se connectar a Internet.
 
 ## Home Section
 
@@ -1449,8 +1446,6 @@ website-advertising-private-attribution-description = Aquò ajuda los sites a co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguretat
-browsing-protection-group =
-    .label = Proteccion contra los contenguts enganaires e los logicials perilhoses
 security-browsing-protection = Proteccion contra los contenguts enganaires e los logicials perilhoses
 security-enable-safe-browsing =
     .label = Blocar lo contengut perilhós e enganaire
@@ -1497,8 +1492,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS sus HTTPS
-dns-over-https-group =
-    .label = DNS sus HTTPS
 preferences-doh-description = Lo DNS (Domain Name Sistèma) sus HTTPS envia vòstras requèstas per un nom de domeni via una connexion chifrada, en creant un DNS segur e en fasent venir mai complicat per los autres de veire quines sites sètz a mand de visitar.
 # Variables:
 #   $status (string) - The status of the DoH connection

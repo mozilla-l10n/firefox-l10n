@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Sök på webben
     .aria-label = Sök på webben
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Lägg till sökmotor
 newtab-topsites-add-shortcut-header = Ny genväg

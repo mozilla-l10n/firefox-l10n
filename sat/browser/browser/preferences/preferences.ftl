@@ -545,9 +545,6 @@ network-proxy-connection-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 network-proxy-connection-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ…
     .accesskey = e
-network-proxy-group =
-    .label = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱟᱡᱟᱣᱠᱚ
-    .description = ᱥᱟᱡᱟᱣ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ { -brand-short-name } ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣᱜᱼᱟ ᱾
 
 ## Home Section
 
@@ -1328,8 +1325,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ᱡᱟᱹᱯᱛᱤ
-browsing-protection-group =
-    .label = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
 security-browsing-protection = ᱠᱩᱢᱵᱽᱲᱩ ᱡᱤᱱᱤᱥ ᱟᱨ ᱤᱥᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹᱤᱭᱟᱹ
 security-enable-safe-browsing =
     .label = ᱤᱥᱠᱟᱨ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱡᱚᱱᱚᱥ ᱵᱟᱹᱰ ᱢᱮ
@@ -1376,8 +1371,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
-dns-over-https-group =
-    .label = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS
 preferences-doh-description = HTTPS ᱨᱮ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱥᱤᱥᱴᱮᱢ (DNS) ᱟᱢᱟᱜ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱨ ᱢᱤᱫ ᱠᱨᱤᱯᱴᱮᱰ ᱡᱩᱲᱟᱹᱣ ᱛᱟᱞᱟᱛᱮ ᱯᱟᱨᱥᱟᱞᱟᱭ, ᱢᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱤᱹᱮᱱᱹᱮᱥ ᱵᱮᱱᱟᱣᱜ ᱠᱟᱱᱟ ᱟᱨ ᱟᱢ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟ ᱚᱱᱟ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱟᱸᱴᱚᱜ ᱢᱟᱸ ᱾
 # Variables:
 #   $status (string) - The status of the DoH connection

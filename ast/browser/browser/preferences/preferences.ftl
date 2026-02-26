@@ -435,9 +435,6 @@ network-proxy-connection-learn-more = Lleer más
 network-proxy-connection-settings =
     .label = Axustes…
     .accesskey = A
-network-proxy-group =
-    .label = Axustes de rede
-    .description = Configura cómo se conecta { -brand-short-name } a internet.
 
 ## Home Section
 
@@ -1121,8 +1118,6 @@ collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
-browsing-protection-group =
-    .label = Proteición escontra'l software peligrosu y conteníu engañosu
 security-browsing-protection = Proteición escontra'l software peligrosu y conteníu engañosu
 security-enable-safe-browsing =
     .label = Bloquiar el conteníu engañosu y peligrosu

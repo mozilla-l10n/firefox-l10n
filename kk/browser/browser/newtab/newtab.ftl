@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = Интернетте іздеу
     .aria-label = Интернетте іздеу
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Іздеу жүйесін қосу
 newtab-topsites-add-shortcut-header = Жаңа жарлық

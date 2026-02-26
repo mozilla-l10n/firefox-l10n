@@ -749,9 +749,6 @@ network-proxy-connection-learn-more = Mësoni më tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
-network-proxy-group =
-    .label = Rregullime Rrjeti
-    .description = Formësoni si lidhet në internet { -brand-short-name }-i.
 
 ## Home Section
 
@@ -2033,8 +2030,6 @@ website-advertising-private-attribution-description = Kjo i ndihmon sajtet të k
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siguri
-browsing-protection-group =
-    .label = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-enable-safe-browsing =
     .label = Blloko lëndë të rrezikshme dhe të rrejshme
@@ -2098,8 +2093,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS përmes HTTPS-je
-dns-over-https-group =
-    .label = DNS përmes HTTPS-je
 preferences-doh-description = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke krijuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 preferences-doh-description2 = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke furnizuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 # Variables:

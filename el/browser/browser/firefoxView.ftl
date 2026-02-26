@@ -132,14 +132,6 @@ firefoxview-synced-tabs-nav = Καρτέλες από άλλες συσκευέ�
     .title = Καρτέλες από άλλες συσκευές
 firefoxview-synced-tabs-header = Καρτέλες από άλλες συσκευές
 
-## Chats in this context refers to chats saved from the AI Window Assistant
-
-firefoxview-chats-nav = Συνομιλίες
-    .title = Συνομιλίες
-firefoxview-chats-header = Συνομιλίες
-firefoxview-chat-context-delete = Διαγραφή από τις συνομιλίες
-    .accesskey = Δ
-
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
@@ -172,9 +164,6 @@ firefoxview-search-text-box-tabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Αναζήτηση ανοικτών καρτελών
-# Placeholder for the input field to search in open tabs ("search" is a verb).
-firefoxview-search-text-box-chats =
-    .placeholder = Αναζήτηση συνομιλιών
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -206,10 +195,6 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
 firefoxview-history-site-localhost = (τοπικά αρχεία)
-firefoxview-chat-date-today = Σήμερα - { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-yesterday = Χθες - { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
-firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 

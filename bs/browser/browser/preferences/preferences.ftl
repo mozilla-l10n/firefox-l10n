@@ -634,9 +634,6 @@ network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
-network-proxy-group =
-    .label = Mrežne postavke
-    .description = Konfigurišite kako se { -brand-short-name } konektuje na internet.
 
 ## Home Section
 
@@ -1609,8 +1606,6 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
-browsing-protection-group =
-    .label = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-enable-safe-browsing =
     .label = Blokiraj opasan i obmanjujući sadržaj
@@ -1671,8 +1666,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS-a
-dns-over-https-group =
-    .label = DNS preko HTTPS-a
 preferences-doh-description = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, stvarajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
 preferences-doh-description2 = Sistem imena domena (DNS) preko HTTPS-a šalje vaš zahtjev za ime domene putem šifrirane veze, pružajući siguran DNS i otežavajući drugima da vide kojoj web stranici ćete pristupiti.
 # Variables:

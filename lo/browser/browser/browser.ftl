@@ -449,11 +449,6 @@ browser-tab-audio-blocked = ການ​ຫຼິ້ນ​ອັດ​ຕະ​�
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ຮູບໃນຮູບ
 
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 bookmarks-toolbar-empty-message = ເພື່ອເຂົ້າເຖິງໄດ້ໄວ, ໃຫ້ວາງບຸກມາກຂອງທ່ານໄວ້ບ່ອນນີ້ໃນແຖບເຄື່ອງມືບຸກມາກ. <a data-l10n-name="manage-bookmarks">ຈັດການບຸກມາກ…</a>
@@ -916,9 +911,6 @@ save-to-pocket-button =
     .label = ບັນທຶກໃສ່ { -pocket-brand-name }
     .tooltiptext = ບັນທຶກໃສ່ { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -1099,14 +1091,6 @@ unified-extensions-button-permissions-needed =
     .label = ສ່ວນຂະຫຍາຍ
     .tooltiptext = ສ່ວນຂະຫຍາຍ
 
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -1244,9 +1228,6 @@ trustpanel-blocker-see-all = ເບິງທັງໝົດ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = ການຕິດຕາມການປົກປ້ອງສໍາລັບ { $host }
-
-## The urlbar trust icon & panel
-
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

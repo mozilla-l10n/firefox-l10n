@@ -488,9 +488,6 @@ network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີ
 network-proxy-connection-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = ຕ
-network-proxy-group =
-    .label = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
-    .description = ຕັ້ງຄ່າວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
 
 ## Home Section
 
@@ -1224,8 +1221,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ຄວາມປອດໄພ
-browsing-protection-group =
-    .label = ການປ້ອງກັນເນື້ອຫາຫລອກລວງແລະຊອບແວທີ່ເປັນອັນຕະລາຍ
 security-browsing-protection = ການປ້ອງກັນເນື້ອຫາຫລອກລວງແລະຊອບແວທີ່ເປັນອັນຕະລາຍ
 security-enable-safe-browsing =
     .label = ປິດກັ້ນເນື້ອຫາທີ່ເປັນອັນຕະລາຍແລະຫລອກລວງ
@@ -1271,8 +1266,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS ຜ່ານ HTTPS
-dns-over-https-group =
-    .label = DNS ຜ່ານ HTTPS
 preferences-doh-description = ລະບົບຊື່ໂດເມນ (DNS) ຜ່ານ HTTPS ສົ່ງຄໍາຮ້ອງຂໍຂອງທ່ານສໍາລັບຊື່ໂດເມນໂດຍຜ່ານການເຊື່ອມຕໍ່ທີ່ຖືກເຂົ້າລະຫັດ, ສ້າງ DNS ທີ່ປອດໄພ ແລະ ເຮັດໃຫ້ມັນຍາກສໍາລັບຜູ້ອື່ນທີ່ຈະເບິ່ງວ່າເວັບໄຊທ໌ໃດທີ່ເຈົ້າກໍາລັງຈະເຂົ້າຫາ.
 # Variables:
 #   $status (string) - The status of the DoH connection

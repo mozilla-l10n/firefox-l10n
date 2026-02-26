@@ -395,9 +395,6 @@ network-proxy-connection-learn-more = Cchiù nfurmazzioni
 network-proxy-connection-settings =
     .label = Mpustazzioni…
     .accesskey = M
-network-proxy-group =
-    .label = Mpustazzioni riti
-    .description = Cunfijura comu { -brand-short-name } si culleja â riti.
 
 ## Home Section
 
@@ -1022,8 +1019,6 @@ collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sicurizza
-browsing-protection-group =
-    .label = Prutizziuni dî cuntinuti fallaci e prugrammi piriculusi
 security-browsing-protection = Prutizziuni dî cuntinuti fallaci e prugrammi piriculusi
 security-enable-safe-browsing =
     .label = Blocca cuntinuti fallaci e piriculusi

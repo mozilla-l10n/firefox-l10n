@@ -385,9 +385,6 @@ network-proxy-connection-learn-more = अधिक जानें
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
-network-proxy-group =
-    .label = नेटवर्क सेटिंग
-    .description = विन्यस्त करें की { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
 
 ## Home Section
 
@@ -993,8 +990,6 @@ collection-health-report-disabled = इस निर्मित विन्य
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
-browsing-protection-group =
-    .label = भ्रामक सामग्री और खतरनाक सॉफ़्टवेयर सुरक्षा
 security-browsing-protection = भ्रामक सामग्री और खतरनाक सॉफ़्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = ख़तरनाक और संदेहास्पद सामग्री रोकें

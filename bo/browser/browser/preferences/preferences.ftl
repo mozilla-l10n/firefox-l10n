@@ -299,9 +299,6 @@ network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = S
-network-proxy-group =
-    .label = Network Settings
-    .description = Configure how { -brand-short-name } connects to the internet.
 
 ## Home Section
 
@@ -748,8 +745,6 @@ collection-health-report-disabled = Data reporting is disabled for this build co
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Security
-browsing-protection-group =
-    .label = Deceptive Content and Dangerous Software Protection
 security-browsing-protection = Deceptive Content and Dangerous Software Protection
 security-enable-safe-browsing =
     .label = Block dangerous and deceptive content

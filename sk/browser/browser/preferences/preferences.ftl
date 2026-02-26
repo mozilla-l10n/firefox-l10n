@@ -787,9 +787,6 @@ network-proxy-connection-learn-more = Ďalšie informácie
 network-proxy-connection-settings =
     .label = Nastavenia…
     .accesskey = N
-network-proxy-group =
-    .label = Nastavenia siete
-    .description = Konfigurovať, ako sa aplikácia { -brand-short-name } pripája k internetu.
 
 ## Home Section
 
@@ -2102,8 +2099,6 @@ website-advertising-private-attribution-description = Toto pomáha webom pochopi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpečnosť
-browsing-protection-group =
-    .label = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-browsing-protection = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-enable-safe-browsing =
     .label = Blokovať nebezpečný a podvodný obsah
@@ -2169,8 +2164,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS cez HTTPS
-dns-over-https-group =
-    .label = DNS cez HTTPS
 preferences-doh-description = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím vytvorí zabezpečené DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 preferences-doh-description2 = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím zabezpečí DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 # Variables:

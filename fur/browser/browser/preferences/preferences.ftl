@@ -749,9 +749,6 @@ network-proxy-connection-learn-more = Plui informazions
 network-proxy-connection-settings =
     .label = Impostazions…
     .accesskey = I
-network-proxy-group =
-    .label = Impostazions di rêt
-    .description = Configure cemût che { -brand-short-name } si conet a internet.
 
 ## Home Section
 
@@ -2033,8 +2030,6 @@ website-advertising-private-attribution-description = Chest al permet ai sîts d
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurece
-browsing-protection-group =
-    .label = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-browsing-protection = Protezion dai contignûts ingjanôs e dal software pericolôs
 security-enable-safe-browsing =
     .label = Bloche i contignûts pericolôs e ingjanôs
@@ -2098,8 +2093,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS sore HTTPS
-dns-over-https-group =
-    .label = DNS sore HTTPS
 preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
 preferences-doh-description2 = Il sisteme di risoluzion dai nons di domini (DNS) sore HTTPS al invie lis richiestis pai nons di domini a traviers di une conession cifrade, furnint un DNS sigûr e fasint in mût che al sedi plui dificil scuvierzi i sîts web che tu stâs par visitâ.
 # Variables:

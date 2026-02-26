@@ -537,9 +537,6 @@ network-proxy-connection-learn-more = Sužinoti daugiau
 network-proxy-connection-settings =
     .label = Nuostatos…
     .accesskey = N
-network-proxy-group =
-    .label = Tinklo nuostatos
-    .description = Nustatykite, kaip „{ -brand-short-name }“ jungiasi prie interneto.
 
 ## Home Section
 
@@ -1285,8 +1282,6 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Saugumas
-browsing-protection-group =
-    .label = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-browsing-protection = Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos
 security-enable-safe-browsing =
     .label = Blokuoti pavojingą ir apgaulingą turinį

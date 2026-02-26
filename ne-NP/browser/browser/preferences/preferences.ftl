@@ -695,8 +695,6 @@ collection-health-report-disabled = यस निर्माण कन्फि
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
-browsing-protection-group =
-    .label = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-browsing-protection = भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा
 security-enable-safe-browsing =
     .label = खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस

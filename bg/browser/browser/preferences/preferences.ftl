@@ -631,9 +631,6 @@ network-proxy-connection-learn-more = Научете повече
 network-proxy-connection-settings =
     .label = Настройки…
     .accesskey = Н
-network-proxy-group =
-    .label = Настройки на мрежата
-    .description = Настройване на достъпа до интернет от { -brand-short-name }.
 
 ## Home Section
 
@@ -1592,8 +1589,6 @@ website-advertising-private-attribution-description = Това помага на
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Защита
-browsing-protection-group =
-    .label = Измамно съдържание и защита от опасен софтуер
 security-browsing-protection = Измамно съдържание и защита от опасен софтуер
 security-enable-safe-browsing =
     .label = Блокиране на опасно и измамно съдържание
@@ -1647,8 +1642,6 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS през HTTPS
-dns-over-https-group =
-    .label = DNS през HTTPS
 preferences-doh-description = Системата за имена на домейни (DNS) през HTTPS изпраща вашата DNS заявка през шифрована връзка, създавайки сигурен DNS и затруднявайки трети страни да видят кой уебсайт искате да посетите.
 preferences-doh-description2 = Системата за имена на домейни (DNS) през HTTPS изпраща вашата DNS заявка през шифрована връзка, създавайки сигурен DNS и затруднявайки трети страни да видят кой уебсайт искате да посетите.
 # Variables:

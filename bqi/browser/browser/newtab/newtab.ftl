@@ -27,7 +27,7 @@ newtab-search-box-input =
     .placeholder = پیتینیڌن من وب
     .aria-label = پیتینیڌن من وب
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = ٱووردن موتور پیتینیڌن
 newtab-topsites-add-shortcut-header = ره نهنگ نۊ

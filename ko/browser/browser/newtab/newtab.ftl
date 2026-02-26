@@ -52,7 +52,7 @@ newtab-search-box-input =
     .placeholder = 웹 검색
     .aria-label = 웹 검색
 
-## Top Sites - General form dialog.
+## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = 검색 엔진 추가
 newtab-topsites-add-shortcut-header = 새 바로 가기
