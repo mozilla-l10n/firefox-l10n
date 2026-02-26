@@ -1712,11 +1712,17 @@ sitedata-total-size2 = Сізде сақталған cookies файлдары, �
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Сізде сақталған cookies файлдары, сайт деректері және кэш қазір { $value } { $unit } диск орнын қолдануда.
 sitedata-learn-more = Көбірек білу
+sitedata-delete-on-close2 =
+    .label = { -brand-short-name } жабылған сайын cookie файлдары мен сайт деректерін тазалау
+    .accesskey = з
 sitedata-delete-on-close =
     .label = { -brand-short-name } жабылған кезде cookies және сайттар деректерін өшіру
     .accesskey = ш
 sitedata-delete-on-close-private-browsing3 =
     .message = Сіздің тарих баптаулары негізінде { -brand-short-name } браузерді жапқан кезде сессияңыздан cookie файлдары мен сайт деректерін өшіреді.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Тарих сақталмайтын болады
+    .message = Браузерді жапқан кезде { -brand-short-name } сессияңыздағы cookie файлдары мен сайт деректерін тазартады.
 sitedata-delete-on-close-private-browsing = Тұрақты жекелік шолу режимінде { -brand-short-name } жабылған кезде cookie файлдары және сайт деректері әрқашан өшірілетін болады.
 sitedata-delete-on-close-private-browsing2 = Сіздің тарих баптаулары негізінде { -brand-short-name } браузерді жапқан кезде сессияңыздан cookie файлдары мен сайт деректерін өшіреді.
 sitedata-allow-cookies-option =
@@ -1762,6 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Ережеден тыс жағдайларды басқару
     .accesskey = ы
     .description = Қай веб-сайттарға cookie файлдары мен сайт деректерін әрқашан немесе ешқашан қолдануға рұқсат етілетінін көрсете аласыз.
+sitedata-heading =
+    .label = Шолу деректері
+    .description = Cookie файлдары, тарихты, кэшті, веб-сайт деректерін және т.б. басқару.
+sitedata-settings3 =
+    .label = Белгілі бір сайттар үшін деректерді тазалау
+    .accesskey = з
+sitedata-cookies-exceptions3 =
+    .label = Ережеден тыс жағдайларды басқару
+    .accesskey = ж
+    .description = Белгілі бір сайттардың cookie файлдары мен сайт деректерін қалай өңдейтінін таңдаңыз.
 cookies-site-data-group =
     .label = Cookies файлдары және сайт деректері
 
@@ -2028,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = б
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Қайта бағыттауларды басқару
+    .accesskey = й
+    .searchkeywords = қалқымалы терезелер
+permissions-addon-install-warning3 =
+    .label = Вебсайттар кеңейтулерді орнатқысы келсе, ескертуді көрсету
+    .accesskey = е
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Қалқымалы терезе мен үшінші тарапқа қайта бағыттаудың ережеден тыс жағдайларын басқару
     .accesskey = е
@@ -2073,6 +2098,9 @@ permissions-speaker2 =
     .label = Динамик
 permissions-notification2 =
     .label = Хабарламалар
+permissions-header3 =
+    .label = Рұқсаттар
+    .description = Веб-сайттардың неге қол жеткізе алатынын, нені басқара алатынын немесе іске қоса алатынын басқару.
 
 ## Privacy Section - Data Collection
 
@@ -2147,11 +2175,16 @@ website-advertising-private-attribution-description = Бұл сайттарға 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Қауіпсіздік
+browsing-protection-group2 =
+    .label = Алдамшы мазмұн мен қауіпті бағдарламалық қамтамадан қорғаныс
+    .description = Қауіпті сайттар мен жүктеп алынатын файлдар деректеріңіз бен құрылғыңызға қауіп төндіруі мүмкін. { -brand-short-name } оларды автоматты түрде блоктайды және қауіпті немесе қажетсіз бағдарламалық қамтама туралы ескертеді.
 security-browsing-protection = Жалған істелген мазмұн және қауіпті бағдарламалық қамтамадан қорғаныс
 security-enable-safe-browsing =
     .label = Қауіпті және алдамшы құраманы блоктау
     .accesskey = б
 security-enable-safe-browsing-link = Көбірек білу
+security-safe-browsing-warning =
+    .message = Бұны сөндіру алаяқтықтан, зиянды сайттардан және қауіпті жүктеп алулардан қорғанысты төмендетеді.
 security-block-downloads =
     .label = Қауіпті жүктемелерді блоктау
     .accesskey = п
@@ -2183,6 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } үшін бос �
 certs-description2 =
     .label = Сертификаттар
     .description = { -brand-short-name } аутентификация үшін пайдаланатын сертификаттарды баптаңыз.
+certs-description3 =
+    .label = Сертификаттар
+    .description = { -brand-short-name } қауіпсіз қосылымдарды тексеру үшін қолданатын сертификаттарды баптау.
+certs-view2 =
+    .label = Сертификаттарды басқару
+    .accesskey = С
+certs-devices2 =
+    .label = Қауіпсіздік құрылғыларын басқару
+    .accesskey = д
 
 ## Privacy Section - HTTPS-Only
 
@@ -2212,6 +2254,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = HTTPS арқылы DNS
+dns-over-https-group2 =
+    .label = HTTPS арқылы DNS
+    .description = HTTPS (DoH) арқылы домендік атаулар жүйесі сайт іздеулерін шифрлейді, сондықтан интернет провайдеріңізге немесе басқаларға сіз кірмекші болған веб-сайттарды көру қиынырақ болады.
 preferences-doh-description = HTTPS арқылы домендік атаулар жүйесі (DNS) шифрленген байланыс арқылы домендік атқа сұрауыңызды жібереді, осылай ол қауіпсіз DNS жасайды және басқаларға қай веб-сайтқа кіргіңіз келетінін көруді қиындатады.
 preferences-doh-description2 = HTTPS арқылы домендік атаулар жүйесі (DNS) шифрленген байланыс арқылы домендік атқа сұрауыңызды жібереді, осылай ол қауіпсіз DNS ұсынады және басқаларға қай веб-сайтқа кіргіңіз келетінін көруді қиындатады.
 # Variables:
@@ -2267,6 +2312,47 @@ preferences-doh-exceptions-description = { -brand-short-name } бұл сайтт
 preferences-doh-manage-exceptions =
     .label = Ережеден тыс жағдайларды басқару…
     .accesskey = р
+preferences-doh-overview-default =
+    .label = Қалыпты қорғаныс
+    .description = Қолжетімді аймақтарда қауіпсіз DNS қолдану.
+preferences-doh-overview-custom =
+    .label = Таңдауыңызша
+    .description = Әрқашан провайдерді басқару және резервтік әрекет мүмкіндігімен қауіпсіз DNS қолдану.
+preferences-doh-overview-off =
+    .label = Сөндірулі
+    .description = Үнсіз келісім бойынша DNS шешушісін қолдану.
+preferences-doh-advanced-button =
+    .label = Кеңейтілген баптаулар
+preferences-doh-advanced-section =
+    .label = Кеңейтілген баптаулар
+    .description = HTTPS (DoH) арқылы домендік атаулар жүйесі сайт іздеулерін шифрлейді, сондықтан интернет провайдеріңізге немесе басқаларға сіз кірмекші болған веб-сайттарды көру қиынырақ болады.
+preferences-doh-manage-exceptions2 =
+    .label = Ережеден тыс жағдайларды басқару
+    .accesskey = ж
+preferences-doh-status-item-off =
+    .message = HTTPS арқылы DNS сөндірулі
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS over HTTPS жұмыс істемей тұр, себебі { $name } провайдерін қолдану әрекеті кезінде қате ({ $reason }) орын алды.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS over HTTPS жұмыс істемей тұр, себебі жарамсыз URL ({ $reason }) алынды.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = HTTPS арқылы DNS қызметі { $name } провайдерін пайдалануда
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS over HTTPS жұмыс істемей тұр, себебі { $name } жергілікті провайдерін қолдану әрекеті кезінде қате ({ $reason }) орын алды.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = HTTPS арқылы DNS қызметі { $name } жергілікті провайдерін пайдалануда
 preferences-doh-select-resolver-label =
     .label = Провайдерді таңдау:
 # Variables:
@@ -2352,6 +2438,15 @@ security-privacy-status-problem-header = { -brand-short-name } кейбір қа
 security-privacy-status-ok-label = Бақылаудан кеңейтілген қорғаныс іске қосулы
 security-privacy-status-problem-label = Біз сіздің қорғанысыңызға әсер ететін параметрлерді таптық
 security-privacy-status-problem-helper-label = Мәселелерді қарау
+security-privacy-status-pending-trackers-label = Соңғы айда { -brand-short-name } қанша трекерді бұғаттағаны анықталуда
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] Соңғы айда { $trackerCount } трекер блокталды
+       *[other] Соңғы айда { $trackerCount } трекер блокталды
+    }
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } жаңарту
 security-privacy-issue-card =
