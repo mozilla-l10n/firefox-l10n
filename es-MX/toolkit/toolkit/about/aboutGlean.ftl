@@ -163,6 +163,7 @@ about-glean-metrics-table-settings-histograms-chart-max = Altura máxima del gr�
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima escalada
 about-glean-metrics-table-settings-histograms-box-padding = Relleno de las barras
+about-glean-metrics-table-settings-histograms-chart-padding = Relleno de gráficos
 about-glean-metrics-table-settings-category-visualizations-timeline = Línea de tiempo
 about-glean-metrics-table-settings-timelines-height = Altura
 about-glean-metrics-table-settings-timelines-width = Ancho

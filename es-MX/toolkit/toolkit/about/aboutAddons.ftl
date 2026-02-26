@@ -526,9 +526,15 @@ plugins-widevine-description = Este plugin habilita la reproducción multimedia 
 ## feature is enabled.
 
 addon-permissions-data-collection-heading = Recopilación de datos
+addon-data-collection-learnmore = Obtén más información sobre la recopilación de datos
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA en el dispositivo
+addon-category-mlmodel-title =
+    .title = IA en el dispositivo
+mlmodel-heading = Administrar modelos de IA en el dispositivo
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Eliminar

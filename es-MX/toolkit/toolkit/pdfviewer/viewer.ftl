@@ -706,6 +706,7 @@ pdfjs-views-manager-status-undo-button-label = Deshacer
 pdfjs-views-manager-status-close-button =
     .title = Cerrar
 pdfjs-views-manager-status-close-button-label = Cerrar
+pdfjs-views-manager-paste-button-label = Pegar
 
 ## Main menu for adding/removing signatures
 

@@ -419,6 +419,7 @@ eme-notifications-drm-content-playing = វីដេអូ និង​អូឌ
 
 ## Password save/update panel
 
+panel-save-update-username = អត្ថនាម
 panel-save-update-password = ពាក្យ​សម្ងាត់
 
 ##

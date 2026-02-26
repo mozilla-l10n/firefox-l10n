@@ -48,6 +48,9 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
 contextual-manager-passwords-import-success-heading =
     .heading = បាននាំចូលពាក្យសម្ងាត់
 contextual-manager-passwords-import-success-button = រួចរាល់
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = មិនអាចនាំចូលពាក្យសម្ងាត់បានទេ
+    .message = ត្រូវប្រាកដថាឯកសាររបស់អ្នកមានជួរឈរសម្រាប់គេហទំព័រ អត្ថនាម និងពាក្យសម្ងាត់។
 contextual-manager-passwords-import-error-button-cancel = បោះបង់
 contextual-manager-passwords-export-success-heading =
     .heading = បាននាំចេញពាក្យសម្ងាត់
@@ -80,6 +83,9 @@ contextual-manager-passwords-remove-all-confirm-button =
        *[other] លុបចេញ​ទាំងអស់
     }
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = អត្ថនាម
+    .data-after = បានចម្លង
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-password-label = ពាក្យ​សម្ងាត់
     .data-after = បានចម្លង
 contextual-manager-passwords-radiogroup-label =
@@ -91,11 +97,13 @@ contextual-manager-passwords-add-password-success-heading =
 # Variables
 #   $url (string) - The url associated with the existing login
 contextual-manager-passwords-password-already-exists-error-heading =
-    .heading = ពាក្យសម្ងាត់ និងឈ្មោះអ្នកប្រើប្រាស់សម្រាប់ { $url } មានរួចហើយ
+    .heading = ពាក្យសម្ងាត់ និងអត្ថនាមសម្រាប់ { $url } មានរួចហើយ
 contextual-manager-passwords-password-already-exists-error-button = ចូលទៅកាន់ពាក្យសម្ងាត់
 contextual-manager-passwords-update-password-success-heading =
     .heading = ពាក្យសម្ងាត់ត្រូវបានរក្សាទុក
 contextual-manager-passwords-update-password-success-button = រួចរាល់
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = អត្ថនាមត្រូវបានរក្សាទុក
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =

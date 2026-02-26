@@ -553,3 +553,8 @@ onboarding-personalization-use-case-work-option = Trabajo
 onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
 onboarding-personalization-motivation-productivity-option = Productividad
 onboarding-personalization-motivation-other-option = Otros
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
