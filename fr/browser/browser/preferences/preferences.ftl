@@ -2435,7 +2435,7 @@ security-privacy-status-problem-header = { -brand-short-name } recommande des am
 security-privacy-status-ok-label = La protection renforcée contre le pistage est activée
 security-privacy-status-problem-label = Nous avons identifié des paramètres qui affectent votre protection
 security-privacy-status-problem-helper-label = Voir les problèmes
-security-privacy-status-pending-trackers-label = Recherche du nombre de traqueurs { -brand-short-name } bloqués au cours du mois dernier
+security-privacy-status-pending-trackers-label = Recherche du nombre de traqueurs bloqués par { -brand-short-name } au cours du mois dernier
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month

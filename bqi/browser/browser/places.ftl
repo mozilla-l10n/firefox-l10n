@@ -89,19 +89,64 @@ places-library3 =
     .title = کتاو هووه
 places-cmd-close =
     .key = w
+places-import-bookmarks-from-html =
+    .label = و من ٱووردن نشووکا ز HTML…
+    .accesskey = I
+places-export-bookmarks-to-html =
+    .label = و در کشیڌن نشووکا و HTML…
+    .accesskey = E
+places-import-other-browser =
+    .label = و من ٱووردن داده یل ز ی گشت گر دی…
+    .accesskey = A
+places-view-sort-col-name =
+    .label = نوم
 places-view-sort-col-tags =
     .label = برچسبا
 places-view-sort-col-url =
     .label = جاگه
+places-view-sort-col-date-added =
+    .label = ویرگار ٱوورده وابیڌن
 places-view-sort-col-last-modified =
     .label = آلشتکاری دیندایی
+places-view-sortby-name =
+    .label = ترتیب و ری نوم
+    .accesskey = N
+places-view-sortby-url =
+    .label = ترتیب و ری جاگه
+    .accesskey = L
+places-view-sortby-date-added =
+    .label = ترتیب و ری ویرگار ٱوورده وابیڌن
+    .accesskey = e
+places-view-sortby-last-modified =
+    .label = ترتیب و ری آلشت دیندایی
+    .accesskey = M
+places-view-sortby-tags =
+    .label = ترتیب و ری برچسبا
+    .accesskey = T
+places-cmd-find-key =
+    .key = f
 places-back-button =
     .tooltiptext = وورگرت
+places-forward-button =
+    .tooltiptext = جلاو رئڌن
+places-details-pane-select-an-item-description = ی موورد ن سی نیشتن وو آلشتکاری پسند کۊنین
+places-details-pane-no-items =
+    .value = مووردی نؽ
+# Variables:
+#   $count (Number): number of items
+places-details-pane-items-count =
+    .value =
+        { $count ->
+            [one] ی موورد
+           *[other] { $count } موورد
+        }
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
 
 places-search-bookmarks =
     .placeholder = پیتینیڌن نشووکا
+places-search-history =
+    .placeholder = پیتینیڌن ویرگار
 places-search-downloads =
     .placeholder = پیتینیڌن دانلودا
