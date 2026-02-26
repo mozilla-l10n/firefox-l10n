@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Jerohoryvéva
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Ñemboheko…
 menu-application-services =
     .label = Mba’epytyvõrã
 menu-application-hide-this =

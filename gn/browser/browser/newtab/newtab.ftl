@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Emopotĩ moñe’ẽrã
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Heja

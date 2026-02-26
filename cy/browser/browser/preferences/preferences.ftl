@@ -2191,11 +2191,16 @@ website-advertising-private-attribution-description = Mae hyn yn helpu gwefannau
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Diogelwch
+browsing-protection-group2 =
+    .label = Cynnwys twyllodrus ac diogelwch rhag meddalwedd peryglus
+    .description = Gall gwefannau a llwythi i lawr beri risg uchel i'ch data a'ch dyfais. Mae { -brand-short-name } yn eu rhwystro'n awtomatig ac yn eich rhybuddio am feddalwedd diofyn amdano neu beryglus.
 security-browsing-protection = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
     .accesskey = R
 security-enable-safe-browsing-link = Darllen rhagor
+security-safe-browsing-warning =
+    .message = Mae diffodd hwn yn lleihau diogelwch rhag sgamiau, gwefannau maleisus, a llwythi peryglus.
 security-block-downloads =
     .label = Rhwystro llwytho i lawr peryglus
     .accesskey = p
@@ -2227,6 +2232,15 @@ space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le 
 certs-description2 =
     .label = Tystysgrifau
     .description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
+certs-description3 =
+    .label = Tystysgrifau
+    .description = Ffurfweddu'r dytysgrifau mae { -brand-short-name } yn eu defnyddio i ddilysu cysylltiadau.
+certs-view2 =
+    .label = Rheoli tystysgrifau
+    .accesskey = t
+certs-devices2 =
+    .label = Rheoli dyfeisiau diogelwch
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
@@ -2256,6 +2270,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS dros HTTPS
+dns-over-https-group2 =
+    .label = DNS dros HTTPS
+    .description = Mae'r Domain Name System over HTTPS (DoH) yn amgryptio eich chwilio gwefannau fel ei bod yn anoddach i'ch darparwr rhyngrwyd neu eraill weld pa wefannau rydych ar fin ymweld â nhw.
 preferences-doh-description = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 preferences-doh-description2 = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 # Variables:
@@ -2311,6 +2328,22 @@ preferences-doh-exceptions-description = Ni fydd { -brand-short-name } yn defnyd
 preferences-doh-manage-exceptions =
     .label = Rheoli Eithriadau…
     .accesskey = E
+preferences-doh-overview-default =
+    .label = Diogelu rhagosodedig
+    .description = Defnyddio DNS diogel mewn ardaloedd lle mae ar gael,
+preferences-doh-overview-custom =
+    .label = Cyfaddas
+    .description = Defnyddio DNS diogel gyda rheolaeth dros eich darparwr ac ymddygiad wrth gefn.
+preferences-doh-overview-off =
+    .label = I Ffwrdd
+    .description = Defnyddiwch eich datrysydd rhagosodedig.
+preferences-doh-advanced-button =
+    .label = Gosodiadau uwch
+preferences-doh-manage-exceptions2 =
+    .label = Rheoli eithriadau
+    .accesskey = e
+preferences-doh-status-item-off =
+    .message = Mae DNS dros HTTPS i ffwrdd
 
 ## The following strings are used in the Download section of settings
 

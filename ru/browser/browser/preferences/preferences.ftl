@@ -2187,6 +2187,8 @@ security-enable-safe-browsing =
     .label = Блокировать опасное и обманывающее содержимое
     .accesskey = л
 security-enable-safe-browsing-link = Подробнее
+security-safe-browsing-warning =
+    .message = Отключение этой функции ослабляет защиту от мошенничества, вредоносных сайтов и вредоносных загрузок.
 security-block-downloads =
     .label = Блокировать опасные загрузки
     .accesskey = к
@@ -2218,6 +2220,15 @@ space-alert-under-5gb-message2 = <strong>У { -brand-short-name } заканчи
 certs-description2 =
     .label = Сертификаты
     .description = Настроить сертификаты, которые { -brand-short-name } использует для аутентификации.
+certs-description3 =
+    .label = Сертификаты
+    .description = Настройте сертификаты, которые { -brand-short-name } использует для проверки защищённых подключений.
+certs-view2 =
+    .label = Управление сертификатами
+    .accesskey = С
+certs-devices2 =
+    .label = Управление устройствами защиты
+    .accesskey = В
 
 ## Privacy Section - HTTPS-Only
 
@@ -2247,6 +2258,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS через HTTPS
+dns-over-https-group2 =
+    .label = DNS через HTTPS
+    .description = Система доменных имен по протоколу HTTPS (DoH) шифрует поиск по сайту, поэтому вашему интернет-провайдеру или другим пользователям сложнее узнать, какие веб-сайты вы собираетесь посетить.
 preferences-doh-description = Система доменных имён (DNS) через HTTPS отправляет ваш запрос доменного имени через зашифрованное соединение, создавая безопасный DNS и затрудняя другим возможность увидеть, к какому сайту вы собираетесь получить доступ.
 preferences-doh-description2 = Система доменных имен (DNS) через HTTPS отправляет ваш запрос на доменное имя через зашифрованное соединение, обеспечивая безопасный DNS и мешая другим увидеть, к какому веб-сайту вы собираетесь получить доступ.
 # Variables:
@@ -2302,6 +2316,34 @@ preferences-doh-exceptions-description = { -brand-short-name } не будет �
 preferences-doh-manage-exceptions =
     .label = Управление исключениями…
     .accesskey = ю
+preferences-doh-overview-default =
+    .label = Защита по умолчанию
+    .description = Используйте защищённый DNS в регионах, где он доступен.
+preferences-doh-overview-custom =
+    .label = Персональная
+    .description = Всегда используйте безопасный DNS с контролем над вашим провайдером и с резервным поведением.
+preferences-doh-overview-off =
+    .label = Отключено
+    .description = Используйте свой DNS-резолвер по умолчанию
+preferences-doh-advanced-button =
+    .label = Дополнительные настройки
+preferences-doh-advanced-section =
+    .label = Дополнительные настройки
+    .description = Система доменных имен по протоколу HTTPS (DoH) шифрует поиск сайтов, поэтому вашему интернет-провайдеру или другим пользователям сложнее узнать, какие веб-сайты вы собираетесь посетить.
+preferences-doh-manage-exceptions2 =
+    .label = Управление исключениями
+    .accesskey = x
+preferences-doh-status-item-off =
+    .message = DNS через HTTPS отключён
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS через HTTPS не работает, так как мы столкнулись с ошибкой ({ $reason }) при попытке использовать провайдера { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS через HTTPS не работает, потому что мы получили некорректный URL ({ $reason })
 
 ## The following strings are used in the Download section of settings
 
@@ -2367,3 +2409,46 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отмена
 preferences-ai-controls-block-confirmation-confirm =
     .label = Блокировать
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reset =
+    .label = Сбросить настройки
+    .description = Восстановить настройки, чтобы установить предустановленный уровень защиты.
+preferences-etp-reset-standard-button =
+    .label = Сбросить на стандартную
+preferences-etp-reset-strict-button =
+    .label = Сбросить на строгую
+preferences-etp-custom-control-group =
+    .label = Защита от отслеживания
+    .description = Выберите, какую защиту включить или отключить.
+preferences-etp-custom-cookies-enabled =
+    .label = Куки
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Куки
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Принимать все куки
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Отслеживающее содержимое
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Отслеживающее содержимое
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Криптомайнеры
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Известные цифровые отпечатки
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Подозреваемые цифровые отпечатки
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Подозреваемые цифровые отпечатки
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Известные сборщики цифровых отпечатков не блокируются
+    .description = Это может позволить некоторым трекерам следить за вами без использования куков.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Сторонние куки включены
+    .description = Сторонние куки используются, чтобы отслеживать ваши перемещения между веб-сайтами.
+security-privacy-issue-warning-password-manager =
+    .label = Управление паролями отключено
+    .description = Менеджеры паролей помогут вам сохранить надёжные пароли для ваших аккаунтов.
