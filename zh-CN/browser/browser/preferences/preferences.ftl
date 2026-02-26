@@ -1636,6 +1636,8 @@ history-clear-button =
     .accesskey = s
 history-group =
     .label = 历史记录
+history-remember-option-all2 =
+    .label = 记录历史
 
 ## Privacy Section - Site Data
 

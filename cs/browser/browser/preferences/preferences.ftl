@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Předvolby ochrany soukromí na webových stránkách
+do-not-track-removal3 =
+    .message = Funkci „Do Not Track“ již nepodporujeme.
+non-technical-privacy-heading =
+    .label = Dodatečná ochrana
 non-technical-privacy-header = Předvolby ochrany soukromí na webových stránkách
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -603,9 +607,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Formátovat datumy, časy, čísla a jednotky podle nastavení pro jazyk „{ $localeName }“ v operačním systému
+settings-spellcheck-header =
+    .label = Kontrola pravopisu
 check-user-spelling =
     .label = Při psaní kontrolovat pravopis
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Stáhnout slovníky
 
 ## General Section - Files and Applications
 
@@ -922,6 +930,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nová okna a panely
 home-new-windows-tabs-description2 = Vyberte si domovskou stránku a stránku zobrazovanou při otevření nového okna a nového panelu.
+home-section =
+    .heading = Domovská stránka a spuštění
 
 ## Home Section - Default Browser
 
@@ -1203,6 +1213,12 @@ search-one-click-header-3 =
     .description = Vyberte si vyhledávače a zkratky, které se zobrazí ve vašem adresním řádku.
 update-search-engine-success =
     .message = Vyhledávač byl úspěšně aktualizován
+search-edit-engine-2 =
+    .title = Upravit vyhledávač
+search-delete-engine =
+    .title = Smazat vyhledávač
+search-enable-engine =
+    .title = Povolit vyhledávač
 search-choose-engine-column =
     .label = Vyhledávač
 search-choose-keyword-column =
@@ -1754,6 +1770,8 @@ history-remember-label = Historii prohlížených stránek
     .accesskey = i
 history-remember-option-all =
     .label = Pamatovat si historii
+history-remember-option-custom2 =
+    .label = Přizpůsobení historie
 history-remember-option-never =
     .label = Nikdy si nepamatovat historii
 history-remember-option-custom =
@@ -1800,8 +1818,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vymazat historii…
     .accesskey = V
+history-header2 =
+    .heading = Historie
 history-group =
     .label = Historie
+history-remember-option-all2 =
+    .label = Pamatovat si historii
 
 ## Privacy Section - Site Data
 
@@ -2489,6 +2511,8 @@ preferences-doh-exceptions-description = { -brand-short-name } nebude používat
 preferences-doh-manage-exceptions =
     .label = Výjimky…
     .accesskey = k
+preferences-doh-advanced-button =
+    .label = Pokročilé nastavení
 
 ## The following strings are used in the Download section of settings
 
@@ -2570,3 +2594,46 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušit
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokovat
+
+## Privacy and security status card
+
+security-privacy-issue-card =
+    .heading = Bezpečnostní varování
+issue-card-reset-button =
+    .label = Obnovit
+issue-card-dismiss-button =
+    .tooltiptext = Zavřít
+    .aria-label = Zavřít
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Pokročilé nastavení
+preferences-etp-header =
+    .heading = Rozšířená ochrana proti sledování
+preferences-etp-customize-button =
+    .label = Přizpůsobení ochrany proti sledování
+preferences-etp-reload-tabs-hint =
+    .message = Pro použití těchto změn znovu načtěte panely.
+preferences-etp-reload-tabs-hint-button =
+    .label = Znovu načíst všechny panely
+preferences-etp-customize-header =
+    .heading = Přizpůsobení ochrany proti sledování
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Povolit všechny cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sledující obsah
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sledující obsah
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Těžba kryptoměn
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Známé vytváření otisku prohlížeče
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Předpokládané vytváření otisku prohlížeče
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Předpokládané vytváření otisku prohlížeče
