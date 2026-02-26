@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Khôi phục từ bản sao lưu
 restore-from-backup-title = Hãy để { -brand-short-name } trở lại theo cách bạn muốn
 restore-from-backup-subtitle = Khôi phục tất cả dấu trang, lịch sử và dữ liệu khác để tiếp tục duyệt web.
 restore-from-backup-secondary-button = Không khôi phục
+multiple-backups-info-tile = <strong>Đã tìm thấy nhiều tập tin sao lưu.</strong> Tập tin gần đây nhất đã được chọn. Khôi phục các hồ sơ khác trong <a data-l10n-name="settings-label">cài đặt.</a>
 
 ## Restored from Backup spotlight
 

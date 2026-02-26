@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Ảnh thu nhỏ của trang { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Chọn trang { $page }
 
 ## Find panel button title and messages
 
@@ -632,6 +636,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Bật/tắt thanh lề
 pdfjs-views-manager-sidebar =
     .aria-label = Thanh lề
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Công cụ điều chỉnh kích thước thanh lề
 pdfjs-views-manager-view-selector-button =
     .title = Chế độ hiển thị
 pdfjs-views-manager-view-selector-button-label = Chế độ hiển thị
@@ -674,6 +680,7 @@ pdfjs-views-manager-status-undo-button-label = Hoàn tác
 pdfjs-views-manager-status-close-button =
     .title = Đóng
 pdfjs-views-manager-status-close-button-label = Đóng
+pdfjs-views-manager-paste-button-label = Dán
 
 ## Main menu for adding/removing signatures
 
