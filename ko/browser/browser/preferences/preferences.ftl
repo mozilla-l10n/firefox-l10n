@@ -1667,8 +1667,15 @@ history-header2 =
 history-section-header =
     .label = 기록
     .description = 브라우저를 닫을 때 { -brand-short-name }가 기억할 항목을 선택하세요.
+history-custom-section-header =
+    .label = 고급 설정
+    .description = 브라우저를 닫을 때 { -brand-short-name }가 기억할 항목을 사용자 지정하세요.
+history-custom-button =
+    .label = { -brand-short-name }가 기억할 항목을 선택하세요
 history-group =
     .label = 기록
+history-remember-option-all2 =
+    .label = 기록 기억
 
 ## Privacy Section - Site Data
 
@@ -1679,17 +1686,27 @@ sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산 �
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = 웹 사이트가 현재 <strong>{ $value } { $unit }</strong>의 디스크 공간을 사용하고 있습니다.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = 저장된 쿠키, 기록, 사이트 데이터 및 캐시가 현재 <strong>{ $value } { $unit }</strong>의 디스크 공간을 사용하고 있습니다.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 저장된 쿠키, 사이트 데이터 및 캐시가 현재 { $value } { $unit }의 디스크 공간을 사용하고 있습니다.
 sitedata-learn-more = 더 알아보기
+sitedata-delete-on-close2 =
+    .label = { -brand-short-name }를 닫을 때마다 쿠키와 사이트 데이터를 지움
+    .accesskey = c
 sitedata-delete-on-close =
     .label = { -brand-short-name }를 닫을 때 쿠키와 사이트 데이터를 삭제
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = 기록 설정에 따라 { -brand-short-name }는 브라우저를 닫을 때 세션에서 쿠키와 사이트 데이터를 삭제합니다.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = 기록이 저장되지 않습니다.
+    .message = { -brand-short-name }는 브라우저를 닫을 때 세션에서 쿠키와 사이트 데이터를 지웁니다.
 sitedata-delete-on-close-private-browsing = 영구 사생활 보호 모드에서는 { -brand-short-name }를 닫으면 쿠키와 사이트 데이터가 항상 지워집니다.
 sitedata-delete-on-close-private-browsing2 = 기록 설정에 따라 { -brand-short-name }는 브라우저를 닫을 때 세션에서 쿠키와 사이트 데이터를 삭제합니다.
 sitedata-allow-cookies-option =
@@ -1735,6 +1752,16 @@ sitedata-cookies-exceptions2 =
     .label = 예외 관리
     .accesskey = x
     .description = 쿠키 및 사이트 데이터 사용을 항상 허용하거나 허용하지 않을 웹 사이트를 지정할 수 있습니다.
+sitedata-heading =
+    .label = 탐색 데이터
+    .description = 쿠키, 기록, 캐시, 웹사이트 데이터 등을 관리합니다.
+sitedata-settings3 =
+    .label = 특정 사이트에 대한 데이터 지우기
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = 예외 관리
+    .accesskey = x
+    .description = 특정 사이트에서 쿠키 및 사이트 데이터를 처리하는 방법을 선택합니다.
 cookies-site-data-group =
     .label = 쿠키 및 사이트 데이터
 
@@ -2001,6 +2028,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = 리디렉션 관리
+    .accesskey = E
+    .searchkeywords = 팝업
+permissions-addon-install-warning3 =
+    .label = 웹 사이트가 확장 기능을 설치하려고 할 때 경고 표시
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = 팝업 및 제3자 리디렉션 예외 관리
     .accesskey = E
@@ -2046,6 +2082,9 @@ permissions-speaker2 =
     .label = 스피커
 permissions-notification2 =
     .label = 알림
+permissions-header3 =
+    .label = 권한
+    .description = 어떤 웹 사이트가 접근, 제어 또는 실행할 수 있는지 관리합니다.
 
 ## Privacy Section - Data Collection
 
@@ -2120,11 +2159,16 @@ website-advertising-private-attribution-description = 이를 통해 사이트에
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 보안
+browsing-protection-group2 =
+    .label = 사기성 콘텐츠 및 위험한 소프트웨어 보호
+    .description = 위험한 사이트와 다운로드로 인해 데이터와 기기가 위험해질 수 있습니다. { -brand-short-name }는 이를 자동으로 차단하고 위험하거나 원치 않는 소프트웨어에 대해 경고합니다.
 security-browsing-protection = 사기성 콘텐츠 및 위험한 소프트웨어 보호
 security-enable-safe-browsing =
     .label = 위험하고 사기성 있는 콘텐츠 차단
     .accesskey = B
 security-enable-safe-browsing-link = 더 알아보기
+security-safe-browsing-warning =
+    .message = 이 옵션을 끄면 사기, 악성 사이트 및 위험한 다운로드에 대한 보호 기능이 저하됩니다.
 security-block-downloads =
     .label = 위험한 다운로드 차단
     .accesskey = D
