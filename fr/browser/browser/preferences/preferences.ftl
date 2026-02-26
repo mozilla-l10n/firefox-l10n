@@ -1632,7 +1632,7 @@ history-remember-label = Règles de conservation
 history-remember-option-all =
     .label = Conserver l’historique
 history-remember-option-never2 =
-    .label = ne jamais conserver l’historique
+    .label = Ne jamais conserver l’historique
     .description = Chaque fenêtre agit comme une fenêtre privée. Lorsque cette option est activée, les extensions doivent être autorisées.
 history-remember-option-custom2 =
     .label = Personnaliser l’historique
@@ -2441,13 +2441,13 @@ security-privacy-status-pending-trackers-label = Recherche du nombre de traqueur
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
-        [one] { $trackerCount } traqueur bloqué le mois dernier
+        [one] { $trackerCount } traqueur bloqué le mois dernier
        *[other] { $trackerCount } traqueurs bloqués le mois dernier
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
-security-privacy-status-strict-enabled-label = Vous avez <a data-l10n-name="strict-tracking-protection">une protection stricte</a>
+security-privacy-status-strict-enabled-label = Vous utilisez <a data-l10n-name="strict-tracking-protection">la protection stricte</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
-security-privacy-status-custom-enabled-label = Vous disposez d’une <a data-l10n-name="custom-tracking-protection">protection personnalisée</a>
+security-privacy-status-custom-enabled-label = Vous utilisez <a data-l10n-name="custom-tracking-protection">la protection personnalisée</a>
 security-privacy-status-up-to-date-label = Vous disposez de la version la plus récente et la plus sûre de { -brand-short-name }
 security-privacy-status-update-needed-label = Une nouvelle version de { -brand-short-name } est disponible.
 security-privacy-status-update-error-label = { -brand-short-name } rencontre des difficultés pour se mettre à jour

@@ -1066,6 +1066,12 @@ update-search-engine-success =
     .message = Jehekaha mongu’eha hekopyahu hekopete
 search-edit-engine-2 =
     .title = Embosako’i hekaha mongu’eha
+search-delete-engine =
+    .title = Embogue hekaha mongu’eha
+search-enable-engine =
+    .title = Embojuruja hekaha mongu’eha
+search-outlink-to-extensions-page =
+    .title = Eñangareko jepysokue ha témare
 search-choose-engine-column =
     .label = Jehekaha
 search-choose-keyword-column =
@@ -1617,6 +1623,8 @@ history-remember-label = { -brand-short-name } ikatútapa
     .accesskey = w
 history-remember-option-all =
     .label = Tembiasakuére ñemandu’a
+history-remember-option-custom2 =
+    .label = Emboava tembiasakue
 history-remember-option-never =
     .label = Ani nemandu’a tembiasakuére
 history-remember-option-custom =
@@ -1659,8 +1667,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tembiasakue ñemopotĩ…
     .accesskey = s
+history-header2 =
+    .heading = Tembiasakue
 history-group =
     .label = Tembiasakue
+history-remember-option-all2 =
+    .label = Tembiasakuére ñemandu’a
 
 ## Privacy Section - Site Data
 
@@ -1727,6 +1739,9 @@ sitedata-cookies-exceptions2 =
     .label = Eñangareko oĩ’ỹva…
     .accesskey = x
     .description = Eremi mba’e ñanduti roguépa tapia térã araka’eve oiporu kookie ha tenda mba’ekuaarã.
+sitedata-settings3 =
+    .label = Embogue mba’ekuaarã tenda ha’etévape g̃uarã
+    .accesskey = s
 cookies-site-data-group =
     .label = Kookie ha tenda mbakuaarã
 
@@ -2146,6 +2161,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’
 certs-description2 =
     .label = Mboajepyréva
     .description = Emboheko umi mboajepyre { -brand-short-name } oiporúva omoneĩkuaa hag̃ua.
+certs-view2 =
+    .label = Eñangareko mboajepyrére
+    .accesskey = C
+certs-devices2 =
+    .label = Eñangareko mba’e’oka tekorosãrãre
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 

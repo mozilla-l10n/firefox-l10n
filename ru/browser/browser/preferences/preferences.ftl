@@ -2359,6 +2359,15 @@ preferences-doh-status-item-active-local =
     .message = DNS через HTTPS использует местного провайдера { $name }
 preferences-doh-select-resolver-label =
     .label = Выбрать провайдера:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Использовать этого провайдера для резолвинга DNS через HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Введите URL своего провайдера
+preferences-doh-header2 =
+    .heading = DNS через HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2425,8 +2434,79 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Блокировать
 
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } начеку
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } рекомендует некоторые улучшения безопасности
+security-privacy-status-ok-label = Улучшенная защита от отслеживания включена
+security-privacy-status-problem-label = Мы обнаружили настройки, влияющие на вашу защиту
+security-privacy-status-problem-helper-label = Просмотреть проблемы
+security-privacy-status-pending-trackers-label = Поиск числа трекеров, заблокированных { -brand-short-name } за последний месяц
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } трекер заблокирован за последний месяц
+        [few] { $trackerCount } трекера заблокированы за последний месяц
+       *[many] { $trackerCount } трекеров заблокировано за последний месяц
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = У вас включена <a data-l10n-name="strict-tracking-protection">строгая защита</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = У вас включена <a data-l10n-name="custom-tracking-protection">пользовательская защита</a>
+security-privacy-status-up-to-date-label = У вас установлена последняя и безопасная версия { -brand-short-name }
+security-privacy-status-update-needed-label = Доступна новая версия { -brand-short-name }.
+security-privacy-status-update-error-label = У { -brand-short-name } возникли проблемы с обновлением
+security-privacy-status-update-checking-label = { -brand-short-name } проверяет наличие обновлений
+security-privacy-status-update-needed-description = Обновитесь, чтобы получить последние обновления скорости, стабильности и безопасности.
+security-privacy-status-update-button-label =
+    .label = Обновить { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Щит с восклицательным знаком, выражающим обеспокоенность вашими предупреждениями безопасности
+security-privacy-image-ok =
+    .alt = Щит с флажком, показывающий, что у вас нет нерешённых проблем с безопасностью
+security-privacy-issue-card =
+    .heading = Предупреждения безопасности
+issue-card-reset-button =
+    .label = Сбросить
+issue-card-dismiss-button =
+    .tooltiptext = Убрать
+    .aria-label = Убрать
+
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Улучшенная защита от отслеживания
+    .description = Сайты используют трекеры, чтобы следить за вами в интернете и показывать жуткую рекламу. { -brand-short-name } защищает вас во время просмотра, автоматически блокируя трекеры, чтобы вы могли контролировать свой цифровой след.
+preferences-etp-level-standard =
+    .label = Стандартная (по умолчанию)
+    .description = Надежная защита, которая безотказно работает с большинством веб-сайтов.
+preferences-etp-level-strict =
+    .label = Строгая
+    .description = Более надёжная защита, которая блокирует большее количество трекеров, но может привести к неработоспособности некоторых сайтов.
+preferences-etp-level-custom =
+    .label = Персональная
+    .description = Выберите, какую защиту включить, а какую отключить.
+preferences-etp-status-advanced-button =
+    .label = Дополнительные настройки
+preferences-etp-status-protections-dashboard-link =
+    .label = Просмотр персонализированной панели защиты
+    .description = Посмотрите, сколько скрытых трекеров { -brand-short-name } заблокировал для вас, включая трекеры в социальных сетях, сборщики цифровых отпечатков и криптомайнеры.
+preferences-etp-header =
+    .heading = Улучшенная защита от отслеживания
+preferences-etp-advanced-settings-group =
+    .label = Дополнительные настройки
+    .description = Сайты используют трекеры, чтобы следить за вами в интернете и показывать жуткую рекламу. { -brand-short-name } защищает вас во время просмотра, автоматически блокируя большинство трекеров, чтобы вы могли контролировать свой цифровой след.
+preferences-etp-customize-button =
+    .label = Настроить защиту от отслеживания
+preferences-etp-reload-tabs-hint =
+    .message = Обновите свои вкладки, чтобы применить эти изменения.
+preferences-etp-reload-tabs-hint-button =
+    .label = Обновить все вкладки
+preferences-etp-rfp-warning-message =
+    .message = Вы используете функцию защиты от сборщиков цифровых отпечатков (RFP), которая заменяет некоторые настройки защиты от сборщиков цифровых отпечатков { -brand-short-name }. Это может привести к неработоспособности некоторых сайтов.
 preferences-etp-reset =
     .label = Сбросить настройки
     .description = Восстановить настройки, чтобы установить предустановленный уровень защиты.
