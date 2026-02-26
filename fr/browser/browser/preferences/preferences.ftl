@@ -2098,6 +2098,9 @@ permissions-speaker2 =
     .label = Haut-parleur
 permissions-notification2 =
     .label = Notifications
+permissions-header3 =
+    .label = Permissions
+    .description = Gérez les éléments que les sites web peuvent accéder, contrôler ou déclencher.
 
 ## Privacy Section - Data Collection
 

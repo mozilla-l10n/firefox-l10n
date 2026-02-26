@@ -520,9 +520,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = 根据您操作系统的“{ $localeName }”首选项设置日期、时间、数字格式和单位制。
+settings-spellcheck-header =
+    .label = 拼写检查
 check-user-spelling =
     .label = 在您输入时检查拼写
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = 下载字典
 
 ## General Section - Files and Applications
 
