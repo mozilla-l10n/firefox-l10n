@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = ы
 non-technical-privacy-group =
     .label = Настройки конфиденциальности веб-сайта
+do-not-track-removal3 =
+    .message = Мы больше не поддерживаем функцию «Не отслеживать».
+non-technical-privacy-heading =
+    .label = Дополнительная защита
+preferences-privacy-relay-available =
+    .label = Предлагать псевдонимы электронной почты { -relay-brand-name }
+    .description = Скрывает ваш реальный адрес электронной почты, чтобы защитить ваш почтовый ящик от спама.
 non-technical-privacy-header = Настройки конфиденциальности веб-сайта
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -527,9 +534,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Использовать настройки «{ $localeName }» вашей операционной системы для форматирования даты, времени, чисел и единиц измерения
+settings-spellcheck-header =
+    .label = Проверка орфографии
 check-user-spelling =
     .label = Проверять орфографию при наборе текста
     .accesskey = в
+spellcheck-download-dictionaries =
+    .label = Скачать словари
+spellcheck-promo =
+    .heading = Как использовать проверку орфографии
+    .message = Щёлкните правой кнопкой мыши текстовое поле, чтобы включить или отключить проверку орфографии или изменить язык. Не все поля поддерживают проверку орфографии.
 
 ## General Section - Files and Applications
 
@@ -787,11 +801,20 @@ network-proxy-connection-learn-more = Подробнее
 network-proxy-connection-settings =
     .label = Настроить…
     .accesskey = Н
+network-proxy-group2 =
+    .label = Настройки прокси
+    .description = Настройте способ подключения { -brand-short-name } к интернету.
+network-proxy-connection-settings2 =
+    .label = Настроить прокси
+    .description = Изменение этих настроек может привести к проблемам с подключением
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Новые окна и вкладки
 home-new-windows-tabs-description2 = Выберите, что вы хотите увидеть, когда откроете домашнюю страницу, новые окна и новые вкладки.
+home-section =
+    .heading = Домашняя страница и запуск
 
 ## Home Section - Default Browser
 
@@ -1053,6 +1076,12 @@ search-one-click-header-3 =
     .description = Выбрать. какие поисковые системы и их сокращения появляются в вашей адресной строке.
 update-search-engine-success =
     .message = Поисковая система успешно обновлена
+search-edit-engine-2 =
+    .title = Изменение поисковой системы
+search-delete-engine =
+    .title = Удалить поисковую систему
+search-enable-engine =
+    .title = Включить поисковую систему
 search-choose-engine-column =
     .label = Поисковая система
 search-choose-keyword-column =

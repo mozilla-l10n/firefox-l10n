@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Adfer o'r Copi Wrth Gefn
 restore-from-backup-title = Gadewch i ni gael { -brand-short-name } yn ôl i sut rydych chi'n ei hoffi
 restore-from-backup-subtitle = Adferwch eich holl nodau tudalen, hanes, a data arall i fynd yn ôl i bori.
 restore-from-backup-secondary-button = Peidio ag adfer
+multiple-backups-info-tile = <strong>Wedi canfod sawl ffeil wrth gefn.</strong> Mae'r ffeil ddiweddaraf wedi'i dewis. Adferwch broffiliau eraill yn y <a data-l10n-name="settings-label">Gosodiadau.</a>
 
 ## Restored from Backup spotlight
 

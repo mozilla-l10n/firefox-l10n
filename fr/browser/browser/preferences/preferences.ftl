@@ -2314,10 +2314,10 @@ preferences-doh-overview-default =
     .description = Utiliser un DNS sécurisé dans les régions où il est disponible.
 preferences-doh-overview-custom =
     .label = Personnalisé
-    .description = Utilisez toujours un DNS sécurisé en contrôlant votre fournisseur et le comportement des solutions de secours.
+    .description = Toujours utiliser un DNS sécurisé en contrôlant votre fournisseur et le comportement des solutions de secours.
 preferences-doh-overview-off =
     .label = Désactivé
-    .description = Utilisez votre serveur DNS par défaut.
+    .description = Utiliser votre serveur DNS par défaut.
 preferences-doh-advanced-button =
     .label = Paramètres avancés
 preferences-doh-advanced-section =
@@ -2325,9 +2325,9 @@ preferences-doh-advanced-section =
     .description = Le système de noms de domaine via HTTPS (DoH) chiffre les recherches de sites, il est donc plus difficile pour votre fournisseur Internet ou pour des tiers de voir quels sites vous vous apprêtez à visiter.
 preferences-doh-manage-exceptions2 =
     .label = Gérer les exceptions
-    .accesskey = G
+    .accesskey = x
 preferences-doh-status-item-off =
-    .message = DNS via HTTPS est désactivé
+    .message = Le DNS via HTTPS est désactivé
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
@@ -2356,7 +2356,7 @@ preferences-doh-select-resolver-label =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
     .label = { $name }
-    .tooltiptext = Utiliser ce fournisseur pour résoudre le DNS via HTTPS
+    .tooltiptext = Utiliser ce fournisseur pour les résolutions DNS via HTTPS
 preferences-doh-custom-provider-label =
     .aria-label = Saisissez l’URL d’un fournisseur personnalisé
 preferences-doh-header2 =
@@ -2450,9 +2450,8 @@ security-privacy-status-strict-enabled-label = Vous avez <a data-l10n-name="stri
 security-privacy-status-custom-enabled-label = Vous disposez d’une <a data-l10n-name="custom-tracking-protection">protection personnalisée</a>
 security-privacy-status-up-to-date-label = Vous disposez de la version la plus récente et la plus sûre de { -brand-short-name }
 security-privacy-status-update-needed-label = Une nouvelle version de { -brand-short-name } est disponible.
-security-privacy-status-update-error-label = { -brand-short-name } a des difficultés à se mettre à jour
+security-privacy-status-update-error-label = { -brand-short-name } rencontre des difficultés pour se mettre à jour
 security-privacy-status-update-checking-label = { -brand-short-name } recherche des mises à jour
-security-privacy-status-update-needed-description = Mettez-vous à jour pour recevoir les dernières mises à jour concernant la vitesse, la stabilité et la sécurité.
 security-privacy-status-update-button-label =
     .label = Mettre à jour { -brand-short-name }
 security-privacy-image-warning =

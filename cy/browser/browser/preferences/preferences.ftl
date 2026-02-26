@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = g
 non-technical-privacy-group =
     .label = Dewisiadau Preifatrwydd Gwefan
+do-not-track-removal3 =
+    .message = Dydym ni ddim bellach yn cefnogi'r nodwedd “Peidio Tracio”.
+non-technical-privacy-heading =
+    .label = Diogelu ychwanegol
+preferences-privacy-relay-available =
+    .label = Awgrymu arallenwau e-bost { -relay-brand-name }
+    .description = Mae'n cuddio'ch cyfeiriad go-iawn er mwyn diogelu eich blwch derbyn rhag sbam.
 non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -536,9 +543,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Defnyddio gosodiadau eich system weithredu ar gyfer “{ $localeName }” i fformatio dyddiadau, amseroedd, rhifau a mesuriadau.
+settings-spellcheck-header =
+    .label = Gwirio sillafu
 check-user-spelling =
     .label = Gwirio'r sillafu wrth deipio
     .accesskey = G
+spellcheck-download-dictionaries =
+    .label = Llwytho geiriaduron i lawr
+spellcheck-promo =
+    .heading = Sut i ddefnyddio gwirio sillafu
+    .message = Cliciwch i'r dde ar faes testun i droi gwirio sillafu ymlaen neu i ffwrdd neu i newid iaith. Dyw pob maes ddim yn cefnogi gwirio sillafu.
 
 ## General Section - Files and Applications
 
@@ -796,6 +810,13 @@ network-proxy-connection-learn-more = Darllen rhagor
 network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
+network-proxy-group2 =
+    .label = Gosodiadau dirprwy
+    .description = Ffurfweddu sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
+network-proxy-connection-settings2 =
+    .label = Ffurfweddu dirprwy
+    .description = Gall newid y gosodiadau hyn greu anhawsterau cysylltu
+    .accesskey = d
 
 ## Home Section
 
