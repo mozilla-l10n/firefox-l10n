@@ -941,6 +941,14 @@ urlbar-searchmode-default =
     .tooltiptext = Domyślna wyszukiwarka
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Tym razem szukaj w:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Szukaj w:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Tym razem szukaj w:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
