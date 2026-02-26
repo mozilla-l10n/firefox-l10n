@@ -38,3 +38,4 @@ recently-closed-window-panel-tooltip =
         [one] { $winTitle } ({ $tabCount } scheda, chiusa il { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
        *[other] { $winTitle } ({ $tabCount } schede, chiusa il{ DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
     }
+

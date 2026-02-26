@@ -1591,3 +1591,4 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
        *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
     }
+
