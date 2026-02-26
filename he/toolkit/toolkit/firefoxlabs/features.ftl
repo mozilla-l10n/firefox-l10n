@@ -73,3 +73,7 @@ experimental-features-newtab-widget-lists-and-timer-description = לזכור א�
 experimental-features-semantic-history-search =
     .label = חיפוש היסטוריה סמנטי
 experimental-features-semantic-history-search-description = שימוש במודל למידת מכונה מקומי כדי להציע ערכים מההיסטוריה הקשורים לחיפושים שלך, בהתבסס על הבנה של שפה טבעית בשורת הכתובת של { -brand-product-name }. <a data-l10n-name="connect">שיתוף משוב</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = הערות ללשוניות
+experimental-features-tab-notes-description = הערות ללשוניות הן תכונה ניסיונית המאפשרת לך להוסיף הערות דביקות ללשוניות הדפדפן שלך. בהערות ניתן לרשום הקשר, תזכורות או שלבים הבאים כדי שניתן יהיה לחזור ללשונית ולזכור מדוע פתחת אותה. נשמח לקבל ממך משוב תוך כדי שאנו ממשיכים לשפר תכונה זו. <a data-l10n-name="connect">שיתוף משוב</a>

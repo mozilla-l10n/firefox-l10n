@@ -14,6 +14,11 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Datenschutzeinstellungen für Websites
+non-technical-privacy-heading =
+    .label = Zusätzliche Schutzmaßnahmen
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } E-Mail-Masken vorschlagen
+    .description = Verbirgt Ihre echte E-Mail-Adresse, um Ihren Posteingang vor Spam zu schützen.
 non-technical-privacy-header = Datenschutzeinstellungen für Websites
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,11 +529,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Einstellungen des Betriebssystems für "{ $localeName }" verwenden, um Datum, Uhrzeit, Zahlen und Maßeinheiten zu formatieren.
+settings-spellcheck-header =
+    .label = Rechtschreibprüfung
 check-user-spelling =
     .label = Rechtschreibung während der Eingabe überprüfen
     .accesskey = R
 spellcheck-download-dictionaries =
     .label = Wörterbücher hinzufügen
+spellcheck-promo =
+    .heading = Wie Sie die Rechtschreibprüfung verwenden
+    .message = Klicken Sie mit der rechten Maustaste auf ein Textfeld, um die Rechtschreibprüfung zu aktivieren oder zu deaktivieren, oder um die Sprache zu ändern. Nicht alle Felder unterstützen die Rechtschreibprüfung.
 
 ## General Section - Files and Applications
 
@@ -786,6 +796,13 @@ network-proxy-connection-learn-more = Weitere Informationen
 network-proxy-connection-settings =
     .label = Einstellungen…
     .accesskey = n
+network-proxy-group2 =
+    .label = Proxy-Einstellungen
+    .description = Konfigurieren Sie, wie { -brand-short-name } eine Verbindung zum Internet herstellt.
+network-proxy-connection-settings2 =
+    .label = Proxy konfigurieren
+    .description = Das Ändern dieser Einstellungen kann zu Verbindungsproblemen führen.
+    .accesskey = p
 
 ## Home Section
 

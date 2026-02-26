@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = הוספת פריט
+storage-delete-all-button =
+    .title = מחיקת הכל
 # Refresh button title
 storage-refresh-button =
     .title = ריענון פריטים
