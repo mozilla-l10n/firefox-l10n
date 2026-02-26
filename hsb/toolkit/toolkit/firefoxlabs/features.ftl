@@ -77,3 +77,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Wobchowajće s
 experimental-features-semantic-history-search =
     .label = Semantiske pytanje historije
 experimental-features-semantic-history-search-description = Wužiwajće lokalny model mašinoweho wuknjenja, zo byšće zapiski z historije namjetował, kotrež so na waše pytanje na zakładźe přirodneho rěčneho zrozumjenja w adresowym polu { -brand-product-name } poćahuja. <a data-l10n-name="connect">Měnjenje zdźělić</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Noticy rajtarkow

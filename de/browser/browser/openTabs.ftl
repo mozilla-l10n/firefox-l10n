@@ -5,3 +5,7 @@
 opentabs-page-title = Wählen Sie einen Tab aus, der zur geteilten Ansicht hinzugefügt werden soll
 opentabs-search-text-box =
     .placeholder = Tabs durchsuchen
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Suchergebnisse für "{ $query }"
