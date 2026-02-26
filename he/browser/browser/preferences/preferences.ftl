@@ -2417,3 +2417,59 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ביטול
 preferences-ai-controls-block-confirmation-confirm =
     .label = חסימה
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-advanced-settings-group =
+    .label = הגדרות מתקדמות
+    .description = אתרים משתמשים ברכיבי מעקב כדי לעקוב אחריך ברשת ולהציג פרסומות מציקות. { -brand-short-name } מגן עליך תוך כדי גלישה, וחוסם רוב רכיבי המעקב באופן אוטומטי כך שיש לך שליטה על העקבות הדיגיטליים שלך.
+preferences-etp-customize-button =
+    .label = התאמה אישית של הגנת המעקב
+preferences-etp-reload-tabs-hint =
+    .message = יש לטעון מחדש את הלשוניות שלך כדי להחיל את השינויים האלה.
+preferences-etp-reload-tabs-hint-button =
+    .label = טעינת כל הלשוניות מחדש
+preferences-etp-rfp-warning-message =
+    .message = ‏Resist Fingerprinting (RFP) נמצא כעת בשימוש, שמחליף חלק מהגדרות ההגנה של { -brand-short-name } מפני מעקב זהות דיגיטלית. זה עלול לשבש פעילות של חלק מהאתרים.
+preferences-etp-level-warning-message =
+    .heading = לתשומת ליבך! ייתכן שחלק מהאתרים לא יפעלו כצפוי.
+    .message = חלק מהאתרים בונים רכיבי מעקב כחלק מהיכולות, האפשרויות או התוכן שלהם. כאשר { -brand-short-name } חוסם אותם, האתר נראה שבור. כדאי לנסות את האפשרות ״תיקון בעיות באתר״ או לכבות את הגנת המעקב עבור אותו אתר.
+preferences-etp-manage-exceptions-button =
+    .label = ניהול חריגות
+    .description = ניהול אתרים שבהם הגנת המעקב המתקדמת מושבתת.
+preferences-etp-customize-header =
+    .heading = התאמה אישית של הגנת המעקב
+preferences-etp-reset =
+    .label = איפוס התאמות אישיות
+    .description = מאפס את ההגדרות לרמת הגנה מוגדרת מראש.
+preferences-etp-reset-standard-button =
+    .label = איפוס למצב רגיל
+preferences-etp-reset-strict-button =
+    .label = איפוס למצב מחמיר
+preferences-etp-custom-control-group =
+    .label = הגנת מעקב
+    .description = בחירה באילו הגנות להפעיל או לכבות.
+preferences-etp-custom-cookies-enabled =
+    .label = עוגיות
+preferences-etp-custom-cookie-behavior =
+    .aria-label = עוגיות
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = לאפשר את כל העוגיות
+preferences-etp-custom-tracking-protection-enabled =
+    .label = תוכן מעקב
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = תוכן מעקב
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = כורי מטבעות דיגיטליים
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = רכיבי זהות דיגיטלית ידועים
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = רכיבי זהות דיגיטלית חשודים
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = רכיבי זהות דיגיטלית חשודים
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = רכיבי זהות דיגיטלית ידועים אינם חסומים
+    .description = זה עשוי לאפשר לחלק מרכיבי המעקב לעקוב אחריך ללא עוגיות.

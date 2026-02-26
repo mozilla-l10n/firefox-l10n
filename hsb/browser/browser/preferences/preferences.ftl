@@ -1077,6 +1077,14 @@ search-one-click-header-3 =
     .description = Rozsudźće, kotre pytawy a zwjazanja maja so we wašim adresowym polu jewić.
 update-search-engine-success =
     .message = Pytawa je so wuspěšnje zaktualizowała
+search-edit-engine-2 =
+    .title = Pytawu wobdźěłać
+search-delete-engine =
+    .title = Pytawu zhašeć
+search-enable-engine =
+    .title = Pytawu zmóžnić
+search-outlink-to-extensions-page =
+    .title = W rozšěrjenjach a drastach rjadować
 search-choose-engine-column =
     .label = Pytawa
 search-choose-keyword-column =
@@ -1628,6 +1636,11 @@ history-remember-label = { -brand-short-name } budźe
     .accesskey = b
 history-remember-option-all =
     .label = Sej historiju spomjatkować
+history-remember-option-never2 =
+    .label = Sej historiju ženje njespomjatkować
+    .description = Kóžde wokno kaž  priwatne wokno skutkuje. Jeli zmóžnjene, dyrbja so rožšěrjenja dowolić.
+history-remember-option-custom2 =
+    .label = Historiju přiměrić
 history-remember-option-never =
     .label = Sej historiju ženje njespomjatkować
 history-remember-option-custom =
@@ -1670,8 +1683,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Historiju zhašeć…
     .accesskey = s
+history-header2 =
+    .heading = Historija
+history-section-header =
+    .label = Historija
+    .description = Wubjerće, štož { -brand-short-name } ma sej spomjatkować, hdyž wobhladowak začinjeće.
+history-custom-section-header =
+    .label = Rozšěrjene nastajenja
+    .description = Přiměrće, štož { -brand-short-name } ma sej spomjatkować, hdyž wobhladowak začinjeće.
+history-custom-button =
+    .label = Wubjerće, štož { -brand-short-name } ma sej spomjatkować
 history-group =
     .label = Historija
+history-remember-option-all2 =
+    .label = Sej historiju spomjatkować
 
 ## Privacy Section - Site Data
 
@@ -1682,17 +1707,27 @@ sitedata-total-size-calculating = Wulkosć sydłowych datow a pufrowaka so wuli�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Websydła tuchwilu <strong>{ $value } { $unit } </strong> tačeloweho ruma wužiwaja.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Waše składowane placki, historiju, sydłowe daty a pufrowak so tuchwilu <strong>{ $value } { $unit }</strong> tačeloweho ruma wužiwaja.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Waše składowane placki, sydłowe daty a pufrowak so tuchwilu { $value } { $unit } tačeloweho ruma wužiwaja.
 sitedata-learn-more = Dalše informacije
+sitedata-delete-on-close2 =
+    .label = Placki a sydłowe daty kóždy raz zhašeć, hdyž { -brand-short-name } začinjeće
+    .accesskey = l
 sitedata-delete-on-close =
     .label = Placki a sydłowe daty zhašeć, hdyž so { -brand-short-name } začinja
     .accesskey = s
 sitedata-delete-on-close-private-browsing3 =
     .message = Na zakładźe wašich nastajenjow { -brand-short-name } placki a sydłowe daty z wašeho posedźenja zhaša, hdyž wobhladowak začinjeće.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historija njebudźe so składować
+    .message = { -brand-short-name } placki a sydłowe daty z wašeho posedźenja zhaša, hdyž wobhladowak začinjeće.
 sitedata-delete-on-close-private-browsing = W stajnym priwatnym modusu so placki a sydłowe daty přeco zhašeja, hdyž so { -brand-short-name } začinja.
 sitedata-delete-on-close-private-browsing2 = Na zakładźe wašich nastajenjow { -brand-short-name } placki a sydłowe daty z wašeho posedźenja zhaša, hdyž wobhladowak začinjeće.
 sitedata-allow-cookies-option =
@@ -1738,6 +1773,16 @@ sitedata-cookies-exceptions2 =
     .label = Wuwzaća rjadować
     .accesskey = u
     .description = Móžeće podać, kotre websydła přeco smědźa placki a sydłowe daty wužiwać a kotre nic.
+sitedata-heading =
+    .label = Daty přehladowanja
+    .description = Rjadujće swoje placki, historiju, pufrowak, websydłowe data a wjace.
+sitedata-settings3 =
+    .label = Daty za wěste sydła zhašeć
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Wuwzaća rjadować
+    .accesskey = u
+    .description = Wubjerće, kak wěste sydła maja z plackami a sydłowymi datami wobchadźeć.
 cookies-site-data-group =
     .label = Placki a sydłowe daty
 

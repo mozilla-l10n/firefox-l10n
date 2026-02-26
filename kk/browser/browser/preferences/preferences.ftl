@@ -533,6 +533,8 @@ settings-spellcheck-header =
 check-user-spelling =
     .label = Мәтін терілген кезде орфографияны тексеру
     .accesskey = о
+spellcheck-download-dictionaries =
+    .label = Сөздіктерді жүктеп алу
 
 ## General Section - Files and Applications
 
@@ -795,6 +797,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Жаңа терезелер мен беттер
 home-new-windows-tabs-description2 = Үй парағын, жаңа терезелер және беттерді ашқан кезде көретін нәрселерді таңдаңыз.
+home-section =
+    .heading = Басты бет және іске қосылу
 
 ## Home Section - Default Browser
 
@@ -1055,6 +1059,14 @@ search-one-click-header-3 =
     .description = Адрес жолағында қай іздеу жүйелері мен жарлықтар көрінетінін таңдаңыз.
 update-search-engine-success =
     .message = Іздеу жүйесі сәтті жаңартылды
+search-edit-engine-2 =
+    .title = Іздеу жүйесін түзету
+search-delete-engine =
+    .title = Іздеу жүйесін өшіру
+search-enable-engine =
+    .title = Іздеу жүйесін іске қосу
+search-outlink-to-extensions-page =
+    .title = Кеңейтулер мен темаларда басқару
 search-choose-engine-column =
     .label = Іздеу жүйесі
 search-choose-keyword-column =
@@ -1648,8 +1660,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Тарихты тазарту…
     .accesskey = з
+history-header2 =
+    .heading = Тарих
 history-group =
     .label = Тарих
+history-remember-option-all2 =
+    .label = Тарихты есте сақтау
 
 ## Privacy Section - Site Data
 
@@ -2293,6 +2309,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 security-privacy-status-ok-label = Бақылаудан кеңейтілген қорғаныс іске қосулы
 security-privacy-status-problem-helper-label = Мәселелерді қарау
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } жаңарту
+security-privacy-issue-card =
+    .heading = Қауіпсіздік ескертулері
 issue-card-reset-button =
     .label = Тастау
 issue-card-dismiss-button =
