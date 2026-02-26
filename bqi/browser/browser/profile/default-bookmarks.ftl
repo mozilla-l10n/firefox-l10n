@@ -16,10 +16,20 @@ default-bookmarks-getting-started = ناهاڌن پا کار
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/
 default-bookmarks-firefox-get-help = گرؽڌن هیاری
+# link title for https://www.mozilla.org/firefox/customize/
+default-bookmarks-firefox-customize = سفارشی کردن Firefox
+# link title for https://www.mozilla.org/about/
+default-bookmarks-firefox-about = زبار ایما
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = بونچکا Firefox شاوونه
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = وب هؽل Firefox شاوونه
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
 default-bookmarks-bugzilla = رڌجۊر اشکال Mozilla
 # Nightly builds only, link title for https://developer.mozilla.org/
 default-bookmarks-mdn = شبکه برنومه نویسووݩ Mozilla
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = ٱوزارا آزمایشگر شاوونه
 # Nightly builds only, link title for about:crashes
 default-bookmarks-crashes = پوی خراویا ایسا
 # Nightly builds only, link title for https://planet.mozilla.org/
