@@ -821,7 +821,9 @@ forms-saved-passwords-2 =
     .label = دؽوۉداری رزما زفت وابیڌه
     .accesskey = d
 forms-primary-pw-learn-more-link = قلوه دووسته بۊین
+forms-master-pw-fips-desc = آلشت رزم شکست خرد
 forms-windows-sso-learn-more-link = قلوه دووسته بۊین
+forms-windows-sso-desc = هساوا ن من سامووا دسگا خوتووݩ دؽوۉداری کۊنین
 
 ## OS Authentication dialog
 
@@ -913,6 +915,9 @@ sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی
 sitedata-option-block-all =
     .label = پوی کۊکیا (وبگه یل ن خراو اکونه)
+sitedata-clear2 =
+    .label = داده یل گشتن ن برۊفنین
+    .accesskey = l
 sitedata-clear =
     .label = روفتن داده یل…
     .accesskey = l
@@ -984,8 +989,13 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-isolate-cross-site-cookies = سوا کردن کۊکیا منجا وبگهی
 content-blocking-all-cookies = پوی کۊکیا
 content-blocking-unvisited-cookies = کۊکیا ز وبگه یل نیڌه بیڌه
+content-blocking-all-cross-site-cookies = پوی کۊکیا منجا وبگهی
 content-blocking-cryptominers = و در کونا رزم ٱرزا
 content-blocking-fingerprinters = کلک نگارا
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = جا کلکا نشناخته وو مشکۊک
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
