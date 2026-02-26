@@ -2215,6 +2215,8 @@ preferences-doh-exceptions-description = { -brand-short-name } бұл сайтт
 preferences-doh-manage-exceptions =
     .label = Ережеден тыс жағдайларды басқару…
     .accesskey = р
+preferences-doh-select-resolver-label =
+    .label = Провайдерді таңдау:
 
 ## The following strings are used in the Download section of settings
 
@@ -2280,3 +2282,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Бас тарту
 preferences-ai-controls-block-confirmation-confirm =
     .label = Блоктау
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = Бақылаудан кеңейтілген қорғаныс іске қосулы
+security-privacy-status-problem-helper-label = Мәселелерді қарау

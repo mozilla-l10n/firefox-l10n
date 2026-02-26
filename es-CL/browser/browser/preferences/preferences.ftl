@@ -566,9 +566,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo de contenido
     .accesskey = T
+applications-type-heading = Tipo de contenido
 applications-action-column =
     .label = Acción
     .accesskey = A
+applications-action-heading = Acción
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Archivo { $extension }
@@ -1045,6 +1047,8 @@ search-one-click-desc = Elegir los motores de búsqueda alternativos que aparece
 search-one-click-header-3 =
     .label = Motores de búsqueda adicionales
     .description = Elige que motores y atajos aparecen en tu barra de direcciones.
+update-search-engine-success =
+    .message = Motor de búsqueda actualizado correctamente
 search-choose-engine-column =
     .label = Motor de búsqueda
 search-choose-keyword-column =

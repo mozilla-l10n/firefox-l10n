@@ -580,3 +580,6 @@ onboarding-refresh-import-subtitle = Trae tus contraseñas, marcadores, historia
 onboarding-refresh-import-title = Haz que { -brand-short-name } se sienta más como en casa
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Dale un impulso a tu navegación
+onboarding-refresh-sync-title = Ve a cualquier parte. Sincroniza todo.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
