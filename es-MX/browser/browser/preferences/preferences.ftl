@@ -2105,6 +2105,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 certs-description2 =
     .label = Certificados
     .description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
+certs-description3 =
+    .label = Certificados
+    .description = Configura los certificados que { -brand-short-name } utiliza para verificar conexiones seguras.
+certs-view2 =
+    .label = Administrar certificados
+    .accesskey = C
+certs-devices2 =
+    .label = Administrar dispositivos de seguridad
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2134,6 +2143,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = El sistema de nombres de dominio sobre HTTPS (DoH) encripta las búsquedas de sitios, por lo que es más difícil para tu proveedor de Internet u otros ver qué sitios web estás a punto de visitar.
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y hace más difícil que otros vean que sitio web estás tratando de acceder.
 preferences-doh-description2 = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que entrega un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:
@@ -2189,6 +2201,28 @@ preferences-doh-exceptions-description = { -brand-short-name } no usará DNS seg
 preferences-doh-manage-exceptions =
     .label = Administrar excepciones…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protección predeterminada
+    .description = Utiliza DNS seguro en las regiones donde esté disponible.
+preferences-doh-overview-custom =
+    .label = Personalizar
+    .description = Utiliza siempre un DNS seguro con control sobre tu proveedor y comportamiento de respaldo.
+preferences-doh-advanced-button =
+    .label = Ajustes avanzados
+preferences-doh-manage-exceptions2 =
+    .label = Administrar excepciones
+    .accesskey = x
+preferences-doh-status-item-off =
+    .message = El DNS sobre HTTPS está desactivado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = El DNS sobre HTTPS no funciona porque encontramos un error { $reason } al intentar usar el proveedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = El DNS sobre HTTPS no funciona porque recibimos una URL no válida ({ $reason })
 
 ## The following strings are used in the Download section of settings
 
@@ -2242,11 +2276,13 @@ preferences-ai-controls-state-description-available = <strong>Disponible:</stron
 preferences-ai-controls-state-description-enabled = <strong>Habilitada:</strong> Has optado por utilizar la función.
 preferences-ai-controls-state-description-blocked = <strong>Bloqueada:</strong> No verás ni podrás usar la funcionalidad. Para la IA en el dispositivo, se eliminarán los modelos ya descargados.
 preferences-ai-controls-block-confirmation-heading = ¿Bloquear las mejoras de la IA?
+preferences-ai-controls-block-confirmation-description = No verás mejoras de IA nuevas ni actuales en { -brand-short-name }, ni ventanas emergentes sobre ellas. Después, puedes desbloquear lo que quieras seguir usando.
 preferences-ai-controls-block-confirmation-translations = Traducciones
 preferences-ai-controls-block-confirmation-pdfjs = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugerencias de grupos de pestañas
 preferences-ai-controls-block-confirmation-key-points = Puntos clave en las vistas previas de enlaces
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Proveedores de chatbots en la barra lateral
+preferences-ai-controls-block-confirmation-features-after = El bloqueo también afecta a las extensiones que utilizan IA proporcionada por { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
