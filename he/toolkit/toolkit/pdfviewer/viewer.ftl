@@ -652,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = החלפת תצוגת סרגל צד
 pdfjs-views-manager-sidebar =
     .aria-label = סרגל צד
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = שינוי גודל סרגל הצד
 pdfjs-views-manager-view-selector-button =
     .title = תצוגות
 pdfjs-views-manager-view-selector-button-label = תצוגות
@@ -710,6 +712,7 @@ pdfjs-views-manager-status-undo-button-label = ביטול פעולה
 pdfjs-views-manager-status-close-button =
     .title = סגירה
 pdfjs-views-manager-status-close-button-label = סגירה
+pdfjs-views-manager-paste-button-label = הדבקה
 
 ## Main menu for adding/removing signatures
 

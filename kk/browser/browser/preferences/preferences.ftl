@@ -2239,6 +2239,15 @@ preferences-doh-manage-exceptions =
     .accesskey = р
 preferences-doh-select-resolver-label =
     .label = Провайдерді таңдау:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = DNS over HTTPS арқылы шешу үшін осы провайдерді қолдану.
+preferences-doh-custom-provider-label =
+    .aria-label = Таңдауыңызша провайдердің URL сілтемесін енгізу
+preferences-doh-header2 =
+    .heading = HTTPS арқылы DNS
 
 ## The following strings are used in the Download section of settings
 
@@ -2307,7 +2316,11 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } сақшылықта
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } кейбір қауіпсіздікті жақсартуларын ұсынады
 security-privacy-status-ok-label = Бақылаудан кеңейтілген қорғаныс іске қосулы
+security-privacy-status-problem-label = Біз сіздің қорғанысыңызға әсер ететін параметрлерді таптық
 security-privacy-status-problem-helper-label = Мәселелерді қарау
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } жаңарту

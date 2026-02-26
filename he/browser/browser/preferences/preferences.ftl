@@ -2352,6 +2352,17 @@ preferences-doh-status-item-not-active-local =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
     .message = ‏DNS על גבי HTTPS משתמש בספק המקומי { $name }
+preferences-doh-select-resolver-label =
+    .label = בחירת ספק:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = שימוש בספק זה כדי לפענח DNS על גבי HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = נא להכניס כתובת ספק מותאם אישית
+preferences-doh-header2 =
+    .heading = ‏DNS על גבי HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2417,6 +2428,16 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ביטול
 preferences-ai-controls-block-confirmation-confirm =
     .label = חסימה
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = ‏{ -brand-short-name } עומד על המשמר
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = ‏{ -brand-short-name } ממליץ על מספר שיפורי אבטחה
+security-privacy-status-ok-label = הגנת מעקב מתקדמת פעילה
+security-privacy-status-problem-label = מצאנו הגדרות המשפיעות על ההגנה שלך
+security-privacy-status-problem-helper-label = הצגת הסוגיות
+security-privacy-status-pending-trackers-label = מחפש כמה רכיבי מעקב { -brand-short-name } חסם בחודש האחרון
 
 ## Enhanced Tracking Protection (ETP) status section
 

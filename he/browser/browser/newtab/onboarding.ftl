@@ -540,3 +540,6 @@ onboarding-refresh-onboarding-addons-subtitle = הרחבות הן יישומונ
 onboarding-refresh-onboarding-addons-title = שיפור חווית הגלישה שלך
 onboarding-refresh-sync-subtitle = ניתן לקבל את הסימניות, הססמאות ועוד בכל מקום שבו מחוברים ל־{ -brand-short-name }. בנוסף, הנתונים שלך מוצפנים כך שרק לך יש את האפשרות לראות אותם.
 onboarding-refresh-sync-title = ללכת לכל מקום. לסנכרן הכל.
+onboarding-refresh-gratitude-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, הדפדפן העיקרי היחידי המגובה על־ידי עמותה שאינה למטרות רווח. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } מאחוריך
