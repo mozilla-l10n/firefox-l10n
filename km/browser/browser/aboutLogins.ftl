@@ -426,6 +426,7 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ការចូល​ដែល​ស្ទួនគ្នា</div> <div data-l10n-name="not-imported">(not imported)</div>
     }
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ពាក្យសម្ងាត់ថ្មីត្រូវបានបន្ថែម</div>
 about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ទិន្នន័យស្ទួន</div> <div data-l10n-name="not-imported">(មិនបាននាំចូលទេ)</div>
 about-logins-import-report-error =
     { $count ->
