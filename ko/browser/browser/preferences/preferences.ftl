@@ -786,11 +786,20 @@ network-proxy-connection-learn-more = 더 알아보기
 network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
+network-proxy-group2 =
+    .label = 프록시 설정
+    .description = { -brand-short-name }가 인터넷에 연결되는 방법을 구성합니다.
+network-proxy-connection-settings2 =
+    .label = 프록시 구성
+    .description = 이 설정을 변경하면 연결 문제가 발생할 수 있음
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = 새 창과 탭
 home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 때 표시되는 것을 선택하세요.
+home-section =
+    .heading = 홈과 시작
 
 ## Home Section - Default Browser
 
@@ -1047,6 +1056,14 @@ search-one-click-header-3 =
     .description = 주소 표시줄에 표시할 검색 엔진과 바로 가기를 선택하세요.
 update-search-engine-success =
     .message = 검색 엔진 업데이트 완료
+search-edit-engine-2 =
+    .title = 검색 엔진 편집
+search-delete-engine =
+    .title = 검색 엔진 삭제
+search-enable-engine =
+    .title = 검색 엔진 사용
+search-outlink-to-extensions-page =
+    .title = 확장 기능 및 테마에서 관리
 search-choose-engine-column =
     .label = 검색 엔진
 search-choose-keyword-column =
@@ -1598,6 +1615,11 @@ history-remember-label = { -brand-short-name }가
     .accesskey = w
 history-remember-option-all =
     .label = 기록을 기억함
+history-remember-option-never2 =
+    .label = 기록을 기억 안 함
+    .description = 모든 창은 사생활 보호 창처럼 작동합니다. 켜져 있으면 확장 기능을 허용해야 합니다.
+history-remember-option-custom2 =
+    .label = 기록 사용자 지정
 history-remember-option-never =
     .label = 기록을 기억 안 함
 history-remember-option-custom =
@@ -1640,6 +1662,11 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 기록 지우기…
     .accesskey = s
+history-header2 =
+    .heading = 기록
+history-section-header =
+    .label = 기록
+    .description = 브라우저를 닫을 때 { -brand-short-name }가 기억할 항목을 선택하세요.
 history-group =
     .label = 기록
 
