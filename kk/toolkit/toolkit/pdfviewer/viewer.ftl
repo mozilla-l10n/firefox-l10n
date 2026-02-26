@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = { $page } парағы үшін кіші көрінісі
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = { $page } бетін таңдау
 
 ## Find panel button title and messages
 
@@ -648,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Бүйір панелін көрсету/жасыру
 pdfjs-views-manager-sidebar =
     .aria-label = Бүйір панелі
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Бүйір панелінің өлшемін өзгертуші
 pdfjs-views-manager-view-selector-button =
     .title = Көріністер
 pdfjs-views-manager-view-selector-button-label = Көріністер

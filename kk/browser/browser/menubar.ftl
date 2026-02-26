@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Баптаулар
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Баптаулар…
 menu-application-services =
     .label = Қызметтер
 menu-application-hide-this =

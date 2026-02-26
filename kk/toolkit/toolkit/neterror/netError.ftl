@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = URL адресін HTTPS-�
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Кейде веб-сайттар өздерін басқа сайттармен қажетсіз әрекеттесуден қорғау үшін арнайы қорғаныстарды орнатады.
 fp-learn-more-about-https-connections = HTTPS байланысы туралы біліңіз
+fp-neterror-vpn-error-title = VPN-ге қосылу мүмкін болмады
+fp-neterror-vpn-error-description = Бірнеше минуттан кейін қайталап көріңіз.
