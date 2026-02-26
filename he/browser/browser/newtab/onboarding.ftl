@@ -499,6 +499,7 @@ restore-from-backup-secondary-top-button = שחזור מגיבוי
 restore-from-backup-title = בואו נחזיר את { -brand-short-name } למצב הקודם כמו שאהבת
 restore-from-backup-subtitle = שחזור כל הסימניות, ההיסטוריה ונתונים האחרים שלך כדי לחזור לגלוש.
 restore-from-backup-secondary-button = לא לשחזר
+multiple-backups-info-tile = <strong>נמצאו מספר קuבצי גיבוי.</strong> הקובץ העדכני ביותר נבחר. ניתן לשחזר פרופילים אחרים ב<a data-l10n-name="settings-label">הגדרות.</a>
 
 ## Restored from Backup spotlight
 

@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = מ
 non-technical-privacy-group =
     .label = העדפות פרטיות של אתרים
+do-not-track-removal3 =
+    .message = איננו תומכים עוד באפשרות ”נא לא לעקוב”.
+non-technical-privacy-heading =
+    .label = הגנות נוספות
+preferences-privacy-relay-available =
+    .label = להציע מסכות דוא״ל של { -relay-brand-name }
+    .description = הסתרת כתובת הדוא״ל האמיתית שלך כדי להגן על תיבת הדואר הנכנס שלך מפני דואל זבל.
 non-technical-privacy-header = העדפות פרטיות של אתרים
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = שימוש בהגדרות מערכת ההפעלה שלך עבור ״{ $localeName }״ כדי לעצב תאריכים, זמנים, מספרים ומידות.
+settings-spellcheck-header =
+    .label = בדיקת איות
 check-user-spelling =
     .label = בדיקת איות תוך כדי הקלדה
     .accesskey = ב
+spellcheck-download-dictionaries =
+    .label = הורדת מילונים
 
 ## General Section - Files and Applications
 

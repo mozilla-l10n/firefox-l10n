@@ -152,6 +152,12 @@ autofill-card-expires-month = חודש תפוגה
 autofill-card-expires-year = שנת תפוגה
 autofill-card-billing-address = כתובת חיוב
 autofill-card-network = סוג כרטיס
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = כרטיס אשראי, כרטיסי אשראי, אשראי, כרטיסים, כרטיסי דביט, דביט, חיוב, ארנק, קופה
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

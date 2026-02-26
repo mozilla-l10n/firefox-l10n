@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Gjenopprett fra sikkerhetskopi
 restore-from-backup-title = La oss få { -brand-short-name } tilbake slik du liker det
 restore-from-backup-subtitle = Gjenopprett alle bokmerkene, historikken og andre data for å komme tilbake til nettlesing.
 restore-from-backup-secondary-button = Ikke gjenopprett
+multiple-backups-info-tile = <strong>Flere sikkerhetskopifiler funnet.</strong> Den nyeste filen er valgt. Gjenopprett andre profiler i <a data-l10n-name="settings-label">Innstillinger</a>.
 
 ## Restored from Backup spotlight
 

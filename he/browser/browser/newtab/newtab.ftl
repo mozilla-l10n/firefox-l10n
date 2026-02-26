@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = ניקוי טקסט
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ביטול

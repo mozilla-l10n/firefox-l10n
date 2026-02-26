@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = Egendefinert bilde-URL
 newtab-topsites-use-image-link = Bruk et egendefinert bilde…
 newtab-topsites-image-validation = Kunne ikke lese inn bildet. Prøv en annen URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Fjern tekst
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Avbryt

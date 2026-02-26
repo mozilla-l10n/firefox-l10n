@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Website Creator
 more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = למידה של פיתוח אתרים בעזרת מדריכים מקיפים חינמיים.
 more-from-moz-mdn-button = למידה של פיתוח אתרים
+more-from-moz-mdn-title2 = { -mdn-brand-name }

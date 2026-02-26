@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = נא לבחור בלשונית להוספה לתצוגה המפוצלת
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = תוצאות חיפוש עבור ״{ $query }״

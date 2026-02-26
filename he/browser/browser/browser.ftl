@@ -1185,6 +1185,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = חלון פרטי חדש
     .tooltiptext = פתיחת חלון גלישה פרטית חדש ({ $shortcut })
+toolbar-button-share-tab =
+    .label = שיתוף
+    .tooltiptext = שיתוף דף זה
 
 ## EME notification panel
 

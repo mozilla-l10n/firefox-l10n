@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = o
 non-technical-privacy-group =
     .label = Nettstedets personverninnstillinger
+do-not-track-removal3 =
+    .message = Vi støtter ikke lenger «Ikke spor»-funksjonen
+non-technical-privacy-heading =
+    .label = Ytterligere beskyttelse
+preferences-privacy-relay-available =
+    .label = Foreslå e-postalias fra { -relay-brand-name }
+    .description = Skjuler den virkelige e-postadressen din for å beskytte innboksen mot uønsket e-post (spam).
 non-technical-privacy-header = Nettstedets personverninnstillinger
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Bruk operativsysteminnstillingene for «{ $localeName }» for å formatere datoer, klokkeslett, tall og målinger.
+settings-spellcheck-header =
+    .label = Stavekontroll
 check-user-spelling =
     .label = Kontroller staving mens du skriver
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Last ned ordbøker
+spellcheck-promo =
+    .heading = Slik bruker du stavekontroll
+    .message = Høyreklikk i et tekstfelt for å slå stavekontroll på eller av, eller for å endre språk. Ikke alle felt støtter stavekontroll.
 
 ## General Section - Files and Applications
 
