@@ -706,6 +706,7 @@ pdfjs-views-manager-status-undo-button-label = Angre
 pdfjs-views-manager-status-close-button =
     .title = Lat att
 pdfjs-views-manager-status-close-button-label = Lat att
+pdfjs-views-manager-paste-button-label = Lim inn
 
 ## Main menu for adding/removing signatures
 

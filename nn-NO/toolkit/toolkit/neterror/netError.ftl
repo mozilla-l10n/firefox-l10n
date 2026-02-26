@@ -197,3 +197,4 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Prøv å endre URL-en til 
 fp-neterror-coop-coep-why-did-this-happen-body = Av og til set nettstadar opp vern for seg sjølve mot uønskte interaksjonar med andre nettstadar.
 fp-learn-more-about-https-connections = Lær om HTTPS-tilkoplingar
 fp-neterror-vpn-error-title = Klarte ikkje å kople til VPN
+fp-neterror-vpn-error-description = Prøv igjen om nokre minutt.
