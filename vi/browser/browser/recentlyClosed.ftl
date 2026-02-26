@@ -27,3 +27,12 @@ recently-closed-undo-close-window-label =
         [0] { $winTitle }
        *[other] { $winTitle } (và { $tabCount } thẻ khác)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+       *[other] { $winTitle } ({ $tabCount } thẻ, đã đóng lúc { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }

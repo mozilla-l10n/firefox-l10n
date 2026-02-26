@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Chọn một thẻ để thêm vào chế độ chia cửa sổ.
+opentabs-search-text-box =
+    .placeholder = Tìm kiếm thẻ
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Kết quả tìm kiếm cho “{ $query }”

@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Tùy chỉnh
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Cài đặt…
 menu-application-services =
     .label = Dịch vụ
 menu-application-hide-this =

@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Tại sao trang web này 
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> có thể liên quan đến các hoạt động lừa đảo và gây hại.
 safeb-blocked-addon-page-error-desc3-override = <strong>Bạn có thể làm gì về điều đó?</strong>
 safeb-blocked-addon-page-error-desc4-override = Để ngăn chặn điều này xảy ra lần nữa, bạn có thể xóa hoặc vô hiệu hóa <strong>{ $addonName }</strong> từ about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Tìm hiểu thêm về bảo vệ khỏi tiện ích độc hại của { -brand-short-name }</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Tìm hiểu thêm về bảo vệ chống lừa đảo và phần mềm độc hại của { -brand-short-name }</a>.

@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Hãy luôn ghi
 experimental-features-semantic-history-search =
     .label = Tìm kiếm lịch sử theo ngữ nghĩa
 experimental-features-semantic-history-search-description = Sử dụng mô hình học máy (Machine Learning) cục bộ để đề xuất các mục từ lịch sử có liên quan đến tìm kiếm của bạn dựa trên sự hiểu biết ngôn ngữ tự nhiên trong thanh địa chỉ { -brand-product-name }. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Ghi chú thẻ
+experimental-features-tab-notes-description = Ghi chú tab là một tính năng thử nghiệm cho phép bạn thêm ghi chú dán vào các thẻ trình duyệt. Ghi lại ngữ cảnh, lời nhắc hoặc các bước tiếp theo để bạn có thể quay lại và nhớ lý do tại sao bạn đã mở thẻ đó. Chúng tôi rất mong nhận được phản hồi của bạn để tiếp tục cải thiện tính năng này. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
