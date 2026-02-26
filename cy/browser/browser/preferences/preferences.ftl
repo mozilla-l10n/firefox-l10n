@@ -2344,6 +2344,15 @@ preferences-doh-manage-exceptions2 =
     .accesskey = e
 preferences-doh-status-item-off =
     .message = Mae DNS dros HTTPS i ffwrdd
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = Dyw DNS dros HTTPS ddim yn gweithio oherwydd i ni ddod ar draws y gwall ( { $reason } ) wrth geisio defnyddio'r darparwr { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = Dyw DNS dros HTTPS ddim yn gweithio oherwydd i ni dderbyn URL annilys ( { $reason } )
 
 ## The following strings are used in the Download section of settings
 
@@ -2409,3 +2418,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Diddymu
 preferences-ai-controls-block-confirmation-confirm =
     .label = Rhwystro
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reset-standard-button =
+    .label = Ailosod i'r safonol

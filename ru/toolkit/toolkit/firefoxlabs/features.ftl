@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Держите
 experimental-features-semantic-history-search =
     .label = Поиск по истории семантики
 experimental-features-semantic-history-search-description = Используйте локальную модель машинного обучения, чтобы предлагать записи из истории, связанные с вашими поисковыми запросами, на основе обычного языка в адресной строке { -brand-product-name }. <a data-l10n-name="connect">Поделитесь отзывом</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Примечания для вкладок
+experimental-features-tab-notes-description = Примечания для вкладок — это экспериментальная функция, которая позволяет добавлять примечания для вкладок вашего браузера. Записывайте контекст, напоминания или следующие шаги, чтобы вы могли вернуться и вспомнить, почему вы её открыли. Мы будем рады вашему отзыву, так как мы продолжаем улучшать эту функцию. <a data-l10n-name="connect">Поделитесь отзывом</a>

@@ -2344,6 +2344,21 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = DNS через HTTPS не работает, потому что мы получили некорректный URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS через HTTPS использует провайдера { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS через HTTPS не работает, так как мы столкнулись с ошибкой ({ $reason }) при попытке использовать провайдера { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS через HTTPS использует местного провайдера { $name }
+preferences-doh-select-resolver-label =
+    .label = Выбрать провайдера:
 
 ## The following strings are used in the Download section of settings
 
@@ -2452,3 +2467,21 @@ security-privacy-issue-warning-third-party-cookies =
 security-privacy-issue-warning-password-manager =
     .label = Управление паролями отключено
     .description = Менеджеры паролей помогут вам сохранить надёжные пароли для ваших аккаунтов.
+security-privacy-issue-warning-popup-blocker =
+    .label = Блокировщик всплывающих окон отключён
+    .description = Всплывающие окна мешают работе и потенциально опасны.
+security-privacy-issue-warning-extension-install =
+    .label = Веб-сайты могут устанавливать расширения
+    .description = Веб-сайты могут устанавливать расширения в { -brand-short-name } без запроса.
+security-privacy-issue-warning-safe-browsing =
+    .label = Опасное и обманывающее содержимое не блокируется
+    .description = Повышается ваша подверженность мошенничеству и вредоносному ПО с веб-сайтов.
+security-privacy-issue-warning-doh =
+    .label = DNS через HTTPS отключён
+    .description = DNS через HTTPS скрывает от вашего сетевого провайдера, какие сайты вы посещаете.
+security-privacy-issue-warning-ech =
+    .label = Зашифрованное приветствие клиента отключено
+    .description = Зашифрованное приветствие клиента (ECH) скрывает от вашего сетевого провайдера, какие сайты вы посещаете.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Автонастройка прокси включена
+    .description = Автоматическая настройка прокси может позволить ненадежным сетям отслеживать вашу активность.

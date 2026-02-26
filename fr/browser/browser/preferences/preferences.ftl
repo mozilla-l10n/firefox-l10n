@@ -2431,10 +2431,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 security-privacy-status-ok-header = { -brand-short-name } monte la garde
 # This is the header above a section telling the user about problems in their settings
-security-privacy-status-problem-header = { -brand-short-name } recommande des améliorations de sécurité
+security-privacy-status-problem-header = { -brand-short-name } recommande des améliorations en matière de sécurité
 security-privacy-status-ok-label = La protection renforcée contre le pistage est activée
-security-privacy-status-problem-label = Nous avons trouvé des paramètres qui affectent votre protection
-security-privacy-status-problem-helper-label = Afficher les problèmes
+security-privacy-status-problem-label = Nous avons identifié des paramètres qui affectent votre protection
+security-privacy-status-problem-helper-label = Voir les problèmes
 security-privacy-status-pending-trackers-label = Recherche du nombre de traqueurs { -brand-short-name } bloqués au cours du mois dernier
 # This label tells the user how many trackers we have blocked for them.
 # Variables:

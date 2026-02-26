@@ -530,9 +530,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Eiporu ñemboheko nde apopyvusu oku’éva pegua “{ $localeName }” emonandi hag̃ua ára, aravo, papapy ha ha’ãha.
+settings-spellcheck-header =
+    .label = Jehaipy ñemoĩporã
 check-user-spelling =
     .label = Haingatu jehaikuévo jehechajey
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Emboguejy ñe’ẽryruita
+spellcheck-promo =
+    .heading = Mba’éicha eiporúta ñe’ẽ jehaiporãha
+    .message = Eikutu akatúa gotyo moñe’ẽrã korápe emyandy térã embogue hag̃ua ñe’ẽ jehaiporãha térã emoambuévo ñe’ẽ. Ndaopvavéi kora omoneĩ ñe’ẽ jehaiporãha.
 
 ## General Section - Files and Applications
 
@@ -795,6 +802,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Ovetã ha tendayke pyahu
 home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue iporãvévape, ovetã ha tendayke pyahúpe.
+home-section =
+    .heading = Moñepyrũ ha jeku’e
 
 ## Home Section - Default Browser
 
@@ -1055,6 +1064,8 @@ search-one-click-header-3 =
     .description = Embojuaju hekaha mongu’eha ha jeike pya’eha ojekuaa nde kundaharape rupápe.
 update-search-engine-success =
     .message = Jehekaha mongu’eha hekopyahu hekopete
+search-edit-engine-2 =
+    .title = Embosako’i hekaha mongu’eha
 search-choose-engine-column =
     .label = Jehekaha
 search-choose-keyword-column =

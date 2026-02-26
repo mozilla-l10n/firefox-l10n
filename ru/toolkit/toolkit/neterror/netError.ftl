@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Попробуйте см�
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Иногда веб-сайты устанавливают для себя защиту от нежелательного взаимодействия с другими сайтами.
 fp-learn-more-about-https-connections = Узнайте о HTTPS-соединениях
+fp-neterror-vpn-error-title = Не удалось подключиться к VPN
+fp-neterror-vpn-error-description = Попробуйте снова через несколько минут.
