@@ -934,6 +934,14 @@ urlbar-searchmode-default =
     .tooltiptext = Bilaketa-motor lehenetsia
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Oraingoan, bilatu honekin:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Bilatu honekin:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.

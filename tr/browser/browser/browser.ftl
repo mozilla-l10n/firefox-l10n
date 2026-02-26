@@ -936,6 +936,14 @@ urlbar-searchmode-default =
     .tooltiptext = Varsayılan arama motoru
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Burada ara:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Bununla ara:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Burada ara:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.

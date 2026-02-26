@@ -902,6 +902,10 @@ urlbar-searchmode-default =
     .tooltiptext = Mesin pencari baku
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Kali ini, cari dengan:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Kali ini, cari dengan:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Setelan Pencarian

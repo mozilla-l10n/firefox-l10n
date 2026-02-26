@@ -636,6 +636,13 @@ urlbar-result-action-copy-to-clipboard = Копирај
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -662,6 +669,10 @@ urlbar-searchmode-actions =
     .label = Радње
 urlbar-searchmode-exit-button =
     .tooltiptext = Затвори
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Овај пут претражи користећи:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Овај пут претражи користећи:
@@ -983,6 +994,9 @@ tabs-toolbar-list-all-tabs =
     .label = Прикажи све картице
     .tooltiptext = Прикажи све картице
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1032,6 +1046,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Додаци
         Неки додаци нису дозвољени
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1127,9 +1145,15 @@ file-picker-crashed-save-nowhere = Windows дијалошки оквир за и
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-blocker-see-all = Прикажи све
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

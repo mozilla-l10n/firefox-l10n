@@ -918,6 +918,10 @@ urlbar-searchmode-default =
     .tooltiptext = Maschina da tschertgar predefinida
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Per questa giada, tschertgar cun:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parameters da tschertga

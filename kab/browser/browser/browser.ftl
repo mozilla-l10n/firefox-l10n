@@ -885,6 +885,10 @@ urlbar-searchmode-default =
     .tooltiptext = Amsedday n unadi amezwer
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Tikkelt-a, nadi s:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Iɣewwaren n unadi
@@ -1216,6 +1220,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1299,6 +1306,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 

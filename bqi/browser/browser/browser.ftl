@@ -568,6 +568,9 @@ browser-tab-unblock =
        *[other] پشک { $count } بلگه
     }
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -591,6 +594,9 @@ popup-all-windows-shared = پوی نیمدری یلی ک انیرین یک رس�
 
 sharing-warning-proceed-to-tab =
     .label = رئڌن و بلگه
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
@@ -852,6 +858,14 @@ urlbar-searchmode-default =
     .tooltiptext = موتور پیتینیڌن پؽش فرز
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = ای کرت پیتینیڌن وا:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = پیتینیڌن وا:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = ای کرت پیتینیڌن وا:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
@@ -1023,6 +1037,9 @@ save-to-pocket-button =
     .label = زفت کردن من { -pocket-brand-name }
     .tooltiptext = زفت کردن من { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -1104,6 +1121,10 @@ edit-popup-settings =
     .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی…
     .accesskey = M
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
 
 
@@ -1140,6 +1161,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = نومگهی کردن پوی بلگه یل
     .tooltiptext = نومگهی کردن پوی بلگه یل
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1216,6 +1240,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ای بلگه ن ز آل�
 refresh-blocked-allow =
     .label = هشتن
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 

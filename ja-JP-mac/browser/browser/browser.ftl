@@ -917,6 +917,14 @@ urlbar-searchmode-exit-button =
     .tooltiptext = 閉じる
 urlbar-searchmode-default =
     .tooltiptext = デフォルト検索エンジン
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = 今回だけ使う検索エンジン:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = 検索エンジン:
 urlbar-searchmode-popup-description = 今回だけ使う検索エンジン:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
@@ -1508,7 +1516,6 @@ urlbar-trust-icon-notsecure-label = 安全でない
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
-trustpanel-blocker-section-header = このサイトでは <span>{ $count }</span> 個のトラッカーがブロックされました
 trustpanel-blocker-description = { -brand-product-name } は企業によるユーザー追跡を減らします。トラッキング防止をオンにすると、できるだけ多くのトラッカーをブロックします。
 trustpanel-blocked-header = { -brand-product-name } が以下のトラッカーをブロックしています:
 trustpanel-tracking-header = { -brand-product-name } はサイトが動作するように以下のトラッカーを許可しています:

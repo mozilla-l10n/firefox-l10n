@@ -921,6 +921,10 @@ urlbar-searchmode-default =
     .tooltiptext = Търсеща машина по подразбиране
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Този път търсете с:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Този път търсете с:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Настройки за търсене
@@ -1492,6 +1496,9 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

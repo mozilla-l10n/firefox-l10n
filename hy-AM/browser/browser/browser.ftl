@@ -623,6 +623,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Անջ. պաշտպանությունը ա/շրջանի համար
 
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -899,6 +902,14 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Փակել
 urlbar-searchmode-default =
     .tooltiptext = Սկզբնադիր որոնիչ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Այս անգամ որոնել հետևյալով՝
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Որոնել՝
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Այս անգամ որոնել հետևյալով՝

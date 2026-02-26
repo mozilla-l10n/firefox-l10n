@@ -1037,6 +1037,14 @@ urlbar-searchmode-default =
     .tooltiptext = Výchozí vyhledávač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Vyhledat pomocí:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Vyhledat pomocí:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Vyhledat pomocí:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.

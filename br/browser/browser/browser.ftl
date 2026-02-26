@@ -751,6 +751,13 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Paeroniet
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -779,6 +786,10 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Serriñ
 urlbar-searchmode-default =
     .tooltiptext = Lusker enklask dre ziouer
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Ar wech-mañ, klask gant:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
@@ -1103,11 +1114,17 @@ tabs-toolbar-list-all-tabs =
     .label = Roll an holl ivinelloù
     .tooltiptext = Roll an holl ivinelloù
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Digeriñ an ivinelloù kent?</strong> Gallout a rit assav hoc'h estez kent adalek al lañser arload { -brand-short-name } <img data-l10n-name="icon"/>, dindan Roll istor
 restore-session-startup-suggestion-button = Diskouez din penaos ober
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1145,6 +1162,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Askouezhioù
         Ul lodenn eus an askouezhioù n'int ket aotreet
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1243,9 +1264,19 @@ file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-clear = Skarzhañ
 trustpanel-clear-cookies-subview-button-cancel = Nullañ
 trustpanel-siteinformation-morelink = Muioc’h a ditouroù diwar-benn al lec’hienn
 trustpanel-blocker-see-all = Gwelet pep tra
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

@@ -934,6 +934,14 @@ urlbar-searchmode-default =
     .tooltiptext = Низоми ҷустуҷӯии пешфарз
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Ин дафъа бо зерин ҷустуҷӯ кунед:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Ҷустуҷӯ тавассути:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Ин дафъа бо зерин ҷустуҷӯ кунед:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
