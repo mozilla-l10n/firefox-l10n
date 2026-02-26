@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Websiteprivacyvoorkeuren
+do-not-track-removal3 =
+    .message = We ondersteunen de functie ‘Niet volgen’ niet meer.
+non-technical-privacy-heading =
+    .label = Aanvullende beschermingen
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name }-e-mailmaskers voorstellen
+    .description = Verbergt uw echte e-mailadres om uw Postvak IN te beschermen tegen spam.
 non-technical-privacy-header = Websiteprivacyvoorkeuren
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = De instellingen voor ‘{ $localeName }’ van uw besturingssysteem gebruiken om data, tijden, getallen en metingen op te maken.
+settings-spellcheck-header =
+    .label = Spellingscontrole
 check-user-spelling =
     .label = Uw spelling controleren tijdens het typen
     .accesskey = s
+spellcheck-download-dictionaries =
+    .label = Woordenboeken downloaden
+spellcheck-promo =
+    .heading = Spellingscontrole gebruiken
+    .message = Klik met uw rechtermuisknop op een tekstveld om spellingscontrole in of uit te schakelen of om de taal te wijzigen. Niet alle velden ondersteunen spellingscontrole.
 
 ## General Section - Files and Applications
 
@@ -784,11 +798,20 @@ network-proxy-connection-learn-more = Meer info
 network-proxy-connection-settings =
     .label = Instellingen…
     .accesskey = I
+network-proxy-group2 =
+    .label = Proxyinstellingen
+    .description = Configureren hoe { -brand-short-name } verbindt met het internet.
+network-proxy-connection-settings2 =
+    .label = Proxy configureren
+    .description = Wijzigen van deze instellingen kan verbindingsproblemen veroorzaken
+    .accesskey = P
 
 ## Home Section
 
 home-new-windows-tabs-header = Nieuwe vensters en tabbladen
 home-new-windows-tabs-description2 = Kies wat u ziet bij het openen van uw startpagina, nieuwe vensters, en nieuwe tabbladen.
+home-section =
+    .heading = Startpagina en opstarten
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1072,12 @@ search-one-click-header-3 =
     .description = Kies welke zoekmachines en snelkoppelingen in uw adresbalk verschijnen.
 update-search-engine-success =
     .message = Zoekmachine met succes bijgewerkt
+search-edit-engine-2 =
+    .title = Zoekmachine bewerken
+search-delete-engine =
+    .title = Zoekmachine verwijderen
+search-enable-engine =
+    .title = Zoekmachine inschakelen
 search-choose-engine-column =
     .label = Zoekmachine
 search-choose-keyword-column =

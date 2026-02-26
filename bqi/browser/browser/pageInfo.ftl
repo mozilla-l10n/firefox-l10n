@@ -106,6 +106,7 @@ not-set-date = ن دیاری
 media-img = شؽوات
 media-bg-img = پس زمینه
 media-border-img = هاشیه
+media-list-img = شنگ
 media-cursor = نشووݩ گر
 media-embed = و کار ناهاڌن
 media-link = آیکون
@@ -118,7 +119,42 @@ no-page-title =
     .value = بلگه بؽ عونوان:
 general-quirks-mode =
     .value = هالت قیر استاندارد
+media-select-folder = دوبلگه ای سی زفت کردن شؽوات پسند کۊنین
+media-unknown-not-cached =
+    .value = نامعلۊم (من ویرگه کش نؽ)
+permissions-use-default =
+    .label = و کار گرؽڌن مقدار پؽش فرز
 security-no-visits = ن
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] متا (1 تگ)
+           *[other] متا ({ $tags } تگ)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] ن
+        [one] هری، ی کرت
+       *[other] هری، { $visits } کرت
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

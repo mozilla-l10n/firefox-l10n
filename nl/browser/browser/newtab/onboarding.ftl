@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Herstellen vanuit reservekopie
 restore-from-backup-title = Laten we { -brand-short-name } terugkrijgen zoals u het wilt
 restore-from-backup-subtitle = Herstel al uw bladwijzers, geschiedenis en andere gegevens om terug te keren naar surfen.
 restore-from-backup-secondary-button = Niet herstellen
+multiple-backups-info-tile = <strong>Meerdere reservekopiebestanden gevonden.</strong> Het meest recente bestand is geselecteerd. Herstel andere profielen in <a data-l10n-name="settings-label">Instellingen.</a>
 
 ## Restored from Backup spotlight
 

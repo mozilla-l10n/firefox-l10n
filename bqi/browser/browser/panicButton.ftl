@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = گۊشیڌن ی نیمدری تمیس نۊ
 panic-button-undo-warning = ای کار وورگندنی نؽ.
 panic-button-forget-button =
     .label = ز ویر بوور!
@@ -25,3 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = پیگیری اخو:
+panic-button-delete-cookies = پاک کردن <strong>کۊکیا</strong> دیندایی
+panic-button-delete-history = پاک کردن <strong>ویرگار</strong> دیندایی
+panic-button-delete-tabs-and-windows = بستن پوی <strong>بلگه یل</strong> وو <strong>نیمدری یل</strong>
