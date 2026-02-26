@@ -9,4 +9,3 @@ opentabs-search-text-box =
 #   $query (String) - The search query used for searching through open tabs.
 opentabs-search-results-header =
     .heading = Risultati della ricerca di “{ $query }”
-

@@ -198,4 +198,3 @@ fp-neterror-coop-coep-why-did-this-happen-body = A volte i siti web proteggono s
 fp-learn-more-about-https-connections = Ulteriori informazioni sulle connessioni HTTPS
 fp-neterror-vpn-error-title = Impossibile connettersi alla VPN
 fp-neterror-vpn-error-description = Riprova tra qualche minuto.
-
