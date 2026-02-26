@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = 網站隱私權偏好設定
+do-not-track-removal3 =
+    .message = 我們不再支援「Do Not Track」功能
+non-technical-privacy-heading =
+    .label = 其他保護
+preferences-privacy-relay-available =
+    .label = 建議 { -relay-brand-name } 轉寄信箱
+    .description = 隱藏您的實際電子郵件地址，避免收到垃圾信。
 non-technical-privacy-header = 網站隱私權偏好設定
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -512,9 +519,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = 使用您作業系統的「{ $localeName }」語系來顯示日期、時間、數字、單位。
+settings-spellcheck-header =
+    .label = 拼字檢查
 check-user-spelling =
     .label = 打字時即時檢查拼字
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = 下載字典套件
+spellcheck-promo =
+    .heading = 如何進行拼字檢查
+    .message = 對文字欄位按右鍵，即可開關拼字檢察功能或更改語言。不是所有輸入欄位都支援拼字檢查。
 
 ## General Section - Files and Applications
 
@@ -772,11 +786,20 @@ network-proxy-connection-learn-more = 了解更多
 network-proxy-connection-settings =
     .label = 設定…
     .accesskey = e
+network-proxy-group2 =
+    .label = Proxy 設定值
+    .description = 設定 { -brand-short-name } 要如何連線到網際網路。
+network-proxy-connection-settings2 =
+    .label = 設定 Proxy
+    .description = 更改這些設定可能會造成連線問題
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = 新視窗與分頁
 home-new-windows-tabs-description2 = 選擇開啟首頁、新視窗和新分頁時要看到的內容。
+home-section =
+    .heading = 首頁與啟動
 
 ## Home Section - Default Browser
 
@@ -1037,6 +1060,12 @@ search-one-click-header-3 =
     .description = 選擇要在網址列顯示哪些搜尋引擎與捷徑。
 update-search-engine-success =
     .message = 已成功更新搜尋引擎
+search-edit-engine-2 =
+    .title = 編輯搜尋引擎
+search-delete-engine =
+    .title = 刪除搜尋引擎
+search-enable-engine =
+    .title = 啟用搜尋引擎
 search-choose-engine-column =
     .label = 搜尋引擎
 search-choose-keyword-column =
@@ -1630,8 +1659,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 清除瀏覽記錄…
     .accesskey = s
+history-header2 =
+    .heading = 瀏覽紀錄
+history-section-header =
+    .label = 瀏覽紀錄
+    .description = 選擇關閉瀏覽器時，{ -brand-short-name } 要記住哪些項目。
+history-custom-section-header =
+    .label = 進階設定
+    .description = 調整關閉瀏覽器時，{ -brand-short-name } 要記住哪些項目。
+history-custom-button =
+    .label = 選擇 { -brand-short-name } 要記住哪些項目
 history-group =
     .label = 瀏覽紀錄
+history-remember-option-all2 =
+    .label = 保留所有歷史記錄
 
 ## Privacy Section - Site Data
 
@@ -1639,6 +1680,10 @@ sitedata-header = Cookie 與網站資料
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = 正在計算網站資料與快取大小…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = 網站資料目前使用了 <strong>{ $value } { $unit }</strong> 磁碟空間。
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")

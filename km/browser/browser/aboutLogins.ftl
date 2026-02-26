@@ -369,6 +369,7 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-added2 = <span>ពាក្យសម្ងាត់ថ្មីត្រូវបានបន្ថែម៖</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-modified2 = <span>បច្ចុប្បន្នភាពទិន្នន័យដែលមានស្រាប់៖</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change2 = <span>រកឃើញទិន្នន័យស្ទួនគ្នា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(មិនទាន់បាននាំចូល)</span>
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>បញ្ហា៖</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
