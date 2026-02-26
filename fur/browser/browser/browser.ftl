@@ -921,6 +921,10 @@ urlbar-searchmode-default =
     .tooltiptext = Motôr di ricercje predefinît
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Cheste volte cîr cun:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Cheste volte cîr cun:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Impostazions ricercje
