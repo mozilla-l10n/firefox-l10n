@@ -810,6 +810,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = חלונות ולשוניות חדשים
 home-new-windows-tabs-description2 = ניתן לבחור מה יופיע בעת פתיחת דף הבית שלך, חלונות חדשים ולשוניות חדשות.
+home-section =
+    .heading = בית והפעלה
 
 ## Home Section - Default Browser
 
@@ -1070,6 +1072,14 @@ search-one-click-header-3 =
     .description = ניתן לבחור אילו מנועי חיפוש וקיצורי דרך יופיעו בשורת הכתובת שלך.
 update-search-engine-success =
     .message = מנוע החיפוש עודכן בהצלחה
+search-edit-engine-2 =
+    .title = עריכת מנוע חיפוש
+search-delete-engine =
+    .title = מחיקת מנוע חיפוש
+search-enable-engine =
+    .title = הפעלת מנוע חיפוש
+search-outlink-to-extensions-page =
+    .title = ניהול בהרחבות וערכות נושא
 search-choose-engine-column =
     .label = מנוע חיפוש
 search-choose-keyword-column =
@@ -1621,6 +1631,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = F
 history-remember-option-all =
     .label = ישמור היסטוריה
+history-remember-option-never2 =
+    .label = לעולם לא לשמור היסטוריה
+    .description = כל חלון פועל כמו חלון פרטי. כאשר אפשרות זו מופעלת, יש לאפשר הרחבות כדי שיפעלו.
+history-remember-option-custom2 =
+    .label = התאמה אישית של ההיסטוריה
 history-remember-option-never =
     .label = לעולם לא ישמור היסטוריה
 history-remember-option-custom =
@@ -1663,8 +1678,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = ניקוי היסטוריה…
     .accesskey = ה
+history-header2 =
+    .heading = היסטוריה
+history-section-header =
+    .label = היסטוריה
+    .description = בחירה בפריטים שברצונך ש־{ -brand-short-name } ישמור בעת סגירת הדפדפן.
+history-custom-section-header =
+    .label = הגדרות מתקדמות
+    .description = התאמה אישית של הפריטים שברצונך ש־{ -brand-short-name } ישמור בעת סגירת הדפדפן.
+history-custom-button =
+    .label = בחירה בפריטים שברצונך ש־{ -brand-short-name } ישמור
 history-group =
     .label = היסטוריה
+history-remember-option-all2 =
+    .label = לשמור היסטוריה
 
 ## Privacy Section - Site Data
 
@@ -1672,6 +1699,10 @@ sitedata-header = עוגיות ונתוני אתרים
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומטמון…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = אתרים משתמשים כעת ב־<strong>{ $value } { $unit }</strong> משטח הדיסק.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")

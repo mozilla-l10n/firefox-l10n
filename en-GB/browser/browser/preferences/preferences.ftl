@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Web Site Privacy Preferences
+do-not-track-removal3 =
+    .message = We no longer support the “Do Not Track” feature.
+non-technical-privacy-heading =
+    .label = Additional protections
+preferences-privacy-relay-available =
+    .label = Suggest { -relay-brand-name } email masks
+    .description = Hides your real email address to protect your inbox from spam.
 non-technical-privacy-header = Web Site Privacy Preferences
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Use your operating system settings for “{ $localeName }” to format dates, times, numbers, and measurements.
+settings-spellcheck-header =
+    .label = Spell check
 check-user-spelling =
     .label = Check your spelling as you type
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Download dictionaries
+spellcheck-promo =
+    .heading = How to use spell checking
+    .message = Right-click a text field to turn spell check on or off or to change the language. Not all fields support spell check.
 
 ## General Section - Files and Applications
 
@@ -784,11 +798,20 @@ network-proxy-connection-learn-more = Learn more
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
+network-proxy-group2 =
+    .label = Proxy settings
+    .description = Configure how { -brand-short-name } connects to the internet.
+network-proxy-connection-settings2 =
+    .label = Configure proxy
+    .description = Changing these settings may cause connections issues
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = New Windows and Tabs
 home-new-windows-tabs-description2 = Choose what you see when you open your homepage, new windows, and new tabs.
+home-section =
+    .heading = Home and startup
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1072,14 @@ search-one-click-header-3 =
     .description = Choose which search engines and shortcuts appear in your address bar.
 update-search-engine-success =
     .message = Search engine successfully updated
+search-edit-engine-2 =
+    .title = Edit search engine
+search-delete-engine =
+    .title = Delete search engine
+search-enable-engine =
+    .title = Enable search engine
+search-outlink-to-extensions-page =
+    .title = Manage in extensions and themes
 search-choose-engine-column =
     .label = Search Engine
 search-choose-keyword-column =
