@@ -2171,6 +2171,8 @@ security-enable-safe-browsing =
     .label = 封鎖危險及詐騙內容
     .accesskey = B
 security-enable-safe-browsing-link = 了解更多
+security-safe-browsing-warning =
+    .message = 關閉此功能將減少對詐騙、惡意網站，以及危險下載項目的保護。
 security-block-downloads =
     .label = 封鎖危險的下載項目
     .accesskey = D
@@ -2321,11 +2323,24 @@ preferences-doh-status-item-off =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active =
-    .message = 由於嘗試使用 { $name } 時遇到錯誤（{ $reason }），DNS over HTTPS 無法運作
+    .message = 由於嘗試使用提供者 { $name } 時遇到錯誤（{ $reason }），DNS over HTTPS 無法運作
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = 由於收到無效網址（{ $reason }），DNS over HTTPS 無法運作
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = 正在使用 { $name } 提供者的 DNS over HTTPS 服務
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = 由於嘗試使用本地提供者 { $name } 時遇到錯誤（{ $reason }），DNS over HTTPS 無法運作
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = 正在使用 { $name } 本地提供者的 DNS over HTTPS 服務
 preferences-doh-select-resolver-label =
     .label = 選擇提供者：
 # Variables:
@@ -2406,6 +2421,31 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } 警戒中
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } 建議進行某些安全性改進
+security-privacy-status-ok-label = 已開啟加強型追蹤保護
+security-privacy-status-problem-label = 我們發現會影響您保護的設定
+security-privacy-status-problem-helper-label = 檢視問題
+security-privacy-status-pending-trackers-label = 正在查詢 { -brand-short-name } 上個月封鎖了多少追蹤器
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label = 上個月封鎖了 { $trackerCount } 組追蹤器
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = 您開啟了<a data-l10n-name="strict-tracking-protection">嚴格保護</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = 您開啟了<a data-l10n-name="custom-tracking-protection">自訂保護</a>
+security-privacy-status-up-to-date-label = 您已經安裝最新、最安全的 { -brand-short-name }
+security-privacy-status-update-needed-label = 已推出新版的 { -brand-short-name }。
+security-privacy-status-update-error-label = { -brand-short-name } 更新時遇到問題
+security-privacy-status-update-checking-label = { -brand-short-name } 正在檢查更新
+security-privacy-status-update-needed-description = 獲得最新的速度、穩定性、安全性更新。
+security-privacy-status-update-button-label =
+    .label = 更新 { -brand-short-name }
+security-privacy-image-warning =
+    .alt = 一副加上驚嘆號的盾牌，表達對您的安全性警告的擔憂
+security-privacy-image-ok =
+    .alt = 一副打勾的盾牌，表示您目前沒有待處理的安全性問題
 security-privacy-issue-card =
     .heading = 安全性警告
 issue-card-reset-button =
@@ -2416,6 +2456,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = 加強型追蹤保護
+    .description = 網站會使用追蹤器在線上跟蹤您，並顯示可怕的廣告。{ -brand-short-name } 會在您上網時自動封鎖追蹤器，讓您可自行掌握自己的數位足跡。
 preferences-etp-level-standard =
     .label = 標準（預設）
     .description = 強大又可靠的保護機制，可順暢開啟大多數網站。
@@ -2441,6 +2484,8 @@ preferences-etp-reload-tabs-hint =
     .message = 重新載入分頁才能套用變更。
 preferences-etp-reload-tabs-hint-button =
     .label = 重新載入所有分頁
+preferences-etp-rfp-warning-message =
+    .message = 您開啟了 Resist Fingerprinting（RFP）功能，將蓋過 { -brand-short-name } 的部分數位指紋追蹤保護設定。此功能可能造成某些網站運作不正常。
 preferences-etp-level-warning-message =
     .heading = 注意！某些網站可能會無法正常運作。
     .message = 某些網站會直接在功能或內容當中建立追蹤器。當 { -brand-short-name } 封鎖追蹤器後，這些功能就會故障。可以嘗試使用「修正網站問題」功能或針對該網站關閉追蹤保護機制。

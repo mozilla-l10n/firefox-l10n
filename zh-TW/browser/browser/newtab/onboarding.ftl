@@ -531,6 +531,7 @@ restore-from-backup-secondary-top-button = 從備份還原
 restore-from-backup-title = 讓我們把 { -brand-short-name } 還原成您習慣的樣子
 restore-from-backup-subtitle = 還原您所有書籤、瀏覽紀錄與其他資料，即可繼續上網。
 restore-from-backup-secondary-button = 不要還原
+multiple-backups-info-tile = <strong>找到多個備份檔案。</strong>已選擇最新的備份檔，可到<a data-l10n-name="settings-label">設定</a>中還原其他的設定檔。
 
 ## Restored from Backup spotlight
 

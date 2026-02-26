@@ -53,7 +53,7 @@ helpus = ចង់​ជួយ?<label data-l10n-name="helpus-donateLink">ជួ�
 bottomLinks-license = ព័ត៌មាន​អាជ្ញាប័ណ្ណ
 bottom-links-terms = លក្ខខ័ណ្ឌប្រើប្រាស់
 bottom-links-privacy = ការជូនដំណឹង​ឯកជនភាព
-bottomLinks-rights = សិទ្ធិ​អ្នកប្រើ
+bottomLinks-rights = សិទ្ធិអ្នកប្រើចុងក្រោយ
 bottomLinks-privacy = គោលការណ៍​ភាព​ឯកជន
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
