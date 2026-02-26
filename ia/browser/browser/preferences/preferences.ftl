@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = v
 non-technical-privacy-group =
     .label = Preferentias de confidentialitate del sito
+do-not-track-removal3 =
+    .message = Le function “Non me traciar” non es plus supportate
 non-technical-privacy-heading =
     .label = Protectiones additional
 non-technical-privacy-header = Preferentias de confidentialitate del sito
@@ -790,11 +792,20 @@ network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
+network-proxy-group2 =
+    .label = Parametros de proxy
+    .description = Configurar como { -brand-short-name } se connecte a internet.
+network-proxy-connection-settings2 =
+    .label = Configurar le proxy
+    .description = Cambiar iste parametros pote causa problemas de connection
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Nove fenestras e schedas
 home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pagina initial, nove fenestras e nove schedas.
+home-section =
+    .heading = Pagina inizial e initialisation
 
 ## Home Section - Default Browser
 
@@ -1061,6 +1072,8 @@ search-delete-engine =
     .title = Deler motor de recerca
 search-enable-engine =
     .title = Activar motor de recerca
+search-outlink-to-extensions-page =
+    .title = Gere in estensiones e themas
 search-choose-engine-column =
     .label = Motor de recerca
 search-choose-keyword-column =
@@ -2233,6 +2246,17 @@ preferences-doh-exceptions-description = { -brand-short-name } non usara DNS sec
 preferences-doh-manage-exceptions =
     .label = Gerer exceptiones…
     .accesskey = x
+preferences-doh-advanced-button =
+    .label = Parametros avantiate
+preferences-doh-manage-exceptions2 =
+    .label = Gerer exceptiones
+    .accesskey = x
+preferences-doh-status-item-off =
+    .message = DNS super HTTPS es inactive
+preferences-doh-select-resolver-label =
+    .label = Eliger fornitor:
+preferences-doh-header2 =
+    .heading = DNS super HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2298,3 +2322,37 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancellar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blocar
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } es in alerta
+security-privacy-status-update-button-label =
+    .label = Actualisar { -brand-short-name }
+issue-card-reset-button =
+    .label = Reinitialisar
+issue-card-dismiss-button =
+    .tooltiptext = Ignorar
+    .aria-label = Ignorar
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Parametros avantiate
+preferences-etp-header =
+    .heading = Protection antitraciamento reinfortiate
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Contento traciante
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Contento traciante
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Cryptominatores
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Dactylogrammatores note
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Dactylogrammatores suspecte
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Dactylogrammatores suspecte

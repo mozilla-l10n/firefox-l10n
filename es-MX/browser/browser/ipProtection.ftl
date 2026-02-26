@@ -75,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN pausado
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Has usado { $maxUsage } GB de datos de tu VPN. El acceso se restablecerá el próximo mes.
 upgrade-vpn-title = Obtén protección adicional más allá del navegador
+upgrade-vpn-description = Elige la ubicación de tu VPN, usa VPN para todas tus aplicaciones y hasta 5 dispositivos y mantente seguro en cualquier red, en casa o en Wi-Fi público.
 upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
 
 ## Messages and errors
@@ -88,8 +89,20 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desacti
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = VPN incorporada para mejorar tu privacidad mientras navegas en { -brand-short-name }.
 ip-protection-learn-more = Saber más
 ip-protection-not-opted-in-button = Comenzar
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Administrar los ajustes del sitio web
+    .description =
+        { $count ->
+            [one] { $count } sitio web
+           *[other] { $count } sitios web
+        }
 ip-protection-autostart =
     .label = Activar VPN automáticamente
 

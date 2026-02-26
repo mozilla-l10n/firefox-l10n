@@ -706,6 +706,7 @@ pdfjs-views-manager-status-undo-button-label = Disfacer
 pdfjs-views-manager-status-close-button =
     .title = Clauder
 pdfjs-views-manager-status-close-button-label = Clauder
+pdfjs-views-manager-paste-button-label = Collar
 
 ## Main menu for adding/removing signatures
 
