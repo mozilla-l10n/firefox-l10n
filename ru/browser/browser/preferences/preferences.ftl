@@ -2436,7 +2436,7 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
-security-privacy-status-ok-header = { -brand-short-name } начеку
+security-privacy-status-ok-header = { -brand-short-name } на страже
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } рекомендует некоторые улучшения безопасности
 security-privacy-status-ok-label = Улучшенная защита от отслеживания включена
