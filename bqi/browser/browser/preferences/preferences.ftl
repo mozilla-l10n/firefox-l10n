@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = فشناڌن ی سیگنال «مونه رڌجۊری مکوݩ» سی وبگه یل اینترنتی ک ایسا نؽخۊین و دست هونووݩ رڌجۊری بۊین
+do-not-track-removal = ایما دی ز سیگنال «رڌجۊری نبۊوه» لادراری نؽکۊنیم
 do-not-track-learn-more = قلوه دووسته بۊین
 do-not-track-option-always =
     .label = هی

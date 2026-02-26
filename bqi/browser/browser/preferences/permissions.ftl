@@ -44,6 +44,16 @@ permission-dialog =
     .buttonlabelaccept = زفت آلشتکاریا
     .buttonaccesskeyaccept = S
 permissions-autoplay-menu = پؽش فرز سی پوی وبگه یل
+permissions-searchbox =
+    .placeholder = پیتینیڌن وبگه
+permissions-capabilities-autoplay-allow =
+    .label = هشتن آرنگ وو فیلم
+permissions-capabilities-autoplay-block =
+    .label = مسدۊد کردن آرنگ
+permissions-capabilities-autoplay-blockall =
+    .label = مسدۊد کردن آرنگ وو فیلم
+permissions-capabilities-allow =
+    .label = هشتن
 permissions-capabilities-block =
     .label = مسدۊد کردن
 permissions-capabilities-prompt =
@@ -59,6 +69,29 @@ permissions-capabilities-listitem-off =
 permissions-capabilities-listitem-off-temporarily =
     .value = کۊر وابیڌن مووقت
 
+## Invalid Hostname Dialog
+
+permissions-invalid-uri-title = نوم میزبووݩ زیڌه وابیڌه موعتبر نؽ
+permissions-invalid-uri-label = نوم میزبووݩ موعتبری بزنین
+
+## Exceptions - Tracking Protection
+
+permissions-exceptions-etp-window2 =
+    .title = استسنایل سی سیستوم زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
+    .style = { permissions-window2.style }
+
+## Exceptions - Cookies
+
+permissions-exceptions-cookie-window2 =
+    .title = استسنایل - کۊکیا وو داده یل وبگه
+    .style = { permissions-window2.style }
+
+## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window2 =
+    .title = مووردا استسنا - هالت تینا HTTPS
+    .style = { permissions-window2.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
@@ -66,3 +99,19 @@ permissions-site-notification-window2 =
     .style = { permissions-window2.style }
 permissions-site-notification-disable-label =
     .label = درخاستا نۊ سی هشتن وارسۊویا ن مسدۊد کۊنین
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
+permissions-doh-add-exception =
+    .label = ٱووردن
+    .accesskey = A
+permissions-doh-col =
+    .label = دامنه
+permissions-doh-remove =
+    .label = پاک کردن
+    .accesskey = R
+permissions-doh-remove-all =
+    .label = پاک کردن پوی
+    .accesskey = e
