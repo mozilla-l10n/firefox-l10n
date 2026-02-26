@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = URL을 HTTPS로 변경해 
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 때로는 웹 사이트가 다른 사이트와의 원치 않는 상호작용으로부터 스스로를 보호하기 위한 방어 장치를 마련하기도 합니다.
 fp-learn-more-about-https-connections = HTTPS 연결에 대해 알아보기
+fp-neterror-vpn-error-title = VPN에 연결할 수 없음
+fp-neterror-vpn-error-description = 몇 분 후 다시 시도하세요.

@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = 새 탭을 열
 experimental-features-semantic-history-search =
     .label = 의미 기록 검색
 experimental-features-semantic-history-search-description = { -brand-product-name } 주소 표시줄에 자연어 이해를 기반으로 한 검색과 관련된 기록에서 항목을 제안하기 위해 로컬 기계 학습 모델을 사용합니다. <a data-l10n-name="connect">의견 공유</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = 탭 메모
+experimental-features-tab-notes-description = 탭 메모는 브라우저 탭에 메모를 추가할 수 있는 실험적인 기능입니다. 배경 정보, 알림 사항 또는 다음 단계를 간단히 적어두면 나중에 다시 방문했을 때 해당 탭을 열었던 이유를 기억할 수 있습니다. 이 기능을 지속적으로 개선하는 데 여러분의 의견을 보내주세요. <a data-l10n-name="connect">의견 공유</a>

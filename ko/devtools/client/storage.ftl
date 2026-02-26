@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = 항목 추가​​
+storage-delete-all-button =
+    .title = 모두 삭제
 # Refresh button title
 storage-refresh-button =
     .title = 항목 새로 고침

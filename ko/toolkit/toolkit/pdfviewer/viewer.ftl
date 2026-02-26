@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = { $page } 페이지 미리보기
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = { $page } 페이지 선택
 
 ## Find panel button title and messages
 
@@ -632,6 +636,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = 사이드바 표시/숨기기
 pdfjs-views-manager-sidebar =
     .aria-label = 사이드바
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = 사이드바 크기 조정
 pdfjs-views-manager-view-selector-button =
     .title = 보기
 pdfjs-views-manager-view-selector-button-label = 보기
@@ -674,6 +680,7 @@ pdfjs-views-manager-status-undo-button-label = 실행 취소
 pdfjs-views-manager-status-close-button =
     .title = 닫기
 pdfjs-views-manager-status-close-button-label = 닫기
+pdfjs-views-manager-paste-button-label = 붙여넣기
 
 ## Main menu for adding/removing signatures
 
