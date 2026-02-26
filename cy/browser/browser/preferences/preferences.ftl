@@ -822,6 +822,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Ffenestri a Thabiau Newydd
 home-new-windows-tabs-description2 = Dewiswch beth fyddwch yn ei weld wrth i chi agor eich tudalen cartref, ffenestri newydd a thabiau newydd.
+home-section =
+    .heading = Cartref a chychwyn
 
 ## Home Section - Default Browser
 
@@ -1086,6 +1088,14 @@ search-one-click-header-3 =
     .description = Dewiswch ba beiriannau chwilio a llwybrau byr sy'n ymddangos yn eich bar cyfeiriad.
 update-search-engine-success =
     .message = Diweddarwyd y peiriant chwilio yn llwyddiannus
+search-edit-engine-2 =
+    .title = Golygu peiriant chwilio
+search-delete-engine =
+    .title = Dileu peiriant chwilio
+search-enable-engine =
+    .title = Galluogi peiriant chwilio
+search-outlink-to-extensions-page =
+    .title = Rheoli mewn estyniadau a themâu
 search-choose-engine-column =
     .label = Peiriannau Chwilio
 search-choose-keyword-column =
@@ -1637,6 +1647,11 @@ history-remember-label = Bydd { -brand-short-name } yn
     .accesskey = B
 history-remember-option-all =
     .label = Cofio hanes
+history-remember-option-never2 =
+    .label = Peidio cofio hanes
+    .description = Mae pob ffenestr yn ymddwyn fel ffenestr breifat. Pan ymlaen, rhaid caniatáu ffenestri.
+history-remember-option-custom2 =
+    .label = Cyfaddasu hanes
 history-remember-option-never =
     .label = Peidio â chofio hanes
 history-remember-option-custom =
@@ -1679,8 +1694,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Clirio Hanes…
     .accesskey = H
+history-header2 =
+    .heading = Hanes
+history-section-header =
+    .label = Hanes
+    .description = Dewiswch beth mae { -brand-short-name } i fod ei gofio wrth i chi gau'r porwr
+history-custom-section-header =
+    .label = Gosodiadau uwch
+    .description = Cyfaddasu beth mae { -brand-short-name } i fod ei gofio wrth i chi gau'r porwr
+history-custom-button =
+    .label = Dewis beth mae { -brand-short-name } i fod ei gofio
 history-group =
     .label = Hanes
+history-remember-option-all2 =
+    .label = Cofio hanes
 
 ## Privacy Section - Site Data
 
@@ -1691,17 +1718,27 @@ sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Mae gwefannau'n defnyddio <strong>{ $value } { $unit }</strong> o ofod disg ar hyn o bryd.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio <strong>{ $value } { $unit }</strong> o le ar ddisg ar hyn o bryd.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
 sitedata-learn-more = Darllen rhagor
+sitedata-delete-on-close2 =
+    .label = Clirio cwcis a data gwefan bob tro byddwch yn cau { -brand-short-name }
+    .accesskey = g
 sitedata-delete-on-close =
     .label = Dileu cwcis a data'r wefan pan fydd { -brand-short-name } yn cau
     .accesskey = D
 sitedata-delete-on-close-private-browsing3 =
     .message = Yn seiliedig ar eich gosodiadau hanes, mae { -brand-short-name } yn dileu cwcis a data gwefan o'ch sesiwn pan fyddwch yn cau'r porwr.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Bydd hanes ddim yn cael ei gadw.
+    .message = Mae { -brand-short-name } yn clirio cwcis a data gwefan o'ch sesiwn wrth i chi gau'r porwr.
 sitedata-delete-on-close-private-browsing = Yn y modd pori preifat parhaol, bydd cwcis a data'r wefan yn cael eu clirio bob tro pan fydd { -brand-short-name } yn cau.
 sitedata-delete-on-close-private-browsing2 = Yn seiliedig ar eich gosodiadau hanes, mae { -brand-short-name } yn dileu cwcis a data gwefan o'ch sesiwn pan fyddwch yn cau'r porwr.
 sitedata-allow-cookies-option =
@@ -1747,6 +1784,16 @@ sitedata-cookies-exceptions2 =
     .label = Rheoli eithriadau
     .accesskey = e
     .description = Gallwch bennu pa wefannau sy'n cael neu beidio cael defnyddio cwcis neu ddata gwefannau.
+sitedata-heading =
+    .label = Data pori
+    .description = Rheolwch eich cwcis, hanes, storfa, data gwefan a rhagor.
+sitedata-settings3 =
+    .label = Clirio data gwefannau penodol
+    .accesskey = w
+sitedata-cookies-exceptions3 =
+    .label = Rheoli eithriadau
+    .accesskey = e
+    .description = Dewis sur mae gwefannau penodol yn trin cwcis a data gwefannau.
 cookies-site-data-group =
     .label = Cwcis a Data Gwefan
 
@@ -2013,6 +2060,15 @@ permissions-block-popups2 =
     .accesskey = l
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Rheoli ailgyfeiriadau
+    .accesskey = a
+    .searchkeywords = llamlenni
+permissions-addon-install-warning3 =
+    .label = Dangos rhybudd pan fydd gwefannau'n ceisio gosod estyniadau
+    .accesskey = r
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Rheoli eithriadau ailgyfeirio llamlenni a thrydydd parti
     .accesskey = R
@@ -2058,6 +2114,9 @@ permissions-speaker2 =
     .label = Seinyddion
 permissions-notification2 =
     .label = Hysbysiadau
+permissions-header3 =
+    .label = Caniatâd
+    .description = Rheoli beth mae gwefannau'n gallu cael mynediad iddo, rheoli neu gychwyn.
 
 ## Privacy Section - Data Collection
 

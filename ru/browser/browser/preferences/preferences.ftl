@@ -1082,6 +1082,8 @@ search-delete-engine =
     .title = Удалить поисковую систему
 search-enable-engine =
     .title = Включить поисковую систему
+search-outlink-to-extensions-page =
+    .title = Управление в расширениях и темах
 search-choose-engine-column =
     .label = Поисковая система
 search-choose-keyword-column =
@@ -1633,6 +1635,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =
     .label = будет запоминать историю
+history-remember-option-never2 =
+    .label = Никогда не запоминать историю
+    .description = Каждое окно работает как приватное окно. Если включено, расширения должны быть разрешены.
+history-remember-option-custom2 =
+    .label = Настройка истории
 history-remember-option-never =
     .label = не будет запоминать историю
 history-remember-option-custom =
@@ -1675,8 +1682,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Удалить историю…
     .accesskey = л
+history-header2 =
+    .heading = История
+history-section-header =
+    .label = История
+    .description = Выберите то, что вы хотите { -brand-short-name } помнить при закрытии браузера.
+history-custom-section-header =
+    .label = Дополнительные настройки
+    .description = Настройте, что вы хотите, чтобы запоминал { -brand-short-name } при закрытии браузера.
+history-custom-button =
+    .label = Выберите, что вы хотите, чтобы запоминал { -brand-short-name }
 history-group =
     .label = История
+history-remember-option-all2 =
+    .label = Запоминать историю
 
 ## Privacy Section - Site Data
 
@@ -1687,17 +1706,27 @@ sitedata-total-size-calculating = Вычисление объёма данных
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Веб-сайты сейчас занимают <strong>{ $value } { $unit }</strong> на диске.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Ваши сохранённые куки, история, данные сайтов и кеш сейчас занимают на диске <strong>{ $value } { $unit }</strong>.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваши сохранённые куки, данные сайтов и кеш сейчас занимают на диске { $value } { $unit }.
 sitedata-learn-more = Подробнее
+sitedata-delete-on-close2 =
+    .label = Удалять куки и данные сайтов при каждом закрытии { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Удалять куки и данные сайтов при закрытии { -brand-short-name }
     .accesskey = д
 sitedata-delete-on-close-private-browsing3 =
     .message = Основываясь на ваших настройках истории, { -brand-short-name } удаляет куки и данные сайтов из вашей сессии, когда вы закрываете браузер.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = История не будет сохраняться.
+    .message = { -brand-short-name } удаляет куки и данные сайтов из вашего сеанса, когда вы закрываете браузер.
 sitedata-delete-on-close-private-browsing = В постоянном приватном режиме куки и данные сайтов всегда будут удаляться при закрытии { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Основываясь на ваших настройках истории, { -brand-short-name } удаляет куки и данные сайтов из вашей сессии, когда вы закрываете браузер.
 sitedata-allow-cookies-option =
@@ -1743,6 +1772,16 @@ sitedata-cookies-exceptions2 =
     .label = Управление исключениями
     .accesskey = Ч
     .description = Вы можете указать, каким веб-сайтам всегда разрешено или никогда не разрешено использовать куки и данные сайта.
+sitedata-heading =
+    .label = Данные просмотра
+    .description = Управляйте своими куками, историей, кэшем, данными веб-сайтов и пр.
+sitedata-settings3 =
+    .label = Удалять данные для выбранных сайтов
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Управление исключениями
+    .accesskey = x
+    .description = Выберите, как отдельные сайты обрабатывают куки и данные сайтов.
 cookies-site-data-group =
     .label = Куки и данные сайтов
 
@@ -2009,6 +2048,15 @@ permissions-block-popups2 =
     .accesskey = И
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Управление перенаправлениями
+    .accesskey = У
+    .searchkeywords = всплывающие окна
+permissions-addon-install-warning3 =
+    .label = Показывать предупреждение при попытке веб-сайтов установить расширения
+    .accesskey = Ц
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Управление исключениями для всплывающих окон и сторонних перенаправлений
     .accesskey = У
@@ -2054,6 +2102,9 @@ permissions-speaker2 =
     .label = Динамик
 permissions-notification2 =
     .label = Уведомления
+permissions-header3 =
+    .label = Разрешения
+    .description = Управляйте тем, к каким веб-сайтам можно получить доступ, контролировать их или запускать.
 
 ## Privacy Section - Data Collection
 
@@ -2128,6 +2179,9 @@ website-advertising-private-attribution-description = Это помогает с
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Защита
+browsing-protection-group2 =
+    .label = Защита от поддельного содержимого и вредоносных программ
+    .description = Опасные сайты и загрузки могут подвергнуть риску ваши данные и устройство. { -brand-short-name } автоматически блокирует их и предупреждает вас о рискованном или нежелательном программном обеспечении.
 security-browsing-protection = Поддельное содержимое и защита от вредоносных приложений
 security-enable-safe-browsing =
     .label = Блокировать опасное и обманывающее содержимое
