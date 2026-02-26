@@ -918,6 +918,14 @@ urlbar-searchmode-default =
     .tooltiptext = 기본 검색 엔진
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = 이번만 검색:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = 검색:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = 이번만 검색:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
