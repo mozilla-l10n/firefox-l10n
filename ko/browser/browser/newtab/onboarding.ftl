@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = 백업에서 복원
 restore-from-backup-title = { -brand-short-name }를 원하는 대로 되돌려 드립니다
 restore-from-backup-subtitle = 탐색을 재개하기 위해 모든 북마크, 방문 기록 및 기타 데이터를 복구하세요.
 restore-from-backup-secondary-button = 복원하지 않음
+multiple-backups-info-tile = <strong>여러 개의 백업 파일이 발견되었습니다.</strong> 가장 최근의 파일이 선택됩니다. 다른 프로필은 <a data-l10n-name="settings-label">설정</a>에서 복원하세요.
 
 ## Restored from Backup spotlight
 

@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = 웹 사이트 개인 정보 보호 설정
+do-not-track-removal3 =
+    .message = “추적 안 함” 기능은 더 이상 지원하지 않습니다.
+non-technical-privacy-heading =
+    .label = 추가 보호
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } 이메일 가리기 제안
+    .description = 받은편지함을 스팸으로부터 보호하기 위해 실제 이메일 주소를 숨깁니다.
 non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -512,9 +519,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = 날짜, 시간, 숫자 및 측정 단위에 운영 체제의 “{ $localeName }” 형식 사용
+settings-spellcheck-header =
+    .label = 맞춤법 검사
 check-user-spelling =
     .label = 입력할 때 맞춤법 검사
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = 사전 다운로드
+spellcheck-promo =
+    .heading = 맞춤법 검사 사용법
+    .message = 맞춤법 검사를 켜거나 끄거나 언어를 변경하려면 텍스트 필드를 마우스 오른쪽 버튼으로 누르세요. 모든 필드가 맞춤법 검사를 지원하는 것은 아닙니다.
 
 ## General Section - Files and Applications
 

@@ -2044,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = ח
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = ניהול הפניות
+    .accesskey = פ
+    .searchkeywords = חלון קופץ,חלונות קופצים,פופ אפ,פופאפ
+permissions-addon-install-warning3 =
+    .label = הצגת אזהרה כשאתרים מנסים להתקין הרחבות
+    .accesskey = א
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = ניהול חריגות עבור חלונות קופצים והפניות צד שלישי
     .accesskey = נ
@@ -2089,6 +2098,9 @@ permissions-speaker2 =
     .label = רמקול
 permissions-notification2 =
     .label = התרעות
+permissions-header3 =
+    .label = הרשאות
+    .description = ניהול הפריטים שאתרים יכולים לגשת אליהם, לשלוט בהם או להפעיל.
 
 ## Privacy Section - Data Collection
 
@@ -2162,6 +2174,9 @@ website-advertising-private-attribution-description = אפשרות זו מסיי
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = אבטחה
+browsing-protection-group2 =
+    .label = הגנה מפני תוכן מטעה ותוכנה מסוכנת
+    .description = אתרים והורדות מסוכנות עשויות להזיק לנתונים ולמכשיר שלך. { -brand-short-name } חוסם אותם באופן אוטומטי, ומזהיר אותם מפני תוכנות מזיקות או בלתי רצויות.
 security-browsing-protection = תוכן מטעה והגנת תוכנה מסוכנת
 security-enable-safe-browsing =
     .label = חסימת תוכן מסוכן ומטעה
