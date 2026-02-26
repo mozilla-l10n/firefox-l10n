@@ -165,6 +165,13 @@ about-logins-edit-login-os-auth-dialog-message-win = ដើម្បីកែស
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = កែសម្រួលការចូលដែលបានរក្សាទុក
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] ផ្លាស់ប្តូរការកំណត់សម្រាប់ពាក្យសម្ងាត់
+       *[other] { -brand-short-name } កំពុងព្យាយាមផ្លាស់ប្តូរការកំណត់សម្រាប់ពាក្យសម្ងាត់។ សូមប្រើការចូលគណនីនៅលើឧបករណ៍របស់លោកអ្នក ដើម្បីអនុញ្ញាតឱ្យធ្វើការនេះ។
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = ដើម្បីកែសម្រួលពាក្យសម្ងាត់របស់អ្នក សូមបញ្ចូលអត្តសញ្ញាណបញ្ជាប់ចូលប្រព័ន្ធវីនដូរបស់អ្នក។ វាជួយការពារសុវត្ថិភាពគណនីរបស់អ្នក។
 # This message can be seen when attempting to edit a login in about:logins
