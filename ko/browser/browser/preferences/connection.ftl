@@ -83,5 +83,5 @@ connection-dns-over-https-url-item-default =
 connection-dns-over-https-url-custom =
     .label = 사용자 지정
     .accesskey = C
-    .tooltiptext = HTTPS를 통한 DNS 해석에 선호하는 URL 입력
+    .tooltiptext = HTTPS를 통한 DNS 해석에 사용자가 선호하는 URL 입력
 connection-dns-over-https-custom-label = 사용자 지정

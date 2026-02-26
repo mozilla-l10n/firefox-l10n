@@ -2343,7 +2343,7 @@ preferences-doh-select-resolver-label =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
     .label = { $name }
-    .tooltiptext = HTTPS를 통한 DNS를 해석하려면 이 공급자를 사용하세요.{ " " }
+    .tooltiptext = HTTPS를 통한 DNS 해석에 이 공급자를 사용
 preferences-doh-custom-provider-label =
     .aria-label = 사용자 지정 공급자 URL 입력
 preferences-doh-header2 =

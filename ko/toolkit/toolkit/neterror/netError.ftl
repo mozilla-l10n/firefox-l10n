@@ -68,9 +68,9 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi 연결을 끊었다가 다
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 확인자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
+neterror-dns-not-found-trr-only-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 해석기를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }는 보안 DNS 공급자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
-neterror-dns-not-found-trr-third-party-warning2 = 기본 DNS 확인자로 계속 사용할 수 있습니다. 그러나 제3자는 사용자가 방문하는 웹 사이트를 볼 수 있습니다.
+neterror-dns-not-found-trr-third-party-warning2 = 기본 DNS 해석기로 계속 사용할 수 있습니다. 그러나 제3자는 사용자가 방문하는 웹 사이트를 볼 수 있습니다.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }가 { $trrDomain }에 연결할 수 없습니다.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain }에 대한 연결이 예상보다 오래 걸렸습니다.
 neterror-dns-not-found-trr-offline = 인터넷에 연결되어 있지 않습니다.
@@ -84,7 +84,7 @@ neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 확인자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 해석기를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
 neterror-dns-not-found-native-fallback-heuristic = 네트워크에서 DNS over HTTP (HTTPS를 통한 DNS)가 비활성화되었습니다.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }가 { $trrDomain }에 연결할 수 없습니다.
 
