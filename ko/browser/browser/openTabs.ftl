@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = 분할 화면에 추가할 탭을 선택하세요
+opentabs-search-text-box =
+    .placeholder = 탭 검색
