@@ -937,6 +937,14 @@ urlbar-searchmode-default =
     .tooltiptext = Alapértelmezett keresőszolgáltatás
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Ezúttal keressen a következővel:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Keresés ezzel:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Ezúttal keressen a következővel:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
