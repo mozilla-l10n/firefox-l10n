@@ -17,3 +17,7 @@ policy-BlockAboutAddons = دسرسی و دؽوۉداری وردنی یل (about:
 policy-BlockAboutConfig = دسرسی و بلگه about:config ن مسدۊد کۊنین.
 policy-BlockAboutProfiles = دسرسی و بلگه about:profiles ن مسدۊد کۊنین.
 policy-BlockAboutSupport = دسرسی و بلگه about:support ن مسدۊد کۊنین.
+policy-ExtensionUpdate = ورۊ رسۊوی خوتکار وردنی ن فعال یا قیر فعال کۊنین.
+policy-FirefoxHome2 = کانفیگ { -firefox-home-brand-name }.
+policy-FirefoxSuggest = کانفیگ { -firefox-suggest-brand-name }.
+policy-GenerativeAI = ویژیی یل هۊش مسنۊعی موولد ن کانفیگ کۊنین.

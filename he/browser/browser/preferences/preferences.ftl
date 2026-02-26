@@ -2253,6 +2253,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = ‏DNS על גבי HTTPS
+dns-over-https-group2 =
+    .label = ‏DNS על גבי HTTPS
+    .description = מערכת שמות מתחם (DNS) על גבי HTTPS מצפינה את הבקשות שלך לאתרים כך שקשה יותר לספק האינטרנט שלך או לאחרים לראות לאילו אתרים מתבצעת הגישה.
 preferences-doh-description = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, יוצרת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 preferences-doh-description2 = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, מספקת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 # Variables:
@@ -2308,6 +2311,47 @@ preferences-doh-exceptions-description = ‏{ -brand-short-name } לא ישתמ�
 preferences-doh-manage-exceptions =
     .label = ניהול חריגות…
     .accesskey = ח
+preferences-doh-overview-default =
+    .label = הגנה ברירת מחדל
+    .description = שימוש ב־DNS מאובטח באזורים בהם הוא זמין.
+preferences-doh-overview-custom =
+    .label = התאמה אישית
+    .description = תמיד להשתמש ב־DNS מאובטח עם שליטה על הספק שלך ועל אופן ההתנהגות אם הוא לא זמין.
+preferences-doh-overview-off =
+    .label = כבוי
+    .description = שימוש במענח ה־DNS ברירת המחדל שלך.
+preferences-doh-advanced-button =
+    .label = הגדרות מתקדמות
+preferences-doh-advanced-section =
+    .label = הגדרות מתקדמות
+    .description = מערכת שמות מתחם (DNS) על גבי HTTPS מצפינה את הבקשות שלך לאתרים כך שקשה יותר לספק האינטרנט שלך או לאחרים לראות לאילו אתרים מתבצעת הגישה.
+preferences-doh-manage-exceptions2 =
+    .label = ניהול חריגות
+    .accesskey = ח
+preferences-doh-status-item-off =
+    .message = ‏DNS על גבי HTTPS כבוי
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = ‏DNS על גבי HTTPS לא עובד מכיוון שנתקלנו בשגיאה ({ $reason }) בעת ניסיון להשתמש בספק { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = ‏DNS על גבי HTTPS לא עובד מכיוון שקיבלנו כתובת לא תקנית ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = ‏DNS על גבי HTTPS משתמש בספק { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = ‏DNS על גבי HTTPS לא עובד מכיוון שנתקלנו בשגיאה ({ $reason }) בעת ניסיון להשתמש בספק המקומי { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = ‏DNS על גבי HTTPS משתמש בספק המקומי { $name }
 
 ## The following strings are used in the Download section of settings
 

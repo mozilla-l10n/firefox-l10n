@@ -2255,6 +2255,12 @@ preferences-doh-manage-exceptions =
     .accesskey = z
 preferences-doh-advanced-button =
     .label = Geavanceerde instellingen
+preferences-doh-status-item-off =
+    .message = DNS over HTTPS is uitgeschakeld
+preferences-doh-select-resolver-label =
+    .label = Kies provider:
+preferences-doh-header2 =
+    .heading = DNS over HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2320,3 +2326,39 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annuleren
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokkeren
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = Verbeterde bescherming tegen volgen is ingeschakeld
+issue-card-dismiss-button =
+    .tooltiptext = Sluiten
+    .aria-label = Sluiten
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Geavanceerde instellingen
+preferences-etp-header =
+    .heading = Verbeterde bescherming tegen volgen
+preferences-etp-reload-tabs-hint-button =
+    .label = Alle tabbladen vernieuwen
+preferences-etp-rfp-warning-message =
+    .message = U gebruikt Resist Fingerprinting (RFP), dat een aantal van de { -brand-short-name }-instellingen voor bescherming tegen fingerprinting vervangt. Dit kan ervoor zorgen dat sommige websites niet goed werken.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Alle cookies toestaan
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Volginhoud
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Volginhoud
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Cryptominers
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Bekende fingerprinters
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Verdachte fingerprinters
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Verdachte fingerprinters

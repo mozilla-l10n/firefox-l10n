@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Probeer de URL naar HTTPS 
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Soms stellen websites bescherming voor zichzelf in tegen ongewenste interacties met andere websites.
 fp-learn-more-about-https-connections = Meer info over HTTPS-verbindingen
+fp-neterror-vpn-error-title = Kan niet verbinden met VPN
+fp-neterror-vpn-error-description = Probeer het over een paar minuten opnieuw.
