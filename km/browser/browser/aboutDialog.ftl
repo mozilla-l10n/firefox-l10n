@@ -6,8 +6,8 @@ aboutDialog-title =
     .title = អំពី { -brand-full-name }
 releaseNotes-link = អ្វី​ដែល​ថ្មី
 update-checkForUpdatesButton =
-    .label = ពិនិត្យរក​មើល​បច្ចុប្បន្នភាព
-    .accesskey = C
+    .label = ពិនិត្យមើលអាប់ដេត
+    .accesskey = { "" }
 update-updateButton =
     .label = ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព { -brand-shorter-name }
     .accesskey = R
@@ -22,8 +22,8 @@ aboutdialog-update-downloading = កំពុងដោនឡូដអាប់�
 ##
 
 update-applying = អនុវត្តន៍អាប់ដេត…
-update-failed = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <label data-l10n-name="failed-link">ទាញ​យក​កំណែ​ថ្មី​បំផុត</label>
-update-failed-main = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <a data-l10n-name="failed-link-main">ទាញ​យក​កំណែ​ថ្មី​បំផុត</a>
+update-failed = ការអាប់ដេតបានបរាជ័យ។ <label data-l10n-name="failed-link">ដោនឡូដកំណែចុងក្រោយបំផុត</label>
+update-failed-main = ការអាប់ដេតបានបរាជ័យ។ <a data-l10n-name="failed-link-main">ដោនឡូដកំណែចុងក្រោយបំផុត</a>
 update-adminDisabled = ការ​ធ្វើ​បច្ចុប្បន្នភាព​ត្រូវ​បាន​បិទ​ដោយ​អ្នក​គ្រប់គ្រង​ប្រព័ន្ធ​របស់​អ្នក
 update-policy-disabled = ការធ្វើបច្ចុប្បន្នភាពត្រូវបានបិទដោយស្ថាប័នរបស់អ្នក
 update-noUpdatesFound = { -brand-short-name } ​គឺ​ទាន់​សម័យ

@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = 開啟新分�
 experimental-features-semantic-history-search =
     .label = 語意化紀錄搜尋
 experimental-features-semantic-history-search-description = 使用本機上的機器學習模型，根據 { -brand-product-name } 網址列中輸入的自然語言理解來建議瀏覽紀錄內容。<a data-l10n-name="connect">提供意見回饋</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = 分頁註記
+experimental-features-tab-notes-description = 「分頁註記」是一個可讓您幫分頁加上便條紙的實驗性功能。您可以記錄分頁開啟原因、提醒資訊，或接下來要做什麼事，這樣之後就可以快速想起為什麼要開啟該分頁。我們會持續改善本功能，也樂意聽到您的意見回饋。<a data-l10n-name="connect">分享意見回饋</a>

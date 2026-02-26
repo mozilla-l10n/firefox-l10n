@@ -2326,6 +2326,17 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = 由於收到無效網址（{ $reason }），DNS over HTTPS 無法運作
+preferences-doh-select-resolver-label =
+    .label = 選擇提供者：
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = 使用者此提供者進行 DNS over HTTPS 解析
+preferences-doh-custom-provider-label =
+    .aria-label = 輸入自訂提供者網址
+preferences-doh-header2 =
+    .heading = DNS over HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2391,6 +2402,17 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = 取消
 preferences-ai-controls-block-confirmation-confirm =
     .label = 封鎖
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } 警戒中
+security-privacy-issue-card =
+    .heading = 安全性警告
+issue-card-reset-button =
+    .label = 重設
+issue-card-dismiss-button =
+    .tooltiptext = 知道了！
+    .aria-label = 知道了！
 
 ## Enhanced Tracking Protection (ETP) status section
 
@@ -2464,3 +2486,24 @@ security-privacy-issue-warning-fingerprinters =
 security-privacy-issue-warning-third-party-cookies =
     .label = 已開啟第三方 Cookie
     .description = 某些網站可透過第三方 Cookie 在不同網站間追蹤您。
+security-privacy-issue-warning-password-manager =
+    .label = 已停用密碼管理員
+    .description = 密碼管理員可幫助您儲存網站的高強度密碼。
+security-privacy-issue-warning-popup-blocker =
+    .label = 已停用彈出型視窗封鎖器
+    .description = 彈出型視窗很干擾人，也可能有害。
+security-privacy-issue-warning-extension-install =
+    .label = 網站可直接安裝擴充套件
+    .description = 不用先詢問您，網站就可以直接安裝擴充套件到 { -brand-short-name }。
+security-privacy-issue-warning-safe-browsing =
+    .label = 不封鎖危險或詐騙內容
+    .description = 您暴露到詐騙與惡意軟體網站的機會將增加。
+security-privacy-issue-warning-doh =
+    .label = 已停用 DNS over HTTPS
+    .description = DNS over HTTPS 可對您的電信業者隱藏您造訪過的網站。
+security-privacy-issue-warning-ech =
+    .label = 已停用 Encrypted Client Hello
+    .description = Encrypted Client Hello 功能可對您的電信業者隱藏您造訪過的網站。
+security-privacy-issue-warning-proxy-autodetection =
+    .label = 已開啟 Proxy 自動設定
+    .description = Proxy 自動設定功能可能會讓未受信任的網路監控您的上網行為。
