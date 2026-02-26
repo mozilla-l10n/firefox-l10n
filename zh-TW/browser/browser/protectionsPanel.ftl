@@ -58,7 +58,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 protections-panel-no-trackers-found = { -brand-short-name } 未在此頁面偵測到已知的追蹤器。
 protections-panel-content-blocking-tracking-protection = 追蹤用內容
-protections-panel-content-blocking-socialblock = 社交媒體追蹤器
+protections-panel-content-blocking-socialblock = 社群網路追蹤器
 protections-panel-content-blocking-cryptominers-label = 加密貨幣採礦程式
 protections-panel-content-blocking-fingerprinters-label = 數位指紋追蹤程式
 

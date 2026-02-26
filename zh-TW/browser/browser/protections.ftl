@@ -37,7 +37,7 @@ protection-report-manage-protections = 管理設定
 graph-today = 今天
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = 在這一週當中封鎖的各類型追蹤器的總數圖表
-social-tab-title = 社交媒體追蹤器
+social-tab-title = 社群網路追蹤器
 social-tab-contant = 社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。<a data-l10n-name="learn-more-link">了解更多</a>
 cookie-tab-title = 跨網站追蹤 Cookie
 cookie-tab-content = 一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。封鎖這些跨網站 Cookie 可減少在網路上跟蹤您的廣告。<a data-l10n-name="learn-more-link">了解更多</a>
@@ -159,10 +159,10 @@ monitor-resolve-breaches-link = 處理資料外洩事件
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = 社交媒體追蹤器
+    .title = 社群網路追蹤器
     .aria-label =
         { $count ->
-           *[other] { $count } 組社交媒體追蹤器（{ $percentage }%）
+           *[other] { $count } 組社群網路追蹤器（{ $percentage }%）
         }
 bar-tooltip-cookie =
     .title = 跨網站追蹤 Cookie

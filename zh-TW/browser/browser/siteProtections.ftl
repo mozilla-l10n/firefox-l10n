@@ -55,7 +55,7 @@ protections-blocking-cookies-unvisited =
 protections-blocking-tracking-content =
     .title = 封鎖追蹤用內容
 protections-blocking-social-media-trackers =
-    .title = 封鎖社交媒體追蹤器
+    .title = 封鎖社群網路追蹤器
 protections-not-blocking-fingerprinters =
     .title = 不封鎖數位指紋追蹤程式
 protections-not-blocking-cryptominers =
@@ -69,7 +69,7 @@ protections-not-blocking-cross-site-tracking-cookies =
 protections-not-blocking-tracking-content =
     .title = 不封鎖追蹤用內容
 protections-not-blocking-social-media-trackers =
-    .title = 不封鎖社交媒體追蹤器
+    .title = 不封鎖社群網路追蹤器
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:

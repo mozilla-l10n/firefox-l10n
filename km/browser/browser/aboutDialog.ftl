@@ -11,17 +11,17 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព { -brand-shorter-name }
     .accesskey = R
-update-checkingForUpdates = កំពុង​ពិនិត្យរកមើល​បច្ចុប្បន្នភាព...
+update-checkingForUpdates = កំពុងពិនិត្យមើលអាប់ដេត…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>កំពុង​ទាញ​យក​បច្ចុប្បន្នភាព—  <label data-l10n-name="download-status">{ $transfer }</label>
-aboutdialog-update-downloading = កំពុង​ទាញយក​បច្ចុប្បន្នភាព — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>កំពុងដោនឡូដអាប់ដេត — <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = កំពុងដោនឡូដអាប់ដេត — <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
-update-applying = កំពុង​អនុវត្ត​បច្ចុប្បន្នភាព...
+update-applying = អនុវត្តន៍អាប់ដេត…
 update-failed = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <label data-l10n-name="failed-link">ទាញ​យក​កំណែ​ថ្មី​បំផុត</label>
 update-failed-main = ការ​ធ្វើ​បច្ចុប្បន្នភាព​បាន​បរាជ័យ។ <a data-l10n-name="failed-link-main">ទាញ​យក​កំណែ​ថ្មី​បំផុត</a>
 update-adminDisabled = ការ​ធ្វើ​បច្ចុប្បន្នភាព​ត្រូវ​បាន​បិទ​ដោយ​អ្នក​គ្រប់គ្រង​ប្រព័ន្ធ​របស់​អ្នក

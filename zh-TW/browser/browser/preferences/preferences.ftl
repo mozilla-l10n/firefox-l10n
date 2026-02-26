@@ -1906,7 +1906,7 @@ content-blocking-cross-site-tracking-cookies = 跨網站追蹤 Cookie
 content-blocking-all-cross-site-cookies-private-windows = 隱私視窗中的跨網站 Cookie
 content-blocking-isolate-cross-site-cookies = 隔離跨網站 Cookie
 content-blocking-cross-site-tracking-cookies-plus-isolate = 跨網站追蹤 Cookie，並隔離剩餘的 Cookie
-content-blocking-social-media-trackers = 社交媒體追蹤器
+content-blocking-social-media-trackers = 社群網路追蹤器
 content-blocking-all-cookies = 所有 Cookie
 content-blocking-unvisited-cookies = 來自未造訪過網站的 Cookie
 content-blocking-all-windows-tracking-content = 所有視窗中的追蹤內容
@@ -2317,6 +2317,15 @@ preferences-doh-manage-exceptions2 =
     .accesskey = x
 preferences-doh-status-item-off =
     .message = DNS over HTTPS 已關閉
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = 由於嘗試使用 { $name } 時遇到錯誤（{ $reason }），DNS over HTTPS 無法運作
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = 由於收到無效網址（{ $reason }），DNS over HTTPS 無法運作
 
 ## The following strings are used in the Download section of settings
 
@@ -2396,10 +2405,26 @@ preferences-etp-level-custom =
     .description = 自行決定開關哪些保護項目。
 preferences-etp-status-advanced-button =
     .label = 進階設定
+preferences-etp-status-protections-dashboard-link =
+    .label = 檢視您的個人化保護儀表板
+    .description = 看看 { -brand-short-name } 已為您封鎖多少社群媒體追蹤器、數位指紋追蹤程式、加密貨幣採礦程式等類型的追蹤器。
 preferences-etp-header =
     .heading = 加強型追蹤保護
+preferences-etp-advanced-settings-group =
+    .label = 進階設定
+    .description = 網站會使用追蹤器在線上跟蹤您，並顯示可怕的廣告。{ -brand-short-name } 會在您上網時自動封鎖大多數的追蹤器，讓您可自行掌握自己的數位足跡。
 preferences-etp-customize-button =
     .label = 自訂追蹤保護
+preferences-etp-reload-tabs-hint =
+    .message = 重新載入分頁才能套用變更。
+preferences-etp-reload-tabs-hint-button =
+    .label = 重新載入所有分頁
+preferences-etp-level-warning-message =
+    .heading = 注意！某些網站可能會無法正常運作。
+    .message = 某些網站會直接在功能或內容當中建立追蹤器。當 { -brand-short-name } 封鎖追蹤器後，這些功能就會故障。可以嘗試使用「修正網站問題」功能或針對該網站關閉追蹤保護機制。
+preferences-etp-manage-exceptions-button =
+    .label = 管理例外網站
+    .description = 管理要針對哪些網站停用加強型追蹤保護功能。
 preferences-etp-customize-header =
     .heading = 自訂追蹤保護
 preferences-etp-reset =
@@ -2430,3 +2455,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = 疑似是數位指紋追蹤程式
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = 疑似是數位指紋追蹤程式
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = 未封鎖已知的數位指紋追蹤程式
+    .description = 可能會讓某些追蹤器不設定 Cookie 就能追蹤您。
+security-privacy-issue-warning-third-party-cookies =
+    .label = 已開啟第三方 Cookie
+    .description = 某些網站可透過第三方 Cookie 在不同網站間追蹤您。
