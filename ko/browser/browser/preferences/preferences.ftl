@@ -1855,13 +1855,13 @@ addressbar-locbar-suggest-sponsored-desc = 가끔씩 스폰서 제안으로 { -b
 addressbar-firefox-suggest-online =
     .label = 입력할 때 Mozilla에서 제안을 가져옴
 addressbar-dismissed-suggestions-label-2 =
-    .label = 닫은 제안
-    .description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.
+    .label = 거절한 제안
+    .description = 거절한 스폰서와 { -brand-short-name }의 제안을 복원합니다.
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = 제안 복원
 addressbar-quickactions-learn-more = 더 알아보기
-addressbar-dismissed-suggestions-label = 삭제한 제안
-addressbar-restore-dismissed-suggestions-description = 스폰서와 { -brand-short-name }로부터 닫은 제안을 복원합니다.
+addressbar-dismissed-suggestions-label = 거절한 제안
+addressbar-restore-dismissed-suggestions-description = 거절한 스폰서와 { -brand-short-name }의 제안을 복원합니다.
 addressbar-restore-dismissed-suggestions-button =
     .label = 복원
 
