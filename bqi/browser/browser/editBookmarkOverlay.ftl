@@ -30,5 +30,7 @@ bookmark-overlay-tags-expander =
     .tooltiptext = نشووݩ داڌن پوی برچسبا
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = بؽڌار کردن
+bookmark-overlay-tags-expander2 =
+    .tooltiptext = نشووݩ داڌن پوی برچسبا
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = بؽڌار کردن
