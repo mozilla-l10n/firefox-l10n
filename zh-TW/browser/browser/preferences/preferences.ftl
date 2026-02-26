@@ -2385,6 +2385,15 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = 標準（預設）
+    .description = 強大又可靠的保護機制，可順暢開啟大多數網站。
+preferences-etp-level-strict =
+    .label = 嚴格
+    .description = 保護機制更強大，封鎖更多追蹤器，但某些網站可能會故障。
+preferences-etp-level-custom =
+    .label = 自訂
+    .description = 自行決定開關哪些保護項目。
 preferences-etp-status-advanced-button =
     .label = 進階設定
 preferences-etp-header =
