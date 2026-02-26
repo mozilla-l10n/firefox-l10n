@@ -79,9 +79,9 @@ connection-proxy-socks-remote-dns =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (기본값)
-    .tooltiptext = HTTPS를 통한 DNS 확인에 기본 URL 사용
+    .tooltiptext = HTTPS를 통한 DNS 해석에 기본 URL 사용
 connection-dns-over-https-url-custom =
     .label = 사용자 지정
     .accesskey = C
-    .tooltiptext = HTTPS를 통한 DNS 해석을 위한 선호하는 URL 입력
+    .tooltiptext = HTTPS를 통한 DNS 해석에 선호하는 URL 입력
 connection-dns-over-https-custom-label = 사용자 지정
