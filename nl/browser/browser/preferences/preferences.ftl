@@ -1629,6 +1629,8 @@ history-remember-label = { -brand-short-name } zal
     .accesskey = z
 history-remember-option-all =
     .label = Geschiedenis onthouden
+history-remember-option-custom2 =
+    .label = Geschiedenis aanpassen
 history-remember-option-never =
     .label = Nooit geschiedenis onthouden
 history-remember-option-custom =
@@ -1671,8 +1673,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Geschiedenis wissen…
     .accesskey = G
+history-header2 =
+    .heading = Geschiedenis
 history-group =
     .label = Geschiedenis
+history-remember-option-all2 =
+    .label = Geschiedenis onthouden
 
 ## Privacy Section - Site Data
 
@@ -2160,6 +2166,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen 
 certs-description2 =
     .label = Certificaten
     .description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
+certs-view2 =
+    .label = Certificaten beheren
+    .accesskey = C
 
 ## Privacy Section - HTTPS-Only
 
@@ -2244,6 +2253,8 @@ preferences-doh-exceptions-description = { -brand-short-name } gebruikt geen bev
 preferences-doh-manage-exceptions =
     .label = Uitzonderingen beheren…
     .accesskey = z
+preferences-doh-advanced-button =
+    .label = Geavanceerde instellingen
 
 ## The following strings are used in the Download section of settings
 

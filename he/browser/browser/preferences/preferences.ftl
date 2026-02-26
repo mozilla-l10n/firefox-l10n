@@ -2215,6 +2215,15 @@ space-alert-under-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שט
 certs-description2 =
     .label = אישורים
     .description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות.
+certs-description3 =
+    .label = אישורי אבטחה
+    .description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות חיבורים מאובטחים.
+certs-view2 =
+    .label = ניהול אישורים
+    .accesskey = א
+certs-devices2 =
+    .label = ניהול התקני אבטחה
+    .accesskey = נ
 
 ## Privacy Section - HTTPS-Only
 
