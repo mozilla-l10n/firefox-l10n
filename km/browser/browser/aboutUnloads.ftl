@@ -10,3 +10,5 @@ about-unloads-page-title = មិនកំពុងផ្ទុក​ផ្ទ�
 about-unloads-last-updated = បានអាប់ដេតចុងក្រោយ៖ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-column-priority = អាទិភាព
 about-unloads-column-last-accessed = បានចូលប្រើចុងក្រោយ
+about-unloads-column-memory = មេម៉ូរី
+    .title = ការប្រើប្រាស់មេម៉ូរីប៉ាន់ស្មានរបស់ផ្ទាំង

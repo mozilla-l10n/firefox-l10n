@@ -2025,6 +2025,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = 管理重新導向
+    .accesskey = E
+    .searchkeywords = 彈出式視窗,彈出型視窗,彈出,跳出,popups,pop-ups
+permissions-addon-install-warning3 =
+    .label = 網站嘗試安裝擴充套件時，喜善警告
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = 管理彈出型視窗與第三方重新導向例外
     .accesskey = E
@@ -2070,6 +2079,9 @@ permissions-speaker2 =
     .label = 喇叭
 permissions-notification2 =
     .label = 通知
+permissions-header3 =
+    .label = 權限
+    .description = 管理網站能夠存取、控制、觸發哪些項目。
 
 ## Privacy Section - Data Collection
 
@@ -2180,6 +2192,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間�
 certs-description2 =
     .label = 憑證
     .description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
+certs-devices2 =
+    .label = 管理安全裝置
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2264,6 +2279,17 @@ preferences-doh-exceptions-description = { -brand-short-name } 將不對下列�
 preferences-doh-manage-exceptions =
     .label = 管理例外網站…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = 預設保護
+    .description = 在可用的地方就使用安全的 DNS。
+preferences-doh-overview-custom =
+    .label = 自訂
+    .description = 總是使用安全的 DNS，自行控管 DNS 業者與備用行為。
+preferences-doh-overview-off =
+    .label = 關閉
+    .description = 使用您的預設 DNS 解析器。
+preferences-doh-advanced-button =
+    .label = 進階設定
 
 ## The following strings are used in the Download section of settings
 
