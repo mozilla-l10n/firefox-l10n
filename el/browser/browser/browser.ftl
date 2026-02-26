@@ -934,6 +934,14 @@ urlbar-searchmode-default =
     .tooltiptext = Προεπιλεγμένη μηχανή αναζήτησης
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Αυτήν τη φορά αναζήτηση με:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Αναζήτηση με:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Αυτήν τη φορά αναζήτηση με:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
