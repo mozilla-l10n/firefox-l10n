@@ -1066,6 +1066,8 @@ search-delete-engine =
     .title = 刪除搜尋引擎
 search-enable-engine =
     .title = 啟用搜尋引擎
+search-outlink-to-extensions-page =
+    .title = 於擴充套件與佈景主題管理
 search-choose-engine-column =
     .label = 搜尋引擎
 search-choose-keyword-column =
@@ -1617,6 +1619,11 @@ history-remember-label = { -brand-short-name } 將
     .accesskey = w
 history-remember-option-all =
     .label = 保留所有歷史記錄
+history-remember-option-never2 =
+    .label = 不保留歷史記錄
+    .description = 每個視窗都是隱私視窗，開啟此選項後，需要再允許擴充套件才能運作。
+history-remember-option-custom2 =
+    .label = 自訂瀏覽紀錄行為
 history-remember-option-never =
     .label = 不保留歷史記錄
 history-remember-option-custom =
@@ -2156,6 +2163,9 @@ website-advertising-private-attribution-description = 此功能可在不收集�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 安全性
+browsing-protection-group2 =
+    .label = 詐欺內容與危險網站保護
+    .description = 危險網站與下載項目，可能會讓您的資料與裝置遭受風險。{ -brand-short-name } 會自動封鎖這類資料並警告。
 security-browsing-protection = 詐騙內容與危險網站保護
 security-enable-safe-browsing =
     .label = 封鎖危險及詐騙內容
@@ -2192,6 +2202,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 的磁碟空間�
 certs-description2 =
     .label = 憑證
     .description = 設定 { -brand-short-name } 要用來驗證身分的憑證。
+certs-description3 =
+    .label = 憑證
+    .description = 設定 { -brand-short-name } 要用來確認加密連線的憑證。
+certs-view2 =
+    .label = 管理憑證
+    .accesskey = C
 certs-devices2 =
     .label = 管理安全裝置
     .accesskey = D
@@ -2224,6 +2240,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group2 =
+    .label = DNS over HTTPS
+    .description = Domain Name System over HTTPS（DoH）會將網站查詢行為加密，讓您的電信業者或其他人更難看出您準備要造訪的網站。
 preferences-doh-description = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
 preferences-doh-description2 = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
 # Variables:
@@ -2290,6 +2309,14 @@ preferences-doh-overview-off =
     .description = 使用您的預設 DNS 解析器。
 preferences-doh-advanced-button =
     .label = 進階設定
+preferences-doh-advanced-section =
+    .label = 進階設定
+    .description = Domain Name System over HTTPS（DoH）會將網站查詢行為加密，讓您的電信業者或其他人更難看出您準備要造訪的網站。
+preferences-doh-manage-exceptions2 =
+    .label = 管理例外
+    .accesskey = x
+preferences-doh-status-item-off =
+    .message = DNS over HTTPS 已關閉
 
 ## The following strings are used in the Download section of settings
 
