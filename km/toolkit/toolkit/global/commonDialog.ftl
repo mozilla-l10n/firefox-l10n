@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+common-dialog-username =
+    .value = អត្ថនាម
 common-dialog-password =
     .value = ពាក្យ​សម្ងាត់
 common-dialog-copy-cmd =

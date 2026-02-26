@@ -11,6 +11,7 @@ password-manager-save-password-button-deny =
 password-manager-save-password-button-allow =
     .label = រក្សា​ទុក
     .accesskey = S
+password-manager-update-login-add-username = បន្ថែមអត្ថនាមដើម្បីរក្សាទុកពាក្យសម្ងាត់ឬ?
 password-manager-password-password-button-allow =
     .label = ធ្វើ​បច្ចុប្បន្នភាព
     .accesskey = U
@@ -18,5 +19,5 @@ password-manager-update-password-button-deny =
     .label = កុំ​ធ្វើ​បច្ចុប្បន្នភាព
     .accesskey = D
 # This is displayed in place of the username when it is missing.
-password-manager-no-username-placeholder = គ្មាន​ឈ្មោះ​អ្នក​ប្រើ
+password-manager-no-username-placeholder = គ្មានអត្ថនាម
 password-manager-confirm-password-change = អះអាង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់

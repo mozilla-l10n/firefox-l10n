@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Elige un scheda a adder al vistas fisse
+opentabs-search-text-box =
+    .placeholder = Cercar in schedas
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Resultatos del recerca pro “{ $query }”

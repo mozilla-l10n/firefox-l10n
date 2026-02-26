@@ -128,6 +128,10 @@ contextual-manager-passwords-change-password-button = ផ្លាស់ប្�
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = បានណែនាំឱ្យផ្លាស់ប្តូរពាក្យសម្ងាត់
     .message = ពាក្យសម្ងាត់នេះអាចទាយបានយ៉ាងងាយស្រួល។ សូមផ្លាស់ប្តូរពាក្យសម្ងាត់របស់អ្នកដើម្បីការពារគណនីរបស់អ្នក។
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = បន្ថែមអត្ថនាមមួយ
+    .message = បន្ថែមមួយ ដើម្បីបញ្ជាប់ចូលលឿនរហ័ស។
+contextual-manager-passwords-add-username-button = បន្ថែមអត្ថនាម
 contextual-manager-passwords-title = ពាក្យ​សម្ងាត់
 
 ## Login Form
@@ -147,6 +151,17 @@ contextual-manager-passwords-list-label =
     .aria-label = ពាក្យ​សម្ងាត់
 contextual-manager-copy-icon =
     .alt = ចម្លង
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = ចម្លងអត្ថនាម { $username }
+    .title = ចម្លងអត្ថនាម { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = ចម្លងអត្ថនាម { $username } (ការព្រមាន)
+    .title = ចម្លងអត្ថនាម { $username } (ការព្រមាន)
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = រកមិនឃើញពាក្យសម្ងាត់ទេ

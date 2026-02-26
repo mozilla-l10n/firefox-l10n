@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = v
 non-technical-privacy-group =
     .label = Preferentias de confidentialitate del sito
+non-technical-privacy-heading =
+    .label = Protectiones additional
 non-technical-privacy-header = Preferentias de confidentialitate del sito
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +526,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Usar le parametros “{ $localeName }” de tu systema operative pro formatar datas, horas, numeros e mesuras.
+settings-spellcheck-header =
+    .label = Controlo del orthographia
 check-user-spelling =
     .label = Verificar le orthographia durante que tu scribe
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Discargar dictionarios
 
 ## General Section - Files and Applications
 
@@ -1049,6 +1055,12 @@ search-one-click-header-3 =
     .description = Eliger que motor de recerca e visa breve apparera in tu barra de adresse
 update-search-engine-success =
     .message = Motor de recerca actualisate con successo
+search-edit-engine-2 =
+    .title = Rediger motor de recerca
+search-delete-engine =
+    .title = Deler motor de recerca
+search-enable-engine =
+    .title = Activar motor de recerca
 search-choose-engine-column =
     .label = Motor de recerca
 search-choose-keyword-column =
@@ -1600,6 +1612,8 @@ history-remember-label = { -brand-short-name } debe
     .accesskey = d
 history-remember-option-all =
     .label = Memorisar le chronologia
+history-remember-option-custom2 =
+    .label = Personalisar chronologia
 history-remember-option-never =
     .label = Non memorisar jammais le chronologia
 history-remember-option-custom =
@@ -1642,8 +1656,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Vacuar le chronologia…
     .accesskey = V
+history-header2 =
+    .heading = Chronologia
 history-group =
     .label = Chronologia
+history-remember-option-all2 =
+    .label = Salvar chronologia
 
 ## Privacy Section - Site Data
 
