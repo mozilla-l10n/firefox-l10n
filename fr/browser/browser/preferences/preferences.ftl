@@ -2215,12 +2215,12 @@ certs-description2 =
     .description = Configurer les certificats que { -brand-short-name } utilise pour l’authentification.
 certs-description3 =
     .label = Certificats
-    .description = Configurer les certificats utilisés par { -brand-short-name } pour vérifier des connexions sécurisées.
+    .description = Configurer les certificats utilisés par { -brand-short-name } pour vérifier les connexions sécurisées.
 certs-view2 =
     .label = Gérer les certificats
     .accesskey = G
 certs-devices2 =
-    .label = Gérer les appareils de sécurité
+    .label = Gérer les périphériques de sécurité
     .accesskey = G
 
 ## Privacy Section - HTTPS-Only
@@ -2311,7 +2311,7 @@ preferences-doh-manage-exceptions =
     .accesskey = x
 preferences-doh-overview-default =
     .label = Protection par défaut
-    .description = Utilisez un DNS sécurisé dans les régions où il est disponible.
+    .description = Utiliser un DNS sécurisé dans les régions où il est disponible.
 preferences-doh-overview-custom =
     .label = Personnalisé
     .description = Utilisez toujours un DNS sécurisé en contrôlant votre fournisseur et le comportement des solutions de secours.
