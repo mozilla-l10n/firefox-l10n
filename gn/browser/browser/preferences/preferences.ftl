@@ -2310,3 +2310,24 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Heja
 preferences-ai-controls-block-confirmation-confirm =
     .label = Joko
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } oma’ẽmeme
+security-privacy-status-problem-helper-label = Ehecha apañuái
+security-privacy-issue-card =
+    .heading = Jesarekorã tekorosãrã
+issue-card-reset-button =
+    .label = Mbojevyjey
+issue-card-dismiss-button =
+    .tooltiptext = Mboyke
+    .aria-label = Mboyke
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Ñemboheko opapotáva
+preferences-etp-custom-cookies-enabled =
+    .label = Kookie
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Kookie

@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Embojuaju porurã
+storage-delete-all-button =
+    .title = Emboguepaite
 # Refresh button title
 storage-refresh-button =
     .title = Mba’eporu mbohekopyahu

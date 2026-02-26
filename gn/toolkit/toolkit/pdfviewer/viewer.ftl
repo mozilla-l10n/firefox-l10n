@@ -647,6 +647,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Emoambue tenda yke
 pdfjs-views-manager-sidebar =
     .aria-label = Ta’ãngarupa yke
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Tuichakue mongu’eha tenda yképe
 pdfjs-views-manager-view-selector-button =
     .title = Hechaha
 pdfjs-views-manager-view-selector-button-label = Hechaha
@@ -705,6 +707,7 @@ pdfjs-views-manager-status-undo-button-label = Mboguevi
 pdfjs-views-manager-status-close-button =
     .title = Mboty
 pdfjs-views-manager-status-close-button-label = Mboty
+pdfjs-views-manager-paste-button-label = Mboja
 
 ## Main menu for adding/removing signatures
 

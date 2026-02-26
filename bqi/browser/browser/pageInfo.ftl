@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+page-info-window =
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -78,6 +80,8 @@ security-view-identity-domain =
     .value = وبگه اینترنتی:
 security-view-identity-verifier =
     .value = تاییڌ وابیڌه و دست:
+security-view-privacy =
+    .value = ویرگار وو مووردا هریم سیخومی
 security-view-technical =
     .value = جۊزعیات فنی
 help-button =
@@ -94,6 +98,11 @@ security-site-data-no = ن
 
 ##
 
+image-size-unknown = نامعلۊم
+page-info-not-specified =
+    .value = ن دیاری
+not-set-alternative-text = ن دیاری
+not-set-date = ن دیاری
 media-img = شؽوات
 media-bg-img = پس زمینه
 media-border-img = هاشیه
