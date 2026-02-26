@@ -920,6 +920,10 @@ urlbar-searchmode-default =
     .tooltiptext = Motor de cerca per defecte
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Aquesta vegada, cerca amb:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Aquesta vegada, cerca amb:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Paràmetres de cerca
