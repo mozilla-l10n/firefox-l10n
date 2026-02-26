@@ -9,6 +9,9 @@
 tab-context-new-tab =
     .label = بلگه نۊ
     .accesskey = w
+duplicate-tabs =
+    .label = بلگه یل تکراری
+    .accesskey = D
 unpin-tab =
     .label = لقو دیسنیڌن بلگه–
     .accesskey = p

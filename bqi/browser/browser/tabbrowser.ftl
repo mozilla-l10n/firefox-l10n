@@ -203,6 +203,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = زفت
     .accesskey = S
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = قلوه بخۊوین
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
