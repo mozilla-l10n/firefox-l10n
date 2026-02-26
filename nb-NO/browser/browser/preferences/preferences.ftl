@@ -798,6 +798,13 @@ network-proxy-connection-learn-more = Les mer
 network-proxy-connection-settings =
     .label = Innstillinger …
     .accesskey = I
+network-proxy-group2 =
+    .label = Proxyinnstillinger
+    .description = Konfigurer hvordan { -brand-short-name } kobler seg til internett.
+network-proxy-connection-settings2 =
+    .label = Konfigurer proxy
+    .description = Endring av disse innstillingene kan føre til tilkoblingsproblemer
+    .accesskey = p
 
 ## Home Section
 

@@ -538,6 +538,9 @@ check-user-spelling =
     .accesskey = ב
 spellcheck-download-dictionaries =
     .label = הורדת מילונים
+spellcheck-promo =
+    .heading = כיצד להשתמש בבדיקת איות
+    .message = יש ללחוץ מקש ימני על שדה טקסט כדי להפעיל או לכבות את בדיקת האיות, או לשנות את השפה. לא כל השדות תומכים בבדיקת איות.
 
 ## General Section - Files and Applications
 
@@ -795,6 +798,13 @@ network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
     .label = הגדרות…
     .accesskey = ה
+network-proxy-group2 =
+    .label = הגדרות שרת מתווך
+    .description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
+network-proxy-connection-settings2 =
+    .label = קביעת תצורה של שרת מתווך
+    .description = שינוי הגדרות אלו עשוי לגרום לבעיות לחיבור לרשת
+    .accesskey = ש
 
 ## Home Section
 
