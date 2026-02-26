@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Біз енді «Мені бақыламау» мүмкіндігін қолдамаймыз.
 non-technical-privacy-heading =
     .label = Қосымша қорғаныс шаралары
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } эл. пошта маскаларын ұсыну
+    .description = Пошта жәшігін спамнан қорғау үшін нақты электрондық пошта адресіңізді жасырады.
 non-technical-privacy-header = Веб-сайттың жекелік баптаулары
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -535,6 +538,9 @@ check-user-spelling =
     .accesskey = о
 spellcheck-download-dictionaries =
     .label = Сөздіктерді жүктеп алу
+spellcheck-promo =
+    .heading = Емлені тексеруді қалай пайдалануға болады
+    .message = Емле тексеруді іске қосу немесе сөндіру, немесе тілді өзгерту үшін мәтіндік өрісті оң жақ батырмамен шертіңіз. Емлені тексеру мүмкіндігіне барлық өрістер бірдей қолдау көрсетпейді.
 
 ## General Section - Files and Applications
 
@@ -792,6 +798,13 @@ network-proxy-connection-learn-more = Көбірек білу
 network-proxy-connection-settings =
     .label = Баптау…
     .accesskey = а
+network-proxy-group2 =
+    .label = Прокси баптаулары
+    .description = { -brand-short-name } интернетке қалай қосылатынын баптау.
+network-proxy-connection-settings2 =
+    .label = Проксиді баптау
+    .description = Бұл баптауларды өзгерту байланыс мәселелеріне әкеп соғуы мүмкін
+    .accesskey = р
 
 ## Home Section
 
@@ -1618,6 +1631,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = тарихты сақтайды
+history-remember-option-never2 =
+    .label = Тарихты ешқашан сақтамау
+    .description = Әр терезе жекелік терезе ретінде жұмыс істейді. Іске қосулы болған кезде, кеңейтулерге рұқсат беру қажет.
+history-remember-option-custom2 =
+    .label = Тарихты баптау
 history-remember-option-never =
     .label = тарихты ешқашан сақтамайды
 history-remember-option-custom =
@@ -1662,6 +1680,14 @@ history-clear-button =
     .accesskey = з
 history-header2 =
     .heading = Тарих
+history-section-header =
+    .label = Тарих
+    .description = Браузерді жапқан кезде { -brand-short-name } нені есте сақтайтынын таңдаңыз.
+history-custom-section-header =
+    .label = Кеңейтілген баптаулар
+    .description = Браузерді жапқан кезде { -brand-short-name } нені есте сақтайтынын баптаңыз.
+history-custom-button =
+    .label = Браузерді жапқан кезде { -brand-short-name } нені есте сақтайтынын таңдаңыз
 history-group =
     .label = Тарих
 history-remember-option-all2 =
@@ -1673,6 +1699,10 @@ sitedata-header = Cookies файлдары және сайт деректері
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Сайттар деректері және кэш өлшемін есептеу…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Веб-сайттар қазіргі уақытта <strong>{ $value } { $unit }</strong> диск орнын қолдануда.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")

@@ -2437,13 +2437,62 @@ security-privacy-status-problem-header = ‏{ -brand-short-name } ממליץ ע�
 security-privacy-status-ok-label = הגנת מעקב מתקדמת פעילה
 security-privacy-status-problem-label = מצאנו הגדרות המשפיעות על ההגנה שלך
 security-privacy-status-problem-helper-label = הצגת הסוגיות
-security-privacy-status-pending-trackers-label = מחפש כמה רכיבי מעקב { -brand-short-name } חסם בחודש האחרון
+security-privacy-status-pending-trackers-label = מחפש כמה רכיבי מעקב { -brand-short-name } חסם במהלך החודש האחרון
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] רכיב מעקב אחד נחסם במהלך החודש האחרון
+       *[other] { $trackerCount } רכיבי מעקב נחסמו במהלך החודש האחרון
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = יש לך <a data-l10n-name="strict-tracking-protection">הגנה מחמירה</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = יש לך <a data-l10n-name="custom-tracking-protection">הגנה מותאמת אישית</a>
+security-privacy-status-up-to-date-label = יש לך את הגרסה העדכנית והבטוחה ביותר של { -brand-short-name }
+security-privacy-status-update-needed-label = זמינה גרסה חדשה של { -brand-short-name }.
+security-privacy-status-update-error-label = ‏{ -brand-short-name } מתקשה לעדכן את עצמו
+security-privacy-status-update-checking-label = ‏{ -brand-short-name } מחפש אחר עדכונים
+security-privacy-status-update-needed-description = יש לעדכן לקבלת עדכוני המהירות, היציבות והאבטחה האחרונים.
+security-privacy-status-update-button-label =
+    .label = עדכון { -brand-short-name }
+security-privacy-image-warning =
+    .alt = מגן עם סימן קריאה, המביע דאגה לגבי אזהרות האבטחה שלך
+security-privacy-image-ok =
+    .alt = מגן עם סימן וי, המראה שאין לך בעיות אבטחה
+security-privacy-issue-card =
+    .heading = אזהרות אבטחה
+issue-card-reset-button =
+    .label = איפוס
+issue-card-dismiss-button =
+    .tooltiptext = סגירה
+    .aria-label = סגירה
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = הגנת מעקב מתקדמת
+    .description = אתרים משתמשים ברכיבי מעקב כדי לעקוב אחריך ברשת ולהציג פרסומות מציקות. { -brand-short-name } מגן עליך תוך כדי גלישה, וחוסם רכיבי מעקב באופן אוטומטי כך שיש לך שליטה על העקבות הדיגיטליים שלך.
+preferences-etp-level-standard =
+    .label = רגיל (ברירת מחדל)
+    .description = הגנות חזקות ומהימנות שעובדות בצורה חלקה עם רוב האתרים.
+preferences-etp-level-strict =
+    .label = מחמיר
+    .description = הגנות חזקות יותר שחוסמות את רוב רכיבי המעקב, אך עשויות לגרום לחלק מהאתרים להישבר.
+preferences-etp-level-custom =
+    .label = התאמה אישית
+    .description = בחירה באילו הגנות להפעיל או לכבות.
+preferences-etp-status-advanced-button =
+    .label = הגדרות מתקדמות
+preferences-etp-status-protections-dashboard-link =
+    .label = צפייה בלוח המחוונים של ההגנות המותאמות אישית שלך
+    .description = ניתן לצפות בכמה רכיבי מעקב { -brand-short-name } חסם עבורך, לרבות רכיבי מעקב של מדיה חברתית, רכיבי זהות דיגיטלית וכורי מטבעות דיגיטליים.
+preferences-etp-header =
+    .heading = הגנת מעקב מתקדמת
 preferences-etp-advanced-settings-group =
     .label = הגדרות מתקדמות
-    .description = אתרים משתמשים ברכיבי מעקב כדי לעקוב אחריך ברשת ולהציג פרסומות מציקות. { -brand-short-name } מגן עליך תוך כדי גלישה, וחוסם רוב רכיבי המעקב באופן אוטומטי כך שיש לך שליטה על העקבות הדיגיטליים שלך.
+    .description = אתרים משתמשים ברכיבי מעקב כדי לעקוב אחריך ברשת ולהציג פרסומות מציקות. { -brand-short-name } מגן עליך תוך כדי גלישה, וחוסם את רוב רכיבי המעקב באופן אוטומטי כך שיש לך שליטה על העקבות הדיגיטליים שלך.
 preferences-etp-customize-button =
     .label = התאמה אישית של הגנת המעקב
 preferences-etp-reload-tabs-hint =
