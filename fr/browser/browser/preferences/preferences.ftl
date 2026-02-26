@@ -1702,7 +1702,7 @@ sitedata-total-size-calculating = Calcul du volume des données de sites et du c
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size3 = Des sites web utilisent actuellement <strong>{ $value } { $unit }</strong> d’espace disque.
+sitedata-total-size3 = Les sites web occupent actuellement <strong>{ $value } { $unit }</strong> d’espace disque.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1713,7 +1713,7 @@ sitedata-total-size2 = Le stockage des cookies, de l’historique, des données 
 sitedata-total-size = Le stockage des cookies, du cache et des données de sites utilise actuellement { $value } { $unit } d’espace disque.
 sitedata-learn-more = En savoir plus
 sitedata-delete-on-close2 =
-    .label = Effacez les cookies et les données de sites à chaque fermeture de { -brand-short-name }
+    .label = Effacer les cookies et les données de sites à chaque fermeture de { -brand-short-name }
     .accesskey = E
 sitedata-delete-on-close =
     .label = Supprimer les cookies et les données des sites à la fermeture de { -brand-short-name }
@@ -1721,7 +1721,7 @@ sitedata-delete-on-close =
 sitedata-delete-on-close-private-browsing3 =
     .message = En fonction de vos paramètres d’historique, { -brand-short-name } supprime les cookies et les données de site de votre session lorsque vous fermez le navigateur.
 sitedata-delete-on-close-private-browsing4 =
-    .heading = L’historique ne sera pas enregistré.
+    .heading = L’historique ne sera pas conservé.
     .message = { -brand-short-name } efface les cookies et les données de sites de votre session lorsque vous fermez le navigateur.
 sitedata-delete-on-close-private-browsing = En mode de navigation privée permanent, les cookies et les données de site sont toujours effacés à la fermeture de { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = En fonction de vos paramètres d’historique, { -brand-short-name } supprime les cookies et les données de site de votre session lorsque vous fermez le navigateur.
@@ -2047,7 +2047,7 @@ permissions-block-popups2 =
 permissions-block-popups-exceptions-button3 =
     .label = Gérer les redirections
     .accesskey = G
-    .searchkeywords = popups,popups
+    .searchkeywords = popups,pop-ups
 permissions-addon-install-warning3 =
     .label = Afficher un avertissement lorsque des sites web essaient d’installer des extensions
     .accesskey = A
@@ -2098,9 +2098,6 @@ permissions-speaker2 =
     .label = Haut-parleur
 permissions-notification2 =
     .label = Notifications
-permissions-header3 =
-    .label = Permissions
-    .description = Gérez les sites que les sites web peuvent accéder, contrôler ou déclencher.
 
 ## Privacy Section - Data Collection
 
