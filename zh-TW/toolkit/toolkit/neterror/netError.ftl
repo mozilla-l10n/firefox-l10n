@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = 這通常是網站本身�
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 有時網站會設定一些保護機制，避免網站本身受到與其他網站間不必要的互動影響。
 fp-learn-more-about-https-connections = 了解 HTTPS 連線的更多資訊
+fp-neterror-vpn-error-title = 無法連線至 VPN
+fp-neterror-vpn-error-description = 請稍候幾分鐘再試一次。
