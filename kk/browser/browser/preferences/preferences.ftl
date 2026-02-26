@@ -2565,3 +2565,6 @@ security-privacy-issue-warning-doh =
 security-privacy-issue-warning-ech =
     .label = Шифрленген клиенттік сәлемдесу сөндірулі.
     .description = Шифрленген клиенттік сәлемдесу сіз кіретін сайттарды желі провайдерінен жасырады.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Проксиді автоматты түрде баптау іске қосулы
+    .description = Проксиді автоматты түрде баптау сенімсіз желілерге сіздің әрекеттеріңізді бақылауға мүмкіндік беруі мүмкін.
