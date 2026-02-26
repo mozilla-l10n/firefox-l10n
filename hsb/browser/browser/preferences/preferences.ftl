@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Hižo njepodpěrujemy funkciju „Njeslědować“.
 non-technical-privacy-heading =
     .label = Přidatny škit
+preferences-privacy-relay-available =
+    .label = E-mejlowe maski { -relay-brand-name } namjetować
+    .description = Chowa wašu woprawdźitu e-mejlowu adresu, zo by waš dochad pósta před spamom škitał.
 non-technical-privacy-header = Nastajenja priwatnosće websydła
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -534,9 +537,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Nastajenja wašeho dźěłoweho systema za „{ $localeName }“ wužiwać, zo bychu so datumy, časy, ličby a měry formatowali.
+settings-spellcheck-header =
+    .label = Prawopisna kontrola
 check-user-spelling =
     .label = Při pisanju prawopis kontrolować
     .accesskey = P
+spellcheck-download-dictionaries =
+    .label = Słowniki sćahnyć
 
 ## General Section - Files and Applications
 
@@ -794,11 +801,20 @@ network-proxy-connection-learn-more = Dalše informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
+network-proxy-group2 =
+    .label = Nastajenja proksy
+    .description = Konfigurujće, kak { -brand-short-name } z internetom zwjazuje.
+network-proxy-connection-settings2 =
+    .label = Proksy onfigurować
+    .description = Změnjenje tutych nastajenjow móže zwiskowe problemy zawinować
+    .accesskey = P
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe wokna a rajtarki
 home-new-windows-tabs-description2 = Wubjerće, štož chceće widźeć, hdyž swoju startowu stronu, nowe wokna a nowe rajtarki wočinjeće.
+home-section =
+    .heading = Startowa strona a start
 
 ## Home Section - Default Browser
 

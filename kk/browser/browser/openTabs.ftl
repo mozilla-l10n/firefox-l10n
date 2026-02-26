@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Бөлінген көрініске қосу үшін бетті таңдаңыз
+opentabs-search-text-box =
+    .placeholder = Беттерден іздеу
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = "{ $query }" бойынша іздеу нәтижелері

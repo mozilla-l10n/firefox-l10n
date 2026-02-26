@@ -2349,8 +2349,19 @@ preferences-doh-status-item-active =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active-local =
     .message = DNS over HTTPS werkt niet, omdat er een fout ({ $reason }) is opgetreden bij het gebruik van de lokale provider { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS over HTTPS gebruikt de lokale provider { $name }
 preferences-doh-select-resolver-label =
     .label = Kies provider:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Deze provider gebruiken voor het oplossen van DNS over HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Voer een aangepaste provider-URL in
 preferences-doh-header2 =
     .heading = DNS over HTTPS
 
@@ -2421,7 +2432,40 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } staat op wacht
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } beveelt enkele beveiligingsverbeteringen aan
 security-privacy-status-ok-label = Verbeterde bescherming tegen volgen is ingeschakeld
+security-privacy-status-problem-label = We hebben instellingen gevonden die invloed hebben op uw bescherming
+security-privacy-status-problem-helper-label = Problemen bekijken
+security-privacy-status-pending-trackers-label = Opzoeken hoeveel trackers { -brand-short-name } de afgelopen maand heeft geblokkeerd
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } tracker geblokkeerd in de afgelopen maand
+       *[other] { $trackerCount } trackers geblokkeerd in de afgelopen maand
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = U hebt <a data-l10n-name="strict-tracking-protection">strenge bescherming</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = U hebt <a data-l10n-name="custom-tracking-protection">aangepaste bescherming</a>
+security-privacy-status-up-to-date-label = U hebt de nieuwste, veiligste versie van { -brand-short-name }
+security-privacy-status-update-needed-label = Er is een nieuwe versie van { -brand-short-name } beschikbaar.
+security-privacy-status-update-error-label = { -brand-short-name } heeft problemen met zichzelf bijwerken
+security-privacy-status-update-checking-label = { -brand-short-name } controleert op updates
+security-privacy-status-update-needed-description = Werk bij voor de nieuwste snelheids-, stabiliteits- en beveiligingsupdates.
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } bijwerken
+security-privacy-image-warning =
+    .alt = Een schild met een uitroepteken, dat zijn bezorgdheid uit over uw beveiligingswaarschuwingen
+security-privacy-image-ok =
+    .alt = Een schild met een vinkje, dat aangeeft dat u geen openstaande beveiligingsproblemen hebt
+security-privacy-issue-card =
+    .heading = Beveiligingswaarschuwingen
+issue-card-reset-button =
+    .label = Herinitialiseren
 issue-card-dismiss-button =
     .tooltiptext = Sluiten
     .aria-label = Sluiten
