@@ -1183,6 +1183,7 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-translations-more-link = سامووا قلوه سی ولرنیڌنا
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
     .label = فعال وابی
@@ -1194,3 +1195,47 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = لقو
 preferences-ai-controls-block-confirmation-confirm =
     .label = مسدۊد کردن
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری فعال هڌ
+security-privacy-issue-card =
+    .heading = هوشدارا ٱمنیتی
+issue-card-reset-button =
+    .label = وورنشۊوی
+issue-card-dismiss-button =
+    .tooltiptext = رڌ کردن
+    .aria-label = رڌ کردن
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = سامووا پؽش رئڌه
+preferences-etp-header =
+    .heading = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری
+preferences-etp-customize-button =
+    .label = سفارشی کردن زفت وابیڌن جلاو رڌ جۊری
+preferences-etp-customize-header =
+    .heading = سفارشی کردن زفت وابیڌن جلاو رڌ جۊری
+preferences-etp-reset-standard-button =
+    .label = وورنشۊوی و استاندارد
+preferences-etp-reset-strict-button =
+    .label = وورنشۊوی و سخت گرووه
+preferences-etp-custom-cookies-enabled =
+    .label = کۊکیا
+preferences-etp-custom-cookie-behavior =
+    .aria-label = کۊکیا
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = هشتن پوی کۊکیا
+preferences-etp-custom-tracking-protection-enabled =
+    .label = موئتوا رڌجۊری
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = موئتوا رڌجۊری
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = و در کونا رزم ٱرزا
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = جا کلکا اشناخته وابیڌه
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = جا کلکا مشکۊک
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = جا کلکا مشکۊک

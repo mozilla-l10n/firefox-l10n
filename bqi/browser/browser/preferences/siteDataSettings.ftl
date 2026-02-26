@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = پیتینیڌن وبگه یل
+    .accesskey = S
 site-data-column-host =
     .label = وبگه
 site-data-column-cookies =
@@ -15,11 +18,23 @@ site-data-column-last-used =
     .label = و کار گرؽڌن دیندایی
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (فایل مهلی)
+site-data-remove-selected =
+    .label = پاک کردن مووردا پسند وابیڌه
+    .accesskey = R
+site-data-settings-dialog =
+    .buttonlabelaccept = زفت آلشتکاریا
+    .buttonaccesskeyaccept = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-data-remove-all =
+    .label = پاک کردن پوی
+    .accesskey = e
+site-data-remove-shown =
+    .label = پاک کردن پوی مووردا نشووݩ داڌه وابیڌه
+    .accesskey = e
 
 ## Removing
 
