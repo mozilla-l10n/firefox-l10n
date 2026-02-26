@@ -2314,7 +2314,7 @@ preferences-doh-manage-exceptions2 =
     .label = 예외 관리
     .accesskey = x
 preferences-doh-status-item-off =
-    .message = DNS over HTTPS 꺼짐
+    .message = DNS over HTTPS가 꺼짐
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
@@ -2442,3 +2442,27 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 security-privacy-issue-warning-fingerprinters =
     .label = 알려진 디지털 지문은 차단되지 않습니다.
     .description = 이로 인해 일부 추적기가 쿠키 없이 사용자를 따라갈 수 있습니다.
+security-privacy-issue-warning-third-party-cookies =
+    .label = 제3자 쿠키가 활성화됨
+    .description = 제3자 쿠키는 여러 웹 사이트에서 사용자를 추적하는 데 사용됩니다.
+security-privacy-issue-warning-password-manager =
+    .label = 비밀번호 관리자가 비활성화됨
+    .description = 비밀번호 관리자는 계정에 대한 강력한 비밀번호를 저장하는 데 도움이 됩니다.
+security-privacy-issue-warning-popup-blocker =
+    .label = 팝업 차단기가 비활성화됨
+    .description = 팝업은 방해가 되며 잠재적으로 해로울 수 있습니다.
+security-privacy-issue-warning-extension-install =
+    .label = 웹 사이트에서 확장 기능을 설치할 수 있음
+    .description = 웹 사이트에서 묻지 않고도 { -brand-short-name }에 확장 기능을 설치할 수 있습니다.
+security-privacy-issue-warning-safe-browsing =
+    .label = 위험하고 사기성 콘텐츠가 차단되지 않음
+    .description = 웹 사이트의 사기 및 악성 코드에 대한 노출이 증가합니다.
+security-privacy-issue-warning-doh =
+    .label = DNS over HTTPS가 꺼짐
+    .description = HTTPS를 통한 DNS는 사용자가 방문하는 사이트를 네트워크 공급자로부터 숨깁니다.
+security-privacy-issue-warning-ech =
+    .label = 암호화된 클라이언트 Hello가 비활성화됨
+    .description = 암호화된 클라이언트 Hello는 사용자가 방문하는 사이트를 네트워크 공급자로부터 숨깁니다.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = 프록시 자동 구성이 활성화됨
+    .description = 프록시 자동 구성을 사용하면 신뢰할 수 없는 네트워크가 사용자의 활동을 모니터링할 수 있습니다.
