@@ -712,6 +712,13 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -738,6 +745,10 @@ urlbar-searchmode-actions =
     .label = Gnìomhan
 urlbar-searchmode-exit-button =
     .tooltiptext = Dùin
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Dèan lorg leis na leanas an turas seo:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
@@ -1062,6 +1073,9 @@ tabs-toolbar-list-all-tabs =
     .label = Liostaich gach taba
     .tooltiptext = Liostaich gach taba
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1224,3 +1238,16 @@ file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
