@@ -919,6 +919,10 @@ urlbar-searchmode-default =
     .tooltiptext = Noklusējuma meklēšanas dzinis
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = Šajā reizē meklēt ar:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description = Šajā reizē meklēt ar:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Meklēšanās iestatījumi
@@ -1499,6 +1503,9 @@ trustpanel-blocker-see-all = Redzēt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
