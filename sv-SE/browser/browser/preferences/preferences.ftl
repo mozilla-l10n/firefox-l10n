@@ -537,7 +537,7 @@ check-user-spelling =
     .label = Kontrollera stavning medan du skriver
     .accesskey = k
 spellcheck-download-dictionaries =
-    .label = Hämta ordlistor
+    .label = Ladda ner ordlistor
 spellcheck-promo =
     .heading = Hur man använder stavningskontroll
     .message = Högerklicka i ett textfält för att aktivera eller inaktivera stavningskontroll eller för att ändra språk. Inte alla fält stöder stavningskontroll.
@@ -804,7 +804,7 @@ network-proxy-group2 =
 network-proxy-connection-settings2 =
     .label = Konfigurera proxy
     .description = Att ändra dessa inställningar kan orsaka anslutningsproblem
-    .accesskey = K
+    .accesskey = p
 
 ## Home Section
 
