@@ -836,6 +836,8 @@ pane-privacy-autofill-header = پور کردن خوتکار
 autofill-payment-methods-title = بارتا پرداخت
 autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
+autofill-payment-methods-manage-payments-title =
+    .heading = دؽوۉداری بارتا پرداخت
 payments-list-header =
     .label = بارتا پرداخت
 payments-delete-payment-prompt-confirm-button = پاک کردن
@@ -893,6 +895,8 @@ history-remember-label = گشت گر { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = ویرگار و ویرس امهنه
+history-remember-option-custom2 =
+    .label = سفارشی کردن ویرگار
 history-remember-option-never =
     .label = هرگشت ویرگار و ویرس نؽمهنه
 history-remember-option-custom =
@@ -903,6 +907,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = روفتن ویرگار…
     .accesskey = s
+history-header2 =
+    .heading = ویرگار
 history-group =
     .label = ویرگار
 
@@ -918,9 +924,14 @@ sitedata-option-block-all =
 sitedata-clear2 =
     .label = داده یل گشتن ن برۊفنین
     .accesskey = l
+sitedata-settings2 =
+    .label = دؽوۉداری داده یل گشتن
+    .accesskey = M
 sitedata-clear =
     .label = روفتن داده یل…
     .accesskey = l
+cookies-site-data-group =
+    .label = کۊکیا وو داده یل وبگه
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1000,6 +1011,7 @@ content-blocking-known-and-suspected-fingerprinters = جا کلکا نشناخت
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-etp-standard-tcp-rollout-learn-more = قلوه دووسته بۊین
+content-blocking-warning-learn-how = قلوه دووسته بۊین
 content-blocking-baseline-uncheck-warning-dialog-ok-button = کۊر کردن رفع اشکالا
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = رفع اشکالا ن رۊشن بؽلین
 content-blocking-tracking-protection-option-all-windows =
@@ -1013,6 +1025,29 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = دووسمندیا قلوه
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = کلک نگارا
+    .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = جا کلکا اشناخته وابیڌه
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = جا کلکا مشکۊک
+    .accesskey = S
+
+## Privacy Section - Tracking
+
+tracking-manage-exceptions =
+    .label = دؽوۉداری استسنایل…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -1021,6 +1056,7 @@ permissions-location = جاگه
 permissions-location-settings =
     .label = سامووا…
     .accesskey = t
+permissions-xr = واقعیت مجازی
 permissions-xr-settings =
     .label = سامووا…
     .accesskey = t
@@ -1049,12 +1085,17 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = مسدۊد کردن نیمدری یل گۊشیڌنی
     .accesskey = B
+permissions-addon-exceptions =
+    .label = استسنایل…
+    .accesskey = E
 permissions-location2 =
     .label = جاگه
 permissions-localhost2 =
     .label = برنومه یل وو سرویسا دسگا
 permissions-local-network2 =
     .label = دسگایل شبکه مهلی
+permissions-xr2 =
+    .label = واقعیت مجازی
 permissions-camera2 =
     .label = شؽواتگر
 permissions-microphone2 =
@@ -1083,6 +1124,7 @@ security-enable-safe-browsing-link = قلوه دووسته بۊین
 
 ## Privacy Section - Certificates
 
+certs-devices-enable-fips = و کار وندن FIPS
 space-alert-over-5gb-settings-button =
     .label = گۊشیڌن سامووا
     .accesskey = O
@@ -1139,6 +1181,8 @@ downloads-folder-name = دانلودا
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
 # This option means a user has opted in to use the feature.
 preferences-ai-controls-state-enabled =
     .label = فعال وابی
