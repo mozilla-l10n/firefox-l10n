@@ -4,7 +4,10 @@
 
 fxa-toolbar-sync-syncing2 = هونی هوم گوم ابۊ…
 sync-disconnect-dialog-title2 = قت کردن منپیز؟
+sync-disconnect-dialog-body = { -brand-product-name } هوم گوم وابیڌن وا هساو ایسا ن اواڌارنه، ولی هیچ کویکی ز داده یل گشتن ایسا ری ای دسگا پاک نؽبۊن.
 sync-disconnect-dialog-button = قت کردن منپیز
+fxa-signout-dialog2-title = و در زیڌن ز { -fxaccount-brand-name(capitalization: "sentence") }؟
+fxa-signout-dialog-title2 = ز من هساو منتوری خوتووݩ ازنین و در؟
 fxa-signout-dialog2-button = و در زیڌن
 fxa-menu-sync-settings =
     .label = سامووا هوم گوم کردن
