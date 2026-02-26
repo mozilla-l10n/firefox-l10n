@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = M
 non-technical-privacy-group =
     .label = Webhely adatvédelmi beállításai
+do-not-track-removal3 =
+    .message = Már nem támogatjuk a „Do Not Track” funkciót.
+non-technical-privacy-heading =
+    .label = További védelmek
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } e-mail-maszkok javaslata
+    .description = Elrejti a valódi e-mail-címét, hogy megvédje postafiókját a kéretlen tartalomtól.
 non-technical-privacy-header = Webhely adatvédelmi beállításai
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Az operációs rendszer beállításainak használata a(z) „{ $localeName }” területi beállításhoz a dátumok, idők, számok és mértékegységek beállításához.
+settings-spellcheck-header =
+    .label = Helyesírás-ellenőrzés
 check-user-spelling =
     .label = Helyesírás-ellenőrzés beírás közben
     .accesskey = H
+spellcheck-download-dictionaries =
+    .label = Szótárak letöltése
 
 ## General Section - Files and Applications
 

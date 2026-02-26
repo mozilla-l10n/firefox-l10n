@@ -7,6 +7,11 @@ callout-primary-advance-button-label = بئڌی
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = فئمیم!
 
+## Firefox View feature tour strings
+
+callout-firefox-view-colorways-title = ی رنگ پیشکینیڌه وابیڌه ن بیارین
+callout-firefox-view-colorways-reminder-title = رنگ بندیا دیندایی ایما ن بجۊرین
+
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ناهاڌن پا کار
@@ -95,6 +100,7 @@ sidebar-callout-survey-saved-websites-2 = دسرسی زل و نشووکا ایس
 sidebar-callout-survey-none-of-above = هیچ کویکی ز مووردا رویی
 sidebar-callout-survey-submit = فشناڌن
 sidebar-callout-survey-thank-you = ممنووݩ ز منشڌ ایسا!
+splitview-onboarding-callout-cta-1 = هیم سکو امتهووݩ کوݩ
 unified-search-callout-primary-label = بئڌی
 unified-search-callout-secondary-label = رڌ کردن
 unified-search-engines-callout-primary-label = فئمیم
