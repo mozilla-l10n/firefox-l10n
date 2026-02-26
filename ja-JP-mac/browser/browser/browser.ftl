@@ -917,6 +917,14 @@ urlbar-searchmode-exit-button =
     .tooltiptext = 閉じる
 urlbar-searchmode-default =
     .tooltiptext = デフォルト検索エンジン
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-description-menucaption =
+    .label = 今回だけ使う検索エンジン:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = 検索エンジン:
 urlbar-searchmode-popup-description = 今回だけ使う検索エンジン:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
