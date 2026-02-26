@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Vignette de la page { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Sélectionner la page { $page }
 
 ## Find panel button title and messages
 
@@ -644,6 +648,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Afficher/Masquer le panneau latéral
 pdfjs-views-manager-sidebar =
     .aria-label = Panneau latéral
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Redimensionneur de la barre latérale
 pdfjs-views-manager-view-selector-button =
     .title = Vues
 pdfjs-views-manager-view-selector-button-label = Vues
@@ -702,6 +708,7 @@ pdfjs-views-manager-status-undo-button-label = Annuler
 pdfjs-views-manager-status-close-button =
     .title = Fermer
 pdfjs-views-manager-status-close-button-label = Fermer
+pdfjs-views-manager-paste-button-label = Coller
 
 ## Main menu for adding/removing signatures
 

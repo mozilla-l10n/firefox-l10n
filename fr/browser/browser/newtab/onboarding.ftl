@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Restaurer à partir d’une sauvegard
 restore-from-backup-title = Reconfigurons { -brand-short-name } à votre goût
 restore-from-backup-subtitle = Récupérez tous vos marque-pages, votre historique et d’autres données pour reprendre votre navigation.
 restore-from-backup-secondary-button = Ne pas restaurer
+multiple-backups-info-tile = <strong>Plusieurs fichiers de sauvegarde ont été trouvés.</strong> Le fichier le plus récent est sélectionné. Restaurez d’autres profils depuis les <a data-l10n-name="settings-label">paramètres</a>.
 
 ## Restored from Backup spotlight
 

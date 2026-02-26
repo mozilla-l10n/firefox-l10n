@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Ha din att-gö
 experimental-features-semantic-history-search =
     .label = Semantisk historiksökning
 experimental-features-semantic-history-search-description = Använd en lokal maskininlärningsmodell för att föreslå poster från historiken som är relaterade till dina sökningar baserat på förståelse av naturligt språk i adressfältet för { -brand-product-name }. <a data-l10n-name="connect">Dela feedback</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Anteckningar för flikar
+experimental-features-tab-notes-description = Flikanteckningar är en experimentell funktion som låter dig lägga till anteckningar i dina webbläsarflikar. Anteckna kontext, påminnelser eller nästa steg så att du kan komma tillbaka och komma ihåg varför du öppnade den. Vi skulle gilla din feedback eftersom vi fortsätter att förbättra den här funktionen. <a data-l10n-name="connect">Dela feedback</a>

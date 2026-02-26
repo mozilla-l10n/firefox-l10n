@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Välj en flik att lägga till i delad vy
+opentabs-search-text-box =
+    .placeholder = Sök flikar
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Sökresultat för "{ $query }"

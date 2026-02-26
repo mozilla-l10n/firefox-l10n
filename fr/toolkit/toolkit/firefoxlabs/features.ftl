@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Gardez votre l
 experimental-features-semantic-history-search =
     .label = Recherche sémantique dans l’historique
 experimental-features-semantic-history-search-description = Utiliser un modèle d’apprentissage automatique local pour proposer des éléments de l’historique en lien avec vos recherches, grâce à la compréhension du langage naturel dans la barre d’adresse de { -brand-product-name }. <a data-l10n-name="connect">Donner votre avis</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notes d’onglets
+experimental-features-tab-notes-description = Les notes d’onglets sont une fonctionnalité expérimentale qui vous permet d’ajouter des notes autocollantes sur les onglets de votre navigateur. Notez le contexte, les rappels ou les étapes suivantes afin de pouvoir vous rappeler pourquoi vous l’avez ouvert. Nous aimerions connaître votre avis alors que nous améliorons cette fonctionnalité. <a data-l10n-name="connect">Partagez vos commentaires</a>

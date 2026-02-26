@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Lägg till objekt
+storage-delete-all-button =
+    .title = Ta bort alla
 # Refresh button title
 storage-refresh-button =
     .title = Uppdatera objekt

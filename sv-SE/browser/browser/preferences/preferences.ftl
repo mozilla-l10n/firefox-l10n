@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = S
 non-technical-privacy-group =
     .label = Sekretessinställningar för webbplatsen
+do-not-track-removal3 =
+    .message = Vi stöder inte längre funktionen "Spåra inte".
+non-technical-privacy-heading =
+    .label = Ytterligare skydd
+preferences-privacy-relay-available =
+    .label = Föreslå { -relay-brand-name } e-postalias
+    .description = Döljer din riktiga e-postadress för att skydda din inkorg från skräppost.
 non-technical-privacy-header = Sekretessinställningar för webbplatsen
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Använd dina operativsysteminställningar för “{ $localeName }” för att formatera datum, tider, siffror och mätningar.
+settings-spellcheck-header =
+    .label = Stavningskontroll
 check-user-spelling =
     .label = Kontrollera stavning medan du skriver
     .accesskey = k
+spellcheck-download-dictionaries =
+    .label = Hämta ordlistor
+spellcheck-promo =
+    .heading = Hur man använder stavningskontroll
+    .message = Högerklicka i ett textfält för att aktivera eller inaktivera stavningskontroll eller för att ändra språk. Inte alla fält stöder stavningskontroll.
 
 ## General Section - Files and Applications
 
@@ -784,11 +798,20 @@ network-proxy-connection-learn-more = Läs mer
 network-proxy-connection-settings =
     .label = Inställningar…
     .accesskey = n
+network-proxy-group2 =
+    .label = Proxyinställningar
+    .description = Konfigurera hur { -brand-short-name } ansluter till internet.
+network-proxy-connection-settings2 =
+    .label = Konfigurera proxy
+    .description = Att ändra dessa inställningar kan orsaka anslutningsproblem
+    .accesskey = K
 
 ## Home Section
 
 home-new-windows-tabs-header = Nya fönster och flikar
 home-new-windows-tabs-description2 = Välj vad du ser när du öppnar din startsida, ett nytt fönster eller en ny flik.
+home-section =
+    .heading = Hem och start
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1072,14 @@ search-one-click-header-3 =
     .description = Välj vilka sökmotorer och genvägar som ska visas i adressfältet.
 update-search-engine-success =
     .message = Sökmotor har uppdaterats
+search-edit-engine-2 =
+    .title = Redigera sökmotor
+search-delete-engine =
+    .title = Ta bort sökmotor
+search-enable-engine =
+    .title = Aktivera sökmotor
+search-outlink-to-extensions-page =
+    .title = Hantera i tillägg och teman
 search-choose-engine-column =
     .label = Sökmotor
 search-choose-keyword-column =
@@ -1600,6 +1631,11 @@ history-remember-label = { -brand-short-name } kommer att
     .accesskey = m
 history-remember-option-all =
     .label = Spara historik
+history-remember-option-never2 =
+    .label = Inte spara någon historik
+    .description = Varje fönster fungerar som ett privat fönster. När påslaget måste tillägg tillåtas.
+history-remember-option-custom2 =
+    .label = Anpassa historik
 history-remember-option-never =
     .label = Inte spara någon historik
 history-remember-option-custom =
@@ -1642,8 +1678,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Rensa historik…
     .accesskey = s
+history-header2 =
+    .heading = Historik
+history-section-header =
+    .label = Historik
+    .description = Välj vad du vill att { -brand-short-name } ska komma ihåg när du stänger webbläsaren.
+history-custom-section-header =
+    .label = Avancerade inställningar
+    .description = Anpassa vad du vill att { -brand-short-name } ska komma ihåg när du stänger webbläsaren.
+history-custom-button =
+    .label = Välj vad du vill att { -brand-short-name } ska komma ihåg
 history-group =
     .label = Historik
+history-remember-option-all2 =
+    .label = Spara historik
 
 ## Privacy Section - Site Data
 
@@ -1654,17 +1702,27 @@ sitedata-total-size-calculating = Beräkning av webbplatsdata och cachestorlek�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Webbplatser använder för närvarande <strong>{ $value } { $unit }</strong> diskutrymme.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Dina lagrade kakor, historik, webbplatsdata och cache använder för närvarande <strong>{ $value } { $unit }</strong> diskutrymme.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dina lagrade kakor, webbplatsdata och cache använder för tillfället { $value } { $unit } diskutrymme.
 sitedata-learn-more = Läs mer
+sitedata-delete-on-close2 =
+    .label = Rensa kakor och webbplatsdata varje gång du stänger { -brand-short-name }
+    .accesskey = R
 sitedata-delete-on-close =
     .label = Ta bort kakor och webbplatsdata när { -brand-short-name } stängs
     .accesskey = k
 sitedata-delete-on-close-private-browsing3 =
     .message = Baserat på dina historikinställningar, raderar { -brand-short-name } kakor och webbplatsdata från din session när du stänger webbläsaren.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historik sparas inte.
+    .message = { -brand-short-name } rensar kakor och webbplatsdata från din session när du stänger webbläsaren.
 sitedata-delete-on-close-private-browsing = I permanent privat surfläge raderas alltid kakor och webbplatsdata när { -brand-short-name } är stängd.
 sitedata-delete-on-close-private-browsing2 = Baserat på dina historikinställningar, raderar { -brand-short-name } kakor och webbplatsdata från din session när du stänger webbläsaren.
 sitedata-allow-cookies-option =
@@ -1710,6 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Hantera undantag
     .accesskey = H
     .description = Du kan ange vilka webbplatser som alltid eller aldrig får använda kakor och webbplatsdata.
+sitedata-heading =
+    .label = Webbläsardata
+    .description = Hantera dina kakor, historik, cache, webbplatsdata och mer.
+sitedata-settings3 =
+    .label = Rensa data för specifika webbplatser
+    .accesskey = R
+sitedata-cookies-exceptions3 =
+    .label = Hantera undantag
+    .accesskey = H
+    .description = Välj hur specifika webbplatser hanterar kakor och webbplatsdata.
 cookies-site-data-group =
     .label = Kakor och webbplatsdata
 
@@ -1976,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Hantera omdirigeringar
+    .accesskey = H
+    .searchkeywords = popups,popups
+permissions-addon-install-warning3 =
+    .label = Visa varning när webbplatser försöker installera tillägg
+    .accesskey = V
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Hantera popup- och omdirigeringsundantag från tredje part
     .accesskey = H
@@ -2021,6 +2098,9 @@ permissions-speaker2 =
     .label = Högtalare
 permissions-notification2 =
     .label = Aviseringar
+permissions-header3 =
+    .label = Behörigheter
+    .description = Hantera vad webbplatser kan komma åt, styra eller utlösa.
 
 ## Privacy Section - Data Collection
 
@@ -2095,11 +2175,16 @@ website-advertising-private-attribution-description = Detta hjälper webbplatser
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Säkerhet
+browsing-protection-group2 =
+    .label = Vilseledande innehåll och farligt programvaruskydd
+    .description = Farliga webbplatser och nedladdningar kan äventyra din data och enhet. { -brand-short-name } blockerar automatiskt dem och varnar dig för riskabel eller oönskad programvara.
 security-browsing-protection = Skydd mot vilseledande och skadlig programvara
 security-enable-safe-browsing =
     .label = Blockera farligt och vilseledande innehåll
     .accesskey = B
 security-enable-safe-browsing-link = Läs mer
+security-safe-browsing-warning =
+    .message = Om du stänger av detta minskar skyddet mot bedrägerier, skadliga webbplatser och farliga nedladdningar.
 security-block-downloads =
     .label = Blockera farliga hämtningar
     .accesskey = f
@@ -2131,6 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att f
 certs-description2 =
     .label = Certifikat
     .description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
+certs-description3 =
+    .label = Certifikat
+    .description = Konfigurera certifikaten som { -brand-short-name } använder för att verifiera säkra anslutningar.
+certs-view2 =
+    .label = Hantera certifikat
+    .accesskey = H
+certs-devices2 =
+    .label = Hantera säkerhetsenheter
+    .accesskey = H
 
 ## Privacy Section - HTTPS-Only
 
@@ -2160,6 +2254,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS över HTTPS
+dns-over-https-group2 =
+    .label = DNS över HTTPS
+    .description = Domain Name System över HTTPS (DoH) krypterar sökverktyg så det är svårare för din internetleverantör eller andra att se vilka webbplatser du ska besöka.
 preferences-doh-description = Domain Name System (DNS) över HTTPS skickar din begäran om ett domännamn via en krypterad anslutning, skapar en säker DNS och gör det svårare för andra att se vilken webbplats du ska komma åt.
 preferences-doh-description2 = Domain Name System (DNS) över HTTPS skickar din begäran om ett domännamn via en krypterad anslutning, vilket ger en säker DNS och gör det svårare för andra att se vilken webbplats du ska komma åt.
 # Variables:
@@ -2215,6 +2312,58 @@ preferences-doh-exceptions-description = { -brand-short-name } kommer inte att a
 preferences-doh-manage-exceptions =
     .label = Hantera undantag…
     .accesskey = H
+preferences-doh-overview-default =
+    .label = Standardskydd
+    .description = Använd säker DNS i regioner där det är tillgängligt.
+preferences-doh-overview-custom =
+    .label = Anpassad
+    .description = Använd alltid säker DNS med kontroll över din leverantör och reservbeteende.
+preferences-doh-overview-off =
+    .label = Av
+    .description = Använd din standard DNS-resolver.
+preferences-doh-advanced-button =
+    .label = Avancerade inställningar
+preferences-doh-advanced-section =
+    .label = Avancerade inställningar
+    .description = Domain Name System över HTTPS (DoH) krypterar sökverktyg så det är svårare för din internetleverantör eller andra att se vilka webbplatser du ska besöka.
+preferences-doh-manage-exceptions2 =
+    .label = Hantera undantag
+    .accesskey = H
+preferences-doh-status-item-off =
+    .message = DNS över HTTPS är avstängt
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS över HTTPS fungerar inte eftersom vi stötte på ett fel ({ $reason }) när vi försökte använda leverantören { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS över HTTPS fungerar inte eftersom vi fick en ogiltig webbadress ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS över HTTPS använder leverantören { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS över HTTPS fungerar inte eftersom vi stötte på ett fel ({ $reason }) vid försök att använda den lokala leverantören { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS över HTTPS använder den lokala leverantören { $name }
+preferences-doh-select-resolver-label =
+    .label = Välj leverantör:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Använd denna provider för att lösa DNS över HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Ange en anpassad leverantörsadress
+preferences-doh-header2 =
+    .heading = DNS över HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2280,3 +2429,142 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blockera
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } är på vakt
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } rekommenderar några säkerhetsförbättringar
+security-privacy-status-ok-label = Förbättrat spårningsskydd är på
+security-privacy-status-problem-label = Vi hittade inställningar som påverkar ditt skydd
+security-privacy-status-problem-helper-label = Visa problem
+security-privacy-status-pending-trackers-label = Undersöker hur många spårare { -brand-short-name } har blockerat under den senaste månaden
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } spårare blockerad under den senaste månaden
+       *[other] { $trackerCount } spårare blockerade den senaste månaden
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Du har <a data-l10n-name="strict-tracking-protection">strikt skydd</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Du har <a data-l10n-name="custom-tracking-protection">anpassat skydd</a>
+security-privacy-status-up-to-date-label = Du har den senaste och säkraste versionen av { -brand-short-name }
+security-privacy-status-update-needed-label = En ny version av { -brand-short-name } är tillgänglig.
+security-privacy-status-update-error-label = { -brand-short-name } har problem med att uppdatera sig själv
+security-privacy-status-update-checking-label = { -brand-short-name } söker uppdateringar
+security-privacy-status-update-needed-description = Uppdatering för de senaste hastighets-, stabilitets- och säkerhetsuppdateringarna.
+security-privacy-status-update-button-label =
+    .label = Uppdatera { -brand-short-name }
+security-privacy-image-warning =
+    .alt = En sköld med ett utropstecken, som uttrycker oro över dina säkerhetsvarningar
+security-privacy-image-ok =
+    .alt = En sköld med en bock, som visar att du inte har några kvarstående säkerhetsproblem
+security-privacy-issue-card =
+    .heading = Säkerhetsvarningar
+issue-card-reset-button =
+    .label = Återställ
+issue-card-dismiss-button =
+    .tooltiptext = Ignorera
+    .aria-label = Ignorera
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Förbättrat spårningsskydd
+    .description = Webbplatser använder spårare för att följa dig online och visa läskiga annonser. { -brand-short-name } skyddar dig när du surfar och blockerar spårare automatiskt så att du har kontroll över ditt digitala spår.
+preferences-etp-level-standard =
+    .label = Standard
+    .description = Starka, pålitliga skydd som fungerar smidigt med de flesta webbplatser.
+preferences-etp-level-strict =
+    .label = Strikt
+    .description = Starkare skydd som blockerar fler spårare, men kan orsaka fel på vissa webbplatser.
+preferences-etp-level-custom =
+    .label = Anpassad
+    .description = Välj vilka skydd som ska aktiveras eller inaktiveras.
+preferences-etp-status-advanced-button =
+    .label = Avancerade inställningar
+preferences-etp-status-protections-dashboard-link =
+    .label = Se din personliga skyddsöversikt
+    .description = Se hur många lömska spårare { -brand-short-name } har blockerat för dig, inklusive spårare för sociala medier, fingeravtrycksspårare och kryptogrävare.
+preferences-etp-header =
+    .heading = Förbättrat spårningsskydd
+preferences-etp-advanced-settings-group =
+    .label = Avancerade inställningar
+    .description = Webbplatser använder spårare för att följa dig online och visa läskiga annonser. { -brand-short-name } skyddar dig när du surfar och blockerar de flesta spårare automatiskt så att du har kontroll över ditt digitala spår.
+preferences-etp-customize-button =
+    .label = Anpassa spårningsskydd
+preferences-etp-reload-tabs-hint =
+    .message = Ladda om dina flikar för att tillämpa ändringarna.
+preferences-etp-reload-tabs-hint-button =
+    .label = Ladda om alla flikar
+preferences-etp-rfp-warning-message =
+    .message = Du använder Resist Fingerprinting (RFP), som ersätter några av { -brand-short-name }:s skyddsinställningar för fingeravtryck. Detta kan orsaka fel på vissa webbplatser.
+preferences-etp-level-warning-message =
+    .heading = Se upp! Vissa webbplatser kanske inte fungerar som förväntat.
+    .message = Vissa webbplatser bygger spårare i sina funktioner eller innehåll. När { -brand-short-name } blockerar dem ser webbplatsen trasig ut. Prova att använda "Fixa webbplatsproblem" eller stänga av spårningsskyddet på den webbplatsen.
+preferences-etp-manage-exceptions-button =
+    .label = Hantera undantag
+    .description = Hantera webbplatser där förbättrat spårningsskydd är inaktiverat.
+preferences-etp-customize-header =
+    .heading = Anpassa spårningsskydd
+preferences-etp-reset =
+    .label = Återställ anpassningar
+    .description = Återställ inställningarna till en förinställd skyddsnivå.
+preferences-etp-reset-standard-button =
+    .label = Återställ till standard
+preferences-etp-reset-strict-button =
+    .label = Återställ till strikt
+preferences-etp-custom-control-group =
+    .label = Spårningsskydd
+    .description = Välj vilka skydd som ska aktiveras eller inaktiveras.
+preferences-etp-custom-cookies-enabled =
+    .label = Kakor
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Kakor
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Tillåt alla kakor
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Spårningsinnehåll
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Spårningsinnehåll
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kryptogrävare
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Kända fingeravtrycksspårare
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Misstänkta fingeravtrycksspårare
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Misstänkta fingeravtrycksspårare
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Kända fingeravtrycksspårare blockeras inte
+    .description = Detta kan tillåta vissa trackers att följa dig utan kakor.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Kakor från tredje part är aktiverade
+    .description = Kakor från tredje part används för att spåra dig på webbplatser.
+security-privacy-issue-warning-password-manager =
+    .label = Lösenordshanteraren är inaktiverad
+    .description = Lösenordshanterare hjälper dig att lagra starka lösenord för dina konton.
+security-privacy-issue-warning-popup-blocker =
+    .label = Popup-blockerare är inaktiverad
+    .description = Popup-fönster är avbrytande och potentiellt skadliga.
+security-privacy-issue-warning-extension-install =
+    .label = Webbplatser kan installera tillägg
+    .description = Webbplatser kan installera tillägg till { -brand-short-name } utan att fråga.
+security-privacy-issue-warning-safe-browsing =
+    .label = Farligt och vilseledande innehåll blockeras inte
+    .description = Din exponering för bedrägerier och skadlig programvara från webbplatser ökar.
+security-privacy-issue-warning-doh =
+    .label = DNS över HTTPS är inaktiverad
+    .description = DNS över HTTPS döljer vilka webbplatser du besöker från din nätleverantör.
+security-privacy-issue-warning-ech =
+    .label = Krypterad klient Hello är inaktiverad
+    .description = Krypterad klient Hello döljer vilka webbplatser du besöker från din nätleverantör.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Automatisk proxykonfiguration är aktiverad
+    .description = Automatisk proxykonfiguration kan låta opålitliga nätverk övervaka din aktivitet.

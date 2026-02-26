@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = D
 non-technical-privacy-group =
     .label = Préférences de confidentialité des sites web
+do-not-track-removal3 =
+    .message = La fonctionnalité « Ne pas me pister » n’est plus prise en charge.
+non-technical-privacy-heading =
+    .label = Protections supplémentaires
+preferences-privacy-relay-available =
+    .label = Suggérer { -relay-brand-name } alias de messagerie
+    .description = Masque votre véritable adresse e-mail pour protéger votre boîte de réception du spam.
 non-technical-privacy-header = Préférences de confidentialité des sites web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Utiliser les paramètres de votre système d’exploitation en « { $localeName } » pour formater les dates, les heures, les nombres et les mesures.
+settings-spellcheck-header =
+    .label = Vérification orthographique
 check-user-spelling =
     .label = Vérifier l’orthographe pendant la saisie
     .accesskey = V
+spellcheck-download-dictionaries =
+    .label = Téléchargement de dictionnaires
+spellcheck-promo =
+    .heading = Comment utiliser la vérification orthographique
+    .message = Effectuez un clic droit sur un champ de texte pour activer ou désactiver la vérification orthographique ou pour changer la langue. Certains champs ne prennent pas en charge la vérification orthographique.
 
 ## General Section - Files and Applications
 
@@ -784,11 +798,20 @@ network-proxy-connection-learn-more = En savoir plus
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = P
+network-proxy-group2 =
+    .label = Paramètres de proxy
+    .description = Configurer la façon dont { -brand-short-name } se connecte à Internet.
+network-proxy-connection-settings2 =
+    .label = Configurer le proxy
+    .description = La modification de ces paramètres peut provoquer des problèmes de connexion
+    .accesskey = C
 
 ## Home Section
 
 home-new-windows-tabs-header = Nouvelles fenêtres et nouveaux onglets
 home-new-windows-tabs-description2 = Choisissez ce qui est affiché lorsque vous ouvrez votre page d’accueil, de nouvelles fenêtres ou de nouveaux onglets.
+home-section =
+    .heading = Origine et démarrage
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1072,14 @@ search-one-click-header-3 =
     .description = Choisissez les moteurs de recherche et les raccourcis qui apparaissent dans votre barre d’adresse.
 update-search-engine-success =
     .message = Moteur de recherche mis à jour
+search-edit-engine-2 =
+    .title = Modifier le moteur de recherche
+search-delete-engine =
+    .title = Supprimer le moteur de recherche
+search-enable-engine =
+    .title = Activer le moteur de recherche
+search-outlink-to-extensions-page =
+    .title = Gérer dans les extensions et les thèmes
 search-choose-engine-column =
     .label = Moteur de recherche
 search-choose-keyword-column =
@@ -1600,6 +1631,11 @@ history-remember-label = Règles de conservation
     .accesskey = R
 history-remember-option-all =
     .label = Conserver l’historique
+history-remember-option-never2 =
+    .label = ne jamais conserver l’historique
+    .description = Chaque fenêtre agit comme une fenêtre privée. Lorsque cette option est activée, les extensions doivent être autorisées.
+history-remember-option-custom2 =
+    .label = Personnaliser l’historique
 history-remember-option-never =
     .label = Ne jamais conserver l’historique
 history-remember-option-custom =
@@ -1642,8 +1678,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Effacer l’historique…
     .accesskey = h
+history-header2 =
+    .heading = Historique
+history-section-header =
+    .label = Historique
+    .description = Choisissez ce que { -brand-short-name } doit mémoriser à la fermeture du navigateur.
+history-custom-section-header =
+    .label = Paramètres avancés
+    .description = Personnalisez ce que { -brand-short-name } doit mémoriser à la fermeture du navigateur.
+history-custom-button =
+    .label = Choisissez ce que { -brand-short-name } doit garder en mémoire
 history-group =
     .label = Historique
+history-remember-option-all2 =
+    .label = Conserver l’historique
 
 ## Privacy Section - Site Data
 
@@ -1654,17 +1702,27 @@ sitedata-total-size-calculating = Calcul du volume des données de sites et du c
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Des sites web utilisent actuellement <strong>{ $value } { $unit }</strong> d’espace disque.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Le stockage des cookies, de l’historique, des données de sites et du cache utilise actuellement <strong>{ $value } { $unit }</strong> d’espace disque.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Le stockage des cookies, du cache et des données de sites utilise actuellement { $value } { $unit } d’espace disque.
 sitedata-learn-more = En savoir plus
+sitedata-delete-on-close2 =
+    .label = Effacez les cookies et les données de sites à chaque fermeture de { -brand-short-name }
+    .accesskey = E
 sitedata-delete-on-close =
     .label = Supprimer les cookies et les données des sites à la fermeture de { -brand-short-name }
     .accesskey = S
 sitedata-delete-on-close-private-browsing3 =
     .message = En fonction de vos paramètres d’historique, { -brand-short-name } supprime les cookies et les données de site de votre session lorsque vous fermez le navigateur.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = L’historique ne sera pas enregistré.
+    .message = { -brand-short-name } efface les cookies et les données de sites de votre session lorsque vous fermez le navigateur.
 sitedata-delete-on-close-private-browsing = En mode de navigation privée permanent, les cookies et les données de site sont toujours effacés à la fermeture de { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = En fonction de vos paramètres d’historique, { -brand-short-name } supprime les cookies et les données de site de votre session lorsque vous fermez le navigateur.
 sitedata-allow-cookies-option =
@@ -1710,6 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Gérer les exceptions
     .accesskey = G
     .description = Vous pouvez spécifier quels sites web sont toujours ou jamais autorisés à utiliser des cookies et des données de site.
+sitedata-heading =
+    .label = Données de navigation
+    .description = Gérez les cookies, l’historique, le cache, les données des sites web, etc.
+sitedata-settings3 =
+    .label = Effacer les données pour des sites spécifiques
+    .accesskey = E
+sitedata-cookies-exceptions3 =
+    .label = Gérer les exceptions
+    .accesskey = G
+    .description = Choisissez comment des sites spécifiques gèrent les cookies et les données de sites.
 cookies-site-data-group =
     .label = Cookies et données de sites
 
@@ -1976,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Gérer les redirections
+    .accesskey = G
+    .searchkeywords = popups,popups
+permissions-addon-install-warning3 =
+    .label = Afficher un avertissement lorsque des sites web essaient d’installer des extensions
+    .accesskey = A
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Gérer les exceptions pour les popups et les redirections tierces
     .accesskey = G
@@ -2021,6 +2098,9 @@ permissions-speaker2 =
     .label = Haut-parleur
 permissions-notification2 =
     .label = Notifications
+permissions-header3 =
+    .label = Permissions
+    .description = Gérez les sites que les sites web peuvent accéder, contrôler ou déclencher.
 
 ## Privacy Section - Data Collection
 
@@ -2095,11 +2175,16 @@ website-advertising-private-attribution-description = Cette préférence aide le
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sécurité
+browsing-protection-group2 =
+    .label = Protection contre les contenus trompeurs et les logiciels dangereux
+    .description = Les sites et téléchargements dangereux peuvent mettre en danger vos données et votre appareil. { -brand-short-name } les bloque automatiquement et vous avertit des logiciels dangereux ou indésirables.
 security-browsing-protection = Protection contre les contenus trompeurs et les logiciels dangereux
 security-enable-safe-browsing =
     .label = Bloquer les contenus dangereux ou trompeurs
     .accesskey = B
 security-enable-safe-browsing-link = En savoir plus
+security-safe-browsing-warning =
+    .message = Désactiver cette option réduit la protection contre les escroqueries, les sites malveillants et les téléchargements dangereux.
 security-block-downloads =
     .label = Bloquer les téléchargements dangereux
     .accesskey = D
@@ -2131,6 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } n’a plus assez 
 certs-description2 =
     .label = Certificats
     .description = Configurer les certificats que { -brand-short-name } utilise pour l’authentification.
+certs-description3 =
+    .label = Certificats
+    .description = Configurer les certificats utilisés par { -brand-short-name } pour vérifier des connexions sécurisées.
+certs-view2 =
+    .label = Gérer les certificats
+    .accesskey = G
+certs-devices2 =
+    .label = Gérer les appareils de sécurité
+    .accesskey = G
 
 ## Privacy Section - HTTPS-Only
 
@@ -2160,6 +2254,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
+dns-over-https-group2 =
+    .label = DNS via HTTPS
+    .description = Le système de noms de domaine via HTTPS (DoH) chiffre les recherches de sites, il est donc plus difficile pour votre fournisseur Internet ou pour des tiers de voir quels sites vous vous apprêtez à visiter.
 preferences-doh-description = Le système de nom de domaine (DNS) via HTTPS envoie votre demande de résolution d’un nom de domaine à travers une connexion chiffrée, créant un système sécurisé compliquant la tâche des tiers qui tenteraient de découvrir sur quel site web vous allez vous rendre.
 preferences-doh-description2 = Le système de nom de domaine (DNS) via HTTPS envoie votre demande de résolution d’un nom de domaine à travers une connexion chiffrée, procurant un DNS sécurisé pour compliquer la tâche de tiers qui tenteraient de découvrir le site web sur lequel vous allez vous rendre.
 # Variables:
@@ -2215,6 +2312,58 @@ preferences-doh-exceptions-description = { -brand-short-name } n’utilisera pas
 preferences-doh-manage-exceptions =
     .label = Gérer les exceptions…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protection par défaut
+    .description = Utilisez un DNS sécurisé dans les régions où il est disponible.
+preferences-doh-overview-custom =
+    .label = Personnalisé
+    .description = Utilisez toujours un DNS sécurisé en contrôlant votre fournisseur et le comportement des solutions de secours.
+preferences-doh-overview-off =
+    .label = Désactivé
+    .description = Utilisez votre serveur DNS par défaut.
+preferences-doh-advanced-button =
+    .label = Paramètres avancés
+preferences-doh-advanced-section =
+    .label = Paramètres avancés
+    .description = Le système de noms de domaine via HTTPS (DoH) chiffre les recherches de sites, il est donc plus difficile pour votre fournisseur Internet ou pour des tiers de voir quels sites vous vous apprêtez à visiter.
+preferences-doh-manage-exceptions2 =
+    .label = Gérer les exceptions
+    .accesskey = G
+preferences-doh-status-item-off =
+    .message = DNS via HTTPS est désactivé
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = Le DNS via HTTPS ne fonctionne pas, car nous avons rencontré une erreur ({ $reason }) en essayant d’utiliser le fournisseur { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = Le DNS via HTTPS ne fonctionne pas car nous avons reçu une URL invalide ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = Le DNS via HTTPS utilise le fournisseur { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = Le DNS via HTTPS ne fonctionne pas, car nous avons rencontré une erreur ({ $reason }) en essayant d’utiliser le fournisseur local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = Le DNS via HTTPS utilise le fournisseur local { $name }
+preferences-doh-select-resolver-label =
+    .label = Choisir le fournisseur :
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Utiliser ce fournisseur pour résoudre le DNS via HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Saisissez l’URL d’un fournisseur personnalisé
+preferences-doh-header2 =
+    .heading = DNS via HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2280,3 +2429,142 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annuler
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquer
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } monte la garde
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } recommande des améliorations de sécurité
+security-privacy-status-ok-label = La protection renforcée contre le pistage est activée
+security-privacy-status-problem-label = Nous avons trouvé des paramètres qui affectent votre protection
+security-privacy-status-problem-helper-label = Afficher les problèmes
+security-privacy-status-pending-trackers-label = Recherche du nombre de traqueurs { -brand-short-name } bloqués au cours du mois dernier
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } traqueur bloqué le mois dernier
+       *[other] { $trackerCount } traqueurs bloqués le mois dernier
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Vous avez <a data-l10n-name="strict-tracking-protection">une protection stricte</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Vous disposez d’une <a data-l10n-name="custom-tracking-protection">protection personnalisée</a>
+security-privacy-status-up-to-date-label = Vous disposez de la version la plus récente et la plus sûre de { -brand-short-name }
+security-privacy-status-update-needed-label = Une nouvelle version de { -brand-short-name } est disponible.
+security-privacy-status-update-error-label = { -brand-short-name } a des difficultés à se mettre à jour
+security-privacy-status-update-checking-label = { -brand-short-name } recherche des mises à jour
+security-privacy-status-update-needed-description = Mettez-vous à jour pour recevoir les dernières mises à jour concernant la vitesse, la stabilité et la sécurité.
+security-privacy-status-update-button-label =
+    .label = Mettre à jour { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un bouclier avec un point d’exlamation, exprimant votre inquiétude concernant les avertissements de sécurité
+security-privacy-image-ok =
+    .alt = Un bouclier avec une coche, indiquant que vous n’avez aucun problème de sécurité en cours
+security-privacy-issue-card =
+    .heading = Avertissements de sécurité
+issue-card-reset-button =
+    .label = Réinitialiser
+issue-card-dismiss-button =
+    .tooltiptext = Ignorer
+    .aria-label = Ignorer
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Protection renforcée contre le pistage
+    .description = Les sites utilisent des traqueurs pour vous suivre en ligne et pour afficher des publicités flippantes. { -brand-short-name } vous protège lorsque vous naviguez en bloquant automatiquement les traqueurs afin que vous gardiez le contrôle de votre piste numérique.
+preferences-etp-level-standard =
+    .label = Standard (par défaut)
+    .description = Des protections robustes et fiables qui fonctionnent parfaitement avec la plupart des sites web.
+preferences-etp-level-strict =
+    .label = Strict
+    .description = Des protections plus puissantes qui bloquent davantage de traqueurs, mais peuvent empêcher certains sites de fonctionner correctement.
+preferences-etp-level-custom =
+    .label = Personnalisé
+    .description = Choisissez les protections à activer ou désactiver.
+preferences-etp-status-advanced-button =
+    .label = Paramètres avancés
+preferences-etp-status-protections-dashboard-link =
+    .label = Afficher votre tableau de bord personnalisé des protections
+    .description = Découvrez combien de traqueurs { -brand-short-name } ont bloqués pour vous, y compris les traqueurs de réseaux sociaux, les détecteurs d’empreintes numériques et les mineurs de cryptomonnaies.
+preferences-etp-header =
+    .heading = Protection renforcée contre le pistage
+preferences-etp-advanced-settings-group =
+    .label = Paramètres avancés
+    .description = Les sites utilisent des traqueurs pour vous suivre en ligne et pour afficher des publicités flippantes. { -brand-short-name } vous protège lorsque vous naviguez, bloquant automatiquement la plupart des traqueurs afin que vous gardiez le contrôle de votre piste numérique.
+preferences-etp-customize-button =
+    .label = Personnaliser la protection contre le pistage
+preferences-etp-reload-tabs-hint =
+    .message = Actualisez vos onglets pour appliquer ces modifications.
+preferences-etp-reload-tabs-hint-button =
+    .label = Actualiser tous les onglets
+preferences-etp-rfp-warning-message =
+    .message = Vous utilisez Resist Fingerprinting (RFP) qui remplace quelques uns des paramètres de protection contre les détecteurs d’empreinte numérique de { -brand-short-name }. De ce fait, certains sites peuvent dysfonctionner.
+preferences-etp-level-warning-message =
+    .heading = Attention ! Certains sites peuvent ne pas fonctionner comme prévu.
+    .message = Certains sites intègrent des traqueurs dans leurs fonctionnalités ou leur contenu. Quand { -brand-short-name } les bloque, le site semble cassé. Essayez d’utiliser « Résoudre le problème du site » ou de désactiver la protection contre le pistage sur ce site.
+preferences-etp-manage-exceptions-button =
+    .label = Gérer les exceptions
+    .description = Gérer les sites web où la protection renforcée contre le pistage est désactivée.
+preferences-etp-customize-header =
+    .heading = Personnaliser la protection contre le pistage
+preferences-etp-reset =
+    .label = Réinitialiser les personnalisations
+    .description = Restaurer les paramètres à un niveau de protection prédéfini.
+preferences-etp-reset-standard-button =
+    .label = Réinitialiser
+preferences-etp-reset-strict-button =
+    .label = Réinitialiser
+preferences-etp-custom-control-group =
+    .label = Protection contre le pistage
+    .description = Choisissez les protections à activer ou désactiver.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Autoriser tous les cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Contenu utilisé pour le pistage
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Contenu utilisé pour le pistage
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Mineurs de cryptomonnaies
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Détecteurs d’empreinte numérique connus
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Détecteurs d’empreinte numérique suspectés
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Détecteurs d’empreinte numérique suspectés
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Les détecteurs d’empreinte numérique connus ne sont pas bloqués
+    .description = Cela peut permettre à certains traqueurs de vous suivre sans cookies.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookies tiers activés
+    .description = Les cookies tiers sont utilisés pour vous pister sur des sites web.
+security-privacy-issue-warning-password-manager =
+    .label = Le gestionnaire de mots de passe est désactivé
+    .description = Les gestionnaires de mots de passe vous aident à stocker des mots de passe forts pour vos comptes.
+security-privacy-issue-warning-popup-blocker =
+    .label = Le bloqueur de popups est désactivé
+    .description = Les popups sont interrompus et potentiellement dangereux.
+security-privacy-issue-warning-extension-install =
+    .label = Les sites web peuvent installer des extensions
+    .description = Les sites web peuvent installer des extensions sur { -brand-short-name } sans demander.
+security-privacy-issue-warning-safe-browsing =
+    .label = Les contenus dangereux ou trompeurs ne sont pas bloqués
+    .description = Votre exposition aux escroqueries et aux logiciels malveillants provenant de sites web est accrue.
+security-privacy-issue-warning-doh =
+    .label = Le DNS via HTTPS est désactivé
+    .description = Le DNS via HTTPS masque les sites que vous visitez de votre fournisseur réseau.
+security-privacy-issue-warning-ech =
+    .label = Le client chiffré Hello est désactivé
+    .description = Encrypted Client Hello masque les sites que vous visitez à votre fournisseur d’accès réseau.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = La configuration automatique du proxy est activée
+    .description = La configuration automatique du proxy pourrait permettre à des réseaux non fiables de surveiller votre activité.

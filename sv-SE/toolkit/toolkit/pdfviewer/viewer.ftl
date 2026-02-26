@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniatyr av sida { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Välj sida { $page }
 
 ## Find panel button title and messages
 
@@ -648,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Visa/dölj sidofält
 pdfjs-views-manager-sidebar =
     .aria-label = Sidofält
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Förändring av sidofältet
 pdfjs-views-manager-view-selector-button =
     .title = Vyer
 pdfjs-views-manager-view-selector-button-label = Vyer
@@ -706,6 +712,7 @@ pdfjs-views-manager-status-undo-button-label = Ångra
 pdfjs-views-manager-status-close-button =
     .title = Stäng
 pdfjs-views-manager-status-close-button-label = Stäng
+pdfjs-views-manager-paste-button-label = Klistra in
 
 ## Main menu for adding/removing signatures
 
