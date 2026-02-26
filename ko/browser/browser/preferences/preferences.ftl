@@ -2427,9 +2427,46 @@ security-privacy-status-pending-trackers-label = 지난 한 달 동안 { -brand-
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label = 지난 한 달 동안 { $trackerCount }개의 추적기가 차단됨
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">엄격한 보호</a> 중
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = <a data-l10n-name="strict-tracking-protection">사용자 지정 보호</a> 중
+security-privacy-status-up-to-date-label = 가장 안전한 { -brand-short-name } 최신 버전을 사용 중입니다
+security-privacy-status-update-needed-label = 새 { -brand-short-name } 버전이 있습니다.
+security-privacy-status-update-error-label = { -brand-short-name }가 자체 업데이트를 하는 데 문제가 있음
+security-privacy-status-update-checking-label = { -brand-short-name }가 업데이트를 확인 중
+security-privacy-status-update-needed-description = 최신 속도, 안정성 및 보안 업데이트를 위해 업데이트하세요.
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } 업데이트
+security-privacy-issue-card =
+    .heading = 보안 경고
+issue-card-reset-button =
+    .label = 재설정
+issue-card-dismiss-button =
+    .tooltiptext = 닫기
+    .aria-label = 닫기
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = 향상된 추적 방지 기능
+    .description = 사이트에서는 추적기를 사용하여 온라인에서 사용자를 추적하고 불쾌한 광고를 표시합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하고 추적기를 자동으로 차단하여 디지털 흔적을 제어할 수 있도록 합니다.
+preferences-etp-level-standard =
+    .label = 표준 (기본값)
+    .description = 대부분의 웹 사이트에서 원활하게 작동하는 강력하고 안정적인 보호 기능입니다.
+preferences-etp-level-strict =
+    .label = 엄격
+    .description = 더 많은 추적기를 차단하는 강력한 보호 기능이 있지만 일부 사이트가 깨질 수 있습니다.
+preferences-etp-level-custom =
+    .label = 사용자 지정
+    .description = 어떤 보호 기능을 켜거나 끌지 선택합니다.
+preferences-etp-status-advanced-button =
+    .label = 고급 설정
+preferences-etp-header =
+    .heading = 향상된 추적 방지 기능
+preferences-etp-advanced-settings-group =
+    .label = 고급 설정
+    .description = 사이트에서는 추적기를 사용하여 온라인에서 사용자를 추적하고 불쾌한 광고를 표시합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하고 추적기를 자동으로 차단하여 디지털 흔적을 제어할 수 있도록 합니다.
 preferences-etp-customize-button =
     .label = 추적 방지 기능 사용자 지정
 preferences-etp-reload-tabs-hint =
