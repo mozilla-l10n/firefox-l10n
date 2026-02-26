@@ -1388,9 +1388,9 @@ forms-breach-alerts =
     .accesskey = b
 forms-breach-alerts-learn-more-link = 详细了解
 preferences-relay-integration-checkbox =
-    .label = 建议使用 { -relay-brand-name } 马甲邮箱以保护您的电子邮箱
+    .label = 建议使用 { -relay-brand-name } 马甲邮箱以保护邮箱地址
 preferences-relay-integration-checkbox2 =
-    .label = 建议使用 { -relay-brand-name } 马甲邮箱来保护邮箱地址
+    .label = 建议使用 { -relay-brand-name } 马甲邮箱以保护邮箱地址
     .accesskey = r
 relay-integration-learn-more-link = 详细了解
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
