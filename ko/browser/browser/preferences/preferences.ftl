@@ -2324,8 +2324,30 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = 잘못된 URL({ $reason })을 받아 HTTPS를 통한 DNS가 작동하지 않음
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = HTTPS를 통한 DNS가 { $name } 공급자를 사용 중
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = 로컬 공급자 { $name }를 사용하는 동안 오류({ $reason })가 발생하여 HTTPS를 통한 DNS가 작동하지 않습니다.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = HTTPS를 통한 DNS가 { $name } 로컬 공급자를 사용하고 있습니다.
 preferences-doh-select-resolver-label =
     .label = 공급자 선택:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = HTTPS를 통한 DNS를 확인하려면 이 공급자를 사용하세요.{ " " }
+preferences-doh-custom-provider-label =
+    .aria-label = 사용자 지정 공급자 URL 입력
+preferences-doh-header2 =
+    .heading = DNS over HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2391,6 +2413,20 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = 취소
 preferences-ai-controls-block-confirmation-confirm =
     .label = 차단
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name }가 경계 중
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name }가 몇 가지 보안 개선 사항을 권장함
+security-privacy-status-ok-label = 향상된 추적 방지 기능이 켜짐
+security-privacy-status-problem-label = 보호 기능에 영향을 미치는 설정을 찾음
+security-privacy-status-problem-helper-label = 이슈 보기
+security-privacy-status-pending-trackers-label = 지난 한 달 동안 { -brand-short-name }가 차단한 추적기 수를 조회 중
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label = 지난 한 달 동안 { $trackerCount }개의 추적기가 차단됨
 
 ## Enhanced Tracking Protection (ETP) status section
 
