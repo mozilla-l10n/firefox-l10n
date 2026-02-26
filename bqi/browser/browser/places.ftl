@@ -2,11 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = گۊشیڌن
+    .accesskey = O
 places-open-in-tab =
     .label = گۊشیڌن من بلگه نۊ
     .accesskey = w
 places-open-all-bookmarks =
     .label = گۊشیڌن پوی نشووکا
+    .accesskey = O
+places-open-all-in-tabs =
+    .label = گۊشیڌن پوی من بلگه یل
     .accesskey = O
 places-open-in-window =
     .label = گۊشیڌن من نیمدری نۊ
@@ -14,15 +20,44 @@ places-open-in-window =
 places-open-in-private-window =
     .label = گۊشیڌن من نیمدری سیخومی نۊ
     .accesskey = P
+places-empty-bookmarks-folder =
+    .label = (پتی)
 places-add-bookmark =
     .label = ٱووردن نشووک…
     .accesskey = B
+places-add-folder-contextmenu =
+    .label = ٱووردن دوبلگه
+    .accesskey = F
+places-add-folder =
+    .label = ٱووردن دوبلگه…
+    .accesskey = o
+places-view =
+    .label = نما
+    .accesskey = w
+places-by-date =
+    .label = و ری ویرگار
+    .accesskey = D
+places-by-site =
+    .label = و ری هندا
+    .accesskey = S
+places-by-day-and-site =
+    .label = و ری ویرگار وو وبگه
+    .accesskey = t
 places-history-search =
     .placeholder = پیتینیڌن ویرگار
 places-history =
     .aria-label = ویرگار
 places-bookmarks-search =
     .placeholder = پیتینیڌن نشووکا
+places-delete-domain-data =
+    .label = ز ویر بوردن ای وبگه
+    .accesskey = F
+places-forget-domain-data =
+    .label = ز ویر بوردن ای وبگه…
+    .accesskey = F
+places-sortby-name =
+    .label = ترتیب و ری نوم
+    .accesskey = r
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = آلشت نشووک…
@@ -33,6 +68,16 @@ places-edit-generic =
 places-edit-folder2 =
     .label = آلشت دوبلگه…
     .accesskey = E
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] پاک کردن دوبلگه
+            [one] پاک کردن دوبلگه
+           *[other] پاک کردن دوبلگه یل
+        }
+    .accesskey = D
 # Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = نشووکا دؽوۉداری وابیڌه
