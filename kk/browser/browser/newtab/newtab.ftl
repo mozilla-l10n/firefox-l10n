@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = Өз суреттің URL адресі
 newtab-topsites-use-image-link = Таңдауыңызша суретті қолдану…
 newtab-topsites-image-validation = Суретті жүктеу қатемен аяқталды. Басқа URL адресін қолданып көріңіз.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Мәтінді тазарту
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Бас тарту
