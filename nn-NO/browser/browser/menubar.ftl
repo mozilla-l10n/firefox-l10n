@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Innstillingar
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Innstillingar…
 menu-application-services =
     .label = Tenester
 menu-application-hide-this =

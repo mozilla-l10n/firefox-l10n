@@ -1049,6 +1049,8 @@ search-one-click-header-3 =
     .description = Vel kva søkjemotorar og snarvegar som blir viste i adressefeltet.
 update-search-engine-success =
     .message = Søkjemotoren er oppdatert
+search-edit-engine-2 =
+    .title = Rediger søkjemotor
 search-choose-engine-column =
     .label = Søkjemotor
 search-choose-keyword-column =
@@ -1642,8 +1644,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tøm historikk…
     .accesskey = s
+history-header2 =
+    .heading = Historikk
 history-group =
     .label = Historikk
+history-remember-option-all2 =
+    .label = Hugse historikk
 
 ## Privacy Section - Site Data
 
@@ -2280,3 +2286,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokker
+
+## Privacy and security status card
+
+issue-card-reset-button =
+    .label = Tilbakestill
