@@ -2284,3 +2284,13 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušiť
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokovať
+
+## Privacy and security status card
+
+security-privacy-issue-card =
+    .heading = Bezpečnostné upozornenie
+issue-card-reset-button =
+    .label = Vynulovať
+issue-card-dismiss-button =
+    .tooltiptext = Zavrieť
+    .aria-label = Zavrieť
