@@ -1676,6 +1676,9 @@ history-clear-button =
     .accesskey = C
 history-header2 =
     .heading = Chronik
+history-section-header =
+    .label = Chronik
+    .description = Wählen Sie aus, was { -brand-short-name } beim Schließen des Browsers speichern soll.
 history-custom-section-header =
     .label = Erweiterte Einstellungen
     .description = Wählen Sie aus, was { -brand-short-name } beim Schließen des Browsers speichern soll.
@@ -1683,6 +1686,8 @@ history-custom-button =
     .label = Wählen Sie aus, was { -brand-short-name } speichern soll
 history-group =
     .label = Chronik
+history-remember-option-all2 =
+    .label = Chronik anlegen
 
 ## Privacy Section - Site Data
 
@@ -1693,12 +1698,19 @@ sitedata-total-size-calculating = Größe von Website-Daten und Cache wird berec
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Websites belegen derzeit <strong>{ $value } { $unit }</strong> Speicherplatz.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Die gespeicherten Cookies, Chronik, Website-Daten und der Cache belegen derzeit <strong>{ $value } { $unit }</strong> Speicherplatz.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Die gespeicherten Cookies, Website-Daten und der Cache belegen derzeit { $value } { $unit } Speicherplatz.
 sitedata-learn-more = Weitere Informationen
+sitedata-delete-on-close2 =
+    .label = Cookies und Website-Daten beim Beenden von { -brand-short-name } löschen
+    .accesskey = B
 sitedata-delete-on-close =
     .label = Cookies und Website-Daten beim Beenden von { -brand-short-name } löschen
     .accesskey = B
@@ -2288,6 +2300,15 @@ preferences-doh-manage-exceptions2 =
     .accesskey = u
 preferences-doh-status-item-off =
     .message = DNS über HTTPS ist deaktiviert
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Verwenden Sie diesen Anbieter für die Auflösung von DNS über HTTPS.
+preferences-doh-custom-provider-label =
+    .aria-label = Geben Sie eine benutzerdefinierte Anbieter-URL ein
+preferences-doh-header2 =
+    .heading = DNS über HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2356,6 +2377,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } ist wachsam
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } empfiehlt einige Sicherheitsverbesserungen
+security-privacy-status-ok-label = Verbesserter Tracking-Schutz ist aktiviert
 security-privacy-status-update-needed-label = Eine neue Version von { -brand-short-name } ist verfügbar.
 security-privacy-status-update-checking-label = { -brand-short-name } sucht nach Updates
 security-privacy-status-update-needed-description = Aktualisieren Sie, um die neuesten Geschwindigkeits-, Stabilitäts- und Sicherheits-Updates zu erhalten.
