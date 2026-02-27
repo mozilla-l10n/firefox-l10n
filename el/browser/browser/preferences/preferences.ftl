@@ -1679,6 +1679,8 @@ history-header2 =
     .heading = Ιστορικό
 history-group =
     .label = Ιστορικό
+history-remember-option-all2 =
+    .label = Διατήρηση ιστορικού
 
 ## Privacy Section - Site Data
 
@@ -1686,6 +1688,10 @@ sitedata-header = Cookie και δεδομένα ιστοτόπων
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοτόπου και προσωρινής μνήμης…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Οι ιστότοποι χρησιμοποιούν επί του παρόντος <strong>{ $value } { $unit }</strong> χώρου δίσκου.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2332,6 +2338,8 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-problem-helper-label = Προβολή ζητημάτων
+security-privacy-status-update-button-label =
+    .label = Ενημέρωση του { -brand-short-name }
 security-privacy-issue-card =
     .heading = Προειδοποιήσεις ασφαλείας
 issue-card-reset-button =
@@ -2346,6 +2354,26 @@ preferences-etp-status-advanced-button =
     .label = Σύνθετες ρυθμίσεις
 preferences-etp-header =
     .heading = Ενισχυμένη προστασία από καταγραφή
+preferences-etp-customize-button =
+    .label = Προσαρμογή προστασίας από καταγραφή
+preferences-etp-reload-tabs-hint =
+    .message = Φορτώστε εκ νέου τις καρτέλες σας για να εφαρμόσετε αυτές τις αλλαγές.
+preferences-etp-reload-tabs-hint-button =
+    .label = Επαναφόρτωση όλων των καρτελών
+preferences-etp-rfp-warning-message =
+    .message = Χρησιμοποιείτε το Resist Fingerprinting (RFP), το οποίο αντικαθιστά ορισμένες από τις ρυθμίσεις προστασίας του { -brand-short-name } ενάντια στο fingerprinting. Αυτό μπορεί να προκαλέσει δυσλειτουργίες σε ορισμένους ιστοτόπους.
+preferences-etp-customize-header =
+    .heading = Προσαρμογή προστασίας από καταγραφή
+preferences-etp-reset =
+    .label = Επαναφορά προσαρμογών
+    .description = Επαναφορά των ρυθμίσεων στο προκαθορισμένο επίπεδο προστασίας.
+preferences-etp-reset-standard-button =
+    .label = Επαναφορά στην τυπική
+preferences-etp-reset-strict-button =
+    .label = Επαναφορά στην αυστηρή
+preferences-etp-custom-control-group =
+    .label = Προστασία από καταγραφή
+    .description = Επιλέξτε ποια μέτρα προστασίας θέλετε να (απ)ενεργοποιήσετε.
 preferences-etp-custom-cookies-enabled =
     .label = Cookie
 preferences-etp-custom-cookie-behavior =

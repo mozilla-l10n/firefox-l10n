@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Μικρογραφία σελίδας { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Επιλογή σελίδας { $page }
 
 ## Find panel button title and messages
 
@@ -648,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = (Απ)ενεργοποίηση πλαϊνής γραμμής
 pdfjs-views-manager-sidebar =
     .aria-label = Πλαϊνή γραμμή
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Αλλαγή μεγέθους πλαϊνής γραμμής
 pdfjs-views-manager-view-selector-button =
     .title = Προβολές
 pdfjs-views-manager-view-selector-button-label = Προβολές

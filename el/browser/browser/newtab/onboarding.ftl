@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Επαναφορά από αντίγ�
 restore-from-backup-title = Ας επαναφέρουμε το { -brand-short-name } όπως σας αρέσει
 restore-from-backup-subtitle = Ανακτήστε όλους τους σελιδοδείκτες, το ιστορικό και άλλα δεδομένα σας για να συνεχίσετε την περιήγηση.
 restore-from-backup-secondary-button = Να μην γίνει επαναφορά
+multiple-backups-info-tile = <strong>Βρέθηκαν πολλαπλά αντίγραφα ασφαλείας.</strong> Έχει επιλεχθεί το πιο πρόσφατο αρχείο. Ανακτήστε άλλα προφίλ στις <a data-l10n-name="settings-label">Ρυθμίσεις.</a>
 
 ## Restored from Backup spotlight
 
