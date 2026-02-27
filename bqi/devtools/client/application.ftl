@@ -15,5 +15,13 @@
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = واڌاشته وابیڌه
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = قلوه دووسته بۊین
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = آیکونا
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = آیکون
