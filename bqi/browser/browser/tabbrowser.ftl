@@ -225,4 +225,14 @@ tab-note-editor-character-limit =
 
 ## Split View
 
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = ٱووردن نما تقسیم وابیڌه
+    .accesskey = t
 tab-context-badge-new = نۊ
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = بلگه یل چواسه
