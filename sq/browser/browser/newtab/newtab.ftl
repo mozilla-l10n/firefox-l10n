@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Spastroje tekstin
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anuloje
@@ -338,6 +343,8 @@ newtab-custom-widget-section-title = Widget-e
 newtab-custom-widget-section-toggle =
     .label = Widget-e
 newtab-widget-manage-title = Widget-e
+newtab-widget-manage-widget-button =
+    .label = Administroni widget-e
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Mbylle
@@ -465,6 +472,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Kërkoni për vendndodhje
     .aria-label = Kërkoni për vendndodhje
 newtab-weather-menu-weather-display = Shfaqje moti
+newtab-weather-todays-forecast = Moti për sot
+newtab-weather-see-full-forecast = Shihni parashikimin e plotë të motit
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -477,6 +486,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Farenajt
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Kalo në Farenajt
 newtab-weather-menu-change-temperature-units-celsius = Kalo në Celsius
+newtab-weather-menu-hide-weather-v2 = Fshihe motin
 newtab-weather-menu-hide-weather = Fshihe motin në Skedë të Re
 newtab-weather-menu-learn-more = Mësoni më tepër
 newtab-weather-menu-detect-my-location = Pikas vendndodhjen time
@@ -694,6 +704,10 @@ newtab-widget-timer-menu-notifications = Çaktivizoni njoftimet
 newtab-widget-timer-menu-notifications-on = Aktivizoni njoftimet
 newtab-widget-timer-menu-hide = Fshihe kohëmatësin
 newtab-widget-timer-menu-learn-more = Mësoni më tepër
+newtab-daily-briefing-card-menu-dismiss = Hidhe tej
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Përditësuar { $minutes }m më parë
 newtab-widget-message-title = Mbani përqendrimin, me lista dhe kohëmatës të brendshëm
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nga kujtues të shpejtë e deri te për-t’u-bërë të përditshme, nga sesione përqendrimi e deri te pushime — merruni me punë dhe ndiqni kohën.
@@ -703,3 +717,12 @@ newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
     .title = Hidhe tej
     .aria-label = Hidheni tej
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Hidhe tej
+    .aria-label = Hidhe tej

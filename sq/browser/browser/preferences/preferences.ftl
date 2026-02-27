@@ -406,6 +406,21 @@ preferences-text-zoom-override-warning =
     .message = Kujdes: Nëse përzgjidhni “Zoom vetëm tekst” dhe shkalla parazgjedhje për zoom-in s’është vënë si 100%, mund të bëjë që disa sajte, ose lëndë të mos funksionojë.
 language-header = Gjuhë
 choose-language-description = Zgjidhni gjuhën tuaj të parapëlqyer për shfaqje faqesh
+website-add-language-button =
+    .aria-label = Shtoje gjuhën e përzgjedhur
+    .title = Shtoje gjuhën e përzgjedhur
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Hiqe { $locale }
+    .title = Hiqe { $locale }
 choose-button =
     .label = Zgjidhni…
     .accesskey = z
@@ -491,9 +506,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Që të formatoni data, kohë, numra dhe njësi matëse, përdorni rregullimet e sistemit tuaj operativ për “{ $localeName }”.
+settings-spellcheck-header =
+    .label = Kontroll drejtshkrimi
 check-user-spelling =
     .label = Kontrollo drejtshkrimin në shtypje e sipër
     .accesskey = o
+spellcheck-download-dictionaries =
+    .label = Shkarkoni fjalorë
 
 ## General Section - Files and Applications
 
@@ -533,9 +552,11 @@ applications-filter =
 applications-type-column =
     .label = Lloj Lënde
     .accesskey = L
+applications-type-heading = Lloj Lënde
 applications-action-column =
     .label = Veprim
     .accesskey = V
+applications-action-heading = Veprim
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Kartelë { $extension }
@@ -749,6 +770,9 @@ network-proxy-connection-learn-more = Mësoni më tepër
 network-proxy-connection-settings =
     .label = Rregullime…
     .accesskey = R
+network-proxy-group2 =
+    .label = Rregullime ndërmjetësi
+    .description = Formësoni se si lidhet në internet { -brand-short-name }-i.
 
 ## Home Section
 
@@ -757,6 +781,10 @@ home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tu
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Shfletuesi parazgjedhje
+is-default-browser-2 =
+    .message = { -brand-short-name }-i është shfletuesi juaj parazgjedhje. Zgjedhje e mirë.
 set-as-my-default-browser-2 =
     .label = Vëre Parazgjedhje
     .accesskey = V
@@ -1000,6 +1028,14 @@ suggestions-addressbar-settings-generic2 = Ndryshoni rregullime për sugjerime t
 search-suggestions-cant-show = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header2 = Shkurtore Kërkimi
 search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duken nën shtyllën e adresave dhe shtyllën e kërkimeve, kur filloni të jepni një fjalëkyç.
+update-search-engine-success =
+    .message = Motori i kërkimeve u përditësua me sukses
+search-edit-engine-2 =
+    .title = Përpunoni motor kërkimesh
+search-delete-engine =
+    .title = Fshije motorin e kërkimeve
+search-enable-engine =
+    .title = Aktivizoni motor kërkimesh
 search-choose-engine-column =
     .label = Motor Kërkimesh
 search-choose-keyword-column =
@@ -1013,6 +1049,9 @@ search-remove-engine =
 search-add-engine =
     .label = Shtoje
     .accesskey = S
+search-add-engine-2 =
+    .label = Shtoni motor kërkimesh
+    .accesskey = m
 search-edit-engine =
     .label = Përpunoni
     .accesskey = P
@@ -1376,6 +1415,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Përdorni një Fjalëkalim të Përgjithshëm
     .accesskey = P
+forms-primary-pw-use-2 =
+    .label = Përdorni një fjalëkalim parësor
+    .description = Shton një shtresë shtesë sigurie për të mbrojtur fjalëkalimet tuaj të ruajtur.
+    .accesskey = P
 forms-primary-pw-set =
     .label = Caktoni fjalëkalim parësor
 forms-primary-pw-on =
@@ -1388,6 +1431,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Kërko bërje hyrjeje në pajisje, për të plotësuar dhe administruar fjalëkalime
+forms-os-reauth-2 =
+    .label = Kërko bërje hyrjeje në pajisje, për të administruar fjalëkalime
 forms-primary-pw-learn-more-link = Mësoni më tepër
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1465,6 +1510,8 @@ payments-list-header =
 payments-delete-payment-prompt-title = Të fshihet kjo metodë pagesash?
 payments-delete-payment-prompt-confirm-button = Fshije
 payments-delete-payment-prompt-cancel-button = Anuloje
+payments-delete-payment-button-label =
+    .aria-label = Fshije
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = S’u shtuan metoda pagesash
