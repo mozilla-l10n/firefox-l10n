@@ -71,3 +71,15 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = Administroni rregullime sajti
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = E mora vesh
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN-ja u ndal
+vpn-paused-alert-close-tabs-button = Mbylli krejt skedat
+vpn-paused-alert-continue-wo-vpn-button = Vazhdo pa VPN
+vpn-error-alert-title = VPN-ja s’është duke funksionuar.
+vpn-error-alert-body = Riprovoni më vonë.

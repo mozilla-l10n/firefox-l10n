@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personalizojeni
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Hidhe tej
+    .aria-label = Hidhe tej
 
 ## Search box component.
 

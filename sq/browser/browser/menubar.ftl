@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Parapëlqime
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Rregullime…
 menu-application-services =
     .label = Shërbime
 menu-application-hide-this =
