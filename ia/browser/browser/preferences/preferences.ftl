@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Le function “Non me traciar” non es plus supportate
 non-technical-privacy-heading =
     .label = Protectiones additional
+preferences-privacy-relay-available =
+    .label = Suggerer mascas de e-mail de { -relay-brand-name }
+    .description = Cela tu ver adresse de e-mail pro proteger tu cassa de entrata contra le spam.
 non-technical-privacy-header = Preferentias de confidentialitate del sito
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -535,6 +538,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = Discargar dictionarios
+spellcheck-promo =
+    .heading = In qual maniera usar le controlo orthographic
+    .message = Clicca dextre un campo de texto pro activar o disactivar le controlo orthographic o pro cambiar le lingua. Non tote le campos supporta le controlo orthographic.
 
 ## General Section - Files and Applications
 
@@ -2340,6 +2346,7 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } es in alerta
+security-privacy-status-ok-label = Protection antitraciamento reinfortiate
 security-privacy-status-problem-helper-label = Vider problemas
 security-privacy-status-update-button-label =
     .label = Actualisar { -brand-short-name }

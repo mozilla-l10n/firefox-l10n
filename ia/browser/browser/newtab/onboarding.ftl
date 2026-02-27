@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Restaurar ab le copia de securitate
 restore-from-backup-title = Que nos reobtene { -brand-short-name } como illo te place
 restore-from-backup-subtitle = Recupera tote tu marcapaginas, chronologia, e altere datos pro retornar a navigar.
 restore-from-backup-secondary-button = Non restaurar
+multiple-backups-info-tile = <strong>Plure files de salveguarda trovate.</strong> Le file plus recente es seligite. Restaurar altere profilos in <a data-l10n-name="settings-label">Parametros.</a>
 
 ## Restored from Backup spotlight
 
