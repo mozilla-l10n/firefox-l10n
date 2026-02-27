@@ -6,3 +6,12 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = قلوه دووسته بۊین
+
+## Text entries that are used as text alternative for icons that depict accessibility issues.
+
+accessibility-warning =
+    .alt = بپا
+accessibility-fail =
+    .alt = ختا
+accessibility-best-practices =
+    .alt = بؽڌرین بارتا
