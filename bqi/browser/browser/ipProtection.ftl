@@ -18,8 +18,20 @@ ipprotection-button-error =
 ipprotection-experiment-badge =
     .label = آزمایشی
 
+## Feature introduction callout
+
+ipprotection-feature-introduction-button-primary = بئڌی
+ipprotection-feature-introduction-button-secondary-not-now = سکو ن
+ipprotection-feature-introduction-button-secondary-no-thanks = ن ممنووݩ
+
+## Site settings callout
+
+ipprotection-site-settings-callout-title = پسند کۊنین ک VPN ن کوینا و کار اگیرین
+ipprotection-site-settings-callout-button = فئمیم
+
 ## Panel
 
+unauthenticated-vpn-title = VPN منی { -brand-product-name } ن امتهووݩ کۊنین
 unauthenticated-get-started = ناهاڌن پا کار
 site-exclusion-toggle-label = و کار گرؽڌن VPN سی ای وبگه
 site-exclusion-toggle-enabled =

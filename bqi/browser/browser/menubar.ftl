@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = ترجیهات
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = سامووا…
 menu-application-services =
     .label = خدمات
 menu-application-hide-this =

@@ -24,8 +24,32 @@ cfr-doorhanger-extension-notification2 = پؽشنهاڌ
     .tooltiptext = وردنی پؽشنهاڌی
     .a11y-announcement = وردنی پؽشنهاڌی من دسرس هڌ
 
+## Add-on statistics
+## These strings are used to display the total number of
+## users and rating for an add-on. They are shown next to each other.
+
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } آستاره
+           *[other] { $total } آستاره
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } منتور
+       *[other] { $total } منتور
+    }
+
 ## Mozilla Account messages
 
+cfr-doorhanger-bookmark-fxa-header = نشووکا خوتووݩ ن هر جا اخۊین هوم گوم کۊنین.
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = دویمه بستن
+    .title = بستن
 fxa-adoption-primary-button-label = سبت نوم
 
 ## Protections panel
@@ -131,6 +155,8 @@ annotations-make-default-pdf-next-label = بئڌی
 
 fxa-sync-cfr-primary = قلوه دووسته بۊین
     .accesskey = L
+fxa-sync-cfr-secondary = دینداتر وا ویروم بیار
+    .accesskey = R
 
 ## Device Migration FxA Spotlight
 

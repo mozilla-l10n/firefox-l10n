@@ -40,3 +40,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Hapi 2: Përzgjidhni “Vëre si parazgjedhje” për { -brand-short-name }-in
 default-browser-guidance-notification-info-page = Tregomëni
 default-browser-guidance-notification-dismiss = U bë
+default-browser-guidance-notification-v2-body = Te Rregullimet, përzgjidhni “Vëre si parazgjedhje” për { -brand-short-name }-in.

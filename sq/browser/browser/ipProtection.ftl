@@ -23,6 +23,10 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Ju paraqesim VPN-në, tanimë drejt e nga brenda shfletuesit tuaj
+ipprotection-feature-introduction-link-text = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja me fshehtëzim shtesë.
+ipprotection-feature-introduction-link-text-private-browsing = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja me fshehtëzim shtesë, edhe kur gjendeni në një Dritare Private.
+ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani
 ipprotection-feature-introduction-button-secondary-no-thanks = Jo, faleminderit
 
@@ -46,6 +50,25 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = VPN është e hapur
 ipprotection-connection-status-disconnected = VPN është e mbyllur
+ipprotection-connection-status-excluded = VPN-ja është e mbyllur për këtë sajt
+ipprotection-connection-status-connecting = VPN-ja po lidhet…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Çaktivizoje VPN-në
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Çaktivizoje VPN-në gjithkund
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Aktivizoje VPN-në
+# Button while VPN is connecting
+ipprotection-button-connecting = Po aktivizohet…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN-ja u ndal
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi do të rifillohet muajin që vjen.
+upgrade-vpn-title = Merrni mbrojtje shtesë tej shfletuesit
 
 ## IP Protection Settings
 

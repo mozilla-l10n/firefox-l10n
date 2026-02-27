@@ -54,12 +54,16 @@ migration-favorites-option-label = بلگه یل خاستنی
 migration-passwords-option-label = رزما زفت وابیڌه
 migration-history-option-label = ویرگار گشتن
 migration-extensions-option-label = وردنی یل
+migration-form-autofill-option-label = داده پور کردن خوتکار فورما
 migration-payment-methods-option-label = بارتا پرداخت
 migration-cookies-option-label = کۊکیا
 migration-session-option-label = نیمدری یل وو بلگه یل
 migration-otherdata-option-label = داده یل دیر
 migration-passwords-from-file-progress-header = و من ٱووردن فایل رزما
+migration-passwords-from-file-success-header = رزما و خۊوی و من ٱوورده وابین
 migration-passwords-new = رزما نۊ
+migration-passwords-updated = رزما هیم سکویی
+migration-passwords-from-file-picker-title = و من ٱووردن فایل رزما
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -142,10 +146,22 @@ migration-list-payment-methods-label = بارتا پرداخت
 
 ##
 
+migration-wizard-progress-header = و من ٱووردن داده یل
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = و من ٱووردن داده یل و خۊوی ٱنجوم وابی
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = و من ٱووردن داده کامل وابی
 migration-wizard-progress-icon-in-progress =
     .aria-label = هونی و من ایان…
 migration-wizard-progress-icon-completed =
     .aria-label = ٱنجوم وابی
+migration-safari-password-import-header = و من ٱووردن رزما ز سافاری
+migration-safari-password-import-steps-header = سی و من ٱووردن رزما ز سافاری
+migration-chrome-windows-password-import-steps-header = من کروم:
 migration-manual-password-import-skip-button = گوم زیڌن
 migration-manual-password-import-select-button = پسند فایل
 migration-safari-password-import-skip-button = گوم زیڌن
