@@ -30,7 +30,7 @@ firefoxview-search-text-box-history =
     .placeholder = ស្វែងរក​ប្រវត្តិ
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-tabs =
-    .placeholder = របារស្វែងរក
+    .placeholder = ស្វែងរកផ្ទាំង
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

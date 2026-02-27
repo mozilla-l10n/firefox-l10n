@@ -82,6 +82,14 @@ account-multiple-tabs-arriving-from-single-device =
         [one] ផ្ទាំងចំនួន { $tabCount } បានមកដល់ហើយពី { $deviceName }
        *[other] ផ្ទាំងចំនួន { $tabCount } បានមកដល់ហើយពី { $deviceName }
     }
-account-multiple-tabs-arriving-from-multiple-devices = ផ្ទាំង { $tabCount } បាន​មកដល់​ពី​ឧបករណ៍​ដែល​បាន​តភ្ជាប់​របស់​អ្នក
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] ផ្ទាំងចំនួន { $tabCount } បានមកដល់ហើយពីឧបករណ៍ដែលបានតភ្ជាប់របស់អ្នក
+       *[other] ផ្ទាំងចំនួន { $tabCount } បានមកដល់ហើយពីឧបករណ៍ដែលបានតភ្ជាប់របស់អ្នក
+    }
 # This version is used when we don't know any device names.
-account-multiple-tabs-arriving-from-unknown-device = ផ្ទាំង { $tabCount } បាន​មកដល់
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] ផ្ទាំងចំនួន { $tabCount } បានមកដល់ហើយ
+       *[other] ផ្ទាំងចំនួន { $tabCount } បានមកដល់ហើយ
+    }

@@ -4,7 +4,7 @@
 
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = របារស្វែងរក
+    .label = ស្វែងរកផ្ទាំង
 all-tabs-menu-new-user-context =
     .label = ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី
 all-tabs-menu-hidden-tabs =
