@@ -11,9 +11,14 @@
 
 # Sidebar strings
 
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = منپیز وابی
 
 # Setup Page strings
 
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = و کار وسته
+about-debugging-setup-usb-status-disabled = ز کار وسته
 
 # Runtime Page strings
 
@@ -34,6 +39,10 @@ about-debugging-runtime-shared-workers =
 
 # Debug Targets strings
 
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = جاگه
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
