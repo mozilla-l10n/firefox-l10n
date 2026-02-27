@@ -524,9 +524,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Χρήση ρυθμίσεων λειτουργικού συστήματος για τα «{ $localeName }» για μορφοποίηση ημερομηνίας, ώρας, αριθμών και μετρήσεων.
+settings-spellcheck-header =
+    .label = Ορθογραφικός έλεγχος
 check-user-spelling =
     .label = Έλεγχος ορθογραφίας κατά την πληκτρολόγηση
     .accesskey = π
+spellcheck-download-dictionaries =
+    .label = Λήψη λεξικών
 
 ## General Section - Files and Applications
 
