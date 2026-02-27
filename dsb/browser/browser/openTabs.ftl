@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Wubjeŕśo rejtarik, kótaryž se ma rozdźělonemu naglědoju pśidaś
+opentabs-search-text-box =
+    .placeholder = Rejtariki pśepytaś
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Pytańske wuslědki za „{ $query }“
