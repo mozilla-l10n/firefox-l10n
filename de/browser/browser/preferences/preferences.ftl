@@ -2392,18 +2392,51 @@ security-privacy-status-trackers-label =
         [one] { $trackerCount } Tracker im letzten Monat blockiert
        *[other] { $trackerCount } Tracker im letzten Monat blockiert
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Sie haben <a data-l10n-name="strict-tracking-protection">Strengen Schutz</a>
+security-privacy-status-up-to-date-label = Sie haben die neueste und sicherste Version von { -brand-short-name }
 security-privacy-status-update-needed-label = Eine neue Version von { -brand-short-name } ist verfügbar.
+security-privacy-status-update-error-label = { -brand-short-name } hat Probleme bei der Aktualisierung
 security-privacy-status-update-checking-label = { -brand-short-name } sucht nach Updates
 security-privacy-status-update-needed-description = Aktualisieren Sie, um die neuesten Geschwindigkeits-, Stabilitäts- und Sicherheits-Updates zu erhalten.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } aktualisieren
+security-privacy-image-warning =
+    .alt = Ein Schild mit einem Ausrufezeichen, das Besorgnis über Ihre Sicherheitswarnungen ausdrückt
+security-privacy-image-ok =
+    .alt = Ein Schild mit einem Häkchen, das anzeigt, dass Sie keine offenen Sicherheitsprobleme haben
 security-privacy-issue-card =
     .heading = Sicherheitswarnungen
 issue-card-reset-button =
     .label = Zurücksetzen
+issue-card-dismiss-button =
+    .tooltiptext = Verwerfen
+    .aria-label = Verwerfen
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Verbesserter Tracking-Schutz
+    .description = Websites verwenden Tracker, um Sie online zu verfolgen und Ihnen gruselige Werbung anzuzeigen. { -brand-short-name } schützt Sie beim Surfen und blockiert Tracker automatisch, sodass Sie die Kontrolle über Ihre digitalen Spuren behalten.
+preferences-etp-level-standard =
+    .label = Standard
+    .description = Starke, zuverlässige Schutzmaßnahmen, die mit den meisten Websites reibungslos funktionieren.
+preferences-etp-level-strict =
+    .label = Streng
+    .description = Stärkere Schutzmaßnahmen, die mehr Tracker blockieren, aber dazu führen können, dass einige Websites nicht mehr funktionieren.
+preferences-etp-level-custom =
+    .label = Benutzerdefiniert
+    .description = Wählen Sie aus, welche Schutzfunktionen Sie aktivieren oder deaktivieren möchten.
+preferences-etp-status-advanced-button =
+    .label = Erweiterte Einstellungen
+preferences-etp-status-protections-dashboard-link =
+    .label = Sehen Sie sich Ihre personalisierte Schutz-Übersicht an
+    .description = Sehen Sie, wie viele hinterhältige Tracker { -brand-short-name } für Sie blockiert hat, darunter Social-Media-Tracker, Fingerprinter und Cryptominer.
+preferences-etp-header =
+    .heading = Verbesserter Tracking-Schutz
+preferences-etp-advanced-settings-group =
+    .label = Erweiterte Einstellungen
+    .description = Websites verwenden Tracker, um Sie online zu verfolgen und Ihnen gruselige Werbung anzuzeigen. { -brand-short-name } schützt Sie beim Surfen und blockiert die meisten Tracker automatisch, sodass Sie die Kontrolle über Ihre digitalen Spuren behalten.
 preferences-etp-reload-tabs-hint-button =
     .label = Alle Tabs neu laden
 preferences-etp-custom-cookies-enabled =
