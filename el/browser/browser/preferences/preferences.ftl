@@ -1631,6 +1631,9 @@ history-remember-label = Το { -brand-short-name }
     .accesskey = ο
 history-remember-option-all =
     .label = Θα διατηρεί το ιστορικό
+history-remember-option-never2 =
+    .label = Διαγραφή ιστορικού
+    .description = Κάθε παράθυρο λειτουργεί ως ιδιωτικό. Όταν είναι ενεργή αυτή η ρύθμιση, θα πρέπει να επιτρέπετε την εκτέλεση των επεκτάσεων.
 history-remember-option-custom2 =
     .label = Προσαρμογή ιστορικού
 history-remember-option-never =
@@ -1701,6 +1704,9 @@ sitedata-total-size2 = Τα αποθηκευμένα cookie, το ιστορικ
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Αυτήν τη στιγμή, τα αποθηκευμένα cookie, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
+sitedata-delete-on-close2 =
+    .label = Διαγραφή cookie και δεδομένων ιστοτόπων σε κάθε κλείσιμο του { -brand-short-name }
+    .accesskey = φ
 sitedata-delete-on-close =
     .label = Διαγραφή cookie και δεδομένων ιστοτόπων όταν κλείνει το { -brand-short-name }
     .accesskey = c
@@ -1751,6 +1757,12 @@ sitedata-cookies-exceptions2 =
     .label = Διαχείριση εξαιρέσεων
     .accesskey = χ
     .description = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται ή απαγορεύεται πάντα η χρήση cookie και δεδομένων ιστοτόπου.
+sitedata-heading =
+    .label = Δεδομένα περιήγησης
+    .description = Διαχειριστείτε τα cookie, το ιστορικό, την προσωρινή μνήμη, τα δεδομένα ιστοτόπων και πολλά άλλα.
+sitedata-settings3 =
+    .label = Διαγραφή δεδομένων για συγκεκριμένους ιστοτόπους
+    .accesskey = σ
 cookies-site-data-group =
     .label = Cookie και δεδομένα ιστοτόπων
 
@@ -2017,6 +2029,15 @@ permissions-block-popups2 =
     .accesskey = Φ
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Διαχείριση ανακατευθύνσεων
+    .accesskey = ε
+    .searchkeywords = αναδυόμενο παράθυρο, αναδυόμενο, αναδυόμενα παράθυρα, αναδυόμενα, popups,pop-ups
+permissions-addon-install-warning3 =
+    .label = Εμφάνιση προειδοποίησης όταν οι ιστότοποι προσπαθούν να εγκαταστήσουν επεκτάσεις
+    .accesskey = φ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Διαχείριση εξαιρέσεων αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων
     .accesskey = ε
@@ -2267,6 +2288,15 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = Διαχείριση εξαιρέσεων
     .accesskey = χ
+preferences-doh-status-item-off =
+    .message = Το DNS μέσω HTTPS είναι ανενεργό
+preferences-doh-select-resolver-label =
+    .label = Επιλογή παρόχου:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Χρήση αυτού του παρόχου για την ανάλυση DNS μέσω HTTPS
 preferences-doh-header2 =
     .heading = DNS μέσω HTTPS
 
@@ -2337,7 +2367,19 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = Το { -brand-short-name } είναι σε επιφυλακή
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = Το { -brand-short-name } προτείνει ορισμένες βελτιώσεις ασφαλείας
+security-privacy-status-ok-label = Η Ενισχυμένη προστασία από καταγραφή είναι ενεργή
+security-privacy-status-problem-label = Εντοπίσαμε ρυθμίσεις που επηρεάζουν την προστασία σας
 security-privacy-status-problem-helper-label = Προβολή ζητημάτων
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Διαθέτετε <a data-l10n-name="strict-tracking-protection">αυστηρή προστασία</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Διαθέτετε <a data-l10n-name="custom-tracking-protection">προσαρμοσμένη προστασία</a>
+security-privacy-status-up-to-date-label = Διαθέτετε την πιο πρόσφατη και ασφαλή έκδοση του { -brand-short-name }
+security-privacy-status-update-needed-label = Διατίθεται μια νέα έκδοση του { -brand-short-name }.
+security-privacy-status-update-checking-label = Το { -brand-short-name } ελέγχει για ενημερώσεις
 security-privacy-status-update-button-label =
     .label = Ενημέρωση του { -brand-short-name }
 security-privacy-issue-card =
@@ -2392,3 +2434,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Πιθανά fingerprinter
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Πιθανά fingerprinter
+
+## Warnings section
+
+security-privacy-issue-warning-extension-install =
+    .label = Οι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις
+    .description = Οι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις στο { -brand-short-name } χωρίς να ζητούν την άδειά σας.
+security-privacy-issue-warning-safe-browsing =
+    .label = Το επικίνδυνο και παραπλανητικό περιεχόμενο δεν αποκλείεται
+    .description = Η έκθεσή σας σε απάτες και κακόβουλο λογισμικό από ιστοτόπους είναι αυξημένη.
