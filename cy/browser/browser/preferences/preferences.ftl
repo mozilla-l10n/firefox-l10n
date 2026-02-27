@@ -2492,5 +2492,35 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Defnyddiwch Diogelwch Uwch Rhag Tracio
+    .description = Mae gwefannau'n defnyddio tracwyr i'ch dilyn chi ar-lein a dangos hysbysebion anghynnes. Mae { -brand-short-name } yn eich diogelu wrth i chi bori, gan rwystro tracwyr yn awtomatig fel eich bod yn gallu rheoli eich ôl digidol.
+preferences-etp-level-standard =
+    .label = Safonol (rhagosodedig)
+    .description = Diogelwch cryf dibynadwy sy'n gweithio'n llyfn gyda'r rhan fwyaf o wefannau.
+preferences-etp-level-strict =
+    .label = Llym
+    .description = Diogelwch cryfach sy'n rhwystro rhagor o dracwyr ond yn achosi rhai gwefannau i dorri.
+preferences-etp-level-custom =
+    .label = Cyfaddas
+    .description = Dewis pa ddiogelwch i'w troi ymlaen neu ddiffodd
+preferences-etp-status-advanced-button =
+    .label = Gosodiadau uwch
+preferences-etp-status-protections-dashboard-link =
+    .label = Gweld eich bwrdd rheoli diogelwch personol
+    .description = Gweld faint o dracwyr slei mae { -brand-short-name } wedi'u rhwystro ar eich cyfer, gan gynnwys tracwyr cyfryngau cymdeithasol, bysbrintwyr a chryptogloddwyr.
+preferences-etp-header =
+    .heading = Diogelwch Uwch Rhag Tracio
+preferences-etp-advanced-settings-group =
+    .label = Gosodiadau uwch
+    .description = Mae gwefannau'n defnyddio tracwyr i'ch dilyn chi ar-lein a dangos hysbysebion anghynnes. Mae { -brand-short-name } yn eich diogelu wrth i chi bori, gan rwystro tracwyr yn awtomatig fel eich bod yn gallu rheoli eich ôl digidol.
+preferences-etp-customize-button =
+    .label = Cyfaddasu diogelwch rhag tracio
+preferences-etp-reload-tabs-hint =
+    .message = Ail-lwythwch eich tabiau i osod y newidiadau hyn.
+preferences-etp-reload-tabs-hint-button =
+    .label = Ail lwytho pob tab
+preferences-etp-rfp-warning-message =
+    .message = Rydych chi'n defnyddio Gwrthod Bysbrintio (RFP), sy'n disodli rhai o osodiadau diogelu bysbrintio { -brand-short-name }. Gall hyn achosi i rai gwefannau dorri.
 preferences-etp-reset-standard-button =
     .label = Ailosod i'r safonol
