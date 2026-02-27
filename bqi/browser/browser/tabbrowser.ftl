@@ -73,6 +73,7 @@ tabbrowser-confirm-close-tabs-with-key-title = بستن نیمدری وو و د�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
+tabbrowser-confirm-open-multiple-tabs-title = قوۊل کردن گۊشیڌن
 tabbrowser-confirm-open-multiple-tabs-button = گۊشیڌن بلگه یل
 
 ## Confirmation dialog for closing all duplicate tabs
