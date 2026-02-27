@@ -101,6 +101,7 @@ sidebar-callout-survey-none-of-above = هیچ کویکی ز مووردا روی�
 sidebar-callout-survey-submit = فشناڌن
 sidebar-callout-survey-thank-you = ممنووݩ ز منشڌ ایسا!
 splitview-onboarding-callout-cta-1 = هیم سکو امتهووݩ کوݩ
+splitview-onboarding-callout-cta-2 = نما تقسیم وابیڌه ن امتهووݩ کۊنین
 unified-search-callout-primary-label = بئڌی
 unified-search-callout-secondary-label = رڌ کردن
 unified-search-engines-callout-primary-label = فئمیم

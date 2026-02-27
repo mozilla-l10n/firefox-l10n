@@ -38,6 +38,14 @@ firefoxview-closed-tabs-title = هیم دمۊوی بسته وابیڌه
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = رذ کردن { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = فعال دیندایی
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = گۊشیڌن { $targetURI } من ی بلگه نۊ
+firefoxview-try-colorways-button = رنگ بندیا ن امتهووݩ کۊنین
+firefoxview-change-colorway-button = آلشت رنگ بندی
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
@@ -125,6 +133,7 @@ firefoxview-search-results-count =
 # Variables:
 #   $query (String) - The search query.
 firefoxview-search-results-empty = نتیجه یل پیتینیڌن سی «{ $query }» نجۊرست
+firefoxview-sort-history-by-date-label = ترتیب و ری ویرگار
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

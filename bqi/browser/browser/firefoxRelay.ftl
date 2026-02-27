@@ -14,6 +14,12 @@ firefox-relay-opt-in-title-2 = ی ماسک ایمیل مۊفتی بگیرین
 firefox-relay-use-mask-title-1 = و کار گرؽڌن ماسک ایمیل
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = ی ماسک ایمیل مۊفتی بگیرین
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = و کار گرؽڌن ماسک ایمیل
+    .accesskey = U
+firefox-relay-opt-in-confirmation-disable =
+    .label = دی نشووݩ داڌه نبۊ
+    .accesskey = D
 firefox-relay-opt-in-confirmation-postpone =
     .label = سکو ن
     .accesskey = N
