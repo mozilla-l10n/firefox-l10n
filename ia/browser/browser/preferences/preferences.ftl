@@ -1625,6 +1625,9 @@ history-remember-label = { -brand-short-name } debe
     .accesskey = d
 history-remember-option-all =
     .label = Memorisar le chronologia
+history-remember-option-never2 =
+    .label = Non memorisar jammais le chronologia
+    .description = Cata fenestra age como un fenestra private. Quando active le, extensiones debe esser permittite.
 history-remember-option-custom2 =
     .label = Personalisar chronologia
 history-remember-option-never =
@@ -1671,6 +1674,14 @@ history-clear-button =
     .accesskey = V
 history-header2 =
     .heading = Chronologia
+history-section-header =
+    .label = Chronologia
+    .description = Elige lo que tu vole que { -brand-short-name } rememora quando tu caude le navigator.
+history-custom-section-header =
+    .label = Parametros avantiate
+    .description = Personalisa lo que tu vole que { -brand-short-name } rememora quando tu caude le navigator.
+history-custom-button =
+    .label = Elige lo que tu vole que { -brand-short-name } rememora
 history-group =
     .label = Chronologia
 history-remember-option-all2 =
@@ -2162,6 +2173,9 @@ space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -bra
 certs-description2 =
     .label = Certificatos
     .description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
+certs-view2 =
+    .label = Gerer certificatos
+    .accesskey = e
 
 ## Privacy Section - HTTPS-Only
 
@@ -2326,6 +2340,7 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } es in alerta
+security-privacy-status-problem-helper-label = Vider problemas
 security-privacy-status-update-button-label =
     .label = Actualisar { -brand-short-name }
 issue-card-reset-button =
@@ -2340,6 +2355,10 @@ preferences-etp-status-advanced-button =
     .label = Parametros avantiate
 preferences-etp-header =
     .heading = Protection antitraciamento reinfortiate
+preferences-etp-reset-standard-button =
+    .label = Remontar a standard
+preferences-etp-reset-strict-button =
+    .label = Remontar a nivello stricte
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
