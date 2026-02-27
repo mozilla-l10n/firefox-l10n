@@ -227,6 +227,8 @@ sidebar-genai-survey-satisfaction-question = Sa të kënaqur jeni me pasjen te a
 sidebar-genai-survey-productive-question =
     Në çfarë mase pajtoheni, ose nuk pajtoheni me këtë pohim:<br/>
     Roboti i fjalosjeve IA te anështylla më ndihmon të jem më prodhimtar”?
+splitview-onboarding-callout-cta-1 = Provojeni tani
+splitview-onboarding-callout-title-2 = Shihni dy skeda njëherësh, me pamjen e ndarë
 unified-search-callout-title = Ndërroni motorë kërkimesh
 unified-search-callout-subtitle = Zgjidhni atë që funksionon më mirë për kërkimin tuaj të herës.
 unified-search-callout-primary-label = Pasuesja

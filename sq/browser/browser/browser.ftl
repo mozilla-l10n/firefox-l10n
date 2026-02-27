@@ -761,6 +761,14 @@ urlbar-result-action-copy-to-clipboard = Kopjoje
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = e papërcaktuar
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Zgjerim { -brand-product-name }-i
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = I rekomanduar
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -818,6 +826,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Pyetni
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -920,9 +930,16 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Këtë herë kërko me:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Kërko me:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Këtë herë kërko me:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Kërko me:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Parametra Kërkimi
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
@@ -1161,6 +1178,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Dritare e re private
     .tooltiptext = Hapni një dritare të re shfletimi privat ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Ndajeni me të tjerët
+    .tooltiptext = Ndajeni këtë faqe me të tjerët
 
 ## EME notification panel
 
