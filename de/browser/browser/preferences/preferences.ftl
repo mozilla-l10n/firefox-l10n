@@ -2381,6 +2381,17 @@ security-privacy-status-ok-header = { -brand-short-name } ist wachsam
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } empfiehlt einige Sicherheitsverbesserungen
 security-privacy-status-ok-label = Verbesserter Tracking-Schutz ist aktiviert
+security-privacy-status-problem-label = Wir haben Einstellungen gefunden, die sich auf Ihren Schutz auswirken
+security-privacy-status-problem-helper-label = Probleme anzeigen
+security-privacy-status-pending-trackers-label = Nachschlagen, wie viele Elemente zur Aktivitätenverfolgung { -brand-short-name } im letzten Monat blockiert hat
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } Tracker im letzten Monat blockiert
+       *[other] { $trackerCount } Tracker im letzten Monat blockiert
+    }
 security-privacy-status-update-needed-label = Eine neue Version von { -brand-short-name } ist verfügbar.
 security-privacy-status-update-checking-label = { -brand-short-name } sucht nach Updates
 security-privacy-status-update-needed-description = Aktualisieren Sie, um die neuesten Geschwindigkeits-, Stabilitäts- und Sicherheits-Updates zu erhalten.

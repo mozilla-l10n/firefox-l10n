@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Poskusite v spletnem naslo
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Spletna mesta včasih nastavijo zaščito zase pred nehotenimi interakcijami z drugimi spletnimi mesti.
 fp-learn-more-about-https-connections = Več o povezavah HTTPS
+fp-neterror-vpn-error-title = Povezava z VPN ni bila mogoča
+fp-neterror-vpn-error-description = Poskusite znova čez nekaj minut.

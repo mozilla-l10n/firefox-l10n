@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Sličica strani { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Izberi stran { $page }
 
 ## Find panel button title and messages
 
@@ -722,6 +726,7 @@ pdfjs-views-manager-status-undo-button-label = Razveljavi
 pdfjs-views-manager-status-close-button =
     .title = Zapri
 pdfjs-views-manager-status-close-button-label = Zapri
+pdfjs-views-manager-paste-button-label = Prilepi
 
 ## Main menu for adding/removing signatures
 

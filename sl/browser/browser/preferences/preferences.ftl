@@ -529,9 +529,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Uporabi nastavitve operacijskega sistema za “{ $localeName }” za oblikovanje datumov, časa, številk in meritev.
+settings-spellcheck-header =
+    .label = Preverjanje črkovanja
 check-user-spelling =
     .label = Preverjaj črkovanje med tipkanjem
     .accesskey = v
+spellcheck-download-dictionaries =
+    .label = Prenesi slovarje
 
 ## General Section - Files and Applications
 
@@ -2261,3 +2265,18 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Prekliči
 preferences-ai-controls-block-confirmation-confirm =
     .label = Prepovej
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } je na straži
+security-privacy-status-ok-label = Izboljšana zaščita pred sledenjem je vključena
+issue-card-reset-button =
+    .label = Ponastavi
+issue-card-dismiss-button =
+    .tooltiptext = V redu
+    .aria-label = V redu
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reload-tabs-hint-button =
+    .label = Znova naloži vse zavihke

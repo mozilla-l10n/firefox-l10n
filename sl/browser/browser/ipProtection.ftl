@@ -72,6 +72,7 @@ ipprotection-connection-status-generic-error-title = Povezava z VPN ni bila mogo
 ipprotection-connection-status-generic-error-description = Poskusite znova čez nekaj minut.
 ipprotection-connection-status-network-error-title = Preverite svojo povezavo z internetom
 ipprotection-connection-status-network-error-description = Povežite se z internetom in nato poskusite vklopiti VPN.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
 
 ## IP Protection Settings
 
