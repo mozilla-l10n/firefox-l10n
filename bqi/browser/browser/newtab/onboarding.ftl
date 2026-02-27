@@ -167,6 +167,9 @@ mr2022-onboarding-colorway-primary-button-label-continue = سامووݩ وو ر�
 mr2022-onboarding-colorway-label-default = پؽش فرز
 mr2022-onboarding-colorway-description-default = <b>رنگا هیم سکویی { -brand-short-name } مو و کار گرؽڌه بۊن.</b>
 mr2022-onboarding-colorway-label-playmaker = بازیساز
+mr2022-onboarding-colorway-label-activist = کونشگر
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = کونشگر (کوۊ)
 mr2022-onboarding-colorway-label-dreamer = رویا پرداز
 mr2022-onboarding-colorway-label-innovator = نۊ ٱوورد
 
@@ -268,6 +271,7 @@ restored-from-backup-error-primary-button = بستن
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-use-case-school-option = مرسه
 onboarding-personalization-use-case-work-option = کاری
 onboarding-personalization-motivation-privacy-option = هریم سیخومی وو ٱمنیت
 onboarding-personalization-motivation-other-option = دیر
