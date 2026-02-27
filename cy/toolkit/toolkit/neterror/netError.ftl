@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Ceisiwch newid yr URL i HT
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Weithiau mae gwefannau yn gosod diogeleddau iddyn nhw eu hunain rhag rhyngweithio digroeso â gwefannau eraill.
 fp-learn-more-about-https-connections = Dysgu am gysylltiadau HTTPS
+fp-neterror-vpn-error-title = Methu cysylltu â'r VPN
+fp-neterror-vpn-error-description = Ceisiwch eto mewn ychydig funudau.

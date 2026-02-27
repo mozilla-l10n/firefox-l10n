@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Ychwanegu Eitem
+storage-delete-all-button =
+    .title = Dileu'r Cyfan
 # Refresh button title
 storage-refresh-button =
     .title = Adnewyddu eitemau

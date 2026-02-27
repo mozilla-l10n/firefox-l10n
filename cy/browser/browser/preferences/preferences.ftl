@@ -2562,7 +2562,7 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 ## Warnings section
 
 security-privacy-issue-warning-fingerprinters =
-    .label = Bysbrintwyr hysbys ddim yn cael eu rhwystro
+    .label = Bysbrintwyr hysbys sydd ddim yn cael eu rhwystro
     .description = Gall hyn ganiatáu i rai tracwyr eich dilyn heb gwcis.
 security-privacy-issue-warning-third-party-cookies =
     .label = Mae cwcis trydydd parti wedi'u galluogi
@@ -2585,3 +2585,6 @@ security-privacy-issue-warning-doh =
 security-privacy-issue-warning-ech =
     .label = Mae'r Cleient wedi'i Amgryptio Helo wedi'i analluogi
     .description = Mae'r Cleient wedi'i Amgryptio Helo yn cuddio pa wefannau rydych yn ymweld â nhw rhag eich darparwr rhwydwaith.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Mae awtoffurfweddu dirprwyol wedi'i alluogi
+    .description = Dyw awtoffurfweddu dirprwyol ddim yn caniatáu i rwydweithiau heb ymddiriedaeth fonito'ch gweithgaredd.
