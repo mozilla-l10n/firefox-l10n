@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Pridať položku
+storage-delete-all-button =
+    .title = Odstrániť všetko
 # Refresh button title
 storage-refresh-button =
     .title = Obnoviť položky

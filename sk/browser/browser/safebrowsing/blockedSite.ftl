@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Prečo bola táto stránk
 safeb-blocked-addon-page-error-desc2-override = Stránka <strong>{ $sitename }</strong> môže byť spojená s klamlivou a škodlivou aktivitou.
 safeb-blocked-addon-page-error-desc3-override = <strong>Čo s tým môžete urobiť?</strong>
 safeb-blocked-addon-page-error-desc4-override = Ak chcete, aby sa to už neopakovalo, môžete odstrániť alebo zakázať doplnok <strong>{ $addonName }</strong> v about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Ďalšie informácie o ochrane { -brand-short-name(case: "gen") } pred škodlivými doplnkami</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Ďalšie informácie o ochrane pred phishingom a malvérom od { -brand-short-name(case: "gen") }</a>.

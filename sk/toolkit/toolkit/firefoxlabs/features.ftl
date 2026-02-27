@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Majte svoj zoz
 experimental-features-semantic-history-search =
     .label = Sémantické vyhľadávanie v histórii
 experimental-features-semantic-history-search-description = V adresnom paneli { -brand-product-name(case: "gen") } použite lokálny model strojového učenia na ponúkanie návrhov položiek z histórie, ktoré súvisia s vašimi vyhľadávaniami na základe porozumenia prirodzenému jazyku. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Poznámky pre kartu
+experimental-features-tab-notes-description = Poznámky pre kartu sú experimentálnou funkciou, ktorá vám umožňuje pridávať rýchle poznámky ku kartám prehliadača. Zapíšte si kontext, pripomienky alebo ďalšie kroky, aby ste sa mohli vrátiť a spomenúť si, prečo ste danú položku otvorili. Uvítali by sme vašu spätnú väzbu, ktorá nám pomôže túto funkciu neustále vylepšovať. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>

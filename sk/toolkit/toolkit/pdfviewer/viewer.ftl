@@ -204,7 +204,7 @@ pdfjs-thumb-page-canvas =
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
-    .aria-label = Vybrať stránku { $page }
+    .aria-label = Vybrať stranu { $page }
 
 ## Find panel button title and messages
 
