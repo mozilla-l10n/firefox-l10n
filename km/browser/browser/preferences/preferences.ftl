@@ -353,8 +353,8 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = វីនដូ និងផ្ទាំងថ្មី
-home-new-windows-tabs-description2 = ជ្រើសអ្វីដែលអ្នកឃើញនៅពេលអ្នកបើកគេហទំព័រ, វីនដូថ្មី, និងផ្ទាំងថ្មី។
+home-new-windows-tabs-header = បង្អួច និងផ្ទាំងថ្មី
+home-new-windows-tabs-description2 = ជ្រើសអ្វីដែលអ្នកឃើញនៅពេលអ្នកបើកគេហទំព័រ បង្អួចថ្មី និងផ្ទាំងថ្មី។
 
 ## Home Section - Default Browser
 

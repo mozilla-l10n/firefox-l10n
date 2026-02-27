@@ -281,7 +281,7 @@ urlbar-searchmode-new = ថ្មី
 
 urlbar-result-action-search-bookmarks = ស្វែងរក​ចំណាំ
 urlbar-result-action-search-history = ស្វែងរក​ប្រវត្តិ
-urlbar-result-action-search-tabs = របារស្វែងរក
+urlbar-result-action-search-tabs = ស្វែងរកផ្ទាំង
 
 ## Reader View toolbar buttons
 
