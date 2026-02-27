@@ -2165,6 +2165,8 @@ security-enable-safe-browsing =
     .label = Gefährliche und betrügerische Inhalte blockieren
     .accesskey = b
 security-enable-safe-browsing-link = Weitere Informationen
+security-safe-browsing-warning =
+    .message = Das Deaktivieren dieser Option reduziert den Schutz vor Betrug, böswilligen Websites und gefährlichen Downloads.
 security-block-downloads =
     .label = Gefährliche Downloads blockieren
     .accesskey = D
@@ -2295,6 +2297,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Standardschutz
     .description = Verwenden Sie sicheres DNS in Regionen, in denen es verfügbar ist.
+preferences-doh-overview-custom =
+    .label = Benutzerdefiniert
+    .description = Verwenden Sie immer sicheres DNS mit Kontrolle über Ihren Provider und Fallback-Verhalten.
 preferences-doh-overview-off =
     .label = Deaktiviert
     .description = Verwenden Sie Ihren Standard-DNS-Resolver.
@@ -2308,6 +2313,30 @@ preferences-doh-manage-exceptions2 =
     .accesskey = u
 preferences-doh-status-item-off =
     .message = DNS über HTTPS ist deaktiviert
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS über HTTPS funktioniert nicht, weil wir beim Verwenden des Anbieters { $name } auf einen Fehler ({ $reason }) gestoßen sind.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS über HTTPS funktioniert nicht, weil wir eine ungültige URL erhalten haben ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS über HTTPS verwendet den Anbieter { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS über HTTPS funktioniert nicht, weil wir beim Verwenden des lokalen Anbieters { $name } auf einen Fehler ({ $reason }) gestoßen sind.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS über HTTPS verwendet den lokalen Anbieter { $name }
+preferences-doh-select-resolver-label =
+    .label = Anbieter auswählen:
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
@@ -2459,6 +2488,16 @@ preferences-etp-level-warning-message =
 preferences-etp-manage-exceptions-button =
     .label = Ausnahmen verwalten
     .description = Verwalten Sie die Websites, auf denen der erweiterte Tracking-Schutz deaktiviert ist.
+preferences-etp-reset =
+    .label = Anpassungen zurücksetzen
+    .description = Stellen Sie die Einstellungen auf eine voreingestellte Schutzstufe zurück.
+preferences-etp-reset-standard-button =
+    .label = Auf Standard zurücksetzen
+preferences-etp-reset-strict-button =
+    .label = Auf Streng zurücksetzen
+preferences-etp-custom-control-group =
+    .label = Tracking-Schutz
+    .description = Wählen Sie aus, welche Schutzfunktionen Sie aktivieren oder deaktivieren möchten.
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
@@ -2477,3 +2516,15 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Vermutete Identifizierer (Fingerprinter)
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Vermutete Identifizierer (Fingerprinter)
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Bekannte Fingerprinter werden nicht blockiert
+    .description = Dadurch können einige Tracker Sie möglicherweise auch ohne Cookies verfolgen.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookies von Drittanbietern sind aktiviert
+    .description = Cookies von Drittanbietern werden verwendet, um Sie über verschiedene Websites hinweg zu verfolgen.
+security-privacy-issue-warning-password-manager =
+    .label = Passwort-Verwaltung ist deaktiviert
+    .description = Passwortmanager helfen Ihnen dabei, sichere Passwörter für Ihre Konten zu speichern.
