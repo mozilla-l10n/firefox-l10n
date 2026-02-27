@@ -706,6 +706,7 @@ pdfjs-views-manager-status-undo-button-label = Αναίρεση
 pdfjs-views-manager-status-close-button =
     .title = Κλείσιμο
 pdfjs-views-manager-status-close-button-label = Κλείσιμο
+pdfjs-views-manager-paste-button-label = Επικόλληση
 
 ## Main menu for adding/removing signatures
 

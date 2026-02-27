@@ -2240,6 +2240,8 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = Διαχείριση εξαιρέσεων
     .accesskey = χ
+preferences-doh-header2 =
+    .heading = DNS μέσω HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2309,3 +2311,35 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-problem-helper-label = Προβολή ζητημάτων
+security-privacy-issue-card =
+    .heading = Προειδοποιήσεις ασφαλείας
+issue-card-reset-button =
+    .label = Επαναφορά
+issue-card-dismiss-button =
+    .tooltiptext = Απόρριψη
+    .aria-label = Απόρριψη
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Σύνθετες ρυθμίσεις
+preferences-etp-header =
+    .heading = Ενισχυμένη προστασία από καταγραφή
+preferences-etp-custom-cookies-enabled =
+    .label = Cookie
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookie
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Αποδοχή όλων των cookie
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Περιεχόμενο καταγραφής
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Περιεχόμενο καταγραφής
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Cryptominer
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Γνωστά fingerprinter
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Πιθανά fingerprinter
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Πιθανά fingerprinter

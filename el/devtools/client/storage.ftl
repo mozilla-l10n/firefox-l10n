@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Προσθήκη στοιχείου
+storage-delete-all-button =
+    .title = Διαγραφή όλων
 # Refresh button title
 storage-refresh-button =
     .title = Ανανέωση στοιχείων
