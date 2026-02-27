@@ -527,9 +527,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Formátovať dátumy, časy, čísla a jednotky podľa nastavenia jazyka “{ $localeName }” z operačného systému.
+settings-spellcheck-header =
+    .label = Kontrola pravopisu
 check-user-spelling =
     .label = Kontrolovať pravopis počas písania
     .accesskey = K
+spellcheck-download-dictionaries =
+    .label = Stiahnuť slovníky
+spellcheck-promo =
+    .heading = Ako používať kontrolu pravopisu
+    .message = Kliknutím pravým tlačidlom myši na textové pole zapnete alebo vypnete kontrolu pravopisu alebo zmeníte jazyk. Nie všetky polia podporujú kontrolu pravopisu.
 
 ## General Section - Files and Applications
 
@@ -787,6 +794,9 @@ network-proxy-connection-learn-more = Ďalšie informácie
 network-proxy-connection-settings =
     .label = Nastavenia…
     .accesskey = N
+network-proxy-group2 =
+    .label = Nastavenia proxy
+    .description = Nakonfigurujte, ako sa { -brand-short-name } pripája k internetu.
 
 ## Home Section
 
@@ -2294,3 +2304,73 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Zavrieť
     .aria-label = Zavrieť
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Rozšírená ochrana pred sledovaním
+    .description = Stránky používajú sledovacie prvky, ktoré vás sledujú online a zobrazujú vám strašidelné reklamy. { -brand-short-name } vás chráni počas prehliadania a automaticky blokuje sledovacie prvky, aby ste mali svoju digitálnu stopu pod kontrolou.
+preferences-etp-level-standard =
+    .label = Štandardná (predvolená)
+    .description = Silná a spoľahlivá ochrana, ktorá bez problémov funguje s väčšinou webových stránok.
+preferences-etp-level-strict =
+    .label = Prísna
+    .description = Silnejšia ochrana, ktorá blokuje viac sledovacích prvkov, ale môže spôsobiť problémy s niektorými stránkami.
+preferences-etp-level-custom =
+    .label = Vlastná
+    .description = Zvoľte si, ktoré ochrany chcete zapnúť alebo vypnúť.
+preferences-etp-status-advanced-button =
+    .label = Rozšírené nastavenia
+preferences-etp-header =
+    .heading = Rozšírená ochrana pred sledovaním
+preferences-etp-advanced-settings-group =
+    .label = Rozšírené nastavenia
+    .description = Stránky používajú sledovacie prvky, ktoré vás sledujú online a zobrazujú vám strašidelné reklamy. { -brand-short-name } vás chráni počas prehliadania a automaticky blokuje väčšinu sledovacích prvkov, aby ste mali svoju digitálnu stopu pod kontrolou.
+preferences-etp-manage-exceptions-button =
+    .label = Spravovať výnimky
+    .description = Spravujte webové stránky, na ktorých je vypnutá rozšírená ochrana pred sledovaním.
+preferences-etp-custom-control-group =
+    .label = Ochrana pred sledovaním
+    .description = Vyberte, ktoré ochrany chcete zapnúť alebo vypnúť.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Povoliť všetky súbory cookie
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sledovací obsah
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sledovací obsah
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Ťažba kryptomien
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Známe čítačky digitálnych odtlačkov
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Podozrivé čítačky digitálnych odtlačkov
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Podozrivé čítačky digitálnych odtlačkov
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Známe čítačky digitálnych odtlačkov nie sú blokované
+    .description = To môže niektorým sledovacím nástrojom umožniť sledovať vás aj bez súborov cookie.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Súbory cookie tretích strán sú povolené
+    .description = Súbory cookie tretích strán sa používajú na sledovanie vašej aktivity na rôznych webových stránkach.
+security-privacy-issue-warning-password-manager =
+    .label = Správca hesiel je vypnutý
+    .description = Správcovia hesiel vám pomáhajú ukladať silné heslá pre vaše účty.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blokovanie vyskakovacích okien je vypnuté
+    .description = Vyskakovacie okná sú rušivé a potenciálne škodlivé.
+security-privacy-issue-warning-extension-install =
+    .label = Webové stránky môžu inštalovať rozšírenia
+    .description = Webové stránky môžu nainštalovať rozšírenia do { -brand-short-name(case: "gen") } bez opýtania.
+security-privacy-issue-warning-safe-browsing =
+    .label = Nebezpečný a klamlivý obsah nie je blokovaný
+    .description = Vaše vystavenie podvodom a škodlivému softvéru z webových stránok sa zvyšuje.
+security-privacy-issue-warning-doh =
+    .label = DNS cez HTTPS je vypnuté
+    .description = DNS cez HTTPS skryje pred vaším poskytovateľom siete, ktoré stránky navštevujete.

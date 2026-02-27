@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Vyberte kartu, ktorú chcete pridať do rozdeleného zobrazenia
+opentabs-search-text-box =
+    .placeholder = Hľadať v kartách

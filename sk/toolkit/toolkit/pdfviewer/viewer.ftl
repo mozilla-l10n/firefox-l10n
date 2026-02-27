@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniatúra strany { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Vybrať stránku { $page }
 
 ## Find panel button title and messages
 
@@ -656,6 +660,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Prepnúť bočný panel
 pdfjs-views-manager-sidebar =
     .aria-label = Bočný panel
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Zmeniť veľkosť bočného panela
 pdfjs-views-manager-view-selector-button =
     .title = Zobrazenia
 pdfjs-views-manager-view-selector-button-label = Zobrazenia
@@ -722,6 +728,7 @@ pdfjs-views-manager-status-undo-button-label = Späť
 pdfjs-views-manager-status-close-button =
     .title = Zavrieť
 pdfjs-views-manager-status-close-button-label = Zavrieť
+pdfjs-views-manager-paste-button-label = Prilepiť
 
 ## Main menu for adding/removing signatures
 

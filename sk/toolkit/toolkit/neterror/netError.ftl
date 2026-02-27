@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Skúste zmeniť URL adresu
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Webové stránky si niekedy nastavia ochranu pred nechcenými interakciami s inými stránkami.
 fp-learn-more-about-https-connections = Ďalšie informácie o pripojeniach HTTPS
+fp-neterror-vpn-error-title = Nepodarilo sa pripojiť k VPN
+fp-neterror-vpn-error-description = Skúste to znova o pár minút.
