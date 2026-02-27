@@ -450,7 +450,7 @@ tab-groups-onboarding-create-group-title-3 = Grupe kartica možete pronaći u iz
 tab-groups-onboarding-create-group-title-2 = Pronađi svoje grupe kartica u bilo kojem trenutku.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pronađi svoje grupe pretraživanjem u adresnoj traci.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = Kada zatvorite grupu kartica, možete ju ponovno otvoriti iz izbornika Popis svih kartica u bilo kojem trenutku.
+tab-groups-onboarding-saved-groups-title-3 = Kada zatvoriš grupu kartica, možeš ju ponovo otvoriti iz izbornika „Popis svih kartica” u bilo kojem trenutku.
 tab-groups-onboarding-saved-groups-title-2 = Kada zatvoriš grupu kartica, ovdje je možeš ponovo otvoriti u bilo kojem trenutku.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pronađi svoje zatvorene grupe pretraživanjem u adresnoj traci.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
