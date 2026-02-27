@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Zapisk pśidaś
+storage-delete-all-button =
+    .title = Wšykne lašowaś
 # Refresh button title
 storage-refresh-button =
     .title = Zapiski aktualizěrowaś

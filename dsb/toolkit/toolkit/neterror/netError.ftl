@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Wopytajśo URL do HTTPS zm
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Wótergi se websedła pśed njewitanymi interakcijami z drugimi sedłami šćitaju.
 fp-learn-more-about-https-connections = Zgóńśo wěcej wó zwiskach HTTPS
+fp-neterror-vpn-error-title = Zwisk z VPN njejo móžny
+fp-neterror-vpn-error-description = Wopytajśo za mało minutow hyšći raz.

@@ -2309,6 +2309,28 @@ preferences-doh-exceptions-description = { -brand-short-name } njebuźo wěsty D
 preferences-doh-manage-exceptions =
     .label = Wuwześa zastojaś…
     .accesskey = z
+preferences-doh-overview-default =
+    .label = Standardny šćit
+    .description = Wužywajśo wěsty DNS w regionach, źož njejo k dispoziciji.
+preferences-doh-advanced-button =
+    .label = Rozšyrjone nastajenja
+preferences-doh-manage-exceptions2 =
+    .label = Wuwześa zastojaś
+    .accesskey = u
+preferences-doh-status-item-off =
+    .message = DNS pśez HTTPS jo znjemóžnjony
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS pśez HTTPS póbitowarja { $name } wužywa
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS pśez HTTPS lokalnego póbitowarja { $name } wužywa
+preferences-doh-select-resolver-label =
+    .label = Wubjeŕśo póbitowarja:
+preferences-doh-header2 =
+    .heading = DNS pśez HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2374,3 +2396,46 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Pśetergnuś
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokěrowaś
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } stražujo
+security-privacy-status-ok-label = Pólěpšony slědowański šćit jo zmóžnjony
+security-privacy-status-problem-label = Njejsmy nastajenja namakali, kótarež waš šćit wobwliwuju
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-header =
+    .heading = Pólěpšony slědowański šćit
+preferences-etp-customize-button =
+    .label = Slědowański šćit pśiměriś
+preferences-etp-reload-tabs-hint =
+    .message = Zacytajśo swóje rejtariki znowego, aby toś te změny nałožył.
+preferences-etp-reload-tabs-hint-button =
+    .label = Wšykne rejtariki znowego zacytaś
+preferences-etp-rfp-warning-message =
+    .message = Wužywaśo Resist Fingerprinting (RFP), kótarež někake nastajenja za šćit pśeśiwo palcowym śišćam { -brand-short-name } wuměnja. To mógło zawinowaś, až někotare sedła wěcej njefunkcioněruju.
+preferences-etp-customize-header =
+    .heading = Slědowański šćit pśiměriś
+preferences-etp-reset-standard-button =
+    .label = Na standard slědk stajiś
+preferences-etp-reset-strict-button =
+    .label = Na striktny slědk stajiś
+preferences-etp-custom-cookies-enabled =
+    .label = Cookieje
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookieje
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Wšykne cookieje dowóliś
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Slědujuce wopśimjeśe
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Slědujuce wopśimjeśe
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kryptokopanje
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Znate zběrarje palcowych wótśišćow
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Suspektne zběrarje palcowych wótśišćow
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Suspektne zběrarje palcowych wótśišćow
