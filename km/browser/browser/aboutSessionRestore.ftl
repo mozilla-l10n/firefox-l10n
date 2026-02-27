@@ -19,7 +19,7 @@ restore-page-window-label = បង្អួច { $windowNumber }
 restore-page-restore-header =
     .label = ស្ដារ
 restore-page-list-header =
-    .label = វីនដូ និង​ផ្ទាំង
+    .label = បង្អួច និងផ្ទាំង
 restore-page-try-again-button =
     .label = ស្ដារ​សម័យ
     .accesskey = R
@@ -35,6 +35,6 @@ welcome-back-page-info = { -brand-short-name } អាច​ចាប់ផ្ដ
 welcome-back-restore-button =
     .label = តោះ​ចាប់ផ្ដើម!
     .accesskey = L
-welcome-back-restore-all-label = ស្ដារ​ផ្ទាំង &បង្អួច​ទាំងអស់
+welcome-back-restore-all-label = ស្ដារ​ផ្ទាំងនិងបង្អួច​ទាំងអស់
 welcome-back-restore-some-label = ស្ដារ​តែ​អ្វី​ដែល​អ្នក​ចង់បាន​ប៉ុណ្ណោះ
 welcome-back-page-info-link = ផ្នែក​បន្ថែម​របស់​អ្នក និង​ការ​កំណត់​ផ្ទាល់ខ្លួន​ត្រូវ​បាន​លុប​ចេញ ហើយ​ការ​កំណត់​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​នឹង​ត្រូវ​បាន​ស្ដារ​ទៅ​លំនាំដើម។ បើ​វា​មិន​បាន​កែ​បញ្ហា​របស់​អ្នក​ទេ <a data-l10n-name="link-more">ស្វែងយល់​បន្ថែម​អំពី​អ្វី​ដែល​អ្នក​អាច​ធ្វើ​បាន។</a>
