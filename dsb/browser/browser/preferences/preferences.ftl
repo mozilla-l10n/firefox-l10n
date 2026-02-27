@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Njepódpěramy wěcej funkciju „Njeslědowaś“
 non-technical-privacy-heading =
     .label = Pśidatny šćit
+preferences-privacy-relay-available =
+    .label = E-mailowe maski { -relay-brand-name } naraźiś
+    .description = Chowa wašu e-mailowu adresu, aby waš dochad posta pśed spamom šćitał.
 non-technical-privacy-header = Nastajenja priwatnosći websedła
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -534,9 +537,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Nastajenja wašogo źěłowego systema za „{ $localeName }“ wužywaś, aby se datumy, case, licby a měry formatěrowali.
+settings-spellcheck-header =
+    .label = Pšawopisna kontrola
 check-user-spelling =
     .label = Pśi pisanju pšawopis kontrolěrowaś
     .accesskey = P
+spellcheck-download-dictionaries =
+    .label = Słowniki ześěgnuś
 
 ## General Section - Files and Applications
 
@@ -794,11 +801,20 @@ network-proxy-connection-learn-more = Dalšne informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
+network-proxy-group2 =
+    .label = Nastajenja proksy
+    .description = Konfigurěrujśo, kak { -brand-short-name } z internetom zwězujo.
+network-proxy-connection-settings2 =
+    .label = Proksy konfigurěrowaś
+    .description = Změnjenje toś tych nastajenjow móžo zwiskowe problemy zawinowaś
+    .accesskey = P
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe wokna a rejtariki
 home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój startowy bok, nowe wokna a nowe rejtariki wócynjaśo.
+home-section =
+    .heading = Startowy bok a start
 
 ## Home Section - Default Browser
 
@@ -1061,6 +1077,14 @@ search-one-click-header-3 =
     .description = Wubjeŕśo, kótare pytnice a zwězanja maju se we wašom adresowem pólu zjawiś.
 update-search-engine-success =
     .message = Pytnica jo se wuspěšnje zaktualizěrowała
+search-edit-engine-2 =
+    .title = Pytnicu wobźěłaś
+search-delete-engine =
+    .title = Pytnicu lašowaś
+search-enable-engine =
+    .title = Pytnicu zmóžniś
+search-outlink-to-extensions-page =
+    .title = W rozšyrjenjach a drastwach zastojaś
 search-choose-engine-column =
     .label = Pytnica
 search-choose-keyword-column =
@@ -1612,6 +1636,11 @@ history-remember-label = { -brand-short-name } buźo
     .accesskey = b
 history-remember-option-all =
     .label = Se historiju spomnjeś
+history-remember-option-never2 =
+    .label = Se historiju nigda njespomnjeś
+    .description = Kužde wokno kaž priwatne wokno statkujo. Gaž zmóžnjone, muse se rozšyrjenja dowóliś.
+history-remember-option-custom2 =
+    .label = Historiju pśiměriś
 history-remember-option-never =
     .label = Se historiju nigda njespomnjeś
 history-remember-option-custom =
@@ -1654,8 +1683,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Historiju lašowaś…
     .accesskey = i
+history-header2 =
+    .heading = Historija
+history-section-header =
+    .label = Historija
+    .description = Wubjeŕśo, což { -brand-short-name } ma se spomnjeś, gaž wobglědowak zacynjaśo.
+history-custom-section-header =
+    .label = Rozšyrjone nastajenja
+    .description = Pśiměŕśo, což { -brand-short-name } ma se spomnjeś, gaž wobglědowak zacynjaśo.
+history-custom-button =
+    .label = Wubjeŕśo, což { -brand-short-name } ma se spomjeś
 history-group =
     .label = Historija
+history-remember-option-all2 =
+    .label = Se historiju spomnjeś
 
 ## Privacy Section - Site Data
 
@@ -1666,12 +1707,19 @@ sitedata-total-size-calculating = Wjelikosć sedłowych datow a pufrowaka se wul
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Websedła tuchylu <strong>{ $value } { $unit } </strong> platowego ruma wužywaju.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Waše skłaźone cookieje, historija, sedłowe daty a pufrowak se tuchylu <strong>{ $value } { $unit }</strong> platowego ruma wužywaju.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Waše skłaźone cookieje, sedłowe daty a pufrowak se tuchylu { $value } { $unit } platowego ruma wužywaju.
 sitedata-learn-more = Dalšne informacije
+sitedata-delete-on-close2 =
+    .label = Cookieje a sedłowe daty kuždy raz lašowaś, gaž { -brand-short-name } zacynjaśo
+    .accesskey = C
 sitedata-delete-on-close =
     .label = Cookieje a sedłowe daty wulašowaś, gaž se { -brand-short-name } zacynja
     .accesskey = s
