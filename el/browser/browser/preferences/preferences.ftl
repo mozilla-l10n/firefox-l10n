@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = σ
 non-technical-privacy-group =
     .label = Προτιμήσεις απορρήτου ιστοτόπων
+do-not-track-removal3 =
+    .message = Δεν υποστηρίζουμε πλέον τη λειτουργία «Αποτροπή καταγραφής».
+non-technical-privacy-heading =
+    .label = Πρόσθετα μέτρα προστασίας
+preferences-privacy-relay-available =
+    .label = Πρόταση μασκών email του { -relay-brand-name }
+    .description = Αποκρύπτει την πραγματική σας διεύθυνση email για την προστασία των εισερχομένων σας από ανεπιθύμητα μηνύματα.
 non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπων
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -531,6 +538,9 @@ check-user-spelling =
     .accesskey = π
 spellcheck-download-dictionaries =
     .label = Λήψη λεξικών
+spellcheck-promo =
+    .heading = Οδηγίες χρήσης του ορθογραφικού ελέγχου
+    .message = Κάντε δεξί κλικ σε ένα πεδίο κειμένου για να (απ)ενεργοποιήσετε τον ορθογραφικό έλεγχο ή να αλλάξετε τη γλώσσα. Ο ορθογραφικός έλεγχος δεν υποστηρίζεται σε όλα τα πεδία.
 
 ## General Section - Files and Applications
 
@@ -788,11 +798,20 @@ network-proxy-connection-learn-more = Μάθετε περισσότερα
 network-proxy-connection-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
+network-proxy-group2 =
+    .label = Ρυθμίσεις διακομιστή μεσολάβησης
+    .description = Ρυθμίστε τον τρόπο σύνδεσης του { -brand-short-name } με το διαδίκτυο.
+network-proxy-connection-settings2 =
+    .label = Ρύθμιση διακομιστή μεσολάβησης
+    .description = Η αλλαγή αυτών των ρυθμίσεων ενδέχεται να προκαλέσει ζητήματα σύνδεσης
+    .accesskey = δ
 
 ## Home Section
 
 home-new-windows-tabs-header = Νέα παράθυρα και καρτέλες
 home-new-windows-tabs-description2 = Επιλέξτε τι θα βλέπετε όταν ανοίγετε την αρχική σας σελίδα, νέα παράθυρα και νέες καρτέλες.
+home-section =
+    .heading = Αρχική σελίδα και εκκίνηση
 
 ## Home Section - Default Browser
 
@@ -1059,6 +1078,8 @@ search-delete-engine =
     .title = Διαγραφή μηχανής αναζήτησης
 search-enable-engine =
     .title = Ενεργοποίηση μηχανής αναζήτησης
+search-outlink-to-extensions-page =
+    .title = Διαχείριση στη σελίδα «Επεκτάσεις και θέματα»
 search-choose-engine-column =
     .label = Μηχανή αναζήτησης
 search-choose-keyword-column =

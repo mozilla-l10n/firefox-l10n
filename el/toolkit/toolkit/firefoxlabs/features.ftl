@@ -77,3 +77,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Κρατήστ
 experimental-features-semantic-history-search =
     .label = Εννοιολογική αναζήτηση ιστορικού
 experimental-features-semantic-history-search-description = Χρησιμοποιήστε ένα τοπικό μοντέλο μηχανικής μάθησης στη γραμμή διευθύνσεων του { -brand-product-name }, για την εμφάνιση προτεινόμενων καταχωρήσεων από το ιστορικό σας, που σχετίζονται με τις αναζητήσεις σας, με βάση την κατανόηση της φυσικής γλώσσας. <a data-l10n-name="connect">Αποστολή σχολίων</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Σημειώσεις καρτελών

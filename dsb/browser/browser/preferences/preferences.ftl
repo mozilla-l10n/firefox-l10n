@@ -2402,9 +2402,22 @@ preferences-ai-controls-block-confirmation-confirm =
 security-privacy-status-ok-header = { -brand-short-name } stražujo
 security-privacy-status-ok-label = Pólěpšony slědowański šćit jo zmóžnjony
 security-privacy-status-problem-label = Njejsmy nastajenja namakali, kótarež waš šćit wobwliwuju
+security-privacy-status-problem-helper-label = Problemy pokazaś
+security-privacy-status-update-needed-label = Nowa wersija { -brand-short-name } jo k dispoziciji.
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } aktualizěrowaś
+security-privacy-issue-card =
+    .heading = Wěstotne warnowanja
+issue-card-reset-button =
+    .label = Slědk stajiś
+issue-card-dismiss-button =
+    .tooltiptext = Zachyśiś
+    .aria-label = Zachyśiś
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Rozšyrjone nastajenja
 preferences-etp-header =
     .heading = Pólěpšony slědowański šćit
 preferences-etp-customize-button =
