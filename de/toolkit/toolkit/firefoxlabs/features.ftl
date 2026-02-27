@@ -77,3 +77,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Behalten Sie I
 experimental-features-semantic-history-search =
     .label = Semantische Chroniksuche
 experimental-features-semantic-history-search-description = Verwenden Sie ein lokales Machine-Learning-Modell, um Einträge aus der Chronik, die sich auf Ihre Suchanfragen beziehen, basierend auf dem Verständnis natürlicher Sprache in der { -brand-product-name }-Adressleiste vorzuschlagen. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Tab-Notizen
