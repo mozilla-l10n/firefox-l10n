@@ -310,8 +310,15 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
     .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-added =
+    .label = زووی ٱوورده نوابیڌه
+settings-translations-subpage-download-progress = دانلود من جریان…
 settings-translations-subpage-download-retry-button =
     .label = قپ ریت دووارته
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = پاک کردن { $language } ({ $size } MB)؟
 settings-translations-subpage-download-delete-button =
     .label = پاک کردن
 settings-translations-subpage-download-cancel-button =
@@ -738,6 +745,9 @@ prefs-sync-now-button-2 =
     .accesskey = N
 prefs-syncing-button =
     .label = هونی هوم گوم ابۊ…
+prefs-syncing-button-2 =
+    .label = هونی هوم گوم ابۊ…
+    .title = هیم سکو هوم گوم کوݩ
 
 ## The list of things currently syncing.
 
@@ -930,6 +940,9 @@ sitedata-settings2 =
 sitedata-clear =
     .label = روفتن داده یل…
     .accesskey = l
+sitedata-settings =
+    .label = دؽوۉداری داده یل…
+    .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
 

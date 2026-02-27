@@ -25,3 +25,7 @@ more-from-moz-mozilla-monitor-button = گرؽڌن { -monitor-brand-short-name }
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-button = امتهووݩ کردن { -solo-ai-brand-name }
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+more-from-moz-mdn-title2 = { -mdn-brand-name }
