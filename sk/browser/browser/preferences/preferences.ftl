@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = i
 non-technical-privacy-group =
     .label = Predvoľby ochrany súkromia na webových stránkach
+non-technical-privacy-heading =
+    .label = Dodatočná ochrana
 non-technical-privacy-header = Predvoľby ochrany súkromia na webových stránkach
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -2229,6 +2231,8 @@ preferences-doh-exceptions-description = { -brand-short-name } nebude používa�
 preferences-doh-manage-exceptions =
     .label = Spravovať výnimky…
     .accesskey = S
+preferences-doh-select-resolver-label =
+    .label = Zvoľte poskytovateľa:
 
 ## The following strings are used in the Download section of settings
 
