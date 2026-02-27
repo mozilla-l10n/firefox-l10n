@@ -220,6 +220,7 @@ windows-10-eos-sync-toast-secondary-label = دینداتر وا ویروم بی�
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-callout-addons-primary-button = پسندا ایما ن سیل کۊنین
 windows-10-eos-sync-callout-next-button = بئڌی
 windows-10-eos-sync-callout-get-started-button = ناهاڌن پا کار
 

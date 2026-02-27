@@ -249,6 +249,9 @@ dismiss-button-label = رڌ کردن
 create-backup-screen-1-flair = پؽشنهاڌ وابیڌه
 create-backup-select-tile-button-label = پسند
 create-backup-back-button-label = وورگشتن
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = پوی داده یل
+fx-backup-opt-in-create-password-label = ی رزم بزنین
 fx-backup-opt-in-confirm-btn-label = رئڌن وا پؽش
 fx-backup-opt-in-cancel-btn-label = وورگشتن
 

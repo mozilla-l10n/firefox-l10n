@@ -6,18 +6,33 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بلگه نۊ
+newtab-customize-panel-icon-button =
+    .title = سفارشی کردن ای بلگه
 newtab-customize-panel-icon-button-label = سفارشی کردن
 newtab-settings-dialog-label =
     .aria-label = سامووا
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = رڌ کردن
+    .aria-label = رڌ کردن
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = پیتینیڌن
+    .aria-label = پیتینیڌن
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 newtab-search-box-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
+    .title = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
+    .aria-label = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 newtab-search-box-handoff-input-no-engine =
     .placeholder = پیتینیڌن یا زیڌن نشۊوی
     .title = پیتینیڌن یا زیڌن نشۊوی
@@ -48,6 +63,11 @@ newtab-topsites-use-image-link = و کار گرؽڌن ی شؽوات سفارشی
 newtab-topsites-image-validation =
     بار ونی شؽوات شکست خرد.
     نشۊوی دیری ن امتهووݩ کۊنین.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = روفتن هؽل
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
