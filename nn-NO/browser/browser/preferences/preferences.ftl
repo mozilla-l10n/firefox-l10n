@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = o
 non-technical-privacy-group =
     .label = Personverninnstillingar for nettstaden
+do-not-track-removal3 =
+    .message = Vi støttar ikkje lenger «Ikkje spor»-funksjonen
+non-technical-privacy-heading =
+    .label = Ytterlegare vern
 non-technical-privacy-header = Personverninnstillingar for nettstaden
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +528,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Bruk operativsystem-innstillingane for «{ $localeName }» for å formatere datoar, klokkeslett, tal og målingar.
+settings-spellcheck-header =
+    .label = Stavekontroll
 check-user-spelling =
     .label = Kontroller stavinga mi når eg tastar
     .accesskey = K
+spellcheck-download-dictionaries =
+    .label = Last ned ordbøker
 
 ## General Section - Files and Applications
 
@@ -1051,6 +1059,8 @@ update-search-engine-success =
     .message = Søkjemotoren er oppdatert
 search-edit-engine-2 =
     .title = Rediger søkjemotor
+search-delete-engine =
+    .title = Slett søkjemotor
 search-choose-engine-column =
     .label = Søkjemotor
 search-choose-keyword-column =
@@ -2221,6 +2231,10 @@ preferences-doh-exceptions-description = { -brand-short-name } vil ikkje bruke s
 preferences-doh-manage-exceptions =
     .label = Handsam unntak
     .accesskey = H
+preferences-doh-advanced-button =
+    .label = Avanserte innstillingar
+preferences-doh-select-resolver-label =
+    .label = Vel leverandør:
 
 ## The following strings are used in the Download section of settings
 
