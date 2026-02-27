@@ -1053,6 +1053,12 @@ search-one-click-header-3 =
     .description = Επιλέξτε ποιες μηχανές αναζήτησης και συντομεύσεις θα εμφανίζονται στη γραμμή διευθύνσεων.
 update-search-engine-success =
     .message = Επιτυχής ενημέρωση μηχανής αναζήτησης
+search-edit-engine-2 =
+    .title = Επεξεργασία μηχανής αναζήτησης
+search-delete-engine =
+    .title = Διαγραφή μηχανής αναζήτησης
+search-enable-engine =
+    .title = Ενεργοποίηση μηχανής αναζήτησης
 search-choose-engine-column =
     .label = Μηχανή αναζήτησης
 search-choose-keyword-column =
@@ -1604,6 +1610,8 @@ history-remember-label = Το { -brand-short-name }
     .accesskey = ο
 history-remember-option-all =
     .label = Θα διατηρεί το ιστορικό
+history-remember-option-custom2 =
+    .label = Προσαρμογή ιστορικού
 history-remember-option-never =
     .label = Δεν θα διατηρεί ποτέ το ιστορικό
 history-remember-option-custom =
@@ -1646,6 +1654,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Απαλοιφή ιστορικού…
     .accesskey = σ
+history-header2 =
+    .heading = Ιστορικό
 history-group =
     .label = Ιστορικό
 
@@ -1711,7 +1721,7 @@ sitedata-cookies-exceptions =
     .label = Διαχείριση εξαιρέσεων…
     .accesskey = σ
 sitedata-cookies-exceptions2 =
-    .label = Διαχείριση επεκτάσεων
+    .label = Διαχείριση εξαιρέσεων
     .accesskey = χ
     .description = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται ή απαγορεύεται πάντα η χρήση cookie και δεδομένων ιστοτόπου.
 cookies-site-data-group =
@@ -2135,6 +2145,12 @@ space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν δι�
 certs-description2 =
     .label = Πιστοποιητικά
     .description = Ρυθμίστε τα πιστοποιητικά που χρησιμοποιεί το { -brand-short-name } για ταυτοποίηση.
+certs-view2 =
+    .label = Διαχείριση πιστοποιητικών
+    .accesskey = π
+certs-devices2 =
+    .label = Διαχείριση συσκευών ασφαλείας
+    .accesskey = σ
 
 ## Privacy Section - HTTPS-Only
 
@@ -2219,6 +2235,11 @@ preferences-doh-exceptions-description = Το { -brand-short-name } δεν θα 
 preferences-doh-manage-exceptions =
     .label = Διαχείριση εξαιρέσεων…
     .accesskey = χ
+preferences-doh-advanced-button =
+    .label = Σύνθετες ρυθμίσεις
+preferences-doh-manage-exceptions2 =
+    .label = Διαχείριση εξαιρέσεων
+    .accesskey = χ
 
 ## The following strings are used in the Download section of settings
 
@@ -2284,3 +2305,7 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Ακύρωση
 preferences-ai-controls-block-confirmation-confirm =
     .label = Φραγή
+
+## Privacy and security status card
+
+security-privacy-status-problem-helper-label = Προβολή ζητημάτων
