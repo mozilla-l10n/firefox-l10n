@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = قلوه دووسته بۊین
+accessibility-keyboard-header = تخته کیلیت
 
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
