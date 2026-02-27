@@ -11,6 +11,12 @@
 
 # Sidebar strings
 
+# Sidebar heading for connecting to some remote source
+# .name is processed by fluent-react / SidebarFixedItem
+about-debugging-sidebar-setup =
+    .name = وورکل کردن
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB فعال وابی
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = منپیز وابی
 
