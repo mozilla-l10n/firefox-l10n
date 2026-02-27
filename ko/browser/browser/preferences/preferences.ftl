@@ -2430,7 +2430,7 @@ security-privacy-status-trackers-label = 지난 한 달 동안 { $trackerCount }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">엄격한 보호</a> 중
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
-security-privacy-status-custom-enabled-label = <a data-l10n-name="strict-tracking-protection">사용자 지정 보호</a> 중
+security-privacy-status-custom-enabled-label = <a data-l10n-name="custom-tracking-protection">사용자 지정 보호</a> 중
 security-privacy-status-up-to-date-label = 가장 안전한 { -brand-short-name } 최신 버전을 사용 중입니다
 security-privacy-status-update-needed-label = 새 { -brand-short-name } 버전이 있습니다.
 security-privacy-status-update-error-label = { -brand-short-name }가 자체 업데이트를 하는 데 문제가 있음

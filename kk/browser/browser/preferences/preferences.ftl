@@ -2450,7 +2450,7 @@ security-privacy-status-trackers-label =
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Сізде <a data-l10n-name="strict-tracking-protection">қатаң қорғаныс</a> бар.
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
-security-privacy-status-custom-enabled-label = Сізде <a data-l10n-name="strict-tracking-protection">таңдауыңызша қорғаныс</a> бар.
+security-privacy-status-custom-enabled-label = Сізде <a data-l10n-name="custom-tracking-protection">таңдауыңызша қорғаныс</a> бар.
 security-privacy-status-up-to-date-label = Сізде { -brand-short-name } соңғы, ең қауіпсіз нұсқасы орнатылған
 security-privacy-status-update-needed-label = { -brand-short-name } жаңа нұсқасы қолжетімді
 security-privacy-status-update-error-label = { -brand-short-name } өз-өзін жаңарту кезінде мәселелерге тап болуда

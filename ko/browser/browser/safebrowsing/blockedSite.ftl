@@ -73,5 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>이 사이트가 차단�
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> 사이트가 사기성 및 유해 활동에 연관될 수 있습니다.
 safeb-blocked-addon-page-error-desc3-override = <strong>사용자가 무엇을 할 수 있나요?</strong>
 safeb-blocked-addon-page-error-desc4-override = 이런 일이 다시 발생하지 않게 하려면 about:addons에서 <strong>{ $addonName }</strong> 부가 기능을 제거하거나 비활성화할 수 있습니다.
-safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_armful_addons'>{ -brand-short-name }의 유해 부가 기능 보호 기능에 대해 더 알아보세요</a>.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>{ -brand-short-name }의 유해 부가 기능 보호 기능에 대해 더 알아보세요</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>{ -brand-short-name }의 피싱과 악성코드 방지에 대해 더 알아보세요</a>.
