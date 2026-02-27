@@ -2305,3 +2305,26 @@ preferences-ai-controls-block-confirmation-confirm =
 
 issue-card-reset-button =
     .label = Tilbakestill
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-rfp-warning-message =
+    .message = Du brukar Resist Fingerprinting (RFP), som erstattar nokre av { -brand-short-name } sine verneinnstillingar for fingeravtrykk. Dette kan føre til at enkelte nettstadar ikkje vil fungere.
+preferences-etp-custom-cookies-enabled =
+    .label = Infokapslar
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Infokapslar
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Tillat alle infokapslar
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sporingsinnhald
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sporingsinnhald
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kryptoutvinnarar
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Kjende nettlesaravtrykk
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Mistenkte nettlesaravtrykk
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Mistenkte nettlesaravtrykk
