@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Tùy chọn riêng tư trang web
+do-not-track-removal3 =
+    .message = Chúng tôi không còn hỗ trợ tính năng “Không theo dõi”.
+non-technical-privacy-heading =
+    .label = Các biện pháp bảo vệ bổ sung
+preferences-privacy-relay-available =
+    .label = Đề xuất email ẩn danh của { -relay-brand-name }
+    .description = Ứng dụng này ẩn địa chỉ email thật của bạn để bảo vệ hộp thư đến khỏi thư rác.
 non-technical-privacy-header = Tùy chọn riêng tư trang web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -512,9 +519,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Sử dụng các cài đặt hệ điều hành của bạn cho nhóm “{ $localeName }” để định dạng ngày, giờ, số và số đo.
+settings-spellcheck-header =
+    .label = Kiểm tra chính tả
 check-user-spelling =
     .label = Kiểm tra chính tả khi bạn gõ
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Tải xuống từ điển
+spellcheck-promo =
+    .heading = Cách sử dụng Kiểm tra chính tả
+    .message = Nhấp chuột phải vào ô văn bản để bật/tắt kiểm tra chính tả hoặc thay đổi ngôn ngữ. Không phải tất cả các ô đều hỗ trợ kiểm tra chính tả.
 
 ## General Section - Files and Applications
 
@@ -772,11 +786,20 @@ network-proxy-connection-learn-more = Tìm hiểu thêm
 network-proxy-connection-settings =
     .label = Cài đặt…
     .accesskey = e
+network-proxy-group2 =
+    .label = Cài đặt Proxy
+    .description = Cấu hình cách { -brand-short-name } kết nối với internet.
+network-proxy-connection-settings2 =
+    .label = Cấu hình proxy
+    .description = Việc thay đổi các cài đặt này có thể gây ra sự cố kết nối.
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Cửa sổ và thẻ mới
 home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn mở trang chủ, cửa sổ mới và các thẻ mới.
+home-section =
+    .heading = Trang chủ và khởi động
 
 ## Home Section - Default Browser
 
@@ -1033,6 +1056,14 @@ search-one-click-header-3 =
     .description = Hãy chọn những công cụ tìm kiếm và lối tắt nào sẽ hiển thị trên thanh địa chỉ của bạn.
 update-search-engine-success =
     .message = Công cụ tìm kiếm đã được cập nhật thành công
+search-edit-engine-2 =
+    .title = Chỉnh sửa công cụ tìm kiếm
+search-delete-engine =
+    .title = Xoá công cụ tìm kiếm
+search-enable-engine =
+    .title = Bật công cụ tìm kiếm
+search-outlink-to-extensions-page =
+    .title = Quản lý trong tiện ích mở rộng và chủ đề
 search-choose-engine-column =
     .label = Công cụ tìm kiếm
 search-choose-keyword-column =
@@ -1584,6 +1615,11 @@ history-remember-label = { -brand-short-name } sẽ
     .accesskey = w
 history-remember-option-all =
     .label = Ghi nhớ lịch sử
+history-remember-option-never2 =
+    .label = Không bao giờ nhớ lịch sử
+    .description = Mỗi cửa sổ hoạt động như một cửa sổ riêng tư. Khi mở, tiện ích mở rộng cần được cho phép.
+history-remember-option-custom2 =
+    .label = Tuỳ chỉnh về ghi nhớ lịch sử
 history-remember-option-never =
     .label = Không bao giờ ghi nhớ lịch sử
 history-remember-option-custom =
@@ -1626,8 +1662,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Xóa lịch sử...
     .accesskey = s
+history-header2 =
+    .heading = Lịch sử
+history-section-header =
+    .label = Lịch sử
+    .description = Chọn những gì bạn muốn { -brand-short-name } ghi nhớ khi bạn đóng trình duyệt.
+history-custom-section-header =
+    .label = Cài đặt nâng cao
+    .description = Tùy chỉnh những gì bạn muốn { -brand-short-name } ghi nhớ khi bạn đóng trình duyệt.
+history-custom-button =
+    .label = Hãy chọn những gì bạn muốn { -brand-short-name } ghi nhớ
 history-group =
     .label = Lịch sử
+history-remember-option-all2 =
+    .label = Ghi nhớ lịch sử
 
 ## Privacy Section - Site Data
 
@@ -1638,17 +1686,27 @@ sitedata-total-size-calculating = Đang tính toán kích thước bộ nhớ đ
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Các trang web hiện đang sử dụng <strong>{ $value } { $unit }</strong> dung lượng ổ đĩa.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Cookie, lịch sử, dữ liệu trang web và bộ nhớ đệm của bạn hiện đang sử dụng <strong>{ $value } { $unit }</strong> dung lượng đĩa.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie, dữ liệu trang và bộ nhớ đệm của bạn hiện đang sử dụng { $value } { $unit } dung lượng đĩa.
 sitedata-learn-more = Tìm hiểu thêm
+sitedata-delete-on-close2 =
+    .label = Xóa cookie và dữ liệu trang web mỗi khi bạn đóng { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Xóa cookie và dữ liệu trang web khi đóng { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Dựa trên cài đặt lịch sử của bạn, { -brand-short-name } xóa cookie và dữ liệu trang web khỏi phiên của bạn khi bạn đóng trình duyệt.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Lịch sử sẽ không lưu.
+    .message = { -brand-short-name } sẽ xóa cookie và dữ liệu trang web khỏi phiên làm việc của bạn khi bạn đóng trình duyệt.
 sitedata-delete-on-close-private-browsing = Trong chế độ duyệt riêng tư, cookie và dữ liệu trang web sẽ luôn bị xóa khi { -brand-short-name } bị đóng.
 sitedata-delete-on-close-private-browsing2 = Dựa trên cài đặt lịch sử của bạn, { -brand-short-name } xóa cookie và dữ liệu trang web khỏi phiên của bạn khi bạn đóng trình duyệt.
 sitedata-allow-cookies-option =
@@ -1694,6 +1752,16 @@ sitedata-cookies-exceptions2 =
     .label = Quản lý ngoại lệ
     .accesskey = x
     .description = Bạn có thể chỉ định trang web nào luôn được phép hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web.
+sitedata-heading =
+    .label = Dữ liệu duyệt web
+    .description = Quản lý cookie, lịch sử, bộ nhớ đệm, dữ liệu trang web và nhiều hơn nữa.
+sitedata-settings3 =
+    .label = Xoá dữ liệu cho các trang web cụ thể
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Quản lý ngoại lệ
+    .accesskey = x
+    .description = Chọn cách các trang web cụ thể xử lý cookie và dữ liệu trang web.
 cookies-site-data-group =
     .label = Cookie và dữ liệu trang
 
@@ -1960,6 +2028,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Quản lý chuyển hướng
+    .accesskey = E
+    .searchkeywords = popups,pop-ups
+permissions-addon-install-warning3 =
+    .label = Hiển thị cảnh báo khi các trang web cố gắng cài đặt tiện ích mở rộng
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Quản lý ngoại lệ cửa sổ bật lên và chuyển hướng của bên thứ ba
     .accesskey = E
@@ -2005,6 +2082,9 @@ permissions-speaker2 =
     .label = Loa
 permissions-notification2 =
     .label = Thông báo
+permissions-header3 =
+    .label = Quyền hạn
+    .description = Quản lý trang web nào có thể truy cập, kiểm soát hoặc kích hoạt.
 
 ## Privacy Section - Data Collection
 
@@ -2079,11 +2159,16 @@ website-advertising-private-attribution-description = Điều này giúp các tr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bảo mật
+browsing-protection-group2 =
+    .label = Bảo vệ khỏi nội dung lừa đảo và phần mềm nguy hiểm
+    .description = Các trang web và nội dung tải xuống nguy hiểm có thể gây rủi ro cho dữ liệu và thiết bị của bạn. { -brand-short-name } tự động chặn chúng và cảnh báo bạn về phần mềm nguy hiểm hoặc không mong muốn.
 security-browsing-protection = Chống nội dung lừa đảo và phần mềm nguy hiểm
 security-enable-safe-browsing =
     .label = Chặn nội dung lừa đảo và không an toàn
     .accesskey = B
 security-enable-safe-browsing-link = Tìm hiểu thêm
+security-safe-browsing-warning =
+    .message = Việc tắt tính năng này sẽ làm giảm khả năng bảo vệ khỏi các lừa đảo, trang web độc hại và các nội dung tải xuống nguy hiểm.
 security-block-downloads =
     .label = Chặn tải xuống không an toàn
     .accesskey = d
@@ -2115,6 +2200,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung 
 certs-description2 =
     .label = Chứng nhận
     .description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
+certs-description3 =
+    .label = Chứng chỉ
+    .description = Cấu hình các chứng chỉ mà { -brand-short-name } sử dụng để xác minh các kết nối an toàn.
+certs-view2 =
+    .label = Quản lý chứng chỉ
+    .accesskey = C
+certs-devices2 =
+    .label = Quản lý các thiết bị bảo mật
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2144,6 +2238,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS qua HTTPS
+dns-over-https-group2 =
+    .label = DNS qua HTTPS
+    .description = Hệ thống tên miền qua HTTPS (DoH) mã hóa thông tin tìm kiếm trang web, khiến nhà cung cấp dịch vụ internet hoặc người khác khó có thể biết được bạn sắp truy cập vào những trang web nào.
 preferences-doh-description = Hệ thống tên miền (DNS) qua HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, tạo một DNS an toàn và khiến người khác khó nhìn thấy trang web bạn sắp truy cập hơn.
 preferences-doh-description2 = Hệ thống phân giải tên miền (DNS) trên HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, cung cấp DNS an toàn và khiến người khác khó biết bạn sắp truy cập trang web nào.
 # Variables:
@@ -2199,6 +2296,58 @@ preferences-doh-exceptions-description = { -brand-short-name } sẽ không sử 
 preferences-doh-manage-exceptions =
     .label = Quản lý ngoại lệ…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Bảo vệ mặc định
+    .description = Sử dụng DNS bảo mật ở những khu vực có hỗ trợ.
+preferences-doh-overview-custom =
+    .label = Tuỳ chỉnh
+    .description = Luôn sử dụng DNS an toàn với quyền kiểm soát nhà cung cấp của bạn và cơ chế dự phòng.
+preferences-doh-overview-off =
+    .label = Tắt
+    .description = Sử dụng trình phân giải DNS mặc định của bạn.
+preferences-doh-advanced-button =
+    .label = Cài đặt nâng cao
+preferences-doh-advanced-section =
+    .label = Cài đặt nâng cao
+    .description = Hệ thống tên miền qua HTTPS (DoH) mã hóa thông tin tìm kiếm trang web, khiến nhà cung cấp dịch vụ internet hoặc người khác khó có thể biết được bạn sắp truy cập vào những trang web nào.
+preferences-doh-manage-exceptions2 =
+    .label = Quản lý ngoại lệ
+    .accesskey = x
+preferences-doh-status-item-off =
+    .message = DNS qua HTTPS đã bị tắt
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS qua HTTPS không hoạt động vì chúng tôi gặp lỗi ({ $reason }) khi cố gắng sử dụng nhà cung cấp { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS qua HTTPS không hoạt động vì chúng tôi nhận được URL không hợp lệ ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS qua HTTPS đang sử dụng nhà cung cấp { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS qua HTTPS không hoạt động vì chúng tôi gặp lỗi ({ $reason }) khi cố gắng sử dụng nhà cung cấp cục bộ { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS qua HTTPS đang sử dụng nhà cung cấp cục bộ { $name }
+preferences-doh-select-resolver-label =
+    .label = Chọn nhà cung cấp:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Sử dụng nhà cung cấp này để phân giải DNS qua HTTPS.
+preferences-doh-custom-provider-label =
+    .aria-label = Nhập URL nhà cung cấp tùy chỉnh
+preferences-doh-header2 =
+    .heading = DNS qua HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2264,3 +2413,138 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Hủy bỏ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Chặn
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } đang bảo vệ
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } đề xuất một số cải tiến về bảo mật
+security-privacy-status-ok-label = Trình chống theo dõi nâng cao đang bật
+security-privacy-status-problem-label = Chúng tôi đã tìm thấy các cài đặt ảnh hưởng đến khả năng bảo vệ cho bạn
+security-privacy-status-problem-helper-label = Xem các vấn đề
+security-privacy-status-pending-trackers-label = Tra cứu số lượng trình theo dõi { -brand-short-name } đã chặn trong tháng vừa qua
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label = { $trackerCount } trình theo dõi bị chặn trong tháng vừa qua
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Bạn đã bật chế độ <a data-l10n-name="strict-tracking-protection">bảo vệ nghiêm ngặt</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Bạn đã bật chế độ <a data-l10n-name="custom-tracking-protection">tuỳ chỉnh bảo vệ</a>
+security-privacy-status-up-to-date-label = Bạn đang dùng phiên bản mới nhất, an toàn nhất của { -brand-short-name }
+security-privacy-status-update-needed-label = Phiên bản mới của { -brand-short-name } đã có sẵn.
+security-privacy-status-update-error-label = { -brand-short-name } đang gặp sự cố khi tự cập nhật
+security-privacy-status-update-checking-label = { -brand-short-name } đang kiểm tra cập nhật
+security-privacy-status-update-needed-description = Cập nhật để nhận được các bản vá lỗi mới nhất về tốc độ, độ ổn định và bảo mật.
+security-privacy-status-update-button-label =
+    .label = Cập nhật { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Biểu tượng chiếc khiên có dấu chấm than, thể hiện sự quan ngại về các cảnh báo an ninh của bạn
+security-privacy-image-ok =
+    .alt = Biểu tượng chiếc khiên có dấu tích, cho thấy bạn không có vấn đề bảo mật nào chưa được giải quyết
+security-privacy-issue-card =
+    .heading = Cảnh báo bảo mật
+issue-card-reset-button =
+    .label = Đặt lại
+issue-card-dismiss-button =
+    .tooltiptext = Bỏ qua
+    .aria-label = Bỏ qua
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Trình chống theo dõi nâng cao
+    .description = Các trang web sử dụng trình theo dõi để theo dõi bạn trực tuyến và hiển thị quảng cáo gây khó chịu. { -brand-short-name } bảo vệ bạn khi bạn duyệt web, tự động chặn trình theo dõi để bạn kiểm soát được dấu vết kỹ thuật số của mình.
+preferences-etp-level-standard =
+    .label = Tiêu chuẩn (mặc định)
+    .description = Biện pháp bảo vệ mạnh mẽ, đáng tin cậy, hoạt động mượt mà với hầu hết các trang web.
+preferences-etp-level-strict =
+    .label = Nghiêm ngặt
+    .description = Biện pháp bảo vệ mạnh mẽ hơn sẽ chặn nhiều trình theo dõi hơn, nhưng có thể khiến một số trang web bị lỗi.
+preferences-etp-level-custom =
+    .label = Tuỳ chỉnh
+    .description = Chọn biện pháp bảo vệ bạn muốn bật hoặc tắt.
+preferences-etp-status-advanced-button =
+    .label = Cài đặt nâng cao
+preferences-etp-status-protections-dashboard-link =
+    .label = Xem bảng điều khiển bảo vệ được cá nhân hóa của bạn
+    .description = Xem { -brand-short-name } đã chặn bao nhiêu trình theo dõi lén lút bạn, bao gồm trình theo dõi mạng xã hội, trình thu thập dấu vết và trình khai thác tiền điện tử.
+preferences-etp-header =
+    .heading = Trình chống theo dõi nâng cao
+preferences-etp-advanced-settings-group =
+    .label = Cài đặt nâng cao
+    .description = Các trang web sử dụng trình theo dõi để theo dõi bạn trực tuyến và hiển thị quảng cáo gây khó chịu. { -brand-short-name } bảo vệ bạn khi bạn duyệt web, tự động chặn hầu hết các trình theo dõi để bạn kiểm soát được dấu vết kỹ thuật số của mình.
+preferences-etp-customize-button =
+    .label = Tùy chỉnh trình chống theo dõi
+preferences-etp-reload-tabs-hint =
+    .message = Tải lại các thẻ để áp dụng những thay đổi này.
+preferences-etp-reload-tabs-hint-button =
+    .label = Tải lại tất cả các thẻ
+preferences-etp-rfp-warning-message =
+    .message = Bạn đang sử dụng Resist Fingerprinting (RFP), nó sẽ thay thế một số cài đặt bảo vệ dấu vết của { -brand-short-name }. Điều này có thể khiến một số trang web bị hỏng.
+preferences-etp-level-warning-message =
+    .heading = Lưu ý! Một số trang web có thể không hoạt động như mong đợi.
+    .message = Một số trang web tích hợp trình theo dõi vào các tính năng hoặc nội dung của chúng. Khi { -brand-short-name } chặn chúng, trang web trông có vẻ bị lỗi. Hãy thử sử dụng chức năng “Khắc phục sự cố trang web” hoặc tắt tính năng trình chống theo dõi trên trang web đó.
+preferences-etp-manage-exceptions-button =
+    .label = Quản lý ngoại lệ
+    .description = Quản lý các trang web mà bạn đã tắt tính năng trình chống theo dõi nâng cao.
+preferences-etp-customize-header =
+    .heading = Tùy chỉnh trình chống theo dõi
+preferences-etp-reset =
+    .label = Khôi phục tùy chỉnh
+    .description = Khôi phục cài đặt về mức độ bảo vệ đã được thiết lập trước.
+preferences-etp-reset-standard-button =
+    .label = Đặt lại về chế độ tiêu chuẩn
+preferences-etp-reset-strict-button =
+    .label = Đặt lại về chế độ nghiêm ngặt
+preferences-etp-custom-control-group =
+    .label = Trình chống theo dõi
+    .description = Chọn các biện pháp bảo vệ bạn muốn bật hoặc tắt.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookie
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookie
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Cho phép tất cả cookie
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Trình theo dõi nội dung
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Trình theo dõi nội dung
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Trình đào tiền điện tử
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Dấu vết đã biết
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Dấu vết đáng ngờ
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Dấu vết đáng ngờ
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Những dấu vết đã biết sẽ không bị chặn
+    .description = Điều này có thể cho phép một số trình theo dõi có thể theo dõi bạn mà không cần cookie.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookie của bên thứ ba đã được bật
+    .description = Cookie của bên thứ ba được sử dụng để theo dõi bạn trên các trang web khác nhau.
+security-privacy-issue-warning-password-manager =
+    .label = Trình quản lý mật khẩu đã bị vô hiệu hóa
+    .description = Trình quản lý mật khẩu giúp bạn lưu trữ các mật khẩu mạnh cho tài khoản của mình.
+security-privacy-issue-warning-popup-blocker =
+    .label = Trình chặn cửa sổ bật lên đã bị vô hiệu hóa
+    .description = Cửa sổ bật lên gây gián đoạn và tiềm ẩn nguy hiểm.
+security-privacy-issue-warning-extension-install =
+    .label = Trang web có thể cài đặt tiện ích mở rộng
+    .description = Trang web có thể cài đặt tiện ích mở rộng cho { -brand-short-name } mà không cần hỏi.
+security-privacy-issue-warning-safe-browsing =
+    .label = Nội dung nguy hiểm và lừa đảo sẽ không bị chặn
+    .description = Nguy cơ bạn bị lừa đảo và nhiễm phần mềm độc hại từ các trang web sẽ tăng lên.
+security-privacy-issue-warning-doh =
+    .label = DNS qua HTTPS đã bị vô hiệu hóa
+    .description = DNS qua HTTPS giúp che giấu thông tin về các trang web bạn truy cập khỏi nhà cung cấp mạng.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello đã bị vô hiệu hoá
+    .description = Encrypted Client Hello che giấu thông tin về các trang web bạn truy cập khỏi nhà cung cấp mạng.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Tính năng tự động cấu hình proxy đang được bật
+    .description = Việc tự động cấu hình proxy có thể cho phép các mạng không đáng tin cậy theo dõi hoạt động của bạn.
