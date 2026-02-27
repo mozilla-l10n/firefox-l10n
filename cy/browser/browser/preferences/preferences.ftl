@@ -2339,6 +2339,9 @@ preferences-doh-overview-off =
     .description = Defnyddiwch eich datrysydd rhagosodedig.
 preferences-doh-advanced-button =
     .label = Gosodiadau uwch
+preferences-doh-advanced-section =
+    .label = Gosodiadau uwch
+    .description = Mae Domain Name System over HTTPS (DoH) yn amgryptio chwilio gwefannau fel ei bod hi'n anoddach i'ch darparwr rhyngrwyd neu eraill weld pa wefannau rydych ar fin ymweld â nhw.
 preferences-doh-manage-exceptions2 =
     .label = Rheoli eithriadau
     .accesskey = e
@@ -2353,6 +2356,30 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = Dyw DNS dros HTTPS ddim yn gweithio oherwydd i ni dderbyn URL annilys ( { $reason } )
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = Mae DNS dros HTTPS yn defnyddio'r darparwr { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = Dyw DNS dros HTTPS ddim yn gweithio oherwydd i ni ganfod y gwall ( { $reason } ) wrth geisio defnyddio'r darparwr lleol { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = Mae DNS dros HTTPS yn defnyddio'r darparwr lleol { $name }
+preferences-doh-select-resolver-label =
+    .label = Dewis darparwr:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Defnyddio'r darparwr ar gyfer datrys DNS dros HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Rhowch URL darparwr cyfaddas
+preferences-doh-header2 =
+    .heading = DNS Dros HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2418,6 +2445,50 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Diddymu
 preferences-ai-controls-block-confirmation-confirm =
     .label = Rhwystro
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = Mae { -brand-short-name } yn gwarchod
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = Mae { -brand-short-name } yn argymell rhai gwelliannau diogelwch
+security-privacy-status-ok-label = Mae Diogelwch Uwch Rhag Tracio ymlaen
+security-privacy-status-problem-label = Rydym wedi gweld gosodiadau sy'n effeithio ar eich diogelwch
+security-privacy-status-problem-helper-label = Gweld materion
+security-privacy-status-pending-trackers-label = Yn edrych i weld faint o dracwyr mae { -brand-short-name } wedi'u rhwystro dros y mis diwethaf
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [zero] { $trackerCount } tracwyr wedi'u rhwystro dros y mis diwethaf
+        [one] { $trackerCount } traciwr wedi'i rwystro dros y mis diwethaf
+        [two] { $trackerCount } draciwr wedi'u rhwystro dros y mis diwethaf
+        [few] { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
+        [many] { $trackerCount } thraciwr wedi'u rhwystro dros y mis diwethaf
+       *[other] { $trackerCount } traciwr wedi'u rhwystro dros y mis diwethaf
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Mae gennych <a data-l10n-name="strict-tracking-protection">diogelwch llym</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Mae gennych <a data-l10n-name="custom-tracking-protection">diogelwch cyfaddas</a>
+security-privacy-status-up-to-date-label = Mae gennych y fersiwn diweddaraf, mwyaf diogel o { -brand-short-name }
+security-privacy-status-update-needed-label = Mae fersiwn newydd o { -brand-short-name } ar gael.
+security-privacy-status-update-error-label = Mae { -brand-short-name } yn cael trafferth diweddaru ei hun
+security-privacy-status-update-checking-label = Mae { -brand-short-name } yn chwilio am ddiweddariadau
+security-privacy-status-update-needed-description = Diweddarwch ar gyfer y diweddariadau cyflymder, sefydlogrwydd a diogelwch diweddaraf.
+security-privacy-status-update-button-label =
+    .label = Diweddaru { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Tarian gydag ebychnod, yn mynegi pryder ynghylch eich rhybuddion diogelwch
+security-privacy-image-ok =
+    .alt = Tarian gyda marc tic, yn dangos nad oes gennych unrhyw faterion diogelwch heb eu datrys
+security-privacy-issue-card =
+    .heading = Rhybuddion diogelwch
+issue-card-reset-button =
+    .label = Ailosod
+issue-card-dismiss-button =
+    .tooltiptext = Cau
+    .aria-label = Cau
 
 ## Enhanced Tracking Protection (ETP) status section
 
