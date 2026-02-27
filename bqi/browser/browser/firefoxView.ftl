@@ -134,6 +134,8 @@ firefoxview-search-results-count =
 #   $query (String) - The search query.
 firefoxview-search-results-empty = نتیجه یل پیتینیڌن سی «{ $query }» نجۊرست
 firefoxview-sort-history-by-date-label = ترتیب و ری ویرگار
+firefoxview-sort-history-by-site-label = ترتیب و ری وبگه
+firefoxview-sort-open-tabs-by-recency-label = ترتیب و ری فعالیت دیندایی
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

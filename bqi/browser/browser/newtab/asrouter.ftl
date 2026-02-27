@@ -11,6 +11,12 @@ cfr-doorhanger-extension-heading = وردنی پؽشنهاڌ بیڌه
 
 cfr-doorhanger-extension-cancel-button = سکو ن
     .accesskey = N
+cfr-doorhanger-extension-ok-button = سکو بیار
+    .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = دؽوۉداری سامووا پؽشنهاڌی
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = ای پؽشنهاڌ ن دی و مو نشووݩ مڌه
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = قلوه دووسته بۊین
 # This string is used on a new line below the add-on name
 # Variables:
@@ -23,6 +29,12 @@ cfr-doorhanger-extension-notification = پؽشنهاڌ
 cfr-doorhanger-extension-notification2 = پؽشنهاڌ
     .tooltiptext = وردنی پؽشنهاڌی
     .a11y-announcement = وردنی پؽشنهاڌی من دسرس هڌ
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-feature-notification = پؽشنهاڌ
+    .tooltiptext = پؽشنهاڌ ویژیی
+    .a11y-announcement = پؽشنهاڌ ویژیی من  دسرس
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -47,6 +59,7 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = نشووکا خوتووݩ ن هر جا اخۊین هوم گوم کۊنین.
+cfr-doorhanger-bookmark-fxa-link-text = هیم سکو نشووکا ن هوم گوم کوݩ…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = دویمه بستن
     .title = بستن
@@ -76,6 +89,8 @@ cfr-doorhanger-milestone-close-button = بستن
 
 cfr-doorhanger-doh-primary-button-2 = خا
     .accesskey = O
+cfr-doorhanger-doh-secondary-button = ز کار وندن
+    .accesskey = D
 
 ## Full Video Support CFR message
 

@@ -471,8 +471,18 @@ newtab-widget-timer-menu-notifications = کۊر کردن وارسۊویا
 newtab-widget-timer-menu-notifications-on = رۊشن کردن وارسۊویا
 newtab-widget-timer-menu-hide = بؽڌار کردن زمووݩ سنج
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
+newtab-daily-briefing-card-menu-dismiss = رڌ کردن
 newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
 newtab-promo-card-dismiss-button =
+    .title = رڌ کردن
+    .aria-label = رڌ کردن
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن

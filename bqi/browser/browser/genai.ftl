@@ -89,8 +89,15 @@ genai-onboarding-lechat-learn = زبار Le Chat Mistral قلوه دووسته �
 genai-onboarding-select-primary = ناڌن پا گوفت ۉ لوفت
 genai-chatbot-contextual-button = ی چت بات پسند کۊنین
 
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-lechat-generate = وورکل هؽل وو کود
+
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = رئڌن وا پؽش
 genai-model-optin-optout =
     .label = لقو
 genai-model-optin-cancel =
