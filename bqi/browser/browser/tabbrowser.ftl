@@ -70,6 +70,13 @@ tabbrowser-confirm-close-windows-button =
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
 tabbrowser-confirm-close-tabs-with-key-title = بستن نیمدری وو و در زیڌن ز { -brand-short-name }؟
+tabbrowser-confirm-close-tabs-with-key-button = و در زیڌن ز { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = پۊرسیڌن پؽش ز و در زیڌن وا { $quitKey }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = قوۊل کردن پؽش ز و در زیڌن وا { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
