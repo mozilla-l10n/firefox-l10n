@@ -188,3 +188,4 @@ fp-neterror-cypher-overlap-why-dangerous-body = Amalisia ko tenda oiporu softwar
 fp-neterror-offline-what-can-you-do-body = Eñeha’ã eike ambue mba’e’okápe. Ehechajey ne módem térã router-pe. Esẽ ha upéi eikejey Wi-Fi rupive.
 fp-learn-more-about-https-connections = Eikuaave HTTPS-pe jeike rehegua
 fp-neterror-vpn-error-title = Ndaikatúi eike VPN-pe
+fp-neterror-vpn-error-description = Eha’ã jey ndahetái aravo’i rire.

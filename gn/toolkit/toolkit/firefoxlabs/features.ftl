@@ -59,3 +59,6 @@ experimental-features-newtab-widget-lists-and-timer =
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Ejeka he’iséva rembiasakue
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Jehai tendaykegua
