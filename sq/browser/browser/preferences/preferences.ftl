@@ -1512,6 +1512,8 @@ payments-delete-payment-prompt-confirm-button = Fshije
 payments-delete-payment-prompt-cancel-button = Anuloje
 payments-delete-payment-button-label =
     .aria-label = Fshije
+payments-edit-payment-button-label =
+    .aria-label = Përpunoni
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = S’u shtuan metoda pagesash
@@ -1585,6 +1587,8 @@ history-remember-label = { -brand-short-name }-i
     .accesskey = F
 history-remember-option-all =
     .label = Do ta mbajë mend historikun
+history-remember-option-custom2 =
+    .label = Përshtatni historikun
 history-remember-option-never =
     .label = S’do ta mbajë mend historikun
 history-remember-option-custom =
@@ -1627,8 +1631,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Spastroni Historikun…
     .accesskey = S
+history-header2 =
+    .heading = Historik
 history-group =
     .label = Historik
+history-remember-option-all2 =
+    .label = Mbaje mend historikun
 
 ## Privacy Section - Site Data
 
@@ -1695,6 +1703,9 @@ sitedata-cookies-exceptions2 =
     .label = Administroni përjashtime
     .accesskey = x
     .description = Mund të tregoni cilët sajte janë përherë, ose kurrë, të lejuar të përdorin “cookies” dhe të dhëna sajtesh.
+sitedata-heading =
+    .label = Të dhëna shfletimi
+    .description = Administroni cookie-t tuaja, historikun, fshehtinën, të dhëna sajtesh, etj.
 cookies-site-data-group =
     .label = “Cookies” dhe të Dhëna Sajtesh
 
@@ -2136,6 +2147,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Mënyra Vetëm-HTTPS
     .description = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -2195,9 +2208,62 @@ preferences-doh-exceptions-description = { -brand-short-name }-i s’do të për
 preferences-doh-manage-exceptions =
     .label = Administroni Përjashtime…
     .accesskey = A
+preferences-doh-advanced-button =
+    .label = Rregullime të mëtejshme
+preferences-doh-manage-exceptions2 =
+    .label = Administroni përjashtime
+    .accesskey = A
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Shkarkime
 choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Anuloje
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bllokoje
+
+## Privacy and security status card
+
+security-privacy-status-problem-helper-label = Shihni probleme
+security-privacy-issue-card =
+    .heading = Sinjalizime sigurie
+issue-card-reset-button =
+    .label = Riktheje te parazgjedhjet
+issue-card-dismiss-button =
+    .tooltiptext = Hidhe tej
+    .aria-label = Hidhe tej
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reset-standard-button =
+    .label = Riktheje te standarde
+preferences-etp-reset-strict-button =
+    .label = Riktheje te strikte
+preferences-etp-custom-control-group =
+    .label = Mbrojtje nga gjurmimet
+    .description = Zgjidhni cilat mbrojtje të aktivizohen apo të çaktivizohen.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Lejo krejt cookie-t
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Lëndë gjurmimi
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Lëndë gjurmimi
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Nxjerrës kriptomonedhash
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Krijues shenjash gishtash të ditur
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Krijues shenjash gishtash të dyshuar
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Krijues shenjash gishtash të dyshuar
