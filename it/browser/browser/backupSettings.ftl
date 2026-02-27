@@ -22,6 +22,9 @@ backup-folder-name = Ripristina { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Backup
+    .description = Proteggi automaticamente segnalibri, cronologia e altri dati. <a data-l10n-name="support-link">Ulteriori informazioni</a>
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Gestisci backup
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Backup: ATTIVO
 settings-data-backup-scheduled-backups-off = Backup: DISATTIVATO
 settings-data-backup-scheduled-backups-description = Proteggi automaticamente segnalibri, cronologia e altri dati. <a data-l10n-name="support-link">Ulteriori informazioni</a>
 settings-data-backup-last-backup-date = Ultimo backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Il backup è ATTIVO
+settings-data-backup-scheduled-backups-off2 =
+    .label = Il backup è DISATTIVATO
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Posizione del backup
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Posizione
 settings-data-backup-last-backup-location-show-in-folder = Mostra nella cartella
 settings-data-backup-last-backup-location-edit = Modifica…
 settings-data-create-backup-error = Si è verificato un errore durante la creazione del backup alle { DATETIME($date, timeStyle: "short") } del { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Salva password e metodi di pagamento e mantieni tutti i tuoi dati al sicuro grazie alla crittografia.
+settings-data-toggle-encryption-label2 =
+    .label = Salva i tuoi dati sensibili
+    .description = Salva password e metodi di pagamento e mantieni tutti i tuoi dati al sicuro grazie alla crittografia.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nome file: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Ripristina i tuoi dati
+    .description = Recupera i dati di { -brand-product-name } dall’ultimo backup.
+settings-data-backup-restore-scheduled-off =
+    .label = Ripristina i tuoi dati
+    .description = Utilizza un backup di { -brand-product-name } da un altro dispositivo per ripristinare i dati.
 settings-data-backup-restore-header = Ripristina i tuoi dati
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Scegli file di backu
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera i dati di { -brand-product-name } dall’ultimo backup.
 settings-data-backup-scheduled-backups-on-restore-choose = Ripristina…
+settings-sensitive-data =
+    .label = Dati sensibili
 settings-data-toggle-encryption-label = Salva i tuoi dati sensibili
 settings-data-toggle-encryption-support-link = Ulteriori informazioni
+settings-data-change-password2 =
+    .label = Cambia password
 settings-data-change-password = Cambia password…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
