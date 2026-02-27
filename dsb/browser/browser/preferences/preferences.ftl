@@ -1725,6 +1725,9 @@ sitedata-delete-on-close =
     .accesskey = s
 sitedata-delete-on-close-private-browsing3 =
     .message = Na zakłaźe wašych nastajenjow { -brand-short-name } cookieje a sedłowe daty z wašogo pósejźenja lašujo, gaž wobglědowak zacynjaśo.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historija njebuźo se składowaś
+    .message = { -brand-short-name } cookieje a sedłowe daty z wašogo pósejźenja lašujo, gaž wobglědowak zacynjaśo.
 sitedata-delete-on-close-private-browsing = W stawnem priwatnem modusu se cookieje a sedłowe daty pśecej wulašuju, gaž se { -brand-short-name } zacynja.
 sitedata-delete-on-close-private-browsing2 = Na zakłaźe wašych nastajenjow { -brand-short-name } cookieje a sedłowe daty z wašogo pósejźenja lašujo, gaž wobglědowak zacynjaśo.
 sitedata-allow-cookies-option =
@@ -1770,6 +1773,16 @@ sitedata-cookies-exceptions2 =
     .label = Wuwześa zastojaś
     .accesskey = u
     .description = Móžośo pódaś, kótare websedła směju pśecej cookieje a sedłowe daty wužywaś a kótare nic.
+sitedata-heading =
+    .label = Daty pśeglědowanja
+    .description = Zastojśo swóje cookieje, historiju, cache, daty websedłow a wěcej.
+sitedata-settings3 =
+    .label = Daty za wěste sedła lašowaś
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Wuwześa zastojaś
+    .accesskey = u
+    .description = Wubjeŕśo, kak wěste sedła maju z cookiejami a sedłowymi datami wobchadaś.
 cookies-site-data-group =
     .label = Cookieje a sedłowe daty
 
@@ -2036,6 +2049,15 @@ permissions-block-popups2 =
     .accesskey = u
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Dalejpósrědnjenja zastojaś
+    .accesskey = D
+    .searchkeywords = wuskokujuce wokna
+permissions-addon-install-warning3 =
+    .label = Warnowanje pokazaś, gaž sedła wopytuju rozšyrjenja instalěrowaś
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Wuskokujuce wokna a wuwześa dalejpósrědnjenjow tśeśich póbitowarjow zastojaś
     .accesskey = u
@@ -2081,6 +2103,9 @@ permissions-speaker2 =
     .label = Głosnik
 permissions-notification2 =
     .label = Powěźeńki
+permissions-header3 =
+    .label = Pšawa
+    .description = Zastojśo, k comuž websedła mógu pśistup měś, což mógu kontrolěrowaś abo wuwabiś.
 
 ## Privacy Section - Data Collection
 
@@ -2191,6 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } njama wěcej dos�
 certs-description2 =
     .label = Certifikaty
     .description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } za awtentifikaciju wužywa.
+certs-description3 =
+    .label = Certifikaty
+    .description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } wužywa, aby wěste zwiski pśekontrolěrował.
+certs-view2 =
+    .label = Certifikaty zastojaś
+    .accesskey = C
+certs-devices2 =
+    .label = Wěstotne rědy zastojaś
+    .accesskey = t
 
 ## Privacy Section - HTTPS-Only
 
