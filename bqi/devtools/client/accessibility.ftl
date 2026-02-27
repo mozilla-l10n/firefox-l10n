@@ -8,6 +8,11 @@
 accessibility-learn-more = قلوه دووسته بۊین
 accessibility-keyboard-header = تخته کیلیت
 
+## These strings are used in the overlay displayed when running an audit in the accessibility panel
+
+accessibility-progress-finishing = هونی ٱنجوم ابۊ…
+    .aria-valuetext = هونی ٱنجوم ابۊ…
+
 ## Text entries that are used as text alternative for icons that depict accessibility issues.
 
 accessibility-warning =
