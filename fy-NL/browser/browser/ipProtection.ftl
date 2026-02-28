@@ -100,9 +100,28 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizz
 ipprotection-bandwidth-upgrade-title = Befalt ynboude VPN jo? Untfang noch mear beskerming bûten { -brand-product-name } mei { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Kies in VPN-lokaasje en foegje beskerming ta oan al jo apps op maksimaal 5 apparaten, oft jo no thús binne of op iepenbiere wifi.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Jo naderje jo VPN-limyt.</strong> Jo hawwe noch { $usageLeft } GB oer. Jo gegevens wurde begjin folgjende moanne opnij ynsteld.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Jo hawwe hast gjin VPN-gegevens mear.</strong> Jo hawwe noch { $usageLeft } GB oer. As alles brûkt is, wurdt jo VPN pauzearre oant jo gegevens opnij ynsteld wurde op de earste dei fan de folgjende moanne.
+
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Ynboude VPN om jo privacy te ferbetterjen wylst jo mei { -brand-short-name } sneupe.
 ip-protection-learn-more = Mear ynfo
+ip-protection-site-exceptions =
+    .label = Websitespesifike ynstellingen
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Probearje de ynboude VPN fan { -brand-short-name }
+    .message = Ferstopje jo lokaasje en foegje ekstra fersifering ta oan jo navigaasje yn { -brand-short-name }. Untfang elke moanne { $maxUsage } GB fergees VPN-gegevens.
 ip-protection-not-opted-in-button = Begjinne
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -119,11 +138,15 @@ ip-protection-autostart-checkbox =
     .label = As ik { -brand-short-name } iepenje
 ip-protection-autostart-private-checkbox =
     .label = Yn priveefinsters
+ip-protection-vpn-upgrade-link =
+    .label = Untfang noch mear beskerming bûten { -brand-short-name } mei { -mozilla-vpn-brand-name }
+    .description = Kies oanpaste VPN-lokaasjes en foegje beskerming ta oan al jo apps op maksimaal fiif apparaten, oft jo no thús binne of iepenbiere wifi brûke.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Website-ynstellingen beheare
+ip-protection-exclusions-desc = VPN foar alle websites brûke, útsein websites yn dizze list. Foegje hjir in website ta of troch VPN te iepenjen.
 
 ## IP Protection Bandwidth
 
@@ -147,14 +170,25 @@ ip-protection-bandwidth-left-mb = { $usageLeft } MB fan { $maxUsage } GB restear
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. De tagong wurdt folgjende moanne opnij ynsteld.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Wurdt opnij ynsteld nei { $maxUsage } GB op de earste fan elke moanne.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB oan VPN, fernijd en klear foar gebrûk
+ipprotection-bandwidth-reset-text = Skeakelje VPN yn foar in ekstra privacyboost, elke moanne fergees.
 ipprotection-bandwidth-reset-button = Begrepen
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN pauzearre
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. VPN-tagong wurdt folgjende moanne opnij ynsteld.
 vpn-paused-alert-close-tabs-button = Alle ljepblêden slute
 vpn-paused-alert-continue-wo-vpn-button = Trochgean sûnder VPN
 vpn-error-alert-title = VPN wurket op dit stuit net.
+vpn-error-alert-body = Probearje it letter opnij.

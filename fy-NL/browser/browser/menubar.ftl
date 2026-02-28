@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Foarkarren
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Ynstellingen…
 menu-application-services =
     .label = Tsjinsten
 menu-application-hide-this =
