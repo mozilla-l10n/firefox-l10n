@@ -798,11 +798,20 @@ network-proxy-connection-learn-more = Mear ynfo
 network-proxy-connection-settings =
     .label = Ynstellingen…
     .accesskey = Y
+network-proxy-group2 =
+    .label = Proxyynstellingen
+    .description = Konfigurearje hoe’t { -brand-short-name } ferbynt mei it ynternet.
+network-proxy-connection-settings2 =
+    .label = Proxy konfigurearje
+    .description = Wizigjen fan dizze ynstellingen kin ferbiningsproblemen feroarsaakje
+    .accesskey = P
 
 ## Home Section
 
 home-new-windows-tabs-header = Nije finsters en ljepblêden
 home-new-windows-tabs-description2 = Kies wat jo sjogge as jo jo startside, nije finsters en nije ljepblêden iepenje.
+home-section =
+    .heading = Startside en opstarte
 
 ## Home Section - Default Browser
 
@@ -1063,6 +1072,14 @@ search-one-click-header-3 =
     .description = Kies hokker sykmasinen en fluchkeppelingen yn jo adresbalke ferskine.
 update-search-engine-success =
     .message = Sykmasine mei sukses bywurke
+search-edit-engine-2 =
+    .title = Sykmasine bewurkje
+search-delete-engine =
+    .title = Sykmasine fuortsmite
+search-enable-engine =
+    .title = Sykmasine ynskeakelje
+search-outlink-to-extensions-page =
+    .title = Yn útwreidingen en tema’s beheare
 search-choose-engine-column =
     .label = Sykmasine
 search-choose-keyword-column =
@@ -1614,6 +1631,11 @@ history-remember-label = { -brand-short-name } sil
     .accesskey = s
 history-remember-option-all =
     .label = Skiednis ûnthâlde
+history-remember-option-never2 =
+    .label = Nea skiednis ûnthâlde
+    .description = Elk finster wurdt beskôge as in priveefinster. Wannear ynskeakele, moatte útwreidingen tastien wurde.
+history-remember-option-custom2 =
+    .label = Skiednis oanpasse
 history-remember-option-never =
     .label = Nea skiednis ûnthâlde
 history-remember-option-custom =
@@ -2294,3 +2316,39 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulearje
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokkearje
+
+## Privacy and security status card
+
+security-privacy-status-problem-label = Wy hawwe ynstellingen fûn dy’t jo beskerming beynfloedzje
+security-privacy-status-problem-helper-label = Problemen besjen
+security-privacy-status-pending-trackers-label = Opsykje hoefolle trackers { -brand-short-name } de lêste moanne blokkearre hat
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } tracker blokkearre yn de lêste moanne
+       *[other] { $trackerCount } trackers blokkearre yn de lêste moanne
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Jo hawwe <a data-l10n-name="strict-tracking-protection">strange beskerming</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Jo hawwe <a data-l10n-name="custom-tracking-protection">oanpaste beskerming</a>
+security-privacy-status-up-to-date-label = Jo hawwe de nijste, feilichste ferzje fan { -brand-short-name }
+security-privacy-status-update-needed-label = Der is in nije ferzje fan { -brand-short-name } beskikber.
+security-privacy-status-update-error-label = { -brand-short-name } hat problemen mei it bywurkjen fan himsels
+security-privacy-status-update-checking-label = { -brand-short-name } kontrolearret op fernijingen
+security-privacy-status-update-needed-description = Wurkje by foar de nijste snelheids-, stabiliteits- en befeiligingsfernijingen.
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } bywurkje
+security-privacy-image-warning =
+    .alt = In skyld mei in útropteken, dat soargen útdrukt oer jo befeiligingswarskôgingen
+security-privacy-image-ok =
+    .alt = In skyld mei in finkje, dat oanjout dat jo gjin útsteande befeiligingsproblemen hawwe
+security-privacy-issue-card =
+    .heading = Befeiligingswarskôgingen
+issue-card-reset-button =
+    .label = Opnij inisjalisearje
+issue-card-dismiss-button =
+    .tooltiptext = Slute
+    .aria-label = Slute
