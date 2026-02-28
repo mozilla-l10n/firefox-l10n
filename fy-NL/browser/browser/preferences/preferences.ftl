@@ -1678,6 +1678,11 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Skiednis wiskje…
     .accesskey = s
+history-header2 =
+    .heading = Skiednis
+history-section-header =
+    .label = Skiednis
+    .description = Kies wat jo { -brand-short-name } ûnthâlde litte wolle as jo de browser ôfslute.
 history-group =
     .label = Skiednis
 
