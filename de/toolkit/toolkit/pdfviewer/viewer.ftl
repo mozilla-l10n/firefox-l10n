@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniaturansicht von Seite { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Seite { $page } auswählen
 
 ## Find panel button title and messages
 
@@ -648,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Sidebar umschalten
 pdfjs-views-manager-sidebar =
     .aria-label = Sidebar
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Größenanpassung der Sidebar
 pdfjs-views-manager-view-selector-button =
     .title = Ansichten
 pdfjs-views-manager-view-selector-button-label = Ansichten

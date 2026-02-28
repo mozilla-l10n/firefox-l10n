@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Versuchen Sie, die URL auf
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Manchmal schützen Websites sich selbst vor unerwünschten Interaktionen mit anderen Websites.
 fp-learn-more-about-https-connections = Mehr über HTTPS-Verbindungen erfahren
+fp-neterror-vpn-error-title = Verbindung mit VPN fehlgeschlagen
+fp-neterror-vpn-error-description = Versuchen Sie es in ein paar Minuten erneut.
