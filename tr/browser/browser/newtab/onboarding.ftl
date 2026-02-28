@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Yedekten geri yükle
 restore-from-backup-title = { -brand-short-name } tarayıcısını sevdiğiniz eski haline döndürelim
 restore-from-backup-subtitle = Yer imlerinizi, geçmişinizi ve diğer verilerinizi geri yükleyerek gezinmeye kaldığınız yerden devam edin.
 restore-from-backup-secondary-button = Geri yükleme yapma
+multiple-backups-info-tile = <strong>Birden fazla yedek dosyası bulundu.</strong> En son dosya seçildi. <a data-l10n-name="settings-label">Ayarlar</a>’dan diğer profilleri geri yükleyebilirsiniz.
 
 ## Restored from Backup spotlight
 

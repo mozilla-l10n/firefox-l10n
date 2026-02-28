@@ -92,7 +92,13 @@ ipprotection-message-bandwidth-warning =
     .message = Jo hawwe noch { $usageLeft } GB fan { $maxUsage } GB oer dizze moanne
 ipprotection-message-continuous-onboarding-intro = Skeakelje VPN yn om jo lokaasje te ferstopjen en ekstra fersifering oan jo navigaasje ta te foegjen.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN yn om</a> hieltyd as jo { -brand-short-name } iepenje yn te skeakeljen foar in ekstra beskermingslaach.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ûnthâldt hokker websites jo ynsteld hawwe foar it gebrûk fan VPN. Wurkje dizze op elk winske momint by yn de <a data-l10n-name="setting-link">ynstellingen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizze website
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Befalt ynboude VPN jo? Untfang noch mear beskerming bûten { -brand-product-name } mei { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Kies in VPN-lokaasje en foegje beskerming ta oan al jo apps op maksimaal 5 apparaten, oft jo no thús binne of op iepenbiere wifi.
 
 ## IP Protection Settings
 

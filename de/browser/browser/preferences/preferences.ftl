@@ -2035,6 +2035,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
+    .accesskey = P
+    .searchkeywords = Popups, Pop-ups
+permissions-addon-install-warning3 =
+    .label = Warnen, wenn Websites versuchen, Erweiterungen zu installieren
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
     .accesskey = P
@@ -2431,6 +2440,8 @@ security-privacy-status-trackers-label =
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Sie haben <a data-l10n-name="strict-tracking-protection">Strengen Schutz</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Sie haben einen <a data-l10n-name="custom-tracking-protection">benutzerdefinierten Schutz</a>
 security-privacy-status-up-to-date-label = Sie haben die neueste und sicherste Version von { -brand-short-name }
 security-privacy-status-update-needed-label = Eine neue Version von { -brand-short-name } ist verfügbar.
 security-privacy-status-update-error-label = { -brand-short-name } hat Probleme bei der Aktualisierung

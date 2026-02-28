@@ -80,3 +80,4 @@ experimental-features-semantic-history-search-description = Doğal dil anlamaya 
 # Tab Notes
 experimental-features-tab-notes =
     .label = Sekme notları
+experimental-features-tab-notes-description = Sekme notları, tarayıcı sekmelerinize yapışkan notlar eklemenizi sağlayan deneysel bir özelliktir. O sekmeyi neden açtığınızı sonradan hatırlamak için bağlamı, anımsatıcıları ve yapacağınız işleri not alabilirsiniz. Bu özelliği geliştirmeye devam ederken görüşlerinizi de öğrenmek istiyoruz. <a data-l10n-name="connect">Görüş bildirin</a>

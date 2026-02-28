@@ -77,4 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Houd uw to-dol
 experimental-features-semantic-history-search =
     .label = Geschiedenis semantisch doorzoeken
 experimental-features-semantic-history-search-description = Een lokaal Machine Learning-model gebruiken om items uit de geschiedenis die gerelateerd zijn aan uw zoekopdrachten voor te stellen op basis van begrip van natuurlijke taal in de { -brand-product-name }-adresbalk. <a data-l10n-name="connect">Feedback delen</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Tabbladnotities
 experimental-features-tab-notes-description = Tabbladnotities zijn een experimentele functie waarmee u plakbriefjes aan uw browsertabbladen kunt toevoegen. Noteer context, herinneringen of volgende stappen, zodat u kunt terugkomen en zich kunt herinneren waarom u de pagina hebt geopend. We horen graag uw feedback terwijl we deze functie blijven verbeteren. <a data-l10n-name="connect">Feedback delen</a>

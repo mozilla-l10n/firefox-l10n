@@ -1680,6 +1680,9 @@ sitedata-total-size2 = Depolanmış çerezleriniz, geçmişiniz, site verilerini
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Depolanmış site verileriniz ve önbelleğiniz şu anda { $value } { $unit } disk alanı kullanıyor.
 sitedata-learn-more = Daha fazla bilgi al
+sitedata-delete-on-close2 =
+    .label = { -brand-short-name } tarayıcısını her kapattığımda çerezleri ve site verilerini temizle
+    .accesskey = c
 sitedata-delete-on-close =
     .label = { -brand-short-name } kapatıldığında çerezleri ve site verilerini sil
     .accesskey = k
@@ -1994,6 +1997,9 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Açılır pencereleri ve üçüncü taraf yönlendirmelerini engelle
     .accesskey = A
+permissions-addon-install-warning3 =
+    .label = Siteler uzantı yüklemeye çalıştığında uyarı göster
+    .accesskey = S
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -2151,6 +2157,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulll
 certs-description2 =
     .label = Sertifikalar
     .description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
+certs-view2 =
+    .label = Sertifikaları yönet
+    .accesskey = e
+certs-devices2 =
+    .label = Güvenlik aygıtlarını yönet
+    .accesskey = G
 
 ## Privacy Section - HTTPS-Only
 
@@ -2237,6 +2249,9 @@ preferences-doh-manage-exceptions =
     .accesskey = s
 preferences-doh-advanced-button =
     .label = Gelişmiş ayarlar
+preferences-doh-manage-exceptions2 =
+    .label = İstisnaları yönet
+    .accesskey = ö
 preferences-doh-status-item-off =
     .message = HTTPS üzerinden DNS kapalı
 # Variables:
@@ -2333,6 +2348,9 @@ security-privacy-status-trackers-label =
         [one] Geçen ay { $trackerCount } takip kodu engellendi
        *[other] Geçen ay { $trackerCount } takip kodu engellendi
     }
+security-privacy-status-up-to-date-label = { -brand-short-name } tarayıcısının en yeni ve en güvenli sürümünü kullanıyorsunuz
+security-privacy-status-update-needed-label = Yeni bir { -brand-short-name } sürümü çıktı.
+security-privacy-status-update-error-label = { -brand-short-name } kendi kendini güncelleyemedi
 security-privacy-status-update-checking-label = { -brand-short-name } güncellemeleri denetliyor
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } tarayıcısını güncelle
