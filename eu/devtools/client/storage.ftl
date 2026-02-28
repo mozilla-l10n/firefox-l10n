@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Gehitu elementua
+storage-delete-all-button =
+    .title = Ezabatu denak
 # Refresh button title
 storage-refresh-button =
     .title = Berritu elementuak

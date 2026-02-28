@@ -28,3 +28,13 @@ recently-closed-undo-close-window-label =
         [one] { $winTitle } (eta beste fitxa bat)
        *[other] { $winTitle } (eta beste { $tabCount } fitxa)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } (fitxa { $tabCount }, ixte-data: { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } fitxa, ixte-data: { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }

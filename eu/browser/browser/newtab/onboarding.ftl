@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Berreskuratu babeskopiatik
 restore-from-backup-title = Presta dezagun { -brand-short-name } zuri gustatzen zaigun modura
 restore-from-backup-subtitle = Berreskuratu zure laster-markak, historia eta bestelako datu guztiak nabigatzera itzul zaitezen.
 restore-from-backup-secondary-button = Ez berreskuratu
+multiple-backups-info-tile = <strong>Hainbat fitxategi aurkitu dira.</strong> Fitxategi berriena hautatu da. Berrezarri beste profilak <a data-l10n-name="settings-label">ezarpenetan.</a>
 
 ## Restored from Backup spotlight
 
