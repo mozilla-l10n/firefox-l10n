@@ -125,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Disattiva ed elimina i backup
 restore-from-backup-header = Ripristina i tuoi dati
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Che cosa verrà ripristinato?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Questo sostituirà tutti i dati correnti di { -brand-short-name } con il backup di { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -142,6 +145,13 @@ restore-from-backup-password-description = Questo sblocca il backup crittato.
 restore-from-backup-cancel-button = Annulla
 restore-from-backup-confirm-button = Ripristina e riavvia
 restore-from-backup-restoring-button = Ripristino in corso…
+restore-from-backup-type-group-label =
+    .label = Sostituire il profilo corrente?
+restore-from-backup-type-replace =
+    .label = Sostituisci tutti i dati con questo backup
+restore-from-backup-type-add =
+    .label = Conserva i dati e crea un nuovo profilo
+restore-from-backup-profiles-disabled-message = Questo sostituirà tutti i dati correnti di { -brand-short-name } con il backup.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -267,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Nota:</b> è stato trovato un altro file di backup
        *[other] <b>Nota:</b> sono stati trovati altri { $numberOfOtherBackupsFound } file di backup
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } creato il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Ripristinato da { $deviceName } il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } alle { DATETIME($date, hour: "2-digit", minute: " 2 cifre") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

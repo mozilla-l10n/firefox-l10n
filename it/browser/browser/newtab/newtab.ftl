@@ -689,6 +689,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizza widget
     .aria-label = Comprimi tutti i widget alle dimensione più compatta
+newtab-widget-section-feedback = Dicci cosa ne pensi
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -720,6 +721,10 @@ newtab-daily-briefing-card-timestamp = Aggiornato { $minutes }m fa
 newtab-widget-message-title = Mantieni la concentrazione utilizzando le liste e il timer integrato
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Da promemoria veloci a liste di attività quotidiane, da sessioni di concentrazione a pause per rilassarsi: mantieni l’attenzione e rispetta i tempi.
+newtab-promo-card-title-addons = Semplici estensioni, grande impatto
+# “starter pack” means a curated set of recommended browser extensions to help users get started
+newtab-promo-card-body-addons = Prova lo starter pack con le estensioni curate dallo staff di { -brand-product-name }.
+newtab-promo-card-cta-addons = Scopri le nostre scelte
 newtab-promo-card-title = Sostieni { -brand-product-name }
 newtab-promo-card-body = Gli sponsor sostengono la nostra missione di costruire un Web migliore
 newtab-promo-card-cta = Ulteriori informazioni
