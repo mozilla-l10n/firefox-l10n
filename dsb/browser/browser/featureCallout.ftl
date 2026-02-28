@@ -166,7 +166,7 @@ sidebar-deprecation-cta-button = Wopytajśo něnto
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-title = Z pśewjele rejtarikami zasypany?
-vertical-tabs-callout-1-subtitle = Wopytajśo našo wugótowanje wertikalnych rejtarikow, aby swóju lisćinu rejtarikow malsnje scannował. Jěsne testarje rozpšawjaju, až se lěpjej organizěrowane cuju. Móžośo kuždy cas pśeměniś.
+vertical-tabs-callout-1-subtitle = Wopytajśo našo wugótowanje wertikalnych rejtarikow, aby swóju lisćinu rejtarikow malsnje scannował. Jěsne testarje rozpšawjaju, až se wěcej organizěrowane cuju. Móžośo kuždy cas pśeměniś.
 vertical-tabs-callout-1-cta-button = Wopytajśo wertikalne rejtariki
 vertical-tabs-callout-2-cta-button = Něnto wopytaś
 vertical-tabs-callout-2-title = Maśo wjele rejtarikow wócynjone? Wopytajśo wertikalne rejtariki.

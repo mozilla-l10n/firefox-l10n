@@ -52,7 +52,7 @@ experimental-features-link-previews-description-no-ai =
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
     .label = Temowe wótrězki a Slědowaś/Blokěrowaś za tšojeńka boka Nowy rejtarik
-experimental-features-newtab-sections-follow-block-description = Organizěrujśo tšojeńka na wašom boku Nowy rejtarik w temowych wótrězkach (sport, caroba, rozwjaselenje a wěcej) za lěpjej strukturěrowane dožywjenje, kótarež dajo se lažko scannowaś. Wužywajśo našej wóźeńskej elementa Slědowaś a Blokěrowaś, aby pśiměrił, kótare wopśimjeśe wiźiśo. <a data-l10n-name="connect">Měnjenje źěliś</a>
+experimental-features-newtab-sections-follow-block-description = Organizěrujśo tšojeńka na wašom boku Nowy rejtarik w temowych wótrězkach (sport, caroba, rozwjaselenje a wěcej) za wěcej strukturěrowane dožywjenje, kótarež dajo se lažko scannowaś. Wužywajśo našej wóźeńskej elementa Slědowaś a Blokěrowaś, aby pśiměrił, kótare wopśimjeśe wiźiśo. <a data-l10n-name="connect">Měnjenje źěliś</a>
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Nadawkowej rědce sedła pśidaś
