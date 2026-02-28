@@ -2352,3 +2352,28 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Slute
     .aria-label = Slute
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Ferbettere beskerming tsjin folgjen
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
+preferences-etp-level-standard =
+    .label = Standert (standert)
+    .description = Sterke, betroubere beskerming dy’t soepel wurket mei de measte websites.
+preferences-etp-level-strict =
+    .label = Strang
+    .description = Sterkere beskerming dy’t mear trackers blokkearret, mar kin derfoar soargje dat guon websites net wurkje.
+preferences-etp-level-custom =
+    .label = Oanpast
+    .description = Kies hokker beskermingsmaatregelen jo yn of út skeakelje wolle.
+preferences-etp-status-advanced-button =
+    .label = Avansearre ynstellingen
+preferences-etp-status-protections-dashboard-link =
+    .label = Jo personalisearre beskermingsdashboerd besjen
+    .description = Besjoch hoefolle stikeme trackers { -brand-short-name } foar jo blokkearre hat, wêrûnder sosjalemediatrackers, fingerprinters en cryptominers.
+preferences-etp-header =
+    .heading = Ferbettere beskerming tsjin folgjen
+preferences-etp-advanced-settings-group =
+    .label = Avansearre ynstellingen
+    .description = Websites brûke trackers om jo online te folgjen en aaklike advertinsjes te toanen. { -brand-short-name } skermet jo ôf wylst it sneupen, wêrby trackers automatysk blokkearre wurde, sadat jo de kontrôle hawwe oer jo digitale spoar.
