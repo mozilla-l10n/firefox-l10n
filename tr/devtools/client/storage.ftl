@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Öğe ekle
+storage-delete-all-button =
+    .title = Hepsini sil
 # Refresh button title
 storage-refresh-button =
     .title = Öğeleri tazele

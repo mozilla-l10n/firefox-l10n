@@ -77,3 +77,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Yapılacaklar 
 experimental-features-semantic-history-search =
     .label = Semantik geçmiş araması
 experimental-features-semantic-history-search-description = Doğal dil anlamaya dayalı yerel bir makine öğrenimi modeli kullanılarak, { -brand-product-name } adres çubuğunda geçmişe dayalı arama önerileri gösterilir. <a data-l10n-name="connect">Görüş bildirin</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Sekme notları

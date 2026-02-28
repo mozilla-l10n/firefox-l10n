@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Adresi HTTPS olarak deği�
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Bazen web siteleri, kendilerinin başka sitelerle istenmeyen etkileşimlere girmesini önleyen korumalar kurar.
 fp-learn-more-about-https-connections = HTTPS bağlantıları hakkında bilgi alın
+fp-neterror-vpn-error-title = VPN’e bağlanılamadı
+fp-neterror-vpn-error-description = Birkaç dakika sonra yeniden deneyin.

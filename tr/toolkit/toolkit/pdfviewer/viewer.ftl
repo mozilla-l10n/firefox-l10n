@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = { $page }. sayfanın küçük hâli
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = { $page }. sayfayı seç
 
 ## Find panel button title and messages
 
@@ -648,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Kenar çubuğunu aç/kapat
 pdfjs-views-manager-sidebar =
     .aria-label = Kenar çubuğu
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Kenar çubuğu boyutlandırıcı
 pdfjs-views-manager-view-selector-button =
     .title = Görünümler
 pdfjs-views-manager-view-selector-button-label = Görünümler
@@ -706,6 +712,7 @@ pdfjs-views-manager-status-undo-button-label = Geri al
 pdfjs-views-manager-status-close-button =
     .title = Kapat
 pdfjs-views-manager-status-close-button-label = Kapat
+pdfjs-views-manager-paste-button-label = Yapıştır
 
 ## Main menu for adding/removing signatures
 

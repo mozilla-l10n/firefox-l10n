@@ -2243,6 +2243,14 @@ preferences-doh-status-item-off =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = HTTPS üzerinden DNS özelliği { $name } sağlayıcısını kullanıyor
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = HTTPS üzerinden DNS özelliği yerel { $name } sağlayıcısını kullanıyor
+preferences-doh-select-resolver-label =
+    .label = Sağlayıcıyı seçin:
+preferences-doh-header2 =
+    .heading = HTTPS üzerinden DNS
 
 ## The following strings are used in the Download section of settings
 
@@ -2308,3 +2316,65 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Vazgeç
 preferences-ai-controls-block-confirmation-confirm =
     .label = Engelle
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } sizi koruyor
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } bazı güvenlik iyileştirmeleri öneriyor
+security-privacy-status-ok-label = Gelişmiş izlenme koruması açık
+security-privacy-status-problem-label = Korumanızı etkileyen ayarlar bulduk
+security-privacy-status-problem-helper-label = Sorunları göster
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] Geçen ay { $trackerCount } takip kodu engellendi
+       *[other] Geçen ay { $trackerCount } takip kodu engellendi
+    }
+security-privacy-status-update-checking-label = { -brand-short-name } güncellemeleri denetliyor
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } tarayıcısını güncelle
+security-privacy-issue-card =
+    .heading = Güvenlik uyarıları
+issue-card-reset-button =
+    .label = Sıfırla
+issue-card-dismiss-button =
+    .tooltiptext = Kapat
+    .aria-label = Kapat
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Gelişmiş ayarlar
+preferences-etp-header =
+    .heading = Gelişmiş izlenme koruması
+preferences-etp-customize-button =
+    .label = İzlenme korumasını özelleştir
+preferences-etp-reload-tabs-hint =
+    .message = Bu değişiklikleri uygulamak için sekmelerinizi tazeleyin.
+preferences-etp-reload-tabs-hint-button =
+    .label = Tüm sekmeleri tazele
+preferences-etp-rfp-warning-message =
+    .message = Resist Fingerprinting (RFP) özelliğini kullanıyorsunuz. { -brand-short-name } tarayıcısının bazı parmak izi koruma ayarlarını değiştiren bu özellik bazı sitelerin bozulmasına yol açabilir.
+preferences-etp-customize-header =
+    .heading = İzlenme korumasını özelleştir
+preferences-etp-custom-cookies-enabled =
+    .label = Çerezler
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Çerezler
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Tüm çerezlere izin ver
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Takip amaçlı içerikler
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Takip amaçlı içerikler
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kripto madencileri
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Bilinen parmak izi toplayıcılar
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Şüpheli parmak izi toplayıcılar
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Şüpheli parmak izi toplayıcılar
