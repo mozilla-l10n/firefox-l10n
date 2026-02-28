@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferencias de privacidad del sitio web
+do-not-track-removal3 =
+    .message = Ya no soportamos la función “No rastrear”.
+non-technical-privacy-heading =
+    .label = Protecciones adicionales
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +528,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Use la configuración de su sistema operativo para "{ $localeName }" para formatear fechas, horas, números y medidas.
+settings-spellcheck-header =
+    .label = Corrección ortográfica
 check-user-spelling =
     .label = Verificar ortografía al escribir
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Descargar diccionarios
 
 ## General Section - Files and Applications
 
@@ -1049,6 +1057,14 @@ search-one-click-header-3 =
     .description = Seleccionar que buscadores y accesos directos aparecerán en la barra de direcciones.
 update-search-engine-success =
     .message = Buscador actualizado exitosamente
+search-edit-engine-2 =
+    .title = Editar buscador
+search-delete-engine =
+    .title = Eliminar buscador
+search-enable-engine =
+    .title = Habilitar buscador
+search-outlink-to-extensions-page =
+    .title = Administrar en extensiones y temas
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
@@ -1600,6 +1616,8 @@ history-remember-label = { -brand-short-name } podrá
     .accesskey = o
 history-remember-option-all =
     .label = Recordar el historial
+history-remember-option-custom2 =
+    .label = Personalizar historial
 history-remember-option-never =
     .label = Nunca recordar el historial
 history-remember-option-custom =
@@ -1642,6 +1660,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpiar historial…
     .accesskey = s
+history-header2 =
+    .heading = Historial
 history-group =
     .label = Historial
 
