@@ -733,5 +733,16 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = Slute
     .aria-label = Slute
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Dizze romte oan jo winsken oanpasse
+newtab-activation-window-message-customization-focus-message = Kies in nije eftergrûn, foegje fluchkeppelingen nei jo favorite websites ta en bliuw op de hichte fan ferhalen dy’t jo ynteressearje.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Begjinne mei oanpassen
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Dizze romte spilet neffens jo regels
+newtab-activation-window-message-values-focus-message = Mei { -brand-product-name } kinne jo sneupe lykas jo dat wolle, mei in mear persoanlike manier om jo dei online te begjinnen. Meitsje { -brand-product-name } jo eigen.

@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Weromsette fan reservekopy út
 restore-from-backup-title = Litte wy { -brand-short-name } weromkrije sa as jo it wolle
 restore-from-backup-subtitle = Werstel al jo blêdwizers, skiednis en oare gegevens om werom te kearen nei sneupen.
 restore-from-backup-secondary-button = Net weromsette
+multiple-backups-info-tile = <strong>Meardere reservekopybestannen fûn.</strong> It meast resinte bestân is selektearre. Werstel oare profilen yn <a data-l10n-name="settings-label">Ynstellingen.</a>
 
 ## Restored from Backup spotlight
 
@@ -573,5 +574,17 @@ onboarding-personalization-motivation-other-option = Oars
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Wy beskermje jo gegevens en blokkearje bedriuwen dy’t jo klikken bespionearje – automatysk.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Jo binne yn feilige poaten
+onboarding-refresh-import-subtitle = Bring jo wachtwurden, blêdwizers, skiednis en mear oer.
+onboarding-refresh-import-title = Lit { -brand-short-name } mear as thús fiele.
+onboarding-refresh-onboarding-addons-subtitle = Utwreidingen binne lytse apps wêrmei’t jo { -brand-short-name } oanpasse kinne. Se kinne jo privacy ferbetterje, produktiviteit ferbetterje, it uterlik fan { -brand-short-name } wizigje, en noch folle mear.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Jou jo navigaasje in boost
+onboarding-refresh-sync-subtitle = Download blêdwizers, wachtwurden en mear, oeral wêr’t jo oanmeld binne by { -brand-short-name }. Plus, jo gegevens binne fersifere, sadat allinnich jo se sjen kinne.
+onboarding-refresh-sync-title = Gean oeral hinne. Syngronisearje alles.
+onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-name }, de iennige browser dy’t stipe wurdt troch in non-profitorganisaasje. Mei jo stipe wurkje wy om it ynternet  foar elkenien feiliger en mear tagonklik te meitsjen.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is der foar jo

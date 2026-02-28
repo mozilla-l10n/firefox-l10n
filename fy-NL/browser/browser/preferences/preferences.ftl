@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Websiteprivacyfoarkarren
+do-not-track-removal3 =
+    .message = Wy stypje de funksje ‘Net folgje’ net mear.
+non-technical-privacy-heading =
+    .label = Oanfoljende beskermingen
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name }-e-mailmaskers foarstelle
+    .description = Ferstoppet jo echte e-mailadres om jo Postfek YN te beskermjen tsjin spam.
 non-technical-privacy-header = Websiteprivacyfoarkarren
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = De ynstellingen foar ‘{ $localeName }’ fan jo bestjoeringssysteem brûke om data, tiden, getallen en mjittingen op te meitsjen.
+settings-spellcheck-header =
+    .label = Staveringshifker
 check-user-spelling =
     .label = Kontrolearje jo stavering as jo type
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Wurdboeken downloade
+spellcheck-promo =
+    .heading = Staveringshifker brûke
+    .message = Klik mei jo rjochtermûsknop op in tekstfjild om staveringshifkjen yn of út te skeakeljen of om de taal te wizigjen. Net alle fjilden stypje staveringhifkjen.
 
 ## General Section - Files and Applications
 
