@@ -5,7 +5,7 @@
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
-    .label = Medios: JPEG XL
+    .label = Media: JPEG XL
 experimental-features-media-jxl-description = eCon esta función activada, { -brand-short-name } admite el formato JPEG (JXL). Este es un formato mejorado de archivo de imagen que permite la transición desde archivos JPEG tradicionales sin pérdidas. Para más detalles, consulte <a data-l10n-name="bugzilla">bug 1539075</a>.
 # JS JIT Warp project
 experimental-features-js-warp =
