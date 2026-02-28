@@ -198,3 +198,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Saiatu URLa HTTPSra aldatz
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Batzuetan beraientzat babesak ezartzen dituzte webguneek, beste guneekin nahi ez diren interakzioetatik kanpo mantentzeko.
 fp-learn-more-about-https-connections = HTTPS konexioei buruzko argibide gehiago
+fp-neterror-vpn-error-title = Ezin da VPNra konektatu
+fp-neterror-vpn-error-description = Saiatu berriro minutu batzuk barru.
