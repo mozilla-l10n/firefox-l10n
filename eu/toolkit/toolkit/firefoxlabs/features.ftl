@@ -80,3 +80,4 @@ experimental-features-semantic-history-search-description = Erabili ikasketa aut
 # Tab Notes
 experimental-features-tab-notes =
     .label = Fitxa-oharrak
+experimental-features-tab-notes-description = Fitxa-oharrak eginbide esperimentala da, zure nabigatzaileko fitxei oharrak itsasten uzten dizuna. Apuntatu testuingurua, oroigarriak edo egin beharreko hurrengo urratsak eta gogoratu zergatik ireki zenuen. Zure iritzia eskertuko genuke eginbide hau hobetzen dugun bitartean. <a data-l10n-name="connect">Bidali iritzia</a>
