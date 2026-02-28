@@ -765,6 +765,8 @@ urlbar-result-action-copy-to-clipboard = Копіювати
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = не визначено
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Рекомендується
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -822,6 +824,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсоровано
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Запитати
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -930,6 +934,9 @@ urlbar-searchmode-popup-description-menucaption =
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Цього разу шукати з:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Шукати з:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Налаштування пошуку
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
@@ -1168,6 +1175,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Приватне вікно
     .tooltiptext = Відкрити нове вікно приватного перегляду ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Поділитися
+    .tooltiptext = Поділитися цією сторінкою
 
 ## EME notification panel
 
