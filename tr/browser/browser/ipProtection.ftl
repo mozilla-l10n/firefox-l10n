@@ -97,7 +97,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapal�
 
 ## IP Protection bandwidth callouts
 
-ipprotection-bandwidth-upgrade-title = Yerleşik VPN’i beğendiniz mi? { -mozilla-vpn-brand-name } ile daha{ -brand-product-name } korumaya sahip olabilirsiniz.
+ipprotection-bandwidth-upgrade-title = Yerleşik VPN’i beğendiniz mi? { -mozilla-vpn-brand-name } ile { -brand-product-name } dışında daha fazla korumaya sahip olabilirsiniz.
 
 ## IP Protection bandwidth warning infobar
 

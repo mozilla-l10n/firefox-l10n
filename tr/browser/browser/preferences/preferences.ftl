@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = W
 non-technical-privacy-group =
     .label = Web sitesi gizlilik tercihleri
+do-not-track-removal3 =
+    .message = “Do Not Track” özelliğini artık desteklemiyoruz.
+non-technical-privacy-heading =
+    .label = Ek korumalar
 non-technical-privacy-header = Web sitesi gizlilik tercihleri
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +528,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Tarih, saat, sayı ve ölçüleri biçimlendirmek için “{ $localeName }” işletim sistemi ayarlarımı kullan
+settings-spellcheck-header =
+    .label = Yazım denetimi
 check-user-spelling =
     .label = Yazarken yazım denetimi yap
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Sözlük indir
 
 ## General Section - Files and Applications
 
@@ -1049,6 +1057,14 @@ search-one-click-header-3 =
     .description = Adres çubuğunda görünecek arama motorlarını ve kısayolları seçin.
 update-search-engine-success =
     .message = Arama motoru başarıyla güncellendi
+search-edit-engine-2 =
+    .title = Arama motorunu düzenle
+search-delete-engine =
+    .title = Arama motorunu sil
+search-enable-engine =
+    .title = Arama motorunu etkinleştir
+search-outlink-to-extensions-page =
+    .title = Uzantılarda ve temalarda yönet
 search-choose-engine-column =
     .label = Arama motoru
 search-choose-keyword-column =
@@ -1600,6 +1616,8 @@ history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =
     .label = geçmişi hatırlasın
+history-remember-option-custom2 =
+    .label = Geçmişi özelleştir
 history-remember-option-never =
     .label = geçmişi asla hatırlamasın
 history-remember-option-custom =
@@ -1642,6 +1660,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Geçmişi temizle…
     .accesskey = G
+history-header2 =
+    .heading = Geçmiş
 history-group =
     .label = Geçmiş
 
@@ -2215,6 +2235,14 @@ preferences-doh-exceptions-description = { -brand-short-name } bu sitelerde güv
 preferences-doh-manage-exceptions =
     .label = İstisnaları yönet…
     .accesskey = s
+preferences-doh-advanced-button =
+    .label = Gelişmiş ayarlar
+preferences-doh-status-item-off =
+    .message = HTTPS üzerinden DNS kapalı
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = HTTPS üzerinden DNS özelliği { $name } sağlayıcısını kullanıyor
 
 ## The following strings are used in the Download section of settings
 

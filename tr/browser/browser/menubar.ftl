@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Tercihler
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Ayarlar…
 menu-application-services =
     .label = Servisler
 menu-application-hide-this =
