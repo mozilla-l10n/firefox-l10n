@@ -2343,7 +2343,7 @@ preferences-doh-status-item-off =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active =
-    .message = DNS přez HTTPS njefunguje, dokelž smy na zmylk storčili ({ $reason }), mjeztym zo wužiwaće, poskićowarja { $name } pospytujeće
+    .message = DNS přez HTTPS njefunguje, dokelž smy na zmylk storčili ({ $reason }), mjeztym zo pospytujeće, poskićowarja { $name } wužiwać
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
@@ -2363,6 +2363,13 @@ preferences-doh-status-item-active-local =
     .message = DNS přez HTTPS lokalneho poskićowarja { $name } wužiwa
 preferences-doh-select-resolver-label =
     .label = Wubjerće poskićowarja:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Wužiwajće tutoho poskićowarja, zo byšće DNS přez HTTPS rozpušćił
+preferences-doh-custom-provider-label =
+    .aria-label = Zapodajće swójski URL poskićowarja
 preferences-doh-header2 =
     .heading = DNS přez HTTPS
 
@@ -2433,9 +2440,13 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } stražuje
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } někotre wěstotne polěpšenja poručuje
 security-privacy-status-ok-label = Polěpšeny slědowanski škit je zmóžnjeny
 security-privacy-status-problem-label = Smy nastajenja namakali, kotrež waš škit wobwliwuja
 security-privacy-status-problem-helper-label = Problemy pokazać
+security-privacy-status-pending-trackers-label = Hladać, kelko přesćěhowakow je { -brand-short-name } w poslednim měsacu blokował
 security-privacy-status-update-needed-label = Nowa wersija { -brand-short-name } je k dispoziciji.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } aktualizować
