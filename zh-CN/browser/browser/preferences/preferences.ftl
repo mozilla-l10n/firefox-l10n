@@ -2346,3 +2346,5 @@ preferences-etp-status-advanced-button =
     .label = 高级设置
 preferences-etp-header =
     .heading = 增强型跟踪保护
+preferences-etp-customize-button =
+    .label = 自定义跟踪保护
