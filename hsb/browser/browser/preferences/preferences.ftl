@@ -2447,9 +2447,29 @@ security-privacy-status-ok-label = Polěpšeny slědowanski škit je zmóžnjeny
 security-privacy-status-problem-label = Smy nastajenja namakali, kotrež waš škit wobwliwuja
 security-privacy-status-problem-helper-label = Problemy pokazać
 security-privacy-status-pending-trackers-label = Hladać, kelko přesćěhowakow je { -brand-short-name } w poslednim měsacu blokował
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } přesćěhowak je so w zańdźenym měsacu zablokował
+        [two] { $trackerCount } přesćěhowakaj stej so w zańdźenym měsacu zablokowałoj
+        [few] { $trackerCount } přesćěhowaki su so w zańdźenym měsacu zablokowali
+       *[other] { $trackerCount } přesćěhowakow je so w zańdźenym měsacu zablokowało
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Maće <a data-l10n-name="strict-tracking-protection">striktny škit</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Maće <a data-l10n-name="custom-tracking-protection">swójski škit</a>
+security-privacy-status-up-to-date-label = Sće najnowšu, najwěsćišu wersiju { -brand-short-name } dóstał
 security-privacy-status-update-needed-label = Nowa wersija { -brand-short-name } je k dispoziciji.
+security-privacy-status-update-error-label = { -brand-short-name } ma problemy z aktualizaciju
+security-privacy-status-update-checking-label = { -brand-short-name } aktualizacije pyta
+security-privacy-status-update-needed-description = Aktualizujće, zo byšće najnowše aktualizacije za spěšnosć, stabilnosć a wěstotu dóstał.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } aktualizować
+security-privacy-image-warning =
+    .alt = Taflička z wuwołakom, kotraž starosć wo wašich wěstotnych warnowanjach zwuraznja
 security-privacy-issue-card =
     .heading = Wěstotne warnowanja
 issue-card-reset-button =
