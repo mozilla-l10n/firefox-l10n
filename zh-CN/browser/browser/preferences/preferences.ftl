@@ -1648,6 +1648,16 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = 清除历史记录…
     .accesskey = s
+history-header2 =
+    .heading = 历史记录
+history-section-header =
+    .label = 历史记录
+    .description = 选择关闭浏览器时 { -brand-short-name } 应记住的内容。
+history-custom-section-header =
+    .label = 高级设置
+    .description = 自定义关闭浏览器时 { -brand-short-name } 应记住的内容。
+history-custom-button =
+    .label = 选择您希望 { -brand-short-name } 记住的内容
 history-group =
     .label = 历史记录
 history-remember-option-all2 =
@@ -1662,6 +1672,10 @@ sitedata-total-size-calculating = 正在计算网站数据和缓存的大小…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = 各网站目前使用了 <strong>{ $value } { $unit }</strong> 磁盘空间。
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = 您已存储的 Cookie、历史记录、网站数据和缓存目前使用了 <strong>{ $value } { $unit }</strong> 磁盘空间。
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1673,6 +1687,9 @@ sitedata-delete-on-close =
     .accesskey = C
 sitedata-delete-on-close-private-browsing3 =
     .message = 根据您的历史记录设置，{ -brand-short-name } 将在关闭浏览器时删除浏览期间产生的 Cookie 和网站数据。
+sitedata-delete-on-close-private-browsing4 =
+    .heading = 不保存历史记录。
+    .message = 关闭浏览器时，{ -brand-short-name } 将清除浏览期间产生的 Cookie 和网站数据。
 sitedata-delete-on-close-private-browsing = 永久启用隐私浏览模式后，每次关闭 { -brand-short-name } 时都会清除 Cookie 和网站数据。
 sitedata-delete-on-close-private-browsing2 = 根据您的历史记录设置，{ -brand-short-name } 将在关闭浏览器时删除浏览期间产生的 Cookie 和网站数据。
 sitedata-allow-cookies-option =
@@ -1718,6 +1735,16 @@ sitedata-cookies-exceptions2 =
     .label = 管理例外
     .accesskey = x
     .description = 您可以指定一律允许或不允许哪些网站使用 Cookie 和网站数据。
+sitedata-heading =
+    .label = 浏览数据
+    .description = 管理 Cookie、历史记录、缓存、网站数据等项目。
+sitedata-settings3 =
+    .label = 清除特定网站的数据
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = 管理例外
+    .accesskey = x
+    .description = 选择特定网站处理 Cookie 和网站数据的方式。
 cookies-site-data-group =
     .label = Cookie 和网站数据
 
@@ -1982,6 +2009,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 拦截弹出式窗口和第三方重定向
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = 管理重定向
+    .accesskey = E
+    .searchkeywords = 弹窗,弹出式窗口,popups,pop-ups
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
