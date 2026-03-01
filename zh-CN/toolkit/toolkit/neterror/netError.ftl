@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = 尝试将网址改为 HTTP
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = 有时网站会为自身设置保护措施，阻止与其他网站进行非预期的交互。
 fp-learn-more-about-https-connections = 了解 HTTPS 连接
+fp-neterror-vpn-error-title = 无法连接到 VPN
+fp-neterror-vpn-error-description = 请在几分钟后重试。

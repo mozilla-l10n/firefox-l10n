@@ -27,3 +27,12 @@ recently-closed-undo-close-window-label =
         [0] { $winTitle }
        *[other] { $winTitle } (与其他共 { $tabCount } 个标签页)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }({ $tabCount })个标签页，关闭于{ DATETIME($closedAt, dateStyle: "short", timeStyle: "short") }
+       *[other] { $winTitle }({ $tabCount })个标签页，关闭于{ DATETIME($closedAt, dateStyle: "short", timeStyle: "short") }
+    }
