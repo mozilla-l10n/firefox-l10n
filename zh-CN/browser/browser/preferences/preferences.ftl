@@ -2258,6 +2258,10 @@ preferences-doh-manage-exceptions =
     .accesskey = x
 preferences-doh-advanced-button =
     .label = 高级设置
+preferences-doh-custom-provider-label =
+    .aria-label = 输入自定义提供商的 URL
+preferences-doh-header2 =
+    .heading = 基于 HTTPS 的 DNS
 
 ## The following strings are used in the Download section of settings
 
@@ -2323,3 +2327,9 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = 取消
 preferences-ai-controls-block-confirmation-confirm =
     .label = 屏蔽
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = 增强型跟踪保护已开启
+security-privacy-status-problem-label = 我们发现有些设置会影响您的保护状态
+security-privacy-status-problem-helper-label = 查看问题
