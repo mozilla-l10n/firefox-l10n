@@ -2323,17 +2323,40 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Standardny škit
     .description = Wužiwajće wěsty DNS w regionach, hdźež je k dispoziciji.
+preferences-doh-overview-custom =
+    .label = Swójski
+    .description = Wužiwajće přeco wěsty DNS z konntrolu nad wašim poskićowarjom a wospjetnym zadźerženjom.
+preferences-doh-overview-off =
+    .label = Znjemóžnjeny
+    .description = Wužiwajće swój standardny resolver DNS.
 preferences-doh-advanced-button =
     .label = Rozšěrjene nastajenja
+preferences-doh-advanced-section =
+    .label = Rozšěrjene nastajenja
+    .description = Domain Name System přez HTTPS (DoH) sydłowe pytanja zaklučuje, tak je ćešo za wašeho internetneho poskićowarja abo druhich widźeć, kotre websydła wopytujeće.
 preferences-doh-manage-exceptions2 =
     .label = Wuwzaća rjadować
     .accesskey = u
 preferences-doh-status-item-off =
     .message = DNS přez HTTPS je znjemóžnjeny
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS přez HTTPS njefunguje, dokelž smy na zmylk storčili ({ $reason }), mjeztym zo wužiwaće, poskićowarja { $name } pospytujeće
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS přez HTTPS njefunguje, dokelž smy njepłaćiwy URL dóstali ({ $reason })
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS přez HTTPS poskićowarja { $name } wužiwa
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS přez HTTPS njefunguje, dokelž smy na zmylk storčili ({ $reason }), mjeztym zo pospytujeće lokalneho poskićowarja { $name } wužiwać
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
