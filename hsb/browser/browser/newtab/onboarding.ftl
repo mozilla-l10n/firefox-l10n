@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Ze zawěsćenja wobnowić
 restore-from-backup-title = Dóstańmy { -brand-short-name } wróćo, kaž so wam spodoba
 restore-from-backup-subtitle = Wobnowće wšě waše zapołožki, historiju a druhe daty, zo byšće so k přehladowanju wróćił.
 restore-from-backup-secondary-button = Njewobnowić
+multiple-backups-info-tile = <strong>Wjacore zawěsćenske dataje namakane.</strong> Najnowša dataja je wubrana. Wobnowće druhe profile w <a data-l10n-name="settings-label">nastajenjach</a>.
 
 ## Restored from Backup spotlight
 

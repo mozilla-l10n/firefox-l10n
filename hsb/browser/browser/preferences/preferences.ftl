@@ -544,6 +544,9 @@ check-user-spelling =
     .accesskey = P
 spellcheck-download-dictionaries =
     .label = Słowniki sćahnyć
+spellcheck-promo =
+    .heading = Kak móžeće prawopisnu kontrolu wužiwać
+    .message = Klikńće z prawej tastu na tekstowe polo, zo byšće prawopisne polo zmóžnił abo znjemóžnił abo rěč změnił. Nic wšě pola prawopisnu kontrolu podpěruja.
 
 ## General Section - Files and Applications
 
