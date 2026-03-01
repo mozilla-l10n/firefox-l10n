@@ -2183,11 +2183,16 @@ website-advertising-private-attribution-description = To websydłam pomha rozumi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
+browsing-protection-group2 =
+    .label = Škit před wobšudnym wobsahom a strašnej softwaru
+    .description = Straše sydła a sćehnjenje móža waše daty a grat do strache přinjesć. { -brand-short-name } je awtomatisce blokuje a warnuje was před riskantnej abo njewitanej software.
 security-browsing-protection = Škit před wobšudnym wobsahom a strašnej softwaru
 security-enable-safe-browsing =
     .label = Strašny a wobšudny wobsah blokować
     .accesskey = S
 security-enable-safe-browsing-link = Dalše informacije
+security-safe-browsing-warning =
+    .message = Hdyž to znjemóžnjeće, so škit přećiwo wobšudźe, złóstnym sydłam a strašnym sćehnjenjam redukuje.
 security-block-downloads =
     .label = Strašne sćehnjenja blokować
     .accesskey = s
@@ -2257,6 +2262,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS přez HTTPS
+dns-over-https-group2 =
+    .label = DNS přez HTTPS
+    .description = Domain Name System přez HTTPS (DoH) sydłowe pytanje zaklučuje, tak je ćešo za wašeho internetneho poskićowarja abo druhich widźeć, kotre websydła wopytujeće.
 preferences-doh-description = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, wutworja wěsty DNS a poćežuje druhim wosobam widźeć, kotre websydła wopytujeće.
 preferences-doh-description2 = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, staja  wěsty DNS k dispoziciji a poćežuje druhim wosobam widźeć, kotre websydła wopytujeće.
 # Variables:
@@ -2312,6 +2320,9 @@ preferences-doh-exceptions-description = { -brand-short-name } njebudźe wěsty 
 preferences-doh-manage-exceptions =
     .label = Wuwzaća rjadować…
     .accesskey = z
+preferences-doh-overview-default =
+    .label = Standardny škit
+    .description = Wužiwajće wěsty DNS w regionach, hdźež je k dispoziciji.
 preferences-doh-advanced-button =
     .label = Rozšěrjene nastajenja
 preferences-doh-manage-exceptions2 =
