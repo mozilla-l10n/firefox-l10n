@@ -1074,6 +1074,12 @@ update-search-engine-success =
     .message = Bilaketa-motorra ondo eguneratu da
 search-edit-engine-2 =
     .title = Editatu bilaketa-motorra
+search-delete-engine =
+    .title = Ezabatu bilaketa-motorra
+search-enable-engine =
+    .title = Gaitu bilaketa-motorra
+search-outlink-to-extensions-page =
+    .title = Kudeatu hedapen eta itxuretan
 search-choose-engine-column =
     .label = Bilaketa-motorra
 search-choose-keyword-column =
@@ -1625,6 +1631,11 @@ history-remember-label = { -brand-short-name }(e)k
     .accesskey = k
 history-remember-option-all =
     .label = Historia gogoratuko du
+history-remember-option-never2 =
+    .label = Ez gogoratu historia inoiz
+    .description = Leiho bakoitzak leiho pribatu modura jokatuko du. Gaituta dagoenean, hedapenek baimenduta egon behar dute.
+history-remember-option-custom2 =
+    .label = Pertsonalizatu historia
 history-remember-option-never =
     .label = Ez du historia gogoratuko inoiz
 history-remember-option-custom =
@@ -1667,8 +1678,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Garbitu historia…
     .accesskey = s
+history-header2 =
+    .heading = Historia
+history-section-header =
+    .label = Historia
+    .description = Aukeratu zer nahi duzun { -brand-short-name }(e)k gogoratzea nabigatzailea ixten duzunean.
+history-custom-section-header =
+    .label = Ezarpen aurreratuak
+    .description = Aukeratu zer nahi duzun { -brand-short-name }(e)k gogoratzea nabigatzailea ixten duzunean.
+history-custom-button =
+    .label = Aukeratu zer nahi duzun { -brand-short-name }(e)k gogoratzea
 history-group =
     .label = Historia
+history-remember-option-all2 =
+    .label = Gogoratu historia
 
 ## Privacy Section - Site Data
 
@@ -2240,6 +2263,11 @@ preferences-doh-exceptions-description = { -brand-short-name }(e)k ez du DNS seg
 preferences-doh-manage-exceptions =
     .label = Kudeatu salbuespenak…
     .accesskey = d
+preferences-doh-advanced-button =
+    .label = Ezarpen aurreratuak
+preferences-doh-manage-exceptions2 =
+    .label = Kudeatu salbuespenak
+    .accesskey = s
 
 ## The following strings are used in the Download section of settings
 
@@ -2305,3 +2333,44 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Utzi
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokeatu
+
+## Privacy and security status card
+
+issue-card-dismiss-button =
+    .tooltiptext = Baztertu
+    .aria-label = Baztertu
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Ezarpen aurreratuak
+preferences-etp-header =
+    .heading = Jarraipenaren babes hobetua
+preferences-etp-customize-button =
+    .label = Pertsonalizatu jarraipenaren babesa
+preferences-etp-reload-tabs-hint =
+    .message = Berritu fitxak aldaketa hauek aplika daitezen.
+preferences-etp-reload-tabs-hint-button =
+    .label = Berritu fitxa guztiak
+preferences-etp-rfp-warning-message =
+    .message = Hatz-marka bidezko jarraipenari kontra egitekoa darabilzu (RFP, Resist Fingerprinting) eta honek { -brand-short-name }(r)en hatz-marka bidezko jarraipenaren babeserako zenbait ezarpen ordezkatzen ditu. Hainbat gune haustea eragin lezake.
+preferences-etp-customize-header =
+    .heading = Pertsonalizatu jarraipenaren babesa
+preferences-etp-custom-cookies-enabled =
+    .label = Cookieak
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookieak
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Baimendu cookie guztiak
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Edukiaren jarraipena
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Edukiaren jarraipena
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kriptomeatzariak
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Hatz-marka bidezko jarraipena egiten duten elementu ezagunak
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Susmopeko hatz-marka bidezko jarraipena
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Susmopeko hatz-marka bidezko jarraipena
