@@ -2333,3 +2333,16 @@ preferences-ai-controls-block-confirmation-confirm =
 security-privacy-status-ok-label = 增强型跟踪保护已开启
 security-privacy-status-problem-label = 我们发现有些设置会影响您的保护状态
 security-privacy-status-problem-helper-label = 查看问题
+security-privacy-status-update-button-label =
+    .label = 更新 { -brand-short-name }
+security-privacy-issue-card =
+    .heading = 安全警告
+issue-card-reset-button =
+    .label = 重置
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = 高级设置
+preferences-etp-header =
+    .heading = 增强型跟踪保护
