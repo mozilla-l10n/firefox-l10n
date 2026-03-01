@@ -144,7 +144,7 @@ search-results-help-link = 도움이 필요하세요? <a data-l10n-name="url">{ 
 
 startup-header = 시작 페이지
 always-check-default =
-    .label = { -brand-short-name }가 기본 브라우저인지 항상 확인
+    .label = 항상 { -brand-short-name }가 기본 브라우저인지 확인
     .accesskey = w
 is-default-browser =
     .message = 현재 { -brand-short-name }가 기본 브라우저입니다

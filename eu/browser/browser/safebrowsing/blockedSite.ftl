@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Zergatik blokeatu da gune
 safeb-blocked-addon-page-error-desc2-override = Jarduera iruzurti eta kaltegarriarekin lotuta egon liteke <strong>{ $sitename }</strong>.
 safeb-blocked-addon-page-error-desc3-override = <strong>Zer egin dezakezu?</strong>
 safeb-blocked-addon-page-error-desc4-override = Hau berriro gertatzea eragozteko, <strong>{ $addonName }</strong> hedapena ken dezakezu about:addons orritik.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>{ -brand-short-name }(r)en gehigarri kaltegarrien aurkako babesari buruzko argibide gehiago</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>{ -brand-short-name }(r)en phishing eta malware-aren aurkako babesari buruzko argibide gehiago</a>.

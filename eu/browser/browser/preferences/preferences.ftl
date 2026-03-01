@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Webgunearen pribatutasun-hobespenak
+do-not-track-removal3 =
+    .message = Jada ez dugu onartzen "Do Not Track" eginbidea.
+non-technical-privacy-heading =
+    .label = Babes gehigarriak
+preferences-privacy-relay-available =
+    .label = Gomendatu { -relay-brand-name } posta-maskarak
+    .description = Zure benetako helbide elektronikoa ezkutatzen du sarrera-ontzia spametik babesteko.
 non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +531,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Erabili zure sitema eragilearen "{ $localeName }" hizkuntzaren ezarpenak datak, orduak, zenbakiak eta neurriak formateatzeko.
+settings-spellcheck-header =
+    .label = Ortografia egiaztatzea
 check-user-spelling =
     .label = Egiaztatu ortografia idatzi ahala
     .accesskey = z
+spellcheck-download-dictionaries =
+    .label = Deskargatu hiztegiak
+spellcheck-promo =
+    .heading = Nola erabili ortografiaren egiaztapena
+    .message = Egin eskuin-klika testu-eremu batea ortografiaren egiaztapena gaitzeko edo desgaitzeko edota hizkuntza aldatzeko. Eremu guztiek ez dute ortografia egiaztatzea onartzen.
 
 ## General Section - Files and Applications
 
@@ -784,11 +798,20 @@ network-proxy-connection-learn-more = Argibide gehiago
 network-proxy-connection-settings =
     .label = Ezarpenak…
     .accesskey = E
+network-proxy-group2 =
+    .label = Proxy-ezarpenak
+    .description = Konfiguratu { -brand-short-name } nola konektatzen den Internetera.
+network-proxy-connection-settings2 =
+    .label = Konfiguratu proxya
+    .description = Ezarpen hauek aldatzeak konexio-arazoak eragin litzake
+    .accesskey = x
 
 ## Home Section
 
 home-new-windows-tabs-header = Leiho eta fitxa berriak
 home-new-windows-tabs-description2 = Aukeratu zer ikusi nahi duzun zure hasiera-orria, leiho berriak eta fitxa berriak irekitzean.
+home-section =
+    .heading = Hasiera eta abioa
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1072,8 @@ search-one-click-header-3 =
     .description = Aukeratu zein bilaketa-motor eta lasterbide agertzen diren zure helbide-barran.
 update-search-engine-success =
     .message = Bilaketa-motorra ondo eguneratu da
+search-edit-engine-2 =
+    .title = Editatu bilaketa-motorra
 search-choose-engine-column =
     .label = Bilaketa-motorra
 search-choose-keyword-column =
