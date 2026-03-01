@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Вилучити { $provider }
 genai-menu-remove-sidebar =
     .label = Вилучити з бічної панелі
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Запитати в { $provider }
 genai-menu-new-badge = Нове
 genai-menu-summarize-page = Підсумувати вміст сторінки
 genai-input-ask-generic =
@@ -225,8 +228,12 @@ link-preview-reading-time =
         [few] { $range } хв читання
        *[many] { $range } хв читання
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } не може переглянути це посилання
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Відвідати посилання
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } не може згенерувати ключові тези для цієї вебсторінки.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Щось пішло не так.
 # Text for the retry link when generation fails

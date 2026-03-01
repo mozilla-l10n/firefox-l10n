@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Перегля
 experimental-features-semantic-history-search =
     .label = Семантичний пошук історії
 experimental-features-semantic-history-search-description = Використовуйте локальну модель машинного навчання для пропозицій записів з історії, пов'язаних з вашими пошуковими запитами, на основі розуміння мовлення в панелі адреси { -brand-product-name }. <a data-l10n-name="connect">Поділіться враженням</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Нотатки вкладок
+experimental-features-tab-notes-description = Нотатки вкладок – це експериментальна функція, за допомогою якої можна додавати власні нотатки до вкладок браузера. Записуйте контекст, нагадування або заплановані подальші дії, щоб згодом ви могли пригадати, чому їх відкрили. Ми будемо вдячні за ваші відгуки, які допоможуть нам вдосконалювати цю функцію. <a data-l10n-name="connect">Поділитися відгуком</a>

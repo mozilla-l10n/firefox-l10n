@@ -27,6 +27,7 @@ profiles-rootdir = Кореневий каталог
 profiles-localdir = Локальний каталог
 profiles-current-profile = Цей профіль використовується і не може бути видалений.
 profiles-in-use-profile = Цей профіль використовується в іншій програмі й не може бути видалений.
+profiles-cannot-delete-profile = Неможливо видалити профіль, пов'язаний з іншими профілями.
 profiles-rename = Перейменувати
 profiles-remove = Видалити
 profiles-set-as-default = Встановити типовим профілем

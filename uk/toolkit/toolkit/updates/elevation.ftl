@@ -25,3 +25,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Не показувати знову
     .accesskey = Н
 sandbox-unprivileged-namespaces-howtofix = Як вирішити цю проблему
+sandbox-content-disabled-warning = Пісочницю безпеки вимкнено. Ваша конфігурація не підтримується і є менш безпечною.

@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Закрити { $tabCount } вкладки
            *[many] Закрити { $tabCount } вкладок
         }
+tab-splitview-splitter =
+    .aria-label = Змінити розмір вкладок розділеного екрану
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -227,6 +227,12 @@ sidebar-genai-survey-satisfaction-question = Як ви оцінюєте взає
 sidebar-genai-survey-productive-question =
     Наскільки ви згодні чи не згодні з цим твердженням:<br/>
     “Чат-бот з ШІ на бічній панелі підвищує мою продуктивність”?
+splitview-onboarding-callout-title-1 = Розділений екран: кращий спосіб багатозадачності
+splitview-onboarding-callout-subtitle-1 = Натисніть правою кнопкою цю вкладку й виберіть “Додати розділений екран”, щоб бачити одночасно дві вкладки.
+splitview-onboarding-callout-cta-1 = Спробувати зараз
+splitview-onboarding-callout-title-2 = Переглядайте дві вкладки одночасно в режимі розділеного екрану
+splitview-onboarding-callout-subtitle-2 = Без зайвих вікон. Без перегортання вкладок. Натисніть правою кнопкою цю вкладку й виберіть “Додати розділений екран”.
+splitview-onboarding-callout-cta-2 = Спробуйте розділений екран
 unified-search-callout-title = Перемикання пошукових систем
 unified-search-callout-subtitle = Виберіть те, що найкраще підходить для вашого конкретного пошуку.
 unified-search-callout-primary-label = Далі

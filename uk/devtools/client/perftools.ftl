@@ -33,6 +33,7 @@ perftools-description-local-build =
     Якщо ви профілюєте збірку, яку склали власноруч на цьому
     комп'ютері, додайте objdir своєї збірки до списку внизу,
     щоб можна було виявляти інформацію про символи.
+perftools-pick-local-build-directory = Вибрати каталог збірки
 
 ## The controls for the interval at which the profiler samples the code.
 

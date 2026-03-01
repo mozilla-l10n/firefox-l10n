@@ -533,6 +533,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом не захищене.
 identity-connection-verified = Ваше з'єднання з цим сайтом захищене.
 identity-ev-owner-label = Сертифікат виданий:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Кваліфікований, як зазначено в Регламенті (ЄС) 2024/1183.
 identity-description-custom-root2 = Mozilla не розпізнає цього видавця сертифіката. Він міг бути доданий вашою операційною системою чи адміністратором.
 identity-remove-cert-exception =
     .label = Вилучити виняток
@@ -566,6 +568,9 @@ browser-window-restore-down-button =
     .tooltiptext = Відновити вниз
 browser-window-close-button =
     .tooltiptext = Закрити
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Повернутися
 
 ## Tab actions
 
@@ -726,6 +731,7 @@ urlbar-result-action-search-in-private = Пошук у приватному ві
 urlbar-result-action-search-w-engine = Шукати за допомогою { $engine }
 urlbar-result-action-sponsored = Спонсоровано
 urlbar-result-action-switch-tab = Перейти на вкладку
+urlbar-result-action-move-tab-to-split-view = Перемістити вкладку на розділений екран
 urlbar-result-action-visit = Відвідати
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -765,6 +771,12 @@ urlbar-result-action-copy-to-clipboard = Копіювати
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = не визначено
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Розширення { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Рекомендується
 # Shows the result of a formula expression being calculated, in scientific notation.
@@ -931,6 +943,10 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Цього разу шукати з:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Шукати з:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Цього разу шукати з:

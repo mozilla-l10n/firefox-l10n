@@ -46,6 +46,10 @@ neterror-load-error-firewall = Якщо ваш комп'ютер або мере
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Якщо ви намагаєтеся завантажити сторінку локальної мережі, обов'язково надайте дозволи локальної мережі для { -brand-short-name } в параметрах приватності та безпеки macOS.
 neterror-http-error-page = Переконайтеся, що ви правильно ввели адресу вебсайту.
+neterror-http-empty-response = Перевірте правильність введення адреси вебсайту і повторіть спробу за кілька хвилин.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } повернув порожню сторінку.
 neterror-captive-portal = Перш ніж отримати доступ до інтернету, ви маєте ввійти в цю мережу.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = Перевірте, чи файл не був п
 neterror-access-denied = Він міг бути вилучений, переміщений, або дозволи файлу забороняють доступ.
 neterror-unknown-protocol = Для відкриття цієї адреси вам, можливо, доведеться встановити стороннє програмне забезпечення.
 neterror-redirect-loop = Ця проблема може спричинятися вимкненням або забороною прийняття файлів cookie.
+neterror-unknown-socket-type-client-config = Можливо, це пов'язано з помилкою конфігурації вашого клієнта.
 neterror-unknown-socket-type-psm-installed = Переконайтеся, що у вашій системі встановлено Personal Security Manager (PSM).
 neterror-unknown-socket-type-server-config = Можливо, це відбулося через нетипову конфігурацію сервера.
 neterror-not-cached-intro = Вказаний документ більше недоступний у кеші { -brand-short-name }.
@@ -178,11 +183,18 @@ fp-neterror-offline-body-title = Здається, виникла проблем
 fp-neterror-connection-intro = { -brand-short-name } не може створити захищене з'єднання із сервером за адресою { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не може під'єднатися до сервера за адресою <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } не завантажив цю сторінку, оскільки конфігурація безпеки не відповідає попередній сторінці.
+fp-neterror-http-auth-disabled-intro = Хтось від імені сайту може спробувати викрасти ваше ім'я користувача, пароль або електронну пошту.
+fp-neterror-http-auth-disabled-secure-connection = Цей сайт вимагає захищеного з'єднання, і ви не можете додати виняток для його відвідування.
 fp-neterror-why-did-this-happen = Чому це сталося?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Здається, цей сайт використовує застаріле програмне забезпечення з відомими проблемами безпеки.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } не довіряє { $hostname }, тому що з'єднання не є захищеним.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Перевірте, чи ви використовуєте найновішу версію { -brand-short-name }, відкривши меню "Довідка" > "Про { -brand-short-name }". Якщо у вас найновіша версія { -brand-short-name }, імовірно, ця проблема пов'язана з сайтом.
 fp-neterror-offline-what-can-you-do-body = Спробуйте під'єднатися на іншому пристрої. Перевірте свій модем або маршрутизатор. Від'єднайтеся і знову під'єднайтеся до Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Спробуйте змінити URL-адресу на HTTPS. Але, ймовірно, проблема в самому сайті.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Іноді вебсайти встановлюють для себе захист від небажаної взаємодії з іншими сайтами.
+fp-learn-more-about-https-connections = Дізнайтеся про HTTPS-з'єднання
+fp-neterror-vpn-error-title = Не вдалося під'єднатися до VPN
+fp-neterror-vpn-error-description = Повторіть спробу за кілька хвилин.
