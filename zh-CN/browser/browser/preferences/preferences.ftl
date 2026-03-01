@@ -2348,3 +2348,7 @@ preferences-etp-header =
     .heading = 增强型跟踪保护
 preferences-etp-customize-button =
     .label = 自定义跟踪保护
+preferences-etp-reload-tabs-hint =
+    .message = 重新加载标签页以应用这些更改。
+preferences-etp-rfp-warning-message =
+    .message = 您正在使用 Resist Fingerprinting（RFP），这会覆盖 { -brand-short-name } 部分数字指纹跟踪程序保护设置，并可能导致某些网站异常。
