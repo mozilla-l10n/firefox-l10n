@@ -2254,6 +2254,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS super HTTPS
+dns-over-https-group2 =
+    .label = DNS sur HTTPS
+    .description = Le Systema de nomines de dominio super HTTPS (DoH) crypta le recercas de sito pro que il es plus ardue pro tu fornitor de internet o alteres vider qual sitos web tu va visitar.
 preferences-doh-description = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, creante un DNS secur e obstruente a alteres de vider que sito web tu va acceder.
 preferences-doh-description2 = Le systemas de nomine de dominio (DNS) sur HTTPS invia tu requesta pro un nomine de dominio per un connexion cryptate, forniente un DNS secur e obstruente al alteres de vider que sito web tu va acceder.
 # Variables:
@@ -2312,6 +2315,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Protection predefinite
     .description = Usar DNS secur in regiones ubi illo es disponibile.
+preferences-doh-overview-off =
+    .label = Disactivate
+    .description = Usar tu resolutor de DNS predefinite.
 preferences-doh-advanced-button =
     .label = Parametros avantiate
 preferences-doh-manage-exceptions2 =
