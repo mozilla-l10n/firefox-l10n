@@ -810,6 +810,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Nye vinduer og faner
 home-new-windows-tabs-description2 = Velg hva du vil se når du åpner startsiden, nye vinduer og nye faner.
+home-section =
+    .heading = Startside og oppstart
 
 ## Home Section - Default Browser
 
@@ -1074,6 +1076,10 @@ search-edit-engine-2 =
     .title = Rediger søkemotor
 search-delete-engine =
     .title = Slett søkemotor
+search-enable-engine =
+    .title = Aktiver søkemotor
+search-outlink-to-extensions-page =
+    .title = Behandle i utvidelser og temaer
 search-choose-engine-column =
     .label = Søkemotor
 search-choose-keyword-column =
@@ -1625,6 +1631,11 @@ history-remember-label = { -brand-short-name } vil
     .accesskey = v
 history-remember-option-all =
     .label = Huske historikk
+history-remember-option-never2 =
+    .label = Lagre aldri noe historikk
+    .description = Hvert vindu fungerer som et privat vindu. Når dette er på, må utvidelser tillates.
+history-remember-option-custom2 =
+    .label = Tilpass historikk
 history-remember-option-never =
     .label = Aldri huske historikk
 history-remember-option-custom =
@@ -1667,6 +1678,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tøm historikk…
     .accesskey = s
+history-header2 =
+    .heading = Historikk
 history-group =
     .label = Historikk
 
