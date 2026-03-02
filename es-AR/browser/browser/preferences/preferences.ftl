@@ -1684,6 +1684,8 @@ history-section-header =
 history-custom-section-header =
     .label = Opciones avanzadas
     .description = Personalizar que tiene que recordar { -brand-short-name } al cerrar el navegador.
+history-custom-button =
+    .label = Seleccionar que tiene que recordar { -brand-short-name }
 history-group =
     .label = Historial
 history-remember-option-all2 =
@@ -1698,17 +1700,27 @@ sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Los sitios web están usando actualmente <strong>{ $value } { $unit }</strong> de espacio en disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Sus cookies almacenadas, el historial, los datos del sitio y caché están usando <strong>{ $value } { $unit }</strong> de espacio en disco en este momento.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Sus cookies almacenadas, los datos del sitio y caché están usando { $value } { $unit } de espacio en disco en este momento.
 sitedata-learn-more = Conocer más
+sitedata-delete-on-close2 =
+    .label = Borrar cookies y datos del sitio cada vez que se cierre { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Eliminar cookies y datos del sitio cuando se cierra { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de la sesión cuando cierra el navegador.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = El historial no se guardará.
+    .message = { -brand-short-name } borra cookies y datos del sitio cada vez que se cierre el navegador.
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos del sitio siempre se borrarán cuando se cierre { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de la sesión cuando cierra el navegador.
 sitedata-allow-cookies-option =
@@ -1754,6 +1766,12 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Se puede especificar que sitios siempre o nunca permitirán usar cookies y datos del sitio.
+sitedata-heading =
+    .label = Datos de navegación
+    .description = Administrar cookies, historial, caché, datos del sitio web y más.
+sitedata-settings3 =
+    .label = Borrar datos para sitios específicos
+    .accesskey = s
 cookies-site-data-group =
     .label = Cookies y datos del sitio
 
@@ -2018,6 +2036,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Administrar redirecciones
+    .accesskey = e
+    .searchkeywords = popups,pop-ups,emergentes
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
