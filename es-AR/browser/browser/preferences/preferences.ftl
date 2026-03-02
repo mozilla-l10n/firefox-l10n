@@ -2368,5 +2368,20 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-update-button-label =
+    .label = Actualizar { -brand-short-name }
 security-privacy-image-warning =
     .alt = Un escudo con un signo de exclamación, expresando preocupación por las advertencias de seguridad
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reload-tabs-hint-button =
+    .label = Recargar todas las pestañas
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Permitir todas las cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Contenido de rastreo
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Contenido de rastreo
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Criptomineros
