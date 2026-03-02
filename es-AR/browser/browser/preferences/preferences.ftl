@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Ya no soportamos la función “No rastrear”.
 non-technical-privacy-heading =
     .label = Protecciones adicionales
+preferences-privacy-relay-available =
+    .label = Sugerir máscaras de correo electrónico de { -relay-brand-name }
+    .description = Oculta la dirección de correo electrónico real para proteger la bandeja de entrada del spam.
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -535,6 +538,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = Descargar diccionarios
+spellcheck-promo =
+    .heading = Cómo usar el corrector ortográfico
+    .message = Clic derecho en un campo de texto para habilitar o deshabilitar la corrección ortográfica o para cambiar el idioma. No todos los campos soportan corrección ortográfica.
 
 ## General Section - Files and Applications
 
