@@ -1629,6 +1629,9 @@ history-remember-label = { -brand-short-name } podrá
     .accesskey = o
 history-remember-option-all =
     .label = Recordar el historial
+history-remember-option-never2 =
+    .label = Nunca recordar el historial
+    .description = Cada ventana actúa como una ventana privada. Al activar, es necesario permitir extensiones.
 history-remember-option-custom2 =
     .label = Personalizar historial
 history-remember-option-never =
@@ -1675,8 +1678,16 @@ history-clear-button =
     .accesskey = s
 history-header2 =
     .heading = Historial
+history-section-header =
+    .label = Historial
+    .description = Seleccionar que tiene que recordar { -brand-short-name } al cerrar el navegador.
+history-custom-section-header =
+    .label = Opciones avanzadas
+    .description = Personalizar que tiene que recordar { -brand-short-name } al cerrar el navegador.
 history-group =
     .label = Historial
+history-remember-option-all2 =
+    .label = Recordar el historial
 
 ## Privacy Section - Site Data
 
