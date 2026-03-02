@@ -2321,6 +2321,11 @@ preferences-doh-status-item-off =
     .message = DNS super HTTPS es inactive
 preferences-doh-select-resolver-label =
     .label = Eliger fornitor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Usar iste fornitor pro resolver DNS sur HTTPS
 preferences-doh-header2 =
     .heading = DNS super HTTPS
 
