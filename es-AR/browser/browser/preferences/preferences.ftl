@@ -2042,6 +2042,9 @@ permissions-block-popups-exceptions-button3 =
     .label = Administrar redirecciones
     .accesskey = e
     .searchkeywords = popups,pop-ups,emergentes
+permissions-addon-install-warning3 =
+    .label = Mostrar advertencia cuando sitios web traten de instalar extensiones
+    .accesskey = w
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -2199,6 +2202,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando
 certs-description2 =
     .label = Certificados
     .description = Configurar los certificados que { -brand-short-name } usa para la autenticación.
+certs-description3 =
+    .label = Certificados
+    .description = Configurar los certificados que { -brand-short-name } usa para verificar las conexiones seguras.
+certs-view2 =
+    .label = Administrar certificados
+    .accesskey = c
+certs-devices2 =
+    .label = Administrar dispositivos de seguridad
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
@@ -2283,6 +2295,11 @@ preferences-doh-exceptions-description = { -brand-short-name } no usará DNS seg
 preferences-doh-manage-exceptions =
     .label = Administrar excepciones…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protección predeterminada
+    .description = Usar DNS seguro en regiones donde esté disponible.
+preferences-doh-select-resolver-label =
+    .label = Seleccionar proveedor:
 
 ## The following strings are used in the Download section of settings
 
@@ -2348,3 +2365,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquear
+
+## Privacy and security status card
+
+security-privacy-image-warning =
+    .alt = Un escudo con un signo de exclamación, expresando preocupación por las advertencias de seguridad
