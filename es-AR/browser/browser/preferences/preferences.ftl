@@ -798,6 +798,13 @@ network-proxy-connection-learn-more = Conocer más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = C
+network-proxy-group2 =
+    .label = Configuración de proxyr
+    .description = Configura como { -brand-short-name } se conecta a internet.
+network-proxy-connection-settings2 =
+    .label = Configurar proxy
+    .description = Cambiar está configuración puede causar problemas de conexión
+    .accesskey = p
 
 ## Home Section
 
