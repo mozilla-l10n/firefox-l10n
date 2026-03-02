@@ -2433,14 +2433,37 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } es in alerta
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } recommenda alcun meliorationes de securitate
 security-privacy-status-ok-label = Protection antitraciamento reinfortiate
+security-privacy-status-problem-label = Nos trovava parametros que affice tu protection
 security-privacy-status-problem-helper-label = Vider problemas
+security-privacy-status-pending-trackers-label = Cercante quante traciatores { -brand-short-name } blocava durante le mense passate
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } traciator blocate durante le mense passate
+       *[other] { $trackerCount } traciatores blocate durante le mense passate
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Tu ha le <a data-l10n-name="strict-tracking-protection">protection rigorose</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Tu ha le <a data-l10n-name="custom-tracking-protection">protection personalisate</a>
+security-privacy-status-up-to-date-label = Tu ha recipite le ultime e plus secur version de { -brand-short-name }
+security-privacy-status-update-needed-label = Un nove version de { -brand-short-name } es disponibile.
+security-privacy-status-update-error-label = { -brand-short-name } ha difficultates a actualisar se
+security-privacy-status-update-checking-label = { -brand-short-name } controla pro actualisationes
+security-privacy-status-update-needed-description = Reciper le ultime actualisationes de velocitate, stabilitate, e securitate.
 security-privacy-status-update-button-label =
     .label = Actualisar { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un scuto con un puncto de exclamation, exprimente preoccupation sur tu avisos de securitate
+security-privacy-image-ok =
+    .alt = Un scuto con un marca de verification, monstrante que tu non ha problemas de securitate pendente
+security-privacy-issue-card =
+    .heading = Avisos de securitate
 issue-card-reset-button =
     .label = Reinitialisar
 issue-card-dismiss-button =
@@ -2449,10 +2472,32 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Protection contra-traciamento reinfortiate
+    .description = Le sitos usa traciatores pro sequer te online e monstrar te annuncios publicitari horripilante. { -brand-short-name } te protege quando tu naviga, blocante traciatores automaticamente assi que tu es al commando de tu pista digital.
+preferences-etp-level-standard =
+    .label = Standard (predefinite)
+    .description = Forte, fidibile protectiones que functiona lisiemente con le major parte del sitos web.
+preferences-etp-level-strict =
+    .label = Sever
+    .description = Protectiones plus forte que bloca plus de traciatores, ma pote facer collaber alcun sitos.
+preferences-etp-level-custom =
+    .label = Personalisate
+    .description = Elige que protectiones activar o disactivar.
 preferences-etp-status-advanced-button =
     .label = Parametros avantiate
+preferences-etp-status-protections-dashboard-link =
+    .label = Vide tu pannello protectiones personalisate
+    .description = Vide como multe perfide traciatores { -brand-short-name } ha blocate pro te, includite traciatores de medios social, dactylogrammatores, e minatores de cryptomonetas.
 preferences-etp-header =
     .heading = Protection antitraciamento reinfortiate
+preferences-etp-advanced-settings-group =
+    .label = Configurationes avantiate
+    .description = Le sitos usa traciatores pro sequer te online e monstrar te annuncios publicitari horripilante. { -brand-short-name } te protege quando tu naviga, blocante le major parte del traciatores automaticamente assi que tu es al commando de tu pista digital.
+preferences-etp-customize-button =
+    .label = Personalisar protection antitraciamento
+preferences-etp-reload-tabs-hint =
+    .message = Recarga tu schedas pro applicar iste cambiamentos.
 preferences-etp-reload-tabs-hint-button =
     .label = Recargar tote le schedas
 preferences-etp-rfp-warning-message =
