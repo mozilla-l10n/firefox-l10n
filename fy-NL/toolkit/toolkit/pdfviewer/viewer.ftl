@@ -201,6 +201,10 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniatuer fan side { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Side { $page } selektearje
 
 ## Find panel button title and messages
 
@@ -648,6 +652,8 @@ pdfjs-toggle-views-manager-notification-button =
 pdfjs-toggle-views-manager-button-label = Sidebalke yn-/útskeakelje
 pdfjs-views-manager-sidebar =
     .aria-label = Sidebalke
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Gruttewiziging sydbalke
 pdfjs-views-manager-view-selector-button =
     .title = Werjeften
 pdfjs-views-manager-view-selector-button-label = Werjeften
@@ -706,6 +712,7 @@ pdfjs-views-manager-status-undo-button-label = Ungedien meitsje
 pdfjs-views-manager-status-close-button =
     .title = Slute
 pdfjs-views-manager-status-close-button-label = Slute
+pdfjs-views-manager-paste-button-label = Plakke
 
 ## Main menu for adding/removing signatures
 

@@ -1702,17 +1702,27 @@ sitedata-total-size-calculating = Calculo del dimension de datos de sito e de ca
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Le sitos web actualmente usa <strong>{ $value } { $unit }</strong> de spatio de disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Tu cookies, chronologia, datos de sito e cache occupa actualmente <strong>{ $value } { $unit } </strong> de spatio de disco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tu cookies, datos de sito e cache occupa actualmente { $value } { $unit } de spatio de disco.
 sitedata-learn-more = Saper plus
+sitedata-delete-on-close2 =
+    .label = Vacuar cookies e datos de sito cata vice que tu claude { -brand-short-name }
+    .accesskey = v
 sitedata-delete-on-close =
     .label = Deler datos de cookies e sitos quando { -brand-short-name } es claudite
     .accesskey = D
 sitedata-delete-on-close-private-browsing3 =
     .message = Secundo tu parametros de chronologia, { -brand-short-name } elimina le cookies e le datos de sito de tu session quando tu claude le navigator.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Le chronologia non sera salvate.
+    .message = { -brand-short-name } vacua cookies e datos del sito de tu session quando tu claude le navigator.
 sitedata-delete-on-close-private-browsing = Durante le modo de navigation private permanente, le cookies e le datos del sito sera sempre cancellate al clausura de { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = In base al parametros del chronologia, le cookies e le datos del sitos web sera eliminate quando tu claudera { -brand-short-name }.
 sitedata-allow-cookies-option =
@@ -1761,6 +1771,13 @@ sitedata-cookies-exceptions2 =
 sitedata-heading =
     .label = Datos de navigation
     .description = Gere tu cookies, historia, cache, datos de sitos web, e plus.
+sitedata-settings3 =
+    .label = Vacuar datos pro sitos specific
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Gerer exceptiones
+    .accesskey = x
+    .description = Eliger como sitos specific gere tu cookies e le datos de sito.
 cookies-site-data-group =
     .label = Cookies e datos de sitos
 
@@ -2027,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Gerer re-directiones
+    .accesskey = e
+    .searchkeywords = quadros resaltante
+permissions-addon-install-warning3 =
+    .label = Monstrar advertimento quando le sitos web tenta installar extensiones
+    .accesskey = w
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Gere le exceptiones de quadros resaltante e de redirection de tertie partes
     .accesskey = e
@@ -2072,6 +2098,9 @@ permissions-speaker2 =
     .label = Altoparlatores
 permissions-notification2 =
     .label = Notificationes
+permissions-header3 =
+    .label = Permissos
+    .description = Gerer que sitos web pote acceder, controlar, o discatenar.
 
 ## Privacy Section - Data Collection
 
@@ -2146,11 +2175,16 @@ website-advertising-private-attribution-description = Isto adjuta l sitos a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+browsing-protection-group2 =
+    .label = Protection contra contento fraudulente e software periculose
+    .description = Le sitos e le discargamentos periculose pote poner tu datos e tu apparato a risco. { -brand-short-name } automaticamente los bloca, e te adverte re software riscose o indesirate.
 security-browsing-protection = Protection contra contento fraudulente e software periculose
 security-enable-safe-browsing =
     .label = Blocar le contento periculose e fraudulente
     .accesskey = B
 security-enable-safe-browsing-link = Saper plus
+security-safe-browsing-warning =
+    .message = Disactivar lo reduce le protection contra attaccos fraudulente, sitos maligne, e discargamentos periculose.
 security-block-downloads =
     .label = Blocar le discargamentos periculose
     .accesskey = D
@@ -2182,9 +2216,15 @@ space-alert-under-5gb-message2 = <strong>Le spatio de disco disponibile a { -bra
 certs-description2 =
     .label = Certificatos
     .description = Configurar le certificatos que { -brand-short-name } usa pro authentication.
+certs-description3 =
+    .label = Certificatos
+    .description = Configura le certificatos que { -brand-short-name } usa pro verificar connexiones secur.
 certs-view2 =
     .label = Gerer certificatos
     .accesskey = e
+certs-devices2 =
+    .label = Gerer dispositivos de securitate
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 

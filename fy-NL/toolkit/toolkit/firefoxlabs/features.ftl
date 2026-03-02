@@ -80,3 +80,4 @@ experimental-features-semantic-history-search-description = In lokaal Machine Le
 # Tab Notes
 experimental-features-tab-notes =
     .label = Ljepblêdnotysjes
+experimental-features-tab-notes-description = Ljepblêdnotysjes binne in eksperimintele funksje wêrmei’t jo plaknotysjes tafoegje kinne oan jo browserljepblêden. Skriuw kontekst, omtinkens of folgjende stappen, sadat jo werom kinne komme en ûnthâlde wêrom’t jo it iepene hawwe. Wy soene graach jo kommentaar ûntfange, omdat wy dizze funksje ferbetterje bliuwe. <a data-l10n-name="connect">Kommentaar diele</a>
