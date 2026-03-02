@@ -30,7 +30,7 @@ videocontrols-closed-caption-off =
     .offlabel = Diffodd
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
-videocontrols-picture-in-picture-label = Llun mewn Llun
+videocontrols-picture-in-picture-label = Llun-mewn-Llun
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Agor allan y fideo hwn
@@ -44,7 +44,7 @@ videocontrols-error-decode = Nid oedd modd chwarae'r fideo gan fod y ffeil yn ll
 videocontrols-error-src-not-supported = Nid yw'r fformat fideo na'r math MIME yn cael eu cynnal.
 videocontrols-error-no-source = Heb ganfod fideo gyda fformat sy'n cael ei gynnal na math MIME.
 videocontrols-error-generic = Ataliwyd chwarae'r fideo oherwydd gwall anhysbys.
-videocontrols-status-picture-in-picture = Mae'r fideo hwn yn chwarae yn y modd Llun mewn Llun.
+videocontrols-status-picture-in-picture = Mae'r fideo hwn yn chwarae yn y modd Llun-mewn-Llun.
 # This message shows the current position and total video duration
 #
 # Variables:

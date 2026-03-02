@@ -1664,6 +1664,8 @@ history-header2 =
     .heading = Geçmiş
 history-group =
     .label = Geçmiş
+history-remember-option-all2 =
+    .label = Geçmişi hatırla
 
 ## Privacy Section - Site Data
 
@@ -1733,6 +1735,9 @@ sitedata-cookies-exceptions2 =
     .label = İstisnaları yönet
     .accesskey = s
     .description = Hangi sitelerin çerezleri ve site verilerini her zaman kullanabileceğini veya hiçbir zaman kullanamayacağını belirleyebilirsiniz.
+sitedata-settings3 =
+    .label = Belirli sitelerin verilerini temizle
+    .accesskey = s
 cookies-site-data-group =
     .label = Çerezler ve site verileri
 
@@ -2264,6 +2269,8 @@ preferences-doh-status-item-active-local =
     .message = HTTPS üzerinden DNS özelliği yerel { $name } sağlayıcısını kullanıyor
 preferences-doh-select-resolver-label =
     .label = Sağlayıcıyı seçin:
+preferences-doh-custom-provider-label =
+    .aria-label = Özel sağlayıcının adresini girin
 preferences-doh-header2 =
     .heading = HTTPS üzerinden DNS
 
