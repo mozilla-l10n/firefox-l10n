@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantene tu age
 experimental-features-semantic-history-search =
     .label = Recerca chronologic semantic
 experimental-features-semantic-history-search-description = Usa un modello local de apprendimento a machina pro suggerer entratas del chronologia que es pertinente a tu recercas basate sur le comprension del lingua natural in the barra de adresses de { -brand-product-name }. <a data-l10n-name="connect">Da nos tu opinion</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notas sur schedas
+experimental-features-tab-notes-description = Notas sur schedas es un function experimental que te permitte de adder notas collose al schedas de tu navigator. Nos multo placerea tu commentario dum nos continua a meliorar iste functionalitate. <a data-l10n-name="connect">Condivide tu commentario</a>
