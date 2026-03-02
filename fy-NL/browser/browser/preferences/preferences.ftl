@@ -1683,8 +1683,15 @@ history-header2 =
 history-section-header =
     .label = Skiednis
     .description = Kies wat jo { -brand-short-name } ûnthâlde litte wolle as jo de browser ôfslute.
+history-custom-section-header =
+    .label = Avansearre ynstellingen
+    .description = Pas oan wat jo { -brand-short-name } ûnthâlde litte wolle as jo de browser ôfslute.
+history-custom-button =
+    .label = Kies wat jo wolle dat { -brand-short-name } ûnthâldt
 history-group =
     .label = Skiednis
+history-remember-option-all2 =
+    .label = Skiednis ûnthâlde
 
 ## Privacy Section - Site Data
 
@@ -1692,6 +1699,10 @@ sitedata-header = Cookies en websitegegevens
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Grutte fan websitegegevens en buffer berekkenje…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Websites brûke op dit stuit <strong>{ $value } { $unit }</strong> oan skiifromte.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
