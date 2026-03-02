@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Item tafoegje
+storage-delete-all-button =
+    .title = Alles fuortsmite
 # Refresh button title
 storage-refresh-button =
     .title = Items fernije

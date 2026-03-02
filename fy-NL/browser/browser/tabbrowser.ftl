@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Ljepblêd slute
            *[other] { $tabCount } ljepblêden slute
         }
+tab-splitview-splitter =
+    .aria-label = Formaat fan splitste ljepblêdwerjefe wizigje
 
 ## Tooltips for tab audio control
 ## Variables:

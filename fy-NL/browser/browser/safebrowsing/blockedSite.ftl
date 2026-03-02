@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Wêrom waard dizze websit
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> kin keppele wurde oan misliedende en skealike aktiviteit.
 safeb-blocked-addon-page-error-desc3-override = <strong>Wat kinne jo hjir oan dwaan?</strong>
 safeb-blocked-addon-page-error-desc4-override = Om foar te kommen dat dit wer bart, kinne jo <strong>{ $addonName }</strong> út about:addons fuortsmite of útskeakelje.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Mear ynfo oer de beskerming tsjin skealike add-ons fan { -brand-short-name }</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Mear ynfo oer de phishing- en malwarebeskerming fan { -brand-short-name }</a>.

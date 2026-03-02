@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Service Workers
     .alt = Piktogram Service Workers
     .title = Service Workers
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Sesjeskiednis
+    .alt = Piktogram Sesjeskiednis
+    .title = Sesjeskiednis
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Sesjeskiednis toane
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Warskôgingspiktogram
