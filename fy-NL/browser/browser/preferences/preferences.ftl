@@ -2336,6 +2336,34 @@ preferences-doh-status-item-off =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active =
     .message = DNS oer HTTPS wurket net, omdat der in flater ({ $reason }) bard is by it gebrûk fan de provider { $name }.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS oer HTTPS wurket net, omdat wy in ûnjildige URL ûntfongen hawwe ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS oer HTTPS brûkt de provider { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS oer HTTPS wurket net, omdat der in flater ({ $reason }) bard is by it gebrûk fan de lokale provider { $name }.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS oer HTTPS brûkt de lokale provider { $name }
+preferences-doh-select-resolver-label =
+    .label = Kies provider:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Dizze provider brûke foar it oplossen fan DNS oer HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Fier in oanpaste provider-URL yn
+preferences-doh-header2 =
+    .heading = DNS oer HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2404,6 +2432,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } stiet op wacht
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } advisearret wat befeiligingsferbetteringen
+security-privacy-status-ok-label = Ferbettere beskerming tsjin folgjen is ynskeakele
 security-privacy-status-problem-label = Wy hawwe ynstellingen fûn dy’t jo beskerming beynfloedzje
 security-privacy-status-problem-helper-label = Problemen besjen
 security-privacy-status-pending-trackers-label = Opsykje hoefolle trackers { -brand-short-name } de lêste moanne blokkearre hat
@@ -2524,3 +2556,15 @@ security-privacy-issue-warning-popup-blocker =
 security-privacy-issue-warning-extension-install =
     .label = Websites kinne útwreidingen ynstallearje
     .description = Websites kinne sûnder te freegjen útwreidingen yn { -brand-short-name } ynstallearje.
+security-privacy-issue-warning-safe-browsing =
+    .label = Gefaarlike en misliedende ynhâld wurdt net blokkearre
+    .description = Jo kwetsberens foar scams en malware fan websites is ferhege.
+security-privacy-issue-warning-doh =
+    .label = DNS oer HTTPS is útskeakele
+    .description = DNS oer HTTPS ferstoppet foar jo netwurkbehearder hokker websites jo besykje.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello is útskeakele
+    .description = Encrypted Client Hello ferstoppet foar jo netwurkbehearder hokker websites jo besykje.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Automatyske proxykonfiguraasje is ynskeakele
+    .description = Automatyske proxykonfiguraasje kin net-fertroude netwurken jo aktiviteit monitoarje litte.
