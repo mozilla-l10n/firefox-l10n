@@ -1680,6 +1680,9 @@ history-clear-button =
     .accesskey = s
 history-header2 =
     .heading = Historikk
+history-section-header =
+    .label = Historikk
+    .description = Velg hva du vil at { -brand-short-name } skal huske når du lukker nettleseren.
 history-group =
     .label = Historikk
 
