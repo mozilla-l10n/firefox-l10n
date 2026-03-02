@@ -527,9 +527,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Выкарыстоўваць налады аперацыйнай сістэмы для “{ $localeName }” для фармату дат, часу, лічбаў і адзінак вымярэння.
+settings-spellcheck-header =
+    .label = Праверка правапісу
 check-user-spelling =
     .label = Правяраць арфаграфію ў часе набору
     .accesskey = н
+spellcheck-download-dictionaries =
+    .label = Сцягнуць слоўнікі
+spellcheck-promo =
+    .heading = Як карыстацца праверкай правапісу
+    .message = Націсніце правай кнопкай мышы ў тэкставым полі, каб уключыць або выключыць праверку правапісу ці змяніць мову. Не ўсе палі падтрымліваюць праверку правапісу.
 
 ## General Section - Files and Applications
 
@@ -569,9 +576,11 @@ applications-filter =
 applications-type-column =
     .label = Тып змесціва
     .accesskey = Т
+applications-type-heading = Тып змесціва
 applications-action-column =
     .label = Дзеянне
     .accesskey = Д
+applications-action-heading = Дзеянне
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = файл { $extension }
@@ -1642,6 +1651,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ачысціць гісторыю…
     .accesskey = с
+history-header2 =
+    .heading = Гісторыя
 history-group =
     .label = Гісторыя
 
