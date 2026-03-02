@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Perque era iste sito bloc
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> pote esser ligate a activitate fraudulente e malefic.
 safeb-blocked-addon-page-error-desc3-override = <strong>Que pote tu facer pro resolver?</strong>
 safeb-blocked-addon-page-error-desc4-override = Pro stoppar isto de evenir ancora, tu pote remover o disactivar <strong>{ $addonName }</strong> ab about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Discoperi plus re le Protection contra additivos malefic de { -brand-short-name }</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Discoperi le Protection contra fraude e malware de { -brand-short-name }</a>.

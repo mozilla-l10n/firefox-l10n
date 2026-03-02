@@ -2320,11 +2320,36 @@ preferences-doh-overview-off =
     .description = Usar tu resolutor de DNS predefinite.
 preferences-doh-advanced-button =
     .label = Parametros avantiate
+preferences-doh-advanced-section =
+    .label = Configurationes avantiate
+    .description = Le systema de nomines de dominio super HTTPS (DoH) crypta le recercas de sito pro que il es plus ardue pro tu fornitor de internet o alteres vider qual sitos web tu va visitar.
 preferences-doh-manage-exceptions2 =
     .label = Gerer exceptiones
     .accesskey = x
 preferences-doh-status-item-off =
     .message = DNS super HTTPS es inactive
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS sur HTTPS non functiona perque nos incontrava un error ({ $reason }) durante le tentativa de usar le fornitor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS sur HTTPS non functiona perque nos recipeva un URL non valide ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sur HTTPS usa le fornitor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS sur HTTPS non functiona perque nos incontrava un error ({ $reason }) durante le tentativa de usar le fornitor local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS sur HTTPS usa le fornitor local { $name }
 preferences-doh-select-resolver-label =
     .label = Eliger fornitor:
 # Variables:
