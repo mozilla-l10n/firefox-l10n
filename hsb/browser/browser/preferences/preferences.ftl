@@ -2482,6 +2482,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = Standard
+    .description = Sylny, spušćomny škit, kotryž bjez ćežow z najwjace websydłami funguje.
 preferences-etp-level-custom =
     .label = Swójski
     .description = Wubjerće, kotry škit ma so zmóžnić abo znjemóžnić.
@@ -2497,6 +2500,9 @@ preferences-etp-reload-tabs-hint-button =
     .label = Wšě rajtarki znowa začitać
 preferences-etp-rfp-warning-message =
     .message = Wužiwaće Resist Fingerprinting (RFP), kotrež někajke nastajenja za škit přećiwo porstowym ćišćam { -brand-short-name } wuměnja.  To móhło zawinować, zo někotre sydła hižo njefunguja.
+preferences-etp-manage-exceptions-button =
+    .label = Wuwzaća rjadować
+    .description = Rjadujće websydła, hdźež polěpšeny slědowański škit je znjemóžnjeny.
 preferences-etp-customize-header =
     .heading = Slědowanski škit přiměrić
 preferences-etp-reset-standard-button =
