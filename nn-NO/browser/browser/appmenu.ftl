@@ -233,7 +233,7 @@ appmenu-recently-closed-windows =
     .label = Nyleg attlatne vindauge
 # This allows to search through the browser's history.
 appmenu-search-history =
-    .label = Søkjehistorikk
+    .label = Søk i historikken
 
 ## Help panel
 
