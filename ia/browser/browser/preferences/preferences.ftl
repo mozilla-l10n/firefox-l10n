@@ -2315,6 +2315,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Protection predefinite
     .description = Usar DNS secur in regiones ubi illo es disponibile.
+preferences-doh-overview-custom =
+    .label = Personalisate
+    .description = Sempre usar DNS secur con controlo sur tu fornitor e comportamento alternative.
 preferences-doh-overview-off =
     .label = Disactivate
     .description = Usar tu resolutor de DNS predefinite.
@@ -2357,6 +2360,8 @@ preferences-doh-select-resolver-label =
 connection-dns-over-https-url-item =
     .label = { $name }
     .tooltiptext = Usar iste fornitor pro resolver DNS sur HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Insere un URL de fornitor personalisate
 preferences-doh-header2 =
     .heading = DNS super HTTPS
 
@@ -2430,6 +2435,10 @@ preferences-ai-controls-block-confirmation-confirm =
 security-privacy-status-ok-header = { -brand-short-name } es in alerta
 security-privacy-status-ok-label = Protection antitraciamento reinfortiate
 security-privacy-status-problem-helper-label = Vider problemas
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Tu ha le <a data-l10n-name="strict-tracking-protection">protection rigorose</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Tu ha le <a data-l10n-name="custom-tracking-protection">protection personalisate</a>
 security-privacy-status-update-button-label =
     .label = Actualisar { -brand-short-name }
 issue-card-reset-button =
