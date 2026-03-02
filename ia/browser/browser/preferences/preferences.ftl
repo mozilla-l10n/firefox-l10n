@@ -1758,6 +1758,9 @@ sitedata-cookies-exceptions2 =
     .label = Gerer exceptiones
     .accesskey = x
     .description = Tu pote specificar que sitos web es sempre o jammais permittite usar  cookies e datos del sito.
+sitedata-heading =
+    .label = Datos de navigation
+    .description = Gere tu cookies, historia, cache, datos de sitos web, e plus.
 cookies-site-data-group =
     .label = Cookies e datos de sitos
 
