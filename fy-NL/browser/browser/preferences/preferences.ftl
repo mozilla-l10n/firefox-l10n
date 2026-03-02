@@ -1712,11 +1712,17 @@ sitedata-total-size2 = Jo bewarre cookies, websitegegevens en buffer brûke op d
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Jo bewarre cookies, websitegegevens en buffer brûke op dit stuit { $value } { $unit } oan skiifromte.
 sitedata-learn-more = Mear ynfo
+sitedata-delete-on-close2 =
+    .label = Cookies en websitegegevens wiskje hieltyd as jo { -brand-short-name } ôfslute
+    .accesskey = C
 sitedata-delete-on-close =
     .label = Cookies en websitegegevens fuortsmite sa gau as { -brand-short-name } sluten wurdt
     .accesskey = C
 sitedata-delete-on-close-private-browsing3 =
     .message = Op grûn fan jo skiednisynstellingen smyt { -brand-short-name } cookies en websitegegevens út jo sesje fuort as jo de browser slute.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Skiednis wurdt net bewarre.
+    .message = { -brand-short-name } wisket cookies en websitegegevens fan jo sesje as jo de browser ôfslute.
 sitedata-delete-on-close-private-browsing = Yn permaninte priveenavigaasjemodus wurde cookies en websitegegevens altyd wiske sa gau as { -brand-short-name } sluten wurdt.
 sitedata-delete-on-close-private-browsing2 = Op grûn fan jo skiednisynstellingen smyt { -brand-short-name } cookies en websitegegevens út jo sesje fuort as jo de browser slute.
 sitedata-allow-cookies-option =
@@ -1762,6 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Utsûnderingen beheare
     .accesskey = z
     .description = Jo kinne opjaan hokker websites altyd of nea cookies en websitegegevens brûke meie.
+sitedata-heading =
+    .label = Navigaasjegegevens
+    .description = Jo cookies, skiednis, buffer en websitegegevens en mear beheare.
+sitedata-settings3 =
+    .label = Gegevens foar spesifike websites wiskje
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Utsûnderingen beheare
+    .accesskey = g
+    .description = Kies hoe spesifike websites omgean mei cookies en websitegegevens.
 cookies-site-data-group =
     .label = Cookies en websitegegevens
 
@@ -2028,6 +2044,15 @@ permissions-block-popups2 =
     .accesskey = b
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Omliedingen beheare
+    .accesskey = l
+    .searchkeywords = pop-ups,popups
+permissions-addon-install-warning3 =
+    .label = Warskôging toane as websites probearje útwreidingen te ynstallearjen
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Utsûnderingen foar pop-ups en omliedingen fan tredden beheare
     .accesskey = o
@@ -2073,6 +2098,9 @@ permissions-speaker2 =
     .label = Lûdsprekker
 permissions-notification2 =
     .label = Notifikaasjes
+permissions-header3 =
+    .label = Tastimmingen
+    .description = Beheare hokker websites benaderje, oanstjoere of starte kinne.
 
 ## Privacy Section - Data Collection
 
@@ -2147,11 +2175,16 @@ website-advertising-private-attribution-description = Dit helpt websites te begr
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Befeiliging
+browsing-protection-group2 =
+    .label = Beskerming tsjin misliedende ynhâld en gefaarlike programma’s
+    .description = Gefaarlike websites en downloads kinne jo gegevens en apparaat yn gefaar bringe. { -brand-short-name } blokkearret se automatysk, en warskôget jo foar riskante of net-winske software.
 security-browsing-protection = Beskerming tsjin misliedende ynhâld en gefaarlike programma's
 security-enable-safe-browsing =
     .label = Gefaarlike en misliedende ynhâld blokkearje
     .accesskey = G
 security-enable-safe-browsing-link = Mear ynfo
+security-safe-browsing-warning =
+    .message = Troch dit út te skeakeljen, ferminderet de beskerming tsjin oplichting, kwealike websites en gefaarlike downloads.
 security-block-downloads =
     .label = Gefaarlijke downloads blokkearje
     .accesskey = f
@@ -2183,6 +2216,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin ski
 certs-description2 =
     .label = Sertifikaten
     .description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
+certs-description3 =
+    .label = Sertifikaten
+    .description = De sertifikaten, dy’t { -brand-short-name } brûkt om befeilige ferbiningen te ferifiearjen, konfigurearje.
+certs-view2 =
+    .label = Sertifikaten beheare
+    .accesskey = S
+certs-devices2 =
+    .label = Befeiligingsapparaten beheare
+    .accesskey = a
 
 ## Privacy Section - HTTPS-Only
 
@@ -2212,6 +2254,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS oer HTTPS
+dns-over-https-group2 =
+    .label = DNS oer HTTPS
+    .description = Domain Name System oer HTTPS (DoH) fersiferet websitesykopdrachten, dus it is swierder foar jo ynternetprovider of oaren om te sjen hokker websites jo besykje sille.
 preferences-doh-description = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS makke wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 preferences-doh-description2 = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS jûn wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 # Variables:
@@ -2267,6 +2312,30 @@ preferences-doh-exceptions-description = { -brand-short-name } sil gjin befeilig
 preferences-doh-manage-exceptions =
     .label = Utsûndering beheare…
     .accesskey = s
+preferences-doh-overview-default =
+    .label = Standert beskerming
+    .description = Feilige DNS brûke yn regio’s wêr’t dizze beskikber is.
+preferences-doh-overview-custom =
+    .label = Oanpast
+    .description = Altyd feilige DNS brûke mei kontrôle oer jo provider en weromfalgedrach.
+preferences-doh-overview-off =
+    .label = Ut
+    .description = Jo standert-DNS-resolver brûke.
+preferences-doh-advanced-button =
+    .label = Avansearre ynstellingen
+preferences-doh-advanced-section =
+    .label = Avansearre ynstellingen
+    .description = Domain Name System oer HTTPS (DoH) fersiferet websitesykopdrachten, dus it is swierder foar jo ynternetprovider of oaren om te sjen hokker websites jo besykje sille.
+preferences-doh-manage-exceptions2 =
+    .label = Utsûnderingen beheare
+    .accesskey = n
+preferences-doh-status-item-off =
+    .message = DNS oer HTTPS is útskeakele
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS oer HTTPS wurket net, omdat der in flater ({ $reason }) bard is by it gebrûk fan de provider { $name }.
 
 ## The following strings are used in the Download section of settings
 
