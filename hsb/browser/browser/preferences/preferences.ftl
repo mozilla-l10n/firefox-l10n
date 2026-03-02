@@ -2482,6 +2482,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-custom =
+    .label = Swójski
+    .description = Wubjerće, kotry škit ma so zmóžnić abo znjemóžnić.
 preferences-etp-status-advanced-button =
     .label = Rozšěrjene nastajenja
 preferences-etp-header =
@@ -2500,6 +2503,9 @@ preferences-etp-reset-standard-button =
     .label = Na standard wróćo stajić
 preferences-etp-reset-strict-button =
     .label = Na striktny wróćo stajić
+preferences-etp-custom-control-group =
+    .label = Slědowanski škit
+    .description = Wubjerće, kotry škit ma so zmóžnić abo znjemóžnić.
 preferences-etp-custom-cookies-enabled =
     .label = Placki
 preferences-etp-custom-cookie-behavior =
