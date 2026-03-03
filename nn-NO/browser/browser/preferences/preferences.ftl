@@ -2317,6 +2317,10 @@ issue-card-reset-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Avanserte innstillingar
+preferences-etp-header =
+    .heading = Utvida sporingsvern
 preferences-etp-rfp-warning-message =
     .message = Du brukar Resist Fingerprinting (RFP), som erstattar nokre av { -brand-short-name } sine verneinnstillingar for fingeravtrykk. Dette kan føre til at enkelte nettstadar ikkje vil fungere.
 preferences-etp-custom-cookies-enabled =
