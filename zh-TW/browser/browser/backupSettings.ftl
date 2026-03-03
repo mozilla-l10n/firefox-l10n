@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -21,6 +24,10 @@ backup-folder-name = 還原 { -brand-product-name }
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header = 備份
 settings-data-backup-toggle = 管理備份
+settings-data-backup-toggle-on2 =
+    .label = 開啟備份
+settings-data-backup-toggle-off2 =
+    .label = 關閉備份
 settings-data-backup-toggle-on = 開啟備份
 settings-data-backup-toggle-off = 關閉備份
 settings-data-backup-trigger-button = 立即備份
