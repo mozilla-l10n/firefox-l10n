@@ -2337,6 +2337,8 @@ preferences-doh-advanced-section =
 preferences-doh-manage-exceptions2 =
     .label = Wuwzaća rjadować
     .accesskey = u
+preferences-doh-fallback-label =
+    .label = Přeco warnować, jeli wěsty DNS k dispoziciji njeje
 preferences-doh-status-item-off =
     .message = DNS přez HTTPS je znjemóžnjeny
 # Variables:

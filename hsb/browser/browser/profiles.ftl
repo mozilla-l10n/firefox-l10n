@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Waša kopija profila { $profilename } je hotowa za přiměrjenje
 copied-profile-page-header-description = Smy waše daty a nastajenja do noweho profila kopěrowali. Dajće jemu nětko mjeno, wubjerće napohlad a čińće jón k swojemu.
+restored-profile-page-header = Přiměrće swój wobnowjeny profil
+restored-profile-page-header-description = Kóždy profil swoju jónkróćnu přehladowansku historiju a nastajenja wot druhich profilow separatnje chowa. Nimo toho je mócny škit priwatnosće { -brand-short-name } po standardźe zmóžnjeny.
+restored-profile-page-learn-more = Dalše informacije
 profile-window-title-2 = { -brand-short-name } – Profil wubrać
 profile-window-logo =
     .alt = Logo { -brand-short-name }
