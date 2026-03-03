@@ -209,6 +209,11 @@ pdfjs-thumb-page-checkbox1 =
 #   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = בחירת עמוד { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = עמוד { $page } מתוך { $total }
 
 ## Find panel button title and messages
 
@@ -653,6 +658,7 @@ pdfjs-toggle-views-manager-button =
     .title = החלפת תצוגת סרגל צד
 pdfjs-toggle-views-manager-notification-button =
     .title = החלפת תצוגת סרגל צד (מסמך שמכיל תמונות ממוזערות/תוכן עניינים/קבצים מצורפים/שכבות)
+pdfjs-toggle-views-manager-button1-label = ניהול עמודים
 pdfjs-toggle-views-manager-button-label = החלפת תצוגת סרגל צד
 pdfjs-views-manager-sidebar =
     .aria-label = סרגל צד
@@ -717,6 +723,8 @@ pdfjs-views-manager-status-close-button =
     .title = סגירה
 pdfjs-views-manager-status-close-button-label = סגירה
 pdfjs-views-manager-paste-button-label = הדבקה
+pdfjs-toggle-views-manager-button1 =
+    .title = ניהול עמודים
 
 ## Main menu for adding/removing signatures
 
