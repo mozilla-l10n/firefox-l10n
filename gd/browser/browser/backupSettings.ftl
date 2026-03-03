@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -21,6 +24,10 @@ backup-folder-name = Aisig { -brand-product-name }
 backup-file-name = Lethbhreac-glèidhidh dhe { -brand-product-name }
 settings-data-backup-header = Lethbhreac-glèidhidh
 settings-data-backup-toggle = Stiùirich na lethbreacan-glèidhidh
+settings-data-backup-toggle-on2 =
+    .label = Cuir na lethbhreacan-glèidhidh air
+settings-data-backup-toggle-off2 =
+    .label = Cuir na lethbhreacan-glèidhidh dheth
 settings-data-backup-toggle-on = Cuir na lethbhreacan-glèidhidh air
 settings-data-backup-toggle-off = Cuir na lethbhreacan-glèidhidh dheth
 settings-data-backup-trigger-button = Dèan lethbhreac-glèidhidh an-dràsta
@@ -183,3 +190,18 @@ disable-backup-encryption-header = Thoir air falbh an dìon facail-fhaire
 disable-backup-encryption-support-link = Dè thèid lethbhreac-glèidhidh a dhèanamh dheth?
 disable-backup-encryption-cancel-button = Sguir dheth
 disable-backup-encryption-confirm-button = Thoir am facal-faire air falbh
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+

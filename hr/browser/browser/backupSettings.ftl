@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -21,6 +24,10 @@ backup-folder-name = Obnovi { -brand-product-name }
 backup-file-name = Sigurnosna kopija za { -brand-product-name }
 settings-data-backup-header = Sigurnosno kopiranje
 settings-data-backup-toggle = Upravljaj sigurnosnim kopijama
+settings-data-backup-toggle-on2 =
+    .label = Uključi sigurnosno kopiranje
+settings-data-backup-toggle-off2 =
+    .label = Isključi sigurnosno kopiranje
 settings-data-backup-toggle-on = Uključi sigurnosno kopiranje
 settings-data-backup-toggle-off = Isključi sigurnosno kopiranje
 settings-data-backup-trigger-button = Izradi sigurnosnu kopiju sada

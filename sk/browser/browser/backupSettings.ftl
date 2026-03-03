@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -21,6 +24,10 @@ backup-folder-name = Obnovenie { -brand-product-name(case: "gen") }
 backup-file-name = Zaloha{ -brand-product-name(case: "gen") }
 settings-data-backup-header = Záloha
 settings-data-backup-toggle = Spravovať zálohovanie
+settings-data-backup-toggle-on2 =
+    .label = Zapnúť zálohovanie
+settings-data-backup-toggle-off2 =
+    .label = Vypnúť zálohovanie
 settings-data-backup-toggle-on = Zapnúť zálohovanie
 settings-data-backup-toggle-off = Vypnúť zálohovanie
 settings-data-backup-trigger-button = Zálohovať teraz
