@@ -2180,11 +2180,16 @@ website-advertising-private-attribution-description = To websedłam pomaga rozm�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Wěstota
+browsing-protection-group2 =
+    .label = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
+    .description = Tšašne sedła a ześěgnjenja mógu waše daty a rěd do tšacha pśinjasć. { -brand-short-name } je awtomatiski blokěrujo a warnujo was pśed riskantneju abo njewitaneju software.
 security-browsing-protection = Šćit pśed wobšudnym wopśimjeśim a tšašneju softwaru
 security-enable-safe-browsing =
     .label = Tšašne a wobšudnikojske wopśimjeśe blokěrowaś
     .accesskey = T
 security-enable-safe-browsing-link = Dalšne informacije
+security-safe-browsing-warning =
+    .message = Gaž to znjemóžnjaśo, se šćit pśeśiwo wobšuźe, złosnym sedłam a tšašnym ześěgnjenjam reducěrujo.
 security-block-downloads =
     .label = Tšašne ześěgnjenja blokěrowaś
     .accesskey = z
@@ -2312,11 +2317,20 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Standardny šćit
     .description = Wužywajśo wěsty DNS w regionach, źož njejo k dispoziciji.
+preferences-doh-overview-custom =
+    .label = Swójski
+    .description = Wužywajśo pśecej wěsty DNS z kontrolu nad wašym póbitowarjom a wóspjetnym zaźaržanim.
+preferences-doh-overview-off =
+    .label = Znjemóžnjony
+    .description = Wužywajśo swój standardny resolver DNS.
 preferences-doh-advanced-button =
     .label = Rozšyrjone nastajenja
 preferences-doh-manage-exceptions2 =
     .label = Wuwześa zastojaś
     .accesskey = u
+preferences-doh-radio-default =
+    .label = Standard
+    .description = Wužywajśo wěsty DNS w regionach, źož jo k dispoziciji.
 preferences-doh-status-item-off =
     .message = DNS pśez HTTPS jo znjemóžnjony
 # Variables:
@@ -2329,6 +2343,8 @@ preferences-doh-status-item-active-local =
     .message = DNS pśez HTTPS lokalnego póbitowarja { $name } wužywa
 preferences-doh-select-resolver-label =
     .label = Wubjeŕśo póbitowarja:
+preferences-doh-custom-provider-label =
+    .aria-label = Zapódajśo swójski URL póbitowarja
 preferences-doh-header2 =
     .heading = DNS pśez HTTPS
 
@@ -2400,10 +2416,21 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } stražujo
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } někotare wěstotne pólěpšenja pórucujo
 security-privacy-status-ok-label = Pólěpšony slědowański šćit jo zmóžnjony
 security-privacy-status-problem-label = Njejsmy nastajenja namakali, kótarež waš šćit wobwliwuju
 security-privacy-status-problem-helper-label = Problemy pokazaś
+security-privacy-status-pending-trackers-label = Glědaś, kak wjele pśeslědowakow jo { -brand-short-name } w slědnem mjasecu blokěrował
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Maśo <a data-l10n-name="strict-tracking-protection">striktny šćit</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Maśo <a data-l10n-name="custom-tracking-protection">swójski šćit</a>
+security-privacy-status-up-to-date-label = Sćo nejnowšu, nejwěsćejšu wersiju { -brand-short-name } dostał
 security-privacy-status-update-needed-label = Nowa wersija { -brand-short-name } jo k dispoziciji.
+security-privacy-status-update-error-label = { -brand-short-name } ma problemy z aktualizaciju
+security-privacy-status-update-checking-label = { -brand-short-name } aktualizacije pyta
+security-privacy-status-update-needed-description = Aktualizěrujśo, aby nejnowše aktualizacije za malsnosć, stabilnosć a wěstotu dostał.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } aktualizěrowaś
 security-privacy-issue-card =

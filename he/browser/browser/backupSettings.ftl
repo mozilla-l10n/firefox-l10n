@@ -22,6 +22,9 @@ backup-folder-name = שחזור { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
+settings-data-backup-header2 =
+    .label = גיבוי
+    .description = הגנה אוטומטית על הסימניות, ההיסטוריה ושאר הנתונים שלך.
 settings-data-backup-header = גיבוי
 settings-data-backup-toggle = ניהול גיבוי
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = גיבוי: פעיל
 settings-data-backup-scheduled-backups-off = גיבוי: כבוי
 settings-data-backup-scheduled-backups-description = הגנה אוטומטית על הסימניות, ההיסטוריה ושאר הנתונים שלך. <a data-l10n-name="support-link">מידע נוסף</a>
 settings-data-backup-last-backup-date = גיבוי אחרון: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = הגיבוי פעיל
+settings-data-backup-scheduled-backups-off2 =
+    .label = הגיבוי כבוי
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = מיקום הגיבוי
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = מיקום
 settings-data-backup-last-backup-location-show-in-folder = הצגה בתיקייה
 settings-data-backup-last-backup-location-edit = עריכה…
 settings-data-create-backup-error = אירעה שגיאה ביצירת הגיבוי שלך ב־{ DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = גיבוי הססמאות ואמצעי התשלום שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
+settings-data-toggle-encryption-label2 =
+    .label = גיבוי הנתונים הרגישים שלך
+    .description = גיבוי הססמאות ואמצעי התשלום שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = שם הקובץ: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = שחזור הנתונים שלך
+    .description = ניתן לשחזר את הנתונים של ה־{ -brand-product-name } שלך מהפעם האחרונה שהם גובו.
+settings-data-backup-restore-scheduled-off =
+    .label = שחזור הנתונים שלך
+    .description = ניתן להשתמש בגיבוי של { -brand-product-name } ממכשיר אחר כדי לשחזר את הנתונים שלך.
 settings-data-backup-restore-header = שחזור הנתונים שלך
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = בחירת קובץ 
 
 settings-data-backup-scheduled-backups-on-restore-description = ניתן לשחזר את הנתונים של ה־{ -brand-product-name } שלך מהפעם האחרונה שהם גובו.
 settings-data-backup-scheduled-backups-on-restore-choose = שחזור…
+settings-sensitive-data =
+    .label = נתונים רגישים
 settings-data-toggle-encryption-label = גיבוי הנתונים הרגישים שלך
 settings-data-toggle-encryption-support-link = מידע נוסף
+settings-data-change-password2 =
+    .label = שינוי ססמה
 settings-data-change-password = שינוי ססמה…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = כיבוי ומחיקת הגיבוי
 restore-from-backup-header = שחזור הנתונים שלך
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = מה ישוחזר?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = פעולה זו תחליף את הנתונים של ה־{ -brand-short-name } שלך עם הגיבוי שלך מ־{ DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +145,13 @@ restore-from-backup-password-description = הססמה פותחת את הגיבו
 restore-from-backup-cancel-button = ביטול
 restore-from-backup-confirm-button = שחזור והפעלה מחדש
 restore-from-backup-restoring-button = בתהליך שחזור…
+restore-from-backup-type-group-label =
+    .label = להחליף את הפרופיל הנוכחי?
+restore-from-backup-type-replace =
+    .label = החלפת כל הנתונים בגיבוי זה
+restore-from-backup-type-add =
+    .label = שמירת הנתונים ויצירת פרופיל חדש
+restore-from-backup-profiles-disabled-message = פעולה זו תחליף את כל הנתונים הנוכחיים שלך ב־{ -brand-short-name } בגיבוי שלך.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -244,6 +277,15 @@ other-backup-files-founds =
         [one] <b>הערה:</b> נמצא קובץ גיבוי אחד נוסף
        *[other] <b>הערה:</b> נמצאו { $numberOfOtherBackupsFound } קובצי גיבוי נוספים
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = שוחזר מ־{ $deviceName } ב־{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

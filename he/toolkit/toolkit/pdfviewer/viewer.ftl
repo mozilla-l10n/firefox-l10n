@@ -203,6 +203,10 @@ pdfjs-thumb-page-canvas =
     .aria-label = תצוגה מקדימה של עמוד { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = בחירת עמוד { $page }
+# Variables:
+#   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = בחירת עמוד { $page }
 

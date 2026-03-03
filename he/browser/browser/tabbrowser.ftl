@@ -409,6 +409,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = הפרדת התצוגה המפוצלת
     .accesskey = מ
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = היפוך סדר הלשוניות
+    .accesskey = ך
 tab-context-badge-new = חדש
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
