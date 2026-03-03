@@ -411,6 +411,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separate Split View
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Reverse Tabs
+    .accesskey = R
 tab-context-badge-new = New
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
