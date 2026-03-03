@@ -2482,6 +2482,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Polěpšeny slědowanski škit
+    .description = Sydła přesćěhowaki wužiwaja, kotrež wam online slěduja a žałostne wabjenje pokazać. { -brand-short-name } was škita, hdyž přehladujeće a blokuje přesćěhowaki awtomatisce, zo byšće kontrolu nad swojimi dogotalnymi slědami měł.
 preferences-etp-level-standard =
     .label = Standard
     .description = Sylny, spušćomny škit, kotryž bjez ćežow z najwjace websydłami funguje.
