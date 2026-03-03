@@ -20,8 +20,8 @@ about-reader-color-sepia-theme = Sepia
     .title = Sepia theme
 about-reader-color-auto-theme = Auto
     .title = Auto theme
-about-reader-color-gray-theme = Gray
-    .title = Gray theme
+about-reader-color-gray-theme = Grey
+    .title = Grey theme
 about-reader-color-contrast-theme = Contrast
     .title = Contrast theme
 # An estimate for how long it takes to read an article,

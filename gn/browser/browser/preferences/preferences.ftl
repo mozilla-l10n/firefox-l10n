@@ -2251,6 +2251,12 @@ preferences-doh-exceptions-description = { -brand-short-name } ndoiporumo’ãi 
 preferences-doh-manage-exceptions =
     .label = Eñangareko oĩ’ỹva…
     .accesskey = x
+preferences-doh-advanced-button =
+    .label = Ñemoĩporã opapotáva
+preferences-doh-status-item-off =
+    .message = DNS HTTPS rehegua ojepe’a
+preferences-doh-select-resolver-label =
+    .label = Eiporavo me’ẽha:
 
 ## The following strings are used in the Download section of settings
 
@@ -2327,7 +2333,19 @@ issue-card-dismiss-button =
 
 preferences-etp-status-advanced-button =
     .label = Ñemboheko opapotáva
+preferences-etp-reload-tabs-hint-button =
+    .label = Emyanyhẽpaite tendayke
+preferences-etp-reset-strict-button =
+    .label = Emoĩjey oĩhápe
 preferences-etp-custom-cookies-enabled =
     .label = Kookie
 preferences-etp-custom-cookie-behavior =
     .aria-label = Kookie
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Emoneĩmbaite kookieita
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Tetepy rapykuehoha
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Tetepy rapykuehoha
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Criptominero
