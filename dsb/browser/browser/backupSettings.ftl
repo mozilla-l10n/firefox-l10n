@@ -38,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Zawěsćenje: ZAŠALTOWANE
 settings-data-backup-scheduled-backups-off = Zawěsćenje: WUŠALTOWANE
 settings-data-backup-scheduled-backups-description = Šćitajśo awtomatiski swóje cytańske znamjenja, historiju a druge daty. <a data-l10n-name="support-link">Dalšne informacije</a>
 settings-data-backup-last-backup-date = Slědne zawěsćenje: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Zawěsćenje jo ZAŠALTOWANE
+settings-data-backup-scheduled-backups-off2 =
+    .label = Zawěsćenje jo WUŠALTOWANE
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Městno zawěsćenja
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Městno
 settings-data-backup-last-backup-location-show-in-folder = W zarědniku pokazaś
@@ -58,8 +65,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Zawěsćeńsku dataj
 
 settings-data-backup-scheduled-backups-on-restore-description = Wótnowśo daty { -brand-product-name } wót slědnego raza, gaž su se zawěsćili.
 settings-data-backup-scheduled-backups-on-restore-choose = Wótnowiś…
+settings-sensitive-data =
+    .label = Sensibelne daty
 settings-data-toggle-encryption-label = Zawěsććo swóje sensibelne daty
 settings-data-toggle-encryption-support-link = Dalšne informacije
+settings-data-change-password2 =
+    .label = Gronidło změniś
 settings-data-change-password = Gronidło změniś…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +113,9 @@ turn-off-scheduled-backups-confirm-button = Zawěsćenje znjemóžniś a wulašo
 restore-from-backup-header = Waše daty wótnowiś
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Co se wótnowijo?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = To waše aktualne daty { -brand-short-name } z wašym zawěsćenim wót { DATETIME($date, timeStyle: "short", dateStyle: "short") } wuměnijo.
 restore-from-backup-support-link =
@@ -119,6 +133,13 @@ restore-from-backup-password-description = To wašo skoděrowane zawěsćenje w�
 restore-from-backup-cancel-button = Pśetergnuś
 restore-from-backup-confirm-button = Wótnowiś a znowego startowaś
 restore-from-backup-restoring-button = Wótnowja se…
+restore-from-backup-type-group-label =
+    .label = Aktualny profil wuměniś?
+restore-from-backup-type-replace =
+    .label = Wšykne daty z toś tym zawěsćenim wuměniś
+restore-from-backup-type-add =
+    .label = Daty wobchowaś a nowy profil załožyś
+restore-from-backup-profiles-disabled-message = To wšykne waše aktualne daty { -brand-short-name } z wašym zawěsćenim wuměnijo.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -246,6 +267,15 @@ other-backup-files-founds =
         [few] <b>Glědajśo:</b> { $numberOfOtherBackupsFound } druge zawěsćeńske dataje namakane
        *[other] <b>Glědajśo:</b> { $numberOfOtherBackupsFound } druge zawěsćeńske dataje namakane
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Napórany dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Wótnowjony z { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
