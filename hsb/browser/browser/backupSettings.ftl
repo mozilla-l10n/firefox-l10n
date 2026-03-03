@@ -38,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Zawěsćenje: ZAPINJENE
 settings-data-backup-scheduled-backups-off = Zawěsćenje: WUPINJENE
 settings-data-backup-scheduled-backups-description = Škitajće awtomatisce swoje zapołožki, historiju a druhe daty. <a data-l10n-name="support-link">Dalše informacije</a>
 settings-data-backup-last-backup-date = Poslednje zawěsćenje: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Zawěsćenje je ZAPINJENE
+settings-data-backup-scheduled-backups-off2 =
+    .label = Zawěsćenje je WUPINJENE
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Městno zawěsćenja
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Městno
 settings-data-backup-last-backup-location-show-in-folder = W rjadowaku pokazać
@@ -128,6 +135,11 @@ restore-from-backup-confirm-button = Wobnowić a znowa startować
 restore-from-backup-restoring-button = Wobnowja so…
 restore-from-backup-type-group-label =
     .label = Aktualny profil wuměnić?
+restore-from-backup-type-replace =
+    .label = Wšě daty z tutym zawěsćenjom wuměnić
+restore-from-backup-type-add =
+    .label = Daty wobchować a nowy profil załožić
+restore-from-backup-profiles-disabled-message = To wšě waše aktualne daty { -brand-short-name } z wašim zawěsćenjom wuměni.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -260,6 +272,10 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-metadata = { $profileName } Wutworjeny dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Wobnowjeny z { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
