@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -21,6 +24,10 @@ backup-folder-name = Pulihkan { -brand-product-name }
 backup-file-name = { -brand-product-name }Cadangan
 settings-data-backup-header = Cadangan
 settings-data-backup-toggle = Kelola cadangan
+settings-data-backup-toggle-on2 =
+    .label = Aktifkan pencadangan
+settings-data-backup-toggle-off2 =
+    .label = Matikan pencadangan
 settings-data-backup-toggle-on = Aktifkan pencadangan
 settings-data-backup-toggle-off = Matikan pencadangan
 settings-data-backup-trigger-button = Cadangkan sekarang
@@ -133,3 +140,30 @@ backup-service-error-corrupt-file =
 backup-service-error-unsupported-version =
     .heading = Berkas ini tidak berfungsi
     .message = Berkas yang Anda pilih tidak kompatibel dengan versi { -brand-short-name } ini. Pilih berkas lain dan coba lagi.
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
