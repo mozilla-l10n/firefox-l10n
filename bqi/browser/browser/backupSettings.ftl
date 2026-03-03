@@ -105,10 +105,6 @@ restore-from-backup-cancel-button = لقو
 restore-from-backup-confirm-button = وورگندن وو ره وندن دووارته
 restore-from-backup-restoring-button = هونی اوورگنه…
 
-## These strings are displayed in a small error message bar in the settings
-## menu if there was an error when trying to restore a backed up profile
-
-
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-header = ز داده یل هساس خوتووݩ لادراری بگیرین
@@ -140,10 +136,6 @@ password-rules-a11y-warning =
 disable-backup-encryption-support-link = ز چ چیایی لادراری گرؽڌه ابۊ؟
 disable-backup-encryption-cancel-button = لقو
 disable-backup-encryption-confirm-button = پاک کردن رزم
-
-## These strings are used to tell users when errors occur when using
-## the backup system
-
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file

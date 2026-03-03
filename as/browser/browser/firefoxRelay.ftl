@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name }-এ নতুন মাস্কৰ সৃষ্টি কৰিব নোৱাৰিলে। HTTP-সংক্ৰান্তীয় ত্ৰুটিৰ ক’ড: { $status }।
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name }-এ পুনৰ্ব্যৱহাৰ্য মাস্ক বিচাৰিব নোৱাৰিলে। HTTP-সংক্ৰান্তীয় ত্ৰুটিৰ ক’ড: { $status }।
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ব্যৱহাৰ কৰিবলৈ আপুনি { -fxaccount-brand-name }-ত লগিন কৰিবই লাগিব।
 firefox-relay-must-login-to-account = আপোনাৰ { -relay-brand-name }-ৰ ইমেইল মাস্কবোৰ ব্যৱহাৰ কৰিবলৈ আপোনাৰ একাউণ্টত ছাইন ইন কৰক।

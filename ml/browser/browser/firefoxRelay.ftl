@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The "control" variation of the Relay offer popup
-
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ഉപയോഗിക്കാൻ വേണ്ടി താങ്ങൾക്കു് { -fxaccount-brand-name }-ലേക്കു് പ്രവേശിക്കേണ്ടിവരും.
 firefox-relay-must-login-to-account = { -relay-brand-name } ഇതപാൽ പൊയ്മുഖം ഉപയോഗിക്കാൻ വേണ്ടി താങ്ങളുടെ അക്കൗണ്ടിലോട്ടു് പ്രവേശിക്കുക
 firefox-relay-get-unlimited-masks =

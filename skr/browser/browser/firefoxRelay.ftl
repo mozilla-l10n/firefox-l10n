@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } نواں ماسک نئیں بݨا سڳیا۔ HTTP نقص دا کوڈ: { $status }۔
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } کوں دوبارہ قابل استعمال ماسک نئیں مل سڳئے۔ HTTP نقص دا کوڈ: { $status }۔
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } استعمال کرݨ کیتے تہاکوں { -fxaccount-brand-name } وِچ لاگ ان کرݨا پوسے۔
 firefox-relay-must-login-to-account = آپݨے { -relay-brand-name } ای میل ماسکس ورتݨ کِیتے آپݨے اکاؤنٹ وِچ سائن ان تھیوو۔

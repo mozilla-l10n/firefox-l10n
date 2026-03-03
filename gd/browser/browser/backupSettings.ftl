@@ -190,18 +190,3 @@ disable-backup-encryption-header = Thoir air falbh an dìon facail-fhaire
 disable-backup-encryption-support-link = Dè thèid lethbhreac-glèidhidh a dhèanamh dheth?
 disable-backup-encryption-cancel-button = Sguir dheth
 disable-backup-encryption-confirm-button = Thoir am facal-faire air falbh
-
-## These strings are used to tell users when errors occur when using
-## the backup system
-
-
-## These strings are inserted into the generated single-file backup archive.
-## The single-file backup archive is a specially-crafted, static HTML file
-## that is placed within a user specified directory (the Documents folder by
-## default) within a folder labelled with the "backup-folder-name" string.
-
-
-## These strings are used in the about:restore and about:welcome pages
-## These pages guide the user on browser startup to help them restore a backup
-## if they have one on their file system.
-

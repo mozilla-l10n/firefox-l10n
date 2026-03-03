@@ -43,9 +43,6 @@ settings-data-create-backup-error = Възникна грешка при съз�
 settings-data-backup-last-backup-filename = Име на файл: { $fileName }
 settings-data-backup-restore-header = Възстановяване на вашите данни
 
-## These strings are shown under the header if scheduled backups are disabled.
-
-
 ## These strings are shown under the header if scheduled backups are enabled.
 
 settings-data-backup-scheduled-backups-on-restore-choose = Възстановяване…
@@ -84,10 +81,6 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Парола
 restore-from-backup-cancel-button = Отказ
 
-## These strings are displayed in a small error message bar in the settings
-## menu if there was an error when trying to restore a backed up profile
-
-
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-support-link = Научете повече
@@ -116,16 +109,6 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Премахване на защитата с парола
-
-## These strings are used to tell users when errors occur when using
-## the backup system
-
-
-## These strings are inserted into the generated single-file backup archive.
-## The single-file backup archive is a specially-crafted, static HTML file
-## that is placed within a user specified directory (the Documents folder by
-## default) within a folder labelled with the "backup-folder-name" string.
-
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup

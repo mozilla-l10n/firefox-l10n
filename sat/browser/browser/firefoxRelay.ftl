@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ᱫᱚ ᱱᱟᱶᱟ ᱢᱟᱥᱠ ᱫᱚ ᱵᱟᱭ ᱛᱮᱭᱟᱨ ᱫᱟᱲᱮᱭᱟᱫᱟᱭ ᱾ HTTP ᱵᱷᱩᱞ ᱠᱳᱰ : { $status } ᱾
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ᱫᱩᱦᱲᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱟᱥᱠ ᱫᱚ ᱵᱟᱝ ᱯᱟᱱᱛᱮ ᱫᱟᱲᱮᱭᱟᱫ ᱟᱭ ᱾ HTTP  ᱵᱷᱩᱞ ᱠᱳᱰ : { $status } ᱾
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ { -fxaccount-brand-name } ᱨᱮ ᱵᱚᱞᱚ ᱛᱟᱦᱮᱸ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 firefox-relay-must-login-to-account = ᱟᱢᱟᱜ ᱤᱢᱟᱞ ᱩᱠᱩ { -relay-brand-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾

@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } nu a putut genera o mască nouă. Eroare HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nu a găsit o mască reutilizabilă. Eroare HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Trebuie să te autentifici în { -fxaccount-brand-name } ca să folosești { -relay-brand-name }.
 firefox-relay-must-login-to-account = Intră în cont ca să folosești măștile de e-mail { -relay-brand-name }.

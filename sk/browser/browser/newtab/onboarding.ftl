@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Obnoviť zo zálohy
 restore-from-backup-title = Vráťme { -brand-short-name(case: "acc") } späť tak, ako sa vám páči
 restore-from-backup-subtitle = Obnovte všetky svoje záložky, históriu a ďalšie údaje, aby ste sa mohli vrátiť k prehliadaniu.
 restore-from-backup-secondary-button = Neobnovovať
+multiple-backups-info-tile = <strong>Nájdených viacero záložných súborov.</strong> Je vybratý najnovší súbor. Ďalšie profily obnovíte v <a data-l10n-name="settings-label">Nastaveniach</a>.
 
 ## Restored from Backup spotlight
 

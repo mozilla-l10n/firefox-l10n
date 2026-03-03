@@ -107,10 +107,6 @@ disable-backup-encryption-header = លុបការការពារពាក
 disable-backup-encryption-cancel-button = បោះបង់
 disable-backup-encryption-confirm-button = លុបពាក្យសម្ងាត់
 
-## These strings are used to tell users when errors occur when using
-## the backup system
-
-
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
 ## that is placed within a user specified directory (the Documents folder by

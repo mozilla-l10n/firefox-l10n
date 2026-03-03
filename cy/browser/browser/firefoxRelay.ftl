@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = Nid oedd modd i { -relay-brand-name } gynhyrchu arallenwnewydd. Cod gwall HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = Nid oedd modd i { -relay-brand-name } ddod o hyd i arallenwau y mae modd eu hailddefnyddio. Cod gwall HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Rhaid mewngofnodi i { -fxaccount-brand-name } er mwyn defnyddio { -relay-brand-name }.
 firefox-relay-must-login-to-account = Mewngofnodwch i'ch cyfrif i ddefnyddio'ch arallenwau e-bost { -relay-brand-name }.

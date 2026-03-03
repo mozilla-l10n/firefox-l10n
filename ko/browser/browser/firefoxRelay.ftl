@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name }가 새 가리기를 생성할 수 없습니다. HTTP 오류 코드: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name }가 재사용 가능한 가리기를 찾을 수 없습니다. HTTP 오류 코드: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name }를 사용하려면 { -fxaccount-brand-name }에 로그인해야 합니다.
 firefox-relay-must-login-to-account = { -relay-brand-name } 이메일 가리기를 사용하려면 계정에 로그인하세요.

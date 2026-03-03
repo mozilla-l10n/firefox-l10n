@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 settings-data-backup-header = پشتیبان‌گیری
 settings-data-backup-toggle = مدیریت پشتیبان‌گیری
 settings-data-backup-scheduled-backups-on = پشتیبان‌گیری: روشن

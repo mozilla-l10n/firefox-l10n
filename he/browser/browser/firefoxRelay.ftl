@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = ‏{ -relay-brand-name } לא הצליח לייצר מסכה חדשה. קוד שגיאה HTTP: ‏{ $status }.
 firefox-relay-get-reusable-masks-failed = ‏{ -relay-brand-name } לא הצליח למצוא מסכות הניתנות לשימוש חוזר. קוד שגיאה HTTP: ‏{ $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = עליך להתחבר אל { -fxaccount-brand-name } כדי להשתמש ב־{ -relay-brand-name }.
 firefox-relay-must-login-to-account = יש להיכנס לחשבון שלך כדי להשתמש במסכות הדוא״ל שלך ב־{ -relay-brand-name }.

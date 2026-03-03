@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } gat ekki búið til nýja tölvupósthulu. HTTP-villukóði: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } fann ekki neinar endurnýtanlegar tölvupósthulur. HTTP-villukóði: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Þú verður að skrá þig inn á { -fxaccount-brand-name } til að nota { -relay-brand-name }.
 firefox-relay-must-login-to-account = Skráðu þig inn á reikninginn þinn til að nota { -relay-brand-name } tölvupósthulurnar þínar.

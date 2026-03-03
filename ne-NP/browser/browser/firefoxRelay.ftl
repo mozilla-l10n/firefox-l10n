@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ले नयाँ मास्क उत्पन्न गर्न सकेन। HTTP त्रुटि कोड: { $status }।
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ले पुन: प्रयोग योग्य मास्क फेला पार्न सकेन। HTTP त्रुटि कोड: { $status }।
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } प्रयोग गर्नको लागि तपाईंले { -fxaccount-brand-name } मा लग इन गर्नुपर्छ।
 firefox-relay-must-login-to-account = आफ्नो { -relay-brand-name } इमेल मास्क प्रयोग गर्न आफ्नो खातामा साइन इन गर्नुहोस्।

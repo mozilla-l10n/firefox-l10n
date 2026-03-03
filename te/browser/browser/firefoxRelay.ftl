@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The "control" variation of the Relay offer popup
-
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = మీ ఈమెయిలు చిరునామాను సంరక్షించుకోండి:
 # This is preceded by firefox-relay-opt-in-title-a (on a different line)

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The "control" variation of the Relay offer popup
-
 firefox-relay-must-login-to-account = ඔබගේ { -relay-brand-name } වි-තැපැල් වැස්ම භාවිතයට ඔබගේ ගිණුමට පිවිසෙන්න.
 firefox-relay-get-unlimited-masks =
     .label = වැසුම් කළමනාකරණය

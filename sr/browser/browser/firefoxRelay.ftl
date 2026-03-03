@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = Није могуће направити нову { -relay-brand-name } маску. Код HTTP грешке: { $status }.
 firefox-relay-get-reusable-masks-failed = Није могуће пронаћи { -relay-brand-name } вишекратне маске. Код HTTP грешке: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Морате да се пријавите на { -fxaccount-brand-name(case: "acc") } да бисте користили { -relay-brand-name(case: "acc") }.
 firefox-relay-must-login-to-account = Пријавите се у ваш налог да користите { -relay-brand-name } маске е-поште.

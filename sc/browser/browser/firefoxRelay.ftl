@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } no at pòdidu generare un’alias nou. Faddina de su còdighe HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } no at agatadu nissunu alias de torrare a impreare. Còdighe de sa faddina HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Depes atzedere a { -fxaccount-brand-name } pro impreare { -relay-brand-name }.
 firefox-relay-must-login-to-account = Intra in su contu tuo pro impreare is alias tuos de posta eletrònica de { -relay-brand-name }.

@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = لم يتمكن { -relay-brand-name } من إنشاء قناع جديد. رمز خطأ HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = تعذر على { -relay-brand-name } إيجاد أقنعة قابلة لإعادة الاستخدام. رمز خطأ HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = يجب عليك الولوج إلى { -fxaccount-brand-name } لتستخدم { -relay-brand-name }.
 firefox-relay-must-login-to-account = قم بالولوج لحسابك لاستخدام أقنعة البريد الإلكتروني الخاصة بك { -relay-brand-name }.

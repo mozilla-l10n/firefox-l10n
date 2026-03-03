@@ -10,7 +10,7 @@
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } نتوانست پوشانه جدیدی ایجاد کند. کد خطای HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = شما باید به { -fxaccount-brand-name } وارد شوید تا بتوانید از { -relay-brand-name } استفاده کنید.
 firefox-relay-must-login-to-account = برای استفاده از پوشانهٔ رایانامهٔ { -relay-brand-name } به حساب کاربری خود وارد شوید.

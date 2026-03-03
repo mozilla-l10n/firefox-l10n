@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } ne povis krei novan retpoŝtan maskon. Eraro HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ne povis trovi reuzeblajn retpoŝtajn maskojn. Eraro HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Vi devas komenci seancon en { -fxaccount-brand-name } por povi uzi { -relay-brand-name }.
 firefox-relay-must-login-to-account = Komenu seancon en via konto por uzi viajn retpoŝtajn maskojn de { -relay-brand-name }.

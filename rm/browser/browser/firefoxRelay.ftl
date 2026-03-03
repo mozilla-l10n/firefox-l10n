@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } n'ha betg pudì generar in nov alias. Code d'errur HTTP: { $status }.
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n'ha chattà nagins alias reutilisabels. Code d'errur HTTP: { $status }.
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = Ti stos t'annunziar en il { -fxaccount-brand-name } per pudair utilisar { -relay-brand-name }.
 firefox-relay-must-login-to-account = T'annunzia en tes conto per utilisar tes alias dad e-mail da { -relay-brand-name }.

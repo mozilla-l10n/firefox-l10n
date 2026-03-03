@@ -5,3 +5,7 @@
 opentabs-page-title = Vyberte kartu, ktorú chcete pridať do rozdeleného zobrazenia
 opentabs-search-text-box =
     .placeholder = Hľadať v kartách
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Výsledky vyhľadávania pre “{ $query }”

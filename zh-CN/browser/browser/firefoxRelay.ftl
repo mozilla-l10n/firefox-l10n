@@ -11,7 +11,7 @@
 firefox-relay-mask-generation-failed = { -relay-brand-name } 无法生成新马甲。 HTTP 错误代码：{ $status }。
 firefox-relay-get-reusable-masks-failed = { -relay-brand-name } 无法找到可重复使用的马甲。HTTP 错误代码：{ $status }。
 
-## The "control" variation of the Relay offer popup
+##
 
 firefox-relay-must-login-to-fxa = 您须登录 { -fxaccount-brand-name }才能使用 { -relay-brand-name }。
 firefox-relay-must-login-to-account = 登录账户以使用您的 { -relay-brand-name } 马甲邮箱。
