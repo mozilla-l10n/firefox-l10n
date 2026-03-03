@@ -2102,6 +2102,9 @@ permissions-speaker2 =
     .label = Reproduktor
 permissions-notification2 =
     .label = Upozornenia
+permissions-header3 =
+    .label = Oprávnenia
+    .description = Spravujte, k čomu môžu webové stránky pristupovať, čo môžu ovládať alebo čo môžu spúšťať.
 
 ## Privacy Section - Data Collection
 
@@ -2116,6 +2119,8 @@ collection-description = Keď sa jedná o údaje, dávame vám vždy na výber. 
 collection-privacy-notice = Vyhlásenie o ochrane osobných údajov
 collection-health-report-telemetry-disabled = Odosielanie technických údajov a údajov o interakciách spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
 collection-health-report-telemetry-disabled-link = Ďalšie informácie
+backup-multi-profile-warning-message =
+    .message = Ak chcete zabezpečiť, aby sa táto zmena zahrnula do vašich záloh, otvorte každý profil a v Nastaveniach vyberte možnosť “Zálohovať teraz”.
 collection-usage-ping =
     .label = Odosielať ping denného používania { -vendor-short-name(case: "gen") }
     .accesskey = l
@@ -2176,11 +2181,16 @@ website-advertising-private-attribution-description = Toto pomáha webom pochopi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpečnosť
+browsing-protection-group2 =
+    .label = Ochrana pred podvodným obsahom a nebezpečným softvérom
+    .description = Nebezpečné stránky a stiahnuté súbory môžu ohroziť vaše dáta a zariadenie. { -brand-short-name } ich automaticky blokuje a upozorňuje vás na rizikový alebo nechcený softvér.
 security-browsing-protection = Ochrana pred podvodným obsahom a nebezpečným softvérom
 security-enable-safe-browsing =
     .label = Blokovať nebezpečný a podvodný obsah
     .accesskey = B
 security-enable-safe-browsing-link = Ďalšie informácie
+security-safe-browsing-warning =
+    .message = Vypnutím tejto funkcie sa znižuje ochrana pred podvodmi, škodlivými stránkami a nebezpečnými súbormi na stiahnutie.
 security-block-downloads =
     .label = Blokovať sťahovanie nebezpečných súborov
     .accesskey = n
@@ -2311,6 +2321,20 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Predvolená ochrana
     .description = Používa sa zabezpečené DNS v regiónoch, kde je k dispozícii.
+preferences-doh-manage-exceptions2 =
+    .label = Spravovať výnimky
+    .accesskey = m
+preferences-doh-status-item-off =
+    .message = DNS cez HTTPS je vypnuté
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS cez HTTPS nefunguje, pretože sa vyskytla chyba ({ $reason }) pri pokuse o použitie poskytovateľa { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS cez HTTPS nefunguje, pretože sme dostali neplatnú URL adresu ({ $reason })
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
@@ -2320,6 +2344,10 @@ preferences-doh-status-item-active =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active-local =
     .message = DNS cez HTTPS nefunguje, pretože sa vyskytla chyba ({ $reason }) pri pokuse o použitie lokálneho poskytovateľa { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS cez HTTPS používa lokálneho poskytovateľa { $name }
 preferences-doh-select-resolver-label =
     .label = Zvoľte poskytovateľa:
 # Variables:

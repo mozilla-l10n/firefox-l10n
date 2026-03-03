@@ -22,6 +22,9 @@ backup-folder-name = Restaurer { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Sauvegarde_de_{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Sauvegarde
+    .description = Protégez automatiquement vos marque-pages, votre historique et vos autres données.
 settings-data-backup-header = Sauvegarde
 settings-data-backup-toggle = Gérer la sauvegarde
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Sauvegarde : Activée
 settings-data-backup-scheduled-backups-off = Sauvegarde : Désactivée
 settings-data-backup-scheduled-backups-description = Protégez automatiquement vos marque-pages, votre historique et vos autres données. <a data-l10n-name="support-link">En savoir plus</a>
 settings-data-backup-last-backup-date = Dernière sauvegarde : { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = La sauvegarde est ACTIVÉE
+settings-data-backup-scheduled-backups-off2 =
+    .label = La sauvegarde est désactivée
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Emplacement de sauvegarde
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Emplacement
 settings-data-backup-last-backup-location-show-in-folder = Afficher dans le dossier
 settings-data-backup-last-backup-location-edit = Modifier…
 settings-data-create-backup-error = Une erreur s’est produite lors de la création de votre sauvegarde le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sauvegardez vos mots de passe et modes de paiement, et protégez vos données grâce au chiffrement.
+settings-data-toggle-encryption-label2 =
+    .label = Sauvegarder vos données sensibles
+    .description = Sauvegardez vos mots de passe et modes de paiement, et protégez vos données grâce au chiffrement.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nom du fichier : { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaurer vos données
+    .description = Restaurez les données de { -brand-product-name } à partir de la dernière sauvegarde.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaurer vos données
+    .description = Utilisez une sauvegarde { -brand-product-name } d’un autre appareil pour restaurer vos données.
 settings-data-backup-restore-header = Restaurer vos données
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Choisir un fichier d
 
 settings-data-backup-scheduled-backups-on-restore-description = Restaurez les données de { -brand-product-name } à partir de la dernière sauvegarde.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurer…
+settings-sensitive-data =
+    .label = Données sensibles
 settings-data-toggle-encryption-label = Sauvegarder vos données sensibles
 settings-data-toggle-encryption-support-link = En savoir plus
+settings-data-change-password2 =
+    .label = Changer le mot de passe
 settings-data-change-password = Changer le mot de passe…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -98,6 +121,9 @@ turn-off-scheduled-backups-confirm-button = Désactiver et supprimer les sauvega
 restore-from-backup-header = Restaurer vos données
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Quelles données seront restaurées ?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Cette action remplacera toutes vos données actuelles de { -brand-short-name } par celles de votre sauvegarde du { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -111,6 +137,13 @@ restore-from-backup-password-description = Il permet de déverrouiller votre sau
 restore-from-backup-cancel-button = Annuler
 restore-from-backup-confirm-button = Restaurer et redémarrer
 restore-from-backup-restoring-button = Restauration…
+restore-from-backup-type-group-label =
+    .label = Remplacer le profil actuel ?
+restore-from-backup-type-replace =
+    .label = Remplacer toutes les données par cette sauvegarde
+restore-from-backup-type-add =
+    .label = Conserver les données et créer un nouveau profil
+restore-from-backup-profiles-disabled-message = Cela remplacera toutes vos données { -brand-short-name } actuelles par vos sauvegardes.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -236,6 +269,15 @@ other-backup-files-founds =
         [one] <b>Remarque :</b> { $numberOfOtherBackupsFound } autre fichier de sauvegarde a été trouvé
        *[other] <b>Remarque :</b> { $numberOfOtherBackupsFound } autres fichiers de sauvegarde ont été trouvés
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Créé le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } le { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restauré par { $deviceName } le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } à { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

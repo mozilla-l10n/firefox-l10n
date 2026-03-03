@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Din kopia av { $profilename } är redo att anpassas
 copied-profile-page-header-description = Vi kopierade din data och inställningar till en ny profil. Ge den ett namn, välj ett utseende och gör den till din egen.
+restored-profile-page-header = Anpassa din återställda profil
+restored-profile-page-header-description = Varje profil behåller sin unika surfhistorik och inställningar skild från dina andra profiler. Dessutom är { -brand-short-name }:s starka integritetsskydd aktiverade som standard.
+restored-profile-page-learn-more = Läs mer
 profile-window-title-2 = { -brand-short-name } - Välj en profil
 profile-window-logo =
     .alt = { -brand-short-name } logotyp

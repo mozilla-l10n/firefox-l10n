@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Anslut till internet 
 ipprotection-message-bandwidth-warning =
     .heading = Närmar dig din VPN-gräns
     .message = Du har { $usageLeft } GB av { $maxUsage } GB kvar den här månaden.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Närmar dig din VPN-gräns
+    .message = Du har { $usageLeft } MB av { $maxUsage } GB kvar denna månad.
 ipprotection-message-continuous-onboarding-intro = Aktivera VPN för att dölja din plats och lägg till extra kryptering till din surfning.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ställ in VPN så att den slås på</a> varje gång du öppnar { -brand-short-name } för ett extra lager av skydd.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } kommer ihåg vilka webbplatser du har ställt in för att använda VPN. Uppdatera dessa i <a data-l10n-name="setting-link">inställningarna</a> när som helst.

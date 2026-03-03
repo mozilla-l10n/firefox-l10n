@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Pripojte sa na intern
 ipprotection-message-bandwidth-warning =
     .heading = Blížite sa k vyčerpaniu limitu vašej VPN
     .message = Tento mesiac vám zostáva { $usageLeft } GB z { $maxUsage } GB.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Blížite sa k vyčerpaniu limitu vašej VPN
+    .message = Tento mesiac vám zostáva { $usageLeft } MB z { $maxUsage } GB.
 ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli svoju polohu a pridali ďalšie šifrovanie do prehliadania.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.

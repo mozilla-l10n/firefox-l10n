@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Votre copie de { $profilename } est prête à être personnalisée
 copied-profile-page-header-description = Nous avons copié vos données et vos paramètres dans un nouveau profil. Maintenant, donnez-lui un nom, choisissez une apparence et personnalisez-le.
+restored-profile-page-header = Personnaliser le profil restauré
+restored-profile-page-header-description = Chaque profil conserve son propre historique de navigation et ses propres paramètres, séparés de vos autres profils. De plus, les puissantes protections de la vie privée de { -brand-short-name } sont activées par défaut.
+restored-profile-page-learn-more = En savoir plus
 profile-window-title-2 = { -brand-short-name } - Choisissez un profil
 profile-window-logo =
     .alt = Logo de { -brand-short-name }
