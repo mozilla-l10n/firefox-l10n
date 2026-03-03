@@ -22,6 +22,9 @@ backup-folder-name = Restore { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
+settings-data-backup-header2 =
+    .label = Backup
+    .description = Automatically protect your bookmarks, history and other data.
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Manage backup
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Backup: ON
 settings-data-backup-scheduled-backups-off = Backup: OFF
 settings-data-backup-scheduled-backups-description = Automatically protect your bookmarks, history and other data. <a data-l10n-name="support-link">Learn more</a>
 settings-data-backup-last-backup-date = Last backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Backup is ON
+settings-data-backup-scheduled-backups-off2 =
+    .label = Backup is OFF
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Backup location
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Location
 settings-data-backup-last-backup-location-show-in-folder = Show in folder
 settings-data-backup-last-backup-location-edit = Edit…
 settings-data-create-backup-error = There was an error creating your backup on { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Back up your passwords and payment methods, plus keep all your data safe with encryption.
+settings-data-toggle-encryption-label2 =
+    .label = Back up your sensitive data
+    .description = Back up your passwords and payment methods, plus keep all your data safe with encryption.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filename: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restore your data
+    .description = Recover your { -brand-product-name } data back from the last time it was backed up.
+settings-data-backup-restore-scheduled-off =
+    .label = Restore your data
+    .description = Use a { -brand-product-name } backup from another device to restore your data.
 settings-data-backup-restore-header = Restore your data
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Choose backup file�
 
 settings-data-backup-scheduled-backups-on-restore-description = Recover your { -brand-product-name } data back from the last time it was backed up.
 settings-data-backup-scheduled-backups-on-restore-choose = Restore…
+settings-sensitive-data =
+    .label = Sensitive data
 settings-data-toggle-encryption-label = Back up your sensitive data
 settings-data-toggle-encryption-support-link = Learn more
+settings-data-change-password2 =
+    .label = Change password
 settings-data-change-password = Change password…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Turn off and delete backup
 restore-from-backup-header = Restore your data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = What will be restored?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = This will replace all your current { -brand-short-name } data with your backup from { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +145,13 @@ restore-from-backup-password-description = This unlocks your encrypted backup.
 restore-from-backup-cancel-button = Cancel
 restore-from-backup-confirm-button = Restore and restart
 restore-from-backup-restoring-button = Restoring…
+restore-from-backup-type-group-label =
+    .label = Replace current profile?
+restore-from-backup-type-replace =
+    .label = Replace all data with this backup
+restore-from-backup-type-add =
+    .label = Keep data and create new profile
+restore-from-backup-profiles-disabled-message = This will replace all your current { -brand-short-name } data with your backup.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -244,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Note:</b> { $numberOfOtherBackupsFound } other backup file found
        *[other] <b>Note:</b> { $numberOfOtherBackupsFound } other backup files found
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Created on { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } on { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restored from { $deviceName } on { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } at { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
