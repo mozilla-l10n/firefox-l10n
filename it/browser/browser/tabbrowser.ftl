@@ -409,6 +409,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separa schermo diviso
     .accesskey = e
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Scambia schede
+    .accesskey = b
 tab-context-badge-new = Novità
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
