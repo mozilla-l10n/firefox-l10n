@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -21,6 +24,10 @@ backup-folder-name = { -brand-product-name } қалпына келтіру
 backup-file-name = { -brand-product-name } сақтық көшірмесі
 settings-data-backup-header = Сақтық көшірме
 settings-data-backup-toggle = Сақтық көшірмені басқару
+settings-data-backup-toggle-on2 =
+    .label = Қор көшірмені іске қосу
+settings-data-backup-toggle-off2 =
+    .label = Қор көшірмені сөндіру
 settings-data-backup-toggle-on = Қор көшірмені іске қосу
 settings-data-backup-toggle-off = Қор көшірмені сөндіру
 settings-data-backup-trigger-button = Қазір сақтық көшірме жасау
