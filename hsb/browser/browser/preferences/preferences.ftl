@@ -2542,3 +2542,33 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Podhladne hromadźaki porstowych wotćišćow
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Podhladne hromadźaki porstowych wotćišćow
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Znate hromadźaki porstowych wotćišćow so njeblokuja
+    .description = To móže k tomu wjesć, zo někotre přesćěhowaki wam bjez plackow slěduja.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Placki třećich poskićowarjow su zmóžnjene
+    .description = Placki třećich poskićowarjow so wužiwaja, zo bychu wam na wšelakich websydłach slědowali.
+security-privacy-issue-warning-password-manager =
+    .label = Zrjadowak hesłow je znjemóžnjeny
+    .description = Zrjadowaki hesłow wam pomhaja, mócne hesła za waše konta składować.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blokowak wuskakowacych wokno je znjemóžnjeny
+    .description = Wuskakowace wokna su přetorhowace a potencielnje škódne.
+security-privacy-issue-warning-extension-install =
+    .label = Websydła móža rozšěrjenja instalować
+    .description = Websydła móža rozšěrjenja do { -brand-short-name } bjez wospjetneho prašenja instalować.
+security-privacy-issue-warning-safe-browsing =
+    .label = Škódny a wobšudny wobsah so njeblokujetej
+    .description = Sće tohodla wobšudźe a škódnej software wjace wustajeny.
+security-privacy-issue-warning-doh =
+    .label = DNS přez HTTPS je znjemóžnjeny
+    .description = DNS přez HTTPS před wašim syćowym poskićowarjom chowa, kotre sydła wopytujeće
+security-privacy-issue-warning-ech =
+    .label = Zaklučowany klient Hello je znjemóžnjeny
+    .description = Zaklučowany klient Hello před wašim syćowym poskićowarjom chowa, kotre sydła wopytujeće-
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Awtomatiska konfiguracija proksy je zmóžnjena
+    .description = Awtomatiska konfiguracija proksy móhła dowěry njehódnym syćam zmóžnić, wašu aktiwitu wobkedźbować.
