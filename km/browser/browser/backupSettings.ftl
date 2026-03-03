@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These strings are shown under the header if scheduled backups are enabled.
+
 settings-data-backup-header = បម្រុងទុក
 settings-data-backup-toggle = គ្រប់គ្រងការបម្រុងទុក
+settings-data-backup-toggle-on2 =
+    .label = បើកការបម្រុងទុក
+settings-data-backup-toggle-off2 =
+    .label = បិទការបម្រុងទុក
 settings-data-backup-toggle-on = បើកការបម្រុងទុក
 settings-data-backup-toggle-off = បិទការបម្រុងទុក
 settings-data-backup-trigger-button = បម្រុងទុកឥឡូវនេះ
@@ -99,6 +106,10 @@ password-rules-a11y-warning =
 disable-backup-encryption-header = លុបការការពារពាក្យសម្ងាត់
 disable-backup-encryption-cancel-button = បោះបង់
 disable-backup-encryption-confirm-button = លុបពាក្យសម្ងាត់
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
 
 ## These strings are inserted into the generated single-file backup archive.
 ## The single-file backup archive is a specially-crafted, static HTML file
