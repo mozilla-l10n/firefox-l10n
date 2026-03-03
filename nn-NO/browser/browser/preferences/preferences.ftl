@@ -797,6 +797,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nye vindauge og faner
 home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida, nye vindauge og nye faner.
+home-section =
+    .heading = Startside og oppstart
 
 ## Home Section - Default Browser
 
@@ -1061,6 +1063,10 @@ search-edit-engine-2 =
     .title = Rediger søkjemotor
 search-delete-engine =
     .title = Slett søkjemotor
+search-enable-engine =
+    .title = Aktiver søkjemotor
+search-outlink-to-extensions-page =
+    .title = Handsam utvidingar og tema
 search-choose-engine-column =
     .label = Søkjemotor
 search-choose-keyword-column =
@@ -2303,6 +2309,9 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-problem-helper-label = Vis problem
+security-privacy-status-update-button-label =
+    .label = Oppdater { -brand-short-name }
 issue-card-reset-button =
     .label = Tilbakestill
 
