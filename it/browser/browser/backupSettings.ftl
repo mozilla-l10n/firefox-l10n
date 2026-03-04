@@ -285,7 +285,7 @@ backup-file-creation-metadata = { $profileName } creato il { DATETIME($date, yea
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Ripristinato da { $deviceName } il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } alle { DATETIME($date, hour: "2-digit", minute: " 2 cifre") }
+backup-restored-profile-name = Ripristinato da { $deviceName } il { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } alle { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
@@ -293,4 +293,3 @@ backup-file-creation-date-and-device = Creato il { DATETIME($date, year: "numeri
 backup-file-restore-file-validation-error = Questo file non funziona. Prova a selezionare un altro file. <a data-l10n-name="restore-problems">Hai ancora problemi?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nessun file selezionato
-
