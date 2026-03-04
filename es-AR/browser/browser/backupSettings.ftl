@@ -22,6 +22,9 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = CopiaDe{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Copia de seguridad
+    .description = Protección automática para marcadores, historial y otros datos.
 settings-data-backup-header = Copia de seguridad
 settings-data-backup-toggle = Administrar respaldo
 settings-data-backup-toggle-on2 =
@@ -38,6 +41,13 @@ settings-data-backup-scheduled-backups-on = Copia de seguridad: ACTIVADA
 settings-data-backup-scheduled-backups-off = Copia de seguridad: DESACTIVADA
 settings-data-backup-scheduled-backups-description = Proteja automáticamente sus marcadores, historial y otros datos. <a data-l10n-name="support-link">Conocer más</a>
 settings-data-backup-last-backup-date = Última copia de seguridad: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Copia de seguridad ACTIVADA
+settings-data-backup-scheduled-backups-off2 =
+    .label = Copia de seguridad DESACTIVADA
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Ubicación de la copia de seguridad
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Ubicación
 settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
@@ -60,6 +70,8 @@ settings-data-backup-scheduled-backups-on-restore-description = Recupere los dat
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-data-toggle-encryption-label = Respaldar los datos sensibles
 settings-data-toggle-encryption-support-link = Conocer más
+settings-data-change-password2 =
+    .label = Cambiar contraseña
 settings-data-change-password = Cambiar contraseña…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +114,9 @@ turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de se
 restore-from-backup-header = Restaurar los datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = ¿Qué será restaurado?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Esto reemplazará todos los datos actuales de { -brand-short-name } con la copia de seguridad de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +134,13 @@ restore-from-backup-password-description = Esto desbloquea la copia de seguridad
 restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar y reiniciar
 restore-from-backup-restoring-button = Restaurando…
+restore-from-backup-type-group-label =
+    .label = ¿Reemplazar el perfil actual?
+restore-from-backup-type-replace =
+    .label = Reemplazar todos los datos con esta copia de seguridad
+restore-from-backup-type-add =
+    .label = Mantener datos y crear nuevo perfil
+restore-from-backup-profiles-disabled-message = Esto reemplazará todos los datos actuales de { -brand-short-name } con la copia de seguridad.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -244,6 +266,11 @@ other-backup-files-founds =
         [one] <b>Nota:</b> { $numberOfOtherBackupsFound } archivo de respaldo encontrado
        *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } otros archivos de respaldo encontrados
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Creado el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
