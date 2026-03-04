@@ -658,6 +658,7 @@ pdfjs-toggle-views-manager-button =
     .title = Sidebar umschalten
 pdfjs-toggle-views-manager-notification-button =
     .title = Sidebar umschalten (Dokument enthält Miniaturansichten/Dokumentstruktur/Anhänge/Ebenen)
+pdfjs-toggle-views-manager-button1-label = Seiten verwalten
 pdfjs-toggle-views-manager-button-label = Sidebar umschalten
 pdfjs-views-manager-sidebar =
     .aria-label = Sidebar
@@ -722,6 +723,8 @@ pdfjs-views-manager-status-close-button =
     .title = Schließen
 pdfjs-views-manager-status-close-button-label = Schließen
 pdfjs-views-manager-paste-button-label = Einfügen
+pdfjs-toggle-views-manager-button1 =
+    .title = Seiten verwalten
 
 ## Main menu for adding/removing signatures
 
