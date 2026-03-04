@@ -138,6 +138,10 @@ restore-from-backup-confirm-button = Eru ha emoñepyrũjey
 restore-from-backup-restoring-button = Moĩporãjey…
 restore-from-backup-type-group-label =
     .label = ¿Emyengovia mba’ete ag̃agua?
+restore-from-backup-type-replace =
+    .label = Emyengoviapaite mba’ekuaarãita ko ñongatujey ndive
+restore-from-backup-type-add =
+    .label = Erekomeme mba’ekuaarã ha emoheñói mba’ete pyahu
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -263,6 +267,10 @@ other-backup-files-founds =
         [one] <b>Jehaipy:</b> ambue { $numberOfOtherBackupsFound } marandurenda ñongatu jey juhupyre
        *[other] <b>Jehaipy:</b> ambue { $numberOfOtherBackupsFound } marandurendaita ñongatu jey juhupyre
     }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Oñemoĩporã { $deviceName } guive { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } og̃uahẽvo { DATETIME($date, hour: "2-digit", minute: " 2-digito") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
