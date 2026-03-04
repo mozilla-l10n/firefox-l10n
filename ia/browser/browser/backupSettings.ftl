@@ -22,6 +22,9 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Salveguarda de { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Copia de securitate
+    .description = Automaticamente protege tu marcapaginas, chronologia, e altere datos.
 settings-data-backup-header = Copia de securitate
 settings-data-backup-toggle = Gerer copia de securitate
 settings-data-backup-toggle-on2 =
@@ -38,6 +41,11 @@ settings-data-backup-scheduled-backups-on = Copia de securitate: ACTIVATE
 settings-data-backup-scheduled-backups-off = Copia de securitate: DISACTIVATE
 settings-data-backup-scheduled-backups-description = Automaticamente protege tu marcapaginas, chronologia, e altere datos. <a data-l10n-name="support-link">Pro saper plus</a>
 settings-data-backup-last-backup-date = Ultime copia de securitate: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Le function Copia de securitate es ACTIVE
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Posto del copia de reserva
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
