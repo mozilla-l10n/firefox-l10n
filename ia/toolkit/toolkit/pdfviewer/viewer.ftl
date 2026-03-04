@@ -649,6 +649,7 @@ pdfjs-toggle-views-manager-button =
     .title = Monstrar/celar le barra lateral
 pdfjs-toggle-views-manager-notification-button =
     .title = Monstrar/celar le barra lateral (le documento contine miniaturas/structura/attachamentos/stratos)
+pdfjs-toggle-views-manager-button1-label = Gerer paginas
 pdfjs-toggle-views-manager-button-label = Monstrar/celar le barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
@@ -713,6 +714,8 @@ pdfjs-views-manager-status-close-button =
     .title = Clauder
 pdfjs-views-manager-status-close-button-label = Clauder
 pdfjs-views-manager-paste-button-label = Collar
+pdfjs-toggle-views-manager-button1 =
+    .title = Gerer paginas
 
 ## Main menu for adding/removing signatures
 

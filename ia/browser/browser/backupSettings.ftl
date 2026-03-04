@@ -58,8 +58,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Elige un copia de se
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-sensitive-data =
+    .label = Datos sensibile
 settings-data-toggle-encryption-label = Salveguarda tu datos sensibile
 settings-data-toggle-encryption-support-link = Pro saper plus
+settings-data-change-password2 =
+    .label = Cambiar contrasigno
 settings-data-change-password = Cambiar contrasigno…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +106,9 @@ turn-off-scheduled-backups-confirm-button = Disactivar e deler copia de securita
 restore-from-backup-header = Restaurar tu datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Que sera restaurate?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu salveguarda del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +126,12 @@ restore-from-backup-password-description = Isto disbloca tu copia de securitate 
 restore-from-backup-cancel-button = Cancellar
 restore-from-backup-confirm-button = Restaurar e reinitialisar
 restore-from-backup-restoring-button = Restaurante…
+restore-from-backup-type-group-label =
+    .label = Substituer le profilo actual?
+restore-from-backup-type-replace =
+    .label = Substituer tote le datos con iste copia de reserva
+restore-from-backup-type-add =
+    .label = Retener datos e crear un nove profilo
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

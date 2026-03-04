@@ -673,6 +673,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nove lista
 newtab-widget-section-title = Widgets
+newtab-widget-menu-hide = Celar widget
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Celar widgets
