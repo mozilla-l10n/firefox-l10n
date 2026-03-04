@@ -306,7 +306,7 @@ discopane-intro3 = 您可以使用擴充套件與佈景主題來自訂 { -brand-
 
 ## Add-on actions
 
-report-addon-button = 回報
+report-addon-button = 檢舉
 remove-addon-button = 移除
 # The link will always be shown after the other text.
 remove-addon-disabled-button = 無法移除，<a data-l10n-name="link">為什麼？</a>

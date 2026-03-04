@@ -430,11 +430,6 @@ about-logins-import-report-no-change2 =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابی)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌنای تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابی)</div>
     }
-about-logins-import-report-error =
-    { $count ->
-        [one] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
-       *[other] <span>ختایل:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
-    }
 
 ## Logins import report page
 

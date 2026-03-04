@@ -285,7 +285,7 @@ backup-file-creation-metadata = { $profileName } Erstellt am { DATETIME($date, y
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Wiederhergestellt von { $deviceName } am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } um { DATETIME($date, hour: "2-Digit", minute: " 2-stellige") }
+backup-restored-profile-name = Wiederhergestellt von { $deviceName } am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } um { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

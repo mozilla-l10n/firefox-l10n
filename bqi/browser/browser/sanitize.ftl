@@ -48,12 +48,6 @@ item-history-and-downloads =
 item-cookies =
     .label = کۊکیا
     .accesskey = C
-# Variables:
-#   $amount (Number) - Amount of site data currently stored on disk
-#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
-item-cookies-site-data-with-size =
-    .label = کۊکیا وو داده یل وبگه
-    .accesskey = e
 item-cookies-site-data =
     .label = کۊکیا وو داده یل وبگه
     .accesskey = e

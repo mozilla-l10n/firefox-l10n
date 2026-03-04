@@ -283,10 +283,6 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-metadata = { $profileName } נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }
 # Variables:
-#   $deviceName (String) - The name of the device from which the backup was created.
-#   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = שוחזר מ־{ $deviceName } ב־{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
-# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }

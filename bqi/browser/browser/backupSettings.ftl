@@ -36,7 +36,6 @@ settings-data-backup-in-progress-message =
     .message = لادراری گرؽڌن هونی ٱنجوم ابۊ…
 settings-data-backup-scheduled-backups-on = لادراری گرؽڌن: رۊشن
 settings-data-backup-scheduled-backups-off = لادراری گرؽڌن: کۊر
-settings-data-backup-last-backup-date = لادراری گرؽڌن دیندایی: { DATETIME($date, dateStyle: "short") }
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = جاگه
 settings-data-backup-last-backup-location-show-in-folder = نشووݩ داڌن من دوبلگه

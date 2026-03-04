@@ -33,7 +33,7 @@ safeb-blocked-phishing-page-learn-more = 請到 <a data-l10n-name='learn_more_li
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>檢舉為含有惡意軟體的網站</a>。您可以<a data-l10n-name='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。
-safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>回報為含有惡意軟體的網站</a>。
+safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>檢舉為含有惡意軟體的網站</a>。
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -43,8 +43,8 @@ safeb-blocked-malware-page-learn-more-sumo = 請到 <a data-l10n-name='firefox_s
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>回報為含有有害軟體的網站</a>。您可以<a data-l10n-name='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。
-safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>回報為含有有害軟體的網站</a>。
+safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>檢舉為含有有害軟體的網站</a>。您可以<a data-l10n-name='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。
+safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>檢舉為含有有害軟體的網站</a>。
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -54,8 +54,8 @@ safeb-blocked-unwanted-page-learn-more = 請到 <a data-l10n-name='learn_more_li
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>回報為含有會傷害電腦的軟體的網站</a>。您可以<a data-l10n-name='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。
-safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>回報為含有會傷害電腦的軟體的網站</a>。
+safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>檢舉為可能含有有害軟體的網站</a>。您可以<a data-l10n-name='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。
+safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> 已被<a data-l10n-name='error_desc_link'>檢舉為可能含有有害軟體的網站</a>。
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page

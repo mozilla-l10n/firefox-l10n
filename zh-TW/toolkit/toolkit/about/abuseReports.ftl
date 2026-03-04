@@ -7,9 +7,9 @@
 #
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
-abuse-report-dialog-title = 回報 { $addon-name }
+abuse-report-dialog-title = { $addon-name } 的檢舉內容
 abuse-report-title-extension = 向 { -vendor-short-name } 檢舉此擴充套件
-abuse-report-title-sitepermission = 向 { -vendor-short-name } 檢舉此附加元件的網站權限
+abuse-report-title-sitepermission = 向 { -vendor-short-name } 檢舉此網站權限附加元件
 abuse-report-title-theme = 向 { -vendor-short-name } 檢舉此佈景主題
 abuse-report-subtitle = 有什麼問題？
 # Variables:
@@ -19,7 +19,7 @@ abuse-report-learnmore = 不確定要選擇哪項嗎？<a data-l10n-name="learnm
 abuse-report-submit-description = 請描述問題（選填）
 abuse-report-textarea =
     .placeholder = 如果有更多細節，我們可以比較簡單就找到問題的根源。請描述您遇到了哪些問題，也非常感謝您協助我們，確保網路環境的健康。
-abuse-report-submit-note = 註：請不要在回報內容中放入個人資訊（姓名、E-Mail 信箱、電話號碼、地址等）。{ -vendor-short-name } 會永久保留回報內容的相關紀錄。
+abuse-report-submit-note = 註：請不要在檢舉內容中放入個人資訊（姓名、E-Mail 信箱、電話號碼、地址等）。{ -vendor-short-name } 會永久保留檢舉內容的相關紀錄。
 
 ## Panel buttons.
 
@@ -33,13 +33,13 @@ abuse-report-submit-button = 送出
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
-abuse-report-messagebar-aborted = 已取消回報 <span data-l10n-name="addon-name">{ $addon-name }</span>。
+abuse-report-messagebar-aborted = 已取消檢舉 <span data-l10n-name="addon-name">{ $addon-name }</span>。
 abuse-report-messagebar-submitting = 正在傳送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的報告。
-abuse-report-messagebar-submitted = 感謝您回報。您想要移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 嗎？
-abuse-report-messagebar-submitted-noremove = 感謝您回報。
-abuse-report-messagebar-removed-extension = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 擴充套件。
-abuse-report-messagebar-removed-sitepermission = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 網站權限附加元件。
-abuse-report-messagebar-removed-theme = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 佈景主題。
+abuse-report-messagebar-submitted = 感謝您提出檢舉。您想要移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 嗎？
+abuse-report-messagebar-submitted-noremove = 感謝您提出檢舉。
+abuse-report-messagebar-removed-extension = 感謝您提出檢舉。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 擴充套件。
+abuse-report-messagebar-removed-sitepermission = 感謝您提出檢舉。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 網站權限附加元件。
+abuse-report-messagebar-removed-theme = 感謝您提出檢舉。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 佈景主題。
 abuse-report-messagebar-error = 傳送<span data-l10n-name="addon-name">{ $addon-name }</span> 的報告時，發生錯誤。
 abuse-report-messagebar-error-recent-submit = 由於最近傳送過另一份報告，並未傳送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的報告。
 
@@ -61,7 +61,7 @@ abuse-report-damage-example = 例如: 安裝有害軟體，或竊取電腦資料
 abuse-report-spam-reason-v2 = 它包含垃圾內容或插入多餘的廣告
 abuse-report-spam-example = 例如: 在網頁中插入廣告
 abuse-report-settings-reason-v2 = 它沒有先詢問我或預先通知，就更改了我的搜尋引擎、首頁、新分頁頁面
-abuse-report-settings-suggestions = 回報問題前，您可以嘗試調整瀏覽器設定:
+abuse-report-settings-suggestions = 回報問題前，您可以嘗試調整瀏覽器設定：
 abuse-report-settings-suggestions-search = 更改您的預設搜尋設定
 abuse-report-settings-suggestions-homepage = 更改您的首頁與新分頁頁面
 abuse-report-deceptive-reason-v2 = 它偽裝成與其無關的東西

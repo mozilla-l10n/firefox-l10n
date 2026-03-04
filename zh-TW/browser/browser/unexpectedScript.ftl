@@ -20,7 +20,7 @@ unexpected-script-load-detail-1-block = { -brand-short-name } 將<strong>封鎖<
 # In this text "the functionality" refers to whatever the unexpected script is doing.
 # Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing
 # They could be a custom script people used to customize Firefox, an enterprise configuration script, or something else entirely
-unexpected-script-load-detail-2 = 就算您同意載入此指令碼，請回報給 { -vendor-short-name }，讓我們了解這組指令碼是如何，以及為什麼需要載入。<em>若缺少此資訊，該指令碼的功能未來可能無法正常運作。</em>
+unexpected-script-load-detail-2 = 就算您同意載入此指令碼，請回報給 { -vendor-short-name }，讓我們了解這組指令碼是如何，以及為什麼需要載入。<em>若缺少此資訊，該指令碼未來可能無法正常運作。</em>
 unexpected-script-load-report-checkbox =
     .label = 向 { -vendor-short-name } 檢舉此指令碼的網址
 unexpected-script-load-email-checkbox =
