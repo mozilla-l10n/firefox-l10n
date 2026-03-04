@@ -22,6 +22,9 @@ backup-folder-name = Eguerujey { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Ñongatujey
+settings-data-backup-header2 =
+    .label = Ñongatujey
+    .description = Emo’ã ijehegui nde rechaukaha, tembiasakue ha ambue mba’e’oka.
 settings-data-backup-header = Ñongatujey
 settings-data-backup-toggle = Ñongatujey ñangareko
 settings-data-backup-toggle-on2 =
@@ -38,6 +41,13 @@ settings-data-backup-scheduled-backups-on = Ñongatujey: HENDÝVA
 settings-data-backup-scheduled-backups-off = Ñongatujey: OGUÉVA
 settings-data-backup-scheduled-backups-description = Emo’ã ijehegui nde rechaukaha, tembiasakue ha ambue mba’ekuaarã. <a data-l10n-name="support-link">Eikuaave</a>
 settings-data-backup-last-backup-date = Ñongatu jey ramovéva: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Ñongatujey HENDÝVA
+settings-data-backup-scheduled-backups-off2 =
+    .label = Ñongatujey: OGUÉVA
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Ñongatujey rendaite
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Tendaite
 settings-data-backup-last-backup-location-show-in-folder = Ehechauka marandurendápe

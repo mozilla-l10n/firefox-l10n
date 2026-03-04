@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Илова кардани унсур
+storage-delete-all-button =
+    .title = Ҳамаро нест кардан
 # Refresh button title
 storage-refresh-button =
     .title = Нав кардани унсурҳо

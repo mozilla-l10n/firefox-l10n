@@ -648,6 +648,7 @@ pdfjs-toggle-views-manager-button =
     .title = Emoambue tenda yke
 pdfjs-toggle-views-manager-notification-button =
     .title = Embojopyru tenda ykegua (kuatia oguereko mba’e’i, kuaakaha/moirũha/ñuãha)
+pdfjs-toggle-views-manager-button1-label = Eñangareko kuotiarogue
 pdfjs-toggle-views-manager-button-label = Emoambue tenda yke
 pdfjs-views-manager-sidebar =
     .aria-label = Ta’ãngarupa yke
@@ -712,6 +713,8 @@ pdfjs-views-manager-status-close-button =
     .title = Mboty
 pdfjs-views-manager-status-close-button-label = Mboty
 pdfjs-views-manager-paste-button-label = Mboja
+pdfjs-toggle-views-manager-button1 =
+    .title = Eñangareko kuotiarogue
 
 ## Main menu for adding/removing signatures
 
