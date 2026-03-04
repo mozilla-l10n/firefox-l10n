@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } 복원
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }백업
+settings-data-backup-header2 =
+    .label = 백업
+    .description = 북마크, 기록, 기타 데이터를 자동으로 보호하세요.
 settings-data-backup-header = 백업
 settings-data-backup-toggle = 백업 관리
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,28 @@ settings-data-backup-scheduled-backups-on = 백업: 켜짐
 settings-data-backup-scheduled-backups-off = 백업: 꺼짐
 settings-data-backup-scheduled-backups-description = 북마크, 기록 및 기타 데이터를 자동으로 보호합니다. <a data-l10n-name="support-link">더 알아보기</a>
 settings-data-backup-last-backup-date = 마지막 백업: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = 백업 켜짐
+settings-data-backup-scheduled-backups-off2 =
+    .label = 백업 꺼짐
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = 백업 위치
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = 위치
 settings-data-backup-last-backup-location-show-in-folder = 폴더에서 보기
 settings-data-backup-last-backup-location-edit = 편집…
 settings-data-create-backup-error = 백업을 만드는 중에 오류가 발생했습니다.  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = 비밀번호와 결제 수단을 백업하고 모든 데이터를 암호화하여 안전하게 보관하세요.
+settings-data-toggle-encryption-label2 =
+    .label = 민감한 데이터 백업
+    .description = 비밀번호와 결제 수단을 백업하고, 암호화로 모든 데이터를 안전하게 보관하세요.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 파일 이름: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = 데이터 복원
+    .description = 마지막으로 백업된 시점의 { -brand-product-name } 데이터를 복구하세요.
 settings-data-backup-restore-header = 데이터 복원
 
 ## These strings are shown under the header if scheduled backups are disabled.
