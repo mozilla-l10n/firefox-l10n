@@ -68,6 +68,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = Seleccionar archivo 
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupere los datos de { -brand-product-name } desde la última vez que se hizo una copia de seguridad.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-sensitive-data =
+    .label = Datos sensibles
 settings-data-toggle-encryption-label = Respaldar los datos sensibles
 settings-data-toggle-encryption-support-link = Conocer más
 settings-data-change-password2 =
@@ -271,6 +273,10 @@ other-backup-files-founds =
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-metadata = { $profileName } Creado el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurado desde { $deviceName } el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a las { DATETIME($date, hour: "2-digit", minute: " 2-digito") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
