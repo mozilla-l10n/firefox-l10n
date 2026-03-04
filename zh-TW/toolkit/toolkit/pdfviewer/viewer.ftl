@@ -209,6 +209,11 @@ pdfjs-thumb-page-checkbox1 =
 #   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = 選擇第 { $page } 頁
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = 第 { $page } 頁，共 { $total } 頁
 
 ## Find panel button title and messages
 
