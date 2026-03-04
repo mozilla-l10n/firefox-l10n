@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Conéctese a Internet
 ipprotection-message-bandwidth-warning =
     .heading = Acercándose al límite de la VPN
     .message = Quedan { $usageLeft } GB de { $maxUsage } disponibles este mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Acercándose al límite de la VPN
+    .message = Quedan { $usageLeft } MB de { $maxUsage } GB restantes este mes.
 ipprotection-message-continuous-onboarding-intro = Habilite la VPN para ocultar la ubicación y agregar cifrado adicional a la navegación.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure la VPN para que se active</a> cada vez que se abra { -brand-short-name } para una capa adicional de protección.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web se configuraron para usar VPN. Actualice estos en <a data-l10n-name="setting-link">configuración</a> en cualquier momento.
