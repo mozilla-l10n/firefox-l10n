@@ -1760,6 +1760,9 @@ sitedata-cookies-exceptions2 =
     .label = İstisnaları yönet
     .accesskey = s
     .description = Hangi sitelerin çerezleri ve site verilerini her zaman kullanabileceğini veya hiçbir zaman kullanamayacağını belirleyebilirsiniz.
+sitedata-heading =
+    .label = Gezinti verileri
+    .description = Çerezleri, geçmişi, önbelleği, site verilerini ve diğer verileri yönetin.
 sitedata-settings3 =
     .label = Belirli sitelerin verilerini temizle
     .accesskey = s
@@ -2077,6 +2080,9 @@ permissions-speaker2 =
     .label = Hoparlör
 permissions-notification2 =
     .label = Bildirimler
+permissions-header3 =
+    .label = İzinler
+    .description = Sitelerin erişebileceği, yönetebileceği ve tetikleyebileceği şeyleri yönetin.
 
 ## Privacy Section - Data Collection
 
@@ -2187,6 +2193,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulll
 certs-description2 =
     .label = Sertifikalar
     .description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
+certs-description3 =
+    .label = Sertifikalar
+    .description = { -brand-short-name } tarayıcısının güvenli bağlantıları doğrulamak için kullandığı sertifikaları yapılandırın.
 certs-view2 =
     .label = Sertifikaları yönet
     .accesskey = e
@@ -2222,6 +2231,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = HTTPS üzerinden DNS
+dns-over-https-group2 =
+    .label = HTTPS üzerinden DNS
+    .description = HTTPS Üzerinden Alan Adı Sistemi (DoH), alan adı isteklerinizi şifreler. Böylece internet servis sağlayıcınızın ve diğer kişilerin hangi sitelere girdiğinizi görmesi zorlaştır.
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:
@@ -2277,11 +2289,31 @@ preferences-doh-exceptions-description = { -brand-short-name } bu sitelerde güv
 preferences-doh-manage-exceptions =
     .label = İstisnaları yönet…
     .accesskey = s
+preferences-doh-overview-default =
+    .label = Varsayılan koruma
+    .description = Desteklenen bölgelerde güvenli DNS kullanılır.
+preferences-doh-overview-custom =
+    .label = Özel
+    .description = Her zaman güvenli DNS kullanılır. Sağlayıcıyı ve hata durumunda ne yapılacağını siz seçebilirsiniz.
+preferences-doh-overview-off =
+    .label = Kapalı
+    .description = Varsayılan DNS çözümleyiciniz kullanılır.
 preferences-doh-advanced-button =
     .label = Gelişmiş ayarlar
 preferences-doh-manage-exceptions2 =
     .label = İstisnaları yönet
     .accesskey = ö
+preferences-doh-radio-default =
+    .label = Varsayılan
+    .description = Desteklenen bölgelerde güvenli DNS kullanılır.
+preferences-doh-radio-custom =
+    .label = Özel
+    .description = Her zaman güvenli DNS kullanılır. Sağlayıcıyı ve hata durumunda ne yapılacağını siz seçebilirsiniz.
+preferences-doh-radio-off =
+    .label = Kapalı
+    .description = Varsayılan DNS çözümleyiciniz kullanılır.
+preferences-doh-fallback-label =
+    .label = Güvenli DNS kullanılamazsa beni her zaman uyar
 preferences-doh-status-item-off =
     .message = HTTPS üzerinden DNS kapalı
 # Variables:
@@ -2294,6 +2326,11 @@ preferences-doh-status-item-active-local =
     .message = HTTPS üzerinden DNS özelliği yerel { $name } sağlayıcısını kullanıyor
 preferences-doh-select-resolver-label =
     .label = Sağlayıcıyı seçin:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = HTTPS üzerinden DNS çözümlemesi için bu sağlayıcıyı kullan
 preferences-doh-custom-provider-label =
     .aria-label = Özel sağlayıcının adresini girin
 preferences-doh-header2 =
