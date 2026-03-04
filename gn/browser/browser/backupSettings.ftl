@@ -68,8 +68,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Eiporavo marandurend
 
 settings-data-backup-scheduled-backups-on-restore-description = Eguerujey ne mba’ekuaarã { -brand-product-name }-gui ejaporamovévagui ñongatu jey.
 settings-data-backup-scheduled-backups-on-restore-choose = Mbojevyjey…
+settings-sensitive-data =
+    .label = Mba’ekuaarã oñandúva
 settings-data-toggle-encryption-label = Eñengatu jey ne mba’ekuaarã ñemigua
 settings-data-toggle-encryption-support-link = Kuaave
+settings-data-change-password2 =
+    .label = Emoambue ñe’ẽñemi
 settings-data-change-password = Emoambue ñe’ẽñemi…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -112,6 +116,9 @@ turn-off-scheduled-backups-confirm-button = Eipe’a ha embogue ñongatu jey
 restore-from-backup-header = Erujey mba’ekuaarãita
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = ¿Mba’e pe oñemoĩporãtava?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Kóva omyengoviáta opaite mba’ekuaarã ag̃agua { -brand-short-name } rehegua ñongatu jey tekorosãrã ndive { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -129,6 +136,8 @@ restore-from-backup-password-description = Kóva ojoko’óta ne ñongatu jey ip
 restore-from-backup-cancel-button = Heja
 restore-from-backup-confirm-button = Eru ha emoñepyrũjey
 restore-from-backup-restoring-button = Moĩporãjey…
+restore-from-backup-type-group-label =
+    .label = ¿Emyengovia mba’ete ag̃agua?
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
