@@ -38,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Sikkerheitskopiering: PÅ
 settings-data-backup-scheduled-backups-off = Sikkerheitskopiering: AV
 settings-data-backup-scheduled-backups-description = Vern bokmerka, historikken og andre data automatisk. <a data-l10n-name="support-link">Finn ut meir</a>
 settings-data-backup-last-backup-date = Siste sikkerheitskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Sikkerheitskopiering er PÅ
+settings-data-backup-scheduled-backups-off2 =
+    .label = Sikkerheitskopiering er AV
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Plassering for sikkerheitskopi
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
@@ -58,8 +65,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vel ei sikkerheitsko
 
 settings-data-backup-scheduled-backups-on-restore-description = Gjenopprett { -brand-product-name }-dataa dine få førre gong dei vart sikkerheitskopierte.
 settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
+settings-sensitive-data =
+    .label = Sensitive data
 settings-data-toggle-encryption-label = Sikkerheitskopier sensitive data
 settings-data-toggle-encryption-support-link = Les meir
+settings-data-change-password2 =
+    .label = Endre passord
 settings-data-change-password = Endre passord…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +113,9 @@ turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerheitskopien
 restore-from-backup-header = Gjenopprett dataa dine
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Kva vil bli gjenoppretta?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Dette vil erstatte alle dei noverande { -brand-short-name }-dataa dine med sikkerheitskopien din frå { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +133,10 @@ restore-from-backup-password-description = Dette låser opp den krypterte sikker
 restore-from-backup-cancel-button = Avbryt
 restore-from-backup-confirm-button = Gjenopprett og start på nytt
 restore-from-backup-restoring-button = Gjenopprettar…
+restore-from-backup-type-group-label =
+    .label = Erstatte gjeldande profil?
+restore-from-backup-type-replace =
+    .label = Erstatt alle data med denne sikkerheitskopien
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
