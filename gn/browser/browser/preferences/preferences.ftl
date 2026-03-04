@@ -2272,6 +2272,8 @@ preferences-doh-select-resolver-label =
 connection-dns-over-https-url-item =
     .label = { $name }
     .tooltiptext = Eiporu ko me’ẽhára emoĩporã hag̃ua DNS HTTPS rupive
+preferences-doh-header2 =
+    .heading = DNS HTTPS rehegua
 
 ## The following strings are used in the Download section of settings
 

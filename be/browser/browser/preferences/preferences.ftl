@@ -794,6 +794,9 @@ network-proxy-connection-learn-more = Падрабязней
 network-proxy-connection-settings =
     .label = Налады…
     .accesskey = л
+network-proxy-group2 =
+    .label = Налады проксі
+    .description = Наладзьце, як { -brand-short-name } злучаецца з Інтэрнэтам.
 
 ## Home Section
 
