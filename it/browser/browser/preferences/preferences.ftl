@@ -2333,7 +2333,7 @@ preferences-doh-manage-exceptions2 =
     .accesskey = o
 preferences-doh-radio-default =
     .label = Predefinito
-    .description = Utilizza DNS sicuro nei Paesi in cui è disponibile
+    .description = Utilizza DNS sicuro nei Paesi in cui è disponibile.
 preferences-doh-radio-custom =
     .label = Personalizzato
     .description = Utilizza sempre DNS sicuro con scelta del fornitore e delle modalità di fallback.
@@ -2341,7 +2341,7 @@ preferences-doh-radio-off =
     .label = Disattivato
     .description = Utilizza il meccanismo di risoluzione DNS predefinito.
 preferences-doh-fallback-label =
-    .label = Avvisa sempre se il DNS sicuro non è disponibile.
+    .label = Avvisa sempre se il DNS sicuro non è disponibile
 preferences-doh-status-item-off =
     .message = DNS su HTTPS è disattivato
 # Variables:
