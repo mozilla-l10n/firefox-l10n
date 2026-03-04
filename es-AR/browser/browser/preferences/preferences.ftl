@@ -2298,6 +2298,8 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Protección predeterminada
     .description = Usar DNS seguro en regiones donde esté disponible.
+preferences-doh-fallback-label =
+    .label = Avisarme siempre si el DNS seguro no está disponible
 preferences-doh-select-resolver-label =
     .label = Seleccionar proveedor:
 
