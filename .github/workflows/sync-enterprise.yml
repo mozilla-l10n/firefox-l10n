@@ -18,14 +18,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout firefox-l10n
-        uses: actions/checkout@v6
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           path: firefox-l10n
+          persist-credentials: false
       - name: Checkout enterprise-firefox-l10n
-        uses: actions/checkout@v6
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
-          repository: mozilla-l10n/enterprise-firefox-l10n
           path: enterprise-l10n
+          persist-credentials: false
+          repository: mozilla-l10n/enterprise-firefox-l10n
       - name: Copy locale folders from enterprise repo
         run: |
           for dir in enterprise-l10n/*/; do
@@ -43,7 +45,7 @@ jobs:
               "$dir" "firefox-l10n/$locale/"
           done
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v8
+        uses: peter-evans/create-pull-request@c0f553fe549906ede9cf27b5156039d195d2ece0 # v8.1.0
         with:
           path: firefox-l10n
           branch: l10n_enterprise
