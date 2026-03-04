@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Хусусиятҳо
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Танзимот…
 menu-application-services =
     .label = Хизматҳо
 menu-application-hide-this =

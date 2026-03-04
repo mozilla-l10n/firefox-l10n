@@ -53,3 +53,17 @@ ipprotection-button-turn-vpn-off-excluded-site = «VPN»-ро дар ҳама ҷ
 ipprotection-button-turn-vpn-on = Фаъол кардани «VPN»
 # Button while VPN is connecting
 ipprotection-button-connecting = Фаъол шуда истодааст…
+
+## IP Protection Settings
+
+ip-protection-learn-more = Маълумоти бештар
+ip-protection-not-opted-in-button = Оғози кор
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Фаҳмидам
+
+## IP Protection alerts
+
+vpn-paused-alert-close-tabs-button = Пӯшидани ҳамаи варақаҳо
+vpn-error-alert-body = Баъдтар аз нав кӯшиш кунед.

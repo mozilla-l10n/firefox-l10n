@@ -81,7 +81,7 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ga
 
 ##
 
-neterror-file-not-found-filename = Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.
+neterror-file-not-found-filename = Athugaðu hvort skráarheitið sé með ranga hástafaritun eða aðrar innsláttarvillur.
 neterror-file-not-found-moved = Athugaðu hvort skráin hefur verið færð, endurnefnd eða eytt.
 neterror-access-denied = Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.
 neterror-unknown-protocol = Til að opna þetta veffang gætir þú þurft að hlaða inn öðrum hugbúnaði.

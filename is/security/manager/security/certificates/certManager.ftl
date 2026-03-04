@@ -102,7 +102,7 @@ pkcs12-dup-data = Skilríkið og einkalykillinn er þegar til á öryggistækinu
 
 ## PKCS#12 file dialogs
 
-choose-p12-backup-file-dialog = Skráarnafn til að taka afrit af
+choose-p12-backup-file-dialog = Heiti á skrá sem á að taka afrit af
 file-browse-pkcs12-spec = PKCS12 skrár
 choose-p12-restore-file-dialog = Skilríkisskrá til að flytja inn
 

@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Jo eksimplaar fan { $profilename } is klear foar oanpassing
 copied-profile-page-header-description = Wy hawwe jo gegevens en ynstellingen nei in nij profyl kopiearre. Jou it no in namme, kies in uterlik en meitsje it jo eigen.
+restored-profile-page-header = Jo werstelde profyl oanpasse
+restored-profile-page-header-description = Elk profyl hâldt syn unike navigaasjeskiednis en ynstellingen skieden fan jo oare profilen. Plus, de sterke privacybeskermingen fan { -brand-short-name } binne standert ynskeakele.
+restored-profile-page-learn-more = Mear ynfo
 profile-window-title-2 = { -brand-short-name } – Profyl kieze
 profile-window-logo =
     .alt = { -brand-short-name }-logo

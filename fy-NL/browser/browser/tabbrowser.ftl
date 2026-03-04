@@ -417,6 +417,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Splitste werjefte ôfsûnderje
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Ljepblêden omkeare
+    .accesskey = o
 tab-context-badge-new = Nij
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
