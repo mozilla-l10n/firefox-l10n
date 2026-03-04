@@ -677,6 +677,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Neue Liste
 newtab-widget-section-title = Widgets
+newtab-widget-menu-hide = Widget ausblenden
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Widgets ausblenden

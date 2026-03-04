@@ -203,8 +203,17 @@ pdfjs-thumb-page-canvas =
     .aria-label = Miniaturansicht von Seite { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Seite { $page } auswählen
+# Variables:
+#   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = Seite { $page } auswählen
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Seite { $page } von { $total }
 
 ## Find panel button title and messages
 

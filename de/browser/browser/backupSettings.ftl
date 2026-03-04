@@ -60,6 +60,8 @@ settings-data-backup-scheduled-backups-on-restore-description = Stellen Sie Ihre
 settings-data-backup-scheduled-backups-on-restore-choose = Wiederherstellen…
 settings-data-toggle-encryption-label = Sichern Sie Ihre sensiblen Daten
 settings-data-toggle-encryption-support-link = Weitere Informationen
+settings-data-change-password2 =
+    .label = Passwort ändern
 settings-data-change-password = Passwort ändern…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +104,9 @@ turn-off-scheduled-backups-confirm-button = Datensicherung deaktivieren und lös
 restore-from-backup-header = Daten wiederherstellen
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Was wird wiederhergestellt?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Dies wird alle Ihre aktuellen { -brand-short-name }-Daten durch das Backup vom { DATETIME($date, timeStyle: "short", dateStyle: "short") } ersetzen.
 restore-from-backup-support-link =
@@ -119,6 +124,13 @@ restore-from-backup-password-description = Dies entsperrt Ihr verschlüsseltes B
 restore-from-backup-cancel-button = Abbrechen
 restore-from-backup-confirm-button = Wiederherstellen und neu starten
 restore-from-backup-restoring-button = Wird wiederhergestellt…
+restore-from-backup-type-group-label =
+    .label = Aktuelles Profil ersetzen?
+restore-from-backup-type-replace =
+    .label = Alle Daten durch dieses Backup ersetzen
+restore-from-backup-type-add =
+    .label = Daten behalten und neues Profil erstellen
+restore-from-backup-profiles-disabled-message = Dies wird alle Ihre aktuellen { -brand-short-name }-Daten durch Ihre Backup-Daten ersetzen.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
