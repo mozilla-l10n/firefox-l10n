@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = 請連線到網際網
 ipprotection-message-bandwidth-warning =
     .heading = VPN 流量即將用完
     .message = 這個月您還剩下 { $usageLeft } GB 可以使用。（上限 { $maxUsage } GB）
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = VPN 流量即將用完
+    .message = 這個月可使用 { $maxUsage } GB，剩餘 { $usageLeft } MB 可用。
 ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的所在位置，並在上網時多加一層加密保護。
 ipprotection-message-continuous-onboarding-autostart = 設定在每次開啟 { -brand-short-name } 時<a data-l10n-name="setting-link">就自動開啟 VPN</a>，讓您受到更多一層保護。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 會記得您設定要讓哪些網站透過 VPN 開啟。也可隨時到<a data-l10n-name="setting-link">設定</a>當中調整。

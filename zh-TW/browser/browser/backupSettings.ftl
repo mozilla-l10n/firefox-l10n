@@ -145,6 +145,13 @@ restore-from-backup-password-description = 將解開您的加密備份檔。
 restore-from-backup-cancel-button = 取消
 restore-from-backup-confirm-button = 還原並重新啟動
 restore-from-backup-restoring-button = 還原中…
+restore-from-backup-type-group-label =
+    .label = 要取代目前設定檔嗎？
+restore-from-backup-type-replace =
+    .label = 用此備份檔當中的內容取代所有資料
+restore-from-backup-type-add =
+    .label = 保留現有資料，建立新設定檔
+restore-from-backup-profiles-disabled-message = 將用備份檔當中的資料，取代您 { -brand-short-name } 目前所有的資料。
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -266,6 +273,15 @@ backup-file-other-browser-restore-step-4 = 收到提示後，重新啟動 { -bra
 # Variables:
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>註：</b>找到另 { $numberOfOtherBackupsFound } 個備份檔
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 建立於 { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = 從 { $deviceName } 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 還原
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
