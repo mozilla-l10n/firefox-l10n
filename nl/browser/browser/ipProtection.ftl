@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Maak verbinding met h
 ipprotection-message-bandwidth-warning =
     .heading = U nadert uw VPN-limiet
     .message = U hebt nog { $usageLeft } GB van { $maxUsage } GB over deze maand
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = U nadert uw VPN-limiet
+    .message = U hebt nog { $usageLeft } MB van { $maxUsage } GB over deze maand.
 ipprotection-message-continuous-onboarding-intro = Schakel VPN in om uw locatie te verbergen en extra versleuteling aan uw navigatie toe te voegen.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN in om</a> telkens als u { -brand-short-name } opent in te schakelen voor een extra beschermingslaag.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } onthoudt welke websites u hebt ingesteld voor het gebruik van VPN. Werk deze op elk gewenst moment bij in de <a data-l10n-name="setting-link">instellingen</a>.
