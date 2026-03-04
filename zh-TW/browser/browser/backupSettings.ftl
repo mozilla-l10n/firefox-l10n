@@ -22,6 +22,9 @@ backup-folder-name = 還原 { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
+settings-data-backup-header2 =
+    .label = 備份
+    .description = 自動保護您的書籤、瀏覽紀錄與其他資料。
 settings-data-backup-header = 備份
 settings-data-backup-toggle = 管理備份
 settings-data-backup-toggle-on2 =
@@ -38,6 +41,13 @@ settings-data-backup-scheduled-backups-on = 備份：開啟
 settings-data-backup-scheduled-backups-off = 備份：關閉
 settings-data-backup-scheduled-backups-description = 自動保護您的書籤、瀏覽紀錄與其他資料。<a data-l10n-name="support-link">了解更多</a>
 settings-data-backup-last-backup-date = 上次備份時間：{ DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = 備份已開啟
+settings-data-backup-scheduled-backups-off2 =
+    .label = 備份已關閉
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = 備份位置
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = 位置
 settings-data-backup-last-backup-location-show-in-folder = 於資料夾顯示

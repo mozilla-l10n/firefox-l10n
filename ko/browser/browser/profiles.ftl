@@ -67,6 +67,7 @@ new-profile-page-done-button =
 copied-profile-page-header = { $profilename } 사본을 사용자 지정할 준비가 되었습니다.
 copied-profile-page-header-description = 사용자의 데이터와 설정을 새 프로필에 복사했습니다. 이제 이름을 지정하고, 모양을 골라 자신 만의 것으로 만드세요.
 restored-profile-page-header = 복원된 프로필 사용자 지정
+restored-profile-page-header-description = 각 프로필은 고유한 방문 기록과 설정을 다른 프로필과 구분하여 유지합니다. 또한 { -brand-short-name }의 강력한 개인 정보 보호는 기본적으로 켜져 있습니다.
 restored-profile-page-learn-more = 더 알아보기
 profile-window-title-2 = { -brand-short-name } - 프로필 선택
 profile-window-logo =
