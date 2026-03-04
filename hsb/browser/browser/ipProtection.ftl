@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Zwjazajće z internet
 ipprotection-message-bandwidth-warning =
     .heading = Docpějeće waš limit VPN
     .message = Maće { $usageLeft } GB z { $maxUsage } GB tutón měsac wyše.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Docpějeće waš limit VPN
+    .message = Maće tutón měsac { $usageLeft } MB z { $maxUsage } GB wyše.
 ipprotection-message-continuous-onboarding-intro = Zmóžńće VPN, zo byšće swoje stejnišćo schował a přidajće swojemu přehladowanju přidatne zaklučowanje.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžńće VPN</a> za přidatnu škitnu runinu, kóždy raz, hdyž { -brand-short-name } wočinjeće.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } so na to dopomina, za kotre websydła so ma VPN wužiwać. Aktualizujće tute kóždy čas w <a data-l10n-name="setting-link">nastajenjach</a>.

@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } wobnowić
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Zawěsćenje { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Zawěsćenje
+    .description = Škitajće awtomatisce swoje zapołožki, historiju a druhe daty.
 settings-data-backup-header = Zawěsćenje
 settings-data-backup-toggle = Zawěsćenje rjadować
 settings-data-backup-toggle-on2 =
@@ -51,9 +54,18 @@ settings-data-backup-last-backup-location-show-in-folder = W rjadowaku pokazać
 settings-data-backup-last-backup-location-edit = Wobdźěłać…
 settings-data-create-backup-error = Při wašim zawěsćenju  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } je zmylk nastał
 settings-sensitive-data-encryption-description = Zawěsćće swoje hesła a płaćenske metody a dźeržće wšě swoje daty wěste ze zaklučowanjom.
+settings-data-toggle-encryption-label2 =
+    .label = Zawěsćće swoje sensibelne daty
+    .description = Zawěsćće swoje hesła a płaćenske metody a wobchowajće swoje daty wěste ze zaklučowenjom.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datajowe mjeno: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Waše daty wobnowić
+    .description = Wobnowće swoje daty { -brand-product-name } z časa, hdyž su so zawěsćili.
+settings-data-backup-restore-scheduled-off =
+    .label = Waše daty wobnowić
+    .description = Wužiwajće zawěsćenje { -brand-product-name } z druheho grata, zo byšće swoje daty wobnowił.
 settings-data-backup-restore-header = Waše daty wobnowić
 
 ## These strings are shown under the header if scheduled backups are disabled.
