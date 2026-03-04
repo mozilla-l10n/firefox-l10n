@@ -23,7 +23,7 @@ xpinstall-prompt-never-allow =
 # Long text in this context make the dropdown menu extend awkwardly to the left,
 # avoid a localization that's significantly longer than the English version.
 xpinstall-prompt-never-allow-and-report =
-    .label = 回報可疑網站
+    .label = 檢舉可疑網站
     .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
@@ -80,7 +80,7 @@ addon-removal-title = 要移除 { $name } 嗎？
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = 要從 { -brand-shorter-name } 移除 { $name } 嗎？
 addon-removal-button = 移除
-addon-removal-abuse-report-checkbox = 回報此擴充套件給 { -vendor-short-name }
+addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 檢舉此擴充套件
 # "it" refers to the local AI model that is paired to the AI feature
 addon-mlmodel-removal-body = 若您用到會使用此模型的功能或擴充套件，將會重新安裝此模型。
 # Variables:

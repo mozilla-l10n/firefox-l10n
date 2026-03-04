@@ -55,6 +55,9 @@ settings-sensitive-data-encryption-description = Salveguarda tu contrasignos e t
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomine de file: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaura tu datos
+    .description = Recupera le datos de tu { -brand-product-name } retro ab le ultime vice que illos era salveguardate.
 settings-data-backup-restore-header = Restaurar tu datos
 
 ## These strings are shown under the header if scheduled backups are disabled.

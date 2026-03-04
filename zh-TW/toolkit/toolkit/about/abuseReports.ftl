@@ -8,9 +8,9 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = 回報 { $addon-name }
-abuse-report-title-extension = 回報此擴充套件給 { -vendor-short-name }
-abuse-report-title-sitepermission = 回報此網站權限附加元件給 { -vendor-short-name }
-abuse-report-title-theme = 回報此佈景主題給 { -vendor-short-name }
+abuse-report-title-extension = 向 { -vendor-short-name } 檢舉此擴充套件
+abuse-report-title-sitepermission = 向 { -vendor-short-name } 檢舉此附加元件的網站權限
+abuse-report-title-theme = 向 { -vendor-short-name } 檢舉此佈景主題
 abuse-report-subtitle = 有什麼問題？
 # Variables:
 #   $author-name (string) - Name of the add-on author
