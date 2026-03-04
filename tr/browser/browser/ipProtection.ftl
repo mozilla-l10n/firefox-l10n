@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = İnternete bağlandı
 ipprotection-message-bandwidth-warning =
     .heading = VPN kotanız dolmak üzere
     .message = Bu ayki { $maxUsage } GB kotanızdan { $usageLeft } GB kaldı.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = VPN kotanız dolmak üzere
+    .message = Bu ayki { $maxUsage } GB hakkınızdan { $usageLeft } MB kaldı.
 ipprotection-message-continuous-onboarding-intro = Konumunuzu gizlemek ve gezintilerinize ekstra şifreleme eklemek için VPN’i açabilirsiniz.
 ipprotection-message-continuous-onboarding-autostart = Ekstra koruma için { -brand-short-name } tarayıcınızı her açtığınızda <a data-l10n-name="setting-link">VPN’i açılacak şekilde ayarlayabilirsiniz</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hangi sitelerde VPN kullandığınızı hatırlayacaktır. Bunları istediğiniz zaman <a data-l10n-name="setting-link">ayarlar</a> üzerinden güncelleyebilirsiniz.
@@ -98,6 +104,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapal�
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Yerleşik VPN’i beğendiniz mi? { -mozilla-vpn-brand-name } ile { -brand-product-name } dışında daha fazla korumaya sahip olabilirsiniz.
+ipprotection-bandwidth-upgrade-text = İstediğiniz VPN konumunu seçin, ister evde ister halka açık Wi-Fi ağlarında 5 cihaza kadar tüm uygulamalarınızı koruyun.
 
 ## IP Protection bandwidth warning infobar
 

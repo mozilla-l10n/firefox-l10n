@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = “Do Not Track” özelliğini artık desteklemiyoruz.
 non-technical-privacy-heading =
     .label = Ek korumalar
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } e-posta maskeleri öner
+    .description = Gerçek e-posta adresinizi gizleyerek gelen kutunuzu spam’den korur.
 non-technical-privacy-header = Web sitesi gizlilik tercihleri
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -535,6 +538,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = Sözlük indir
+spellcheck-promo =
+    .heading = Yazım denetimi nasıl kullanılır?
+    .message = Yazım denetimini açıp kapatmak veya dil değiştirmek için metin alanlarına sağ tıklayın. Bazı alanlar yazım denetimini desteklemeyebilir.
 
 ## General Section - Files and Applications
 
@@ -792,11 +798,20 @@ network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
     .label = Ayarlar…
     .accesskey = A
+network-proxy-group2 =
+    .label = Vekil sunucu ayarları
+    .description = { -brand-short-name } tarayıcısının internete nasıl bağlanacağını yapılandırın.
+network-proxy-connection-settings2 =
+    .label = Vekil sunucuyu yapılandır
+    .description = Bu ayarları değiştirmeniz bağlantı sorunlarına yol açabilir
+    .accesskey = V
 
 ## Home Section
 
 home-new-windows-tabs-header = Yeni pencere ve sekmeler
 home-new-windows-tabs-description2 = Giriş sayfanızı, yeni pencereleri ve yeni sekmeleri açtığınızda ne görmek istediğinizi seçin.
+home-section =
+    .heading = Giriş sayfası ve başlangıç
 
 ## Home Section - Default Browser
 
@@ -1616,6 +1631,9 @@ history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =
     .label = geçmişi hatırlasın
+history-remember-option-never2 =
+    .label = Geçmişi asla hatırlama
+    .description = Tüm pencereler gizli pencere gibi çalışır. Bu ayarı açtığınızda uzantılara da izin vermeniz gerekir.
 history-remember-option-custom2 =
     .label = Geçmişi özelleştir
 history-remember-option-never =
@@ -1662,6 +1680,9 @@ history-clear-button =
     .accesskey = G
 history-header2 =
     .heading = Geçmiş
+history-section-header =
+    .label = Geçmiş
+    .description = { -brand-short-name } tarayıcısını kapattığınızda nelerin hatırlanacağını seçin.
 history-group =
     .label = Geçmiş
 history-remember-option-all2 =
@@ -1673,6 +1694,10 @@ sitedata-header = Çerezler ve site verileri
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Site verilerinin ve önbelleğin boyutu hesaplanıyor…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Web siteleri şu anda <strong>{ $value } { $unit }</strong> disk alanı kullanıyor.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")

@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } Geri Yukleme
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Yedek
+settings-data-backup-header2 =
+    .label = Yedekleme
+    .description = Yer imlerinizi, geçmişinizi ve diğer verilerinizi otomatik olarak koruyun.
 settings-data-backup-header = Yedekleme
 settings-data-backup-toggle = Yedeklemeyi yönet
 settings-data-backup-toggle-on2 =
@@ -38,6 +41,13 @@ settings-data-backup-scheduled-backups-on = Yedekleme: AÇIK
 settings-data-backup-scheduled-backups-off = Yedekleme: KAPALI
 settings-data-backup-scheduled-backups-description = Yer imlerinizi, geçmişinizi ve diğer verilerinizi otomatik olarak koruyun. <a data-l10n-name="support-link">Daha fazla bilgi alın</a>
 settings-data-backup-last-backup-date = Son yedekleme: { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Yedekleme AÇIK
+settings-data-backup-scheduled-backups-off2 =
+    .label = Yedekleme KAPALI
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Yedekleme konumu
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Konum
 settings-data-backup-last-backup-location-show-in-folder = Klasörde göster
@@ -58,8 +68,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Yedek dosyasını se
 
 settings-data-backup-scheduled-backups-on-restore-description = { -brand-product-name } verilerinizi en son yedeklendiği zamandan geri getirin.
 settings-data-backup-scheduled-backups-on-restore-choose = Geri yükle…
+settings-sensitive-data =
+    .label = Hassas veriler
 settings-data-toggle-encryption-label = Hassas verilerimi yedekle
 settings-data-toggle-encryption-support-link = Daha fazla bilgi al
+settings-data-change-password2 =
+    .label = Parolayı değiştir
 settings-data-change-password = Parolayı değiştir…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +116,9 @@ turn-off-scheduled-backups-confirm-button = Yedeklemeyi kapat ve sil
 restore-from-backup-header = Verilerinizi geri yükleyin
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Neler geri yüklenecek?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Bu işlem, mevcut { -brand-short-name } verilerinizin hepsini { DATETIME($date, timeStyle: "short", dateStyle: "short") } tarihli yedeğinizle değiştirecektir.
 restore-from-backup-support-link =
@@ -119,6 +136,8 @@ restore-from-backup-password-description = Bu parola, şifrelenmiş yedeğinizi 
 restore-from-backup-cancel-button = Vazgeç
 restore-from-backup-confirm-button = Geri yükle ve yeniden başlat
 restore-from-backup-restoring-button = Geri yükleniyor…
+restore-from-backup-type-group-label =
+    .label = Mevcut profil değiştirilsin mi?
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
