@@ -638,7 +638,7 @@ newtab-report-submit = Skicka in
 newtab-toast-thanks-for-reporting =
     .message = Tack för att du rapporterade detta.
 newtab-toast-widgets-hidden =
-    .message = Välj blyertsikonen för att lägga till widgetar när som helst.
+    .message = Välj pennikonen för att lägga till widgetar igen när som helst.
 
 ## Strings for task / to-do list productivity widget
 

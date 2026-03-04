@@ -146,12 +146,12 @@ restore-from-backup-cancel-button = Avbryt
 restore-from-backup-confirm-button = Återställ och starta om
 restore-from-backup-restoring-button = Återställer…
 restore-from-backup-type-group-label =
-    .label = Byta ut nuvarande profil?
+    .label = Ersätt aktuell profil?
 restore-from-backup-type-replace =
     .label = Ersätt all data med denna säkerhetskopia
 restore-from-backup-type-add =
-    .label = Behåll data och skapa ny profil
-restore-from-backup-profiles-disabled-message = Detta ersätter alla dina nuvarande { -brand-short-name }-data med din säkerhetskopia.
+    .label = Behåll data och skapa en ny profil
+restore-from-backup-profiles-disabled-message = Detta kommer att ersätta all din nuvarande { -brand-short-name }-data med din säkerhetskopia.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -281,7 +281,7 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata = { $profileName } Skapad den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } den { $machineName }
+backup-file-creation-metadata = { $profileName } Skapad den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
