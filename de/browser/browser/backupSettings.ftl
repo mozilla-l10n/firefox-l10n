@@ -60,6 +60,12 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dateiname: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Ihre Daten wiederherstellen
+    .description = Stellen Sie Ihre { -brand-product-name }-Daten aus der letzten Sicherung wieder her.
+settings-data-backup-restore-scheduled-off =
+    .label = Ihre Daten wiederherstellen
+    .description = Benutzen Sie eine { -brand-product-name }-Sicherung von einem anderen Gerät zur Wiederherstellung Ihrer Daten.
 settings-data-backup-restore-header = Daten wiederherstellen
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -71,6 +77,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = Sicherungsdatei wäh
 
 settings-data-backup-scheduled-backups-on-restore-description = Stellen Sie Ihre { -brand-product-name }-Daten von der letzten Sicherungskopie wieder her.
 settings-data-backup-scheduled-backups-on-restore-choose = Wiederherstellen…
+settings-sensitive-data =
+    .label = Sensible Daten
 settings-data-toggle-encryption-label = Sichern Sie Ihre sensiblen Daten
 settings-data-toggle-encryption-support-link = Weitere Informationen
 settings-data-change-password2 =
@@ -269,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Hinweis:</b> { $numberOfOtherBackupsFound } weitere Sicherungsdatei gefunden
        *[other] <b>Hinweis:</b> { $numberOfOtherBackupsFound } weitere Sicherungsdateien gefunden
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Erstellt am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } auf { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Wiederhergestellt von { $deviceName } am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } um { DATETIME($date, hour: "2-Digit", minute: " 2-stellige") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

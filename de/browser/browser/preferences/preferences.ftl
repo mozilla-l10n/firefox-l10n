@@ -2320,6 +2320,17 @@ preferences-doh-advanced-section =
 preferences-doh-manage-exceptions2 =
     .label = Ausnahmen verwalten
     .accesskey = u
+preferences-doh-radio-default =
+    .label = Standard
+    .description = Sicheres DNS in Regionen verwenden, in denen es verfügbar ist.
+preferences-doh-radio-custom =
+    .label = Benutzerdefiniert
+    .description = Immer sicheres DNS verwenden mit Kontrolle über den Anbieter und das Rückfall-Verhalten.
+preferences-doh-radio-off =
+    .label = Aus
+    .description = Ihren Standard-DNS-Resolver verwenden.
+preferences-doh-fallback-label =
+    .label = Immer warnen, wenn kein sicheres DNS verfügbar ist
 preferences-doh-status-item-off =
     .message = DNS über HTTPS ist deaktiviert
 # Variables:
