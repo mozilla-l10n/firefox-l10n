@@ -47,7 +47,7 @@ settings-data-backup-scheduled-backups-off2 =
     .label = Säkerhetskopiering är AV
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
-    .label = Plats för backup
+    .label = Säkerhetskopieringsplats
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plats
 settings-data-backup-last-backup-location-show-in-folder = Visa i mapp
