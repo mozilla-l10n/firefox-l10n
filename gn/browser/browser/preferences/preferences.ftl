@@ -797,6 +797,13 @@ network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
     .label = Ñemboheko…
     .accesskey = e
+network-proxy-group2 =
+    .label = Proxy ñemboheko
+    .description = Emboheko mba’éichapa { -brand-short-name } ojuaju ñandutíre.
+network-proxy-connection-settings2 =
+    .label = Emboheko proxy
+    .description = Emoambuévo ko’ã ñemboheko omoapañuaikuaa nde jeike
+    .accesskey = p
 
 ## Home Section
 
@@ -2004,6 +2011,9 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Ejoko ovetã apysẽ ha emoma’ẽ mohapyháa gotyo
     .accesskey = B
+permissions-addon-install-warning3 =
+    .label = Ehechauka kyhyjerã oĩrõ ñanduti rogue omohendaséva jepysokue
+    .accesskey = W
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
