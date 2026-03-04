@@ -277,7 +277,7 @@ other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOther
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata = { $profileName } { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성됨
+backup-file-creation-metadata = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성된 { $profileName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
