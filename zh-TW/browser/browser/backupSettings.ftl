@@ -54,9 +54,18 @@ settings-data-backup-last-backup-location-show-in-folder = 於資料夾顯示
 settings-data-backup-last-backup-location-edit = 編輯…
 settings-data-create-backup-error = 於 { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") } 進行備份時，發生錯誤
 settings-sensitive-data-encryption-description = 加密備份您的網站密碼與付款方式，確保資料安全。
+settings-data-toggle-encryption-label2 =
+    .label = 備份您的敏感資料
+    .description = 除了其他資料外，以加密方式備份您的網站密碼、付款方式。
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 檔案名稱：{ $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = 還原您的資料
+    .description = 從最後一次備份還原您的 { -brand-product-name } 資料。
+settings-data-backup-restore-scheduled-off =
+    .label = 還原您的資料
+    .description = 使用另一台裝置上的 { -brand-product-name } 備份資料來還原。
 settings-data-backup-restore-header = 還原您的資料
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -68,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = 選擇備份檔…
 
 settings-data-backup-scheduled-backups-on-restore-description = 還原先前備份的 { -brand-product-name } 資料。
 settings-data-backup-scheduled-backups-on-restore-choose = 還原…
+settings-sensitive-data =
+    .label = 敏感資料
 settings-data-toggle-encryption-label = 備份敏感資料
 settings-data-toggle-encryption-support-link = 了解更多
+settings-data-change-password2 =
+    .label = 更改密碼
 settings-data-change-password = 更改密碼…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -110,6 +123,9 @@ turn-off-scheduled-backups-confirm-button = 關閉並刪除備份檔
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = 還原您的資料
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = 會還原哪些資料？
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
