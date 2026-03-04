@@ -797,11 +797,17 @@ network-proxy-connection-settings =
 network-proxy-group2 =
     .label = Налады проксі
     .description = Наладзьце, як { -brand-short-name } злучаецца з Інтэрнэтам.
+network-proxy-connection-settings2 =
+    .label = Наладзіць проксі
+    .description = Змена гэтых налад можа выклікаць праблемы з падключэннем
+    .accesskey = з
 
 ## Home Section
 
 home-new-windows-tabs-header = Новыя вокны і карткі
 home-new-windows-tabs-description2 = Выберыце, што бачыць, калі вы адкрываеце хатнюю старонку, новае акно ці картку.
+home-section =
+    .heading = Хатняя старонка і запуск
 
 ## Home Section - Default Browser
 
@@ -1061,6 +1067,16 @@ search-one-click-desc = Абярыце альтэрнатыўныя пашука
 search-one-click-header-3 =
     .label = Дадатковыя пошукавыя сістэмы
     .description = Выберыце, якія пошукавыя сістэмы і цэтлікі будуць адлюстроўвацца ў адрасным радку.
+update-search-engine-success =
+    .message = Пошукавая сістэма паспяхова абноўлена
+search-edit-engine-2 =
+    .title = Змяніць пашукавік
+search-delete-engine =
+    .title = Выдаліць пашукавік
+search-enable-engine =
+    .title = Уключыць пашукавік
+search-outlink-to-extensions-page =
+    .title = Кіраванне ў пашырэннях і тэмах
 search-choose-engine-column =
     .label = Пашукавік
 search-choose-keyword-column =
@@ -1658,6 +1674,8 @@ history-header2 =
     .heading = Гісторыя
 history-group =
     .label = Гісторыя
+history-remember-option-all2 =
+    .label = памятаць гісторыю
 
 ## Privacy Section - Site Data
 
