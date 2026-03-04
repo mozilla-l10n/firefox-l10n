@@ -203,8 +203,17 @@ pdfjs-thumb-page-canvas =
     .aria-label = Kuatiarogue mba’emirĩ { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Eiporavo kuatiarogue { $page }
+# Variables:
+#   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = Eiporavo kuatiarogue { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Kuatiarogue { $page } { $total } mba’e
 
 ## Find panel button title and messages
 

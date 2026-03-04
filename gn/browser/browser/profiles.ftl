@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Ne ñongatu { $profilename }-pegua oĩma embohéra hag̃ua
 copied-profile-page-header-description = Rombohasa ne mba’ekuaarã ha ñemoĩporã mbaéte pyahúpe. Ko’ág̃a embohéra, eiporavo peteĩchagua ha emboavaite.
+restored-profile-page-learn-more = Eikuaave
 profile-window-title-2 = { -brand-short-name } - Eiporavo mba’ete
 profile-window-logo =
     .alt = { -brand-short-name } ra’ãnga’i
