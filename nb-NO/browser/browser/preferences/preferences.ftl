@@ -1702,12 +1702,19 @@ sitedata-total-size-calculating = Regner ut størrelse på nettstedsdata og hurt
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Nettsteder bruker for øyeblikket <strong>{ $value } { $unit }</strong> med diskplass.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Dine lagrede infokapsler, historikk, nettstedsdata og hurtiglager bruker for øyeblikket <strong>{ $value } { $unit }</strong> diskplass.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dine lagrede infokapsler, nettstedsdata og hurtiglager bruker for øyeblikket { $value } { $unit } diskplass.
 sitedata-learn-more = Les mer
+sitedata-delete-on-close2 =
+    .label = Fjern infokapsler og nettstedsdata hver gang du lukker { -brand-short-name }
+    .accesskey = n
 sitedata-delete-on-close =
     .label = Slett infokapsler og nettsteddata når { -brand-short-name } stenger
     .accesskey = S
