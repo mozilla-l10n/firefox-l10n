@@ -60,6 +60,12 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Bestânsnamme: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Jo gegevens werstelle
+    .description = Jo { -brand-product-name }-gegevens werstelle fan de lêste reservekopy út.
+settings-data-backup-restore-scheduled-off =
+    .label = Jo gegevens werstelle
+    .description = In reservekopy fan { -brand-product-name } fan in oar apparaat brûke om jo gegevens te werstellen.
 settings-data-backup-restore-header = Jo gegevens reparearje
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -71,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Kies reservekopybest
 
 settings-data-backup-scheduled-backups-on-restore-description = Jo { -brand-product-name }-gegevens reparearje fan de lêste reservekopy út.
 settings-data-backup-scheduled-backups-on-restore-choose = Reparearje…
+settings-sensitive-data =
+    .label = Gefoelige gegevens
 settings-data-toggle-encryption-label = Meitsje in reservekopy fan jo gefoelige gegevens
 settings-data-toggle-encryption-support-link = Mear ynfo
+settings-data-change-password2 =
+    .label = Wachtwurd wizigje
 settings-data-change-password = Wachtwurd wizigje…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -115,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Reservekopy útskeakelje en fuortsmi
 restore-from-backup-header = Jo gegevens reparearje
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Wat wurdt der wersteld?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Dit ferfangt al jo aktuele { -brand-short-name }-gegevens troch jo reservekopy fan { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -132,6 +145,13 @@ restore-from-backup-password-description = Hjirtroch wurdt jo fersifere reservek
 restore-from-backup-cancel-button = Annulearje
 restore-from-backup-confirm-button = Reparearje en opnij starte
 restore-from-backup-restoring-button = Reparearje…
+restore-from-backup-type-group-label =
+    .label = Aktuele profyl ferfange?
+restore-from-backup-type-replace =
+    .label = Alle gegevens troch dizze reservekopy ferfange
+restore-from-backup-type-add =
+    .label = Gegevens behâlde en in nij profyl oanmeitsje
+restore-from-backup-profiles-disabled-message = Dit ferfangt al jo aktuele { -brand-short-name }-gegevens troch jo reservekopy.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -257,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Opmerking:</b> { $numberOfOtherBackupsFound } oar reservekopybestân fûn
        *[other] <b>Opmerking:</b> { $numberOfOtherBackupsFound } oare reservekopybestannen fûn
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Makke op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } op { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Wersteld fan { $deviceName } ôf op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } om { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
