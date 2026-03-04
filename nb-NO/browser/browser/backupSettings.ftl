@@ -22,6 +22,9 @@ backup-folder-name = Gjenopprett { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-sikkerhetskopi
+settings-data-backup-header2 =
+    .label = Sikkerhetskopi
+    .description = Beskytt bokmerkene, historikken og andre data automatisk.
 settings-data-backup-header = Sikkerhetskopiering
 settings-data-backup-toggle = Behandle sikkerhetskopiering
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Sikkerhetskopiering: PÅ
 settings-data-backup-scheduled-backups-off = Sikkerhetskopiering: AV
 settings-data-backup-scheduled-backups-description = Beskytt bokmerkene, historikken og andre data automatisk. <a data-l10n-name="support-link">Les mer</a>
 settings-data-backup-last-backup-date = Siste sikkerhetskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Sikkerhetskopiering er PÅ
+settings-data-backup-scheduled-backups-off2 =
+    .label = Sikkerhetskopiering er AV
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Plassering for sikkerhetskopi
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Det oppstod en feil under oppretting av sikkerhetskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sikkerhetskopier passordene og betalingsmåtene dine, og hold alle dataene dine trygge med kryptering.
+settings-data-toggle-encryption-label2 =
+    .label = Sikkerhetskopier sensitive data
+    .description = Sikkerhetskopier passord og betalingsmåter, og hold alle dine data trygge med kryptering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnavn: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Gjenopprett dine data
+    .description = Gjenopprett dine { -brand-product-name }-data fra siste sikkerhetskopi.
+settings-data-backup-restore-scheduled-off =
+    .label = Gjenopprett dine data
+    .description = Bruk en { -brand-product-name }-sikkerhetskopi fra en annen enhet for å gjenopprette dine data.
 settings-data-backup-restore-header = Gjenopprett dine data
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Velg sikkerhetskopif
 
 settings-data-backup-scheduled-backups-on-restore-description = Gjenopprett dine { -brand-product-name }-data fra forrige gang de ble sikkerhetskopiert.
 settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
+settings-sensitive-data =
+    .label = Sensitive data
 settings-data-toggle-encryption-label = Sikkerhetskopier sensitive data
 settings-data-toggle-encryption-support-link = Les mer
+settings-data-change-password2 =
+    .label = Endre passord
 settings-data-change-password = Endre passord…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Slå av og slett sikkerhetskopien
 restore-from-backup-header = Gjenopprett dine data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Hva vil bli gjenopprettet?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Dette vil erstatte alle dine nåværende { -brand-short-name }-data med sikkerhetskopien din fra { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +145,13 @@ restore-from-backup-password-description = Dette låser opp den krypterte sikker
 restore-from-backup-cancel-button = Avbryt
 restore-from-backup-confirm-button = Gjenopprett og start på nytt
 restore-from-backup-restoring-button = Gjenoppretter…
+restore-from-backup-type-group-label =
+    .label = Erstatte gjeldende profil?
+restore-from-backup-type-replace =
+    .label = Erstatt alle data med denne sikkerhetskopien
+restore-from-backup-type-add =
+    .label = Behold data og opprett ny profil
+restore-from-backup-profiles-disabled-message = Dette vil erstatte alle dine nåværende { -brand-short-name }-data med din sikkerhetskopi.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -244,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Merk:</b> { $numberOfOtherBackupsFound } annen sikkerhetskopifil funnet
        *[other] <b>Merk:</b> { $numberOfOtherBackupsFound } andre sikkerhetskopifiler funnet
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } opprettet { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Gjenopprettet fra { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
