@@ -72,7 +72,7 @@ fxa-adoption-primary-button-label = Գրանցվել
 
 ## Protections panel
 
-cfr-protections-panel-header = Զննել առանց հետագծվելու
+cfr-protections-panel-header = Դիտարկել  առանց հետագծվելու
 cfr-protections-panel-body = Ձեր տվյալները պահեք ձեզ մոտ: { -brand-short-name }-ը ձեզ պաշտպանում է ամենատարածված վնասներից, որոնք հետևում են այն ամենին, ինչ դուք անում եք առցանց:
 cfr-protections-panel-link-text = Իմանալ ավելին
 

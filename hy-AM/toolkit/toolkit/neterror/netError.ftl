@@ -25,7 +25,7 @@ neterror-return-to-previous-page-button = Հետ գնալ
 neterror-return-to-previous-page-recommended-button = Հետ գնալ (առաջարկվում է)
 neterror-try-again-button = Կրկին փորձել
 neterror-settings-button = Փոխել DNS-ի կարգավորումները
-neterror-view-certificate-link = Զննել Արտոնագիրը
+neterror-view-certificate-link = Տեսնել արտոնագիրը
 
 ##
 
