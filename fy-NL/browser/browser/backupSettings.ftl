@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } reparearje
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-reservekopy
+settings-data-backup-header2 =
+    .label = Reservekopy
+    .description = Automatysk jo blêdwizers, skiednis en oare gegevens beskermje.
 settings-data-backup-header = Reservekopy
 settings-data-backup-toggle = Reservekopy beheare
 settings-data-backup-toggle-on2 =
@@ -38,12 +41,22 @@ settings-data-backup-scheduled-backups-on = Reservekopy: OAN
 settings-data-backup-scheduled-backups-off = Reservekopy: ÚT
 settings-data-backup-scheduled-backups-description = Beskermje automatysk jo blêdwizers, skiednis en oare gegevens. <a data-l10n-name="support-link">Mear ynfo</a>
 settings-data-backup-last-backup-date = Lêste reservekopy: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Reservekopy is OAN
+settings-data-backup-scheduled-backups-off2 =
+    .label = Reservekopy is ÚT
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Reservekopylokaasje
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Lokaasje
 settings-data-backup-last-backup-location-show-in-folder = Yn map toane
 settings-data-backup-last-backup-location-edit = Bewurkje…
 settings-data-create-backup-error = Der is op { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } in flater bard by it meitsjen fan jo reservekopy
 settings-sensitive-data-encryption-description = Meitsje in reservekopy fan jo wachtwurden en betellingsmetoaden, en hâld al jo gegevens feilich mei fersifering.
+settings-data-toggle-encryption-label2 =
+    .label = In reservekopy fan jo gefoelige gegevens meitsje
+    .description = In reservekopy fan jo wachtwurden en betellingsmetoaden meitsje, plus al jo gegevens feilich hâlde mei fersifering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Bestânsnamme: { $fileName }
