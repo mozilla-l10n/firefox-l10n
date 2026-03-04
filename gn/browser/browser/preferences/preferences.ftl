@@ -2267,6 +2267,11 @@ preferences-doh-status-item-off =
     .message = DNS HTTPS rehegua ojepe’a
 preferences-doh-select-resolver-label =
     .label = Eiporavo me’ẽha:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Eiporu ko me’ẽhára emoĩporã hag̃ua DNS HTTPS rupive
 
 ## The following strings are used in the Download section of settings
 
