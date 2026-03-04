@@ -1683,8 +1683,15 @@ history-header2 =
 history-section-header =
     .label = Historikk
     .description = Velg hva du vil at { -brand-short-name } skal huske når du lukker nettleseren.
+history-custom-section-header =
+    .label = Avanserte innstillinger
+    .description = Tilpass hva du vil at { -brand-short-name } skal huske når du lukker nettleseren.
+history-custom-button =
+    .label = Velg hva du vil at { -brand-short-name } skal huske
 history-group =
     .label = Historikk
+history-remember-option-all2 =
+    .label = Huske historikk
 
 ## Privacy Section - Site Data
 

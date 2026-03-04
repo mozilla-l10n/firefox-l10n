@@ -43,6 +43,8 @@ settings-data-backup-scheduled-backups-description = Automaticamente protege tu 
 settings-data-backup-last-backup-date = Ultime copia de securitate: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Le function Copia de securitate es ACTIVE
+settings-data-backup-scheduled-backups-off2 =
+    .label = Le function Copia de securitate es DISACTIVATE
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Posto del copia de reserva
@@ -52,12 +54,18 @@ settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
 settings-data-backup-last-backup-location-edit = Modificar…
 settings-data-create-backup-error = Il habeva un error creante tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Salveguarda tu contrasignos e tu methodos de pagamento, e mantene tote tu datos secur con cryptation.
+settings-data-toggle-encryption-label2 =
+    .label = Salveguarda tu datos sensibile
+    .description = Salveguarda tu contrasignos, methodos de pagamento, e cookies, e in addition retene tote tu datos secur con le cryptation.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomine de file: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Restaura tu datos
     .description = Recupera le datos de tu { -brand-product-name } retro ab le ultime vice que illos era salveguardate.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaura tu datos
+    .description = Usa un copia de securitate de { -brand-product-name } ab un altere apparato pro restaurar tu datos.
 settings-data-backup-restore-header = Restaurar tu datos
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -143,6 +151,7 @@ restore-from-backup-type-replace =
     .label = Substituer tote le datos con iste copia de reserva
 restore-from-backup-type-add =
     .label = Retener datos e crear un nove profilo
+restore-from-backup-profiles-disabled-message = Isto substituera tote tu actual datos de { -brand-short-name } con tu copia de securitate.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -268,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Nota:</b> { $numberOfOtherBackupsFound } altere file de copia de securitate trovate
        *[other] <b>Nota:</b> { $numberOfOtherBackupsFound } altere files de copia de securitate trovate
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Create le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sur { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurate ab { $deviceName } le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } al { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

@@ -2192,7 +2192,7 @@ website-advertising-private-attribution-description = Mae hyn yn helpu gwefannau
 
 security-header = Diogelwch
 browsing-protection-group2 =
-    .label = Cynnwys twyllodrus ac diogelwch rhag meddalwedd peryglus
+    .label = Cynnwys twyllodrus a diogelwch rhag meddalwedd peryglus
     .description = Gall gwefannau a llwythi i lawr beri risg uchel i'ch data a'ch dyfais. Mae { -brand-short-name } yn eu rhwystro'n awtomatig ac yn eich rhybuddio am feddalwedd diofyn amdano neu beryglus.
 security-browsing-protection = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Peryglus
 security-enable-safe-browsing =
@@ -2234,7 +2234,7 @@ certs-description2 =
     .description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
 certs-description3 =
     .label = Tystysgrifau
-    .description = Ffurfweddu'r dytysgrifau mae { -brand-short-name } yn eu defnyddio i ddilysu cysylltiadau.
+    .description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio i ddilysu cysylltiadau.
 certs-view2 =
     .label = Rheoli tystysgrifau
     .accesskey = t

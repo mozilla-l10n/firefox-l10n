@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Tu copia de { $profilename } es preste a esser personalisate
 copied-profile-page-header-description = Nos ha copiate tu datos e parametros in un nove profilo. Ora da lo un nomine, elige un apparentia e personalisa lo secundo tu preferentias.
+restored-profile-page-header = Personalisar tu profilo restaurate
 restored-profile-page-header-description = Cata profilo preserva su chronologia de navigation e parametros univoc, separate de tu altere profilos. In addition, le forte protectiones del confidentialitate de { -brand-short-name } es active de ordinario.
 restored-profile-page-learn-more = Pro saper plus
 profile-window-title-2 = { -brand-short-name } - Eliger un profilo
