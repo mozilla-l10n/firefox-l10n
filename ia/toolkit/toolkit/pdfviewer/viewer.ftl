@@ -203,8 +203,17 @@ pdfjs-thumb-page-canvas =
     .aria-label = Vignette del pagina { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Seliger pagina { $page }
+# Variables:
+#   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = Seliger pagina { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Pagina { $page } de { $total }
 
 ## Find panel button title and messages
 
