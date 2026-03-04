@@ -69,7 +69,7 @@ neterror-dns-not-found-offline-hint-reconnect = 中斷，然後重新連線到 W
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } 無法透過信任的 DNS 解析器保護您對本網址的瀏覽請求。原因如下：
-neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } 無法透過我們的安全 DNS 業者來保護您對本網址的瀏覽請求。原因如下：
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } 無法透過我們的加密 DNS 業者來保護您對本網址的瀏覽請求。原因如下：
 neterror-dns-not-found-trr-third-party-warning2 = 您可以繼續使用預設 DNS 解析器，但第三方仍可能得知您造訪過哪些網站。
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 無法連線到 { $trrDomain }。
 neterror-dns-not-found-trr-only-timeout = 連線到 { $trrDomain } 的時間比預期得久。
