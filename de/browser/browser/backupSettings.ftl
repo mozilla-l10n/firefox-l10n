@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } wiederherstellen
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-Backup
+settings-data-backup-header2 =
+    .label = Datensicherung
+    .description = Schützen Sie Ihre Lesezeichen, Ihre Chronik und andere Daten automatisch.
 settings-data-backup-header = Datensicherung
 settings-data-backup-toggle = Datensicherung verwalten
 settings-data-backup-toggle-on2 =
@@ -38,12 +41,22 @@ settings-data-backup-scheduled-backups-on = Datensicherung: EIN
 settings-data-backup-scheduled-backups-off = Datensicherung: AUS
 settings-data-backup-scheduled-backups-description = Schützen Sie Ihre Lesezeichen, Chronik und andere Daten automatisch. <a data-l10n-name="support-link">Weitere Informationen</a>
 settings-data-backup-last-backup-date = Letzte Datensicherung: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Datensicherung ist AKTIVIERT
+settings-data-backup-scheduled-backups-off2 =
+    .label = Datensicherung ist DEAKTIVIERT
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Speicherort der Sicherung
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Speicherort
 settings-data-backup-last-backup-location-show-in-folder = Ordner anzeigen
 settings-data-backup-last-backup-location-edit = Bearbeiten…
 settings-data-create-backup-error = Beim Erstellen Ihres Backups am { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } ist ein Fehler aufgetreten
 settings-sensitive-data-encryption-description = Sichern Sie Ihre Passwörter und Zahlungsmethoden und schützen Sie alle Ihre Daten mit Verschlüsselung.
+settings-data-toggle-encryption-label2 =
+    .label = Sichern Sie Ihre sensiblen Daten
+    .description = Sichern Sie Ihre Passwörter und Zahlungsmethoden und schützen Sie alle Ihre Daten mit Verschlüsselung.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dateiname: { $fileName }
