@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Cogodla jo se toś to sed
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> jo snaź z wobšudnej a škódnej aktiwitu zwězany.
 safeb-blocked-addon-page-error-desc3-override = <strong>Co móžośo pśeśiwo tomu cyniś?</strong>
 safeb-blocked-addon-page-error-desc4-override = Až njeby se to hyšći raz stało, móžośo <strong>{ $addonName }</strong> z about:addons wótwónoźiś.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Zgóńśo wěcej wó šćiśe pśeśiwo škódnym dodankam pśez { -brand-short-name }</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Zgońśo wěcej wó šćiśe { -brand-short-name } pśeśiwo kšadnjenjeju datow a škódnej software</a>.
