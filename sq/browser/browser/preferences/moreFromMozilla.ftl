@@ -46,3 +46,4 @@ more-from-moz-solo-title-2 = Krijues IA Sajtesh { -solo-ai-brand-name }
 more-from-moz-mdn-title = Dokumentim Web i MDN-së
 more-from-moz-mdn-description = Mësoni zhvillim web me udhërrëfyes dhe referenca falas, shteruese.
 more-from-moz-mdn-button = Mësoni zhvillim web
+more-from-moz-mdn-title2 = { -mdn-brand-name }

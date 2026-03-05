@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } helyreállítása
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } biztonsági mentés
+settings-data-backup-header2 =
+    .label = Biztonsági mentés
+    .description = Automatikusan védje meg a könyvjelzőit, előzményeit és egyéb adatait.
 settings-data-backup-header = Biztonsági mentés
 settings-data-backup-toggle = Biztonsági mentés kezelése
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Biztonsági mentés: BE
 settings-data-backup-scheduled-backups-off = Biztonsági mentés: KI
 settings-data-backup-scheduled-backups-description = Automatikusan védje könyvjelzőit, előzményeit és egyéb adatait. <a data-l10n-name="support-link">További tudnivalók</a>
 settings-data-backup-last-backup-date = Legutóbbi biztonsági mentés: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Biztonsági mentés: BE
+settings-data-backup-scheduled-backups-off2 =
+    .label = Biztonsági mentés: KI
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Biztonsági mentés helye
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Hely
 settings-data-backup-last-backup-location-show-in-folder = Megjelenítés mappában
 settings-data-backup-last-backup-location-edit = Szerkesztés…
 settings-data-create-backup-error = Hiba történt biztonsági mentés létrehozása során, ekkor: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Készítsen biztonsági mentést jelszavairól és fizetési módjairól, valamint tartsa minden adatát biztonságban titkosítással.
+settings-data-toggle-encryption-label2 =
+    .label = Készítsen biztonsági mentést a bizalmas adatairól
+    .description = Készítsen biztonsági mentést a jelszavairól és fizetési módjairól, továbbá a titkosítás használatával tartsa biztonságban az adatait.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Fájlnév: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Adatok helyreállítása
+    .description = Állítsa helyre a { -brand-product-name } adatait a legutóbbi biztonsági mentésből.
+settings-data-backup-restore-scheduled-off =
+    .label = Adatok helyreállítása
+    .description = Használja egy másik eszközön lévő { -brand-product-name } biztonsági mentését, hogy helyreállítsa az adatait.
 settings-data-backup-restore-header = Adatok helyreállítása
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Biztonsági mentési
 
 settings-data-backup-scheduled-backups-on-restore-description = Állítsa helyre az adatait a { -brand-product-name } a legutóbbi biztonsági mentéséből.
 settings-data-backup-scheduled-backups-on-restore-choose = Helyreállítás…
+settings-sensitive-data =
+    .label = Érzékeny adatok
 settings-data-toggle-encryption-label = Készítsen biztonsági mentést a bizalmas adatairól
 settings-data-toggle-encryption-support-link = További tudnivalók
+settings-data-change-password2 =
+    .label = Jelszó megváltoztatása
 settings-data-change-password = Jelszó megváltoztatása…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Biztonsági mentés kikapcsolása é
 restore-from-backup-header = Adatok helyreállítása
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Mi lesz helyreállítva?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Ez lecseréli az összes jelenlegi { -brand-short-name }-adatát az ekkori biztonsági mentéséből: { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +145,8 @@ restore-from-backup-password-description = Ez feloldja a titkosított biztonság
 restore-from-backup-cancel-button = Mégse
 restore-from-backup-confirm-button = Helyreállítás és újraindítás
 restore-from-backup-restoring-button = Helyreállítás…
+restore-from-backup-type-group-label =
+    .label = Lecseréli a jelenlegi profilját?
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

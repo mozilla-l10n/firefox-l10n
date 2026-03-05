@@ -567,3 +567,7 @@ onboarding-personalization-motivation-title = Cilat veçori të { -brand-short-n
 onboarding-personalization-motivation-privacy-option = Privatësi dhe Siguri
 onboarding-personalization-motivation-productivity-option = Prodhimshmëri
 onboarding-personalization-motivation-other-option = Tjetër
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-sync-title = Shkoni ngado. Njëkohësoni gjithçka.

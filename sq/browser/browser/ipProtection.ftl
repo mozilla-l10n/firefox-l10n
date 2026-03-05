@@ -90,6 +90,18 @@ ipprotection-connection-status-network-error-description = Lidhuni në internet,
 ipprotection-message-bandwidth-warning =
     .heading = Po i afroheni kufirit tuaj VPN
     .message = Keni { $usageLeft } GB të mbetur nga { $maxUsage } GB këtë muaj.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Po i afroheni kufirit tuaj VPN
+    .message = Ju mbeten { $usageLeft } MB nga { $maxUsage } GB këtë muaj.
+ipprotection-message-continuous-onboarding-intro = Që të fshihni vendndodhjen tuaj dhe të shtoni në shfletimin tuaj fshehtëzim shtesë, hapni VPN-në.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ja është e mbyllur për këtë sajt
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Ju pëlqen VPN-ja e brendshme? Merrni edhe më tepër mbrojtje jashtë { -brand-product-name }-it, me { -mozilla-vpn-brand-name }.
 
 ## IP Protection Settings
 
