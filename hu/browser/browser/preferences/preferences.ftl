@@ -2309,8 +2309,27 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = Kivételek kezelése
     .accesskey = v
+preferences-doh-radio-default =
+    .label = Alapértelmezett
+    .description = Biztonságos DNS használata azokban a régiókban, ahol elérhető.
+preferences-doh-radio-off =
+    .label = Ki
+    .description = Az alapértelmezett DNS-feloldó használata.
+preferences-doh-fallback-label =
+    .label = Figyelmeztetés mindig, ha a biztonságos DNS nem érhető el
 preferences-doh-status-item-off =
     .message = A HTTPS feletti DNS ki van kapcsolva
+preferences-doh-select-resolver-label =
+    .label = Válasszon szolgáltatót:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = E szolgáltató használata a HTTPS feletti DNS-feloldáshoz
+preferences-doh-custom-provider-label =
+    .aria-label = Adjon meg egy egyéni szolgáltatói webcímet
+preferences-doh-header2 =
+    .heading = HTTPS feletti DNS
 
 ## The following strings are used in the Download section of settings
 
@@ -2376,3 +2395,32 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Mégse
 preferences-ai-controls-block-confirmation-confirm =
     .label = Tiltás
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = A { -brand-short-name } résen van
+security-privacy-status-ok-label = A fokozott követés elleni védelem be van kapcsolva
+security-privacy-status-problem-label = Olyan beállításokat találtunk, amelyek hatással vannak a védelmére
+security-privacy-status-problem-helper-label = Problémák megtekintése
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } nyomkövető blokkolva az elmúlt hónapban
+       *[other] { $trackerCount } nyomkövető blokkolva az elmúlt hónapban
+    }
+security-privacy-issue-card =
+    .heading = Biztonsági figyelmeztetések
+issue-card-reset-button =
+    .label = Visszaállítás
+issue-card-dismiss-button =
+    .tooltiptext = Eltüntetés
+    .aria-label = Eltüntetés
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Speciális beállítások
+preferences-etp-header =
+    .heading = Fokozott követés elleni védelem
