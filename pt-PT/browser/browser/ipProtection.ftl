@@ -30,6 +30,10 @@ ipprotection-feature-introduction-button-primary = Seguinte
 ipprotection-feature-introduction-button-secondary-not-now = Agora não
 ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
 
+## Site settings callout
+
+ipprotection-site-settings-callout-title = Escolha onde utiliza a VPN
+
 ## Panel
 
 unauthenticated-get-started = Começar
