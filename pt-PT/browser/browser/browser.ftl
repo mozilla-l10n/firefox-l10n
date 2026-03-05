@@ -1547,6 +1547,11 @@ trustpanel-tracking-header = O { -brand-product-name } permitiu estas coisas, e 
 trustpanel-tracking-description = Sem rastreadores, alguns botões, formulários e campos de autenticação podem não funcionar.
 trustpanel-insecure-section-header = A sua ligação não é segura
 trustpanel-insecure-description = Os dados que está a enviar para este site não estão encriptados. Podem ser visualizados, roubados ou alterados.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } cookie de monitorização entre sites
+       *[other] { $count } cookies de monitorização entre sites
+    }
 trustpanel-list-label-tracking-content = Conteúdo de monitorização
 trustpanel-list-label-fingerprinter =
     { $count ->

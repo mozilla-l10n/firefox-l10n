@@ -123,6 +123,7 @@ taskbar-tabs-email-callout-subtitle = Inicie o seu correio eletrónico como uma 
 taskbar-tabs-media-callout-title = Volte ao streaming a partir da sua barra de tarefas
 taskbar-tabs-media-callout-subtitle = Inicie os seus sites de streaming como uma aplicação numa janela simplificada e protegida pelo { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Adicionar este site à sua barra de tarefas
+taskbar-tabs-value-prop-callout-subtitle = Execute-o numa janela própria e numa interface simplificada com um único clique.
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
@@ -135,6 +136,10 @@ windows-10-eos-sync-new-device-subtitle-1 = Sincronize para levar os seus marcad
 windows-10-eos-sync-new-device-title-2 = A mudar para um novo dispositivo? Não perca o que é importante.
 windows-10-eos-sync-new-device-subtitle-2 = Não importa com que frequência utiliza o { -brand-short-name }, a sincronização protege os seus marcadores, palavras-passe e definições.
 windows-10-eos-sync-new-device-primary-label = Sincronizar agora
+windows-10-eos-sync-general-title-1 = Proteja o { -brand-short-name } que tornou seu.
+windows-10-eos-sync-general-subtitle-1 = Efetue uma cópia de segurança e sincronize as suas palavras-passe, marcadores, definições e outros dados para preservar o que conta.
+windows-10-eos-sync-general-title-2 = Agora é uma boa altura para efetuar uma cópia de segurança das suas palavras-passe e marcadores.
+windows-10-eos-sync-general-subtitle-2 = Sincronize agora para proteger as coisas em que confia no { -brand-short-name } — e recupere-as em qualquer lugar, em qualquer momento.
 windows-10-eos-sync-tour-title-1 = Demasiados separadores? Organize com grupos de separadores.
 windows-10-eos-sync-tour-subtitle-1 = Arraste um separador sobre o outro para criar um grupo e manter as coisas organizadas.
 windows-10-eos-sync-tour-title-2 = Organize-se para o Windows 11.
@@ -144,11 +149,18 @@ windows-10-eos-sync-split-dismiss-button-show-fewer-option =
 windows-10-eos-sync-dismiss-button-label = Dispensar
 windows-10-eos-sync-callout-primary-advance-button-label = Seguinte
 
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = Novo: Clique e mantenha pressionado para pré-visualizar ligações
+link-preview-onboarding-callout-description = Veja uma descrição curta, tempo de leitura, entre outros, para decidir se uma ligação merece um clique. Também disponível ao clicar com o botão direito do rato.
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Mostrar títulos de separadores na barra lateral
 sidebar-button-callout-subtitle = Utilize o botão da barra lateral para expandir a barra lateral, de modo a que possa ver os títulos dos separadores.
 sidebar-button-callout-vertical-tabs = Para mostrar os seus separadores, selecione o botão da barra lateral na barra de ferramentas.
+sidebar-deprecation-callout-title = Brevemente, uma barra lateral atualizada
+sidebar-deprecation-cta-button = Experimentar agora
 
 ## Sidebar Vertical Tabs Strings
 
@@ -214,6 +226,10 @@ sidebar-genai-survey-satisfaction-question = Qual o seu grau de satisfação por
 sidebar-genai-survey-productive-question =
     Em que medida concorda ou discorda da seguinte afirmação:<br/>
     “O chatbot de IA na barra lateral ajuda-me a aumentar a minha produtividade”?
+splitview-onboarding-callout-title-1 = Vista dividida: uma forma melhor de realizar várias tarefas
+splitview-onboarding-callout-subtitle-1 = Clique com o botão direito do rato neste separador e escolha “Adicionar vista dividida” para ver dois separadores em simultâneo.
+splitview-onboarding-callout-cta-1 = Experimentar agora
+splitview-onboarding-callout-title-2 = Veja dois separadores em simultâneo com a vista dividida
 splitview-onboarding-callout-cta-2 = Experimente a vista dividida
 unified-search-callout-title = Alternar entre motores de pesquisa
 unified-search-callout-subtitle = Escolha o que funciona melhor para a sua pesquisa específica.

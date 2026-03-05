@@ -53,6 +53,9 @@ category-privacy =
 pane-sync-title3 = Sincronizar
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controlos de IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experiências do { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiências do { -brand-short-name }
@@ -392,6 +395,21 @@ translate-attribution = Traduções por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceções…
     .accesskey = x
+settings-translations-header =
+    .label = Traduções
+    .aria-label = Traduções
+    .description = Traduz páginas ou o texto selecionado. Para proteger a sua privacidade, as traduções permanecem no seu dispositivo.
+settings-translations-subpage-speed-up-translation-header =
+    .label = Acelerar a tradução
+    .description = Transfira os idiomas completos para traduções mais rápidas e para traduzir offline.
+settings-translations-subpage-always-translate-header =
+    .label = Traduzir sempre estes idiomas
+settings-translations-subpage-never-translate-header =
+    .label = Nunca traduzir estes idiomas
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nunca traduzir estes sites
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Para adicionar um site, abra o <img data-l10n-name="translations-icon"/> painel de tradução, selecione <img data-l10n-name="settings-icon"/> as definições de tradução e depois escolha “Nunca traduzir este site”
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
