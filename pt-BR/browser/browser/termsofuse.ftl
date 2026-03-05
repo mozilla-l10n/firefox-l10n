@@ -6,7 +6,7 @@
 ## Existing User Terms of Use InfoBar
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
-existing-user-tou-message = <strong>Novidade</strong> Apresentamos os { -brand-short-name } <a data-l10n-name="terms-of-use-link">Termos de uso</a> e atualizamos nosso <a data-l10n-name="privacy-notice-link">Aviso de privacidade</a>. Dê uma pausa para revisar e aceitar.
+existing-user-tou-message = <strong>Novidade:</strong> Apresentamos os <a data-l10n-name="terms-of-use-link">termos de uso</a> do { -brand-short-name } e atualizamos nosso <a data-l10n-name="privacy-notice-link">aviso de privacidade</a>. Dê uma pausa para revisar e aceitar.
 # Infobar message for when the Privacy Notice is updated.
 existing-user-privacy-notice-update-message = Atualizamos nosso <a data-l10n-name="privacy-notice-link">Aviso de privacidade</a> para refletir os recursos mais recentes do { -brand-short-name }.
 # Text for secondary button linking to FAQ page
