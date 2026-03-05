@@ -42,6 +42,13 @@ settings-data-backup-scheduled-backups-on = Zálohování: zapnuto
 settings-data-backup-scheduled-backups-off = Zálohování: vypnuto
 settings-data-backup-scheduled-backups-description = Automaticky chraňte své záložky, historii a další data. <a data-l10n-name="support-link">Zjistit více</a>
 settings-data-backup-last-backup-date = Poslední záloha: { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Zálohování je zapnuto
+settings-data-backup-scheduled-backups-off2 =
+    .label = Zálohování je vypnuto
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Umístění zálohy
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Umístění
 settings-data-backup-last-backup-location-show-in-folder = Zobrazit ve složce
@@ -70,8 +77,12 @@ settings-data-backup-scheduled-backups-on-restore-description =
        *[no-cases] Obnovte si data aplikace { -brand-product-name } z poslední zálohy.
     }
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovit…
+settings-sensitive-data =
+    .label = Citlivá data
 settings-data-toggle-encryption-label = Zálohovat i citlivá data
 settings-data-toggle-encryption-support-link = Zjistit více
+settings-data-change-password2 =
+    .label = Změna hesla
 settings-data-change-password = Změnit heslo…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -118,6 +129,9 @@ turn-off-scheduled-backups-confirm-button = Vypnout a smazat zálohu
 restore-from-backup-header = Obnovení vašich dat
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Co bude obnoveno?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message =
         { -brand-short-name.case-status ->
@@ -139,6 +153,12 @@ restore-from-backup-password-description = Tím odemknete zašifrovanou zálohu.
 restore-from-backup-cancel-button = Zrušit
 restore-from-backup-confirm-button = Obnovit a restartovat
 restore-from-backup-restoring-button = Obnovuje se…
+restore-from-backup-type-group-label =
+    .label = Nahradit současný profil?
+restore-from-backup-type-replace =
+    .label = Nahradit všechna data touto zálohou
+restore-from-backup-type-add =
+    .label = Ponechat data a vytvořit nový profil
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

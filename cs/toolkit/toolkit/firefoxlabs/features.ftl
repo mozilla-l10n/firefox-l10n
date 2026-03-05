@@ -89,3 +89,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Mějte svůj s
 experimental-features-semantic-history-search =
     .label = Sémantické vyhledávání v historii
 experimental-features-semantic-history-search-description = Pomocí místního modelu strojového učení můžete na základě porozumění přirozenému jazyku v adresním řádku aplikace { -brand-product-name } navrhovat položky z historie, které souvisejí s vaším vyhledáváním. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Poznámky pro panely

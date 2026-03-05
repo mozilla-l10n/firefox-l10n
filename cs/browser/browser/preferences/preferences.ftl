@@ -1219,6 +1219,8 @@ search-delete-engine =
     .title = Smazat vyhledávač
 search-enable-engine =
     .title = Povolit vyhledávač
+search-outlink-to-extensions-page =
+    .title = Správa rozšíření a vzhledů
 search-choose-engine-column =
     .label = Vyhledávač
 search-choose-keyword-column =
@@ -2419,6 +2421,15 @@ space-alert-under-5gb-message2 =
 certs-description2 =
     .label = Certifikáty
     .description = Nakonfigurujte certifikáty, které { -brand-short-name } používá pro autentizaci.
+certs-description3 =
+    .label = Certifikáty
+    .description = Konfigurace certifikátů, které { -brand-short-name } používá k ověření zabezpečených připojení.
+certs-view2 =
+    .label = Spravovat certifikáty
+    .accesskey = c
+certs-devices2 =
+    .label = Spravovat bezpečností zařízení
+    .accesskey = b
 
 ## Privacy Section - HTTPS-Only
 
@@ -2511,8 +2522,13 @@ preferences-doh-exceptions-description = { -brand-short-name } nebude používat
 preferences-doh-manage-exceptions =
     .label = Výjimky…
     .accesskey = k
+preferences-doh-overview-off =
+    .label = Zakázáno
+    .description = Bude použit váš výchozí překladač DNS.
 preferences-doh-advanced-button =
     .label = Pokročilé nastavení
+preferences-doh-header2 =
+    .heading = DNS over HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2597,6 +2613,7 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } je ve střehu
 security-privacy-issue-card =
     .heading = Bezpečnostní varování
 issue-card-reset-button =
