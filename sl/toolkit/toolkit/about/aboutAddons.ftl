@@ -598,6 +598,10 @@ mlmodel-link-preview = { -brand-short-name } z njegovo uporabo ustvarja ključne
 mlmodel-pdfjs = { -brand-short-name } z njegovo uporabo ustvarja nadomestno besedilo za slike, ki jih dodate v datoteke PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } z njegovo uporabo predlaga imena za skupine zavihkov
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } z njegovo uporabo predlaga zavihke za skupine zavihkov
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = UI na napravi
+addon-category-mlmodel-title =
+    .title = UI na napravi
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Odstrani

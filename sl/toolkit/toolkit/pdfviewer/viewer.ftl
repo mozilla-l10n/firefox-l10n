@@ -203,8 +203,17 @@ pdfjs-thumb-page-canvas =
     .aria-label = Sličica strani { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Izberi stran { $page }
+# Variables:
+#   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = Izberi stran { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Stran { $page } od { $total }
 
 ## Find panel button title and messages
 
