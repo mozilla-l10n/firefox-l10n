@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Интернетке 
 ipprotection-message-bandwidth-warning =
     .heading = VPN лимитіне жақындадыңыз
     .message = Осы айда сізде { $maxUsage } ГБ көлемінің { $usageLeft } ГБ қалды.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = VPN лимитіне жақындадыңыз
+    .message = Бұл айда қалған { $maxUsage } ГБ ішінен сізде { $usageLeft } МБ қалды.
 ipprotection-message-continuous-onboarding-intro = Орналасқан жеріңізді жасыру және шолуыңызға қосымша шифрлеуді қосу үшін VPN іске қосыңыз.
 ipprotection-message-continuous-onboarding-autostart = { -brand-short-name } браузерін әр ашқан сайын қосымша қорғаныс қабатын қамтамасыз ету үшін <a data-l10n-name="setting-link">VPN-ді автоматты түрде іске қосылатындай етіп баптаңыз</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } қай веб-сайттар үшін VPN қолдануды таңдағаныңызды есте сақтайды. Бұл тізімді кез келген уақытта <a data-l10n-name="setting-link">баптаулар</a> бөлімінде өзгерте аласыз.

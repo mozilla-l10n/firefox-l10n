@@ -636,6 +636,8 @@ newtab-report-cancel = Бас тарту
 newtab-report-submit = Жіберу
 newtab-toast-thanks-for-reporting =
     .message = Бұл туралы хабарлағаныңыз үшін рахмет.
+newtab-toast-widgets-hidden =
+    .message = Виджеттерді кез келген уақытта қайта қосу үшін қарындаш таңбашасын таңдаңыз.
 
 ## Strings for task / to-do list productivity widget
 
@@ -676,6 +678,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Жаңа тізім
 newtab-widget-section-title = Виджеттер
+newtab-widget-menu-hide = Виджетті жасыру
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Виджеттерді жасыру
