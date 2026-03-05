@@ -322,7 +322,7 @@ about-logins-breach-alert-link = { $hostname } aufrufen
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Gefährdetes Passwort
-about-logins-vulnerable-alert-text2 = Dieses Passwort wurde auch für Zugangsdaten für eine andere Website verwendet und es ist wahrscheinlich von einem Datenleck dieser Website betroffen. Das Verwenden des gleichen Passworts gefährdet alle Benutzerkonten auf Websites mit dem gleichen Passwort.
+about-logins-vulnerable-alert-text2 = Dieses Passwort wurde auch für Zugangsdaten für eine andere Website verwendet und es ist wahrscheinlich von einem Datenleck dieser Website betroffen. Das Verwenden des gleichen Passworts gefährdet alle Benutzerkonten auf Websites mit dem gleichen Passwort. Ändern Sie dieses Passwort.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } aufrufen
