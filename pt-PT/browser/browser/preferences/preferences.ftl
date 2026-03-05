@@ -1335,6 +1335,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = s
+history-section-header =
+    .label = Histórico
+    .description = Escolha o pretende que o { -brand-short-name } memorize quando fecha o navegador.
+history-custom-section-header =
+    .label = Definições avançadas
+    .description = Personalize o pretende que o { -brand-short-name } memorize quando fecha o navegador.
 history-group =
     .label = Histórico
 
@@ -1559,6 +1565,10 @@ content-blocking-warning-learn-how = Saiba como
 content-blocking-baseline-exceptions-3 =
     .label = Corrigir os principais problemas dos sites (recomendado)
     .description = Ajuda a carregar os sites e as funcionalidades desbloqueando apenas os elementos essenciais que podem conter rastreadores. Abrange os problemas mais comuns.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Corrigir pequenos problemas do site
+    .description = Restaura coisas, tal como vídeos num artigo ou nas secções de comentários, desbloqueando elementos que possam conter rastreadores. Isto pode reduzir os problemas no site, mas oferece menos proteção. Tem de ser utilizado com as correções para problemas graves.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desativar as correções
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Manter as correções ativadas
 content-blocking-reload-description = Irá precisar de recarregar os seus separadores para aplicar estas alterações.
@@ -1808,6 +1818,9 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = O Domain Name System over HTTPS (DoH) encripta as consultas de sites, tornando mais difícil para o seu fornecedor da Internet ou outros verem que sites está prestes a visitar.
 preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 preferences-doh-description2 = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, fornecendo um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 # Variables:
@@ -1863,9 +1876,58 @@ preferences-doh-exceptions-description = O { -brand-short-name } não utilizará
 preferences-doh-manage-exceptions =
     .label = Gerir exceções…
     .accesskey = G
+preferences-doh-overview-default =
+    .label = Proteção predefinida
+    .description = Utiliza o DNS seguro nas regiões onde está disponível.
+preferences-doh-overview-custom =
+    .label = Personalizado
+    .description = Utilize sempre o DNS seguro com controlo sobre o seu fornecedor e comportamentos de recurso.
+preferences-doh-advanced-section =
+    .label = Definições avançadas
+    .description = O Domain Name System over HTTPS (DoH) encripta as consultas de sites, tornando mais difícil para o seu fornecedor da Internet ou outros verem que sites está prestes a visitar.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Você tem sempre uma escolha no { -brand-short-name }, incluindo se pretende utilizar as funcionalidades melhoradas com a IA. Brevemente terá mais controlos.
+preferences-ai-controls-block-ai-label = Bloquear melhorias de IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-blocked-message =
+    .message = As melhorias de IA, novas e atuais, são bloqueadas por predefinição. Para desbloquear uma funcionalidade específica, utilize os controlos em baixo.
+preferences-ai-controls-on-device-group =
+    .label = IA no dispositivo
+    .description = Estes utilizam pequenos modelos de IA que são transferidos para o seu dispositivo se utilizar a funcionalidade. Esta abordagem ajuda a proteger a sua privacidade.
+preferences-ai-controls-translations-control =
+    .label = Traduções
+    .description = Navegue facilmente na web no seu idioma preferido.
+preferences-ai-controls-translations-more-link = Mais definições das traduções
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Provedores de chatbots de IA na barra lateral
+    .description = Mantenha um chatbot visível enquanto navega. Escolha entre Anthropic Claude, ChatGPT, Copilot, Google Gemini e Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Chatbot na barra lateral
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = Disponível
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Bloqueada
+preferences-ai-controls-state-description-before = O que significam as opções:
+preferences-ai-controls-state-description-available = <strong>Disponível:</strong> Irá ver a funcionalidade e poderá utilizá-la.
+preferences-ai-controls-state-description-blocked = <strong>Bloqueada:</strong> Não poderá ver e não poderá utilizar a funcionalidade. Para IA no dispositivo, são removidos quaisquer modelos já transferidos.
+preferences-ai-controls-block-confirmation-heading = Bloquear melhorias de IA?
+preferences-ai-controls-block-confirmation-features-start = O que será bloqueado:
+preferences-ai-controls-block-confirmation-translations = Traduções
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Fornecedores de Chatbots na barra lateral
+
+## Privacy and security status card
+
+security-privacy-status-update-needed-label = Está disponível uma nova versão do { -brand-short-name }.
