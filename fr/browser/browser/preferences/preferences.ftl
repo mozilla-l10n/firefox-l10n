@@ -1687,7 +1687,7 @@ history-custom-section-header =
     .label = Paramètres avancés
     .description = Personnalisez ce que { -brand-short-name } doit mémoriser à la fermeture du navigateur.
 history-custom-button =
-    .label = Choisissez ce que { -brand-short-name } doit garder en mémoire
+    .label = Choisir ce dont { -brand-short-name } doit se souvenir
 history-group =
     .label = Historique
 history-remember-option-all2 =
@@ -2341,7 +2341,7 @@ preferences-doh-radio-off =
     .label = Désactivé
     .description = Utiliser votre serveur DNS par défaut.
 preferences-doh-fallback-label =
-    .label = Toujours m’avertir si un DNS sécurisé n’est pas disponible
+    .label = Toujours m’avertir si le DNS sécurisé n’est pas disponible
 preferences-doh-status-item-off =
     .message = Le DNS via HTTPS est désactivé
 # Variables:

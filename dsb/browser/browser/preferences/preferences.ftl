@@ -2483,6 +2483,8 @@ security-privacy-status-update-button-label =
     .label = { -brand-short-name } aktualizěrowaś
 security-privacy-image-warning =
     .alt = Toflicka z wuwołakom, kótaraž starosć wó wašych wěstotnych warnowanjach zwuraznja
+security-privacy-image-ok =
+    .alt = Toflicka z kokulku, kótaraž pokazujo, až njerozwězane wěstotne problemy njamaśo
 security-privacy-issue-card =
     .heading = Wěstotne warnowanja
 issue-card-reset-button =
@@ -2493,6 +2495,18 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Pólěpšony slědowański šćit
+    .description = Sedła pśeslědowaki wužywaju, kótarež wam online slěduju a grozne wabjenje pokazaś. { -brand-short-name } was šćita, gaž pśeglědujośo a blokěrujo pśeslědowaki awtomatiski, aby kontrolu nad swójimi digitalnymi slědami měł.
+preferences-etp-level-standard =
+    .label = Standard
+    .description = Mócny, spušćobny šćit, kótaryž bźez śěžow z nejwěcej websedłami funkcioněrujo.
+preferences-etp-level-strict =
+    .label = Striktny
+    .description = Mócnjejšy šćit, kótaryž wěcej pśeslědowakow blokěrujo, móžo pak zawinowaś, až někotare sedła wěcej korektnje njefunkcioněruju.
+preferences-etp-level-custom =
+    .label = Swójski
+    .description = Wubjeŕśo, kótary šćit ma se zmóžniś abo znjemóžniś
 preferences-etp-status-advanced-button =
     .label = Rozšyrjone nastajenja
 preferences-etp-header =
