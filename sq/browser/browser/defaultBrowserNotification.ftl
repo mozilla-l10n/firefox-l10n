@@ -42,3 +42,4 @@ default-browser-guidance-notification-info-page = Tregomëni
 default-browser-guidance-notification-dismiss = U bë
 default-browser-guidance-notification-v2-title = Përfundoni bërjen e { -brand-short-name }-it shfletuesin tuaj parazgjedhje
 default-browser-guidance-notification-v2-body = Te Rregullimet, përzgjidhni “Vëre si parazgjedhje” për { -brand-short-name }-in.
+default-browser-guidance-notification-v2-title-only = Përfundoni bërjen e { -brand-short-name }-it shfletuesin tuaj parazgjedhje, te Rregullimet

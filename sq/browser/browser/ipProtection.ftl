@@ -33,10 +33,16 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Jo, faleminderit
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Zgjidhni se ku përdorni VPN
+ipprotection-site-settings-callout-subtitle = Çaktivizoni VPN-në për një sajt specifik dhe do ta mbajmë mend herës tjetër që e vizitoni.
 ipprotection-site-settings-callout-button = E mora vesh
 
 ## Panel
 
+unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
+unauthenticated-hide-location-message = Fshihni vendndodhjen tuaj dhe shtoni fshehtëzim shtesë te shfletimi juaj, që nga brenda { -brand-product-name }-it.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Përfitoni { $maxUsage } GB të dhëna VPN falas çdo muaj.
 unauthenticated-get-started = Fillojani
 site-exclusion-toggle-label = Përdore VPN-në për këtë sajt
 site-exclusion-toggle-enabled =
@@ -69,6 +75,21 @@ ipprotection-connection-status-paused-title = VPN-ja u ndal
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi do të rifillohet muajin që vjen.
 upgrade-vpn-title = Merrni mbrojtje shtesë tej shfletuesit
+upgrade-vpn-description = Zgjidhni vendndodhjen e VPN-së suaj, përdorni VPN për krejt aplikacionet tuaj dhe deri në 5 pajisje dhe jini i siguruar në çfarëdo rrjeti — në shtëpi, apo në Wi-Fi publik.
+upgrade-vpn-button = Provoni { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = S’u lidh dot me VPN-në
+ipprotection-connection-status-generic-error-description = Riprovoni pas pak minutash.
+ipprotection-connection-status-network-error-title = Kontrolloni lidhjen tuaj internet
+ipprotection-connection-status-network-error-description = Lidhuni në internet, mandej provoni të hapni VPN-në.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Po i afroheni kufirit tuaj VPN
+    .message = Keni { $usageLeft } GB të mbetur nga { $maxUsage } GB këtë muaj.
 
 ## IP Protection Settings
 
