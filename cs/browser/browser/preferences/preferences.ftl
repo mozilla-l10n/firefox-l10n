@@ -2527,6 +2527,8 @@ preferences-doh-overview-off =
     .description = Bude použit váš výchozí překladač DNS.
 preferences-doh-advanced-button =
     .label = Pokročilé nastavení
+preferences-doh-select-resolver-label =
+    .label = Vyberte poskytovatele:
 preferences-doh-header2 =
     .heading = DNS over HTTPS
 

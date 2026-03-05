@@ -98,6 +98,12 @@ ipprotection-connection-status-network-error-description = Připojte se k intern
 ipprotection-message-bandwidth-warning =
     .heading = Blížíte se k vyčerpání limitu vaší VPN
     .message = Zbývá vám { $usageLeft } GB z { $maxUsage } GB v tomto měsíci.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Blížíte se k limitu pro VPN
+    .message = Tento měsíc vám zbývá { $usageLeft } MB z { $maxUsage } GB.
 ipprotection-message-continuous-onboarding-intro = Zapněte VPN pro skrytí vaší polohy a pro dodatečné šifrování vašeho procházení.
 ipprotection-message-continuous-onboarding-autostart =
     { -brand-short-name.case-status ->
