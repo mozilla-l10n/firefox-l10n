@@ -722,6 +722,7 @@ urlbar-result-action-search-in-private = Kërko në Dritare Private
 urlbar-result-action-search-w-engine = Kërko me { $engine }
 urlbar-result-action-sponsored = E sponsorizuar
 urlbar-result-action-switch-tab = Kalo te Skeda
+urlbar-result-action-move-tab-to-split-view = Kaloje Skedën nën Pamje të Ndarë
 urlbar-result-action-visit = Vizitojeni
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

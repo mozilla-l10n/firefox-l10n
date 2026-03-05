@@ -38,15 +38,28 @@ settings-data-backup-scheduled-backups-on = Kopjeruajtje: ON
 settings-data-backup-scheduled-backups-off = Kopjeruajtje: OFF
 settings-data-backup-scheduled-backups-description = Mbroni automatikisht faqerojtësit, historikun dhe të tjera të dhëna tuajat. <a data-l10n-name="support-link">Mësoni më tepër</a>
 settings-data-backup-last-backup-date = Kopjeruajtja e fundit më: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Kopjeruajtje ON
+settings-data-backup-scheduled-backups-off2 =
+    .label = Kopjeruajtje OFF
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Vendndodhje kopjeruajtjeje
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Vendndodhje
 settings-data-backup-last-backup-location-show-in-folder = Shfaqe në dosje
 settings-data-backup-last-backup-location-edit = Përpunoni…
 settings-data-create-backup-error = Pati një gabim në krijimin e kopjeruajtjes tuaj më { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Kopjeruani fjalëkalimet tuaja dhe metoda pagesash, plus mbaji të parrezik krejt të dhënat tuaja, përmes fshehtëzimi.
+settings-data-toggle-encryption-label2 =
+    .label = Kopjeruani të dhënat tuaja rezervat
+    .description = Kopjeruani fjalëkalimet tuaja dhe metoda pagesash, plus mbajini krejt të dhënat tuaja të parrezik, përmes fshehtëzimi.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Emër kartele: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Riktheni të dhënat tuaja
+    .description = Rktheni të dhënat tuaja { -brand-product-name } prej herës së fundit që qenë kopjeruar.
 settings-data-backup-restore-header = Riktheni të dhënat tuaja
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +71,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Zgjidhni kartelë ko
 
 settings-data-backup-scheduled-backups-on-restore-description = Rimerrni të dhëna { -brand-product-name } tuajat nga hera e fundit që qenë kopjeruajtur.
 settings-data-backup-scheduled-backups-on-restore-choose = Riktheni…
+settings-sensitive-data =
+    .label = Të dhëna me spec
 settings-data-toggle-encryption-label = Kopjeruani të dhënat tuaja rezervat
 settings-data-toggle-encryption-support-link = Mësoni më tepër
+settings-data-change-password2 =
+    .label = Ndryshoni fjalëkalimin
 settings-data-change-password = Ndryshoni fjalëkalimin…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +119,9 @@ turn-off-scheduled-backups-confirm-button = Çaktivizoje dhe fshije kopjeruajtje
 restore-from-backup-header = Riktheni të dhënat tuaja
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Ç’do të rikthehet?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Kjo do të zëvendësojë krejt të dhënat tuaja të tanishme { -brand-short-name } me kopjeruajtjen tuaj nga { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +139,12 @@ restore-from-backup-password-description = Kjo shkyç kopjeruajtjen tuaj të fsh
 restore-from-backup-cancel-button = Anuloje
 restore-from-backup-confirm-button = Riktheje dhe rinise
 restore-from-backup-restoring-button = Po rikthehet…
+restore-from-backup-type-group-label =
+    .label = Të zëvendësohet profili i tanishëm?
+restore-from-backup-type-replace =
+    .label = Zëvendëso krejt të dhënat me këtë kopjeruajtje
+restore-from-backup-type-add =
+    .label = Mbaji të dhënat dhe krijo profil të ri
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -244,6 +270,10 @@ other-backup-files-founds =
         [one] <b>Shënim:</b> U gjet { $numberOfOtherBackupsFound } kartelë tjetër kopjeruajtjeje
        *[other] <b>Shënim:</b> U gjetën { $numberOfOtherBackupsFound } kartela të tjera kopjeruajtjeje
     }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Rikthyer prej { $deviceName } më { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } në { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

@@ -689,6 +689,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Виджеттерді ықшамдау
     .aria-label = Барлық виджеттерді ықшам өлшеміне дейін жинау
+newtab-widget-section-feedback = Өз ойыңызбен бөлісіңіз
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

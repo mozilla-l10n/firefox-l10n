@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } профилінің көшірмесі баптауға дайын.
 copied-profile-page-header-description = Біз сіздің деректеріңіз бен параметрлеріңізді жаңа профильге көшірдік. Енді оған атау беріп, сыртқы түрін таңдаңыз және оны өз қалауыңызша баптаңыз.
+restored-profile-page-header = Қалпына келтірілген профиліңізді баптау
+restored-profile-page-header-description = Әрбір профиль өзінің бірегей шолу журналы мен параметрлерін басқа профильдерден бөлек сақтайды. Оған қоса, { -brand-short-name } жекелікті мықты қорғауы іске қосылған.
+restored-profile-page-learn-more = Көбірек білу
 profile-window-title-2 = { -brand-short-name } - Профильді таңдау
 profile-window-logo =
     .alt = { -brand-short-name } логотипі

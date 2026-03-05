@@ -414,6 +414,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Бөлінген көріністі ажырату
     .accesskey = т
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Беттерді кері ретпен орналастыру
+    .accesskey = р
 tab-context-badge-new = Жаңа
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
