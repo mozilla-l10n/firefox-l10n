@@ -30,3 +30,15 @@ recently-closed-undo-close-window-label =
         [few] { $winTitle } (a { $tabCount } druge rejtariki)
        *[other] { $winTitle } (a { $tabCount } drugich rejtarikow)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } rejtarik, zacynjony { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [two] { $winTitle } ({ $tabCount } rejtarika, zacynjonej { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [few] { $winTitle } ({ $tabCount } rejtariki, zacynjone { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } rejtarikow, zacynjonych { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }
