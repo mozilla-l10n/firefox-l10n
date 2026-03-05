@@ -11,12 +11,31 @@ about-translations-learn-more-link = Ulteriori informazioni
 about-translations-unsupported-info-message =
     .heading = La funzione di traduzione non è disponibile su questo dispositivo.
     .message = Prova su un altro dispositivo.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = La funzione di traduzione non è disponibile per la tua organizzazione
+    .message = Questa è un criterio impostato dall’amministratore.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Per tradurre del testo, sblocca questa funzione
+    .message = Sembra che tu abbia impostato i controlli dell’IA per bloccare questa funzione. Puoi sbloccarla in qualsiasi momento per iniziare a usarla.
+about-translations-feature-blocked-unblock-button = Sblocca
 about-translations-unsupported-info-button = Ulteriori informazioni
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Impossibile caricare le lingue.
     .message = Controlla la connessione a Internet e riprova.
 about-translations-language-load-error-button = Riprova
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Si è verificato un problema durante la traduzione
+about-translations-translation-error-subtext = Riprova.
+about-translations-translation-error-button = Riprova
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Siamo spiacenti, non supportiamo ancora { $language }
+about-translations-detected-language-unsupported-heading-unknown = Siamo spiacenti, questa lingua non è ancora supportata
+about-translations-detected-language-unsupported-subtext = Scegli un’altra lingua.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Aggiungi il testo da tradurre
