@@ -639,6 +639,8 @@ newtab-report-cancel = Pśetergnuś
 newtab-report-submit = Wótpósłaś
 newtab-toast-thanks-for-reporting =
     .message = Wjeliki źěk, až sćo dał to k wěsći.
+newtab-toast-widgets-hidden =
+    .message = Wubjeŕśo symbol pisaka, aby kuždy cas zasej asistenty pśidał.
 
 ## Strings for task / to-do list productivity widget
 

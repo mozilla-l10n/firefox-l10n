@@ -544,6 +544,9 @@ check-user-spelling =
     .accesskey = P
 spellcheck-download-dictionaries =
     .label = Słowniki ześěgnuś
+spellcheck-promo =
+    .heading = Kak móžośo pšawopisnu kontrolu wužywaś
+    .message = Klikniśo z pšaweju tastu do tekstowego póla, aby pšawopisnu kontrolu zmóžnił abo znjemóžnił, aby rěc změnił. Nic wšykne póla pšawopisnu kontrolu pódpěraju.
 
 ## General Section - Files and Applications
 

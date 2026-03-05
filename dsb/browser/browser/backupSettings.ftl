@@ -54,9 +54,18 @@ settings-data-backup-last-backup-location-show-in-folder = W zarědniku pokazaś
 settings-data-backup-last-backup-location-edit = Wobźěłaś…
 settings-data-create-backup-error = Pśi wašom zawěsćenju  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } jo zmólka nastała
 settings-sensitive-data-encryption-description = Zawěsććo swóje gronidła a płaśeńske metody a źaržćo wšykne swóje daty wěste ze skoděrowanim.
+settings-data-toggle-encryption-label2 =
+    .label = Zawěsććo swóje sensibelne daty
+    .description = Zawěsććo swóje gronidła a płaśeńske metody a wobchowajśo swóje daty wěste z koděrowanim.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datajowe mě: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Waše daty wótnowiś
+    .description = Wótnowśo swóje daty { -brand-product-name } z casa, gaž su se zawěsćili-
+settings-data-backup-restore-scheduled-off =
+    .label = Waše daty wótnowiś
+    .description = Wužywajśo zawěsćenje { -brand-product-name } z drugego rěda, aby swóje daty wótnowił.
 settings-data-backup-restore-header = Waše daty wótnowiś
 
 ## These strings are shown under the header if scheduled backups are disabled.
