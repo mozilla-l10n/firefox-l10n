@@ -2420,3 +2420,6 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-doh =
     .label = DNS sobre HTTPS está deshabilitado
     .description = DNS sobre HTTPS le oculta al proveedor de red los sitios visitados.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = La configuración automática de proxy está habilitada
+    .description = La configuración automática de proxy podría dejar que redes no confiables monitoreen la actividad.
