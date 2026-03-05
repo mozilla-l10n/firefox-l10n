@@ -2390,6 +2390,10 @@ security-privacy-image-warning =
 
 preferences-etp-reload-tabs-hint-button =
     .label = Recargar todas las pestañas
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Permitir todas las cookies
 preferences-etp-custom-tracking-protection-enabled =
@@ -2398,3 +2402,9 @@ preferences-etp-custom-tracking-protection-enabled-context =
     .aria-label = Contenido de rastreo
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Criptomineros
+
+## Warnings section
+
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookies de terceros están habilitadas
+    .description = Las cookies de terceros son usadas para el rastreo entre sitios web.
