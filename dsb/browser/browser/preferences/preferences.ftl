@@ -2342,6 +2342,14 @@ preferences-doh-manage-exceptions2 =
 preferences-doh-radio-default =
     .label = Standard
     .description = Wužywajśo wěsty DNS w regionach, źož jo k dispoziciji.
+preferences-doh-radio-custom =
+    .label = Swójski
+    .description = Wužywajśo pśecej DNS z kontrolu nad swójim póbitowarjom a wótwóspjetnym zaźaržanim.
+preferences-doh-radio-off =
+    .label = Znjemóžnjony
+    .description = Wužywajśo swój standardny resolver DNS.
+preferences-doh-fallback-label =
+    .label = Pśecej warnowaś, jolic wěsty DNS njejo k dispoziciji
 preferences-doh-status-item-off =
     .message = DNS pśez HTTPS jo znjemóžnjony
 # Variables:
@@ -2358,11 +2366,21 @@ preferences-doh-status-item-not-active-bad-url =
 preferences-doh-status-item-active =
     .message = DNS pśez HTTPS póbitowarja { $name } wužywa
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS pśez HTTPS njefunkcioněrujo, dokulaž smy na zmólku starcyli ({ $reason }), mjaztym až wopytujośo, lokalnego póbitowarja { $name } wužywaś
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
     .message = DNS pśez HTTPS lokalnego póbitowarja { $name } wužywa
 preferences-doh-select-resolver-label =
     .label = Wubjeŕśo póbitowarja:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Wužywajśo toś togo póbitowarja, aby DNS pśez HTTPS rozpušćił
 preferences-doh-custom-provider-label =
     .aria-label = Zapódajśo swójski URL póbitowarja
 preferences-doh-header2 =
@@ -2442,6 +2460,16 @@ security-privacy-status-ok-label = Pólěpšony slědowański šćit jo zmóžnj
 security-privacy-status-problem-label = Njejsmy nastajenja namakali, kótarež waš šćit wobwliwuju
 security-privacy-status-problem-helper-label = Problemy pokazaś
 security-privacy-status-pending-trackers-label = Glědaś, kak wjele pśeslědowakow jo { -brand-short-name } w slědnem mjasecu blokěrował
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } pśeslědowak jo se w zajźonem mjasecu blokěrował
+        [two] { $trackerCount } pśeslědowaka stej se w zajźonem mjasecu blokěrowałej
+        [few] { $trackerCount } pśeslědowaki jo se w zajźonem mjasecu blokěrowali
+       *[other] { $trackerCount } pśeslědowakow jo se w zajźonem mjasecu blokěrowało
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Maśo <a data-l10n-name="strict-tracking-protection">striktny šćit</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
@@ -2453,6 +2481,8 @@ security-privacy-status-update-checking-label = { -brand-short-name } aktualizac
 security-privacy-status-update-needed-description = Aktualizěrujśo, aby nejnowše aktualizacije za malsnosć, stabilnosć a wěstotu dostał.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } aktualizěrowaś
+security-privacy-image-warning =
+    .alt = Toflicka z wuwołakom, kótaraž starosć wó wašych wěstotnych warnowanjach zwuraznja
 security-privacy-issue-card =
     .heading = Wěstotne warnowanja
 issue-card-reset-button =
