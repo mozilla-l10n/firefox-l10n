@@ -810,6 +810,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Neue Fenster und Tabs
 home-new-windows-tabs-description2 = Legen Sie fest, was als Startseite sowie in neuen Fenstern und Tabs geöffnet wird.
+home-section =
+    .heading = Startseite und Start
 
 ## Home Section - Default Browser
 
@@ -1769,6 +1771,10 @@ sitedata-cookies-exceptions2 =
 sitedata-heading =
     .label = Browser-Daten
     .description = Verwalten Sie Ihre Cookies, Ihren Verlauf, Ihren Cache, Ihre Website-Daten und vieles mehr.
+sitedata-cookies-exceptions3 =
+    .label = Ausnahmen verwalten
+    .accesskey = A
+    .description = Wählen Sie aus, wie bestimmte Websites mit Cookies und Website-Daten umgehen sollen.
 cookies-site-data-group =
     .label = Cookies und Website-Daten
 
