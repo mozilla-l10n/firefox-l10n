@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Hold huskelist
 experimental-features-semantic-history-search =
     .label = Semantisk historikksøk
 experimental-features-semantic-history-search-description = Bruk en lokal maskinlæringsmodell til å foreslå oppføringer fra historikken som er relatert til søkene dine, basert på naturlig språkforståelse i { -brand-product-name }-adresselinjen. <a data-l10n-name="connect">Del tilbakemelding</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Fanenotater
+experimental-features-tab-notes-description = Fanenotater er en eksperimentell funksjon som lar deg legge til klistrelapper på nettleserfanene dine. Noter kontekst, påminnelser eller neste steg slik at du kan komme tilbake og huske hvorfor du åpnet den. Vi vil gjerne ha tilbakemeldingen din mens vi fortsetter å forbedre denne funksjonen. <a data-l10n-name="connect">Del tilbakemelding</a>

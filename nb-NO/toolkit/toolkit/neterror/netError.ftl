@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Prøv å endre URL-en til 
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Noen ganger setter nettsteder opp beskyttelser for seg selv mot uønskede interaksjoner med andre nettsteder.
 fp-learn-more-about-https-connections = Les om HTTPS-tilkoblinger
+fp-neterror-vpn-error-title = Kunne ikke koble til VPN
+fp-neterror-vpn-error-description = Prøv igjen om noen minutter.
