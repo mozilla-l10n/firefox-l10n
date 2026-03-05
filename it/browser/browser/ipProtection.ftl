@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Stai per esaurire i
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Hai quasi esaurito i dati disponibili per la VPN.</strong> Ti restano { $usageLeft } GB. Una volta esaurito il traffico disponibile, la tua VPN verrà sospesa fino al ripristino dei dati all’inizio del prossimo mese.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Hai quasi esaurito i dati disponibili per la VPN.</strong> Ti restano { $usageLeft } MB. Una volta esaurito il traffico disponibile, la tua VPN verrà sospesa fino al ripristino dei dati all’inizio del prossimo mese.
 
 ## IP Protection Settings
 
