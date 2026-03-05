@@ -80,4 +80,3 @@ experimental-features-semantic-history-search-description = Utiliser un modèle 
 # Tab Notes
 experimental-features-tab-notes =
     .label = Notes d’onglets
-experimental-features-tab-notes-description = Les notes d’onglets sont une fonctionnalité expérimentale qui vous permet d’ajouter des notes autocollantes sur les onglets de votre navigateur. Notez le contexte, les rappels ou les étapes suivantes afin de pouvoir vous rappeler pourquoi vous l’avez ouvert. Nous aimerions connaître votre avis alors que nous améliorons cette fonctionnalité. <a data-l10n-name="connect">Partagez vos commentaires</a>
