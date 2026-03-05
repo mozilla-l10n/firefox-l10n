@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Kapcsolódjon az inte
 ipprotection-message-bandwidth-warning =
     .heading = Közeledik a VPN adatkorlátja
     .message = Még { $usageLeft } / { $maxUsage } GB maradt ebben a hónapban.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Közeledik a VPN adatkorlátja
+    .message = Még { $usageLeft } MB / { $maxUsage } GB maradt erre a hónapra.
 ipprotection-message-continuous-onboarding-intro = Kapcsolja be a VPN-t, hogy elrejtse a tartózkodási helyét, és további titkosítást adjon a böngészéséhez.
 ipprotection-message-continuous-onboarding-autostart = A további védelem érdekében <a data-l10n-name="setting-link">állítsa be, hogy a VPN automatikusan bekapcsolódjon</a> a { -brand-short-name } indításakor.
 ipprotection-message-continuous-onboarding-site-settings = A { -brand-short-name } megjegyzi, hogy mely webhelyeken állította be, hogy VPN-t használjanak. Ezeket bármikor frissítheti a <a data-l10n-name="setting-link">beállításokban</a>.

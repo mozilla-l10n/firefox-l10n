@@ -147,6 +147,11 @@ restore-from-backup-confirm-button = Helyreállítás és újraindítás
 restore-from-backup-restoring-button = Helyreállítás…
 restore-from-backup-type-group-label =
     .label = Lecseréli a jelenlegi profilját?
+restore-from-backup-type-replace =
+    .label = Az összes adat cseréje ezzel a mentéssel
+restore-from-backup-type-add =
+    .label = Adatok megtartása és új profil létrehozása
+restore-from-backup-profiles-disabled-message = Ez lecseréli a { -brand-short-name } összes jelenlegi adatát a biztonsági mentésére.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -272,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Megjegyzés:</b> { $numberOfOtherBackupsFound } további mentési fájl található
        *[other] <b>Megjegyzés:</b> { $numberOfOtherBackupsFound } további mentési fájl található
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Létrehozva: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a következőn: { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Helyreállítva erről: { $deviceName }, ekkor: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

@@ -1768,6 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Behandle unntak
     .accesskey = e
     .description = Du kan angi hvilke nettsteder som alltid eller aldri har lov til å bruke infokapsler og nettstedsdata.
+sitedata-heading =
+    .label = Nettlesingsdata
+    .description = Behandle infokapsler, historikk, hurtigbuffer, nettstedsdata og mer.
+sitedata-settings3 =
+    .label = Fjern data for bestemte nettsteder
+    .accesskey = e
+sitedata-cookies-exceptions3 =
+    .label = Behandle unntak
+    .accesskey = u
+    .description = Velg hvordan bestemte nettsteder skal håndtere infokapsler og nettstedsdata.
 cookies-site-data-group =
     .label = Infokapsler og nettstedsdata
 
@@ -2032,6 +2042,9 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokker sprettoppvinduer og tredjepartvideresendinger
     .accesskey = B
+permissions-addon-install-warning3 =
+    .label = Vis advarsel når nettsteder prøver å installere utvidelser
+    .accesskey = a
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -2079,6 +2092,9 @@ permissions-speaker2 =
     .label = Høyttaler
 permissions-notification2 =
     .label = Varsler
+permissions-header3 =
+    .label = Tillatelser
+    .description = Behandle hva nettsteder kan få tilgang til, styre eller utløse.
 
 ## Privacy Section - Data Collection
 
@@ -2093,6 +2109,8 @@ collection-description = Vi prøver alltid å gi deg valg og samler bare det vi 
 collection-privacy-notice = Personvernerklæring
 collection-health-report-telemetry-disabled = Du tillater ikke lenger { -vendor-short-name } å samle inn teknisk data og data om bruk. Alle tidligere data vil bli slettet innen 30 dager.
 collection-health-report-telemetry-disabled-link = Les mer
+backup-multi-profile-warning-message =
+    .message = For å sørge for at denne endringen er inkludert i sikkerhetskopiene dine, åpne hver profil og velg «Sikkerhetskopier nå» i Innstillinger.
 collection-usage-ping =
     .label = Send ping for daglig bruk til { -vendor-short-name }
     .accesskey = u
@@ -2153,11 +2171,16 @@ website-advertising-private-attribution-description = Dette hjelper nettsteder m
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerhet
+browsing-protection-group2 =
+    .label = Beskyttelse mot villedende innhold og farlig programvare
+    .description = Farlige nettsteder og nedlastinger kan sette dine data og enhet i fare. { -brand-short-name } blokkerer dem automatisk og advarer deg om risikabel eller uønsket programvare.
 security-browsing-protection = Beskyttelse mot villedene innhold og skadelig programvare
 security-enable-safe-browsing =
     .label = Blokker farlig og villendende innhold
     .accesskey = B
 security-enable-safe-browsing-link = Les mer
+security-safe-browsing-warning =
+    .message = Hvis du slår av dette, reduseres beskyttelsen mot svindel, ondsinnede nettsteder og farlige nedlastinger.
 security-block-downloads =
     .label = Blokker farlige nedlastinger
     .accesskey = f

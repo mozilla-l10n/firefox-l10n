@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Kopja juaj e { $profilename } është gati për ta përshtatur
 copied-profile-page-header-description = Kopjuam në një profil të ri të dhënat tuaja dhe rregullimet. Tani jepini një emër, zgjidhni një pamje dhe bëjeni tuajin.
+restored-profile-page-learn-more = Mësoni më tepër
 profile-window-title-2 = { -brand-short-name } - Zgjidhni një profil
 profile-window-logo =
     .alt = Stemë e { -brand-short-name }-it

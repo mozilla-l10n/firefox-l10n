@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Pse qe bllokuar ky sajt?<
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> mund të ketë lidhje me veprimtari të rrejshme dhe të dëmshme.
 safeb-blocked-addon-page-error-desc3-override = <strong>Ç’mund të bëni për këtë?</strong>
 safeb-blocked-addon-page-error-desc4-override = Që të ndalet përsëritja e kësaj, mund të hiqni, ose të çaktivizoni <strong>{ $addonName }</strong> që nga about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Mësoni më tepër rreth Mbrojtjes së { -brand-short-name }-it për Shtesa të Dëmshme</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Mësoni më tepër rreth Mbrojtjes nga { -brand-short-name }-i kundër Karremëzimesh dhe Malware-i</a>.

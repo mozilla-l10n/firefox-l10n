@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Mbylle skedën
            *[other] Mbylli të { $tabCount } skedat
         }
+tab-splitview-splitter =
+    .aria-label = Ripërmasoni skeda pamjeje të ndarë
 
 ## Tooltips for tab audio control
 ## Variables:

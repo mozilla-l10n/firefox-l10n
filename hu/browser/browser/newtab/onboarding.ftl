@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Helyreállítás biztonsági mentésb
 restore-from-backup-title = Kapja vissza a { -brand-short-name }ot, ahogy Önnek tetszik
 restore-from-backup-subtitle = Állítsa helyre az összes könyvjelzőjét, előzményét és egyéb adatait, hogy visszatérjen a böngészéshez.
 restore-from-backup-secondary-button = Ne állítsa helyre
+multiple-backups-info-tile = <strong>Több biztonsági mentési fájl található.</strong> A legutóbbi fájl van kijelölve. Más profilokat a <a data-l10n-name="settings-label">Beállításokban</a> állíthat helyre.
 
 ## Restored from Backup spotlight
 

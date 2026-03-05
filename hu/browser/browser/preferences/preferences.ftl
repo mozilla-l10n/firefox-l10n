@@ -538,6 +538,9 @@ check-user-spelling =
     .accesskey = H
 spellcheck-download-dictionaries =
     .label = Szótárak letöltése
+spellcheck-promo =
+    .heading = A helyesírás-ellenőrzés használata
+    .message = Kattintson jobb gombbal egy szövegmezőre a be- és kikapcsoláshoz vagy nyelvváltáshoz. Nem minden mező támogatja a helyesírás-ellenőrzést.
 
 ## General Section - Files and Applications
 
@@ -795,11 +798,20 @@ network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
+network-proxy-group2 =
+    .label = Proxybeállítások
+    .description = A { -brand-short-name } internethez való kapcsolódásának beállítása.
+network-proxy-connection-settings2 =
+    .label = Proxy beállítása
+    .description = A beállítások módosítása csatlakozási problémákat okozhat
+    .accesskey = P
 
 ## Home Section
 
 home-new-windows-tabs-header = Új ablakok és lapok
 home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a kezdőoldalt, vagy egy új ablakot, lapot.
+home-section =
+    .heading = Kezdőlap és indítás
 
 ## Home Section - Default Browser
 
@@ -1060,6 +1072,12 @@ search-one-click-header-3 =
     .description = Válassza ki a címsorban megjelenő keresőszolgáltatásokat
 update-search-engine-success =
     .message = Keresőszolgáltatás sikeresen frissítve
+search-edit-engine-2 =
+    .title = Keresőszolgáltatás szerkesztése
+search-delete-engine =
+    .title = Keresőszolgáltatás törlése
+search-enable-engine =
+    .title = Keresőszolgáltatás engedélyezése
 search-choose-engine-column =
     .label = Keresőszolgáltatás
 search-choose-keyword-column =

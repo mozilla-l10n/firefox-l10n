@@ -2017,6 +2017,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Administroni ridrejtime
+    .accesskey = A
+    .searchkeywords = flluska
+permissions-addon-install-warning3 =
+    .label = Shfaq sinjalizim, kur sajte rreken të instalojnë zgjerime
+    .accesskey = i
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Administroni përjashtime për flluska dhe ridrejtime nga palë të treta
     .accesskey = A
@@ -2062,6 +2071,9 @@ permissions-speaker2 =
     .label = Folës
 permissions-notification2 =
     .label = Njoftime
+permissions-header3 =
+    .label = Leje
+    .description = Administroni çfarë mund të përdorin, kontrollojnë apo shkaktojnë sajtet
 
 ## Privacy Section - Data Collection
 
@@ -2094,6 +2106,7 @@ collection-studies-description = Provoni veçori dhe ide para se të hidhen në 
 collection-studies =
     .label = Lejojeni { -brand-short-name } të instalojë dhe kryejë studime
 collection-studies-link = Shihni studime { -brand-short-name }
+nimbus-rollouts-enabled-description = Ndryshimet do të aplikohen që së largëti.
 addon-recommendations2 =
     .label = Lejo rekomandime të personalizuara rreth zgjerimesh
 addon-recommendations-description = Merrni rekomandime zgjerimesh, për të përmirësuar funksionimin e shfletimit tuaj.
@@ -2169,6 +2182,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet 
 certs-description2 =
     .label = Dëshmi
     .description = Formësoni dëshmitë që { -brand-short-name }-i përdor për mirëfilltësime.
+certs-view2 =
+    .label = Administroni dëshmi
+    .accesskey = d
+certs-devices2 =
+    .label = Administroni pajisje sigurie
+    .accesskey = m
 
 ## Privacy Section - HTTPS-Only
 
@@ -2258,6 +2277,8 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = Administroni përjashtime
     .accesskey = A
+preferences-doh-header2 =
+    .heading = DNS përmes HTTPS-je
 
 ## The following strings are used in the Download section of settings
 
@@ -2276,7 +2297,15 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-label = Mbrojtje e Thelluar Nga Gjurmimi është aktive
+security-privacy-status-problem-label = Gjetëm rregullime që prekin mbrojtjen tuaj
 security-privacy-status-problem-helper-label = Shihni probleme
+security-privacy-status-up-to-date-label = Keni versionin më të ri, më të siguruar të { -brand-short-name }-it
+security-privacy-status-update-needed-label = Ka gati një version të ri të { -brand-short-name }-it.
+security-privacy-status-update-error-label = { -brand-short-name } po ka probleme me përditësimin e vetes
+security-privacy-status-update-checking-label = { -brand-short-name } po kontrollon për përditësime
+security-privacy-status-update-button-label =
+    .label = Përditësoni { -brand-short-name }
 security-privacy-issue-card =
     .heading = Sinjalizime sigurie
 issue-card-reset-button =
@@ -2287,6 +2316,12 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Rregullime të mëtejshme
+preferences-etp-customize-button =
+    .label = Përshtatni mbrojtje nga gjurmimi
+preferences-etp-reload-tabs-hint-button =
+    .label = Ringarko krejt skedat
 preferences-etp-reset-standard-button =
     .label = Riktheje te standarde
 preferences-etp-reset-strict-button =

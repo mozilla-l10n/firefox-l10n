@@ -687,6 +687,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Kisalkalmazások minimalizálása
     .aria-label = Összes kisalkalmazás összecsukása kompakt méretre
+newtab-widget-section-feedback = Mondja el nekünk mit gondol
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

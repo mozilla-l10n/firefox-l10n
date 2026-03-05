@@ -28,3 +28,13 @@ recently-closed-undo-close-window-label =
         [one] { $winTitle } (dhe { $tabCount } skedë tjetër)
        *[other] { $winTitle } (dhe { $tabCount } skeda të tjera)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } skedë, mbyllur më { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } skeda, të mbyllura më { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }
