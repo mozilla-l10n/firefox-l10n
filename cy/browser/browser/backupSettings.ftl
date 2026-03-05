@@ -22,6 +22,9 @@ backup-folder-name = Adfer { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Copïo wrth Gefn { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Copïo wrth Gefn
+    .description = Diogelwch eich nodau tudalen, hanes a data arall.
 settings-data-backup-header = Copïo wrth Gefn
 settings-data-backup-toggle = Rheoli copïo wrth gefn
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,28 @@ settings-data-backup-scheduled-backups-on = Copïo wrth gefn: YMLAEN
 settings-data-backup-scheduled-backups-off = Copïo wrth gefn: I FFWRDD
 settings-data-backup-scheduled-backups-description = Diogelwch eich nodau tudalen, hanes, a data arall yn awtomatig. <a data-l10n-name="support-link">Dysgu rhagor</a>
 settings-data-backup-last-backup-date = Copïo wrth gefn diwethaf: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Mae copi wrth gefn YMLAEN
+settings-data-backup-scheduled-backups-off2 =
+    .label = Mae copïo wrth gefn I FFWRDD
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Lleoliad copïo wrth gefn
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Lleoliad
 settings-data-backup-last-backup-location-show-in-folder = Dangos mewn ffolder
 settings-data-backup-last-backup-location-edit = Golygu…
 settings-data-create-backup-error = Bu gwall wrth greu eich copi wrth gefn ar { DATETIME($date, timeStyle: "short") } , { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a'ch dulliau talu, a chadw eich holl ddata'n ddiogel drwy amgryptio.
+settings-data-toggle-encryption-label2 =
+    .label = Gwnewch gopi wrth gefn o'ch data sensitif
+    .description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a dulliau talu, a chadw'ch data'n ddiogel gydag amgryptio.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Enw ffeil: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Adfer eich data
+    .description = Adferwch eich data { -brand-product-name } o'r tro diwethaf cafodd ei gadw wrth gefn.
 settings-data-backup-restore-header = Adfer eich data
 
 ## These strings are shown under the header if scheduled backups are disabled.
