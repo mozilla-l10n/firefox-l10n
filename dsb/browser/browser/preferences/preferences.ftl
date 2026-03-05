@@ -2561,3 +2561,24 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Suspektne zběrarje palcowych wótśišćow
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Suspektne zběrarje palcowych wótśišćow
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Znate zběrarje palcowych wótśišćow se njeblokěruju
+    .description = To móžo k tomu wjasć, až někotare pśeslědowaki wam bźez cookiejow slěduju.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookieje tśeśich póbitowarjow su zmóžnjone
+    .description = Cookieje tśeśich póbitowarjow se wužywaju, aby wam na wšakich websedłach slědowali.
+security-privacy-issue-warning-password-manager =
+    .label = Zastojnik gronidłow jo znjemóžnjony
+    .description = Zastojniki gronidłow wam pomagaju, mócne gronidła za waše konta składowaś.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blokěrowak wuskokujucych woknow jo znjemóžnjony
+    .description = Wuskokujuce wokna su pśetergujuce a potencielnje škódne.
+security-privacy-issue-warning-extension-install =
+    .label = Websedła mógu rozšyrjenja instalěrowaś
+    .description = Websedła mógu rozšyrjenja do { -brand-short-name } bźez wótwóspjetnego pšašanja instalěrowaś .
+security-privacy-issue-warning-safe-browsing =
+    .label = Škódne a wobšudne wopśimjeśe se njeblokěrujotej
+    .description = Sćo togodla wobšuźe a škódnej software wěcej wustajony.
