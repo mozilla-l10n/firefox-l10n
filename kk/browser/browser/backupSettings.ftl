@@ -128,6 +128,7 @@ restore-from-backup-confirm-button = Қалпына келтіріп, қайта
 restore-from-backup-restoring-button = Қалпына келтірілуде…
 restore-from-backup-type-group-label =
     .label = Ағымдағы профильді алмастыру керек пе?
+restore-from-backup-profiles-disabled-message = Бұл сіздің барлық ағымдағы { -brand-short-name } деректеріңізді сақтық көшірмемен алмастырады.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -253,6 +254,11 @@ other-backup-files-founds =
         [one] <b>Ескерту:</b> { $numberOfOtherBackupsFound } басқа сақтық көшірме файлы табылды
        *[other] <b>Note:</b> { $numberOfOtherBackupsFound } басқа сақтық көшірме файлы табылды
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName }, { $machineName } құрылғысында { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } күні жасалды
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
