@@ -1629,6 +1629,11 @@ history-remember-label = A { -brand-short-name }
     .accesskey = A
 history-remember-option-all =
     .label = Megjegyzi az előzményeket
+history-remember-option-never2 =
+    .label = Nem jegyzi meg az előzményeket
+    .description = Minden ablak privát ablakként viselkedik. Ha be van kapcsolva, engedélyezni kell a kiegészítőket.
+history-remember-option-custom2 =
+    .label = Előzmények testreszabása
 history-remember-option-never =
     .label = Nem jegyzi meg az előzményeket
 history-remember-option-custom =
@@ -1671,8 +1676,17 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Előzmények törlése…
     .accesskey = l
+history-header2 =
+    .heading = Előzmények
+history-custom-section-header =
+    .label = Speciális beállítások
+    .description = Szabja testre, hogy a { -brand-short-name } mit jegyezzen meg, ha bezárja a böngészőt.
+history-custom-button =
+    .label = Válasszon, hogy a { -brand-short-name } mit jegyezzen meg
 history-group =
     .label = Előzmények
+history-remember-option-all2 =
+    .label = Megjegyzi az előzményeket
 
 ## Privacy Section - Site Data
 
@@ -1680,6 +1694,10 @@ sitedata-header = Sütik és oldaladatok
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méretének kiszámítása…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = A webhelyek jelenleg <strong>{ $value } { $unit }</strong> lemezterületet használnak.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1694,6 +1712,9 @@ sitedata-delete-on-close =
     .accesskey = S
 sitedata-delete-on-close-private-browsing3 =
     .message = Az előzmények beállításai alapján a { -brand-short-name } törli a sütiket és a webhelyadatokat a munkamenetéből, amikor bezárja a böngészőt.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Az előzmények nem lesznek mentve.
+    .message = A { -brand-short-name } törli a sütiket és az webhelyadatokat, ha bezárja a böngészőt.
 sitedata-delete-on-close-private-browsing = Állandó privát böngészési módban a sütik és a webhelyadatok mindig törölve lesznek a { -brand-short-name } bezárásakor.
 sitedata-delete-on-close-private-browsing2 = Az előzmények beállításai alapján a { -brand-short-name } törli a sütiket és a webhelyadatokat a munkamenetéből, amikor bezárja a böngészőt.
 sitedata-allow-cookies-option =
@@ -1739,6 +1760,16 @@ sitedata-cookies-exceptions2 =
     .label = Kivételek kezelése
     .accesskey = v
     .description = Megadhatja, hogy mely webhelyek használhatnak mindig vagy soha sütiket és oldaladatokat.
+sitedata-heading =
+    .label = Böngészési adatok
+    .description = Kezelje a sütiket, az előzményeket, a gyorsítótárat, a webhelyadatokat és másokat.
+sitedata-settings3 =
+    .label = Adott webhelyek adatainak törlése
+    .accesskey = t
+sitedata-cookies-exceptions3 =
+    .label = Kivételek kezelése
+    .accesskey = K
+    .description = Válasszon, hogy egyes webhelyek hogyan kezeljék a sütiket és a webhelyadatokat.
 cookies-site-data-group =
     .label = Sütik és oldaladatok
 
@@ -2005,6 +2036,15 @@ permissions-block-popups2 =
     .accesskey = b
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Átirányítások kezelése
+    .accesskey = e
+    .searchkeywords = felugró ablakok,popupok
+permissions-addon-install-warning3 =
+    .label = Figyelmeztetés megjelenítése, ha a webhely kiegészítőket próbál meg telepíteni
+    .accesskey = F
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Felugró ablakok és harmadik féltől származó átirányítási kivételek kezelése…
     .accesskey = e
@@ -2050,6 +2090,9 @@ permissions-speaker2 =
     .label = Hangszóró
 permissions-notification2 =
     .label = Értesítések
+permissions-header3 =
+    .label = Jogosultságok
+    .description = Felügyelje, hogy a webhelyek mihez férjenek hozzá, mit irányíthassanak és mit válthassanak ki.
 
 ## Privacy Section - Data Collection
 
@@ -2124,11 +2167,16 @@ website-advertising-private-attribution-description = Ez anélkül segít a webh
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Biztonság
+browsing-protection-group2 =
+    .label = Félrevezető tartalom és veszélyes szoftver elleni védelem
+    .description = A veszélyes webhelyek és letöltések kockázatot jelenthetnek az adataira és az eszközére. A { -brand-short-name } blokkolja ezeket, és figyelmezteti a kockázatos vagy kéretlen szoftverekre.
 security-browsing-protection = Félrevezető tartalom és veszélyes szoftver elleni védelem
 security-enable-safe-browsing =
     .label = Veszélyes és félrevezető tartalom blokkolása
     .accesskey = V
 security-enable-safe-browsing-link = További tudnivalók
+security-safe-browsing-warning =
+    .message = Ennek kikapcsolása csökkenti a csalások, a rosszindulatú oldalak és a veszélyes letöltések elleni védelmet.
 security-block-downloads =
     .label = Veszélyes letöltések blokkolása
     .accesskey = b
@@ -2160,6 +2208,15 @@ space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a
 certs-description2 =
     .label = Tanúsítványok
     .description = A { -brand-short-name } által hitelesítéshez használt tanúsítványok beállítása.
+certs-description3 =
+    .label = Tanúsítványok
+    .description = Állítsa be a { -brand-short-name } által a biztonságos kapcsolatok ellenőrzéséhez használt tanúsítványokat.
+certs-view2 =
+    .label = Tanúsítványok kezelése
+    .accesskey = T
+certs-devices2 =
+    .label = Biztonsági eszközök kezelése
+    .accesskey = B
 
 ## Privacy Section - HTTPS-Only
 
@@ -2244,6 +2301,16 @@ preferences-doh-exceptions-description = A { -brand-short-name } nem fog biztons
 preferences-doh-manage-exceptions =
     .label = Kivételek kezelése…
     .accesskey = v
+preferences-doh-overview-off =
+    .label = Ki
+    .description = Az alapértelmezett DNS-feloldó használata.
+preferences-doh-advanced-button =
+    .label = Speciális beállítások
+preferences-doh-manage-exceptions2 =
+    .label = Kivételek kezelése
+    .accesskey = v
+preferences-doh-status-item-off =
+    .message = A HTTPS feletti DNS ki van kapcsolva
 
 ## The following strings are used in the Download section of settings
 

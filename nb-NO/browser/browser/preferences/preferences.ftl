@@ -2212,6 +2212,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 certs-description2 =
     .label = Sertifikater
     .description = Konfigurer sertifikatene som { -brand-short-name } bruker for autentisering.
+certs-description3 =
+    .label = Sertifikater
+    .description = Konfigurer sertifikatene som { -brand-short-name } bruker til å verifisere sikre tilkoblinger.
+certs-view2 =
+    .label = Behandle sertifikater
+    .accesskey = s
+certs-devices2 =
+    .label = Behandle sikkerhetsenheter
+    .accesskey = h
 
 ## Privacy Section - HTTPS-Only
 
@@ -2241,6 +2250,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS-over-HTTPS
+dns-over-https-group2 =
+    .label = DNS-over-HTTPS
+    .description = Domain Name System over HTTPS (DoH) krypterer nettstedsoppslag slik at det blir vanskeligere for internettleverandøren din eller andre å se hvilke nettsteder du er i ferd med å besøke.
 preferences-doh-description = Domain Name System (DNS) over HTTPS sender forespørselen din om et domenenavn gjennom en kryptert tilkobling, lager en sikker DNS og gjør det vanskeligere for andre å se hvilket nettsted du er i ferd med å besøke.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS sender forespørselen din om et domenenavn gjennom en kryptert tilkobling, og gir en sikker DNS og gjør det vanskeligere for andre å se hvilket nettsted du er i ferd med å besøke.
 # Variables:
@@ -2296,6 +2308,43 @@ preferences-doh-exceptions-description = { -brand-short-name } vil ikke bruke si
 preferences-doh-manage-exceptions =
     .label = Behandle unntak
     .accesskey = e
+preferences-doh-overview-default =
+    .label = Standardbeskyttelse
+    .description = Bruk sikker DNS i områder der det er tilgjengelig.
+preferences-doh-overview-custom =
+    .label = Tilpasset
+    .description = Bruk alltid sikker DNS med kontroll over leverandør og reserveatferd.
+preferences-doh-overview-off =
+    .label = Av
+    .description = Bruk standard DNS-oppslagstjeneste.
+preferences-doh-advanced-button =
+    .label = Avanserte innstillinger
+preferences-doh-advanced-section =
+    .label = Avanserte innstillinger
+    .description = Domain Name System over HTTPS (DoH) krypterer nettstedsoppslag slik at det blir vanskeligere for internettleverandøren din eller andre å se hvilke nettsteder du er i ferd med å besøke.
+preferences-doh-manage-exceptions2 =
+    .label = Behandle unntak
+    .accesskey = h
+preferences-doh-radio-default =
+    .label = Standard
+    .description = Bruk sikker DNS i områder der det er tilgjengelig.
+preferences-doh-radio-custom =
+    .label = Tilpasset
+    .description = Bruk alltid sikker DNS med kontroll over leverandør og reserveatferd.
+preferences-doh-radio-off =
+    .label = Av
+    .description = Bruk standard DNS-oppslagstjeneste.
+preferences-doh-status-item-off =
+    .message = DNS-over-HTTPS er av
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS-over-HTTPS fungerer ikke fordi det oppsto en feil ({ $reason }) da vi forsøkte å bruke leverandøren { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS-over-HTTPS fungerer ikke fordi vi mottok en ugyldig URL ({ $reason })
 
 ## The following strings are used in the Download section of settings
 
