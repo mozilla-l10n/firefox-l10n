@@ -914,7 +914,7 @@ home-custom-homepage-bookmarks-button =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header2 = Wobsah { -firefox-home-brand-name }
+home-prefs-content-header2 = { -firefox-home-brand-name } - Wobsah
 home-prefs-content-description2 = Wubjerće, kotry wobsah chceće na swojej j wobrazowce { -firefox-home-brand-name } měć.
 home-prefs-search-header =
     .label = Webpytanje

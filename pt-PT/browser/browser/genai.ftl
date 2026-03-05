@@ -245,12 +245,18 @@ link-preview-settings-button =
 link-preview-settings-enable =
     .label = Ativar pré-visualizações de ligações
     .description = Veja o título, descrição e mais informações da página quando utiliza um atalho ou utiliza menu de contexto numa ligação.
+link-preview-settings-key-points =
+    .label = Permitir que a IA leia o início da página e crie pontos-chave
 link-preview-settings-long-press =
     .label = Atalho: clique e mantenha a ligação pressionada durante 1 segundo (toque longo)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Ver mais com a IA?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = O { -brand-short-name } utiliza IA para ler o início da página e gerar alguns pontos-chave. Para priorizar a sua privacidade, isto acontece no seu dispositivo.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novo: clique e aguarde em qualquer ligação para uma pré-visualização
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Veja uma descrição curta, tempo de leitura, entre outros, para decidir se a ligação merece ser aberta. Também disponível ao clicar com o botão direito do rato.
 # Header for the key points section
 link-preview-key-points-header = Pontos chave
 # Disclaimer for AI-generated key points
@@ -258,6 +264,8 @@ link-preview-key-points-disclaimer = Os pontos chave são gerados pela IA e pode
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Primeira configuração • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Vai ver os pontos-chave mais rapidamente da próxima vez.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Ver uma pré-visualização
 # Onboarding card Close button

@@ -160,6 +160,7 @@ sidebar-button-callout-title = Mostrar títulos de separadores na barra lateral
 sidebar-button-callout-subtitle = Utilize o botão da barra lateral para expandir a barra lateral, de modo a que possa ver os títulos dos separadores.
 sidebar-button-callout-vertical-tabs = Para mostrar os seus separadores, selecione o botão da barra lateral na barra de ferramentas.
 sidebar-deprecation-callout-title = Brevemente, uma barra lateral atualizada
+sidebar-deprecation-callout-subtitle = Estamos a eliminar a versão da barra lateral que está a utilizar neste momento. Experimente a barra lateral atualizada. É mais rápida e tem acesso a mais ferramentas.
 sidebar-deprecation-cta-button = Experimentar agora
 
 ## Sidebar Vertical Tabs Strings
@@ -230,6 +231,7 @@ splitview-onboarding-callout-title-1 = Vista dividida: uma forma melhor de reali
 splitview-onboarding-callout-subtitle-1 = Clique com o botão direito do rato neste separador e escolha “Adicionar vista dividida” para ver dois separadores em simultâneo.
 splitview-onboarding-callout-cta-1 = Experimentar agora
 splitview-onboarding-callout-title-2 = Veja dois separadores em simultâneo com a vista dividida
+splitview-onboarding-callout-subtitle-2 = Sem janelas extra. Sem inversão de separadores. Clique com o botão direito neste separador e escolha “Adicionar vista dividida”.
 splitview-onboarding-callout-cta-2 = Experimente a vista dividida
 unified-search-callout-title = Alternar entre motores de pesquisa
 unified-search-callout-subtitle = Escolha o que funciona melhor para a sua pesquisa específica.
