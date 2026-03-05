@@ -60,6 +60,8 @@ settings-data-backup-scheduled-backups-on-restore-description = Obnovite svoje {
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovi …
 settings-data-toggle-encryption-label = Varnostno kopiraj občutljive podatke
 settings-data-toggle-encryption-support-link = Več o tem
+settings-data-change-password2 =
+    .label = Spremeni geslo
 settings-data-change-password = Spremeni geslo …
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -100,6 +102,9 @@ turn-off-scheduled-backups-confirm-button = Izklopi in izbriši varnostne kopije
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Obnovite podatke
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Kaj bo obnovljeno?
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
