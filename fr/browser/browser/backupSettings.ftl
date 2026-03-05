@@ -44,7 +44,7 @@ settings-data-backup-last-backup-date = Dernière sauvegarde : { DATETIME($date
 settings-data-backup-scheduled-backups-on2 =
     .label = La sauvegarde est ACTIVÉE
 settings-data-backup-scheduled-backups-off2 =
-    .label = La sauvegarde est désactivée
+    .label = La sauvegarde est DÉSACTIVÉE
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Emplacement de sauvegarde
@@ -143,7 +143,7 @@ restore-from-backup-type-replace =
     .label = Remplacer toutes les données par cette sauvegarde
 restore-from-backup-type-add =
     .label = Conserver les données et créer un nouveau profil
-restore-from-backup-profiles-disabled-message = Cela remplacera toutes vos données { -brand-short-name } actuelles par vos sauvegardes.
+restore-from-backup-profiles-disabled-message = Toutes les données actuelles de { -brand-short-name } seront remplacées par votre sauvegarde.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -273,11 +273,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata = { $profileName } Créé le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } le { $machineName }
+backup-file-creation-metadata = { $profileName } créé le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sur { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Restauré par { $deviceName } le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } à { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Restauré depuis { $deviceName } le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } à { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
