@@ -2442,6 +2442,7 @@ preferences-ai-controls-block-confirmation-confirm =
 security-privacy-status-ok-label = Utvidet sporingsbeskyttelse er på
 security-privacy-status-problem-label = Vi fant innstillinger som påvirker beskyttelsen din
 security-privacy-status-problem-helper-label = Vis problemer
+security-privacy-status-pending-trackers-label = Ser på hvor mange sporere som { -brand-short-name } har blokkert den siste måneden
 
 ## Enhanced Tracking Protection (ETP) status section
 
@@ -2466,9 +2467,27 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-third-party-cookies =
+    .label = Tredjeparts-infokapsler er aktivert
+    .description = Tredjeparts-infokapsler brukes til å spore deg på tvers av nettsteder.
+security-privacy-issue-warning-password-manager =
+    .label = Passordbehandling er deaktivert
+    .description = Passordbehandlere hjelper deg med å lagre sterke passord for dine kontoer.
+security-privacy-issue-warning-popup-blocker =
+    .label = Sprettoppvindu-blokkering er deaktivert
+    .description = Sprettoppvinduer er forstyrrende og kan være skadelige.
+security-privacy-issue-warning-extension-install =
+    .label = Nettsteder kan installere utvidelser
+    .description = Nettsteder kan installere utvidelser i { -brand-short-name } uten å spørre.
+security-privacy-issue-warning-safe-browsing =
+    .label = Farlig og villedende innhold blokkeres ikke
+    .description = Risikoen for svindel og skadevare fra nettsteder øker.
 security-privacy-issue-warning-doh =
     .label = DNS-over-HTTPS er deaktivert
     .description = DNS-over-HTTPS skjuler hvilke nettsteder du besøker for nettverksleverandøren din.
 security-privacy-issue-warning-ech =
     .label = Encrypted Client Hello er deaktivert
     .description = Encrypted Client Hello skjuler hvilke nettsteder du besøker for nettverksleverandøren din.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Automatisk proxykonfigurasjon er aktivert
+    .description = Automatisk proxykonfigurasjon kan gjøre det mulig for upålitelige nettverk å overvåke aktiviteten din.
