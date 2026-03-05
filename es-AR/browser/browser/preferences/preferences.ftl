@@ -2302,6 +2302,13 @@ preferences-doh-fallback-label =
     .label = Avisarme siempre si el DNS seguro no está disponible
 preferences-doh-select-resolver-label =
     .label = Seleccionar proveedor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Usar este proveedor para resolver DNS sobre HTTPS
+preferences-doh-header2 =
+    .heading = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2370,6 +2377,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } está en guardia
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } recomienda algunas mejoras de seguridad
+security-privacy-status-ok-label = Protección contra rastreo aumentada activada
 security-privacy-status-update-button-label =
     .label = Actualizar { -brand-short-name }
 security-privacy-image-warning =
