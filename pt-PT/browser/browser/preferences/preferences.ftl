@@ -1931,3 +1931,12 @@ preferences-ai-controls-block-confirmation-sidebar-chatbot = Fornecedores de Cha
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Está disponível uma nova versão do { -brand-short-name }.
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Proteção melhorada contra a monitorização
+    .description = Os sites utilizam rastreadores que seguem o que você faz online e para mostrar anúncios intrusivos. O { -brand-short-name } garante a sua proteção enquanto navega, bloqueando automaticamente os rastreadores para que mantenha o controlo do seu rasto digital.
+preferences-etp-advanced-settings-group =
+    .label = Definições avançadas
+    .description = Os sites utilizam rastreadores que seguem o que você faz online e para mostrar anúncios intrusivos. O { -brand-short-name } garante a sua proteção enquanto navega, bloqueando automaticamente a maioria dos rastreadores para que mantenha o controlo do seu rasto digital.

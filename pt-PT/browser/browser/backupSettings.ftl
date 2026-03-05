@@ -22,6 +22,9 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Copia_de_seguranca_{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Cópia de segurança
+    .description = Proteja automaticamente seus marcadores, histórico e outros dados.
 settings-data-backup-header = Cópia de segurança
 settings-data-backup-toggle = Gerir cópia de segurança
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,28 @@ settings-data-backup-scheduled-backups-on = Cópia de segurança: ATIVADA
 settings-data-backup-scheduled-backups-off = Cópia de segurança: DESATIVADA
 settings-data-backup-scheduled-backups-description = Proteja automaticamente os seus marcadores, histórico e outros dados. <a data-l10n-name="support-link">Saber mais</a>
 settings-data-backup-last-backup-date = Última cópia de segurança: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = A cópia de segurança está ATIVADA
+settings-data-backup-scheduled-backups-off2 =
+    .label = A cópia de segurança está DESATIVADA
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Localização da cópia de segurança
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Localização
 settings-data-backup-last-backup-location-show-in-folder = Mostrar na pasta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Ocorreu um erro ao criar a sua cópia de segurança em { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Faça uma cópia das suas palavras-passe e métodos de pagamento, além de manter todos os seus dados seguros com encriptação.
+settings-data-toggle-encryption-label2 =
+    .label = Fazer uma cópia dos seus dados sensíveis
+    .description = Faça uma cópia de segurança das suas palavras-passe e métodos de pagamento, além de manter todos os seus dados seguros com encriptação.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nome do ficheiro: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaurar os seus dados
+    .description = Recupere novamente os seus dados do { -brand-product-name } a partir da última cópia de segurança.
 settings-data-backup-restore-header = Restaurar os seus dados
 
 ## These strings are shown under the header if scheduled backups are disabled.
