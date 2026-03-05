@@ -2334,6 +2334,8 @@ preferences-doh-radio-custom =
 preferences-doh-radio-off =
     .label = Av
     .description = Bruk standard DNS-oppslagstjeneste.
+preferences-doh-fallback-label =
+    .label = Gi meg alltid en advarsel hvis sikker DNS ikke er tilgjengelig
 preferences-doh-status-item-off =
     .message = DNS-over-HTTPS er av
 # Variables:
@@ -2345,6 +2347,30 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = DNS-over-HTTPS fungerer ikke fordi vi mottok en ugyldig URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS-over-HTTPS bruker leverandøren { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS-over-HTTPS fungerer ikke fordi det oppsto en feil ({ $reason }) da vi forsøkte å bruke den lokale leverandøren { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS-over-HTTPS bruker den lokale leverandøren { $name }
+preferences-doh-select-resolver-label =
+    .label = Velg leverandør:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Bruk denne leverandøren for DNS-over-HTTPS-oppslag
+preferences-doh-custom-provider-label =
+    .aria-label = Skriv inn en egendefinert leverandør-URL
+preferences-doh-header2 =
+    .heading = DNS-over-HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2410,3 +2436,39 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokker
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = Utvidet sporingsbeskyttelse er på
+security-privacy-status-problem-label = Vi fant innstillinger som påvirker beskyttelsen din
+security-privacy-status-problem-helper-label = Vis problemer
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = Infokapsler
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Infokapsler
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Tillat alle infokapsler
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sporings-innhold
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sporings-innhold
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kryptoutvinnere
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Kjente nettleseravtrykksporere
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Mistenkt nettleseravtrykksporere
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Mistenkt nettleseravtrykksporere
+
+## Warnings section
+
+security-privacy-issue-warning-doh =
+    .label = DNS-over-HTTPS er deaktivert
+    .description = DNS-over-HTTPS skjuler hvilke nettsteder du besøker for nettverksleverandøren din.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello er deaktivert
+    .description = Encrypted Client Hello skjuler hvilke nettsteder du besøker for nettverksleverandøren din.
