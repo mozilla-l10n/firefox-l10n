@@ -2443,9 +2443,65 @@ security-privacy-status-ok-label = Utvidet sporingsbeskyttelse er på
 security-privacy-status-problem-label = Vi fant innstillinger som påvirker beskyttelsen din
 security-privacy-status-problem-helper-label = Vis problemer
 security-privacy-status-pending-trackers-label = Ser på hvor mange sporere som { -brand-short-name } har blokkert den siste måneden
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } sporer blokkert den siste måneden
+       *[other] { $trackerCount } sporere blokkert den siste måneden
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Du har <a data-l10n-name="strict-tracking-protection">streng beskyttelse</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Du har <a data-l10n-name="custom-tracking-protection">tilpasset beskyttelse</a>
+security-privacy-status-up-to-date-label = Du har den nyeste og sikreste versjonen av { -brand-short-name }
+security-privacy-status-update-needed-label = En ny versjon av { -brand-short-name } er tilgjengelig.
+security-privacy-status-update-error-label = { -brand-short-name } har problemer med å oppdatere seg selv
+security-privacy-status-update-checking-label = { -brand-short-name } ser etter oppdateringer
+security-privacy-status-update-needed-description = Oppdater for de nyeste forbedringene i hastighet, stabilitet og sikkerhet.
+security-privacy-status-update-button-label =
+    .label = Oppdater { -brand-short-name }
+security-privacy-issue-card =
+    .heading = Sikkerhetsadvarsler
+issue-card-reset-button =
+    .label = Tilbakestill
+issue-card-dismiss-button =
+    .tooltiptext = Ignorer
+    .aria-label = Ignorer
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Avanserte innstillinger
+preferences-etp-header =
+    .heading = Utvidet sporingsbeskyttelse
+preferences-etp-advanced-settings-group =
+    .label = Utvidet sporingsbeskyttelse
+    .description = Nettsteder bruker sporere for å følge deg på nettet og vise påtrengende annonser. { -brand-short-name } beskytter deg mens du surfer ved å blokkere sporere automatisk, slik at du har kontroll over de digitale sporene dine.
+preferences-etp-customize-button =
+    .label = Tilpass sporingsbeskyttelse
+preferences-etp-reload-tabs-hint =
+    .message = Last inn fanene dine på nytt for å bruke disse endringene.
+preferences-etp-reload-tabs-hint-button =
+    .label = Last inn alle fanene på nytt
+preferences-etp-rfp-warning-message =
+    .message = Du bruker Resist Fingerprinting (RFP), som erstatter noen av { -brand-short-name } sine beskyttelsesinnstillinger for nettleseravtrykk. Dette kan føre til at enkelte nettsteder ikke vil fungere.
+preferences-etp-level-warning-message =
+    .heading = Obs! Noen nettsteder fungerer kanskje ikke som forventet.
+    .message = Noen nettsteder bygger sporere inn i funksjonene eller innholdet sitt. Når { -brand-short-name } blokkerer dem, kan nettstedet se ødelagt ut. Prøv å bruke «Fiks nettstedsproblem» eller slå av sporingsbeskyttelse for det nettstedet.
+preferences-etp-customize-header =
+    .heading = Tilpass sporingsbeskyttelse
+preferences-etp-reset =
+    .label = Tilbakestill tilpasninger
+    .description = Gjenopprett innstillinger til et forhåndsdefinert beskyttelsesnivå.
+preferences-etp-reset-standard-button =
+    .label = Tilbakestill til standard
+preferences-etp-reset-strict-button =
+    .label = Tilbakestill til streng
+preferences-etp-custom-control-group =
+    .label = Sporingsbeskyttelse
+    .description = Velg hvilke beskyttelser som skal slås på eller av.
 preferences-etp-custom-cookies-enabled =
     .label = Infokapsler
 preferences-etp-custom-cookie-behavior =
@@ -2467,6 +2523,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Kjente nettleseravtrykksporere blokkeres ikke
+    .description = Dette kan gjøre det mulig for noen sporere å følge deg uten infokapsler.
 security-privacy-issue-warning-third-party-cookies =
     .label = Tredjeparts-infokapsler er aktivert
     .description = Tredjeparts-infokapsler brukes til å spore deg på tvers av nettsteder.
