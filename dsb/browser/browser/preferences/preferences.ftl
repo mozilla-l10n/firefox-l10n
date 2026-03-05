@@ -2264,6 +2264,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS pśez HTTPS
+dns-over-https-group2 =
+    .label = DNS pśez HTTPS
+    .description = Domain Name System pśez HTTPS (DoH) sedłowe pytanje koděrujo, tak jo śěžčej za wašogo internetnego póbitowarja abo drugich wiźeś, ku kótarym websedłam se woglědujośo.
 preferences-doh-description = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, napórajo wěsty DNS a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 preferences-doh-description2 = System domenowych mjenjow (DNS) pśez HTTPS waše napšašowanje za domenowym mjenim pśez skoděrowane zwisk sćelo, staja wěsty DNS k dispoziciji a póśěžujo drugim wósobam wiźeś, ku kótarym websedłam se wóglědujośo.
 # Variables:
@@ -2330,6 +2333,9 @@ preferences-doh-overview-off =
     .description = Wužywajśo swój standardny resolver DNS.
 preferences-doh-advanced-button =
     .label = Rozšyrjone nastajenja
+preferences-doh-advanced-section =
+    .label = Rozšyrjone nastajenja
+    .description = Domain Name System pśez HTTPS (DoH) sedłowe pytanja koděrujo, tak jo śěžčej za wašogo internetnego póbitowarja abo druhich wiźeś, ku kótarym websydłam se woglědujośo.
 preferences-doh-manage-exceptions2 =
     .label = Wuwześa zastojaś
     .accesskey = u
@@ -2338,6 +2344,15 @@ preferences-doh-radio-default =
     .description = Wužywajśo wěsty DNS w regionach, źož jo k dispoziciji.
 preferences-doh-status-item-off =
     .message = DNS pśez HTTPS jo znjemóžnjony
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS pśez HTTPS njefunkcioněrujo, dokulaž smy na zmólku starcyli ({ $reason }), mjaztym až wopytujośo, póbitowarja { $name } wužywaś
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS pśez HTTPS njefunkcioněrujo, dokulaž smy njepłaśiwy URL dostali ({ $reason })
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
