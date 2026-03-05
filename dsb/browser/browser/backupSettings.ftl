@@ -22,6 +22,9 @@ backup-folder-name = { -brand-product-name } wótnowiś
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Zawěsćenje { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Zawěsćenje
+    .description = Šćitajśo awtomatiski swóje cytańske znamjenja, historiju a druge daty.
 settings-data-backup-header = Zawěsćenje
 settings-data-backup-toggle = Zawěsćenje zastojaś
 settings-data-backup-toggle-on2 =
