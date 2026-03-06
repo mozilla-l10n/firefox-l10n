@@ -865,6 +865,9 @@ urlbar-result-menu-dont-show-market =
     .label = Na seall molaidhean na margaide
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = Mòran taing airson do bheachdan. Cha mhol sinn fiosrachadh nam margaidean dhut tuilleadh.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = Molaidhean o mhargaid nan stocan
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = Mòran taing airson do bheachdan. Cha mhol sinn stuth dhut tuilleadh.
@@ -950,9 +953,16 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Dèan lorg leis na leanas an turas seo:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Lorg le:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = Lorg le:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Roghainnean luirg
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
@@ -966,6 +976,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
     .tooltiptext = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = Tha lorg le briathran-luirg à comas
+    .tooltiptext = Tha lorg le briathran-luirg à comas
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1187,6 +1201,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Uinneag phrìobhaideach ùr
     .tooltiptext = Fosgail uinneag brabhsaidh phrìobhaideach ùr ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Co-roinn
+    .tooltiptext = Co-roinn an duilleag seo
 
 ## EME notification panel
 
@@ -1206,6 +1223,9 @@ panel-save-update-password = Facal-faire
 # "More" item in macOS share menu
 menu-share-more =
     .label = Barrachd…
+menu-share-copy-link =
+    .label = Dèan lethbhreac dhen cheangal
+    .accesskey = D
 ui-tour-info-panel-close =
     .tooltiptext = Dùin
 
@@ -1218,6 +1238,9 @@ popups-infobar-allow =
 popups-infobar-block =
     .label = Cuir bacadh air priob-uinneagan o { $uriHost }
     .accesskey = p
+popups-infobar-allow2 =
+    .label = Ceadaich priob-uinneagan is ath-stiùireadh le treas-phàrtaidhean airson { $uriHost }
+    .accesskey = C
 
 ##
 
@@ -1253,6 +1276,8 @@ navbar-accessible =
     .aria-label = Seòladaireachd
 navbar-downloads =
     .label = Luchdaidhean a-nuas
+navbar-overflow-2 =
+    .tooltiptext = Barrachd innealan
 navbar-overflow =
     .tooltiptext = Barrachd innealan…
 # Variables:
@@ -1278,6 +1303,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Liostaich gach taba
     .tooltiptext = Liostaich gach taba
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = Leig taba às an-seo airson a phrìneachadh
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1383,6 +1412,15 @@ popup-notification-addon-install-unsigned =
     .value = (Gun dearbhadh)
 popup-notification-xpinstall-prompt-learn-more = Barrachd fiosrachaidh mu stàladh tèarainte de thuilleadain
 popup-notification-xpinstall-prompt-block-url = Faic am mion-fhiosrachadh
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = Leig leis an leudachan ruith ann an uinneagan prìobhaideach
+    .accesskey = L
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = Dàta teicnigeach is dàta mu eadar-ghabhail a cho-roinneadh le luchd-leasachaidh an leudachain
+    .accesskey = D
 
 ## Pop-up warning
 
