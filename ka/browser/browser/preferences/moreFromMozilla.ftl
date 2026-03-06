@@ -37,7 +37,7 @@ more-from-moz-mozilla-monitor-button = გამოიყენეთ { -monitor
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-title = { -solo-ai-brand-name } AI
-more-from-moz-solo-description = შექმენით თქვენი ვებსაიტი მყისიერად და დააკავშირეთ საკუთარ დომენთან უფასოდ.
+more-from-moz-solo-description = შექმენით თქვენი ვებსაიტი მყისიერად და დააკავშირეთ საკუთარ სამისამართო ჯგუფთან უფასოდ.
 more-from-moz-solo-button = გამოცადეთ { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } – ვებსაიტის შემდგენელი ხელგო.
 

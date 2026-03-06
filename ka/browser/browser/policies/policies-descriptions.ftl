@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = მიუთითეთ დებულებები, რომ WebExtension-ებს შეეძლოს chrome.storage.managed-ით წვდომა.
-policy-AllowedDomainsForApps = განსაზღვრა დომენებისა, რომელთაც წვდომა ექნება Google Workspace-სთან.
+policy-AllowedDomainsForApps = განსაზღვრა სამისამართო ჯგუფებისა, რომელთა წვდომასაც დაუშვებს Google Workspace.
 policy-AllowFileSelectionDialogs = ფაილის შერჩევის ფანჯრების ნებართვა.
 policy-AppAutoUpdate = ჩართვა ან გამორთვა, აპლიკაციის თვითგანახლების.
 policy-AppUpdatePin = არ განახლდეს { -brand-short-name } მითითებული ვერსიის გარდა.
