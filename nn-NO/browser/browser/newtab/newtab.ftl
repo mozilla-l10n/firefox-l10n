@@ -636,6 +636,8 @@ newtab-report-cancel = Avbryt
 newtab-report-submit = Send inn
 newtab-toast-thanks-for-reporting =
     .message = Takk for at du rapporterte dette.
+newtab-toast-widgets-hidden =
+    .message = Vel blyantikonet for å leggje til widgetar igjen, når som helst.
 
 ## Strings for task / to-do list productivity widget
 
