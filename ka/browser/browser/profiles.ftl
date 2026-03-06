@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = თქვენი { $profilename } მზადაა მოსარგებად
 copied-profile-page-header-description = თქვენი მონაცემებისა და პარამეტრების ასლები გადმოტანილია ახალ პროფილში. დროა, დაარქვათ რამე, შეარჩიეთ იერსახე და გახადოთ მეტად თქვენებური.
+restored-profile-page-header-description = თითოეული პროფილი გვერდების ისტორიასა და პარამეტრებს სხვა პროფილებისგან განცალკევებით ინახავს. ამასთანავე, { -brand-short-name } ნაგულისხმევად იყენებს პირადულობის მძლავრ დაცვას.
 profile-window-title-2 = { -brand-short-name } – პროფილის არჩევა
 profile-window-logo =
     .alt = { -brand-short-name } – ლოგო

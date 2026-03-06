@@ -1612,8 +1612,10 @@ history-remember-label = { -brand-short-name } მონაცემებს
 history-remember-option-all =
     .label = ყოველთვის დაიმახსოვრებს
 history-remember-option-never2 =
-    .label = არასოდეს დაიმახსოვრებს ისტორიას
-    .description = ყველა ფანჯარა იმოქმედებს პირადი ფანჯრების მსგავსად. როცა ჩართულია, გაფართოებები საჭიროებს ნებართვის მიცემას.
+    .label = არასოდეს დაიმახსოვრებს
+    .description = ყველა ფანჯარა იმოქმედებს პირადი ფანჯრების მსგავსად. როცა ჩართულია, გაფართოებები საჭიროებს ნების დართვას.
+history-remember-option-custom2 =
+    .label = დაიმახსოვრებს შერჩეულს
 history-remember-option-never =
     .label = არასოდეს დაიმახსოვრებს
 history-remember-option-custom =
@@ -1668,6 +1670,8 @@ history-custom-button =
     .label = აირჩიეთ სურვილისამებრ, თუ რას დაიმახსოვრებს { -brand-short-name }
 history-group =
     .label = ისტორია
+history-remember-option-all2 =
+    .label = დაიმახსოვრებს ისტორიას
 
 ## Privacy Section - Site Data
 
