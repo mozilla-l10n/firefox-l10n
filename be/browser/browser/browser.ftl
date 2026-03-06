@@ -568,6 +568,9 @@ browser-window-restore-down-button =
     .tooltiptext = Згарнуць у акно
 browser-window-close-button =
     .tooltiptext = Закрыць
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Вярнуцца
 
 ## Tab actions
 
@@ -1191,6 +1194,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Новае прыватнае акно
     .tooltiptext = Адкрыць новае акно для прыватнага аглядання ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Падзяліцца
+    .tooltiptext = Падзяліцца гэтай старонкай
 
 ## EME notification panel
 

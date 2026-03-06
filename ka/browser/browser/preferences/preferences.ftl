@@ -790,6 +790,13 @@ network-proxy-connection-learn-more = ვრცლად
 network-proxy-connection-settings =
     .label = პარამეტრები…
     .accesskey = პ
+network-proxy-group2 =
+    .label = შუამავლის პარამეტრები
+    .description = გამართეთ, როგორ დაუკავშირდეს { -brand-short-name } ქსელს.
+network-proxy-connection-settings2 =
+    .label = გამართეთ ქსელის შუამავალი
+    .description = ამ პარამეტრების ცვლილებამ შეიძლება შეაფერხოს კავშირი.
+    .accesskey = უ
 
 ## Home Section
 
