@@ -1772,6 +1772,10 @@ sitedata-heading =
 sitedata-settings3 =
     .label = Borrar datos para sitios específicos
     .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Administrar excepciones
+    .accesskey = x
+    .description = Seleccionar como sitios específicos manejan cookies y datos de sitio.
 cookies-site-data-group =
     .label = Cookies y datos del sitio
 

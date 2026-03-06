@@ -2043,6 +2043,9 @@ permissions-speaker2 =
     .label = Høgtalar
 permissions-notification2 =
     .label = Varsel
+permissions-header3 =
+    .label = Løyve
+    .description = Handsam kva nettstader kan få tilgang til, styre eller utløyse.
 
 ## Privacy Section - Data Collection
 

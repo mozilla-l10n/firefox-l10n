@@ -22,6 +22,9 @@ backup-folder-name = Gjenopprett { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-sikkerheitskopi
+settings-data-backup-header2 =
+    .label = Sikkerheitskopi
+    .description = Beskytt bokmerka, historikken og andre data automatisk.
 settings-data-backup-header = Sikkerheitskopiering
 settings-data-backup-toggle = Handsam sikkerheitskopiering
 settings-data-backup-toggle-on2 =
