@@ -2274,7 +2274,7 @@ choose-download-folder-title = ჩამოტვირთვების სა
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = ყოველთვის გაძლევთ { -brand-short-name } არჩევანის უფლებას, მათ შორის ხელოვნური ინტელექტის შესაძლებლობებით სარგებლობის შემთხვევაშიც. მართვის სხვა საშუალებებიც მალე დაემატება.
+preferences-ai-controls-description = ყოველთვის გაძლევთ { -brand-short-name } არჩევანის უფლებას, მათ შორის ხელოვნური გონის შესაძლებლობებით სარგებლობის შემთხვევაშიც. მართვის სხვა საშუალებებიც მალე დაემატება.
 preferences-ai-controls-block-ai-label = შეიზღუდოს AI-შესაძლებლობები?
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
