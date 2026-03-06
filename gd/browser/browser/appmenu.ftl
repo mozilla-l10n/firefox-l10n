@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Cùm am fìor-phost-d is am fìor-fhòn agad am falach
 appmenuitem-services-relay-description = Cuir gu dol deas-bhòrd masgan a’ phuist-d
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Faigh dìon dhan uidheam air fad
 appmenuitem-vpn-description = Dìon do ghnìomhachd air loidhne
 appmenu-services-header = Na seirbheisean agam
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
