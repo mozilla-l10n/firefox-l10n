@@ -154,6 +154,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Fosgail panail iarrtasan an ionaid
 urlbar-localhost-notification-anchor =
     .tooltiptext = Stiùirich cead-inntrigeadh uidheaman ionadail dhan làrach
+urlbar-local-network-notification-anchor =
+    .tooltiptext = Stiùirich co-roinneadh inntrigeadh dhan lìonra ionadail agad leis an làrach
 urlbar-xr-notification-anchor =
     .tooltiptext = Cleachd panail ceadan na fìorachd bhiortail
 urlbar-storage-access-anchor =
@@ -209,6 +211,26 @@ urlbar-result-menu-learn-more-about-firefox-suggest =
 urlbar-result-menu-manage-firefox-suggest =
     .label = Stiùirich { -firefox-suggest-brand-name }
     .accesskey = S
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = Dèan aithris air ionad a tha ceàrr
+urlbar-result-menu-show-less-frequently =
+    .label = Na seall cho tric
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = Na seall aimsir a mholamaid
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = Fosgail an clàr-taice
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = Mòran taing airson do bheachdan a chur thugainn
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = Mòran taing airson do bheachdan. Cha mhol sinn aimsir dhut tuilleadh.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -234,6 +256,10 @@ urlbar-search-mode-actions = Gnìomhan
 
 urlbar-geolocation-blocked =
     .tooltiptext = Bhac thu fiosrachadh mun ionad agad air an làrach-lìn seo.
+urlbar-localhost-blocked =
+    .tooltiptext = Bhac thu ceanglaichean ri uidheaman ionadail on làrach-lìn seo.
+urlbar-local-network-blocked =
+    .tooltiptext = Bhac thu ceanglaichean ris an lìonra ionadail on làrach-lìn seo.
 urlbar-xr-blocked =
     .tooltiptext = Bhac thu inntrigeadh do dh’uidheaman na fìorachd bhiortail air an làrach-lìn seo.
 urlbar-web-notifications-blocked =
