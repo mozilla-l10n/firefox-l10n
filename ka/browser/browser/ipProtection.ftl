@@ -32,6 +32,15 @@ ipprotection-feature-introduction-button-secondary-not-now = ახლა არ
 ## IP Protection Settings
 
 ip-protection-not-opted-in-button = დაიწყეთ
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = ვებსაიტის პარამეტრების მართვა
+    .description =
+        { $count ->
+            [one] { $count } ვებსაიტი
+           *[other] { $count } ვებსაიტი
+        }
 ip-protection-autostart =
     .label = თავისთავად ჩაირთოს VPN
 ip-protection-autostart-checkbox =
