@@ -151,6 +151,7 @@ restore-from-backup-type-replace =
     .label = Cuir an lethbhreac-glèidhidh an àite an dàta seo air fad
 restore-from-backup-type-add =
     .label = Cùm an dàta ’s cruthaich pròifil ùr
+restore-from-backup-profiles-disabled-message = Cuiridh seo an lethbhreac-glèidhidh an àite an dàta { -brand-short-name } air fad agad.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -219,6 +220,43 @@ password-rules-a11y-warning =
 ## These strings are displayed in a modal when users want to disable encryption for an existing backup.
 
 disable-backup-encryption-header = Thoir air falbh an dìon facail-fhaire
+disable-backup-encryption-description2 = Cha tèid lethbhreacan-glèidhidh dhe na faclan-faire is dòighean pàighidh agad a dhèanamh tuilleadh.
 disable-backup-encryption-support-link = Dè thèid lethbhreac-glèidhidh a dhèanamh dheth?
 disable-backup-encryption-cancel-button = Sguir dheth
 disable-backup-encryption-confirm-button = Thoir am facal-faire air falbh
+
+## These strings are used to tell users when errors occur when using
+## the backup system
+
+backup-error-password-requirements = Chan eil am facal-faire seo mar bu chòir. Feuch facal-faire eile.
+# This error message will be shown to the user when something went wrong with
+# the backup system but we do not have any more specific idea of what went
+# wrong. This message invites the user to try an action again because there
+# is a chance that the action will succeed if retried.
+backup-error-retry = Chaidh rudeigin ceàrr. Feuch ris a-rithist.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+backup-file-header = Tha { -brand-short-name } deiseil airson aiseag
+backup-file-title = Aisig { -brand-short-name }
+backup-file-intro = Till chun a’ bhrabhsaidh agad is aisig na comharran-lìn, an eachdraidh is dàta eile agad. <a data-l10n-name="backup-file-support-link">Barrachd fiosrachaidh</a>
+backup-file-path-label = Faidhle lethbhric-ghlèidhidh:
+backup-file-encryption-state-label = Crioptaichte:
+backup-file-encryption-state-value-encrypted = Tha
+backup-file-encryption-state-value-not-encrypted = Chan eil
+backup-file-creation-device-label = An t-uidheam:
+backup-file-creation-date-label = Air a chruthachadh:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Mar a nì thu aiseag:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Fosgail clàr-taice na h-aplacaid ☰ is tadhail air “Roghainnean” » “Sioncronachadh”
+backup-file-moz-browser-restore-step-2 = Briog air ”Tagh faidhle lethbhric-ghlèidhidh” is tagh am faidhle seo
+backup-file-moz-browser-restore-step-3 = Ath-thòisich { -brand-short-name } nuair a thèid seo iarraidh ort
+backup-file-other-browser-restore-step-1 = Luchdaich a-nuas is stàlaich { -brand-short-name }
+backup-file-download-moz-browser-button = Luchdaich a-nuas
