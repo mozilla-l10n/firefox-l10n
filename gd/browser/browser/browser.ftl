@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] Brabhsadh prìobhaideach – { -brand-full-name }
        *[other] Brabhsadh prìobhaideach { -brand-full-name }
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = Brabhsadh prìobhaideach
 
 ##
 

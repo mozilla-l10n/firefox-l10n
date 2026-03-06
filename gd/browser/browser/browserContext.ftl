@@ -130,6 +130,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Fosgail an ceangal ann an taba ùr
     .accesskey = t
+main-context-menu-open-link-split-view =
+    .label = Fosgail an ceangal san t-sealladh sgoilte
+    .accesskey = o
 main-context-menu-open-link-container-tab =
     .label = Fosgail an ceangal ann an taba soithich ùr
     .accesskey = b
@@ -160,6 +163,9 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Dèan lethbhreac dhen cheangal
     .accesskey = l
+main-context-menu-preview-link =
+    .label = Ro-sheall an ceangal
+    .accesskey = R
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
@@ -267,6 +273,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Seall an tuairisgeul
     .accesskey = t
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = Lorg dealbh le { $engine }
+    .accesskey = e
 main-context-menu-video-save-as =
     .label = Sàbhail a' video mar…
     .accesskey = v
@@ -282,6 +293,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Cuir an fhuaim air a' phost-d…
     .accesskey = u
+main-context-menu-send-to-device-2 =
+    .label = Cuir gu uidheam
+    .accesskey = m
 main-context-menu-save-to-pocket =
     .label = Sàbhail an duilleag ann am { -pocket-brand-name }
     .accesskey = k
@@ -389,3 +403,5 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = Leig am facal-faire ris
     .accesskey = m
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = Ùr

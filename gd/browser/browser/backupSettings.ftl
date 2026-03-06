@@ -260,3 +260,38 @@ backup-file-moz-browser-restore-step-2 = Briog air ”Tagh faidhle lethbhric-ghl
 backup-file-moz-browser-restore-step-3 = Ath-thòisich { -brand-short-name } nuair a thèid seo iarraidh ort
 backup-file-other-browser-restore-step-1 = Luchdaich a-nuas is stàlaich { -brand-short-name }
 backup-file-download-moz-browser-button = Luchdaich a-nuas
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Tòisich { -brand-short-name }, fosgail clàr-taice na h-aplacaid ☰ is tadhail air “Roghainnean” » “Sioncronachadh”
+backup-file-other-browser-restore-step-3 = Briog air ”Tagh faidhle lethbhric-ghlèidhidh” is tagh am faidhle seo
+backup-file-other-browser-restore-step-4 = Ath-thòisich { -brand-short-name } nuair a thèid seo iarraidh ort
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>An aire:</b> Chaidh { $numberOfOtherBackupsFound } fhaidhle lethbhric-ghlèidhidh eile a lorg
+        [two] <b>An aire:</b> Chaidh { $numberOfOtherBackupsFound } fhaidhle lethbhric-ghlèidhidh eile a lorg
+        [few] <b>An aire:</b> Chaidh { $numberOfOtherBackupsFound } faidhlichean lethbhric-ghlèidhidh eile a lorg
+       *[other] <b>An aire:</b> Chaidh { $numberOfOtherBackupsFound } faidhle lethbhric-ghlèidhidh eile a lorg
+    }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Chaidh a chruthachadh { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } air { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Chaidh aiseag o { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } aig { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = Chaidh a chruthachadh { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } air { $machineName }
+backup-file-restore-file-validation-error = Chan eil am faidhle seo ag obair. Feuch is tagh faidhle eile. <a data-l10n-name="restore-problems">A bheil duilgheadasan agad fhathast?</a>
+restore-from-backup-filepicker-input =
+    .placeholder = Cha deach faidhle a thaghadh
